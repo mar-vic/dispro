@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from bs4 import UnicodeDammit
 
-def download_title(author="hugo", title="robotnici_mora", url="https://zlatyfond.sme.sk/dielo/5126/Hugo_Robotnici-mora-I-Sieur-Clubin/1"):
+def download_title(author, title, url):
     def get_all_chapters(url):
         """Generate a list of chapters of a book at given URL from zlaty fond"""
         response = requests.get(url)
@@ -31,43 +31,19 @@ def download_title(author="hugo", title="robotnici_mora", url="https://zlatyfond
         soup.body.append(chapter)
         
     # Create file with directories
-    filename = f"/home/marcus/Projects/korpus/data/zlaty_fond/{author}/{title}/{title}__zf.html"
+    filename = f"../data/{author}/{title}/{title}__zf.html"
     os.makedirs(os.path.dirname(filename), exist_ok=True)
 
     # Save the file
-    with open(f"/home/marcus/Projects/korpus/data/zlaty_fond/{author}/{title}/{title}__zf.html", "w", encoding="utf-8") as file:
+    with open(f"../data/{author}/{title}/{title}__zf.html", "w", encoding="utf-8") as file:
         file.write(str(soup.prettify()))
 
     print(f"\n~~Successfully downloaded '{title}' from {author}~~\n")
 
-    # response = requests.get(url)
-    # soup = BeautifulSoup(response.content, "html.parser")
-
-    # current_chapter_content = soup.find("div", class_="titlepage").parent
-    # current_chapter_title = current_chapter_content.find("div", class_="titlepage").h2.contents[1]
-    # # breakpoint()
-    # pagination = soup.select(".strankovanie a")
-    # next_chapter_anchor = [anchor for anchor in pagination if anchor.b.contents == ["nasledujúca kapitola »"]]
-    # next_chapter_url = None if len(next_chapter_anchor) == 0 else "https://zlatyfond.sme.sk" + next_chapter_anchor[0].attrs["href"]
-
-    # # Create file with directories
-    # filename = f"/home/marcus/Projects/korpus/data/zlaty_fond/{author}/{title}/{title}__kap{chapter}.html"
-    # os.makedirs(os.path.dirname(filename), exist_ok=True)
-
-    # # Save the file
-    # with open(f"/home/marcus/Projects/korpus/data/zlaty_fond/{author}/{title}/{title}__kap{chapter}.html", "w", encoding="utf-8") as file:
-    #     file.write(str(current_chapter_content.prettify()))
-
-    # print(f"Downloaded chapter {chapter} of {title}!")
-
-    # # breakpoint()
-    # if next_chapter_url:
-    #     download_title(author="hugo", title="robotnici_mora", chapter=chapter+1, url=next_chapter_url)
-
 def scrape_golden_fund():
     # response = requests.get("https://zlatyfond.sme.sk/autori")
     # soup = BeautifulSoup(response.content, "html.parser")
-    with open("../data/zlaty_fond/zoznam_autorov.html") as f:
+    with open("./zoznam_autorov.html") as f:
         soup = BeautifulSoup(f, "html.parser")
 
     # First, get the author spans
@@ -98,3 +74,7 @@ def scrape_golden_fund():
 
                 if user_input == '':
                     download_title(author=author["name"], title=title["name"], url=title["url"])
+
+def generate_index():
+    # soup = BeautifulSoup("<!DOCTYPE html><html lang='en'><body></body></html>")
+
