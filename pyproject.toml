@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "korpus-slovenskej-prozy"
+name = "dispro"
 version = "0.1.0"
 description = ""
 authors = ["Marek Vician <marc.vician@gmail.com>"]
 readme = "README.md"
-packages = [{include = "korpus_slovenskej_prozy"}]
+packages = [{include = "dispro"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"

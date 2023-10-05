@@ -1,1 +1,1 @@
-# Korpus-Slovenskej-Prozy
+# Digitálna zbierka slovenskej prózy
