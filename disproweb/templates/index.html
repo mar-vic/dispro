@@ -8,33 +8,83 @@
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="./static/css/style.css" rel="stylesheet">
+
   </head>
   <body>
     <main class="container">
-      <h1 class="fw-bold">
-        <img src="./static/images/dispro-logo-102x102.png">
-        Digitálna zbierka slovenskej prózy
-      </h1>
-      <span class="fs-4 fw-bold fst-italic text-muted">{{author_count}} autorov / {{title_count}} titulov</span>
-      {% for author in corpus %}
-      <article class="mt-5">
+      <header>
+        <h1 class="fw-bold">
+          <img src="./static/images/dispro-logo-102x102.png">
+          Digitálna zbierka slovenskej prózy
+        </h1>
+
+      <div class="fs-4 mb-4 fw-bold fst-italic text-muted">{{author_count}} autorov / {{title_count}} titulov</div>
+      </header>
+
+      <section class="mb-4">
         <header>
-          <h2 class="fw-bold">{{ author.0 }}</h2>
+          <h2 class="fw-bold">Index</h2>
         </header>
-        {% for title in author.1 %}
-        <section>
-          <h3>{{ title.0 }}</h3>
-          <ul>
-            {% for title_file in title.1 %}
-            <li>
-              <a href="{{ title_file }}">{{ title_file }}</a>
-            </li>
+
+        <nav class="row gx-3 gy-3">
+          {% for c in alphabet %}
+          {% if c in index %}
+          <div class="col-2">
+            <header>
+              <h3 class="fs-3 fw-bold">{{ c }}</h3>
+            </header>
+            <ul>
+              {% for author in index[c] %}
+              <li>
+                <a href="#{{author.2}}">{{author.0}}</a> ({{author.1}})
+              </li>
+              {% endfor %}
+            </ul>
+          </div> <!-- COL ENDS -->
+          {% endif %}
+          {% endfor %}
+        </nav> <!-- NAV ROW ENDS -->
+      </section>
+
+      <section>
+        <header>
+          <h2 class="fw-bold">Zbierka</h2>
+        </header>
+
+        {% for author in corpus %}
+        <article class="mb-5">
+
+          <header>
+            <h3 id="{{author.0.lower().replace(' ', '-')}}" class="fw-bold">{{ author.0 }}</h3>
+          </header>
+
+          <div class="row gx-2 gy-2">
+
+            {% for title in author.1 %}
+            <section class="col-3">
+              <div class="card h-100">
+                <div class="card-body">
+                  <h4 class="fs-5 card-title fw-bold">{{ title.0 }}</h4>
+                </div>
+                <ul class="list-group list-group-flush">
+                  {% for title_file in title.1 %}
+                  <li class="list-group-item">
+                    <a href="{{ title_file }}" class="">Fulltext (ver. ZH)</a>
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </section>
             {% endfor %}
-          </ul>
-        </section>
-      </article>
-      {% endfor %}
-      {% endfor %}
+
+          </div> <!-- END TITLE ROW -->
+
+        </article>
+
+        {% endfor %}
+      </section>
+
     </main>
 
     <!-- Bootstrap JS -->
