@@ -34,4 +34,4 @@ with open("../index.html", "w") as f:
                             title_count = total_title_count,
                             author_count=len(authors),
                             index=index,
-                            alphabet="abcdefghijklmnopqrstuvwxyz"))
+                            alphabet="aábcčdďeéfghiíjklľmnňoóôpqrsštťuúvwxyýzž"))

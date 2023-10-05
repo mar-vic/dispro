@@ -75,6 +75,22 @@ def scrape_golden_fund():
                 if user_input == '':
                     download_title(author=author["name"], title=title["name"], url=title["url"])
 
-def generate_index():
-    # soup = BeautifulSoup("<!DOCTYPE html><html lang='en'><body></body></html>")
+def scrape_golden_fund_author(id):
+    # response = requests.get("https://zlatyfond.sme.sk/autori")
+    # soup = BeautifulSoup(response.content, "html.parser")
+    with open("./zoznam_autorov.html") as f:
+        soup = BeautifulSoup(f, "html.parser")
 
+    # Get the list of books written by the author
+    author_span = soup.find(attrs={"name": "autor_" + str(id)})
+    if author_span:
+        author_container = author_span.parent.parent
+        name = author_container.b.contents[0]
+        titles = [{"name": anchor.contents[0],
+                   "url": anchor.attrs["href"] + "/1"}
+                  for anchor in author_container.ul.find_all("a")]
+        for title in titles:
+            download_title(name, title["name"], title["url"])
+    else:
+        print("There is no such author.")
+        return
