@@ -71,7 +71,7 @@
                 <ul class="list-group list-group-flush">
                   {% for title_file in title.1 %}
                   <li class="list-group-item">
-                    <a href="{{ title_file }}" class="">Fulltext (ver. ZH)</a>
+                    <a href="{{ title_file }}" class="">Fulltext</a> (verzia: <em>{{ title_file.split("__").1 }}</em>)
                   </li>
                   {% endfor %}
                 </ul>
