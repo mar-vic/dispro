@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="slo" xml:id="SLK{{ pub_year }}{{ ddigit }}">
+  <teiHeader>
+    <title{% if title_viaf %} ref="viaf:{{ book_viaf }}"{% endif %}>
+      {{ book_title }} : ELTeC edition
+    </title>
+    <author{% if author_viaf %} ref="viaf:{{ author_viaf }}"{% endif %}>
+      {{ author_last_name }}, {{ author_first_name }}{% if author_alter_name %} [{{ author_alter_name }}]{% endif %} ({{ author_birth_date }} - {{ author_death_date }})
+    </author>
+    <extent>
+      <measure unit="words">{{ wordcount }}</measure>
+      {% if pagecount_confirm %}<measure unit="pages">{{ pagecount }}</measure>{% endif %}
+      {% if volumecount_confirm %}<measure unit="vols">{{ volumecount }}</measure>{% endif %}
+    </extent>
+    <publicationStmt>
+      <p />
+    </publicationStmt>
+    <sourceDesc>
+      <bibl type="printSource">
+        <author{% if author_viaf %} ref="viaf:{{ author_viaf }}"{% endif %}>
+          {{ author_last_name }}, {{ author_first_name }}{% if author_alter_name %} [{{ author_alter_name }}]{% endif %} ({{ author_birth_date }} - {{ author_death_date }})
+        </author>
+        <title{% if title_viaf %} ref="viaf:{{ book_viaf }}"{% endif %}>
+          {{ book_title }}
+        </title>
+        <pubPlace>{{ printsrc_pub_place }}</pubPlace>
+        <publisher>{{ printsrc_publisher }}</publisher>
+        <date>{{ printsrc_pub_date }}</date>
+      </bibl>
+      {% if firsted_confirm %}
+      <bibl type="firstEdition">
+        <author{% if author_viaf %} ref="viaf:{{ author_viaf }}"{% endif %}>
+          {{ author_last_name }}, {{ author_first_name }}{% if author_alter_name %} [{{ author_alter_name }}]{% endif %} ({{ author_birth_date }} - {{ author_death_date }})
+        </author>
+        <title{% if title_viaf %} ref="viaf:{{ book_viaf }}"{% endif %}>
+          {{ book_title }}
+        </title>
+        <pubPlace>{{ firsted_pub_place }}</pubPlace>
+        <publisher>{{ firsted_publisher }}</publisher>
+        <date>{{ firsted_pub_date }}</date>
+      </bibl>
+      {% endif %}
+      {% if digitaled_confirm %}
+      <bibl type="firstEdition">
+        <title{% if title_viaf %} ref="viaf:{{ book_viaf }}"{% endif %}>
+          {{ book_title }}
+        </title>
+        <ref target="{{ digitaled_url }}" />
+      </bibl>
+      {% endif %}
+    </sourceDesc>
+    <encodingDesc n="{{ eltec_lvl }}">
+      <p />
+    </encodingDesc>
+    <profileDesc
+      xmlns:eltec="http://distantreading.net/eltec/ns">
+      <langUsage>
+        <language ident="sk"/>
+      </langUsage>
+      <textDesc>
+        <eltec:authorGender key="F"/>
+        <eltec:size key="long"/>
+        <eltec:canonicity key="high"/>
+        <eltec:timeSlot key="T1"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="{{ creation_timestamp }}">Initially created as an ELTeC file</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front></front>
+    <body></body>
+    <back></back>
+  </text>
+</TEI>

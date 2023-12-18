@@ -14,6 +14,13 @@ jinja2 = "^3.1.2"
 pytesseract = "^0.3.10"
 pymupdf = "^1.23.4"
 pdf2image = "^1.16.3"
+html-from-epub = "^0.2.1"
+odtreader = "^0.0.5"
+python-docx = "^1.0.1"
+taguette = "^1.4.1"
+pyinquirer = "^1.0.3"
+lxml = "^4.9.3"
+pdf2docx = "^0.5.6"
 
 
 [build-system]

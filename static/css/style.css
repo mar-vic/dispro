@@ -6,3 +6,11 @@ section:nth-of-type(1) ul {
     list-style-type: none;
     padding-left: 0px;
 }
+
+.card .list-group-item {
+    border: none;
+}
+
+.card .list-group {
+    border: 1px solid lightgrey;
+}

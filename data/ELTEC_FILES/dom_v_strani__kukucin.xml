@@ -4,23 +4,22 @@
       <titleStmt>
         <title ref="ISBN:978-80-8101-278-5">Dom v stráni : ELTeC edícia
             </title>
-        <author>Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
+            <author ref="viaf:10637721">Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
         <respStmt>
           <resp>editor</resp>
           <name>Marek Vician</name>
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">108190</measure>
-        <measure unit="pages">255</measure>
+        <measure unit="words">58857</measure>
       </extent>
       <publicationStmt>
         <p/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="printSource">
-          <author>Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
-          <title>Rysavá Jalovica</title>
+          <author ref="viaf:10637721">Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
+          <title ref="ISBN:978-80-8101-278-5">Dom v stráni</title>
           <pubPlace>Bratislava</pubPlace>
           <publisher>Kalligram</publisher>
           <date>2009</date>
@@ -57,7 +56,8 @@
 
     <body>
       <div type="chapter">
-      <head>I / Niet domu, kde sa nedymí v komíne</head>
+        <head>I</head>
+        <head>Niet domu, kde sa nedymí v komíne</head>
       <p>V stráni pod Grabovikom, sťaby prilepené o strmý bok, stoja domy bratov Bercov. </p>
       <p>Idúcky z dediny, vlastne mesta, prejdeš najprv popri dome Ivanovom, potom Franićovom a tretí dom je, v ktorom býva Mate. Ive je najstarší, Mate najmladší z nich. A tak i domy. Ivanov dom je najstarší a najmenší, Franićov je novší, pod ním pivnica s velikánskymi sudmi, a Mateho je už celkom nový, s akýmsi nádychom luxusu, pravda, težackého, sedliackeho.</p>
       <p>Franić dosť dávno vystavil svoj dom, ale ho nedohotovil. Vyzerá v ňom všetko akosi provizórne. Štyri steny zapáckané zhruba maltou, podlaha z dosiek, pod ktorou je spomenutá pivnica, ale povaly ešte niet. Iba čo sú hrady poprekladané a či vmurované tak, že hneď z izby môžeš cele pohodlne prehliadnuť celú konštrukciu težackého dachu, to jest najsolídnejšiu čiastku domu. Na rohoch sú pribité laty a na nich naukladané tľapky kamenia, pekne jedna na druhej sťa šindeľ alebo šupiny na rybe tak, že voda môže stekať bez prekážky. Aby búra nevnikla špárami a nepodvihla celú konštrukciu – lebo búra by ľahko mohla rozhádzať i takýto dach – dach je zalepený zvonku maltou a poliaty pekne vápnom. Po trámoch sú rozvešané mužské a ženské košele a ostatné šatstvo a bielizeň, ba i kožené mechy, v ktorých náš sedliak prenáša mušt a víno, olej a vôbec všetko, čo je tekuté, podľa potreby i vodu z obecnej nádržky alebo mora z neďalekého zálivu. Dom záleží teda vlastne z jednej jedinej izby, bez pitvora, kuchyne, alebo druhých miestností. Troma oblokmi zíva na mestečko, ak sú nie okenice drevené práve pričapené, jedným oknom a dverami hľadí rovno do stráne Grabovika, porastenej česmínami, myrtovím a borovčím, spomedzi ktorého chrastia vyčnieva kde-tu bor svojou mohutnou korunou, alebo dumá stará šedivá oliva. V oboch štítoch pôjda, ktorého, ako sme videli, ešte nieto, tiež sa nachodí po jednom okne. Predbežne len vrabce čo si na nich dvoria, keď sa strhne neočakávane lejak.</p>
@@ -148,7 +148,8 @@
       <p>„Nech ti boh odplatí, dievka moja,“ zvolala stará a na oku zaskvela sa slza. Vrátiac jej bozk na ústa, doložila: „Dobrá noc i tebe, a boh na pomoc!“</p>
       </div>
       <div type="chapter">
-      <head>II / Fiera</head>
+        <head>II</head>
+        <head>Fiera</head>
       <p>Deň pred hostinou začali sa na našom námestí diať veci, ktoré sa len pred hostinou dejú. Muly a mulice, koľko ich len jesto v našom meste, sú v ťahu na ceste, ktorá vedie z Dolčín do nášho mesta. Donášajú truhly s tovarom, tuho okované železom, o masívnych pántoch a zámkach. Donášajú všelijaké laty, žŕdky, dosky, kobyliny a plachty – vôbec všetko, čo sa vyžaduje na vystavanie poriadnych šiatrov. Za týmto stavebným materiálom prichádzajú kupci. Zámožnejší poklusávajú na muloch, chudobnejší idú pešky, v jednej ruke klobúk, v druhej ohromná červená šatka na utieranie znoja. Nájdeš medzi nimi medovnikárov, pernikárov, čižmárov, garbiarov, krpčiarov, kotlárov a podobný kočovný národ. Na námestí sa vystavilo celé mesto šiatrov fantastickej podoby, upomínajúce na časy, keď i naši otcovia tiahli takto za svojimi stádami. V prístave dolčinskom zišiel sa celý roj bracér a trabakulov i menších člnov, na ktorých títo sťahovavci presadili kanál. Doštverali sa z Prímoria s včasnými figami, Bosniaci s ranými hruškami, Poličania s pozdnými čerešňami. Ba </p>
       <p>Sedia si tak na zemi s podvitými nohami, po turecky, kúriac z krátkej luly alebo cigaretu.</p>
       <p>Večerom, keď popustila horúčava ako – tak a slnce nebodá tak bezohľadne do očí, vybrala sa i elita mesta pod šiatre. Páni sa držia okolo hlavy mesta, náčelníka. Medzi nimi vyniká obrovská postava obecného doktora – kráča krokom knísavým, akoby sa nohy na automatickom stroji mykali –  prezerá potravné články a nadovšetko ovocie: skúma ho, či je zdravé a zrelé. Dámy zas sa utiekli pod ochranné krídla šory Andrijany, ktorá, nemajúc svoje deti, protežuje všetky naše slečinky, ktoré sú na vydaj a ktoré, to sa už vie, stoja o takú protekciu.</p>
@@ -224,7 +225,8 @@
       <p>skvostmi, darmi to napospol pobožných duší. Koruna na jej hlave, z čistého zlata, ako i na hlave jej Syna, jagá sa prekrásne v svetle slnečnom, ktoré padá na ňu oknom spoza oltára. Na túto skvelú podobu upiera sa stá a stá očí v túto chvíľu s oduševnením a vrúcnosťou, s dôverou a nádejou, čakajúc milosť od Kraljice nebeskej…</p>
       </div>
       <div type="chapter">
-      <head>III / Ešte tá Fiera a čo na nej bolo</head>
+        <head>III</head>
+        <head>Ešte tá Fiera a čo na nej bolo</head>
       <p>Horúčosť afrikánska rozliala sa po obede nad naším rozveseleným mestom. Temer nikde tôničky, ani pod samými domami. Všade slnce, žeravé, nemilosrdné, akoby chcelo vypiť i ostatnú kvapku vlahy z vycivenej, vysušenej matky-zeme.</p>
       <p>A predsa nepríde nikomu na um, aby sa „hodil“ na hodinku, ako to vyžaduje </p>
       <p>Okolo štvrtej rozhlaholili sa zvony a urobili koniec tejto trme-vrme. Námestie sa odrazu vyprázdnilo, akoby ho bol vymietol; šiatre sa zatvorili a svet vtiahol do kostola, a čo nenašli miesta dnu, obstúpili ho v nekonečnom húfe. Po večierni, ktorá netrvala dlho, začína sa rozvinovať procesia. Svet sa hrnie z chrámu, vlní sa, mätie sem a tam, až konečne začína sa stavať do radu. Najtiaž sa pohnúť. Najprv školské deti pod zástavou, za nimi chlapci v nekonečnom rade po dvaja a dvaja, každý s voskovicou v ruke, ktorá sliepňa svojím mdlým žltým svetlom pod oslepujúcimi lúčmi slnca. Za nimi kráčajú mládenci s obrovskými voskovicami a pochodňami v pestrých lampášoch, zase cirkevné zástavy vznášajú sa vo </p>
@@ -355,7 +357,8 @@
       <p>Naopak, keď sestra vošla do komôrky, bola cele spokojná, ba temer veselá. Naostatok, ako bola roznežnená, pristúpila k nej, objala ju a vtisla jej na tvár horúci bozk. Od rokov ju nevidela takto prítulnú…</p>
       </div>
       <div type="chapter">
-      <head>IV / Jar v kanikule</head>
+        <head>IV</head>
+        <head>Jar v kanikule</head>
       <p>Na nasledujúci deň porozkladali šiatre; truhly, koše a noše doredikali zase do Dolčín, naložili na lode a odplávali, každý svojou stranou.</p>
       <p>Pred večerom naše mesto malo už zas svoj obyčajný, melancholický výzor.</p>
       <p>Hostia sa tiež držali porekadla: ryba a hosť na tretí deň smrdí. Omnoho včaššie než kupci, podajedni ešte v noci, odjachali pri mesiaci a chládku do svojich dedín. Napokon v horúčave je všade dobre, ale doma najlepšie; nemusíš byť aspoň vyšnurovaný, ako by si musel byť, keby si ostal v cudzom dome.</p>
@@ -430,7 +433,8 @@
       <p>Vztýčila hlavu, prechádzajúc sa s ním po nábreží, kým zatrúbi parník. Dubčić stojí pri sestrách na palube, nevšímajúc si nikoho, ani svojich známych – spoločne so sestrami pozdravuje Ivana, keď sa parník začal hýbať.</p>
       </div>
       <div type="chapter">
-      <head>V / V dome kapitána Luku</head>
+        <head>V</head>
+        <head>V dome kapitána Luku</head>
       <p>Niko Dubčić je syn tunajšej rodiny, starodávnej, hoc i nie práve vynikajúcej. Jeho predkovia boli težaci, obrábali cudzie zeme, dávajúc tretinu alebo štvrtinu – ako sa s kým dorozumeli – svojim pánom a či hospodárom za ich zeme.</p>
       <p>No nebohý Luka akousi náhodou dostal sa na more. Pozdalo sa mu, že je lepšie mať do činenia s týmto vrtkavým elementom, než s hospodármi – stal sa mornárom. Pomaly zhonobil horko-ťažko čosi groša a nadobudol si neveľkú lodicu, na ktorej sa túlal sem a tam po Adrii. </p>
       <p>Pozdejšie mal veľkú loď, s ktorou sa mohol odhodlať i na ďalšie výlety: od tých čias začal rapídne bohatnúť a veľadiť sa. Kupci v Terste, Senji a Benátkach znali dobre odhodlaného majiteľa lode a kúpili od neho nejeden okov vína. Kapitán Luka – lebo sa stal kapitánom medzitým – bol kupec šťastný, kapitán šikovný. Loď neroztrieskal, ani nevysadil nikdy na plytčinu alebo úskalie – a tých jesto hodne v našej Adrii. Treba doložiť, že v tie časy nebývalo toľko „lanterien“, a či už majákov ako dnes, podľa ktorých sa môžeš i po noci orientovať na mori. Nie, vtedy sa na mrkaní radšej utiahli lode do prístavov, než blúdiť sem a tam pomedzi nebezpečné ostrovčeky, ktorých je taká sila rozosiata v tomto mori. Ale kapitán Luka nebol bojko: keď bolo treba, i hazardoval i stavil loď i život na kartu. Nie div, že mnoho ráz </p>
@@ -518,7 +522,8 @@
       <p>„Nie, mama, nejdem sa ja vyspať! Ja pred spaním sa rozhodujem; nerozhodnutý nezažmúril by oka.“ A pevným krokom pobral sa i on dolu schodmi do domu a cestou ešte pomyslel: ,Oprobujem i naďalej vzdorovať predsudkom,' a usmial sa. Zdalo sa mu, že podniká niečo mimoriadneho, že je on hrdina…</p>
       </div>
       <div type="chapter">
-      <head>VI / Prehliadka poľa</head>
+        <head>VI</head>
+        <head>Prehliadka poľa</head>
       <p>Šora Anzula vstala ako obyčajne i dnes do dňa. Nebola zaspala svojím obvyklým, tvrdým snom, prehadzovala sa z boka na bok ako človek, ktorý má ustlatú posteľ ťažkými starosťami a trápením, ktorému sa roja myšlienky hlavou a prepletajú bez poriadku jedna cez druhú: no vzdor tomu vstala, sotva začali nesmelo švitoriť lastovice, s hlavou akoby prázdnou, s údmi prebitými.</p>
       <p>,Ostarievame, moja, ostarievame!' myslí si smutno, obliekajúc sa. ,Prekročili sme poludnie – slnce sa nachýlilo…' </p>
       <p>„A kedy, gospodarica?“</p>
@@ -621,7 +626,8 @@
       <p>miesta…' A duša sa jej rozširuje, vznáša sa slobodnejšie v čistom étere, kde sú výhľady široké, čisté, zreteľné… Dýše svojským životom novú rozkoš, novú radosť – vyšvihla sa nad trampoty a malichernosti, rozlúštila záhady, prekonala ťažkosti…</p>
       </div>
       <div type="chapter">
-      <head>VII / Rozhodnutie</head>
+        <head>VII</head>
+        <head>Rozhodnutie</head>
       <p>Slnce sa dobre naklonilo k druhej strane obzoru, tône česmín počali sa naťahovať, keď pani na spotenom Galešovi vyšla zas na Gradine. . .</p>
       <p>Cesta dohora ťažká pre úbohého Galešu. Napiera sa ostrím kopyta, až sa spod neho iskry sypú a skalky fŕkajú; hlavu kloní hlboko, až nad samú zem, a spoza uší vymoká mu znoj. Zato na Gradinách je omnoho ľahšie; je čosi i chládku v hore česmínovej. Prešli jeden kus hory, potom sa vnorili do hory obecnej.</p>
       <p>I tu ich prijala hluchá tíšina. Nehýbe sa takrečeno ani byľka: iba čo vo vrcholcoch nevysokých česmín pohráva meštrál, ktorý je tu omnoho slabší, než tamdolu na brehu morskom. Tíšinu pretrhne z času na čas len plachý škrekot drozda, ktorý zobudený zo sna vyletí z húštiny a hodí sa vlnitou čiarou do najbližšieho krovia. Ďalej zaletieť i jemu ťažko v tejto sparine. Na konáriku poskakuje kde-tu pinka, zejúc od horúčavy; prekvapená od Galešu zobzerá sa chvatne a vtiahne sa do chvoja. Osirelý havran vyletí z pasienka a tiahne lenivo bohviekam. Jeho tôňa orie po suchej tráve a kríkoch, zaniknúc kdesi vo vrcholcoch stromov…</p>
@@ -692,7 +698,8 @@
       <p> A čo ešte?“</p>
       </div>
       <div type="chapter">
-      <head>VIII / Všade dobre – doma najlepšie </head>
+        <head>VIII</head>
+        <head>Všade dobre – doma najlepšie </head>
       <p>Dnes popoludní zabáva sa zas Niko Dubčić so svojím člnom Leptirom v prístave dolčinskom.</p>
       <p>Meštrál duje ako každé odpoludnie v lete, nadúva sa biela plachta Leptira. Člnok letí po hladine ako labuť, nechávajúc za sebou brázdu. Niko sedí na kormidle, otáčajúc člnom podľa vôle, ani čo by to bol dobre drezovaný koník. Prímorské vrchy čnejú sťa múry hradné do modrej, tmavej oblohy. Ich rozrýpané hrebene a pošmúrne boky trasú sa sťa libačka cez rozohriaty vzduch. Dediny v ich úpätí podriemujú ako omámené v záštite viníc a olív. Z druhej strany sivie sa náš úbohý ostrov, vypálený od slnca, iba čo sa černejú fľaky hôr v šťavnatej ešte zeleni, ktorá dosiaľ odolala všeobecnej suchote…</p>
       <p>Niko nepozoruje nič zo všetkého toho. Neraz sa on kochal v podobnej horúcej, </p>
@@ -741,7 +748,8 @@
       <p>,Čo to má byť?' húta sám v sebe Niko. ,Ten chlapák akoby ma vyzýval…' No pružným krokom, nemysliac viac na Paška, poberá sa do svojho domu.</p>
       </div>
       <div type="chapter">
-      <head>IX / Noc má svoju moc </head>
+        <head>IX</head>
+        <head>Noc má svoju moc </head>
       <p>V nedeľu na treťom zvonení Niko už bol dolu u Pretúrov. Vždy sa obliekaval vkusne, no dnes sa vyobliekal vyberane. Slnce praží z neba, hoc nenie ešte desiata – nuž v auguste sme – </p>
       <p>horúčava je ťažká, hustá akási. A náš mladý pán siahol vzdor tomu k čiernym šatám, ktoré Mande včera večer, s veľkým hundraním, vytiahla z kamonúla. Siahol k nim hrdinsky, lebo hrdinstvo sa vyžaduje obliecť sa v taký čas do čierneho. V čiernom došiel pod Grabovik, trochu rozhorúčený, spotený, aby vyvolenú srdca svojho doprevadil do kostola – prvý raz v živote! – alebo aby jej „dal vodu“…</p>
       <p>,Boj teda sa započal,' húta ona s ťažkým srdcom, ,a kedy sa skončí a na aký spôsob?' </p>
@@ -841,7 +849,8 @@
       <p>Rozochvená sa pobrala do domu. Teší ju aspoň to, že ho netrafili do hlavy.</p>
       </div>
       <div type="chapter">
-      <head>X / Oberačka</head>
+        <head>X</head>
+        <head>Oberačka</head>
       <p>Nastala oberačka!</p>
       <p>Ráno vstávať do dňa, líhať neskoro. Celý deň skákať, vrtieť sa, obhadzovať v poli i doma a predsa sa nežalovať na ustatosť. Oh, krásne dni, kde sa zberá požehnanie božie, pri speve oberačiek, došlých zo spevného Zagoria: zberá sa odrazu na hrsti, na koše, na putne do obrovských kadí, kde ho kyjmi pučia, gniavia na hustú kašu. Po uliciach a poľných </p>
       <p>Nuž trma-vrma od svitu do noci, bez prestania. Všetko je pohrúžené v robote. Nikto nemyslí na dom ani kostol, na spanie a pohodlie – všetko zaujala jediná náruživosť: ponapĺňať kade a sudy, koľko ich len jest vo dvore a v pivnici, sladkým mokom vínnej révy.</p>
@@ -945,7 +954,8 @@
       <p>Pozajtre je nedeľa – idem do mesta po práci. Príď mi zajtra večer povedať, či ti mám čo v meste pohľadať, alebo nie…“</p>
       </div>
       <div type="chapter">
-      <head>XI / Neočakávaný návrat </head>
+        <head>XI</head>
+        <head>Neočakávaný návrat</head>
       <p>Zandome sa zabavil iba dva dni v meste. V oberačku nemôže vystať z domu na dlhší čas, hoc šora Ćara je osoba súca a vyzná sa v pivnici. No jeho kupectvo je také skomolené, že uzol nemôže nik druhý rozviazať, iba on. Keby gazda nenazeral, ľudia by mu veru neplatili staré dlhy. Časy tie minuli dávno, keď sa dlžník sám od seba domyslel platiť.</p>
       <p>Keď vybavil celý lajster záležitostí domácich a kupeckých, pobral sa do veľkého skladu vína, nad ktorým sa skvie nápis: ,Bráća Okladina'. Bratia Okladina sú firma nie veľmi stará, no zato pevná a solídna, ani hradby Siona. Kapetan Kuzma je dušou celého podniku; on </p>
       <p>kupčí, narába s vínom šikovne podľa ustálených princípov, tak, že celý rok predáva víno tej istej akosti svojho vlastného typu. Má agentov v celej Dalmácii, a jeden z nich je i náš Zandome. S kapetanom Kuzmom zarobil dosiaľ pekný groš, predávajúc mu svoje víno i víno z celého okolia.</p>
@@ -1049,8 +1059,8 @@
       <p>„Ja sa nedivím, dievča, že sa ta ťaháš,“ odobruje šora Anzula. „Poďme teda, a ty, Niko, tu máš svoje lajstre.“</p>
       </div>
       <div type="chapter">
-
-      <head>XII / O posledných veciach človeka </head>
+        <head>XII</head>
+        <head>O posledných veciach človeka </head>
       <p>Do večera mal dosť roboty okolo turňov a v pivnici. Veľký prúd oberačkový prehrmel, nejeden kmeť vybavil oberačku na svojom území: no ostali Nikovi ešte jeho vlastné vinice. </p>
       <p>Nechal ich naschvál naostatok. Práca je pohodlnejšia, nenie náhlivá a výhoda k tomu, že hrozno môže dokonalejšie dozrieť. Roboty je teda i dnes dosť; no jemu sa vidí, že jej je málo, keď pomyslí na minulé dni a týždne zimničného chvatu.</p>
       <p>Šora Anzula prišla až večerom domov. Ani doma nemôže sa striasť ťažkých dojmov, ktoré ju ohlušili u Zorkovića. Pred očami jej stojí úbohý Ilija, červený, ba skôr modrý v tvári, dýchajúci prudko, akoby sa bol zadychčal. Navidomoči hynie, telesne i duševne sa tratí, čo deň, to jedno svetielko uhasené, umovej a citovej oblasti. Okrasa duše padá jedna za druhou, ostáva iba pustá holota hmoty. I strom tak ostáva, holý so suchými rárohami, keď mu oberú ovocie, keď mu mráz opáli lístie a jesenný vietor ho pokmása a zhrnie do kúta záhrady.</p>
@@ -1128,8 +1138,8 @@
       <p>Tie znamenajú viac, než najslávnostnejšia odberačka.</p>
       </div>
       <div type="chapter">
-
-      <head>XIII / Kde môže vyrozumieť každý, čo je vo veci </head>
+        <head>XIII</head>
+        <head>Kde môže vyrozumieť každý, čo je vo veci </head>
       <p>Prešli dva-tri dni. Nikto nevytiahol nohy z domu. Nedbal by sa ohlušiť robotou, aby nemusel myslieť, uvažovať a pozerať napred: na nivy prvej zakvitnuté kvietím – dnes otupné, holé a pusté. Tmolí sa v pivnici, medzi sudmi, v ktorých vrie ako v kotle, z nejedného i kypí pena nečistá, hustá brečka, ktorá onedlho bude obveseľovať skormútené srdcia, rozháňať mrákavy na zachmúrenej tvári.</p>
       <p>Nebol pod Grabovikom, to je pravda, ale sa neukázal ani u Zorkovićovcov. Zdá sa mu, že je to v poriadku: keď nejde ku Katici, nejde ani ta inde…</p>
       <p>Neraz prichytí jej skúmavý pohľad na sebe. Oh, keby ona vedela, čo sa v ňom deje, čo ho trápi a morí! Prepadol by sa od hanby, keby tušila!</p>
@@ -1214,8 +1224,8 @@
       <p>„Zmužilosť, moja malá, odhodlanosť…“ šepce jej nežne, hladiac jej hlavu. „Zvedela si, čo si nemala zvedieť. Chcela som ti ušetriť bôľ, sklamanie. Beztoho ja sa úfam, obráti sa všetko na dobrú stranu. Budeme sa smiať na tom, pre čo teraz plačeš… Zmužilo, akoby sa nič nebolo stalo…“ </p>
       </div>
       <div type="chapter">
-
-      <head>XIV / Obed</head>
+        <head>XIV</head>
+        <head>Obed</head>
       <p>Dni sa počali krátiť – no pekná, suchá chvíľa trvá ďalej. Nastúpila jeseň, dalmatínska jeseň – najkrajšia čiastka roku. Len škoda, že netrvá dlho – dakoľko týždňov, neraz iba dakoľko dní. Obyčajne sa minú razom a za nimi zaduje jugo, a duje donekonečna, do zunovania, kvíliac a zavýjajúc, s pľušťami i prudkými lejakmi.</p>
       <p>V také milé ráno na samom konci októbra prišla šora Anzula do Zorkovićov. Šor Ilija sedí v kresle, úplne zotavený, jarý a veselý. Cíti sa, akoby sa bol znovu narodil. Rozpomienka na prestaté neresti a nebezpečenstvo vzbudzuje v ňom povďačnosť k bohu, naplňuje ho novou radosťou k životu. Doktor mu dávno dovolil, aby sa vrátil k starým návykom. Iba úzkostlivé ženské strážia nad ním, terorizujú ho ešte. Dorica napríklad prekryla mu čibuk, každodenne zvádza s ním potýčky pre dohán; úbohý šor Ilija padol úplne pod papuču svojej dcéry.</p>
       <p>Keď vstúpila šora Anzula, domáci pán sa pozdvihol a podišiel proti nej galantne, ako to už on vie. Dobre mu padá, že môže pred ňou blýskať svojím junáckym zdravím.</p>
@@ -1305,8 +1315,8 @@
       <p>„Veru naozaj!“ odpovedá s tým istým trpkým prízvukom Niko. „Dnešná slávnosť mi ostane naveky v pamäti…“</p>
       </div>
       <div type="chapter">
-
-      <head>XV / Na hrobe rastie kvietie </head>
+        <head>XI</head>
+        <head>Na hrobe rastie kvietie </head>
       <p>Katica sa ledva dovliekla domov. Bola by sa v zúfalstve a rozhorčení hodila do vody, no na šťastie vody tu nieto nikdy naporúdzi. Nemáš sa často kde napiť a kdeby ešte utopiť sa! </p>
       <p>Dovliekla sa horko-ťažko domov – šťastie, že nikoho ani nestretla. Utiahla sa do svojej komôrky a oddala sa svojim mukám.</p>
       <p>V prvú chvíľu nemohla sa ani vynájsť v nešťastí. Nemala kedy rozmýšľať a rozkladať svoje postavenie. No stratená, utopená v ňom, nesená jeho divokým vírom, cíti dobre, že je stratená. To, čo kynulo ako nový život, nová nádej, čo dávalo sily, radosti a pružnosti, zapadlo: ostal bôľ a zúfanie…</p>
@@ -1382,8 +1392,8 @@
       <p>„Teba, dievča, vyštípala dokonale tá búra!“ usúdil konečne. „Ty budeš spať, ja viem, ako v oleji!“</p>
       </div>
       <div type="chapter">
-
-      <head>XVI / „Zriaď svoj dom“...</head>
+        <head>XVI</head>
+        <head>„Zriaď svoj dom“...</head>
       <p>Paško odprevadil Jeru a Katicu až do dvora pod Grabovik. Katica sa ho celou cestou držala; šťastie, že sa mala koho držať. Slabosť ju zaujala, kolená sa jej triasli. A on </p>
       <p>„A ona?“ pýta sa ho zarazená. „Vari ťa ani neponúkla vojsť?“</p>
       <p>nespustil! Ja som jej vždy letela k hlave, prečo to robí. Ale daromná robota – zaslepila ju sláva. A ona aká sláva, hľa!“</p>
@@ -1466,8 +1476,8 @@
       <p>„Už nemám otca – už nemám otca!“ zakvílil úpenlivo, hodiac sa na holé kamenie v pustej vinici…</p>
       </div>
       <div type="chapter">
-
-      <head>XVII / Dom v stráni </head>
+        <head>XVII</head>
+        <head>Dom v stráni </head>
       <p>Minulo dakoľko dní, dlhých, nekonečných, bárs je zima a dni sú krátke. Mande chodila každý deň pod Grabovik prezvedať sa, ako sa má chorý. Zakaždým mu doniesla čo-to: tu dáku lahôdku z kuchyne, tu fľašku prošeka na posilnenie. No chorý máločo užil zo všetkého toho; najsladšia lahôdka pretvorila sa mu v ústach v blen a horič.</p>
       <p>Jeden večer dostavil sa k šore Anzule Paško Bobica. Zadivila sa, keď ho videla vyobliekaného, a zadivila sa ešte väčšmi, keď jej oznámil, že ju zajtra čakajú pod Grabovikom.</p>
       <p>„To je dobrý znak!“ zvolala ona. „To znamená, že sa medzi vami vyrovnalo všetko!“</p>
@@ -1562,8 +1572,8 @@
       <p>Veď i pútnik musí sa unaviť, ak má prísť k svojmu cieľu. A takí pútnici sme všetci…</p>
       </div>
       <div type="chapter">
-
-      <head>XVIII / Koniec</head>
+        <head>XVIII</head>
+        <head>Koniec</head>
       <p>Keď sa Niko odoberal od Dorice, dovedúc ju k domu zorkovićovskému, riekol jej: </p>
       <p>No vzdor tomu ona je nerada, že jej Niko sa priatelí so Zandomem. „Rád sa vysmieva,“ podotkla ona.</p>
       <p>„To je pravda, často je i trpký. No vzdor tomu on je dobrý: lepší, než sa nazdávame. </p>

@@ -1,0 +1,27 @@
+{
+  "xslt_params" : {
+    "title":           "",
+    "title_ref":       "",
+    "words":           "",
+    "pages":           "",
+    "vols":            "",
+    "pub_place":       "",
+    "publisher":       "",
+    "pub_place":       "",
+    "encoding_lvl":    "",
+    "gender":          "",
+    "size":            "",
+    "timeSlot":        "",
+    "canonicity":      ""
+  },
+  "author_first_name": "",
+  "author_last_name":  "",
+  "author_alter_name": "",
+  "author_birth_date": "",
+  "author_death_date": "",
+  "author_death_date": "",
+  "firsted_pub_place": "",
+  "firsted_publisher": "",
+  "firsted_pub_date":  "",
+  "digitaled_url":     ""
+}

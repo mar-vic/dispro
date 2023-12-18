@@ -1,0 +1,657 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xml:lang="slo" xml:id="SLK2012839">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title ref="ISBN:978-80-8101-683-7">Čierne a biele šaty : ELTeC edícia
+            </title>
+            <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
+        <respStmt>
+          <resp>editor</resp>
+          <name>Marek Vician</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="words">3007</measure>
+      </extent>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="printSource">
+          <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
+          <title ref="ISBN:978-80-8101-683-7">Čierne a biele šaty</title>
+          <pubPlace>Bratislava</pubPlace>
+          <publisher>Kalligram</publisher>
+          <date>2012</date>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-1">
+      <p/>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="sk"/>
+      </langUsage>
+      <textDesc>
+        <eltec:authorGender key="M"/>
+        <eltec:size key="short"/>
+        <eltec:canonicity key="unspecified"/>
+        <eltec:timeSlot key="T2"/>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2023-12-18">
+            Initially created as an ELTeC file
+          </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <div type="titlepage">
+        <head>
+          ČIERNE A BIELE ŠATY
+        </head>
+      </div>
+    </front>
+    <body><p>
+      Práve v siedmom roku môjho manželstva stojím — a sedem, to je sväť
+      numero. Premýšľam, ako by mal tomuto číslu ohľadom môjho manžel-
+      stva viac svätosti dodať... ach - hútam - najlepšie ho zasvätím vyrozprá-
+      vaním tragikomickej histórie - mojej ženby.
+    </p>
+    <p>
+      Bola to skutočne mimoriadna udalosť, i ohľadom jej vývinu a okol-
+      ností, i ohľadom prostriedku a samého výsledku.
+    </p>
+    <p>
+      Ja som vôbec vcelom mojom živote mal mnoho malérov, a neminuli
+      ma ani v procese mojej lásky. Ukážku z toho som už podal v mojom
+      svätojánskom dobrodružstve Hlad a láska v Lipe uverejnenom. (Sám
+      už neviem, z akej príčiny som tam vystúpil pseudony mne pod menom
+      Stupický: bo, ako vidíte, moje opravdivé meno - ako to navrchu mojej
+      smutnoresky stojí - je Hladovanský.) Ale že sa moja ženba sama naj-
+      väčším dobrodružstvom stane, to som ani zďaleka nemyslel. - I teraz
+      som v pochybnostiach: či dakto na svete romantickejšie zavesloval do.
+      raja manželstva než ja - a či dakomu romantickosť ženby väčšmi na tak-
+      zvaných materiálnych výhodách uškodila než mne, aspoň doteraz...
+      lebo bohvie, skade ešte na mňa dedičstvo môže pripadnúť! (Úprimne
+      vyznám: zišlo by sa, a to hneď.)
+    </p>
+    <p>
+      Teraz... keď si moju ženbu predstavím, je mi i do smiechu. Skutočne!
+      Plakať nemôžem, lebo mi Boh doprial dobrú žienku, a to takým spôso-
+      bom, ako nikomu na svete. - Zato, že som ja moju Milicu vydával a ona
+      ma ženila, už teraz v siedmom roku po tejto mimoriadnej udalosti na-
+      riekať nebudem. Vtedy mi síce bolo aj trocha do plaču (môj antagonista.
+      administrátor Korunka - videas „Lipa“ 1. ročník - ktorý ma sobášil, tá-
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+      <pb/>ral pred svetom, že som sa maznal ako malé dieťa a že mi z ručníka slzy
+      ako vodu žmýkali), ach, ale to bolo dávno, a niektorí ľudia vravia, že čo.
+      sa dávno stalo, to je ani nie pravda. Teraz sa však smejem, smejem od
+      hladu (to je môj jediný pokušiteľ, ktorého sa neviem zbaviť) a aby som
+      žalúdok mojich detí - sú už, úbožatá, dve - uspokojil, rozprávam im
+      moju romantickú ženbu.
+    </p>
+    <p>
+      Bolo to roku... dosť na tom, bolo to pred šiestimi rokmi (teraz sme
+      v siedmom), ako som sa ja po dlhej patvarii diurnistva, akcesistva, kon-
+      cipistva (všetko extra statum a s denným platom od 45 gr. do 1 zl.) dostal
+      za takzvaného okolného notára do čisto číro maďarského okresu s roč-
+    </p>
+    <p>
+      ným platom 360 zl. str. (Tento úrad, o ktorom asi ani sám všemohúci
+      a vševedúci pán exminister Bach nevedel - dôkazom čoho tá okolnosť,
+      že nás bez Abfertigungu na pašu poslali - bol kliešte, ktorými páni civi-
+      lizátori vyberali z ohnivej vatry občianskej nespokojnosti pečené gašta-
+      ny vspôsobe porcie, akcízov, zuschlagov atď.)
+    </p>
+    <p>
+      lím si, „Stano Hladovanský, teraz si už pri cieli!... Zriaď
+    </p>
+    <p>
+      „No“, m:
+      dom svoj! Ožeň sa! Vymeň slovo dané Milici, svojej ľúbenici... Priprav
+      hniezdo domáceho rodinného života... strepoc krídelkami lásky... a zaleť
+      pre družicu Milicu!...“
+    </p>
+    <p>
+      A vskutku - keď som sám neletel, letelo písmo k nej - oznamujúc jej
+      šťastný prevrat mojich okolností a môj skorý príchod v sprievode sku-
+      točného pytača.
+    </p>
+    <p>
+      Nebožka Milica! Predstavte si, ako táto radostná správa na ňu účin-
+      kovala, na ňu, ktorej matka asi pred pol rokom bola zomrela: na ňu si-
+      rotu, ktorej otec už od sedem rokov v hrobe hnil. Má brata - dobrého
+      brata: mala sestry — dobré sestry... ach! ale pri tom všetkom bola sirota.
+    </p>
+    <p>
+      O pár dní prikvitol som s pytačom pešky do domu Slavatinských.
+      Druhí chodia v ohľady a na pytačku na voze. Mne nebolo tohto luxusu.
+      dopriate — prečo? Preto, že som bol a som omine et nomine Hladovan-
+      ský! Lenil som sa - a grajciara nebolo v kešeni: v takomto páde však
+      človek ozaj musí gazdovať a všetkých pomp sa odriecť. Ako hovorím,
+      prikvitli sme s pytačom pešky, nedbajúc nič na skrčené nosy, ovisnuté
+      úškľabné gamby, potupné pohľady, ktorými nás naši známi k cieľu našej
+      návštevy sprevádzali. „Vysmievajte sa,“ myslel som si, „nedbám ja nič,
+      len sa ja ožením.“ S výrazom nevýslovnej potechy však prijala nás Mili-
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+      <pb/>ca. A keď jej brat ako tútor svoje udobrenie našej svadby vyslovil, padli
+      sme si do náručia a poľúbili sa prvým bozkom vyslyšanej, uskutočňujú-
+      cej sa lásky. Dve mladuchy sa prizerali na výjav tento... s výrazom oka.
+      zápalistým, sladkým - tak sa mi v mojej blaženosti zdalo.
+    </p>
+    <p>
+      „A otri týždne sobáš,“ prehovoril pytač.
+    </p>
+    <p>
+      „Krátky to čas - sestra sa musí štafirovať,“ odvetil Milicin brat.
+    </p>
+    <p>
+      Nám sa aj tri týždne dlhými byť videli.
+    </p>
+    <p>
+      „Ach, Artur!“ zamiešal som sa, „napozajtre v S. jarmok, štafírung ho-
+      tový... tri týždne jednako dlhý čas... chcem to skrátiť s dišpenzáciou.“
+    </p>
+    <p>
+      Artur sa usmial a posadil pytača i mňa ku stolu.
+    </p>
+    <p>
+      Jedli sme, pili sme, radovali a tešili sme sa - vysluhovali nás tri Grácie.
+      „No, Stano,“ hútal som sám v sebe, „to sa dobré darí, bude že to za svadba.“
+    </p>
+    <p>
+      Na tretí deň bol v S... jarmok. V mojom byte — pretože som sa ešte
+      vtedy vS... zdržoval - prechádzal som sa netrpezlivo hore-dolu, čakajúc
+      príchod môjho budúceho švagra a mojej Milice. Neprichádzal nikto -
+      naveľa sa zjavila vo dverách moja matka.
+    </p>
+    <p>
+      „Akože si, syn môj! Či už Artur a jeho sestra Lujza boli u teba?“
+    </p>
+    <p>
+      „Nebola, mamka, nebola - hádam ešte nedošli.“
+    </p>
+    <p>
+      „Došli, syn môj! Lujza teraz kupuje pre tvoju snúbenicu čierne sobáš-
+      ne šaty, čierny čepiec - a flóry.“
+    </p>
+    <p>
+      „Nerozumiem ich... k sobášu čierne šaty, čepiec a flóry?“
+    </p>
+    <p>
+      „Áno, syn môj! Samej mi to divné, ale je tak. Že vraj to Artur žiada,
+      aby ste sa v smútku sobášili.“
+    </p>
+    <p>
+      „Svadba a smútok!“ pomyslel som si, „inšie ani netreba! Najradost-
+      nejší okamih môjho života mám zasvätiť s emblémami smútku - to bude
+      ozaj komédia!“
+    </p>
+    <p>
+      Ja som človek hlavatý (veľká to chyba, keby to nie, azda by sa mi
+      v svete lepšie vodilo: potešujem sa však tým, že hlavatosť bez hlavy ne-
+      môže byť): v smútku som sa nechcdl sobášiť kvôli nikomu... Radšej ko-
+      niec všetkému, ako takýto sobáš.
+    </p>
+    <p>
+      Sotva ma matka nechala, vstúpil dnu Artur.
+    </p>
+    <p>
+      Ako vždy, i teraz hral milý úsmev kolo jeho úst. Okolo mojich istotne
+      inakší hral.
+    </p>
+    <p>
+      „Či je pravda, Artur, že nás chceš dať sobášiť v smútku?“ dopytoval
+      som sa horkým ako blen hlasom.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+      <pb/>„Prečo nie, Stanko?! Pamiatku pred pol rokom zomrelej matky musí
+      moja sestra uctiť: ja žiadam sobáš v smútku - alebo nič.“
+    </p>
+    <p>
+      „No ja žiadam sobáš primerane veselý - alebo nič!“ odsekol som
+      skrátka.
+    </p>
+    <p>
+      „Tak je darmo, zostaneme pri ničom!“
+    </p>
+    <p>
+      „Áno, pri ničom! Ja sa vašej pikantnej žiadosti nikdy nepodvolím!“
+      (Ubohá Milica!)
+    </p>
+    <p>
+      „Vy ste teda moju sestru nikdy neľúbili?“
+    </p>
+    <p>
+      „Hahaha, nelúbil!“ zasmial som sa horko. „Radšej smrť než bez nej
+      Žiť — ale ešte raz vás uisťujem, že vašej smiešnej žiadosti na žiaden pád
+      nemám vúmysle sa podrobiť.“
+    </p>
+    <p>
+      „Domine Hladovanský! Vy ste mnoho románov čítali,“ preriekol Ar-
+      tur vážne, „nemám vôľu obetovať moju sestru vášmu rozmaru a hlava-
+      tosti, s ktorou sa vašej lúbosti pre málo významnú, ale slušnú formu od-
+      riekate. Ďakujem Bohu, že som vás poznal - s mojou vôľou moja sestra.
+      nikdy nebude vaša... či ma rozumiete?“
+    </p>
+    <p>
+      S tým zmizol, nechajúc ma stáť ako skameneného.
+    </p>
+    <p>
+      „Rozumiem vás, pán Artur, rozumiem! Istotne na štafírung nervus
+      rerum chýba!“ zamrmlal som sám vsebe a pustil som sa po izbe do divé-
+      ho behu. „Ach, nazývate ma romantikom: Dobre i tak! Vám na truc ože-
+      ním sa romantickým spôsobom. Ukážem vám, že ešte časy dobrodruž-
+      ného rytierstva nezapadli: i proti vašej vôli - ukradnem vám Milicu.“
+    </p>
+    <p>
+      Samému sa mi tento plán zapáčil: hoc som aj bol akokoľvek rozbúre-
+      ný, zasmial som sa ako dieťa, keď sa mu dačo po vôli stane - i hútal som
+      hneď o spôsoboch, ako uskutočniť tento plán.
+    </p>
+    <p>
+      Vtom sa vrátila moja matka.
+    </p>
+    <p>
+      „Akože ste s Arturom?“ dozvedala sa ona.
+    </p>
+    <p>
+      „Nijak - svadba sa rozsypala, žiaden sme nechceli popustiť“
+    </p>
+    <p>
+      „Úbohá Milica!“ zašepkala ona.
+    </p>
+    <p>
+      „Ona bude a musí byť mojou!“ zvolal som vášnivo a vyložil som jej
+      môj dobrodružný úmysel.
+    </p>
+    <p>
+      „Všetko pekne, syn môj! Na hlavnú vec si však predsa zabudol.“
+    </p>
+    <p>
+      „A prosím ťa, čo by to bolo?“
+    </p>
+    <p>
+      „Nič inšie, syn môj, ako Milicin súhlas s tvojím plánom, lebo ju nasilu
+      len nechceš uniesť?“
+    </p>
+    <p>
+      
+      <pb/>Richtig,.. to bola prvá a predôležitá prekážka. Násilu Milicu uniesť,
+      to nešlo - natoľko som nebol romantický rytier možno preto, že som sa.
+      bál istých paragrafov kriminálneho kódexu. Pomohla mi dilema.
+    </p>
+    <p>
+      Milica ma alebo ľúbi, alebo nie. Keď áno, pôjde dobrovoľne so mnou
+      aj na koniec sveta, lebo to i Písmo sväté káže, nechať otcovský dom a ísť
+      Za mužom svojím: keď nie, no tak len i ja, i ona vyhrá, že sme sa zavčasu
+      rozišli.
+    </p>
+    <p>
+      Naproti tomuto rozumovaniu ani matka nemala nič.
+    </p>
+    <p>
+      „Pred sobášom ju však predsa neunesieš?“ odvetila ďalej. „A aby ste
+      sa zosobášiť mohli, musia byť ohlášky. Ohlášky však vieš, k akému sú
+      cieľu, aby sa prekážky manželstva zavčasu mohli oznámiť. Merkuj však,
+      aby ti Artur dáke nepredniesol pred patričným kňazom.“
+    </p>
+    <p>
+      „Ach, toho sa nebojím - netreba tu ohlášok - múdry vynález, tie diš-
+      penzácie tieto si zajtra vykonám. Nadsirotenské povolenie už mám vruke.“
+    </p>
+    <p>
+      »A kelčík k svadbe?“
+    </p>
+    <p>
+      „Na konci kyjak!“ pomyslel som si. „Toto je najhlavnejšia prekážka.
+      Kreditu mal som málo, rodičia chudobní - aako u nastávajúceho gazdu,
+      bolo u mňa pusto, prázdno všade. Moje doterajšie diurná mi sotva na
+      odev a pokrm dostačovali. Artur istotne nič nedá - ba od neho by ani
+      neprijal. Keď to má byť, nech bude naozaj po rytiersky. Eh bien! Ani
+      rytieri nič nemali a smelo sa pustili do šíreho sveta - prečo nie ja roman-
+      ticus na oceán manželstva?“
+    </p>
+    <p>
+      A tak prekážky nebolo žiadnej.
+    </p>
+    <p>
+      Večerom druhého dňa zjavil som sa v dedine, kde rodina moja býva-
+      la. Ako človek planého svedomia obzízal som kolo Slavatinských domu
+      zúkrytu záhrady, čakajúc na príležitosť zjavenia sa Milice. Každého šus-
+      tu som sa ľakal, v strachu, že sa predo mnou zjaví vážna postava Artura.
+      v podobe pomstiaceho sa anjela a mňa zo záhrady - raja to mnohých
+      zažitých ľúbostných chvíľ - nevyženie, ale za golier vyhodí.
+    </p>
+    <p>
+      Zdalo sa mi, že sa mi i mesiac vysmieva. Ten šuhaj, ktorého niektorí
+      básnici volajú priateľom zaľúbencov, škúlil na mňa spoza oblakov tak
+      uštipačným, satirickým zrakom, ako čo by si bol vypožičal nadnes pravé
+      líce Demokrita.
+    </p>
+    <p>
+      Po chvíľke sa otvorili na záhrade dvercia a postava Milicina sa vzná-
+      šala do útulu zatieneného hustým lístím jabloňovej plánky.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+      <pb/>Vzdychala - slzila - istotne sa dozvedela o všetkom. „Milica! Prišiel
+      som si pre prsteň!“ zašuškal som nad ňou, keď som sa k jej blízkosti bol
+      prikradol. Pozrela na mňa a striasla sa.
+    </p>
+    <p>
+      „Urob to kvôli Arturovi, urob, on mi je druhým otcom!“
+    </p>
+    <p>
+      „A ja ti mám byť mužom - spoločníkom až po hrob - voľ si! Alebo
+      Artur, alebo ja!“ (Úbohá bola v položení svätého Otca: alebo Napoleon
+      — alebo Antonelli.)
+    </p>
+    <p>
+      „A nepopustíš, Stano? Nedáš mi prvý dôkaz lásky k vyslyšaniu mojej
+      prosby?“
+    </p>
+    <p>
+      „Nemožno - nechcem byť hrdinom papúč. Rozhodni sa! Ak ma ľú-
+      biš, buď družkou môjho osudu: keď nie, vráť mi prsteň!“
+    </p>
+    <p>
+      „A ty žiadaš, aby som pamiatku mojej matky zneuctila? Nie! Nemož-
+      no! To nespravím!“
+    </p>
+    <p>
+      „Blázonko! Nezneuctíš tú pamiatku: obleč sa v biele šaty k svätému
+      obradu sobáša. Je to odznak nevinnosti a polosmútku. Len čiernej farbe
+      aflórom daj pokoj!“
+    </p>
+    <p>
+      Ona sa usmiala, kývla hlavou a zašepotala sladko:
+    </p>
+    <p>
+      „Stano! Môj hlavatý Stano! Pôjdem s tebou, kdekoľvek ma povedieš.“
+    </p>
+    <p>
+      A vskutku, na druhý deň ráno šla so mnou v sprievode jednej starej
+      matróny do S..., kde sme ohľadom na dišpenzáciu zložili prísahu, oslo-
+      bodiac sa týmto spôsobom od ohlášok.
+    </p>
+    <p>
+      Sobáš sme určili hneď na budúcu nedeľu. Do tých čias mala Artura
+      nakloniť k mieru - čo som i ja sproboval, napíšuc mu list, kde som mu.
+      oznámil naše ustálenie ohľadom šiat. Neodpovedal nič na dôkaz toho, že
+      nesúhlasí - a tak nezostalo inšie, ako skutočný únos.
+    </p>
+    <p>
+      V prapodivných myšlienkach približoval som sa, keď deň sobášu bol
+      svitol, k osade, v ktorej čakalo na mňa a Milicu kňazské požehnanie.
+      Moji svedkovia sedeli takže popri mne na vozíku, ako keby ma na po-
+      pravisko sprevádzali. Chceli sme žartovať nedajbože! Nešlo to. Každý
+      Mádel, a obzvlášte ja, do budúcnosti. Vyzerali sme asi ako „Ritteri von
+      der traurigen Gestalt“, lenže Sancho Pansa chýbal. I nebo cedilo slzy -
+      bol to pošmúrny novembrový deň - skutočný „čierny november“, ako
+      ho Francúzi volajú. Neraz prebehol popred náš voz vyplašený zajac, čo
+      nás, stredovekých romantikov, naplňovalo nemalým strachom o výsle-
+      dok našej cesty. Miesto obligátnej svadobnej muziky kvákali nad nami
+    </p>
+    <p>
+      
+      <pb/>vrany a kavky v tak ľubozvučnom koncerte, že sme si zapchávali uši.
+      Dedinami nás sprevádzal štekot vzbúrených psov - a tak to šlo všade,
+      kým sme sa horko-ťažko, umoknutí ako sysle, nedostali pred "“"-ský
+      hostinec.
+    </p>
+    <p>
+      Práve bilo desať hodín, sobáš mal byť o jedenástej.
+    </p>
+    <p>
+      Šmarili sme sa do gály - a ja som hostinského zavolal na stranu.
+    </p>
+    <p>
+      „Či hotujú obed pre mojich svadobníkov, pán Trúba?“
+    </p>
+    <p>
+      „Áno - osoba 2 zl. v striebre“ - hotuje sa pre dvadsiatich štyroch.“
+    </p>
+    <p>
+      „To je veľa - nebude nás, len dvanásť!“ poznamenal som prestraše-
+      ne a chytil som sa vačku, v ktorom nebolo výplatku ani pre tri osoby.
+      „Apropos, pán Trúba, či nás u Slavatinských čakajú?“
+    </p>
+    <p>
+      Pán hostinský zachytil ústa dlaňou - istotne, aby som nespozoroval,
+      ako sa smeje.
+    </p>
+    <p>
+      „Čakajú ver, čakajú - ani ich vyčkať nevedia!“
+    </p>
+    <p>
+      „No, keď je tak, páni moji, podme! Nechcel by som, že by boli o náš
+      príchod v netrpezlivej starosti.“
+    </p>
+    <p>
+      „O to nech sa neboja!“ riekol potuteľne pán Trúba. „Úprimne im ra-
+      dím, aby tu k raňajkám dačo užili.“
+    </p>
+    <p>
+      Tieto slová sme už ledva dopočuli. Sprevádzaní zvedavým húfom
+      ľudu, ponáhľali sme sa do svadobného domu. A ticho, hlucho bolo.
+      v svadobnom dome - ako v príbytku, kde mftvola leží.
+    </p>
+    <p>
+      Ja som v mrazivom tušení vecí, ktoré majú nasledovať, obliekal moje
+      vnútornosti v pancier neciteľnosti.
+    </p>
+    <p>
+      Mojim svedkom drkotali zuby - neviem, či následkom mokrého po-
+      vetria, či vbázni neistoty budúcich vecí.
+    </p>
+    <p>
+      „Oh,oh, ťažký to únos!“ zamrmlal som sám v sebe, i vstúpili sme dnu.
+    </p>
+    <p>
+      Ináč som sa nenazdal, ako že vážna postava Artura zamedzí nám
+      s výrokom kliatby vstup do chyže.
+    </p>
+    <p>
+      Nestalo sa - chyža bola prázdna, zrkadlo flórom zatiahnuté, obrazy
+      naopak k stenám obrátené - a na stole veľký, hrubý zapečatený list v po-
+      dobe embalovanej knihy.
+    </p>
+    <p>
+      Ja a moji svedkovia pozreli sme si do očí.
+    </p>
+    <p>
+      Škoda, že nebolo maliara - per se vmanieri Hogarthovom - aby bol
+      zvečnil smutno-smiešny výraz našich tvárí.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+      <pb/>„Mein lieber Hladovanský, hier schaut es traurig und schlecht aus!“
+      preriekol naostatok jeden z mojich svedkov uštipačným hlasom. (Bol to.
+      jeden úd civilizátorskej spoločnosti - inak znamenitý chlapina.)
+    </p>
+    <p>
+      Ja som mrdol plecom ako zatvrdilý hriešnik, keď mu sentenciu čítajú.
+    </p>
+    <p>
+      Druhý svedok - takže civilizátor - priblížil sa medzi tým k stolu, na-
+      hol sa nad zapečatený balík a skríkol:
+    </p>
+    <p>
+      „Esist an Sie adressiert, Herr Brautigam!“ a podal mi víťazne na štyri
+      palce hrubý list. Vskutku - adresa znela mne.
+    </p>
+    <p>
+      „No, meine Herren! Tu istotne leží rozlúštenie záhady: dovoľte,“ i uk-
+      loniac sa svedkom, otvoril som balík.
+    </p>
+    <p>
+      Ukázala sa kniha a v nej lístok, vktorom bolo napísané:
+    </p>
+    <p>
+      „Pane! Aby ste za dedičstvom mojej sestry Milice veľmi nepachtli,
+      vydávam vám ho hneď a to v podobe sem pripojenej knihy, ktorú vy
+      istotne najlepšie potrebujete.
+    </p>
+    <p>
+      Artur m. p.“
+    </p>
+    <p>
+      Otvorím knihu... „Ach!“ skríknem tragikomickým hlasom „Umgang
+      mit Menschen von Baron Knigge!“
+    </p>
+    <p>
+      »„Richtig!“ zvolali oba svedkovia.
+    </p>
+    <p>
+      Každý si môže predstaviť, ako mi bolo kolo srdca. Či sa smiať, či pla-
+      kať, či sa hnevať - či čo - sám som nevedel. (Moji svedkovia mi potom
+      povedali, že sa mi v tom okamihu tvár smiala - a zočí pedlili slzy.)
+    </p>
+    <p>
+      „Na sobáš zvonia, na sobáš zvonia!“ kričal húf pred domom, ktorý
+      nás bol z hostinca sprevádzal.
+    </p>
+    <p>
+      Skutočne! Nedočkavý Korunka dal už k sobášu vyzváňať a mladej ne-
+      vesty nebolo.
+    </p>
+    <p>
+      „Pekne sme!“ šomral som zúfale a prial som si ten báječný kepeň, do
+      ktorého keď sa človek zavinie, v okamihu sa tam nachodí, kde si sám
+      zažiada.
+    </p>
+    <p>
+      Ja som si žiadal aspoň na tisíc míľ od svadobného domu.
+    </p>
+    <p>
+      Vtom sa však otvorili bočné dvere - i vstúpila bledým svetlom zornič-
+      ky v tvári zaliata, v bielom talári cherubov utešene zavinutá, v čiernom
+      smútku oblečenou tetkou sprevádzaná Milica, podala mi snehobielu
+      rúčku - i vznášala sa vedľa môjho boku do chrámu.
+    </p>
+    <p>
+      Keď som z izby kráčal, obzrel som sa. Sprevádzali ma dve čierne oči,
+      ohnivé ako rozpálené uhlíky - oči Lujzy.
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      
+    </p>
+    <p>
+      pa
+    </p>
+    <p>
+      
+      <pb/>„Koniec románu - nastáva próza, próza života!“ vzdychol som po so-
+    </p>
+    <p>
+      báši - sprevádzajúc Milicu k hostincu, pred ktorým už stálo pár vozov,
+      dopravivších moju rodinu.
+    </p>
+    <p>
+      I nasledovala velikánska hostina. Pán Trúba sa dosvedčil hodným
+      svojho vychýreného hostiteľského mena. Múdro rátal - zhromaždilo
+      sa nie dvanásť, ale do štyriadvadsať osôb hodovníkov. Inkognito mojej
+      svadby sa neudržalo, čo som veľmi ľutoval. Vína výborné podľa chuti -
+      každý toast rečou sladký a dvorný dotýkal sa horko a nezdvorile môjho
+      vačku. Prial som si mlynček, čo dukáty melie - alebo aspoň kreditu.
+      Mlynček sa neukazoval: škoda báječných časov: takýto deux ex machina
+      teraz ani v múzeách nie je, nie to, žeby sa vhocktorom hostinci zjavil.
+    </p>
+    <p>
+      „Eh, sprobujem s kreditom!“ dodával som si chuti a po skončenom
+      obede pozval som pána Trúbu nabok.
+    </p>
+    <p>
+      „Pane! Ja som vo veľkých ťažkostiach
+    </p>
+    <p>
+      » Ach, ach! Prosím, čože rozkážu? Či snáď málo vína? Či sa bude snáď
+      páčiť šampaner? Mám dobrý, naozajstný, opravdivý francúzsky.“
+    </p>
+    <p>
+      „Ďakujem... nie! Dosť nám je, ale...“
+    </p>
+    <p>
+      „Či hodlajú tu nocovať?... Ach, skutočne, tam von sa veľmi cedí —
+      hneď rozkážem večeru.“
+    </p>
+    <p>
+      „Nie, prosím, nie! Pôjdeme my vslote - ale...“
+    </p>
+    <p>
+      „Ľutujem, že sa tak ponáhľajú... ostatne im azda dačo chýba?“
+    </p>
+    <p>
+      „Áno, pane!“ vzdychol som sťažka, „chýbajú mi - peniaze...“
+    </p>
+    <p>
+      Pán hostinský otvoril ústa a meral ma od päty do hlavy. „Hm, hm! To
+      je skutočne veľká chyba!“ zamrmlal naostatok.
+    </p>
+    <p>
+      „Už je darmo! Dočkať musia... veľmi som sa vytrovil, ako vidia, vy-
+      dávam si ženu a ona mňa žení, jedným slovom: obidvaja nemáme nič!“
+    </p>
+    <p>
+      I poľutoval nás pán Trúba a dočkal, kým sme ho z prvej angarie mojej
+      novej služby nevyplatili.
+    </p>
+    <p>
+      Ach... av siedmy rok po týchto udalostiach sa i služba minula, i sved-
+      kovia môjho sobáša sa roztratili po svete (istotne sú dakde na Morave), i
+      pán Trúba zanechal hostinec, i ja som sa odriekol romantiky a preberám
+      sa v dedičstve mojej ženy, v knihe to baróna Kniggeho: „Umgang mit
+      Menscher“... A čo je všetkému tomu príčina? I pán Bach, i veľké árendy,
+      nadovšetko ale „čierne a biele šaty“!
+    </p>
+    </body>
+  </text>
+</TEI>

@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="ISBN 978-80-8101-683-7">Hlad a láska : ELTeC edícia
-            </title>
+        <title ref="ISBN:978-80-8101-683-7">Hlad a láska : ELTeC edícia
+        </title>
         <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
         <respStmt>
           <resp>editor</resp>
@@ -11,16 +11,15 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure unit="words">0</measure>
-        <measure unit="pages">14</measure>
+        <measure unit="words">4704</measure>
       </extent>
       <publicationStmt>
         <p/>
       </publicationStmt>
       <sourceDesc>
         <bibl type="printSource">
-          <author>Kubáni, Ľudovít (1830-1869)</author>
-          <title>Hlad a láska</title>
+          <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
+          <title ref="ISBN:978-80-8101-683-7">Hlad a láska</title>
           <pubPlace>Bratislava</pubPlace>
           <publisher>Kalligram</publisher>
           <date>2012</date>
@@ -43,824 +42,818 @@
     </profileDesc>
     <revisionDesc>
       <change when="2023-12-17">
-            Initially created as an ELTeC file
-          </change>
+        Initially created as an ELTeC file
+      </change>
     </revisionDesc>
   </teiHeader>
   <text>
-<front>
-</front>
-<body><p>
-Ľudovít Kubáni
-HLAD ALÁSKA
-</p>
-<p>
-KAPITOLA PRVÁ
-</p>
-<p>
-  
-</p>
-<p>
-dhce dokázať, že je červené víno najlepší liek proti cholere, a hlad najväčš
-nepriateľ lásky
-</p>
-<p>
-„Či vypijeme ešte jednu holbu, fratres?“ dopytoval sa Daniel Korunka,
-administrátor cirkvi Bôbovec, svojich dvoch kamarátov, ktorí sa teraz
-spolu s ním nachádzali v hostinci „U zlatej britvy“ v meste S. „Napime
-sa, keď sme raz tu, jedna holba červeného vína nám nezaškodí, ba dak-
-torí hovoria, že je dobré proti cholere.“
-</p>
-<p>
-„Netáraj, bratku, a nespomínaj diabla, keď chceš, aby sa ti nezjavil! Či
-červené, či biele, všetko jedno: keď ti raz cholera na čelo zaklope - aus
-ist - tam si! Nespomôže ti ani seksárdske,“ vyvracal merník Ružan bu-
-dúceho pána farára.
-</p>
-<p>
-„Kelner! Doneste miesto jednej holby dve!“ zavolal Stanko Stupický,
-osnovník pri ochodznom úrade v R. „Čoby to holba! Proti cholere ani
-desať nepomôže, ale sa napite z tohto nebeského nektáru do chuti, tak sa
-vám na okamih celý svet zjaví vo farbách lásky.“
-</p>
-<p>
-„Ale, hľadteže toho politika! Tomu v tej kancelárii už aj city srdca vy-
-schli, a aby ich v lásku potencíroval, potrebuje vína!“ smial sa Korunka.
-a vypil dúškom pohárik.
-</p>
-<p>
-„Šanujem, ľutujem, želiem ťa, Stano! Taký mladý, dvadsať
-šuhaj — a k láske sa vínom musíš nadchnú
-</p>
-<p>
-   
-</p>
-<p>
-iťročný
-Či ty neznáš, že je láska
-</p>
-<p>
- 
-</p>
-<p>
-7
-<pb/>dačo abstraktne ideálne, ktorá s takýmito expediensami žiadne kama-
-rátstvo nemá? Počuj, Ružan! Ty si to už skúsil, vysvetli že tomuto mate-
-riálnemu človiečikovi pôvod, vývin a moc mladistvej ľúbosti - nech mi
-s takými blasfémiami uši neuráža.“
-</p>
-<p>
-„Odi profanum vulgus et arceo, favete linguis hovorí Horatius.
-Ja by som mal síce ako merník uvádzať Archimeda, ale keď sme prešli
-na pole romantiky, musím hovoriť s básnikom,“ začínal Ružan a obrátil
-sa k Stupickému. „Vidíš, Stano! Ty si na planých chodníkoch - a keby
-tvoja Miluša vedela, že tvoja láska k nej len cez oceán vína pláva, pekne
-by sa ti poďakovala. Ja som nie syn ideálov - to tamto Daňovi nechám,
-ktorý jednako nemá v Bôbovci inakšiu robotu, než hviezdy čítať a vzdy-
-chať, túžiť a blúzniť — nota bene keď mu chýbajú kamaráti k ferbli: ale
-to ti povedám, že i ja v láske čiže v ľúbosti dačo vyššieho, velebnejšieho,
-mladému duchu primeranejšieho vidím - než holú zmyselnosť. Kde sa.
-dvaja ľúbia, stratia povedomosť tohto sveta, nájdu sa sami v sebe, žijú
-pre seba ako tie divé holuby v našich hájoch - netúžia po bohatstvách
-a rozkošiach tohto sveta, kich blaženosti je dosť, keď majú chalupu, do:
-ktorej sa pred naším zlým svetom môžu ukryť. Ver mi, Stano! I ja som
-ľúbil, to viete, koho - ale tomu pokoj! Stalo sa — len to podotknem, že to
-boli moje najblaženejšie časy - a aby som ľúbil, nenadchol som sa tvojím
-červeným nektárom - i voda mi bola dobrá!“
-</p>
-<p>
-„No, či ste sa už vyhovorili, chlapci?!“ spytoval sa Stupický svojich ka-
-marátov, keď Ružan bol dokončil. „Verte, ako chcete, to je vaša vec — kto.
-si čo ako predkladá a predstavuje, tak to má. I láska je niečo relatívne.
-Pri tom všetkom však sa všetci musíme koriť pravde toho starobylého
-porekadla, že ,sine Cerere et Bacho friget Venus. To jest, hlad a smäd sú
-takí priatelia lásky, ako voda ohňu.“
-</p>
-<p>
-„Človeče, ty si materialista!“ zvolal administrátor.
-</p>
-<p>
-„Bratku, ty si vyhorená sopka bez dychu života!“ kričal merník.
-</p>
-<p>
-„Spravte zo mňa, čo sa vám páči, páni citlivci!“ odpovedal Stanko a mr-
-dol plecom, ako čo by ho dosť málo tieto výbuchy priateľstva jeho spoloč-
-níkov zaujímali: potom si nalial nanovo červeného vína, vypil pohárik na
-dúšok, a uprel svoje zraky prenikavo na kamarátov, ako čo by im do srdca.
-chcel nahliadnuť. Naostatok si utrel ústa a usmial sa sám pre seba.
-</p>
-<p>
-„Ale si teraz len v láskavom humore? Veď si už sám jednu holbu vy-
-pil!“ dráždil ho učiteľ bohoslovia.
-</p>
-<p>
-  
-</p>
-<p>
-  
-</p>
-<p>
- 
-</p>
-<p>
-8
-<pb/>„Pravdu máš, Daňo! To červené už kus účinkuje — dáka ma anakre-
-ontská vôľa zašla - teraz sa mi všetko - celý svet v dúhových farbách
-lásky pred očami mihotá. Oj, také city nadzemskej lásky vo mne povstá-
-vajú, že ich ani vypovedať neviem. Hľa, to dôkaz mojej zásady, že z lásky
-o hlade a smäde nič. Vy i teraz ešte krútite hlavou?“
-</p>
-<p>
-„Dobre! Ja vám to za zle nemám: i ja som dakedy - ba ešte len pred
-Jánom - na tej strune húdol, ale odvtedy, či mám povedať vtedy, utvoril
-som si o láske solídnejší pochop - skúste, fratres! — A keď nemáte sami
-ktomu príležitosť, učte sa zo skúsenosti druhých...“
-</p>
-<p>
-„Teda na Jána sa stal tvoj nepochopiteľný obrat k solídnosti?“ opyto-
-val sa Ružan.
-</p>
-<p>
-„Pletky!“ odsekol Korunka. „Veď on práve na Jána bol robil výlet ku
-svojej snúbenici: a to len neverím, že by sa bol babral v blízkosti tohto
-nebeského cherubína takými chlebárskymi myšlienkami - tak by jej bol
-nehoden! - hoci som sa i predtým už čudoval, že...“
-</p>
-<p>
-„Jazyk za zuby, chlape!“ zavolal. Stupický položartom, polonaozaj.
-»„Ružan uhádol, že sa moje obrátenie na deň svätého Jána stalo — a to
-— aby si sa mal na čom diviť, i to ti poviem práve pri boku môjho che-
-rubína!“
-</p>
-<p>
-r
-</p>
-<p>
-Ružan a Korunka tleskli rukami a otvorili ústa i oči.
-</p>
-<p>
-„No, neveríte? — Už vidím, že vám moje svätojánske dobrodružstvo
-od slova do slova musím vyrozprávať. No ale nič! Aspoň úfam, že si jeho:
-morálnu sentenciu i na seba vztiahnete.“
-</p>
-<p>
-„Živio, Stano! Ja som samé ucho!“ volal Ružan.
-</p>
-<p>
-„Kelner! Ešte jednu pintu!“ kričal Korunka. Stupický sa však nasle-
-dovne dal do rozprávky.
-</p>
-<p>
-KAPITOLA DRUHÁ
-prakticky dokazuje, že lúbolist jednu stovku nestojí
-</p>
-<p>
-„Môjho anjela znáte,“ začínal Stupický vyprávať svoje podivné dob-
-rodružstvo, „opísať vám ho teda netreba. Znáte, že je takého pohľadu,
-</p>
-<p>
-9
-<pb/>že by sa i tvrdého srdca šuhaj vedel doňho zamilovať. Milušinu krásu
-však prevyšuje jej dobrota srdca, a z tejto stránky ju ešte iba ja dokonale
-poznám. Žiaden z vás nebude pochybovať, že ju lúbim nadovšetko: ona.
-ce jedinkým cieľom snáh a túžob mojich. Môžete si pomyslieť, ako ťažko
-mi padlo, keď som z B. do R. musel odísť, keď som sa musel vzdialiť
-</p>
-<p>
-ej blízkosti, keď som musel privykať v diali od nej. Ej, bračekovci!
-"To ukrutne ťažká vec vidieť sa šmareným na míle od predmetu svojich
-snov práve tak, ako čo by vás z božieho slnka do temného žalára hodili —
-a úprimne vyznám, že ma v prvé dni neraz zaliali slzy, kedykoľvek som
-si na ňu pomyslel. Žiadal som si krídla, žiadal som byť orlom, sokolom,
-holubom, aby som sa vokamihu mohol povzniesť nad dedinu, slúžiacu
-ej k obydliu, a stade ako duch nad ňou strážil. Tak, tak, chlapci! Z tohto
-môžete vidieť, že som i ja pocítil trapy a slasti lásky, a pociťujem i teraz,
-a ten je chlebár - kto mito neverí...“
-</p>
-<p>
-„K rozprávke! K tvojmu dobrodružstvu, Stano!
-runka.
-</p>
-<p>
-„Hneď som pri ňom,“ odpovedal Stanislav a vyplákol si pohárikom
-vína ústa.
-</p>
-<p>
-„Ako znáte, každoročne na deň 24. júna padá Jána, ale že toho roku
-na deň nedele padol, to ste už hádam zabudli. Dosť na tom, ja som si
-už pred tromi dňami bol zmyslel navštíviť v tento deň moju sväticu.
-V úrade už v sobotu zo mňa nič nebolo: z každého aktu, ktorý som.
-prevracal, vykúkala mi utešená tvár mojej Miluše - a usmievala sa mi
-lúbezným pohľadom. Sotva som večera dočkal. Proti mojej obyčaji ľa-
-hol som si o desiatej, aby som včasráno mohol byť čím skôr na nohách
-lebo - bratia, vy poznáte moje prázdne vačky - mienil som
-pechúrov je najlepší raňajší chládok. Ostatne to nebola taká ľahká vec
-zaspať čeladníkovi rozbúreného srdca. Mestský hlásnik už tretiu po pol-
-noci hlásil, a ja som ešte bdiac blúdil vo vábnokrásnych obrazoch mojej
-raňajšej návštevy. Potom som predsa nejako usnul. Moje sny vám roz-
-právať nejdem - to by ma ďaleko zaviedlo - len to podotknem, že boli
-pokračovaním onej ľúbostnej panorámy, ktorá sa mi bdiacemu ťahala.
-popred duševné oči v utešených maľbách. Zrazu ma prebudil dáky hr-
-mot - pozriem hore — nado mnou stál Ďurko, asi pätnásťročný kočiš
-Slavatinských.
-</p>
-<p>
-!“ volali Ružan i Ko-
-</p>
-<p>
- 
-</p>
-<p>
-10
-<pb/>„Mladý pán! Dala ich slečna Miluša pozdraviť, aby dneska prišli so
-mnou hore do B.“ prihováral sa mi Ďuro.
-</p>
-<p>
-»A čo ty tu robíš?“ dopytoval som sa ho ja.
-</p>
-<p>
-„Tej noci som doviezol naspäť doktora - a mám prikázané, aby som
-bez nich domov neprišiel.“
-</p>
-<p>
-Mne nebolo viacej treba - pod dvoma minútami som bol oblečený
-sotva Ďurko stačil bič do ruky chytiť, už som sedel na voze, a voz racho-
-til, až oblaky prachu hore hradskou stávali.
-</p>
-<p>
-Slnko bolo už vyšlo - mohlo byť asi šesť hodín, keď sme sa dostali do
-Bôgovca - kde ty, Korunka, administruješ. Súc v myšlienkach blaženej
-ľúbosti zamorený - a v úprimnosti srdca ďakujúc mojej Miluši za tento.
-nápad, mňa príležitosťou k sebe dať dopraviť - zrazu mi prišlo na um, že
-i môj i Ďurkov žalúdok potrebuje raňajšie občerstvenie. Už sa mi vtedy
-marilo, že lačný žalúdok s ľúbosťou nesúhlasí preto som kázal Ďurkovi
-pred hostincom zastať, a vošiel som dnuka.
-</p>
-<p>
-„Či majú dačo dobrého k raňajkám?“ spýtal som sa krčmára.
-</p>
-<p>
-» Ak ráčia dočkať, uvarí moja naskutku kávu - ostatne mám i dobrú,
-znamenitú slivovicu.“
-</p>
-<p>
-Kávu, ako viete, nikdy nepíjavam. Slivovicu piť a na zálety ísť sa mi
-tiež nevidelo. Naostatok som si pomyslel, že kým do B. prídeme, pálen-
-čený zápach z mojich úst vyšumí - a jednako som ešte s mojou Milušou
-nebol tak ďaleko, aby sa naše ústa v sladkých bozkoch boli stretali.
-</p>
-<p>
-„Nech mi dajú teda kalištek slivovice!“ rozkázal som krčmárovi, ktorý
-tento rozkaz naskutku vykonal.
-</p>
-<p>
-„Hrom vám je to, a nie slivovica! Veď to je nápoj z ,torkóly, pályinka
-finomító intézetu!“ zvolal som odpľúvajúc, keď som bol koštoval poda-
-ný mi vínový lieh.
-</p>
-<p>
-„Čo som dlžen?“ spytoval som sa šibala krčmára a položil som ruku
-na vačok, vktorom moja chudá peňazonoška vždy odpočívala.
-</p>
-<p>
-„Pätnásť grajciarov, ich milosť!“ odpovedal uškierajúci sa krčmár.
-</p>
-<p>
-„Kýho hroma!“ vykríkol som v strachu a v zadivení: ale nie nad ne-
-primerane natiahnutou cenou mojich neužitých raňajok, lež že mojej
-suchotinárskej peňazonošky vo vačku nebolo. Hľadal som ju všade, ale
-o tej ani chýru ani slychu. Naostatok mi zišlo na um: že istotne zostala.
-na mojom písacom stole, na ktorý som ju bol večer vyložil, aby som
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
-11
-<pb/>sa prizrel mojim ostatným štyrom papierovým desiatočkám, určeným
-k tejto ceste.
-</p>
-<p>
-„Či budete znať stovku premeniť?“ dozvedal som sa krčmára, a vytia-
-hol som z vačku jeden vo štvoro zložený lúbolist.
-</p>
-<p>
-„Nájde sa azda — veru nedbám - práve sa strojím na vína, zídu sa mi
-i väčšie banknóty,“ potešoval ma krčmár.
-</p>
-<p>
-Ale že som ja nemal žiadnu vôľu lúbolist premeniť, to mi ľahko uverí-
-tej povediac mu, že sa ponáhľam a že by to premieňanie veľa času stálo,
-a sľúbiac, že sa večer k zaplateniu mojich útrat navrátim, šmaril som sa.
-do voza a letel som v lačných a podivných myšlienkach k cieľu mojej
-návštevy ďalej.“
-</p>
-<p>
-KAPITOLA TRETIA
-dokazuje, že bez kreditu nikde nič, a že dakedy i spolky miernosti trpia
-</p>
-<p>
-»„Do kostola boli už odzvonili, keď náš vozík zarachotil pred domom
-Slavatinských. Ľahký od hladu ako pero skočil som dolu, a potíšku som.
-sa vkradol do chyže — potíšku, lebo Milušina matka bola chorá, veľmi
-chorá. Práve driemala, keď som dnu vstúpil - pri jej hlave sedela Miluša.
-stvárou na smrť oblednutou. Kývla mi rukou k príchodu, a bôľny úsmev
-zahral okolo jej úst. Ja som sa posadil na pohovku a zabral som sa do.
-divných myšlienok. Bárs som si vedel uctiť bolesť dcéry, predsa ma moje
-vlastné položenie a toto chladné uvítanie robilo nevlým. Prial som si
-byť doma, tak ako predtým pri nej - doma by som sa bol aspoň chlebom
-nasýtil, a tu sa ani pohľadom lásky nemôžem.
-</p>
-<p>
-„Kde sú ti sestry, Miluša?“ spýtal som sa po dlhom mlčaní.
-</p>
-<p>
-„V kostole.“
-</p>
-<p>
-„A brat?“
-</p>
-<p>
-„Na poľovačke...“
-</p>
-<p>
-Utíchli sme zase. Kým toto mlčanie trvá, podotknem vám, že so ses-
-trami mojej snúbenice stojím nie na najlepších nohách. Sám neviem, čo
-je medzi nami: dosť na tom, hneváme sa, a keď do B. prídem, vyhýbam
-sa im, ako len môžem.
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
-12
-<pb/>Po chvíľke mi kývla Miluša k sebe - pošepla mi do ucha, by som do-
-vtedy, kým ona bude v kuchyni, zo spiacej muchy odháňal - a odišla
-von. Vtedy mi už na jazyku bolo oslovenie, aby mi dala niečo jesť - ale
-bohvie! - inak som sa rozmyslel, nazdal som sa, že moju poetickú lásku
-takouto prosbou urazím.
-</p>
-<p>
-Sedel som nad chorou asi pol hodiny. Zrazu táto otvorila oči, a polo-
-nemý výkrik zadivenia sa predral z jej zmodraných úst.
-</p>
-<p>
-„Ale tu budeš obedovať, Stanko?“ zašeptala chorá.
-</p>
-<p>
-Tu vám musím poznamenať, že som si dávno bol predsavzal nevziať
-u Slavatinských ničoho až dovtedy, dokiaľ Milušu mojou vlastnou ne-
-budem menovať. Dovtedy som navzdor mnohým ich invitáciám môj-
-mu predsavzatiu zostal verným, z čoho nejeden raz naozajstné hnevy
-medzi nami pošli. V terajšom položení mojom som však cítil, že ak sa
-len nechcem naučiť nič nejesť, musím prijať srdečné pozvanie mojej bu-
-dúcej svokry.
-</p>
-<p>
-„Dozaista!“ odpovedal som - a bolo po mojom predsavzatí. Potom
-sme sa pustili do všelijakého rozhovoru - chorá sa mi o tej nemoci po-
-nosovala - a ja som ju neborku tešil, ako som vedel, bárs úprimne vy-
-znám, že by som nebol za doktora. Medzitým ranné služby nedeľňajšie
-vzali svoj koniec - a sestry Milušine sa prinavrátili domov.
-</p>
-<p>
-Vstupovali do chyže: mňa mihom zaujala tá myšlienka, že sa dneska
-s nimi pomerím - i skočil som hore a letel som im v ústrety.
-</p>
-<p>
-„Dobrý deň, donna Lujza a donna Bela! Či ste sa za mňa pomodli-
-li?“ spytoval som sa usmievavo a ponáhľal som sa z ich šijí mantily od-
-prackať.
-</p>
-<p>
-Dievčatá pozreli na mňa tak ľadovým zrakom, že mi pracky odpúta-
-vajúce prsty naskutku zmeraveli.
-</p>
-<p>
-„No, to musela byt zvláštna kázeň, že vás takou svätosťou nadchla!“
-sproboval som zažartovať.
-</p>
-<p>
-Dievčatá nepovedali ani slova - odvrátili sa odo mňa a odišli do boč-
-nej chyže.
-</p>
-<p>
-Ja som zostal ako vo vytržení.
-</p>
-<p>
-»„Ale, čo sa im prihováraš, Stanko? Veď vidíš, že sú akési rozmrzené,“
-preriekla chorá, a tieto slová ma vytrhli z mojich myšlienok, do ktorých
-ma toto urážlivé uvítanie mojich budúcich švagrín bolo hodilo.
-</p>
-<p>
-13
-<pb/>Ja som si odkašlal, pohľadal som môj klobúk, priblížil som sa ku cho-
-rej, porosil som jej ruku jednou slzou urazeného citu a utekal som von.
-</p>
-<p>
-„Stano! Stanko môj! Kam ideš? - Nechoď, už budem prestierať!“ vo-
-lala z kuchyne Miluša, bežiac za mnou, a chytila ma za ruku.
-</p>
-<p>
-„Pokoj mi daj, anjel môj! - Ja u vás obedovať nebudem, u vásobedovať
-nechcem!“ odpovedal som jej rozpajedeným hlasom a stúpal som preč.
-</p>
-<p>
-Na veži zvonili poludnie - prišiel som pred hostinec. Pred hostin-
-com sedeli úradníci slúžnovského úradu, pravotári a vôbec všetci, kto-
-rí zvyčajne stolovali u pána Trúbu, krčmára v B... „Nešťastný pugilár!“
-mrmlal som sám v sebe a chcel som sa bokom hostinca dolu cestou pre-
-šmyknúť. Dnu do krčmy vojsť sa mi nevidelo. Pán Trúba bol vo svojom
-remesle prísny a neúprosný človek. Dlžil som mu za pár obedov a už
-dávno na mňa číhal za plácu. To by bolo bývalo nevhodné robiť k sta-
-rej dlžobe novú: a potom ešte aj to bola otázka, či by sa bol pán Trúba
-ktomu rozumel.
-</p>
-<p>
-„Aha, Stupický!“ zavolal pravotár Vážnický. „Počkaj, Stano! Neutekaj!
-— už dvanásť zvonia, a tak myslím, že tu budeš s nami obedovať?“
-</p>
-<p>
-S tým vstal hore a blížil sa ku mne.
-</p>
-<p>
-„Samko, odpusť! Ale ti teraz nemôžem spraviť k vôli: viem, že by
-som ti bol milým hosťom - ale som sa Hrušánkovi k obedu slúbil - tak.
-už chcem slovo zadržať - k tebe prídem na večeru...“ vyhováral som sa.
-pánu pravotárovi.
-</p>
-<p>
-„Aha, veď je pravda! — Tak je, tak - veď ťa tam čakajú. No, len sa
-ponáhľaj, a pozdrav ho | odo mňa. Ozaj! Navečer nebudem doma: príď
-popoludní okolo tretej alebo inokedy, keď budeš mat času,“ odpovedal
-pán pravotár, ktorého poznáte ako hodnú, driečnu chlapinu, čo však
-z oblakov spadnutých hostí nebárs rád vidí.
-</p>
-<p>
-Ale že ma kancelista Hrušánek s obedom nečakal - to vy, chlapci, ľah-
-ko uhádnete. Neborák ani to nevedel, že som v B. Pri tom všetkom však
-som sa smelo pustil k jeho hospode v tej pevnej nádeji, že uňho istotne
-utíšim cigánov kovajúcich v mojom bruchu.
-</p>
-<p>
-Pitvorné dvere boli primknuté, ale to ma nezarazilo. Vedel som dob-
-re, že on mal vo zvyku doma sedávať a nikde nechodí, teda zaiste doma.
-bude. Klopem na dvere - nič: búcham dobrých päť minút - nič. Už som
-bol k všetkému odhodlaný - i začal som vyzdvihovať dvere.
-</p>
-<p>
-14
-<pb/>„Kto to?“ ozval sa z tamdnu jeden mne neznámy hlas. „Doma pán?“
-dopytoval som sa napäto.
-</p>
-<p>
-„Nie je doma, šiel do Pluštíc do kostola, a nepríde, iba večer“ V B.
-totižto nieto, iba evanjelický kostol, a Hrušánek je katolík.
-</p>
-<p>
-„Dobrý apetít, Stano!“ zamrmlal som sám v sebe, a pustil som sa, kde
-ma dvoje očú nieslo.
-</p>
-<p>
-Moje oči - či mám riecť, moje nohy - doniesli ma však do jedného
-utešeného hájika. Vy ho dobre znáte, leží na dolnom konci B. na vý-
-chodnú stranu. Volá sa Kamenec. V jednom útule nachádza sa žliabok,
-kolo neho veniec tmavozelených jelší. Deň bol krásny, slnko nemilosrd-
-ne pálilo, a ja som sa tešil, že keď nie k obedu, teda aspoň do chládku
-som sa dostal. Vyvalil som sa do pažite a pozeral som hore ako Eliáš, keď
-čakal na krkavca. Nevyčkal som nič - ani krkavca, ani pečeného holuba.
-Bohvie, čo to, že v našich časoch už divy prestali, hádam - že už nieto
-prorokov. „Takto sa nenaješ!“ pomyslel som si a točil som oči dokola. Pár
-polozrelých jahôd kukalo von z machu, ktorý prikrýval skalnatú pôdu.
-Tieto vidieť a schmatní bol jeden okamih. Jahody boli síce trocha
-kyslé, ale ja by bol prisahal, že sú sladšie od medu. Škoda, že ich bolo
-málo, to mi nebolo, ako sa hovorí, ani pod jeden zub, ba mi iba apetít
-dráždili. Keď som už ani jednu vyzrieť nevedel, nahol som sa k žliabku,
-aby som vodou doplnil, čo v žalúdku chýbalo. Nešťastná voda! Ešte i
-teraz vo mne hurtuje.“
-</p>
-<p>
-„Zalej ju vínom!“ ponúkal rozprávajúceho bôbovský administrátor.
-</p>
-<p>
-„Hej, kelner! Ešte jednu pintu!“ rozkazoval Ružan. „Vidíš, Stano! Tá
-tvoja rozprávka ma zaujíma: len nerob toľko okolkov: lebo nech som
-dobrý, kým ju dokončíš, vypijeme ešte najmenej štyri pinty - a potom aj
-nám vačky vyschnú.“
-</p>
-<p>
- 
-</p>
-<p>
-„Eh, čo! Ja myslím, že moja rozprávka stojí za tie štyri pinty vína,“
-odpovedal Stupický, keď vnútornosti dvoma pohármi do poriadku bol
-uviedol. „No ale, načo sa mi to len do reči miešate? Už neviem ani, kde
-som zastal.“
-</p>
-<p>
-„Pri vode! Pri vode!“ volali Stankovi kamaráti.
-</p>
-<p>
-„Tak je, pri vode! - Nuž vidíte, bračekovci, vtedy sa mi aspoň na oka-
-mih všetky spolky miernosti nepozdávali. 1 voda je dobrá - ale, nech
-som dobrý - aj víno je dobré. Vína sa napijem aj na lačný žalúdok —
-</p>
-<p>
-15
-<pb/>ale vody? Sprobujte že, keď ste za štyriadvadsať hodín nič nejedli, ako.
-vám bude búriť vo vnútornostiach. I v mojich bola zabúrila - opravdivý
-odboj a rozbroj sa strhol v nich - a vtedy som preklínal - moju lásku.
-Sproboval som spať, ľahol som si do trávy, sotva mi však na oči driemoty
-nadchádzali - vnútorný odboj zabúril, a ja - vstávaj hore!
-</p>
-<p>
-Mohlo byť kolo druhej popoludní, keď sa mi žalúdok do normálneho
-stavu prinavrátil. „Už sú hádam v B.... . po obede, smelo sa teda môžem
-vrátiť,“ myslel som si, a namieril som moje kroky do dediny.
-</p>
-<p>
-Prídem pred Slavatinských dom - zastal som trochu, a vzal som tú
-najveselšiu tvár na seba, aby z mojich porušených čít obličaja nikto ne-
-mohol uzavierať na môj nešťastný dneskajší pôst. V pitvore mi zastala.
-cestu Miluša s vyplakanými - ako sa zdalo - očami a pozerala na mňa.
-s takou nemou ponosou, že ma srdce nevoľky zabolelo.
-</p>
-<p>
-„Kde si obedoval, Stano môj?“ spytovala sa Miluša.
-</p>
-<p>
-„Duša! Nuž kdeže inde, ako v hostinci?“ odpovedal som so sileným
-úsmevom. Ona však krútila hlávkou, vedela, že lužem.
-</p>
-<p>
-Medzitým som otvoril dvere - a prvá osoba, ktorú som v chyži videl
-— bola moja sestra.“
-</p>
-<p>
-KAPITOLA ŠTVRTÁ
-dokazuje, že dakedy prvý bozk lásky zamak sladkosti v sebe nemá
-</p>
-<p>
-„Tak predsa raz dôjde konca hladové utrpenie moje!“ povedal som sám
-sebe, keď som sa presvedčil, že to vskutku moja sestra, a zabudnúc na
-všetkých okolo stojacich, letel som k nej.
-</p>
-<p>
-Moja sestra sa nemálo zadivila nad touto bratskou láskou, bárs tá —
-aspoň z mojej stránky - nikdy chladná nebývala: i rozprávala mi cieľ
-svojho príchodu - chcela totiž poznať moju snúbenicu, a svojmu pacho-
-liatku od tamojšieho lekára dať zaštepiť drobnice.
-</p>
-<p>
-„Ach, liebste Schwester!“ začal som po nemecky, aby ma okrem mojej
-sestry nikto nerozumel, „ich bin hungrig wie ein Wolf ich bitte dich,
-leihe mir einen Gulden...“ Sestra pozrela na mňa, potom na stôl, ktorý
-</p>
-<p>
-16
-<pb/>práve znovu pre ňu prestierali, ako čo by mi chcela povedať, že sa v jej
-spoločnosti môžem nasýtiť. Ja som však smutne krútil hlavou a stisol
-dovedna zuby.
-</p>
-<p>
-„Ale prečo si taký hlavatý, Stano?“ dohovárala mi sestra v nemeckej reči.
-</p>
-<p>
-„Jedz, keď ti dávajú - nečakaj, aby ťa ako malé dieťa chovali.“
-</p>
-<p>
-Ja som sa bolestne usmial, i vyrozprával som jej v stručnom výťahu v
-nemčine príčinu môjho dnešného pôstu, končiac s tou prosbou, aby mi
-predsa aspoň desať grošov požičala.
-</p>
-<p>
-„Nemám, braček môj, nemám!“ vyhovárala sa sestra pravdivým ná-
-zvukom.
-</p>
-<p>
-„Ale vieš čo — môj čaká na mňa v R... odvez sa ta so mnou, tam ti
-dačo aspoň k večeri pripravíme.“
-</p>
-<p>
-S tým si sadla k prestretému stolu.
-</p>
-<p>
-Medzitým sa moja Miluša so svojimi sestrami netrpezlivo dívala na
-nás - bolelo ich, že hovoríme pred nimi v nemčine, ktorej nerozumejú.
-Miluša si sadla na pohovku ku mne, ale ja som sa díval nie na ňu, lež na
-kusy, ktoré sestra do úst kládla.
-</p>
-<p>
-„Poď, zajedz si so mnou!“ oslovila ma sestra, obadajúc moje túžobné
-</p>
-<p>
-   
-</p>
-<p>
-ja neznám, čo mu je, že nechce u nás jesť — i s obedom sme
-ho čakali...“ zamiešala sa skormúteným hlasom Miluša. „Och! Veď snáď
-nebudem dva razy obedovať!“ odsekol som, — cítiac už však, že sa mi
-hlas trasie ako plačúcemu dieťaťu. Toto položenie tvorilo kulminatívny
-punkt môjho trápenia. Lačnému dívať sa na jediacich, to sú väčšie muky
-než tortúra. Vo mne bojovali falošná hanblivosť — a hlad. Ak sa budem
-ešte ďalej prizerať - cítil som, že ostatný zvíťazí. Pobral som sa teda hore
-a šiel som von do záhrady, ktorá sa ťahá popri dome Slavatinských - na-
-ložiac však sestre, aby sa čím skôr ponáhľala domov.
-</p>
-<p>
-Nesedel som päť minút samotný - dačo zašuchotalo, a nado mnou
-stála utešená postava Milušina s takou zarmútenou tvárou, ako maľujú
-Magdalénu, keď pod krížom stojí.
-</p>
-<p>
-„Ale, prosím ťa, čo mi nedáš pokoja, keď chcem byť sám so sebou?“
-osopil som sa na ňu.
-</p>
-<p>
-Dievča zaplakalo - a po prvý raz sa mi vrhlo okolo hrdla a bôlom,
-láskou znáruživené prvý bozk ľúbosti pritislo na moje zakabonené čelo.
-</p>
-<p>
- 
-</p>
-<p>
-17
-<pb/>Povedáte, žeje prvý bozklásky akási nevýslovná sladkosť, ale bohvie! -
-ja som ho od hladu ani necítil.
-</p>
-<p>
-„Ty ma nechceš, Stano. - Ty si mi neverný. - Ty si na mňa, zabudol!“
-šepotalo rozžialené dievča a stukalo tak bolestne, že by to bolo pohlo i
-skalu, nie však hladom zmoreného zaľúbenca.
-</p>
-<p>
-„Daj mi pokoj, Miluša! Čo ma vytrhuješ z mojich myšlienok?“ oboril
-som sa na ňu a vytrhol som sa jej z objatia.
-</p>
-<p>
-„Oh, bože môj, bože môj! Čože ma tak nevinnú tresceš?!“ mrmlala
-ona sama sebe: oprela sa o jabloň a bledosť smrti sadla jej na tvár.
-</p>
-<p>
-„Slečna, vy ma nerozumiete! Vy nechápete moje myšlienky, prosím
-vás teda, nedotierajte ani do mňa, ani do pána boha. Keď vašu lásku
-nezasluhujem - dobre - podrobím sa môjmu osudu: nebudem prvý,
-ktorého láska zradila...“
-</p>
-<p>
-Miluša na tieto bláznivé, od hladu chladným hlasom povedané slová
-zalomila dovedna ruky, celá jej bytosť sa triasla - i padla ako kosou pod-
-ťatý kvietok k zemi.
-</p>
-<p>
-Mňa nepohol ani tento výraz nevýslovnej jej bolesti.
-</p>
-<p>
-„Julika! Daj zapriahnuť, nech čím skôr ideme!“ volal som na sestru,
-ktorá sa vracala od lekára. „Skoro daj zapriahnuť - lebo hneďidem peši.“
-</p>
-<p>
-O chvíľku stál zapriahnutý voz pred domom.
-</p>
-<p>
-Medzi týmto časom ležala Miluša s tvárou v tráve ukrytou na zemi
-a stukala tak srdce raniacim hlasom, že som na chvíľku zabudol strašný
-hlad, ktorý mi zúril vo vnútornostiach.
-</p>
-<p>
-„Zbohom, duša moja!“ hovoril som a naklonil som sa k jej hlave, kto-
-rú obrátila ku mne akoby elektrickou iskrou uderená, keď počula tieto
-slová. „Zbohom, duša moja! Nezdržuj ma - druhý raz ti všetko vysvet-
-lím!“
-</p>
-<p>
-„Nechoď - preboha ťa prosím - nechoď, Stano môj! Lebo až zájdeš
-— zajtrajšieho dňa nedožijem...“ prosila ona, ja som sa však vytrhol z jej
-rúk - a jedným skokom som bol vo voze.
-</p>
-<p>
-Sestry Milušine si dačo v uši šepkali - zdalo sa mi, že oželeli svoju
-raňajšiu chladnosť.
-</p>
-<p>
-Lujza pristúpila k vozu.
-</p>
-<p>
-„Stanko!“ zašepkala mi do ucha. „Až Milušu rád vidíš, zostaň - lebo
-jej bude zle...“ Ja som sa šialene usmial.
-</p>
-<p>
-18
-<pb/>„Čože sa už nehýbeš?“ skríkol som na kočiša, ktorý mojim hromo-
-vým hlasom prestrašený tak šibol kone, že sa vzopäli a potom jediným
-trhnutím pustili sa vútek.
-</p>
-<p>
-Keď náš voz zarachotil k odchodu, šmaril som posledný pohľad na
-záhradu. Vo dverách sa opierala Milušina postava. Zdalo sa mi, že vidím
-polnočného ducha akejsi zomretej. Taká bledosť smrti, aká jej líca bola.
-zaliala, taký výraz bolesti, taký nadprirodzený plameň v oku som nikdy
-nevidel. Tento výjav nezabudnem nikdy.
-</p>
-<p>
-„Oh, nešťastný pugilár!“ vykríkol som pološepmo a vrhol som sa späť
-do sedliska.
-</p>
-<p>
-Voz náš letel prašnou cestou ako divý šarkan v povetrí. Sestra utierala
-slzy, neviem, koho šanovala, či mňa, či Milušu: ja som nehovoril ani
-slova. Plameň nevysloviteľnej zlosti šľahal celým mojím vnútorným člo-
-vekom. Prileteli sme k Z. tam sa cesty delia, jedna do K., kde sestra býva,
-druhá do S., kde moje bydlo a kde sa teraz všetci traja nachádzame.
-</p>
-<p>
-„Stoj!“ zavolal som na kočiša a vyskočil som z voza.
-</p>
-<p>
-„Stano! Veďže poď do R., tam je aj môj - najete sa vedno!“ volala na
-mňa sestra.
-</p>
-<p>
-Ja som však nič neodpovedal. Ani sa neobzrúc na stojaci voz, pustil
-som sa do behu - a utekal som dolu cestou.“
-</p>
-<p>
-KAPITOLA PIATA
-dokazuje, že sa človek obyčajne tam zastaví, kde si ani sám nežiada
-</p>
-<p>
-„Už som podotkol, že deň bol sparný. Na oblohe sa začali vežiť oblaky -
-v diali sa ozýval hrom - víchor sa dvíhal, a v okamihu zavisla čierňa-
-va nad mojou hlavou. K vnútorným biedam stíhala ma i vonkajšia po-
-hroma. Hnev mi dal krídla, i letel som s víchrom o závod. Z dediny
-na dedinu prenasledoval ma krik a šmrk mladej chasy, nazývajúc ma
-černokňažníkom. A vskutku, rozorvaná postava moja musela mať v sebe
-dačo príšerné. Rozčuchrané vlasy, divý pohľad, sem a tam vychievajú-
-ci sa frak, vysokotočený klobúk pod pazuchou, k tomu čierňava, blesk,
-hromy, víchrica - no, predstavte si, či to nebol černokňažnícky obraz?“
-</p>
-<p>
-19
-<pb/>Lejak sa spustil. V okamihu som premokol ako syseľ - predo mnou sa
-stmilo, i nevidel som nič.
-</p>
-<p>
-„Pán urodzený, pán urodzený!“ volal dakto. Pustil som sa za hlasom.
-</p>
-<p>
-„Preboha, kdeže tak utekajú v tej búrke? Nech vojdú dnu, kým pre-
-stane,“ vravel hlas, ktorý som bol dopočul. Pozriem hore, predo mnou
-stál - bôbovský krčmár!
-</p>
-<p>
-„Och, och! Nemám peniaze - i za raňajky som im dlžen!“ zahoreko-
-val som zúfalo, a premožený všetkými nehodami toho dňa padol som.
-bez seba na zem.
-</p>
-<p>
-„Vieš, Korunka, že si ma ty k životu vzkriesil - u teba som ležal tri dni
-v tej najnebezpečnejšej horúčke - boh ti odplať a nedaj, aby som sa ti
-podobným spôsobom mohol odslúžiť.“
-</p>
-<p>
-Stupický zamíkol. Priatelia jeho pozreli jeden po druhom. „Či si už
-skončil?“ dopytoval sa Ružan.
-</p>
-<p>
-„Už, bratia! - Čo by ešte nasledovalo, to si sami doplňte...“
-</p>
-<p>
-„Nidíš, Daňo, teraz už znáš príčinu mojej vtedajšej nemoci, na ktorú
-si sa vtedy tak netrpezlivo dozvedal. Toto červené víno otvorilo moje
-ňadrá, a vám moja rozprávka - tak myslím otvorí oči k prijatiu tej ne-
-podvratnej zásady, že láske hlad kope hrob...“
-</p>
-<p>
-„Bola zomreh a vstala z métvych tá tvoja láska,“ preriekol Korunka
-smiešno-vážnym hlasom, „myslím, že si už s Milušou na čistom!“
-</p>
-<p>
-„Ach, to duša bez páru! O štvrť roka bude sobáš! Ty dáš na nás požeh-
-nanie - a teba, Ružan, týmto slávnostne povolávam za družbu.“
-</p>
-<p>
-„Živio Stano!“ zvohli títo oba a poháre zaštrngali k šťastlivému zdaru.
-</p>
-<p>
-20
-<pb/></p>
-</body>
-</text>
+    <front>
+      <div type="titlepage">
+        <head>HLAD A LÁSKA</head>
+      </div>
+    </front>
+    <body>
+      <div type="chapter">
+          <head>KAPITOLA PRVÁ</head>
+          <head>
+            <emph>
+              chce dokázať, že je červené víno najlepší liek proti cholere, a hlad najväčš
+              nepriateľ lásky
+            </emph>
+          </head>
+          <p>
+            „Či vypijeme ešte jednu holbu, fratres?“ dopytoval sa Daniel Korunka,
+            administrátor cirkvi Bôbovec, svojich dvoch kamarátov, ktorí sa teraz
+            spolu s ním nachádzali v hostinci „U zlatej britvy“ v meste S. „Napime
+            sa, keď sme raz tu, jedna holba červeného vína nám nezaškodí, ba dak-
+            torí hovoria, že je dobré proti cholere.“
+          </p>
+          <p>
+            „Netáraj, bratku, a nespomínaj diabla, keď chceš, aby sa ti nezjavil! Či
+            červené, či biele, všetko jedno: keď ti raz cholera na čelo zaklope - aus
+            ist - tam si! Nespomôže ti ani seksárdske,“ vyvracal merník Ružan bu-
+            dúceho pána farára.
+          </p>
+          <p>
+            „Kelner! Doneste miesto jednej holby dve!“ zavolal Stanko Stupický,
+            osnovník pri ochodznom úrade v R. „Čoby to holba! Proti cholere ani
+            desať nepomôže, ale sa napite z tohto nebeského nektáru do chuti, tak sa
+            vám na okamih celý svet zjaví vo farbách lásky.“
+          </p>
+          <p>
+            „Ale, hľadteže toho politika! Tomu v tej kancelárii už aj city srdca vy-
+            schli, a aby ich v lásku potencíroval, potrebuje vína!“ smial sa Korunka.
+            a vypil dúškom pohárik.
+          </p>
+          <p>
+            „Šanujem, ľutujem, želiem ťa, Stano! Taký mladý, dvadsať
+            šuhaj — a k láske sa vínom musíš nadchnú
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            iťročný
+            Či ty neznáš, že je láska
+          </p>
+          <p>
+            
+          </p>
+
+          <pb n ="7" />
+
+          <p>
+            dačo abstraktne ideálne, ktorá s takýmito expediensami žiadne kama-
+            rátstvo nemá? Počuj, Ružan! Ty si to už skúsil, vysvetli že tomuto mate-
+            riálnemu človiečikovi pôvod, vývin a moc mladistvej ľúbosti - nech mi
+            s takými blasfémiami uši neuráža.“
+          </p>
+          <p>
+            „Odi profanum vulgus et arceo, favete linguis hovorí Horatius.
+            Ja by som mal síce ako merník uvádzať Archimeda, ale keď sme prešli
+            na pole romantiky, musím hovoriť s básnikom,“ začínal Ružan a obrátil
+            sa k Stupickému. „Vidíš, Stano! Ty si na planých chodníkoch - a keby
+            tvoja Miluša vedela, že tvoja láska k nej len cez oceán vína pláva, pekne
+            by sa ti poďakovala. Ja som nie syn ideálov - to tamto Daňovi nechám,
+            ktorý jednako nemá v Bôbovci inakšiu robotu, než hviezdy čítať a vzdy-
+            chať, túžiť a blúzniť — nota bene keď mu chýbajú kamaráti k ferbli: ale
+            to ti povedám, že i ja v láske čiže v ľúbosti dačo vyššieho, velebnejšieho,
+            mladému duchu primeranejšieho vidím - než holú zmyselnosť. Kde sa.
+            dvaja ľúbia, stratia povedomosť tohto sveta, nájdu sa sami v sebe, žijú
+            pre seba ako tie divé holuby v našich hájoch - netúžia po bohatstvách
+            a rozkošiach tohto sveta, kich blaženosti je dosť, keď majú chalupu, do:
+            ktorej sa pred naším zlým svetom môžu ukryť. Ver mi, Stano! I ja som
+            ľúbil, to viete, koho - ale tomu pokoj! Stalo sa — len to podotknem, že to
+            boli moje najblaženejšie časy - a aby som ľúbil, nenadchol som sa tvojím
+            červeným nektárom - i voda mi bola dobrá!“
+          </p>
+          <p>
+            „No, či ste sa už vyhovorili, chlapci?!“ spytoval sa Stupický svojich ka-
+            marátov, keď Ružan bol dokončil. „Verte, ako chcete, to je vaša vec — kto.
+            si čo ako predkladá a predstavuje, tak to má. I láska je niečo relatívne.
+            Pri tom všetkom však sa všetci musíme koriť pravde toho starobylého
+            porekadla, že ,sine Cerere et Bacho friget Venus. To jest, hlad a smäd sú
+            takí priatelia lásky, ako voda ohňu.“
+          </p>
+          <p>
+            „Človeče, ty si materialista!“ zvolal administrátor.
+          </p>
+          <p>
+            „Bratku, ty si vyhorená sopka bez dychu života!“ kričal merník.
+          </p>
+          <p>
+            „Spravte zo mňa, čo sa vám páči, páni citlivci!“ odpovedal Stanko a mr-
+            dol plecom, ako čo by ho dosť málo tieto výbuchy priateľstva jeho spoloč-
+            níkov zaujímali: potom si nalial nanovo červeného vína, vypil pohárik na
+            dúšok, a uprel svoje zraky prenikavo na kamarátov, ako čo by im do srdca.
+            chcel nahliadnuť. Naostatok si utrel ústa a usmial sa sám pre seba.
+          </p>
+          <p>
+            „Ale si teraz len v láskavom humore? Veď si už sám jednu holbu vy-
+            pil!“ dráždil ho učiteľ bohoslovia.
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            
+          </p>
+          <pb n ="8" />
+          <p>
+            „Pravdu máš, Daňo! To červené už kus účinkuje — dáka ma anakre-
+            ontská vôľa zašla - teraz sa mi všetko - celý svet v dúhových farbách
+            lásky pred očami mihotá. Oj, také city nadzemskej lásky vo mne povstá-
+            vajú, že ich ani vypovedať neviem. Hľa, to dôkaz mojej zásady, že z lásky
+            o hlade a smäde nič. Vy i teraz ešte krútite hlavou?“
+          </p>
+          <p>
+            „Dobre! Ja vám to za zle nemám: i ja som dakedy - ba ešte len pred
+            Jánom - na tej strune húdol, ale odvtedy, či mám povedať vtedy, utvoril
+            som si o láske solídnejší pochop - skúste, fratres! — A keď nemáte sami
+            ktomu príležitosť, učte sa zo skúsenosti druhých...“
+          </p>
+          <p>
+            „Teda na Jána sa stal tvoj nepochopiteľný obrat k solídnosti?“ opyto-
+            val sa Ružan.
+          </p>
+          <p>
+            „Pletky!“ odsekol Korunka. „Veď on práve na Jána bol robil výlet ku
+            svojej snúbenici: a to len neverím, že by sa bol babral v blízkosti tohto
+            nebeského cherubína takými chlebárskymi myšlienkami - tak by jej bol
+            nehoden! - hoci som sa i predtým už čudoval, že...“
+          </p>
+          <p>
+            „Jazyk za zuby, chlape!“ zavolal. Stupický položartom, polonaozaj.
+            »„Ružan uhádol, že sa moje obrátenie na deň svätého Jána stalo — a to
+            — aby si sa mal na čom diviť, i to ti poviem práve pri boku môjho che-
+            rubína!“
+          </p>
+          <p>
+            Ružan a Korunka tleskli rukami a otvorili ústa i oči.
+          </p>
+          <p>
+            „No, neveríte? — Už vidím, že vám moje svätojánske dobrodružstvo
+            od slova do slova musím vyrozprávať. No ale nič! Aspoň úfam, že si jeho:
+            morálnu sentenciu i na seba vztiahnete.“
+          </p>
+          <p>
+            „Živio, Stano! Ja som samé ucho!“ volal Ružan.
+          </p>
+          <p>
+            „Kelner! Ešte jednu pintu!“ kričal Korunka. Stupický sa však nasle-
+            dovne dal do rozprávky.
+          </p>
+        </div>
+        <div type="chapter">
+          <head>KAPITOLA DRUHÁ</head>
+          <head><emph>prakticky dokazuje, že lúbolist jednu stovku nestojí</emph></head>
+          <p>
+            „Môjho anjela znáte,“ začínal Stupický vyprávať svoje podivné dob-
+            rodružstvo, „opísať vám ho teda netreba. Znáte, že je takého pohľadu,
+          </p>
+          <pb n ="9" />
+          <p>
+            že by sa i tvrdého srdca šuhaj vedel doňho zamilovať. Milušinu krásu
+            však prevyšuje jej dobrota srdca, a z tejto stránky ju ešte iba ja dokonale
+            poznám. Žiaden z vás nebude pochybovať, že ju lúbim nadovšetko: ona.
+            ce jedinkým cieľom snáh a túžob mojich. Môžete si pomyslieť, ako ťažko
+            mi padlo, keď som z B. do R. musel odísť, keď som sa musel vzdialiť
+          </p>
+          <p>
+            ej blízkosti, keď som musel privykať v diali od nej. Ej, bračekovci!
+            "To ukrutne ťažká vec vidieť sa šmareným na míle od predmetu svojich
+            snov práve tak, ako čo by vás z božieho slnka do temného žalára hodili —
+            a úprimne vyznám, že ma v prvé dni neraz zaliali slzy, kedykoľvek som
+            si na ňu pomyslel. Žiadal som si krídla, žiadal som byť orlom, sokolom,
+            holubom, aby som sa vokamihu mohol povzniesť nad dedinu, slúžiacu
+            ej k obydliu, a stade ako duch nad ňou strážil. Tak, tak, chlapci! Z tohto
+            môžete vidieť, že som i ja pocítil trapy a slasti lásky, a pociťujem i teraz,
+            a ten je chlebár - kto mito neverí...“
+          </p>
+          <p>
+            „K rozprávke! K tvojmu dobrodružstvu, Stano!
+            runka.
+          </p>
+          <p>
+            „Hneď som pri ňom,“ odpovedal Stanislav a vyplákol si pohárikom
+            vína ústa.
+          </p>
+          <p>
+            „Ako znáte, každoročne na deň 24. júna padá Jána, ale že toho roku
+            na deň nedele padol, to ste už hádam zabudli. Dosť na tom, ja som si
+            už pred tromi dňami bol zmyslel navštíviť v tento deň moju sväticu.
+            V úrade už v sobotu zo mňa nič nebolo: z každého aktu, ktorý som.
+            prevracal, vykúkala mi utešená tvár mojej Miluše - a usmievala sa mi
+            lúbezným pohľadom. Sotva som večera dočkal. Proti mojej obyčaji ľa-
+            hol som si o desiatej, aby som včasráno mohol byť čím skôr na nohách
+            lebo - bratia, vy poznáte moje prázdne vačky - mienil som
+            pechúrov je najlepší raňajší chládok. Ostatne to nebola taká ľahká vec
+            zaspať čeladníkovi rozbúreného srdca. Mestský hlásnik už tretiu po pol-
+            noci hlásil, a ja som ešte bdiac blúdil vo vábnokrásnych obrazoch mojej
+            raňajšej návštevy. Potom som predsa nejako usnul. Moje sny vám roz-
+            právať nejdem - to by ma ďaleko zaviedlo - len to podotknem, že boli
+            pokračovaním onej ľúbostnej panorámy, ktorá sa mi bdiacemu ťahala.
+            popred duševné oči v utešených maľbách. Zrazu ma prebudil dáky hr-
+            mot - pozriem hore — nado mnou stál Ďurko, asi pätnásťročný kočiš
+            Slavatinských.
+          </p>
+          <p>
+            !“ volali Ružan i Ko-
+          </p>
+          <p>
+            
+          </p>
+         <pb n ="7" /> 
+          <p>
+            „Mladý pán! Dala ich slečna Miluša pozdraviť, aby dneska prišli so
+            mnou hore do B.“ prihováral sa mi Ďuro.
+          </p>
+          <p>
+            »A čo ty tu robíš?“ dopytoval som sa ho ja.
+          </p>
+          <p>
+            „Tej noci som doviezol naspäť doktora - a mám prikázané, aby som
+            bez nich domov neprišiel.“
+          </p>
+          <p>
+            Mne nebolo viacej treba - pod dvoma minútami som bol oblečený
+            sotva Ďurko stačil bič do ruky chytiť, už som sedel na voze, a voz racho-
+            til, až oblaky prachu hore hradskou stávali.
+          </p>
+          <p>
+            Slnko bolo už vyšlo - mohlo byť asi šesť hodín, keď sme sa dostali do
+            Bôgovca - kde ty, Korunka, administruješ. Súc v myšlienkach blaženej
+            ľúbosti zamorený - a v úprimnosti srdca ďakujúc mojej Miluši za tento.
+            nápad, mňa príležitosťou k sebe dať dopraviť - zrazu mi prišlo na um, že
+            i môj i Ďurkov žalúdok potrebuje raňajšie občerstvenie. Už sa mi vtedy
+            marilo, že lačný žalúdok s ľúbosťou nesúhlasí preto som kázal Ďurkovi
+            pred hostincom zastať, a vošiel som dnuka.
+          </p>
+          <p>
+            „Či majú dačo dobrého k raňajkám?“ spýtal som sa krčmára.
+          </p>
+          <p>
+            » Ak ráčia dočkať, uvarí moja naskutku kávu - ostatne mám i dobrú,
+            znamenitú slivovicu.“
+          </p>
+          <p>
+            Kávu, ako viete, nikdy nepíjavam. Slivovicu piť a na zálety ísť sa mi
+            tiež nevidelo. Naostatok som si pomyslel, že kým do B. prídeme, pálen-
+            čený zápach z mojich úst vyšumí - a jednako som ešte s mojou Milušou
+            nebol tak ďaleko, aby sa naše ústa v sladkých bozkoch boli stretali.
+          </p>
+          <p>
+            „Nech mi dajú teda kalištek slivovice!“ rozkázal som krčmárovi, ktorý
+            tento rozkaz naskutku vykonal.
+          </p>
+          <p>
+            „Hrom vám je to, a nie slivovica! Veď to je nápoj z ,torkóly, pályinka
+            finomító intézetu!“ zvolal som odpľúvajúc, keď som bol koštoval poda-
+            ný mi vínový lieh.
+          </p>
+          <p>
+            „Čo som dlžen?“ spytoval som sa šibala krčmára a položil som ruku
+            na vačok, vktorom moja chudá peňazonoška vždy odpočívala.
+          </p>
+          <p>
+            „Pätnásť grajciarov, ich milosť!“ odpovedal uškierajúci sa krčmár.
+          </p>
+          <p>
+            „Kýho hroma!“ vykríkol som v strachu a v zadivení: ale nie nad ne-
+            primerane natiahnutou cenou mojich neužitých raňajok, lež že mojej
+            suchotinárskej peňazonošky vo vačku nebolo. Hľadal som ju všade, ale
+            o tej ani chýru ani slychu. Naostatok mi zišlo na um: že istotne zostala.
+            na mojom písacom stole, na ktorý som ju bol večer vyložil, aby som
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            
+          </p>
+          <pb n ="11" />
+          <p>
+            sa prizrel mojim ostatným štyrom papierovým desiatočkám, určeným
+            k tejto ceste.
+          </p>
+          <p>
+            „Či budete znať stovku premeniť?“ dozvedal som sa krčmára, a vytia-
+            hol som z vačku jeden vo štvoro zložený lúbolist.
+          </p>
+          <p>
+            „Nájde sa azda — veru nedbám - práve sa strojím na vína, zídu sa mi
+            i väčšie banknóty,“ potešoval ma krčmár.
+          </p>
+          <p>
+            Ale že som ja nemal žiadnu vôľu lúbolist premeniť, to mi ľahko uverí-
+            tej povediac mu, že sa ponáhľam a že by to premieňanie veľa času stálo,
+            a sľúbiac, že sa večer k zaplateniu mojich útrat navrátim, šmaril som sa.
+            do voza a letel som v lačných a podivných myšlienkach k cieľu mojej
+            návštevy ďalej.“
+          </p>
+        </div>
+        <div type="chapter">
+          <head>KAPITOLA TRETIA</head>
+          <head><emph>dokazuje, že bez kreditu nikde nič, a že dakedy i spolky miernosti trpia</emph></head>
+          <p>
+            »„Do kostola boli už odzvonili, keď náš vozík zarachotil pred domom
+            Slavatinských. Ľahký od hladu ako pero skočil som dolu, a potíšku som.
+            sa vkradol do chyže — potíšku, lebo Milušina matka bola chorá, veľmi
+            chorá. Práve driemala, keď som dnu vstúpil - pri jej hlave sedela Miluša.
+            stvárou na smrť oblednutou. Kývla mi rukou k príchodu, a bôľny úsmev
+            zahral okolo jej úst. Ja som sa posadil na pohovku a zabral som sa do.
+            divných myšlienok. Bárs som si vedel uctiť bolesť dcéry, predsa ma moje
+            vlastné položenie a toto chladné uvítanie robilo nevlým. Prial som si
+            byť doma, tak ako predtým pri nej - doma by som sa bol aspoň chlebom
+            nasýtil, a tu sa ani pohľadom lásky nemôžem.
+          </p>
+          <p>
+            „Kde sú ti sestry, Miluša?“ spýtal som sa po dlhom mlčaní.
+          </p>
+          <p>
+            „V kostole.“
+          </p>
+          <p>
+            „A brat?“
+          </p>
+          <p>
+            „Na poľovačke...“
+          </p>
+          <p>
+            Utíchli sme zase. Kým toto mlčanie trvá, podotknem vám, že so ses-
+            trami mojej snúbenice stojím nie na najlepších nohách. Sám neviem, čo
+            je medzi nami: dosť na tom, hneváme sa, a keď do B. prídem, vyhýbam
+            sa im, ako len môžem.
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            
+          </p>
+          <pb n ="12" />
+          <p>
+            Po chvíľke mi kývla Miluša k sebe - pošepla mi do ucha, by som do-
+            vtedy, kým ona bude v kuchyni, zo spiacej muchy odháňal - a odišla
+            von. Vtedy mi už na jazyku bolo oslovenie, aby mi dala niečo jesť - ale
+            bohvie! - inak som sa rozmyslel, nazdal som sa, že moju poetickú lásku
+            takouto prosbou urazím.
+          </p>
+          <p>
+            Sedel som nad chorou asi pol hodiny. Zrazu táto otvorila oči, a polo-
+            nemý výkrik zadivenia sa predral z jej zmodraných úst.
+          </p>
+          <p>
+            „Ale tu budeš obedovať, Stanko?“ zašeptala chorá.
+          </p>
+          <p>
+            Tu vám musím poznamenať, že som si dávno bol predsavzal nevziať
+            u Slavatinských ničoho až dovtedy, dokiaľ Milušu mojou vlastnou ne-
+            budem menovať. Dovtedy som navzdor mnohým ich invitáciám môj-
+            mu predsavzatiu zostal verným, z čoho nejeden raz naozajstné hnevy
+            medzi nami pošli. V terajšom položení mojom som však cítil, že ak sa
+            len nechcem naučiť nič nejesť, musím prijať srdečné pozvanie mojej bu-
+            dúcej svokry.
+          </p>
+          <p>
+            „Dozaista!“ odpovedal som - a bolo po mojom predsavzatí. Potom
+            sme sa pustili do všelijakého rozhovoru - chorá sa mi o tej nemoci po-
+            nosovala - a ja som ju neborku tešil, ako som vedel, bárs úprimne vy-
+            znám, že by som nebol za doktora. Medzitým ranné služby nedeľňajšie
+            vzali svoj koniec - a sestry Milušine sa prinavrátili domov.
+          </p>
+          <p>
+            Vstupovali do chyže: mňa mihom zaujala tá myšlienka, že sa dneska
+            s nimi pomerím - i skočil som hore a letel som im v ústrety.
+          </p>
+          <p>
+            „Dobrý deň, donna Lujza a donna Bela! Či ste sa za mňa pomodli-
+            li?“ spytoval som sa usmievavo a ponáhľal som sa z ich šijí mantily od-
+            prackať.
+          </p>
+          <p>
+            Dievčatá pozreli na mňa tak ľadovým zrakom, že mi pracky odpúta-
+            vajúce prsty naskutku zmeraveli.
+          </p>
+          <p>
+            „No, to musela byt zvláštna kázeň, že vás takou svätosťou nadchla!“
+            sproboval som zažartovať.
+          </p>
+          <p>
+            Dievčatá nepovedali ani slova - odvrátili sa odo mňa a odišli do boč-
+            nej chyže.
+          </p>
+          <p>
+            Ja som zostal ako vo vytržení.
+          </p>
+          <p>
+            »„Ale, čo sa im prihováraš, Stanko? Veď vidíš, že sú akési rozmrzené,“
+            preriekla chorá, a tieto slová ma vytrhli z mojich myšlienok, do ktorých
+            ma toto urážlivé uvítanie mojich budúcich švagrín bolo hodilo.
+          </p>
+          <pb n ="13" />
+          <p>
+            Ja som si odkašlal, pohľadal som môj klobúk, priblížil som sa ku cho-
+            rej, porosil som jej ruku jednou slzou urazeného citu a utekal som von.
+          </p>
+          <p>
+            „Stano! Stanko môj! Kam ideš? - Nechoď, už budem prestierať!“ vo-
+            lala z kuchyne Miluša, bežiac za mnou, a chytila ma za ruku.
+          </p>
+          <p>
+            „Pokoj mi daj, anjel môj! - Ja u vás obedovať nebudem, u vásobedovať
+            nechcem!“ odpovedal som jej rozpajedeným hlasom a stúpal som preč.
+          </p>
+          <p>
+            Na veži zvonili poludnie - prišiel som pred hostinec. Pred hostin-
+            com sedeli úradníci slúžnovského úradu, pravotári a vôbec všetci, kto-
+            rí zvyčajne stolovali u pána Trúbu, krčmára v B... „Nešťastný pugilár!“
+            mrmlal som sám v sebe a chcel som sa bokom hostinca dolu cestou pre-
+            šmyknúť. Dnu do krčmy vojsť sa mi nevidelo. Pán Trúba bol vo svojom
+            remesle prísny a neúprosný človek. Dlžil som mu za pár obedov a už
+            dávno na mňa číhal za plácu. To by bolo bývalo nevhodné robiť k sta-
+            rej dlžobe novú: a potom ešte aj to bola otázka, či by sa bol pán Trúba
+            ktomu rozumel.
+          </p>
+          <p>
+            „Aha, Stupický!“ zavolal pravotár Vážnický. „Počkaj, Stano! Neutekaj!
+            — už dvanásť zvonia, a tak myslím, že tu budeš s nami obedovať?“
+          </p>
+          <p>
+            S tým vstal hore a blížil sa ku mne.
+          </p>
+          <p>
+            „Samko, odpusť! Ale ti teraz nemôžem spraviť k vôli: viem, že by
+            som ti bol milým hosťom - ale som sa Hrušánkovi k obedu slúbil - tak.
+            už chcem slovo zadržať - k tebe prídem na večeru...“ vyhováral som sa.
+            pánu pravotárovi.
+          </p>
+          <p>
+            „Aha, veď je pravda! — Tak je, tak - veď ťa tam čakajú. No, len sa
+            ponáhľaj, a pozdrav ho | odo mňa. Ozaj! Navečer nebudem doma: príď
+            popoludní okolo tretej alebo inokedy, keď budeš mat času,“ odpovedal
+            pán pravotár, ktorého poznáte ako hodnú, driečnu chlapinu, čo však
+            z oblakov spadnutých hostí nebárs rád vidí.
+          </p>
+          <p>
+            Ale že ma kancelista Hrušánek s obedom nečakal - to vy, chlapci, ľah-
+            ko uhádnete. Neborák ani to nevedel, že som v B. Pri tom všetkom však
+            som sa smelo pustil k jeho hospode v tej pevnej nádeji, že uňho istotne
+            utíšim cigánov kovajúcich v mojom bruchu.
+          </p>
+          <p>
+            Pitvorné dvere boli primknuté, ale to ma nezarazilo. Vedel som dob-
+            re, že on mal vo zvyku doma sedávať a nikde nechodí, teda zaiste doma.
+            bude. Klopem na dvere - nič: búcham dobrých päť minút - nič. Už som
+            bol k všetkému odhodlaný - i začal som vyzdvihovať dvere.
+          </p>
+          <pb n ="14" />
+          <p>
+            „Kto to?“ ozval sa z tamdnu jeden mne neznámy hlas. „Doma pán?“
+            dopytoval som sa napäto.
+          </p>
+          <p>
+            „Nie je doma, šiel do Pluštíc do kostola, a nepríde, iba večer“ V B.
+            totižto nieto, iba evanjelický kostol, a Hrušánek je katolík.
+          </p>
+          <p>
+            „Dobrý apetít, Stano!“ zamrmlal som sám v sebe, a pustil som sa, kde
+            ma dvoje očú nieslo.
+          </p>
+          <p>
+            Moje oči - či mám riecť, moje nohy - doniesli ma však do jedného
+            utešeného hájika. Vy ho dobre znáte, leží na dolnom konci B. na vý-
+            chodnú stranu. Volá sa Kamenec. V jednom útule nachádza sa žliabok,
+            kolo neho veniec tmavozelených jelší. Deň bol krásny, slnko nemilosrd-
+            ne pálilo, a ja som sa tešil, že keď nie k obedu, teda aspoň do chládku
+            som sa dostal. Vyvalil som sa do pažite a pozeral som hore ako Eliáš, keď
+            čakal na krkavca. Nevyčkal som nič - ani krkavca, ani pečeného holuba.
+            Bohvie, čo to, že v našich časoch už divy prestali, hádam - že už nieto
+            prorokov. „Takto sa nenaješ!“ pomyslel som si a točil som oči dokola. Pár
+            polozrelých jahôd kukalo von z machu, ktorý prikrýval skalnatú pôdu.
+            Tieto vidieť a schmatní bol jeden okamih. Jahody boli síce trocha
+            kyslé, ale ja by bol prisahal, že sú sladšie od medu. Škoda, že ich bolo
+            málo, to mi nebolo, ako sa hovorí, ani pod jeden zub, ba mi iba apetít
+            dráždili. Keď som už ani jednu vyzrieť nevedel, nahol som sa k žliabku,
+            aby som vodou doplnil, čo v žalúdku chýbalo. Nešťastná voda! Ešte i
+            teraz vo mne hurtuje.“
+          </p>
+          <p>
+            „Zalej ju vínom!“ ponúkal rozprávajúceho bôbovský administrátor.
+          </p>
+          <p>
+            „Hej, kelner! Ešte jednu pintu!“ rozkazoval Ružan. „Vidíš, Stano! Tá
+            tvoja rozprávka ma zaujíma: len nerob toľko okolkov: lebo nech som
+            dobrý, kým ju dokončíš, vypijeme ešte najmenej štyri pinty - a potom aj
+            nám vačky vyschnú.“
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            „Eh, čo! Ja myslím, že moja rozprávka stojí za tie štyri pinty vína,“
+            odpovedal Stupický, keď vnútornosti dvoma pohármi do poriadku bol
+            uviedol. „No ale, načo sa mi to len do reči miešate? Už neviem ani, kde
+            som zastal.“
+          </p>
+          <p>
+            „Pri vode! Pri vode!“ volali Stankovi kamaráti.
+          </p>
+          <p>
+            „Tak je, pri vode! - Nuž vidíte, bračekovci, vtedy sa mi aspoň na oka-
+            mih všetky spolky miernosti nepozdávali. 1 voda je dobrá - ale, nech
+            som dobrý - aj víno je dobré. Vína sa napijem aj na lačný žalúdok —
+            <pb n ="15" />
+            ale vody? Sprobujte že, keď ste za štyriadvadsať hodín nič nejedli, ako.
+            vám bude búriť vo vnútornostiach. I v mojich bola zabúrila - opravdivý
+            odboj a rozbroj sa strhol v nich - a vtedy som preklínal - moju lásku.
+            Sproboval som spať, ľahol som si do trávy, sotva mi však na oči driemoty
+            nadchádzali - vnútorný odboj zabúril, a ja - vstávaj hore!
+          </p>
+          <p>
+            Mohlo byť kolo druhej popoludní, keď sa mi žalúdok do normálneho
+            stavu prinavrátil. „Už sú hádam v B.... . po obede, smelo sa teda môžem
+            vrátiť,“ myslel som si, a namieril som moje kroky do dediny.
+          </p>
+          <p>
+            Prídem pred Slavatinských dom - zastal som trochu, a vzal som tú
+            najveselšiu tvár na seba, aby z mojich porušených čít obličaja nikto ne-
+            mohol uzavierať na môj nešťastný dneskajší pôst. V pitvore mi zastala.
+            cestu Miluša s vyplakanými - ako sa zdalo - očami a pozerala na mňa.
+            s takou nemou ponosou, že ma srdce nevoľky zabolelo.
+          </p>
+          <p>
+            „Kde si obedoval, Stano môj?“ spytovala sa Miluša.
+          </p>
+          <p>
+            „Duša! Nuž kdeže inde, ako v hostinci?“ odpovedal som so sileným
+            úsmevom. Ona však krútila hlávkou, vedela, že lužem.
+          </p>
+          <p>
+            Medzitým som otvoril dvere - a prvá osoba, ktorú som v chyži videl
+            — bola moja sestra.“
+          </p>
+        </div>
+        <div type="chapter">
+          <head>
+            KAPITOLA ŠTVRTÁ
+          </head>
+          <head><emph>dokazuje, že dakedy prvý bozk lásky zamak sladkosti v sebe nemá</emph></head>
+          <p>
+            „Tak predsa raz dôjde konca hladové utrpenie moje!“ povedal som sám
+            sebe, keď som sa presvedčil, že to vskutku moja sestra, a zabudnúc na
+            všetkých okolo stojacich, letel som k nej.
+          </p>
+          <p>
+            Moja sestra sa nemálo zadivila nad touto bratskou láskou, bárs tá —
+            aspoň z mojej stránky - nikdy chladná nebývala: i rozprávala mi cieľ
+            svojho príchodu - chcela totiž poznať moju snúbenicu, a svojmu pacho-
+            liatku od tamojšieho lekára dať zaštepiť drobnice.
+          </p>
+          <p>
+            „Ach, liebste Schwester!“ začal som po nemecky, aby ma okrem mojej
+            sestry nikto nerozumel, „ich bin hungrig wie ein Wolf ich bitte dich,
+            leihe mir einen Gulden...“ Sestra pozrela na mňa, potom na stôl, ktorý
+          </p>
+          <pb n ="16" />
+          <p>
+            práve znovu pre ňu prestierali, ako čo by mi chcela povedať, že sa v jej
+            spoločnosti môžem nasýtiť. Ja som však smutne krútil hlavou a stisol
+            dovedna zuby.
+          </p>
+          <p>
+            „Ale prečo si taký hlavatý, Stano?“ dohovárala mi sestra v nemeckej reči.
+          </p>
+          <p>
+            „Jedz, keď ti dávajú - nečakaj, aby ťa ako malé dieťa chovali.“
+          </p>
+          <p>
+            Ja som sa bolestne usmial, i vyrozprával som jej v stručnom výťahu v
+            nemčine príčinu môjho dnešného pôstu, končiac s tou prosbou, aby mi
+            predsa aspoň desať grošov požičala.
+          </p>
+          <p>
+            „Nemám, braček môj, nemám!“ vyhovárala sa sestra pravdivým ná-
+            zvukom.
+          </p>
+          <p>
+            „Ale vieš čo — môj čaká na mňa v R... odvez sa ta so mnou, tam ti
+            dačo aspoň k večeri pripravíme.“
+          </p>
+          <p>
+            S tým si sadla k prestretému stolu.
+          </p>
+          <p>
+            Medzitým sa moja Miluša so svojimi sestrami netrpezlivo dívala na
+            nás - bolelo ich, že hovoríme pred nimi v nemčine, ktorej nerozumejú.
+            Miluša si sadla na pohovku ku mne, ale ja som sa díval nie na ňu, lež na
+            kusy, ktoré sestra do úst kládla.
+          </p>
+          <p>
+            „Poď, zajedz si so mnou!“ oslovila ma sestra, obadajúc moje túžobné
+          </p>
+          <p>
+            
+          </p>
+          <p>
+            ja neznám, čo mu je, že nechce u nás jesť — i s obedom sme
+            ho čakali...“ zamiešala sa skormúteným hlasom Miluša. „Och! Veď snáď
+            nebudem dva razy obedovať!“ odsekol som, — cítiac už však, že sa mi
+            hlas trasie ako plačúcemu dieťaťu. Toto položenie tvorilo kulminatívny
+            punkt môjho trápenia. Lačnému dívať sa na jediacich, to sú väčšie muky
+            než tortúra. Vo mne bojovali falošná hanblivosť — a hlad. Ak sa budem
+            ešte ďalej prizerať - cítil som, že ostatný zvíťazí. Pobral som sa teda hore
+            a šiel som von do záhrady, ktorá sa ťahá popri dome Slavatinských - na-
+            ložiac však sestre, aby sa čím skôr ponáhľala domov.
+          </p>
+          <p>
+            Nesedel som päť minút samotný - dačo zašuchotalo, a nado mnou
+            stála utešená postava Milušina s takou zarmútenou tvárou, ako maľujú
+            Magdalénu, keď pod krížom stojí.
+          </p>
+          <p>
+            „Ale, prosím ťa, čo mi nedáš pokoja, keď chcem byť sám so sebou?“
+            osopil som sa na ňu.
+          </p>
+          <p>
+            Dievča zaplakalo - a po prvý raz sa mi vrhlo okolo hrdla a bôlom,
+            láskou znáruživené prvý bozk ľúbosti pritislo na moje zakabonené čelo.
+          </p>
+          <pb n ="17" />
+          <p>
+            Povedáte, žeje prvý bozklásky akási nevýslovná sladkosť, ale bohvie! -
+            ja som ho od hladu ani necítil.
+          </p>
+          <p>
+            „Ty ma nechceš, Stano. - Ty si mi neverný. - Ty si na mňa, zabudol!“
+            šepotalo rozžialené dievča a stukalo tak bolestne, že by to bolo pohlo i
+            skalu, nie však hladom zmoreného zaľúbenca.
+          </p>
+          <p>
+            „Daj mi pokoj, Miluša! Čo ma vytrhuješ z mojich myšlienok?“ oboril
+            som sa na ňu a vytrhol som sa jej z objatia.
+          </p>
+          <p>
+            „Oh, bože môj, bože môj! Čože ma tak nevinnú tresceš?!“ mrmlala
+            ona sama sebe: oprela sa o jabloň a bledosť smrti sadla jej na tvár.
+          </p>
+          <p>
+            „Slečna, vy ma nerozumiete! Vy nechápete moje myšlienky, prosím
+            vás teda, nedotierajte ani do mňa, ani do pána boha. Keď vašu lásku
+            nezasluhujem - dobre - podrobím sa môjmu osudu: nebudem prvý,
+            ktorého láska zradila...“
+          </p>
+          <p>
+            Miluša na tieto bláznivé, od hladu chladným hlasom povedané slová
+            zalomila dovedna ruky, celá jej bytosť sa triasla - i padla ako kosou pod-
+            ťatý kvietok k zemi.
+          </p>
+          <p>
+            Mňa nepohol ani tento výraz nevýslovnej jej bolesti.
+          </p>
+          <p>
+            „Julika! Daj zapriahnuť, nech čím skôr ideme!“ volal som na sestru,
+            ktorá sa vracala od lekára. „Skoro daj zapriahnuť - lebo hneďidem peši.“
+          </p>
+          <p>
+            O chvíľku stál zapriahnutý voz pred domom.
+          </p>
+          <p>
+            Medzi týmto časom ležala Miluša s tvárou v tráve ukrytou na zemi
+            a stukala tak srdce raniacim hlasom, že som na chvíľku zabudol strašný
+            hlad, ktorý mi zúril vo vnútornostiach.
+          </p>
+          <p>
+            „Zbohom, duša moja!“ hovoril som a naklonil som sa k jej hlave, kto-
+            rú obrátila ku mne akoby elektrickou iskrou uderená, keď počula tieto
+            slová. „Zbohom, duša moja! Nezdržuj ma - druhý raz ti všetko vysvet-
+            lím!“
+          </p>
+          <p>
+            „Nechoď - preboha ťa prosím - nechoď, Stano môj! Lebo až zájdeš
+            — zajtrajšieho dňa nedožijem...“ prosila ona, ja som sa však vytrhol z jej
+            rúk - a jedným skokom som bol vo voze.
+          </p>
+          <p>
+            Sestry Milušine si dačo v uši šepkali - zdalo sa mi, že oželeli svoju
+            raňajšiu chladnosť.
+          </p>
+          <p>
+            Lujza pristúpila k vozu.
+          </p>
+          <p>
+            „Stanko!“ zašepkala mi do ucha. „Až Milušu rád vidíš, zostaň - lebo
+            jej bude zle...“ Ja som sa šialene usmial.
+          </p>
+          <pb n ="18" />
+          <p>
+            „Čože sa už nehýbeš?“ skríkol som na kočiša, ktorý mojim hromo-
+            vým hlasom prestrašený tak šibol kone, že sa vzopäli a potom jediným
+            trhnutím pustili sa vútek.
+          </p>
+          <p>
+            Keď náš voz zarachotil k odchodu, šmaril som posledný pohľad na
+            záhradu. Vo dverách sa opierala Milušina postava. Zdalo sa mi, že vidím
+            polnočného ducha akejsi zomretej. Taká bledosť smrti, aká jej líca bola.
+            zaliala, taký výraz bolesti, taký nadprirodzený plameň v oku som nikdy
+            nevidel. Tento výjav nezabudnem nikdy.
+          </p>
+          <p>
+            „Oh, nešťastný pugilár!“ vykríkol som pološepmo a vrhol som sa späť
+            do sedliska.
+          </p>
+          <p>
+            Voz náš letel prašnou cestou ako divý šarkan v povetrí. Sestra utierala
+            slzy, neviem, koho šanovala, či mňa, či Milušu: ja som nehovoril ani
+            slova. Plameň nevysloviteľnej zlosti šľahal celým mojím vnútorným člo-
+            vekom. Prileteli sme k Z. tam sa cesty delia, jedna do K., kde sestra býva,
+            druhá do S., kde moje bydlo a kde sa teraz všetci traja nachádzame.
+          </p>
+          <p>
+            „Stoj!“ zavolal som na kočiša a vyskočil som z voza.
+          </p>
+          <p>
+            „Stano! Veďže poď do R., tam je aj môj - najete sa vedno!“ volala na
+            mňa sestra.
+          </p>
+          <p>
+            Ja som však nič neodpovedal. Ani sa neobzrúc na stojaci voz, pustil
+            som sa do behu - a utekal som dolu cestou.“
+          </p>
+        </div>
+        <div type="chapter">
+          <head>
+            KAPITOLA PIATA
+          </head>
+          <head><emph>dokazuje, že sa človek obyčajne tam zastaví, kde si ani sám nežiada</emph></head>
+          <p>
+            „Už som podotkol, že deň bol sparný. Na oblohe sa začali vežiť oblaky -
+            v diali sa ozýval hrom - víchor sa dvíhal, a v okamihu zavisla čierňa-
+            va nad mojou hlavou. K vnútorným biedam stíhala ma i vonkajšia po-
+            hroma. Hnev mi dal krídla, i letel som s víchrom o závod. Z dediny
+            na dedinu prenasledoval ma krik a šmrk mladej chasy, nazývajúc ma
+            černokňažníkom. A vskutku, rozorvaná postava moja musela mať v sebe
+            dačo príšerné. Rozčuchrané vlasy, divý pohľad, sem a tam vychievajú-
+            ci sa frak, vysokotočený klobúk pod pazuchou, k tomu čierňava, blesk,
+            hromy, víchrica - no, predstavte si, či to nebol černokňažnícky obraz?“
+          </p>
+          <pb n ="19" />
+          <p>
+            Lejak sa spustil. V okamihu som premokol ako syseľ - predo mnou sa
+            stmilo, i nevidel som nič.
+          </p>
+          <p>
+            „Pán urodzený, pán urodzený!“ volal dakto. Pustil som sa za hlasom.
+          </p>
+          <p>
+            „Preboha, kdeže tak utekajú v tej búrke? Nech vojdú dnu, kým pre-
+            stane,“ vravel hlas, ktorý som bol dopočul. Pozriem hore, predo mnou
+            stál - bôbovský krčmár!
+          </p>
+          <p>
+            „Och, och! Nemám peniaze - i za raňajky som im dlžen!“ zahoreko-
+            val som zúfalo, a premožený všetkými nehodami toho dňa padol som.
+            bez seba na zem.
+          </p>
+          <p>
+            „Vieš, Korunka, že si ma ty k životu vzkriesil - u teba som ležal tri dni
+            v tej najnebezpečnejšej horúčke - boh ti odplať a nedaj, aby som sa ti
+            podobným spôsobom mohol odslúžiť.“
+          </p>
+          <p>
+            Stupický zamíkol. Priatelia jeho pozreli jeden po druhom. „Či si už
+            skončil?“ dopytoval sa Ružan.
+          </p>
+          <p>
+            „Už, bratia! - Čo by ešte nasledovalo, to si sami doplňte...“
+          </p>
+          <p>
+            „Nidíš, Daňo, teraz už znáš príčinu mojej vtedajšej nemoci, na ktorú
+            si sa vtedy tak netrpezlivo dozvedal. Toto červené víno otvorilo moje
+            ňadrá, a vám moja rozprávka - tak myslím otvorí oči k prijatiu tej ne-
+            podvratnej zásady, že láske hlad kope hrob...“
+          </p>
+          <p>
+            „Bola zomreh a vstala z métvych tá tvoja láska,“ preriekol Korunka
+            smiešno-vážnym hlasom, „myslím, že si už s Milušou na čistom!“
+          </p>
+          <p>
+            „Ach, to duša bez páru! O štvrť roka bude sobáš! Ty dáš na nás požeh-
+            nanie - a teba, Ružan, týmto slávnostne povolávam za družbu.“
+          </p>
+          <p>
+            „Živio Stano!“ zvohli títo oba a poháre zaštrngali k šťastlivému zdaru.
+          </p>
+        </div>
+      </body>
+  </text>
 </TEI>
