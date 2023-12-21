@@ -2,8 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="ISBN:978-80-8101-278-5">Dom v stráni : ELTeC edícia
-            </title>
+        <titl>Dom v stráni : ELTeC edícia
+            </titl>
             <author ref="viaf:10637721">Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
         <respStmt>
           <resp>editor</resp>
@@ -19,7 +19,7 @@
       <sourceDesc>
         <bibl type="printSource">
           <author ref="viaf:10637721">Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
-          <title ref="ISBN:978-80-8101-278-5">Dom v stráni</title>
+          <title level="a" ref="ISBN:978-80-8101-278-5">Dom v stráni</title>
           <pubPlace>Bratislava</pubPlace>
           <publisher>Kalligram</publisher>
           <date>2009</date>

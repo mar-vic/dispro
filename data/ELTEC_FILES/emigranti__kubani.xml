@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="ISBN:978-80-8101-683-7">Emigranti : ELTeC edícia
+        <title>Emigranti : ELTeC edícia
             </title>
             <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
         <respStmt>
@@ -19,7 +19,7 @@
       <sourceDesc>
         <bibl type="printSource">
           <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
-          <title ref="ISBN:978-80-8101-683-7">Emigranti</title>
+          <title level="a" ref="ISBN:978-80-8101-683-7">Emigranti</title>
           <pubPlace>Bratislava</pubPlace>
           <publisher>Kalligram</publisher>
           <date>2012</date>

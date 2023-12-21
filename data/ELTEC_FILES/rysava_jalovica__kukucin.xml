@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="ISBN:978-80-8101-278-5">Rysavá Jalovica : ELTeC edícia
+        <title>Rysavá Jalovica : ELTeC edícia
         </title>
         <author ref="viaf:10637721">Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
         <respStmt>
@@ -19,7 +19,7 @@
       <sourceDesc>
         <bibl type="printSource">
           <author ref="viaf:10637721">Bencúr, Matej [Martin Kukučín]  (1860-1928)</author>
-          <title ref="ISBN:978-80-8101-278-5">Rysavá Jalovica</title>
+          <title level="a" ref="ISBN:978-80-8101-278-5">Rysavá Jalovica</title>
           <pubPlace>Bratislava</pubPlace>
           <publisher>Kalligram</publisher>
           <date>2009</date>
