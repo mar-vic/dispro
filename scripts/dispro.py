@@ -141,17 +141,17 @@ def regenerate_web():
     # last names initials)
     index = {}
     for ref in corpus.keys():
-        initial = corpus[ref][0]["author"][0]
+        initial = corpus[ref][0]["author"][0].lower()
         if initial not in index:
-            index[initial.lower()] = [ (ref, " ".join(corpus[ref][0]["author"].split(" ")[0:2])) ]
+            index[initial] = [ (ref, " ".join(corpus[ref][0]["author"].split(" ")[0:2])) ]
         else:
-            index[initial.lower()].append((ref, " ".join(corpus[ref][0]["author"].split(" ")[0:2])))
+            index[initial].append((ref, " ".join(corpus[ref][0]["author"].split(" ")[0:2])))
 
     # Generate index.html
     with open(f"{project_dir.absolute()}/index.html", "w") as index_file:
         index_file.write(template.render(corpus=corpus,
                                    index=index,
-                                   title_count=len(header),
+                                   title_count=len(headers),
                                    author_count=len(corpus.keys())))
 
     zip_corpus() # create corpus archive
