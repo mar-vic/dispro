@@ -95,7 +95,7 @@ def get_header_data(path):
         "src_pub_place": print_source_pub_place[0],
         "src_pub_date": print_source_pub_date[0],
         "time_slot": time_slot[0],
-        "path": f"data/ELTEC_FILES/{path.name}"
+        "path": f"./data/ELTEC_FILES/{path.name}"
     }
 
 def zip_corpus():
