@@ -1,26 +1,96 @@
 # Collections of functions used to generate, validate and present the corpus
 
 import os, sys
-import zipfile
+import zipfile, json, random
 
+from datetime import date
 from pathlib import Path
 from lxml import etree
 
 from jinja2 import Environment, PackageLoader, select_autoescape
 
-project_dir = Path(__file__).parents[1]
-schemes_dir = project_dir.joinpath("schemas")
+project_dir = Path(__file__).absolute().parents[1]
+schemas_dir = project_dir.joinpath("schemas")
 corpus_dir = project_dir.joinpath("data/ELTEC_FILES")
+templates_dir = project_dir.joinpath("scripts/templates")
+
+# Functions used to generate ELTeC XMLs
+# -------------------------------------
+def generate_eltec_file(path, text="<p></p>", header_data_file=f"{templates_dir}/eltec_header_data.json"):
+    """
+    Writes an xml file valid relative to the eltec-1 scheme. The XML is
+    generated via parametrised xslt schema. Can be given header data file and /
+    or 'text' to be used within ELTeC '<teiHeader>' and '<body>' tags
+    respectivelly.
+    """
+    schema = etree.XSLT(etree.parse(f"{schemas_dir}/eltec.xsl")) # Loading the schema
+
+    # Unloading the ELTeC header data from json into dictionary
+    with open(header_data_file, "r", encoding="utf-8") as f:
+        header_data = json.load(f)
+
+    # values need to be quoted in order to be processed by xslt
+    xslt_params = {k:f"'{v}'" for (k,v) in zip(header_data["xslt_params"].keys(), header_data["xslt_params"].values())}
+
+    # constructing the value of <author> and adding it to the xslt parameters
+    author = f"{header_data['author_last_name']}, {header_data['author_first_name']}"
+    author += f" [{header_data['author_alter_name']}]" if header_data["author_alter_name"] != "" else "" # In case autho has alter name
+    author += f" ({header_data['author_birth_date']}-{header_data['author_death_date']})"
+    xslt_params["author"] = f"'{author}'"
+
+    # Constructing the random part of id (rest of the id is generated from lang and pub_date in xslt)
+    xslt_params["id"] = str(random.randint(0, 1000))
+
+    # Constructing creation date
+    today = date.today()
+    xslt_params["creation_date"] = f"'{today.year}-{today.month}-{today.day}'"
+
+    breakpoint()
+
+    # applying the schema to a dummy xml object
+    eltec_file = schema(etree.XML(f"<body xmlns='http://www.tei-c.org/ns/1.0'>{text}</body>"), **xslt_params)
+
+    if not path:
+        # Generating file name if none was given
+        path = Path(f"{header_data['title']}__{header_data['author_last_name']}.xml")
+    else:
+        path = Path(path)
+
+    # Determining the mode of operation (re)write / update / cancel
+    if path.exists():
+        mode = input(f"\nThe file '{path}' already exists. Enter 'w' for rewrite, 'u' for update, or anything else to cancel the operation: ")
+        if mode == "w": # Rewriting
+            # writing the result of transformation to the file at path
+            print(f"\nRewriting {path.name} ...")
+            eltec_file.write(path, encoding='utf-8', pretty_print=True)
+        elif mode == "u": # Updating
+            # TODO: Code for updating the ELTeC file
+            print("\nUpdate not implemented yet.")
+        else: # Cancelling
+            print("\nCancelling the operation.")
+            return
+    else: # Creating
+        print(f"\nCreating {path.name} ...")
+        eltec_file.write(path, encoding='utf-8', pretty_print=True)
+
+    # Validating the file
+    is_valid, errors = eltec_validate_file(path.absolute())
+    if not is_valid:
+        print(f"\nThe file '{path}' is invalid relative to the eltec-1 schema:\n")
+        print(errors)
+    else:
+        print(f"\nThe file '{path}' is valid relative to the eltec-1 schema.\n")
+
 
 # Functions used to validate xml-s against ELTeC schemas
 # -----------------------------------------------------
 
-def eltec_validate_file(xml_path, scheme_path=schemes_dir.joinpath("eltec-1.rng").absolute()):
+def eltec_validate_file(xml_path, schema_path=schemas_dir.joinpath("eltec-1.rng").absolute()):
     """Validate individual xml file against (eltec-1) schema."""
     xml = etree.parse(xml_path) # reading the xml to validate
 
     # Lading schema definition
-    rng = etree.parse(scheme_path)
+    rng = etree.parse(schema_path)
     rng = etree.RelaxNG(rng)
 
     # Validating the document
@@ -30,7 +100,7 @@ def eltec_validate_file(xml_path, scheme_path=schemes_dir.joinpath("eltec-1.rng"
         # Providing error log, when the document is invalid
         return (False, rng.error_log)
 
-def eltec_validate_corpus(scheme_path=schemes_dir.joinpath("eltec-1.rng").absolute()):
+def eltec_validate_corpus(schema_path=schemas_dir.joinpath("eltec-1.rng").absolute()):
     """Validating the whole corpus (i.e., files in corpus_dir). Returning empty
     list, if all files are valid, relative to given schema, or errors paired
     with paths to identify which parts of corpus are invalid."""
@@ -42,8 +112,8 @@ def eltec_validate_corpus(scheme_path=schemes_dir.joinpath("eltec-1.rng").absolu
             val_results.append((path, errors))
     return val_results
 
-# Web and (archive) generation
-# --------------
+# Web (and archive) generation
+# ----------------------------
 
 def get_header_data(path):
     """Extracting data from eltec headers to be used in web site generation."""
@@ -181,8 +251,13 @@ def main():
                 for path, errors in val_results:
                     print(f"Errors in '{path.name}':")
                     print(f"{errors}\n\n")
-    elif "-w": # option used for generating index file
+    elif "-w" in options: # option used for generating index file
         regenerate_web()
+    elif "-e" in options: # option used to generate eltec files
+        if len(arguments) < 1:
+            print("You need to provide a path at which to create the eltec file.")
+        else:
+            generate_eltec_file(arguments[0])
     else:
         pass
 
