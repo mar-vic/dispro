@@ -16,7 +16,94 @@ templates_dir = project_dir.joinpath("scripts/templates")
 
 # Functions used to generate ELTeC XMLs
 # -------------------------------------
-def generate_eltec_file(path, text="<p></p>", header_data_file=f"{templates_dir}/eltec_header_data.json"):
+def get_header_data(path):
+    """Extracting data from eltec headers with xpath."""
+    header_data = {}
+    xml = etree.parse(path)
+
+    # Author and title name
+    author = xml.xpath("//tei:titleStmt/tei:author/text()",
+                       namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["author"] = author[0] if len(author) > 0 else ""
+
+    author_ref = xml.xpath("//tei:titleStmt/tei:author/@ref",
+                       namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["author_ref"] = author_ref[0] if len(author_ref) > 0 else ""
+
+    title = xml.xpath("//tei:titleStmt/tei:title/text()",
+                       namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["title"] = title[0] if len(title) > 0 else ""
+
+    # Info about source edition
+    print_source_ref = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:title/@ref",
+                              namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["srced_ref"] = print_source_ref[0] if len(print_source_ref) > 0 else ""
+
+    print_source_publisher = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:publisher/text()",
+                              namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["srced_publisher"] = print_source_publisher[0] if len(print_source_publisher) > 0 else ""
+
+    print_source_pub_place = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:pubPlace/text()",
+                                       namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["srced_pub_place"] = print_source_pub_place[0] if len(print_source_pub_place) > 0 else ""
+
+    print_source_pub_date = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:date/text()",
+                                      namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["srced_pub_date"] = print_source_pub_date[0] if len(print_source_pub_date) > 0 else ""
+
+    # Info about first edition
+    firsted_publisher = xml.xpath("//tei:sourceDesc/tei:bibl[@type='firstEdition']/tei:publisher/text()",
+                                  namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["frsted_publisher"] = firsted_publisher[0] if len(firsted_publisher) > 0 else ""
+
+    firsted_pub_place = xml.xpath("//tei:sourceDesc/tei:bibl[@type='firstEdition']/tei:pubPlace/text()",
+                                  namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["frsted_pub_place"] = firsted_pub_place[0] if len(firsted_pub_place) > 0 else ""
+
+    firsted_ref = xml.xpath("//tei:sourceDesc/tei:bibl[@type='firstEdition']/tei:title/@ref",
+                            namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["frsted_ref"] = firsted_ref[0] if len(firsted_ref) > 0 else ""
+
+    firsted_pub_date = xml.xpath("//tei:sourceDesc/tei:bibl[@type='firstEdition']/tei:date/text()",
+                                 namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["frsted_pub_date"] = firsted_pub_date[0] if len(firsted_pub_date) > 0 else ""
+
+    # The rest: encoding level, gender, size, time slot and cononicity
+    encoding_lvl = xml.xpath("//tei:encodingDesc/@n",
+                             namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["encoding_lvl"] = encoding_lvl[0] if len(encoding_lvl) > 0 else ""
+
+    gender = xml.xpath("//eltec:authorGender/@key",
+                       namespaces={
+                           "tei": "http://www.tei-c.org/ns/1.0",
+                           "eltec": "http://distantreading.net/eltec/ns"
+                       })
+    header_data["gender"] = gender[0] if len(gender) > 0 else ""
+
+    size = xml.xpath("//eltec:size/@key",
+                     namespaces={
+                         "tei": "http://www.tei-c.org/ns/1.0",
+                         "eltec": "http://distantreading.net/eltec/ns"
+                    })
+    header_data["size"] = size[0] if len(size) > 0 else ""
+
+    canonicity = xml.xpath("//eltec:canonicity/@key",
+                     namespaces={
+                         "tei": "http://www.tei-c.org/ns/1.0",
+                         "eltec": "http://distantreading.net/eltec/ns"
+                     })
+    header_data["canonicity"] = canonicity[0] if len(canonicity) > 0 else ""
+
+    time_slot = xml.xpath("//eltec:timeSlot/@key",
+                          namespaces={
+                              "tei": "http://www.tei-c.org/ns/1.0",
+                              "eltec": "http://distantreading.net/eltec/ns"
+                          })
+    header_data["time_slot"] = time_slot[0] if len(time_slot) > 0 else ""
+
+    return header_data
+
+def generate_eltec_file(path, text=None, header_data_file=f"{templates_dir}/eltec_header_data.json"):
     """
     Writes an xml file valid relative to the eltec-1 scheme. The XML is
     generated via parametrised xslt schema. Can be given header data file and /
@@ -42,13 +129,7 @@ def generate_eltec_file(path, text="<p></p>", header_data_file=f"{templates_dir}
     xslt_params["id"] = str(random.randint(0, 1000))
 
     # Constructing creation date
-    today = date.today()
-    xslt_params["creation_date"] = f"'{today.year}-{today.month}-{today.day}'"
-
-    breakpoint()
-
-    # applying the schema to a dummy xml object
-    eltec_file = schema(etree.XML(f"<body xmlns='http://www.tei-c.org/ns/1.0'>{text}</body>"), **xslt_params)
+    xslt_params["creation_date"] = date.today().isoformat()
 
     if not path:
         # Generating file name if none was given
@@ -56,21 +137,43 @@ def generate_eltec_file(path, text="<p></p>", header_data_file=f"{templates_dir}
     else:
         path = Path(path)
 
-    # Determining the mode of operation (re)write / update / cancel
+    # (re)writing / updating / cancelling the eltec file
     if path.exists():
         mode = input(f"\nThe file '{path}' already exists. Enter 'w' for rewrite, 'u' for update, or anything else to cancel the operation: ")
         if mode == "w": # Rewriting
-            # writing the result of transformation to the file at path
             print(f"\nRewriting {path.name} ...")
+
+            # applying the schema to an xml object
+            eltec_file = schema(etree.XML(f"<body xmlns='http://www.tei-c.org/ns/1.0'>{text if text else '<p></p>'}</body>"), **xslt_params)
+
+            # writing the result of transformation to the file at path
             eltec_file.write(path, encoding='utf-8', pretty_print=True)
+
         elif mode == "u": # Updating
             # TODO: Code for updating the ELTeC file
-            print("\nUpdate not implemented yet.")
+            print(f"\nUpdating {path.name} ...")
+
+            # Updating the header data
+            header_data_og = get_header_data(path)
+            header_data_og.update(xslt_params)
+
+            # parsing <body> contents from the original file if no new contents were provided
+            if not text:
+                text = etree.tostring(etree.parse(path).xpath("//tei:body/*", namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })[0])
+                text = text.decode("utf-8") # decoding from bytes to string
+
+            # applying the schema to a dummy xml object
+            eltec_file = schema(etree.XML(f"<body xmlns='http://www.tei-c.org/ns/1.0'>{text}</body>"), **xslt_params)
+
+            # writing the result of transformation to the file at path
+            eltec_file.write(path, encoding='utf-8', pretty_print=True)
+
         else: # Cancelling
             print("\nCancelling the operation.")
             return
     else: # Creating
         print(f"\nCreating {path.name} ...")
+        eltec_file = schema(etree.XML(f"<body xmlns='http://www.tei-c.org/ns/1.0'>{text if text else '<p></p>'}</body>"), **xslt_params)
         eltec_file.write(path, encoding='utf-8', pretty_print=True)
 
     # Validating the file
@@ -81,9 +184,8 @@ def generate_eltec_file(path, text="<p></p>", header_data_file=f"{templates_dir}
     else:
         print(f"\nThe file '{path}' is valid relative to the eltec-1 schema.\n")
 
-
-# Functions used to validate xml-s against ELTeC schemas
-# -----------------------------------------------------
+# Functions for XML vliadtion against ELTeC schemas
+# -------------------------------------------------
 
 def eltec_validate_file(xml_path, schema_path=schemas_dir.joinpath("eltec-1.rng").absolute()):
     """Validate individual xml file against (eltec-1) schema."""
@@ -114,60 +216,6 @@ def eltec_validate_corpus(schema_path=schemas_dir.joinpath("eltec-1.rng").absolu
 
 # Web (and archive) generation
 # ----------------------------
-
-def get_header_data(path):
-    """Extracting data from eltec headers to be used in web site generation."""
-    xml = etree.parse(path)
-    author = xml.xpath("//tei:titleStmt/tei:author/text()",
-                       namespaces={
-                           "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    author_ref = xml.xpath("//tei:titleStmt/tei:author/@ref",
-                       namespaces={
-                           "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    title = xml.xpath("//tei:titleStmt/tei:title/text()",
-                       namespaces={
-                           "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    print_source_title = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:title/text()",
-                              namespaces={
-                                  "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    print_source_ref = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:title/@ref",
-                              namespaces={
-                                  "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    print_source_publisher = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:publisher/text()",
-                              namespaces={
-                                  "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    print_source_pub_place = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:pubPlace/text()",
-                              namespaces={
-                                  "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    print_source_pub_date = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:date/text()",
-                              namespaces={
-                                  "tei": "http://www.tei-c.org/ns/1.0"
-                       })
-    time_slot = xml.xpath("//eltec:timeSlot/@key",
-                              namespaces={
-                                  "tei": "http://www.tei-c.org/ns/1.0",
-                                  "eltec": "http://distantreading.net/eltec/ns"
-                              })
-    return {
-        "author": author[0],
-        "author_ref": author_ref[0] if len(author_ref) > 0 else "",
-        "title": title[0],
-        "src_title": print_source_title[0],
-        "src_ref": print_source_ref[0],
-        "src_publisher": print_source_publisher[0],
-        "src_pub_place": print_source_pub_place[0],
-        "src_pub_date": print_source_pub_date[0],
-        "time_slot": time_slot[0],
-        "path": f"./data/ELTEC_FILES/{path.name}"
-    }
-
 def zip_corpus():
     """Making a zip archive containing all corpus xmls."""
     xml_paths = [path for path in corpus_dir.iterdir() if path.is_file() and path.suffix.lower() == ".xml"]
@@ -256,8 +304,10 @@ def main():
     elif "-e" in options: # option used to generate eltec files
         if len(arguments) < 1:
             print("You need to provide a path at which to create the eltec file.")
-        else:
+        elif len(arguments) < 2:
             generate_eltec_file(arguments[0])
+        else:
+            generate_eltec_file(arguments[0], header_data_file=arguments[1])
     else:
         pass
 

@@ -60,8 +60,18 @@
           </publicationStmt>
           <sourceDesc>
             <bibl type="printSource">
-              <author><xsl:value-of select="$author" /></author>
-              <title><xsl:value-of select="$title" /></title>
+              <author>
+                <xsl:if test="$author_ref!=''">
+                  <xsl:attribute name="ref"><xsl:value-of select="$author_ref" /></xsl:attribute>
+                </xsl:if>
+                <xsl:value-of select="$author" />
+              </author>
+              <title>
+                <xsl:if test="$title_ref!=''">
+                  <xsl:attribute name="ref"><xsl:value-of select="$title_ref" /></xsl:attribute>
+                </xsl:if>
+                <xsl:value-of select="$title" />
+              </title>
               <pubPlace><xsl:value-of select="$pub_place" /></pubPlace>
               <publisher><xsl:value-of select="$publisher" /></publisher>
               <date><xsl:value-of select="$pub_date" /></date>
