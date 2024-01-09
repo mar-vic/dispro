@@ -9,6 +9,7 @@ from datetime import date
 from pathlib import Path
 from lxml import etree
 from PIL import Image
+from livereload import Server
 
 from jinja2 import Environment, PackageLoader, select_autoescape
 
@@ -352,6 +353,16 @@ def main():
                     print(f"{errors}\n\n")
     elif "-w" in options: # option used for generating index file
         regenerate_web()
+    elif "-wl" in options: # option used for serving (and livereloading) index on localhost
+        # Initial web regeneration
+        regenerate_web()
+
+        # Initialising the livereload class
+        server = Server()
+
+        # Regenerate the index, if changes are made to its template
+        server.watch(templates_dir.joinpath("index.html").absolute(), regenerate_web)
+        server.serve(root=project_dir.absolute())
     elif "-e" in options: # option used to generate eltec files
         if len(arguments) < 1:
             print("You need to provide a path at which to create the eltec file.")
