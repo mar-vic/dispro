@@ -1,11 +1,14 @@
 # Collections of functions used to generate, validate and present the corpus
 
 import os, sys
-import zipfile, json, random
+import zipfile, json, random, string
+
+import pytesseract
 
 from datetime import date
 from pathlib import Path
 from lxml import etree
+from PIL import Image
 
 from jinja2 import Environment, PackageLoader, select_autoescape
 
@@ -103,7 +106,7 @@ def get_header_data(path):
 
     return header_data
 
-def generate_eltec_file(path, text=None, header_data_file=f"{templates_dir}/eltec_header_data.json"):
+def generate_eltec_file(path=None, text=None, header_data_file=f"{templates_dir}/eltec_header_data.json"):
     """
     Writes an xml file valid relative to the eltec-1 scheme. The XML is
     generated via parametrised xslt schema. Can be given header data file and /
@@ -133,7 +136,8 @@ def generate_eltec_file(path, text=None, header_data_file=f"{templates_dir}/elte
 
     if not path:
         # Generating file name if none was given
-        path = Path(f"{header_data['title']}__{header_data['author_last_name']}.xml")
+        breakpoint()
+        path = Path(f"{header_data['xslt_params']['title'].lower().replace(' ','_')}__{header_data['author_last_name'].lower()}.xml")
     else:
         path = Path(path)
 
@@ -150,7 +154,6 @@ def generate_eltec_file(path, text=None, header_data_file=f"{templates_dir}/elte
             eltec_file.write(path, encoding='utf-8', pretty_print=True)
 
         elif mode == "u": # Updating
-            # TODO: Code for updating the ELTeC file
             print(f"\nUpdating {path.name} ...")
 
             # Updating the header data
@@ -159,8 +162,11 @@ def generate_eltec_file(path, text=None, header_data_file=f"{templates_dir}/elte
 
             # parsing <body> contents from the original file if no new contents were provided
             if not text:
-                text = etree.tostring(etree.parse(path).xpath("//tei:body/*", namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })[0])
-                text = text.decode("utf-8") # decoding from bytes to string
+                try:
+                    text = etree.tostring(etree.parse(path).xpath("//tei:body/*", namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })[0])
+                    text = text.decode("utf-8") # decoding from bytes to string
+                except IndexError:
+                    text = "<p></p>"
 
             # applying the schema to a dummy xml object
             eltec_file = schema(etree.XML(f"<body xmlns='http://www.tei-c.org/ns/1.0'>{text}</body>"), **xslt_params)
@@ -184,9 +190,54 @@ def generate_eltec_file(path, text=None, header_data_file=f"{templates_dir}/elte
     else:
         print(f"\nThe file '{path}' is valid relative to the eltec-1 schema.\n")
 
+    
+# Functions for transforming various digital sources of texts to pluggable eltec fragments
+# ----------------------------------------------------------------------------------------
+def get_eltec_body_from_images(input_dir):
+    """
+    Generating a valid xml fragment pluggable into eletec-1 <body> out of set
+    of images contained within input_dir.
+    """
+    # Get the paths to image files within the input_dir
+    img_paths = [Path(path) for path in os.listdir(input_dir) if Path(path).suffix.lower() in [".jpg", ".jpeg", ".png", ".pbm"]]
+
+    if len(img_paths) == 0:
+        print(f"There are no images in provided directory ('{input_dir}')")
+        return None
+
+    # Sorting in order to preserve the sequence of pages in the original. It is
+    # assumed that the name of images are comprised of numbers representing
+    # page order.
+    try:
+        img_paths = sorted(img_paths, key=lambda path: int(path.stem.replace("-", ""))) # assuming that image file names are numbers
+    except ValueError:
+        img_paths = sorted(img_paths, key=lambda path: path.stem.split(" ")[-1].replace("-",":")) # assuming that image file names are timestamps
+
+    # Extracting text from imges with the help of pytesseract
+    text = ""
+    print("Extracting text from images ...")
+    for idx, path in enumerate(img_paths):
+        os.system("clear")
+        print(f"Progress: {idx} / {len(img_paths)} ({'{0:.2f}'.format((idx / len(img_paths)) * 100)}%)")
+        print(f"Processing file: {path}")
+        text += str(((pytesseract.image_to_string(Image.open(path.absolute()), lang="slk"))))
+
+    # Clean-up
+    text.replace("", "<pb></pb>") # The '' character represents a page break
+
+    # getting list paragraphs and removing whitespace characters
+    text = [paragraph.strip(string.whitespace) for paragraph in text.split("\n\n")]
+
+    # removing empty paragraphs
+    text = [f"<p>{paragraph}</p>" for paragraph in text if len(paragraph) != paragraph.count(" ")]
+
+    # collating into string
+    text = "".join(text)
+    breakpoint()
+    return "".join(text)
+
 # Functions for XML vliadtion against ELTeC schemas
 # -------------------------------------------------
-
 def eltec_validate_file(xml_path, schema_path=schemas_dir.joinpath("eltec-1.rng").absolute()):
     """Validate individual xml file against (eltec-1) schema."""
     xml = etree.parse(xml_path) # reading the xml to validate
@@ -308,6 +359,21 @@ def main():
             generate_eltec_file(arguments[0])
         else:
             generate_eltec_file(arguments[0], header_data_file=arguments[1])
+    elif "-efi" in options: # option used to generate eltec files from images
+        if len(arguments) < 1:
+            print("You need to provide a header data file.")
+        elif len(arguments) < 2: # Only header data file given
+            text = get_eltec_body_from_images(Path.cwd().absolute())
+            if not text:
+                return
+            generate_eltec_file(text=text, header_data_file=arguments[0])
+        else: # Header data file and output path given
+            text = get_eltec_body_from_images(Path.cwd().absolute())
+            if not text:
+                return
+            generate_eltec_file(path=arguments[0],
+                                text=text,
+                                header_data_file=arguments[1])
     else:
         pass
 
