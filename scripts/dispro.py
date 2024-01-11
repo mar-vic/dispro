@@ -25,6 +25,8 @@ def get_header_data(path):
     header_data = {}
     xml = etree.parse(path)
 
+    header_data["path"] = f"data/ELTEC_FILES/{Path(path).name}"
+
     # Author and title name
     author = xml.xpath("//tei:titleStmt/tei:author/text()",
                        namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
@@ -39,6 +41,10 @@ def get_header_data(path):
     header_data["title"] = title[0] if len(title) > 0 else ""
 
     # Info about source edition
+    print_source_ref = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:title/text()",
+                              namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
+    header_data["srced_title"] = print_source_ref[0] if len(print_source_ref) > 0 else ""
+
     print_source_ref = xml.xpath("//tei:sourceDesc/tei:bibl[@type='printSource']/tei:title/@ref",
                               namespaces={ "tei": "http://www.tei-c.org/ns/1.0" })
     header_data["srced_ref"] = print_source_ref[0] if len(print_source_ref) > 0 else ""
@@ -105,6 +111,8 @@ def get_header_data(path):
                           })
     header_data["time_slot"] = time_slot[0] if len(time_slot) > 0 else ""
 
+    # breakpoint()
+
     return header_data
 
 def generate_eltec_file(path=None, text=None, header_data_file=f"{templates_dir}/eltec_header_data.json"):
@@ -137,7 +145,6 @@ def generate_eltec_file(path=None, text=None, header_data_file=f"{templates_dir}
 
     if not path:
         # Generating file name if none was given
-        breakpoint()
         path = Path(f"{header_data['xslt_params']['title'].lower().replace(' ','_')}__{header_data['author_last_name'].lower()}.xml")
     else:
         path = Path(path)
@@ -191,14 +198,14 @@ def generate_eltec_file(path=None, text=None, header_data_file=f"{templates_dir}
     else:
         print(f"\nThe file '{path}' is valid relative to the eltec-1 schema.\n")
 
-    
 # Functions for transforming various digital sources of texts to pluggable eltec fragments
 # ----------------------------------------------------------------------------------------
 def get_eltec_body_from_images(input_dir):
     """
-    Generating a valid xml fragment pluggable into eletec-1 <body> out of set
+    Generating a valid xml fragment pluggable into eltec-1 <body> out of set
     of images contained within input_dir.
     """
+
     # Get the paths to image files within the input_dir
     img_paths = [Path(path) for path in os.listdir(input_dir) if Path(path).suffix.lower() in [".jpg", ".jpeg", ".png", ".pbm"]]
 
@@ -223,8 +230,13 @@ def get_eltec_body_from_images(input_dir):
         print(f"Processing file: {path}")
         text += str(((pytesseract.image_to_string(Image.open(path.absolute()), lang="slk"))))
 
+    # breakpoint()
+
     # Clean-up
-    text.replace("", "<pb></pb>") # The '' character represents a page break
+    text = text.replace("", "<pb></pb>") # The '' character represents a page break
+
+    # Paired square brackets are interpreted in XML as encompassing PCDATA
+    text = text.replace("[", "(").replace("]", ")")
 
     # getting list paragraphs and removing whitespace characters
     text = [paragraph.strip(string.whitespace) for paragraph in text.split("\n\n")]
@@ -232,10 +244,41 @@ def get_eltec_body_from_images(input_dir):
     # removing empty paragraphs
     text = [f"<p>{paragraph}</p>" for paragraph in text if len(paragraph) != paragraph.count(" ")]
 
+    # breakpoint()
+
     # collating into string
     text = "".join(text)
-    breakpoint()
     return "".join(text)
+
+def get_eltec_body_from_raw_text(raw_text):
+    text = text.replace("", "<pb></pb>") # The '' character represents a page break
+
+    # Paired square brackets are interpreted in XML as encompassing PCDATA
+    text = text.replace("[", "(").replace("]", ")")
+
+    # getting list paragraphs and removing whitespace characters
+    text = [paragraph.strip(string.whitespace) for paragraph in text.split("\n\n")]
+
+    # tagging and removing empty paragraphs
+    text = [f"<p>{paragraph}</p>" for paragraph in text if len(paragraph) != paragraph.count(" ")]
+
+    return "".join(text)
+
+def get_eltec_body_from_pdf(path_to_pdf, images=True):
+    """
+    Generating a valid xml fragment pluggable into eltec-1 <body> out of pdf.
+    """
+    # breakpoint()
+    path_to_pdf = Path(path_to_pdf).absolute()
+    if not path_to_pdf.is_file():
+        print(f"'{path_to_pdf.name}' is not a file.")
+        return
+    working_dir = path_to_pdf.parent.absolute()
+    if images:
+        # Generating images put of pages of pdf
+        print(f"Converting pdf to images with pdftoppm ...")
+        os.system(f"pdftoppm -png {path_to_pdf} {working_dir}/") # generates images
+        return get_eltec_body_from_images(working_dir)
 
 # Functions for XML vliadtion against ELTeC schemas
 # -------------------------------------------------
@@ -298,6 +341,8 @@ def regenerate_web():
     xml_paths = [path for path in corpus_dir.iterdir() if path.is_file() and path.suffix.lower() == ".xml"]
     headers = [get_header_data(path) for path in xml_paths] # parsing the headers
 
+    # breakpoint()
+
     # Creating dictionary that associate authors with the titles they have
     # written
     corpus = {}
@@ -306,6 +351,8 @@ def regenerate_web():
             corpus[header["author_ref"]] = [ header ]
         else:
             corpus[header["author_ref"]].append(header)
+
+    # breakpoint()
 
     # Creating dictionary that associate letters with authors (through their
     # last names initials)
@@ -325,6 +372,12 @@ def regenerate_web():
                                    author_count=len(corpus.keys())))
 
     zip_corpus() # create corpus archive
+
+    # Recompiling tailwind css
+    tailwindcli_path = project_dir.joinpath('tailwindcss').absolute()
+    tailwindsrc_path = project_dir.joinpath('static/css/tw_source.css').absolute()
+    compiledcss_path = project_dir.joinpath('static/css/global.css').absolute()
+    os.system(f"{tailwindcli_path} -i {tailwindsrc_path} -o {compiledcss_path}")
 
     print("Website (and archive) was successfully regenerated.")
 
@@ -360,8 +413,12 @@ def main():
         # Initialising the livereload class
         server = Server()
 
-        # Regenerate the index, if changes are made to its template
+        # Regenerate the index, if changes are made to its template, corpus, or tailwind source
+        twsource_path = project_dir.joinpath("static/css/tw_source.css").absolute()
         server.watch(templates_dir.joinpath("index.html").absolute(), regenerate_web)
+        server.watch(twsource_path, regenerate_web)
+
+        # Serving the index at project root
         server.serve(root=project_dir.absolute())
     elif "-e" in options: # option used to generate eltec files
         if len(arguments) < 1:
@@ -384,6 +441,23 @@ def main():
                 return
             generate_eltec_file(path=arguments[0],
                                 text=text,
+                                header_data_file=arguments[1])
+    elif "-efp" in options: # options used to generate eltec from pdf
+
+        # breakpoint()
+
+        images = input("Does the pdf conain scans of the original? (y/n)")
+        images = True if images == "y" or images == "" else False
+
+        if len(arguments) < 1:
+            print("You need to provide a path to pdf file.")
+        elif len(arguments) < 2:
+            print("You need ot providfe a path to header data file")
+        else:
+            text = get_eltec_body_from_pdf(arguments[0], images)
+            if not text:
+                return
+            generate_eltec_file(text=text,
                                 header_data_file=arguments[1])
     else:
         pass
