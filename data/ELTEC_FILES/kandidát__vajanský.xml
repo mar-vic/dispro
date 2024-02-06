@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1881878" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Kandidát : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:12321448">
+     Vajanský, Svetozár Hurban (1847-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     8360
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:12321448">
+      Vajanský, Svetozár Hurban (1847-1916)
+     </tei:author>
+     <tei:title>
+      Kandidát
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher/>
+     <tei:date>
+      1881
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Kandidát
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     a my dvaja. Počas celého pochodu, kde sa len stretly otrady kňaza
+          Witgensteina a. grófa Boscha, boli sme nerozluční a prežili spolu
+    </tei:p>
+    <tei:p>
+     mnoho príjemných hodín.
+          Frivanci, ktorí nepa
+          jako my.
+    </tei:p>
+    <tei:p>
+     k predvoju, t po boji ničmenej
+          Dllié, zunované prechody cez stepy v horúčosti 40-stupňovej,
+          boly vždy tie samé a jednotvárne, a túžba po nových dojmoch zra-
+          stala každým dňom viac a viac. Potyk s vrahom mohol iba dostaviť
+          inšie dojmy.
+    </tei:p>
+    <tei:p>
+     „Co nového?“ obrátil sa k nám náš hostiteľ.
+    </tei:p>
+    <tei:p>
+     „A. hľa, čo, páni moji,“ odvetil som ja: „vy si myslíte, že
+          zajtrá súčastníte sa v boji a budete biť Tekincov? Či nie tak?“
+    </tei:p>
+    <tei:p>
+     „My nemyslíme. ale sme o tom úplne presvedčení,“ ohnivo
+          riekol Grigoriev.
+    </tei:p>
+    <tei:p>
+     „Nuž na taký prípad postarám sa vás, 0 inom presvedčiť. Bol
+          som práve u štábu, kde mne pod pečaťou tajomstva vyjavili, že
+          plán pohybu na Geok-Tepe je zmenený: my tu prenocujeme a ju-
+          trom v šesť hodín pôjde sám predvoj na Geok-Tepe, hlavná sila
+          však zostane s vozotajstvom v Kara-Gane oddychovať a až potom
+          spojí sa s predvojom a spolu s ním pohne sa ďalej na Aschabad
+          i Giarus. I tak, páni, zakiaľ sa my budeme biť s Tekincami, vy
+          budete tu spať — a možno iba vo sne videť šumné Tekinčanky.“
+    </tei:p>
+    <tei:p>
+     „To nemôže byť! To sú nesmysly!“ bolo počuť našich Eri-
+          vancov.
+    </tei:p>
+    <tei:p>
+     „Začo som kúpil, zato predávam,“ odpovedal som ja, „avšak
+    </tei:p>
+    <tei:p>
+     ja vám len to sdelil, čo počul som od N., ktorý je, jako viete, za-
+          ený do všetkých tajností štábu,“
+          Moje tvrdenia presvedčily dľa zdania všetkých. Grigoriev úplne
+          uveril mojim slovám. Tento obyčajne skromný a tichý mladík zrazu .
+          nil: on bystro vyskočil zo svojho miesta, Jeho dobré ho-
+          metaly iskry, zablýskly sa, tvár zarumenila sa, vrchná
+          perna, sotva slabo pokrytá prvým páperím, zatriasla sa a on počal
+          vraveť rychlým tempom, skoro v zadychčan
+          „Nie, to nemôže byť! Erivanci nikdy nezostávali s vozotaj-
+          stvom . . . jich miesto na čele predvoja! Nech tam nechajú koho
+          sa jim páči, ale nie nás ... my sme nikda nestrážili baranov a
+          vozy — náš pluk k tomu neprivyknul. A či snáď sme len nato
+          prišli sem, aby sme sa pražili v tejto prekliate púšti, pili slanú a
+          horkú vodu, ť všakové hnusoby a zdochýnať úpaľom! Nám o ta-
+          kom nehovorili. Veľkokňaz poslal sem náš bataillon preto, že sa.
+          vyznačil nad všetkých za tureckej vojny. V Čikisliare sľúbil nám
+          Lazarev, že nás pošle v predvoj, a tej chcú nás ustanoviť za
+          stráž vašich baranov, medzitým čo vy budete biť sa... , my
+          sa s tým neuspokojíme, na takých netrafili!“ , ,
+    </tei:p>
+    <tei:p>
+     „Prikážu ostať, a ty chcej nechcej zostaneš, zato máme veliteľ-
+          stvo,“ riekol niekto.
+    </tei:p>
+    <tei:p>
+     Grigoriev zostal bez seba. M
+    </tei:p>
+    <tei:p>
+     „Teda zostaňte, čert ber vás, ale ja za nič na svete nezosta-
+    </tei:p>
+    <tei:p>
+     Zavaz idem ku Lamakinovi a poprosím ho, aby mňa na čas
+          dil k jednomu z troch bataillonov, naznačených za predvoj.
+    </tei:p>
+    <tei:p>
+     nem.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     180.
+    </tei:p>
+    <tei:p>
+     Dvere sa kvapne otvorily a dnu vbehla devuška. zmoknutá až
+          do poslednej nitky. Jej slamený klobúk zožlknul A svesil partu
+          smutno nadol. Jasnej barvy šatočky ztemnely, z vrkočov kvapkala
+          voda, pekné botinky boly rozmočené a zablatené.
+    </tei:p>
+    <tei:p>
+     Otec hromžil. Milka odpovedala prostodušným lichotením, a
+          keď to nepomáhalo, hodila sa otcovi na hrdlo. N
+    </tei:p>
+    <tei:p>
+     „ldeš preč, ideš preč,“ bránil sa tento komickou horlivosťou,
+          „samá, voda, jako vodná panna, brr!“ a utieral z brady vlhkosť a
+          Z kabáta kvapky dažďové, ktoré ta prešly následkom objímania.
+    </tei:p>
+    <tei:p>
+     „Nič nestojí ten váš kalendár, apa, i Ďuro je hlupák! Oba
+          prorokovali peknú chvíľu.“
+    </tei:p>
+    <tei:p>
+     „A ty si pochábeľ! Hop! čo to, čujem náš voz, i brána vízga !
+          Jankov inštruktor dochádza! Skry sa, ty mokrá slepica!“
+    </tei:p>
+    <tei:p>
+     „Obrazenie, apa! Ale ti odpúšťam! Teda inštruktor, toho musím
+          videť.“
+    </tei:p>
+    <tei:p>
+     „Ale, Milka, v takých šatách!“ Sotva toto preriekla dobrá
+          matka, už bola Milka von z izby a očakávala na preddomí, čo za.
+          človeka sostúpi z jich staromódneho kočiara.
+    </tei:p>
+    <tei:p>
+     Vystúpil Jaroš Sokol, kandidát professúry. Študoval na dvoch
+          nemeckých universitách, a, jako známo, už jedna postačí, aby nášho
+          šuhaja, rezkého a sviežeho, obrátila na vážnu hranatosť. Slovák
+          má voskovú vlastnosť, rád prijíma vtlaky cudzých foriem. Jaroš
+          bol už na našom gymnasiume tichým, pilným a do seba zarytým
+          knihožrútom, jako ho menovali jeho ľahší páni kamaráti. Z Nemecka
+          priniesol dlhý kaput, s ním niečo zdlženú tvár, nemotorné pohyby
+          a tú mladú vážnosť, ktorá tak protiví sa slavianskemu bytu. Študo-
+          val obšírne, hľboko — jeho filologia bola mu svetom — a tak pri
+          návrate do málo klassickej domoviny svojej očakával pri všetkej
+          svojej skromnosti, že mu filologické kathedry prijlú až na hranice
+          v ústrety. Kathedry vystaly, a nechcejúc zavadzať u otca súkenníka,
+          prijal inštruktorské miesto u pána Žulu, majetného obchodníka a
+          statkára.
+    </tei:p>
+    <tei:p>
+     Jaroša prijali veľmi vľúdne až na Milku, ktorá vidiac jeho
+          bľadú, niečo vychudlú tvár, dlhý nemecký kaput po päty, bičlu
+          šatku na hrdle, shrbenú postavu, dala sa do hlasitého smiechu a
+          bežala hore úzkymi schodami do svojej chyžky.
+    </tei:p>
+    <tei:p>
+     „Jaké to motovidlo vynašiel ten apa!“ myslela Milka, rychlo
+          sa prezliekajúc v svojej izbe. „Ale predsa má pekné, svieže perny.
+          Snáď je veľmi múdry. Veď uvidíme.“ ,
+    </tei:p>
+    <tei:p>
+     Prvé dni, ktoré prežil Jaroš v Zulovskom dome, boly dosť
+          trápne. Nehotovosť, nedokonalosť našich pomerov bije veľmi živo
+          do očú človeku, dlhší čas bavivšiemu sa za hranicou. Nadto svo-
+          bodný duch mladého učenca nerád znášal tlak podriadeného po-
+          stavenia. V tajnosti považoval každého úda rodiny za svojho pána
+          a tak spolu i za prirodzeného nepriatela. Najviac však protivila
+          sa mu Milka, pravý to opak tých sentimentálnych farárskych dcér
+          Nemecka, ktoré ku káve požívajú Beethovenove sonaty a večer
+          plačú nad osudom Ofelie. Jedna z nich trochu jakoby uviazla bola,
+          v mysli Jarošovej. Jej bľadisté perny vedely tak umne rozberať
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     101
+    </tei:p>
+    <tei:p>
+     Iphigeniu v Tauride a spievať cituplne „Und flieh" mit mir und
+          sei mein Weib.“ Pár hodín presedel s ňou v zahradnej búdke nad
+          knihou . . . nezapomenuteľné chvíle — prašnatou cestou hrčaly
+          vozy a ozývaľ sa brutálny k hrubých nemeckých vozkov ....
+          "To nehatilo blúznenie mladých ľudí po krajoch vysokej poesie. Na
+          šťas zostali oba pri poesii. Každý tak lacno neobíde. Ale
+          mto slovenským šalúnom nedalo sa o Goethovi hovoriť, a predsa
+          musel uznať mladý učenec, že v peknej hlávke devy je mnoho bu-
+    </tei:p>
+    <tei:p>
+     val sa jasný spevný hlások z hornej chyžky a miešal sa
+          do spevu vtáctva, pejúceho v stromoch zahrady, Jaroš sa zobudil,
+          oprel hlavu na ruku a počúval tie čisté, jaré tóny. Neboly ony tak
+          tiahle, splývajúce druh s drahom, jako onej nemeckej romance, ale
+          páchly Jakýsi nový cit zbudil sa mu v útrobe,
+          i počal sa lepšie cítiť. Obliekol sa rýchlo a vyšiel do zahrady.
+          Letné ráno osvežovalo jeho dušu. Kvety na vkusných hriadkach
+          skvely sa perlami rannej rosy. Prešiel kvetnú zahradu a ponoril
+          sa v húšťavu. Bohatá príroda dýchala čerstvým životom.
+    </tei:p>
+    <tei:p>
+     Na zpiatočnej ceste stretol Milku. Mala v rukách kupku a
+          malé hrahličk:
+    </tei:p>
+    <tei:p>
+     „Pomôžte mi, pane kandidát,“ zavolala na Jaroša, ktorý sa
+          začervenal a chcel jej rýchlo vyhnúť. Neočakávane oslovený ale,
+          zdvihol klobúk a stál v nedorozumení. Ň
+    </tei:p>
+    <tei:p>
+     „Tam potok, tu krhlica — veď to jasn
+    </tei:p>
+    <tei:p>
+     Kandidát nechcel rozumeť. Stiahol obočie, zamrmlal niekoľko
+          nesrozumiteľných slov a bežal nahrbený smerom k domu. Dlhé šosy
+          kabáta, lietaly z boka na bok jako krýdla netopierove. Milka. ho
+          sprevádzala zvonným smiechom. Mala z jeho komického úteku
+          srdečnú rado Sokol zato cítil v sebe horkosť nevídanú. Dlho
+          “chodil po svojej izbe, päste vo vačkoch, a robil úkladné plány. po-
+          isty. Jeho postava počala sa nevdojak rovnať, i ten jeho krok ne-
+          bol už tak nemecký, klátivý. ,
+    </tei:p>
+    <tei:p>
+     „Jaké to nehodné nakladanie s človekom! Ach, veď som len
+          inštruktorom,“ doložil horko a máchnul rukou, „za peniaze, za jej
+          peniaze najatým! Vidím, vidím tu prázdnu pýchu fifeny! Avšak
+          počkaj!“ A potom sadol k stolíku a čítal pilno „Antigonu.“ Jeho
+          pomsta pozostávala v tom, že za celý týdeň neukázal sa v zahrade,
+          pri stole mlčal, a len časom hodil zlobný pohľad na jasnú, otvorenú
+          tvár svojej nepriateľky. Pravda že pohľad rychlý, lebo sa obyčajne
+          stretol s jej veľkými, významnými -očami, plnými jakejsi škodo-
+          radosti a nevysloviteľnej veselosti.
+    </tei:p>
+    <tei:p>
+     Janko Žula našiel v Sokolovi prísneho učiteľa, a zmenil sa
+          k svojmu prospechu pod jeho umnou rukou. Starý pán sám rád
+          počúval plynnú reč Jarošovu, aj pani prestala pliesť punčochi,
+          oprela naňho zvedave oči, keď niečo rozprával. Pravda, stávalo sa
+          to iba v neprítomnosti Milky.
+    </tei:p>
+    <tei:p>
+     Nad riečkou, tečúcou cez zahradu, vypínal sa malý úhľadný
+          mostík. Cez operadlo naklonená, hľadela za pekného rána Milka
+          do vody, na hru drobných rybôk. Tie. sa rojily vo veľkom množstve
+          u
+    </tei:p>
+    <tei:p>
+     614
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     168
+    </tei:p>
+    <tei:p>
+     kol otrusín, ktoré jim hádzala. Niektorá šibla na bok a ukázala
+          biele brúško, jakoby iskra bola zkrsla vo vode.
+    </tei:p>
+    <tei:p>
+     „Pane Sokol,“ ozval sa z domu hlas Žulov. Blízka besiedka
+          zaševelila sa a z nej vybehol Jaroš, ponáhľajúc sa za hlasom domo-
+          vého pána. Milka vbehla do besiedky. Na stole naš papier, po&gt;
+          písaný — mi. Srdce jej zaplesalo v nádeji na žart... sotva
+          ale stačila prečítať pár riadkov, keď tu už dorazil Jaroš, celkom
+          bladý a rozjarený.
+    </tei:p>
+    <tei:p>
+     „Ach, ach, veľactený pán kandidát básni,“ prehovorila stmiešno-
+          vážnym tónom : ale veľa pretiera. Samé počiatky:
+    </tei:p>
+    <tei:p>
+     Ň Z ducha temnej noci ku svitaniu!
+          Oj, to je čosi ťažké, celkom jako z kathedry. Zas iný počiatok :
+          Keď píchnu prvých citov ladné kvety .. .
+          A nato haky baky, kružok, kríž a litera K. Ej, ej, snáď Kornelia,
+          Karolina, Kleopatra, Kunikunda ! Najskôr Kunikunda —- to pravé
+          nemecké meno, úžasne romantické, hu!
+    </tei:p>
+    <tei:p>
+     „Slečno!“ polo prosebne, polo hnevno pretrhol ju nešťastný
+          filolog. Jemu bolo tesno, bôľno. Vyzeral tak neohrabane, dreveno,
+          k poľutovaniu. Ale Milka pokračovala .neuprosne v čítaní:
+    </tei:p>
+    <tei:p>
+     Na tvojich pernách svieži pel je višne.
+          To už je. trochu lahšie. Višne sú i v našom sprostom kraji, chu-
+          dobnom na Kunikundy. Závidím tým višňovým pernám! Tie sa asi
+          pyšno stiahnu pri takej nežnej chvále! Načo ste i to pretreli? Vy
+          ste ukrutný samokritik! Ja zachovám tento pekný, nemilosrdno
+          pretretý veršík pre vďačné potomstvo, naučím sa ho nazpamäť.“
+          1 počala rýchlo po sebe:
+    </tei:p>
+    <tei:p>
+     „Na tvojich pernách svieži pel je višne,
+    </tei:p>
+    <tei:p>
+     Na tvojich pernách —“
+    </tei:p>
+    <tei:p>
+     Kandidát zamrmlal čosi nesrozumiteľného, otvoril oči široko,
+          červeňal sa a nevedel, čo má počať s rukami a nohami: zavadzaly
+          mu. Bol strašne zmorený. Jeho čierne oko svietilo hnevom a ja-
+          kýmsi strachom. Sama, Milka začala sa nedobre cítiť.
+    </tei:p>
+    <tei:p>
+     „Vy sa hneváte, pane Sokol,“ temnejším hlasom prehovorila
+          Milka a oddala mu koncept. „Máte príčinu. Dobre, to bol posledný
+          žart, ktorý som si dovolila.“ A tu preskočila zas do svojej komiky :
+          „Oď tejto poetickej chvíle budem s vami hovoriť s tvárou prísneho
+          professora. Dobré ráno, vysokoučený pane! Odpustite mi ešte tento-
+          kráť! Nikdy viac!“ A s tým sa obrátila filologovi chrbtom a tichým
+          krokom odišla. Stúpajúc ale na verandu domu, urobila rukou roz-
+          pustilý posunok a zavolala:
+    </tei:p>
+    <tei:p>
+     „Na tvojich pernách svieži pel je višne!“
+    </tei:p>
+    <tei:p>
+     Kandidát, filologie sadol na lavičku besiedky, jeho prse dmuly
+          sa búrne, jakoby bol pol míle galopom bežal. Kúsal si do perny,
+          že skoro krvácala. Hnev, opravdový hnev búril v jeho hrudi, pre-
+          miešaný hanbou a bôľom. Jak smiešnym bol, jak malým a hlúpym,
+          on učenec a hlboký badateľ klassických vied, pred touto prosto-
+          pašnou dedinčiankou! Čo chce, čo búri šuhaja, ktorý jej vyhýba!
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Čo jej urobil, aby ho prenasledovala svojími detinskými šialeno-
+          sťami! Či svedčí sa na odrastlé dievča, takým spôsobom zachádzať
+          s cudzím človekom? Veru nie! Ona sa nepekne drží! „Čobych sa
+          mal hanbiť pred devou, zabúdajúcou svoj stav a nežnosť, ktorá má
+          byť hlavnou vlastnosťou jej pohlavia! Moja povinnosť je, sdeliť ta-
+          om. Ano, tak urobím. Ale bola krásna, šelma, keď
+          žne deklamovala tie, moje blúzniny! Moje kassiro-
+          vané slová v tak zvonných ústach! Čože to má za oči, jako hviezdy,
+          hlboké, jasné, elektrické. A tá perna, naozaj višňový pel. Avšak
+          nemôžem ďalej snášať tyranstvo rozpustnice. Alebo mi pomôžu jej
+          „ alebo im s týmto divým domom, kde sa tak gro-
+          teskno mieša. filištinská jednoduchosť s originálnym šalunstvom !“
+          Jaroš hľadel nemo pred seba. Upokojil sa trochu a chladnejšia
+          rozvaha zvíťazila. „Zalovať, ja žalovať na dievča! A. preto žalovať,
+          že mňa bije! Ej, to by bolo predsa moc! Radšej ujdem. Áno,
+          ujdem z tohoto domu.“ A zas sa zamyslel, „Nuž ale či to nevy-
+          chádza na jedno, utekať pred ňou „alebo na ňu žalovať? V každom
+          prípade som ja slabúch, a. čo je jšie — smiešny hlupák!“
+    </tei:p>
+    <tei:p>
+     Nevedel si ratly. Chovanie dievčaťa pálilo ho na duši, obrážalo
+          jeho pýchu. Uzavrel, že sa obrní prísnosťou, veľkými myšlienkami
+          o ženskej dôstojnosti, a pri najbližšej príležitosti povie Milke takú
+          kázeň, jakú nepočula nikdy. Už popredku videl, jako sa červenie,
+          jako klopí oči (až potom bude kázať smelo, až ho tie oči nebudú
+          mýliť), videl, jako zničená morálkou a vysokou etickou pravdou,
+          zalká deva a hojné slzy zablisnú sa na tých hodbabných dlhých
+          mihalniciach (že má Milka „hodbabné mihalnice,“ uspel pozorovať),
+          tak pomstí seba a spolu vyplní vychovateľskú povinnosť, nielen na
+          rozpustilom Jankovi, ale i na jeho peknej sestre! „Čo to bolo?
+          Že vraj peknej! Veď som sotva pozrel do jej tvári, pre tie špatné,
+          špatné oči.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Kázeň bola hotová: disposícia súmerná, dôvody pádne, pathos
+          veľkolepé — miestami až dramatické. Chybela príležitosť, a túto
+    </tei:p>
+    <tei:p>
+     nevedel hľadať náš hranatý kandidát. Konečne osmelil sa raz po
+          obede, pristúpil nesmelo k Milke a trasúcim sa hlasom riekol:
+          „Rád by som s vami. prehovoriť pár slov.“
+          „Nech sa páči — trebárs celú reč,
+          „Ale tu — nemožno — lebo — rád bych sám
+          MV teda chcete odo mňa rendezvous,, kaľavný bohatieru,“
+          rozosmiala sa Milka. „ Vy jazdíte galopom! O, trebárs štyri! Ráčte
+          rozkázať, byť, mám všakové na sklade: hádam
+          pri mesiačku pod lipami, či v čiernej moci na záhmmní, či pri
+          bleskoch a hromoch divej búrky neďaleko hučiaceho vodopádu,
+          alebo v hodine duchov na cintoríne — hu! Alebo chcete po po-
+          vraznom rebríku hore k môjmu oblôčku? Nedôverujem vášmu la-
+          stvu 6
+          „Zas si spáchal hlúposť, Jaroslave,“ pomyslel si "náš Jaroš a
+          skonfundoval sa dokonále. Milka pokračovala :
+    </tei:p>
+    <tei:p>
+     11%
+     <tei:pb/>
+     164
+    </tei:p>
+    <tei:p>
+     „Ale, jako vy môžte na romantické dobrodružstvá mýsleť s ta-
+            kým nákrčníkom!“ A v tom chytila jedon koniec bielej mašle a
+            potiahla ho, až sa mašlička rozpadla, „a s vestou krivo zapätou.
+            Hore vám gombička zbýva a dole chýbä! Taký nahrbený! Nože sa
+            vystrite! Hlavu hore!“
+    </tei:p>
+    <tei:p>
+     Jaroslav poslúchol nevdojak a“ narovnal sa. „Hej, jako mizne
+            2 vás ten Nemec! A teraz ruku voľno — veď vám visí jako dre-
+            vená! Načo to časté prestupovanie z nohy na nohu! Bože môj!
+            veď nie ste olovený vták.“ „Milka dokonále muštrovala mladého
+            kandidáta. Konečne doložila
+    </tei:p>
+    <tei:p>
+     „Nuž teda 0 šiestej večerom v- zahradnej búdke — som tam
+            každodenne k najdeniu bez všetkých romantických ťažkostí. Ne-
+            treba vám ani povrazných rebríkov, ani dýky! Do videnia, pane
+            kandidát!“ Milka usmiala sa naňho tak srdečne, dobrodušne, že
+            i on, jakosi okrial.
+    </tei:p>
+    <tei:p>
+     Šiel do svojej izby a stal si pred zrkadlo. Počal kritisovať sa
+            a prišiel k tomu, že veru prostopašné dievča má v istom ohľade
+            pravdu. Počal si viazať čierny šlips na hrdlo, prinesený ešte z Ne-
+            mecka. Prechádzal sa izbou rovno, pružným krokom. Dlhý kabát
+            mu zavadzal, vysoký: tvrdý límec košele ho tlačil.
+    </tei:p>
+    <tei:p>
+     „Ale, veď som ja dostal lekciu,“ rozosmial sa konečne srdito
+            a chytil sa do študiumu. O chvíľu prišiel Janko, lekcia sa počala.
+            Dnes mu bol ten chlapec zvláštne milým. Jeho vlásky boly tak
+            hebké, tak gaštanové, jako vlásky jeho sestry. Ruka professora
+            nežno dotkýňala sa kučeravej hlavy živého chlapca.
+    </tei:p>
+    <tei:p>
+     O šiestej večer našiel Jaroš Milku v besiedke
+            zimničným chvatom.
+    </tei:p>
+    <tei:p>
+     „Tu ste!“ zavolala veselým zvonným hlasom. „ďestli máte da-
+            jakú tajnosť, teda von s ňou, lebo čo chvíľa príjde otec s mojím
+            suúbencom a potom bude,po rendezvous-i!“
+    </tei:p>
+    <tei:p>
+     Teraz bol Jaroslav dokonále pripravený a odhodlaný k svojej
+            mravokárnej reči. Avšak slová „s mojím snúbencom“ skonfundovaly
+            ho zase. On bol prichystaný na všetky jej žarty, posmechy, kritiky
+            a šialenosti, všetko to nebolo by ho vynieslo z koľaje, ale na „môjho
+            snúbenca“ nebol prichystaný.
+    </tei:p>
+    <tei:p>
+     „Nuž?“ pýtalo sa dievča, nakloniac hlávku až k stolu, uprelo
+            svoje významné veľké oči na kandidáta.
+    </tei:p>
+    <tei:p>
+     „Nič zvláštneho, milostivá slečno, nič zvláštneho! Som obra-
+            zený, vlastne cítim sa byť — vlastne —“
+    </tei:p>
+    <tei:p>
+     „Naopak, môj milý filosof! Ja som hľadala vašu spoločnosť.
+            V tejto dedinskej púšti milé nám je slovo umného človeka! Volala
+            vás na pomoc pri polievaní kvetov, starala sa o vás, aby z Nemca
+            stal sa človek — a vy ste sa choval nemotorne, odstrk:
+            Ja som oceniť vedela vaše plody, ba len úryvky va Ý
+            výlevov — a vy, nevďačníku, bežíte predo mnou jako pred ná-
+            kazou!“
+    </tei:p>
+    <tei:p>
+     „Prečo som ale ja jediným predmetom vašich žartov a po-
+            smechov? Nedávno, keď tu bola veľká, hlučná. spoločnosť, chovaly
+            ste sa tak odmerane a vážne proti samému Karlovi Sochorovskému,
+    </tei:p>
+    <tei:p>
+     šila pilno, skoro
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Na tom nebolo nič smiešneho — to
+            seriosný človek. Ja jediný zaslúžim byť predmetom posmechu?“
+    </tei:p>
+    <tei:p>
+     Slová tieto povedal Jaroslav elegickým tónom. Hlas jeho ból
+            opravdový, plný citu a bôľu. Hnevu v tom hlase nebolo. Divno,
+            kdeže zmiznul ? .
+            vy sa staviate na jeden stupeň s Karlom Sochorovským?“
+            deva prísnym hlasom a položila belunkú malú rúčku nad
+    </tei:p>
+    <tei:p>
+     čie, jako sa hľadieva do diaľky, keď slnko svieti. Mierny stín
+            ruky padal na jej živú, ihrivú fvár a ma tie oči, ktoré zhíbly
+            tieňom.
+    </tei:p>
+    <tei:p>
+     „Rozumel som, či nerozumel som túto otázku?“ podumal Jaro-
+            slav a asnáď prvýraz pozrel smelo do očú Milkiných, mato sklonil
+            hlavu a počal paličkou hrabať sa v bielunkom piesku.
+    </tei:p>
+    <tei:p>
+     Ah!“ pohodilo dievča, fúknuc do náprstníka, „kreslíte do
+            piesku K?“
+    </tei:p>
+    <tei:p>
+     „Nekreslím nič. Som smutný a urazený.“
+    </tei:p>
+    <tei:p>
+     Milka nedočula posledné slová. Hovoril jich Jaroš tichým,
+            hlasom.
+    </tei:p>
+    <tei:p>
+     „Jakéže máte plány pre život?“ zpýtala sa odrazu vážnym
+            tónom. „Čítala som v románoch, že ľudiň vášho veku a vašich ta-
+            lentov (pri tomto slove sadol ľahunký úsmevy na, utešené perny
+            devy, ale zmizol jako blesk) majú obšírne, dokonále vypracované
+            obrazy svojej budúcnosti.“ ,
+    </tei:p>
+    <tei:p>
+     Ťak ešte nehovorila Milka s ním. Jej hlas nemal toho ironi-
+            ckého, ostrého tónu.
+    </tei:p>
+    <tei:p>
+     „Moja budúcnosť jednoduchá! Takú ste nečítaly v románoch.
+            Keď budem mať šťastie veľké a najdem protektora, budem učiť
+            v najbližších desiatich vokoch prvoklasníkov deklinovať latinské
+            slová. Bez šťastia a protektora budem snáď až do smrti predmetom
+            posmechov, — tu lebo tam — všetko. jedno!“
+    </tei:p>
+    <tei:p>
+     „A takto ste nikdá nemysleli na slávu, na vehlas, na vďačnosť
+            národa, na boj za idei, jako to vaši mladí páni mysleť zvyknú,
+            počím nie sú ešte v teplom kúte pri kúsku chleba?“
+    </tei:p>
+    <tei:p>
+     „Ach, boly i také časy!“ pohedil živo a vrelo Jaroš, zpriamil
+            sa na lavici a hodil smelo hlavou, „dúhovito, jarko svietil pred
+            očima život a jeho budúce zvraty boly iba staniciami na behu
+            triumfálnom. Nebolo stínov a tmy, a jestli časom i prešlo šero cez
+            jasné pole túžob a nádejí, stalo sa to Jen, abý tá jasná, ohnivá
+            sláva tým markantnejšie sa vynímala. Čarovný kráž delil nás štu-
+            dentov-mladíkov od obyčajného sveta, od nízkych ľudí a jich nízkych
+            pochopov! My sme rástli len v čistom rojčení za veľkosť, za krásu,
+            dobro! Veľká úloha nás čakala. Avšak čím mohutnejšie sa ona
+            a pred nami, tým väčšiu silu cítili sme v žilách, tým hrdin-
+            skejšiu energiu v dušiach. Nebolo v spoločnosti našej zradcu, ne-
+            bolo sebca! A koľko jich predsa vyrástlo! A čo stalo sa z nás,
+            verne zostavších v službe myšlienky? Či nestali sme sa zradcami
+            tej krásy, toho dobra nevdojak, mimovoľne? Mrzutú tvár robí na
+            nás sveľ, my škaredíme sú naň navzájom. Plápoly zhasly, ohne vy-
+            tuchly!“ “ N
+    </tei:p>
+    <tei:p>
+     tak silno vám dvoriacemu?
+    </tei:p>
+    <tei:p>
+     hlbol
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     166
+    </tei:p>
+    <tei:p>
+     „Ktoby vám veril!“ riekla s" lahkým vzdychom Milka , „veď
+            ešte teraz blčí ten posvätný plápol vo vašich očiach, veď prúdi ša
+            ešte ten oheň vašími slovami! A to vás práve vyzdvihuje z radu
+            našich ľudí, napriek dlhým šósom a nemotorným poklonám.“
+    </tei:p>
+    <tei:p>
+     Jaroslava nezmýlily posledné narážky. Bol v prúde.
+    </tei:p>
+    <tei:p>
+     „A medzi rojčením za veci vyššie, veľké, do myšlienkového
+            dramatu činov budúcich zaznela časom elegia osobného šťastia. Kto
+            môže byť šťastným? Či ten, ktorý žije povrchne, bez ciela, bez
+            určenia?! Také šťastie rovnú sa drepeneniu skaly. My ale máme
+            v dušiach a srdciach svojich jemné orgány, ktorými pocítiť vieme
+            šťastie, my sme spôsobní k vysokým pôžitkom, k slasťam kolos-
+            sálnym, práve tak, jako i osten bôľu najciteľnejšie, najžravejšie cí-
+            time. Blesk oka, vanutie vonného dychu, Krása hôrneho kraja, hlbo-
+            kosť zimného, bezslunného neba, vlnenie sa citov v hrudi ženskej,
+            silu náruživosti a energie mužskej, všetko, všetko pochopiť, jakoby
+            znovu precítiť sme v stave! Ach, a to všetko, všetko zhbľadlo.
+            I veľkosť, i činy, i... šťastie.“
+    </tei:p>
+    <tei:p>
+     Milka otvorila oči v zadivení. Jako rozhovoril sa tento jedno-“
+            slabičný človek. Ona ani nešípila, jak mnoho samorostlých myšlienok
+            skrýva sa v hlave skromného inštruktora. Divné city začaly jej
+            hrať okolo srdca. Jej posavádne chovanie predstavilo sa jej V po-
+            divnom svetle. Veď ona dosiaľ sama nevedela, s kým sa zahráva.
+    </tei:p>
+    <tei:p>
+     Slnko sklonilo sa už za husté stromovie zahrady a stíny koša-
+            tých gaštanov liezly už po stene domu na strechu. Žahlaholil silný
+            mužský . hlas.
+    </tei:p>
+    <tei:p>
+     „To sú oni,“ riekla Milka a vyšla z besiedky. O chvíľu pi
+            jej otec s kapitánom od pechoty, rukou v ruke. Bol to vysoký,
+            mohutný muž, asi štyridsaťročný. Milka podala mu veselo ruku,
+            on ju potriasol bez ceremonie, po priateľsky.
+    </tei:p>
+    <tei:p>
+     „Pán kandidát Jaroslav Sokol,“ predstavoval Žula svojho im-
+            štruktora. „Kapitáň Vysocký,“ doplnil predstavenie sám hosť, uklo-
+            niac sa ľahko a salutujúc povrehne.
+    </tei:p>
+    <tei:p>
+     „snúbenec!“ pomyslel si Jaroš a bežný pohľad hodil na. Milku
+            a vojaka.
+    </tei:p>
+    <tei:p>
+     „Čo tak riedko chodíš
+            verné. pristúpiac ku kapitáňov
+    </tei:p>
+    <tei:p>
+     "Ten vyhovoril sa na službu. Prišla i pani Žulová, kapitáň bežal
+            jej v ústrety. Počal sa živý rozhovor 0 rodinných veciach, o zná-
+            mych a pokrevných. Jaroš necítil sa byť na mieste, vzdialil sa.
+    </tei:p>
+    <tei:p>
+     „Čo to máš za filosofa?“ opýtal sa Vysocký domového pána,
+    </tei:p>
+    <tei:p>
+     keď už bol Jaroš odišiel, „tomu hľadí svetový bôľ z očú.“
+    </tei:p>
+    <tei:p>
+     Spoločnosť sa sobrala, kapitáň podal Milke rameno, Žula si
+            viedol svoju paniu, Jaroslav hľadel potajmo zo svojho obloka na
+            statný párik. Milka opierala sa tak dôverne na rameno Vysockého
+            a štebotala s ním dôležito a ohnivo.
+    </tei:p>
+    <tei:p>
+     „Zwanziger,“ zamrmlal zlostne Jaroslav a hodil sa na divan.
+            Jeho oči boly upreté na poval. Tam boly namaľované guirlandy zo
+            zimzelenu, vinúce sa, okolo žltej rovnej žrdi.
+    </tei:p>
+    <tei:p>
+     ty pyšný Eduarde?“ riekla Milka, dô-
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     167
+    </tei:p>
+    <tei:p>
+     Za. chvílu ozval sa jasný hlas Milkin. Niekto sprevádzal ju na
+    </tei:p>
+    <tei:p>
+     piane. Zimzelen počal sa krútiť okolo žltej žrdi, jasno-modré zvonky
+    </tei:p>
+    <tei:p>
+     húpaly sa vždy rychlejšie a rychlejš Jaroslav zavrel oči. Keď
+    </tei:p>
+    <tei:p>
+     jich otvoril, panovala v izbe tma. Chlad večera tisol sa otvoreným
+            oblokom a ovieval jeho horúce čelo. Bolo naozaj horúce.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Prešlo niekoľko dní, nudno, jednotvárno. Sokol sotva vychádzal
+          z izby, nechodil ani do stolovej, ale dal si nosiť jedlo k sebe.
+    </tei:p>
+    <tei:p>
+     Sokratesovo heslo: „poznaj seba samého,“ nosil na srdci, a
+          trebars nepoznal sa ceľkom, predsa častejšie hútal o sebe. Málo
+          kto myslí sám o sebe pr keď len nie z marnivosti. Na seba
+          mysleť a o sebe rozmýšľať je dvoje. Čím viac rozmýšľal Jaroslav
+          o sebe, tým si bol nejasnejší — tým menej rozumel tomu lebo
+          onomu citu, žiaľu a túžbe.
+    </tei:p>
+    <tei:p>
+     Celý svet počal kaboniť sa pred okom jeho duše. Hľadal ob-
+          lahčenie vo vede, vhlbil sa do poesií starých a rozjaril sa na
+          chvíľky. Keď ho prekvapila novo odkrytá krása v básni Homerovej,
+          stal zo stolca, zavrel knihu a zahľadel sa oblokom do zahrady,
+          ktorej úzadie porostlé bolo divými gaštanami a lipami. Nad vrehol-
+          cami hustolistých stromov pnuly sa ďaleké vrchy. Ľahunké, páperné
+          obláčky letely nebom, na jich netherické úzadie maľovala obrazo-
+          tvornosť jeho jasné, plastické postavy gréckej poesie.
+    </tei:p>
+    <tei:p>
+     Ľahko je zostať samotným. Utlahni sa do seba a obmedz sa
+          na svoju chyženku — pár dní sa po tebe dozvedať budú, a zase
+          pár dní, i prestanú sa dozvedať —— staneš su skoro nepotrebným a
+          tvoja neprítomnosť prirodzenou. Čo chce mať platnosť u ľudí, musí
+          jim byť na očiach.
+    </tei:p>
+    <tei:p>
+     Andrej Žula s paňou tiež skoro „prestali klásť otázky Javošovi,
+    </tei:p>
+    <tei:p>
+     prečo sa jich stráni. Také otázky môžu byť i pre tázaného obťažné.
+          Starý pán síce časom zaklopal na jeho dvere, posadil sa k nemu
+          na diván a pohovoril si s ním. Bol to dobrý, umný človek, ktorému
+          tiekol život tak, jako si to len sám žiadal. Jeho pani bola ženskou
+          starej dobrej školy, robila luxus iba v bielizni a duchnách, zavárala
+          celé leto ovocie, sušila huby, slivky, sbievala perie zo samých bie- “
+          lych husí. Čeľade držala mnoho, nerada sadala na železnicu „pre
+          slabosť nervov,“ ačkoľvek pri ničom inšom necítila, že má „nervy.“
+          Bola pobožná a akurátna a milovala svoju Milku nadovšetko.
+          Tys" môj holúbok krásny,“ hovorievala k nej hlasom mäkkým
+          a slzy jej hraly v očiach: „ty mi neuletíš, neuletíš! Boh mňa po-
+          želmal, on pomiloval hriešnu a dal mi všetko, po čom túži duša.
+          Polož si hlávku na môj klín! Tak!“ Milka počala sa netrpelivo
+          ševeliť. „Nuž, choď len, choď, čia a moje. Tam pred oblokom zo-
+          staň — ja časom pozrem. za tebou.“
+    </tei:p>
+    <tei:p>
+     „Aha! už ten náš sisel vyliezol z diery,“ zavolala veselo Milka,
+          keď videla oblokom kandidáta rychlým krokom kráčať cez kvetnú
+          zahradu medzi stromovie.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Tys" ho musela obraziť : inej príčiny nemá tak uťahovať sa.“
+    </tei:p>
+    <tei:p>
+     „Naopak! My sme sa čeľkom smierili pri poslednom rozhovore,
+          ba pomysli, mamička, počal ti tak plynne, smelo rozprávať o svo-
+          jich túžbach a žiaľoch, že som sa skoro poplakala!“
+    </tei:p>
+    <tei:p>
+     „Alebo si ho vysmiala, jako ujca kapitáňa, keď počal 0 svojich
+          vojanských činoch rozpráva!
+    </tei:p>
+    <tei:p>
+     „Nie, nie, to je druhý človek. Kandidát je samá pravda, on
+          tuším neriekol by Iživé slovo za svet. Ale ujko rád zohýba, keď
+          príjde reč na hrdinstvá. Jako mu mám veriť, keď v novinách stálo
+          0 samom utekaní! Ten zaslúžil posmech. Sokolovi som len riekla,
+          že je kapitáň môj snúbenec! Trochu sa zadivil, ale konečne uveril.
+          Mamička, ale sú to smiešni tí učení ľudia!“
+    </tei:p>
+    <tei:p>
+     „Smiešno, ba hriešno je tak hať, Milka! Tým si obrazila jeho,
+          brata môjho urobila smiešnym pred cudzím človekom :a seba si
+          tiež nepostavila do krásneho svetla.“
+    </tei:p>
+    <tei:p>
+     „Napadlo mi to len tak! Veď sa dá všetko napraviť. Pri naj-
+          bližšej príležitosti poviem, že je kapitáň môj pradedo, snáď i tomu
+          uverí tá nemecká filosofia! Škoda tých šuhajov, čo sa tak veľmi
+          učia !“-—
+    </tei:p>
+    <tei:p>
+     Pri najbližšej príležitosti spomenula pani Zulová pred Sokolom
+          kapitáňa. Ani nespozorovala, že sa mu oči zajasaly, keď dozvedel
+          sa, že je to vlastný ujec Milkin. Potom sa zarmútil a presedel
+          celý. večer nemo. Mrzelo ho, že musí junnú, pružnú postavu Milky
+          spojiť s — nepravdou. Prijdúc do svojej chyžky, závrel za sebou
+          dvere, zaprel obloky a počal pružno, veselo chodiť izbou. Hvízdal
+          si veselú pieseň (filosoť a hvízdať!!), deklamoval nahlas, ba poč:
+          v takte jambov poskakovať! Na stene visel obraz v paruke, dajaký
+          dedo domáceho pána. Oči podobizne boly živé a hľadely na. človeka
+          priamo, trebars hľadel z bokov lebo rovno. J. hodil na ňu okom
+          a začerveňal sa! Jako by sa bol zahanbil, keby ho naozajstné živé
+          ludské oči boly videly pri takomto nefilosofickom hopkaní! Na po-
+          steli ležal nový oblek. Už pred niekoľkými dňami priniesol ho krajčír
+          ž mesta, ale až teraz napadlo Jarošovi obliecť ho. Obliekol. Sotva
+          poznal sa v ľahkom svetlom letnom obleku. Celé telo mu jakosi
+          zľahčelo, jakoby ho bol niekto nafúkol vodíkom, len leteť a leteť
+          vzduchom jako balon. Svet sa mu zaligotal v barve skvostnej za
+          hrady, osvetlenej žarkým slnkom.
+    </tei:p>
+    <tei:p>
+     Pred večerom cítil potrebu prechádzky.
+          hrady švihol do dediny. Sedliaci ho úctive pozdravovali. V poli
+          stála utešená vysoká raž. Úzky chodník vinul sa pomedzím. Ta sa
+          obrátil. Kvitnúce klásky vypínaly sa mu miestami nad hlavu. Medzi
+          štíhlymi steblami červenal sa kúkol, belasela charpa. Po niektorom
+          steble vinul sa divý slačik s modrými zvonkami. a
+          kričala prepelička. Lastovičky lietaly vysoko, jako čie1
+          belasôm úzadí, znak stálej vraj pohody. Jaroslav cítil sa
+          v báji, podivné myšlienky mal: keby bol tak malý jako oby
+          Tiliputu, jakou prahorou bola by preňho táto raž!" Veselá, jasná,
+          žltá hora bez koncá a kraja.
+    </tei:p>
+    <tei:p>
+     Zadnými dverami za-
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     7 fantasie
+          Tomko, bežiaci mu oproti.
+    </tei:p>
+    <tei:p>
+     „Milka tiež ide,“ vyzradil Janko.
+    </tei:p>
+    <tei:p>
+     Skutočne zazrel náš kandidát belasú stuhu klobúčka, vlajúcu
+          ražou. Nato výnorila sa Milka, z ražných kláskov a stála zadiveno
+          pred Jaroslavom. Krátke šatôčky nestačily zakryť malé nôžky, tvár
+          i hrdlo len tak svietilo zdravou barvou, rychlým chodom zvýšenou.
+    </tei:p>
+    <tei:p>
+     vytrhol ho chlapčenský krik. A známy krik. Bol to
+    </tei:p>
+    <tei:p>
+     „Kto z nás sa obráti?“ prihovorila sa k nemu milo. „Vyhnúť
+    </tei:p>
+    <tei:p>
+     nemožno bez škody.
+    </tei:p>
+    <tei:p>
+     „Dľa Túbosti, slečno , avšak vy máte via
+          dať zpiatočnú cestu, lebo vy ste urazily vä
+          úžiny.“
+    </tei:p>
+    <tei:p>
+     práva. odo mňa ži
+          kus tejto ražovej
+    </tei:p>
+    <tei:p>
+     Jaroslav sa obrátil a bol tomu rád, lebo mohol takto odvrátiť
+          tvár, do ktorej sa mocne tisla krey. Tie malé milé nôžky ho skon-
+          fundovaly. Nikdy som za zlé nemal žiadnej ženskej, keď si zakla-
+    </tei:p>
+    <tei:p>
+     dala. niečo na nôžke. Zaslúži taká nežná paprčka horúcich bariev
+          Puškina. -
+    </tei:p>
+    <tei:p>
+     Janko bežal popredku. Jaroslavovi bolo ťažko kráčať pred
+          devuškou. ly obával sa, že ohýbané klasy šľahajú slečnu do tváre.
+          Zastal, vtisol sa do obilia a chcel ju pustiť po predku. I Milka
+          zastala a uprela naňho pohľad.
+    </tei:p>
+    <tei:p>
+     Milkina svieža tvár, celá ľadná postava krásno vynímala sa
+          na úzadí stehlovej húštiny. Jej veľké, vyznamné oči plály jako letný
+          deň. K západu kloviace sa slnko maľovalo jasné pruhy po tých
+          nežných rozpálených lícach. Nevýslovná slasť vlietla razom do srdca
+          mladého muža. Sotva mohol utlumiť v sebe výkrik radosti a šťastia.
+          Celá jeho učenosť, všetky filosofické systémy tavily sa, jako ľahký
+          red slnkom. Všetky bľadolíce dcéry pastorov uletely jako
+          fšerné šemy z mysle šuhaja. Tak jako ticho beží pred hlukom,
+          jako tieň pred svetlom, jako sen pred skutočným životom.
+    </tei:p>
+    <tei:p>
+     Veľká šedá kobylka rozpiala krýdelká, šibla dlhými zadnými
+          nôžkami a sadla na bielu zásterku Milkinu. Chlapec šuchotal ražou,
+          klásky nad jeho hlavou potriasaly sa. : Už sa hodne ďaleko potria-
+          Mladí ľudia. stáli tak hodnú chvíľku. Dobre že neboli Nemci,
+          bola by sa ztrhla sentimentálna. scéna.
+    </tei:p>
+    <tei:p>
+     Milka. pozrela strmo na Jaroslava a pružným krokom pošla
+          napred. Za ňou šiel nemo on, pokrútil časom hlavou, shybol sa a
+          trhal charpy. Pred dedinou oddal Milke kytku charp.
+    </tei:p>
+    <tei:p>
+     „To vraj nemecké kvietko, asnáď u vás budí milé upomienky.
+          A či zase pokračovať budete v pústovnickom živote? Neslúbili ste
+          mi predčitovať? Čo vás tak zastrašilo?“
+    </tei:p>
+    <tei:p>
+     „Prísnosť života ! Počiatkom školského roku mám ísť za supplenta
+          na R-ské gymnasium , treba príprava.“
+    </tei:p>
+    <tei:p>
+     „A vy ste nám ani nesdelili túto radostnú zprávu? Avšak do
+          Nemecka ste už písali?“ Pýtala sa dusným hlasom a pozrela zkú-
+          mave na šuhaja.
+    </tei:p>
+    <tei:p>
+     „Písal,“ odpovedal tento nevinne. Stál totiž v dopisovaní s kru-
+          hom študentov, s ktorými chodieval do „kneipy“.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     170
+    </tei:p>
+    <tei:p>
+     Milka zamľkla. Nemo šli až k domu. „Višňové perny,“ šepla
+          tíško.
+    </tei:p>
+    <tei:p>
+     Sotva prišla deva do svojej chyže, vyrútily sa jej
+          Kytku s charpami hodila na posteľ, sadla k obloku a polo:
+          na šijací stolík. Izbuškou šumelo ťažké dýchanie. Milka pocítila prvý-
+          kráť v živote smútok a žravý bôľ. Nezvyknutá k takýmto citom,
+          dala sa jim premôcť celkovite.
+    </tei:p>
+    <tei:p>
+     „A čo vlastne plačem,“ preriekla nahlas a zasmiala sa ner-.
+          vosným smiechom. Šla pred zrkadlo. „Naozaj slzy, opravdové slzy!“
+          Vyňala ručníčok a utrela si oči. Nevedela, čo sa s ňou stalo. Dupla
+          nôžkou, hodila bujnou hlávkou a rozosmiala sa znova. Nebol to ale
+          ten rozpustilý, životom a veselím kypiaci smiech. Smiech so slzami!
+          Ty vyvierať môžeš len z hlbín nežnej ženskej duše, keď ona so-
+          biera sa na krýdeľká k nepoznanému letu. Keď mizne sen detinstva,
+          jako rosa z hebkej trávy, keď povstávajú v mladých útrobách roje
+          horúcich citov a boľná túžba ztriasa srdcom po prvý raz. Tá jará,
+          zdravá príroda, ten mier života, nerád ustupuje búrke. Ale búra je
+          mocná, neuprosná. Mier bojuje s úsmevom, so smiechom núteným
+          a hlasnýmy, ale túžba porosí ho dažďom srdca — slzami, mier odletí
+          a nepokoj rozprestre panstvo v útrobách mladej bytnosti.
+    </tei:p>
+    <tei:p>
+     slzy z očú.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     „A teraz sa ani pred tebou nehanbím, starý pane v bielej pa-
+          ruke,“ riekol nahlas Jaroslav, stanúc si pred Živookú podobizňu,
+          visiacu nad jeho posteľou, „ja milujem tvoju pravnučku, neskonale,
+          večne! Či sa nestiahnu hnevom tie tvoje husté obrvy a z očú ne-
+          zablíska ti strela horlenia! Hnevaj sa, jako sa ti páči! Ja milujem
+          i teba, nepoznane síce, ale synovsky. Zdáš sa mi byť známyni.
+          Tuším sa radosť zrkadlí z tej vráskavej tváre! Vedz, deďuško,
+          vedz ty jediný, ja milujem tvoje dieťa !  Pokyň hlavou, zdvihni tú
+          prsteňo-bohatú ruku: tú druhú s palicou nechaj na pokoji!“
+    </tei:p>
+    <tei:p>
+     V izbe bolo dušno mladému srdcu! Ono chcelo ta von v šíry
+          svet, v bohatú prírodu! Tu volali k čaju.
+    </tei:p>
+    <tei:p>
+     Jako má pozreť na devu, ktorá dnes zajasala sa pred ním
+          v čarovnom kráži ženského ideálu ?
+    </tei:p>
+    <tei:p>
+     So strachom vstúpil Jaroslav v rodinný kruh.
+    </tei:p>
+    <tei:p>
+     Fili čaj pred domom v zahrade. Bol tam i Vysocký! Celkom
+          ináč zjavil sa teraz vojak očiam Jaroslavovým. On usiloval sa sblížiť
+          sa mu, trpelivo počúval jeho rozprávky 0 koňoch, polovke a pri-
+          sviedčal, že terajší systém pensiový je tvrdý a nespravodlivý. Uznal
+          všetky jeho prednosti: uveril jeho činom, odpustil mu „čIaNZÍJer-
+          stvo“ a všetky ztratené bitky, bol hotový uveriť mu, že vlastne on
+          vydobyl Kars a Plevno, a vôbec uznať ho za summu všetkých vo-
+          daných cností, len preto, že mal zásluhu byť skutočným ujcom
+    </tei:p>
+    <tei:p>
+     V.
+    </tei:p>
+    <tei:p>
+     Táto bola tichá a málomluvná. Nalievala čaj, núkala cukrom.
+          Jaroslav bál sa na ňu pozreť. „Keď na ňu čo len blusknem, musím
+          zarevať jako tur,“ myslel a usmieval sa.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     lav bol veselý, shovorčivý, dvoril domovej panej, ba za-
+          aretu, čo už dávno nestalo
+          a divili ružovej vôli tichého človeka, len Milka nedi-
+          vila sa. Supplenstvo — a K! Keby len aspoň vedela, čo po ňom
+          nasleduje. Či to ozaj daká Kunikunda z pieskového Brandenburgu.
+    </tei:p>
+    <tei:p>
+     Nočné motýlky obletovaly mliečne gule lámp, a dotknúc sa
+          rozpáleného skla, padaly na biely obrus.
+    </tei:p>
+    <tei:p>
+     Kanitáň sa pobral. Od Jaroslava sa srdečne odobral, invitujúc
+          ho k sebe do mesta. Predviedli mu koňa, on vyšvihol sa na chrbát
+          vranka, a o chvíľu letel hradskou k mestu.
+    </tei:p>
+    <tei:p>
+     „Apuško, pán kandidát nás za nedlho opustí,“ prehovorila
+          Milka, „dnes mi to riekol na prechádzke.“
+    </tei:p>
+    <tei:p>
+     J slav sa zap Nesmelo a skromno sdelil starému pánovi
+          svoj plán. Ten sa, srdečne tešil!
+    </tei:p>
+    <tei:p>
+     „A tak sa vám predsa dostane Janko pod ruku, pane nádejný
+          profešsov! Páska, nášho priateľstva za to nepraskne! Mnoho šťastia !
+          Tak treba. Vaša a vedie mimo takého sadlého mlieka, jako
+          som ja! Len napred!
+    </tei:p>
+    <tei:p>
+     Starí pobrali sa domov. Lampy odniesli, nastalo príjemné š šero.
+          Milka oprela sa o zábradlie zahrady a hľadela. na motýla so
+          ktorý svojim dlhým cicadlom mlsil "mäd z kalicha betúnie, vznáša-
+          júc sa šedými krýdlami v povetrí. Kvet sa triasol jakoby strachom.
+          pred nočným zlodejom : trepot motýlových krýdel bolo počuť, jako
+          brnenie vrtielky, prudko roztočenej.
+    </tei:p>
+    <tei:p>
+     Jaroslav bol dnes smelý. On pristúpi) bližej, sám seba obdi-
+          vujúc pre ľahkosť a zručnosť. Ruky mu nezavadzaly, nohy neboly
+          nepotrebné.
+    </tei:p>
+    <tei:p>
+     z blízky oblok hľadela pani Žulová do zahrady. Ona nerada
+          a chvíľu, v ktorej mohla videť svoju dcéru, i tak často
+          á oj mladosti.
+    </tei:p>
+    <tei:p>
+     "Neue ti chladno? p“ z ala sa dcé
+    </tei:p>
+    <tei:p>
+     Nie, mamička, veľmi príjemno.“ Avšak sotva to riekla, už letel
+          strý shawl z obloka — a padoľ neďaleko nôh Milkiných. Jaroslav
+          il jako mladý kocúrik po koristi a oddal ju Milke. Jaký vítaný
+          to titul sblíženia.
+    </tei:p>
+    <tei:p>
+     „Ďakujem VÁM, že ste ma osvobodila od nepríjemného ob-
+          jasňovania s otcom,“ hovoril Jaroslav nesmele, klopiac oči a len
+          chvíľkami pokuknúc na dievča, ktoré zavinulo svoje holé, biele ra-
+          mienka do hebkého shawlu, nie pre chlad, ale len preto, že shawl
+          bol tu. „Som ťarbavý a nerád chápem sa iniciativy!“
+    </tei:p>
+    <tei:p>
+     Milka hľadela úporno do hustej resedy :
+    </tei:p>
+    <tei:p>
+     „I pri tak radostnýc sneniach.“
+    </tei:p>
+    <tei:p>
+     „Bál som sa nemilej . Chlapec sotva naučil sa učiť,
+          privykol k učiteľovi — a už má prísť zas do iných rúk. A tak
+          váhal som celých štrnásť dní. Vám sveril som Je to ľahšie.
+          Pred vami o skrývať niečo. A tak ste preborily lad: možno že
+          k môjmu šťastiu! Ono je tak blízke —“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     172
+    </tei:p>
+    <tei:p>
+     „Kto vás mohol držať — cesta voľná, svobodná! Vy ste si
+          pánom svojho osudu, keď zapáči sa vám odletíte, kto riadi vaše
+          krýdla? Cesta voľná, svobodná.“
+    </tei:p>
+    <tei:p>
+     „Svobodná!“ opätoval.
+    </tei:p>
+    <tei:p>
+     „Svet široký,“ doložila hlasom niečo zvlneným, nezvonným,
+          rovno, jakoby z pís vystupujúcim.
+    </tei:p>
+    <tei:p>
+     Nastala prestávka. Milka opierala sa vždy v tej samej positúre
+          o zábradlie. Shawl mala stiahnutý až po briadku. Časom sa ztriasala
+          jakoby jej mrázik bežal telom. a
+    </tei:p>
+    <tei:p>
+     A naozaj vialo od nej mrazom. Šuhajova. veselosť nad rýchlo
+          rozvitou láskou mizla jako to denné svetlo. Rozvaha počala brať
+          vrch nad citom. Až teraz napadlo mu, že k šťastiu v láske, čo jak
+          hlbokej, iskrennej a ideálnej, nenie dosť jednostranné cítenie. Po-
+          saváď ale vie iba podobizňa deďuška nad posteľou, čo sa v ňom
+          zrazu zmenilo. V rýchlom vzraste nového mohutného citu zabudol
+          mladý filosof na najvážnejšiu podmienku, oprávniť mohúcu plesanie
+          a radostné poryvy preplueného, bohatého srdca. I mizla dobrá vôľa,
+          mizla veselá myseľ... ruky počaly mu byť nepohodlné a s nohami
+          sotva vedel čo počať. Starý, nereformovaný kandidát ožil v ňom
+          napriek pekného rúcha.
+    </tei:p>
+    <tei:p>
+     „Svet široký,“ tupým hlasom opakoval slová Milkine, „nudný
+          a smutný. Svet je studený a odporný.“
+    </tei:p>
+    <tei:p>
+     „Či aj vtedy, keď nám jasá v duši ideál, keď nám kynie v ňom
+          krása! Keď ružové nádeje zkrsnú, keď blíži sa skoré splnenie dlho
+          prechovávaných túžob?“
+    </tei:p>
+    <tei:p>
+     „Vtedy, myslím že nie.“
+    </tei:p>
+    <tei:p>
+     „Nuž príjmite moje blahoželanie k tomuto zábavnému, vese-
+          lému a príjemnému svetu.“
+    </tei:p>
+    <tei:p>
+     Srdce zatriaslo sa v šuhajovi. On priblížil sa o pol kroka
+          k Miluške.
+    </tei:p>
+    <tei:p>
+     „Vy prajete mi, od srdca prajete dosiahnutie toho ideálu, tej
+          krásy, vy želáte mi vyplnenie nádejí, ktoré som sotva, opovážil sa
+          chovať. Nádeje tie len jako hviezdy na nebi blažily dušu moju, ale
+          nevolaly na ramená moje, roztvorte — nás možno dosiahnuť.“
+    </tei:p>
+    <tei:p>
+     Šuhajov hlas prijal na seba neobyčajnú mäkkosť a melodiosnu
+          krásotu — rovno jakobys" počúval zvuk ďalekých zvonov.
+    </tei:p>
+    <tei:p>
+     Milica kúsla si bielym zúbkom do perny, ktorá sa zabarvila,
+          rosičkou krve. Horká je tuším tá kvapôčka čistej devičej krve!
+          „Jako zmenil sa,“ blislo deve hlávkou, „jako skrásnel pri my-
+          šlienke na svoju ľúbosť.“
+    </tei:p>
+    <tei:p>
+     „Nemám príčiny vám zle priať,“ pokračovala nahlas. a
+          duša je čistá, mäkká, blahorodná. Vy zaslúžite blaženosť v úplnej
+          miere. Vaša veda — vaše výhľady... nič, nič vám nestojí v ceste
+          a tá je hladká, pohodlná a — nedlhá. Nie každý má takú pred
+          sebou: sú ľudia, ktorých blaho naozaj tak ďaleko dlie jako tie
+          hviezdy — a možno, že i nad nimi. Vy potrebujete len rukou
+          siahnuť,“ s tým siahla cez zábradlie a odtrhla plnú betúniu, „i kvet
+          vo vašich rukách.“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     173
+    </tei:p>
+    <tei:p>
+     Sladký mráz bežal celým telom šuhaja. On priblížil sa tesno
+          k deve, tak že pri nevoľnom pohybe dotýkol sa mäkký shawl jeho
+          pleca. Ona sa. potichu, nespozorovane uhla.
+    </tei:p>
+    <tei:p>
+     „Rád bych veriť, a nemôžem, nemôžem! Ujistite ma ešte raz,
+          opätujte, slečno, tie slová zlatej potechy, nevýslovného šťastia. Som
+          nezručný, neohebný , reč moja neposlúcha šumenie citov! Som ne-
+          znosný, príkry a zamosúrený, ale vďačným viem byť, slečinka,
+          vďačným do hrobu — za hrob. Ujistite ma ešte raz, utvrďte ma
+          vo viere, v tej sladkej viere, ktorá je tak veľká, dobrá, že nemá
+          miesta v tomto úzkom srdci. Neunesiem ťarchu tohoto šťastia!
+          Ono prichádza "tak razom, tak neočakávane, tak nezaslúžene.
+          Jako veriť?
+    </tei:p>
+    <tei:p>
+     Toľko ohňa deva neč: nikdy pod dlhým kandidátskym ka-
+          putom. Každý plamienok 1 jej dušu.
+    </tei:p>
+    <tei:p>
+     „Prečo by ste neverili? Jaké príčiny máte k pochybnosti?
+          Miesto vaše je zabezpečené — a o ostatné malá starosť. (Jaroslav
+          vzdychol ťažko, jeho zadivil ten suchý tón.) Snáď nemáte príčiny
+          k pochybnosti? To konečne vy lepšie znať musíte, n: ja.“
+    </tei:p>
+    <tei:p>
+     „Nemusím pochybovať?“ pýtal sa mladý muž rozjatrene , jeho
+          líca blčaly, tepna. sluchov bila, jakoby sa dobýjala von.
+    </tei:p>
+    <tei:p>
+     „Pochybovanie obráža najmä verné túžiace srdce ženské. Vy
+    </tei:p>
+    <tei:p>
+     snáď ani z ďaleka ípite, jako sa to srdce v tichosti sužuje, jako
+          trepotá obavami a túžbami (hlas devy bol citlivý, opravdový). Jedna
+          pochybnosť môže raniť ho smrteľne. Dôvera, otvorená dôvera je
+          vlastnosťou ých, vyššie bijúcich sýde. Treba sa žertvovať cele,
+          treba veriť. Otvorené, vrelé oddanie sa čistým citom svedčí mužovi
+          a bohatierovi duchovnému! Jaké šťastie zkvitá potom pre ženskú —
+          jaké šťastie!
+          „Bože môj, Bože môj alkal Jaroslav skoro prihlasne, hlava
+          sa mu krúžila, srdce bilo hlasne o bok I schytil ruku devy —
+          shawl jej spadol z jednoho pleca, schytil celé beloskvúce rameno
+          a vtlačil naň horúci bozk.
+    </tei:p>
+    <tei:p>
+     Milka. sa trhla, jakoby p
+          Odtrhla. sa prudko s preni
+    </tei:p>
+    <tei:p>
+     „Tak ďaleko neide moja sympatia s tou vašou nebeskou láskou,
+          pane kandidát, či pardon — pane supplent! Moje detinské, otvorené
+          chovanie posmelilo vás k tomuto kúsku, alebo premenili ste miesto
+          vo vašej fantasii?“ Plná betúnia vypadla z ruky devy, ona ju pri-
+          stúpila, nôžkou.
+    </tei:p>
+    <tei:p>
+     „ „Milka,“ ozval sa oblokom matkin hlas, „už čas do izby.
+          Cujem lipy, vetrík fúka.“
+    </tei:p>
+    <tei:p>
+     A naozaj, čerstvým vetrom rozšumely sa košaté koruny stro-
+          mov. Na nebi ly sa, jakoby pričarované, oblaky tmavošedé,
+          dážďové. Milka šla pružným krokom hore trimi schôdkami, vedú-
+          cimi do siene. Shawl neuspela zdvihnúť na ľavé rameno. Pri dve-
+          rach ohliadla sa. ďaroslav stál u zábradlia nepohnute, jakoby bol
+          jeho jedným stípom. Dvojkrýdlové dvere zacvendžaly za devuškou.
+          Už na schodách, vedúcich k jej vonnej izbuške, cítila slabosť,
+    </tei:p>
+    <tei:p>
+     srny šuhaja boly žhavým železom.
+          n, krátkym výkrikom.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     174
+    </tei:p>
+    <tei:p>
+     pravou rukou chytala sa zábradlia. Spozorovala načervenastý fliačok
+          na ramene.
+    </tei:p>
+    <tei:p>
+     Starena, bývalá kojná, čakala ju v izbe.
+    </tei:p>
+    <tei:p>
+     „Choď spať, Kata,“ riekla rýchlo, „nepotrebujem nič.“ Kata
+          pozrela zvedave na tvár veliteľky.
+    </tei:p>
+    <tei:p>
+     „Ale si mi bľadé, holubiaťko moje. Očká vpadlé — ah, tuším
+          plakal môj sladký život! Čože ti chyb? Budeš lipové thé?“
+    </tei:p>
+    <tei:p>
+     „Nechcem,“ zavolala silno, panovito Milka a dupla nôžkou.
+          To si ešte nikdy nedovolila proti Kate. Mala ju rada jako mlsné
+          deti starú mamku, mávajúcu plné kapsy cukroviniek.
+    </tei:p>
+    <tei:p>
+     Sotva. vyšla Kata, kľakla Milka k odostlatej belunkej postielke
+          a o chvíľku znelo izbou kfčovité ťažké stenanie. Suchý, „bezslzný
+          plač, nárek bez slov, kto nepocítil muky tvoje, nepozná tú naj-
+          hlbšiu híbku duševného bôľu. Veľké, svobodné srdce cíti viac bôľu,
+          než soschnuté v nízkosti. Preto hlupákovi ešte nikdy srdce bôľom
+          nepuklo, a mnoho krásnych silných duchov podľahlo veľkej spôsob-
+          nosti cítenia.
+    </tei:p>
+    <tei:p>
+     Milkin cholerický ráz neznal jemných préchodov z jednoho citu.
+          Prevraty v jej duši boly otryvisté, náhle, energické. Jako lúč sln-
+          ková do hlbín čistej studnice, tak padla v jej srdce ohnivá láska
+          a osvietila ho, rila a rozpálila až do najhlbších hlbín. Oblak
+          hodil sa pred jasávú tvár slnka, i ztemnela kryštálová studnica.
+          V srdci devinom tma a zúfanie.
+    </tei:p>
+    <tei:p>
+     Jaroslav stál dlho u zábradlia. Oblaky hustly a černely, z
+          júci sa vetor vzal jich na svoje perute. Zďaleka zplály časom
+          blesky.
+    </tei:p>
+    <tei:p>
+     Mladý muž bol zničený. Pád zo slnkovej výšiny blaha do temnej
+          prepasti zahanbenia, opovrhnutia a hanby bol tak ramenitý, kvapný,
+          že ohromil jeho dušu, ohlušil hlavu. Vnútornosť jeho nebola schopná
+          pocítiť bôl, tak jako vojak, ženúci sa útokom, necíti guľu, ktorá
+          práve prerazila jeho hruď. Až teplé rynutie krve a rastúca mdloba
+          upozorní ho na ťažkú ranu. Boľasti nastanú neskôr.
+    </tei:p>
+    <tei:p>
+     Keď zpamätal sa, bolo prvým jeho-cítením hnev. Celá jeho
+          bytnosť zatriasla sa týmto jedným mohutným citom.
+          „Koketka,“ zašeptaly kíčovite sovrené perny. Jeho muž
+          ila práve smrteľné obrazenie. Videl sa byť myškou v
+          pazúrkoch lichotivej, perfidnej mačky, bezvládnou hračkou vyrátanej
+          jastrivosti. Celé jej chovanie zdalo sa mu byť jasným, všetko zá-
+          hadné rozlúšteným. Cítil teraz celú nízkosť úlohy a postavenia
+          svojho vtedy, keď sa jej ešte Túbilo žartovať a bláznivé kúsky tropiť
+          S mužom, majúcim oprávnené nároky n: žne zachádzanie. Čo
+          neopovážil sa žiaden priateľ ani vrah, závistník ani ctiteľ, dovolilo
+          si beztrestne zmazlené dievča. Avšak prečin jej korunovaný bol až
+          dnes, až keď napadlo jej zahrať sa so svätými citami ľudského
+          srdca. Jako stať sa mohlo, že popredku neprezrel lesť, klam a vy-
+          počítavosť! Jaká zaslepenosť vyžaduje sa, hľadať híbku v melkej
+          barine! „Bože, Bože!“ zalkal Jaroslav úpenlívo a strhol klobúl
+          z horúcej hlavy. Ťažké veľké krupäje dažďa, bily mu na hlavu a
+          horúce čelo. Blíslo. V blesku uzrel na zemi betúniu, na ktorú šliapla
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     175
+    </tei:p>
+    <tei:p>
+     malunká nôžka Milkina, ale ktorá pritom všetkom mala celé rebrá.
+          Oj, nôžka, malá, sénia nôžka !
+    </tei:p>
+    <tei:p>
+     Vzal betúniu. Nie zo slabosti, nie! Chcel ju rozšliapať svojou
+          nohou — tak jako spomienku na devu. Zabudol. Betúnia zostala
+          mu v ruke.
+    </tei:p>
+    <tei:p>
+     Isté bolo len jedno: zajtrajší deň bude posledný, čo pod touto
+          strechou prežije. Dlho blúdil pod gaštanami, bárs dážď šuchotal
+          v hustých korunách: po pňoch lialy sa potôčky na pieskový chod-
+          ník. Blesky osvecovaly na okamženia okolie. Prechody z jarkého
+          svetla do uhlistej tmy dobre účinkovaly na rozľadenú dušu filologa.
+          Búrka pretiahla sa po ďalekých horách. Jaroš bol už celý pre-
+          moknutý, zuby mu sekaly od chladna. Sobral sa domov. Idúc cez
+          mostík rieky, nevdojak šibol okom po oblôčku Milkinom. Bolo
+          osvetlené. Na čipkastom čalúne bola silhuetka — tuším malej vonnej
+          hlávky s rozpustenými vrkočami.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Huk mora v búri je hnevný , srdité vlny metajú sa o nábrežné
+          skaly a sypia zlostne. Hodinou po búrke prestane hnevný hukot,
+          no celé more je rozjatrené, pohnuté a vibriruje náružive. Príčinou
+          i zlostného hukotu, i pobúrkového pohnutia je — vetor, púhy ľahký
+          vozduch! Jak ťažké požaduje obete!
+    </tei:p>
+    <tei:p>
+     Tma obkľučovala Jaroslava, ktorý sa vo svojej izbe hodil na
+          divan a ležal jako mfi Ruky mal skrižované na prsiach a jedine
+          ťažké nepravidelné dýchanie svedčilo o živote. Časom zriedkavo
+          osvetlovala sa chyžka poslednými bleskami zomierajúcej búrky.
+    </tei:p>
+    <tei:p>
+     Hnev prechádzal — no pohnutie trvalo. Celá duša mladého
+          muža vibrirovala a zatriasala sa vo svojich najtajnejších hlbinách.
+          Privyklý ku skromnej zdržanlivosti, ku zapieraniu samého seba,
+          prvý raz siahol po životnej slasti, i hodený bol nazpät do ríše, na
+          bráne ktorej stojí napísané: „odriekni sa a trp.“ Na pernách. pálilo
+          ho ešte dotknutie sa devinho ramienka a sladko-trápny pal sdelil
+          sa celej jeho bytnosti — len rozum nesdielal mlunný ten prúd a
+          volal: odriekni sa a trp!
+    </tei:p>
+    <tei:p>
+     Hnev prechádzal. V čom je ona vlastne vinná ? Či ho kedy
+          posmelila čo len ľahkým posunkom k tak smelému počínaniu? Dlho
+          o tom premýšľal a nemohol najsť nič podobného. Ani len pohľadom,
+          ami kynutím hlávky, ani jediným mžikom hodbabnej mihalnice ne-
+          dala podnet, ani len zdanlivé posmelenie nebolo možno pozorovať.
+          Jej pr ť rozdelená bola rovnakou mierou na všetkých, ktorí
+          ju okrúžali — ona sa smiala zvonným chutným smiechom nad kapi-
+          táňom, ujcom Vysockým, nad ťarbavým sluhom Ďurom i ťarbavým
+          kandidátom. Ona vedela zachytiť sa na slabosti iných, spravila
+          7 nich čiperné karrikatúry, žartovala, nezlostne, dobro: čle, sama
+          ale bola neprístupná, ohradená krážom čistého dievčieho taktu.
+          Ona mohla byť smelá, až ku krajnosti smelá — no na samej samu-
+          čičkej hranici dovoleného a ženského zostala stáť pevno, určito,
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     176
+    </tei:p>
+    <tei:p>
+     nepohnute. Nikdy jej malá, uzunká nôžka neprekročila túto hranicu!
+          Jak dobročinný bol jej vplyv ňaňho! On počal vpravovať sa do
+          skutočného života, bez nehož nestoja nič veterné zámky theorie.
+          „Jedným pohľadom do knihy a dvoma do života,“ privolávala mu
+          tak dojemne. Jeho nemeckou výchovou a vedou pokrivená príroda
+          počala sa vystierať a narovnávať pod očima obdarenej, umnej de-
+          vušky. To všetko požadovalo by vďačnosť. A čo vykonal on? Pri
+          prvom priamom objavení jej súcitu, keď počala prvý raz vraveť
+          subjektívne, keď ukázala celú dobrotu svojho srdca, vrhol sa k nej
+          jako zver! Shawl padol s okrúhleho pliecka, a on uchvátil ruku,
+          uchvátil ramienko drzo, silno, on hriešnou pernou dotknul sa tela
+          devy, toho čistého, nežného, bieleho tela. Či sa tak stretajú vys
+          naladené duše? Či nemá muž ducha iného spôsobu, dať voľný prie:
+          chod citom svojim prekypujúcim? Možno, že nerozumel slovám
+          umného dievčaťa, možno ayšak, že ony boly prvými klíčkami ro-
+          diacej sa náklonnosti. On s útleho citu, neprišlého ešte k povedomiu,
+          sotrel ten pel, ten jemný prášok motýlového krýdelka. Tak rýchlo
+          nedobývajú sa také srdcia, jaké bilo v ňádrach Milky. Neobrazil
+          on hmotárstvom, zverstvom svojím devu, ktorú miloval — ktorú
+          miluje? Či to dôstojné slavianskeho človeka, aby zle a nezručne
+          nápodobnil to západnícke vyzdvihovanie tela do nezdravých roman-
+          tických bleskotov, ktoré zatrbliecu sa minutno a hynú! Styk
+          duší, vliatie sa dvoch duchovných svetov v jedno koryto, má ísť
+          iným žlebom.,
+    </tei:p>
+    <tei:p>
+     Čím jasnejšie spomínal si, čo stalo sa, tým jasnejšou maľovala
+          sa mu postava devy, tým väčmi sosilňovala v srdci jeho láska.
+          No so zrastom ľúbosti otvárala sa širšie a širšie bezodná prepasť
+          medzi ním a devou. Prepasť a sa v rýchlom postupe — ešte
+          videl belunký jej odev viať vetrom, ešte rumenilo sa jej líce —
+          líce sa tratilo — šata sa zmenšovala — mhla a prázdnota ....
+          Už brieždilo sa, keď padol Jaroš do mrtvého sna.
+    </tei:p>
+    <tei:p>
+     Andrej Žula úprimne ľutoval kvapné, nečakané rozhodnutie sa
+          aptlovo. Jeho pani utrela si slzu a potriasla srdečno rukou kandi-
+          dáta. — s
+    </tei:p>
+    <tei:p>
+     „A ja tohoto desertéra koňmo vyprevadím,“ pretrhol citnú
+          scénu lúčenia kapitáň Vysocký, „aby sa dajako nevrátil.“ Nemohol
+          -vystáť sentimentálne tváre — a najmä ženské slzy. „Jaký je bladý
+          tento filosof!“ pokračoval ďalej. „Iste banuje za tvojími šunkovými
+          fliačkami, sestro! Tak delikátne nenajde v celej Europe, ani len
+          v jeho zvelebovanom Rusku!“
+    </tei:p>
+    <tei:p>
+     Nik si nepovšimnul reči kapitáňa. Ďurko zodvihol Jaroslavov
+          kufor a vychádzal z izby. „Dnes nebude pršať,“ prorokoval, celý
+          červený od ťarchy.
+    </tei:p>
+    <tei:p>
+     „Iste zmokneme,“ zabručal kapitáň.
+    </tei:p>
+    <tei:p>
+     „Čo len má ten mladý pán v tom kufre, jestli nie olovo, teda.
+          iste pár skál z kapustného suda.“
+    </tei:p>
+    <tei:p>
+     „Knihy, knihy, ty blázonko,“ dudlal kapitáň pod fúz: „či ne-
+          vieš, že je múdrosť ťažšia nežli olovo?“ ,
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Brána vrzla, staromódny koč hýbal sa von z dvora.  Kapitáň
+          dal koňovi ostrohy, že sa pružne, koketne spínal a tancoval po
+          dlažbe dvora. Na širokých poduškách koča sedel sám Jaroslav
+          Sokol. ľahla, 10u na prso, Sám, nepoznaný, cudgzí, z tre-
+          potným, „bojazlivým srdcom vtiahnul pred nedávnom do tohoto
+          domu: sám, nepoznaný, ba zaznaný, s ohlušeným citom ťahá dnes
+          von. A predsa tu necháva to najvyššie, najdrahšie, necháva bez
+          slova žiaľu, bez hlasitého náreku. Ani len rozlučný pohľad, stisnutie
+          ruky nenie mu dopriano. „Kde Milka?“ pýtal sa pán Andrej, keď
+          podával ruku. Jaroš sa vďačne pozrel na, staríka, nádej
+          a, že snáď ju uvidí ešte raz, nádej i strach. On bál sa
+          nemal príčiny : Milky nebolo v dome.
+    </tei:p>
+    <tei:p>
+     Kone uháňaly, veselo potriasajúc hrivami. Vysocký držal sa
+          v rovnej čiare s kočiarom a jednostajne rozprával. Jaroslav sa zlobil
+          na „zwanzigera,“ lebo pri takých osudne smutných, rozorvaných po-
+          citoch ťažko počúva sa prázdna reč. Srdce mladého muža svíjalo
+          sa, ono pálilo ho v prsiach! Každým krokom, ktorým vzďaloval sa
+          od Žulovského domu, rástol v ňom bôľ rozlúčenia. Už myslel, že
+          zavolá na Ďura, ach.
+    </tei:p>
+    <tei:p>
+     „Zprepadená , šimla,“ zakričal Kanitáň, „žalnou nohou kosí tá
+    </tei:p>
+    <tei:p>
+     devla — postoj, Ďuro! "Nevidíš, že si zastúpila opratu?“ —
+    </tei:p>
+    <tei:milestone rend="star" unit="subchapter"/>
+    <tei:p>
+     Do domu Žulovského vtiahla. tupá tichosť. Andrej chodil po
+          izbe s rukami na chrbte složenými, fajčil tuho a mykal hlavou,
+          čo len vtedy robil, keď bol rozčulený. To sa málo kedy stávalo.
+          Chybiäla tomuto jednoduchému človeku wmná tvár mladého kandidáta.
+          Jeho pani žalovala sa na migrenu a utiahla sa do ložnice.
+    </tei:p>
+    <tei:p>
+     Ža hodinu po odchode dvoch mužov vrátila sa Milka so starou
+          Katou domov z návštevy nezdravého domkára.
+    </tei:p>
+    <tei:p>
+     „Apuško, Závorovi pomôhol môj liek, už zjiedol s chuťou za-
+          právané, čo mu Kata doniesla.“
+    </tei:p>
+    <tei:p>
+     „Prečo si teda tak plakala u jeho postele, holubička moja?“
+          zpýtala sa Kata, „myslela som, že ti srdiečko pukne.“
+    </tei:p>
+    <tei:p>
+     „Ona si niekdy i od radosti. zafňuká ,“ pohodil mäkko otec a
+          zašňupal si z peknej zlatej tabaterky. Milka. pozrela na otca s vý-
+          razom nedorozumenia. Jej tvár bola bľadá, oči svietily tichým hľbo-
+          kým žiaľom.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

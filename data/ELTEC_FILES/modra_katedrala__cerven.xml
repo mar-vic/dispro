@@ -1,0 +1,2030 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1980941" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Modrá katedrála : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:48159887">
+     Červeň, Ján (1919-1942)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     11321
+    </measure>
+    <tei:measure unit="pages">
+     200
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:48159887">
+      Červeň, Ján (1919-1942)
+     </tei:author>
+     <tei:title>
+      Modrá katedrála
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenský spisovateľ
+     </tei:publisher>
+     <tei:date>
+      1980
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Modrá katedrála
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <div type="chapter">
+    <head>
+     - 1 -
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Zem sa zafarbila do fialova. Vrtela sa arbavo a ¾udia cítili úzkos, lebo v kusoch
+         vzduchu, ktoré odpadávali z jej vlhkého povrchu, neprestajne to pišalo a stenalo.
+    </p>
+    <p>
+     Zelená brána sa otvorila, bola to brána väznice. Igor sa díval hore nad stromy. Oblaky
+         sa napúšajú smolou, tá sa ahá ako podlhovasté hrušky. Vidí sa mu, že chce kväcka dolu do
+         polí a do hôr.
+    </p>
+    <p>
+     — Bude prša, nie? — vraví.
+    </p>
+    <p>
+     Dozorca nieèo hundral, nebolo ho rozumie, zaiste prechladol v noci a mal z toho teraz
+         zachrípnutý hlas. Šramotal k¾úèom, ve¾ké železá v zámke sa triasli a zvonili. Igor si
+         húžvil ruky a mraèil sa, takže vyzeral ako èlovek, ktorého nieèo znepokojuje. Tamten sa
+         koneène ozval. Otváral ve¾mi ústa, bolo vidie, že si premáha hrdlo.
+    </p>
+    <p>
+     — Nuž zbohom, Lambert… azda sa ešte niekde stretneme.
+    </p>
+    <p>
+     Horko sa zatváril. Vyzeralo to ako na smiech:
+    </p>
+    <p>
+     — Možno. Zbohom.
+    </p>
+    <p>
+     Cez ulicu bežali školské deti. Dozorca vravel:
+    </p>
+    <p>
+     — H¾a, aké sú veselé.
+    </p>
+    <p>
+     — Naozaj. Mali by si dáva trocha pozor.
+    </p>
+    <p>
+     Potom nastala chví¾ka ticha. Igor však neodchodil. Zaumienil si, že ešte nieèo povie.
+         Pohladil sa po lícach, akoby skúšal, èi je dobre oholený. A povedal:
+    </p>
+    <p>
+     — Neviem, èo je to. Nieèo mi zviera dych.
+    </p>
+    <p>
+     — Musíte privyknú na tento vzduch. Lebo vonku je to iné ako tam dnu.
+    </p>
+    <p>
+     — Myslíte? Ešte vèera som o tom uvažoval, lebo som mal celkom jasnú predtuchu, že
+         zakúsim zvláštne pocity, keï budem odchodi. Myslíte teda, že vzduch? No neviem, predstavte
+         si len, že sa to akosi podobá strachu. Aké smiešne. Nikdy predtým by som si nebol pomyslel
+         na nieèo takého.
+    </p>
+    <p>
+     Neskoršie doložil:
+    </p>
+    <p>
+     — Je to tak, až teraz chápem, že to vskutku bude strach, a niè iného.
+    </p>
+    <p>
+     Spoza roztrhnutého húfa mráèikov padajú na zem v širokých vejároch lúèe a ve¾mi pália.
+         Cez prach sa šmýkajú zelené a karmínové pásiky, svietia oslnivo a všetky sa otáèajú okolo
+         jedného bodu, ktorý nevidno a ktorého polohu možno predsa ¾ahko uhádnu, pretože je to
+         slnko. My všetci sme k nemu stále priahovaní, nevieme o tom èasto; toto pôsobenie je tajné
+         a mohutné.
+    </p>
+    <p>
+     — Zbohom, — volá Igor ešte raz, vzïa¾uje sa a hlas sa mu trepoce vo výške medzi
+         plechovými strechami. Stúpal do kopca po starom dláždení, ktoré je už celé obšúchané a
+         ktoré sa vždy ligoce akýmsi sivastým popraškom.
+    </p>
+    <p>
+     Stretol dve mníšky. Vracali sa z kláštora zo svojej každodennej prechádzky v gaštanovom
+         sade. Boli to tiché postavy, ich kroky nebolo vôbec poèu, nevidel im nohy ani oèi, boli
+         celé èierne a biele. Kráèali proti nemu a zdalo sa, že sa spytujú:
+    </p>
+    <p>
+     „Ach, to si ty, Igor? Ty si to?“
+    </p>
+    <p>
+     A on im odvetí:
+    </p>
+    <p>
+     „Ja… ja… ako to, že ma ešte poznáte po takom dlhom èase? Nezabudli ste?“
+    </p>
+    <p>
+     „Nie, nezabudli, Igor, nezabudli, dobre sa na teba pamätáme, vídali sme a èasto, vieš,
+         mával si na sebe kabát škoricovej farby a túlaval si sa po uliciach.“
+    </p>
+    <p>
+     „Naozaj… celkom tak, ale to bolo už ve¾mi dávno… Akože sa máte, sestrièky? Dobre?
+         Vidíte, mòa už pustili. Naèisto ma pustili. Stalo sa to pred chví¾oèkou.“
+    </p>
+    <p>
+     Ony na to kyvkajú hlavami a tešia sa:
+    </p>
+    <p>
+     „Aké znamenité… no, h¾a… a ver nám, èasto sme si myslievali, že potom už bude azda
+         dobre, keï a takto stretneme. A h¾a, už to aj prišlo. Teda pustili a? No, no. A ko¾ko sme
+         sa namodlili za teba! Keby si len vedel. Lenže ty to akiste nevieš, ve¾mi mnoho, každý
+         veèer a každé ráno.“
+    </p>
+    <p>
+     „Každý veèer a každé ráno? Za mòa?“
+    </p>
+    <p>
+     „Áno. Za teba, Igor. Aby si mal dobré srdce, každý veèer, a aby si mal jasné myšlienky,
+         každé ráno. Veru.“
+    </p>
+    <p>
+     Zasmial sa. Robil „hm, hm“.
+    </p>
+    <p>
+     „Preèo sa smeješ? Sme vari také úbohé, že nás nemožno odmeni nièím, iba smiechom?“
+    </p>
+    <p>
+     „Ste smiešne. Myslím, že sa neurazíte.“
+    </p>
+    <p>
+     „To nie, ale preèo — a tu kyvkajú ïalej — preèo, veï sa nepatrí by zlodejom. Ani
+         darebákom, ani vôbec zlým èlovekom. Rozumieš? Nuž pozrime, tak sa smeješ ako samopašný
+         chlapec. Rozumieš, nepatrí sa to! Lebo zlých ¾udí boh tresce, vidí všetkých a ani jeden sa
+         pred ním neskryje. Never, èo iní vravia. Boh je tamhore nad nami a vidí všetko, už je to
+         raz tak, veru hej, a tresce nemilosrdne, ak sa mu niekto protiví. No áno, Igor.“
+    </p>
+    <p>
+     Aj ich èepce sa natriasajú a šuští to v nich, akoby boli napchaté suchým lístím.
+    </p>
+    <p>
+     „Vedz, Igor, že tresce.“
+    </p>
+    <p>
+     Prešli pomimo. Obzrel sa za nimi, kráèali, niè nevraveli a vo svojej tichosti boli celé
+         èierne a biele.
+    </p>
+    <p>
+     Igor Lambert sa prehol v chrbte. Povedal:
+    </p>
+    <p>
+     — Ach, som ako dolámaný.
+    </p>
+    <p>
+     Bol, saby bol odniekia¾ spadol na nieèo tvrdého, napríklad na dlážku alebo na udupanú
+         zem. Vložil si prsty do úst, zahvízda, myslí si, dostal na to odrazu ve¾kú chu, zahvízda
+         divo ako niekde v horách, aby sa to poriadne ozvalo a zatriaslo celým mestom a oblohou, aby
+         sa ¾udia na¾akali a vystrèili z okien predesené tváre. Zahvízda a hneï uvidí, èo urobia tie
+         dve, èi sa tiež z¾aknú a èi pôjdu pokojne ïalej.
+    </p>
+    <p>
+     Nie, nezahvízda, rozhodol sa inak, potriasol hlavou, pôjde po ulici a nik nemusí o òom
+         vedie, že sa volá Igor Lambert. Pôjde si tak ako tí ostatní; tak, akoby sa vracal z
+         obchodu alebo z úradu a akoby myslel na èiernu kávu, na noviny alebo na nieèo podobného.
+         Alebo na malé deti.
+    </p>
+    <p>
+     Mníšky zmizli za rohom.
+    </p>
+    <p>
+     Pozoroval dos dlho domy a povozy a nevedel, èo by si mal poèa. Okúòal sa okolo
+         stanice, kde bol ohlušujúci ruch, potom ho to zunovalo a odišiel do istej boènej ulice, cez
+         ktorú tiekla v jarèeku hustá voda a kde bolo všetko ako vymreté. Šiel ešte ïalej. Až sa
+         dostal koneène ku kostolíku, okolo ktorého lietali holuby. Trepotali krídlami a Igor cítil
+         na tvári teplé závany vzduchu. Vnútri však bolo ove¾a chladnejšie. Kostolík bol celkom malý
+         a tmavý, takže v prvej chvíli videl pred sebou len akúsi hmlistú tmu. Potom sa pomaly
+         rozh¾adel a všetko mohol pozorova. „Èo tu h¾adáš, Igor?“ spytovali sa ho krížiky, ktoré sa
+         trblietali na oltári. Veru, Igor to sám nevedel, a keï si sadol do lavice a v dreve to
+         puklo, temer sa na¾akal, že naò nieèo spadne a že to spraví ve¾ký hrmot. Veru, Igor
+         nevedel, èo sa s ním robí; v oèiach mal taký plachý a krotký výraz, že by sa mu teraz jeho
+         starí známi celkom iste zaèali preto smia.
+    </p>
+    <p>
+     Okolo hlbokých okrúhlych okien rozlievali sa po stenách ve¾ké škvrny. Igor h¾adel na ne
+         cez prižmúrené mihalnice a pritom mal taký podivný dojem, že sú to staré vzácne ma¾by,
+         ma¾ované vrúcnosou zašlých dôb.
+    </p>
+    <p>
+     Vravel si:
+    </p>
+    <p>
+     — Èo teraz?
+    </p>
+    <p>
+     Obdivoval všetku tú nádheru okolo seba. Odpovedal si:
+    </p>
+    <p>
+     — No niè. Zostanem tu. Pretože som v jeho príbytku, pánboh sa vari o mòa postará.
+    </p>
+    <p>
+     A ani netušil, že sa tak aj stane. Postaral sa oò tým spôsobom, že mu zoslal na oèi sen;
+         a tento sen pochádzajúci od samého boha bol podobný nejakej hre a nejakej armáde, ktorá
+         bojuje.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Mal pred sebou ve¾kú ružicu, na nej boli podoby ¾udí, zvierat a rastlín, všetko sa tam
+         kúpalo v slneènom jase, a preto nie div, že to bolo pravé tepané zlato. Medzi múrmi sa
+         otvoril ohromný priestor a Igor ihneï videl, že je to vysokánska katedrála, v ktorej jeho
+         kroky a jeho dych uniká do nekoneèna za hladinu oblohy a ozvena sa vracia až po dlhej
+         chvíli ako nejasný spev a ako organová hudba. Slnce sa pohrávalo v prázdnej lodi, ktorá
+         bola modrá, a pohrávalo sa tak, ani èo by bolo diea, ktoré vyhadzuje do vzduchu farbisté
+         sklá. H¾aï, Igor: škvrny žiary, ktorá sa trbliece ako krížiky na oltári, majú zrazu podobu
+         okenných tabú¾ a pomaly sa kåžu po hranatých ståpoch z kameòa, po výstupkoch, po stupòoch a
+         po dlaždiciach. A v žiare plávajú po dlaždiciach. A v žiare plávajú oválne bublinky tieòa,
+         sú èervené ako krv, keï sa vylieva z èerstvej rany. Igor sa tomu divil, „oh, oh, aké je to
+         nádherné!“ Svetelný meè dopadol na oltárny obraz, preniká cez mramorové sochy a cez
+         krištá¾ové ¾alie, bolo vidie, ako sa v òom hmýria zrnká prachu; nebol to však prach, boli
+         to kúsky svetla, ktoré sa rozsypalo po celej zemi z prvotného ve¾kého ohòa. Popukaná
+         olejová farba ligotala sa a roztriasla na stenu hnedú hmlu. V jednej chvíli sa celkom tak
+         zazdalo, že všetky sviece nad oltárom sa zažali samy od seba a že š¾ahá z nich belasý
+         plamienok ako rozvíjajúci sa kvet. Odrazu však prišiel oblak. Bol široký a hustý, vtiahol
+         sa celý do okna, ktoré malo predtým farbu mladých hrachových strúèikov. Sklá vtedy stmaveli
+         a v katedrále sa roz¾ahlo modré šero. Igorovi skoèil do rukáva kúsok zimy a rozbehol sa mu
+         po tele ako vlna vody. Svetelné škvrny zmizli a bublinky tieòov sa rozšírili ohromnou
+         rýchlosou a všetko zaplavili. Z lomených okien pozerali na Igora poctivé gotické oblièaje
+         a mlèali práve tak, akoby na nieèo èakali. Títo svätí boli celí žltí, mali vysoké èelá a
+         trochu šikmé oèi, uprostred ktorých sa im v modrom skveli krúžky, podobné prsteòom.
+    </p>
+    <p>
+     — Moji dobrí svätí, — vravel im Igor, — akí ste vychudnutí! A bledí! Ste takí vychudnutí
+         a takí bledí ako màtvoly, ktoré som èasto vídaval, keï som zo zvedavosti niekedy pozrel do
+         márnice. Bože drahý! Bože.
+    </p>
+    <p>
+     Neodvetili. Boli nemí a nehybní; ani ústami, ani okom nepohli, len sa dívali a èakali.
+    </p>
+    <p>
+     — Na èo èakáte? — spytoval sa, lebo mu bola nepochopite¾ná ich måkvota. — Necítite vôbec
+         únavu?
+    </p>
+    <p>
+     Dával im takéto otázky, dúfal, že sa mu koneène podarí privies ich k reèi.
+    </p>
+    <p>
+     — Úbožiaci, zaiste sa ve¾mi nudíte, — hovoril s prídychom dôvernosti, akoby starým
+         známym. — Necítite ¾útos za hukom, ktorý vládne tam vonku? Ach, ja viem, že áno, viem, že
+         sa azda bojíte prizna pravdu.
+    </p>
+    <p>
+     A tak vravel ïalej, bol len sám v ohromnej lodi a hlas sa mu ozýval, utekal preè mocný a
+         vracal sa vysilený a slabý. Keï to už trvalo dos dlho, dostal odrazu vnuknutie a pochopil
+         mlèanie svätcov. Mlèia, pretože je to pokora. Mlèia, pretože je to odriekanie. Ach áno, tak
+         je to! Teraz si musí vyèíta, že ich oblial svojím štip¾avým posmechom, hoci nebol v práve.
+         H¾adel do prsteòov, ktoré vírili, a takto prosil:
+    </p>
+    <p>
+     — Ó, ja vidím, že ste zhovievaví a že kedyko¾vek vás o to požiadam, skloníte hlavu a
+         odpustíte mi. A aj to vidím, že mi ukážete cestu a že ma neopustíte, keï budem kráèa v
+         temnotách. Ó, ja to vidím! — Vtom sa Igor strhol, kopol nohou do lavice, prázdny priestor
+         zaduòal… ach, kde už stretol túto tvár, chudú, žltú a s trocha šikmými oèami, kde? Kde už
+         pozoroval túto pokojnú a tichú žiaru?
+    </p>
+    <p>
+     Ale ako sa Igor prebudil, hneï cítil v zraku inú žiaru. Bola to bledá a studená žiara
+         smútku. Trel si èelo. Bol zas v malom kostolíku, kam sa neoèakávane vrátil. Ale organová
+         hudba znela ešte neustále. Pravdaže, už sa pamätá, ako to bolo, pamätá sa, sprvu sa akosi
+         zarazil, pretože nevedel, èo to všetko má znamena. Vonku è¾apotal dážï a jeho
+         jednotvárnos pôsobila, že Igor pokraèoval v predošlých myšlienkach, akoby sen ešte trval
+         vo svojej predošlej sile. Obzeral sa. Podivné. Svätcova tvár sa vrátila z katedrály, aby tu
+         svietila ïalej. H¾a, len si ju všimni, Igor, len dávaj pozor na každú podrobnos. Tvár bola
+         v každom z okrúhlych okien. Premokla mlieènou polotmou a chví¾kami sa zatrblietala ako
+         sklený prach. Veruže, aj krúžky v modrom vírili celkom tak ako v katedrále a spokojná
+         úprimnos týchto oèú sa ve¾mi podobala vode v horskom potoku. Vtom sa práve Igorovi mihlo
+         rozumom: Už to viem. H¾a, Albín Gút kráèa horou a slnce, ktoré prerazilo cez húš stromov,
+         okrášlilo ho zlatom. Tak, tak, Albín Gút má tvár toho svätca. Lebo Albín je sám svätcom,
+         akého ani nenájs v celom kraji.
+    </p>
+    <p>
+     Lež letné búrky netrvajú dlho a táto tiež len tak naponáhlo preletela nad mestom. Nebolo
+         to niè, len rozpadávajúci sa oblak, ktorý zašumel èiarami vody, poskoèil zo strechy na
+         strechu a potom sa odvalil za obzor.
+    </p>
+    <p>
+     Keï Igor vyšiel von, oslepilo ho biele slneèné svetlo, po ktorého napnutých strunách
+         kotú¾ali sa gu¾ôèky dažïovej vody. Z pariacej sa zeme vystupovalo v širokých vlnách vlhké
+         teplo a napåòalo vzduch vôòou mokrej trávy.
+    </p>
+    <p>
+     Vtedy sa to stalo, keï Igora pojala tá neuverite¾ne mocná túžba po novom jasnom živote.
+         A odhodlal sa, že s òou bude kráèa ruka v ruke ako brat so sestrou. Rozpomínal sa celkom
+         dobre na Albína z Vyhnaniska. Videl ho pred sebou takého, aký bol, vždy vážne mysliaceho a
+         mravného. Volal naò z vàšku tam doma:
+    </p>
+    <p>
+     — Si zlý, si ve¾mi zlý, Igor! Nehanbíš sa?
+    </p>
+    <p>
+     A on sa vtedy veru hanbil ove¾a menej ako dnes. Lebo dnes sa v òom stále mútia dojemné
+         spomienky a tie privolávajú naò hanbu. Vravel:
+    </p>
+    <p>
+     — Si hlúpy, Albín.
+    </p>
+    <p>
+     (Takto, h¾a, už v detstve prejavovali náh¾ady, ktorými sa od seba odlišovali.)
+    </p>
+    <p>
+     — Otec však hovoril, že skonèíš na šibenici, celkom iste, lebo máš zlodejské oèi.
+    </p>
+    <p>
+     No Igor sa tomu vysmial:
+    </p>
+    <p>
+     — Na šibenici, haha. Zlodejské oèi, haha! Ako ti to prišlo na um?
+    </p>
+    <p>
+     Utekal preè a len sa neustále smial. Smiech vial za ním ako pláš: haha, haha! Po chvíli
+         sa obzrel a videl, že Albín stojí vo vysokej tráve a že mu vietor previeva vlasy. Na
+         Albínovi bolo vidno akúsi vnútornú krásu, ktorú nik nevie vystihnú slovom; a ak by ste aj
+         tak chceli jeho tvár k nieèomu pripodobni, museli by ste poveda, že vyzerala tak, akoby
+         ju boli vyrezali z bieleho dreva, cez ktoré pretiekol prúd èistej vody. Bola to èistá tvár.
+    </p>
+    <p>
+     A tak teraz Igor cítil nad hlavou mohutnú klenbu modrej katedrály, z ktorej naò pomaly
+         klesajú ¾ahké krídla náhlej milosti a z dia¾ky ho sužuje volanie: si zlý, si ve¾mi zlý,
+         Igor!
+    </p>
+    <p>
+     Holuby zas lietali okolo veže. Uvedomil si, že odteraz sa musí zmeni nesmieme mnoho
+         vecí. Vravel si: „Bože môj, ako dávno som už nevidel domce na Vyhnanisku?“ Stúpal po
+         opadaných listoch a poèítal roky, ako šli za sebou: jeden, dva, tri… Pokrèil plecom, lebo
+         sa mu zdalo, že sa predsa len nepamätá dokonale na každú podrobnos.
+    </p>
+    <p>
+     Slnce sa tamhore v lesoch balilo do chvejúcej sa hmly, nebola to hmla, bol to koniec
+         dòa, a odchodilo, odchodilo. Mizlo pomalièky a táto pomalos bola bolestná pre Igora, ktorý
+         vtedy mal v sebe ¾útos za akýmsi dávnym màtvym. Slnce zapadlo, zložilo svetlá do
+         vyšúchaného sedla v pohorí a rozdúchalo okolo seba obláèiky, podobné papierom rôznych
+         farieb.
+    </p>
+    <p>
+     Dlho pozeral pred seba, pozeral do ve¾kej dia¾ky. Tam sú vrchy za sebou, ve¾ké i malé,
+         zelené i belasé i hnedoèervené. A celkom vzadu trèí spoza hrebeòa okrúhly vàštek, a keï naò
+         tak pozeráte a nežmurkáte, celkom isto sa vám zazdá, že to tam leží medveï, že spí a že sa
+         mu pri dychu dvíha brucho. To je Vyhnanisko.
+    </p>
+    <p>
+     Igor vedel:
+    </p>
+    <p>
+     — Vrátim sa ta. Hneï zajtra sa vrátim.
+    </p>
+    <p>
+     Túženie, ktoré ho zachvátilo, bolo nezmierite¾né.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Všetko to spoznával! Chcelo sa mu zrazu vykríknu: Náš plot! Náš plot! Bol èierny ako
+         rad nejakých vychudnutých mníchov. A potom zas: Naše stromy! Boli sklonené k zemi ako
+         stareny, ktoré sa zišli po mnohých rokoch a teraz si rozprávajú, èo od svojho posledného
+         stretnutia zažili. A nakoniec: Náš dom! Ó, bože, ozaj náš dom! Prichádzal nároèky od
+         záhrad, aby ho nik nemohol zbada, a keï vstúpil na dvor, zavalila ho taká opojná rados,
+         že by nebola bývala príliš ažká vec vydýchnu zhlboka a poveda: Teraz plaèem. Robil
+         pomalé kroky, lebo si chcel dopodrobna prezrie každú malièkos okolo seba. Vravel si:
+         „Aha, tamtú skalu poznám.“ Pot¾apkal ju, bol to starý drsný priate¾ jeho chlapèenských
+         rokov. Vždy sa na òu postavil, keï bol zvedavý, èi sa od doliny neblíži búrka. „H¾a, a
+         tamto je jarèek,“ povedal. „Jarèek, ktorým kedysi za jarných dážïov obyèajne èurèala žltá
+         voda.“ Pripomenul si naraz celkom zrete¾ne, ako si ešte za detstva v tejto vode máèaval
+         prsty a aký to bol preò príjemný pocit. Len si predstavte, dotýka sa tenulinkých prúdov,
+         ktoré sú hybké ako hodváb a ktoré spievajú smutné i veselé pesnièky. Akoby ho niekto
+         uspával. Jeho oèi plávajú preè, preè, ïaleko, poskakujú vo výmo¾och a svetielkujú a plaèú.
+         Takto plaèú: Igor, Igor, je to zvláštne, keï ¾udia žijú tu na zemi a keï sa trápia a keï sa
+         veselia.
+    </p>
+    <p>
+     Na dvore zostal zo starých èias sud, bol už celý popukaný, hnili v òom listy, vetvièky a
+         voda. Povedal mu: „Poznám a, lebo ty si ten sud, do ktorého moja nebohá ma každý rok
+         nakladala kapustu. Aké smutné, že a tu takto vidím!“ V tom bol veru naozaj ve¾ký zármutok
+         pre Igora, pretože badal, že niè nebolo ušetrené starobou, ktorá tak podivne zarážala
+         potuchlinou. A dvor bol skutoène celý pustý a plný biedy, sa by to ani nebol ten
+         starodávny krásny dvor Lambertovcov z Vyhnaniska. Zarástol hrubou trávou, kyvotala sa a
+         šumela, takže pripomínala strapce na pohrebných vozoch — a bolo to takmer také isté, ako
+         keï niekoho vezú na cintorín.
+    </p>
+    <p>
+     Tu sú sivasté steny, poprehýbané a plné tieòov. Igor pohladí tehlu. „Ty si to?“ vraví,
+         „starý náš dom, ty, no, h¾a, tu som zas. Pamätáš sa ešte na toho nanièhodníka Igora? Èo?
+         Pováž si, prišiel som, aby si nezostal celkom opustený na svete. Nadišla ma nesmierna
+         clivota, nuž tu som.“ Lež dom ho nevíta, nestíska mu ruku, neusmieva sa potešením, ale sa
+         krèí a mlèí v utiahnutí, pretože je už príliš ošarpaný, pretože sa z neho omietka lúpe
+         všade a pretože sa podobá èloveku, postihnutému prašinou. H¾aïte, takáto je skromnos
+         pokorených nešastím. Igorovi tlèie srdce a darmo sa namáha strias zo seba dojem, že
+         stretol akúsi osobu, ktorá sa naò smutne díva a ktorá v tomto smútku plaèe.
+    </p>
+    <p>
+     V oknách, plných zaprášenej hmly, ležali podochnuté muchy. Vravel si: „No, na moj veru,
+         ani muchy tu nevydržali ži?“ Fúkol na ne, prevracali sa, telá mali scvrknuté a nohy
+         poprepletané ako uzlíky nití.
+    </p>
+    <p>
+     Otvoril dvere. Neboli vôbec zamknuté. „Pí,“ zapišala myš a mihla sa cez miestnos,
+         ktorá sa vo svojej prázdnote zdala nezvyèajne ve¾ká. Na pavuèinách sa hojdali malé èervené
+         telá a prebleskovali, keï na ne padla slneèná žiara.
+    </p>
+    <p>
+     To bol, h¾a, Igorov domov. Èi mohol kedy oèakáva, že ho nájde raz takýto? Nie, nie, to
+         nemohol oèakáva, lebo si ho v predstavách vždy ma¾oval a krášlil, takže po to¾kých rokoch
+         už musel by skvelý ako krá¾ovský palác.
+    </p>
+    <p>
+     A predsa rodièia zanechali èosi Igorovi ako dedièstvo, ako dedièstvo svojej lásky. Bol
+         to starý farbotlaèový obraz v ažkom ráme s vyrezávanými ružami, ktorý až dodnes zostal
+         visie na holej stene. Igor sa mu veru ove¾a väèšmi potešil ako hocièomu inému. Lebo on vie
+         už odjakživa, že to nie je len obyèajný obraz. Nikdy naò nezabudol, ani vo svete, ani medzi
+         ¾uïmi, ani v žalári; hladina jazera, ktorá svieti ako èierne sklo, ho neopúšala, pretože
+         mu stelesnila v myšlienkach jeho detstvo: a to tiež muselo by slneèné a èierne zároveò.
+         Obraz, aby ste rozumeli, predstavuje jazero, okolo neho vysoké vrchy s bielymi konèiarmi a
+         na jazere èln, plný ¾udí, ktorí sa ozdobili vencami kvietia. Vždy sa pýtal otca: „A kam
+         veslujú s èlnom?“ Otec vravel: „Na druhý breh.“ „Ó, až na druhý breh? Až celkom na druhý
+         breh?“ „Áno. A tam vystroja ve¾kú svadbu; na svadbe budú hra, jes a smia sa. Vieš,
+         Igor?“ No tak veru, a Igorovi sa táto rozprávka nesmierne páèila, hoci v nej nebolo poèu
+         ani o èernokòažníkovi, ani o šarkanoch. Páèila sa mu vari len preto, že bola taká krásna a
+         že mohol všetko vidie jasne pred sebou.
+    </p>
+    <p>
+     Vtedy sa práve Igor obzrel. Niekto mu položil ruku na plece. Podívajme sa! Koho nevidel!
+         Bol to starý èlovek… ach, panebože, a tento starý èlovek bol sám Igorov otec. Dali sa do
+         reèi. „Ako to, že ste zomreli tak neoèakávane?“ spýtal sa. „Zomrel som, lebo ma utrápilo
+         nešastie. Dobre vieš, aké nešastie tým myslím.“ „Áno, áno.“ Pohybuje fúzmi, tak smiešne
+         nimi pohybuje! Sadne si na dlážku, kladie triesku vedia triesky (po zemi boli totiž
+         rozhádzané kúsky dreva). A takto vraví: „Kde si bol tak dlho, syn môj?“ Èaká nieko¾ko minút
+         a pohráva sa ïalej. Igor sa veru bál odveti, vedel, že ho otec bude karha, ak sa dozvie
+         pravdu. Dal sa do plaèu, vravel medzi hlbokými vzdychmi: „Nie, nie!“ Nazdával sa dokonca,
+         že otec vezme palicu a bude ho bi. Ale otec zanechal triesky a ani mu na um neprišla
+         bitka; vytiahol si fajku a zaèal fajèi. Igor cítil vôòu dymu.
+    </p>
+    <p>
+     Cez starcovu podobu plynuli modré škvrny… Tieto škvrny sa nazývajú minulosou;
+         minulosou, ktorá nám všetko berie.
+    </p>
+    <p>
+     Bol zasa sám. Otca nikde.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Veèer vyšiel krásny mesiac. Bol ohromný na suchom nebi a podobal sa vejáru s gombièkou
+         zo slonovej kosti, rozširoval sa a tak stále rástol.
+    </p>
+    <p>
+     Júlia práve prešla popred lambertovský dom. Išla vo tme, nuž nie div, že stúpila na
+         halúzku, ktorá ležala na ceste. Halúzka sa prelomila a zaprašala. Júlia povedala:
+    </p>
+    <p>
+     — ¼a¾a, stúpila som na halúzku.
+    </p>
+    <p>
+     Hneï sa však poobzerala, lebo jej neobyèajne èudne predchodilo poèu v tíši svoj vlastný
+         hlas. Skoro uverila, že ju niekto naèúval. Kto by to mohol by?
+    </p>
+    <p>
+     A povedala:
+    </p>
+    <p>
+     — Niekto je nablízku.
+    </p>
+    <p>
+     Cítila to, hoci sa to nedalo vysvetli nijakým spôsobom. Tu jej prišla na um tá pochabá
+         vec. Èo keby nazrela do vytlèeného okna na opustenom dome? Júlia sa nikdy nejako
+         nevylieèite¾ne nebála, bývala dos smelá a èasto ju preto rodièia pripodobòovali ku
+         chlapcom. I vravela:
+    </p>
+    <p>
+     — Ba veru nazriem doò a dúfam pevne, že sa mi ukáže diabol vo svojej pravej podobe.
+    </p>
+    <p>
+     Uhádnete vari, že to bol iba žart. Veï si hútala: A ktože iný by mohol by obyvate¾om
+         tohto domu? Len sám diabol ním je. Veru, diabol sa v òom usalašil a teraz si okukáva svet
+         cez okno, ktoré je prázdne ako slepé oko. A tak ïalej. Usmievala sa na takýchto
+         bláznovstvách.
+    </p>
+    <p>
+     Skoèila. Krok. Ešte jeden krok, a v tom pozrela dnu. Mesiac sa díval na òu od chrbta a
+         hoèkal sa na svojej ohromnej hojdaèke. Vykríkla:
+    </p>
+    <p>
+     — Jaj!
+    </p>
+    <p>
+     Vzduch pred òou voòal akosi mand¾ami. Èerstvými mladými mand¾ami s trochou horkosti a
+         trochou sladkosti. Vykríkla:
+    </p>
+    <p>
+     — Och!
+    </p>
+    <p>
+     Júlia ho videla. Ležal na slame a nohy mal prikryté kabátom. V ústach sa mu ligotali
+         okraje zubov. Sú to jeho ústa, bože, a tieò mreže mu pretína oèi a bradu. Nemožno tomu
+         veri, nemožno! Èi to nie je màtvola, Júlia? Povedz, màtvola, ktorej ktosi rozštiepil
+         sekerou hlavu napoly! Áno, sekerou. Ba nie, pretože zrete¾ne poèu, ako dýcha. Ach, ach,
+         Igor. Júlia si nevie da napochytre myšlienky do náležitého poriadku, keby si len tušil,
+         Igor!
+    </p>
+    <p>
+     Skutoène má zvláštnu tvár. Takto si ju na prvý poh¾ad nazvala: tvár pova¾aèa, tvár
+         zlodeja a tvár šaša. Zaiste ju má ešte rád, to si myslela; a hoci už jeho lásky vôbec
+         nepotrebovala, predsa len bola toho náh¾adu, že je to pekné, ak nás niekto ¾úbi.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     „Huhú, Júlia, huhú,“ volal na òu kedysi dávno chlapec Igor a hádzal kamene za
+         veverièkami. Ona vravela: „Nehádž, Igor.“ Pýtal sa: „Naozaj?“ „Naozaj.“ Potom nehádzal a
+         volal: „Júlia, máš pekné oèi, pekné, nebudem hádza.“ A skoèil zo skaly do priepasti, nato
+         sa z nej vynoril a smial sa. „Haha, haha, vidíš, tu som a nezabil som sa.“ Ona povedala:
+         „Daj si pozor, Igor, na skalách sú vretenice.“ On: „Nebojím sa, nebojím, zabijem vretenicu
+         a donesiem ti ju. Hej? Donesiem ti ju.“ Bála sa: „Ó, nie, radšej nie.“ Oblapil ju a vravel:
+         „Tak teda nie. Dobre. Ale donesiem ti kvet. Áno? Chcela by si kvet?“ Bránila sa mu a
+         vypytovala sa zvedavo: „Aký kvet, povedz mi, aký?“ „Ve¾ký, belasý a žltý a èervený, vieš?
+         Krásny zvonec a bude robi bilin, bilin, haha, haha! Poèkaj.“ Odbehol a priniesol kvet, bol
+         práve taký, ako s¾úbil. Podal jej ho a ona si ho pyšne niesla domov. Neustále sa jej kýval
+         v ruke a zvonil: bilin, bilin.
+    </p>
+    <p>
+     Teraz sa odrazu Igor zaèal hýba. Igor, Igor, šeptala a srdce sa v nej trepotalo. Najprv
+         zívol a bolo to také zívnutie, èo dokazovalo, že Igor ešte celkom nebol usnul. Azda
+         spomienky ho prebudili, ktovie, azda zvonèek, ktorý robil bilin, bilin. Júlia sa nijako
+         nevedela pohnú z miesta, na ktorom stála. „Pane na nebi,“ stàpla, „teraz ma zbadá a nieèo
+         povie. Ach, len to nie, je to hrozné, keby si si chcel zatvori oèi, Igor, a nevidie ma a
+         vo chví¾oèke zaspa. Urob to, Igor, urob, prosím a!“
+    </p>
+    <p>
+     On ju však predsa zbadal. Naahoval nohy. Díval sa. Díval sa, a nie div teda, že zazrel
+         jej horiace oèi. Urobil rýchly pohyb:
+    </p>
+    <p>
+     — Júlia!
+    </p>
+    <p>
+     A ona si pretiera oèi, ani èo by ju nieèo štíplo.
+    </p>
+    <p>
+     — Dievèatko, èi ma už vari nepoznáš?
+    </p>
+    <p>
+     Júlia si vraví: „Ujdem, celkom iste ujdem, nech si krièí za mnou. A hlas sa mu vôbec
+         nezmenil, má ho celkom taký ako pred dlhými rokmi. Smiešne, ako pred dlhými rokmi. Nuž aha,
+         on sa mi smeje, Igor sa mi smeje!“
+    </p>
+    <p>
+     — No, èože je, Júlia?
+    </p>
+    <p>
+     — Ach, niè, — vravela a obrátila sa.
+    </p>
+    <p>
+     — Bojíš sa ma azda?
+    </p>
+    <p>
+     Veru, keby to len tušil, ako sa ho nesmierne bojí! Ale s tým sa nemožno prizna, musí mu
+         poveda, že sa ho ani troška nebojí, že má v sebe dos odvahy. A takto vravela potom bez
+         rozmýš¾ania a zmäteno, pritom cítila, ako sa jej pošklbávajú nervy okolo oèú:
+    </p>
+    <p>
+     — Nie, Igor, nie.
+    </p>
+    <p>
+     Ako sa však hanbila! V hrdle mala ohromnú úzkos a on to celkom iste pobadal. Veï
+         preèože by sa jej potom tak nedôverèivo pýtal:
+    </p>
+    <p>
+     — Ani trochu?
+    </p>
+    <p>
+     — Jaj, Igor, ako zvláštne sa na mòa dívaš!
+    </p>
+    <p>
+     Vyskoèil a roztiahol smiešne svoju mastnú tvár.
+    </p>
+    <p>
+     — Hihi, ako vieš skáka!
+    </p>
+    <p>
+     Júlia sa celá zaèala trias od smiechu. Ale srdce jej predsa ešte vždy zúfalo bilo ako
+         predtým.
+    </p>
+    <p>
+     Tancoval po izbe, rozhádzal všetku slamu a tlieskal si po stehnách.
+    </p>
+    <p>
+     — Igor, Igor, — volala v návale oslobodzujúceho smiechu.
+    </p>
+    <p>
+     Potom zapískal ako vták a zakvákal ako žaba.
+    </p>
+    <p>
+     — Hihi, ešte si to nezabudol?
+    </p>
+    <p>
+     Nakoniec sa postavil na ruky, prevrátil sa a spadol na chrbát.
+    </p>
+    <p>
+     — Vidíš, — krièal a odhàòal si z oèú steblá slamy, — ešte som vždy taký blázon!
+    </p>
+    <p>
+     Pristúpil k oknu. Videla tvrdé plecia, ako sa mu chveli. Porozumela, že sa v nich skrýva
+         moc starých otrokov. Urobila krok dozadu, krok plný úzkosti, ktorá ešte nemala dos èasu,
+         aby celkom z nej vymizla. Vraví bojazlivo:
+    </p>
+    <p>
+     — Celý si sa zadychèal.
+    </p>
+    <p>
+     — Ó, nie, len trochu.
+    </p>
+    <p>
+     Bol blízko nej.
+    </p>
+    <p>
+     — Júlia, — povedal, — nedôveruješ mi?
+    </p>
+    <p>
+     A až teraz koneène videla, že už niet nijakej príèiny na obavy. Videla to v jeho hnedých
+         oèiach, kde horeli malé a ve¾mi jasné obrázky jej vlastného oblièaja.
+    </p>
+    <p>
+     — Keïže je tak, Igor, rozumej… nebolo to ¾ahké zbavi sa náhleho pre¾aknutia, keïže je
+         to tak, že si sa vrátil sem k nám, vraciam ti ja svoje staré priate¾stvo.
+    </p>
+    <p>
+     Zázraèná vec, myslel si Igor, niè som jej neprezradil, a ona všetko správne uhádla!
+         Musel sa opýta:
+    </p>
+    <p>
+     — Akým spôsobom si mohla prís na moje najtajnejšie myšlienky? Mlèal som, a ty vieš
+         všetko.
+    </p>
+    <p>
+     — Je teda dobre, že som nehádala zle.
+    </p>
+    <p>
+     Podali si ruky, bolo to potrebné, ak chceli, aby všetka cudzota medzi nimi zmizla. On
+         vravel:
+    </p>
+    <p>
+     — Mám dojem, že sa teraz vo mne krv neprestajne varí. Viem preèo. Preto, že som zas tu
+         na Vyhnanisku, a to ti vravím, Vyhnanisko je najmilší kút zeme, aký kde nájdeš.
+    </p>
+    <p>
+     — Áno, v tom máš pravdu. Aj ja to hovorievam, a keby som chcela vyjadri všetku lásku,
+         ktorú cítim v sebe pri poh¾ade na túto rozrytú a zhúžvanú zem, nemala by som dos slov.
+    </p>
+    <p>
+     Tu sa Júlia zrazu prerušila a zamyslela sa. Spýtal sa:
+    </p>
+    <p>
+     — No, èo je?
+    </p>
+    <p>
+     — Teraz, keï je všetko v poriadku a keï vidím, že si sa ešte celkom neodcudzil týmto
+         vrchom, naraz som si položila otázku, ktorá sa týka tvojej budúcnosti.
+    </p>
+    <p>
+     — Mojej budúcnosti?
+    </p>
+    <p>
+     — Áno, vari si len nezabudol, že máš pred sebou aj akúsi budúcnos? Rada by som totiž
+         vedie, z èoho budeš ži. Prišiel si do prázdneho domu, rodièia ti toho mnoho nezanechali,
+         lebo sami zomreli v biede, a ty nemáš nijaké zamestnanie. Tak som si teda pomyslela, že máš
+         akiste mnoho starostí.
+    </p>
+    <p>
+     Ale Igor sa tváril, akoby tieto veci boli preò celkom nové.
+    </p>
+    <p>
+     — Poèuj, — vravela, — nikdy a nemátožili myšlienky podobné týmto, o ktorých hovorím?
+    </p>
+    <p>
+     — Veru nie, — vravel, — vec sa má totiž tak, že som sa nikdy nebál toho, èo budem robi.
+         A tak nijaká zvláštnos, že som celkom zabudol uvažova o svojom budúcom žití. Vždy som sa
+         nazdával, že mi tma postaèí. A keï som zazrel skvelé svetlá modrej katedrály, dostal som
+         akési neurèité tušenie, že sa to asi zmení. A h¾a, teraz si ma na to priviedla.
+    </p>
+    <p>
+     Pýtala sa:
+    </p>
+    <p>
+     — O akých svetlách to rozprávaš? O akej katedrále?
+    </p>
+    <p>
+     Povedal:
+    </p>
+    <p>
+     — Chceš poèu môj sen o modrej katedrále?
+    </p>
+    <p>
+     — Áno, chcem.
+    </p>
+    <p>
+     Vyrozprával jej ho, a keï skonèil, bola celkom presvedèená, že Igor je už doista na
+         dobrej ceste. S u¾ahèením mu povedala:
+    </p>
+    <p>
+     — Ah, tak.
+    </p>
+    <p>
+     — Budem si h¾ada nejakú prácu.
+    </p>
+    <p>
+     — Áno, áno, len si h¾adaj a potom poctive pracuj, aby si si získal spä úctu všetkých
+         ¾udí.
+    </p>
+    <p>
+     Bolo chví¾u ticho. Ozvali sa odrazu husle, bolo to iste v druhom dome. Zavržïali a
+         chveli sa, akoby niekto vravel nariekavým hlasom: Bolí ma hlava, bolí ma hlava, ah, ako ma
+         bolí. Znelo to, akoby niekto zomieral a plakal.
+    </p>
+    <p>
+     Igor sa spytuje:
+    </p>
+    <p>
+     — Kto to hrá?
+    </p>
+    <p>
+     Už ve¾mi dávno nepoèul nieèo takého zvláštneho.
+    </p>
+    <p>
+     — Albínov otec, starý Gút, — reèie ona, — od istého èasu nám vyhráva každý veèer. Tvrdí,
+         že má z toho potešenie. A život starého èloveka je veru smutný. Azda práve preto hrá, aby
+         si ho trochu okrášlil, ja neviem.
+    </p>
+    <p>
+     Igor si v tejto chvíli pomyslel, že by mal ís za starcom a porozpráva sa s ním. Opýtal
+         sa Júlie:
+    </p>
+    <p>
+     — Ako ide Gútovcom hospodárenie?
+    </p>
+    <p>
+     — Dobre. Preèo sa spytuješ?
+    </p>
+    <p>
+     — Poprosím Gúta, èi by ma nevzal do roboty.
+    </p>
+    <p>
+     Júlia to schva¾ovala:
+    </p>
+    <p>
+     — Môžeš to skúsi; nebolo by ti tam zle. Bola by som rada, keby sa ti podarilo.
+    </p>
+    <p>
+     Naèúvali nieko¾ko minút hlas husie¾.
+    </p>
+    <p>
+     — A Albín? — vyzvedal sa Igor. — Èo je s ním?
+    </p>
+    <p>
+     Pri tomto rozhovore sa Júlia ešte nikdy tak nezarazila ako práve teraz, keï Igor
+         spomenul Albínovo meno. Bolo to prinajmenej zvláštne.
+    </p>
+    <p>
+     — Albín? — odvetila akosi neisto, — Albín už temer sám vedie hospodárstvo a ve¾mi dobre
+         sa v tom vyzná. No, ide mu to, ide.
+    </p>
+    <p>
+     Nechápal jej neistotu, nuž opýtal sa:
+    </p>
+    <p>
+     — Hneváš sa naò azda?
+    </p>
+    <p>
+     Zbledla. Ale vtom sa rýchlo spamätala a rozosmiala sa. Ve¾mi sa rozosmiala. Ale Igor by
+         bol prisahal, že jej smiech nebol úprimný, že ho len predstierala.
+    </p>
+    <p>
+     — Igor, Igor, ako sa mýliš! Veï ty vari ani nevieš, že som jeho verenica! Ako by som sa
+         mohla naòho hneva? Ah, viem, je to moja chyba, pretože som ti to zabudla poveda. Veru
+         tak, som Albínova verenica!
+    </p>
+    <p>
+     Igor bol až príliš prekvapený, ale nedal to na sebe vidie. Trošièku sa usmieval, takže
+         sa celkom zdalo, že novinu prijal s radosou. Opakoval za òou:
+    </p>
+    <p>
+     — Albínova verenica, tak, tak. Ja si Albína ve¾mi ctím, viem, akú má cenu. Dobre sa viem
+         rozpamäta, aký bol dobrý mládenec a ako ho mali všetci radi. Neviem veru, èi niekedy sa
+         dopustil nieèoho zlého, bol ako svätý. Pravda, predtým mi bol smiešny práve z tejto
+         príèiny, lebo som sa nazdával, že život môže by príjemný len vtedy, ak sa dopúšame
+         previnení proti úradom. A dnes už vidím pravý opak. Pozdrav ho, ak sa s ním stretneš prv
+         ako ja, pozdrav Albína.
+    </p>
+    <p>
+     Júlia bola ve¾mi nepokojná, na tvári mala ve¾kú stiesnenos. Prikyvovala hlavou, áno,
+         áno, dobre. Tu naraz reèie:
+    </p>
+    <p>
+     — Je už celkom chladno, Igor.
+    </p>
+    <p>
+     Mal hlavu v okne a vravel:
+    </p>
+    <p>
+     — Áno, je dos chladno. Bude jasná noc, mesaèná.
+    </p>
+    <p>
+     — Dobrú noc.
+    </p>
+    <p>
+     — Už ideš, Júlia? Dobrú noc teda.
+    </p>
+    <p>
+     Bola na nieko¾ko krokov. Obrátila sa:
+    </p>
+    <p>
+     — Chcel si mi ešte nieèo poveda?
+    </p>
+    <p>
+     Prekvapilo ho to. Videl, že bola taká rozrušená, že asi vôbec nezbadala jeho mlèanie.
+    </p>
+    <p>
+     — Nie, Júlia, — odpovedal, — nechcel som ti už niè poveda.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Nieèo sa hýbalo v dome, ako keï chrobák máta okolo seba tykadlami. Bolo ráno. Lúèe
+         prichádzali zo strany, poskakovali a chveli sa, nehriali ešte a Igor si neustále mädlil
+         ruky. Prezeral si poloprázdne izby. Chodil sem-ta, jeho kroky búchali a odrážali sa od
+         stien. Potom si prezeral i kuchyòu, kde bolo plno kníh. Niekto ich tam nahádzal len tak
+         ledabolo do kúta a zabudol na ne. „No, h¾a,“ vravel si, „tu je vo¾aèo.“ Tešil sa. „No, h¾a,
+         no, h¾a,“ opakoval si popod nos. Knihy v òom prebudili mnoho dávnych spomienok. Svoj minulý
+         život pocítil celkom pri sebe, dýchal naò troška starobou a oblizoval ho.
+    </p>
+    <p>
+     Dotkol sa hàby papiera koncom topánky, knihy sa hneï zrútili ako chodba zo slneènicových
+         vòatí a pootvárali sa. Sadol si na výklenok pece. Prehàòal sa v knihách, ktoré si pokládol
+         do lona, papier šušal, boli to ve¾mi ažké knihy, také ažké, že sa podobali vlhkým
+         polenám. Listy mali pozliepané a zvlnené a na okrajoch bolo plno žltých škvàn, iste od
+         dažïovej vody, ktorá sem natiekla cez vytlèené okná, ak vonku pršalo.
+    </p>
+    <p>
+     Na samom spodku ležali pokrkvané písanky, tie, do ktorých si zapisoval úlohy, keï ešte
+         chodieval do školy. Každá mala na obálke jeho meno a triedu. Bral ich do prstov, stieral z
+         nich rukávom prach a díval sa na ne ako na màtve zvieratá.
+    </p>
+    <p>
+     Otoèí hlavu trocha nabok a v nose cíti štip¾avý zápach. Vie, èo je to. Je to zápach
+         dávno uplynulých èias a dávno prežitých príhod. Tralala, spieva si a deò okolo neho èím
+         ïalej, tým viacej nadobúda farbu zadymenej slonoviny.
+    </p>
+    <p>
+     Tralala — ozývalo sa to celým domom.
+    </p>
+    <p>
+     V tej chvíli kráèal popred otvorené dvere starý Gút. Hlavu mal už celkom bielu, takú ako
+         kus plátna.
+    </p>
+    <p>
+     — Pozrite, — zavolal naò a kýval listom papiera, — aha, ako som èarbal, keï som bol ešte
+         celkom malý! Pozrite! Hahaha!
+    </p>
+    <p>
+     Prišiel, kolembal rukami, v prstoch mu pukali kosti.
+    </p>
+    <p>
+     — No, èo je, Igor, èo je?
+    </p>
+    <p>
+     Privítal ho takto.
+    </p>
+    <p>
+     — Vravím, že to bolo smiešne. Predstavte si, ujec Gút, sedím tu a zdá sa mi, že som sa
+         odrazu vrátil hlboko dozadu. Že mám desa rokov. Alebo pä, èo ja viem.
+    </p>
+    <p>
+     — Ó, áno, — vravel starec, — to nás vždy oèisuje, keï sa v spomienkach vraciame do èias
+         svojej mladosti.
+    </p>
+    <p>
+     Igor si naslinil palec a listoval. Prudko odhadzoval kusy šušavého papiera a jeho úsmev
+         sa bez prestania rozširoval. Pritom vravel:
+    </p>
+    <p>
+     — ¼a¾a, ¾a¾a, aké je to pekné. Dívajme sa.
+    </p>
+    <p>
+     Ich hlavy sa priblížili. Jedna bola biela, druhá tmavá. A práve vtedy, keï si boli tak
+         blízko, zaèal Igor s vecou, na ktorú ani cez noc nezabudol, a zaèal tak, akoby mu slová len
+         akosi náhodou prichodili na jazyk.
+    </p>
+    <p>
+     — Ozaj… teraz si to pripomínam. H¾adám prácu. Nevedeli by ste o nejakej?
+    </p>
+    <p>
+     — Nie, neviem.
+    </p>
+    <p>
+     Potom Igor listoval ïalej, lebo si musel znova vydýchnu a nabra novej odvahy. No aj
+         tak sa neodvážil pozrie starému do oèú. Len listoval. Vyletelo to z neho potom naraz:
+    </p>
+    <p>
+     — A u vás v hospodárstve? Tiež nie?
+    </p>
+    <p>
+     Zažmurkal rýchlo:
+    </p>
+    <p>
+     — Nerozumiem; èo to vravíš?
+    </p>
+    <p>
+     — Èi by som nemohol prácu dosta u vás, tak som to myslel.
+    </p>
+    <p>
+     — Ah, u nás? U nás?
+    </p>
+    <p>
+     Uvažoval nieko¾ko sekúnd a Igor sa ani nepohol. Bol ako z kameòa.
+    </p>
+    <p>
+     — No, — vravel starec.
+    </p>
+    <p>
+     — Bolo by to možné? Ve¾mi sa poteším, ak sa to vydarí. A pritom viem, že budete so mnou
+         spokojní.
+    </p>
+    <p>
+     — No áno. To by vari aj bolo možné. Porozprávam sa s Albínom. Dobre? Porozprávam sa.
+    </p>
+    <p>
+     Igor bol nadmieru spokojný s týmto výsledkom. Vedel, že dobrý Albín bude s ním cíti, a
+         už si aj predstavil, ako povie: „Dobre, otec, prijmeme ho. Je to tiež èlovek a musí ži ako
+         každý iný. Hneï ho môžeme prija.“
+    </p>
+    <p>
+     Lenže vec sa skonèila celkom inak, keï na òu prišiel rad. Boli traja pospolu: starý Gút,
+         Albín a Júlia.
+    </p>
+    <p>
+     Starý zaèal, obrátiac sa k synovi:
+    </p>
+    <p>
+     — Azda ti už vraveli, že Igor Lambert sa vrátil.
+    </p>
+    <p>
+     — Áno.
+    </p>
+    <p>
+     — Zavolal na mòa, keï som išiel dnes ráno ved¾a jeho dverí. Požiadal ma o nieèo, ale ja
+         som mu dal na vedomie, že sa nerozhodnem prv, kým sa s tebou neporadím.
+    </p>
+    <p>
+     — Èo to bolo?
+    </p>
+    <p>
+     — Chcel by u nás pracova. — Nastalo mlèanie. Potom povedal: — Hádam by sme ho mohli
+         prija na gazdovstvo do služby. Videlo sa mi, že sa zmenil a že by sme to mohli urobi. Aký
+         je tvoj úsudok, Albín?
+    </p>
+    <p>
+     Júlia, ktorá tieto slová naèúvala ve¾mi pozorne, povedala:
+    </p>
+    <p>
+     — Áno, prijmite ho.
+    </p>
+    <p>
+     Albín sa k nej obrátil:
+    </p>
+    <p>
+     — Myslíš, Júlia, že by sme mali z toho úžitok?
+    </p>
+    <p>
+     — Hej, myslím si to, lebo Igor má svalnaté a ve¾ké ruky, ktoré by mohli vykona ve¾ký
+         kus práce.
+    </p>
+    <p>
+     — Ako to všetko vieš?
+    </p>
+    <p>
+     — Videla som ho, vèera veèer.
+    </p>
+    <p>
+     — Ah! Videla!
+    </p>
+    <p>
+     Dos dlho myslel na èosi. Nakoniec povedal:
+    </p>
+    <p>
+     — Rád pomôžem Igorovi. Bojím sa však, že by toho nebol hodný.
+    </p>
+    <p>
+     Júlia zvolala:
+    </p>
+    <p>
+     — Ó, keby si vedel, aký je dobrý! Mýliš sa, Igor je toho hodný celkom iste!
+    </p>
+    <p>
+     Ale tento tón bol príliš neobyèajný a Albín si ho hneï všimol. Vravel:
+    </p>
+    <p>
+     — Zdá sa, že až prive¾mi sa zastávaš Igora. Otec, nemyslíte, že je to prinajmenej èudné?
+    </p>
+    <p>
+     — Ale, Albín, — bránila sa ona, — èože sa ti robí? — Ve¾mi oèervenela, ale bolo už
+         neskoro skrýva túto neopatrnos. Obidvaja ju videli, starý na šastie mlèal, lebo nestihol
+         sledova zmysel každého posunku a každého slova až na ich podstatu, ako to vedel robi
+         Albín.
+    </p>
+    <p>
+     Tu Albín koneène povedal:
+    </p>
+    <p>
+     — Nie, tohoto èloveka nevpustíme do nášho domu.
+    </p>
+    <p>
+     Júlia sa nezdržala:
+    </p>
+    <p>
+     — Aký si zlý, Albín!
+    </p>
+    <p>
+     Uprel na òu oèi:
+    </p>
+    <p>
+     — Zabúdaš vari, že je to pova¾aè a zlodej.
+    </p>
+    <p>
+     Starec toto nepoèul, mal mnoho svojich myšlienok, ktorými sa zaoberal. Kým Júlia mlèala,
+         pretože cítila akúsi nejasnú vinu pred Albínom, starec hovoril:
+    </p>
+    <p>
+     — Je tak pekne vonku, deti. V noci svietil mesiac, dlho som ho pozoroval cez okno,
+         vyzeral, akoby rozahoval ústa a akoby si jazykom vyšparoval zuby. Veru! A potom vyzeral
+         zas tak, akoby chcel spieva s mojimi hus¾ami. Naozaj, spieva!
+    </p>
+    <p>
+     Tak hovoril, poobzeral sa a medzitým už celkom zabudol, o èom sa ešte pred chví¾oèkou
+         rozprávali. Bola až dojemná táto starecká zábudlivos.
+    </p>
+    <p>
+     — Idem, deti, zas idem, — šomral a vyšúchal sa von. Chrbát mal okrúhly ako batôžtek
+         sena.
+    </p>
+    <p>
+     Takto osameli. Trvalo chví¾u, kým sa Júlia odhodlala naèa prerušený rozhovor.
+    </p>
+    <p>
+     — Krivdíš Igorovi, lebo jeho oèi sa vždy usmievajú, a preto to nemôžu by oèi zlého
+         èloveka.
+    </p>
+    <p>
+     — Nie, nie, — vzpieral sa, — never mu, lebo klame. Smeje sa a nebodaj myslí na nieèo
+         mrzkého. Lebo Igor je had, ja to viem, had, Júlia. Vystríhaj sa ho, to ti vravím, a to, èo
+         ty považuješ za úsmev, nie je niè iného, len jed, taký potmehúdsky jed, ktorý všetko
+         prináša navnivoè.
+    </p>
+    <p>
+     A tu ona vraví, zbavená celkom vèerajšieho strachu:
+    </p>
+    <p>
+     — Igor nie je had. Myslím veru, že nie.
+    </p>
+    <p>
+     Prekvapený sa spytuje:
+    </p>
+    <p>
+     — Èo to hovoríš? Že nie?
+    </p>
+    <p>
+     Zas vraví: — Nie.
+    </p>
+    <p>
+     — Blázonko, nuž h¾a, preèo ho potom zavreli? Azda nevinne? Azda nevinne trpel? Ah,
+         Júlia, Júlia!
+    </p>
+    <p>
+     Tak pokraèoval, povyratúval všetky zlé Igorove èiny a vyzeralo to tak, saby sa jej
+         posmieval. Ona však krútila hlavou:
+    </p>
+    <p>
+     — Nevravím, že Igor nevinne trpel. Ale odpykal si svoj trest. A práve preto, že si ho
+         odpykal, nevidím na òom niè zlého. Ba naopak, vidím ho oèisteného od hriechov.
+    </p>
+    <p>
+     — Mýliš sa, Júlia: trest z nás ešte nerobí poctivcov, pretože trest je ako tma a v tme
+         sme všetci bez rozdielu slepí. Ale na slnci môžeme poveda: Toto je slepec. Tamten vidí.
+         Rozumieš mi? Je to už tak zariadené, že len sloboda ukáže cenu èloveka, kým žalár nám
+         odhalí iba jeho skazenos. Lebo len na slobode sú dve cesty: vpravo a v¾avo. A preto
+         nemožno vedie niè istého o Igorovi.
+    </p>
+    <p>
+     Ešte vždy sa nedala presvedèi:
+    </p>
+    <p>
+     — Videla som ho vèera, opakujem, a bol lepší, ako sa nazdávaš. Vystrájal smiechy, a to
+         len mne pre potešenie. Vyskakoval, bože, ako vyskakoval, mal ve¾kú rados, že je opä medzi
+         nami v horách! Bolo to také pekné a dojímavé, že som si istá, že sa rozhodol pre správnu
+         cestu.
+    </p>
+    <p>
+     Chcel to koneène necha tak, bol mu už nepríjemný tento rozhovor. Vravel nakrátko:
+    </p>
+    <p>
+     — Nestaraj sa oò viacej, Júlia. Ja hovorím: je to zlodej a pova¾aè, niè iného.
+    </p>
+    <p>
+     Ale ona tiež stratila všetku trpezlivos:
+    </p>
+    <p>
+     — Èo je s tebou, Albín?
+    </p>
+    <p>
+     A tu on na òu pozrel mlèky. Potom dupol zlostne nohou. Ešte sa nikdy nestalo, že by ho
+         videla takého. Býval vždy taký mierny a taký láskavý! Júlia hneï zbledla. Dupol ešte raz,
+         chcel ju tým vari prestraši.
+    </p>
+    <p>
+     — Mlè, prosím a, mlè! — zvolal, akoby už vopred poèul slovo odporu v jej otvorených
+         ústach. Odchádzal.
+    </p>
+    <p>
+     Ale vo dverách sa naraz obrátil. Zaprosil:
+    </p>
+    <p>
+     — Nehnevaj sa, Júlia.
+    </p>
+    <p>
+     A keï si ona zmäteno žmolila prsty a nevedela, èo poveda, vravel:
+    </p>
+    <p>
+     — Ty ma už ne¾úbiš?
+    </p>
+    <p>
+     Zarazila sa na chví¾oèku. Skoèil k nej a bozkával ju na vlasy, na ruky, na líca, na ústa
+         a na oèi.
+    </p>
+    <p>
+     — Albín, Albín, — stenala, akoby sa nieèoho bála. A bála sa pocitu, ktorý sa jej práve
+         zmocnil. Cítila, že nieèo uniká z jej srdca. Pýtal sa ešte raz:
+    </p>
+    <p>
+     — Júlia, ešte sa hneváš? A èi ma azda naozaj ne¾úbiš?
+    </p>
+    <p>
+     Ve¾mi sa premáhala. Smiala sa cez slzy.
+    </p>
+    <p>
+     — Och, Albín, ¾úbim a, ¾úbim.
+    </p>
+    <p>
+     A ako to vravela, vracala mu jeho bozky. Celý sa chvel, taký bol šastný. Vravela si:
+         „Má také dobré srdce, že si vskutku zaslúži mojej lásky. Musím ho milova, musím!“ A to
+         boli veru zvláštne myšlienky.
+    </p>
+    <p>
+     Slnce nad Vyhnaniskom sa rozlialo v èervených èiarach a rozsýpalo po vrchoch, po
+         stromoch, po skalách a po lúkach tisíce teplých, polámaných lúèov.
+    </p>
+    <p>
+     — Mám ešte prácu v záhrade, — hovorí Júlia.
+    </p>
+    <p>
+     — V záhrade? Len choï teda. Nezdržujem a už.
+    </p>
+    <p>
+     Bola od neho na nieko¾ko krokov. Mala tmavú sukòu s bielymi bodkami, ktoré padali
+         Albínovi do oèú ako malé kvietky.
+    </p>
+    <p>
+     — Veèer prídem, — povedal.
+    </p>
+    <p>
+     — Áno, — odvetila a v duši mala takú ¾ahostajnos, takú strašnú ¾ahostajnos ako ešte
+         nikdy.
+    </p>
+    <p>
+     Pri dverách jej prišlo èosi na rozum. Prebehla na druhú stranu k lambertovskému domu.
+         Chvela sa odvahou.
+    </p>
+    <p>
+     Vošla do dvorca. H¾adala a obzerala sa na všetky strany, akoby tu bola zablúdila a teraz
+         nevedela, kde je. Vtom ho zbadala: oh, tu je! Sedel na prahu a vyhadzoval do vzduchu
+         kamenèeky, ktoré potom striedavo kládol na zem.
+    </p>
+    <p>
+     — Igor! — povedala mu celkom ticho, lebo sa nesmierne bála, že by ju mohol niekto poèu.
+         Jemu bolo podivné, že je taká nesvoja. Spýtal sa starostlivo:
+    </p>
+    <p>
+     — Stalo sa nieèo, Júlia?
+    </p>
+    <p>
+     — Nie, niè. Chcem ti len èosi poveda… totiž… — tu sa zastavila, akoby nevedela ïalej, a
+         pohrávala sa so šatôèkou, — totiž… rozprávali sme sa o tebe, keï starý Gút spomenul tvoju
+         prosbu, a tu som hneï videla, že Albín nezmýš¾a priam priaznivo o tvojom návrate. Nuž bolo
+         mi to takmer neuverite¾né, že vravel o tebe samé zlé veci, taká láskavá duša ako Albín!
+         Nechce a do domu, hoci starý by bol na to aj pristal. A aj to bude márne, keï som a v
+         rozhovore trocha zastala.
+    </p>
+    <p>
+     — Júlia…
+    </p>
+    <p>
+     — No, nemysli si, naozaj iba trocha to bolo, pretože som takreèeno len pochybovala o
+         Albínových slovách a prišlo mi a ¾úto. A keïže bol neoblomný vo svojej mienke, nazdala som
+         sa, že bude správne, ak… hm, neviem, ako by som to mala nazva, slovo, rada by vedie, èi
+         si naozaj taký, ako vraví Albín…
+    </p>
+    <p>
+     — Aký?
+    </p>
+    <p>
+     Pamätala sa ešte dobre na všetky výrazy, ktorých Albín vo svojom rozèúlení použil, a
+         predsa sa neodvážila ani jedno písmeno z toho všetkého prezradi Igorovi do oèú. Vravela
+         len tak:
+    </p>
+    <p>
+     — No, neviem už presne. Ale Albín tvrdí, že na slobode sú možné dve cesty a že trest
+         nemá takú moc, aby z nás vyhnal všetko zlo.
+    </p>
+    <p>
+     — Ah, rozumiem… Myslím, že je to pravda. Teda Albín ma nechce do domu! No hej, — vravel,
+         z¾ahèujúc celú príhodu, pretože videl, že Júlii je nesmierne nepríjemná, — no hej, niet sa
+         èo divi, a ja sa preto vôbec nehnevám.
+    </p>
+    <p>
+     Júlii sa ve¾mi u¾ahèilo. Zazdalo sa jej, a toto zdanie bolo ve¾mi krásne, že Igorovi
+         napokon nezáleží príliš na tom, èo mu práve zvestovala. Z toho je zrejmé, myslela si,
+         h¾adiac naò s vyjasnenou tvárou, z toho je zrejmé, že mu už vskutku možno dôverova. H¾a,
+         aké to bolo radostné, keï sa tváril celkom bezstarostne a keï po jednom odhadzoval od seba
+         kamienky! Zaiste má hlavu plnú plánov a dobrých zámerov do budúcnosti! Bolo to vari tak,
+         kamienky lietali modrým vzduchom a padali na plot. Klepkali ako ¾adovec.
+    </p>
+    <p>
+     Ale Júlia mala naraz dojem, že vykonala nejaký zlý skutok. Èo to všetko natárala o
+         Albínovi? Bože! Pojal ju strach, lebo tušila, že Igor všetko uhádne. Rýchlo chcela strias
+         zo seba túto hlúpu vinu. Vravela:
+    </p>
+    <p>
+     — Albín za niè nemôže, uisujem a, Igor. Albín je najš¾achetnejší èlovek, ktorého
+         poznám. Nemysli si hádam, že a odmietol zo zlomyse¾nosti. Ó, nie! Zo zlomyse¾nosti nie!
+    </p>
+    <p>
+     Igor vravel:
+    </p>
+    <p>
+     — Poznám Albínovu š¾achetnos. Viem dobre, že nie je schopný podlosti.
+    </p>
+    <p>
+     A myslel si: „Na môj veru, Júlia ho nemá ve¾mi rada, pretože je celá zmätená, keï o òom
+         hovorí. Zdá sa, že sa bojí rodièov a ¾udí, aby vari neuhádli, èo sa v nej deje.“
+    </p>
+    <p>
+     Spýtal sa celkom ¾ahostajne:
+    </p>
+    <p>
+     — Odkedy si Albínovou verenicou?
+    </p>
+    <p>
+     Zbledla a zajachtala sa:
+    </p>
+    <p>
+     — Odkedy? Poèkaj… bolo to… hm, poèkaj… nie ve¾mi dávno… už viem, pred troma týždòami…
+         áno, už tri týždne.
+    </p>
+    <p>
+     — Myslím si, že si dobre rozumiete, — povedal a díval sa jej uprene do oèú a pátral, èi
+         vydrží priamy poh¾ad.
+    </p>
+    <p>
+     Stalo sa, ako oèakával. Júlia sklopila oèi a vravela, akoby ju bol pokoril:
+    </p>
+    <p>
+     — Áno, rozumieme si. Albín je taký dobrý!
+    </p>
+    <p>
+     Ale len èo povedala tieto slová, prevalila sa jej vnútrom vlna hanby. Júlia cítila, že
+         Igor ju predsa vohnal do osídiel pokrytectva. Koniec je, koniec, pretože Igor zachytil jej
+         tras¾avý, jej bledý strach, ktorého sa nemohla nijako zbavi. Bože, Igor, Albín, ja neviem,
+         Albín… a vykríkla naraz:
+    </p>
+    <p>
+     — Zbohom, musím už ís! Zbohom!
+    </p>
+    <p>
+     A odbehla celá èervená v tvári. Plakala.
+    </p>
+    <p>
+     Medzitým tam vonku na ceste Albín ešte vždy myslel na veci, ktoré súvisia s Igorovým
+         návratom na Vyhnanisko. Prsia sa mu napåòali rozèúlením, ktoré opíjalo a od ktorého ho
+         zaèínal bolie mozog. Videl odrazu: kvety za plotom sú žlté. Fuj, aké škaredé, žlté kvety!
+         Musel sa od nich odvráti. Chodil sem a ta so zvesenou hlavou, h¾adel si na nohy. Bol
+         naozaj ve¾mi rozèúlený. Mal naraz neobyèajne silný pocit, že naò niekto odzadu mieri
+         puškou. Potom zas, že sa naò niekto díva zo samého vrcholca hory a že sa mu škerí a lúska
+         posmešne prstami. Albín sa na¾akal; vypytoval sa sám seba: „Preèo som dnes taký citlivý? Èo
+         sa so mnou stalo?“ Pokrèil plecom, svaly na hrdle sa mu stiahli ako v kàèi.
+    </p>
+    <p>
+     Nieèo mu prerýva dušu, nieèo mu škriabe ostrým nechtom v srdci. Blíži sa k potoku. Potok
+         beží, beží a o niè sa nestará. Potok je šastný.
+    </p>
+    <p>
+     Albín ho preskoèil a pritom vôbec nevedel, èo robí. Nejaká ruka sa ho dotkla, aby ho
+         viedla. V hore bolo tma. Kôra na stromoch sa lisla ako ve¾ké jašterice. Pod pätou mu
+         vystriekla voda. Myslel si: „Všetko zavinil Igor.“
+    </p>
+    <p>
+     Potom stál v mäkkej tráve, ktorej steblá si otáèal okolo prstov. Takto hútal: „Igor sa
+         vrátil. Dobre, vrátil sa, nemám niè proti nemu. Áno, ale preèo pobláznil moju verenicu? Oh,
+         Júlia! Keby si vedela, ako sa o teba bojím! Je to skoro také, ako keï po¾ovník vnikne do
+         húštiny, ktorá bola krá¾ovstvom spevavých vtákov. List sa šuchne o list, konáriky sa
+         zatrasú, vták sa na¾aká a ufrnkne. A ja som podobný vtáku.“
+    </p>
+    <p>
+     Pocítil k Igorovi akýsi surový odpor, ktorý mu bol predtým celkom neznámy. „Viem, èo je
+         zloèin,“ myslel si, „zloèin je potupná vec.“ Predstavil si Igora, videl jeho ruky, na
+         rukách hriech. Mal v duši obraz: Stretnú sa na ceste. Vznikne medzi nimi spor o Júliu. On
+         povie: „Si bedár, Igor, si posledný z ¾udí a plaèem nad tebou.“ Tu Igor zaène máva rukami
+         a zvolá: „Zabijem a!“ Bude sa bráni a pri obrane zasadí Igorovi priam navrch hlavy mocný
+         úder. Igor padne na zem a umrie. ¼udia ho budú vidie takého potrestaného a povedia: „H¾a,
+         aký chlapák tento Albín! Aspoò nás zbavil pliagy a strachu, dobre veru, že ho zabil.“
+    </p>
+    <p>
+     A práve na tomto mieste Albín spozoroval svoju vinu. Vnútorný hlas mu zašuškal: Oh, oh,
+         aký si ty zlý èlovek! O akých bláznovstvách to hútaš? Nie, to nesmieš! Len uváž, Júlia ti
+         pozrie do zornièky a všetko v nej hneï zbadá. Povie ti: V tvojej zornièke vidím nieèo
+         temného. Èo jej odpovieš? Budeš ma z toho potupu. A Júlia ešte povie: „V tvojom oku vidím
+         nieèo hrozného. Nieèo takého hrozného ako krídla havrana.“
+    </p>
+    <p>
+     Keï tieto slová dozneli, pochopil, že musí ís za Igorom a že sa s ním musí pomeri.
+         Vravel si: „A svoju èistú dušu si uchovám, pretože je to najvyšší poklad, ktorý mi boh
+         dal.“
+    </p>
+    <p>
+     Brána bola otvorená, videl v nej kus priezraèného vzduchu. Tu zoèil Júliu. Odchádzala od
+         Igora, ktorý sa za òou díval, a díval sa tak, že celkom iste myslel na òu vo ve¾kom túžení.
+    </p>
+    <p>
+     Povedala:
+    </p>
+    <p>
+     — Nehnevaj sa, Albín, nemienila som to zle.
+    </p>
+    <p>
+     — Áno, áno, — vravel sklamaný, lebo myslel na Igora.
+    </p>
+    <p>
+     — Oh, — plakala, — viem, že som to nemala robi!
+    </p>
+    <p>
+     Tu vravel Igor:
+    </p>
+    <p>
+     — Júlia je nevinná.
+    </p>
+    <p>
+     — Áno, je nevinná a teším sa tomu. Choï domov, Júlia. — Povedal to s láskou a mierne.
+         Mlèal, kým neodišla. Keï boli sami, vravel ticho:
+    </p>
+    <p>
+     — Máš na òu zlý vplyv. Celá je utrápená. Preèo ju voláš k sebe?
+    </p>
+    <p>
+     — Nevolám ju k sebe.
+    </p>
+    <p>
+     — Tvoja prítomnos ju však vábi, a v tom je ešte väèšie nebezpeèenstvo. Nechcem by k
+         tebe nespravodlivý, Igor, ale vieš sám, že ti môžem mnoho vecí vyèíta. Môžem ti vyèíta
+         všetko, èo si v minulosti zlého urobil. Nosíš na sebe znak, ktorý budeš ešte dlho nosi,
+         pretože je to taký znak, ktorého sa len tak ¾ahko nemožno zbavi. A preto ti vravím, vravím
+         ti to nie ako nepriate¾, lež ako priate¾, že nerád vidím tvoje styky s Júliou. Áno, z tej
+         príèiny som a nevzal k nám do práce, len z tej! Príliš ¾úbim Júliu.
+    </p>
+    <p>
+     Ale tento rozhovor sa skonèil nenazdajky a takým spôsobom, ako sa to dalo najmenej
+         oèakáva. Hoci bolo zrejmé, že Albín mal pripravených ešte zopár slov, ktoré mu ve¾mi
+         ležali na srdci, postavil sa Igor odrazu dorovna ako vojak a vravel: — Pst, pst!
+    </p>
+    <p>
+     — Èo je? — opýtal sa Albín.
+    </p>
+    <p>
+     A tu Igor nastavil uši a tvár trocha šikmo, akoby bol poèul prichádza z ve¾kej dia¾ky
+         nejaký zvuk. Povedal:
+    </p>
+    <p>
+     — Nepoèuješ? Zvony ve¾kej katedrály, ktorá je znútra celá modrá, ma volajú. Vravia, že
+         mám ís do práce. Áno. Nuž h¾a. Idem.
+    </p>
+    <p>
+     A s tým odišiel a Albín za ním pozeral a krútil hlavou.
+    </p>
+    <p>
+     Vietor hnal cviklovoèervené oblaky ïalej na východ. Boli to vysoké oblaky, zvláštne
+         stavby, sklepené do oblúkov, vnútri podobné hlbokej jaskyni bez konca, kde sa z rozpálených
+         sadzí tvorí husté šero. Dohonil ho známy sedliak z dediny. — Aha, Igor! Kde sa tu berieš? —
+         zvolal a obzeral si ho zo všetkých strán. Kráèali spolu a zhovárali sa. Sedliak sa opýtal:
+         — Kam máš namierené? — Ukázal na kopce: — Idem do práce. Ale tamto, h¾a, sú moje polia a
+         musím si ich prezrie. — Sedliak ho hneï opravil: — Nevrav, že tvoje. Veï všetci vieme, že
+         lambertovské polia sú v zálohe. O krátky èas ich celkom stratíš, pretože nemáš peòazí. — To
+         je pravda, že sú v zálohe a že nemám peòazí. Ale ty zabúdaš, že zarobím a že si potom polia
+         zas vykúpim. — Toto by som rád videl, — zvolal sedliak. — Veru, aj to sa stane, — odvetil
+         Igor.
+    </p>
+    <p>
+     Polia ležali za horou. Zvrchu, odkia¾ na ne svietilo slnko, zdali sa hladké a mäkké ako
+         teplá látka. Boli zafarbené pestro na zeleno, na žlto, na èerveno a už z dia¾ky ich Igor
+         dobre rozpoznával. Po nieko¾kých minútach chôdze zastali v tráve na kraji chodníka. Z
+         dediny sa dvíhal kalný dym a pomaly prenikal cez mriežkované zrkadlo slneèných lúèov. —
+         Pamätám sa, — vravel sedliak, — že vaša rodina bola kedysi jedna z najbohatších v kraji.
+         ¼udia si k vám chodievali požièiava a široko-ïaleko sa o vašom hospodárstve rozprávalo s
+         úctou. A kto by si bol pomyslel, že sa to takto skonèí?
+    </p>
+    <p>
+     A Igorovi bolo v tej chvíli ticha, ktoré nastalo po týchto slovách, akoby ho opä
+         obklopili žalárom. Zle sa mu dýchalo. Tuhoružové ïatelinové kvety sa ahali doširoka a
+         ponášali sa na ohromné množstvo akéhosi tuèného hmyzu, akýchsi èmeliakov, ktoré sa znášajú
+         mäkko k zemi. Ale pásy polí Igora utešovali, pretože cítil pod nohami nesmiernu archu ich
+         plodnosti. Na obzore sedeli vysokánske vrchy, ich konèiare trèali z belasej hmly a zdalo
+         sa, že sa odtrhli od pohoria a že sa teraz vznášajú k nebesám ako hodvábny papier. Pod
+         stráòou brechal pes, hav, hav, v pazúroch a zuboch zúrivo kmásal vzduch a rozhadzoval ho na
+         všetky strany. Lambertovské polia osameli. Na oblohe nastal pokoj. Oblaky stuhli tak, ako
+         boli, deravé a rozdriapané, zmrštili sa nebadate¾ne a zastali.
+    </p>
+    <p>
+     Do sveta vedie rovná cesta. Je vysadená topo¾mi a na dia¾ku sú to nie topole, lež staré
+         tisícroèné vinièe, pozabúdané v údolí. Visia na nich drobné, neobyèajne drobné lístky a
+         každý z nich je postriekaný skalicou, ktorá žiari za takýchto dní troškou striebra.
+    </p>
+    <p>
+     A tam ïaleko, ïaleko, už v samej plochej rovine, ktosi kráèa. Kráèa, a je to už len
+         malý, nepatrný bod. Igor.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     - 2 -
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Uplynulo mnoho mesiacov. Javorové listy padali do mlák. Dni zmenili nevdojak farbu,
+         pretože boli také, akoby ich bol ktosi posypal tehlovým prachom.
+    </p>
+    <p>
+     Na Vyhnanisku mali v tom èase svadbu. Takmer všetci sa veselili a tí, èo sa vrátili o
+         nieèo neskoršie z hory, zvestovali:
+    </p>
+    <p>
+     — Poèuli sme, ako sa to všetko v doline ozýva a otriasa. Zdá sa, že aj stromy a skaly
+         majú rados.
+    </p>
+    <p>
+     Pili a spievali, vždy bolo viac hlasov. A niektorí mali naozaj dobré hlasy; ako praví
+         speváci z mesta. Priatelia vraveli Albínovi:
+    </p>
+    <p>
+     — No, ži šastne s Júliou, doprajeme ti to.
+    </p>
+    <p>
+     A Júlii vraveli dievèence:
+    </p>
+    <p>
+     — Buï s ním blažená; kiež by si dožila vysokého veku a zdarných detí.
+    </p>
+    <p>
+     Nadišiel veèer. Z okien padali na trávu svetlá ako prúdy zamrznutej vody.
+    </p>
+    <p>
+     — Si šastná? — spýtal sa Albín.
+    </p>
+    <p>
+     — Som, — povedala Júlia s jasnou úprimnosou.
+    </p>
+    <p>
+     Starý Gút si priniesol husle a hral. Mal z toho detskú rados, pretože videl, že ho
+         všetci poèúvajú. Lenže starec hral takým dojímavým spôsobom, že sa málokto vedel ubráni
+         plaèu. Najviac plakala Júlia. Pomyslela si na rôzne šastné dni svojho života, na blažené
+         chvíle, ktoré v nej zostali ako zvyšok nejakej nádhernej vône, a po tvári jej tiekli ve¾ké
+         žiarivé slzy, podobné hviezdam. Vtedy jej zasa Igor zišiel na um. Albín to na nej videl.
+    </p>
+    <p>
+     — Nemôžeš naò zabudnú?
+    </p>
+    <p>
+     Povedala:
+    </p>
+    <p>
+     — Si taký dobrý, si taký dobrý! Nehnevaj sa, prosím a! — A keï na òu ¾útostivo pozrel,
+         poloplaèlivo, polosmiechom mu rýchlo šuškala do ucha:
+    </p>
+    <p>
+     — Nie, never mi, zabudla som na Igora! Pre iné plaèem, nie pre neho! Naozaj! Ach, Albín,
+         Albín… zasmej sa, pretože sa a bojím, keï ti vidím smútok v oèiach.
+    </p>
+    <p>
+     Vonku šuchoce vietor, skáèe dolu do dvorov, piští a škriabe na okná. Na chví¾ku stíchne,
+         naberá silu a potom opä piští a opä škriabe. Znie to celkom tak, ako keï diea píše zlým
+         perom na tvrdý papier.
+    </p>
+    <p>
+     Bol koniec jesene. Za dlhých nocí sa preháòala nad horami modrobiela zima, fuèala a
+         cengala inovaou a sklom. Vetry postàhali oblohu nízko k zemi. Na celý kraj zasadla hmla,
+         šírila sa a neustále hustla; saby vychádzala z útrob zeme; saby ju vydychovali nebesá.
+         Všade bola.
+    </p>
+    <p>
+     Ale Júlia dos ažko vypúšala Igora zo svojej mysle. Albín otvorí dvere. Vidí ju sedie
+         pri okne. Obráti sa pomaly a vraví trochu utrápená:
+    </p>
+    <p>
+     — Ah, prišiel si?
+    </p>
+    <p>
+     — Áno, tu som.
+    </p>
+    <p>
+     Po chvíli: — Nože si sadni, Albín, sem ku mne.
+    </p>
+    <p>
+     Albín si sadne k nej a mlèí. Bože, aký je to muž? Vypytuje sa ho vždy na nieèo, pretože
+         ju ticho za týchto tmavých dní nesmierne sužuje:
+    </p>
+    <p>
+     — Èo je nového?
+    </p>
+    <p>
+     — Neviem veru, — odvetí on, spína si ruky na kolenách, akoby ju svojím mlèaním chcel
+         skúša. Tu povie celkom pokojne:
+    </p>
+    <p>
+     — Naòho myslíš ešte stále?
+    </p>
+    <p>
+     Strhne sa, pristihnutá:
+    </p>
+    <p>
+     — Na koho?
+    </p>
+    <p>
+     — Vieš dobre, Júlia. Na Igora.
+    </p>
+    <p>
+     Trasie sa celá nesmiernym zdesením. Bože, naozaj, aký je to muž?
+    </p>
+    <p>
+     A h¾a, on vraví mäkko a dobrácky:
+    </p>
+    <p>
+     — Je to choroba, moja drahá Júlia. Príde deò, a budeš sa radova, pretože uvidíš, že si
+         sa vylieèila. Len maj trpezlivos a netráp sa. Viem, že a to bolí.
+    </p>
+    <p>
+     Vstal, pohladil ju po ruke. Júlia sa nemôže zdrža a vraví tisíc ráz ako vtedy na
+         svadbe:
+    </p>
+    <p>
+     — Si taký dobrý, si taký dobrý!
+    </p>
+    <p>
+     A zas plynuli mesiace; mesiace a týždne, nové a nové, až z toho boli roky. O Igorovi
+         nebolo poèu.
+    </p>
+    <p>
+     Nadišlo predjarie. Júlia pozrela von cez okná a videla, že je tu nieèo v belavom plášti.
+         Nevie, èo je to, len èaká a v duši sa jej ozve ve¾ká rados. Vtom vzduchom odrazu priletí
+         sneh. Bol to zmrznutý a tvrdý sniežik, posledný pozdrav zimy, klepotal na sklo ako piesok.
+         Prihnal sa so závanom vetra a bol to hustý, to zas riedky. Triasol sa, podobal sa iskierkam
+         a chví¾ami sa ani nedalo urèi, z ktorej strany prichodí, èi zhora, èi zdola, èi odprava,
+         èi od¾ava. Zažiarilo slnce a padajúci sneh bol vtedy ako náhla záplava drobných motý¾ov,
+         nesúcich na krídlach ¾adové kvapôèky. Chumáèe svietili ve¾mi tuho, pichalo to oèi,
+         rozlamovali slneèný oheò na tisíce kusov, takže celý svet sa zaèal mihota a trblieta.
+    </p>
+    <p>
+     Vystrèila hlavu do dverí. Na tvári pocítila chlad, ktorý jej umàtvoval kožu. Pohladila
+         si líce a zdalo sa jej, že sa dotýka nejakého cudzieho èloveka, nato¾ko mala zimou otupené
+         zmysly. Cez sneh bolo dobre vidie, ako z výšavy padá vietor a ako behá po kraji. Prehàòal
+         sa v lesoch, ktoré sa rozvlnili ako voda, a ponášal sa na nejaké nemotorné zviera, ktoré
+         bez prestania blázni a huèí zlosou.
+    </p>
+    <p>
+     Vysoko nad Júliou stálo slnko. Ach, aké to bolo nádherné slnko! Len si predstavte,
+         dívalo sa na svet, ktorý malo hlboko pod sebou, ako drahý kameò, ako diamant. Obracalo sa
+         na všetky strany, akoby chcelo ukáza celú svoju krásu, rozpa¾ovalo sa èím ïalej tým viac,
+         až od toho tiekli slzy. A po nebi sa rozširovali zlaté plochy, kládli sa jedna k druhej a
+         prenikali sa; tu sa premenili nenazdajky na ve¾ké zrkadlá, ktoré sa pomaly pohybujú a
+         všetko zrkadlia. Boli vtedy tisíce diamantov, malých i celkom drobných. Júlia nemohla od
+         toho nijako odtrhnú zrak; bolo to také neobyèajné! Bol to zázrak.
+    </p>
+    <p>
+     Ale pritom sa prihodilo nieèo, na èo by si ani vo sne nebola pomyslela. Júlia zrazu
+         vykríkla. Vykríkla tak, že nevedno, èi to bola rados a èi zdesenie. V diamante, totiž v
+         samom slnci, ktoré sa neustále zväèšovalo, bol osadený Igorov obraz! H¾a, vidí Igora,
+         Igora, o ktorom už tak dlho nechyrovali! Áno, to sú jeho oèi, jeho ústa, jeho èelo!
+         Tlieskala rukami a mala vô¾u spieva: Takéto nieèo, takéto nieèo!
+    </p>
+    <p>
+     Prišiel oblak a obraz zmizol. Júlia vyh¾adala Albína a povedala mu:
+    </p>
+    <p>
+     — Dnes je zvláštny deò.
+    </p>
+    <p>
+     — Preèo, Júlia?
+    </p>
+    <p>
+     — Videla som Igora. Videla som ho v slnci.
+    </p>
+    <p>
+     Keï to vravela, zachovávala ve¾kú vážnos, aby si Albín azda nemyslel, že si z neho robí
+         žart.
+    </p>
+    <p>
+     — Igora? — pýtal sa s úsmevom.
+    </p>
+    <p>
+     — Áno. Hneï som ho poznala.
+    </p>
+    <p>
+     — Strašia a staré myšlienky, Júlia. Kto by mohol veri v takúto vidinu?
+    </p>
+    <p>
+     — Ó, ja verím! Igor nám posiela pozdrav. Práve si na nás niekde v dia¾ke spomenul a tak
+         sa stalo, že som ho videla. Asi tak to bolo!
+    </p>
+    <p>
+     — Júlia, Júlia, — hovoril jej karhavo, — si ako diea, ktoré sa pohráva s malièkosami a
+         pritom sa nazdáva, že drží celý svet na svojej dlani.
+    </p>
+    <p>
+     Júlia bola smutná. V dome vládlo ticho.
+    </p>
+    <p>
+     Prišiel veèer. Bolo to v izbe. Okolo petrolejovej lampy sa tvorili kruhy ako obruèe, ako
+         špirály; tancovali a natriasali sa. Stolièka vrhala ve¾ký tieò. Na stene bolo vidie
+         operadlo; mäkký oblúk to bol a pomalièky sa kåzal po èiare ma¾ovky. Albín obrátil tvár.
+         Všetko sa miešalo, svetlá i tiene, obdåžniky žltého ohòa a zdrapy èiernej tmy.
+    </p>
+    <p>
+     Bolo poèu husle.
+    </p>
+    <p>
+     — Tvoj otec, — hovorí Júlia trocha zachrípnutým hlasom a dlhom mlèaní. Naèúvali a
+         neodvažovali sa preriec slovo. Starec hral ïalej a bolo to dnes neobyèajne smutné, pretože
+         v hlase husie¾ bolo cíti nieèo hlbokého a schnúceho, nieèo, èo sa podobá sèernetému machu,
+         ktorý padá zo zvetranej skaly.
+    </p>
+    <p>
+     Odrazu Albín pohne nohou a vraví:
+    </p>
+    <p>
+     — Pozri, v Igorovom dome sa svieti.
+    </p>
+    <p>
+     — Ozaj. Svieti sa. To je zvláštne.
+    </p>
+    <p>
+     — Èo by to mohlo by?
+    </p>
+    <p>
+     — Ja neviem. Azda chlapci lozia po izbách.
+    </p>
+    <p>
+     — Ja si myslím, že chlapci nie. Bude to iná vec.
+    </p>
+    <p>
+     Júlia sa dlho dívala. Vtom zvolala:
+    </p>
+    <p>
+     — Albín… Igor sa vrátil!
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     - 3 -
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Tešili sa jarnému poèasiu. Vysedávali pred domom na lavièke. Júlia robila nohou do
+         piesku obrazce.
+    </p>
+    <p>
+     V záhrade nieèo pisklo.
+    </p>
+    <p>
+     — Èo to bolo, Albín?
+    </p>
+    <p>
+     Na èerešòový konár, ktorý sa ligoce ako krv, priletel vták. Albín naò ukázal:
+    </p>
+    <p>
+     — Vták. Aha! Vták. Poèuješ?
+    </p>
+    <p>
+     Vrátil sa práve z juhu. Šibal okolo seba oèkom. P-pí, — vravel.
+    </p>
+    <p>
+     A potom nieèo zacvrlikalo. Èo mohlo zacvrlika? Dlho o tom hútali. Tu povie Júlia:
+    </p>
+    <p>
+     — Bolo to stebielko mladej trávy.
+    </p>
+    <p>
+     — Stebielko mladej trávy?
+    </p>
+    <p>
+     — Áno, vyhúklo spod zeme a zazrelo nad sebou ohromné slnko, okrútené rozžeraveným
+         drôtom.
+    </p>
+    <p>
+     — Tak teda, — usmial sa Albín, — hej, to by bolo možné.
+    </p>
+    <p>
+     Vetrík sa rozbehne po lúkach. Fiú, fiú, robí jemne, ako keï niekto dýcha cez zuby. Fúka
+         do korún starých vàb. Ich listy sa pritom obracajú nahor svojou spodnou stranou, ktorá je
+         sivastá, a vyzerá to tak, akoby sa všetky vàby boli cez noc pokryli slabým mrazom.
+    </p>
+    <p>
+     Albín zavolal:
+    </p>
+    <p>
+     — Igor! Poï sem, Igor!
+    </p>
+    <p>
+     — Áno, áno, — odvetil, — hneï, len zavriem bránièku.
+    </p>
+    <p>
+     Prišiel zhrbený a akýsi neprirodzene biely. Sadol si k nim.
+    </p>
+    <p>
+     — No, — spytovali sa ho, — ako ti ide práca v dome?
+    </p>
+    <p>
+     — Ale, — vravel, — dobre, zajtra prídu murári, aby ešte kde-èo opravili. Ani by ste
+         neverili, ko¾ko s tým mám starostí. Na druhý týždeò bude všetko v poriadku, dúfam.
+    </p>
+    <p>
+     — A polia?
+    </p>
+    <p>
+     — Ó, to je moja najväèšia rados. Siatie sa, myslím, vydarilo.
+    </p>
+    <p>
+     A potom vraví:
+    </p>
+    <p>
+     — Trochu ma dnes hlava bolí.
+    </p>
+    <p>
+     — Veru, — hovorila Júlia, — nevyzeráš dobre.
+    </p>
+    <p>
+     — Umorili ma tie roky a stály zhon za peniazmi.
+    </p>
+    <p>
+     Tu ho poprosili:
+    </p>
+    <p>
+     — Mohol by si nám o tom nieèo rozpráva?
+    </p>
+    <p>
+     — Áno, — povedal, — budem rozpráva.
+    </p>
+    <p>
+     Taký bol život. Vo výške zneli zvony, a boli to celkom iste zvony modrej katedrály. Vo
+         ve¾kom mestskom dome bola miestnos, ktorú sa nikdy nepodarilo dobre vykúri. Sedel a
+         pracoval. Bežali roky a jeho pero behalo po nespoèítate¾ných kusoch papiera. Drkotal
+         zubami, natiahol ruky a bolo mu clivo za okrúhlym kopcom tam vonku medzi horami. Za
+         priate¾ov mal len predmety alebo zvieratá, ktoré sa nebáli jeho ošúchaného kabáta. Tak sa
+         pamätá napríklad ve¾mi dobre na malého pavúka. Rozpráva o òom:
+    </p>
+    <p>
+     — Raz som ho našiel v okne. Visel na nevidite¾nej pavuèine, a ked naò svietilo slnce,
+         bol èervený ako kvapôèka krvi. Škriabal sa horevyššie, hojdal sa sem-ta a po skle sa
+         pohyboval jeho tieò. I vravel som mu: „Vieš èo, budeme zadobre, hej?“ A tak aj bolo. Vídali
+         sme sa každý deò a vyrozprávali sme si svoje príhody. Ja som mu najèastejšie hovorieval o
+         modrej katedrále, aká je krásna a ako ma k sebe vábi. Poèúval pozorne a mal som ho rád.
+    </p>
+    <p>
+     — A potom? — spýtala sa Júlia.
+    </p>
+    <p>
+     — A potom sa roky hnali ïalej. Neviem niè ïalej. Bolo to pre mòa ve¾mi smutné. Každý deò
+         som myslel na Vyhnanisko, na dom, na dvor, na záhradu, na polia. A každý deò som po tom
+         väèšmi a väèšmi túžil.
+    </p>
+    <p>
+     Pozreli naò naraz, akoby sa boli o tom predom dohodli.
+    </p>
+    <p>
+     — Èože, — spýtal sa, — vidíte na mne azda nieèo neobyèajného?
+    </p>
+    <p>
+     — Áno, — vravel Albín za dvoch, — vidíme. Vidíme, že si sa stal poriadnym èlovekom.
+    </p>
+    <p>
+     Igor vravel s dojatím:
+    </p>
+    <p>
+     — Ïakujem, ïakujem.
+    </p>
+    <p>
+     Pohyboval rukami, a mal ich veru slabé a tenké ako nikdy predtým.
+    </p>
+    <p>
+     — Mám akúsi predtuchu, — povedal.
+    </p>
+    <p>
+     — Akú predtuchu? — spýtali sa.
+    </p>
+    <p>
+     — Takú, — hovoril, — že zomriem.
+    </p>
+    <p>
+     Bolo to nepochopite¾né. Nevedeli, èi sa majú smia, a nevedeli, èi to myslí vážne.
+    </p>
+    <p>
+     — Preto je to tak, — pokraèoval, — lebo som už všetko dosiahol a boh sa nado mnou
+         zmiloval. Preto teda myslím, že zomriem. Veru, mám dojem, že môj život sa konèí a zvony
+         dnes poèujem jasnejšie ako kedyko¾vek v minulosti.
+    </p>
+    <p>
+     To dopovedal a tvár mal priesvitnú ako papier.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Popoludní Júlia naraz povedala:
+    </p>
+    <p>
+     — H¾a, Albín, aké žlté je nebo.
+    </p>
+    <p>
+     Áno, vskutku, nebo bolo celé žlté, ani èo by ho boli potreli mastnotou. Keï sa naò
+         dívali, zrete¾ne mohli pozorova, ako klesá vždy nižšie a nižšie a ako sa rozahuje. Vtom
+         èosi è¾aplo.
+    </p>
+    <p>
+     — ¼a¾a, — hovorí Albín, — èože to má znaèi? Voda!
+    </p>
+    <p>
+     — Voda? Ah!
+    </p>
+    <p>
+     Bola to voda, èo è¾apla. Spadla zvysoka, niekto ju akiste vylial z hrnèeka. Bolo poèu
+         akýsi dlhý, nekoneèný šum. Júlia obehla dom, po chvíli sa vrátila.
+    </p>
+    <p>
+     — Zvrchu, od hory sa to valí, — hovorila a prudko dýchala, — valí sa to ako rieka.
+    </p>
+    <p>
+     — Ako rieka?
+    </p>
+    <p>
+     — Áno, lebo nad pohorím sa spustil dážï a celý prúd sa teraz blíži sem, huèí a rozrýva
+         zem!
+    </p>
+    <p>
+     Len èo to dopovedala, zas nieèo spadlo. Teraz už celkom rozoznali, že to bol kus vody,
+         ve¾ký ako dlaò. Buchla na zem a rozprskla sa. A potom èoraz hustejšie sa spúšala. Júlia
+         vykríkla zdesená:
+    </p>
+    <p>
+     — Voda!
+    </p>
+    <p>
+     Celým stavaním to huèalo, ako keï noríme hlavu do ozrutnej morskej vlny. Peny špliechali
+         dohora. Trámy pukli a škáry v okeniciach zapišali. Vietor švihol mocným rozmachom po
+         múroch. Ou! zreve široká strecha a v hustom vodovom prachu sa nieèo mece a poskakuje.
+         Vzduch sa trasie a mihá, práve tak, akoby sa zrazu bola celým krajom rozšírila horúèka a
+         zimnica. Ou! zavýjajú stromy, ou, bolí to, preva¾ujú sa a zbesnenos nimi trepe do
+         veterných vírov, odhadzujú konáre a všade èurèí ohnivá voda, ktorá sa lisne ako sklo.
+    </p>
+    <p>
+     V tú hodinu sa vracal Igor z po¾nej roboty. Kráèal dolu svahom, a pretože sa to blížilo
+         k nemu od chrbta, niè netušil.
+    </p>
+    <p>
+     Hvízdal si a pridržiaval si konce kabáta. — Hop-hop, — vravel a skackal ako hruda, ako
+         tvrdá hruda, ktorá sa kotú¾a po hrbo¾atom trávniku.
+    </p>
+    <p>
+     A tu nieèo šibne povetrím. Preletí to ponad les, zadrapí sa do stromu, zvýskne. Igor
+         cíti, ako ho vzduch tlaèí na sluchách. Zdá sa, že mu nieèo drví kosti. H¾a, voda, voda je
+         tu. Je celá špinavá, sivá. Voda! vykríkne v òom èosi zdesením. Voda! zhuèí to celým krajom
+         a zatrasie lesmi, trávou a oblakmi.
+    </p>
+    <p>
+     Teplo zhustne, lepí sa mu na líca, na oboèie i na mihalnice. Vidie ho, ako obletuje
+         okolo Igora v pomaranèových kruhoch a pritom všetko, všetko rozleptáva.
+    </p>
+    <p>
+     Zatoèí sa mu hlava a padá. Èo je? Akoby odrazu mal pred sebou prázdnu jamu a akoby
+         nebolo vidno jej dna. Prúd ho doháòa, hvízda dolu brázdami, už je tu, už to žblnklo. Igor
+         sa obzrie, bože, aká ozruta! Pance sa mu okolo nôh a chladí. Kopme do povetria, vysoký
+         závoj kvapiek sa vymrští medzi kríky a posýpa ich. Aký zver! Naraz povodeò skoèí a zjajkne.
+         Igor padá, padá, vzduch mu šumí okolo ušú; šumí a hrozne plaèe.
+    </p>
+    <p>
+     Zachytilo ho to okolo pása a vrhlo dolu do doliny; naklonil sa dopredu a videl ju hlbokú
+         pod sebou, celá sa hýbala a ligotala. Padol pod mocným nárazom a zaèal sa kotú¾a. Krútòavy
+         ho krbá¾ali sem-ta, otåkali mu hlavu o výmole. Nohami klepal do pòov a skál a znelo to ani
+         starý mlyn na potoku.
+    </p>
+    <p>
+     Zastavil sa až dolu pri vàbach, ktoré sa celé triasli, triasli sa zimou a triasli sa
+         zdesením. Vietor z nich trhal úzke lístie, skuèal a poskakoval.
+    </p>
+    <p>
+     Tenké prúdy mútnej vody sa krútili okolo jeho údov a švitorili.
+    </p>
+    <p>
+     Zazneli zvony: bim, bam a Igor pocítil ich kolembavý zvuk na perách a v oèných jamkách.
+         Bim, bam prenikalo k nemu cez ružové pary a cez kadidlový dym, ach, aká zvláštna vôòa, aká
+         zvláštna kostolná vôòa! V prsiach cítil svoju dušu, prvý raz vo svojom živote ju cítil, bol
+         to ten kolembavý zvuk a tá vôòa. Bim, bam — spievali zvony.
+    </p>
+    <p>
+     Pribehla vlna, valila sa s jakotom a na jej povrchu šp¾achotalo nesmierne množstvo iných
+         vån, ktoré svietili bielou penou a priezraènými bublinkami.
+    </p>
+    <p>
+     Igor mal poslednú myšlienku: „Zbohom, idem.“
+    </p>
+    <p>
+     Zvony ešte raz zhuèali a odnášali ho.
+    </p>
+    <p>
+     Dážï prestal a výšava je opä modrá a zlatá. Zo zeme vyrastajú ohromné ståpy a
+         podpierajú klenbu krásnej a mohutnej katedrály.
+    </p>
+    <p>
+    </p>
+   </div>
+  </body>
+ </tei:text>
+</tei:TEI>

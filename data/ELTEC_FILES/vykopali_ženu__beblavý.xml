@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885342" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Vykopali ženu : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:73407810">
+     Beblavý, Pavol (1847-1910)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     5859
+    </measure>
+    <tei:measure unit="pages">
+     15
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:73407810">
+      &gt;Beblavý, Pavol (1847-1910)
+     </tei:author>
+     <tei:title ref="ISSN:1335-7786">
+      Vykopali ženu
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské pohľady
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Vykopali ženu
+    </tei:head>
+    <tei:head>
+     Rozpráva Anonymus
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Či vy viete, kde sú Újezda? Na mape by ste jich darmo hľa-
+          dali. Ujezda síce najdete kdekoľvek, ale tieto sú len jedny, a síce
+          hneď za Bránkou. Bránka ale je ulička — jestli sa to vôbec uličkou
+          pomenovať dá — v mestečku Vrbovcach. Nuž a kde sú Vrbovce,
+          to už len budete znať. A jakoby ste to aj neznali, veď roku 1866,
+          keď tadeto tiahnuli Prušiaci, dôstojníci jejich znali pomenovať nie-
+          len vrchy, ktorými Vrbovce obtočené sú, mestečká, s ktorými lra-
+          ničia, ale i jednotlivé hony poľa a chodníčky.
+    </tei:p>
+    <tei:p>
+     „Pravda, pán farár,“ hovoril vo fare ubytovaný pruský dôstoj-
+          ník, „tamto je Žalostiná a tamto hen Pecková, a hen tam to pole
+          to sú Križnice.
+    </tei:p>
+    <tei:p>
+     Farár, hľadiac na dôstojníka, div že na ňom oči nenechal. A
+          jakoby sa aj nečudoval, počujúc cudzinca, prvý raz v živote ob-
+          Javivšieho sa v jeho fare, ktorý k tomu ešte tak znamenite poznal
+          celú polohu našeho mestečka, kdežto našinci málo čo predtým
+          prijdúc sem, nevedeli ani kde sú, a za mapu nitrianskej župy by
+          neviem čo boli dali.
+    </tei:p>
+    <tei:p>
+     Nie je možné, aby ste vy neznali o Vrbovcach. Znajú jich
+          široko na ďaleko. Veľký maďarský denník z roku 1884, vychodiaci
+          až hen v Debrecíne, písal o nich, koľko maďarskej krve tu tieklo,
+          až celé výmole povstaly. Pravda, že to bolo kedysi dávno. Veľmi
+          dávno, čo ani svet nepamätá, bo vtedy sa tu ešte po maďarsky
+          kázavalo slovo božie, a dnes, okrem pána notáriuša, žiadon, jako
+          ludia vravia, po maďarsky nezná. Čo však Debrecín písal o Vrbov-
+          cach, to je to najnovšie. Znajú teda aj tam Vrbovce a i o nich
+          rozprávať všeliniečo, čoho nikdy nebolo a čoho ani nikdy nebude.
+          Kroniky naše to neznajú a čo neznajú, na to nedbajú.
+    </tei:p>
+    <tei:p>
+     Zpýtate-li sa však na Polacha alebo Púdelku, ešte aj tie deťú-
+          rence by vám vedeli o nich rozprávať. Znali jich nielen v mestečku,
+          ale i po kopaniciach, a tie sú rozsiahle veru na Vrbovcach. A
+    </tei:p>
+    <tei:p>
+     19
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     jakoby jich aj neznali, keď sa o nich všade hovorilo, ba i pán
+          služný s nimi viedol vyšetrovanie, keď vykopali na cintoríne ženu...
+    </tei:p>
+    <tei:p>
+     No ale nepredchytávajme deju. Vrbovce naše sú vám známe
+          po čom, po ton. Tým však, komu by neboly predsa známe a 0 nich
+          nepočuli, hovoríme, že Vrbovce sú mestečko v nitrianskej stolici
+          na hraniciach Uhorska a Moravy.
+    </tei:p>
+    <tei:p>
+     Celé mestečko delí sa na Horný a Dolný koniec, Riadok, Kúty-
+          Bránka, Kňazová, nebezpečná nočným časom, bo tade chodieva
+          kňaz bez hlavy, hlavu nosiac pod pazuchou, ktorú za ľuďmi kotúľa
+          jako guľu.
+    </tei:p>
+    <tei:p>
+     Kto tomu neverí, nech sa ide presvedčiť. Okrem tejto Bránky
+          je i druhá a za touto sa nachodia Ujezda.
+    </tei:p>
+    <tei:p>
+     Ďalším opisovaním nechceme núdiť nikoho. Sme už aj tak na
+          mieste nášho deju. Za Ujezdami rozprestiera sa krásny vrbovčian-
+          sky cintorín.
+    </tei:p>
+    <tei:p>
+     Cintorín a krásny! Huj! až mňa tak mráz prechodí, len keď
+          to slovo čujem. Že krásny? A predsa mne sa ľúbi. Nenie tu žiadnych
+          nádherných pomníkov, len ktorý ten hrob poznačený kameňom lebo
+          daskou, s označením mena toho, ktorý tam odpočíva.
+    </tei:p>
+    <tei:p>
+     Predstavte si pekný štvorhran, múrom. obohnaný, vyzerá ani
+          nie jako cintorín, ale jako pekná záhrada. Ale ani nie tie múry,
+          jako viacej tie utešené pekné lipy, ktorými je obsadený, ho prí-
+          Jemným a milým robia.
+    </tei:p>
+    <tei:p>
+     Je to rad obzvlášte letným časom, keď zal 5
+          čeličiek pole: jednoho kvetu na druhý. Nebeská v
+          okolím a melodické vyhrávanie pilných včeličiek, zdá sa, jakoby
+          uspávalo a sen smrti zpríjemňovalo tým, ktorý v svojich chalu-
+          počkách sladko odpočívajú, či od kratších a či dlhších prác svojich.
+    </tei:p>
+    <tei:p>
+     Za času našej poviestky vrbovčiansky cintorín nevyzeral tak
+          ešte. Vtedy delil sa on na starý a nový cintorín. Nový bol ešte
+          len obkopaný a lipy len teraz vysadené, múry však starého | už
+          porúchané, skála sem tam rozhádzané.
+    </tei:p>
+    <tei:p>
+     Zásluhou novšieho prispôsobenia je pána notára Z...
+    </tei:p>
+    <tei:p>
+     V starom cintoríne kopali práve nový hrob.
+    </tei:p>
+    <tei:p>
+     „Pomáhaj vám Pán Boh!“ pozdravuje pod ťarchou ťažkého
+          batoha k zemi sohnutá mladá žena, ktorý, aby si na chvíľu mohla,
+          oddýchnuť, oprela si na starý múr.
+    </tei:p>
+    <tei:p>
+     „Pán Boh daj aj tebe!“ odpovie hrobár.
+    </tei:p>
+    <tei:p>
+     „Komu to kopete?“ pýta sa predošlá.
+    </tei:p>
+    <tei:p>
+     »„ Tebe nie!“
+    </tei:p>
+    <tei:p>
+     „To viem.“ ,
+    </tei:p>
+    <tei:p>
+     „Keď vieš, načo sa zpytuješ?“
+    </tei:p>
+    <tei:p>
+     „A vý čo máte z toho, keď mi nepoviete?“
+    </tei:p>
+    <tei:p>
+     „A ty čo, keďže ti poviem?“
+    </tei:p>
+    <tei:p>
+     „Oba rovnako. No ale mi povedzte.“
+    </tei:p>
+    <tei:p>
+     „Mladej.“
+    </tei:p>
+    <tei:p>
+     „A starej nie?“
+    </tei:p>
+    <tei:p>
+     „Nie! Teraz prišiel rad na mladé. Maj sa na pozore!“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     289
+    </tei:p>
+    <tei:p>
+     „Tak jako snáď i vy. I vy nemáte kontrakt s Pánom Bohom,
+          ani smrť ste si do árendy nevzali.“
+    </tei:p>
+    <tei:p>
+     „ Vieš, ja také hubaté rád zahrabávam.“
+    </tei:p>
+    <tei:p>
+     „Ani vy ste v poslednom rade nestáli, keď jazyky rozdávali.“
+    </tei:p>
+    <tei:p>
+     „Ale ty si predsa prednejšie stála.“
+    </tei:p>
+    <tei:p>
+     „Chvála Bohu! — Ale ozaj, povedzte mi, kto zomrel?“
+    </tei:p>
+    <tei:p>
+     „Annička Chodurových.“
+    </tei:p>
+    <tei:p>
+     „Ale choďte,“ povie a namrzeno sberala sa ďalej, „s vami
+          človek nič nepokoná.“
+    </tei:p>
+    <tei:p>
+     »„Pokoná, nepokoná,“ skočí jej hrobár do reči: „ja ti len to
+          hovorím, že sa s ňou viacej nebudeš shovárať.“
+    </tei:p>
+    <tei:p>
+     „Ale veď ráno som s ňou bola na rúbaniciach.“
+    </tei:p>
+    <tei:p>
+     „Keď si bola už nebudeš.“
+    </tei:p>
+    <tei:p>
+     „Ale, prosím vás, nestrašte ma: povedzte mi pravdu.“
+    </tei:p>
+    <tei:p>
+     „A čo sa ti mám dušiť, keď nechceš veriť? Choď ta a pre-
+          svedčíš sa.“
+    </tei:p>
+    <tei:p>
+     „Pre Boha, taká mladá!“
+    </tei:p>
+    <tei:p>
+     „Tak! Starý musí a mladému sa pritrafí,“ povie hrobár a
+          spúšťa sa do jamy, aby, čo zameškal, to mohol dohoniť.
+    </tei:p>
+    <tei:p>
+     „No, pracujte s Pánom Bohom!“
+    </tei:p>
+    <tei:p>
+     „Pán Boh ťa sprevoď, Zuzka!“ privolal odchádzajúcej žene
+          hrobár z jamy.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Strýc Polach a strýc Hleka, ináčej i Púdelka menovaný, boly
+          osoby známe po celých Vrbovcach, v mestečku i na kopanicach.
+          A jakožeby aj neboli bývali známymi, keď trojakú službu zastávali.
+          Oni boli: zvonármi, hrobármi i hlásnikmi. Vo dne teda i v noci
+          zaneprázdnení. Neposlúchaly-li kde deti, len jim povedali, že strýc
+          Polach prijde pre ne, a oni hneď utíchly. A jakoby aj neutíchly,
+          veď strýc Polach aj so strýcom Hlekom pred každými výročitými
+          slávnosťami chodievali z dom" do domu, vinšujúc občanom všetko
+          dobré do smrti a po smrti kráľovstvo nebeské.
+    </tei:p>
+    <tei:p>
+     Keď už svoje blahoželanie ukončili, kde boly deti v dome, tu
+          sa obyčajne pýtali, či rady poslúchajú a či sa modlievajú? Poslušné
+          pochválili, neposlušné postrašili mechom, ktorý majúc pohotove
+          hneď i otvorili, že neposlušné deti do neho poberú. Deti si to
+          dobre zapamätaly a. po druhýkráť nečakaly viac blahoželateľov
+          s. mechom, ale zpozorujúc jich, bola-li zima: na peci alebo v zá-
+          pecku hľadely sa ukryť, bolo-li teplo, bolo jich plné humná, odkiaľ
+          pokradomky vyzeraly, skoro-li sa vzdialia jích postrašitelia.
+    </tei:p>
+    <tei:p>
+     Starý Polach, kto ho raz videl v živote, ten sa i pamätá na
+          neho. Jeho vysokú, chudú, kostnatú postavu, počiernu tvár, hlboko,
+          vpadlé oči, a keď sa usmial, tie jeho nie najmenšie oceľové zuby,
+          nebola žiadna ťažkosť si zapamätať, Ačkoľvek mie veľmi statkami
+          nadaný, bol predsa dobrého humoru, ktorým častokráť i vyššieho
+          stavu ľudí vedel dobre zabaviť, obzvlášte keď šeplavého Marka,
+          židáka z pod kostola, v jeho slovenčine predstavoval.
+    </tei:p>
+    <tei:p>
+     19%
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     a
+          290
+    </tei:p>
+    <tei:p>
+     Jeho kamarát Hleka, menšej postavy, plavej pleti, v obličaji
+          nažltkastej barvy, s malými červenými obstrihanými bajúzmi, ma-
+          ličkými načervenalými boľavými očami, bol obľúbeným odberateľom
+          pri pohraboch. I od toho najmenšieho krstniatka sa vedel odobrať
+          a celý zástup do plaču priviesť.
+    </tei:p>
+    <tei:p>
+     Bolo práve po pohrabe Anničky Chodurových. Kňazi prežehna-
+          júc hrob odišli. Pohrabný zástup zostal ešte na cintoríne, kým
+          hrobári jako strechu pekne urovnali hrob Aničkin. AJe nielen preto,
+          ale aby poču! odobierku Hlekovu, jako sa bude lúčiť s pozostalou
+          rodinou, menovite s mladým jej manželom, za „ktorého nebožká
+          nemala žiadnej vôle sa vydať a jako sa všeobecne hovorilo, že ju
+          len nahnali za neho.
+    </tei:p>
+    <tei:p>
+     Keď už boli s uhladením hrobu hotoví, nastalo ticho. Hleka
+          sa odoberal menom nebožky. Plakalo všetko. A keď už aj pohrabné
+          shromaždenče a všetkých popripomínal a povedel svoje „amen“ :
+          nastalo prisviedčanie hláv, lebo nikoho z prítomných nevynechal,
+          aby ho nebol pripomenul. Nastalo chválenie.
+    </tei:p>
+    <tei:p>
+     „Ej, tento človek mal byť predsa kňazom,“ povie ktosi.
+    </tei:p>
+    <tei:p>
+     „Veru ten to vie,“ poznamenal jeho súsed, „ani každý kaplán
+          by to tak nevyviedol.“
+    </tei:p>
+    <tei:p>
+     „Čo?“ skočí mu Zuzka Varechovie do reči, bola to tá samá,
+          ktorú už známe z rozpravy pri cintoríne, „čo hovoríte, že kaplán?
+          ba ani farár by to už lepšie nemohol spraviť. Veď div že mi srdce
+          nepuklo od žalosti, keď hovoril.“
+    </tei:p>
+    <tei:p>
+     „A čo ešte až potom, keď si tej frndžalice uchlipne, vtedy by
+          si ho mala počuť!“ privolá jej zpoza chrbta jej muž.
+    </tei:p>
+    <tei:p>
+     Zuzka sklopila oči a nehovorila nič viacej, s mužom sa do-
+          hadovať a to ešte pred toľkými, to sa nechcela. Bála sa snáď,
+          že keď bol kostolníkom, žeby ľahko bol na ňu požaloval vo fare,
+          a preto radšej prehltla slinu a s ňou na jazyku už-už majúcu od-
+          poveď, ktorú by doma istotne nebola zamlčala.
+    </tei:p>
+    <tei:p>
+     „Poznať kostolníka,“ pohodí posmešne Jano Halena, inokedy
+          mlčí, ale keď o kňazoch príde reč, jakoby ho šidlom bodol, odrazu
+          mu to jazyk rozviaže.
+    </tei:p>
+    <tei:p>
+     » Veď musím,“ odpovie kostolník ešte posmešnejším tónom,
+          nčožeby si len počali, keby som ja jich nezastal.“
+    </tei:p>
+    <tei:p>
+     „No, len si daj pozor, ešte si ani ty čo kostolník nezomrel!“
+          rečie popúdený Halena.
+    </tei:p>
+    <tei:p>
+     „Pravdu máte. Veď mi už povedali pán farár, že si vás vy-
+          volia za kostolníka.“
+    </tei:p>
+    <tei:p>
+     „Nerob posmechy, ja mám z čoho vyžiť — ja, ja nie som
+          kňazov slulia, ja, ja som ho volil za kňaza — či to vieš? ja na
+          kňaza platím.“
+    </tei:p>
+    <tei:p>
+     „No veď je tak! Ale už je darmo, vy po mojej smrti musíte
+          byť kostolníkom.“
+    </tei:p>
+    <tei:p>
+     „Veru je tak! Strýk Halena je znamenitý chlap, jemu by to
+          pristalo, to som si ja už dávno myslel,“ rečie Polach, ktorý sa ku
+          dohadujúcim bol priblížil.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     A
+          291
+    </tei:p>
+    <tei:p>
+     „No nech som! Aj kostolník je statočný. človek,“ odpovie ne-
+          vrlo Halena.
+    </tei:p>
+    <tei:p>
+     „Tak je, to ja dávno hovorím,“ prisviedča mu Varecha.
+    </tei:p>
+    <tei:p>
+     „Tak Je, tak,“ hovorí i Polach. „Pre kostolníctvo nevyplatí sa
+          vám rôzniť, na farára to už ani jeden z vás nedovedie — ale po
+          našej smrti hrobármi môžte byť.“
+    </tei:p>
+    <tei:p>
+     „No nech vás len Pán Boh živí,“ povedia odrazu Varecha
+          s Halenom: „nezávidia vám vášho povolania.“
+    </tei:p>
+    <tei:p>
+     Tu však už stáli pred domom Chodurových, všetci boli po-
+          zvaní na kar. Bola by to bývala neúcta, keby čo len na okamženie
+          neboli sa zastavili. Kostolník Halena i oba hrobári vnišli do otvore-
+          ného domu, Zuzka ale ponáhľala sa domov.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Keď sa rozlúčila Zuzka Varechovie s mužom a ostatnými, ktorí
+          vnišli k Chodurom, tak sa zdalo, že sa opravdu ponáhľa domov.
+          Prešla jeden dva domy. Tu však nemohla odolať, aby sa, neobzrela
+          7) I zvrtla teda hlavou, a i to len v najväčšej rýchlosti, aby
+          videla, či kto za ňou ide. I videla viacej žien, ale nezdalo sa jej,
+          žeby jich poznala. Nezdalo sa jej, že sa za ňou ponáhľajú. I myslela
+          si, ktoré to môžu byť a či jich má dočkať? A zase sa obzrela. Tu
+          však už ztíšila razom svoj krok, jako čoby nad niečim rozmýšľala.
+    </tei:p>
+    <tei:p>
+     Ženy, ktoré sa v pravde za Zuzkou zdaly ponáhľať, už ju po-
+          čaly doháňať, ale ona, ačkoľvek krok ztíšila, predsa sa viacej ne-
+          obzrela, až tu odrazu zavolá za ňou jej suseda Žemličková :
+    </tei:p>
+    <tei:p>
+     „Ale, Zuzka!“
+    </tei:p>
+    <tei:p>
+     Zuzka sa obzrela. „Čože chceš?“
+    </tei:p>
+    <tei:p>
+     „Čo sa tak ponáhľaš?“
+    </tei:p>
+    <tei:p>
+     „Bude večer, musím.“
+    </tei:p>
+    <tei:p>
+     „Nepotrebuješ večeru chystať, muž ti i ták na kare.“
+    </tei:p>
+    <tei:p>
+     „Nuž a ja mám hladovať?“
+    </tei:p>
+    <tei:p>
+     Zuzka postála, kým neprišly ostatnie ženy. Potom idúc spolu
+          nebolo jim ťažko započať rozhovor. A že rozhovor jejich krútil sa,
+          okolo smrti a pohrabu pochovanej práve Anničky, netreba nám ani
+          dokladať. |
+    </tei:p>
+    <tei:p>
+     „Ale, Zuzka,“ povie Beta Horniakovie, „všimla sis" ty Aničky,
+          keď bola na postlaní ?“
+    </tei:p>
+    <tei:p>
+     „Či som si všimla?“ rečie cele zadivená Zuzka Varechovie :
+          „nuž ktože tam bol, aby si ju nebol povšimnul, pravda, že som si
+          všimla.“
+    </tei:p>
+    <tei:p>
+     „U bohatých ludí je si vždycky čoho všimnúť,“ poznamenala
+          Žemličková.
+    </tei:p>
+    <tei:p>
+     „Mne prichodila, jako čoby len spala,“ povie Horniakovie.
+    </tei:p>
+    <tei:p>
+     „Aj mne, aj mne!“ prisviedčaly ostatnie.
+    </tei:p>
+    <tei:p>
+     „Ba či jej nechali i tú striebornú reťaz, tie gombíky a prstene?“
+          hovorí tázavým pohľadom Žemličková , „musela som práve odísť, keď
+          ju do truhly kládli.“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     V O a
+    </tei:p>
+    <tei:p>
+     "a
+    </tei:p>
+    <tei:p>
+     „Pravda, že jej nechali,“ rečie s dôrazom Zuzka, „veru Chu-
+          doroviem záleží čo na tom. Majú oni toho ešte dosť aj okrem toho.
+          Mne ale len to je nápadným, že tak chytro zomrela. Mne, mne sa
+          len tak zdá...“, prv však, než by bola to vyriekla, čo si vlastne
+          myslela, poobzerala sa, či ju ozaj niekto nepovolaný nepočuje, „že
+          sa jej od žiaľu srdce puklo. Ona musela predsa len toho Šafárika
+          rada vidieť a nemohla to sniesť, že jej nedovolili za neho ísť.“
+    </tei:p>
+    <tei:p>
+     „Kto zná, kto zná,“ prisviedčali Zuzke ostatnie.
+    </tei:p>
+    <tei:p>
+     ZAlebo či ona nebola len zdanlive mrtvou, keď tak cele ne-
+          premenená vyzerala?“
+    </tei:p>
+    <tei:p>
+     »Ba koho vytiahne zase mladý vdovec?“ rečie Horniaéka.
+    </tei:p>
+    <tei:p>
+     "Ba i jej tle prstene s tou reťazou niekto neukradne?“ nad-
+          hodí jej Žemličková.
+    </tei:p>
+    <tei:p>
+     „Ba ktoby mal toľkej smelosti v noci ta ísť, bo vo dne to aj
+          tak by nemohol,“ hovorí Zuzka. „Mňa len to Nepokojí, jestli by
+          chúdiatko nebola zomrela. Jaj, až mňa tak mi prechodí, keď si
+          na to len pomyslím, keby ju tak, nedaj Bože, živú boli pochovali
+          a ona sa tak prebudila...“
+    </tei:p>
+    <tei:p>
+     „Jaj, nerozprávaj, Zuzka!“ pretrhne jej reč Horniačka.
+    </tei:p>
+    <tei:p>
+     „Ale čo myslíte na také niečí! Mňa viacej to nepokojí, že
+          nebožka nebude mať v hrobe pokoja preto, že ju tak bohato vy-
+          strojili.“
+    </tei:p>
+    <tei:p>
+     „No, to vás veru nemusí nepokojiť. Taký opovážlivec sa u nás
+          sotva nájde. A keby sa aj našiel, tajnosťou by to aj tak nezostalo.
+    </tei:p>
+    <tei:p>
+     ) sa pamätate, keď nebohý pán farár zomrel? Sused Mišo sa
+          stavil, že z jeho hrobu donesie veniec. Doniesol ho, ale jako po-
+          chodil?“ Ň
+    </tei:p>
+    <tei:p>
+     „Zle, lebo ho odtedy nemáš , ľudia hovoria, že kdesi zahynul,“
+          poznamenala Žemličková.
+    </tei:p>
+    <tei:p>
+     »„ Veru zle,“ pokračuje Zuzka, „lebo, keď už ten veniec niesol,
+          tak sa mu zdalo, že tí mftvi za ním utekajú, vlasy mu jako klince
+          stály na hlave a pot mu vystúpil po celom tele, jakoby ho bol do
+          vody zamočil. A keď už z cintorína von vychádzal, div že nepadol
+          hneď mrtvý na zem, pocítil, jakoby ho niekto z obidvoch strán
+          vyfliaskal. „Prijdúc na dvor, hovoria, že čelom tak
+          neď na polomrtvý zostaľ ležať. Ostatne,
+          to niečo inšieho nebolo! Na druhý deň
+          odišiel preč z domu a od tých čias ho žiaden viac nevidel. S mrtvými
+          majme pokoj. Nechajme i našu Aničku, nech spočíva s Pánom
+          Bohom v pokoji. Pán Boh jej daj ľahké spočívanie a veselé z mrtvých
+          vstanie!“
+    </tei:p>
+    <tei:p>
+     „Pán Boh daj! Pán Boh daj!“ želali pochovanej i ostatnie. A
+          na jích želanie, jakoby svoje „amen“ chcel povedať, ozval sa z väže
+          na pokoj volajúci večierny hlas zvona.
+    </tei:p>
+    <tei:p>
+     Ženičky, jakoby sa boly zvona naľakaly, každá pospiechala
+          domov. Zuzka bola už doma, bo pred jejím domom sa boly rozišly.
+    </tei:p>
+    <tei:p>
+     laj fak aa
+     <tei:pb/>
+     snád VEL o IA U Ju
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Bolo to rokom, alebo i viacej predtým. Itelligencia vrbovčian-
+          ska strojila sa urobiť výlet. Celá inteligencia vrbovčianska pozo-
+          stávala vtedy z dvoch farárov, dvoch učiteľov a notára s jejich
+          domácimi. A síce bolo to ktorýsi deň v auguste. V tomto mesiaci
+          že vraj majú byť raci najtučnejší. Intelligencia vrbovčianska, uspo-
+          riadala si teda rakanciu. A poneváč boly prázdniny, nechybovalo
+          i na niekoľko študentov. Strýko Polach tiež nechyboval, bo ktoby
+          bol ináčej mech s rakmi nosil?
+    </tei:p>
+    <tei:p>
+     Celá spoločnosť, pozostávajúca asi z dvanástich osôb, rozložila
+          sa táborom neďaleko zákopov z časov Rákócovských nepokojov,
+          ktoré viac menej až po dnes ešte veľmi dobre poznať.
+    </tei:p>
+    <tei:p>
+     „Tam hľa na tom vrchu,“ hovoril pán farár, „stáli Rákócovci
+          a tu sa ošancovali Nemci. Tam na onom vyvýšenom štvorhrane
+          uprostred zákopov nachodil sa štáb. Tu bola. nemecká vojenská
+          rada práve pri obede, keď odrazu Rákócovci vypálená guľa padla
+          jin prosto do misy.“
+    </tei:p>
+    <tei:p>
+     „Bolo po apetíte!“ poznamenal notár,
+    </tei:p>
+    <tei:p>
+     „Nemci ale predsa mali rozohnať Rákócovcov,“ pokračoval
+          farár, ukazujúc kade jich zaobišli cez hory, tak že jich Rákácovci
+          nezpozorovali, až keď jim uderili do boka, Rákócovci museli ustupo-
+          vať hore do vrchu. Pri svojom ustupovaní utratili i jednoho z vod-
+          cov, jakéhosi Šternberka, a odtedy sa i tento víšok tam menuje
+          Štimberk.“ J Š
+    </tei:p>
+    <tei:p>
+     „Kto zná ale, či je to pravda, keď to nenie na písme?“ žarto-
+          val notár, „dnes má len to platnosť, čo je na písme.“
+    </tei:p>
+    <tei:p>
+     „Za čo som kúpil, za to predávam,“ vetil farár.
+    </tei:p>
+    <tei:p>
+     „No, to by ešte nebolo také. Štimberk, Šternber« majú jakú
+          takú podobnosť. Ale ja som čítal nedávno kritiku na akademický
+          slovník o pôvode slova kaplán. Čo ráčite mysleť predsa, odkiaľ ho
+          odvodia ?
+    </tei:p>
+    <tei:p>
+     „0d capella, odkiaľže inád?«
+    </tei:p>
+    <tei:p>
+     „Nie!“ usmieva sa notár.
+    </tei:p>
+    <tei:p>
+     „snáď nielen od „capra?“ A
+    </tei:p>
+    <tei:p>
+     „To by, rogo, derogovalo. Má to byť maďarské spolusložené
+          slovo, a síce zo slovesa „kapni“ a „leány,“ hogy rajta kapnak a
+          leúnyok, to jest ináčej, že sa do mladých kaplánov dievčatá za-
+          Tubuj
+    </tei:p>
+    <tei:p>
+     á etymologia možná je len výlučne u maďarských učencov,
+          ktorí by nedbali celý svet na svoje kopyto natiahnuť jako švec
+          kožu. To je práve tak, juko tí dvaja učňovia na bystrickej prome-
+          náde. Zastali si pred gymnasiálnou budovou, na ktorej nachodí sa
+          nápis: „Musis dicarit.“
+    </tei:p>
+    <tei:p>
+     „Ci to prečítaš?“ pýta sa jeden druhého.
+    </tei:p>
+    <tei:p>
+     „Pravdaže!“ šlabikujúc odpovedá druhý.
+    </tei:p>
+    <tei:p>
+     " „A čo to tam stojí ?“
+          „Čo? To prvé je musíš — a to druhé — ty kávu piť.“
+    </tei:p>
+    <tei:p>
+     nl la
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     - elas.
+            294
+    </tei:p>
+    <tei:p>
+     Ďalší rozhovor etymologujúcich pánov bol pretrhnutý volaním
+            jich k svačine. Polach zostal varovať rakov, ostatní posadili sa
+            kolo nastoleného piva, pražených kurčat a hádajte, čo ešte bolo ku
+            pivcu? Neuhádnete-li, nuž vám poviem, že hnilý syr. Kladiem naň
+            váhu, bo aj on v našej poviestke hrá svoju nemalú úlohu.
+    </tei:p>
+    <tei:p>
+     Keď sa kurčatá minuly, pán rektor ponúkal do syra, hovoriac:
+            „Caseus et panis sunt optima fercula sanis.“ Placeat vobis, a pri
+            pive: „Salus Petko, vypi všetko!“
+    </tei:p>
+    <tei:p>
+     No nebolo treba veľa ponuku. Prinesené zásoby piva i potravín
+            sa minuly. Minula sa i miska smotankového syra, ktorým sa mly-
+            nárka zo Zajíčkového mlyna výletníkom zavďačila. Nepodbali ani
+            to, že pivo a smotana sa dobre nesnášajú. Dobrý žalúdok všetko
+            znesie. Študenti sa poďakovali a smotankový syr zapijúc poslednoti +
+            flaškou plzeňského, mlynárke zaspievali:
+    </tei:p>
+    <tei:p>
+     „Poniže mlyna
+            Hustá vrbina,
+            Kde je tá mlynárka,
+            Čo ma ľúbila.“
+    </tei:p>
+    <tei:p>
+     Pán rektor dovádivých študentov škádliac hovorí:
+            „Hej. páni domini studiosi, vy ste múdri páni!
+            „Pravda že sme!“ odpovedia títo sebavedome.
+            load Povedzte mi teda, jako je hnilý syr po maďarsky.
+            „Túró
+    </tei:p>
+    <tei:p>
+     „Túró je tvaroh, ale ja chcem vedeť, jako je hnilý syr, domini
+            studiosi.“
+    </tei:p>
+    <tei:p>
+     Študenti mlčali, pozerajúc v rozpakoch jeden na druhého.
+    </tei:p>
+    <tei:p>
+     „Maďari nevedia, čo je to hmilý syr, oni nemajú na to slova,“
+            povie jeden, len aby sa mohli z klepca dostať a. nezostali zahan-
+            bení. A keď sa už niektorí z nich strojili mienku svojho kamaráta
+            celým ohňom zastávať, zavolá strýc Polach, že chytil velikánskeho
+            raka, aby išli sa podívať. Všetci jakoby na kommando hrnuli sa
+            ku Polachovi, ktory miesto raka vytiahnul starý krpec z vody.
+    </tei:p>
+    <tei:p>
+     Študenti, že jich oklamal, vyhrážali sa mu, že toho musí on
+            zjiesť v omáčke so šalátom.
+    </tei:p>
+    <tei:p>
+     Smiali sa všetci, ešte aj to zapádajúce slniečko zdalo sa usmie-
+            vať, a mesiačik, ten div sa za boky nechytal od smiechu. A ti"
+            premilí raci v celých rákošoch liezli na ražienky, z ktorých sa ami
+            hnúť nemohli, čo boli rozosmiate: tie vám len tak od radosti chvo-
+            stíkom trepotali.
+    </tei:p>
+    <tei:p>
+     Treba však bolo už domov ísť. Malému Dankovi pána učiteľa
+            spravili z prúta koňa, lebo sa žaloval, že ho nohy bolia a chcel,
+            aby ho apuško odniesol. Ť
+    </tei:p>
+    <tei:p>
+     Fígeľ sa vydaril. Danko sadol na dreveného koňa, vzal prút
+            do jednej a koňa do druhej ruky a uháňal pred všetkými, jakoby
+            pálil — len sa tak za ním prášilo: nohy ho už nebolely.
+    </tei:p>
+    <tei:p>
+     V Šibenikách, neďaleko mestečka, stretnuli sa výletníci s nie-
+            koľko židovskými bocheri, ktorí jich pozdravili úradným „alá
+            szolgája!“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Aha, počkaj! napadne čosi jednomu zo študentov a prihovorí
+            židovským študentom:
+    </tei:p>
+    <tei:p>
+     „Amicenko, nech mi povedia, jako je po maďarsky „hnilý syr?“
+    </tei:p>
+    <tei:p>
+     „Wie heisst?“ povie židák, celá ale spoločnosť dala sa do hlasi-
+            tého smiechu.
+    </tei:p>
+    <tei:p>
+     „Ano, hnilý syr, jako je po maďarsky?“
+    </tei:p>
+    <tei:p>
+     „Hniles syres?“ rečie jakoby rozmýšľal náš židovský mudrc a
+            celá spoločnosť vypukla ešte vo väčší smiech jako predtým, ob-
+            zvlášte keď ktosi poznamenal, že čo sa už toľko pýta, hnilý syr je
+            po maďarsky hniles syres.
+    </tei:p>
+    <tei:p>
+     Zidáčikovia, mysliac si, že sa jim smejú, protestovali, že si
+            oni vyprosia, aby si kto z nich Posol strojil, lebo že oni nie sú
+            punslávi.
+    </tei:p>
+    <tei:p>
+     „Ale židáci,“ povie ktosi.
+    </tei:p>
+    <tei:p>
+     nMagyarok vagvunk!“ bránia sa židáci.
+    </tei:p>
+    <tei:p>
+     „Hniles syres!“ zavolal ešte jako na dovfšenie celého deju za
+            spoločnosťou idúci s rakami strýc Polach, čo našich židáčkov ešte
+            najväčšmi popúdilo. I začali sa vyhrážať, ale strýc Polach urobil
+            s nimi krátku pravotu: rozbehnul sa za nimi i s rakami a čosi
+            kamsi jich bolo plný potok.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Raci sa dovárali. Stôl bol prichystaný, len uteráčky chybovaly.
+          Domácu paňu zastupoval jeden zo študentov, kým druhý miesto
+          domového priprával s celou horlivosťou a zaujatosťou točku do
+          plzeňského súdka. Už ale i tá bola vrazená, točené pivko sa vý-
+          borne penilo, dovarení raci boli už odcedení a na misu vysypaní,
+          ktorá len tak sa žiarila od nich, i uteráčky už boly popri tanieroch
+          poukladané. Spoločnosť, sa usádzala za stôl. Započali rozvíňať ute-
+          ráčky, aby si šaty nepošpinili. Každý však miesto jednoho mal dva
+          popri svojom tanieri. Ale málo kto si toho povšímnul, a tí, čo si
+          snáď wšímli, mlčali. Až odrazu sám domový siahne po uteráčku,
+          rozvinie a vidí, že sú dve, ktoré nepatria na stôl. I sobral hneď
+          všetky a zamenil druhými, a keď sa ho niektorí pýtali, prečo to
+          robí, hovoril, že sú premenené a že tie nepatria teraz na stôl.
+          Ostatne toho všetkého málo kto si všímal, oči všetkých pásly sa
+          nie na uteráčkoch, ale na rakoch.
+    </tei:p>
+    <tei:p>
+     Že medzi vtipmi, zábavou a žartami i „hniles syres“ bol na
+          poriadku, rozumie sa samo sebou.
+    </tei:p>
+    <tei:p>
+     Jako ale hnilý syr svoju vôňu, tak židák nemôže zatajiť svoju
+          prírodu. Vôňa sa šírila i za Vrbovce. Z hnilého syra povstal hnilý
+          panslavismus, o ktorom sa rozpísali v „Neutra-Trenchiner Zeitung-u,“
+          »Nyitra Kôzlôny-u,“ „Nemzetór-u,“ ba i veliký denník „Debreczen“
+          nebol ušetrený. Všade sa opisovali schôdzky, do ktorých schodia
+          sa panslávi a držia búrlivé reči. Vláda bola vyzývaná, aby to ne-
+          trpela, slúžnovcom bolo naložené, aby pozor dali, notárovi, aby
+          0 každom hnutí panslávov, nečakajúc ani na obrat pošty, ale hneď
+          skrze náhleho posla zprávy podával.
+    </tei:p>
+    <tei:p>
+     tá
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     AT a a o ina
+          K 296 o
+    </tei:p>
+    <tei:p>
+     Ba ešte i pán farár dostal úradný, dopis, týkajúci sa, rozširo-
+          vania panslavismu medzi šesťročnými, školu navštevujúcimi dietkami,
+          ktoré sa ešte len abecedu začali učiť, i naloženo mu prísne, aby
+          toto zlo svojím zakročením prekazil a hydre panslavismu na hlavu
+          stúpil, ináče že celá školská stolica padne pod vyšetrovanie i pod
+          prísnu zákonom vymeranú pokutu.
+    </tei:p>
+    <tei:p>
+     A nezostalo len pri pohrození, ale prišlo i vyšetrovanie, lebo
+          malý, päťročný Danko učiteľov peroroval na rakancii vlastinebez-
+          pečnú, revolucionárnu báseň :
+    </tei:p>
+    <tei:l>
+     „Ja som malý, ale Slovák!
+    </tei:l>
+    <tei:l>
+     Slovák s dušou i telom,
+    </tei:l>
+    <tei:l>
+     Kto Slovákov nemiluje,
+    </tei:l>
+    <tei:l>
+     Nenie mojím priateľom.“
+    </tei:l>
+    <tei:p>
+     S inkvisíciou, ktorá aj tak nebola posledná, nechceme núdiť
+          ďalej našich čitateľov. My len poukázať sme chceli v našej roz-
+          prave na úrodnosť pôdy nášho milého Uhorska. Že v hnilom sy!
+          isté zvieratka sa radi zaliahnu, znali čitatelia moji dávno, ale žeby
+          sa z neho i vlasti nebezpečný panslavismus vykluvať mohol, to
+          iste žiaden nevedel. (
+    </tei:p>
+    <tei:p>
+     Na Vrbovcach v najnovšom čase založená je štátna škola.
+          V čistoslovenskom mestečku škola s vyučujúcou rečou maďarskou,
+          do ktorej žiadne kresťanské dieťa, nerozumiac maďarsky, nechodí.
+          Kresťania musia vydržiavať bohatým židovským spoluobčanom školu,
+          Teraz snáď už budú vedieť i Vrbovčania, jako je hnilý syr po
+          maďarsky.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VI.
+    </tei:head>
+    <tei:p>
+     Dolu Výpustou k Rúbaniciam kráča náš známy strýk Halena.
+          V tvári je zamračený a nezdá sa byť jakosi dobrej vôle. A jakoby
+          bol dobrej vôle, keď mu hrozia exekúciou A keby to bola exekúcia
+          za kráľovskú daň, alebo inakšiu dlžobu, z toho by si nič nerobil,
+          ale exekúcia na cirkev, kto to kedysi slýchal? Strýk Halena ide
+          teda na radu k pánu slúžnemu, či to on predsa musí platiť? Akoby
+          to bola nejnká maličkosť, ale za pár rokov sa toho nasbieralo, veď
+          je to už skoro BO zlatých. Už si vystavil i dom na Moravskej
+          stráne, aby len plateniu vyhnúť mohol. A začo žeby mal platiť na
+          tú cirkev, veď do kostola nechodí, narodí-li sa mu kto, alebo
+          zomre-li mu kto, zaplatí farárovi viac jako ktokoľvek druhý, veď
+          má odkiaľ. Cirkve ale nepotrebuje práve tak, jako jeho role a
+          domy farára nepotrebujú.
+    </tei:p>
+    <tei:p>
+     Tymito myšlienkami zabratý stúpa chodníkom dolu lúkami.
+          Noviny vrbovčianske, tie ho nezaujímajú. A predsa sú to dôležité,
+          sensačné noviny. A jakoby i neboly, veď o Aničke Chodurovie,
+          ktorú nedávno pochovali, všeobecne sa hovorí, že nebola mrtvá, že
+          ju za živa pochovali.
+    </tei:p>
+    <tei:p>
+     Išiel chýr jakoby bleskom po mestečku, ba i po celom okolí.
+          Súseda Žemličková mala veľké zadosťučinenie, veď sa hovorilo, že
+    </tei:p>
+    <tei:p>
+     sa) U a TELU,
+    </tei:p>
+    <tei:p>
+     ZC  ITY
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     zlodeji ulakomiac sa na zlaté prstene, v noci jej hrob otvorili,
+            prstene a striebornú reťaz z hrdla ukradli, zamretá ale že pre-
+            citnula. Potom že išla k svojmu mužovi, a keď ju ten nechcel
+            pustiť do domu, odobrala sa k svojmu bývalému milencovi a s tým
+            že sa ztratila.
+    </tei:p>
+    <tei:p>
+     Chýr tento dostal sa k sluchu i pána služnodvorského. Nič
+            mu nemohlo byť milším, jako že práve strýk Halena zavítal do
+            jeho pisárne.
+    </tei:p>
+    <tei:p>
+     „Halena, čo mi nesiete nového?“ pýta sa ho slúžny, sotva sa
+            tento vo dverach octnul.
+    </tei:p>
+    <tei:p>
+     „A veru nič dobrého, pán veľkomožný.“
+    </tei:p>
+    <tei:p>
+     „Teda tak?“ hovorí služný, nedajúc milému Halenovi ani
+            k slovu prísť, aby svoju sťažnosť bol mohol predniesť, „je to
+            pravda, že u vás ženu vykopali?“
+    </tei:p>
+    <tei:p>
+     „Počul som to, pán veľkomožný.“
+    </tei:p>
+    <tei:p>
+     „Teda by to predsa pravda bola?“ a
+    </tei:p>
+    <tei:p>
+     „Hovoria o tom všeobecne. Ale to sú len kňázi na príčine.“
+    </tei:p>
+    <tei:p>
+     „A prečo tí?“ zpytuje sa služný.
+    </tei:p>
+    <tei:p>
+     „Mali ju mrtvú pochovať, a nebol by nikto o tom vedel.“
+    </tei:p>
+    <tei:p>
+     » Teda bola živá?“
+    </tei:p>
+    <tei:p>
+     „Ja neviem , ale tak sa hovorí.“
+    </tei:p>
+    <tei:p>
+     „No však sa budú mať, keď sa to dokáže.“
+    </tei:p>
+    <tei:p>
+     „Ja by som jim toho Goprial, aby jich tiež trocha vyeksekvo-
+            vali, jako oni mňa. Prosím ponížene pána veľkomožného, nech
+            mi ráča poradiť niečo, veď ma dali do eksekúcie.“
+    </tei:p>
+    <tei:p>
+     „A prečo by vás eksekvovali?“
+    </tei:p>
+    <tei:p>
+     „Že nechcem na farára platiť.“
+    </tei:p>
+    <tei:p>
+     „No, ten váš farár! Vy by ste museli platiť na neho, keby
+            vám len po uhorsky chcel slúžiť.“
+    </tei:p>
+    <tei:p>
+     „Veď to, pán veľkomožný, i ja by som rád platil, ale on nám
+            vždy len po slovensky káže. A po slovensky vedia už aj moje deti,
+            ale po uhorsky nie.“
+    </tei:p>
+    <tei:p>
+     „No, však uvidíme, Halena, čo sa dá za vás urobiť. Ale po-
+            sielate vy vaše deti do tej novej uhorskej školy?“
+    </tei:p>
+    <tei:p>
+     „A čoby som posielal, keď tam len samí židia chodia. Veď
+            tam z našich detí len jedno chodilo, a i o tom povedajú, že sa
+            ničomu nenaučilo. Ešte i ten Otčenáš že ho doma museli učiť.“
+    </tei:p>
+    <tei:p>
+     „No, viete, veď tam sa neučí modliť, ale sa uhorsky naučí.
+            A, viete, to nám je veľmi potrebné, bo keď dostanete od nás uhor-
+            skú citáciu, vy jej nerozumiete, ale vaše deti budú tomu už roz-
+            umeť. No, či to nebude dobre?“ Ď
+    </tei:p>
+    <tei:p>
+     „Ale, čo je po tom, pán veľkomožný , predtým, keď sme ne-
+            "mecké citácie dostávali, každý židák vedel mi povedať, čo tam
+            stojí: dnes ani tí to nevedia čítať. Do toho sa ja nestarám, len
+            keby mi poradili skrz tú eksekúciu, veď mi chcú junce predať.“
+    </tei:p>
+    <tei:p>
+     „Vidíte, Halena, keby ste vaše deti do uhorskej školy posie-
+            lali, to by celkom inakšie bolo, ani by ste sa radiť nemuseli. Uhria
+            sú múdrejší ľudia jako Slováci. Teraz vám však nemôžem nič po-
+    </tei:p>
+    <tei:p>
+     i
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     vedať, ani poradiť, bo sa musím ponáhľať na inkvisíciu skrz tú
+            vykopanú ženu u vás.
+    </tei:p>
+    <tei:p>
+     „Teda mi nič neporadia?“
+    </tei:p>
+    <tei:p>
+     „Druhýkráť, Halena môj, teraz sa musím ponáhľať. Dnes bu-
+            dem i tak u vás. Môžte mi to pripomenúť.“
+    </tei:p>
+    <tei:p>
+     Pán služný dal zapriahnuť do koča a Halena s neporídzením
+            vrátiť sa domov. Vychádzajúc z pisárne služného, šomral si čosi
+            popod nos o uhorskej terajšej pravde. Pod bránou sa ho klosi
+            opýtal, čo vykonal.
+    </tei:p>
+    <tei:p>
+     Odpoveď Halenova bola krátka: „Frašták prišiel, Frašták išiel.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VII.
+    </tei:head>
+    <tei:p>
+     Pán služný sadol do koča, kočiš šibnul do koní, ktoré sopnúc
+          sa. podrobčili si na mieste, potom ale divokou rýchlosťou uháňali
+          k Vrbovcam. Služný tešil sa na dobrý výsledok svojho vyšetrovania
+          a rozmýšľal, jakoby celej veci mohol dať náter panslavismu.
+    </tei:p>
+    <tei:p>
+     Farár pochoval tú ženu, pomyslel si služný, nebude sa môcť
+          vyzuť z vyšetrovania. Posledný úradný dopis z farského úradu bol
+          v reči slovenskej, bárs mu to služný bol zakázal, nariadiac mu,
+          aby všetky svoje dopisy len v maďarskej reči doposielal. Farár
+          neuposlechnul. Slovenský dopis dôkaz panslavismu, pochovanie žen-
+          skej mrtvoly prečin. Pauslavismus farára musí príkladne potresta-
+          ným byť, a to najmenej sosadením z úradu.
+    </tei:p>
+    <tei:p>
+     Celý plán bol hotový. Koč zastal pred obecným domom. Pán
+          služný vystúpil z neho, a povedomý svojej úradnej moci, hrdo si
+          kráčal do kancellárie,
+    </tei:p>
+    <tei:p>
+     Čosi kamsi len tak lietali úradskí, hajtman, richtár, s liesko-
+          vými paličkami po mestečku sháňajúc svedkov cieľom vyšetrenia,
+          jako sa to stalo s tou vykopanou ženou.
+    </tei:p>
+    <tei:p>
+     Vyšetrovanie započalo sa s hrobármi a malo ukončené byť
+          s rektorom a farárom. Tí mali byť na pospas.
+    </tei:p>
+    <tei:p>
+     Prvý z predvolaných pred pána služného bol strýko Polach.
+          Pán služný, pozrúc naň svojím prísnym pohľadom, vykrútil si riedke
+          búzy, potom ale postaviac sa do služnovskej. positúry, vysokováž-
+          nym hlasom započal svoj výsluch, zpytujúc sa predvolaného:
+    </tei:p>
+    <tei:p>
+     „Jako sa vy voláte?“
+    </tei:p>
+    <tei:p>
+     „Martin, pán veľkomožný,“ rečie tázaný polousmiatou tvárou.
+    </tei:p>
+    <tei:p>
+     „Martin,“ ópakuje služný a ešte prísnejšie rečie: „a ináčej
+          jako vás volajú?“
+    </tei:p>
+    <tei:p>
+     „lnáčej mňa Polachom menujú.“
+    </tei:p>
+    <tei:p>
+     „Teda Martin Polach?“
+    </tei:p>
+    <tei:p>
+     „Ano, prosím ponížene.“
+    </tei:p>
+    <tei:p>
+     „Koľko máte rokov?“
+    </tei:p>
+    <tei:p>
+     „To ja neviem, pán veľkomožný.“
+    </tei:p>
+    <tei:p>
+     „To neviete, čo každé dieťa má vedieť?
+    </tei:p>
+    <tei:p>
+     „Nuž, keď ja som už starý a nie dieťa.“
+    </tei:p>
+    <tei:p>
+     „Mlčte!“ skočí mu do reči služný.
+    </tei:p>
+    <tei:p>
+     „Dobre, pán veľkomožný.“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     „Nuž, koľko máte rokov?“
+    </tei:p>
+    <tei:p>
+     Polach díval sa po prítomných, jakoby sa ho to ani netýkalo.
+    </tei:p>
+    <tei:p>
+     „Čo nehovoríte? Naskutku vás dám zavreť!“ rečie rozzlobený
+          inkvisítor.
+    </tei:p>
+    <tei:p>
+     „Prosím ponížene, však mi kázali mlčať.“
+    </tei:p>
+    <tei:p>
+     »„Mlčte — Polach mrdnul plecom — a hovorte to, čo sa vás
+          pýtam. Koľko máte rokov?“
+    </tei:p>
+    <tei:p>
+     „Mal by som mať toľko, čo Marek pod kostolom: on mi ho-
+          vorieva, že sme v jedných rokoch, a on že už má blízko šesť-
+          desiatich.“
+    </tei:p>
+    <tei:p>
+     „Teda šesťdesiat rokov.“
+    </tei:p>
+    <tei:p>
+     „Aha!“ :
+    </tei:p>
+    <tei:p>
+     „Tak sa to odpovedá?“
+    </tei:p>
+    <tei:p>
+     „Snáď každý jako sa naučil.“
+    </tei:p>
+    <tei:p>
+     „Takého ste povolania?“
+    </tei:p>
+    <tei:p>
+     „Jakého chcú, pán veľkomožný.“
+    </tei:p>
+    <tei:p>
+     »„Jakého chcú? Čo to za odpoveď?“
+    </tei:p>
+    <tei:p>
+     „Prosím ponížene, nech sa neráča k hnevu pozdvihnúť, ja som
+          sedliak, tkáč, hrobár, zvonár, hlásnik, alebo jako sa hovorí devato-
+          rakého remesla a desatorakej psoty.“
+    </tei:p>
+    <tei:p>
+     „Teda ste hrobárom?“
+    </tei:p>
+    <tei:p>
+     „Ano, prosím ponížene,“
+    </tei:p>
+    <tei:p>
+     „Viete, že ste obžalovaný?“
+    </tei:p>
+    <tei:p>
+     „Jích milosť snáď len žartujú?“
+    </tei:p>
+    <tei:p>
+     „Je to pravda, že ste vykopali ženu na cintoríne?“
+    </tei:p>
+    <tei:p>
+     „Je, prosím ponížene, však aj kamarát bol pri tom.“
+    </tei:p>
+    <tei:p>
+     „Teda to soznávate?“
+    </tei:p>
+    <tei:p>
+     „Čo je pravda, to musím soznať.“
+    </tei:p>
+    <tei:p>
+     „Rozprávajte teda, jako sa to stalo?“
+    </tei:p>
+    <tei:p>
+     „Nuž bolo to po pohrabe Anničky Chudorovie. Ja som vyzvonil
+          na večer a potom som trocha išiel na faru. Keď sa. zvečerilo, po-
+          bral som sa k svojmu kamarátovi. Ten sa práve čosi so ženou
+          hašteril. A keď ju už hodne počal obracať a chrbát jej natierať,
+          začala na retu volať, a keď ma uvidela, prosila mňa, „aby som ju
+          obránil. Ja som si však pomyslel, Ktožeby sa to medzi manželov
+          miešal. Čo ste si navarili, to si sami zjedzte, ešte som jej povedal,
+          aby tak veľmi nekričala. „Ale jakože nemám kričať, strýčko môj,
+          keď mňa na úmor bije: ej, pre Boha vás prosím, obráňte mňa!“
+    </tei:p>
+    <tei:p>
+     „Ale, hovorte mi o tom, jako ste tú ženu vykopali, sle nie
+          také pletky,“ pretrhol ho v reči služný.“
+    </tei:p>
+    <tei:p>
+     „Nuž, veď sme hneď pri tom, páu veľkomožný, len to chcem
+          ešte povedať, že keď mňa tak pekne prosila, nuž som povedal
+          kamarátovi: „Kamarát! čo jej máš dať, daj jej, a poďme po našej
+          práci.“ A on mňa i poslúchnul. Dal jej ešte niekoľko lepancov a
+          potom sme odišli spolu na cintorín.“
+    </tei:p>
+    <tei:p>
+     „Nuž a ďalej potom čo ste robili?“
+    </tei:p>
+    <tei:p>
+     "„Ľahli sme a striehli.“
+    </tei:p>
+    <tei:p>
+     „Teda ste sa predsa báli?“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     „Ach, veru nebáli, pán veľkomožný, keby sme sa boli báli,
+          neboli by sme tam išli.“
+    </tei:p>
+    <tei:p>
+     „Teda neľutujete, že ste to urobili?“
+    </tei:p>
+    <tei:p>
+     „Nie veru!“
+    </tei:p>
+    <tei:p>
+     „A. kde ste dali tie prstene a retiazku, čo ste jej vzali?“
+    </tei:p>
+    <tei:p>
+     „My tej prstene? Ba kdežeby jich vzala?“
+    </tei:p>
+    <tei:p>
+     „Do toho vás nenie nič, kde jich ona vzala, ale kde ste jich
+          vy dali? Povedzte pravdu, síce ináčej zle prejdete.“
+    </tei:p>
+    <tei:p>
+     „ „To je lož, pán veľkomožný! My sme jej vzali len plachetku
+          a inšie nič.“ z
+    </tei:p>
+    <tei:p>
+     „Teda sa nechcete priznať, že ste jej aj strieborné gombíky
+          vzali?“
+    </tei:p>
+    <tei:p>
+     „Nie veru! Tá by bola rada, keby mala olovené, nieto ešte
+          strieborné.
+    </tei:p>
+    <tei:p>
+     „To sa preukáže, teraz pôjdete do areštu.“
+    </tei:p>
+    <tei:p>
+     „Snáď preto, pán veľkomožný?“
+    </tei:p>
+    <tei:p>
+     „Marš, pakujte sa! Služný kývnul na čatníkov a tí strýka
+          Polacha odviedli. Chudák, ani nevedel, len keď sa už v šupárni
+          nachodil. To sa mu ešte nikdy nestalo v živote, a on ami to ne-
+          vedel, či je na tomto a či na druhom svete.
+    </tei:p>
+    <tei:p>
+     Za Polachom nasledoval strýc Hleka. I toho sa zpytuje služný,
+          jako Polacha.
+    </tei:p>
+    <tei:p>
+     „Je to pravda, že ste vykopali ženu na cintoríne?“
+    </tei:p>
+    <tei:p>
+     „Je, prosím ponížene,“ povie Hleka.
+    </tei:p>
+    <tei:p>
+     „A bola ešte živá?“
+    </tei:p>
+    <tei:p>
+     „Pravdaže bola, dôkaz toho majú na mojej tvári. Nech sa
+          ráčia podívať, ešte sa mi až po dnes nezahojila, čo ma doškriabala.“
+    </tei:p>
+    <tei:p>
+     „A kde sú tie prstene a retiazka?“
+    </tei:p>
+    <tei:p>
+     „Jaké, pán veľkomožný?“ diví sa Hleka.
+    </tei:p>
+    <tei:p>
+     nČo ste jej vzali.“
+    </tei:p>
+    <tei:p>
+     „Komu? prosím ponížene.“
+    </tei:p>
+    <tei:p>
+     „Tej žene, čo ste ju vykopali.“
+    </tei:p>
+    <tei:p>
+     „Pán veľkomožný, to nebolo naposledy žiadne vykopanie. Keby
+          mňa nebola škriabala, ani to by som jej nebol urobil. Tým kopnu-
+          tím som ja jej ešte neublížil. Ostatne mala nekradnúť.“
+    </tei:p>
+    <tei:p>
+     „Teda, ste ju aj kopali?“
+    </tei:p>
+    <tei:p>
+     „No, dal som jej hnilého syra, alebo jako Brezovánia hovoria :
+          „mjakyš,“ vzali sme jej plachetku a kosák a bolo po veci.“
+    </tei:p>
+    <tei:p>
+     „Ale čo tárate do sveta?“ osopil sa slúžny.
+    </tei:p>
+    <tei:p>
+     Hleka pokrčil plecami, zažmurkal malýma očima, strčil ruky
+          do vrecák bieleho kabáta, pozrel na zem, potom na služného a na
+          prítomných, jako čoby rozmýšľal čo má odpovedať a či snáď len
+          mlčať. Potom jakoby sa bol ustálil na tom, že viac nebude nič
+          hovoriť, mlčal.
+    </tei:p>
+    <tei:p>
+     Vyšetrujúci pán služný sám súc v rozpakoch, nevedel tiež,
+          jako má ďalej pokračovať. Po dlhšej prestávke osloví zase Hleku,
+          alebo lepšie povedané, osopí sa na neho:
+    </tei:p>
+    <tei:p>
+     „No, čo nehovoríte?“
+    </tei:p>
+    <tei:p>
+     „Keď neviem čo, pán veľkomožný.“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     ! s
+    </tei:p>
+    <tei:p>
+     „Ešte raž mi rozprávajte, jako ste to tu ženu vykopali?“
+    </tei:p>
+    <tei:p>
+     Hleka rozprával. Služný načúva a čím diaľ tým viacej sa cíti
+          nepríjemvejšie, ani čoby mu mravce po celom tele boli sa pre-
+          chodili. Konečne keď mu už vec jasná bola, pretrhne nahnevano
+          hovoriaceho Hleku: „Ja sa vás nepýtam, kde ste vy Zuzku Kova-
+          rových vykopali, ale Anču Chodurových, ktorej ste prstene a re-
+          tiazku vzali.“
+    </tei:p>
+    <tei:p>
+     „Tá má pokoj v jej hrobe, pán veľkomožný. To oni museli
+          zle rozumeť. A jestli by mne neverili, nech sa lúbi presvedčiť na
+          cintoríne, či je len hrudka pohnutá na jej hrobe od tých čias, čo
+          sme ho ustrojili,“ hovoril Hleka cele vážnym hlasom.
+    </tei:p>
+    <tei:p>
+     ľán služný sa osobne presvedčil o pravdivosti slov hrobáro-
+          vých. Plány jeho boly stroskotané. Z celého hľadaného panslavismu
+          našiel len — hnilý syr. O tento až po dnes nenie potiaž. Chlapci
+          sa ním nadielajú. Nadelili ním i hrobári Zuzku Kovarových iste
+          dostatočne, lebo jim vykášala trávu na cintoríne.
+    </tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+    <tei:p>
+     Sme u konca s historiou 0 vykopanej žene. Panslavismus ale
+          ešte vždy straší v zbyklých hlavách. Strýka Polacha vypustili síce
+          zo šupárne, ale si to veľmi ľutoval, že na svoje staré dni takej
+          potupy došiel. Teraz je už zavretý tam, kde on tak mnohých
+          uzavieral.
+          rýko Halena sa spieral platiť cirkevnú daň, ale mu ani pán
+          služný nepomohol, ani výhovorka, že do kostola nechodí, ba ani
+          to, že si dom na Moravskej strune vystavil.
+    </tei:p>
+    <tei:p>
+     Kostolníčka a Žemličková nikdy viac nespomenú nebohú Amničku,
+          bo sa boja, žeby. jich pán služný vyšetroval. ktorý i potom ne-
+          prestal hromžiť na slovenčinu, silou mocou chcel ju vyhubiť, ale
+          darmo. On pošiel — kam? Nevieme. Slovenčina ale je tu ešte
+          vždy, a dá Pán Boh, že bude na veky.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

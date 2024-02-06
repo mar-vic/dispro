@@ -1,0 +1,2114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1921315" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Na rozcestí : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:47574417">
+     Martiš, Albert (1855-1918)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     10020
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:47574417">
+      Martiš, Albert (1855-1918)
+     </tei:author>
+     <tei:title>
+      Na rozcesyí
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Vydavateľstvo „Svetovej knižnice“ Miloslav Schmidt
+     </tei:publisher>
+     <tei:date>
+      1921
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-02-01">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na rozcestí
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <div type="chapter">
+    <head>
+     I
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Na panskom, poschodovom dome bolestne zavrzgla ve¾ká brána; trochu sa otvorila a za òou
+         bojazlive, opatrne nakukla tvár sedliaka, Slováka. Prichádzajúci chví¾ku váhal, potom sa
+         pomaly, opatrne pretiahol cez tesný otvor, ako by nesmel bránu väèšmi otvori, z¾aknúc sa
+         vàzgania, ktoré sa rozliehalo pod dutou klenbou, ako v prázdnom, ve¾kom hrobe. Potom chcel
+         bránu tíško pritvori, ale ona zas nešeredne zavrzgla; nechal radšej všetko tak.
+    </p>
+    <p>
+     Prešiel — v krpcoch bez šramotu stúpajúc — cez chodbu ku dverám, na ktorých bola pribitá
+         akási tabu¾ka. Oprel palicu do kúta, klobúk šuchnul k nej na zem, uhladil si vlasy, oddrhol
+         si a zaklopal. Ktosi sa ozval zdnuká, on vkroèil pomaly. Zastal pri dverách a pozdravil sa.
+    </p>
+    <p>
+     Pred ním pri obloku sedel za stolom mladý èlovek. Na pozdravenie ani sa neobzrel; bol
+         pohrúžený do rýchleho písania.
+    </p>
+    <p>
+     — Èi tu býva pán advokát? — preriekol sedliak.
+    </p>
+    <p>
+     — Áno, áno, nech sa len páèi bližšie, pán gazda! Èo dobrého ste nám doniesli? — povedal
+         mladý èlovek za stolom, složil pero a ponúkol prišlého sadnú si.
+    </p>
+    <p>
+     Náš krpèiar váhave pošiel napred. Sadol si a, vyhnúc upretému zraku mladého èloveka,
+         poobzeral sa po izbe, ako by h¾adal niekoho. Nemal dôvery k mladému èloveku; myslel si:
+         pisár. Stranou boly polootvorené dvere, za ktorými ktosi hrubo zakaš¾al. A gazda ticho,
+         nedôverèive obráti sa k mladému èloveku:
+    </p>
+    <p>
+     — Pán advokát sú azda nie doma?
+    </p>
+    <p>
+     Ivan Borovský, osnovník advokáta Kürtöša, zaèal už trati trpelivos, ale predsa v¾údne
+         odvetil:
+    </p>
+    <p>
+     — Doma je, doma; lenže mi už povedzte, v èom vám budeme môc poslúži?
+    </p>
+    <p>
+     Gazda sa koneène osmelil a zaèal:
+    </p>
+    <p>
+     — Ale nuž, prosím ich úctive, èlovek má vždy nejakú galibu na tomto zlom svete. Ja som
+         bol v bohabojnosti a poctivosti vychovaný, nikdy som nikomu neublížil, ani nemôže nikto na
+         mòa niè nedobrého poveda, a veru by som nikdy nebol myslel, že ja raz po súdoch budem
+         musie chodi…
+    </p>
+    <p>
+     — No, veï mi už len povedzte nakrátko, pán gazda, èo sa vám stalo?
+    </p>
+    <p>
+     — Ach, jaj, prosím ich, zlého, bezbožného súseda máme. Nevravím to len ja; hovorí to
+         každý v celej dedine. ¼uïom je ten èlovek len na protiveò… a ja som na neho nikdy ani len
+         zlým okom nepomrel…
+    </p>
+    <p>
+     — No, a èože vám vykonal?
+    </p>
+    <p>
+     — Nuž, h¾a, prosím ich, takto sa to stalo. Asi pred týždòom ráno vyháòala moja stará
+         našu — ponížene ich odpytujem — kravièku. A — nuž krava ako krava — nešla cestou, ako sa
+         jej patrí, ale zaboèila popod obloky súsedove a zaèala sa ošúcha, otiera o súsedovu stenu
+         — nuž prosím ich, krava ako krava… A tu ti vypáli súsed s hrozitánskym drúkom, a bác, bác!
+         kravu, kade ju len zaèiahol… Nuž a moja stará, pravda, nemohla sa na to bez slova díva —
+         ale ten zle-nedobre na òu, že taká a taká, èo si to vraj kravu za chvost nevyvedie, alebo
+         lepšieho poriadku nenauèí! Vybehla i súsedka; nuž pravda je, že si stenu pred dvoma dòami
+         bielila — ale predsa tie nadávky, jaj, nie je to dobre ani spomína! Prosím ich: ¾udia si
+         uši zapchávali, tak nás pred svetom zhanobili… A preèo, preèo?…
+    </p>
+    <p>
+     — Hm, hm, — zahundral osnovník.
+    </p>
+    <p>
+     — Nuž tak ma teraz stará vystrojila, lebo ona sama prís nemohla. — Choï, povedá,
+         zažaluj bezbožníkov! Takú hanbu nám nemožno strpie, choï a žaluj, èo hneï dáš tisícku!
+         Nech ich pri súde dobre potrescú, nech im ukážu!… Prosím ich, teda nech ich len dobre
+         zapravotia, nech platia, majú z èoho, a nech zaplatia potom i nám za ublíženie a hanbu…
+    </p>
+    <p>
+     Mladý osnovník sa ani nehnul poèas celého vykladania, len h¾adel vážne svojimi belasými
+         oèami na gazdu. Poèúval ho, a oèi jeho ako by trpkým, bolestným odtienkom žiarily. A keï ho
+         dopoèúval, sklonil trochu hlavu a ticho vzdychol.
+    </p>
+    <p>
+     Nastalo hrobové ticho, a gazdovi zaèalo by trápno. Koneène chcel zasa otvori ústa,
+         zajachtávajúc sa, ale mu osnovník mierno skoèil do reèi, pozdvihnúc naò svoj èistý,
+         prenikavý poh¾ad:
+    </p>
+    <p>
+     — Èloveèe dobrý, predovšetkým vám musím poveda, že za tú urážku vám nikto niè
+         nezaplatí. Ale poèúvajte ma len. Smutná vec je, že sú ¾udia nespratní; no, nemusíte uteka
+         s každou pletkou hneï pred súd…
+    </p>
+    <p>
+     Gazda otvoril naširoko oèi.
+    </p>
+    <p>
+     — Keï sa nedá vyhnú nejakému zlu, odpúšajte si navzájom, h¾aïte si zabúda urážky…
+    </p>
+    <p>
+     V súsednej izbe ktosi zasa hrubo zakaš¾al, lenže akoby nasilu a netrpelive.
+    </p>
+    <p>
+     Osnovník mierne dokonèil:
+    </p>
+    <p>
+     — Choïte domov, dobrý èloveèe, a smierte sa so súsedovci; škoda je s takouto vecou
+         papier márni.
+    </p>
+    <p>
+     Gazda sa zmiatol. Vidno, že toho neèakal. Oèi osnovníkove priate¾sky, v¾údne, skoro
+         prosebne spoèívaly na òom, ale z toho istého poh¾adu vyèítal i to, že je vec skonèená.
+    </p>
+    <p>
+     Vstanúc teda, poklonil sa a vyšiel.
+    </p>
+    <p>
+     Mladý osnovník sa chví¾ku uprene díval za ním, potom sklonil hlavu nad aktá…
+    </p>
+    <p>
+     V súsednej izbe, za pol polootvorenými dvermi zahurtovalo odstrknuté kreslo; ktosi vstal
+         a prešiel sa strmým krokom nieko¾ko ráz po izbe. Kroky jeho tupo dunely; po hrubých
+         kobercoch kráèal.
+    </p>
+    <p>
+     Hneï zatým sa zjavila na prahu tlstá, územèistá postava advokáta Kürtöša. Krvou
+         podbehnuté, vypuklé oèi mu nervózne behaly za sklom okuliarov.
+    </p>
+    <p>
+     — Pán osnovník, — spustil odrazu, — nemôžem pochopi, èo vás pohlo takto si poèína so
+         stránkami?
+    </p>
+    <p>
+     Osnovník bol nad papiermi zohnutý, ale keï zdvihol hlavu, ani najmenšie prekvapenie sa
+         mu nejavilo na tvári. Otvorene a pokojne h¾adel na svojho principála.
+    </p>
+    <p>
+     A principál sršal ïalej:
+    </p>
+    <p>
+     — Nanajvýš som zvedavý, na akom základe mi vyháòate stránky z kancelárie…
+    </p>
+    <p>
+     Ivan Borovský pokojne odvetil:
+    </p>
+    <p>
+     — Myslím, že ma uznáte za spolupracovníka na poli vyh¾adávania pravdy a práva, hoci som
+         len osnovník. A ja nemôžem srovna so svojím presvedèením, aby som niekoho na lepšiu cestu
+         neobrátil, keï môžem…
+    </p>
+    <p>
+     — Mne tu kázne nedržte; mohli ste ís teda za farára… Vy ste povinný tomu, kto sem
+         zaklope, prija jeho vec!
+    </p>
+    <p>
+     Ale osnovník nemýlene pokraèoval:
+    </p>
+    <p>
+     — A od tohoto presvedèenia ma ani ztrata zárobku neodvedie, a myslím, že ani pán doktor
+         je nie odkázaný…
+    </p>
+    <p>
+     Ale advokát sa navidomoèi rozzloboval.
+    </p>
+    <p>
+     — Dajte mi pokoj s vaším blúznivým idealizmom; obdivova vaše presvedèenie nie som
+         náklonný… Prosím moje právo rešpektova i za stolom osnovníckym! Alebo ak azda — a tu
+         odrazu významne snížil tón — má to znamena nejakú národnostnú politiku, tak vám neradím v
+         tomto pokraèova…
+    </p>
+    <p>
+     Zvrtol sa nazlobený ku dverám. Ivan Borovský vstal a úradným, sviatoèným tónom
+         preriekol:
+    </p>
+    <p>
+     — Ak je medzi nami v tomto oh¾ade neprekonate¾ná priepas, budem vedie, èo je pre mòa
+         toho konzekvencia.
+    </p>
+    <p>
+     Advokát sa strhol. Takého príkladného osnovníka ešte nemal; utrati by ho ani najmenej
+         nechcel. Obzrel sa, ale už hladšie, no Ivan Borovský sa pohrúžil do svojich papierov, ïalej
+         si ho ani nevšímajúc. Advokát chví¾ku ešte stál, potom vyšiel, ale už tichším krokom.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ivan Borovský, ako položil pero na papier, už zabudol na celý svet. Rezký pohyb ruky
+         prezradzoval, s akou schopnosou a vô¾ou zdolal prácu. Rozberal dôvody istej ve¾kej
+         pravoty, pádne porážajúc protivníka raz obratným a jasným dôvodením, hneï zasa neúprosne
+         ostrou satyrou. Celou bytnosou svojou sa ponoril do práce. Kedy-tedy mimovo¾ne máchnul
+         rukou, ako by reènil a gestikuloval, potom zas chytro sa rozbehol prstmi do zákonníka,
+         h¾adajúc potrebný paragraf.
+    </p>
+    <p>
+     Vše postál a rozmýš¾al; v zraku sa mu zrkadlilo, ako sa prehàòa v myšlienkach, aký nemý
+         zápas a napnutý boj sa odohráva v jeho mozgu. V zraku sa mu zrkadlilo, ako tamdnu v hlave
+         lomcujú myšlienky, ako sršiace a prskajúce elektrické iskry.
+    </p>
+    <p>
+     Tvár mu mala výraz bojovníka, ktorý sa udatne oháòa meèom na pravo i na ¾avo, èo ïalej,
+         tým srditejšie a mohutnejšie doráža na protivníka, ani na chví¾ku mu postá nedá, až kým ho
+         úplne nepremôže.
+    </p>
+    <p>
+     Celá kopa popísaných hárkov stála už pred ním, keï koneène spravil hrubý bod, oprel pero
+         o kalamár, vyrovnal sa a, vystrúc naširoko ruky, zhlboka si odfúkol.
+    </p>
+    <p>
+     Pod mladistvými fúzmi mu hral spokojný úsmev, ako by hovoril sebe: „Ale som mu dal!“
+         Myslel na protivníka-advokáta, proti ktorému bránil svoju stránku. A nebol ten úsmev znakom
+         pyšnej namyslenosti. Ostrie jeho reèi a umu už nejeden kolega pocítil a trpko si to
+         zapamätal.
+    </p>
+    <p>
+     Svedomite vykonaná práca ho naplnila blaženým pocitom spokojnosti a bol by si azda i
+         veselo zahvízdal, ale mu prišla na um hádka s principálom pre odpraveného gazdu… Pomaly
+         sklonil hlavu do obidvoch dlaní a zamyslel sa…
+    </p>
+    <p>
+     Ivan Borovský bol dušou-telom idealista. Š¾achetná, mladistvá tvár a nežný, hneï zas
+         prenikavý poh¾ad jeho ani nežiaril iným. Poènúc od mladosti rojèil túhou nehasnúcou,
+         miloval svoje prosté slovenské plemä a pevne sa odhodlal všetky svoje schopnosti tomuto
+         plemenu venova. Svojmu temperamentu a svojim schopnostiam primerane volil si také pole
+         úèinkovania v meste, na reèovej hranici ležiacom, kde v cudzom víre zlobou obtoèený sám a
+         sám bojoval proti vlnám, ktoré peniac a fàkajúc sa valily proti nemu, ako proti skale. Ale
+         bol otužený. Už ako študent prešiel školu utrpenia. Krutú, ale hrdinskú dobu prežil už
+         vtedy. A to ho nauèilo, pri všetkom svojom idealizme, prísno reálne smýš¾a. Snilkom nikdy
+         nebol. Ba zrovna nenávidel sentimentálnych, bolestne vzdychajúcich idealistov, ktorých
+         ústami ustaviène len žaloba sa leje, ktorí máchnu rukou a upádajú do chorobnej mdloby. Èím
+         väèšie boly ažkosti a prekážky, týra väèšmi rozvírily sa sily jeho — ináèe bol chladný,
+         pokojný a vypoèítavý. Boj ho nikdy nezachvátil, ani len na zdvorilos nikdy nezabudol — a
+         to dodávalo jeho osobnosti magnetickej, pokorujúcej sily.
+    </p>
+    <p>
+     Tým bol Ivan Borovský v 26-om roku mladého, pekného života svojho.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Teraz sedel hlboko zamyslený. Šero veèerné sa vzmáhalo v tichej pisárni; tichý, lahodný
+         tlkot stenových hodín len zdôrazòoval nemú tichos.
+    </p>
+    <p>
+     Ivan sedel napnute, ale nesnil. Oèi jeho, naširoko otvorené, nemo sa dívaly do šera.
+    </p>
+    <p>
+     Šero a tma sú najlepším plátnom, na ktoré fantázia ma¾uje svoje najkrajšie a
+         najpestrejšie obrazy…
+    </p>
+    <p>
+     Pohybujú sa tiene a postavy pred oèami, ako na filme. Ticho, nemo plávajú v prázdnote a
+         zmiznú, máchajúc rukami-nohami. Tu zas tváre, menej i dobre známé, vynorujú sa ako zo
+         záhadného mora, a všetko to žije, nemo sa hemží, ako keï noèné mušky a motýle krúžia okolo
+         elektrickej lampy.
+    </p>
+    <p>
+     Ivanovi predchodily tváre, tie dobre známé, snivé a dobrotivé typy slovenského ¾udu, ma
+         ktorých zjavne bada, ako drsný život hlbokými vráskami rozryl pôvodne detinsko-nevinný a
+         š¾achetný výraz tvári. Predchodily mu postavy, s macošskou pôdou nemo sa boriace, deti
+         svoje kàèovite privinujúce, a postavy, ako Rodinovi calaiskí mešania: nemým odporom pery
+         zatínajúce, alebo rukami hlavy svoje stískajúce, rukami kostnatými, na ktorých žily divo
+         navrely. I predchádzaly mu postavy, ktoré sa hrozily, jedny-druhé za krky lapaly — i poznal
+         medzi nimi i dnešného klienta-gazdu…
+    </p>
+    <p>
+     Odrazu zarinèal oblok hrmotným klopaním. A postavy hneï zmizly…
+    </p>
+    <p>
+     Ivan sa ustato a nevrle zdvihol, pristúpil k obloku a otvoril ho. Pod oblokom stál
+         Kalman Komor, stolièný podnotár. Pokladal sa za priate¾a Ivanovho, ale ich celé svety
+         delily. Ináèe bol známy typ malomestského šviháka a svetáka.
+    </p>
+    <p>
+     Kalman Komor zvolal z plného hrdla:
+    </p>
+    <p>
+     — A èože ty tu ešte robíš? H¾adám a už dve hodiny medzi živými i medzi màtvymi. Tu je
+         veèer, èas pre takýchto netopierov; poï už od toho stola!
+    </p>
+    <p>
+     — Už idem.
+    </p>
+    <p>
+     — Doèka a však nemôžem… ponáh¾am sa na veèeru. V parku, v kiosku sa sídeme — choï len
+         chytro veèera i ty…
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Bol krásny júnový veèer. A horniacke stolièné mesto, cez deò skoro vymreté, zaèalo
+         ožíva. ¼udia zanechávali úrady, domy, rozchádzajúc sa po meste, alebo pod niektorou lampou
+         do hàbok sa sbíjajúc. Stále ožívajúca vrava a klopanie opätkov po asfalte temným a
+         monotónnym hlukom naplòovalo ulice, èo len kedy-tedy pretàhal hrkot nejakého opozdeného
+         voza alebo hrmotný rachot spúšaných mreží na sklepe.
+    </p>
+    <p>
+     Na kraji mesta bol neve¾ký park. ¼udia sa už hemžili i tam. Na prostriedku stál
+         oslepujúco osvetlený kiosk. Na èistuèkých bielych obrusoch okrúhlych stolov trblietavo sa
+         jagalo svetlo elektrické. Stoly boly už zväèša zaujaté a živý rozhovor, ako bzukot vèiel,
+         sprevádzal pišavú hudbu Cigánov. Menej šastní smrte¾níci, ktorých osud neobsýpal
+         hojnosou zemskou, lenivo sa prechádzali okolo kiosku, závistlivým a hladným poh¾adom
+         sprevádzajúc pohyby tamtých šastnejších.
+    </p>
+    <p>
+     Všeobecnú pozornos budí stôl, za ktorým v spoloènosti mladého èloveka a staršej dámy —
+         zrejme mamy — sedí neobyèajne krásna deva. Shovárajú sa po maïarsky, ako pri všetkých
+         stoloch. V mladom èloveku poznávame Kalmana Komora, priate¾a Ivanovho. Ako bada, všemožne
+         sa usiluje úplne pre seba zauja pozornos krásnej spoloènice svojej, èo sa mu však
+         navidomoèi nedarí. Vtipkárske poznámky jeho len mama poèúva poluchom, ale poèúva viacej len
+         nato, kedy sa zaène Kalman smia na svojich vtipoch, aby mu v tom ochotne pomáhala.
+    </p>
+    <p>
+     Nútený smiech Kalmana zväèša predèasne zamrzne, kedyko¾vek šibne, okom na ¾ahostajnú
+         tvár devy, ktorej oèi — divným, pálèivým ohòom žiariace èierné oèi — ustaviène v inú stranu
+         behaly, ako by h¾adaly niekoho… Hneï sa oprela, hneï zasa vystrela, alebo nervózne klopkala
+         prstami takt na hru Cigánov.
+    </p>
+    <p>
+     Náhle sa obrátila ku Kalmanovi, ktorý sa už zaèal cíti ako oparený:
+    </p>
+    <p>
+     — Povedzte, opravdu ste nikdy nevideli toho mladého èloveka? Viete, je vysoký, plecatý;
+         zdá sa mi, že má gaštanové vlasy a belasé oèi…
+    </p>
+    <p>
+     Kalmanovi trocha ovisla dolná pera. Krútil hlavou, že nie. Potom sa pretvaroval, ako by
+         rozmýš¾al, a povedal chladne:
+    </p>
+    <p>
+     — Nosí cviker na nose?
+    </p>
+    <p>
+     — Oj, nie, — odvetila ona živo.
+    </p>
+    <p>
+     — A fúzy má však oholené?
+    </p>
+    <p>
+     — Ach, nie. Také chutné fúziky má, akých vy nikdy nebudete ma, — odvetila dráždivo a
+         podráždene. — To je smiešno, že vy nikoho nepoznáte! A veï na celom okolí ani niet iného
+         takého pekného a elegantného mladého èloveka… mne sa aspoò tak zdá. Nemôže by ani
+         cudzinec, veï som ho už dva razy videla v meste, však mama?
+    </p>
+    <p>
+     Odstrèila prázdnu šálku zpred seba a zas sa rozbehla poh¾adom medzi stoly, medzi hlavy,
+         h¾adajúc niekoho…
+    </p>
+    <p>
+     Kalman mal pocit, ako èo by ho nejaká obrovská ruka nemilosrdne za golier lapila a raz
+         do vrelej, raz do ¾adovej vody ponorovala. Vytiahol cigaretu a vstrèil ju — opaèným koncom
+         do úst… Málo chybelo, že nahlas nezaklial.
+    </p>
+    <p>
+     Ale zrazu ho deva lapila za rukáv a rozèulene, ako nad mieru netrpelivé diea, šeptala:
+    </p>
+    <p>
+     — Tam ide, tam ide! Pozrite! Vidíte ho? Kto je to? Poznáte ho?!
+    </p>
+    <p>
+     Kalman sa znejme nevrlo obzrel a zazrel — Ivana Borovského. Chcel sa rýchlo odvráti,
+         ale bolo už pozde. Ivan ho zbadal, poklonil sa a potom si sadol k tretiemu, prázdnemu
+         stolu.
+    </p>
+    <p>
+     Deva sa už teraz oborila na Kalmana:
+    </p>
+    <p>
+     — Vy ho poznáte! Vy ho poznáte! Veï vás pozdravil!
+    </p>
+    <p>
+     Kalman zašomral, zajachtávajúc sa, ale deva mu nedala pokoja.
+    </p>
+    <p>
+     — Vy ho poznáte, veï vás pozdravil! Kto je to?
+    </p>
+    <p>
+     Kalmanovi bolo zas, ako raz v horúcom, raz v ¾adovom kotle; zapálil sa, hneï zasa
+         obledol, a cítil, ako mu pot dolu chrbtom steká… Ale hrdinsky vypovedal:
+    </p>
+    <p>
+     — To je môj priate¾ Ivan Borovský, Slovák.
+    </p>
+    <p>
+     A keby bol mohol vôbec rozmýš¾a, bol by ho poslal ku všetkým diablom a èertom. No
+         cítil, èo má prís — a preto èakal svoj osud, ako odsúdený na satie. Obrátil sa k mame s
+         nejakou starou anekdotou…
+    </p>
+    <p>
+     A deva teraz už onemela. Jej plamenný poh¾ad už našiel, za èím striehol.
+    </p>
+    <p>
+     Ivan Borovský si ich nevšímal. Kázal si èosi, potom vytiahol z vrecka noviny a prehàòal
+         sa v nich. Necítil žhavých lúèov poh¾adu okolo gaštanových vlasov…
+    </p>
+    <p>
+     Ale ohnivá krásavica patrila k ženským, ktoré nestrpia protimluvy a ktoré nepoznajú
+         prekážky, keï raz chcú dosiahnu nieèo.
+    </p>
+    <p>
+     Zas sa obrátila ku Kalmanovi (ktorý mamu zabával, ale zpod riasníc stále pozoroval
+         devu):
+    </p>
+    <p>
+     — Pane Komor, zavolajte svojho priate¾a sem k nášmu stolu a predstavte ho. Bude nám
+         veselšie.
+    </p>
+    <p>
+     No teraz už mama spustila trochu oboèie a káravým hlasom preriekla:
+    </p>
+    <p>
+     — Ale, Marianna, toho Slováka?!
+    </p>
+    <p>
+     Z èiernych oèú krásavice vyš¾ahol plameò.
+    </p>
+    <p>
+     — Ale, mama, prosím a, èo je na tom?! — a pozrela magnetickým poh¾adom na Kalmana, ako
+         svevo¾ná a krutá krá¾ovna.
+    </p>
+    <p>
+     Kalman sa pred tým poh¾adom vždy pokoril. A teraz mu bolo už i tak jedno. Vstal a
+         pristúpil k stolu Ivanovmu.
+    </p>
+    <p>
+     — Priate¾u, tam, h¾a, by a rady ma v spoloènosti, — povedal otvorene, so zrejmou
+         chladnosou, ako èlovek, ktorému je to už jedno.
+    </p>
+    <p>
+     Ivan Borovský pozrel na neho skúmavým zrakom, ale Kalman sklopil oèi do novín. Tvár
+         bledá, na nej èervené f¾aky… Ivan šibol okom k tomu stolu. A poh¾ad jeho padol do ve¾kých,
+         plamenných, tmavých oèú, ako do hlbokej studne… A nohy, nevyèkajúc rozkazu a dovolenia od
+         hlavy, len vstaly a šly…
+    </p>
+    <p>
+     Kalman ho predstavil. Marianna Végh a mama. Meno Végh mu bolo známé, tu v okolí nejaký
+         ve¾kostatkár, ale nemal èasu rozmýš¾a. Sadli si a Kalman sa ve¾mi horlive nahol zas k
+         mame…
+    </p>
+    <p>
+     — Sleèna, — zaèal Ivan.
+    </p>
+    <p>
+     — Ja som Marianna, — pretrhla ho.
+    </p>
+    <p>
+     Ivan sa z¾ahka usmial, ale rozpaky zle ukryl.
+    </p>
+    <p>
+     — Teda Marianna… — pozrel jej do oèú, a mal pocit, že padá do hlbokej, tmavej studne. —
+         Marianna, divná vec, ale sa mi zdá, že som vás už videl.
+    </p>
+    <p>
+     Cítil, že sa mu jazyk akosi nemotorne pohybuje.
+    </p>
+    <p>
+     — Už sme sa dva razy stretli. Vy sa, pravda, nepamätáte. Ale o èomže môžete rozmýš¾a,
+         že ste na ulici taký roztržitý a nikoho, si nevšímate?
+    </p>
+    <p>
+     — Hja, viete, to pre prales paragrafov, ktorými hlava juristu huèí.
+    </p>
+    <p>
+     — Brrà… z tej duše nenávidím paragrafy!
+    </p>
+    <p>
+     — Verím, Marianna, lebo badám, ako sa vás boja a pàchnu mi z hlavy, ako takto h¾adím do
+         tej studne… chcem poveda…
+    </p>
+    <p>
+     — No, len von s tým! Èo ste chceli poveda? Žiadam!… No?
+    </p>
+    <p>
+     A Ivan ticho, temer vážne povedal:
+    </p>
+    <p>
+     — Keï pozrem do vašich oèú, ako èo by som do hlbokej, tmavej studne nazrel.
+    </p>
+    <p>
+     — Hm, neporovnávate zle. A v tej studni sa, pravda — ako v ïalekom, malom zrkadle —
+         vidíte vy, nie?
+    </p>
+    <p>
+     — Isteže, ak je studòa nie prázdna, suchá.
+    </p>
+    <p>
+     — Suchá je, oheò ju vysúša; ale prázdna nie, — odvetila Marianna z¾ahka.
+    </p>
+    <p>
+     — Ako to, ako?
+    </p>
+    <p>
+     — No, keï je oko do duše okno, a keï je oko hlboká studòa, tak na dne tej studne je
+         duša, a v tej duši — tam na samom dne — sa odzrkad¾uje tvár toho, kto do hlbokej studne
+         pozerá. Vy ste, zdá sa mi, pred chví¾kou do studne pozerali…
+    </p>
+    <p>
+     — I teraz ta h¾adím.
+    </p>
+    <p>
+     — Teda ste tam vy, hlboko…
+    </p>
+    <p>
+     Nedala mu odpoveda, skrútnuc náhle ¾ahostajným tónom na inšie:
+    </p>
+    <p>
+     — Poznáte kus, èo Cigáni hrajú?
+    </p>
+    <p>
+     A oèi, tmavé oèi, divným ohòom zažiarily.
+    </p>
+    <p>
+     Ivan chcel poveda, že nenachádza v cigánskych kusoch a v moderných klapanciach mnoho
+         pôvabu, že miluje slovenské trávnice, ale tie tmavé oèi mu to nedaly vyzna, èo by ináèe
+         nikomu k vôli nebol zamlèal…
+    </p>
+    <p>
+     — Nie, nepoznám, — povedal.
+    </p>
+    <p>
+     A Marianna, bez všetkého priechodu, sa zasa spýta:
+    </p>
+    <p>
+     — Povedzte, básnite?
+    </p>
+    <p>
+     — Nikdy.
+    </p>
+    <p>
+     — Chvála Bohu; nenávidím sentimentálnych básnikov. Vôbec, ja len urputne nenávidím,
+         alebo šialene milujem.
+    </p>
+    <p>
+     Toto povedala tichšie a znovu zaš¾ahol Ivana plameò tmavých oèú… ale hneï zvolala:
+    </p>
+    <p>
+     — Joj, odporný klarinét, tak by som mu ho zapchala nieèím!
+    </p>
+    <p>
+     Ivan však málo poèul z muziky. Bol akoby hypnotizovaný hlasom a zrakom krásavice, o
+         ktorej sa mu pred polhodinou ani nesnívalo.
+    </p>
+    <p>
+     Pred polnocou sa sobrali domov.
+    </p>
+    <p>
+     Kalman — prirodzená vec — dostal zas mamu.
+    </p>
+    <p>
+     Ivan s Mariannou kráèali popredku. Ale rozhovor im akosi netiekol plynne. Zväèša
+         Marianna hovorila. Ivan poèúval a mal pocit, ako by mu hlava medzi dvoma mlynskými kameòmi
+         prašala. Marianna hovorila o ich kaštieli, o svojom tátošovi, o svojich výjazdoch a
+         športoch.
+    </p>
+    <p>
+     Ale keï prišli pred dom, kde Marianna zastala, oba razom povedali:
+    </p>
+    <p>
+     — Škoda, že sme už tu!
+    </p>
+    <p>
+     A vtedy Ivan, ani sám nevedel ako, ako nie, povedal:
+    </p>
+    <p>
+     — Kedy vás uvidím najbližšie? Èi skoro zas?
+    </p>
+    <p>
+     A Marianna ticho a rýchlo povedala:
+    </p>
+    <p>
+     — Zajtra o piatej budem sa v parku prechádza…
+    </p>
+    <p>
+     Ruky sa im našly a silne stisly.
+    </p>
+    <p>
+     Vtedy však i mama s Kalmanom boli celkom blízko; bolo poèu Kalmanov hlas, ako prednáša
+         o hviezdach…
+    </p>
+    <p>
+     Kalman a Ivan mlèky kráèali zpiatoènou cestou jeden popri druhom. Nemé domy záhadne
+         odrážaly klopanie tvrdých opätkov po asfalte. Keï sa skrútli do najbližšej ulice — ešte
+         vždy bez slova kráèajúc — Kalman zastal pred osvetlenou kaviaròou a povedal:
+    </p>
+    <p>
+     — Servus.
+    </p>
+    <p>
+     — Servus, — na to Ivan, a kráèal ïalej.
+    </p>
+    <p>
+     Cítil tragédiu priate¾ovu; vedel, èo bude tam v kaviarni nasledova.
+    </p>
+    <p>
+     Ivan už i tridsa ráz prešiel hlavnou ulicou hore-dolu, a ešte vždy nevedel najs
+         duševnej rovnováhy. V hlave sa mu miešaly myšlienky o prekot. Zastal i sto ráz, vraviac si:
+         „Ale ako som ja vlastne padol do toho? Èo sa stalo so mnou?“ Prichodilo mu všetko, ako vo
+         sne. „Végh, Végh — eh, èo mòa do Véghovcov! Celé svety nás delia!“ Ale keï pomyslel na
+         Mariannu, hneï odvolal v mysli, èo povedal. A chodil hore-dolu, pohrúžený do myšlienok.
+    </p>
+    <p>
+     — Nie, to sa nesmie sta, — hundral, — na to musím zabudnú; to by požadovalo odo mòa
+         obetovanie všetkých mojich snáh a ideálov, tým by sa mi celá bytnos stroskotala!
+    </p>
+    <p>
+     Vtedy mu však zas mihla pred oèima štihlá postava Mariannina, videl zas pred sebou dvoje
+         plamenných oèú — a vnútorný hlas vo¾ky-nevo¾ky zamåkol. A kým prišiel domov, pozde v noci,
+         kým sa uložil, kým sa v posteli hádzal s boka na bok a kým koneène usnul — do, tých èias sa
+         to v òom stále takto menilo a opakovalo.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Ráno otvoril oèi — a v hlave vèerajšie zvuky. Hlava ažká, ako olovo. Nehybne ležal dlhú
+         chví¾u, uprúc oèi na povalu, a rozmýš¾al. Teraz už trochu chladnejšie, ako vèera. Ale
+         zmalátnelos v údoch a v hlave jasne svedèila, že sa tam nieèo osudného, rozrušujúceho
+         uhniezdilo.
+    </p>
+    <p>
+     Chcel by prísnym ku sebe a rozmýš¾al, èi nemá použi vèerajšej hádky s principálom,
+         vypoveda mu a, popakujúc svoje veci, èím najrýchlejšie opusti mesto, ktoré zaèína by
+         osudným pre jeho duševný pokoj. Pretrhnú všetko, udusi iskru, vytrhnú klík a pošliapa!
+    </p>
+    <p>
+     Ale darmo sa chlapil, chudák. Akási nevidite¾ná moc ho držala pevne v pazúroch… Zas bol
+         ten, èo vèera.
+    </p>
+    <p>
+     Raòajky nechal na stole nedotknuté. Tvár mu zbledla a trochu opadla.
+    </p>
+    <p>
+     Prijdúc do kancelárie, advokátom heglo, vidiac jeho zachmúrenú tvár. „Hm, to iste pre
+         vèerajšiu historku“, myslel si. „Musím ho udobri.“ Len rozmýš¾al, ako? No, ¾ahká rada…
+         bolo pred prvým.
+    </p>
+    <p>
+     O pol hodiny pristúpil k Ivanovmu stolu, položil pred neho obálku s peniazmi a povedal:
+    </p>
+    <p>
+     — Prijmite od tohoto mesiaca i povýšenie platu, — a vrátil sa do svojej izby.
+    </p>
+    <p>
+     Ivan sa trpko usmial a pomyslel si: „Nemusel si sa tak ve¾mi ponáh¾a!“
+    </p>
+    <p>
+     Ale potom trhlo ním nieèo. Môže to prija? Nie je to zas nejaký ¾stivý nápad proti jeho
+         zápalistému presvedèeniu? Èi od vèerajška tak hlboko klesol?
+    </p>
+    <p>
+     Ale tajný duševný zápas ho väèšmi umoril, než by bol mohol teraz nad týmto mnoho
+         škrupulova.
+    </p>
+    <p>
+     Bez chuti, namáhave pracoval.
+    </p>
+    <p>
+     Pri obede ho zaliala náhle zlos a prchkos… Svalil sa na diván, zúfal nad svojou
+         slabosou. Nepoznával sa…
+    </p>
+    <p>
+     Po obede šiel do kancelárie s pevným predsavzatím, že stoj èo stoj dnes bude do mraku
+         pracova a od písacieho stola pôjde rovno do postele. Marianna ho darmo bude èaka…
+    </p>
+    <p>
+     S poèiatku mu šla práca lepšie, ako pred obedom. Ešte i hvízda proboval. Ako sa však
+         blížil veèer, stával sa vždy nepokojnejším.
+    </p>
+    <p>
+     Štyri hodiny… Zohnul hlavu hlbšie nad aktá, ale o chví¾ku zaèal sa hniezdi a razom sa
+         chytil zúfale za hlavu: tie oèi, tie oèi!…
+    </p>
+    <p>
+     Potom sa zdanlive utíšil. Zdalo sa mu však, že sa èas nikdy tak pomaly nevliekol, ako
+         teraz. Pozre kradmo na hodiny. Pol piatej.
+    </p>
+    <p>
+     A pomyslel náhle, ako sa Marianna po parku prechádza, ako kmitá v bielych šatách pomedzi
+         stromy, ako h¾adá oèami niekoho, ako sa všetci mimoidúci s obdivom obzerajú za òou, ba i
+         Kalman strežie na òu… Ruka sa mu zaèala trias. Hodil pero o stôl, odstrèil stolièku a
+         ponáh¾al sa domov preobliec.
+    </p>
+    <p>
+     Teraz mu už bolo jasné, že je za¾úbený.
+    </p>
+    <p>
+     Krátko po jeho odchode vstúpil do pisárne advokát Kürtöš. Zazrúc prázdné miesto
+         osnovníkovo, zadivil sa, že je osnovník tak zavèasu preè, lebo inokedy len pred mrakom
+         odchádzal. Pokrútil hlavou a zašomral:
+    </p>
+    <p>
+     — Hm, to iste na rados povýšenia platu!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ivan Borovský dobre cítil rýchly tlkot srdca pod kabátom, keï vstúpil do parku. Trochu
+         sa uhrial v rýchlej chôdzi, lebo bolo už hodne po piatej. Hja, dnes sa s mimoriadnou
+         pozornosou obliekal.
+    </p>
+    <p>
+     Skúmal dia¾ku, èi sa nezabelejú známé biele šaty, ale robil to s istou ostýchavosou.
+         Bál sa, že mu každý z oèú vyèíta, koho h¾adá.
+    </p>
+    <p>
+     Strhol sa, keï ho razom ktosi oslovil menom. Bola to Marianna, sama.
+    </p>
+    <p>
+     — Vy už zas nevidíte pre paragrafy, — oslovila ho roztomilým káravým hlasom.
+    </p>
+    <p>
+     A hneï pokraèovala:
+    </p>
+    <p>
+     — Mama nemohla prís. Hlava ju bolí.
+    </p>
+    <p>
+     Ivan bol v rozpakoch, ale sa chytro opanoval.
+    </p>
+    <p>
+     — Marianna, hrozne ste ma prekvapili, hoci som myslel stále len na vás.
+    </p>
+    <p>
+     — Dobre, dobre… ale ja sa hnevám na vás! Myslela som, že už tu budete!
+    </p>
+    <p>
+     Ivan bol zas v rozpakoch. Darmo, dnes nebol svoj. A hlas, celé chovanie sa Mariannino
+         bolo dnes také nežné, prítulné…
+    </p>
+    <p>
+     — Viete… práca, práca…
+    </p>
+    <p>
+     Prišli na zákrutu, kde sa menej ¾udí prechádzalo (¾udia ich navidomoèi obdivovali), a
+         Marianna, nevšímajúc si jeho odpovedi, náhle povedala:
+    </p>
+    <p>
+     — Povedzte, èo myslíte, èi sa ozaj dá z èàt tvári hneï na prvý poh¾ad súdi o duši, o
+         charaktere?
+    </p>
+    <p>
+     — Oj, áno, ale nie vždy na prvý poh¾ad. Sú i takí ¾udia, ktorí sa vedia pretvarova. Pri
+         takých je ostrý zrak a dlhšie skúmanie potrebné, — rozhovoril sa ako nejaký profesor.
+    </p>
+    <p>
+     — Ale zväèša všakže na prvý poh¾ad? A myslím, že v tých dvoch, ktorí sa stretnú a
+         pozorujú jeden druhého, vzbudí hneï sympatický alebo protivný pocit…
+    </p>
+    <p>
+     — Celkom tak!… V ktorom pocite sa síce môžu pozdejšie i sklama, — doložil Ivan zas
+         profesorským tónom.
+    </p>
+    <p>
+     Marianna však trochu rozèulene hodila rukou a rýchlo povedala:
+    </p>
+    <p>
+     — Ale keï sa v obidvoch súèasne vzbudí sympatický pocit, tak nemožno… nemožno, že by sa
+         sklamali… ja verím tomu! — dokonèila nekoneène nežným a významným hlasom.
+    </p>
+    <p>
+     Ivan sa len teraz spamätal. Pozrel na Mariannu. V jej hlbokých oèiach plápolal plameò,
+         ale tichší a nežnejší, ako vèera — a preto i silnejší.
+    </p>
+    <p>
+     Slovenská duša je vnímavá oproti každej jemnosti a nežnosti… Ivan neukrýval ïalej city
+         svoje. V poh¾ade mu žiarila láska, láska slepá, oddaná, fanatická. Láska ozaj slovenská.
+    </p>
+    <p>
+     Ale do toho vybúšivšieho ohòa lásky musel hodi svoju najväèšiu obe, svoje snahy, svoje
+         ideále: celú bytnos svoju.
+    </p>
+    <p>
+     A obe tá ešte stupòovala pálèivos ohòa…
+    </p>
+    <p>
+     Ivan nemo podvihol k ústam rúèku devy a dlho, vrele ju celoval…
+    </p>
+    <p>
+     Potom sa ešte do mraku prechádzali, vyh¾adávajúc tichšie miesta parku, ale už málo
+         hovorili. Úsmev oèú, úsmev rtov o všetkom hovoril…
+    </p>
+    <p>
+     Pred domom, keï sa lúèili, zašeptali s tlumeným ohòom, ktorý len opravdu za¾úbení znajú:
+         — Do videnia!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Asi o týždeò po meste už každý vrabec èvirikal, že sa Ivan Borovský, ten ve¾ký Slovák,
+         za¾úbil do Marianny Véghovej, a èi Marianna do Borovského.
+    </p>
+    <p>
+     Každý zvedavo oèakával, èo sa z toho vyvinie. Lebo že je to ve¾ká udalos, s tým bol
+         každý na èistom. A dávno sa nevyskytlo v meste takého výborného temata na pletky… Na
+         najzelenejšie pletky.
+    </p>
+    <p>
+     Boli, ktorí povedali: Blázon by bol ten gavalier, keby neobrátil kepienok a keby sa
+         oboma rukami nechytal šastia, ktoré sa mu ponúka — také bohaté dievèa, a jediné!
+    </p>
+    <p>
+     A druhí zas: Hm, ale èo na to povie starý Végh? Lebo vedeli o òom, že je v stolici
+         ståpom tej kultúry… Iní zas vedeli, že medzi mamou a dcérou prišlo na vášnivé výjavy. Mama
+         vraj bezmála zamdlela a dcéra že sa vyslovila, že sa radšej oželie, alebo pôjde do
+         kláštora…
+    </p>
+    <p>
+     A darmo, nieèo už muselo by v týchto reèiach, lebo Vazul Végh, ktorý si na svojom
+         ve¾kom majetku v Marušiciach pokojne gazdoval, dostal istého dòa ekspres-list od svojej
+         starkej, aby hneï a zaraz prišiel za nimi do mesta, lebo sa Marianna šalie a ona že už
+         ztratila všetku auktoritu a moc nad òou.
+    </p>
+    <p>
+     Starý Végh sa trochu na¾akal, lebo svoje jediné diea zbožòoval. Rozmaznal ho, všetko mu
+         dovolil. A preto — neraz si nevedel rady s Mariannou, a to už od mladi.
+    </p>
+    <p>
+     — Zasa nejaká hlavatos Véghovská, — zahundral na svojich predkov, na ktorých bol ináèe,
+         prirodzená vec, nekoneène hrdý.
+    </p>
+    <p>
+     Sadol do koèa a uháòal k vlaku.
+    </p>
+    <p>
+     O hodinu bol už v meste. Na stanici ho èakala žena. Vysadol k nej do koèa a ona mu
+         cestou rozèulene vykladala o láske Marianninej.
+    </p>
+    <p>
+     — To dievèa už ani nepoznáš. Nedá si poveda, a nedá…
+    </p>
+    <p>
+     — No, to je nie nová vec pri nej. Véghovská krv. (Ako vidie, vïaène si spomínal
+         predkov.) Ale že sa jej práve Slovák musel hodi do cesty!
+    </p>
+    <p>
+     Trudné, ažké myšlienky mu vysadly na èelo. Ani nepoèúval na horekovanie svojej ženy.
+    </p>
+    <p>
+     Keï vstúpil do izby, Marianna stála k obloku obrátená. Vedela, kto vstúpil. Ticho sa
+         obrátila a úslužne sa blížila k otcovi. Vedela dobre, ako ju otec má rád. V jeho dobrote a
+         láske skladala svoju nádej. A preto bez váhania, ako èo by sa už boli o tomto shovárali, s
+         prosebným a nekoneène oddaným zrakom sa blížila k nemu.
+    </p>
+    <p>
+     Ale keï videla, že sa mraèná so stiahnutého èela netratia — razom sa premenil výraz jej
+         tvári v odpor a hlavatos.
+    </p>
+    <p>
+     Zastala pred otcom, a blízko síce ku plaèu, ale vyzývave mu h¾adela meravo do oèú.
+    </p>
+    <p>
+     Otcovi navrely žily na sluchách, pery sa mu triasly. A zaèal hovori vymeraným, prísnym
+         tónom, no hlas sa mu triasol:
+    </p>
+    <p>
+     — Marianna Végh, — s prízvukom zatiahnuc slovo „Végh“, — vážné veci ty stváraš?
+    </p>
+    <p>
+     Ešte ostrejší poh¾ad bola odpoveï, že èo ona robí, za to zodpovedá.
+    </p>
+    <p>
+     Otcovi sa pery zas zaèaly trias, h¾adal slová, no cítil, že bude porazený…
+    </p>
+    <p>
+     Razom bolo poèu klopanie na dverách.
+    </p>
+    <p>
+     Strhli sa všetci; Véghová sa poponáh¾ala ku dverám, pootvorila ich a zarazene cúvla
+         nazad: vo dverách stála štihlá postava Ivana Borovského.
+    </p>
+    <p>
+     Marianna v tom momente vypukla v srdcolomný, hysterický plaè.
+    </p>
+    <p>
+     Vazul Végh sa celý zmiatol… Nevrle sa obrátil k mladému èloveku:
+    </p>
+    <p>
+     — Pán Borovský?
+    </p>
+    <p>
+     — Mám šastie, — znela odpoveï.
+    </p>
+    <p>
+     Ivan, hoci sa zprvu tiež zmiatol trochu, hneï pochopil položenie. Videl, že v najhoršom
+         èase prišiel. Uklonil sa a chcel sa vzdiali.
+    </p>
+    <p>
+     Ale Végh, v tom momente sa rozhodnúc, kývnutím ruky ho zadržal a odhodlane zaal hneï
+         „in medias res“, ako mu to temperament diktúval v takýchto krušných položeniach:
+    </p>
+    <p>
+     — Pán osnovník, ja, vzh¾adom na isté otcovské city svoje, oproti samostatnej vôli a
+         budúcnosti dieaa svojho nechcem svoju oprávnenú rodièovskú moc používa. I som dos
+         osvietený a — ak chcete — i dos demokratický na to, aby som vás… vás… a dcéru svoju
+         porozumel. Viem i to, aké smutné následky má prenáhlenos mladých ¾udí, ale mojím zvykom je
+         vývin vecí nehati, osud za ruku nelapa — hoci strážim a neohrožene stráži budem nad tým
+         (a tu povýšil hlas), nad èím, ako hlave rodiny svojej, stráži mi prichodí… V jednom oh¾ade
+         však, ako i pod¾a predkov svojich do poslednej kvapky krvi verný prívrženec tohoto štátu… v
+         jednom oh¾ade pozdvihujem svoje výstražné veto!
+    </p>
+    <p>
+     Ivan mu pevne, nezmenenou tvárou h¾adel do oèú. Végh pokraèoval:
+    </p>
+    <p>
+     — Nechcem tým posudzova vašu osobu alebo vaše osobné presvedèenie, nekladiem prílišnej
+         váhy ani na to, èo som poèul; ale ak sú vaše úmysly oproti rodine našej úprimné a vážné,
+         tak myslím, že ma pochopíte, keï týmto požadujem od vás, aby ste odteraz…
+    </p>
+    <p>
+     Ivana tieto slová už dopálily. Už prekonal pred nieko¾kými dòami vnútorný boj v
+         neprospech svojho presvedèenia, chlácholiac búrlivý protest svojich citov mudrovaním a
+         filozofovaním — ale teraz razom vzbåklo v òom všetko, vzpriamila sa hrdos mládenecká a
+         zvuèným, ráznym hlasom pretrhol reèniaceho Végha:
+    </p>
+    <p>
+     — Pane, ïakujem za pouèenie a ustávanie, — a chcel poveda nieèo tvrdého, príkreho,
+         zvrtnú sa a odís, ale poh¾ad jeho padol na Mariannu, ktorá ho stále pozorovala so
+         vzmáhajúcim sa nepokojom a teraz s nevýslovne prosebným poh¾adom zopäla k nemu ruky…
+    </p>
+    <p>
+     Ivan viacej nièoho nepoèul, nikoho nevidel, na niè sa nepamätal. Sklonil málièko hlavu a
+         mašinálne, temno povedal:
+    </p>
+    <p>
+     — V poriadku je všetko.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IV
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     — Gratulujem, pane osnovník! — zvolal dvermi vchádzajúci pravotár Kürtös, na celé ústa
+         sa usmievajúc. — Práve teraz som poèul… no, a kedyže bude svadba?
+    </p>
+    <p>
+     Ivan Borovský sa z¾ahka zapýril.
+    </p>
+    <p>
+     — Ozaj ma teší, pane Borovský; ani neviete, ako ma teší…
+    </p>
+    <p>
+     Ivan Borovský však obrátil rozhovor na iné veci a rozprúdil sa medzi nimi veselý a živý
+         rozhovor, ako už dávno nie.
+    </p>
+    <p>
+     Bolo poèu tiché klopanie a vkroèil do pisárne ten istý gazda, ktorého bol Ivan asi pred
+         dvoma týždòami odpravil. Za gazdom sa zjavila i jeho žena.
+    </p>
+    <p>
+     Bolo to trápné položenie i pre Ivana, i pre advokáta. Ale tlela iskierka možnosti, že
+         prišiel azda s inou vecou.
+    </p>
+    <p>
+     Prichádzajúci boli nie menej v rozpakoch. No Ivan sa razom prívetive usmial na gazdu a
+         veselým hlasom sa ho spýtal:
+    </p>
+    <p>
+     — No, pán gazda, a èože robí ten váš neposedný súsed?
+    </p>
+    <p>
+     Sedliak sa poškrabal a vzdychol:
+    </p>
+    <p>
+     — Jaj, prosím ich, veï sme práve s tým prišli, znovu ich prosi. Nemáme pokoja od sveta,
+         a ten zlostník sa len smeje z nás.
+    </p>
+    <p>
+     Vyhnul zraku osnovníka a pozrel tázavým poh¾adom na advokáta… No tento v rozpakoch bol i
+         obrátil chrbát a otvoril dvere na svojej izbe…
+    </p>
+    <p>
+     Ale Ivan Borovský veselo apnul knihou o stôl a povedal:
+    </p>
+    <p>
+     — No, keï súsed nemá pokoja, však ho my trochu poskrúcame! Takých vtáèkov treba nauèi
+         po kostole hvízda… No nech sa len páèi sem bližšie sadnú si, popíšeme všetko a oddáme to
+         pri súde.
+    </p>
+    <p>
+     Razom prestal tlak v povetrí; od¾ahlo všetkým, advokát si odfúkol, a žena sedliakova sa
+         tiež rozb¾abotala…
+    </p>
+    <p>
+     Keï odišli a Ivan Borovský zostal sám, hodil rukou: „Treba takému ¾udu apoštolov?
+         Daromné namáhanie, daromná žertva!“
+    </p>
+    <p>
+     Ale mu bolo ve¾mi ¾úto. Bolelo ho to ve¾mi.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ivan Borovský stal sa pomaly bezcitným oproti svojim prácam a povinnostiam. Utratil
+         základ, ktorý ho dosia¾ obodroval, ktorý mu sily a sviežosti dodával.
+    </p>
+    <p>
+     Jedinú vynáhradu h¾adal vo svojej láske, a po istú mieru ju i našiel. Dúškom pil z
+         kalicha lásky, ale ten sladký nápoj bol pre neho viacej opiumom, ktoré ho uspávalo,
+         pomáhalo mu zabúda, zabúda, žhavý bô¾ ukája — a novému ovzdušiu sa prispôsobòova.
+    </p>
+    <p>
+     Niekedy však ožila v òom nádej i v jasnejšiu budúcnos. Veï si to potom už zariadi!
+         Nebude všetko ztratené… len, pravda, spôsoby, spôsoby budú inakšie.
+    </p>
+    <p>
+     A v tejto nádeji ho posilòovala prítulnos Mariannina. Deva táto, ktorú každý tak
+         poznal, ako svevo¾nú, odpor nestrpiacu panskú krv — po boku Ivana skrotla, ako jahòa, ako
+         holúbok.
+    </p>
+    <p>
+     Oprávnenú nádej na lepšiu budúcnos videl potom Ivan. Pri pomoci láskou pochopujúcej
+         ženy pomaly presvedèí, preinaèí, zreformuje svoje okolie…
+    </p>
+    <p>
+     Takto rozmýš¾al i teraz, kráèajúc ulicou domov. Keï po chví¾ke zdvihol zrak, uzrel
+         Kalmana Komora, ktorý ho od tých èias zïaleka obchádzal. Teraz mu chcel vyhnú, ale ho Ivan
+         zbadal.
+    </p>
+    <p>
+     — Nože no, domine, — zvolal naò žartovne, veï sa ma neboj!
+    </p>
+    <p>
+     — No, vieš, myslel som, že za¾úbení ¾udia nepotrebujú cudzej spoloènosti, — odpovedal s
+         ironickým úsmevom Kalman.
+    </p>
+    <p>
+     Ináèe, tak sa zdá, už sa celkom smieril so svojím osudom, hoci ho neraz zronila
+         myšlienka, jeho poldruharoèné ustávanie v jeden veèer vyšlo zmar a ostala mu po všetkom len
+         nemilá pamiatka: nakopené dlžoby, ktoré k vôli tomuto podujatiu robil. Ale, chvála Bohu,
+         nezlomil sa pod rukou osudu, pridàžajúc sa tej dobrej, vyzkúsenej pravdy: víno dobrá
+         medicína…
+    </p>
+    <p>
+     — Nuž a ináèe akože, akože sa máme, pán osnovník? — Ale vraj: osnovník! Veï skoro složíš
+         osnovnícke pero, èo?
+    </p>
+    <p>
+     — Èo ty zas táraš? — povie Ivan a h¾adí na neho so srdeènou úprimnosou.
+    </p>
+    <p>
+     — Blázon by bol niekto pri takom ve¾kom majetku nad písacím stolom hrdlaèi… Doma
+         gazdova pri peknej žene!
+    </p>
+    <p>
+     — Hahaha!
+    </p>
+    <p>
+     — Alebo pri stolici každé dvere otvorené, všetky schodíky svobodné na postupovanie… o
+         desa rokov si hlavným županom!
+    </p>
+    <p>
+     — Na moj’ pravdu, keï to taká elegantná Sybilla prorokuje!…
+    </p>
+    <p>
+     A Kalman melancholicky pokraèoval:
+    </p>
+    <p>
+     — Hja, vieš, tak je to, ako keï si dvaja chlapci sadnú na dosku-hojdaèku: jeden vyskoèí
+         do vysoka, a druhý apne dolu… Úfam sa však, že ma na svadbu zavoláš; chcem si ešte raz
+         dokonále zalumpnú, na tvoje šastie…
+    </p>
+    <p>
+     — A na to nádejné županstvo, èo? Hahaha!
+    </p>
+    <p>
+     Rozlúèili sa. „Statoèný šuhaj,“ pomyslel si Ivan.
+    </p>
+    <p>
+     V ušiach mu znely jeho slová o postupovaní. Keï to Kalman hovorí, tak sa iste reèi šíria
+         o tom na stoliènom dome… Ten predošlý Ivan Borovský sa v òom trocha zahanbil, ale tomu
+         novému lichotilo…
+    </p>
+    <p>
+     Keï otvoril dvere na svojej izbe, zazrel na stole list. Známa, dobre známa obálka so
+         zlatým monogramom a nad ním korunka…
+    </p>
+    <p>
+     Marianna mu písala:
+    </p>
+    <p>
+     „— Ivan môj! Príïte, ako budete môc! Poshovárame sa o jednom-druhom, lebo zajtra ráno
+         pôjdeme domov do Marušíc, kam by ste i vy prišli potom o deò-dva za nami. O tomto sa
+         poshovárame, len príïte skoro, skoro!…“
+    </p>
+    <p>
+     Teda o deò-dva do Marušíc, do budúceho domova!
+    </p>
+    <p>
+     Chytro sa oholil a šiel.
+    </p>
+    <p>
+     Pozde veèer prišiel domov, hvízdajúc si. Zdal sa by ve¾mi šastným.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     V
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     O dva dni na stanici marušickej pružne skoèil s vlaku Ivan Borovský. V novom, športovom
+         obleku bol opravdu drieèny. ¼udia na stanici dívali sa na neho, ako keï na javišti pekný
+         herec vystúpi.
+    </p>
+    <p>
+     Zo zástupu vykroèila Marianna tiež v sivom športovom kostýme, a usmievajúc sa, šla
+         Ivanovi v ústrety. V tomto kostýme bola ve¾mi okúz¾ujúca, štihlá, elastická, plná ohòa, a
+         pritom opravdu ženská.
+    </p>
+    <p>
+     — Vitajte mi, — riekla, milo mu h¾adiac do oèú.
+    </p>
+    <p>
+     — Moje prvé slovo musí by zas len obdivujúci kompliment mojej kráske, — povedal on.
+    </p>
+    <p>
+     — No, tak sa nám dnes už zle povedie, keï tak zaèínate! — a zasmiala sa zvuèným hlasom.
+    </p>
+    <p>
+     Za malou stanicou stál ligotavý èierny koèík. Pred ním prskal netrpelivý, ohnivý koník.
+         Srs sa mu leskla v jagavých lúèoch slnka. Za spenenú uzdu ho držal sluha v livreji.
+    </p>
+    <p>
+     — Predstavujem vám môjho tátošíka, — zvolala Marianna, t¾apkajúc koníka po ohnutom,
+         plnom krku, — uvidíte, ako bude letie s nami!
+    </p>
+    <p>
+     Vysadli. Sluha sa umiestil za ich chrbtom na sedadle. Vzala liace do ruky a leteli
+         smerom ku kaštie¾u…
+    </p>
+    <p>
+     O chví¾ku boli tam. Kaštie¾ sa úh¾adne belel z hustého stromovia. Na prúèelí bola
+         pohodlná veranda s vysokými ståpmi. Pred verandou kvetník, s badate¾nou starostlivosou
+         opatrovaný, s pestrými kvetinami, tropickými palmami a kríèkami rozliènej farby.
+    </p>
+    <p>
+     Na verande sedela celá rodina, už totiž „apa a mama“; èakali ich s raòajkami. Starý Végh
+         mu priate¾sky stisol ruku a mama — ináèe vždy ve¾mi nóbl — sa mu s neobyèajnou
+         prívetivosou usmiala, vítajúc ho. Mama si ho ináèe už ve¾mi ob¾úbila pre jeho ráznos a
+         mužnú jemnos. Vždy si žiadala jemného, estetického, vysokovzdelaného zaa — a v Ivanovi
+         mienila to všetko ma. Najväèšmi jej však imponovalo, že si to¾kú moc vedel získa nad
+         svevo¾nou Mariannou. Marianna, ktorá predtým stále trpèila život svojich rodièov hroznou
+         hlavatosou svojou, odkedy Ivana poznala, bola neobyèajne krotká. Starý Végh neobdivoval
+         ve¾mi jemné vlastnosti Ivanove, lebo i sám bol z tých joviálnych, prostorekých starých
+         pánov, ale mal dojem, že sa s Ivanom skoro spriatelí.
+    </p>
+    <p>
+     Teraz však vo v¾údnosti starých bolo viac, ako pohostinnos.
+    </p>
+    <p>
+     Po raòajkách mama priložila svoj lornet ku oèiam, vzala vkusnú knižoèku do ruky — akýsi
+         francúzsky román — a utiahla sa do svojej izbietky. Starý šiel za gazdovstvom.
+    </p>
+    <p>
+     A mladým sa míòal èas rýchle. Boli šastní. Hovorili, o èom za¾úbení hovorievajú: o
+         sebe, o budúcom šastí.
+    </p>
+    <p>
+     Marianna mu poukazovala všetko: svoje kvety, knihy, ma¾by, kone, svoje útulné skrýše v
+         parku, kde èítava.
+    </p>
+    <p>
+     Park bol trochu zanedbaný, no dodávalo mu to viacej prirodzenosti. Tiekol cezeò lenivý
+         potôèik s èiernou, špatnou vodou, a pretekal cez malé, plytké jazierko, z ktorého vysoká
+         tráva a rákosie vyrastalo. Vo¾akedy bol to rybník, ale teraz žaby škrkaly v òom. Pri
+         jazierku, neïaleko, bolo hrište pre lawn-tennis…
+    </p>
+    <p>
+     — Zajtra sa budeme hra lawn-tennis, dobre? — povedala Marianna, keï prišli k tomuto
+         miestu — èochví¾a osudnému…
+    </p>
+    <p>
+     Po obede sa šli do po¾a prechádza. Ruka v ruke kráèajúc, veselo spievajúc, pestré
+         kvetiny sbierajúc a v speve vtáèat sa kochajúc, prišli až k neïalekému lesu.
+    </p>
+    <p>
+     Príroda tu oboma rukami rozsýpala bohatstvo krásy svojej. Na kraji lesa sa zelenal prah
+         smaragdovej trávy, ïalej zpod kríèkov vykukávaly usmievavé hlávky kvetov v najrozliènejších
+         farbách, akoby milo vítaly prichádzajúcich. Vysoké, štihlé drieky jedlí sa rovno, smelo
+         dvíhaly dohora, ako mohutné ståpy tajomného domu… Kto vstupuje do takéhoto lesa, nemôže
+         necíti tajomného dojmu.
+    </p>
+    <p>
+     Marianna a Ivan húpavo stúpali po mäkkom machu, mlèky požívajúc tajomný pôvab lesa. Tá
+         tichos ich upozoròovala, že tu niekto hovorí, naèúva treba…
+    </p>
+    <p>
+     Marianna pretrhla mlèanie.
+    </p>
+    <p>
+     — Ivan, tu je tak dobre sni, tu je tak dobre zaletie nazpä do romantických èias; tu
+         sa taje odokrývajú a vidiny zjavujú… rozprávajte mi nieèo!
+    </p>
+    <p>
+     — Rozpráva? — usmial sa Ivan. — Ale o èomže, keï je tu tak dobre poèúva…
+    </p>
+    <p>
+     — Nieèo romantického… no rozprávajte èoko¾vek!
+    </p>
+    <p>
+     Sadli si na starý, ošarpaný peò. Ivan za chví¾ku rozmýš¾al, potom zaèal:
+    </p>
+    <p>
+     — Na divej, strmej skale stál hrad, silný hrad. Tvrdý, ukrutný èlovek bol jeho pánom.
+         Kto prišiel pod hrad, chúlostive uprel zrak hore, zkadia¾ konèité kopie a drzé tváre
+         vojakov h¾adely dolu.
+    </p>
+    <p>
+     Len z jedného, na západ obráteného, samotného oblôèka sa usmievaly milé kvietky.
+         Napínaly a vyahovaly svoje jemné hlavièky zpoza mreží ku slnku, ku slnieèku.
+    </p>
+    <p>
+     A za kvetmi sa èasto, zvlášte pri bielom mesiaèku, zjavila bledá, smutná, anjelská tvár…
+    </p>
+    <p>
+     Rovno pod tým oblokom dolu pásol štihlý šuhaj oveèky svoje. Na fujare vyhrával bô¾né a
+         prekrásné piesne, a v oblôèku za kvetmi sa zjavila bledá, smutná, anjelská tvár.
+    </p>
+    <p>
+     Keï šuhaj odtrhol fujaru od úst, sletel mu shora kvietok na klobúk. Pozrel hore, a videl
+         bledú, smutnú anjelskú tvár, ako sa slabo usmiala a zmizla za mrežami…
+    </p>
+    <p>
+     Kvietok zastrèil za klobúk, a na druhý deò ho tiahlo èosi zas pod ten zakvitnutý oblok.
+    </p>
+    <p>
+     A fujara èím ïalej, tým bolestnejšie žalostila a šuhaj odchádzal každý deò s kvietkom za
+         klobúkom.
+    </p>
+    <p>
+     V jeden veèer sletel s kvietkom i ružový lístok a v òom tajný odkaz…
+    </p>
+    <p>
+     Tej noci v hájiku pod hradom èakal šuhaj so zatajeným dychom. Listie zaševelilo a šuhaj
+         túžobne vystrel obe ruky v ústrety prichádzajúcej, a mesiaèik posvietil na bledú, smutnú,
+         anjelskú tvár. Šuhaj vzal tvár do svojich horúcich rúk a nemo, vrelo sa díval do hlbokých
+         oèú…
+    </p>
+    <p>
+     Zrazu zareve niekto na blízku z húšti. Drábi sa vrhnú na šuhaja, a poèu hlas tvrdého,
+         krutého pána: „Pekný pastier, èo lapá vtáèkov pri mesiaèku, a pekný vtáèik, èo klietku v
+         noci zanecháva!“
+    </p>
+    <p>
+     Vleèú ich do hradu. Na prostred hradu bola tmavá, hlboèizná studòa. Šuhaja drábi
+         poviazali a dolu hlavou do studne hodili. A bledá, smutná, anjelská tvár sa na to díva
+         musela…
+    </p>
+    <p>
+     Ráno, keï slnieèko vstalo, hlávky kvietkov uvädnuté, mrtvé visely zpomedzi mrežiek…
+    </p>
+    <p>
+     Ivan zamåkol. Marianna hlboko vzdychla. Pozrela široko roztvorenými oèima na Ivana.
+         Vetrík zašuchotal pomedzi listie, suchý konár sprašal neïaleko…
+    </p>
+    <p>
+     Marianna sa vzchopila:
+    </p>
+    <p>
+     — Poïme, Ivan, ja sa tu bojím!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Druhý deò ráno v kaštieli ešte všetci spali, keï Ivan vstal, obliekol sa a vyšiel von.
+         Nad ránom prestal spa, a zachcelo sa mu uvíta vstávajúce slnko. Prešiel ticho na prstoch
+         pred izbou Marianny, nemý bozk hodiac v tú stranu…
+    </p>
+    <p>
+     Ako vystúpil na verandu, zastal. Na dvore boli už sluhovia hore a akýsi chrap¾avý hlas
+         špatne klial po maïarsky, zrejme sluhom nadávajúc. Iste niektorý kasnár, išpán…
+    </p>
+    <p>
+     Ivana to nepríjemne dotklo. Cítil svoju krv pohanenú. I zarmútil sa zas. Veï sa to i
+         potom èasto bude opakova, a bude sa on môc na to díva, bude to môc poèúva?… No, niè
+         to, nauèí on poriadku tých tyranov!
+    </p>
+    <p>
+     Sbehol schodmi a šiel rovno na polia. Rosièka jagala a triasla sa na osvieženej tráve.
+         Na plné prsia dýchal do seba voòavý, èerstvý vzduch letného rána. S po¾a bolo už poèu
+         bodré výkriky oráèov, robotníkov. Videl ich zïaleka, videl rad zohnutých chrbtov, videl
+         pokorné šije, akoby v jarme — ako hrdlujú na cudzej pôde pre tú smidku chleba. Videl ich,
+         ako ryjú zem v kàd¾och, a pritom musia poèúva nemravné, ohyzdné reèi dozorníkov, išpánov;
+         videl, ako padá semä zkazenosti do srdca pôvodne panenského, kým ruka cudziemu seje chlieb,
+         a to chlieb hojný…
+    </p>
+    <p>
+     Ale z týchto trudných myšlienok a dojmov rodila sa v òom vô¾a premeni, zlepši tento
+         stav vtedy, keï tu i jeho slovo bude ma váhu. Robil si ideálné plány do budúcnosti…
+    </p>
+    <p>
+     No krušný hlas, ktorý sa mu jednostajne tam kdesi z håbky duše ozýval, posmešne mu
+         šepkal: Povedzme, že tu spravíš nieèo, ale jednou èistou kvapkou spasíš azda celé more
+         špiny? Èo tým pomôžeš celku? Pre celok máš ruky sputnané. Hlas tvoj už nepoèujú i
+         najod¾ahlejšie doliny a vàšky, kde sa tiež takto chrbty zohýòajú. Tu jednému u¾avíš
+         bremeno, a dookola tisíci budú ïalej upie v porobe, lebo si mamonou, osobným blahobytom
+         zahrabeš samostatnos a svobodu slova budiaceho. Ty si si už predal právo a svobodu vo¾ného
+         konania…
+    </p>
+    <p>
+     Vrátil sa do kaštie¾a v melancholickej nálade.
+    </p>
+    <p>
+     Keï prišiel pred verandu, z poschodového obloka, zpomedzi kvetov ozval sa zvuèný hlas
+         Mariannin:
+    </p>
+    <p>
+     — A vy už vonku?!
+    </p>
+    <p>
+     — Za rána je v prírode tak dobre!
+    </p>
+    <p>
+     — Ozaj… musíte mi poveda, èo sa vám prisnilo. Prvý sen u nás…
+    </p>
+    <p>
+     — Ja som až teraz ráno, s otvorenými oèami snil, — povedal polohlasne.
+    </p>
+    <p>
+     — A teraz poïte trochu bližšie pod oblok… tak! — a spustila na neho èervený kvietok.
+    </p>
+    <p>
+     — To tak, ako tomu pastierovi pod hradom! Joj, ale tú studòu ste nemuseli na konci
+         pricigáni… mòa to celú noc strašilo. No, poïte hore!
+    </p>
+    <p>
+     Celý kaštie¾ bol už na nohách. V jedálni štrngaly šálky. Ivan, osviežený rannou
+         prechádzkou, cítil sa už ako doma, a prívetivé „dobré ráno“ Végha a mamy, ukradnutý bozk
+         Mariannin naplòovaly ho sviežou jarosou.
+    </p>
+    <p>
+     Po raòajkách povedala Marianna:
+    </p>
+    <p>
+     — Poïme sa hra lawn-tennis! Budeme len dvaja, ale bude to i tak dobre.
+    </p>
+    <p>
+     — Poïme teda!
+    </p>
+    <p>
+     Sbehli dolu ruka v ruke. Na dvore Marianna zavolala:
+    </p>
+    <p>
+     — Jožko, Miško, kde ste?
+    </p>
+    <p>
+     O chví¾ku vybehol zo stajne bosý chlapec s bielou slovenskou hlavièkou a èervenými
+         líèkami, asi 7 — 8-roèný. Strhol svoj na uši padajúci klobúk a úslužne pribehol k Marianne.
+    </p>
+    <p>
+     — A Miško je kde?
+    </p>
+    <p>
+     — Kozy pasie, prosím ponížene.
+    </p>
+    <p>
+     — No, poï teda ty, budeš nám lopty podáva. Jožko to už akiste robieval, lebo si veselo
+         podskoèil.
+    </p>
+    <p>
+     Marianna obzerala cestou raket:
+    </p>
+    <p>
+     — Vy dobre hráte?
+    </p>
+    <p>
+     — Ej, dávno som sa už nehral.
+    </p>
+    <p>
+     — Ja sa náružive hrávam lawn-tennis. Je to najskvostnejší, najelegantnejší šport.
+    </p>
+    <p>
+     Veselo sa zaèali hra, netušiac, aký osudný koniec bude ma zábava…
+    </p>
+    <p>
+     V Marianne sa krv rozprúdila. A raz, keï sa silnejšie rozohnala, odrazila loptu
+         priïaleko. Lopta zaletela až ponad malé jazierko a padla, na nieko¾ko krokov od brehu, do
+         vody. Na chví¾ku sa ponorila, potom sa zjavila na povrchu a belela sa medzi vysokou trávou
+         a rákosím.
+    </p>
+    <p>
+     Marianna pribehla k jazeru, a keï videla, že loptu raketom nedoèiahne, obzrela sa za
+         nejakým kolom alebo nejakou haluzou. Ale nièoho takého nebolo naporúdzi.
+    </p>
+    <p>
+     Zaèala by srditou.
+    </p>
+    <p>
+     Spešne zavolala na chlapca:
+    </p>
+    <p>
+     — Jožko, poï sem!
+    </p>
+    <p>
+     Ale Jožko akiste tušil, èo mu bude rozkázané, preto otá¾al. Marianna netrpelive skríkla:
+    </p>
+    <p>
+     — Bežíš mi ho hneï sem!
+    </p>
+    <p>
+     Chlapec prišiel a zostrašene vyvalil oèi.
+    </p>
+    <p>
+     — No, èo vyva¾uješ oèi?! Chytro, vyhrò si nohavièky a choï do vody pre loptu, veï je
+         voda nie hlboká!
+    </p>
+    <p>
+     Ale chlapec sa nehnul. Èervenel a oèi mu pomaly podbehly slzami…
+    </p>
+    <p>
+     Ivan sa díval na to.
+    </p>
+    <p>
+     Mariannu zaliala Véghovská prchkos. Popudená skoèila k chlapcovi a skríkla na neho:
+    </p>
+    <p>
+     — Preèo nejdeš, keï ti rozkazujem?
+    </p>
+    <p>
+     Chlapca zalialy slzy a, na celom tele sa trasúc, fikal:
+    </p>
+    <p>
+     — Ve¾mi sa bojím… vo vode sú pijavice… krave sa raz na nohu devä prissalo…
+    </p>
+    <p>
+     Ale Marianna bola krv Véghovská, ktorá nestrpí odporu pri nikom, nie to pri takom
+         èervíèku!…
+    </p>
+    <p>
+     Zúrivé lapila chlapca za límec:
+    </p>
+    <p>
+     — Hodím a radšej medzi pijavice… ty slovenské šteòa!!
+    </p>
+    <p>
+     Chlapec skríkol a hodil sa na zem.
+    </p>
+    <p>
+     Èo prežil Ivan za tento moment, nemožno opísa. Zbledol ako stena a hrozným hlasom, ako
+         výbuch sopky, skríkol na Mariannu:
+    </p>
+    <p>
+     — Sleèna!
+    </p>
+    <p>
+     Marianna sa vzpriamila, ako socha. Za krátku chví¾ku h¾adeli jeden na druhého. Z poh¾adu
+         Ivanovho vyrážalo sa ohnivé opovrženie.
+    </p>
+    <p>
+     Chlapec usedave fikal pri nohách svojej trýznite¾ky.
+    </p>
+    <p>
+     Ivan pomaly, bez slova pristúpil k chlapcovi, ktorý sa prestrašene strhol… zdesil sa, že
+         ho azda i on…
+    </p>
+    <p>
+     Ale Ivan vzal chlapca do náruèia, pritisol ho k prsiam a s nekoneènou nežnosou a
+         bolesou bozkal chlapca dva razy rovno na ústa.
+    </p>
+    <p>
+     Potom ho složil, a chlapec, ticho plaèúc, pomaly odišiel.
+    </p>
+    <p>
+     Marianna stála, ako nemá, bezcitná socha, ale okolo úst jej hrala meravá èrta
+         svevo¾nosti a odporu.
+    </p>
+    <p>
+     A Ivan povedal ticho:
+    </p>
+    <p>
+     — S Bohom!
+    </p>
+    <p>
+     Položil èiapku na hlavu a ažkým krokom zameril rovno cez polia na hradskú…
+    </p>
+    <p>
+     Marianna ešte dlho stála na tom mieste, meravo sa dívajúc pred seba. Potom vyšla hore do
+         kaštie¾a a hodila sa na diván.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     VI
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Ivan, kráèajúc hradskou smerom k mestu, pomaly sa utíšil. Srdce mu síce krvácalo, ako èo
+         by ho nejaká ukrutná ruka na poly bola roztrhla, ale pritom cítil takú ¾ahkos a vo¾nos,
+         že sa cestou viac ráz nahlas, z plného hrdla zasmial. Divný to bol smiech — vtáèky
+         prestrašene vybrnkly zpomedzi konárov — no Ivan cítil, že praskly okovy a putá, ktoré ho v
+         poslednom èase tak dusily a tiesnily. Po omamujúcom, ažkom sne, po nad¾udskej duševnej
+         borbe a po strašnom otrase stál zas na nohách predošlý Ivan Borovský, svobodne, víazne a
+         èisto — ale umuèený, na smr unavený.
+    </p>
+    <p>
+     — Nepôjdem do mesta. Pôjdem do hôr. Vyspa sa… Hahaha…
+    </p>
+    <p>
+     A vtáèatá zas vybrnkly prestrašene zpomedzi konárov…
+    </p>
+    <p>
+     Hory boly dos ïaleko. Ale Ivan si myslel: èím ïalej, tým lepšie!
+    </p>
+    <p>
+     Pustil sa rovno cez polia smerom k horám. Brodil cez pasienky, cez oráèiny, cez jarky,
+         cez potok. ¼udia, na poli kde-tu pracujúci, obzerali sa za ním.
+    </p>
+    <p>
+     Nechcel myslie na niè, len kocha sa v prírode. Kráèal, akoby k istému cie¾u, ako by ho
+         tam v horách èakal niekto. Dotieravé myšlienky zaháòal. Ako podnapitý, hlasne sa shováral
+         sám so sebou a prihováral sa kvietku, stromu, vtáèau…
+    </p>
+    <p>
+     — Ohó, potôèik môj milý, myslíš, že a nepreskoèím?! — a preskoèiac, posmieval sa
+         šomrajúcim vlnám. — Joj, kvietok môj pekný, pristúpil som a? No, veï a vyrovnám… však je
+         to zverská ruka, ktorá kvietok trhá a šliape?…
+    </p>
+    <p>
+     Prišiel pod horu. Široko vystrel ruky a zvolal: „Tu som!“ Zrazu mu však kmitlo mys¾ou,
+         že vèera takto vchádzal do lesa s òou… Obzrel sa náhle, ale kaštie¾ už ledva bolo vidno;
+         malý punktík na obzore.
+    </p>
+    <p>
+     Vstúpiac pod klenbu štíhlych jedlí, takým krásnym mu všetko prichodilo, že zacítil túhu
+         básni, verše písa — prvý raz v živote.
+    </p>
+    <p>
+     Proboval složi prvý riadok:
+    </p>
+    <p>
+    </p>
+    <p>
+     <l>
+      Hora, hora vysoká…
+     </l>
+     <l>
+     </l>
+    </p>
+    <p>
+    </p>
+    <p>
+     Ale tento zaèiatok sa mu nepáèil, to znie vraj príliš populárne. Proboval všelijako,
+         koneène umiesil to takto:
+    </p>
+    <p>
+    </p>
+    <p>
+     <l>
+      Lesy, vy šíre, tajomné lesy,
+     </l>
+     <l>
+      prichádza ku vám márnotratný syn
+     </l>
+     <l>
+     </l>
+    </p>
+    <p>
+    </p>
+    <p>
+     — Ale poèkajmeže! Rým je slabý! Na lesy by bol dobrý rým: plesy… kdesi… Dobre, bude:
+         kdesi. Ale èo pred „kdesi“?
+    </p>
+    <p>
+     Koneène to zas vystrúhal takto:
+    </p>
+    <p>
+    </p>
+    <p>
+     <l>
+      Lesy, vy šíre, tajomné lesy,
+     </l>
+     <l>
+      poèujem ohlas svobody kdesi…
+     </l>
+     <l>
+     </l>
+    </p>
+    <p>
+    </p>
+    <p>
+     — No, to je dobre! Musím to hneï spísa… H¾adal po vreckách, našiel kus ceruzky a
+         papieru a spísal to.
+    </p>
+    <p>
+     Ale ïalej sa mu už rýmy nijako nedarily. Darmo, bol ve¾mi unavený. Vstrèil papier do
+         vrecka. Zívol… nohy ho už ledva niesly, potkol sa na akýsi peò; bezmála padol…
+    </p>
+    <p>
+     V hore bolo ticho; cez listie sa predieraly lúèe slneèné. Slnko ešte dos vysoko stálo.
+         Chcel si oddýchnu. Na blízku, pod hrubým stromom sa svalil na suché ihlièie, položil hlavu
+         na vypuklý, hrubý koreò — a oèi pomaly pritvoril. Koreò ho tlaèil, skrútil èiapku pod
+         hlavu, víèka mu znovu klesly a — už spal.
+    </p>
+    <p>
+     Slnce zapadalo. Ivan spal. Už len poslednými lúèmi ožiarenú oblohu bolo vidie pomedzi
+         konáre. Dolu bola úplná tma.
+    </p>
+    <p>
+     Chladný, veèerný vetrík pricválal na netopierových krýdlach do hory — a zadivil sa, keï
+         sa buchol do Ivana. Èo tu robí èlovek, kde ani vtáèka-letáèka? Chladne mu vdýchol do tvári:
+         Prechladneš, èloveèe, zobuï sa…
+    </p>
+    <p>
+     Ivan poslúchol. Otvoril oèi. Strhol sa… nevedel sa spamäta, kde je. Vystrel ruku…
+         ohmatal vypuklý, hladký a už zarosený koreò… Brrr — odtrhol ruku, ako by sa bol hrubej,
+         krvou nassatej, studenej pijavice dotkol…
+    </p>
+    <p>
+     Koneène mu svitlo — i v tme. Ale kam teraz? Hladný a bez prístrešia. No, spánku
+         ne¾utoval. Nedbal by bol na druhý bok sa obráti.
+    </p>
+    <p>
+     Pozrel hore, obloha sa ešte slabo žiarila — nebude ešte ve¾mi pozde. Vstal štvornožky;
+         bok mu trochu zmeravel. Radil sa chví¾ku sám so sebou. Nepamätal sa, že by bol videl domèek
+         niekde tu pod horou. A ktože vie, èi by potrafil z hory?
+    </p>
+    <p>
+     Ohmatal vrecká. Aspoò zápalky keby mal…
+    </p>
+    <p>
+     A vetrík mal z neho zrejmú rados. Zaèal si žarty robi z neho: podozrive zašuchotal
+         listím raz tu, raz tam, èo Ivanovi nebolo práve príjemné poèúva.
+    </p>
+    <p>
+     Razom zaèal naèúva. Ako by bol tupé údery poèul z dia¾ky… H¾a, zas! Ako by niekto
+         ïaleko drevo rúbal…
+    </p>
+    <p>
+     — No, už musím len ta, — povedal.
+    </p>
+    <p>
+     Ale ako sa pohol v tom smere, už mu znelo zas, ako od chrbta… Zastal namrzený; èo sa
+         ušiam robí? A vetrík, šibal, smial sa — lebo to on robil s ním také žarty…
+    </p>
+    <p>
+     Ale keï staré, vážné jedle, kárave zašumiac, zašomraly na neho, doniesol pekne-èisto
+         hlas sekery až k ušiam Ivanovým, ktoré úzkostlive zachytávaly i najmenší šramot v hlúpej
+         tme.
+    </p>
+    <p>
+     Tak už bolo možno kráèa — to jest potkýna sa a húpa kde do jamy, kde do vody. Ale
+         Ivan šiel za hlasom, ako po šnúre.
+    </p>
+    <p>
+     No hlas razom zaèúchol. Ivan by bol veril, že ho to nejaká víla láka… a s peknými vílami
+         chcel ma už pokoj.
+    </p>
+    <p>
+     Ale vetrík bol až prive¾mi úslužný. Aby svoje predošlé zlé žarty napravil, doniesol mu
+         slabý ¾udský hlas…
+    </p>
+    <p>
+     To zohrialo Ivana od hlavy do päty.
+    </p>
+    <p>
+     — Èo hneï i medzi zbojníkov, len nech sú ¾udia!
+    </p>
+    <p>
+     Onedlho zazrel i žiaru ohòa, a po krátkom namáhaní stál pred kolibou drevorubaèov.
+    </p>
+    <p>
+     — Daj, Bože, dobrý veèer! — ozval sa.
+    </p>
+    <p>
+     Tí tam sa z¾akli: — Ký to ïas?! ale potom už bolo dobre. Usadil sa medzi nich; azda
+         nikdy v živote nepocítil to¾kej radosti a spokojnosti, ako teraz…
+    </p>
+    <p>
+     — Zablúdil som.
+    </p>
+    <p>
+     — No, veï to niè. Vyspia sa tu dobre.
+    </p>
+    <p>
+     — Hm, keï som sa ja už vyspal.
+    </p>
+    <p>
+     Obzrel sa po chlapoch. Na zaèmudených, tvrdých tvárach odrážala sa zdrcujúca flegma a
+         spokojnos. Nemo sedeli okolo ohòa, dívajúc sa do vatry, kde v hlinených, opálených hrncoch
+         veèera klokotala.
+    </p>
+    <p>
+     Ivan sa s nadšením díval na nemý obraz, ako by mal Jánošíkových hôrnych chlapcov pred
+         sebou, alebo tých dvanástich okolo ohòa v ktorejsi povesti…
+    </p>
+    <p>
+     Znovu ho zalial prúd vnímavej poézie. Hovoril ako zo sladkého sna:
+    </p>
+    <p>
+     — Dobre vám je tu, bratia, však dobre v týchto horách?
+    </p>
+    <p>
+     — Hm, dobre ako dobre… len keby páleného bolo! — odpovedali dvaja-traja a oèi sa im
+         zablysly.
+    </p>
+    <p>
+     Radšej keby mu boli poriadné zaucho šuchli.
+    </p>
+    <p>
+     No mal pocit, ako èo by ho bol ozaj dostal: oèi sa mu otvorily, a videl, zrete¾ne videl,
+         že tí „hôrni chlapci“ rovno na hrnce h¾adia. Meravo a žiadostive h¾adia na hrnce. Nespustia
+         oka s hrncov. A každého myse¾ tam dnu klokoce. Všetky túžby, všetky žiadosti, všetky snahy
+         tam dnu v hrnci klokocú.
+    </p>
+    <p>
+     Ivan sa však nehneval. Nemohol sa hneva. Len cítil tmu. A malý ohník na prostriedku je
+         slabý dusnú tmu zahna. Slnka treba, slnka! Cítil chudobu, hlad — a tie hrnce nedostaèujú…
+    </p>
+    <p>
+     Chcel sa náhle ozva, pouèi ¾udí, ale hrnce ako by hlasnejšie sklokotaly, výstražne a
+         posmešne: èo chceš pri týchto hrncoch?!
+    </p>
+    <p>
+     — Èie sú tieto hory? — spýtal sa temno.
+    </p>
+    <p>
+     — Pána grófove.
+    </p>
+    <p>
+     Ivan vedel, ktorého. To bol súsed Véghovcov.
+    </p>
+    <p>
+     Nechcelo sa mu viacej hovori. Prestrel sa na suchý mach. Duševný pokoj bol, po krátkom
+         u¾avení, zas vzrušený, súlad rozvírený. Ani v hore pokoja…
+    </p>
+    <p>
+     Trápnym, krušným mu prichodilo i ïalej tam leža. Jednako, tak by bol chcel tým chlapom
+         hovori; káza, káza im chcel, ale keï tie hrnce tak posmešne klokotaly — a sám nemal
+         pokoja.
+    </p>
+    <p>
+     — Ako ïaleko je ztadeto mesto? — spýtal sa razom.
+    </p>
+    <p>
+     — No, dobré dve hodiny, — odpovedali.
+    </p>
+    <p>
+     — Tak ja teda pôjdem! — povedal a vzchopil sa.
+    </p>
+    <p>
+     — Ale kde?! Var’ do mesta o takomto èase? — zvolali všetci.
+    </p>
+    <p>
+     — Veru, keï som si deò prespal.
+    </p>
+    <p>
+     — Ale mohlo sa páèi s nami veèera!
+    </p>
+    <p>
+     — To už hej!
+    </p>
+    <p>
+     Podelili sa tým, èo mali.
+    </p>
+    <p>
+     Po veèeri im stisol všetkým rad-radom ruky:
+    </p>
+    <p>
+     — S Bohom, dobrí ¾udia!
+    </p>
+    <p>
+     Jeden z chlapcov ho šiel na kus odprevadi, aby v hore nepoblúdil. Plietol sa im pod
+         nohami aký-taký chodník, ale, keï vyšli z hory, bolo trochu vidnejšie. Chlap ukázal Ivanovi
+         cestu, ktorou sa dostane k železniènej dráhe, pod¾a ktorej už potom príde k svojmu cie¾u. A
+         s tým sa chlap vrátil, a Ivan sa pustil rezko. Jasno-žltá hlina cesty mu svietila pod nohy.
+         Koneène dostal sa k železniènej dráhe; potom sa mu už lepšie kráèalo.
+    </p>
+    <p>
+     Noc bola krásna, koncom júla, keï hviezdy padajú…
+    </p>
+    <p>
+     A v òom sa zapa¾ovaly nové plamene. Chcel ži, chcel pracova. Pri svetle trblietavých
+         hviezd v novšom, jasnejšom svetle ožily pred ním všetky jeho mladistvé túžby: chcel ži,
+         pracova pre plemeno v porobe upiace! To¾ko sily, to¾ko odvahy cítil v duši, v údoch, ako
+         nikdy. Ach, už ho niè na svete nepomýli, ani na chví¾ku neodvábi… Chcel ži a pracova…
+    </p>
+    <p>
+     — Stoj! Kto si? — skríkol na neho silný hlas.
+    </p>
+    <p>
+     Ustrnul…
+    </p>
+    <p>
+     Pred ním sa èernel — to¾ko vybadal — železnièný most a na nieko¾ko krokov akýsi chlap;
+         nemal èasu spamäta sa, chlap ho znovu okríkol:
+    </p>
+    <p>
+     — Kto si, hovor, lebo strelím!
+    </p>
+    <p>
+     Èo je to? nejaký strážnik, èi zbojník?…
+    </p>
+    <p>
+     — Ivan Borovský, pravotársky osnovník, — odpovedal mašinálne.
+    </p>
+    <p>
+     Cez most pribehli ešte dvaja chlapi s lampášom a blížili sa opatrne k Ivanovi.
+    </p>
+    <p>
+     V slabom svetle lampáša videl Ivan zablysnú sa bodák… Pristúpili k nemu traja vojaci.
+    </p>
+    <p>
+     — Ruky hore! — povedal jeden drzým hlasom.
+    </p>
+    <p>
+     Ohmatal ho a nenajdúc zbroje pri òom, ani niè podozrivého, posvietil mu do tvári.
+         Ivanovi bolo to už odporné… Hnev vybúšil z neho.
+    </p>
+    <p>
+     — Akým právom ma tu pristavujete?
+    </p>
+    <p>
+     — No, no, len tichšie, panáèik, sem legitimáciu!
+    </p>
+    <p>
+     — Nepotrebujem sa legitimova! So zbojníkmi mám azda do èinenia?
+    </p>
+    <p>
+     Tu vojak ešte drzejším, ale vojenským, vymeraným hlasom povedal:
+    </p>
+    <p>
+     — Pane, my konáme svoju povinnos; a jestli neposlúchnete, kolba pomôže… Prosím
+         legitimáciu.
+    </p>
+    <p>
+     Ivanovi sa pery triasly.
+    </p>
+    <p>
+     — Ale naèo? Preèo? Èo to má znamena?
+    </p>
+    <p>
+     — Hm, tak sa zdá, že mladý pán rovno s mesiaca alebo s niektorej hviezdy kvapol sem
+         medzi nás, keï nevie, že vypukla vojna.
+    </p>
+    <p>
+     Ivan dostával závrat.
+    </p>
+    <p>
+     — Už vojna? — vydralo sa mu z pàs. — Kedy?
+    </p>
+    <p>
+     — Hahaha! Dnes veèer, prosím ponížene, — odvetil posmešne a ostatní sa smiali.
+    </p>
+    <p>
+     — Teda predsa! — povedal Ivan a udrel sa do èela.
+    </p>
+    <p>
+     Ale bol omnoho vzrušenejší, ako by bol mohol o tomto viac rozmýš¾a.
+    </p>
+    <p>
+     — Prosím ešte raz a posledný raz: legitimova sa! — povedal vojak ve¾mi netrpelive.
+    </p>
+    <p>
+     — Nemám niè, — odvetil Ivan temno, ako zo sna.
+    </p>
+    <p>
+     — Teda ste naším väzòom. Máme rozkaz zavies vás na velite¾stvo. Nech sa páèi vopred!
+    </p>
+    <p>
+     Prešli cez most. Pod nimi huèala rieka. Dvaja vojaci zostali tam a jeden ho s nasadeným
+         bodákom sprevádzal.
+    </p>
+    <p>
+     Ivan proboval cestou rozmýš¾a. Vedel, že ho na velite¾stve prepustia. „Len šastie“,
+         pomyslel si, „že je noc; nerád bych hra pred davom menažeriu…“
+    </p>
+    <p>
+     Ale tento raz sa sklamal.
+    </p>
+    <p>
+     Ako prichádzali do mesta, prekvapilo ho, že i v takej pozdnej noci je všade svetlo, húfy
+         ¾udu maširujú po uliciach hore-dolu. Výkriky, vresk, lomoz.
+    </p>
+    <p>
+     Skoro sa sbehol i okolo nich dav…
+    </p>
+    <p>
+     A èo potom nasledovalo, to nebolo pre Ivanove strýznené nervy.
+    </p>
+    <p>
+     Potupné výkriky, kliatby, skaly lietaly proti nemu. Ba istý chalan ho zrovna op¾ul a
+         skríkol mu do tvári: „Obesi ho!“
+    </p>
+    <p>
+     A dav v chóre reval: „Obesi ho!“
+    </p>
+    <p>
+     Blýskavý bodák za ním bol len na to, aby prípadne tých obránil, ktorí ho hanobili…
+    </p>
+    <p>
+     Vykúpením bolo, keï vkroèil do mestského domu. Vojak predviedol ho pred poruèíka
+         Sommera, ktorého dobre znal. Hrnuli sa dnu i iní úradníci, rad-radom mu známi. Prekvapenie
+         a opovrženie na všetkých tvárach.
+    </p>
+    <p>
+     Ivan sám zaèal prchkým hlasom:
+    </p>
+    <p>
+     — Prosím moju vec skoro vyšetri, lebo mám dojem, že sa svet úplne zblaznel!
+    </p>
+    <p>
+     Poruèík si ho ani nevšímal, ale vypoèul vojaka. Ivana prekutali.
+    </p>
+    <p>
+     Našli len kus papiera u neho. A na òom akási báseò. Dva riadky. Poruèík èítal:
+    </p>
+    <p>
+    </p>
+    <p>
+     <l>
+      Lesy, vy šíre, tajomné lesy,
+     </l>
+     <l>
+      poèujem ohlas svobody kdesi…
+     </l>
+     <l>
+     </l>
+    </p>
+    <p>
+    </p>
+    <p>
+     Krik a výrazy pohoršenia bolo poèu v izbe na tieto slová.
+    </p>
+    <p>
+     — Aha! — „svoboda“ a „kdesi“… hej, hej… „kdesi za hranicami“… To sú tí, èo za hranice
+         kukajú… ebatta, pánsláv…
+    </p>
+    <p>
+     A oni všetci dobre poznali Ivana Borovského a Ivan ich. Ale teraz studené, ba divé
+         nepriate¾stvo vyrážalo sa z tých tvárí…
+    </p>
+    <p>
+     A poruèík sa obrátil k nemu:
+    </p>
+    <p>
+     — Kým sa jasnejšie nevyšetrí, èo ste h¾adali v noènom èase pri moste, a kým sa tento nad
+         mieru podozrivý verš nevysvetlí — ste väzòom.
+    </p>
+    <p>
+     Ivan sa poddal osudu svojmu.
+    </p>
+    <p>
+     A kto chcel viacej vedie, mohol sa len spýta i posledného uèòa v meste, a bol by
+         zvedel, že Ivan Borovský, vlastizradca, priplazil sa noènou hodinou k železniènému mostu a
+         chcel ho dynamitom do povetria vyhodi, ale ho lapili a našli u neho i tajný leták, v
+         ktorom narádza a hlása zradu… Mali ho vraj radšej hneï na moste obesi!…
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ráno prišla vec horko-ažko do poriadku. Svedèil i Végh.
+    </p>
+    <p>
+     Ale verš zostal nad mieru podozrivým a — ako obažujúca listina — bol peèlive medzi aktá
+         odložený a opatrovaný.
+    </p>
+    <p>
+     Ivana už nepustili na svobodu, ale ho zaviedli rovno do kasárne, a na tretí deò na
+         bojište…
+    </p>
+    <p>
+     Ivan bol stále ako bezcitná socha. H¾adel meravo, bez slova pred seba.
+    </p>
+    <p>
+     Pred odchodom na bojište navštívil ho Kalman Komor. Jediná statoèná duša. Slzy mu
+         vyhrkly z oèú, keï sa lúèil od Ivana…
+    </p>
+    <p>
+     No a ešte jedna duša ho oplakávala v marušickom kaštieli.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Na fronte bol tri mesiace. Mali ho pod stálym dozorom, ako „podozrivého“. A keï ho po
+         jednej ve¾kej bitke mrtvého priniesli „sanitéci“, major priklonil nemu a pripäl mu na prsia
+         vyznaèenie.
+    </p>
+    <p>
+     Niektorí tam prítomní vraveli, že videli, ako sa ruka màtveho mykla, ako by chcela
+         medailu zdrapi z pàs…
+    </p>
+    <p>
+    </p>
+   </div>
+  </body>
+ </tei:text>
+</tei:TEI>

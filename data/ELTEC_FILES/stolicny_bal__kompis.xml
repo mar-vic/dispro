@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1931653" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Stoličný bál : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:85153916">
+     Kompiš, Peter (1901-1949)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     1256
+    </measure>
+    <tei:measure unit="pages">
+     171
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:85153916">
+      Kompiš, Peter (1901-1949)
+     </tei:author>
+     <tei:title>
+      Stoličný bál
+     </tei:title>
+     <tei:pubPlace>
+      Košice
+     </tei:pubPlace>
+     <tei:publisher>
+      O. Trávníček
+     </tei:publisher>
+     <tei:date>
+      1931
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-31">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Stoličný bál
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    Bolo to pár rokmi pred vojnou. V Trenèíne slávil sa stolièný bál. Patrónkami boly pani
+         hlavného župana a pani baróna ve¾kostatkára. Stolièná dvorana bola slávnostne vyzdobená,
+         parkety novonatrené. Sám starý víceišpán, starý mládenec, vytiahol sa do gály — po celý rok
+         to neurobil — a šiel sa pokocha zlatou vlasteneckou mládežou. Vidiecki židovskí árendátori
+         na svojich koèoch, dedinskí sedmoslivkári na svojich brièkách i mestskí židia a úradníci na
+         najatých fiakroch schádzali sa zo všetkých strán. Starý hajdúch Fúèe¾a v èervenej
+         šnorovanej blúze nestaèil hosom roztvára krídla sklenených dverí na dlhej tmavej chodbe.
+   </p>
+   <p>
+    I tanec sa rozprúdil hneï. Stolièiarski gavalieri rozplývali sa okázalou pozornosou k
+         taneèniciam, èi to boly vznešené aristokratické dámy, èi plné poèerné židovèatá vo
+         výstredných toaletách, èi koketné úradnícke dámy, èi plaché dcérky tých pár slovenských
+         mešanov, ktorí pokulhávali na obe strany a nechceli si to pokazi ani s národným, ani so
+         stolièným domom.
+   </p>
+   <p>
+    Èardáš stíhal èardáš, kde-tu ozval sa sentimentálny valèík. Mužská spoloènos pila,
+         tancovala, kurizovala. Úèinok nápoja bol stále zrete¾nejší. Už zaèala sa deli na rôzne
+         skupiny, vrstvy; županovci s barónovci a grófkou sedeli pohromade; víceišpán sedel síce
+         medzi mladými židovkami, ale rozklad zasiahol sám úradnícky tábor.
+   </p>
+   <p>
+    Maïarskí prisahovalci poèínali robi nešetrné poznámky na domorodcov, zmaïarónèených
+         slovenských Janov, ktorým trèí slama z ucha. Najväèšmi sa rozhadzoval medzi dolnozemskou
+         gardou štátny inženier Hertelendy, vykàmený ako kapún, zazerajúci zpoza svojich bujných
+         fúzov s pleca na trenèianskych boèkorošov. Hertelendyho mali stolièiari vôbec v oku. Keï
+         prišiel do Trenèína, neporobil ani oficiálnych návštiev a vôbec choval sa spurne, ako by mu
+         ani vicišpán neimponoval.
+   </p>
+   <p>
+    Ešte dos, že sa uráèil do maïarského kasína vstúpi. Mal už tretiu ženu, vraj bohatú
+         vdovu — po statkárovi. Nevedelo sa, ko¾ko s ktorou ženou vyženil, èi mal z domu peniaze.
+         Dos na tom, že štátny inženier Hertelendy bol èlovek prvej triedy, obýval s paòou celé
+         poschodie moderného domu pekára Holbu, držal si dve slúžky a troch psov. Div, že majite¾
+         domu trpel krik a zápachy, ktoré boly s držaním psov spojené. Akiste platil mimoriadne
+         ve¾kú árendu. Bol to èlovek vôbec nepopulárny, na pozdravy ledva odpovedal.
+   </p>
+   <p>
+    I v úradnom styku bol vraj ostrý, pánovitý, pohádal sa so stránkou ako niè. Držal si
+         automobil a šoféra. Hertelendyho automobil zadlávil už nejedného trenèianskeho psa a
+         nejeden èlovek zachránil sa pred úrazom iba tým, že v poslednom okamihu odskoèil pred
+         revúcou, benzínové pary chrliacou beštiou na bok.
+   </p>
+   <p>
+    Bohatý dolnozenský nadutec bol prirodzene tàòom v oku zadåženým, väèšinou len zo svojich
+         neskvelých platov živoriacim stolièiarom.
+   </p>
+   <p>
+    Hovorievali, že neškodilo by mu hodi bombu pred automobil, keï na òom najšialenejšie
+         uháòa, alebo ho pri príležitosti verejne vyzauškova.
+   </p>
+   <p>
+    Lebo veï nevprace sa do vlastnej kože, odkundes vo¾áky!
+   </p>
+   <p>
+    Na stoliènom bále dával pociova nešetrne svoju povýšenos. Shromaždil okolo seba —
+         ženu na bále vôbec nemal — svoju gardu: starého Nagya, úradníka na bernom úrade, mladých
+         profesorov na vyššej obchodnej škole, Barabáša a Lelkeša, Spišiaka, Zasmuckého,
+         železnièiarskeho úradnika atï. Kritizovali o milých pä stolièné hospodárstvo.
+   </p>
+   <p>
+    Po rezkom èardáši, ktorý trval vyše polhodiny, nasledovala polnoèná prestávka. Rodiny
+         poberaly sa do ved¾ajších miestností a zasadaly ku svieèkovici a hojne paprikovanému
+         pörköltu. Inženier Hertelendy pokývol cigánom. Vošli za ním do boènej dvorany, kde sedel so
+         svojími kompanmi. Dal si vyhráva kurucké a dolnozemské beárske nóty. Neraz búšil päsou
+         na stôl a cifrovane zateremtetoval, keï cigáni nemali o rozkázanej piesni ani poòatia.
+         Poèerný, malý profesor Lelkeš, Hertelendyho priate¾, priviedol si k stolu taneènicu, vysokú
+         blondýnu. Bola to štátna uèite¾ka, ktorú mladý profesor najviac vykrúcal. Páni dali
+         vyhráva jedinej dáme, ktorá bola medzi nimi, do ucha. — Vo ved¾ajších miestnostiach bola
+         shromaždená najväèšia èas bálovej spoloènosti. Stolièný podnotár Nehrebeczky, mladý
+         statkár Folkušovský, podslúžny Jazernícky zabávali s kamarátmi celý veniec krásiek. Do
+         najkrajšej z nich, Margity Csepcsányich, bol vysoký, fešný Nehrebeczky smrte¾ne za¾úbený.
+         Mládež zabávala sa i poèas prestávky dobre, trebárs pociovali trochu nemilo neprítomnos
+         cigána.
+   </p>
+   <p>
+    Blížila sa jedna hodina, keï krásna Margitka prosila hlavného aranžéra Jazerníckeho:
+   </p>
+   <p>
+    — Pišta, dajte zahra valèík!
+   </p>
+   <p>
+    — Áno, áno, malo by sa už tancova — prisviedèali rozjarení mladí ¾udia.
+   </p>
+   <p>
+    Spoloènos vstávala od stolov akoby na povel. Podslúžny Jazernícky sebavedome otvoril
+         dvere na malej dvorane:
+   </p>
+   <p>
+    — Pa¾o, hra! Valèík! — zvolal na cigána.
+   </p>
+   <p>
+    — Pa¾o, ani na krok! — dupol nohou Hertelendy a vrhol na Jazerníckeho vyzývavý poh¾ad
+         dolniackeho beára, hotového kla sa na nože.
+   </p>
+   <p>
+    Ku dverám malej dvorany nahrnulo sa zvedavých mužských. Ba i niektoré dámy povšimly si
+         kriku.
+   </p>
+   <p>
+    — Dnes ja disponujem s hudbou! — zvolal Jazernícky rázne. Cítil, že nesmie ustúpi ani
+         na piaï. Veï za chrbtom mu stálo pol stolice.
+   </p>
+   <p>
+    — Ale ja si nedám cigána vzia! — zreval Hertelendy. — Mne tu nikto nerozkáže!
+   </p>
+   <p>
+    Cigáni obzerali sa váhave na všetky strany. Primáš rešpektoval síce bohatého inženiera,
+         z ktorého sa požil viac, ako z desiatich stolièiarskych hladošov dohromady. Ale bál je bál,
+         a stolica — stolica.
+   </p>
+   <p>
+    — Pa¾o za mnou! — opakoval Jazernícky svoj rozkaz.
+   </p>
+   <p>
+    — To je paholské tempo! — zareval Hertelendy.
+   </p>
+   <p>
+    — Èo ti je paholské tempo, ty papu¾a neumytá! — priskoèil nelenivý Jazernícky k
+         Hertelendymu ako strela a vyal mu zaucho. Silák Hertelendy, èervený ako krv zreval divoko,
+         schvátil útleho Jazerníckeho jako loptu a praštil ho o zem tak, že chudák podslúžny
+         bo¾astne zjajkajúc rozplaštil sa na podlahe jako žaba. Na nehybnom tele a smrte¾ne zb¾adlej
+         tvári zjavily sa stopy mdloby. Z oboch strán skoèilo mu pár ¾udí na pomoc. Fàkali ho vínom
+         a kriesili.
+   </p>
+   <p>
+    Dámy bedákaly: Bože, Bože, azda mu len neublížil! Kto to kedy videl, pobi sa pre
+         cigánov!
+   </p>
+   <p>
+    Jazerníckeho odvliekli do jednej z ved¾ajších miestností. O chví¾u zjavili sa v malej
+         dvorane Nehrebeczky a Folkušovský a oznámili Hertelendymu a kompánii, že aféra bude ma
+         rytierske pokraèovanie, a vyzvali Hertelendyho aby sa vzdialil.
+   </p>
+   <p>
+    Nehrebeczky ujal sa hlavného aranžérstva. Po polhodinovej trapnej prestávke koneène
+         zavznely sladké tóny valèíku.
+   </p>
+   <p>
+    Hertelendy vzdialoval sa hrmotne so svojimi kompanmi.
+   </p>
+   <p>
+    Po ich odchode bol vzduch hneï èistejší, ¾ahší, ale zábava neprišla ani do rána do
+         starej ko¾aje, trebárs mladý Jazernícky popíjal víno a èierne kávy za stolom naproti dverám
+         do hlavnej dvorany.
+   </p>
+   <p>
+    Vicišpán dohováral svojim mladým ob¾úbencom:
+   </p>
+   <p>
+    — To je hanba, že ten lapátoš hortobáïsky odišiel s celými hnátmi!
+   </p>
+   <p>
+    — Veru ste nemali, mladí páni, necha tak prepadnú chudáka Jazerníckeho! — dohováral
+         drevokupec Teich.
+   </p>
+   <p>
+    Skupina úèastníkov stolièného bálu: notár, dvaja kancelisti a kastelán odišli s bálu
+         ešte za tmy. Podgurážení zastali pred jedným hostíncom a radili sa, èi majú vojs.
+   </p>
+   <p>
+    Naïapil sa blízko nich sadzaè Lasica so svojim kamarátom Frlièkom.
+   </p>
+   <p>
+    — Podívaj sa, Jožo, na tých bendegúzov! — ukazoval Lasica priate¾ovi na postavy,
+         mihajúce sa v hustej tme jako plaché tône. — Uvidíš, že náhle k nim priskoèím, hneï sa
+         pobijú. Požièaj mi tej palice!
+   </p>
+   <p>
+    A Lasica rozbehol sa po prstoch k dohadujúcim sa stolièiarskym proletárom. Vkradol sa
+         medzi nich ako had.
+   </p>
+   <p>
+    — Poïme, basom mu dušu! — povzbudzoval Ïula Zelenkay.
+   </p>
+   <p>
+    — Poïme, azda len nepôjdem ešte spa!
+   </p>
+   <p>
+    V príhodnom okamihu udrel Lasica po chrbte starého Zelenkaya. V nasledujúcom okamihu bol
+         jedným skokom v bráne súsedného domu.
+   </p>
+   <p>
+    — Kto ma to udrel? Basom mu dušu, však mu ja vrátim! Ty si to bol, Déneš, ty živáò! —
+         dvíhal Zelenkay palicu na notára ved¾a stojaceho.
+   </p>
+   <p>
+    — Èo je? Èušíš ho, ty chúïa z teplej múky! Choï sa radšej vyspa, lebo ti naozaj
+         priložím! — zastrájal sa notár podráždený.
+   </p>
+   <p>
+    — Alebo ma to ten lagan Milosevics! Tu máš, ty zbojník!
+   </p>
+   <p>
+    A nastala všeobecná kuca-paca, výkriky, jajkanie a nadávanie.
+   </p>
+   <p>
+    A pisár Milosevics nosil polroka po stoliènom bále dva èervené f¾aky, ako pamiatku po
+         rozbití hlavy. A inženier Hertelendy zakrýval si ešte i potom dlho èiernou páskou švík na
+         ruke, tak hlboká bola rana, ktorú utàžil v súboji s podslúžnym Jazerníckym.
+   </p>
+   <p>
+    Hja, nebol to bál ako bál, ten trenèiansky stolièný bál!
+   </p>
+   <p>
+   </p>
+  </body>
+ </tei:text>
+</tei:TEI>

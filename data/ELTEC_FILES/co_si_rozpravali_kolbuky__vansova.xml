@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885364" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Čo si rozprávali kolbúky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:15567322">
+     Vansová, Terézia (1857-1942)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     3903
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:15567322">
+      Vansová, Terézia (1857-1942)
+     </tei:author>
+     <tei:title>
+      Čo si rozprávali kolbúky
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher/>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="F"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Čo si rozprávali kolbúky
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V komore starého milovníka zvláštností stál medzi iným hara-
+burdím starý klavír. Struny potrhané, zhrdzavelé už len kedy tedy
+vydaly tu drsný, tu žiaľny tón, keď vlhkým povetrím väzba po-
+púšťala. Tenké, vysoké nohy zdaly sa trpeť podagrou a hrozily
+celé teleso starého klavíra syrhnúť zo seba. Na starom tomto kla-
+víre nachádzala sa hromada starých klobúkov. Bola jich tu celá,
+k tomu ešte internacionálna spoločnosť. Tu nachádzal sa široký
+klobúk, aký nosili a nosia umelci, alebo takí, ktorí sa umelcami
+prezývať dajú, tam zas kalpak so zbytkami pera a: kokárdy, tu
+slamený, jemný širák s anglickým nápisom: Betfordshire a s vi-
+gnettou: „Honi swit gui mal y pense!“ Starý, vysoký pinč s ob-
+strihanou a znovu hrubou cvernou pozašívanou strechou zdal sa tu
+rozkladať a cítiť celkom ako doma a preto nezameškal nikdy viesť
+rozhodné ,slovo alebo úsudok , tu široký, starodávny klobúk s vy-
+pálenou na streche dierou zdal sa byť dakedy majetkom učenca,
+tam zas kukal zo svojej škatule francúzsky „clague oreblle“ a
+pýšil sa svojím parížskym pôvodom. Krem týchto bolo tu ešte
+viacej všakových pokrývok.
+   </tei:p>
+   <tei:p>
+    Gez polo slepé sklo okienka mrežami opatreného kukal dnu
+mesiac, len tak nesmelo, ako keď za zimného rána umrznutý po-
+cestný pýta o dovolenie smieť zohriať si ruky u jasného ohňa do-
+imáceho krbu. Tam von bola tuhá zima: sňah zamrznutý odrážal
+svetlo mesiaca v tisícich svojich diamantoch a tie Pra tiež
+zdaly sa triasť zimou.
+   </tei:p>
+   <tei:p>
+    Aj v komore bola zima a panovalo ticho.
+   </tei:p>
+   <tei:p>
+    Ticho? Či nešuchlo práve niečo, ako bôľny, pritlumený vzdych ?
+Hej, vzdych to bol, vzdych hľboký.
+   </tei:p>
+   <tei:p>
+    „Kde sú tie časy 74 začne melancholický hlas. Náležal on
+širokému klobúku „umelca.“
+   </tei:p>
+   <tei:p>
+    „Hej, tie časy!“ ozval sa hneď na to chripľavý, drsný hlas.
+Bol to starý, hrubou cvernou pozašívaný pinč. „Keď ešte môj pán
+   </tei:p>
+   <tei:p>
+    - on bol skupáň a úžerník — čítal svoje dukáty, ktoré v starých,
+zašpinených puučochách skrýval, keď ešte všetko bolo pri starom.
+staré háby, staré peniaze, staré knihy, vzácne folianty, popchaté
+v múčnych vreciach, keď prichádzali podozriví ľudia k nám, da-
+jedni s ohnutým nosom a krkavčím pohľadom a hladom, daj dni
+bľadí a s uslzenou tvárou. Tu doniesla bľadá deva posledný ro-
+dinný klenot do zálohu , tu vyhladovelý študent jedinú vestu: všetko,
+všetko tu našlo ochrannú strechu. No nielen staré haraburdie obý-
+valo náš dom: bola tu aj lepá kráska, dcéra môjho pána, slečna
+Amelia. Starý som, no takej ženskej som nevidel, akou bola ona.
+   </tei:p>
+   <tei:p>
+    Jednoho večera prišiel môj pán pozde z jarmoku domov:
+rovno do svojej pracovne. Tu ho ovialo dusné, mrazivé povetrie.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    Obloky nikdy neotvoril sa čerstvému vzduchu, pavučiny sťa plachty
+pokrývaly sklo a robily záslony zbytočnými. Nikdy nesmela ženská
+ruka siahnuť po motle, aby poriadok uviedla v chaos tento. I teraz
+pozorne zatvoril dvere, zodvihnul ťažký vrchnák truhly a vyňal
+punčochu naplnenú zlatom. Hej, jakým lesklým prúdom hnalo sa
+to jeho kostnatými prstami! Lojová sviečka len mdlé svetlo vydá-
+vala a odrážala sa v lesku vzácneho kovu a v svieťacích sa ná-
+ruživých očiach starca.
+   </tei:p>
+   <tei:p>
+    Zrazu počuť bolo tiché, nesmelé klopanie. Starý shrnul dukáty
+do starej punčochy a zachlopil vrchnák truhly. Potom otvoril.
+   </tei:p>
+   <tei:p>
+    Dnu vstúpila slečna Aurelia. Oblečená bola v sviatočné šaty,
+čo starému ihneď napadnúť muselo. Jej pohyby a výraz tváre zdal
+sa byť tiež sviatočným, ba slavnostným. Niečo váhave blížila sa
+k otcovi.
+   </tei:p>
+   <tei:p>
+    „Otče!“ zvolala a pozrela naňho prosebne.
+   </tei:p>
+   <tei:p>
+    On obrátil sa udivene ku nej a tázavým pohľadom premeral
+jej zjav.
+   </tei:p>
+   <tei:p>
+    „Nuž?“
+   </tei:p>
+   <tei:p>
+    »Nevenoval by si mi chvíľku času?“ znela jej nežná otázka,
+ktorá bola spolu i prosbou.
+   </tei:p>
+   <tei:p>
+    „Mám súrnu prácu!“
+   </tei:p>
+   <tei:p>
+    „Moja. záležitosť je tiež súrna!“
+   </tei:p>
+   <tei:p>
+    „Nuž tedy, ponáhľaj sa!“
+   </tei:p>
+   <tei:p>
+    Aurelia vydýchla, akoby si chcela dodať zmužilosti, na jej
+tvári bolo poznať známky duševného rozčulenia a hlasom sa jej
+chvelo ako utajené slzy. Potom priblížila sa k otcovi a oprela sa
+rukou 0 stôl, na ktorom pred chvíľou leskla sa hromada zlata.
+   </tei:p>
+   <tei:p>
+    „Otče, ty znáš Ostrického ?“
+   </tei:p>
+   <tei:p>
+    „Toho bedára, toho pobehaja!?“
+   </tei:p>
+   <tei:p>
+    „Je pravda chudobný.“
+   </tei:p>
+   <tei:p>
+    ú lám ho veľmi dobre, nemá nič!“
+   </tei:p>
+   <tei:p>
+    „Tv znáš aj to, že ma lúbi!“
+   </tei:p>
+   <tei:p>
+    „Ze ťa lúbi! Hej, veď bol tak drzý, že žiadal ma za tvoju
+ruku, — no ale som mu ja posvietil! rem toho sľúbil som tvoju
+ruku pánu Krkavcovi.“
+   </tei:p>
+   <tei:p>
+    „Nikdy!“ zvolala deva vášnive.
+   </tei:p>
+   <tei:p>
+    „Ze nikdy? Veď sa nahľadíme!“ zvolal zase on s posmeškom.
+   </tei:p>
+   <tei:p>
+    „Nikdy!“ opakovala dcéra znovu a vztýčila sa. „Ja som tomu
+predišla. !“
+   </tei:p>
+   <tei:p>
+    „Nuž?“
+   </tei:p>
+   <tei:p>
+    „0d dnes rána som Ostrického ženou!“
+   </tei:p>
+   <tei:p>
+    Starý zbľadol a prudko trhmul sebou.
+   </tei:p>
+   <tei:p>
+    „Blúzniš?“ zvolal.
+.« „Nie, neblúznim: hovorím pravdu. Ty si ma chcel predať sta-
+Tému výstupníkovi, preto, že nežiadal od teba prinavrátenie starého
+«llhu a. odmietnul veno. Ty nechcel si vyslyšať prosby milujúcich ,
+keď Ostrický uchádzal sa o moju ruku, pohanil, potupil si ho, —
+ty zoprel si st oproti šťastiu svojho dieťaťa. No ja, aby som vy-
+   </tei:p>
+   <tei:p>
+    ad Já
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    hnúť mohla nenávidenému sväzku, oddala som sa s mužom, kto-
+rého ctím a lúbim a s ktorým hotová som niesť neresti života!“
+   </tei:p>
+   <tei:p>
+    »„Nezdarné dieťa! Hovoríš pravdu?!“
+   </tei:p>
+   <tei:p>
+    „Úplnú pravdu!“ zvolala dcéra neohrožene,
+   </tei:p>
+   <tei:p>
+    „A vieš, že ťa vydedím, že nedostaneš ani haliera, ani ten
+tvoj bedár a svoditeľ? — Preč z mojich očú, preč z môjho domu!
+U mňa niet viac prístrešia pre odpadlú, nevernú, nezdarnú dcéru!“
+Starý sypel zlosťou a zraky jeho metaly blesky zlosti na úbohú
+dcéru.
+   </tei:p>
+   <tei:p>
+    „Idem, otče!“ riekla ona smutne, „predvídala som to, no ne-
+chcela som opustiť dom rodičovský bez pokúsenia sa prosby o od-
+pustenie!“
+   </tei:p>
+   <tei:p>
+    „Iď mi z očú, nezdarné dieťa!“ A drsnou rukou sotil ju do
+tinavej noci, aby hľadala prístrešie a lásku u ľudí cudzích. Za
+chvíľu zostal stáť, akoby znovu nasbierať mal sily po takom víťaz-
+stve, potom znovu vyňal punčochu, zahlbil sa do čítania a čítal,
+čítal...
+   </tei:p>
+   <tei:p>
+    „Tvoj pán bol blázon!“ zvolal široký klobúk s vypálenou
+strechou s opovyžením. „Len blázon je niečoho podobného schopný.
+Môj pán bol učenec. Hovoril všetky možné i nemožné moderné
+i staré jazyky. Ešte i sanskrit nebol mu tajnosťou. Najradšej ale
+vhíbil sa do tajností krásneho jazyka starých Hellenov. Všetkých
+gréckych filosofov znal tak dobre ako svoju starú kuchárku. 80o-
+kratesa nazval starým bláznom. Keď vykladal svojim poslucháčom
+o krásach gréčtiny, bol ako vymenený. Celá postava sa vypnula a
+z očú sálal divný plameň nadšenia. Od istého času zamestknával
+sa písaním rozsiahleho a hlboko vedeckého pojednania o gréckej
+spojke se-#31, prehfňajúc sa vo veľkých, v svinskej koži viazaných
+bachantoch, nezbadal, že kuchárka doniesla večeru. Bez veľkých
+okolkov pohádzala táto mudrcov do kúta, vtrepala mluvnicu kamsi
+pod pec a postavila na stôl lojovú sviečku a baranie modzgy. Ja
+som to všetko dobre mohol pozorovať, lebo pre pánovu lysinu po-
+krýval som i doma jeho hlavu. Kuchárka odišla, pán vzal lojovú
+sviečku do jednej, mluvnicu do druhej ruky a oprel sa niekam do
+kúta, aby ďalej študoval a pátral. Ale beda mne! Plameň sviečky
+dotknul sa strechy mojej, i tak nikdy nie ohňovzdornej, a neviem,
+neviem, čoby sa ešte bolo dialo, keby nie zjav kuchárky vo dve-
+rach. Tá urobila potom veliký krik — a moja strecha navždy od-
+niesla známku pánovej učenosti. To nebolo všetko. Nad baraními
+modzgami smiloval sa čierny Pluto a ubytoval sa so svojou ko-
+vysťou niekde v svojej ríši, kam žiadna olympická moc nebola
+vstave ho nasledovať.“
+   </tei:p>
+   <tei:p>
+    „mHahaha!“ smial sa kalpak z plného hrdla a narovnal zbytky
+pora ča koká dy. „To bol tiež kuriozný svätý! Môjmu pánovi sa
+niečo NT nikdy neprihodilo. On bol majiteľom rozsiahlych
+pustatín.“
+   </tei:p>
+   <tei:p>
+    „Iste aj tam bolo pusto, kde si ty pokrýval!“ zahundral
+starý pinč.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    8 „VON
+   </tei:p>
+   <tei:p>
+    % „Kérem, môj pán mal pre seba dosť rozumu! Keď boly korte-
+šačky, bol on medzi prvými, čo pomáhali piť a kričať éljen! Keď
+sa ale voľby pominuly, obrábal svoje polia, miloval karty, psov a
+kone, a tu i tu švárne nevestičky. Raz, myslím, zaľúbil sa bol i do
+istej urodzenej slečny, ale nemusela to byť veľmi hlboká láska,
+lebo keď dostal košík, ani sa nezastrelil, ani cyankali nekupoval,
+ale sa náležite opil.“
+   </tei:p>
+   <tei:p>
+    „Tiež geniálny prostriedok, zabudnúť na takú porážku!“ po-
+znamenal pinč a potriasol svojím švíkom.
+„Tak že domov idúc,“ hovoril kalpak ďalej, „museli sme spra-
+viť s istou kalužou veľmi intimnú známosť.“
+„Ako sa to aj dalo očakávať!“ odseknul zase starý pinč.
+„Mamička môjho mladého pána chcela oženiť svojho syna:
+poslala ho tedy na zálety do susednej dediny, kde už usrozumení
+páni rodičia vyvolenej Čakali vzácnu návštevu. Keď prišiel na
+určené miesto, poslali ho rodičia do zahrady za Vilmuškou. Táto
+sedela v besiedke a čítala. Keď sblížil sa môj pán ku nej, zdvihla
+ona svoje veľké významé oko a pozrela naňho, tak že ihneď za-
+budnul na krásnu reč, ktorú sa bol cestou naučil. Nastalo trápne
+ticho. Konečne začal môj pán predsa hovoriť a rozprával jej o syo-
+jich psoch, akí sú krásni a strašní, o koňoch a o svojej bujnej
+árike , potom vyprával, akú úrodu mu toho roku repa vydala, jeho
+ošípané že sú pravé vzory krmníkov, lebo že jich on dľa novej
+methody krmí. Konečne prišiel na zajímavú kapitolu o výchove
+teliec, keď Vilmuška pretrhla mu reč slovami:
+»Nemáte mi inšie povedať?“
+Ón oprel svoje vodové oko na ňu, akoby to, čo práve pred-
+niesla, v malajčine bola povedala. Ň
+„Tak len pokračujte v pestovaní svojích koní a psov, sejte
+svoju repu ďalej s tak dobrým prospechom ako dosiaľ, kýmte svoje
+ošípané tým novým, okázalým spôsobom a vychovávajte zo svojich
+teliec tučné, vás hodné voly! Ja prajem vám mnoho zdaru, no po-
+máhať vám nechcem, nemôžem, neviem, nebudem.“ Povedala a
+nechala môjho pána stáť.“
+„To bola resolutná osoba! Iste nejaká emancipovaná!“ pre-
+hodil klobúk s vypálenou strechou a tváril sa pritom veľmi učene.
+iroký slamenák s nápisom: „Betfordshire“ a vignettou: „Honi
+swit gui mal y pense“ s opovržením hľadel na túto spoločnosť a
+vyťahoval svoje pokrčené údy. Nevedel ešte dosť zabudnúť poko-
+renie, ktorého sa mu dostalo tým, že musel tu obcovať s kadeja-
+kými pobehajmi a počúvať jích historie.
+„Ty nič nehovoríš, pajtáš!“ začal sa mu kalpak po kamarátsky
+prihovárať. „Dľa výzoru súdiac mal by si byť Angličan.“
+aj » Yes!“ odvrknul pyšno An, a a vyhrnul svoju strechu.
+„Tak rozprávaj i ty niečol“
+»Nelľúbim rozprávať !“ k
+„To dobre od teba, brachu,“ rieknul na to starý pinč, „lebo“
+to, čo bys" ty povedal, by iste tak nudné bolo ako novembrová
+mhla v Londyne!“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Ta
+   </tei:p>
+   <tei:p>
+    Klobúky sa rozrehotaly, Angličan sa pyšno a s opovržením
+vzdialil do najmožnejšej dialky, a len „umelecký“ klobúk si
+vzdychnul.
+   </tei:p>
+   <tei:p>
+    „Čože tak vzdycháš, staré strašidlo? osopil sa naňho pinč.
+   </tei:p>
+   <tei:p>
+    „Hej, je tomu už dávno, čo pokrýval som geniálnu hlavu mla-
+dého, no nešťastného maliara, keď ešte nemal stáleho miesta, keď
+cestoval po“ okolí a známych mu mestách. Raz za zimného dňa
+dorazili sme do väčšieho mesta. Tu môj pán mal sa baviť za viacej
+dní. No nemal tu trpezlivosti, on vydal sa ešte v ten samý deň
+na cestu: sňah pral mu do očú a ostrý, severný vietor tiež ne-
+milosrdne šibal do neho a obťažoval kroky jeho: no on nedbal na
+vietor, na sňah, a len ďalej spechal pružným krokom. Ja rozmýšľal
+som © tom, čo primälo pána môjho k tomu, že oproti noci vydal
+sa na túto cestu? Čo pohnulo ho k tomu? Keď mohol by v teplej
+kaviarni alebo v hostinci pri pohári dobrého vína sedeť, a on
+vydal sa pešky na takú zlú cestu! Dlho sme putovali, konečne
+videli sme pred sebou v sňahovej pláni malé domky dedinky, akoby
+pohádzané rozmarnou rukou sem tam. Z malých oblôčkov kmital
+plamienok ohníka od kozúbkov, akoby volal dnu pútnika zohriať
+sa na chvíľku: no pán môj nevidel pohostinný ten kiit a spechal
+len ďalej a ďalej. Ňa konci dedinky stál panský dom. Ta zameril
+kroky svoje Vkročil do dvora, potom otvoril veľké dvere a vstúpil
+do pitvora, zkade zase na pravo zameril k istým dveram. Tu za-
+klopal. „Voľno!“ zavolal dnu príjemný, zvučný hlas, načo pán môj
+vkročil do izby. Pri jeho vkročení zľahka zkríkla mladá ženská a
+vstala od stola, kde pri malej lampe čítala.“
+   </tei:p>
+   <tei:p>
+    „Cyrill — vy ste?“
+   </tei:p>
+   <tei:p>
+    „Ano ja! Nečakaný, nevítaný!“ odvetil on a zasotil ma nie-
+kam do kúta, uchopiac jej ruku.
+   </tei:p>
+   <tei:p>
+    „Načo ste prišli?“ znela jej nepohostinná otázka s výčitkou,
+no oko pritom zažiavilo a hlas jej chvel sa ako dotknutá struna.
+   </tei:p>
+   <tei:p>
+    „Viera, vy ste nemilosrdná! Kto nezná srdce vaše, povedal
+je ono z kameňa. Ja nemohol som odolať túžbe, byť vo
+ašej blízkosti a nevideť vás, ač tušil som, že nepríjmete ma la-
+skave, Putoval som pešky sňahom a vetrom hatený, len aby som
+vás videť mohol: veď tak dávno tomu, čo sme sa nevideli! Viera,
+ja držal som vás za márnivú, za sobeckú, ja demonštroval som
+proti srdcu svojmu, privlastňujúc vám chyby, ktorých ste prostá,
+leu preto, aby som vás mohol nenávideť, vami mohol opovrhnúť.
+No nemožno, Viera, nemožno vás nenávideť, vás len ľúbiť musím !“
+a pritom bozkami pokryl jej ruku, ona ale druhou zastrela si tvár.
+   </tei:p>
+   <tei:p>
+    „Ta viem, že vás ľúbiť je hriech, znám, že hoden som trestu,
+keď ruším váš pokoj, no skôr by som mohol leteť v záhubu, ako
+zrieknuť sa myšlienky na vás Vy pravda nemôžte pochopiť objem
+lásky opravdovej — vy ste chladná ako kus krásneho mramorv !“
+   </tei:p>
+   <tei:p>
+    „Ze chladná!“ usmiala sa ona trpko a slovila hlasom stiesne-
+ným: „to hovoríte vy! Pravda, hľadala som lásku, avšak nenašla
+som ju tam, kde by mi ona práve kynúť mala: no kde našla som
+ju. tam oddať sa jej nevoľno, nesvobodno. Vy to mäsíte vedieť, ač
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    A
+   </tei:p>
+   <tei:p>
+    SRL SIE: som 0 tom nikdy, no prezradiť to musel sám môj po-
+hľad 16
+   </tei:p>
+   <tei:p>
+    » Viem, Viera, viem! Ten váš milý pohľad otváral mi nebo,
+aby ste ho samy nemilosrdne predo mnou zatvorily. Slová vaše
+rozduchujú plamene v srdci mojom a súčasne oblievajú jich mrazi-
+vým prúdom. Hory a doliny položily sa medzi nás, aby nás roz-
+delily — no láska i to prekoná! Nie, neodťahujte tú svoju milú
+rúčku , snáď sa ma nebojíte?“
+   </tei:p>
+   <tei:p>
+    „Nie, vás sa nebojím!“ povedala ona ticho.
+   </tei:p>
+   <tei:p>
+    „A koho sa bojíte, Viera?“
+   </tei:p>
+   <tei:p>
+    „Sama seba!“ dodala a pohliadla naň pohľadom, ktorý znovu
+roznietil v ňom hárajúci plameň.
+   </tei:p>
+   <tei:p>
+    „Viera! Viera!“
+   </tei:p>
+   <tei:p>
+    „Ticho, ach, ticho!“ prosila, keď cítila, že znovu a znovu
+tiskne jej ruku k ústam.
+   </tei:p>
+   <tei:p>
+    „Prosím vás, majte snilovánie s úbohou, biednou ženou! Jestli
+vám je len troška milý pokoj môj, nenarušujte ho viacej svojou
+prítomnosťou!“
+   </tei:p>
+   <tei:p>
+    „Vy ma vyháňate!“ zvolal on bóľno, „vy nemáte pre mňa
+slova lásky, útrpnosti! Viete, že len vás ľúbim, vo vás žijem, vo
+vás svoje dávno tušené ideále. poznávam!“
+   </tei:p>
+   <tei:p>
+    „Dosť už, dosť!“ zvolala ona a náhlym miknutím ruky vy-
+svobodila sa od neho. „Dosť som už poslúchala, dosť, ach, pri-
+mnoho zradila, teraz vzdiaľte sa, prosím, ak nechcete, aby som
+večne musela nenávideť vás i samú seba!“
+   </tei:p>
+   <tei:p>
+    Smutným, beznádejným pohľadom pozrel Cyrill na ňu a
+tupým, nezvučným hlasom riekol:
+   </tei:p>
+   <tei:p>
+    „Nuž, Viera, tedy s Bohom!“
+   </tei:p>
+   <tei:p>
+    „3 Bohom!“ zavzdychla ona. On ma schytil a ako bezdušný
+bežal strmým krokom von. Ale ja som ešte zazrel, ako mladá žena,
+túžobne vystrela za ním ruky, potom klesla na pohovku a dvere
+zatvorily sa navždy medzi ňou a mojím pánom , on prchal von do
+tmavej noci.
+   </tei:p>
+   <tei:p>
+    „Noc, noc! Všade pustá noc, vôkol mňa á vo mne noc, noc!“
+   </tei:p>
+   <tei:p>
+    &gt; Dosť dobre vyprávané!“ prehodil starý pinč, „lenže dej cel-
+kom "obyčajný, každodenný, žiadna originalita, nič samorostlého!“
+   </tei:p>
+   <tei:p>
+    Zo zbytkov svojej škatule vykotúlal sa elegantný, ešte osť
+nový elague. Napnul svoje struny, že vyzeral ako švihák na ulici a
+začal šviháckym žargonom.
+   </tei:p>
+   <tei:p>
+    „Ja a môj pán — môj pán bol gróf a k tomu. vyslanec
+my dvaja antichambrirovali sme v predsieni malej baletnej taneč-
+nice. Debaty a rozpočty na sneme nezanímaly môjho pána tak veľmi
+ako debaty a účty za kulisňami a v byte signoriny Julietty. Bola
+veľmi pekuá a môj pän do nej tak zaľúbený, že si už v patričných
+kruhoch o tom pošuškávali, si ju vezme za ženu, -
+   </tei:p>
+   <tei:p>
+    Jednoho večera doprevadi! môj pán slečnu Juliettu domov,
+mňa povesil v predsieni na klinec, spolu i s kepienkom signoriny,
+od ktorého sladká a omamujúca vôňa patschouly-voňavky zaváňala.
+Môj pán a signoriua odišli do komnaty, aj Žanka, čiperná to ko-
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    at (m
+   </tei:p>
+   <tei:p>
+    A 1 TEA m (OEM PES
+   </tei:p>
+   <tei:p>
+    morná, ztratila sa, aby si s lokajom pobesedovať mohla. Len ja
+som tu zostal, a napájaný patschoulym a ukolísaný tichosťou nočnou
+skoro by som bol driemať začal, keď zrazu strmo zazvonil zvonec
+od chodby. Žanka vybehla, otvorila dvere a hľa, ako sa zarazila,
+keď videla pred sebou chudobne oblečenú ženskú stáť, a preto
+drsným, zlostným hlasom osopila sa na ňu a chcela ju vyhnať, no
+táto prosila :
+   </tei:p>
+   <tei:p>
+    »„Nevyháňajte ma, ja musím s ňou hovoriť!“
+   </tei:p>
+   <tei:p>
+    »„Signorina nemá času výsluch dávať každej žobráčke.“
+   </tei:p>
+   <tei:p>
+    „Nie som žobráčka a neodídem dotedy, kým nevidím slečnu,
+ja počkám, ó, veď viem čakať!“ slovila so zvláštnym prízvukom
+žena. „Povedzte slečne, že ju čakám, a oná príde, príde!“
+   </tei:p>
+   <tei:p>
+    Žanka váhala, ešte raz pozrela na starenku, a keď videla jej
+odhodlanosť a prostú hrdosť, povolila a odišla. Za čas zase bolo
+ticho v predsieni, starenka stála ešte vždy na tom istom mieste,
+akoby sa bála opreť sa o skvelý čalún a len časom zastonala :
+   </tei:p>
+   <tei:p>
+    „O, ja som ju poznala po hlave hrdo a predsa tak strojno
+povznesenej, ktorú — ach, jak dávno tomu — od mali tak
+nosila! Po čarovnom blesku čiernych očú našla som ju, konečne
+našla!“
+   </tei:p>
+   <tei:p>
+    Dvere sa roztvorily a dnu vkročila sama signorina. Bola teraz
+oblečená v ťažké hodbabné šaty (i tie platil môj pán): rozmrzená
+nad nemilým vytrhovaním pozrela na domnelú žobráčku.
+   </tei:p>
+   <tei:p>
+    Starena sa vrhla oproti nej, signorina ale cúvla nazpät.
+   </tei:p>
+   <tei:p>
+    „Kto ste, čo tu chcete?“
+   </tei:p>
+   <tei:p>
+    „Julka moja, nuž či ma už nepoznáš?“ zvolala starenka. bôľne
+trasúcim sa. hlasom.
+   </tei:p>
+   <tei:p>
+    „Vy sa iste mýlite v osobe — ja vás neznám!“
+   </tei:p>
+   <tei:p>
+    „Ty nepoznáš svoju matku?! 0, neodvracaj svoju tváričku!
+Vieš, ako som ťa ľúbila? Žiadna obeť nebola priťažká, aby som ti
+ju nebola vďačne priniesla! Ja učila som ťa prvé pieseňky, ja prvá
+pozorovala som nedostižný pôvab tvojho tancu, ja vychovala som
+ťa vlastným strádaním a ty ma neznáš?!«
+   </tei:p>
+   <tei:p>
+    „Ticho, ticho! Zdá sa mi, že blíži sa niekto, snáď je, to gróf.
+Vzdiaľte sa, on vás nesmie tu videť, nesmie vedeť — —.“
+   </tei:p>
+   <tei:p>
+    „Čo nesmie vedet? Snáď to, že si ty moje dieťa? Prečo nie?
+Veď poctive vych la som ťa dotedy, kým neopustila si matku
+svoju.“
+   </tei:p>
+   <tei:p>
+    Signorina siahla do vrecka šiat, vytiahla tobolku naplnenú
+peniazmi, sňala brillantami vykladanú náramnicu z okrúhleho ra-
+mena a podávala ju starene s chvatom v reči a v posunkoch:
+   </tei:p>
+   <tei:p>
+    „Tu, tu máte! len choďte už, vzdiaľte sa, on vás tu nesmie
+videť, on — —“
+   </tei:p>
+   <tei:p>
+    „Kto on? kto je to? Kto tiskne sa medzi mňa a moje dieťa?
+Kto berie mi jeho lásku? Nie, :ja nechcem zlato, ja chcem lásku!“
+dodala starena a odmietla dar.
+   </tei:p>
+   <tei:p>
+    Znovu a znovu pokúšala sa slečna o to, aby vnútila starenke
+peniaze, no táto trvala na svojom mieste, až kým sa dvere znovu
+   </tei:p>
+   <tei:p>
+    č
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    neroztvorily a dnu nevnišiel sám gróf. Julietta zbľadla a vrhla,
+zlostný pohľad na ženu. z
+   </tei:p>
+   <tei:p>
+    „Ah, ma chére! ktorá nepriateľská moc mi vás urvala?“
+   </tei:p>
+   <tei:p>
+    »„Pomyslite si, mon ami!“ začala signorina, „tu táto úbohá
+žena hľadá svoju ztratenú dcéru, a iste pomätená náhodnou po-
+dobnosťou, mňa drží za svoje dieťa.“
+   </tei:p>
+   <tei:p>
+    „Prečo ju nedáte von odpratať? Načo že sú policajti?“ zpýtal
+sa môj pán a mrazivým pohľadom vysokopostaveného pána pre-
+meral úbohú matku. Táto viac chápala ako rozumela jeho a slečni-
+ným rečiam — náhle premenila výraz tváre a postava sa narovnala.
+   </tei:p>
+   <tei:p>
+    „Nie, mňa netreba vyháňať, pôjdem aj sama! Ale kliatba
+matkina nech sprevádza nevďačné dieťa po celý, dlhý život!“ za-
+volala s nevýslovným výrazom žiaľu, urazenej lásky a trpkého
+sklamania a opustila sieň, šeptajúc:
+   </tei:p>
+   <tei:p>
+    „Ja žobrala som o lásku, ona mi dávala peniaze!“
+   </tei:p>
+   <tei:p>
+    Signorina omdlievala, Žanka a milosťpán odviedli ju do izby.“
+   </tei:p>
+   <tei:p>
+    Starý pinč chcel už urobiť svoju poznámku, no pretrhnul ho
+v tom starý klavír, ktorého struny žiaľno zahučaly:
+   </tei:p>
+   <tei:p>
+    „Kto to tu hovorí? kto ruší môj pokoj?“ zalkaly struny, duša
+to biedneho nástroja, „kto budí zo sna ťažkého? Zdalo sa mi, ach,
+že ešte mladý, v plnej sile napiatych strún žitia stál som v čistej
+izbe učiteľa. On pri mne učieval svoje deti prvé pieseňky: naj-
+mladšej dcéruške, roztomilej Mariške, často spievaval: „Schône
+Minka, ich muss scheiden!“ lebo táto pieseň bola vtedy veľmi
+v mode, tak ako teraz tie hudebné tláchaniny, ktoré každý uličník
+vo svojich nečistých ústach omáľa, tak že urážajú ucho každého
+počtivého umelca. Potom rástla Mariška, až vyrástla v krásnu, lepú
+pannu. I nezostala nepozorovaná. Prichádzali k nám mladí mužovia,
+ba aj istý mestský panák, a tento padol našej Mariške do očka.
+Keď prišiel, zachvela sa, keď odchádzal, zvesila hlávku ako smädný
+kvietok. Bol to pekný, strojný šuhaj, ale falošný až v híbku srdca,
+lebo jednoho dna, keď Mariška odišla do kuchyne, zpýtal sa jej
+staršieho brata:
+   </tei:p>
+   <tei:p>
+    „Má tvoja sestra peniaze ?“
+   </tei:p>
+   <tei:p>
+    A nemala jich: preto neprišiel viac pauák, ale išiel do mesta
+a tam skoro dal sa sosobášiť s pätnásttisícovou pannenkou. Ma-
+riška vädla a plakala. Často po vykonanej práci zasadla si ku mne
+a začala tak smutno hrať, že i mnou to zachvelo ako utajený plač :
+   </tei:p>
+   <tei:p>
+    „Načo si to srdce, načo si mi dal, Bože ?!“
+   </tei:p>
+   <tei:p>
+    Potom aj otec ju opustil, aby položil umdlenú hlavu na večný
+odpočinok. Brat už skorej odišiel do cudziny a tak sme zostali
+sani, ona so svojím žialom a ja s jej pieseňkou. Konečne aj jej
+struna žitia musela puknúť, lebo ju potom tiež odniesli zmeravenú...“
+   </tei:p>
+   <tei:p>
+    „Tragický koniec tragickej historky!“ zamiešal sa starý pinč
+a pokýval svojím švíkom, klavír ale, akoby v ňom odznievala
+dávna, rozpomienka, ešte len opakoval:
+   </tei:p>
+   <tei:p>
+    „Načo si to srdce — —“
+   </tei:p>
+   <tei:p>
+    A
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    83
+   </tei:p>
+   <tei:p>
+    „Starý hlupák, netáraj do tohto sveta!“ Akoby si teraz niekto
+na svete srdce žiadal: duďky, brachu, dudky, to duša všetkého !“
+dudral pinč. tá
+   </tei:p>
+   <tei:p>
+    Klobúky prisvedčily, klavír umíknul a mesiačik schoval sa za
+   </tei:p>
+   <tei:p>
+    chmáry.
+   </tei:p>
+   <tei:p>
+    Albert.
+   </tei:p>
+   <tei:p>
+    Kresba od grófa Ľva N. Tolstého.
+   </tei:p>
+   <tei:p>
+    1
+   </tei:p>
+   <tei:p>
+    Päť bohatých a mladých ľudí prišlo o tretej hodine v noci
+veseliť sa na petrohradský bál.
+   </tei:p>
+   <tei:p>
+    ampanského vypilo sa mnoho, väčšia časť pánov bola veľmi
+mladá, dievčatá boly krásne, fortepiano a husle neunavne hraly
+jednu poľku za druhou, tance a šum neprestávaly, no bolo akosi
+nudno, nepohodlne, každému zdalo sa (ako to často býva), že je
+nie tak, akoby malo byť.
+   </tei:p>
+   <tei:p>
+    Niekoľko ráz usilovali sa veselými byť, no strojená veselosť
+je horšia od nudy.
+   </tei:p>
+   <tei:p>
+    Jeden z piatich mladých ľudí, najnespokojnejší so sebou, s ostat-
+nýmii s celým večerom, s odporným citom vstal, pohľadal si čiapku
+a vyšiel s úmyslom, že po tichu ztratí sa.
+   </tei:p>
+   <tei:p>
+    V prednej nikoho nebolo, no v bočnej izbe, za dverami, počul
+dva hlasy, hádajúce sa. Mladý človek zastál a začal slúchať.
+   </tei:p>
+   <tei:p>
+    — Nie, tam sú hostia, hovoril ženský hlas.
+   </tei:p>
+   <tei:p>
+    — Pusťte ma, prosím, ja nič! modlikal slabý mužský hlas.
+   </tei:p>
+   <tei:p>
+    — Ale nepustím bez dovolenia panej, hovorila ženská: — kam
+chcete? ach, aký!...
+   </tei:p>
+   <tei:p>
+    Dvere otvorily sa a na prahu ukázala sa čudná mužská figura.
+Uvidiac hosťa, slúžka prestala sa spierať, a čudná figura, bojazlive
+pokloniac sa, kníšuc sa na sohnutých nohách, vošla do izby. Bol
+to stredného zrastu mužský, s úzkym sohnutým chrbtom a dlbými
+vlasmi. Mal krátky kabát a potrhané úzke nohavice nad chlpatými
+nečistenými čižmami. Skrútený na povrázok nákrčník visel z dlhého
+bieleho krku. Špinavá košeľa trčala z rukávov nad chudými rukami.
+No napriek neobyčajnej chudosti tela“ tvár jeho bola nežná, biela,
+áno svieži rumenec ihral mu na líci nad čiernou, riedkou bradou.
+Nečesané vlasy, vyhodené nahor, odkrývaly nevysoké a neobyčajne
+čisté čelo. Temné ustaté oči hľadely mäkko, lichotive a spolu vážne.
+Jích výraz pútavo splýval s výrazom sviežich, v kútikoch ohnutých
+pier, vykukávajúcich zpod riedkych fúzov.
+   </tei:p>
+   <tei:p>
+    Prejdúc niekoľko krokov, zastál, obrátil sa k mladému človeku
+a usmial sa. Usmial sa akoby s namáhaním , no -keď úsmev ožiaril
+jeho tvár, mladý človek, —— sám neznajúc, prečo — usmial sa tiež.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012925" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Slovenský pravopis : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:31554767">
+     Pauliny-Tóth, Viliam (1826-1877)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     2770
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:31554767">
+      Pauliny-Tóth, Viliam (1826-1877)
+     </tei:author>
+     <tei:title level="a" ref="ISBN:978-80-8101-683-7">
+      Slovenský pravopis
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-19">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Slovenský pravopis
+    </tei:head>
+    <tei:head>
+     Noveletka
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    „Došli noviny?“
+   </tei:p>
+   <tei:p>
+    „Došli, Vedomosti i Sokol.“
+   </tei:p>
+   <tei:p>
+    „Ukáž, čo nového v nich.“
+   </tei:p>
+   <tei:p>
+    Anička podala apuškovi menované noviny a on prezrel najprv Vedo-
+        mosti, potom Sokola. V tamtých prebehol pán Adam Poľanský (radný
+        pán slobodného a kráľovského mesta Žibrice) najsamprv listy, či niet
+        vnich správ z jeho vidieka a potom „novinky“, z ktorých čo pikantnejšie
+        nahlas predčitoval svojej jedinej dcére Aničke, švárnej to asi šestnástroč-
+        nej barnuške. V Sokolovi prečítal názvy básní a povestí, hľadajúc, ktorá
+        by bola bez nepríjemného mu „pokračovania.“
+   </tei:p>
+   <tei:p>
+    „Ten Pustovník v Ilžickej púšti sa ťahá ako štrúdlové cesto. Ja ne-
+        viem, načo to ten redaktor také dlhé kusy pchá do časopisu. Však to
+        nikto nečíta, ak len nie na Silvestra, keď už má celého Sokola zviaza-
+        ného.“
+   </tei:p>
+   <tei:p>
+    „Ach, apuško, ja zas veľmi rada také dlhé kusy, drží ma to dlhý čas
+        v napnutí.“
+   </tei:p>
+   <tei:p>
+    „Hja, veď ty!“ zvolal pán Poľanský, ďalej prehťňajúc sa v šiestom čísle
+        šiesteho ročníka Sokola, „ty musíš mať vždy dačo zvláštneho... eine Ex-
+        trawurst... Aha, toť je čosi... Slovenský pravopis, noveletka od Rozmarí-
+        na. Hahaha, ešte vraj čo!... No to by som už naozaj rád vedel, ex temate
+        slovenský pravopis, aká to môže byť novela?“
+   </tei:p>
+   <tei:p>
+    „Ale to je vskutku podivné. Apuško, čítajme to, bude to iste dačo pi-
+        kantného.“
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Nedbám, čítaj teda, ale nahlas. Ja si napchám do fajky, budem ťa po-
+        čúvať a pritom, rozumie sa, pána Marka Rozmarína ako obyčajne trošku
+        kritizovať.“
+   </tei:p>
+   <tei:p>
+    Anička rezko odložila nedrovanie neveľmi dbajúc, že jej pritom jed-
+        no alebo dve nedrá spadli z ihlice, sadla si na pohovku a vzala Sokola.
+        Radný pán Poľanský ale zapáliac si na fajku, rozšafne umiestil sa oproti
+        nej v kresle, odkašlal si a dal dcére znak, že už môže začať. Táto čítala,
+        ako nasleduje:
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    Bol prvý máj, bol utešený večer. Hviezdičky trblietali sa na tmavoazúro-
+        vej oblohe, mesiačik prizeral sa im a jeho tmavočervená tvár žiarila mu
+        radosťou, sťaby si bol vedomý toho, že bez jeho magického svetla vzdor
+        namáhavému jasotu hviezd niet tých krás večera.
+   </tei:p>
+   <tei:p>
+    „Apuško, to je utešený začiatok!... To bude dačo veľmi sentimentál-
+        neho!“
+        „Hja, tebe je hneď všetko sentimentálne!“ horlil radný pán, neúprosný
+        kritik slovenských múz, ktorých záhradku on ostatne ešte ani jedným
+        kvetom svojho domnelého veľumu neobohatil. „Dcéra moja! To je pri-
+        smelý obraz, mesiacu dať povedomie toho, že on je tvorcom krás večera.
+        Je to neprirodzené. Mesiac je len mesiac, na tom sa ustálili už všetci
+        astronómovia, ktorých spisy perse pán Rozmarín sotva znať bude. Me-
+        siac je kus odpadnutej, vyhorenej, bezpochyby dákou kométou z našej
+        planéty odruntenej zeme... a iné nič!... No kde by tu mohlo byť povedo-
+        mieľ?... Ale čítaj ďalej, však uvidíme, čo z toho vykvitne.“
+   </tei:p>
+   <tei:p>
+    A Anička čítala ďalej:
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    Práve odznel posledný cvengot zvoncov z poľa navracajúcich sa oviec, za-
+        tíchli hlasy a hvizdy valachov, len v kvitnúcom vonnom sade ozýval sa
+        Ikavý a prenikavý žiaľ slávika a v ďalekom jazere krkot žiab, tichý, mono-
+        tóny, zádumčivý.
+   </tei:p>
+   <tei:p>
+    „Hahaha!“ chutne sa rozosmial pán Adam Poľanský, utľapkajúc si prs-
+        tom popol vo fajke, „roztomilé accompagmente!!.. slávik a žaby!!... Veď
+        hovorím, že to strach, čo tí slovenskí novelisti potárajú. Slávika spári so.
+        žabou... Hahaha!“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Ale, apuško môj, však to býva, že večer žaby kékajú.“
+        „Býva, býva, ale keď slávik spieva, dcéra moja, kokotžiab sa ignoruje,
+        aspoň sa to nepovie, či rozumieš?...
+        Anička čítala:
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    Tiché mesto N. obtáčali pekné záhrady a konča nich vinuli sa bielym štr-
+        kom vysypané široké chodníky. Milá to prechádzka v čas večerný. Týmto
+        chodníkom som ja v spomenutý večer kráčal, rojčiac o piesňach, o láske, o
+        lutne a o rusalkách. A prečo by som nebol rojčil? Bolo mi dvadsať rokov,
+        žil som ako ryba vo vode, bez starosti, bez žalosti, dostupný každému než-
+        nému citu lásky k poézii, k národu a k spanilým jeho dcéram.
+   </tei:p>
+   <tei:p>
+    Ako tak rojčiac kráčam tichou nocou, naraz priveje mi šum vonného
+        vetríka v ucho harmonický zvuk gitarových akordov z neďalekej besiedky
+        pána Kolmana, ktorá husto zarastená všelijakými plazivými rastlinami
+        stála na konci jeho záhrady.
+   </tei:p>
+   <tei:p>
+    Rýchlo a tíško na prstoch pobehol som pár krokov napred a v okami-
+        hu ocitol som sa nezbadaný pri samej húštine, obtáčajúcej besiedku pána
+        Kolmana. Sotva stál som tu pár menšín, ozval sa z besiedky pri sprievode
+        gitary nasledujúci krásny, dojímavý, mäkký ženský hlas:
+   </tei:p>
+   <tei:quote>
+    <tei:l>
+     „Vej, vetierku, vej, večerný,
+    </tei:l>
+    <tei:l>
+     Ofúkaj mi žiale moje,
+    </tei:l>
+    <tei:l>
+     Ty môj priateľ, ty môj verný,
+    </tei:l>
+    <tei:l>
+     Vlož na ne balzamy svoje.
+    </tei:l>
+    <tei:l>
+     Balzam tvoj, ach, ten zahojí,
+    </tei:l>
+    <tei:l>
+     Ten bolesti srdca ruší,
+    </tei:l>
+    <tei:l>
+     Vánok tvoj tichučký spojí
+    </tei:l>
+    <tei:l>
+     Vzdychy dvoch túžiacich duší.“
+    </tei:l>
+   </tei:quote>
+   <tei:p>
+    „Ha, myslím si, ,to pieseň môjho priateľa Podoľského. Pevkyňa je teda iste
+        národovkyňou, keď slovenské piesne spieva. A ako ju spievala! Zatíchol
+        slávik, zamíkla i žabka, keďtichou nocou triasol sa sladký unylý hlas krás-
+        nej Amálie Kolmanovej.“
+   </tei:p>
+   <tei:p>
+    Či ju neznáte? Či ste nikdy nepočuli o nej?
+   </tei:p>
+   <tei:p>
+    Kto vN. do školy chodil, musí znať Amáliu Kolmanovie, a kto len raz
+        bol na Anna bále v neďalekom kúpeli, musel počuť, že ona za plných se-
+    <tei:pb/>
+    dem rokov bývala všeobecne zvelebovanou kráľovnou týchto veselých
+        kúpeľných bálov. Akoby som ju ešte dnes videl, vychýrenú tanečnicu vo
+        veľavýznamnom kotilióne, ako svojmu tanečníkovi s pohľadom svojho
+        jasnomodrého unylého oka pripína dekoráciu na fialkový frak so žltými
+        gombíkmi. Akoby som ju teraz videl, ako do výšky hádže malučký, široký-
+        mi čipkami obrúbený, rezedou zaváňajúci biely ručníček, graciózne dvíha-
+        júc svoje okrúhle rameno a s potešením hľadiac na kédeľ bystrých šuhajov,
+        ruvajúcich sa oň.
+   </tei:p>
+   <tei:p>
+    No hovorím, pekná bola Amália Kolmanovie a mne zdala sa teraz,
+        keď slovenskú pieseň spievala, krásnou, utešenou. - Nemohol som sa ďalej
+        zdržať, hneď po prvom verši vystúpil som z úkrytu, prikročil k okienku
+        a riekol: „Dobrý večer, panička Amália!“
+   </tei:p>
+   <tei:p>
+    „Ha, kto to?“
+   </tei:p>
+   <tei:p>
+    „Neľakajte sa, ja som to. Váš tanečník v mazúri na poslednom bále.“
+   </tei:p>
+   <tei:p>
+    »Vy ste to, pán Rozmarín? Tak neskoro? Myslela som, že už nikto ne-
+        chodí.“
+   </tei:p>
+   <tei:p>
+    „Nuž ači by ste neboli spievali, keby ste boli vedeli, že vás dakto počúva?“
+   </tei:p>
+   <tei:p>
+    »„hteže nie.“
+   </tei:p>
+   <tei:p>
+    „A vidíte, ja by som vás práve prosil, aby ste láskavo ráčili pokračovať.“
+   </tei:p>
+   <tei:p>
+    „Ani za svet.“
+   </tei:p>
+   <tei:p>
+    »„A kto vás tú pieseň naučil?“
+   </tei:p>
+   <tei:p>
+    „Pán Podolský.“
+   </tei:p>
+   <tei:p>
+    „Ale on sám?“
+   </tei:p>
+   <tei:p>
+    „On sám.“
+   </tei:p>
+   <tei:p>
+    „Máte ju napísanú?“
+   </tei:p>
+   <tei:p>
+    „Nemám, len tak som sa ju naučila.“
+   </tei:p>
+   <tei:p>
+    „Smel by som vás o ňu poprosiť?“
+   </tei:p>
+   <tei:p>
+    „Prečo nie, veľmi vďačne.“
+   </tei:p>
+   <tei:p>
+    „Prosím vás teda, ráčte mi ju napísať, zajtra o tomto čase si prídem po
+        ňu. Ak by ste mi ju nechceli osobne oddať, ráčte ju tuná do okienka pod
+        túto tehlu uložiť.
+   </tei:p>
+   <tei:p>
+    „Dobre, dobre, ale odpustite, už musím ísť, už je neskoro, otec už iste spí.“
+   </tei:p>
+   <tei:p>
+    „Zbohom teda!“ a s tým podal som jej oknom ruku. I ona mi podala
+        svoju malú okrúhlu ručičku. Jej mäkkosť a okrúhlosť cítiac, nemohol som
+        sa zdržať (paničky, ktoré ste hanblivé ako krásna Amália, prosím, zažmúr-
+        te oči, keď toto čítate) a horúci bozk vtisol som na ňu.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Sie schlimmer!“ ozval sa jej sladký hlas, no zdalo sa mi, ale možno,
+        žeto bol len mojou horúcokrvnosťou zapríčinený sebaklam, - dosťna tom,
+        zdalo sa mi, že mi pri tých dvoch slovách, ktoré mali byť výčitkou, lahodne
+        ruku stisla.
+   </tei:p>
+   <tei:p>
+    „Neborák Podolský! pomyslel som si. A vskutku zasluhoval takéto po-
+        ľutovanie. Môj dobrý priateľ totižto do zahynutia bol sa zaľúbil do drieč-
+        nej Amálie, dcéry zámožného mešťana v N., on slovenský pevec, za akého
+        sa držal, do nemčúrsky vychovanej dcéry odrodilého, každým pórom tela
+        materializmom páchnuceho Kolmana. Ostatne to ho ani zamak nekonfu-
+        dovalo, bo veriac, že ho Amália verne miluje, veril i to, že roznieti v nej
+        iskru rodoľubstva a získa jej domnele ušľachtilé srdce národu slovenskému.
+        Krušná a ťažká to úloha, ktorej málo chlapov dorastá, menovite u žien,
+        z ktorých mnohé i svoje rodoľúbstvo podľa tlakomeru kurmacherov, vzý-
+        vačov a pytačov rady usporadujú a richtujú.
+   </tei:p>
+   <tei:p>
+    „Pfuj, Teufel!“ zvolala týmto poznamenaním pána Rozmarína rozmr-
+        zená Anička: „nuž či my ženské sme už vari bez všetkého charakteru?“
+   </tei:p>
+   <tei:p>
+    „Hja veru, dieťa moje,“ stisol plecami pán Poľanský, „pravdu má. Čo
+        ty vieš, kto príde pre teba? Kto si ťa vezme? Či vari ak príde dajaký ma-
+        ďarón, ktorý bude v stave náležite ťa vyživiť, nepôjdešlen preto za neho,
+        žeje maďarón?“
+   </tei:p>
+   <tei:p>
+    „To nehovorím, ale budem sa usilovať, aby som ho slovenskému ná-
+        rodu naklonila.“
+   </tei:p>
+   <tei:p>
+    „To nejde, žena vo všetkom poslúchať má svojho muža, teda i v poli-
+        tickom zmýšľaní.“
+   </tei:p>
+   <tei:p>
+    „Ale, apuško, veď tak by sme boli len otrokyňami našich mužov!“
+   </tei:p>
+   <tei:p>
+    „Lepšie otrokyňami byť, než večnú vojnu mať v manželstve. Že tu
+        vtej novele Podolský získať chcel Amáliu svojmu národu, to schvaľujem,
+        hoci to dosť hlúpo urobil, že sa do Nemky zaľúbil.“
+   </tei:p>
+   <tei:p>
+    „Nuž a či človek môže svojmu srdcu rozkázať, do koho sa má zaľúbiť?“
+   </tei:p>
+   <tei:p>
+    „Trebárs i to nie, ale iste zakázať mu môže, aby nepriľnulo k odrodi-
+        lej dcére národa, akou Amália bola. Ostatne nechápem, čo tá celá jeho
+        ľúbosť má do činenia so „slovenským pravopisom, a vôbec, ako pán Roz-
+        marín vo svojej noveletké túto vážnu tému spracuje. Či je to ešte dlhé?“
+   </tei:p>
+   <tei:p>
+    „Nie, hneď je koniec.“
+    <tei:pb/>
+    „Čo, už koniec? A o slovenskom pravopise dosiaľ ešte ani sloval....
+        Hahaha, názov práce o voze a jej obsah o koze! Ale takí sú tí naši sloven-
+        skí spisovatelia, tituly ich spisov sú pikantné, a obsah číra nuda. Naozaj
+        ítaj ďalej.“
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    Anička čítala:
+   </tei:p>
+   <tei:p>
+    V nasledujúci večer bolo veľmi nepríjemné počasie. Chladný vietor vial od
+        severu, Ženúc pred sebou velikánske hory ťarchavých mračien, z ktorých
+        celý večer bez prestania mrholilo, ba chvíľami i náležite pršalo. O deviatej
+        vmeste už živej duše nebolo na ulici, tým menej za mestom pri záhradách,
+        za ktorými som ja osamelý, šermujúc dáždnikom proti víchru, kráčal
+        kbesiedke pána Kolmana.
+   </tei:p>
+   <tei:p>
+    Konečne som ta dorazil. Nazriem oknom dnu. Na pohovke zabelelo sa
+        mi čosi.
+   </tei:p>
+   <tei:p>
+    »Vy ste to, panička?“
+   </tei:p>
+   <tei:p>
+    „Ja,“ a s tým vstanúc z pohovky, priblížila sa k oknu.
+   </tei:p>
+   <tei:p>
+    „Ale v tomto počasí tu v záhrade?“ zvolal som.
+   </tei:p>
+   <tei:p>
+    „Viazalo ma dané vám slovo. Slovenská národovkyňa je si vždy slovu
+        verná.“
+   </tei:p>
+   <tei:p>
+    „Teda vy naozaj ste už prebudená Slovenka?“
+   </tei:p>
+   <tei:p>
+    „A vy ešte pochybujete? Nuž či nechodí k nám pán Podoľský?“
+   </tei:p>
+   <tei:p>
+    »„A pán otec čože na to?“
+   </tei:p>
+   <tei:p>
+    „lemu je to jedno, nech je len statočný človek. A veď môj otec ani nie je
+        taký nepriateľ Slovákov, za akého ho v novinách vykričali. Že on iv sloven-
+        skom meste radšej po nemecky alebo po maďarsky vraví než po slovensky,
+        to je taká osobná slabosť, ktorú mu veru škoda tak veľmi zazlievať. Tým
+        nikomu neuškodí. Zato ja tým viac po slovensky vravím a už i dokonale
+        píšem. Takej horlivej Slovenky, ako som ja, široko ďaleko nemáte.“
+   </tei:p>
+   <tei:p>
+    „A tá sľúbená pieseň?“
+   </tei:p>
+   <tei:p>
+    „Tu je, sama som ju odpísala tak, ako ma ju pán Podolský naučil.“
+        S tým strčila mi do ruky zvinutú karotku papiera, ktorú som, aby nepre-
+        mokla, rýchlo vopchal do vrecka.
+   </tei:p>
+   <tei:p>
+    „Odpustite, panička, ale kvapčí mi zo strechy práve za golier.
+   </tei:p>
+   <tei:p>
+    „Veľmi ľutujem, že nemám kľúč. Má ho vždy otec pri sebe.
+        parkan...“
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    ale náš
+    <tei:pb/>
+    „Loziabe ma trocha v nohy, práve tu v barine stojím. Váš pokorný slu-
+        ha! Srdečná vďaka za pieseň!“
+   </tei:p>
+   <tei:p>
+    „Veľmi vďačne“ a podala mi zase tú istú mäkkú bielu ručenku ako
+        včera, na ktorú som ja ale dnes už nepritisol včerajší bozk, lebo by, po
+        prvé, nebárs horúci bol býval, a po druhé, ženírovali ma moje mokré fúzy.
+        Z vlastnej skúsenosti to viem z čias pitia „bruderšaftov, aký to nemilý po-
+        cit, keďdotkne sa človeka pri bratskom bozkaní sa taký mokrý, sťa ratolesť
+        jedle snehom, hustou penou piva pokrytý fúz. Preto, ako hovorím, neboz-
+        kal som jej ruku, ale som ju vrelo stisol, a - teraz to ale nebol sebaklam
+        — ona srdečným stisnutím ruky odvetila tomuto nemému, ale na ten čas
+        zreteľnému pozdravu môjho srdca. Neborák Podoľšk)
+   </tei:p>
+   <tei:p>
+    Už je isté, že som jej nie ľahostajný. V takej plušti prišla do záhrady"...
+        A ľutovala, že kľúča nemá... ba čo to spomínala o parkane? Že je, tuším,
+        nie vysoký? Škoda, že som jej tú sadu nedal dohovoriť!
+   </tei:p>
+   <tei:p>
+    Takýto monológ som viedol, keď som dorazil ucvachnený domov, vyzul
+        si mokré čižmy a vrhol som sa na pohovku.
+   </tei:p>
+   <tei:p>
+    Oh, Amália! Ja ta ľúbim!
+   </tei:p>
+   <tei:p>
+    Ako to ten náš duchaplný Janko tej Schrčerovej Marienke zaspieval?
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:quote>
+    <tei:l>
+     Poď, drahá moja, môjho do náručia,
+    </tei:l>
+    <tei:l>
+     bo večných túžob ohne ma umučia;
+    </tei:l>
+    <tei:l>
+     prsia už zhoria od sladkého bôľu.
+    </tei:l>
+    <tei:l>
+     Však vďačne zhyniem, len zahyňme spolu.
+    </tei:l>
+   </tei:quote>
+   <tei:p>
+    Keby som bol poetom, i ja by som Amálii takúto pieseň zaspieval, no bo-
+        hužial, som hrozný prozaik! Suchý ako trieska.
+   </tei:p>
+   <tei:p>
+    A aká horlivá Slovenka je! A vraj už i dokonale píše po slovensky, a...
+   </tei:p>
+   <tei:p>
+    „Otvor!“
+   </tei:p>
+   <tei:p>
+    „Otvor?“ - opätujem potichu, „čo za „otvor??... Jedenásť hodín je, prší,
+        až sa leje, a vraj, „otvor!“
+   </tei:p>
+   <tei:p>
+    „Kto je?“ volám, zberajúc sa z pohovky, aby som príchodziemu dvere
+        otvoril.
+   </tei:p>
+   <tei:p>
+    „Čo ma už ani po hlase nepoznáš?“
+   </tei:p>
+   <tei:p>
+    „Ach, Podoľský! Vitaj,“ hovorím, otvárajúc mu dvere. „Beťah ťa páral!
+        Čo tak neskoro chodíš?“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Amice, nemôžem spať. Zobral som sa teda a prišiel k tebe, že si trošku
+        pobesedujeme spolu,“ a s tým vrhol sa do kresla.
+   </tei:p>
+   <tei:p>
+    „Pekná vec!“ - rečiem na to, „keďon nemôže spať, mám ho ja zabávať.
+        Ja som myslel, že ty si ešte u Amálie.“
+   </tei:p>
+   <tei:p>
+    „Tri dni som tam už nebol,“ riekol môj priateľ s bôľným vzdychom,
+        „zajtra sa ju chystám navštíviť.“
+   </tei:p>
+   <tei:p>
+    „A to prečo tak zriedkavo?“
+   </tei:p>
+   <tei:p>
+    „Myslím si, že zriedkavejšie návštevy bývajú vzácnejšie.“
+   </tei:p>
+   <tei:p>
+    „Pletky!.. Deve, ktorá lúbi, vzácny je milenec každý boží deň a tebe,
+        myslím, ti
+   </tei:p>
+   <tei:p>
+    „Ja ju nesmierne ľúbim, ja ju zbožňujem.“
+   </tei:p>
+   <tei:p>
+    „Myslím, že Amália nie je prvá, ktorú tak nesmierne ľúbiš!“
+   </tei:p>
+   <tei:p>
+    „Never, brat môj drahý. Tak ako Amáliu lúbim, dosiaľ som ešte nikdy
+        nemiloval.“
+   </tei:p>
+   <tei:p>
+    „Otázka je, či i ona hodna je tvojej nadšenej lásky.“
+   </tei:p>
+   <tei:p>
+    „Hodna, braček môj!“ - odpovedá Podolský s dôrazom nepochybnosti.
+        „le horlivá Slovenka a mňa verne ľúbi.“
+   </tei:p>
+   <tei:p>
+    „Počujem, že už i správne po slovensky píše.“
+   </tei:p>
+   <tei:p>
+    „A ako!.. Kde si to počul?... Braček, nebol by som schopný milovať
+        devu, ktorá by ani jeden ľúbolístok nebola vstave správne napísať. Je to
+        hrozná vec pre mňa, vidieť a čítať tie malabarské ortografie väčšej časti
+        našich krásavíc. Ak sa kedy ženiť budem, prvá podmienka mojej manžel-
+        skej zmluvy bude, aby sa mi snúbenica ešte pred sobášom správne po slo-
+        vensky písať naučila. Nemôžem si nič hroznejšieho predstaviť ako peknú,
+        milú a dobrú ženu s planou ortografiou.“
+   </tei:p>
+   <tei:p>
+    „Hm, hm... si čudák!... Čajda, bol si mi sľúbil, že mi svoju „Večernú
+        pieseň odpíše
+   </tei:p>
+   <tei:p>
+    „Braček, odpusť, zabudol som, ale zajtra snáď.“
+   </tei:p>
+   <tei:p>
+    „Netreba, neunúvaj sa...“
+   </tei:p>
+   <tei:p>
+    „Nuž?“
+   </tei:p>
+   <tei:p>
+    »Už ju mám...“
+   </tei:p>
+   <tei:p>
+    „Ako?“
+   </tei:p>
+   <tei:p>
+    »A to peknou ženskou rukou odpísanú... Pozri!“ a s tým vytiahol som
+        pieseň Amáliou odpísanú z vrecka.
+   </tei:p>
+   <tei:p>
+    Podolský skočil na rovné nohy. Ja rozvinul som pred ním kartičku ru-
+        žového papiera.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Vskutku! To ruka Amálie!“ zvolal nemilo prekvapený.
+   </tei:p>
+   <tei:p>
+    „Áno, braček, to ruka Amálie.“
+   </tei:p>
+   <tei:p>
+    „Ha, to je nemožné!“ trhal sebou, bolestne hľadiac na osudný rukopis.
+   </tei:p>
+   <tei:p>
+    „Čo, brat môj?“
+   </tei:p>
+   <tei:p>
+    „Tie chyby, tie vady, tie...“
+   </tei:p>
+   <tei:p>
+    „Chyby?“ - pýtam sa, bližšie sa prizrúc na odpis Podoľského piesne. -
+        Skutočne sú v nej značné chyby. - „Ako to? Však si vravel, že už správne
+        píše.“
+   </tei:p>
+   <tei:p>
+    „Čo som ja u nej videl napísané, to bolo písané správne. ste to boli číre
+        odpisy de papiro ad chartam. Toto spamäti písala, bo som ju tú pieseň
+        naspamäť naučil. Ukáž, prosím ťa!“
+   </tei:p>
+   <tei:p>
+    „Ale daj pokoj, prečítam si to.“
+   </tei:p>
+   <tei:p>
+    „Daj to sem!“
+   </tei:p>
+   <tei:p>
+    „Nedám, kým neprečítam.“
+   </tei:p>
+   <tei:p>
+    „Chceš ma mučiť?“
+   </tei:p>
+   <tei:p>
+    „Počúvaj!“
+   </tei:p>
+   <tei:p>
+    „Chceš ma zahanbiť?“
+   </tei:p>
+   <tei:p>
+    „Počúvaj!
+   </tei:p>
+   <tei:p>
+    „Nedáš mi to?“
+   </tei:p>
+   <tei:p>
+    „Nie!“
+   </tei:p>
+   <tei:p>
+    „Servus!“ s tým sa zvrtol, plesol dvermi... a tam ten! Ja som si napchal
+        fajku, vrhol som sa na posteľ a s napnutou pozornosťou prečítal som si
+        rukou milej a krásnej, priateľom mojím zbožňovanej horlivej Slovenky
+        Amálie písanú Podoľského pieseň, ktorá od litery do litery takto znela:
+   </tei:p>
+   <tei:p>
+    <tei:l>
+     <tei:foreign>
+      Wey vettergu wey vetserny
+     </tei:foreign>
+     ,
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      Oli fukay mi šále moe
+     </tei:foreign>
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      Thi moy brátel thi moy werni
+     </tei:foreign>
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      W lož na nie bál sami tvoe
+     </tei:foreign>
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      Bál sám tvoy tenn sa hoy
+     </tei:foreign>
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      Tenne po lesti srrí saru uši
+     </tei:foreign>
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      Vanog tvoyty hutski spoy
+     </tei:foreign>
+    </tei:l>
+    <tei:l>
+     <tei:foreign>
+      Fsdy chi dvouch tužacich dusy.
+     </tei:foreign>
+    </tei:l>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Z tohto jedného verša si už teraz môj ctený čitateľ ľahko predstaví, ako
+        vyzerali i tie štyri ostatné písané. Tak, hľa, správne písala krásna deva,
+        prebudená, horlivá Slovenka, tak po slovensky písala panna ideálov Po-
+        doľského, slečna Amália Kolmanová. Čo som povedal, že panna ideálov
+        Podoľskéhož... Nie... od tých čias neobzrel sa viac na ňu. A o päť týždňov
+        nato vydala sa Kolmanová Amália za pána Ignáca Kuhmayera, poctivé-
+        ho majstra mäsiarskeho remesla, ktorý nehľadel tak veľmi na slovenskú
+        ortografiu paničky Amálie ako radšej na dvadsiatniky pána Kolmana, na
+        ktoré pri svojej ženbe zvláštnu váhu kládol.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    „Koniec?“
+        „Koniec.“
+        „Hlúposť... hoci...“
+        „Je to ti originálna myšlienka.“
+   </tei:p>
+   <tei:p>
+    „Je, je. Zdá sa to na prvý pohľad hrozne hlúpe, ale predsa je v tom
+   </tei:p>
+   <tei:p>
+    „I mne sa tak vidí.“
+   </tei:p>
+   <tei:p>
+    „Dones že mi, prosím ťa, papier a písanku.“
+   </tei:p>
+   <tei:p>
+    „Budete písať, apuško?“
+   </tei:p>
+   <tei:p>
+    „Budem, a to v tvojom mene, len dones.“
+   </tei:p>
+   <tei:p>
+    Poslušná Anička priniesla z bočnej izby papier, černidlo a perá, pán
+        Poľanský sadol si k stolu a písal nasledujúci list:
+   </tei:p>
+   <tei:p>
+    Velebnému pánu Jozefovi Viktorinovi, farárovi vo Vyšehrade.
+        Úctivo Vás prosím, velebný pane, ráčte mi za pripojené tri zlatky po-
+        slať pre moju dcéru Annu dva výtlačky Vašej Slovenskej gramatiky.
+        V Žibriciach dňa 31. mája 1867.
+   </tei:p>
+   <tei:p>
+    Adam Poľanský v. r.
+        radný
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -2,9 +2,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Emigranti : ELTeC edícia
+        <title ref="ISBN:978-80-8101-683-7">Emigranti : ELTeC edícia
             </title>
-            <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
+        <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
         <respStmt>
           <resp>editor</resp>
           <name>Marek Vician</name>
@@ -18,8 +18,8 @@
       </publicationStmt>
       <sourceDesc>
         <bibl type="printSource">
-          <author ref="viaf:19713382">Kubáni, Ľudovít (1830-1869)</author>
-          <title level="a" ref="ISBN:978-80-8101-683-7">Emigranti</title>
+          <author ref="viaf:19713382">>Kubáni, Ľudovít (1830-1869)</author>
+          <title>Emigranti</title>
           <pubPlace>Bratislava</pubPlace>
           <publisher>Kalligram</publisher>
           <date>2012</date>

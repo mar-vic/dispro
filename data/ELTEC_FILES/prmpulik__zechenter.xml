@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012192" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Prmpulík : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:49245103">
+     Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     3475
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:49245103">
+      Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Prmpulík
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PRMPULÍK
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Päťdesiat i šesť ružových papúľ sa otvára, toľko hlasov rozličnej výš-
+        ky čviriká, k tomu frfoce dvoma motúzmi poviazaný, rukami obratne
+        krútený kus drevka, uprostred izby však hučí poskakujúci, ako škurát
+        veľký mumák. Tam sa dvaja chlapci pasujú, tam si traja nechtami vla-
+        sy čuchrajú, cez pána učiteľov stolík sa dvaja rovesníci za prsty ťahajú
+        a druhí gombíky o stenu šmárajú. Z tohto povrchne kresleného obráz-
+        ku každý ľahko uhádne, že sa tu dívame do obecnej dedinskej školy. Sú
+        to bedliví chovanci vied, nádejeplní chovanci a snáď budúci ministri:
+        keď nie to, aspoň odborní radcovia, čo len župani, a boh dobrotivý zná,
+        akí ešte páni. Z tejto príčiny z ohľadu možnej ich budúcnosti, napríklad
+        ablegátstva na sneme, budem sa chcieť usilovať o týchto malých veľkých
+        pánoch čím najšetrnejšie slová šíriť. Ešte by sa mi dnes-zajtra mohli
+        odslúžiť.
+   </tei:p>
+   <tei:p>
+    Títo budúci velikáši vreštia v tej potuchnutej univerzite malej dedin-
+        ky Polníky ako žaby v mláke, kým bocian zobákom, alebo pán rechtor
+        feruľou na stôl nezaklope. Ale včuľ veru nezaklope, lebo ho niet, a kde
+        niet rechtora, je na to miesto veľa kriku. Ale „silentium!“- nezbedníci,
+        nenadúvajte sa, hneď vám pripáli krampus! Hľa, tamto feruľa a baculus
+        ako sa vám vycierajú. Fuj, mladí chriašteľovia, ale či zatiahnete trasa-
+        vé jazýčky za myšacie zuby! „Ej! canis vestra - luridi, hirci!“ tak hrmí
+        pán rechtor, stiahne obrvy, plesne hrachovou palicou na stôl a potom
+        švargne ňou jedným machom celý šík prvej lavice po chrbte. Aha, tu
+        je - otvoria sa dokorán dvere a dnu vletí Karol, pobočník pána rechto-
+        rov, ošklbaný ako lipa, ktorý mu „škripty“ z domu do školy a pálenku
+    <tei:pb/>
+    z krčmy do domu nosieval. Toto chlapčisko je prototyp lumpa, podľa
+        tváre, posunkov, šiat, skutkov - hodný predmet pre chýrečného maliara.
+        Murilla, ktorý tak rád trhanov maľoval. Ja som si vše žiadal, keby si ho.
+        mohol na pamiatku ako planú zelinu v herbári vytlačiť a usušiť. Jedným
+        švihom vysadil sa na stolík, pelešiaca háveď malých krikľúňov zamfkla.
+        Karol pozdvihnúc si o jednom traku visiace pulidery, zavolá ako kedysi
+        Suvorov - „Hurrah! Praga padla!“ - „Hurá, chlapci, chválapánubohu,
+        pán rechtor sú chorý!“
+   </tei:p>
+   <tei:p>
+    Túto, aspoň pre pána rechtora smutnú novinu prijala chasa so srdce
+        prenikajúcim jasotom. Div, že Karolove dobre vyhnojené a nezúhorené
+        bosé kvaky od radosti nebozkávali. Jedni plieskajú rukami, druhí od ra-
+        dosti knihy o zem hádžu, iní na jednej nohe dookola skáču, item, každý
+        dáva najavo svoju spoluútrpnosť istým — pre pána rechtora nie potešujú-
+        cim spôsobom. Deti i blázni hovoria pravdu.
+   </tei:p>
+   <tei:p>
+    Čudujete sa terajšej mánii maďarizovania. Pletky: ľudia ani predtým
+        neboli stým spokojní, čo mali a čoboli, ale bažili ďalej, a keďi to dosiah-
+        li, driapali sa za druhým. Keď kto mal tisíc zlatých, žiadal si päť, a keď
+        si tie nadobudol, ťahal na desattisíc atď. Baša keď už mal jeden konský
+        chvost, žiadal si mať dva, a keď sa mu stalo po vôli, usiloval sa na tri. Ten
+        čas, keď výchovoveda vrcholila v lopatke, palici, prúte, driapal sa každý,
+        čo vedel kus čarbať, za latinčinou. Áno, i vychovávacie prostriedky mu-
+        seli sa preobliecť do linguam eruditorum a volali sa múdro feruľa, bacu-
+        lus a virgas. A pán rechtor, ktorý sa po otcovi volal a sa na meno „Káčer“
+        obzrel, podpisoval sa „Franciscus Anastasius, docens et lúty rechtor“.
+        Pán Anastasius docens rozumel účinky ferule vtipným spôsobom a zna-
+        menite zostriť. Keď sa jednému podarilo sviňu uliať, musel prsty pravej
+        ruky „na hrušku“ dovedna stiahnuť. Pravica zhrešila, pravica musí byť
+        trestaná. Na to mu potom pán rechtor poriadnu facku vylepil, až mu
+        nechty zhrkotali, čo neomylne ku krasopisu veľmi dopomohlo. Keď sa
+        však vo zvlášť dobrom rozmare, napríklad po hojne užitej domárke vy-
+        nachádzal, použil menšiu útlu ferulinku a do dierky, vprostred ferulinky
+        vyvítanej, vpratal zlomok nožíka, ktorého ostrý koniec asi na dve linaje
+        z plochy von trčal. Každým úderom po dlani delikventa pustil mu žilu,
+        kým nevyzeral skatovaný ako svätý Šebastián.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Prosím medzitým za odpustenie, že sa od veci tak ďaleko odchyľu-
+        jem, ale nechcem, aby bol tento romantický opis našej sparťanskej vý-
+        chovovedy so mnou pochovaný.
+   </tei:p>
+   <tei:p>
+    "Touto praktickou a ľudskou výchovou -,erando discimus virgando
+        crescimus“ - nielen skvelé pokroky vo vedách docielil, ale vzbudil i lásku
+        zverených detí oproti sebe, ako sme boli toho svedkami pri zvestovaní
+        smutnej noviny o jeho chorobe.
+   </tei:p>
+   <tei:p>
+    Čím väčšmi je roztrhaný vojenský prápor guľami, tým väčšia pýcha
+        toho pluku, ktorému prináleží. Vojak pri randavej zástave, štiavnický
+        banský akademik v randavom kabáte a študentík v domykanej obálke
+        kníh, „theke“ nazvanej, máva svoje potešenie. Nuž, slabosti!
+   </tei:p>
+   <tei:p>
+    Keď rapavý a jednooký Karol - jedno oko stratil pri vyberaní strák
+        znamenitý chýr o chorobe pána rechtorovej zvestoval, odľahloi mne ako.
+        Kolumbusovým mornárom, keď po dlhom plavení zase jednúc „zem,
+        zem“ uhliadli. Pobral som stenografickou chytrosťou svoju knihoveň
+        do ošúchanej „štandáry theky“, zvyšku to otcovho banského pozadné-
+        ho remeňa - prehodiac remeň cez krk, pripevnil špagátom na noha-
+        vičný gombík a vyrútil som sa temenom vopred, s rykom ako divoška,
+        s družinou na ulicu. Pred školou roztiekli sme sa ako láva výstredne na
+        všetky strany, búchajúc a strkajúc sa krbáľali sme sa vo väčších-menších
+        klbkách bez gymnastických zásad dolu kopcom, zaobalení do ťažkého
+        uličného prachu havanovej farby. Z istej diaľky by každý do veci neza-
+        svätený a nepredpojatý človek s istotou bol súdil, že sa tam ženie kídeľ
+        „kvikompolerií“ dolu kopcom: netušiac ani najmenej, že by veru vtom
+        svinskom oblaku vystrájali budúce eminencie, excelencie, osvietenosti,
+        veľkomožnosti.
+   </tei:p>
+   <tei:p>
+    Hja, a predsa za mladi sa tíň ostrí!
+   </tei:p>
+   <tei:p>
+    A tu ťahá oproti rozpustilej nádejeplnej čriede chlap veľký s malým
+        bubnom, a bubon veľký s malým chlapom. Epocha na Polnikách: to
+        prmpulíkova komédia!
+   </tei:p>
+   <tei:p>
+    No toho nám ešte bolo treba! V okamihu sme sa zošikovali za bub-
+        nami. Ja s papekom na pleci kráčam vopred, prvý za bubnom - šťastný,
+        že mne, synovi hlavy tejto obce, nikto sa priečiť nesmie, a kochám sa.
+        vbudúcnosti, že večer bude „Doktor Faust s Mežulinou“ potom ateľacie
+        — či atletické - kumšty produkovať a opica chlapcom v hlave vši hľadať.
+        Karol na to ihneď ponúkal pánu komediantovi svoj neočesaný revír.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Keď som prišiel domov, s odvaleným okruchom chleba v ruke pre-
+        unúval som matku bez prestania o prepustenie do komédie a o darova-
+        nie na to potrebných dvoch širokých groší.
+   </tei:p>
+   <tei:p>
+    Po trojhodinovom smolení a neprestajnom prenasledovaní, do ko-
+        mory, kuchyne, stajne atď. namrzená matka po dvoch závdavkom ude-
+        lených buchnátoch udelila mi s povolením do komédie tri groše, aby pre
+        dozorstvo mohla ísť so mnou i slúžka Dora.
+   </tei:p>
+   <tei:p>
+    Aby čas darmo nemárnil, pustil som sa so Štefanom Halbedinským
+        do „pimparipipaxu“ - hry, skoro navlas podobnej šachu.
+   </tei:p>
+   <tei:p>
+    Ďaleko pred určeným časom stál som u Kerešov. Pokladníkom bol
+        sám komediant. Sediac v pitvore na kláte, krútil za chvost akéhosi bru-
+        chatého čerta uloženého na lone. Keď mu prstami šuchoril po črevách,
+        vrešťalo to nemilobohu. Tento hudobný nástroj menovali savojardskou
+        lýrou. K sekavým vysokým vreskom zapískal čas po čase akýmsi medzi
+        zubami držaným plieškom. Bol to ďaleko znejúci vábec, čo mi uši napo-
+        div urážalo. A šli, chudiatka, skromní, ale zvedaví obyvatelia za hlasom
+        ako sojky na kuvika. Pred komediantom stál na maštaľnom stolčeku.
+        a červenom ručníku žltý hlinený tanier - divadelná kasa. Tam kládli
+        peňažné obete na oltár Tálie. Ach, ale nie každý bol vstave peniazmi
+        sa vkúpiť, a takí donášali i naturálny deputát. Komediant mal i svojho.
+        koníčka a pol vozíčka. Kto teda nemal turáky, doniesol a prijalo sa mu.
+        ako relutum viazanica sena, za vahan ovsa, zemiakov, oštiepkov, vajcia.
+        atď., a tieto dary in natura odkladali sa naľavo na zem ako mimoriadny
+        príjem praktického umelca.
+   </tei:p>
+   <tei:p>
+    Karol Veľký - nie panovník, ale tento loptoš - chcel bez vstupného
+        vstúpiť, ale oko pána bdelo! Ako práve dnu dvermi chcel piznúť, fuk,
+        už bol pitvornými na dvore. Neostalo pri tom. Pri drahom pokuse ho
+        umdlec priviedol do tak chytrého mimovolného pohybu, že chmáta-
+        júc rukami v povetrí za dačím pevným, beznádejne musel sa podľa
+        gravitačného zákona hrubiansky uchýliť k matke zemi celou prednou
+        plochou tela. „Amputa hoc caput et defer" ad Antonium“ povedal vúz-
+        kostiach postavený utekajúci Cicero svojim prenasledovateľom. I Ka-
+        rol svoju kostrbatú borievkovú kotrbu ponúkol bezcitnému Antonio-
+        vi, aby podľa vôle aiste nie bez prospechu opica mu v nej ískať mohla.
+        Ale niks taič! Komediant mal srdce z kameňa. „Omne trinum perfec-
+    <tei:pb/>
+    tum,“ ale čerta z pekla horúceho perfectum. Len počúvajte. I tretí po-
+        kus nebol korunovaný prajnejším výsledkom. V práci neúnavný ko-
+        mediant, chytiac Karola tam, kde koruna býva a kde opica ískať mala,
+        tak mohutne vyzváňal týmto skladom vedomostí, kýmkoľvek chudá-
+        kovi zvedavému Karolkovi posýpka von ušami neffkala. Keď mu tak
+        asi do pár medailónov vlasov v hrsti ostalo, s milostivým prízvukom
+        a slovami „ter guater solve frater“ vysadil ho na slobodu. Opýchnutý
+        Karol sa striasol a zahladil nepovolaným komediantovým zakročením
+        do neporiadku uvedenú frizúru. Lež šuhaj svojho charakteru, nedajúc
+        sa maličkými prekážkami odstrašiť, posvätiac sa vede, vrátil sa nazad,
+        ale nešiel viac hore koncom, lež uponížil sa medzi plazivcov, pošťastilo:
+        sa mu v dave hrnúcich sa divákov prešmyknúť do ozaj zaslúženého
+        chrámu pristrojenej Tálie.
+   </tei:p>
+   <tei:p>
+    „Počkaj, prekliaty komediant, ty hráš, ale ti zahrám i ja,“ rozpráva
+        si do brucha hnevom prekypujúci Karol, pomiešajúc sa medzi divákov.
+   </tei:p>
+   <tei:p>
+    V preplnenej dvorane hučal veselý vravor, raz tu, raz tam kvikom
+        pretrhnutý. Ulačený bas volá: „Ej, bisťuvýdade, pusťteže i mňa dopred-
+        ku!“ Vysoký ženský hlas s chichotom zase: „No, Janko, nestískajteže ma
+        tak...“ Inde zase chlapčisko plačlivo: „Mamko, mamko, nedá mi dý-
+        chať.“ V kúte zasa varovkyňa lačné vreštiace dieťa kojí, štrngajúc ple-
+        chovou hrkálkou.
+   </tei:p>
+   <tei:p>
+    Vľavo od dvier pozdíž steny dlhý stôl na dvoch nohách podoby X
+        predstavuje vlastné divadelné dosky. Od povaly až po kraj stola visela.
+        všakovými drakmi maľovaná opona. Kútik vpravo od stola bol proscé-
+        nium. Sprostred povaly visel luster, to jest dva nakríž preložené, lo-
+        jovými sviecami opatrené šindle. Miesto pred stolom asi na tri šuchy
+        bolo slobodné, prvú lavicu obsadili honoratiores, medzi nimi ja s Do-
+        rou, a tak sa postupne tratilo do pozadia. Okolo a na peci rozložená
+        bola najlacnejšia, ale najviac smiechu a výskotu robiaca, k polnickej
+        komúne patriaca čvarga. Všetko toto bolo zastreté rozpáleným hustým
+        vzduchom, v ktorom zastúpené boli všetky chemické, z rozpadnutia
+        zvieracieho ústroja pošlé čiastky — ani dym banskobystrickej striebor-
+        nej huty a zápach podlavických cibuľocesnakových sadov, takže v pri-
+        rovnaní s tým výpar mydlárskej dielne môže sa pomenovať ružovou
+        záhradou.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Keď nám znojom vyzváraným kečka dolu sluchom a šaty po kožke
+        lipieť začali, započalo sa „ateľatické“ predstavenie. Prvý vystúpil bosý,
+        v červených tesných nohavičkách zaodiaty chlapec. V úzkom predstol-
+        nom priestore skákal ako blcha v poháre, košúty váľal, plazil sa a pre-
+        krúcal ako had. Uviazal sa v okamihu i na tri uzle s hrčkou a zase sa
+        rozpáral napoly ako staré nohavice. Híkanie na všetky strany. „Bože,
+        chudiatko!“ stenala suseda. „Ach, ach, to je strach: hľaďte len, hľadte!“
+        volala druhá a váľala kríže po sebe. Stará Valaška vykrikuje: „A bodaj
+        by si bolo zhorelo, to je ani paštrnákový koreň hybké.“ Richtár Červe-
+        nák inším nevedel svoje podivenie vynôtiť len častým opakovaním „i!
+        i! 1“ a šúchal si jednostajne nos o hánky. Oči všetkých lipeli na ňom,
+        vyťahovali hrdlá ako špárgu a boli by im v náramnom podivení hlavy
+        až do povaly vyrástli a podobu lopovov, známych tekvíc, na seba vzali,
+        keby zázračnému vystúpeniu sám Bryndza Pál - ako principála meno-
+        vali - koniec nebol urobil. Lež tu sa nám predstavuje on sám v kroji in-
+        diánskeho Kazíka, červenou hlinkou po tvári baumšaitismom tetovaný.
+        Na hlave mal obrúčku z gelety, cez plece mu visela miesto tigra modrá.
+        gemerská huňatá guba s prišitou svinskou hlavou. - Prvé čo bolo, zjedol
+        jeden - nôž. Nastrašené obecenstvo vydalo zo seba jedno a všeobecne
+        trvanlivé „hí!“. Mašiar Klementis všetok bez seba, hodiac baraniu čiap-
+        ku o zem, zakričí: „Sto bohov mu do matere, nuž však ten i kutáč pre-
+        hltne!“ - „Prehltne ten ver všetko i vidly z predpece, i kapustné nože,“
+        odvetí uhliar Maselník a fajka mu z úst odkvicne. - Indián pokývnuc
+        hlavou hrdým milostným zrakom odplatí rečníkov. Potom položí silný
+        drevený, navrchu hladko vyhíbený svietnik na zem. A šmyk, už je temä
+        na svietniku a podošvy pod hradami. Ale ako strela vyskočí a so straš-
+        ne zmraštenou tvárou a bolestným výkrikom vytiahne do kože vtlačený
+        hrach z čela. Sprvu som myslel, že to patrí k celku, a veľmi som sa tešil,
+        že mu hrach z hlavy bude vyrastať. Ale horká vaša bryndza! Indián veru
+        takbohoval po slovensky, loptošoval toho, čo mu hrach na svietnik pod-
+        ložil, len tak hrmelo. No prisahať by som na to nechcel, ale svoje mravné
+        presvedčenie podnes mám, že pôvodcom toho iný nebol ako Karol. Po
+        chvíľke sa búrka utíšila, zalepil si dierku lojom zo sviece a pokračoval
+        ďalej. Poobzerajúc sa hrdo po obecenstve, ohlási: „Teraz sa bude pred-
+        stavovať španielsky šalát!“ — Na to som zvedavý, čo to za šalát.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Sadol si na zem a pchal do seba ženou na mištičke donesené zrebe.
+        Líca mu už boli napuchnuté ako klenovské syrce. Ale on prevracajúc
+        očami preglgával, akoby tie najchutnejšie pletence bol uží Hotový
+        so zrebami, pritiahol najbližších dvoch chlapcov za uši vedľa seba, kázal
+        im, aby mu do ušú fúkali. Na to im dal po jednom papečku bez dierky. A.
+        tímu papečkami do ušú fúkali, až boli červení ako pivónie.
+   </tei:p>
+   <tei:p>
+    Vtom otvorí umelec papuľu, z ktorej sa valí dym, ako keď Vezuv mal
+        Castell Graeco zasypať. Videl som vymaľované peklo v podobe zázrač-
+        nej papule, ako neposlušné deti hlce - a komediantove ústa práve tak.
+        vyzerali. Preto mi to bol pohľad strašný až do špiku. „Dúchajte lepšie,
+        potvory!“ Chlapci dúchali. Komediant stene, tlačí si boky - a kdežeby
+        i nie, prosím vás - potisne, a tu vyfučia z neho okrem hustého dymu
+        živučičké živé iskry.
+   </tei:p>
+   <tei:p>
+    Ja som badal, že mi každý vlások rastie. Dora založí ruky pred oči,
+        uhne hlavou nazad a zbledne. Naplašený, aby som videl dojem tohto.
+        strašného výjavu v obecenstve, obzriem sa nazad. Za mnou vpravo pod
+        lustrom sedel prísažný Kochelka, peknej, ale ako svätý Peter cele plešivej
+        hlavy. Omámený zázrakom šeptal pod nos: „Je to vtip, je to vtip!“ Hlbo-
+        kú Kochelkovu pozornosť dokazuje najlepšie tá okolnosť, že mu z lustra
+        pošlý lojový stalagmit na päť palcov výšky a štyri palce šírky na jeho
+        poctivú plešinu nakvapkal bez toho, žeby si toho povedomým bol býval.
+        Napnutosť bola toľká, že sa málokto ilen dýchnuť opovážil.
+   </tei:p>
+   <tei:p>
+    Keď mu už pekelné vráta dym a oheň soptiť prestali, pomiešal si na
+        ríf dlhým papekom v hrtane, strčiac ho do žalúdka, ak nie ešte ďalej,
+        a krútil ním, ako keď habarkou kyslé mlieko trepú. Zrazu vytiahne spo-
+        medzi zubov prstami stužku a tým istým papekom ťahá, ťahá to modrú,
+        to bielu, to červenú, až radosť bolo na to hľadieť. Dore, pohľadom za-
+        divenej, vykradne sa z hlbín srdca: „Ach, zbesnel si sa!“ - pri dverách
+        ale vydýchne druhá: „Skamendl si!“ - tam kdesi pod pecou počuť hlas:
+        „Mh, ťa pokrčilo, či ti vytiahol bandúra!“
+   </tei:p>
+   <tei:p>
+    A to, páni moji, bol ten „španielsky šaláť“.
+   </tei:p>
+   <tei:p>
+    Po krátkej prestávke a známej hudobnej produkcii s pridaným ple-
+        chovým „ťuk, ťuk, ťuk“ nasledovalo konečne divadelné predstavenie.
+   </tei:p>
+   <tei:p>
+    Pomiesili sme sa na miestach, zotavovali z videných zázrakov a šú-
+        chajúc dlane očakávali sme s radosťou, čo to zase bude.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Chcem jedno i druhé pripomenúť, ale celé divadelné predstavenie
+        opisovať nie je mojou úlohou. - Kráľ s kráľovnou, s komonstvom, mar-
+        šali a dámy boli nádherne pristrojení. Čert menom Pik bol tmavomod-
+        rej farby, s dlhým, strašne klepajúcim pyskom a veľkými ušami.
+   </tei:p>
+   <tei:p>
+    Strašnejší od tohto bol Mefisto, čeľadník síce podoby človeka, ale mal
+        uši tiež veľké ako lekvárový hrniec a celý bol červenej farby, akoby sa.
+        bol v kremnickej červenej linke močil. Keď títo dvaja rozprávali, sekali
+        pyskami ani holendery, pred ktorými by sa bol isám pôvodca „pekelného
+        žalára“ zdesil. Smrť ukázala sa tiež, ale len tak ostýchavo, „próterfurmarť,
+        ako sa povedá, len zboku, a záležala celá z husacieho rozprestretého kríd-
+        la. Originál musel dakde čert vziať, a tak sa mi zdalo, že to krídlo bolo.
+        len dočasným substitútom smrti. No ale my sme to spokojne vzali tak.
+        Ale najväčšie interesy vzbudila osobnosť „prmpulíkova“. Keď sa furták.
+        len ukázal, už bolo obecenstvu do popukania, klátilo sa smiechom hnuté
+        v bedrách ako víchrom knísané smreky. „Bodaj by si bol zdochol, ska-
+        menel, zhorel, aby ťa metalo, hádzalo, skrčilo“ atď. boli výkriky vďačné-
+        ho polnického obecenstva miesto aplauzu veľkomestských divadiel. Ako.
+        zvonica široká pani richtárka mala sa už od smiechu rozváľať ako rozsu-
+        šená zvárka. „Prestaň, pumprl, lebo sa po-po-pu “, kričala bez seba. Dora.
+        rukami nohami bombáľala ako válkoveň, každý okamih som sa o ňu bál.
+        Ale i mne bolo všakovak, no nie div, lebo furták furtácky, prmpulík, keď
+        ústa otvoril, už to nebolo rovné a každý jeho posunok bol fígľom.
+   </tei:p>
+   <tei:p>
+    Dačo na ukážku, len aby vám nezaškodilo: „No už je to pravda, už sa
+        jau toho môjho pána raz dobre mávam. V pondelok dostávam zemiaky,
+        vutorok krumple, v stredu grule, vo štvrtok bramburky, v piatok švábky,
+        v sobotu zemské jablká: v nedeľu ráno z múky, na obed z cesta a na večer
+        halušky.“ No - a potom sa nesmejte. Ba smiali sme sa za tých pár groší,
+        až nás rebrá boleli a kuľajstra sa nám čelom i nosom cedila.
+   </tei:p>
+   <tei:p>
+    Kým všetky tieto strašné, prepodivné a veselé výjavy našu obrazo-
+        tvornosť a veselosť zabávali, zlosyn a „rotac diabolus“ - to by bolo po.
+        slovensky červený diabol - Karol neúnavnou usilovnosťou vykyvoval
+        a šťastlivo vykýval klin, ktorý nohy divadelného stola nakríž zložené
+        spájal.
+   </tei:p>
+   <tei:p>
+    V najlepšom ohni divadelného predstavenia, keď komediant za di-
+        vadlom juchtovou nohou dupol na rozknísanom, k pádu prichystanom
+    <tei:pb/>
+    stole - práve pri deji, v ktorom Pik s Mefistom doktora Fausta do pekla
+        per šúb expedírujú - rozpadne sa stôl, divadlo, všetky krámy, a kome-
+        diant z jeho podpovalného olympu musí sa znížiť k nám druhým zem-
+        ským obyvateľom, ba ešte i kus nižšie. S veľkým praskotom a rinkotom
+        rozpľaštil sa na tom mieste, kde pred nedávnom v nepoškvrnenej ne-
+        beskej sláve španielsky šalát užíval a napriek hodvábnej húsenici hladké
+        stužky zo seba vydával. A teraz? Teraz jeho sláva zakopaná leží.
+   </tei:p>
+   <tei:p>
+    Pri veľkom zmätku padla jedna zlojových sviec štvoruhlastej richtár-
+        ke na čepiec, ktorý hneď blčal ani stodola. Nebolo čím hasiť, v náhlosti
+        postavili jej susedky pri ruke stojaci šochtár na hlavu. Karol, použijúc
+        krásnu príležitosť pomsty, hodil sa ako divoch na svoju obet, zavesiac
+        sa jej na obe uši ako náušnice. Opica si bráni svojho Bryndza Pála a škl-
+        be Karolovi škundry ako ženičky pastorné konope: komediantova žena,
+        čierna ako šunka a červený chlapec usilovali sa Karola za nohy detroni-
+        zovať, ale malá hýba pýta viac, privalila sa rozpustená komúna z kachieľ
+        a bola ich hneď kopa. Šťastie pre všetko polnické človečenstvo, že táto
+        komúna v ten čas ešte hrozné účinky petrolejovej látky nepoznala.
+   </tei:p>
+   <tei:p>
+    Vyhasili sviece, zmätok rástol, v tej miere množili sa i buchnáty. Tu
+        potom richtár, ktorému sa kacheľ z pece do chrbta dostal, nadurdený
+        pozdvihol palicu a „palica rúbaj. A padajú údery ako krúpy, nečíta-
+        né, nemerané, ako sa komu dostali. Účinkovalo to blahonosne, ddlili
+        sa múry nakopených bojovníkov ako bulvardy červeného mora pred
+        faraónskymi bataliónmi. Ja som bol v hrozitánskom pomykove: okolo.
+        mňa fučala a pukala palica ako lieskové orechy, a ja som sa nemohol
+        hnúť z miesta, ako vo sne — dákysi čert ma držal za nohu. - [ Dore sa do-
+        stal poctivý úder na poli bitky, i mňa chraplo voľačo po čele a škrabalo:
+        na väzoch. Počal som plávať, veslovať rukami-nohami celou silou, až sa
+        mi koniec-koncov podarilo s týmto pomotaným svetom sa rozuzliť a na
+        dvor vybehnúť. Tam som už našiel viac utekajúcich a cez hnoj krbáľajú-
+        cich sa divákov.
+   </tei:p>
+   <tei:p>
+    Sitkovie Zuza zronila rebrík zo šopy: ten padol Dore okolo krku aona
+        naplašená, vúzkostiach postavená, niesla ho na sebe chudera ako „špa-
+        nielsky grézlik“ do čiernej noci.
+   </tei:p>
+   <tei:p>
+    Aby sa nám z toho, čo tam štedrou rukou rozdávali, viacej ešte za
+        podiel nedostalo, uchýlili sme sa záhradnými dvermi. Ale nás i tu Pik
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    a Mefisto prenasledovali. Prvá zavadila Dora medzi hrachové palice reb-
+        ríkom a trvalo chvíľu, kým sa toho jarma zbavila. Potom chcem čiernu
+        mláku preskočiť a na bielu skalu skočiť, ale som sa zle-nedobre prerátal.
+        Čierne bolo nie mláka, lež uhliarsky suchá zem a tú som udatným sko-
+        kom presadil a rypol som miesto bielej skaly do - vápennej jamy, fuk, až
+        po samé plecia. No, servus, Gusto! Dora ma za uši ťahala, len tak lusklo,
+        akoby bol do cesta padol, a vystúpil som biely ako premonštrát.
+   </tei:p>
+   <tei:p>
+    Ach, mala že tá moja matka potom radosti! Prvé bolo, že ma vykeč-
+        kovala a pri tej manipulácii mi vypadol Pik spoza goliera. Hrom mu do
+        pečene, ten mi v tej trme-vrme frkol o čelo a potom sadol na väzy! Istot-
+        nejeho vinou som do tej vápenice zdrochol.
+   </tei:p>
+   <tei:p>
+    Matka, pohroziac mi prstom, prepustila ma s tou anticipáciou, že
+        „však sa zajtra porátame“.
+   </tei:p>
+   <tei:p>
+    Noc som mal nespokojnú, potil som sa ako povesná vo zvárke, ale
+        „nocte pluit rota redeunt spectacula mane“. Ráno musel som na rozkaz
+        matkin vliezť do zavápenených šiat, potom sme vyšli na dvor a matka
+        ich - perse, na mne - tak dlho klepala, kým ostatný prášok z nich ne-
+        vystúpil.
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

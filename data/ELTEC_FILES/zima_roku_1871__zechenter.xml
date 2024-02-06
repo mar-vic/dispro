@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK201290" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Zima roku 1871 : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:49245103">
+     Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     1103
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:49245103">
+      Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Zima roku 1871
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ZIMA ROKU 1871
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Zima - bodaj by ju vlk zjedol - je podľa fyziky neprítomnosť teploty.
+      My by sme povedali: kde niet tepla, tam je zima. Zima po istý stupeň
+      sťahuje, to vidíme na vode a na našich vlastných lícach, tie zblednú, kým
+      jej vplyvom zúžené tenulinké krvné nádobky odvážajú krv z povrchu
+      dovnútra. Keď sa stupeň zimy zväčší, rozťahuje predmety. Vidíme to,
+      keď zamrzne voda, vtedy ona v podobe ľadu väčší priestor zaujíma, zdú-
+      va sa, a takto i veľké zápole silou-mocou kála a mrví.
+   </tei:p>
+   <tei:p>
+    Výstrednosti zimy sa teda schodia ako ten had, čo si sám do chvos-
+      ta hryzie. Áno, zdá sa byť v protirečení sama so sebou, keď povieme
+      a dotvrdíme, že zima zapríčiňuje - teplotu. Keď ona, napríklad v istých
+      stupňoch a dostatočne na našu tvár pôsobí, tvár nám horí, ba zamrznuté
+      údy prechodia do úpalu (brand). Na základe toho šúchame zamrznuté
+      telo snehom, aby odmrzlo - celkom správne a múdro.
+   </tei:p>
+   <tei:p>
+    Nejdem ďalej šíriť prednášku o predmetoch, ktorú teraz i tak každý
+      a všade pri školách bývajúci môže zadarmo počuť. Škoda, že predná
+      toho obsahu v dobu, ktorú tu opisujeme, začaté neboli, kde by sa tá téma.
+      o zime tak makavo a prakticky dala predviesť.
+   </tei:p>
+   <tei:p>
+    Naše mesto, o ktorom je reč, čoby sa io mnohých iných rovným spô-
+      sobom dalo povedať, spadúva do pásma sveta, miernym nazvaného, kde
+      zima trvá za sedem mesiacov, a za ostatných päť nie je teplo. Bližšie ho.
+      označujeme tým, že sa tu našiel prvý gogoľ so zlatým zrnom. Zlaté zrná
+      sa včuľ tratia, gogole sa rozmnožujú. — Ale tieto veci vžiadnom pomere
+      nestoja k zime a k tejto besiedke: preto ich ako mimochodné necháme
+      stranou.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Dosť na tom, tohoročná zima, ako obyčajne, i teraz nepríjemne pô-
+      sobila na obyvateľstvo tohto mesta, a to tým nepríjemnejšie, že nebolo
+      dreva. Podľa nám už známych fyzických pravidiel ľudia už v jeseni ple-
+      cami sťahovali.
+   </tei:p>
+   <tei:p>
+    Pre veľa stromov nevideli sme les, ale vlese bolo dreva — teda sme ho
+      vidieť nemohli. Stromov dosť, ale stromy nechceli a nemohli prísť samy,
+      atak vkachliach sa zotmelo a zkomína prestalo sa dymiť. A tak vyhráž-
+      ka: „Počkaj, však ja tebe zakúrim!“ stala sa dobre prajúcim výrazom.
+   </tei:p>
+   <tei:p>
+    Sporáky v úplnom zmysle slova sporili drevo, ale veru i našim žalúd-
+      kom vypovedali službu. Odkázaní sme boli na „studeno“. Nebolo počuť,
+      že by si bol voľakto ústa popálil. - A nastala doba zubenia škripov, a či
+      škrípania zubov. Zima, hlad, bieda, husacia koža bez husí, ani v obľah-
+      nutom Paríži. Výnimkou boli tí, čo si drevo sami na chrbte z lesov doná-
+      šali: tých už nosenie hrialo, a tak mali osoh dupľovaný. Výnimku ďalej
+      robili tí, čo boli šťastlivými účastinármi pri kopaní ešte nevykopaných
+      kopanín kamenného uhlia v krajoch, kde stálo kedysi mohutné Eturum:
+      lebo pri skladaní, to jest splácaní účastinárskych podlžností sa im keč-
+      ka rúče zohriala. Chyba pri tomto výnosnom - lebo vynášal - podniku
+      bola tá, že pri kopaní kamenného uhlia nakopali veľa kameňov a uhlia
+      nič.
+   </tei:p>
+   <tei:p>
+    Keď sa jedno-druhé poleno zaplietlo do zásobnice, nastala ruvačka.
+      Ináč pokojamilovní občania stali sa tigrami a s mäkkým drevom klád-
+      li jeden druhému tvrdé buchnáty, čo ich síce na základe silného šuchu
+      a buchu dokonale zohrialo, ale na zježenej koži zanechalo i dlhotrvan-
+      livé nezábudky.
+   </tei:p>
+   <tei:p>
+    Studená bieda rástla, vlastne a vedecky povedané, padala až hlbo-
+      ko pod - 0% R. Vzácnosť dreva bola zo dňa na deň a, nikto viac
+      neodhodil ohorok zápalky, ale pekne rúče ukryl do vačku. Kmotrám
+      neposielali viac zaprávané a torty do postele, ale dáku latku alebo kus
+      krajnice (okrajky). Úctivosť k drevu mienime najlepšie tým dokázať, keď
+      čitateľov uistíme, že na Štedrý večer rodina stromčekom najlepšie bola
+      tak prekvapená, keď na ňom miesto medovníkov viseli tu bukové, tam.
+      jedľové - polená.
+   </tei:p>
+   <tei:p>
+    A na mestskom dome čo? Tam hrúza, akú nepodstúpil ani sám dr.
+      Kane, omrznutý a omrzený so svojou výpravou na Severnom mori. Ste-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    ny v pisárňach ľadom pokryté sa ligocú ako kryštálový palác v Kurdis-
+      tane: kachle chladné ako - uhorka: v kalamároch ľadoviská ako Ladoga.
+      a Onega: a pisári s bradami, fúzmi - bielou smotánkou potiahnutými -
+      pre ohriatie údov korčuľujú sa po dlážke, fúkajúc si do prstov.
+   </tei:p>
+   <tei:p>
+    V radnici, prefúkanej „bórou“, sedia, ľadovým, zo žlabu visiacim
+      cmokom podobní zástupcovia smutnej tváre, ako Napoleon I. po návra-
+      te z Ruska. Pri chôdzi „Patres conscripti“ trú si vzájomne nosy snehom —
+      výraz vzájomnej pomocnice: ruský to konzervatív, prezervatív a vokatív
+      proti nosovej zime. Fúzy a brady mali cmokami obrastené, navlas po-
+      dobné tej „grotte“ na Sliači, kde sa rozličné hračky obťahujú vápennou
+      usadeninou.
+   </tei:p>
+   <tei:p>
+    Každý z vyvolenej obce kladie si hrniec so žeravým uhlím medzi
+      nohy, aby mu myšlienky nezamrzli.
+   </tei:p>
+   <tei:p>
+    S hlasitým, úplne podľa hudobnej škály spravovaným kašľom vstúpi
+      do dvorany pán mešťanosta, za ním za pätami desiatnik s turibulom, to.
+      jest so žeravým uhlím v randlíku. Musel práve z postele vstať, lebo mal
+      ešte šedivé vlasy o vankúš a či vankúš o šedivé vlasy primrznutý.
+   </tei:p>
+   <tei:p>
+    Pán účtovník, chlapisko, na ktorom dve veci bujne rástli - brucho
+      a fúzy - privítal pána mešťanostu dlhšou rečou. Para, pritom z úst vy-
+      pustená, padala mu k nohám v podobe snehu a bol by ním snáď celkom
+      zapadol, keby mu dlho snovanú reč neboli pretrhli výkrikmi netrpezli-
+      vosti.
+   </tei:p>
+   <tei:p>
+    Pán mešťanosta vítal zastupiteľstvo, napomínajúc ho k svornosti a vy-
+      trvalosti, a to takou ohnivou rečou, že počas nej hneď naskutku dva-
+      ja slabší poslucháči zamrzli. Pripomínal a napomínal ku sporivosti, že
+      opatrná gazdiná i na špiritusovej lampe opára bravov a varí obarky, nad
+      sviecou v šporherde kapustniarku zapráža, dobrí gazdovia ale, pripaľu-
+      júc fajky, že zápalkami vyhrievajú izby.
+   </tei:p>
+   <tei:p>
+    Následkom - 16“ R zimy úradovanie stalo sa nemožným a mnohým
+      stránkam pri súde kože boli stiahnuté na - kľučke. Ustanovilo sa: úradné
+      miestnosti kúriť aspoň raz do týždňa, pretože však dreva niet, majú sa kú-
+      riť „nevybavenými aktamť“ ktorých je vraj, chvalabohu, veľká kopa. Ak to.
+      nevystačí, budú sa páliť mestské ploty a popol vysýpať na klzké chodní-
+      ky. Ďalej má sa bubnom oznámiť, že každá na mestský dom prichodiaca
+      stránka povinná je jedno poleno pod pazuchou doniesť so sebou.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Uslyšiac toto uzavretie, valne zhromaždené obecenstvo na námestí
+      jasalo a plakalo slzy radosti, veľké ako krumple, ktoré však prv, ako by
+      najavo boli vyšli - zamrzli, alen ligotavý odblesk radosti vystúpil im pod
+      nosom na svetlo.
+   </tei:p>
+   <tei:p>
+    Čo sme v úvode povedali, na to opäť prichodíme. Napadol sneh
+      a bolo teplo, lebo pomocou sanice prirukovalo drevo, zásobárne sa pl-
+      nili, takže už samotný pohľad na tie hfby dreva ohrieval. Komíny valili
+      kotúče, kachle dýchali teplo a na sporákoch škvrčali vo troje okrútené
+      voňavé klobásy.
+   </tei:p>
+   <tei:p>
+    A na mestskom dome? Teplota ani na brazílskych hájoch, kde sa ko-
+      libríky na bodliakoch hojdajú a ananásy na smetiskách rastú.
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

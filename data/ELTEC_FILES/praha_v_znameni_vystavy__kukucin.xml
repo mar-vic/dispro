@@ -1,0 +1,1562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012405" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Praha v znamení výstavy : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:10637721">
+     Bencúr, Matej [Martin Kukučín] (1860-1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     11217
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:10637721">
+      Bencúr, Matej [Martin Kukučín] (1860-1928)
+     </tei:author>
+     <tei:title level="a" ref="ISBN:978-80-8101-278-5">
+      Praha v znamení výstavy
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PRAHA V ZNAMENÍ VÝSTAVY
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Prvého mája! Robotnícke červené kravaty, široké klobúky a haveloky -
+        vôbec všetko, čo súvisí s manifestáciami robotníckymi... Je to všade rov-
+        nako s tými tábormi robotníckymi, každé mesto ich bude mať, daktoré
+        viac, polícia aspoň bude môcť povedať: „Nie som tu darmo...“
+   </tei:p>
+   <tei:p>
+    To nemá pre Prahu žiadneho významu, ba ani nie „veľký koncert“,
+        toho dňa o štvrtej ráno v „Kráľovskej obore“ držaný, na ktorý popredku
+        tešilo sa všetko, čo rado vstáva na svitaní, ešte prvej, ako začnú štebotať
+        lastovičky, ktorých je tu toho roku veľmi, veľmi málo. Zaviazli kdesi, ale-
+        bo pomrzli, kým preleteli ponad Alpy.
+   </tei:p>
+   <tei:p>
+    Praha obracia inam pozornosť. Tým dňom vstupuje do znamenia vý-
+        stavy.
+   </tei:p>
+   <tei:p>
+    Ani nečuješ hovor o inom ako o nej. Všetko, čo sa robí, čo sa myslí
+        šetko je „pro výstavu“. Už vonkajšok, ako sa mesto navonok ukazuje,
+        svedčí, že tu strojí sa čosi neobyčajného. Všetko, čo by na oči nemilo
+        mohlo pôsobiť, odpratáva sa a zas vynakladá všetok zreteľ, aby mesto.
+        vyzeralo ozaj sviatočne, keď príde ten deň.
+   </tei:p>
+   <tei:p>
+    Celé ulice sa predláždili, zvlášť tie, kde bude väčšia premávka a ob-
+        chod. A to veru nebude nikomu na škodu. Parky sa zriadujú, okrášľujú.
+        Že tak pozde, toho je tá príčina, že i tu panovali veľmi plané časy a len
+        po tieto dni sa akosi vyjasnilo, i to ktovie, či nadlho.
+   </tei:p>
+   <tei:p>
+    Veľkolepé múzeum je už hotové i zvnútra, i zvonku. Nič neruší do-
+        jem, aký vyvoláva vkaždom pozorovateľovi pohľad na túto krásnu, nád-
+        hernú stavbu. Pred ňou na mnohých podstavcoch je socha Čechie a po
+        stranách Morava a Sliezsko. Spod Čechie poleje sa mocný prúd vody
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    z tlamy levovej a bude padať do bazénov, pod ním sa rozkladajúcich.
+        Kto vystúpi až hore k vchodu do múzea, má pred sebou ako na dlani ná-
+        mestie Václavské, ktoré končí sa Priekopami a kedysi bude až po samú
+        Vltavu predížené, čo mnohí netrpezlivo už čakajú. No i takto, zvlášť ve-
+        čer je to pohľad zriedkavý. Nekonečné rady plynových lámp zaplavujú
+        svetlom toto najpriestrannejšie námestie. Okolo múzea bude zariadený
+        pekný parka hriadky s kvietím a krovinami. Pätnásteho mája | múzeum
+        bude oddané svojmu určeniu, spolu i nová akadémia vied a umení bude
+        otvorená. Urobí to menom jeho jasnosti arciknieža Karol Ludvik, ktorý
+        k tomu účelu dostaví sa do Prahy.
+   </tei:p>
+   <tei:p>
+    Veru mnohá vec bola by sa ešte odložila, keby nie výstava. Už v tom je
+        ona veľmi osožná, mestu a celej krajine. Niektorí nedbanlivejší majitelia.
+        domov musia svoje domy okľudiť ak nie podobrotky, tak pozlotky, to
+        jest, na ich útraty prevedie to magistrát. Kamenný most Karlov, ktorý
+        vlani povodeň zrútila, nemohol byť ešte napravený, ale je dočasne tak
+        zreparovaný, že premávka po ňom už od troch mesiacov trvá. Medzi pi-
+        liermi zachovanými je drevený most na vysokých pilieroch - ten potrvá.
+        do tých čias, kým Karlov most, pomník českej slávy, nebude definitívne
+        napraven)
+   </tei:p>
+   <tei:p>
+    Pretože výstava bude v Kráľovskej obore, teda asi pol hodiny od
+        mesta, prichodilo pomýšľať na to, aby premávka medzi mestom a vý-
+        stavou bola bystrá, pohodlná a lacná. Pražská tramvaj už predtým ta.
+        viedla, ale tento podnik už preto je nepopulárny, že je v rukách cudzích
+        kapitalistov. Táto akciová spoločnosť má ten účel, aby hodne nacicala.
+        pražských peňazí a odslúžila sa za to Pražanom - nemeckými úradník-
+        mi. Niet týždňa, aby v novinách nečítali sme žaloby, ponosy, pokyny,
+        rady - ale správa slávnej tramvaje má kožu ako elefant. Nie div, že
+        mesto muselo urobiť, čo sa urobiť ešte dá: zariadiť lanovú dráhu od
+        mosta Eliškinho na Letnú. Bude do výstavy tiež hotová. A pretože na
+        tomto moste bude až veľmi živo, peší, kočiare, tramvaje atď., mesto dalo.
+        povyše neho vystaviť druhý most pontónový, ktorý je už skoro hoto-
+        vý aiste dobré služby bude konať, keď bude nával veľký. Pán František
+        Kfižík zase zavedie elektrickú dráhu z Letnej, tam kde lanová bude sa
+        končiť, až k výstavisku.
+   </tei:p>
+   <tei:p>
+    Klub českých turistov stavia zas na Petčíne „rozhlednu“. Má to byť
+        vysoká veža, z ktorej otvorí sa ďaleký výhľad až po Krkonoše. Vstupné
+        bude malé, prístup k nej pohodlný a lacný - dá sa očakávať, že klub zle
+        nepochodí, ale nejeden hosť nebude ľutovať tejto cesty, aby mohol si ob-
+        zrieť i okolie Prahy, ktoré je veľmi krásne.
+   </tei:p>
+   <tei:milestone rend="stars" unit="subchapter"/>
+   <tei:p>
+    Praha vynasnaží sa, aby cudzím hosťom nebolo clivo. Hry v Národnom
+        divadle budú trvať cez celú sezónu. Riaditeľ Šubert vybral už kusy, kto-
+        ré dosiaľ dávali sa v divadle s najlepším úspechom a zostavil z nich re-
+        pertoár, s ktorým hostia môžu byť spokojní. Opery, drámy, veselohry
+        i balety budú sa zamieňať a priťahovať nových a nových návštevníkov.
+        Umelci od divadla nebudú mať toho roku už vakácií. Malú náhradu
+        mali cez Veľkú noc, keď trvali vakácie tuším celý leň. Väčšia náhrada
+        bude od obecenstva, ktoré ich iste bude odmeňovať potleskom. Pretože
+        Pražania tieto hry už videli a nechceli by cez výstavu bez divadla os-
+        tať, tomu odpomohli dedičia direktora Švandu ze Semčíc, vystaviac na
+        Smíchovskom nábreží dočasnú scénu. Tam bude hrávať spoločnosť to-
+        hože Švandu, veľmi dobre známa. Cez zimu hráva v Národnom divadle
+        v Brne. Na Kráľovských Vinohradoch je tiež letné divadlo, kde spoloč-
+        nosť Pištčkova ako indy, tak i teraz bude hrávať.
+   </tei:p>
+   <tei:p>
+    Čo prídu Nemci, tí pôjdu navštíviť staré a zostarené Landestheater na
+        Ovocnom trhu. No ani budova, ani hry v nej ich nepozdvihnú. Urobí to.
+        dojem provinciálneho divadla. Okrem toho majú Nemci neďaleko spo-
+        menutého Múzea Neues deutsches Theater, nedávno vystavené. Zvonku
+        a zďaleka ešte sa ta reprezentuje, hoci je veľmi rozčlapnuté, ako tučný
+        a nízky žid - no zblízka vidno, že je to talminádhera. Tie sochy tamho-
+        re také, akoby ich bol remeselník napochytre vydlabal, nezodpovedajú,
+        áno, protivia sa štýlu. I dnuka vidíš, že čo sa ligoce, to nie je zlato, ale iba
+        aurum mosaicum. Nuž vyzerá to ako tá nemecká nafúkanosť tu v Prahe
+        — prizri sa jej, vidíš, aké je to smiešne...
+   </tei:p>
+   <tei:p>
+    Bude mnoho ľudí, čo nemilujú divadlá, menovite keď reči nerozu-
+        mejú. Tí pôjdu do Karlína do Theatre Varieté - je to čosi také ako inde
+        Orfeum. Bude cez celú sezónu pracovať.
+   </tei:p>
+   <tei:p>
+    A ešte o Národnom divadle. Práve pred ním stavajú dva kandelábre, vysoké a
+        nádherné. Budú do výstavy dohotovené. Tu hneď vidí Čech raz postaví, to je i
+        trvácne, i nádherné, keď raz chce ukázať, že dačo zmôže a vládze.
+   </tei:p>
+   <tei:milestone rend="stars" unit="subchapter"/>
+   <tei:p>
+    V kupectve, v remesle, vo všetkom badať, že krajina chystá sa k výstave.
+        Mnoho a mnoho nových sklepov zjavilo sa a čo deň nové povstávajú.
+        Noví ľudia snažia sa vykoristiť príhodný čas k začatiu kupectva. Zase
+        staré firmy sa vynovujú. Mnohé jedálne, o ktorých si myslel, že nesmú
+        byť vybielené a trochu priestrannejšie a vyššie — to všetko zväčšuje sa
+        a rozpína. Len kde berie sa miesto v tých starých, sto a storočných
+        domoch! Iní zakladajú záhrady, menovite pivovarčí, iní zas okrášľu-
+        jú, kde-čo môžu. A všade ukazuje sa radosť, ako keď dakto čaká hos-
+        tí a riadi, aby im bolo milo a dobre. To všetko je veľká výhoda nielen
+        hosťom, ale i Pražanom. Lebo starousadlý Pražan je zvláštne stvorenie.
+        Má podelený čas a toho sa drží a večer je rád, keď môže si posedieť vo
+        „svojom pivovare a pri „svojoný stole i so „svojimi“ priateľmi. Deň za
+        dňom, rok za rokom - ani hostinský, ani hosť nebadajú, že oba stučneli.
+        Ich deti sú na svojom chlebe, vlasy im vypízli alebo statočne zošediveli,
+        a vždy len chodia k „svojmu“ stolu. A tá izba i ten stôl zostáva tak, ako.
+        bola, len čím diaľ je začadenejšia. Z tohto konzervativizmu dá sa vy-
+        svetliť, že popri moderných, elegantných reštauráciách je celý regiment
+        starodávnych, v pravom slova zmysle „pivníc“. Vlasy sa dvíhajú, slzy
+        tečú, dych sa kráti - ale Pražan sedí si pri svojom poháriku a nešiel by
+        za svet do parádnej reštaurácie. No a teraz i na tieto prišiel rad. Ale zato
+        nech sa nik nebojí, že z tých starých nezostalo nič. Veru je dosť takých,
+        kde Švédi popíjali v tridsaťročnej vojne a skoro nič sa nezmenilo, iba
+        že svieti sa nie fakľami a smoliarmi, ale plynom. To je výdobytok novej
+        doby.
+   </tei:p>
+   <tei:p>
+    O byty bola by bývala núdza. Tunajšie hotely neboli by vydržali stisk,
+        aký panuje pri výstavách. Preto staré rozšírili sa, nové stavajú sa, i z pri-
+        vátnych bytov, hostincov, improvizujú sa dočasné kvartiele. Nikto nemu-
+        sí sa báť, že by musel dľa starého dobrého mravu prenocovať pod dákou
+        bránou alebo na moste. Budú k dispozícii boháčom parádne salóny, men-
+        ším boháčom izby, chudobnejším kabinety ai nocľahy lacné a hromadné,
+        ako v kasárňach. O toto všetko stará sa ubytovacia kancelária výstavná.
+        a okrem toho je tu inštitút na zaopatrovanie bytov Oiketerion.
+   </tei:p>
+   <tei:p>
+    Hromadné návštevy, menovite hosťov z ďaleka, budú slávnostne ví-
+        tané. O to stará sa slávnostné komité Meštianskej Besedy v Prahe. Iste
+        nejeden raz bude celá Praha na nohách, privítať hosťov, ak budú inte-
+        resantní, alebo ináč príjemní. Pražania sa v tom veľmi vyznajú. Takých
+        vítaniek inde ľahko nevidíš, ako tu.
+   </tei:p>
+   <tei:milestone rend="stars" unit="subchapter"/>
+   <tei:p>
+    Okrem toho spolky a všetky stavy starajú sa, aby prispeli na oslavu tohto.
+        národného sviatku. Tak hneď týždeň po otvorení výstavy panie a devy
+        české oddajú nádhernú zástavu študentskému ústrednému spolku Slá-
+        via. Tu bude celý rad slávností. Večer predstavenie v Národnom divadle.
+        "Tu budú obrazy z dejín českého študenta a slávnostný prológ, spísaný od
+        Elišky Krásnohorskej k tejto príležitosti. Bude historický sprievod pešo.
+        i na koňoch v kostýmoch starodávnych, študentských. Na Žofíne bude
+        improvizovaná benátska noc s elektrickým osvetlením, lampiónmi, gon-
+        dolami a spevom.
+        Budú ďalej závody velocipedistov neďaleko výstavy v Holešoviciach.
+        Bývali i po iné roky, no teraz budú ešte nádhernejšie a účasť bude veľká.
+        Koncom júna bude Zlet všesokolský, to jest sokoli zo všetkých strán
+        zídu sa a budú závodiť. Tu bude celý rad slávností usporiadaných sokolmi.
+        Nuž bude všetko, čo môže človeka vábiť k ceste do Zlatej Prahy. Ona
+        čaká hostí zo všetkých strán: srdečne ich privíta menovite zo Slovenska!
+        O výstave budúcne.
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     PRECHÁDZKY PO VÝSTAVISKU
+    </tei:head>
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Z Jozefského námestia kráčame „Eliščinou tčídou“, alebo môžeme si tu
+          sadnúť na tramvaj: je to skoro jedno, tramvaj sotva včaššie zavezie nás do
+     <tei:pb/>
+     Kráľovskej obory, akoby nás zaniesli naše vlastné nohy. Napravo ukážu
+          sa nám Eliškine kúpele parné, rímske a írske, i vaňové. Upomínajú na
+          židovskú synagógu v Lúkach.
+    </tei:p>
+    <tei:p>
+     Preto kúpačku ponecháme si napotom: snáď v Kráľovských kúpe-
+          och pri Karlovom moste alebo na Žofíne. Kráčame Eliškiným mostom,
+          pravda, museli sme zaplatiť za to jeden grajciar. Naľavo i napravo otvo-
+          rí sa nám zriedkavá panoráma: vľavo zelený, stromami vysadený breh
+          Letná a tam ďalej Hradčany. Z tejto strany vidno, že to bol kedysi pev-
+          ný hrad a nie iba bydlisko starých kráľov a aristokracie. Dóm sv. Víta.
+          vyčnieva nad všetky paláce, žial, že nedokončený ešte. No nebude dlho
+          trvať a tento sen štedrých, umenia milovných kráľov bude splnený. Na
+          stavbe sa po tieto roky energicky a ustavične pracuje.
+    </tei:p>
+    <tei:p>
+     Rovnobežne s Eliškiným má ísť i most drevený, pontónový. Na praž-
+          skom brehu stavba dosť pokročila a do otvorenia výstavy bude iste ho-
+          Ľudia sa smejú, že načo bude? Zíde sa on. Nie je to veľká radosť
+          kráčať po Eliškinom moste.
+    </tei:p>
+    <tei:p>
+     "Tramvaj, ťažké fúry, drožky, fiakre, privátne i nádherné kočiare: to
+          človeka, i navyknutého veľkomestskému hrmotu a lomozu, rozčuľu-
+          je. I peších tu ide veľa, takže magistrát pokračoval iba rozumne, že
+          takúto živú premávku — a v čas výstavy bude ešte živšia — rozdelil na
+          dva toky.
+    </tei:p>
+    <tei:p>
+     A sme na brehu holešovickom. Keby bola dráha lanová už hotová,
+          vyviezli by sme sa hore brehom na Letnú a stadiaľ by sme šli na výsta-
+          visko - ale teraz ešte nie je všetko skončené. Pôjdeme teda popri brehu
+          Vltavy tou ulicou vpravo - je to Bélského trída. Patrí už Ho]
+          obci donedávna samostatnej, dnes už k Prahe ako siedma časť patriacej.
+    </tei:p>
+    <tei:p>
+     Výstavných domov a palácov tu nenájdete. Býva tu robotnícky ľud,
+          ktorý každé ráno roztratí sa po okolitých fabrikách. Je ich tu celé mesto,
+          jedna pri druhej: že sú tu, môžete sa presvedčiť z toho dymu, ktorý valí
+          sa z vysokých komínov a, menovite ak je mračno, rozkladá sa nad ze-
+          mou a otravuje vzduch. Inak ulica je novo dláždená, i široké chodní-
+          ky mozaikové pre peších po oboch stranách. Vidiečan, privyknutý na
+          chôdzu po pažiti alebo po prachu, na takej dlažbe veľmi chytro ustane.
+          Po dennej chôdzi podošvy len tak špejú. Po oboch stranách sú fabriky,
+          kontoáre, skladiská a podobné prozaické veci. Iba vpravo máme ostrov
+          Benátky, na ktorého zelených stromoch oko s úľubou sa zastaví. Veru len
+          na stromoch - pôda zanesená je štrkom a skálím od minulej povodne.
+    </tei:p>
+    <tei:p>
+     Kráčate chodníkom a naraz nájdete ho asi na dvadsať krokov pre-
+          trhnutý. Hlboko do sporiadanej, vyriadenej ulice vybieha akési divné
+          predhorie: prieloh, na ktorom rastie konský štiav a bršlina. Majiteľ tohto.
+          krásneho sadu, pán fabrikant Reisszahn, dal zabiť do zeme kolíky a na
+          tie krížom laty, aby sa dakto predsa na to predhorie nevyškriabal a ne-
+          postúpal nádherné „Anlagen“, ktoré jeho nemeckému vkusu neslúžia ku
+          cti. Divní ľudia! Neberú účasť na výstave, nazvali ju „bubenečským jar-
+          markom, mysliac, že bez nich vyjde z nej fiasko. A keď vidia, že bez pár
+          lastovičiek bude naozaj leto, takouto malou sekatúrou chcú ukázať, že sú
+          oni Nemci a nemusia prepustiť grund pod chodník. Iste každý nepred-
+          pojatý sa zadiví, keď zazrie túto ukážku vyššej kultúry.
+    </tei:p>
+    <tei:p>
+     Tak sme šťastne pred fabrikou známeho i u nás Umratha 8 comp.
+          Pravda, náš Treskoň mnoho mu u nás pokazil. A tak má byť. Tovar v naj-
+          horšom prípade vyrovná sa do akosti a škoda veru nosiť vodu do ne-
+          meckého mora ...
+    </tei:p>
+    <tei:p>
+     Vpravo nachodíme nové, kvôli výstave zbudované hotely. Sú pek-
+          né a vkusné. Iste bude v nich živo, nie darmo nosí jeden z nich váblivé
+          meno - Tivoli.
+    </tei:p>
+    <tei:p>
+     Prejdeme popod most buštčhradskej dráhy a už sme na mieste. Naraz
+          objaví sa nám celkom nový svet. Po tej triezvej próze života nachodíme
+          tu hotovú báseň. Nevieme, kam oči prvej hodiť - všetko, čo do nich padá,
+          hodno je pozornosti, obdivu. Keď vyjdeme na víšok, hore peknou, žltou
+          cestičkou, ktorá vedie vľavo — tu máme ako na dlani celú výstavu. Akoby
+          bola opretá o tie brehy a stráne, ktoré zavierajú ani prirodzený rám tento
+          krásny, prekvapujúci obraz. Miešanina striech, veží, vežičiek, kupol v naj-
+          rozličnejších a divných štýloch. A nad tým všetkým dominuje priemyslo-
+          vý palác, ľahký, vzdušný, zo železa a skla. Vysoká jeho báň nosí na temene
+          korunu svätováclavskú. V noci elektricky osvetlená bude metať svetlo na
+          osem kilometrov dookola a drahokamy koruny sa zajagajú....
+    </tei:p>
+    <tei:p>
+     Z tejto strany výstavný priestor ohradený je latovým plotom. Ideme
+          khlavnému vchodu: musíme sa vykázať legitimáciou od výstavného vý-
+          boru, ináč nás varta neprepustí ani za peniaze. Práce je veľa a diváci by
+          zavadzali.
+    </tei:p>
+    <tei:p>
+     Už sama brána prinúti nás, aby sme popri nej len tak neprešli. Je celá
+          drevená, v národnom štýle, ani čo by ju boli naši tesári z hornej Ora-
+          vy spravili. I znalec takýchto vecí bude prekvapený vkusom, solídnos-
+          ťou a čistotou práce. Sú to sami vidiecki tesári, ktorí ju postavili. Vľavo.
+          pošta-telegraf, vpravo administrácia — oba domčeky chutné s vežami,
+          altánom, pavlačami, vystavené v českom štýle. Podobne i umelecká a re-
+          trospektívna výstava. Sú to budovy dlhé, sochami vyzdobené. I dnuka
+          by boli hotové, keby nebola vlhkosť, ktorá prekáža uschnutiu múrov.
+          Vstúpiac do umeleckej výstavy, kde budú rozvešané obrazy, skoro sme
+          spadli od ťažkého vzduchu a horúčosti. Asi dvadsať košov koksu žiari
+          a rozširuje otravný vzduch a robotníci tu pracujú, ani čo by nič. Tak sa.
+          musí sušiť.
+    </tei:p>
+    <tei:p>
+     Medzi umeleckou a retrospektívnou výstavou nachádza sa zelené,
+          prehíbené priestranstvo. Tu pilne už pracujú, sadia, kopú záhradníci pod
+          komandom p. Thomayera, mestského záhradníka. Kto pozrie na mest-
+          ské parky a hriadky s kvetmi, musí vzdať česť jeho zriedkavému umeniu.
+          A tu, keď si staneme, leží pred nami priemyslový palác, od neho nás delí
+          iba tento sad. Pod ústreším sú erby miest českých, na fronte dve veže
+          avnich výklenky, v ktorých stoja sochy kráľov Leopolda II. a Fraňa Jo-
+          zefa I., pod nimi čísla 1791 - 1891. A tam vysoko nad palácom smelá
+          kupola s korunou českou. Vedú na ňu točité schody: zospodku vyníma-
+          jú sa, ako čoby tam dáky červ visel.
+    </tei:p>
+    <tei:p>
+     Laik si pod výstavou, vôbec pod dačím veľkolepým predstavuje čosi
+          neurčitého, nekonečného. Napríklad počuli sme vychvaľovať Viedeň,
+          a menovite Ringstrasse. Čakali sme divy. A čo? Boli sme sklamaní, sku-
+          točnosť kuľhala za fantáziou. Tu je to ináč. Vidíš, čo si si nepredstavoval
+          — palác zo železných prútikov, lebo v tej výške predchádzajú tie železné
+          laty, akoby boli prúty a medzi nimi sklo farbené, tak ako sú okná na
+          domoch. Táto ozruta zaujíma dvanásttisíc štvorcových metrov. V pros-
+          triedku kupola vysoká. Práve tam medzi železnou väzbou je akýsi robot-
+          ník a mocuje sa s doskou na povraze zavesenou. Chce ju dohora vytiah-
+          nuť. Zdá sa, akoby to tam bola mačka. Tu pod kupolou budú nádherné
+          pavilóny, a síce kráľovský, ktorý práve stavajú a daktorých bohatých fi-
+          riem, ako je Skramlík, Kavalír a iní. V obe strany bežia krídla paláca. Tu
+          pod skleneným krovom budú stáť skrine s výrobkami veľkých i malých
+          remeselníkov. Kasne sú už tu, ale nie všetky. Sú podoby najrozličnejšej,
+          na nich zlatými literami mená majiteľov. Vidno veľmi málo čisto nemec-
+          kých, viacej je dvojjazyčných, väčšina dala nápisy české. Tu budú pokla-
+          dy práce českých mozoľných rúk, dosiaľ neznáme v širšom svete a ak.
+          známe, tak pod nemeckou markou. Bol zvrchovaný čas, aby spod toho.
+          tútorstva vyslobodil sa i malý remeselník, lebo to bolo tútorstvo veľmi
+          nevýhodné. Plán na túto veľkú stavbu urobil architekt Minzberger. Keď
+          si predstavíme, že takto rok tam bola lúka, že táto veľkolepá stavba ako-
+          by zo zeme vyrástla, a síce vzime, ktorá bola neobyčajne tuhá - tu i laik
+          musí sa zadiviť nad mocou ľudského rozumu a ruky.
+    </tei:p>
+    <tei:p>
+     Z paláca sú štyri východy. My vrátime sa na chodník pred ním a tu
+          vidíme pavilón mesta Prahy. Stavba drevená, ľahká, elegantná. - Zblízka
+          nás prekvapí prísne prevedenie a to umelé vypilovanie drevených or-
+          namentov. Veža vyrastá prirodzene z budovy a úplne s jej štýlom har-
+          monizuje. Proti nemu je murovaný pavilón zemského výboru, už dávno
+          hotový. Medzi ním a ľavým krídlom priemyslového paláca stojí pavilón
+          ého meštianskeho pivovaru. Má dve krídla spočívajúce na stí-
+          tu budú ľudia hľadať útulok pred horúcimi lúčmi a občerstvovať
+          sa výtečným, svetochýrnym plzenským. Čapovať ho bude p. Petzold,
+          bývalý reštauratér zemianskeho kasína: prevzal to z ochoty, keď známy
+          Chodčra náhle zomrel. Vôbec v týchto stranách v okolí paláca priemys-
+          lového bude o nápoje postarané. V okolí pavilónu Prahy sú: pavilón
+          akciového pivovaru na Smíchove, Viktorínov pavilón Mčlnického vína
+          a vúzadí Hlavova kaviareň. Všetko je už hotové. Každý z nich v inom
+          štýle, takže človek nestačí obdivovať sa tej pestrosti a rozmanitosti.
+    </tei:p>
+    <tei:p>
+     V rovnej čiare s pravým krídlom paláca padne do očú pestrý pavilón
+          pre papiernictvo. Iste každý sa uňho zastaví. Je to samo v sebe ume-
+          lecké štúdium. Domec egyptský, dovrchu sa zužuje a zas navrchu ob-
+          lúkovitým výrezom rozšíri. Strechy nemá. Všetky steny pomaľované
+          sú hieroglyfmi, figúrami, aké na egyptských obeliskoch sa nachádzali.
+          Imitácia je úplná. Domec stojí na vfšku, okolo neho je zábradlie a pod
+          ním víšok je skopaný, ale nie kolmo, lež šikmo Vyzerá to, ako keby stav-
+          ba bola na vysokom podstavci, solídne vymurovanom. Pri vchode stoja
+          dva obelisky. Tu invencia bola šťastná a ešte šťastnejšie sa previedla. Iste
+          bude mať veľa obdivovateľov.
+    </tei:p>
+    <tei:p>
+     Na tom samom krídle paláca na pár krokov od neho stojí na kop-
+          ci pavilón Klubu turistov českých. Tiež originálny. Štvorhranné bašty
+          a na nich cimburie. Robí dojem nedobytného starého zámku s baštami
+          a vežičkami. Je to stavba úplne drevená, ale kto nevidí na nej pracovať
+          tesárov, myslel by, že ani Kruppove delá by ju nepohli. Dosky sú poma-
+          ľované ako starý, šedivý múr a to tak obratne a dôkladne, že by nikto
+          tam drevo nehľadal.
+    </tei:p>
+    <tei:p>
+     Tuokolo paláca bude iste najživšie, menovite večer. Pred zadnou jeho
+          frontou bude obrovský vodomet a to elektricky osvetlený, že bude hrať
+          všetkými farbami. Tu okolo neho sú všade sady, vlastne ešte len budú.
+          TÍ, čo boli v Paríži, uvidia i tu iluminované fontány. To dielo pochádza
+          od inž. p. Križíka, ktorý tiež zaviedol na výstavisku elektrické osvetlenie.
+          Bude nádherná: dvestopäťdesiat oblúkových lámp bude svietiť vonku
+          a dvetisíc žiarových dnuka po budovách. Vidno bude také, že nielen du-
+          káty čítať, ale aj ihlu by si mohol hľadať a nájsť. Je ďalej zavedený telegraf
+          a telefón a slúžia mu stožiare, tie samé, na ktorých visia oblúkové lampy.
+          Teraz už sa pri tomto svetle i cez noc pracuje.
+    </tei:p>
+    <tei:p>
+     Výstavu krížom pretína vozová cesta. Za ňou je pavilón pri paviló-
+          ne, každý inakší a rozmanitejší. Ťažko si predstaviť tú bohatosť fantázie
+          a zručnosť, ktoré tu spoluúčinkovali. Je ich tolko, že na prvý pohľad už
+          ustaneš kritizovať a posudzovať. Nezostáva ti, len obdivovať sa. V tomto.
+          okolí sú pavilóny českých veľmožov, jeden krajší od druhého, skoro všet-
+          ky z dreva, ale každý v inom slohu. Tu bude i redakcia výstavného den-
+          níka Praha, spolu i tlačiareň a administrácia. Vychádzať bude nákladom
+          Vilímka, pod redakciou J. Hožicu. Začne vychodiť už dvanásteho mája.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     PRECHÁDZKY PO VÝSTAVISKU
+    </tei:head>
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Medzi touto miešaninou všakových pavilónov nachodí sa mocná bu-
+          dova, tiež železnej konštrukcie - strojovňa. Zaujíma plochu sedemtisíc
+          štvorcových metrov. Tiež vystavená podľa plánu architekta Minzberge-
+     <tei:pb/>
+     ra. Šíny od železnice vedú až do nej, dovážajú a stavajú sa už stroje, ktoré
+          sa budú pohybovať. Vidíš tam kotly, kolesá obrovské i menšie, hladké i
+          zubaté. Všetko je to nové, dokonale pracované. Škoda, že laik nemá ani
+          pochopu, čo a ako je to. No predsa je zaujímavé pozorovať, ako sa tie
+          obrovské stroje stavajú. Dakoľko sto centov železa dvaja robotníci pod-
+          vihnú do výšky alebo spustia na zem s najväčšou ľahkosťou a eleganciou.
+          Pravda, nie rukami, ale tzv. „jeráby“, človek by myslel, že je to všetko báj-
+          ka alebo sen, keby ťa neohlušoval ten tresk, plesk, lomoz, krik - slovom,
+          keby si nevedel naisto, že si skutočne v strojovni. Tu už je viac nemec-
+          kých nápisov: vidno, že tento priemysel ešte neprešiel do českých rúk.
+    </tei:p>
+    <tei:p>
+     Došli sme až k severozápadnému kútu výstavy. V tom kúte bude iste
+          mnoho návštevníkov: menovite hospodár neprejde, aby ho nepopre-
+          zeral. Venovaný je hospodárstvu. Stroje, hospodársky priemysel, chov
+          statku — vôbec všetky odvetvia budú zastúpené. Pod strechami, na stí-
+          poch stojacimi, sú celé hromady súsekov. Zvedavý pozorovateľ musí
+          predbežne uspokojiť sa čítaním adries. Sú skoro výlučne české, smenom
+          vystavovateľa. Iste zanedlho ukáže sa, čo taja v sebe.
+    </tei:p>
+    <tei:p>
+     V tom samom kúte je akýsi kolos z dosák, na ňom dvojjazyčný nápis:
+          česká škola vzduchoplavecká. Tu bude balón „balón captiť “. To predbež-
+          ne musí stačiť na uspokojenie zvedavosti.
+    </tei:p>
+    <tei:p>
+     Prejdeme popri krásnom pavilóne pražskej železiarskej spoločnosti,
+          popri budúcej chmeliarni - budúcej, lebo ešte nevidno nič, iba vysoké
+          tyče v radoch. Pred nami je idyla, akej by sme tu neočakávali. Je tu les-
+          níctvo a rybárstvo. Oba pavilóny sú drevené, krásne vyparádené s pavla-
+          čami a všakovakými ornamentmi. Pred lesníckym sú záhradky, vysade-
+          né už stromčekmi, rozmanitej veľkosti a všakových druhov. Tie drobné
+          ročiaky, husto popri sebe vysadené, ťažko rozoznať laikovi, čo sú. Práve
+          som sa díval na zručnú a vkusnú prácu vidieckych ženičiek a horárov
+          tu robotujúcich, keď si pri mne zastal človek v čiernom obleku. Čierny
+          oblek, čižmy po kolená, dáždnik v ruke, bárs slniečko pripeká až radosť,
+          a klobúk kedysi tvrdý, ale teraz veľmi poprelamovaný.
+    </tei:p>
+    <tei:p>
+     „Midiečan, pomyslel som si hneď, pozrúc do jeho nesmdlých, ale
+          úprimných očú. Bolo by na tom zostalo, ale milý vidiečan sa prihovoril.
+    </tei:p>
+    <tei:p>
+     „Ty nechytnou,“ a ukázal dáždnikom na odrastené dosť dobre jed-
+          ličky.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Proč ne - vždyť je budou polejvat,“ ja na to. „A tyhle chytnou?“
+    </tei:p>
+    <tei:p>
+     „Ty ano.“
+    </tei:p>
+    <tei:p>
+     Ja som použil príležitosť a popýtal ho, aby mi každý druh menoval.
+          On to urobil ochotne a s veľkou odborníckou zbehlosťou. Počul som
+          celý slovník mien, ktoré dosiaľ v žiadnom literárnom diele som nečítal.
+          Básnici, ako vieme, neradi nás poučujú v lesníctve, hoc po lesoch radi
+          sa túlavajú.
+    </tei:p>
+    <tei:p>
+     „My jste z venkova,“ hovorím mu, keď svoju odbornú prednášku do-
+          končil tak znamenite. ,Bude to dáky absolvent lesníckej školy, myslím.
+          si. Len ako sa sem na výstavisko dostal! Lebo mnoho elegantných pá-
+          nov a dám vidím tamto pri trhline plota stáť. Nemohli sa sem dostať:
+          kukajú zďaleka a závidia nám, čo smieme všade nazrieť a slobodne sa tu
+          prechádzať.
+    </tei:p>
+    <tei:p>
+     „Áno prosím, z Krivoklátu.
+    </tei:p>
+    <tei:p>
+     Ja som bol upokojený a prešiel som k rybárskemu pavilónu. Je obklo-
+          pený tromi jamami, ktorých dno ubíjajú kyjmi a strany, budúce to brehy,
+          vykladajú plášťami zelenej pažite. To sú nádejné rybníky. Na brehoch sú
+          vysadené víby, už sa zelenajú a klonia konáre nad budúcu hladinu. Tu
+          sú zase hťby všakových stromčekov - najviac ihličnatých - vyňaté sú iso
+          zemou a ich korene sú vo vreciach, aby sa zem od koreňov neodlúčila.
+          Pôjdu iste na brehy a medzi skaly, ktoré sú už malebne vmurované do:
+          briežku najmenšieho rybníčka, medzi skalami zelená sa už mach a vša-
+          kové rastliny tajnosnubné. Tu bude improvizovaný vodopád.
+    </tei:p>
+    <tei:p>
+     „Tohle bude moc krásné,“ vraví môj vidiečan z Krivoklátu.
+    </tei:p>
+    <tei:p>
+     „Libi se vám?“
+    </tei:p>
+    <tei:p>
+     „Nof“
+    </tei:p>
+    <tei:p>
+     A nielenže bude krásne, i dokonalé to bude. Sám dr. A. Frič, profesor
+          zoológie na českej univerzite, prevzal zariadenie. A Frič je v tom autorita.
+          prvotriedna. Kto sem príde, môže sa o všetkom poučiť, čo súvisí s cho-
+          vom rýb. Bude sem mnoho odborníkov chodiť, lebo v Česku rybárstvo
+          neobyčajne kvitne a donáša veľké dôchodky.
+    </tei:p>
+    <tei:p>
+     Ťažko mi bolo odísť stadiaľto, ale povinnosť volala. Prišiel som zas
+          pred priemyslový palác.
+    </tei:p>
+    <tei:p>
+     „Co je tohle?“ pýta sa ma vidiečan, ukazujúc naň. Povedal som mu.
+    </tei:p>
+    <tei:p>
+     „A kdy jste prijel do Prahy?“ pýtam sa ho.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Včera.“
+    </tei:p>
+    <tei:p>
+     „Po práci?“
+    </tei:p>
+    <tei:p>
+     „Ano, prosím.“
+    </tei:p>
+    <tei:p>
+     „A jak jste se sem dostal?“
+    </tei:p>
+    <tei:p>
+     „No tak — víte, ja taky budu mít tady nčco.“
+    </tei:p>
+    <tei:p>
+     „A co?“
+    </tei:p>
+    <tei:p>
+     „Tak ze ševcoviny.“
+    </tei:p>
+    <tei:p>
+     „Tak?“ zvolal som prekvapený. „Nu, vidíte, vy tam budete mít svoji
+          skríň,“ ukazujem mu na palác. „Máte ji hotovou?“
+    </tei:p>
+    <tei:p>
+     „Hotová je. Už je v Eliščiné tčídč. A hezká! Smáčkne se knoflík a ob-
+          ráti se — a když pustí, opčt se vrátí, jak byla.“
+    </tei:p>
+    <tei:p>
+     „Je drahá?“
+    </tei:p>
+    <tei:p>
+     „Stoosmdesát zlatých.“
+    </tei:p>
+    <tei:p>
+     Obzrel som ho, že tento človek reskíroval toľkú sumu na kasňu. „Ko-
+          lik platíte za místo?“
+    </tei:p>
+    <tei:p>
+     „Trista.“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „To je moc!“ zvolal som sústrastne. „To vás velice trhlo, pane mistie.“
+          „Když to musí bejt! V Paríži to bylo mnohem dražší...“
+    </tei:p>
+    <tei:p>
+     „Vy jste tam také mčl nčco?“
+    </tei:p>
+    <tei:p>
+     „Ovšem. Já tam byl pčt nedčl. Stálo to hromadu penčz, ale stojí to za to...“
+    </tei:p>
+    <tei:p>
+     Podal som mu ruku a predstavil sa mu. On mi odpovedal: „A já jsem
+          Reficha, švec z Krivoklátu.“ „No to je moc,“ hovorím mu. „Venkovský
+          mistr a nebojíte se mčstských.“
+    </tei:p>
+    <tei:p>
+     „To ne. Vždyť já taky umím nčco. Byl jsem ve Vídni, i v Uhrách, i v
+          Némecku..
+    </tei:p>
+    <tei:p>
+     Prihovoril som sa mu po maďarsky. Odpovedal mi maďarčinou, nad
+          ktorou Szarvas Gábor by dostal zrádnik a Kazinczy by sa v hrobe obrátil.
+          No i to mi stačilo na dôkaz, že majster Reficha ma neklame. Ostatne
+          jeho tvár je taká statočná, že nemyslím, aby sa kedy dopustil toho, čo
+          šetci ševci tak hrozne praktikujú: že povedia „práca je ,v nedčli hoto-
+          vá“, ale zabudnú doložiť, v ktorú! Ja myslím, že on nedeľu vždy spome-
+          nie bez tej fatálnej „reservatio mentalis“, to jest bez úmyslu odložiť ju na
+          dakoľko týždňov.
+    </tei:p>
+    <tei:p>
+     Bol som veľmi povďačný, že som sa zišiel s takým inteligentným re-
+          meselníkom. Odpovedal skromne, ani na chvíľu som nezabudol, že je to.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     nepokazený vidiečan. Vzácna vlastnosť u človeka, ktorý zvandroval celú
+          monarchiu a susedné Nemecko a bol na výstave v Paríži! Vypytoval som
+          sa ho, ako remeslo ide, koľko platí tovarišom a podobné.
+    </tei:p>
+    <tei:p>
+     „Špatnč to jde, pane. Výdčlek bídný. Já už prodčlal dva tisíce, tak ja-
+          koby je do té vody hodil, kdyby to jezero bylo plno. Já mčl dva tisíce,
+          vyženil jsem čtyňi tisíce, večná škoda téch pčnez do ševcoviny!“
+    </tei:p>
+    <tei:p>
+     „Máte pomocníky?“
+    </tei:p>
+    <tei:p>
+     „Mám jich devčt a čtyži učedníky. Moc penéz!“
+    </tei:p>
+    <tei:p>
+     „A dovolte: kdo vám to vede, když jste vy tady?“
+    </tei:p>
+    <tei:p>
+     „To mám prikrajovače. Nic nedčlá, než prikrajuje. Platím mu osm zla-
+          tých týdné a stravu.“
+    </tei:p>
+    <tei:p>
+     „Není to mnoho? Vždyť strava a prádlo je sedm zlatých.“
+    </tei:p>
+    <tei:p>
+     „I ne,“ zasmial sa majster. „To nesmím počítat ani tri zlaté, sic by mne
+          všichni utekli. Každý dostává podle práce. Jeden, který teprv letos do-
+          stal za vyučenou, dostává tri zlaté a chce pryč: abych mu prý na pčtku
+          pridal...“
+    </tei:p>
+    <tei:p>
+     Bolo mi ho ľúto, že utratil na remesle. Ale on sa usmieval, ako človek,
+          ktorý prišiel na dáku dobrú myšlienku a tá v ňom udržuje nádej.
+    </tei:p>
+    <tei:p>
+     „Níte, pane,“ zdôveril sa mi konečne. „Já tady otevču na Hradčanech
+          obchod. Zde to budu prodávat. Dražší, i holt, lacinejší zboží, podle gus-
+          ta.“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Ne, na Hradčany nechodte,“ odhováram ho. „To je mrtvá čtvrt. Kaž-
+          dý bčží do Prahy nakupovať. Nčkde na Novém môstč si pronajmete krá-
+          mek. Tam to spíš pújde.“
+    </tei:p>
+    <tei:p>
+     Majster neodpovedal, len sa zamyslel. Uvažoval, či by to ozaj nebolo
+          lepšie. Pretože ma jeho osoba zaujímala, vypytoval som sa na všetko.
+          Zdôveril sa úplne. A to naj i sa sťažoval, ako ho ľudia poklamali.
+    </tei:p>
+    <tei:p>
+     „Jednomu jsem päjčil dvčstepadesát a ten mne podved. Upsal všech-
+          no žene. Druhý stodvacet — a nemá nic jen výdčlek.“
+    </tei:p>
+    <tei:p>
+     „Máte úpisy?“
+    </tei:p>
+    <tei:p>
+     „To ne. Když ona byla tak hodná! Prý mojí má ráda, že je prý moc
+          hodná a počád na náslezla. A pak nás podvedla...“
+    </tei:p>
+    <tei:p>
+     Človek, ktorý videl toľký kus sveta, majster, ktorý sa nebál poslať svoj
+          tovar do Paríža - a dá sa podviesť ľuďom, čo možno nikdy ďalej spoza.
+          humna neboli! Hľa, zaujímavá hádanka.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Ale už se víc nedám!“ veral sa hrozne. „To ne!“ Ale bolo vidno, že
+          prvýloptoš ho podvedie. Prišli sme pod bránu. Ja som sa ho pýtal, ako sa.
+          mu páči. „Krásná! Když na vídeňskou pňijeli tňí králové, taky byli brány.
+          Ale žádná nebyla takováhle...“
+    </tei:p>
+    <tei:p>
+     »„Byl jste tam také?"
+    </tei:p>
+    <tei:p>
+     „Já tehdy ve Vídni pracoval...“
+    </tei:p>
+    <tei:p>
+     Uspokojil som sa tým, nechcejúc vyzvedať, čo za „tči králové“ to vte-
+          dy boli. Chodilo ich tam hať, takže to iste neboli tí, čo chodia sbetlehe-
+          mom.
+    </tei:p>
+    <tei:p>
+     Pri vchode som mu podával ruku. On ju chytil a úprimne stisol. Dla-
+          ne mal tvrdé, samý mozoľ.
+    </tei:p>
+    <tei:p>
+     „Tož pojďte s sebou!“ volá ma.
+    </tei:p>
+    <tei:p>
+     »A kam?“
+    </tei:p>
+    <tei:p>
+     „Na pivo. Tady je velice dobré - po sedmi...“
+    </tei:p>
+    <tei:p>
+     Lichotilo mi, že mňa, neznámeho, takou dôverou poctil. Pohrozil
+          som mu prstom a zasmial sa. „No dejte si pozor, pane mistfe! Jen pčed
+          chvílí jste ekl, že se víc nedáte: a už voláte cizince do hospody. Což,
+          kdybych vás požádal o peníze?“
+    </tei:p>
+    <tei:p>
+     Trochu sa ako zahanbil a riekol úprimne: „Vám bych päjčil, pane. Vy
+          jste hodný, vy by jste to neudčlal, jako ti...“
+    </tei:p>
+    <tei:p>
+     „Daj, pane bože, všetkým mojim veriteľom takúto pevnú vieru o mo-
+          jej statočnosti,“ vzdychol som si v duchu. No na jeho pozvanie som ne-
+          mohol ísť, tvrdá povinnosť volala inam.
+    </tei:p>
+    <tei:p>
+     Majster Reťicha bol sklamaný, nemilo sa ho to dotklo. Snáď myslel,
+          že opovrhujem jeho pohostinstvom. Ja som ho hľadel upokojiť. „Až po.
+          druhé, pane mistfe. Já tu budu denné. A pak, když budete u své skťíné,
+          tam v tom paláci — pak vás navštívim, jak se vám vede. No a pak muže-
+          me si zajít tčeba na nčjakou tu sklenici.“
+    </tei:p>
+    <tei:p>
+     „Tak dobrá - ale jistč!“ podvihol prst ako na výstrahu.
+    </tei:p>
+    <tei:p>
+     „Zcela jistč,“ odpovedám ja.
+    </tei:p>
+    <tei:p>
+     „Na shledanou tedy!“ a stisol mi ruku.
+    </tei:p>
+    <tei:p>
+     „Na shledanou!“
+    </tei:p>
+    <tei:p>
+     Ja som sa vrátil k Prahe a on tam niekam k hostincu. Ktovie, či nena-
+          trafil na dákeho poriadneho vtáka, čo mu banknóty preriedi. Veď sa mi
+          on pochváli kedysi.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     PRECHÁDZKY PO VÝSTAVKE V PRAHE
+    </tei:head>
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Mal by som písať o dňoch štrnástom a pätnástom máji, ktoré sú veľmi
+          pamätné a zostanú večne v rozpomienke tých, čo ich tu v Prahe zaži-
+          li. Stretli sa Turíce so sviatkom sv. Jána Nepomuckého a k tomu otvo-
+          renie výstavy. Mohol by opisovať príchod arcikniežaťa Karla Ludvika
+          s manželkou, sprievody, deputácie, okrasy a všeličo ešte. Zase sám akt
+          otvorenia a slávnosti k tomu pripojené. Príchod zvláštneho vlaku s vie-
+          denskými akademikmi slovanskými, ich porady a zábavy v dňoch svä-
+          todušných, zase veľkolepú slávnosť odovzdania zástavy študentského
+          spolku Slávii paniami a devami českými darovanej. Látky dosť pre kro-
+          nikára, každý deň od otvorenia výstavy má svoj význam i svoju zvláštnu
+          históriu. Ani jeden neminie, aby sa v ňom dačo nového a povšimnutia
+          hodného nebolo prihodilo.
+    </tei:p>
+    <tei:p>
+     Ale kým by ja to tam poopisoval, uletel by dnešok a včerajšok - me-
+          novite rozleteli by sa sliepky, kohúty, kačice a husi, ktoré sú dnes stredis-
+          kom všeobecnej pozornosti. Aspoň ťažko by bolo ignorovať tento článok
+          pražskej výstavy, keďže až k priemyslovému palácu rozlieha sa gagot,
+          krákorenie, kikiríkanie - vôbec rákoš, aký všade býva, kde je mnoho
+          hydiny.
+    </tei:p>
+    <tei:p>
+     V železných klietkach, pri sebe a nad sebou nastavaných, mechrí sa
+          všetko, čo rozumieme pod názvom hydina. Nepáči sa jej tu, vo väzení,
+          bárs chova je nie horšia ako doma, snáďlepšia: vidno na válovcoch hru-
+          bé krúpy kukuričné, alebo skôr kukuričný šrot. Vôňa nám síce neupo-
+          mína „cau de Tatra“, ale preto nič. Aspoň tu vidíte ľudí, čo neprišli na vý-
+          stavu pre kratochvíľu, ale pre poučenie. Zdravé, ohorené vidiecke tváre.
+          Niet tu pánov v širokých nohaviciach a zívajúcich pri všetkom a všade,
+          ani kritikov, ani dám so „škripcami“ a krátkymi vlasmi. Tu sme všetko:
+          ľudia, čo milujeme, ctíme si a vážime hydinu - a to menovite takú, ako.
+          je práve táto.
+    </tei:p>
+    <tei:p>
+     Kury obyčajné a zriedkavé. Čierne  jarabé, veľké i stredné, veľmi veľ-
+          ké, zas veľmi malé -liliputánky - čierne a s bielou kochlou, zas biele
+          a s čiernou kochlou, amerikánky v ohromných rozmeroch a hlbokým
+          altovým hlasom. A to všade v pároch, sliepka s kohútom tej istej sorty
+          i farby. Na daktorých klietkach sú tabuľky s nápisom „prodajné“ a tu i
+          tu, pripojená cena za jeden párik - obyčajne desať, niekde pätnásť zla-
+          tých. Kde boli najkrajšie exempláre, tam stojí na tabuľke „neprodejn:
+    </tei:p>
+    <tei:p>
+     A skutočne, ťažko by bolo taký tovar i zaceniť, lebo reprezentuje veľký
+          kapitál pre takú „drúbežárnu“. Tam sú vystavené vajcia z „drúbežárny“
+          kňažnej Idy Sch warzenbergovej, ktoré predávajú sa po pätnásť grajcia-
+          rov, takže nám príde na um naša národná povesť, kde akýsi gazda mal
+          tátoša, ktorého kémil ovsom a z toho ovsa našiel ráno - hfťbu dukátov.
+          Sú tam i rozličné sorty husí, daktoré také, že sa ponášajú viac na labute.
+          Iné zas majú pod hrdlom lalok a sú obrovské. Je tu medzi nimi i vete-
+          ránka, ktorá dožila tridsaťpäť rokov, ako to dokazuje vysvedčenie od
+          obce. Husi sú tu nápadne ticho, nevedia pochopiť, čo tu hľadajú. Ale tu
+          musíme ustúpiť nabok. Ide dlhý rad dievčat šesť-sedem ročných, v ich
+          čele pán učiteľ. Prechádzajú popri klietkach, ale dívajú sa všade, len na
+          hydinu nie.
+    </tei:p>
+    <tei:p>
+     „Tahle má tricetpčtlet,“ vraví pán učiteľ. „Zde je vysvčdčení od obce.“
+    </tei:p>
+    <tei:p>
+     Deti zhíkli ako na povel, ale vidno, že to len zo zdvorilosti k učiteľo-
+          vi. Dieťa nič neprekvapí, alebo ho prekvapí každá pletka. Tu na výstave
+          nemôže ho nič prekvapiť, lebo keď prejde jedným pavilónom, už ďalej
+          nemôže upriamiť pozornosť na žiaden predmet. Pozornosť je hneď vy-
+          čerpaná a rozprášená. Pritom také dieťa z veľkého mesta nemá zmysel
+          napríklad pre kury. Jemu je kura práve tak neobyčajný zjav ako kanárik,
+          ktorý tu vyspevuje v klietke. Medzi liliputánkami niet nič zvláštneho.
+          Sú to kurčatá, lenže celkom dospelé. Kohútik je smiešny, keď zakikiríka
+          chrapľavým diškantom a na to sa mu ozve amerikán.
+    </tei:p>
+    <tei:p>
+     Sú tu i labute, i pávy, i morky a moriaci. Nič zvláštneho na nich. U nás
+          sú také, i krajšie ešte exempláre. Kačice sú tiež všakové, malé i veľké a vo
+          farbách najrôznejších. U nás som videl tie samé sorty a týmto by v ni-
+          čom neustúpili. Vidno okrem toho i papagáje v klietkach, vyznačujú sa.
+          len nesmiernym škrekotom.
+    </tei:p>
+    <tei:p>
+     K hydine patria i holuby. Veľmi značne sú zastúpené. Tiež vidno.
+          medzi nimi obrov a zas liliputánov, pekných kochlatých, zas druhých
+          s veľkým hrvoľom. Sú i známe sorty s chvostami na spôsob vejáru.
+          Napodiv vedia ním koketovať ani dámy na bále. Sem, medzi operenú
+          háveď, dostali sa i králiky. Nič zvláštneho na nich. Jeden párik tak vy-
+          zerá ako pár divých zajacov. Sú to tie samé, čo pán Ivan Ľub i u nás
+          udomácnil.
+    </tei:p>
+    <tei:p>
+     A tu na konci, aby bola i dáka kratochvíľa, nájdeme štyri kavky. Sú
+          neobyčajne veľké. Nikdy by človek nemyslel, že kavka má v sebe toľ-
+          ko humoru. Jeden velebníček podal im kosu z kohúta, pero sa ligotalo
+          a kavky bili sa oň a naťahovali. Tu bolo najviac divákov.
+    </tei:p>
+    <tei:p>
+     A tak sme vyšli z oddelenia hydiny. Bude už tam iba jeden deň. Za
+          hydinou bude nasledovať výstava koní. V tom samom oddelení bola už
+          výstava rožného dobytka a oviec. Keď sme na ceste, môžeme vojsť i do
+          pavilónu poľovníckeho, ktorý vystavil poľovnícky spolok v Česku.
+    </tei:p>
+    <tei:p>
+     Zvonku okrášlený je rohmi a parohami, dnuka tiež parohy všade po
+          stenách, jedličina a v nej všaková divina, pravda, vypchatá. Krásne to
+          vyzerá dnu. Nás, čo sme ani zajaca nezastrelili a na poľovačku chodili
+          iba s paličkou (aby sa dáko nešťastie nepritrafilo), nás to môže zaujímať
+          len ako dekorácia. Ale tí, čo sem naznášali tieto trofeje svojich poľova-
+          čiek, hľadia i na to zo stanoviska vyššieho. Napríklad princ X. Y., gróť Z.
+          etc. etc. len s ťažkou pýchou dal vpísať svoje meno medzi parohy roháča,
+          ako spisovateľ vytlačiť pod prvý literárny produkt. Ale ilaik sa tu všeličo:
+          naučí. Tu je napríklad obora v malom, plocha neobnáša ani pol
+          vého metra. Medzi chvojinou sú malé srnky, búdky, v ktorých sa môžu
+          uchýliť pred zimou a vetrom, inde zas ako sa chovajú a soľou častujú,
+          zas aké búdky sú vystavené, kam chodieva sa na postriežku. Nájdeme tu
+          i časopisy a knihy poľovnícke, teda ani sme nevedeli, že i to už existuje.
+          "Tam zas sú vyložené veci, ktorými sa všaková divina kémi. Tu zas vo
+          fľaškách sú uložené pilulky. Nie - to sú nie pilulky, hoc itak vyzerajú. To.
+          je to, čo natratili zajace, srny a jelene po revíroch a čo poľovníci pozbie-
+          rali. Poľovník je ako prírodoskúmateľ: každej maličkosti, čo s divinou
+          súvisí, venuje pozornosť, nič mu nie je malicherným, ani protivným. Sú
+          tu i vypchané vtáky, orly, sokoly, i vypchané zvieratá v pekných skupi-
+          nách. Je to ozaj bohatstvo. I patróny, broky, gule - vôbec všetko nájdete,
+          čím len človek siaha na život slobodne, divo žijúceho zvera. A aby bol
+          obraz úplný, tu hneď pri dverách nájdete grupu starých, zahrdzavených,
+          motúzkami a špagátmi posťahovaných flínt, na daktorých vidíte, že vyšli
+          z rúk človeka, ktorý by ani klinec nevedel ukovať.
+    </tei:p>
+    <tei:p>
+     Zadíval som sa na túto podivnú zbierku, uvažujúc, ako ľudstvo po-
+          kročilo a civilizácia s ním. Táto flinta nemá, hľa, ani kohútik. Strelec mu-
+          sel zakresať práchno a priložiť na panvičku a čakať, kým flinta sa ozvala.
+          Dakedy sa ani neozvala. Vyfúklo nazad, strelcovi do očí. Takými, hľa,
+          inštrumentmi sa ľudia zabíjali kedysi: nie div, že vojna tým spôsobom
+          trvala tridsať rokov. Tak som rozmýšľal a pýcha mi naplnila srdce, že
+          som synom 19. storočia, keď vojna sa môže odohrať za dva dni. Pri mne
+          si zastal pán v širokom slamenom klobúku. Nápadne ohorený a fúzy
+          mocné. V pohyboch vidno, že je to horár.
+    </tei:p>
+    <tei:p>
+     „Jak se vám líbí ty hákovnice?“ pýta sa ma hlasom pevným.
+    </tei:p>
+    <tei:p>
+     „Interesantní,“ odpovedám.
+    </tei:p>
+    <tei:p>
+     „Víte-li pak, že ten spíš touto zabije, než tamti témihle,“ ukazuje v tú
+          stranu, kde je zbierka poľovníckeho moderného náčinia.
+    </tei:p>
+    <tei:p>
+     „Kdopak?“ pýtam sa.
+    </tei:p>
+    <tei:p>
+     „Inu pytlák, zlatý pane, pytlák!“ zvolal mocným hlasom a hodil na
+          mňa opovržlivý pohľad. „To je všechno od pytlákú. Koukejte, tady ne-
+          máte ani kohoutku! A na mou duši, kdyby tady bylo, co ti pobili - tohle
+          všechno by nebylo nic. Ovšem pytlák to prodá a nepochlubí se...“
+    </tei:p>
+    <tei:p>
+     Moje kultúrnohistorické úvahy vzali teda netušený obrat: boli to flin-
+          ty pytliakov a nie staré historické a predhistorické pamiatky.
+    </tei:p>
+    <tei:p>
+     Z tohto pavilónu pobral som sa hneď do obrazárne. Ale tam už bol
+          veľký stisk a dnuka sa vznášali oblaky prachu. Obrazy to ešte ako-tak
+          vydržia, ale pľúcam je tam ťažko. Ponechal som si ten pôžitok na iný,
+          príhodnejší čas a rozhliadol som sa radšej po veľkom zelenom priestran-
+          stve pred priemyslovým palácom. Vojenská hudba hrá, obecenstvo usta-
+          té sadá si na stoličky automatické, to jest také, čo sa dajú iba tak otvo-
+          riť, keď vhodíte do nich dva grajciare a stisnete pero. Pred palácom na
+          vysokom podstavci socha Jura Podčbrada na koni. Je robená z kovanej
+          medi, totiž na železnú kostru našrôbované sú medené vykuté pláty. Hoc
+          je podstavec vysoký, socha pred rozmermi paláca takrečeno mizne. Iste
+          v Podčbradoch, kam bude po výstave prevezená, bude omnoho impo-
+          zantnejšia. „Veritas Dei vinceť, napísano je na podstavci. Bár by bolo.
+          tak!
+    </tei:p>
+    <tei:p>
+     Na stožiaroch pre elektrické lampy sú štíty červené s bielymi nápis-
+          mi. Sú to inzeráty nakladateľa ]. Ottu. Inzeruje tam Zlatú Prahu, Spisy
+          Jaroslava Vrehlického, Jiráskove, Naučný slovník atď. Toto dodáva náter
+          naozaj český výstave.
+    </tei:p>
+    <tei:p>
+     Je päť hodín: celé masy ľudstva hrnú sa do výstavy. Pred palácom prie-
+          myslovým sa to všetko roztráca, ani nebadať, že by bolo dačo pribudlo. I
+          miestodržiteľ gróf Thun si tu vykračuje vo svojej uniforme. Ľudia pred-
+          tým znali ho iba zo Šípov (mladočeský satirický týždenník), dnes ho
+          budú znať z výstavy. Niet dňa, aby tu nebol od štvrtej do desiatej večer.
+          Má veľkú zásluhu o zdar výstavy. On sa prvý viezol na „Rutschbahne“ i
+          on prvý vstúpil do „balón captiť“. Vôbec miestodržiteľ sa drží k všeobec-
+          nej spokojnosti. Práve vyšiel z novootvoreného pavilónu, ktorý vystavil
+          Český klub turistov na spôsob starého Vyšehradu. V gotickej bráne sta-
+          roslávneho hradu a na padacom moste stojí moderná spoločnosť, páni
+          od komité vo frakoch a bielych kravatách. Vítali patrne miestodržiteľa.
+          Teraz už celkom nenútení, bavia sa s návštevníkmi, ktorých sa ta celé
+          kídle hrnú.
+    </tei:p>
+    <tei:p>
+     „Pojdme k Van Houten Cacao,“ čul som hlas vedľa seba. Dvaja praž-
+          skí svetáci popri mne. Ja za nimi. O Van Houten Cacao počuli čítal som
+          celé legendy, vlastne o kráse Holanďaniek, ktoré to kakao v šálkach pre-
+          dávajú. Zišli sme do aleje, vlastne na vozovú cestu a zazreli domec nie
+          dáko zvláštny, ale okolo neho sa rojili ľudia. A to nielen mladí svetáci,
+          ale starší plešiví a šediví i takí, čo majú podagru v údoch, zas takí, čo
+          majú rýmy v hlave a „vidno“ v kešeni, ba i dámy sa stavajú na prsty, aby
+          čo-to z tej holandskej krásy videli. Ja som nevidel nič, iba akýsi biely
+          riedky závoj a masy obecenstva za stolmi. Van Houten Cacao môže si
+          gratulovať.
+    </tei:p>
+    <tei:p>
+     Próza života zvábila mak pavilónu pána Chmela, vinohradského úde-
+          nára, ktorý za ceny „výstavní“ svoje výrobky nastoľuje. Tomu sa môže
+          privlastniť, že stoly sú prázdne. No tu hneď veda je jeho fabrika. Tam
+          je plno ľudí. I ja som ta vošiel, pozerať, čo to daste v tých cervulátoch
+          a vurštoch a virštliach sa skrýva. Často sa mi totiž pozdávalo, že v ta-
+          kej virštli nemusí byť iba mäso, neraz taká akási múčna, cestová príchuť
+          tých údenárskych výrobkov nás znepokojuje. A čo som videl? Kašu, kto-
+          rá sa medzi valcami kydala sem a tam a miesila ani tá masa, z ktorej sa.
+          v Ružomberku „papierová drevolátka“ a či „drevová papierolátka“ vy-
+          rába. To ma tak oduševnilo, že som si dal jeden „párek s kčenem“ a bol
+          dobrý. Možno sa mi to len tak zdalo, keď pri sebe som videl c. a kr. ma-
+          jora tiež práve taký párok si ujedať.
+    </tei:p>
+    <tei:p>
+     Kto sa raz oddá službe tela, už je navždy jeho otrokom. I ja. Majúc
+          párok, popadol ma smäd. Zašiel som k baráku pána Povolného, ktorý
+          čapuje „kozla“ od sv. Tomáša. Pod firmou tohto kláštora vyrobený „ko-
+          zeľ“ má veľmi dobrú povesť. Žiaľ, že tu na výstave čapuje sa z pohárov,
+          ktoré si pán Povolný iste vypožičal od Ehmanna z Vrútok. I „porty“ sú
+    </tei:p>
+    <tei:p>
+     velké, to jest peny. V takej horúčave, ako dnes, pri cene osem grajciarov
+          nebolo by divu, keby p. Povolný poháre špagátmi priviazal. Ale on nie.
+          On iba © to sa stará, aby pohár, ako je prázdny, hneď do šenku sa vrátil
+          a nestratil dajak v gágore smädného, výstavného hosťa.
+    </tei:p>
+    <tei:p>
+     Hosťov je tu mnoho. Len za chvíľu sa tu zobrali traja zjavní a štyria
+          tajní od polície. „Tajní“ traja odišli dakam, iste šľakujú za dákym dobrým
+          vtákom, ktorý sa pod egidu výstavy uchýlil. Traja zjavní a ten tajný si
+          hovoria.
+    </tei:p>
+    <tei:p>
+     „To je krása!“ hovorí zjavný.
+    </tei:p>
+    <tei:p>
+     „Jo, jo! To tak brzo neuvidíte!“ prisviedča mu tajný a ťahá z pohára.
+    </tei:p>
+    <tei:p>
+     „A vdiký!“ doložil druhý zjavný.
+    </tei:p>
+    <tei:p>
+     „Kdepak, kdepak!“ hodil rukou tretí zjavný. „To je toho až hrúza! Aby
+          človek týden chodila koukal jako pitomej. Kdepak by to mok za den!“
+    </tei:p>
+    <tei:p>
+     »„No jo - týden, to nejmíň.
+    </tei:p>
+    <tei:p>
+     A ono možno iviac ako týždeň. Ja som ich tam nechal v dôvernom
+    </tei:p>
+    <tei:p>
+     rozhovore. Asi o pol druhej hodiny vracal som sa popri závode pána Po-
+          volného a na tom samom mieste našiel som tých istých troch zjavných
+          a toho istého tajného. „Koulali“ už veselšie na svet, vlastne do prázd-
+          nych pohárov.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     PRECHÁDZKY PO VÝSTAVKE V PRAHE
+    </tei:head>
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Nateraz je starý Vyšehrad strediskom pozornosti každého, kto príde na
+          výstavu Vyšehrad, ktorý je vystavený od Klubu českých turistov. Vňom.
+          skrývajú sa veci, ktoré s cestovaním a túlaním sa po šírom svete súvisia:
+          mapy, cestopisy, časopisy turistické, a okrem toho - lebo i to patrí k veci
+          — celé pyramídy fliaš a v nich všakový trúnok: všetko veci potrebné. A
+          aby človek vedel, kde čo má kúpiť, keď by ho nadišla chuť pustiť sa šírym.
+          svetom - tam má nápisy pražských firiem, ktoré predávajú palice, kapsy,
+          jágerky, podkuté črievice a podobné utenzílie do cesty.
+    </tei:p>
+    <tei:p>
+     V tom istom pavilóne, ale vlavo a za príplatok dvadsať grajciarov,
+          vpustia vás do tmavej, čiernym súknom potiahnutej siene. Iba v jed-
+          nu stranu je svetlo a tu, v túto stranu otvára sa neobyčajný, alebo skôr
+          strašlivý výhľad. Stojí pred vami v plnej pravdivosti a hrôze obliehanie
+          Karlovho mostu od Švédov, respektíve českých exulantov. Vidíte oprav-
+          divé, skutočné kamene, kusy dreva, staré šišaky zakrvavené, mažiare,
+          híby piesku, zase zem nabratú do košov - to sú teda naozajstné barikády
+          z tejto strany Karlovho mostu, teda od mesta. Ďalej od vás ležia trupy
+          padnutých lov a študentov českých, tam zas povaluje sa téním ven-
+          čená hlava Spasiteľova, ako ju ktosi na krucifixe urazil. Nad všetkým
+          týmto akoby dominoval jezuita Plachý, ktorý nabáda študentov k boju
+          proti Švédom, a tam ďalej k Malej Strane nevidíme nič viac len dym - no.
+          tušíme, že tam vlastne deje sa, čo má sa diať. V úzadí tohto strašného,
+          pravdivého výjavu je Malá Strana a velebné Hradčany.
+    </tei:p>
+    <tei:p>
+     Idúc popred takzvané ochutnávarne pri priemyslovom paláci, začul
+          som gajdy. A naozaj, tam pri stole akísi dvaja páni popíjali víno a dali si
+          vyhrávať na gajdách od českých gajdošov. Títo dvaja sú v svojom národ-
+          nom starom kroji. Je veľmi pekný a zaujímavý. Čo som videl druhého
+          gajdoša, ten je už úplne scivilizovaný. O ich hre a hudbe bolo by zby-
+          točné hovoriť: u nás ich je tiež dosť ešte a títo sú skoro vo všetkom takí
+          ako naši.
+    </tei:p>
+    <tei:p>
+     O hudbu a zábavu nemusí tu mať nikto starosť. Kde sa obrátiš, všade
+          inakšia muzika. Pred palácom priemyslovým vojenská kapela a ani dve-
+          sto krokov od nej, vkaviarni Hlavovej, Cigán Oláh István. Jeho červené
+          nohavice a modré dolomány uvádzajú vidiečanov v omyl, že totiž náš
+          Oláh je husárom. Ináč nie z prvých bánd. Viei dakoľko slovenských, len-
+          že chybne. Podivná vec, že Piťo z Mikuláša nevybral sa sem, trávnicami
+          slovenskými bol by si iste vydobyl palmu víťazstva. Tunajšie obecenstvo:
+          nesmierne lipne za každou národnou hudbou. Pri fontáne produkuje
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     sa zase civilná kapela a vo vinárni Claryho, tiež neďaleko od fontány,
+          udomácnili sa rumunskí hudci. Menovite v nedeľu a sviatky býva i lokál
+          nabitý, i vonku obstatý dookola. Rumuni hrajú veľmi krásne a to nielen
+          svoje piesne, ale i české. Pritom jeden z nich hru sprevádza spevom. Je
+          veľmi dobrý barytón. Sú tu i tamburáši z Belehradu, koncertujú po lo-
+          káloch okolo priemyslového paláca a hrajú tiež veľmi pekne. Zdá sa, že
+          nemajú takého šikovného impresária ako Rumuni.
+    </tei:p>
+    <tei:p>
+     Kto díva sa ozaj z povýšeného stanoviska na výstavu, to je balón
+          „Giesshúbler - Kysibelka“. Lebo ako je rovnoprávnosť tu na zemi, tak
+          musí byť i nad zemou, v balóne. Ináč keby si naraz sadol doňho Čech
+          a Nemec, mohli by sa v tých výšinách dať do vlasov a všetky viedenské
+          a iné časopisy by už písali, aby Nemec nešiel na výstavu, ak mu je život
+          drahý. Beztoho na proces, ktorý má akýsi Miller, obchodný cestujúci
+          z Berlína, s tunajším študentom Čížkom pre akúsi predpolnočnú a či
+          plane, polnočnú scénu, všetky nemecké časopisy vyslali korešpondentov.
+    </tei:p>
+    <tei:p>
+     Nad hlavou Millera žiari aureola martýrska a je on iste prvý Nemec
+          po Bismarckovi. Čížek a jeho priatelia vravia, že sa Nemca nedotkli, hoc
+          im nadával do „čechische hunde“ a „pakáš“, ale našli sa dvaja svedkovia,
+          čo prisahali, že Čížek ho skutočne udrel po oku. Rozsudok ešte nevyšiel:
+          ale je pravdepodobné, že Čížek bude posúdený. Bude zase kriku dosť po.
+          novinách. Balón je veľký, na ňom pripevnený kôš, do ktorého vojdú štyri
+          osoby. „Výlet“ stojí tri zlaté. Mnoho sa takých nájde, čo odhodlajú sa do:
+          nadzemských výšin, lebo nešťastie nemôže sa stať žiadne: balón je pov-
+          razom priviazaný k zemi a len tak vysoko môže ísť, nakoľko ten povraz
+          dovolí, teda okolo dvesto metrov. I dámy sa našli, čo chceli zakúsiť slasti
+          vetroplavecké a nestalo sa im nič. Cez noc kolos naplnený plynom býva
+          v ohromnej drevenej búde. Aby neuletel, navešajú naň, vlastne na pov-
+          razy a štrangy, ktorými je odrôtovaný, vrecia naplnené pieskom. Takýto.
+          ovešaný Giesshiibler je celkom krotký, päť chlapov ho poľahky transpor-
+          tuje do „maštale“.
+    </tei:p>
+    <tei:p>
+     V úzadí, temer pri samom plote, nachádza sa „Rutschbahn - sklu-
+          zavka“. Človek zaplatí desať grajciarov a sadne do kupé, ktoré stojí na
+          šínach. Východisko je povýšené, šíny idú do doliny, zas je menší kopec
+          a za tým ešte hlbšia dolina a zas kopec, kde končí sa cesta. Vozík jed-
+          noducho posotia nadol, ten letí do doliny a na kopec, až na konci sám
+          od seba zastane, pretože je poháňajúca sila vyčerpaná. Ale pretože stojí
+          v úbočí, tu začne sa vracať, rýchlosť pohybu rastie - a vráti sa o niečo
+          nižšie, ako je pôvodné stanovisko. V nedelu a vo sviatky je tu nesmierne
+          živo. Vozík behá, ženy pištia - najviac pasažierov sú ženy — a obecenstvo
+          sa smeje. Hovorí sa, že táto vozba podobá sa veľmi plavbe na rozbúre-
+          nom mori. A skutočne bolo už vidno, že daktoré pasažierky uchýllli sa.
+          do ústrania, lebo vraj napadla ich morská choroba.
+    </tei:p>
+    <tei:p>
+     Neďaleko priemyslového paláca stojí šumný pavilón grófa Harracha.
+          Je ako vila, vystavený v národnom, českom štýle. V ňom je salaš, pravda,
+          celkom inakší, ako sú salaše u nás. Tu je model ženy, ako múti mlieko.
+          Nie tak ako u nás, celý systém pák pohybuje topárku. Tu v pavilóne na-
+          chádzame ďalej všetko, čo je zaujímavého na panstvách Harrachových.
+          Domáce výrobky, domový priemysel, plodiny, mapy, a to nielen kres-
+          lené, ale i z hliny vytvorené, knihy účtov a podobné. Ďalej nachodíme
+          oddelenie pre divinu, ktorá na panstvách bola ukoristená a všelijaké
+          spôsoby na chytanie diviny a vtáctva. To všetko je prevedené v malom,
+          ale veľmi názorne a poučne. Pri pavilóne je postavená šindliareň pána
+          grófa, kde dorába sa šindeľ a to z klátikov dreva, ktoré rozpília sa na do-
+          štičky a z tých robia sa šindle spôsobom čarodejným. Aspoň Ťarchovci
+          a Erdúdčania, ktorí sa dlho namozoľujú, kým urobia poriadny šindeľ - tí
+          by sa podivili, ako ľahko príde pán gróf k šindľu. Takej mašine je všetko
+          jedno: ohobľuje ihrču a to nahladko, i pahy prevedie cez hrču akúkoľvek
+          cifrovanú. Postál som len dakoľko minút a za ten čas bola už hba šindľa.
+          konča mašiny.
+    </tei:p>
+    <tei:p>
+     Odkladal som dosť dlho s referátom o takzvanej „fontaine lumineu-
+          Úfal som sa, že daktorý český básnik, ktorých je v Prahe mnoho a na
+          výstave tiež skoro každodenne sú všetci, že daktorý z nich sadne a na-
+          píše na ňu báseň. Tú by bol jednoducho pripojil sem namiesto suchého
+          referátu. Ťažko nemotorným, hrubým perom opísať krásu, ktorú vykúz-
+          lil čarodejník Kňižík za priemyslovým palácom. Miesto vhodné. Palác
+          priemyslový na jednej, tmavá aleja stromov na druhej strane a okolo.
+          fontány tisíce a tisíce jasajúceho národa. Vo dne by človek nemyslel, čo.
+          je to. Samé železné, všakovak pokrivené rúry po jednej alebo vo väč-
+          ších-menších skupinách. Okolo je obruba, na nej tri mušľovité nádržky,
+          z ktorých leje sa voda do jazera. Ináč nič pozoruhodného tu nevidno.
+          Ale keď príde pol desiatej večer, svetlo v okolitých lampách sa zahasí - tu
+          nastane to, čo je veľmi ťažko opísať, ba ani nemožno. Kto to nevidel, ten
+          nemôže mať o tom predstavy: sedemdesiatimi troma rúrami ženie sa
+          voda do výšky. Prúd vody, vlastne jeho výška, môže sa zväčšovať alebo
+          zmenšovať podľa lubovôle. Kedykoľvek môže sa bársktorá rúra otvoriť
+          alebo zavrieť pre vodu - každý nahliadne, že už tým daná je možnosť
+          všelijakú podobu dať vyhadzovaným masám vody. A skutočne. Raz zdá
+          sa, že sú to topole, inokedy, že je to gotická veža, tu zas akoby sa púšťali
+          rachetle — zas inokedy urobí sa akoby metla.
+    </tei:p>
+    <tei:p>
+     Teraz treba si len predstaviť, že to všetko deje sa potme. Všade je tma,
+          iba tie prúdy vody svietia. A to nie bielym svetlom, ale všetkými mož-
+          nými farbami dúhy. Tie farby miznú, naskakujú miesto nich iné. Neraz
+          sa zdá, že to nie voda, ale oheň. A ak je nebo zatiahnuté mračnami, tu je
+          obraz majestátny. Lúče elektrického svetla spod vody vychádzajú a ako.
+          obri vyčnievajú až k oblohe v podobe ohnivých stípov. Celá fontána,
+          masívna obruba z cementu i mušľovité nádržky v tom magickom svetle
+          prichodí vám ako zo skla, ktoré každú minútu inú farbu hrá.
+    </tei:p>
+    <tei:p>
+     Poviedky o starých čarodejoch ožijú vám v duši. Zabudnete, že ste na
+          výstave - myslíte, že ste prenesení v iné neznáme svety. Nebolo člove-
+          ka, aby bol mohol odolať dojmom. Chladných ľudí počul som vyvolávať
+          slová plné nadšenia. Sami Nemci a židia uznávajú, že je to „grossartig“.
+          I nemyslím, že by bol človek, ktorý neoddal by sa dojmom a zostal cel-
+          kom chladný. A obecenstvo, menovite v nedelu, tlieskalo Kľižíkovi, ale-
+          bo so zatajeným dychom hľadelo na fontánu a počúvalo svoju hymnu.
+          „Kde domov mäj“.
+    </tei:p>
+    <tei:p>
+     Pražská fontána bola vystavená podľa plánu inž. Františka Kľižíka,
+          majiteľa fabriky na elektrické stroje. Výstavný komitét platil na ňu tu-
+          ším pätnásttisíc, ostatok do päťdesiattisíc zlatých doložil Križík sám. Je
+          o jednu tretinu väčšia než tá, čo bola na svetovej výstave v Paríži. Keby
+          ju pustil plnou silou, prúd vysoko letí nad kupolu priemyslového paláca,
+          takže ho vidno hneďod hlavného vchodu.
+    </tei:p>
+    <tei:p>
+     Bol som zvedavý, čo a ako je to. Divnou hrou osudu v závode tohto
+          inžiniera Kľižíka pracuje náš krajan, pán Gustáv Križan a je tu zamest-
+          naný na výstave i okolo fontány. S ním som vošiel pod zem, vlastne pod
+          vodu, ktorá nám nad hlavou čľapotala, šumela, že vlastného slova nebo-
+          lo počuť. V tejto miestnosti pod vodou sú elektrické lampy, z ktorých
+          hádže sa svetlo pomocou reflektorov do povaly na diery, prikryté iba
+          mocným sklom. Z tamtej strany týchto oblokov sú iba spomenuté rúry,
+          z ktorých voda letí do výšky. Pri každej lampe je delník, ktorý nič iného:
+          nerobí, len premieňa farebné sklá nad elektrickou lampou. Tieto sklá
+          teda vyvolávajú tú pestrú hru farieb na fontáne.
+    </tei:p>
+    <tei:p>
+     Je tu síce veľmi mnoho lámp a s nimi spojených drôtov a pod., ale
+          nikto by neveril, že takýmito jednoduchými prostriedkami možno vy-
+          volať taký mohutný efekt. Stroje na vyrábanie elektriny na osvetlenie
+          fontány, ako i stroje na vyvolanie tlaku vody, tie sú všetky v strojovni
+          a v takzvanej kotliarni, pár sto krokov od fontány. V tom je práve tá.
+          výhoda elektriny, že sila dá sa prenášať a to do diaľok ľubovolných, a nič
+          sa znej na ceste nestratí.
+    </tei:p>
+    <tei:p>
+     Kižík je osobnosť po celom svete známa čo elektrotechnik. Výstavu
+          celú osvietil on a práca je nielen veľmi vkusná, ale i dokonalá. Cestu do:
+          výstavy, Bčlského trídou až do samého mesta, osvietila zas firma Waldek
+          8 Wagner, tiež veľmi spoľahlivá.
+    </tei:p>
+    <tei:p>
+     Po týchto znamenitých pôžitkoch, ktoré sme zaopatrili duši a našim
+          očiam a ušiam, treba sa poberať domov, lebo výstava sa zaviera o je-
+          denástej hodine. No a tu už niet čo opisovať. Cesta je veľmi namáhavá.
+          a zdíhavá - trvá asi hodinu po tvrdých mozaikových chodníkoch. Člo-
+          vek príde domov ubitý ani ten tramvajský kôň - chcel som povedať kon-
+          duktor, ktorý by vďačne celé ľudstvo bárs vzal do svojej archy, keby to.
+          kone utiahli a ľudia sa popratali.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     PRECHÁDZKY PO VÝSTAVKE V PRAHE
+    </tei:head>
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Dnešnú besednicu prichodí začať nekrológom. „Balón captiť“ nie je už
+          medzi živými. Jeho život bol krátky síce, ale pre výstavu pražskú veľmi
+          významný. Nebolo hosťa, ktorý by sa nebol aspoň obzrel, keď videl nad
+          výstavou vznášať sa ten obrovský mechúr, ktorý keby bol tabakom na-
+          plnený, bol by vystačil všetkým fajčiarom, čo navštívia výstavu. Ale ako
+          známo, dobrého nikdy nebýva dostatok. „Captiť“ zatúžil po slobode,
+          chcel sa ukázať i na vidieku a postrašiť vidiečanov, ktorí takýto zázrak.
+          dosiaľ sotva videli. A tu skutočne dal sa odviazať z povrazu, ktorý ho.
+          hatil vo voľnom lete a pútal k tejto márnej zemi.
+    </tei:p>
+    <tei:p>
+     Do koša vstúpili traja, medzi nimi nadporučík z tunajšej posádky.
+          Opatrený vrecúškami s pieskom a všakovými plášťami a pokrývkami
+          pre svojich obyvateľov — pustil sa do ho éteru. Vyletel nad zem do
+          výšky dv etisíc metrov a hľadel s opovržením na to mravenisko, po kto-
+          rom prteli sa červiaky, vlastne my ľudia obyčajní. A v pýche rozšírila.
+          sa mu hruď, ako hocktorému nadutému, ba čím viac vystupoval, tým
+          väčšmi sa nadúval. Práve ako tá žaba v Ezopovi A tak sa mu i povodilo.
+          Nadíúval sa toľme, že koža nestačila, praskla odhora nadol a z vydutého
+          mechúra zostali iba zdrapy, hodvábne síce, ale predsa len zdrapy, ktorý-
+          lo
+    </tei:p>
+    <tei:p>
+     mi si vietor pohrával. Para z neho vyfučala, boky spľasli a nezo:
+          mu nič inšie, ako zostúpiť na túto zem. Čím sa väčšmi povyšuješ, tým
+          náhlivejší je pád. Keby bol len on padal, my by sme povedali: dobre, tak.
+          mu treba. Prečo sa toľme nadúval! Ale dnuka boli i traja vzduchoplavci,
+          ktorí svoj život mechúru zverili. Tí padali tiež. A to s takou rýchlosťou,
+          ako keď dakto z veže skáče: ani vydýchnuť im nedalo.
+    </tei:p>
+    <tei:p>
+     Situácia to bola hrozná. Ľudia bežali na miesto, kde mysleli, že býva-
+          k „Kysibelka“ dopadne. Ženy kričali a ako noviny píšu, kapitán Wolf,
+          ktorý balón vystrojil na cestu, ale sám si nesadol do koša, že tento kapi-
+          tán hodil sa na zem v ohrade balónovej a plakal. Riaditeľ fabriky pána.
+          Reissenzahna všetkých robotníkov komandoval na strechy závodu. Nad
+          tou fabrikou totiž sa to všetko prihodilo. Každý bol rád, že sa tu po zemi
+          plazí a neletí v balóne, že sa nedal naviesť ctižiadosťou k takým odváž-
+          nym skutkom. Všeobecne sa myslelo, že ako osud balóna, tak i osud
+          cestovateľov je spečatený.
+    </tei:p>
+    <tei:p>
+     Ale tu sa stalo, čo by nik nebol očakával. Spľasnutý balón zachránil
+          svojich ľudí. Rozopäl sa, začal mierniť rýchlosť padania. Tú službu vy-
+          konával, ako keby dakto skočil s rozopätým, mocným dáždnikom. Kôš,
+          v ktorom ľudia sedeli, nepadal už rýchlosťou blesku, ale padal ako na-
+          príklad semä z jaseňa - špirálovite, krúžil tak trochu. A tu cestovatelia.
+          sa tiež trochu spamätali a začali vyhadzovať miešky s pieskom, vôbec
+     <tei:pb/>
+     balast, len aby ťarcha bola menšia. Tomu treba ďakovať, že sa cestova-
+          telia nezabili hneď, následkom pádu. Ale to by ešte nebolo nič. Vyhli
+          jednej smrti a hrozila im druhá, ešte horšia. Balón totiž dopadol na ko-
+          mín zlievarne Reissenzahnovej. Cestovatelia videli pod sebou roztopenú
+          lávu železa. Od horúčavy chytil sa kôš, v ktorom sedeli, a tiež i povrazy
+          a látka balóna. Ale na šťastie sa vyslobodili. Prerezali povrazy, vystúpili
+          všetci na dach fabriky a nikomu nestalo sa nič, okrem toho strachu, čo
+          prežili.
+    </tei:p>
+    <tei:p>
+     To je koniec „balónu captiť“. Smutný. Najhoršie pochodil majiteľ,
+          akýsi Hoffmann, toho balón stál okolo dvanásttisíc zlatých. Kapitán
+          Wolf tiež musí ísť pred súd. Odborníci tvrdia, že balón bol priveľmi
+          naplnený plynom. Že už na zemi bol skoro celkom nadutý. Plyn ešte
+          väčšmi tlačil na steny, keď balón vystúpili dohora nad dvetisíc metrov,
+          kde vzduch je omnoho redší ako tu na zemi. Len tak sa dá vysvetliť, že
+          balón sa rozpľaštil. Kapitán zas tvrdí, že iste cestovateľ ktorýsi prisadol
+          rúru, ktorou sa pomocou ventilu vypúšťa zbytočný plyn a tak že sa ne-
+          šťastie stalo. Sami účastníci „výletu“ a „zletu“ mlčia, aspoň nevedieť,
+          čo povedajú. Dali sa odfotografovať a ich podobizne budú iste putovať
+          svetom. „Interessantes Blatt“ ich iste donesie, alebo tú scénu, ako balón
+          praští, lebo ten má všade špeciálnych spravodajcov. Tým bezpochyby
+          skončí sa vzduchoplavectvo, bárs pohotove je druhý, menší balón „Pra-
+          ha“. No ťažko sa dá myslieť, aby ešte dakto dostal vôľu vyletieť hore
+          aletieť dolu.
+    </tei:p>
+    <tei:p>
+     Pohoda je teraz naozaj biedna. Prší a zima je, človek by i kožuch unie-
+          sol. Menovite večer zle sa sedí pod holým nebom, keď poťahuje vetrík,
+          akoby ťa rezal do tváre. A ktomu dážď ani jedného dňa skoro nevystane.
+          Ľudstvo pokrýva sa po pavilónoch a reštauráciách, tých, ktoré sú zavre-
+          té. Najhoršie je vidiečanom, ktorí musia sa v pľušti po výstave potulovať,
+          ak nechcú, aby v Ríme boli a nevideli pápeža. Ešte najlepšie cíti sa každý
+          v strojovni. Tam pracujú parné stroje a šíria okolo seba teplotu. Pravda,
+          okrem teploty je i zápach oleja, ktorým sa stroje mastia a ktorý tak mno-
+          híľudia nemôžu vystáť. Pritom je dobre posedieť si vo vagónoch baróna.
+          Ringhoffera. Sú to vlastne malé salóny s fotelmi a stolíkmi. Istotne ces-
+          tovatelia zasadnú si za stolík a z dlhej chvíle zahrajú sa nie v duráka, ale
+          dačo lepšieho. Ej, dobre sa to cestuje v takých salónoch!
+    </tei:p>
+    <tei:p>
+     Tu i tam na verejných miestach nájdete na výstavisku ohromné kach-
+          le. Výstavné komité prezradilo veľký takt, že predvídajúc terajšiu zimu,
+          zariadilo ohrievarne. Bohužiaľ, nie je to tak! To sú nie kachle, ako sme
+          mysleli, ale plechové rúry a či búdy, na ktoré sa budú lepiť plagáty. A veru
+          zišli by sa kachle. I ten Číňan pri Vrbíkovom pavilóne cukrárskom mrz-
+          ne v svojom ľahkom, národnom kroji, pomaľovanom čínskymi hakmi-
+          -bakmi. Mrzne, hoc zvyknutý je na horšiu zimu: zlé jazyky totiž hovoria,
+          že nie je synom nebeskej ríše, ale kvietkom pražským. Uznať sa musí,
+          že sedí ani fetiš, nepohne celý deň ani brvou: nezasmeje sa na žiadnom
+          vtipe, ktoré naň sype spoločnosť, okolo pavilónu sa hromadiaca.
+    </tei:p>
+    <tei:p>
+     V tieto studené dni bola i výstava kvetov v záhradníckom pavilóne.
+          Našli sa kvety umelé a tiež prirodzené. Tie umelé boli krajšie, prirodze-
+          né akosi ovädli. Do tejto kolekcie dostali sa karfioly a uhorky. Karfioly
+          boli utešené a mali okolo seba mnoho obdivovateľov. Boli tiež kaleráby
+          a mrkvy vystavené, tiež už tohoročné. Okolo záhradníckeho pavilónu je
+          pole vysadené samými ružami. Kazanlyk v Prahe! Koho zaujíma, môže
+          študovať mená ruží od výmyslu sveta. Ruže práve teraz začínajú kvitnúť.
+          Celé priestranstvo ruží ohradené je plotom, urobeným z nižiakov. To
+          nám veľmi živo pripomína záhradu Lilgovu na Osikove.
+    </tei:p>
+    <tei:p>
+     Ako každá zlá vec, i toto novembrové počasie má svoje dobré strán-
+          ky. Podrobilo výstavu akoby generálnej skúške a výstava skvele prešla.
+          V dni, keď neprestajne sa lialo a dul vietor, život na výstave celkom ne-
+          uhasol. Priemerná návšteva neklesla pod päťtisíc osôb platiacich den-
+          ne. Komité teda rátalo veľmi pesimisticky, keď prorokovalo priemernú
+          návštevu denne pättisíc. Bude omnoho väčšia. Letné a jesenné mesiace
+          to ukážu. Už nebude trvať dlho a číslo platiacich návštevníkov dostúpi
+          na pol milióna. Kto bude ten šťastný, ktorý toto číslo zavfši? To sa nevie.
+          Len to sa vie, že dostane dar, akýsi šperk a okrem toho pripravia mu ová-
+          cie. Jeho podobizeň príde iste do časopisu Praha, ktorý list teraz veľmi
+          šikovne sa drží a veľkej obľube sa teší. Koncom tohto mesiaca bude nával
+          do výstavy neobyčajný. Na dvadsiateho ôsmeho a dvadsiateho deviateho.
+          čaká sa tridsaťštyri zvláštnych vlakov do Prahy. Vtedy budú závody so-
+          kolské. V nedeľu, dvadsiateho t. m. príde zvláštny vlak z Haliče. To bude
+          prvý. Za ním sa ešte viac vlakov strojí z Poľska. Nedostatok v hostincoch,
+          menovite vnedeľu je veľký. Človek nedostane miestečka. Stavajú sa nové
+          reštaurácie, ktoré zanedlho budú otvorené.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Hospodára bude veľmi zaujímať hospodársky pavilón. Je veľký. Pri
+          vchode nájdeme proti sebe dva pluhy, nad nimi nápis 1791 - 1891. Ten
+          prvý rozheganý, drevený, aký sa pred sto rokmi užíval. Druhý je naj-
+          novšej konštrukcie, železný. Človek hneď musí tu zastať a divné myš-
+          lienky letia hlavou. Aký pokrok za týchto sto rokov! Ľudské plemä ako-
+          by týmto storočím bolo odhodilo hračky a vstúpilo do veku mužského.
+          Práca, pokrok vo všetkých odvetviach a to všetko akoby smerovalo
+          ktomu, len čím väčšmi vycicať matku-zem a podrobiť prírodu a jej ne-
+          viazanú surovú silu k pohodliu a blahobytu človeka. A menovite Slovák
+          musí sa zamyslieť nad starým pluhom. Veď koľko u nás dedín, kde do-
+          siaľ taký pluh je v úžitku. Vidno, že sto rokov spal náš sedliak a bohvie,
+          dokedy bude ešte spať!
+    </tei:p>
+    <tei:p>
+     V tom pavilóne nájdeme plodiny z celého Česka i hospodárske vý-
+          robky. Žito, jačmeň, pšenica, ovos, mak, hrach, šošovica, atď. atď., z kaž-
+          dého kraja sú tam vystavené. Poznamenaná je hneď i váha z hektolitra.
+          Čísla suché, ale veľmi poučné. Nachádzame tu i včelárstvo, ba i starý
+          pozostatok praveku slavianskeho - medovinu. Pravda, vo fľaškách, vi-
+          netami opatrených. Je tu krásne zastúpené hodvábnictvo, a síce nielen
+          výroba surového hodvábu, ale i krásne, niektoré veľmi chutné práce
+          z neho. A čo je teraz najví rarita, to je ovocina. Hrušky a jablká také
+          svieže, že by si človek hneď zahryzol, keby na košíku nestálo: „Nedotý-
+          kati se!“
+    </tei:p>
+    <tei:p>
+     Pod kôlňami pri tomto pavilóne nájdeme hospodárske stroje. Od plu-
+          hu ažpo mláťačku - všetko, čo gazda potrebuje. Náš človek by sotva vedel
+          uhádnuť, čo je ktorý stroj. U nás ich je dosť málo. Bože, načo sú mašiny,
+          keď nás je beztak toľko, že nemáme sami čo robiť a ešte musíme ísť až
+          hen za oceán za robotou! Okrem toho sú tu i debnárske výrobky. Robota.
+          veľmi dôkladná a vkusná. Okrem putní, kanví atď. sú tu vystavené súdoč-
+          ky, súdky, sudy a sudiská. Najväčší z nich má obsah tisíc sto vedier, teda
+          okolo šesťsto hektolitrov. Je kúpený za štyritisíc i kolkosi zlatých. Pod tý-
+          mito kôlňami nachádzame hodne nemeckých firiem, ale treba uznať, že
+          mnoho je už českých. Hospodárske stroje dnes-zajtra budú vychádzať od
+    </tei:p>
+    <tei:p>
+     ských "iriem, pod českou markou. Ono itie nemecké firmy nemohli by
+          satu pýšiť svojimi výrobkami, keby nie tvrdé mozole českého remeselní-
+          ka a robotníka, ktorý musí slúžiť cudziemu kapitálu.
+    </tei:p>
+    <tei:p>
+     Napriek zime ľudia zostávajú väčšinou do pustenia fontány. Človek to
+          milerád obdivuje viac ráz, nikdy sa nezasýti. A čo jeden večer, to nový
+          pokrok. Fontána vždy krajšie ide a vyvoláva vždy nové a nové efekty.
+          Môže sa stať, že nakoniec prevýši samú seba a potom nevieme, čo bude.
+          S Kťížikom sa pustilo za pasy nielen divadlo, ktoré láka do svojho domu
+          večerné publikom, čo sa mu v tejto zime dosť dobre darí, ale i pražská
+          obecná plynáreň. Jej pavilón stojí medzi hlavným vchodom a pavilónom
+          mesta Prahy. Na mrkaní strecha pavilónu je posiata plamienkami ply-
+          novými. Ich červené svetlo krásne kontrastuje s bledofialovými oblú-
+          kovými lampami elektrickými. Ale i iné dodáva zaujímavosť plynové-
+          mu svetlu. Nie je také mftve, nehybné ako elektrické, ale podskakuje,
+          natriasa sa, uhýba zboka nabok, akoby chcelo koketovať. Žiaden, kto
+          ide z výstavy od fontány, nepremešká obdivovať toto nádherné, skvelé
+          divadlo.
+    </tei:p>
+    <tei:p>
+     Po fontáne všetko sa hrnie k východom. Len tu i tu v ochutnávar-
+          ni sedí oneskorený hosť a zalieča sa predavačke. Vidno, ani jeho reči
+          nemôžu ju rozohriať. Zakrútila sa do kepeňa alebo aspoň si prehodila
+          cez plecia ťažký golier plyšový. Nuž zima je. Čo vytrvalejší zastavia
+          sa v daktorej vinárni, ktorých je tu hodne a berú na noc „šlaftrunk“.
+          Ostatné všetko hrnie sa k tramvaji, ktorá vzdychá pod tou ťažkou fú-
+          rou, iníkričia „fiaker,“ „drožka“. A najviac ich ide železnicou na štátne
+          nádražie. Okolo pol jedenástej večer ide posledný vlak z výstaviska do:
+          Prahy, platí sa iba desať grajciarov. Na týchto cestách odohrávajú sa
+          komické scény. Konduktor povie: „Tak jedem!“ Ktosi na nádraží chce
+          zacengať na zvone, ale „nejde to“ Rušeň zapíska. Vtom zvolá ktosi
+          z vagóna:
+    </tei:p>
+    <tei:p>
+     „Tan le je mäj strejček!“
+    </tei:p>
+    <tei:p>
+     A skutočne ktosi sa kníše od výstaviska k vlaku.
+    </tei:p>
+    <tei:p>
+     „Tak “dou starej pane!“ volá naň konduktor. „Nemúžený tady čekat!“
+    </tei:p>
+    <tei:p>
+     Starý pán sa vrediká horko-ťažko do kupé, pričom ho konduktor ple-
+          com nadvihuje do dverí.
+    </tei:p>
+    <tei:p>
+     „Tam jedeme, pane obrfirer!“ volá k mašine. „Počkajte!“ kričí ktosi
+          a krúti dáždnikom nad hlavou.
+    </tei:p>
+    <tei:p>
+     „Tak dou - nemäžem tady čekat! Tak honem!“
+    </tei:p>
+    <tei:p>
+     Či je to nie humánny konduktor?
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

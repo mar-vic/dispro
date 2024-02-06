@@ -1,0 +1,1305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885791" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Dva obedy : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Beblavý, Pavol (1847-1910)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     6348
+    </measure>
+    <tei:measure unit="pages">
+     15
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:19713382">
+      &gt;Beblavý, Pavol (1847-1910)
+     </tei:author>
+     <tei:title ref="ISSN:1335-7786">
+      Dva obedy
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské pohľady
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Dva obedy
+    </tei:head>
+    <tei:head>
+     Rozpomienky. Píše Anonymus.
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I
+    </tei:head>
+    <tei:p>
+     Bola svadba. Pán Rék na Višňovom vydával svoju dcéru Ľubicu.
+Ľubica bola mladá, krásna a k tomu Slovenka dušou telom. Ale
+ani mladoženích, Janko Vranay, nemal hany. Čo mu niektorí vy-
+týkali, medzi poslednejšími i jeho pán tesť, bolo to „y“ na konči
+mena, bo že jeho otec sa podpisoval bez neho, totiž Vrana. No to
+je maličkosť a za našich časov nič nového. A
+    </tei:p>
+    <tei:p>
+     Na Višňovom bolo teda veselo a v dome pána Réka nadvrch.
+Jedlo, pilo, ihralo sa, rozprávalo. Svadobný otec, pán Rék, už šedi-
+nami pokrytý, blízo osemdesiatročný starec, sám si zatančil ani
+čoby štyridsiatnikom bol býval. Všetko mu ustúpilo na bok, keď
+si vyviedol do kola prvú družicu Vieronku Kalných. Oči celej sva-
+dlobnej družiny boly len na nich obrátené. Všetko, celá svadobná.
+spoločnosť jim tlieskala a oči hľadiacich len sa tak radosťou jagaly,
+nevynímajúc ani samej družičky, ktorá bola hrdá na vyznačenie
+starého pána.
+    </tei:p>
+    <tei:p>
+     " Tanec ukončil sa. Dvoranou znelo slávnostné „vivat“ na po-
+česť párku. Starší, mladší len jich tak blahoželaniami zasypávali.
+Žiarlen nechcel vystať, každý chcel, aby jeho slovo počuté a pri-
+juté bolo.
+    </tei:p>
+    <tei:p>
+     Dcéra Ľubica, syn Janko a zať padli mu kolo hrdla a vy-
+bozkávali si otca, ani čoby sami boli bývali. Ostatní ktorí ruky
+mu podávali, ktorí po pleci tlapkali, a ktorí nemohli sa k nemu
+dostať, aspoň v povetrí rukami kývali.
+    </tei:p>
+    <tei:p>
+     „Ľúbi sa vám to?“ volá silným hlasom pán Rék, len aby sa
+z toho klbka nejako vytočil.
+    </tei:p>
+    <tei:p>
+     „Vivat! nech žije! sláva mu! pravdaže sa nám lúbi!“ znelo to
+70 všetkých strán.
+    </tei:p>
+    <tei:p>
+     „No, keď sa vám ľúbi, pokračujte ďalej,“ rečie pán Rék.
+    </tei:p>
+    <tei:p>
+     Hudba zavznela. Vieronka Kalných s mladým Rékom pokračo-
+vali v tanci a ostatní mladší, starší jich nasledovali.
+    </tei:p>
+    <tei:p>
+     Priatelia starého pána usadli k stolom. Pripíjalo sa, štrngalo
+až milá vec a pritom spomínali sa i staré, zašlé časy. Ku nim, po
+ukončenom tanci, pripojili sa i niektorí z mladších a poslúchali
+starých pánov, A
+    </tei:p>
+    <tei:p>
+     Pán Rék vykrútil si svoje husté, šedivé fúzy, pohladil peknú
+bradu, pozrel dookola po svojich priateľoch “a z očú mu len tak
+oheň sršal, keď vravel:
+    </tei:p>
+    <tei:p>
+     „Hej, bratia moji, tie staré časy, tie sú už tam. Nikdá to už
+u nás tak nebude, jako to bývalo kedysi, jako mi to môj otec roz-
+vprával a jako som to ešte i sám zapamätal. Žili sme my tu kedysi
+lepš ot. Nebolo vtedy toľko podlých osočovateľov. Vtedy sme
+tu boli ešte všetci. Slováci jako repa, vlasteneetvo sa vtedy nepre-
+    </tei:p>
+    <tei:p>
+     dávalo na fanty jako dnes. Nikomu nenapadlo nás napádať alebo
+len upodozrievať z panslavismu. O panslavisme nebolo chyrovať,
+lebo židáci a lační vlastenci nepísali novín. My zemani boli sme
+vtedy ešte pánmi a židáci žobráci. My vozili sme sa na kočoch vo
+štvorkách a oni chodili s pinklami a kožkami peší. Huj! — vy-
+kríkol pán Rék, až to všetkými trhlo — striasol by sa bol vtedy
+uhorský zeman, zkypela by v ňom zemanská krev viacej ešte jako
+hnevom, keby mu bol povedal niekto, aby si židovku vzal za ženu.
+Len myšlienka by ho bola už hrôzou naplnila. A. hľa, jako sa časy
+zmenily. Starí zemani vymreli. Krev zemanských starých rodín
+v jejich potomkoch ani čoby sa bola pokazila, zvodnatela, zdege-
+nerovala. Nemajú hrdosti, sebapovedomia , zdajú sa byť bez zápalu,
+útlocitu a. oduševnenia za vysoké a vznesené ciele, za ctposť a, šľa-
+chetnosť. Hej, keby dnes pán Ordódy bol medzi nami! Ten vám
+vedel veselým byť, snáď i viacej niekedy jako treba , česť jeho však
+netrpela pritom. Vedel on seba i svojich obrániť. Držal si i dom
+i celé panstvo v poriadku a slovo jeho malo platnosť i voči krajine
+na rákoši, nielen tu doma v stolici. Dnes u nás kadejaký holo-
+brádok, zo Škôl vyšibaný darmošlap chce hneď byť tu slúžny, tu
+vicišpán, kadejaký vetroplach, čoby sa mal ešte učiť, chce byť už
+vyslancom na snem, zákonodarcom. Sám nezná dobre, čo je to
+zákon, a už chce krajine zákony predpisovať. Kurča, má na chrbte
+škrupinu a už chce sliepku učiť, Jajtelesi, Pinkelesi, Pajzesi, Gze-
+resi figurujú dnes so starodávnymi slávnymi zemanskými rodinnými
+menami: Eszterházy, Nádaždy, Révaj, Očkaj, Ordódy — a to všetko
+možno dnes u nás docieliť za mizerných 50 krajciarov!“
+    </tei:p>
+    <tei:p>
+     „Výborne! pravdu má!“ prisviedčali starší páni, z mladších
+však mnohí sa uškfňali a tu i tu pošuškávali, Jakoby si neboli
+trúfali nahlas svoje mienky vypovedať. Bolo jim to však z tváre
+čítať, že sú druhých náhľadov.
+    </tei:p>
+    <tei:p>
+     „Hej, keby dnes starý pán Ordódy vstal a povedali mu, kto
+jeho meno opováži sa nosiť, ten by sa mu podíval do očú!“
+    </tei:p>
+    <tei:p>
+     „Nič by mu dnes už neurobil,“ zamrmlal si popod nos mladý
+Ferencfi, ale bystrému uchu starcovmu predsa to neušlo. I nezostal
+mu dlžen odpoveď.
+    </tei:p>
+    <tei:p>
+     „To by ste potom videli. Naši predkovia boli ináč naučení
+i šablou zvítať i puškou zaobchodiť jako terajší mladí páni, ktorí
+v súboji na päť krokov neznajú protivníka nájsť, nejakú ale fiflenu
+židovskú tú vidia na tisíc krokov. Ste vy mi za hrdinovia, Ryfkám
+ruky oblizovať!“
+    </tei:p>
+    <tei:p>
+     Nastal smiech. Mladý Ferencfi chystal sa k odporu i so sebou
+rovnako smýšľajúcimi. Snáď by boli starého pána na súboj vyzvali,
+ale si predsa netrúfali, bo museli uznať, že v mnohom mal pravdu.
+Ale nemohli úplne zamlčať mu všetko, obzvlášte mladý Ferencfi,
+ktorého sa to nadyrch týkalo, rozpálený a popúdený velikánskym
+smiechom vyvolá :
+    </tei:p>
+    <tei:p>
+     „Veru ani o tom, vami oslavovanom Ordódym z tých starých
+časov nehovoria sa tie najpeknejšie kúsky.“
+    </tei:p>
+    <tei:p>
+     #
+    </tei:p>
+    <tei:p>
+     421
+    </tei:p>
+    <tei:p>
+     „Kto vie o ňom čo zlého, nech povie,“ hovoril starý pán. „Čo
+som ale povedal, je pravda.“
+    </tei:p>
+    <tei:p>
+     „Pravda je, pravda!“ prisviedčali mu zo všetkých strán. Ve-
+selie a zábava šla ďalej, jakoby sa ani nič nebolo prihodilo.
+    </tei:p>
+    <tei:p>
+     Pripíjalo a hovorilo sa jako predtým. Spomínali staré, zašlé
+časy. Nebolo zapomenuto ani na pána Ordódyho.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     „No hovorte si vy čo chcete,“ povie pán Šumichrast, priateľ
+starého Réka, „náš domašin má pravdu. Terajšie časy sa nedajú
+so starými srovnať. Starý, dôverný spoločenský život odumiera.
+Nový, to je nenašský, nudný, silou mocou k nám všantročený,
+cudzý. O starom pánu Ordódym hovorí sa mnoho. On sa rád za-
+bavil, tu i tu hrubý žart urobil, ale znal i prijať žart. Zeby bol
+lakomým býval, to nestojí. Čo pán Ferenefi hovoril o tabaterke,
+ktorú že si z lakomstva priosvojil, nie je pravda. Vec sa má ináčej.“
+    </tei:p>
+    <tei:p>
+     „Čujme!“ vyzývala spoločnosť pána Šumichrasta, aby jej do-
+povedal, čo Ferencfi zamlčal. S
+    </tei:p>
+    <tei:p>
+     Na kňazskej kongregácii, už či to bolo v Ružobrehu a či v Te-
+pličke, na tom nezáleží,“ hovoril pan Šumichrast, „k veci patrí Jen
+to, že zlatú tabaterku, ktorou poctila grófka Pongrácka farára
+strečňanského, obdivovali všetci. Šla z ruky do ruky. Prišla i k ru-
+kám pána Ordódyho. Tento ju otvoril a ponúkal každému po šňupci.
+Keď už všetkých obišiel, zlatú tabaterku dal si do vrecka a s ňou
+šťastlivo i odišiel preč,
+    </tei:p>
+    <tei:p>
+     O pár dní vezie sa kamsi a náhodou stretol sa s farárom
+stvečňanským, idúcim do Trenčína. Ordódy šiel na Strečno. Pred
+farou kázal zastať. Zišiel z koča a rovno do fary.
+    </tei:p>
+    <tei:p>
+     Domácnosť farárovu obstarávala tohto sestra Klementína. Ho-
+vorilo sa 0 nej, že je dobrá gazdina, ale prižerlavá. A beda tomu,
+na koho sa jedenkráť pohnevala. Urputnosť jej nemala hraníc,
+miešajúc sa i do takých vecí, po ktorých ju nič nebolo: častokráť
+i svojmu bratovi spôsobila dosť nepríjemností. Malo sa za to, že
+mu nad hlavou vyrástla, tak že pri nejednom urobil sa hluchým,
+i že nevidí, len aby sa s ňou dohadovať nemusel, lebo ona musela
+mať vždycky posledné slovo a rozumie sa, že častokráť i nepravdu
+pravdou.
+    </tei:p>
+    <tei:p>
+     1 pán Ordódy bol jej tťňom v oku. Prečo? to sa nevie. Dosť
+na tom, že ač ho jej brat rád videl, ona ho nemohla priam velice
+vystáť.
+    </tei:p>
+    <tei:p>
+     Sotva teda vnišiel pán Ordódy do chyže, už mu volala v ústrety :
+    </tei:p>
+    <tei:p>
+     „Pána farára niet doma.“
+    </tei:p>
+    <tei:p>
+     „ Viem, panička,“ rečie tento, „požiadal ma však o to, aby
+som sa zastavil u vás a povedal vám tú radostnú novinu, že pá-
+novi Strečna narodil sa potomok. Krštenie má byť zajtrajšieho
+dňa. Pani grófka Pongrácka bude krstnou matkou, a poneváč prijde
+viacej znamenitých pánov, ktorých pán farár ku sebe pozval k obedu,
+    </tei:p>
+    <tei:p>
+     odkazuje vám, aby ste sa zajtra čo najlepšie zachystala a načas
+s obedom hotová bola.“
+    </tei:p>
+    <tei:p>
+     Panička Klementína, ač nič nehovorila, však predsa to bolo
+ratrné na jej tvári, že slovám Ordódyho nedôveruje. Ordódymu to
+neušlo, i siahol teda do vrecka, jakoby niečo hľadal. V tom brinklo
+niečo na zem. Tak sa však zdalo, že si toho ani jeden nepovšimnul.
+    </tei:p>
+    <tei:p>
+     „Aby .ste mne však uverila,“ hovorí pán Ordódy, „a v určitý
+čas všetko pohotove mala, posiela vám pán farár svoju tabaterku
+čo znamenie,“ a tu podal jej zlatú tabaterku, uklonil sa a odišiel,
+    </tei:p>
+    <tei:p>
+     Panička Klementína držiac tabaterku v ruke zamyslela sa.
+V tom slniečko óprelo do okien fary, osvietiac jasnejšie chyžu.
+Panička sa uľaknula, veď sa jej tak zazdalo, jakoby sa posteľ
+v chyži ohňom chytala. I pokročí napred. Žiara zmizla. Pri posteli
+ležal veľký brillantový prsteň. Zodvihla ho teda, schovala a vyšla
+7 chyže.
+    </tei:p>
+    <tei:p>
+     Prsteň bol pána Ordódyho, pri vyťahovaní tabaterky zviezol
+sa mu buďto z prsta alebo vypadol z vrecka. Odblesk papršlekov
+slnečných, odrážajúcich sa od drahokamov, poľakal Klementínu.
+No uspokojila sa. Starosť o pripravenie zajtrajšieho obedu zapúdila
+úplne zľaknutie. Vyjdúc z chyže stúpala panička Klementína naj-
+    </tei:p>
+    <tei:p>
+     “prv do kuchyne. Tu chvíľu sa pobaviac jakoby rozmýšlala a plány
+    </tei:p>
+    <tei:p>
+     robila. Otvorila komoru a nahliadnuc dnu, vrátila sa do pitvora a
+z pitvora na dvor.
+    </tei:p>
+    <tei:p>
+     Na dvore celý kfdel kurčat, husy, morky, kačice, jedno cez
+druhé hrnulo sa ku nej. Chúďatá, keby boli vedeli, čo mnohé
+z nich očakáva, radšej by boli v protivnú stranu bežali.
+    </tei:p>
+    <tei:p>
+     Netrvalo to dlho a čosi kamsi celé hfby jich porezaných le-
+žalo. Chúďatá, sama panička Klementína jich ľutovala a nechcela,
+sa ani dívať na slúžky, ktorým to išlo jako „po šnôre. Nastalo či-
+stenie a schystávanie až do pozdnej noci. Panička Klementína,
+jakokoľvek jej bolo niektorých kuričiek a kohútikov Túto, predsa,
+aby hostina skvelo vypadnula, oľutovala i svojich miláčkov, a s celou
+svojou zručnosťou dala sa včasne ráno druhého dňa do práce, aby
+mohla na čas byť hotovou. V.
+    </tei:p>
+    <tei:p>
+     Môžte si sami predstaviť, čo tu bolo behania, rozkazovania,
+usporadovania. V kuchyni sa pieklo, varilo, smažilo: tu škvrčalo,
+tam kypelo, len prihárať nikde nesmelo. Ej, to by bol krik býval!
+    </tei:p>
+    <tei:p>
+     Vo svetniciach, tam sa už stoly spolu skladaly, prikrývaly,
+urovnávaly. Klementína bola jako na obrtlíku. A jakoby nie? Veď
+poludnie už odzvonili a hostia mohli každým okamžením doraziť.
+    </tei:p>
+    <tei:p>
+     »No, chvála Bohu!“ povzdychla si panička Klementína, keď
+už aj stoly mala prikryté, kvetami okrášlené a tak vydarenými
+koláčmi: bambušky, božiemilosti, rukávničky, makovníčky a čo ja
+viem, jakovými všetko pečivami ustrojené, ba i víno prihotovené.
+„Ej, budeže ten môj brat rád, keď to všetko uvidí,“ a jej uhorú-
+čená červená tvár len jej tak radosťou jasala. Pozrela ešte po
+všetkom. Bola spokojná. Usmiala sa a rožkom bieluškej zásterky
+prejdúc si po tvári, chcela výnsť zase do kuchyne. V tom zarachotil
+    </tei:p>
+    <tei:p>
+     koč na dvore, Klementína uradostnená beží k oknu. Bol to koč
+bratov.
+    </tei:p>
+    <tei:p>
+     „No už prijdú,“ pomyslela alebo i hovorila, a tam ta, jako
+srika. zmizla v kuchyňských dverách.
+    </tei:p>
+    <tei:p>
+     " Pán farár Oriešok sostúpi] z koča samojediný. Vníduc do chyže
+nemálo zostal prekvapeným, spatriac toľké stoly tak bohato a skvele
+pristrojené. Myslel si, čo to asi má znamenať? ale pritom všetkom
+nezdal sa byť veľmi zvedavým. Posadil sa na svoje obyčajné miesto,
+nalial do pohára štvrtočku vína a vypil, pokojne čakajúc na vy-
+svetlenie.
+    </tei:p>
+    <tei:p>
+     A netrvalo to dlho. Uradostnená, Klementína potichúčky otvo-
+rila dvere a len ukradomky strčíla dnu uhriatu tvár, aby mohla
+potajomky videť svojho brata, jaký asi účinok jej prípravy na jeho
+tvári spôsobily. On sedel tíško, pokojne. Sestra vnišla do jedálne,
+privítala brata a hľadiac mu do očú riekla:
+    </tei:p>
+    <tei:p>
+     „Ani ma len nepochváliš ?“
+    </tei:p>
+    <tei:p>
+     „Začo?“
+    </tei:p>
+    <tei:p>
+     „Ze som všetko pripravila.“
+    </tei:p>
+    <tei:p>
+     „No pekne. duša moja! Len mi daj niečo už pod zuby, ja
+som. vylačnel.“
+    </tei:p>
+    <tei:p>
+     „A nebudeš čakať, až ostatní prijdú?“
+    </tei:p>
+    <tei:p>
+     „Kto?“
+    </tei:p>
+    <tei:p>
+     »Nuž grófka a ostatní hostia.“
+    </tei:p>
+    <tei:p>
+     „Ja neviem ani o grófke, ani o hosťoch ničoho.“
+    </tei:p>
+    <tei:p>
+     „Nevieš? Čo to za reč od teba?“ rečie premeneným hlasom
+panička Klementína, „však si mi ty odkázal po pánu Ordódym,
+aby som prichystala obed, že bude krštenie, bo že panstvu narodil
+sa potomok.“
+    </tei:p>
+    <tei:p>
+     „Nie, duša moja, nič neviem o tom: ja som s pánom Ordó-
+dym ani nehovoril.“
+    </tei:p>
+    <tei:p>
+     Klementína zbľadla a musela si sadnúť, aby nepadla, bo sa
+jej zdalo, že jej všetko zpod nôh uhybá. Keď jej to trocha prešlo
+a prišli telá sebe, povie:
+    </tei:p>
+    <tei:p>
+     „No, neposlal si mi po ňom svoju (abaterku, čo si bol od
+grófky do daru dostal?“
+    </tei:p>
+    <tei:p>
+     „Nie ja, tá bola od kongregácie u neho.“
+    </tei:p>
+    <tei:p>
+     Klementína pustila sa do plaču. A jakoby aj nebola mala
+plakať, keď sa toľko naustávala, toľké spustošenie vo svojej milej
+drúbeži porobiť dala, a to všetko nadarmo. Pán Ordódy urobil si
+žart s ňou, ktorým ju na posmech vystavil. Nie, to mu nikdy ne-
+mohla odpustiť. I plakala tak žiaľno, že samému bratovi bolo jej Túto,
+    </tei:p>
+    <tei:p>
+     „No, Klema, neplač už toľko,“ rečie jej brat, „veď nám to on
+iste vynahradí,“
+    </tei:p>
+    <tei:p>
+     „Nie, to mu nikdy neodpustím !“
+    </tei:p>
+    <tei:p>
+     „Nesmieš byť pomstlivá |“
+    </tei:p>
+    <tei:p>
+     »„Jakou mierou mne on nameral, i ja mu takou odplatím ,“ na
+to vstala a vyšla von do kuchyne, aby nastolila obed svojmu bratovi.
+    </tei:p>
+    <tei:p>
+     Pan farár jedol s chuťou, ale jeho sestre nechutnalo. Bola
+    </tei:p>
+    <tei:p>
+     o
+    </tei:p>
+    <tei:p>
+     424
+    </tei:p>
+    <tei:p>
+     rozžialená, rozľútostená i rozochvená. Chvíľami ju len tak potria-
+salo, jako čoby zimnicu mala.
+    </tei:p>
+    <tei:p>
+     Čeľaď však farská a mnohí Strečňania chválili si za dlhé ČASY,
+že jim tak dobre nechutnalo ani predtým, ami odtedy, a nevedeli
+sa prenachváliť pána farára a paničky Klementíny, ktorí jich tak
+bohato pohostili. Bohatý a dobrý obed na strečňanskej fare ešte
+i jích pravnukovia znali vychvalovať.
+    </tei:p>
+    <tei:p>
+     „S tým sa ale celá vec ešte neukončila,“ povie ktosi, keď pán
+Šumichrast prestal vypravovať.
+    </tei:p>
+    <tei:p>
+     „Pravda je,“ poznamenal tento: „druhý obed bol protivou
+prvšieho. O tom však až po našom obede, alebo jestli sa páči,
+nech zas druhý pokračuje.“
+    </tei:p>
+    <tei:p>
+     „Prosím, páni bratia,“ rečie pristúpivší domašín pán Nék,
+„prosím, nech sa lúbi k maličkému obedu. Pri obede alebo po
+obede, jako sa bude pánom ľúbiť, v rozhovore alebo voľnej zábave
+môžu pokračovať. Prosím, nech sa ľúbi posadať.
+    </tei:p>
+    <tei:p>
+     Hostia posadali, bárs mnohí z nich nepocítili toho nutnú po-
+trebu, veď boli na svadbe, ktorá už viac duí trvala a ktorá vo
+všetkom hojnosťou oplývala. No ale stať sa muselo. I stalo sa teda.
+dľa vôle pána Réka.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Bolo po obede. Svadobná spoločnosť u pána Réka podelila sa
+na rozličné väčšie menšie krúžky, ktoré sa spoločne zabávaly. Je-
+den z tých najväčších, ale i najmiešanejších bol zajiste ten, v kto-
+rom nachodil sa pán Šumichrast a v ktorom spomínaly sa tie staré,
+zašlé doby.
+    </tei:p>
+    <tei:p>
+     Spoločnosť vyšla von do záhrady pána Réka, kde pod veli-
+kánskou hustou lipou nachodil sa stól, lavice a z kameňa kresané
+sedadlá. Kde kto mohol, tam si sadol. Bolo všetkým po válí, aj
+tým, čo na kamenných sedadlách sedeli, aj tým, ktorí sa radšej
+na mäkkú, pažiť uložili.
+    </tei:p>
+    <tei:p>
+     Pán. Šumichrast pokračoval vo svojej besede:
+    </tei:p>
+    <tei:p>
+     „Od osudného obeda na strečňanskej fare minulo niekoľko
+týždňov. A síce zväčša pršalo, jako čoby i nebo bolo plakať chcelo
+s paničkou Klementínou na Strečne.
+    </tei:p>
+    <tei:p>
+     Pán Ordódy dávno bol zapomenul na svoj žart. Bolo mu pri-
+dlho na Višňovom i žiadal si už niekam povyjechať, aby sa po-
+vyrazil.
+    </tei:p>
+    <tei:p>
+     Konečne i nebo sa vyjasnilo a zdalo sa, že bude zase pekne.
+V panskom kaštieli pána Ordódyho je živo. Hostia sa schodili. Už
+takmer ani miesta niet pre nich. Pán Ordódy bol cele uveličený.
+Smial sa, žartoval, vtipkoval, jakoby to ani on nebol býval, ktorý
+počas minulých dažďov sem tam mrzuto bol sa prechodil po prie-
+stranných, vtedy tak pustými a mrtvými sa mu zdajúcich teremov
+rozsiahleho prízemného domu.
+    </tei:p>
+    <tei:p>
+     Po dvore ozýva sa jeho hrubý, mohutný hlas, vydávajúci roz-
+kazy ku nastávajúcej honbe. Keď už myslel, že všetky potrebné
+    </tei:p>
+    <tei:p>
+     rozkazy vydal a poriadky porobil, vrátil sa do dvorany ku shro-
+maždeným hosťom.
+    </tei:p>
+    <tei:p>
+     S ním zaroveň vkročila medzi hosťov, len že druhými dvermi,
+i pani Ordódyčka, ktorá povedomá svojej hodnosti, asnáď i krásy,
+hrdo si kráča dvoranou, avšak nie bez vlúdno-prívetivého uklo-
+nenia, ktorým vítala shromaždených hosťov v dome svojho pána.
+Ku nej pripojil sa i pán Ordódy, idúc jej v ústrety: s poklonou
+zaviedol ju na miesto za vrch stolom.
+    </tei:p>
+    <tei:p>
+     Dvoranou ozvalo sa hlučné „vivat,“ keď pani Ordódyčka za-
+ujala svoje miesto a vedľa nej ostatnie panie. Shovor točil sa zväčša
+okolo zajtrajšej poľovačky, z prítomných všetci lutovali, že pani
+Ordódyčka tentokráť nesúčastní sa na poľovačke.
+    </tei:p>
+    <tei:p>
+     „Až druhýkráť, pánovia,“ rečie s úsmevom pekná pani, „to by
+mi bolo primnoho tri dni.“
+    </tei:p>
+    <tei:p>
+     „Už teraz sa tešíme prípovedi vašej milosti,“ klaňajú sa bližší
+ďalší.
+    </tei:p>
+    <tei:p>
+     „Ale, pánovia!“ povie Ordódy, „zajtrá vám načim skoro stať.
+Potom ale obrátiac sa k domácemu kňazovi rečie:
+    </tei:p>
+    <tei:p>
+     „Reverendissime, zajtrá nech sa ponáhľajú so svätou omšou,
+môžu to raz i na kratšie vykonať.“
+    </tei:p>
+    <tei:p>
+     „Pána Boha nesvobodno ukracovať ...“
+    </tei:p>
+    <tei:p>
+     „To ani ja nežiadam,“ skočí mu do reči Ordódy , „nech sa jim
+ale lúbi zajlrá skorej teda vstať a služby božie čo najkratšie za-
+končiť, bo už teraz je deň krátky.“
+    </tei:p>
+    <tei:p>
+     Domáci kňaz sa mlčky uklonil, Výraz tváre však mu pre-
+zradzoval, že sa ho slová pána Ordódyho nemilo dotkly. Ť
+    </tei:p>
+    <tei:p>
+     Spoločnosť sa onedlho rozišla, každý na svoj vykázaný mu byt,
+aby si vypočinuli k zajtrajšiemu dňu. Mnohí však ani spať nešli a
+usniesli sa, že budú až do rána hore.
+    </tei:p>
+    <tei:p>
+     Na druhý deň ešte bola tma a už sa ozýval zvonec z káplnky
+kaštieľa pána Ordódyho. Páni, jakoby jich elektrizoval, poskákali
+hore. V dvorci nastal čulý ruch. Koho nezobudil hlas zvonca, toho
+zobudiť muselo zavíjanie a štekot psov.
+    </tei:p>
+    <tei:p>
+     Pán Ordódy i so svojím mládencom Števom Zariečskym bol
+už na nohách.
+    </tei:p>
+    <tei:p>
+     „No, vieš čo, Števo,“ hovorí mu Ordódy, „dnes na večer alebo
+zajtrá. ráno pôjdeš na Strečno do fary a na pozajtre dáš nám pri-
+chystať obed.“
+    </tei:p>
+    <tei:p>
+     „Ej, prosím ponížene jích milosť,“ škriabe sa Števo za uchom,
+„nech neráča sa nahnevať —“
+    </tei:p>
+    <tei:p>
+     „No, čo máš zase?“ odsekne Ordódy.
+    </tei:p>
+    <tei:p>
+     „Nič, len to, že sa bojím.“
+    </tei:p>
+    <tei:p>
+     „Koho?“
+    </tei:p>
+    <tei:p>
+     »„Paničky Klementíny.“
+    </tei:p>
+    <tei:p>
+     »Hahaha!“ rozosmial sa pán Ordódy, „ty že sa bojíš? A za
+ženu sis" ju chcel vziať!“
+    </tei:p>
+    <tei:p>
+     „Hia, to bolo iné, jích milosť. Odtedy sa pohnevala panička
+na mňa i na jích milosť, že ju ráčili...“
+    </tei:p>
+    <tei:p>
+     .
+    </tei:p>
+    <tei:p>
+     Ť
+. 1.5 436
+„Aha, už viem! No ale musíš ju ísť udobriť. A keď sa ti to
+    </tei:p>
+    <tei:p>
+     podarí, potom dovolím sa ti oženiť.“
+    </tei:p>
+    <tei:p>
+     Števo sa poďakoval síce, ale tvár sa mu nevyjasnila. Hej, keby
+mu to pán jeho bol len pred pol rokom dovolil: vtedy by bol ská-
+kal ani mladý baranec, teraz dovolenie pánov je mu ľahostajným,
+ho panička Klementína sa hnevá, ach, velice hnevá a on si j
+trúfa udobriť. No ale rozkaz svojho pána musí vyplniť: por
+teda Pánu Bohu, so svesenou hlavou, plnou storakých myšlienok
+kráča za svojím pánom.
+    </tei:p>
+    <tei:p>
+     Na kaplnke ozval sa zvonec po druhýkráť. V osvetlenej kaplnke
+bol pán Ordódy prvým so svojím mládencom. Domáceho kňaza tu
+však ešte nebolo. Ordódy zmraštil tvár. No netrvalo to dlho, čo i
+kňaz prišiel. Omša sa započala, ale pánu Ordódymu zdala sa trvať
+pridlho. Pozorovali to všetci prítomní, len jediný snáď Števo Za-
+riečsky nie, ktorý sa zo všetkých najvrúcnejšie modlil za zdar jeho
+výpravy a šťastlivého pokonania vo fare strečňanskej. Bol on opra-
+vdová protiva svojho pána v kaplnke, ktorý hneď kašlal, hneď no-
+hami šuchal, hneď sa v stolici hniezdil, jakoby na špendlíkoch bol
+sedel: dávajúc každým pohybom i pohľadom svoju nespokojnosť na
+javo, kdežto Števo ticho, pokojne sa modliac, snáď sa mu dnes
+omša, prikrátkou byť zdala.
+    </tei:p>
+    <tei:p>
+     Bolo po omši. Pán Ordódy vybehnul z kaplnky ani vietor. Za
+ním hrnuli sa ostatní, šopkajúc sused susedovi.
+    </tei:p>
+    <tei:p>
+     Fšte sa nehrieždilo ani dobre, spoločnosť už opustila (lvorec
+pána Ordódyho. Domáci kňaz s nimi. Pán Ordódy bol veselý: «lo-
+váďal, žartoval s každým, nevynímajúc ani samého domáceho
+jakoby už bol dávno na dlhú omšu zapomenul. Už sú v II
+Zosadnú z koní a stúpajú pešmo hore vrchom. Kone vzalo slúžob-
+níctvo do opatery a stúpalo inou cestou. ,
+    </tei:p>
+    <tei:p>
+     Pod vrchom žblnkotá tichý horský potôček. Dnes však nezdá
+sa to byť ten starý, tichý, čistý potok, veď brehy jeho sú skoro
+preplnené, následkom padlých dažďov, ešte neodteklou, šedivou
+vodou.
+    </tei:p>
+    <tei:p>
+     Cez potok však má viesť lavička. „Kdeže je? — snáď ju vodu
+vzala,“ hovoria niektorí. «
+    </tei:p>
+    <tei:p>
+     „Oj nie!“ rečie pán Ordódy, „musíme trocha vyše ísť.“
+    </tei:p>
+    <tei:p>
+     I stúpajú napred, hľadať lavičku. Každý chce byť prvým, ktorý
+by ju najsamprv zočil a na druhý breh sa dostal. Medzi týclito
+patrí i sám domáci kňaz pána Ordódyho, snáď z povďačnosti, že sa
+hnev pána patróna tak napochytre utíšil.
+    </tei:p>
+    <tei:p>
+     A vskutk“ podarilo sa mu, že prvý lavičku zočil a cele vy-
+tešený zavolá:
+    </tei:p>
+    <tei:p>
+     „Vivat! Tu je lavička!“
+    </tei:p>
+    <tei:p>
+     „Vivat!“ volajú ostatní, chvaliac bystrý zrak kňaza. I pán
+Ordódy ho pochválil a príduc k lavičke reči
+    </tei:p>
+    <tei:p>
+     „No placeat reverendissime, prvý ste zočili lavičku, nech sa
+vám teda Túbi i prvému preísť.“ š
+    </tei:p>
+    <tei:p>
+     i
+427
+    </tei:p>
+    <tei:p>
+     „[ogo humillime! Nech sá ľúbi domine. illustrissime!“ núka
+kňaz pána patróna,
+    </tei:p>
+    <tei:p>
+     „Iogo, ecelesia precedit tantum placeat,“ rečie Ordódy, tisnúc
+kňaza napred. š
+    </tei:p>
+    <tei:p>
+     Kňaz, vysoký, hodný chlap, stúpa si hrdo po lavičke, že sa,
+len tak kolíše pod ním. Tu však zrazu praskne — a on padol do
+vody , lavička sa pod ním prelomila, bo bola do polovice podrezaná.
+    </tei:p>
+    <tei:p>
+     „Aha, to pomsta!“ pomyslel si pán farár, a jako čoby sa ne-
+bolo nič stalo, povie:
+    </tei:p>
+    <tei:p>
+     „Pľánovia! Darmo je, ja som už zamáčaný, kto z vás chce
+preísť na druhú stranu a nechce sa zamáčať, toho vďačne prenesiem,
+však mám, chvála Bohu, toľko sily, že si z vás i najťažšieho trú-
+fam šťastlivo preniesť.
+    </tei:p>
+    <tei:p>
+     „Sláva mu!“ volá prvý pán Ordódy, „prijímame.“
+    </tei:p>
+    <tei:p>
+     „No teda, nech sa ľúbi, čo ľahších i po dvoch prenesiem
+odrazu.“ A
+    </tei:p>
+    <tei:p>
+     1 začal jich prenášať radom. Už boli všetci na druhej strane,
+len pán Ordódy nie, Ale i toho už vzal v silné náručia. Sotva však
+urobí dva kroky od brehu, rečie:
+    </tei:p>
+    <tei:p>
+     „Ilustrissime, vy ráčite za. troch vážiť.“
+    </tei:p>
+    <tei:p>
+     „Alebo vy ste ráčil už všetky sily vaše vyčerpať,“ odpovedá
+Ordódy.
+    </tei:p>
+    <tei:p>
+     „Nie, vaša milosť! opravdu, veľmi ráčite byť závažný : neráčite
+mať peniaze pri sebe?“ Ť
+    </tei:p>
+    <tei:p>
+     „Pán Višňovský nie je nikdy bez peňazí,“ odpovedal Ordódy.
+    </tei:p>
+    <tei:p>
+     „Teda ami teraz ?“ !
+    </tei:p>
+    <tei:p>
+     „Pravda, ani teraz!“
+    </tei:p>
+    <tei:p>
+     „To je tá príčina, že ráčite byť tak ťažký. K neuneseniu, Illu-
+strissime, a to tým viacej, že mi môj rád duchovný prísne zakazuje
+peniaze nosiť, nemôžem, nesmiem ďalej ani krok urobiť, lebo by
+som vedome hrešil.“ A tu hodil pána Ordódyho doprostred potoka,
+kde vedel, že je najhlbšie.
+    </tei:p>
+    <tei:p>
+     Jedni sa smiali, bo sa nemohli smiechu zdržať, druhí len s vel-
+kým namáhaním smiech v sebe dusili, iní sa strachovali, že pán
+Ordódy dopustí su nejakého prehkého skutku, iní sa báli, že sa
+jim celá zábava pokazila a že snáď z lovu mič nebude. Ale obava
+jejich sa nenaplnila. Pán Ordódy nedal na sebe ničoho znať, bárs
+snáď mu to i po vôli nebolo. Bol prináruživým lovcom, než aby
+snáď preto bol lov prekaziť chcel. ň
+    </tei:p>
+    <tei:p>
+     Dobrý rozmar trval i na ďalej. Spoločnosť stúpala chvíľu ešte
+pospolu, úle potom sa rozdelila, Ďalšia jich zábava nemá pre nás
+žiadnej zanímavosti , zanechme jích na čas, i tak sa sídeme s nimi.
+Do videnia. teda, na“ Strečne. My zatiaľ vraťme sa aspoň na chvíľu
+do opusteného dvorca pána Ordódyho na Višňovém.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Na Višňovom bolo pusto, ticho: väčšina služobníctva odišla na
+    </tei:p>
+    <tei:p>
+     lov, doma. zostali len tí najpotrebnejší. Pani Ordódyčka prechodila
+sa po konnatách,
+    </tei:p>
+    <tei:p>
+     "Tichosť dvorca prerušená bola hrčením kočiara. Kočiar nevnišiel
+do samého dvorca, ale zastal len pri vchode. Pani Ordódyčká kuk-
+nula von oknom, ale ihneď sa útiahla nazad. Z kočiaru vystúpila
+figúra, v ktorej hneď na prvý pohľad poznať mohol každý, ku ktorej
+národnosti prislúcha. Ohnutý nos, šedivá brada, osmahlá tvár, malé,
+hlboko vpadnuté oči, vypúlené perny, k tomu ku predu naklonený
+    </tei:p>
+    <tei:p>
+     chod, prezradzovaly, že musí byť židák.
+    </tei:p>
+    <tei:p>
+     Abrahama Sicera znali na okolí všade, tak í na V
+v osade i v kaštieli. Dnes — lebo on to bol sišiel z kočiara —
+je pripravenejší, ako obyčajne. Na hlave trojrohý klobúk, zelený
+frak, po kolená nohavice, žlté pančuchy a na nohách vyleštené čre-
+vice s veľkými mosadznými prackami.
+    </tei:p>
+    <tei:p>
+     Abraham sotva vnišiel do panského dvorca, obnažil plešivú
+svoju hlavu a s klobúkom v ruke, obzerajúc 5a na všetky strany,
+či by kde koho nevidel, kráča so sklonenou hlavou ku predu, ku
+kaštielu pána Ordódyho.
+    </tei:p>
+    <tei:p>
+     Nevidiac nikoho, osmelil sa vnísť do predsiene. Ale i tu zdá
+sa, že nikoho niet. Za dlhšiu chvíľu ani šuchanie nohou. ani ký-
+chanie nič neprospelo: v chodbe sa neukazovalo živej duše.
+    </tei:p>
+    <tei:p>
+     Konečne dlhé šramotenie Abrahámovi predsa pomohlo. Dvere,
+a síce práve tie, pred ktorými plešivý Abraham šramotil, sa otvo-
+rily. Abraham urobil tú najľúbeznejšiu tvár, klaňajúc sa do predu,
+pričom roztvoril svoje náručie, ani čo by chcel niekoho uchvatiť.
+A práve ten výraz jeho tváre a hluhoká poklona s rozostretýma
+rukama natoľko zastrašily chýžnu pani Ordódyčky, že s výkrikom
+preľaknutia zaplesknula dvere, až sa otriaslo všetko v chyži. Sám
+Abraham naľakal sa z počiatku a nevedel, či má zostať a vyčkať,
+čo sa ďalej bude diať, a či pobrať sa len ďalej, dokiaľ ho neuvidia.
+No k poslednejšiemu už nebolo času, bo dvere sa otvorily zase a
+z nich kukalo zvedavo niekoľko ženských na strašidlo, ktorého sa
+naľakala chyžná.
+    </tei:p>
+    <tei:p>
+     Abraham sa neusimieval už jako predtým, ale jako najlepšie
+vedel, tak sa kľaňal: ženské sa rozosmialy. To osmelilo Abrahama,
+že sa pýtal po Osvietenom pánovi. A keď mu povedaly, že ho niet
+doma, tým smelšie rečie:
+    </tei:p>
+    <tei:p>
+     „Ale jej najmilostivejšia osvietená milosť, pani Veľkomožná
+ráčia byť doma?“
+    </tei:p>
+    <tei:p>
+     Ženské prisvedčily, a hneď išla jedná, aby Abrahama oznámila
+pani Ordódyčke, ktorá o chvíľu vratiac sa k ostatuým, uviedla. Ahra-
+hama do svetnice paninej.
+    </tei:p>
+    <tei:p>
+     „No, čo vaša žiadosť?“ pýta sa pani Ordódyčka až k zemi kľa-
+ňajúceho sa Abrahama.
+    </tei:p>
+    <tei:p>
+     Abraham, obzerajúc sa po svetnici a vidiac, že tu okrem panej
+nikoho niet, hľadajúc čosi vo svojom zelenom fraku, povie:
+    </tei:p>
+    <tei:p>
+     » Rúčky, nôžky lúbam, najosvietenejšia milosť, — poní:
+sím, aby Boh Abrahama a Izáka, našich otcov —“
+    </tei:p>
+    <tei:p>
+     „No len na krátko, Abrahame,“ pretrhne ho pani Ordódyčka,
+zbadajúc, že sa k dlhej reči chystá, „nemám (nes času.“
+    </tei:p>
+    <tei:p>
+     „Áno, prosím ponížene, len maličkú chvíľočku: nech ráči vaša
+    </tei:p>
+    <tei:p>
+     1e pro-
+    </tei:p>
+    <tei:p>
+     439
+    </tei:p>
+    <tei:p>
+     milosť mi tento prsteň odkúpiť, celé moje bohatstvo , krásny klenot
+a drahý, ktorý len tak veľké panstvo môže zaplatiť , — ráčte sa len
+zhliadnuť, že má Abraham pravdu.“
+    </tei:p>
+    <tei:p>
+     Pani Ordódyčka vzala prsteň, pozre na Abrahama, ktorý žmur-
+kajúc maličkýma očima, pozoroval ťahy tváre odrazu zbľadlej panej.
+    </tei:p>
+    <tei:p>
+     „Jak si prišiel k tomu prsteňu, žide?“
+    </tei:p>
+    <tei:p>
+     „Kúpil, kúpil, osvietená pani!“
+    </tei:p>
+    <tei:p>
+     „To je ukradnutý prsten!“
+    </tei:p>
+    <tei:p>
+     „Ny! ukradnutý ! snáď nájdený — alebo —“
+    </tei:p>
+    <tei:p>
+     „Ukradený je! Či vieš, čí to prsteň?“
+    </tei:p>
+    <tei:p>
+     „Čí je, to viem: čí bol, potom mňa nie je nič a čí bude. to
+ešte sám neviem. Ja mám: svedka, že nie je ukradnutý, ale skorej
+darovaný.“
+    </tei:p>
+    <tei:p>
+     „To je lož, Abrahame! Ten prsten je môj!“
+    </tei:p>
+    <tei:p>
+     „snáď bol len osyietená pani ho ráčila nekomu darovať.“
+    </tei:p>
+    <tei:p>
+     „Môj pán ho dostal odo mňa.“
+    </tei:p>
+    <tei:p>
+     „Osvietený pán mohol ho zase nekomu darovať. Snáď priatelke
+nejakej.“
+    </tei:p>
+    <tei:p>
+     „Mlč, Abrahame! lebo keby ťa počul môj pán, tylom ti nechá
+jazyk vytiahnuť. A aby si vedel, nepovieš-li mi pravdu, jako si
+k nemu prišiel, tu ťa zadržím, až príde pán Ordódy domov. Roz-
+umels" ma?“ á
+    </tei:p>
+    <tei:p>
+     „Rozumel, osvietená paní! So mnou však samotným nič nepo-
+riadite, jestliže neráčite dať zavreť i tú paničku, ktorej vlastne
+prsteň patrí a ktorá dolu v kočiari na mňa čaká, lebo ja ho len
+menom jejím predávam a bez nej som sa ani neopovážil sem ísť,
+bo som dobre vedel, žeby sa mi mohlo zle povodiť.“
+    </tei:p>
+    <tei:p>
+     „A tá kde že ho vzala?“
+    </tei:p>
+    <tei:p>
+     Abraham pokrčil ramenama hovoriac :
+    </tei:p>
+    <tei:p>
+     „To ja už neviem, ani mňa nič po tom. Jestli ráčite dovoliť,
+zavolám i paničku, nech sa ona vašej milosti vyzpovedá, a povie,
+odkiaľ ho má.“
+    </tei:p>
+    <tei:p>
+     Pani Ordódyčka poslala svoju chyžnú, aby išla pozreť, či je
+kto v koči? potom ale, obratiac sa k Abrahamovi pýta sa ho:
+    </tei:p>
+    <tei:p>
+     „A čože žiadaš zaň? — veď si povedal, že je tvoj.“
+    </tei:p>
+    <tei:p>
+     „Povedal, lebo mňa prosila, aby som ju neprezradil. Prsten je
+hoden 150 dukátov, ona však uspokojí sa s 80 a mne vaša osvie-
+tenosť ráči dať maličkosť 20 dukátov, to bude rovných sto. Zaslúžil
+som si jich, lebo keby nie mňa, kto zná, do čích rúk by sa dostal
+bol tak drahocenný klenot.“
+    </tei:p>
+    <tei:p>
+     Navrátivšia sa chyžná vraví panej, že v koči nachodí sa mladá
+ženská, ktorú keď oslovila, odvrátila sa od nej na druhú stranu.
+    </tei:p>
+    <tei:p>
+     Chyžná odišla. Ordódyčka pristúpila ku svojej kasni, vytiahla
+odtiaľ mešec a hodila ho židovi k nohám s tymi slovamí:
+    </tei:p>
+    <tei:p>
+     „Abrahame, tu máš a chráň sa kedy v živote o prsteni. ho-
+voriť,- bo vtedy trestu neujdeš, a varuj sa, dokiaľ si živý, abys
+buďto mne alebo Ordódymu pod oči prišiel, lebo beda bude: tvojej
+koži. Teraz choď!“
+    </tei:p>
+    <tei:p>
+     Abraham zodvihol mešec s dukátami a čo mohol najrýchlejšie,
+    </tei:p>
+    <tei:p>
+     pospiechal ku kočiáru, a sotva že si sadnul, už v najspešnejšom
+cvale uháňaly kone preč z Višňového.
+    </tei:p>
+    <tei:p>
+     Abraham od tých čias nikdy viac nebol na Višňovom a triasol
+sa, dokiaľ len živ bol, vždycky, keď niekto spomenul meno pána
+Ordódyho alebo jeho panej.
+    </tei:p>
+    <tei:p>
+     Pýtate sa snáď, kto hola panička, čo sa s Abrahamom viezla?
+Dokládať mi to sotva treba, bo všetci ste iste uhádnuli, že to bola
+Klementína Orieškova. A nemýlili ste sa. Jako prsteň dostal sa do
+    </tei:p>
+    <tei:p>
+     «jej rúk, i to viete. Cesta Klementíny na Višňové bola cesta pomsty
+na pánu Ordódym.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Števo Zariečsky skoro od večera čaká na paničku Klementínu
+a už je ráno, ba čo chvíľa i poludnie a paničky Klementíny nikde
+nič. Ňikto nevie, kam sa podela, ani len jej vlastný brat. To vedia,
+že sadla do koča a že sa kamsi viezla, ale kam? To nevie žiadon
+povedať. Števo vykonal pozdrav i vzkázanie pánu farárovi a vrátil
+sa. smutný ku polovníckej spoločnosti. Mrzel sa sám nad sebou, bo
+sa nazdával, že Klementína sa len pred ním skryla.
+    </tei:p>
+    <tei:p>
+     Bolo už hodne po poludni, keď vtiahnul koč do fary a z neho
+vystúpila panička Klementína. Sotva že ju zpozorovala drúbež na
+dvore, už sa s krikom hrnula k nej, Klementína však si jej nepo-
+všímnula. Dosiahla síce, čo si bola priala, ale výsledkom svojej
+pomsty nebola, aspoň nezdala sa byť spokojenou. Prevzaté ol Abra-
+hama dukáty ani čoby ju boly pálily, šmarila nimi do skriene. Na
+otázky bratove len málo odpovedala a oproti čeľadi bola docela
+nevrlá,
+    </tei:p>
+    <tei:p>
+     „Klema,“ hovoril neskoršie brat, „zajtrá budeme mať hosťov.“
+    </tei:p>
+    <tei:p>
+     + „Dobre!“ povie Klementína s výrazom, že jej to cele všetko
+jedno.
+    </tei:p>
+    <tei:p>
+     Brat očakával, že sa zpýta, koho? ale ona mlčala, preto o malú
+chvíľu rečie zase:
+    </tei:p>
+    <tei:p>
+     „Ani sa nezpytuješ koho?“
+    </tei:p>
+    <tei:p>
+     „A. na čo?“
+    </tei:p>
+    <tei:p>
+     „Na čo? — aby si vedela, čo máš prichystať.“
+    </tei:p>
+    <tei:p>
+     „To je moja starosť.“
+    </tei:p>
+    <tei:p>
+     „No dobre,“ rečie namrzeno jej brat, „aby si vedela, príde
+pán Ordódy s celou poľovníckou spoločnosťou , ja som jim prisľúbil,
+že jích budeme očakávať. Nemáš-li ty vôle, alebo jestli si chorá,
+zavoláme kuchárku.“
+    </tei:p>
+    <tei:p>
+     „ľán Ordódy nás mohol ušanovať svojou prítomnosťou, ku-
+chárky nepotrebujem, o hostinu sa postarám.“
+    </tei:p>
+    <tei:p>
+     Ňa druhý deň skoro ráno odvolali pána farára k nemocnému.
+Vrátil sa až k poľudniu domov. V chyži našiel stoly poprikryvané,
+taniere porozkladané i s ostatným stolovým náradím, Neskoršie mu
+však napadlo, že v celej fare je ticho, jakoby tu ani nikoho nebolo
+bývalo. Vníde do kuchyne a zostane zarazený stáť, veď tu ani ohňa
+nekládli, ani tu nikoho nebolo,
+    </tei:p>
+    <tei:p>
+     sla znechutený a nazlobený vyjde do chodby, kde sa stretol
+s Klementínou, premerajúc ju od Ilavy do päty nie tým najpeknej-
+ším pohľadom, povie
+    </tei:p>
+    <tei:p>
+     „os“ mi to za j kúsok vyviedla?“
+    </tei:p>
+    <tei:p>
+     „Nuž, čo som ti vyviedla?“
+    </tei:p>
+    <tei:p>
+     „Prečo si obed neprichystala? -— ale takýto posmech, takúto
+hanbu mi urobiť —“
+    </tei:p>
+    <tei:p>
+     Pán farár by bol i ďalej hovoril a sestra mu odpovedala, veď
+tak sa zdalo, že bola dobre prichystaná a proti útokom na všetky
+strany ohradená. Tu však pribehne chlapec do fary, oznamujúc, že
+mnoho panstva ide z hôr a itlú do fary.
+    </tei:p>
+    <tei:p>
+     o teraz si počať!? Jaká hanba!“ — zkrikne farár a začne
+si vlasy trhať oboma rukami.
+    </tei:p>
+    <tei:p>
+     No nechaj to všetko na mňa,“ krotí ho sestra, „však som
+nemohla skorej chystať, keď som nevedela, či vskutku prídu, ani
+koľko jích bude?“
+    </tei:p>
+    <tei:p>
+     „Ale ztrať sa! Takú hanbu mi spraviť, — jako sa postaviť
+jim pred oči?“
+    </tei:p>
+    <tei:p>
+     „No keď sa jim nechceš pred oči postaviť, schovaj su, a keď
+bude“ všetko hotovo, potom sa ukáž,“ i schopila ho a fahala za
+sebou na druhý koniec chodby.
+    </tei:p>
+    <tei:p>
+     Na dvore bolo počuť HO prišlých poľovníkov.
+    </tei:p>
+    <tei:p>
+     „Už sú tu!“ rečie farár.
+    </tei:p>
+    <tei:p>
+     Klementína otevrela velikánsku kasňu, ktorá tu mu chodbe
+stála a rečie: „No keď chceš, môžeš su sem schovať zatiaľ,“ brat,
+neodporoval A keď ho (nu tlačila, ani sa nebránil.
+    </tei:p>
+    <tei:p>
+     Už hol dnu v kasni, Klementína ju zavrela a sotva že od-
+kročila od nej, už znel hrubý hlas pána Ordódyho chodbou, ktorý
+sa tázal po pánu farárovi, Ale nikto mu neodpovetal, Vnišiel do
+izby a za ním ostatní, ale i tu nikoho nenašli.
+    </tei:p>
+    <tei:p>
+     Vnišli do jiedalne, kde najdúc stoly poprikryvané, potešili sa.
+Prešla chvíľa, však nikto sa neukazoval. Ľán Ordódy začal kliať,
+až su to rozliehalo. V celej fare nebolo človiečka.
+    </tei:p>
+    <tei:p>
+     Naposledy predsa vynašli paničku Klementínu, pán farár však
+nebol k nájdeniu, darino sa po ňom dopytoval Ordódy, ho slovám
+Klementíny nedôveroval, keď mu hovorila, že nenie doma, ale že
+príde už dosť skoro.
+    </tei:p>
+    <tei:p>
+     „Nuž a obed ste nám dali prichystať?“
+    </tei:p>
+    <tei:p>
+     „ Všetko je hotové, pánovia, v bočnej chyži, poneváč som ale
+nedávno na rozkaz pána Ordódyho všetku hydinu poskrtiť dala, ne-
+zostalo mi nič, len prázdne taniere a tie sú prichystané.“
+    </tei:p>
+    <tei:p>
+     „Ale my nepôjdeme odtiaľ, dokiaľ nás statočne nepohostíte!“
+zkríkol pán Ordódy.
+    </tei:p>
+    <tei:p>
+     Klementína pomkla plecami, jakoby povedať chcela, že .ona
+nedbá.
+    </tei:p>
+    <tei:p>
+     Ordódy vyšiel na dvor: tu sa priblíži k nemu chlapec, ktorého
+sme pred chvíľou boli vo fare videli.
+    </tei:p>
+    <tei:p>
+     „Panáčku!“ oslovil Ordódyho, „ja viem, kde sú pán farár.“
+    </tei:p>
+    <tei:p>
+     „A kde?“
+    </tei:p>
+    <tei:p>
+     28
+    </tei:p>
+    <tei:p>
+     E ? "m AE TA
+482 aká
+    </tei:p>
+    <tei:p>
+     „Tam na chodbe v tej velikej kasni: panička jich tam za-
+mknuli, ale nevyzraďte to, že som to ja vám povedal.“
+    </tei:p>
+    <tei:p>
+     Ordódy prisľúbil a dal chlapcovi dvadsiatnik. Tento vyskočil,
+zapískol jako zajac a vybehol zo dvora. Ordódy vnišiel zas do fary.
+    </tei:p>
+    <tei:p>
+     „No, páni moji! jako som povedal, zostaneme pri tom. Pán
+farár nám slúbil obed, my sme prišli a nepôjdeme skorej odtiaľ,
+dokiaľkoľvek nám po vôli sa nestane. Poneváč to ale snáď dlhšie
+potrvá, aby nám nebol dlhý čas, budeme sa evičiť v strieľaní do
+cieľa. Chodba táto je k tomu jakoby nárokom stavaná. Vidíte hen
+tú velikánsku kasňu: tá nám bude cieľom,“ a hneď išiel a značil
+stredobod.
+    </tei:p>
+    <tei:p>
+     Sestra farárova zbľadla a triasla sa na celom tele, Chcela ho-
+voriť — nemohla. Vyšla a stala si na prostred chodby, jako čoby
+chcela proti sa postaviť a nedovoliť.
+    </tei:p>
+    <tei:p>
+     „ľrosím paničku Klementínu, aby ustúpila,“ rečie Ovdódy, ale
+Klementína nehýhala sa. Ordódy ešte raz ju oslovil, aby sa odstrá-
+nila, keď však neuposlechla, povie:
+    </tei:p>
+    <tei:p>
+     „Páni, do radu! strielať budeme radom, ja započnem.“
+    </tei:p>
+    <tei:p>
+     „Pre Pána Boha! nestrielajte!“ vzkríkla zúfalým hlasom Kle-
+mentína. Bolo neskoro. Rana vypálila: panička padla na tvrdú ka-
+mennú dlažbu, z kasne ozval sa v kolo úst pána Ordódyho
+pohrával pokojný úsmev, tváre však jeho spoločníkov zaujala bľa-
+dosť, všetei zostali jako hromóm omráčení.
+    </tei:p>
+    <tei:p>
+     Vystrelená guľa, zaryla sa hlboko do podlahy. Pán Ordódy chcel
+nastrašiť Klementínu a v kasni závreného, nepomysliac na následky
+nerozvážneho žartu.
+    </tei:p>
+    <tei:p>
+     Paničku Klementínu, ktorá od strachu zmeravela, bez pove-
+domia odniesli do svetnice asne vystúpil cele bľadý,
+s divoko vypúlenýma očima pozerajúc ma prítomných jej brat, vlasy
+mu na hlave alupkom stály.
+    </tei:p>
+    <tei:p>
+     Pán Ordódy a s ním celá spoločnosť zapomenuli na obed a keď
+sa jim pošťastilo, paničku Klementínu pomocou prišlých žien z mdlob
+prebrať, pobrali sa i bez obedu ďalej. Ľahtikársky Ordódy bol po-
+trestaný za. svoj zemanský prepych: skoro potom utratil majetok a
+všetko svoje bohatstvo. Z námluv ka Zariečskeho nebolo nič.
+Panička Klementína chorela za dlhé y, jej brat sa skorej zota-
+vil. Klementína však, keď i vyzdravela, zostala, navždy ťažkomysel-
+nou. Pán Ordódy prišiel síce ešte jedenkrát do fary i so Števomi,
+ale panička jich neprijala a © vydaju ani počuť nechcela. Museli
+teda s neporízenou sa 1 átiť.
+    </tei:p>
+    <tei:p>
+     Abraham Šicer poči © udalosti vo fare, prišiel tiež sem.
+Strach ho dolmal. Pani Ordódyčka dala mu mešec s dve sto duká-
+tami za prsteň, z ktorých však on ani polovičku paničke neodviedol,
+priniesol jich do jednoho a odovzdal pánu farárovi, ktorý neznajúc
+o ničom, podivno hľadel na Abrahama. Abraham vyrozprával mu
+všetko, jako bol s paničkou na Višňovom a prosil ho o primluvu :
+bo že sa bojí toho prísneho pána.
+    </tei:p>
+    <tei:p>
+     ľán farár poslal dukáty pánu Ordódymu, ale ten jich neprijal,
+    </tei:p>
+    <tei:p>
+     Nm
+    </tei:p>
+    <tei:p>
+     bu. pridal k nim snáď ešte. oj, jako týcl bolo a pán farár na
+výslovnú žiadosť pani Ordódyčky musel jich prijať pre svoju sestru.
+    </tei:p>
+    <tei:p>
+     Pripomenúť mi ešte treba, že pani Ordódyčka navrátivšieho sa
+z lovu svojho manžela nie najjemnejšie prijala. Napnutosť pre prsteň
+trvala za mnoho dní, až keď pán farár strečňanský poslal Abrala-
+movi za prsten vyplatené dukáty, vysvetlila sa vec s prsteňom pána
+Ordódyho. Manželia sa pomerili a pokoj s laskavosťou a úprimno-
+sťou prebýval zase predtým na Višňovom.
+    </tei:p>
+    <tei:p>
+     »„ Vivat! Nech žijú aj naši novomanželia!“ pripijali hostia pána
+Néka novomänželom, keď pán Šumichrast ukončil svoje vypravo-
+vanie,
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VI.
+    </tei:head>
+    <tei:p>
+     Sme už u konca. Aj veselie u pána Réka muselo mať svoje
+ukončenie. Ukončilo sa, ale tí, ktorí na ňom boli ju vždycky spo-
+mínali a spomínajú až podnes, obzvlášte starého pána Réka, ktorý
+tak znamenite vedel svojích hostí zabávať, že sa s ním a domom
+jeho ani len rozlúčiť nevedeli.
+    </tei:p>
+    <tei:p>
+     Neminul však ešte ani rok a Janko Vrana bol starým svatom
+a jeho Ľubica širokou na svadbe pána Ferencfiho a mladucha, či
+viete, kto bol? Vieronka Kalných. Veselie by bolo snáď i skorej
+bývalo, ale nemohli sa pre reč sobášnu dohodnúť. Ferenefi žiadal,
+aby boli po maďarsky, Vieronka ale ináč nechcela privoliť, len po
+slovensky. V tom ju i starý pán Rék podporoval. Zvíťazila. Starý
+pán Nék bol veselými na veselí Vieronkinom.
+    </tei:p>
+    <tei:p>
+     O niekolko rokov pozdejšie bolo veselie mladého Réka s dcérou
+horlivého rodoľuba slovenského v B... Sobáš bol nemecký, zdra-
+vice nemecké, svadba nemecká, lebo mladá nevesta vyžiadala si
+to tak.
+    </tei:p>
+    <tei:p>
+     Ľubica Vrana plakala na veselí a s ňou i pani Trnovská: tak
+volali pani Ferencfiho. Trnovský bolo jeho starootcovské meno. 04
+tedy, čo su oženil, nehneval sa ma to meno.
+    </tei:p>
+    <tei:p>
+     Prečo plakaly tie dve slovenské duše spolu?
+    </tei:p>
+    <tei:p>
+     Starého pána Réka nebolo už medzi nimi. Pán povolal ho
+k otcom. Ľubica s Vieronkou plakaly snáď za ním — snáď i nad
+dačím inším?
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

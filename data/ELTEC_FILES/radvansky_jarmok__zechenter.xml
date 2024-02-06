@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012714" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Radvanský jarmok : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:49245103">
+     Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     3876
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:49245103">
+      Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Radvanský jarmok
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     RADVANSKÝ JARMOK
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Kiachta, Novgorod, Lipsko a — Radvaň sú vo svete známe trhoviská.
+      Radvanský jarmok je a ostane dlho, dlho v porekadle a prežije ešte i
+      proroctvo doktora Veselovského. Keď slovenský ľud dačo kremobyčajne
+      velkého vysloviť chce, odvoláva sa hneď na radvanský jarmok. Po prvý
+      raz Pešť, Viedeň a vôbec veľké mesto navštíviaci Slovák zalomí ruky nad
+      davom ľudu a zadivený zvolá: „Bože, to je radvanský jarmok!“
+   </tei:p>
+   <tei:p>
+    Keďže železničná sieť, ktorá sa už i do starokonzervatívneho Sloven-
+      ska vkradla, i tomuto pôvodnému, povestnému národno-slovenskému
+      trhovisku záhubou hrozí, hodláme týmito riadkami ako-tak zachovať
+      jeho zaslúženú pamiatku.
+   </tei:p>
+   <tei:p>
+    Ôsmeho septembra, keď si už zvolenské hole, menovite — salva ve-
+      nia - Prašivá, obyčajne zimnú toaletu obliekli, keď štebotné, verné nám
+      lastovičky do južných tajuplných krajov odletujú, a miesto nich pozdné
+      smutnokrásne nezábudky, totiž jesienky - colchicum autumnale - sťa
+      ostatný pruh, mdlý odlesk letný, lúky naše oživujú, vtedy býva vydržia-
+      vaný chýrečný trh v Radvani, mestečku s Banskou Bystricou nepretržite
+      spojenom.
+   </tei:p>
+   <tei:p>
+    Jarmok bez peňazí je takmer toľko ako hluchému hudba: ale peniaze
+      nerastú ako huby po daždi. Peniaze si zaopatriť, k tomu vedú rozličné
+      cesty: to dobre zná každý, kto šúľal groš medzi prstami.
+   </tei:p>
+   <tei:p>
+    Montecchi a Capuletti, Guelfi a Gibellini, Horatii a Curiatii sa tak
+      neruvali ako my, keď sme sa kamžami mlátili v sakristii po talentoch.
+      Boj na smrť a život, ako hladom morené potkany, kým sa do ostatného,
+      najsilnejšieho nezožerú. Koniec ruvačky a villafranský pokoj uviedol
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    korbáč - flagellum orbis - džingischána, kostolníka Petráka, ktorý takto.
+      medze položil ďalšiemu krviprelievaniu na posvätnom mieste in ecclesia.
+      millitante. Štipľavý to síce, ale výsledku plný žart.
+   </tei:p>
+   <tei:p>
+    Ale spýtate sa, v akej súvislosti stoja tieto výjavy ľudskej krehkosti
+      s radvanským jarmokom? Ab altari vivit sacerdos. Miništrant slúži tiež
+      za mzdu, už či sa on pri svieci, knihe, či pri turibule, a či pod krížom
+      na pohreboch šipliká. A tieto, tak horko-ťažko pri bitkách, pobožnom
+      vzdychaní a pri pohrebných slzách nadobudnuté grajciare sa cez mesia-
+      ce odkladali a zbierali na radvanský jarmok.
+   </tei:p>
+   <tei:p>
+    Raz som našiel na podvrchu jednej starej, ošarpanej šalandy ládu,
+      podľa nápisu z roku 1727 pochádzajúcu, s veľa ukrytými priečinkami,
+      a tam som odkladal svoje miništrantské zárobky s mravčou usilovnos-
+      ťou. A tak, hľa, nielen minister, ale i miništrant môže dačo - odkladať.
+   </tei:p>
+   <tei:p>
+    Keď sa už túžobne očakávaný 8. september dotiahol, pootváral som
+      všetky priečinky a sortíroval mince. Ako teraz, tak i predtým s peniazmi
+      vždy machľovali. Kolovali vtedy dvojgrošníky dačo menšie od lopaty,
+      takzvané „šustertalery“ s nápisom tridsať grajciarov, ale platili len šesť
+      grajciarov šajnových. Potom s nápisom 3 gr. - 2 gr. Tri strieborné dvad-
+      siatniky, čistej opravdivej hodnoty, zaviazal som pevne do uzlíka, š
+      grajciarov vstrčil som do jedného a dva grajciarniky do druhého vač-
+      ku, čím dostali moje vrecká podobu zapuchnutých líc pri bolení zubov.
+      "Takto vystrojený a blažený vybral som sa na radvanský jarmok.
+   </tei:p>
+   <tei:p>
+    Kde aká cesta alebo cestička, hradská, priesmyk, prť, chodník, chod-
+      níček, priechod, most a lavica, a či brod - všetko bolo zaplnené jarmoč-
+      níkmi, ťahajúcimi sústredene do Radvane. Tisíce starohorských pútni-
+      kov, spievajúc, kde-tu i trúbiac, akoby o závod, obzerajúc a potkýnajúc
+      sa o päty jeden druhého - pospiechajú do radvanských bazárov. Časom
+      pred procesiou nesený Kristus skloní sa dolu, aby ho mohli nadrapujúce
+      sa deti pobozkať. Každý húf prespevuje síce tú istú nôtu, ale druhým
+      hlasom. Predvoj vedú niekoľkí chlapi, za tými chlp tenko spievajúcich
+      žien. Celý pochod končí sa do špicu, ktorý, obyčajne kus pretiahnutý,
+      vychodí a pozostáva z kuľhavej, požehnaním obťaženej, zosušenej starej
+      babky. Pozornosť pútnikov nie je výlučne spevu venovaná, týka sa ona
+      i mimoležiacich predmetov. - Okrem týchto pútnikov ponáhľajú sa i
+      iní prozaicky, či už pešo, či na koňoch, na vozoch, hneď chytro, hneď
+      pomaly za tým istým cieľom.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Na dolnom banskobystrickom predmestí valiace sa masy nadurili
+      prachu, ktorý vystúpil hore a obtiahol všetky predmety žltou farbou.
+      Táto farba zmenila sa pri striebornej hute na tmavočiernu, takže ľudia,
+      prejdúc tieto dve politické atmosféry, stali sa úplnými „švarcgelbami“.
+      K týmto rôznym dvom prachovým oblakom peknou štafážou boli stro-
+      mami zelený Urpín, hučiaci bystrý Hron a modrastý kučeravý hutný
+      dym.
+   </tei:p>
+   <tei:p>
+    Tu od historických trosiek starodávnej striebornej huty počne sa ma-
+      lebná strakatina. Bohatý trh začína sa žobrotou. Ohlasuje sa tu z oboch
+      strán cesty lamento, aké snáďbolo počuť len po prehratej bitke pri Hrad-
+      di Králové. Tam žobrák, bohatý na deti, krúti vízgajúcu lýru savojskú
+      a jeho početní nápadníci plazia sa po ňom ako húsenice po kapustnom
+      koreni. Tam zase bedár holengá povetrím akýmisi kýptikmi miesto ra-
+      mien, ktoré sa skorej safaládkam ako ramenám podobajú, na kýptiku
+      však visí ovinutý ruženec. Postúpiš ďalej a tam ti pchá pod nos ranavé,
+      muchami posiate nohy. Hentam sa váľa kus drieku bez nôh: onen krúti
+      hlavou tik-tak, bez prestania deň i noc. Slepý Tobiáš reže sláčikom po.
+      husliach, upomínajúc nás na srbské gusle. Keď sme i toto početné kšef-
+      tujúce patologické múzeum prebehli, dorazíme k najstarším sveta tohto.
+      remeselníkom, ktorí si skutočne a podľa udania Adama, najstaršieho:
+      nášho tatuška, za patróna vyvolili. Rozumiem tu hrnčiarov.
+   </tei:p>
+   <tei:p>
+    Tu medzi pyramídami budúcich črepov, akými sa vše sláva a zväč-
+      ša diplomacia tohto sveta končí, prechádzajú sa starostlivé maminky
+      a veliteľky kuchýň - muštrujú prísnym zrakom a klopú vážne zohnutou.
+      hánkou po nádobe, aby podľa cvengu, ako kosec kosu, mohli vyskúmať
+      jej vnútornú morálnu hodnotu. Význam týchto tajomných posunkov by
+      nám snáď náš Pozdech mohol vysvetliť. Ja som to po mnohom bádaní
+      vyskúmať nemohol, hoci in praxi moja dobrá mať, možno i to primá-
+      lo, po mojej hlave hánkami klopajúc vyvolávala: „Darebák darebácky,
+      z teba nebude nič!“
+   </tei:p>
+   <tei:p>
+    Kto mastí, dobre sa vozí. Tam na náprotivnej strane dolnozemská, na
+      vetre údená slanina má dobrý odbyt. Odnášajú ju paholci odpredku i zad-
+      ku pôltami ovešaní, kráčajúc hrdo ako starí Gréci vo svojich tunikách.
+   </tei:p>
+   <tei:p>
+    Čím diaľ, tým väčší huk a stisk. Tu už nastáva to milé-nemilé vítanie,
+      pozdravovanie, objímanie a rúk stískanie, ba nazbyt i bozkávanie, kým
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    nová starohorská lavína ústa už-už k bozku nakrivujúcich neroznesie.
+      TÍ, čo ich hory-doly cez roky a roky lúčili, tu sa zídu, tu sa vítajú.
+   </tei:p>
+   <tei:p>
+    Ale podme ďalej, aby sme medovnikárske šiatre neobišli. Či by si snáď
+      kolísku, bábku, alebo obrázkom a pekným veršíkom ozdobené a cuk-
+      rom obliate srdce alebo paklík mandľového marcipánu a čo len kore-
+      nistý pusrlík pre tú alebo onú nekúpil? A voskovník na roráty? - Čo
+      sa tu minie s múkou namiešaného, prachom zapadnutého medu, to sa.
+      iste chudákovi svätému Jánovi v saharskej púšti nesnívalo pri kobylkovej
+      pečienke.
+   </tei:p>
+   <tei:p>
+    Trara, trara, bum-bum-bum!
+   </tei:p>
+   <tei:p>
+    Aha, tamto veľká koliba z dosák zbitá. Nad vchodom strašné obra-
+      zy: diví ľudia jedia jeden druhého: - lev s troma chvostmi, o jeden viac
+      ako český, a orol s troma hlavami - teda tiež o jednu viac, ako vôbec
+      máva orol privilegovaný. Krásna potvora, po pás panenka, od pása dolu
+      obyčajná podustva s chladidlom, to jest fecherom v rukách. Opitý Ky-
+      sučan roztrepal žene hlavu pálenčenou sklenicou s nápisom „Jupiter
+      fulminans“ - Tomu odolať nebolo v mojej sile, ani v mojom programe.
+      A tak teda hodím komediantke v červenej tunike jeden šustertaler, to
+      jest dvojgrošník, dverná opona sa odtiahne a ja s klopaním srdca vstú-
+      pim do svätyne. Obecenstvo bolo ako početné, tak vyberané. Podlavice,
+      Riečka, Eliáš, Pršany, Malachovo boli zastúpené svojou elitou. Zápach
+      cibuľový a cesnakový v najkrajšom kvete.
+   </tei:p>
+   <tei:p>
+    Priestor bol dupkom naplnený, ako zápalky v škatuľke, a čo viac môj
+      obzor úplne zatienil široký klobúk môjho suseda, paholka z Tajovej,
+      predo mnou stál očovský prísažný s geletou na hlave úplne podobnou
+      nedostavanej babylonskej veži. Terajšie ženské šiňony sa veľmi ponáš
+      jú na tú pokryvu. - Týmito prekážkami bol mi síce výhľad prekazený,
+      ale aspoň sluch nie. Počul som na dejisko vystupujúce osoby: Meluzí-
+      nu, doktora Fausta, čerta, Pika a - pekelného premierministra Mefista,
+      veselého Pimprlíka atď. Už keď tento posledný rozprával, to sme sa len
+      takkrälli od smiechu: chlapi mu bohovali zle-nedobre, ženy vrešťali, pa-
+      pule rozdrapovali, štrbavé i biele zuby vyškierali, ba podajedny museli
+      na chvíľočku i von utekať. A to všetko ten sakramentský Pimprlík, hľa!
+      — No, môžem uistiť, obecenstvo bolo veľmi povďačné. Po tomto predsta-
+      vení nasledovali olympijské hry. Či to nie dosť za šesť grajciarov? Nuž ale
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    čože z toho, keď sa ten mažiar na očovskej kotrbe priezračným nestáva.
+      Ale boh Jokus zmiloval sa nado mnou. Dáky nemotorný sused vyrazil
+      mu zapekačku z úst a kým sa on ako ďalekohľad do seba pokrčený po.
+      zemi plazil, otvorilo sa mi na okamih nebo a vidím zázraky sveta.
+   </tei:p>
+   <tei:p>
+    Stvora v červenej sukničke sa po stole moce ako zasolená žaba, skáče
+      ako kobylka a zase sa skrčí dovedna ako págeľ. - Zatým prišiel žltý kome-
+      diant. Bryndza Paľom ho menovali (možno bol principálom). Chytil die-
+      ťa za hlavu a krútil ním v povetrí, šmihal a plieskal ako bičom. Rukami
+      pobožne dovedna zloženými típnem nad pružnosťou stavcov tohto div-
+      ného stvorenia. Ale primne bezzubá Dora Babalovie - tak ju menovali -
+      to tajomstvo dôkladne vysvetľovala svojim susedom, a keďže som blízo:
+      nej stál, ušlo sa | mne dačo: „Nuž, hľa, dajžemibože, takým deťom vám
+      hneďv prvú hodinu po narodení pred krstom baba všetky kosti piestom
+      nadrobno rozdrúzga, a preto sú potom také ohybné ako had a pružné
+      ako kolomastika.“ (Chcela iste povedať gummi elasticum.)
+   </tei:p>
+   <tei:p>
+    Potom vyviedol komediant koníka na uzde, pýtal sa ho, či žral ovos,
+      on pokýval hlavou, že áno. Potom si pejko sadol, zakresal do fajky, fajčil,
+      odpľúval, zuby si šparchal, a len toľko, že nám noviny nečítal. Nuž ale
+      prv, akoby to bol urobil, komédia sa rozišla. Keď sme sa, a to veru ako.
+      načim, von tisli, čvirikalo nám nad dvermi žlté vtáčisko. Bolo na retiaz-
+      ke uviazané a chochol sa mu duril: ak sa nemýlim, volali ho Dukaka.
+      "Tam sa voľakde má liahnuť za zeleným morom. Ten zbojník mi odhry-
+      zol, ako sme sa tak pomaly von peľali, vrchný gombík z košele. Bol to.
+      gombík okrúhly, z kosti, nuž sa iste nazdal, že to hrach. Odhryznúc ho,
+      vyletel na žídku, a bolo po mojom gombíku.
+   </tei:p>
+   <tei:p>
+    Za medovnikárskymi šiatrami je most, kde býva najväčší stisk. Čože
+      to bolo, keď sa Napoleon so svojou armádou cez berezinský most pytľal
+      — lárifári!
+   </tei:p>
+   <tei:p>
+    Jeden prúd ľudu ťahá dolu, druhý hore, naprostred mosta vír ani pri
+      kej Margite.
+      ľky, čo nimi husi kémia, robia medzi dlaňami, šúľajúc kus cesta sem-
+      -tam. No práve ako takýto šúľok, šúľali ľudia i mňa na spomenutom mos-
+      tíku, raz sem, raz tam a dobre vyvaľkaného vydvihli ma potom vysoko.
+      nad okolité živé tekvice. Na povýšenom mieste cítil som i strach i štekle-
+      nie a okamžitú blaženosť vyvoleného a na pleciach vydvihnutého župana
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    alebo snemového vyslanca. Po krátkom bavení sa vo vyšších sférach cítil
+      som zase pevnú pôdu pod nohami. A tu som sa pozbieral na zvláštnom.
+      punkte radvanského jarmoku. Hovorí sa veľmi zhusta, a to vraj má byť
+      i matematicky dokázaná pravda, že mesto Zvolen je strediskom celého
+      sveta. Ako teda Zvolen vo svete, tak čierny dom a priestor pred ním, kde
+      sa na „Orlíka“ hrávajú, je strediskom celého radvanského jarmoku, je
+      punkt, ktorý žiaden šarvanec bez pokušenia fortúny neobíde.
+   </tei:p>
+   <tei:p>
+    Noale keďže sa i tak ešte sem navrátime, pôjdeme nateraz medzi šiat-
+      rami ďalej, kým neprídeme na - radvanskú deltu. Jedno rameno beží
+      na juh, na dolnú Radvaň, je voľačo kratšie a končí sa celkom tak ako.
+      Európa - čižmou, pretože tam čižmári svoj tovar rozkladajú. Vôbec sú
+      tam remeselníci, čo sa zdieraním koží zapodievajú: koželuh, remenár,
+      grznár, švec, čižmár. Na samom konci však je mestská striekačka.
+   </tei:p>
+   <tei:p>
+    Hneď od pazuchy horného ramena rozkladajú sa šafraníci so svojím
+      tisícnásobným krehkým tovarom. Tu nadrapujú mendíci harmoniky,
+      fúkajú do drevených hrušiek, tam malí chasníci s osihleným noštekom
+      dúchajú do píšťaliek, zastupujúcich chvostíky drevených koníkov.
+   </tei:p>
+   <tei:p>
+    Bočná ulička, vedúca ku hradskej ceste, založená je pyramídami ovo-
+      cia. Karmanky, bystrické slivky, krupinské hrozno - ak ho okúsiš, ihneď
+      ti zavše jedno, zavše druhé oko kfčovite žmurkne - dyne, jablká, no,
+      ovocia zblízka i zďaleka. Ale tu aj brnkajú osy a muchy i z troch stolíc.
+      Mne samému pri tej príležitosti len tri osy s jednou karmankou do ža-
+      lúdka vbehli, kde mi počas celého trhu škrabkali.
+   </tei:p>
+   <tei:p>
+    Za šafraníkmi nasledujú šiatre všakového hrubého i tenkého strižné-
+      ho tovaru. Súkenníci, krajčíri, zlatníci, hrebenári, fajkári, gombári atď.
+      Zvláštnu pozornosť zasluhujú sklady šiat Diamanta a Silbersteina - oba-
+      ja páni pôvodu semitského. Šaty ako pre krásne, tak pre špatné pohlavie.
+      Najväčší kontingent kupcov posielajú sem z vidieka mäsiarky, mlynárky,
+      krémárky, rechtorky a lesníčky.
+   </tei:p>
+   <tei:p>
+    Tá beluška sa tlačí do modrej kacabajky, lemovanej prámom divej
+      mačky, štíhlulinká to duša na prehltnutie. Jej starulinkej maminke cid-
+      líkajú po zvädnutých, zvetraných lícach slzy radosti ako z mokrej han-
+      dry nad svojím podareným dieťaťom. - Tá oberučná černuša naťahuje
+      havana-brunastú jubku. Chudera, prvý raz to má na sebe a trápi sa do:
+      rukáva natrafiť. - Tam druhej pripínajú vycifrovanú serbianku a bleduša.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    muštruje si pred zrkadlom čiernu vizitku. - Tam v kúte zamyslené pa-
+      nie skúmajú ani Archimedes svoje čiary, skúmajú a rozťahujú paletoty,
+      beduíny, mantilky, tuniky a bohzná aké ešte šiky-miky. - V susednom
+      šiatri naťahuje hornovidiecky pán rechtor na svoje šesťdesiatpäťročné
+      koštiaľnaté pedále vypasamentované nohavice a jeho pán sused, mlynár,
+      hrdo kráča vprevesenej, moľami popichanej bunde. - Keby vás nešianal,
+      mohol by vám do zunovania tomuto podobných výjavov narozprávať.
+   </tei:p>
+   <tei:p>
+    Ešte za chvíľku trvá metelica, šumot, výkriky predávajúcich a kupu-
+      júcich, vyvolávanie sto a sto ráz sa stretajúcich a opakovanie pozdravu-
+      júcich sa známych a dávno snáď nevídaných priateľov a výkriky tých,
+      ktorým otlaky pod mičinské lebo môlčanské podkovičky podbehli.
+   </tei:p>
+   <tei:p>
+    Senectus ipsa est morbus. Čím viac sa blížiš k starému hypochondric-
+      kému radvanskému hradu, tým viac redne ľudská kaša, šumot tíchne,
+      akeďystúpiš do šíreho dvora nikým viac nestrkaný, končí sa trma-vrma.
+      a nasleduje veličizné - nič.
+   </tei:p>
+   <tei:p>
+    Po malom oddychu v priečelí rytierskeho hradu hodil som sa na-
+      zad do prúdu ľudskej tekutiny, plávajúc a veslujúc medzi košmi, košík-
+      mi, kapsami a batohmi, prijímajúc vďačne a ešte vďačnejšie rozdávajúc
+      buchnáty, po nohách stúpajúc a postúpaný, dostal som sa s dobitými
+      rebrami - contusio rebrorum, podľa Dávida Šťubrika - pod známy nám
+      už čierny dom.
+   </tei:p>
+   <tei:p>
+    Na trudnej ceste ma však zastihla ešte i druhá nehoda. I tu, ako inde
+      po jarmoku, pletú sa ambulantné kuchyne. Jedna takáto škamravá am-
+      bulantka strčí mi pod nos kvetastý tanier s čiernou, na slnci upálenou,
+      murínskemu skalpu podobnou husacou pečienkou. Ja netušiac hroziacu
+      mi husaciu pečienku, obrátim náhodou hlavu a ďub nosom do majorá-
+      nu! Majorán, ako známo, pchajú pod trtáčik. Ale nepáchlo to viac ma-
+      joránom, ale čímsi horším. Ja sa zmraštím a odmyknem, stratím však
+      vtom rovnováhu a šmyks!
+   </tei:p>
+   <tei:p>
+    Že sa tratím, to som badal, ale kam? - Do čerta jazerného! Zletel som
+      modistke pod šiator! Zdvihnem sa chytro ako strela na zadné nohy. Ale
+      nešťastne som vtrielil medzi najháklivejší tovar, medzi kopípuce a ka-
+      pišóny. No, keď som sa tak - akoby zo zeme vyrástol, s červenou koafí-
+      rou na hlave a kus toho majoránu pod nosom - pred modistkou zjavil,
+      môžete si predstaviť predesenie tej chudery! V okamihu pochytila dre-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    venú hlavu, čo na nej čepce vyťahuje, a poslala mi ju v ústrety: ja však
+      nevyčkajúc jej príchod, šmykol som tou istou cestou naspäť, rozumie sa,
+      bez koafíry: tú som jej pri reterírovaní zložil k nohám.
+   </tei:p>
+   <tei:p>
+    Kto si robí nároky na vzdelanosť a zná henzla, farao, makao, kaláber,
+      e, čamboringo, par et impar a pimparimpipax, kto toto všetko
+      a ešte viac ako toto zná, ale orlíka nezná, ten je v mojich očiach nie inte-
+      ligentný človek, ten je fušer. Tým nešťastníkom teda, čo orlíka neznajú,
+      chcem týmto posvietiť.
+   </tei:p>
+   <tei:p>
+    Obyčajný stolík je obtiahnutý farbistým tmavým plátnom, v Radvani
+      to tuším volajú bikslaivond. Na tomto bikslaivonde je namaľovaných
+      šesť okrúhlych rozličných obrazov, jeden krajší od druhého, vo dvoch
+      radoch. V jednom orlík — de cadem - koník a panna: v druhom sedliak,
+      k. Medzi týmito radmi v prostriedku na om kraji stojí
+      drevený kužeľ, asi na stopu vysoký, so špirálovito krúteným schodom.
+      K tomu patrí drevený pohár, z ktorého vrhne do schodu opálenú a tými
+      istými, lež pravda, menšími obrázkami opatrenú kocku. Pri týchto ná-
+      strojoch stojí chlapina, čo mu už zďaleka na čele čítať môžeš: Ja som
+      bankier!
+   </tei:p>
+   <tei:p>
+    A veru je ktomu kšeftu ani nie každý človek stvorený. Vyhľadáva sa
+      k tomu zvláštny talent, a to ľudí vábiť. S nevýslovnou precíznosťou vloží
+      kocku do pohára, trepe ním o stôl, rozhadzuje sa, vtipkuje, vychvaľuje
+      šťastie, volá, kričí: „Na orlíka, na paničku, páni moji, na orlíka, Ďurko,
+      Janko, Zuzka! Ej, ej, Anička, nože no, sem sa, ešte orlík neobsadený!
+      Ľaľa, tuto ruža bez muža. Panna bez pána! Miško Koválovie od Tutulov,
+      na toho koníka, vybehá vám! Anka, strynká, vdovička ste, na sedliaka.
+      grajciar, má cepy, vidíte ho, vymláti vám - alebo vás! - Hoj, hoj, Števko,
+      nože sa na tú pannu priberte, alebo na vtáčika, vtáčik marháčik.“ - Ko-
+      nečne, keď je už každá figúra obsadená, vydvihne pohár s kockou, oči
+      do nebies a zavolá: „Čo pánboh dá, to bude!“ a vysype kocku do kuže-
+      la. Glog-glog-glog, kocka sa vykrúti, zastane na plátne, výkrik radosti:
+      „Sedliačik vymlátil“ A šťastná Anka zhťňa trasľavými rukami grajcia-
+      re počtom päť do zásterky, šiesty grajciar pripadá bankierovi. Z druhej
+      strany závisť, hromženie a pri neprestajnom strkaní hrešenie.
+   </tei:p>
+   <tei:p>
+    No to je ten orlík, a takýchto orlíkov tu stojí asi desať. Môžete si pred-
+      staviť ten klepot, škrek, huk, volanie, smiech, preklínanie a zvadu.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    ruža a v
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Túžiac za orlíkom, dotisol som sa k jednému najpohodlnejšiemu sto-
+      líku. Čochvíľa sme e boli „drei Mann holý a to: podo mnou stála o stolík
+      ovalená územčistá šarkanica z Podkoníc, za mnou však paholok s päť-
+      prackovým opaskom z Kyncelovej.
+   </tei:p>
+   <tei:p>
+    Tento šuhaj mi v roztomilom a pohodlnom vození po mne všetkých
+      päť praciek na celý týždeň zreteľne na chrbte vytlačil. Aký vysoký nátlak,
+      koľká hydraulická kolumna ešte mimo toho za mojím chrbtom tlačila,
+      udať neviem, lebo na šindeľ stlačený, ako krokodíl, nebol som vstave ani
+      hlavou zvrtnúť. A tak to vyzeralo okolo celého stola a pri každom orlíku.
+      V perspektíve, z okien čierneho domu sa to asi tak vynímať mohlo ako.
+      palacinkový koch plnený lekvárom.
+   </tei:p>
+   <tei:p>
+    Ach, bolo že ti mi v tejto zváračke desno! A niet divu - podo mnou
+      toľký sporák, široká Podlavičianka, nado mnou prackový preš. Napriek
+      tomu sme však predsa hrali o dušu a kocka sa vrtela, akoby ju beťah
+      metal. Najviac nás obťažoval istý fufnoš bez nosa, svinský pastier z Ora-
+      viec. On vše kládol akýsi zabryndzavený grajciar, ledva ho bolo zo stola
+      zoškrabať, tak sa lipol, ebatta mu: a divné, na tomto lipkavom grajciari
+      liplo i šťastie. - Išlo to tak za dlhý čas, en ja raz zog! Reznem grajciar na
+      pannu a pod! Ťahám kasu i s bryndzovým grajciarom. Boli by ste videli,
+      aké okále na mňa ten sviniar vyvaľoval! S týmto talizmanom prešlo ku
+      mne šťastie, šlo mi, akoby mi čerti boli podstlali. V tej miere ako moje
+      vačky rástli, rástol i hnev a nenávisť mojich spoluhazardérov.
+   </tei:p>
+   <tei:p>
+    Keď sa mi už šťastie zase dolu vrchom kloniť začalo, pohol som rozu-
+      mom, vylúštil som sa po namáhavej práci skoro na handru roztlačený
+      z prešu von.
+   </tei:p>
+   <tei:p>
+    Po tlačovom priestupku, a či výstupku, šťastím navnadený pustím sa
+      voľne prúdom, nesúcim ma k hustému kruhu: bola to hrádza do kolesa,
+      ľudský živý plot.
+   </tei:p>
+   <tei:p>
+    Vprostred tohto plotu stál Arbaces, vysoký, suchý, červenovlasý, pe-
+      havý, navlas anglickému gentlemanovi podobný vážny cingisiar, po-
+      hrebný kurátor a Liegerhoffer — per omnia tria genera, - v jednej a tej
+      istej osobe, a ešte i bankier k tomu! Hľadajúc dieročku, kde by mohol
+      toto ľudskou húšťavou obtiahnuté tajomstvo preniknúť, behám ako kura.
+      v klonke, kolom dookoh, ale nič. Medzi inými stojí zavalený, vypučený
+      Bampelino, richtár z Nemeckej. Na zadku, cez hrubé mäso, mal nie bez
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    koketérie kosom prepnutý pevný remeň z nohavíc. To by bolo - pohnem.
+      rozumom, vyložím nohu do remeňa ako do strmeňa a vyšvihnúc sa
+      hore, kukám do čarodejného kruhu. Tam vidím veľký okrúhly stôl čia-
+      rami a číslami poznačený, podobný tomu, čo cestovatelia obzerajú v La-
+      xemburgu od doby Márie Terézie, vystavený v hrdelnej veži tam nad
+      temnicou. Na číslach rozkladané sú rozličné veci: lyžice, piksle, nože,
+      fajky i - tri dukáty, ktoré však nikdy a nikto nevyhral, a tri kocky, ktoré
+      spomenutý už dumný Arbaces rozhadzoval.
+   </tei:p>
+   <tei:p>
+    A to bolo dobre. Lebo predtým, keď chudobný človek dukát aspoň
+      vidieť chcel, šiel do Radvane, do toho chýrečného Monaka, šiel k sto-
+      lu pána - Liegerhoffera, a spasená mu bola duša, lebo jeho oči videli,
+      a to tri dukáty in natura, a narobil si zadarmo slinky. Teraz? - „Meghalt
+      Liegerhoffer, oda van a dukát!“ Teraz, vďaka našim vládnym systémom,
+      celé pokolenia vymrú bez toho, žeby boli videli dukát.
+   </tei:p>
+   <tei:p>
+    Oči všetkých divákov tohto kruhu vyvalené boli na dukáty. Pokoj,
+      svätá napnutosť, len vzdychy -„hihí, dukát!“ - šeptom vytisnuté bolo.
+      počuť. 1 mne začali tiecť slinky ako mäsiarskemu lapajovi. Keď však môj
+      tátoš, namrzený nad neočakávanou chrbtovou akvizíciou, začal zadkom
+      vyhadzovať, vypustil som opraty, to jest kečky, za ktoré som sa držal, a —
+      dukáty, Arbaces a všetky jeho poklady zmizli mi z očí.
+   </tei:p>
+   <tei:p>
+    Zišiel som sa s dvoma spolužiakmi a tí ma volali k spomenutej už
+      ovocine. Hľadeli sme kúpiť čím najviac a najlepšieho i najlacnejšie-
+      ho ovocia. Išli sme rad-radom popri všetkých košoch, koštujúc všade
+      a nekupujúc nikde. Už sme po tretí raz tú túru šťastlivo a s dobrým
+      prospechom začali, išlo to dobre, až sme prišli k jednému krupinské-
+      mu mešťanovi. My sme svoje plány, aby nás nerozumel, latinsky, lingua.
+      eruditorum, pretriasali. Pán Krupinčan, bývalý školár piaristov, načúva,
+      ako sme si rozprávali: ego iam gustavi ter, et ego guater, potom šmahne
+      rukou ponad kôš, očistom akoby osy oháňal, a nášho kamaráta a fura-
+      žierskeho veliteľa chmat za vlasy a vyzváňa, vyzváňa mu kotrbou ako-
+      by na nešporoch: „Ter? Ouater? - No salve, fráter.“ My dvaja asistenti
+      nedočkali sme rezultát tej kvaterky: vidiac, že mu parochňu dokonale
+      cupká, stratili sme sa ako gáfor.
+   </tei:p>
+   <tei:p>
+    1 tu ma potom ešte osud znepokojoval. Ako sa popod čierny dom
+      poberám, vyfrkol práve oblokom - našťastie nie zvysoka — barboráš i
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    s barborou, táto vopred a on za ňou. Pri hraní zaspal, chudák, chcel sa
+      oprieť o stenu, ale sedel pri okne a tak sfrkol na ulicu práve k mojim
+      nohám. Nestalo sa mu nič, len čo hlavou basétlu prebil.
+   </tei:p>
+   <tei:p>
+    Ešte som na ceste nakúpil pár farebných skleníc do daru domácim
+      a kúpu popchal som do kaputa.
+   </tei:p>
+   <tei:p>
+    A keď som už všetko videl a skúsil, pobral som sa umorený na tele,
+      nadšený na duši domov. Najhoršie mi zase išlo na „ponte dei sospiri“.
+      Tak ma stisli, že zo mňa skoro mlieko tieklo. Keď som už prešiel hrnčia-
+      rov, išlo to potom ako po breznianskej bryndzi.
+   </tei:p>
+   <tei:p>
+    Aby som vyhol prachu, podal som sa hore pri jezuitskej záhrade
+      chodníkom cez šibeničný kopček. Vtedy tam ešte stáli znamenité, veľmi
+      komfortable šibenice o troch stípoch, všetko to solídna robota, ako to
+      vravievali: „I pre naše detné deti.“ Traja mohli naraz na nich pohodlne
+      visieť, bez toho, že by jeden druhého čo najmenej boli inkomodovali.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    Škoda - ten pomník hrdúsenia už od tých čias pováľali. Šibenice zmizli,
+      šibenci ostali!
+   </tei:p>
+   <tei:p>
+    No ale kam sme prišli s našou rozprávkou? - Pod šibenicu, veru pek-
+      ne! - Tuto, v tvári peknej prírody, lebo k väčším útrapám odsúdencov
+      stavali popravisko na najvýhľadnejších miestach, a tak v tvári velebnej
+      prírody a v tvári znaku zákonnej prísnosti začnem prezerať jarmočné.
+      Orlík voľačo doniesol, čo tým divnejšie, že ten dvojhlavý vtáčik obyčajne
+      odnášal. Skúmam ďalej vačky. Sklenky domrvené na črepy. Na „ponte
+      dei sospiri“ mi ich dodrvili. A črepy, tam na viselniciach pochované,
+      ležia podnes ako budúca hádka archeológom.
+   </tei:p>
+   <tei:p>
+    A tak hodiac ešte raz okom na radvanskú agoru, poberal som sa ad
+      lares.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

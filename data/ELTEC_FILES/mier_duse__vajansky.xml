@@ -1,0 +1,2518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1881710" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Mier duše : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:12321448">
+     Vajanský, Svetozár Hurban (1847-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     13709
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:12321448">
+      Vajanský, Svetozár Hurban (1847-1916)
+     </tei:author>
+     <tei:title>
+      Mier duše
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher/>
+     <tei:date>
+      1881
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Mier duše
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Bolo juniové ráno. Po úzkom chodníku krí
+          vo vkusnom obleku, ktorý napriek svojej stroj
+          dámy aspoň, počitujúce
+          ukto v spoločnosti. Naž veď o
+          oko. Slnko prá
+          neprepi
+    </tei:p>
+    <tei:p>
+     a mladá ženská
+          i na neďbalky
+          dobrým“ stavom,
+          nemusela báť sa,
+          , chode za-
+          Na ďateľine visely
+          Tie a bola
+          ny chodníčka
+    </tei:p>
+    <tei:p>
+     neukazujú si
+          Ž stne |
+    </tei:p>
+    <tei:p>
+     š &gt; oblaky a
+          šedé kvapôči Vy )
+          tá samá, jako nárva oblakov na vý
+          stála raž, zelená ešte, nedávno len vykl:
+          trepotalo vý: . Ponad hlavou včasnej pútni bol. divý holub
+          svojím priamym , "tuhým letom. Za chvíľku nasledoval " druhý.
+          Iste párik.
+    </tei:p>
+    <tei:p>
+     Chodníčok medzi roľami ústil do lúky. Malinké topánočky ne-
+          dovolily dáme ďalej — sotva pokročila do trávy, hneď pocíti
+          vlhkosť rosy. Preto zastala, a obrátila sa k roliam. Jaká krása z):
+          vila sa jej očiam! Na pravo tiahto sa vysoké pohorie — ľah
+          mhla ležala v bokoch horských: velikánov a liezla po jich
+          Biele steny dedinských domkov odrážaly sa od zeleného
+          poľn Ú paky prah polnej © vtekal do doliny. Na ľavo neprehľadná
+          šeného stanov ná ktorom zastala, mohla dobre po-
+          ť, jako sa rovina tratí bez stopy v diaľke. Pred ňou ležala
+          dedinka s pekným prízemným domom až pripekným pomerne
+          ku svojim susedom. Veľké obloky obrastené boly divým viničom,
+          ktorý ťahal sa až na strechu. V zahrade svietily na, tyčkách skle-
+          nené gule, biele, červené a belasé. Bol to dom panský, ktorý pred
+          chvíľkou zanechala.
+    </tei:p>
+    <tei:p>
+     Eugenia Malinská bývala tam u svojho strýca, Jána Hrabovca,
+          ktorý ju pritúlil po hrozných zkúškach života. Ešte v útlom veku
+          vydali ju za Malinského, ktorý vedel svoje zhubné náruživosti
+          ul otiť len za ten , keď sa o jej ruku uchádzal. Krátkozrakí
+          rodičia dali sa omámiť skvelému menu: Eugenia odohnaná bola
+          takmer od bábik a vedená k oltáru. Skoro po svadbe ukázal Eduard
+          Malinský svoju opravdovú prírodu. Prvá, mladosť spolu
+          s celým majetkom Eugenie stala sa obel nehodného.
+          Po trojročných mukách osvobodil biednu stvoru sám jej tyran...
+          zbroviac a ženinho imania. il sa... Už na druhý rok
+    </tei:p>
+    <tei:p>
+     či. omreli náhlo) a ešte neprekro-
+          prestala robiť nároky. Prvé časy po
+          jej jakási mrtvá resignacia. V ti-
+          nnom dome strýcovom , vyslu-
+          a sa spoločnosti. Bola zabitá a uní-
+          ženú. onská rých bola pokorená, šťastie zničené, postavenie!
+          s lačenel ké neisté, neurčité .... Avšak behom času hlásila sa
+    </tei:p>
+    <tei:p>
+     vota, na ktorý
+          odchode Eduardovom zmocnila
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     4.
+    </tei:p>
+    <tei:p>
+     žité okamženia obtáčaly sa do
+    </tei:p>
+    <tei:p>
+     mladosť k svojmu právu. Hrozné pri
+          sila sa z temného zamretia,
+    </tei:p>
+    <tei:p>
+     mhly .... vnútorná. životná sila kri
+          Eugenia počala dýchať.
+    </tei:p>
+    <tei:p>
+     Ján. Hrabovec patril k dedinským politikasterom, ktorý pre
+          samé stoličné intrigy zabudol sa oženiť, zabudol múdre upravovať
+          so svojím nemalým "majetkom, ale nezabudol nikdy kandidovať pri
+          najmenšej príležitosti na tie najrozmanitejšie úrady a hodnosti, keď sa
+          uprázdnily. Jeho sestra, Karola, riadila domácnosť pomocou starého
+          Fridricha Kremeňa, ďalekého príbuzného, ktorý pocestoval bol v mla-
+          dosti Nemecko, a zavádzal do hospodárstva novoty, stojace mnoho
+          peňazí, ale o jíchžto užitočnosti bol iba sám presvedčený. Tak dal
+          dopraviť sejací stroj, dobrý do rovín a do mäkkej pôdy, avšak ne-
+          súci na naše vršky, ktorý sa pri prvej sejbe tak dokonále porúchal,
+          že ho nevedel vyliečiť žiaden zámočník na desať štvoročných míľ
+          v okruhu. Dlho stal pod kôlňou, až sa nad jeho zubami a okutím
+          smilovali cigáni , nákuli klincov a predávali Fridrichovi tucet
+          za groš! Pani Karola záto bola príkladnou hospodinou.... ona bola
+          i najboha! v celej Hrabovcovskej familii. Jej otcovský podiel bol
+          nenarušený a zriastol ešte testamentom nebohého manžela, ktorý
+          ju odomrel pred pätnásti rokmi. Vo veľkej škrini, po matke zde-
+          denej, chránila svoje papiere a vedela jich obrániť od všetkých ná-
+          padov bratových. „Veď nevezmem nič do hrobu,“ hovorievala, „ale
+          zakiaľ žijem, chcem byť paňou.“ Jej panstvo pozostávalo iba v po-
+          domí, že niečo má — užiť neznala svoje dôchodky, ale prikladala
+          jich ku kapitálom. N
+    </tei:p>
+    <tei:p>
+     Eugenia Malinská dlho kochala osťou rána. Šedé oblaky
+          vyzí vihly sa do výše a slnko zasvietilo jarko. Rosa na ďateline
+          ziskrila sa, ka ila sa razom na diamant. T ten
+          škrovánok počal ves) e švitoriť : stily ho slnečné žiare jako
+          tú rosu. Mlly roztavily sa a celý kraj prijal jarejšie rysy. Tvár
+          Eugenie bola. svieža jako to ráno. Nežný rumenec sadol jej na líce,
+          veľké, snom občerstvené oči žiarily veselo. Iba okolo úst sídlil
+          ľahký tieň prestátych bôľov. Mladá pani žiarila vo vyvinutej kr:
+          ktorá dala zabudnúť pel prvých, snivých liet. Jakási neha dýchala
+          z jej osobno: bolo znať, že ačpráve prešla školu života, že to
+          bola škola. živelných pohrom, zovnútorných nerestí, ktoré ešte ne-
+          uspely zvíriť dušu v jej hlbinách, ktoré dotkly sa síce bôlne citu,
+          ale nevládaly roztrhať dušu a hodiť do sožierajúcej vášne. Nešťastie,
+          ktorému sme sami príčinou, žerie viac útroby naše, než neresť,
+          ktorá k nám pristúpila náhodou alebo vinou iných. Manželstvo jej
+          bolo nešťastné. Ona podala Eduardovi ruku, sotva že prekročila
+          pätnásty rok, a vtrhnutá bola z detinského sveta v dísnatú, ne-
+          peknú skutočnosť. Nežila ale vegetovala. Vývin jej bol jakosi pre-
+          trhnutý, zastavený možno k šťastiu. Jako nešla za Eduarda
+          7 lásky, tak si ho ani vážiť nemohla. Celú híbku takéhoto nešťast
+          ani nepochopovala, pokým on zúril proti nej a sebe. Avšak živý
+          cit povinnosti pútal ju k nemu. Marné boly všetky námahy rodičov
+          pretrhnúť nešťastné spojenie. V úzkosťach očakávala muža, z buj-
+          ného hulania, na kolenách prosila. ho, aby premenil svoj Až
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     "konečne sám on pi äzky, cítila i ona jakési obľah-
+          čenie. Papršlek svobody rade. jej v dušu, život počal k nej bl
+          pristupovať, ale život okaličený, necelý, otrávený.
+    </tei:p>
+    <tei:p>
+     „Tak skoro vstáva milosťpani!“ ozval sa za ňou sonórny hlas.
+          Eugenia sa trhla a pokročila (dva kroky napred, bez toho, žeby
+          sa. ozrela.
+    </tei:p>
+    <tei:p>
+     Veď sa snáď neľakáte dobrého suseda,“ pokračoval vysoký
+          mladý muž, hodiac pušku cez rameno. dumy vaše ranné mu-
+          sely byť veľmi hlboké! Brodím lúkou a krok môj nepatrí k ľahkým,
+          vy ste však nič nepočuly. Dosaváď som myslel, že mladé dámy len
+          pri mesiačku upadúvajú do sentimentality. Na vás, jako vídím,
+          účinkuje i mladé, jasné slnko jaksi podumne! Spievať, zav.
+          svedčalo by za tak krásneho rána.“ A mladý muž
+          Z plných prsú, až sa ozvaly neďaleké hory. Jeho vysoké čižmy boly
+          mokré od rosy. Na barnavej tvári žiaril úsmev. Mladá sila len tak
+          kypela z jeho mohutnej postavy. ( v posunkoch mal niečo prísno
+          určitého, nezlomného. Keď hodil rukou, bol si presvedčený, že by
+          ona, bola. zlomila každý odpor. I hlas jeho bol v prirodzenom svo-
+          jom tečení silný a menil sa v hrmotný, keď vravel s citom alebo
+          v hnove. Sú to všetko vlastnosti, ktoré nezodpovedajú povšednému
+          ženskému vkusu, ktorý zväčša Ipí na povrchnosti. ma Eugenia
+          nebola milo dojatá neočakávaným stretnutím s Aristidom Soko-
+          lon, ktorý nadto stál vo večnej potížke so m Hrabovcom, rád
+          sa posmieval ženským a málo kedy nosil nákrčník. I výrazy jeho
+          neboly vždy so zvláštnou jemnosťou volené, ba prihodilo sa, že
+          časom i hurtovne zahrešil, nehľadiac na prítomnosť nervósnych dám.
+    </tei:p>
+    <tei:p>
+     Aristidov novofoundlandec, priblížil sa k Eugenii, vystrel predné
+          dlapy a položil na ne svoju krásnu veľkú hlavu, ktorej srsť ligo-
+          tala sa“ v lúčach ranného slnka. „Osman, Osman,“ zavolal na psa
+          pán, „nože neľakaj spanilú susedka! Dosť keď to urobil tvoj ne-
+          galantný pán!“
+    </tei:p>
+    <tei:p>
+     Eugenia zohla sa a pohladila svojou krásnou rukou hlavu
+          Osmanovu. Bolo znať, že to činí v rozpakoch.
+    </tei:p>
+    <tei:p>
+     Aristid zasmial sa hlasným, srdečným smie:
+          voľnými vlnami z pís. Tak smeje sa iba zdravý
+          tele i duši.
+    </tei:p>
+    <tei:p>
+     nom, vystupujúcim
+          lovek, zdravý na
+    </tei:p>
+    <tei:p>
+     mňa!“ Ar
+    </tei:p>
+    <tei:p>
+     e
+    </tei:p>
+    <tei:p>
+     tu najde!“ prehovorila koneč
+          rumenec a vážna, tichá melancholi
+          Kde že tak zavčas?“
+          ím sa budúcej úrode! Hia, milosťpani, vy
+          ijeme vo svojich
+    </tei:p>
+    <tei:p>
+     a nazdal,
+          Eugenia, z ktorej líc „mi
+          sadla na pravidelné jej
+    </tei:p>
+    <tei:p>
+     „Pozerám pole a ti
+          nepochopujete sedliacke rad
+          a vo svojich hoviadi s som obrazil
+          Nuž ale tak Môj „ ktorý tak zdarne tie, je mi tak
+          milý, jako vášmu strýcovi nadžupanova pochvala alebo vám vodový
+          Marlittovský román. " Zato ale postrádame sťastie obľúbenými byť
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     346
+    </tei:p>
+    <tei:p>
+     pred vašimi jasnými očiami. Voľba je síce ťažká, avšak konečne
+          len predsa ten býček zvíťazí.“
+    </tei:p>
+    <tei:p>
+     Eugenia cítila nevrlosť. Samota za krásneho rána tak hojive
+          vplývala“ na jej ešte celkom neuspokojenú dušu. Harmonia prírody,
+          ten jarý život zôkol-vôkol, ten odmeraný tlkot tepny vniesol ju do
+          spokojného, ba skoro hlahého pocitu. Ona ssala chladistý vozduch
+          rozkošno, zabudla na bôle, vyhodila zo srdca všetky starosti.
+          A v takomto zriedkave šťastnom rozpoložení ducha pobúril ju
+          Aristid, ktorého pohľad jej bol príostrý. Z jeho očú svietil
+          posmech a tajný úprek. Čo jako smelo hľadela do očú strýca a te-
+          tušky,. čo jako cítila svoju nevinnosť, v prítomnosti Aristida, jeho
+          otvoreným, voľným chovaním cítila sa byť ztesnenou, nevoľnou, ba
+          vinnou. V jeho prítomnosti zkysly pred dušou mladej ženy desné
+          obrazy. Ukázala sa jej vychnlá postava Eduarda, jeho upadlé oči,
+          odryvisté, temné „ jeho nepokojné kíčovité pohyby, jeho nízke
+          smýšľaní: .„ a tie nevysloviteľné muky, ktoré pocíti jemnej povahy
+          žena, pripútaná k boku zverského muža. Jako to nemohol pozoro-
+          vať. bystroumný Aristid? Jestli pozoroval, kde že nabral tej tvrdosti
+          a. škodoradosti, tešiť sa na útrapách ženy, ktorej celú historiu tak
+          dobre poznal?
+    </tei:p>
+    <tei:p>
+     „Už ma budú čakať k raňajkám,“ riekla Eugenia rýchlo a po-
+          dala mladému mužovi ruku.
+    </tei:p>
+    <tei:p>
+     "„Smiem vás odprevadiť?“ pýtal sa vážnejším už tónom. Snáď
+          pózoroval tieň, ktorý zasmužil jej tvár.
+    </tei:p>
+    <tei:p>
+     »„ Veď je chodník tak úzky.“
+    </tei:p>
+    <tei:p>
+     „Dosť pre nás troch,“ s úsmevom poznamenal Aristid a, pobral
+          sa za ňou. Krok Ženkin bol jako beh dlhých morských vln: ona.
+          išla bez šumu, v okrúhlych liniach. Junonská jej postava vlnila sa
+          tak reknúc, hlávka pohybovala sa k predku labutím pohybom
+          a sa u ženských v chode. Jaký rozdiel je medzi
+          trhlým, nestálym chodom mlade streny a nepovedome
+          prelestným cupkaním privodzeného decka, ktorému mať príroda
+          vdýchla nežnosť a sviežosť?
+    </tei:p>
+    <tei:p>
+     V zahrade pod veľkým orechom stál už bielo prikrytý
+          s raňajkami. Karola netrpelivo očakávala svojich. Mladá. slu:
+          Marka, v modro enke so spustenými vrkočami bežala prícho-
+          dzím oproti. bovec vytrčil šedivú hlavu z obloka. Zlatá
+          kvasla jeho nočnej čiapky odvisla na ľavo. Zakašlal hrmotne a zmi-
+          znul v izbe. O chvíľu prišiel Kremeň a sadol ku káve. Aristid sa
+          s ním privítal a natiahnuc. sa, zavolal do obloka: „Pán sused ešte
+          v perinách! Krapinová. vám odpadla! Muzika len tak hučala celú
+          noc na slávu Wernero
+    </tei:p>
+    <tei:p>
+     „Zprepadené Nemčisko!“ zahrmel Hrabovec a vystri
+          z obloka. Oči mu blís „ fúzy mal naježené, ba
+          nite kvasle na čapici zdaly sa ježiť.
+    </tei:p>
+    <tei:p>
+     „Zenka, Ženka!“ zavolala. tetka Karola na Malinskú, ktorá išla
+          sa preobliecť do svojej chyže. Keď prišla k spoločnosti, bola oble-
+          čená v čierne šaty, ktoré zdvíhaly belosť jej tvári. I tie oči zdaly
+    </tei:p>
+    <tei:p>
+     stôl
+    </tei:p>
+    <tei:p>
+     1l zas hlavu
+          i zlaté
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     347
+    </tei:p>
+    <tei:p>
+     sa byť väčšie, jasnejšie. Silný vrkoč vinul sa jej okolo hlavy na
+          spôsob diademu. "
+    </tei:p>
+    <tei:p>
+     Hrabovec vylúpil sa konečne z diery. Sotva pozdravil Sokola
+          a sadol do drevenej stolice s ramenami. Dlhú fajku, už napchatú
+          a. prichystanú, oprel k sebe o stolicu.
+    </tei:p>
+    <tei:p>
+     „Veru tak,“ tichým, nápadne tichým tlmeným hlasom obrátil
+          sa Aristid k Hrabovcovi: „všetky vaše námahy išly do vetra.
+          Vin: už ti krúti, Pitelesovi vypovedal Werner arendu, tam
+          k! Sedľač pije až sa hory zelenajú! Íljen Verna! počul som
+          už i v Žlabinej. V Rástokách vej herova. zástava na richlár-
+          skom dome, o vašom Kropáčim ani chýru.“
+    </tei:p>
+    <tei:p>
+     Sokol pokazil Hrabovcovi raňajky. Bol on tuhý prívrženec
+          Kropáčiho pri snemovej voľbe — prečo, nevedel sám, veď jeho
+          protivník Werner bol práve taký mameluk jako Kropá Musíme
+    </tei:p>
+    <tei:p>
+     uznať, blahorodnosť Hrabovcovu: pre nízke osobné záujmy nevrhol
+          sa do prúdu agitačného, ale ani pre vy idey a skalopevné pre-
+          svedčenie. Jemu väzela kortešacia v krvi, ináč nemohol. Cez celý
+          čas bezvolebný bol lenivý, ospalý, ba apatický. Keď sa ale blížil
+          volebný ruch, ožil a osvležel jako kapr, ktorého nazpak do vody
+          hodia. Celá jeho postava zprímila sa, nozdry jeho nosa. ro:
+          oči dostaly blesk. Uňho bola kortešačka šport: a jako vieme, pa
+          ona medzi tie drahšie športy, bárs nasl nie medzi šľachetné.
+    </tei:p>
+    <tei:p>
+     Ani nestačil Hrabovec pokojne vykúriť svoju dymku, už
+          priahať. Ostatní sedeli ešte v stíne orecha, keď on už vyšiel vy-
+          fintený z izby. Striebrom kutú palicu držal povedome v pravej ruke,
+          ľavou si krútil fúzy. Mladistvou silou vysadol na bryčku a zmiznul
+          bez odbierky z očú svojich ľudí.
+    </tei:p>
+    <tei:p>
+     „Starý chlapec!“ poznamenal Aristid dosť nezdvorile. „Títo
+          naši ľudia. prichádzajú mi jako chlapci, hrajúci sa na pandúrov a
+          zbojníkov. Hračka, hračka je to všetko. Rád bych vedel, jaký je
+          rozdiel medzi Wernerom a Kropáčim? Werner je tajný úžerník a
+          Kropáči je defraudant! Pravda, subtílny defraudant, ktorý kradne
+          poctive, blahorodne. Biedne kreatúry! Zabudli cnosti starých čias
+          a naučili sa iba podlosti nových. Či sa vyplatí Hrabovcovi, ktorý
+          je muž tný, márniť sa pre jednoho z týchto oblažovateľov tej
+          takzvanej vlasti? Keby radšej plel svoju repu a oral svoje role!“
+    </tei:p>
+    <tei:p>
+     „A prečo sa pán Sokol zaujíma za Ladislava Toryského ?“
+          ozval sa Fridrich Kremeň, namočiac kus cukru do vodového pohára.
+          Oči jeho uprely sa tázave na Sokola, cukor podržal niečo viac
+          jako mal, ten sa rozmočil, utrhol a padol na dno pohára. Drobné
+          perličky vystupovaly rýchlo hore vodou.
+    </tei:p>
+    <tei:p>
+     „ Ňezaujímam sa tak veľmi! Avšak pi iel robiť medzi
+          ľuďini rázu Toryského a medzi hubačmi rázu Kropáčovského. To-
+          ryský pochopuje zastupovanie ľudu nie pätou, ale duš Toryský
+          bojuje slovom a nie špiritusom, Toryský miluje ľud, o ktorého dô-
+          veru sa uchádza, vy však všetci, i s Hrabovcom, ľud ten opovrhu-
+          jete, nenávidíte! Ja vyznám, že sám necítim s týmto ľudom é
+          sympatie. Mňa vychoval cudzí svet a cudzie pochopy doniesol
+          sem. Preto ani nežiadam, aby mňa ľud ten nosil na rukách a kri
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     348
+    </tei:p>
+    <tei:p>
+     mi íljen! Hanbil bych sa jako pes, kebych si mal kupovať takéto
+          pokriky! Ja mu dávam jesť, ja učím ho 0 pár colov hlbšie orať,
+          zaopatrím mu lep: semeno (pravda, nie darmo) a s tým basta!
+          vyského volajú panslávom! Eh bien! Nech si je treba Raráškom
+          z horúceho pekla, ale je entusiastom za svoj ľud! To si treba vážiť!
+          ša tak zvaná intelligencia je hnusná zberba, nemajúca ani toľko
+          oprávnenia na. je tvovanie ko hen tá kopriva, ktorá tak bujno
+          ovíja veľkopanský plot! Čistili by ste radšej svoje dvory!“
+          Krone. sa roz lil. „Zase profes: orujete, pane sus
+    </tei:p>
+    <tei:p>
+     keď choete to prekonať, čo som prekonal ja!é
+    </tei:p>
+    <tei:p>
+     „Tridsať rokov robiť hlúposti, nestojí ani deravý groš!“ silným
+          hlasom zahrmel Sokol a vstal. Tvár jeho podbehla ľahkým rumen-
+          com. Bol veľkým nepriateľom prázdnych slov. Kremeň nevydržal
+    </tei:p>
+    <tei:p>
+     jeho nápadu. Ochabol a ztíchol. Karola, pohla sa nepokojne na stol
+    </tei:p>
+    <tei:p>
+     Eugenia, nemilo dotknutá hrmotným rozhovorom, oprela sa 0 ope-
+          radlo stolca a hľadela, úporno pod stôl. Už chcela brániť svojich
+    </tei:p>
+    <tei:p>
+     pokrevných, ale nevládala — silná príroda Sokolova držala myšlienky
+          v úzde. Nevdojak cítili všetci mocný vplyv tohoto podivného člov ch
+    </tei:p>
+    <tei:p>
+     „Medveď,“ pomyslel si Kremeň. „Ešte i panslávov opováži s
+          zastávať,“ pomyslela si Karola, pyšná na svoj zemanský pôvod.
+          Ženka cítila tesknotu, ba jakúsi bázeň, ale určitá myšlienka nezkrsla
+          v jej hlávke.
+    </tei:p>
+    <tei:p>
+     Aristid Sokol sobral sa. Rychlým krokom šiel chodníčkom
+          k lúkam. Slnko bolo hodne vysoko, blesky jeho vypily už rosu.
+          ky zmizly za obzorom a jasné nebo smialo sa vo svojej letnej
+          Divé holuby vracaly sa z dediny. Sokol ztrhol pušku z pleca,
+          namieril a v tom ozvala sa rana. Holúbok, máchajúc už len jedným
+          krýdeľkom, padol do ďateliny.
+    </tei:p>
+    <tei:p>
+     „Tyran,“ zašeptala Ženka, „nemá smilovania nad úbohým
+          tvorom! Načo mu smrť tohoto vtáčka?“
+    </tei:p>
+    <tei:p>
+     Kremeň šiel do dvora k sluhom. Marka hádzala husom zelinu.
+          Dvor Hrabovcov nebol v najlepšom stave. Polámané pluhy, vyši
+          bené brány ležaly kr žom pred hospodárskymi stavbami,
+          veľmi solidne stavanými. ého chliev, vystrkovaly rypáky
+          tri svine, neošarpané teľa behalo dvorom. Lenivý starý paholok
+          sedel na prahu kravskej maštale a koval kosu na malej nákove
+          vbitej do špalku. Keď spozoroval Kremeňa, počal rýchlejšie tleť
+          kladivkom, i cvengot bol živší a ráznejší. Kremeň pozrel do koň-
+          skej stajne: z tmy zarechtalo naňho žrieba a strčilo hlavu medzi
+          mreže (vier. Spokojnou tvárou vrátil sa Kremeň do zahrady a sa-
+          «lol do kresla. Panie boly už preč. Hlava starého ekonomova po-
+          čala sa kloniť k predku. Zaspal.
+    </tei:p>
+    <tei:p>
+     „Marka,“ zavolal tichým hlasom sedliak, s kosou na ramene,
+          oprúc sa 0 nevysoký parkan dvorový. Marka odhodila ľavou rukou
+          vrkoč z pís a hádzala z opalky ďalej zelinu husom, ktoré so šte-
+          botom strkaly hrdlá do Iromady. Jedna húska, sa nasrdila na druhú,
+          ktorá jej uchytila zpred zobáka potravu, zagágala. a chytila kmíuku
+          za vrch hrdla. Biele pierka rozletely sa. dvorom.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     38
+    </tei:p>
+    <tei:p>
+     . Marka,“ opätoval šuhaj, vysoký, peknotváry Pavel Ruža, slú-
+          žiaci u bohatého sedliaka Maztina Kalinu.
+          Tu sa Marka ohliadla. „Čo chceš, Pavle? Choď po svých!“
+          „Príď na nedeľu k muzike, Marka, mne je už Túto!“
+    </tei:p>
+    <tei:p>
+     . &gt; Nepatrím už medzi vás!“ pohodila ľahko Marka : „obsluhujem
+          pani veľkomožnú! S Pánom Bohom, Pavle, choď len k Zuze, ktorej
+          si dal voňačku.“
+    </tei:p>
+    <tei:p>
+     „Ale, Marka, veď mi je Zuzka rodina! Nesrď sa! Prijdi!“
+          Marka neodpovedala, hodila husiam ostatnú hrsť a zmizla
+          „v dome. ľavel Ruža, hľadel smutno za odchádzajúcou. Jej suknička
+          strojne sa opálala a šumela. okolo korďovánových čižmičiek. Odkedy
+          odohmali chyžnú Nemku pre ztratené strieborné ližice, prestala
+          Marxa boso chodiť, obsluhovala obe panie dosť zručne. K ťažkej
+          robote najatá hola iná. Iste ztadiaľ tá pýcha proti dobrému Pavlovi.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Aristid Sokol prišiel na obed domov dosť namrzený. Býval
+          hodinu od Hrabovníka v dedine Kokavka. Dedina 1 vúzkom
+          áreze, pretekanom bystrinou, ktorá svojími kryštálovými vlnami
+          ťahala jeho stupy, mlyn a malú síce, ale dobre sriadenú papiereň.
+          Za zárezom prestieralo sa pole mierno zvlnené navršiami. Tu bola
+          jeho orná pôda v jedon kus zcelkov: el dole bystrinou,
+          z oboch strán obrastlou olším, zjavil ktoré teraz stály
+          /eleň uhá, až oku ľaho-
+          človek cíti pri pohľade na krásnu lúku sosilnenie očných nervov.
+          Sokol pestoval lúky so zvláštnou pozornosťou a pilnosťou, v čas
+          1álami, ktoré dľa vlastného plánu založil.
+          dar, hovorieval, „vďačná jako krava, pekná
+          jako ovca.“
+    </tei:p>
+    <tei:p>
+     a dom, smodernisovaný novým pánom.
+          Dolvá čiastka náležala eladi, v poschodí býval pán. „bližej neba,“
+          jako sa vyslovoval. V jeho pracovnej izbe vyzeralo to jako v malom
+          arsenáli. Po stenách visely pušky a pištole najrozličnejších tvarov,
+          handžať oval sa s tureckou krivuľou, indiánsky luk s tulom
+          susedil svorne s revolverom včerajšej konštrukcie. Ba i krátky osten
+          Eskimákov a tomahavky delavavské boly tam neďaleko budzogáňov,
+          jakými prebíjajú si Negri vzájomne kučeravé hlavy. Krásne vyro-
+          bené kože divých zverov a dve veľké hrká. z kondora doplňovaly
+          sbierku.
+    </tei:p>
+    <tei:p>
+     Aristid mnoho zkúsil v živote. Povrehný pozorovateľ nebol by
+          uhádol, že tak mnoho búr prehrmelo nad hlavou tohoto veselého,
+          jarého muža! A predsa zkúsil viac, než ktokoľvek v tom kraji.
+          Synovi bohatých rodičov pozvolené bolo žiť v meste universitskom
+          na samostatnej nohe. Neobmedzená svoboda upevnila jeho ráz,
+          vdýchla na dušu jeho ten pel mužskej otvorenosti, naučila ho pa-
+          novať nad inými i nad sebou. Raz len popustil
+          a tu počal sa rad krutých zkúšok, lebo keď pomýli sa silný, teda
+          sa silno pomýli. Padol do tenat nemilosrdnej kokety.... horúca
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     350
+    </tei:p>
+    <tei:p>
+     fantasia mladosti ohlušila rozum i prosby dobrého otca. On schytil
+          sa s ňou svetom, nechal študia, zabudol na rodičovský dom a svoje
+          povinnosti. Po pol roku otriezvel v dolnej Italii, kde ho nechala
+          Zbožňovaná ženská, keď pozorovala, že sa o ňu zaujíma bohatý
+          cestovateľ. Domov sa vrátiť jako zablúdený syn — nedovoľoval mu
+          falošný stud. Šiel ďalej Netád rozprával o svojej desaťročnej
+          púti. Do hluku istého južno-francúzskeho mesta došla mu zpráva
+          o smrti otcovej. Tu ho schytila túžba po vlasti. Z výšin svojej
+          túžby uzrel svoj vrškovatý kraj — zalomil kolesá a letel rovno
+          domov — na mohylu svojho 01 Plač jeho nad sviežim hrobom
+          bol srdečný. dušu očisťujúci. Stará Kristína rozprávala mu o tom,
+          jako mu otec už dávno odpustil, jako v posledných hodinkách
+          modlil sa za jeho blaho. „Môj syn má v sebe zdravé zrno, on ne-
+          ztratí sa vo svete,“ hovoril pred smrťou starý Sokol: „a keď si
+          pohulá do vôle, prijde na môj hrob. 1 mňa nosily túžby ďaleko a
+          oko... konečne uznať som musel, ť, opravdove žiť možno
+          iba tu na tejto hrude otcov. I jeho čas prijde.“
+    </tei:p>
+    <tei:p>
+     - Stenčený majetok očistil od dlhov predajom istej čiastky hôr,
+          zariadil si vzorné hospodárstvo, použijúc múdre zkúsenosti pohnu-
+          tého života svojho. Z jeho hospodárskych strojov nekul more lacné
+          klince. Duševne zotavený, prilnutím k otcovskej pôde uspokojený,
+          ozdravený úprimným vyznaním svojich vín, neztratil nič z jasnoty
+          a priehľadnosti svojho svobodného rázu. Len v jeho chovaní pre-
+          rážal časom smelý, dobrodružný tón, ktorý sa tak podstatne líšil
+          od tónu, panujúceho u „inteligencie“ okresní Preto nepožíval
+          veľa lásky na okolí, najmä u žien, ktoré chodily jako obrázky, vy-
+          strihnuté zo starého módneho žurnálu, a predsa ztrovily polovičku
+          dôchodkov svojich mužov na. stuž) pky a hoďbáby. Mužovia ne-
+          dôverovali mu preto, že neplával večne v politike jako oni, a jestli
+          i zabrdol do politiky, teda kritisoval nebezpečno vládu a nadal sa-
+          mému nadžupanovi do chrapúňov. „Nič mu nenie svaté,“ hovorili
+          páni na županskej hostine po stoličnom výborovom shromaždení
+          odbývanej. A veru Aristidovi nebola ani ani len tá hostina svatou.
+          „To je vi hlavná robota,“ riekol raz na podobnej hostine hneď
+          po toaste županovom, keď škripely nože a vidličky po tanieroch.
+          „Narádzam vynechať nepotrebný prídavok výborovej porady a sísť
+          sa prosto k Čiernemu Órlovi.“ Mnohí zase držali ho za prívrženca
+          slovenskej strany, ktorá mala v stolici niekoľko ľudí. Jedným slo-
+          vom mnohí ho nenávideli a mnohí sa báli. „Vymreť musíte najprv,
+          šlendriani a omáčkoví ritýri,“ hovorieval často so smiechom, „jestli
+          má ožiť tento vami prznený kraj! Niet človeka v celej stolici,
+          čoby bol hoden deravú vindru. Tých málo rozumných, ale nevlád-
+          nych našiel som medzi panslávmi. Ale aj to sú babráci! Na zdravej
+          postati stoja a nevedia vás nihilovať! Na miesto, aby vám vykrútilí
+          slabé v! „, lietajú po oblakoch a plaz S nskych skalách !
+          Z toho tiež nič nevyjde. Až na česť a čistotu rúk, patria tiež do
+          starého železa, rechtori jakísi!“ A tu odpľul srdito.
+    </tei:p>
+    <tei:p>
+     „Máte hosťa, milosťpane,“ oznamoval na prahu sluha vchádza-
+          júcemu pánovi. Hosťa nenašiel Aristid v chyži, zato však neveľký
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     351
+    </tei:p>
+    <tei:p>
+     kufor ležal v sieni, pri ňom široká mapa. „Prosil, čiby si nesmel
+          tieto veci tu u ná ť, lebo nedôveruje krčmárovi židovi. Sám
+          aľe šiel k nemu na obed.“
+    </tei:p>
+    <tei:p>
+     „Zavolaj ho sem, Jane: uvidíme, čo to za ťažného vtáka.“
+    </tei:p>
+    <tei:p>
+     Sokol zložil pušku z pleca a povesil ju k dlhočiznému diafer-
+          danu. O nedlho prišiel hosť.
+    </tei:p>
+    <tei:p>
+     „Ľudovít Záhorec,“ predstavil sa. neznámy a vyhováral svoju
+          smelosť. Sokol uprel na príchodzieho strmý pohľad.
+    </tei:p>
+    <tei:p>
+     Hád som, keď vidím dobrú tvár,“ zahovoril veselo h
+          výkrutky a položiac mu ľavú ruku cez plec by.
+    </tei:p>
+    <tei:p>
+     Príchodzí mal naozaj dobrú tvár, jednu z týci ch, ktor
+          budia bezvýmiuečnú dôveru. Nebola pravidelne pekná, ale svit ži-
+          vých očú zjasňoval ju jakoby kúzlom. Mäkké ťahy splývaly v jasných
+    </tei:p>
+    <tei:p>
+     liniach. Za pol hodiny boli dvaja mužovia v živom rozhovoi Zá-
+          horec podal stručne svoj životopis a jeho slová znely základným
+    </tei:p>
+    <tei:p>
+     tónom pravdy, Bol professorom, lekári zabránili mu vyučovanie pre
+          slabosť pís. Šťastný bol natoľko, že mohol zákaz respektovať. Otec
+          Jeho zanechal mu veľký mlyn, ktorý toľko vymlel, že mladý učenec
+          nebol nútený hltať školský prach. | Nerád lúčil sa síce so svojím
+          povolaním, ale po niektorom čase spriatelil sa s voľným životom.
+          Počal oceňovať svoju nezávislosť, zimu trávil v meste a letom
+          cestoval.
+    </tei:p>
+    <tei:p>
+     Tam na ž
+          blúdiš svetom m
+    </tei:p>
+    <tei:p>
+     jazere napadlo mi: nuž ale, človeče, ty
+          zyk i nohy v mori cudzinstva, a svoj kraj
+          nepoznáš. Nu: al voju mapu — pardon, zabudol som vám
+          sdeliť, že som fušerom, natrhlým fušerom v kresličstve, ba i paletou
+          narábam z dlhej chvíle — a túlam sa po Hornom Uhorsku. Na-
+    </tei:p>
+    <tei:p>
+     o n6y
+    </tei:p>
+    <tei:p>
+     miesto italského hmyzu trápia ma tu v rodnom kr
+    </tei:p>
+    <tei:p>
+     I
+    </tei:p>
+    <tei:p>
+     a jich zápach — nuž ale všade sa niečo najde.
+          nikde som tak neokrial jako tu. Tatry majú
+          hovoria k nám ie, bezprostredne,
+          lepšie poslúcha tu. Okrem toho nestretn
+          s cestujúcim kollegom.“
+    </tei:p>
+    <tei:p>
+     „Dovolíte — vaše kresby —
+          „Nestoja za reč, neprevedené, púhe náčrtky
+    </tei:p>
+    <tei:p>
+     „Prosím, som nepovolaným priateľom umenia.“
+    </tei:p>
+    <tei:p>
+     Ľudovít doniesol svoju mapu. Pred očima umného Aris
+          otvorila sa drahocenná sbierka pôvodne kreslených, hlboko pocíte-
+          ných náčrtkov. „Súľovské skaly!“ zavolal udiveno: „ach, jaká
+          krásna, malebná skupenina skál!“
+          eď som za ňou liezol na skalinu jako kamzík!“
+    </tei:p>
+    <tei:p>
+     Veľmi páčila sa Aristidovi partia u Štrbského Ple: Badal,
+          že má pred sebou ochotníka síce, avšak nevšedných darov. Zvláštne
+          živo boly poňaté výjavy z ľudu. Tu spievajúci pasák nad Váhom,
+          tam skupenina. sedliakov idúcich z trhu a dobre ochmelených. Ari
+          stid videl tvorenie a potešil sa nad svojím hosťom. Cez celý týdeň
+          vodil ho po okolí, vliekol ho do ďolín, na skaly, do hlbín hory.
+          Ludovít pilno kreslil: keď mal jeho hostiteľ prácu v poli, sedel
+          doma, popravoval a doplňoval kresby. Časom, najviac nocou, sedel
+    </tei:p>
+    <tei:p>
+     láštny ráz, ony
+          i Alpy. | tužka moja
+          sa tu za každým krokom
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     352
+    </tei:p>
+    <tei:p>
+     pri stole a písal... O tom ale nevedel Aristid. Raz mal ísť ďaleko
+          do hory, a preto vstal o tretej. V izbe Záhorcovej sa svietilo. „Ba
+          či neonezdravel,“ pomyslel si a rýchlo vyletel po drevených scho-
+          doch ku chyžke. Zaklopal. Nik mu neodvetil. Pomaly otvoril dvere.
+          Hosť sedel pri stolíku a písal.
+          „Spať, spať, pane maliar,“ zavolal veselo. Záhorec pozrel rýchlo
+          na hodinky.
+    </tei:p>
+    <tei:p>
+     „Opravdu, už čas!“
+    </tei:p>
+    <tei:p>
+     „Druhí ľudia, teraz stávajú, keď páni umelci hrbia sa ešte nad
+          stolíkom. Čože máte takého pilného ?“
+    </tei:p>
+    <tei:p>
+     Ľudovít sa trochu pomiatol. „Ach, trápi ma časom myšlienka,
+          a. trápi tak dlho, počím ju nenapíšem (“
+    </tei:p>
+    <tei:p>
+     „Tedy i spisovateľ! Zase nové zvláštnosti u vás odkrývam. A
+          to ste mi ani neriekli!“
+    </tei:p>
+    <tei:p>
+     „Nestojí za reč! Vrtochy, nič i1 “
+    </tei:p>
+    <tei:p>
+     Medzi mužmi povstalo cez eň ozaj úprimné priateľstvo.
+          Umné, niečo fantastické reči Záhorcove bavili Aristida, jeho vrelý
+          cit rozprudzoval i v ňom krev. A tak nič nebolo v tom nemiestneho,
+          keď hostiteľ pristúpil k hosťovi a oprúc sa lahko o jeho plece,
+          hodil okom na papier. Skoro ale obanoval. Cítil, že to nebolo milé
+          Ľudovítovi.
+    </tei:p>
+    <tei:p>
+     „Ah! vy píšete po slovensky! Jaká to zriedkavosť od tak um-
+          ného človeka ! Mohol som to síce badať na spôsobe vášho vyjadrenia.“
+    </tei:p>
+    <tei:p>
+     „Casom — iba hračka,“ riekol Ľudovít, ale celá mocná struja
+          krve hukla mu do tváre! Tak ďaleko sme ešte, že umní ľudia, kt
+          nechcú lebo nevedia byť martyrami, začerveňajú sa, keď jich pri-
+          chytia pri slovenčine! Načo iť i Povinnosť básnikova
+          Ň el odblesk gkutočnos ti. sa nebude páči drahí
+    </tei:p>
+    <tei:p>
+     ž tak mnoho retro, ľ dá mi "Boh milosť,
+          ážem na chodník, po ktorom by kráčať mal náš spisovateľský
+          podrost. Asnáď nemilosrdné slová moje a bezohľadné odhalenie rán
+          našich bude blahonosným liekom! Keď na to myslím, preklínam
+          slabosť svojho pera. V mysli to varí sa a vrie divým klokočom,
+          v duši zrejú asmy, pred okom tmolia sa mi postavy života
+          nášho pekné i tné! Ale tá ruka moja slabá, ona hádže na papier
+          namiesto mäsitých, skutočných postav iba mdlé tiene. Nuž dobre,
+          snáď príde duch, ktorý vyplní moje kontury. Ano, Ľudovít hanbil
+          sa, keď ho pri hytil Aristid „pri „slovenčine, a predsa bola duša
+          Ľudovítova čistá i Ž
+          predpojatý a otvorený. Kde väz,
+          bezcharakternosti a slabosti.
+          Táto episoda odokryla pred zkúmavým okom šokola novú
+          stránku u priateľa. Dlho rozmýšľal o tom v horách, kde jeho ľudia
+          rúbali mohutné jedle. Nepi 1 k dokonalému vysvetleniu.
+          Medzitým, čo dvaja mužovi v dobrej shode, kolovaly okolím
+          pestré chýry o Sokolovom hosťovi. Tu povrávali, že to iste dajaký
+          dobrodruh, ktorého poznal Sokol na cestách (a Boh zná, jako po-
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     znal, dokladaly dobrosrdečné dámy), tam zas tvrdilo sa, že to
+          Nemec, tu zas poznávali v ňom Hb s dokonalým spleenom!
+          Prečo sa nikde s ním neukáže Aristid? 1 do Hrabovcov prestal
+          zachádzať ! V tom n ! Najzlostnejší pustili chýr, že to sväto-
+          „ruský tý priniesol Toryskému ruble a pri tej
+          príležitosť vymeriava pre ruskú armádu karpatské priechody! Veď
+          ho hajný mestečka Skalnice videl kresliť v Úžlabinách, kade r. 1848
+          prešla. kozácka stotina. Chýry došly do malých, zato "ale veľmi č čuj-
+          ných ušú pani slúžnej, a na o nie neobyčajnej ceste k úradnej
+          vedomosti slúžneho. Tento pán urobil vážnu tvár a vážna tvár
+          slúžneho dodala ýrom pravdepodobnosti! Boli by zaviedli vy-
+          šetrovanie — keby nebolo toho „medveďa!“ Ten Sokol je dráč,
+          duellant, grobian! Čert s ním vyj
+          A Ľudovít ticho kreslil ďalej pod pokroviteľským krýdlom
+          priatela. „Poďme raz už i medzi ľudí,“ riekol v nedeľu pri čiernej
+          káve Aristid. „Jestli vám milo, môžme dnes urobiť výlet. Poznáte
+          okolných ludí najrozmanitejších útvarov.“ A tu mu nakreslil krátkymi
+          slovami bytie a žitie niektorých súsedov. Ľudovít nemal nič proti
+          výletu.
+          Priatelia. z
+    </tei:p>
+    <tei:p>
+     Ítali u Hrabovca. Starého nenašli doma. Karola
+          od postilly, položila okuliare do knihy a zavrela okuté jej
+          y. Šedé, zvedavé očko stareny bliskalo nedôverčive na cu-
+          dzinca. Ona si ho predstavovala strapatého, mohutného, s veľkou
+          rozcuchanou bradou a krátkym tučným nosom. Vyzeral i hovoril
+          plynne nemecky a hľadel tak nevinne do sveta, že sa starká osme-
+          lila bližej potiahnuť svoj stolec. Eugenia vnišla do izby svojím ti-
+          chým krokom a sadla, s nemou poklonou na stolec. Ludovít bol
+          prekvapený zjavom Ženky. Z rečí priateľových utvoril si o nej
+          celkom iný obr: Prekvapil ho ten tichý mier na tvári dámy, pre-
+          živšej také ťažké zkúšky, nie menej jej krása, ačpráve bol pripra-
+          vený na. neobyčajný zjav Jej či: vonný hlas okúzlil Ľudovíta,
+          nie menej, než umné zvraty reči a "určité, jakoby celkom ustálené
+          náhľady o všetkom. Zdalo že bola na každú odpoveď pripravená.
+          stid šiel pozreť včely s Fridrichom, a tetka zmizla z izby za
+          svačinou. Ženka pustila s Ľudovítom do príjemného rozhovoru.
+          On hovoril o svojich tách —- najlepšie to thema medzi nezná-
+          mymi ľuďmi. Hovoril živo, krásno, jako to ležalo v jeho umeleckej
+          prírode. Ona. zmienila sa bez ostýchavosti o chýroch, ktoré o ňom
+          kolovaly, ba zasmiala sa srdečným, klokotavým smiechom nad jehô
+          poznámkami o malichernosťach vidieckej spoločnosti. Ona sa veľmi
+          riedko smiala. Karola v nedorozumení pozrela na ňu. „Chvala
+          Bohu,“ pošepla si dobrá starenka, „ožíva to dobré dieťa.“ Keď oba
+          priatelia odišli, nemohúc dočkať Hrabovca, opanovala obe stránky
+          úplná, vzájomná. spokojnosť, Karola tešila sa, že Záhorec neni Ru:
+          ela. z jeho rečí, že pozná jeho strynu, Ženke páčil
+          ž del hovoriť, Fridrich bol rád, že dopočul sa
+          od neho o Dražďanoch, Aristidovi bolo milé, že sa jeho priateľ
+          dobre vhodnul do pomerov. Ľudovít si spokojne pohvizdoval na
+          zpiatočnej ceste. Jemu stály pred dušou tie veľké, zvláštne krojené
+          23
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     354
+    </tei:p>
+    <tei:p>
+     oči krásnej ženy. „Jakoby sa. daly vykresliť?“ Prijdúc domov, po-
+          kúsil sa 0 to. Márne. Roztrhal náčrtok. „Keby mu chcela sedeť?1“
+    </tei:p>
+    <tei:p>
+     Iné návštevy neurobily na professora zvláštny dojem. Našiel
+          ludí obyčajných všade s tymi istými smiešnosťami. Všade hovorilo
+          sa 0 voľbe, o úrode, o barónových koňoch alebo o šatách panej
+          veru pomery nedovoľovaly luxus. Tu našiel
+          íka, tam ferblistov, ktorí sa pri každej hre po-
+          vadili, potom pomerili a konečne popili, tam otca. s trimi dcérami,
+          oblečenými v kongruentné karirované šaty, odpovedajúcimi na všetky
+          otázky „igen“ lebo „nem,“ bez rozdielu, v jakej reči
+          stavená bola. Tu i tu naďapil na pohostinného farára, na starnúcu
+          pannu s mladuškými citami, na mladých ľudí so starými ťahy,
+          odroňov s ozrutnými rukami a s dešperátnou maďarskou výslov-
+          nosťou. V Skalici sa málo bavil. odohnala ho nuda. V „panskom
+          hostinci“ našiel plno židov, v kasíne puch lacného doháňu a bežné
+          vtipy, na rynku baby predávajúce oštiepky i švabachom tlačené
+          litanie a sná Sviháci. hrali v „kaviarni“ na nesmierne veľkom
+          billiarde s nízkym mandanellom, tak že jim žlté gule behaly viac
+          po zemi, než po zelenom súkne, ktoré ukazovalo plno veľk. i
+          zle sošitých. Veľký fľak od petroleja rozťahoval sa. v prost:
+          vo forme Asie: z prostrednej lampy nad stolom totiž čupla každú
+          hodinu kvapka oleja. Dáka potierali o múr a hrešili nehorázne.
+    </tei:p>
+    <tei:p>
+     Ľudovít utiahol sa k Aristidovi. Nedele a sviatky trávil u Ira-
+          bovcov. I so starým pánom sa dobre skamarátil. Voľby totiž boly
+          rozhodnuté, Kropáči prepadol a do duše starého korteša vtiahla
+          zase nuda a lenivá spokojnosť, ktorá bola vytrhovaná iba konfami:
+    </tei:p>
+    <tei:p>
+     boly to najviac krčmárske konta. Hrabovec jich posielal Kropáčimu
+          a. Kropáči pravidelne Hrabovcovi. Židia žalovali, korteš s kandi-
+    </tei:p>
+    <tei:p>
+     dátom. sa povadili a vec došla pomaly do
+          Hrabovec pokonal sa s veriteľmi.
+    </tei:p>
+    <tei:p>
+     Leto stálo na svojom vrcholi. Poľné roboty pohltily všetok čas
+          Aristidovi. Záhorec zachádzal vždy ča abovníka. Eugenia
+          bola. mu hádkou, problemom vzácnym pre umelecké tvorenie. Po-
+          zoroval jej nenáhly návrat k životu, k pôžitku. Videl, že až teraz
+          dosahuje svoj vývin, že dozrieva k úplnosti, že stáva sa ženou
+          v najkrajšom smysle slova. Chvíľami si pochleboval, že mnoho do-
+          pomohol k „uzdraveniu“ jej duše. Viedol NÁ dlhé rozhovory,
+          uvádzal jej myseľ do hľbín a vyní 1 do v Jeho fantasia maľo-
+          vala jej čarovné perspektívy Z oval na pravé ai
+          Na, špeciálne pomery nedovolil « námku, bárs dal
+          cítiť, že mu boly známe. Aristid dobichal zriedka do Hi abovníka.
+          A divno, čím viac blížil sa ľaulovít k Ženke, tým jas vítil
+          jakési vzdiaľovanie sa od priateľa.
+    </tei:p>
+    <tei:p>
+     „Vy máte úplné právo na život robiť nároky.“ hovoril
+          dňa Záhor: k Eugenii, po jeho boku: „A preto
+          nepochopujem to vaše s „ to večné nosenie smútoč:
+          ných šiat a seriósny, zasmušilý pohľad na všetko. Ledva, že vás
+          vylákali na dnešný výlet! A predsa je pre vás príroda opravdovým
+    </tei:p>
+    <tei:p>
+     jej koľaje, tak že
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     lekárom. Tak málo pekných duší stretávame : škoda tej vašej pod
+          fáteľom smútku a samotrýznenia.“ i
+    </tei:p>
+    <tei:p>
+     „Vy znáte osudy moje a divíte s
+          líčiť utrpenia ľudí — úryvok vášho románu, ktorý ste mi prečítali,
+          mňa. hlboko presvedčil o tom — a nechcete pochopiť stav zlome-
+          ného srdca. ženského, postavenie stvorenia, ktoré nemá pod sebou
+          pôdy?“
+    </tei:p>
+    <tei:p>
+     „Láska a ocenenie, ktoré sa vám dostáva zo všetkých strán,
+          je úrodná pôda k ďalšiemu kvetu. Ženská, ktorá vie ťak mocne
+          vplývať na svoj kruh, nemusí zúfať. Nešťastie ohromí nás na čas,
+          ale zničí iba slabé, duše. Vaša duša nenie slabá!“
+    </tei:p>
+    <tei:p>
+     „Som žena. Čo môže tak hrozného postihnúť vás?“ Eugenia
+          zastala a hľadela skoro prísno na Ľudovíta. „Ztratíte majetok, máte
+          možnosť ho nadobudnúť. I keď ho nenadobudnete, neprestali ste
+          byť jednotkou vo svete: treba sa len starať o nully, zdvihuj
+          u hodnotu. Ztratíte drahú bytnosť — prijde čas a rany zacelia !
+          Takú ztratu nenie v stave zabudnúť muž? Ba i keď to najhroznejšie
+          prijde na vás, keď utratíte meno, česť, ešte i vtedy je úľava možná :
+          svet je široký, možno počať život znovu na druhej polguli, alebo
+          za rovníkom. Ináč o u nás, my nie sme nič samé sebou.“ Zenka
+          sa zamyslela a sklopila oči na kamenný chodníčok, vedúci k roz-
+          valine starého zámku. Zo stavby zostaly len niektoré múry a kva-
+          drami vykladaná studňa, zasypaná do poly skálim a drobiskami.
+          To bol cieľ výletu. Za nimi štvrťhodinou tiahla dosť hodná spoloč-
+          nosť. I Aristid sľúbil, že prijde podvečer na hrad.
+    </tei:p>
+    <tei:p>
+     „I vám zostane možnosť nového života, len treba na ňu ve
+          A konečne, v čom pozostáva. tá neobjemná veľkosť vášho n
+          Prežily ste tri roky nezdareného manželstva. Bez viny prešly s
+          pokušenie. Sám nehodný muž, s ktorým vás sputnali, uvoľnil vás
+          bez najmenšieho v nenia! Kde tu priepasť, ktorá by nedala
+          sa mostom. preložiť ?
+    </tei:p>
+    <tei:p>
+     „Daromné mosty, keď som už na dne tej priepasti.
+    </tei:p>
+    <tei:p>
+     „Chyťte sa pomocnej ruky, ktorá vás vyzdvihuje.“
+    </tei:p>
+    <tei:p>
+     „Niet takej. a keby bola, nedosiahne. Hlboko som, veľmi
+          hlboko.“
+    </tei:p>
+    <tei:p>
+     A keď by chcel niekto zostúpiť až na dno a mocným ramenom
+          ť sladkú ťarchu zas do svetla, na boží, krásn) té
+          významne, tázave na Ľudovíta. Tvár jeho bola
+    </tei:p>
+    <tei:p>
+     y ste schopný vy-
+    </tei:p>
+    <tei:p>
+     blúdia
+          prípr:
+          ľudského
+    </tei:p>
+    <tei:p>
+     pe n sadom pôži J
+          vujú iným blahé chvíle. Umelci žijú pre tie krajšie renty
+          života, my ale musíme i tie horké ť. Vy nepochopu-
+          jete, že sú sväzky, ktoré sa nedajú pretrhnúť, sú povinnosti, ktoré
+          si uložil sám človek a musí jim slúži do konca života. tým
+          viac, | jich ztvrdil sám Boh.“
+    </tei:p>
+    <tei:p>
+     „Vy ste milovala Eduarda?“ zavolal skoro nastrašene Ľudovít
+          a zostal stáť: tak teda nepochopil ešte túto Ž
+    </tei:p>
+    <tei:p>
+     ženu. 8 každým roz-
+          hovorom vynachádzal nové, neodkryté poklady jej duše.
+          2%
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     356
+    </tei:p>
+    <tei:p>
+     „Milovala,“ odpovedala sucho Ženka a pošla k predku. Jej
+          krásne prse vlnily sa chôdzou, snáď viac rozčulením, lebo až po-
+          saváď nebolo pozorovať, na nej žiadneho zadychčania.
+    </tei:p>
+    <tei:p>
+     „Nemožno, nemožno,“ nevdojak preriekol umelec a ťažoba padla
+          mu na dušu. „Veď ona prvýraz povedala nepravdu,“ pomyslel a
+          zatajil v sebe dych. „Neráčte upádať v samoklam! Boly ste takmer
+          deckom, padly ste pod tortúru ... sama s hrôzou myslíte na ubehlé
+          časy! Kde tu mala miesto láska? Samy ste riekly onehdá, že váš
+          priechod z detinstva do žravých bóľov bol ramenitý, náhly a ne-
+          čakaný ?!“
+    </tei:p>
+    <tei:p>
+     „Milovala som nešťastníka. Jeho bezodný bôľ, jeho bezvýchodné
+          rútenie sa v priepasť som milovala. Storáz kliala svoju slabú
+          ruku, ktorá ho nemohla. zastaviť! Načo láska stným ľuďom?
+          Ľáska šťastných je zpolovice sobectvo, láska ku kráse je opájanie
+          samého seba, je lichotenie sebe. Milujte špatnosť, milujte nehodného,
+          aby ste ho zachránili pred pádom! Potom uznám. že viete pocítiť
+          celú hlbku božského slova „láska.“ Nič romantického nebolo v srdci
+          mojom, i ja robila som nároky na život i pôžitok. a keď ma minul.
+          preklínala svoj osud, vadila som sa so svojím Hospodinom! On
+          mne preukázal milosť a osvietil ma. Viete, že Eduard pozdvihol
+          na mňa svoju ruku! Ach, to som nemala riecť. Vy alé ťaháte zo
+          mňa konfessie — hnevám sa na vás. nenie to šlachetné ... áno.
+          pozdvihol ruku ... v strašných bôloch, v slzách, krvavých slzách
+          bojovala vo mne zášť, pekelná zášť s láskou, onnou vyššou záskou,
+    </tei:p>
+    <tei:p>
+     akú nepochopí žiadon mu: um a nepocíti žiadno mužské b
+    </tei:p>
+    <tei:p>
+     Už víťazila zášť. Vtedy rozložil sa predo mnou obraz života, osnova-
+          ného na základe ti: hoj, zaplesalo srdce a nočalo biť zal Ta oná
+          telo rozpálilo sa, každý nerv vo mne vibriroval.
+          sa! Nuž, či suma 0 nej
+          má byť matkou ešte hlbšieho úpadku? Zmeravela som. Horúce
+          kanuly na rameno moje, modré od nehodného nakladania so mnou,
+          mladým stvorením! Slzy osvätily modrinu. Mila zášť a zvíťazila
+          láska. Obrnila som prse svoje trpelivosťou. Zúrenie krotila som
+          lichotením, krivdy odmeňovala som dobrodením, Podpísala som
+          všetko, čo odo mňa. žiadal, bárs protivila sa tomu celá rodina, a
+          keď upadol do nemoce, bola som mu milosrdnou sestrou. Nuž po-
+          vedzte, či nemám právo povedať, že milovala som svojho manž
+          Mráz prebehol telom Ľudovítovým. Slová krá
+          z jej pís traslavým, zduseným tónom,
+          V rozčulení r zhovoru zdvojná sobnila. sa k
+          dostaly híbku nezmernú, jej perny Kanúínové s
+          výraz. Ťah zabudnutého a. znovu moc)
+          okolo sladkých úst.
+    </tei:p>
+    <tei:p>
+     „Samoklam, samoklam,“ pomyslel si Záhorec, ťažko vydychajúc.
+          „Ona nemámi mňa, ale mámi seba! Táto bohatosť ženských krá
+          prázdna by mala byť samolúbosti! Toho ani v románoch nedočítaš
+          sa. Nenie-li to koketeria?“
+    </tei:p>
+    <tei:p>
+     „Vy neveríte? To ma bolí! Ja myslela, že vám to všetko tak
+          jasné, jako toto letné nebo! Pomyslite len, čo som? Pomenujte
+    </tei:p>
+    <tei:p>
+     eseného dola zahra
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     sIstvo rozdvojil on, ale
+          "Neoplakávam j jako vdova het nie som vo spojení
+          Nosím jeho meno, ale nie slasti a strasti manželstva !
+          Čo. potrebujeme sháňať, sa po vý okrašľovať nešťastie? Či
+          môžem počítať na úctu a vážnosť? +! Prosiť môžem oň, ale žia-
+          dať ho nemám oprávnené nároky. Na žene, odlúčenej od muža,
+          leží tieň, „čoby bola belšia j: tieň neodplaší žiadon
+          blesk priazne ani zdvoril ímam, keď mi dáva svet
+          uváženie a Ľ
+          „Vy prij jímate povinnú úctu! Avšak keď chcete hovoriť bez
+          kvetov, "dovoľte i mne otázku bez obalu. Či je tak nemožno sprostiť
+          ? Nieto dosť n, aby ste zákonne hly svi zok,
+          Je skutočne rozorvaný na večnosť? K čomu tá as
+          nielen vás, ale j
+          ôže Boh chceť daronmé ničenie mladého života? Roztrhnite putá !“
+          O to chlopotí, sa strýc! Z mojej stránky darmo čakajú na
+          dajaký krok. Čo mi pomôže amnestia zákona, čo mi pomôže omilo-
+          stenie cirkve, keď ôžem sama. sebe dať uvoľnenie. Už som
+          sa dokonále smierila so svojím osudom: ťahať zkazený život svoj
+          po božej vôli do hrobu. ŽZtrata moja sa nikda nenavráti! Načo
+          plakať, na hádzať sa a metať v jaskyni bez východu? Kameň
+          padol do hlbokosti morskej. Zažblnkol napokon, ktože ho vynesie
+          na boží svet?“
+          „Mohutná búrka,“ riekol Ľudovít, „náruživosť, pohnutie po-
+          trebujete.“
+          Postáli na výklenku, zkadiaľ m
+    </tei:p>
+    <tei:p>
+     Almužnu pri
+    </tei:p>
+    <tei:p>
+     li krásny výhľad. Protivné hory
+          zdlaly sa byť vyššími. Azúrom svietily vysoké hole. Spoločnosť sa
+          ý Hrabovec vydychoval jako mech a hrešil na hlúpy
+          nápad, teperiť sa po skalách jako mulica. Tetuška Karola vzdychala
+          a obdivovala výhľad. Fridrich vliekol celú garderobu šia Matka
+          niesla koš, ten najľahší, sluhovia vliekli hlavnú čiastku potravy.
+          Mladá slečinka, pokrevná Hrabovského, sotva zanechavšia pensionát,
+    </tei:p>
+    <tei:p>
+     opierala sa o rameno kavaliera s cvikerom, ktorý každú reč počínal
+          1.“ Volal sa. Emil Mravec a mal mnoho podobného s týmto
+          b lenivosť relegovaný
+          má
+    </tei:p>
+    <tei:p>
+     om, len nie ohľadom pilnosti, lebo hol pr«
+          Z. gymnasia a darebáčil teraz u otca, kasnára, ktorý myslel.
+          v ňom poklad. Hovoril mladý šuhaj nosom, ako sa tomu naučil m
+          takzvanými firtlišami, špeciálnym to druhom uhorskej mestskej mlá-
+    </tei:p>
+    <tei:p>
+     teže. Shromaždená, "spoločnosť vtiahla medzi rumy a rozložila sa
+          v tieni starej steny so strielňami.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Tetka Karola ustlala z kepeňov a ručňíkov celý divan pre
+    </tei:p>
+    <tei:p>
+     ho, keď sa durlil, „či si
+          tyri týdne ani hnúť, a lekár
+    </tei:p>
+    <tei:p>
+     brata. „Opatrnosti nezbý
+          Ž pudol ten výskot v j
+          chádzal z domu.“
+          „Ešte si pec mala vziať! Hrabovec a
+          svoje miesto, podopierajúc sa na striebrom kutú palic
+    </tei:p>
+    <tei:p>
+     chlácholil:
+    </tei:p>
+    <tei:p>
+     púšťal sa na
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Ľudovít Záhorec rozhľadel sa po kraji. Mierno zvlnená rovina
+          tierala sa pred jeho očami, zo všetkých strán obrubovaly ju
+          ysoké vrchy. Miestami sožaté obilie nakopené bolo v mandloch.
+          Dedinky vyčnievaly jako zelené ostrovy z obilného mora.
+    </tei:p>
+    <tei:p>
+     „Výlet by bola. pekná vec,“ poznamenal Hrabovec, utierajúc si
+          pot. z čela, „keby človek naozaj leteť vedel! Takto ale si horko
+          zarobíš trochu toho sviežeho vzduchu!“
+    </tei:p>
+    <tei:p>
+     „Ta som usporadoval výlety v Prešporkuj“ ohlásil sa Mravec,
+          prestupujúc z nohy na nohu, „grand výlety, poľ mesta sa súčastnilo!
+          šampaňské tieklo, celá vojenská banda hrala. Ja a gróf Lopresty
+          riddili sme kadrillu : ťdesiat párov tančilo.“
+    </tei:p>
+    <tei:p>
+     „Nože nalejte, Milko, toho vína za pohárik,“ pretrhol ho Hra-
+          bovec, „a potom tančite s Loprestym trebárs menuett.“
+    </tei:p>
+    <tei:p>
+     „Hemliche Aussicht!“ zasypela mutirujúcim hlasom „kišasonka“
+          Ernestína a ovievala rozhorúčené mliekové líčka čiernym „vojarom
+          Z mahagonového dreva, „was fir schône Cirrus-Wolken steigen am
+          Horizonte empor
+    </tei:p>
+    <tei:p>
+     „Dovoľte, milosťpani,“ riekol ticho Ľudovít, „jednu z tých
+          utešených buchát, ktoré vidím tam na horizonte!“ "Tetka Karola
+          usmiala sa, prívetivo a počala deliť zákusky.
+    </tei:p>
+    <tei:p>
+     Chutilo všetkým náležite, bárs netieklo Mravencovo šampaňské.
+          Starý pánu bol dobrej vôle a počal rozprávať kortešské kúsky.
+    </tei:p>
+    <tei:p>
+     „Prijddem vám do Ráztok. Tam bieda! Vyrúti sa mi oproti
+          celý vákoš žien a detí: „Hrabovec, Hrabovec má tlstý bachorec!“
+          vreští tá rota Koreh: „Kropáči báči sedí na pcháči, zjedol mačku
+          na pekáči,“ piští celý chór chlapčiskov. Hm, zle je, pomyslím si,
+          ale už len nezreteriruj Zatiahnem do hostinca. Už popredku
+          poslal som ta kmotra Kaba: hltoš kadejaký, nemá dna, mizne
+          v ňom všetko jakoby si do rie: lial. „Čos vykonal?“ pýtam sa
+          ho. Stál v šenkovní nad opitým človekom, sediacim na stolei. Hlava
+          mu visela. na bok, ústa bľabotaly nesrozumiteľné slová. „Budeš, či
+          nebudeš?“ volal na opitého Kabaňa, už tiež dobre potúžený
+    </tei:p>
+    <tei:p>
+     „o robíš, stonoha kadejaká. veď tu celá zbura.!“
+    </tei:p>
+    <tei:p>
+     „Ach, urodzený pane,“ riekne Kabaňa opravdu smutným h
+          zle, zle sa mi vodí! Už desiaty liter lejem do tohoto chra
+          „ a ešte ani raz nezavolal „íljen Krop:
+          Všetko sa rozosmialo.
+    </tei:p>
+    <tei:p>
+     „Ta som Toryského zbuktatoval v našom okrese, pochy,
+          sa Mravec: „už veci zle stály, päť dedín odpadlo od nás. V np
+          slednú noc soberiem, „sedem vozov, hybaj do toho kúta. Pohádžem
+          chlapov na v
+    </tei:p>
+    <tei:p>
+     „Len jednou väkcou ste jich hádzali?“ opýtal sa nevinne Fri-
+          drie a chlipol si z pohára.
+    </tei:p>
+    <tei:p>
+     Mravec sa skonfundoval. Jeho tenká. vychudlá postava a ner-
+          vósne agitujúca rúčka nesúhlasila s takou prácou. Nastala malá
+          pausa. Ľudovít poodišiel bol od spoločnosti a rozložil svoju mapu.
+          Marka stála pri ňom, rozopiaty dáždnik držiac nad papierom, na
+          ktorý hádzala zručná ruka umelcova ľahké náčrtky. Mravec sa pri-
+          plichtil k nemu.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Ta som tiež kreslil znamenite,“ riekol zhybnúc sa nad mapu,
+          „i tušom i kriedou. Je to krásne umenie, len mnoho. trpelivosti
+          treba. Tento vreh ste zle nakreslil nenie tak strmý. Veď tie
+          obloky na múre nie sú tak veľké. Tá väžička je znamenite traťená —
+          zimozel ste zabudli, zimozel, ráčte len pozreť, zimozel tiahne sa
+          hore stenou.“
+          Ľudovít neodpovedal nič, ale kreslil ďalej. Myseľ jeho bola
+          pobúrená, nepokojne lietala jako lastovica pred búrkou. Lichotilo
+          mu, že Ženka bola tak sdielna a dôverčivá k nemu, a predsa cítil
+          tajný neľad v útrobách. Jej dôvera podobá sa zdvorilému skloneniu
+          a. silného k slabšiemu, nenebezpečnému, ktorý i pri zlej vôli ne-
+          môže nadužiť sdelené tajnosti. On je viac príjemnou hrou, ručným
+          zrkadielcom, v ktorom sa raz zhliadneme a potom zatvoríme klapňu
+          a nestaráme sa viac oň. Jak celkom ináč chová sa Ženka k Ari-
+          stidovi. Celá jej postava dostáva seriosnejší výzor, slová jej znejú
+          plaši Ona by sotva vedela, tak vyžalovať sa pred ním, sotva
+          by tak svobodne otvorila pred ním srdeí
+          padlo by u nej viacej na váhu. On je v jej očiach mohutnou skalou,
+          kdežto umelec rovná vetru, ktorý príjemno chladí líce, ale
+          o ktorom nevieme, zkade prichádza a kam veje. A predsa Ženka
+          zaujala mocne city jeho, celá duša jeho preplnená bola tou vôňou,
+          ktorá okružovala jej ľadné zjavenie. On usiloval sa u svojou
+          tvorivou silou upevniť, schytiť jej obraz tuškou i perom, až konečne
+    </tei:p>
+    <tei:p>
+     , avšak každé jeho slovo
+    </tei:p>
+    <tei:p>
+     uznal, že marne namáha sa. Chýbäl mu ten mier, ktorý je pod-
+          mienkou umeleckého
+          tak
+    </tei:p>
+    <tei:p>
+     spracovania! V hneve nenačrtáš hnevlivca,
+          abys znázovnil opilca. Darmo siahaš po
+          fantasiou svojou, keď tonieš v nej, darmo hľadáš výrazy
+          k opísaniu prelesti, keď vzdycháš zamotaný v jej sieťach.
+          Spoločnosť kypela najlepším veselím, keď ukázala sa pekná
+          hlava Osmana medzi krami, achal za ním na vraneovi.
+          Osman bežal rovno k Ženke, položil svoj pysk zdvorile na jej kliu
+          a opálal kučeravým chvostom, potom vys a vítal svojho pána.
+          Mravec ho chcel pohladiť, aby dokázal svoju súcosť ku športu, ale
+          zamumlal jedovito. Mladý pán bol
+          ristid pohrozil psovi, ktorý spustil sa
+          Neskorý výletník doháňal dobrou
+    </tei:p>
+    <tei:p>
+     smial všetký dusil Mravca,
+    </tei:p>
+    <tei:p>
+     jako netreba sa opi
+    </tei:p>
+    <tei:p>
+     inu snáď pri pohyblivým.
+          na brucho, očividno
+          veselou vôľou zame
+          keď sa chvastal.
+          Ľudovít poz
+          Zdalo sa mu, že sa Z
+    </tei:p>
+    <tei:p>
+     ané. chvíle
+    </tei:p>
+    <tei:p>
+     roval s kavým okom každý pohyb Eugenie.
+          gsnila jej tvár. Tichým žiaľom obdivoval
+          statnú postavu mladého muža, voľnosť pohybov, istotu v každom
+          hnutí. „Na takého muža. sladko sa je opreť. Jakási triumfálna bez-
+          počnosť chodí s ním.“ Oko umelca utkvelo na Eugenii. „Mnoho
+          príbuzného je v týchto dvoch zj: ly 1utín
+          „snáď práve preto tak časté neshody medzi nimi. 1 te sa hádaj!
+          avšak je to hádka plná vnútornej harmoni Stavil bych Sa, Ž
+          niet podstatného rozdielu medzi nimi. Prečo neháda sa Bugenia
+          nikdy s Mravcom, ktorého slová tak protivia sa jej tichej prírode?
+          Ona je k nemu prívetivá a bráni ho, keď ho vysmievajú. Zdá sa
+    </tei:p>
+    <tei:p>
+     avoch,“ pomyslel si s ustrnutím,
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     mi, že stojím u nej s Mravcom na jednom stupni.“ Táto myšlienka
+          zarmútila Ľudovíta. Melancholickým pohľadom zahľadel sa na hory,
+          ktoré pestrely sa rozličnými barvaámi v bleskoch k západu klonia-
+          ceho sa slnka!
+    </tei:p>
+    <tei:p>
+     „Čo taký zamyslený, pane professor?“ pohodil veselo Aristid
+          a položil mu na plece svoju ruku.
+    </tei:p>
+    <tei:p>
+     » Uznávam marnosť našich snáh! Pozrite na barvy tamtoho
+          pohoria! Vo večnom menení naháňa jedna tinta druhú, tu chmára,
+          tam jasná zeleň, tu zas modrý pruh! Večný pohyb, večné trasenie,
+          a plátno naše tak nehybné, mrtvé ... Preto snáď tak málo platíme
+          svetu, preto padáme do jednej kategorie s komedianty a akrobatmi.
+          Podívaš sa, zaťlieskaš a koniec! Kde tu celok, kde tu obšírne po-
+          chopovanie krásy! Tlčieš sa, biedny umelec, od paradoxa k para-
+          doxu, vylievaš srdcovú krev -— a neznázorníš ani blesk oka, ani
+          tieň letúceho oblaka. Nedivím sa veru, že napriek všetkým náma-
+          hám nikdy nedosiahne umelec tej vážnosti v ľudstve, jakú máte
+          vy ľudia diela, ľudia skutočnosti.“
+    </tei:p>
+    <tei:p>
+     „Kedy by bol umelec spokojný so svojim osudom? Dones mu
+          hviezdy z mliečnej cesty, on ti jich odhodí jako deravé lieskovce.
+          Žiaden muž prosaického diela nemá toľko uznania, jako ľakký mi-
+          láčok Gracií. Bieda. je v tom, že umelci čiahajú po takom uznaní,
+          chcú mať tam platnosť, kde to nemožno. Na ten neduh trpia všetci.
+          Znamenitý komik, miláčok obecenstva, namyslí si, že je veľkým
+          politikom a počne písať články, ktoré pravda idú do koša! Hu!
+          svet si neváži umelca, počuť potom žalobu. Je to tá stará nôťa
+          Torkvata a Antonia!“ Ľudovíta obrúžaly tieto slová Aristidove, Cítil
+          jich pádnosť a tým väčší bol jeho bôl.
+    </tei:p>
+    <tei:p>
+     Na zpiatočnej ceste prepustil Aristid svojho koňa starému
+          Hrabovcoví, ktorý dosť pevne sedel v sedle.
+    </tei:p>
+    <tei:p>
+     „Ani. pensionovaný generál!“ zavolal za Hrabovcom Sokol, keď
+          počal klusať poľnou cestou.
+    </tei:p>
+    <tei:p>
+     „A my pôjdeme chodníkom, možno že ho ešte predídeme.“
+          Spoločnosť sa pohla. Aristid podal Eugenii rameno. Emil Mravec
+          obskakoval okolo Ernestíny, odoberal jej šal i vejár, nasádzal ne-
+          prestajne cviker na nos, triasol rukami, prestupoval jakoby ho pá-
+          lila pôda, robil vtipy a smial sa jim sám veľmi chutne, hlasným,
+          traslavým chechotom.
+    </tei:p>
+    <tei:p>
+     „Einzig,“ sypela pensionistka a klonila hlávku prívetive na bok.
+    </tei:p>
+    <tei:p>
+     Záhorec šiel popredku s tetkou. Sokol zdížal krok.
+    </tei:p>
+    <tei:p>
+     „Divný to dnes deň,“ pomyslela ľavným úžasom Eugenia. „Na
+    </tei:p>
+    <tei:p>
+     ceste sem náhlil Záhorec a doniesol ma do tonu, ktorý úprimne
+          em. Teraz hamuje Aristid a hľadí jakosi vážne.“
+          „Čo súdite o Ľudovítovi?“ pýtal sa Sokol Malinskej, keď jich
+          už ostatní na kus odbehli. „Veď trávi u vás svoje hodiny, maly
+          ste teda dosť času a príležitosti nazreť do jeho záčinku.“ Na po-
+          dobné výrazy už bola navykla Ženka pri Aristidovi, a preto jej
+          ani nenapadol.
+    </tei:p>
+    <tei:p>
+     „Jestli vám na tom záleží, môžem vám smelo vyznať, že som
+          vám vďačná za túto známosť. Obcovanie s ním je tak príjemné,
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     hladké. On netiesni človeka, nezavadzia nikdy. Chceš-li, on hovorí
+          hovorí s citom, kreslí obrazy a zas jich zotie fantazuje, posu-
+          dzuje, ale nikdy nemráža. Chceš-li, on mlčí, tak umne mlčí až pri
+          ňom. voľno. Myslím, to pochádza ztadiaľ, že je skromný.“
+    </tei:p>
+    <tei:p>
+     „50 skromným hlupákom neobcuje sa príjemno a hladko!
+          omnosť je len vledy cnosťou, keď je spojená s duševnými pred-
+          nosťami, so silou. Vám neimponuje skromnosť, ale sila.“
+    </tei:p>
+    <tei:p>
+     „A uňho mnoho vnútornej sily. Reč jeho plynie
+          tichým prúdom, a vtedy vyzerá nezdravisto, skoro by:
+          Druhýraz rúti sa prúd jeho reči jako horská bystrin.
+          skajú oči jeho, tvár potiahne sa ľahkým rumencom, s
+          závidel tú spôsobnosť oduševnenia! Ach, mne sa tak ťaž
+          ševniť! Jakúsi šedú barvu dostáva život a svet.“
+          ám ho ožiari ružovou barvou svojho ducha.“
+    </tei:p>
+    <tei:p>
+     Va chvíľku. On sostúpi do hlbín ľudského bytu — človek
+    </tei:p>
+    <tei:p>
+     a ním. Tam otvárajú sa jaskyne, v nich fosťoreskuje
+          odráža. sa od drahokamov. Zas indy napadne mu
+          jaké výhľady poskytuje nám! Nedohľadná diaľ
+          leží pred žasnúcim zrakom, a predsa sa vyznáme v nej, na známych
+          punktoch utkvie oko.“
+    </tei:p>
+    <tei:p>
+     „A nebojíte sa závratu?“ Hlas Aristidov šiel z hlbosti jeho širokých
+          pís, znel priduseno, tak že patrno bolo, že je mladý muž v rozčulení.
+    </tei:p>
+    <tei:p>
+     Malinská trhla nevdojak rúčkou, zavesenou v ramene Sokolo-
+          vom. Jaký to tón? Nikdy nepočula tak vraveť Aristida.
+    </tei:p>
+    <tei:p>
+     „Vy viete oceniť výborného muža. O tom som nepochyboval,“
+          pokračoval Aristid obyčajným svojím zvučným hlasom , „my sedliaci
+          sme s ritiermi ducha vo veľmi zlom položení. U nás je všetko
+          nudné a všedné. Na miesto do jaskýň s magickým svetlom chodíme
+          do koňskej stajne, a ma miesto romantického letu nad oblaky
+          uspokojiť sa musíme s prácnym škriabaním sa na senník. To by
+          bola konečne ešte snesiteľná bieda. Avšák stáva sa, že i nám srdce
+          zatrepotá a počne vyskakovať jako mladé baranča. Potom až na-
+          stane krísa. Siahaš po slovách — slová ti ujdú, chceš vyjadriť
+          svoje myšlienky — a ony sa ti pomotajú do chomáča, nikam von!
+          Medzitým, čo sa takto chlopotíš, metáš, prijde pekne op vtá-
+          čik — chňap — už je jeho zlatá muška!“ .
+    </tei:p>
+    <tei:p>
+     „Načo sú vám slová?“ riekla niečo uspokojená Ženka, „vy
+          vyvolili lepšiu časť, vy máte skutky. Na vás opiera sa slabý,
+          tite hladných a ženiete sa do predku bujarou silou. Len pred
+          i básnik dôležitosť a vážnosť dieľnych ľudí. Vy
+          ste ho ceľkom dobre zavrátili. A teraz padáte do tej samej jamy,
+          z ktorej ste ho tak zručne ťahali. Načo vám veterné zámky, ke
+          staviate solídne z kvadrov? Načo vám sila v slovách, keď sa ona.
+          javí v diele?“ | :
+    </tei:p>
+    <tei:p>
+     „Tak, tak! Ťahaj, kuvik, ťahaj veselo! Načo tebe naslaždenie,
+          načo tebe bozk krásy, ťahaj a jedz — tu“ korýtko ovsa! Neha
+          života patrí iným, silným v slove, krásnym duchom, keď sa ti
+    </tei:p>
+    <tei:p>
+     javí obraz krásny a ty zahľadíš sa naň svätou túžbou — prehltni
+          slinku, kuvik, a ťahaj ďalej, čerte, až ti okále vylezú. A. predsa
+    </tei:p>
+    <tei:p>
+     voľným,
+          ho ľutoval.
+          u, vtedy blí-
+          oro bys" mu
+          odu-
+    </tei:p>
+    <tei:p>
+     vy
+          hodinou
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     máme i my tak veľkú chuť zastaviť sa na chvíľku a okúsiť toho
+          zakázaného nektáru.“
+    </tei:p>
+    <tei:p>
+     „Kto má ľahší prístup k pôžitkom , i vy, ktorí pracujete
+          na výdatnej pôc Medzi vašou sejbou a tky.
+          Povážte však sejbu tých „duchovných ritierov,“ jako menujete,
+          jak nevďačná je ona pre ních. na. jic lich naplnený
+          šťavou z bolehlavu a nie nektár, Po smrti stavajú jim síce pomníky,
+          vy nie ste upriamený na vďačnosť budúcich pokolení a staviate si
+          sami paloty.“
+    </tei:p>
+    <tei:p>
+     „Nech sovy húkajú v nich, nech salamandrť vlečú žlté bruchá
+          jich mramorových dlážkach, keď nevtiahne do nich opravdová,
+          ia slasť života! Vy mňa nerozumiete, Ženka, nerozumiete, lebo
+          nechcete rozumet!“
+    </tei:p>
+    <tei:p>
+     „ Purpurom zbarvily sa líca Malinskej
+          „Zenkou“ ! Stalo sa to teraz po prvý Či snáď zavdala ona podnet
+          k takejto nebývalej dôvernosti, previnila sa nieči Zopakovala
+          rýchlo všetky svoje slová, ale nenašla v nich nič pochybného. Večer
+          rozhostil sa krajom, okolité vrchy tratily svoje kontúry v šedej
+          mhle večernej. Nad. hlavami mladého páru zakrákala opozdená
+          vrana, i ctel kľukatým, trhavým letom netopier. V machu svie-
+          tily svatojanské mušky, keď cítily kroky, zahášaly svoje lampadky.
+          Dvaja výletníci kráčali nemo, Aristid necítil na ramene rúčku
+          Malinskej, ona. prestala sa opierať. Pred domom Hrabovcovým ča-
+          kala jich ostatná spoločnosť. Zastali. Sokol naklonil sa k Ženke
+          a riekol tichým, hlbokým hlasom :
+    </tei:p>
+    <tei:p>
+     „Obr 0m vás, milosťpani? (na posledné dve slová dal dôraz).
+          Odpustite ...“
+    </tei:p>
+    <tei:p>
+     Mravec nedal mu dohovoriť.
+    </tei:p>
+    <tei:p>
+     „Čo, čo, čo?“ priletel zvedave k Sokolovi a dotýkal sa jeho
+          pís. „Vy chcete ešte dnes domov? Ja mám tu znamenitý voz, za-
+          veziem vás.“
+    </tei:p>
+    <tei:p>
+     „Dakujem. Mám koňa.“ A vskutku, jeho kôň už hrabal nohou
+          na dvore a zarechtal čujúc svojho pána. Ľudovíta zdržal starý pán
+          na noc. Sokol vysadol na vranca a zmizol vo tme, ktorá medzi
+          časom nastúpila. Dlho ešte bolo počuť švermonohý dupot. Eugenia
+          vyhovorila sa na ustatosť a jednostranný hlavybôľ a išla do svojej
+          chyženky. Rozpustila. svoje dlhé vrkoče a sadla k otvorenému obloku.
+          Pred dušou jej bľadá tvár, ztrhané oko — ach, tak pálčivo
+          hľadelo ... Večerný chlad oviaľ jej líca. Šedými oblakmi zastreté
+          nebo dvíhalo sa jako opona ponad košaté gaštany.
+    </tei:p>
+    <tei:p>
+     Mravca nik nezdiž: iba Ernestin kisasoň bliskla naňho
+          túžobným očkom. Tetka Karola zaviedla ju do svojej chyže.
+    </tei:p>
+    <tei:p>
+     „Kiss di Hende,“ sladkavým hlasom zanôtil a zostal sám na
+          chodbe, ktorú tvoril výklenok domu, ležiaci na štyroch vápnom
+          obielených stípoch. V biáne stála Marka a hľadela do ulice. Mravec
+          šiel okolo nej.
+    </tei:p>
+    <tei:p>
+     Ej, jaká strojná jašterička,“ pohodil lichotive a Jetel j
+          žej, buclatej tváre.
+    </tei:p>
+    <tei:p>
+     Sokol pozval ju prosto
+    </tei:p>
+    <tei:p>
+     rukou
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     363
+          pán!“ ozvala sa táto hlasno, až sa dvor ozval a psi
+          kú jim vysolím. budú 0 rok pamätať!
+    </tei:p>
+    <tei:p>
+     Emil Mravec zapapra) pravou nohou jako kohút, ľavú nakrivil
+          v podobe veľkého C a © nadávku medzi zuby, šibol okolo
+          uhla nie ináč než kmín, ktorého pri pokuse prichytili. Brech psov
+          a zvonivý smiech Marky sprevádzal ho. O chvíľku prišiel Pavel
+          Ruža a zastal u brány.
+    </tei:p>
+    <tei:p>
+     „Ešte sa hneváš, Marka?“ zpýtal sa tichým, kajúcim hlasom.
+    </tei:p>
+    <tei:p>
+     „Nie, Pavle, nehnevám,“ a s tým podala mu ky
+    </tei:p>
+    <tei:p>
+     „Teda si nezpyšnela, Marienka?
+    </tei:p>
+    <tei:p>
+     „Ach, trochu hej. Nuž, či to škodí?“
+    </tei:p>
+    <tei:p>
+     „Dá-li Bôh na jaseň, Marka! Otec už stavia,“ a chcel chytiť
+          dievča. za ruku.
+    </tei:p>
+    <tei:p>
+     „Marka, Marka,“ ozval sa z obloka hlas Karoly. Marka udrela
+          dlaňou po Pavlovej žilnatej ruke a zmizla jako blesk v chodbe.
+    </tei:p>
+    <tei:p>
+     Šťastný Pavel šiel domov a veselo si cestou hvízdal, „Budeže
+          to za ženička, jako iskra,“ hundral sám sebe a smial sa celou
+          tvárou. Mal pravdu. Bože môj, tak málo treba luďom k šťastiu,
+          keď chcú byť prostí a prirodzení! Avšak spoločenskými pomermi
+          prekrútených ľudí ženú strasti cez temné chodby labirynthu. To
+          zrno pravdy v človeku obložené je spústou umele snovanej Iži, a
+          drieme jako semä vo Faraonovej hrobke. Jak pomotané sú naše cesty,
+          a tá pravá je predsa tak priama: jasná si ty stopa k dobru, jasná,
+          osvietená. božou lanipadou. My ale blúdime neustále. Jako vystríhať
+          sa imýlky, jako hájiť srdce pred rozpálením a krev pred zimničným
+          rozprúdením? Nie, to nemožno. Tu mi hlodá v duši pochybnosť.
+          Mier duše je iste želateľný, on dáva nám šťastie. My modlíme sa
+          oň, my túžime po ňom v slzách a pokaní. Prečo? Preto, že jestvujú
+          i náruživé poryvy a búrky v útrobách našich. On je jako oasa
+          v púšti, jako ostrov uprostred nesmierneho mora. Letia dusivé
+          piesky na krýdlach horúceho vet vlny morské špliechajú ne-
+          ustálou melodiou, a v tom ruchu milý nám je bod, na ktorom
+          spočinie ustatá duša! Ni tichú rozkoš duševného mieru,
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Ľudovít Záhorec nemohol spať. Už po tretíraz zapálil sviecu
+          počal čítať. Písmeny behaly mu pred očima, vyskakovaly z linií,
+          ly sa, až konečne slialy sa v chaos. Odložil knihu a zahľadel
+          sa v poval. Poval zdvíhala sa, dostávala konkávne formy kupoly,
+          počal sa krúti Zavrel oči — predstúpila pred neho milostná
+          tvár Eugenie, ale tá tvár mala kíčovite ztiahnuté ťahy, oči boly
+          vypúlené, zimničné, perna zsinalá. Zdvihol sa. „Či som v horúčke,“
+          pýtal sa a položil ruku na čelo. Čelo bolo studené. Úzkosť ho na-
+          padla. Chcel volať... nevládal.
+    </tei:p>
+    <tei:p>
+     Vstal z postele, otvoril oblok. Svi
+          čuvy, len buchot srdca nemohol zasi
+          sa nevdojak chytil za ľavý kok.
+    </tei:p>
+    <tei:p>
+     nočný vzduch sosílil jeho
+          ť. Ono bilo tak mocne, že
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     tal, „tu niet pre teba zdravý
+          vzduch. Pokojné srdce moje poči „ mier duše prehá a tratí sa
+          na vidom oči. Moje útroby horia strasťou, krev prúdi sa do hlavy.
+          Preč, preč z tohoto kraju! Pôda páli ma pod nohama, ťahám do
+          seba. pálčivý vozduch. "Myslel som, že dávno otrezveľ um môj a
+          be uspokojilo sa! Jaký to sebaklam. Čo sožiera ma, čo trápi ma?
+          A či je to všetko len hra fantasie? Zkadiaľ ten bôľ?“
+    </tei:p>
+    <tei:p>
+     Už počalo svitať, keď Ľudovíť zosnul mytvým, ťažkým snom.
+          Napriek tomu skoro precítnul a šiel v sad. Tam našiel Fridricha,
+          M hovoriť ho pred domácimi, že sa vzďaluje bez
+          y. Šiel na Kokavku. Sokol ho privítal nemo, vzal za ruku
+          a viedol do svojej chyže.
+    </tei:p>
+    <tei:p>
+     „Brat môj,“ riekol po malej prestávke, „medzi nami má byť
+          no. Poviem vám otvorene: chodníky naše sa nebezpečno k
+          žujú. Načo klamať druh druha? Nerád hrám sa na slepú babu.
+          Čo myslíte urobi:
+    </tei:p>
+    <tei:p>
+     Ľudovít nerozumel celkom slovám svojho priateľa, ale šípil
+          smysel jeho temných narážok.
+    </tei:p>
+    <tei:p>
+     „Nebolo by smiešno, keby dvaja mužovia, tak úzko spojivší sa,
+          neprehovorili o tom, čo jich trápi deň i noc? Nuž dobre, počnem
+          ja vyznanie. Eugenia Malinská je predmetom mojích najvyšších
+          túžob, vrchol nárokov, ktoré mám na život. Moje osudy majú s jejmi
+          jakúsi podobnosť. Oba boli sme zmietaní búrnymi vlnami, nad
+          oboma klenulo sa šedé nebo. Snáď preto moja strasť! Verte mi,
+          znám tlumiť v sebe bôl, ne knem za každým úderom. Tu som
+          ale premožený, moje sebazaprenie mizne, a ja, ktorý vedel sa po-
+          týkať s tygrom, ktorý nezľakol sa troch ozbrojených brigantov,
+          ktorý podržal chladnú krev v dáždi gúľ... trasiem sa pred nemi-
+          lostivým pohľadom Eugenie. To moja zpoveď, a vaša?“
+    </tei:p>
+    <tei:p>
+     Ľudovít mlčal a hľadel s úž
+    </tei:p>
+    <tei:p>
+     „Preč, preč z tohoto kr:
+    </tei:p>
+    <tei:p>
+     žasom v obhorenú, tlumeným roz-
+          čulením oživenú tvár priateľa. Zas cítil sa mu byť blízkym ....
+          srdce zaplesalo v ňom jaksi radostne. Postava Eugenie počala sa
+          zjasňovať pred dušou jeho v ideál, ume ý ideál, ktorý ospevu-
+          jeme, ale nepriťahujeme k sebe do svojej moci, tak jako obdivu-
+          jeme v nemom zadumení sochu, ale nenapadne nám stisnúť jej
+          ruku. Radosťou, vyššou povedomou radosťou zabúchalo v ňom srdce.
+          „5i predsa umelec,“ pomyslel si, „schopný nadchnúť sa, oduševniť
+          čistým nesobeckým oduševnením! Bol si na mýlnej Ja a
+          Eugenia!“ — Skoro sa mu chcelo zasmiať, radostným, šťastným
+          smiechom.
+    </tei:p>
+    <tei:p>
+     „Pane Sokol, jako ďakovať vám za vaše stné, otvorené po-
+          stupovanie? Vy ste jedným šmahom preťali hlboké nedorozumenia,
+          ktorého nite mohly sa dlho vliecť a putnať nohy naše! Nie, chod-
+          níky naše nekrižujú sa, ale bežia paralelne. Malinská dojala svojou
+          mocnou osobnosťou dušu moju načo tajiť, ale celkom ináč, jako
+          u. Vy milujete jako muž, milenec, ktorý chce stať sa manželom
+          zbožňovanej žei j. Já obdivujem Eugeniu jako psycholog, umelec,
+          básnik. Pre vás je ona predmetom silného“ želania, túžby po do-
+          siahnutí — mne je ona hviezdou, ktorú obdivujem a snáď i zkúmam
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     zďaleka, ale ktorú nežiadam
+          u mňa entusiasmus, u vás skutočnosť, u mňa hra fantasie,
+          u vás je možnosť dosiahnutia a uspokojenia, u mňa. púhe rozčulenie
+          citov, ktor vlejú v tvorbe a srdce sa hneď vylieči. Nie, naše
+          chodníky nekr žujú sa.“
+    </tei:p>
+    <tei:p>
+     do náručia. U vás je láska,
+    </tei:p>
+    <tei:p>
+     s jeho znel
+          tak neoby ajno zvučno, po a chvel sa vnútorným rozčulenín
+          „Je to veľkodušnos umoklaan p. al sa v duchu A
+          súm seba. Ľudovít po
+          hlbokým, opravdovým smútkom, b toho žeby ol il sa byť ob-
+          razeným. Mäkká ďuša. jeho rozboľastila sa a srdce v ňom zaúpelo.
+          Priatelia roziš každý po svojej práci. Ľudovít dlho
+          cval poslednú kapitolu svojho románu. Axistid šiel
+          ne, obzrel stodoly a vyšiel do poľa. Na poludnie po obede
+          nik priateľovi rukopis svojho diela.
+          som už hotový... hľaďte i vy po svojom vec ukon-
+    </tei:p>
+    <tei:p>
+     „Kam, Ľudovíte
+          „Do Mrabovníka,“ riekol Záhorec a pozrel Sokolovi tak úprimne
+          do tváre, že tento pohodil spokojne rukou a dal sa do čítania. Ne-
+          odložil rukopis až keď prečítal nahlas posledné slová poslednej
+          lavy: „ Umelec dal sa na cesty... Juša je tená v ohni
+          strasti, zjasnená bleskom, ktorý padol do nej okého, anjel-
+    </tei:p>
+    <tei:p>
+     ského stvorenia, rozšírila perute svoje a vznie až v čistý, nad-
+          vozdušný aether, v ktorom veje duch boží. Trimuť jeho je ney
+    </tei:p>
+    <tei:p>
+     sloviteľný! On preboľasti) jednu ťažkú noc a dosiahol to najvyššie,
+          čo súdeno je dosiahnuť smyteľníkovi: mier. duše.“
+    </tei:p>
+    <tei:p>
+     Sokol pohrúžil sa v hľbokú dumu. Jak vysoko stála pred. ním
+          osobnosť poetova, jak jasno svietila jehď d ša! Ani „veľkodušnosť,“
+          ani „samoklam“ nemal miesta v hrudi jeho. On patrí medzi Tudí,
+          ktorí sostrojení sú z jemných látok, ktorých srdce odtrhlo sa od
+          zxme a bije vyšším bitím. Aristid nemal pokoja doma. Pred ve-
+          čerom sadol ďo bryčky a viezol sa do Hrabovník:
+    </tei:p>
+    <tei:p>
+     „Milosťpami sú v zahrade,“ švitorila Marka a doložila tichým
+          hlasom, položiac prst n: oje svieže per „a plačú, dlho už
+          plačú. Bol tu pán Záhorec a dlho hovoril s ňou osamote... niečo
+          veľmi smutného musel prinie:
+    </tei:p>
+    <tei:p>
+     V chodbe ozvaly sa. kroky. Irabovec v
+    </tei:p>
+    <tei:p>
+     „Vítajte, vítajte,“ hovoril pospešno, „mám plné ruky práce!
+          Uprázdnilo sa miesto sirotského, o týdeň. je stoličný výbor. Moje
+          výhľady sú veľmi skvelé... všetko myslí len na mňa. Váš hlas,
+          pare sused, snáď tiež budem mať?“
+    </tei:p>
+    <tei:p>
+     » Rozumie sa samo sebou.
+    </tei:p>
+    <tei:p>
+     „Priahaj, priahaj!“ volal
+          serel už na bryčke, v ľavej ruke fajku, v pravej stri
+    </tei:p>
+    <tei:p>
+     Mistid šiel rovno do sadu.
+    </tei:p>
+    <tei:p>
+     Eugenia sedela na lavičk
+          umele do šírky, tak že konáre jej
+          hľadela pred seba, opretá o peň lipy. V ruke d
+    </tei:p>
+    <tei:p>
+     el celý ro
+    </tei:p>
+    <tei:p>
+     om do dvora. O chvíľu
+          brom kutú palicu.
+    </tei:p>
+    <tei:p>
+     pod košatou lipou, ktorú viedli
+          tvorily hustú strechu. Zamysleno
+          žala nerozpečatený list.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     366
+    </tei:p>
+    <tei:p>
+     Aristid zostal stáť, dojatý krásou, ktorá ešte nikdy nežiarila
+          v takej omamujúcej sile. Eugenia ho nezpozorovala. So zadržaným
+          dychom hľadel na tie bohaté "krásy voľných- údov. V samote sme
+          9 mnoho prirodzenejší, jako pred ľuďmi, tak jako i naša tvár je
+          © mnoho pokojnejšia, keď nehľadí do zrkadla. Eugenia žiarila, plála....
+          z. nej vialo "prelesťou, prednosti veľkej, krásnej duše boly v sladkom
+          súzvuku s lepotou tela: všetko volalo u nej k životu, k vyššiemu
+          pôžitku. Nie každý človek schopný je požiť sladkosti žitia, mnohým
+          chýbäjú orgány, zjemnený vkus a istá sila, ktorá vyžaduje sa Jako
+          k neseniu bôľu, tak i k neseniu neobsiahlej rozkoše. Aristid stál
+          nepohnuto, bál sa prerušiť pokoj, ktorý tak zdvihoval jej krásy
+          a obkľučoval ju krážom nevýslovnej miloty. Ženka, sa trhla zimnično,
+          veľké slzy vyronily sa z jej očú a tiekly voľno lícami. Aristid vrátil
+          sa niekoľko krokov. Nechcel, aby zvedela, že ju pozoroval: načo
+          takéto prekvapenie? 1 sám bol priveľmi rozčulený. Žiadna moc,
+          žiaden hlas rozumu nebol by ho zdržal, on by ju bol schvátil v ra-
+          mená, pozdvihol jako dieťa a sovrel mocne, neodolateľne. Srdce
+          jeho bilo, cítil v slychoch každý tlkot tepny. Spružil sa, vydýchol
+          párkráť hlbokým dychom a pošiel hrmotným krokom k lipe.
+    </tei:p>
+    <tei:p>
+     Malinská. vstala a podala mu s tichým úsmevom ruku.
+    </tei:p>
+    <tei:p>
+     „Podávam vám teraz ruku nie vo svojom, ale v mene vášho
+          priateľa.“
+    </tei:p>
+    <tei:p>
+     „Jako to, milosťpani ?“
+    </tei:p>
+    <tei:p>
+     Ženka podala mu list, Aristid ho rozpečadil.
+    </tei:p>
+    <tei:p>
+     Bol to krátky list.
+    </tei:p>
+    <tei:p>
+     „Aristide! Odchádzam. S Bohom! Nezabudni na svojho pria-
+          teľa. Môj náhly odchod nenie ani vrtocha, ani následok nejakého
+          bôľneho pocitu. Vašu lásku vyčerpal som do dna, odchádzam s bo-
+          hatou dušou a hlavou plnou dúm večných. neskonalých. Som silný,
+          cítim jak potrebný som pre svoj slovenský národ, ktorému posvätil
+          žitie. Nenie to marnosi sebe zdroj, z ktorého napojím
+          smädné duše. Vy ste očistili, vyvýšili, obohatili srdce moje! Boh
+          vám to nahraď šťastím, ktorého ste hodni, lebo n b samými
+          chlebom. Zriedkavý to zjav v dnešných hmotárskych časiech. Do-
+          voľte mi jednu prosbu: nemýlte sa, Ženka a ty, vás spojil sám Boh,
+          netrhajte tieto sv Eugenia. plakala predo mnou, ona sa znovu-
+          zrodila v tých slzách! Drahocenné perly, z nich svieti tie. Pra-
+    </tei:p>
+    <tei:p>
+     vota blíži sa ku koncu, Hrabovec mi riekol, že oča. tieto.
+          dny riešenie najvyššieho súdu, ktoré umožní váše spojenie! Asnáď
+    </tei:p>
+    <tei:p>
+     mňa potom uvidí Kokavka! Zatiaľ s Bohom! S Bohom, druh môj,
+          aj ty či slovenská duša, pred ktorou sa klaniam k čiernej zemi.
+          Moje veci pošly do Prešporka. Uznáš-li za hodné, obstaraj vydanie
+          môjho románu, doňho vlial som krev srdca. svojho. S Bohom, Ari-
+          stide, poceluj bielu rúčku svojej nevesty! Tvoj Ľudovít.“
+    </tei:p>
+    <tei:p>
+     Sokol podal Ženke list. Ona ho prečítala, ruka jej klesla do
+          lona Tichý ston ozval sa z jej pís. Nastal boj v nej, boj zúfalý
+          potriasajúci základmi jej bytni
+    </tei:p>
+    <tei:p>
+     Aristid stál pred ňou nemo. Cítil ľútosť, cítil šťastie, nádej
+          i strach. Do sladkosti nádeje miešala sa muka neistoty. Večer
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     „len na horách dle blesk sln Tichý vetor šumel
+            košatej Tipy. Kúdel všetečných vrabcov zletoval zo slivák na
+            hriadky s čvirikom. Pestrý stehlík priletel jako blesk a sadol na
+            suchý, konár slivky. Krútil hlávkou, trepotaľ chvostom a
+            ka pozdvihla oči. Pred ňou stál bujarý muž s výrazom
+            S na tvári. „Život, život,“ volalo to v jej hrudi.
+            ie,“ šumelo jej dušou. Oro tak blízke treba. len
+            reť. Smäd za životom tak ž a blízko zdroj, jej osud
+            smutný. a. tu možnosť premeniť ho ma istý a blahý.
+            Málo kedy dopraje Boh človeku, aby sám rozhodnul nad A
+            osudom: jej ďal ho v ruku. Ale v úzadí duše jak.
+            «livný hlas ozýva sa tam, nepoňatný, ale zvučný! Jaký to hlas.
+            jaké šumenie a nie v najhlbšej hlbine: až tak usedá srdce a
+            trasie sa jako vsykový lístok. Jaká to obava, jaká samonedôvera ?
+            tomuto mužovi. ktor hetnosťou, ba snaď Jútosťou
+            zdvíha k sebe rozladenú bytnosť. ktorá nevydá už ni
+            „mičená ničíš. shodená do prepasti,
+    </tei:p>
+    <tei:p>
+     „ Nie.
+            » !“ zavolal Aristil. „počujte hlas veľkej (luše umelcovej !
+            kdy nych nebol pr úpäl takto pred vás, nehodný som vás!
+            On by vedel pochopiť. oceniť vašu hodnotu! Ženka, osvoboďte seba
+            ! Čo hatí vás, čo múti peknú dušu, vi
+            Srdce Eugenie stiahlo sa kíčovito. vdu hovoril Ľudo-
+            nápadne ticho. „ja milujem vás, sti, milujem vás,
+            A išla som k tomu povedomiu. Ono zhndené bolo čistými
+            slovami básnika, ktorý odišiel pred hodinou. On jasno rozvinul
+            predomnou to, čo driemálo v záhyboch duše mojej moklam mizol,
+            životná sila hlásila sa konečne k právu! Chcem žiť, chcela bych
+            1! Čo očakáva. mňa, jestli poslúchnem hlas temni volajúci nie?“
+            „Nepočúvajte na ten klamlivý hlas! Verte srdcu, verte mne,
+            ktorý oddávam všetko do vašich milých rúk! Nie zbúrená krev,
+            nie pal strastí mladistvých, ale hlboké presví nie a rozhodnutie
+            1 máte pred sel vu. Odhoďte už raz čierne rúcho a fátoľ smútku,
+            , podajte ruku človeku, ktor tne mieni!“
+            á sa ľahúnko ti: Zenka, vstala.
+    </tei:p>
+    <tei:p>
+     Oči jej sa zasv dily, rdečný úsmev sadol jej na tvár. Zaš
+            jej » očú dva prúdy prse sa dmuly, tie ladné prse,
+            svšie toľko báľov a mnížení. Pomaly dvíhalo sa jej krásne
+    </tei:p>
+    <tei:p>
+     &gt;
+    </tei:p>
+    <tei:p>
+     tid podá val je
+    </tei:p>
+    <tei:p>
+     plné rameno.
+            Sust krokov
+            melom obleku blí:
+    </tei:p>
+    <tei:p>
+     zval sa. Vysoký muž v zanedbanom, „veľmi
+    </tei:p>
+    <tei:p>
+     1 sa k lipe. V rozčulení ne
+            i búrila telom i dušou slasť nového života. Ne námy
+    </tei:p>
+    <tei:p>
+     al pred lipou. Tv: ho bola žltkavo-bľadá, oči horel.
+            j bludičky. Oči Ženky padly naňho. Dodávaná ruka k
+            „Exlnard!“ zavolala silným hlasom, podobným kriku topiaceho
+            sa človeka, ktorého už-v pohltiť m lobné vlny. Malinský
+            stál a hľadel tupo pred seba.
+            „Poznáš ma ešte, poznáš?“ preriekol syplým hlasom a počal
+            kašlať. teda dobré srdce! Prosím o almužnu! Toto snáď môj
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     368
+    </tei:p>
+    <tei:p>
+     následník?“ obrátil sa k Aristidovi, ktorý zbľadol na smrť. Silný
+            muž cítil, že ho nechcú nohy držať. Sadol na lavičku a hlava jeho
+            klesla do dlaní. .
+    </tei:p>
+    <tei:p>
+     „Neprišiel som žiadať svoje práva, nie, Ženka! Neboj Len
+            ďalej, podaj mu ruku, podaj! Ja som ju od 1, odstrčil! Si
+            v práve! Podaj mu ruku! Neboj sa, moja za ňou nikdy viac ne-
+            siahne!“  Malinského schytil suchý kašeľ, na pernách zat nala,
+            sa krev. Ženka priskočila k mužovi a priložila svoju bielunkú šatku
+            na jeho perny, Hlasitý plač jej ozýval sa sadom.
+    </tei:p>
+    <tei:p>
+     „Ticho, Ženka! Prijde tvoj c, ja sa ho bojím! Nevolaj
+            strýca, Ženka, nevolaj ho, prosím ťa! Ani Karolu nevolaj! Len
+            chvílenku ešte — hneď sa ztratím! Podaj mu ruku, podaj, Ženka !“
+    </tei:p>
+    <tei:p>
+     Eugenia zalkala srdcelomne.
+    </tei:p>
+    <tei:p>
+     „Podám, Eduarde, podám na rozlúčenie, muž môj, upokoj sa:
+            Eduard, tys chorý, veľmi chorý.“ Aristid nemo stisol Ženkinu ruku.
+            Tvár jeho mala popoľavú barvu, zdalo sa, že zostárnul. Ticho vy-
+            šiel zo sadu, sadnul na svoju bryčku a šľahol nemilosrdne do koní.
+    </tei:p>
+    <tei:p>
+     šl:
+            ly sa vysoko, zalomily pyšné hrdlá a letely jako šiarkany.
+    </tei:p>
+    <tei:p>
+     „Milosťpani, milosťpani,“ bolo počuť mekotavý hlas od dvora.
+            Emil Mravec blížil sa k manželom svojím trhavým“ krokom. V ruke
+            krútil krátku paličku. Prepletal nohami až sa jeho končitá hlávka
+            potriasala.
+    </tei:p>
+    <tei:p>
+     Zenka ovinula. lavým ramenom Eduardovu šiju, pravou rúčkou
+            hladila tvár na smrť bľadú a vychudlú. Mravec vypľaštil okále,
+            pohrabal pravou nohou v štrku chodníka, naklonil tvár a zostal
+            Jako primrazený stáť.
+    </tei:p>
+    <tei:p>
+     „Pfui Teu zašeptal, vidiac ošúchaného, ztrhauého muža
+            u boku krásavice, kypiacej krásou a ztepilým životným ohňom.
+            Kontrast bol to nápadný, p júci. Ona vyzerala jako kvetúca
+            lipa pri suchej jabloni, ktorej posledná ratoliestka odumiera. Suché
+            konáre stoja ned
+            tucet, lístk
+            tým vydáva sladkú vôňu a obživuje, silí a teší všetko zôkol-vôkol.
+    </tei:p>
+    <tei:p>
+     Mravcova tvár postupne hlúpla. Konečne rozovrel rty, zaš
+            nesrozumniteľné slová a 1 nazad. Kamienk:
+            jako žabky zpod jeho tra, ch nôh, dupkaj
+    </tei:p>
+    <tei:p>
+     „Ach, frajln Ernestin!“ riekol k pensionistke, ktorá dr
+            knižku v zlatore: Y
+            čulená čítaním sladko,
+            Samaritán. V sade sedí
+            ho po líci!“
+    </tei:p>
+    <tei:p>
+     „Impossibl,“ vzdychla kišasoňka a vyst
+    </tei:p>
+    <tei:p>
+     iste roz-
+            vov erotických. „Gnä Frau celý
+            si otrhaným pobehajom a hladká
+    </tei:p>
+    <tei:p>
+     topánočku zpod
+    </tei:p>
+    <tei:p>
+     červených Karola vi do izby a začula posledné slová.
+            Ztípla. Tušila niečo neobyčajného. Sobrala sa. do zahrady.
+            Mravec použil vhodnej p
+    </tei:p>
+    <tei:p>
+     „Frajln,“ riekol sladkým,
+            som sdeliť vám svoju tajnosť
+            vysloviť svoj cit... takto, toto x
+            cviker z nosa a zahúpal sa na elastickej
+    </tei:p>
+    <tei:p>
+     1. tónom, „už dávno chcel
+            a, frajln, ach — jako mám
+            veľkého citu spadol mu
+            rke.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     369
+    </tei:p>
+    <tei:p>
+     Ernestina ukryla nôžku pod červené šafy a odvrátila tvár.
+    </tei:p>
+    <tei:p>
+     „Ach, sie Witzbold! Čo to má znamenať?“
+    </tei:p>
+    <tei:p>
+     Witzbold nechcel robiť vtipy. Pristúpil bližej, vzal kišasoňku
+            za chudú, vlhko-studenú ruku. Óna počala rukou krútiť jako nebo-
+            žiecom, on ju ale nepustil, ale pritiahol ku svojim prsiam. Na
+            šemisetke mal veľký gombík v podobe podkovy, táto sa celá so
+            všetkymi siedmimi klincami odťlačila na kišasoňkinej ruke, tak
+            mocne tisol k prsiam drahú, studenú pačku. Kišasoňka sa začerve-
+            ňala, vzdychla a obrátila oči rovno k zenitu. Tu bol priaznivý
+            okamžik.
+    </tei:p>
+    <tei:p>
+     Mravec spustil sa na pravé koleno a oblapil ramenami tenký
+            pás svojej krásky.
+    </tei:p>
+    <tei:p>
+     „Emil — to je strašné wenn der Onkel... die Tante...“
+    </tei:p>
+    <tei:p>
+     „Ta sa postavím celému svetu na odpor, len tvoje sladké „áno,“
+            len tvoje nebeské „áno“ daj mi počuť. Ja -—é Emil Mravec v
+            strčil bradu dohora, roztiahol ramená a počal triasť rukami. Emilii
+            vypadla. kniha so zlatorezom z ruky, udrela o svoj roh a postavila
+            sa dolu písmom jako pozlátená strecha.
+    </tei:p>
+    <tei:p>
+     Dvere sa otvorily a dnu vpálil Hrabovec. Trstenica striebrom
+            okutá vypadla mu z ruky. V izbe bolo už šero síce, ale dosť svetla,
+            aby mohol dokonále ohdivovať nežnú skapeninu.
+    </tei:p>
+    <tei:p>
+     Nasledovala. kliatba, ktorú neznesie tlač. Starý pán sohnul sa,
+            za. trstenicou. chytil seladona za límec a zdvihol palicu k driečnemu
+            úderu. Ale Mravec, ktorý hotový bol postaviť sa celému svetu na
+            odpor, hodil na zúrivého pána prosebný pohlad, ktorý odzbrojil
+            ťažkú ruku lrabovcovu.
+    </tei:p>
+    <tei:p>
+     „Marš!“ zareval starý pán jako tur, „dobra kaňarod!“ Tu so-
+            hnul sa k zlatej stri „Liebesklinge“ čítal zo zlatých litier,
+            „hrmen sto bohov prabohov, dám ja vám „Liebesklánge!“ Mladý
+            „pán uspel otvoriť diere. Jako blesk letely za ním „Liebesklánge.“
+            Zlatá striei oddelila sa od listov a klapla Emilovi na chrbát.
+            Listy knihy frčaly ponad jeho pleco až na dvor a padly do kaluže
+            medzi kačice a husy, ktoré sa veľmi poľakaly, a trepotajúc krýdlami,
+            vyronily sa z kaluže na breh. Hus stárka, cítiac sa na pevnivne
+            v dostatočnej bezpečnosti, potriasla chvostom a obrátila sa so sy-
+            kotom k predmetu, čo taký veľký zmätok narobil medzi dvorskou
+            hydinou.
+    </tei:p>
+    <tei:p>
+     Mravec zabudol zapaprať pravou nôžkou, nie ale nohy nakríviť.
+            Oddýchol si na čerstvom povetrí. Marka vybehla na krík z kuchyne
+            a vystrčila hlavu von z dvier.
+    </tei:p>
+    <tei:p>
+     „Dones mi klobúk, Marka,“ riekol prosebným hlasom 1 a
+            milovaný hrdina. Dnu sa neopovážil, lebo z izby zaznieval hrom
+            Hrabovcovho hlasu. Po rýchlej expedícii ohnivého galana počal
+            totiž Hrabovec u kázeň k Ernestine, ktorá bola s nimi v ro-
+            dine a prišla „aufs Land“ k nemu. Marka vbehla do chyže pre
+            klobúk.
+    </tei:p>
+    <tei:p>
+     „Nech sa pi:
+            Mravec vytrhol j
+    </tei:p>
+    <tei:p>
+     9
+    </tei:p>
+    <tei:p>
+     mladý pán,“ riekla, dusiac v sebe smiech. Emil
+            klobúk z ruky a tašiel bez krátkej paličky. Ľavé
+            24
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     3710
+    </tei:p>
+    <tei:p>
+     plece ho pálilo. On potriasal plecom a nechutný úsmev sadol mu
+            na tvár. Vychádzajú: dediny, stretol Pavla Ružu.
+    </tei:p>
+    <tei:p>
+     „Mladý pán,“ šuhaj hákovi, „ešte raz nech po-
+            šklbnú Marku, čo u H „ a tak jim namažem ohlávkou
+            chrbát, že budú volať troch fel: V rukách ľavlových opáľala
+            sa naozaj ohlávka. Mru neriekol ani slova, zaškúlil na Pavla a
+            zrýchlil krok. „To bol fatálny deň,“ pomyslel si, keď pr do
+            pola, „nech čert berie týchto dedinských grobianov!“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Karola zalomila ruky a zostala stáť pred lipou!
+    </tei:p>
+    <tei:p>
+     „Ten človek opováži sa. predstúpiť pred oči tvoje, holúhok môj!“
+          počala hlasom, polo plačlivým a polosrditým. „Ten vagabund ne-
+          hanbí sa položiť nohu svoju do tohoto domu! Eugenia, a to s tvo-
+          jim dovolením, s tvojim vedomím! Ženka, pre Kristove rany vzdiaľ
+          sa od neho! Von zo sadu, von z domu!“ (las dobrej Karoly sa
+          triasol. Rozsídený Hrabov fučiac a hrešiac, šiel chodníkom.
+          li si sestra,“ kričal už z ďaleka, „ten zbrklý fiťfiiriť opo-
+    </tei:p>
+    <tei:p>
+     a
+    </tei:p>
+    <tei:p>
+     „Viem, všetko viem,“ riekla tetuška, „veď je tu, veď je tu.“
+    </tei:p>
+    <tei:p>
+     „Ba kýho beťaha, teda nemá dosť na „Liebesklengä,“ stonoha
+          kadejaká !“
+    </tei:p>
+    <tei:p>
+     Eugenia vystúpila zpod lipovej strechy.
+    </tei:p>
+    <tei:p>
+     „On. je mojím mužom, strýčko!“ riekla ticho, ale určite.
+    </tei:p>
+    <tei:p>
+     Hrabovec vyvalil oči! „Vary sa tie ženské zbláznily,“ pomyslel
+          si. Ženka pokračovala „a ja som jeho ženou! Prosím vás, pri
+          rvozsobáš! Rozhodnutie moje nedá sa premeniť.“ Medzi
+          i strýc pred lipu. Až teraz pochopil Ženku. Tvár jeho z:
+          sa, ruka počala sa triasť! Výstup medzi Malinským a Irabovcom
+          bol búrny. Medzi oboma stála Eugenia, tichá, jakoby sa nič nebolo
+          stalo. V hlbine peknej duše svojej cítila vyplnenú tá pr
+          ktorá ju tak trápila. Srdce zatrepetalo ešte raz, pred oko jej
+          predstúpil Aristid, v úzadí ukázala sa šľachetná postava Ľudovíta:
+          „posledný raz,“ zašeptala a zavrela na chvíľku viečka.
+    </tei:p>
+    <tei:p>
+     „Teda tak, milosťpani!“ zareval zlostne strýc a jeho ústa sa
+          nakrivily. „To je vďaka zato, že som vás privinul k svojmu srdcu,
+    </tei:p>
+    <tei:p>
+     keď tamten pán premíhal tretinu Hrabovcovského majetku! To je
+          vďaka za to, že som vás osvobodil, už skoro celkom osvobodil od
+          korl
+    </tei:p>
+    <tei:p>
+     ela a marnotratníka, vytial
+          A ty, Malinský, opov: č na moju pôdu, ktorá
+          ná dlhom tebou urobeným! Ty prijdeš na oči žene, ktorej
+          zkazil celý kvetúci mladý život! Vel az út, le az út!“
+    </tei:p>
+    <tei:p>
+     „Tedy vyženiete si i neter,“ riekla so studenou spokojnosťou
+          Eugenia. Eduard hľadel tupo pred seba. Neprirodzená veno:
+          zbarvila jeho zbiedenú tvár: on zdížal kašeľ. Nemoc ale je silnejšia
+          jako vôľa človeka. Kašeľ vybúšil a Eduard odvrátil tvár... Karola
+    </tei:p>
+    <tei:p>
+     c! Pekne, pekne, pani
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     311
+          pozrela útrpne na zahubeného človeka. Súcit počal sa budiť v jej
+          útrobe.
+    </tei:p>
+    <tei:p>
+     Trabovec ale bol neustupným. Obrátil sa chrbtom, dupol nohou
+          a tašiel do svojej chyže!
+    </tei:p>
+    <tei:p>
+     „Čo s vami, deti?“ bedovala dobrá Karola. Išla k bratovi.
+          Ten sa osopil na ňu. „I ty pôjdeš z domu! Ani slova viac! Ne-
+          chajte ma o samote.“
+    </tei:p>
+    <tei:p>
+     Eduard chcel sa odobrať. „S Bohom Ženka, i bez pravoty
+          osvobodím ťa naskore! Neprijímam od teba viac obetí ... tys) mi
+          obetovala mnoho, mnoho... Čo po mne, polovičatej mrtvole? Ale
+          svedomie nedalo mi pokoja. bál som sa, že zomrem bez tvojho od-
+          pustenia. Prosím ťa 0 to odpustenie, jako o almužnu, jako o skvelý
+          dar. Dovoľ stisnúť tvoju rúčku.“ Ženka podala Eduardovi obe ruky,
+          on jich celoval. Chcel ísť.
+    </tei:p>
+    <tei:p>
+     „Ta pôjdem s tebou, Eduard! Ty
+          opaterou.“
+    </tei:p>
+    <tei:p>
+     V biednej chyži dedinského hostinca uložila Ženka muža svojho
+          do postele. Celú noc kašlal strašne. Ona sedela pri posteli a ne-
+          odvrátila oka od jeho tváre. K ránu pal nepokojným snom.
+          Eugenia položila hlavu na záhlavie posi a jakýsi nepovedomý
+          stav zmocnil sa jej. Nebol to sen. Keď zdvihla hlavu, uzrela
+          Eduarda polo-sediaceho. Rozpálená tvár jeho vypádala úžasne, oko
+          jeho zimnične svietilo.
+    </tei:p>
+    <tei:p>
+     „Čo ti je, Edko?“ zpýtala sa.
+    </tei:p>
+    <tei:p>
+     „Kto Čo tu chceš? Daj mi ešte kališťok! Čo ma trápiš?
+          Pálenku chcem!“
+    </tei:p>
+    <tei:p>
+     Ženka ztriasla sa.
+    </tei:p>
+    <tei:p>
+     „Nepozi enu svoj
+    </tei:p>
+    <tei:p>
+     Eduard pretrel si oči
+    </tei:p>
+    <tei:p>
+     iste zostavíš pod mojou
+    </tei:p>
+    <tei:p>
+     Ženka je pri tebe, uspokoj sa.“
+          ika, naozaj Ženka! V tejto diere?
+          Čo s tebou? I tys" biedna? Smädí ma, jazyk mi prahne!“
+    </tei:p>
+    <tei:p>
+     Eugenia podala imužovi vody. Eduard okúsil — ztriasol sa.
+          Nato ľahol si a zaspal. Táno prišiel lekár: Karola poslala preňho
+          bez vedomia. bratovho,
+    </tei:p>
+    <tei:p>
+     „Skoro bude koniec?“ pýtal sa ticho a spokojno nezdravý le-
+          kára žida, so zlatými okuliarami na krivom nose.
+    </tei:p>
+    <tei:p>
+     „Len sa šanovať, šanováť! Katarr, gnä Frau, pľúcny katarr.“
+          Napísal recept a vzdialil sa. Fridrich čakal u voza.
+    </tei:p>
+    <tei:p>
+     „Nuž?“ zpýtal sa lekára.
+    </tei:p>
+    <tei:p>
+     »Tuberkulosa a —“ pritom urobil znak pitia, „keď bude veľmi
+          . nech mu dá kvaterku. Potom vždy menej.“
+    </tei:p>
+    <tei:p>
+     „Biedna Ženka!“ vzdychol si Fridrich Kremeň a slza zasvietila
+          v jeho šedom oku.
+    </tei:p>
+    <tei:p>
+     Karola ukázala celú dobrotu svojho srdca. Keď sa Eduard jak
+          tak zotavil, opatrila manželov peniazmi a vypravila preč, s Hra-
+          bovcom nebol možný žiaden komproniss. " On nechcel ani čuť
+          o Eduardovi, na ktorého pokanie neveril!
+    </tei:p>
+    <tei:p>
+     pýtať
+    </tei:p>
+    <tei:p>
+     24+
+     <tei:pb/>
+     3872
+    </tei:p>
+    <tei:p>
+     „Zakial mohlo telo jeho slúžiť hýreniu, mučil ženu, nemajúcej
+            páru na široko, zanechal ju, unížil, zňubil... Keď ale hriechy
+            obrátily front a ukázaly mu tú špatnú stranu svoju, lezie k nej,
+            aby ju spravil svojou opatrovkyňou! 1 tu vidno ošklivé sobectvo!
+            Ona je fantastka, ona chce byť svatou! Taká hlúposť!“ Starý pán
+            odpľul a zabrešil, až sa hory zalenaly. "Každý človek má svoj
+            zvláštny spôsob, keď ho schytia nevšedné city. Rozmrzený, ba
+            opravdu smutný nád odchodom Ženky, predsa nezabudol na svoju
+            kandidáciu. Ale jeho kortešacia bola celkom iná: vadil sa s každým.
+    </tei:p>
+    <tei:p>
+     Aristid Sokol urobil posledný pokus u Ženky pred jej odehodom.
+            Ona. prijala ho v prítomnosti Eduardovej, vyznala že pravdu riekla
+            pod lipou, avšak doložila tichým hlasom:
+    </tei:p>
+    <tei:p>
+     „Nie, ja nie som stvorená pre šťastie! Jak veľmi j
+            sa mi prst boží pri prvom pokuse vymanenia sa Z 1
+            Nazad! zavolal jeho hlas, ja hlas fen počula síce i predtým, ale
+            nejasno! Temný bôľ ležal mi na prsiach | u prostred jasotu môjho
+            rozdráždeného srdca! Vyplň povinnosť až do konca, vypi kalich
+            svoj až do dna!“
+    </tei:p>
+    <tei:p>
+     Aristid nemohol slova prehovoriť. Jemu imponovala veľk:
+            mravná sila ženy tejto... veď preto ju miloval tak veľmi. Ona je
+            ženou iného, zlomený duchom, zničený
+            telom, ale kajúci „ Roztrhlina, ktor: sa byť tak úzka
+            merlzi ním a Zenkou, že ju ľahko mohol údny výrok, roz-
+            tvorila sa medzi nimi tak skročení nemohlo byť
+            reči. Jeho cit bol čestný, láska v stá, od nejž záviselo šťa
+            života, — avšak jednanie Ženky bolo bezúhonné, nutné. Koll
+            medzi dvoma jednak šlachetnýma citama je strašná, koľko súde
+            pukne pod ťarchou takejto dilemmy.
+    </tei:p>
+    <tei:p>
+     „Zenka, opusti mňa,“ zavolal Eduard a zaplakal. Pokryl chu-
+            dými rukami žltú tvár a klesol na diván. Celá ťarcha jeho viny
+            zaľahla na jeho svedomie. Slová jeho znely opravdove, vrúcne.
+    </tei:p>
+    <tei:p>
+     Aristid nemohol ďalej hľadeť na tento ťa ! Počal veriť,
+            že v srdej Eduardovom predsa bol zdravý, chetný nerv, ktorý
+            k jeho nešťastiu neskoro počal sa hlásiť! Avšak kto je k bezvými-
+            nečnému odsúdeniu dosť zlý? Kto hodí kameň na zablúdeného
+            v povedomí svojej čistoty?
+    </tei:p>
+    <tei:p>
+     Aristid sklonil sa k Ženke
+            sného ka. Potom vybehol z i
+            kavki „Ona pravá,“ “ Šepnul dôjduc domov a hodil sa na diván.
+            Rozmýšľal, čo má pýtať za svoj Kokavský majetok...
+    </tei:p>
+    <tei:p>
+     Z južného Tyrolska písala Ženka Ľudovítovi.
+    </tei:p>
+    <tei:p>
+     Vypíšuc svoje osudy dodala: „Už zacelely moje britké rany.
+            Ten bôľ, ktorý hryzol dušu moju, prestal, a bárs necítim „nasla-
+            ždenia,“ jako v slovujete sa vy, polo- Rus, (ľudia mali predsa voľačo
+            pravdu), bárs , kde hlásiť počína sa srdce .. . istá tichá
+            spokojnosť mi v duši... povedomie, že som vedome neobrazila
+            zákon boží a hlas svojho svedomia. To je ten mier duše, ktorý vy
+    </tei:p>
+    <tei:p>
+     a8
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     tak vysoko ceníte. Ta poznávam celú jeho vyvyšujúcu silu. V ľavnom
+            tomto vozduchu vedie sa dosť dobre Eduardovi. Tetka vyhodila
+            nám malú apanážu, pri skromnosti môžeme sa tu ešte pobaviť nie-
+            Eduard mlčí, ale v každom jeho pohľade je toľko vďaky,
+            sky! Krev nepľuje, špiritnosov ani neokú Kašle síce, ale
+            lekár hovorí, že jeho nemoc nenie smrteľná, mi dobrej opatere
+            môže dlho žiť. Verte, že na opatere mu neschádza. Oči jeho sú
+            jasné, tvár dostala zdravšú barvu. Teraz som. presvedčená, že mňa
+            miluje ... Strýc durdí a srdce jeho jaksi rýchlo horkne. Nenie
+            aliv, on nikdy hlbšie nenazre) do života Tudského. V človeku vidí
+            iba. votum ... Román váš čítam už po desiaty raz! Vďaj á
+            pôžitok, vy ste v stave rozuzliť hádky a hlbšie problemy
+    </tei:p>
+    <tei:p>
+     daký rozdiel medzi vaším románom a poviedkami, ktorými krmili
+            nás povrehní maďarskí a nemeckí pisalkov
+    </tei:p>
+    <tei:p>
+     a. Krásy slovenčiny po-
+            z na cudzej pôde uznávam, že je ona
+            „ykom. Boh daj rodinke mojej veľa, ta-
+    </tei:p>
+    <tei:p>
+     ale duchaplným vzdelávaním spisby
+            vedia získať proselytov pre veľkú myšlienku vašu! Tvorením iba
+            získame a pritiahneme lepších duchov! 8% som sa tu s ruskou
+            rodinou, ktorá prílnula ku mme opravdovou náklonnosťou. „My
+            Slaviani,“ hovorí starý páu, nejaký štátny radca, „my bratia.“ Jako
+            ma to potešilo! Oni bývajú až kdesi v Asii, a predsa rozumiem
+            mnoho z jich reči! Veľký to pocit, pyšné povedomie, byť členom
+            fak mohutnej rodin: slovo o vašej skvelej práci: Vy ne-
+            arenie citov, no vaše dielo stojí na širokej
+    </tei:p>
+    <tei:p>
+     znala som až teraz, a te
+            predsa mojím materským jaz
+            kých mužov, čo nie am
+    </tei:p>
+    <tei:p>
+     postati sk ysoké mravné princípy kvitnú nevdojak, samy
+            sebou z pekný tranic. Nevidno síce sentencie, jako: fabula. táto
+            učí... atď., ale fabula vaša predsa učí a pozdvihuje!
+    </tei:p>
+    <tei:p>
+     Odpustite, fšem po nemecky. Pekné veci po slovensky Čítať
+            je o mnoho ľahšie, jako len prostredne niečo písať! Tak nás vy-
+            chovali... hriech rodičov tu naozaj prešiel na deti. Eduard vás
+            pozdravuje, ja som mu mnoho o vás rozprávala... Počína zas
+            kašlať! $ Bohom, učiteľ môj... Zpomeňte si časom na vašu ctiteľku
+            Eugeniu Malinskú. P. 8. Nesmejte sa tomuto neobchodnému do-
+            datku. Odpíšte mi, čo robí Sokol, jestli si s ním dopisujete. Od-
+            vporúčam mu zakončenie vášho románu, nech nezabúda ani on na
+            vaše krásne slová. Vďaka vám ešte raz, vďaka, a prajem vám obom
+            to veľké dobrodenie b nech mier duše neopustí vás do sko-
+            nania. Vaša Ženka.
+    </tei:p>
+    <tei:p>
+     z
+    </tei:p>
+    <tei:p>
+     ulol pri voľbe sirotského, trpí na
+            podagru a vadí už i so svorným Fridrichom, ktorý gazduje zase
+            len starým spôsobom. Karola chlopotí sa cez celý deň okolo ga-
+            zdovstva, a kuchyne. Už prestala odkladať, dôchodky našly kanál.
+            za Pavla Ružu a prevzala pri svadbe úrad širokej.
+            Mravec zmenil dvakráť svoje „politické“ presvedčenie, nahneval
+            otea a ztratil tri miesta, ktoré mu otec horko ťažko zaopatril.
+            Ernestina spieva v Slanici pri rozladenom piane pisklavým, zato
+    </tei:p>
+    <tei:p>
+     Hrabovec i tentokráť pr
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     avšak veľmi sentimentálnym hlasom : „Wenn ičh ein Vôglein wir.
+            Mala známosť s dôstojníkom, ktorý chodil k jej otcovi na večere,
+            a keď sa mu prejedla jeho kuchyňa, dal sa preložiť do inej garni-
+            sony a spolu i do srdca inej dcérky s večerami.
+    </tei:p>
+    <tei:p>
+     Aristid dľho chorel duševne. Pri všetkom obdivovaní vnútor-
+            ných dôstojností Ženky predsa s bôlom niesol ztratu tak blizko,
+            tak ľadne kynúceho mu šťastia. Na ženbu viac nemyslel, Pomaly
+            bolo mu nudno „učiť sedliakov o dva cole hlbej orať“ a on dal
+            svoj majetok do prenájmu. Vo Viedni v obrazárni ) sa náhodou
+            s Ľudovítom. Priatelia objali sa slovenskou úprimnosťou a šli po
+            slovensky na pohár vína.
+    </tei:p>
+    <tei:p>
+     o s tebou, brat môj?“ pýtal sa Aristid.
+    </tei:p>
+    <tei:p>
+     „spisujem, spisujem — ale nenašiel som tak veľkodušného
+            nakladateľa, jakým si bol ty. Prijdú i lepšie časy. Nuž čože s na-
+            šimi známymi?“
+    </tei:p>
+    <tei:p>
+     » Všetko pri starom! Hrabovec hreší a stone na podagru, naša
+            temná vila žije s mužom, ktorého vyrvala na pár rokov z hrtana
+            smrti!“
+    </tei:p>
+    <tei:p>
+     „To zvláštna žena, brat môj! V nej býva opravdová slovenská
+    </tei:p>
+    <tei:p>
+     du:
+    </tei:p>
+    <tei:p>
+     „Prepiatec, rojko ty kadejaký! No ale to stojí, že prevýšila
+            nás všetkých vysokým smýšľaním ! 1 teba, brat môj, i teba!“
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1929776" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     V krinolíne : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84959593">
+     Ivanková, Elena (1871-1941)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     2170
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:84959593">
+      Ivanková, Elena (1871-1941)
+     </tei:author>
+     <tei:title>
+      V krinolíne
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Kníhtlačiarsky účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1929
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="F"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     V krinolíne
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <div type="chapter">
+    <head>
+     (1856.)
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Pani Judita Okoličányi stála pred zrkadlom a prezerala sa tak, ako sa len ženy vedia
+      prezerať, keď idú na ples.
+    </p>
+    <p>
+     Pani Judita bola pekná; prirodzená vec, poviete, v každej rozprávke sú ženy pekné. Ale
+      Judita bola viac, ako obyčajne pekné ženy v rozprávkach bývajú. Judita mala i dušu, a tá duša
+      v nej bola nespokojná. Nebezpečná vec, keď duša býva ešte i v takom krásnom mladom nespokojnom
+      tele, ako bolo jej.
+    </p>
+    <p>
+     V rozprávkach bývajú ženy nespokojné, lebo o spokojných ženách by sa nedalo písať; ale
+      moja Judita neni figúra z rozprávky, ona naozaj žila, hnevala sa, túžila i milovala… Nie, tu
+      zastanem, a história sa počína.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     I.
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Dívala sa do zrkadla a posmešne sa usmievala sama na seba.
+    </p>
+    <p>
+     Najtrpkejšiu zkúsenosť života už mala za sebou: že mužskí ináč, ó, celkom ináč milujú, ako
+      ženy; a od tých čias sa stala pani Judita nebezpečnou — sama pre seba: neľúbila nikoho, ani
+      seba nie, len svoju krásu pestovala, ako nejaký exotický kvet. Ju sklamala láska — dobre,
+      vlastne zle; teraz oklame ona lásku! Ako vidno, bola na zlej ceste.
+    </p>
+    <p>
+     Pán Ladislav Okoličányi, jej muž, bol veľmi milý človek — pre iných. Len pani Judita
+      vedela o ňom, že má i veľmi nemilé vlastnosti; jemu ďakovala trpkú zkúsenosť o mužskej
+      vernosti, a preto mávala ten divný úsmev, keď bola reč o láske; mladé dievčatá sa jej bály.
+      Niekedy bola ako búrka v Tatrách…
+    </p>
+    <p>
+     Ale teraz nie, lebo sa obliekala na bál k bývalému županovi.
+    </p>
+    <p>
+     Narodila sa, vyrástla a žila v Hornom Uhorsku, slovenská krv farbila jej tváričku ružovou
+      ľúbeznosťou, a ona, polovedome, polo nie, milovala tú slovenskú krv a ešte viac — slovenskú
+      zem.
+    </p>
+    <p>
+     Ležať v sene, prižmúriť oči a načúvať spev dievčat, to boly jej najšťastnejšie chvíle v
+      živote.
+    </p>
+    <p>
+     A často sa škandalizovala tá „prvotriedna“ spoločnosť stoličná, keď vravela o sebe, že je
+      ona Slovenka.
+    </p>
+    <p>
+     Že bola mladá, krásna, kapriciózna a bohatá, boli by jej odpustili i to, keby bola
+      tvrdila, že je — Židovka. Ale to nevravela; pani Judita bola skrz-naskrz estetická…
+    </p>
+    <p>
+     Z mužských si nerobila nič; neimponovalo jej ani to, že Géza Rubínyi prelumpoval svoj
+      majetok, zo žiaľu, že ona nechcela s ním tancovať, a že Ferko Motešický v januári preplával
+      Váh, aby mohol ísť s ňou na saniach do Horných Motešíc. Jej to spravilo len na minútu nejaký
+      dojem.
+    </p>
+    <p>
+     „Rovnakí sú všetci, rovnakí!“ hovorievala a lámala srdcia tak, ako hluché orechy.
+    </p>
+    <p>
+     Vravím, bola na zlej ceste.
+    </p>
+    <p>
+     Že mala už povesť, aká je kapriciózna a pritom chladná, krásna a nesvedomitá, z toho si
+      ona málo robila. A pán Ladislav čušal… neopovážil sa veľmi hovoriť… nikdy nemal celkom čisté
+      svedomie… Hja, kačica je komótnejšie zviera, ako labuť v chlievci lásky — no a Marka v domčeku
+      pri Váhu nebola ani kačica, ale hus. Škoda, že pán Okoličányi obľuboval husaciu pečienku…
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II.
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Vonku bola zima, až tak prašťalo.
+    </p>
+    <p>
+     Hajdúsi mali srieň na fúzoch a sneh im vržďal pod čižmami.
+    </p>
+    <p>
+     „V takej zime vyjsť do hory!“ divil sa starý Ondro a vypľul, až tak fŕkalo. „No, či to
+      niekto slýchal? Keď tá naša pani majú vždy také čudné apetíty!“
+    </p>
+    <p>
+     Len on a Hanka išli s paňou do hory. Tam v horárni sa obliekala pani Judita na bál.
+    </p>
+    <p>
+     Z Viedne jej vlastnoručne doniesol Gašpar Madunický bednu; nikto nevedel, čo bolo v nej.
+      Keď ju vyložili na sane, sama pani Judita dávala pozor, aby sa bedne nič nestalo.
+    </p>
+    <p>
+     A teraz bola konečne tu, v osamelej horárni, slovenský sneh ležal na slovenských
+      svrčinách, široko-ďaleko nikoho, len ona, Ondro a Hanka.
+    </p>
+    <p>
+     Hanka bolo dievča ako srna a pravá ruka panej Judity. Starý hajdúch hundral po celej ceste
+      a spomínal vlkov a zbojníkov.
+    </p>
+    <p>
+     Ale pani Judita ukázala biele zúbky a pekne vyloženú pištoľ; Ondro kývol plecom, a koníky
+      letely ďalej do hory.
+    </p>
+    <p>
+     V lete bývala často po pár týždňov v horárni — to bolo vidieť hneď. Kuchyňa zariadená,
+      panina izba tiež. Vo veľkej zelenej peci blčal veselý oheň, domček bol ako zakliaty vo vysokom
+      snehu; neďaleko bolo vidno stopy jeleňov, čo hľadaly pokrm.
+    </p>
+    <p>
+     Pani Judita bola tak pozakrúcaná do velikánskej bundy na saniach, že by ani na dlhšej
+      ceste nebola zamrzla, nie to takto na pol hodiny od stoličného mesta.
+    </p>
+    <p>
+     V izbe bolo príjemne teplo, kúrilo sa už od týždňa, nízke oblôčky domčeka ako by sa už
+      zďaleka usmievaly na svoju paniu; vnútri stôl, stoličky z čerešňového dreva, všade srdiečka
+      pekne vyrezávané na nich. V tom domčeku strávila prvé týždne svojho manželstva. Vtedy mal pán
+      župan ešte viac vlasov a menej zkúseností, a Judita nemala toho čudného výrazu v očiach. Ale
+      to bolo všetko už ďaleko za ňou. Do horárne chodila v lete sama, pán župan mal mnoho roboty…
+      Ona stiahla červené ústa, keď to počula…
+    </p>
+    <p>
+     V košíku Hanka doniesla dobre zapakované chladné mäso, fľašu červeného vína, biely chlieb
+      a všelijaké sladkosti. Večer mali prísť po ňu s fakľami mladí gavalieri. Veď im vravela, že
+      tento raz uvidia na bále niečo, čoho ešte nikdy nevideli. Pri tom sa tak huncútsky a milo,
+      ach, a tak veľmi po evovsky usmievala, že by štyria bratia Hajnócovci boli šli za ňou nie na
+      polhodinovú vychádzku do zasneženej hory, ale, ako vraveli, i do pekla.
+    </p>
+    <p>
+     No skoro sa im to splnilo… Zvláštna vec, že v tie časy, keď naše staré matky krotko a
+      sladko vyšívaly a varily, spievaly nábožné piesne a prelievaly slzy v dobe ešte veľmi pod
+      vlivom Goetheho „Werthers Leiden“ stojacej, žila Judita Okoličánka, pokladala sa za Slovenku a
+      pobláznila do seba mládež troch stolíc…
+    </p>
+    <p>
+     Ona tiež čítala „Werthers Leiden“, ale popri tom si krútila „lokne“ na ružový papier — na
+      ňom verše k nej od mladého básnika, ktorý sa neskôr stal povestným maďarským poetom… nie, na
+      ňu neúčinkoval už žiaľ mladého Werthera.
+    </p>
+    <p>
+     Pred bálom pila vždy chladný čaj; hovorievala, že ani pri najohnivejšom tanci sa potom
+      nerozčervenie príliš.
+    </p>
+    <p>
+     Hádam od toho mala potom také oči, ako acháty? Jej nepriateľky to aspoň povrávaly — a ona
+      mala ich dosť…
+    </p>
+    <p>
+     A počala sa veľká procedúra obliekania.
+    </p>
+    <p>
+     Príroda stvorila Juditu Okoličánku v obzvlášte dobrej nálade. Ako keby bola chcela ukázať,
+      čo vie, keď chce, stvorila ju.
+    </p>
+    <p>
+     Ó, tie naše staré a prastaré matky! Musely byť veľmi trpelivé duše. Dnešná žena by nemohla
+      nosiť krinolínu — a ony ju nosily bez reptania.
+    </p>
+    <p>
+     Ešte tomu neni šesťdesiat rokov, keď bola šírka ženskej sukne, meraná na spodku — 10
+      metrov. Aby táto masa stála, potrebovala všelijakých podpôr.
+    </p>
+    <p>
+     Spodné sukne sa počaly premieňať na matrace, robily ich z konskej srsti, povrazov a
+      slameníc. A že sa konská srsť po francúzsky volá „crin“, nazvali tento báječný nástroj
+      krinolínou. Nad krinolínou nosily ešte flanelovú sukňu a nad tou perkálovú… potom ešte koleso
+      z konskej srsti, na tom dobre vyškrobenú sukňu, a ešte jednu ľahkú. A len na celý tento
+      nástroj prišla sukňa parádnych šiat. Tá stála potom ako zvon. A to bola najvyššia krása! Panie
+      nosily v rokoch 1850 — 60-tych dlhé čipkové nohavičky, potom flanelovú sukňu, na tri a pol
+      rífa širokú, potom sukňu, mäkkou vatou futrovanú až po kolená, hore vyššie kosticami
+      pretiahnutú, na tom škrobenú sukňu z plátna s troma škrobenými „volánmi“, na tom dve mulové
+      sukne. Dosť.
+    </p>
+    <p>
+     Trvalo to dosť dlho, kým vymysleli miesto vankúša z konskej srsti niečo iné, oceľové ráfy.
+      Bolo to ako ohromné papagájové klietky a pozostávalo z 24 kusov.
+    </p>
+    <p>
+     Šikovný človek vymyslel potom neskoršie „cage diamant“ — diamantovú klietku. Vážila len
+      pol funta. Od tých čias ženy malý ľahší život. Prirodzená vec, diamantov na nej nebolo.
+    </p>
+    <p>
+     I Judita Okoličánka mala všetky tieto nástroje, ale dnes, ó, dnes zblednú všetky ženy od
+      závisti, lebo ona bude mať prvá „magickú krinolínu“.
+    </p>
+    <p>
+     Jediným pohybom bude môcť krinolínu rozšíriť a zúžiť, ako bude chcieť. Niečo neslýchané!
+      Ani Lujzika Rakovská, ani Mária Nedecká netušily o podobných veciach, a to boly jej najhoršie
+      — priateľky.
+    </p>
+    <p>
+     Achátové oči sa blyšťaly od radosti, keď s Hankou vypakúvala bedňu.
+    </p>
+    <p>
+     Pred osemdesiatimi rokmi dámy maly na spodku šiat skromne len jeden „volán“, o pár rokov
+      ich bolo už dvadsaťpäť, a Judita Okoličánka mala ich už deväťdesiattri.
+    </p>
+    <p>
+     Až jej líca horely, keď ich čítala. A bolyže to šaty!
+    </p>
+    <p>
+     Biely atlas, na ňom od spodku tých deväťdesiattri tulových volánov a celé šaty pokryté
+      ľahkým závojom. Čo to bolo?
+    </p>
+    <p>
+     Judita rozmýšľala. Všetko to bolo ľahké, nežné, ako sen, ako nejaká vízia. Krep, barége,
+      muselin, všetko priezračné, grenadine, tarlatan, jaconas, organdi, tul nosily dámy tej doby,
+      len ona, ona bude mať šaty z „kryštálovej gaze“, ľahkej ako nádeja, plnej túžby a nežného
+      tušenia, z dvoch rozličných farieb ako by zbásnené…
+    </p>
+    <p>
+     Judita nepomyslela na to, čo je po tom všetkom — nie, magická krinolína a vlny závoja sú
+      pekné, ale ona, ona je krásna.
+    </p>
+    <p>
+     Zlaté, „túžobné lokne“ padaly na nahé plecia, hrdlo hladké, biele, okrúhle, ramená ako zo
+      živého mramora, achátové oči v mladej tváričke…
+    </p>
+    <p>
+     Stála pred zrkadlom a probovala magickú krinolínu.
+    </p>
+    <p>
+     Malá izbietka bola naplnená jaganím šiat a bielych pliec. Ani tušenia nemala o tom, že sa
+      horúce belasé oči dívajú na ňu cez sklo nízkeho oblôčka.
+    </p>
+    <p>
+     A dobre bolo tak, ináče by sa nebola pokojne obliekala.
+    </p>
+    <p>
+     Vonku zavržďal sneh, ľahký krok mladého šuhaja sa blížil k dverám.
+    </p>
+    <p>
+     Jeden skok — už ležala Hanka poviazaná v malej kuchynke, ani hnúť, ani zavolať nemohla od
+      úžasu.
+    </p>
+    <p>
+     On otvoril tichúčko dvere a zastal v nich.
+    </p>
+    <p>
+     Aký to bol divný šuhaj?
+    </p>
+    <p>
+     V sedliackych šatách, tmavom kepeni, širokom klobúku — v opasku zbraň.
+    </p>
+    <p>
+     Judita sa obrátila.
+    </p>
+    <p>
+     Bola smelá, smelšia ako hociktorá žena jej doby a jej spoločnosti — predsa sa zľakla.
+    </p>
+    <p>
+     Oprela sa o stôl, volány na hrudi sa triasly, tvárička bola razom priezračne biela.
+    </p>
+    <p>
+     Šuhaj sa ešte vždy díval na ňu.
+    </p>
+    <p>
+     Chlap ako hora, vysoký, tenký, tmavé vlasy a horúce belasé oči, ktoré sa rovno dívaly do
+      jej očú.
+    </p>
+    <p>
+     Judita si myslela, že i on musí počuť bláznivý tlkot jej srdca. Ona sama tu prostred hory,
+      sama s povestným zbojníkom. Veď to nemôže byť nik iný ako Holubár…
+    </p>
+    <p>
+     Ešte bola v ľude živá rozpomienka na Jánošíka, a v nepokojných časoch pre revolúciu kde-tu
+      zjavili sa i na Horniakoch zbojníci. I teraz šarapatili. Ach, aký nesmysel ísť do hory! robila
+      si výčitky. Ale teraz už bolo neskoro…
+    </p>
+    <p>
+     „Čo chceš?“ spýtala sa ho, darmo sa vynasnažujúc mať pokojný hlas.
+    </p>
+    <p>
+     Krásna mladá žena sa bála…
+    </p>
+    <p>
+     On, akoby onemelý, tmavo díval sa na ňu.
+    </p>
+    <p>
+     Judite sa zdalo, že je nekonečne dlho, čo takto stoja, a to trvalo len sekundu.
+    </p>
+    <p>
+     „Pištoľ, pre Boha — kde mi je pištoľ?“ — blyslo jej hlavou.
+    </p>
+    <p>
+     Márna úfnosť.
+    </p>
+    <p>
+     Spravil skok, a chytil ju za ruku. Judita skríkla — vrhla sa zpät, a už blkotaly ľahké
+      šaty v plameni sviečky, ktorá stála za ňou.
+    </p>
+    <p>
+     Šuhaj šmahol za čipkami, pritisol rukou plameň — bolo po nebezpečenstve.
+    </p>
+    <p>
+     Predsa ju držal za krátuškú sekundu v náručí a počula silný klepot jeho srdca, a jeho pery
+      len že sa nedotkly jej vlasov — tak blízko jej bol.
+    </p>
+    <p>
+     Striasla sa od hrôzy a rozčúlenia.
+    </p>
+    <p>
+     „Pani, nebojte sa!“ oslovil ju konečne. „Vám nestane sa nič, len vaše zlato musím mať“ —
+      ukázal na šperky, ktoré ležaly na stole. „Ja ich nepotrebujem,“ dokončil opovržlive, „ale
+      kamarátom to musím dať.“
+    </p>
+    <p>
+     Judita si vydýchla. Prvá hrôza jej prešla. Nie, tento človek, čo ju práve ratoval od ohňa,
+      jej neublíži. No, a čo len šperky — veď tie ešte dostane zpät! A keď i nie.
+    </p>
+    <p>
+     „Len tento prstenček mi nechajte!“ prosila, ukážuc na tenušký skromný prsteň. „Mám ho od
+      nebohej matky!“
+    </p>
+    <p>
+     On sa odvrátil.
+    </p>
+    <p>
+     Judita ho prvý raz videla s boku. A ešte i v tomto momente zbadala „bajonetový profil“
+      zbojníka. Profil, za ktorým sa blaznely dámy vysokej spoločnosti tej doby.
+    </p>
+    <p>
+     Paralelná rovná čiara čela a nosa, spojená krátkou priečkou, i podnes najväčšia
+      zriedkavosť. Mladý zbojník jej odovzdal prsteň a vzdychol si.
+    </p>
+    <p>
+     S Juditou sa stala razom premena, už sa nebála. Možno, posmeľovala ju i myšlienka, že
+      každú chvíľu môže počuť sánky štyroch Hajnócych.
+    </p>
+    <p>
+     Len jedna sviečka horela, druhá ležala zrútená na zemi, z kachličiek svietil červený
+      plamienok. Ako tak stála Judita, opretá o tmavé drevo steny, čipky okolo pŕs a pliec strhnuté
+      a spálené, achátové oči v tajnej tôni mihalníc, volány šiat boly ani biele oblaky, a ona ako
+      pekný smutný anjel.
+    </p>
+    <p>
+     Zelená košeľa zbojníkova mala jedovatý lesk, vpila do seba svetlo jedinej sviečky, šuhaj
+      počal hovoriť.
+    </p>
+    <p>
+     Bez pýtania rozložil Judite svoj celý život: krivdu, žiaľ, zármutok…
+    </p>
+    <p>
+     Tak sa stal zbojníkom.
+    </p>
+    <p>
+     Ako by sa spovedal v chráme, tak vravel pred Juditou.
+    </p>
+    <p>
+     A ona sa cítila, ako keby ho už dávno, dávno bola poznala. Pyšná Okoličánka sa dlho a milo
+      shovárala so ztrateným šuhajom.
+    </p>
+    <p>
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+    </p>
+    <p>
+     Keď o štyri týždne jedného rána prebúdzala sa pani županová, počula krik a lomoz na
+      širokých chodbách stoličného domu.
+    </p>
+    <p>
+     Nahnevano zvonila na Hanku.
+    </p>
+    <p>
+     Ale už sa dvere roztvorily a v nich stál sám pán Okoličányi.
+    </p>
+    <p>
+     „Jutta, už ho máme!“ zvolal pyšne, vykrútiac si fúzy.
+    </p>
+    <p>
+     Za županom drábi a hajdúsi a medzi nimi, ruky sputnané, roztrhaný, zakrvavený — Holubár.
+    </p>
+    <p>
+     Judita v nočných šatách, biely čepček na hlave, práve chcela vložiť ružovú nôžku na
+      koberec z labutieho páperia, keď zbadala tento zjav.
+    </p>
+    <p>
+     Zahodila na seba čipkový plášť, pomaly vstala, a dlho a pozorne sa dívala na krvavého
+      zbojníka.
+    </p>
+    <p>
+     A melancholicky, ticho a mäkko vravela mužovi:
+    </p>
+    <p>
+     „Ale, ale, čo ti prišlo na um… Nikdy som ja tohoto človeka nevidela.“
+    </p>
+    <p>
+     A tým mu ratovala život…
+    </p>
+    <p>
+     To bola jediná láska v živote Judity Okoličánky.
+    </p>
+    <p>
+    </p>
+   </div>
+  </body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1936374" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Krásna Gerta : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:85153916">
+     Kompiš, Peter (1901-1949)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     7272
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:85153916">
+      Kompiš, Peter (1901-1949)
+     </tei:author>
+     <tei:title>
+      Krásna Gerta
+     </tei:title>
+     <tei:pubPlace>
+      Myjava
+     </tei:pubPlace>
+     <tei:publisher>
+      Knižnica slovenského východu
+     </tei:publisher>
+     <tei:date>
+      1936
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-31">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Krásna Gerta
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    Slnko ešte zplna žiarilo, ale pálèivos poèínala už povo¾ova. ¼ahký vánok strapatil
+         šedomodré morské vlny.
+   </p>
+   <p>
+    — Koneène, koneène! — zavzdychla si malá šedovlasá pani Stráòavská, keï neve¾ký,
+         bledozelený parník, èo ich priviezol s pevniny na jadranský ostrov, zastal v malièkom
+         prístave a poèal spojne odfukova. Dlhé biele molo hemžilo sa národom. Bolo to ako nejaká
+         národná slávnos. Len zástavy chýbaly a dáka strhujúca reè, èo by zástup oduševnila.
+   </p>
+   <p>
+    Miesto toho ozvaly sa protivné pisk¾avé výkriky:
+   </p>
+   <p>
+    — Faki! — faki! (nosiè!) —
+   </p>
+   <p>
+    — Hotel Jadran! — zvolal syn panej Stráòavskej, vysoký štyriciatnik v šedej èiapke a
+         ¾ahkom turistickom obleku, na oèiach zelené okuliare, strežúci žiarlive tri kufry, o ktoré
+         sa ustaviène potkýnali hundraví pasažieri. Jeho žena ujala sa svokry. Utieral si šatkou
+         spotené èelo a krk. Mal už toho cestovania dos. Omrzelá, ustaraná tvár prezrádzala to
+         ve¾mi zrete¾ne. Lebo veï naseda s dvoma ženskými na vlak v najživšej kúpe¾nej sezóne pred
+         samou polnocou a teriga sa s nimi celé štyri dni k moru a piaty po mori, nie je žiadna
+         malièkos, už keï vezmeme iba staros o batožinu, volanie na nosièov, jednaèky s nimi a
+         sledovanie ich, aby neuvrzli. A potom tá veèná ženská nespokojnos, tie veèné dohováraèky,
+         aký si nešikovný, nepraktický, èert aby to vzal všetko! Boly síce v tých piatich dòoch aj
+         chvíle oddychu. Cestu prerušili tri razy a zakaždým strávili noc pohodlne v hoteli, aby
+         mame cesta nezaškodila. Ale i tak bolo sháòaèky, ahaèky dos, nehovoriac ani o troch
+         prasknutých gumových vankúšoch, ktoré zolhaly hneï v prvé hodiny cesty. Nie èudo, že
+         zunovaný bratislavský redaktor uprel oèi na za¾udnený breh ako na svoju spásu a opakoval
+         zúrivo: — Hotel Jadran!
+   </p>
+   <p>
+    — Nekriè tak! — miernila mladá pani Stráòavská, drieèna plnoboká blondýna mužovu
+         horlivos. — Všetok svet sa na nás díva.
+   </p>
+   <p>
+    Ale už pribehol na palubu a razil si cestu lakami dlhý vychrtlý domorodec, schytil dva
+         kufry a chcel si vyloži na plece tretí, keï sa Stráòavský ozval:
+   </p>
+   <p>
+    — Kde máte štít? Ste vy z hotelu Jadran?
+   </p>
+   <p>
+    — Z Jadranu nie som, ale ta to zanesiem.
+   </p>
+   <p>
+    Stráòavský vytrhol ochotnému pomáhaèovi hnevivo kufry z rúk. Na šastie prihrnula sa už
+         i nedbalo obleèená osmahlá ženská, dirigovaná zrejme s brehu bruchatým bieloobleèeným
+         mužským a zmocnila sa batožiny. Traja Stráòavskovci hrnuli sa za òou dolu z parníku.
+   </p>
+   <p>
+    Bieloobleèený pán na betonovom mole s hlavou gu¾atou ako dyòa predstavoval sa èesky:
+   </p>
+   <p>
+    — Som Roubal, majite¾ „Jadranu“. Vítam vás u nás, pán redaktor, i vás, milostivé panie!
+   </p>
+   <p>
+    — A rezervovali ste nám pekné izby? — vyhàklo to zo starej panej, èo pustila sa do
+         drobèivého kroku. —
+   </p>
+   <p>
+    — Dúfam, že budete spokojní — zarazil sa hotelier nad všeteènou otázkou. — Zdá sa mi, že
+         tá stará bude poriadne sekýrova — pomyslel si a podíval sa súcitne na redaktora. — Sme
+         hneï tuná naproti, èo stoja vo dverách tí èiašnici — ukazoval na neve¾kú dvojposchodnú
+         budovu.
+   </p>
+   <p>
+    — Ej, ha! Jest mi tu svete! — pomyslela si stará pani, zadívajúc sa cez okuliare
+         kriticky na druhý breh.
+   </p>
+   <p>
+    Osmahlí, tmavoodení, skoro nehybní domorodci obzerali si so záujmom našu patoru,
+         zatáèajúcu v oblúku k hotelu.
+   </p>
+   <p>
+    Nastala prehliadka izieb. S dvoma súvislými izbami na prvom poschodí, èo im hotelier
+         rezervoval, nebola stará pani spokojná. — To by som bola jako uväznená — nepáèilo sa jej,
+         že by musela chodi cez prvú, väèšiu izbu.
+   </p>
+   <p>
+    Prezrely sa ïalšie izby, s odpoludòajším slnkom, s ranným slnkom, s výh¾adom na prístav
+         i s výh¾adom na figovú a citrónovú záhradu. Izba s ranným slnkom mala výh¾ad na nechutný
+         dvor. Do prístavnej dorážal hluk z mola. Do ïalšej izby videly nejaké zvedavé ženské zo
+         súsedstva. A rohová izba, jediná, v ktorej našla pani Stráòavská za¾úbenie, bola už
+         obývaná.
+   </p>
+   <p>
+    S ažko vydychujúceho hoteliera lial sa pot cícerkom, keï sa stará dáma koneène ustálila
+         na rohovej izbietke v druhom poschodí, obrátenej jedným oknom k záhrade, druhým na toèitú
+         kamennú cestu s radom domov, vinúcu sa po nábreží. Mladí vrhli sa do druhého konca, len aby
+         boli od mamy trochu ïalej, nedbajúc, že do izby dolieha prístavný hluk celou silou.
+   </p>
+   <p>
+    — Mohli ste si vzia ku mne bližšie, dietky, — pozastavila sa stará dáma.
+   </p>
+   <p>
+    — Nechceme by neïaleko toalety, — vyhováral sa syn. — Veï sme beztak na jednej chodbe,
+         mama.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Dolu v jedálni bolo celkom príjemne. Od mora vial chlad. Hostia vyzerali dos
+         sympatickí. Iba ve¾ká mladá èiernoodená èiašnica bola trochu vyžilá.
+   </p>
+   <p>
+    Zato hotelierova chovanica, pomáhajúca v kuchyni i v jedálni, neve¾ká, plavovlasá Nemka
+         v kvetovaných zelených šatièkách, bola jako ruža v rozpuku. Stará pani Stráòavská ob¾úbila
+         si ju od prvej chvíle. Chválila pri nej, ako cudne klopí oèi, ani si nevšímajúc vtieravých
+         a obdivujúcich mužských poh¾adov. A ako milo odpovedalo to mladé stvorenie, keï sa ho èo
+         spýtala. Ani keï vtáèa šteboce.
+   </p>
+   <p>
+    — Zvláštné, vy taký Èech, a sleèna chovanica Nemka — èudovala sa redaktorova matka, keï
+         s ich svolením prisadol si k nim po obede Roubal.
+   </p>
+   <p>
+    — Moja pani je Nemka, a to je jej neter, dcéra po zomrelom bratovi, sirota. Ostatne, je
+         to už naša dcéra, adoptovali sme ju.
+   </p>
+   <p>
+    — Á! — prekvapilo to pani Stráòavskú. — To nemáte žiadnych vlastných detièiek?
+   </p>
+   <p>
+    — Nemáme — odpovedal hotelier vážne a zhlboka si zavzdychol.
+   </p>
+   <p>
+    Amplion spustil vo¾aèo veselého. Roubal vstal ho vyladi. — Vo dne máme dos biedny
+         posluch — vysvet¾oval. — To preto, že ruší to úèinok slnka na morské vlny. Prahu poèu
+         poriadne až v noci — doložil roztúžene.
+   </p>
+   <p>
+    — Ste z Prahy? — ozvala sa pani Stráòavská.
+   </p>
+   <p>
+    — Nie, z Nemeckého Brodu, ale bez Prahy by som tu nevedel ži. Starobu, ak sa jej
+         dožijem a ešte si nieèo nagazdujeme, chcel by som trávi v Prahe — odha¾oval najvrelšiu
+         túžbu svojho srdca.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    A poèalo sa letova. Jedáleò bola pri samom prístavnom zálive; keï sa spenené vlny
+         rozkolísaly, striekly vše dvermi až dnu. Stará pani Stráòavská jedla svoju diétu a zapíjala
+         ju mierne tmavoèerveným dalmatinským vínom. Dávala sa informova o miestnych pomeroch od
+         drieèneho bruneta, mladého úradníèka z plzenského magistrátu. Roubal je fajn èlovek, ale
+         neznesie, aby mu hostia chodili na víno do starého hostinca „Beograd“, k domorodcovi, kam
+         sa vchádza ve¾mi náladovým, hustou zeleòou od ostatného sveta skoro úplne oddeleným
+         ståporadovým dvorom. Hostinský vyzerá síce ako zapustený starý lúpežník, ale má znamenité
+         staré a lacné víno, polovièné ceny proti „Jadranu“, a vie rozpráva hrozne zaujímavé
+         historky. Rychtár je bývalý krèmár, vinohradník, býva v dos peknej vile, v tej strmej
+         ulici nad pobrežným radom domov. Hovorí sa o òom, že má mnoho peòazí, — vo¾akedy pašoval,
+         vraj, hodne do Itálie — a chystá sa vybudova „Jadranu“ konkurenciu: ve¾ký moderný hotel s
+         kúpališom a tenisovými courty, polhodiny od obce. Lenže je na to trochu pristarý a nemá
+         detí. Nuž, ale veï sa ¾ahko môže spriahnu s dákym mladším èlovekom, odborníkom. Je to tam
+         ve¾mi pekné miesto, borový hájik pár krokov odtia¾, ohromný výh¾ad na širé more.
+   </p>
+   <p>
+    — To Roubala úplne skonkuruje — páèil sa smelý projekt pani Stráòavskej.
+   </p>
+   <p>
+    — Akože! Roubalovi sa toto úplne znehodnotí, bude ho muse zavre. Ešte bude rád, ak ho
+         prijme rychtár do svojich služieb.
+   </p>
+   <p>
+    — Preto je ten èlovek taký smutný. A ja som si myslela, že sa mu to tak za Èeskom cnie.
+   </p>
+   <p>
+    — Horky cnie. Èo by tam robil? U nás sú inakší hotelieri a nejeden len-len že živorí —
+         podceòoval mladíèek Roubala. Hrdos Plzeòáka nadmula mu sp¾asklú hruï.
+   </p>
+   <p>
+    — No, vidíte, — ozvala sa pani Stráòavská k deom. — Takto to tu nemôže zosta. Je to tu
+         na posmech primitívne. Malé izbièky, krik z dediny i z parníkov.
+   </p>
+   <p>
+    Po obede sa šlo zdriemnu. Stará pani zdriemla si hneï. Mladí pre hluk, doliehajúci z
+         prístavu, nie a nie zaspa. Keï zavreli okná, nevydržali od horúèosti. Museli ich otvori
+         znovu a èaka na prestávku ticha. Hneï z prvých driemot vyrušilo ich však klopanie a
+         búchanie na dvere, sprevádzané známym milým hlasom:
+   </p>
+   <p>
+    — Vstávajte, drichmoši!
+   </p>
+   <p>
+    Horky-nevo¾ky museli sa zviecha s postelí a putova s mamou cez dedinu na kúpalište.
+         Stará dáma, moderná osoba, horlivá propagátorka mikáda a každého pokroku vo svojom
+         bydlisku, nerobila dlhé komédie, ale obliekla sa do modrého pyjama a rozovrúc si
+         pestrofarebný ¾ahký japonský slneèník nad hlavou, drobèila v kombinovaných krokodílich
+         èrievièkách. Osmahlé tváre domorodcov zaokrúhlily sa k posmešnému úsmevu, z mäsitých
+         èervených pier ozývaly sa tlmené odsudzujúce poznámky alebo nebárs šetrné vtipy.
+   </p>
+   <p>
+    — Èo sa ten svet tak na mòa díva?! — stávaly sa tucty uprených poh¾adov starej dáme
+         nepríjemnými. — Ako by nikdy nevideli civilizovaného èloveka — od¾ahèovala si.
+   </p>
+   <p>
+    — Sú to, mama, ostrovania. A každý ostrovan je konzervatívny až hrúza — vysvet¾oval syn.
+   </p>
+   <p>
+    — Zpiatoèníci vo¾áki — zamrmlala.
+   </p>
+   <p>
+    — Nuž, áno, mamièka — mrzelo nevestu, že sa jej svokra dostáva do rozporu s domorodci. —
+         Èudné im je to pyjama na staršej dáme. Azda by si sa mohla preobliec až v kabíne.
+   </p>
+   <p>
+    — Vari k vôli tým zaostalcom? Just nie! — zatvrdzovala sa drobná rezolútna osôbka so
+         šedivým mikádom.
+   </p>
+   <p>
+    — Mama! — redaktor h¾adel obráti vec na žart.
+   </p>
+   <p>
+    — Zakroèil by som na tvoju obranu a spucoval tých somárov. Veï som tvoj syn. Patrí sa mi
+         zasta sa a. Ale mohly by padnú nadávky, zauchá. Ešte by bol z toho proces.
+   </p>
+   <p>
+    — Také vtipy si môžeš necha, ty ge¾o pochabý! — durdila sa matka. Až o chví¾u poèala sa
+         utešova:
+   </p>
+   <p>
+    — Takí hlupáci sa mi chcú posmieva, nie aby boli radi, že èlovek sem donesie pár groší.
+         Ja by som ich mohla skorej skritizova. Veï tí ¾udia sa tu, tuším, ani neumývajú. A naveky
+         chodia v tmavom, aby im nebolo na šatoch tak špinu vidno, fuj!
+   </p>
+   <p>
+    Na kúpališti nebolo ešte nikoho.
+   </p>
+   <p>
+    — Mamièka, je tak horúce, hlava ma rozbolela. Nemali sme sem tak vèas chodi. Ani
+         Lackovi nie je to zdravé — schovávala sa pani redaktorová do kabíny, zahrnujúc za sebou
+         bielu záclonu, kdežto stará dáma rozva¾ovala sa v dlhom pletenom kresle na doštenom
+         chodníku pri samom mostíku, ovievajúc sa šatôèkou.
+   </p>
+   <p>
+    — Èo by ste vy, rozmaznanci, vedeli! — odbíjala nevestu svokra. — Keï som raz tu, chcem
+         za svoje peniaze nieèo uži. Už cítim, ako ma jód a bróm ovieva z tých morských vån.
+   </p>
+   <p>
+    Kúpalište poèalo sa plni až po olevrante. Holohlavý riadite¾ s fešáckymi èiernymi
+         fúzikmi sobliekol sa v kabíne, podíval sa samo¾úbo do nástenného zrkadla, vyšiel na mostík
+         a vrhol sa do vån, mohutne veslujúc ramenami. Potom sa hodil na chrbát, nabral pár lokov
+         vzduchu a poèal sa usmieva na dámy, dívajúce sa s brehu. Nepochyboval totiž, že ho
+         obdivujú. Vrátil sa však èoskoro na breh.
+   </p>
+   <p>
+    — Èo tak skoro, pán riadite¾?! — èudovala sa pani Stráòavská. — Èo ste nezostali dlhšie,
+         taký bájeèný plavec?!
+   </p>
+   <p>
+    Usmial sa ¾úbezne, lebo otázka pošteklila jeho samo¾úbos. — Èlovek nemá niè prepína —
+         vyhováral sa. — Už to tak nejde, ako keï mi bolo päadvaca. Vtedy by som bol preplaval
+         more trebárs až po tú pevninu, tam — ukazoval na jasný šedožltý pruh na obzore, èo sa nad
+         ním týèily holé vrchy.
+   </p>
+   <p>
+    — Úžasné! — nevedela sa pani Stráòavská prenadivi.
+   </p>
+   <p>
+    - Vlani tu bola jedna mladá Slovinka — ozvala sa pekná pani profesorová z Moravy,
+         chodievajúca na kúpalište ani nie tak kúpa sa, ako skôr stava na odiv svoje drahé moderné
+         toalety — tá preplávala more až do najbližšieho prístavu, to je, tuším, 9 kilometrov. Dala
+         sa sprevádza motorovým èlnom. Plávala na bruchu, na pravom a ¾avom boku, na znak. V dákej
+         polceste hádzali jej s èlnu šunkové žemle, aby sa posilnila. Jedla ich položená na chrbáte,
+         ako by niè. A keï doplávala, zjedla dup¾ovanú veèeru a tanèila do noci moderné pri
+         gramafone. Chcela potom o pár dní prepláva až na pevninu, ale mama jej nedovolila.
+   </p>
+   <p>
+    — Bájeèné! — obdivovali skvelý výkon poslucháèi. — Ako sa volá tá dáma?
+   </p>
+   <p>
+    — Ale, nepríde mi na um. Noviny tiež písaly o tom, neèítali ste? Uverejnily aj jej
+         podobizeò, ve¾mi pekné stvorenie. Lebo veï dodržala všetky športové pravidlá. S motorky
+         kontrolovali ju zástupcovia dvoch povestných plaveckých klubov.
+   </p>
+   <p>
+    Plzeòákovi venovala sa štihlá mladá blondýnka, domorodka. Plávala skvele, s neobyèajnou
+         ¾ahkosou. Položila sa na znak, ba vlastne plávala skoro polosediaèky a kopala nohami vodu,
+         že sa to be¾avé telo pohybovalo stále v snehobielej pene. On plával opatrnejšie. Keï sa
+         položil na znak, strácal orientáciu, morské vlny zaniesly ho hodne ïaleko od nej.
+   </p>
+   <p>
+    — Gospodica Zlatica! — ozval sa prosebne.
+   </p>
+   <p>
+    Ona sa rozosmiala a poèala ho kára, aký je to hrdina. Ale o chví¾u pustila sa za ním a
+         štuchnúc ho rukou pár razy do piat, odrazila ho k brehu.
+   </p>
+   <p>
+    Opodia¾ v hlbine, medzi rozpukanými, vyhlodanými pobrežnými skalami, cvièili sa v plavbe
+         osem-desaroèní opálení chlapci a so dve dievèatá. Na doštièkách, korýtkach a v šaf¾och
+         hojdali sa na vlnách drobnuèkí ako dáki Jankovia Hraškovia v orechových škrupinách. Keï sa
+         ktorý pustil svojho nástroja, uchmatol mu ho šikovne iný. —
+   </p>
+   <p>
+    Miestny uèite¾ pozeral na nich s ú¾ubou a vïaène informoval o nich aj hosov, ktorí sa v
+         tú stranu zadívali. Veru tak, sotva vidno chlapèa od zeme, už ho starší kamaráti hádžu do
+         vody. Nech sa hádže, myká, veï sa chlapä vypsí. Kamene èloveka nevyživia. Za mladi musí na
+         more Dalmatinec.
+   </p>
+   <p>
+    Stará pani Stráòavská prilnula najmä k „Frau Direktor“, ve¾kej Nemke zo Štýrska,
+         vyzerajúcej so svojou broskyòovou pleou a ve¾kým výrazným nosom, ako nejaká odkvitajúca
+         španielska donna. Direktorová bola zaujímavá už tým, že prišla do kúpe¾ov sama, trebárs
+         mala muža i dvoje odrastených detí. Vyznala sa bájeène po celom Jadrane, od Abbazzie až po
+         Kotor. Sem prišla vlastne iba k vôli zmene. Toto boly už skoro jediné jadranské kúpele, èo
+         ešte neznala. Ináèe celkom hlúpe, nudné miesto. Pravda, iné kúpele majú zasa iné vady.
+         Malinská a Baška na Krku — to sú samé detské kàdle a to ešte ko¾ko biednych, neduživých
+         detí, že sa èloveku, chudiatka, ešte i vo sne zjavujú. Crikvenica — to je samý hochštapler
+         a vlastne je to ešte nie ani more, iba neve¾ký kanál. Dubrovník je priïaleký, a v sezóne sa
+         hos potkýna o hosa, za diškréciou otàèa sa i tucet rúk. A Ráb, ach, Ráb ten je krásny,
+         poviestkový, zvony tam zvonia na poludnie tak jasne, tak dojemne, ako z iného sveta.
+         Verandy a terasy sú za nekoneèných teplých veèerov posiate mileneckými pármi. Ale èo, keï
+         na kúpalište musí sa èlovek z hotelu preváža a keï hostia sú zväèša — beznádejní
+         suchotinári?! Hej, Abbazia — to je rajský kútik, tie palmy sú tam také bujné, ohromné,
+         rastú skoro navidomoèi. Ale drahota je tam ve¾ká a žije sa — pani direktorová hovorila to
+         so zrejmým odporom — pridobrodružne.
+   </p>
+   <p>
+    Tieto tiché kúpeliky by ešte boly ta, keby, ach — keby tie zvony nehuèaly skoro
+         ustaviène a za vèasrána neozývali sa somári tak hlasne, tak žalostne, že by šlo èloveku od
+         súcitu srdce puknú, keby ho èerti nebrali od zlosti, že má skazené najsladšie hodiny
+         ranného spánku.
+   </p>
+   <p>
+    Jedlo by obišlo. Porcie sú ve¾ké, len ryby sú prièasto a v polievke muchy. Hotelierovci
+         sú iste hodne zadåžení, lebo veï ona sama varí pri malej pomoci všetko a to ešte v prievane
+         a obklopená celými rojmi dotieravých múch. Ináèe je to dobrá kuchárka, len všetky jedlá
+         varí na jednej panvi a na jednakej omaste — ó, hrúza, stará pani Stráòavská pocítila hneï
+         šteklenie v hrdle a pichanie v žalúdku — už èi sa varí pre diétistov, èi pre nediétistov.
+   </p>
+   <p>
+    — Preboha, to mi azda nevysmáža moju te¾acinu ani na masle, ale na oleji, ako ostatným!
+         — zhrozila sa stará dáma, celá zosinejúc od úzkosti a prekvapenia.
+   </p>
+   <p>
+    — Celkom urèite na oleji — uisovala ju Frau Direktor. — Veï tu inšie ani nemajú. Kdeže
+         by vzali maslo? Sú tu dáke kravy? A oslice, ako ja viem, žiadneho masla nedávajú.
+   </p>
+   <p>
+    O pani Stráòavskú pokúšala sa mdloba.
+   </p>
+   <p>
+    — Však ja to Roubalovi poviem, poviem, aby vedel — vypravila zo seba o chví¾ku tíško,
+         trhano a s námahou. — Preèo si vymyslel ten môj syn práve toto nešastné švindlerské
+         miesto, ach, preèo?! — poèala božeka po malej prestávke. — Naposledy ani tá moja te¾acina
+         nebude pravá — skrslo v nej nové podozrenie.
+   </p>
+   <p>
+    — Kto ho vie; — mudrovala pani direktorova — teliec tu nevidno nijakých. Po ostrove pasú
+         sa iba barani, i tých je málo. — Ináèe nesmiete to bra, milospani, tak tragicky. Roubal
+         nie je jediný. Skoro v každých kúpe¾och šudia, tí na tom, tí na onom — poèala zrazu
+         utešova. — Ešte dosta sa do toho penzionátu na ostrove, èo je tam tá modrá jaskyòa, to
+         áno. Alebo do Portorose, to je jedineèný, èarovný kútik. Ale, ako sa ta dostaneš, hriešny
+         èloveèe? K tomu treba ve¾kej protekcie alebo zvláštneho šastia. Totiž vždycky býva všetko
+         obsadené.
+   </p>
+   <p>
+    A pani direktorova vstala s ¾ahátka, skoèila s nízuèkého mostíku do poldruhametrovej
+         vody a natiahnuc sa jako ve¾ká ryba, poèala majestátne krúži v nej rukami, až nechávala za
+         sebou dlhý striebritý pás ¾ahuèkých bubliniek.
+   </p>
+   <p>
+    Pani Stráòavská ju úprimne obdivovala.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Pre Stráòavskovcov nastaly dni nepokoja a vzrušovania. Stará pani debatovala náruživo s
+         hotelierom o diéte a o muchách. Hotelier jej ponúkal, že každé ráno môže si mäso, privezené
+         parníkom s pevniny, skontrolova. Pred obedom a pred veèerou zúrivo flitoval muchy a
+         všelijakých komárov po oknách. Dámy nauèily sa chodi pod rozliènými zámienkami do
+         predsiene, odkia¾ videly ponad púd¾u do kuchyne a bedlive kontrolovaly panve a omasty,
+         chudery hotelierky, ktorej zalesklo sa, odkedy dámy chodievaly k nej bez volania na besedu,
+         nad hlavou s tucet èiernoposiatych mucholapiek.
+   </p>
+   <p>
+    Redaktorová èasto nevedela ináè uniknú svokriným ustavièným debatám s hotelierom a
+         prázdnym afektáciam pani direktorovej, ako že rozbehla sa s rozpletenými vrkoèi hore brehom
+         do bieleho kamenného kostola. Tam, v útulnej polotme, sediac v lavici, zkadia¾ bolo tak
+         pekne vide na starobylý model plachtovej lode, zavesený pietne nad hlavným oltárom, tam,
+         medzi pár vážnymi, modliacimi sa ženami, našla aspoò na chví¾u pokoj a oddych.
+   </p>
+   <p>
+    Redaktor vydržal s dámami aspoò, kým žena prišla. Potom vyšiel akoby na vzduch na
+         pobrežie a velikým oblúkom zmizol na chví¾u do Roubalovho útulného výèapu napi sa trochu
+         dobrého dalmatinského èerveného vínca a pobesedova si s hotelierom.
+   </p>
+   <p>
+    Zapadal ta celkom dôverne. Nikto nesmel o tom vede. Lebo veï pri stole pi nesmel. Žena
+         i matka bránily mu v tom so zriedkavou jednomyse¾nosou.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Hostia prichádzali a odchádzali, veselili sa a sekýrovali. Roubal pracoval a dozeral,
+         informoval a èapoval. Ale rád uvrzol, keï bolo trošku vo¾no, s udicou na molo alebo na
+         skalnaté pobrežie, vedúce k borovému háju, hodil šnúru s vnadidlom do vody, zadíval sa do
+         modravej diale a zadumal sa. Myslel s pálèivou túžbou v srdci na vzdialenú vlas a myslel
+         na Prahu. Èi ich ešte kedy uvidí?
+   </p>
+   <p>
+    Bol sám a sám. Túto pálèivú túžbu nesdielala s ním ani žena, ani adoptovaná dcéra Gerta.
+         Nemkyne, Rakúšanky nemohly jeho snom, jeho tajnej muke porozume.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Sezóna vyvrcho¾ovala. Hotelík bol obsadený. Plnily sa rýchle i dependance, ¾udová škola
+         i dlžizný zelený rohový štokovec starého statkára, kam nedoliehal prístavný denný i noèný
+         hluk a zkadia¾ nebolo vidno niè, iba vše modré, vše siné more a v dia¾ke za ním vysoké šedé
+         brdá pod azúrnou oblohou.
+   </p>
+   <p>
+    Na kúpališti nestaèily kabíny, táborilo sa i pred nimi, už èi na doskách, èi na
+         pobrežných skalách alebo vypráhlej kamenistej zemi na kúpacich plášoch a pokrývkach. Iba
+         na rozpálenom bielom piesku nemohol nikto dlho vydrža a radšej civel ustaviène vo vode
+         alebo postával èi tmolil sa medzi naháèmi.
+   </p>
+   <p>
+    Stará pani Stráòavská zavše sa tiež namoèila, vykrikujúc veselo, keï ju è¾apla
+         bystrejšia vlnka, a obracajúc sa s boka na bok ako pohodlný tuleò. Plavci skákali s
+         vysokého môstku dolu hlavou, miestny uèite¾ plával celé minúty pod vodou, a námorník s
+         lesklým, tmavým telom, ako sadlý olej, prevádzal krkolomné kúsky na starom deravom èlne.
+   </p>
+   <p>
+    Keï sa koneène zjavila sleèna Gerta so žiariacou ružovou tvárou a slabúèko opáleným
+         kyprým telom, všetko ožilo. Skupinky sa rozpadly, z kabín povychádzali odpoèívajúci von.
+   </p>
+   <p>
+    Pustila sa ïaleko do mora, zamieòajúc s bravúrnou istotou a ¾ahkosou všetky možné
+         polohy. Zavše, akoby nevedela pláva, hodila sa na pospas vlnám, tak dala sa nimi unáša,
+         splývajúc úplne s odvekým rytmom mora a svietiac svojím naružovelým telom v jeho zrkadlovej
+         hladine. Chví¾ami javila sa z dia¾ky ako z vody zrodená svodná siréna, ktorej jediný uprený
+         poh¾ad môže strhnú zmámeného plavca v bezodný penivý vír. Vtom zamierila rovno k spenenej
+         vodnej brázde a vyskoèila bystro na pomimo letiaci plachtový èln alebo rybársku bárku. A
+         zasa vrhla sa znovu do prudko rozkolísaných priezraèných vån a vztýèila sa v nich zrazu ako
+         Venuša, rodiaca sa z morskej peny, èi zakliata morská panna, ktorá pod¾a ¾úbosti môže sa
+         vynori alebo pohrúži do svojej tajomnej, smrte¾níkom neprístupnej vodnej ríše.
+   </p>
+   <p>
+    Keï sa vracala k brehu, žiarily jej vlasy ako zlato, a zornièky prekvapovaly zvláštnou
+         smaragdovou farbou, èo na suchu zmenila sa jako zázrakom v obvyklú nebovomodrú.
+   </p>
+   <p>
+    A keï sa obliekla a na odchode obzrela naposledy na obecenstvo, zablyskly jej oèi
+         nevdojak hrdo, divoko, ako mythologickej Kriemhilde, cítiacej sa prvou a neprekonate¾nou, a
+         odhodlanej da priviaza sokyòu k žilnatým š¾ahavým chvostom bujných rýchlych paríp,
+         povláèi v smrte¾ných mukách prachom, skálim a tànim a roznies jej zohavenú skrvavenú
+         màtvolu do štyroch strán sveta.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Nastaly strašné horúèavy. Dedinèania vypili velikú obecnú cisternu. Výèapy boly stále
+         plné, a ¾udí poèala muèi nespavos. Kúpe¾mi zalomcovala prudká životná vlna. Pani
+         profesorová z Moravy, èo sa prevliekala aspoò pä razy každý boží deò, mala na schodoch
+         výstup s pánom profesorom, v ktorého náruèí zazrela nebárs drieènu chyžnú.
+   </p>
+   <p>
+    Vo¾akto zaèul ho kokta: — Ach, odpus, preboha, moja drahá! Ja za niè nemôžem; ach, tá
+         pá¾a! —
+   </p>
+   <p>
+    Dámam zaèali dvori i dotia¾ najpohodlnejší, najnevšímavejší mužskí. Mládež ob¾úbila si
+         túlaèky po kamenistom chodníku pozdåž brehu k borovému háju. Zpoza velikých skál a z krovia
+         ozval sa zavše podozrivý šepot alebo dráždivé vzdychanie. Jedného veèera, keï hotelier
+         viedol skupinu hostí po prístave, nábreží a po kúpališti, aby sa pokochali v hustej tme na
+         fosforeskovaní rýb v morskej hlbine, vrzly na izbe sleèny kúpe¾skej dvere, a v nich sa
+         objavila zarazená lesklá tvár fešného hlavného èiašnika, obleèeného v bezvadný frak. Pán
+         riadite¾ z južných Èiech vzdychal pred miestnym statkárom roztúžene, obzerajúc si kyprú
+         drieènu ufú¾anú domorodkyòu tmavej olejovej tvári. Na rtoch obstarného muža zjavil sa
+         šibalský úsmev:
+   </p>
+   <p>
+    — Veï áno, pán riadite¾, možno že by to stálo za próbu, keby ženská nebola už vydatá. U
+         nás sú huncútske pomery. Ktorá je na èo súca, má muža. A s našimi chlapmi nieto rozumnej
+         reèi. Sú to divosi, barbari. V ruke takého sprostáka blysne sa nôž, ako by si inteligentný
+         èlovek zapálil na cigaretu. —
+   </p>
+   <p>
+    Ešte i rozumnej Frau Direktor pomútilo to hlavu. Poèala sa ujíma mladého Plzeòáka,
+         nosi sa pred ním, zakrútená do fantastických handár, v sedle na somárovi, alebo vodi ho
+         za mesaèných nocí po haditom nábreží. Zastávala skoro na každom kroku, zavše sa rozpustile
+         rozosmiala a zmizla s úradníèkom v zatáèke.
+   </p>
+   <p>
+    — Kam podela tá stvora rozum?! — pozastavovala sa stará pani Stráòavská. — Ešte ho tam
+         niekde bozká alebo objíme, vydatá ženská, pädesiatnica.
+   </p>
+   <p>
+    I hotelierka zabudla na chví¾ku na sporák a sdôverovala sa starej panej nemecky:
+   </p>
+   <p>
+    — Nemáte pochopu, milospani, aký je svet tuná lenivý, pohodlný. Ledva sa hýbu, do
+         nièoho sa im nechce. Je to kríž medzi nimi ži.
+   </p>
+   <p>
+    — Ešte i Roubala sa chytá tá lenivos. Pozrite, aký je nehybný, nechutný, ako mu rastie
+         brucho — f¾ochla na muža, opretého o dvere jedálne, nenávistne, a horkos jej zaliala
+         hrdlo.
+   </p>
+   <p>
+    A keï sa mladý úradníèek vymanil zo zajatia panej direktorovej a poèal si znovu všíma
+         švárnej domorodej dievèice, bývajúcej s matkou na nábreží, poèala odkvitajúca donna pred
+         redaktorovou matkou soèi:
+   </p>
+   <p>
+    — To je strašné, milospani, èo sa tuná deje! Vèera veèer videla som, ako sa spustil ten
+         pochabý námorník s terasy do izby tej dlhej èiernej chyžnej. Bola s ním iste dohovorená,
+         nehanblivica. A toho hlupáka Novosada — hovorila o svojom nedávnom nedobrovo¾nom
+         sprievodcovi — nacvikalo si vám to vycivené vycerené neèibidlo z tej malej kuèe, tu pár
+         krokov od nás, èo sa ustaviène v tej vode plaèká a doma krížom stebla nepreloží. Celé je do
+         neho spochabené, èuridlo. Vodia sa po mole skoro celkom objatí, oka so seba nespustia. Ešte
+         vo¾aèo vyparátia, ¾ahkomyse¾níci nehanbliví.
+   </p>
+   <p>
+    — Ach, spúša sa ten svet, spúša! — zavzdychla pani Stráòavská.
+   </p>
+   <p>
+    — Ale tá chyžná to robí na vidomoèi. To sa preca nemôže trpe. Malo by sa to poveda
+         Roubalovi. Pokazí to hotelu renomé, ba celým kúpe¾om. Žiaden lepší hos sem nepríde. Malo
+         by sa zakroèi, malo. Azda by pán redaktor…
+   </p>
+   <p>
+    Len Gerta, slneèná, žiariaca ružovolíca Gerta zdala sa by povznesená nad prudkú živelnú
+         vlnu zalievajúcu ostatných. Len v jej jasavých oèiach zrkadlila sa obloha, a s jej
+         višòových rtov splývaly sladko a bezstarostne teplé, prívetivé, vážne i žartovné slová i
+         piesne. Bola v kuchyni a už prinášala do jedálne obèerstvenie významnejším hosom. V
+         nasledujúcej chvíli stretol sa s òou èlovek na schodoch, ktorými vracala sa od chyžnej
+         alebo predo dvermi jedálne, ako si obzerá koris, ktorú vykladali zo svojich lodiek rybári,
+         vracajúci sa z rybolovu. Bola veène sviežia, veène žiariaca, pružná, prekypujúca životom
+         ako roztanèená morská vlna. Osviežovala v najväèších horúèavách a zomdlenosti už svojím
+         radostným zjavom, zapa¾ujúc èarovnou mocou ochablé mužské srdcia. Keï jej prišlo prejs
+         nábrežím popri mužskom štvorlístku, zadívala sa placho ako diea.
+   </p>
+   <p>
+    — Takú dcéru by som chcel ma! — zatúžil okúzlený redaktor. Profesor z Moravy zachvel sa
+         mocným vzrušením, inženier zo Srbska poznamenal, že by ju mal odma¾ova slávny maliar. Iba
+         holohlavý pán direktor s fešáckymi èiernymi fúzikmi proboval ju, trebárs márne, chyti za
+         ruku. Síce bol by mal sto chutí uštipnú ju radšej do brady.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Zvony na veži zvonily celé noci. Pani Stráòavská prehadzovala sa z boka na bok, oka
+         nezažmúriac. Musela dospáva vo dne.
+   </p>
+   <p>
+    — Èo to tak ustaviène zvonia?! Ký èert ich posadol?! Èloveku huèí v ušiach, je mu do
+         zbláznenia. Èo je to za èudácky zvyk?!
+   </p>
+   <p>
+    — To zvonia, aby odháòali od ostrova zlých duchov — vysvet¾oval hotelier. — Tunajší
+         národ verí v také nebezpeèné júlové dni. Keby sa nezvonilo, nemali by pokoja. Ešte by sa
+         vzbúrili.
+   </p>
+   <p>
+    — To sú ale Indiáni — od¾ahèovala si Frau Direktor.
+   </p>
+   <p>
+    A nasledujúce dopoludnie objavila sa v strmých kamenistých ulièkách mesteèka dlhá
+         procesia dievèat a žien v èiernych šatoch s èipkovými závojmi cez tváre, držiacich v rukách
+         horiace sviece. Vyzeraly ako pošmúrné kajúcnice, odhodlané sostúpi niekam do podzemia
+         alebo uzavre sa nadosmrti do úzkych tmavých ciel kláštorných. Bolo to, ako trúchlivý
+         popolec po bezúzdne veselo strávenom fašiangu.
+   </p>
+   <p>
+    Èlovek nevedel pochopi, kde sa ich to¾ko berie, èi to snáï nepovstávaly z hrobov bludné
+         duše dávno zomrelých. A musel sa skoro pohorši na zlomyse¾ných úsmevoch a jedovatých
+         poznámkach skupiny domorodcov, ktorí obviòovali Terézky zo všelijakých tajných i zrejmých
+         hrieškov.
+   </p>
+   <p>
+    Hotelier prestal chodi s udicou do samoty. Voda bola taká horúca, že ryby nebraly. A
+         nad každým ránom vracali sa na tmavých ošarpaných loïkách zunovaní, ospalí, nevrlí rybári —
+         bez koristi.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Hotelier besedoval na mole so starým boháèom — statkárom, velikánskym uèite¾om — starým
+         mládencom a i mladým vinohradníkom, èo sa vrátil pred troma rokmi s ve¾kými peniazmi z
+         Argentíny.
+   </p>
+   <p>
+    — Viete èo, páni?! Na jednu dôležitú vec sme zabudli.
+   </p>
+   <p>
+    — Na ktorú?
+   </p>
+   <p>
+    — Je tu už tretí týždeò èeskoslovenský redaktor, èo chodieva v tých bielych plátených
+         šatoch s tými dvoma dámami. Ve¾mi seriózny èlovek. Posledné èasy stále vo¾aèo obzerá,
+         zapisuje si. Nebodaj chystá nejaký èlánok o našom meste do novín. Kto ho vie, aké má dosia¾
+         dojmy. Mali by sme sa mu trochu viac venova, ucti ho, povodi, poukazova mu èo-to.
+         Beztak sa s ním znáte. Taký èlovek revanžuje sa v novinách, našim kúpe¾om urobí sa známos.
+   </p>
+   <p>
+    — Nedbám — súhlasil statkár, — Keï bude chce, môže sede u mòa na záhrade trebárs celý
+         deò. Je tam celkom príjemná vôòa. Nebudem h¾ade na tých pár fíg a na tých pár pohárov
+         vína.
+   </p>
+   <p>
+    — A èo vy? — obrátil sa k uèite¾ovi. — Mali by ste ho trochu povodi, do kaštie¾a, po
+         krajších záhradách, po kostole, cmiteri. Vy poznáte aj historiu kraja.
+   </p>
+   <p>
+    — Nuž, keï to musí by, stane sa — vycedil nev¾údny uèite¾ nevrle zpomedzi zubov. Musel
+         sa premáha. Jeho sebavedomie sa búrilo proti nebárs dôstojnej roli cicerona.
+   </p>
+   <p>
+    — Ja ho preveziem na motorke, — ponúkal sa Amerikán, a hnedé oèi zasvietily mu hrdosou.
+   </p>
+   <p>
+    — Mohlo by sa poveda i Veselinovièovcom — navrhoval statkár, ledva potláèajúc šibalský
+         úsmev.
+   </p>
+   <p>
+    — Naèo? — odrádzal uèite¾ — tí nepozvú, žgrloši.
+   </p>
+   <p>
+    — No, kto vie, — zastával sa ich Roubal naoko. Že bol prisahovalec, h¾adel zachováva
+         voèi domorodcom neutralitu.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Zaèalo sa to hneï na druhý deò. Stráòavskovci sedeli ešte pri neskorých raòajkách, keï
+         pán uèite¾, èerstvo vyholený, napomádovaný, prišiel ich pozva na poolevrantovú prechádzku
+         mestom.
+   </p>
+   <p>
+    — To že je mesto? — zaèudovala sa stará pani. Mala na jazyku pár štip¾avých poznámok.
+         Ale nevesta štuchla ju pohotove do boka, nuž, umåkla.
+   </p>
+   <p>
+    — Ako by nie, a staré mesto, spomínané už v benátskej historii — vypjal uèite¾, tamojší
+         rodák, mužnú hruï.
+   </p>
+   <p>
+    A po olevrante sa šlo. Slnko ešte pražilo. Zem až pálila pod nohami, a p¾úca odfukovaly
+         ako mechy. Lebo veï pán uèite¾ vyh¾adával vo¾áke èudné neznáme partie a viedol svojich
+         sverencov pomedzi vysoké, tvrdé, tuho voòajúce a zapáchajúce tráviny a kroviská, strmými
+         úzkymi ulièkami, neraz ostrým kamením stále vyššie a vyššie. A nechápal, ako môžu tak
+         neuverite¾ne zaostáva za jeho kamzièím krokom.
+   </p>
+   <p>
+    Stará pani necítila nôh, a nevesta stratila oba opätky.
+   </p>
+   <p>
+    Na šastie obzeraly sa na druhý deò záhrady nízko na pobreží.
+   </p>
+   <p>
+    A ktorési dopoludnie zastal pri mole miesto motorky ve¾ký, skoro nový plachtový èln a
+         vzal redaktorovcov na palubu. Amerikán s bratom pustili ho po vetre pekných pár kilometrov.
+         Kormidlom pomáhali si až pri návrate.
+   </p>
+   <p>
+    Stará pani Stráòavská dívala sa na èln iba s mola. Na radu pani direktorovej zdržala sa
+         plavby. To je nie ako na ve¾kom parníku. Ešte by mohla dosta morskú nemoc.
+   </p>
+   <p>
+    — Ejha! To vás nemohli povozi aspoò do obeda?! — vítala deti, vracajúce sa s plavby o
+         poldvanástej. — A preèo nevzali radšej motorku? — Iste im bolo ¾úto, skupáòom, trochu toho
+         benzínu.
+   </p>
+   <p>
+    More bolo posiate rybárskymi èlnmi ako motýlikami, keï Frau Direktor po obšírnom lúèení
+         odchádzala. Pani Stráòavská kúpila jej na rozlúèku ve¾kú kyticu kvetov a nevedela sa
+         ubráni slzám, keï parník, odvážajúci jej milú spoloènicu, zahúkal a odrazil i s pol tuctom
+         jej kufrov a kufríkov. Necestovala ešte domov. Aspoò na osem dní zastaví sa vraj v Lovrane.
+         Bez Lovrany by sa pre òu leto ani nerátalo. Na pár dní skoèí ta i muž a odvezie si ju
+         domov.
+   </p>
+   <p>
+    Pani Stráòavskej sa ve¾mi za òou cnelo. Prvý deò nechutilo jej skoro niè jes od samého
+         žia¾u. Ešte, že si s¾úbily písa.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Kúpele dostaly vzácnych hostí: slávneho hudobného skladate¾a s paòou. Prišli oba na
+         ¾ahko, v bielom, velikí, tuèní, vysmiati, ubytovali sa v dependanci, najtichšom mieste v
+         obci. Chyžná musela ta iba k vôli nim chodi izby riadi a sleèna Gerta nosi im raòajky.
+         Veï i žiarila šastím. Takému slávnemu èloveku nieèo zanies, to je nieèo iného, ako tmoli
+         sa medzi obyèajnými smrte¾níkmi po hoteli.
+   </p>
+   <p>
+    Skladate¾ovci mali bájeèný apetit. Jedlo pred nimi len mizlo. Nové a nové taniere sa
+         donášaly. Èerstvých fíg zjedli po obede trebárs pätnás, a niè im nebolo. Piva a vína stály
+         pred nimi vždy celé baterie fliaš.
+   </p>
+   <p>
+    A sotva sa naobedovali a vyfajèili, besedujúc s boháèom-statkárom, ktorý k vôli nim
+         vyrukoval s celou svojou zásobou pikantných anekdôt, po dvoch-troch cigaretách, hybaj rovno
+         do vody.
+   </p>
+   <p>
+    P¾aèkali sa v nej dopoludnia a celé popoludnie až do podveèera. Plávali nádherne ako
+         delfíni, inokedy zasa ako morské kone, každý ich obdivoval, ako to môžu s takými
+         preplnenými žalúdkami. Nuž, ale veï boli objemní ako sudy, voda ich, tuším, sama niesla.
+   </p>
+   <p>
+    Boli to náramne milí ¾udia. Žiarili úsmevom ako dve slnká, kývajúc na všetky strany
+         rukami na pozdravy. Redaktora vyh¾adal on sám, hovoriac mu, že budú ma robotu v ktoromsi
+         ministerstve. Ten sa z toho vytáèal, ale slávny majster opakoval.
+   </p>
+   <p>
+    — To až sa vrátime domov. Ešte si do tých èias oddýchnete… Ale rátam na vás istotne.
+   </p>
+   <p>
+    A h¾adel rozvese¾ova starú pani Stráòavskú, nalieva jej do pohára znamenitého tmavého
+         prošeka. Neodišiel od stola, aby jej nepreukázal nejakú pozornos.
+   </p>
+   <p>
+    Stará dáma si ich zprvu ve¾mi chválila. Na pár dní ju upútali. Ale žia¾ za pani
+         direktorovou sa vracal. Nepomáhal ani ¾úbezný štebot sleèny Gerty, ktorá, keï len mohla,
+         skoèila k nej na pár slov a bola samý úsmev, samý žart.
+   </p>
+   <p>
+    Poèala horšie spáva. K tomu zaškodila jej, diétistke, èerstvá figa, èo jej vnútila na
+         kúpališti pani skladate¾ová. Hotelierova bola síce so svojimi liekami naporúdzi. Ale vo¾áko
+         nepomáhaly.
+   </p>
+   <p>
+    — Domov, domov! — vzdychala, preahujúc sa v bô¾och na posteli pred synom a nevestou,
+         ktorí márne snažili sa ju uchlácholi, rozveseli.
+   </p>
+   <p>
+    — Mama, máme zaplatenú okružnú cestu až do Dubrovníka a Kotoru a potom nazad
+         Hercegovinou a Bosnou. Škoda by nám bolo prepás to¾ké krásy a zaujímavosti. Ozdravieš, a
+         pôjdeme.
+   </p>
+   <p>
+    — Ja nepotrebujem Dubrovník ani Bosnu, ja chcem domov! — opakovala tvrdošijne.
+   </p>
+   <p>
+    Stráòavský si ráno privstal. Ledva sa naraòajkoval, už klopal na ordinaènej sieni
+         jediného miestneho lekára. Bol to veselý, zábavný chlap. Napriek svojmu piatemu krížiku
+         preskakoval vajanské ohne o závod s mladou chasou.
+   </p>
+   <p>
+    Otvorila mu pani. Vyhovorila muža, že ešte spí. Stráòavský naliehal, že je prípad súrny,
+         nuž, napokon s¾úbila, že ho o polhodiny zobudí.
+   </p>
+   <p>
+    — Zomrem, zomrem, — šeptala pani Stráòavská, keï syn a nevesta stáli zasa nad jej
+         poste¾ou — už sa ani návratu domov nedožijem. Ale dám vám èierne na bielom, že nemáte viny
+         na mojej smrti. Aspoò sa budete môc pred bratmi a sestrami ospravedlni.
+   </p>
+   <p>
+    — Nerob mi to, mamièka, neumieraj! — prosil syn. — Narobila by si nám ve¾kých trov tuná
+         v cudzom svete. Ani neviem, kto by mi tak napochytre požièal.
+   </p>
+   <p>
+    — Veï si už vo¾áko poradíš. Len ma tu nepochovávajte, ale prevezte domov. Musíte mi to
+         s¾úbi.
+   </p>
+   <p>
+    — S¾ubujeme, mamièka, — ozvala sa nevesta poslušne. Nespúšala sa dosia¾ nádeje, že je
+         choroba nie taká vážna, že je to u svokry z ve¾kej èiastky azda iba hypochondria.
+   </p>
+   <p>
+    Lekár prišiel. Doniesol opiové kvapky. Pacientka oèakávala ho natiahnutá skoro nehybne
+         na posteli. Bola samý vzdych. Na otázky ledva odpovedala.
+   </p>
+   <p>
+    Redaktorovci vyprevádzali doktora dlhou chodbou až na schody.
+   </p>
+   <p>
+    — Èo je to vlastne mame, pán doktor?
+   </p>
+   <p>
+    — Ale diaré od toho èerstvého ovocia. Nie je na to nauèená. Ak nepomôžu tie kvapky,
+         príïte ešte dnes. Pani mama je už beztak dávno katharická. Zoslabla a potom nudí sa tu asi.
+         Ale to prejde. Keï sa trošku zotaví, o tri-štyri dni môžete odcestova. Znesie to.
+   </p>
+   <p>
+    — A èo s tým Dubrovníkom, Bosnou? Nemusíme to vynecha?
+   </p>
+   <p>
+    — Najradšej rovno domov. Mali by ste s òou iba trápenie.
+   </p>
+   <p>
+    V sklených dverách, vedúcich na schody, zjavila sa biela tvár.
+   </p>
+   <p>
+    — Ach, ty si to, mama! Èo a to napadlo vstáva! — vyèítala nevesta svokre. Lebo bola to
+         naozaj pani Stráòavská, obleèená do pyjama, na nohách kvetované pantoflièky. Ani úèes si
+         nezabudla trochu upravi.
+   </p>
+   <p>
+    — Ale pribehla som, aby ste sa neradili tu, mantragy, s pánom doktorom za mojím chrbtom.
+         Ja to chcem tiež poèu — zapotácala sa bledá od slabosti.
+   </p>
+   <p>
+    — Všetko bude dobre, — porúèal sa doktor. — Ale pacientku hneï a zaraz do postele!
+   </p>
+   <p>
+    Popoludní, keï mame bolo už lepšie, navrhol redaktor:
+   </p>
+   <p>
+    — Mama, napíš nám, prosím a, tých pár riadkov na ospravedlnenie, keby sa nieèo stalo. —
+         A podával jej namoèené pero a papier. —
+   </p>
+   <p>
+    Pani Stráòavská si sadla. Zadívala sa na syna vyèítavo. Vošiel do nej vzdor.
+   </p>
+   <p>
+    — Nie, nenapíšem, just nenapíšem. Èo si ty myslíš, že ti ja idem umre, ty somár
+         sprostý?!
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Èosi-kamsi sa napodiv zotavila. Ale keï syn chcel zosta, spierala sa rozhodne:
+   </p>
+   <p>
+    — Ja ti tu nebudem. Všetko sa mi tu zunovalo. Deti, moje deti chcem vide! A jes už
+         vo¾aèo inšie, nie len ustaviène rybu a te¾acinu.
+   </p>
+   <p>
+    A keï syn svolil k odchodu, pookriala akoby zázrakom. Zdalo sa, ako by sa jej až teraz
+         popáèilo biele kamenné mesteèko, spínajúce sa nad morom k hrebeòu ostrovného pohoria, keï
+         ho má opusti.
+   </p>
+   <p>
+    Novosad z Plzne odišiel po Frau Direktor. Pre pani Stráòavskú o spoloèníka menej.
+         Komponista so ženou poèali sa náramne uahova. On ponosoval sa redaktorovi, že dostal
+         anonymný výhražný list. Bolo až smiešné, aký význam tomu prikladal. Iba veèer sa mu tuèná,
+         okrúhla tvár trochu rozjasnila, keï sedeli na terase so starým domorodým statkárom.
+         Štrngajúc si perlivým rubínovým vínom, spomínali staré zašlé èasy. Zvädlý statkár uznával
+         za svet iba Viedeò a Gastein. Ostatné sa neráta, to je niè. Škoda o tom hovori.
+   </p>
+   <p>
+    — Ach, Viedeò, Viedeò! — zašeptal slávny majster roztúžene, a oèi sa mu sòaly so
+         ženinými v hlbokom porozumení.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    — Bože! Viete, aké nešastie nás zašlo?! — šeptal redaktorovi Roubal nad púd¾ou kuchyne
+         celý znièený. — Gerta, Gertièka sa nám stratila. Sme celí zúfalí. Moja celú noc nespala,
+         dostala nervový záchvat.
+   </p>
+   <p>
+    Redaktor uprel oèi ku kuchyni. Roubalová sedela tam v kresle, èelo previazané ve¾kým
+         bielym obkladom, jako živé umuèenie. Okolo sporáku toèila sa vo¾áka nádeníèka. —
+   </p>
+   <p>
+    — Nemožno, — nechcel redaktor svojim ušiam ani oèiam veri. Zdalo sa mu všetko ako
+         halucinácia.
+   </p>
+   <p>
+    — Stratila sa! — bedákal hotelier tlmene, obzerajúc sa, aby ich nikto nepoèul. Hovorím
+         to len vám. Nikto nesmie o tom vede; s¾ubujete, však? — stískal redaktorovi ruku. — Vèera
+         šla ranným parníkom èo-to nakúpi. Mala sa vráti o poldvanástej. Reku, zdržala sa, príde o
+         druhej. Aby ju, reku, bola zdržala priate¾ka? Má tam jednu,ve¾mi poriadne dievèa, majú sa
+         náramne rady. Azda len neprechorela?! Ale èakali sme márne.
+   </p>
+   <p>
+    Ani žiaden odkaz od nej. Bol som už v S., spytoval sa na òu v obchodoch i u tej jej
+         priate¾ky. Nevideli jej, nebola vôbec u nich. Èo to má znamena, Bože nebeský?! My sme
+         nešastní, stratení ¾udia, ak sa nenajde. Popoludní pôjdem to oznámi do S. na políciu. Aká
+         hrôza sa to na nás valí?! — Zabudol sa na chví¾u a chytil sa za hlavu.
+   </p>
+   <p>
+    Po chvíli dodával akosi beznádejne:
+   </p>
+   <p>
+    — Èo sa to s òou len mohlo sta? Bola vždy taká dobrá, poslušná. Iba ak by bola daèo
+         vykonala v nejakom návale krvi do hlavy. Viete, mladé, zdravé dievèa, nedotknutá panna,
+         naozaj nedotknutá, — opakoval dôrazne, dívajúc sa uprene do oèí redaktorových, v ktorých na
+         okamžik zablèaly ohníèky.
+   </p>
+   <p>
+    Zdá sa, že ustráchaní, zarmútení rodièia nevedeli dlho utaji svoj žia¾. Na druhý deò
+         hovorilo sa o Gertinom zmiznutí v celej obci. Pre hosov bola to senzácia, iba domorodé
+         dievèatá prijaly zves akiste s pocitom od¾ahèenia. Najskôr si prialy aby sa nikdy
+         nevrátila kráska, èo ich tak ve¾mi zatienila. Staré baby, vysedávajúce a postávajúce pred
+         kuèami, hovorily tiež o utešenej Švábici, zvedavé, ako sa skonèí tá napínavá historia.
+   </p>
+   <p>
+    Stráòavskovci sa pre krásnu Gertu skoro pohádali. Stará pani hádala, že mladé dievèa
+         ušlo najskôr k príbuzným do Rakúska, aby nemuselo to¾ko robi, ako u Roubalovcov. Mladá sa
+         jej zastávala, že ju práca tešila, a vysvet¾ovala si Gertin záhadný odchod nejakým tajným
+         ¾úbostným pomerom, schôdzkou, ktorá sa mohla skonèi tragicky. Iba redaktorovu živú
+         fantáziu dráždily hotelierove slová o dievèenskej nevinnosti. Èo, ak ozaj vyviedla v
+         mladistvej poblúznenosti dáky nerozmyslený kúsok?! Alebo èi ju nemá na svedomí naša
+         premilá, podozrivá Frau Direktor, èo sa o òu dos zaujímala a tuším ju k sebe i do Štýrska
+         volala na návštevu? Ostatne, je vôbec otázka, èi je tá úlisná, prešibaná ženská, s oèami
+         slizkými ako had, vôbec pani direktorová. Na fotografii, èo ukazovala, nevyzerá ten jej muž
+         naskrze na hlavného direktora ve¾kej fabriky, ale skôr na praobyèajného faktora na nejakej
+         menšej píle, takého bývalého „fescher Kerl-a“, èo ho mohly vynies z tuctového nádeníka
+         trochu na povrch — sukne. Chvasta sa, farbi, to vedela. Ako s tým plávaním. Lebo veï
+         vôbec nevie pláva. Zašla si do vody na známe miesto a poèala trepa rukami a jednou nohou
+         okolo seba, že sa len tak penilo. A druhou nohou sa podopierala. A preèo tá ženská
+         ustaviène cvà¾a z kúpe¾ov do kúpe¾ov?! Èo nemôže nikde dlhšie vydrža, ani znovu sa ta
+         vráti?! Hej, tu vo¾aèo smrdí. Tá tvoja nová priate¾ka, mama moja, kto vie, èi je nie
+         medzinárodnou obchodnicou s nežnou pleou. Kto vie, èi sa nevotrela sleène Gerte do dôvery
+         a niekam ju nezlákala. O zámienku nemala tá stvora iste žiadnej núdze.
+   </p>
+   <p>
+    Pani Stráòavská protestovala rozhorèene proti synovým fantastickým nesmyslom.
+         Direktorová je ve¾mi slušná dáma. Po celý èas nevykåzlo jej z úst ani jediné neslušné
+         slovo. Naopak, mala ve¾mi mravné náh¾ady. Nie, na tú nemôže padnú ani len tieò podozrenia.
+         Ostatne nie je to žiadna jej priate¾ka, iba že spolu kedy-tedy pár slov stratily. Tu sa
+         muselo sta nieèo iného, neobyèajnejšieho.
+   </p>
+   <p>
+    Až popoludní svitlo mladej panej Stráòavskej. Èi to nevylákal niekam Gertu ten holohlavý
+         riadite¾ z južných Èiech, s tými èiernymi fuzikami a prenikavými oèami? Ten èlovek
+         hovorieval na kúpališti zavše tak opovážlive, že si musela presadnú. A už šeptal s
+         potute¾ným úsmevom daktorej inej dáme nieèo do ucha, až jej to vohnalo èerveò studu do líc.
+         Taký mlsný kocúr, starý mládenèisko vo¾áky!
+   </p>
+   <p>
+    — Iba ak ten, — prisviedèala mama, — z toho by to vystalo. Sama som si všimla neraz, ako
+         obchádza kabiny a pasie oèi po dámach, už èi si hovely na plášoch po zemi, èi na
+         ¾ahátkach. Má naozaj také hypnotické oèi a úlisné reèi. Je to rafinovaný, sveta skúsený
+         chlap, k tomu má ve¾ké príjmy. Mohol by ¾ahko pomúti hlavu neskúsenému dôverèivému decku.
+         Hop! Veï sa ten èlovek stratil ztadia¾to už pred Gertou! To je fajn. Iste ju má on na
+         svedomí.
+   </p>
+   <p>
+    Redaktor videl pred sebou znovu výjav, keï stál s riadite¾om samoštvrtý na brehu a
+         zastavili okoloidúcu modrookú Gertu. Ako huncútsky žmurkal ten kujon, keï ju chytal za
+         ruku, ako sa mu lepily oèi na to ružovohnedé rameno! Ma tak riadite¾a v tejto chvíli pred
+         sebou, vrazil by mu päsou do chlípnej, výsmešnej tvári, uškrtil by padúcha!
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Posledný deò pri mori mali Stráòavskovci obzvlášte pekný. Starý boháè-statkár pozýval
+         ich znovu, aby si prišli v popoludòajšej horúèosti k nemu odpoèinú. Na mole striehli pána
+         Laca traja bratia Veselinovièovci a zvali ho na veèer do svojej hrdej vily „na pohár vína“,
+         naznaèujúc diskrétne, že sa môže teši na dobrú zábavu. Vyzerali ve¾mi zarmútení, skoro
+         bezútešní, keï redaktor s poïakovaním odmietol, vyhovárajúc sa na krátkos èasu, že si
+         musia veci sbali, oddýchnu si, vyspa sa na dlhú cestu.
+   </p>
+   <p>
+    A veèer vyh¾adal Stráòavského v jedálni Amerièan a poèal hrozne banova, že už
+         odchádzajú:
+   </p>
+   <p>
+    — Preèo nám to robíte, preèo? — dohováral temperamentne, že by bol èlovek skoro uveril v
+         úprimnos jeho žia¾u. — Veï my vás chceme previez i s pani mamou a vašou paòou z hotelu do
+         našej vily. Je to ïaleko od hluku a dymu. Tam by vám bolo tak dobre, krásne, ešte len tam
+         by ste sa poriadne osviežili. Už sme vám dve izby pripravili, do záhrady sme dali
+         rozostavi k vôli vám novú pletenú garnitúru. A tu sa èlovek dozvie, že nás chcete akoby
+         naschvál opusti. Škoda, veru, škoda, bude nám ve¾mi, ale ve¾mi ¾úto!
+   </p>
+   <p>
+    Slávny majster nechcel sa ani lúèi. — Zajtra idem do S. i ja. Cestou si o tej veci ešte
+         prehovoríme — dával redaktorovi dovidenia.
+   </p>
+   <p>
+    Rozlúèka druhého dòa bola, ako obvykle, ve¾mi srdeèná, až dojemná. Prípitky, kytice,
+         vyprevádzaèka, mávanie šatkami a èo ja viem. Stará pani celá žiarila, mladá sa spokojne
+         usmievala.
+   </p>
+   <p>
+    Iba redaktor vyhýbal úzkostlive skladate¾ovcom, ktorí si vyšli na hornú palubu a dívali
+         sa osamelí melancholicky do šírej dia¾avy. — Èo a nepáli, nehas — bolo jeho heslom.
+   </p>
+   <p>
+    V S. bolo, ako vždy, horúce a plno prachu. Mladá pani nabrala si do f¾aštièky na
+         pamiatku zelenomodrej morskej vody.
+   </p>
+   <p>
+    Na železniènej stanici uložili mamu ved¾a bagážie v jedálni. Že mali ešte poltretej
+         hodiny do odchodu vlaku, išli sa prejs ešte raz po meste. Vrátiac sa, zazreli na peróne
+         známu tvár.
+   </p>
+   <p>
+    — Á, pán riadite¾! — pristupovali k nemu. Lebo on to bol. Sedel za prestreným stolom s
+         nejakou peknou mladou dámou, pred nimi jedlá, nápoje. V Ladislavovi Stráòavskom zovrela
+         krv. Trvalo to chví¾u, kým sa premohol. Ešte, že ju vyplnila rozhovorom s riadite¾om a tou
+         dámou jeho žena. Až potom prikroèil celkom ku stolu, podal riadite¾ovi ruku a spustil èo
+         najpich¾avejšie, premeriavajúc si ho prísne:
+   </p>
+   <p>
+    — Kde sa tu beriete?! A nepoèuli ste niè o sleène Gerte?
+   </p>
+   <p>
+    Riadite¾ díval sa nechápave: — Nepoèul niè. A èo som mal poèu? — hovoril s úsmevom,
+         celkom pokojne. Bol ve¾mi elegantne obleèený, peèlivo vyholený, akýsi bledší, chudší než
+         posledne. Potom vstal, zažmurkal oèami, ozval sa slávnostne: — Dovo¾te, milostivá pani, pán
+         redaktor, — a ukážuc na svoju spoloènicu, dodal obradne:
+   </p>
+   <p>
+    — Sleèna uèite¾ka Máòa Povondrová, moja s¾úbenica.
+   </p>
+   <p>
+   </p>
+  </body>
+ </tei:text>
+</tei:TEI>

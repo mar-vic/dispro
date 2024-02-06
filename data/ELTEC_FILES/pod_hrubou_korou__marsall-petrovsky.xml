@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012888" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Pod hrubou kôrou : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:42640171">
+     Maršall-Petrvoský, Gustáv (1862-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     6002
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:42640171">
+      Maršall-Petrvoský, Gustáv (1862-1916)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Pod hrubou kôrou
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     POD HRUBOU KÔROU
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Bolo poobede. Pani domu zacengala a hneď nato doniesla posluha čier-
+nu kávu. Pán Tobiáš Žila si ale najskôr špáral v zuboch. To bola už jeho
+obyčaj, zato ale nie div, že robil to s istou elegantnou gráciou. O:
+predložil si servítku pred ústa. Ó, to nie! Veď načo by si potom špáral,
+ak mal by zakrývať svoje zuby? On mal také zdravé, blýskajúce sa zuby,
+že by človek nebol vbil medzi ne ani to najmenšie vlákno. Nemusel si
+vrnich teda špárať, ale špáral si práve preto, aby sa videlo, že on absolútne
+nemusí si v nich špárať, že sú zdravé a pekné ako perly z mora.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš vedel to veľmi dobre, i nemálo bol pyšný. Zato najväč
+šou poklonou bolo preňho, keď mu niekto chválil zuby. Mladí právnickí
+osnovníci vydobyli si potrebnú priazeň uňho zväčša takou poklonou.
+Lebo slabá stránka pána Tobiáša bola známa celému svetu.
+    </tei:p>
+    <tei:p>
+     „Ej, strýko, ale by som sa vďačne čaroval! Človek by skoro ani neveril,
+že sú to vaše vlastné
+Pravda, ty, pane, ty neveríš! Lebo ty a celá tvoja čata potratíte ich po
+lum... No, no, pane, načo morálky, ja som liberálny! Ale pravda je, že
+naše pokolenie bolo inakšie, lebo vidíš...“ Pán Tobiáš nedokončil vetu,
+ale veselo zasmial sa. A i nebolo treba iného dôvodu: človek mohol tešiť
+sa dlho v pohľade na jeho drobné liskavé zuby pri tom širokom úsmeve.
+    </tei:p>
+    <tei:p>
+     Zato ale netreba predstavovať si pána Tobiáša ako nejakého puritána.
+Ba veruže nie! On rád jedol hríby - v omáčkeiv polievke, mladé kuren-
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     ne
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     ce, jarabice, bažanty: slovom, delikátne veci, všetky ale pripravené podľa
+vlastného receptu. Ešte i najchýrnejšie kuchárky v Lipnici pýtali rady od
+neho, keď muž doniesol im dáku divinu na krk. A pán Tobiáš vždy vedel
+dať rady.
+    </tei:p>
+    <tei:p>
+     Ďalej bol on nesmierny ctiteľ nežného pohlavia. On vedel dávať pek-
+né poklony, jemne bozkať rúčky, takže ani len púder neodletel z nich,
+a keď stretol dáku švárnu sedliačku, nuž on nezdráhal sa uštipnúť ju.
+v červené líčko a galantne zavolal: „Ej, ej, aká si mi podarená!“
+    </tei:p>
+    <tei:p>
+     Vcelku nebol on teda žiaden podivín: len tak klonil sa k moderným
+zvykom ako tí samí, čo náhodou potratili svoje zuby. A to konečne ani,
+nebol div, tie zdravé zuby. Mal pán Tobiáš ešte len päťdesiatpäť rokov,
+nuž a ja videl som už i sedemdesiatnikov s takými zubami. Pravda,
+v Lipnici on vynikal.
+    </tei:p>
+    <tei:p>
+     No, čo ušetril „zub času“ na zuboch pána Tobiáša, to hojne vynahra-
+dil si na jeho vlasoch. Bol totiž pán Tobiáš veľmi citlivým proti všetkým.
+možným prievanom, lebo temeno hlavy bolo úplne nahé. Zato dal rásť
+vlasom na bokoch a všemožne tiskal ich hore, lebo pán Tobiáš rád zdal
+sa mladým. Jeho čelo lesklo sa ako mladému dievčaťu a pery červenali sa
+pod čiernymi fúzami. Čo všetko ľahko uveríte, keď poviem vám, že pán
+Žila mal veľkú zásobu toaletných článkov a že bol veľkým podporovate-
+ľom kozmetických vynálezov. Všelijaké pasty, vodky, farbičky, to všetko
+prispievalo k zakrytiu toho, čo nemalo sa vidieť.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš totiž nevzdal sa ešte nádeje na krajšiu budúcnosť. Jemu
+ešte vždy snívalo sa o peknej mladej ženuške, o veselých, krikľavých de-
+ťoch... Stred Lipnice, na najkrajšom mieste rínku vystavil utešený dom,
+napchal ho nádherným nábytkom a z veľkého dvora urobil kr:
+hradu. Stromy od tých čias vyrástli dohora, rozpustili haluze do šírky, už
+poskytovali príjemný chládok, no žiadnej víly len nenašlo sa, čo prevzala
+bykormidlo domu. A bohvie prečo? Ako by sa boli premenili časy azvy-
+ky. Kým pán Tobiáš bol len chudobným, počiatočným advokátom, vtedy
+nešli bohaté zaňho práve zato, že je biedny, hoci švárny šuhaj: teraz ale,
+keď nazbieral už bohatstva - teraz zas nejdú zaňho, radšej za chudobné-
+ho, len nech je on švárny.
+    </tei:p>
+    <tei:p>
+     Konečne ale svitol i jeho deň! Od pár dní chodí pán Tobiáš ako vyča-
+rovaný: viac sa usmieva, jeho temeno akoby bolo odrazu zarástlo, pery,
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     boli mu sviežejšie, fúzy čierne ako žúžoľ a vytiahnuté ako stoličnému
+hajdúchovi. Akoby i nie! Pán Tobiáš vyhral veľkú kauzu: Dedinský ko:
+tra Zubák in summo dvadsattisíc zlatých. Každý závidel mu, lebo každý
+myslel na mastné expenze, ktoré z tej priležitosti mal pán Dedinský vy-
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Ja som bohatý, pán brat,“ riekol Žila k Dedinskému. „Mne už net
+ba zlata! Ja — mne treba by bolo niekoho, kto by chcel okrášliť mi život!
+    </tei:p>
+    <tei:p>
+     Pán Dedinský porozumel a nemal nič proti žiadosti pána Žilu. Nie
+síce preto, že by usporil tým niečo, ale držal Žilu za partiu nanajvýš
+skvelú a nevedel si predstaviť, prečo by Anna nemohli byť šťastnou,
+s váženým boháčom. Anna bola totiž dcérou pána Dedinského.
+    </tei:p>
+    <tei:p>
+     Plán oznámil sa pani Dedinskej a došiel súhlasu.
+    </tei:p>
+    <tei:p>
+     „Dievča je taký tovar, ktorý treba predať prvému kupcovi, lebo ruža,
+zvädne na steble — a bohvie, či nájde sa viac kupcov, alebo či bude lepší
+než pán advokát Žil
+    </tei:p>
+    <tei:p>
+     Takto mudrovali manželia a prisľúbili Annu plešivému pytačovi („as-
+poň má už rozumu!“). - Jediné, čo žiadala si matka, bolo, aby vec nesú-
+rila: nech pán Tobiáš získa si náklonnosť Anninu a to - riekla matróna
+- istotne podarí sa takému milému mužovi.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš pyšne vykrútil si farbené fúzy pod vplyvom lichotivej po-
+známky a márnivo usmial sa. On sám veril na svoju zručnosť. Takto je
+spokojný, lebo on ani nechcel by pojať za ženu dievča, ktoré by šlo zaňho
+len následkom rodičovského rozkazu.
+    </tei:p>
+    <tei:p>
+     ltem takto stáli pomery vtedy, keď — ako spomenul som napredku -
+prišla čierna káva a pán Tobiáš počal špárať si svoje pekné zuby. Lebo,
+rodičia Anny napomáhdli cieľ pána Tobiáša, nuž nie div, že obeduje už
+po tretí raz u nich.
+    </tei:p>
+    <tei:p>
+     „Prišla i pošta pre veľkomožného pána, riekla posluha k Žilovi a po-
+dávala mulisty.
+    </tei:p>
+    <tei:p>
+     „Má času!“ odpovedal galantne pán Tobiáš a chcel strčiť isty do vačku.
+    </tei:p>
+    <tei:p>
+     „Nedajte sa mýliť, možno, že sú súrne,“ riekla domáca pani.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš teda prezrel isty. ri čítaní posledného smiala sa jeho tvár.
+    </tei:p>
+    <tei:p>
+     „Povážte,“ riekol. „Brat posiela mi svojho syna na krky, aby som ho,
+vraj oženil
+    </tei:p>
+    <tei:p>
+     A pritom opätovne usmial sa, mysliac na svoju ženbu. Potom rozprá-
+val o svojej rodine a zvlášť o bratovi. Býval v susednej stolici, mal veľké
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     statky a jediného syna. No syn nebol veľmi podarený: raz zavrel sa do
+izby a študoval klasikov, druhý raz robil výlety koňmo alebo pešky, lovil
+ryby a zvery — len hospodáriť nechcel. Nuž snáď chcel brat odpomôcť
+tomuto, keď posiela ho do Lipnice.
+    </tei:p>
+    <tei:p>
+     „Ináč, ja málo pamätám sa už na šuhaja,“ riekol ďalej. „Videl som ho
+pred pätnástimi rokmi, mal vtedy desať rokov a tuším - bol rapavý“
+    </tei:p>
+    <tei:p>
+     Odrazu trhol sa Žila a pozornejšie díval sa do listu.
+    </tei:p>
+    <tei:p>
+     „Je dnes dvadsiaty máj?“ pýtal sa rýchlo.
+    </tei:p>
+    <tei:p>
+     „Áno“
+    </tei:p>
+    <tei:p>
+     „Nuž pomyslite si len, Vladimír dnes má prísť list šiel osem dní,“
+vyvolal Žila a mrzuto zdvihol sa. Pozrel na hodiny. „A vlak len čo nie je
+tu. Kým domov prídem a dám zapriahnuť, bude už neskoro“
+    </tei:p>
+    <tei:p>
+     Rýchlo hľadal klobúk a chcel sa vzdialiť.
+    </tei:p>
+    <tei:p>
+     „Ostaňte, pán brat,“ mienil Dedinský. „Hovoríte, žei tak bude nesko-.
+ro, nuž pošlime môj koč preňho.“
+    </tei:p>
+    <tei:p>
+     „Pravdaže!“ narádzala pani. „Doma i tak nemali by ste mu čo predlo-.
+žiť, nech príde sem.“
+    </tei:p>
+    <tei:p>
+     Pánu Tobiášovi i tak nechcelo sa preč, nuž ostal a o pár minút už hr-
+mel koč k stanici.
+    </tei:p>
+    <tei:p>
+     Rozhovor točil sa potom o Vladimírovi Žilovi. Jeho strýc rozprával
+daktoré jeho kúsky, ktoré mu opísal brat. O štvrť hodiny si ho už všetci
+vedeli predstaviť, no tak, že nebárs lichotivé bolo preňho samého.
+    </tei:p>
+    <tei:p>
+     „Nuž ale - chlapec môže!“ mieril pán Tobiáš dojem. „Je bohatší než
+mnohí magnáti.“
+    </tei:p>
+    <tei:p>
+     Vonku zahrmel voz. Panstvá vyšli na koridor čakať hosťa.
+    </tei:p>
+    <tei:p>
+     Otvorenou bránou vošiel koč - prázdny, len dva kufre boli vňom.
+    </tei:p>
+    <tei:p>
+     „A pán urodzený?“ volal Žila zadiven
+    </tei:p>
+    <tei:p>
+     Odvety nebolo treba, lebo hneď zakočom vbehol mladý muž na koni
+silne spenenom. Zadivene pozeral na panstvá, potom s úsmevom pozrel
+na svoje šaty, akoby chcel označiť, že nebol prichystaný na spoločnosť
+dám. Bol v jazdeckom obleku: vysoké gamaše, jelenie nohavice, krátky
+kabát a široký biely klobúk.
+    </tei:p>
+    <tei:p>
+     Pred vchodom skočil z koňa a podal uzdu sluhovi.
+    </tei:p>
+    <tei:p>
+     „Vodte ho aspoň hodinu a nedajte mu piť,“ riekol a stúpal hore schodmi.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš šiel mu vústrety.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     „Vitaj, braček!“ riekol a podával mu pravicu.
+    </tei:p>
+    <tei:p>
+     „Ty si to, strýko?“ pýtal sa hosť a pozorne díval sa naňho. „Výborne
+vyzeráš, keby nie tých vlasov, tak ani mladý človek!“
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš nechutne stiahol ústa.
+    </tei:p>
+    <tei:p>
+     „Mám ti česť...“
+    </tei:p>
+    <tei:p>
+     „Dámy musia ma ospravedlniť,“ skočil mu synovec do reči. „Nemys-
+lel som ani zďaleka, že by môj strýc mal návštevu.“
+    </tei:p>
+    <tei:p>
+     Dámy sa smiali.
+    </tei:p>
+    <tei:p>
+     „Veď len dovoľ?“ riekol netrpezlivo strýc. „Toto sú páni Dedinskovci,
+a síce pani, slečna Anna a pán, a ty si ich hosťom spolu so mnou.“
+    </tei:p>
+    <tei:p>
+     Hosť zadivil sa.
+    </tei:p>
+    <tei:p>
+     „Nesmierne ma teší!“ riekol. „Ale pravdu povedať, mal som ja byť
+predsa tvojím hosťom. Ako to teda?“
+    </tei:p>
+    <tei:p>
+     Vysvetlili mu príčinu a zaviedli ho do jedálne,
+    </tei:p>
+    <tei:p>
+     Vladimír Žila bol chlap vysokého a silného vzrastu. Jeho tvár nemoh-
+la sa pomenovať pravidelnou, ba ani švárnou, lebo špatená bola niekoľ:
+kými rapinami no predsa nedala sa jej uprieť zaujímavosť. On mal veľké
+jasnomodré oči a pobelavé, kaderavé vlasy, takže oboje bolo by hodilo sa
+prv do jemnej ženskej tvárej no predsa protiva ich s mohutnou postavou
+a hlbokým hlasom nebola smiešna, ba až pútajúca. On kráčal ťažko, ho-
+voril hlasne a pomaly, bol viac vážnej než veselej povahy.
+    </tei:p>
+    <tei:p>
+     Kus nezručne uklonil sa pred neznámymi: pani Dedinskej nepoboz-
+kal ruku a slečne ani len ruku nepodal, domácemu pánovi však silne
+a srdečne stisol podanú pravicu.
+    </tei:p>
+    <tei:p>
+     Pani Dedinská doniesla jedlá preňho a núkala ho.
+    </tei:p>
+    <tei:p>
+     „Povďačný som vám,“ riekol on. „Nejedol som od včerajška, nerád
+hostinské jedlá. Prv ale prosím pohár vína, lebo mám nesmierny smäd,“
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš usmial sa, akoby bol chcel povedať: „Či som nevravel?“
+Domáci pán nalial hosťovi hodnú času červeného a ten vypil ho na dú-
+šok, Potom dal sa s chuťou do jedenia.
+    </tei:p>
+    <tei:p>
+     „Ešte ani nepýtal som sa ťa, strýče!“ riekol po chvíli. „Otec oznámil ti
+istotne len moju návštevu: bude mať miesta i Alazán, môj sivko?“
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš kývol hlavou. Predmet nezdal sa mu súcim k rozhovoru.
+    </tei:p>
+    <tei:p>
+     „Krásny kôň!“ riekol Dedinský.
+    </tei:p>
+    <tei:p>
+     „Plná krv! odpovedal Vladimír.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Skadiaľ je? Bol drahý?“
+    </tei:p>
+    <tei:p>
+     „Nie, vôbec nedá sa zaplatiť. Je rýchly ako vietor a húževnatý. Pred
+rokom doniesol som ho z p...skej výstavy od baróna B.“
+    </tei:p>
+    <tei:p>
+     Dedinský nalial zas vína a ponúkol hosťa.
+    </tei:p>
+    <tei:p>
+     „Ďakujem, nepijem viac“
+    </tei:p>
+    <tei:p>
+     „Ale prosím!“
+    </tei:p>
+    <tei:p>
+     „Odpusťte, ale ja nepíjam nič okrem vody.“
+    </tei:p>
+    <tei:p>
+     „Naozaj?“ vyvolal domáci pán.
+    </tei:p>
+    <tei:p>
+     Vladimír zdvihol hlavu.
+    </tei:p>
+    <tei:p>
+     „Ráčite pochybovať?“ pýtal sa ho s úsmevom.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš hniezdil sa a Dedinský prišiel do rozpakov.
+    </tei:p>
+    <tei:p>
+     „Teraz pil som len od unavenia, lebo sivko dal mi tuhej práce na ceste
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Ako — teda koňmo ste prišli?“
+„Áno. Podľa pravdy mal som vôľu prekonať celú cestu ko:
+otec prehovoril ma: šli sme teda vlakom. Na poslednej stanici stojí vlak.
+    </tei:p>
+    <tei:p>
+     no, ale
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     do úzkej klietky. To mrzelo ma: dal som si ho vyviesť, napojiť a osedlať.
+Cestu - paralelnú s dráhou - ukázali mi, nuž myslel som si, však dora-
+zím do večera. Pohol som sa, ale nešiel štvrť hodiny, už hrmel vlak za
+nou. Alazán počal ostriť uši, divo odfukoval a staval sa na zadné nohy.
+„To bude pekný žart!“ mysle] som si a chcel som zastaviť koňa. Vlak ale
+hrmel už celkom za nami. Alazán spínal sa, a ja nevládal som ho držať,
+sme teda zároveň s vlakom, ba asi o minútu prv som bol na stanici
+než vlak“
+    </tei:p>
+    <tei:p>
+     Páni a dámy divili sa náramne.
+    </tei:p>
+    <tei:p>
+     „Ale skutočne, naozaj?“ vyvolal Dedi
+    </tei:p>
+    <tei:p>
+     Vladimír práve niesol pohár vody kústam. Na otázku zložil ho a jas-
+ne pozrel na Dedinského.
+    </tei:p>
+    <tei:p>
+     „Ráčite pochybovať už po druhý raz,“ riekol vážne, no bez všetkého
+hnevu,
+    </tei:p>
+    <tei:p>
+     Dedinský ospravedlňoval sa, veďon verí, len mu je to príliš
+    </tei:p>
+    <tei:p>
+     „Nepravdepodobné!“ skočil mu mladší Žila do reči so smiechom.
+    </tei:p>
+    <tei:p>
+     „Ak však neverili by ste sluhovi, čo čakal ma na stanici, to som vám
+k službám, bárskedy dokázať to isté ešte raz.“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Vladimír hovoril to žartovne, ani zďaleka nemalo to náter vypínavos-
+ti. O malú chvíľu vstal Dedinský a vyšiel von. Keď sa vrátil, s obdivom.
+ozeral na Vladimíra a na znak otázky zo strany pána Tobiáša mlčky
+kývol hlavou.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš navrhol, aby šli pozrieť si Alazána.
+    </tei:p>
+    <tei:p>
+     Spoločnosť súhlasila.
+    </tei:p>
+    <tei:p>
+     Za ten čas, kým panstvá bavili sa v izbe, umyli sluhovia Alazána, tak-
+že jeho tmavosivá srsť leskla sa ako zrkadlo.
+    </tei:p>
+    <tei:p>
+     „Nemusíme ta ísť,“ riekol mladší Žila pri dverách koridorových. „Za-
+volám ho sem, len ráčte rozkázať sluhovi, aby ho pustil.“
+    </tei:p>
+    <tei:p>
+     Dedinský vyplnil žiadosť. Sluha hodil koňovi uzdu na krky.
+    </tei:p>
+    <tei:p>
+     „Alazán!“ zavolal Vadimír silným hlasom. Kôň zarechtal a rýchlo pri--
+blížil sa k panstvám. Pán pohladkal ho po dlhej hrive. Kôň ňuchal, lízal
+ruku pánovu.
+    </tei:p>
+    <tei:p>
+     Žilasiahol do vrecka. „Nemám, neskôr,“ riekol ku koňovi a znovu ho
+pohladkal.
+    </tei:p>
+    <tei:p>
+     „Čo to?“
+    </tei:p>
+    <tei:p>
+     „Obyčajne mu dávam cukor,“ odpovedal Žila.
+    </tei:p>
+    <tei:p>
+     Slečna Anna doniesla cukorničku a podávala ju Vladimírovi. On sia-
+hol po ňu a pritom mimovoľne pozornejšie pozrel na domácu slečnu.
+Vnútri v izbe bola urobená tma, aby pálčivé papršleky nepredrali sa dnu:
+tam ju teda ani nevidel. No tu muselo napadnúť mu, kde jasné svetlo dňa,
+dodávalo výrazu jej vysokej plnej postave, sviežej belosti tváre a tmavým
+očiam, lebo Anna Dedinská bola neobyčajným zjavom, bárs nebola ani
+zďaleka dokonalá krásavica.
+    </tei:p>
+    <tei:p>
+     Ona začervenala sa až po tenkú zlatú retiazku, ktorá krášlila jej biele
+hrdlo.
+    </tei:p>
+    <tei:p>
+     „Smiem ja tiež dať?“ pýtala sa, aby urobila scéne koniec.
+    </tei:p>
+    <tei:p>
+     Onrvtedy po prvý raz počul jej mäkký, altový hlas.
+    </tei:p>
+    <tei:p>
+     „N božom mene, ak nebojíte sa, slečna!“ odpovedal Vladimír veselo.
+    </tei:p>
+    <tei:p>
+     „Oh!“ vyvolala ona a žartovnou pohrdlivosťou zrela na jeho vysokú
+postavu, akoby mu riecť chcela: „Ako čo by si len ty smel
+    </tei:p>
+    <tei:p>
+     Potom chytila do ruky kúsky cukru a podávala ich Alazánovi.
+    </tei:p>
+    <tei:p>
+     „Vy tuším tiež rád pochybujeteľ“ riekla Žilovi. „Ja ale našťastie mô-
+žem presvedčiť vás hned!“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     To „hneď“ prízvukovala tak, že spoločnosť dala sa do smiechu.
+    </tei:p>
+    <tei:p>
+     Vladimír mlčal.
+    </tei:p>
+    <tei:p>
+     „Už bude dosť, slečna, ďakujem vá
+    </tei:p>
+    <tei:p>
+     Sluha prišiel a chytil Alazána za uzdu.
+    </tei:p>
+    <tei:p>
+     „Je to kôň!“ riekol oduševnene k panstvám! „Veľkomožný pán prišli
+na ňom od Mojky do Lipnice driev než železnice:
+    </tei:p>
+    <tei:p>
+     Vladimír obrátil sa k Anne a riekol chladne: „Ja nikdy nedokazujem
+pravdivosť svojich slov, teraz ale mimovoľne máte ich tiež hneď potvr-
+dené.“
+    </tei:p>
+    <tei:p>
+     Druhí alebo nepočuli to, alebo prepočuli - a Anna nedala mu tiež
+odvety.
+    </tei:p>
+    <tei:p>
+     O chvíľu odporúčali sa Žilovci. Pán Tobiáš nežne pobozkal ruky dá-
+mam: Vladimír sa len uklonil. Rozumie sa, že boli zvaní k hojným náv-
+števám.
+    </tei:p>
+    <tei:p>
+     „Čo myslíš o mladom Žilovi?“ pýtala sa Dedinská svojho muža po
+odchode hostí.
+    </tei:p>
+    <tei:p>
+     „Ešte nič,“ odpovedal opytovaný.
+    </tei:p>
+    <tei:p>
+     „Nemá on dáke zvláštne maniere?“ riekla pichľavo Dedinská.
+    </tei:p>
+    <tei:p>
+     „Toby bola snáď najmenšia chyba,“ mienila Anna. „On nie je snovaný
+ztej látky čo jeho sladký strýc, a ani neprijala by od neho, aby mi ruku
+bozkal.
+    </tei:p>
+    <tei:p>
+     „Nuž ale prečo? Prečo by on tiež nemohol zadržať pravidlá slušnosti?
+Je on niečo iného?“ vyvolala indignovaná veľkomožná.
+    </tei:p>
+    <tei:p>
+     „Je, je! Rozhodne je niečo iného než naši vyfintení, šnúrovaní fičúri!“
+hovorila Anna. „On je muž, zato vravím, to je ešte najmenej, že ignoro-
+val malicherné zvyky. Ale tá nadutosť, to prehnané sebavedomie, to je
+hnusné uňho! Či počuli ste, ako počal vždy: Ja nepijem. Ja nikdy nedo-
+kazujem pravdivosť svojich slovť A všade to, ja: ono zvučí z celej bytosti
+jeho. To je k nevystátiu uňho!
+    </tei:p>
+    <tei:p>
+     Slečna rozhorlila sa: jej biele líca začervenali sa.
+    </tei:p>
+    <tei:p>
+     „Taký chlap ako on môže si to dovoliť!“ riekol flegmaticky Dedinský.
+„On reprezentuje svet úplne izolovaný — voči celému svetu.“
+    </tei:p>
+    <tei:p>
+     „Alebo reprezentuje muža, ktorý rád rozhadzuje sa,“ riekla ticho Anna.
+    </tei:p>
+    <tei:p>
+     „Pravda, veď ktože sa otcovi hneď nezapáčil!“ riekla trpko pani De-
+dinská, že muž nesúhlasí s nimi.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     riekol o chvíľu.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Uvidíme, kto má pravdu!“ riekol Dedinský a vyšiel von
+    </tei:p>
+    <tei:p>
+     1 matka vzdialila sa. Anna zamyslená dívala sa von oknom.
+    </tei:p>
+    <tei:p>
+     Na dvore práve viedli Alazána. Anna rýchlo zobrala cukor a vybehla
+na chodbu.
+    </tei:p>
+    <tei:p>
+     „Pusťte ho, Ondrej!“ volal na sluhu. Potom zavolala hlasne: „Alazán!
+    </tei:p>
+    <tei:p>
+     Kôň hneď prišiel k nej a lízal jej ruky. Ona potľapkala ho a podávala
+mu cukor. Mala radosť, že kôň poslúchol i ju.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Druhý deň bol pondelok. Pán Tobiáš mal hrúzu pojednávaní, nemohol
+teda nijako ísť na návštevu do Dedinských.
+    </tei:p>
+    <tei:p>
+     „Tebe ale patrí sa, aby si šiel, Vlado,“ riekol pri raňajkách k synovcovi.
+    </tei:p>
+    <tei:p>
+     „Keď sa mi ale nechce!“ odpovedal Vlado, „Vôbec neviem, načo po-
+slal ma sem otec. Som jedine na prekážke tebe a na ťarchu iným. Čo ja
+mám u Dedinských robiť? Hľa, i včera hovoril som výlučne o koňoch:
+ja nehodím sa do spoločnosti dám a ani nič neťahá ma k nim. K blbým
+frázam nie som stvorený a iné nech nečaká človek od ženy.
+    </tei:p>
+    <tei:p>
+     „No, očuj!“ vyvolal pán Tobiáš. „Nuž či patrí sa tak hovoriť?“
+    </tei:p>
+    <tei:p>
+     „Dobre, poviem ti teda inak: ja som blbý a ony sú mi primúdre!
+V každom páde ale stojí, že nehodíme sa spolu.“
+    </tei:p>
+    <tei:p>
+     „To som ešte nepočul od mladého človeka!“ vyvolal strýc.
+    </tei:p>
+    <tei:p>
+     „Nuž či každý čo mladý musí hneď za sukňami behať? Mne je môj
+Alazán milší než všetky vaše šminkované, šnúrované, turnierova:
+maznavé.
+    </tei:p>
+    <tei:p>
+     „MIč!“ volal pán Tobiáš a servítkou zapchával ústa hriešnikovi.
+    </tei:p>
+    <tei:p>
+     „Dobre! Budem mlčať, ale ma nenúť knávšteve!“ riekol so smiech:
+Vlado. „Ako vidím, ty si horlivý obhajca slabého pohlavia, tuším, tuším,
+šte i tetku dostanem
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš milo usmial sa, utrel si fúzy servítkou a pyšne vykrúcil ich.
+    </tei:p>
+    <tei:p>
+     „Toje vec budúcnosti, riekol. „Ale čity vieš, prečo ťa otecsem poslal?“
+    </tei:p>
+    <tei:p>
+     „Ani zďaleka!
+    </tei:p>
+    <tei:p>
+     „Nuž, aby som ťa tu oženil!“ riekol pán Tobiáš a čakal na účinok svo-
+jich slov.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Vlado otvoril oči, vypil pohár vody. „To je pekne“ odpovedal chlad-
+no. „A ako to chceš počať, strýče?“
+    </tei:p>
+    <tei:p>
+     „Nuž po prvé, zaľúbiš sa...“
+    </tei:p>
+    <tei:p>
+     „Teda ja mám počať!“ vyvolal Vlado so smiechom.
+    </tei:p>
+    <tei:p>
+     „A ja ti ju vypýtam...“
+    </tei:p>
+    <tei:p>
+     Vlado málo že nepukol sa.
+    </tei:p>
+    <tei:p>
+     „Choďte, chod! Ty mi vypýtaš, keď sa ja zaľúbim? De-li-kát-ne!
+    </tei:p>
+    <tei:p>
+     O chvíľu preriekol: „Pretože sa ale ja nikdy nezaľúbim, teda zaľúb sa
+ty, strýče, a ja ti ju vypýtam"
+    </tei:p>
+    <tei:p>
+     Strýc potuteľne usmial sa. „Ja už mám!“ riekol pološeptom.
+    </tei:p>
+    <tei:p>
+     „Kýho ďasa!“ vyvolal Vlado. „No vidíš teda, čo tak súrite, keď ty už
+máš? Či ja nemôžem ešte čakať, kým i mne vlasy vypršia?“
+    </tei:p>
+    <tei:p>
+     Tobola nepríjemná téma pre pána Tobiáša. Vstal a odporúčal sa Vla-
+dovi.
+    </tei:p>
+    <tei:p>
+     „Rob, ako chceš, žeň sa alebo nežeň sa, ale do Dedinských patrí sa ti
+isť,“ riekol pri odchode.
+    </tei:p>
+    <tei:p>
+     Vlado odrazu chytil ho za ruku a pozorne díval sa mu do tváre.
+    </tei:p>
+    <tei:p>
+     „Strýčko, tuším chcel by si mi Annu.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš prišiel do nesmierneho zmätku. Energicky triasol hlavou
+a dôrazne riekol: „Nie, nie túz Anna nie je pre teba!“ Potom vytrhol sa
+mu zrrúk a jachal do súdu,
+    </tei:p>
+    <tei:p>
+     Vlado s podivením opakoval si strýcove slová, „Anna nie je pre teb:
+Prečo by nebola, keby on vôbec dal sa na to? Takto, pravdaže, nie!
+    </tei:p>
+    <tei:p>
+     Dalosedlať Alazána ašiel do poľa. Nazad idúc mrzelo ho otcovo sprá-
+vanie sa voči nemu. Pošle ho údajne na návštevu a ono má za lubom
+jeho ženbu!
+    </tei:p>
+    <tei:p>
+     Práve bol vedľa domu Dedinských. V otvorenom okne zazrel Annu:
+ľahko zdvihol klobúk... Nolen si predstaviť, akoby to vyzeralo: on naprí-
+klad s Annou rameno o rameno premaznať živ
+    </tei:p>
+    <tei:p>
+     Keď domov prišiel, musela ho iná nálada zájsť. Vybral salónny oblek
+zkufra a poslal ho krajčírovi vypigľovať.
+    </tei:p>
+    <tei:p>
+     „Ale do jedenástej nech je tu!“ prikazoval sluhovi.
+    </tei:p>
+    <tei:p>
+     Punkt o jedenástej obliekol sa a poberal sa k Dedinskovcom. Vyzeral
+veľmi švárnej čierne šaty vyzdvihovali jeho mužskú postavu. Na ceste tu i
+tuzastal a dupol nohou: raz jednou, druhý raz druhou. Lakovky tlačili ho.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     »Sprepadené návštevy!“
+    </tei:p>
+    <tei:p>
+     V chodbe u Dedinských stretla ho posluha a riekla mu, že je len sleč-
+na doma, panstvá že šli do majera. Žila vydýchol uľahčene a siahol po
+navštívenku, aby oddal ju posluhe. Vtedy zjavila sa domáca slečna.
+    </tei:p>
+    <tei:p>
+     „Dobrý deň vám, slečna!" riekol hrubým hlasom Žila. „Držal som.
+si za povinnosť prísť sa poďakovať vašim pánom rodičom za včerajšiu.
+láskavosť, pretože som ale počul, že ste len vy doma, to práve vzdialiť
+chcel som sa.“
+    </tei:p>
+    <tei:p>
+     Anna Dedinská sprvu zachmúrila sa - snáď pre to „len vy“ - keď ho
+však obzrela nezručného, ba skoro nemotorného - lebo tiesnili ho čier-
+ne šaty ešte viac než iné - vtedy chutne zasmiala sa.
+    </tei:p>
+    <tei:p>
+     „Pretože mne ale naložené od mojich rodičov, aby hosťa - a bol to,
+bárskto - zadržala zatiaľ, kým oni prídu: dovolím si prosiť vás, aby ste
+ráčili pomeškať u nás.“
+    </tei:p>
+    <tei:p>
+     Jej hlas znel veselou iróniou.
+    </tei:p>
+    <tei:p>
+     Žila mimovoľne usmial sa.
+    </tei:p>
+    <tei:p>
+     „Tuším sme si oba dal
+    </tei:p>
+    <tei:p>
+     „Len akoby mak, pane. Dar za dar!“ odpovedala slečna. „Ináč, ako sa
+má Alazán?“
+    </tei:p>
+    <tei:p>
+     Žila stisol pery, hneď však vzmuži sa.
+    </tei:p>
+    <tei:p>
+     „Ďakujem úctivo za otázku: chválapánubohu, dobre! Dobre spal
+a dobre žerie
+    </tei:p>
+    <tei:p>
+     Posledné drastické slovo zas slečne nezdalo sa.
+žera celkom okúzlili ste ma produkciou,“ riekla úsečne.
+    </tei:p>
+    <tei:p>
+     „Mienite to na mňa a či na môjho koňa?“
+    </tei:p>
+    <tei:p>
+     „No, no, pane, nehľadajte urážku, kde jej niet!“ miernila slečna dojem.
+slov, hoci len bezmála že nevypukla v hlasitý smiech. „Ak ale dovolíte,
+nestojme na chodbe.“
+    </tei:p>
+    <tei:p>
+     „Prosín
+    </tei:p>
+    <tei:p>
+     Slečna odrazu zapýrila sa. „Snáď sa vám bude páčiť do záhrady?“
+riekla váhavo.
+    </tei:p>
+    <tei:p>
+     Onusmial sa. „Prosím, ako sa vám len páči!
+    </tei:p>
+    <tei:p>
+     Slečna odrazu otvorila dvere. „Poďme teda do salónu" riekla odhodlane.
+    </tei:p>
+    <tei:p>
+     Onzdráhal sa vstúpiť. „Nerobte si násilie“ riekol výsmešne.
+    </tei:p>
+    <tei:p>
+     No ona vstúpila a za ňou šiel on.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Vitajte, ráčte sadnúť!“ riekla zapýrená tamdnu.
+    </tei:p>
+    <tei:p>
+     On sadol si, potom hral sa s hodinkovou retiazkou a — mlčal. A jej
+bolo tiež clivo.
+    </tei:p>
+    <tei:p>
+     „To vy hráte na piane?“ pýtal sa on o chvíľu. „Neboli by ste taká láska-.
+vá kus hluku narobiť?“
+    </tei:p>
+    <tei:p>
+     „Rád máte hudbu?“
+    </tei:p>
+    <tei:p>
+     „Rád, rád, najmä keď nemám čo riecť!“ odpovedal on so smiechom.
+    </tei:p>
+    <tei:p>
+     Ona sadla si k pianu. „Huč teda!“ riekla veselo. Hrala dosť obstojne.
+    </tei:p>
+    <tei:p>
+     „Fľudba zošľachtuje!“ riekol on namiesto poklony, keď prestala hrať.
+    </tei:p>
+    <tei:p>
+     „Ale ak nemáte nič proti tomu, poďme do záhrady!“
+    </tei:p>
+    <tei:p>
+     Pravdaže, pristala. V záhrade vydýchol Žila, akoby mu centy boli odľahli.
+    </tei:p>
+    <tei:p>
+     „Viete, slečna Dedinská, poviem vám pravdu.
+nebojím sa tak ako jedinej slabej ženskej osamote
+zmoriť, a predsa nemôžem nájsť príhodného slova. Môj jazyk ťažký
+k hladkým slovám a driek neohybný k zručným poklonám!“
+    </tei:p>
+    <tei:p>
+     Anna Dedinská prv zasmiala sa naivnej dôvere, potom však zvážnela.
+    </tei:p>
+    <tei:p>
+     „Myslíte, že každá dáma dychtí za poklonamiť“ riekla. „Myslíte, že ja
+napríklad žiadam od vás podobného? Ani zďaleka! Vám ani nesvedčilo
+by to, vy stali by ste sa smiešnym.
+    </tei:p>
+    <tei:p>
+     On zadivené pozrel na ňu. „Pochybovať sa nesmie, všakže?“
+    </tei:p>
+    <tei:p>
+     „Naskrzenie!“ odpovedala ona vážne.
+    </tei:p>
+    <tei:p>
+     On kývol hlavou - snáď namiesto vďa!
+    </tei:p>
+    <tei:p>
+     „Citim i to, že druhý nebol by si dovolil toľko povedať vám na druhé
+videnie, ale
+    </tei:p>
+    <tei:p>
+     „Vy ste už taký!“ skočila mu Anna do reči. „A ja by druhému ani ne-
+bola dovolila to, čo vám ale ani sebe. Ja sa ale rada prispôsobujem! No
+a teraz pochváľte mi ruže, pán Žila!
+    </tei:p>
+    <tei:p>
+     Žila dokázal sa zbehlým kvetinárom. Rad-radom poobzeral ruže,
+chválil, hanil, ako práve na ktorú prišlo. Naúčal, ako treba pestovať ruže,
+až konečne zabídol v prednáške: o živočíchoch škodlivých pre ruže a o
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     ich odstránení! Práve, keď na vežiach k obedu zvoniť počali, zbadal, že
+je téma suchá.
+Nidíte sl [dem o hmyze rozprávať!“ ospravedlňoval
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     sa s úsmevom,
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Nič to, pán Žila, nenudila som sa!“ tešila ho Anna.
+     <tei:pb/>
+     „Chcel som vám ešte len to povedať, že by ste si od môjho strýka
+mohli mnoho druhov zaopatriť, ktoré nemáte ešte.“
+    </tei:p>
+    <tei:p>
+     „Tak? To by som vás skutočne prosila.“
+    </tei:p>
+    <tei:p>
+     Žila sa odporúčal. Slečna podala mu ruku a on - uklonil sa a chcel
+pobozkať podanú pravicu.
+    </tei:p>
+    <tei:p>
+     Anna vykríkla ako naľakaná a vytrhla si pravicu. Potom zasmiala sa.
+„Nerobte sa smiešnym!“ riekla. „Vám to nedovolín
+    </tei:p>
+    <tei:p>
+     Žila v rozpakoch uklonil sa ešte neohybnejšie než inokedy a rýchlo
+stúpal cez dvor. No práve vtedy dorazili Dedinskovci. Starý pán srdečne
+vítal ho a pani aspoň neukázala nevôľu.
+    </tei:p>
+    <tei:p>
+     Prišla i Anna a rozprávala otcovi, ako rozumie sa pán Žila do kveti-
+nárstva, ako naúčal ju, a že prisľúbil jej očká z ruží pána staršieho Žilu.
+    </tei:p>
+    <tei:p>
+     „Očkovať je ale najlepšie za rána, pošlem vám ich teda len zajtra,“
+riekol Žila.
+    </tei:p>
+    <tei:p>
+     „Áno, áno!“ prisviedčal Dedinský. „A bolo by najlepšie, pán brat,
+keby ste i sám prišli. Bola by práca aspoň istá, lebo mojej Anne už mno-
+hé vyschli“
+    </tei:p>
+    <tei:p>
+     Anna spierala sa tvrdeniu: chybu uvaľovala na daždivé počasie. Žila
+ale ochotne prisľúbil, že zajtra ráno príde.
+    </tei:p>
+    <tei:p>
+     „A síce, aby bližšie vám bolo, prídte od zadného vchodu. Ja budem
+vás čakať hneď po zvonení,“ riekol Dedinský pri lúčení.
+    </tei:p>
+    <tei:p>
+     Doma čakal Vladimíra natešený strýc. Vyhral jednu väčšiu a kopu
+sumárnych káuz a tešil sa i tomu, že synovec predsa odhodlal sa k ní
+števe. Keď Vlado predniesol prosbu Anninu o ružové očká, to starý
+padnou ochotou prívolil ešte i celé pníčky vybrať a zaslať ich jej.
+    </tei:p>
+    <tei:p>
+     „Dnes nemôžem už ta ísť, ale zajtra ako náhle odbavím klientov, na-
+vštívim vás pri práci!“ riekol veselo.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Včasráno šiel Vladimír s mládnikmi v ruke záhun
+    </tei:p>
+    <tei:p>
+     V záhrade čakala ho už Anna s otcon
+„A ružu? Nevedi ste mi bárs len jednu doniesť?“ pýtala sa ho Anna.
+Potom nastala práca.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     m do Dedinských.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Asi o hodinu prišiel pán Tobiáš. On už nezameškal doniesť kytku
+a oddával ju s náležitými poklonami. Najprv pripodobnil celú Annu
+k ruži, potom jej pery, ďalej červené líčka a konečne, pri očkovaní jej
+nechty. A to všetko sladkým hlasom ako med.
+    </tei:p>
+    <tei:p>
+     „Baba!“ šomral nechutne Vladimír a pokaziločko hlbokým zárezom.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš uberal sa po vykonanej práci k starému pánovi, aby zas
+tomu dvoril.
+    </tei:p>
+    <tei:p>
+     „Môj strýc rozumie sa tuším lepšie než ja. Tak sa to dvorí?“ pýtal sa
+ticho Vlado Anny.
+    </tei:p>
+    <tei:p>
+     Anna zasmiala sa.
+    </tei:p>
+    <tei:p>
+     „Aj tak ako on, aj tak ako vy“ odpovedala.
+    </tei:p>
+    <tei:p>
+     „Ako ja - vravíte?“ vyvolal Vlado a tvár zbíkla mu ohňom.
+    </tei:p>
+    <tei:p>
+     Vtedy už ale zas bol strýc pri nich.
+    </tei:p>
+    <tei:p>
+     „Čo to, prosím, aj tak, aj tak?“
+esa očkuje aj tak, aj tak,“ vysvetľovala mu Anna.
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš ochotne prisviedčal. O chvíľu šiel do domu na poklonu
+panej.
+    </tei:p>
+    <tei:p>
+     „Ráčili ste sa mýliť, slečna!“ preriekol Vlado. „Ja nedvorín
+    </tei:p>
+    <tei:p>
+     Ona zapálila sa.
+    </tei:p>
+    <tei:p>
+     „Vidím — a veľmi" riekla. „Chcela som vám len označiť, že dvoriť ne-
+znamená vlastne nič iné, len správať sa tak, aby sa človek niekomu zapáčil.“
+    </tei:p>
+    <tei:p>
+     „Ja ale správam sa len tak ako vždy,“ povedal Vlado, ale vtom okami-.
+hu prasklo steblo v jeho rukách.
+    </tei:p>
+    <tei:p>
+     „A i ruže vždy lámete!“ úsečne pýtala sa ho Anna.
+    </tei:p>
+    <tei:p>
+     „Ako kedy. Keď som namrzený, vtedy nemám istoty v rukách.“
+    </tei:p>
+    <tei:p>
+     „A teraz ste namrzený preto, lebo si namýšľate, že páčite sa n
+riekla zlobne Anna.
+    </tei:p>
+    <tei:p>
+     „Predsa mali by ste podať mi svoju ruku: prečo práve ja nesmel by ju.
+riekol s výčitkou.
+obíte sa i tak dosť smiešnym!“ odpovedala ona.
+    </tei:p>
+    <tei:p>
+     „Ale sa nehneváte? Odpusťte!“ riekol on mäkko.
+    </tei:p>
+    <tei:p>
+     Takto šlo tri dni, kým ružové diviaky trvali...I slečna i Žila všemožne
+usilovali sa pichať a štípať jeden druhého, a predsa tým samým láskali
+sa... Až konečne prešlo všetko.
+    </tei:p>
+    <tei:p>
+     Stalo sa to takto:
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     V posledný deň záhradnej práce u Dedinských vyjazdil Vlado poo-
+bede a vrátil sa až podvečer. Nešiel však, ako obyčajne, hradskou, ale po
+záhumní. Keď prišiel k záhrade Dedinských, kukol cez múrik do nej. No
+a tam mal čo vidie Stred záhrady stála Anna a veda nej na zemi kľačal
+pán Tobiáš. V ruke držal ružu a podával ju Anne.
+    </tei:p>
+    <tei:p>
+     Vlado tak cítil, akoby ho niečo v hruď pichlo, krv buchla mu do tváre,
+oči stratili zrak.
+    </tei:p>
+    <tei:p>
+     „Alazán!“ vyvolal divo a bodol koňa ostrohami. Keď obzrel sa, videl,
+že strýc už stojí a že Anna dlaňami prikryla si tvár.
+    </tei:p>
+    <tei:p>
+     „Teda zato nie je pre mňa Anna!“ blyslo Vladovi v hlave, „Nuž, ale ja
+ju ani nechcem! Ani ju, ani nikoho! Vôbec neviem, načo som t
+    </tei:p>
+    <tei:p>
+     Večer pokojne oznámil strýcovi, že — pretože z otcovho plánu i tak
+nič nebude - zajtra ide domov. Pán Tobiáš prijal zvesť bez slova, len tu.
+i tu zlobne díval sa na synovca. Keď už lihali, spýtal sa ho: „A prečo tak.
+súrne? Nudíš sa u mňa? Veď pre mňa veru nemusíš sa ženiť“
+    </tei:p>
+    <tei:p>
+     No Vlado neupustil od predsavzatia.
+    </tei:p>
+    <tei:p>
+     Druhý deň predobedom zas obliekol salónny oblek a zval strýca
+k návšteve do Dedinských. Pán Tobiáš ledvaže dal sa nahovoriť.
+    </tei:p>
+    <tei:p>
+     U Dedinských zarazení boli všetci rýchlym odchodom Vladovým.
+    </tei:p>
+    <tei:p>
+     Anna bola bledá, oči boli jej napuchnuté a červené, akoby nebola spa-
+la a mnoho plakdla. Keď ale Vlado povedal, že prišiel lúčiť sa, obledla
+ešte väčšmi.
+    </tei:p>
+    <tei:p>
+     Odhovárali ho. Eštei pani Dedinská hodila pár slov, aby nešiel. Zajtra
+je ochotnícke predstavenie, aspoň nech to dočká.
+    </tei:p>
+    <tei:p>
+     Vlado nedal sa odhovoriť.
+    </tei:p>
+    <tei:p>
+     Konečne preriekla Anna:
+    </tei:p>
+    <tei:p>
+     „Pán Žila istotne ostane, keď povyprávam mu, čo je to, to naše ochot-
+nícke predstavenie!“ riekla Žartovne. „Pozrite, tam bude: divadelné
+predstavenie, rečnenie, spevy, hudba a nakoniec tanečná zábava. Bude-
+me sa výborne zabávať!“
+    </tei:p>
+    <tei:p>
+     A to „budeme sa“ vyzdvihla: tomu porozumel len Vlado - i knísal sa,
+až konečne prisľúbil, a síce hneď dva dni, lebo druhý deň aranžuje pán.
+Dedinský výlet do hôr...
+    </tei:p>
+    <tei:p>
+     Druhý deň pozvaní boli Žilovci k obedu do Dedinských. Na slečne
+Anne nebolo už vidieť stopy plaču: ona veselo a až nápadnou srdečnos-
+ťou ponúkala pána Tobiáša jedlami.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     V záhrade, kde pili kávu, došlo sa voľného okamihu pre Annu a Vlada.
+    </tei:p>
+    <tei:p>
+     „Kebyste vedeli, ako sa hnevám, ako vás nenávidím!“ riekla mu Anna
+a zlostne dívala sa naňho.
+    </tei:p>
+    <tei:p>
+     „A ja na vás z plného srdca, z celej duše svojej!“ odpovedal Vlado.
+    </tei:p>
+    <tei:p>
+     Ona hlasne zasmiala sa.
+    </tei:p>
+    <tei:p>
+     „Ale choďte — naozaj? Nevoľno pochybovať o slovách vašich?“
+    </tei:p>
+    <tei:p>
+     „Teraz áno! Ostal som jedine vám k vôli, lebo len pre vás chcel som
+odcestovať!
+    </tei:p>
+    <tei:p>
+     „Hrozná grácia! Večer porozprávate mi to obšírne!“ riekla a vzdialila sa.
+    </tei:p>
+    <tei:p>
+     Večer bola zábava. Vlado ťažko čakal na koniec programu. Konečne
+prišiel nastal tanec,
+    </tei:p>
+    <tei:p>
+     Pán Tobiáš hlboko uklonil sa pred Annou a zval ju do tanca: za ním
+prišiel druhý - tretí. Vlado tratil trpezlivosť.
+    </tei:p>
+    <tei:p>
+     „Ostali ste mne k vôli a dívate sa, ako ma druhí berú!“ šepla mu vý-
+smešne Anna.
+    </tei:p>
+    <tei:p>
+     „Ja netancujer
+    </tei:p>
+    <tei:p>
+     Viac hovoriť nemali času, lebo zas hlásil sa pán Tobiáš. Za ním prišiel
+druhý - tretí. Konečne dala Anna jednému košiar,
+    </tei:p>
+    <tei:p>
+     „Doprajte mi aspoň pár okamihov odpočinku: potom vďačne!“ riekla
+mu zadychčaná. Za ten čas ale prestala hudba.
+    </tei:p>
+    <tei:p>
+     Anna oprela sa o rameno Vladovo a šli sa prejsť po sále. No len čo
+prišli na druhý koniec, už zas začala hudba nový kus a hneď hlásil sa
+odbitý tanečník. Vlado sa hneval. Prisadol si k pani Dedinskej a začal
+s ňou rozhovor. No veľmi viazol v ňom, lebo Anna šla z rúk do rúk, Naj-
+viac tancoval s ňou strýc Tobiáš. On bol celý premenený, tvár mu jasala
+a nohy bystro točili sa v rýchlych tempách. Človek nebol by ani veril, že
+je už taký starý. A k tomu ustavične usmievali sa jeho ústa a - rozumie
+sa - leskli sa jeho chýrne zuby.
+    </tei:p>
+    <tei:p>
+     Vlado mal najväčšiu zlosť naňho. Keď tak videl, ako priviera krásnu
+tanečnicu ksebe, bol by býval schopným odsotiť ho.
+    </tei:p>
+    <tei:p>
+     Konečne odhodlal sa: bude tancovať s ňou. Keď strýc doviedol Annu
+na miesto, uklonil sa on pred ňou. Jej tvár začervenala sa, oči radosťou
+zažiarili.
+    </tei:p>
+    <tei:p>
+     „Konečne, predsa!“ šepla mu a dala sa mu objať. Vlado bol nezručný
+tanečník, k tomu treba i praxe i ľahkosti, a jemu chýbalo oboje.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     septal jej v tanci. „So mnou deje sa niečo neobyčajného,
+zvláštneho. Ja nechápem sám seba, ale to viem, že nemožno mi dívať sa
+na to, ako ste vy z ramien do ramien chodili. Urobte mi po vôli, netan-
+cujte viac!“
+    </tei:p>
+    <tei:p>
+     Anna chvela sa na jeho ramene.
+    </tei:p>
+    <tei:p>
+     „Ako to? Skadiaľ beriete si práva
+nú tvár k nemu.
+    </tei:p>
+    <tei:p>
+     On prosebne pozrel na ňu. „Nemám práva - prosím!
+    </tei:p>
+    <tei:p>
+     O chvíľu riekla mu:
+    </tei:p>
+    <tei:p>
+     „Dobre! Vy urobili ste mi po vôli, žeste ostali, ja urobím vám tiež po
+vôli“
+    </tei:p>
+    <tei:p>
+     Vlado stisol jej ľavicu a chcel ju hore zdvihnúť, aby ju pobozkal, no
+ona vymkla sa mu z ramien.
+    </tei:p>
+    <tei:p>
+     Viac netancovala, lebo ju „hlava bolela“.
+    </tei:p>
+    <tei:milestone rend="star" unit="subchapter"/>
+    <tei:p>
+     šepla nazad a zdvihla sčervene-
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     Veselo viezla sa spoločnosť do hôr. Okrem Dedinských sedel v koči ešte
+pán Tobiáš Žila. Popri koči na svojom ohnivom sivkovi jazdil Vlado.
+„To by bol skoro rovný pár s vaším Alazánom,“ riekol pán Dedinský
+zbaku a šibol ľaváka.
+Kôň bol skutočne pekne urastený a ohnivý ani hrom!
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Je pekný!“ povedal Vlado. „Ak dovolíte, sprobujem ich vonku. Ala-
+zán vie aj voziť!“
+„Prečo nie!“ odpovedal Dedinský.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     Asi o hodinu doražili na miesto. Najprv podujala sa prechádzka do
+hôr. Cestou zbieral pán Tobiáš kvety pre Annu a Vlado hľadal echo. Jeho
+neobyčajne silný hlas rozlial sa celou horou a tratil sa v diaľke, akoby bol
+spod zeme hučal. Vlado bol dnes náramne galantný k pani Dedinskej,
+takže táto už asi piaty raz ľutovala, že už zajtra odcestuje.
+    </tei:p>
+    <tei:p>
+     Keď dámy ustal, vrátila sa spoločnosť nazad. Potom dali sa do jedenia
+a všetci svedčili - alebo namyslel si — že v prírode jedlá lepšie chutia. Je
+pravda, že zo zásoby nezostalo ni, iba víno. Do toho však dali sa starí páni.
+    </tei:p>
+    <tei:p>
+     „Ak dovolíte, teda idem probovať Cigáňa s Alazánom, riekol Vlado
+k Dedinskému.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     „Nech sa len páči
+    </tei:p>
+    <tei:p>
+     Sluha zapriahol kone. Vlado pozorne obzeral opraty, či sú dosť silné.
+Keď položil nohu na stúpadlo, preriekol: „Nepôjde nik so mnou? Idem
+len do toho buka a nazad.“ Ukázal na strom, vzdialený asi dvesto kro-
+kov. Nik nehlásil sa. Anna stála vedľa Alazána. Vladovi triasol sa hlas,
+keď pýtal sa jej:
+    </tei:p>
+    <tei:p>
+     „Nebáli by ste sa vy, slečna?“
+    </tei:p>
+    <tei:p>
+     „Pravdaže nie!
+    </tei:p>
+    <tei:p>
+     „Nuž prosím!“
+    </tei:p>
+    <tei:p>
+     Anna pružne vstúpila na zadné sedisko, nečakajúc, či matka dovo-
+lí, alebo nie. Vlado pustil kone. Šli silným klusom. Vlado švihol bičom
+v povetrí, Alazán zaprel sa, Cigáň tiež spínal sa a v druhom okamihu
+schytil koč ako páper. Nebolo ľudskej sily, ktorá by ich zastavila u ozna-
+čeného buka. A Vlado ani nemienil ich zastaviť, lebo zdvihol bič a šibol
+raz Alazána, Cigáňa dvakrát. Kone zarehtali a ako divé vliekli koč vo-
+pred. To nedá sa prirovnať len k orkánu. Anne hučalo v hlave, povetrie
+hvižďalo jej v ušiach, no len pritisla pery a mlčala. Ona nebola by dala
+znak bojazlivosti ani za svet! Vlado ešte jeden raz šíbol zbesnene a vte-
+dy, v tom najtuhšom behu, preložil nohy z baku do koča. Anna úžasne
+vykríkla, chcela skočiť z koča, no on už držal ju za pravicu. Vtom ale
+vypadli mu opraty z rúk. Kone, cítiac voľnosť, leteli vopred — no Vlado
+nedbal o to! On schytil obe ruky Annine a vrelo bozkával ich. Slzy tiekli
+jej zočú. Vlado prišiel k sebe. Hľadal opraty, tie ale tiahli sa za koňmi po
+zemi. Situácia bola hrozná. Cesta z jednej strany široká, z druhej strany
+svah. Len kus nech odhodia sa kone naľavý bok, tak nik nezachráni ich.
+Akoale i nešmykne sa koč, i tak sú stratení, ak kone nezastanú po koniec
+vrchu, lebo dolu vrchom a tým behom zlámu sa i kone, i koč, iľudi
+    </tei:p>
+    <tei:p>
+     Vlado ešte raz stisol ruky Annine, potom vyskoči z koča... Ar
+videla viac nič. Keď precitla na silný otras, vtedy kone už kľačali na no-
+hách. Vlado ležal vedľa nich a držal opraty v rukách.
+    </tei:p>
+    <tei:p>
+     Anna vykríkla a vyskočiac z koča, bojazlivo blížila sa k ležiacemu.
+Vladovi.
+    </tei:p>
+    <tei:p>
+     „Vlado, Vlado!“ volala zúfale a zohla sa k nemu. Žila zdvíhol hlavu,
+prešiel rukou cez čelo a vstal.
+    </tei:p>
+    <tei:p>
+     „Omráčili ma!“ riekol k Anne.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     a ne
+     <tei:pb/>
+     Kone museli byť tiež omráčené, triasli sa na celom tele a krvavá pena
+tiekla im z pyskov. Teraz však odrazu zdvihli sa. Vlado tíšil ich, hladkal
+jedného i druhého. Pomaly utíšli sa.
+    </tei:p>
+    <tei:p>
+     Anna zdvihla opraty a zavesila ich na bak.
+    </tei:p>
+    <tei:p>
+     „Teraz užani nemôžem volať vás so sebou!“ riekol Vlado chripľavým
+hlasom. „Po prvé, pozrite, z rúk tečie mi krv, nemohol by zastaviť kone,
+a po druhé, viem, že nehodným som tej cti.“
+    </tei:p>
+    <tei:p>
+     Jeho prsia divo dvíhali sa a pery chveli sa od rozčúlenia. Anne leskli
+sa slzy vočiach,
+    </tei:p>
+    <tei:p>
+     „Povedzte mi, prečo ste to robili?“ riekla s bôľnou výčitkou.
+    </tei:p>
+    <tei:p>
+     „Prečo.. Prečo som chcelodísť z Lipnice? Prečo nemohol som trpieť,
+aby ste tancovali s inými? Prečo hučala mi hlava a prsia mali sa mi roz-
+puknúť v posledných dňoch? Lebo neznámy cit ovládol mnou, ktorý bol
+silnejší než ja, preto,lebo...
+    </tei:p>
+    <tei:p>
+     Nevedel ďalej hovoriť, pravicou ešte vždy držal kone a ľavé rameno
+vystrel naproti nej. Ona zapýrená pristúpila bližšie k nemu a chytila ho
+zaruku.
+    </tei:p>
+    <tei:p>
+     „le, je to — prav-da?“ pýtala sa trhane a dívala sa do jeho veľkých
+modrých oči
+    </tei:p>
+    <tei:p>
+     „Oh! Či pravda? Veďlen poz:
+    </tei:p>
+    <tei:p>
+     A on mal natoľko pekné oči, že ona verila mu. Pomaly klonila sa jej
+krásna hlávka na jeho silné prsia a zaplakala hlasne, takže zelená hora
+ozývala sa ej plačom — plačom radosti...
+    </tei:p>
+    <tei:p>
+     O dva mesiace boli svoji.
+    </tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+    <tei:p>
+     A pán Tobiáš..? Ten si špáral v zuboch i naďalej. Zo svojho majetku
+urobil fundáciu pre vzdelané dievčatá, ktoré vydajú sa za starých mlá-
+dencov. To bola jeho pomsta... Mesto Lipnicu ľahko možno nájsť na
+hociktorej zemepisnej mape, totiž ak by niekoho bližšie zaujímala fun-
+dácia!
+     <tei:pb/>
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

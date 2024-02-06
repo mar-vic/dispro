@@ -1,0 +1,1338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885690" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Ztratený pandúr : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:73407810">
+     Beblavý, Pavol (1847-1910)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     6142
+    </measure>
+    <tei:measure unit="pages">
+     14
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:73407810a">
+      "&gt;Beblavý, Pavol (1847-1910)
+     </tei:author>
+     <tei:title ref="ISSN:1335-7786">
+      Ztratený pandúr
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské pohľady
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Ztratený pandúr
+    </tei:head>
+    <tei:head>
+     Rozpráva P. Drahomír
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Slniečko vyšlo zpoza rozdal hráči Nebo bolo jasné a
+          $ valo krásny deň. A bolo by i žiadneno, aby bol pekným. Zpý-
+          tate sa, že prečo? Nuž poviem vám úprimne, že je to veľmi ne-
+          príjemná vec, keď je veľtrh a prší. Lebo keď. piší, je blato a keď
+          je blato, človek“ sa ľalko zamaže, už «či chce a či nechce. A na
+          jarmoky sobotišťské v poslední roky veľmi zhusta pršiavalo. Naj-
+          lepšie vedeli by o tom povedať arendgaf 1 títo si želali, aby bol
+          pekný deň lebo keď prší, te sobotišťské a veľmi blatnaté.
+          Nedáš-li pozor, hneď hujmeš nielen po či le aj povyše do
+          blata. Ale pri veľtrhu jaký pozor? Tu ťa ten, tu zas ten Strkne,
+          takže pri všetkej tvojej“ pozornosti, "ani sa nenazdáš len, až stojíš
+          po kolená v mláke.
+    </tei:p>
+    <tei:p>
+     Mnohí sa síce posmievajú Sobotišťanom, že tu len perníky,
+          praclíky, oblátky a pečienky dostane kúpiť, a prezývajú jich pracli-
+          kármi a, oblatkármi, rú zase Vrbovčanov opalkármi sh Častlssžitit
+          sykorkármi.
+    </tei:p>
+    <tei:p>
+     No neverte, žeby v Sobotišti len perníky na veľtrhu k dostaniu
+          boly. Dostaneš tu, čo len chceš: statok, kabáty, kožuchy, vozy,
+          pluhy, " hince, varechy, čipky: lopaty, trlice vyberané, rebriny,
+          opálky, a ktože by to všetko vyrátať vedel, čo na veľtrhu k dosta-
+          niu A k zakúpeniu je, len keď máš peniaze. Veľtrhy sobotišťské
+    </tei:p>
+    <tei:p>
+     nezaslúžia. teda tú hanu. Sú ony starého pôvodu. Kto neveríš, pi
+          čítaj si nasledujúcu listinu, ktorá o starobylosti . veľtrhov sobotišť-
+    </tei:p>
+    <tei:p>
+     „My rovskéj a Thardovskej Familie jednota jakžto Diediež-
+          ních Panuv Panny všeczkeho Panstva Braneckelo : kcz: „jednemu
+          každemu ajicze Naznamost  kdebi koľvek Potreby bilo a prislu-
+          šalo. Že Werny pa Mudry a Opatrny Mestečzka Sobotištia tak
+          reczeneho a v S Stoličzy Niťranskej pod Zamkem Brančz vi-
+          staveneho prebi zy Obivatele kteriž jistima od Svatich nekdy
+          Kraluv Krajiny Uherskej Slobodami, a naddanim obdarovaný w do-
+          volený bil. Jest pravda jejieh listi na toto predešlima czasmy
+          Burky a Wojen nešezaslive straczene se vynalezaju. My protož na
+          poniženu juž jmenovanich vernich Poddanich naších nam danu po-
+          niženu Supplicatiu jednomislne a Obeczne na to dovolicze tímto, a
+          všeckým jejich potomkom znovu davajieze dovolujeme tito Slohody S
+          Prvný totišto aby jednoho -každeho Roku davany Wina jmenova-
+          neho: Mestečzka Sobotištia na Osoh a Užitek jejich! Obeczný bila.
+          od Svateho Michala Archanjela počznoucze až do Noveho Roku n
+          bolišto Obrezany Krista Pana bez všelijakej prekažky, Druhé,
+          v každem jarmoku, ktery každo-Ročzne trykrat hivajieze. Totiši
+          na den Svaätelio Mateje Apoštola, zátim" na Nehe vzetý Panny Marie
+          czož vicze na Svateho Lukaša Evaujelisty niez jinaczej Prez try
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     S
+    </tei:p>
+    <tei:p>
+     - zväčša opustené. Jeho ,
+    </tei:p>
+    <tei:p>
+     dny aby bily od všetkich robot našich oslobodený a Slobodny, ne
+          jimakšim Spusobem Prostredkuieze“ Abi po cžasu tomto anebo Ta-
+          kovichto jarmaku naše každodenný Pracze,a Roboty vedle ustano-
+          veneho cžasu nam vykomawaly. a robit musely, na ežež my dava-
+          jicze, a potvrzujieze na Weežnost „tito li Rukamy vlast-
+          nima Podpisem a jednoho každeho M ) zeny, Obezy tejto,
+          i iv eňovaneho Mestecžka Sobotištia aPo-
+          im Offerovaly sme a daly. . Kterež,.
+          listy preežitajicze od. kterehož kolvek v jakém kolvek Stave nebo-
+          lišto Conditie takovete listy abi jim mavracene bily: tak «hceme.
+          Dano v Mestetžku | Sobotišty dne“ Prvniho -Mesieza Januárij
+          Roku 1614.
+          Joannes: Si
+          Taudovieus
+    </tei:p>
+    <tei:p>
+     Ť Meftheny.
+          s Tardy.
+          0. t: Jus. Notario
+    </tei:p>
+    <tei:p>
+     Hedervady: István. Georg
+          neiseus Nad Milalí. b)
+          Joanne Flostaeto:
+          ce 0+11a TREE +w “ loci.“ ni 41 Bu
+          „Neltrh v. Sobotišti. býval teda opraydovým sviatkom pre -pod-
+          daných, veď vtedy za tri dni boli svobodní, nik jich nesmel vyhnať
+          na panské. af w % alu 63
+          Od tých čias sa veľtrhy sobotistské o tri«rozmnožily, „avšak i
+          tie. staré ešte, voždy, sú „využitku: Sviatočný náter zachovaný ale
+    </tei:p>
+    <tei:p>
+     “ ez ducha po dnes.
+    </tei:p>
+    <tei:p>
+     + uburia
+          Bolo po na nebe vzatí, Panny Marie, alňa, 16: :augusta 188%.
+          Slniečko osvietilo už nielen utešené okolie Poulbranča, ale i vršky
+          okolia, sobotišského, « Ucliánek, Vápenky, | Kozikrepec, Havran, Ma-
+          cejov, v jeho zajasaly sa i starodávne panské kaštiele Hore-
+          ckých, Vietorisov, Broďauyho, Bránika, Le tého a „iné, teraz
+          ši i nok sobotišťský,
+          nkou, stál 0 zrub
+          ký, ľa nnšálek. Na hlave mal
+          ehožto vrch nebol. guľatý, ale useknutý,
+          a kdesi nosia. ,Vésta. jeho obťažená
+          ý dobrý vlasský orech striebornými gombami,
+          uhorské nohavice a čižmy tvorily ďalší.,oblek jeho. Kabáta dnes
+          nemal, Jebo, bolo teplo hneď z rána. Z košele nebolo vidno len ru-
+          kávy, a tie pvukazí v, že bola nová, pekná, biela. V rukách držal
+          čakan, ma ktor: obyčajne podvpieral. Postavy bol strednej &gt; tvár
+          mal, krátkymi fú: „ozdobenú. vek smlea dobrého, ale keď sa
+          rozzlobil, bol hrozným, neušetriac žiadneho. V dobrom ale rozmare
+          i si zažertoval.. Súdiac dla, výrazu £váve, je dnes dobre naladený.
+          Zdá. sa, že. pozoruje prichodiacich kupčov a predavačov, bo tvárou
+          obrátený je k xýnku, ktorý z mostu celý priehliadnuť mô:
+          Je síce ešte skoro, ale už teraz zavierať možno ná hlučný veľ-
+          trh, bo: jarmočníkov. čô chvíľa pribýva. Veď už aj pán y i
+          s. podslúžnym sú tu. A: paudúri. z celého okolia. ľa ozaj, k-čomiu
+          jich toľko? rozmýšľal i sám Šimšálek a s ním všetci, ktorí jieh #
+          videli. LB +.
+          "ľu. poklépal ktosi od chrbta nášho starého“ ponku. — bo bol
+          už asi šesťdesiatnik — po.pleci. To: ho vytrhlo z myšlienok.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     EE EO
+          HE TE AO
+    </tei:p>
+    <tei:p>
+     „Dobré ráno, pán brat,“ tá
+          „Pán Boh daj aj vám! — Ale vy ste už tu, páni brati
+          museli ste včasne vstať. Snáď ste si už nekde dačo ohliadli?“
+          „Ach! horkýže, ale by sme nedbali, keby sme už mali niečo
+          kúpené: bo ináme" doma náhlu robotu.“ “
+          „No nevídali: "do Senice ľahko prijdete, aj ešte dosť kúpite.
+          "Snáď by som vám vedeľ i niečo poradiť, keď vám tak na pilno. A
+          "/čôrže by ste takto chceli?“ x
+          „Nejaké dobré prasiatka na pečenky:“ te)
+          „Keď dáte dobrý oldomáš, poradím vám. "Veru prasiatka na
+          večetky bárs jak si hneď by sa mohly zabiť. A to nie jedno,
+          z ale len keď dáte dobrý ollomáš.“
+          „Bez oldomášu jich iste nevyjetnúme, ani nekúpime, to sa
+          rozumie, že táme.“
+          „Dobre, dobre, páni bratia! Vy hráte na múdrych, keď“ 51. po-
+          — a keď kúpite, dáte, a keď sa nepojed..áte a nekúpite, |
+          ale chcem hneď. Vy by ste-mohli olďontáš aj bezo mňa
+    </tei:p>
+    <tei:p>
+     No
+    </tei:p>
+    <tei:p>
+     " vypiť.“
+          „No to! veď len nepôjdeme k druhému, jako k vám? zazná- — |
+          vate nás, pán brat.“
+          „Nie, nie, pán. brat! Ja sa vždycky držím toho slovenského
+          porekadla, že: „lepšie niečo z rána, jako na večer nič,“ alebo
+          ini „lepší vrabec v hrsti, jako zajác v chrasti.“ Ostatne, však
+          (ja vás nenútim &gt; dáte, dobre: nedáte, tiež dobre.“ |
+          „Ale, čože by sme nedali? poďme teda k vám: veď aj nám |
+          treba, aby sme si zaraňajkovali.“ |
+          „Nech sa Túbi teda, páni bratia! rečie vážne pán Šimšálek a |
+          vedie“ pánov bratov do hostinca, ktorý bol jeho majeťkom ešte i |
+          s druhým domom, neďaleko mosta. )
+          O pánu Šimšálkovi sme ešte zapomenuli podlotknúť, e podľa
+          povolania bol mäsiarom a shovárajúci sa s ním na moste
+          tiež k tomu povolaniu a pochádzali zo Senice. Menovali j |
+          meček a Ondráš. |
+          Sotva že tamtí odišli, zaujali jích miesto na moste iní. Bola )
+          to zväčša svobodná clasa z okolitých osád i z mestečka, všetci
+          sviatočne vystrojení. Každého si po rúchu poznať mohol, či je
+          z mestečka, či z kopaníc, či z Podbranča, Rovenska alebo Čast-
+          s kova. Najturtáckejšie z nich vyzerali“ Rovenšťani a Častkovani. Už
+          tie jejich pávové, vysoké perá, alebo biele Kohútie kosierky za ma-
+          ostuškovanými a rozlične ozdobenými klobúčikmi poukazujú,
+          že jích majitelia si o sebe čosi myslia. Ku peknému klobúku však
+          musí byť i pekná, hodbábom vyšívaná, tenká biela košielka, so ši- ti
+          rokými rukávami. Na maličkom lajblíku tiež hodbábne štepovanie
+          ä cifry v predu i na chrbte. Pod krkom i dolu je zapiaty. Pod |
+          krkom opála sa jim celý rad ciftovaných košelových šnorek a dolu |
+          červená stužka pri veste. Vo vretku vesty veľký biely ručník, kto- |
+          rým sa pri £anci utierajú. Bez cigary v ústach málo ktorého vidíš.
+          A čoby ho hneď hlava za. dva dni bolela: ma veľtrh a na nedeľu )
+          cigara musí byť. To patrí k terajšiemu bontonu. Čím kto viacej
+          fajčí, tým lepší vlastenec, lebo tým napomáha krajinu. Preto tým,
+          ktorí v krajine nefajčia, mali by väčšiu daň naložiť, aby sa s faj-
+          36
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     čiarmi vyrovnali a rovnako prispiev: li, alebo fajčiarom o to, čo
+          prefajčia,, by menšiu daň naložiť maji.
+    </tei:p>
+    <tei:p>
+     Neviem, ale sa mi zdá, že naši chasníci o niečom takom ho-
+          vorili. Snáď jim zavdali k tomu príležitosť finančníci, ktorí práve
+          okolo nich preš i ale o tom, či o inšom hovorili, bolo to len
+          preto, aby hovorili. Odrazu však hovorenie jejich vzalo inší smer.
+    </tei:p>
+    <tei:p>
+     „Jane! štuchne loktom Martin Žáček popri ňom stojaceho Jana
+          Z Dolinského : ale ju vi .
+    </tei:p>
+    <tei:p>
+     „Koho? né pýta sa štuchnutý a podíva sa skorej na miesto, kam
+          ho bol Martin súril, či mu naozaj rebro nevystavil.
+    </tei:p>
+    <tei:p>
+     „Koho?“ hovorí posmešne Martin, jákoby nevedel.“
+    </tei:p>
+    <tei:p>
+     „Hej, ale ti je len pekná, ledačina!“ e Jožko Kolár,
+    </tei:p>
+    <tei:p>
+     „ Veru je, kamarát,“ prisvedčí Jurko
+    </tei:p>
+    <tei:p>
+     &gt; Jako väčšina Dolinariek,“ rečie iný.
+    </tei:p>
+    <tei:p>
+     „Kráča, jako na strunách.
+    </tei:p>
+    <tei:p>
+     „A zvrtá sa, jako osa.“
+    </tei:p>
+    <tei:p>
+     &gt; Obzvlášte tie jej oči, pravda, Jane?“
+    </tei:p>
+    <tei:p>
+     &gt;Tie už nejednoho popichaly:“ povie
+          i teba bodnuly. Pozriže sa len na toho pandúra hen. j
+          ňou točí.“ P
+    </tei:p>
+    <tei:p>
+     „Padla mu do oč rečie Martin.
+    </tei:p>
+    <tei:p>
+     „Ja som počul, tam. chodí.“
+    </tei:p>
+    <tei:p>
+     „Jaj, tam jich mnoho chodí!“
+    </tei:p>
+    <tei:p>
+     Šak že už má mať ohlášku s jakýmsi Myjavcom.“
+    </tei:p>
+    <tei:p>
+     &gt; vláči. sa jich tám. mnoho, nielen z Myjavy, ale i z Bukovea,
+          z Prftiže, a čo ja viem, odkial,“
+    </tei:p>
+    <tei:p>
+     „Načo si to dovolíte? Však keď sa Havlík ženil a bral si
+          Z Bukovca, Bukovčania vás škarede nadelili, keď vám Kaščáka
+          skoro zabili.“
+    </tei:p>
+    <tei:p>
+     „My sme pridobrí. Vy Ttovenšťania by ste to pravda netrpeli.
+          vy aj tých prepúšťate, ktorých by ste nemali.“ y
+    </tei:p>
+    <tei:p>
+     „Neviem, koho?“
+    </tei:p>
+    <tei:p>
+     &gt; Nuž a Mičovi ste neprebili, hlavu?“
+    </tei:p>
+    <tei:p>
+     „To sa omylom stalo. Tí, čo to urobili, nevedeli, že si Miča
+          prišiel pre svoju. ženu, ale mysleli, že to je niekto na vohľadoch
+          u švagrinej j
+    </tei:p>
+    <tei:p>
+     Y tom priblíž
+          mládencom.
+    </tei:p>
+    <tei:p>
+     „Neutekaj tak, Ivistino!“ osloví ju Martin.
+    </tei:p>
+    <tei:p>
+     „Pán Boli daj aj vám!“ rečie oslovená.
+    </tei:p>
+    <tei:p>
+     Zj tebe, čo nemáš:“ odpovedajú so smiechom mládenci.
+    </tei:p>
+    <tei:p>
+     „Veru ste pekní mládenci, keď ani dobr deň neviete «lať!“
+          7To je tvoja povinnosť, keď ideš okolo nás.
+    </tei:p>
+    <tei:p>
+     JA väša pov mat postávať.“
+    </tei:p>
+    <tei:p>
+     ľa sa Dolinárka, 0 ktorej reč bola, až ku samým
+    </tei:p>
+    <tei:p>
+     „A čo predávate?“
+    </tei:p>
+    <tei:p>
+     „Sami seba: kup ši dajednoho.“
+          7No veru pekná parteka !“
+          „Nielen pekná, ale i úžitočná.“
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     „
+          „Len. si ka a la uvidí
+          &gt;K ipiť jako kúpiť — ale potom: predať,
+          tie nemám peňazí.“
+          „Sveríme ti, len si vyber.“
+          &gt; Nepotrebujem.“
+          „Skoda.“
+          „5 ľánom Bohom!“
+          „Nože počkaj —“
+          „Na času.“
+    </tei:p>
+    <tei:p>
+     Na nešťastie alebo
+    </tei:p>
+    <tei:p>
+     Ľekne veru! čo by ste sa vy mne
+          mali
+          „Keď hýb — pýtame my.“
+    </tei:p>
+    <tei:p>
+     „Preukážte sa najprv vy!“
+    </tei:p>
+    <tei:p>
+     &gt; Veď by sme my to aj urobili, keby sme ti vhod boli. S tým
+          pandúrom hen si ináčej hovorila, nám len tak odfrkuješ.“
+    </tei:p>
+    <tei:p>
+     „Musíte i vy takými byť, jako on.“
+    </tei:p>
+    <tei:p>
+     „No môžeš mu povedať, jestli nechce, aby ho v plachte od-
+          niesli, nech sa na Dolinu neukazuje.“
+    </tei:p>
+    <tei:p>
+     „Malý strach! Kto sa mnoho strojí, mnoho nevykoná.“
+    </tei:p>
+    <tei:p>
+     „No však uvidíš, čo sa s ním stane!“
+    </tei:p>
+    <tei:p>
+     Na výhružku Jána Dolinského. Kristina sa usmiala, on ale zaťal
+          zuby a začervenený v tvári hrozivým pohľadom sprevádzal odcho-
+          diacu devu, ktorá z jeho výhružok ničoho si nerobila. Smiech ka-
+          marátov ho ešte väčšmi k hmevu popúdil.. Nemajúc však 1a kom,
+          vyvršil sa na cigare, ktorú vyjmúc z úst, celú pomrvil a praštiac
+          ňou 0 zem, po nej šlapal. a
+    </tei:p>
+    <tei:p>
+     „Ej, Jane! keby tá cigara bol ten Garabáš:“ povie Martin.“
+    </tei:p>
+    <tei:p>
+     &gt;Ba ten Garabáš, jako tá cigara, čo chvíľa by s ním poriadok
+          urobil fa
+    </tei:p>
+    <tei:p>
+     „No však uvidíte,“ rečie namrzený Ján a odíde z nevoľnený
+          do trhoviska. Za. ním rozišli sa i ostatní.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Za dubovým, do čierna prechodiacim stolom sedeli pri oldo-
+          máši mäsiari senickí: Sameček, Ondráš a domáci gazda Šimšálek.
+          Medzi rečou prišly do spomienky i staré osudy mestečka, keď tu
+          keď tu kedysi z celej stolice sa schádzali. Tu býval podžupan, slúž- |
+          noýci, komisári a všelijakí páni. — Kolko domov sa obrátilo už
+          v orumy!
+    </tei:p>
+    <tei:p>
+     „Ešte môj otec,“ hovoril pán Šimšálek, „pamätal sa dobre, čo
+          vr rýnkových domoch samí kresťania bývali.“ Dnes okrem Eisnerov-
+          ského domu sú už všetky v rukách židovských. My kresťania, hy-
+          nieme. Je to trest Boží na nás. Kedysi židáci z celého Sobotišťa.
+          platili 12 zlatých dane, aby tu trpení boli, a dnes ten najchudob-
+          nejší platí toľko. Mám to čierne na bielom.“ A tu siahnul do vre-
+          cka, vytiahol kľúčok a z dubovej, za stolom stojacej armarie vy-
+          tiahnul starý zažltlý papier, ktorý rozvinúc, na stole čítal:
+    </tei:p>
+    <tei:p>
+     „ľar Contractus communitatis Judaicae cum Commmitate opp.
+          Szobotist initi.
+    </tei:p>
+    <tei:p>
+     36%
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     ň W níže podepsanj zn: mo činjme, že hitov Sobotiskau stra:
+          ny Židá z Hodonjna a od iš
+          lych pokonali sme sa o Portiu Kralovskau, že každor
+          rovi Sobotiskemu ot tych Židuv prjštjeh odevzdame #1. 12 a to bez
+          všeckej je, yce jednu polovicu na S. Jura, druhú pak
+          na 8. Michala odevzdame. Čo jestli by sme nevykonali, teda takové
+          penjze skrz Kxe ui, od našeho rychtara židovského vždycky bude
+          mét slobodu v h ú A let, (al est učinčny, že treba
+          ednakem stavé “
+          zostavat bude. Na co sa podpisujeme. Szobotisty 19. Xbris 1776.
+          Joseph Wolf, rychtar. Joseph Lebl. Jakub Wolf. Simon Herss
+    </tei:p>
+    <tei:p>
+     My Uradé tež na tento Contract. do dalšeho stoličného z
+          pristavame. Aet ut Supra.
+    </tei:p>
+    <tei:p>
+     Rychtar Johannes Vitek. Burgmister Johannes Polevka.
+          Joram me Martino Horvath, J. Cottus Nittr. Jurassore m. p.“
+    </tei:p>
+    <tei:p>
+     „ľu mám zase „Regi: od Grubej povodne v Sobotišty Ľo-
+          znamenenich Richtarú, který jest s kterej stranky Roku panie 1672.
+          Tento je ešte starší.
+    </tei:p>
+    <tei:p>
+     Povod to bola okolo Medarda. Vrbovčanka sa tak rozvod-
+          nila, že i do kostola a fary voda vniknu arára utekajúceho
+          z fary pred vodou h: retovali kyrisrajtare, ináčej, niet
+          týchto, bol by sa utopil. Voda mnohé domy poválala a 99 ľudí sa
+          utopilo.
+    </tei:p>
+    <tei:p>
+     Ďalšie hovorenie o povodní pretrhol mladý Brunčko, ktorý vstu-
+          piac do chyže, najprv poslúchal, potom ale, keď Šimšálek chcel
+          mená niektorý: htái 0 a hovoriac, že to máloktorá obec
+          sa môže pochlúbiť, al h predstavených, zamie-
+          šajúc sa do reči, povii
+    </tei:p>
+    <tei:p>
+     „ľán tatík, keď dáte tri hollby vína. všetkých tých riehtárov
+          vám poviem. aj bez písma nazpiumäť.“
+    </tei:p>
+    <tei:p>
+     ) le štyri.“
+    </tei:p>
+    <tei:p>
+     „No aj my vám dáme toľko,“ hovoria Sameček a Ondráš.“
+    </tei:p>
+    <tei:p>
+     Brunčko mlaskmil ústami, ani čoby dlaňami bol plasnul:
+          skočil, až skoro hlavou podlahu prebil, a dopadnúc na zem,
+          chyža sa striasla pod ním. Bol to z
+          istý a výraz radosti, že dnes k | A
+    </tei:p>
+    <tei:p>
+     „ľán strýček! dovoľte ale, aby som si mohol trocha hrdlo
+          ovlažiť. bo tých mien je mnoho, veľmi by mi vysehnulo.“
+    </tei:p>
+    <tei:p>
+     „No napi že sa!“
+    </tei:p>
+    <tei:p>
+     Brunčko vzal pohár, obrátil hore dnom a tuto: zmiznulo v gá-
+          gore, ani čoby sa tam bolo prepadnulo, jako ten prameň vody na
+          Dobrej vode. Potom si ale zastal, a položiac ruky na kríž, začne
+          remzať, že pán Šimšálek nestačil za ním: čítal mena sobotišťských
+          richtárov „ 1672—1759. Bolo jich 116.
+    </tei:p>
+    <tei:p>
+     Oni áť «hceli vsta odísť, bolo jim to
+          tiež prizdlhavé, bárs i z počiatku pozorne n li, či ozaj Bruučko
+          svojej úlohe za dosť urobí. Teraz ale už sa náhlili len čím skorej
+          do trhu Jebo domov, vy: ajúc pana brata, aby jim dané slovo
+          zaulržal,
+    </tei:p>
+    <tei:p>
+     „No keď tak ponáhlate a nechcete sa pribaviť, poviem vám,
+          Že hore na Čupe Sládeček má pekných päť prasiatok, na pečienky
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     č J
+          jako súcich, lebo jich zrnom chová.“ Jestli sa vám zaľúbia,
+          &gt; sa pojednať. Myslím, že vám z nich dve-tri prepustí. Ňo a
+          za oldomáš pekne ďakujem.
+    </tei:p>
+    <tei:p>
+     „Aj ja ďakujem!“ usmieval sa Brunčko, ale nie na odchádza-
+          júcich, ale na fľašky vína, ktoré pred ním stály.
+    </tei:p>
+    <tei:p>
+     „Iado sa stalo!“ hovoril Sameček a dajúc s Pánom Bohom,
+          odišiel i s Andrášom na Čup ku zakúpeniu prasiatok.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Za terajším katolíckym kostolom, ktorý bol vystavený (2
+          horlivým evanjelickým pánom, Ľudovítom Nyárym, jako to nápis nasl
+          vehodom až podnes svedčí, a ktorý evanjelici až do roku 1697 pri
+          ji ách Božích užívali: nachodí sa vršok Čup. Gelý vršok
+          stavaný bol malými domkami, ktoré sa tu pekne, jako ne-
+          Ň Z domčekov: týchto prehliadnuť mohol celé
+          mestečko. Mnohé z nich sú už poválané. .
+    </tei:p>
+    <tei:p>
+     "Tu na Čupe ni tohoddil sa dom“ i pána majstra Sládečka.
+    </tei:p>
+    <tei:p>
+     ľán ček sedel na svojom verpánku, sohnutý ku
+          cifroval, aby-boly úhľadnejšie, a poneváč
+          sa s nimi k jarmoku ponáhľal, teda i odbytnejšie. Kto by ho bol
+          i by bol uhádnul, že mu je na pochytre, bo jarmok: sa
+          lajster Sládeček však nemal strachu, že svoju hoto-
+          Za jedno, nemal toho tak mnoho a za druhé,
+          je nielen dobre platená, ale i hľadaná. Preto málo
+          kedy sa tratilo, aby on svoju prácu domov bol priniesol a na jar-
+          moku nepredal. 2
+          ale teraz náhlil, príčina bola iste len tá, aby neskoro
+          lebo „kto neskoro chodí, sám sebe škodí.“
+    </tei:p>
+    <tei:p>
+     Do vilnej práce docela pohrúžený, ani nepozoroval, že ktosi
+          na dvere už po druhý raz klopal, lebo i by iste sa ozval a
+          bol povedal svoje „voľno!“ alebo „herein!“ „Szabad!“ to ešte ne-
+          znal, lebo bol slovenským ševcomi 3
+    </tei:p>
+    <tei:p>
+     Po druhom klopáni, bárs sa nikto neozval, dvere sa otvo-
+          nich otvorila, rvená, okrúhlá tvár, kukajúc zvedavo do
+          to kto dnuka. Však nebolo dosť na jednej, nkázala sa i
+          druhá, hovoriac :
+    </tei:p>
+    <tei:p>
+     „Doma ste ešte, pán majster?“
+    </tei:p>
+    <tei:p>
+     „Doma, doma — ale už už som hotový, už idem zaraz,“
+          hovoril sekano pán majster. Teraz už dvere sa roztvorily dokoran
+          alnu do izby vnišli dva mužskí. Bolito naši známi Sameček a Andráš.
+    </tei:p>
+    <tei:p>
+     „No, Pán Boh vám daj dobrý deň!“
+    </tei:p>
+    <tei:p>
+     »„ľán Boh daj! Pán Boh daj!“ hovorí chytro Sládeček, ale
+          preto“ nevstal zo svojej trojnožky, ale jako čoby sa ešte väčšmi po-
+          O sotva že mu rozmmneť možno, víta príchozích a núka aby si
+          stlnuli,
+    </tei:p>
+    <tei:p>
+     „Nemáme času, pán majster, prišli sme len na okamženie a
+    </tei:p>
+    <tei:p>
+     vy, jako: vidíme, tiež sa ponáhľate.“
+          „Tak je, tak! ad animam, tak je, tak! dobre vidíte.“
+          „Povedali nám, že máte pekné prasiatka, súce už na peči
+          „Mám, ad animam, mám: ktorékoľvek z nich ujo
+          pečienku.“
+    </tei:p>
+    <tei:p>
+     onky.“
+          byť na
+    </tei:p>
+    <tei:p>
+     Na
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Ti
+    </tei:p>
+    <tei:p>
+     u mlynára by lepšie neboly
+    </tei:p>
+    <tei:p>
+     „A sú na predaj?“ 4
+    </tei:p>
+    <tei:p>
+     - „Sú, sú. Keď dobre zaplatíte.“
+    </tei:p>
+    <tei:p>
+     „Jestli sú pre nás súce, rádi,“ %
+    </tei:p>
+    <tei:p>
+     „ľré kohokoľvek, pánovia. Žerú samé zrno. Ad animau, ani
+    </tei:p>
+    <tei:p>
+     „Mohli by ste nám jich ukázať?“
+    </tei:p>
+    <tei:p>
+     „Hneď, pánovia, nech si len tú botu dohotovím. No tak už je.
+            Chvála Bohu! Bude už svrchovaný čas i do jarmoku sa podívať.“
+    </tei:p>
+    <tei:p>
+     „Veru už, pán majster. Len nám teda ukážte tie prasiatka.“
+    </tei:p>
+    <tei:p>
+     Majster Sládeček ešte len teraz vstal hore zo svojej trojnohy,
+            sosňal s nosa veliké, v žltom drôte zarobené okuliare, položil si
+            jich na čelo a hľadel na dotazujúcieh sa kupcov.
+    </tei:p>
+    <tei:p>
+     „Teda opravdu jich chcete kúpiť?“
+    </tei:p>
+    <tei:p>
+     „Ináč by sme neboli u vás: len nám jich poďte ukázať.“
+    </tei:p>
+    <tei:p>
+     „Dobre teda, stane sa! Pspspspsps!“ Pán majster začal pset-
+            kať a tu, jakoby na ki vyšlo zpod postele päť krásnych,
+            jedno od druhého kr ch prasiec.
+    </tei:p>
+    <tei:p>
+     „No, nech sa ľúbi vybrať, pánovia , pekné sú všetky.“
+    </tei:p>
+    <tei:p>
+     Sameček a Ondráš pozreli na seba, bo oni to boli. V pohľade
+            tom viac povedano bolo, jakoby“ sme to my na papiery znázorniť
+            mohli. Ešte len teraz jim svitnulo v hlave, prečo kamarát Šimšálek
+            žiadal od nich popredku oldomáš. Ani sami neznali, či sa hnevať
+            a. či smiať majú. Stáli tu jako obarení.
+    </tei:p>
+    <tei:p>
+     „No čo, pánovia, snáď sa vám neľúbia? Ad animam, druhých
+            krajov prasiatok v celom Sobotišti nenájdete.“
+    </tei:p>
+    <tei:p>
+     „Veríme, pán majster,“ povie Sameček, „ale pre nás sú pri
+            maličké.“
+    </tei:p>
+    <tei:p>
+     „Jako sa ľúbi, jako sa ľúbi: kúpiť a predať nie je nútená vec.“
+    </tei:p>
+    <tei:p>
+     „Tak je, pán majster. No nemajte nám za zlé.“
+    </tei:p>
+    <tei:p>
+     „Ad animam, ani zďaleka, ani zďaleka. S Pánom Bohom, s Pá-
+            nom. Bohom! Veď i ja sa musím ponáhlať,“
+    </tei:p>
+    <tei:p>
+     Sameček a Ondráš ani sami nevedeli, jak sa vonku octnuli.
+            Keď už boli na dvore, teprv jim prišlo na um, že zapomenuli s Bo-
+            hom povedať. No ale už sa vrátiť nechceli.
+    </tei:p>
+    <tei:p>
+     Za odchádzajúcimi v pätách poberal sa i pán mejster Sládeček
+            do jarmoku. Pry ale, kým by bol vyšiel z domu, nezapomenul na
+            svoje prasiatka, ktoré bol zpod postele vyvolal a ktoré po prostred
+            chyže behali: usypal jim zrna, sviazal svoj tovar do plachetky, na
+            vrch. pretiahol palicu, prehodil na plece, zamknul dom a pošiel.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Veľtrh bol v úplnom prúde. Predávalo, kupovalo sa to až milá
+          vec, Plieskanie rúk jednajúcieh sa, len sa tak ozývalo zo všetkých
+          strán. Tovar majstra Sládečka bol minutý čo chvíľa. I Sameček a
+          Ondráš už kúpili, ale na oldomáš k Šimšálkovcom nechceli viacej
+    </tei:p>
+    <tei:p>
+     „ fsť. Preto však ani hostinec Šimšálkov, ani Kutálkov, ani žiadon
+    </tei:p>
+    <tei:p>
+     nebol prázdny. Keď iní vychvalovali Kutálka, aj nad habanskú klu-
+          čiareň, majster Sládeček nechcel inam ísť, jako k Šimšálkovi, lebo
+          to mu bolo najbližšie. Ej, ale keby bol vedel, že to bol Šimšálek,
+          čo k nemu ráno kupcov poslal: ad animam, bol by mu posvietil,
+          aj povedal, že by mu to do živého bolo išlo. " tt
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     - Tež a hošťinskí a kde. aký vinár k. mali dnes
+          odbyt: darilo sa dobre pernikárom. Títo skoro všetky
+          rozpredali. Pandúr Garabaš kúpil jedno. tých najväčších
+          Kristíne. Videl to i Ján Dolinský. A to ho aj zarmútilo, ale aj
+          rozpálilo, že by bol pandúra hneď v zubách rozsekal a pomrvil na
+          odrobinky, jako ráno tú cigaru. Taký bol napálený, že sa mu už
+          ami k muzike nechcelo. A. dobre, že tam nebol. Bo keď mu ho-
+    </tei:p>
+    <tei:p>
+     vyskočil.
+    </tei:p>
+    <tei:p>
+     Chudák Dolinský! nevedel už ani čo robí, — lá si žiadal,
+          aby čím skoršie bol v a bolo po jarmoku. Bo nikto sa nezdal
+          mať s ním poľutovania. A predsa, to slniečko, jako by sa bolo
+          chcelo nad ním smilovať, čím dial, tým sa klonilo ku západu.
+          Na obzore počínaly sa dvíhať oblaky. ako čoby sa k búrke bolo
+          chystalo. Niekt: rmočníkov počali svoj tovar skladať, šiatre
+          rozberať, ujúc sa. k odchodu. a
+    </tei:p>
+    <tei:p>
+     o sa začalo | pomrákať, basa a klarinet na Červenom dome
+          nezdaly sa toho si všímať. Ihrajúci v kole ani zďaleka nemysleli na
+          rozejitie, bo čím ďalej tým viac boli rozohnenejší. Po teraz trpeli
+          i mladších medzi sebou, bárs kedy tedy nejednomu sa ušiel hodný
+          lepanec práve vtedy, keď sa toho najmenej nadál, alebo ani sa ne-
+          nazdál: už mu bol klobúk von oknom. Medzi najd tieravejších pa-
+          tril pasák, Samo Blanár. lllava mu už bola dotlčená, jako planá
+          hruška: klobúk mnohokrát von oknom vyhodený, ale nič nespomo-
+          hlo, on sa chcel mrviť medzi ostatnými. Zase mu ho von vyhodili.
+          Vonku stoja a smiali. Samo vybelhmul von, zodvihol si širák, od-
+          behol kamsi, ale o chvíľu sa zase vrátil a zrovna do kola.
+    </tei:p>
+    <tei:p>
+     Pac! už mu ktosi vlepil pohlavok, No ale tentokrát zle po-
+          chodil, lebo sa prezradil: vykriknúc, takže i basu i klarinet pre-
+          kričal, krev sa mu len tak z ruky cedila.
+    </tei:p>
+    <tei:p>
+     „Aha! Sykorkár, ale som ťa dostal,“ posmieval sa“ mu Samo,
+          keď muzika prestala, nedbajúc ani na ťo, že i jemu z hlavy krev
+          vyviera.
+    </tei:p>
+    <tei:p>
+     Ale sotva, že vyj povedal to slovo „Sykorkár“, už zas dostal po
+          ústach: Tu máš, „Preclikár“.
+    </tei:p>
+    <tei:p>
+     „Kto je Preclikár?“
+    </tei:p>
+    <tei:p>
+     7Kto Sykorkár?“
+    </tei:p>
+    <tei:p>
+     Bolo počuť dnu i von. Jedni na jednu, dr uhí na druhú stránu
+          sa sriaďovali. Už neboli jako pri ihre v kole pomiešaní. V jednom
+          okamžení stáli Sobotišťania na Jednej a Častkovania, na druhej strane.
+          jako kohúti proti sebe. Ba už sa i za prsia začali potriasať.
+    </tei:p>
+    <tei:p>
+     „No udri ma!“
+    </tei:p>
+    <tei:p>
+     2No uúdri ty, keď máš kuráž!“
+    </tei:p>
+    <tei:p>
+     "Ty Praclikár !“
+    </tei:p>
+    <tei:p>
+     „Ty Sykorkár!“
+    </tei:p>
+    <tei:p>
+     „Praclikári, nedajte sa, však ste doma. Sykorkári i, nebojte sa!“
+          poliučkávali okolostojaci hašteriacich sa. A tí už si boli vo vlasoch.
+          V tom však prišli pandúri, urobiac ďalšej ruvačke koniec.
+    </tei:p>
+    <tei:p>
+     Častkovania museli sa odobrať domov. Pandúri jich vyprovo-
+          dili až na častkovskú cestu. Pokojnejší on furtáci ale skoršie
+          boli v mestečku, jako sami pandúri.
+    </tei:p>
+    <tei:p>
+     vorili, že tam (iarabaš Kristínu na líco uštípnul, div že z b ne- -
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Z muziky už“
+          zakázali: hudci i „so. svojmi nástrojmi hudebnými museli opustiť
+          hospodu.
+    </tei:p>
+    <tei:p>
+     Na židov bolo zle. Prečo? Lebo že oni tomu boli na príči
+          že ďalej muzika nechcela hrať. Oni že naviedli richtára i pandúr
+          aby muziku rozohnali. .
+    </tei:p>
+    <tei:p>
+     Rozpásaná chasa počala hromžiť na židov a má pandúrov. Vy-
+          puknutý spor pri muzike bol zabudnutý: už boli zase spolu, jako —
+          čoby sa nebolo nič stalo a oni najlepší priatelia bývali. Keď jich
+          pandúri na jednom mieste rozohnali, sišli sa na druhom. Alebo
+          rozdelili sa na viacej trup. A keď na jednom konci hulákanie ustalo,
+    </tei:p>
+    <tei:p>
+     s začalo sa ihneď na druhom, takže pandúri si s nimi už ani rady
+          dať nevedeli. A to jim tým ťažšie padlo, keď i sami so sebou zdali
+    </tei:p>
+    <tei:p>
+     Ť sa nevládať, už od toho ustavičného chodenia a či toho posilňo-
+    </tei:p>
+    <tei:p>
+     Ť vania sa nápojami, ktorých sa jim v toľkej miere dnes za podiel
+          dostalo, jako nikdy preutým. K tomu ani na cigarách jim ne-
+          schodilo.
+    </tei:p>
+    <tei:p>
+     Naposledy musely byť hosti
+    </tei:p>
+    <tei:p>
+     ice i krámy pozatvárané, aby po-
+          riadok zavedený byť mohol. Baviaci sa či chceli a či nechceli, mu-
+          seli ísť domov. Medzi ubi mi sá domov vidime i majstra Slá-
+          dečka. ba i Brunčko šiel za ním, ktôrý svoj oldomáš bol už dávno
+          cez hrdlo prehnal.
+    </tei:p>
+    <tei:p>
+     Majstrovi Sládečkovi nijako to nešlo do hlavy, že musel sko-
+          roj, jako jemu sa lúbilo, hospodu opustiť. To sa mu a nestalo.
+          No ale už len šiel. Nie tak ale Brunčko.
+    </tei:p>
+    <tei:p>
+     Sotva že prišiel pred najbližší hostinec, už bol v ňom. Tu
+    </tei:p>
+    <tei:p>
+     J práve bola reč o pasákovi Blanárovi, ktorému pri muzike mládenci
+          Ň klobúk von okňom vyhodili a ktorý potom z pomsty odišiel a kúpil
+          : si špendlíkov. Tieto potom napchal do“ klobúka hore koncami a
+          i odišiel zase k muzike, miesiac sa pomedzi chasov. V tom mu vy-
+          lepil jeden z ihrajúcich pohlavok a všetky špendlíky vrazil si do
+          ruky, ktorú si celú rozkrvácal.
+    </tei:p>
+    <tei:p>
+     Brunčko Mači
+    </tei:p>
+    <tei:p>
+     V tom však sú ktosi z prátáných:
+    </tei:p>
+    <tei:p>
+     „Rád by som predsa vedel, prečo Častkovanov „Sykorkármi“
+          menujú?
+    </tei:p>
+    <tei:p>
+     Keď všetci mulč:
+    </tei:p>
+    <tei:p>
+     jalon nevedel, ozval sa Brunčko u povie:
+    </tei:p>
+    <tei:p>
+     | M " „Za dve lolby vína, ja vám to poviem.“
+          „Dostaneš jich,“ povie predošlý.
+          : „No dajte jich naliať.“
+    </tei:p>
+    <tei:p>
+     „Ešte si nič nepovedal.“
+    </tei:p>
+    <tei:p>
+     „Musím si napred hrdlo ovlažiť.“
+    </tei:p>
+    <tei:p>
+     „Ty ho máš tiež vždycky suché.“
+    </tei:p>
+    <tei:p>
+     » Veď už dávno nepršalo.“
+    </tei:p>
+    <tei:p>
+     „Ale nie u teba. Rozkáž si teda naliať.“ &gt;
+    </tei:p>
+    <tei:p>
+     „Rozkážem, ale vy zaplatíte.“
+    </tei:p>
+    <tei:p>
+     „Zaplatím, ale skorej, len jednu holbu.“ A
+    </tei:p>
+    <tei:p>
+     Brunčko roj l priniesť víno. Upil si z neho je! AŽ
+          vo flaške takmer nič nezostalo. Potom však začal hov:
+    </tei:p>
+    <tei:p>
+     „Naši susedia Častkovania. mali jednu horu. Táto hora však
+          im veľmi pustnala. Čosi jim ju kynožilo. Keď toho mnoho už bolo,
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     A ,
+    </tei:p>
+    <tei:p>
+     občanov do porady. Tu v porade vyšlo na vrch, že veru sykorka
+          je to, čo tú horu kvári.
+    </tei:p>
+    <tei:p>
+     Í radili sa teda ďalej, čo by mali robiť. Tu povstal jeden
+          2 prítomných a povie: Páni občania! My sme všetci sedliaci, nám
+          to nebude fažko našu horu ratovať, len keď to budeme chcieť uro-
+          biť. Preto by som radil, vyberme sa všetci, koľkokoľvek nás je, Po-
+          berme si sekery a obstúpme horu. A keď uvidíme tú mršinu na
+          niektorom strome, ten hneď i zotneme. Jestli ste teda spokojní
+          5. mojou náradou : nech pán richtár určí den, na ktorý by sme sa
+          pod pokutou všetci sišli.
+    </tei:p>
+    <tei:p>
+     Nárada bola jednomyseľne prijatá. Pán richtár učil deň. Ob-
+          čania sa sišli ú horu. Sotva že sa to stalo, zavolá jeden
+          Aha! či ju vidíš hen, jako si sedí na tej jedličke?“
+    </tei:p>
+    <tei:p>
+     Jedlička padla pod ostrými sekerami — ale sykorka sadla na
+          druhú, aj tá padla — i tretia i št A tak to išlo až do neko-
+    </tei:p>
+    <tei:p>
+     na. Sykorka hneď tu, hneď tam, hneď v prostriedku, hneď na
+          ji na stromy sedala, z ktorých každý bol bez milosrdenstva zoťatý.
+    </tei:p>
+    <tei:p>
+     Ešte rak stál (a jed a jediná jedla (Z „celej hory. A tu cele
+    </tei:p>
+    <tei:p>
+     s Spozoroval! ju ktosi na ňu se-
+          kerami. ET TE Sykorka, začiní
+          i ju vidíš, Jako letí?“
+    </tei:p>
+    <tei:p>
+     2Už nás nebude jed
+          „Ani našu horu kaz
+          Veru nie“ NÁ viru ktorýsi hlavou a doloží: „lebo už
+          Ä keď už celá hora le: vyťatá. pre sykorku, rozmý
+          richtár a s ním ostatní, jako horu ratovali.
+    </tei:p>
+    <tei:p>
+     04 kval ta ahy ste vedeli, menujú Častkovanov Sykorkárir
+    </tei:p>
+    <tei:p>
+     jednu holbu,“ rei ri Sotva však
+    </tei:p>
+    <tei:p>
+     i | rozkaz, aby
+          ý zavrel hospodu.
+    </tei:p>
+    <tei:p>
+     „Dobre, ale nebárs,“ dudral si Brunčko popod nos a obejmúc
+          fľašu oboma rukama, ani čoby mu ju dakto vziať elicel, rečie: „Ej,
+    </tei:p>
+    <tei:p>
+     Už sa obori
+          &gt; letela. preč.
+    </tei:p>
+    <tei:p>
+     ale vínko, teba tu zanechámť Nie... Pôjdem. Však nás to "en
+          židia vyhá Istócy éljen, žide ven!
+          »Brunčko, ticho! Choď v pokoji. domov, bo ináčej — —-“
+    </tei:p>
+    <tei:p>
+     Istócymu! Nech ho Pán Boh živí!“ a na dúšok vytrúbil celú fľašu
+          a jako ostatný poberal sa aj on von.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     Ta von bolo sa už dávno zmrklo. Zoblačilo sa. Tma sa šírila.
+          Z jarmočníkov už dávno niektorí spali: Len tu i tu ešte bolo vi-
+          dieť niektorých, ktorí sa domovy navracali, a pandúrov, ktorí ešte
+          vždy patrolirovali. I krik a shon mládeže, zdalo sa, jakoby už bol
+          v spánok sa ponoril.
+    </tei:p>
+    <tei:p>
+     Už ani Dolinského nebolo vidieť, ktorý ustavične vrel na pan-
+          dúrov, menovite na Garabáš
+    </tei:p>
+    <tei:p>
+     Tu zavreští ktosi: „Eljen! žide ven!“ Pre tmu ho nebolo vi-
+          dieť. Pandúri hnali sa za ním, vlastne len za hlasom. A.koho prvého
+    </tei:p>
+    <tei:p>
+     2
+    </tei:p>
+    <tei:p>
+     riehtár Haute aLjevalat REN dš: hájiť, svolal
+    </tei:p>
+    <tei:p>
+     „Bo ináčej mňa zavrete, pravda. Nebojte sa! Na zdravie pánu “
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     nili. Nastal
+          krik, lom. Pandúrov obkolesili, tak že sa pohnúť nemohli. A kým
+          jedni s pandúrmi sa liašterili, druhí začali židákom okná vyhíjať.
+    </tei:p>
+    <tei:p>
+     Z pekelného kriku, brinkotu: okióu ozvaly sa i strelné ravy, k tomu
+    </tei:p>
+    <tei:p>
+     ayste: i hromy Me“ počaly.v +7. +074 N
+          Táto surma vyvábi pokojných obyvateľov von. z domov a »
+    </tei:p>
+    <tei:p>
+     rýnok a ulice obživnulý, jako čoby sa počínal znova veľtrh.
+    </tei:p>
+    <tei:p>
+     Avšak. sotva: minulo štvrť hodiny a už všade. bolo ticho: uliče.. “
+          i rýnok bok prázdny, len hrmenie hromov rušilo nočniu tichosť a:
+          žiara bleskov krájalá hustú tmu. Nato spustil sa hustý dážď z obla-
+          kov, ktorý prinútil ešte i sámých hlásnikov a vartášov hľadať útulok
+          niekde pod strechou. “
+    </tei:p>
+    <tei:p>
+     Ešte i pandúri zmiznuli bez stopy, jako by jich tu nebolo bývalo.
+    </tei:p>
+    <tei:p>
+     Do rána však vedeli nielen v Seužci a pa celom okolí, ale
+          i v samej Pešti, čo sa v noci v Sobotišti porobilo: Všade, na celom
+          okolí hovorilo sa o povybíjaných židovských oblokoch, ani čoby si
+          celé okolie bolo na"nerožmyslenom žarte súčastnilo. Kto sa
+          pri vybíjaní súčastnil, nehovorili nikde. Zo skutku, tak sa zdalo,
+          že radujú sa vš Za následky však nechcel byť žiaden zotpo-
+          vedný. Rozkazovali všetci, cechu zaplatili Sobetišťania.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VI.
+    </tei:head>
+    <tei:p>
+     Sotva, svitnulo ráno, pá. slúžny už bol na dejišti, prezerajúc
+          povybíjané obloky. Na ústach jeho, jako tvrdili mnohí, ukrývalossa
+          pokojné usmiatie. Cele pokojne hľadil si svoje biele bajúziky. Len
+          keď sa Zpytoval po pandúroch a žiaden mu nevedel o nich pove-
+          dať: zahrešil a úsmev zmiznul z tváre. A či nemal i hrešiť, keď .
+          mu žalovali, že veru milých pandlúrov v noci bili, do potoka pohá-
+          dzali: kto zná, či i nepohynuli? .
+    </tei:p>
+    <tei:p>
+     Pán slúžny, obstúpený žalobníkmi, jako Pilát, keď mal. súdiť
+          Krista Pána, ani nevedel, ktorého zo žalujúcich židákov má skorej:
+          počúvať. Na šťastie však hľadaní pandúri dostavili sa. Boli vyká-
+          raní. No nebolo na tom dosť, pohrozeno jim ešte prísnejšou poku-
+          tou, že svojej povinnosti, čo strážcovia pokoja, neurobili zadosť.
+    </tei:p>
+    <tei:p>
+     Ale Garabáša nebolo medzi prišlými.
+    </tei:p>
+    <tei:p>
+     „Kde je?“ pýta sa slúžny ostatních.
+    </tei:p>
+    <tei:p>
+     Nevedel ani jeden. Židáci hovorili, že ho v noci zabili a ho-
+          dili do vody a voda že ho odniesla.
+    </tei:p>
+    <tei:p>
+     "Tu ozval sa po chvíli hlas bubna. Všetko sa hrmulo počúvať.
+          Čo nového? Mid o d
+          Hrúza! Keď bubnovanie prestalo, sám pán slúžny hovoril ku
+    </tei:p>
+    <tei:p>
+     shromaždeným : &gt; P
+          „Tejto noci ztratil sa jeden z paudúrov. Ktoby vedel o ňomr
+    </tei:p>
+    <tei:p>
+     niečo povedať: sto zlatých dostane čo odmenu.“ y
+          Zástup sa rozišiel, rozmýšľajúc: kdeby sa bol mohol, pandúr, -
+    </tei:p>
+    <tei:p>
+     podieť ? TR #
+    </tei:p>
+    <tei:p>
+     . Pandúri poskladali pušky a miesto nich ozbrojení ohreblami
+          a vidlami, vyšli hľadať svojho kamaráta. Probovali tu i tam, hore
+          i dolu, kde sa jim zdalo trochu hlbší potok: bo hlbokým nenie
+          nikde a dažďová voda dávno ubehnula: ale ztrateného kamaráta.
+          nebolo nikde. Všetko hľadanie a pátranie po ňom bolo bezvýsledné.
+    </tei:p>
+    <tei:p>
+     dohonili, toho zaujali. Zajatý sa S, kauiaráti ho brá
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     Už bolo okolo poľudnia. Ľvár pána slúžneho už sá
+          jako ráno: bola až veľmi prísna a celé chovanie rozdráždené.
+    </tei:p>
+    <tei:p>
+     Nastala inkvisícia. Bol šťastlivý lý kresťan, ktorý s:
+          čerňajším časom na ulici a ešte | tastlivejší ten, ktorý síce &gt;
+          i od nikoho videný nebol.
+          nýď nevinný: to bolo jedno vyšetrovateľovi, joštii žalobníci
+          Jeho meno: pandúri s nastoknutými bodákami museli od
+          vázu každého doviesť do obecného domu. Neplatilo “tu ani slovo
+          richtára, ani notára, ani úradského, ani nikoho: pán slúžny, ,o kto-.
+          rom sa predtým hovorilo, že je nepriateľom. židov, zrazu stal sú ne-
+          ženým jejich zástupcom. Prečo, odkiaľ tá zmena? domýšľal s
+          každý, báts/ aj pochopiť to neznal.
+    </tei:p>
+    <tei:p>
+     K večeru bol plný obecný dom i dvor, bo koho sem priviedli,
+          too nepustili viacej. Mali pandúri ešte tabotyr kým jich všetkých
+          „dvoch a dvoch spolu poviazali.
+    </tei:p>
+    <tei:p>
+     Pozor!“ velel strážamešter, keď už boli pandúri so sväzova-
+          v hotoví. Pandúri sa postavili do radov.
+          „Zbroj do rúk! Nabíjať!“
+    </tei:p>
+    <tei:p>
+     To všetko stalo sa pred očima zajatých, aby jim pán H8.
+          mešter väčšieho strachu nahnal a jim svoju vážnosť ukázal,
+    </tei:p>
+    <tei:p>
+     Zajatí boli na. to na vozy pousádzaní. Pandúrom veleno, aby
+          jich sprevádzali 1 každého, gu, by sa opovážil z voza prehnúť,
+          odrazu: zastrelili.
+    </tei:p>
+    <tei:p>
+     Sluječko už ene vúto! V zpred obecného domu pohuul sa
+          dlhý rad vozov k Senici, kam obžalovaných #prevodili. Na uliciach
+          sa /xozliehal plač a. nariekanie žien a detí. Zidovskí žalobníci sa
+          poukrývali, ani čoby sa boli hanbili sami za to, že to tak ďaleko.
+          prišlo a že mnohí z nich boli nevinní, jako to niektorí z nich
+          sami. sožnávali. Ľútosť však: jejich. snáď dotiaľ trvala, kým sa
+          čiastka pandúrov do mestečka zas prinavrátila.
+    </tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+    <tei:p>
+     Večierkom toho samého dňa zatáral sa Brunčko na Čup. Majster
+          Sládeček bol práve na dvore.  Zamyslený pozeral v tú stranu ku
+          Senici, ďakujúc v duchu Pánu Bohu, že bol ochránený pred hanbou.
+          Z myšlienok vytrhmul ho pozdrav Brunčkov.
+    </tei:p>
+    <tei:p>
+     „Dobrý večer, pán majster!“
+    </tei:p>
+    <tei:p>
+     „Pán Boh: daj aj tebe,“ poďakoval HU a bral sa "do
+          pitvora, ale Brančko šiel za ním. I zostal tedy stáť. Oba posadili
+          sa pod stenkou ra násypok a tu započal sa medzi nimi nasledu-
+          júci rozhovor:
+    </tei:p>
+    <tei:p>
+     „Ej, ale sa to len robilo dnes. u nás, pán majster.“
+    </tei:p>
+    <tei:p>
+     „Robilo veru, robilo: strach, hrúza, posmech, čoho sa človek
+          na sťaré dni nedožije.“
+    </tei:p>
+    <tei:p>
+     „No ale však to tých židákov muselo pekný groš stáť, že si
+          toho slúžneho tak po svojej stránke obrátili. A nemal dobrého
+          svetlomia, lebo keď sedel na tom vozíku, tak sa vám obzeral
+          z jednoho boka na druhý, jako čoby ho už niekto bol za krágeľ
+          dolu ťahal. Mali ste ho len vidieť.“
+    </tei:p>
+    <tei:p>
+     „Pán Boh je spravedlivý , on ho nájde, synak môj, jestli čo,
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     M a
+          0 tým pani úrom, kde
+          fa vY
+    </tei:p>
+    <tei:p>
+     | Veď je už ztratený. H
+    </tei:p>
+    <tei:p>
+     i - „Nenie veru. A ja bý som sa stavil, že keď sám neprišiel,
+          U. - miž bo dozajista najdú. Ja viem s istotou, kde je.“
+    </tei:p>
+    <tei:p>
+     „A prečo si to slúžnemu nepovedal? Mohol si dostať sto
+          zlatých.“
+    </tei:p>
+    <tei:p>
+     „Áno, alebo pútka na ruky. To bol len fígeľ. Ja mu nedám,
+          Ďolbu vína za celých jeho sto zlatých.“
+    </tei:p>
+    <tei:p>
+     &gt; „A si myslíš, kdeže sa teda nachodí?“
+    </tei:p>
+    <tei:p>
+     a . 33a nemyslím, ale viem, kde je s istotou. A keď chcete vedieť,
+          poviem vám, že nenie nikde inde jako na Doline.“
+    </tei:p>
+    <tei:p>
+     ry "a čoby sa kdesi robil až doteraz?“
+    </tei:p>
+    <tei:p>
+     M. „Čo robí? Spí dakde, bo bol jako čík napitý. Bol som toho jé
+    </tei:p>
+    <tei:p>
+     sám svedkom, keď kupoval jarmočné jednej Dolinárke, #0) slúhil,
+          že si večer prijde na Dolinu pre jarmočné.“
+          „Ad animam! to by bol špás, keby to pravda bola“
+          5 E „Mám jeden krk, ale aj ten postavím, že je tomu tak.“
+          „No však uvidíte, čo z toho vykvitne.“
+          „Nič dobrého pre nás.“
+          " „Ad animam! tak je, tak! Máš pravdu: čo deň, to je horšie.
+    </tei:p>
+    <tei:p>
+     v Cigáňstvo sa: zmáha, čo chvíľa statočný človek ani nébude môcť
+          žiť na svete. Všetko ale do času, Pán Boh na veky.
+          vá „Veru máte pravdu, pán majster. No dobrá vám noc!“
+          „Pán Boh daj aj tebe!“
+          a. Pán majster šiel do chyže, Brunčko ale domov.
+    </tei:p>
+    <tei:p>
+     Na druhý deň ztratený pandúr sa našiel.
+    </tei:p>
+    <tei:p>
+     Brunčko mal teda pravdu. Len to banoval, že sa s ním pán
+          majster Sládeček nestavil o niekoľko holieb vína. jú
+    </tei:p>
+    <tei:p>
+     Pandúr sa vyspal z opice, ktorú kúpil na jarmoku, a potom
+          prišiel sám od seba. Či mu pán slúžny sto zlatých vyplatil, ne-
+    </tei:p>
+    <tei:p>
+     NM vieme, ale“ pochybujeme. f.
+          Starý pánko Šimšálek nestáva už na moste. Škoda. ho byť, Že
+          ho viacej nie je. Neprešlo síce po dnes mnoho rokov od osudného
+    </tei:p>
+    <tei:p>
+     veľtrhu, ale už ani majstra Sládečka niet.
+    </tei:p>
+    <tei:p>
+     U Dolinský s Kristinou tvoria jeden pár. Kristina je až po dnes
+          x veselá a keď sa muž na ňu nahnevá .a ona je dobrej vôle, to mi
+          r aj zamôti:-
+    </tei:p>
+    <tei:l>
+     „Trucuje ma ktosi,
+    </tei:l>
+    <tei:l>
+     | Budem ja kohosi,
+    </tei:l>
+    <tei:l>
+     Ale sa ma ktosi
+    </tei:l>
+    <tei:l>
+     Do vôle naprosí.“
+    </tei:l>
+    <tei:p>
+     A pýtala sa, čo robí náš všetkovedel Bruučko. Vysťahoval sa
+          zo Sobotišťa. ,
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

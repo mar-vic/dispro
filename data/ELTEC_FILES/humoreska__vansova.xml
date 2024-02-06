@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885236" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Humoreska : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:15567322">
+     Vansová, Terézia (1857-1942)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     2910
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:15567322">
+      Vansová, Terézia (1857-1942)
+     </tei:author>
+     <tei:title>
+      Humoreska
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher/>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="F"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Humoreska
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Lucia Lužická zastávala úrad učiteľky na mestskej
+        dievčenskej škole v N. Jej plat obnášal 600 zlatých ročite, s ktorými
+        vedela si ona tak dobre hospodáriť, že si každoročne mohla niečo odložiť
+        ná „staré dni,“ lebo jej najmilší plán bol ten, že keď nashromáždí si
+        toľko, aby mohla bez cudzej pomoci sriadiť si dievčenský ústav, oddá sa
+        tomu ťažkému účelu: výchove dievčat.
+   </tei:p>
+   <tei:p>
+    Ale nemalo to tak byť, ako si
+        to jej smelá fantásia predstavo- vala. Všetečný ten bôžik, ktorého
+        menujú smrteľníci Kupidom, vy- pomstiť sa chcel na nej za jej
+        nevšímavosť, akou sa naproti nemu chovala. A pomstil sa okázalým
+        spôsobom. Našiel on vhodnú prí- ležitosť, aby zaviedol Luciu v blízkosť
+        mladého statkára Viliama Vesnického, ktorý, okúzlený príjemným zjavom
+        mladej učiteľky, začal sa na ňu dopytovať a pri najbližšej príležitosti
+        dal sa jej aj predstaviť.
+   </tei:p>
+   <tei:p>
+    Luciu tiež nie menej citlive ranila
+        streľa všetečného bôžika: a tak keď prosil ju Viliam o dovolenie k
+        návšteve, nemohla predsa byť tak nezdvorilou a túto jeho prosbu
+        odopret.
+   </tei:p>
+   <tei:p>
+    Bývala ona v dome istej staršej bezdetnej vdovy, ktorá
+        milo- vala Luciu čo dcéru svoju, ač aj prechovávala "proti jej učenosti
+        nehoráznu úctu.
+   </tei:p>
+   <tei:p>
+    Keď Viliam Luciu prvý raz navštívil, zdala sa mu
+        byť vzorom krásy, mala sviežu, belostnú pleť, tmavé, ducha"prezradzujúce
+        oči A zvlášte pekné, biele zúbky, ktoré, keď sa zasiniala, zajasaly sa
+        ako dva rady perál. A Lucia sa rada smiala.
+   </tei:p>
+   <tei:p>
+    Prvá návšteva
+        pritiahla za sebou druhú, tretiu, až raz pre- kvapil Viliam svojho a
+        otca osvetlčením, že si chce vziať za ženu slečnu Luciu Lužickú,
+        učiteľku na dievčenskej škole.
+   </tei:p>
+   <tei:p>
+    Starý pán dlho nepovedal slova, len
+        krútil hlavou, prešiel pár ráz izbu a vypúšťal mohutné oblaky dymu z
+        dlhého čibuku. Ko- nečne zastal pred synom a slovil: J
+   </tei:p>
+   <tei:p>
+    „Syn môj!
+        Keď si vstúpil do sveta, keď stal si sa dospelým, varoval som ťa pred
+        troma druhamni :Žien, rádiac ti poprvé, abý si si nikdy nevolil ženu
+        staršiu ako si ty, lebo skoro by sa stať mohlo, žeby mala príčinu byť
+        žiarivou, po druhé: aby si si ne- bral za družku ženu neobyčajnej,
+        vynikajúcej krásy, lebo skoro by si mohol mať príčinu ku žiarlivosti ty,
+        a po tretie: radil som ti strážiť sa ženy múdrejšej teba, na pr. ženy
+        spisovateľky a tak ďalej.
+   </tei:p>
+   <tei:p>
+    „Ale, otče!“
+   </tei:p>
+   <tei:p>
+    „Dovoľ, syn môj,
+        dovoľ! Viem, čo asi chceš povedať. Myslíš, že sú výminky, — 6 áno, ale
+        regula, syn môj, zostane regulou! Ešte konečne všetky tieto ženské nie
+        sú tak nebezpečné, ako ženy
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    161
+   </tei:p>
+   <tei:p>
+    učiteľky,
+        tak zvané guvernantky. To sú ti osoby prefíkané, na všetkých čertových
+        kolesách prebíjané.“
+   </tei:p>
+   <tei:p>
+    „Otče!“ zvolal Viliam a tvár jeho
+        vzplanula.
+   </tei:p>
+   <tei:p>
+    „Počkaj, len počkaj! Učiteľka, myslíš, že študuje, aby
+        mohla druhým svojím umením sl a v mladých hlávkach žiačok svetlo vedy
+        rozširovať? O, chyba lávky! Ona. sa učí, snaží, aby upútala, muža a aby
+        si ho všeliakými čertovskými kunštami získala a do svojich osídiel tak
+        sputnala, žeby nevedel východu — jedine so- bášom! Ver mi, každá je
+        taká, pekná, lebo špatná, vtipná alebo nevšímavá. Ony sú k porovnaniu k
+        jarabím hadiciam, ktoré sa do pestrých kvetín skrývajú, len že učiteľkám
+        za istú skrýšu slúžia knihy. Ony sú ženy veľmi neporiadne, v iných
+        umeniach nezkúsené | osoby, v každom druhom obore hrozne nenmelé , ba,
+        ja sa stavím, že keby som náhodou tú tvoju Luciu navštívil, našiel by
+        som ju v tom najväčšom neporiadku!“
+   </tei:p>
+   <tei:p>
+    „Ach, otče, nehovorili by ste
+        tak, keby ste Luciu znali, ako ju ja poznám!“ S
+   </tei:p>
+   <tei:p>
+    „Ako ju ty poznáš?
+        A či sa ty môžeš, smieš chlúbiť, že po- znáš ženské srdce a jeho spády?
+        Hej, jednu hlavu mám, aj tú si dám odrezať, jestli ju ja lepšie neznám,
+        ako ty!“ A K
+   </tei:p>
+   <tei:p>
+    Viliamovi bolo krušno okolo srdca — láska k jeho
+        milej Lucii viedla ho k slovu, k obrane, no úcta k otcovi a niečo
+        nemenova- ného bránilo mu tú obranu predniesť — a to bola malá, maličká
+        len pochybnosť, ale bola pochybnosť predsa! Jeho otec veľmi dobre,
+        vedel, že Viliamovu lásku skorej zlomí týmto spôsobom, nežli roz- hodným
+        odoprením svolenia k ženbe. do
+   </tei:p>
+   <tei:p>
+    Viliam začal rozmýšľať, a keď už
+        milenec rozmýšľa, vtedy A obyčajne hrozí mladej láske nebezpečie. Čo,
+        jestli by ten jeho zkú- sený, v svete odchovaný otec pravdu mal, keď aj
+        nie celkom, ó nie, ale len v niečom, keďby naozaj Lucia len za to jemu
+        pred- nosť dala, že jej zabezpečí budúcnosť, čestné postavenie? Nie, ne-
+        možno, volalo čosi, čo sa obyčajne srlcom nazýva — a tiahlo ho to do
+        mesta, kde už Lucia na neho čaká.
+   </tei:p>
+   <tei:p>
+    Ale ešte nemal túhe svojej
+        povoliť, lebo otec ho volal do poľa obzreť oziminy a on šiel, Cestou
+        viedol výlučne otec rozhovor. On vedel, ač len mimochodom povedať, že
+        jeho stará matka, rodená barónka zo Zdychavíc, bola žena múdra,
+        rozšafná, pri tom ale bolo-li jej treba podpísať sa, namaľovala úhľadný
+        krúžik. Načože je do paroma žene aj pero do ruky, — vareška, vareška a
+        vretienko ! v
+   </tei:p>
+   <tei:p>
+    O čom asi Viliam pri týchto pozdvihujúcich slovách
+        hútal, J nevedno, len beda tomu kvieťku, tej vetvičke, ktorá ešte tak
+        pozde hlávku dvíhala, ona jej bola. paličkou nemilosrdne
+        uťatá.
+   </tei:p>
+   <tei:p>
+    Toho dňa Lucia darmo čakala — aj druhého dňa darmo. Keď ale
+        zase zavítal Viliam u Lucie a videl ju rovne takú spokojnú,
+   </tei:p>
+   <tei:p>
+    "
+        nsmevavú, zmizla pochybnosť ako nočné chmáry pred svetlom dňa, Ale tie
+        chmáry zase skoro dostavily sa, aby bojovaly so svetlom a zavše
+        zvíťazily ony, zväčša ale zostalo svetlo — láska víťazom. Keď Viliam
+        stiesneným hlasom povedal Lucii, že mu otec radí - ešte čakať,
+        uspokojila sn Lucia aj s tým a usmiala sa
+        znovu.
+   </tei:p>
+   <tei:p>
+    s
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    102
+   </tei:p>
+   <tei:p>
+    Jasenné dny krátily s:,
+        svetla ubývalo a dlhé večery shro- mažďovaly priateľov v úzky kruh. Keď
+        tu i tu Viliam zavítal v malú domácnosť Lucie, sedela táto vždy so
+        svojou domovou paňou v malej, príjemne osvetlenej, teplej izbietke.
+        Domová pani bola hluchá ako starý peň a bola vstave presedeť celý večer
+        bez slova pri tej milej punčoške. Viliam, keď mnoho ráz mrzutý nad
+        ustavičnou prítom- nosťou domovej panej nevedel sa inak vyvfšiť, len že
+        naťahoval malého psíka Lucinho za uši a klepal mu na nos. Známo je, že
+        to psom nemilá vec. Raz pýtal sa Viliam Lucie, či nebude mať nič proti
+        tomu, keď privedie svojho pána otca. Ona odvetila, žeby sa mu páčilo.
+        Ale minulo viac dní a Viliam nechodil, až jednoho. dňa, v stredu
+        popoludní, doviedol Viliam otca svojho k Lucii na návštevu. Táto práve
+        prehliadala krásopisné úlohy detí a bola tak pohrúžená v svoju prácu, že
+        nezbadala príchod hostí, až keď boli vo dverach. Povstala ihneď z malej
+        pohovky a vítala jich svojím milým úsmevom.
+   </tei:p>
+   <tei:p>
+    Starý pán slovil so
+        zdvorilou poklonou:
+   </tei:p>
+   <tei:p>
+    „Odpusťte, že vás vytrhujeme v tak vážnej
+        práci. Čože sú to za literárne produkcie?“ a pritom pevne držiac ruku
+        Luciinu pri- zeral sa na ňu.
+   </tei:p>
+   <tei:p>
+    „Čo vidím? Ba vlastne nevidím špiny
+        černidlové na vašej ruke? Lebo nič tak nenávidím ako černidlové škvrny
+        na krásnej ženskej ruke.“
+   </tei:p>
+   <tei:p>
+    „Myslím, že dá sa tomu predísť, aby ruky
+        naše nemusely vy- dávať svedoctvo o černidle!“ usmiala sa Lucia a
+        ukázala svoje rozkošné zúbky, tak že ešte aj starý hriešnik mal z toho
+        svoju radosť.
+   </tei:p>
+   <tei:p>
+    Po chvíli povie zase starý:
+   </tei:p>
+   <tei:p>
+    „Ja som dnes s tým
+        úmyslom prišiel do mesta, že sa niekam pozvem na večeru, lebo veru
+        vyznať musím, že mi v hostinci nijak nechutí. Dovolíte-li tedy, budem
+        dnes večer vaším hosťom!“
+   </tei:p>
+   <tei:p>
+    S Lucinej tváre zmizol na malinkú chvíľu
+        úsmev: ona rýchlo- sťou blesku začala rozmýšlať o tom, čo asi vie už
+        pripraviť. Ihneď zase usmiala sa a riekla:
+   </tei:p>
+   <tei:p>
+    „Keby som len mala
+        tušenie o tom, čo asi je vaším obľúbe- ným jedlom !“
+   </tei:p>
+   <tei:p>
+    „To uhádnuť
+        ponechávame vášmu umu a vôli!“ odvetil starý s poklonou.
+   </tei:p>
+   <tei:p>
+    Lucia
+        predpásala si bielu, vyšívanú zásterku, ktorá jej mimo- chodom rečeno
+        tak dobre slušala, že Viliam uveličený chcel jej pomáhať, oproti čomu
+        ale starý pán rozhodne protestoval, hovoriac, že tak istotne nedočká sa
+        večere, ak Viliam bude pomáhať.
+   </tei:p>
+   <tei:p>
+    Nehovorila bych pravdu, keby som
+        tvrdila, že srdce Luciino celkom pokojne bilo, keď vnišla do kuchyne,
+        ale odvaha a udatnosť samostatnej devy nedovolovaly jej dlho rozmýšlať.
+        Aby ale medzi- tým aj páni mali zábavu úplnú, poslala jim svoju hluchú
+        domovú paňu ku konversácii. Viliam zazrúc túto tichú starenku podotknul
+        ironicky :
+   </tei:p>
+   <tei:p>
+    s
+    <tei:pb/>
+    A AT V VÍNE
+   </tei:p>
+   <tei:p>
+    m7
+   </tei:p>
+   <tei:p>
+    O TE
+        AU
+   </tei:p>
+   <tei:p>
+    163
+   </tei:p>
+   <tei:p>
+    r A
+   </tei:p>
+   <tei:p>
+    „Hla, tu vzor ženskosti! Mám len jednu
+        hlavu, aj tú si dám odrezať, ak dakedy tieto ruky perom vládly — len
+        ihlicou a vre- tienkom !“
+   </tei:p>
+   <tei:p>
+    Starý nepovedal nič na slová synove, on
+        jal sa prezerať knihy, poukladané v kúte na malom stojánku.
+   </tei:p>
+   <tei:p>
+    „Hej,
+        z klassikov nechybí temer ani jeden, ale kuchárskej &gt; knihy — tej
+        nemáš!“
+   </tei:p>
+   <tei:p>
+    On neborák nevedel, že keď žena variť nezná, kuchárska
+        kniha ju tomu nenaučí. e
+   </tei:p>
+   <tei:p>
+    Za ten čas Lucia nemeškala a poslala
+        slúžku pre mäso atď. Akým strachom a tajným stípaním ona sledovala
+        jednotlivé štadia parenej hovädziny a belunkých halušiek, predstaví si
+        každá no- váčka v umení kuchárskom, ktorá dakedy zásmažku pripálila a
+        polievku presolila. Ako dobre jej padly tie zkúsenosti domáce, ktorým
+        dakedy doma pod vedením prísnej mamičky podrobiť sa musela!
+   </tei:p>
+   <tei:p>
+    Ku
+        veľkej radosti Lucie doniesla jej dobrá žiačka, Maruľka Rezníkovie,
+        pekné dva kusy čerstvej šunky, k tomu hodlala ešte pripraviť čaj — a
+        večera hotová! Čo jej chýbalo na praxi, to do- plnila dobrá, pevná vôľa
+        a bedlivosť.
+   </tei:p>
+   <tei:p>
+    Keď konečne prišla do izby, aby zakryla okrúhly stôl,
+        zdala sa Viliamovi tak krásnou, žeby jej bol skoro počal vyznávať lásku,
+        keby sa to už prv nebolo stalo.
+   </tei:p>
+   <tei:p>
+    Starému chutnala večera, on síce
+        podotknul, že cesta jeho do mesta zapríčinila onen hlad, no Lucia
+        nerozmýšľala o tom, jej bolo dosť, že jej umenie došlo uznania. Po čaju.
+        ktorý starý pán veľmi chválil, stal sa takmer úprimným zbožňovateľom
+        malej učiteľky : jeho galanteria tak sa stupňovala, že pri odchode
+        pobozkal jej už aj ruku.
+   </tei:p>
+   <tei:p>
+    Keď už opustily mesto a jích povoz
+        hrkotal po zamrznutej ceste domov, začal starý:
+   </tei:p>
+   <tei:p>
+    „Hm, nie je tak
+        špatná, ako som si myslel, ani nie tak hlúpe sebevedomá , tie halušky
+        boly výborné! Jej pohyby sú skutočne roztomilé, upomínajú na zjav
+        dievčatka — a ten čaj bol delikátny ! K tomu tie jej drobné biele zúbky,
+        na ktoré, zdá sa, že si veľmi zakladá. Ba člby si dala tebe k vôli jeden
+        zub vytrhnúť?“
+   </tei:p>
+   <tei:p>
+    „Aká to otázka!“ zvolal Viliam.
+   </tei:p>
+   <tei:p>
+    „No, no, veď
+        to len tak povedám! Mne sa zdá, že je do teba veľmi zaľúbená, ale zub by
+        si tebe k vôli nedala vytrhnuť. Takej obete nebola by schopná — veď je
+        žena!“
+   </tei:p>
+   <tei:p>
+    Viliamovi sa zdalo, že v nočnej tme vidí belieť sa tie
+        zúbky a úsmey Luciin zdal sa mu hovoriť, že vstave je priniesť i takú .
+        obeť. Cez celú cestu, ba ešte hlboko do sna prenasledovala ho tá
+        myšlienka a pobádala ho k tomu, aby predsa pokúsil sa o to. A myšlienka
+        tá neopustila ho viacej.
+   </tei:p>
+   <tei:p>
+    Keď zase raz prišiel navštíviť Luciu,
+        ktorú považoval teraz už takmer za svoju mladuchu, sadnul si ku nej na
+        malú pohovku a a keď už hodne jej nalichotil, slovil
+        zrazu:
+   </tei:p>
+   <tei:p>
+    „Lucia! Miluješ ma opravdu?“
+   </tei:p>
+   <tei:p>
+    M
+        MNA.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    154.
+   </tei:p>
+   <tei:p>
+    „Myslím, že to už dávno
+        vieš!“
+   </tei:p>
+   <tei:p>
+    „ Veľmi?“
+   </tei:p>
+   <tei:p>
+    „Chceš, aby som ťa ujisťovala
+        ?“
+   </tei:p>
+   <tei:p>
+    „Chcem, aby si mi to dokázala.“
+   </tei:p>
+   <tei:p>
+    „Ako?“ zpýtala sa Lucia a
+        usmiala sa.
+   </tei:p>
+   <tei:p>
+    „Tak, že obétuješ mi jeden zo svojích
+        zúbkov.“
+   </tei:p>
+   <tei:p>
+    Lucia pohliadla naňho pohľadom, akým zvykly sme merať po-
+        mateného, ktorý ale nevyzeral ako opravdový blúznivec.
+   </tei:p>
+   <tei:p>
+    „Ty
+        žartuješ?“
+   </tei:p>
+   <tei:p>
+    " „Nie, nie, myslím to naozaj!“
+   </tei:p>
+   <tei:p>
+    „Naozaj?“ Hlas
+        devy bol tiahly, úsmevy zmizol.
+   </tei:p>
+   <tei:p>
+    „Ano, ano!“ zvolal Viliam troška
+        netrpelive. „Vidím, že márno- myseľnosť ženy nedovoľuje ti priniesť obeť
+        lásky!“
+   </tei:p>
+   <tei:p>
+    Lucia vstala z malej pohovky, prisadla ku oblokn a začala
+        rozmýšľať. Po chvíli zvolala :
+   </tei:p>
+   <tei:p>
+    „Dobre, staň sa tedy!“
+   </tei:p>
+   <tei:p>
+    „Ty
+        svoluješ!?“
+   </tei:p>
+   <tei:p>
+    „Ano!“
+   </tei:p>
+   <tei:p>
+    " „Dáš si mne k vôli zub
+        vytrhnúť?“
+   </tei:p>
+   <tei:p>
+    „Dám!“ .
+   </tei:p>
+   <tei:p>
+    „Lucia, rozmysli si, máš ešte dosť
+        času!“
+   </tei:p>
+   <tei:p>
+    Ale deva odmietla jeho domluvy, vzala zo stolíka krásopisné
+        úlohy detí a začala jich tak horlive prezerať, akoby tu Viliama ani
+        nikdy nebolo bývalo.
+   </tei:p>
+   <tei:p>
+    Tento ale začal dľa milého zvyku Azorka
+        drážiť, klepal mu na nos a naťahoval ho za uši. Konečne keď videl, že si
+        ho Lucia nevšíma, vstal hore a začal sa strojiť k odchodu. Vtedy Lucia
+        zvolala:
+   </tei:p>
+   <tei:p>
+    „Hej, ty si tu?“
+   </tei:p>
+   <tei:p>
+    „A nemal by som už tu byť? K tomu
+        chcem vedeť, kedy zase smiem. prísť!“
+   </tei:p>
+   <tei:p>
+    „To jest, kedy sa bude
+        operácia prekonávať — vtedy, keď bu- dem doma — v sobotu o tretej
+        popoludní.“
+   </tei:p>
+   <tei:p>
+    S tým bol odbavený , išiel tedy. Išiel, avšak nie čo
+        víťaz, ale s pocitom smiešnosti. Cítil, že si niečo zadal zo svojej
+        vážnosti.
+   </tei:p>
+   <tei:p>
+    Keď Lucia druhé ráno prišla ku svojim žiačkam, mala oči
+        zapálené a akoby pripuchlé. Na nežný dotaz detí odpovedala usme- vavo,
+        že ju hlava bolí.
+   </tei:p>
+   <tei:p>
+    Prišla sobota. Viliam dostavil sa hneď
+        popoludní, ale nenašiel nikoho v izbe. Netrpelive začal pádnymi krokami
+        merať dlážku — veď nebolo ani len toho psa, aby ho mohol drážiť! Lucia
+        ale — ako tušil — zatvorila sa do bočnej izby!
+   </tei:p>
+   <tei:p>
+    Konečne sa tam von
+        ozvaly kroky, bol to starý Kokrhaj, mestský ránhojič, ktorý bol
+        chýrečným v trhaní zubov, lebo vy- tvhnul skorej štyri zdravé, ako jeden
+        chorý zub. Za ním šla domová pani, šúchajúc svojimi kapcami po dlážke a
+        nesúc umývaciu misu a. žbán čerstvej vody. Obidvaja zmizli za dvermi
+        bočnej izby. Dvere za nimi zatvorily sa pevne, len Viliamovi bolo súdené
+        čakať tu v zimničnej úzkosti a čítať minúty
+        !
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    -.
+   </tei:p>
+   <tei:p>
+    165
+   </tei:p>
+   <tei:p>
+    Načúval: zdalo sa mu, že
+        počuje Štrkať klieštikami, ktoré te- raz snáď onen babrák plátnom
+        obkrúca, ako to už zvykli robiť po- &gt; dobní milosrdní páni. Mráz prešiel
+        Viliamovým chrbtom, teraz, teraz už chytil zúbok a to jemu k vôli, jemu!
+        Zrazu zarazí desný výkrik ucho jeho, — on beží ku dverom, chce jich
+        otvoriť, ale mocná závora vzdoruje , zalomcuje nimi — darmo! Tam dnu
+        teraz ticho, ba nie, počuť bôľne stenanie, pritlunené a predsa jeho uchu
+        srozmniteľné, domová pani šuchá kapcami, voda člapká —- ach, to nie je k
+        vydržaniu !“
+   </tei:p>
+   <tei:p>
+    „Lucia, Lucia, otvor!“ a
+   </tei:p>
+   <tei:p>
+    Dvere sa roztvorily,
+        aby úzkym otvorom vypustily von Kokrhaja — &gt; a zase sa prichlopily.
+        Viliam chcel dnu, potom bežal zase za rán- hojičom, chcel ho, zadržať,
+        ten sa mu ale vyšmiknul a ukazujúc strieborný zlatník
+        zvolal:
+   </tei:p>
+   <tei:p>
+    »„Vyplateno, vyplateno!“ a pošiel. „Nasledovaly trápne
+        okamihy pre Viliama. Zas len zalomcoval dvermi — mo tie
+        nepovolily.
+   </tei:p>
+   <tei:p>
+    „Lucia, anjel môj, otvor!“
+   </tei:p>
+   <tei:p>
+    Žiadna odpoveď! Len
+        vzdychy, ston a pritlumený plač bol odvetou na Viliamovo
+        volanie.
+   </tei:p>
+   <tei:p>
+    „Bože môj!“ zvolal „ona to neprenesie! Ona, ktorá
+        nevedela žiť bez úsmevu, ona nebude sa viacej usmievať, — to zničí jej
+        životné blaho, stane sa trudnomyseľnou a —“
+   </tei:p>
+   <tei:p>
+    "Teraz ozvalo sa niečo
+        inšieho ako plač. Bol to temný, pri- tlumeuý -— smiech!
+   </tei:p>
+   <tei:p>
+    „Svätý
+        Bože! ona sa smeje! A aký smiech! Lucia, Lucia, dieťa moje, uspokoj sa!
+        Počuj, veď fa ja túbim, vzdor tomu všet- kému, Lucia!“ A znovu pokúšal
+        sa otvoriť dvere. „Odpusť, drahá! Celý môj budúci život nech bude
+        vynáhradou za ten jeden jediný zúbok! Lucia, holúbok uôj, uspokoj sa!“ A
+        Viliam sa temer sám pustil ďo plaču. a
+   </tei:p>
+   <tei:p>
+    nVeď sa už len ro 1“
+        pokračoval ďalej. „Otvor, aby som ťa mohol odprosiť a potešiť, ach, viem
+        ale istotne, že niet odmeny za tvoj skutok, okrem doživotnej lásky a
+        vrúcnej oddanosti!“
+   </tei:p>
+   <tei:p>
+    Konečne dvere boly otvorené. Lucia vyšla
+        bľadá, umorená. Viliam ju chcel objať a privinúť v náručie, no ona sa
+        vymôhla 7 jeho ramien a mlčky podala mu malý, biely zúbok. On boľastne
+        vykríknul, akoby starý Kokrhaj bol jemu vytrhnul onen zub.
+   </tei:p>
+   <tei:p>
+    „O
+        pochopujem, že nemôžeš viac milovať toho, ktorý ťa pri- pravil o tak
+        veľkú okrasu!“ nariekal Viliam, „ach, ale už odpusť vinu moju. Ty
+        skrývaš, ty odyracuješ tvár svoju odo mňa, ty ne- chceš viac pohľadom
+        svojím ku mne sa obrátiť, ani prehovoriť! Lež uspokoj sa konečne, veď
+        dosť žien na svete, čo zubov nemajú a. žijú, sú šťastné — ba aj
+        milované! A cheš-li, dám ti zaň zlatý vsadiť, moja milená!“ A znovu ju
+        chcel sovreť v náručie, ona sa mu ale opät vytrhla, popošla ku obloku a
+        zakryla si tvár rukama. am, cny, ako onen" publikán, chcel sa aj tam ku
+        nej priplížiť, keď zrazu zarazí ucho jeho smiech, ten mily,
+        úprimný,
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    zvonný smiech, akým sa len Lucia vedela
+        smiať! Zarazený pozrel tázave na smejúcu sa Luciu — a ona mala všetky
+        zúbky!...
+   </tei:p>
+   <tei:p>
+    Prekvapený zostal stáť, nevedel čo
+        myslef.
+   </tei:p>
+   <tei:p>
+    „Odpusť, Viliam!“ prosila Lucia, keď konečne prestala sa
+        smiať, „ja nedala som si zub vytrhnúť, vediac, žeby som ťažko niesla
+        ztvatu jeho, ty ale žeby si toho ľutoval — ale zkúšku prestáť mu- seli
+        sme oba!“
+   </tei:p>
+   <tei:p>
+    „A ten zúbok?“
+   </tei:p>
+   <tei:p>
+    „Musel obetovať
+        Azorko!“
+   </tei:p>
+   <tei:p>
+    Viliam si ale predsevzal, že nikdy nebude zkúšať ženskú
+        lásku, ale radšej dôverovať.
+   </tei:p>
+   <tei:p>
+    Podivín.
+   </tei:p>
+   <tei:p>
+    Novella.
+   </tei:p>
+   <tei:p>
+    „No,
+        Gustáv, schystaj sa, čo chvíľa je 7 hodín, a nesluší sa, aby za nami
+        čakali.“
+   </tei:p>
+   <tei:p>
+    „Eh, čol Nech že kus počkajú, veď sa ešte toho trepania
+        ženského dosť napočúvaš!“
+   </tei:p>
+   <tei:p>
+    „A ty nie, Gustáv, keď hovoríš len o
+        mne?“ odpovie Palko.
+   </tei:p>
+   <tei:p>
+    „To sa rozumie že nie, ja si budem v bočnej
+        izbe fajčiť a tebe prenechám dvorenie sa ženskému svetu. Ty sa aj tak k
+        tomu výborne hodíš,“ odpovie Gustáv, vystrúc sa pohodlne na
+        pohovke.
+   </tei:p>
+   <tei:p>
+    „Nemárni čas daromnými frázami, ale sa obleč a
+        pôjdeme!“
+   </tei:p>
+   <tei:p>
+    „Nuž a či nie som oblečený ?“
+   </tei:p>
+   <tei:p>
+    „Ale pre milosť
+        božiu, Gustáv, tratíš rozum?“ Pomysli si, u doktorov bude celá
+        intelligencia mesta, tam bude aj — no veď vieš kto? —- Tvoja sverenica a
+        — —“ &gt;
+   </tei:p>
+   <tei:p>
+    „Nehovor, nehovor mi o nej!! Lebo —- ostatne načo sa.
+        Pomysli si, dnes ráno stará Eva hádala mi z dlane, a vi
+   </tei:p>
+   <tei:p>
+    e mojej
+        ženy niet ešte ani na svete.“
+   </tei:p>
+   <tei:p>
+    „Hahaha! to je výborné!“ smeje sa z
+        celého hrdla Palko: „0 dva týdne idú ho zhodiť z kancla a jeho ženy niet
+        ešte na svete! Také hádanie veru len od Evy vystane, lebo vie už každá
+        cigúňka, že ženské nenávidíš. Eva ti chcela zalichotiť — to je do
+        zbláznenia smiešne!“ u
+   </tei:p>
+   <tei:p>
+    „Ba veru do zbláznenia, a ešte keď chcú
+        človeku na krk za- vesiť starú pannu,“ mrzuto odpovie
+        Gustáv.
+   </tei:p>
+   <tei:p>
+    „Počuj, Gustáv,“ vážne hovorí mu Palko, „buď už raz rozum-
+        nejším a nehovor tak ľahkovážne o ženských, menovite ale o svojej
+        budúcej: si ešte primladý, a — —“
+   </tei:p>
+   <tei:p>
+    „No, no, no! Nezabúdaj, bratku,
+        že sa žením, to jest že ma ženia, aby si mi takú poklonu nevyťal, ako
+        onehdá farárka : „Chlap- čisko neznalé kuš, úsudok o ženách vyniesť musí
+        muž!“ Bol by som jej síce na to odvetil, avšak — —“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

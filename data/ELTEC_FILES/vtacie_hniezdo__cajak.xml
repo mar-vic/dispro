@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1956799" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Vtáčie hniezdo : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:30914947">
+     Čajak, Ján [Aliquis] (1863-1944)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     8097
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:30914947">
+      Čajak, Ján [Aliquis] (1863-1944)
+     </tei:author>
+     <tei:title>
+      Vtáčie hniezdo
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské vydavateľstvo krásnej literatúry
+     </tei:publisher>
+     <tei:date>
+      1956
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Vtáčie hniezdo
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <div type="chapter">
+    <head>
+     Vtáčie hniezdo
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Bol strašne sparný augustový dolnozemský deň. Človek najmä po obede cíti sa pozbavený
+      všetkej tvorivej sily. Utiahne sa do pečlivo zastrenej tmavej izby, zhodí zo seba, čo môže,
+      ľahne na pohovku a v takomto stave úplnej netyčnosti je vstave do večera vydržať. A len keď
+      súmrak počína rozprestierať svoje perute, vytiahne sa z úkrytu, aby vyšiel von na ulicu.
+      Pravda, i vtedy nie na veľkú potechu, lebo ustavičné hrkotanie z poľa jachajúcich vozov a
+      potom ten prach, valiaci sa sťa žltkastý oblak, naplní človeku i nozdry i oči. Dych je ťažký a
+      hocikedy zaškripúta pod zubom zrniečko prachu.
+    </p>
+    <p>
+     V takýto deň i ja som sedel sťa opravdivý väzeň v svojej izbe. Nadišla na mňa neodolateľná
+      túha za tými končiarmi, grúňmi a hoľami, po ktorých som sa tak rád túlaval. Len tak teraz môcť
+      priľahnúť k prameňu a napiť sa čistej studenej vody! Ach, bol by to za pôžitok! Aby som
+      zabudol na nepríjemnosť prítomnosti, začal som sa v mysli prehŕňať v minulosti. Pomaly začali
+      sa pred mojím duševným zrakom pohybovať obrazy mojich výletov. Tu sa mi vynoril Kriváň s
+      prívetivým Podbanským, kde som dakedy v spoločnosti starého Harmana a Horváta, chýrečných to
+      naširoko a ďaleko poľovníkov, nejednu krásnu chvíľu zažil a neraz som si podskočil, keď mi
+      obaja podvečer zahrali na citarách a pritom si i oni kedy-tedy zakresali a zavýskli
+      bohatierskym výskokom. Potom vynorili sa mi Rysy, za nimi Kráľova Hoľa, Ďumbier, Salatín, Choč
+      — a to drahé, nie vysoké, no zavalisté a na vrchu krásne Trstie, z ktorého vidíš všetko ani na
+      obrázku: i Kráľovu hoľu i Tatry i Muráň, slávny i utešený Kohút so Železníkom i v diaľke sa
+      modrajúcu Matru s Bikom i ten drahý, no zakliaty Gemer, po ktorého dolinách som tak mnoho ráz
+      chodieval, tak mnoho radostí zažil najmä v Sirku. Tento sa ti ukáže tak blízko, len rukou
+      dočiahnuť. Z druhej strany podo mnou červenie sa červenodachá vežička skromného chrámu
+      píľanského a pri ňom tá milá prítulná fara. Ďalej zase belie sa Tisovec s krásnym chrámom pod
+      divokrásnou Hradovou. Ach, krásne ste rozpomienky mladosti, ale i bôľne, bo tí, mne tak drahí
+      ľudia, ktorí ma tak radi mali, na mňa tak veľký dojem robili, už dávno práchnivejú, — a tí, čo
+      ešte žijú, pod ťarchou veku i života utratili už tú pružnosť života, ktorá sa teší životu a
+      okolo seba veselosť i dobrú vôľu šíri!
+    </p>
+    <p>
+     To všetko mihlo sa mi pred duševným vidom. — A ja na okamih pozabudol som na prózu života
+      i na prach i na žeravé lúče augustové i na nechutnú, ťažkú, kalnú vodu dolnozemskú. Vzal som
+      Hviezdoslava a preberal som sa v ňom. Chodil som s ním po prtiach, po poliach a kvetnatých
+      lúčinách i po tmavých lesoch i — vzdychol som si s ním:
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <l>
+    </l>
+    <l>
+     Pozdravujem vás, lesy, hory,
+    </l>
+    <l>
+     pri odobierke na stokrát!
+    </l>
+    <l>
+     Zvú života ma prísne chóry,
+    </l>
+    <l>
+     zve starosť tvrdú na postať:
+    </l>
+    <l>
+     no, i tam budem spomínať:
+    </l>
+    <l>
+     váš pokľud, až zas musím v boj —
+    </l>
+    <l>
+     v čas sporu vaše rozhovory,
+    </l>
+    <l>
+     vo smútku vašich spevcov roj
+    </l>
+    <l>
+     a balzam, keď zas budem chorý…
+    </l>
+    <l>
+     — — — — — — —
+    </l>
+    <l>
+     z tej duše pozdravujem vás!
+    </l>
+    <l>
+    </l>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Klope mi niekto na dvere. Trhnem sa. Nemilo sa ma dotklo. Pomyslel som si, kto to len môže
+      byť, že sa práve teraz vlečie.
+    </p>
+    <p>
+     Dvere sa otvorili a vysoká mužská postava vstúpila dnu.
+    </p>
+    <p>
+     Zastal u dvier, bo zo slnečného svetla prišiel do tmavej izby. I nezbadal ma. Ja v prvom
+      okamihu som ho nepoznal. I vstal som, odclonil som jedno oko, obrátim sa a — tu predo mnou
+      stojí v celej veličine môj starodávny priateľ Janko Dolina. Zasmial som sa od radosti.
+    </p>
+    <p>
+     — Kdeže sa len tu berieš, človiečku, veď tu teraz ani vtáčka ani letáčka, nie že by z
+      Hornej zeme takýto vzácny exemplár! — Bozkali sme sa srdečne a onedlho sedeli sme pohrúžení do
+      rozhovoru. Otázkam a odpovediam nebolo konca-kraja. Zrazu bolo počuť dupot malých nôžok a hneď
+      zatým vrátilo sa dnu troje ohorených detí s veselým smiechom a za nimi moja žena, tiež
+      usmiata.
+    </p>
+    <p>
+     Ako zazreli cudzieho človeka, zastali. No o nejakú chvíľu boli už spriatelené, liezli nám
+      po kolenách a džavotali ustavične. Medzitým sa moja vzdialila, aby pripravila večeru.
+    </p>
+    <p>
+     Poštár doniesol noviny. Prebehnem rýchlo po stĺpcoch.
+    </p>
+    <p>
+     — Nič nového, — prehovorím a podávam priateľovi. Janko ich vzal, prezeral a zrazu
+      vykríkol:
+    </p>
+    <p>
+     — Zomrela?! No, to je hrozné! To by sa nebol nazdal!
+    </p>
+    <p>
+     — Kto?
+    </p>
+    <p>
+     — Mária Skalná, žena nášho maliara Jurka Skalného. Taká mladá, krásna a k tomu taká
+      neobyčajná žena.
+    </p>
+    <p>
+     Bol vzrušený. Tvár mu vyrážala opravdivý bôľ.
+    </p>
+    <p>
+     Mne, Dolnozemcovi, nebola známa. Ale keď som videl na priateľovi taký veľký zármutok,
+      chcel som o nej niečo viac vedieť, a preto som sa spýtal:
+    </p>
+    <p>
+     — Dávno si ju poznal, že taký veľký súcit prejavuješ?
+    </p>
+    <p>
+     — Nie. Pred pár rokmi takmer len náhodou som bol u nich jeden jediný raz a vtedy urobila
+      na mňa neobyčajný dojem.
+    </p>
+    <p>
+     — Ak ti je nie na obťaž, rozpovedz mi.
+    </p>
+    <p>
+     — Bude to trocha dlhšie trvať — a potom treba pokoj, — a s úsmevom pozrel na laškujúce
+      deti.
+    </p>
+    <p>
+     Porozumel som mu.
+    </p>
+    <p>
+     — Dobre. Po večeri, keď deti pospia — —
+    </p>
+    <p>
+     Po večeri sedeli sme vonku na otvorenej chodbe. Už prestal hrkot vozov, i prach sa už
+      usadol. Príjemný večerný chlad nás občerstvil a my plným dúškom dýchali sme do seba
+      občerstvujúce povetrie. Stmilo sa. Bezoblačné nebo rozlievalo svetlo trblietajúcich sa hviezd.
+      Kto chce vidieť v celej velikosti a velebe hviezdnatú oblohu, nech príde na Dolnú zem. Tu, len
+      tu a na šírom mori môže sa nasládzať tou veľkolepou krásou a nesmiernosťou, ktorú nehatí a
+      nekráti žiadna vysočina, žiadne pohorie, ale sa slobodne pnie nad hlavou na všetky strany.
+    </p>
+    <p>
+     — Náš priateľ bude tak dobrý rozprávať nám o Márii Skalnej, — vravím mojej. — Práve teraz
+      sme čítali v novinách, že zomrela.
+    </p>
+    <p>
+     — Zomrela? Chuderka, škoda jej!
+    </p>
+    <p>
+     — Poznala si ju, že sa tak zaujímaš? — spytujem sa.
+    </p>
+    <p>
+     — Osobne nie, ale zo Zory, — písala tam krásne články.
+    </p>
+    <p>
+     — Či ju vidíš! — odpovedal som, trocha zahanbený, — a ja som o nej nič nevedel.
+    </p>
+    <p>
+     — Veď vy tak, páni, to by bolo niže vašej hodnosti zaoberať sa so ženskými novinami,
+      pletkami! — odpovedala figliarsky moja. No jemná výčitka predsa vyznela z jej reči.
+    </p>
+    <p>
+     — Kto by to všetko mohol, — odpovedám v rozpakoch. — Človek niekedy nevie ani, kde mu
+      hlava stojí od starosti — ak tomu máš toho i odvyš, nuž nevieš, čo máš skôr chytiť do ruky.
+    </p>
+    <p>
+     Môj priateľ sa usmial na mojich rozpakoch.
+    </p>
+    <p>
+     — Daj pokoj, kamarát! Ja som tiež nebol lepší. Mne tiež, čo bolo zo ženského pera… vždy
+      som cítil istú predpojatosť. Noviny pre ženy, myslím si, je toľko ako o jeden bazár a o jednu
+      kuchársku knihu viac. Zase len viac požiadaviek a výdavkov a k tomu viac nespokojnosti. Keď sa
+      žena a dievča naberie tými nešťastnými románmi, každá potom sníva len o barónoch a grófoch. A
+      keď sa jej sny neplnia, tým je nespokojnejšia, bo, ako zvyknú hovoriť, „túžia za niečím
+      vyšším“. Vôbec mal som istý zľahčujúci pochop o ruchu našich žien. A tu, chvalabohu, ma v tom
+      zahanbila zosnulá. Škoda, večná škoda jej ešte hniť! — a vzdychol.
+    </p>
+    <p>
+     — Počúvajte teda, ako som sa spoznal s ňou.
+    </p>
+    <p>
+     — Bol som učiteľom v Pltnej starodávnej zemianskej dedine. Živorili v nej, zemianske
+      rodiny, zväčša už vyšlé cele na mizinu, ktoré žili zväčša len z lacnej pýchy, starodávnych
+      rozpomienok a z tej premilenej švábočky (zemiakov). Ani v nejakom múzeume videl si tam starú
+      pannu, ešte v krinolíne, lámať spišskú nemčinu a prehŕňať sa v Kartigámoch, Monte Christoch,
+      Marlitkách i v Paul de Kockovi. Iné zase afektovali peštiansku maďarčinu, mäkčiac a šušľajúc.
+      Ale pritom všetkom výrečnosť prezrádzala, že im zobák inak narástol. Tieto posledné oslavovali
+      podľa dennej peštianskej módy vychytené veličiny toho najrozličnejšieho druhu. Toto, pravda,
+      robili len vtedy, keď boli v spoločnosti, kde za potrebné držali najavo dávať svoju úroveň
+      modernej vzdelanosti. Ale takýto rozhovor netrval obyčajne zadlho, aby potom na výhodnejšom,
+      známejšom poli pustili hlbšie korene, totiž v denných udalostiach a klebetách. — Ale, potom,
+      ako to už obyčajne býva, prešli na slúžky. A tu už bolo stonania a žalovania sa až do
+      nekonečna.
+    </p>
+    <p>
+     — Ale som zabehol ďaleko. Vieš, všetci sme my rovnakí. Radi my to takto ofarbíme našich
+      spolubližných, — a usmial sa. — Ale či môžeš takto vybŕdnuť z tých dojmov, ktoré si si
+      nazbieral v živote? Tieto ti ležia v hlave bez skladu a ladu, len tak pohádzané. Nuž vyťahuj
+      potom stále a zrovnávaj, keď je jeden navrchu, druhý naspodku, tretí ale v prostriedku. Nie
+      div teda, keď priloží človek i také veci, čo do krámu nepatria.
+    </p>
+    <p>
+     Ja som sa usmial, že môj priateľ zase odbočil. Moja bola trochu netrpezlivejšia i spýtala
+      sa ho:
+    </p>
+    <p>
+     — Ako ste sa teda obznámili s pani Skalnou?
+    </p>
+    <p>
+     — Dobre teda, už si pozor dám a prosím vás, ak by som zase podľa môjho starého zvyku
+      odbočil, — a pozrel na moju žienku, — tak ma ráčte láskavo upozorniť.
+    </p>
+    <p>
+     — Veľmi vďačne, — zasmial sa, — to by som, myslím, i teraz mohla urobiť, ale chcem byť
+      zhovievavá. Zdá sa mi, že ste nenapraviteľný, a tak vás nechám na pokoji. Myslím, tak skôr
+      dôjdeme k cieľu.
+    </p>
+    <p>
+     — Uhádli ste. Obyčajne po letných skúškach zabehol som si do Poľnej k strýkovi, úradníkovi
+      to poľanského panstva. Strýko i s tetkou boli mi ako druhí rodičia; ich dcéry ani sestry. Nie
+      div, že som sa v ich milom, jednoduchom, úprimnom dome cítil ako doma. Chodil som slobodne po
+      horách s knihou i bez nej. Zbieral som hríby, jahody, maliny i brusnice. Niekedy som dozrel na
+      robotníkov, zabehol do susedného mesta a poučil menšie strýkove deti.
+    </p>
+    <p>
+     — Raz za jedného teplého dňa predpoludním po párhodinovom chodení povaľoval som sa na
+      pohovke, keď vpáli dnu do izby černooká sesternica Milka.
+    </p>
+    <p>
+     — Ach, ty leňoch jeden! — začne dodievať do mňa zvučným veselým hlasom, — nuž ale ty tak?
+      Iní v pote tváre pracujú, a môj milý velebežný pán brat oddychuje. Však od tých zimských
+      trampôt — chudáčik? — a zasmiala sa mi veselo, — aby ti všakver’ duch oddýchol.
+    </p>
+    <p>
+     — Daj pokoj, Miluška, už nohy nevládzem, — hovorím, — veď som už dnes pochodil i tri
+      chotáre a dobre už tu od hladu neskapem. Ale kdeže by aj nie? Od rána nič, len čo som sa pri
+      mlyne dosýta napil medokýša. No, a to mi bolo treba! Troví, ani čo by pálil. — A tu prídem
+      domov. Tetka v poli. Hľadám kľúče od komory, reku, aspoň kúsok maslového chleba a kvapku
+      kýšky, a tu kľúča niet. Nuž čo robiť, Miluška, čo? Ľahol som si trocha na kanape a čakám tú
+      dvanástu ani božie zmilovanie. A ty v mojom súžení takto? No, čakaj, ty ukrutnica! Ale takto —
+      Miluška! Nevedela by si, kde by bolo niečo pod zuby, lebo, krem žartu, som hladný ani vlk!
+    </p>
+    <p>
+     — A čože ja? Kdeže by ja — ukrutnica! — začne moja Miluška vzdychať a vážnu tvár strúhať.
+      — Vieš čo, Janíčko, pýtaj si ty len od Anny niečo na jedenie. Tá má srdce! Ale ja? — a šibla
+      bokom po mne, takže jej bolo vyčítať z očí radosť, že ma môže napáliť.
+    </p>
+    <p>
+     — Nuž veď keď nie, tak nie, — a začal som vážnu strunu naťahovať, — čože sa nazdáš, že ma
+      vytrucuješ? Kdeže by! Ty si myslíš o mne, že som ja taký slabúch; čo len nejesť, ak chceš, a
+      ak ti to takú radosť robí — (tu použil som politiku dotknúť sa citnej stránky škádlivej
+      sestričky) — nuž tak ti môžem urobiť kvôli, že nebudem jesť ani do večera, — a pritom vzal som
+      noviny, ako čo by som chcel čítať.
+    </p>
+    <p>
+     — Veď i ty nevieš žartu! No ale čakaj trocha, hneď ti donesiem. Mama nechala kľúč u mňa,
+      keď vraj prídeš, aby som ti doniesla nejaký liek proti hladu. A ja som sa len trocha chcela
+      zažartovať, a ty hneď ako moriak! — a s tým už vybehla von.
+    </p>
+    <p>
+     O krátku chvíľu som bol už zabraný do jedenia a Milka, aby mi i poslednú chmáru nevôle
+      zahnala z čela, nezabudla ani o lahôdku.
+    </p>
+    <p>
+     Posadila sa oproti mne a s potešením hľadela, s akou chuťou oddal som sa do jedenia, takže
+      jedla ubúdalo s báječnou rýchlosťou.
+    </p>
+    <p>
+     — Poviem ti novinu, — ozvala sa, zbadala, že som schopný obrátiť pozornosť už i inde.
+    </p>
+    <p>
+     — Čo také? — spýtal som sa ľahostajne, pripravený na nejakú dedinskú pletku.
+    </p>
+    <p>
+     — Maliar Skalný chodí každý deň maľovať Poľanských dcérečku Flóru. I teraz je tu.
+    </p>
+    <p>
+     — Hm! Rád by som sa s ním obznámiť a vidieť jeho práce.
+    </p>
+    <p>
+     — Vieš čo, to je najľahšie, pôjdeš k nemu, predstavíš sa mu, nuž a bude. Čože, veď nebýva
+      ďaleko, len za briežkom.
+    </p>
+    <p>
+     — Más pravdu, Miluška! — odvetil som. — Tak vykonám.
+    </p>
+    <p>
+     — No, pravdaže, — a pokračuje v obodrovaní. Poznať, že je rada, že vážnosť ma prechádza. —
+      A nemáš sa čo ostýchať. Pováž si, býva v rodičovskom dome, v drevenici, vraj nič nedajú na
+      pýchu. A o jeho žene žnice zo Skalného nevedia sa dosť nahovoriť a ju vynachváliť, aká je
+      vravná, priateľská. Ale teraz musím našim obed vyniesť do poľa, tak zostaň doma a dajže pozor
+      na dom, aby Cigánka — veď vieš. A kurencom tiež môžeš zrna hodiť. Tam je v slamienke. Ale aby
+      si nevysypal všetko. A trocha postoj pri nich, aby im staré nezozobali. No a na mačiatka tiež
+      nezabudni. Daj im trochu mlieka. Tam je v tej zelenej rajničke.
+    </p>
+    <p>
+     — A čo ešte? — a usmievam sa na mladú gazdinú.
+    </p>
+    <p>
+     — Ach, bolo by ešte všeličo, ale sa ti to bojím zveriť, keď si taký dáky. Nemôž’ na teba
+      nič zveriť. Veď vieš i predvčerom: Janíčko, reku, taže pozoruj, aby mlieko nevykypelo, musím
+      ísť napojiť teliatko. A ty, keď som prišla, tu už posýpaš popolom, čo ti vykypelo, a smrad a
+      dym len sa tak kudolil. Nuž čo s tebou?
+    </p>
+    <p>
+     — Veď je tak, čo môžeš, Miluška?! — zasmial som sa, — keď som už taký netrebný — nič zo
+      mňa.
+    </p>
+    <p>
+     — Ej, keby si len chcel. Ale, hľa, už zvonia, a ja ešte tu! Jaj, bože môj, — a utekala do
+      kuchyne rýchlo, pokládla do košíka jedlo a už pružným krokom ponáhľala sa do poľa.
+    </p>
+    <p>
+     Ja medzitým oddal som sa sladkému far niente. Skalný mi neschádzal z umu. Počul som ho
+      viac ráz spomínať. Jedni vraveli, že má talent. To boli tí chudobní. Iní zase, majetnejší,
+      pozerali naň s pohŕdaním, bo veď ešte nebol od sveta uznaný. Noviny nedonášali zprávy o „našom
+      slávnom krajanovi umelcovi“. Neboli istí, či nevydajú peniaze za necenné obrazy. A k tomu, keď
+      možno za lacný groš steny si zavešať lacnými, viacmenej podarenými kópiami slávnych maliarov,
+      nuž načo? A podporiť? To už, — veď keby to len tak! Ale tu treba, tam treba, a potom či sa to
+      vie, či bude z neho niečo, a či nie? Potom, ak sa ukáže! Hľa, veď sám dokazuje, že si netrúfa,
+      keď sa zahniezdi do malej dedinky, kde nič nevidí, ani do spoločnosti nejde. Nuž ako? A potom,
+      načo nám je maliar, vravel starší pán. Len by sme si mohli iných udržať! Maliar! To je luxus
+      pre chudobný národ. A vzdychol si smutne a prešiel si pritom tučnou bielou rukou zaokrúhlenou,
+      vyholenou briadkou.
+    </p>
+    <p>
+     Keď sa Milka navrátila domov z poľa, vybral som sa do Skalného. Už som bol na vŕšku. Podo
+      mnou sa rozprestierala v kotline dedina, nad ňou na protivnom briežku s ohromným dvojitým
+      dachom a štyrmi vežičkami, s červenými dutinami stál veľký kaštieľ Poľanských a neďaleko neho
+      stará, nemotorná, takmer štvorcová vysoká budova, sčernetá už od dávnovekosti. Pred touto
+      zelenali sa obrovské lipy. I táto patrila Poľanským. Z druhej strany v neveľkej dolinke
+      vyčnievala skromná veža Skalného. Ďalej na ľavej strane v širokej doline kde-tu zableskla sa
+      voda vrbinou lemovanej rieky a ešte ďalej za riekou vypínala sa reťaz vyšších, nižších hôľ,
+      ktorých kraj v diali dovŕšil ozajstný obor tohoto alpského pohoria. Na pravej strane tiež
+      čneli závalisté plešivé hole. Len hrebene im vyčnievali, bo ich spredu zakrýval celý rad
+      vrchov predhoria, ktoré sa vynímali v diaľke ako plásty v úle. Vôkol mňa vlnilo sa po lánoch
+      jasnožlté obilie, kde-tu pretrhnuté zeleným pásom ďateliny, jasnomodrým ľanom a takmer čiernou
+      vňaťou zemiakov. Vzduch bol teplý. Slnce hojne sypalo svoje lúče na zem a povetrie bolo čisté
+      a priezračné, takže i v diaľke už na zmodralých vrchoch dobre bolo rozoznať rysy, trhliny i
+      prehlbiny. Tichý, občerstvujúci vetrík zaváňal z hôľ. A ja, hoc nesčíselnekrát kochal som sa v
+      tom malebnom kraji, takže možno mi riecť, i teraz cele jasne mi je jeho obraz utkvený v duši,
+      kedykoľvek túhu a náladu cítim v sebe, vždy si ho predstavím v duši. Len oči zažmúriť a
+      upriamiť trocha myseľ, a už to ide. I teraz som pozastal, aby som sa napásol na tej krásnej
+      božej prírode. I stál som a hľadel som do diaľky na hole a končiare, na tú hojnosť farieb a
+      tôní, ktoré prechádzali do tmavomodra a tým stávali sa takými tajomnými. Zatúžil som byť tam,
+      poprechodiť sa po ich temene, nazrieť do tých brál, počuť hukot riavy, pocítiť tú velebu
+      hôľnej tichosti. Táto tak zbližuje s bohom! A popásť zrak v tých šírych, v diaľke miznúcich
+      krajoch. Pocítiť tú vyvýšenosť, keď vidíš pod sebou značné vrchy tratiť sa a krpatieť do
+      malichernosti sťa mravenčie kopence!
+    </p>
+    <p>
+     V pozorovaní prerušila ma vrava. Obzrel som sa i zazrel som dvoch pánov, blížiacich sa ku
+      mne. Starší mal na hlave široký slamený klobúk, mäkkú, s vyhnutým golierom košeľu, miesto
+      vesty širší opasok a ľahký, jasnej farby oblek. Jeho zdravá, ohorená tvár bola okrúžená trocha
+      červenkastou, do končita ostrihanou bradou. Jeho spoločník bol mladý, asi dvadsaťročný šuhaj,
+      štíhlej, vysokej postavy, počerný a podľa módneho strihu oblečený. Už takmer prechádzali popri
+      mne, keď ma ovládla túha pridružiť sa k nim. Na dedine necíti človek tú meravú odmeranosť.
+      Človek človeku je bližší, a preto je nie nič nápadného, keď sa jeden s druhým obznáme nanáhle,
+      neočakávane.
+    </p>
+    <p>
+     — Páni idú do Skalného? — spýtal som sa a pritom som ich i pozdravil.
+    </p>
+    <p>
+     — Áno, — odvetí starší a tázavo pozrel na mňa.
+    </p>
+    <p>
+     — Som Ján Dolina, učiteľ, — predstavil som sa.
+    </p>
+    <p>
+     — Jur Skalný, maliar, — odvetí starší.
+    </p>
+    <p>
+     — Ondrej Čmela, žiak na kresličskej škole v Pešti.
+    </p>
+    <p>
+     Podali sme si ruky.
+    </p>
+    <p>
+     — Som srdečne rád, pán Skalný, že ma náhoda s vami zviedla. Hľa, práve teraz som na ceste
+      navštíviť vás, bo už dávno cítim túhu poznať vás. Sme beztak susedia, cez leto bývam totiž v
+      Poľnej pri strýkovi, tiež Dolinovi.
+    </p>
+    <p>
+     — Teší ma, — a usmial sa prívetivo. — Ja chodím tiež každý deň do Poľnej. Tam maľujem.
+    </p>
+    <p>
+     — Viem, — skočil som mu do reči, — a bude ma tešiť, keď ma navštívite, ak budete mať na to
+      príhodný čas.
+    </p>
+    <p>
+     Zamĺkli sme.
+    </p>
+    <p>
+     O chvíľku Čmela, — tak sa zdá, — počal pokračovať v líčení života a práce v Pešti na
+      ústave kresličskom. Hovoril cudzou módnou rečou.
+    </p>
+    <p>
+     Skalný ticho, pokojne počúval, kedy-tedy odpovedal mu tiež na otázky v tej istej reči, no
+      tým cudzím výrazom, ktorým hovoria obyčajne ľudia, naučivší sa inú reč len v pozdejšom veku,
+      keď už niet tej pružnosti a ohebnosti ako v detskom veku.
+    </p>
+    <p>
+     Už pozorovaním prírody som bol tak naladený, že moja duša bola prístupnejšia k dojmom ako
+      obyčajne a citlivosť mi bola stupňovaná pri počutí rozhovoru Skalného s Čmelom, i cítil som
+      ostrý bôľ. Všetko zrazu zdalo sa mi také smutné. Ja sám pred sebou hanbil som sa a mrzel, že
+      len tak voslep obznámil som sa s cudzími ľuďmi. ,Ale tak ti treba,‘ robil som si výčitky, ,keď
+      sa pcháš, kde ti netreba. Hneď si robíš ilúzie, akoby bohviečo, nikdy nevieš rátať a myslieť
+      chladnokrvne, a preto tak často upadáš do takých sprostých položení.‘
+    </p>
+    <p>
+     — Ale, bože môj, či už všetky talenty, pošlé z nášho ľudu, musia sa vtopiť do cudzieho
+      mora? Či sme my nie vstave pri sebe udržať ani jedného? A tento tu, — a pozrel som na maliara
+      nepriateľsky, — ako len môže sa odtrhnúť od svojeti? Či ten ľud je už ozaj taký biedny, že sa
+      každý, vyjmúc pár jednotlivcov, odhodí, odcudzí od neho? Ale ako môže byť i umelcom, — myslím
+      si, — keď ho nepúta ani táto krásna príroda? Veď pochopiť ju, precítiť ju, vysloviť ju možno
+      len tými zvukmi, tou rečou, ktorá sa na jej lone zrodila a splynula dávno, veľmi dávno s tou
+      našou božou prírodou, takže sa stala jej nerozdielnou časticou i s tými spevmi, rozliehajúcimi
+      sa po jej hájoch a lúkach. — Nie, pravdu majú, nie je talent! — i zanevrel som. — Vráť sa
+      naspäť, — poťkalo ma, — čo budeš — nemusíš toto príkorie znášať.
+    </p>
+    <p>
+     Pri ceste žala trávu mladá nevesta. Čipkové limbačky bieleho čepca zakrývali jej k tráve
+      nahnutú tvár. Žala zručne a pritom si tíško spievala. Červený živôtok vykríkal jej spod bielej
+      kosičky ani divý mak spomedzi bielych králikov, a riasy tlačenej sukne zaševelili sa kedy-tedy
+      pri vánku vetríka.
+    </p>
+    <p>
+     Nezbadala nás.
+    </p>
+    <p>
+     — Ozaj, či sa jej prihovorí, — podumal som.
+    </p>
+    <p>
+     — Pán boh pomáhaj, Evička! — zavolal na ňu veselo a hlasno Skalný.
+    </p>
+    <p>
+     — Juj, či som sa vás zľakla! — a strmo vystrela svoju súmernú postavu.
+    </p>
+    <p>
+     Jej príjemná tvár bola uhorená a pritom zarumenená. Usmiala sa veselo i zvolala.
+    </p>
+    <p>
+     — Ale si to ty, Ďurko, kde si bol?
+    </p>
+    <p>
+     — Ja, Evička, len tu u susedov. Ale ti je teplo. Čo? — keď videl, ako si utiera pot z
+      čela.
+    </p>
+    <p>
+     — Ach, to je nič, — ponáhľam sa. Naši prídu domov, treba kravám i volkom hodiť, aby si
+      mali čo zachrumkať.
+    </p>
+    <p>
+     — A či uvládzeš? — žartoval ďalej, vidiac už hodnú kopu nažatej trávy na prestretej
+      plachte.
+    </p>
+    <p>
+     — No, to by bolo, aby nie! — a hlasno sa zasmiala.
+    </p>
+    <p>
+     — Zbohom! — privolal jej.
+    </p>
+    <p>
+     — I tebe! — ona za ním.
+    </p>
+    <p>
+     Odľahlo mi na srdci.
+    </p>
+    <p>
+     — Predsa je len nie odpadlík, — myslím si. — Hľa, ako vľúdne sa k nej prihovoril a ona ako
+      dôverne sa s ním zhovárala, ani mu len nedvojila. Zaiste rodina.
+    </p>
+    <p>
+     — No, pekne, — myslím si, — nedá si nadávať do veľkomožných, ako je to u nás v obyčaji, a
+      nehanbí sa za ľud. I to je vzácna vec!
+    </p>
+    <p>
+     Trocha obodrený stúpal som ďalej s nimi mlčky, počúvajúc ich rozhovor.
+    </p>
+    <p>
+     Onedlho priblížili sme sa ku Skalnému, dedinke to, akých vidíme na Hornej zemi na stá.
+      Drevené domky, pokrývané šindľom alebo snopkami, stáli husto vedľa seba. Prostriedkom dediny
+      tiekol potok. Fara na vŕšku i so školou, nad nimi trocha vyššie sa belel kostol. Tu dolu v
+      dedine asi naprostriedku stála krčma. My šli sme k hornému koncu, kde nás maliar voviedol do
+      dvora malého, no čistého a úhľadného dreveného domka.
+    </p>
+    <p>
+     Zastal predo dvermi.
+    </p>
+    <p>
+     — Vitajte u mňa, pánovia! — a usmial sa a pritom obrátiac sa ku Čmelovi, povedal: ,Zo
+      zdvorilosti k vám hovoril som rečou, ktorou ste ma oslovili. No v mojom príbytku budeme sa
+      zhovárať po našsky, svojsky.‘ Pritom pozrel na mňa milo, ako by sa tešil, že mi spôsobil také
+      prekvapenie.
+    </p>
+    <p>
+     I vstúpili sme dnu.
+    </p>
+    <p>
+     Voviedol nás do prednej izby.
+    </p>
+    <p>
+     — Vitajte u nás, — privolal nám veselo ešte raz. — Posaďte sa a prepáčte trocha, že sa
+      vzdialim. Chcem vás len mojej žienke predstaviť. Zaiste je za domom v záhrade.
+    </p>
+    <p>
+     Sadli sme si. Zvedavo poobzeral som sa po dosť priestrannej izbe. Celé zariadenie bolo
+      jednoduché. No silný, zvláštny nový dojem na mňa robilo. Po stenách maľované police, na nich
+      stáli menšie olejové už hotové obrazy i črty. Tu zase krčiažteky s hlinenými tanierikmi,
+      všetko maľované. Záclonky i prestieradlo na stole všetko samá slovenská výšivka. Stoličky s
+      vysokými operadlami, vyrezávané a vkusné vyhliadali ani ozaj na nejakom obrázku. Táto izba
+      sprvu zdala sa mi preplnenou, ale čím ďalej som pozoroval, tým viac sa mi pozdávala, tým viac
+      sa mi zdala vkusnejšou.
+    </p>
+    <p>
+     Čmela bol hneď hotový s pozorovaním. Uškrnul sa a poznamenal:
+    </p>
+    <p>
+     — Tak sa zdá, že mu nedochodí. Predsa v takejto diere bývať — po Mníchove, to je predsa
+      veliký rozdiel.
+    </p>
+    <p>
+     Nepríjemný dojem urobila na mňa jeho drsná poznámka. Už práve som chcel protirečiť, keď
+      vstúpila domáca pani i so svojím manželom.
+    </p>
+    <p>
+     — Vitajte, pánovia, u nás! — privolala nám zvučným, prívetivým hlasom. Tým srdečným,
+      čistým, nenúteným, pri ktorého počutí hneď vybadáš, že je to tón nie falošný, naštudovaný, ale
+      priamy, a preto pútavý. — Môj muž mi už vyprával o vás, — pokračovala pri obligátnom
+      predstavovaní, — ráčte si sadnúť, — a sama posadila sa k obloku.
+    </p>
+    <p>
+     Sú osoby, ktoré už na prvý okamih vzbudia príjemný pocit. Takýto vzbudila vo mne i Skalná.
+      Bola ona strednej postavy, ťahy tváre mala pravidelné, bola čistej, trocha počernej pleti. Čo
+      vzbudzovalo pozornosť, to boli jej krásne veľké, čierne oči. Vyrážali ony i hĺbku i živosť;
+      vôbec také oči, aké nám zvykli utkvieť v pamäti. Bola cele jednoducho oblečená. Jediná okrasa
+      jej tmavomodrých, drobnými bielymi kvietkami posiatych šiat boli biele čipky. Tieto krúžili
+      jej ružovasté hrdlo i plné, biele ramená úžiace sa do pravidelných malých rúk.
+    </p>
+    <p>
+     Často mi utkvelo v ume, že ženská je oveľa milšia, bližšia k dojmom, keď je oblečená v
+      čistom domácom, jednoduchom, no zato vkusnom obleku ako v nádhernom úbore, bo tu sa nám zdá
+      cudzou, vôbec cele inou osobou, len nie tou, s ktorou sa radi zhovárame, priateľstvo i lásku
+      nadpriadame.
+    </p>
+    <p>
+     Rozhovor sa medzi nami rozprúdil skoro. Utratil som hneď pri jej prvých slovách
+      ostýchavosť, mne už vrodenú. Cítil som sa cele voľným. Zdalo sa mi, ako by som sa zhováral s
+      dávnym dobre známym. Jej prívetivosť bola ďaleká afektovanej sladkavosti a naučenému výrazu
+      miloty i dobroty, ktoré obyčajne už či umnejšie či nemotornejšie sú nacvičené a patria k
+      takzvanému taktu a bontónu. No, tieto pozorovateľa urážajú ako falošný akord. A vtedy obyčajne
+      i jedna i druhá stránka oblečie na seba masku a po zvyčajnej návšteve i jedna i druhá stránka
+      si vzdychne: „Finita la commedia!“ A pretože sme uspokojení, áno, rozdráždení dojmami, nuž
+      povstáva potom z toho posudzovanie, ohováranie a konečne i klebety.
+    </p>
+    <p>
+     Skalný na žiadosť Čmelovu odviedol ho do zadnej izby, aby mu tam ukázal svoje kresby a
+      štúdie.
+    </p>
+    <p>
+     — Prepáčte moju smelosť, ale nemožno mi nevysloviť ten zvláštny dojem, ktorý spôsobil
+      pohľad na vašu domácnosť. Je taká prítulná, prirovnal by som ju s vtáčím hniezdom, kde musí
+      byť tak mäkko, tak teplučko. Zariadenie máte tiež také zvláštne, nezvyčajné.
+    </p>
+    <p>
+     — Chcete poznamenať, však, že pôsobí podivínsky…
+    </p>
+    <p>
+     — Uhádli ste, — vyznal som, — ráčte uznať, milostivá, že som zvyklý vidieť viac pohodlia.
+      Pravda, teraz z nášho učiteľského stanoviska nehľadím, bo my sme odjakživa zvyknutí na dve,
+      poťažne na poldruhej izby. Bočná izbička totiž nemôže sa rátať za celú. A tak my ozaj
+      obetúvame: ,Za tichý kút chalupy…‘ Nuž ale vy, prišlí z veľmesta, zo sídla umenia a krásy,
+      môžete byť v tomto čo ako milom, no stiesnenom mieste spokojní? Netlačia vás tie úzke rozmery,
+      tá nuda, ktorá povstáva pozeraním na tieže isté predmety?
+    </p>
+    <p>
+     — Nie, — odvetí ona a šťastný úsmev prelietol jej okolo úst. — My, totiž ja a môj muž, sa
+      držíme Hviezdoslava:
+    </p>
+    <p>
+    </p>
+    <p>
+    </p>
+    <l>
+    </l>
+    <l>
+     Nu, nie moc treba k žitia blahu,
+    </l>
+    <l>
+     len spokojnôstky, drobné veci. —
+    </l>
+    <l>
+    </l>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Tie úzke rozmery sú nám také prítulné, také, ako čo ste pádne porovnali, ako ozaj vtáčie
+      hniezdo. A potom nezabúdajme, že nie ustavičný pohľad na tie isté predmety nás tlačí. Veď sa
+      na ne tak navykneme, že ich takmer ani nevidíme. Tak ako čo nečujeme tlkot hodín. Len nech je
+      pritom vkus, istá súladnosť. I v tom najmenšom kútku môžeme si urovnať veci tak, aby oku
+      lahodili. A keď spozorujem, že je tento, lebo iný obraz nie v dobrom osvetlení, nuž preložím
+      ho na iné miesto, keď cítim potrebu nejakej premeny, trocha obnovenia, nuž to tak ľahko,
+      takými drobnými, nepatrnými prostriedkami, — povedzme, peknou kytkou zo sviežich alebo suchých
+      kvetín a tráv osviežim alebo obnovím si domácnosť. Verte mi, nie v prepychu, nie od pohodlia
+      záleží šťastie a spokojnosť. Nuda, zovšednelosť viac zavláda v palácoch preplnených pohodlím a
+      prepychom ako v jednoduchých domkoch. My chudobní ľudia, ľudia práce, nemáme času sa nudiť.
+    </p>
+    <p>
+     — Dovoľte, pravda, to vidím i ja, že spokojnosť a blaho sa usídlilo vo vašom stánku, ale
+      my ľudia sme už krehkí a obyčajne sa menia okolnosti…
+    </p>
+    <p>
+     Zvážnela, pochopila ma.
+    </p>
+    <p>
+     — Načo myslieť horšie do budúcnosti? Načo si kaliť prítomnosť? Či ešte nie celý život je
+      pred nami? Nie! O tom niet reči. Ale áno, my pracujeme i ukladáme si, viete časom tak — taký
+      hodne starodávny zemiansky dom mať, obtočený ozrutnými tônistými lipami i svrčinami a smrekmi,
+      a pomedzi ne kde-tu belela by sa štíhla breza. Ach, breza v mesačnom svetle, keď tak na ňu len
+      cez trhliny korún iných stromov padá svetlo mesiaca, pôsobí tak zvláštne, ako by sa tam víly
+      vznášali! Ó, hej, už sme si i vyhliadli, ale na to máme ešte času dosť potom, keď bude možné a
+      potreba väčší byt…
+    </p>
+    <p>
+     Zamĺkla na okamih, oči uprela do okna. Zdalo sa, že v duši prelietli jej obrazy už
+      nasnované do budúcnosti. Môžbyť, že už v duchu počula dupotanie malých nožičiek po kamennej
+      chodbovej dlážke a škripot kočíka po piesočnatom chodníku záhrady, bo oko sa jej zalesklo
+      akoby vlahou a sotva zbadateľný úsmev pohrával jej okolo sviežich, životom kypiacich úst.
+    </p>
+    <p>
+     — Aká je krásna! — zadumal som sa, nespustiac oka z toho vzácneho zjavu, keď môžeme
+      nazrieť do duše ženy.
+    </p>
+    <p>
+     Zbadala môj pohľad. Jemný rumeň vstúpil jej do tváre.
+    </p>
+    <p>
+     Aby som zahladil tiesnivú náladu, pokračoval som v rozhovore.
+    </p>
+    <p>
+     — Vtedy, keď sa vám túha splní, že budete môcť v starom zemianskom pohodlnom dome bývať,
+      samo sebou sa rozumie, že tieto poličky i stoličky maľované, ktoré sa tu tak pekne vynímajú,
+      zostanú tu, aby…
+    </p>
+    <p>
+     — Práve nie. Náš oboch cieľ je, aby naša domácnosť bola rýdzo slovenská, aby sa to
+      vyrážalo vo všetkom, tak i v náradí…
+    </p>
+    <p>
+     — Je to predsa nami tak opovrhovaný šovinizmus.
+    </p>
+    <p>
+     — Naskrze nie. Ja to práve za duševnú nutnosť považujem. Predsa sme údovia slovenského
+      národa a tak v nás sa má vyrážať pravý slovenský národný duch a ráz. Čím viac ho cítime v
+      sebe, čím sme viac presiaknutí ním, tým nám je príslušenstvo k nemu drahšie, tým viac sme
+      pútaní, áno, zviazaní s ním. Púha reč nedostačuje, pri nej samej môžeme zostať cele cudzími
+      národnému charakteru, tomu ozajstnému podstatnému. Čím viac sa ale budeme snažiť poznať a
+      osvojiť si slovenský ráz, ktorý sa javí v reči, v myslení, spevoch, v kroji, v slohu, tým
+      hlbšie poznáme náš ľud a zblížime sa s ním, čo nám je nanajvýš potrebné, ak nechceme úplne
+      zahynúť. Netyčnosť, nehybnosť, môžbyť nevšímavosť a nedostatočné pochopenie kynúcej nám záhuby
+      pri iných príčinách nachádzam práve v tom, že sme nie presiaknutí cele tým ozajstným národným
+      duchom, ktorý sa má javiť na každom našom konaní.
+    </p>
+    <p>
+     — Pozrite naše domácnosti; nerátajúc malé výnimky, majú istý stupeň internacionálnosti, bo
+      veď že sme v dome slovenského inteligenta, čože nás upomína? Nič. Najviac ak snáď nejaký
+      obrázok alebo diplom Muzeálnej slovenskej spoločnosti za rámom. Radi napodobňujeme cudzinu a
+      podceňujeme našské, a predsa náš národný sloh mohol by vytvoriť opravdivé umelecké diela i čo
+      sa náradia týče. Veď vezmime si len medziiným tie naše starootcovské skrine s ich rezbami,
+      maľovkami, nuž i tu uzrieme, čo máme. Len treba náš sloh do módy uviesť, žiadať, návod dať
+      našim remeselníkom a uvidíte, aké náradie povstane!
+    </p>
+    <p>
+     — Pekne je to, pekne, — hovorím, ale len nemožno žiadať, aby v salóne ani jednej mäkkej
+      pohovky nebolo a miesto kanapa aby stáli popri stenách maľované lavice.
+    </p>
+    <p>
+     — Vy ste hodne zlostný, pán môj! Ale váš úštipok neranil. Pohovka i vôbec tohoto druhu
+      náradie môže tak mať ráz národný, ako teraz majú ráz secesie, renesancie, rokoka alebo
+      miešaného, že sa v ňom vôbec človek nevyzná. Látka na nich tiež môže mať vzorku slovenskej
+      výšivky, nuž a ich drevený rám, prečo by mal postrádať slovenské motívy a rezby? Je to také
+      nemožné? Opakujem. Našim predným zámožným rodinám treba v tomto smere len počať, a už by sa to
+      šírilo. Veď my všetci radi napodobňujeme bohatých, nuž a tu by osožilo. A k tomu móda je
+      nákazlivá, ľahko sa ujme.
+    </p>
+    <p>
+     — Pekné sú vaše názory, — poznamenal som. — Ozaj krásne by to bolo, keby sme si naše
+      domácnosti podľa možnosti v našskom slohu zariadili. Ale vtedy by sme i o jeden krok ďalej
+      museli pokročiť.
+    </p>
+    <p>
+     — O aký?
+    </p>
+    <p>
+     — Ja myslím, že naše šatenie by sme tiež museli do súladu doniesť s našou domácnosťou.
+    </p>
+    <p>
+     — To sa samo sebou rozumie.
+    </p>
+    <p>
+     Usmial som sa.
+    </p>
+    <p>
+     — Nad čím sa smejete? Zaiste vám prišiel zase nejaký úštipok do umu?
+    </p>
+    <p>
+     — To asnáď nie, ale prišlo mi len na pamäť, ako by to vyzeralo, keby sme tak všetci v
+      ľudovom kroji chodili.
+    </p>
+    <p>
+     — Nebolo by konečne na tom nič zlého a smiešneho, bo keď vezmeme do ohľadu, že černohorský
+      kňaz a jeho manželka s hrdým povedomím nosí kroj svojho ľudu a i tým dokazuje prítulnosť a
+      súrastlosť so srbským národom, tak myslím, že by sme sa ani my hanbiť za to nemuseli. Ale ja
+      som tak ďaleko nemyslela…
+    </p>
+    <p>
+     — Nuž a ako?
+    </p>
+    <p>
+     — Pozrite. Ženská móda sa takmer každý deň mení, premeny sú v nej nesčíselné, ale pritom
+      sa často a nebadane prinavracuje k minulým vzorom. Či by slovenská inteligentná žena nemohla
+      uplatniť v svojich oblekoch istý náter slovenského národného kroja? Či by nemohla, keď už nie
+      iným spôsobom, teda aspoň našou výšivkou alebo ľudovou čipkou ozdobiť si svoj úbor? Pritom by
+      na zvláštnosti vyhrala, čo je vždy istá snaha pri nás, slabšom pohlaví. K tomu nebadane by sa
+      zblížila k ľudu, bo by i týmto bola nútená nielen bežne si všímať krojov pospolitých žien a
+      diev, ale ich i skúmať. Pomaly by sa jej vkus vyviňoval smerom národným a tak už i týmto činom
+      by vždy väčšiu prítulnosť a spolupatričnosť k ľudu pocítila, čo, myslím, sú veľmi cenné a
+      potrebné veci. Ale i ľud by mal viac dôvery, viac lásky k nám. Potom by bol ľahší prístup k
+      nemu. K tomu prišiel by i hmotný zisk, bo koľkým našim ženičkám poskytli by sme zárobok a tak
+      obľahčili im výživu, keby sme čím viac upotrebili miesto fabričných bezcenných čačiek ľudové
+      výšivky a čipky. Teraz, žiaľbohu, je u nás našim hmotným silám neprimeraný prepych v šatení. A
+      predsa je to nie na mieste, keď ľud trpí, keď ho riedi úžasné vysťahovalectvo, suchoty a
+      alkoholizmus. Vtedy prepych pestovať nielenže nemá zmyslu, ale je to hriešna bezcitnosť voči
+      týmto ranám národa.
+    </p>
+    <p>
+     — Ale, bože môj, veď len naše dámy nemôžu vždy v tlačeniciach chodiť a zase nemôžu vždy
+      flór nosiť či v zime, či v lete! A potom musíte uznať, že inteligencia jedného národa musí
+      niečo predstavovať, niečo európskeho preukázať, aby nás videli, poznali, že sme tu, že sme
+      kultúrny národ.
+    </p>
+    <p>
+     — Ak by sme mali len luxusom zastupovať, to by bolo veru veľmi smutne. A k tomu sa veľmi
+      mýlite, keď prepych stotožňujete s vkusom. Ten najväčší prepych môže urážať krásocit, kdežto
+      tie najskromnejšie šaty môžu vzbudiť pocit krásy, keď sa v nich vyráža istý súlad. Nezabúdajme
+      ale, že luxus vedúca inteligencia zanedbaného, chudobného, nešťastného národa je ako nová, z
+      ťažkej, drahocennej látky záplata na starom ošumelom obleku. Takáto tým viac sa líši, kričí,
+      no šatu ani nekrášli, ani cennejšou nečiní. Ten nešťastný prepych medziiným prekáža nám i v
+      oblečení sa s ľudom a k tomu i zlé príklady mu podávame, bo ho sami podnecujeme k prepychu.
+    </p>
+    <p>
+     — Dovoľte, ale ja predsa len to tvrdím, že my musíme imponovať.
+    </p>
+    <p>
+     — Komu? Židom asnáď a zemianstvu? Tých nepresvedčíme ani nenapravíme! A či asnáď pred
+      našimi chudobnejšími? Veď tým ich len odpudíme od seba, bo obyčajne necítia sa dobre v našom
+      kruhu, bo cítia neroveň a tak sa utiahnu a my zostávame sami, len pre samých seba. Nám treba
+      uplatniť sa tým, že pôdu, ktorú zemianstvo márnením utracuje, prevezmeme my, aby naša
+      starootcovská dedovizeň bola v našich rukách, aby sme ju udržali. Zastupovať budeme národ tým,
+      keď sa budeme snažiť šíriť vzdelanosť, umenie v širokých vrstvách národa, vôbec keď sa budeme
+      vyviňovať, prehlbovať duševne, národne i mravne. Ani nevieme, ako nás hatí v tom móda s jej
+      hrozným otroctvom. My mohli by sme vidieť odstrašujúci príklad v úpadku nášho zemianstva. Táto
+      vrstva bezumne utrácala svoje majetky, žila zo dňa na deň, napodobňovala aristokraciu, a teraz
+      čo vidíme? Spustnuté ich panské domy, z nejedného trčí koch pálenice a oni tisnú sa hladní
+      okolo úradníkov a pustnú hmotne i mravne. A táto nákaza i nás pochytila, hoci nie v celku, no
+      v značnej časti. Ale prepych nás hatí i v podporovaní našej literatúry a tak i v rozviňovaní.
+    </p>
+    <p>
+     — Ako?
+    </p>
+    <p>
+     — Jednoducho tak, že na svoju osobu vydáme toľko, že nám potom nedostačí na zaopatrenie si
+      našskej knihy. Miesto toho, žeby sme si za účel vzali podporiť, pozdvihnúť našu spisbu, aby
+      sme ju šírili, miesto toho máme na starosti napríklad, ako by sme si mohli zadovážiť desať,
+      dvanásťzlatové topánky atď., ktoré sa tak dobre hodia na naše skalnaté chodníky a blatnasté
+      ulice! Veru, každému povedomému členovi nášho národa, ak mu je len drahé jeho žitie a bytie,
+      malo by byť povinnosťou šíriť slovenskú knihu a tak umožniť vývin našej literatúry, lebo veru
+      je to pravda, že podľa hodnoty literatúry poznávame národ.
+    </p>
+    <p>
+     — Nezabúdajte, milostivá, že sme slabí, chudobní, malí.
+    </p>
+    <p>
+     — Literatúra národa nezávisí od množstva, ale od veľkosti jeho ducha. Boli a sú malé
+      národy, ktoré mali skvelú literatúru. Nejdime ďalej, len si pripomeňme grécky národ.
+    </p>
+    <p>
+     — Veru, — ozval som sa, — je to smutné, že my nemáme žiadnych podporovateľov literatúry,
+      aspoň nie opravdivých. U nás je to zriedkavý biely havran, ktorý by podporil hmotne našu
+      spisbu. Tak sa mi zdá, že v našom „modernom svete“ prestalo byť pútavým meno mecén.
+    </p>
+    <p>
+     — Kdeže by! — skočila mi do reči. — Keby sme si pre takú malichernú vec museli ukrátiť
+      pobyt v kúpeli o celý týždeň, alebo o jednu toaletu boli by sme chudobnejšie. Takú obeť? To
+      len nemôžeme žiadať!
+    </p>
+    <p>
+     Zamĺkla.
+    </p>
+    <p>
+     Ja som tiež sedel bez slova.
+    </p>
+    <p>
+     Nastala tichosť.
+    </p>
+    <p>
+     Sedela nehybne, pozerala pred seba. Husté, čierne riasy zakryli jej oči a biele ruky mdlo
+      ležali jej v lone. Hruď sa jej voľne dvíhala pri dýchaní. Všetko toto zračilo akoby ustatosť,
+      pokoj, len rumeň, rozliaty po lícach, svedčil o zápale, s ktorým ešte pred malou chvíľkou
+      hovorila.
+    </p>
+    <p>
+     Aby som pretrhol tichosť, spýtal som sa:
+    </p>
+    <p>
+     — Ak dovolíte, rád by som sa vás opýtať ešte niečo.
+    </p>
+    <p>
+     — Prosím, — odvetila ticho a pomaly pozdvihla ku mne oči akoby v polosne.
+    </p>
+    <p>
+     — To, že sa v lete tu v tejto malej, od sveta odlúčenej dedinke dobre cítite, to si viem
+      predstaviť, lebo veď okolie je tu pekné. Ale v zime, keď je deň krátky, len čo svitá a zapadá,
+      keď obloha je šedivými oblakmi zatiahnutá, keď to skučí, fičí vonku, necítite nudu,
+      opustenosť, nezažiada sa vám zúčastniť v mestskom ruchu?
+    </p>
+    <p>
+     — Nie, — odvetila pokojne.
+    </p>
+    <p>
+     — Hm! — bol som trocha zarazený tým pokojom. Myslel som si, že aspoň jeden utlmený vzdych
+      vylúdim z nej. A tu taký pokoj! Ako je to len možné? Asnáď sa len nepretvaruje?
+    </p>
+    <p>
+     — To mi je záhada, — pokračoval som. — Predsa tá samota, najmä keď váš manžel je nie doma,
+      musí pôsobiť na vás otupne.
+    </p>
+    <p>
+     — A z čoho to zatvárate, že som samotná?
+    </p>
+    <p>
+     — Nuž lebo tu krem kňaza a učiteľa nemáte nikoho, s kým by ste sa mohli stýkať.
+    </p>
+    <p>
+     Usmiala sa.
+    </p>
+    <p>
+     — Ani by ste nemysleli, akú hojnú spoločnosť som si zadovážila, tak že ani reči nemôže byť
+      o nude počas dlhých zimných večerov.
+    </p>
+    <p>
+     Pozrel som na ňu zadivene.
+    </p>
+    <p>
+     Tak sa mi zdalo, že ju tešilo moje zadivenie. I žartovne doložila:
+    </p>
+    <p>
+     — Aby som vás i naďalej nenechala v pochybnosti, nuž vám poviem, že naše ženičky, hlavne
+      ale naše dedinské dievčatá prichádzajú ku mne, alebo ja k nim a tak nudu zaháňame spoločne.
+    </p>
+    <p>
+     — Čo počujem? Je to možné? — zvolal som prekvapene.
+    </p>
+    <p>
+     Pozrela na mňa s nedorozumením.
+    </p>
+    <p>
+     — Už odpustite, — zvolal som, — ale vás nerozumiem.
+    </p>
+    <p>
+     — Prečo?
+    </p>
+    <p>
+     — Preto, že mi je veľmi čudné, ako sa jedna inteligentná žena môže zahrabať medzi ľud.
+      Predsa i to má hranice! Či vy poznáte, aký je ľud drsný, aký nedôverčivý, aký hrubý? Ako by to
+      mohla zniesť vo vyšších ústavoch zjemnelá, len za krásu zaujímajúca sa bytnosť? A potom na
+      svojskú, inteligentnú spoločnosť navyknutá, veru nemôže sa len tak ľahko navyknúť na prostý
+      ľud. Jej ducha to neuspokojí vždy len o zemiakoch hovoriť…
+    </p>
+    <p>
+     — Pane, — odvetila mi trocha rozdráždene, — ste však učiteľom?
+    </p>
+    <p>
+     — Som.
+    </p>
+    <p>
+     — Kde?
+    </p>
+    <p>
+     — Na dedine.
+    </p>
+    <p>
+     — Teda vaše deti sú zväčša sedliacke…?
+    </p>
+    <p>
+     — Áno.
+    </p>
+    <p>
+     — Ako učiteľ musíte byť v častom styku s ich rodičmi?
+    </p>
+    <p>
+     — Som. Prečo sa ma to spytujete?
+    </p>
+    <p>
+     — Dovoľte, hneď zviete. Teda keď ste v potyku s nimi, tak musíte poznať i ich živobytie i
+      ich kruh myšlienok?
+    </p>
+    <p>
+     — Dosť dobre.
+    </p>
+    <p>
+     — Nuž keď je tak, teda ten ľud len o zemiakoch rozmýšľa? Nemá on iné city, túžby,
+      žiadosti, strasti? — a pozrela na mňa s úsmevom, zvedavá súc, ako vybŕdnem z úzkeho.
+    </p>
+    <p>
+     — Ale čože by nemal. Pravdaže má! Ja keď som pripomenul zemiaky, s tým som chcel len
+      znázorniť užší, len sedliaka zaujímajúci kruh myslenia. Predsa len uznáte, že jedna vzdelaná
+      osoba nemôže nájsť záľubu v stýkaní sa s ľudom, bo veď sa to už s jej estetickým pocitom
+      nezrovnáva. Predstavte si teraz. Nech len vstúpi do jednej nevyvetranej sedliackej izby v
+      zime, najmä ráno. Nuž veď z nôh spadne od ťažkého, dusného zápachu.
+    </p>
+    <p>
+     — Veď práve preto je potrebné, aby sme sa stýkali s ľudom, aby sme my sami poznali jeho
+      nedostatky a medziiným i k čistému povetriu, k prevetrovaniu ho len tak naučíme privykať, keď
+      sami pocítime ten dusný morový vzduch. Len vtedy pocítime nad dietkami a chorými opravdivý
+      súcit a snažiť sa budeme rodičov a vôbec ľud presvedčiť o potrebe tohoto.
+    </p>
+    <p>
+     — Pekne sa to hovorí, ale ako to previesť? Mnoho som už i ja skusoval a vždy sa mi moja
+      snaha stroskotala. Nemožno s tým naším ľudom nič, je pritom tvrdošijný. Vždy mi povedali, keď
+      som im hovoril: nože toto alebo toto by bolo lepšie, — ale načo pán učiteľ, keď sme mohli do
+      týchto čias, môžeme i potom… Keď sme už tak navyknutí.
+    </p>
+    <p>
+     — To som už počula mnoho ráz i čítala v článkoch i vo veršoch. To je, otvorene rečúc, taká
+      stará pieseň, ako je samo ľudstvo. Vždy boli žaloby i také rozumovanie, ale tie pred pevnou
+      vôľou a pred dôslednou prácou neobstoja. Či sa musíme obrátiť len na starých, ktorí sú už
+      skostnatelí v svojich zvykoch? Mojžiš nechal ich vyhynúť na púšti a mladý podrast si vychoval.
+      Tak i my vplývajme na prístupnejšiu mládež. My ženy na devy a mladé ženy, vy mužskí na
+      mládencov a na mladých mužov. Len začiatok je ťažký. Keď už máte dvoch-troch verných učeníkov
+      a priateľov, — posledné slovo mocne prízvukovala, — je boj z polovice vyhratý! A keď máme
+      zopár rozumných žien v každej dedine, ktoré rady naše poučenie prijmú, nuž tieto zase
+      povzbudia iné. Aká je to krásna úloha slovenskej ženy pozdvihovať, poučovať, k ručným prácam
+      navykať naše ženy a tak i ich hmotné položenie im polepšiť! Verte mi, že náš ľud len do tých
+      čias cíti odpor k novým veciam, kým ich nepozná. Ale keď ich vidí zblízka a na inom uzná, že
+      je to osožné, nuž ich prijme vďačne.
+    </p>
+    <p>
+     Páčilo sa mi jej oduševnenie i presvedčivá reč, preto nadviazal som ďalej rozhovor.
+    </p>
+    <p>
+     — Veď by to bolo všetko dobre i pekné, ale ako pustiť naše jemne vychované devy a ženy k
+      ľudu, keďže tam výrazy sú často, veľmi často drsné a nanajvýš oplzlé, takže to sluch tak ľahko
+      nemôže zniesť.
+    </p>
+    <p>
+     — Pane môj! Dajme tomu pokoj! Jesto toho v inteligencii dosť, oj, dosť, keď i v krajšej
+      obálke, ale tým škodlivejšie. Hrubosť sedliaka ohľadom pohlavných vecí nie je taká nebezpečná,
+      taká škodlivá, ako jemné, duchaplné dvojzmyselnosti. Potom veľká časť umenia a kníh, tých
+      nešťastných kníh, viac škody mravnej i zdravotnej urobili ako všetky hrubé reči nižšej vrstvy.
+      A konečne aby som sa vyslovila. Tých, ktorí sa posvätili k niečomu vznešenejšiemu, k veľkej
+      idei, šľachetnému cieľu, nechytá sa špina. Oni vysoko stoja nad úrovňou všeobecnosti. To by mi
+      bol lekár alebo kňaz, ktorý by sa štítil ísť k ťažko chorému v nákazlivej nemoci postavenému!
+      To je práve tá vznešenosť, to je práve tá šľachetnosť, to je ten cieľ životný, za ktorý je
+      hodno žiť! A my, slovenské ženy, máme mať toľko mravného vyvýšenia!
+    </p>
+    <p>
+     — Uznám, že jesto výnimky, i ženy, ktoré sa môžu obetovať záujmom ľudu, ale to predsa
+      nemôže každá.
+    </p>
+    <p>
+     — Prečo?
+    </p>
+    <p>
+     — Nuž jednoducho preto, že väčšina má dosť práce so svojou rodinou, s výchovou svojich
+      detí, menšina predsa musí ale rolu hrať. Veď je to tiež účel.
+    </p>
+    <p>
+     — Máte pravdu ohľadom prvých, ale len čiastočne. Žena, majúc rodinu, má mnoho práce,
+      zamestnania v domácnosti i s deťmi, ale zato všetky môžu vplývať i na iných. Naše účinkovanie
+      nemusí sa vzťahovať na masy alebo, povedzme, na celú dedinu, keď nám domáca zaujatosť
+      nedovolí, ale predsa môžeme účinkovať i na jednotlivé osoby. Vezmime hneď naše slúžky. Myslím,
+      že i z kresťanského i z národného stanoviska máme isté vyššie povinnosti i proti nim. Nemáme
+      ich považovať len za platený nástroj, ktorý nám koná istú službu, ale máme hľadieť na ne ako
+      na bytosti ľudské, nám blízke, ktoré tiež majú dušu, a nezabúdajme, že sú tiež príslušnice
+      ľudu, z ktorého i my pochádzame. Na tieto už len máme toľko času, aby sme vplývali na ich
+      dušu, aby sme ich viedli, poučovali, a čo je hlavné, i starali sa o ne a bránili ich od
+      mravného úpadku. Časom sa oni vydajú, budú matky, povstanú z nich rodiny. Takýmto činom koľko
+      rodín môžeme vychovať? A ešte niečo. V každej obci a meste vždy sa nájde zopár dobrých žiakov
+      a žiačok z ľudu, ktorí sú hodní toho, aby sme ich pritiahli k sebe, vplývali na nich, poučili
+      ich, chuť do čítania, k samovzdelávaniu v nich vyviňovali. Bola by to práca vážna, do nášho
+      života hlboko siahajúca. Neodťahujme naše deti od sedliackych detí alebo od remeselníckych.
+      Nech sa ony ihrajú, nech sa priatelia vedno, ale dozerajme na ne. A tu máme príležitosť hravo
+      poúčať deti z ľudu a naše deti naúčať k váženiu a milovaniu ľudu. Čo sa ale tých druhých týče,
+      ktoré za cieľ životný vytkli si len rolu hrať, nuž tie možno len poľutovať. Také ženy ani len
+      pochopu nemajú o vznešenom cieli ženy, ich život je prázdny, preplnený hlúpymi formalitami,
+      daromnými čačkami, nespokojnosťou a konečne sklamaním. Taká žena je nešťastná, bo nevie
+      vydobyť si hlbšiu lásku a úctu — tú úctu, za ktorou baží. Môže, pravda, vzbudiť závisť,
+      žiarlivosť, obdiv, ale to všetko len na krátky čas, bo konečne predsa nie je vstave zakrývať
+      prázdnotu ducha a chudobu citu. V tom zmýlenom pochopovaní života väzí medziiným príčina, že
+      máme mnoho rozháranosti v našej spoločnosti.
+    </p>
+    <p>
+     — Krásne, presvedčivo hovoríte, ale predsa je to ťažká úloha a taká namáhavá. Predsa nie
+      sme všetci stvorení na to a k tomu je to tak otupne zahrabať sa s ľudom.
+    </p>
+    <p>
+     — Kto to smie povedať, že je to otupné? — rozhorlila sa. — Nie, pane môj, odpustite, ale
+      vy ako učiteľ musíte vedieť, že výchova iných je, pravda, ťažká, ale nie otupná práca. Či vás
+      nepúta pozorovať duševný vývin dieťaťa vám zvereného? Ako sa v ňom vyviňujú city, reč,
+      pozorovanie, šíri sa úsudok; vôbec ako rastie pred vami človek? Tak je to i s potykom s ľudom.
+      A potom, verte mi, dobrá je i premena. Vždy stýkať sa s inteligenciou je tiež únavné. Veru i
+      my skoro vyjdeme zo zaujímavej látky a i v našej spoločnosti dosť prázdneho a jalového. Veď sa
+      už poznáme skrz naskrz a i keď nový príde medzi nás, už ho vieme vradiť, a to presne, do
+      ktorej triedy patrí, ako botanik, bo ho už po jeho mluve a frázach poznáme. Nuž dobre padne i
+      s človekom pospolitým sa obznámiť. Mnoho nového a pútavého môžeme počuť, len treba vedieť kôru
+      nedôvery ľudu prelomiť a tak sa dostať k jadru. Kto sa blíži len zo zábavy, len z istej pasie,
+      aby i on si zahral a zalichotil si, že on tiež skusoval orať na „národa roli dedičnej“, ten
+      nikdy nedocieli úspech, ale mávne rukou po prvom, najďalej po treťom nezdare a vzdychne
+      žalostne: ,Všetko namáhanie je daromné, bo náš ľud je nevďačný, nedvižný.‘ Ale tí, ktorí majú
+      sily vytrvať a nedajú sa sklátiť zdanlivými neúspechmi, tí konečne dosiahnu svoj cieľ a stanú
+      sa osožnými činiteľmi nášho národa.
+    </p>
+    <p>
+    </p>
+    <p>
+     Dvere sa otvorili a Skalný s Čmeľom vstúpili dnu. Rozhovor náš bol pretrhnutý. Počal sa o
+      maliarstve, no dlho netrval, bo sa začínalo večeriť a my sme sa pobrali domov. Od tých čias
+      som ju viac nevidel.
+    </p>
+    <p>
+     Takto dokončil môj priateľ svoju rozprávku.
+    </p>
+    <p>
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+    </p>
+    <p>
+     Medzitým nastala tmavá noc. Okolo horiacej lampy bolo napadané plno mušiek a drobných
+      nočných motýľov, ktoré vábené svetlom lampy udierali sa o horúce sklo a padali mŕtve a opálené
+      dolu. Chvíľku sme i ešte posedeli, každý pohrúžený do svojich myšlienok, až zrazu ozval sa
+      tlkot vežových hodín, oznamujúc polnočnú dobu. Tíško sme povstali a šli na nočný
+    odpočinok.
+    </p>
+   </div>
+  </body>
+ </tei:text>
+</tei:TEI>

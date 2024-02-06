@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885475" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Výlet na "Chmeľovú" : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:306138977">
+     Svoboda, Anton Dobroslav (1861-1922)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     4944
+    </measure>
+    <tei:measure unit="pages">
+     11
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:306138977">
+      Svoboda, Anton Dobroslav (1861-1922)
+     </tei:author>
+     <tei:title ref="ISSN:1335-7786">
+      Výlet na Chmeľovú
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské pohľady
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Výlet na „Chmeľovú“
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Bol krásny augustový deň. Slnko v celej majestátnosti vy-
+        stupovalo práve na najvyšší stupeň svojej dennej slávy, zasielajúc
+        odtiaľ horúce lúče na zem, akoby chcelo zaprieť pravdivosť toho
+        príslovia: „Do Ducha nevyzliekaj kožucha, a po Duchu zostaň zas
+        v kožuchu!“ keď uberal sem sa prachom vykladanou cestou
+        zM. do P.
+   </tei:p>
+   <tei:p>
+    Cestu tú premeral som bol už predtým viacráz za poldruhej,
+        najviac za dve hodiny, teraz však trvala mi vyše troch hodín, a
+        pret prijdúc na dvor pána Š —y, ku ktorému som sa bol vybral,
+        cítil som, že mi znoj po celom tele „cícerkom“ tečie.
+   </tei:p>
+   <tei:p>
+    Na dvore som našiel zamestkuanú domovú paniu. Pozdraviac
+        ju, zamenil som s ňou niekoľko slov, a, keď mi na moju otázku,
+        či je pán Š—y doma? odpovedala: „Však vedia, že teu vžily v kni-
+        hách a papieroch sedí: nech sa len ľúbi!“ — vošiel som do domu.
+   </tei:p>
+   <tei:p>
+    „Pán Boh pomáhaj!“ tymi slovy som vytrhol môjho bývalého
+        „principála,“ sediaceho za znionom, z jeho pohrúženia.
+   </tei:p>
+   <tei:p>
+    „Hľa, hľa! nuž čože tento tu chce?!“ tak znela odpoveď a
+        privítanie môjho priateľa.
+   </tei:p>
+   <tei:p>
+    Mnohému by snáď hodný klinec boly vrázily do hlavy tieto
+        slová, no ja som ani najmenej neprišiel do rozpakov, poneváč som
+        bol k podobnému prijatiu zvyknutý, a tak aj prichystaný. (Tak
+        prijíma obyčajne ľudí, ktorí nečakano, avšak vhod prichodia.) Preto
+        bez okolkov predniesol som svoju záležitosť.
+   </tei:p>
+   <tei:p>
+    „Prišiel som — hovorím — pre Vás, aby ste sa náhodou ne-
+        zabudol doma a nevystal z projektovaného výletu.“
+   </tei:p>
+   <tei:p>
+    „No, to je zas inšie. Teda vítajte, a sadnite si! Kým si trochu
+        oddýchnete, budeme drkotať, a potom pôjdeme.“ Na to vstal, složil
+        okuliare, a potrasúc mi srdečne rukou sadol si ku mue.
+   </tei:p>
+   <tei:p>
+    Dobre mi padlo, nie tak chôdzou, ako horúčosťou unovanému
+        posedeť a vonkajší dušný vozduch s milochladivým izbenným za-
+        meniť.
+   </tei:p>
+   <tei:p>
+    Medzi rozhovorom rožličného obsahu ukázal mi aj predmet
+        svojho pohrúženia, z ktorého som ho len pred chvíľou vytrhol.
+        Boly to praeludia chýrnejších skladateľov, zväčša Pihrerové. Pán
+   </tei:p>
+   <tei:p>
+    25
+   </tei:p>
+   <tei:p>
+    384
+   </tei:p>
+   <tei:p>
+    y i jako organista-učiteľ na odpočinku kedy tedy rád zabaví sa
+        so svojím milým predmetom — hudbou.
+   </tei:p>
+   <tei:p>
+    Chvíla plynula, ako sa hovorí, „na vidom oči,“ a nám bolo
+        treba pomýšlať na odchod. Odobrali sme sa teda a tiahli k obci
+        S. Poneváč sme si však chceli cestu zkrátiť, neišli sme hradskou,
+        lež krížom cez prázdne role. v
+   </tei:p>
+   <tei:p>
+    "Letnie poľné práce boly odbavené, nevideli sme teda nikoho,
+        vyjmúc jednoho eliensa sy. Huberta, ktorý taktiež blúdil poľom,
+        ako my, len že, pravda, jeho cieľ bol iný. Jedon „operenec“ a je-
+        den „ušiak“ obťažovali jeho poľovnícku kapsu. Asi po trištvrti-
+        hodinovej ceste boli sme pred S.
+        Idúc okolo prvého domu, 0
+   </tei:p>
+   <tei:p>
+    nás nemilým zápachom pre-
+   </tei:p>
+   <tei:p>
+    plnený vozdueh, z ktorého by Kysučan uzatváral,
+        dáva. „šahovica,“ čo dakde u honvédov i „fató lépés“-om menuj
+   </tei:p>
+   <tei:p>
+    Jeho domnenie, z logich
+        videl —- tak ako ji
+        Ráchel“ (ktorej plecia už kdes
+   </tei:p>
+   <tei:p>
+    konsekvéncie pošlé, by sa utvrdilo, keďby
+        astie (!) — v obloku stáť „krásnu
+        najmenej sedemdesiatka môže tlačiť),
+        akým zvedavým okom meria cudzinca a usiluje sa mu nazreť nie-
+        len do tváre, lež aj do žalúdka a do —- vačku,
+   </tei:p>
+   <tei:p>
+    Na stene ol dediny je vyvesená „firma“ s nápisom: „tu je
+        Latzni trunes,“ a dvoma machuľami chcejúce predstavovať sklenice,
+        čo iste sám majiteľ babral. Vidno na tom židovskú pedanteriu
+        ohľadom na orto- a kaligrafiu, a vôbec na krasocit.
+   </tei:p>
+   <tei:p>
+    Vnútri bolo ticho, teda iste aj prázdno. Za to však ďalej v de-
+        dine bol živý ruch.
+   </tei:p>
+   <tei:p>
+    V jednej zahrade pod bohato obrodenou slivou vidno kýdeľ
+        detí. Chlapec, medzi nimi uajväčší, imponuje ostatním. Hja! vážnu
+        osoba. Vyslaný je od roličov, aby ovocie varoval. V povedomí svo-
+        jej moci hodí tu i tu s milostivý pohľad na daktorého dobro-
+        voľného spoluvarovč iaceho 0 „audienciu,“ a podá za hrsť
+   </tei:p>
+   <tei:p>
+    a kil
+        ovocia. Ostatní vidiac, že ten neklopal nadarmo, použijú prajný
+        j tej „akcidencie,“ bárs každému
+   </tei:p>
+   <tei:p>
+    sa É
+   </tei:p>
+   <tei:p>
+    okamih a domáhajú sa ti
+        príde neraz zavolať: „Ondr
+   </tei:p>
+   <tei:p>
+    Vo vedľaj zahrade j
+        svojich grošových nožíkov, ktoré zväč
+        stali, a cvičia sa v umení rezbá
+        sa pokojno vajú. Iste už vyhoveli požiadavkám žalúdkovým.
+   </tei:p>
+   <tei:p>
+    Na preddomiach vidno grappy po 3 žien, ktoré — che:
+        použiť pekuého času — trepú konope usilovno, sťa 0 závod.
+   </tei:p>
+   <tei:p>
+    Tam zo stodôl zas ozyva sa hlas cepového kvartettu, (Gazdovia
+        mláťa: ten „na chlieb,“ ten zas na „porcie.“
+   </tei:p>
+   <tei:p>
+    Pr sme dedinu.
+   </tei:p>
+   <tei:p>
+    Hneď za ostatným domom stojí pätou do múru opretý výšok,
+        ktorý zastáva povinnosť panciera, lebo chráni dedinu pred „seve-
+        rákom.“ Na vfšku stálo dievča a páslo statok. Spievalo pri tom
+        svoju melancholickú pieseňku. Neviem prečo, ale po očutí tej piesne
+        zmocnila. sa ma akási trudnomyseľnosť. Zadumal som sa. Žo za-
+        dumenia tohoto vytrhol ma páu Š—y, upozorňujúc ma na krásu
+        neďalekej boriny.
+   </tei:p>
+   <tei:p>
+    chlapci zkúšajú
+        a sub titnlo „jarmočné“ do-
+        3 dievčence a menší chlapci
+   </tei:p>
+   <tei:p>
+    1 „385,
+   </tei:p>
+   <tei:p>
+    Nežný vetrík zabídol vo svojej samopašnosti hneď do jednoho,
+        neď do druhého vreholca. Títo pokojamilovní obyvatelia skalín
+        vyhýbali mu síce dľa možnosti, preds však podarilo sa mu uko-
+        vystiť niekoľko voňnvých bozkov, ktoré on potom rozdával ďalej
+        tomu, koho vôbec dohonil, lebo stretol. Dostalo sa i nám.
+        hlo míňal sa medzi rozhovorom, no poneváš sme jednu
+        nohu vždy napred potískali, ubývalo i cesty. Došli sme do K.
+   </tei:p>
+   <tei:p>
+    K. je neveľká dedinka, obtočená kol dokola vrchami rozličnej
+        výšky a podoby. Jedon jediný otvor slúži obyvateľom za východ
+        z toho hrozitánskeho, prirodzeného kotla. Dolina jej, bárs nie dlhá,
+        má, toľko vody, že je v stave mlyn hnať.
+   </tei:p>
+   <tei:p>
+    V dedine bolo ticho. Obyvatelia boli zaneprázdnení so žatvou
+        na vfškovych roľacl. Všetky možné nástroje, ktoré so svojím šro-
+        iotom obyčajne spoluúčinkujú pri dedinskom sextettovom sbore -—
+        pausovaly. Mlyn mal soto — šesť-osminové allegro. Melodia bola
+        síce monotonná, no takt držal výborne. Kedy-tedy zapísklo i koleso
+        hlasom rozladeného klarinette. Vyplňovalo hamnoniu.
+   </tei:p>
+   <tei:p>
+    Idúc dedinou, vybehoul tu i tu proti nám dajedon doma ne-
+        chaný duučo a „ohavne“ sa dával do nás, chcel nám snáď ukázať
+        zpiatočnú cestu, ktorú sine my i tak dobre znali. No, keď videl,
+        že na jeho velenie nebárs mnoho dávame. utiahol sa zpiatky do
+        svojej búdy a začal znovu požívať „siestu,“ z ktorej bol nami vy-
+        trhnutý
+   </tei:p>
+   <tei:p>
+    Tahli sme k horuiemu mlynu, bo, dľa ushovorenia, tam nás
+        mal čakať môj otec s priateľom S-—kom.
+   </tei:p>
+   <tei:p>
+    Na dvore nás privítal domový strážca „búday.“ Môjho spoloč-
+        níka vzal až pod veľmi prísnu kritiku, moja prítomnosť ho však
+        aspoň čiastočne uspokojila. (Tam dnu nás ale čakalo prekvapenie.
+        Nenašli sme nikoho. Museli sme teda začať „prehľad.“ Chodím
+        po celom dome, po zahrade, hľadám dakoho, sťa hlavnomestský
+        policist anarchistov, no — darmo. Konečne prišla domová pani sama.
+   </tei:p>
+   <tei:p>
+    „Bol tu otec?“ pýtam sa.
+   </tei:p>
+   <tei:p>
+    „Boli tu,“ hovorí ona, „ale zunovali to dlhé čakanie: išli do
+        dolnieho.“
+   </tei:p>
+   <tei:p>
+    „Keď je tu, teda je dobre,“ hovorí pán Š—y: „už sa len akosi
+        shľadáme.“
+   </tei:p>
+   <tei:p>
+    My sme ho však neišli hľadať, lež sme si sadli, mysliac, aby
+        nás hľadal on, keď tu už i tak dosť dlho postával.
+   </tei:p>
+   <tei:p>
+    Aby nám ale — vraj — čas nebol dlhý, predložila nám domáca
+        ui čosi pod zvby. Čo bolo, už neviem, len na to sa rozpamätám,
+        boly v súisedstve aj „srdočné kvapky.“ A veru sa nám sišlo
+        potúženia, bo najväčšia úloha nás len teraz čakala, dostať sa to-
+        tižto do Podbradia. Dali sme sa s chuťou do práce, ale ešte sme
+        5 pánom Š—y sotva „fundament“ založili, prišiel otec, a hneď za
+        ním i priateľ S—k.
+   </tei:p>
+   <tei:p>
+    fzba oživla. Každý rozprával (vynímajúc toho, ktorý jedol) ta-
+        kým oceľovým hlasom, že sa inlynský hrmot celkom do úzadia
+        musel utiahnuť. Tešili sme sa, že dávno ukovaný plán konečne
+        chýlil sa k uskutočneniu. Reč tiekla voľno o tom, i 0 tom, a bez
+   </tei:p>
+   <tei:p>
+    25+
+   </tei:p>
+   <tei:p>
+    I
+   </tei:p>
+   <tei:p>
+    386.
+   </tei:p>
+   <tei:p>
+    mála by sme sa boli dali snáď do rozberania otázky, „či je chrúst
+        smrteľný?“ keby nás aeboly hodiny upomínaly, že treba odbíjať.
+   </tei:p>
+   <tei:p>
+    Poďakovali sme teda za priateľské pohostenie a brali sa hore
+        vrchom ku nášmu cieľu.
+   </tei:p>
+   <tei:p>
+    Cesta to nebola práve najľahšia, zvlášte pre našich dvoch sta-
+        rých. Núdzne sme sa vyškriabali nad háj . Šiarovúz“ tam sme si
+        chvíľku oddýchli. Mohli sme to urobiť, veď to bol už podhradský
+        chotár. Tu začujeme pleskot biča, a hneď za tým, akoby z neba
+        spadly, objavily sa nám voly s ojom, pravda že za tým bol i voz.
+   </tei:p>
+   <tei:p>
+    Boli sme na roľach prvej triedy. Hneď vyše tých sú druho-
+        triedové, ktoré nikdy pluh neoral. tli by sa na to odvážil da-
+        ktorý gazda, aby tam oral, mohol by popredku i poručenstvo písať,
+        i voly mäsiarovi predrť, 0 iste by sa pry zkotúlal i so svojou
+        zápražou Boh zná jak 0, akoby prvú brázdu pretiahol. Keďby
+        sa mu to konečne aj dajakým čarodejným spôsobom podarilo, zem
+        pluhom pohýbanú by musel a dvadsiatej parcelly na chrbte
+        zpiatky nosiť. Pritom: všetkom však tam a obilie obstojné, lebo
+        čo príroda oduahla, to pracovná ruka pilných gazdov vynahradí.
+   </tei:p>
+   <tei:p>
+    Zotmievalo sa rupídno , my ale vidiac, že sme už blízo k cieľu
+        tohodennej cesty, a pritom aj dosť ustatí, kráčali sme — ako sa
+        hovorí — len „z kroka na krok.“
+   </tei:p>
+   <tei:p>
+    Dedina. cez deň tichá začala ožívať. Z poľa prichodiace devy
+        spievaly, výskaly, na čo jim za každým z protivnej strany odveta
+        prichodila, až hory hučaly Milo mi padlo počuť krásne oceľové
+        hlasy hôrskych diev, preto som navrhol, aby sme držali malý od-
+        počinok. Neprotestoval nikto, urobili sme k ma mohol každý po-
+        čúvať a obdivovať to, čo sa mu najviac páči
+   </tei:p>
+   <tei:p>
+    Keď sme sa už dosť nakochali v milom fa odhodlal som
+        sa dať našim speváčkam „revanche.“ Vytiahol som teda „ocarinu“
+        a zapískal trávnicu, tam neznámu. Ostrý hlas ocariny mocne od-
+        rážaly nebotyčné skaliská, následkom čoho tým väčšmi pôsobil dolu.
+        Po prvých zvukoch nastalo dokola ticho, akoby bolo všetko one-
+        melo. Ja neprichystaný na. to, s mojím čriepkom taký dojem
+        vzbudím, nielenže som začal „da capo,“ lež zanôtil som ešte jednu,
+        ktorá. keď odznela stúpali sme do dediny.
+   </tei:p>
+   <tei:p>
+    Zložili sme sa v hostinci, pre obec od hradskej vzdialenú dosť
+        poriadnom, a dali prichystať v , ktorú sme si boli už pred-
+        bežne rozkázali. Kým sa však večera schystala, pozapaľovali sme
+        sia ma „základné“ po poháre piva vypili. Medzitým sa obily
+        plány na ráno. V tom začujem hlas známeho mi gazdu, pýtajúceho
+        sa hostins
+   </tei:p>
+   <tei:p>
+    „Neprišli ešte tí páni?“
+   </tei:p>
+   <tei:p>
+    Tá však mu nestačila dať odpoveľ — stál som pri ňom.
+   </tei:p>
+   <tei:p>
+    „No, pekne jich vítam! Už som myslel, že ani neprijdú!“
+        „Tu sme, tu,“ hovorím, „len poďte medzi nás. Trochu si za-
+        večeriame a hneď pôjdeme na nocľah.“
+   </tei:p>
+   <tei:p>
+    Zdráhal sa síce, že čoby on medzi „pánov“ atď., no zahrmel
+        som mu takú „jazernú, javorovú,“ a už bol v bočnej izbe.
+   </tei:p>
+   <tei:p>
+    Musím podotknúť, že hostinec ten, pre tesnosť miesta, nepri-
+   </tei:p>
+   <tei:p>
+    lu ať ae
+   </tei:p>
+   <tei:p>
+    Júma na noc hosťov. Po: som teda spomenutého už gazdu
+        0 nocľah na sene, čo on s veľkou ochotou prisľúbil.
+   </tei:p>
+   <tei:p>
+    Večera bola nastolená. Zbadali sme síce na nej akési nedo-
+        statky, no pán „virkli obrkuchár,“ hlad, pridal k nej trošku hre-
+        híčkového korenia, šafranu, ďambieru a Boh zná akého ešte korenia.
+        tej najťajnejšej sorty a tým ju uhladil. Že takto praeparovaná dosť
+        dobre chutnala, samo sebou sa rozumie.
+   </tei:p>
+   <tei:p>
+    Vyhoviac požiadavkám žalúdkovým, museli sme teda aj duchu
+        a ostatným čiastkam tela dopriať toho, čo od nás požadovaly —
+        odpočinku: tým viac, lebo ráno, poneváč sme chceli videť východ
+        id, treba nám bolo ozaj včasne vstať.
+   </tei:p>
+   <tei:p>
+    Zamechali sme hostinec a išli na nocľah.
+   </tei:p>
+   <tei:p>
+    V dome nášho gazdu všetko spalo. Medzi plné dechy zdravých
+        pís zamiešal sa kedy-tedy kusý akkord monotonnej piesne domá-
+        ceho čvrčka, ktorá však spiacich ani najmenej nevytrhovala zo sna,
+        ba tak chutno spali, akoby bola lu ástoj nkoliebavky. &gt; Zložili
+        sme, čo nám nebolo treba, a išli za gazdom, ktorý nás viedol na
+        poval. Kráčali sme hore rebríkom jedon za drahým, a aby sme
+        daktorý štebeľ navynechali, radšej sme na každý dvaráz stali. Ne-
+        chýbälo pritom ani na veselých poznámkach. Mesiac musel mať
+        z nás radosť, lebo sa dosť spokojno uškľaboval.
+   </tei:p>
+   <tei:p>
+    Keď pocítily nohy, nos A uši, že sme už na sene, hľadal každý
+        najpríhodnejšie miesto (len tak nazpäumäť, po tme), kde by sa mohol
+        do rána pretiahnuť.
+   </tei:p>
+   <tei:p>
+    Prikryvadiel nebolo
+   </tei:p>
+   <tei:p>
+    yt, pomáhali sme si teda tak, že sme
+        nasledovali. príklad sysla. Čo ten v zemi, to my v sene. Zahrabal
+        sa každý až po nos, a tým bol poistený pred zamrznutím. Tak
+        dobre som sa cítil v mojom „brlohu,“ žeby som nebol čaroval ani
+        nevieni s akou zrófskou posteľou. Drobné vrehové seno, mäkké sťa
+        hodbáb, rozširovalo vôňu príjemnejšiu než všetky „parfiimy,“ „mo-
+        šusy,“ a kto zná aké ešte voňavé darobnice.
+   </tei:p>
+   <tei:p>
+    Ležal každý, no zaspať nebolo tak ľahko ako ľahnúť. Vše-
+        obecné dobré naladenie dosahovalo najvyššieho stapňa. Vtipy, po-
+        známky, žarty nechcely prestať. T.ež každej piesni koniec. Strýko
+        »Morpkeus“ zunoval to dlhé šomranie, poslal tedy svojich sluhov,
+        ktorí nás všetkých na neviditeľných reruťach zaniesli do lona svojho
+        veliteľa.
+   </tei:p>
+   <tei:p>
+    + s
+        T
+   </tei:p>
+   <tei:p>
+    Prvé červánky rannej zory pozobúdzaly kohútov, a títo zo svo-
+        jich „hambalkov“ zas ľudí, ktorým slúža za časomer. Z večera som
+        myslel, že v dome ešte všetci budú spať, keď my už polezieme
+        hore vrchom. Úmysel pekný, no náš gazda nás predišiel a aj zo-
+        budil. Nebolo treba ani jednoho dvíhať, Imeď bol každý von zo
+        svojej diery, ako Lomidrevo, keď sa na holohumnici so šarkanmi
+        pasoval. Posberal každý čo kde mal (mne, ako najmladšiemu, sa
+        ušlo i „proviant“ niesť, ktorý pozostával z hrudy syra a kusa „ve-
+        zilajšieho,“ čo gazda už ráno bol nachystal), a tak sme sa brali
+        ku cieľu nášho výletu. Tak per taángentem spomniem, že sme sa
+   </tei:p>
+   <tei:p>
+    388
+   </tei:p>
+   <tei:p>
+    nezabudli staviť na kališťok — chrobáka otroviť. Stálo nás to síce
+        nejedon úder na dvere.
+   </tei:p>
+   <tei:p>
+    o sa spôsobu cestovania týka, tam sme dali prednosť tomu,
+        aký veľkí páni v horúcich krajoch za najpraktičnejší držia. Dali
+        sme sa totiž pekne, každý na svojich — zaniesť.
+   </tei:p>
+   <tei:p>
+    Cestou stne neveľa rozprávali, bo každý mal prácu s dýchaním.
+        Keď sme išli kolo zámku, ten sa musel práve zobudiť, bo si oči
+        ospalo pretieral a nemilosrdne „čemer“ práskal, a iste sa tomu
+        zadivil, kde sme sa my chrobáčikovia z dolín tam už vzali. Čakal
+        vysvetlenie, no nedostal ho: mali sme len „Chmeľovú“ na ume, ta
+        sme sa ponáhľali.
+   </tei:p>
+   <tei:p>
+    A bolo na čase, lebo slnko už začalo pozlacovať svojimi pred-
+        lúčami štíty gigantických skál, a, sotva sme sa vyškriabali tak vy-
+        soko, že sine ponad jejich plecia mohli pohľad hodiť na Považie,
+        i ono samo začalo dvíhať svoju — aureolon ovenčenú — hlavu a
+        kukať zpoza Kľaku na nás, ako my naň. Zastali sme.
+   </tei:p>
+   <tei:p>
+    Vôkol panovalo posvätné ticho. Ani len šum vetra nás nevy-
+        trhoval z obdivovania veleby a krásy tej božej prírody. Slnko rozo-
+        hnalo tmy, deň zvíťazil. Vo svojej víťaznej. usmievavej kráse celo-
+        valo ono to milé Považie a bozkami svojimi budilo všetko k no-
+        „vému životu. Ten ľud dobrý, ktorý ho obýva, uposluchnul jeho
+        pokynutia, vstával a bral sa do novej práce. Veď už svitlo.
+   </tei:p>
+   <tei:p>
+    Svitlo, však koľkoráz ešte prebehne ten posol boží jemu vy-
+        meranú dráhu, koľkoráz poceluje svojimi zlatými bozkami ten raj
+        povážsky, koľkoráz bude vstávať ten úbohý Slovák a brať sa do
+        novej práce, kolkoráz ešte svitne nad Povážim, a koľkáte svitnutie
+        prinesie Slovákovi ako „Slovákovi“ nový deň? — Boh zná.
+   </tei:p>
+   <tei:p>
+    Okrem Vševedúceho nikto nemôže nazrieť do knihy osudu, ale
+        že tam musí byť písané i o duševnom prebudení Slovákovom, perne
+        verím...
+   </tei:p>
+   <tei:p>
+    Slnko už dosť vysoko plávalo ponad hlavou Fatry, a my ešte
+        vždy zahrúžení stáli tam, kde sme zastali. Poneváč však bolo ešte
+        po čom kráčať bližšie k nebu, stúpali sme hore. Dosiahnuc vrehola
+        „Chmeľovej,“ cieľ to nášho výletu, otvorilo sa nám krásne panorama.
+   </tei:p>
+   <tei:p>
+    Výška, na ktorej sme sa nachádzali, poskytovala nám utešený
+        výhľad na pôvabné okolie. Vrchy, ináč dosť vysoké, tratily sa nám
+        pod nohami. Nad riekami a potokmi vystupovala mhla, ktorá jich
+        doteraz sťa jemný závoj kryla, aby v jejich polospánku ničím mý-
+        lené neboly. Pohľad na znovu ož ivujúci kraj zapudil dumné my-
+        šlienky a preporodil jich v nové, živšie. Zaspievali sme „Kde domov
+        môj?“ — Bol som asi sedemročný, keď som ju prvýraz počul, tiež
+        na „Chmelovej.“ (Včas robil som výlety! a už neviem, či pešo, či
+        na chrbte druhého.) Vtedy taký dojem urobila na mňa, že kedy-
+        koľvek ju počujem, vždy sa živo rozpamätám na ten čas. — Za
+        tou nasledovala krátka pausa, niekoľko slov, zas pieseň, a tak to
+        tieklo zamieňavo, milo.
+   </tei:p>
+   <tei:p>
+    Tu pozornosť našu upútal nový zjav, Vyše Beluše a niže Dub-
+        nice zbadali sme vla! proti sebe, jich chod však pre
+        veľkú vzdialenosť mi príchodil, akoby sa dve húsenice proti sebe
+   </tei:p>
+   <tei:p>
+    plazily. Temer naraz došly na ilavskú stanicu, kde zastaly. No
+        sotva maly toľko času, aby si poriadne odkašľaly, a na cestu dlane
+        popľuly , bo po uplynutí „minúty“ zamenily svoje dráhy a j
+        chaly ďalej. My sme jich sprevádzaly zrakom, 1 „kým nevyšly
+        z nášho obzoru, pri čom nielen ony, lež aj každý z nás valil dymy
+        sťa gazla, keď voly dobre predá. Mestečká a dediny boly tiež
+        kryté dymovými kotúčami, ktoré — sotva za naším príkladom —
+        komíny púšťaly. (čazdiuky hotovily ky. Poneváč však i u nás
+        už bola odbila raňajková hodina, posadali sine, a s chuťou začali
+        ujedať z prinesenej „menáže“, a ujedaly, ujedaly, kým sme šťa-
+        stlivo nedoujedali.
+   </tei:p>
+   <tei:p>
+    Po raňajkách sa rozpriadol rozmanitými vtipmi garnirovaný
+        rozhovor, ktorého obsah mi však mojou privčasnou plešinou vyšu-
+        mel. Viem, že medzi iným som sa chcel opýtať mojich spoločníkov,
+        čo sa jim snilo: no môj sen by som jim neboľ rád zradil, a preto
+        som nielem otáznik, lež aj celú vetu zamlčal. Umienil som si, že
+        mu dám teraz uzrieť „svetlo páne.“
+   </tei:p>
+   <tei:p>
+    Za horami biely dom, švarné dievča býva v ňom...“ „Aha!“
+        — ušinieva sa Jajedna ct. čitateľka — „zaľúbenec!“ Na to neod-
+        povedám, len si myslím.
+   </tei:p>
+   <tei:p>
+    Tam za Kľakom teda, v
+        dím po izbe s dievčinou ako ľalija, postavy štíhlej sťa jedľa, kr:
+        snych nezabúdkových očí, milostnej tváre, vlúdneho vzhľadu, v ná-
+        rodnom kroji. Pozrúc do tých, ozaj nezabúdkových očiek, okúzlený
+        jej aujelskym zjavom, bozkám jej ruku. Čo ona? — Sane ku znionu,
+        a krásnomilým strieborným hlasom zanôti : „Šuhajko, tulipán, za
+        teba vôlu mám...“, hodiace pri tom ná tnňa svoj očarujúci pohľad.
+        Účinok nevystal, bol som v ach. Nevidel som len ju, nepočul
+        len prvú sloku jej piesne. Už som ju chcel sovreť do náručia,
+        ale čože, chudobnému i z hrnca vykypí, môj sused ma iste lakťom
+        drgnul, zobudil som sa, a miesto objatia mojej krásky, našiel som
+        sa. v objatí — sena. Veľký rozdiel!
+   </tei:p>
+   <tei:p>
+    Tu máte môj sen. Však je pekný. 1 mne sa páči, len to je
+        chyba, že to iba sen, a i ten krátk, koda , teším sa však tým,
+        že i pre mňa zaspievalo vtáča na kosodrevine: čo komu sudeno,
+        veru ho neminie!
+   </tei:p>
+   <tei:p>
+    Vyviedol som ct. trpezlivého čitateľa na „Chmelovú“, no po-
+        neváč viem, žeby dľa mojich kusých črtov sotva ktorý trafil hore,
+        ukážem mu iný chodník.
+   </tei:p>
+   <tei:p>
+    Keď cestujeme od Strečna dolu Považím, za každým krokom AE
+   </tei:p>
+   <tei:p>
+    sa nám ubjavujú nové obrazy sťa v kaleidoskope. Máme tu zvlá-
+        štností temer na zbyt. Nechajme jich však na teraz inému k obdi-
+        vovaniu, a preleťme rýchlosťou myšlienky do [llavy. (Nerozumiem
+        ten veľký „pensionat“ pre „voňavé fijalky“ z celej kra,
+        pozrúc vpravo, uvidíme nepretrženú reťaz vrchov, a v jejich centre
+        hlavy majestátne dvíhajúce gigautické skaliská. Na pravej čiastke
+        týchto skál zbadá bystré oko neveľký, tmavý končiarik, ktorý, keby
+   </tei:p>
+   <tei:p>
+    snej doline, v mestečku Z., cho-
+   </tei:p>
+   <tei:p>
+    bol väčší, by sa tam asi tak vynímal, ako „pochválen“ na čiapke
+        Súčana. Končiar ten je pyramida na Chmeľovej — za skalami.
+        Teraz preskočme, prebroďme, preplávajme Váh (alebo, kto chce
+        nech sa dá previezť), a poďme do Pruského, a odtiaľ potom ta,
+        ta, ta — rovno cestou k pyramide.
+   </tei:p>
+   <tei:p>
+    Asi po trojhodinovej ceste octneme sa pred neveľkou detin-
+        kou, Vršatským to Podhradím, ležiacou na úpätí už spomenutých
+        skál. Človek z roviny, neviem, či by za každým pohľadom na tie
+        predpotopné húsenice nechytil za hlavu, v strachu, že sa už-už
+        kus odštiepi, a lebku mu rozdrúzga. (Pán Š-y upozorňoval cestou
+        priateľa S-ka: „Priateľu! nože si rozprestrite dáždnik, keby sa tá
+        skala nejako zkotúľala, aby vám neublížila“). No, neni s tým tak
+        zie. Je pravda síce, že sa následkom rodných síl zrúti kedy-tedy
+        kus tej opachy, ľudia však zvyknutí už k tomu, že sa tamejší „du-
+        chovia“ dakedy takými, starosvetskej peci podobnými guľami kolky
+        zahrajú, nebárs si jejich hry všímajú -— ačpráve porobili potrebné
+        poriadky, aby daktoré náhodou nezvalil „deväť“.
+   </tei:p>
+   <tei:p>
+    Nechajme teraz Podhradie na boku, prejdime i kolo zámku
+        bez bližšieho zkúmania (ku obom sa i tak vrátime), ale kto môže,
+        nech hrabe za mnou na „Chmeľovú“. Vreh tento leží asi %, ho-
+        diny na sever od Podhradia, vo výške 2854 vied. stôp. (941 82 m).
+        Je jeden z bodov europejskej trigonometrickej spoločnosti, s py-
+        ramidov. Poneváč poskytuje utešený výhľad na Považie (pri čístom
+        vzduchu po Trnavu) a na Moravu (Hostýn, Buchľov pri Velehrade,
+        atď.), je obľúbeným miestom pre výletníkov jak z okolitého Po-
+        važia, tak Z Moravy. Vidno ztade množstvo väčších, menších vrchov,
+        na ktoré keď pozrem, zíde mi nevdojak na um pomer medzi ľuďmi,
+        väčší a mocnejší stúpajú milosrdne slabším a menším na — otlaky.
+   </tei:p>
+   <tei:p>
+    Zpomedzi nich je ha mape !) Chmelovej menovite naznačený
+        Inovec pri Trenčíne, Vápec pri Illave, Veľký Marín, Kľak, Malý
+        Kriváň, Makyta, Hostýn, Buchľov a Lopeni
+   </tei:p>
+   <tei:p>
+    Mestečká a dediny neidem ani menova“, bolo by jich pri-
+        mnoho. Spomeniem len jedno miesto, ktoré, ač zdá sa byť najne-
+        patrnejším medzi všetkými, má predsa mnoho pamäti hodného, a
+        čo sa veku týka, patrí medzi starcov, Je to Pominovec. (Leží v strede
+        oproti Tllave a Dubnici na pravej strane Váhu.)
+   </tei:p>
+   <tei:p>
+    Za časov, keď svätí apoštolovia Cyril! a Method chodili po
+        Slovensku, učiaci Slovákov viere kresťanskej, stálo na jeho mieste
+        Tudnaté mesto. (Meno jeho mi je neznáme. Sv. Method vyučoval
+        v tom meste, a čo sa mu nikde na Slovensku neprihodilo, to musel
+        zakúsiť tam. Väčšina pohanských obyvateľov ho totiž na osle se-
+        diaceho potupne z mesta vyhnala. Sv. Method pokojne zniesol toto
+        potupenie, na konci mesta však obrátil sa ku zástupu — ktorý si
+        z neho žarty a posmech tropil — so slovami: „Pamätajte, za toto
+        vás pomsta Božia neminie!“ .
+   </tei:p>
+   <tei:p>
+    1) Každý značnejší vrch má svoju mapu, na ktorej sú označené
+        okolité väčšie vrchy. V strede na mape stojí sám „majiteľ“,
+        od tohoto sú v každom smere čiary k jeho — kollegom.
+   </tei:p>
+   <tei:p>
+    Veštba jeho sa skoro splnila. Prišlo zemetrasenie, Váh sa
+        zvodnil, nastala víchrica, a vôbec. živly prírodné akoby boly chcely
+        napomáhať uskutočnenie veštby sv. apoštola, ničily všetko, či živé,
+        či neživé. Zo všetkých obyvateľov zachránilo sa 7 rodín, a z bu-
+        dov jedon kostolík, ktorý po dnes stojí. Zachránení obyvatelia sa
+        osadily do doliny od jejich prvnejšieho bydliska na severozápad
+        ležiacej, a utvorili novú obec, ktorá od siedmych zakladajúcich ro-
+        dlín dostala meuo: Sedmorovec. Na mieste zboreného a vôbec zni-
+        čeného mesta blízo kostolíka je vystavňný majer, ktorý od pomi-
+        nutia niekdajšieho mesta nosí meno: Pominovec.
+   </tei:p>
+   <tei:p>
+    Spomenutý kostolík stál teda už v časoch pohanských, však
+        nie celý, ale len štvorhranná čiastka, ktorá tvorí loď terajšieho, a
+        v ktorej sa niekdajší obyvatelia svojim bohom klaňali. K tejto
+        čiastke dal pristaviť sy. Method svätyňu, a hotový kostolík posvätil
+        zťatiu sv. Júna. Väža je až neskôr posvätená.
+   </tei:p>
+   <tei:p>
+    Toľko o Pominovci.
+   </tei:p>
+   <tei:p>
+    "Teraz sa obzrime ešte raz dookola, rozlúčime sa s „Chmelovou“,
+        a poďme ku zámku.
+   </tei:p>
+   <tei:p>
+    Zakladateľom jeho bol vladyka z Vršovcov, či Vršatcov, v do-
+        bách Veľkej Moravy predkresťanskej, odtiaľ meno Vršatec.
+   </tei:p>
+   <tei:p>
+    Vršatec inal vôkol prirodzené bašty, len na sever (od „Chme-
+        lovej“) po takzvanné „Skalie“ murované. Takto prirodzene opev-
+        nený dal Nemcom príčinu k pomenovaniu „Lôwenstein“, a Maďarom
+        „Oroszlankô“. Leží 2732-2 vied. stôp (901 m.) vysoko.
+   </tei:p>
+   <tei:p>
+    Koncom 17. storočia ho ostatní jeho obyvatelia opustili: (Teraz
+        je majetkom rodiny er. Kônigsegg.) Asi pred 30 roxmi bol ešte
+        v dosť dobrom stave, no zub času na toľko zalhryznul do neho, že
+        dnes už len niekdajšia sýpka má kožované múry. Väža (v skale)
+        je síce i dnes dobrá, ale vehod do nej veľmi nesnadný. Vo väži
+        bolo väzenie, a nad tým strážnica, z ktorej bol výhľad na všetky
+        strany. Zo strážnice tej bol zastrelený jeden františkán, — keď
+        išiel v noci s lampášom do Podhradia k nemocnému — zo zvlá-
+        štnej streľuej zbroje, menom švihuľa !).
+   </tei:p>
+   <tei:p>
+    Všetci pánovia tohoto hradu stoja v dobrej povesti, najchýr-
+        nejšia je však rodina Jakositsov, ktorá vybudovala (založila) „pravú“
+        i „ľavú“ stranu Váhu, pod menom: Pruska, Ilava. (Františkánsky
+        kláštor v Pruskom založil Jur Jakosits, vesprímsky biskup r. 1642,
+        ako to z nápisu nad kostolnými dvermi čítať možno.)
+   </tei:p>
+   <tei:p>
+    Vladýkovia hradu mali aj svoje doma kuté strieborné peniaze.
+        (Občas sa i teraz nachodia medzi rumami.) Rúda na striebro do-
+        bývala sa vo vrchu Lysá, od hradu neďaleko na severozápad le-
+        žiacom. Otvor do šachty je viditeľný, ale veľkou skalou zatvorený.
+   </tei:p>
+   <tei:p>
+    1). Švihuľa, prvotná streľná zbroj, po vynajdutí pušného prachu.
+        Dlžka jej obnášala asi 5 metrov, priemer gule asi 5 centimetrov.
+        Hrala obranný zástoj proti napádaniu. Medzi inými veciami, ktoré
+   </tei:p>
+   <tei:p>
+    „ bola ďala rodina gr. Kônigsegovská odvážať do Aulendorfu, nacho-
+        dila sa i švihuľa. V A. sa opatruje i väčšia čiastka archívu, preto
+        je ťažko podať dačo obšírnejšieho o hrade.
+   </tei:p>
+   <tei:p>
+    šla by sa tam i teraz rúda, no poneváč sú hlavnie žily vyčer-
+        pané, a V tom, čo ešte je, má prevahu síra a iné nerasty, baníctvo
+        hy sa nevyplácalo, preto sa ani neprovodzuje.
+   </tei:p>
+   <tei:p>
+    Studne v zámku nemali, vodu dostávali z bohatého žriedla
+        pod „ Chmeľovou“ podzemnými rúrami — tlakom. (Zápoľa si to už
+        ináč "pomohol na Trenčíne !)
+   </tei:p>
+   <tei:p>
+    Hradská !) viedla z Považia na túchyňský háj, okolo Hit
+        šovských ? „Baní“ a „Skalíc“, úbočím „Chotuč“-e ?  podhrad-
+        skými „hlbočiami“ do zámku. Po založení Podhradia bola zhoto-
+        vená cesta od Pruského na „Dúžavy“ (vlastne Dížavy — majer)
+        do Podhradia.
+   </tei:p>
+   <tei:p>
+    Mali by sme ísť aj na väžu, ale nepojdeme, — čo by sme
+        tam robili. (Neviem, či mám „kompanistu“ o myšlienkach. Prišla
+        mi na um bájka o líške a hrozne.“) Pozrime radšej dedinu.
+   </tei:p>
+   <tei:p>
+    Vršatské Podhradie číta asi 360 čisto slovenských obyvateľov
+        r. k. náboženstva. leží vo výške 1989 vied. stôp (656
+        Kedy sa začalo Podhradie budovať, nevie sa, to však je isté, že
+        prví obyvatelia osady boly z družiny vladykov vršatských, a tak
+        Podhradie nielen meno, lež aj obyvateľov svojich odvodí od a
+        z hradu. Menovite sa uvodí nasledujúcich päť rodín. ktoré pod
+        hrad usadené utvorily obec: Pagáč, Kvasnička, Prokop (Prekop),
+        Mikula a Jurík. Z týchto pochzajú, a ti mená nosia aj terajší
+        obyvatelia celej obce, vyjmúc tri — neskôr došlé — rodiny.
+   </tei:p>
+   <tei:p>
+    Pagáč a Kvasnička dostali tieto mená od svojich najmilších
+        múčnych jedál, keďže prvý hovoril, že on len pagáče, druhý zas
+        len s kvasničkami lúbi pečivo. Kvasnička sa pôvodne menoval
+        Tanca, jeho potomkom sa po dnes privesuje — už len ako cog-
+        nomen — „Jancéch“. Jako sa Pagáč predtým menoval, nevedno.
+        Poneváč však bol poverený s krčmárením, jedna haluz doteraz
+        nosí prívesok „Krčmárech“. Prokop bol hudcom , časť jeho potom-
+        kov má na „dovažok“ meno „Hudec“. Mikuľa zastával v hrade
+        úsad kľučiara, polovicu Mikuľov volajú aj „Klučiar“. Konečne,
+        Tarík bol postrachom vinníkov, prečo jedna vetva jeho rodiny nosí
+        prívesok „Hajdúch.“
+   </tei:p>
+   <tei:p>
+    Medzi týchto 5 rodín bolo podelené päť gruntov ku ktorým sa
+        — po zavedení urbáru — ešte 7 „hoštákov“ pridelilo.
+   </tei:p>
+   <tei:p>
+    Jako hratl Vršatec, tak samo Podhradie trpelo častejšie voj-
+        nami, zvlášte „tatarským plenom“. Hral Vršatec márne bol oblie-
+        haný za viac mesiacov Tatarmi z južnej strany. Vodca Bar chán
+        keď videl, žeby ho pre darobné namáhanie ľahko mohlo „od jedu“
+        rozhodiť, odtiahol preč. Podhradie však má po ňom pamiatku, a
+   </tei:p>
+   <tei:p>
+    !) Hradská bola cesta, ktorá viedla od hradu k hradu. Neskôr sa
+        staväly cesty, ktoré spojovaly opevnené mestá, tie sa menovaly
+        asilnice.“ Konečne: za stoličné, lebo krajinské peniaze stavené a
+        udržované cesty sa menovaly „stoličnými, krajinskými“ (cisárskymi)
+        cestami, teraz sa však zväčša hradskými menujú.
+   </tei:p>
+   <tei:p>
+    2) Tychyňa, Mikušovce, dediny v panstve vršatskom.
+   </tei:p>
+   <tei:p>
+    3) „Bane“, „Skalice“, „Chotuč,“ víšky v chotáre imikušovskom.
+   </tei:p>
+   <tei:p>
+    r Na.
+   </tei:p>
+   <tei:p>
+    393
+   </tei:p>
+   <tei:p>
+    bude ju mať, kým ho lebo jeho skaly nepohrobia, alebo kým ho
+        dľa modernej obyčaje neprekrotia, a nedajú mu nové — daktorým
+        „Tót“-om uklepané — meno. Po odtiahnutí Tatarov sa totiž vy-
+        Ďudovala na mieste obležania čiastka obce, a dostala" meno „Bar-
+        chánová“, ktoré po dues nosí. Pozostatky násypov z tohoto oble-
+        zania vidno v zahradách Mikuľu — Bartáka, a Pagáč — Gábora.
+   </tei:p>
+   <tei:p>
+    Môj „voditeľský“ zástoj je dokonaný, bo čo som mal, dal som,
+        Málo toho bolo, avšak hovoria, že: blázon, kto dá viac, ako má.
+   </tei:p>
+   <tei:p>
+    Keď Caesar Phamacesovi a jeho vojakom v Asii „záhumnia“
+        náležite vyprášil, odkázal do Rímu tri slová: „Veni! vidi! viet!“
+        My by sme mohli na konci nášho výletu tie prvé dve tiež pove-
+        dať, pravda, že v množnom počte. Počasie, ktoré pri takýchto
+        „podnikoch“ nejednu tvár na kyselo zprešuje, nám bolo zriedkavo
+        prajným. Viacráz som bol na „Chmelovej“, ale bezvetrie, ako tento
+        raz, tam ešte nebolo. Nie div teda, že bolo už 11 horín, keď sme
+        sa zpašťali do dediny. Stavili sme sa na „gnaterku“, a potom,
+        pozrúc ešte raz na skaly, u ktorých sme naše trudné myšlienky
+        na neistý čas v zálohu nechali, „každý pošiel svojou stranou...“
+   </tei:p>
+   <tei:p>
+    Priateľ Š-y a S-k išli dočasne spolu, a ja s otcom.
+   </tei:p>
+   <tei:p>
+    Tamtých — ako som sa neskôr dozvedel — predišiel v ceste
+        zajac iste ktorýsi z nich ráno ľavou nohou vykročil z postele.
+        Nás predsa nezastihla žiadna. podobná nehoda, len keď sa mi už
+        začal v žalúdku zvonár na štranok vešať, a ja som preto otca po-
+        núkal k rýchlejšiemu kroku, kameň sa mi potknul o nohu. Aby
+        sa mu to viac nestalo, vrátil som sa, a — preskočil som ho.
+   </tei:p>
+   <tei:p>
+    Ináč: sme sa šťastlivo dostali domov, kde nás už — k 0]
+        nevýslovnej radosti — s obedom čakali. č
+   </tei:p>
+   <tei:p>
+    A. D. S.
+   </tei:p>
+   <tei:p>
+    Malý Paríž,
+        Píše Gustáv Augustiny.
+   </tei:p>
+   <tei:p>
+    (Pokračovanie.)
+   </tei:p>
+   <tei:p>
+    V Bukuriašti pred dakoľko rokmi mala väčšina sklepov na
+        Calen. Victoriei i vývesy francúzske, ale to už predsa pohlo národ-
+        ním vedomím magistrátnych radních a preto uviedli stofrankovú
+        daň za nžívanie francúzskej firmy: tak že jich teraz už len málo
+        vídať.  Praktiční si vedia 1 tu odpomôcť, užívajú slová francúzske
+        s Tumunskou koncovkou (takzvaným nemým u) na pr. magasinu
+        vnglesu.
+   </tei:p>
+   <tei:p>
+    - Vlastné mená rumunské majú typické ukončenie na —esku
+   </tei:p>
+   <tei:p>
+    —-anu, i —uru (5 prízvukom a dlžkou nac a) na pr. Bibescu, Go-
+        Tescu, Mumteanu (toľko ako Podkorský), Gradisteanu (— Hradišťan,
+        t. j. bojav od Hradišťa), Porimbaru (— kukuričník): krem toho
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1926154" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Starý ženích a iné rozprávky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:85153916">
+     Kompiš, Peter (1901-1949)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     7097
+    </measure>
+    <tei:measure unit="pages">
+     122
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:85153916">
+      Kompiš, Peter (1901-1949)
+     </tei:author>
+     <tei:title>
+      Starý ženích a iné rozprávky
+     </tei:title>
+     <tei:pubPlace>
+      Košice
+     </tei:pubPlace>
+     <tei:publisher>
+      Knižnica Slovenského východu
+     </tei:publisher>
+     <tei:date>
+      1926
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-31">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Starý ženích a iné rozprávky
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <div type="chapter">
+    <head>
+     I
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Gejza báèi, starý pán vyše sedemdesiatroèný, s holou hlavou a bielou bradou, trochu
+         nahrbený, behal nepokojne po izbe. Nebola to jeho izba, ale kupcovej Matildy Borovanskej,
+         jeho tretej súsedy. Chodieval k nej èasto, a trebárs sa varilo aj v jeho domácnosti,
+         olovrantoval predsa viac u súsedy, než doma. Ba neraz zostal i na obed, najmä keï bolo
+         nieèo lepšieho. Lebo veï pani Borovanská bola kuchárka, že jej bolo páru poh¾ada. Keï tak
+         sedel u nej Gejza báèi v nede¾u a po hovädzej polievke s ryžou — bola jako olej — a
+         te¾acích šnicloch so zemiakmi a brusniciami púšal sa do jablènej štrúdle, nedalo mu, aby
+         nevyslovil svoje uznanie nahlas:
+    </p>
+    <p>
+     — Pani súseda, pani súseda, oni sú kuchárka, že im hneï tak nieto páru. škoda, že sú nie
+         v meste. Mali by kostošov, že by nestaèili pre nich vari. Dávno by boli i zbohatli.
+    </p>
+    <p>
+     A Borovanská sa bránila vo svojej skromnosti:
+    </p>
+    <p>
+     — Ale dajú pokoj, jesto ešte inakšie. Ale pre nich je hodno vari, pán inženier, len èo
+         je pravda. Ak je len nie spálené na uhol alebo vysušené na kos, všetko pochvália.
+    </p>
+    <p>
+     Dnes Gejza báèimu nebárs chutilo, šálka kávy stála pred ním na stole nedopitá. I èerstvý
+         krajec chleba natrený maslom — len tak voòalo — sa márne naò usmieval. Shrbený starec
+         premeriaval krokom roztržite izbu raz s jednej, raz s druhej strany. Malé, jasné modré oèi,
+         z ktorých žiarila nevšedná dobrota, zatiahly sa tu i tu na okamžik ¾ahkým flórom, biela
+         brada sa zatriasla. I do ¾avej, kratšej nohy — trošku na òu kríval — jako by mu bol vnišiel
+         dáky kàè. Vše zasýkol, svraštil oboèia i èelo, prešiel si opatrne rukou po kolene a stehne,
+         ale o chví¾ku pustil sa zase èo raz prudšie po izbe.
+    </p>
+    <p>
+     Pani Borovanská sa vrátila zo sklepa.
+    </p>
+    <p>
+     — Èo nejedia, pán inženier?
+    </p>
+    <p>
+     — Ïakujem, jedol som, už nemôžem.
+    </p>
+    <p>
+     Rty sa ešte rozovrely a pohýbaly, ale slovo mu uviazlo v hrdle. Bolo vidno, že má nieèo
+         na srdci. Ale kupcová ho nepozorovala. Prehàòala sa v prieèinku v stole a v šicom stroji a
+         prehrabávala sa v úètoch a listoch.
+    </p>
+    <p>
+     — Bodajže a i so Schlesingerom! Kdeže je tá karta? — šomrala, ale iba pre seba.
+         Ve¾koobchodník z mesta jej bol písal, aby nechodila do mesta pre tovar, lebo práve nemá
+         ryže ani petroleja. Vèera koneène prišla od neho karta, že je už všetko tu, že ju èaká.
+    </p>
+    <p>
+     — Iste ju Iréna nekam zapotrošila — poberala sa nazad do sklepa. Už pokroèila ku dverom,
+         keï starý inženier vyrazil horko-ažko zo seba:
+    </p>
+    <p>
+     — A kdeže je Irénka?
+    </p>
+    <p>
+     Vyrazil to zo seba hlasom takým neobyèajným, rozochvelým, že Borovanská zastala celá
+         zarazená.
+    </p>
+    <p>
+     — Iréna? V meste, šla navštívi kamarátku, Vilmu Strakošovie.
+    </p>
+    <p>
+     Starou hlavou Šipického preletela obava, jeho jasným modrým okom mihol sa tieò. Len èi
+         šla ozaj ku kamarátke? Aby to nebol — rozochvelému starcovi zúžilo sa hrdlo úzkosou,
+         trebárs h¾adel zapúdi myšlienku od seba — aby to nebol skôr kamarát?
+    </p>
+    <p>
+     — Nevedia, kedy sa vráti?
+    </p>
+    <p>
+     — A èo ja viem! Možno, èo chví¾a. Alebo až veèer, ktože to vie. Chceli jej nieèo? Aha,
+         novinky by bolo treba preèíta — usmiala sa, všimnúc si èerstvého èísla „Magyarországu“,
+         pohodeného na posteli. Bol to lajbžurnál starého inženiera, tuhého košutistu od mladi. Keï
+         mu z neho èítavala pekná mladá dcéra kupcovej o pasívnej rezistencii stolíc a s akou psou
+         hanbou vyhadzovali drabantských hlavných županov, jásaly staré oèi blahom, zalievajúc sa
+         slzami radosti. Ale to bolo vtedy. Teraz v lete snem nezasedá. Ani v tých novinách niè
+         nieto. Èože sa teda spytuje, starý èudák, na jej dcéru?
+    </p>
+    <p>
+     — Rád by som sa s òou rozprával. Ale najsamprv s nima, pani súseda.
+    </p>
+    <p>
+     Èože to má by? Znepokojila sa kupcová. Azda len nemajú u starého skupáòa nieèo na
+         rováši? A èo by aj mohly ma? Že si vzaly viacej z jeho dreva, jako tú jednu hromadu, èo im
+         dovolil? Alebo že im dovolil so dva razy, aby si nasbieraly tých ranných jabåèek na štrúdlu
+         a ony si natriasly za každým so pár košíkov. Veï starého i tak pri tom nebolo. A keby aj,
+         veï si to on u nich beztak už dávno odjedol.
+    </p>
+    <p>
+     — Èo mi chcú poveda, pán inženier?
+    </p>
+    <p>
+     Starý zeman sbieral všetky svoje sily dohromady. Krv udrela mu do hlavy, chytal sa
+         stola, keï sviatoèným hlasom, pomaly, skoro po slabikách, šeptal slová:
+    </p>
+    <p>
+     — Pani súseda, majú dobrú, hodnú dcéru. Viem, že ju majú radi. Ja mám Irénku rád ako
+         vlastný otec. A mám ju rád e-šte väèšmi. Som po-ria-dny èlovek. A daèo majetku tiež mám.
+         Ach, keby ma chcela! — starý inženier zhlboka zavzdychol, slabé, lámkovité nohy poèaly sa
+         pod ním trias. Poodišiel prudko ku stolièke a klesnúc na òu, vytiahol z vrecka belasú
+         šatku a poèal si utiera ažkou, netrebnou, tras¾avou rukou oèi, líca i šedivú bradu, po
+         ktorej perlily slzy.
+    </p>
+    <p>
+     Pani Borovanská sa najprv trhla ¾aknutím a potom zostala stá jako vyjavená. Bože môj,
+         ten èlovek ako by postupoval z rozumu! Ani nie èudo. Taký starý, ovdovelý, opustený. Iste
+         precupká doma v myšlienkach celé hodiny. Vyše sedemdesiat rokov, nebolo by divu, keby i
+         prasklo v tej hlave niektoré to koleèko.
+    </p>
+    <p>
+     Ale na to, že by mohol postupova z rozumu, myslela iba pri starcových prvých slovách.
+         Keï vyrozumela, že pýta jej dcéru, poèala sa trochu utišova. Bola to síce tiež bláznivos,
+         ale predsa aspoò kus pochopite¾ná. Po inženierovom vyznaní jej bolo jasno, preèo vlastne k
+         nim chodieva. Tak neboly to iba plody jej kuchárskeho umenia, ktoré ho k nim tak ahaly. Až
+         teraz porozumela dobre, èo tak u nich vysedával, dával si predèíta noviny od mladého
+         dievèaa. Ono že mu vraj neslúžia oèi, zaèínajú hneï slzie. A ono videly tie oèi dobre,
+         keï sa maly zah¾adie na jej mladšiu dcéru. Aký je dojatý, aký vzrušený! Vidno, že nosil
+         svoje tajomstvo v srdci už dlhší èas. Vyzna odhodlal sa, až keï nemohol vydrža od túžby.
+         H¾adela trochu pohàdlive na starého blázna. Ba i trošku horkosti pocítila v srdci, ako by
+         sa bola ozvala v nej ranená samo¾úbos. Musel sa ten šedivec za¾úbi práve do jej dcéry?
+         Nemohol voli svojim rokom primeranejšie? Nemohol teraz pýta miesto dcéry radšej ju,
+         matku?
+    </p>
+    <p>
+     Ale už sa i poèala sama pred sebou hanbi za svoju slabos. Potlaèila v sebe tento
+         posledný záchvev sobeckosti. A poèala myslie na to, èo sa vlastne stalo. Bohatý starec
+         núka jej dcére ruku i majetok, šastie! Ve¾ké šastie! Striasla sa radostným rozochvením.
+         Bože! Má diea zaopatrené. Bude ži v hojnosti, pohodlí. Postúpia u ¾udí na vážnosti.
+         Prišlo jej na um, èo musela vytrpie príkoria od sveta, èo k nej chodil do sklepa. Škriepia
+         sa o každý krajciar. Keï by mali da trochu utàži, hybaj do mesta. Ona je dobrá iba, keï
+         treba èo napochytre. A keby aspoò lepšie platili! Ale samé borgy. I z toho radi odtaja,
+         paskudy! A za všetku jej dobrotu, trpelivos ani tú úctu jej nedajú, èo by zaslúžila.
+    </p>
+    <p>
+     Ale teraz bude inak. Jej dcéra bude v ich oèiach pani a ona s òou.
+    </p>
+    <p>
+     Azda ho len neodvrhne? Až teraz jej svitlo v hlave, že vec je ešte nie hotová. Ako sa
+         rozhodne dcéra?
+    </p>
+    <p>
+     Až teraz sa rozpomenula na pytaèa. A — jakoby sa ospravedlòovala za oneskorenie —
+         rozbehla sa proti starcovi, chytila ho za obe ruky a stískala ich vrúcne — Pán inženier,
+         pán súsed! — šeptala nežne. — Že sa mi chudobnej vdove, dal Boh tohoto doži! Ach, aká som
+         rada! Viem, že u nich bude moje diea v dobrých rukách.
+    </p>
+    <p>
+     Sedel celý rozochvelý, skoro bezmocný. Ale stisknutie rúk opätoval vrelo. Vše zdvihol
+         oèi, z ktorých žiarila láska a záblesk nádeje, bárs ich už v nasledujúcom okamžiku klopil
+         zaliate slzami.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Keï vstupoval Gejza Šipický pred rokmi prvý raz do domu kupcovej Borovanskej, iste
+         netušil, ako to s ním po rokoch vypáli. Chodieval ku kupcovej vdove a dcéram ako k súsedom.
+         Veï kamže má chodi inteligentný, jemnejší èlovek, ktorého osud zavial do malej zapadlej
+         dedinky? K farárovi? Ech, to je iba taký ozembuch, vytuèený ako bagúò a k tomu pansláv.
+         Akože bude vyh¾adáva spoloènos takého èloveka starý uhorský vlastenec, ktorého otec padol
+         roku 1849 za kossuthovské ideále a ktorý sám rátal k najšastnejším chví¾kam svojho života
+         dni, keï sa mohol doèíta o kossuthovskej strane daèo potešite¾ného? Do kaštie¾a „Na
+         Jamnom“ tiez nevstúpi ak živ jeho noha, trebárs je pán kaštie¾a, Déneš Borecký, jeho
+         synovec. Hej, nevkroèí ta. Lebo veï Déneš má u neho rováš. Pravotil sa s ním, ba vlastne s
+         jeho ženou, svojou vlastnou tetkou, Vilmou, rodenou Motešickou. A pravotil sa pre
+         skrivodlivú vec. Že sa nebál, živáò jeden, že ho Boh zkára. Hnev Gejzu báèiho miernilo iba
+         vedomie, že lúka predsa len zostala jemu.
+    </p>
+    <p>
+     Iných jemu rovných tu v dedine nebárs bolo. Gejza báèi musel von z dediny, keï sa chcel
+         zabavi, s ¾uïmi poshovára. Chodieval najmä do mesta, do Michala. Kedy v brièke, kedy zase
+         chodníkom cez lúky, pešky s palièkou v ruke. Nauèil sa ta chodi ešte, kým žila žena, kým
+         pútal ho teplý domáci krb. Pravda, nebolo to vtedy tak k vôli spoloènosti, ako skôr za
+         povolaním. Bol civilným geometrom. Ale bolo to u neho skôr akousi hodnosou, titulom ako
+         chlebovým povolaním. Hrdý zeman nevymeriaval pozemky a nerobil plány a mapy iba k vôli
+         zárobku. Lebo veï donáša to na kuchyòu nebárs donášalo. Žilo sa skôr z gazdovstva, èo
+         vyženil. Inženierstva sa držal z akéhosi sebavedomia, že i on prispieva na domácnos, že ho
+         neživí iba žena. Ale s úradných výletov vracal sa domov skoro a s túžbou. Od tých èias, èo
+         pochoval ženu, — leží v rodinnej krypte na kopèeku, konèa mokrej lúky — ahalo ho to domov
+         už menej. Nauèil sa trávi von z domu celé dni, ba i týždne. Od tých èias, èo sa odobral za
+         matkou na veènos i jedinák-syn, ministerský tajomník v Budapešti — otec si ho dal previez
+         do hrobky — chodieval èasto najmä k ženinmu bratrancovi, Karolovi Motešickému do Vaïoviec.
+         Bolo to pekné, teplé rodinné hniezdo. Stará zemanská kúria, z ulice javor, s druhej strany
+         domu a okolo dvora roz¾ahlý ovocný sad s pažiou. Za záhumnicou na starej ceste rad
+         zamlklých topo¾ov. V kúrii rušno, veselo, statkár, statkárka, pätoro dcier, stará, vyschlá,
+         ale vždy milá, shovorèivá tetka — stará panna a slúžka. Ženské varia, perú, pradú,
+         spievajú, klebetia. Gejza báèi s domatínom si ujedajú šunky a zapíjajú ju starým pezinským
+         (u Karla Motešického nikdy nechýbalo), alebo si napchávajú fajky, pekné staré tajtíèky,
+         vykladané striebrom, a idú sa podíva, pukajúc labužnícky z fajok, na koniec sadu do
+         vèelína.
+    </p>
+    <p>
+     Vèely bzuèia, domáci pán ukazuje priate¾ovi s¾ubne zapoèaté vèelie dielo, vyahuje zadnú
+         stenu ú¾u, až zarazené oko spoèinie zvedave na tlupách vèiel, hýbajúcich sa za sklom.
+         Sadajú si na rákosové stolice. Gejza báèi si zavzdychne:
+    </p>
+    <p>
+     — Dobre ti je. Karol, keby mne tak bolo. V dome máš ženské pilné jako vèely, tu tiež
+         vèely. Všetko to robí na teba, med ti snáša. Všetko to bzuèí spokojne, radostne, až je
+         èloveku tak dobre okolo srdca.
+    </p>
+    <p>
+     — Vari len nezávidí, pán inženier, ¾a¾a ti ho! — usmieva sa domáci pán blažene. — Ožeò
+         sa, chovaj decká a bude ti veselo tiež. — Motešický myslí na svoju najstaršiu dcéru.
+         Pracovité, zdravé, fajn stvorenie. Nie síce žiadna krása, ale ani žiadna špata, taká,
+         jakých najviac. Dobrotisko, poslušná, poriadna, ale nebárs k svetu, ve¾mi hanblivá, málo
+         hovorná. Roky utekajú, dievèa sa nemíòa. Zadrhnú za dákeho niktoša, to ju rodièia nechcú.
+         Veru má už vyše tridsa. Keby chcel tento vdovèisko do jablka zahryznú. Je zrelé, pravda,
+         ale, bohuprisám, èervivé je nie.
+    </p>
+    <p>
+     Gejza Šipický sa zamýš¾a nad slovom: „Ožeò sa!“ a rozpomína sa, jako chodieval k svojej
+         nebožke na zálety. Myslí na roky, šastné roky, s òou prežité. Myslí na kryptu konèa lúky a
+         nieèo mu srdce stisne, do oka vkráda sa rosa.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ktorési jaro predával kus hory, svojej vlastnej hory židovi Schlesingerovi v Teplièke.
+         Sišli sa v Michale. Žid mal horu už obzretú. Odviezol inženiera k sebe, na dedinu a
+         pohostil ho. Ukazuje starému zemanovi svoje kone, pílu. Židova švarná dcéra prisadá ochotne
+         ku klavíru a hrá hosovi. Olovrantujú v besiedke v záhrade, celá rodina. Šipický pookrieva
+         poh¾adom na milé rodinné scény. Na druhý deò ráno vezie ho žid na svojom koèi domov do
+         Malinova. Ale inženier nevie dlho, dlho zabudnú na židovu krásnu besiedku, ani na bujného
+         šim¾a a závidí Schlesingerovi milú, teplú domácnos.
+    </p>
+    <p>
+     O týždeò prichádza do Malinova žid sám. Naviedol Šipického ¾ahko, aby mu podpísal pred
+         svedky kúpno-predajnú smluvu na kus tej hory. A priate¾stvo udržiaval i naïalej. I keï už
+         bola hora dávno vyrúbaná. I s rodinou sa vše doviezol na koèi k starému zemanovi. Erna sa
+         prišla ukáza i so snúbencom, mladým lekárom. Mladé kuèeravé židovèatá uèia sa oslovova
+         Šipického rodinným, dôverným „Gejza báèi“. —
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Roky utekajú. Gejza báèi sa nežení. Rozváža sa po stolici. A keï je doma, putuje vše —
+         ku krypte.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Vtípila so rozumu — stará Chabinka v Michale, gazdina na hornom konci obce. Nebárs
+         èistá, poriadna ženská. Nehanbí sa vyjs na ulicu strapatá, ufú¾aná, orašmaná, na zadku
+         rázporok ako svet. Muž spitý, gazdovstvo ide dolu kopcom. Syn na vojne. Dcéra neèibidlo.
+         Vyrastená síce dos, oèi èierne jako trnky, okaòa okatá. Bola by už dávno na miesto. Ale
+         èo, keï nik o òu nestojí. Povráva sa o milej Pavlíne kadeèo. Matka behá pár razy do dòa do
+         krèmy na kvaterku. Ako by mala pípe, stvora nešastná. Keï nestaèia na trúnok vajcia,
+         zrno, h¾adí zarobi ešte inak. Berie na noc¾ach vandrovníkov. Berie od nich po šestáku na
+         noc a dáva im spa na povale v sene alebo v humne na slame. Peniaze vyberá popredku. Iste
+         má zlé zkúsenosti s ranným vyberaním. Taký tulák sa vychytí trebárs na svite, len aby
+         nemusel plati. Takto, keï zaplatil popredku, zostane to drichna trebárs dopoludnia.
+         Vandrovnícka noc¾aháreò u Chabinov je známa na široko-ïaleko. Náhle sa zotmí, poènú sa
+         vandrovníci trúsi po jednom, po dvoch ako by to bolo domov. Furtáci, zapriadajú reèi s
+         Chabinkinou Pavlínou, dievèiskom všeteèným, rozpustilým. Dievèa dospieva medzi spustlou
+         cháskou vèaššie, jako by bolo treba. Panenské ruže na lícach èiernookej Pavlíny odkvitly,
+         neèakala ani, kým ju povedú k oltáru.
+    </p>
+    <p>
+     Matke, èo je i korhelica, sa osud dcérin vo¾áko rozležal v hlave. Nie, tak by to ïaleko
+         nezašlo. Dozvedela, sa, že starý inženier èi statkár v súsednej dedine h¾adá slúžku.
+         Vystrojila k nemu dcéru. Nezabudla jej da radu, aby si h¾adela starého „nacvíka“.
+    </p>
+    <p>
+     — Si ešte mladá, i podíva sa vieš, keï chceš. Bol by to špás, aby sa o teba nepotkol,
+         èudák vo¾áky! A keï by, musí si a vzia. A naposledy keby aj nevzal, preè a da nesmie a
+         budeš sa ma u neho do smrti dobre. I poruèi ti musí.
+    </p>
+    <p>
+     Keby sa Chabinka nebola spila a neležala už dávno na cintoríne, bola by iste so žia¾om v
+         srdci videla svoje nádeje zväda. Lebo veï starý inženier si Pavliných svodných,
+         roztúžených poh¾adov ani len nevšimol. A keï ju prvý raz zazrel v kuchyni podozrive
+         obnaženú, dupol nohou a spustil:
+    </p>
+    <p>
+     — Basom mu dušu i so ženskou! A tože èo má by?! Obleèieš sa ho, Pavlína, hneï a zaraz!
+         A ak by som to mal ešte raz vidie, pôjdeš v katy! Ja ti dám, nehanebnica vo¾aká!
+    </p>
+    <p>
+     V dome Šipického sa beztak dlho neudržala. Ale Malinovu prischla predsa. Spriahla sa s
+         vo¾ákym paholkom. I vzali sa po èase. A nerobili si z toho niè, že viezli so sebou so dvoje
+         tých drobizgov hneï k sobášu.
+    </p>
+    <p>
+     Na zemana-vdovca robila si èiernooká Pavlína laskominy márne.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     A žil si Šipický na svojej kúrii jako zakliaty princ v povesti. Po èase zanechal aj
+         inženierstvo. I zeme dal z väèšej èiastky do árendy. Na kohože má starý vdovec honobi?!
+         Iba pod zemiaky a kapustu nechal nejaký ten ostredok. A konca hradskej dal užíva pekný kus
+         role Borovanskej. Aby si nemyslela, že chce u nej zadarmo jes? Ináèe jedáva doma, doma
+         spáva. Ale za mestom sa mu zacnie každú chví¾ku. Cupká ta o palièke èi na jarmok èi na
+         divadlo alebo do cirkusu sa podíva. A keï niet inšieho, zájde si aspoò do hostínca na
+         rýnok na tri deci a poèúva reèi, klebety. Kupec Weiner ide vraj kazi Holzingera a drža
+         cukor, petrolej, ba skoro všetok špeceraj. Ba cukor bude dáva, horky bude, už i dáva o tri
+         krajciare lacnejšie na kile a petrolej ten najfajnejší, cisársky za 16 kr. liter, kdežto u
+         Holzingera stojí 18 iba taký obyèajný, veru dos lahodný. Ani je nie èistý, jasný, aj lampa
+         od neho èadí. Starý Šipický si umieòuje, že si musí kúpi hneï so pár kilov toho cukru.
+         Alebo aspoò tri, aby sa mu lepšie nieslo. A ¾utuje, že nemá so sebou dáku f¾ašku na
+         petrolej. Požièal by si dáku od hostinského, keby neokúòal.
+    </p>
+    <p>
+     Nedávno sa dozvedel v Michale peknú senzáciu. Mäsiarovi Klátikovi ušla žena. Takí už
+         starší manželia, troje detí majú. Ona už tiež nie žiadna mladica, aby sa mala tak pochabe.
+         A muž, èlovek ako kus chleba. Krotký, nežný, starostlivý, shánèlivý. A keby bola mala s kým
+         ujs. Ale s takým lumpiskom, pisárom od doktora Maèvaja. Vyžraný jako bravec, èervený ako
+         cvikla, oèi vysadnuté jako vôl na bitungu, nosisko veliké, hotový rypák a fúzy jako štetky.
+         Mala aj na kom oèi necha, ohera vo¾áka! A keby len to pitie. Ale bláznie sa, potvorník, za
+         každou sukòou, èo popri òom zašustí. Èerta si ho udrží. — Nabažie sa jej a nechá ju,
+         bláznicu zpochabenú, nehanblivú!
+    </p>
+    <p>
+     Domov sa Šipickému obyèajne podarilo sviez aspoò po po¾nú cestu, ktorou mal domov iba
+         štvrhodinku. Ba, keï to bol niektorý známy statkár, árendátor alebo zverolekár, zaviezol
+         starého pána až pred samý dom. Ešte by sa o nieèo potkol za mraku a nohu si vytkol.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Iréna Borovanských vracala sa domov z mesta. V ¾ahkých modrých delenových šatoch, èo tak
+         pristaly k jej bujným, lesklým be¾avým vlasom, zakrývaným žltým klobúkom-florentínom.
+         Kráèala kvetnatou luèinou, haditým chodníkom popri dumných vàbach po vysokom brehu dravej
+         rieèku. Zmrákalo sa. Iréna prežívala v duši znovu najnovšie dojmy. Lebo veï vracala sa z
+         mesta s dostaveníèka. Bol to mladý statkár, chlapec ako ma¾ovaný. Bola by šla za ním, zdalo
+         sa jej chví¾kami, trebárs na koniec sveta. Veï ju azda má i on rád. Dosia¾ síce hovorí viac
+         o láske než o ženbe. Nie èudo; je mladý, bezstarostný. A má majetok, veliký majetok. Ženi
+         môže sa trebárs zajtra. Rodièia ho odumreli, jedináka. Ach, bol by to život! Vozili by sa v
+         koèi, po známych, do mesta. Láskal by sa s òou krásavec, že by jej celá stolica závidela.
+         Ach, keby mal tak na majetku hájik, ako tu Borecký v Malinove, chodili by ta ruka v ruke
+         každý deò podveèer nadýcha sa èerstvého vánku, vône mladých svrèín a šepta si vrúcne
+         slová o svojej láske.
+    </p>
+    <p>
+     Po opojných rozpomienkach poèínala trochu vytriezvieva. Nie, nevezme si ma! preblesklo
+         to vše hlavou Iréninou. Bohatý statkár krásavec dcéru chudobnej dedinskej kupcovej?!
+         Odlúdia jej ho bohaté mladuchy, odvábia hrdé krásavice. Naèo márne dúfa?! oddávala sa
+         smutným myšlienkam. Ale rozpomínajúc sa na bozky, na vrúcne slová, ktoré jej dosia¾ znely v
+         ušiach, umieòovala si, že sa bude bi, bude bojova o toho, s ktorým sa jej zdá život tak,
+         ach, tak krásnym, ktorého jej urèil možno sám osud.
+    </p>
+    <p>
+     Idúc dedinou nerobila si niè zo závistných alebo káravých poh¾adov žien, vracajúcich sa
+         s po¾a s batohami trávy alebo sbierajúcimi na dvore raždie, aby uvarily nieèo k veèeri.
+         Domov vošla dvierkami na záhradke, tíško, aby ju nikto nezbadal. Preobliekla sa v boènej
+         izbe. Vytratila sa na dvor k hydine, ba i na prasce sa dnes rozpomenula, nabrala z hrnca,
+         stojaceho medzi dvermi, do vedra tlèe a niesla hladným kvièúòom na válovce do chlieva.
+    </p>
+    <p>
+     S matkou sišla sa až v sklepe.
+    </p>
+    <p>
+     — Ty si doma? — èudovala sa Borovanská. — Kedy si prišla?
+    </p>
+    <p>
+     — Ale, pred dákou hodinou — zacigánila dcéra. — Vilma nás chce navštívi na druhý
+         týždeò.
+    </p>
+    <p>
+     — Pre mòa a za mòa! Ale ty jej nemusíš to¾ké lakôtky sháòa ako predošle.
+    </p>
+    <p>
+     Kupcová vošla do izby. — Iréna! — kývla prstom na dcéru; dvere boly poodchýlené.
+    </p>
+    <p>
+     V dievèati hrklo. Aby sa tak bola matka dopoèula o jej tajných chodníèkoch!
+    </p>
+    <p>
+     — Dcéra moja! — spustila kupcova mäkšie. — Poèuješ novinu. Súsed Šipický a pýta.
+    </p>
+    <p>
+     — Chachacha! — od¾ahlo Iréne tak, že sa rozosmiala bezstarostne, ba rozpustile. — Ešteže
+         èo! Èo si to len vzal Gejza báèi do hlavy!
+    </p>
+    <p>
+     Borovanská zmerala dcéru prísne oèima. — Len sa tak nesmej, pochábe¾. Vidím, že si ešte
+         hlúpa. Rozvaž si dobre, èo som ti povedala, a ïakuj Bohu za šastie!
+    </p>
+    <p>
+     — Šastie! Tak?! — vzkypelo to v mladom dievèati. — Mám sa zadrhnú za starigáòa?! A že
+         by mal bol pýtal?! Pochybujem. Iste si ho, mama, iba zle rozumela. Alebo Gejza báèi zase
+         špásoval.
+    </p>
+    <p>
+     Oèi kupcovej zaiskrily. — Len ty, k¾ampa, svoju ma neuè. Viem, èo som poèula. Azda som
+         nie opitá. A viem, èo je špás a èo naozaj. Buï rada, že a chce, taký dobrý, poriadny
+         èlovek, a bohatý. Èomuže sa tak ufáš?! Vari príde pre teba dáky gróf, vicišpán èi fišká¾?!
+         Zostaneš na ocet alebo sa zadrhneš za dákeho šustra alebo chrapúòa. Takto môžeš by paòou.
+         A môžeš i mne, matke pomôc v mojej biede, trápení. Beztak by sa mi zišlo už raz trochu
+         pohovy, oddychu.
+    </p>
+    <p>
+     — Za Šipického?! Nikdy! nikdy, mama!
+    </p>
+    <p>
+     — Èuèíš ho, sprostaòa sprostá! Len sa ty tak ve¾mi nezariekaj! Ešte ty budeš rada! A
+         prsty si oblížeš a ïakova mi budeš. Kto vie, èi Šipický báèi k nám ešte dnes nenakukne.
+         Aby si ho tak urazila, chrbát mu otrèila! Paèesy ti vyšklbem, hrintu ti rozbijem!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Šipický toho veèera do Borovanských neprišiel. A neukázal sa ani na druhý a tretí deò.
+         Citlivý starý pán sa okúòal. Aby ho tak kupcová alebo dcéra nevysmialy! Nezniesol by to,
+         vedel to dobre.
+    </p>
+    <p>
+     Až na štvrtý deò pricupkal o palièke, usmievavý jako vždy, ale v oèiach s otázkou.
+         Pozdravil, spytoval sa, jako sa majú, doniesol si noviny, prosil Irénu, aby mu z nich
+         predèítala. Kupcová mu nevedela miesta nájs, bola mu ešte milšia, jako predtým. Dievèa si
+         ho poèalo skúmave obzera, šacova, èi by sa tie zvädlé pery, chránené šedinami, boly mohly
+         len pred pár dòami nieèo takého opováži?! Ale predèíta mu len predèitovala, i do
+         rozhovoru sa pustila so starým domácim priate¾om. Ale starý inženier odchádzal od
+         Borovanských predsa len so žia¾om v srdci. Z posmešnej, bárs usmievavej tváre Irény a jej
+         ¾ahostajného hlasu vycioval vzdor, nechu. Tak sa v nej trpko sklama! Veï si ho predsa
+         vážila skoro jako otca, veï na òom lpela, jako sa mu zdalo, úprimne sympatizovala s ním.
+         Chví¾ami poèínal ¾utova, že sa nezdržal, že dievèa pýtal. Nemohol, starý blázon, radšej
+         mlèa, pochova tajomstvo svojej pozdnej lásky navždy v hlbinách srdca?! Cítil by sa u
+         Borovanských teraz ako doma. I to pekné dievèa by na neho milšie pozeralo.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Kupcová naprávala dcére hlavu všelijak. Pozlotky i podobrotky.
+    </p>
+    <p>
+     — Diea moje! — a privinula ju vrelo k sebe. — na mòa sa nemáš èo hneva, ja ti len
+         dobre chcem. Èo mòa?! Pár rokov, možno, pobiedim a pominiem sa. Ale ty máš život pred
+         sebou. A život sa žije ¾ahšie s majetkom, jako bez neho. Triafa sa ti šastie. Že je
+         Šipický báèi starý?! Mala by si v òom viac otca jako muža. Len keï a má rád. Bola by si s
+         ním paòou. Neboj sa, keï ho nechceš ty, ulakomí sa naò dos iných, trebárs krajších,
+         mladších ako ty. Nevieš, èoho sa doèkáš, keï si tohoto pustíš. Trebárs budeš celý život
+         biedi a banova, že si si svojho šastia viac nevážila. Ja som sa nabiedila dos, otecko —
+         nechcem ho ohovára! Božechráò! Iba èo je pravda — nuž, otecko si rád trochu viac vypil,
+         ani karát sa nevedel, chudák, uvarova. Nabiedili sme sa dos, naplatili zmenky. Èasto som
+         si myslela, ešte keï si bola malá, na kolíske, na rukách, keï si sa hrávala s bábkami, èo
+         to len, Bože, Hospodine, na moje diea v živote èaká? Zase len gápe¾, bieda, starosti?!
+         Lebo veï èomu inšiemu sa môže poriadne chudobné dievèa úfa?… A teraz toto s tým súsedom!
+         Moja dcéra paòou, moje diea váženou statkárkou! Preè, bieda, preè, starosti! Zabláhala som
+         si, že budem raz spokojne oèi zatvára. Deti zaopatrené, ty bohatá pani, vážená, milovaná.
+         A môj sen — už sa mi plnil — sa mi má zase rozís? Ja mám zase ži v strachu, starostiach!
+         Ach, Bože, èo ma tak tresceš! — kupcová poèala tíško plaka.
+    </p>
+    <p>
+     — Mama, mama! Ako môžeš by taká na mòa! — žalostila dcéra. — Ctím si Gejzu báèiho,
+         h¾adím na neho jako na dáku rodinu, strýca èi ujca. Obslúžim ho rada, keï je u nás. Ale
+         jeho ženou?!… Mama, mama! Nesi¾ ma, neprehováraj ma! Ak ma neprestaneš — neviem, neviem…
+         ale sa mi zdá, že by som a, mama, nemohla ani rada ma!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Podveèer po práci prišiel zase Števo Cingoš, muž staršej dcéry Borovanskej. Gazdoval na
+         otcovskom, trošku zadåženom. So ženou žil ako ¾udia najviac, raz sa laskali, inokedy zase
+         poharkali. V prvých rokoch manželstva pútala ich viac náruživos, neskôr viac deti.
+    </p>
+    <p>
+     — Dobrý veèer! — vkroèil pomalým, ustatým krokom a posadil sa za stôl. Iréna práve
+         háèkovala pri obloku. — Èože porábame, urodzená sleèna? Kedy sa budeme vydáva?
+    </p>
+    <p>
+     — Staraj sa, Števo, radšej o seba! — odvrkla švagrovi mrzute.
+    </p>
+    <p>
+     — Vari sa hneváš? A preèo? Veï som ti nos neodhryzol. Ja že sa bude sleèinka smia,
+         výska, vyspevova, keï má takého bohatého ženícha. A ona ovesí hlavu, ako dudok v chrasti.
+    </p>
+    <p>
+     — Daj mi pokoj, paskudník! — tresla dvermi, odchádzajúc do druhej izby.
+    </p>
+    <p>
+     — Ba radšej rozum, rozum, dora sprostá! Chceš trucova, chceš si ho odradi! To sa ti
+         môže ¾ahko podari! Taký èlovek sa nedá pohadzova ako hnilá hruška, nemysli si! Vidno, že
+         nemáš ešte rozum. Ja na tvojom mieste by som sa ho držal zuby-nehty, na hrdlo by som sa mu
+         vešal, predchádzal by som si ho.
+    </p>
+    <p>
+     — To verím, nehanebník! Ja taká nemusím by.
+    </p>
+    <p>
+     — Tak?! Bola by si nehanebnica, keby si ho chcela?! Ba, „ruky bozkávam!“ by na teba
+         zïaleka volali a to takí páni, èo sa teraz o teba ani neotrú. Celá dedina, celé mesto by sa
+         ti klaòaly.
+    </p>
+    <p>
+     — O to nestojím. Preto si nemusím so starým èlovekom život viaza.
+    </p>
+    <p>
+     — Že vraj život viaza! — rozosmial sa švagor posmešne. — Ktože ti ide život viaza?
+         Vari, chudáèik, inženier báèi, starec, èo sa trasie jako huspenina?! Si myslíš, že ti bude
+         pädesiat rokov zavadza?! Dosta také rezké mladé dievèa jako ty, môže by trebárs do
+         mesiaca nebožký, akože mu to neprajem. Taká mladá krv, èo to môže taký starý èlovek dlho
+         vydrža? A keby si aj požil dáky rok-dva, nevídano! Umre ti, a za tebou, bohatou paòou sa
+         bude bláznie pol stolice.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Na útulnú, milú domácnos Borovanských z¾ahol akoby ažký mrak. Šipický síce neprestával
+         chodi. Usmieval sa, nosil krásne voòavé hrušky, jabåèka jako ma¾ované, žlté a biele
+         jasenné ruže. Rozpomínal sa, besedujúc, na staré dobré èasy. Prvotná sk¾úèenos ho prešla.
+         Poèal zase dúfa. Bude milý, bude nežný, pozorný. Nemožno, aby nevybadala, aby si neocenila
+         švárna Iréna, keï nie razom, aspoò èasom jeho èistú lásku.
+    </p>
+    <p>
+     Ale nebolo to už to, èo predtým. Nebol to už predošlý veselý priate¾ský krúžok troch
+         ¾udí, tráviacich v milom, úprimnom rozhovore spokojne dlhé zimné veèery i parné letné
+         odpoludnia. Iréne sa poèal starec zprotivova, prejedly sa jej tie roztúžené, nežné poh¾ady
+         jeho detský èistých, mladicky snivých modrých oèí. A s odporom poèúvala jeho nežné slová,
+         jeho mäkký, citom rozochvelý hlas, ktorý jej ustaviène pripomínal, že starý pán sa nevzdáva
+         nádeje.
+    </p>
+    <p>
+     A zmenil sa i jej pomer k matke, životom sklamaná vdova, vidiac, že sa jej ide rozplynú
+         posledný vábny sen, dala pociova dcére všetku horkos, ktorá sa valila z roztrpèenej
+         duše. Matka ju poèínala hna do práce, ofrf¾ala jej každý krajciar, èo na seba, na šaty, na
+         knižky vynaložila. Poèala ju nazýva — dvadsadvaroènú — starou dievkou. Nieèo zralo, èo i
+         pomaly, v duši roztrpèenej matky-vdovy. Jednoho dòa to z nej vyhrklo.
+    </p>
+    <p>
+     — Èo si ty myslíš, že sa ja budem na to díva, ako Šipického odbíjaš?! Myslíš si, že sa
+         Števo alebo Mariška budú s nejakým šustrom alebo pisárskym hladošom rodinkova? Veï ty by
+         si ani niè inšieho nevypriadla. Alebo sa mám na starú dievku díva? Ale ty, dievèisko,
+         nemáš rozum, musím ho ma ja. Fiflena fiflenská, trucaòa trucovitá, ja tvoj truc zlomím. Ty
+         pôjdeš za Šipického a basta!
+    </p>
+    <p>
+     Stalo sa, že sa matka s dcérou pohádaly. Roz¾útostnené dievèa sa vychytilo ku kamarátke
+         do mesta a zostala u nej deò-dva. Inokedy zas odišla matka, nakvasená, navštívi sestru do
+         Fiaèíc. No, nezostala dlho. Na druhý deò k veèeru sa vracala domov, rovno do svojho
+         skliepku, ku ktorému, trebárs si naò èasto ažkala, predsa len prirástla.
+    </p>
+    <p>
+     Èasom ochladly matka a dcéra k sebe tak, že žily, èo i pod jednou strechou a v spoloènom
+         byte, predsa len každá sama pre seba. Spávaly beztak každá v inej izbe. Nauèily sa i každá
+         inde jes, matka najviac v kuchyni, dcéra vo svojej izbe. Neprehovorily k sebe celé dni ani
+         slova. Iba, èo muselo by.
+    </p>
+    <p>
+     — Zaplatila tá Fro¾ková tú zlatku? — spytovala sa matka, vidiac sotreté meno a èíslo na
+         polici — bol tam tých mien a èísel, napísaných kriedou, pekný rad.
+    </p>
+    <p>
+     — Zaplatila — potvrdila Iréna.
+    </p>
+    <p>
+     Alebo:
+    </p>
+    <p>
+     — Ko¾kože to chce ten Reisinger?
+    </p>
+    <p>
+     — Že aspoò 100 korún musíme priplati.
+    </p>
+    <p>
+     — Ako sa bojí, potvora židovská! To¾ké roky èlovek od neho skoro všetko berie a ešte ti
+         bude, paèmaga, èloveka pred samým novým prenasledova. Teraz, keï má èlovek celé stovky
+         medzi svetom!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ktorýsi veèer bola Borovanská na posiedzke u zaa a dcéry.
+    </p>
+    <p>
+     — No, bude z tej kaše nieèo? — spytoval sa za.
+    </p>
+    <p>
+     — Z akej? S tým Šipickým?
+    </p>
+    <p>
+     — No, bude z tej kaše nieèo? — spytoval
+    </p>
+    <p>
+     — Ach, daj mi s tým radšej pokoj! Iba èo sa èlovek darmo žerie, keï na to pomyslí.
+    </p>
+    <p>
+     — Mama, mama, by na tvojom mieste, urobil by som krátky poriadok: „Vezmeš si ho, alebo
+         marš von z domu! že ho nechceš? Tak a koho chceš, ba teba kto chce, hlavaòa hlavatá?! Veï
+         nemá dievèisko sprosté rozumu, musíš ho ma ty, mama!
+    </p>
+    <p>
+     — Veï ja by aj, ale jakože sa ja budem, stará, chor¾avá osoba, furt hrdlova s takou
+         trucaòou! Beztak nemôžem vše ani spa, keï sa mi to všetko v hlave rozleží.
+    </p>
+    <p>
+     — Vieš, èo, mama? Ja sa do toho chytím. Zajtra skoèím k Šipickému, nech ju príde
+         vypýta. To by som sa podíval, aby ešte trucovala! Ja by som sa neudržal, na f¾aku by som
+         ju vyfliaskal! Keï uvidí, že by z toho bol škandál, dá si, trucaòa, azda len poveda. A my
+         od teba, mama, pôjdeme hneï kona ohlášky na faru.
+    </p>
+    <p>
+     — A ja dbám. Len aby sa proti tebe nepostavila.
+    </p>
+    <p>
+     — O to sa ty neboj. To je už moja staros.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Po raòajkách na druhý deò — Iréna si pribehla pre vodu, zaèala Borovanská v kuchyni:
+    </p>
+    <p>
+     — Oriaï sa, poriadne obleè. Vo¾akto k nám príde.
+    </p>
+    <p>
+     — Kto? — zadívalo sa dievèa na matku skúmave, neèakajúc niè dobrého.
+    </p>
+    <p>
+     — Kto? Akoby niè nevedela. Kto? Nuž, pytaè. Aby si mi vo¾akú surovos nevyviedla!
+         Neprežila by som to!
+    </p>
+    <p>
+     — Šipický?
+    </p>
+    <p>
+     — Áno. Veï je už aj èas. Celá dedina už ani o inom nehovorí.
+    </p>
+    <p>
+     — Mama, mama! — zapelo dievèa bô¾ne. Z uslzených oèí poèal mu š¾aha zúfalý vzdor. —
+         Prosím a, mama, preboha a prosím, nech nechodí! Ja zaò nepôjdem, nepôjdem nikdy! Mama,
+         mama, nesilte ma! Lebo ak to neprestane, ja to nevydržím, ja si vo¾aèo urobím! — odbehla so
+         zúfalým výkrikom chodbou do druhej izby a vrhla sa na poste¾, trhane vzlykajúc.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Šipický so Števom Cingošom na pytaky neprišli. Borovanská zabehla k zaovi v poslednej
+         chvíli, aby predsa len k Šipickému nechodil. Tak skoro a nasilu to nepôjde. Nech chodí
+         Šipický na besedu jako dosia¾. Veï my jej hlavu napravíme, — myslela si.
+    </p>
+    <p>
+     Starý zeman chodil a dúfal. Keï odišiel, paprèila sa vše švárna Iréna:
+    </p>
+    <p>
+     — Ach, dokia¾že ešte budeš chodi, starigáò protivný! — a poèala snova plány, že si dá
+         oznam do novín, do „Magyarországu“, z ktorého sa Šipickému to¾ko napredèitavala. Nieèo
+         takého jako:
+     <emph>
+      Za spoloènicu
+     </emph>
+     k osamelej dáme pôjde inteligentné vidiecke
+         dievèa. Považovaná chce by za èlena rodiny — a pod.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     IV
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Oznam do novín si švárna Iréna nedala. Nebolo treba. Šipický chodi prestal.
+    </p>
+    <p>
+     Nie že by bol popustil zo svojej vytrvalosti. Ani ¾úbos, tá pozdná ¾úbos neochladla v
+         jeho srdci. Stalo sa nieèo iného.
+    </p>
+    <p>
+     Pred samými vianoènými sviatky si zlomil nohu. Na klzkej, skoro ¾adovej ko¾aji na ceste
+         na vyšnom konci dediny. Cestou ku kurátorovi; chcel práve doplati na cirkevnú daò, a èi
+         niesol dobrovo¾nú obe. Natiahol sa jaký bol dlhý, chudák, na tom snehu èi ¾ade. I o chrbát
+         sa udrel. Nie div, že ostal bez seba. Ešte že deti idúce okolo porobily krik. Sbehli sa
+         ¾udia. Dvaja chlapi ho zaniesli do domu naproti.
+    </p>
+    <p>
+     Dom naproti bola žltá zemanská kúria Dina Boreckého. Toho Dina Boreckého, na ktorého sa
+         Gejza Šipický od dvadsiatich rokov poriadne nepodíval. Nevedel mu odpusti ten nešastný
+         proces, ktorý viedol kedysi proti jeho žene, svojej vlastnej tetke. Na ceste mu vyhol,
+         odvrátil sa, len aby sa im oèi nestretly. A teraz sa dožil toho, že otváral po dlhej mdlobe
+         a bezvedomí udivené oèi v cudzom príbytku, pod strechou, v posteli svojho starého
+         nepriate¾a.
+    </p>
+    <p>
+     Dino Borecký mal zemanskú èes, zemanský móres. Keï chorý prišiel k sebe, vošiel tíško
+         do izby.
+    </p>
+    <p>
+     — Gejza báèi, odpus mi, Gejza báèi! Èo bolo medzi nami, to nech je zabudnuté. Vítam a!
+         A vinšujem ti od Boha skorého vyzdravenia! — bral ujcovu ruku, aby ju pobozkal.
+    </p>
+    <p>
+     — Nechaj, syn môj! — bránil chorý. — Nehnevaj sa, že som sa ti tu usalašil. Veï som sem
+         ne-pri-šiel, ma do-nie-sli.
+    </p>
+    <p>
+     — Ach, báèi, báèi, aký si ty tvrdý èlovek! Veï sme sa my mali už dávno smieri. A teraz
+         to tak zariadil sám Boh!
+    </p>
+    <p>
+     Šipický naahoval suchú bielu ruku. Iba tenké dlhé žilky sa na nej modraly. — Veï je
+         tak, syn môj. Èo my ¾udia zmôžeme proti jeho vôli!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Do Malinova prifrèalo dvoje saní. Celá dedina si o nich rozprávala. Zastaly Dénešovie
+         Boreckých. Hostí doviezla sa na nich celá pátora, celá família Karola Motešického z
+         Vaïoviec, poèínajúc jeho ženou, tuènou zavalitou matrónou, potom pätoro dcier, od
+         najstaršej, dlhej, stúpala jako granatier, až po najmladšiu, tuèné ružovolíce, neve¾ké
+         dievèa, okrúhle jako buchta. Starý sliezal so saní ostatný. Vidno, prišli navštívi
+         priate¾a — prichodil by im švagrom — vlastne dievèatá chorého „Gejzu báèika“.
+    </p>
+    <p>
+     Boreckovci sa návšteve nebárs potešili. Nenavštevovali sa s Motešickovci vôbec. Hoci si
+         prichodili rodina, ochladli od seba už pred rokmi. Bolo to pre deti. Boreckého syn Šándor
+         poèínal zachádza pred rokmi do Vaïoviec. ahalo ho ta dvoje peknýeh èiernych oèí Marišky,
+         druhorodzenej dcéry Karola Motešického. Zamiešali sa do toho Boreckovci. Poèali syna
+         prekára, posmeškova rodièov jeho milej:
+    </p>
+    <p>
+     — Vari a tá kát¾a pobláznila?! Každý tým starým dievkam vyhýba, jako èert svätenej
+         vode. A on ti bude za nimi lieta na tretiu dedinu, ša¾o vo¾áky!
+    </p>
+    <p>
+     — Veï by si to s tou i vyženil! Iba ak planú hrušku v poli a dáky úl vèiel. Veï tí toho
+         aj nagazdovali! Naèínajú aj starootcovské. Síce nie div, keï kàmia taký rákoš panien,
+         hniliakov vo¾ákych!
+    </p>
+    <p>
+     Museli ich posudzova i pred svetom. Starému Motešickému sa dostaly tie reèi dáko do
+         uší. Keï sa obšmietal najbližšiu nede¾u okolo domu mladý Borecký a vyvolal Marišu do sadu,
+         zamiešal sa do toho otec dievèaa:
+    </p>
+    <p>
+     — Èože sa ty máš, synku po mojom sade tmoli, há! Èo ty máš na moju dcéru kýva, keï sa
+         nám vaši nehanbia do cti vstupova, dobrého mená nám nedajú! Keï sme vám nie dobrí, èo tu
+         máš h¾ada ?! Aló, marš!
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Tú nede¾u bol Šándor vo Vaïovciach naposledy. A od tej doby mali Boreckovci od
+         Motešickovcov pokoj. Hnevali sa, èasom hnev prešiel, Šándor Borecký sa priženil kamsi na
+         Dolniaky. I Karol Motešický vydal už tri dcéry. I vnúèat bola už hàba. Ale ak prešiel hnev,
+         stará odcudzenos trvala.
+    </p>
+    <p>
+     S nebárs ¾ahkým srdcom otvárali Motešickovci bránièku do Boreckých domu. Ženské dohonil
+         otec i predbehol. Ozval sa èierny Dunèo v bude vo dverách zjavila sa pehavá slúžka a o
+         chví¾u volal sám Borecký veselo a predsa s akousi trpkou výèitkou, ktorá nemohla nerani
+         Motešickovcov.
+    </p>
+    <p>
+     — Aj, podívajmeže sa ti ho! To sú veru vzácni hostia! Dajú sa vidie raz za desa rokov.
+    </p>
+    <p>
+     Starému Motešickému sahovalo veru hrdlo od hanby a rozpakov. Preèo to len muselo prís,
+         aby sa on musel prvý pokori pred tým hrdáòom?!
+    </p>
+    <p>
+     Ale vnišiel predsa. Za ním žena a dcéry. A nerobili si niè ani z chladného privítania,
+         ani z pátravých poh¾adov, ktorými ich Boreckovci premeriavali od hlavy do päty. Tým väèšmi
+         sa im potešil Gejza báèi, ležiaci v prednej izbe. Dievèatá sa od neho ani nehly. A predsa
+         neboly okolo neho samy, — lebo veï chorého báèiho strážila si žiarlive jako nejaký zlatý
+         poklad — mladá, švarná domáca dcéra.
+    </p>
+    <p>
+     Popoludní vybehávali ¾udia z chalúp na cengot saní znovu. Motešickovcom viezlo sa nazad
+         už trochu pohodlnejšie. Dve slobodné dcéry nechali pri báèikovi u Boreckých.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Na druhý týždeò sa starému inžinierovi zhoršilo. Jedol málo, horúèka neprestávala,
+         zlomená noha — darmo ju naprávali a preväzovali dvaja doktori — puchla, èo raz väèšmi.
+    </p>
+    <p>
+     Na tretí týždeò prišiel zápal p¾úc.
+    </p>
+    <p>
+     Motešických dcéry sa pri Gejzovi báèimu zamieòaly. Prišly ich odmeni aj vydaté sestry.
+         Neprišly s prázdnou rukou. Doniesly si sebou šunky, buchát, krapieò, jabåèek, i masla a
+         vajíèek pre „tetušku“, jako nazývaly starú Boreckú. To preto, aby Boreckovci na ne tak
+         nezazerali a trochu toho jedla im neofrflali.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Doma chytal sa Motešický za hlavu.
+    </p>
+    <p>
+     — Gejza Šipický a leža u Dina Boreckého! To vari sám èert spískal! To jako by mu bol
+         ten Dino schválne nohy podrazil!
+    </p>
+    <p>
+     — Veru, veru — vzdychala Motešická.
+    </p>
+    <p>
+     — A teraz ho ten poživkár od seba nepustí, èo by sa jako poberal domov.
+    </p>
+    <p>
+     — Známe to, potvorník! Dedi by si chcel a preto sa pcháš teraz ujcovi, prepytujem do… A
+         ešte pred pár dòami si ani len v tú stranu nepozrel, zbojník vo¾áky!
+    </p>
+    <p>
+     — Veru, deti moje, nebodaj budete pre tú škulibu ukrivdené!
+    </p>
+    <p>
+     — Aby tak na nás zabudol a poruèil všetko tým poživkárom, darmožrútom vo¾ákym! — poèaly
+         sa v Motešického hlave rodi obavy o budúcnos.
+    </p>
+    <p>
+     — Ach, radšej ani nespomínaj! To by už nesmelo by žiadnej pravdy na tom svete!
+    </p>
+    <p>
+     V sobotu písala Juliša — v tie dni práve ona opatrovala báèika — rodièom do Vaïoviec:
+    </p>
+    <p>
+     — Príïte hneï! Idú posla pre krá¾ovského notára — testament robi. List doniesol vo¾áky
+         pastierik už veèer za tmy.
+    </p>
+    <p>
+     — Vidíš ho, vidíš! — ušk¾abil sa Motešický na ženu v izbe. — Tí majú vo¾áko náhlo,
+         potvory potvorské! — prekladal bundu cez poste¾. Mal chu zaviez sa do Malinova hneï.
+         Ledva ho prehovorila žena, že veï azda ani ráno nebude neskoro.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Borovanská durila dcéru:
+    </p>
+    <p>
+     — Tak nepôjdeš, neposlúchneš svoju ma, dievèisko neposlušné, nepodarené! Takého dobráka
+         èloveka, a ona ho ohrdie! A teraz sa nechce ís ani podíva naò, poteši ho, poveda mu, že
+         naò myslíme. — — Dobre! — — Keï ty nemáš rozum, musím ho ma ja! Pôjdem ho pozre sama.
+    </p>
+    <p>
+     Iréna sopjala ruky prosebne:
+    </p>
+    <p>
+     — Mama, prosím a, neponižuj sa, nechoï! Ak ty pôjdeš, bude nás celý svet ohovára, že
+         si chceme da za obedy zaplati, èo, chudák, u nás zjedol!
+    </p>
+    <p>
+     — A keby aj?! Ale ja nie za to! S nami sa priatelil, naším súsedom je, k nám najviac
+         chodieval.
+    </p>
+    <p>
+     Dievèa vybehlo na záhradu. Primrznutý sneh jagal sa tisícerými hviezdièkami, stromy,
+         krovie pokrývala hustá bujná osuhe¾. Za záhradou ohromná biela pláò, splývajúca so šednúcou
+         sa dia¾avou. Vrchy skrývala ¾ahká hmla. Iréna pomyslela nevdojak na dobu kvetov, na jaro,
+         leto, keï kráèavala svižne, v srdci sladká nádej, do mesta na schôdzky s mladým statkárom.
+         A teraz si statkár berie inú. Dozvedela sa to od Vilmy Strakošovie. Dávno zabudol, èo
+         šeptával roztúžený. Hrdlo zalievala jej horkos. Hruï vlnila sa divoko bo¾astným
+         rozochvením. Bola by sa najradšej rozbehla do tej šírej dia¾avy, šedej, neznámej, ïaleko,
+         ïaleko, odkia¾ nieto návratu.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Šipickému bolo v nede¾u popoludní, keï prišiel notár, akoby lepšie. Jes síce nechcel,
+         ale modrým oèiam vrátilo sa trochu lesku, jasna. Obzeral domácich i nedomácich okolo seba.
+         A vyzeral spokojný.
+    </p>
+    <p>
+     Testament urobil bez okolkov. Notár ho písal. Usmieval sa žartovne:
+    </p>
+    <p>
+     — Preto pán inženier nemusí umrie. Chcelo by sa mu! Ko¾ké testamenty ležia i
+         desa-dvadsa rokov v skrini, stolíku, kým príde na ne rad!
+    </p>
+    <p>
+     Šipickému sa zatiahol kútik k úsmevu:
+    </p>
+    <p>
+     — Ako Pán Boh dá! A keby aj nie, sme tu všetci iba do èasu.
+    </p>
+    <p>
+     Motešický a Boreckovci viseli na každom slove, keï na smr chorý rozhodoval pomaly,
+         slávnostne, zamierajúcim hlasom o svojom majetku.
+    </p>
+    <p>
+     Keï dohovoril, prevzal slovo krá¾ovský notár:
+    </p>
+    <p>
+     — Všetko je jasné. Pán inženier chce poruèi dom pánu Boreckému, i zeme s tejto strany
+         všetky. A za vodou všetko pánu Motešickému i s horou. Iba pani Borovanská má z toho dosta
+         tú ro¾u pri hradskej, èo tam máva zemiaky. A peniaze v špárkase, štyri tisícky sleène Iréne
+         Borovanskej, a ostatok na polovice na cirkev a na obec.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Ako by bo] chorý, urobiac testament, vyèerpal všetku svoju povinnos, poèal v pondelok
+         slabnú. Už ani viac neprehovoril, iba pár nesrozumite¾ných výkrikov v horúèke. V utorok
+         nad ránom zaspal navždy.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     Pochovávali ho štvrtok. Bol práve odmäk, sanica bájeèná. Dedinu naplnili hostia z ce1ého
+         okolia. Bolo hodne zemanstva, mnoho z mesta, ba skoro celý stolièný dom, i pár farárov z
+         okolia. I Schlesinger dorukoval so ženou a dorastenými už demi. Doviezli sa na krásnych
+         modrých bukových saniach s mosadznými ozdobami, kone okrášlené èiernym flórom. Šastní
+         dedièia dohrnuli sa s celými famíliami. Pochovávali ho v kostole. Tuèný bruchatý pán farár,
+         èlovek už obstarnejší, rozplakal kázòou všetkých. Motešická sa žia¾om až zachodila. Svet si
+         pošuškával, že nežiali tak za príbuzným, ako skôr, že sa musí deli o dedictvo s
+         Boreckovci. Borecký si vykraèoval ešte pyšnejšie, jako predtým. Hja, pýcha rastie s
+         majetkom.
+    </p>
+    <p>
+     — A ten Schlesinger tiež prišiel, èo mu aj kleply zuby na prázdno! — poznamenal ktosi v
+         zástupe.
+    </p>
+    <p>
+     — Veï ten ani niè neèakal. Požil sa, huncút, zo Šipického ešte za jeho života. Nadarmo
+         od neho jeden kus hory za druhým nekupoval — ozvala sa z blízka odpoveï.
+    </p>
+    <p>
+     *
+    </p>
+    <p>
+     A leží starý zeman vo svojom, na svojom: v rodinnej krypte, po boku svojej ženy, ktorú
+         tak miloval. Leží za humny pri dedinke, ktorá mu tak prirástla k srdcu. Spí spokojne, sen
+         jeho neruší niè, iba vtáèkovia zašveholia vše na štíte striešky, a v lete zalieha k nemu
+         radostný spev žencov a žníc, brodiacich sa pestrými kvetmi voòavej luèiny.
+    </p>
+    <p>
+     Raz do roka zažiaria i nad jeho rakvou sviece a pokrývajú ju èerstvé vence. Ale ináè sa
+         o kryptu nikto nestará. Boreckovci a Motešickovci si žijú pre seba, zabúdajú každým rokom
+         viac na starého priate¾a. Žltá krypta je po celý rok opustená.
+    </p>
+    <p>
+     Ba celkom predsa nie. Vše objaví sa — vidno cez mreže — v hrobke alebo dolu na kamennom
+         prahu kytica sviežich belasých nezábudiek, velikých, bielych klincov alebo žltých èajových
+         ruží. Vo¾akto sa na starého zemana èasto rozpomína. V dedine sa povráva, že kytice nosieva
+         ta vše veèerom zádumèivá stará panna, ešte vždy pekná a hrdá, zamåkla — Iréna Borovanských.
+    </p>
+    <p>
+    </p>
+   </div>
+  </body>
+ </tei:text>
+</tei:TEI>

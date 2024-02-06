@@ -1,0 +1,3033 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1926602" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Cesta do kriminálu : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:85153916">
+     Kompiš, Peter (1901-1949)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     15065
+    </measure>
+    <tei:measure unit="pages">
+     91
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:85153916">
+      Kompiš, Peter (1901-1949)
+     </tei:author>
+     <tei:title>
+      Cesta do kriminálu
+     </tei:title>
+     <tei:pubPlace>
+      Košice
+     </tei:pubPlace>
+     <tei:publisher>
+      Knižnica slovenského východu
+     </tei:publisher>
+     <tei:date>
+      1926
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-31">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Cesta do kriminálu
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <p>
+   </p>
+   <p>
+   </p>
+   <quote>
+    Spolupútniciam k Nepochopenému, i Tej, èo spolu so mnou tak èasto zalietala
+                  v mysli do poviestkove krásneho rodiska starej mamy, venuje autor.
+   </quote>
+   <p>
+   </p>
+   <p>
+    Sedeli sme asi pätnásti, väèšinou manželské páry, na Sylvestra u Brejškov za spoloèným
+         stolom.
+   </p>
+   <p>
+    Pred polnocou navrhol vo¾akto:
+   </p>
+   <p>
+    „Každý nech rozpráva najzaujímavejšiu príhodu zo svojho života!“
+   </p>
+   <p>
+    — Brávo! Brávo! Tak je! — zvolala celá spoloènos, súhlasiac s návrhom. Rozumie sa,
+         navrhovate¾ musel sám zaèa.
+   </p>
+   <p>
+    Rozprával, ako vyviazol na vojne z objatia smrti.
+   </p>
+   <p>
+    Priate¾ M. rozprával, ako zachraòoval príbramských baníkov pri jednom nešastí. Jedenás
+         razy spustil sa s troma inými druhmi do šachty. Zachránil 39 ¾udí, buï pri povedomí alebo
+         zamdlených. Na dvanásty raz roztrhlo sa im lano na spúšadle. Uviazli v jednej štóle, kde
+         boli do tretieho dòa, kým ich, dvoch mrtvých a dvoch polomrtvých nevykopali.
+   </p>
+   <p>
+    Prišiel rad na priate¾a Zajíèka:
+   </p>
+   <p>
+    — Mám rozpráva, ako som sa dostal do kriminálu?
+   </p>
+   <p>
+    — Výborne! Výborne! Èujme! — ozývalo sa zo všetkých strán. Profesor St., náš dobrý
+         známy, presadol si k vôli Zajíèkovmu vyprávaniu od druhého stolu k nám.
+   </p>
+   <p>
+    — Bolo to v tie èasy, keï som sa oboznámil s mojou Miladou. —
+   </p>
+   <p>
+    Pekná, mladá žena Zajíèkova sa blažene usmiala.
+   </p>
+   <p>
+    — Keï už som mal blažené „áno“ vyvolenej svojho srdca, poèal som sa stara o byt. Ja som
+         býval v tie èasy na Žižkove s inženierom Š. v mládeneckej izbe u bankového sluhu. Poèul
+         som, že je kríza o byty. Spytoval som sa svojho domáceho:
+   </p>
+   <p>
+    — Pane Vomáèka, poraïte mi nejaký byt.
+   </p>
+   <p>
+    — Hm, to je ažká vec. To aby ste šli na bytový úrad. To v Prahe teraz byt tak ¾ahko
+         nenájdete.
+   </p>
+   <p>
+    Mòa pochybovaènos môjho domáceho naskrze neodstrašila, ani neznechutila. Starší,
+         slabší, chor¾aví ¾udia — a môj domáci bol už dvaašesdesiatroèný a èasto sa ponosoval na
+         reumu — sú skoro všetci pessimisti. A potom Pražania sú pohodlná, rozmaznaná nácia. Ja,
+         diea krkonošských hôr, otužilý, zaoce¾ovaný od mladosti, ja si byt nájdem. A musím ho
+         nájs, a èo by som ho mal štrnás dní h¾ada.
+   </p>
+   <p>
+    Neposlúchol som radu domáceho. Na bytový úrad sa obrátim iba, keby už naskrze nešlo
+         ináè.
+   </p>
+   <p>
+    Tak teda byt h¾ada. Hybaj ja do administrácie „Národní Politiky“. Predplatil som si
+         noviny na mesiac. Èíslo z toho dòa som si tiež kúpil. Pozerám: „Byty. Pronájom.“
+    <emph>
+     Slušný pán
+    </emph>
+    pøijme se do pìknì zaøízeného pokoje.
+    <emph>
+     Vymìním
+    </emph>
+    pokoj s plotnou v Karlínì za byt o 2-3 pokojích s
+         pøíslušenstvím na Vinohradech.
+    <emph>
+     Sleèna
+    </emph>
+    z venkova s
+         aprovisací a vlastními peøinami pøijme se na byt a na stravu k profesorské vdovì.
+    <emph>
+     Nádhernì zaøízený pokoj
+    </emph>
+    pronajme se distinguovanému pánu,
+         nejradìji cizinci, na nábøeží.
+    <emph>
+     Studenty
+    </emph>
+    do bytu pøijmu.“
+         Tak preèítal som so 40 drobných oznamov, ale pre mòa nebolo medzi nimi niè súceho.
+   </p>
+   <p>
+    No, niè to. Bude nieèo zajtra.
+   </p>
+   <p>
+    Druhého dòa som našiel medzi hromadou iných oznamov:
+    <emph>
+     „byt o 2
+            pokojích
+    </emph>
+    s pøíslušenstvím pronajme se v pražském pøedmìstí. K doptání u R.
+         Marka, Žitná ul. 11.“
+   </p>
+   <p>
+    Vybehol som ako bez seba, vrútil sa do tramwaye a presadnúc raz, dostal som sa potom
+         pešo do oznaèeného domu. Pán R. Marek bol malý kramár. Predával zeleninu, tvaroh a kyslú
+         kapustu. ¼udí mal plný sklep. Ale nekupoval niè ani jeden. Každý sa vypytoval na oznámený
+         byt.
+   </p>
+   <p>
+    — Kde je ten byt? — spytujem sa.
+   </p>
+   <p>
+    — V Kobylysích — odpovedá pán Marek pokojne.
+   </p>
+   <p>
+    — Èloveèe, a to vy nazývate pražským predmestím? Veï je to dve hodiny od Prahy.
+   </p>
+   <p>
+    — To by se mìlo udat. Takový švindl! — rozèulovala sa nejaká pani.
+   </p>
+   <p>
+    — Pražské pøedmìstí to je, vždy je to u Prahy — uisoval nás dobrodušný hokynár. — A
+         dvì hodiny to nejsou. Za pùldruhé hodiny jsem tam vždycky.
+   </p>
+   <p>
+    Nechcel som sa dohadova. Pri takej hádke padne pár ostrejších slov a hneï je z toho
+         urážka na cti a súd. Radšej som odbehol.
+   </p>
+   <p>
+    Tretieho dòa poèal som „Národní Politiku“ už dostáva na byt.
+   </p>
+   <p>
+    Študoval som ju každé ráno už v posteli. Rozumie sa samo sebou, nezaèal som senzaènými
+         telegramami, ale malým oznamovate¾om. „Byty, pronájem.“ Keï som zoèil nieèo, z èoho som si
+         s¾uboval byt, vyskoèil som z postele jako jeleò a za pä minút som bol umytý i obleèený.
+         Inokedy mi to trvá vyše pol hodiny.
+   </p>
+   <p>
+    Vybehol som z domu, vsadol na tramway a viezol sa v oznaèenom smere.
+   </p>
+   <p>
+    Obyèajne prišiel som už prineskoro. Byt bol už zadaný.
+   </p>
+   <p>
+    Hja, keï sú v Prahe ešte i väèší ranostaji, ako som ja. Vstanú trebárs o šiestej a o
+         siedmej sú na mieste.
+   </p>
+   <p>
+    Proboval som ráno vèaššie vsta. Bol som celý ospalý, raòajky mi domáci ešte neposlali
+         do postele — robievali to okolo pol ôsmej — nože, raòajkoval som v kaviarni. O pol siedmej
+         študoval som už „Národní Politiku“.
+   </p>
+   <p>
+    Ten deò nebolo oznámené niè pre mòa súceho.
+   </p>
+   <p>
+    — Nerobí niè — pomyslel som si. — Len trplivos.
+   </p>
+   <p>
+    Druhého dòa som èítal:
+   </p>
+   <p>
+    <emph>
+     „Pøedá se zaøízený byt o pokoji a kuchyni
+    </emph>
+    u Karlova
+         mostu. Nabídky pod znaèkou: „I. poschodí è. 1943“ na adm. t. l.“
+   </p>
+   <p>
+    Napísal som hneï nabídku a zaniesol ju osobne do administrácie „Národnej Politiky“.
+   </p>
+   <p>
+    Èakal som odpoveï.
+   </p>
+   <p>
+    Druhého dòa neprišlo niè.
+   </p>
+   <p>
+    Šiel som do administrácie „Národnej Politiky“.
+   </p>
+   <p>
+    — Prosím vás, odniesla si už stránka, ktorá inzerovala byt pod „I. poschodí è. 1943.“
+         nábidky?
+   </p>
+   <p>
+    Úradníèka podívala sa do oddielu vo ve¾kej skrini.
+   </p>
+   <p>
+    — Ne, è. 1943 ještì není odnešeno.
+   </p>
+   <p>
+    Èakal som osem dní. Tých osem dní som dúfal. Tých osem dní dal som almužnu skoro každému
+         žobrákovi, ktorého som stretol na ulici. Robil som to z pôverèivosti, že budem ma zdar, že
+         žobrákovo „Pán Boh zapla!“ zaplatí mi Pán Boh bytom.
+   </p>
+   <p>
+    Neprišla žiadna odpoveï na moju nabídku.
+   </p>
+   <p>
+    Študoval som „Národní Politiku“ ïalej a písal nabídky ïalej. Písal som, že sa chcem
+         oženi, nemôžem nájs bytu. Aby mi na každý pád prenajali oznamovaný byt, že urobia mi tým
+         pravé dobrodenie. Na inú nabídku som napísal, že som mladomanžel, že pre smilovanie božie
+         prosím, aby mi oznamovaný byt prenajali. V tretej nabídke som písal, že som ideálny
+         obyvate¾: bezdetní manželia, tichí, solidní: že nemáme klavír, ani nespievame, návštevy
+         neprijímame. Chodíme spa o 9. hod. veèer, o 7. ráno vstávame. Sme ve¾kí milovníci èistoty
+         i poriadku. Vo štvrtej nabídke som uisoval, že kto ma vezme na byt, vykoná tým pravé
+         dobrodenie mestu Prahe a celej èeskoslovenskej republike, lebo mi tým umožní, aby som sa
+         oženil a založil rodinu. A zakladanie rodín vyžaduje predsa záujem republiky.
+   </p>
+   <p>
+    Po prvom mesiaci obnovil som predplatné na svoj denník ešte na mesiac, po druhom mesiaci
+         na tretí. Napísal som so 70 nabídiek. Nedostal som odpovede ani na jednu jedinú. Ponosoval
+         som sa kamarátom v úrade, rozpovediac im, èo a jako h¾adám.
+   </p>
+   <p>
+    — Pane kolega, to musíte h¾ada inak — radil mi pokladník Ticháèek. — Na každý oznam
+         píše i sto ¾udí. Na oznamy písa nabídky, to nemá smyslu. To musíte vy da oznam do novín,
+         že h¾adáte byt.
+   </p>
+   <p>
+    Poslúchol som. Zašiel som do administrácie „Národnej Politiky“ jako najrozšírenejšieho
+         pražského èasopisu a zadal oznam:
+   </p>
+   <p>
+    „Mladomanželia h¾adajú v Prahe alebo v predmestí aspoò 2-izbový byt s príslušenstvom.
+         Nabídky pod zn. „Mladomanželia“ do adm. t. è.“
+   </p>
+   <p>
+    Za oznam zaplatil som 24 korún.
+   </p>
+   <p>
+    Prišiel som si druhý deò pre nabídky do administrácie.
+   </p>
+   <p>
+    — Ešte nemáte niè — odpovedala mi sleèna mrzute. — Vèerajší oznam a už nabídka? Príïte
+         si zajtra. Dnes sme ešte ani poštu neotvorili.
+   </p>
+   <p>
+    Na druhý deò tiež nebolo nièoho. Ani na tretí, ani na štvrtý.
+   </p>
+   <p>
+    — Dokedy môže prijs nabídka? — spytoval som sa šiesteho dòa.
+   </p>
+   <p>
+    — My vydávame nabídky do jedenásteho dòa.
+   </p>
+   <p>
+    Umienil som si, že sa do administrácie do jedenásteho dòa ani nepodívam. Potom v
+         posledný deò môžem si ich vyzdvihnú trebárs všetkých desa.
+   </p>
+   <p>
+    Premáhal som sa, keï ma cesta zaviedla blízko „Národní Politiky“. Ale do administrácie
+         som predsa nevkroèil.
+   </p>
+   <p>
+    — Azda skôr nieèo príde, keï ta prestanem chodi — chcel som si nahovori.
+   </p>
+   <p>
+    Na jedenásty deò šiel som s trasúcim srdcom do administrácie zase. Na rohu dal som dva
+         šestáky žobrákovi pre šastie, pred samou administráciou stretol som kominára. Tiež
+         šastie. Do administrácie som už ani nebežal, ale letel.
+   </p>
+   <p>
+    — Prosím Vás, prišlo nieèo na znaèku „Mladomanželia“?
+   </p>
+   <p>
+    — Mladomanželia niè.
+   </p>
+   <p>
+    Požaloval som sa kolegovi Ticháèkovi.
+   </p>
+   <p>
+    — Ko¾ko razy bol oznam uverejnený?
+   </p>
+   <p>
+    — Že ko¾ko razy? Raz.
+   </p>
+   <p>
+    — To je smiešne. Uverejni oznam raz, to je nerozumné vyhadzovanie peòazí. Kto chce
+         oznamom nieèo docieli, musí ho uverejni aspoò tri razy — radil mi znalecky.
+   </p>
+   <p>
+    Poslúchol som. Bolo to práve pred Ve¾kou nocou. Tým lepšie. Aspoò bude ma oznam tým
+         lepší výsledok. Ako známo, sú sviatoèné èísla pre inzerciu najlepšie. Sú bohatšie. Každý si
+         ich cez sviatky pozorne preèíta i odloží.
+   </p>
+   <p>
+    Zadal som inzerát do troch èísel. Zaplatil som zaò 72 korún.
+   </p>
+   <p>
+    Lietanie do „Národnej Politiky“ zapoèalo sa po sviatkoch znovu.
+   </p>
+   <p>
+    — Èíslo 2895 „Dobrodenie“, mám nieèo?
+   </p>
+   <p>
+    — Niè.
+   </p>
+   <p>
+    Poèal som chodi každý druhý deò. Potom každý tretí.
+   </p>
+   <p>
+    Na jedenásty deò vyahovala úradníèka pre mòa dopis v modrej obálke.
+   </p>
+   <p>
+    — Koneène! Koneène! — jásal som v duši. — Tak teda predsa bude byt!
+   </p>
+   <p>
+    Srdce mi búchalo, keï som obálku otváral. Poèal som èíta dychtive:
+   </p>
+   <p>
+    „E. Reisinger, povoznictví, doprava nábytku, Praha II., Havlíèkovo námìstí, doporuèuje
+         se Vám k stìhování. Zvláštní stìhovací vozy. Kulantní obsluha. Mírné sazby. Raète si
+         vyžádat nabídku.“
+   </p>
+   <p>
+    Zmaèkal som reklamnú cedu¾u, celý sklamaný a zahodil ju do kúta.
+   </p>
+   <p>
+    S kolegom Ticháèkom, ktorý mi poradil da oznam do „Národní Politiky“, sa od tých èias
+         ani neshováram.
+   </p>
+   <p>
+    Èo robi? Èas uteká. Už by sme sa mali zasnúbi, a ja ešte vždy nemám bytu.
+   </p>
+   <p>
+    Koneène poslúchol som svojho domáceho a zašiel na bytový úrad.
+   </p>
+   <p>
+    Bol na starom námestí, nad pohrebným ústavom, v treom èi štvrtom poschodí. Schody boly
+         tmavé, úzke, kráèalo sa po nich ako na vežu. Koneène zastavil som sa pred dvermi, na
+         ktorých stkvel sa nápis na bielom papieri:
+   </p>
+   <p>
+    „Spoleèný bytový úøad hlav. mìsta Prahy a obcí pøilehlých.“
+   </p>
+   <p>
+    Vošiel som dvermi na chodbu. Dojem, ktorý urobily na mòa kancelárie a chodby bytového
+         úradu, bol nesmazate¾ný. Na chodbách hemžili sa ¾udia, mladí mužskí, vyschlé staré panny,
+         matky s deckami, pekné i menej pekné manželské páry, elegáni, ošumelí penzisti, širokí
+         brucháèi èervených lící, špeditérsky robotník s modrou zásterou, natieraè, z ktorého razil
+         na desa krokov zápach bariev, umazaný uhliar, vážní, škrobení profesori s cvikrami na
+         uèených nosoch, i zvedaví redaktori, premávajúci sa hore-dolu, na všetko zvedaví, všade
+         naèúvajúci, dychtiaci ulovi pre svoje noviny nejakú senzáciu.
+   </p>
+   <p>
+    Stará, dlhá, suchá úradníèka, patrne stará panna, stála za stolíkom blízko vonkajších
+         dverí a zapisovala do ve¾kej knihy mená príchodiacich i struèný predmet ich žiadosti.
+         Vyzerala stará, ako by zo stredoveku. Bola žltá, èi popolavá, pokojná, zapisovala všetko s
+         takou rutinou, ako by bola v bytovom úrade, ktorý bol založený asi pred rokom, aspoò od
+         polstoroèia.
+   </p>
+   <p>
+    Pristúpil som k nej.
+   </p>
+   <p>
+    — Raète se jmenovat?
+   </p>
+   <p>
+    — Alois Zajíèek.
+   </p>
+   <p>
+    — Ženat?
+   </p>
+   <p>
+    — Svoboden, ale chci se právì ženit.
+   </p>
+   <p>
+    — Bytem?
+   </p>
+   <p>
+    — Žižkov, Školská ul. è. 4.
+   </p>
+   <p>
+    — Pøejete si?
+   </p>
+   <p>
+    — Byt.
+   </p>
+   <p>
+    — Dìkuji. Jste hotov.
+   </p>
+   <p>
+    Zaèiatky boly teda mnohos¾ubné. Podišiel som ku skupine èakajúcich. Staršia žena v šatke
+         rozprávala: „Bývame v jednej izbe, ja s mojím starým a dcéra s mužom. Majú šestoro detí.
+         Sme desiati. Varíme si na plotne v peci; kuchyne nemáme. Ani sa èlovek nevyspí, to¾ko sa
+         ten drobizg nakrièí. Ani uvari si èlovek poriadne nemôže, i kädí sa z pece, i steny vlhnú.
+         Ja mám už na skapanie.“
+   </p>
+   <p>
+    — Máte už podanú žiados?
+   </p>
+   <p>
+    — Mám už vyše polroka. A niè nemôžem dosta.
+   </p>
+   <p>
+    — Ste chudobná, nemôžete plati.
+   </p>
+   <p>
+    Nedostanete niè — prorokoval jej suchý, dlhoèizný mužský a ušk¾abil sa vyceriac svoje
+         iste od fajèenia hnedé zuby.
+   </p>
+   <p>
+    — Buïte radi, že máte aspoò tú jednu izbu. Ba dajte si pozor, aby vám i tú nevzali —
+         strašila starkú žltá, kolozubá stará panna s ve¾kým staromódnym klobúkom s perami.
+   </p>
+   <p>
+    Najviac ¾udí tlaèilo sa pred kanceláriou šéfa úradu. Utvorily sa z nich dva rady. Akási
+         ženská vyšla z kancelárie. Líca jej blèaly rozèúlením:
+   </p>
+   <p>
+    — To je predsa škandál! Dám to do novín! Veï je to hrozné! — od¾ahèovala si.
+   </p>
+   <p>
+    Ale ¾udia, stojaci vo dvoch radoch, nevšímali si jej žalôb, ale dávali pozor, aby ich
+         nikto nepredbehol.
+   </p>
+   <p>
+    — Neráète sa tisnú predo mòa! Som tu dlhšie jako vy!
+   </p>
+   <p>
+    — Teraz nasledujem ja — fufnal malý èlovieèik a ve¾kým cylindrom na hlave.
+   </p>
+   <p>
+    Jedon nový príchodzí proboval sa tlaèi pomedzi dva rady ku dverom.
+   </p>
+   <p>
+    — Oho! ozvalo sa naraz z dvadsiatich hrdiel. — Idete nazad! Teraz príde a chcel by by
+         prvý!
+   </p>
+   <p>
+    — Puste ma na moje miesto! Bol som tu o desiatej ráno.
+   </p>
+   <p>
+    — Známo také chytristiky! Preèo ste odišli?! Musíte si poèka. Miesta sa nerezervujú! —
+         ozývalo sa zo všetkých strán.
+   </p>
+   <p>
+    Jedno mladé dievèa ozvalo sa z radu:
+   </p>
+   <p>
+    — Prosím vás, páni, puste ma prvú! Zameškám si klavírnu hodinu.
+   </p>
+   <p>
+    — Ja si zameškám úrad.
+   </p>
+   <p>
+    — Ja tratím mzdu.
+   </p>
+   <p>
+    — Choï si ty na svoju klavírnu hodinu, aspoò nám nebudeš zavadza — sypaly sa poznámky
+         zo všetkých strán.
+   </p>
+   <p>
+    Vyšiel z prednostovej kancelárie asi tridsaroèný robotník.
+   </p>
+   <p>
+    — Zbojníci! Úžerníci! Keasi! Niè mi nedali, oplani! Vyhádza ich z kancelárií, hneï by
+         sa pomohlo pár ¾udom k bytu — od¾ahèoval si.
+   </p>
+   <p>
+    — Èo sa vám stalo? — obklopilo robotníka rozèúlene rozhadzujúceho rukama so pár
+         ženských.
+   </p>
+   <p>
+    V radoch èakajúcich omdlela nejaká stará pani. Shýbali sa nad òu, ale nechali ju len
+         leža na chladnej chodbe, kým neprišiel sluha. Nikto nechcel opusti v rade miesto, ktoré
+         si horko-ažko vybojoval.
+   </p>
+   <p>
+    Vyšla z kancelárie pani s dvoma demi. Usedave plakala.
+   </p>
+   <p>
+    Nové a nové stránky, po jednej vchádzaly a nové vychádzaly. Mladý mužský, s kòazským
+         kolarom odbavil sa v okamžení.
+   </p>
+   <p>
+    — Èo tak skoro? — spytovali sa ho ¾udia èakajúci predo dvermi. — Dali vám byt?
+   </p>
+   <p>
+    — Nie. Veï ja som byt ani nežiadal. Ja už byt mám. Uzavrel som s domácim pánom nájomnú
+         smluvu. Predložil som ju bytovému úradu, aby mi ju schválili.
+   </p>
+   <p>
+    — Schválili vám ju?
+   </p>
+   <p>
+    — Schválili.
+   </p>
+   <p>
+    Ja som žasol, že ani ten, kto si našiel byt sám, nie je zbavený behaèky na bytový úrad.
+   </p>
+   <p>
+    Kým došiel na mòa rad, bol som už blízky mdlobe. Skoro som sa toèil od slabosti. Bolo po
+         jednej hodine na poludnie, keï otvorily sa dvere a objavil sa v nich mrzutý starý pán s
+         okuliarmi na nose. Spýtal sa:
+   </p>
+   <p>
+    — Èo si prajete?
+   </p>
+   <p>
+    — Mohol by som hovori so šéfom bytového úradu?
+   </p>
+   <p>
+    — Ja som. Èo si prajete?
+   </p>
+   <p>
+    Pripravoval som sa už asi dve hodiny na slávnostný okamžik, keï predstúpim pred šéfa
+         bytového úradu, a v duchu sostavoval som si už vopred slová, ktorými obmäkèím tú vplyvnú
+         osobnos, ktorá má rozhodnú nad mojím osudom. Umieòoval som si, že budem výreèný, citný,
+         že musím odmäkèi skalu, nie èloveka. Ale únavou vyšumelo mi z hlavy všetko. Stál som pred
+         mrzutým, starým, šedivým úradníkom ako malé decko, ktoré zazvonilo na elektrickom zvonci na
+         dome a, keï vybehol z domu domovník, nevie, èo by mu odpovedalo.
+   </p>
+   <p>
+    — Mám jednu prosbu — vyrazil som koneène zo seba, v strachu, že mi starý pán zavre dvere
+         pred nosom.
+   </p>
+   <p>
+    — Ak idete o byt, to sa márne ustávate. My nijakých bytov nemáme.
+   </p>
+   <p>
+    — Odpuste. Ja som si myslel, že je tu bytový úrad.
+   </p>
+   <p>
+    — Áno, my sme bytový úrad. Ale nateraz nijakých bytov nemáme. Ale h¾adajte byt, ktorý by
+         sa dal zabra. Na pr. keï máloèlenová rodina obýva prive¾a miestností, alebo má magazínové
+         miestnosti, ktoré sú už dlhší èas prázdne. Potom si napíšte žiados a udajte nám také byty.
+         Porúèam sa!
+   </p>
+   <p>
+    Zachlopil mi dvere pred nosom.
+   </p>
+   <p>
+    Študoval som paragrafy vládneho nariadenia, týkajúceho sa zaberania bytov. Informoval
+         som sa na všetky strany. Kupoval som si aj pätoro novín denne a študoval pilne všetko, èo
+         tam o bytoch stálo. Potom vydal som sa na zkusy mestom, h¾ada byt, ktorý sa dá zabra.
+         Vypytoval som sa na také byty u domovníkov, u svojho šustra, krajèíra, u práèky, po
+         obchodoch, u mäsiarov, v kaviaròach.
+   </p>
+   <p>
+    Vrazil som do pekného poschoïového domu a poèal študova soznam obyvate¾ov. Keï v
+         niektorom poschodí bolo málo navštíveniek, vypytoval som sa domovnice:
+   </p>
+   <p>
+    — Èo pán Fleischmann? Nemohol by ma vzia na byt?
+   </p>
+   <p>
+    — Ale, èo by! Veï ten má dve izby plné súkna! A potom veï tých je šestoro!
+   </p>
+   <p>
+    A poèal som podobným spôsobom vyšetrova domy rad-radom.
+   </p>
+   <p>
+    Raz ma šusterský uèeò zaviedol za 5 korún na koniec Karlína. Že vie vraj o jednej panej,
+         ktorá mi môže da byt.
+   </p>
+   <p>
+    Prišli sme na koniec mesta k vo¾ákej tehelni. Vyzeralo to biedne. Vkroèíme do vysokého
+         domu. Zápachu, ako to býva v domoch, preplnených chudobou.
+   </p>
+   <p>
+    Schody nemaly konca-kraja. Zazvoníme. Vyjde nám otvori biedna špinavá ženská. Vedie nás
+         do kuchyne, v ktorej práve prala. Pri obloku stálo dvoje ufú¾aných, neduživých detí. Vzduch
+         bol na zadusenie.
+   </p>
+   <p>
+    — Máte na vydanie byt?
+   </p>
+   <p>
+    — Áno. Trebárs i so stravou. Dvoch pánov už mám.
+   </p>
+   <p>
+    — A ko¾ký je ten byt?
+   </p>
+   <p>
+    — Ko¾ký? Jedna izba. Bývali by ste tam traja.
+   </p>
+   <p>
+    — A samostatný byt s kuchyòou atï. nemáte?
+   </p>
+   <p>
+    — Ako by som mala kuchyòu, keï sama v nej bývam s demi!
+   </p>
+   <p>
+    Odohnal som uèòa od seba a vrátil sa sklamaný domov.
+   </p>
+   <p>
+    — No, máte už nieèo, pane Zajíèek, — spytoval sa ma domáci.
+   </p>
+   <p>
+    — Niè.
+   </p>
+   <p>
+    — V dnešných èasoch by bolo najlepšie h¾ada mladuchu, ktorá má byt sama.
+   </p>
+   <p>
+    Neodpovedal som od zlosti.
+   </p>
+   <p>
+    Na tretí deò som sohnal — byt. Vlastne nie byt, iba adresu bytu, ktorý by sa dal zabra.
+         Vlastne celý byt to nebol, iba èiastka bytu pani Eisenschimmlovej v Ružovej ulici, vdove po
+         obchodníkovi. Bývala v 5-tich izbách, kuchyni, komore, kúpe¾ni atï. sama so slúžkou.
+   </p>
+   <p>
+    Podal som si žiados na bytový úrad a prosil, aby èiastka bytu pi Eisenschimmlovej bola
+         zabraná pre mòa a pre moju snúbenicu. Akonáhle nám bude byt pridelený, chceme sa sobra.
+   </p>
+   <p>
+    — Doneste si na žiados 2-korunový kolok, — pouèovala ma dlhá suchá sleèna na bytovom
+         úrade.
+   </p>
+   <p>
+    Vytiahol som dve koruny.
+   </p>
+   <p>
+    — Ráète mi za dve koruny ten kolok nalepi.
+   </p>
+   <p>
+    — My kolky nepredávame. To si musíte kúpi v trafike.
+   </p>
+   <p>
+    Èo bolo robi? Skoèil som do trafiky a vrátil sa s kolkom.
+   </p>
+   <p>
+    — Kedy si mám prís pre odpoveï?
+   </p>
+   <p>
+    — Kedy? To sa nemôže vedie. Keï budete od nás predvolaný.
+   </p>
+   <p>
+    Predvolaný som nebol. Asi po mesiaci šiel som svoju žiados na bytový úrad urgova.
+   </p>
+   <p>
+    Posielali ma z kancelárie do kancelárie. Musel som poveda svoje meno, bydlisko, dátum,
+         kedy som žiados podal. Potom h¾adali pod¾a obecedy mien èíslo mojej žiadosti. Potom
+         prezreli v rôznych soznamoch, èo sa s mojou žiadosou stalo. Až v izbe è. 4. zvestoval mi
+         malý plešivý úradník s okuliarmi:
+   </p>
+   <p>
+    — Vaša žiados musela by odvrhnutá, lebo pani Eisenschimmlová podala proti zabraniu
+         svojho bytu rekurz, èili protest, a síce na základe toho, že má u seba tri sleèny na byte.
+         Má síce pä izieb, ale ona, s troma podnájomniciami a slúžka je pä osôb, tak že majú nárok
+         na celý byt a niè im nemôže by zabrané.
+   </p>
+   <p>
+    S dlhým nosom som odchádzal. Až teraz mi svitlo v hlave, že žiados môže by i
+         odmrštená, že nie každý udaný byt musí by zabraný.
+   </p>
+   <p>
+    Vychytil som sa do mesta sháòa nové adresy bytov, ktoré by sa daly zabra. Behal som po
+         domovníkoch, po trafikách, po hostíncoch, po mliekaròach. Adries dozvedel som sa mnoho,
+         menovite od kramáriek. Vôbec pozoroval som, že sú ženské sdielnejšie, ako chlapi. Ale,
+         bohužia¾, ženské údaje nezodpovedaly vždy pravde. Èasto som bol sklamaný, keï v byte, ktorý
+         — aspoò tak mi bolo povedané — mal by prázdny, našiel som obyvate¾ov ako èervených myší.
+   </p>
+   <p>
+    No, pri tom všetkom podal som si sedem nových žiadostí s bytami, ktoré sa môžu zabra.
+         Na každú žiados nalepil som dvojkorunový kolok, poznaèil si bežné èísla svojich žiadostí a
+         èakal, èakal — — — —
+   </p>
+   <p>
+    Okrem bytového úradu chodieval som si o byt na bytové oddelenie ministerstva sociálnej
+         peèlivosti a na magistrát. Šéf bytového oddelenia v ministerstve sociálnej peèlivosti mi
+         hovoril:
+   </p>
+   <p>
+    — My vás chceme všemožne podporova. Budem vás odporúèa ako nastávajúceho manžela,
+         bytovému úradu, aby mali mimoriadny zrete¾ na vaše žiadosti.
+   </p>
+   <p>
+    Na magistráte mi povedali, aby som si podal k nim žiados. Že som si vraj mohol poda
+         žiados k nim už dávno. Pravdepodobne by som dnes už mal byt.
+   </p>
+   <p>
+    — Najlepšie podajte si jednu žiados všeobecnú a jednu na obecnú novostavbu v Bílkovej
+         u1ici.
+   </p>
+   <p>
+    Napísal som si žiadosti. Obe maly kolky.
+   </p>
+   <p>
+    — Gratulujem vám, pane Zajíèek, — obrátil sa ku mne mladý magistrátny radca. — V
+         novostavbe bude 21 bytov, vaša žiados je ešte iba desiata. Tak ešte 12 žiadate¾ov za vami
+         môže byt dosta.
+   </p>
+   <p>
+    — Ráète sa ma zauja, pane radca. Ja by som sa vám krásne odslúžil.
+   </p>
+   <p>
+    — Urobím vám to rád i bez odslúženia.
+   </p>
+   <p>
+    A neuspokojil som sa s tými krokmi. Podnikal som ïalšie. Poèal som sa sháòa po bytových
+         kanceláriach.
+   </p>
+   <p>
+    Jedna z nich bola pani Císaøová na Vinohradoch.
+   </p>
+   <p>
+    Prijala ma tam mladá úradníèka. Klepala na stroji. Keï som jej povedal, po èo som
+         prišiel, ¾utovala, že som neprišiel o desa minút prv, kým neodišiel pán Motyèka.
+   </p>
+   <p>
+    — Kto je to? — spýtal som sa.
+   </p>
+   <p>
+    — Náš prokurista.
+   </p>
+   <p>
+    — A kedy sa vráti?
+   </p>
+   <p>
+    — To tak hneï nebude. Šiel s jedným pánom do Podola. Inzerovali sme tam byt vo ville a
+         reflektantov máme plno. Tomu najvážnejšiemu šiel pán Motyèka ukáza byt. Akiste si kúpi
+         celú villu.
+   </p>
+   <p>
+    — A pre mòa nemáte bytu?
+   </p>
+   <p>
+    — Príïte zajtra okolo druhej popoludnia, keï bude pán Motyèka doma.
+   </p>
+   <p>
+    Nebolo z toho niè. Pán Motyèka dal mi druhého dòa cíti, že má síce byty, ale iba s
+         domami, t. j. že dostanem byt, ak si kúpim dom.
+   </p>
+   <p>
+    Bežal som zase na bytový úrad. Od podania žiadostí ubehol asi mesiac.
+   </p>
+   <p>
+    Usmievali sa. Hovorili mi, že mám divné poòatie o úradnej práci. Predsa majú aj inú
+         prácu, ako rieši moje žiadosti. Aby som prišiel o mesiac-dva.
+   </p>
+   <p>
+    Odvolával som sa na odporúèanie bytového oddelenia ministerstva sociálnej peèlivosti.
+   </p>
+   <p>
+    Nový výbuch smiechu. So traja úradníci poèali sa smia, až im chodba bola ozvenou.
+         Nejaký kàmený radca sa až zachodil od smiechu.
+   </p>
+   <p>
+    — Odporúèanie?! My tu máme na stá žiadostí, ktoré sú ešte lepšie odporúèané. Jeden
+         profesor je odporúèaný okrem ministerstvom sociálnej peèlivosti i Èerveným krížom, pražským
+         starostom, prezidentskou kanceláriou, riadite¾stvom gymnázia, na ktorom vyuèuje, a niè mu
+         to nepomáha. Bytov nemáme, nuž, bytu nedostane.
+   </p>
+   <p>
+    Zotmilo sa mi v oèiach nad to¾kým cynizmom. Odchádzal som rozèúlený, bez slova.
+   </p>
+   <p>
+    Èo už mám robi?!
+   </p>
+   <p>
+    Šiel som do bytového oddelenia ministerstva sociálnej peèlivosti. Ponosoval som sa, ako
+         málo mi pomohlo ich odporúèanie na bytovom úrade.
+   </p>
+   <p>
+    — Len trpezlivos! — odporúèal mi šéf bytového oddelenia. — Naraz to nejde. Ale pôjde
+         to. Najlepšie, keby ste vstúpili do nejakého stavebného družstva.
+   </p>
+   <p>
+    — Poraïte mi nejaké, pane vrchný radca! — prosil som.
+   </p>
+   <p>
+    — Preèo nie. Choïte na pr. do Soukeníckej ulice è. 7. Je tam kancelária stavebného
+         družstva „Moderný“. Budete býva síce trochu ïalej od stredu mesta. Ale to má len svoje
+         výhody. Jednak budete ma viac pokoja, jednak viacej vzduchu i slnca. A potom drahé to
+         nebudete ma, stavebné družstvá dostávajú subvenciu od štátu. A rodinné domky, ktoré
+         družstvo stavia, sú týpu najmodernejšieho, s vodovodmi, plynom, elektrikou, kúpe¾òami,
+         záhradkami, slovom ideálne bývanie. Pardon, budem vás odporúèa — a pán vrchný radca
+         napísal mi na svoju navštívenku malé odporúèanie.
+   </p>
+   <p>
+    Ïakoval som mu srdeène so slziacimi oèami a stískal vrelo pravicu.
+   </p>
+   <p>
+    A teraz hybaj do Soukenníckej ulice è. 7. Pod¾a štítku potrafil som do kancelárie
+         stavebného družstva v prvom poschodí. Našiel som tam staršieho pána, sleènu, píšucu na
+         stroji a fešného mladého pána, nakloneného nad plánmi. Predstavil som sa, predložil
+         odporúèanie vrchného radcu ministerstva.
+   </p>
+   <p>
+    — Výnimoène vás príjmeme, že máte také odporúèanie. Ináè nových èlenov nateraz
+         neprijímame.
+   </p>
+   <p>
+    Mladý pán rozhovoril sa o konštrukcii stavieb. Sú to kocky betonové, vyplnené popo¾om.
+         Že je vo vnútri popo¾ a nie cement, tým stáva sa stavba lacnejšou, ale naskrze nie na úkor
+         trvácnosti. A popo¾ je ideálna výplò prázdneho priestoru, nepripúša zimu. Ukazoval mi
+         rozlièné týpy domkov nakreslené. Ve¾mi sa mi páèily. V duchu som sa už videl v takej
+         malièkej vilke a bol som celý unesený.
+   </p>
+   <p>
+    — Èo to stojí? — spytujem sa.
+   </p>
+   <p>
+    — Takýto štyriizbový domèek, prízemný, i so stavebným miestom stodvadsatisíc korún.
+         Dvadsapä procent dá štát ako subvenciu, tedy 90.000 korún.
+   </p>
+   <p>
+    — A trojizbový?
+   </p>
+   <p>
+    — Stotisíc, so štátnou subvenciou semdesiatpä.
+   </p>
+   <p>
+    — A dvojizbový?
+   </p>
+   <p>
+    — Šesdesiat tisíc korún so subvenciou.
+   </p>
+   <p>
+    — Dvojizbový mi postaèí. A ko¾ko treba zaplati v hotovosti?
+   </p>
+   <p>
+    — Iba desa procent, t. j. za ten obnos musíte prevzia podielov nášho družstva. Sú
+         500-korunové. Tak by ste ich prevzali dvanás.
+   </p>
+   <p>
+    — A èí bude dom?
+   </p>
+   <p>
+    — Náš, družstva. Ale vy sa stanete spolumajite¾om družstva.
+   </p>
+   <p>
+    Poïakoval som sa za informáciu.
+   </p>
+   <p>
+    Najbližšiu nede¾u, keï som cestoval na vidiek za svojou Miladou, myslel som stále na
+         rodinný domok. I vo Vranove, kde bývali rodièia mojej vyvolenej, vychva¾oval som ustaviène
+         výhody stavebného družstva. Byt nájs nemôžeme; ak sa máme v doh¾adnom èase sobra, musíme
+         vstúpi do stavebného družstva.
+   </p>
+   <p>
+    Nastávajúci tes s¾úbil vybra na vkladnú knižku šes tisíc korún a posla mi ich na tie
+         družstevné podiely do Prahy. Milada hodila sa otcovi na krk, vrelo ho bozkávajúc.
+   </p>
+   <p>
+    O štyri dni som peniaze dostal, na piaty deò splatil som ich družstvu a dostal podielovú
+         listinu. Dal som si ju schova do pancierového tresoru našej banky. Na byte som sa ju
+         neopovážil drža. Èlovek nevie, èo sa môže sta, ešte by mi mohla zhorie.
+   </p>
+   <p>
+    Každých 14 dní som chodieval do kancelárie družstva. — Trpelivos! trpelivos! — hovoril
+         mi starý pán s okuliarmi.
+   </p>
+   <p>
+    Družstvo poèalo stava dvanás rodinných domkov pri Strašniciach. Keï boly základy
+         hotové a múry poèaly sa dvíha nad zemou, bežal som do kancelárie družstva.
+   </p>
+   <p>
+    — Prosím vás, ktorý domèek ste urèili pre mòa? Nemohol by som dosta ten tretí z ¾ava?
+   </p>
+   <p>
+    — Nie, to je nie možné — poèal mi mladý pán vysvet¾ova rozpaèite. — Teraz sa stavia
+         ešte iba pre prvú seriu.
+   </p>
+   <p>
+    — Jako to?!
+   </p>
+   <p>
+    — Naše družstvo má vyše dvesto èlenov. Vy sa dostanete iba do daktorej ïalšej serie.
+         Teraz sa stavia ešte iba pre prvých dvanástich èlenov.
+   </p>
+   <p>
+    — A v ktorej serii budem ja?
+   </p>
+   <p>
+    — Asi v sedemnástej-osemnástej.
+   </p>
+   <p>
+    — A kedy budete pre tú stava?
+   </p>
+   <p>
+    — Asi o rok, o dva.
+   </p>
+   <p>
+    — Preèo ste mi to hneï napovedali! — rozèúlil som sa, srdce mi poèalo hlasitejšie
+         búcha. — To je zavádzanie! Hanbite sa! To je závratníctvo!
+   </p>
+   <p>
+    Pohádali sme sa špatne.
+   </p>
+   <p>
+    Asi o 14 dní dostal som predvolanie pred okresný súd. Úradník družstva ma zažaloval pre
+         urážku na cti.
+   </p>
+   <p>
+    Ja som zašiel k advokátovi drovi Vítìzslavovi Šebestovi a dal som vyzva družstvo, aby
+         mi vrátilo mojich 6000 korún. Keï mi nevracalo, dal som družstvo zažalova na zaplatenie
+         6000 korún. Z úradu musel som si vzia 500 korún preddavku. Môj advokát žiadal nejakú
+         predbežnú splátku na trovy.
+   </p>
+   <p>
+    Pred súdom vypálilo to zle. Bol som posúdený na 200 korún pokuty, preto že som urazil
+         pána Dittricha z družstva.
+   </p>
+   <p>
+    — No, poèkajte! — tešil som sa. — Veï ja vás tiež popreháòam!
+   </p>
+   <p>
+    Šiel som sa pozera na bytový úrad, èo je s mojimi žiadosami. Nemohol som sa niè
+         dozvedie. Bytový úrad sa práve sahoval zo Staromestského námestia na Jungmannovo.
+   </p>
+   <p>
+    Šiel som sa informova, èo je s novostavbou pražskej obce. Stavba skoro hotová. Múry už
+         stoja. Už chybí iba strecha a vnútorné zariadenie.
+   </p>
+   <p>
+    Na radnici mi povedali, že sa dosia¾ nerozhodovalo o obsadení bytov v novostavbe. Aby
+         som prišiel asi o mesiac.
+   </p>
+   <p>
+    Bol som zase predvolaný k súdu a síce ako žalobník proti Stavebnému družstvu. Žalobu som
+         prehral, lebo vraj družstvo je nevinné, chce síce dostá svojej povinnosti, ale pre vis
+         major nemôže. Èo je to vis major? Vraj mrcha pomery, stavebná kríza, drahota, štrajky
+         stavebného robotníctva.
+   </p>
+   <p>
+    Tedy tesových 6000 korún zostalo u družstva. Advokátom musel som zaplati po 400 korún,
+         súdobných trov 250 korún, spolu 1050 korún.
+   </p>
+   <p>
+    Hanbil som sa ako pes, keï som písal nastávajúcemu tesovi o ïalšie peniaze, lebo veï
+         netrúfal som si dosta v banke — po oných 500 korunách — ïalší preddavok.
+   </p>
+   <p>
+    Tes peniaze poslal, ale v liste písal:
+   </p>
+   <p>
+    — Nepúšajte sa, prosím vás, do vecí, ktorým nerozumiete! Nedajte sa každému oklama.
+         Ste predsa dospelý èlovek. Mohli by ste ma už trochu zkúsenosti, rozumu. A advokátom a
+         súdom dajte pokoj! To je nie pre vás.
+   </p>
+   <p>
+    Na bytovom úrade mi povedali, že moje žiadosti ešte neboly riešené. Aby som prišiel o
+         mesiac-dva.
+   </p>
+   <p>
+    Na radnici mi povedali, že obecný výbor sa usniesol da byty v novostavbe iba obecným
+         zamestnancom. Ja jako bankový úradník od obce žiadneho bytu dosta nemôžem.
+   </p>
+   <p>
+    Na bytovom úrade mi povedali, že byty, ktoré som udal, nemôžu by zabrané. Byt v
+         Havlíèkovej ulici, èo bol prázdny, je zase obsadený. Pani, ktorj patrí, vrátila sa i so
+         slúžkou pred týždòom zo Štýrskeho Hradca na stále do Prahy. O inom udanom byte dokázal
+         stolár, že ho nezbytne potrebuje ako sklad a rozostaval v òom hòrbu náradia. Dva byty mnou
+         udané prepustil vraj bytový úrad pred 14 dòami cudzineckému úradu pre francúzskych
+         dôstojníkov. Byt v Dlhej triede, na Starom meste nemôže by zabraný, poneváè univerzitný
+         profesor, ktorý ho má, vzal si k sebe od tých èias svoju staruèkú matku z vidieku a dve
+         žiaèky na byt. Byt vo Vrchlického sadoch vraj tiež nemôžem dosta, poneváè majite¾ domu,
+         ktorý má dielòu na opravu automobilov, zaujal ho na sklad pre automobilové súèiastky. A
+         siedmy byt. Nie, to tiež nejde. To je byt ministra, ktorý má síce dva byty, ale potrebuje
+         oba pre svoju repräzentáciu. A bytový úrad sa nechce s ním aha za prsty.
+   </p>
+   <p>
+    Aby som si podal nové žiadosti.
+   </p>
+   <p>
+    Podal som si o týždeò dve.
+   </p>
+   <p>
+    — Kedy si mám prís pre odpoveï?
+   </p>
+   <p>
+    — O dva-tri mesiace.
+   </p>
+   <p>
+    Predplatil som sa na „Národní Politiku“, „Národní Listy“ a „Prager Tagblatt“, rozumie
+         sa, iba k vôli bytovým oznamom.
+   </p>
+   <p>
+    Èítam jedného dòa v „Prager Tagblatte“, že sa vydá dvojizbový byt s kúpe¾òou blízko
+         Mikulášskej triedy. Bolo to ráno. Vychytil som sa jako bez duše do administrácie
+         „Tagblattu“ s ofertou. V oferte som zaklínal majite¾a bytu, aby mi, preboha, prepustil byt,
+         že vïaène budem plati trebárs zvýšené nájomné, odslúžim sa mu i potravinami, lebo mám
+         tesa na vidieku atï.
+   </p>
+   <p>
+    Škoda, že oznam bol bez adresy, iba na heslo.
+   </p>
+   <p>
+    Oddávajúc nabídku na oznam úradníèke v administrácii, všuchol som jej diskrétne i
+         dvadsakorunovú bankovku a prosil som ju, aby nejak upozornila oznamovate¾a na moju
+         nabídku.
+   </p>
+   <p>
+    — To je nie dovolené — vyhovárala sa sleèna, shrabnúc peniaze. — Ale urobím èervenou
+         tintou krížik na obálke. Vaša bude iste povšimnutá.
+   </p>
+   <p>
+    Èakal som deò po deò. Márne. Nedostal som žiadnej odpovedi.
+   </p>
+   <p>
+    Písal som nabídky veselo ïalej.
+   </p>
+   <p>
+    — Azda bude ma niektorá šastie — dúfal som.
+   </p>
+   <p>
+    Niè.
+   </p>
+   <p>
+    Šiel som znovu na bytový úrad. O mojich žiadostiach mi vraj nemôžu niè poveda. Spoloèný
+         bytový úrad vraj likviduje a rozpadne sa na viacero bytových úradov. Praha bude ma vraj
+         osobitný, Smíchov tiež, podobne ostatné štvrte a predmestia. Aby som sa obrátil na bytové
+         úrady, do ktorých obvodu patria byty, èo som udal.
+   </p>
+   <p>
+    — Tak teraz sa zaène všetko zase odznovu — dumal som melancholicky.
+   </p>
+   <p>
+    Šiel som na vinohradský bytový úrad.
+   </p>
+   <p>
+    Že ešte niè nevedia, že sa ešte iba sriaïujú. Aby som prišiel tak o mesiac.
+   </p>
+   <p>
+    Ale v „Národní Politike“ èítal som nieèo senzaèného.
+   </p>
+   <p>
+    „Pøedám byt o 3 pokojích s príslušenstvím na Letné. Šimon Krautmann, Praha VII.,
+         Belcrediho tøída 11.“
+   </p>
+   <p>
+    Vsadol som bez meškania na elektriku a viezol som sa na udanú adresu. Zobjímam toho
+         èloveka, ak bude z toho daèo — s¾uboval som si v duchu.
+   </p>
+   <p>
+    V druhom poschodí našiel som vizitku na dverách:
+   </p>
+   <p>
+    „Šimon Krautmann.“ Ved¾a bol gombík elektrického zvonku. Pritlaèil som.
+   </p>
+   <p>
+    Vyšla nápadne obleèená mladá ženská.
+   </p>
+   <p>
+    — H¾adáte môjho? Príde hneï. Ráète! — a doviedla ma do ve¾kej kuchyne.
+   </p>
+   <p>
+    O chví¾u prišiel Krautmann sám. Mladý èlovek v peknom žltom svrchníku, èiernych šatoch,
+         v lakýrkach.
+   </p>
+   <p>
+    — Tak o ten byt? Škoda, preškoda, že ste neprišli trochu skôr. Už je vydaný, i smluva je
+         už podpísaná. Ale, dúfam, že sa mi — možno i do týždòa — trafí nieèo iného. To nechám vám.
+   </p>
+   <p>
+    — A jaký honorár?
+   </p>
+   <p>
+    — Honorár? Dáte mi polovicu jednoroèného nájomného. Keï bude jednoroèné nájomné na pr.
+         1000 korún, dáte mi 500 korún. Platí sa až dodatoène. Vopred peniaze neberiem.
+   </p>
+   <p>
+    — Dám vïaène i dvarazy to¾ko. Len sa ráète za mòa zauja.
+   </p>
+   <p>
+    Povedal mi, aby som prišiel o týždeò. Prišiel som. Hovoril mi o byte, blízko plynárne.
+         Vo¾aký fabrický robotník sa vraj rozchádza so ženou. Pustil by nám svoj byt.
+   </p>
+   <p>
+    — A èo chce zaò?
+   </p>
+   <p>
+    — Ale, dáte mu pár stovák.
+   </p>
+   <p>
+    — Má zavedenú elektriku?
+   </p>
+   <p>
+    — Rozumie sa.
+   </p>
+   <p>
+    — Nemohol by som ten byt teraz vidie?
+   </p>
+   <p>
+    — Okamžite nie. Ten èlovek má ve¾ký neporiadok. To viete, jako to môže vyzera, keï
+         vo¾akoho žena nechá. Ale ja mu poviem, že mám na jeho byt reflektanta, že mu dáte,
+         povedzme, 500 zlatých, aby si urobil poriadok.
+   </p>
+   <p>
+    O týždeò vyrukoval môj milý Krautmann s novou vytáèkou. S tým robotníkom že nebude niè.
+         Žena sa vraj k nemu vrátila.
+   </p>
+   <p>
+    — Ale mám pre vás byt. Na Karlovom námestí. Býva tam v prvom poschodí š¾achtièna, vdova
+         po okresnom hejtmanovi, Nemka. Nedávno jej umrel muž, nuž, chce sa vymani z toho
+         prostredia, kde ju všetko upomína na nebožtíka.
+   </p>
+   <p>
+    — To je zvláštna náhoda! — zvolal som celý rozradostnený. — A ko¾ko chce za to, že sa
+         nám vystúpi?
+   </p>
+   <p>
+    — Ale niè, zhola niè. To je predsa hrdá š¾achtièna. Tú by ste iba urazili podobnou
+         nabídkou. Ale vo veci je jeden háèik.
+   </p>
+   <p>
+    — Aký?
+   </p>
+   <p>
+    — Nejakú izbièku s kuchyòkou by sme tej osobe museli najs. Niekde predsa musí býva.
+   </p>
+   <p>
+    Odišiel som od Krautmanna. H¾adali sme o sto šes nieèo náhradného pre moju milú
+         s¾achtiènu.
+   </p>
+   <p>
+    Nemohli sme najs niè.
+   </p>
+   <p>
+    — A èo je a tým robotníkom?
+   </p>
+   <p>
+    — Práve sa ide smieri so svojou ženou. Nebude z toho bytu niè.
+   </p>
+   <p>
+    Môj advokát mi písal, že èi chcem v procese proti Stavebnému družstvu pokraèova.
+   </p>
+   <p>
+    Napísal som, že áno. To by predsa bolo, aby som nedostal nazad tých 6000 korún.
+   </p>
+   <p>
+    Jedného rána pribehol Krautmann na môj byt, že má nieèo pre mòa.
+   </p>
+   <p>
+    — Byt?
+   </p>
+   <p>
+    — Skoro. Vlastne je to krám, ale preèarujeme ho za byt.
+   </p>
+   <p>
+    — Kde je ten krám?
+   </p>
+   <p>
+    — Na Národnej triede. Ale musíte si naò da 500 korún preddavku.
+   </p>
+   <p>
+    Bolo to na zaèiatku mesiaca, peniaze som ešte mal. Zaplatil som mu tých 500 korún na
+         krám.
+   </p>
+   <p>
+    — Krám už máme — hovoril Krautmann. — Teraz dám oznam do „Národní Politiky“, že vymení
+         sa krám na hlavnej triede za byt. Pardon! Musíte mi da ešte 35 korún na oznam.
+   </p>
+   <p>
+    Dal som mu ich.
+   </p>
+   <p>
+    Asi o 8 dní som ho vyh¾adal, èo je s tým bytom? Hlásil sa niekto na oznam?
+   </p>
+   <p>
+    Veru vraj nikto sa nehlásil. Ale vraj síde sa v hostínci zajtra s jedným známym. Ten
+         akiste bude vraj na krám reflektova.
+   </p>
+   <p>
+    Medzitým našiel som v „Národní Politike“ oznam. Vraj: „Hledám vdovu anebo bezdìtný
+         manželský pár k sobì do bytu. Poskytnu byt i s kuchyní a svìtlem. Pro sebe požaduji vaøení
+         a úklid. Nabídky pod znaèkou „Vzájemnost“ do administrace „Nár. Politiky.“
+   </p>
+   <p>
+    — Bože! Veï tento oznam je pre mòa ako stvorený!
+   </p>
+   <p>
+    Rozumie sa, bežal som hneï do „Národní Politiky“. Trvalo to hodne dlho, kým sa dal
+         riadite¾ nakriatnu a vyzradil mi adresu oznamovate¾a.
+   </p>
+   <p>
+    Bol to Alois Èervený, zverolekár na pražských obecných jatkách v Holešoviciach za
+         Vltavou.
+   </p>
+   <p>
+    — Ale ako to urobíte, aby som ja nemal s pánom Èerveným opletanie, že som vám prezradil
+         jeho adresu?
+   </p>
+   <p>
+    — Pôjdem k jeho súsedovi i k nemu byt h¾ada. Ako by som sa ta bol zatáral nejakou
+         náhodou.
+   </p>
+   <p>
+    — No, dobre. Len, prosím vás, nevyzraïte, kde ste sa dozvedeli jeho adresu.
+   </p>
+   <p>
+    — Buïte bez starosti.
+   </p>
+   <p>
+    Všetko sa mi podarilo. Zverolekár Èervený bol ve¾mi milý èlovek. Bol prekvapený shodou
+         okolností. Hovoril, že sa mu síce triafa mnoho gazdín, ale že vezme tedy do bytu nás. Ale
+         musíme vraj požiada o svolenie inšpektora jatiek, lebo dom náleží jatkám.
+   </p>
+   <p>
+    Zašli sme hneï k inšpektorovi. Ten svolil, vzh¾adom na panujúcu bytovú tieseò.
+   </p>
+   <p>
+    — Ku riadite¾ovi jatiek ani nemusíme ís — mienil zverolekár. — Ten sa drží beztak vo
+         všetkom pod¾a inšpektora.
+   </p>
+   <p>
+    Urobili sme smluvu, že zverolekár berie mòa so ženou na byt. Dá nám dve izby a kuchyòu.
+         V jednej izbe, v tretej, bude býva on. My budeme býva u neho zadarmo, ale musíme mu
+         zadarmo vari. On vraj trpí na žalúdok, preto musí sa mu vari iba te¾acina, mlieko, kaše,
+         ryža a podobné ¾ahké veci, ale mäso a mlieko atï. posiela mu brat, ro¾ník z vidieka.
+   </p>
+   <p>
+    Izby budeme si každý okúrova svoje, kuchyòu na polovièku. Osvetlenie poskytne on,
+         zverolekár. Ale keby sme my spálili väèšiu dávku plynu, než na jakú má on nárok z jatiek,
+         musíme to zaplati.
+   </p>
+   <p>
+    Pristal som na všetko, i na to, že naša slúžka bude riadi celý byt.
+   </p>
+   <p>
+    Zverolekár poukazoval mi celý byt. Bol priestranný, jasný, vzdušný, s výh¾adom na rieku
+         Vltavu.
+   </p>
+   <p>
+    — Túto jednu izbu musíte si da znovu vyma¾ova — radil zverolekár.
+   </p>
+   <p>
+    Už sme robili aj plány, kam si dáme kredenc, kam skriòu, kam stoly, postele atï. S¾úbil
+         som zverolekárovi, že sa nasahujeme èím skôr, aby mal poriadne varenie. Hostínska strava
+         mu vraj škodí, hovoril. Má vraj snúbenicu, ale kým je tak ažko chorý na žalúdok, nerád by
+         sa ženil.
+   </p>
+   <p>
+    Dal som tú jednu izbu na druhý deò vyma¾ova. Stálo ma to 120 korún. Potom zašiel som k
+         Miladiným rodièom na vidiek a vykonal som si sobáš s dispenzáciou. Nechceli sme odklada,
+         aby sme si byt neprepásli. Ešte pred sobášom doviezli sme si náradie z vidieka a složili a
+         rozostavili ho u zverolekára. I uhlia som si kúpil a složil v sklepe. Na povale složili sme
+         si dva kufry. Roztomilé, jasné dve izby. — Bude sa nám v nich s mojou zlatou Miladou býva
+         ako vtáèaom v hniezde — bláhal som si.
+   </p>
+   <p>
+    Na plynovú lampu kúpil som si nový ozdobný klobúk. Potom som najal nádennicu, aby nám
+         vydrhla špinavú podlahu v byte. Vopred som jej zaplatil a požiadal zverolekára, aby dal na
+         òu pozor, aby nám vo¾aèo neukradla.
+   </p>
+   <p>
+    Èervený mi gratuloval k sobášu a ja som sa viezol veèerným vlakom za Miladou.
+   </p>
+   <p>
+    Po svadbe dohafrili sme obidvaja novomanželia na svoj byt k zverolekárovi. Viezli sme si
+         sebou to¾ko bielizne, šiat, koláèov, že ledva sme to sebou trepali.
+   </p>
+   <p>
+    Usadil som Miladu, poukazoval jej našu ríšu. Ve¾mi sa jej všetko páèilo. Olevrant a
+         veèeru nám už ona varila. Slúžku mali sme dosta z vidieka na tretí deò.
+   </p>
+   <p>
+    — Zle je! — prijímal nás zverolekár s nedobrou zprávou. — Bol tu riadite¾ jatiek.
+         Dopoèul sa, že vás chcem vzia k sebe. Hovoril, že to nejde len tak, že o tom musí najprv
+         rozhodnú správna komisia jatiek.
+   </p>
+   <p>
+    — Èo len to! — hovorím. — Zaopatrím si adresy èlenov správnej komisie, ponavštevujem ich
+         a bude všetko v poriadku.
+   </p>
+   <p>
+    — To bude najlepšie — súhlasil náš zverolekár.
+   </p>
+   <p>
+    Všetci èlenovia správnej komisie s¾úbili mi, že budú hlasova, aby som smel zosta u
+         zverolekára.
+   </p>
+   <p>
+    — Ale prirodzene! Èo by ste robili v dnešných hrozných pomeroch!
+   </p>
+   <p>
+    Vrátil som sa veèer domov ako víaz s radostnou zprávou. Všetko je za nás. Milada
+         jasala, zverolekár bol tiež celý vytešený. Veèera nám chutila znamenite. My sme mali hus s
+         knedlíkom prihrievanú z Vranova zo svadby, zverolekárovi spravila Milada te¾ací šnice¾.
+   </p>
+   <p>
+    Bolo to v utorok. V sobotu zasadala správna komisia.
+   </p>
+   <p>
+    Rozhodla proti nám. Máme sa vraj do troch dní vysahova. V naturálnom byte jatiek smie
+         vraj býva iba zamestnanec jatiek. Darmo boli všetci za nás. Právny zástupca jatiek
+         upozornil komisiu na štatút obce. Museli povoli.
+   </p>
+   <p>
+    Boli sme celí zúfalí. Chytro som bežal sháòa nejakú izbièku v podnájme. Dostali sme ju
+         koneène u jednej starej panny, uèite¾ky reèí v Nusliach. Vyše polovice náradia museli sme
+         si necha na povale u zverolekára. Na našom novom byte naskrze nebolo miesta pre všetok náš
+         nábytok.
+   </p>
+   <p>
+    Rozumie sa, že nejedna vec sa nám pri prevážaní pokazila, nejedna skriòa sa odrela,
+         šijací stroj hrdzavel, na stole zlomila sa noha. Ale to už inakšie neide.
+   </p>
+   <p>
+    Stravovali sme sa s Miladou v hostínci. Doma sme si varili iba raòajky a olovranty.
+         Bývali sme mizerne, tak že sme nemohli ani návštevy prijíma, ani list si doma napísa.
+         Celú malú izbièku zaplnil stôl, dve postele, tri kasne, dva fotele, dve stolièky a jedna
+         bibliotéka, tak že sa èlovek v nej ledva obrátil.
+   </p>
+   <p>
+    Necítiac sa doma dobre, tým èastejšie sme chodievali do kaviarne, divadla a kabaretu. Že
+         sme pri takom živote mnoho nesgazdovali, to je isté. Môj preddavok u banky vzrástol s 500
+         na 2000 korún. Nepomáhaly nám ani drahotné prídavky, museli sme èo raz èastejšie pumpova
+         rodièov vo Vranove.
+   </p>
+   <p>
+    Keï nás boli navštívi rodièia Miladini, plakali nad našou biedou. A my živorili sme
+         ïalej, moja energia ochabla, nechcelo sa mi ïalej h¾ada byt. Beztak niè nenájdem, iba
+         budem darmo èas mrha, obuv dra a sužova sa miesto oddychu.
+   </p>
+   <p>
+    A v novinách sme sa doèítali hrozných vecí o bytovej krízi a bytovej úžere. Tak vraj
+         bývajú ¾udia v mokrých sklepných bytoch, dreváròach, kde malým deom potkani odhryzujú uši
+         atï. Uèite¾ka klavírna býva vraj v špinavej, smrad¾avej izbietke ved¾a automobilovej
+         garáže, kde sa jej steny otriasajú a zaváranie padá na zem s police. Jedna pani, vdova má
+         vraj na byte tri dievèatá — žiaèky z vidieka. Musia jej plati i rodièia hotové potraviny
+         posiela z vidieka za byt a stravu. Tri dievèatká vraj uživia tú vdovu znamenite. Študenti
+         platili po 300 korún mesaène za izbu bez kúrenia.
+   </p>
+   <p>
+    Nedávno vraj h¾adal jeden štátny úradník, mladoženáè, byt. Po dlhom h¾adaní koneène
+         našiel milosrdnú osobu, ktorá im chcela — mala so 6 izieb — prepusti polovicu svojho bytu,
+         tri izby s kuchyòou, ak pristanú na jej podmienky.
+   </p>
+   <p>
+    — Aké podmienky? — spýtal sa.
+   </p>
+   <p>
+    — Dáte mi 5000 korún v hotovosti, ïalej 15 kilo cukru, 100 kg nulovej múky a 20 kg
+         bravèovej masti. Okrem toho bude u vás zdarma býva moja dcéra. Musíte jej zariadi jednu z
+         tých troch izieb. Okrem toho sa zaviažete, stara sa o výživu mojej dcéry. Teraz je
+         bankovou úradníèkou. Ale keby o to miesto prišla, vy jej musíte najs iné. A keby bola bez
+         miesta, musíte jej da celé zaopatrenie i so stravou. To, ak sa nevydá.
+   </p>
+   <p>
+    — A keby sa vydala?
+   </p>
+   <p>
+    — Tak musíte jej da slušnú meštiansku výbavu: tucet nohavièiek, dva tucty košie¾, tucet
+         uterákov, tri obrusy, dva tucty servítov, šes plachát a náradie aspoò do dvoch izieb a
+         kuchyne.
+   </p>
+   <p>
+    — A kto výstrojí svadobnú hostinu?
+   </p>
+   <p>
+    — Ktože by iný, než vy. Dúfam, že nejaký ten svadobný dar by ste mojej dcére, keby sa
+         jej trafilo šastie, i pridali a nezachovali sa k nej špinave.
+   </p>
+   <p>
+    Po¾akaný štátny úradník šiel rovna na úrad pre stíhanie úžery. Nestydatá úžernica
+         dostala sa síce do chládku. Ale ko¾ko takých úžerníc previedlo bez prekážky a bez stíhania
+         svoj kšeft!
+   </p>
+   <p>
+    Po pár mesiacoch, keï sme bývali až zúfalí, že máme tak málo miesta vo svojej izbietke,
+         a keï sa nám hostínska strava poèínala prejeda, dala sa do h¾adania bytu Milada.
+   </p>
+   <p>
+    Chodila na bytový úrad, na radnicu, k ministrom, do bytových kancelárií, po kramároch,
+         obchodníkoch, trafikách. Navštívila mešanostu, majite¾a ve¾koúdenárskej firmy, majite¾a
+         viacerých domov. Nepomáhalo. Chudla mi, biednela so dòa na deò väèšmi.
+   </p>
+   <p>
+    Poèínal som sa vážne obáva o jej zdravie. Poèal som byt sháòa sám.
+   </p>
+   <p>
+    Na bytovom úrade vinohradskom a karlínskom mi povedali, že už neúradujú, že bytové úrady
+         jednotlivých predmestí budú zase spojené v Spoloèný bytový úrad.
+   </p>
+   <p>
+    V novinách som èítal, že v novostavbe v Libni môže si zaisti byt ešte 8 manželských
+         párov. Bližšie pod znaèkou „Dohoda“ atï.
+   </p>
+   <p>
+    Rozumie sa, neváhal som, ale písal na udanú znaèku.
+   </p>
+   <p>
+    Asi o 14 dní zval ma pán dr. Steiner, advokát v Havelskej ulici 14, aby som ho v otázke
+         toho bytu navštívil.
+   </p>
+   <p>
+    Našiel som tam mladého koncipienta. Pod¾a jeho zlej èeštiny vybadal som, že je to
+         privandrovaný halièský Žid. Navrhol mi, aby som si kúpil podiele vo¾ákej novostavby v
+         Libni. Družstvo ju staví, ale pôvodný rozpoèet bol viac než dvojnásobne prekroèený, tak že
+         družstvo je vo finanènej nesnádzi, nemá za èo dom dostava. Preto prijíma nových èlenov,
+         ale iba s ve¾kými podielmi. Na každú miestnos rátajú vraj 30 tisíc korún. 78 miestností
+         bude stá miesto 900 tisíc korún 2 miliony 250 tisíc, z toho 3 miestnosti budú pre
+         domovníka. Jedna izba sa ráta za jednu miestnos, kuchyòa s komorou za jednu miestnos,
+         predsieò, záchod, kúpe¾òa, povala, sklep dohromady tiež za jednu miestnos.
+   </p>
+   <p>
+    — Nerozumel som dobre, èo by som musel složi na trojizbový byt?
+   </p>
+   <p>
+    — Tri izby sú tri miestnosti, kuchyòa s komorou štvrtá, kúpe¾òa, predsieò atï. piata, po
+         30 tisíc korún bolo by to 150 tisíc korún.
+   </p>
+   <p>
+    — Ja to¾ko nemám! — odchádzal som zahanbený.
+   </p>
+   <p>
+    — Tak ste žobrák, špinavec. Keï nemáte peniaze, tak nám sem nelezte! — rozkrikoval sa
+         židkes za mnou.
+   </p>
+   <p>
+    Vrátil som sa domov smutný. Ani mi obed nechutil. Milada plakala. — Nie je ti ¾úto, že
+         si si bohatšiu nevzal?! Teraz by si mohol byt kúpi!
+   </p>
+   <p>
+    A živorili sme tak celé mesiace. Ja sledoval som bytové oznamy po novinách, behal po
+         ministerstvách, bytových úradoch, bytových kanceláriách, k mešanostovi, po stavebných
+         družstvách, agentoch, súdoch.
+   </p>
+   <p>
+    Ale bytu sme nemali.
+   </p>
+   <p>
+    Keï sme šli na prechádzku a veèer sa rozžiarily svetlá, vzdychávali sme s Miladou pod
+         niektorým balkónom a slzeli, že nemáme nieèo podobného. Tak pozera veèer na stovežatú
+         Prahu zo svojho balkónu! Alebo ma obloky na nábrežie a pozera každý deò na Hradèany!
+   </p>
+   <p>
+    Inokedy zase sme zúrili, idúc popri Spoloènom bytovom úrade. Boli by sme podeò položili
+         najradšej dynamitovú bombu, alebo povyhadzovali z neho na ulicu všetkých úradníkov i so
+         spismi. Aspoò by sa boly uprázdnily pre pár rodín byty.
+   </p>
+   <p>
+    Potom sme sa zariekali, že už neurobíme v záujmu bytu ani kroka. A to svoje i
+         predsavzatie sme narušili znovu a znovu. Každá novinárska zpráva o nejakom bytovom
+         škandále, na pr. že úradník bytového úradu predal byt za 50.000 korún, alebo že niektorý
+         nájomník prepustil svoj 8-izbový byt ¾ahkým dievèatkám a pod., nás rozhorèila.
+   </p>
+   <p>
+    A zase sme kus otupeli, z¾ahostajneli, prestali sa stara o byt. Ale po každej novej
+         hádke s hubatou, zlostnou domácou, starou pannou, poèala nás bolie stará rana tým väèšmi.
+   </p>
+   <p>
+    Raz po takom výstupe s domácou vychytil som sa mestom. Musím vo¾aèo nájs. Každý deò
+         venujem tomu hodinu — dve, umieòoval som si. Zašiel som na poštové riadite¾stvo, èi nebude
+         niekto preložený na Slovensko, chodil som po spolkoch majite¾ov domov a dopytoval som sa
+         pilne na byty.
+   </p>
+   <p>
+    Niè.
+   </p>
+   <p>
+    Kráèal som v trudných myšlienkach ulicou. Bol som znechutený, ustatý, ale preto zašiel
+         som cestou do niektorého hostínca a vypytoval sa, èi nevedia o nejakom byte.
+   </p>
+   <p>
+    To isté som sa spytoval pred nárožným krámom na Brandlovej ulici.
+   </p>
+   <p>
+    — Ja by som vedel o nieèom — ahal ma mladý obchodník do krámu. — Vedel by som o jednom
+         pánovi, odchádza do Jugoslávie. Má síce iba izbu s kuchyòou, ale izba je dos jasná. Roèná
+         árenda iba 480 korún. Predal by vám svoj byt i so zariadením.
+   </p>
+   <p>
+    — Zaèo?
+   </p>
+   <p>
+    — Neviem. Ale obráte sa na pána Emila Mosera. Dozviete sa jeho adresu v privátnom
+         detektívnom ústave v Moravskej ulici. Keï budete s ním hovori, odvolajte sa na mòa.
+   </p>
+   <p>
+    Poslúchol som. Adresu som sa dozvedel, ale pána Mosera som nenašiel doma.
+   </p>
+   <p>
+    — Môj muž chodieva domov neskoro v noci — hovorila jeho žena.
+   </p>
+   <p>
+    — Niè nerobí. Môžem prís zajtrá dopoludnia o desiatej?
+   </p>
+   <p>
+    — To už zase nebude doma. Iba ak by ste prišli pred ôsmou ráno.
+   </p>
+   <p>
+    Ráno som pána Mosera našiel doma v posteli.
+   </p>
+   <p>
+    — Ako je to zariadené? spytujem sa.
+   </p>
+   <p>
+    — Náradie v jednej izbe.
+   </p>
+   <p>
+    — Èo stojí?
+   </p>
+   <p>
+    — 6500 korún. Ale pekný nábytok. Ten èlovek, je to môj dobrý priate¾, dostal by zaò
+         ¾ahko i raz to¾ko. Ale je to dobrák. Gšeftuje vo ve¾kom, na pár tisícoch mu nezáleží.
+         Bájeèná príležitostná kúpa.
+   </p>
+   <p>
+    — Nezaviedli by ste ma k tomu pánovi?
+   </p>
+   <p>
+    — Nemám síce èasu nazbyt. Ale prejdem k nemu s vami.
+   </p>
+   <p>
+    — Èo vám budem plati, pane Moser?
+   </p>
+   <p>
+    — Ale to má dos èasu. Èo by ste mi platili!
+   </p>
+   <p>
+    — Nie tak, pane Moser. Váš èas, to sú peniaze. Dohodnime sa vopred, aby snáï nebolo
+         neskoršie medzi nami nedorozumenia.
+   </p>
+   <p>
+    — Ale, èo mi dáte, to mi dáte.
+   </p>
+   <p>
+    — Nechcem vám da ani primoc, ani primálo. Povedzte si sám!
+   </p>
+   <p>
+    — No, keï to musí by, 200 korún.
+   </p>
+   <p>
+    — Splatné, keï sa nasahujem do bytu?
+   </p>
+   <p>
+    — Nedbám… Tak ma, prosím vás, poèkajte, kým sa obleèiem.
+   </p>
+   <p>
+    Viedol ma cez pár ulíc. Rozprával mi, že jeho priate¾ sa volá Antonín Pták, že je to
+         bývalý spoloèník známeho ve¾koobchodníka Václava Netušila. Èlovek trochu ¾ahkomyse¾ný, rád
+         si vypije, práve preto dá to lacnejšie, nežli iný.
+   </p>
+   <p>
+    Potom sa ma Moser vypytoval na moje rodinné pomery. — No, tak mladomanžel! Keï sa ja za
+         vás prihovorím, tak vám ten byt istotne prepustí, — uisoval ma.
+   </p>
+   <p>
+    Pán Pták býva v prvom poschodí. Našli sme ho ešte v posteli. Razil vínom na tri kroky.
+         Bol to ináè èervený, kàmený malý chlapík, s pekným podhrdlím a hustým oboèím a peknou
+         šticou.
+   </p>
+   <p>
+    Keï som mu rozložil svoje položenie, vyzeral celý dojatý.
+   </p>
+   <p>
+    — Mám síce na byt viacerých vážnych reflektantov, ktorí by vïaène dali 7-8 tisíc korún.
+         Ale vám, ako mladomanželovi, chcem to dopria.
+   </p>
+   <p>
+    — Ako ste ste sa o mne dozvedeli?
+   </p>
+   <p>
+    Rozpovedal som mu všetko.
+   </p>
+   <p>
+    — Zaujímavé, zaujímavé! — mienil pán Pták. — S dovolením! — poèal sa oblieka.
+   </p>
+   <p>
+    Vytratil som sa z izby do kuchyne, aby sa predo mnou nemusel okúòa. V kuchyni som sa
+         ledva rozh¾adel, taká bola tmavá. Išlo sa do nej rovno z izby. Izba bola jasná, mala jedon
+         ve¾ký oblok na dos širokú ulicu. Dvere medzi izbou a kuchyòou boly sklené. Podobne z
+         polovice dvere, vedúce z kuchyne na spoloènú chodbu. Ale chodba bola pritmavá. V kuchyni
+         plno smetí, po kútoch celé hromady. Ved¾a sporáku vysypaná hromada uhlia, dreva a papierov.
+   </p>
+   <p>
+    — Tak prosím! — oznamoval mi pán Pták, že je už obleèený.
+   </p>
+   <p>
+    Poobzeral som sa po izbe. Vyzeral to pekný bàloh! Nezametená podlaha, smeti, odhodky z
+         cigaretie¾, kúsky papierov i šúplaty blata z ulice, popol, slama, perie. V kútoch pavuèiny.
+         Okno, jakési šedé tuším nebolo už od pár mesiacov umyté. Periny biele, ale špinavé až
+         hrúza. A tie postele hladké, staré, ošarpané, žlté èi hnedé.
+   </p>
+   <p>
+    Pri dverách v kúte stálo hrdzavé plechové umývadlo, trochu nakrivené, lak s neho dávno
+         pospadával.
+   </p>
+   <p>
+    Pod jednou poste¾ou v kotúèi koberce a linoleum. Okno malo špinavé žlté záclony.
+   </p>
+   <p>
+    — Tak, tu vidíte všetko — spustil pán Pták, prižmurujúc malé oèká, pri èom sa mu druhá
+         briadka potriasala.
+   </p>
+   <p>
+    — Vidím, vidím, ale neviem, èi to náradie budem môc upotrebi. Je staré, ve¾mi sošlé.
+   </p>
+   <p>
+    — Je staršie, ale slohové. Staršie náradie je cennejšie, ako nové.
+   </p>
+   <p>
+    — Áno, staršie, ale to musí vyzera.
+   </p>
+   <p>
+    — No, niè nerobí, ak sa vám nieèo zo zariadenia nehodí, ja vám na to najdem kupca —
+         ponúkal sa Moser, a živé, èierne vypúlené oèká tekaly mu sem i tam.
+   </p>
+   <p>
+    — I to uhlie vám tu nechám — ozval sa Pták blahosklonne.
+   </p>
+   <p>
+    — A podívajte sa na tie nástenné hodiny! — upozoròoval ma Moser. — Sú to biedermayerky.
+         Samy o sebe sú hodny tie peniaze, èo dáte za celé zariadenie.
+   </p>
+   <p>
+    Nemohol som objavi na hodinách niè zvláštneho.
+   </p>
+   <p>
+    — A èo domáci? — spytujem sa.
+   </p>
+   <p>
+    — Toho do toho niè. Na 1. pošlete mu poštou 120 korún árendy. Pripíšete na poukážku: za
+         byt èíslo 16.
+   </p>
+   <p>
+    — Aká je adresa domáceho?
+   </p>
+   <p>
+    — Napíšte si: Jaroslav Oèenášek, Mikulandská ulica è. 8.
+   </p>
+   <p>
+    — V Prahe?
+   </p>
+   <p>
+    — V Prahe. A vykonajte si konškripèný lístok od policie. Na starom mieste musíte sa
+         odhlási. Je to treba i k vôli potravinám.
+   </p>
+   <p>
+    — Nezabudnem.
+   </p>
+   <p>
+    — Tak, kedy sa nasahujete? Ja, viete, tu v Prahe nemám èo robi. Obchody ma volajú do
+         Juhoslávie. Škoda mi je každého dòa.
+   </p>
+   <p>
+    — Kedy? Dnes máme štvrtok. Trebárs v pondelok. Ozaj nes¾avíte nieèo s tých 6500 korún?
+   </p>
+   <p>
+    — To je smiešne. Od kohoko¾vek dostanem za tento byt i dvarazy to¾ko, a vy by sta sa
+         jednali!
+   </p>
+   <p>
+    — No, tak keï nespustíte, tak nespustíte. Tak stojíme si v slove.
+   </p>
+   <p>
+    — Tak v pondelok — podával mi pán Pták svoju tuènú rúèku, ktorá nevidela v živote
+         mozo¾ov. — O ktorej prídete?
+   </p>
+   <p>
+    — Trebárs o 10. dopoludnia.
+   </p>
+   <p>
+    — To by ste mohli prís vèaššie. Ja pas už mám v poriadku. Najradšej by som ešte v
+         pondelok rýchlovlakom odcestoval. Nemohli by ste prís o 8. alebo 7. hodine?
+   </p>
+   <p>
+    — No, tak tedy si privstanem. Prídeme so ženou medzi siedmou a ôsmou. Budeme tu už môc
+         v pondelok vari.
+   </p>
+   <p>
+    — Ale, rozumie sa.
+   </p>
+   <p>
+    — Horí v sporáku dobre?
+   </p>
+   <p>
+    — Výteène. Uhlia máte tiež.
+   </p>
+   <p>
+    — No, tak si prinesieme i nieèo potravín a nieèo nádob. Keï budeme vari a spa tuná,
+         nikto nás odtia¾to nedostane.
+   </p>
+   <p>
+    — To sa vie, že vás nedostane. Len smelo do toho! Nebojte sa niè. Bez gurážu v dnešnom
+         svete èlovek niè nevykoná.
+   </p>
+   <p>
+    Druhého dòa vykonal som pánu Ptákovi návštevu i so ženou, aby sme ho utvrdili v dôvere k
+         nám. Ešte dopoludnia šiel som si urgova svoje žiadosti na bytový úrad.
+   </p>
+   <p>
+    K jednému úradníkovi pristúpil vyholený mladý mužský, asi detektív. Vo¾aèo mu šeptal.
+         Poodišli oba k oknu. Neviem, o èom hovoril. Zaèul som iba slová:
+   </p>
+   <p>
+    — Šumavská ulica èíslo štrnás.
+   </p>
+   <p>
+    Veï je to dom, v ktorom býva Pták! prebleslo mi hlavou. Akiste ten byt chce bytový úrad
+         zabra.
+   </p>
+   <p>
+    Navštívil som majite¾a domu, pána Oèenáška. Sdôveril som sa mu, že by som rád prevzia
+         byt pána Ptáka.
+   </p>
+   <p>
+    — Takú špinavú dieru?! — èudoval sa domáci.
+   </p>
+   <p>
+    — Èo mám robi?! Prišiel som vás prosi o vaše svolenie.
+   </p>
+   <p>
+    — Moje svolenie? Hm, ale veï pán Pták nie je mojím nájomníkom. Bol podnájomníkom pani
+         Postrèkovej. Keï ochorela a odišla na vidiek, zaujal jej byt. Akiste boli spolu dorozumení.
+         Ak si byt vybojujete u bytového úradu, nemám nie proti tomu.
+   </p>
+   <p>
+    Príduc domov, rozpovedal som Milade, èo som poèul na bytovom úrade a od Oèenáška.
+         Poèínali sme sa tej záležitosti oba bá.
+   </p>
+   <p>
+    Niekto nám klepal na dvere.
+   </p>
+   <p>
+    Vyjdem von. Pán Pták.
+   </p>
+   <p>
+    Prosil ma, aby som si byt zaplatil vopred, aby mal istotu, lebo že sa mu triafajú okrem
+         nás aj iní reflektanti.
+   </p>
+   <p>
+    — Verím. Ale buïto nám veríte, alebo neveríte. Ja v sobotu cestujem do Vranova k tesovi
+         pre peniaze. V nede¾u sa vrátim. A v pondelok ráno prídeme k vám s peniazmi.
+   </p>
+   <p>
+    — Poèuj, — hovorím žene. — Ja mám podozrenie, že nás ten chlap chce ošudi.
+   </p>
+   <p>
+    — Práve som si to myslela.
+   </p>
+   <p>
+    — Vieš ty èo? Udám ho policii.
+   </p>
+   <p>
+    — Božechráò! To by nám ešte bolo treba, aby sme sa zaplietali s policiou! Ak myslíš, že
+         sa ten byt pre nás nehodí, tak to tomu èloveku povedz. Ak ho chceš ma, ne¾utuj tie
+         peniaze. Veï sme sa už beztak rozhodli, že ich oželieme, vlastne, že ich dáme za ten byt.
+         Tak tedy nechceš ten byt?
+   </p>
+   <p>
+    — Chcem. Ale práve preto chcem Ptáka uda. Podívaj sa, duša, Pták hovorí o iných
+         reflektantoch. Iste vyjednáva okrem nás ešte s inými ¾udmi, môže od nich vzia po
+         šestisícpästo korunách; trebárs od desiatich.
+   </p>
+   <p>
+    — Ako?! Veï predsa my nechceme niè da vopred, ale až v pondelok, keï by sme sa do bytu
+         nasahovali.
+   </p>
+   <p>
+    — A èo, ak budú nám chodi v pondelok a v nasledujúce dni na krk ¾udia, na príklad
+         dôstojníci a dokazova Ptákovou kvitanciou alebo smluvou, že Ptákov byt patrí im. Ešte nás
+         násilne vyhodia z bytu, alebo v najlepšom prípade budeme sa musie s nim súdi?!
+   </p>
+   <p>
+    — Urob, ako chceš, holúbok môj, ale ja ti hovorím: súdom, policii daj pokoj!
+   </p>
+   <p>
+    — Ale hlúposti! Musíme sa trochu vypsi. I v súdoch, v policii sa má èlovek vyzna.
+   </p>
+   <p>
+    — Ja za tým netúžim.
+   </p>
+   <p>
+    — Ale ja áno. Kto sa nebráni, toho svet zašliape.
+   </p>
+   <p>
+    — Urob si, jako chceš.
+   </p>
+   <p>
+    Pri odchode urobila mi Milada na èele prstom tri krížiky, aby sa mi dobre vodilo.
+   </p>
+   <p>
+    Odišiel som na tú policiu. Zašiel som na policajné riadite¾stvo. V bráne spytoval sa ma
+         strážnik:
+   </p>
+   <p>
+    — Èo si prajete?
+   </p>
+   <p>
+    — Prosím vás, prosím vás… rozmýš¾al som, pod akou zámienkou sa ta dosta.
+   </p>
+   <p>
+    — Kde sa oznamujú podvody?
+   </p>
+   <p>
+    — V èísle štyri v druhom poschodí.
+   </p>
+   <p>
+    Vyjdem hore. Pred štyrkou èaká na chodbe s osem ¾udí. Samá lepšia spoloènos, dve dos
+         slušne obleèené ženské, jeden pán v cylindri, druhý so cvikrom. Pardon! Zišlo mi na um, veï
+         títo ¾udia iba udávajú podvody, to sú nie podvodníci. Tí môžu by ešte elegantnejší.
+   </p>
+   <p>
+    Do štyrky vstúpil z nás èakajúcich jeden mužský.
+   </p>
+   <p>
+    O chví¾u vošiel do súsedných dverí s koženou taškou pod pazuchou. Žlté poltopánky,
+         slamený klobúk. Akiste detektív.
+   </p>
+   <p>
+    O chví¾u vstupovali do štyrky so smiechom dvaja mladí mužskí. Vstupovali bez klepania.
+   </p>
+   <p>
+    Na dvojke otvorily sa na chví¾u dvere. Pri stene stál nad telefonickým aparátom úradník:
+   </p>
+   <p>
+    — Dve bedny? Na nádraží v Chomutove, patria Jánovi Pøibylovi. Áno. Tak, dobre. A èo
+         Vosátka? znamenitý lov? Príde zajtra do úradu? Dobre. Poviem pánu prednostovi.
+   </p>
+   <p>
+    — Halló! Policajné riadite¾stvo! Kto tam? — — — Jindrich Mézl? predáva vajcia po 1
+         korune kus? Dobre.
+   </p>
+   <p>
+    Ani som nezbadal, moji súsedia boli už preè. Zostal som na chodbe sám. Zaklepal som na
+         štyrke.
+   </p>
+   <p>
+    — Ïalej!
+   </p>
+   <p>
+    Vnišiel som do prednej miestnosti. Za písacím strojom sedela ulízaná, asi tridsaroèná
+         ženská s maš¾ou vo vlasoch.
+   </p>
+   <p>
+    — Kde je, prosím, pán prednosta?
+   </p>
+   <p>
+    — Ved¾a! Ale má stránku. Poèkajte, prosím.
+   </p>
+   <p>
+    Nejaká ženská vyšla. Stál som pred prednostom.
+   </p>
+   <p>
+    Rozpovedal som mu, o èo ide.
+   </p>
+   <p>
+    — Tedy obávate sa podvodu? Ale podvod to dosia¾ nie je. To k nám nepatrí. Obráte sa na
+         úrad pre stíhanie úžery. Tam vám to azda vezmú.
+   </p>
+   <p>
+    Z Národnej triedy bol som o 10 minút na Karláku v „lichevnom“ úrade. Bolo pol druhej. Ja
+         som ešte neobedoval. V žalúdku mi kruèalo. Pár vyšších úradníkov bolo už preè.
+   </p>
+   <p>
+    — Choïte k pánu vrchnému inšpektorovi drovi Šeletavovi na druhom poschodí.
+   </p>
+   <p>
+    O tri minúty som už sedel na mäkkej pohovke a rozprával svoj prípad.
+   </p>
+   <p>
+    — Hm, hm, tak chcete našu pomoc. To je ažká vec pristihnú takého vtáèka pri èine. Ako
+         by ste si to vlastne predstavovali?
+   </p>
+   <p>
+    Navrhol som, aby mi lichevný úrad dal k dispozícii so dvoch detektívov, ktorí by ma z
+         úctivej vzdialenosti nasledovali, keï pôjdem v pondelok s peniazmi so ženou ku Ptákovi.
+         Detektívi by stáli pred domom alebo na niektorom rohu. Keby som s Ptákom kšeft urobil,
+         zahvízdal by som a detektívi by vrazili k nám.
+   </p>
+   <p>
+    — Hm, zapíska?! To by bolo prinápadné.
+   </p>
+   <p>
+    — Pardon! Ja tých peòazí nemám, to by ste mi museli požièa úradné — doložil som chytro.
+   </p>
+   <p>
+    — Dobre, dobre. Ale èo, keï vrazia k vám naši ¾udia? Èo potom?
+   </p>
+   <p>
+    — Prezrú nám vrecká, u pána Ptáka nájdu 6500 korún. To bude najlepší dôkaz.
+   </p>
+   <p>
+    — No, kto vie, èi by to súdu staèilo. Neviem, èi peniaze budú dostatoèným dôkazom, že
+         Pták sa dopustil úžery.
+   </p>
+   <p>
+    — Tak ešte nieèo, pane vrchný inšpektor — navrhoval som. — Dám si vyhotovi od pána
+         Ptáka soznam vecí, ktoré mi predáva.
+   </p>
+   <p>
+    — Ak vám pán Pták na lep sadne —
+   </p>
+   <p>
+    — Ja si trúfam.
+   </p>
+   <p>
+    — Ja nedbám.
+   </p>
+   <p>
+    Zaviedol ma do prízemia do kancelárie, kde fajèilo so desa detektívov. Zasvätili sme
+         ich do veci. Niektorým žiarili oèi. Niektorí z nich vyzerali dos nebezpeène. Vysadlé
+         spodné èeluste, zamraèená tvár, živáòske oèi, taký chlap bol by vstave trebárs vraždi.
+   </p>
+   <p>
+    Dohovorili sme sa s jedným, že ma bude oèakáva v pondelok pred siedmou ráno na
+         Komenského námestí. Peniaze bude ma sebou. Tam mi ich dá.
+   </p>
+   <p>
+    — Jeden pán od vás bude málo, pán vrchný inšpektor — hovorím.
+   </p>
+   <p>
+    — Ale ja myslím, to postaèí.
+   </p>
+   <p>
+    — Bude u neho akiste i pán Moser, jeho priate¾. Aby nám neulietli.
+   </p>
+   <p>
+    — Buïte bez starosti.
+   </p>
+   <p>
+    Zašiel som ku Ptákovi. Pýtal od neho soznam náradia, ktoré mi predáva.
+   </p>
+   <p>
+    — Naèo vám je to? — spytoval sa ma nedôverèive.
+   </p>
+   <p>
+    — Viete, pane Pták, vy odcestujete, ešte niektorá partaj v dome môže k nám prís a
+         chcie nám vzia poste¾, skriòu, alebo nieèo pod zámienkou, že je to jej. Nuž, aby sme mali
+         nieèo èierneho na bielom, aby sme sa mali èím vykáza, že je to naše.
+   </p>
+   <p>
+    — Nedbám. Ale to sa nemusíte bá. Nikto sa neopováži.
+   </p>
+   <p>
+    — To viete, jakí sú ¾udia zlí. Keby ste mali tu zosta, iste by som vás takou hlúposou
+         neobažoval.
+   </p>
+   <p>
+    — No, tak vám spíšem ten soznam. Dostanete ho, keï zaplatíte v pondelok peniaze.
+   </p>
+   <p>
+    — Dobre.
+   </p>
+   <p>
+    — Pardon, nieèo som vám zabudol poveda.
+   </p>
+   <p>
+    — Èo?
+   </p>
+   <p>
+    — Pár vecí patrí môjmu priate¾ovi Meliškovi. Sú to samé malièkosti.
+   </p>
+   <p>
+    — Ktoré?
+   </p>
+   <p>
+    — Toto umyvadlo, koberce, záclony, toto linoleum, tento stôl a jedna poste¾. Vy ste o
+         tom nevedeli?
+   </p>
+   <p>
+    — Nevedel. Teraz to poèujem po prvý raz.
+   </p>
+   <p>
+    — A Moser vám o tom niè nehovoril?
+   </p>
+   <p>
+    — Niè.
+   </p>
+   <p>
+    — To mi je divné. Veï som ho o to predsa výslovne požiadal. Ostatne tie najcennejšie
+         veci, menovite hodiny, vám zostanú. A potom vám, ako hovoríte, ide hlavne o byt, náradie
+         máte svoje. Toto beztak predáte.
+   </p>
+   <p>
+    — Predám.
+   </p>
+   <p>
+    — Nuž, tak. Ostatne, môj priate¾ Melíšek odkúpi od Vás i tie ostatné veci. To je tá
+         najmenšia staros. Keï raz budete tu, nikto vás nemôže da preè, keïže iného bytu nemáte.
+         Nesmiete sa bá ani domáceho, ani bytového úradu.
+   </p>
+   <p>
+    — A keby ste mali nejakú nepríjemnos, Moser vám pomôže. To viete, taký starý detektív
+         sa v takých veciach vyzná. A je to môj dobrý známy. Vás akožto mojich nástupcov,
+         nenatiahne.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    V pondelok o pol siedmej kráèal som i so ženou s košom v ruke. V koši bolo pár
+         plechových hrncov. To jako že sa chcem hneï nasahova, èi byt nieèim obsadi. A aby pán
+         Pták uveril, že ten byt ozaj chceme, tak maly nám pomáha hrnce a kastrole. Pochodovali sme
+         na Komenského námestie. Bolo èerstvo, vyhrnul som si golier na svrchníku. Tú noc sme spali
+         nepokojne. Milada nejedla k raòajkám skoro niè a celá bola vzrušená. Mne tiež bolo divne
+         okolo srdca.
+   </p>
+   <p>
+    — Nebojíš sa, miláèku? — spytovala sa, túliac sa ku mne.
+   </p>
+   <p>
+    — Ani najmenej — lhal som. — Èoho by som sa bál? Ja sa bojím hlivie a niè nepodnika. A
+         potom som v spojení s policiou. Nech sa bojí ten, kto sa dostane do našich pazúrov.
+   </p>
+   <p>
+    Milada sa každých pár krokov prekrižovala. Ráno sme sa obšírne a dôkladne pomodlili.
+         Nezabudli sme vykroèi z domu pravou nohou.
+   </p>
+   <p>
+    A keby ten èlovek utiekol s tými peniazmi?!
+   </p>
+   <p>
+    — To by bola škoda úradu pre stíhanie úžery. Ostatne to je takreèeno vylúèené.
+   </p>
+   <p>
+    — A nechcela by policia èi ten úrad, aby sme jej peniaze vrátili?
+   </p>
+   <p>
+    — To sa vie, že by nechcela. Akože by mohla chcie! A èo máš taký strach? Èo sa tak
+         bojíš! Nekradla si, ani nezbíjala! — chlácholil som ženu rázne. Lebo veï už-už ma
+         prechádzala trpezlivos.
+   </p>
+   <p>
+    — Ale ak sa ti nieèo stane?!
+   </p>
+   <p>
+    — A takto bez bytu sa mi nemôže niè sta?! Do choroby môžem upadnú, spusti sa…
+   </p>
+   <p>
+    Umåkla. Ale na tvári jej bolo vidno nervózne trhanie a rozèúlenie. Tento raz sa ani
+         nezastavovala pred výkladmi, ani si nevšímala toalet ženských, ktoré sme stretali. Vyzerala
+         ako baránok, ktorého vedú na jatku.
+   </p>
+   <p>
+    — Neboj sa, duša — prichádzalo mi ¾úto, že som bol pred chví¾ou priprísny. — Dá Boh,
+         hodinka, dve a sme vo svojom.
+   </p>
+   <p>
+    Na rohu Táborskej a Komenského námestia vyzerali už na nás detektívi. Boli traja, jeden
+         vysoký, ramenatý, fúzatý chlapík. Druhí dvaja boli vyholení, ve¾kohlaví, bruneti, s
+         nahnutými krkmi. Vyzerali ako sliediaci psi. Najmä mladší z nich mal výraz až príšerný. Oèi
+         vypúlené, drzé, ruky vo vreckách, brada vypuklá. Ten èlovek by bol hotový trebárs vraždi.
+   </p>
+   <p>
+    Milada sa až zachvela pred detektívmi. Podával som im ruky. Fúzatý zatiahol ma pod jednu
+         bránu a pred kolegami ako svedkami vyèítal mi na dlaò šestisícpästo korún. Šes
+         šedo-èernastých tisícoviek, jedna èervená pästo koruna.
+   </p>
+   <p>
+    — No, tak ako to urobíme?
+   </p>
+   <p>
+    — My dvaja ta dnu vojdeme. Keï bude Pták vyplatený a budem ma v rukách soznam, pošlem
+         svoju paniu domov pre dvesto korún pre Mosera. To vám bude signálom, že môžete vnís.
+   </p>
+   <p>
+    — Dobre, platí.
+   </p>
+   <p>
+    Pustili sme sa skoro prázdnymi, tichými uliciami. Klepot našej obuvi po dlážke rozliehal
+         sa až do súsednej ulice. Chví¾ami som sa obzrel. Detektívi nás nasledovali, fúzatý sa
+         obšmietal, ako by h¾adal nejakú krèmu, dvaja mladí držali sa okolo hrdla a tajomne si nieèo
+         šeptali a ukazovali si na niektoré domy, ako by kovali plán nejakého vlámania.
+   </p>
+   <p>
+    Zatoèili sme do Ptákovej ulice. Slúžka s taškou vykroèila zo Smetanovej ulice z domu
+         èíslo štrnás. Aby sme sa dáko neprezradili — blyslo mi hlavou.
+   </p>
+   <p>
+    Prekrižovali sme sa s Miladou v bráne domu a vkroèili sme pravou nohou. Hybaj do
+         schodov. Milade podlamovaly sa kolená. Chvela sa jako osyka.
+   </p>
+   <p>
+    — Miláèku, som taká slabá a je mi na zamdlenie! — poèala sa ponosova.
+   </p>
+   <p>
+    — Blázonko! — poèal som ju chlácholi. — Tak blízko cie¾a a ty ochabuješ.
+   </p>
+   <p>
+    Už sme boli v prvom poschodí. Klepem.
+   </p>
+   <p>
+    Pán Moser s úmevom nám otvára.
+   </p>
+   <p>
+    — Ah, ruky bozkávam! Ah, to ste ranostaji! My vás síce èakáme, varili sme si kávu,
+         fajèíme, ale oèakávali sme vás tak na pol ôsmu.
+   </p>
+   <p>
+    — Viete, pán Pták má odcestova. Nemôže mne škodi, keï získa pol hodinky èasu.
+   </p>
+   <p>
+    — Áno, máte síce pravdu, ale kto by to mohol od vás žiada a milospaní bude pre nás,
+         hádam, trochu ospalá.
+   </p>
+   <p>
+    — To je to najmenšie. Veï si to dnes môžem vynahradi — odpovedala Milada s úsmevom.
+   </p>
+   <p>
+    — Len nech sa rozhovorí — myslel som si. — Tým ¾ahšie zakryje rozpaky.
+   </p>
+   <p>
+    Kuchyòa bola hneï do chodby, dos ve¾ká, ale neobyèajne špinavá a tmavá. Dvere do chodby
+         maly síce hore sklá, ale tie boly neumývané, zaèadené, skoro nepriezraèné. K tomu nebola
+         nijak jasná ani chodba, tak že kuchyòa moc toho svetla nedostávala, ani z izby, do ktorej
+         viedly dvere, z vrchnej polovice sklené.
+   </p>
+   <p>
+    Zaklepali sme.
+   </p>
+   <p>
+    — Vo¾no! — volal pán Pták. Bol vyumývaný, vyholený, v pekných šatoch, s jednoduchým
+         škrobeným golierom. Na peknej snehobielej náprsenke mal krásnu modrú kravatu. Bola moderná,
+         ve¾ká, široká, jeden bok vyššie, druhý nižšie, krk kravaty ve¾ký. Na prstoch mal zlaté
+         prstene s kameòami, na brušku zlaté hodinky. Na liehovom varièi kochlovala voòavá zrnková
+         káva. Izba bola mierne nafajèená.
+   </p>
+   <p>
+    — To som rád, že prichádzate tak vèas. Mám ešte jednu-druhú prácu v meste. Neprekáža to
+         milospanej? — ukázal na cigaret¾u.
+   </p>
+   <p>
+    — Ani najmenej. Som na to nauèená — od¾ahèila si Milada. Mlèanie robilo ju
+         najnervóznejšou. Keï prehovorila, nervické napnutie hneï trochu povolilo.
+   </p>
+   <p>
+    — Èo to máte?! — ukázal Pták na kôš, ktorý som složil pred jednou stolièkou.
+   </p>
+   <p>
+    — Ale pár kúskov kuchynského riadu — vzal som košík do ruky a zahrkal.
+   </p>
+   <p>
+    — To milospani chce už dnes tu obed vari?
+   </p>
+   <p>
+    — Akože. To bude najlepšie. Ja ešte skoèím pre košík s potravinami. Ozaj, varí sporák
+         dobre?
+   </p>
+   <p>
+    — Znamenite. Iba ak by ste si ho museli da vymies. Ale ten obed si ešte môžete na òom
+         uvari.
+   </p>
+   <p>
+    — Ozaj ešte nieèo. Nemáte tu snáï nejaký hmyz?
+   </p>
+   <p>
+    — To viete, že bez toho sa tu èlovek v Prahe neobíde. Ale nie je to také zlé. Viete,
+         predo mnou bývala tu taká chudera, chudobná, stará pani, skoro slepá. Tá ten byt poriadne
+         zanedbala. A ja som tu sám, bez ženskej. Tak to nemôžem tak v poriadku drža. Ani nebývam
+         to¾ko doma. Som zaujatý svojimi obchodmi. Ale jako vám hovorím, nie je to také zlé. Ako
+         vidíte, spávam tu a som dos citlivý èlovek.
+   </p>
+   <p>
+    — Na niekoho tak neidú — poznamenala Milada. — Mòa až mráz prechodí, keï si na to
+         pomyslím. Bàà!
+   </p>
+   <p>
+    Usmiali sme sa všetci traja mužskí.
+   </p>
+   <p>
+    — Niè nerobí. Mám známeho lekárnika na Smíchove. Ten mi poradí dáky prostriedok —
+         cigánil som, ako by tlaèil.
+   </p>
+   <p>
+    — No tak vidíte. To som hneï vedel, že vy, taký praktický èlovek, si ¾ahko pomôžete. No
+         tak, aby sme zaèali èíta soznam, èo?
+   </p>
+   <p>
+    — Prosím.
+   </p>
+   <p>
+    — Tedy jedna poste¾.
+   </p>
+   <p>
+    — Áno, poste¾ — ukázal som na òu.
+   </p>
+   <p>
+    — Periny vám nechávam tiež.
+   </p>
+   <p>
+    — Ïakujem. Ja ich vôbec nepotrebujem. Mám chvalabohu dos svojich.
+   </p>
+   <p>
+    — No, ja si ich do Jugoslávie tiež nevezmem. Sú vaše. Nebojte sa, na takú vec sa nájde
+         ¾ahko kupec. — Potom jedna skriòa na šaty, jedna do komory èi na potraviny. Ale komory tu
+         niet.
+   </p>
+   <p>
+    — Vidím. Správne. A k¾úèe?
+   </p>
+   <p>
+    — Pardon! Od tejto na šaty mám k¾úè. Od tej druhej chybí.
+   </p>
+   <p>
+    — Nerobí niè.
+   </p>
+   <p>
+    — Potom biedermayerovské hodiny na stene. To je najvzácnejší kus zo všetkého.
+   </p>
+   <p>
+    — Vidím. Ja sa do toho nerozumiem.
+   </p>
+   <p>
+    — Za ne samotné môžete dosta viac, ako mi platíte za všetko. Èo myslíte, kto má smysel
+         pre také starožitné umelecké veci?
+   </p>
+   <p>
+    — Mne budú dobré i celkom obyèajné. Ostatne my máme pekné nástenné hodiny svoje.
+   </p>
+   <p>
+    — Ale biedermayer je biedermayer — ozval sa Moser.
+   </p>
+   <p>
+    — Tri stolièky.
+   </p>
+   <p>
+    — Jedna, dve, tri. Súhlasí.
+   </p>
+   <p>
+    — Potom vám nechávam jedno vedro, bednu, uhlie a rozlièné drobnosti, na pr. smetár. Èo
+         by som s tým robil, sebou to nevezmem.
+   </p>
+   <p>
+    — Ïakujeme — poznamenal som rozpaèite.
+   </p>
+   <p>
+    — Siahol som do tobolky a vyèítal na stôl šes tisícoviek a jednu pästo korunu.
+         Poukladal som ich pekne. Ptákovi a Moserovi zažiarily oèi. Napadlo mi, že policajné peniaze
+         môžu by falošné. Pták a Moser, takí znalci, to môžu pozna a ja budem v úzkych.
+   </p>
+   <p>
+    — Nie. Niè takého. Pán Pták ukladal peniaze pozorne do žltej remennej tobolky. Tisícky
+         bral s takým gustom, tak ¾ahúèko, tak nežne, že mi bolo skoro ¾úto, že o chví¾u má by jeho
+         š¾achetné nadšenie tak mrzko schladené. A pri všetkých znaleckých hmatoch musel sa Pták,
+         bolo to na òom vidno, premáha, aby sa nezabudol a neshrabol peniaze dychtive.
+   </p>
+   <p>
+    — Èo som chcel poveda — obrátil sa ten dobrý èlovek — priate¾sky ku mne.
+   </p>
+   <p>
+    — Domovnica vám musí da k¾úèe od pivnice a od povaly. Keby nechcela, len si na òu
+         húknite.
+   </p>
+   <p>
+    — Ale áno — prisviedèal som — aèko¾vek mi to bolo ve¾mi divné, že Pták nemá k¾úèov od
+         tých miestností.
+   </p>
+   <p>
+    — Ozaj! — p¾asol som sa rukou po nohavici. — To je mrzuté, zabudol som tých dvesto korún
+         pre pána Mosera.
+   </p>
+   <p>
+    — To niè nerobí. Ja mám èas. Však sa ešte uvidíme. Akiste vám dovediem kupca na to
+         náradie — bránil sa Moser.
+   </p>
+   <p>
+    — Ale ja to chcem ma v poriadku — nútil som sa k úsmevu. — Priatelia buïme, dlhy si
+         plame. Prosím a, duša — obrátil som sa k žene. — Neprešla by si domov pre tých dvesto
+         korún?
+   </p>
+   <p>
+    — Ale áno — a vytratila sa von. Bál som sa, aby sa nepotkla, nevykríkla, nepadla
+         rozèúlením.
+   </p>
+   <p>
+    Pre mòa nastal rozhodný okamih. Ale vedel som sa pretvarova.
+   </p>
+   <p>
+    — Ach, Bože, Bože, koneène ma byt. Neviete páni, èo to pre nás znamená?! — spustil som.
+   </p>
+   <p>
+    — Á, ja viem, èo je to. Mnoho ¾udí vám bude závidie — poèal nám Moser robi laskominy.
+         — Èo myslíte, i v tomto dome je moc nájomníkov, i celé rodiny, ktorí si na to robily zuby.
+   </p>
+   <p>
+    — Dobre, že sa sem nenasahovala nejaká bagáž. Som ozaj rád, že to dostanú takí poriadni
+         ¾udia. A k tomu ešte mladomanželia. Triafalo sa mi to už moc razy preda. I keï som už
+         vyjednával s vami, modlikali mi mnohí, len aby som im to preboha prepustil. A ja som to
+         predsa doprial vám — zahrával si kàmený pán Pták na ve¾kodušného priaznivca mladomanželov.
+   </p>
+   <p>
+    — Onedlho bude tu blèa ohník v sporáku, smaži sa budú jedlá, v hrncoch bude to vrie,
+         kochlova. Pustíme sa do upratovania. A do veèera bude tu ma útulné hniezdoèko šastný
+         párik — poèal som ma¾ova budúcnos.
+   </p>
+   <p>
+    — Som rád, že som vám k tomu dopomohol. Prajem vám zo srdca mnoho šastia na novom byte!
+         — stískal mi pán Pták srdeène pravicu.
+   </p>
+   <p>
+    — Gratulujem! — opièil sa za ním Moser.
+   </p>
+   <p>
+    — A ja vám prajem mnoho zdaru v novej vlasti! — obrátil som sa ku Ptákovi.
+   </p>
+   <p>
+    — No, ja sám neviem, èi sa ešte nevrátim do Èiech.
+   </p>
+   <p>
+    — Nemyslím — dodal som urèite. Privyknete tam, zbohatnete ešte väèšmi, pane Pták,
+         oženíte sa tam. Ani vás nenapadne, aby ste sa vrátili.
+   </p>
+   <p>
+    — Uvidíme.
+   </p>
+   <p>
+    — Všimnul som si vylešteného revolveru na klinci blízko dverí. — Èo, aby ho tak použili
+         proti mne?! Môžu zbada detektívov vopred — lietaly mi hlavou myšlienky, jedna strašnejšia
+         ako druhá. Poodišiel som k revolveru, aby som bol k nemu ja najbližšie. Aby som zakryl
+         svoje rozhodnutie, poèal som si ho obzera.
+   </p>
+   <p>
+    — Pardon! Ešte by som bol na nieèo zabudol. Ten revolver patrí tiež priate¾ovi Melíškovi
+         — ospravedlòoval sa pán Pták. — Ak vám padol do oka, povedzte oò Melíškovi. Možno by vám ho
+         predal. Taká vec je dnes hodna pár stovák.
+   </p>
+   <p>
+    Na schodoch ozvaly sa kroky. Srdce mi zabúchalo.
+   </p>
+   <p>
+    — Sem to vnišli! — ozvaly sa vonku drsné hlasy.
+   </p>
+   <p>
+    — Èo to? Kto to? — ozval sa Moser.
+   </p>
+   <p>
+    Traja detektívi vrazili dnu ve¾kými krokmi, jako kopovi èuchajúci divú zverinu.
+   </p>
+   <p>
+    — Èo je to tu? Vy pašujete dohán! — obrátil sa fúzatý na mòa.
+   </p>
+   <p>
+    Neprezradil som sa, že hráme komédiu. — Nie! — popieral som zúfale.
+   </p>
+   <p>
+    — Videli sme vás ho nies v koši! — štekali tí dvaja druhí na mòa, jako dva hafani.
+   </p>
+   <p>
+    — Otvorte koš! Chytro! — rozkazoval mi fúzatý.
+   </p>
+   <p>
+    Robil som sa, ako by sa mi nohy triasly. Poslušne, ale nešikovne som otváral koš s
+         hrncami.
+   </p>
+   <p>
+    — Tu je nie. Však my ho nájdeme! Len tajte! Navaríte si peknej omáèky! — poèali
+         detektívi siaha do perín, do stola, do skrine. Potom nám poèali prezera vrecká všetkým
+         trom.
+   </p>
+   <p>
+    — Hoho! Vy máte dnes akosi mnoho drobných! Odkia¾ ste ich vzali?! — poèal fúzatý vháòa
+         Ptáka do úzkych.
+   </p>
+   <p>
+    — Dostal som ich vèera z obchodov, ktoré som uzavrel — vyhováral sa Pták drzo.
+   </p>
+   <p>
+    — To je dobré. A na tejto ceduli je popísané vo¾aké náradie. A tu je kvitancia na to
+         náradie na 2000 korún.
+   </p>
+   <p>
+    — To náradie je moje! — ozval som sa.
+   </p>
+   <p>
+    — Á, tak, vy tu keasujete s náradím! Dobre že to vieme.
+   </p>
+   <p>
+    — A tu je revolver! — snímal ho jeden z tých poèerných s klinca. — Èí je to?
+   </p>
+   <p>
+    — Môj — ozval sa Pták.
+   </p>
+   <p>
+    — A kde máte povolenie nosi zbraò?
+   </p>
+   <p>
+    — Nemám.
+   </p>
+   <p>
+    — Nový prestupok.
+   </p>
+   <p>
+    — Aha, tu je pas do Jugoslávie. Emanuel Pták. Ktorý ste to?
+   </p>
+   <p>
+    — Ja.
+   </p>
+   <p>
+    — Pôjdete s nami všetci traja. Možno, že miesto do Jugoslávie dostanete sa celkom inam.
+   </p>
+   <p>
+    — Ja mám pas, mòa musíte pusti. Ja sa musím ešte najes. Pre vás nezmeškám vlak!
+   </p>
+   <p>
+    — No, z dnešnej vašej cesty už sotva bude èo.
+   </p>
+   <p>
+    — Nesiahajte mi do vrecák, lebo vás! — vzpieral sa Moser, èervený od rozèulenia ako rak.
+   </p>
+   <p>
+    — P¾as! — vylepil mu zaucho jeden z detektívov. — Nevieš, ty holomok, že sme od policie.
+         Ticho, ani muk!
+   </p>
+   <p>
+    — Aló, marš, všetci k trestnému súdu! — komandoval fúzatý.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    — Boli sme my pekná èata. Ja s košom, v ktorom hrkaly plechové hrnce a pokrievky, tuèný,
+         na cestu obleèený Pták, nemohúci sa nijak odtrhnú od svojich dvoch cestovných košov,
+         rozhorèený Moser v plnom povedomí svojej nevinnosti a predsa vediaci, že u policie nie je
+         niè vytvorené, a tí traja kopovi.
+   </p>
+   <p>
+    — Byt zamykal fúzatý. Nalepil na zámku nejakú èervenú policajnú vignetu. Nasledovaly
+         schody. Moser slietol dolu nimi ako pták.
+   </p>
+   <p>
+    — Hoho! Len pomaly! — zastavil ho surový hlas fúzatého.
+   </p>
+   <p>
+    Pred domom sriadili sme sa na páry. Prvý kráèal Moser s jedným nízkym èiernym
+         detektívom. Robil sa pokojným. Potom nasledoval èervený Pták s druhým, na konec ja s
+         fúzatým.
+   </p>
+   <p>
+    Obyvatelia zo štrnástky vybehovali za nami na ulicu.
+   </p>
+   <p>
+    — To bolo dobré s vašou paòou — nahol sa fúzatý k môjmu uchu. — Pribehla k nám bez slova
+         a plakala, plakala. „Už dal pán Zajíèek peniaze?“ spytujem sa jej. Nemohla vyda zo seba
+         slova, iba prikývla. Poslal som ju domov.
+   </p>
+   <p>
+    Ja by som sa najradšej rozbehol domov uspokoji ju, poteši.
+   </p>
+   <p>
+    Pri stanici elektrickej pouliènej dráhy obzerali si nás ¾udia zvedave. Na niektorých
+         bolo vidno, že detektívov poznávajú. Lístky (karty) kúpil nám fúzatý za peniaze pána Ptáka,
+         ktoré mal u seba. Pán Pták sa proti tomu ohradzoval. — Ticho! — šeptali mu detektívi do
+         uší. Ja som sa prvý raz viezol v pouliènej káre za cudzie peniaze (zadarmo viezol som sa už
+         viac razy). Detektívi dávali na nás pozor (tiež aj na mòa), aby sme im niektorý neuvrzol.
+         Na Karlovom námestí pred zemským trestným súdom sme sosadli. Zaviedli nás do oddelenia s
+         nápisom: úrad pre stíhanie úžery, do tej istej izby, kde sme robili pred pár dòami svoj
+         strategický plán s vrchným policajným inšpektorom doktorom Šeletavom.
+   </p>
+   <p>
+    Prijalo nás so dvadsa párov žiariacich detektívskych oèí.
+   </p>
+   <p>
+    — Vy tam! Vy tam! — usádzali nás naši sprievodcovia. Mòa posadili nazad, blízko steny,
+         na samom predku sedel Pták, po boku Moser. Boli sme od seba poodde¾ovaní drevenými
+         zábradliami.
+   </p>
+   <p>
+    Vydýchol som si zhlboka. Len jedno ma mrzelo: nevedel som, èi mám vyrukova pred Ptákom
+         a s Moserom s barvou, èi hra komédiu ïalej.
+   </p>
+   <p>
+    Prisadli si k nám detektívi a písali si naše osobné datá. V Ptákových vreckách shabali
+         pár listov, notes a iné poznámky, medzi nimi aj soznam dohánových výrobkov.
+   </p>
+   <p>
+    — Èo je to? Britanica, 240 kusov regalia media. S tým ste to všetkým úžerníèili? To tuná
+         je nákladný list na vagón soli. Pekne, pekne.
+   </p>
+   <p>
+    Moser udal ako zamestnanie: privátny detektív.
+   </p>
+   <p>
+    — Èo detektív, a nehanbíte sa spriaha s takými darebákmi!
+   </p>
+   <p>
+    — Nedajte sa tak uráža! — povzbudzoval ma Pták, obracajúc sa ku mne.
+   </p>
+   <p>
+    — Drža hubu! — okríkol ho jeho spoloèník.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Vyšetrovalo sa celé dopoludnie. Ako sa držali Pták a Moser, dozvedel som sa iba
+         neskoršie. Každého vyslúchali nás osobitne. Mòa pustili na chodbu. Poèúval som pri dveroch
+         izby, kde vyslúchal vyšetrujúci sudca Ptáka v sprievode detektíva. Chví¾ami sa mi zdalo, že
+         krièia, že sa hrdúsia. Detektív vyjdúc z izby, pošepkal mi o Ptákovi:
+   </p>
+   <p>
+    — To je prefíkanec! Rozpráva celé báchorky, len aby sa vysekal. Iba keï sme mu ukázali
+         naše policajné známky na tých peniazoch, bol trochu zháèený.
+   </p>
+   <p>
+    Keï Ptáka viedli do iného oddelenia, uspel ma zazrie na chodbe. Kráèajúc popri mne,
+         zašepkal:
+   </p>
+   <p>
+    — A vy ste to udali?!
+   </p>
+   <p>
+    — Tak sa zdá! — vyškieral som sa škodoradostne.
+   </p>
+   <p>
+    — A k vôli èomu?
+   </p>
+   <p>
+    — Aby som mal byt.
+   </p>
+   <p>
+    — Aha, vy ste v službách policie?
+   </p>
+   <p>
+    — To sa rozumie — zalhal som, aby som ho tým väèšmi zastrašil. Odkedy som totiž zosnoval
+         plán privies Ptáka do šajt¾avy, vždy som cítil hrúzu pred myšlienkou: A èo bude, keï sa
+         Pták s Moserom vyslobodia z väzenia?! Budú sa chcie na mne pomsti. Stretnú ma náhodou v
+         daktorej boènej ulièke, alebo budú èiha na mòa, zbijú ma alebo postrelia. Ale keï budú
+         presvedèení, že za mnou stojí policia, môžu tuši u mòa browning a pomsty sa radšej
+         zrieknu.
+   </p>
+   <p>
+    Detektív ma zaviedol k vyšetrujúcemu sudcovi, ktorý mi zvestoval, že som hotový.
+         Predbežne na mòa nereflektujú, až keï budem predvolaný.
+   </p>
+   <p>
+    Vyletel som zo súdnej budovy ako vták.
+   </p>
+   <p>
+    — Hop! — zabudol som si košík s riadom. Vrátil som sa nazpä, odkia¾ som vyšiel. Košík
+         našiel som v kancelárii vyšetrujúceho sudcu.
+   </p>
+   <p>
+    Z chodby som sa vrátil.
+   </p>
+   <p>
+    — Pane doktor, èo bude s k¾úèami od bytu? Zostanú predbežne u vás u súdu?
+   </p>
+   <p>
+    — Áno.
+   </p>
+   <p>
+    Vybehol som s košom na ulicu a vsadol do tramwaye. Doma som našiel ženu celú uplakanú.
+         Boly dve hodiny popoludní. Ale žena od rána niè nejedla. Hrozne sa vraj bála o mòa. Keï som
+         dlho neprichádzal, bála sa vraj, že sa mi nieèo stalo, že ma snáï zavreli, alebo že ma
+         detektívovia oklamali.
+   </p>
+   <p>
+    Sbehli sme do blízkeho hostínca. Obedu už nebolo. Skoèili sme do kaviarne na bielu kávu
+         a vrátili sme sa domov uvari si nieèo na špirituse. Veèer sme spriadali sny o šastnejšom
+         budúcom živote, keï budeme ma byt, slúžku, keï nás nebude nikto vykorisova.
+   </p>
+   <p>
+    Druhého dòa som si podal žiados na spoloèný bytový úrad. Žiadal som o Ptákov teraz už
+         uprázdnený byt. Vyložil som, že Ptákov byt som si sám našiel, sám som si ho vyprázdnil,
+         dopomôžuc Ptákovi do vyšetrovacieho väzenia. Pre istotu zabehol som na pražský magistrát po
+         odporúèanie podmešanostu, aby bol byt istotne pridelený mne. To isté som si vykonal i v
+         bytovom oddelení ministerstva sociálnej peèlivosti.
+   </p>
+   <p>
+    Tretieho dòa ma vyh¾adal Moser. Predstavil sa mi, že je už na slobode.
+   </p>
+   <p>
+    — A èo pán Pták?
+   </p>
+   <p>
+    — Zavreli ho.
+   </p>
+   <p>
+    — A veï mu predsa nemohli niè dokáza — robil som sa nevedomým, uspokojený, že Moser
+         nevie ešte niè o mojom šibalstve.
+   </p>
+   <p>
+    — Ale našli u vás, keï vám prezerali vrecká, tú nešastnú kvitanciu s tým soznamom toho
+         náradia.
+   </p>
+   <p>
+    Že našli u Ptáka aj peniaze s policajnými znakmi, o tom Moser nevedel niè. Akiste si v
+         tej trme-vrme nestaèil všetkého všimnú.
+   </p>
+   <p>
+    — A máte k¾úèe od bytu? — spýtal sa ma nakonec.
+   </p>
+   <p>
+    — Nie, sú u súdu. Musíme poèka na pojednávanie.
+   </p>
+   <p>
+    Doma v preplnenej izbietke žilo sa nám veselo. Pekný je život s nádejou. A my sme mali
+         nádej na samotný byt. Okrem toho rozprávali sme si znovu a znovu svoj hrdinský kúsok, ako
+         sme dostali do chládku pána Ptáka.
+   </p>
+   <p>
+    Jedného dòa som sa rozpomenul na Krautmanna, ktorému som bol dal 535 korún preddavku.
+         Malo to by na sklep, ktorý chcel preèara za byt. Bolo tomu už pár mesiacov, ale pán
+         Krautmann sa nehlásil.
+   </p>
+   <p>
+    Zaviezol som sa do Belcrediho tøídy è. 11. Vyšiel som na druhé poschodie.
+   </p>
+   <p>
+    Pána Krautmanna doma nebolo.
+   </p>
+   <p>
+    — Kedy bude doma?
+   </p>
+   <p>
+    — To neviem — odpovedala mladá pani nedbale. — On príde domov hoci pár razy do dòa, ale
+         hneï zase odíde.
+   </p>
+   <p>
+    Rozpovedal som jej svoju vec.
+   </p>
+   <p>
+    — Aha — rozpomínala sa. — Z toho sklepu nebolo niè. Ale, myslím, môj má zase nieèo.
+   </p>
+   <p>
+    Žiadal som o dovolenie, aby som mohol na pána Krautmanna poèka.
+   </p>
+   <p>
+    — Ale prosím, prosím.
+   </p>
+   <p>
+    Klepanie na dvere. Vošiel slušne obleèený mladší mužský.
+   </p>
+   <p>
+    — Má pán Krautmann ešte toho karbidu?
+   </p>
+   <p>
+    — Má. Ak potrebujete, vyh¾adá vás ešte dnes.
+   </p>
+   <p>
+    — Netreba. Veï sa beztak sídeme v kaviarni.
+   </p>
+   <p>
+    Odišiel. Až teraz som si všimol, že pri dverách stojí malé dievèa, akoby slúžtièka,
+         rukou pridržiava zabalený ve¾ký karton stojaci na zemi.
+   </p>
+   <p>
+    — Èo je?
+   </p>
+   <p>
+    — Pán Mika to vracia, že to nemôže potrebova.
+   </p>
+   <p>
+    — Dobre, nechajte to tu.
+   </p>
+   <p>
+    — A že tých 150 korún dostane nazad.
+   </p>
+   <p>
+    — Dobre. Môj je nie doma. Príïte zajtra.
+   </p>
+   <p>
+    — Ale keï mi povedali, aby som sa bez peòazí nevrátila.
+   </p>
+   <p>
+    — Pre mòa si èakaj hoci do veèera, dievèisko sprosté! K vôli tebe nebudem predsa
+         rozmieòa tisícku. Aby som ešte tak falošné peniaze dostala.
+   </p>
+   <p>
+    Dievèa odišlo s plaèom. Poèal som tuši nieèo nedobrého. Aby ten Krautmann nebol dáky
+         podvodník a mojich 535 korún, aby neplávalo dolu vodou!
+   </p>
+   <p>
+    — Pôjdem sa prejs. O pol hodiny si dovolím prís — odchádzal som.
+   </p>
+   <p>
+    Na prechádzke som si kúpil noviny. Èítam v denných zprávach: „padelal vkladnú knižku“.
+         Moje oko utkvelo na riedko vysádzanom mene:
+    <emph>
+     Šimon Krautmann
+    </emph>
+    .
+   </p>
+   <p>
+    Líca mi poèaly hore. Všetka krv mi udrela do hlavy. Sadol si na lep, èloveèe sprostý!
+   </p>
+   <p>
+    Èítam znovu a znovu. Krautmann kúpil od dákeho èloveka zlaté hodinky. Popoludní ich mal
+         zaplati. Do tých èias ich vraj predá. Popoludní nezaplatil. Preahoval kupca dva èi tri
+         dni. Keï koneène kupec rázne vystúpil, ukázalo sa, že Krautmann nemá ani peòazí ani
+         hodiniek. Aby sa zachránil pred oznámením, dal Krautmann svojmu verite¾ovi ako zálohu
+         vkladnú knižku na 11.100 korún; hodinky stály 3500 korún. Kupec si chcel svoje peniaze
+         vyzdvihnú, ale v banke ho dali zavrie. Ukázalo sa totiž, že na vklade je iba 100 korún.
+         Dve jednièky pred stovkou vpísal totiž do knižky Krautmann sám. Rozumie sa, bol tiež
+         uväznený.
+   </p>
+   <p>
+    Bežal som ku Krautmannovej.
+   </p>
+   <p>
+    — Nie je pán Krautmann ešte doma?
+   </p>
+   <p>
+    — Ešte nie.
+   </p>
+   <p>
+    — Èo to tajíte predo mnou! Pán Krautmann je vo väzení. — Roztvoril som pred òou noviny.
+   </p>
+   <p>
+    Rozumie sa, vedela o všetkom. Pustila sa do usedavého plaèu. Je vraj nešastná. Èo má
+         robi?! Jej muž bol vraj predtým zamestnaný v ministerstve Národnej obrany. Prišiel o
+         miesto. Preèo? Vedel viac, ako všetci jeho predstavení dohromady a ich hlúpos im aj
+         vyhodil na oèi. Rozumie sa, nevedeli to znies a zbavili sa ho. Èo mal robi?! Je ženatý,
+         má rodinu, ži museli, pomáhal si, ako vedel. Ale to je vraj blbec, kto jej muža udáva. Kto
+         ide naò s kyjakom, ten práve nedostane niè. Jej muž, keï bude ma, sám zaplatí, keby bol
+         komu èo dlžen. Majetku má dos. Je aj spoloèníkom biografu na Kladne. I vkladné knižky má,
+         i cenné papiere, i zlato, i karbid a iné veci. Len ho neslobodno hna do úzkych, lebo to
+         každý obanuje.
+   </p>
+   <p>
+    Zaèala plaèom, konèila vyhrážkami.
+   </p>
+   <p>
+    Oznámil som Krautmanna na policajnom komisárstve, že ma ošudil o 535 korún.
+   </p>
+   <p>
+    O pár dní som našiel doma predvolanie v záležitosti Ptákovej.
+   </p>
+   <p>
+    Milada ma prosila, plaèúc, aby som mal so súdmi pokoj. Tuší vraj, že to zle vypáli.
+   </p>
+   <p>
+    Vysmial som ju a robil jej výèitky, že klesá na duchu pred naším rozhodným víazstvom.
+   </p>
+   <p>
+    Prišlo predvolanie na políciu v záležitosti Krautmannovej. Na sobotu.
+   </p>
+   <p>
+    V sobotu som sa dal vyholi, obliekol sa do sviatoèných šiat. Vzal k sebe kvitancie
+         Krautmannove, žena mi urobila nohou, domovnica ma predišla s plným. Na ulici som zazrel
+         kominára. Poèkal som naò, aby mi prešiel po pravej strane. A šiel som na policiu.
+   </p>
+   <p>
+    O hodinu som sa vrátil domov s hlavou ažkou, akoby ma vyzauškoval, zubami škrípajúc.
+   </p>
+   <p>
+    Èakal som, že budem na polícii sám a v neprítomnosti Krautmannovej istotne vyhrám.
+   </p>
+   <p>
+    Aký bol však môj úžas, keï som videl Krautmanna sedie už u komisára.
+   </p>
+   <p>
+    Patrne ušiel z väzenia, alebo ho prepustili.
+   </p>
+   <p>
+    Rozpovedal som vec. Predložil kvitancie. Potom rozpovedal vec Krautmann. Vravel, že
+         h¾adaniu bytu pre mòa venoval 16 dní, ktoré si úètuje — ve¾mi lacno — po 40 korunách,
+         inzeráty v mojej veci 35 korún, dohromady 675 korún. Dostal iba 535 korún, tak že mu
+         prichodí ešte 140 korún.
+   </p>
+   <p>
+    Márne som dokazoval, že ja som s¾úbil odmenu iba za nájdený byt, že som si ho nenajal,
+         aby pre mòa celé dni byt h¾adal. Policajný komisár nás vyzval, aby sme sa vyrovnali.
+         Krautmann nechcel s¾avi so 140 korún, ani haliera. Komisár nám odporúèal, aby sme sa
+         obrátili na okresný súd.
+   </p>
+   <p>
+    Vonku spustil na mòa Krautmann:
+   </p>
+   <p>
+    — Vy hovädo! Vy ste na mòa krátky! Vy si trúfate na mòa! Ste na to strašne hlúpy! Ak mi
+         nezaplatíte do 3 dní 140 korún, ja vám podkúrim!
+   </p>
+   <p>
+    Tak som pochodil s Krautmannom.
+   </p>
+   <p>
+    O tri dni neskôr šli sme k zemskému trestnému súdu v záležitosti Ptákovej. Predvolaní
+         boli sme oba, i Milada. A èo nás prekvapilo, bolo, že okrem Ptáka boli obžalovaní i Moser a
+         Melíšek. Tí dvaja poslední boli na slobode, zišli sme sa s nimi na chodbe súdu. Mali so
+         sebou i obhájcu, malého poèerného advokáta — židáèka. Ten sa hneï oboril na nás, že tak a
+         tak, èi je to èestné, aby bankový úradník konal služby polícii? Vysmial som sa mu a
+         vyprosil si, aby sa staral o moju èes. Advokát trochu skrotol a robil mi výèitky, že
+         priviedol som na lavicu obžalovaných dvoch úplne nevinných ¾udí. Oni vraj prišli do celej
+         veci ako Pilát do kreda. Pták bol vraj dlžen Melíškovi 10 tisíc korún, ktoré mu ten pôžièal
+         na vagón soli. Keï nemohol Melíšek prís k svojim peniazom, najal si vraj privátneho
+         detektíva, aby pozoroval Ptáka, kedy bude pri peniazoch, aby ich mohol da u neho
+         exekvova, lebo z náradia, dovolil mu súd exekvova iba èiastku. Dlho vraj platil detektíva
+         nadarmo. Až koneène naïabil som sa mu ja. Nuž, Moser sa vplietol do toho gšeftu tiež, aby
+         zvedel, kedy dostane Pták peniaze. Mal da správu Melíškovi, kedy som peniaze zaplatil, aby
+         som sa mohol objavi u Ptáka s exekútorom.
+   </p>
+   <p>
+    Bolo to na neuverenie.
+   </p>
+   <p>
+    Ako svedkovia boli ešte predvolaní pani Postrèková a majite¾ domu Oèenášek. Prišiel iba
+         Oèenášek.
+   </p>
+   <p>
+    Boli sme vypoèutí. Predseda súdu mienil, že akiste patríme medzi Ptákových bývalých
+         obchodných priate¾ov, ale že sme sa s ním pre nieèo rozkmotrili a preto vlákali sme ho
+         rafinovaným spôsobom do pasce: bytovej úžery.
+   </p>
+   <p>
+    Advokát Ptáka a spoloèníkov zažiaril radosou. Nasledovala malá prestávka. Súd sa
+         utiahol na krátku poradu, ktorej výsledok bol, že štátny zástupca rozprestiera žalobu i na
+         nás.
+   </p>
+   <p>
+    Jarmila skoro omdlela, keï nám to úradne zvestovali.
+   </p>
+   <p>
+    Súèasne bolo pojednávanie na 14 dní odroèené a Pták pustený na slobodu, lebo vraj niet
+         obavy, že by utiekol, keï že má na Vinohradoch poschodový dom.
+   </p>
+   <p>
+    Moser a Melíšek zúrili na chodbe, že neboli z obžaloby vypustení. Nebudú vraj šanova
+         nikoho, ale rozbijú hoci celú republiku.
+   </p>
+   <p>
+    — Èo je mòa po štáte! — reval Moser. — Ja som invalíd a mám sa vláèi po súdoch pre
+         takého žobráka, èo mu je to moc da za byt 6500 korún, za byt, èo by iní dali zaò vïaène aj
+         45 tisíc! Už som musel da advokátovi 250 korún ako splátku na trovy. A ko¾ko ma bude stá
+         ešte druhé pojednávanie! Ale ja to všetko rozmlátim! Ak som bol do týchto èias
+         republikánom, budem odteraz bo¾ševíkom!
+   </p>
+   <p>
+    Zo súdnej budovy som šiel rovno na bytový úrad. Èo je s Ptákovým bytom?
+   </p>
+   <p>
+    Zostane vraj Ptákovi. Nieto príèiny, aby sa mu bral.
+   </p>
+   <p>
+    — A èo proces pre úžeru?
+   </p>
+   <p>
+    — To nemá s otázkou bytu èo robi.
+   </p>
+   <p>
+    — Tak mi nepridelíte byt, ktorý som si tak krvopotne zaslúžil? Kto vám vystrnadil z neho
+         Ptáka, ak nie ja?!
+   </p>
+   <p>
+    — ¼utujeme, ale žiadny byt pre vás nemáme.
+   </p>
+   <p>
+    — Ale pokútne vinárne, ¾ahké dievèatá, podvodníkov, úžerníkov a s bytovou úžerou v Prahe
+         trpíte!
+   </p>
+   <p>
+    — Dajte si pozor na papu¾u, lebo sa vám môže ujs pár faciek a vyhadzov!
+   </p>
+   <p>
+    — Ba vy si dajte pozor na svoj úrad, aby ste nevyžierali darmo republiku!
+   </p>
+   <p>
+    — Opakujte to, darebáku!
+   </p>
+   <p>
+    — Nevyžierajte darmo republiku, vy holomku! — krièal som skoro bez seba od rozèulenia.
+   </p>
+   <p>
+    Zo súsedných miestností sa sbiehali úradníci a úradnice. — Pánovia, ste svedkami! — trel
+         si ruku dlhý mladý úradník s naježenými vlasmi.
+   </p>
+   <p>
+    — Zisti totožnos! — ozývalo sa súèasne z nieko¾kých hrdiel.
+   </p>
+   <p>
+    — Som Alois Zajíèek, úradník filiálky Brnenskej banky.
+   </p>
+   <p>
+    — Máte legimitáciu?
+   </p>
+   <p>
+    Vytiahol som ju a ukázal.
+   </p>
+   <p>
+    — Ten špás vám príde draho!
+   </p>
+   <p>
+    — Vám tiež — odsekol som zlostne, odchádzajúc.
+   </p>
+   <p>
+    Nasledovaly pre nás súdne dni. O pár dní som dostal predvolanie ako obžalovaný v
+         záležitosti Krautmannovej. Èert mi pošepkal, aby som sa s ním súdil. Mohol som mu radšej
+         zaplati tých 140 korún.
+   </p>
+   <p>
+    — Èo vari si prehral?
+   </p>
+   <p>
+    — Nie, vyhral som, ale mal som z toho iba škodu. Proces sa ahal 5 mesiacov. Vyhral som
+         ho. Ale keï prišlo plati súdobné trovy a advokátske expens — nóty, ukázalo sa, že ku
+         Krautmannovi sa nedá pristúpi. Bol odrazu bez majetku, bez zamestnania — konèil bankový
+         úradník Zajíèek sylvestrovské vypravovanie najzaujímavejšieho príbehu svojho života.
+   </p>
+   <p>
+    V sylvestrovskej spoloènosti ozývaly sa výkriky úžasu: — To je hrozné! Nie, to je
+         nemožné! To ste si naposledy zaplatili svojho advokáta sám?!
+   </p>
+   <p>
+    — Prirodzene. A trvalo to dos dlho, kým som ho uprosil, aby sa uspokojil so 750
+         korunami.
+   </p>
+   <p>
+    — A èo bolo s Ptákom?
+   </p>
+   <p>
+    — Ani sa radšej nespytujte. Nešastie nechodí samo. Po prvom nezdare nasledoval druhý,
+         tretí. Trvalo to celých 11 mesiacov, kým došlo k výroku. Jedno pojednávanie bolo zmarené
+         tým, že sa nedostavil k nemu majite¾ domu Oèenášek a Moser, ktorý práve vtedy nastupoval
+         nové miesto v Bratislave. Potom mi ve¾mi škodilo, že som nestál pred súdom, ako netrestaný.
+   </p>
+   <p>
+    — Ako to?! Veï v záležitosti Krautmannovej ste boli oslobodený?
+   </p>
+   <p>
+    — Ale vo veci bytového úradu nie. Bol som posúdený pre urážku úradu a úradnej osoby na
+         podmieneèných 14 dní väzenia a 300 korún pokuty.
+   </p>
+   <p>
+    — A èo s tým Ptákom?
+   </p>
+   <p>
+    — Bol som vzatý do vyšetrovacieho väzenia ako podozrivý, že sa zúèastòujem úžerníckych
+         obchodov s bytmi. Trvalo to 22 dní, kým ma prepustili. Schudol som, bielizeò som si nemohol
+         meni, zavšivavel som.
+   </p>
+   <p>
+    — A rozsudok?
+   </p>
+   <p>
+    — Dva mesiace a 1000 korún pokuty. Súdobných a advokátskych trov pripadlo na mòa asi
+         1200 korún. Milada mi ochorela od rozèulenia. Tes sa ma skoro chcel zriec. Nie a nie
+         uveri, že som prišiel do toho nevinne.
+   </p>
+   <p>
+    — Strašné! Veï je to skoro nemožné!
+   </p>
+   <p>
+    — Nielen to, ale i podmieneèný výrok v záležitosti bytového úradu stal sa mojím novým
+         odsúdením tiež právoplatným. Ale to nebolo všetko: banka ma vypovedala, nemohla predsa
+         trpie u seba trestané individium. Milade som sa s tým sveril, až keï jej bolo lepšie.
+   </p>
+   <p>
+    — Dúfam, že nebanuješ, že si prišiel o miesto? — poznamenal som obrátený k priate¾ovi.
+   </p>
+   <p>
+    — Naskrze nie. Obchod s uhlím je naskrze nie najhorší gšeft. Neviem, èi by som dnes
+         èaral s prvým prokuristom svojej bývalej banky. A èo sa týka bytovej krízy, teraz, keï tak
+         pekne bývame v päizbovom byte pri samej „Stromovke“, zdá sa mi, že útrapy s bytom pred
+         rokmi, že je to iba — pohádka — konèil priate¾ Zajíèek veselo.
+   </p>
+   <p>
+    Všetci sme boli jednej mienky, že priate¾ Zajíèek rozpovedal toho Sylvestra
+         najzaujímavejšiu príhodu.
+   </p>
+   <p>
+   </p>
+  </body>
+ </tei:text>
+</tei:TEI>

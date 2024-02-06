@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012943" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     V cudzine : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:42640171">
+     Maršall-Petrvoský, Gustáv (1862-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     2878
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:42640171">
+      Maršall-Petrvoský, Gustáv (1862-1916)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      V cudzine
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     V CUDZINE
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Konečne nemohlo sa ani povedať, že by bol pekný býval, vzdor tomu ale
+          všeobecne páčil sa.
+    </tei:p>
+    <tei:p>
+     Pod kaderavými, belavými vlasmi klenulo sa významné čelo, obrvy
+          tmavej farby krúžili prižmúrené jasnomodré oči, orlí nos, úzke pery,
+          malá kučeravá brada, štíhla postava, útle formy bielych rúk a nôh - to
+          asi obraz jeho. Istotne rieknete: to žena! A máte sčiastky pravdu.
+    </tei:p>
+    <tei:p>
+     Pavel Lietavský nemal vo svojom zovňajšku nič rázneho, nič muž-
+          ského. Úprimne priznajúc, nedobrý dojem urobil na mňa, keď mi ho
+          predstavili. Nerád vidím muža Slováka vo šviháckom odeve.
+    </tei:p>
+    <tei:p>
+     Obe ruky podával mi, keď počul moje meno. Večné vrásky na čele
+          zmizli, prižmúrené mihalnice šibli nahor, odcloniac krásne, hlboké oči.
+    </tei:p>
+    <tei:p>
+     Vítam vás medzi nami. Mnoho pekného som o vás počul, teším sa
+          vašej známosti,“ riekol hlbokým basom.
+    </tei:p>
+    <tei:p>
+     Vrátil som mu poklonu.
+    </tei:p>
+    <tei:p>
+     Domnelý švihák trpko odpovedal.
+    </tei:p>
+    <tei:p>
+     „Nebárs pestujem frazeológiu. Môžete byť presvedčený, že vyrazil
+          som len svoje city.“
+    </tei:p>
+    <tei:p>
+     Zadivene obzrel som muža. Oči mu boli zas sklopené a vráska špatila
+          čelo.
+    </tei:p>
+    <tei:p>
+     Druhý deň videl som ho na ulici. Šiel ľahkým krokom, klobúk do
+          čela vtisnutý, no po očiach bolo mu vidieť, že i vráska na čele ide s ním.
+          Poklonil som sa mu.
+     <tei:pb/>
+     Maliar nedokáže na plátne vyviesť tú premenu, ktorá sa s ním v oka-
+          mihu stala. Prívetivejšej, milšej tváre snáď niet, ako jeho bola, keď
+          usmievavo tiskal mi pravicu. Jeho modré oči boli takým naivným vý-
+          razom radosti uprené na mňa, ako oči žiačika na zbožňovaného učiteľa.
+          Ako tie nevinné oči ozaj vyzerajú, keď plameň hnevu v nich blčí?
+    </tei:p>
+    <tei:p>
+     Spoločnosť, do ktorej som spolu s Lietavským chodieval, tvorili samí
+          Slaviani. Väčšinu zastupovala študujúca mládež, bolo ale i mnoho dip-
+          lomovaných mužov.
+    </tei:p>
+    <tei:p>
+     Lietavský patril medzi najmladších, práve preto divil som tomu, žeon
+          vedie v celej spoločnosti prvé slovo. Konečne by som tomu bol porozu-
+          mel, keby som u Lietavského len kus energie bol zbadal: ale nič! Nuž ale
+          prišiel som i na to.
+    </tei:p>
+    <tei:p>
+     Keď mu X. protirečil v dákej zásadnej otázke, vstal, poprechodil sa
+          po izbe a sadol si k nemu. Uprel naňho svoje jasné oči a podávajúc mu.
+          ruku odvetil:
+    </tei:p>
+    <tei:p>
+     „Máte pravdu, brat môj! Mienil som to len preto tak, lebo vidíte...“
+          a potom odôvodnil svoje stanovisko.
+    </tei:p>
+    <tei:p>
+     A to vám môžem riecť, že také vyrazenie myšlienok, takej dialekti-
+          ky treba hľadať, akou on svoje názory zastával. X. sa hniezdil, odbíjal
+          nápady, lenže vždy a vždy slabšie, konečne uznal, že sa mýlil a že pán
+          Lietavský má úplnú pravdu.
+    </tei:p>
+    <tei:p>
+     Bol som mnoho ráz svedkom podobných výjavov, no nikdy nevidel
+          som Lietavského náruživo hovoriť. V zvlnenom hlase bolo mu badať
+          oduševnenosť, ba i fanatickosť, no tvár vždy tá istá: alebo usmievavá,
+          alebo chladná, zachmúrená.
+    </tei:p>
+    <tei:p>
+     Jasná vec, že našli sa v spoločnosti ľudia, ktorým nepozdávalo sa toto
+          panovanie: mali veľkú chuť pretrhnúť tento pomer.
+    </tei:p>
+    <tei:p>
+     Medzi týmito bol mladý Srb, Begovič. Bol to muž bujnej krvi. Vy-
+          hnaný pre agitácie z územia svojej vlasti, upadol do apatie voči cieľu,
+          ktorému sa bol posvätil a až dosiaľ dosiahnuť nemohol.
+    </tei:p>
+    <tei:p>
+     Raz, rozladený týmito myšlienkami, dal pred Lietavským výrazu svo-
+          jej chorobe.
+    </tei:p>
+    <tei:p>
+     „Hlavný cieľ života je šťastie. Načo teda zháňať sa po ideách, ktoré
+          nám - keďže ich uskutočniť nemôžeme - len trpkou robia prítomnosť.“
+    </tei:p>
+    <tei:p>
+     Celá spoločnosť zdesene pozrela na mladého.
+     <tei:pb/>
+     Lietavský pokojne riekol:
+    </tei:p>
+    <tei:p>
+     „Viem, že sám neveríte tomu, čo ste povedali. Ináč by som vás musel
+          ľutovať.“
+    </tei:p>
+    <tei:p>
+     To bol olej na tlmený hnev nerozvažitého Srba.
+    </tei:p>
+    <tei:p>
+     Spoločnosť tťpla, keď po hnusnej kliatbe drzo pýtal sa Lietavského:
+    </tei:p>
+    <tei:p>
+     „Čo vás do mojich citov? Kto dáva vám právo mňa ľutovať alebo mne
+          závidieť? A potom, čo si vy o sebe myslíte?“ a zhola nadával Lietavské-
+          mu.
+    </tei:p>
+    <tei:p>
+     Lietavský stál vedľa neho. Pokojne vypočúval nápadníka, len tu i tu
+          zablysli sa jeho oči. Potom chytil rameno udatného Srba a tichým hla-
+          som riekol:
+    </tei:p>
+    <tei:p>
+     „Na základe humanizmu mám právo ľutovať človeka, ktorý svoju ma-
+          ter gazí. Čo sa druhých vašich zádrapiek týka, počujte: poznám žriedlo,
+          príčinu vašej letargie a pripisujem i tie len tej istej chorobe. Vám odpúš-
+          ťam - druhému by lebku rozštiepil. Ste spokojný?“ pýtal sa chripľavým
+          hlasom.
+    </tei:p>
+    <tei:p>
+     Vtedy som po prvý raz videl v hneve Lietavského. Tvár mu bola hlad-
+          ká, len na vyvalených očiach bolo vidieť, že je rozčúlený.
+    </tei:p>
+    <tei:p>
+     Pozrel som na Begoviča. Jeho počernou tvárou preletel ťah telesné-
+          ho bôľu pri posledných slovách. Chcel pohnúť pravicu, no tá bola ako.
+          v kliešťach. Domnelý švihák mal železné prsty!
+    </tei:p>
+    <tei:p>
+     „Ste spokojný, pýtam sa vás, že ste mi beztrestne nagrobianiť mohli?“
+          pridusene hovoril Lietavský.
+    </tei:p>
+    <tei:p>
+     „Odpusťte, brat!“ riekol zahanbený.
+    </tei:p>
+    <tei:p>
+     „Vďačne!“ odvetil dobrodušne Lietavský, pustiac mu rameno, podal
+          mu ruku. „Poznám vás, ste statný muž.“
+    </tei:p>
+    <tei:p>
+     A protivníci štrngli si čašami.
+    </tei:p>
+    <tei:p>
+     O chvíľu nebolo žiadnej napnutosti: bavili sme sa výborne až po oby-
+          čajný čas.
+    </tei:p>
+    <tei:p>
+     Druhý deň ráno našiel som Begoviča v priateľskom rozhovore s dok-
+          torom Lietavským.
+    </tei:p>
+    <tei:p>
+     „Ten človek musí mať magnet,“ myslel som si a nezbadal som, že ten
+          magnet ťahal i mňa k nemu.
+     <tei:pb/>
+     11.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Bránou nemocnice profesora N., chýrnej kapacity prsných chorôb, vstú-
+          pila mladá dáma.
+    </tei:p>
+    <tei:p>
+     Vrátnik nemocnice vytiahol hodinky z vrecka, mrzuto riekol:
+    </tei:p>
+    <tei:p>
+     „Zase tak včas, slečna! Vravel som vám, že nesmiem návštevy k cho-
+          rým pred štvrtou púšťať. Včera som vás ešte len mohol hore pustiť, dnes
+          mi je to ale zhola nemožné.“
+    </tei:p>
+    <tei:p>
+     »„Dočkám teda,“ riekla pokorne deva.
+    </tei:p>
+    <tei:p>
+     V studených chodbách nemocnice istotne málokedy bolo vídať po-
+          dobný zjav. Bola krásna.
+    </tei:p>
+    <tei:p>
+     Deva očividne rozčúlene čakala na štvrtú hodinu. Nie div, veď hore
+          leží jej matka už od piatich dní vsmrteľnom zápase.
+    </tei:p>
+    <tei:p>
+     „Môžete už, slečna!“ preriekol vrátnik.
+    </tei:p>
+    <tei:p>
+     Deva sa rýchlo zobrala a pružným krokom stúpala hore schodmi.
+    </tei:p>
+    <tei:p>
+     Práve chcela dvere matkinej izby otvoriť, keď z nich vystúpil pán vy-
+          sokej postavy. Bol to prvý pomocný lekár profesora N.
+    </tei:p>
+    <tei:p>
+     „Postojte, slečna!“ povedal deve a zastal jej cestu svojím širokým mo-
+          hutným telom.
+    </tei:p>
+    <tei:p>
+     „Pán sekundár, majte zmilovanie,“ riekla úzkostlivo deva.
+    </tei:p>
+    <tei:p>
+     „Bah,“ odvetil cynickým hlasom, „včera ste mi ušli, dnes nemožno.
+          Konečne jeden bozk vám nezaškodí a matke si už i tak nepomôžete.
+          Rýchlo teda!“
+    </tei:p>
+    <tei:p>
+     Stým objal panenský driek a náruživo celoval jej odhalenú tvár.
+    </tei:p>
+    <tei:p>
+     Mladé dievča následkom hrubého zachádzania, ako i následkom
+          bôľu, že pre milenú matku nieto už pomoci, úzkostne vykríklo a napoly
+          zamdlené ovislo v rukách brutálneho človeka.
+    </tei:p>
+    <tei:p>
+     Z protivných dvier vystúpil na krik druhý pomocný lekár, doktor Lie-
+          tavský.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Čo sa stalo, pán kolega?“ pýtal sa, zarazený videným výjavom.
+    </tei:p>
+    <tei:p>
+     „Čo si prsty pcháte do toho, čo sa vás netýka,“ sekundár dudral je-
+          dovito.
+    </tei:p>
+    <tei:p>
+     „Čo vám je, slečna!“ pýtal sa devy.
+    </tei:p>
+    <tei:p>
+     „Tento pán je ničomník,“ štkala ona. „Prenasleduje ma a tamdnu leží
+          mi matka na smrť chorá. Pomôžte mi, prosím vás!“
+    </tei:p>
+    <tei:p>
+     te
+     <tei:pb/>
+     „Odstúpte!“ zahrmel Lietavský.
+    </tei:p>
+    <tei:p>
+     Vyslúžený Buschenkônig postavil sa k Lietavskému.
+    </tei:p>
+    <tei:p>
+     „Ha, ha! Aký rytier, tento pán Lietavský,“ hovoril úsečne.
+    </tei:p>
+    <tei:p>
+     Slečna ešte nezavrela dvere za sebou, už padol ťažký úder na tvár su-
+          rovcovu.
+    </tei:p>
+    <tei:p>
+     Prúd krvi vyvalil sa mu z úst, on ale zatočil sa k stene.
+    </tei:p>
+    <tei:p>
+     Lietavský zacengal, prišla sestra.
+    </tei:p>
+    <tei:p>
+     „Der Herr Secundararzt hat Blutsturz, bringen Sie Wasser.“
+    </tei:p>
+    <tei:p>
+     S tým šiel preč.
+    </tei:p>
+    <tei:p>
+     Devuška-sirota kľačala pri studenom tele.
+    </tei:p>
+    <tei:p>
+     Lietav: ško vstúpil a sadol si na stoličku. Nechcel rušiť posvätný
+          smútok devy.
+    </tei:p>
+    <tei:p>
+     „Oj, mati moja draga, Šta iz mene...“ nahlas zaplakala deva a kčovite
+          objala mýtvu matku.
+    </tei:p>
+    <tei:p>
+     Zvonku zaklopali na dvere. Deva sa ohliadla a uvidiac Lietavského,
+          pristúpila k nemu a s vďakou mu podala mu ruku.
+    </tei:p>
+    <tei:p>
+     „Ďakujem, no vidíte, mýtvu som ju našla,“ šeptala.
+    </tei:p>
+    <tei:p>
+     Vstúpili dvaja páni. Predstavili sa Lietavskému čo poslovia urazeného
+          sekundára.
+    </tei:p>
+    <tei:p>
+     Lietavský im nedal dohovoriť.
+    </tei:p>
+    <tei:p>
+     „Na všetko pristávam, páni. Ráno o siedmej v d...ej hore,“ odsekol
+          a uhol sa im.
+    </tei:p>
+    <tei:p>
+     Páni sa odporúčali.
+    </tei:p>
+    <tei:p>
+     Deva menovala sa Zorica Jelčičová. Pretože sa matkina choroba
+          vzmáhala, presťahovala sa sem z dolných Uhier. Za istý čas chodil pro-
+          fesor N. k nim do bytu, potom ale, keď nemocná matka skoro ustavične
+          lekársku pomoc potrebovala, preniesli ju sem.
+    </tei:p>
+    <tei:p>
+     „Žiadate snáďnickomu telegrafovať smutnú udalosť?“ pýtal sa Lietavský.
+    </tei:p>
+    <tei:p>
+     Zorka triasla hlavou.
+    </tei:p>
+    <tei:p>
+     „Nie“ odpovedala smutne. „Nemám nikoho. Otec ešte za mladi prišiel
+          do Uhier: neboli sme v žiadnom styku s rodinou v Srbsku. Som úplná
+          sirota: ani len známych nemám, pretože som len pred polrokom z ústavu
+          vyšla,“ lámala zlou nemčinou.
+    </tei:p>
+    <tei:p>
+     „Neviem, či neublížim vám, keď ponúknem vám svoju pomoc?“ pre-
+          riekol Lietavský ľúbozvučnou srbčinou.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Zorka zadivene pozrela na mladého doktora a podala mu ruku.
+          Zišli dolu. Lietavský zavolal koč, sadli dnu a šli do Zorkinho bytu.
+          Zorka sa dívala von oknom. Zrazu sa striasla, ako keď človeka vodou
+    </tei:p>
+    <tei:p>
+     oblejú.
+    </tei:p>
+    <tei:p>
+     „Ak vás ten zajtra zabije?“ prehovorila tlmene. „A to všetko pre mňa!“
+    </tei:p>
+    <tei:p>
+     „Chyba väzí v ňom a nie vo vás. Ostatne o mňa sa nebojte, slečna,“
+          odpovedal Lietavský.
+    </tei:p>
+    <tei:p>
+     Zorka sa nazdala, že je súboj ozaj súd boží, zato zadivene pozrela na
+          Lietavského takou určitosťou hovoriaceho.
+    </tei:p>
+    <tei:p>
+     A tak sa stalo.
+    </tei:p>
+    <tei:p>
+     Sekundár si síce počas celého súboja strojil seknúť Lietavského, no
+          pretože sa bili na tri rany a pretože všetky on dostal, ponechal si to na
+          lepšiu budúcnosť.
+    </tei:p>
+    <tei:p>
+     Jelčičkinu mftvolu dal Lietavský na jej priestranný, pekný byt preniesť
+          a obstaral pohreb.
+    </tei:p>
+    <tei:p>
+     Najväčšej starosti mu zapríčinila Zorkina budúcnosť.
+    </tei:p>
+    <tei:p>
+     Ako jej domácnosť zariadiť: Sama predsa nemôže bývať!
+    </tei:p>
+    <tei:p>
+     Konečne našiel i tomu spôsob.
+    </tei:p>
+    <tei:p>
+     V nemocnici profesora N. zastávala miesto dozorkyne nad kuchyňou
+          a vychovávateľkami pani Závodová.
+    </tei:p>
+    <tei:p>
+     Bola to pani vzdelaná a dobrého slovenského srdca. Lietavský žil s ňou
+          vdobrom pomere. Stará pani sa vždy tešila, keď mohla sa dakedy „vyra-
+          ziť“ z tej nemčiny a pobesedovať si s ním po slovensky.
+    </tei:p>
+    <tei:p>
+     Na túto myslel Lietavský. Šiel k nej.
+    </tei:p>
+    <tei:p>
+     „Ale ste mu zasvietili, holúbok môj, pán doktor!“ vítala ho so smie-
+          chom matróna. „Drží si ruku v ručníku na prsiach a tvár má takú krot-
+          kú!“
+    </tei:p>
+    <tei:p>
+     „Mám o vážnych veciach hovoriť. Chcem vás totiž prosiť, aby ste
+          hneď zajtra zanechali nemocnicu a inam sa presídlili,“ pretrhol starenu.
+    </tei:p>
+    <tei:p>
+     Lietavský jej rozpovedal postavenie Zoricino a stará, dobrodušná
+          pani rovno šla k profesorovi a oznámila mu, že sa zajtra navždy vzdiali
+          z nemocnice.
+    </tei:p>
+    <tei:p>
+     Profesor prehováral, plat povyšoval, prosil - no márne bolo všetko.
+          Závodová už v deň pohrebu prejala úlohu matky po boku Zorice.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Bolo predvečer Všechsvätých. Práve rok minul, čo Zorka stratila matku.
+          Na elegantnej pohovke sedeli Zorka a Závodová. Obe boli ručnou
+    </tei:p>
+    <tei:p>
+     prácou zaneprázdnené.
+    </tei:p>
+    <tei:p>
+     „Ale povedz mi, ňanička, čo sa stalo s Lietavským?“ pýtala sa Zorka
+          dlho akcentovanou slovenčinou.
+    </tei:p>
+    <tei:p>
+     „Prečo?“
+    </tei:p>
+    <tei:p>
+     „Prečo?! Ako by si i sama nevidela premenu. Predtým nebolo dňa,
+          žeby nebol prišiel a až kypel veselosťou. A teraz? Príde každý tretí, štvrtý
+          deň ai vtedy je zachmúrený, málovravný!“
+    </tei:p>
+    <tei:p>
+     „Príčina jeho premeny väzí snáď v tebe, dušička. Alebo snáď len zato
+          zdá sa ti on teraz smutným, pretože si ty už veselšia.“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Ó, nie, on sa premenil,“ odpovedala deva, zahľadiac sa do lampy.
+    </tei:p>
+    <tei:p>
+     „Ňanička, ako si to rozumela, že príčina jeho premeny väzí snáď vo
+          mne?“
+    </tei:p>
+    <tei:p>
+     „Nuž jednoducho. Myslím, že Lietavský zato bol predtým veselý, pre-
+          tože si ty bola smutná, a že je zato neveselý teraz, pretože ťa už nepotre-
+          buje obveseľovať!“
+    </tei:p>
+    <tei:p>
+     Zaklopali na dvere. Deva pružne vyskočila a s rimennou tvárou ví-
+          tala príchodiacich.
+    </tei:p>
+    <tei:p>
+     Dverami vošiel sluha s košom v ruke a za ním Lietavský.
+    </tei:p>
+    <tei:p>
+     Sluha postaviac kôš na stoličku, vzdialil sa.
+    </tei:p>
+    <tei:p>
+     Lietavský podal ruku dámam.
+    </tei:p>
+    <tei:p>
+     „Doniesol som k zajtrajšku kvety, aby ste veniec mohli uviť, slečinka.“
+    </tei:p>
+    <tei:p>
+     Zorka povyberala kvety do lona a počala viť veniec pre matkin hrob.
+    </tei:p>
+    <tei:p>
+     Závodová vyšla čaj rozkázať.
+    </tei:p>
+    <tei:p>
+     Pod dojmami rozpomienok smutného dňa zamyslene sedeli vedľa seba.
+    </tei:p>
+    <tei:p>
+     Zrazu schytila Zorka ruku svojho ochrancu.
+    </tei:p>
+    <tei:p>
+     Lietavského tvárou preletel mrak. Zdalo sa mu to pridôverným.
+    </tei:p>
+    <tei:p>
+     „Nehnevajte sa, prosím vás,“ prosila so slzou vďaky v krásnom oku
+          mladá deva. „Vidíte nemohla som sa zdržať, veď nemám ani len jedinej
+          milej rozpomienky, čo nebola by k vám pútaná. Či to, či ono, všade tenistý
+          človekv podobe silného ochrancu, nežného priateľa a trpezlivého učiteľa.
+          A ja nemám sily, nemám príležitosti vám dáku obeť doniesť. Odpusťte!“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Mladý doktor sa zohol, ako keď starca lámka napadne. Vráska na čele
+          vzrastala a pery sa mu chveli, keď chripľavým hlasom odpoved:
+    </tei:p>
+    <tei:p>
+     „Ja nezaslúžim vašu vďaku. Čierna sebeckosť bola žriedlom všetkých
+          tých skutkov, čo vám milé boli. Kto vám padnutú šatku zdvihol - zaslúžil
+          vďaku, lebo urobil ten skutok bez nárokov na odmenu. Ja ale ináč som.
+          konal - sebcom nie je vďaka plácou.“
+    </tei:p>
+    <tei:p>
+     Jeho hlas znel tupo, cynicky. Zorka zdesene, nemo hľadela naňho -
+          a za ním, keď vzal si klobúk a bez slova vyrútil sa von z izby.
+    </tei:p>
+    <tei:p>
+     Potom sa hodila na pohovku a skľúčene zaplakala.
+    </tei:p>
+    <tei:p>
+     Závodová ju tak našla.
+    </tei:p>
+    <tei:p>
+     „Holubica moja, duša zlatá, čože ti je?“ maznala sa nastráchaná starká.
+    </tei:p>
+    <tei:p>
+     Zorka bez slova objala materskú priateľku.
+    </tei:p>
+    <tei:p>
+     O chvíľu si sadla. Uslzené, krásne oči ligotali sa ani briliantové prizmy
+          v lúčoch lampy. A ako keď počas dažďa zasvieti slniečko, zrazu usmiala
+    </tei:p>
+    <tei:p>
+     jej uplakaná tvár.
+    </tei:p>
+    <tei:p>
+     „Nšakže, ňanička, čo je to sebeckosť?“
+    </tei:p>
+    <tei:p>
+     Stará pani div že neklesla od prekvapenia. Po takom výjave - takáto
+          otázka!
+    </tei:p>
+    <tei:p>
+     Chcela odpovedať, Zorka ju však pretrhla.
+    </tei:p>
+    <tei:p>
+     „Čo je najväčšia sebeckosť?“
+    </tei:p>
+    <tei:p>
+     „Neviem!“ odpovedala lakonicky Závodová.
+    </tei:p>
+    <tei:p>
+     „Ale všakže je láska sebecká?“
+    </tei:p>
+    <tei:p>
+     Starká urobila sprostú tvár ku skoku myšlienok. A Závodová darmo
+          pýtala sa na príčinu vrtkavých premien: Zorka sa rozveselila - odvety na
+          otázku však nedala. Onedlho odskočila do svojej izbietky. Tam dmúcou.
+          sa hruďou, s blaženou tvárou šeptala:
+    </tei:p>
+    <tei:p>
+     „Šťastná som, Otče môj, vďaka Ti, že dal si mi to dožiť!“
+    </tei:p>
+    <tei:p>
+     A príjemná, hoci bezsenná noc to bola pre krásnu Zoricu.
+    </tei:p>
+    <tei:p>
+     "Tým krušnejšia bola pre Lietavského.
+    </tei:p>
+    <tei:p>
+     Dušou i telom silný muž chradol, rovnováhu tratil od istého času.
+    </tei:p>
+    <tei:p>
+     Nezištne, bez všetkých zadných myšlienok zaujal sa brutalitou na-
+          padnutej devy. Opustenú, osirelú zaopatril vernou priateľkou. A teraz
+          videl, žeiné city ovládli jeho dušou.
+    </tei:p>
+    <tei:p>
+     Druhý deň musel sa Lietavský cieľom zastupovania jedného kolegu
+          na týždeň z V...e vzdialiť.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Vtedy zbadal dôkladne premenu, ktorá sa s ním stala. Ešte cez deň,
+          keď itak bol zamestnaný, necítil clivosť, no večer, vo zvyknutý čas jeho
+          návštev, popadla ho ťažká túha za čiernookou žiačkou-sirotou. Sprvu
+          myslel, že to len zvyk: rýchlo sa ale presvedčil, že srdce omnoho silnejšie
+          bije, akoby srdce učiteľa bárs i za milým žiačikom biť malo.
+    </tei:p>
+    <tei:p>
+     Svitlo mu: on zaľúbil sa do peknej Srbky.
+    </tei:p>
+    <tei:p>
+     Cítil sa zníženým.
+    </tei:p>
+    <tei:p>
+     „Aký to humanista - héros! Doseká kolegu, natisne svoju osobu bied-
+          nej sirote, a prečo?“
+    </tei:p>
+    <tei:p>
+     Preto, aby ju sebe zachrániť mohol!
+    </tei:p>
+    <tei:p>
+     A jeho ideál musí i jeho materinským jazykom hovoriť, aby pekne
+          vynímali sa tóny onedlho improvizovať sa majúceho vyznania lásky.
+    </tei:p>
+    <tei:p>
+     Posvätné city ako vďaka, oddanosť vyvolať v duši zachránenej, aby
+          neskúsená tým driev padla do siete.
+    </tei:p>
+    <tei:p>
+     Nuž len napred! Veď ak ťa tá deva i neľúbi, predsa neopovrhne tvo-
+          jou prosbou, lebo znal si si ju dobrým zväzkom pripútať: okrášlil, snáď
+          zachránil si jej život, a ona je tá, ktorej prv srdce pukne, akoby ti zaprela.
+          tvoju prvú žiadosť.
+    </tei:p>
+    <tei:p>
+     „Len ta teda...“
+    </tei:p>
+    <tei:p>
+     Krásna ideálna bytosť Lietavského zvíjala sa pod morálnymi bolesťami.
+    </tei:p>
+    <tei:p>
+     V protive bol so sebou. Nesmel pokračovať a upustiť zdalo sa mu ne-
+          možným.
+    </tei:p>
+    <tei:p>
+     Bledý, umorený, však čo víťaz vrátil sa k Zorici.
+    </tei:p>
+    <tei:p>
+     Správal sa k nej i teraz priateľsky, dobrosrdečne, ale iskrenná úprim-
+          nosť, veselosť — prešli.
+    </tei:p>
+    <tei:p>
+     A Zorica bola zas od toho času, čo povedala „Viem - rozumiem už,“
+          vždy veselšia.
+    </tei:p>
+    <tei:p>
+     Keď za dva, za tri dni neprišiel, vyhadzovala mu to práve na oči.
+    </tei:p>
+    <tei:p>
+     „Prečo sa hnevá môj láskavý priateľ na Zoricu?“ pýtala sa ho viac ráz
+          smutne.
+    </tei:p>
+    <tei:p>
+     A on sa až zvíjal od bolesti: preto ale pridížal sa voči nej salónnych,
+          chladných zvykov.
+    </tei:p>
+    <tei:p>
+     „Čo ste plakali?“ pýtal sa jej raz.
+    </tei:p>
+    <tei:p>
+     „Pravda, keď ma už len každý piaty deň navštívite, a i vtedy len z nut-
+          nosti,“ odpovedala uslzená.
+     <tei:pb/>
+     Výstup posledného dňa ho skoro o rozum doniesol. Zutekal, lebo bál
+          sa, že vôľa podľahne srdcu.
+    </tei:p>
+    <tei:p>
+     Nevyspatý, bledý, ale s pevným predsavzatím, že dnes koniec urobí
+          boju, prišiel Lietavský na koči pre dámy. Mali ísť spolu na hrobitov.
+    </tei:p>
+    <tei:p>
+     Zorica letela mu oproti a chytila mu obe ruky.
+    </tei:p>
+    <tei:p>
+     „Odpusťte mi: viete, že nemohlo mi byť cieľom ublížiť vám,“ riekla
+          ticho.
+    </tei:p>
+    <tei:p>
+     „Ja vás prosím o odpustenie: špatne som sa choval voči vám,“ odpo-
+          vedal pokojne Lietavský.
+    </tei:p>
+    <tei:p>
+     „Dobrý ste ako anjel.“ šeptala Zora, vrelo mu tisnúc ruky.
+    </tei:p>
+    <tei:p>
+     Lietavský sa trpko usmial a i on sadol si do koča.
+    </tei:p>
+    <tei:p>
+     riasol sa pred lúčivým okamihom. Prišiel ale i ten.
+    </tei:p>
+    <tei:p>
+     Vrátili sa z hrobitova a sedeli v chyži.
+    </tei:p>
+    <tei:p>
+     „Pre smutné rozpomienky skoro zabudol som vám oznámiť trúchlu
+          pre mňa zvesť, ktorú som dnes dostal,“ počal trasľavým hlasom.
+    </tei:p>
+    <tei:p>
+     Dámy sa preľaknuté dívali naňho.
+    </tei:p>
+    <tei:p>
+     „X týchto dňoch vyvolili ma za lekára v rodnom mestečku a otec star-
+          ký žiada, aby som prijal postavenie a čím skôr sa na cestu dal. Nemôžem.
+          mu odolať - právo má na mňa.“
+    </tei:p>
+    <tei:p>
+     Zorka obledla ako stena: z očú jej vyhíkli slzy.
+    </tei:p>
+    <tei:p>
+     Lietavský s bledou tvárou pokračoval.
+    </tei:p>
+    <tei:p>
+     „Môžete si predstaviť, ako ma bolí, že sa s vami lúčiť mám..
+    </tei:p>
+    <tei:p>
+     „Čo z vás bude?“ šeptala zvlneným hlasom Zorka. „Vidíte,
+          vám hovorila, že by som vám akúkoľvek obeť doniesla: na takúto som ale
+          nebola prichystaná. Nedá sa na tom zmeniť?“
+    </tei:p>
+    <tei:p>
+     Lietavský potriasol hlavou:
+    </tei:p>
+    <tei:p>
+     „A kedy pôjdete?“
+    </tei:p>
+    <tei:p>
+     „Zajtra.“
+    </tei:p>
+    <tei:p>
+     »A ak sa schystám, vezmete ma so sebou?“
+    </tei:p>
+    <tei:p>
+     S Lietavským sa točil svet.
+    </tei:p>
+    <tei:p>
+     „Nechcete ma?“ pýtala sa smutne.
+    </tei:p>
+    <tei:p>
+     Lietavský sa na celom tele triasol: hlava sa mu puknúť mala.
+    </tei:p>
+    <tei:p>
+     A deva šla ďalej.
+    </tei:p>
+    <tei:p>
+     „Naučili ste ma, čo je láska, a vy ju teraz nechcete rozumieť. Neľúbite
+          ma?“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     era som
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Lietavského oči zabehli krvou na to slovo.
+          S náruživým výkrikom schytil smutnú devušku, silno privrel juk hru-
+          di a celoval jej krásne líca.
+          A ona, ovinúc ramená okolo šije jeho, slasťou zaplakala na jeho
+          ochrannej hrudi...
+    </tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+    <tei:p>
+     Nedávno viedla ma cesta slovenským mestečkom S...e.
+          „Čí je ten pekný kaštiel?“ pýtam sa kočiša.
+          „Pána doktora Lietavského,“ odpovedá on.
+    </tei:p>
+    <tei:p>
+     „Stoj!“ zahrmím a rútim sa k dávnemu „magnetu“.
+    </tei:p>
+    <tei:p>
+     Tam som počul od Závodovej to, čo som vám prítomne porozprával.
+    </tei:p>
+    <tei:p>
+     K tomu ešte doložím, že od tých čias vychovala srbská žena dvoch
+          krásnych šarvancov k slovenskému podrastu, ktorý naše renegátky ešte
+          neodnárodnili.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

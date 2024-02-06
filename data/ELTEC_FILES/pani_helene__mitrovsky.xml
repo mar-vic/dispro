@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1921634" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Pani Helène : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:21719933">
+     Mitrovský, Milan Thomka (1875-1943)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     10050
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:21719933">
+      Mitrovský, Milan Thomka (1875-1943)
+     </tei:author>
+     <tei:title>
+      Pani Helène
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Vydavateľstvo „Svetovej knižnice“ Miloslav Schmidt
+     </tei:publisher>
+     <tei:date>
+      1921
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-02-01">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Pani Helène
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <p>
+   </p>
+   <p>
+   </p>
+   <p>
+    Itália! Večná túžba skrehnutých duší severu, v ktoromže konci načrieť do minulosti, kde
+         začínať, aby som tepložiarny tón tvojho obrazu pekne vmaľoval do našich oblôčkov, ľadom
+         pokrytých…
+   </p>
+   <p>
+    Veľké, samospasiteľné umenie! Stupentným obsahom nabitý život! Vy beloskvúce dve krídla
+         túžob mojich, koľko ráz som vás takto rozpínal a rozletel sa s vami do nedohľadných končín
+         krajších oblastí?…
+   </p>
+   <p>
+    Druhovia moji sedia dnes už viac-menej v teple a na prekonanú dráhu žmurkajú s
+         podivuhodnou spokojnosťou. Ale ja neviem, prečo ľutovať a slávu ich v sirupe sladkej lieni
+         prečo im závidieť? Naopak, nezávidím a neostýcham sa byť úprimnými so známymi slovami
+         Fausta:
+   </p>
+   <p>
+    „Už som, ach, filozofiu, jus i medicínu, a — žiaľ — i teológiu vonkoncom preštudoval s
+         vrúcnou námahou: tu stojím dnes, úbohý ja blázon, a nie som múdrejší ako na začiatku…“
+   </p>
+   <p>
+    Nuž ale mladosť má neobmedzený úver vo svete, mladosť trúfa si všetko.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Keď som ako mladý šuhaj po prvý raz putoval do Talianska, mal som pritom neobyčajné
+         šťastie, lebo do Florencie, kde mi bolo z domu umožnené dlhšie pobudnúť na štúdiách,
+         neprišiel som ako bezradný cudzinec do úplne neznámeho kraja, ale čakali ma tam už a
+         prijali hneď do priateľskej spoločnosti.
+   </p>
+   <p>
+    Môj, vtedy podivuhodný nie učiteľ, skôr vychovávateľ v Mníchove, milý majster Z.,
+         presídlil sa natrvalo do Talianska; predovšetkým za ním ma hnala moja túžba ta dolu. A
+         teraz, keď po dlhšej rozluke zasa som sa dostal do jeho blízkosti a zasa pod jeho vedením v
+         učení mohol som pokračovať, bol som prešťastný.
+   </p>
+   <p>
+    Bolo pekné septembrové popoludnie roku 1899, keď ma rímsky rýchlik po prvý raz vysadil v
+         povestnom meste Danteho.
+   </p>
+   <p>
+    Na stanicu prišiel mi sám majster oproti a mal z nášho zvítania sa radosť. Byt, stravu,
+         pre štúdium potrebné legitimácie — všetko mi už vopred vyjednal a obstaral a hneď v ten
+         večer môjho príchodu predstavil ma i v kruhu svojich známych.
+   </p>
+   <p>
+    Čakala ma slušná izba na priestrannej ulici, podľa nejakého národného sviatku Via 27.
+         Aprila zvanej. Mala kozub, skutočný otvorený kozub, v ktorom horievali veľké polená; mala
+         drevené, na zeleno natreté žalúzie v obloku, železnú, sťa pre obrov kovanú posteľ, veľké, v
+         Taliansku všade zvyčajné zrkadlo.
+   </p>
+   <p>
+    Výhľad nebol hluchý, otváral sa do veľkej patricijskej záhrady, hustými stromovím
+         tajomne zarastenej a obohnanej vysokým múrom. Rovno pod oblokom zbadal som neskoršie malú
+         vinárničku, fiaschetteriu, kde bývalo večerom zavše živo.
+   </p>
+   <p>
+    Mládenci, už zďaleka brnkajúc na mandolínach, prichádzali ta na pohár vína, a keď si
+         posedeli, pobesedovali a zaspievali, zase tak, hudúc si cestou, pomaly sa vzďaľovali. V
+         smutných večeroch samoty neraz potom dychtivo som lapal približovanie alebo strácanie sa
+         ich pritlmených nástrojov.
+   </p>
+   <p>
+    Keď som sa náležite zorientoval a sa rozhľadel v svojom novom byte, majster už klopal.
+   </p>
+   <p>
+    — Ste už v poriadku? No čo, bude vám toto hniezdo dobré? Prišiel som trochu včaššie,
+         treba večerať, lebo pôjdeme potom s ostatnými na koncert; je to už uzhovorené.
+   </p>
+   <p>
+    — Majster, ako sa vám odslúžim za vašu starostlivosť? Nebude to trochu zavčasu pre mňa?
+   </p>
+   <p>
+    — No, až ste ustatý z cesty, už len pretrpte, ja som včera sľúbil priviesť vás; bude to
+         tak najlepšie, keď sa hneď spoznáte s našimi.
+   </p>
+   <p>
+    Zišli sme teda neďaleko na tejže ulici do malého hostinca, ktorý sa honosil významným
+         nápisom: Ristorante Montenegro.
+   </p>
+   <p>
+    Táto krčmička hrala nemalú úlohu v našom živote; za celý ten čas vždy dobre naložený
+         starý padrone v bielej zástere poctivo varil a smažil pre nás, a keď prišli niekedy i
+         horšie časy, kredit náš bol u neho nevyčerpateľný. Bože, veď vtedy žilo sa v Taliansku
+         neuveriteľne lacno, a vo Florencii nadovšetko. Len po vojne s Tripolisom zdražel tam život;
+         do tých čias naše cechy nemohli byť nikdy také veľké, že by sa, keď z domu prišli peniaze,
+         neboli dali hladko vyrovnať.
+   </p>
+   <p>
+    Tu sa potom, keď niečo v našej spoločnosti vrelo, neraz dlhšie po obede alebo po večeri
+         sedávalo a slávne červené víno toskánske dodávalo ducha, ale nepodrážalo nikdy nohy…
+   </p>
+   <p>
+    Mnohí už večerali, keď sme s majstrom prišli. Boli to väčšinou výtvarní umelci; Poliaci
+         z kráľovstva a z Krakova, dvaja-traja Nemci z ríše, majster bol Čech, ja Slovák: dosť veľká
+         rodina v talianskom prostredí; popredstavovali sme sa. Mimo hodín práce bývali sme potom
+         obyčajne vždy spolu, a domáce obyvateľstvo na Via 27. Aprile, medzi Piazza Cavour a S.
+         Marco, znalo nás už ako spolupatriacich a rozoznávalo nás od obyčajných Inglesi spoločnými
+         názvom i forestieri Rusi.
+   </p>
+   <p>
+    Ale klasický ideál umenia sotva by bol toľký rákoš maskulínov trvale v jednom korábe
+         udržal, keby nebolo v ňom bývalo imkarnované niečo živšie…
+   </p>
+   <p>
+    Magnetom alebo kompasom tohto turgenevovského korábu bola asi dvadsaťjedenročná dáma,
+         pani Helène, barónka z Ö., rozídená s mužom, ktorý bol akýmsi vysokopostaveným
+         hodnostárom v Kyjeve.
+   </p>
+   <p>
+    Predpokladám: keď poviem Poľka, každý hneď vie, čo to značí, ale keď pridám k tomu ešte
+         i to, že bola krásavica, plná rasovosti a mala temperamentného ducha i zlaté srdce, tu iste
+         každý, ako v Eneide — intentaque ora tenebant — so záujmom vypočuje tento variant večne sa
+         opakujúcej tragédie lásky.
+   </p>
+   <p>
+    Daromná je, priatelia, všetka mravouka, život náš je už raz taký: zlatá hrivna
+         pošetilosti lásky nedá sa nijakou múdrosťou rozumu vyvážiť a naša dvojitá kniha života, v
+         ktorej nie je sprava-zľava označené záhlavie „múdrosť — bláznovstvo“, je hovädzina, s
+         ktorou trúfajú si kalkulovať len veľmi prefíkaní hlupáci.
+   </p>
+   <p>
+    Tu som však hodný kus predbehol a musím sa vrátiť k stolu v Ristorante Montenegro.
+   </p>
+   <p>
+    Ja som milému čitateľovi pani Helène v tej chvíli predstavil, v ktorej mi môj
+         majster, sadajúc za stôl, stačil ešte len pošepnúť:
+   </p>
+   <p>
+    — Ideme potom ohlásiť jednu dámu, i ona pôjde s nami na koncert.
+   </p>
+   <p>
+    — Taák?
+   </p>
+   <p>
+    — Vie, že ste prišli, predstavím vás. Ako budete jesť: na masle, či na oleji?
+   </p>
+   <p>
+    — Ale ja neviem; ráčte mi rozkázať to isté, čo sebe.
+   </p>
+   <p>
+    — Teda koštujte na oleji a navykajte hneď na domáce jedlo.
+   </p>
+   <p>
+    Ostatní už končili večeru, a keď sme sa i my s majstrom poponáhľali, všetci sme sa
+         odobrali cez ulicu naproti do domu, kde vtedy pani barónka bývala.
+   </p>
+   <p>
+    Mala tam najaté celé priestranné vrchné poschodie s terasou krásneho výhľadu na mesto.
+         Intímny umelecký neporiadok vo všetkých izbách. Obrazy pozdĺž stien na zemi alebo na
+         stojanoch, kopy kníh po pohovkách a foteloch: hodvábne róby, závoje, bundy a črievičky v
+         susedstve starých pluviálov a ornátov. Bronzy, nádoby s kvetinami, samovary na čaj, na
+         kávu, všetko porozkladané v malebnom neporiadku.
+   </p>
+   <p>
+    Tu sme našli i ostatných priateľov, medzi ktorými najdomáckejšie sa tvárili dvaja:
+         mladučký gymnazista Koľa z Kyjeva a zrelší pán, dosť hrmotný zjav, menom pán Z-ski, sochár
+         z Krakova.
+   </p>
+   <p>
+    Uvítanie a predstavovanie bolo na poľský spôsob veľmi živé, plné manuetových
+         zdvorilostí. Poľská reč šíkala a šveholila, ale čert vie, na jej zvuk a na afekt, ktorý mi
+         ona ustavične vyjadrovala, nikdy som nemohol navyknúť — a bolo by veru neskôr neraz
+         potrebné bývalo, aby som jej bol lepšie rozumel…
+   </p>
+   <p>
+    Už je to tak: Slovania v zahraničí dorozumievajú sa obyčajne cudzou rečou, a my vtedy vo
+         Florencii pomáhali sme si zavše nemčinou, už i preto, že sme mali i Nemcov medzi sebou.
+   </p>
+   <p>
+    Zjav pani Helène prekvapil ma nad všetko očakávanie: tmavogaštanové bohaté
+         vlasy, štíhla ako úhor postava, nervózna, trochu exaltovaná povaha, nonšalantná
+         kamarátskosť, ku každému jednaká, to všetko bolo niečo, čo ma muselo zaujať hneď na prvé
+         stretnutie.
+   </p>
+   <p>
+    Jej tvár?
+   </p>
+   <p>
+    Nebola to larva na slovo vzatej ženskej krásy, ktorou povedomá nositeľka sťa nejakou
+         monštranciou v prach velí padať mužskému — nie, jej hlava mala niečo prerafaelistického s
+         detailami síce vo všetkých čiarach pekne, pravidelne kreslenými — ale oči! Oči jasnosivé,
+         mihalnicami a obrvami tmavo vrúbené, boli plné snivosti a zvrchovanej inteligencie; ony
+         magnetizovali a pútali na seba všetku pozornosť.
+   </p>
+   <p>
+    Jej charakter?
+   </p>
+   <p>
+    Možno, že mnohí z našej spoločnosti, ktorí boli oproti mne starší, skúsenejší,
+         skeptickejší, hľadeli na ňu celkom iným okom… Ja ju dnes kreslím tak, ako som ju vtedy
+         svojou rojčivou, ešte nenačatou dušou videl, a myslím, že to tak bude najlepšie…
+   </p>
+   <p>
+    Pohli sme sa teda k bráne Porta S. Gallo, pod jej arkádami bola kaviareň, kde sme mali
+         počúvať hudbu.
+   </p>
+   <p>
+    Mne to od pani Helène náramne lahodilo, že sa mi ako novoprišlému viac venovala
+         než ostatnými, všetko dospelejším pánom; cestou do kaviarne a naspäť musel som ísť po jej
+         boku a so žavými záujmom snažila sa v našom rozhovore porozumieť môjmiu nadšeniu pre
+         klasické umenie, vtedy ešte dosť primitívnemu. Navrhla mi, aby sme sa budúci týždeň
+         spoločne dali zapísať v akadémii na akt, že jej treba tiež trochu kresliť, a že to bude
+         milé, keď nebude musieť sama ta chodiť.
+   </p>
+   <p>
+    V kaviarni jej veselosť prešla na všetkých; bola roztomilá a prezidovala medzi nami sťa
+         opravdová kráľovná. Vrcholom celého večera bol však jeden z bodov programu, keď orchester
+         po prvý raz zahral kus, ktorý spomenutý sochár, pán Z-ski, skomponoval. Aplauz celej
+         kaviarne, ktorý platil autorovi, on galantne uhádol preniesť na našu dámu ako hold, a tými
+         bol jej triumf tohto večera dovŕšený.
+   </p>
+   <p>
+    A tak, keď som pozde v noci po prvý raz v samote svojej izby usínal, bol som so svojím
+         príchodom spokojný. Florencia, mesto slávnej minulosti, všade medicijské erby. Ulice,
+         paláce, zámky a kostoly, mosty, námestia a záhrady, všetko skutočné scenérie Boccacciových
+         rozprávok, Danteho hnevu, Savonarolových kázní. Mesto kvetov, kde Michelangelo tesal svoju
+         Notte, kde Lionardo experimentoval, Angelico na kolenách maľoval svoje Madony v zlatožiare.
+         Aké skvelé pramene učenia sa mi razom tu otvárajú pod mentorstvom milovaného majstra, v
+         strede bratskej slovanskej spoločnosti, a nad tým všetkými vznáša sa jemný parfum tejto
+         nevšednej ženy! Čo si bolo tu ešte želať?
+   </p>
+   <p>
+    I rozbehol som sa druhého rána mestom a s novým zápalmi začala sa honba za krásou. Pri
+         turniketoch múzeí býval som vždy prvý a po zvonení večer posledný som odchádzal. Strážcovia
+         zbierok dávno nevideli takého horlivého navštevovateľa; liezol som im do všetkých kútov,
+         kde sa len čo vidieť dalo. Večer potom spoločné prechádzky za mesto: Cascini, S. Miniato,
+         Fiesole, Bellesguardo, všetko nezabudnuteľné momenty krásnych zážitkov.
+   </p>
+   <p>
+    A keď čas nebol pre vychádzky priaznivý, tu potom v Centrálnej kaviarni na Piazza
+         Vittorio Emanuele mali sme opravdovú internacionálnu revue. Všetky významné kapacity sveta
+         a všetky vznešené inkognitá, ktoré sa v meste zdržovali alebo tadiaľto precestovali, v
+         tejto kaviarni museli sa vždy obrátiť.
+   </p>
+   <p>
+    Tu kulminoval elitný život mesta, lokál bol vzorne po európsky spravovaný; šéfom bol
+         švajčiarsky Nemec. Ale dnes už táto kaviareň neexistuje.
+   </p>
+   <p>
+    Toto prvotné úslnie nášho krásneho nažívania trvalo niekoľko týždňov a harmónia dní
+         nebola ničím rušená. Aspoň ja vo svojej mladistvej dôverčivosti dlho som nič rušivého
+         nezbadal. Každý večer vracal som sa s bohatou žatvou samých krásnych skúseností domov,
+         rekapituloval, uvažoval a značil usilovne všetko.
+   </p>
+   <p>
+    Dlho to trvalo, kým tento opar šťastia začal okolo mňa rednúť a prvý falošný zvuk v lone
+         našej spoločnosti povstal tým, že molodec Koľa akosi ťažko sa vracal do školy. Mal už
+         vstúpiť na univerzitu, prázdniny sa už dávno minuli a pri jedle hovorilo sa medzi staršími
+         o tom častejšie, najmä pán Z-ski veľmi sa rozčuľoval preto medzi svojimi krajanmi.
+   </p>
+   <p>
+    Ale môj majster práve v ten čas začínal maľovať v paláci Pitti Giorgioneho Concerto. Je
+         to jedno z najpozoruhodnejších diel celej zbierky a majstrovo počínanie a ďalší postup
+         tejto práce držal ma vo veľkej zvedavosti. Zároveň som sa i ja púšťal do jedného Tiziana,
+         takže až neskoršie, keď sa vec už tíšila, začal som si tohto prípadu v našej spoločnosti
+         lepšie všímať.
+   </p>
+   <p>
+    Čo som z času ma čas z tej poľskej vravy zachytil, vyrozumel som, že mladé chlápä má
+         akési vrtochy, že sa od pani Helène nechce pohnúť, že nosí stále revolver pri sebe
+         a že sa hrozivo stavia hlavne proti pánu Z-skému.
+   </p>
+   <p>
+    Mne to všetko bolo veľmi čudné, lebo som si dosiaľ ani tak veľmi nevšímal tichého,
+         vyziabnutého žiačika. Myslel som si, že je z rodiny a že ho pani barónka cez prázdniny
+         vzala so sebou na cesty; prečo sa však takto pätí, nevedel som si vtedy ešte domyslieť.
+   </p>
+   <p>
+    Interes pána Z-ského k tejto dáme vysvetľoval som si zas ako celkom bežnú dvornosť,
+         potenciovanú poľskou rojčivosťou. On bol najstarší z nás, praktikus, vo Florencii dávno
+         usadený, znal miestne pomery, domácu reč dokonale, bolo teda prirodzené, že tisícoraké
+         potreby tejto dámy on obstarával a že bol v službách okolo jej osoby najčastejšie…
+   </p>
+   <p>
+    Ale, ako som už spomenul, bol som v ten čas tak zaujatý, že priebeh a konečné rozuzlenie
+         tejto revolverovej histórie nestačil som zblízka sledovať. Poľskí priatelia pravdepodobne
+         našli napokon spôsob, ako mladého bohatiera uchlácholiť, a on odcestoval v poriadku. Od
+         týchto čias začal som uvažovať a všetko ostrejšie pozorovať okolo seba.
+   </p>
+   <p>
+    Medzitým pani Helène, ktorá mala nevšedný talent pre maľbu, dokončila veľký
+         obraz panorámy mesta zo svojej terasy. Máloktorý z nás vtedy mohol sa jej rovnať v
+         pohotovosti, a ešte neskoršie, keď som chodil po Krakove, profesor Falat na akadémii
+         ukazoval mi krásne práce od nej, ktoré s pietou u seba opatroval.
+   </p>
+   <p>
+    Potom najala celkom na prízemí, o ulicu ďalej, priestranný ateliér s bočnými
+         miestnosťami; tu sme potom riadne všetci podvečer chodievali, a bolo tam toľko miesta, že
+         mohol, komu sa páčilo, tam i pracovať, leňošiť, čítať, hrať, alebo dišputovať celkom voľne.
+   </p>
+   <p>
+    Toto bolo pôvodne najväčšou radosťou pani Helène, keď mohla v mene umenia
+         zhromažďovať ľudí okolo seba. Chcela, aby sme sa pekne okolo nej grupovali, aby sme sa
+         spoločne vzdelávali, podporujúc a pobádajúc sa navzájom, a neznala nijakých obetí, nijakej
+         námahy toľkú obec originálov pohromade udržať a k svojmu ateliéru upútať.
+   </p>
+   <p>
+    Pani Helène nebola vlastne osoba šťastná, v prítmí jej minulosti muselo byť
+         niekde niečo, čo pálilo a čo stále bolo treba ohlušovať.
+   </p>
+   <p>
+    Nemyslím, že by niekoho z našej spoločnosti skutočne bola milovala — jej talent hnal ju
+         síce do víru sveta, ale srdce ženy — ono sotva bolo úplne medzi nami.
+   </p>
+   <p>
+    Či tou láskou jej srdca bol jej muž v Kyjeve, alebo či práve toto manželstvo rozrumilo
+         jej šťastie, to som vtedy ešte posúdiť nemohol. Stála tu slobodná, no v srdci osirelá a
+         odtrhnutá od akejsi drahej minulosti naveky.
+   </p>
+   <p>
+    Toto bolo to pravé, nikým netušené jadro osudu tejto ženy; a neskoršie som sa
+         presvedčil, že som dobre hádal.
+   </p>
+   <p>
+    Ale ktože sa staral o minulosť, keď prítomnosť tak fascinovala a budila neskrotiteľné
+         vášne v srdci každého. Len som nevedel, či práve ten tajený smútok, starostlivo ukrývaná
+         bolesť minulosti, alebo či pevného bodu pozbavená šialenosť ženy bola olejom na požiar
+         lásky, ktorý zachvátil spoločnosť týchto ľudí.
+   </p>
+   <p>
+    Dnes viem určite, že duša pani Helène bola preplnená umením, že umenie jej bolo
+         svätyňou, do ktorej sa utiekala, náruživosťou, ktorá všetko iné cítenie vylučovala temer
+         úplne, ale v prostodušnosti svojej ženskej duše netušila, aké nebezpečenstvo ide vzápätí
+         tej miloty, ktorú v úprimnom nadšení hojne uštedrovala každému. Každého, kto prišiel z nás
+         za veľkým umením do Talianska, ona svojím rýdzim talentom a apoštolovaním, plným zápalu,
+         očarila a pripútala k svojmu kruhu, ale u mužských toto rýdze umelecké opojenie netrvalo
+         dlho: každý skoro zamenil v nej vestálku umenia za bohyňu lásky a každý napokon hľadal v
+         nej len ženskú…
+   </p>
+   <p>
+    Netajím sa, i moje srdce bolo by mohlo mocnejšie biť a pozbaviť ma všetkej rozvahy, lebo
+         jej ženský pôvab, ktorý sa po neblahom rozbresku doma práve teraz vo Florencii v plnej
+         miere rozvinul, bol strhujúci ako povodeň, ktorá všetko berie so sebou, čo sa jej v ceste
+         naďabí. Ale môj pomer k pani Helène bol celkom inak determinovaný.
+   </p>
+   <p>
+    Prvý raz v živote stretol som v nej dámu z veľkého sveta a moja mladistvá úcta k takej
+         vznešenej panej vylučovala akúkoľvek smelšiu myšlienku.
+   </p>
+   <p>
+    A potom: prišiel som do cudziny takrečeno od mamičky a pred voľnosťami bohémskeho života
+         bol som zasa chránený prítomnosťou majstrovou.
+   </p>
+   <p>
+    Majster Z. bol morálny a nábožensky založený človek; ja som mu bol vtedy telom-dušou
+         oddaným obdivovateľom, akože by som bol mohol s nedovolenými pocitmi v srdci predstúpiť
+         pred neho? Napokon, dvadsaťročný človek nechodí už len tak vospust svetom, má už kdesi
+         niečo — taký božský uzlík, na ktorý s túhou spomína a za ktorým lietajú usilovne písané
+         pohľadnice…
+   </p>
+   <p>
+    Na takýto spôsob moje chovanie k pani Helène bolo bez akejkoľvek dotieravosti,
+         ona si to skoro uvedomila a vážila si toho. Jej dôvera rástla očividne, a keď sa úplne
+         presvedčila, že z celej spoločnosti som ja jediný, ktorý na ňu onakvejšie hľadí, jej
+         náklonnosť ku mne premenila sa v priateľstvo temer sesterské.
+   </p>
+   <p>
+    V tie dni v týždni, keď sa kreslil akt v akadémii, riadne som chodil pani
+         Helène ráno na byt ohlásiť. No načas sme sa zriedkakedy dostavili do školy, lebo
+         pani barónka nebola navyknutá včas vstávať. Potom vždy kázala komornej do ateliéru
+         všelijaké lakoty mi poznášať, len aby som čakal a aby som bol zaneprázdnený, kým ona vstane
+         a oblečie sa.
+   </p>
+   <p>
+    Mne — úprimne rečeno — meškanie nebolo milé, lebo žiaci, keď sme neskoro chodili,
+         zazerali a neradi nám miesto robili; niekedy sme prišli až po profesorovej korektúre. No
+         nedalo sa nič robiť, ohlásiť som ju musel, keď som nechcel byť nezdvorilý, a že bez môjho
+         sprievodu tam nejde, to neraz opakovala pred ostatnými.
+   </p>
+   <p>
+    — Vicenzína! — volá v jedno takéto ráno zo spálne na komornú, ale tá niekam odbehla a
+         neohlasovala sa.
+   </p>
+   <p>
+    — Podajte mi, prosím vás, — vraví teda mne, — tam z komody čerstvý uterák; stojím tu
+         celá mokrá, neprichystala mi. Musíme sa náhliť. Akýže model pózuje dnes?
+   </p>
+   <p>
+    — Ženský akt je na rade, — odpovedám, — azda zasa tá blondínka, — a nájduc uterák,
+         nesmelo som stúpal do spálne.
+   </p>
+   <p>
+    Tu však pri vchode dvere veľkej zrkadľovej kasne boli tak nešťastne odchýlené, že
+         nechtiac uzrel som hneď v zrkadle celú jej krásnu nahotu.
+   </p>
+   <p>
+    Ona šípila, stojac stranou, tento môj pohľad, oči sa nám stretli v zrkadle — ja som sa
+         chytro odvrátil a spakruky položiac ručník, vykĺzol som do ateliéru celý zmätený.
+   </p>
+   <p>
+    Keď neskoršie vyšla za mnou už oblečená, mlčky vypila čaj bez zákuska; cestou do
+         akadémie povedali sme si len niekoľko bežných slov, bola vážna, zamyslená, akoby trochu
+         urazená.
+   </p>
+   <p>
+    Ale druhého rána už pred ôsmou bolo počuť jej džavot na schodoch môjho príbytku; prišla
+         ma sama ohlásiť a hneď bez pozdravu žiadala, aby som jej kompozíciu Lady Godivy, ktorú som
+         nedávno pred ňou spomínal, ukázal.
+   </p>
+   <p>
+    — Viete vy čo, mladý človeče, — hovorí potom, stojac ďalej v otvorených dverách, — to
+         bude pekné, ale touto Godivou budem ja! Boh vás uchovaj, aby ste si iný model brali k nej,
+         ja vám budem k tomuto obrazu sedieť — rozumiete?
+   </p>
+   <p>
+    A bola by mi pózovala, to je isté, keby naše priateľstvo nebolo bývalo tak ukrutne
+         prervané. No dosiaľ je mi táto epizódka záhadou: či scéna so zrkadlom bola ozaj len náhoda,
+         alebo či jej rozmar, byť mi modelom pre túto cudnú postavu, vznikol až potom, keď som sa s
+         jej nezahalenou nádherou tak nenazdajky v zrkadle stretol?
+   </p>
+   <p>
+    A koľko ráz sa stalo v spoločnosti, keď jej už zo všeobecného dvorenia začalo byť dusno,
+         že pod nejakou zámienkou zmizla a o chvíľku tajne ma dala vyvolať. Sedela už obyčajne na
+         ulici v drožke, ja som musel chytro prisadnúť, a hybaj preč. Vozili sme sa potom pri svite
+         mesiaca po Lungarne až von do košatých alejí v Cascinách, alebo prešli sme po Ponte Vecchio
+         cez Arno na druhú stranu mesta hore krásnou serpentínou na Piazza Michelangelo a zas dolu,
+         do tých čias, kým ju planá vôľa neprešla a nervy sa jej neutíšili.
+   </p>
+   <p>
+    Pri takomto nočnom prevážaní musel som jej hodne o sebe, o svojom rodisku, o všetkom, čo
+         mi bolo ľudsky blízke, rozprávať. Vypytovala sa ma na našu slobodu vo Vengrii, či sú u nás
+         pekné dievčence, napokon, kto je a ako sa volá „ona“.
+   </p>
+   <p>
+    Pani Helène bola figliarka a vedela si človeka tak naladiť, ako sa jej páčilo,
+         a keď vylákala zo mňa ešte i túto moju srdcovú tajnosť (vtedy bola ňou Vieročka D.),
+         rozprával som a rozplýval sa donekonečna. Možno ku koncu ani nepočúvala a že sa zahrúžila
+         do vlastných rozpomienok, no moje povedačky a klopkanie koníkovej podkovy raz po dláždení,
+         raz zase po mäkkej hradskej museli byť pre ňu dobrým liekom, lebo vždy mi srdečne ďakovala
+         a prosila o prepáčenie, že ma o lepšiu zábavu v spoločnosti „okrádala“.
+   </p>
+   <p>
+    Je prirodzené, že tí, ktorí ju obletovali, začali sa pre takéto vyznačovanie a dôvernosť
+         na mňa trochu škarediť, ale skoro sa presvedčili, že sa za tým všetkým nič zvláštne
+         neskrýva, a na moje pážacie služby a výhody pri pani barónke nežiarlili viacej.
+   </p>
+   <p>
+    Blížili sa vianočné sviatky a medzi nami zjavil sa nový hosť: pán W-ski, umelec-sochár z
+         Varšavy.
+   </p>
+   <p>
+    Bol vysoký, chudý, distingvovaný človek, so škripcom na nose. Akiste hral v poľskom
+         umeleckom svete istú rolu, lebo práve dostal od štátu poverenie na veľkú sochársku prácu,
+         ktorú prišiel teraz do Florencie vykonať. Nebol tak afektovane založený ako ostatní bratia
+         Poliaci, bol v reči i v nárokoch skromnejší, a to sa mne na ňom hneď pozdalo. Mal azda
+         trochu spleenu v sebe, na veľké naše umelecké debaty sa len zhovievavo usmieval a málokedy
+         zasiahol do toho nejakou poznámkou.
+   </p>
+   <p>
+    Oproti pani Helène bol vyberane úctivý a keď raz medziiným spomenul, že by sa
+         cez sviatky rád ešte do Ríma podíval, pani barónka dostala chuť tiež cestovať.
+   </p>
+   <p>
+    — Prenájom pracovne, — hovorí pán W-ski, — bol mi i tak sľúbený až po Novom roku, chcel
+         by som sa teda do tých čias rozhľadieť po antickej plastike v Ríme.
+   </p>
+   <p>
+    Hneď i ponúkol svoje služby pani Helène, úprimne sa tešiac, že nepocestuje sám.
+   </p>
+   <p>
+    — A k tomu, — hovorí, — ešte s takou krásnou dámou objaviť sa na rímskom Corse bude pre
+         mňa hotový triumf.
+   </p>
+   <p>
+    — No, no, — smeje sa pani barónka, — na rímskom Corse súťažiť nebude tak ľahko a potom
+         antiku nenájdeme na ulici, budeme musieť z múzea do múzea, ak chcete za tých pár dní našej
+         vychádzky niečo tam vidieť.
+   </p>
+   <p>
+    — Prosím paniu, — hovorí rozladene pán Z-ski, — či by ste nás mohli takto zrazu opustiť?
+         Máme sviatkovať bez vás? A potom neviem, či budete mať teraz z toho osoh. Múzeá budú v
+         tieto dni iste zatvorené a veľké mestá vo sviatky nie sú pre cudzincov ani také vábne.
+   </p>
+   <p>
+    — Ale prečo? Pamätáte sa na kňažnú T. v lete? Stretli sme sa nenazdajky v Centrále s
+         ňou. Ako mi prikazovala, aby som ju čím skorej v Ríme vyhľadala. Sme dobré priateľky ešte z
+         penzionátu, vrátim jej návštevu, a je isté, že sa budem musieť u nej ubytovať. A vás, pán
+         W-ski, vás jej potom tiež predstavím. Vierin manžel je dobrý znateľ antiky, nebudeme sa
+         musieť nikde dobíjať, on nás všade povodí… A potom, — zasmiala sa, — buďte, páni, radi, že
+         sa vám na pár dní z očú stratím. Vicenzina ostane tu, je obratná, obstará v ateliéri všetko
+         na Dohviezdny večer pre vás; pán Z-ski prinesie sľúbený stromec, obvešiate si ho sami, a čo
+         i darčeky rozdám len potom, keď sa vrátim, bude vám to tým vzácnejšie, lebo nakúpim ich v
+         Ríme.
+   </p>
+   <p>
+    — Celkom v poriadku, páni, — hovorí jeden z Nemcov, — nedajte sa, pani barónka, nami
+         mýliť. My vám tu pripijeme na zdravie, spomínajte na nás v ten večer.
+   </p>
+   <p>
+    — Ach, na Rím sa už teším, — švitorí ďalej pani Helène rozradostená. — Potom mi
+         všetko porozprávate, ako ste tu gazdovali a my s pánom W-skim rozpovieme vám zasa, čo sme
+         tam pekného videli — a do Sixtínskej, pán Z-ski! Nože telegrafujte svojmu monsignorovi do
+         Vatikánu, aby nám vstup zavčasu zaistil; na prvý sviatok chcem vidieť pápežovu omšu; azda
+         vás to, pán W-ski, tiež bude zaujímať… Ale preto, Vicenzína, budem si musieť i čierne šaty
+         so sebou vziať; vyber ich tam v kasni, tie vysoko zapnuté a ukáž ich, či sú v poriadku…
+   </p>
+   <p>
+    A tak budúceho dňa naozaj sme osireli a zrejmé je, že po odchode pani Helène
+         ostala nálada dosť clivá. Ulice boli bezútešné, začali sa už zimné pŕšky, všetko bolo
+         mokré, bez slnca. Najlepšie bolo utiahnuť sa v samotu svojej izby, polená prikladať do
+         kozuba a oddať sa trochu kontemplácii. Mne odchod pani barónky nebol by spočiatku ani takú
+         zlú vôľu narobil. Chýbala, pravda, po večeroch, lebo u nej bývalo tak teplo, tak útulno,
+         milo. Jeden z Nemcov riadne hrával Chopina, dalo sa pritom báječne sniť… Viac ma však mrzel
+         odchod majstrov.
+   </p>
+   <p>
+    Mal — vraj — akúsi vec osobne si vybaviť v Mníchove a vrátiť sa mal stadiaľ len koncom
+         februára. Toto mi narobilo ešte viac žiaľu a keď som ho na druhý deň po odchode barónkinom
+         odprevadil k vlaku, vracal som sa ulicami celý zmalátnený, tušiac, akoby nebolo dobre, že
+         práve teraz odchodí a že ostávam tu bez neho…
+   </p>
+   <p>
+    Sám medzi priateľmi Poliakmi cítil som sa nevoľne a neujasnené myšlienky, že toto
+         všeobecné obletovanie pani Helène nie je v poriadku, začali ma znepokojovať. Koľko
+         ráz chcel som sa s tým na majstra už obrátiť, no nenašiel som nikdy vhodnej formy, ako
+         takúto chúlostivú vec spomenúť pred ním. Všetko bolo tu spočiatku také krásne, áno, i ja
+         som musel milovať a zbožňovať svojím spôsobom, lebo Florencia a pani Helène
+         stopili sa mi v jeden pochop, a keď jej tu nebolo, celé mesto i so svojím umením stratilo
+         na prvotnom lesku, myšlienky bez živého sústredenia začali sa túlať: zošedivel celý svet.
+   </p>
+   <p>
+    V držaní a na tvári pána Z-ského bolo však najviac badať rozladenie, a neviem, či sa v
+         poslednej chvíli medzi ním a pani barónkou neprihodila nejaká roztržka.
+   </p>
+   <p>
+    Cez sviatky boli sme len na Štedrý večer ešte všetci spolu, potom každý akoby bol niekam
+         v týchto smutných dňoch zaliezol a pri obede a večeri bývali sme s pánom Z-skim pri stole
+         skoro sami.
+   </p>
+   <p>
+    Pán Z-ski bol mužský v zrelej sile, okolo päťdesiatky, a mal — ako to už u sochárov býva
+         — niečo silácke v sústave tela. Jeho oči boli bystré, ale vlasy jeho boli už hodne
+         preriedené, s malou plešinou, reč mu drnčala v hrdle a bola taká nepekne kaprálska. Talent
+         mal pre všetko. Čo chytil do roboty, to uhádol hneď i speňažiť; iniciátor, agitátor,
+         dobrodruh, ktorý už celý svet krížom-krážom pochodil.
+   </p>
+   <p>
+    Jemu sa priečilo vlastne s mladším človekom byť dôverným, no keď je na duši ťažko,
+         málokto vie odolať, a tak v jeden večer i on začal o tom rozprávať, čo ho najviac mátalo.
+         Stával sa sentimentálnym a líčil mi zradnú povahu ženy všeobecne. Zrazu bez prechodu povie:
+   </p>
+   <p>
+    — I teraz, hľa, nepýtala sa mnoho a odišla s tamtým na cestu.
+   </p>
+   <p>
+    „Ach, už sme doma,“ myslím si, „starého trápi žiarlivosť.“
+   </p>
+   <p>
+    — Ale, — odvrávam, — pani barónka robí, čo sama chce; ja nevidím v tom nič zlé, keď
+         použila dobrú príležitosť a šla si trochu vyraziť; myslím, že premena okolia bola jej už
+         prepotrebná!
+   </p>
+   <p>
+    — Myslíte? — usmial sa zlomyseľne. — A prečo nešla sama? A minulý týždeň pán L. či sa mi
+         nepriznal, že bol s pani Helène v divadle? Mne hovorila v ten deň, že ostane doma.
+         On je celý zjašený, posiela každý deň ráno vzácne kytky na jej byt. A iní? Vy viete málo,
+         pán M., čo sa robí, ale ja sa dozviem všetko, všetko… Chcete pani barónku zastávať,
+         rozumiem, to je pekné od vás, ale otvorte už raz oči: ona podvádza svojou láskou nie
+         jedného, ale všetkých!
+   </p>
+   <p>
+    Celý zosinel a oči mu sršali zlovestným ohňom.
+   </p>
+   <p>
+    Zamilované pletky lásky mu už v mojich očiach neslušali, a keď som si ho predstavil pri
+         boku pani Helène, robil na mňa vždy trochu komický dojem.
+   </p>
+   <p>
+    — No, dovoľte, — skáčem mu do reči, — tomu ja nijako nerozumiem. Veď pani barónka v
+         posledné časy nemohla už ani nohou vykročiť, aby za každým uhlom nestriehol na ňu niektorý
+         z vás! — a dofajčenú cigaretu hodil som pritom za seba.
+   </p>
+   <p>
+    — Kto? Koketa, pane, a basta!
+   </p>
+   <p>
+    Tresol na stôl a zaklial škaredo.
+   </p>
+   <p>
+    — Vicenzína pohovorila doma pred svojou matkou všeličo a tento Sandro, ktorý nás tu pri
+         jedle obsluhuje, je jej bratanec. Dnes ho učastujem, však mi on poslúži všetkým. Keď sa mu
+         jazyk náležite rozviaže, dozviem sa ja o pastierskych hodinkách každého, len počkajte…
+   </p>
+   <p>
+    A na dúšok prevrátiac plný pohár vína, pokračoval:
+   </p>
+   <p>
+    — A akúže sme mali robotu s Koľom, či neviete? Veď ma chcel zastreliť!
+   </p>
+   <p>
+    — Zastreliť, prečo?
+   </p>
+   <p>
+    — Nuž, chlapčisko bol za pani barónkou celý divý, ospevoval ju a písal verše na ňu a bez
+         nej nechcel naspäť domov. Myslel si, že som ja príčina a začal proti mne zúriť. Napokon, na
+         žiadosť jeho matky, ruský konzul ho kapacitoval a expedoval naspäť do Kyjeva.
+   </p>
+   <p>
+    — Teda, prosím, či mohla pani barónka za to, že chlapec nebol normálny, prečo hneď takú
+         nezdvorilosť na ňu aplikovať?
+   </p>
+   <p>
+    — No, odpusťte, mladý človeče, tu prestáva všetko, vy ste padli iste z mesiaca… Sandro,
+         platím!
+   </p>
+   <p>
+    A už vstával, ale vo dverách mi ešte zavolal:
+   </p>
+   <p>
+    — Nuž či nevidíte, flirtuje s každým, kto príde do jej blízkosti? Pobláznila mňa,
+         chlapca, vás, každého…
+   </p>
+   <p>
+    — Pardon, mňa…?
+   </p>
+   <p>
+    Ale už i začapil dvere a ja som nemohol dopovedať.
+   </p>
+   <p>
+    „No, veru pekne!“ myslím si, keď som sám ostal pri stole, „takéto ostré slová nepadli
+         ešte medzi nami.“
+   </p>
+   <p>
+    Teda koketa, flirt, nevera?
+   </p>
+   <p>
+    „Beda mi!“ spomenul som si na klasickú Helenu v druhom diele Fausta. „Aký ukrutný osud
+         stíha mňa, že srdcia mužov všade mámiť musím…“
+   </p>
+   <p>
+    Každý ju chce mať pre seba, každý s väčšou-menšou istotou robí si nárok na jej lásku —
+         veru nášmu turgenevovskému korábu hrozí prekotenie. Šťastní plavci zmenili sa v pirátov, a
+         „tá, ktorú každý z nás miloval“, magnet-kompas našej „loďky blaženosti“, stáva sa korisťou,
+         za ktorou sa naťahujú všetky ruky.
+   </p>
+   <p>
+    V ten večer a celý druhý deň som sa z domu ani nepohol, a keby bol majster tu býval, bol
+         by som už iste našiel spôsob, ako mu dať otázku. Ba či to on dávno nevidel, a preto
+         neodišiel radšej do Mníchova, aby mal odstup od toho, čo sa mu iste nepáčilo? Ale ako by mi
+         bol mohol nepravdivú príčinu svojej cesty povedať? On? To sa mi tiež nezrovnávalo.
+   </p>
+   <p>
+    Tretieho dňa však otvorili sa moje dvere a pán Z-ski rozhodným krokom vstúpil ku mne.
+   </p>
+   <p>
+    Pokladá — vraj — za svoju povinnosť oznámiť mi výsledok včerajšieho dohovoru, a zapáliac
+         si cigaretu, bez otáľania hodil sa do kresla k horiacemu kozubu, napolo chrbtom do izby a
+         raportoval úsečne:
+   </p>
+   <p>
+    — Sandro bol u mňa. Viem všetko. Potom večer pozval som každého do zadnej miestnosti
+         Caffé Centrale, kde, keď som pánom vyložil situáciu a pádne každého z jeho tajných
+         chodníčkov usvedčil, boli všetci ako ohromení. Jeden chcel na mňa vyskočiť, iný chcel
+         všetko bagatelizovať, ale ja som ich umlčal príkladom vlastného nešťastia. Sme do jedného
+         oklamaní klamári, — vravím im, — ona podvádzala každého s každým… Potom som im navrhol, ako
+         sa vyvarovať smiešnosti pred svetom a ako sa zachovať, keď sa ona s tamtým z Ríma naspäť
+         vráti. Uzniesli sme sa teda, že barónke po jej návrate budeme sa vyhýbať, jej ateliér
+         prestaneme navštevovať a prirodzene dúfame, že budete s nami solidárny i vy a nebudete ju
+         tiež za istý čas vyhľadávať…
+   </p>
+   <p>
+    — No, dovoľte, pane…
+   </p>
+   <p>
+    — Pomaly, mladý človeče, vy ste ešte veľmi neskúsený; nebude vám to nijako škodiť, keď
+         sa všeobecnej vôli trochu podrobíte. Napokon expresný list už šiel do Mníchova; pokladal
+         som za potrebné pána Z. informovať. Čakajte túto našu žiadosť majstrom vaším zopakovanú.
+   </p>
+   <p>
+    *
+   </p>
+   <p>
+    Týždeň po Epifanii pani barónka vrátila sa z Ríma.
+   </p>
+   <p>
+    Pán W-ski, ako som sa pozdejšie dozvedel, sprevádzal ju i naspäť, no odbočil pred
+         Florenciou ešte do Carrary, kde musel dozrieť pri lámaní mramoru pre svoje dielo.
+   </p>
+   <p>
+    Pani barónke nebolo treba vyhýbať, lebo vôbec nevychádzala z bytu. Musela byť o udalosti
+         hneď z príchodu náležite informovaná, pán Z-ski sa už o to iste dobre postaral. Vicenzína
+         mala prísny rozkaz neprijímať nikoho.
+   </p>
+   <p>
+    Mne ani na um neprišlo počúvnuť a nejsť k pani Helène ani vtedy, keď skutočne
+         ma o to i majster z Mníchova listovne bol prosil. Ale čakal som, že príde komorná po mňa
+         tak ako inokedy, ak by si ma pani barónka skutočne žiadala vidieť.
+   </p>
+   <p>
+    Ako som sa pozdejšie dozvedel, Vincenzína ma síce hneď po príchode po dva razy na byte
+         hľadala, ale pán Z-ski, s ktorým bývali sme na jednej chodbe, ju vždy stačil zachytiť a
+         povedať jej, že nie som doma.
+   </p>
+   <p>
+    Táto indignácia nešťastných zaľúbencov, toto neslýchané správanie sa pánov priateľov
+         oproti vlastnej dáme nebolo ničím iným ako detinskou žiarlivosťou všetkých na prekliatu
+         vychádzku pani barónkinu s namyslene novým ich súperom. No všeobecnosť tohto podivného
+         štrajku imponovala mojej vtedajšej neprezieravosti jednako len trošku, ale čakaný efekt
+         verdiktu sa akosi oneskoroval.
+   </p>
+   <p>
+    Pani barónka nereagovala vôbec, Florencia sa preto nezrumila a každodennosť prešla
+         hlucho ponad všetko: nestalo sa vlastne nič.
+   </p>
+   <p>
+    Do hláv a sŕdc začala sa pomaly vkrádať chladná rozvaha: videli, že sa dali trochu
+         ďaleko strhnúť a že vec sa mohla aj iným krajším spôsobom vybaviť. Pretrhnuté túhy a nádeje
+         začali v srdciach ožívať, elegičnosť zavládla v dušiach a poniektorí začali sa opatrne,
+         potichučky vyzvedať u Sandra a Vicenzíny, čo sa robí v ateliéri barónkinom, ale tentoraz
+         nevyšlo odtiaľ mnoho nového. Pani barónka — vraj — pracuje, všetko, čo potrebuje, nosia jej
+         do domu, je vždy samotná, prístup do bytu nemá nikto.
+   </p>
+   <p>
+    Jedného večera, keď sa hostia pri stole trochu preriedili, pán Z-ski medzi hovorom
+         spomenul barónku:
+   </p>
+   <p>
+    — Je divné, že od návratu z Ríma pani barónku ešte nikto na ulici nevidel.
+   </p>
+   <p>
+    — Patrilo by sa ísť ju pozrieť, nemyslíte? Či nepotrebuje niečo? Vincenzína vraví, že
+         pani málo spáva, že trpí celé noci na bolenie hlavy, že je poblednutá… Z nás nikto nemôže
+         tam ísť, musíme byť dôslední, ale vari najlepšie by bolo, keby ste vy raz večerom k nej
+         kukli, to by neznamenalo nič, a mohli by ste nám potom povedať, čo je vlastne s ňou…
+   </p>
+   <p>
+    — Myslím, — hovorím ja, — že mne by sa bolo patrilo hneď tam ísť; teraz neviem, ako ma
+         prijme a dozaista predpokladá, že i ja som proti nej v komplote… Ostatne, keby si ma bola
+         pani barónka žiadala, iste by bola po mňa poslala tak ako inokedy predtým…
+   </p>
+   <p>
+    — No, no, o to sa nebojte, ona vás už iste prijme — a veď ona už posielala pre vás
+         neraz, — preriekol sa.
+   </p>
+   <p>
+    — Tak? Teda predsa posielala, vy ste to vedeli a hovoríte mi to len teraz? No, pán
+         Z-ski, už mám tejto kabaly vašich lások naozaj dosť! Ja idem teraz skutočne k nej, ale zo
+         svojej vôle, vám nebudem robiť vyzvedača!
+   </p>
+   <p>
+    A teraz začapil som zasa ja dvere na Ristorante Montenegro, a o chvíľu som už zvonil na
+         ateliérových dverách pani barónky.
+   </p>
+   <p>
+    Dlho mi neotvárali, bolo počuť kroky i hovor, ale napokon vrzli druhé dvere pod bránou a
+         stadiaľ vykukla Vicenzína. Keď ma poznala, hneď sa vkĺzla naspäť a len potom prišla mi
+         zdnuká otvoriť ateliérové dvere a uviedla ma k panej.
+   </p>
+   <p>
+    Pani Helène ležala v bočnej izbe v pritlmenom svetle medzi knihami na šezlóne a
+         neodpovedala hneď na môj pozdrav, len mi nemo pokynula na nízky taburet pri nej.
+   </p>
+   <p>
+    Nespúšťala zo mňa očí, tých zvláštnych veľkých očí, v ktorých zrkadlila sa nedôvera a
+         ktoré len pomaly mäkli a ožívali prívetivým výrazom.
+   </p>
+   <p>
+    Iba keď som už sedel a v rozpakoch nevedel ako začínať, vtedy skoro tichými hlasom
+         zašepkala:
+   </p>
+   <p>
+    — Neverník!
+   </p>
+   <p>
+    — Nikdy, pani, — vyhŕklo zo mňa temer so slzami v očiach. — Ja som sa ledva dočkal vášho
+         návratu. Ale v týchto trápnych dňoch netrúfal som si — nevedel som, či vám bude moja
+         návšteva príhodná a čakal som, že ak sa vám bude páčiť, odkážete. No len pred chvíľou som
+         sa dozvedel, že ma dievča hľadalo. Odpusťte, nestalo sa mojou vinou, že prichádzam k vám
+         len dnes.
+   </p>
+   <p>
+    — Tak, Slováčik, — a pritom spustila dlaň na moje koleno, — vaše šťastie, lebo zajtra —
+         zajtra o takomto čase neboli by ste ma už tu našli, odchádzam z Florencie.
+   </p>
+   <p>
+    — Ako? — zvolal som celý zdesený. — Vy z Florencie? Prečo, pani barónka? — a tušiac
+         príčinu, začal som sa zajakať. — Nie, neodchádzajte, prosím, všetko bude dobre. Ale, bože,
+         veď ja neviem, čo sa to tu vlastne robí! Či všetko to krásne naše nažívanie má takto razom
+         pominúť?… Počkajte, pani, aspoň pokým sa majster nevráti. — Chcela ma pretrhnúť, ale nebolo
+         ma možno zastaviť. — On vie vždy tak pekne o Kristovi hovoriť: Hoďte po nej kameňom, kto z
+         vás sa cíti bez viny… Nie, nie, ostaňte, ostaneme tu všetci, navždy; pozrite, budeme tak
+         krásne spolu maľovať!
+   </p>
+   <p>
+    — Maľovať? Ach, áno, áno, maľovať, pekné diela tvoriť, ale nie viac spolu…
+   </p>
+   <p>
+    Vstala.
+   </p>
+   <p>
+    — Poďte pozrieť a pochváľte ma, že som nezaháľala?
+   </p>
+   <p>
+    Kráčala s úsmevom do ateliéru, kde na stojane stálo čerstvé podlhovasté veľké plátno.
+   </p>
+   <p>
+    — Toto som si len tak úchytkom naskicovala v Ríme, von na Via Apii a teraz som to tu vo
+         veľkom spravila.
+   </p>
+   <p>
+    Obraz pôsobil neskonalou melanchóliou. Znázorňoval večerný kraj, pusté močiare s nízkym
+         horizontom nad ktorým plával bledý mesiac.
+   </p>
+   <p>
+    — Hľa, — rozveseľoval som sa, — pani barónka, čo vás je po celom svete, keď sa vám práca
+         tak krásne darí?! A váš portrét, čo začal majster a čo bude s mojou úbohou Godivou?… A veď
+         i páni už ľutujú, pán Z-ski ma vlastne sem poslal a prikázal mi…
+   </p>
+   <p>
+    — Mlčte! — temer zvýskla pani Helène. — Dosť! A obrátiac sa prudko späť, hodila
+         sa znova na pohovku a schúlila sa do klbka.
+   </p>
+   <p>
+    — Nehovorte, prosím vás, ušetrite ma. Tých pár hodín, čo som ešte tu, chcem mať pokoj,
+         nechcem viac myslieť na to.
+   </p>
+   <p>
+    Celá sa chvela a po chvíli roztrpčene pokračovala:
+   </p>
+   <p>
+    — Nevďačníci, chcela som čo najlepšie. Zradia, zhanobia ženu, potom od slúžky sa
+         prezvedajú na efekt ich krásnej odplaty, a keď sa nedozvedia mnoho, chcú použiť na to vás!…
+         Choďte, prosím vás, a vyslovte im moje opovrhnutie. Nechcem vidieť ani jedného z nich.
+         Zbohom!
+   </p>
+   <p>
+    Mlčky urobil som pohyb na odchod.
+   </p>
+   <p>
+    — Nie, neodchádzajte ešte. Teraz musím vám už rozpovedať všetko. Vypijete trochu čaju so
+         mnou, áno?… Vicenzína! Podajže čaj. A môžeš si potom ľahnúť, sama vyprevadím pána.
+   </p>
+   <p>
+    Bola v tvári celá rozpálená, a jednako ju prechodila triaška, ale keď užila niekoľko
+         glgov teplého čaju, tichým hlasom pokračovala:
+   </p>
+   <p>
+    — Vidíte, pán M., i ja som bola raz šťastná; bolo to, žiaľbohu, len krátko a dávno. Jeho
+         poslali na Sibír a mňa prinútili vydať sa… Kalvária utrpenia pri boku plytkého
+         svetáka-aristokrata… V treťom týždni jednej noci utiekla som z domu: chcela som razom
+         všetko skončiť. Rodina sa naľakala, všetci boli bezradní, a povoľujúc, pustili ma na cesty.
+         Dúfali, že ma to prejde, a že sa po čase sama vrátim domov. Začiatkom minulého leta prišla
+         som do Florencie; dali mi z príbuzenstva mužovho synovca, aby ma sem odprevadil, ale ja som
+         bola hneď pevne rozhodnutá, že sa už nikdy viacej nevrátim do starého života — zajtra sa
+         pohnem ďalej svetom.
+   </p>
+   <p>
+    Jej telo v pestrom kimone ležalo teraz bezvládne, rovno vystreté, ako na márach. Lakte
+         vysoko pod hlavou, oči upreté do prázdna; hovorila ďalej, akoby sto ráz premietané
+         myšlienky znova odriekala pre seba:
+   </p>
+   <p>
+    — Vidím, že všetci mužskí sú si v jednom bode podobní a že moja povaha je nešťastím pre
+         mňa a pre všetkých… Ach, mladý priateľu, strežte sa — pohlavie je hrozné nešťastie, je
+         surovým pudom, ktoré bezohľadná príroda vklinila do života ľudí. A čím väčšia
+         intelektualita, tým väčšie absurdum… My — menšie percento žien — ktoré sme sa nenarodili
+         len pre plnenie slepého príkazu prírody, my ťažko nesieme, keď mužskí naše lepšie poslanie
+         v nás hrubo prezerajú. Nie sme hlúpe pre samotný život, naše schopnosti pre všetko veľké a
+         krásne dané sú nám v nevšednej miere. A jednako sme si úplne povedomé svojej slabosti,
+         svojej podriadenosti pri vašom boku; s úctou a obdivom hľadíme vždy na silné pohlavie, na
+         myšlienku a na dielo mužovo. My adorujeme toto pôvodnejšie, toto mohutnejšie v mužovi a
+         našou túžbou a rozkošou je môcť sa pridružiť, môcť pomáhať, pobádať, celkom sa oddať službe
+         jeho ideí, jeho veľkých úmyslov. Ale čo?…
+   </p>
+   <p>
+    Privrela umdlene oči a zamlčala sa.
+   </p>
+   <p>
+    — Áno, pani, — hovorím, — a ja si vás trúfam rozumieť úplne, je to naozaj vznešené, ba
+         viacej. Z našej strany nehľadíme na priateľstvo vaše ako na službu, nie. Neslúžite, naopak:
+         kraľujete! — A nakloniac sa k nej, rýchlo som pridal vrúcnym hlasom: — Pani barónka! Čo sa
+         stalo, bolo iste nepekné, ale zabudnite, musí sa napraviť všetko! Neráčte pri všetkom
+         zabúdať, že ste nám tu múzou — nám všetkým — prečo nás chcete tak kruto razom opustiť?
+   </p>
+   <p>
+    — Ha-ha-ha! — rozosmiala sa trpko a ťažko spustila ruku na moje plece; pritom
+         zaštrkotali prívesky jej náramnice. — Áno! To by bola bývala moja opravdivá hodnosť medzi
+         vami, ktorú som si verne chcela u vás vyslúžiť — ale aké desné, aké ošklivé rozčarovanie!…
+   </p>
+   <p>
+    Vzala založenú knižku a začala prekladať listy, akoby hľadala pokračovanie prerušeného
+         čítania.
+   </p>
+   <p>
+    — Moje šťastie je už dávno pochované. Úbohý Stano! Mal už vtedy zimnicu, keď ho brali a
+         zahynul včaššie, ako došiel na miesto svojho vyhnanstva. Radi sme sa mali od útleho
+         detstva. Veľmi, veľmi sa mu podobáte, pán M. Keď ste sa po prvý raz zjavili, až som
+         ustrnula. Chcela som zutekať, aspoň hrob jeho vidieť — vrátili ma. Muž v Kyjeve? Úžas!
+         Florencia? Všade tá istá beštialita… Nuž či som zlopovestná Kirké, ktorá každého, kto sa
+         jej zbližoval, zmenila na hovädo? Zdriapala by som najradšej všetku ladnosť zo seba, chcela
+         by som byť ohyzdnou — ale bola by som iste šťastnejšia… Florencia mi dodala. Od toho decka
+         počnúc až po starého nehaneblivca, všetci sa radom zošaleli. Spočiatku som len žasla,
+         nechcela som veriť, že dravec v ruskom veľmožovi a v precióznom nadšencovi umenia ostáva
+         všade ten istý… Chcela som skúmať, nájsť protijed, povoľovala a hrala som sa naoko s touto
+         ich dravosťou, no všade zbadala som zavčasu tú istú demenciu. I odhodila som každého prv,
+         ako by ma bol stihol pokoriť — a to bolo príčinou vášho morálneho gesta, hrdinovia!…
+   </p>
+   <p>
+    Vyhodila sa prudko z pohovky a akoby striasala zo seba všetko, čo ju dosiaľ mučilo,
+         vypäla hruď a postavila sa tesne predo mňa.
+   </p>
+   <p>
+    — Ani váš majster so svojou bibliou nebol lepší! A popasúc sa trochu nad mojím zdesením,
+         dodala: A či pán W-ski v Ríme, v poslednej chvíli, nekľakol razom predo mnou v prítmí
+         katakomb a nepokazil mi radosť našej spoločnej vychádzky?… A vy čo tu stojíte? — dýchla mi
+         rovno do tvári; jej oči spola hrozili, spola divo sa smiali. — Bežte, kým je čas a kým čary
+         Kirké nezačnú i na vás účinkovať. Choďte a príďte mi zajtra na stanicu povedať posledné
+         zbohom…
+   </p>
+   <p>
+    Rýchlo schytila moje líca do dlaní, primkla sa hruďou ku mne, vtisla mi podobne blesku
+         horúcou perou bozk na čelo a už ma i pratala von, a ja som viac vypadol, ako vyšiel na
+         ulicu. Zámka mi cvakla dva razy za chrbtom.
+   </p>
+   <p>
+    Von bola číra tma, hmla sadala a pouličné svetlá len kde-tu ešte blikali. Postál som,
+         hlava sa mi krútila a bol som viac mŕtvy ako živý. Čo sa to len porobilo so mnou? Cítil som
+         ešte pálčivú blízkosť — bozk pani Helène…
+   </p>
+   <p>
+    Ale majster? Neuveriteľné! Teda i on podľahol pokušeniu, taký svätý muž. A veď prečo ma
+         on v posledné časy, keď sa zavše všetci poberali do ateliéru k pani barónke, prestal
+         pozývať so sebou, alebo keď som ja ta šiel s ostatnými, prečo on mával vždy výhovorku
+         nejakej vykonávky inam? Bál sa o svoj nimbus v mojich očiach, a či o prísne morálne
+         stanovisko, ktoré do mňa vštepoval?
+   </p>
+   <p>
+    A teraz? Tak ako ostatní, i on musel zle pochodiť s čarovnou Kirké, preto jeho nečakaný
+         odchod z Florencie…
+   </p>
+   <p>
+    Z vtipov a narážok pána Z-ského mohol som už dávno vyrozumieť jemnú iróniu na majstrovu
+         ukrývanú srdcovú otázku a na moju slepú dôveru v neho.
+   </p>
+   <p>
+    — Keď som, — smial sa raz pri stole pán Z-ski, — modeloval bustu pani Helène,
+         načrtol som ju vo vkuse rokoka ako Dianu, hodne dekoltovanú. Váš majster, sotvaže zbadal
+         môj úmysel, bránil a dôvodil proti odhaľovaniu, a keď som ja len pokračoval, nechcel
+         napokon ani len pozrieť na moju prácu. A vidíte, predsa raz v nestreženej chvíli prichytil
+         som ho v ateliéri pri tom, ako mokré handry z hliny odstránil a ako si s úľubou prezerá
+         krásne modelované poprsie. Ó, tí svätí, to sú vám, pán M., najhorší…
+   </p>
+   <p>
+    Takto a podobne pán Z-ski často vtipkoval, ale že by na tom mohlo byť i kus pravdy, to
+         mi pri majstrovi nikdy na um neprišlo.
+   </p>
+   <p>
+    Nočný chlad začal ma prechodiť a ja pohol som sa ako stroj od barónkiných dvier, krátiac
+         si cestu krížom cez stromoradie Piazza Cavour. Tu razom z krajnej lavice zdvihla sa postava
+         a stúpila mi do cesty. Zastal som, a hľa, pán Z-ski.
+   </p>
+   <p>
+    — Boli ste tam akosi dlho, mal som čo čakať na vás! Nuž akože sa vám viedlo u nej,
+         dobre, čo?
+   </p>
+   <p>
+    V tej chvíli bol by som sa radšej so skutočným čertom stretol ako práve s pánom Z-skim.
+         Teda išiel za mnou, striehol na mňa a teraz je to tak, akoby i mňa bol pri niečom
+         prichytil… Len sám, len sám byť za každú cenu! No treba mu zreferovať hneď, čo ako krátko a
+         utajiť pred ním rozrušenie, ktoré vo mne buráca.
+   </p>
+   <p>
+    — Nuž, — vravím so strojeným zívnutím, — pani barónka nemá sa tak zle. Ale musím vám
+         povedať, že nemá veľmi lichotivú mienku o vás. Darmo by ste chceli naprávať, nenávidí vás
+         všetkých. Zajtra večer odchádza z Florencie.
+   </p>
+   <p>
+    — Teda tak? A zajtra že odchádza? Vicenzína spomínala síce odchod, ale nevedela kedy.
+         Teda zajtra, teda zajtra, — opakoval si zamyslene a umĺkol.
+   </p>
+   <p>
+    Boli sme doma, ja som sa poponáhľal bránu odomknúť a na chodbe som sa porúčal, že je
+         pozde, že som unavený a že však zajtra mu ešte podrobnejšie porozprávam.
+   </p>
+   <p>
+    — Dobrú noc, pán Z-ski.
+   </p>
+   <p>
+    Zavrel som sa do izby a vrhol som sa tak, ako som bol oblečený, na posteľ. V hlave mi
+         vírilo, privrel som oči a ležal nepohnute, celý zmorený. Ale nemal som pokoja, pochodil som
+         po izbe a znova ľahol na posteľ. I spal i nespal som; zdalo sa mi, že som ešte vždy v
+         ateliéri, že pani Helène plače a že jej nemôžem vidieť akosi do tvári. Ale veď
+         Vicenzína volá ma k panej. Kde? Nuž dolu, pod mojím oblokom. Vstávaj! Vyskočím, rozsotím
+         žalúzie obloka a nakláňam sa do tmavej noci, ale dolu nevidieť nikoho, je ticho, to sa mi
+         všetko len zdalo.
+   </p>
+   <p>
+    Vraciam sa na posteľ a zatváram nanovo oči. No, jednako mi niekto klope na dvere; teraz
+         je to určité.
+   </p>
+   <p>
+    — Kto to?
+   </p>
+   <p>
+    — Nespíte ešte? — volá hlas pána Z-ského pri dverách. — Prepáčte, chcem sa vás len
+         spýtať ešte, kam vlastne chce pani barónka cestovať?
+   </p>
+   <p>
+    — Povedala, že do Paríža.
+   </p>
+   <p>
+    — Tak dobre, ďakujem; rýchlik na Miláno, podvečer pozriem odchod a poviem vám ešte o
+         koľkej sa bude pohýnať.
+   </p>
+   <p>
+    — Prosím.
+   </p>
+   <p>
+    — Deväť tridsať, — hovorí o chvíľku pri dverách, — teda určite o pol desiatej odchodí
+         rýchlik odtiaľto… Ozaj, azda neviete, pán W-ski vrátil sa včera z Carrary; je zasa
+         ubytovaný v Hoteli Nazionale. Bude akiste prekvapený, keď pani barónku nenájde viacej vo
+         Florencii, čo? Teda dobrú noc?
+   </p>
+   <p>
+    Ale nepočul som ho vrátiť sa do jeho izby, išiel dolu schodmi, otváral a zamykal bránu,
+         teda išiel zasa preč. „Podivné,“ myslím si, „akiste nemôže usnúť.“
+   </p>
+   <p>
+    Zažal som a pozrel na hodinky; bolo už na pol piatu.
+   </p>
+   <p>
+    Spomienka na pána W-ského ma rozobrala. „No,“ myslím si ďalej, „dnes už nebudem spať,
+         umyjem sa radšej, preoblečiem a zídem i ja dolu.“
+   </p>
+   <p>
+    Ťahalo ma za pánom W-skim, bol mi vždy sympatický, vyhľadám ho hneď ráno, pohovorím si s
+         ním; on ma pochopí a možno, že podnikne niečo, aby pani barónku odvrátil od jej úmyslu; na
+         neho nemohla tak veľmi zanevrieť. I začal som sa chytro riadiť.
+   </p>
+   <p>
+    Keď som už hotový chytal kľučku a chcel odomknúť, počujem na schodoch znova vravu: pán
+         Z-ski vracia sa hore schodmi, a to ešte s niekým. Zašli do izby a keď bolo zasa ticho,
+         vyšiel som i ja bez hluku na ulicu. Koho to len priviedol so sebou?
+   </p>
+   <p>
+    Už sa rozodnievalo, ale do hotela za pánom W-skim bolo ešte zavčasu, a tak pobral som sa
+         najprv k dómu, kde práve začali zvoniť na ranné modlitby.
+   </p>
+   <p>
+    Kedykoľvek som v niektorej metropole, jej katedrála hrá vždy istý zástoj v dňoch môjho
+         tamojšieho pobytu. Ja mám totižto obyčaj, že koľko ráz prechodím za nejakou prácou mestom,
+         nikdy neobídem hlavný chrám; pokladajúc ho za veľkolepú pasáž, vstúpim doň postrannými
+         vchodom a po chvíli opačným vchodom zas vychodím a pokračujem v ceste. Tichosť veľchrámu je
+         mohutná protiva víru a chamtania ulíc, dnu kraľuje večnosť, stabilita, ktorá dnešnému
+         človeku tak bolestne chýba. Florentský dóm, Santa Maria del Fiori, bol jedným z takýchto
+         mojich útočíšť, kde pod klenbou majestátnej kupoly každé skrúšené srdce si musí vzdychnúť:
+         Čo sú, ó, bože, všetky naše drobné aféry pred tvárou tvojej veleby?
+   </p>
+   <p>
+    Vošiel som tam i v toto ráno a postál som tam cez celú omšu, opierajúc sa mimovoľne na
+         tom istom mieste, o mramorové zábradlie chóru, kde sme posledne s pani Helène už
+         raz stáli v jedno predpoludnie pri veľkej omši arcibiskupa-kardinála. O siedmej som išiel
+         do hotela a zaklopal na dvere pána W-ského. Bol už hore a keď mi otváral dvere, vítal ma
+         ako nejaké spasenie.
+   </p>
+   <p>
+    — Mladý človeče, som rád, že vás vidím prvého! Ja som vám v Ríme spáchal ohromnú
+         hlúposť. Ale sadnite si, prepáčte tento neporiadok. Už ste raňajkovali? Nie? No, to je
+         dobre; zajeme si hneď šunky, mám výbornú, a dáme si priniesť — čo by sa vám ľúbilo? Čaj?
+         Dobre, i ja tak.
+   </p>
+   <p>
+    Zazvonil a otvoril okno dokorán.
+   </p>
+   <p>
+    — Ja si trúfam už uhádnuť, pán W-ski, čo mi chcete povedať, — hovoril som bez
+         okolkovania hneď k veci. — Vy ste v Ríme vyznali lásku pani Helène a to sa vám, s
+         prepáčením, náramne čudujem, najmä vám.
+   </p>
+   <p>
+    — No, prosím, povedzte len smelo, pán M. Či ste kedy videli také hoviadko? Ale vy to
+         viete odkiaľ?
+   </p>
+   <p>
+    — Od samej pani Helène. Ponosovala sa mi, všetci ju zle chápete a vravela, že
+         ešte i vy ste nakoniec celkom pokazili spoločnú peknú vychádzku.
+   </p>
+   <p>
+    — Teda ona takto s vami hovorí? No, počujte, vy ste šťastný dôverník, to vám trochu
+         závidím.
+   </p>
+   <p>
+    — Úprimne povedané, pán W-ski, čudovať sa vám vlastne nečudujem, je na nej niečo, čo
+         pomúti každého na prvé stretnutie, ale ona je nevšedná, treba ju lepšie chápať, a čo v nej
+         stratíme všetci, to len teraz uvidíme, keď nám odíde.
+   </p>
+   <p>
+    — Odíde?
+   </p>
+   <p>
+    — No áno.
+   </p>
+   <p>
+    A začal som mu podrobne o všetkom rozprávať, čo sa vo Florencii prihodilo za ten čas,
+         kým bol v Ríme. Živo som mu vylíčil pravý charakter tejto ženy, verne mu podajúc celý svoj
+         rozhovor z minulej noci.
+   </p>
+   <p>
+    — Škoda, — dodal som na koniec, — že ste žiarlivosť ostatných pánov na vás svojou
+         nerozvažitosťou len utvrdili.
+   </p>
+   <p>
+    — A veď som sa ja hneď spamätal a prosil som ju o odpustenie, ale neboli sme už potom
+         osamote. Kňažná T. bola stále s nami v poslednej chvíli; potom sme cestovali naspäť a ja
+         som vec nechcel ďalej rozťahovať, mysliac si, že príde vhodnejší čas, keď ju budem môcť
+         celkom udobriť. Presadol som na križovatke do iného vlaku. Ale dnes musím ešte pred
+         odchodom s ňou hovoriť. Po tom všetkom, čo som tu počul od vás, hrozne ma mrzí tá vec. No,
+         sme pekná chasa! Všetci, tak ako sme, a majster Z. tiež, ale toho si už vonkoncom neviem
+         predstaviť ako obyčajného hriešnika…
+   </p>
+   <p>
+    Hovorili a rozoberali sme zvláštnu povahu našej dámy ešte dlho.
+   </p>
+   <p>
+    — Nie je možné, — vysvetľoval pán W-ski, — že by bola pani Helène nejako
+         abnormálna, žiari z nej pravý ženský magnetizmus — to nie je koketéria — v takej nevšednej
+         miere, že vidíte, ešte i taký človek ako ja — a skúsil som už všeličo — zhlúpol odrazu…
+         Vernosť k vzdialenému hrobu nemôže ostať večnou príčinou jej averzie, skôr to väzí v
+         nejakom momente, ktorý zažila v manželstve… Ten, ktorý by si teraz jej náklonnosť chcel
+         vydobyť, musel by ju obetavo milovať a musel by čakať, dlho čakať, až by nadišla šťastná
+         chvíľa, v ktorej by jej srdce prehovorilo a ona z vlastnej vôle by sa mu vrhla v náruč.
+   </p>
+   <p>
+    Medzitým sa doobliekal a vyšli sme obzrieť si ateliér, v ktorom teraz mal pracovať.
+         Vracajúc sa odtiaľ okolo obeda, zahli sme z Via Calsaioli popod Or’San Michele ku Caffé
+         Centrale, a tam našli sme sa zrazu zoči-voči s pánom Z-skim. A pri jeho boku kto tam?
+         Študent Koľa!
+   </p>
+   <p>
+    Zastal som sťa prikovaný. „Ako je možné?“ blyslo mi hlavou. „Koľa, s ktorým bolo len
+         nedávno toľko roboty, zasa vo Florencii? A práve v spoločnosti pána Z-ského? Ako sa ten z
+         Ruska dostal a čo tu zasa hľadá?“
+   </p>
+   <p>
+    Zastali sme práve pod Donatellovou sochou sv. Juraja a práve pod jeho výklenkom zastal
+         Koľa, takže počas hovoru i na neho i na sochu pozeral som odrazu. Bol som od tých čias ešte
+         zo tri razy vo Florencii, ale kedykoľvek sa približujem k tejto soche, vždy mám živú
+         halucináciu tohto ominózneho stretnutia. Stranou vidím ironickú grimasu satana Z-ského a
+         pod nohami sochy vidím Koľu. Tá istá hlboká brázda na mladom čele, tá istá zaťatosť pohľadu
+         a mlčanlivo zovreté pery. Ten istý bojovný rozkrok a to isté držanie rúk ako na soche, len
+         Juraj drží v rukách pavézu a mladík držal malú cestovnú tašku pred sebou.
+   </p>
+   <p>
+    Pán Z-ski predstavil chlapca pánu W-skému.
+   </p>
+   <p>
+    — Z rodiny pani barónkinej, — hovorí. — Bol už tu minulého leta, teraz cez štvrťročné
+         prázdniny prišiel nás pozrieť. Pravda, hľadal pani barónku ešte na starom byte; na šťastie
+         stretol som sa s ním, oddýchol si u mňa a teraz ideme sa zložiť do hotela.
+   </p>
+   <p>
+    — Teší ma, — hovorí pán W-ski. — To idete tadiaľto iste do Nazionale, áno? Budeme teda
+         pod jednou strechou. Do videnia!
+   </p>
+   <p>
+    „Teda toto bola tá nočná návšteva u pána Z-ského,“ myslím si. „Len tá náhoda stretnutia
+         musela byť vymyslená.“
+   </p>
+   <p>
+    Neskoršie som sa skutočne dozvedel, že Z-ski sa listovne nanovo vtrel do dôvery
+         chlapcovej, že ďalej roznecoval rafinovaným spôsobomi jeho náruživosť lásky k pani barónke
+         a že Koľa viac-menej s jeho vedomím zjavil sa medzi nami.
+   </p>
+   <p>
+    V kaviarni som sa rýchlo porúčal pánu W-skému.
+   </p>
+   <p>
+    — Pani barónka odchádza o pol desiatej, — vravím. — Nemyslím, že by ste mali prístup do
+         ateliéru, ale pokúste sa o to. Ak by vás komorná vonkoncom nevpustila, neráčte sa opozdiť k
+         vlaku. Ach, keby sa vám podarilo ju ešte v poslednej chvíli udobriť oproti nám všetkým — to
+         by bol hotový zázrak. Ja pôjdem na stanicu, ale teraz nevládzem už na nohách stáť, musím si
+         doma oddýchnuť. Do videnia!
+   </p>
+   <p>
+    Vyskočil som do tramvaje a doma som prikázal sluhovi, nášmu facchinovi, aby ma pred
+         deviatou zobudil. Nestačil som sa uložiť, už som i tvrdo zaspal.
+   </p>
+   <p>
+    Keď ma potom facchino s veľkou námahou prebudil, bola už noc. Vstal som a napochytro sa
+         umyjúc, pohádzal som šaty na seba a už som i bežal na stanicu, na ktorú som nemal ďaleko.
+   </p>
+   <p>
+    Na námestí pred stanicou narazil som na hotelový dostavník, v ktorom na moje veľké
+         začudovanie sedela v cestovnom úbore pani barónka i s Vicenzínou a čakala na odchod. Ale
+         kde? Bežím k vozu a medzitým zbadám na opačnom chodníku poniektorých z našej spoločnosti
+         nerozhodne postávať. Čo to všetko znamená, prečo nejdú dnu, na perón?
+   </p>
+   <p>
+    Zaklopem na sklo, pani Helène sa obráti; na tvári zračí sa jej vzrušenie a
+         hnev. Vybehne na nástup a rozčúleným hlasom mi hovorí:
+   </p>
+   <p>
+    — Povážte, pán M., opozdila som pre Vicenzínu rýchlik, miesto o pol deviatej priviezla
+         ma sem na pol desiatu; vlak mi pred nosom ušiel! Ateliér dala som dnes i so všetkým do
+         prenájmu tej plavej Američanke, ktorú ste u mňa vídavali, kľúče sú už odovzdané. Najbližší
+         vlak ide až ráno, musím ešte tu prenocovať; idem naspäť do hotela Nazionale.
+   </p>
+   <p>
+    I o tom som sa potom dozvedel, že toto meškanie vlaku tiež bolo len výčinom pána
+         Z-ského. Veď i mne povedal o celú hodinu neskoršie a iste tak i hlúpu Vicenzínu oklamal.
+         Ale prečo? Aby pani Helène ešte niekoľko hodín tu zdržal? Načo?
+   </p>
+   <p>
+    Hotelový sluha prišiel sa pokloniť a prosil o vstúpenie.
+   </p>
+   <p>
+    — Je čas, — hovorí pani Helène, — musím sa zasa čím skorej zavrieť, lebo vaši
+         páni ma tu akosi obliehajú. Vidíte ich tam?… Pán W-ski nech odpustí, že som ho viacej
+         nemohla prijať; na jeho riadky mu odkazujem, že odpúšťam úplne a na znak toho prijímam
+         kyticu, ktorú mi poslal… Lascia vedere, Vicenzína, — vraví komornej.
+   </p>
+   <p>
+    A naozaj videl som v rukách dievčaťa krásne biele ruže, ktoré v tom čase i v Taliansku
+         museli byť vzácnosťou.
+   </p>
+   <p>
+    — Povážte ešte: i Koľa sa zjavil dnes vo Florencii a dobíjal sa mi do ateliéru. Keby
+         nebola bývala práve miss Smithen so svojím bratom u mňa, neviem, či by sme si boli mohli
+         dať rady s ním. Je strašný.
+   </p>
+   <p>
+    — No neviem, pani, či ho ešte nestretnete, veď i on je ubytovaný v hoteli Nazionale.
+   </p>
+   <p>
+    — Už je darmo, — usmiala sa, — už tu sedím, uvidíme… A teraz, milý Slováčik, —
+         pokračovala pokojnejším hlasom a uprela svoj známy sladký pohľad na mňa, — rozlúčme sa.
+         Ďakujem vám za všetko, priateľu, boli ste dobrým chlapcom.
+   </p>
+   <p>
+    Vicenzína podala jej neveľký balíček.
+   </p>
+   <p>
+    — A hľa, toto berte na pamiatku, je to váš vianočný darček, ktorý som vám z rímskej
+         cesty obecala. Možno, že sa ešte stretneme niekde, áno?
+   </p>
+   <p>
+    A mesmerizujúc ma stále svojím zvláštnym ľúbostne upätým pohľadom spod obočia, začala
+         rozpínať rukavičku a pomaly dvíhať k mojim ústam.
+   </p>
+   <p>
+    Chvejúcou rukou podňal som poloobnaženú rúčku a vpil sa do vonného zápästia vrúcim,
+         plným úcty poľúbením.
+   </p>
+   <p>
+    — Pani Helène… — chcel som potom hovoriť, ale ona len kývla, pružne vyskočila,
+         sluha zachlopil dvere za ňou a voz sa rozbehol do tône bočnej ulice.
+   </p>
+   <p>
+    Viacej som jej živej nevidel, lebo krátko po tom, čo sme sa rozlúčili, bola mŕtva.
+   </p>
+   <p>
+    Čo a ako sa prihodilo toto hrozné nešťastie, o tom mi je ťažko rozprávať, a keď obraz
+         tento, ktorý ma ešte i dnes po toľkých rokoch desí, nedomaľujem, mnohí iste mi to budú môcť
+         odpustiť. Náruživosť lásky a vraždiaca zbraň je všednosťou, ktorá sa na tomto svete opakuje
+         čo deň…
+   </p>
+   <p>
+    Keď dostavník s pani Helène zmizol za uhlom a ja som sa podíval v tú stranu,
+         kde do posledku sa mi zdalo rozoznávať hlúčok našich známych, ku ktorým som sa teraz chcel
+         pripojiť, nebolo ich už tam. Vstúpil som teda na stanicu pozrieť si odchod vlakov, lebo keď
+         som sa už i rozlúčil, predsa som chcel byť pri konečnom odchode pani barónkinom, čo i bez
+         stretnutia.
+   </p>
+   <p>
+    „Vezmem si zavčasu vstupenku na perón,“ tak som hútal, „a tam už nájdem nejaký kútik, z
+         ktorého ju ešte raz budem môcť vidieť.“
+   </p>
+   <p>
+    Išiel som potom ulicami vláčnym krokom, s rozrušenými myšlienkami. V Ristorante
+         Montenegro, kde som sa automaticky našiel, tiež nebolo viacej nikoho z našej spoločnosti. A
+         hoci ma niečo nutkalo ísť ich hneď pohľadať, alebo zájsť rovno do Hotela Nazionale, hoci za
+         pánom W-skim, jednako som si len sadol. Samota, skoro prázdny lokál bol mi po vôli. Kázal
+         som si podať víno. Chutilo mi v tejto chvíli nezvyčajne; vypil som pohár a nalial si hneď
+         druhý. Potom som rozbalil darček so zvedavosťou a hľa, vkusná fotografia pani
+         Helène od Alinariho, vpravená do pekne vyrezávaného alabastrového rámika. Postavil
+         som si podobizeň pred seba na stôl. Jesť sa mi nechcelo, upíjal som ďalej blahorodé víno
+         Chianti s dychtivým smädom, nemiešajúc ho s vodou, ako sme to vždy robievali podľa
+         talianskeho zvyku.
+   </p>
+   <p>
+    Sandro, zvedavý na obrázok, priplichtil sa k stolu, a keď poznal pani Helène,
+         živo zvolal:
+   </p>
+   <p>
+    — Eh! La baronessa! É bella signora, ma, povera, sta sera e partita via!
+   </p>
+   <p>
+    — Si, si, — odpovedám mu, nechcejúc sa púšťať s ním teraz do veľkých hovorov, a keď som
+         videl, že hostinec je už úplne prázdny, dopil som a zaplatil mu. Ísť či nejsť za ostatnými?
+         Azda nájdem niekoho v Caffé Centrale? Von bolo nepríjemne, prizimilo sa, a keď som bol pri
+         svojej bráne, išiel som hore: však dosť času ešte rozhodnúť sa na niečo.
+   </p>
+   <p>
+    Podobizeň postavil som si do svetla na kozub, priložil na pahrebu nové polená a sadol
+         som si so zvláštnou nerozhodnosťou v srdci k ohňu. Akoby som mal jednako len niekam ešte
+         ísť, alebo akoby som čakal, že niekto ešte po mňa príde. Bol som ukonaný, a jednako som
+         nemal spánku, niečo sa vo mne neprestajne zachvievalo a akoby všetko, izba, chodba, celý
+         dom, v tom tichu bolo nejakým zvukom, nejakým pohybom naplnené.
+   </p>
+   <p>
+    „O štvrtej ide rýchlik,“ myslím, „ona pocestuje. Teraz je jedna preč, no to sa už chytro
+         minie, pôjdem včaššie a uvidím ju ešte…“
+   </p>
+   <p>
+    Tu zaprašťalo v kozube, ako keby niekto prihodil zrazu suchej čečiny na oheň; skočil som
+         na rovné nohy a vytreštil oči v smere podobizne.
+   </p>
+   <p>
+    — Aké to ľakanie, — šomrem polohlasom, — nervy? Mnoho vína som popil bez zajedenia, to
+         bude to. Mal by som sa jednak len pohnúť. No na stanicu je ešte privčas a do mesta sa mi už
+         viacej nechce ísť…
+   </p>
+   <p>
+    Vzal som teda zo stola rozčítanú novú knihu od D’Annunzia. On bol vtedy v zenite slávy a
+         bol tiež vo Florencii; bol som zvedavý, proboval som sa teda rozptýliť.
+   </p>
+   <p>
+    Išlo to, čítal som dlho. Dočitoval som práve kapitolu, v ktorej Chiméra tichým hlasom
+         opakuje:
+   </p>
+   <p>
+    „Počuj ma, mládenec, počuj ma. Chceš milovať ako nejaký boh?“
+   </p>
+   <p>
+    „Milovať?“ odpovedá hrdina románu. „Koho? Ženu? Ktorú? Posledná zdá sa mi byť vzdialená,
+         stratila sa, umrela. A ostatné? Zdajú sa mi byť ešte ďalšími, navždy mŕtvymi…“
+   </p>
+   <p>
+    Vtedy počujem zdola rýchle kroky hore schodmi, chodbou. Dvere sa bez klopania rozletia a
+         v nich sa zjaví náš facchino, vrátivší sa z nočnej vychádzky, a rozrušene volá:
+   </p>
+   <p>
+    — La signora Polaccha e assassinata!…
+   </p>
+   <p>
+    — Assassinata?
+   </p>
+   <p>
+    — E morta!
+   </p>
+   <p>
+    Klesol som s výkrikom.
+   </p>
+   <p>
+   </p>
+  </body>
+ </tei:text>
+</tei:TEI>

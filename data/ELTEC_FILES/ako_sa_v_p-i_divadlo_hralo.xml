@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012365" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Ako sa v P......i divadlo hralo : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:42640171">
+     Maršall-Petrvoský, Gustáv (1862-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     1415
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:42640171">
+      Maršall-Petrvoský, Gustáv (1862-1916)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Ako sa v P......i divadlo hralo
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     AKOSA V P......I DIVADLO HRALO
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Bola pekná ako Vajanského Rybárička, no omnoho hlavatejšia.
+   </tei:p>
+   <tei:p>
+    Vlastne nebola ona vinou toho. Ju maznal osud, keď obdaril ju pô-
+      vabným zovňajškom, peknými vlohami, a maznal ju i svet, keď mlčky
+      klonil sa jej vlastnostiam. Rovno takým spôsobom stala sa teda hlavatou
+      ako dieťa: z ľuľkania, maznania abstrahovala si vôľu pre prípady, keby
+      ono prestalo.
+   </tei:p>
+   <tei:p>
+    A Olga Pazovská byť spokojná so svojím osudom: v malom síce kru-
+      hu, no absolútne panovala.
+   </tei:p>
+   <tei:p>
+    No pretože sú, ako je známe, všetci ľudia nie jednakí, vyskytol sa člo-
+      vek, ktorý nijak nechcel uznať jej všemohúcnosť.
+   </tei:p>
+   <tei:p>
+    A ten jedinák bol jej práve najmilší.
+   </tei:p>
+   <tei:p>
+    Stalo sa to pred troma rokmi. Svet len oči otvoril, keď počul, že je
+      pomeru Ivana Bóľovského a Oľgy Pazovskej - koniec. Prečo, začo? - há-
+      dalo sa po blatnavých dedinkách. Potom sa dozveddli.
+   </tei:p>
+   <tei:p>
+    Ivan Bóľovský, dokončil teóriu právnického štúdia, nechcel sa dať
+      na odvislú štátnu službu, a Olga Pazovská chcela sa len za sudcu vy-
+      dať.
+   </tei:p>
+   <tei:p>
+    Nuž a pretože „kosa padla na kameň, šiel mladý Bóľovský doktoráty
+      skladať, a Oľga Pazovská pojala si onedlho sudcu za muža.
+   </tei:p>
+   <tei:p>
+    Teraz sedia vedľa seba.
+   </tei:p>
+   <tei:p>
+    Bóľovský práve dokončil štúdiá a Oľga je už od dvoch rokoch vdova
+      po kráľovskom sudcovi Horskom.
+   </tei:p>
+   <tei:p>
+    Komické je to konečne dosť. Starká pani Rezniečková, obom tetka po
+      matkách, zato ironicky poznamenala svojmu mužovi:
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Vidíš, Janko, tých dvoch musím spolu posadiť. Neviem, kedy vypuk-
+      ne požiar, dobre je teda, aby sa pospolu mali, keď si okolo krku padnú,
+      lebo ináč by mi service do nebezpečenstva prišiel.“
+   </tei:p>
+   <tei:p>
+    Ktomu však neprišlo, nie že by snáď na dobrej vôli bolo chýbalo, ale
+      item smelosť bola v malej dóze zastúpená. On nazdal sa, že sa ona hnevá
+      — a ona mala zlé svedomie. Sedela na nízkej chaise longue a nahlas čítala
+      priateľkám vzletný úvodný článok Národných novín „O prostriedkoch
+      šírenia národného povedomia.“
+   </tei:p>
+   <tei:p>
+    „Vidíš, Ivan,“ riekla k Bóľovskému, keď dokončila čítanie, „i Národnie
+      mi za pravdu dávajú, že sa národné povedomie i divadelným predstave-
+      ním utužuje a rozširuje.“
+   </tei:p>
+   <tei:p>
+    „A tvrdil som ja protivu?“ pýtal sa Bóľovský.
+   </tei:p>
+   <tei:p>
+    „To práve nie, ale keď moje podujatie cieľom zariadenia ochotníckeho
+      predstavenia podporovať nechceš, nuž znamená to málo menej,“ vetila
+      Oľga.
+   </tei:p>
+   <tei:p>
+    „Znamená práve len toľko, že ho podporovať nemôžem. Však vieš,
+      že otec nástojí, aby som do cudzozemska šiel,“ pokojne odpovedal Bó-
+      ľovský.
+   </tei:p>
+   <tei:p>
+    „Nuž ale, keď vieš, žebez teba nemôžeme sa zaobísť, prečo by si tomu
+      cieľu tých pár dní venovať nemohol?“
+   </tei:p>
+   <tei:p>
+    Bóľovský nevšimol si otázky - preberal sa v albume.
+   </tei:p>
+   <tei:p>
+    „Snáď láka dačo? Do cudzozemska pôjde sa cez Pešť a tam staré zná-
+      me, vrelé uvítanie: nie, pán brat?“ škádlila ho mladá vdova.
+   </tei:p>
+   <tei:p>
+    Bóľovský mrzuto pozeral na ňu.
+   </tei:p>
+   <tei:p>
+    „Človek sa ta túli, kde ho radi majú, a ty byv mala najlepšie vedieť, že
+      ma sem nič nepúta. Nudím sa tu!“ odvetil zaklopiac knihu.
+   </tei:p>
+   <tei:p>
+    Oľginu tvár zalial rumenec.
+   </tei:p>
+   <tei:p>
+    „Nuž to je isté, že v Pešti hrať nemôžeme a ani tie, čo ťa „rady majú,
+      sem priviesť nemožno,“ žartovala.
+   </tei:p>
+   <tei:p>
+    Bóľovský sa zasmial.
+   </tei:p>
+   <tei:p>
+    „Pretože ale hrať musíme,“ pokračovala Oľga „nájdeme i spôsol
+   </tei:p>
+   <tei:p>
+    Oprela hlávku o ruku a rozmýšľa, ani čo by sa pánboh vie oakú
+      vec bolo jednalo.
+   </tei:p>
+   <tei:p>
+    Bóľovský sa prechádzal po izbe.
+   </tei:p>
+   <tei:p>
+    „Počuješ, Ivan! Pristaneš na čaru?“ pýtala sa ho zrazu Olga.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Na akú čaru?“
+   </tei:p>
+   <tei:p>
+    „Nuž - ja prevezmem na ten čas, kým predstavenie uskutočníme, sta-
+      rať sa o to, aby si sa „nenudiľ u nás. Treba je teda, aby si sa len túlil,“
+      vysvetľovala Olga.
+   </tei:p>
+   <tei:p>
+    Celá spoločnosť sa dala do smiechu, i sám Bóľovský nevedel sa zdržať.
+   </tei:p>
+   <tei:p>
+    „A akože počneš povinnosť plniť? V čom dáš tú svoju nekonečnú lás-
+      ku najavo?“ pýtal sa jej trochu rozčúlene.
+   </tei:p>
+   <tei:p>
+    Olga bola v zmätku.
+   </tei:p>
+   <tei:p>
+    „Rozumej ma. Nie nekonečnú, ba v deň predstavenia končiacu lásku
+      ti núkam. Potom máš zas Peštianky,“ odpovedala uštipačne.
+   </tei:p>
+   <tei:p>
+    „Ako vidím, si o tú vec veľmi zaujatá: ohromné obete donášaš,“ po-
+      smešne hovoril Ivan, prechádzajúc sa po izbe.
+   </tei:p>
+   <tei:p>
+    O chvíľu zastavil sa pri Olge.
+   </tei:p>
+   <tei:p>
+    „Vieš čo, Olga. Budem vám teda riaditeľom, šepkárom, hercom a čím
+      len chceš, ale pod výnimkou.“
+   </tei:p>
+   <tei:p>
+    »„A tá znie?“
+   </tei:p>
+   <tei:p>
+    „Ak ma po predstavení pred celým publikom pobozkáš!“
+   </tei:p>
+   <tei:p>
+    Spoločnosť sa smiala nápadu a Oľga váhala.
+   </tei:p>
+   <tei:p>
+    „Tak, to je teda tá obetavosť národná? Inak neostaneš?“ pýtala sa ho
+      pritlmeným hlasom.
+   </tei:p>
+   <tei:p>
+    Bólovského bodla výčitka - no neustúpil.
+   </tei:p>
+   <tei:p>
+    „Nie - neostanem. Voľsi!“
+   </tei:p>
+   <tei:p>
+    Hlavatá národovkyňa povzniesla sa nad slušnosť.
+   </tei:p>
+   <tei:p>
+    „Teda ťa bozkám,“ riekla pevne a podala mu ruku.
+   </tei:p>
+   <tei:p>
+    Bólovský takmer z kože vyskočil, a prirodzená vec, rád by bol hneďi
+      závdavok na zmluvu dostať. Toho sa mu však nedostalo.
+   </tei:p>
+   <tei:p>
+    „Ja ti neujdem do cudzozemska,“ odpovedala mu položartom, polo-
+      vážne.
+   </tei:p>
+   <tei:p>
+    („Veď sa žena nehnevá na mňa, ako som si myslel.“)
+   </tei:p>
+   <tei:p>
+    Druhý deň počala sa práca. Úlohy sa odpisovali, robilo sa javisko
+      a ozdoby do neveľkého teremu Slamkovho hostinca.
+   </tei:p>
+   <tei:p>
+    Mohlo sa to síce všetko dať remeselníkom - potom by ale nemalo vraj
+      tej ceny. Obrazy, zrkadlá požičala inteligencia a pekné biele ruky robili
+      vence a kokardy na ne. Bóľovský upotrebil slobodného času k využitko-
+      vaniu patentu.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Sedeli pri piane a hrali. Ivan pretrhol hru a chytil Oľginu ruku.
+   </tei:p>
+   <tei:p>
+    „Vidíš, Olga, nič si mi nepovedala. Bola si šťastná za ten rok?“ (Myslel
+      rok jej manželstva.)
+   </tei:p>
+   <tei:p>
+    Olga kývla plecom a ľavou rukou silno brala basové akordy. Do očú
+      vkradla sa jej slza.
+   </tei:p>
+   <tei:p>
+    Bólovský čakal na odvetu.
+   </tei:p>
+   <tei:p>
+    Potriasla hlavou.
+   </tei:p>
+   <tei:p>
+    „Nie! Nešťastná som bola,“ odpovedala zvlneným hlasom.
+   </tei:p>
+   <tei:p>
+    Na to slovo bozkal jej pravicu.
+   </tei:p>
+   <tei:p>
+    „Teší ťa to?“ pýtala sa s výčitkou.
+   </tei:p>
+   <tei:p>
+    „Áno!“ odpovedal a pritisol ju k sebe, pobozkal jej smutnú tvár.
+   </tei:p>
+   <tei:p>
+    Slzy jej vyhékli. Pružne vytrhla sa mu z ramien.
+   </tei:p>
+   <tei:p>
+    „Tosom ti nedovolila: ponechaj si to pre Pešť,“ riekla zlobne a vyšla von.
+   </tei:p>
+   <tei:p>
+    Bólovskému sa ale vzdor podobným zlobám páčil svet: bol by ho celý
+      objal.
+   </tei:p>
+   <tei:p>
+    Večer pred predstavením našiel ju v záhrade.
+   </tei:p>
+   <tei:p>
+    Sedela s mračnou tvárou na lavici, držiac v ruke svoju úlohu.
+   </tei:p>
+   <tei:p>
+    Bólovský si sadol k nej.
+   </tei:p>
+   <tei:p>
+    „Olga, vieš, že neľutujem, že som ostal?“ pýtal sa jej posmešne.
+   </tei:p>
+   <tei:p>
+    Ona mlčala.
+   </tei:p>
+   <tei:p>
+    „A ešte zajtra, po predstavení. Budú že mi závidieť ten bozk...! Alebo
+      si snáď oľutovala daný sľub?“
+   </tei:p>
+   <tei:p>
+    „Nie, - splním ho. Veď ho musím splniť - ale potom...,“ nedokončila
+      vetu.
+   </tei:p>
+   <tei:p>
+    „Čo potom?“
+   </tei:p>
+   <tei:p>
+    Neodpovedala mu.
+   </tei:p>
+   <tei:p>
+    „Vidíš, Olinka, zaslúžiš ten trest. Vieš, čo to znamená, tri roky žiť vtme,
+      keď predtým žila si v svetle? A ja som tak! Tri roky si mi zo života vyr-
+      vala - ai tysi bola nešťastná. A prečo?“ pýtal sa jej s bôľnou výčitkou.
+   </tei:p>
+   <tei:p>
+    Olginou tvárou zrkadlili sa city: sprvu radosť - potom žiaľ. Plesala, že
+      muž, ideál jej lásky, nezmenil svoje city, a žialila za rokmi, ktoré svojmu.
+      malichernému vrtochu obetovala.
+   </tei:p>
+   <tei:p>
+    Chytila mu ruku a milostne, žiaľne zrela do jeho očú.
+   </tei:p>
+   <tei:p>
+    „A či ďalej tak?“ pýtal sa Ivan, „Dala si lehotu dozajtra. Prečo nie i
+      naďalej - donekonečna. Veď v láske môžeš u mňa len seba samu zastu-
+      povať: ja nepremenil som svoje city. A ty, Olinka?“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Položil svoje ruky na jej ramená a tak čakal jej odvetu. Jej tvárou tiekli
+      slzy.
+   </tei:p>
+   <tei:p>
+    „Nie, - nie som ťa hodna,“ štkala bolestne a túlila sa k jeho prsiam.
+   </tei:p>
+   <tei:p>
+    „Že či hodna?!“ vykríkol Ivan a náruživo vybozkával krásne žieňa.
+   </tei:p>
+   <tei:milestone rend="stars" unit="subchapter"/>
+   <tei:p>
+    A druhý deň hralo sa divadlo. Poslucháči boli prekvapení rutinou, kto-
+      rou pani Horská svoju úlohu hrala: bedliví pozorovatelia mohli však ba-
+      ť, že čím ďalej ku koncu, tým horšie hrá.
+   </tei:p>
+   <tei:p>
+    Chudera mladá žena mnoho vytrpela počas predstavenia. Ona ľúbila
+      celým ohňom svojej náruživej povahy Bóľovského, a práve preto obano-
+      vala sľub svoj.
+   </tei:p>
+   <tei:p>
+    „Veď ho musím splniť - - ale potom...“ vravela včera Ivanovi. Dopl-
+      nokby bol „... potom ťa nechcem, lebo dovolil si, aby som sa znížila, aby
+      sa na doživotný terč dedinských pletích postavila.“
+   </tei:p>
+   <tei:p>
+    Čas bežal, prišiel i koniec krátkej veselohry.
+   </tei:p>
+   <tei:p>
+    Opona spadla a zas sa vytiahla.
+   </tei:p>
+   <tei:p>
+    Na javisku stál Bóľovský a čakal na odmenu.
+   </tei:p>
+   <tei:p>
+    Olga spoza kulís zopäla ruky k nemu, potom neistým krokom, s ble-
+      dou tvárou vystúpila na dosky.
+   </tei:p>
+   <tei:p>
+    Bóľovský sa usmieval, ona sa na celom tele triasla.
+   </tei:p>
+   <tei:p>
+    Obecenstvo napnute pozorovala.
+   </tei:p>
+   <tei:p>
+    Bóľovský poloomdletú chytil za ruku.
+   </tei:p>
+   <tei:p>
+    Spoza kulís ako na znak vystúpili ochotníci.
+   </tei:p>
+   <tei:p>
+    Jeden z nich postavil sa k B: ému a nahlas hovoril:
+   </tei:p>
+   <tei:p>
+    „V mene ochotníckeho družstva mám česť veľactenému obecenstvu
+      oznámiť, že“ — pozrel na bledú Olgu, - „sme sa uzhodli pred svadbou
+      nášho ochotníckeho riaditeľa, pána Bóľovského s pani Horskou, a síce
+      dňa 24. októbra ešte jedno predstavenie zariadiť - ku ktorému sa veľa-
+      ctené obecenstvo týmto ústne povoláva!“
+   </tei:p>
+   <tei:p>
+    Opona rýchlo padla.
+   </tei:p>
+   <tei:p>
+    Obecenstvo bolo náramne prekvapené, lebo veď sľub Olgin presiakol
+      i do verejnosti.
+   </tei:p>
+   <tei:p>
+    Jedni, poťažne jedny robili dlhé tváre: druhí volali ochotníkom „živili!“
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Za oponou ovila mladá vdova svoje biele ramená okolo šije pána di-
+      rektora a povďačne bozkala jeho usmiate pery - a to nielen raz, ako to
+      sľúbila.
+   </tei:p>
+   <tei:p>
+    Takto, hľa, hralo sa u nás divadlo!
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

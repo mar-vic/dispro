@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1956282" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Vohľady : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:30914947">
+     Čajak, Ján [Aliquis] (1863-1944)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     6458
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:30914947">
+      Čajak, Ján [Aliquis] (1863-1944)
+     </tei:author>
+     <tei:title>
+      Vohľady
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské vydavateľstvo krásnej literatúry
+     </tei:publisher>
+     <tei:date>
+      1956
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Vohľady
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <body xmlns="http://www.tei-c.org/ns/1.0">
+   <div type="chapter">
+    <head>
+     I.
+    </head>
+    <head>
+     Obrázok z banátskeho života.
+    </head>
+    <p>
+     Nebolo na široko-ďaleko vzácnejšej vdovičky, ako bola ňaňa Mara. Vzdor tomu, že sa klonila
+      už k šiestim krížikom, bola ona ešte herská osôbka. Okrúhla ani guľka, pritom zhovorčivá,
+      čistotne sa držala, a čo je najhlavnejšie, svoj vdovský chlieb už od mnohých rokov bez
+      reptania v tichosti a v pokoji zažívala. Radi ju mali všetci, čo ju len poznali, bo bola ona
+      dobrosrdečná; rada i poradila i pomohla, kde mohla. Rada sa zasmiala na žarte a i ona rada
+      kedy-tedy urobila nevinný žart. Povrávalo sa, že jej muž nebol dobrý, bo píjal a pritom ju i
+      bíjal. No ona zriedkakedy spomla si muža a keď ho i pripomla, nikdy nevravela o ňom zle. Od
+      smrti mužovej ona prevzala maličké gazdovstvo. Syn jej sprvu sluhúval, potom sa oženil. Keď
+      prišli vnúčence, nuž ona s radosťou a láskou ich opatrovala.
+    </p>
+    <p>
+     Ale bola ona i tŕňom všetkým vdovcom jej veku, áno, i starším, a veru nejeden si
+      zavzdychol, keď ju videl. Raz išla po ulici práve do sklepu, keď ju stretol báťa Mišo Sochár.
+      Ako ju zazrel, vystrel svoje šesťdesiatročné kríže, aby sa zdal mladším, i odkašlal si v
+      nesnádzach, — dáko mu vyschlo hrdlo, — a ľúbezným hlasom prihovoril sa k nej:
+    </p>
+    <p>
+     — Kdeže sa tak ponáhľaš, Mara? — Pritom si vzdychol, ako by mu cent železa bol spadol z
+      hrudi.
+    </p>
+    <p>
+     — Ale, nuž idem do sklepu. Minul sa nám olej. Nevesta, tá nestačí, tak, reku, idem ja a
+      odmením ju, — a už kráča bystrým krokom ako mladica, zem až dunie pod ňou tak, že báťa Mišo
+      musel hodne popchnúť, aby vedel s ňou krok držať.
+    </p>
+    <p>
+     — A si sa ešte nevydala? — prihovára sa jej.
+    </p>
+    <p>
+     — Za koho? Keď ma nikto nechce! — zasmiala sa pritom, až sa jej neobyčajne zachované biele
+      zuby zaleskli a podbriadka zatriasla.
+    </p>
+    <p>
+     — No, či ju vidíš, že vraj za koho? Len by si chcela, dosť by ich bolo! Ľaľa, aj Paľo
+      Vrátny je už vdovcom a je veru gazda. Má zem, dom i kone, — bola by si gazdinou, — zagánil
+      pritom bokom po nej, čo ona na to.
+    </p>
+    <p>
+     — A čo, či som i teraz nie? Či nemám dom i zemičku? Dajtimibože! Cudzie kúty zametať,
+      cudzie deti opatrovať — nie je to žiadna lakota!
+    </p>
+    <p>
+     — Hm, hm! — oddŕha báťa Mišo, — a ja reku — nuž hľa — Hospodin ti vezme ženu. Dosť som sa
+      jej naopatroval, po doktoroch navozil, a to všetko nadarmo. A teraz som sám. Veď vieš, dom mám
+      taký, aký len môže byť, nový. Ale čože mi je z neho, keď som v ňom sám. Veď vieš, nemá ma kto
+      ani oprať ani obšiť ani sa mi prihovoriť. Nevesta? Tá, vieš, s mužom vo dvore v chyžke býva…
+      Nemá mi kto ani uvariť. Hľa, musím si sám. A veru jesto z čoho, lebo som, hľa, práve na
+      Ondreja päť takých, ale ozaj podarených bravov zaklal. Nuž ale čo, keď ti samotnému ani to
+      nejde k osohu. Eh! Nie je dobre človeku samotnému! — poškriabal sa a pozrel na ňaňu Maru.
+    </p>
+    <p>
+     Práve vtedy prišli ku sklepu.
+    </p>
+    <p>
+     — No, čo myslíš? — doložil, keď ňaňa Mara na jeho reči mlčala.
+    </p>
+    <p>
+     — Čože by som? Nuž ožeňte sa, čože budete? — a vošla do sklepu.
+    </p>
+    <p>
+     Báťa Mišo zašomral si niečo popod nos, obzrel sa kradmo za ňou.
+    </p>
+    <p>
+     — Hm, hm! Keby len taká hrdá nebola, — šomre si. — Hm! Či ti povie niečo, a vie, kde
+      kosím. Ale predsa, ako čo by bola inak hovorila ako predtým, ktože to vie? — a išiel svojou
+      cestou.
+    </p>
+    <p>
+     Už sa mrkalo, keď sa navracal domov. Idúcky bolo mu treba ísť popri švagrovom dome, ktorý
+      býval neďaleko od neho. V myšlienkach ponorený už by ho bol takmer prešiel, keď tu počuje
+      sestrin hlas:
+    </p>
+    <p>
+     — Báťa Mišo, báťa Mišo! — (Mladší starším bratom alebo sestrám dvoja.)
+    </p>
+    <p>
+     Zastal.
+    </p>
+    <p>
+     — Kde si bola, sestra Zuza? — spytuje sa jej.
+    </p>
+    <p>
+     — Bola som len u susedov, či majú čerstvý koborec,
+     <ref target="ftn.id2523023">
+     </ref>
+     chceme piecť zajtra chlieb. Tak reku, či by nám nepožičali do kvasu. A vy ste kde
+      boli?
+    </p>
+    <p>
+     — A ver’ som ti ja bol v obecnom dome porciu platiť. Teraz je tretí kvartál, tak som šiel,
+      aby viac nenarástlo, lebo to tam, vieš, hneď ti prirátajú či na exekúciu, či na úroky. Tam som
+      sa zišiel s kmotrom Steblom. Už sme sa dávno nevideli, nuž sme išli Jožka vidieť na pohár
+      vína. Tam sme sa trošku pomeškali a teraz, hľa, idem domov si niečo uvariť na večeru…
+    </p>
+    <p>
+     — Tak len sami?
+    </p>
+    <p>
+     — A čo môžem, keď mi je takto lepšie…
+    </p>
+    <p>
+     — Ale by vám predsa bolo lepšie, keby ste sa oženili.
+    </p>
+    <p>
+     — Nuž veď hovoríš niečo, ale… — tu zastal, keď videl, že Erža Kršniačka nazíza v uličných
+      dverciach.
+    </p>
+    <p>
+     — Poďte troška k nám, — volá ho sestra, keď i ona zbadala nevolaného svedka.
+    </p>
+    <p>
+     — Veď ale sa zameškám, — odvetí tento.
+    </p>
+    <p>
+     — Ale veď vám nehorí robota. A čo len trocha tej večere, to môžete i u nás. Navarila som,
+      hľa, bôbu za plný hrniec s bravčovými rebrami, i kúsok chrbtiny som doložila, tak máme dosť.
+      Veď u nás je nie bohvie aké veľké družstvo.
+    </p>
+    <p>
+     — Konečne, keď si už tak naválila, nuž nedbám, — odvetil vstupujúc do dvora.
+    </p>
+    <p>
+     Jeho švagor Adam Mostík otriasal zo seba steblá slamy, ktoré mu pri skladovaní do stohu
+      zostali na šatách. Celý deň totiž vozil slamu z blízkej pri dedine role, kde v lete bol na
+      mašine mlátil, a tam bol i stoh zložil, a teraz ju zvážal domov na zimu, kým je cesta dobrá,
+      aby ju mal naporúdzi, keď ju bude potrebovať či pre krm alebo na stelivo a i na kurivo. Syn
+      Jano, ten ešte stál navrch stohu. Oprával ho vidlami, pozeral, či je dorovna, hladil ho, aby
+      nebol veľmi kuštravý; jedným slovom, aby bol taký, ani čo by ho tokár vytočil, lebo veru je to
+      nie maličkosť vedieť pekný stoh naložiť. A to je veľká hanba, kto nevie. Toho za dobrého
+      sedliaka nik nebude držať. Čože najprv udrie do očí, ak nie stoh vo dvore a kopy šúšťa? Len čo
+      pozrie taký kmotor, svat alebo sused, už hneď odhadne na prvý pohľad, čo je nie v poriadku.
+    </p>
+    <p>
+     — Pán boh daj dobrý večer! — zvolal vstupujúc švagrovi.
+    </p>
+    <p>
+     — Pán boj daj i tebe, švagre! — zavolal tento naňho. — Prišiel si nás vidieť?
+    </p>
+    <p>
+     — Teraz idem z dediny, tak som sa zastavil.
+    </p>
+    <p>
+     — Dobre si urobil. No, prejdime dnu. A ty, Jano, ponúkni ešte tie kone, či nebudú piť,
+      bohvie, čo sa im stalo. Obyčajne píjajú tam von na poli zo studne, a teraz sme im tam i
+      ponúkali, ale len čo si papule trocha omočili, už nechceli. Čože? Vypiješ si trocha páleného?
+      — a nečakal ani odpoveď, už vzal fľašu a tekvičku a šiel vytiahnuť z okovnáka slivovice.
+    </p>
+    <p>
+     — Veď si ho ešte ani neokúsil, — pokračoval v hovore, keď sa vrátil z komory. — Viem, že
+      sa ti bude páčiť. Je dva razy prepekané. A ja som sám bol tam. Ale sa aj podarilo!
+    </p>
+    <p>
+     Medzi hovorom vošli do zadnej izby, sadli si za stôl a pomaly začali si zdravkať a upíjať.
+    </p>
+    <p>
+     Už sa hodne zvečerilo, keď nevesta doniesla neveľkú zažatú lampu. Za ňou prišiel muž Jano
+      a onedlho stará s veľkou misou bôbu. Príjemná vôňa jedla rozliala sa po izbe. Nevesta
+      rozložila hlinené taniere, lyžičky a nože.
+    </p>
+    <p>
+     — Jano, nenapiješ sa ty? — spytuje sa ho otec.
+    </p>
+    <p>
+     — Ďakujem, teraz nebudem.
+    </p>
+    <p>
+     — Na, stará, ochutnaj i ty, — ponúka si ženu.
+    </p>
+    <p>
+     — Ale len nechajte!
+    </p>
+    <p>
+     — No, len si smrkni!
+    </p>
+    <p>
+     Napila sa trocha.
+    </p>
+    <p>
+     Starí, už trocha rozjarení, začali jesť.
+    </p>
+    <p>
+     — Ale vám je len dobre, — hovorí Sochár, — keď ste tak vovedne. I veselo vám je i s lepšou
+      chuťou zažijete tento dar boží. Ja, odkedy mi moja nebohá žena zomrela, ani sa nenajem, ako sa
+      patrí. Čože, v pustých štyroch kútoch ži a kľochci to jedlo, ak chceš niečo do úst. Keď odídem
+      niekde, nečaká ma nik s hotovou večerou…
+    </p>
+    <p>
+     — A to veru, keď nevidí človek iných jesť, ani mu chuť nepríde, — doložil švagor.
+    </p>
+    <p>
+     — Ale veď som vám už dávno povedala, žeby ste sa oženili, keďže sa nemôžete zmieriť s
+      deťmi.
+    </p>
+    <p>
+     — Veď mi už len dáku zaopatrite. Viac ľudí viac môže.
+    </p>
+    <p>
+     — Nuž veď by som vám i poradila…
+    </p>
+    <p>
+     — A kohože by si?
+    </p>
+    <p>
+     — Nuž, hľa, ňaňu Anču Faranovú. Nik nevie do nich. Sú už, pravda, v rokoch, ale ešte mocná
+      a pracovitá.
+    </p>
+    <p>
+     — Tú nechcem! — odvetil tento nemilo dojatý. Nazdal sa, že mu spomenie vdovu Maru
+      Koštiaľovie.
+    </p>
+    <p>
+     — Nuž a vy ktorúže by ste si vybrali? — spytuje sa sestra. — Viete, dedina je veľká,
+      vdovíc je tiež hodne. Pravda, nie každá by sa šikla k vám, lebo jedna je primladá a druhá zase
+      pristará, jedna má deti, druhá zase… Ale, čo budem vyratúvať. Najlepšie, keď vy poviete. Vy
+      viete dobre, ktorá by bola najpríhodnejšia pre vás.
+    </p>
+    <p>
+     — Keď už musí byť, tak ja by som najradšej tú Maru Koštiaľovie. Osoba je to poriadna,
+      roboty sa neštíti a nič do nej nepočuť.
+    </p>
+    <p>
+     — Hm! To si si ty, švagre, náležite rozmyslel, — prehovoril Adam. — Či ho vidíš, nenahá
+      oči na ledačom! Veď ti tú už mnohí popýtali. Bohvie, čo je to, hádam všetkým starým vdovcom
+      porobila.
+    </p>
+    <p>
+     — Tá by bola, — odpovedala po krátkej chvíli sestra, — len jedna je otázka, či pôjde za
+      vás.
+    </p>
+    <p>
+     — A prečože by nešla, há? — zvolal tento už napaprčený. — Či som ja nič? Či ja hádam nemám
+      z čoho si ženu vychovať?
+    </p>
+    <p>
+     — Nieže tak, brat môj! Nevravteže tak! — chlácholí ho sestra. — Veď som ja to tak
+      nemyslela, ale reku, či sa vydá, keď je už hádam dvanásť rokov na vdovskom chlebe a od tých
+      čias sa už koľko ráz mohla vydať.
+    </p>
+    <p>
+     — No, ak ty skrzevá toho hovoríš, tak je to inšie, — odvetil už uspokojene Sochár. — Ale
+      ja som sa i dneska zišiel s ňou na ulici i prehodili sme len tak pár rečí medzi sebou a mne sa
+      všetko tak zdalo, že by ona nebola od toho.
+    </p>
+    <p>
+     — Taák?
+    </p>
+    <p>
+     — Ja aspoň myslím, že by malo tak byť, lebo keď som sa jej žaloval, ako mi je samotnému
+      otupno, tak ona mi hneď povedala, žeby som sa vraj oženil, a sa i usmiala na mňa. No, povedz,
+      či by to bola urobila, keby nechcela?
+    </p>
+    <p>
+     — A či tak bolo, ako čo vravíte?
+    </p>
+    <p>
+     — No nech sa nehnem, veď hádam viem.
+    </p>
+    <p>
+     — Keď je tak, tak to môže z toho i niečo byť. Tak sa len do toho, — ponúka ho sestra.
+    </p>
+    <p>
+     — Keby to len tak bolo, ako čo sa ty nazdáš, — odvetí jej tento nespokojne. — Ale ako? Ja
+      starý nemôžem len tak ku nim, čo by mi povedali? A svet, ten by hneď na posmech obrátil. Či ti
+      teraz niečo ide po dobrom? Hneď všetko na zlé vykladajú!
+    </p>
+    <p>
+     — Veď keď sa chcete ženiť, tak len musíte začať…
+    </p>
+    <p>
+     — Ale nie tak, ako čo ty chceš, aby som ja, ale keby si ty, Zuza naša, išla sa prezvedieť,
+      čo a ako? Vy ženy to lepšie viete ako my.
+    </p>
+    <p>
+     — Môžem vám to po vôli urobiť, keď tak chcete. My sme sa s Marou vždy ráčili od malička.
+      Ešte sme i v škole vždy v jednej lavici sedávali i na artikule sme vedno chodili. Nuž tak
+      môžem.
+    </p>
+    <p>
+     — Dobre urobíš. A aby sa to bohvie dokiaľ neťahalo alebo aby si nemala času inak si
+      rozmyslieť, tak môžeš ísť hneď zajtra ráno. Vieš, ako je, človek keď už nejakú vážnu vec
+      počína, nikdy nemá pokoja, kým ju nedovŕši. Ale len opatrne, nie s bubny na zajace!
+    </p>
+    <p>
+     — O to už nemajte starosť, to už bude moja robota.
+    </p>
+    <p>
+     O krátku chvíľu Sochár sa vrátil domov.
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     II.
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Na druhý deň ráno ňaňa Mara bola len sama doma. Syn jej šiel do mlyna zomlieť zbožie na
+      múku a nevesta, tá zabehla k materi pozrieť. Sedí na lavici pri peci. Na lone drží dvojročné
+      chlapča, ktoré sa jej hniezdi ani živé striebro a pritom vždy trkoce. Pri nej na lavici
+      položený je tanier. Z neho chová malého žrúta. Tento zakaždým chytí tučnými rúčkami podávanú
+      mu lyžicu a nepustí ju, kým jesto v nej niečo. Prsty sú mu pozmáčané v jedle a okolie úst je
+      tiež zamachlené.
+    </p>
+    <p>
+     — Ale iď, ty čudák! Ešte ma zaleje, — zvolá na malého nezbedníka, keď tento rýchlym
+      chvatom rúk vylial obsah lyžice na jej zásteru.
+    </p>
+    <p>
+     — Čože to robíš, ak nebudeš ticho, budem ťa biť! — Chlapec pozrel na starú mať, či to
+      naozaj, ale keď videl, že sa jej tvár usmieva, zavolal veselo:
+    </p>
+    <p>
+     — Biť, tajká bude biť! — a zase sa s chuťou oddal do jedenia.
+    </p>
+    <p>
+     Vtom pitvorné dvere štrkli a v druhom okamžení vstúpila do chyže Zuza Mostíčka. Bola čisto
+      oblečená a cele v čiernom, ako sa už na staršiu ženu svedčí.
+    </p>
+    <p>
+     Koštiaľka pozrela na vstupujúcu.
+    </p>
+    <p>
+     — Čo tá chce? — pomyslela si, bo Zuza nechodievala k nim.
+    </p>
+    <p>
+     — Dobrý deň! — poklonila sa Zuza.
+    </p>
+    <p>
+     — Pán boh si daj i tebe! — odvetí domáca.
+    </p>
+    <p>
+     — Čože tu robíš?
+    </p>
+    <p>
+     — Ale, hľa, vnúča si chovám. A takô je neposednô, za minútu nezostane na jednom mieste.
+      Hľa, i teraz ma zalial.
+    </p>
+    <p>
+     — Veď to tak, — odvetí Zuza, — s deťmi vždy robota. Ale to ešte zbaví, kým sú zdravé. Ale
+      keď príde niečo na ne, potom je len kríž s nimi.
+    </p>
+    <p>
+     — Veru je to tak. Ja som sa nazdala, že keď si už svoje odchovám, no, reku, teraz si už
+      oddýchneš od mladých detí. A tu zase ktože ich oriadi, nachová, ak ja nie? Mladí tajdú za
+      svojou robotou a deti nechajú u starej matere, takže zase ja starosť vediem o ne.
+    </p>
+    <p>
+     — Veru je to tak. Musíme sa len drať my starí, kým sme tu na tomto svete. Ale i to zbaví,
+      kým môžeme ešte, kým sme zdraví a pri sile. Len nech nás pán boh chráni od dlhotrvanlivého
+      kríža! — vzdychla si a obzrela sa po izbe, či nezhliadne niekoho. Izba bola už čisto
+      vyriadená.
+    </p>
+    <p>
+     — Sadni si, — ponúka ju ňaňa Mara.
+    </p>
+    <p>
+     — Ďakujem, veď som neustala.
+    </p>
+    <p>
+     — No, len si sadni, hľa tu na stoličku, — a vstala hore, aby potisla trocha bližšie
+      stoličku.
+    </p>
+    <p>
+     — Ďakujem, — odpovedala táto usadzujúc sa.
+    </p>
+    <p>
+     — A kde sú tvoji?
+    </p>
+    <p>
+     — Syn šiel mlieť a nevesta zabehla k materi. Ale neviem, čo má tam toľko vystávať. Už sa
+      mohla dávno vrátiť domov. Roboty jesto, ani neviem, čo driev chytiť. A pre dieťa nemôž’.
+      Predtým aspoň malá Mara ho povarovala alebo povozila. Ale tá musí ísť teraz do školy. I tú tak
+      tvrdia! Za našich čias to ani tak prísne nebrali, a predsa sme sa naučili i katechizmus i
+      zákon.
+    </p>
+    <p>
+     — Veru je to už tak, všetko teraz inak ide. Či si teraz môžeš vlastnému dieťaťu rozkázať?
+      — dupluje Zuza.
+    </p>
+    <p>
+     Ňaňa Mara súhlasne prikývla hlavou a opýtala sa:
+    </p>
+    <p>
+     — A u vás ste zdraví?
+    </p>
+    <p>
+     — My sa len ta máme. Ďakujem za opýtanie. Nie že by sme boli chorí, len ja už nedostačujem
+      tak, ako kým som bola mladšia. Teraz sa už večera ledva dočkám. A keď si i ľahnem, tak neviem
+      ani, na ktorý bok si mám ľahnúť. Tak ma všetko telo bolí a najmä ľadvia… ako by ma niekto bol
+      dobil.
+    </p>
+    <p>
+     — Veru sa to človek cez deň umolestuje! Ja sa, pravda, ešte nemôžem tak veľmi žalovať, bo
+      ešte som dosť rezká do roboty, ale už i ja cítim, že to nejde tak ako driev.
+    </p>
+    <p>
+     — U nás by sme sa ešte ta mali, ale ja mám veľkú starosť, — nadpriada Zuza.
+    </p>
+    <p>
+     — Čo za akú?
+    </p>
+    <p>
+     — Nuž trápi ma ten môj brat. Ľúto mi ho je.
+    </p>
+    <p>
+     Ňaňa Mara zbystrila pozor, šibla zvedavo po Zuze. Táto sedela ticho, tvár mala vážnu,
+      pokojnú, oči trocha nadol sklopené.
+    </p>
+    <p>
+     — Hádam len neochorel. Veď som sa práve včera stretla s ním na ulici, — spytovala sa už
+      cele nevinne.
+    </p>
+    <p>
+     — Ach, božechráň! To už nie. Je zdravý, na svoj vek neúrečný. Len to je tá chyba, že je
+      samotný, opustený…
+    </p>
+    <p>
+     — Veď má syna i nevestu…
+    </p>
+    <p>
+     — Daj ty pokoj! To je nič! Či ti nevesta vie okolo takého staršieho? Či mu po vôli uvariť,
+      či sa s ním pozhovárať, opatriť ho. Vieš, ako je. Mladší, tí nás nerozumejú, tí len po svojom.
+      Môjmu bratovi nemá kto ani uvariť ani oprať. No — zle je s ním! A keby nemal z čoho?! Ale taký
+      majetok, všetko plno, všade hojnosť. Tak by si mohol nažívať, že len tak môže byť… — zastala a
+      pozrela na ňaňu Maru.
+    </p>
+    <p>
+     Táto mlčala.
+    </p>
+    <p>
+     — Už sme sa na tom ustálili, že by bolo najlepšie, keby sa oženil. Čože má takto osamote
+      žiť. Dvom je predsa veselšie. On je človek tichý, i s nebožkou žil v pokoji. Nebolo počuť o
+      ňom nič. Tak čo by sa oženil. Veď je dobre zaopatrený a o výživu nemá sa čo starať. — Tak som
+      prišla, reku, poznáme ťa dobre, — a ja som ťa vždy rada videla a nechcela by som, aby sa
+      ledajaká v mojom rodičovskom dome a majetku prehŕňala. Či by si ty, reku, nemala vôľu za môjho
+      brata sa vydať. Veď vieš, nie je ani pijan, ani že by hrešil alebo bol zlostný.
+    </p>
+    <p>
+     — Viem ja to. Ale keď som sa zostarela vo vdovskom stave, tak už len i v ňom zostanem, kým
+      bude vôľa božia.
+    </p>
+    <p>
+     — Veď ja ťa nechcem nútiť, ale si rozváž. Na starosť budeš zaopatrená a budeš mať v
+      hojnosti všetko. Môj brat ti i miesto ofúkne, lebo ťa chce. Ja ani neviem, čo je to, ale len o
+      tebe hovorí. Chváli ťa, ako čo by ani druhej na dačo súcej ženy na svete viac nebolo… A že ako
+      by ti dobre bolo… Hľa, i syna si už oddelil. Zem si dal do árendy — a jednu napoly. Nechal si
+      pre seba len kapustnicu, humno, vinicu a niečo pod kukuricu. Od syna dostane ročite k tomu
+      desať metrov pšenice a pätnásť kukurice. Vytučí si z toho bravy, aké chce. Nuž tak čo? Či tam
+      jesto roboty, deti alebo čeľaď, ktoré by bolo treba obchodiť? Žili by ste si ani dva holuby.
+      Nuž tak!
+    </p>
+    <p>
+     — Ale tajdiže a nepleť! — usmiala sa táto, bo jej lahodno bolo počuť spomínať dva holuby.
+    </p>
+    <p>
+     — Ja by som ti, Marka moja, z úprimného srdca dopriala, no, a k tomu i môjmu bratovi.
+      Vieš, že sme len dvaja, on a ja, nuž tak komuže by, ak nie jemu, chcela, aby sa mu dostalo
+      svedomitej, dobrej a opatrnej ženy.
+    </p>
+    <p>
+     — Nuž, čo je pravda, to je pravda, — povedala táto. — Veru som ja, ak som nenahonobila,
+      tak som nezmárnila. Možno, že iná na mojom mieste by nebola ani toľko. Lebo vieš, že môj
+      nebožký bol trovný a rád sa zabavil. Ale ja som vždy, kde som len mohla, ukladala grajciar ku
+      grajciaru, aby mi deti nevyhodili na starosť, že im nezostalo nič po rodičoch. — Rozhovorila
+      sa, bo jej dobre padlo, že ju pochválila. No, a pravdu rečúc, jej i lichotilo, bo Sochár bol
+      jeden z najprvších gazdov a ani jeden z doterajších pytačov sa mu nevyrovnal.
+    </p>
+    <p>
+     Medzitým nevesta vrátila sa domov. Už bola v pitvore a práve chcela vstúpiť do chyže, keď
+      počula rozhovor. Zastala trocha.
+    </p>
+    <p>
+     — Kto to môže byť? — myslí si, bo hlas jej bol neznámy. Neponášal sa ani na susedin ani na
+      kmotrin ani na ňanin, vôbec na žiaden z tých, ktorých majitelia chodievali častejšie k nim.
+      Práve vtedy Mostíčka nahovárala svokru, aby sa vydala za Sochára.
+    </p>
+    <p>
+     Kadenáhle vybadala, o čom sa hovorí, vykradla sa potichu von, ale potom vrátila sa dnu
+      rezko do pitvora. Psa, okolo nej obskakujúceho, s veľkým hurtom vyhnala von a vošla do chyže.
+    </p>
+    <p>
+     Naše ženičky, upozornené lomozom v kuchyni, zamĺkli.
+    </p>
+    <p>
+     Ona akoby nič privítala Mostíčku, zložila zo seba vrchné šaty a obliekla domáce. Ale potom
+      vzala na ruky chlapca.
+    </p>
+    <p>
+     Mostíčka pozrela na nevestu, či niečo nevybadala. No táto akoby nie, ihrala sa s dieťaťom,
+      ktoré jej ustavične džavotalo.
+    </p>
+    <p>
+     Uspokojená vstala hore, napravila si na hlave ručník a poberala sa domov.
+    </p>
+    <p>
+     — Čože tak náhliš? — zdržuje ju domáca. — Poseď si ešte u nás.
+    </p>
+    <p>
+     — Ach, ďakujem! Nemôžem, vieš, ako je, — len čo vykročíš z domu, tu keď prídeš domov, v
+      každom kúte plno práce. Už som sa i tak zmeškala. Zbohom! — a vyšla von.
+    </p>
+    <p>
+     Ňaňa ju vyprevádzala až pred uličné dvercia. Tu Mostíčka zastala, poobzerala sa, či ich
+      nik nepozoruje, pristúpila bližšie ku Koštiaľke a utlmeným hlasom jej povedala:
+    </p>
+    <p>
+     — Tak čo, Marka? Bude z nás niečo? Hovor, aby som mohla bratovi povedať, čo a ako.
+    </p>
+    <p>
+     Mostíčka za chvíľku mlčala. Potom si vzdychla a povedala tichým hlasom:
+    </p>
+    <p>
+     — Vieš čo, Zuzka moja? Ja ti už len na vdovskom chlebe zostanem; keď som do týchto čias
+      mohla, tak i naďalej v ňom budem zotrvávať.
+    </p>
+    <p>
+     — Dobre si rozmysli, — hovorí jej táto vážne. — Vtedy lapajme šťastie, keď sa nám ponúka.
+      Vieš, čo sa ti ponúka… Či by si sa vydala do domu, kde je veľká čeľaď a malé deti? Há? Či ti
+      ošomre niekto voľačo? Nemáš tam ani veľkého ani malého a — všetkého nadostač.
+    </p>
+    <p>
+     — Veď ja to všetko viem, ale… a zase…
+    </p>
+    <p>
+     — No, len si rozmysli, aby si sa neprenáhlila, — hovorí jej láskavo, bo zbadala, že začína
+      sa v nej nepokoj a že je na rázcestí. — Zbohom! — privolala jej a rýchlym krokom vzdialila sa,
+      ako by sa obávala, že jej odpovie.
+    </p>
+    <p>
+     Ňaňa Mara pozrela za ňou, potom sa vrátila do izby.
+    </p>
+    <p>
+     Eva, nevesta, len čo vkročila svokra dnu, už sa jej opýtala:
+    </p>
+    <p>
+     — Počože chodili sem ňaňa Mostíčka?
+    </p>
+    <p>
+     — Ach, nuž len tak. Bola vraj tu v ulici, tak že sme sa dávno nevideli, tak ma prišla
+      pozrieť, — tajila stará. Dákosi sa jej nechcelo von s pravdou. — Prikazovala mi, aby som
+      nikomu nevravela, — pomyslela si a šla po svojej robote.
+    </p>
+    <p>
+     Onedlho zarachotil pred vrátami voz a zastal. Eva vybehla von, vráta otvorila a Martin,
+      jej muž, vohnal kone s vozom do dvora, kde mu žena pomáhala kone vyprahúvať.
+    </p>
+    <p>
+     — Martin, — hovorí k nemu. — Ja by som vám voľačo povedala.
+    </p>
+    <p>
+     — Čo takô?
+    </p>
+    <p>
+     — Aleže nepovedzte materi, lebo by bolo zle, že som načúvala. Veď ich zase pýtajú, a to
+      starý báťa Sochár, tí si poslali sestru. A hľaďte, mne sa všetko tak zdá, že sú nie od toho,
+      lebo keď som sa ich spýtala, prečo boli ňaňa u nás, tak mi nechceli ani povedať.
+    </p>
+    <p>
+     — Ale čo sa majú vydávať! — zvolal tento nevrlo. — Či im je nie dobre? Sedia si vo svojom,
+      majú, čo im načim, a nám sú tiež na dobrej pomoci.
+    </p>
+    <p>
+     — Veď ja si tiež tak hútam. A už sa i sama stariem, že ako to bude, keď nám obom dochodí v
+      lete na poli robiť, kto nám opatrí doma. Ale čože je, keď im nemôžem povedať, lebo by mi mohli
+      vždy na oči nadhadzovať, že sa mohli dobre vydať, že im mohlo lepšie byť a že som ich len ja
+      odhovorila…
+    </p>
+    <p>
+     — Máš pravdu, my im nemôžeme brániť, hoci nám budú chýbať. Nech si sami rozmyslia, ako
+      majú urobiť.
+    </p>
+    <p>
+     Medzitým kone vypriahli, voviedli do staje, kde ich uviazali, i voz pod cieňu vtisli. Muž
+      potom dal statku krmu do rebrín a šiel sa trocha očistiť, kým žena ponáhľala sa mu niečo
+      predložiť na jedenie.
+    </p>
+    <p>
+     Ňaňa Mara ale už bola predtým odišla z domu. Nedalo jej pokoja. Nuž šla k bratovi poradiť
+      sa. Lež tu tiež nenašla, čo hľadala, lebo jej brat dorovna povedal:
+    </p>
+    <p>
+     — Čože ti mám radiť? Šťastie sa ti ponúka zriedkave. Ak sa vydáš, budeš jedna z najprvších
+      gazdín a ak sa nevydáš, i tak máš na čom žiť. Urob si, ako vieš.
+    </p>
+    <p>
+     I vracala sa naspäť s väčším ešte nepokojom, ako mala predtým. Musela ísť popri sklepe. Už
+      prechádzala popri ňom, keď zavolala na ňu židovka, žena to kupca Dávida Diamanta.
+    </p>
+    <p>
+     — Pani gazdiná! Kdeže tak ponáhľate, aká ste hrdá, ani sa len neobzriete!
+    </p>
+    <p>
+     — Ach, nuž pre samú starosť neviem ani, kde mi hlava stojí, — odvetila táto.
+    </p>
+    <p>
+     — Veď to všetci máme, — a prešla si pod ručník rukou, aby si strapaté vlasy, ktoré jej
+      spadli do tváre, napravila. — Hľa, pre veľkú robotu som sa ešte ani nestačila obriadiť, —
+      pokračovala, akoby na výhovorku. A veru i bez poznámky bolo vybadať, že má pravdu, lebo vo
+      vlasoch sa jej belelo ešte i teraz hodne páperia. — Čože vy môžete mať za starosť? —
+      pokračovala ďalej. — Ste zdraví a málo vás je, ale ja? Tu jedno, tu druhé plače, tretie pýta
+      chleba, štvrté aby som do školy vystrájala. Pritom ale, len čo začnem jedno lebo druhé
+      obliekať lebo česať, i desať ráz mi treba prácu tak nechať a utekať do sklepu, kde už buchocú
+      na dvere, aby som im dala za grajciar sirky alebo cukru. — Medzi rečou si ruky skrížila na
+      prsia a pokyvkovala hlavou na ňaňu Maru, aby i tým dokázala, koľko má starostí.
+    </p>
+    <p>
+     — Hej, každý vie najlepšie, ako mu v hrnci vrie! — odvetila ňaňa Mara.
+    </p>
+    <p>
+     — Hádam sa vám dáke nešťastie pridalo a či vám je niekto chorý? — vypytuje sa židovka
+      zvedavo.
+    </p>
+    <p>
+     — A už to nie, ani jedno, ani druhé.
+    </p>
+    <p>
+     — Nuž a tak?
+    </p>
+    <p>
+     — Ale viete, veľká starosť mi padla na väzy.
+    </p>
+    <p>
+     Diamantka len tak horela od zvedavosti. Ona vôbec o všetkých občanoch vedela, kde čo. O
+      každom vedela, aký je i ako stojí. Jej povaha už bola taká, že zvedavosť jej nebola nikdy
+      ukojená, takže vždy jastrila za niečím.
+    </p>
+    <p>
+     — Ste zdraví, opatrujete sa ako načim; či hádam ste sa s nevestou poináčili? Lebo veru
+      terajšie mladé ženy nevedia si tak svokru uctiť, ako by bolo načim.
+    </p>
+    <p>
+     — Ach, ja nemám proti mojej neveste žiadnu ponosu.
+    </p>
+    <p>
+     — Nuž tak povedzte! Veď viete, keď sa vyžalujete, hneď vám na srdci odľahne. A ja že by
+      som druhému niečo povedala? No, to už nie! Keby ste vedeli, čo ja všetko viem. Čo by som ja
+      mohla! Ale ja zato nepoviem, lebo viem, že by som si s tým len sama poškodila.
+    </p>
+    <p>
+     — Ale, nuž nikdy mi nedajú pokoja, — začala ňaňa Mara a chcela ísť.
+    </p>
+    <p>
+     — Kto?
+    </p>
+    <p>
+     — Ale viete, zase chodili k nám, žeby som sa vydala. Iba mi oštaru robia.
+    </p>
+    <p>
+     — Ja reku, že čo! Veď na to môžete byť hrdá! Koľko jesto takých, čo by sa chceli vydať, a
+      nikto sa o ne neobzrie. A za kohože? — spytovala sa židovka ďalej.
+    </p>
+    <p>
+     — Ale nuž, — začala ňaňa Mara a ručníkom pekne poskladaným si prešla ústa. — Čo vám
+      povedať? Hneď by boli reči.
+    </p>
+    <p>
+     — Čo? Ale ja? Ja že by som povedala? Nech hneď tu skapem, ak len jedno slovíčko poviem. Ja
+      že by som reči robila? Veď ja veľa viem a také veci, o ktorých sa svetu ani nesníva. Ale je to
+      u mňa všetko zahrabané. Hádam báťa Matej Klokoš?
+    </p>
+    <p>
+     — Ale ba! To by bolo!
+    </p>
+    <p>
+     — Nuž a ktože?
+    </p>
+    <p>
+     — A nepoviete?
+    </p>
+    <p>
+     — Na môj’ hriešnu dušu, ani môjmu Dávidovi, nie že by druhým.
+    </p>
+    <p>
+     — No tak, — a pristúpiac bližšie k Diamantke zašeptala jej: — Mišo Sochár poslal svoju
+      sestru Zuzu, čo je za Mostíkom vydatá, na prepáčky k nám.
+    </p>
+    <p>
+     — Taák! — zvolala židovka začudovane a spľasla rukami. — Nuž a vy, stvora božia, ešte sa
+      žalujete?
+    </p>
+    <p>
+     — Nuž a čo?!
+    </p>
+    <p>
+     — Ale veď je to predsa šťastie, a aké šťastie! Či vy viete, do akého gazdovstva sa vy
+      dostanete? Veď je to bohatý! Len sa vy ta! Len vy prisľúbte! Čo hútate? A ešte vraj starosť!
+      Aká starosť? Šťastie, povedzte, šťastie! Ani neverím, že by ste sa neboli v čepčeku narodili!
+    </p>
+    <p>
+     — Ale ja môžem i takto, — začala ňaňa Mara.
+    </p>
+    <p>
+     — Dajte si pokoj, stvora božia! Doma sa len zoderiete, všetko bude na vás visieť. Kdežto
+      takto by ste si oddýchli, žili by ste si ako pani. A potom, — doložila rýchlo, keď videla, že
+      ju chce v hovore prerušiť, — či vy viete, že budete môcť i vašim deťom pomáhať? Nagazdujete si
+      či z hydiny, či z druhého. Veď sa vám tam budú peniaze liahnuť. Nuž tak!
+    </p>
+    <p>
+     — Ej, dajte vy pokoj, nie je všetko zlato, čo sa blyští!
+    </p>
+    <p>
+     — No, ja len toľko hovorím, že ak sa teraz nevydáte, že budete na večnosť banovať. A ja by
+      som vám ešte i niečo poradila —
+    </p>
+    <p>
+     — Čo?
+    </p>
+    <p>
+     — Žiadajte od neho na písme, aby vám zabezpečil aspoň sedemsto zlatých.
+    </p>
+    <p>
+     — Ale ja? — vraví táto urazená, — ja že by som na kontrakt?
+    </p>
+    <p>
+     — No a čože by zato? Keď chce mať ženu taký gazda, nech platí. Veď to už tak prišlo do
+      módy.
+    </p>
+    <p>
+     — Ej, ja to už neurobím, aby prstom ukazovali na mňa. Ja, ak sa vydám, tak sa tak, ako to
+      bolo do tých čias vo zvyku.
+    </p>
+    <p>
+     — No veď vás i tak vaša čiastka neminie, ani vdovské právo, ak by vám muž zomrel. Hľa, i
+      Kováčka už tretieho muža pochovala a všade zgrabla niečo, takže jej syn už i chyžu vystavil. A
+      to všetko, čo po mužoch dostala. A čo? Tá ešte i teraz myslí na štvrtého!
+    </p>
+    <p>
+     — Ach, božechráň! — zvolala ňaňa Mara pri myšlienke, že ak by i ona.
+    </p>
+    <p>
+     — Veď ja to nemyslím na vás. Ale Kováčka sa poteší a vraví, že jej je to už od boha tak
+      súdené, aby mužov opatrovala a pochovávala. Pritom je čerstvá a sukne nosí také, že len tak
+      šuchocú, keď ide do kostola. Nuž tak!
+    </p>
+    <p>
+     Na veži začali biť hodiny a za nimi sa ozval zvon, hlásajúc ľuďom poludnie.
+    </p>
+    <p>
+     — Jaj, bože môj, ako ten čas beží. Veď je to už obed! — zvolala ňaňa Mara naľakaná. — Už
+      sa to len človek zahovorí. Zbohom! — zvolala a ponáhľala sa domov.
+    </p>
+    <p>
+     — Nezabudnite, čo som vám povedala, — zavolala za ňou židovka. — Ja som už mnohým poradila
+      a prichvaľovali si. Počúvnite ma! Nikdy viac! Pamätajte si!
+    </p>
+    <p>
+    </p>
+   </div>
+   <div type="chapter">
+    <head>
+     III.
+    </head>
+    <p>
+    </p>
+    <p>
+    </p>
+    <p>
+     Ňaňa Mara od toho okamženia, ako prišla Sochárova sestra ku nej na prepáčky, nemala
+      pokoja. Nevedela sa rozhodnúť. Jej samej nebolo do vydaju, ale keď si pomyslela, že jeden z
+      najprednejších gazdov očkom hodil po nej, v akom dome a dvore by sa mohla prechodiť a, ako jej
+      židovka nadštrkla, ešte i svojim deťom pomôcť, tak veru mala čo rozmýšľať, áno, i hlavu si
+      lámať nad tým, čo má urobiť. K tomu zrazu i úprimný pomer medzi ňou a synom a nevestou
+      prestal. Mlčali navzájom, takmer si ani do očí nepozreli. Reč bola chladná, ostýchavá. Myslelo
+      sa inšie, ako čo sa hovorilo. Medzi to prichádzali ženičky. Každá si vymyslela nejakú príčinu,
+      ale nakoniec, keď zostali s ňaňou Marou samotné, začali vychvaľovať Sochára, jeho dobrotu,
+      bohatstvo, a ako by to bolo dobre, keby sa zaňho vydala.
+    </p>
+    <p>
+     Ona konečne už nemohla vydržať, najmä keď videla, že syn a nevesta mlčia. Nuž pomyslela
+      si, že by sa jej asnáď chceli i striasť a k tomu i tie skvelé obrazy, ktoré boli pred ňou
+      maľované od poslov, tak účinkovali na ňu, že spoly privolila.
+    </p>
+    <p>
+     Na druhý deň pred večerom, už sa bolo zmrklo, keď báťa Sochár, pečlivo vyumývaný a s
+      vlasmi prihladenými, vyparádený, v novom kožuchu a nohaviciach prišiel do Koštiaľov.
+    </p>
+    <p>
+     — Pán boh daj dobrý večer! — privolal domácim a poobzeral sa trochu ostýchavo.
+    </p>
+    <p>
+     Syn sedel za stolom, Eva varovala chlapca, kdežto ňaňa Mara stála pri stole a nadievala si
+      kúdeľ.
+    </p>
+    <p>
+     Obzrela sa. Keď videla Sochára, mala z nôh spadnúť od ľaku.
+    </p>
+    <p>
+     — Vitajte, — vraví mladý Koštiaľ, — a sadnite si!
+    </p>
+    <p>
+     — A ver sa i zíde, — prehovoril tento. — Celý deň sa utrmáca človek, tak sa mu podvečer
+      zažiada oddýchnuť, — hovoril stiesnene a sadol si ku oknu za stôl a zakašlal z nesnádzí.
+    </p>
+    <p>
+     Ňaňa Mara nepovedala ani slova, len chytro uviazala kúdelku o kúžeľ, nastokla na
+      kolovrátok, sadla si k nemu do kúta, aby tam priadla.
+    </p>
+    <p>
+     Nastala tichosť.
+    </p>
+    <p>
+     — Hm, hm, — oddŕhal Sochár, — máme peknú jeseň.
+    </p>
+    <p>
+     — Obstojná, — odvetí mladý, — cesty sú nie plané, môže sa i doviezť všetko domov, čo
+      načim, i v poli si zvŕšiť robotu.
+    </p>
+    <p>
+     — I oziminy začínajú sa zelenieť, — pokračuje Sochár. — Ja, reku, že všetko zrno v zemi
+      spreje v tej veľkej suchote, ale ten dáždik mu pomohol.
+    </p>
+    <p>
+     — Pekne klíči.
+    </p>
+    <p>
+     — Len teraz keby aspoň do týždňa Hospodin zachránil od tuhých mrazov, aby mu mráz korienky
+      nepovyťahoval, tak môže byť úroda. Ale, — odkašlal si. Zastal v nesnádzach.
+    </p>
+    <p>
+     Všetci naňho pozerali, len ňaňa Mara sklopila hlavu. Ruky sa jej triasli pod kúdeľou od
+      rozčúlenia.
+    </p>
+    <p>
+     — Veď som ja onô, — no bodajže ťa, ako mi zasadlo, — vyhováral sa, keď si pomáhal
+      oddŕhaním, a pritom dodal si smelosti. — Veď som ja prišiel, veď už hádam viete. Treba mi
+      pomoc v dome, tak reku, či by si, — obrátil sa ku ňane Mare, — nechcela ísť za mňa, veď by ti
+      nebolo najhoršie. — Vydýchol si a prešiel si rukou po tvári ako po nejakej ťažkej robote.
+    </p>
+    <p>
+     Ňaňa Mara za chvíľku mlčala, potom ticho odvetila:
+    </p>
+    <p>
+     — Dobre mi je aj takto.
+    </p>
+    <p>
+     Syn pozrel si na ženu. Tá sa mu usmiala súhlasne. Boli radi obidvaja, lebo sa nazdali, že
+      sa mať vydá.
+    </p>
+    <p>
+     — Veď ja viem, že ti je dobre, ale by ti u mňa tiež nebolo najhoršie. Všetko mám
+      pripravené či v komore, či na povale, či na poli, či v pivnici. No, mala by si všetko pri
+      ruke. A potom, veď ja, reku, že na hotovo, veď si Zuze prisľúbila, keď to bola predvčerom u
+      vás.
+    </p>
+    <p>
+     — Veď som, ale keď je to ťažko.
+    </p>
+    <p>
+     — Čože by bolo? Nuž či budeš ďaleko? Na druhej ulici! Či ja budem zatvárať pred tvojimi
+      deťmi a vnúčatami od ulice dvere? Môžu prísť pre mňa, kedy im vďaka. I ty ich môžeš navštíviť,
+      ja ťa nebudem zdržiavať. Veď sú tvoje. Keď poriadiš, opatríš dom, môžeš.
+    </p>
+    <p>
+     — Veď sa to tak hovorí a sľubuje, ale potom.
+    </p>
+    <p>
+     — Keď ja poviem voľačo, tak to tak musí byť, ako čo ti vravím.
+    </p>
+    <p>
+     — Nuž a vy čo? — obrátila sa zrazu k synovi a neveste.
+    </p>
+    <p>
+     — A čože my, — odvetí syn, — urobte si, ako viete. My sa do toho miešať nemôžeme, aby ste
+      nám pozdejšie výčitky nerobili. My vás chceme, ale…
+    </p>
+    <p>
+     — Chcú sa ma striasť, — prešlo jej mozgom a srdce ju zabolelo.
+    </p>
+    <p>
+     — Nuž keď je tak, tak nedbám, poručeno bohu!
+    </p>
+    <p>
+     — Tak pôjdeš za mňa?
+    </p>
+    <p>
+     — Keď musím…
+    </p>
+    <p>
+     Sochár bol vytešený, že ani nevedel, čo si má počať od radosti. Vytiahol mešec, z neho
+      vzal desiatku. Vstal, podal jej ju:
+    </p>
+    <p>
+     — Na, kúp si za ňu, čo ti načim.
+    </p>
+    <p>
+     Ona nehybne sedela.
+    </p>
+    <p>
+     — No, len si vezmi, čo sa máš hanbiť.
+    </p>
+    <p>
+     Natiahla ruku k nemu, on jej peniaze položil do dlane. Odložila si do vrecka bez toho, aby
+      bola pozrela naňho. Tak sa hanbila.
+    </p>
+    <p>
+     Potom sa obrátil ku neveste:
+    </p>
+    <p>
+     — Dievka moja, zabehni po litru vína, čo by sme si hádam zapili.
+    </p>
+    <p>
+     — To už nie, — vraví syn. — Eva, choď a dones, — a dal jej peniaze. Nevesta skočila a
+      svižným krokom šla po víno do krčmy.
+    </p>
+    <p>
+     Onedlho sa vrátila.
+    </p>
+    <p>
+     Keď si vypili, trocha sa ešte meškal a pri odchode povedal:
+    </p>
+    <p>
+     — Keby si mi i ty dala ručník ako záručnô.
+    </p>
+    <p>
+     Ona mlčky vyšla do komory, vytiahla z truhly nový, novučičký ručník a podala mu ho.
+    </p>
+    <p>
+    </p>
+    <p>
+     — — —
+    </p>
+    <p>
+    </p>
+    <p>
+     Už dávno zahasili svetlo a políhali si na odpočinok, keď ňaňa Mara ešte bdela na svojej
+      posteli. A spánok neprichádzal jej na víčka. Hlava jej hučala od myšlienok. Keď podávala
+      Sochárovi ručník, zdalo sa jej, ako by sa zrazu bola oddelila od tohoto domu, v ktorom väčšiu
+      časť svojho života trávila, kde, pravda, viac starosti ako radosti pocítila. — Ale tie kúty,
+      to všetko predsa jej bolo milé, svojské. Teraz ona má stadeto odísť, odtrhnúť sa od svojho
+      krbu a ísť opatrovať cudzích…
+    </p>
+    <p>
+     No, zase premohli ju skvelé výhľady. Bude prvá gazdiná. Keď pôjde do kostola, jej
+      závistnice budú žltnúť od zlosti. Ona im ukáže, že je viac, že…
+    </p>
+    <p>
+     — Ako to bude bezo mňa s vnúčenci? — I padla na ňu clivosť, takže ani nezbadala, len keď
+      jej slzy začali tiecť po tvári. — A keby len ten môj syn bol aspoň jedno slovíčko povedal,
+      žeby zostala, žeby sa nevydávala! Ale nič. Zaiste je už napravený od nevesty. Tá už ťažko
+      čaká, aby bola sama gazdiná. Ako čo by i do týchto čias nebola ňou bývala.
+    </p>
+    <p>
+     — Nevďačníci, — hútala si, — tak je to, deti mať! Odchováš ich, a potom si na ťarchu. —
+      Zase jej prišlo na pamäť, čo jej vraveli, aký je to dobrý človek, že nič nezažije bez ženy,
+      ako jej bude… I uspokojila sa. Pritom všetkom najväčší žiaľ pocítila pri myšlienke, že si musí
+      vnúčatá opustiť.
+    </p>
+    <p>
+     — Čo bude s nimi? — myslela si. — Kto ich opatrí? — Vtom zmrvil sa v kolíske malý Martinko
+      a zaplakal. Vstala hore. V izbe bolo len pološero, bo na jasnom nebi svietil mesiac, ktorého
+      blesk dral sa dnu cez oblok, takže bolo vidno kolísku i skopané dieťa v nej.
+    </p>
+    <p>
+     Nahla sa nad vnúča, poukrývala ho, pohladkala a učičíkala. Ono vopchalo si pravej rúčky
+      palček do úst a začalo ho cickať, ľavou švolilo po perinke a zrazu ju zodvihlo a pohladkalo
+      ňou tvár starej matere a zašeptalo:
+    </p>
+    <p>
+     — Tajká!
+    </p>
+    <p>
+     Už beztak rozcítená, nemohla sa zdržať i zaplakala.
+    </p>
+    <p>
+     — Ach, deti moje, deti! — šeptala a šla od kolísky ku malej Marke, ktorá pri peci spala. —
+      Kto vás bude opatrovať na leto, keď už starej matere nebudete mať, a otec i mať budú musieť
+      ísť do poľa. Ach, veď už budete ani siroty. Nebudeš ty už mať, kto by ťa opatril, ošetril tak
+      ako tvoja tajká!
+    </p>
+    <p>
+     — Čo je vám, mamo, že tak plačete? — spytuje sa jej zobudivší sa syn.
+    </p>
+    <p>
+     Len vtedy zbadala, že vykladá nahlas.
+    </p>
+    <p>
+     — Ale, nuž ľúto mi je, že musím tieto drobizgy opustiť!
+    </p>
+    <p>
+     — Veď nemusíte, ktože vás prinúti!
+    </p>
+    <p>
+     — Ach, keď už ani vy nestojíte za mňa!
+    </p>
+    <p>
+     — Za koho?
+    </p>
+    <p>
+     — Nuž za mňa!
+    </p>
+    <p>
+     — A ktože vám to povedal?
+    </p>
+    <p>
+     — Či ste mi len jedným slovom povedali, aby sa nevydala?
+    </p>
+    <p>
+     — Ak je len tá príčina, tak len zostaňte, — zvolala nevesta. — Veď nás to s Martinom dosť
+      mrzelo, že pôjdete. Ale ako sme vás mohli zdržiavať, keď sme sa báli, že vy chcete a potom že
+      by ste nám mohli na oči nadhadzovať. Veľmi radi budeme, keď budete u nás.
+    </p>
+    <p>
+     — A či to naozaj? — spytuje sa už uspokojená.
+    </p>
+    <p>
+     — Pravdaže naozaj, — odvetí veselo syn. — Len si ľahnite pekne spať a netrápte sa. Budeme
+      spolu nažívať ako dosiaľ.
+    </p>
+    <p>
+     — No, keď je tak, tak sa nevydám. Čo mám slúžiť cudzím a otĺkať cudzie prahy, keď mám
+      svoje, — povedala spokojne uložiac sa. — Ach, pane bože, pomáhajže! — vzdychla si ešte.
+      Onedlho nastala tichosť v izbe, len spokojný dych spiacich šumel po nej.
+    </p>
+    <p>
+    </p>
+    <p>
+     — — —
+    </p>
+    <p>
+    </p>
+    <p>
+     Ráno ňaňa Mara hneď za horúca poslala nevestu s desiatkou k Sochárovi, aby mu ju vrátila a
+      ručník aby doniesla naspäť.
+    </p>
+    <p>
+     Tak sa zvŕšili vohľady u ňane Mary.
+    </p>
+   </div>
+  </body>
+ </tei:text>
+</tei:TEI>

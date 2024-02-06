@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885892" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Osudná návšteva : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:244065805">
+     Bielek, Anton [Kalinov] (1857-1911)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     1233
+    </measure>
+    <tei:measure unit="pages">
+     4
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:244065805">
+      &gt;Bielek, Anton [Kalinov] (1857-1911)
+     </tei:author>
+     <tei:title ref="ISSN:1335-7786">
+      Osudná návšteva
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské pohľady
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Osudná návšteva
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    .
+        „Brrr! však ste ma chladno prijala!“ plesknúc za sebou dvermi
+        zvolala slečna Oľga Tomkova, a čtku zagánila na
+        pohovku za pecou, kde obyčajne:žvykla“ sedávať jej priateľka Klára,
+        vysoká, štíhla blondýna, naklonená nad nejakým románom. I teraz
+        práve bola dočítala kapitolu, zavrela knihu a veselým hlasom od-
+        povedala:
+   </tei:p>
+   <tei:pb/>
+   <tei:p>
+    „ Veru, jako obyčajne!“ a mrzuto doložila : nečudujte!
+        Keď. je taký zhubný vetor, nemožno lepš úriť, lebo
+        to ustavične izbou previeva, keď sú obloky of sebe. Len sa
+        prizrite, jako záclonou pohybuje! Nemôžem vystáť vetor! Celú noc
+        ani len oka zažmúriť mi nedá večná obava pred ohňom. Nešťastné
+        slamenné strechy! — — A vy čo tak pozde idete?“
+        „Klárika, ja cítim zase opak vaších slov. Rada mám vetor!
+        Už hodnú chvíľu stála som medzi dvermi a načúvala tajomnému
+        šumu. Ba musím sa priznať, ten boj povetria i v mojej hrudi ne-
+        zbedu vystrája: búri, dráži, že mne samej nemožno vyznať sa v tom
+        nose rôznych citov. Rozplakala bych sa, ale slzý nedaj Bože!
+        Ešte pieseň najbližej k pomoci mi stojí. Však nie sťa slávika Tubo-
+        zvučná pieseň, ale skôr mumlaniu medveďa lebo hvizdu vetra po-
+        dobná.“ i
+        „Hahaha! Zdá sa mi... Či pamätáte sa? Raz, o plot opretú,
+        s tvárou do neba vyvrátenou zastihla som vás hviezdy obdivovať.
+        Práve sletela jedna hviezda a skoro som sa poľakala, s takou až
+        detskou radosťou zatlieskaly ste rukama, za čím, pamätám sa, jako
+        čoby dnes bolo bývalo, nasledovaly tieto slová: „Pravdu mám!,
+        Pravdu mám! i nebo mi dosvedčilo: deňná jasná obloha rovná sa
+        modrým snivým a večernia hviezdnatá čiernym ohnivým očiam.“
+        A zase, keď na jar raz z mesta — kde ste zimovaly — domovy
+        vás dodaly, bavila ste sa v kvetinovej zahradke pred oknami. Išla
+        som vám na kompliment. Hodila ste sa mi kolo krku, že som
+        “ sotva dechu popadala A upozorňovala ma: „Klárika! jaro je krásne,
+        dnes je krásno, tu je krásno! Pozrite to kolo nezabudôk, jako si
+        s ním slniečko pohráva — i človek tak s vencom sladkých upo-
+        mienok.“ A zamyslely ste sa. Musela som sa usmiať. Vedela som,
+        koľko bilo. Už zase svietil nový meteor na firmamente vašich zná-
+        mostí, jako i teraz, jestli sa nemýlim. Ba koľký raz ste to už za-
+        ľúbená? Zaľúbená? Nie, neverím, žeby to láska bola. Ja si ju cele
+        ináč predstavujem! Som zvedavá, či sa vy ráz opravdove zaľúbite.,
+        Ale (a je aj dosť neskoro, a ešte sa mi chce drkotať. Poďme radšej
+        spať!
+        Bolo už po polnoci, keď ľahodné ticho zavládlo izbou. Divý
+        veťor a rozbúrené city Olgine razom utíchly. Vonku poletuje sňah
+        a myseľ devinu obletujú sladké! sníčky.
+   </tei:p>
+   <tei:p>
+    „Povedz mi, dievčatko, jako sa ti spalo,
+        či sa ti tej noci 0 mne nesnívalo ?
+   </tei:p>
+   <tei:p>
+    Veru sa mi, milý, každej noci sníva,
+   </tei:p>
+   <tei:p>
+    s tebou moje srdce vo dne v noci býva.“
+   </tei:p>
+   <tei:p>
+    „Ej, či ste ružovej vôle, Oľga! Neťaží sa vám tak na lačný
+        žalúdok rozdrapovať sa?“ hovorila Klárka, hoviac si v mäkkých
+        poduškách.
+   </tei:p>
+   <tei:p>
+    „Neťaží! Pardon! Dobré ráno a — porúčam sal“ zaobalená
+        v teplú vlnenú šatku opustila izbu.
+   </tei:p>
+   <tei:p>
+    „Pa! Ja za to ale ešte nevsťanein!“ A slečna Klárka viedla
+        ďalej“ asi takúto samomluvu: „Divné decko, menivé jak aprílové
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    počasie. Hneď je vospustná, ani čoby bola čertom posadlá, narobí
+        kriku, smiechov, navyvádza hlúpostí, potom to obanuje a chodí
+        zase jako zmoklá kura, zronená, zadumaná, že z nej slova nevy-
+        tiahneš. " Človek by ju ľutoval, keby jej toho pokania dopriať ne-
+        musel. Najviac ma mrzí to jej bláznenie sa za každým kabátom.
+   </tei:p>
+   <tei:p>
+    Hovorieva, že láske nedá sa ani vyhnúť, ani jej vzdorovať nemožno.
+        Skoro by som jej závidela, že i za ňou blázni sa temer každý,
+        keby onej láske nestála nenávisť za pätami. Ľudia považujú jú za
+        koketku, kto ale lepšie pozoruje jej chovanie, musí tvrdiť, že to
+        iba šťastie. Pekné šťastie, ktoré treba stokráť oželieť, jako to u Oľgy
+        na deňnom poriadku. Každá zábava jej draho padne, potom už
+        sožiera sa vlastnými myšlienkami. Raz na moju otázku, čo je takou
+        neľudskou, odpovedala mi: „Jako môžem mať ľudí rada, keď ma
+        ludia nenávidia? Jako bych mohla od ľudí lásku žiadať, keď sama
+        cítim, že som jej nie hodna!?“ Tak to ide ďalej, kým opäť nový
+        zjav neupúta jej chmúrne myšlienky. Nikto by neočakával premenu,
+        jnká s ňou stane sa: spokojnosť žiari jej z tváre, jej chovanie je
+        samá nežnosť, laskavosť. Všetko ju zaujíma. Celé dni, noci blúdi
+        po prírode. Každá vetvička šepoce jej sladké slová, každé kvietko
+        spovedá svoje tajnosti. Doma vyspevuje samé dojemné piesne,
+        vtedy poznať, jakú spústu citov v srdci prechováva. V menšej spo-
+        ločnosti býva rozpustilou. Na veľké zábavy nerada chodí, nie je
+        to pre ňu priaznivé pole k víťazstvu, lebo kdekoľvek príde, vy-
+        hľadáva zábavu s tým najkrajším a v prípade, že patričný je už
+        okkupovaný, zostáva mrzutou a straní sa spoločnosti.“ )
+   </tei:p>
+   <tei:p>
+    Opusťme Klárku s jej hlasnými myšlienkami a stopujme drobné
+        stupaje na čerstvom bieluškom sňahu. Hneď sme u cieľa, najtiaž
+        nám zísť dolu príkrym briežkom k slamou krytej, starej, dosť čisto
+        držanej budove. Vo dverach pod návratím mihla sa hrubou šatkou
+        odiata majestátna postava, v ktorej poznáme našu známu Oľgu.
+   </tei:p>
+   <tei:p>
+    „Jaj, pane kandidát, skoro sme sa na dobré ráno bozkaly? Vy
+        už hore?“
+   </tei:p>
+   <tei:p>
+    „Už dávno, slečna! Teším sa prajnej náhode, že tu doma prvý
+        smiem vám dobré ráno zavinšovať. Nemohol som spať 1 — —“
+   </tei:p>
+   <tei:p>
+    „A ešte by mohol tri noci nespať, keby ťa mohol, dievčatko,
+        dostať! Nedajte sa vysmiať, mladý bratec! Rada vás vidím jako
+        veselého, zábavného hosťa, ale, jak len nemáte úmyseľ dobrú vôľu
+        mi kaziť, nuž nevzdychajte jako stará babka,“ a pri tom nadudreno
+        pozrela do, očú skonfundovaného zbožňovateľa.
+   </tei:p>
+   <tei:p>
+    „Obstriháte vtáku krýdla a kážete mu lietať,“ vetil smutným
+        hlasom a zahľadel sa do zeme.
+   </tei:p>
+   <tei:p>
+    „Pletky! Badám, že tratíte hlavu. Jak zavčasu nevytriezvete,
+        vypoviem vám z priateľstva. Buďte mužom a nie slabochom ! Láska
+        nedá sa ani vyprosiť, ani vynútiť, to viete! — Čo stojíte jako
+        svätý za dedinou? Hanbíte sa, že vás musím ľutovať?“ S opovrže-
+        ním odvrátila sa a zase ľútostne pozrela na úbohú obeť, potom
+        miernejšie, ale predsa ironicky zpýtala sa:
+   </tei:p>
+   <tei:p>
+    i ešte vidíte vo mne anjela?“
+        „Aujela, so sladkým srdcom!“ V jeho pohľade zračil sa veľký bôľ.
+   </tei:p>
+   <tei:p>
+    „Možno,“ podotkla celkom ľahostajne. „I ludské srdce podro-
+        bené je štyrom čiastkam roku. V mojom srdci na tento čas kru-
+        delná zima si dvorí a vaše horúce | slová jako zmrzlý sňah naň
+        dopadajú. Však čím väčšia zima, j ie noci bývajú. Čím
+        chladnejšie moje srdce, tým jasnejšie moje myšlienky.“ A hlas jej
+        znel tupo, keď pokračovala: „I moje srdce preplnené je láskou, ale
+        niet toho slnca, pod ktorého Túčami roztála by jeho stuhnutá kôra.
+        Bol čas, v ktorom klamala som sama seba, ohrievajúc sa na spále-
+        ných hrudách mesiačka, ale ten zašiel a zase nový a nový vychodil
+        a srdce moje vždy to isté zostávalo. Už myslela som, že „ústa moje
+        hádam nikdy nezaznejú citom lásky,“ „v tom duch nádeje krásne
+        sa zjaví,“ výtvor to len fantasie, mrtvý ideal, ale jediný ideal. A
+        ja ho ľúbim, o ňom snívam, ho ospevujem. Pre druhú Túbosť niet
+        miesta v mojom srdci!“
+   </tei:p>
+   <tei:p>
+    „A keď ožije mytvý ideal? Keď zasvieti slniečko —“
+   </tei:p>
+   <tei:p>
+    „A. zapadne? O tom potom! Ale už ste celý zsinalý, čo ostrý
+        nráz zo všetkých strán na vás doráža. Aby moja ľadová nemoc
+        nedokázala sa byť epidemickou, poďme sa zohriať pohárom kávy.
+        Nechcem si vziať na svedomie vašu študentskú dušu!“ zasmiala sa,
+        veselo a vstúpila do príjemno vykúrenej svetlice. Kandidát ju na-
+        sledoval. Zasadli k stolu. My prajme jim dobré chutnanie k raňajkám.
+   </tei:p>
+   <tei:p>
+    A. B.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

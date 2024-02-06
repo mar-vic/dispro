@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK196185" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Prípravy na svadbu : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:47573651">
+     Maróthy-Šoltésová, Elena (1855-1939)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     6084
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:47573651">
+      Maróthy-Šoltésová, Elena (1855-1939)
+     </tei:author>
+     <tei:title>
+      Prípravy na svadbu
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské vydavateľstvo krásnej literatúry
+     </tei:publisher>
+     <tei:date>
+      1961
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author ref="viaf:47573651">
+      Maróthy-Šoltésová, Elena (1855-1939)
+     </tei:author>
+     <tei:title>
+      Prípravy na svadbu
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:pubPlace>
+      1882
+     </tei:pubPlace>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="F"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Prípravy na svadbu
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    V priestrannej vidnej kuchyni neveľkého, ale úhľadného panského domu
+        na kraji dediny zaneprázdnená je samojediná driečna slúžka umývaním a
+        utieraním riadu. Najprv rezko obracala sa okolo neho, až to štrkalo a
+        cvendžalo; čo ďalej však povoľnejšie idú ruky a po sviežej tvári
+        rozhosťuje sa akási zádumčivosť, ktorá práve na tejto tvári zdá sa byť
+        cudzou, neobvyklou. A medzi cvendžanie tanierov pozvoľna mieša sa zvuk
+        spevu, ticho zo začiatku, potom silnejšie zádumčivým žiaľom znejú slová
+        známej piesne:
+   </tei:p>
+   <tei:l>
+    Nevydávaj sa ty, dievča, ešte,
+   </tei:l>
+   <tei:l>
+    Lepšie je dievčatku než neveste,
+   </tei:l>
+   <tei:l>
+    Dievčatko si chodí po slobode,
+   </tei:l>
+   <tei:l>
+    Ako tá rybička v bystrej vode.
+   </tei:l>
+   <tei:p>
+    V polootvorených dverách od pitvora zjavila sa jemná, štíhla postava
+        domácej dcéry, čiže „kišasonky“. Zrejme chcela dnu, ale spev ju zadržal.
+        Akoby v udivení pozorovala speváčku, ktorej po speve slzy zahrali v očiach
+        a skanuli po lícach. Až teraz uznala za vhodné ohlásiť sa.
+   </tei:p>
+   <tei:p>
+    — Ponáhľaj sa, Anka, už som háby poskladala, len na teba
+        čakám.
+   </tei:p>
+   <tei:p>
+    — Hneď, hneď, kišasonka, za chvíľku som hotová, — a napochytre
+        utrela si oči spakruky. Dvojnásobne usilovala sa dohoniť zameškané, biely
+        riad sama slečna odniesla do izby a kuchyňa čosi-kamsi bola v poriadku.
+        Potom slečna so slúžkou vzali kôš, plný opratej poskrúcanej bielizne a
+        preniesli ho na druhú stranu dvora, kde pod cieňoustál hrubou plachtou prikrytý mangel. Bol krásny deň na
+        začiatku leta, vôňa prvých ruží z preddomovej záhradky rozliehala sa po
+        dvore. Malé jasnooké dievča naodstrihávalo ich plnú hrsť, a najkrajšiu,
+        polorozvitú so zeleným listom nieslo sestre pod cieňu.
+   </tei:p>
+   <tei:p>
+    — Túto tebe, Ľuďmilka, a ostatné dám do izby, aby maminke voňali, —
+        vďačila sa malá štedrá, a radostne pásla oči na krásnych ružiach.
+   </tei:p>
+   <tei:p>
+    — Ďakujem, Neluša, ty naša kvetinárka! — riekla staršia jej sestra,
+        nežne prejdúc rukou po líci malého dievčaťa.
+   </tei:p>
+   <tei:p>
+    Kým Anča zobrala plachtu z mangľa, odhodila slečna visiace konce
+        bielej náhrdelnej šatky do tyla, aby jej pri práci neprekážali, pripevnila
+        práve obdržanú ružu pod briadku a obe ženské chytili sa do práce.
+   </tei:p>
+   <tei:p>
+    — Čože je to s tebou, Anka, veď si ty čo ďalej akási smutnejšia?
+        Pred chvíľou spievala si smutne a si pritom plakala. Vari si oľutovala, že
+        sa vydávaš? — prehovorila slečna, nakrúcajúc bielizeň na valec. Anča uhla
+        hlavou k plecu.
+   </tei:p>
+   <tei:p>
+    — Ja sama neviem, čo mi je, len mi je zo dňa na deň smutnejšie, čo
+        viac sa blíži moja svadba. Dnes zabehla som s tými stužkami, čo mi pani
+        dali na veniec, domov k mojej mame. Tam v komore nachystané mi je už
+        všetko, biely sobášny oblek na vrchu v truhle, nuž poslali pre mňa, aby
+        som si to poobzerala. Ale ako som to zazrela, tak mi ťažko prišlo, len som
+        chytro vrchnák zachlopila a utekala von!
+   </tei:p>
+   <tei:p>
+    — Nuž ale čože sa ti robí, — vari odnechcel sa ti už Paľko, čo si ho
+        tak tvrdo čakala domov, kým bol vojakom?
+   </tei:p>
+   <tei:p>
+    Anča vrtela hlavou cele rozhodne, pri spomenutí Paľa zasvietili sa
+        jej oči a úsmev prelietol jej tvárou.
+   </tei:p>
+   <tei:p>
+    — Ej, božechráň — akože by to bolo! Veď som sa dosť pánu bohu
+        namodlila za neho, aby mi ho len doprial.
+   </tei:p>
+   <tei:p>
+    — Nuž teda čo chceš, čo zvesuješ hlavu?
+   </tei:p>
+   <tei:p>
+    — Ja im to takto neviem povedať, ani sama si to neviem pomyslieť;
+        len viem, že mi je tak clivo, akoby ma do hrobu niesť mali.
+   </tei:p>
+   <tei:p>
+    Slečna pri tomto zúfalom prirovnaní temer prestrašene pozrela na
+        slúžku.
+   </tei:p>
+   <tei:p>
+    — A predsa sa chceš vydať? Prečo nepovieš, že nemôžeš, že radšej aj
+        naďalej zostaneš len tak; veď ti v tom nik nemôže brániť.
+   </tei:p>
+   <tei:p>
+    Anča zas vrtela hlavou.
+   </tei:p>
+   <tei:p>
+    — To nemôže byť, kišasonka moja, celý svet by sa čudoval, či sa z
+        rozumu hýbem. Mojej mame by som sa mohla na oči neukázať, vybila by ma. A
+        akože by som mohla aj Paľa za zblázna mať?
+   </tei:p>
+   <tei:p>
+    Slečna musela nahliadnuť, že jej dobre mienená rada nebola na
+        uskutočnenie, ale jednako mrzelo ju, že Anči takto niet rady a
+        pomoci.
+   </tei:p>
+   <tei:p>
+    — Nuž ale aspoň naďalej odložiť by si mohla; aj Paľo by dočkal, keby
+        si ho poprosila, — nadhodila ešte.
+   </tei:p>
+   <tei:p>
+    Anča uhla plecom.
+   </tei:p>
+   <tei:p>
+    — Vydať sa jednako musím, lebo starou dievkou zostať nechcem, teda
+        sa vydám radšej skorej ako pozdejšie. Paľo by tiež ďalej čakať nechcel,
+        ešte by si v hneve vzal druhú, a to by som veru nechcela. Ostatné moje
+        kamarátky, čo som s nimi chodila na spoveď, povydávajú sa teraz, iba ja
+        sama by som ostala a to by nebolo nijako — musím už len i ja.
+   </tei:p>
+   <tei:p>
+    — Nuž ale sama si na tom, aby si sa vydala, a predsa sa sužuješ, že
+        sa vydávaš — len mi povedz, ako je to?
+   </tei:p>
+   <tei:p>
+    — Ja im to už raz neviem povedať, kišasonka moja; veď oni to
+        voľakedy tiež skúsia sama na sebe. Len tak akosi mi je, akoby som všetku
+        dobrú vôľu, všetok žart, všetok spev, ba ešte aj zrak mojich očú stratiť
+        mala. Ja som rada žartovala s každým, aj s chlapcami, a teraz nebudem
+        smieť pozrieť na nich. Aj som si rada zaspievala a teraz mi už ani to
+        nepôjde. Len mi je tak, akoby som do temnice išla. Ešte aj zato ma srdce
+        bolí, že ma do čepca zavijú; že už nikdy, nikdy viac nebudem smieť svoje
+        vlasy takto slobodne nosiť ako teraz. Keď mi raz svatka čepiec založí na
+        hlavu, nik ma viac nevyslobodí z neho.
+   </tei:p>
+   <tei:p>
+    — A vieš ako sa ti druhé zakaždým páčili, keď si ich po prvý raz
+        videla v čepci? Vždy si vravela, že čepiec lepšie prikrášli ako
+        vrkoč.
+   </tei:p>
+   <tei:p>
+    — Pri druhých sa mi páčilo, ale keď na mňa prišiel rad, je to inšie.
+        Tak pekne je to dievkou byť, a smutno pomyslieť, že sa mi už nikdy viac
+        neprinavráti to moje dievoctvo. Radšej by pán boh ten vydaj nebol dal na
+        svet, keď je to taká ťažká vec!
+   </tei:p>
+   <tei:p>
+    Anča predsa našla slov vyjadriť city, ktoré opanovali ju v tejto pre
+        ňu dôležitej a osudnej dobe. Zamĺkli obidve; slečna po prvý raz tak
+        bezprostredne ponúknutá bola premýšľať o tomto predmete. Bože, bože, či je
+        to ozaj taká divná vec ten vydaj — či tam človek môže považovať ešte aj
+        niečo iného než hrdú nádej, že dievča vymaní sa spod nadvlády rodičov a
+        stane sa neodvislou, samostatnou paňou? Pravda, ono to trochu clivo musí
+        byť, tak navždy opúšťať rodičov a rodičovský dom, — no ale však dcéra
+        navštevovať ich môže, kedykoľvek sa jej zachce; veď potom nik nebude jej
+        predpisovať, ona sama bude paňou svojich skutkov! A potom, veď v peknom,
+        vnove vystrojenom domove musí sa to, ako panej, tiež príjemne
+        bývať.
+   </tei:p>
+   <tei:p>
+    Takto asi predstavovala si to teraz slečna Ľudmila. I Anču posmeliť
+        držala za svoju povinnosť.
+   </tei:p>
+   <tei:p>
+    - Horšie si si to namyslela, ako je, — riekla potom s veľkou
+        prevahou. - Budeš ty môcť preto žartovať, aj si zaspievať; Paľo sám radšej
+        bude, keď budeš veselá, ako keby si smutná sedela v kúte. S mamkou
+        nepotrebuješ sa rozlúčiť, tú tak budeš mať tu ako dosiaľ - teda načo sa
+        rozžiaľuješ viac ako treba? Nespievaj si ty: „Nevydávaj sa ty, dievča,
+        ešte“, — ale si radšej zaspievaj: „Vydám sa ja, vydám, vydám sa ja rada,
+        lebo je to pekne, keď je žena mladá,“ — potom budeš zasa veselá.
+   </tei:p>
+   <tei:p>
+    Anča sa usmiala, vďačne dala sa potešiť.
+   </tei:p>
+   <tei:p>
+    - Veď si ja aj tú zaspievam, keď mi chuť príde.
+   </tei:p>
+   <tei:p>
+    Z ulice do brány vrachotil ľahký, úhľadný vozík a zastal pred
+        vchodom domovým. Pán, ktorý sedel v ňom, zodvihol sa, aby zišiel dolu;
+        vtedy stretol sa jeho zrak s Ľudmiliným. Bol to statný mladý muž vzozrenia
+        zámožného dedinského zemana, ktorý si ešte zakladá na svojom zemianstve.
+        Ľudmilu prejal cit neobyčajný, cit náhleho prekvapenia, takmer
+        preľaknutia; a ten zapríčinil také náhle menenie farby na jej lícach.
+        Príchodzieho pána i znala i neznala, to jest videla ho v spoločnosti a
+        bavila sa s ním na poslednej zábave, ale k dôverným jej známym nepatril.
+        Jeho oči hlboko utkveli jej v pamati, lebo tie nejeden raz sledovali ju s
+        akýmsi neopísateľným výrazom vzbudzujúceho sa, utajovaného ešte citu,
+        ktorý i teraz javil sa v nich, a ktorý, hoci sa tomu ako bránila, vyhnal
+        jej rumenec rozpakov do tváre. Nechala prácu a išla ho uvítať. Akosi
+        neobyčajne ťažko jej to prichodilo, len šťastie, že matka, Nelkou
+        uvedomená o príchode hosťa, prišla jej na pomoc. Nelka zboku pozorne
+        dívala sa na neho, jej bol ešte neznámy. Potom bežala do záhrady, vyhľadať
+        i otca; na to nebolo ju treba ani napomínať. Pani Jarovská voviedla hosťa
+        dnu, ale Ľudmila otáľala nasledovať ich, akási plachosť ju nadišla.
+   </tei:p>
+   <tei:p>
+    Anča pod cieňou celkom zabudla na svoju predsvadobnú clivosť, s
+        celou živou zvedavosťou a pozornosťou dívala sa spoza svojej práce na
+        odohrávajúci sa výjav vítania, menovite na hosťa a na svoju slečnu.
+   </tei:p>
+   <tei:p>
+    - Kišasonka, oni sa toho pána zľakli; nech len čakajú, ten ich
+        neminie! — dovolila si zaveštiť.
+   </tei:p>
+   <tei:p>
+    - Tebe sa všade s vydajom sníva, keď si sama v ňom.
+   </tei:p>
+   <tei:p>
+    Anča však nezdala sa cítiť ľútosť nad prehodenou svojou
+        poznámkou.
+   </tei:p>
+   <tei:p>
+    Nelka medzitým vyhľadala otca v záhrade a za ruku viedla ho do domu.
+        Bol v župane a domácej čiapočke, a hovel si pri tom zo svojej
+        penovky.
+   </tei:p>
+   <tei:p>
+    - Neluša veľmi náhlivo pribehla zvestovať mi príchod hosťa, ale
+        nevie mi povedať, kto je. Tvrdí, že ho ona ešte nevidela. O chvíľu sa síce
+        sám presvedčím, kto je, ale by som predsa rád vedieť, či sa mám najprv
+        preobliecť, a či môžem ostať tak, ako som?
+   </tei:p>
+   <tei:p>
+    Ľudmila trochu nesmelo odpovedala:
+   </tei:p>
+   <tei:p>
+    - To je pán Dolský z Bahnova; neviem, či ti v niektorej spoločnosti
+        bol predstavený. V posledné časy viac ráz videla som ho medzi našimi
+        známymi.
+   </tei:p>
+   <tei:p>
+    - Ach, pán Dolský! No to ma teší, ten mladý muž sa mi páči. U
+        Ruských zhováral som sa s ním, je vraj pasionátnym poľovníkom
+        , nuž som ho na jeseň a zimu pozval, aby si tu i tu prišiel
+        zapoľovať so mnou. Teraz je síce z riadnej poľovačky ešte nič; ale že
+        prišiel, mi je milé; zatváram z toho, že i on cíti ku mne priateľstvo ako
+        ja k nemu - ináč nemôžem si to myslieť.
+   </tei:p>
+   <tei:p>
+    Ľudmila vďačne ponechala otcovi príjemné presvedčenie, že jeho
+        najnovší mladý priateľ z púhej sympatie k nemu samému vyhľadal jeho dom;
+        ba usilovala sa i sebe naškriepiť to. Pán Jarovský ani nezamenil župan
+        kabátom, len, nasledovaný dcérami, ponáhľal sa uvítať milého mu
+        hosťa.
+   </tei:p>
+   <tei:p>
+    Anča zostala sama so svojimi kombináciami pri práci, a hotová bola
+        by bývala staviť sa, že jej „kišasonka“ tiež dosť skoro skúsi, ako je to
+        vydávať sa.
+   </tei:p>
+   <tei:p>
+    Leto pominulo, prišla jeseň. Bola to však jeseň pekná, jasná; jemné
+        nite babieho leta blýskajú sa v slnečnom svetle, pristavujú sa na vetvách
+        divých gaštanov v preddomovej záhradke a obsnúvajú bujné načervenalé
+        lístie a modré ovocie divej révy, ktorá venčí dom Jarovských. Pred bránou
+        potuluje sa tlupa zvedavých detí. Holuby spustili sa dolu zo svojich
+        podstrechových príbytkov a usilovne zbierajú v spoločnosti sliepok
+        odpadky, ktoré práve v hojnej miere dostávali sa im od slúžok čistiacich
+        hydinu. Kapúni hrdo nosia hlavy, netušiac, aký strašný osud hrozil im dnes
+        ráno; nebadajú, že mnohý pekný druh, ktorý pred pár hodinami žil ešte
+        medzi nimi, zmizol navždy. Kačice, ktorých kŕdeľ tiež sa dnes zmenšil,
+        urputným škrekom žiadajú svoj pokrm, nestarajúc sa o to, že teraz každý v
+        dome má plné ruky práce. A vskutku dokričali sa cieľa, o chvíľu malá ich
+        opatrovkyňa, Nelka, vyšla s naplnenou slamienkou a uspokojila bezohľadných
+        hltavých škrekľúňov. Kto ukázal sa von z domu, či na chodbe, či na dvore,
+        každému bolo veľmi náhlo, vôbec pohyb celého domu prezradzoval napnutú
+        činnosť.
+   </tei:p>
+   <tei:p>
+    A ešte len keď sa podívame do kuchyne, tam je plno a živo: ťažisko
+        celého domu je teraz tam. Ale akoby aj nie: veď robia sa prípravy na —
+        svadbu!
+   </tei:p>
+   <tei:p>
+    Na svadbu? —
+   </tei:p>
+   <tei:p>
+    Veru hej, na svadbu Ľudmily Jarovskej s pánom Ladislavom Dolským. On
+        prišiel, videl a zvíťazil
+        ; nie síce šmahom, len pozvoľna dobrým poriadkom, ako sa to
+        svedčí, — avšak tým istejšie. Cez leto úplne podarilo sa mu získať si
+        lásku dcéry a náklonnosť i dôveru rodičov.
+   </tei:p>
+   <tei:p>
+    Pán Jarovský ani sa nenahneval, keď konečne pobadal, že hlavným
+        magnetom, ktorý pána Dolského priťahuje do jeho domu, nie je on sám a jeho
+        poľovný revír. Veď na tom ani niet sa čo hnevať, keď miesto priateľa
+        dostane syna, že lepšieho nemohol by si ani želať. Pán Jarovský nikdy
+        netrpel na melanchóliu, ale teraz býval vždy ešte nadobyčajne dobrej
+        nálady. Nie že by ho tešilo sprostiť sa dcéry, lebo vždy rád ju mal okolo
+        seba, ale zo srdca tešil sa jej šťastiu, prekáral ju žartovne, sľuboval
+        svoje časté návštevy u nej, a na tie prípady vopred vyjednával si svoje
+        obľúbené jedlá. Že s nastávajúcim zaťom tuho sympatizoval, nepotrebujeme
+        pripomenúť.
+   </tei:p>
+   <tei:p>
+    Svadba ustálila sa na jeseň, keď pomíňa sa poľná práca a nastane
+        doba hojnosti.
+   </tei:p>
+   <tei:p>
+    A teraz v kuchyni i komore javí sa tá hojnosť vo všetkom, tam
+        nahromadené sú všelijaké potraviny, dosiaľ zväčša ešte v surovom stave.
+        Okolo nich zaneprázdnené sú pracovnice všetkých stupňov. Sama domáca pani
+        s prepásanou širokou zásterou a popri nej s visiacim zväzkom
+        väčších-menších kľúčov najviac vynáša potrebné veci z komory, i najvyšší
+        dozor vedie ona. Všetci s pozornosťou prijímajú tieto nariadenia, iba
+        okrúhla, baculatá pani Rajníčka, ktorá vprostred kuchyne pri
+        táfli
+        asi pol tucta zajacom zvlieka blany z chrbtov, pokojne,
+        samostatne pracuje ďalej - jej netýkajú sa nariadenia, ona sama vie, čo
+        kedy robiť má. Iba vtedy radí sa s paňou, keď ohľadom prípravy niektorého
+        jedla je voľba medzi viacerými spôsobmi, v ktorých je ona zbehlá vo
+        všetkých a dobrého zdaru vopred istá. Ide jej chýr v celom okolí ako
+        výtečnej kuchárke. — Ďalej pri neveľkom stolíku krútia sa dve menej
+        skúsené, avšak nie menej ochotné kuchárky. Ony svoju múdrosť čerpajú z
+        Babylonovej kuchárskej knihy
+        , ktorá pohotove roztvorená leží na obločnej poličke. Okolo
+        seba narozkladané majú samé jemné, dobré veci, ako sú: cukor, voňavé
+        lekváre, mandle, citróny, hrozienka, vanília atď. Tieto jemné kuchárky sú:
+        sama mladucha a jej sesternica Anna, ktorá už od viac týždňov baví sa tu,
+        pomáha chystať výbavu. Každú chvíľu sa pre niečo poharkajú.
+   </tei:p>
+   <tei:p>
+    — Deti, neškriepte sa, radšej dajte pozor na to, čo pred sebou máte!
+        — napomínala pani Jarovská.
+   </tei:p>
+   <tei:p>
+    — Veď mne tiež o to ide, tetuška, lebo nechcem sa hanbiť za pečivo
+        mnou zhotovené; ale práve preto musím ustavične napomínať túto roztržitú
+        mladuchu. Len si povážte, ako teraz doniesla Neluša načistené hrozienka,
+        Ľudmila nemala náhlejšej roboty, ako hodiť mi ich sem do piškótovej masy,
+        — no, či ste to kedy slýchali?
+   </tei:p>
+   <tei:p>
+    — Či to musíš pred všetkými vykričať? Ja som nedala pozor, myslela
+        som, že je to ten tvaroh, čo má prísť do krehkého koláča, — vyhovárala sa
+        Ľudmila, usmievajúc i červenajúc sa.
+   </tei:p>
+   <tei:p>
+    — Tieto mladuchy sú ozaj smiešne stvory. Ony nekráčajú po zemi,
+        držia ju za nebo alebo raj, žijú zo vzduchu, vyzerajú hviezdy, počúvajú
+        spev vtáčkov — nuž potom to už ináč nemôže byť, ako že jemnú piškótovú
+        masu majú za tvaroh.
+   </tei:p>
+   <tei:p>
+    Pani Jarovská sa usmiala.
+   </tei:p>
+   <tei:p>
+    — Neposmievaj sa, Anica, aby sa posmech i na teba nezviezol, keď
+        budeš mladuchou.
+   </tei:p>
+   <tei:p>
+    — Ak aj budem, zostanem i potom práve takou, ako som teraz — nedám
+        si svojmu ženíchovi tak hlavu pomútiť ako Ľudmila, aby mi nespyšnel. Hneď
+        si ho začnem vychovávať.
+   </tei:p>
+   <tei:p>
+    — No však sa potom svojim časom nahľadíme, ako to bude, — riekla s
+        pochybovaním pani Jarovská.
+   </tei:p>
+   <tei:p>
+    Nelka, ktorá zvedavo prišla sa podívať na hrozienka v piškótovej
+        mase, po tieto časy tiež nadobudla si svoje myšlienky o vydaji, ktoré však
+        vychodili na samé vzdušné, bájkovité predstavy. V nich sestra Ľudmila bola
+        princeznou z povesti, keď si ju predstavila v tých utešených bielych
+        svadobných šatách, v dlhom závoji a zelenom venci, čo v jej izbe čakali na
+        svadobný deň. Iba že by Lacko celkom odviedol Ľudmilku z rodičovského
+        domu, akoby ju od neho odtrhol, s tou myšlienkou sa nemohla spriateliť a
+        nemohla uveriť, že by Ľudmilka s tým súhlasila. V napnutom očakávaní
+        zajtrajšieho dňa i ona s dôležitosťou pomáhala pri prácach a keď jej
+        služieb už nik nepotreboval a na jej otázky nikomu nechcelo sa odpovedať,
+        utiahla sa do tichej izby viazať drobné kytky na pripnutie pre mladého
+        zaťa i pre družbov a iných svadobníkov, sľubujúc ošarpanej myrte na
+        obloku, že ju bude starostlivo opatrovať, aby vyhnala nové
+        mládniky.
+   </tei:p>
+   <tei:p>
+    Na sporáku vo veľkom hrnci vyvárala Mariša v bielom čepci, čiernou
+        pôločkou priviazanom a v zástere z domáceho plátna čierne hrubé rezance,
+        premývala ich studenou vodou, hádzala ich do objemnej misy, polievala
+        škvrčiacim maslom a miešala-prehadzovala dlhou vareškou, aby sa každému
+        dolezlo tej omasty. Pritom občas zdvihla pokrievku zo susednej
+        pavne
+        a pomiešala frflajúcu tam na kúsky rozkrájanú baraninu, z
+        ktorej zakaždým rozniesol sa zápach cesnaku a papriky.
+   </tei:p>
+   <tei:p>
+    Mariša mala mať na starosti nižšiu triedu svadobníkov, ktorá
+        záležala hlavne z niektorých pozvaných hospodárov z dediny a z príchodzích
+        kočišov. S tým však Mariši nepripadla ľahká úloha, lebo nech si nik
+        nemyslí, že tých ľahko je uspokojiť. Oni naopak myslia, že by veľmi zadali
+        svojej dôstojnosti, keby so všetkým boli spokojní, čo sa im predloží.
+        Chyby hľadať sa musia či na pití či na jedení! Ale ak voľakto, nuž Mariša
+        znala svojich ľudí a ich nároky, ona bola zasa tá, ktorá nesmela chybieť
+        na žiadnej svadbe v dedine ako výpomocnica. V tejto jej vlastnosti volali
+        ju jej posmešní rodáci „polízajkou“, avšak veľmi opatrne, iba tam, kde sa
+        to k jej sluchu dostať nemohlo; lebo kto by ju do očú takto bol poctil,
+        toho naskutku náležite vyobracala by — jazykom; a jej dobre známeho jazyka
+        bál sa každý. Tento posmešný názov však vonkoncom neujímal jej vzácnosti.
+        Keď viac svadieb bolo odrazu, gazdiné sa trhali, tu i tu i povadili o ňu,
+        na čo ona nemálo bola hrdá.
+   </tei:p>
+   <tei:p>
+    Teraz predbežne chystala si rezance pod kuraciu polievku pre svoju
+        čeliadku, aby jej zajtra o to menej práce pripadlo. Kapustu s baraninou už
+        má uvarenú, a baranina s lohazou
+        na druhú polievku takže nesmie chybieť. Opekance bryndzové a
+        makové budú sa zajtra pripravovať, upečené sú už. Bravčové lopatky tiež
+        obecala pani urodzená pre Marišiných hostí, to bude neobyčajná lahôdka v
+        tejto dobe. K tomu mala nachystanej cvikly za hrniec, a chren v mlieku
+        pripraví sa zajtra, lebo svadba bez cvikly a chrenu nestojí za nič. Mali
+        by byť aj pražené pampúchy a kysnuté makové, medom obliate rožky, ale to
+        nepovolila Mariši najvyššia vrchnosť; ako náhradu však sľúbila jej štrúdle
+        tvarohové i makové, ktoré vytiahne chýrna kuchárka, pani Rajníčka. Ona
+        uspokojila sa s tým, veď štrúdle sú hrdšie než starosvetske rožky, a veď
+        toto je panská svadba, nech sú teda i jedlá panské na nej.
+   </tei:p>
+   <tei:p>
+    Slúžky od rána čistili hydinu, aj Anča, nevesta pod čepcom, prišla
+        im pomáhať.
+   </tei:p>
+   <tei:p>
+    — A sa Paľo nehnevá, že svoju prácu meškáš pre našu? — pýtala sa
+        pani urodzená.
+   </tei:p>
+   <tei:p>
+    — Ej, veď je môj Paľo nie taký truľo, ako mnohý iný v dedine, on
+        vie, čo sa svedčí. Sám mi povedal, aby som len išla, že sa mi patrí pomôcť
+        svojim dobrým pánom pri takejto starosti. Veď by mi ani pokoja nedalo,
+        keby som ja nemala byť pri kišasonkinej svadbe.
+   </tei:p>
+   <tei:p>
+    — Teda len príď aj zajtra pomáhať pri umývaní riadu.
+   </tei:p>
+   <tei:p>
+    — Oj, prídem aj pred sobášom, aj po sobáši budem tu, len cez sobáš
+        pôjdem sa podívať do kostola. Vidia, kišasonka, však som im dobre
+        zaveštila, že ich ten pán neminú? Ja som im to hneď obom z očí vyčítala! A
+        nech len dobre plačú pri sobáši, lebo zo smutnej mladuchy býva veselá
+        žena. Ja som sa tiež naplakala dosť a teraz som veselá. Mám svojho Paľa, a
+        keď mi je dobrá vôľa, spievam si tak, ako aj za dievoctva. Aj im len toľko
+        žiadam, aby im ich vydaj bol tak po vôli ako mne môj!
+   </tei:p>
+   <tei:p>
+    Pani Rajníčka zajacov už poriadila, pekne slaninou popreťahované
+        ležali v rade. Práve nahovárala pani urodzenú, aby sa nedali všetky „do
+        pácu“, tie mladšie aby sa len zajtra napochytre pripravili, že ich mnohí
+        tak radšej jedia. Prijalo sa.
+   </tei:p>
+   <tei:p>
+    Teraz čakala nakopená, očistená, vyriadená hydina na šikovné ruky
+        pani Rajníčky. I nastalo tresírovanie
+        , špikovanie a všelijaké pripravovanie, — cverny, špagát,
+        plátno, všetky obsažnosti objemného zásterového vrecka pani Rajníčky sa
+        upotrebili. Išlo to na obdiv spôsobne. Na Marišine štrúdle tiež prišiel
+        rad, Rajníčka chytila sa do nich, pochlúbiac sa vopred, že na jej
+        štrúdlach ani okrajkov na obstrihanie neostane. Tvaroh proti nárade pani
+        Jarovskej pripravila pririedky, neľutovala smotany do neho, lebo veď i
+        kočiši vedia, čo je dobré.
+   </tei:p>
+   <tei:p>
+    — Mariša, odpracte už baraninu a dajte mi tam tú širokú rajničku na
+        oheň, nech sa to vypraží! — nariaďovala Jarovská.
+   </tei:p>
+   <tei:p>
+    Jarovský, ktorý medzitým prišiel sa len trochu podívať na tú
+        veľkolepú činnosť, čo vyviňovala sa teraz v kuchyni pochytil to ihneď a
+        otvoriac dvere dokorán, volal:
+   </tei:p>
+   <tei:p>
+    — Tuto sú dvere, pani Rajníčka, chytro nech sa zachránia!
+   </tei:p>
+   <tei:p>
+    Rajníčka sa len usmiala ďalej trepúc svoje štrúdľové cesto a domáca
+        pani udivene pozrela na neho.
+   </tei:p>
+   <tei:p>
+    — Čože to zasa stváraš?
+   </tei:p>
+   <tei:p>
+    — No, veď som vari dobre počul, že Mariša má dať širokú Rajníčku na
+        oheň, aby sa vypražila. Je to ukrutný, ale jasný rozkaz. Nakoľko ja však
+        vo svojom dome takú ukrutnosť nechcem pripustiť, vyzývam širokú Rajníčku,
+        aby sa chytro ratovala, kým sa Mariša neoddá do nej.
+   </tei:p>
+   <tei:p>
+    Mariša v smiechu cerila zuby a samoľúbo poznamenala, že však by ona
+        veru ľahko prevládala pani Rajníčku, keby sa tak dali za pasy. I starý
+        sluha, ktorý za dverami mak tĺkol, usmieval sa žartovnosti svojho
+        pána.
+   </tei:p>
+   <tei:p>
+    — Pani Rajníčku mi nestraš a nevyháňaj, ona je teraz tu hlavnou
+        osobou! — ozvala sa dôrazne avšak usmievavo pani.
+   </tei:p>
+   <tei:p>
+    — Veru, ujček, lebo potom by ste vy museli štrúdle ťahať! — doložila
+        Anna zo svojej strany.
+   </tei:p>
+   <tei:p>
+    — No, no, veď už vidím, že tu nie som ja pánom! Keď ženy koláče
+        pečú, aby sa im pokojamilovný človek nezblížil; to vždy tak bolo, aj tak
+        bude!
+   </tei:p>
+   <tei:p>
+    — Štrúdle, štrúdle, ujček, nie koláče!
+   </tei:p>
+   <tei:p>
+    — Eh, štrúdle alebo koláče — to je všetko z múky, masla, tvarohu — a
+        čo ja viem...!
+   </tei:p>
+   <tei:p>
+    — Ej, veru nie, to my lepšie musíme vedieť. Počkajte, musím vám
+        vysvetliť rozdiel medzi štrúdľami a koláčmi. Nuž viete, ujko môj,
+        koláče...
+   </tei:p>
+   <tei:p>
+    — Ďakujem pekne, Anica, ponechaj si to na druhý raz, teraz sa radšej
+        odpracem! — poponáhľal sa odoprieť a už držal kľučku v ruke. Jeho pani
+        napomenula ešte, aby nezabudol porobiť aj poriadok s vínom.
+   </tei:p>
+   <tei:p>
+    — Mám to na starosti, — vetil už z dverí, — len mi pošli niekoho pre
+        pomocníka do školy, on má byť zajtra mojím sklepníkom, a Janko i Karol
+        budú mu pomáhať.
+   </tei:p>
+   <tei:p>
+    Janko a Karol boli domáci synovia, ktorí tiež dnes mali domov
+        doraziť na svadbu sestrinu.
+   </tei:p>
+   <tei:p>
+    — Ujčeka sme víťazne odohnali! — poznamenala Anna, keď Jarovský bol
+        odišiel.
+   </tei:p>
+   <tei:p>
+    — Čo je hlavne tvojou zásluhou, — doznávala tetuška.
+   </tei:p>
+   <tei:p>
+    — Len som rada, že mi nepovedal niečo o tých husiach, čo to v Ríme
+        ratovali ten Kapitol.
+   </tei:p>
+   <tei:p>
+    Mladuchy už nebolo tu, tá medzitým z hlučnej kuchyne utiahla sa do
+        tichosti izieb.
+   </tei:p>
+   <tei:p>
+    Pani Rajníčka tiež odpratala sa do prikuchynskej izby, aby tam svoje
+        štrúdle ťahať mohla. Dosiaľ darilo sa jej všetko výborne, ale teraz na
+        štrúdľach hrozila sa keď nie stroskotať, aspoň zaseknúť jej kuchárska
+        sláva a neomylnosť. Viac dier ako cesta sa jej vytiahlo, práve tak, ako je
+        na zemevide viac mora než pevniny. A ešte len keď riedky, smotanou
+        prerábaný tvaroh pokyckala po tých nepevných pevninách a ostrovkoch,
+        preboril sa všade cez cesto a rozlieval sa po obruse. Tvár pani Rajníčky
+        mrzutosťou ešte viac očervenela, biely, pod bradou uviazaný čepiec krivo
+        stál. Zúfalo postenávala si — celá sa už potila. A tu ešte tá všetečná
+        slečna Anna vstrčila dnu hlavu a pýtala sa, či sa štrúdla dobre
+        darí.
+   </tei:p>
+   <tei:p>
+    — Rajníčka je celá zúfalá, štrúdľa samá diera, tvaroh všetok po
+        obruse! — zvestovala v kuchyni, a nezaprela si pre zábavu poslať ešte
+        slúžku dnu, aby oznámila, že je ťapša na štrúdľu už pomastená, čo pani
+        Rajníčku už celkom nervóznou urobilo. A ešte nebolo dosť na tom, o chvíľu
+        sám domáci pán, ktorý prišiel si pre pivničný kľúč, zastarel sa do nej. To
+        ju už celkom vynieslo z trpezlivosti.
+   </tei:p>
+   <tei:p>
+    — Z mrcha múky nemôže sa mi dobre dariť! — odsekla mrzuto. Keď sa
+        štrúdľa nedarí, vždy múka vyhrmí.
+   </tei:p>
+   <tei:p>
+    — Nech sa preto netrápia, zo štrúdle spravíme tvarohové knedle a
+        obrus pokrútime do trúbele a dáme ho do pece — tvarohom je už dostatočne
+        preparovaný, — potešoval domáci pán a zanechal utrápenú Rajníčku samú
+        sebe, kým domáca pani neprišla jej na pomoc. Štrúdle sa konečne dohotovili
+        a boli do kolies pokrútené, veľmi chutného vzhľadu.
+   </tei:p>
+   <tei:p>
+    Ale potom ešte mnohé práce museli byť vykonané; pani Jarovská
+        nejeden raz vzdychla:
+   </tei:p>
+   <tei:p>
+    — Len aby sa nám to všetko vydarilo!
+   </tei:p>
+   <tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+   </tei:p>
+   <tei:p>
+    Pri súrnej práci uchodil čas, chýlilo sa k večeru. Medzitým došla
+        bola i očakávaná sestra Jarovskej, Annina mama, a len čo si trochu
+        posedela pri olovrante, už sa pobrala k robote do kuchyne. Ale najprv ju
+        Anna odviedla ešte do komory, že sú tam zaujímavé veci. Zastala pri
+        dverách a v úžase stľapla spolu ruky. Všetky police zakladené misami,
+        ťapšami, košíkmi, na nich torty, cukrovinky, oblátky a iné pečivo,
+        kompóty, šaláty atď. a na širokej táfli pri druhej stene popriprávané
+        rozličné masá, čo sa zajtra budú mať piecť.
+   </tei:p>
+   <tei:p>
+    — Vidíš, mamička, prizri sa a zachovaj si, čo všetko je potrebné,
+        keď mamka dcéru vydáva, — pripomenula dcéra matke.
+   </tei:p>
+   <tei:p>
+    — Aj s polovicou tohto by sme sa uspokojili — len už o hlavnú vec by
+        si sa ty sama musela postarať: o poriadneho ženícha.
+   </tei:p>
+   <tei:p>
+    — Dobre! Zajtrajším dňom začnem sa o neho starať — len keby ten Laco
+        doviedol akýchsi driečnych družbov! Lebo tu som sa ti už celkom vžila do
+        takého svadobného ovzdušia, cítim, že musí nasledovať pokračovanie.
+   </tei:p>
+   <tei:p>
+    — Však ty doma zasa odvykneš od neho pekne-krásne... — odvetila
+        matka akoby s rezignáciou, prihladiac si vlasy nad čelom.
+   </tei:p>
+   <tei:p>
+    Dcérine tmavé oči, ktoré veľmi sa podobali matkiným, veselo sa
+        rozsvietili.
+   </tei:p>
+   <tei:p>
+    — Neboj sa nič, mamička, len ty buď vždy dobrá; uvidíš, že sa ti
+        vydám!
+   </tei:p>
+   <tei:p>
+    — Na to ty máš byť dobrá — nie ja.
+   </tei:p>
+   <tei:p>
+    — Veru ty, mamička, lebo podľa teba budú súdiť mňa. Teda ak sa ma
+        chceš sprostiť, musíš byť veľmi dobrá.
+   </tei:p>
+   <tei:p>
+    — Nuž, hľa, zasa vajce sliepku poúča — usmiala sa mať, navyknutá na
+        také šarvátky s dcérou.
+   </tei:p>
+   <tei:p>
+    Karol a Janko tiež došli s tetou, hneď ich bol plný dom a najviac
+        ich oduševňovala tá hojnosť dobrých vecí. Naskutku išli po vlastnom vkuse
+        vyskúmať, ktoré z nich sú najchutnejšie, pri čom ich sesternica Anna
+        napomínala, aby mali rozum a nepokazili si žalúdok hneď v prvý deň, ale
+        radšej po svadbe, pred odchodom z domu, keď už všetky dobré veci budú
+        pojedené a nebude im mať byť za čím ľúto.
+   </tei:p>
+   <tei:p>
+    Pre túto dobrú radu sa hneď skamarátili s ňou a vyznačovali ju
+        svojou dôverou, lebo sestra — mladá nevesta zdala sa im už byť
+        neprístupnou.
+   </tei:p>
+   <tei:p>
+    O chvíľu Anna už triedila v jedálni krásne jesenné hrušky, čo zajtra
+        mali prísť na svadobný stôl, a zazrela Ľudmilu vo vedľajšej izbe zamyslenú
+        stáť pred posteľou, na ktorej rozprestreté ležali jej bielučičké,
+        myrtovými halúzkami oživené svadobné šaty. Prišla k nej.
+   </tei:p>
+   <tei:p>
+    — Krásne sú ti, ani z cukru. Je to pekne mladuchou byť, už kvôli
+        tomu zvláštnemu obleku, — prehodila svojím ľahkým spôsobom.
+   </tei:p>
+   <tei:p>
+    Ľudmila pokrútila hlavou.
+   </tei:p>
+   <tei:p>
+    — Nehľadím ja teraz na ich krásu, len ma nadchodí divný pocit, keď
+        na ne pozriem. Hneď musím na to pomyslieť, že v týchto šatách prestanem
+        byť dievčaťom a začnem byť ženou — či je to nie podivuhodné? Neopisateľne
+        ma to dojíma, neviem si ani rady...
+   </tei:p>
+   <tei:p>
+    Malá Nelka, ktorá pri obloku tenkými prštekmi naväzovala biele
+        mašličky na zelené kytôčky, s akýmsi užasnutím počúvala sestrine slová,
+        ktoré samy v sebe síce neboli strašné, ale hlas a výraz sestrinej tváre
+        vzbudil v nej predstavu akéhosi nebezpečenstva, ktoré zachvacuje Ľudmilku,
+        a nechápala, prečo ju nik nechráni od neho.
+   </tei:p>
+   <tei:p>
+    I Anna sa na chvíľu zamyslela.
+   </tei:p>
+   <tei:p>
+    — Isteže je v tom čosi, ale to treba potlačiť. Ja na tvojom mieste
+        by som teraz iba na to myslela, ako by som si najlepšie zariadila svoju
+        nastávajúcu domácnosť, aby sme sa v nej obaja — „on“ totižto a ja — dobre
+        cítili. Ak takto budeš trúchliť, si Lacko môže ešte namyslieť,
+        ktoviečo...
+   </tei:p>
+   <tei:p>
+    — V tom pre neho niet ani najmenšej ujmy, to sa vzťahuje nie na
+        osobu, iba na sám vydaj.
+   </tei:p>
+   <tei:p>
+    — Pri vydaji ako je tvoj, veru škoda pripúšťať si trúchlivých
+        myšlienok.
+   </tei:p>
+   <tei:p>
+    Ľudmila zasa pokrútila hlavou.
+   </tei:p>
+   <tei:p>
+    — Nedá sa to ohlušiť — naľahko preskočiť cez tú veľkú premenu
+        pomerov, — tvrdila, odpratúvajúc sobášne šaty do skrine, aby izbu mohli
+        hostia zaujať.
+   </tei:p>
+   <tei:p>
+    Nelke pri obloku málo chybelo, že sa nepustila do plaču.
+   </tei:p>
+   <tei:p>
+    Vonku zarachotili koče — a už i zastali.
+   </tei:p>
+   <tei:p>
+    — Už sú tu! Chytro sa rozveseľ! — zvolala Anna, pokročiac k dverám.
+        Idúcky strhla si ešte kuchynskú zásteru, aby sa hosťom mohla predstaviť v
+        jemnej vyšívanej, posiaľ pod kuchynskou ukrytej.
+   </tei:p>
+   <tei:p>
+    Ľudmile búšilo srdce — zostala stáť na mieste. Zvonku počuť bolo
+        mnoho hlasov, známych i neznámych, — akosi ťažko jej padlo zrazu vystaviť
+        sa všetkým zvedavým očiam. No v susednej izbe už otvárajú sa dvere a v
+        nich — on! ,Mňa hľadá, keď ma tam nevidel!' radostne prelietlo jej mysľou,
+        a už letela mu v ústrety. Vprostred izby sa zišli, zovrel ju do náručia.
+        Na chvíľu spočinula jej hlava na jeho prsiach a vtedy zmizla všetka
+        clivosť zo srdca, ostala tam sama láska.
+   </tei:p>
+   <tei:p>
+    ,Už som si prišiel pre teba.' ,Idem s tebou, kam ma zavedieš...'
+        bolo asi, čo si nevyslovene povedali.
+   </tei:p>
+   <tei:p>
+    Nelka z druhej izby hľadela na nich, jej široko roztvorené oči zrazu
+        zaliali sa slzami — hodiac sa na kanapu, oplakávala sestru Ľudmilku pre
+        čosi, čomu sama nerozumela, kým vonku trval hluk a nepokoj s vítaním a
+        vovádzaním hostí, vnášaním kufrov, košov, škatúľ atď.
+   </tei:p>
+   <tei:p>
+    Pozdejšie, pri večeri uvoľnila sa istá napnutosť nálady, aká javila
+        sa po príchode mladého zaťa a jeho príbuzných, Jarovskovcom čiastočne ešte
+        neznámych, a ku koncu večere už zavládla nenútená dobrá vôľa, keď po
+        skúmavých, potajme navzájom sa merajúcich pohľadoch oboch stránok
+        vďačnosti hostiteľov nikto nemohol odolať. Jarovský vždy mal ku všetkým
+        obrátenú pozornosť, jeho žena a jej sestra venovali sa matke mladého zaťa,
+        ktorá po dlhej vozbe zle sa cítila; Ľudmila z jednej strany mala pri sebe
+        svojho ženícha, z druhej jeho brata a toho ženu, oproti sebe jeho sestru s
+        jej verencom — a Annu, ktorej živé oči ku každému zahovorili. Obe stránky
+        vžívali sa do takto rozšíreného rodinného kruhu. Iba Karol, Janko a Nelka
+        sedeli v kúte pri osobitnom stolíku a odtiaľ pilno pozorovali spoločnosť
+        dospelých — a kritizovali.
+   </tei:p>
+   <tei:p>
+    Po večeri, keď sa zo stola pozoberalo, odviedli panie matku mladého
+        zaťa do pokojnej izby, kde mala s dcérou nocovať; páni ostali besedovať
+        pri cigarách a pohárikoch. Anna pridružila sa k novej švagrinej, žene
+        mladého zaťovho brata, u ktorej pobadala, že tiež rada má žarty, a
+        požalovala sa jej, že na ňu nik nepamätal nejakým družbom. Tá ju
+        ubezpečila, že zajtra dostaví sa ešte celý rad družbov, Lackových
+        priateľov zo stoličného mesta, ktorí by si vraj i rebro dali vystaviť za
+        takúto neviazanú srdečnú a hojnosťou dobrých vecí oplývajúcu dedinskú
+        svadbu. Ale príde vraj i niekoľko družíc.
+   </tei:p>
+   <tei:p>
+    — No, to sa už iste strhne tanec! — teší sa Anna. — Cigáni-muzikanti
+        sa beztak i nevolaní ustanovia, teta má i pre nich mäsa a koláčov
+        nachystaných.
+   </tei:p>
+   <tei:p>
+    Sestra mladého zaťa so svojím verencom usadila sa do kúta na malú
+        kanapku — ona ružová, okrúhlastá, v jasnobelasých šatách, on šťúply,
+        bledý, vyberane starostlivo oblečený, s akousi ustálenou posmešnou črtou
+        okolo úst.
+   </tei:p>
+   <tei:p>
+    A sama Ľudmila, nikým nezbadaná, utiahla sa do vedľajšej izby. Bola
+        unavená od dojmov a rozčúlenia, od rozhovorov i ustavičného nepokoja — a
+        spod toho všetkého zasa hlásila sa i jej zapudená clivosť. Oblokom cez
+        zrednuté lístie blízkeho stromu predieralo sa biele mesačné svetlo a
+        ihralo po obloku a dlážke. Otvorenými od jedálne dverami tiež vchádzal
+        široký prúd svetla i vnikali živé hlasy besedujúcich. Pološero izby,
+        blízke, ale nemýliace ju hlasy upokojivo účinkovali na Ľudmilu. Nechcelo
+        sa jej naspäť k spoločnosti, žiadalo sa jej samoty, aby sa aspoň na chvíľu
+        mohla ponoriť do svojho vnútorného sveta, žeby našla v ňom samú seba v
+        tento posledný večer pred svojou svadbou.
+   </tei:p>
+   <tei:p>
+    Kľakla si na podnož a sklonila čelo na obločnú poličku. Zložila ruky
+        k vrúcnej modlitbe. Prosila od boha sily, pomoci a zdaru na nastávajúcu
+        novú úlohu, ktorá jej samej bola ešte akousi obávanou záhadou. Stratiť
+        bezstarostnú dievčenskú slobodu a skloniť šiju do jarma — hoci milého — z
+        ktorého niet viac vyviaznutia — to je ťažko. Zaslzila za bielym kvetom
+        svojej panenskej slobody...
+   </tei:p>
+   <tei:p>
+    Láskavá ruka pohladkala jej hlavu. Zdvihla zaslzenú tvár.
+   </tei:p>
+   <tei:p>
+    — Čo vyhľadávaš samotu? Stalo sa ti niečo nepríjemné? — opytuje sa
+        matka, zastanúc za jej chrbtom.
+   </tei:p>
+   <tei:p>
+    — Nie, nič — len mi je tak ťažko, že vás už mám zanechať, že...
+        že...
+   </tei:p>
+   <tei:p>
+    Slzy kotúľali sa jej dolu lícami.
+   </tei:p>
+   <tei:p>
+    Matka si sadla na kanapu a pritiahla dcéru k sebe.
+   </tei:p>
+   <tei:p>
+    — Vidíš, toto musí podstúpiť každé dievča, keď sa vydáva, ak je
+        citného srdca. Ale v tom si musíš rozkázať — inej pomoci niet. I sebe i
+        nám kvôli, i aby si to niekto na zlé nevysvetľoval. Napríklad Lacko a jeho
+        rodina.
+   </tei:p>
+   <tei:p>
+    — Len za chvíľu sa mi daj vyplakať, bude mi potom ľahšie... —
+        prosila dcéra, tisnúc tvár k matkinmu plecu.
+   </tei:p>
+   <tei:p>
+    — A povedzže mi: bolo by ti po vôli, keby sme teraz svadbu odriekli
+        alebo na ďalej odložili?
+   </tei:p>
+   <tei:p>
+    — Nie — to už nie! — zvolala dcéra, zdvihnúc náhle hlavu.
+   </tei:p>
+   <tei:p>
+    — Tak sa opanuj, práve v tom sa už musíš cvičiť. Veď sme ťa nenútili
+        do vydaja.
+   </tei:p>
+   <tei:p>
+    — A či mi nemá byť ľúto, že vás tu nechám, ktorí ste ma vychovali, a
+        musím na iných privykať?
+   </tei:p>
+   <tei:p>
+    — Nás nestratíš, moje dieťa, — vinula ju mať k sebe — a tých iných
+        si priľúbiš, preto že sú Lackovi blízki, ako si i on priľúbil nás.
+   </tei:p>
+   <tei:p>
+    — I to mi je ľúto, že stratím svoju slobodu, v ktorej mi bolo tak
+        dobre — hlava ľahká — a to sa mi už nikdy viac nevráti...
+   </tei:p>
+   <tei:p>
+    — Uznám ti všetko, ale vydaj bez straty slobody nemôže byť. Mladosť
+        vždy sa ľaká jarma povinností, ale uvidíš, že si ich obľúbiš. Bez nich bol
+        by náš život bez ceny. A i dievčenská sloboda len dotiaľ je milá, kým jej
+        čas neprejde. Máš sa šťastnou cítiť, že ju obetuješ mužovi, ktorého
+        ľúbiš.
+   </tei:p>
+   <tei:p>
+    — Veď to by ja nedala za nič na svete, len keby som aspoň vedela, že
+        sa vždy takto budeme ľúbiť.
+   </tei:p>
+   <tei:p>
+    — Teraz, pravda, strašná ti je myšlienka, že i láska v manželstve
+        podrobená je zmenám, ale škoda ti je preto sa trápiť. I to ide svojím
+        prirodzeným postupom. Keď sa zbadáte na tom, že vaša láska podľa vášho
+        zdania už nie je taká pekná, ako bola, keď ste sa brali, vtedy iste tiež
+        nahliadnete, že je omnoho hlbšia, spoločnými starosťami a vzájomnými
+        obeťami posvätená, blahodarná nielen pre vás dvoch, ale pre všetkých,
+        ktorí k vám budú patriť.
+   </tei:p>
+   <tei:p>
+    Ľudmila vrúcnejšie objala matku, ktorá vlastným príkladom dotvrdzuje
+        to, čo teraz povedala. Ale hoci to ako uznáva, seba ešte ani v predstave
+        nechce vidieť tam, kde je už matka — veď je pravda, že každá vec musí
+        dočkať svojho času.
+   </tei:p>
+   <tei:p>
+    Vo dverách od jedálne zastal Ladislav, skúmavo hľadiac do pološera k
+        tým dvom.
+   </tei:p>
+   <tei:p>
+    — Akúže to máte poradu? Počul som vaše hlasy, ale netrúfal som si k
+        vám, keď ste sa tak odtiahli od nás. — V jeho hlase pozunievala akoby
+        urazenosť.
+   </tei:p>
+   <tei:p>
+    — Odoberali sme sa bez svedkov jedna od druhej, lebo potom, keď mi
+        ju budeš odvádzať, bude to musieť byť pred svedkami, — odpovedala
+        matka.
+   </tei:p>
+   <tei:p>
+    — A ty už teraz plačeš? — obrátil sa k svojej neveste, priťahujúc ju
+        k sebe. — Ja som v najblaženejšej nálade a moja Ľudmilka plače... to
+        nechápem...
+   </tei:p>
+   <tei:p>
+    Ona sklopila oči, ako v povedomí viny, on vzal jej šatôčku z ruky a
+        utrel ňou slzy, ktoré ešte triasli sa jej na mihalniciach.
+   </tei:p>
+   <tei:p>
+    — Je to známa vec, že mladí zaťovia neplakávajú na svojej svadbe, a
+        mladé nevesty temer každá. Musí to už mať svoje príčiny — poznamenala
+        matka.
+   </tei:p>
+   <tei:p>
+    — Ja by som Ľudmilke nikdy nechcel zavdať takých príčin.
+   </tei:p>
+   <tei:p>
+    — Veď od zajtra už nebudem plakať — sľubovala ona, s vyjasneným
+        zrakom túliac sa k nemu, — iba ak ešte pri odchode z rodičovského domu.
+        Dotiaľ ešte maj pozhovenia.
+   </tei:p>
+   <tei:p>
+    — Dobre teda. Ale od toho dňa radšej prijmem nejaké pokarhanie od
+        teba, ak si ho zaslúžim, ako ťa mám vidieť plakať. Sem ruku na to!
+   </tei:p>
+   <tei:p>
+    Voviedol ju do jedálne, kde všetky oči so záujmom sa k nim
+        obrátili.
+   </tei:p>
+   <tei:p>
+    Tým prípravy na svadbu u Jarovských sú skončené a môžeme mať nádej,
+        že sa svadba vydarí a čo je najhlavnejšie — že zväzok ňou stvrdený bude
+        šťastný.
+   </tei:p>
+   <tei:p>
+    Príprava na svadbu — koľko dúm a citov budíš v ženskej duši, ktorých
+        dotiaľ nepoznala a ktoré zatým viac sa nezopakujú. Či je manželstvo po
+        ľudskej skromnej možnosti šťastné a či nasledujú trpké sklamania,
+        rozpomienky na dni slasti a bázne, na dobu, keď srdce ožívalo láskou a
+        zmieralo obavou, hotové na každú obeť za toho, koho si zamilovalo, zostanú
+        až do konca života najkrajšími a najmocnejšími u nej. Vtedy zdalo sa jej,
+        že je ľudský život plný krásneho bohatstva a ona že nastúpila cestu k jeho
+        vrcholu.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

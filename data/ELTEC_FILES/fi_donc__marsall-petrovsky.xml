@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK201280" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Fi donc! : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:42640171">
+     Maršall-Petrvoský, Gustáv (1862-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     1102
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:42640171">
+      Maršall-Petrvoský, Gustáv (1862-1916)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Fi donc!
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Gustáv Maršall- Petrovský
+      FI DONC!
+   </tei:p>
+   <tei:p>
+    Ó,ty jemné, krásne pohlavie, vy ženy, ako ľúbim vás ja! Veru! A ľúbil by
+      vás ibez pálených vlasov, ibez turnierov, a síce preto, pretože neľúbil by
+      vás ani teraz, keby mali ste len tie okrasy a vnady!
+   </tei:p>
+   <tei:p>
+    Ó, vy krásne, jemné ženy! Kolko myšlienok zamlčal a koľko sprostostí
+      pohovoril som pod vplyvom vaším! A vy usmiali ste sa. Tak podľa pra-
+      vidla „Umgang mit Menschen“, aby zo zúbkov nebolo vidieť ani veľa, ani,
+      málo. Ó, tie zúbky! Malé ako myšacie a biele ako sneh!
+   </tei:p>
+   <tei:p>
+    A tie pery! Čerstvé ako poľná malina, sladšie od medu - tie, tie ako
+      červenajú sa stred tváre! Človek-laik nazdal by sa bohviečo: môžbyť to,
+      že je to prirodzené...
+   </tei:p>
+   <tei:p>
+    A tá hladká, lištiaca sa bielunká tvár! Ako keď na zrelú bystrickú slivu
+      vysadne pď, tak milo belejú sa drobulinké krištály najjemnejšieho ryžo-
+      vého prachu.
+   </tei:p>
+   <tei:p>
+    A tie obočia! Aké štíhle sú ony! Ani inžinier nemohol by ich lepšie
+      vykrojiť. Oh, oh! Kolko horkých síz stálo to pekné očká, kým vlas za
+      vlasom, tento tiskal sa hore, ten dolu a tie nemilosrdne vytrhali sa - ato
+      všetko zato, aby ja, aby sme my požívať mohli štíhlosť, krásu ich!
+   </tei:p>
+   <tei:p>
+    No či ďalej ísť? Či opísať, ako vyzerá pyšná šija, vzdorovitá hruď mo-
+      dernej Venuše? Či opísať, ako graciózne a predsa silno kráča moderná
+      Diana v ľahunkých topánkach, vyvýšených nad zem decimetrovým
+      podpätkom...? Či opísať všetko to...? Nie, nemožno mi... Fi donc!
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Poznal som ju, Kunigundu, ešte vtedy, keď sa nosili úzke šaty.
+    </tei:p>
+    <tei:p>
+     Raz na výlete, kde ona síce nielenže neletela, ale skoro ani drobčiť
+        nemohla, na romantickej platanovej aleji, stred tajného šelestu lístia.
+        a omamujúcej vône jemných poľných kvetov - zaštekal na Kunu malý
+        psíček. Ja práve plnil som jej rozkaz: trhal som kvety na lúke.
+    </tei:p>
+    <tei:p>
+     „Jaj, jaj!“ vyrval sa jej úzkostlivý výkrik.
+    </tei:p>
+    <tei:p>
+     Psíček štekal - a Kuna pre šaty nemohla utekať.
+    </tei:p>
+    <tei:p>
+     „Preboha, zachráňte ma!“ volala na mňa.
+    </tei:p>
+    <tei:p>
+     Z očú tiekli jej veľké slzy, tvár jej bola na smrť bledá, ruky mala voči
+        mne zopäté.
+    </tei:p>
+    <tei:p>
+     Pribehol som k nej a - vyslobodil som ju.
+    </tei:p>
+    <tei:p>
+     Ona, trasúc sa na celom tele, hodila sa mi na hruď a ovila hlavu mo-
+        jimi mäkkými baršúnovými rukávmi.
+    </tei:p>
+    <tei:p>
+     Na strome zahvízdala žlna, dolu v húšťave ,zatlúkoľ slávik, haluze
+        stromu fajne zašumeli a - Kuna bola moja z vďaky, že vyslobodil som ju
+        zo smrteľného nebezpečenstva.
+    </tei:p>
+    <tei:p>
+     Oh, hlava puknúť má sa mi, keď na tú hodinu pomyslím. Či nemohol
+        vtedy radšej kuvik kuvikať, sova kukať, strom sa lámať nad nami?
+    </tei:p>
+    <tei:p>
+     Nuž ale bol som mladý a svojím pánom.
+    </tei:p>
+    <tei:p>
+     To jest pánom som bol, ale to, čo som mal, nebolo moje. Dôchodky
+        boli slabé a požiadavky veľké. Nie div, že krajčír šustrovi, tento židovi
+        a tento zas domovému pánovi podával kľučku. Slovom, celé povstanie
+        veriteľov. Bolo treba pomoci.
+    </tei:p>
+    <tei:p>
+     Kuna bola náramne bohatá. Veľké statky, mnoho peňazí!
+    </tei:p>
+    <tei:p>
+     O dva týždne po nešťastnom prípade boli sme svoji.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Dali sme sa na cestu - medovú. Loď viezla nás dolu k poludniu.
+        Hneď na prvej stanici vystúpil mladý poručík.
+        „Ach, pán poručík!“ vítala ho moja žena.
+     <tei:pb/>
+     Dolu nižšie vystúpil stotník.
+    </tei:p>
+    <tei:p>
+     » Ako ma teší, pán stotník!“ vítala i tohto Kuna.
+    </tei:p>
+    <tei:p>
+     Pri Pešti vysadol mladý muž v civilnom obleku.
+    </tei:p>
+    <tei:p>
+     „Skadiaľ vy, pán advokát?“ pýtala sa ho moja pani.
+    </tei:p>
+    <tei:p>
+     A všetkým trom dala si bozkať ruky a všetci traja tešili sa, že pôjdeme
+        spolu do C.
+    </tei:p>
+    <tei:p>
+     Vyšiel som na palubu.
+    </tei:p>
+    <tei:p>
+     „Kolko siah je tu hlboký Dunaj?“ pýtam sa matróza.
+    </tei:p>
+    <tei:p>
+     „Skoro bez dna, pane!“
+    </tei:p>
+    <tei:p>
+     „Ale predsa!“
+    </tei:p>
+    <tei:p>
+     » Azda i desať siah,“ mienil matróz.
+    </tei:p>
+    <tei:p>
+     Pozrel som hore. Nebo bolo jasné a dolu vlnila sa modrá voda od
+        slabunkého vetra.
+    </tei:p>
+    <tei:p>
+     Vyzdvihol som ruku. Lúče slnečné vlnili sa na drahokamoch mojich
+        prsteňov a na prsiach lišťala sa skvostná reťaz. Okrem toho tiskal ma
+        bočný vačok: hrúza peňazí bolo v ňom.
+    </tei:p>
+    <tei:p>
+     Nad loďou zavýskal vták „rybár“: prešiel ma mráz.
+    </tei:p>
+    <tei:p>
+     „Desať siah!“ šomral som cez zuby. „Predsa kus veľa!“
+    </tei:p>
+    <tei:p>
+     Vydul som prsia, vztýčil som hlavu a kráčal som dolu z paluby.
+    </tei:p>
+    <tei:p>
+     Najvzácnejšie nápoje dal som si doniesť a zabudol som na svet.
+    </tei:p>
+    <tei:p>
+     Sluhovia pokorne stáli za mnou a na najmenší pokyn leteli plniť roz-
+        kazy moje. Nebolo im zadarmo.
+    </tei:p>
+    <tei:p>
+     Podvečer kukla i Kuna, no rýchlo skočila zas nazad. Oči boli mi mút-
+        ne, nalíca vysadli mi ruže: zato ale čisto počul som z úst ženy svojej:
+    </tei:p>
+    <tei:p>
+     „Fi donc!“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Prišli sme domov, do Viedne. Kuna bola milá až na zjedenie! Vtedy bola
+        móda tuhé šnurovanie. Nuž povážte, každé ráno dala sa Kuna šnurovať
+        a mne udelená bola radosť každodenne sprobúvať, či svojimi desiatimi
+        prstami objímem hybký driek svojej ženy!
+    </tei:p>
+    <tei:p>
+     Ó, to bola radosť! Bola mi len tým kazená, že nijak neprišli sme
+        k cieľu.
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Ty máš príl
+    </tei:p>
+    <tei:p>
+     "Takto milo plynul mi čas.
+    </tei:p>
+    <tei:p>
+     Asi o týždeň po našom príchode dostal som i priateľov.
+    </tei:p>
+    <tei:p>
+     Stotníka preložili, poručík mal „urlaub“ a advokát mal dáky veľký
+        proces, ktorý nevyhnutne potreboval jeho prítomnosť vo Viedni...
+    </tei:p>
+    <tei:p>
+     Mal som teda i priateľov. Niežeby ich bol rád videl alebo nerád, ale
+        nenávidel som ich!
+    </tei:p>
+    <tei:p>
+     s malé ruky!“ vyhadzovala mi Kuna na oči.
+    </tei:p>
+    <tei:p>
+     Vtedy naučil som sa, aký to rozdiel voľakoho nerád vidieť a nenávi-
+        dieť!
+    </tei:p>
+    <tei:p>
+     Lebo keď Kuna, jediná dáma, hrala sa s troma mužmi o zálohy, to
+        som nerád videl, a keď za záloh namiesto súdeného bozku dala vždy
+        dva, to som tiež ešte len nerád videl: ale keď potom domyslel som si iné,
+        to, čo nevidel som, vtedy nenávidel som ju, ich, seba - všetko!
+    </tei:p>
+    <tei:p>
+     Ináč mali sme veľkolepé zariadenie. K pánom prišli i kone, ekvipáže.
+    </tei:p>
+    <tei:p>
+     Kuna nenudila sa teda!
+    </tei:p>
+    <tei:p>
+     Zo šnurovacích prób vyvstal som.
+    </tei:p>
+    <tei:p>
+     „Pán stotník má marciálne ruky, tie ti driev dostačia!“ radil som milej
+        ženuške.
+    </tei:p>
+    <tei:p>
+     Ona zadivene pozrela na mňa a mykla hlavou.
+    </tei:p>
+    <tei:p>
+     „Žiarlivý, fi donc"“ riekla s opovrhovaním a cvendžavo zasmiala sa.
+        „Ináč prijmi moju vďaku za láskavú radu!“
+    </tei:p>
+    <tei:p>
+     Predobedom doniesol sluha program jedál.
+    </tei:p>
+    <tei:p>
+     Červenou stužkou značila Kuna, belasou ja.
+    </tei:p>
+    <tei:p>
+     „Kde bude veľkomožná obedovať?“
+    </tei:p>
+    <tei:p>
+     „X jedálni. Pozvaní sú i...“
+    </tei:p>
+    <tei:p>
+     „Áno, áno! Pán X. stotník, Y. poručík, N. advokát!“ skočil sluha do
+        reči.
+    </tei:p>
+    <tei:p>
+     „Nie, veľkomožný pane!“ oprával ma s drzým úsmevom sluha. „Je
+        pán X. stotník, okrem toho ale pán doktor Z.., radca P. ďalej profesor...“
+    </tei:p>
+    <tei:p>
+     „Dobre, dobre, Jean! Mne doneste sem obed!“
+    </tei:p>
+    <tei:p>
+     „K službám, vaša milosť!“
+    </tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+    <tei:p>
+     Ó, ty slabé, krásne pohlavie, zvlášť ale vy, veľkomestské ženy, ako ľúbim
+        vás ja! Veru! Koľko múdrych myšlienok odhodil a koľko sprostostí pre-
+        viedol som pod vplyvom vašim! A vy ľúbezne usmiali ste sa alebo ne-
+        chutne stiahli ste farebný pyštek a koniec koncov povedali ste: „Fi donc!“
+    </tei:p>
+    <tei:p>
+     No či ďalej ísť? Či opísať, ako stal som sa šťastným otcom pekného
+        chlapčeka, potom dievčaťa, potom zas chlapčeka atď.? Či opísať, ako ko-
+        niec koncov ušiel som predsa len svetom?
+    </tei:p>
+    <tei:p>
+     Opísať lepšie, obšírnejšie, viac, všetko...? Nie, nemožno mi!
+    </tei:p>
+    <tei:p>
+     Fi donc!
+     <tei:pb/>
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

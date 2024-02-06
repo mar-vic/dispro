@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK1885153" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Hrôza : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84955514">
+     Bella, Ondrej Miloslav (1851-1903)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     4642
+    </measure>
+    <tei:measure unit="pages">
+     11
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:84955514">
+      Bella, Ondrej Miloslav (1851-1903)
+     </tei:author>
+     <tei:title ref="ISSN:1335-7786">
+      Hrôza
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské pohľady
+     </tei:publisher>
+     <tei:date>
+      1885
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-01-16">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Hrôza
+    </tei:head>
+    <tei:head>
+     Obrázok z nedávnych časov. Napísal Ján Dušný.
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    pán slúžny marek okresný zastavil sa cestou z čumíc na
+        havranove.
+   </tei:p>
+   <tei:p>
+    kočiš prevádzal bujné kone po šíročiznom kaštielskom dvore.
+        ale minulo pol hodiny, minula celá a veľkomožný pán nevychodil,
+        až zrazu pribehne panský mládenec, že veru pán veľkomožný zo-
+   </tei:p>
+   <tei:p>
+    stanú na večeri, že sa majú kone vypriahnuť. kočiš juro, spolu.
+        hajduch pána slúžneho, zatiahnul pred koniareň, domáci paholok
+        potmôhol mu vypriahnuť a do válova zrnitého obroku nasypať. ale
+        paripy bolo treba aj napojiť. juro vezme putňu a ide na studňu
+        vo dvore. koho tam vidí? švá "u, krepkú dievku s lícami ako
+        ozralé jablká a s očima jako žiže. juro zostane s otvorenýma
+        „ ústama stáť.
+   </tei:p>
+   <tei:p>
+    „nuž kdeže si sa ty tu vzala, zuza?“
+   </tei:p>
+   <tei:p>
+    „mrcha zelina i ťam zíde, kde ju nezasejú. za tebou som
+        prišla.“ ň
+   </tei:p>
+   <tei:p>
+    „za mnou?“
+   </tei:p>
+   <tei:p>
+    „to sa vie, že za tebou. pán na koči a sedliak pešo za ním.“
+   </tei:p>
+   <tei:p>
+    „ale si ty len posmešnica.“
+   </tei:p>
+   <tei:p>
+    „a ty si, juro, truľo, čo ani len žartu nevie.“
+   </tei:p>
+   <tei:p>
+    „lih, mne je nie do žartu.“
+   </tei:p>
+   <tei:p>
+    „nuž a do čoho že ti, do čoho?“
+   </tei:p>
+   <tei:p>
+    „to ti nepoviem, ale vidíš, to ma bolí, že tak vždy dodievaš
+        do mňa.“
+   </tei:p>
+   <tei:p>
+    „načo sa dáš?!“
+   </tei:p>
+   <tei:p>
+    » vieš, druhej by som ani nezostal dlžen s odpoveďou, ale tebe
+        bych za celý svet ani slovíčkom ublížiť nechcel.“
+   </tei:p>
+   <tei:p>
+    »to bych si ani nedala. ale za takého by ani nešla, čoby si
+        nevedel ženu zavrátiť. bolo by to pekné hospodárstvo: žena v klo-
+        búku a muž v čepci. hahaha!“
+   </tei:p>
+   <tei:p>
+    „zuza, nezlob ma!“
+   </tei:p>
+   <tei:p>
+    „hada bych ťa videť, ako sa vieš zlobiť “
+   </tei:p>
+   <tei:p>
+    juro sa zasmial a buchol zuzu päsťou po chrbáte.“
+   </tei:p>
+   <tei:p>
+    „no vidíš, to si mohol hneď urobiť, lebo so ženským. jazykom
+        nikdá koncu nedôjdeš a na nákovu kováč hámrikom a nie mačou
+        labkou.“
+   </tei:p>
+   <tei:p>
+    „tak si smiem prísť na pierko ?“
+   </tei:p>
+   <tei:p>
+    „0j, ja ti i celú lesu založím za klobúk, ak sa ti páči“ ale
+        rozmajrín atestine žiaden, ktorý sa mňa bojí. m
+   </tei:p>
+   <tei:p>
+    juro zklopil oči.
+   </tei:p>
+   <tei:p>
+    zuza. vytiahla vedro, naliala jurovi do putne: „a teraz choď,
+        aby ti kone pípeť nedostali.“
+   </tei:p>
+   <tei:p>
+    uhaj sa začervenal až po uši, schytil sa, vystúpil na zrub:
+        „i teraz mňa pusť, že ti ja natiaham,“ a odtisknul zuzu od kolesa.
+   </tei:p>
+   <tei:p>
+    zuza. sa. usmiala, dovolila: „hľa, takí ste vy chlapi, aby jim
+        vždy ženy nadťukly, čo majú robiť.“
+   </tei:p>
+   <tei:p>
+    „a ženy musejú mať vždy poslednie slovo,“ prehodil juro vy-
+        lievajúc do krhieľ.
+   </tei:p>
+   <tei:p>
+    „a chlapi?“ zpýta sa rýchlo zuza.
+   </tei:p>
+   <tei:p>
+    „prednie slovo!“ odvetí hrdo putňu zdvihujúci juro.
+   </tei:p>
+   <tei:p>
+    „no predsa môže ešte z teba niečo vystať, jurko!“ prisvedčí
+        zuza: „len sa nezapomeň ešte zpýtať u zajačí, po čom ríť kurážu,
+        že ti chcem kúpiť,“ privolá mu ešte z ďaleka so aa a uháňa,
+        s krhľami ku kaštieľským schodom.“
+   </tei:p>
+   <tei:p>
+    v kaštieli sedel pán marek“s pánom jonášom "pri dobrom
+        7
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    „ červenom budínškom a rozprávali ako dobrí priatelia, ktorí spolu:
+          prežili časy jurátske: v pešti a mladý svoj vek prehalaškovali po
+          veselých prítulných dedinách a kaštieľoch povážskych. pán marek
+          už bol dávno ženatým, ale pána jonáša polického nebolo nijak
+          k tomu nakriatiť. okúňal sá on nejako tých urodzených paničiek
+          a najmä odkedy mu hlava privčas oplešivela, nebolo by ho ani sto
+          koní vtiahlo do panskej ženskej spoločnosti. ale čo komu súdené,
+          veru ho neminie. neminulo ani pána jonáša. pani blatiška, rodzená
+          dubinská, vdova po nebohom jánovi blatišovi, porobila mu. bola
+          to žena asi 24-ročná, pekne vyvinutá, zdravej počernej tváre s prí-
+          jemným výrazom, tak že keď. svojima významnýma očima na pána
+          jonáša pohodila, rozhrial sa celý, rozvravel sa tak, že sa pani
+          blatiška sama zadivila nad jeho milým i vtipným i zručným roz-
+          hovorom a držaním. leu že okolo pani blatišky krútili sa ešte
+          i iní, najmä pán dobrovnický lacko z dobrovníka, asi 29-ročný
+          hrdý | pánik, ktorý práve pri znamenitej protekcii na stoličné pod-
+          notárstvo kandidoval. pani blatiška vskutku váhala medzi pánom
+          lackom a pánom jonášom, a ač sa ku pánu jonášovi klomila, bolo
+          sa predsa len obávať, že sa ešte v poslednom okamihu za pána
+          lacka rozhodne.
+   </tei:p>
+   <tei:p>
+    a pu a kedyže ti už bude svadba, jonáško?“ zpytuje sa pán
+          marek.
+   </tei:p>
+   <tei:p>
+    „jaj. marečko môj drahý, nebude z toho nič. odpovedala mi.“
+   </tei:p>
+   <tei:p>
+    „ale pre pána jána! prečo?“
+   </tei:p>
+   <tei:p>
+    „prečo? nuž žena ako žena: dlhé vlasy, krátky rozum. včera
+          ráno mi bratove deti kamsi parochňu zavliekly, že sme ju hneď
+          najsť nemohli, sobral som sa tedy bez nej na zálety, vieš, do rúba-
+          niska, kde bolo tú židovku zabilo. vezie sa ti blatiška do mesta
+          a cestou stretne našu hrozu jalovanku s deťmi. z reči do reči
+          zpýta sa jej, že kde som? „na záletách,“ odpovie jalovánka.
+   </tei:p>
+   <tei:p>
+    „kde?“ „nuž tam pri židovke, vedia tej chlojmovej pod topoľom.
+          každý boží deň sú tam odpoludnia, a nevedia, kde jim je hlava.“
+          blatiška vyňala toliar a dala ho jalovanke: „povedz pánu urodze-
+          nému“ poníženú službu, a že veru na nedeľu musíme do dobrov-
+          níka k pani matke, aby sa márne neráčili ustávať.“ prijdúc domov
+          z rúbaniska ľahnul som si ustatý a na druhý deň už tu bol posol
+          z police s listom. tu ho máš: „proti gustu žiaden dišputát: komu
+          ruža a komu židovská cibuľa. muž nesmie nikdy hlavu ztratiť.“
+   </tei:p>
+   <tei:p>
+    pán marek sa rozrehotal, že sa za brucho lapal, tak že i pán
+          jonáš nemohol sa ať smiechu.
+          „toto je klassický žart!“
+   </tei:p>
+   <tei:p>
+    „mne ale nebolo naskrze do smiechu. bez všetkej príčiny mi
+          takýto posinech spraviť. taký ma jed nadišiel, žebych bol všetko
+          roztrhal. tu ti vníde hroza i začne ti mi dopodrobna vykladať,
+          jako som ti to už vyrozprával, a blatišku vychvalovať až do neba.
+          nevedel som či smiať, či zlobiť sa: premôhol som sa, dal som jej
+          ešte dvadsiatnik a poslal ju von.“
+   </tei:p>
+   <tei:p>
+    pán marek sa, ešte vždy uchechtieval, ale pu jonáš povedal
+          veľmi vážne: „tá vec ma nesmierne mrzí, lebo sa jedná o moje,
+   </tei:p>
+   <tei:p>
+    .
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    dobré meno: môže sa to rozchýriť. odpovede som blatiške ešte
+          nedal, ale rád bych bol, aby sa tá vec podubrotky vyrovnala.“
+          - „0 to sa ty netráp. obleč sa, zajdeme si ešte dnes do police
+   </tei:p>
+   <tei:p>
+    a bude všetko v poriadku.“ p
+   </tei:p>
+   <tei:p>
+    pán jonáš išiel sa obliecť, a keď sa vrátil, zapínal si ešte
+          karneolové gomby na dolom: zhorčene vypravoval pánu mare-
+          kovi: „vieš, marečko, to ti je nie po prvý raz, čo mi hroza svo-
+          jím lemešom galiby narobila. ja by ju na dva kusy rozdrapil —
+          ale ona ani sama nevie, že je mojím zlým duchom. flórková by
+          si bez nej ani rady nevedela, súca je, statočná, dobrého srdca —
+          ale toto je už druhý raz, čo mi ženbu rozbila.“
+   </tei:p>
+   <tei:p>
+    „či fa tam parom po nej, jonáško. až sa ti ešte do niečoho
+          zamieša, pošli ju jednoducho ku mne, ja už s ňou poriadok spravím.“
+   </tei:p>
+   <tei:p>
+    jalovanka mohla mať asi 22 rokov, ale bola už vdovou. muž
+          sa jej bol na dole utopil, keď prišla do pôlohu. u staršieho brata
+          jonášovho, u flórka potrebovali dojku, a milá hroza dostala sa do.
+          havranova. mladá bola, pekná tiež, rezká, vravná, mie div, že
+          vdovci, ba i mládenci za ňou pozerali. v kaštieli ju radi mali, ale
+          neboli s ňou spokojní. keď sa k nej vycivený panský mládenec
+          pritrel, tak ho štuchla ľakťom, že ho hneď v boku zaklalo. i pánu
+          jonášovi sa pohrozila, keď sa pomýlil a namiesto malú evinku ju
+          v líce uštipnul. dievky muštrovala ani dáky granatier, vyvadila sa
+          s nimi namiesto panej flórkovej, ale za to, keď mala ísť niektorá
+          v nedeľu na taniec, to jej hrebeňom vlasy prihladila, to jej šatku
+          na hrdlo uviazala, to sukne urovnala: „aby sme sa vraj nemuseli
+          hanbiť za vás!“ ale musely sa aj zvítať potom, lebo nezamlčala,
+          nič nikomu a čoby to bolo bývalo pred kýmkoľvek. to bola ne-
+          príjemná vec. pán jonáš mal tiež na ňu zvrchu. ako sa raz, ne-.
+          viem už, či na evinku, či na hrozu prizeral a mimovoľne hlasite
+          vzdychnul, povie mu hroza: „veru že jich škoda, pán urodzený,
+          že sa oni neženia, taký hodný, bohatý pán, s nimi by veru každá
+          šťastnou bola. ale oni sa nejako tých urodzených paničiek boja.
+          nech mi ráča veriť, žeby jim ani jedna kus nosa neodhryzla, iba
+          uk od radosti.“ pánu jonášovi sa to ešte nik neodvážil povedať,
+          ale hroza to tak naivno, úprimne povedala, že ju nevedel za- |
+          hriaknuť. škrelo ho to ale predsa. — keď boli raz v tomianovej
+          u polovných na návšteve, to jest tak nejako na vohľadoch, lebo.
+          tam mali dve hodné paničky na vydaj, pristavila jednu z nich,
+          ktorá sa jej lepšie páčila, a riek! : „jích milosť pani kišasonka,
+          lepšieho muža nenajdú v celom šírom svete, ako sú náš urodzený
+          pán jonáš. ten by jich na rukách nosil, to ja viem.“ a na tomto
+          „to ja viem“ rozbily sa vohľady popredku. nesmieme sa tedy diviť,
+          že pán jonáš dobre z kože nevyskočil, keď mu zase s pani bla-
+          tiškou takej galiby narobila.
+   </tei:p>
+   <tei:p>
+    pani blatiška nechcela z počistku na pána jonáša aui pozreť,
+          a keby sa nebol dal len pán slúžny u nej ohlásiť, ani by ho ne-
+          bola cez práh prepustila. prijala vlastne len pána marka v druhej
+          izbe. ako jej ale pán marek medzi štyrma očima potíškú vec roz-
+          kladal, začala bľadnúť a zase sa červenať, až sa zrazu do plaču
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    pustila. pán marek vzal jej skvostne vyšívaný ručuíček a utrel je
+   </tei:p>
+   <tei:p>
+    chytro slzy: „ale, ale, vaša milosť, pani sestra, ani muk! poviem
+          jonášovi, že chceli len to, aby dnes ešte do police prišiel, lebo že
+          sa pán lacko dobrovnický ma -zajtrá sľúbil.“ pani blatiška po-
+          kývla hlavou a stiskla pánu slúžnemu povďačne ruku.
+   </tei:p>
+   <tei:p>
+    pán marek sobral sa ku jonášovi v prvej chyži sediacemu a
+          šeptal s ním čosi. potom pojal ho za ruku a keď sa blížili ku
+          stolu veľkému, vyšla jim z druhej izby pani blatiška s trochu ne-
+          smelým úsmevom oproti: „pekne vítam u nás vašu milosť. to ma
+          zo srdca teší, že nás ráčili potiť,“ a podávala mu ruku.
+   </tei:p>
+   <tei:p>
+    pán jonáš sa sklonil, pobozkal vrelo peknú ruku vdovinu a
+          zadvžiac ju v oboch rukách pozrel poznenáhla, ale pevne pani bla-
+          tiške lo očú: „tak jakú odpoveď dostane pán (lacko dobrovnický ?“
+   </tei:p>
+   <tei:p>
+    „ze kto prvší, ten lepší!“ odvetila pani blatiška chvejúcim sa
+          hlasom, slzy jej vyhrkly znova, ale pán jonáš chytro jich zbozká-
+          val dolu z líc.
+   </tei:p>
+   <tei:p>
+    ako jich videl slúžny objatých, vykízlo mu z úst: „jonáš,
+          ďakuj bohu, že dostaneš takú žiarlivú ženu.“
+   </tei:p>
+   <tei:p>
+    všetko bolo v poriadku, iba jedno ešte zbývalo, a to sa tý-
+          kalo hrozy. pani blatiška povedala pánu jonášovi doprosta, že
+          dokým bude hroza na havranove, dotiaľ ona tam nohu cez práh
+          nepreloží, lebo že kedykoľvek by na hrozu pozrela, vždy by sa
+          musela hanbiť. pán jonáš sľúbil. len že hroza neslúžila vlastne
+          u neho, k tomu bola pravou rukou chorľavej panej flórkovej i okolo
+          detí i okolo kuchyne, a evinka, hods jej už na tretí rok išlo, pri-
+          dfžala sa vždy len svojej dady hrozy. keby ju dáko vydať —
+          ináč ju nebudú chceť pustiť. o prihodilej nehode muselo sa mlčať
+          i pred bratom.
+   </tei:p>
+   <tei:p>
+    bude provokovať.
+   </tei:p>
+   <tei:p>
+    príležitosť sa onedlho natrafila. išli pltníci z dola hore ha-
+          vranovom. hroza stála s evinkou neďaleko kaštieľa. tu jeden. vy-
+          skočí zpomedzi nich a rovno ku hroze: „i boh daj šťastia, hrozka!
+          akože sa ti vodí?“
+   </tei:p>
+   <tei:p>
+    „pán boh daj i tebe, mišianko! ale šťastlive?“
+   </tei:p>
+   <tei:p>
+    „chvála bohu, šťastlive a s dobrým zárobkom. a aby si ve-
+          dela, že som ani na teba nezabudnul, — tu máš, zoder v dobrom
+          zdraví,“ i vytiahnul zo sajdy peknú kvetovú hodbabnú šatku. „a
+          tuto koláč urodzenej kišasonke,“ i vložil zadivenej evinke lo malej
+          rúčky dvojistý pletenák, jak ho bol na bystrickom rýnku kúpil.
+   </tei:p>
+   <tei:p>
+    „ale si ty len márnotratník, miško,“ povie hroza, so zalúbe-
+          ním obzerajúc krásnu šatku.
+   </tei:p>
+   <tei:p>
+    „a už márnotratník sem, márnotratuík tam, keby som ťa ne-
+          mal rád, nuž by som ti nebol kúpil.“
+   </tei:p>
+   <tei:p>
+    0 „no ešte sa vyvaď na mňa práve na ulici. hľaďže ti ho, ako
+          ti zpyšnel, že má raz dobrý zárobok.“
+          . „a ja chcem. mať ešte viac ako dobrý zárobok, dobrú ženu,
+          potom len budem naozaj pyšným.“
+          „ľohľadaj si, nájdeš.“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    „a ja som našiel, ale tebe to predsa nepoviem, hneď by si
+          vyklebetila.“
+   </tei:p>
+   <tei:p>
+    „daj sa svete! je ma i do toho, kto si s tebou život zadrhne.“
+   </tei:p>
+   <tei:p>
+    „pekná je, driečna je, tak sa trochu na teba ponáša.“
+   </tei:p>
+   <tei:p>
+    „no, to si si dal!“
+   </tei:p>
+   <tei:p>
+    „a slúži tiež u pánov, a má ti šiat a peňazí!“
+   </tei:p>
+   <tei:p>
+    „tak za tebá iste nepôjde.“
+   </tei:p>
+   <tei:p>
+    „a. čo ty vieš!“
+   </tei:p>
+   <tei:p>
+    „ja by veru za tebä neišla, keby si ma len preto bral.“
+   </tei:p>
+   <tei:p>
+    „ale veď ťa neberiem, nie, neboj sa.“
+   </tei:p>
+   <tei:p>
+    „ani by ti neradila, zle by sa ti sviedlo.“
+   </tei:p>
+   <tei:p>
+    „a vari by si mi odpovedala?“
+   </tei:p>
+   <tei:p>
+    „pošli si svatov, ak chceš posmech utížiť.
+   </tei:p>
+   <tei:p>
+    „no, s tebou nik konca nedôjde. tu máš tiež koláč a zapchaj
+          si ústa,“ i zastrčil jej ho zrovna medzi pekné biele zuby, buchol
+          ju po chrbte a stúpal ďalej za ostatnými pltníkmi.
+   </tei:p>
+   <tei:p>
+    „a nezabudni pozdraviť mater i tvoju i moju i malého janka!“
+          volala za ním.
+   </tei:p>
+   <tei:p>
+    „a mohla by si od nedele na týždeň prísť, bude u nás po-
+          sviacka,“ ozval sa jej ešte mišo.
+   </tei:p>
+   <tei:p>
+    hroza dívala sa dlho za ním, v jednej ruke šatku, v druhej
+          koláč. keď zmizol za uhlom velikej panskej záhrady, vzdychla sí
+          7 hlboka, zakrútila koláč do šatky, vložila oboje za pazuchu, po-
+          "jala evinku v tráve sa baviacu za ruku a stúpala mlčky ku kaštieľu.“
+   </tei:p>
+   <tei:p>
+    v bráne stretla sa s pánom jonášom.
+   </tei:p>
+   <tei:p>
+    „ale, hroza, kde máš v pekle rozum, že dáš tomu dieťaťu
+          taký koláč, veď mu bude zle!“ zvolal pán jonáš nevrle, ako mu
+          evinka v ústrety pobehla a s detinskou radosťou biely veliký koláč
+          ukazovala.
+   </tei:p>
+   <tei:p>
+    „ale, pán urodzený, nehubia že tomu dieťaťu radosť. čožeby
+          mu ťo zaškodilo!2“
+   </tei:p>
+   <tei:p>
+    „sprostá sedľač myslí si, že všetko dobré pre panské žalúdky,
+          od čoho ona neodkape!“ zahundral pán jonáš a vytrhnul evinke
+          koláč.
+   </tei:p>
+   <tei:p>
+    „báči, nie, báči, koláč!“ zkríklo dieťa s vresklavým plačom a
+          tytúľalo za jonášom až ku schodom. jonáš sa ale ani neobzrel,
+          dieťa nemohlo rýchlo hore schodmi i vrieskalo. hroza ho vzala na
+          ruky a učúšala ho, stúpajúc odhodlane hore na chodbu.
+   </tei:p>
+   <tei:p>
+    tam stál jonáš s pani flórkovou, ktorá na vresk evinky na-
+          plašená vybehla.
+   </tei:p>
+   <tei:p>
+    „len si pomysli, čo táto sprostaňa: tomu dieťaťu dáva,“ a
+          ukazuje načatý koláč, ktorý si evinka, ako ju hroza pánu jonášovi
+          ízka doniesla, s víťazným výkrikom uchytila.
+   </tei:p>
+   <tei:p>
+    „neráča sa hnevať, pani urodzená,“ začne hroza, ale jonáš ju
+          hneď pretrhne: „ja to raz nebudem trpeť, aby táto sprosťana nám
+          - ešte i deti kazila.“
+   </tei:p>
+   <tei:p>
+    „ale ja kaziť!? veď sú tu pani urodzená, nech povedia —“
+   </tei:p>
+   <tei:p>
+    jonáš zase chcel koláč dieťaťu vziať, to vzkríklo a pani uro-
+          dzená vzala hroze z rúk evinku: „choď do kuchyne, hroza.“
+   </tei:p>
+   <tei:p>
+    u
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    474.
+   </tei:p>
+   <tei:p>
+    „toto je už nie na vydrž nie s th osobou. všetko chce lepšie
+          vodeľ do všetkého sa mieša, žiadneho rešpektu nemá!“ zúril pán.
+          jonáš.
+   </tei:p>
+   <tei:p>
+    „to je pravda, ren lemeš má , ale je svedomitá k deťom
+          a deti ju rady majú,“ krotí pani flórková.
+   </tei:p>
+   <tei:p>
+    „ja sa, duša moja, do ničoho miešať nechcem, ale toľko úcty
+          predsa len zasluhujem, aby mi jedna sprostá sedliacka dojka ne-
+          opovážila sa odvrkovať.“
+   </tei:p>
+   <tei:p>
+    „však ja jej. sohnem šiju, „nechaj to len na mňa, jonáško.“
+   </tei:p>
+   <tei:p>
+    mne nech sa viac na oči neukáže!“ zvolal páu jonáš od-
+          chádzajúc prudkými krokami do svojho oddelenia.
+   </tei:p>
+   <tei:p>
+    hroza sedela, v kuchyni na lavici, počula všetko, plakála. ne-
+          vedela si vysvetliť, čím si toľkú nemilosť u pána jonáša zaslúžila.
+          na šťastie neboly slúžky v kuchyni, plely v záhrade.
+   </tei:p>
+   <tei:p>
+    pani flórková vnišla dnu, nerozumela tiež nič, lúto jej bolo
+          hrozy, ale musela sa ukázať paňou.
+   </tei:p>
+   <tei:p>
+    . „kde si len ten nešťastný koláč vzala 2“
+   </tei:p>
+   <tei:p>
+    7ach, pani urodzená moja milá, úprimná, pltuíci išli z dola,
+          zastavili sa a dali evinke koláč. u nás sa všetko raduje na taký
+          koláč, čiby som si bola mohla pomysleť, že sa niekto na tom na-
+          hnevá?“
+   </tei:p>
+   <tei:p>
+    „mladý pán urodzený sa hrozne nahnevali, že si jim odvrkávala.“
+   </tei:p>
+   <tei:p>
+    ach, bože môj, bože môj, ja nešťastná stvora!“
+   </tei:p>
+   <tei:p>
+    „nechaj sinoklenia, vezmi evinku, ale mladému pánu urodze- +
+          nému sa na oči neukazuj.“
+   </tei:p>
+   <tei:p>
+    pani flórková vyšla von a evinka pritúlila hlávku ku prsiam
+          hroziným a lavou rukou nahnevano pohodila: „kaka báči, kaka
+          báči!“ potom zopnúc sa na kolenách dojkiných, pchala jej do úst
+          koláč: „dobá dada, dobá dada!“ a hladkala jej uplakanú t
+   </tei:p>
+   <tei:p>
+    froza ubozkávala dieťa, utrela si slzy a zabudla na panský
+          hnev.
+   </tei:p>
+   <tei:p>
+    na druhý deň v nedelu poslali ju s listom ku pánu marekovi
+          do okresného, aby ho ale nikomu inému do rúk nedala, len pánu
+          slúžnemu. |
+   </tei:p>
+   <tei:p>
+    bolo to už po večierni, keď sa brala hore havranovom: po-
+          stretla sa so zuzkou brdáňkinou, ktorá bola ten týdeň za onemoc-
+          nelú svoju tetku na panskom robila a teraz sa domov vracala ku
+          ovdovelej materi svojej do okresného. znali sa dobre, lebo zuzka
+          nosievala obed pre panskú čeľaď do poľa a v kuchyni pri umývaní
+          riadu vypomáhavala.
+   </tei:p>
+   <tei:p>
+    „to pôjdeme spolu, zuzanka. ja idem tiež do okresného
+          k pánu slúžnemu s listom.“
+   </tei:p>
+   <tei:p>
+    „to je znamenite! to musíte ale i do nás kuknúť, hrozk:
+          ináč by som sa na vás do smrti hnevala. bývame zrovna vyše ka-
+          štieľa, nebude to ďaleko a juro vás dovedie.
+   </tei:p>
+   <tei:p>
+    „ktorý juro?“ ň
+   </tei:p>
+   <tei:p>
+    7 nuž ten, čo slúži tam v kaštieli za hajdúcha a pána slúžneho
+          vozieva.“
+   </tei:p>
+   <tei:p>
+    „či ti je ten juro dáka rodina?“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    „rodina nie, ale by mohla z nás byť, keby sa nám pán služny
+          dovolili pobrať. pán slúžny mu našli druhú, tú juro pravda ne-
+          chce, ale bojí sa s pravdou vyrukovať, aby si dáko pána nena-
+          hueval.“
+   </tei:p>
+   <tei:p>
+    „nuž ale prečo, dievčička?!“ “ 1.17
+   </tei:p>
+   <tei:p>
+    „hja, sám pán boh vie, čo majú pán slúžny oproti nám.
+          nášmu otcovi, pán boh mu daj slávu večnú! vyhýbal sa už z ďa-
+          leka a mojej materi sotva že sa poďakuje za pozdravenie. ľudia
+          nevediá w mamka nepovedia. „už je to pochované s tvojím otcom
+          v hrobe, nechajme mrtvých na pokoji,“ tak mi povedia, keď sa
+          jich opýtam. ale až sa mi príležitosť nadarí, ja sa veru pána ma-
+          reka opýtam, lebo hodsi sme chudobné, ale poctivosť na mieste.“
+   </tei:p>
+   <tei:p>
+    prijdú k mostu ponad váh. tu ide oproti nim jeden chlap
+          strmým krokom. hroza zastane, zádíva sa a splaskne rukama:
+          „ľane večný bože! ľala, veď ti je to mišo od parinov! nuž kamže
+          ten páli? — snáď nie na zálety?1“
+   </tei:p>
+   <tei:p>
+    mišo už dobehol udychčaný: „chvála pánu bohu, že som ťa
+          neminul, hrozka. idem po teba.“ &gt; č
+   </tei:p>
+   <tei:p>
+    „ „po mňa — a bez svatov?“
+   </tei:p>
+   <tei:p>
+    „0 tom potom. na mestskom mýte je muzika — —
+   </tei:p>
+   <tei:p>
+    „a my na muziku neideme, my ideme do okresného.“
+   </tei:p>
+   <tei:p>
+    „to si môžeš i v druhú nedeľu ta zajsť, okresné nie zajac.“
+   </tei:p>
+   <tei:p>
+    „ale ja by mohla vziať len nohy na plecia akby som tento
+          list ešte dnes pánu slúžnemu neoddala. odprevaď nás radšej aspoň
+          do mesta.“
+   </tei:p>
+   <tei:p>
+    „nemám kedy.“
+          "„tedy tak? ňa muziku má kedy, ale nás odprevadiť nie.“
+   </tei:p>
+   <tei:p>
+    „eh, čo ma tam po muzike, ja musím domov, a i ty.“
+   </tei:p>
+   <tei:p>
+    „i ja? nuž, pre pána jána, čože je, čože sa stalo? . hovor,
+          pre boha! materi — jankovi?!“ ť
+   </tei:p>
+   <tei:p>
+    „mati sú už dobre, ale s jankom je zle — leží v kiahňach.“-
+   </tei:p>
+   <tei:p>
+    hrozá zhýkla, slzy jej vyhrkly dolu náhle zbľadlým lícom ,
+          bedákala, hneď na pravo, hneď na ľavo zalamujúc rukama: „syn
+          môj drahý, syn môj drahý! jaj, bože môj, keby len toho listu
+          nie, a ak mi ešte dajú dlho čakať!“
+   </tei:p>
+   <tei:p>
+    „list zanesiem ja,“ povie mišo, „tu máš medicinu, ktorú som
+          v meste kúpil, a v mene božom stúpaj.“
+   </tei:p>
+   <tei:p>
+    hroza zostala neodhodlaná, čiahne po fľaške, drží ju v ruke,
+          ale ako šatku z pazuchy vyníma a list z nej vykrútiť má, zpustí
+          ruku a nové vyronia sa jej z očú.
+   </tei:p>
+   <tei:p>
+    tu pristúpi k nej zuzka: „nie tak, list zanesiem ja. bude
+          beztoho už proti noci, kým dôjdete domov a tou dúbravinon dobro-
+          veckou neradno samotnej v noci ísť,“ i berie jej list z ruky.
+   </tei:p>
+   <tei:p>
+    „ale čo pani urodzená na to povedia?!“ navrhne hroza prv
+          než list vypustí. a
+          m „i nebojteže sa tak, hrozka, mie. z listu sa za to ani litierka
+          neztratí, keď ho: ja znnesiem. a ešte dnes sá vrátim či s odpo-
+          veďou a či bez nej do havranova a pami urodzenú poprosím za
+          teba. veď má sama deti, vie, čo je to matka.“
+   </tei:p>
+   <tei:p>
+    “
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    hroza sn zatriasla, tvár sa jej zažiarila, oddala s trasúcou
+          rukou list zuzke a len ju prosila, aby ho sama, ale sama pánu
+          slúžnemu doručila.
+   </tei:p>
+   <tei:p>
+    pred mýtom chcel jich ešte mišo na pohár sleziakovského
+          piva vtiahnuť, ale ani jedna ani druhá nemala už pomeškania.
+   </tei:p>
+   <tei:p>
+    znzka nezastavila sa iba v okresnom pred pána markovým
+          kaštieľom.
+   </tei:p>
+   <tei:p>
+    - nejaká úzkosť ju obklúčila, keď vnišla do vysokej a širokej
+          brány. veliké kudlaté psiská vyskočily ako na neznámu zo svojích
+          búdok i zaštekaly šramotiac reťazami, na ktoré boly priviazané.
+          ale nevyšiel nikto z čeľade. zabrala sa tedy zuzka širokým, hru-
+          bými stípami držaným prídvorom hore na schody a pustila sa ná
+          pravo do vysokej, pošmúrnej, starými obrazami v pozlátených roz-
+          pukaných rámoch ovešauej chodby, kde stretla sa s pánom slúžnym
+          samým. . mal na sebe. široký bnrý župan s červenou obrubou, na
+          hlave zlatom vyšívanú domácu čiapku a v ústach dlhú fajku, z kto-
+          rej husté dymy púšťal. ako ho zuzka zazrela, zastala a sklopila oči.
+   </tei:p>
+   <tei:p>
+    „čože tu stojíš? .čo tu hľadáš?“ zabrmel pán marek strmým
+          hlasom, zazrúc neznámu vo svojom oddelení a o tak neobyčaj-
+          nom čase. é
+   </tei:p>
+   <tei:p>
+    zuzka sa zachvela nad takým privítaním, ale smelá ako vždy,
+          pristúpila ku pánu slúžnemu, bozkala mu chytro ruku a riekl
+          „službu poníženú od urodzených pánov z havranova a posielajú
+          tento list pánu veľkomožnému.“
+   </tei:p>
+   <tei:p>
+    „z havranova? nuž akože sa majú jích milosti?“. zpytuje sa
+          pán marek s úľubou, zadívajúc sa na peknú tvár dieyčaťa, ktoré
+          mu z červenovyšívanej šatky vykrútené písmo podalo a pár krokov
+          ustúpilo,
+   </tei:p>
+   <tei:p>
+    „ďakujem ponížene za opýtanie pána veľkomožného, zdraví sú,
+          chvála pánu bohu, všetci.“
+   </tei:p>
+   <tei:p>
+    pán marek rozpečatí a číta:
+   </tei:p>
+   <tei:p>
+    „braček marečko! s týmto listom posielam ti tú nešťastnú
+          klebetnicu, ztiahni jej, prosím ťa pekue, trochu jazyk. v #eťnej
+          náteji, že mi toto priateľstvo preukážeš, zostávam tvoj ku: všet-
+          kým službám hotový jonáš polieky de eadem.“ « ,
+   </tei:p>
+   <tei:p>
+    ľán marek zažmurkal potmešile očima a usmial sa pod bajúz
+          i zaimrmlal pre seba: „tedy tak? — pekný si, vtáčku, pekný, ale
+          nesvobodno po kostole hvízdať.“ nahlas ale zvolal: „poď za mnou,
+          napíšeme urodzenému panstvu odpoveď.“ (
+   </tei:p>
+   <tei:p>
+    zuzka išla za pánom slúžnym až na samý koniec chodby do.
+          pisárne, tá pisáreň bola nie tak široká ako dlhá chyža. po stenách
+          veliké maľované obrazy panovníkov-a predkov, po bokoch na ľavo
+          dlhé lavice, na právo u dverí železná truhla, pri tej stoličky so
+          šikmým vyrezávaným operadlom, ďalej stolík čierno pokrytý a na
+          ňom krucifix medzi dvoma voskovýma sviecamaj u obloka pisací
+          stolík, zakladený aktani: v prostriedku ale stál stôl dlhý, zeleným
+          súknom zastretý, a zôkol vôkol vysokými stoličkomi obstavený.
+   </tei:p>
+   <tei:p>
+    zuzku prebehnul strach, keď videla túto súdnu sieň, o ktorej
+          toľko slýchavala od ľudí. nejeden človek vyšiel z nej neuspokojený,
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    so sklopenou hlavou, šúchajúc sa nielen poza uši, lebo v kúrii
+          panskej sa všetky sťažnosti brevi manu i rozhodovaly i hneď exeguo-
+          valy, najmä ak to boly drobnejšie panské sťažnosti, jednoducho
+          i bez svedkov. nejeden horko zavzdychal: „taká je pravda, akú ju
+          páni spravia.“ zuzka si stala na bok do kúta, neodvážila sa ďalej.
+   </tei:p>
+   <tei:p>
+    pán marek zacengá. dnu vníde hajduch juro.
+   </tei:p>
+   <tei:p>
+    „zamkni dvere a vytiahni dereš!“
+   </tei:p>
+   <tei:p>
+    juro, ako zamkýna dvere, obzre sa, vidí zuzku. tak sa za-
+          razil, že rukávom vytrbnul kľúč zo zámku, ktorý so šromotom na
+          zem padnul. ke
+   </tei:p>
+   <tei:p>
+    „čože robíš, ty nemotora!“ zakričí pán marek. „či už nevieš
+          ani dvere poriadne zamknúť?“
+   </tei:p>
+   <tei:p>
+    juro zdvihnul klúč, zastrčil ho a zostal stáť so sklopenon
+          hlavou, to na zuzku, to na svojho pána placho okom mihajú
+   </tei:p>
+   <tei:p>
+    „nuž, čože sto: ko pilát! dereš sem, povedám,“ zakričí pán
+          marek znova a pafká z dlhej fajky.
+   </tei:p>
+   <tei:p>
+    „ale pre koho, pán veľkomožný?“ zpytuje sa naplašený hajduch.
+   </tei:p>
+   <tei:p>
+    „aj pre teba, ty ničomník lenivý, ak nebudeš poslúchať, dereš
+          sem a metlu!“
+   </tei:p>
+   <tei:p>
+    juro musel poslúchnuť. priniesol lavicu a postavil pred zelený
+   </tei:p>
+   <tei:p>
+    stôl.
+   </tei:p>
+   <tei:p>
+    „a. teraz líhaj, ty klebetnica! naučím ťa ja móres, ako máš
+          s urodzeným panstvom rozprávať,“ zahrmel pán marek na úzkost-
+          live "sa obzerajúcu zuzku.
+   </tei:p>
+   <tei:p>
+    zuzka nechápala slúžneho slová a nehla sa.
+   </tei:p>
+   <tei:p>
+    „líhaj, povedám!“ opakuje pán marek, pristúpiac až ku zuzke
+          a prstom ukazujúce na lavicu. :
+   </tei:p>
+   <tei:p>
+    „ale mňa? a prečo a začo, prosím pána veľkomožného?“
+          zhýkla zadiveno zuzka. "
+   </tei:p>
+   <tei:p>
+    „pre tvoj nešťastný lemeš! — juro, chyť ju a zlož!“
+   </tei:p>
+   <tei:p>
+    „nuž ale ja klebetnica? kto sa to opováži na mňa povedať?
+          to je oplan a nestatočný človek, kto to povie. a oni, pán veľko-
+          možný, hneď len dereš a ani sa nezpýtajú, či je to pravda?“ ale
+          je“ to spravedlivosť ?“
+   </tei:p>
+   <tei:p>
+    ľán marek, ako čoby ho bol podpálil: „ah, tisíc sa do tvojej
+          neomastenej papule, nuž ty tak budeš vraveť so slúžnym ?“ a chcel
+          ju udreť po tvári. ale zuzka zachytila mu ruku a držala ju krčo-
+          vite oboma rukama : 5
+   </tei:p>
+   <tei:p>
+    „a teraz sa jich zpýtam, pán veľkomožný, prečo. oni môjho
+          otca, jána brdáňa nedali nikdy na dereš ztiahnuť? ha?“
+   </tei:p>
+   <tei:p>
+    do pána mareka akoby bol hrom udrel, zbľadnul, opustil ruku!
+          »a. ty si brdáňkina dievka?“
+   </tei:p>
+   <tei:p>
+    „a veru jána brdáňova dievka, ktorý mi na smrteľnej posteli
+          povedal: „ak ti bude chceť pán marek krivdu urobiť, povedz mu
+          ten, že mu „vykričíš.“
+   </tei:p>
+   <tei:p>
+    pán marek sa obzrel v strašných rozpakoch i zahliadnul jura :
+   </tei:p>
+   <tei:p>
+    „4 čože ty tu hľadáš, ty holomok? pakuješ sa von!“
+   </tei:p>
+   <tei:p>
+    duro celý bez duše v tak hroznom pomykove:
+   </tei:p>
+   <tei:p>
+    „ale veď ma pán veľkomožný sami ráčili dozvoniť.“
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    „veď ti ja zazvoním, že ti len tak v tvojej sprostej kotrbe
+          cengne. a ak len okom mrkneš, čo sa tu stalo, dám ti pásy drať
+   </tei:p>
+   <tei:p>
+    z chrbta.“
+   </tei:p>
+   <tei:p>
+    „0 toho je najmen ja starosť, pán veľkomožný , toho si už ja
+          vezinem na hlavu, ak ráča dovaliť, aby sme sa sobrali. ja som to.
+   </tei:p>
+   <tei:p>
+    vedela, ja musím sama raz pred pána veľkomožného, lebo tento
+          juro je jim taký bojko, žeby sám za seba neodvážil sa ústa otvoriť.
+          aj hanbím sa, že sa ma bál chytiť — ja by mu za to sama ná-
+          čítala päťadvadsať.“
+   </tei:p>
+   <tei:p>
+    ale pán marek sa ešte len vždy mračil, až mu čosi svitlo
+          v hlave: „a veď ty neslúžiš u urodzeného panstva v havranove?
+          ako ty ideš s týmto listom?“
+   </tei:p>
+   <tei:p>
+    „urobila som to hroze julovanke k vôli.“ 1 vyrozprávala
+          celú vec. a
+   </tei:p>
+   <tei:p>
+    pán marek poškrabal sa za uchom, pristúpil ku jurovi, ešte
+          vždy rozpačite u lavice stojacemu, vzal mu z ruky nasolenú metlu
+          a švihol ho pár ráz poriadne cez chrbát. „nuž a čože si to hneď
+          nepovedal, ty darebák , mohlo byť bez marných rečí a strachu. na
+          tento raz nech ti je odpustené. aby sa to ale viac nestalo, od-
+          teraz ťa bude tento kapoš cibriť. tu máš, zuzka, korbáč, a na
+          svadbu pošlem vám koláč.“
+   </tei:p>
+   <tei:p>
+    to sa rozumie, že ako vybozkávali páru veľkomožnému ruky,
+          až sa i doplakali pri tom a pán marek sa jich ledva ztriasť mohol.
+   </tei:p>
+   <tei:p>
+    metlu odložila zuza do truhly. pravda že sa s ňou cudziemu
+          nepochválila, ale kedy juro v niečom váhal, pohrozila mu: „či vieš,
+          čo mám v truhle?“
+   </tei:p>
+   <tei:p>
+    o tak zárazilo pána“ veľkomožného to „vykričím!“ to zuzka
+          samu nevedela, ani jej mať mie, ale v sväto-jurskom chotáre ve-
+          dela by jedna pekná čistina rozprávať o zelenom dereši, na ktorom
+          pán marek v svojich mladých rokoch „dvanásť“ ako hotový groš
+          obdržal od jednoho horára, ktorý ho bol zastihnul na postriežke
+          v cudzej obore. ale čistina už zväčša zaristla, „žeby sa jej sotvá
+          kto viač priznal, horár už umrel a jano brdáň i s jeho stsedom
+          už tiež nežijú.
+   </tei:p>
+   <tei:p>
+    a hroza? -— mater sa našla pri lepšom zdraví, ale chlapcovo
+          žitie už len na vlásku viselo. avšak materinská opatera pomohla
+          s pomocou božou i silnej náture jankovej ku zdraviu. do havra-
+          nova sa viac nevrátil. kázali jej z kaštieľa, sú boja, aby
+          jim z domu nedoniesla medzi deti kiahne. o rok na to na michal-
+          kom jarmoku v meste stretla ju i s mišom pani flórková medzi
+          šiatrami, a keď sa dozvedela, že hroze s m už ohlášky volajú,
+          zaviedla ju ku, kunajovmu šiatru a kúpila jej va pekné posteľné
+          oblečenie. pán jonáš, ktorý, hľadajúc pani plórkovú, ta nadišiel,
+          vtisknul jej tiež dva toliare do ruky. pri hrucoch sišla s so zuzkou,
+          nevestou ani kvet a vez, daly sa už mišovi vtiahnuť obe na pohár
+          sleziakovského.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

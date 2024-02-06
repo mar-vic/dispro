@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012494" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Svet : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:49245103">
+     Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     925
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:49245103">
+      Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Svet
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Svet
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Že sa svet krúti okolo slnca, to už múdrejší odo mňa ľudia vedeli, sotva
+      ale vedeli, prečo sa on krúti. — No krúti sa on preto, lebo inakšej roboty
+      nemá. Ba čo by i robil, keby sa nekrútil? - Ale čo robí, pýtate sa, slnce,
+      ktoré od tých čias, ako sa mu Jozue zahrozil, prestrašené, ako prikuté na
+      mieste stojí, a ako Galileo Galilei nohou dupol, viac sa ani nehne. Čo.
+      robí? Nuž svieti, a preto stojí, aby mohlo svietiť, lebo keby sa motalo,
+      kyvotalo, svietiť by nemohlo, a potom by sa ani mesiačik nemohol po
+      nociach túlať a zaľúbených ako vizikátor do slobodného vyťahovať. Hľa,
+      ako to ide, všetko ruka v ruke, každé sebe vykázanú povinnosť plní.
+      Tak i slnce svojej povinnosti zadosť činí, trebárs sa jeho dobrodenia
+      vše účastnými nestávame. Hia, je to tak, ako keď sa medzi snáď od prí-
+      rody dobrotivé srdce panovníkovo a medzi biedny ľud vtierajú dvorskí
+      podlízači a sféru nad našimi hlavami zamútia - tak sa i teraz medzi našu
+      zemeguľu a majestátne slnko vkradli závistlivé hmly a zatieňujú nám
+      obživujúce, obveseľujúce slnečné svetlo. Ach, však je hustá tá hmla, že
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    by včas núdze i kolesá ňou mastiť mohol.
+   </tei:p>
+   <tei:p>
+    Žijeme časy, aké nepamätáme. Málo svetla, žiadna zima a veľa dažďa.
+      "Tam, kade takto rok sánky hvízdali, zelená sa tráva a byliny kvitnú: Viola
+      canina, Rosa canina (psie časy, psie kvety), Galeopsis tetrahit, a tomu
+      podobný hyd, Ballis perennis, Scleranthus annuus, Lamium maculatum,
+      Caltha palustris, Domine perillustris. A to dvadsiateho decembra...!
+   </tei:p>
+   <tei:p>
+    Teplo je, a leje sa, leje, akoby tá obloha mokrou randou bola, a svet
+      namočený a napuchnutý je ako do kávy vpadnutá žemľa. Nieto tej dier-
+      ky na kôrke našej zeme, zktorej by voda necvrkala. Tak sa zdá, že sa náš
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    svet veselšie okolo slnca točí: keď sa tuhšie točí, sa i väčšmi spotí, keď sa
+      potí, viacej pije a viacej sa parí, a z tej pary povstávajú tie jednostajné
+      husté hmly.
+   </tei:p>
+   <tei:p>
+    Noc je únavne dlhá. O dvanástej na poludnie svitá, o jednej popolud-
+      ní však mrká. Keby sa vám chcelo, zaspievali by sme si: Bús az idô, bús
+      vagyok én magam is. - No nedivíme sa, že Angličania následkom dl-
+      hotrvajúcich hmiel chorejúc na „spleenť, z dlhej chvíle sa vešajú. Svetlo.
+      dáva vzrast, dáva život, k tomu viazaná je i teplota. Kde niet svetla, pre-
+      stáva ústrojný život. V lete 1870 zjavivšie sa hmly odvodzovali skúma-
+      telia od čmudiacich kdesi sopiek. Roku 1871 panujúce dažde pripisovali
+      učení hvezdári voľajakým pehutinám, čo po slnečnej tvári preletoval
+      Keby pani Rixka v slnci bývala, nebolo by bývalo ani pehutín, ani dažď:
+      "Tohoročná mimoriadna teplota berie však vraj pôvod stade, že v slnei
+      desaťtisíc míľ veľké magnéziové pole horí. No teraz to už vieme.
+   </tei:p>
+   <tei:p>
+    Smejete sa? No smejte sa len. Či vám je nie známe, že už máme také
+      dokonalé stroje, že slncu až do žalúdka nahliadneme? A spectralis ana-
+      lysis je čo? Či nás tá neučí, z akých prvkov je slnce zložené? Analysis
+      spectralis nás jasne a makavo učí, že od medi hore šľachetnejších kovov
+      niet. Podľa našich kupeckých sociálnych pochopov je to ozaj smiešne.
+      Teda ani meď, ani striebro, zlato, platina, nič, nič, len veksle bez podsta-
+      ty. Hm! Musí to tam celkom tak vyzerať ako - ako u nášho financminis-
+      tra, a tak môžeme povedať, že máme v Uhrách nebo na zemi. Z tohto
+      ohľadu by sme sa teda i bez slnca mohli zaobísť.
+   </tei:p>
+   <tei:p>
+    Už čo sa týka slnečného svetla, hvezdári hovoria, že pochodí z ohňa,
+      čo v slnci zúri, a preto myslíme, že tam hasičských spolkov nieto. A to
+      je šťastie, lebo keby tých tam bolo, nebolo by ohňa, keby nebolo ohňa,
+      nebolo by svetla, a keby nebolo svetla, bola by večná tma, a večná tma.
+      je - fuj tajfel.
+   </tei:p>
+   <tei:p>
+    No a predsa čo nám sľubujú a predpovedajú tí páni hvezdári, len po-
+      čúvajte! Slnce vraj dnes-zajtra — v reči astronómov je dnes-zajtra pár
+      miliónov rokov - vyhorí, vysoptí sa, a vyhasne ako nafúkaná masa alebo.
+      vyfajčená fajka a nastane hustá impertinentná tma. Náš svet a mesiac
+      a všetky slnečné planéty budú bez svetla a teploty, ovesia nos a budú
+      mrznúť, všetky výpary a vody obrátia sa na sneh a ľad, v tej podobe ako.
+      teraz na póloch a pokryjú zimným rúchom celú kôru zeme. Prestane
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    každý ústrojný život, nastane hrozná, zimná, bezživotná a úplne tmavá
+      pustota, akú pero opísať nevládze, ale akú si tvorivá fantázia predstaviť
+      môže. Vskutku, ak sa vmyslíš do toho položenia, koža sa ti hrúzou ježí
+      a predstaviac si živo túto strašnú elementárnu katastrofu, dušu ti ma-
+      lomyseľnosť prikvačí. Nuž ale my to cítiť nebudeme, nájde naše kosti
+      udaná už katastrofa v tom položení, ako napríklad našla kosti treťohor-
+      ného útvaru dinoteriov, mamutov atď., nota bene, ak nebude do tých
+      čias súdny deň.
+   </tei:p>
+   <tei:p>
+    Náš, až na reumu prechladnutý svet, mesiac a planéty, pozbavené
+      svetla, budú ťapkať potme, potratia cesty, koncepty a rovnováhu, bú-
+      šia jeden do druhého a v tej trme-vrme do slnca, na škvarku vypále-
+      ného. Tresk, plesk, myknú takou prudkosťou doň, že mu mozgy strasie
+      a v očiach sa mu zaiskrí. Z toho sa slnce zažne a bude nasledovať pre-
+      došlá rovnováha vo svetle, teplote, a nasledovne i v behu - s malými
+      povrchnými štrbinami a premenami.
+   </tei:p>
+   <tei:p>
+    Ak sa komu z matičných členov podarí tú ľadovú dobu dožiť, a čo je
+      hlavné, prežiť, nechže nezabudne o tom v Letopise správu podať. Bude
+      to opis nadmieru zaujímavý.
+   </tei:p>
+   <tei:p>
+    My ale, ktorí sa tej katastrofy nedočkáme, obráťme našu pozornosť
+      k národnostnej otázke a k makovým opekancom.
+    <tei:ref target="#SLK2012494_N1"/>
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+  <tei:back>
+   <tei:div type="notes">
+    <tei:note xml:id="SLK2012494_N1">
+     Trochu sa síce opozdila táto besednica, ale opekance s makom by vari ešte i teraz nikto neohrdil.
+    </tei:note>
+   </tei:div>
+  </tei:back>
+ </tei:text>
+</tei:TEI>
