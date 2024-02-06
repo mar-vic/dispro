@@ -2,6 +2,7 @@
 
 import os, sys
 import zipfile, json, random, string
+from bs4.dammit import encoding_res
 
 import pytesseract
 import unidecode
@@ -166,42 +167,47 @@ def generate_eltec_file(path=None, text=None, header_data_file=f"{templates_dir}
             print(f"\nRewriting {path.name} ...")
 
             eltec_file = schema(etree.XML("<body xmlns='http://www.tei-c.org/ns/1.0'><p></p></body>"), **xslt_params)
-            eltec_file.write(path, encoding='utf-8', pretty_print=True)
+            eltec_file.write(path, encoding="utf-8", pretty_print=True)
 
             #  Reload the eltec file with soup and combine it with extracted contents.
             #  We are doing this in two steps, because it is easier to debug existing 
             #  invalid xml file, than deal just with xslt errors.
-            with open(path, "r") as f:
+            with open(path, "r", encoding="utf-8") as f:
                 eltec_soup = BeautifulSoup(f.read(), "xml")
                 # Clearing superfluous elements added by BS
                 # eltec_soup.html.unwrap()
                 # eltec_soup.body.unwrap()
 
-                body_soup = BeautifulSoup(text, "xml")
-                # body_soup.html.unwrap()
+                # breakpoint()
+                
+                body_soup = BeautifulSoup(f"<div>{text}</div>", "xml")
+                body_soup.div.unwrap()
 
                 eltec_soup.find("text").p.decompose()
                 eltec_soup.find("tei:body").decompose()
                 eltec_soup.find("text").append(body_soup)
 
-            with open(path, "w") as f:
+            with open(path, "w", encoding="utf-8") as f:
                 f.write(eltec_soup.prettify())
 
-            update_word_count(path)
+            update_word_count(path, encoding="utf-8")
         else: # Cancelling
             print("\nCancelling the operation.")
             return
     else: # Creating
         print(f"\nCreating {path.name} ...")
         eltec_file = schema(etree.XML("<body xmlns='http://www.tei-c.org/ns/1.0'><p></p></body>"), **xslt_params)
-        eltec_file.write(path, encoding='utf-8', pretty_print=True)
+        eltec_file.write(path, encoding="utf-8", pretty_print=True)
 
         #  Reload the eltec file with soup and combine it with extracted contents.
         #  We are doing this in two steps, because it is easier to debug existing 
         #  invalid xml file, than deal just with xslt errors.
-        with open(path, "r") as f:
+        with open(path, "r", encoding="utf-8") as f:
             eltec_soup = BeautifulSoup(f.read(), "xml")
             body_soup = BeautifulSoup(text, "xml")
+
+            body_soup = BeautifulSoup(f"<div>{text}</div>", "xml")
+            body_soup.div.unwrap()
 
             # Clean-up
             eltec_soup.find("text").p.decompose()
@@ -210,10 +216,10 @@ def generate_eltec_file(path=None, text=None, header_data_file=f"{templates_dir}
             # Adding the contents
             eltec_soup.find("text").append(body_soup)
 
-        with open(path, "w") as f:
+        with open(path, "w", encoding="utf-8") as f:
             f.write(eltec_soup.prettify())
 
-        update_word_count(path)
+        update_word_count(path, encoding="utf-8")
 
     # Validating the file
     is_valid, errors = eltec_validate_file(path.absolute())
@@ -323,7 +329,9 @@ def get_eltec_body_from_zf_html(path_to_html):
             soup = BeautifulSoup(f.read(), "html.parser")
     except UnicodeDecodeError:
         with open(Path(path_to_html).absolute(), "r", encoding="cp1252", errors="ignore") as f:
-            print("Using fallback encoding (cp1252).\n")
+            print("Encoding from cp1252 into UTF-8 \n")
+            # utf8_encoded_text = f.read().encode("latin-1", "replace").decode("cp1252").encode("UTF-8")
+            # breakpoint()
             soup = BeautifulSoup(f.read(), "html.parser")
 
     # Removing superfluous elements
@@ -381,11 +389,12 @@ def get_eltec_body_from_zf_html(path_to_html):
             ref.parent.replace_with(soup.new_tag("ref", target=ref_target))
         
         # breakpoint()
-        # Create eltec container for chapters
-        chapter.wrap(soup.new_tag("div", type="chapter"))
-        chapter_head = soup.new_tag("head")
-        chapter_head.extend([title])
-        chapter.insert(0, chapter_head)
+        # Create eltec container for chapters, if there is more than one
+        if len(chapters) > 1:
+            chapter.wrap(soup.new_tag("div", type="chapter"))
+            chapter_head = soup.new_tag("head")
+            chapter_head.extend([title])
+            chapter.insert(0, chapter_head)
         chapter.unwrap()
 
     # Transform footnotes
@@ -406,9 +415,25 @@ def get_eltec_body_from_zf_html(path_to_html):
         back = soup.new_tag("back")
         back.attrs["xmlns"] = "http://www.tei-c.org/ns/1.0"
         eltec_notes.wrap(back)
-
+    # breakpoint()
     soup.html.wrap(soup.new_tag("text"))
     soup.html.unwrap()
+
+    # Transform blockquotes
+    bquote_divs = soup.find_all("div", class_="blockquote")
+    for div in bquote_divs:
+        contents_wo_tags = "".join([s.strip("\n") for s in div.strings])
+        eltec_quote = soup.new_tag("quote")
+        eltec_quote.append(contents_wo_tags)
+        div.parent.replace_with(eltec_quote)
+
+    # Transforming bold spans
+    bold_spans = soup.find_all("span", class_="bold")
+    for span in bold_spans:
+        contents_wo_tags = "".join([s.strip("\n") for s in span.strings])
+        eltec_emph = soup.new_tag("emph")
+        eltec_emph.append(contents_wo_tags)
+        span.replace_with(eltec_emph)
 
     # Transform remaining emphases
     emphs = soup.find_all("span", class_="emphasis")
@@ -571,8 +596,8 @@ def get_word_counts():
             word_count = soup.find("measure", unit="words").get_text()
             print(f"{title.stem}: {word_count} words".strip("\n"))
 
-def update_word_count(path):
-    with open(path, "r") as f:
+def update_word_count(path, encoding="utf-8"):
+    with open(path, "r", encoding=encoding) as f:
         # breakpoint()
         soup = BeautifulSoup(f.read(), "xml")
 
@@ -592,7 +617,7 @@ def update_word_count(path):
         else:
             soup.textDesc.insert(1, soup.new_tag("eltec:size", key=size))
 
-    with open(path, "w") as f:
+    with open(path, "w", encoding=encoding) as f:
         f.write(soup.prettify())
 
 
@@ -698,8 +723,7 @@ def main():
             if not text:
                 print("Something went wrong as no text was generated.")
                 return
-            generate_eltec_file(text=text,
-                                header_data_file=arguments[1])
+            generate_eltec_file(text=text, header_data_file=arguments[1])
     else:
         # get_stats()
         # get_authors_without_ref()
