@@ -77,23 +77,158 @@ function generate_pandoc_ast(xml)
 	-- For storing the resulting pandoc AST
 	local document
 
+	-- For indexing notes
 	local noteCounter = 0
 
 	-- Table containing processing instructions for relevant
 	-- elements within the eltec file
-	local instructions = {
+	local parsingInstructions = {
 		TEI = {
 			onstart = function()
 				-- Create blocks to store the elements of the whole document
 				-- and push them onto the stack
 				push({ tagName = "TEI", panFrag = pandoc.Blocks({}) })
 			end,
-			onend = function()
+			onclose = function()
 				--
 				document = pandoc.Pandoc(pop().panFrag)
 			end,
 		},
+		sourceDesc = {
+			onstart = function()
+				push({ tagName = "sourceDesc", panFrag = pandoc.Blocks({}) })
+			end,
+			onclose = function()
+				-- Pops the paragraphs containing source description and encloses them
+				-- within horizontal rules
+				local paragraphs = pop().panFrag
+				pandoc.List.insert(paragraphs, 1, pandoc.HorizontalRule())
+				pandoc.List.insert(paragraphs, pandoc.HorizontalRule())
+
+				-- adds paragraphs to the document (i.e., blocks representing <TEI>)
+				pandoc.List.extend(peek().panFrag, paragraphs)
+			end,
+		},
+		author = {
+			onstart = function()
+				if peek().tagName == "sourceDesc" then
+					push({ tagName = "author", panFrag = pandoc.Para(pandoc.Strong("Author:")) })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "author" then
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, paragraph)
+					end
+				end
+			end,
+			ontext = function(text)
+				if isInStack("sourceDesc") and peek().tagName == "author" then
+					pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+				end
+			end,
+		},
+		title = {
+			onstart = function()
+				if peek().tagName == "sourceDesc" then
+					push({ tagName = "title", panFrag = pandoc.Para(pandoc.Strong("Title:")) })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "title" then
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, paragraph)
+					end
+				end
+			end,
+			ontext = function(text)
+				if isInStack("sourceDesc") and peek().tagName == "title" then
+					pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+				end
+			end,
+		},
+		publisher = {
+			onstart = function()
+				if peek().tagName == "sourceDesc" then
+					push({ tagName = "publisher", panFrag = pandoc.Para(pandoc.Strong("Publisher:")) })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "publisher" then
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, paragraph)
+					end
+				end
+			end,
+			ontext = function(text)
+				if isInStack("sourceDesc") and peek().tagName == "publisher" then
+					pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+				end
+			end,
+		},
+		pubPlace = {
+			onstart = function()
+				if peek().tagName == "sourceDesc" then
+					push({ tagName = "pubPlace", panFrag = pandoc.Para(pandoc.Strong("Publication place:")) })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "pubPlace" then
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, paragraph)
+					end
+				end
+			end,
+			ontext = function(text)
+				if isInStack("sourceDesc") and peek().tagName == "pubPlace" then
+					pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+				end
+			end,
+		},
+		date = {
+			onstart = function()
+				if peek().tagName == "sourceDesc" then
+					push({ tagName = "date", panFrag = pandoc.Para(pandoc.Strong("Publication date:")) })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "date" then
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, paragraph)
+					end
+				end
+			end,
+			ontext = function(text)
+				if isInStack("sourceDesc") and peek().tagName == "date" then
+					pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+				end
+			end,
+		},
 	}
+
+	local newParser = SLAXML:parser({
+		startElement = function(name, nsUri, nsPrefix)
+			if parsingInstructions[name] then
+				parsingInstructions[name].onstart()
+			end
+		end,
+		text = function(text, cdata)
+			local instructions = parsingInstructions[peek().tagName]
+			if instructions and instructions.ontext then
+				instructions.ontext(text)
+			end
+		end,
+		closeElement = function(name, nsUri, nsPrefix)
+			if parsingInstructions[name] then
+				parsingInstructions[name].onclose()
+			end
+		end,
+	})
 
 	-- defining parser behaviour
 	local parser = SLAXML:parser({
@@ -239,7 +374,7 @@ function generate_pandoc_ast(xml)
 	})
 
 	-- runs the parser
-	parser:parse(xml, { stripWhitespace = true })
+	newParser:parse(xml, { stripWhitespace = true })
 
 	return document
 end
