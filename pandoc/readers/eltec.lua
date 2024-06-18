@@ -66,6 +66,29 @@ function generate_pandoc_ast(xml)
 		end
 	end
 
+	local splitCamelCase = function(s)
+		local words = {}
+		while true do
+			local pos = string.find(string.sub(s, 2), "%u")
+			if pos then
+				table.insert(words, string.sub(s, 1, pos))
+				s = string.sub(s, pos + 1)
+			else
+				table.insert(words, s)
+				break
+			end
+		end
+		s = ""
+		for i, val in pairs(words) do
+			if i > 1 then
+				s = s .. " " .. val
+			else
+				s = s .. val
+			end
+		end
+		return string.upper(string.sub(s, 1, 1)) .. string.sub(s, 2)
+	end
+
 	local sourceDescTags = {
 		author = true,
 		title = true,
@@ -79,6 +102,8 @@ function generate_pandoc_ast(xml)
 
 	-- For indexing notes
 	local noteCounter = 0
+
+	local headLvl = 1
 
 	-- Table with parsing instructions for relevant elements encountered the eltec file
 	local parsingInstructions = {
@@ -120,7 +145,8 @@ function generate_pandoc_ast(xml)
 			end,
 			onattribute = function(name, value)
 				if name == "type" then
-					pandoc.List.insert(peek().panFrag, pandoc.Strong(string.upper(value) .. ":"))
+					-- pandoc.List.insert(peek().panFrag, pandoc.Strong(string.upper(value) .. ":"))
+					pandoc.List.insert(peek().panFrag, pandoc.Strong(string.upper(splitCamelCase(value))))
 				end
 			end,
 		},
@@ -280,6 +306,39 @@ function generate_pandoc_ast(xml)
 				end
 			end,
 		},
+		front = {
+			onstart = function()
+				push({ tagName = "front", panFrag = pandoc.Blocks({}) })
+			end,
+			onclose = function()
+				if peek().tagName == "front" then
+					local blocks = pop().panFrag
+					pandoc.List.extend(peek().panFrag, blocks)
+				end
+			end,
+		},
+		body = {
+			onstart = function()
+				push({ tagName = "body", panFrag = pandoc.Blocks({}) })
+			end,
+			onclose = function()
+				if peek().tagName == "body" then
+					local blocks = pop().panFrag
+					pandoc.List.extend(peek().panFrag, blocks)
+				end
+			end,
+		},
+		back = {
+			onstart = function()
+				push({ tagName = "back", panFrag = pandoc.Blocks({}) })
+			end,
+			onclose = function()
+				if peek().tagName == "back" then
+					local blocks = pop().panFrag
+					pandoc.List.extend(peek().panFrag, blocks)
+				end
+			end,
+		},
 		p = {
 			onstart = function()
 				if isInStack("text") then
@@ -301,6 +360,39 @@ function generate_pandoc_ast(xml)
 						peek().panFrag.content[1] = pandoc.Str(text)
 					else
 						-- all addition content is processed here
+						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+					end
+				end
+			end,
+		},
+		emph = {
+			onstart = function()
+				if isInStack("text") then
+					push({ tagName = "emph", panFrag = pandoc.Emph("") })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "emph" then
+					local emphasizedContent = pop().panFrag
+					if
+						emphasizedContent
+						and peek().panFrag.content[2]
+						and peek().panFrag.content[1] == pandoc.Str("")
+					then
+						-- If no content was added to the block yet
+						peek().panFrag.content[2] = emphasizedContent
+					else
+						-- all additional content is processed here
+						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" "))
+						pandoc.List.insert(peek().panFrag.content, emphasizedContent)
+					end
+				end
+			end,
+			ontext = function(text)
+				if peek().tagName == "emph" then
+					if not peek().panFrag.content[2] and not peek().panFrag.content[1] then
+						peek().panFrag.content[1] = pandoc.Str(text)
+					else
 						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
 					end
 				end
@@ -336,6 +428,170 @@ function generate_pandoc_ast(xml)
 					else
 						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
 					end
+				end
+			end,
+		},
+		foreign = {
+			onstart = function()
+				if isInStack("text") then
+					push({ tagName = "foreign", panFrag = pandoc.Emph("") })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "foreign" then
+					local emphasizedContent = pop().panFrag
+					if
+						emphasizedContent
+						and peek().panFrag.content[2]
+						and peek().panFrag.content[1] == pandoc.Str("")
+					then
+						-- If no content was added to the block yet
+						peek().panFrag.content[2] = emphasizedContent
+					else
+						-- all additional content is processed here
+						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" "))
+						pandoc.List.insert(peek().panFrag.content, emphasizedContent)
+					end
+				end
+			end,
+			ontext = function(text)
+				if peek().tagName == "foreign" then
+					if not peek().panFrag.content[2] and not peek().panFrag.content[1] then
+						peek().panFrag.content[1] = pandoc.Str(text)
+					else
+						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+					end
+				end
+			end,
+		},
+		milestone = {
+			onstart = function()
+				if isInStack("text") then
+					push({ tagName = "milestone", panFrag = pandoc.Para(pandoc.Str("* * * *")) })
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "milestone" then
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, paragraph)
+					end
+				end
+			end,
+		},
+		gap = {
+			onstart = function()
+				if isInStack("text") then
+					push({ tagName = "gap", panFrag = pandoc.Para(pandoc.Str("")) })
+				end
+			end,
+			onattribute = function(name, value)
+				if name == "unit" then
+					peek().panFrag.content[1] = pandoc.Str(
+						"A material ("
+							.. value
+							.. ") has been omitted in a transcription, whether for editorial reasons, as part of sampling practice, or because the material is illegible, invisible, or inaudible"
+					)
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "gap" then
+					if peek().panFrag.content[1] == pandoc.Str("") then
+						peek().panFrag.content[1] = pandoc.Strong(
+							"A material has been omitted in a transcription, whether for editorial reasons, as part of sampling practice, or because the material is illegible, invisible, or inaudible"
+						)
+					end
+					local paragraph = pop().panFrag
+					if paragraph then
+						pandoc.List.insert(peek().panFrag, pandoc.HorizontalRule())
+						pandoc.List.insert(peek().panFrag, paragraph)
+						pandoc.List.insert(peek().panFrag, pandoc.HorizontalRule())
+					end
+				end
+			end,
+		},
+		div = {
+			onstart = function()
+				if isInStack("body") then
+					headLvl = headLvl + 1
+				end
+				if isInStack("back") then
+					push({ tagName = "div" })
+				end
+			end,
+			onattribute = function(name, value)
+				if isInStack("back") and peek().tagName == "div" and name == "type" and value == "notes" then
+					peek().panFrag = pandoc.OrderedList({})
+				end
+			end,
+			onclose = function()
+				if isInStack("body") then
+					headLvl = headLvl - 1
+				end
+				if peek().tagName == "div" then
+					local panFrag = pop().panFrag
+					if panFrag then
+						pandoc.List.insert(peek().panFrag, pandoc.Header(2, "Authorial Notes"))
+						pandoc.List.insert(peek().panFrag, panFrag)
+					end
+				end
+			end,
+		},
+		head = {
+			onstart = function()
+				if isInStack("text") then
+					push({ tagName = "head", panFrag = pandoc.Header(headLvl, pandoc.Str("")) })
+				end
+			end,
+			ontext = function(text)
+				if peek().tagName == "head" then
+					if not peek().panFrag.content[2] and peek().panFrag.content[1] == pandoc.Str("") then
+						-- If no content was added to paragraph yet
+						peek().panFrag.content[1] = pandoc.Str(text)
+					else
+						-- all addition contentl is processed here
+						pandoc.List.insert(peek().panFrag.content, pandoc.Str(" " .. text))
+					end
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "head" then
+					local heading = pop().panFrag
+					if heading then
+						pandoc.List.insert(peek().panFrag, heading)
+					end
+				end
+			end,
+		},
+		ref = {
+			onstart = function()
+				noteCounter = noteCounter + 1
+			end,
+			onclose = function()
+				pandoc.List.insert(peek().panFrag.content, pandoc.Superscript(pandoc.Str(noteCounter)))
+			end,
+		},
+		note = {
+			onstart = function()
+				if isInStack("back") and peek().tagName == "div" and peek().panFrag then
+					push({ tagName = "note", panFrag = pandoc.Inlines({}) })
+				end
+			end,
+			ontext = function(text)
+				if peek().tagName == "note" then
+					if not peek().panFrag[1] then
+						-- If no content was added to paragraph yet
+						peek().panFrag[1] = pandoc.Str(text)
+					else
+						-- all addition contentl is processed here
+						pandoc.List.insert(peek().panFrag, pandoc.Str(" " .. text))
+					end
+				end
+			end,
+			onclose = function()
+				if peek().tagName == "note" then
+					local note = pop().panFrag
+					pandoc.List.insert(peek().panFrag.content, note)
 				end
 			end,
 		},
@@ -516,11 +772,8 @@ function generate_pandoc_ast(xml)
 end
 
 function Reader(input)
-	-- local inlns = pandoc.Inlines({})
-	-- local emp = pandoc.Emph("Emphasized content")
-	-- pandoc.List.insert(inlns, " ")
-	-- pandoc.List.insert(inlns, emp)
-	-- logging.temp("Inlines", inlns)
+	-- local ws = splitCamelCase("")
+	-- print(ws)
 	local document = generate_pandoc_ast(tostring(input))
 
 	return document
