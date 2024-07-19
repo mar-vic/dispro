@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="$documentId$" $if(lang)$ xml:lang="$lang$" $else$ xml:lang="slo" $endif$ xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <tei:teiHeader>
+                <tei:fileDesc>
+                        <tei:titleStmt>
+                                <tei:title $if(titleCode)$ref="$titleCode$"$endif$>$title$ : $eltecEdition$</tei:title>
+                                $for(author)$
+                                <tei:author $if(author.ref)$ ref="$author.ref$" $endif$>$author.lastName$, $author.firstName$ $if(author.alterNam)$ [$author.alterName$] $endif$ ($author.yearOfBirth$ - $author.yearOfDeath$)</tei:author>
+                                $endfor$
+                                <tei:respStmt>
+                                        <tei:resp>editor</tei:resp>
+                                        <tei:name>$editor$</tei:name>
+                                </tei:respStmt>
+                        </tei:titleStmt>
+                        <tei:extent>
+                                <measure unit="words">$wordCount$</measure>
+                                $if(pageCount)$
+                                <tei:measure unit="pages">$pageCount$</tei:measure>
+                                $endif$
+                                $if(volCount)$
+                                <tei:measure unit="vols">$volCount$</tei:measure>
+                                $endif$
+                        </tei:extent>
+                        <tei:publicationStmt>
+                                <tei:p/>
+                        </tei:publicationStmt>
+                        <tei:sourceDesc>
+                                $if(firstEdition)$
+                                <tei:bibl type="printSource">
+                                        $for(author)$
+                                        <tei:author>$author.lastName$, $author.firstName$</tei:author>
+                                        $endfor$
+                                        <tei:title>$printSource.title$</tei:title>
+                                        <tei:pubPlace>$printSource.pubPlace$</tei:pubPlace>
+                                        <tei:publisher>$printSource.publisher$</tei:publisher>
+                                        <tei:date>$printSource.pubDate$</tei:date>
+                                </tei:bibl>
+                                $endif$
+                                $if(firstEdition)$
+                                <tei:bibl type="firstEdition">
+                                        $for(author)$
+                                        <tei:author>$author.lastName$, $author.firstName$</tei:author>
+                                        $endfor$
+                                        <tei:title>$firstEdition.title$</tei:title>
+                                        <tei:pubPlace>$printSource.pubPlace$</tei:pubPlace>
+                                        <tei:publisher>$printSource.publisher$</tei:publisher>
+                                        <tei:date>$printSource.pubDate$</tei:date>
+                                </tei:bibl>
+                                $endif$
+                                $if(digitalSource)$
+                                <tei:bibl type="digitalSource">
+                                        $for(author)$
+                                        <tei:author>$author.lastName$, $author.firstName$</tei:author>
+                                        $endfor$
+                                        <tei:title>$digitalSource.title$</tei:title>
+                                        <ref target="$digitalSource.address$"/>
+                                </tei:bibl>
+                                $endif$
+                                </tei:sourceDesc>
+                </tei:fileDesc>
+                <tei:encodingDesc $if(encoding)$ n="$encoding$" $endif$>
+                        <tei:p/>
+                </tei:encodingDesc>
+                <tei:profileDesc>
+                        <tei:langUsage>
+                                $for(language)$
+                                <tei:language ident="$language$"/>
+                                $endfor$
+                        </tei:langUsage>
+                        <tei:textDesc>
+                                <eltec:authorGender key="$authorGender$"/>
+                                <eltec:size key="$size$"/>
+                                <eltec:canonicity key="$canonicity$"/>
+                                <eltec:timeSlot key="$timeSlot$"/>
+                        </tei:textDesc>
+                </tei:profileDesc>
+                <tei:revisionDesc>
+                        <tei:change when="$creationDate$">
+                                Initially created as an ELTeC file
+                        </tei:change>
+                </tei:revisionDesc>
+        </tei:teiHeader>
+        <tei:text>
+                <front>
+                        <div type="titlepage">
+                                $if(printSource)$
+                                $printSource.title$
+                                $else$
+                                $title$
+                                $endif$
+                        </div>
+                </front>
+                <body>
+                $body$
+                </body>
+        </tei:text>
+</tei:TEI> 
