@@ -7,7 +7,7 @@
     "srced_publisher":  "Publisher name",
     "srced_pub_place":  "Publishing place",
     "srced_ref":        "viaf:000000",
-    "srced_pub_date":   "1900",
+    "srced_pub_date":   "0000",
     "frsted_publisher": "",
     "frsted_pub_place": "",
     "frsted_ref":       "",
@@ -21,6 +21,6 @@
   "author_first_name": "first name",
   "author_last_name":  "last name",
   "author_alter_name": "alter name",
-  "author_birth_date": "1923",
-  "author_death_date": "1232"
+  "author_birth_date": "0000",
+  "author_death_date": "0000"
 }
