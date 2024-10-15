@@ -1,0 +1,1862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012882" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Z parku : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:42640171">
+     Maršall-Petrvoský, Gustáv (1862-1916)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     7095
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:42640171">
+      Maršall-Petrvoský, Gustáv (1862-1916)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Z parku
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-26">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Z PARKU
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Všetko kvitlo: byliny jednoročné i viacročné - a kvitol som i ja, dvadsať-
+        šesťročný muž. Nehneval som sa na zrkadlo: ukazovalo mi ono riadnu
+        počernú tvár, peknú bradu a vzdorovité fúzy. Postavu, tú chválil mi kraj -
+        ír, že vraj ľahko šije sa na mňa! Nuž v takýchto otázkach neškrupuluje
+        človek: úplne veril som i zrkadlu i lichotivému krajčírovi. A to naplňo-
+   </tei:p>
+   <tei:p>
+    valo ma radosťou, ba až slasťou. Prsia dmuli sa mi ani mechy, ktoré silný
+        kováč dúcha, keď videl som, že mihajú očká, pekné očká za mnou! O
+        nepekné nestaral som sa tak, ako neboli by sa pekné o moje starali, keby,
+        neboli i moje práve pekné, smelé bývali.
+   </tei:p>
+   <tei:p>
+    Zato ale ostalo všetko len pritom, že som mal radosť - platonickú.
+        V marci prišiel som do mesta N., no minul mesiac, minuli dva a bol som
+        už vtreťom bez toho, že by som mal nejakú „známosť“. Poznal som svoj-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    ho starého profesora, u ktorého mal som šíriť svoje odborné známosti
+        po dovíšených štúdiách (chcel som byť výlučne očným lekárom): ďalej
+        poznal som svoju domácu starú paniu, hostinských, pacientov a hroma-
+        du ľudí — z videnia. To bolo ale všetko! Priateľa nemal som a osamote
+        trávil som svoj prázdny čas. O známosti ženských sa mi ani nesnívalo!
+        Pravda, i v zlom čase prišiel som: v marci. Cez fašiangy ľahko to ide.
+        Ideš na daktorý bál a chytiac riaditeľa pod pazuchu, vedieš ho rovno
+        k nej, dáš sa jej predstaviť — a už je známosť hotová. No v marci čo? A čo
+        v apríli Zábav niet, na ulici padá dážď a ak nepadá, nuž vietor duje,
+        takže dámy len z okien dívajú sa na čudných fičúrov.
+   </tei:p>
+   <tei:p>
+    Hovorím, teda nemal som ani známych, ani známe. Sprvu bolo mi
+        divo, pozdejšie ale privykol som, a keď otvoril sa máj, krásny kvetný
+    <tei:pb/>
+    máj - vtedy už ani neželal som si dať sa do známosti s pyšnými oby-
+        vateľmi nemeckého veľmesta. Zo zvyku stal som sa samotárom, a síce
+        náruživým. Ledva dočkal som koniec ordinácie, už letel som s knihou
+        pod pazuchou do parku n-ského predmestia. A aby dôsledným ostal i
+        tu, vybral som si lavicu, ku ktorej málokedy blížili sa ostatní návštevníci
+        záhrady. Ležala v úplnom chládku, naboku od hlavných ciest. Uzunký
+        chodník viedol cez húštinu k nej.
+   </tei:p>
+   <tei:p>
+    O tejto lavičke chcem vám rozprávať.
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Bolo včasráno, ešte rosa lišťala sa na sviežich listoch rastlín a ja som už
+          bol vparku. Pohodlne vystretý na „svojej“ lavičke, čítal som „Prvú lásku“
+          od Turgeneva.
+    </tei:p>
+    <tei:p>
+     Lúče slnečné len tu i tu prekrádali sa cez husté lístie stromov, hádžuc
+          malé jasné pruhy na moje tmavé šaty. Ja vše zahľadel sa na tie svetlé
+          očká. Bol som trochu rozladený: nechutne čítal som rozprávku. Nepáči-
+          la sa mi, zdala sa mi príliš neprirodzenou. Práve chcel som sa zdvihnúť,
+          keď počul som hlasy z chodníka. Slová nerozumel som, no po hlasoch
+          súdiac, zastúpené boli tam dva mužské a jeden ženský. Hneď nato zašuš
+          ťalo lístie od vchodu, ako keď ho víchor sem i tam mece. Zdvihol som
+          hlavu. Na chodníku zazrel som malý voz v podobe fotela. V ňom sedel
+          starý pán vo vojenskej rovnošate. Za ním vyčnievala marciálna postava.
+          starého vojaka. Vozík kotúľal sa vždy bližšie, vojak ho tiskal jasne vo-
+          pred.
+    </tei:p>
+    <tei:p>
+     Mrzuto oprel som hlavu o lavičku a akoby zabraný do čítania, ani
+          som nehnul telom. Bol som žiarlivý na svoju lavičku.
+    </tei:p>
+    <tei:p>
+     „Tu je krásne, Otta!“ počul som prehovoriť po francúzsky.
+    </tei:p>
+    <tei:p>
+     „Utešene, otče!“ odpovedal zvonivý ženský hlas.
+    </tei:p>
+    <tei:p>
+     Bol som zvedavý na majiteľku posledného, nuž ale to by bola rovná
+          samovražda! - „Nehneš sa!“ šomral som si. „Nech idú ďalej!“
+    </tei:p>
+    <tei:p>
+     Kočík blížil sa: cítil som to po praskaní raždia. Tťpol som, či zastane
+          a či prejde popri mne.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Akoby na odvetu zazvučal ženský hlas:
+    </tei:p>
+    <tei:p>
+     „Peter! Choď sa toho pána spýtať, či nebol by náchylný prepustiť nám
+          kus miesta!“
+    </tei:p>
+    <tei:p>
+     Hovorila po poľsky.
+    </tei:p>
+    <tei:p>
+     Hneď nato dunela zem pod ťažkým krokom. Lámanou nemčinou
+          oslovil ma starý vojak, aby som vstal, že pán major a veľkomožná slečna
+          chcú sa tu zložiť, - spať aby som šiel domov!
+    </tei:p>
+    <tei:p>
+     Vstal som a utiahol som sa do kúta.
+    </tei:p>
+    <tei:p>
+     Peter sa vrátil a pritisol kočík klavičke. Za kočíkom šla dáma vysokej,
+          štíhlej postavy. Tvár nevidel som jej, lebo bola zakrytá závojom.
+    </tei:p>
+    <tei:p>
+     Pán major ľahko salutoval, dáma pokývla hlavou a posadila sa na
+          druhý koniec lavičky. Kočík stál vedľa nej. Peter postavil sa za majora.
+    </tei:p>
+    <tei:p>
+     „Peter, to sa nepatrí!“ preriekla slečna po poľsky. „Ja kázala som ti
+          poprosiť pána, nie aby si grobianil.“
+    </tei:p>
+    <tei:p>
+     Major sa smial.
+    </tei:p>
+    <tei:p>
+     „Veď som mu nič neurobil!“ šomral starý sluha.
+    </tei:p>
+    <tei:p>
+     „Ba ešte by to chýbalo!“ vyvolal major. „Nazdáš sa, že vždy regrút stojí
+          pred tebou!“
+    </tei:p>
+    <tei:p>
+     „Ktovie, či by ho i za to vzali!“ odvrával sluha a opovižlivo pozrel na
+          mňa.
+    </tei:p>
+    <tei:p>
+     Mne udrela krv do tváre: prišiel mi krajčír na um.
+    </tei:p>
+    <tei:p>
+     Major skúmavo pozrel na mňa.
+    </tei:p>
+    <tei:p>
+     „Pán nás rozumie?“ pýtal sa ma odrazu.
+    </tei:p>
+    <tei:p>
+     „Áno!“ odpovedal som mu.
+    </tei:p>
+    <tei:p>
+     Spoločnosť dala sa do smiechu.
+    </tei:p>
+    <tei:p>
+     „Musíte odpustiť, ak dostalo sa vám ublíženia z priveľkej ochoty!“ ho-
+          voril major.
+    </tei:p>
+    <tei:p>
+     „Viem si vážiť,“ odpovedal som jednoducho.
+    </tei:p>
+    <tei:p>
+     O pár okamihov vstal som a pokloniac sa vzdialil som sa.
+    </tei:p>
+    <tei:p>
+     „Ej, veru by bola čo aj major!“ vyvolal Peter, keďprešiel som popri ňom.
+    </tei:p>
+    <tei:p>
+     Slečna hlasne zasmiala sa nemotornému zadosťučineniu.
+    </tei:p>
+    <tei:p>
+     Ja som rýchlo priložil ruku ku klobúku.
+    </tei:p>
+    <tei:p>
+     „Neďto vojak, pán major! Ten vie salutovať!“ počul som sluhu hovoriť.
+    </tei:p>
+    <tei:p>
+     Smial som sa. O chvíľu mi však prešla dobrá vôľa. Napadla mi strata,
+          ktorú som utrpel. Už sú tam moje samotárske hodiny, už lavica má viac
+          pánov, myslel som mrzuto.
+     <tei:pb/>
+     Odrazu som zbadal, že zabudol som knihu. — Čo teraz urobiť? — Vrátil
+          som sa.
+    </tei:p>
+    <tei:p>
+     Už zďaleka videl som, že ju slečna má v ruke.
+    </tei:p>
+    <tei:p>
+     „Odpusťte, že vás mýlim —“
+    </tei:p>
+    <tei:p>
+     „Áno, knihu ste si zabudli,“ odpovedala slečna a podávala mi ju.
+    </tei:p>
+    <tei:p>
+     Jej tvár bola odhalená. Mne mali oči vyskočiť. Takú krásu, ľudia, ani
+          Rafael nenamaľoval! Vravím vám, ani Rafael! Skoro som sa tackal a ruka.
+          neisto vystrela sa mi naproti podávanej knihe.
+    </tei:p>
+    <tei:p>
+     „Ďakujem!“
+    </tei:p>
+    <tei:p>
+     „Chodíte sem už dávno, pane...“
+    </tei:p>
+    <tei:p>
+     „Doktor Riečan, pán major.“
+    </tei:p>
+    <tei:p>
+     „Jablonský: moja dcéra Otta.“
+    </tei:p>
+    <tei:p>
+     Všeobecná poklona.
+    </tei:p>
+    <tei:p>
+     „Chodím sem od začiatku jari, pán major,“ odpovedal som na otázku.
+    </tei:p>
+    <tei:p>
+     „ui prior tempore, potior jure! My sme teda votrelci, pane... Prosil
+          by som vás o vaše meno!“
+    </tei:p>
+    <tei:p>
+     »„Riečan!“
+    </tei:p>
+    <tei:p>
+     „Vy nie ste Čech?“ examinoval ma major.
+    </tei:p>
+    <tei:p>
+     „Nie, Slovák som!“
+    </tei:p>
+    <tei:p>
+     „Zvláštna reč, celkom vám rozumiem,“ odpovedal major. „Teda už
+          dávno chodíte sem?! Hm, hm!... Nuž ale však sa my zmestíme tu všetci,
+          pán Riečan.“
+    </tei:p>
+    <tei:p>
+     „Ale prosím, veď to všeobecný majetok...“
+    </tei:p>
+    <tei:p>
+     „Nie, nie! Ja nerád bývam nepríležitým,“ hovoril major. „Len tomu
+          som na ťarchu, komu musím, napríklad mojim, pre moje dopílené
+          nohy.“
+    </tei:p>
+    <tei:p>
+     „Ale však ste tu tak v práve ako ja, a ja budem si za veľkú česť pokla-
+          dať, ak budem môcť pridružiť sa k vám!“ odpovedal som rozhorlený.
+    </tei:p>
+    <tei:p>
+     „No, no, to sú frázy!“ hovoril so smiechom major. „Nuž ale ďakujem
+          vám!“
+    </tei:p>
+    <tei:p>
+     „Ste už dávno vN., pán doktor?“ pýtala sa ma slečna.
+    </tei:p>
+    <tei:p>
+     „Tri mesiace,“ odpovedal som. „Som u profesora X.“
+    </tei:p>
+    <tei:p>
+     „Hľa, hľa!“ vykríkol major. „Ja som už počul o vás! Vy ste asistovali
+          pri očnej operácii u generála Davidovského - nie?“
+    </tei:p>
+    <tei:p>
+     Ánal“
+     <tei:pb/>
+     „A teraz už asi dva týždne chodíte k nemu?“
+    </tei:p>
+    <tei:p>
+     „Áno!“
+    </tei:p>
+    <tei:p>
+     „No tam ste dobre zapísaný. Chváli vás do neba, aký ste ochotný,
+          zbehlý. Je to môj priateľ.“
+    </tei:p>
+    <tei:p>
+     „Pán generál bude už o pár dní zdravý,“ odpovedal som.
+    </tei:p>
+    <tei:p>
+     „Teraz ma už skutočne teší, že vás poznám, pán Riečan!“ riekol vľúd-
+          ne major a podal mi ruku.
+    </tei:p>
+    <tei:p>
+     „Nidíš, otče, teraz sa už budeš lepšie zabávať,“ preriekla Otta.
+    </tei:p>
+    <tei:p>
+     „A či som sa dosiaľ nudil, Otta?“
+    </tei:p>
+    <tei:p>
+     Jej hlas akoby bol vyrážal mrzutosť. Zadivene pozrel som na ňi
+    </tei:p>
+    <tei:p>
+     „Vidíš, Otta, to mi na um dovádzaš, že by si sa i ty lepšie zabávala, ke-
+          bysi nemala chromého otca,“ kus citne preriekol starý pán.
+    </tei:p>
+    <tei:p>
+     „Ó, nie, nie! Ja som bola a i budem spokojná!“ riekla ona rýchlo.
+    </tei:p>
+    <tei:p>
+     „Neď áno, ale teraz budeš ešte spokojnejším!“
+    </tei:p>
+    <tei:p>
+     Starý pán skúmavo pozrel na dcéru, potom sa zasmial.
+    </tei:p>
+    <tei:p>
+     „Povážte, pán Riečan: moja dcéra je už a priori žiarlivá na vás!“ ho-
+          voril veselo.
+    </tei:p>
+    <tei:p>
+     „Ale, otčeľ“
+    </tei:p>
+    <tei:p>
+     Ja som sa usmial.
+    </tei:p>
+    <tei:p>
+     „Nuž ale ktomu môžem si len blahoželať, všakže, pane?“ pýtal sa ma-
+          jora útlo položil rameno na plece dcérino.
+    </tei:p>
+    <tei:p>
+     Bol som skutočne dojatý nežnou láskou, ktorá pútala mojich nových
+          známych.
+    </tei:p>
+    <tei:p>
+     „Istotne“ odpovedal som vrelo. „Vám obom možno gratulovať.
+          K vám mali by prísť pesimisti!“
+    </tei:p>
+    <tei:p>
+     Starý pán sebavedome pohladil fúzy.
+    </tei:p>
+    <tei:p>
+     „Áno, pesimisti!“ riekol položartom. „Aby videli, ako môžu byť pred-
+          sa šťastní: starec bez nôh a mladé dievča bez všetkých svetských zábav!“
+    </tei:p>
+    <tei:p>
+     Otta začervenela sa na slová pochvaly. Spustila závoj.
+    </tei:p>
+    <tei:p>
+     „Teší ma, otče, že si spokojný. Len čas - príležitosť k vyjadreniu toho
+          nie je vhodná.“
+    </tei:p>
+    <tei:p>
+     „Odpusťte, milosťslečna!“ riekol som ja. „Chybný som jedine ja. Ne-
+          mal som si dovoliť odvetu na otázku pána majora.“
+    </tei:p>
+    <tei:p>
+     Otta kývla hlavou.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „No veru!“ vyvolal major rozhorlene. „Pán doktor vie, že hovoril som
+          číru pravdu a bez všetkého bočného úmyslu. A to, musíš mi dovoliť, to.
+          jediná náhrada za tvoje šľachetné...“
+    </tei:p>
+    <tei:p>
+     „Ale, otče!“ pretrhla ho srdite dcéra. „Ja nechcem sa odťahovať. Keď
+          už tak chceš mať, chváľ ma. Ale pána doktora to nemôže zaujímať a mňa.
+          znižuje!“
+    </tei:p>
+    <tei:p>
+     „Chvála neznižuje, ale.
+    </tei:p>
+    <tei:p>
+     „Apík, nechcem, prosí
+    </tei:p>
+    <tei:p>
+     Starý pán sa smial.
+    </tei:p>
+    <tei:p>
+     „To je veľké slovo, pane: nechcem! Na to niet apeláty - mlčím, Otta!“
+          riekol veselo.
+    </tei:p>
+    <tei:p>
+     Ja som sa zle cítil. Urážala ma pýcha slečny Otty, spolu ale i obdivoval
+          som ju. Konečne mala pravdu, ja bol som im celkom cudzí, muselo ju
+          mrzieť, že ju otec tak rovno vychvaľoval predo mnou.
+    </tei:p>
+    <tei:p>
+     O chvíľu odporúčal som sa.
+    </tei:p>
+    <tei:p>
+     „Ráčte odpustiť, panstvá,“ preriekol som kus trpko. „Môj úsudok pa-
+          dol mi mimovoľne z úst. Nechcel som urážať!“
+    </tei:p>
+    <tei:p>
+     Starý pán dôverne podal mi ruku: Otta sa slabo uklonila.
+    </tei:p>
+    <tei:p>
+     Na ceste mrzel ma celý prípad. Škoda lavičky, myslel som si. No ne-
+          mohol som uprieť, že zaujímajú ma moji noví známi. Ba až bolelo ma, že
+          som na slečnu Ottu zlý dojem urobil. „Aká pyšná ani Juno!“ myslel som
+          zlobne, ale nevdojak uznal som: „Ale krásna ani Venuša!“
+    </tei:p>
+    <tei:p>
+     Také zvláštne, takrečeno protivné pocity skrsli vo mne. Rád by bol bý-
+          val na lavičke — a rád som bol i tomu, že ju s takými ľuďmi deliť môžem.
+    </tei:p>
+    <tei:p>
+     No konečne, čo ma po nich: ako filozofujem! Ako čo by ja už nemo-
+          hol žiť bez lavičky a bez majorov...!
+    </tei:p>
+    <tei:p>
+     Ale je kapitálny chlap, ten major! On že je nerád nepríležitým, - to
+          nepovie každý vojak! A Peter, aký to prototyp sluhu! A ona?!
+    </tei:p>
+    <tei:p>
+     Keď prišiel som domov, otvoril som mapu. Bol som totiž kresličom,
+          pravda, len diletantom. Ťah za ťahom kládol som - no nešlo! Portrét
+          podobal sa všetkému viac ako Otte Jablonovskej!
+    </tei:p>
+    <tei:p>
+     Rozladený hodil som mapu do kúta.
+    </tei:p>
+    <tei:p>
+     „Ba ako ti vôbec napadlo, práve ju kreslit!“ vyhadzoval som si na oči.
+    </tei:p>
+    <tei:p>
+     Zato ale o chvíľu zas schytil som mapu a robil som ďalej - a mal som
+          radosť!
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     ťa!“ pretrhla ho rázne Otta.
+     <tei:pb/>
+     „Oči mám i čelo, len pery keby som uhádol!“
+    </tei:p>
+    <tei:p>
+     A mimovoľne prišlo mi na um, ako sa tie pery stiahli, stisli jedna na
+          druhú, keď odmietla moje a otcove poklony. Tak som ich videl pred se-
+          bou: červené, plné, v uhloch s malými jamkami - a predsa nevedel som
+          ich nakresli!
+    </tei:p>
+    <tei:p>
+     Hodiny bili desiatu. Zľaknutý skočil som hore, veď už mal som byť u
+          profesora.
+    </tei:p>
+    <tei:p>
+     Prvý raz stalo sa mi, že oneskoril som sa do ambulancie.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Druhý deň ráno šiel som do parku neskôr. Nechcel som, aby Jablonov-
+          skovci našli ma už tam.
+    </tei:p>
+    <tei:p>
+     Skutočne, už zďaleka videl som malý kočík. Na lavičke sedel Peter.
+          Otty nebolo tam.
+    </tei:p>
+    <tei:p>
+     „Vitajte, dobré ráno, pán Riečan!“ volal mi major v ústrety.
+    </tei:p>
+    <tei:p>
+     Silne potriasol mi ruku.
+    </tei:p>
+    <tei:p>
+     „Teší ma veľmi: vidíte, dnes by som bol býval sám s Petrom. Otta je
+          kus nezdravá,“ hovoril mi.
+    </tei:p>
+    <tei:p>
+     „Nebezpečne, pán major?“
+    </tei:p>
+    <tei:p>
+     „Ach jaj, možno len vrtoch!“ odpovedal on. „No, no, to sa nehovorí, -
+          ale pravda je, že prvý raz stalo sa, že bez nej robím výlet.“
+    </tei:p>
+    <tei:p>
+     Mňa nepríjemne dotkla sa správa. „Nezdravá — vrtoch...“ Istotne
+          nechcela sa so mnou zísť!
+    </tei:p>
+    <tei:p>
+     Len namáhavo vedel som ukryť trpkosť.
+    </tei:p>
+    <tei:p>
+     Besedovali sme o všeličom, však uhádnete, o čom dvaja dobrí Slova-
+          nia môžu hovoriť: o politike.
+    </tei:p>
+    <tei:p>
+     Náhľady úplne zhodovali sa nám. Starý pán viac ráz tisol mi ruku.
+          Jeho veľké, tmavé oči hádzali blesky, keď hovoril:
+    </tei:p>
+    <tei:p>
+     „Bude, brat môj, bude z nás ešte prvá rodina, prvá moc celého sveta!“
+    </tei:p>
+    <tei:p>
+     Je to zvláštne, ale pravda je, že Slovan k Slovanovi bližšie stojí, než na-
+          príklad Nemec k Nemcovi, Francúz k Francúzovi. Či sú tomu primitívne
+          pomery a či sama povaha na príčine, to nevedel by som určiť, len prav-
+    </tei:p>
+    <tei:p>
+     te
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     da je, že my v užšom zväzku stojíme než iné národy jedného koreňa, ba
+          bližšie než údovia jednej vetvy iných plemien.
+    </tei:p>
+    <tei:p>
+     Len takto môžem si vysvetliť onú úprimnú srdečnosť, ktorou uctil ma
+          môj nový známy, major Jablonovský.
+    </tei:p>
+    <tei:p>
+     Nie som príliš skromný, uznám, že i to mohlo ma odporúčať, že mali
+          rovné sociálne náhľady, ba konečne dovolím, že snáď bol som mu už i
+          ako človek sympatickým: no predsa verím, že hlavná moja cnosť v jeho
+          očiach bola tá, že som Slovan.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     Výborne zabávali sme sa, no koniec koncov predsa zas predrala sa u
+          mňa horkosť, ktorú pocítil som, keď mi major bol označil, prečo Otta.
+          neprišla.
+    </tei:p>
+    <tei:p>
+     „Ráčte vyjaviť moju úctu slečne,“ hovoril som pri lúčení. „Spolu ale
+          ráčte vyjadriť i moju úprimnú ľútosť nad tým, že mimovoľne hatil som
+          ju vjej riadnej prechádzke.“
+    </tei:p>
+    <tei:p>
+     „Ale čo vám napadá!“ vyvolal major. „Už teraz len aby nenapadlo
+          vám upustiť od lavičky. Vy máte k nej staršie právo a tešiť sa budem, ak
+          budete ho zdieľať každodenne so mnou.“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     No ja pevne zaumienil som si nepoužiť viacej svojho práva. Toľko
+          galantnosti mám i ja ako pán major, myslel som si. Ani ja nerád bývam
+          nepríležitým.
+    </tei:p>
+    <tei:p>
+     A držal som sa toho. Nešiel som do parku. Lenže aby som povedal
+          pravdu, viac času zobral mi teraz park, keď som nechodil ta než pred-
+          tým. Daromné bolo by tajiť: veľa myslel som, ba veľa... vždy myslel som
+          naň. Ako obzerá sa starý pán, ako škúli Peter a ako zimnične trasie sa.
+          slečna, keď počuje kroky - ak to on! A ako uľavene vydýchne jej krásna.
+          hrud, keď zazrie cudzieho človeka... „Cudzieho...!“ A ja čože som jej?
+          Cudzí! Ona mne tiež cudzia - a vidíte, práve to ma dráždilo, že ona chce
+          byť cudzou pre mňa!
+    </tei:p>
+    <tei:p>
+     Dva dni vydržal som, ale čím ďalej, tým väčšmi cítil som túhu po par-
+          ku. To nevedel by som určiť, či to už zvyk účinkoval v tom smere a či
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     vábili ma noví známi. Dosť na tom, že som sa vybral až na tretí deň.
+          „Však lavička je moja!“ duplikoval som si a rýchlym krokom uberal som
+          saknej.
+    </tei:p>
+    <tei:p>
+     Bolo chmúrne počasie. Lúče slnečné presievali sa cez hnedé oblaky.
+          Keď vystrel som ruku, cítil som malé kvapky na nej.
+     <tei:pb/>
+     „Dnes ich iste nebude v parku,“ myslel som a hneval som sa - na po-
+          časie. Kto to i kedy videl, taký čas v máji!
+    </tei:p>
+    <tei:p>
+     Nechutne blížil som sa cestičke, ktorá viedla k lavičke. — No div a zá-
+          zrak! Nalavičke sedela dáma, popri nej stál kočík a v ňom po pás kober-
+          com zakrytý Jablonovský.
+    </tei:p>
+    <tei:p>
+     Starý pán urobil pohyb, akoby chcel vstať - obe ruky vystrel naproti.
+    </tei:p>
+    <tei:p>
+     „Chvalabohu, teda predsa!“ vítal ma. „Kde ste len boli po dve rána?“
+    </tei:p>
+    <tei:p>
+     "Tvár slečny nevyrážala radosť, no ani hnev. Urobila mi miesto.
+    </tei:p>
+    <tei:p>
+     „Bol som zamestnaný,“ odpovedal som. „Ale kdeže je...?“
+    </tei:p>
+    <tei:p>
+     „Myslíte Petra? Poslal som ho sem neďaleko,“ odpovedal major.
+    </tei:p>
+    <tei:p>
+     „Skutočne na Petra chcel som sa pýtať, no zastavil som otázku,
+          lebo musím dať veľký pozor, aby aspoň čiastočne napravil úsudok,
+          ktorý si milosťslečna o mne utvoriť ráčila,“ odpovedal som kus iro-
+          nicky.
+    </tei:p>
+    <tei:p>
+     Slečna sa začervenala.
+    </tei:p>
+    <tei:p>
+     „Ráčite sa mýliť, pane!“ riekla ťahavým hlasom. „Môj úsudok o vás
+          jeten istý čo o druhých, nie horší, no odpustte, ani nie lepší. Je konečne
+          málo času tomu, čo teším sa vašej známosti - nie div teda!“
+    </tei:p>
+    <tei:p>
+     „, prosím!“ riekol som veselo. „Som vám i za to povďačný. Na každý
+          pád lichotí mi už i taký malý úspech - predbežne!“
+    </tei:p>
+    <tei:p>
+     Otta sa posmešne usmiala.
+    </tei:p>
+    <tei:p>
+     „Pri skromnosti máte aj sebadôvery hodne!“ posmievala sa.
+    </tei:p>
+    <tei:p>
+     „Budem sa usilovať, aby z tých dvoch vlastností úplne udusil tú, ktorá
+          by mohla urážať vás!“
+    </tei:p>
+    <tei:p>
+     „Mohli by ste napríklad hneď tým počať, že necháte poklony doma,“
+          riekla ona zlobne.
+    </tei:p>
+    <tei:p>
+     „Keby ale s nimi spolu doma ostal, boli by ste snáď najspokojnejšia so
+          mnou!“ odpovedal som hlasom trocha rozčúleným.
+    </tei:p>
+    <tei:p>
+     „Mýfite sa úplne!“ odpovedala ona.
+    </tei:p>
+    <tei:p>
+     Ale viete, takým hlasom, takou tvárou, že sa mi krv búrila v žilách,
+          akoby povedala: „Čo ma po tebe? Pre mňa nejestvuješ, a bárs si mi vždy
+          po boku bol!“
+    </tei:p>
+    <tei:p>
+     Rozčúlený pritisol som ebenovú paličku o zem - praskla.
+    </tei:p>
+    <tei:p>
+     Otta dala sa do smiechu. Bol by ju trhal od jedu.
+    </tei:p>
+    <tei:p>
+     „Dnes máte pech!“ škádlila ma.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     pe
+     <tei:pb/>
+     »Ó, nie, práve šťastie, milosťslečna!“ odvetil som hladko. „Ani na kraj
+          umu mi nenapadlo, že by vás v takomto počasí tu nájsť mohol - a vidíte,
+          sklamal som sa!“
+    </tei:p>
+    <tei:p>
+     V tých slovách chcel som jej dať na známosť, že som ich nehľadal.
+    </tei:p>
+    <tei:p>
+     Otta kus obledla, pravdepodobne porozumela.
+    </tei:p>
+    <tei:p>
+     »A zato ste aj prišli, pretože ste mali nádej, že budete sám?“ pýtala sa
+          trpko.
+    </tei:p>
+    <tei:p>
+     I starý pán naklonil hlavu, čakajúc na odvetu.
+    </tei:p>
+    <tei:p>
+     Váhal som: Či ďalej ísť?
+    </tei:p>
+    <tei:p>
+     „Nie! Prišiel som, tešiac sa nádejou, že vás tu nájdem - a síce aj vás,
+          slečna Otta!“ povedal som konečne a priamo, bez hnevu díval som sa.
+          na ňu.
+    </tei:p>
+    <tei:p>
+     Ona spokojne kývla hlavou. V jej očiach akoby sa bola radosť zrkad-
+          lila, no len na okamih.
+    </tei:p>
+    <tei:p>
+     Neviem, kam by sme boli zašli, alebo či vôbec boli by sme pokračovali
+          v podobnom rozhovore, keby nás pán Jupiter pluvius nebol prekvapil.
+    </tei:p>
+    <tei:p>
+     Sprvu padal len riedky, zrazu však spustil sa celý letný lejak.
+    </tei:p>
+    <tei:p>
+     A Peter nechodil. Slečna sa bojazlivo obzerala.
+    </tei:p>
+    <tei:p>
+     „Prekliate nohy!“ hrešil major.
+    </tei:p>
+    <tei:p>
+     Dážď sa len lial, už prenikol i cez husté lístie stromov a náležite močil
+          kých.
+    </tei:p>
+    <tei:p>
+     »„Ráčte ísť vopred, slečna!“ riekol som, keď videl som, že Peter nechodí.
+          „Pána majora poveziem ja!“
+    </tei:p>
+    <tei:p>
+     Ona pohľadom vďaky zrela na mňa a šla vopred, chrániac sa čipko-
+          vým slnečníkom.
+    </tei:p>
+    <tei:p>
+     V strede parku bol hostinec: tam sme zamierili. Išli sme skoro galo-
+          pom.
+    </tei:p>
+    <tei:p>
+     Otta pred kočíkom skackala ľahkým krokom. Dážď namočil jej ľahké
+          kartúnové šaty, takže ony tesne priliehali ku krásnej šľachetnej postave.
+          Tuitu obzrela sa, či som jej v pätách, a mne zdalo sa vtedy, že ani anjel
+          nemôže byť krajší ako ona, keď usmiala sa mi tvárou na červeno vyhria-
+          tou.
+    </tei:p>
+    <tei:p>
+     Konečne sme došli k cieľu. Rovno do letného, skleného teremu tiskal
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     som vozík.
+          Pod pokrovom podala mi ruku slečna Otta.
+     <tei:pb/>
+     „Ďakujem vám, pán Riečan!“ riekla vrelo.
+    </tei:p>
+    <tei:p>
+     Ja radostne uhol som sa a pobozkal pravicu. Ona rýchlo vytrhla ruku.
+          "Tvár blčala jej. Či hnevom...?
+    </tei:p>
+    <tei:p>
+     Dohodli sme sa, že slečna pôjde domov na koči a pošle majorovi daž-
+          dový plášť my dvaja ale že budeme čakať na Petra.
+    </tei:p>
+    <tei:p>
+     Tak sa stalo. Slečna odišla (pri odchode mi zas podala ruku) a onedl-
+          ho doletel Peter s plášťom a dáždnikom.
+    </tei:p>
+    <tei:p>
+     „Kde si bol, Peter?“
+    </tei:p>
+    <tei:p>
+     „Už tri razy pri lavičke a tri razy doma, pán major! Až teraz prišla
+          slečna.“
+    </tei:p>
+    <tei:p>
+     Peter oddal majorovi plášť: dáždnik podával mne.
+    </tei:p>
+    <tei:p>
+     „Toto poslala veľkomožná slečna pre pána doktora.“
+    </tei:p>
+    <tei:p>
+     „No, tuším búrka už minula!“ preriekol major veselo.
+    </tei:p>
+    <tei:p>
+     Ja som sa mu usmial. Peter však kontroval: „Niežeby bol ustal, ale je
+          ešte väčší, ako čo by ho z cievok lieval!“
+    </tei:p>
+    <tei:p>
+     My sme verili a na radosť dali sme si ešte po poháriku plzenčiny.
+    </tei:p>
+    <tei:p>
+     Výborne bavili sme sa, ani nezbadali sme, že vonku už slnce svieti.
+    </tei:p>
+    <tei:p>
+     „Oznamujem úctivo, že neprší!“ preriekol Peter.
+    </tei:p>
+    <tei:p>
+     „Chceš, aby som domov išiel, všakže?“ pýtal sa ho major.
+    </tei:p>
+    <tei:p>
+     „Veľkomožná slečna bude sa starať...“
+    </tei:p>
+    <tei:p>
+     „No, no, dobre, Peter!“ odpovedal major. „Vidíte, takto ma tyranizujú
+          — pravda, len z lásky!“
+    </tei:p>
+    <tei:p>
+     „Je to ale do závidenia!“ povedal som ja.
+    </tei:p>
+    <tei:p>
+     „Ó, nie, neverte! Aspoň nie vždy! Keď je zima, nesmieš von, keď je
+          teplo, nesmieš nič piť, obloky a dvere nesmú byť naraz otvorené: to je
+          prievan! Od toho všetkého mal by starý vojak umrieť! Chrániť ho treba!“
+    </tei:p>
+    <tei:p>
+     Ja som sa smial tragickému tónu, ktorým to major rozprával.
+    </tei:p>
+    <tei:p>
+     „I teraz, vidíte, rád by sa s vami zabavil, ale nesmiem! O pol hodiny
+          prišla by už Otta nastráchaná pre mňa. Tiskaj teda, Peter! Zbohom, pán
+          Riečan, do videnia na „našej lavičke!“
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Do videnia!“
+    </tei:p>
+    <tei:p>
+     »„Ale istotne! Nedajte sa ničím hatiť, však bombardovanie ste už pre-
+          stáli, výborne prestáli!“ hovoril veselo starý pán, podávajúc mi svoju
+          ruku k lúčeniu.
+    </tei:p>
+    <tei:p>
+     „Prídem, pán major!“ uisťoval som ho.
+     <tei:pb/>
+     Zvláštne cítil som sa po jeho odchode. Tak divno mi bolo, ako keby
+          mi centy boli zaľahli na prsia - a zas v druhom okamihu cítil som sa.
+          ľahkým: len letieť!
+    </tei:p>
+    <tei:p>
+     Dal som si doniesť ešte pohár, dva, tri, a keď som ich vypil, makal som
+          vlastné telo: „Čo ti je, Jano? Tuším si sa opil!“
+    </tei:p>
+    <tei:p>
+     Lebo, vidíte, bol som v takom istom naladení, ako keď je kto opitý.
+          Svet zdal sa mi krásnym, všetko bezúhonné, ani čo by som bol hľadel
+          cez ružové okuliare.
+    </tei:p>
+    <tei:p>
+     Robil som próby: Koľko je 25 a 46 — 71 odvetil som hneď. Rátal som
+          tužkou: toľko vyšlo. - 37 a 26 — 63. Zas vyšlo.
+    </tei:p>
+    <tei:p>
+     „Opitý si už nie, Jano môj!“ tešil som sa.
+    </tei:p>
+    <tei:p>
+     Chytil som si hlavu: bola horúca. Tepna na ruke bila rýchlo, hruď
+          dmula sa silno.
+    </tei:p>
+    <tei:p>
+     „Nie, opitý nie si... Doneste mi pohár piva!
+    </tei:p>
+    <tei:p>
+     Na dúšok vypil som ho.
+    </tei:p>
+    <tei:p>
+     ».. Ale zaľúbený si ako mladý chalan!“ doplnil som vetu heroickou
+          smelosťou.
+    </tei:p>
+    <tei:p>
+     Honom bežal som domov. Chytil som mapu a trasľavou rukou kreslil
+          som začatý obraz. Vôbec som neváhal, celkom isto kládol som ťah za
+          ťahom, i ústa som uhádol!
+    </tei:p>
+    <tei:p>
+     „Tak“ preriekol som polohlasne. „Mám ťa! A čo by ako sťahovali sa
+          tvoje krásne ústa, bársako blčali by hnevom oči tvoje, tie ústa predsa.
+          musia usmievať sa raz mne, tie oči musia mne jasať! Vieš... Áno, musia!
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     te
+    </tei:p>
+    <tei:p>
+     Mne musia!“
+    </tei:p>
+    <tei:p>
+     Posledné slová volal som tuším už celým hlasom.
+    </tei:p>
+    <tei:p>
+     Utlmený smiech ozval sa v izbe. Nastrašene obzrel som sa. Mapa vy-
+          padla mi z rúk: pri dverách stál generál Davidovský. Krv mi buchla do
+          tváre: bol som úplne v rozpakoch.
+    </tei:p>
+    <tei:p>
+     „Odpustte"“ riekol on. „Klopal som!“
+    </tei:p>
+    <tei:p>
+     Bez slova pritisol som mu fotel.
+    </tei:p>
+    <tei:p>
+     „Prišiel som vám ďakovať za vaše láskavé ustávanie. Zaviazaný som
+          vám vďakou do konca života!“ riekol on citne a podával mi ruku.
+    </tei:p>
+    <tei:p>
+     Niečo som zašomral - neviem ani sám čo.
+    </tei:p>
+    <tei:p>
+     „Idem práve od profesora X.“ hovoril on ďalej. „Poprosil som ho, aby
+          zaobišiel sa dnes bez vás. On privolil.. A čo, priateľ môj, načo okolkovať?
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Chcel som predstaviť vás tejto istej slečne bez toho, aby bol vedel, že vy
+          už znáte ju!“
+    </tei:p>
+    <tei:p>
+     Prišiel som k sebe.
+    </tei:p>
+    <tei:p>
+     „Znám, ako vidíte!“ odpovedal som úprimne.
+    </tei:p>
+    <tei:p>
+     Vedel som, že ste cudzím tu,“ hovoril on ďalej. „Nuž už dávno po-
+          mýšľal som na to, že vás predstavím Jablonovskovcom - a netajím, mal
+          som pritom i bočné úmysly.“
+    </tei:p>
+    <tei:p>
+     „Tie asi, ktoré ja vyslovil som tak drasticky?“
+    </tei:p>
+    <tei:p>
+     On usmievavo kývol hlavou.
+    </tei:p>
+    <tei:p>
+     Potom musel som rozprávať, ako zoznámil som sa s majorom a s jeho
+          dcérou. On sa smial, keď líčil som Ottino správanie sa.
+    </tei:p>
+    <tei:p>
+     „Ak sa nemýlim, môžem už vopred blahoželať k úspechu!“ vyvolal
+          veselo generál, keď bol som u konca.
+    </tei:p>
+    <tei:p>
+     Ja otvoril som oči naširoko.
+    </tei:p>
+    <tei:p>
+     „K čomu?“ pýtal som sa chvatom.
+    </tei:p>
+    <tei:p>
+     „Ku zdaru!“ odpovedal on pokojne.
+    </tei:p>
+    <tei:p>
+     Bez slova díval som sa naň.
+    </tei:p>
+    <tei:p>
+     „To je už potom po vojensky, pán generál!“ vyvolal som konečne
+          a bez všetkej príčiny dal som sa do kfčovitého smiechu.
+    </tei:p>
+    <tei:p>
+     „Prečo?“ hovoril Davidovský, „Mladí majú sa zberať — a ja nevidím
+          príčinu, pre ktorú nemohli by ste vy..
+    </tei:p>
+    <tei:p>
+     „Pravda, keby Otta súdila podľa vášho vkusu!“ skočil som mu do reči.
+    </tei:p>
+    <tei:p>
+     „No nič, len nezaháľať! Chodte sa obliecť, pôjdeme k nej!“ riekol ge-
+          nerál.
+    </tei:p>
+    <tei:p>
+     Nedal som si dva razy povedať: o desať minúť prišiel som v úplnom
+          skvoste do izby.
+    </tei:p>
+    <tei:p>
+     „Nevedel som, že ste vojak. Dobre vám svedčí!“ vítal ma generál.
+    </tei:p>
+    <tei:p>
+     Bol som v obleku vojenského nadlekára.
+    </tei:p>
+    <tei:p>
+     O štvrť hodiny zastal s nami koč pri byte Jablonovskovcov.
+    </tei:p>
+    <tei:p>
+     V predizbe vítal nás Peter dlhým salutovaním. Potom otvoril dvere
+          a plným hlasom oznamoval:
+    </tei:p>
+    <tei:p>
+     „Pán generál Davidovský a pán nadlekár Riečan!“
+    </tei:p>
+    <tei:p>
+     Vošli sme do salónu. Prijali nás prekvapene, ale srdečne.
+    </tei:p>
+    <tei:p>
+     „Hohó, teda tiež vojak!“ vítal nás major. „Tým milší!“
+    </tei:p>
+    <tei:p>
+     Slečna podala mi ruku a zvala ma „vítaným“ u nich.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Posadali sme.
+    </tei:p>
+    <tei:p>
+     „No, Otta!“ preriekol Davidovský. „Pamätáš, čo si hovorila, keď opi-
+          soval som, ako láskavo opatruje ma môj lekár?“
+    </tei:p>
+    <tei:p>
+     Otta sa začervenala a sklopila zrak k zemi.
+    </tei:p>
+    <tei:p>
+     „Tu ho máš, doviedol som ho,“ pokračoval generál.
+    </tei:p>
+    <tei:p>
+     Oba starci dali sa do smiechu. Otta odrazu zdvihla hlavu a rázne vy-
+          strela ruku naproti mne.
+    </tei:p>
+    <tei:p>
+     „Srdečne vám ďakujem, pán doktor, že zachránili ste zrak môjho mi-
+          lého strýca!“ riekla vlnistým hlasom.
+    </tei:p>
+    <tei:p>
+     Ja vrelo pobozkal som jemnú ruku. Ona začervenená obrátila sa
+          k strýcovi.
+    </tei:p>
+    <tei:p>
+     »„Dostačí?“
+    </tei:p>
+    <tei:p>
+     „Predbežne áno!“ odpovedal on a potom zaviedol rozhovor na iný
+          predmet.
+    </tei:p>
+    <tei:p>
+     Keď sme už asi vyčerpali témy, preriekol generál:
+    </tei:p>
+    <tei:p>
+     „Tilka, teraz nám dačo zahráš.“
+    </tei:p>
+    <tei:p>
+     Ona sa zdráhala: nie je k tomu naladená.
+    </tei:p>
+    <tei:p>
+     „Ale jaj! Povedz radšej, že si pyšná, Tilka naša!“ zahriakol ju Davi-
+          dovský.
+    </tei:p>
+    <tei:p>
+     Ona stiahla pery.
+    </tei:p>
+    <tei:p>
+     „Nuž, keď chceš mať tak, nech je tak!“ povedala rozdráždene. „Pyšná
+          som k tomu, aby produkovala sa s takým, v čom cítim sa príliš slabou!“
+    </tei:p>
+    <tei:p>
+     „Ale však tu nejde o produkciu!“ vyvolal generál. „Mne hrával si od-
+          jakživa, keď som prišiel k vám, a pán doktor vôbec nebude kritizovať.“
+    </tei:p>
+    <tei:p>
+     „Nakoľko by som ani nebol schopným toho,“ dodal som ja.
+    </tei:p>
+    <tei:p>
+     „Nie ste muzikálnym?“ pýtala sa ona.
+    </tei:p>
+    <tei:p>
+     „Som len diletant,“ odpovedal som.
+    </tei:p>
+    <tei:p>
+     „Zahrajte teda vy!“ vyvolala Otta.
+    </tei:p>
+    <tei:p>
+     „Potom ale ty zahráš. Dobre?“ pýtal sa jej generál.
+    </tei:p>
+    <tei:p>
+     „Áno.“
+    </tei:p>
+    <tei:p>
+     Voľky-nevoľkyšiel som do susednej izby a sadol som si k pianu. Dve-
+          re na izbe nechal som otvorené.
+    </tei:p>
+    <tei:p>
+     Otta prišla a podala mi noty. Kusy boli mi zväčša známe. Vybral som
+          Mozarta.
+    </tei:p>
+    <tei:p>
+     „To je môj miláčik,“ hovorila Otta.
+     <tei:pb/>
+     „Takú jasnosť vyrážania citov nemá iný!“ odpovedal som a chytil som
+          akordy.
+    </tei:p>
+    <tei:p>
+     Hral som okamžitými dojmami: vrelo, náruživo.
+    </tei:p>
+    <tei:p>
+     Keď dokončil som, vyšla Otta z izby.
+    </tei:p>
+    <tei:p>
+     „Nebudem hrať, strýčko!“ počul som ju hovoriť v salóne.
+    </tei:p>
+    <tei:p>
+     „Prečo?“ pýtal sa jej generál.
+    </tei:p>
+    <tei:p>
+     „Lebo to len pokazí dojem,“ odpovedal ona.
+    </tei:p>
+    <tei:p>
+     Ja som práve vchádzal do salónu.
+    </tei:p>
+    <tei:p>
+     „Pán Riečan je virtuóz prvého stupňa oproti mne!“
+    </tei:p>
+    <tei:p>
+     „Ste snáď príliš skromná,“ ospravedlňoval som sa. „Nuž a dali ste slo-
+          vo, milosťslečna!“
+    </tei:p>
+    <tei:p>
+     Ona bez slova vošla do izby a hrala tiež Mozarta. Ale hrala ho tak, že
+          ja zatajil som dych. Bolo badať síce istú nedokonalosť v technike, no hra
+          pútala, oduševnila ma.
+    </tei:p>
+    <tei:p>
+     Však viete, že indivíduum nedá sa zatajiť v ničom. Nuž slečna Otta
+          plasticky dala výrazu svojej silnej, vrelej, sviežej povahe. Pre mňa stratil
+          význam Mozart, lebo taká reprodukcia má práve toľko ceny ako sama
+          skladba.
+    </tei:p>
+    <tei:p>
+     „Ďakujem ti, Tilka!“ vítal ju generál, keď vošla do izby.
+    </tei:p>
+    <tei:p>
+     Ja mlčal som, lebo vedel som dobre, žeby ju poklona urážala.
+    </tei:p>
+    <tei:p>
+     Davidovský opasoval šabľu. Lúčili sme sa. Starý pán major mi naložil,
+          aby čím driev prišiel a aby cítil som sa u nich ako doma.
+    </tei:p>
+    <tei:p>
+     Slečna mlčky podala mi ruku.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     Druhý deň mala lavička o jedného hosťa viac. Bol to generál Davidovský.
+    </tei:p>
+    <tei:p>
+     Starci, nevyjmúc ani Petra, vítali ma veľmi srdečne, len slečna bola zas
+          zlej vôle. 1 ruku mi len tak nechutne podala.
+    </tei:p>
+    <tei:p>
+     „Čo to zas za príčina?“ myslel som si.
+    </tei:p>
+    <tei:p>
+     „Škoda, že ste o niečo skôr neprišli!“ riekol generál. „Boli by ste po-
+          čuli zaujímavý rozhovor!“
+    </tei:p>
+    <tei:p>
+     „Smiem byť zvedavým?“ pýtal som sa.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     „Nie, strýco: nehovor, nechcem!“ pružne vyvolala Otta.
+    </tei:p>
+    <tei:p>
+     „Počujte: ona nechce: nuž a to sme my úbohí starci tak naučení, že
+          vtedy ani my „nechceme!“ odpovedal mi generál.
+    </tei:p>
+    <tei:p>
+     Otta dala sa do smiechu.
+    </tei:p>
+    <tei:p>
+     „Len toľko vám môžem povedať...“
+    </tei:p>
+    <tei:p>
+     „Strýco, prosím!“ pretrhla ho Otta.
+    </tei:p>
+    <tei:p>
+     ».. Že jednalo sa o vás!“
+    </tei:p>
+    <tei:p>
+     Otta sa začervenala.
+    </tei:p>
+    <tei:p>
+     „Teraz už môžeš všetko povedať!“ povedala zlobne. „Aspoň jedna
+          bezsenná noc pána Riečana nebude mi na duši!“
+    </tei:p>
+    <tei:p>
+     „Veľmi povďačný som vám za láskavú starosť o mňa!“ odpovedal som
+          posmešne. „S dovolením pána generála vystavím sa ale predsa nebezpe-
+          čenstvu!“
+    </tei:p>
+    <tei:p>
+     »„Z toho ja ale teraz už nemám nič!“ riekla ona chladne. „Ba ešte mohli
+          byste si všeličo namýšľať!“
+    </tei:p>
+    <tei:p>
+     » Ach, tak veľmi neráčili ste ma rozmaznať, milostivá slečna!“ odpo-
+          vedal som ja.
+    </tei:p>
+    <tei:p>
+     „Ja teraz ale rozhodne chcem, aby ste vedeli, o čom bola reč!“ riekla
+          ona čím ďalej, tým srditejšie.
+    </tei:p>
+    <tei:p>
+     „Ó, prosím! Kde generáli podliehajú, tam musím aj ja poddať sa! Ráč-
+          te teda len rozprávať.“
+    </tei:p>
+    <tei:p>
+     Ona bola celá rozčúlená, pery mala stisnuté a oči blčali plameňom
+          hnevu.
+    </tei:p>
+    <tei:p>
+     „Ste skoro do nevystátia so svojimi výsmeškami!“ riekla rýchlo. „O
+          tom bola reč - a všetci chceli mi nadišputovať, že som žiarlivá na vás. A.
+          to nie je pravda! No z hodiny do hodiny, zo dňa na deň, vždy počúvať
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     chválospevy o vás, to - to je k nevydržaniu!“
+    </tei:p>
+    <tei:p>
+     Vyskočila hore a rýchlym krokom vzdialila sa od lavičky.
+    </tei:p>
+    <tei:p>
+     Starci smiali sa. Mňa však bodlo čosi v hrudi. Veď je to číročistá ne-
+          návisť! Také oči ani jazvec! Mali ma zhltnúť od jedu!
+    </tei:p>
+    <tei:p>
+     „Som vám povďačný,“ riekol som trpko k pánom. „Ako však vidieť
+          ráčite, vaše chvály konajú mi zlú službu!“
+    </tei:p>
+    <tei:p>
+     „Ale, prosím vás!" riekol major. „Veď sme vás len raz spomenuli - už
+          blčalo! Dakedy skutočne nerozumiem Otte!“ dodal mrzuto.
+    </tei:p>
+    <tei:p>
+     Davidovský sa usmieval.
+     <tei:pb/>
+     „Len ju v pokoji nechať!“ riekol potom ku mne, zbadajúc, že chystám
+          sa ísť za ňou.
+    </tei:p>
+    <tei:p>
+     „Mier je sladší po vojne!“ zašomral nahlas.
+    </tei:p>
+    <tei:p>
+     Zaviedli sme rozhovor špeciálne o Slovákoch. Páni boli málo infor-
+          movaní, no tým zvedavejší.
+    </tei:p>
+    <tei:p>
+     Zabudol som na všetko, na Ottu, na ublíženie, ktoré dostalo sa mi
+          od nej. Reč len tak plynula mi z úst, lebo veď všetko precítil som, čo.
+          rozprával som im.
+    </tei:p>
+    <tei:p>
+     Tak ďaleko sme, páni moji, že skoro niet človeka medzi nami,
+          zvlášť ale mladého človeka, ktorý nebol by býval martýrom idey našej!“
+    </tei:p>
+    <tei:p>
+     Predo mnou stála Otta, nemá, pyšná.
+    </tei:p>
+    <tei:p>
+     „Hovoríte veľmi vo všeobecnosti, pán Riečan!“ riekla chladne. „Či ne-
+          vedeli by ste napríklad rozprávať nám niečo tragického, uchvacujúceho
+          zo svojho vlastného života? Akým spôsobom stali ste sa vy martýrom,
+          ako vás vyhodili zo škôl, ako vás zatvorili do čiernych temníc a inkviro-
+          vali podľa španielskeho spôsobu? To by ma zaujímalo a verím, že vy to
+          dokážete!“
+    </tei:p>
+    <tei:p>
+     jej slov vial ťažký sarkazmus a opovrhovanie. Cítil som, ako mizne
+          mi krv z tváre. Trasľavými perami odpovedal som:
+    </tei:p>
+    <tei:p>
+     „Mýlite sa, slečna Jablonovská: nedokážem! Môj život bol tichý, ne-
+          významný, ako som i sám. Môžem vám na svoju česť povedať, že nebolo
+          vňom ani len takého výjavu, aký ste vy ráčili aranžovať!“
+    </tei:p>
+    <tei:p>
+     Bôlne díval som sa na ňu. Ona očividne zbledla.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     Davidovský stiahol obrvy, jeho oči sršali hnevom. Major hniezdil sa
+          vo vozíku. Oba uprene dívali sa na Ottu, tá však mlčala. Gia, ž že urobila
+          zle, no pýcha nedopustila jej, aby to i verejne uznala.
+    </tei:p>
+    <tei:p>
+     O chvíľu pretrhol som krušné položenie. Vstal som a odporúčal som sa.
+    </tei:p>
+    <tei:p>
+     Pred slečnou som sa nemo, hlboko poklonil. Jej bledá tvár sa vtom
+          okamihu zapýrila, ústa akoby sa boli pohýnali - no nevydali slova. Len
+          oči, jej veľké, krásne oči boli prosebne uprené na mňa.
+    </tei:p>
+    <tei:p>
+     Nehovoril nik: nemo lúčili sme sa. Ešte i Peter robil smutnú tvár.
+    </tei:p>
+    <tei:p>
+     Ustatý hodil som sa doma do fotela. Bolo mi skoro do plaču. Prekri-
+          žoval som ramená a díval som sa do izby. Prešli ilúzie. Svet ukazoval sa.
+          mi taký, aký bol, alebo ešte horší, /hnusnejší. - A v sebe samom pocítil
+          som dáku prázdnotu, ako čo by mi niečo chýbalo. Divo stisol som zuby,
+     <tei:pb/>
+    </tei:p>
+    <tei:p>
+     keď urážka prišla mi do umu. „Drží ťa za obyčajného švindlera, chvastú-
+          ňa!“ preletelo mi hlavou.
+    </tei:p>
+    <tei:p>
+     Chytil som mapu a dlho díval som sa na obraz.
+    </tei:p>
+    <tei:p>
+     „UŽ teraz ťa nechcem, Otta Jablonovská!“ šomral som a divo vytrhol
+          som podobizeň z mapy.
+    </tei:p>
+    <tei:p>
+     „Nechcem ťa a čo by si bola tisíc ráz krajšia a čo by si sa mi sama
+          núkala. Koniec!“ hovoril som cez zuby a skrkval som obraz v trasľavých
+          rukách.
+    </tei:p>
+    <tei:p>
+     Ako ľahko povie sa to „koniec!“ - a ako ťažko prevedie sa to! Akoby
+          srdce počúvalo na rozumkovanie. Akoby bylina, ktorá pustila hlboké
+          korene, dala sa vytrhnúť bez toho, že by vytrhol si i zem s ňou! Akoby
+          láska, silná láska dala sa jednoducho zatajiť, odhodiť...
+    </tei:p>
+    <tei:p>
+     Hodiny bili desiatu. Ustato vstal som a šiel som k ordinácii.
+    </tei:p>
+    <tei:p>
+     Keď prišiel som nazad, v predizbe našiel som Petra. Mlčky podal mi
+          malý lístok. Otvoril som ho.
+    </tei:p>
+    <tei:p>
+     „Odpustte! Otta Jablonovská“ - stálo na ňom.
+    </tei:p>
+    <tei:p>
+     „Slečna nežiada odvetu,“ preriekol Peter.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Bolo by mi ťažko dať ju“ odpovedal som trpko.
+    </tei:p>
+    <tei:p>
+     Peter salutoval a odišiel.
+    </tei:p>
+    <tei:p>
+     Napadla ma zlosť, nevýslovná zlosť! „Odpusťte!“ Akoby to jedno slo-
+          vo zaceliť malo otvorenú ranu! lečna nazdá sa, že hneď pobežím
+          , prosím veď to maličkosť! Tu je ešte druhé líce, zaplujte i na
+          to! Všetko pretrpím, len ma neodožeňte, len dovoľte, aby mohol som
+          obdivovať vás...!“
+    </tei:p>
+    <tei:p>
+     Mala sa mi hlava puknúť od jedu: žily navreli ako človeku, ktorého
+          má poraziť... „Odpustte jedu...“ A potom prišlo mi na um, koľko seba-
+          zaprenia stálo napísanie i len toho jediného slovíčka pyšnú, hrdú slečnu.
+          Ó, to je velká grácia od nej! Uznať, uznala hned, to viem, ale pokoriť
+          sa, výrazu dať tomu: ó, to je náramná grácia...! Lenže nemá výsledku —
+          žiadneho. Keby to bola hneď povedala, bol by jej tuším zabudol. Keby,
+          ach, keby! Aké krásne nádeje mal som, akí šťastní mohli sme byť, keby...
+    </tei:p>
+    <tei:p>
+     Poobede navštívil ma generál Davidovský. Vrelo tisol mi ruku.
+    </tei:p>
+    <tei:p>
+     „Vidíte, ľudia sami kazia svoje šťastie!“ preriekol ticho.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     „Však tu jednalo sa výlučne o moje šťastie!“
+          „Myslíte? Klamete sa, tak ako čo i Otta klame sa!“ hovoril s dôrazom.
+     <tei:pb/>
+     „Tuším chceli by ste mi dokazovať, že slečna Jablonovská z čírej lásky
+          ublížila mi do krvi?“ pýtal som sa úsečne.
+    </tei:p>
+    <tei:p>
+     „Rozhodne!“ odpovedal on pokojne.
+    </tei:p>
+    <tei:p>
+     „Všetko jedno!“ povedal som ja. „Možno je, zadalo by sa vysvetliť i to,
+          noistá vec je, že podobný spôsob vyjavovania lásky je aspoň zvláštny, —
+          ak nie hrubý!“
+    </tei:p>
+    <tei:p>
+     „Veď tu ani nešlo o vyjavovanie, ba opačne o zatajovanie lásky!“
+    </tei:p>
+    <tei:p>
+     „Pred kým?“
+    </tei:p>
+    <tei:p>
+     „Hlavne pred samou sebou!“ odpovedal generál. „Otta je pyšná, ná-
+          ruživá.“
+    </tei:p>
+    <tei:p>
+     „Nuž už je všetko jedno!“ pretrhol som ho. „Nemienim viac križovať
+          cesty slečny Ot...“
+    </tei:p>
+    <tei:p>
+     „Nehovorte to, priateľ môj!“ skočil mi Davidovský do reči. „Láska
+          zlomí i najsilnejších!“
+    </tei:p>
+    <tei:p>
+     Bol som hrozne rozdráždený.
+    </tei:p>
+    <tei:p>
+     „Nikdy, pane môj!“ vyvolal som náruživi
+    </tei:p>
+    <tei:p>
+     „A láska i zaplní medzery,“ pokračoval on. „Nuž tešme sa, že príde
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     čas.
+    </tei:p>
+    <tei:p>
+     „Pán generál, prosím vás, nehovorme viac o tom!“ riekol som netr-
+          pezlivo.
+    </tei:p>
+    <tei:p>
+     „Ako vám ľúbo!“ riekol on.
+    </tei:p>
+    <tei:p>
+     O pár minút odporúčal sa.
+    </tei:p>
+    <tei:p>
+     „Nádejam sa, že na náš úprimný pomer nebude to mať žiadneho
+          vplyvu!“ povedal pri lúčení.
+    </tei:p>
+    <tei:p>
+     Vrelo tisli sme si ruky.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     O dva týždne oslovil ma starostlivo starký profesor:
+          „Ste nemocný, pán kolega? Od istých čias ste náramne bledý.“
+          „Možno, snáď povetrie!“ odpovedal som. „Práve som chcel oznámiť
+          vám, že musím vzdialiť sa z N.“
+          „To veru nemilo prekvapujete ma! A na dlhý čas?“
+          „Neviem, snáď navždy!“ odpovedal som.
+     <tei:pb/>
+     „Ste snáď nespokojný s dačím?“ pýtal sa ma on zarazený.
+    </tei:p>
+    <tei:p>
+     „Ani zďaleka, ale okolnosti nútia ma. A musím dbať io svoje zdravie,
+          pán profesor.“
+    </tei:p>
+    <tei:p>
+     „No, no, nemôžem vás hatiť, priateľu,“ srdečne riekol starec, „a naj-
+          menej žiadal by si, aby ste onemocneli: ale privykol som na vás, bude mi
+          veľmi ľúto za vami!“
+    </tei:p>
+    <tei:p>
+     „Verte, žei ja budem pokladať tie dni, ktoré strávil som po boku va-
+          šom, za svoje najkrajšie!“
+    </tei:p>
+    <tei:p>
+     »A meniť sa nedá?“
+    </tei:p>
+    <tei:p>
+     „Nie!“
+    </tei:p>
+    <tei:p>
+     „A kedy mienite ísť?“
+    </tei:p>
+    <tei:p>
+     „Hneď - zajtra, pozajtra.“
+    </tei:p>
+    <tei:p>
+     „Hneď?“ vyvolal profesor. „Ja som myslel, že o mesiac, najprv o dva
+          týždne! Hm, hm! Musíte mať vážne príčiny!“
+    </tei:p>
+    <tei:p>
+     „Súrne!“
+    </tei:p>
+    <tei:p>
+     „Čo robiť! Keby mi bolo v moci, dal by som vám mesiac slobody, po-
+          tom ale museli by ste mi vrátiť!“
+    </tei:p>
+    <tei:p>
+     » Možno, že tak stane sa!“
+    </tei:p>
+    <tei:p>
+     „Nužv tej nádeji lúčim sa s vami. Mal som vás rád, pán Riečan, a pa-
+          cienti tiež budú banovať za vami! Ale zajtra ešte prídete?“
+    </tei:p>
+    <tei:p>
+     » Ak možno...“
+    </tei:p>
+    <tei:p>
+     „No, no, verím. Máte práce! Buďte teda zdravý, pán Riečan, a ne-
+          zabudnite na to, že vás čakám!“ riekol profesor a srdečne mi tisol
+          ruku.
+    </tei:p>
+    <tei:p>
+     Uľahčene dýchal som na ceste k bytu. Konečne teda prejdú muky,
+          strachy. Pozajtra pôjdem preč, ďaleko! Tam nebudem sa strachovať za.
+          každým krokom, že zídem sa s ňou!
+    </tei:p>
+    <tei:p>
+     A pritom predsa sťahovalo sa mi srdce od bôľu, keď pomyslel som, že
+          neuvidím ju viac. Teraz nechcem vidieť ju, ale myšlienka, že o pár dní
+          ani nebudem môcť vidieť ju, bárs by to i ako chcel, naplnila ma nevý
+          slovným žiaľom. Darmo tajil som si, darmo hádzal som sa sem i tam:
+          ľúbil som Ottu! Ale len slabosť, vedomie vlastnej slabosti hnali ma preč
+          ZN. - ďaleko od nej, lebo napadla mi výpoveď starého generála: „Láska.
+          zlomí najsilnejších, ona zaplní medzery.“ A to nie, ani za svet: nemô-
+          žem tak znížiť sa!
+     <tei:pb/>
+     Počal som ukladať veci, chystať sa k ceste. A čím plnšie boli škatule,
+          lády, tým ťažšie bolo mi srdce. Umdlený sadol som na stoličku a tupo
+          díval som sa na svoju prácu.
+    </tei:p>
+    <tei:p>
+     „Teda preč a bez toho, aby si ju videl
+    </tei:p>
+    <tei:p>
+     Šatkou utieral som mokré čelo.
+    </tei:p>
+    <tei:p>
+     „Keby si mohol vidieť ju aspoň zďaleka! Či je ešte taká pokojná, pyš-
+          ná? Či nevidieť na nej, že ľutuje, že tak hrozne urazila muža, ktorý lásku
+          niesol jej v ústrety?“
+    </tei:p>
+    <tei:p>
+     Ktosi zaklopal na dvere. Nastrašene, že by mi kto myšlienky čítať mo-
+          hol, prešiel som rukou cez tvár.
+    </tei:p>
+    <tei:p>
+     Vošiel starý Peter. Oddal mi list.
+    </tei:p>
+    <tei:p>
+     „Vtedy nežiadala som odvetu: no teraz už minulo viac času a snáď
+          otupilo ostrie mojich nešťastných slov. Pýtam sa vás teda: Odpustili ste
+          mi, odpustíte mi? Otta Jablonovská.“
+    </tei:p>
+    <tei:p>
+     „Slečna znižuje sa veľmi!“ bola moja prvá myšlienka: no podľahol
+          som lepšiemu duchu, keď odvetil som jej:
+    </tei:p>
+    <tei:p>
+     „Nemôžem tajiť: bolí ma a bolieť bude ma vždy, že nevedel som získať
+          u Vás inú mienku o sebe. No nehnevám sa, odpúšťam Vám úplne, tým
+          viac, že napozajtre vzďaľujem sa. Bolo by nepekne, aby som bral svoj
+          hnev so sebou i do diaľky. Budem sa usilovať, aby som na Vás pamätal
+          bez trpkostí vždy, keď prídu mi takzvané slabé okamihy. Buďte šťastná!“
+    </tei:p>
+    <tei:p>
+     Oddal som list Petrovi.
+    </tei:p>
+    <tei:p>
+     „Chodievate ešte do parku?“ pýtal som sa ho.
+    </tei:p>
+    <tei:p>
+     „Nie! Ach, u nás ide teraz všetko naopak!“ odpovedal on a hlboko
+          vzdychol.
+    </tei:p>
+    <tei:p>
+     Potom okúňal sa pri dverách.
+    </tei:p>
+    <tei:p>
+     „Máte ešte dačo povedať, Peter?“
+    </tei:p>
+    <tei:p>
+     „Nie, nič - ba...! Už vám len poviem, pán nadlekár,“ habkal on a za-
+          stal v reči.
+    </tei:p>
+    <tei:p>
+     „No len von! Ako vidíte, už ťažko vidíme sa viac,“ posmeľoval som
+          hoja.
+    </tei:p>
+    <tei:p>
+     On si odkašlal a potom preriekol:
+    </tei:p>
+    <tei:p>
+     „U nás banujú za vami, pane, veľmi banu...“
+    </tei:p>
+    <tei:p>
+     „No, no, Peter!“ pretrhol som ho. „Myslel som, že mi o druhom chce-
+          te hovoriť.“
+    </tei:p>
+    <tei:p>
+     te
+     <tei:pb/>
+     On len stál na mieste, potom schytil kľučku a chvatom povedal:
+          „Naša slečna umrie, ak odídete!“
+          Nato tresol dvermi.
+          Ja stál som ako skamenený. A on zas strčil hlavu: dvermi a hrubým
+          hlasom riekol:
+          „A Má tiež ste bledý, chorý! Utekáte pred šťastím: vravím vám: zhola.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     Potom už odišiel celkom: počul som jeho ťažké kroky.
+    </tei:p>
+    <tei:p>
+     Triasol som sa na celom tele. Hlavou rojili sa mi myšlienky, hmlis-
+          té, neisté. Prsia silne dvíhali sa: „Ona umrie, - pred šťastím utekáš!“ A.
+          zas krásnym zdal sa mi svet. Prišiel mi na um generál Davidovský. On
+          dobre posúdil povahu Ottinu: ona ma ľúbi, silne, náruživo... Ach, slasť,
+          rozkoš...! Už som si maľoval krásne obrazy z budúcnosti, z našej budúc-
+          nosti: akí budeme šťastní, rajom nám bude... Ach! Odrazu zastal som.
+          Prišla mi na um urážka a generálova výpoveď: „Láska zaplní medzery!
+          Ako ranený zver zajačal som od bôlu, „Nie - nikdy! Koniec!“
+    </tei:p>
+    <tei:p>
+     Bôlmi prerývaný dotiahol som sa k stoličke a hodil sem sa na ňu. Za-
+          kryl som tvár dlaňami a tupo som šeptal: „Koniec!“
+    </tei:p>
+    <tei:p>
+     Neviem, koľko času strávil som v mukách. Klopanie prebudilo ma.
+    </tei:p>
+    <tei:p>
+     Zas vošiel Peter. Tvár blčala mu, bol celý rozčúlený. Zadychčaným
+          hlasom hovoril mi:
+    </tei:p>
+    <tei:p>
+     „Na vás čaká!“ odpovedal rýchlo. „Nesmiete odísť prv, kým nezídete
+          sa s ňou!“
+    </tei:p>
+    <tei:p>
+     „Nepôjdem, Peter!“ odpovedal som pokojne, hoci srdce bilo miskoro
+          hlasne.
+    </tei:p>
+    <tei:p>
+     Jemu stiahli sa hrubé obrvy, oči hádzali mu iskry.
+    </tei:p>
+    <tei:p>
+     „Musíte ísť, pane!“ vyvolal prudko. „Ja som sľúbil mojej slečne, že
+          dovediem vás k nej. Ja, ja - tuším ponesiem vás, ale musíte k nej!“
+    </tei:p>
+    <tei:p>
+     Ja vyskočil som zlobne, no on nedal mi prísť k slovu.
+    </tei:p>
+    <tei:p>
+     Trasľavo, jemnosťou, akej jeho hrubý hlas len schopný bol, prosil ma:
+    </tei:p>
+    <tei:p>
+     „Ako vás rád mám oboch! Odpusťte, mne ide do plaču, keď vidím
+          moju bledú, chorú slečinku, Nebudte tvrdým, prídte!“
+    </tei:p>
+    <tei:p>
+     Chytil ma za ruku a ťahal ma.
+    </tei:p>
+    <tei:p>
+     „Poďteľ“
+    </tei:p>
+    <tei:p>
+     „Idem, Peter!“ riekol som dojatý a šiel som.
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+    </tei:p>
+    <tei:p>
+     NY
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Rýchlo kráčali sme: za pár minút dorazili sme do parku. Už neboli
+          sme ďaleko chodníka. Pri jeho vchode černeli sa ženské šaty. Mne rých-
+          lejšie bilo srdce.
+    </tei:p>
+    <tei:p>
+     Peter zastal a chytil mi ruku.
+    </tei:p>
+    <tei:p>
+     „To je ona!“ riekol ticho. „Na rukách nosil som ju, pane! Majte zmi-
+          lovania!“
+    </tei:p>
+    <tei:p>
+     Vrelo potriasol som mu ruku a opustiac ho, kráčal som k chodníku.
+    </tei:p>
+    <tei:p>
+     Otta vybehla na stred chodníka a chytila mi obe ruky.
+    </tei:p>
+    <tei:p>
+     „Ďakujem!“ riekla tíško a viedla ma k lavičke.
+    </tei:p>
+    <tei:p>
+     Kam podela sa pýcha, kam pokoj z tejto tváre?
+    </tei:p>
+    <tei:p>
+     Kráčala rýchlo, hruď sa jej silne dvíhala od vnútorného rozochvenia.
+          Jej ruka pálila ma ako žeravé uhlie. Došli sme. Zimnične stiahla ma na
+          lavičku k sebe, celkom k sebe. Jej horúci dych týkal sa mojej tváre, keď
+          hovorila. Jej hlas utlmený až do šeptania podobal sa trasľavosťou svojou.
+          tomu najjemnejšiemu tremolovaniu.
+    </tei:p>
+    <tei:p>
+     „Pozrite, aká som ubiedená! Nemala som hodinky pokoja, nie v noci,
+          nie vo dne - odvtedy. Prestála som pokutu strašnú, - chcete ešte ďalej
+          isť?“
+    </tei:p>
+    <tei:p>
+     Uprela uslzené oči na mňa. Ja pozrel som na jej krásnu, bledú tvár,
+          pred očami točil sa mi svet: závrat dostal som. Nebol som schopný slova.
+          Zdvihol som jej ruky a náruživo celoval som ich.
+    </tei:p>
+    <tei:p>
+     Ona zajasala.
+    </tei:p>
+    <tei:p>
+     „Teda, áno? Úplne?“
+    </tei:p>
+    <tei:p>
+     Kývol som hlavou.
+    </tei:p>
+    <tei:p>
+     „Ó, ja by som bola vedela obetovať svoj život, aby som napravila chy-
+          bu!“ zvolala.
+    </tei:p>
+    <tei:p>
+     Ja som sa striasol.
+    </tei:p>
+    <tei:p>
+     „A keby som teraz žiadal tú obeť od vás, Otta?“ tíško preriekol som
+          a bojazlivo zrel som do jej očú.
+    </tei:p>
+    <tei:p>
+     Ona ešte vyššie vyzdvihla sčervenenú tvár, oči svietili jej, ústa stiahli
+          sa a vydali hlas, ako keď hrdlička zasmeje sa. Zopäla biele ruky a tisla.
+          ich na moju hruď.
+    </tei:p>
+    <tei:p>
+     „Ó, veď povedz!“ šeptala náruži
+          tvrdili. Ty mi povedz, že ma ľúbiš, silne, aký si sám, náruživo, aká som
+          ja. Povedz mi!“
+    </tei:p>
+    <tei:p>
+     „Povedz mi to, čo mi všetci dávno.
+    </tei:p>
+    <tei:p>
+     <tei:pb/>
+     Ale nečakala na odvetu: ovila ramená okolo mojej šije a horúco šep-
+          tala:
+    </tei:p>
+    <tei:p>
+     „Mlč! Najprv ja! To je ale malé slovo pre mňa: „Ľúbim ťa! Ja, ja...
+          neviem...“
+    </tei:p>
+    <tei:p>
+     Hrmot vozíka vytrhol nás. Peter tiskal v kočíku majora, ale omnoho
+          rýchlejšie, ako keď sme utekali pred dažďom.
+    </tei:p>
+    <tei:p>
+     „Tu sú, svoji sú!“ vyvolal zvlneným hlasom starý sluha.
+    </tei:p>
+    <tei:p>
+     Otta vymkla sa mi z ramien a pristúpila k vozíku. Od otca šla rovno
+          k Petrovi a vďačne objala ho, pobozkala jeho vráskovitú tvár.
+    </tei:p>
+    <tei:p>
+     „Môj drahý, starý báťuška!“ riekla k nemu.
+    </tei:p>
+    <tei:p>
+     Starý vojak od radosti - čkal, lebo plakať nevedel.
+    </tei:p>
+    <tei:milestone rend="stars" unit="subchapter"/>
+    <tei:p>
+     K obedu prišiel generál Davidovský, a pretože bol malicióznym člove-
+          kom, doviedol so sebou i môjho profesora.
+    </tei:p>
+    <tei:p>
+     Žartom a výsmeškom nebolo konca-kraja, no nateraz boli sme pois-
+          tení proti podobným nehodám. Smiali sme sa so smejúcimi, a keby nás
+          dakto bol poprosil, aby sme plakali, tuším boli by sme doviedli i to, lebo.
+          boli sme ako deti - šťastné deti!
+    </tei:p>
+    <tei:p>
+     „Očuj, brat môj!“ preriekol blažený otec ku generálovi. „To teraz nám
+          dvom prichodí úloha žiarlivých!“
+    </tei:p>
+    <tei:p>
+     Staručký generál pokývol hlavou.
+    </tei:p>
+    <tei:p>
+     „Veru tak!“ odpovedal robenou zlosťou. „Nešťastný park, nešťastná
+          lavička!“
+     <tei:pb/>
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

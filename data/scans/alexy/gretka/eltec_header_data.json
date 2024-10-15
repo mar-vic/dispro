@@ -1,0 +1,27 @@
+{
+  "xslt_params" : {
+    "title":            "Grétka",
+    "words":            "0",
+    "pages":            "0",
+    "vols":             "0",
+    "srced_publisher":  "Leopold Mazáč",
+    "srced_pub_place":  "Praha",
+    "srced_ref":        "",
+    "srced_pub_date":   "1928",
+    "frsted_publisher": "",
+    "frsted_pub_place": "",
+    "frsted_ref":       "",
+    "frsted_pub_date":  "",
+    "encoding_lvl":     "eltec-1",
+    "gender":           "M",
+    "size":             "small",
+    "timeSlot":         "T4",
+    "canonicity":       "unspecified"
+  },
+  "author_first_name": "Janko",
+  "author_last_name":  "Alexy ",
+  "author_alter_name": "",
+  "author_ref":        "55546822",
+  "author_birth_date": "1894",
+  "author_death_date": "1970"
+}

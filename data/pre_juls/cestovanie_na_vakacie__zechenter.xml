@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012498" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Cestovanie na vakácie : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:49245103">
+     Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     3753
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:49245103">
+      Zechenter-Laskomerský, Gustáv Kazimír (1824-1908)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Cestovanie na vakácie
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     CESTOVANIE NA VAKÁCIE
+    </tei:head>
+    <tei:head>
+     <tei:emph>
+      Epizóda zo života študentského
+     </tei:emph>
+    </tei:head>
+    <tei:head>
+     <tei:foreign>
+      <tei:emph>
+       Motto: Si non e vero, e ben trovato.
+      </tei:emph>
+     </tei:foreign>
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Že je to pravda, ručím vám za to.
+   </tei:p>
+   <tei:p>
+    Vacationes! Prázdniny! — Toto slovo má podľa výrazu dosť lačný vý-
+        znam: ale pre žiaka, ktorý sa celých-celučičkých desať mesiacov v cu-
+        dzine ponevieral, s citátmi, karcerom, finančnými, na deficit poukazu-
+        júcimi mizériami, sto a sto inými mrzutosťami a žiaľmi, aké ani sám.
+        rozplakaný Werther nepodstúpil - pre toho má slovíčko „vakácie“ výz-
+        nam krásny, čarovný, plnozvučný ako trúba archanjela na súdnom dni.
+        Všetky pletky a mrzutosti, ktoré tak často mal s krajčírmi, čižmármi,
+        gazdinami, pedelmi, s hlásnikmi atď. prestávajú a svitá deň slobody, a to.
+        slobody úplnej, neviazanej, na ktorú všetky sveta národy, nevyníma-
+        júc ani slobodné obce amerikánske, žiarlivo a závistlivo môžu pozerať.
+        Prázdniny sú teda nie dačo prázdneho, ale obsah, a to hustý obsah slastí
+        a rozkoší, akých len študentská sloboda môže podáv:
+   </tei:p>
+   <tei:p>
+    Nepíšem román ani novelu: nikto sa nezaľúbi, neožení, nezastrelí, ne-
+        utopí, nezakole, ani neotrávi nebudú domy horieť, ani nebude potopa
+        lomoziť, nič, ani len máčny mak toho všetkého. Kto toto čítaš, neboj sa,
+        nebudú ti vlasy dupkom vstávať, ani neupadneš do mdloby, iba ozaj ak.
+        do chrápania - no a v tom prípade budeš mať sny pokojné, to som pre-
+        svedčený. Chcem vám len opísať prešlé časy študentského života z časov
+        predpotopných, fosílnych, keď sa ešte diftongi longi jedávali a všetci sme
+        rovní Uhri boli na tomto starom našom kruhu zeme:
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Mint a magyar, mint a németh, mint az oláh, mint a tót!“ — Teraz to
+        už patrí medzi petrefakty.
+   </tei:p>
+   <tei:p>
+    Opíšem vám teda našu cestu z Pešti na Slovensko, do toho Tótors-
+        zágu. Ale, rozumie sa, musíme začať v Pešti, a to práve v samučičký ten
+        deň, keď sme sa na cestu vyberali. Vidím, že sa mnohý, zvyknutý tú cestu
+        teraz železnicou konať, nad celou tou zdíhavosťou a oneskorenosťou za-
+        smeje — darmo, vtedy boli časy také. V Pešti teda, v Jozefovskom pred-
+        mestí, izba naša v prízemí, i tak po chudopaholsky vystrojená, vyzerala
+        tento deň akoby vyrabovaná, ozaj clivo a pusto. Steny holé, ako najfaj-
+        nejší tajtík vyfajčené na tmavo: na oblokoch a stenách rozliate černidlo.
+        Sklo na oblokoch škamrilo žiaľom za svojimi odchádzajúcimi obyva
+        teľmi. Okolo stien slamené, zelenavé, rozhegané stolce a slamené, tiež
+        prázdne postele. Naprostred izby na štyroch stolcoch vyložený katafalk:
+        dve truhly a dva čiernym kepeňom prikryté kufríky. Na tom dve krivé,
+        nakríž preložené šable, na hornom konci umrlčia hlava a dve boncové
+        kosti (ossa femoris), tiež nakríž položené. Na hlave vypchaný netopier
+        s nápisom v pysku: „Memento mori.“ Na dolnom konci Vyrožilovo Jus
+        naturac, Jus Romanum, Jus canonicum a boh zná aké odznaky právnic-
+        ké a lekárske - to všetko si razom predstavte, aby ste aký-taký pochop
+        mali o tejto našej študentskej izbici.
+   </tei:p>
+   <tei:p>
+    Pri týchto márach sedia na prázdnych posteliach štyria študenti dum-
+        no aticho: myslel by si, že sú mftvi, keby ich načahovanie sa po veličiz-
+        nom, vyštrbenom krčahu a hlboké dýchanie neprezradzovalo opravdivý
+        život a duchaprítomnosť. Zavše jeden, zavše druhý sa uhol, aby dosia-
+        hol túto velikánsku amforu a so synovskou dôverou k prsiam a ústam
+        ju pritisnúc, tak dlho do nej kukal, akoby mal tam na dne krčaha vy-
+        ciťovať dáku novú vlasaticu prekvapenému svetu. Len glganie gágora
+        a mohutné klokotanie nápoja, tečúceho do hlbín nenásytnej priepasti,
+        prerušovalo hrobovú tichosť. Za dlhú chvíľku trvá toto zaujímavé, hoci
+        tiché pracovanie: ale každej veci koniec, a tak lúči sa predsa už raz ten
+        predostatný s krčahom, utrie ústa o rukáv, vytlačí slzu z oka, zo srdca.
+        vydýchne a podá ho ostatnému. Tandem aliguando Ouirites! Konečne
+        krčah doslúžil, dno vyšlo na svetlo a po krátkom glganí, charakteris-
+        tickom odpľutí povie ostatný kamarát z mokrej štvrti — hlasom akoby
+        z pivnice temným, odrážajúcim sa na dne prázdneho krčaha - historic-
+        ké slová Poliaka Košciuszka: Finis Poloniae!
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Vtom akoby na velenie otvoria sa dvere a vstúpia do chyže dve veli-
+        čizné čižmiská so svojím furmanským paholkom Ďurom. Krátka to, ale
+        široká potvora, ruky za opaskom, pravý to Napoleon I., stým rozdielom,
+        že ten ruky na chrbte, náš Ďurko ale na bruchu nosieval: Napoleon I.
+        nosil na boku krátky, tenký kocprt, ale nášmu Ďurkovi visel bokom na
+        remenci zahybák až po členky dolu. „No, tu som, mladí páni,“ povie on,
+        nijako si neštrapacírujúc ruky zosňatím klobúka, „vezmeme tieto para-
+        hámy so sebou.“ Uhne sa a vyložiac prvý kufor na plece, pokračuje: „Ej
+        — bisťužebohu, či ti voľáko odľahlo! Keď som ťa vlani dolu skladal, mala.
+        si mi, opacha, prsty odtrhnúť, a teraz - hm!“ Toto „hm, zvláštne vyra-
+        zené, viac znamenalo ako všetky jeho rozprávky. „Škoda prázdne drevo.
+        domov voziť. Ver je to, aby ma stislo, riedkou plachtičkou prikryté!“ Po-
+        zreli sme jeden na druhého: najmladší, Karol, jal sa ho ubezpečovať, že
+        sme to len preto urobili, že chceme voziarom kone zašanovať.
+   </tei:p>
+   <tei:p>
+    Ale Ďurkovi sa nelenilo: povykladal naše ladičky ako ľahké pierka
+        na voz. Pohol sa a my za vozom in corpore šli sme ta na Landstrasse
+        pri Marokhauskom dome do krčmy „Irompeter“, obyčajného prístavu
+        voziarov a celej slovenskej furmanskej floty a študentov. Kým tu naši
+        voziari rozličné batožiny naložili, poprekladali, umiestnili, posťahovali,
+        trvalo to peknú chvíľku.
+   </tei:p>
+   <tei:p>
+    Vozy dostali čudnú fyziognómiu, akoby boli mali zapuchnutú tvár
+        následkom bolenia zubov, pretože do bokov pod reťaze prišli k našim
+        haraburdám zázračné olejové sudy.
+   </tei:p>
+   <tei:p>
+    „No, mladí páni, hore sa, už je všetko v poriadku!“ zaznelo komando
+        starého admirála suchej slovenskej flotily, vysokého Dobríka: a my sťa
+        námorníci liezli sme zo všetkých strán hore na koráby - ktorý cez oje,
+        ktorý cez sudy a kolomažnicu, kade ľahšie. A keď sme už sedeli tam-
+        hore na tej výšave, nabití ako kvasená kapusta, tu zavolá zase Ďurkov
+        veliteľ: „Pavúz sem! Musíme pritiahnuť tých pánov, aby sme ich ne-
+        potratili: vieš, že za tovar musíme dobre stáť. — Potom zahoď plachty.“
+        My sme však všetci zdvihli hlas, ako kury v chlievci za nohy priviazané,
+        protestujúc oproti pavúzu a proti plachte, lebo bol deň tichý a jasný, a čo.
+        sa týka stratenia, ubezpečovali sme Dobríka, že sa radšej za nohy do-
+        vedna špagátom priviažeme. - A tak čihí, spánombohom! - Ďuro vo
+        svojich delových čižmách vylezie na koňa, a to nie bez práce a stenania,
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    plesne bičom medzi sedem koní, hamovka po žulovej dlážke zarachoce
+        a loďstvo s tridsiatimi študentmi na palubách sa pohne. Admirál, majúc
+        ruky povážne na krížoch preložené, sleduje dlhým krokom v širokých
+        gatkách vozy, obzerajúc bedlivým okom, či by sa ešte dáka chyba ne-
+        mohla vyskytnúť. No nechýbalo nič a pri priaznivom vetre veslovali sme
+        vacovskou cestou na sever.
+   </tei:p>
+   <tei:p>
+    Zaujímavá to postava, ten pán admirál: chlapisko vysoké, silné, na
+        hlave široký klobúk - ale tak široký, že keby ním o zem bol hodil, ne-
+        bodaj by celú Torňanskú župu bol zakryl - biela kabanica a na nohách
+        strašné boty, akými sa ani Napoleon I., ani Napoleon III. ch
+        mohli: k tomu nevyhnutný, po bradu siahajúci, krásnymi mosadznými
+        prackami ozdobený opasok a za opaskom čnejú štyri, na vrchnom kon-
+        ci, akoby na rukoväti, žlté, dlhé - snáď pištole, snáď šerežanské vražedné
+        handžáre? - Len kus pozhovejte a vašej zvedavosti bude vyhovené, čo to.
+        za tajomný, žltý, strašný vražedný nástroj.
+   </tei:p>
+   <tei:p>
+    Ďuro na ceste vyše Novej Pešti usnul na koni, koníky šli po svojej, nie
+        po paholkovej hlave, následkom čoho zadné kolesá admirálovho voza.
+        zviezli sa do priekopy. Uzrevší to Dobrík rozhorlil sa zle-nedobre: bolo:
+        sa obávať, že sa lebo rozpučí, alebo že ho od zlosti žltačka zaleje. Ale,
+        vďaka bohu, od rozpuknutia chránil ho pevný opasok, od žltačky žlté
+        pracky, ako staré sympatetické prezervatívum. Akonáhle však vinník
+        na karhavé slová odvetil nevrlo, tu nášho - ináč tichej povahy vozkára.
+        tak žlé zarazila, že zlosťou takmer zaslepený, napriek svojmu dobrému
+        menu zubami zaškrípajúc, so slovami: „Juj, šumplata naničhodná!“ jed-
+        ným šmahom ako strela za opasok siahne, strašnú zbraň v okamihu vy
+        trhne, aj aj, hrúza! — šmyk Ďurovi do brucha! - Ja vykríknem, skočím
+        z voza dolu — tu vnútornosti brucha von. Už myslím, akým švíkom to.
+        zašiť načim, prehťňam sa prstom, hľadajúc obličky a slezinu - ach, ba
+        do sto hromov, či ten samé uhorky jedol? Ďurkovo brucho je posiate
+        samým čírym uhorkovým semenom ako dáka teplá hrada. - Tie do-
+        mnalé pištole a či handžáre za gazdovým opaskom ukázali sa byť žltými,
+        prezretými uhorkami, ktorými Dobrík zadosť učinil svojmu spravodli-
+        vému hnevu. V letných horúčostiach totižto nosieval vše zásobu uho-
+        riek za opaskom, tie idúcky z dlhej chvíle nožíkom bielil a na najbližšej
+        stanici pokrájané a osolené užíval. V tomto prípade mu od príhody i
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    ť ne-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    k inakšiemu cieľu poslúžili. A tak rozišiel sa hnev, ale i uhorkový šalát
+        nášho Dobríka na Ďurkovom bruchu.
+   </tei:p>
+   <tei:p>
+    Vo Vacove sa rozmnožili i vozy i cestovatelia - žiaci s prázdnymi kuf-
+        ríkmi. A tu mi veru napadlo, či sa vacationes nevolajú preto prázdni-
+        nami, že vtedy žiaci putujú domov s prázdnymi kufríkmi a vačkami. -
+        Na vacovskom vrchu, „Nagyszál“ volanom, nás stretli taligy s ovoci-
+        nou, ťahané somármi. Kôň múdrejší od somára, a predsa sa ho ľaká.
+        1 naše kone sa poľakali a bezmála by nás boli bez Dobríkovej opatrnosti
+        prekotili. Za to napadli sme taligášov, hlúpych okolitých Maďarov, ktorí
+        sa museli ovocnou dežmou odmeniť, čím sme im chceli dokázať, že sa
+        nás tiež ľakať majú. Po tomto lacnom a nečestnom junáctve museli nám
+        medzi Birinkom a Katalinkou vyhrávať postretnuvší nás Cigáni.
+   </tei:p>
+   <tei:p>
+    Lokošský hostinský, velký to pultrológ, mal veľa kačíc. Živšie to bolo
+        tam uňho ako v schônbrunnskom zverinci. Jeden z našich komunistov
+        vyhodil tak mimochodom, tak nenazdajky valaškou do kédľa a jednu
+        biednu kačicu nebezpečne ranil. Aby sa teda dlho trápiť a snáď biedny
+        život na krivej nohe dlho za sebou vláčiť nemusela, poslucháč lekárstva
+        s budúcim vyžilierom, čiže inžinierom, vulgo merníkom alebo zeme-
+        meračom, vybrali sa urobiť jej trapiem koniec. Čo sa v nebi spojí, nech
+        nebude na zemi rozlúčené: keďže však jej hlava s hrdlom na nebi spojená
+        nebola, teda sa rozlúčiť môže. Takto sme my súdili o hrdelnom súde.
+   </tei:p>
+   <tei:p>
+    Túto zásadu do života, popravde do smrti, uviesť bolo úlohou lekáro-
+        vou. Inžinier držal žertvu za hlavu a nohy a lekár pílil, pílil - to sa vraj
+        menuje amputovaním hlavy - pílil tupým nožíkom, kým sa kačica na
+        dvoje nerozpadla. Ledva sa operácia skončila, dopáli nasršený hostin-
+        ý: ale voziareň, táto naša anatomická sála, mala dvoje vrát, a tak ako
+        on jednými vrátami vpálil dnu, my druhými von, ale i s anatomickým
+        preparátom, s gilotínovanou kačicou. Títo mladí a friškí, tamten starý
+        a široký ako trnavský sud — tým sa, prirodzene, priestor medzi táborom
+        Montecchich a Capulettich vždy väčšmi šíril, takže o krátky čas naši
+        dvaja okrídlení operatéri zatiahnutým očiam hostinského predstavovali
+        sa ako dva matematické punkty. Hostinský, vidiac daromné namáhanie,
+        potiahol pulidery, utrel z čela pot, šiel medzi svoje zblednuté kačičky
+        a so Schillerom v speve o zvone „čítal hlavy svojich“. V duchu však skoro.
+        odpustil študentom túto raziu, tešiac sa tým, že hoci prázdnymi vačkami
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    a kufríkmi obdarení študenti spáchali furáž na jeho škodu - túto im-
+        postúru pri návrate do škôl dokonale vynahradia. Znal on dobre svojich
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    koráby sa opatrne, ale bezpečne, podľa bachovského porekadla
+        — „Langsam, aber entschieden vorwärts!“ - pohybovali ďalej bez toho,
+        žeby sa dačo pamätného bolo prihodilo. Tu i tu sme si čas krátili ťa-
+        haním sa za prsty, fajčením, hraním v karty, pričom na lono polože-
+        ný klobúk zastával miesto stolíka. Ba dajedni, cítiac v sebe povolanie
+        k budúcemu rozkazovaniu a spravovaniu ľudských osudov, ako naprí-
+        klad náš Karolko, vzali bič do ruky, vysadli miesto vďačne ustúpivšieho.
+        paholka na koňa a „veselo bičom“ komandovali: čihí, hota! - S malým
+        bičom počneš, s veľkým dokonáš, tak sa brúsi energia v klíku k veslu
+        moci a vlády povolaných ľudí. Prečo nie, no však? - Veď Atila bol Ati-
+        lom a nie frakom, a menovali ho „bičom sveta“.
+   </tei:p>
+   <tei:p>
+    Náš Vojtech, rodom z Oravy, starý to, „veteranissimus, ktorý — ako
+        jedni hovoria - preto dva roky filozofie už po tretí raz opakoval, aby sa
+        vycvičil vyššiemu umeniu leštenia čižiem u milosrdných bratov a pri-
+        tom prechoval na bôbovom penzionáte - druhí tvrdia, že preto, lebo.
+        ho profesori veľmi ľúbili a prepustiť nechceli: nuž tento náš machom
+        a plesňou obrastený Vojtech, sediac v najvyššom sťažnokoši, to jest na
+        olejovom sude, ktorého stopy sa mu na kabáte zrkadlili, reakcionárovi
+        podobný, nepretržite hľadel rovno na sever, hľadel, div si oči nevytkol.
+        "Tu sa mu razom otvorí veteránska jaskyňa, chlebový krámec - jeho pa-
+        puľa - a ukazujúc prstom do doliny, do zeme Kanaán, hlasne prerečie:
+        „Už sme tu!“ Všetci vystrúc hrdlá, oprú zrak o vežičku a za ňou v per-
+        spektíve o biely dom. „Tu je, tu je, chvalabohu!“ vykríknu všetci s takou.
+        radosťou, ako to asi karavány robia, keď konečne šťastlivo prebídli ne-
+        bezpečný sámum pustatinami Sahary.
+   </tei:p>
+   <tei:p>
+    Ale pýtate sa, prečo vid týchto každodenných predmetov naplňuje
+        našich šuhajov toľkou radosťou a blaženosťou? - Nuž odpoviem vám.
+        — Ten biely dom za tou vežičkou v zelenej doline je hostinec v Nagy
+        Orosze, a v tomto hostinci pekávali palacinky s hečepečom, naplnené
+        malinovým, slivkovým, ríbezľovým lekvárom, orechmi, hrozienkami,
+        grísom, kapustou, tvarohom, ako komu ďaka a ľúbo: a to palacinky tak.
+        výborné, akých nenájdeš, neuvidíš, neokúsiš, čo priam všetkých päť
+        čiastok sveta krížom-krážom s večným Sueovým židom pochodíš.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Teda tieto palacinkové „unica“ tak mohutne zatriasli mozgami a ich
+        ratolesťami - nervami „vágusom“ do samého žalúdka našich i tak dosť
+        lačných študentov, že od toho času všetky ich zmysly s vytvorením všet-
+        kých iných predmetov do palaciniek boli zaobalené. Nato museli ako
+        definitívni, tak i provizórni paholci nohami a rukami, akoby plávali,
+        na úbohých koníkoch veslovať a natriasať sa a tieto poľutovaniahodné
+        nástroje ľudskej pohodlnosti a lenivosti ponúkať k rýchlejšiemu kroku
+        dôkladnými argumentmi.
+   </tei:p>
+   <tei:p>
+    Pri vchode dobrodružných študentov do Nagy Oroszu vybehúvali
+        ľudia na diváky. „Nézd csak, mennyi sok ember jôn!“ (Pozriže, koľko:
+        ludí ide), ukazuje na nás jeden, ruky nakríž, fajku v papuli, pred vrátami
+        stojac. „Bolond, nem emberek, hisz diákok,“ dokladá druhý. „Igen? Hala.
+        Istennek! Esó lesz,“ ozval sa tretí. Takhľa sme sa stali kolegami Černo-
+        kňažníka.
+   </tei:p>
+   <tei:p>
+    Naše koráby zastavili sa vo voziarni, a my poďme do hostinca. Oko-
+        lo veľkej tabule vprostred izby sedí celá študentská chasa. Pekný to rad
+        perál. Zo stola sa kúrilo, ako sa kúrievalo v Banskej Bystrici v uhliskách
+        na Horných hrabliach. Stáli tam misy široké, veľké. Kto čítal vDon Oui-
+        jotovi čosi o Camachovej svadbe, ten má aký-taký pochop o týchto mis-
+        kách s gulášom, s kapustou a - s palacinkami.
+   </tei:p>
+   <tei:p>
+    Hrobové ticho! Čit - ani slova, nič, ba ani kýchnuť nestačili, tak sve-
+        domite znali čas využiť. Jedine lyžice a vidličky strkali a hrkali a časté
+        hlasité preglgúvania prerušovali velebnú tichosť.
+   </tei:p>
+   <tei:p>
+    Zvedaví obyvatelia zôkol-vôkol všetečne obdivujú náš obrovský, kla-
+        sický apetít a tečú im slinky dolu bradou ako - nehodno vraj pripodob-
+        niť - mäsiarskemu psovi. Sedliačka búcha svojho muža lakťom, zadi-
+        vená nad sekaním zubov, miznutím nastoľovaného barana v gulášovej
+        polievke. Nás však toto obdivovanie v Milo Krotoniadovom konaní ani
+        najmenej nepomýfllo: lebo tí, čo dážď robia, i jesť chcú, a nadovšetko -
+        piť musia. Hoci sme sa držali ticho a solídne pri tejto vážnej úlohe, fo-
+        tografovať by nás predsa neboli mohli, lebo sa nám všetkým brady ne-
+        ustále kývali.
+   </tei:p>
+   <tei:p>
+    Ako náhle sa už vyprázdnené misy kúriť prestali a vžalúdku geologic-
+        ké vrstvy tretej doby sa usadzovali, a to: kapusta &gt; miocén, palacinka —
+        pliocén a guláš — eocén, po príjemnom telesnom priedychu, pokojnom
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    utieraní spoteného čela - zavolal náš chýrečný Vojtech, ktorý máločo
+        menej od pätnásť palaciniek pochoval do svojho zásobníka: „Chlapci,
+        už sme dosvedčili to starodávne klasické študentské porekadlo: „Natura.
+        paucis contenta. Teraz, keď sme skromným požiadavkám, chvalabohu,
+        zadosť urobili - podme spať.“ Zažmurknúc jedným okom, pochytí kr-
+        čah s vínom a na spomenuté tri vrstvy vylial celé dilúvium, celú potopu,
+        aby už celý svetorodný poriadok zachoval, poberúc sa s druhmi hľadať
+        lacný nocľah.
+   </tei:p>
+   <tei:p>
+    Nebo je krásne, jasné, ani v Arkádii krajšie byť nemohlo, večer tichý,
+        teplý. A keď sa tak naješ, či je ten svet krásny! To dostatočná pohnútka,
+        aby sme tak nič po nič peniaze za nocľah v izbách nevyhadzovali, ale
+        nebesami ponúknutú pohodlnú hospodu vďačne prijali. Teda, ktorý kde
+        mohol - na voze, pod vozom, na sene, na slame, na tráve atď. - sklonil
+        ospalú hlavu a plný žalúdok. Desiati si políhali práve pred admirálskym
+        vozom na zelenú pažiť, ktorú cez deň husi skášali a čosi cigarkám po-
+        dobného, večer okom nepoznaného, na nej zanechali. Vojtech bol gua.
+        desiatnik z jednej strany flíglimonom, dlhá to a suchá chlapina. Kým sa.
+        vystrel, fučal ako mech: ležal z druhej strany geometra, ktorého postavu
+        už samé priezvisko „krátka duša“ označovalo. Desať týchto na pažiti vy-
+        stretých šuhajov podobalo sa tupej pyramíde: jej báza bol dlhý Vojtech
+        sťa signum exclamationis a tupý vrcholec „krátka duša“, ako signum in-
+        terrogationis.
+   </tei:p>
+   <tei:p>
+    Pre mňa tam už miesta nebolo: ohliadnem sa dookola, kde sa tu vrh-
+        núť. Ha, tam velikánska kopa čerstvo vymlátenej slamy. Urobím dva
+        skoky a chcem sa do nej uložiť - ale i tá je už v stave obliehania. Zo všet-
+        kých strán trčali hlavy mojich kamarátov ako hrnce z jarmočného hrn-
+        čiarskeho voza. Jediný vrch kopy bol ešte slobodný. Neváhal som a sme-
+        lo som sa pustil, kráčajúc ako po schodoch po hladkých, kučeravých,
+        čiernych i bielych, ba i červených, múdrych a nemúdrych tekviciach
+        mojich bohujúcich, preklínajúcich kamarátov hore na chlm tejto slame-
+        nej Belohory (Montblanc) a nohami dieru si rozrobiac, spustil som sa až
+        po hrdlo do týchto tajomných, šuštiacich vnútorností. Mráz tekviciam
+        najviac škodí, preto pokryl som si hlavu slameným štvorgrajciarovým
+        klobúkom a dumal som o svojom stave takto: „Na hlave slama, pod klo-
+        búkom sečka, pod nohami slama, vôkol mňa slama, teda všetko a všade
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+   </tei:p>
+   <tei:p>
+    len slama a slama. Látka to čertovsky zápalistá. - Ak by do toho hrom
+        udrel - huj, či by reku nebolo múdrejšie bývalo prv sa proti ohňu aseku-
+        rovať? - Ó, bože! zažeň od nás požiar, oheň, aby nebol ľuďom, respektíve
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    slame škoden.“ A tak dumajúc a odstrániac slamky, čo ma popod nos
+        a do uší zo všetkých strán pichali, pospúšťal som pomaly svoje dve ob-
+   </tei:p>
+   <tei:p>
+    ločnice — kvac! Ľahko som usnul, ľahko som odfukoval.
+   </tei:p>
+   <tei:p>
+    Spím, spím sen nevinných: slamená kopa podo mnou chrápala ako
+        margitský vír: mňa kolembajú krásne básnické sny: v pravej ruke dr-
+        žím skrútenú, tvarohom a hrozienkami naplnenú palacinku, dlhú ako.
+        Červené more: ľavá ruka odpočíva na labutej šiji mojej, v Pešti opus-
+        tenej Euzébie. Palacinku požívam a blažené chvíle zaľúbenca zažívam:
+        oči sa nám striedajú, ja prestanem jesť, z úst mi vypadne ostýchavo.
+        hrozienko: ona, roztomilá, roztiahne snežné ramená a - objíme ma
+        okolo hrdla! Há, - strela okovaná!... „Ježiš, Mária a Jo -“ ďalej nemô-
+        žem vykríknuť, hrdlo mi čosi pekelne stiahlo, jazyk mi von vytislo ako.
+        črieslo, a vtom okamihu - ležím na dve siahy od kopy v mláke zaho-
+        dený a kričím: „Jaj, hrdlo moje!“ - Čože sa stalo? Či ma to Euzébia tak.
+        odsotila od seba? Či ma mora dlávila? Či ma diabol mal v pazúroch? -
+        Veru i diabol i čert! Strašná mýlka, mrzké intermezzo, hrozné rušenie
+        nevinného sna.
+   </tei:p>
+   <tei:p>
+    Domáci paholok, neznajúc, že kopa sa stala takou špikovanou man-
+        dltortňou, chcel pre statok na podstlanie slamu brať, a tento suchý, ne-
+        šťastný Neptún vidlami tak srdnato do slamy zapichol - moju hlavu pod
+        slameným klobúkom nezbadajúc, a podľa jeho zdania ťažkú, tuho ubitú
+        slamu chutne pozdvihnúc - mňa vidlami popod hrdlo zachyteného jed-
+        ným šmahom vyhodil von, až som sa ako hlaváč v kaluži zatrepotal.
+   </tei:p>
+   <tei:p>
+    Stiahol som naspäť vyplazený jazyk, hrdlo náležite pošúchal a až po-
+        tom sa spamätajúc, hrešil som nepozorného paholka, ktorému od stra-
+        chu vlasy dupkom vstávali, keď videl naraz celú tú kopu slamy akoby
+        oživenú, a naši čeľadníci lenivo ako červíky z bryndze von sa redikali.
+        No nič to, reku: pozbieral som sa a pobral dnu, kde som ešte ostatky
+        hrdúsenia drgnutou slivovicou zapudzoval.
+   </tei:p>
+   <tei:p>
+    Šiel som práve mimo admirálskeho voza, kde sa teraz na svite tá štu-
+        dentská pyramída rozprestierala. Ach ale, stoj, noho!
+   </tei:p>
+   <tei:p>
+    Pováž a rozmýšľaj, 6, človeče!
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Práve v ten rok bolo zatmenie slnka, čierne ako žoch: ja som ho vi-
+        del z budínskej hvezdárne, ako strúhalo tváre, kým ten čierny závoj na
+        sebe malo. - Aby učený a neučený svet vedel, z ktorých punktov zeme
+        najdokonalejšie možno vidieť toto zatmenie, už či cez koštiale luciové, či
+        cez zadymené sklá, zhotovené boli zemevidy, na ktorých cez tie punkty
+        popreťahované boli čierne hrubé čiary od jedného rohu mapy k druhé-
+        mu. - „Nuž ale,“ poviete mi, „čo to zatmenie a tie zemevidy majú za
+        robotu a súvislosť s našimi desiatimi spáčmi?“ Páni moji, ako som po
+        tých spáčoch okom hodil, stála mi tá istá mapa pred očami rozložená,
+        ale s veličiznou a ohavne čiernou čiarou. Toto načmáranie zatemnených
+        punktov bolo velikánske a veľmi páchlo kolomažou. Ťahalo sa ono od
+        nôh „krátkej duše“ kosom nahor, všírke asi pätnásť palcov, cez všetkých
+        desiatich až pod bradu Vojtechovu, kde sa dokončievalo. Bol to, páni
+        moji, rozkošný pohľad: tie seriózne tváre a k tomu skvostná garnitúra,
+        ten „ordensbanď“.
+   </tei:p>
+   <tei:p>
+    Škoda, že vtedy ešte svetlopisu nebolo, aby sa ten obraz pre detné deti
+        bol zachoval, a zaiste by v žiadnom múzeu nebol chýbal. Ó, Koperník,
+        "Tycho de Brahe, Newton! Ako by ste boli plesali nad týmto podareným
+        hvezdárskym výtvorom, i keď to nebola mliečna cesta.
+   </tei:p>
+   <tei:p>
+    Ale tešil som sa i ja, že ani oni sucho neobišli. Chudákov, zobúdzal
+        som ich potichu, pripravujúc ich pomaly na to, aby pozorne povstá-
+        vali a zatmenie ďalej sa nerozmáhalo. Keď sa to pekne rúče stalo, hľa-
+        dali sme príčinu toho očernenia, tak ako mudrci žriedla Nílu hľadajú,
+        a šťastnejší od nich, sme ho skoro vypátrali. Náš Ďuro, podľa toho: „Kto
+        mastí, ten sa vozí“ - mastil v noci kolesá, ale náhodou zavadiac nohou
+        do kolesa, padol, kolomažnica mu z ruky vyfrkla a - ut figura docet -
+        po našich druhoch sa rozišla, aby sa tak premenili na mapu slnečného
+        zatmenia.
+   </tei:p>
+   <tei:p>
+    „No, bračekovci, choďte sa teraz jeden druhého navzájom lízať!“
+   </tei:p>
+   <tei:p>
+    Ale ani tí, čo pod kopou chrápali, sucho neobišli. Dievky v noci prali
+        a tých podmyla sapúnistá voda, vyliata na dvor. Jednému však vôl, čo.
+        práve zbieral po slame roztratenú trávu, skoro hlavu odhryzol. Ten vôl
+        bezpochyby rád otruby lízal...
+   </tei:p>
+   <tei:p>
+    Ďalej cestujúc, od Šiah sme sa tratili ako tie iskričky, čo po zapálenom
+        papieri behajú - miznú. A tak to trvalo všade až po Banskú Bystricu, kde
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    sme až na štvrtý deň dorazili. Pravda, vtedy ešte parovozy nefučali, ba i
+        parolode po Dunaji len raz týždenne sa prechádzali.
+   </tei:p>
+   <tei:p>
+    A bolo že nám už potom „to je život, to je svet!“, až kým zase nezaví-
+        tal „október, kapsu ber, do školy, psi holí“, keď sme sa zase poberali ad
+        almam matrem, podľa tej Kollárovej:
+   </tei:p>
+   <tei:p>
+    <tei:l>
+     O Minervo, daleko voláš mne!
+    </tei:l>
+    <tei:l>
+     Vlast mú miluji náramne.
+    </tei:l>
+    <tei:l>
+     Mé srdce mre,
+    </tei:l>
+    <tei:l>
+     v nemž Amor vre
+    </tei:l>
+    <tei:l>
+     ve dne, vnoci v bolestné hre.
+    </tei:l>
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

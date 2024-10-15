@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012433" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="ISBN:978-80-8101-278-5">
+     Nová kométa : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84143439">
+     Bodický, Samuel (1850-1919)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     4169
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:84143439">
+      Bodický, Samuel (1850-1919)
+     </tei:author>
+     <tei:title ref="ISBN:978-80-8101-278-5">
+      Nová kométa
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-24">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     NOVÁ KOMÉTA
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Pán Dúbravský nevidel kométu. Prečo? Lebo dobre spal, keď vychodi-
+        la na obzor. Divná vec zdržať sa nevídaného pôžitku. Tisíce očí túžob-
+        ne vyzeralo svetlý chvost, šťastný, kto mohol prvý zvolať: už ju vidím!
+        Hvezdári s určitým zadosťučinením ukazovali: nevraveli sme? či prišla?
+        Pánom Dúbravským nepohli všetky dôkazy, zatvoril oči, spokojne od-
+        fukoval.
+   </tei:p>
+   <tei:p>
+    Všetko má svoju príčinu. Zrobený človek, keď ho netrápi zlé svedo-
+        mie, v noci pokojne zaspí. Pán Dúbravský pokojne spával, mal dobré
+        svedomie, chuť do práce, pracoval celý deň a večer pochodil ešte raz celý
+        dvor, poprezeral stajne, či kravy už ležia, chlieviky a kuríny, či hydina
+        je pospolu: nakázal sluhom, aby opatrovali svetlo, oheň: zapálil ostat-
+        nú fajočku, ľahol do postele a s posledným vyfúknutím fajkového dymu
+        opustilo ho vedomie, zaspal.
+   </tei:p>
+   <tei:p>
+    Pravda, pri tej poslednej fajke prišli mu na rozum niekedy trápne
+        myšlienky. Ovdovený, má na starosti dcéru Karolu, a to, viete, je to-
+        var veľmi krehký. Módne časopisy a romány prekrútia hlávku mladým
+        dievčatám. Jedna dostane myšlienky byť módnou, a to hlboko siaha do.
+        otcovského vrecka, druhá si obľúbi románové, a tie sú veľmi nebezpeč-
+        né, najmä kde niet materinského dozoru. Z posledných okúsila Karo-
+        la - do pokojného domu nanosil sa krahulec v osobe mladého Jeleňa.
+        Sprvu len trpel nevoľný otec, ale keď sa návštevy častejšie opakovali
+        a Karole v Jeleňovej prítomnosti častejšie horela tvár, videl, že srdcová.
+        teplota vystupuje a ukazuje vysoké stupne na líci, preťal uzol - Jeleňovi
+        ukázal dvere.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Tento rozhodný kúsok priniesol mu pokoj, od tých čias pokojne za-
+        spí. Akoby nie? Karola neukazuje svoju nespokojnosť s otcovským roz-
+        hodnutím: práve tým väčšou láskou ide mu vo všetkom poruke, večer
+        uspáva ho svojím šveholením, a keď zatvorí oči, tíško zodvihne mu
+        ruku, pritisne na ňu detinský bozk a na prstoch odchádza. Otec i to vidí,
+        ešte nezaspal, len sa tak robil.
+   </tei:p>
+   <tei:p>
+    Karola vyšuchla sa do záhrady, mala vychodiť kométa, sadla si na la-
+        vičku, zahľadela sa do neba. Akýsi nepokoj preháňal jej pohľad zhviezdy
+        nahviezdu, neisto blúdila celým obzorom. Tie zlaté hviezdičky sú akoby
+        očné zrenice, tak sa mihocú, tak sa usmievajú, to sú oči neba, možno.
+        jednou z nich hľadí nebohá matka na svoju dcéru.
+   </tei:p>
+   <tei:p>
+    Zapálila sa, aj včera bol taký jasný večer, aj včera matka hľadela a vi-
+        dela, že vypovedaný Jeleň prišiel do záhrady, Karola ho prosila, aby odi-
+        šiel, hrozila krikom, hoci len šeptom rozprávala, Jeleň držal ju za ruku,
+        a ona? Na jeho prosby dovolila, aby prišiel. Či nespáchala hriech proti
+        otcovi? Chcela vstať, nech si Jeleň myslí, čo chce: nemôže obetovať ot-
+        covskú lásku, tá je vyskúšaná, Jeleňova ľúbosť bude azda len mladistvým
+        zápalom, ktorý pri prvom vetríku zoslabne. A včera predsa načúvala.
+        jeho slovám, sľúbila mu, kto ju nútil? Jeho slová majú niečo príťažlivé,
+        pre iného má sto výhovoriek, pre neho ani jednu. Musí uznať, Jeleň je
+        hodný šuhaj: keďho videla po prvý raz, bodlo ju pri srdiečku, a keďslo-
+        vom zďaleka narážal, zapálené líce bolo mu zreteľnou odpoveďou. Kaž-
+        dý ho chváli, že je verným úradníkom. Nešťastné povolanie. Otcovi sa
+        len preto nepáči, že slúži nášmu - či i môjmu - nepriateľovi: ten by mal
+        radosť, keby Dúbravského dcéra - tak hovoril otec - stala sa manželkou
+        jeho úradníka. A predsa je hodný šuhaj!
+   </tei:p>
+   <tei:p>
+    „Dobrý večer, slečna Karola,“ zašepkal nespozorovaný Jeleň. Karola,
+        pohrúžená v myšlienkach, v prekvapení nezbadala jeho príchod. „Ani
+        mi ruku nepodáte?“ spytoval sa zadivený.
+   </tei:p>
+   <tei:p>
+    „Odpusťte, prekvapili ste ma svojím príchodom, nečakala som vás,“
+        zapálila sa nad vyslovenou nepravdou.
+   </tei:p>
+   <tei:p>
+    »„Prichodím s vaším dovolením.“
+   </tei:p>
+   <tei:p>
+    »„Dovolila a zabudla som na to,“ vyhovárala sa.
+   </tei:p>
+   <tei:p>
+    „Rád verím vášmu slovu, ale myslím,“ hovoril Jeleň, spozorujúc Ka-
+        roline rozpaky, „že predo mnou niečo zakrývate. Povedzte mi, prosím,
+        ak to možno povedať.“
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Karola porozumela, má pravdu, sklopila oči, panenská hanblivosť za-
+        držala jej odpoveď.
+   </tei:p>
+   <tei:p>
+    „Nechcete mi odpovedať,“ dovrával jej s jemnou výčitkou. „Smiem
+        uhádnuť vaše myšlienky?“
+   </tei:p>
+   <tei:p>
+    „Hovorte,“ odhodlala sa.
+   </tei:p>
+   <tei:p>
+    „Mysleli ste na nemilú okolnosť, že dostal som na vedomie, aby som
+        obchádzal váš dom a ja, porušiac príkaz, prišiel som. Vy, slečna Karola,
+        tiež sa cítite byť vinnou, lebo ste mi dali príležitosť na dnešnú schôdzku.
+        Otázka je: či sme vinní? Rozhodne hovorím, sme nevinní.“
+   </tei:p>
+   <tei:p>
+    „Keby tak bolo,“ vzdychla Karola.
+   </tei:p>
+   <tei:p>
+    „Vskutku je tak,“ pokračoval Jeleň, posmelený Karoliným slovom.
+        „Nejaký predsudok vášho drahého otca je tomu na príčine. Musíme od-
+        strániť predsudok, pre ktorý - odpustte, že moje slová znejú tak sebecky
+        — musím byť pozbavený toho šťastia môcť vás nazývať svojou.“
+   </tei:p>
+   <tei:p>
+    „Nehovorte tak hlasne,“ šepkala Karola.
+   </tei:p>
+   <tei:p>
+    „Jedna istota povzbudila by ma ku všetkým možným obetiam na d.
+        siahnutie cieľa. O mojej ľúbosti nebudete pochybovať,“ prisadol bli
+        ku Karole, stíšiac hlas. „Odohnaný vraciam sa zas, slečna Karola! Či som
+        si dobre vysvetľoval vaše dosiaľ tajné city, keď som si myslel, že ma tro-
+        chu ľúbite?“
+   </tei:p>
+   <tei:p>
+    „Ticho, preboha!“ zakryla si rukami tvár.
+   </tei:p>
+   <tei:p>
+    „Uspokojím sa s odpovedou. Ešte jedno prosím. Prečo sa váš drahý
+        otec tak nepriateľsky správa voči mne?“
+   </tei:p>
+   <tei:p>
+    „Že ste úradníkom.“
+   </tei:p>
+   <tei:p>
+    „Najmenšia prekážka!“ vykríkol radostne.
+   </tei:p>
+   <tei:p>
+    „Beriete to veľmi naľahko,“ karhala jeho prenáhlenú radosť, „nepo-
+        znáte môjho otca, ba ani to, že nič nevykonám proti jeho vôli.“
+   </tei:p>
+   <tei:p>
+    „Mám spôsob odstrániť prekážku,“ tvrdil rozhodne, „a keď tak váš
+        drahý otec krajšie pozrie na mňa a ja posmelený budem prosiť o tú rúč-
+        ku, ktorú ešte dnes z dvoch strán mi odopierajú, či s privolením otco-
+        vým pôjdei privolenie dcérino?“
+   </tei:p>
+   <tei:p>
+    Miesto odpovede podala mu ruku.
+   </tei:p>
+   <tei:p>
+    Pán Dúbravský nemohol po Karolinom odchode zaspať. Oči mu
+        zvlhli, azda fajkový dym zabehol mu do oka: pretiahol si ruku po čele,
+        akoby odháňal cudzie myšlienky, zapálil nanovo fajku, bez nej nevedel
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    rozmýšľať. Nastal okamih duševnej lahody. „To dobré dieťa,“ premie-
+        tal otec, „trávi svoju mladosť zavreté s mrzutým otcom. Nijakej zába-
+        vy, nijakej spoločnosti, a predsa je spokojná, príde čas rozlúčenia, časy
+        utekajú, musím pomýšľať, že opustí otcoy lom. Jar je tu, ruža puká.
+        Takmer sa rozvila, ale zastavil som jej včasný rozkvet. Ten nešťastný Je-
+        leň - krásne výhľady, moja dcéra jeho ženou. Mal by sto radostí ten -
+        rok nevyslovil jeho meno - pani úradníková sem, pani úradníková tam.
+        A to preto, že ma urazil! Nežiadal som mnoho, pár štvorcových siah
+        na zaokrúhlenie pozemku, dvojnásobne som chcel nahradiť, neprivolil,
+        neprivolím ani ja!“
+   </tei:p>
+   <tei:p>
+    Rozčúlenie vzrastalo, fajka vyhasla, a to nedofajčená penovka, mok
+        vyrazí na povrch, bude po kráse. „Daromné strachy,“ myslel si Dúb-
+        ravský ďalej. „Karola pristala, nebolo výčitky ani v slove, ani v pohľade.
+        Moje drahé dieťa! A ja ani tej radosti jej nedožičím, môj život od dáv-
+        nych rokov plynie jednotvárne, myslím, že každý sa musí k nemu pri-
+        spôsobiť. Nedoprial som jej tej radosti, aby trávila so mnou krásne letné
+        večery, dosť sa ma navoľala: pod, drahý otec, ukážem ti krásnu hviezdu,
+        hádže na severnú stranu svoje lúče, ostatné hviezdy blednú pri nej. Teraz
+        tiež tam sedí, hľadí do jasného neba.“
+   </tei:p>
+   <tei:p>
+    Nová myšlienka blysla mu hlavou, prekvapí ju. Šuch, a už boli nohy
+        v papučiach, župan oblečený, s domácou čiapkou na hlave kradol sa pán
+        Dúbravský na prstoch von. Len potichu, aby nezbadala.
+   </tei:p>
+   <tei:p>
+    "Tam sedí, niekto pri nej. Či dobre vidí? Jeleň drží jej ruku. Otcovi sa
+        vočiach zotmilo. Zabudol na hviezdu.
+   </tei:p>
+   <tei:p>
+    „Preč, nešťastné dieťa!“ zahrmel a jedným skokom uchvátil Karolu za
+        ruku. Karola nevoľne nasledovala otca. Jeleň pomaly prichodil k sebe,
+        prebral sa z omámenia, až keď bolo neskoro.
+   </tei:p>
+   <tei:p>
+    Otec a dcéra zmizli vdome, dvere sa hrmotne zatvorili.
+   </tei:p>
+   <tei:p>
+    Na vážkach stálo Karolino dobré meno: pomoci v okamihu nikde.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    Nemenovaný nepriateľ pána Dúbravského - smiem ho pomenovať?
+        pán Závodský - rozvalený sedí na pohovke. Ťažko mu vyčítať z očí
+        krvilačné myšlienky, ktoré, vraj, prechováva voči pánu Dúbravskému,
+        lebo prívetivo hľadia z vytučenej tvári na modrastý dym, občas plynúci
+        z jeho úst.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Poznáš v ňom fajčiara od remesla. Nie je to vypúšťanie dymu z po-
+        vinnosti, aby vo fajke nevyhaslo, každé vtiahnutie je žriedlom nového
+        pôžitku. A keď tak modrý kotúč vinie sa ku povale, často sa zahľadí do.
+        skupenstva dymových čiastok: myslel by si, že hľadá nové prírodné
+        kony, nikým dosiaľ nehľadané videl to už sto ráz, a predsa hľadí - zoby-
+        čaje, všetko slúži na skrátenie času.
+   </tei:p>
+   <tei:p>
+    Starým mládencom býva dlhý čas, neobchodí okolo nich večne šte-
+        botajúca žena, keď pre iné nie, aspoň aby pohnevala: ani kýdeľ detí neru-
+        ší jednotvárnu tichosť ustavičným vreskom. Čudné, že sa pán Závodský
+        nestal vo svojej osamelosti mrzutým, to býva obyčajný dôsledok. Mal na
+        to veľkú príležitosť.
+   </tei:p>
+   <tei:p>
+    Pohneval sa s najlepším susedom, prestali každodenné schôdzky,
+        kartársky stolík nevrlo zastrčený do kúta smútil za veselými hráčmi, ni-
+        komu neprišlo na um zbaviť ho smútočného náteru, postierať na prst
+        nasadnutý prach.
+   </tei:p>
+   <tei:p>
+    „Níťaz Kuchta,“ hladiac si jantárom strapaté fúzy, oslovil Závodský po
+        chyži chodiaceho Jeleňa, „tak si zutekal?“
+   </tei:p>
+   <tei:p>
+    „Ľahko vám hovoriť, strýčko! Nikdy ste neboli v takom položení,“ od-
+        povedal Jeleň, ktorého Závodský, len aby ho niečím označil, kázal meno-
+        vať ,pánom úradníkom, ináč bol jeho synovcom a nádejným dedičom.
+   </tei:p>
+   <tei:p>
+    „Bol by som rád videl starého mrzúcha, aké oči vyvalil,“ zasmial sa
+        schuti Závodský.
+   </tei:p>
+   <tei:p>
+    „Nestačil som hľadieť do očí,“ poznamenal trpko Jeleň. Trápne sa ho
+        dotkol Závodského smiech.
+   </tei:p>
+   <tei:p>
+    „Hrdinský mladý človek,“ nevychodil Závodský zo smiechu, „horko-
+        ťažko dopracuje sa ku schôdzke a potom -“ potiahol z fajky, aby mu.
+        nevyhaslo, „pri najmenšej prekážke nevie si rady.“
+   </tei:p>
+   <tei:p>
+    Jeleňovi bolo do strpenia, strýko začieral veľmi hlboko. Ak by nebol
+        presvedčený o jeho dobromyseľnosti, veru by nemeškal odporúčať mu
+        príslušné medze.
+   </tei:p>
+   <tei:p>
+    „Beriete vec povrchne,“ prerušil Jeleň strýkov hlasitý smiech. „Keby
+        odstránenie prekážky bolo záviselo od smiechu, môžete byť presvedče-
+        ný, že by som bol rozosmial i lastovičky v hniezde.“
+   </tei:p>
+   <tei:p>
+    „Takto sa nedohovoríme,“ smiešno-vážne pretiahol Závodský tvár,
+        porozumejúc trpkej výčitke. „Ale, počuj,“ pokračoval po malej prestáv-
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    ke zasa veselým hlasom, „neznelo by to čudnejšie, keby som sa vážne
+        začal vypytovať na tvoje nešťastie? Uznáš, že tvoja úloha prechádzala tak
+        trochu do smiešneho.“
+   </tei:p>
+   <tei:p>
+    „Uznám, strýčko,“ vyznával kajúcne, mrzela ho predošlá prehkosť, „a
+        práve preto mi je trápne upamätovanie.“
+   </tei:p>
+   <tei:p>
+    „Nechajme úteky, a či čo to bolo, vedľa. Zo všetkého vidím, že si zaľú-
+        bený až po uši. Nie tak?“ Závodský huncútsky pomihal očami.
+   </tei:p>
+   <tei:p>
+    Jeleň sa rozpálil ako dievča, netrpezlivo hodil rukou.
+   </tei:p>
+   <tei:p>
+    „Len úprimne, všetko vyznať,“ ohlásil sa z dymového oblaku Závod-
+        ský.
+   </tei:p>
+   <tei:p>
+    „Páči sa mi,“ odpovedal vyhýbavo Jeleň.
+   </tei:p>
+   <tei:p>
+    „Pletky! Páči sa i mne, starému kozákovi. Prislabý výraz, môj milý!
+        pätil ho Závodský.
+   </tei:p>
+   <tei:p>
+    „Keď nie ste spokojný s tým, nuž ľúbim,“ pozrel strýkovi smelo do
+        očí, akoby mal už víťazstvo v ruke.
+   </tei:p>
+   <tei:p>
+    „To je odpoveď! Od teba však, ako od statočného človeka, čakám, že
+        si ju chceš vziať za ženu.“
+   </tei:p>
+   <tei:p>
+    „Práve preto ma mrzí, že som nesmel objasniť vec pred Dúbravským.“
+   </tei:p>
+   <tei:p>
+    „Boli by sme na čistom, jedna prekážka: môj hnev s Dúbravským,“
+        zahladil si vlasy. „Keby toho nie!“
+   </tei:p>
+   <tei:p>
+    Závodskému poschodilo všeličo na rozum. Z malých príčin veľké
+        následky. Už obecnému ľudu bolo divné, že Dúbravský nechodí k Zá-
+        vodskému. Ako nie? Predtým sotva slnce klonilo sa nad horu, bral do
+        ruky palicu, ľudia sa nespytovali, kam ide - vedeli. Stolík, pripravený u
+        Závodského, čakal na obyčajný „tartlík“. Prisadli čo najlepší priatelia, no.
+        pridalo sa, že pohádaní rozmetali karty. Hádal sa vlastne len Dúbravský,
+        lebo Závodského neopúšťala dobrá vôľa, a čím väčšmi prenasledovalo
+        škriepnika nešťastie, v dôsledku čoho sa stával netrpezlivejším, tým me-
+        nej vládal udržať spoluhráč svoj smiech na uzde. Tieto hádky boli kaž-
+        dodenné a spoluhráči boli na ne takí navyknutí, že ani jeden nebral ich
+        ako príčinu k stálejšiemu hnevu.
+   </tei:p>
+   <tei:p>
+    Zrazu napadne Dúbravského označiť hranicu svojich rolí radom
+        pekných stromov. Vo svojej obraznosti mal už hotový vysadený štvo-
+        ruholník. Tu na svoje počudovanie sa presvedčí, že Závodského medza
+        na vyšnom konci vrýva sa ostrým uhlom do jeho pozemku. Požiadal
+   </tei:p>
+   <tei:p>
+    ga
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Závodského o prepustenie, Závodský naoko odoprel, sám v sebe sa však.
+        tešil, že takýmto milým vianočným darom prekvapí svojho priateľa.
+        Odopretie prebíjalo Dúbravskému hlavu. Všetky žarty bral za hotový
+        posmech. Jeho hádky boli náruživé. Závodský, nepredvídajúc nemilé
+        následky, trval na svojom, netrpezlivý Dúbravský preťal uzol, priateľ-
+        stvo sa rozpadlo.
+        „Keby toho nie!“ vzdychol Jeleň.
+        „Napravíme chybu!“ tešil ho Závodský
+        „Chcete sa zmieriť?“ spytoval sa okúňavo strýka. Začala svitať nádej.
+        „Uvidíme,“ odpovedal Závodský takým hlasom, ktorý nevyjadroval
+        ani potvrdenie, ani odopretie. Vidieť, že ho to stálo mnoho sebazaprenia.
+        Jeleň v neistote vyprevádzal strýka na dvor, kde v okamihu zapriah-
+        nuté bujné kone nečakali dlho na rozkaz na odchod. Závodský nikomu
+        nezradil, kam odchádzal.
+   </tei:p>
+   <tei:milestone rend="stars" unit="subchapter"/>
+   <tei:p>
+    Karolu hrýzlo svedomie, že nemohla otcovi ukázať svoju schôdzku
+        s Jeleňom v priaznivom svetle. Jeleň nadštrkol odstránenie tej prekážky,
+        ktorá stojí medzi nimi, ale práve keď mala najlepšiu príležitosť požiadať
+        Jeleňa ovysvetlenie, nastúpil nemilý výstup s otcom. Dúbravský od toho.
+        času nenarazil ani slovom na tú nemilú udalosť: Karola, cítiac sa vinnou,
+        nemohla. Pomer medzi nimi, miesto srdečného, bol obstojný. Navonok
+        chcdi zahladiť trhliny svojho predošlého spolužitia, vnútorne každý
+        svoj háčik. Otec žiarlivým okom strážil dcérine kroky, dcéra veľmi ťažko.
+        tlmila svoju nespokojnosť s otcovým konaním, ako sa jej videlo, nespra-
+        vodlivým. Nad hlavami visela búrka, zápalnej látky na vzbíknutie bolo
+        dosť. Iskra šla od Závodského.
+   </tei:p>
+   <tei:p>
+    „Celý svet sa sprisahal proti mne,“ vrútil sa Dúbravský s krikom k po-
+        kojne pracujúcej Karole, hádžuc sem-tam rukami. „Je mi na zbláznenie.“
+   </tei:p>
+   <tei:p>
+    „Čo vám je, otec môj?“ spýtala sa Karola, prekvapená takýmto otco-
+        vým vstupom.
+   </tei:p>
+   <tei:p>
+    „Čo mi je? I ty si jednou z nich,“ hodil jej do očí výčitku.
+   </tei:p>
+   <tei:p>
+    „Nerozumiem vašej výčitke,“ snažila sa Karola zostať pokojná.
+   </tei:p>
+   <tei:p>
+    Otec chcel vyvolať nejaký výraz nespokojnosti, aby tým prísnejšie vy-
+        stúpil proti dcére. Nazbieraná žlč mala vytiecť týmto prúdom. Zdržiava-
+        ná Karoliným pokojným správaním sa dostávala novú silu.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Rob sa nevedomou,“ uškľabil sa zlostne. „Zabudla si na tajné doho-
+        vory proti svojmu otcovi?“
+   </tei:p>
+   <tei:p>
+    Otec s ňou takto nehovorieval - šitie vypadlo jej z ruky. Rada by s ním
+        hovoriť hlasom predošlej lásky, no nemohla, otec zabudol na ten hlas,
+        vystupuje ako žalobca, dcéra sa musí brániť.
+   </tei:p>
+   <tei:p>
+    „Neviem o nijakých dohovoroch.“ Jej hlas až mrazil, otca tým v
+        dopaľovalo.
+   </tei:p>
+   <tei:p>
+    „Budeš klamať svojmu otcovi?“
+   </tei:p>
+   <tei:p>
+    "Tvár mu razom obledla, Karola videla dosiaľ nevídaný stupeň otcov-
+        ho hnevu, prvý raz upotrebil podobné slovo, sprevádzané takým divým
+        hlasom. Detinský cit hlásil sa o svoje právo, kč zvieral Karolino srd-
+        ce, mramorová tvár dostávala červené fľaky, ktoré sa vždy väčšmi šírili,
+        rozpálené oči zvlhli slzami, bolestný vzdych oznámil ťažké poranenie
+        dcérinho srdca. Otcom ani to nepohlo. Dôvera v dcéru natoľko oslabla,
+        že všetko pokladal za pretvárku, namierenú na jeho oklamanie.
+   </tei:p>
+   <tei:p>
+    „Obrátili ste ma na posmech,“ škrípal zubami, trhajúc kúsky akéhosi
+        papiera.
+   </tei:p>
+   <tei:p>
+    „Otec môj, otec môj!“ vydralo sa jej konečne z hrudi, pretrhávané
+        usedavým plačom. Dúbravský sa utvrdil v podozrení. Dcéra prosí o od-
+        pustenie, určite je vinná.
+   </tei:p>
+   <tei:p>
+    „Nečakal som to od teba!“ zmäkčil trochu hlas, ale výčitka v ňom
+        trčala, „na moje staré dni robíte si zo mňa blázna. Bol som ti niekedy
+        zlým otcom?“
+   </tei:p>
+   <tei:p>
+    „Nikdy, otec môj!“ Karola zabudla na doterajšie ubližovanie, uchopila
+        jeho zaťatú päsť, pokryla ju bozkami, bozky zvlažila slzami a sklonila
+        čelo na pokropenú ruku.
+   </tei:p>
+   <tei:p>
+    Otcovi vykradla sa slza, premožený dcérinou láskou privinul ju
+        ksebe.
+   </tei:p>
+   <tei:p>
+    „Ty si nevinná,“ šepkal jej trasúcim sa hlasom. „Zlí ľudia ťa prehovo-
+        rili.“
+   </tei:p>
+   <tei:p>
+    Karola nechápala otcove slová, zrak jej mimovoľne padol na kúsok
+        papiera, zhúžvaného v otcovej hrsti. Poznala na ňom Závodského pís-
+        mo. Srdce jej úzkostlivo búchalo, Závodský zasiahol do jej záležitosti
+        s Jeleňom, to otca rozhorčilo. Nakoľko, bolo ešte tajné. Vyzvedanie vy-
+        nieslo by znovu otca z koľaje a to - božechráň! Pomaly zodvihla hlavu,
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    oči uprela na otca... Otcov hnev zabudnutý, otec zmierený. Úsmev roz-
+        lial sa jej po tvári.
+   </tei:p>
+   <tei:p>
+    Dúbravský vypustil papierik z ruky, šliapol po ňom nohou, akoby
+        chcel rozmrviť hadiu hlavu, ktorá vdiera sa medzi neho a dcéru: privinul
+        Karolu mocnejšie k sebe. „Vedel som, si nevinná, odpusť mi.“ Nemohol
+        dopovedať, dcérin bozk zatvoril mu ústa.
+   </tei:p>
+   <tei:p>
+    Dobromyselný Závodský ťažko niesol Dúbravského hnev, tým viac, že
+        nemohol ani seba úplne očistiť od zavinenia. Bezdetný skladal celú svoju
+        nádej v Jeleňa, svojho sestrenca, kvôli nemu chcel napraviť chybu, zmie-
+        riť sa s Dúbravským. Vyzeral neobyčajne vážne, netrpezlivo prechodiac
+        z miesta na miesto. Do pánovej chyže vstúpil sluha Ďuro celý zadych-
+        čaný, Závodský pripisoval význam zadychčaniu, keď sluha bez slova,
+        s plachým pohľadom stál pred ním. Konečne Závodského opustila tr-
+        pezlivosť. - „Čo povedali?“ okríkol nemého sluhu.
+        Ďuro škrabal sa rozpačito za uchom, rád by niečo povedal, ale slovu
+        nechce sa z hrdla.
+        „Čo stojíš ako socha?“ dupol Závodský nohou. „Spytujem sa, čo po-
+        vedali?“
+        „Ráčte prepáčiť, pán urodzený,“ obzeral sa Ďuro nesmelo po chyži,
+        vyhýbajúc pánovmu pohľadu, „prečítali písmo a -
+        „Čo ďalej?“ vyšetroval netrpezlivo Závodský. Ďuro ustúpil o krok na-
+        zad.
+        „Bol to za človeka predtým, ten pán urodzený v Dúbrave,“ zahrýzal
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    pomaly do trpkého.
+        „Nespytujem sa to, mamľas,“ prestupoval Závodský z nohy na nohu.
+        „Čo povedali?“
+   </tei:p>
+   <tei:p>
+    „Nahnevali sa na mňa,“ lapal Ďuro kľučku, „vynadali i mne, i pánu
+        urodzenému a vyhodili ma von.“
+   </tei:p>
+   <tei:p>
+    „Pošli mladého pána,“ prepustil naoko pokojný Závodský sluhu, kto-
+        rý s radosťou vyskočil z dverí, aby sa doma neopakovalo to, čo po prvý
+        raz v živote zakúsil u Dúbravských.
+   </tei:p>
+   <tei:p>
+    „Nepodarilo sa,“ vítal Závodský vchádzajúceho Jeleňa so zmrašte-
+        ným čelom.
+   </tei:p>
+   <tei:p>
+    „Neviem, o čom je reč,“ odpovedal mu Jeleň.
+    <tei:pb/>
+    „Nepovedal som nikomu a prestrelil som,“ pokračoval Závodský ako
+        v samovrave.
+   </tei:p>
+   <tei:p>
+    „Malo to byť niečo v mojom záujme?“ prerušil ho Jeleň.
+   </tei:p>
+   <tei:p>
+    »V spoločnom, bratku. Darmo je, musíš byť pripravený, že u Dúbrav-
+        ských ruže pre teba nekvitnú.“
+   </tei:p>
+   <tei:p>
+    „Všetko mi je dosiaľ hádankou. Vyslovte sa, prosím, otvorenejšie,“
+        dotieral na strýka.
+   </tei:p>
+   <tei:p>
+    „Ach tak!“ spamätal sa Závodský, ktorý myslel, že celý svet musí po-
+        znať jeho myšlienky, z ničoho nerobil tajnosť. „Rozpoviem ti: Vystavil
+        som darovaciu listinu na kus poľa, žiadaný pred rokom Dúbravským:
+        parom by ho bol vzal skôr, než mi ho vymerali! Pripojím pár riadkov
+        a odošlem na príslušné miesto, posla mi vyhodili, mne vynadali. Mal
+        som vedieť, že nič nevykonám so starým medveďom.“
+   </tei:p>
+   <tei:p>
+    Jeleň pochopil, pichalo ho to pohanenie, ktoré strýko kvôli nemu
+        utrpel, nemal práva žiadať viac. Zmíkli obaja. Závodský vysvetľoval si
+        mlčanie tak, že Jeleň sa vzdáva nádeje.
+   </tei:p>
+   <tei:p>
+    „Vidíš, synku,“ začal prvý Závodský, „urobili sme, čo sme mohli. Za-
+        budni na Karolu, vyhľadáme druhú.“ Vzbudená myšlienka na Karolu
+        potisla u Jeleňa všetky iné ohľady do úzadia.
+   </tei:p>
+   <tei:p>
+    „Nemožno,“ vykríkol náruživo.
+   </tei:p>
+   <tei:p>
+    „Žiadaš mnoho,“ pozberal Závodský čelo do nových vrások. „Mám
+        sa ešte väčšmi znížiť? Čo vykonám? Nepoznáš Dúbravského!“
+   </tei:p>
+   <tei:p>
+    „Nežiadam od vás nič,“ odvetil mu Jeleň hlasom plným vďaky, „preu-
+        kázali ste mi viac, než som zaslúžil. Cítim dosť sily, aby som ľad preboril.
+        Karola nesmie trpieť.“
+   </tei:p>
+   <tei:p>
+    Ak prvá spomienka na Karolu prenikla Jeleňovou dušou, tak druhá
+        v spojení s jej možným utrpením zasiahla Závodského srdce. Pred oča-
+        mi sa mu zjavili predošlé časy, kde nepoznal príjemnejšej zábavy, ako.
+        bolo Karolino štebotanie, kam sa podelo prvé ovocie a všetko najkrajšie
+        zo záhrady? Odnosil to. Jedno závidel svojmu priateľovi Dúbravskému:
+        nie pekný majetok, nie dobrú ženu, ale milé dieťa Karolu.
+   </tei:p>
+   <tei:p>
+    „Karola nesmie trpieť,“ potvrdil zamyslený ostatné Jeleňove slová,
+        a toto rozhodnutie navrátilo rovnováhu jeho duši, oči dostali srdečný
+        výraz, čelo sa vyjasnilo. Veselo potriasol Jeleňovým plecom: „No, mladý
+        pán, čo robiť?“
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    „Krátky čas na rozhodnutie,“ odpovedal Jeleň, radujúc sa strýkovmu
+        obratu: „ale nepochybujte o mne, nájdem cestu.“
+   </tei:p>
+   <tei:p>
+    „Nezverím to na teba,“ žartoval strýko. „Zaľúbenci nie sú schopní ro-
+        zumnej myšlienky. Tvrdý orech, synku, potrebujeme mocné zuby a zdá
+        sa aj tvrdú kožu.“
+   </tei:p>
+   <tei:p>
+    „Tak sa spoľahnem na vašu radu,“ obrátil sa Jeleň s dôverou k nemu.
+   </tei:p>
+   <tei:p>
+    „Keď je reč o tvrdej koži,“ zasmial sa Závodský, „obrátiš sa na mňa,
+        šípiš, že zas obsiahnem. Dobre, dobre,“ pokračoval, keď Jeleň otváral
+        ústa k námietke: „moja koža znesie pre teba mnoho,“ tľapkal ho po pleci.
+        „Dúbravský má „tromfy, ale posledný štich bude náš.“
+   </tei:p>
+   <tei:p>
+    Závodský bez dlhého zberania prisadol k písaciemu stolu. Pravá ruka
+        už držala pero, keď prsty ľavej šmátrali po čele. Hovoriť vedel, ale pí-
+        sanie nebolo jeho povolaním. Písať Dúbravskému - prešla mu všetka
+        chuť. Ani sluha Ďuro nepodvolil by sa za listonoša. - „Ctená slečna!“
+        začal po dlhšom rozmýšľaní, prekladajúc fajku z jednej strany na druhú:
+        nemal pre ňu miesta. „Neopovážim sa osloviť Vás predovšetkým dô-
+        verným spôsobom, prekáža mi v tom hnev Vášho otca. Príčinu tohto
+        hnevu ráčte uvaliť na mňa, nechcel som ho síce pohnevať, ale moja zlá
+        obyčaj dráždiť iného priviedla naše rozpadnutie. Teraz, keď sa obraciam
+        na Vás, robím to z ohľadu na môjho synovca Jeleňa a na Vás. Oboch Vás
+        rovnako milujem. Podajte mi pomocnú ruku v tom, keď osobne chcem.
+        prosiť Vášho otca o odpustenie. Vo Vašom dome je to nemožná vec, lebo
+        jeho možná prchkosť uviedla by i jeho i mňa na posmech pred svetom.
+        Prosím Vás o malú službu, oznámte mi najbližší odchod svojho otca do:
+        poľa, tam ho odprosím“ atď.
+   </tei:p>
+   <tei:p>
+    Opravdivý cieľ v liste neudal, veď spozorovať odchod Dúbravského
+        na pole nepotrebovalo oznámenie z Dúbravy, on mal byť pokynom pre
+        Karolu, aby bola pripravená na budúce udalosti, a tak v rozhodnom oka-
+        mihu vec proti svojej vôli nepokazila.
+   </tei:p>
+   <tei:p>
+    Karolu veľmi prekvapil Závodského list. Už aký-taký pokoj prebýval
+        vjej srdci, zmierila sa so svojím osudom a teraz má byť účastníčkou toho,
+        z čoho ju nevinne podozrievali. Otcov hnev bol jej výstrahou, aby Zá-
+        vodskému nepodala pomocnú ruku: ale osvetlenie Jeleňovho postavenia
+        obnovilo napoly pochované city a vzbudilo nádej v prajné rozriešenie.
+        A toto sa mohlo podariť jedine sprostredkovaním Závodského, na kto-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    rého hnevať sa alebo potvárať ho z nekalých úmyslov nemala najmenšiu
+        príčinu. Rozpomienka na zašlé časy predstavila jej ho v najjasnejšom
+        svetle. Len otcova tvrdošijnosť bude prekážkou a Závodský sa nadarmo.
+        vystaví novému poníženiu, otec neupustí, možno sa zatvrdí. Daromné
+        sú všetky nádeje. Keď schovávala list do tajnej priehradky svojho stolíka,
+        začula odchádzajúceho otca, výhľad z obloka ju presvedčil, že odchádzal
+        do poľa. Rýchle rozhodnutá napísala Závodskému:
+   </tei:p>
+   <tei:p>
+    „Otec odchádza do poľa!“
+   </tei:p>
+   <tei:p>
+    Dúbravskému by sa nebolo prisnilo, že ide na dohovorenú schôdzku
+        so Závodským. Rok sa nezišli. Kráčal v tej domnienke, že Závodský, len
+        čo ho zazrie, vráti sa domov, tým viac, keď na starý oheň priložil nové
+        poleno. Neverí svojim očiam. Závodský stúpa mu v ústrety, vrátiť sa.
+        bolo priďaleko. Závodský ho možno nezbadal, vráti sa, až príde bližšie.
+        Daromné očakávanie. Boli blízko, ikrátkozraký mohol rozoznať prichá-
+        dzajúceho, a Závodský nebol krátkozraký.
+   </tei:p>
+   <tei:p>
+    Dúbravský len kráčal ďalej, vystúpiť nabok nedovolilo mu povedo-
+        mie, že kráča po vlastnom. Meravo hľadel pred seba na zem, tu i tu tro-
+        chu zodvihol oči, aby sa presvedčil o približujúcom sa. Stretli sa. Ani je-
+        den sa nevystupoval z cesty. Stáli si zoči-voči. Dúbravský nevrlo zmraštil
+        obrvy, Závodský nečakal možný výbuch.
+   </tei:p>
+   <tei:p>
+    »„Nestretli sme sa náhodou, ale schválne,“ oslovil ho.
+   </tei:p>
+   <tei:p>
+    „Máte mi niečo povedať?“ spýtal sa nakrátko Dúbravský: myslel, že
+        za schválnym stretnutím bude nasledovať pretriasanie nedávnej zrážky.
+   </tei:p>
+   <tei:p>
+    „Mám ti mnoho povedať,“ odvetil Závodský dôverným spôsobom,
+        zaznávajúc Dúbravského hnev.
+   </tei:p>
+   <tei:p>
+    „Pane, nepoznámesa,“ odmietal Dúbravský dôvernosť, krútiac sak ná-
+        vratu.
+   </tei:p>
+   <tei:p>
+    „Nie tak, priateľu,“ chytil ho Závodský za ruku. „Odpusť mi, ak
+        som ti niečím ublížil.“ Dúbravský pristavil návrat, nedôverčivo po-
+        zrel na Závodského: nešlo mu do hlavy, žeby tie slová boli úprimné.
+        Závodský si dobre vysvetloval mlčanie rozhnevaného priateľa. „Neve-
+        ríš mi?“ spytoval sa ho. „Všetkým mne svätým ti zaručím, že hovorím
+        úprimne.“
+   </tei:p>
+   <tei:p>
+    Tento hlas dávno nepočul. To je starý priateľ Závodský. Odpustenie
+        bolo mu na jazyku, keď hanba, že takému človeku znovu ublížil, nedo-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    volila mu prísť k slovu. Stiahnuté obočie sa šírilo, hnev kapal z oka, ktoré
+        sa konečne opovážilo pozrieť na Závodského.
+   </tei:p>
+   <tei:p>
+    „Ty mi odpúšťaš?“ skríkol radostne a pohnevaní priatelia sa zmierili.
+   </tei:p>
+   <tei:p>
+    Dúbravský sa nevracal domov. Zaprášený Závodského stolík stal sa
+        slávnym. I táto mftva vec sa radovala nad zmierením, kyvotala sa z boka.
+        na bok už či od radosti, a či preto, že klátik, ktorý podkladali pod jednu
+        nohu, dávno hnil na smetisku.
+   </tei:p>
+   <tei:p>
+    V najlepšom prúde hry otvoria sa dvere, vstúpil Jeleň. Dúbravský za-
+        zrel bokom, Závodský skočil na nohy a priviedol za ruku Jeleňa k ustr-
+        nutému Dúbravskému.
+   </tei:p>
+   <tei:p>
+    „Môj synovec a dedič, Ján Jeleň,“ predstavil synovca.
+   </tei:p>
+   <tei:p>
+    „Nie úradník?“ vytreštil Dúbravský oči.
+   </tei:p>
+   <tei:p>
+    „Ako hovorím, môj synovec,“ potvrdil Závodský svoje slová. „V jeho
+        mene prosím o ruku slečny Karoly.“
+   </tei:p>
+   <tei:p>
+    Udalosti sa tak pretekali, že Dúbravskému bolo ťažko udomácniť sa
+        v nich. V rozpakoch zabudol i na povinné „teší ma, nemo podal Jele-
+        ňovi ruku, netrpezlivo čakajúcemu na výrok. Závodský sa zabával na
+        obojstranných rozpakoch, musel prehltnúť mnoho vtipných poznámok.
+        vobave, aby sa novo utvrdené priateľstvo nerozsypalo.
+   </tei:p>
+   <tei:p>
+    „Už len neodoprieš?“ zamiešal sa Závodský medzi onemených.
+   </tei:p>
+   <tei:p>
+    „Prídte si po dcérinu odpoved,“ potešil Dúbravský oboch.
+   </tei:p>
+   <tei:p>
+    Dúbravský sa vracal večierkom domov, Karola čakala to najhoršie,
+        keď videla, že sa poberá rovno k nej.
+   </tei:p>
+   <tei:p>
+    „Uvidíme novú kométu,“ hovoril jej otec v dobrom rozmare. Karola
+        díva sa mu do tváre. Má to byť výsmech, narážka na schôdzku s Jele-
+        ňom? Otcova tvár je vyjasnená. Tým horšie: otec už necíti rany, ktoré
+        dcére uštedruje.
+   </tei:p>
+   <tei:p>
+    „Čítal som v novinách,“ opakoval: „obzrieme ju obaja. Možno prídu
+        i Závodský s Jeleňom.“
+   </tei:p>
+   <tei:p>
+    „Pravda či klam? kládla si otázku. „Ako sa dozvedieť od otca?
+   </tei:p>
+   <tei:p>
+    „Blázonko!“ hladil otec jej zblednuté líca, „dajaká si mi zjašená. Prídu!“
+   </tei:p>
+   <tei:p>
+    „Kto príde?“ spytovala sa, akoby nevedela, o kom je reč.
+   </tei:p>
+   <tei:p>
+    „Závodský s Jeleňom. Spamätaj sa už raz.“
+   </tei:p>
+   <tei:p>
+    „Načo prídu?“ opýtala sa.
+   </tei:p>
+   <tei:p>
+    „Prídu sa spýtať mojej Karoly, či má vôľu za muža,“ odpovedal jej
+        usmievavo.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Karolina tvár hrala divnými farbami. Neverila takej náhlej otcovej
+        zmene.
+   </tei:p>
+   <tei:p>
+    „Neviem,“ tvrdila rozhodne.
+   </tei:p>
+   <tei:p>
+    „Poďte na pomoc, priatelia,“ otváral dvere hosťovskej izby, keď hlasné
+        kroky oznamovali príchod Závodského a Jeleňa. „Dostal som zápornú
+        odpoved,“ uvádzal klaňajúcich sa hostí do izby.
+   </tei:p>
+   <tei:p>
+    Karola sa zapálila.
+   </tei:p>
+   <tei:p>
+    Nijaký žart, opravdivá skutočnosť. Jeleň by rád čítal odpoveď z jej očí,
+        keby ich zahanbená vládala zdvihnúť hore.
+   </tei:p>
+   <tei:p>
+    „Privolím, dievka moja,“ nepripustil Dúbravský iného k slovu. „Os-
+        tatne, všetko závisí od teba. Privolíš?“
+   </tei:p>
+   <tei:p>
+    Jeleň sa musel uspokojiť s podanou rukou. Nuž veď inšie nežiadal.
+    <tei:pb/>
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

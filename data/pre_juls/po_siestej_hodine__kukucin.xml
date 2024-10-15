@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="SLK2012924" xml:lang="slo" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Po šiestej hodine : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:10637721">
+     Bencúr, Matej [Martin Kukučín] (1860-1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <measure unit="words">
+     4846
+    </measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author ref="viaf:10637721">
+      Bencúr, Matej [Martin Kukučín] (1860-1928)
+     </tei:author>
+     <tei:title level="a" ref="ISBN:978-80-8101-278-5">
+      Po šiestej hodine
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc>
+   <tei:langUsage>
+    <tei:language ident="sk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2023-12-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     PO ŠIESTEJ HODINE
+    </tei:head>
+    <tei:head>
+     (Malé črty z veľkého mesta)
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Odejme sa do najlepšieho - najlepšieho, aký máme, kabáta a - na pre-
+      chádzku! To nesmie vystať, keď chcete svetu aspoň raz denne ukázať, že
+      žijeme, hýbeme sa i trváme. Svetu ukázať! Preto nejdeme sa ukazovať
+      na Petrín, tam chodia i tak len varovkyne s malými — a so svojimi zbož-
+      ňovateľmi, ani do Stromovky čili Kráľovskej obory - to je okres aristo-
+      kratov: ani na Karlovo námestie, tam sú najviac šičky a zaľúbenci. Zalú-
+      benci, ako vieme, sú, akoby nemali očí, nevidia okolo seba nič, nič... Ani
+      do mestského parku, kde sa tiež rozložil pražský izrael a obdivuje tam
+      poloskrehnuté opice, učupené na hambálku, a kémi ich svätojánskym
+      .. Dosť na tom, poďme na Priekopy.
+   </tei:p>
+   <tei:p>
+    domáci“, vktorého dome bývame, ta mieri. A ako sa vyob-
+      liekal! Vynovená príroda - domáci tiež vynovený. Kdeby nie! Za moje
+      peniaze, áno, i za moje. Prvého mája dostal činžu... No mlčím, aby sa
+      nepovedalo, že ho nenávidím. Vedie si pod pazuchou dcérku, bledé,
+      plavovlasé dievča - v polokrátkych sukničkách, žltých poltopánkach,
+      z ktorých oba členky koketne vykukujú, znak, že i naša Boženka má, ak.
+      nič iného, teda aspoň nôžky práve tak stvorené, ako všetky iné ženy, ba.
+      osmelím sa tvrdiť - my všetci ľudia vôbec. Nehovorím jej to na hanu.
+      Nôžky sú neveľké a tá čierna pančucha. No lepšie ju tak nechať! Domáci
+      nechal Boženku pred trafikou a vošiel dnu kúpiť si dve prešované krátke.
+      Jednu vyfajčí na prechádzke, druhú pri svojom pohári. Áno, svojom.
+      Je na ňom vrchnák, aby sila z piva, i tak riedkeho, neutekala: je na ňom
+      i podobizeň nášho domáceho, veľmi pekná - to jest práve tak pekná ako.
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    on. Kým pán otec tamdnu vyberá, preberá a nemôže také nájsť, aké on
+      chce, aby nebola krátka ani čierna, ani žltá, ale s bodkami, ani tvrdá, ani
+      mäkká: kým mu otvárajú nový balík a rozprávajú najnovší chýr, že ju už
+      chytili a ako ju chytili, i kde chytili, a kam ju odviedli, - ženu totiž, čo za-
+      hrdúsila vlastného chlapca: Boženka za ten čas ide zamdlieť, ba umrieť
+      pred trafikou. Hanbí sa nesmierne, pozerá do výkladu na všakové sorty
+      cigár a tabakov, akoby bola v pomykove, ktorú si vybrať. A čo, vari ona.
+      tiež fajčí? Pán boh uchovaj! Šiel tade akýsi „čiperný“ JUC. a Boženka
+      neušla jeho všetečným očiam. Zná ju už dávnejšie. Chodil v zime do
+      tanečnej hodiny a tam sa s ňou poznal.
+   </tei:p>
+   <tei:p>
+    „Tá má rande!“ vykombinoval si náš JUC. a obzerá si ju zo všetkých
+      strán, točiac paličkou medzi prstami. Postál, pokýval pravou nohou
+      a usmieva sa, usmieva.
+   </tei:p>
+   <tei:p>
+    Boženka je ako na tťni. Bože, ak pristúpi k nej, osloví ju, čo potom?
+      A ten ju osloví, práve si napráva škripec na nose. To je uňho predohra
+      k rečneniu. Náš JUC. má totiž veľký rečnícky talent, nemožno od neho,
+      ako budúceho advokáta a „obhájce u včcech trestních“ ani ináč očakávať.
+   </tei:p>
+   <tei:p>
+    „Kde jsi tolik, tatínku!“ volá Boženka na otca, ako sa vyplietol z tra-
+      fiky.
+   </tei:p>
+   <tei:p>
+    „Již jdu, Beruško, již jdu!“ teší ju.
+   </tei:p>
+   <tei:p>
+    Boženka sa mu ovesila na rameno a smeje sa. Je veselá, veselá... Ob-
+      zerá sa i naJUC., ktorý stojí trochu prekvapený a myslí si: „Bére na mne,
+      bére - a já byl takový...“ A ide obďaleč za ňou a strežie, či mu nehodí ešte
+      jeden pohľad spoza pleca otcovho.
+   </tei:p>
+   <tei:p>
+    Pekné sú tie Priekopy, zvlášť večer pri osvetlení. Škoda, že nie sú
+      priestrannejšie. Z oboch strán vozovej cesty trotoáre široké, pohodlné,
+      popri nich trojramenné kandelábre hustým radom. Na dlažbách hmyrie
+      národ, ako mravce v kopenci. Z výkladov padá svetlo na túto pestrú,
+      mrviacu sa masu, dodávajúc čosi sviatočného každodenným tváram,
+      jemným, novým i obšúchaným šatám. Z druhej strany Václavské ná-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    mestie podáva zriedkavý pohľad, ktorý sa končí monumentálnou stav-
+      bou nového múzca: jeho pozlátená kupola široko-ďaleko kraľuje nad
+      celou okolicou.
+   </tei:p>
+   <tei:p>
+    Ba či ozaj dakto všetkých týchto ľudí zná? Pochybujem. Zná ich há-
+      dam len adresár mesta Prahy a spomenutý kedysi lokálkar. Myslím,
+    <tei:pb/>
+    tento ešte najskôr. I pán akademický maliar Borúvka by ich sotva všet-
+      kých znal: no a ten je viac na Priekopách než v svojom ateliéri. Zato
+      jeho zná každý, kto len raz prešiel Priekopami. Osoba pozoruhodná:
+      široký klobúk, dlhé vlasy, spustená mašľa - teda nápadný kostým. My
+      si ho len obzrieme a je - ale iní bližšie interesujú sa o neho. O neho,
+      9 jeho osobu, a nie o jeho obrazy. Aké pohľady naň hádžu, plné krva-
+      vých výčitiek. Sú to takzvaní živnostníci, to jest krajčíri a všetky iné
+      remeslá: hostinský, kelneri a kelnerky. Pán Borúvka môže byť hrdým,
+      že či v Mníchove, či v Ríme, či na vidieku: všade, kde sa len obrátil,
+      vrstva živnostníkov zainteresovala sa tuho o neho. Dakde nechceli ho
+      ani pustiť, takže musel pred nimi zutekať. Inde šli za ním až na nádra-
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    žie, a keď nemohli utrímať jeho osobu, nechali si aspoň jeho kufrík na
+      pamiatku. Inde, kde nezbadali jeho odchod, čo stávalo sa obyčajne, bo:
+      pán Borúvka vyhýbal sa všade ováciám - tak ani tam nezabudli naňho:
+      Z času na čas poctia ho listom, vôbec dajú mu ako-tak najavo, že sa oň
+      starajú. Nie div, že i tunajší radi by už raz vedieť, kde sa nachádza jeho.
+      ateliér, ale to je tajomstvo samotného pána Borúvky, ktorý, ako bolo.
+      podotknuto, rád vyhne ováciám i hromadným návštevám v svojom
+      umeleckom sídle.
+   </tei:p>
+   <tei:p>
+    Pán majster Lichner, pekne oblečený, nesie na ruke nové šaty. Iste
+      ich doma ktosi túžobne očakáva, aby sa mohol v nich ešte dnes
+      ukázať na ulici. Preto pán Lichner ta sa ponáhla, že chce dodržať
+      Ako vidím, pán Lichner patrí k remeselníkom, čo držia slovo. Figúra
+      neinteresantná, škoda naň hľadieť.
+   </tei:p>
+   <tei:p>
+    Expres Nro. 18 stojí pri vchode kaviarne a muštruje publikum, či by
+      nemohol dakomu dačím poslúžiť. Je v tom postavení ako mačka uču-
+      pená - len skočiť na vraha. Sňal svoju červenú čapicu pred pánom An-
+      dčlom. Majiteľ tohto zriedkavého mena je praktikant u zemského súdu.
+      Hodný, poriadny mladý človek. Expres Nro. 18 vyrobil si uňho pekný
+      groš. Odnáša od neho naparfumované listy mladým dámam v meste
+      a predmestiach. Ešte pán Andčl bol len JUstud, keď sa to začalo, a trvá
+      to do dneška. No, pán Andšl je nebezpečný človek, pokradol hať sťdc
+      a srdiečok - neviem, kde ich dieva. Zločin, ktorý na šťastie nepadá ani
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    pod jeden z paragrafov tunajšieho trestného zákonníka. Iba tomu má čo
+      ďakovať, že si chodí po slobode, ako tá rybôčka v bystrej vode, a nesedí
+    <tei:pb/>
+    dakde v separácii, alebo plane, v okovách stavu manželského, zlatých
+      síce, ako sa všeobecne uznáva - ale predsa len okovách.
+   </tei:p>
+   <tei:p>
+    Užide od nábrežia celou Ferdinandovou ulicou za pani Kudrnkovou,
+      vlastne jej štíhlou dcérou, ktorá, ako inokedy, i dnes vyšla pod opate-
+      rou strážnej mamičky. Už tretí raz im je takto na pätách. Minulý týždeň
+      ich videl, že sa viezli vo fiakri, a tri dni na to stretol ich na Priekopách
+      a hneď domyslel sa, že „z toho nčco kouká“ Dievča nie špata, býva na
+      Smíchove, vo vlastnom dome, nezadlženom dome a okrem toho kdesi
+      v Krkonošiach majú vilu. To všetko dozvedel sa pán Andčl od domovní-
+      ka aokolitých hokynárov. Všetko spoľahlivé informácie. Pani Kudrnko-
+      vá ho už spozorovala: ale robí sa, akoby ho nepozorovala, a dcéra, tá sa
+      už dva razy usmiala... Všetko ide dobre: snáď zajtra, alebo pozajtre pôjde
+      expres Nro. 18 do Smíchova s voňavým listom.
+   </tei:p>
+   <tei:p>
+    Pred výkladom na porcdán stavila sa trojčlenná spoločnosť. Pán už
+      dosť v rokoch, ale mocný, čerstvý. Dáma obstarná, s vysokým, nemód-
+      nym klobúkom. Iste manželia. Obidvaja na tvári i rukách ohorení. Pri
+      nich stojí dcéra, pekná, červená. Vidno, nie mešťania: kdesi z vidieka
+      zatárali sa sem. Dcéra od päty do hlavy v novom, akoby ju bol zo žurná-
+      lu vystrihol. Tu ju to tak zaodeli, zaobliekli. Škoda, že klobúk nepristane
+      veľmi k šatám. Dedinčania iste dali sa prehovoriť preštvalej modistke
+      a zavesiť si na krk tovar, ktorý by precibrená meštianka neprijala ani
+      darmo. Ináč musia byť bohatí: portýr „U arcikniežaťa Štefana“ vedel by
+      udať ich meno a stav, ale neoddá sa ustávať. Dcéra sa ešte tohto mesiaca
+      vydáva, prišli do Prahy kupovať „výbavu“. Preto i výklad porcelánu tak
+      študujú. Dámy najradšej by zakúpili všetko, všetko, čo vidia: ale „tatí-
+      nek“ začína pomaly už šomrať, že čo mnoho, to mnoho.
+   </tei:p>
+   <tei:p>
+    Pán Jozef - to dostačí: teda pán Jozef, „vrchní sklepník od Zlatého
+      Soudku“, nenachádza sa v svojej ríši, ale tiež vyšiel snáď sa prejsť. Aspoň
+      tu stojí na Priekopách, hlboko zamyslený nad skvelým divadlom. Ani,
+      laľa, nepozrie na nás a predsa sme dosť intímni. Intímnosť nám preu-
+      kazuje pán Jozef deň po deň tak, že nás vyznačuje nad ostatných den-
+      ných hosťov „prorostlým“ mäsom pri obede. Na mäse niet totiž mäsa,
+      iba samé blany. Že nás má ozaj rád, dotvrdzuje i tým, že pri donesení
+      „špančlských ptáčkú“ ani mak sa nezahanbí, ani nezľakne pred nami,
+      kdežto samy „ptáčky“ sa hanbia, preto i očerveneli a zabalili svoje kosti
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    do vyprážanej žemličky. Ešte k tomu mľaskne, usmeje sa, nakloní sa vám
+      k uchu a povie: „Fajn!“ Čo sú to za španielske vtáky? V žiadnej zoológii,
+      ani v múzeu som ich nenašiel. Strašia iba u „Zlatého Soudku“. Ak ozaj
+      v Španielsku dakde ľažú sa, mala by tamojšia vláda vypísať na ich hlavy
+      cenu, aby vyhynuli. Ale teraz pán Jozef nepozerá na nás, lež do výkladu
+      na čierny, neveľký vahanček, vlastne na dukáty, vo vahančeku vysypané.
+      Jeho dušou iste v tisíc ozvenách nesie sa jedno jediné slovo, jeho obľú-
+      bené: „fajn!“ Všelijaké cenné papiere, nové i obdraté, čisté i umastené,
+      akoby v nich boli držali šunku, rozložené sú okolo vahančeka: tie pán
+      Jozef neobdaril ani jediným pohľadom. Iba na sklenenej tabuli zastavili
+      sa jeho živé, skúmavé oči. Tam je promesa jedna pri druhej zavesená
+      dlhým radom, nad tým žltý papier s nápisom: „Hlavní výhra 200.000
+      Haupttreffer“, a nad tým belasý papier s nápisom: „Letzte Woche“ - „Po-
+      slední týden“. A pán Jozef dumá: „Vyhrát tak tčch dvčstčtisíc, to bych
+      tím u Soudku sek. Té prachdčiny mám zrovna dost. A skutočne touto.
+      nádejou zvábený ide do „Smčnárna - Wechselstube“ a kupuje promesu.
+      Nuž, nesmejme sa. Fortúna má rada cechu pána Jozefovu. Pán Jozef by
+      za výhru neotvoril síce hostinec: na čo by mu i bol, keď by mal dvestoti-
+      síc? Kúpil by si dom a dal sa zapísať medzi ostrostrelcov a chodil by po.
+      meste vcifrovanej uniforme. Teda do ťahu!
+   </tei:p>
+   <tei:p>
+    Ako sa tá cesta míňa! Už sme vlastne na konci Priekop. Všetko sa to
+      tu obracia a berie tou istou stranou naspäť. Výklad pána Chvapila, teles-
+      ného krajčíra arcikniežaťa Rudolfa, je zakončením tejto slávnej ulice. My
+      prejdeme na druhú stranu, vzdor tomu, že tramvaj, fiakre, drožky, koče
+      a ťažké vozy zatarasujú priechod. Tam sú mestské hodiny na stípe, uka-
+      zujú práve štvrť na sedem a svietia na výklad iu nás známeho pochvalne
+      pána Nefľa. Stranou je stará, nedávno zreparovaná Prašná brána. Niek-
+      torí popod ňu idú do Celetnej ulice. Ale čo my tam budeme robiť? I tak.
+      je úzka, hoci nie bez významu. V nej je chýrny údenár pražských šuniek,
+      pán Zvčfina. Že sú dobré, toho dôkazom je bývalý kráľ Milan, ktorý od
+      nich stučnel a je cestujúcou reklamou tohto šunkového závodu. Prejdi-
+      me popri Café francais, kde rozvaľujú sa pražskí burziáneri.
+   </tei:p>
+   <tei:p>
+    Nemysleli by ste, s kým sme sa tu zišli! Pán Prokúfek, tragický hrdina
+      istého predmestského divadla. Každým krokom prezradzuje, že pohy-
+      boval sa zväčša vo vysokých, ba najvyšších kruhoch. Áno, mnoho ráz
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    bol kráľom, pred ktorého slovom triasli sa ministri a milióny podda-
+      ných. Koľko ráz princom, ministrom, boháčom! Že boli dakoľko ráz pa-
+      žobrákom, to mu vážnosti neuberá. I tu vedel zachovať dôstoj-
+      nosť a vážnosť tragického hrdinu. S tým istým majestátom nosil korunu,
+      tiaru i diadém na parochni, ako i turecký turban alebo fez, ako cylinder
+      alebo jakobínsku čiapku. Koľko ráz ho zabili, už akýmkoľvek spôsobom:
+      kolko ráz on sám siahol na svoj život: tu dýkou, tu jedom, zas revolve-
+      rom alebo nožom: koľko ráz nariekala žena a deti, alebo len sama mi-
+      lenka nad jeho mohylou! A pán Prokúfek vzdor tomu Žije a zdravstvuje.
+      Ako fénix vznesie sa zavše z popola vlastnej pominuteľnosti a nakoniec
+      ustrnie v „Plzeňské pivnici“ pána Račka zaliať tie duševné boje a útrapy,
+      ktoré znášal na javisku. Áno, žije a žiť bude dlho, lebo vzdor čiernym
+      tušeniam, mátohám a fúriám, ktoré mu na javisku hruď rozožierali, má.
+      dobre vyvinutý zmysel pre tento, i mimo javiska dosť pestrý život.
+   </tei:p>
+   <tei:p>
+    Keby sme boli ako tuto pán Nosák radcami, keďi nie skutočnými taj-
+      nými - veďanion nie je ešte skutočným, ani tajným -— ale celkom takými
+      zjavnými, správnymi, administračnými radcami koštčbradskej železnice
+      — keby sme boli, ako nie sme, vošli by sme tiež tými bočnými dvierkami
+      do miestnosti, ktorá nesie nápis: Continental Bodega Company. Sadli
+      by sme za jeden stolík a dali si naliať malaga, xeres alebo inej podobnej
+      kočvardiny. Ale takto, kdeže vás ta vodiť? Ste v najlepšom prípade ma-
+      jiteľmi dvoch talianov, ktorých sme boli v údenárskom závode zo sveta
+      zniesli - no a taliany neznášajú sa so španielskymi vínami. To by sme
+      museli najprv užiť, keď nič iného nie, teda aspoň pol kapúna alebo ba-
+      Žanta. No a pán Nosák to môže, lebo je radca a milionár. Čakajme, vari
+      my kedysi, kedysi... Škoda, že za „kedysi“ v bodege na teba ani nepozrú,
+      nie aby ťa honentne dačím obslúžili.
+   </tei:p>
+   <tei:p>
+    Bárs ťažko padá, prejdime predsa mimo tej bodegy. Veď, ľaľa, koľkých
+      hodných, statočných ľudí spoločne s nami ju obišlo. Tak hneď rečiem, tu
+      majster Bílek. Ktovie, ako sa sem zatáral, snáď po práci. On nie je den-
+      ným hosťom v Bodege, ale iba u „Flekú“, nie je správnym radcom a vari
+      tiež sotva kedy bude, hoci ja mu zo srdca žičím, aby bol, a predsa ľudia.
+      jeho skorej znajú, ako pána radcu Nosáka. Pozrite, i pán JUDr. Veverka
+      vysekal mu svojím cylindrom hlbokú poklonu: a pán doktor je pred-
+      sa chýrny advokát. Majster Bílek vyberá v svojom hostinci na Ústrednú
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Maticu, deň po deň a už veľmi mnoho rokov. Ku komu príde so strel-
+      com, nik ho nepustí s prázdnou rukou. Ak dakto nemal drobných, pán
+      Bílek počká, o hodinu príde poznove. Mnoho, mnoho grajciarov vybral
+      už majster Bílek. Nám do každej dediny takého majstra - nám!
+   </tei:p>
+   <tei:p>
+    Medzi nás, neporiadnu čriedu civilov, mieša sa vojsko. No dôstojníci
+      predsa len vedia tou šabľou štrngať! To preto, že sú „tenkonohí“, ako im
+      starý Tolstoj vo „Vojne i miru“ nadáva? Krásne šaty, lesk, čistota, pará-
+      da! Hľa, ide proti nim akýsi MUC.., veľmi stiesnený, akoby sa nedobre
+      cítil v erárskych háboch. Nech príde o rok prvej na tento svet, nosil by
+      bol dôstojnícku uniformu, štrngal by si šabličkou, na ktorej by sa ce-
+      lembalo chýrne „portupé“: na zamatových výložkách by mal už tri biele
+      hviezdičky. Nevoľný MUC. opozdil sa o rok, preto nosí teľa: nemá šable,
+      iba kratučký pagnét. Ani žiadna kuchárka ho neobzrie - nemá ešte ani
+      jednej hviezdičky. Všetci MUC. narukovali prvého apríla, práve keď iní
+      dobrovoľníci dostali šarže. Preto sa tak okúňa.
+   </tei:p>
+   <tei:p>
+    Všetko, čo nosí uniformu, začína sa akosi narovnávať. Zazreli červe-
+      ný pás na nohaviciach, zlaté výložky a na nich dve hviezdičky. Generál!
+      Tiež na prechádzke. Šedivý, starý pán, ale kráča ani na perách. Salutuje
+      veľmi zdvorile. Ba ešte čo! Zastal na kraji trotoára a pozerá cez ulicu,
+      akoby tam oproti kohosi pozoroval. Kýva rukou. A naozaj, pán oberšt
+      kráča pomedzi fiakre ku generálovi. Za oberštom v slušnej diaľke mla-
+      dý nadporučík-adjutant. Nekráča tak voľne, ako jeho šéf: napína všetky
+      svaly, vidno mu, že blíži sa ku generálovi. Generál podal oberštovi ruku,
+      nadporučík zastane v diaľke, vyhne sa, salutuje dľa predpisu a stojí.
+      Generál ho ani nepozoruje, hovorí s plukovníkom. Ba predsa ho spo-
+      zoroval. Podáva mu ruku, nadporučíkovi! Ako pristúpil, ako ju prijal,
+      ako zasalutoval a zas odstúpil na predošlé miesto: to by už ani Gogoľ
+      neopísal. Všetko dľa reglementu. Iba vari že sa mu rozliala neobyčajná
+      radosť celou tvárou a že mu oči zažiarili, vari iba to nepadá pod žiaden
+      $ reglementu, hoci myslím, že sa ani neprotiví. Akže je tu priestupok,
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    odpusť mu: kedyže bude tak vyznačený? Vari na manévroch alebo plane
+      na poli? Nech sa teší, ba zlatými literami zapíše deň tento do svojho tes-
+      tamentu. Nech si o ňom rozprávajú i najďalší potomci.
+   </tei:p>
+   <tei:p>
+    Ľaľa, tu je známa firma! Matčj Bencker - ba nie, J. U. Bencker, to
+      Matej mi samo vbehlo do pera. Vždy sa zľaknem, že to môj intímny
+    <tei:pb/>
+    kamarát stal sa rukavičkárom. Nevolá sa, pravda, celkom tak, ale ľudia,
+      čo privykli v gymnáziách čítať c ako k, radi ho skoro, skoro tak volajú.
+   </tei:p>
+   <tei:p>
+    Ej, zavadzia ten Suchého dom, zavadzia! Sme v pomykove, ako Xerxes
+      pri Termopylách. Trotoáre úzke, ulica úzka a tou vždy ide alebo tramvaj,
+      alebo voz s nákladom, alebo fiaker a drožka. Dakedy všetko to sníme sa.
+      dovedna, že policajt nevie, kde mu hlava stojí. Obecenstvo nevmestí sa
+      na zúžený trotoár, musí stúpiť na ulicu a dávať pozor, pozor, lebo „ho-
+      -hóp!“ kričí drožkár. Ak neodskočíš, už ti je paripa jeho na chrbte. Tento
+      pražský istmus menuje sa Ovocnou ulicou. Je veľmi krátka. Vydýchne-
+      me si uspokojení - pred nami je už Ferdinandská trieda.
+   </tei:p>
+   <tei:p>
+    »„ Má ucta!“ volá ktosi na vás. Je to pán Nyklíček, listonoš, náš listonoš.
+      Zbehol Jungmannovou ulicou popri jeho soche na Ferdinandovu: po-
+      berá sa na odpočinok. Prechádzať sa nepotrebuje, dosť sa naprechádzal
+      a napotil vo dne. Zato i nesie okrem koženej kapsy, kde bývajú všetkým
+      ľuďom príjemné poukážky, ešte peknú kôpočku šestáčkov. Pán Nyklí-
+      ček je ten šťastný smrteľník, ktorého návštevu každý milerád strpí, ba
+      nejeden i netrpezlivo čaká. A keď sa návšteva ozaj stane, každý mu ju
+      šestáčikom-dvoma odmení. Šťastný človek! A aký dôvtipný! Pozriete
+      mu zbežne na kapsu a potom do očí, nič viac netreba: on už vie, čo to
+      značí. „Nemají nic, pane doktore - po druhý!“ odpovie vám hneď, totiž
+      tomu, kto dostal jazernú strelu! Ale ak tam dačo máte, pristúpi šikovne,
+      s gracióznym pohybom otvorí koženú taršuľu a podá vám vytúženú po-
+      ukážku s takou účasťou a vnútornou radosťou, že nezdržíte sa — musíte
+      mu dať ten šesták, i lásku by ste mu vyznali!
+   </tei:p>
+   <tei:p>
+    A tu ešte jeden kratučký istmus, ale veľmi zlostný. Ako na protiveň
+      rozložil sa tu fotografický bazár. Ľudia zastavujú sa pred výkladom, ob-
+      zerajú pekné herečky, hercov, slávnych mužov, spisovateľov, učencov i
+      slávne ženy. Pravda, poniektorí najradšej tie reprodukcie pikantných i
+      menej pikantných obrázkov i obrazov. Dakedy spraví sa tam z týchto.
+      divákov opravdivý špunt, ktorý zatarasí premávku. To bolo obzvlášte za.
+      oných čias, keď visela tam baronesa Vecserová. Nuž ale nič netrvá večne
+      - i plynová lampa nad dvermi pána Nepomuckého, vychýreného vir-
+      tuóza na virštle, cerbuláty a taliany, zasvieti nám do očí sťa spásonosný
+      maják. My, ako som spomenul, sme po večeri, preto kráčame neúprosne
+      ďalej: ale zato pán Alois Wagner drží smer rovno k spomenutej lampe.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    Nuž on je portýrom u baróna Zecha - neskoro obedúva, a že nasiakol
+      panským životom, i olovrantúva. Tak teraz ide na olovrant. Zje dva pár-
+      ky s chrenom a potom pôjde na štvrtočku vína do svojej vinárne. Pán
+      Alois bol totiž kedysi, kým takto veľmi nestučnel, vojakom a slúžil ako.
+      fírer kdesi v Uhorsku, tam naučil sa piť víno. Zoznal sa i so Slovákmi,
+      od tých čias má ich rád. Rozpráva o nich všeličo, ale čo si zapamätal, to
+      je táto zvláštnosť. Kľajú vraj veľmi smiešne: „Tisíc kímených striel sa ti
+      do duše páralo!“
+   </tei:p>
+   <tei:p>
+    »„Zvláštní, co?“ hovorieva svojim priateľom pri štvrtočke. „Tam se i
+      strely krmí, nejen bagouni (kťmené svine).“
+   </tei:p>
+   <tei:p>
+    „I bože, jsou na svčtč divné pronárodové!“ odpovedá obyčajne kos-
+      tolník od S Ň
+   </tei:p>
+   <tei:p>
+    Vypýtal sa každého dosiaľ, či vie, čo sú „kémené strely“. Tajomstvo o
+      siedmich pečatiach! Možno, že to mohli byť „hrmené“ - ale kto ich tam.
+      vie, aké sa vtedy do duše párali!
+   </tei:p>
+   <tei:p>
+    Á, zas uniforma! A pohodlná, parádna! Mladý úradník vyšiel ukázať
+      sa v nej svetu. Kabát šosatý je rozopätý, pozlátený kord tisne ľavou ru-
+      kou, aby sa mu s nohami nemiešal. Darmo je - oficierska je predsa len
+      krajšia: i slečinky radšej za ňou kukajú. Zato rozumné slečny a menovi-
+      te mamičky majú túto úradnícku bez otázky radšej. Z mnohých príčin.
+      Akoby na nej stálo napísané, že jej majiteľ má toľko a toľko mesačne. Že
+      na vojenských tiež? Dobre, ale tento je solídny, pokojamilovný, domácky
+      — kde takého oficiera nájdete? A nadovšetko: netreba kaucie! Pán Otakar
+      Siiss dobre si je vedomý, aký má kredit u mamičiek. Preto si tak vykra-
+      čuje, preto hocktorú neobzrie. Keby len ten poriadok s tou uniformou
+      nebol tak jednostranný! Keby v tom i dámy, menovite slečny boli zahr-
+      nuté. Pán Súiss by to hneď previedol, keby mal na to moc. Taká, čo má.
+      päťtisíc - nech nosí taký, tá čo desaťtisíc — zas taký klobúk, každá sorta.
+      partie inakší. Lebo v dnešných pomeroch hľadanie ženy u uniformo-
+      vaného úradníka veľmi ponáša sa na známu hru o kolembabu. Na jeho
+      kabáte každý vidí, čo je, koľko má: on zas nevidí, za akou sa ženie, čo je
+      a ako je. Pravdu má pán Otakar, len ktorý minister pustí sa do takého
+      ťažkého problému!
+   </tei:p>
+   <tei:p>
+    Ktosi beží k vám, akoby vás bol celý deň hľadal a nepopáckal. Má na-
+      pakované všetky kešene i ruky akýmisi papiermi. Vám tiež vstrčil jeden
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    do ruky a už letí ďalej. No vidíte, nech sedíte doma, ani by ste nevedeli,
+      že pán Votruba, čo býval kedysi tu, preložil svoj „oblíbený“ hostinec ta:
+      že jeho pivo je vždy „od čepu“, obsluha vzorná, pohodlie detto, každý
+      štvrtok „špekové knedlíky se zelínť, a „každou nedčli, stčedu, svátek.
+      a sobotu“ „concert“ (čítaj: gonzerd) a „vždy chutná jídla“. Pán Votruba.
+      vás prosí, čo len o jednu návštevu na próbu. A toho následok? Že nájdete
+      všade na trotoári papiere - pán Votruba leží na ulici. Čo chcel, dosiahol:
+      Žije v pamäti p. t. obecenstva, keď nie štyriadvadsať hodín, tak iste aspoň
+      päť minút. I to dosť od neho!
+   </tei:p>
+   <tei:p>
+    Pán Pavel Chleborád, žiak českého konzervatória, valí sa ulicou
+      a hvízda si akúsi skladbu. Postrčil pritom pána Antonína Frúhaufa. Pán
+      Frúhauť skutočne dosť zavčasu vybral sa mestom, tuším hneď po piatej.
+      Prečo, dozvieme sa hneď. Je kandidát profesúry a nenarodil sa, vzdor
+      nemeckému menu, v paláci bankýra, ale len v domčeku chudobného
+      krajčíra v Pardubiciach. Ale prišiel na zelenú ratolesť! Vlani bol inštruk-
+      torom u kniežaťa Schafhausena. Na cestu z Pardubíc do Prahy dostal sto.
+      zlatých. Pán Frúhauť premenil stovku, zaodel sa, zaobul sa kniežatsky.
+      Stučnel a spanštel, že ho nik nemohol poznať. Ba on sám, keď nazrel do.
+      zrkadla, mimovoľne viedol asi takýto monológ: .Jsi to ty, Tondo - anebo.
+      nejsi?“ Nuž nejednej panne na Malej Strane strepotalo srdiečko, keď hr-
+      mela ulicou kniežacia ekvipáž a vnej mladí princovia a švárny vychová-
+      vateľ, MUC. Laura, guvernantka tamže, písala vraj naňho, ako sa hovorí,
+      ódy. Ale škoda večná: princovia podrástli, pán Frúhauť vysťahoval sa
+      z nádhernej paloty do prozaického činžiaka v Novom Meste. Žil, kým
+      bolo z čoho, a keď nebolo, živil sa, ako mohol, najviac rozpomienkami
+      na kniežací dom. Minulý týždeň prehrabával sa v kufríku a tu vo fraku
+      našiel striebornú zlatku. Dnes odpoludnia prehliadol celú garderóbu, či
+      zas dačo nenájde. A - nemýlil sa! Za futrom vesty namacal čosi také-
+      ho ako dvojšesták. Kým futro odparoval, dvojšesták prirástol mu tesno.
+      k srdcu. I rozmyslel si, čím sa dnes večer uhostí. Trpké sklamanie - pa-
+      rádna gombička! Oh, próza - próza! Vybral sa mestom, či nenájde da-
+      koho, na koho „rozložil by sítč k lovenť. Všade sedem chudých kráv!
+      Tak došiel na Ferdinandskú a zastavil sa pred oblokmi, na ktorých stojí:
+      déjenner - diner - souper... V oblokoch všakové lakoty. Rak ako krpec:
+      ošklbaný kapún s tenkou kožou, spod ktorej presvitáva žltkastá masť ani
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    zlato. Údený a ktovieaký ešte syr: salámy od výmyslu sveta: čerstvé, cel-
+      kom čerstvé hrozno a jahody: tam na ráme zas visí biela ryba, tamto
+      akýsi čudesný bôb. Veci všetko ako pod zuby stvorené. Pane Frúhauf,
+      poradím vám čosi. Zatiahnite si remeň aspoň o štyri dierky a zaspievaj-
+      te: „Preč jdčte marná myšlení, kam chcete: nic nedbám...“
+   </tei:p>
+   <tei:p>
+    Vari zas chytili dakoho a odvádzajú na políciu! Pred trafikou ohrom-
+      ná kopa ľudu a všetko, zblízka i ďaleka, ta beží. Ale nič - každý vracia sa.
+      a hovorí sklamaný: „To jsou blázni, co?“ totiž tí ostatní, nie on. A čo je to
+      tam? Trafikantka zavesila si klietku s vevericou.
+   </tei:p>
+   <tei:p>
+    Tak tu máme Národní divadlo, už osvetlené zdnuka i vonku. Pribe-
+      hávajú fiakre a drožky k pojazdom: dochádzajú ľudia peší a spechajú do
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    jeho siení, lebo už je na siedmej. Oproti divadhi je kaviareň Slávia, kde sa
+      umelecký svet schádzava. Pekná miestnosť, i spoločnosť vyberaná, i vše-
+      lijakých novín velký dostatok. Potom sa nedivím, že ľudia až hen z ne-
+      mocnice sem idú stráviť príjemnú hodinku, pozrieť si to pestré divadlo:
+      prechádzajúcich sem a tam ľudí, ako tu pán dr. Werich. Oproti nám stojí
+      reťazový most: stavba stará, ale osvedčená. Nezrútili ho ani vozy, ani fia-
+      kre, ani vojsko, čo cezeň často korporatívne chodí, pravda, rozviazaným
+      krokom, lebo ak by krok bol na tempo, most by sa vraj prepadol do VI-
+      tavy. Zdá sa, že most je mocnejší, ako sa myslí. Nezvalil sa pod ťarchou
+      vlastnou a pod ťarchou premávky, ani pod útokmi tunajších humoris-
+      tických časopisov, ktoré menovite v uhorkovej sezóne rady sa ním bavia:
+      ba ani pod pána sládka Peroutky a pekára Žemličky, ktorí chodia cezeň
+      ruka v ruke každý boží deň na druhý breh do akejsi vinárne.
+   </tei:p>
+   <tei:p>
+    Ba či sme to ozaj v Prahe, pri reťazovom moste! Veď čítam vlastnými
+      očami nápis A. Kubín. Podľa toho sme pri Dolnom Kubíne! Čo neurobí
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    naše mesto! Možno sa mu zachcelo za nami a presťahovalo sa aspoň na.
+      ten čas, čo sme my tu, ku brehom „stčíbropčnné“ Vltavy. Ba kde stojí tu.
+      sklep pána kupca Br., čo nás to traktúva tou dobrou borovičkou! Nie,
+      predsa sme nie v Kubíne, pána Br. tu nikde nevidno. Ľa, i ten nápis nie
+      je celkom A. Kubín, ale A (velikánsko) a na to (malým písmom): ntonín,
+      tedy Antonín Kubín - je to jeho holičský salón.
+   </tei:p>
+   <tei:p>
+    Noľudia na takto rok budú sa mať načo prizerať, keď tu bude vý
+      "Tam za Vltavou Hradčany v prítme západnej zory s veľkolepým už teraz,
+      hoc ešte nedostaveným veľchrámom sv. Víta: záhrady, parky na okoli-
+   </tei:p>
+   <tei:p>
+    tava.
+   </tei:p>
+   <tei:p>
+    <tei:pb/>
+    tých výškoch a stranách ľavý i pravý breh: ostrovy Žofinsky a Strelecký,
+      nad Vltavou mosty, na nich živá premávka - nuž krása! Treba to vidieť.
+   </tei:p>
+   <tei:p>
+    Zo Žofína sem na nábrežie dolieha vojenská hudba. Čo v Prahe ele-
+      gantného, všetko je tam: poniektorí iba teraz ta idú. Tak i pán kolega
+      v pere, spolupracovník toho a toho denníka tiež ide na Žofín. Vlastne
+      ťahá ho ta magnet, dievča modrooké s klobúčikom veľmi elegantným.
+      „Tatínek“ si pri nej ťažko vykračuje, akoby niesol na pleciach celý svoj
+      miliónový cukrovar.
+   </tei:p>
+   <tei:p>
+    Nie, smrti by sa skôr nazdal, ako že sa dá pán Dolejšek na takúto
+      márnosť! Muž pilný, príčinlivý, svedomitý, pevných zásad, opatrný ma-
+      nipulátor s časom i peniazmi, dľa príslovia: čas - peniaz. Krčí sa v kon-
+      toári firmy Flick 8 Flock celý deň. A nemusel by. Jeho otec má veľkoob-
+      chod kdesi v Rakovníku a pán Dolejšek ho iste prevezme kedysi. Pracuje
+      predsa do úmoru, učí sa. Nuž chce byť bohatý, bohatý... A tu dá sa na
+      takú márnosť! Naučil sa akiste v „české zemské jízdárni“ „rajtovať“ a te-
+      raz sa ide aristokratickému svetu ukázať do Stromovky. Ale dôjde ta na
+      mrkaní. Na mrkaní snáď preto, že v mútnom ľahšie loviť „zlaté rybky“:
+      ači preto, že koník za mestom dostane fanty a nebude chcieť kroka ďalej
+      urobiť?
+   </tei:p>
+   <tei:p>
+    „Nazdar, pane soused!“ volá na mňa pán Wurm, bývalý okresný ta-
+      jomník (notár) od Žamberka. Starý pán už takto, ale zo zdravého rodu.
+      Zagazdoval sa, synovia podorastali, mali ísť na univerzitu. Presťahoval
+      sa i otec s nimi do Prahy užívať zaslúžený odpočinok. Býva tu už viac
+   </tei:p>
+   <tei:p>
+   </tei:p>
+   <tei:p>
+    te
+   </tei:p>
+   <tei:p>
+    rokov, ale poznať v ňom nepokazeného vidiečana až dodnes. Tak i mňa.
+      volá susedom, hoci nebývame pod jednou strechou. On býva na Malej
+      Strane a ja celkom inde. Ale pán Wurm myslí, že sme dakde v Žamber-
+      ku, a preto ma volá susedom, vzdor tomu, že som ja pod právomocou
+      magistrátu cele iného, predmestského. Zoznámili sme sa na Letnej, stre-
+      disku to všetkých penzistov. Dve hodiny som počúval jeho anekdoty,
+      lebo ma bavili poniektoré. To mi vyzískalo jeho priazeň. Iní penzisti ho.
+      možno nechceli už počúvať, iba ja, v istom ohľade tiež penzista. „Víte-li
+      pak, pane soused, kterak já umístil sedm vojákú do šesti postelí, když
+      byly manévry u nás?“
+   </tei:p>
+   <tei:p>
+    „Dva spali na jedné“ hovorím ja: bárs som znal fortieľ, lebo pán
+      Wurm mi ho minule vysvetlil, robil som sa predsa nevedomým.
+    <tei:pb/>
+    Pravým prstom ukazovákom zavesloval v povetrí. „To-to! Každý
+      chcel mít svoji postel zvlášť a já jich mčl jenom šest a vyhovel pčece sed-
+      mi vojákúm...“
+   </tei:p>
+   <tei:p>
+    „To bych neček,“ hovorím mu ja.
+   </tei:p>
+   <tei:p>
+    „Tak pojdte, já vám to vyložím,“ a pán okresný tajomník prijal moje
+      rameno a pošli sme nábrežím. „Když jsem byl okresním tajemníkem,
+      tak se stalo, že...“
+   </tei:p>
+   <tei:p>
+    Ráčte odpustiť, vct. čitatelia! Mal som úmysel zaviesť vás nazad k Vác-
+      lavskému námestiu. No stalo sa, že sa ma zmocnil pán Wurm a bude ma
+      držať aspoň dve hodiny. Tak dlho na mňa čakať nemôžete, ja vypočúvam
+      za vás jeho anekdoty - pritom okolo pol desiatej niet na ulici nič zaují-
+      mavého. Všetko beží domov, aby nemuselo platiť domovníka. Ja obetu-
+      jem sa za všetkých. Za pokutu, že som vás tak dlho nudil, bude ma pán
+      tajomník baviť opotrebovanými anekdotami. Suum cuigue!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
