@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id=""  xml:lang="slo"  xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+        <tei:teiHeader>
+                <tei:fileDesc>
+                        <tei:titleStmt>
+                                <tei:title > : </tei:title>
+                                                                <tei:respStmt>
+                                        <tei:resp>editor</tei:resp>
+                                        <tei:name></tei:name>
+                                </tei:respStmt>
+                        </tei:titleStmt>
+                        <tei:extent>
+                                <measure unit="words"></measure>
+                                                                                        </tei:extent>
+                        <tei:publicationStmt>
+                                <tei:p/>
+                        </tei:publicationStmt>
+                        <tei:sourceDesc>
+                                                                                                                                </tei:sourceDesc>
+                </tei:fileDesc>
+                <tei:encodingDesc >
+                        <tei:p/>
+                </tei:encodingDesc>
+                <tei:profileDesc>
+                        <tei:langUsage>
+                                                        </tei:langUsage>
+                        <tei:textDesc>
+                                <eltec:authorGender key=""/>
+                                <eltec:size key=""/>
+                                <eltec:canonicity key=""/>
+                                <eltec:timeSlot key=""/>
+                        </tei:textDesc>
+                </tei:profileDesc>
+                <tei:revisionDesc>
+                        <tei:change when="">
+                                Initially created as an ELTeC file
+                        </tei:change>
+                </tei:revisionDesc>
+        </tei:teiHeader>
+        <tei:text>
+                <front>
+                        <div type="titlepage">
+                                                                
+                                                        </div>
+                </front>
+                <body>
+                
+                </body>
+        </tei:text>
+</tei:TEI> 

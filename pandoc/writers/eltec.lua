@@ -72,6 +72,8 @@ Writer.Pandoc = function(doc)
 
 	local d = Writer.Blocks(doc.blocks)
 
+	-- print(logging.temp(doc.meta))
+
 	return d
 end
 

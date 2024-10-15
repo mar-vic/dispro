@@ -622,7 +622,6 @@ end
 
 function Reader(input)
 	local document = generate_pandoc_ast(tostring(input))
-	s
 
 	return document
 end
