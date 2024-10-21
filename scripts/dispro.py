@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # Collections of functions used to generate, validate and present the corpus
 
 import os
@@ -9,11 +10,14 @@ import random
 import string
 import csv
 import tempfile
+import phunspell
+import textblob
 
 from bs4.dammit import encoding_res
 
 import pytesseract
 import unidecode
+import subprocess
 
 # import requests
 import pandas as pd
@@ -26,6 +30,7 @@ from PIL import Image
 from livereload import Server
 from bs4 import BeautifulSoup
 from functools import reduce
+from pdf2docx import Converter
 from pdf2image import convert_from_path, convert_from_bytes
 from pdf2image.exceptions import (
     PDFInfoNotInstalledError,
@@ -46,6 +51,31 @@ assets_dir = project_dir.joinpath("static")
 
 # Functions used to generate ELTeC XMLs
 # -------------------------------------
+def transform_file_to_eltec(input_file: str, metadata_file: str = None) -> str:
+    panfilter = project_dir.joinpath("pandoc/filters/eltec_head_vals.lua")
+    pantemplate = project_dir.joinpath("pandoc/templates/eltec.xml")
+    panwriter = project_dir.joinpath("pandoc/writers/eltec.lua")
+
+    args = [
+        "pandoc",
+        input_file,
+        "--lua-filter",
+        panfilter,
+        "--template",
+        pantemplate,
+        "--metadata-file",
+        metadata_file,
+        "-t",
+        panwriter,
+    ]
+
+    return subprocess.run(args, capture_output=True, text=True).stdout
+
+
+def validate_eltec_file(file: str):
+    pass
+
+
 def get_header_data(path):
     """Extracting data from eltec headers with xpath."""
     header_data = {}
@@ -198,7 +228,7 @@ def get_header_data(path):
     return header_data
 
 
-def generate_eltec_file(
+def generate_eltec_file_OLD(
     path=None, text=None, header_data_file=f"{templates_dir}/eltec_header_data.json"
 ):
     """
@@ -333,8 +363,73 @@ def generate_eltec_file(
         print(f"\nThe file '{path}' is valid relative to the eltec-1 schema.\n")
 
 
+# Function for transforming book scans into text
+# ------------------------------------------------
+def get_page_text_from_scan(scan: Path) -> str:
+    """
+    Cleaning up the output tesseract produces from an image of a book page
+    """
+    text: list[str] = [
+        line.replace("\n", " ")
+        for line in pytesseract.image_to_string(Image.open(scan), lang="slk").split(
+            "\n\n"
+        )
+        if not line.isspace()
+    ]
+    return "\n\n".join(text) + "\n^L\n"
+
+
+def get_book_text_from_scans(dir: Path) -> str:
+    """
+    Combining cleaned-up output of tesseract into one string
+    """
+    scans: list[Path] = [
+        item
+        for item in dir.iterdir()
+        if item.is_file() and item.suffix.lower() in [".jpg", ".jpeg", ".png", ".pbm"]
+    ]
+
+    # Sorting in order to preserve the sequence of pages in the original. It is
+    # assumed that the name of images are comprised of numbers representing
+    # page order.
+    try:
+        scans = sorted(
+            scans, key=lambda path: int(path.stem.replace("-", ""))
+        )  # assuming that image file names are numbers
+    except ValueError:
+        scans = sorted(
+            scans, key=lambda path: path.stem.split(" ")[-1].replace("-", ":")
+        )  # assuming that image file names are timestamps
+
+    text = ""
+    for scan in scans:
+        text += get_page_text_from_scan(scan)
+    return text
+
+
+def spellcheck(file: Path) -> str:
+    pspell = phunspell.Phunspell("sk_SK")
+    with open(file, "r") as f:
+        text = f.read()
+        tblob = textblob.TextBlob(text)
+        words = tblob.words
+        error_count = 0
+        for w in words:
+            if not pspell.lookup(w):
+                error_count += 1
+        print(f"Number of words: {len(words)}")
+        print(f"Number of errors: {error_count}")
+        return tblob.words
+
+
 # Functions for transforming various digital sources of texts to pluggable eltec fragments
 # ----------------------------------------------------------------------------------------
+def get_docx_from_pdf(pdf_file, docx_file):
+    cv = Converter(pdf_file)
+    cv.convert(docx_file)
+    cv.close()
+
+
 def get_eltec_body_from_images(input_dir):
     """
     Generating a valid xml fragment pluggable into eltec-1 <body> out of set
@@ -1135,13 +1230,74 @@ def test_corpus_stats():
 
 @click.command()
 @click.option(
-    "p",
-    "--progress",
-    type=click.Path,
-    default=
+    "-p",
+    "--get-page",
+    type=click.Path(exists=True, file_okay=True, dir_okay=False, path_type=Path),
 )
-def cli():
-    print("Hello from cli")
+@click.option(
+    "-b",
+    "--get-book",
+    type=click.Path(exists=True, file_okay=False, dir_okay=True, path_type=Path),
+)
+@click.option(
+    "-o",
+    "--output",
+    type=click.Path(exists=False, file_okay=True, dir_okay=False, path_type=Path),
+)
+@click.option(
+    "-s",
+    "--spell",
+    type=click.Path(exists=True, file_okay=True, dir_okay=False, path_type=Path),
+)
+@click.option(
+    "-P",
+    "--pdf2docx",
+    type=click.Tuple([click.Path(exists=True), click.Path()]),
+)
+@click.option(
+    "-e",
+    "--gen-eltec",
+    type=click.Tuple([click.Path(exists=True), click.Path()]),
+)
+def cli(
+    get_page: click.Path,
+    get_book: click.Path,
+    gen_eltec: tuple[click.Path, click.Path],
+    output: click.Path,
+    spell: click.Path,
+    pdf2docx: tuple[click.Path, click.Path],
+):
+    if get_page:
+        if output:  # Writing results into a file
+            with open(output, "w") as f:
+                f.write(get_page_text_from_scan(get_page))
+        else:  # Writing results into console
+            print(get_page_text_from_scan(get_page))
+    elif get_book:
+        if output:
+            with open(output, "w") as f:
+                f.write(get_book_text_from_scans(get_book))
+        else:
+            print(get_book_text_from_scans(get_book))
+    elif spell:
+        spellcheck(spell)
+    elif pdf2docx:
+        get_docx_from_pdf(pdf2docx[0], pdf2docx[1])
+    elif gen_eltec:
+        input_file: Path = gen_eltec[0]
+        metadata_file: Path = gen_eltec[1]
+
+        eltec: str = BeautifulSoup(
+            transform_file_to_eltec(input_file, metadata_file).replace("\n", ""), "xml"
+        ).prettify()
+
+        if output:
+            with open(output, "w") as f:
+                f.write(eltec)
+        else:
+            print(eltec)
+    else:
+        print("Doing nothing!!!")
 
 
 if __name__ == "__main__":
