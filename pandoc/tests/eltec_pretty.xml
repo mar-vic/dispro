@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id="$documentId$" $if(language)$ xml:lang="$language$" $else$ xml:lang="slo" $endif$ xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title $if(srced.ref)$ref="$srced.ref$"$endif$>$srced.title$ : $eltec_edition_str$</title>
+    $for(authors)$
+    <author $if(authors.ref)$ ref="$authors.ref$" $endif$>$authors.last_name$, $authors.last_name$$if(authors.alter_name)$ [$authors.alter_name$] $endif$($authors.birth_date$ - $authors.death_date$)</author>
+    $endfor$
+    <respStmt>
+     <resp>
+      editor
+     </resp>
+     <name>
+      $editor$
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">$words$</measure>
+    $if(pages)$<measure unit="pages">$pages$</measure>$endif$
+    $if(vols)$<measure unit="vols">$vols$</measure>$endif$
+   </extent>
+   <publicationStmt>
+    <p/>
+   </publicationStmt>
+   <sourceDesc>
+    $if(srced)$
+    <bibl type="printSource">
+     $for(authors)$
+     <author>
+      $authors.last_name$, $author.first_name$
+     </author>
+     $endfor$
+     <title>
+      $srced.title$
+     </title>
+     <pubPlace>
+      $srced.pub_place$
+     </pubPlace>
+     <publisher>
+      $srced.publisher$
+     </publisher>
+     <date>
+      $srced.pub_date$
+     </date>
+    </bibl>
+    $endif$
+    $if(firsted)$
+    <bibl type="firstEdition">
+     $for(authors)$
+     <author>
+      $authors.last_name$, $authors.first_name$
+     </author>
+     $endfor$
+     <title>
+      $firsted.title$
+     </title>
+     <pubPlace>
+      $firsted.pub_place$
+     </pubPlace>
+     <publisher>
+      $firsted.publisher$
+     </publisher>
+     <date>
+      $firsted.pub_date$
+     </date>
+    </bibl>
+    $endif$
+    $if(diged)$
+    <bibl type="digitalSource">
+     $for(author)$
+     <author>
+      $author.lastName$, $author.firstName$
+     </author>
+     $endfor$
+     <title>
+      $diged.title$
+     </title>
+     <ref target="$diged.target$"/>
+    </bibl>
+    $endif$
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc $if(encoding_lvl)$n="$encoding_lvl$"$endif$>
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    $for(languages)$
+    <language ident="$language$"/>
+    $endfor$
+   </langUsage>
+   <textDesc>
+    <authorGender key="$gender$"/>
+    <size key="$size$"/>
+    <canonicity key="$canonicity$"/>
+    <timeSlot key="$time_slot$"/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="$creationDate$">
+    Initially created as an ELTeC file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="titlepage">
+    $if(printSource)$
+    $printSource.title$
+    $else$
+    $title$
+    $endif$
+   </div>
+  </front>
+  <body>
+   $body$
+  </body>
+ </text>
+</TEI>

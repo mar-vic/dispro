@@ -1,0 +1,40 @@
+local logging = require("logging")
+
+-- values the should be calculated automatically, if they are not set in the metadata file
+local values = {
+	"documentId", -- must be unique across the corpus, preferably short, and valid XML names. recommended format: xxxyyyyd where xxx is ISO 639-3 language code, yyyy the year of publication, and d an extra digit for disambiguation
+	"words", -- words should be calculated from text (consider this: https://pandoc.org/lua-filters.html#counting-words-in-a-document
+	"pages", -- page count should be either entered manually into metadata, or counted from text by caounting <pb> tags
+	"size", -- word count excluding header and all markup based on the value of 'words' parameter
+	"timeSlot", -- date first published as a book. Calculated from the first edition's publication date, if it is not set manually.
+}
+
+local vars = {}
+
+function generate_document_id(lan, pub_date)
+	return lan .. pub_date .. pandoc.Inlines(tostring(math.random(1000)))
+end
+
+function get_vars(meta)
+	-- logging.temp(meta)
+
+	-- Adding vars from metadata
+	for k, v in pairs(meta) do
+		if pandoc.utils.type(v) == "Inlines" then
+			vars["%" .. k .. "%"] = { table.unpack(v) }
+		end
+	end
+
+	-- Adding calculated vars
+	-- vars["%documentId%"] = { table.unpack(generate_document_id(meta.language, meta.srced.pub_date)) }
+end
+
+function replace(el)
+	if vars[el.text] then
+		return pandoc.Span(vars[el.text])
+	else
+		return el
+	end
+end
+
+return { { Meta = get_vars }, { Str = replace } }

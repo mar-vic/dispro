@@ -1,5 +1,5 @@
 {
-  "language":          "slk",
+  "language":          "=ISO 639-2 language code=",
   "editor":            "=Name of the editor=",
   "eltec_edition_str": "ELTeC edícia",
 
@@ -46,5 +46,6 @@
   "encoding_lvl":      "eltec-1",
   "gender":            "=F (female) or M (male) or U (unkown or multiple)=",
   "size":              "=short (10 - 50k) or medium (50 - 100k) or long (more than 100k)=",
+  "time_slot":          "=T1 (1840-1859) or T2 (1860-1879) or T3 (1880-1899) or T4 (1900-1920)=",
   "canonicity":        "=low (reprinted infrequently or never) or high (reprinted very frequently) unspecified (reprint information not available)=",
 }

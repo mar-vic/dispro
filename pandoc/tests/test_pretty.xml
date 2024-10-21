@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xml:id=""  xml:lang="=ISO 639-2 language
+code="  xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title ref="=reference (e.g., isbn) of source edition=">=title of
+source edition= : ELTeC edícia</title>
+        <author  ref="=author’s reference (e.g., viaf)=" >=author’s last
+name=, =author’s last name= [=author’s alter name=] (=author’s date of
+birth= - =author’s date of death=)</author>
+        <respStmt>
+     <resp>
+      editor
+     </resp>
+     <name>
+      =Name of the editor=
+     </name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">=word count=</measure>
+    <measure unit="pages">=page count=</measure>
+    <measure unit="vols">=volume count=</measure>
+   </extent>
+   <publicationStmt>
+    <p/>
+   </publicationStmt>
+   <sourceDesc>
+        <bibl type="printSource">
+          <author>
+      =author’s last name=, 
+     </author>
+          <title>
+      =title of source edition=
+     </title>
+     <pubPlace>
+      =place of publication of source edition=
+     </pubPlace>
+     <publisher>
+      =publisher of source edition=
+     </publisher>
+     <date>
+      =date of publication of source edition=
+     </date>
+    </bibl>
+            <bibl type="firstEdition">
+          <author>
+      =author’s last name=, =author’s first name=
+     </author>
+          <title>
+      =title of first edition=
+     </title>
+     <pubPlace>
+      =place of publication of first edition=
+     </pubPlace>
+     <publisher>
+      =publisher of first edition=
+     </publisher>
+     <date>
+      =date of publication of first edition=
+     </date>
+    </bibl>
+            <bibl type="digitalSource">
+          <title>
+      =title of digital edition=
+     </title>
+     <ref target="=location of digital edition="/>
+    </bibl>
+       </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p/>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+        <language ident="=ISO 639-2 language code="/>
+       </langUsage>
+   <textDesc>
+    <authorGender key="=F (female) or M (male) or U (unkown or
+multiple)="/>
+    <size key="=short (10 - 50k) or medium (50 - 100k) or long (more
+than 100k)="/>
+    <canonicity key="=low (reprinted infrequently or never) or high
+(reprinted very frequently) unspecified (reprint information not
+available)="/>
+    <timeSlot key="=T1 (1840-1859) or T2 (1860-1879) or T3 (1880-1899)
+or T4 (1900-1920)="/>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="">
+    Initially created as an ELTeC file
+   </change>
+  </revisionDesc>
+ </teiHeader>
+ <text>
+  <front>
+   <div type="titlepage">
+        
+       </div>
+  </front>
+  <body>
+   <head>Header</head>
+
+   <head>Subheader</head>
+
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
+   ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+   aliquip ex ea commodo consequat. Duis aute irure dolor in
+   reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+   pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+   culpa qui officia deserunt mollit anim id est laborum.</p>
+  </body>
+ </text>
+</TEI>

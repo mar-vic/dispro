@@ -1,34 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id=""  xml:lang="slo"  xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:TEI xml:id=""  xml:lang="=ISO 639-2 language
+code="  xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
         <tei:teiHeader>
                 <tei:fileDesc>
                         <tei:titleStmt>
-                                <tei:title > : </tei:title>
+                                <tei:title ref="=reference (e.g., isbn)
+of source edition=">=title of source edition= : ELTeC edícia</tei:title>
+                                                                <tei:author  ref="=author’s
+reference (e.g., viaf)=" >=author’s last name=, =author’s last
+name= [=author’s alter name=] (=author’s date of birth= - =author’s date
+of death=)</tei:author>
                                                                 <tei:respStmt>
                                         <tei:resp>editor</tei:resp>
-                                        <tei:name></tei:name>
+                                        <tei:name>=Name of the
+editor=</tei:name>
                                 </tei:respStmt>
                         </tei:titleStmt>
                         <tei:extent>
-                                <measure unit="words"></measure>
-                                                                                        </tei:extent>
+                                <measure unit="words">=word
+count=</measure>
+                                                                <tei:measure unit="pages">=page
+count=</tei:measure>
+                                                                                                <tei:measure unit="vols">=volume
+count=</tei:measure>
+                                                        </tei:extent>
                         <tei:publicationStmt>
                                 <tei:p/>
                         </tei:publicationStmt>
                         <tei:sourceDesc>
-                                                                                                                                </tei:sourceDesc>
+                                                                <tei:bibl type="printSource">
+                                                                                <tei:author>=author’s
+last name=, </tei:author>
+                                                                                <tei:title>=title
+of source edition=</tei:title>
+                                        <tei:pubPlace>=place of
+publication of source edition=</tei:pubPlace>
+                                        <tei:publisher>=publisher of
+source edition=</tei:publisher>
+                                        <tei:date>=date of publication
+of source edition=</tei:date>
+                                </tei:bibl>
+                                                                                                <tei:bibl type="firstEdition">
+                                                                                <tei:author>=author’s
+last name=, =author’s first name=</tei:author>
+                                                                                <tei:title>=title
+of first edition=</tei:title>
+                                        <tei:pubPlace>=place of
+publication of first edition=</tei:pubPlace>
+                                        <tei:publisher>=publisher of
+first edition=</tei:publisher>
+                                        <tei:date>=date of publication
+of first edition=</tei:date>
+                                </tei:bibl>
+                                                                                                <tei:bibl type="digitalSource">
+                                                                                <tei:title>=title
+of digital edition=</tei:title>
+                                        <ref target="=location of
+digital edition="/>
+                                </tei:bibl>
+                                                                </tei:sourceDesc>
                 </tei:fileDesc>
-                <tei:encodingDesc >
+                <tei:encodingDesc  n="eltec-1" >
                         <tei:p/>
                 </tei:encodingDesc>
                 <tei:profileDesc>
                         <tei:langUsage>
+                                                                <tei:language ident="=ISO
+639-2 language code="/>
                                                         </tei:langUsage>
                         <tei:textDesc>
-                                <eltec:authorGender key=""/>
-                                <eltec:size key=""/>
-                                <eltec:canonicity key=""/>
-                                <eltec:timeSlot key=""/>
+                                <eltec:authorGender key="=F (female) or
+M (male) or U (unkown or multiple)="/>
+                                <eltec:size key="=short (10 - 50k) or
+medium (50 - 100k) or long (more than 100k)="/>
+                                <eltec:canonicity key="=low (reprinted
+infrequently or never) or high (reprinted very frequently) unspecified
+(reprint information not available)="/>
+                                <eltec:timeSlot key="=T1 (1840-1859) or
+T2 (1860-1879) or T3 (1880-1899) or T4 (1900-1920)="/>
                         </tei:textDesc>
                 </tei:profileDesc>
                 <tei:revisionDesc>
@@ -44,7 +93,19 @@
                                                         </div>
                 </front>
                 <body>
-                
+                <head>Header</head>
+
+                <head>Subheader</head>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
+                elit, sed do eiusmod tempor incididunt ut labore et
+                dolore magna aliqua. Ut enim ad minim veniam, quis
+                nostrud exercitation ullamco laboris nisi ut aliquip ex
+                ea commodo consequat. Duis aute irure dolor in
+                reprehenderit in voluptate velit esse cillum dolore eu
+                fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+                non proident, sunt in culpa qui officia deserunt mollit
+                anim id est laborum.</p>
                 </body>
         </tei:text>
 </tei:TEI> 
