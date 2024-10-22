@@ -1,3 +1,5 @@
+-- pandoc filter for generating some metadata (ie, document id, wordcount and timeslot) in eltec headers
+
 local logging = require("logging")
 
 local function get_document_id(lan, pub_date)
@@ -16,15 +18,39 @@ local function get_time_slot(pub_date)
 	end
 end
 
--- TODO: write functions to calculate word count, page count and size and add calculate values to metadata
--- word count implementation: https://pandoc.org/lua-filters.html#counting-words-in-a-document
+words = 0
 
-function Meta(m)
-	m.documentId = get_document_id(m.language, m.srced.pub_date)
+wordcount = {
+	Str = function(el)
+		-- we don't count a word if it's entirely punctuation:
+		if el.text:match("%P") then
+			words = words + 1
+		end
+	end,
 
-	local year = tonumber(pandoc.utils.stringify(m.srced.pub_date))
+	Code = function(el)
+		_, n = el.text:gsub("%S+", "")
+		words = words + n
+	end,
+
+	CodeBlock = function(el)
+		_, n = el.text:gsub("%S+", "")
+		words = words + n
+	end,
+}
+
+function Pandoc(el)
+	el.meta.documentId = get_document_id(el.meta.language, el.meta.srced.pub_date)
+
+	-- skip metadata, just count body:
+	el.blocks:walk(wordcount)
+	el.meta.words = tostring(words)
+
+	local year = tonumber(pandoc.utils.stringify(el.meta.srced.pub_date))
 	if year then
-		m.time_slot = get_time_slot(year)
+		el.meta.time_slot = get_time_slot(year)
 	end
-	return m
+
+	-- logging.temp(el.meta.words)
+	return el
 end
