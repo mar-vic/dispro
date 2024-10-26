@@ -52,21 +52,27 @@ assets_dir = project_dir.joinpath("static")
 # Functions used to generate ELTeC XMLs
 # -------------------------------------
 def transform_file_to_eltec(input_file: str, metadata_file: str = None) -> str:
-    panfilter = project_dir.joinpath("pandoc/filters/eltec_head_vals.lua")
-    pantemplate = project_dir.joinpath("pandoc/templates/eltec.xml")
-    panwriter = project_dir.joinpath("pandoc/writers/eltec.lua")
+    headValsFilter = project_dir.joinpath("pandoc/filters/eltec_head_vals.lua")
+    notesFilter = project_dir.joinpath("pandoc/filters/eltec_notes.lua")
+    headersFilter = project_dir.joinpath("pandoc/filters/eltec_headers.lua")
+    template = project_dir.joinpath("pandoc/templates/eltec.xml")
+    writer = project_dir.joinpath("pandoc/writers/eltec.lua")
 
     args = [
         "pandoc",
         input_file,
         "--lua-filter",
-        panfilter,
+        headValsFilter,
+        "--lua-filter",
+        notesFilter,
+        "--lua-filter",
+        headersFilter,
         "--template",
-        pantemplate,
+        template,
         "--metadata-file",
         metadata_file,
         "-t",
-        panwriter,
+        writer,
     ]
 
     return subprocess.run(args, capture_output=True, text=True).stdout

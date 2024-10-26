@@ -113,6 +113,9 @@
   </front>
   <body>
    $body$
+   $for(unclosed_chapters)$
+   </div>
+   $endfor$
   </body>
   $if(notes)$
    <back>
