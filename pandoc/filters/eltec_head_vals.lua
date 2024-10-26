@@ -40,6 +40,14 @@ wordcount = {
 }
 
 function Pandoc(el)
+	if not el.meta.language then
+		local lan = "slk"
+	end
+
+	if not el.meta.srced or not el.meta.srced.pub_date then
+		local pub_date = ""
+	end
+
 	el.meta.documentId = get_document_id(el.meta.language, el.meta.srced.pub_date)
 
 	-- skip metadata, just count body:
@@ -51,6 +59,6 @@ function Pandoc(el)
 		el.meta.time_slot = get_time_slot(year)
 	end
 
-	-- logging.temp(el.meta.words)
+	-- logging.temp(el)
 	return el
 end

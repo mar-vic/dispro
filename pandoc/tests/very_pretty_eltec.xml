@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="" xml:lang="=ISO 639-2 languagecode=" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:TEI xml:id="slk=date of publication of sourceedition=374" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -80,13 +80,13 @@
   </tei:encodingDesc>
   <tei:profileDesc>
    <tei:langUsage>
-    <tei:language ident="=ISO 639-2 language code="/>
+    <tei:language ident="slk"/>
    </tei:langUsage>
    <tei:textDesc>
     <tei:authorGender key="=F (female) or M (male) or U (unkown ormultiple)="/>
     <tei:size key="=short (10 - 50k) or medium (50 - 100k) or long (morethan 100k)="/>
     <tei:canonicity key="=low (reprinted infrequently or never) or high(reprinted very frequently) unspecified (reprint information notavailable)="/>
-    <tei:timeSlot key="=T1 (1840-1859) or T2 (1860-1879) or T3 (1880-1899)or T4 (1900-1920)="/>
+    <tei:timeSlot key=""/>
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>

@@ -107,15 +107,21 @@
  <text>
   <front>
    <div type="titlepage">
-    $if(printSource)$
-    $printSource.title$
-    $else$
-    $title$
-    $endif$
+    <head>$title$</head>
+    <head>$subtitle$</head>
    </div>
   </front>
   <body>
    $body$
   </body>
+  $if(notes)$
+   <back>
+    <div type="notes">
+    $for(notes)$
+     <note xml:id="$notes.id$">$notes.content$</note>
+    $endfor$
+    </div>
+   </back>
+  $endif$
  </text>
 </TEI>
