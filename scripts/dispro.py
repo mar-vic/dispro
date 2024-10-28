@@ -683,8 +683,8 @@ def get_eltec_body_from_zf_html(path_to_html):
 # Functions for XML validation against ELTeC schemas
 # -------------------------------------------------
 def eltec_validate_file(
-    xml_path, schema_path=schemas_dir.joinpath("eltec-1.rng").absolute()
-):
+    xml_path: Path, schema_path: Path = schemas_dir.joinpath("eltec-1.rng").absolute()
+) -> tuple[bool, str]:
     """Validate individual xml file against (eltec-1) schema."""
     xml = etree.parse(xml_path)  # reading the xml to validate
 
@@ -1265,10 +1265,16 @@ def test_corpus_stats():
     "--gen-eltec",
     type=click.Tuple([click.Path(exists=True), click.Path()]),
 )
+@click.option(
+    "-v",
+    "--validate-eltec",
+    type=click.Path(exists=True, file_okay=True, dir_okay=False, path_type=Path),
+)
 def cli(
     get_page: click.Path,
     get_book: click.Path,
     gen_eltec: tuple[click.Path, click.Path],
+    validate_eltec: click.Path,
     output: click.Path,
     spell: click.Path,
     pdf2docx: tuple[click.Path, click.Path],
@@ -1302,6 +1308,12 @@ def cli(
                 f.write(eltec)
         else:
             print(eltec)
+    elif validate_eltec:
+        results: tuple = eltec_validate_file(validate_eltec)
+        if results[0]:
+            print("The file is valid according to eltec-1 schema")
+        else:
+            print(f"The file is invalid due to:\n {results[1]}")
     else:
         print("Doing nothing!!!")
 

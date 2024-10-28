@@ -18,6 +18,16 @@ local function get_time_slot(pub_date)
 	end
 end
 
+local function get_size(wc)
+	if wc < 50000 then
+		return "short"
+	elseif wc < 100000 then
+		return "medium"
+	else
+		return "long"
+	end
+end
+
 words = 0
 
 wordcount = {
@@ -58,6 +68,10 @@ function Pandoc(el)
 	if year then
 		el.meta.time_slot = get_time_slot(year)
 	end
+
+	el.meta.size = get_size(words)
+
+	el.meta.creation_date = os.date("%Y-%m-%d")
 
 	-- logging.temp(el)
 	return el

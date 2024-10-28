@@ -1,50 +1,50 @@
 {
   "language":          "slk",
-  "editor":            "=Name of the editor=",
+  "editor":            "Marek Vician",
   "eltec_edition_str": "ELTeC edícia",
 
   "srced": {
-    "title":           "=title of source edition=",
-    "publisher":       "=publisher of source edition=",
-    "pub_place":       "=place of publication of source edition=",
-    "ref":             "=reference (e.g., isbn) of source edition=",
-    "pub_date":        "=date of publication of source edition=",
+    "title":           "Title",
+    "publisher":       "Publisher",
+    "pub_place":       "Publishing place",
+    "ref":             "8716423134",
+    "pub_date":        "1856",
   },
 
   "firsted": {
-    "title":            "=title of first edition=",
-    "publisher":        "=publisher of first edition=",
-    "pub_place":        "=place of publication of first edition=",
-    "ref":              "=reference (e.g., isbn) of first edition=",
-    "pub_date":         "=date of publication of first edition=",
+    "title":            "Title",
+    "publisher":        "Publisher",
+    "pub_place":        "Publishing place",
+    "ref":              "64314356454",
+    "pub_date":         "1800",
   },
 
   "diged": {
-    "title":       "=title of digital edition=",
-    "target":      "=location of digital edition=",
+    "title":       "Title",
+    "target":      "www.site.com",
   },
 
   "authors": [
     {
-      "first_name": "=author's first name=",
-      "last_name":  "=author's last name=",
-      "alter_name": "=author's alter name=",
-      "birth_date": "=author's date of birth=",
-      "death_date": "=author's date of death=",
-      "ref":        "=author's reference (e.g., viaf)="
+      "first_name": "William",
+      "last_name":  "Blewit",
+      "alter_name": "Tiwleb",
+      "birth_date": "1800",
+      "death_date": "1900",
+      "ref":        "64314"
     }
   ],
 
-  "words": "=word count=",
-  "pages": "=page count=",
-  "vols":  "=volume count=",
+  "words": "",
+  "pages": "",
+  "vols":  "",
 
   "languages": [
     "slo"
   ],
 
   "encoding_lvl":      "eltec-1",
-  "gender":            "=F (female) or M (male) or U (unkown or multiple)=",
-  "size":              "=short (10 - 50k) or medium (50 - 100k) or long (more than 100k)=",
-  "canonicity":        "=low (reprinted infrequently or never) or high (reprinted very frequently) unspecified (reprint information not available)=",
+  "gender":            "M",
+  "size":              "",
+  "canonicity":        "unspecified",
 }

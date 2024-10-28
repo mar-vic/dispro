@@ -85,21 +85,21 @@
   <encodingDesc $if(encoding_lvl)$n="$encoding_lvl$"$endif$>
    <p/>
   </encodingDesc>
-  <profileDesc>
+  <profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
    <langUsage>
     $for(languages)$
     <language ident="$language$"/>
     $endfor$
    </langUsage>
    <textDesc>
-    <authorGender key="$gender$"/>
-    <size key="$size$"/>
-    <canonicity key="$canonicity$"/>
-    <timeSlot key="$time_slot$"/>
+    <eltec:authorGender key="$gender$"/>
+    <eltec:size key="$size$"/>
+    <eltec:canonicity key="$canonicity$"/>
+    <eltec:timeSlot key="$time_slot$"/>
    </textDesc>
   </profileDesc>
   <revisionDesc>
-   <change when="$creationDate$">
+   <change when="$creation_date$">
     Initially created as an ELTeC file
    </change>
   </revisionDesc>

@@ -5,7 +5,7 @@ local logging = require("logging")
 local notes = {}
 
 function renderNote(el)
-	local noteId = "#N" .. #notes + 1
+	local noteId = "N" .. #notes + 1
 	-- table.insert(notes, "<note xml:id='" .. noteId .. "'>" .. pandoc.utils.stringify(el.content) .. "</note>")
 	table.insert(notes, { id = noteId, content = pandoc.utils.stringify(el.content) })
 end
