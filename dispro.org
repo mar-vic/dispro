@@ -1,213 +1,303 @@
 #title: Dispro
 #+FILETAGS: :dispro:work:
 
-* Documentation
-
+* Dokumnetácia
 ** Eltec
-
-   + [[https://distantreading.github.io/Training/Budapest/encodingGuide-2.html#(1)][Eltec Summary Guide for <text>]]
-   + [[httpst//distantreading.github.io/Training/Budapest/encodingGuide-1.html#(1)][Eltec Summary Giud for <header>]]
-   + [[https://distantreading.github.io/Schema/eltec-1.html][Encoding Guidelines for the ELTeC: level 1]]
-
++ [[https://distantreading.github.io/Training/Budapest/encodingGuide-2.html#(1)][Eltec Summary Guide for <text>]]
++ [[https://distantreading.github.io/Training/Budapest/encodingGuide-1.html#(1)][Eltec Summary Giud for <header>]]
++ [[https://distantreading.github.io/Schema/eltec-1.html][Encoding Guidelines for the ELTeC: level 1]]
 ** Dispro
-
-   + [[https://mar-vic.github.io/dispro/][Dispro Github Page]]
-   + [[https://drive.google.com/drive/u/1/folders/1cpYYGsF5dicXs4K3nQgCRbvf7ooh4A5w][Google Drive Project Dir]]
-
++ [[https://mar-vic.github.io/dispro/][Dispro Github Page]]
++ [[https://drive.google.com/drive/u/1/folders/1cpYYGsF5dicXs4K3nQgCRbvf7ooh4A5w][Google Drive Project Dir]]
 ** Tei
- 
-   + [[https://teipublisher.com/exist/apps/tei-publisher/documentation][Tei Publisher Docs]]
- 
++ [[https://teipublisher.com/exist/apps/tei-publisher/documentation][Tei Publisher Docs]]
 ** Pandoc
-
-   + [[https://pandoc.org/custom-readers.html][Creating Custom Pandoc Readers in Lua]]
-   + [[https://pandoc.org/custom-writers.html][Creating Custom Pandoc Writers in Lua]]
-   + [[https://pandoc.org/lua-filters.html#lua-type-reference][Types of objects available to Lua filters]]
-   + [[https://pandoc.org/MANUAL.html#templates][Pandoc Templates]]
-
++ [[https://pandoc.org/custom-readers.html][Creating Custom Pandoc Readers in Lua]]
++ [[https://pandoc.org/custom-writers.html][Creating Custom Pandoc Writers in Lua]]
++ [[https://pandoc.org/lua-filters.html#lua-type-reference][Types of objects available to Lua filters]]
++ [[https://pandoc.org/MANUAL.html#templates][Pandoc Templates]]
 ** Lua
- 
-   + [[https://www.inf.puc-rio.br/~roberto/lpeg/][LPeg - a pattern matching library for Lua]]
-   + [[https://www.inf.puc-rio.br/~roberto/docs/lpeg-primer.pdf][LPeg Primer]]
-   + [[https://github.com/LuaDist/luaxml][LuaXML]]
-   + [[https://github.com/manoelcampos/xml2lua][xml2lua]]
-   + [[https://github.com/Phrogz/SLAXML][SLAXML]]
-   + [[https://github.com/pandoc-ext/logging][Pandoc logging]]
-   + [[https://rawgit.com/n1tehawk/LuaXML/master/LuaXML.html][LuaXML Docs]]
-   + [[https://en.wikipedia.org/wiki/XSL_Formatting_Objects][XSL Formatting Objects]]
-
++ [[https://www.inf.puc-rio.br/~roberto/lpeg/][LPeg - a pattern matching library for Lua]]
++ [[https://www.inf.puc-rio.br/~roberto/docs/lpeg-primer.pdf][LPeg Primer]]
++ [[https://github.com/LuaDist/luaxml][LuaXML]]
++ [[https://github.com/manoelcampos/xml2lua][xml2lua]]
++ [[https://github.com/Phrogz/SLAXML][SLAXML]]
++ [[https://github.com/pandoc-ext/logging][Pandoc logging]]
++ [[https://rawgit.com/n1tehawk/LuaXML/master/LuaXML.html][LuaXML Docs]]
++ [[https://en.wikipedia.org/wiki/XSL_Formatting_Objects][XSL Formatting Objects]]
 ** Python
-
-   + [[https://click.palletsprojects.com/en/8.1.x/][click_ (Python package for creating beautiful command line interfaces)]]
-
-
++ [[https://click.palletsprojects.com/en/8.1.x/][click_ (Python package for creating beautiful command line interfaces)]]
 ** Recipes
-
 *** Customizing pandoc writing process
+To use custom pandoc writer, supply path to .lua file, where the writer is implemented:
 
-    To use custom pandoc writer, supply path to .lua file, where the writer is implemented:
+#+begin_src
+pandoc <source document> --from <source format> --to <path to custom writer> -o <path to output file>
+#+end_src
 
-    #+begin_src
-    pandoc <source document> --from <source format> --to <path to custom writer> -o <path to output file>
-    #+end_src
+To use custom pandoc writer with a custom template set the value of 'template' switch:
 
-    To use custom pandoc writer with a custom template set the value of 'template' switch:
+#+begin_src
+pandoc <source document> --from <source format> --to <path to custom writer> --template <path to template file> -o <path to output file>
+#+end_src
 
-    #+begin_src
-    pandoc <source document> --from <source format> --to <path to custom writer> --template <path to template file> -o <path to output file>
-    #+end_src
+To populate template variables with values from a file, use '--metadata-file' option (the file is either in .json or .yaml format): 
 
-    To populate template variables with values from a file, use '--metadata-file' option (the file is either in .json or .yaml format): 
+#+begin_src
+pandoc <source document> --from <source format> --to <path to custom writer> --template <path to template file> --metadata-file <path to metadata file> -o <path to output file>
+#+end_src
+*** Running Tei Publisher
+Start the eXist-db by running the following:
+#+begin_src shell
+~/eXist-db/bin/startup.sh
+#+end_src
+* PROJ [#B] Create the web for presenting the collection
+DEADLINE: <2024-12-30 Mon>
 
-    #+begin_src
-    pandoc <source document> --from <source format> --to <path to custom writer> --template <path to template file> --metadata-file <path to metadata file> -o <path to output file>
-    #+end_src
-
-* TODO Prepare selection of titles for JULS SAV 
-  [2024-04-22 Mon] SCHEDULED: <2024-04-22 Mon>
-
-  + Only titles which are not generated from golden fund sources
-  + In .pdf and .odt formats
-  + determine how to embed bibliography data for individual titles into pdfs and odts
-
-** DONE Create a custom pandoc reader for eltec files
-   CLOSED: [2024-06-18 Tue 16:54]
-
-   [[https://pandoc.org/custom-readers.html][Custom reader]] for eltec .xml can be used to
-   transform eltec files into any type of pandoc output.
-
-   Custom reader is simply a lua file that defines a 'Reader' function which takes two arguments:
-
-   + the raw input to be parsed, as a list of sources
-   + optionally, a table of reader options,  e.g. { columns = 62, standalone = true }.
-
-   The Reader function should return a Pandoc AST. Look here on how to maniplate Pandoc
-   AST: [[https://pandoc.org/lua-filters.html]]
-
-   The reader is then invoked by putting the path to file implementing the reader function
-   after the -f option when using pandoc command:
-
-   #+begin_src
-   pandoc input -f <file with reader definition> -t <output type> -o output
-   #+end_src
-
-**** DONE Transform eltec file into pandoc's AST
-     CLOSED: [2024-06-11 Tue 15:19]
-
-     + Create mapping between eltec elements and pandoc AST
-     + Extract all eltec elements occuring within <text>
-     + Generate pandoc AST out of eltec elements
-     + It is possible to modify existing Blocks with function in pandoc.List module
-
-* TODO Generate corpus stats with Pandas
+The web will ba based of [[https://teipublisher.com/exist/apps/tei-publisher-home/index.html][Tei Publisher platform]]
 
 ** References
 
-   + [[https://www.w3schools.com/python/pandas/pandas_intro.asp][Pandas Intro on W3 Schools]]
+- [[https://www.youtube.com/watch?v=QuWrfAS2SWM][Learn TEI Publisher]] (Video recording of workshop on TEI Publisher)
+- [[https://www.youtube.com/@e-editiones8339/videos][e-editions YT channel]]
+- [[https://teipublisher.com/exist/apps/tei-publisher/documentation][Tei Publisher Documentation]]
+- [[https://github.com/eeditiones/teipublisher-docker-compose][TEI Publisher docker imag]]e
+- [[https://tei-c.org/guidelines/][TEI guidelines]]
+- [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch][TEI-Publisher-From-Scratch]]
 
-** TODO Generate and show basic stats on corpus web page
+** Administration
+*** TEI Publisher
+Creating custom ODDs errors out for some reason while running the publisher
+natively. The issue can be avoided by using the dockerized version of the application.
+**** Data persistence
+To make the data persist while running the dockerized version of the publisher,
+modify the volumes section of docker-compose.yaml from:
+#+begin_src
+- /exist/data
+#+end_src
 
-   + ratio of titles already in corpus to projected number of titles
-   + number of authors in corpus
-   + number of words in worpus
+to:
+#+begin_src
+- <mount point on host>:/exist/data
+#+end_src
 
-** TODO Put bar plot showing project's progress on the web
+This will store the data in eXist databse on the system hosting the docker image.
 
-* TODO Write eltec generation scripts
+** TODO Watch the video recording of workshop on TEI Publisher       :learn:
+- [[https://youtu.be/QuWrfAS2SWM?si=lf_n9BeMMl9ODutc][Learn TEI Publisher - Session 1 of 3]]
+- [[https://youtu.be/5qu94bhftpk?si=j6ODv_szb5avCFdA][Learn TEI Publisher - Session 1 of 3]]
+- [[https://youtu.be/5qu94bhftpk?si=j6ODv_szb5avCFdA][Learn TEI Publisher - Session 1 of 3]]
 
-  Eltec generation scripts are implemented in "scripts/dispro.py", "pandoc/readers", "pandoc/writers" directory 
+** TODO Changes to ODD does are not reflected on documents           :error:
+Sometimes changes made to ODD are not reflected on documents to which the ODD is
+applied.
 
-** TODO Write tests for eltec generation
+** DONE Unable to apply or generate custom ODD                       :error:
+CLOSED: [2024-11-20 Wed 09:14]
+:LOGBOOK:
+- Note taken on [2024-11-19 Tue 10:04] \\
+  Managed to run docker image of tei-publisher (just run "docker-compose up" for
+  the root of the image's git repository.
+:END:
+- Trying to (re)generate or apply custom ODD generate obscure errors.
+- Try to use dockerized TEIPublisher
+  - docker image failed during build step
+  - The issue is probably with ssh
 
-   + Test eltec from pdf transformation
-   + Test eltec from html transformation
-   + Test eltec from images transformation
-   + Test metadata generation
-   + Generated files should be valid according to eltec standard
+* PROJ [#C] Build the collection
+:LOGBOOK:
+- Note taken on [2024-11-22 Fri 15:10] \\
+  Chrobak je dokonceny.
+- Note taken on [2024-11-21 Thu 14:58] \\
+  Na chrobakovi este treba spravit:
+  - Chlapska rec
+  - Duo Charlie
+  - Ostatny Raz
+  - Poviestka
+  - Silueta
+  - Ucenliva Marta a starostliva Maria
+- Note taken on [2024-11-19 Tue 15:50] \\
+  Na chalupkovi: treba vygenerovat ELTeC
+- Note taken on [2024-11-15 Fri 15:59] \\
+  Na chalupkovi: treba anotovat slova kurzivou, poznamkovy aparat a kapitoly
+- Note taken on [2024-11-13 Wed 15:06] \\
+  Bolfik je spracovany
+- Note taken on [2024-11-12 Tue 17:53] \\
+  Bajza je spracovany.
+- Note taken on [2024-11-12 Tue 14:39] \\
+  "Bez mena" zatial nespracovane
+- Note taken on [2024-11-11 Mon 16:23] \\
+  Na spracovanie nasleduje: "bez mena"
+:END:
+** NEXT Add and process titles from juls
++ [ ] Generate and process the .docx files
++ [ ] Create metadata files
++ [ ] Generate ELTeC files
+** TODO Add and process titles from kalligram
+- [X] Added .docx files
+- [ ] Write metadata files
+- [ ] Generate ELTeC files
+** TODO Add and process titles from Marek
+- [ ] Nevesta hol
+** TODO Add and process other titles from golden fund
 
-** TODO Write code for word counting in eltec files
-   [2024-04-22 Mon]
+** TODO Add and process scanned titles
 
-   + Write comprehensive test for the code
-
+** TODO Upravy textov
+*** Vseobecne
+- Tituly vo vstupnych .docx formatoch nastav ako "title", nie "header"
+*** Bansell
+- V "Na parolodi" anotovat verse na 9. strane
+- v "Emancipovaná" anotovat verse na ? strane
+*** Bajza
+**** Prihody a skusenosti mladenca Reneho
+- Spracovat segmenty #POEZIA# ... #-POEZIA#
+*** Bodicky
+- V "Stary mladenec" anotovat "***" na viacerych stranach
+*** Cerven
+**** Modra katedrala
+- anotacia pododielov kapitol podla [[https://distantreading.github.io/Training/Budapest/encodingGuide-2.html#(9)][tejto instrukcie]] (su oznacene "*")
+- anotacia versov na stranach 136 - 137
+*** Feriencik
+- v "Irma" anotovat verse na str. 24
+- v "Irma" anotovat "***" na str. 27
+*** Kubani
+- v "Emigranti" a anotuj verse na str. 3, 4, 10, 11
+*** Petrovsky
+- v "Ako sa v P hralo divadlo" anotuj "***" na 4 str
+- v "fi donc" anotuj "***" na 4 str
+- v "pod hrubou korou" anotuj "*" na str 15 a 17
+- v "rychlikom" anotuj "---" na str 4
+- v "Tri dni z denniku" anotuj "***" na str 6
+- v "z parku" anotuj "***" na 20 str
+*** Pauliny
+- V "Nas clovek" anotuj verse na str 1
+- V "Politika oportunity" anotuj verse na str 1
+- V "Skola a zivot" anotuj verse na str 1, 4
+- V "Slovensky pravopis" anotuj verse na str. 2, 3, 6, 8
+*** Zechenter
+- V "cestovanie na vakacie" anotuj verse na str 9
+- V "Prvy tanec" anotuj verse na str 9
+*** Ján Chalupka
+- Donquijotiáda je preložená z nemčiny (nie autorom)
+- Len niektoré poznámky sú autorove (ostatné pochádzajú od prekladateľa)
+*** Dobroslav Chrobak
+- Tieto diela sa nachádzali v dokumente spolu s dielom "Kamarát Jašek":
+  - Návrat Ondreja Baláža
+  - Chlapska reč
+  - Duo Charlie
+  - Ostatny raz
+  - Poviestka
+  - Silueta
+  - Ucenliva Marta a starostliva Maria
+- Treba skontrolovat bibliografiu tychto diel.
+* PROJ Write eltec generation scripts
+- Eltec generation scripts are implemented in "scripts/dispro.py", "pandoc/readers", "pandoc/writers" directory
 ** TODO Write custom pandoc writer for eltec .xml files
-   [2024-04-27 Sat]
-
-   A custom pandoc writer for eltec files makes it possible to use pandoc to generate eltec files out of any of the input types pandoc recognizes
-
+- A custom pandoc writer for eltec files makes it possible to use pandoc to
+  generate eltec files out of any of the input types pandoc recognizes
 *** References
-
-    + [[https://pandoc.org/MANUAL.html#templates][Pandoc Templates]]
-    + [[https://github.com/jgm/pandoc-templates][Pandoc Templates Repo]]
-    + [[https://pandoc.org/custom-writers.html][Creating Custom Pandoc Writers in Lua]]
-    + [[https://pandoc.org/lua-filters.html#lua-type-reference][Types of objects available to Lua filters]]
-
-*** TODO Pretty printing xml
-
++ [[https://pandoc.org/MANUAL.html#templates][Pandoc Templates]]
++ [[https://github.com/jgm/pandoc-templates][Pandoc Templates Repo]]
++ [[https://pandoc.org/custom-writers.html][Creating Custom Pandoc Writers in Lua]]
++ [[https://pandoc.org/lua-filters.html#lua-type-reference][Types of objects available to Lua filters]
+*** NEXT Removing newlines while prettifying seems to leave two spaces
+*** TODO Write code for validating whole corpus
+*** SOMEDAY Chapters should be wrapped inside <div> according ELTeC standard
+- collection of chapters should have the "type" attribute set to "group"
+*** DONE Custom writer fails to produce document in some cases
+CLOSED: [2024-11-15 Fri 15:19]
+- Problematic doc: modra_katedrala
+*** DONE timeslot val should be based on frsted.pub_date, if the value is  present
+CLOSED: [2024-11-11 Mon 14:26]
+- otherwise use srced.pub_date
+*** DONE Document titles and subtitles should be put inside the <front> tag
+CLOSED: [2024-10-26 Sat 16:33]
+- <front> to be generated by filter
+- the filter will extract title and subtitle from the source doc metadata, if they are present
+- Title and subtitle will be then added at the beginning of pandoc AST with identifiers 
+- The identifiers will be then used by eltec writer ti generate the front matter
+- Similar method should be then used to generate footnotes
+*** DONE Footnotes generation
+CLOSED: [2024-10-26 Sat 16:38]
++ Footnotes should be put insed <back></back> sections
+*** DONE Generate <head> on the basis of .json metadata
+CLOSED: [2024-10-22 Tue 15:33]
+- The boilerplate of <head> can be generated with the --template option
+- The problem is to provide the parameters to populate template variables
+- Custom metadata can be easily set by lua filter
+- Steps in generating eletc file:
+  1. Use filter to generate template with metadata
+  2. Use custom writer to generate eltec file on the basis of previously generated template
+  3. Use filter to calulate and set word count in documents head
+- Filters can be combined with metadata files, templates and even a custom writer!
+- The following data should be calculated>
+  - documentId
+  - eltecEdition
+  - words
+  - pages
+  - size
+  - timeSlot
+*** DONE Pretty printing xml
+CLOSED: [2024-10-21 Mon 14:59]
 *** DONE Learn how to use templates in a custom writer
-    CLOSED: [2024-07-02 Tue 14:03]
-
-    + Custom templates can be accessed programmatically in user data dir with "pandoc.template.default(*FORMAT*)"
-    + But they are not "visible"  to "pandoc -D *FORMAT*" command
-    + Custom template file can be specified with --template <path to template file>
-    + It should also be possible to specify custom template programmatically in custom readers / writers
-
-** TODO Use AI to correct OCR artefacts
-
-   The "autocorrect" should identify all misspelled words within the file and use 
-   the predictive capabilities of LLM to correct the misspelling. The script
-   should be able to run in guided mode in which, if there more options to correct 
-   the misspeling, user is prompted to chose one.
-
+CLOSED: [2024-07-02 Tue 14:03]
++ Custom templates can be accessed programmatically in user data dir with "pandoc.template.default(*FORMAT*)"
++ But they are not "visible"  to "pandoc -D *FORMAT*" command
++ Custom template file can be specified with --template <path to template file>
++ It should also be possible to specify custom template programmatically in custom readers / writers
+** TODO Write emacs macros for annotating ELTeC .xml files
+** TODO Write tests for eltec generation
++ Test eltec from pdf transformation
++ Test eltec from html transformation
++ Test eltec from images transformation
++ Test metadata generation
++ Generated files should be valid according to eltec standard
+** SOMEDAY Use AI to correct OCR artefacts
+The "autocorrect" should identify all misspelled words within the file and use 
+the predictive capabilities of LLM to correct the misspelling. The script
+should be able to run in guided mode in which, if there more options to correct 
+the misspeling, user is prompted to chose one.
 *** References
-   + [[https://www.geeksforgeeks.org/autocorrector-feature-using-nlp-in-python/][Autocorrector Feature Using NLP In Python]]
-   + [[https://pypi.org/project/pyspellchecker/][pyspellchecker]]
-   + [[https://towardsdatascience.com/ocr-typo-detection-9dd6e396ecac]]
-   + [[https://zenodo.org/records/3515403][Dataset of ICDAR 2019 Competition on Post-OCR Text Correction]]
-   + [[https://qwenlm.github.io/blog/qwen2-vl/][Qwen2-VL-7B Instruct LLM model for OCR]]
-     + [[https://x.com/simonw/status/1831207719745077493]]
++ [[https://www.geeksforgeeks.org/autocorrector-feature-using-nlp-in-python/][Autocorrector Feature Using NLP In Python]]
++ [[https://pypi.org/project/pyspellchecker/][pyspellchecker]]
++ [[https://towardsdatascience.com/ocr-typo-detection-9dd6e396ecac]]
++ [[https://zenodo.org/records/3515403][Dataset of ICDAR 2019 Competition on Post-OCR Text Correction]]
++ [[https://qwenlm.github.io/blog/qwen2-vl/][Qwen2-VL-7B Instruct LLM model for OCR]]
+  + [[https://x.com/simonw/status/1831207719745077493]]
++ [[https://generativehistory.substack.com/p/introducing-transcription-pearl][Introducing Transcription Pearl]]
+  + [[https://github.com/mhumphries2323/Transcription_Pearl][Transcription Pearl GitHub]]
 
-* TODO Build the collection
-  SCHEDULED: <2024-04-12 Fri>
+* DONE [#A] Posli podpisane doklady do Nitry
+CLOSED: [2024-11-22 Fri 14:42] DEADLINE: <2024-11-22 Fri> SCHEDULED: <2024-11-21 Thu 16:00>
+* DONE Sprav vykaz pre JULS
+CLOSED: [2024-11-19 Tue 13:42] DEADLINE: <2024-11-25 Mon> SCHEDULED: <2024-11-18 Mon 08:00-09:00>
+* DONE Create a custom pandoc reader for eltec files
+CLOSED: [2024-06-18 Tue 16:54]
 
-** TODO Add and process titles from linguistic institute
+[[https://pandoc.org/custom-readers.html][Custom reader]] for eltec .xml can be used to
+transform eltec files into any type of pandoc output.
 
-** TODO Add and process other titles from golden fund to the corpus
- 
-* TODO Create the web for presenting the collection
-  DEADLINE: <2025-01-31 Fri>
+Custom reader is simply a lua file that defines a 'Reader' function which takes two arguments:
 
-  The web will ba based of
-  [[https://teipublisher.com/exist/apps/tei-publisher-home/index.html][Tei
-  Publisher]] platform, but, during the development, simple
-  [[https://mar-vic.github.io/dispro/][github site]] is used for accessing the
-  collection online.
++ the raw input to be parsed, as a list of sources
++ optionally, a table of reader options,  e.g. { columns = 62, standalone = true }.
 
-* TODO Dispro site as a prototype
-  [2024-04-13 Sat]
+The Reader function should return a Pandoc AST. Look here on how to maniplate Pandoc
+AST: [[https://pandoc.org/lua-filters.html]]
 
-  + More general tools for processing / preparing files for lunguisting analysis
+The reader is then invoked by putting the path to file implementing the reader function
+after the -f option when using pandoc command:
 
-** TODO Create web interface for text cleanup and annotation
+#+begin_src
+pandoc input -f <file with reader definition> -t <output type> -o output
+#+end_src
 
-   + The Interface will be based on [[https://teipublisher.com/exist/apps/tei-publisher-home/index.html][Tei Publisher]]
+** DONE Transform eltec file into pandoc's AST
+CLOSED: [2024-06-11 Tue 15:19]
 
-** TODO Generate corpus metadata
-   [2024-03-04 Mon]
++ Create mapping between eltec elements and pandoc AST
++ Extract all eltec elements occuring within <text>
++ Generate pandoc AST out of eltec elements
++ It is possible to modify existing Blocks with function in pandoc.List module
 
-   + Show the corpus and title metadata on to the website
-   + Upload the metadata as google sheet doc
-   + Generate corpus metadata:
-     + Number of authors
-     + Number of titles
-     + Gender
-     + Number of tokens
-     + Eras
-
-* DONE Posli mailom stav spracovania zbierky
-  SCHEDULED: <2024-03-16 Sat> CLOSED: [2024-03-17 Sun] 
-  [2024-03-16 Sat]
-
-* DONE Restore dispro project
-  SCHEDULED: <2024-02-26 Po> CLOSED: [2024-03-04 Mon 14:34]
-  [2024-02-26 Po]
