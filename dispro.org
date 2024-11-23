@@ -54,15 +54,14 @@ Start the eXist-db by running the following:
 * PROJ [#B] Create the web for presenting the collection
 DEADLINE: <2024-12-30 Mon>
 
-The web will ba based of [[https://teipublisher.com/exist/apps/tei-publisher-home/index.html][Tei Publisher platform]]
+The web will be based of [[https://teipublisher.com/exist/apps/tei-publisher-home/index.html][Tei Publisher platform]]
 
 ** References
 
-- [[https://www.youtube.com/watch?v=QuWrfAS2SWM][Learn TEI Publisher]] (Video recording of workshop on TEI Publisher)
 - [[https://www.youtube.com/@e-editiones8339/videos][e-editions YT channel]]
 - [[https://teipublisher.com/exist/apps/tei-publisher/documentation][Tei Publisher Documentation]]
-- [[https://github.com/eeditiones/teipublisher-docker-compose][TEI Publisher docker imag]]e
-- [[https://tei-c.org/guidelines/][TEI guidelines]]
+- [[https://github.com/eeditiones/teipublisher-docker-compose][TEI Publisher docker image]]
+- [[https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html][TEI Guidelines]]
 - [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch][TEI-Publisher-From-Scratch]]
 
 ** Administration
