@@ -51,7 +51,7 @@ assets_dir = project_dir.joinpath("static")
 
 # Functions used to generate ELTeC XMLs
 # -------------------------------------
-def transform_file_to_eltec(input_file: str, metadata_file: str = None) -> str:
+def transform_file_to_eltec(input_file: str, metadata_file: str = "") -> subprocess.CompletedProcess:
     headValsFilter = project_dir.joinpath("pandoc/filters/eltec_head_vals.lua")
     notesFilter = project_dir.joinpath("pandoc/filters/eltec_notes.lua")
     headersFilter = project_dir.joinpath("pandoc/filters/eltec_headers.lua")
@@ -75,7 +75,7 @@ def transform_file_to_eltec(input_file: str, metadata_file: str = None) -> str:
         writer,
     ]
 
-    return subprocess.run(args, capture_output=True, text=True).stdout
+    return subprocess.run(args, capture_output=True, text=True)
 
 
 def validate_eltec_file(file: str):
@@ -1270,14 +1270,22 @@ def test_corpus_stats():
     "--validate-eltec",
     type=click.Path(exists=True, file_okay=True, dir_okay=False, path_type=Path),
 )
+@click.option(
+    "-m",
+    "--gen-metadata",
+    is_flag=True,
+    flag_value="Flag",
+    default="default"
+)
 def cli(
-    get_page: click.Path,
-    get_book: click.Path,
-    gen_eltec: tuple[click.Path, click.Path],
-    validate_eltec: click.Path,
-    output: click.Path,
-    spell: click.Path,
-    pdf2docx: tuple[click.Path, click.Path],
+        get_page: click.Path,
+        get_book: click.Path,
+        gen_eltec: tuple[click.Path, click.Path],
+        validate_eltec: click.Path,
+        gen_metadata,
+        output: click.Path,
+        spell: click.Path,
+        pdf2docx: tuple[click.Path, click.Path],
 ):
     if get_page:
         if output:  # Writing results into a file
@@ -1299,8 +1307,12 @@ def cli(
         input_file: Path = gen_eltec[0]
         metadata_file: Path = gen_eltec[1]
 
+        pandoc_process: subprocess.CompletedProcess = transform_file_to_eltec(input_file, metadata_file)
+
+        # breakpoint()
+
         eltec: str = BeautifulSoup(
-            transform_file_to_eltec(input_file, metadata_file).replace("\n", ""), "xml"
+            pandoc_process.stdout.replace("\n", ""), "xml"
         ).prettify()
 
         if output:
@@ -1314,8 +1326,13 @@ def cli(
             print("The file is valid according to eltec-1 schema")
         else:
             print(f"The file is invalid due to:\n {results[1]}")
+    elif gen_metadata:
+        with open(project_dir.joinpath("pandoc/meta/boilerplate.json"), "r") as f:
+            template = json.load(f)
+        author: str = input("Author")
+        print(template)
     else:
-        print("Doing nothing!!!")
+        print("Doing nothing.")
 
 
 if __name__ == "__main__":
