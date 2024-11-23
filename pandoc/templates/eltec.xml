@@ -5,7 +5,7 @@
    <titleStmt>
     <title $if(srced.ref)$ref="$srced.ref$"$endif$>$srced.title$ : $eltec_edition_str$</title>
     $for(authors)$
-    <author $if(authors.ref)$ ref="$authors.ref$" $endif$>$authors.last_name$, $authors.last_name$$if(authors.alter_name)$ [$authors.alter_name$] $endif$($authors.birth_date$ - $authors.death_date$)</author>
+    <author $if(authors.ref)$ ref="$authors.ref$" $endif$>$authors.last_name$, $authors.first_name$$if(authors.alter_name)$ [$authors.alter_name$] $endif$ ($authors.birth_date$ - $authors.death_date$)</author>
     $endfor$
     <respStmt>
      <resp>
@@ -29,7 +29,7 @@
     <bibl type="printSource">
      $for(authors)$
      <author>
-      $authors.last_name$, $author.first_name$
+      $authors.last_name$, $authors.first_name$
      </author>
      $endfor$
      <title>

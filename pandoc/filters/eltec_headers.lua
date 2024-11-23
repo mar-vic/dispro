@@ -37,6 +37,7 @@ headcount = {
 }
 
 function Pandoc(el)
+  logging.temp(el)
 	el.blocks:walk(headcount)
 	el.meta.unclosed_chapters = {}
 	-- logging.temp(headers:getn())

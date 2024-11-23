@@ -11,6 +11,7 @@ function renderNote(el)
 end
 
 function Pandoc(el)
+  -- logging.temp(el)
 	el.blocks:walk({ Note = renderNote })
 	-- logging.temp(notes)
 	if #notes > 0 then

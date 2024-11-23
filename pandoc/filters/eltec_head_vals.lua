@@ -64,7 +64,13 @@ function Pandoc(el)
 	el.blocks:walk(wordcount)
 	el.meta.words = tostring(words)
 
-	local year = tonumber(pandoc.utils.stringify(el.meta.srced.pub_date))
+  local year
+  -- TODO: the value should be used only in case, if there is no firsted.pub_date
+  if el.meta.firsted and el.meta.firsted.pub_date then
+    year = tonumber(pandoc.utils.stringify(el.meta.firsted.pub_date ))
+  else
+    year = tonumber(pandoc.utils.stringify(el.meta.srced.pub_date))
+  end
 	if year then
 		el.meta.time_slot = get_time_slot(year)
 	end

@@ -127,6 +127,7 @@ Writer.Block.OrderedList = function(ol)
 end
 
 Writer.Block.Para = function(p)
+  -- logging.temp(p)
 	return { "<p>", Writer.Inlines(p.content), "</p>" }
 end
 
