@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1937753" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Učenlivá Marta a starostlivá Mária : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3684
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Učenlivá Marta a starostlivá Mária
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-22">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Učenlivá Marta a starostlivá Mária
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Toto je príbeh o dvoch sestrách, Marte a Márii. Úlohu svodnice hrá   v ňom Marta. (Odkedyže je na svete tak? spytujem sa zadivene.   Odkedyže si starostlivá Marta vymenila úlohu s učenlivou Máriou?   Akéže skryté prevraty sa odohraly v ľude Kristovom, že nastala táto   trápna transfigurácia?)
+   </tei:p>
+   <tei:p>
+    Marta začala svoju úlohu v narážkach, v drobných náznakoch, aby   vyskúmala pôdu u sestry. No čím ďalej, tým väčšmi ju dráždilo, že   sestra ostáva hluchá a pohŕdavo odvracia tvár, kedykoľvek začne o   svojich plánoch. Zadúšala sa už týmito plánmi, nadúvaly ju a   skreslovaly podráždeným vzruchom jej pohyby i slová. A raz, keď ju   mať hrešila pre novú parádnu letnicu, muselo to z nej vybuchnúť. Áno,   nech to teda vedia, odíde od nich, odíde do mesta. Má už dosť ich   večného šomrania, dosť drhnutia od svitu do mraku, dosť sa napočúvala   ich nadávok do parádnic, fiflien a frajeriek. Odíde; ešte tejto   jesene odíde do mesta.
+   </tei:p>
+   <tei:p>
+    Od tých čias neskrývala sa už pred sestrou. Za dusných večerov,   keď mesiac nevystupoval zpoza ťažkých chmár a opití parobci motali sa   po ceste ako mátohy vlastných neukojitelných vášní, sedávaly spolu na   lavičke pred domom. Dívaly sa obe ponad hrebeň susednej strechy na   ťažké vemená chmár a načúvaly blížiacim sa krokom. S maličkou   iskierkou nádeje upínaly na chvíľu svoju pozornosť k tým krokom, a   keď prešly a zatíchly bez zastavenia na druhom konci dediny, vracaly   sa sklamane k svojim myšlienkam.
+   </tei:p>
+   <tei:p>
+    A potom sa Marta rozhovorila. Potichu, zasnene, aby neodplašila   svoju vidinu. Kým sestra mlčí, siakne prúd jej reči neprerušovane do   teplej tmy! Kdesi v diaľke vystiera mesto tisícramennú svoju náruč,   volá a vábi. Áno, akéže šťastie ju čaká tu, na dedine? Kto si ju tu   povšimne? Kto ocení jej pôvab ? V meste... v meste...
+   </tei:p>
+   <tei:p>
+    — Čo tam chceš robiť? — pretrhne ju Mária podráždene. — Z čoho   budeš žiť?
+   </tei:p>
+   <tei:p>
+    — Nájdem si službu.
+   </tei:p>
+   <tei:p>
+    — Službu? U koho?
+   </tei:p>
+   <tei:p>
+    — U hocikoho. A potom... kto vie... — Marta sa tajomne usmeje —   ...hádam sa i vydám.
+   </tei:p>
+   <tei:p>
+    — Za koho ozaj?
+   </tei:p>
+   <tei:p>
+    — Nájdem si. V meste si každý môže vybrať.
+   </tei:p>
+   <tei:p>
+    Znie to celkom bezbožne. Márii sa protivia Martine plány. Ale   Marta si je istá. Vie presne, aký má byť ten, ktorého si vyberie. Aké   má mať ruky, fúziky, ako sa má usmievať a aký má byť dotyk jeho   dlane. Bude sa podobať tomu mladému učiteľovi, čo každého rána   chodieva okolo ich oblokov. Páči sa jej, ako si učiteľ pri chôdzi   švihá trsteničkou, ktorou vypláca deti v škole, páči sa jej jeho   výbojný úsmev, ktorým každého rána sprevádza svoj pohľad do ich   oblokov, kde ona očistomok oblamuje suché lístky z muškátu.
+   </tei:p>
+   <tei:p>
+    Keby nebola dosť rozumná, nedal by jej ten učiteľ spávať. Pália ju   pery a podlamujú sa jej kolená, keď naň dlhšie myslí. Ale ona sa   vystríha myslieť naň dlhšie. Je rozumná a opatrná. A keď sú už   myšlienky o ňom (za takýchto dusných večerov) celkom neodbytné, tu   prenáša si jeho figúru do mesta, ďaleko od sliedivých susediek a   nevrlej matere. Tam kdesi v hmýrivom, nedočkavom prostredí vyrazí raz   slobodne jej zadúšaná túha a rozkvitne nádherným, bujným kvetom.
+   </tei:p>
+   <tei:p>
+    Obchádza na prstoch okolo svojich dráždivých predstáv. Šteklia ju   a svrbia na jazyku. Rada by ich vyslovila naplno pred sestrou. Ale   sestra je pohrúžená do vlastných myšlienok.
+   </tei:p>
+   <tei:p>
+    Aké sú to myšlienky?
+   </tei:p>
+   <tei:p>
+    Nikdy sa o tom nesmie nikto dozvedieť.
+   </tei:p>
+   <tei:p>
+    Sestra Mária znasa trpezlive podozrievavý pohľad sestry Marty a   zakrúca sa tesnejšie do vlnenej šatky po starej materi.
+   </tei:p>
+   <tei:p>
+    A jedného večera pred spaním, ked si rozčesávala vlasy pred   zrkadlom, čo visí vysoko a šikmo na stene medzi oblokmi (takže sa v   ňom vidí celá, od hlavy po päty), podívala sa pozornejšie na svoju   tvár. Priklonila tvár bližšie k zrkadlu a videla v nej celkom jasnú   premenu. Pritkla tvár celkom blízko k studenému sklu a zbadala vo   svojich očiach strach. Čím dlhšie sa dívala, tým určitejšie   vystupoval strach z jej rozšírených zreníc. Nemôže pochybovať o tom,   čo značí premena v jej tvári. Tej noci, keď sa Ondro nasilu dobyl do   jej komory... Nevládze myslieť ďalej. Kladie si dlaň na život a   načúva. Pilne a sústredene načúva krokom neznámeho príchodzieho.   Ustupuje vydesene pred svojím obrazom v zrkadle. Neodbytná otázka   rozzvučala sa jej v hlave ťažkým a jednotvárnym hukotom.
+   </tei:p>
+   <tei:p>
+    — Čo sa s ňou stane? Čo sa stane, keď sa o tom dozvedia   ostatní?
+   </tei:p>
+   <tei:p>
+    Nikdy sa o tom nesmú dozvedieť. Je tu mesto. Neznáme, ďaleké,   milosrdné vo svojej ľahostajnosti. Tam sa schová so svojou   hanbou.
+   </tei:p>
+   <tei:p>
+    Od toho večera načúva pozornejšie Martiným rečiam. Kladie jej   pochybovačné otázky. Koľko šiat a koľko letníc bolo by treba vziať si   do mesta? Koľko platia v službe? A periny? Treba v meste chodiť vždy   vo sviatočnom a či sa možno obliecť i do každodenného?
+   </tei:p>
+   <tei:p>
+    Starostlivá Mária počíta a uvažuje. Ale dosiaľ nevystupuje zo   svojho úkrytu. Iba očistom preloží svoje šaty zo spoločnej truhly do   menšieho kufríka, čo stojí v komore, kde spáva.
+   </tei:p>
+   <tei:p>
+    — Vari sa bojíš, že ti to niekto pokradne?
+   </tei:p>
+   <tei:p>
+    Nie, nebojí sa, ale chce všetko mať pri sebe, chce vedieť, koľko   svojho má.
+   </tei:p>
+   <tei:p>
+    — Vari sa ideš vydávať?
+   </tei:p>
+   <tei:p>
+    Nie, nejde sa vydávať. Ale je lepšie, keď každý má svoje na   osobitnej hŕbke.
+   </tei:p>
+   <tei:p>
+    Zavre kufor, uviaže kľúčik na šnúrku a zavesí si ho na hrdlo. Tak,   teraz je spokojná.
+   </tei:p>
+   <tei:p>
+    A potom príde jeseň.
+   </tei:p>
+   <tei:p>
+    Všetka práca je už skončená. Ľan je otlčený, vytrepaný i   vyčistený. Sviazaný v štyroch tučných viazaniciach suší sa teraz na   pôjde. V každej viazanici sú dve kyty, v každej kyte dvanásť povesien   a v každom povesne dvanásť hrstí. Tak je pekne rozdelený. Len ho   priasť. Až ti sliny tečú.
+   </tei:p>
+   <tei:p>
+    Už sú i zemiaky vykopané. Už sú i složené vo dvoch zápravách v   pivnici. Každé osve — drobné pre ošípané, veľké pre ľudí.
+   </tei:p>
+   <tei:p>
+    Už je i kapusta sobratá. Už je i postrúhaná a natlačená s kôprom a   rascou a kyslými plánčatmi do suda. Už i pena vystupuje zpod dosiek,   pritisnutých skalou.
+   </tei:p>
+   <tei:p>
+    Už sú i dve jarky zarezané, droby z nich pojedené, mäso zasolené a   kože predané Židovi.
+   </tei:p>
+   <tei:p>
+    Už je i obilie vymlátené, už i drevo pod ústreším nachystané.
+   </tei:p>
+   <tei:p>
+    Všetko je hotové.
+   </tei:p>
+   <tei:p>
+    Len už ísť...
+   </tei:p>
+   <tei:p>
+    Starostlivá Mária chodí a hľadá po dome, po dvore, po humne, kde   by ešte bolo treba čo spraviť. Večer stojí vo dverách (noci sú už   chladné), načúva. Šumí dážď, pod hradskou šepoce potok, na druhom   konci dediny zavýja pes, s času na čas ozve sa Rysulin zvonec zo   dvora. Prsia sa jej svierajú úzkosťou, celá sa chveje chladom. Naozaj   už niet čo vykonať. Všetko je hotové, všetko skončené. Nič ju   nezdržiava, nikto ju nepotrebuje. Znezrady sa zadiví, ako mohla   predtým, minulej a predminulej jesene, nezbadať, že ju nikto   nepotrebuje. A v zápätí udre jej krv do tvári, celú ju obleje horúci   stud. Vlani a predvlani bol tu ešte Ondrej. Štíhly a čistý, trochu   rozmaznaný, vyobliekaný ako panenka, s pierkom, čo mu zastrčila za   klobúk, keď išiel v nedeľu do kostola. Všetko mu bolo dovolené: bol   najbohatší a najhodnejší medzi parobkami. Najprv o tom nevedel, bol   spôsobný a milý. Potom sa o tom dozvedel (dievky sa mu vešaly na   päty, krčmár mu dával na úver), začal piť, vybíjať obloky Židovi. A   jednej noci dobyl sa nasilu do jej komory. Potom už nikdy viac.   Odišiel na vojenčinu. Ale Márii zostal naveky trčať hlboko v útrobách   ostrý, krvavý klin. Rozštiepil ju, zabil ju zdnuky. A teraz v nej   puchne a pomaly sa nadúva. Mária siaha si dlaňou na život. Všetka krv   tuhne jej v žilách. Cíti pod dlaňou tupý tlak, cíti, ako sa tam čosi   rozpína, pučí, vytrvale sa nadúva, dvíha sa k hrdlu a celkom jej   zastavuje dych. Vidí pred sebou svoje rozšírené zrenice, ako sa na ňu   dívajú zo studeného skla v zrkadle. Čo spraviť a kam sa podieť, aby   im unikla?
+   </tei:p>
+   <tei:p>
+    Prší, je celkom tma, na nebi niet jedinej hviezdy, vonku ani dnuká   jedinej odpovedi. Odísť...
+   </tei:p>
+   <tei:p>
+    Teraz je tu mesto.
+   </tei:p>
+   <tei:p>
+    A to je už iná rozprávka. Musíš sa poriadne obháňať, aby si sa   udržal nad vodou. Ukrutný pozor si musíš dávať, aby si sa nezaplietol   v tej motanici a nestratil cestu k útulku, kde spávaš. Zpočiatku sa   ani dohovoriť nemôžeš; vlezieš niekam, povieš, to a to by som chcel,   a oni na teba vyvalia oči, ako by po prvý raz počuli ľudskú reč. Ale   pomaly všetko sa vysvetlí. Nakoniec nájdeš si aj miesto. I keď je to   len miesto umývačky. Celý boží deň kľačíš na kolenách a drhneš   vechťom kachlíkovú dlážku. Ľudia chodia okolo (vidíš len samé nohy),   ale nikto si ťa nevšimne. Iba niekedy potkne sa niekto o teba, stúpi   ti na ruku a potom sa na teba osopí. Nebolí to veľmi. O chvílu zas   nič necítiš a môžeš drhnúť ďalej kachlíkovú dlážku. Ľudia stále   chodia okolo a dlážka stále musí byť čistá.
+   </tei:p>
+   <tei:p>
+    Marta sa má lepšie. Vyvolila si lepšiu stránku, ktorá jej nebude   odňatá. Sediac pri nohách svojho majstra, počúvala slová jeho a ľahko   ich chápala. Ľahko si osvojila roztekaný výraz mesta. A chytro si   všimla, že pod týmto roztekaným výrazom skrytá je blahosklonná   pozornosť k nej, k Marte. Mesto ju prijalo, mesto ju potrebovalo.   Čerstvý glg do smädného, do bezodného hrtana ulice. To sa stalo   takto:
+   </tei:p>
+   <tei:p>
+    Raz do týždňa, v nedeľu, keď obe majú voľno, schádza sa Marta s   Máriou na malom námestí pri pomníku akéhosi pána, ktorý drží v jednej   ruke knihu a druhou ukazuje niekam do oblakov. Obe prostovlasé, s   ručníkmi prehodenými cez ruku, Mária s kytkou fialiek, ktoré drží v   sovretej dlani na páse, Marta s novou taštičkou, do ktorej nevie čo   položiť. Obe v širokých, naberaných sukniach, v tesných živôtkoch,   napätých tvrdými prsníkmi (Mária má prsia trochu plnšie ako Marta,   ktorá je i v páse útlejšia), prepásané stužkou s peknou mašľou na   bedrách. Sviatočne nemotorné, dedinsky rozpačité, chodia bez cieľa   sem a ta, nazerajú do výkladov (Marta hovorí odborne o krepdešínoch),   zastavujú sa pred biografmi (poprezerajú za odpoludnie všetky, za   sklom vyložené obrázky), slabikujú reklamy, dívajú sa za krikľavo   oblečenými ženskými, nesadnú si, nikam nevojdú, nič si nekúpia,   nikomu sa neprihovoria. Ak sa stane, že sa pri nich zastaví vojak,   ktorý sa robí, ako by sa zaujímal o všetko ostatné, len nie o ne, tu   obe naraz stratia odvahu a odchádzajú náhlivo, mlčky, neobzerajúc sa.   Marta býva potom podráždená, neprihovára sa Márii, alebo do nej   zadrapuje a dáva jej cítiť, že zas všetko pokazila. Rozchádzajú sa   potom namrzené a prv, ako je potrebné, aby boly zavčasu doma.   Nasledujúcej nedele sídu sa opäť, a opäť chodia bez cieľa sem a ta po   uliciach, až ich bolia nohy, až sa im hlavy krútia a šumí im v   nich
+   </tei:p>
+   <tei:p>
+    ako v úle všetko to vrenie, hmýrenie a hučanie okolo. Schádzajú sa   a rozchádzajú, lebo nikoho iného v meste nemajú a potrebujú aspoň raz   do týždňa počuť ľudské slovo.
+   </tei:p>
+   <tei:p>
+    Jednej nedele (to už bolo teplo, zima nebola taká tuhá, ako bývala   doma) zatúlaly sa priveľmi ďaleko, až k mostu, čo viedol cez rieku.   Most bol náramne dlhý, železný, podopretý mocnými piliermi na   prostriedku a na koncoch. Na druhom brehu rieky nebolo vidno domov,   len dve-tri vily a nejaký komín. A potom tam bol les. Naozajstný les.   Aspoň odtiaľto sa zdá, že je naozajstný les — hustý a všade rovnako   vysoký — ako pristrihnutá kefa. Dalo sa tušiť, že za lesom je lúka s   mladou, mäkuškou trávou, v ktorej sa brodí slnce. A v lese mohol byť   chládok, všelijaké vône, chrobáky a slimáky, kvietky s útlymi   kaliskami a hustý, ostro páchnuci mach, do ktorého sa možno svaliť a   cítiť sa ako v náručí domova.
+   </tei:p>
+   <tei:p>
+    Mária sa ta díva zarazená, ako na náhle zjavenie, a vracia sa jej   ohrdená spomienka na domáce nôty.
+   </tei:p>
+   <tei:p>
+    — Poďme ta! — povie Mária.
+   </tei:p>
+   <tei:p>
+    A naozaj: cez most sa dá prejsť na druhú stranu, prúdi tade zástup   ľudí. To Máriu trochu zarazí. Túžba, ktorá ju práve naplnila až po   okraj, môže byť ukojená tak ľahko, že je to až podozrivé. Nezdá sa   jej, že práve toto šťastie netreba vykupovať odriekaním. Ale nech,   podívame sa!
+   </tei:p>
+   <tei:p>
+    Prejdú cez most. Mária dýchala vzrušene a rozochvene, ako keď šla   po prvý raz ku konfirmácii, na ktorú sa dlho s pánom farárom   pripravovali a od ktorej nejasne čakala vysvetlenie všetkých záhad,   čo sa v nej začaly vŕšiť od tých čias, ako sa jej začaly nalievať   prsia.
+   </tei:p>
+   <tei:p>
+    Na tvárach okoloidúcich hľadá vzrušenie, podobné svojmu, a za   mostom kupuje pre obe vrecúško medovníkov. Je to predsa len   slávnostná chvíľa a jej začiatok musí sa odlíšiť týmito medovníkmi od   každodennosti ostatného života. A potom opatrne, so vzrastajúcou   nedôverou vstupuje na asfaltovaný chodník, vedúci medzi stromy. Nuž,   vidno, sklamanie nedáva nikdy na seba dlho čakať. Nie je to nijaký   les. Ľudia, čo tu sedia a tmolia sa po úzkych chodníkoch, nemajú, zdá   sa, vôbec v úmysle odložiť masky tej známej povýšenej unudenosti. Za   tým, veru, nemusely chodiť až sem. Les nie je lesom, stromy nie sú   stromami. Stoja v osihotenej dôstojnosti a úctivej zdvorilosti ďaleko   od seba, vedomé si svojej vzácnosti.
+   </tei:p>
+   <tei:p>
+    Nič zato! Mária aspoň vie, na čom je, vie, že sa musí i ďalej   spoliehať iba na seba. Ale keďže sú už tu, môžu ísť ešte ďalej. Teraz   už môžu ísť celkom pokojne. Až sa naľakala, keď si uvedomila, čo by   sa bolo stalo, keby sa bolo splnilo, čo očakávala. Keby sa odrazu   bola otvorila pred nimi lúka, z ktorej, ako vyplašený diviak, bol by   na ňu zaútočil vietor, objal ju náruživým rozmachom v páse a svalil   na zem prv, ako by sa mohla spamätať.
+   </tei:p>
+   <tei:p>
+    Myslí zasa každá na svoje veci. Marta na svoje nové pančuchy   telovej farby a na topánky s vysokými opätkami. Mária na závrat,   ktorý sa jej práve zmocňuje.
+   </tei:p>
+   <tei:p>
+    — Pritiahla som si trochu tuho odedzu dnes ráno, — myslí si, a   rada by odbehla na chvíľu niekam za ker, aby si ju povolila. Ale bojí   sa Marty, ktorá by iste zbadala, ako naraz zmohutnela v páse. A tak   by všetko vyšlo na javo.
+   </tei:p>
+   <tei:p>
+    Naraz... čo to? Obe sa zastavily; zdá sa, že zašly priveľmi   ďaleko, chodník je už nie vyasfaltovaný, les je hustejší a vopred ani   nazad nevidno človeka. Ach, nie, toto ich nezastavilo. Znova sa   vracia ohrdená spomienka na domáce lúky. Zjavuje sa v tomto prostredí   ako vzdialený prelud, ako nápev zabudnutej pesničky.
+   </tei:p>
+   <tei:p>
+    Ba nie, toto nemôže klamať. Je to vôňa materinej truhly, v ktorej   sú uložené svadobné šaty, jej a otcove, a výbava pre dcéry. Och, nie,   toto nemôže klamať.
+   </tei:p>
+   <tei:p>
+    A naozaj jest tu plno materinej dúšky. Obe si odtrhly stonku a obe   naraz pritkly si ju k nosu. Vôňa letného dňa. Vôňa machnatých lúk.   Vôňa usušeného, načuchraného sena, keď ho máš plnú náruč, keď ti   zvonia nebesá nad hlavou a vietor ti fúka pod sukňu a nadúva ju a   pokúša sa vyzliecť ťa. Šteklí ťa popod kolená, pchá sa ti za blúzu a   cíti sa tam ako doma. Dávaš sa pred ním na útek a on ťa prenasleduje,   ihrá sa s tebou, ovíja ťa a olizuje so všetkých strán, až si celá   čistá, ako keby si vyšla z kúpeľa, a vzdávaš sa mu s neskrotnou   žiadostivosťou. Tiež sa takto zadychčíš, ako dychčíš teraz, zavieraš   načisto oči a padáš do trávy. Si celá bledá...
+   </tei:p>
+   <tei:p>
+    — Si celá bledá, Mária, ľahni si do trávy.
+   </tei:p>
+   <tei:p>
+    Líha si do trávy a Marta si sadá vedľa nej. Ešte stále sa to   vzdúva, ešte stále znie v ušiach. Ešte stále sa vracia, tichšie a z   väčšej vzdialenosti, obchádza ju na prstoch a šeptom ju vyvoláva.   Už-už si myslela, že naveky má s tým pokoj, a teraz sa to vracia a   napína jej svaly na krku. Zalieva ju ako príliv morský breh, kolíše,   hojdá, uspáva...
+   </tei:p>
+   <tei:p>
+    Usína ukonaná. A v spánku vynoruje sa predstava, ktorú celé dni   zatláča do podvedomia.
+   </tei:p>
+   <tei:p>
+    Vynoruje sa opäť ako mŕtvola z bahna nad vodu. Vyplaví sa s   nadutým bruchom na povrch, prevracia sa a pomaly sa otáča ako bizarný   kompas okolo vlastnej osi. Azda sa to nikdy neskončí? Kde je a čo sa   s ňou robí? Namáhavo sa rozpamätúva na ono miesto; poznáva zátočinu,   kam ako deti chodievaly púšťať halúzky a íverky, ktoré sa potom   krútily stále v kolese okolo vírivého tancujúceho stredu, a kde raz   našly ženy, keď neďaleko močily ľan, utopeného Fábrych paholka.
+   </tei:p>
+   <tei:p>
+    Azda sa to nikdy neskončí?
+   </tei:p>
+   <tei:p>
+    Naduté brucho, brucho, ktoré sa stále nadúva a neustále viacej a   viacej nadúva. Pokúša sa zatlačiť ho silou pod hladinu (je pritom   celá spotená), ale zakaždým vykĺzne jej zpod dlaní, prevráti sa a   znova sa otáča okolo vlastnej osi. Je ako živé, čosi v ňom žije a   derie sa neodbytne na povrch.
+   </tei:p>
+   <tei:p>
+    Naraz sa zobúdza, vyskočí, obzerá sa dookola.
+   </tei:p>
+   <tei:p>
+    Niet tu nikoho. Vietor vyčesáva posledné šľaky slnečných lúčov   zpomedzi šumiacich stromov. A jeho drusa vyháňa z košiara na druhom   konci chotára kŕdeľ bielych chmár. Pohvizdujú si, čeľadníci nebies,   potichu pomedzi zuby a mávajú vozvysok rukami v širokých   rukávoch.
+   </tei:p>
+   <tei:p>
+    To značí, že čochvíľa bude tma a treba myslieť na návrat.
+   </tei:p>
+   <tei:p>
+    Ale kde je Marta?
+   </tei:p>
+   <tei:p>
+    Mala by tu byť Marta...
+   </tei:p>
+   <tei:p>
+    V náhlom ustrnutí kladie si prsty na pootvorené ústa a pokúša sa   zachytiť doznievajúci šepot nad lesom. Pustí sa za ním. Ale hneď sa   bezradne zastaví.
+   </tei:p>
+   <tei:p>
+    — Marta!...
+   </tei:p>
+   <tei:p>
+    Tichosť medzi stromami vssala jej hlas ako hŕba piesku kvapku   vody.
+   </tei:p>
+   <tei:p>
+    Je iba jediné vysvetlenie, prečo Marta odišla. Odbíja toto   vysvetlenie, hľadá nové, pokúša sa upokojiť. Zlá predtucha znova sa   vracia a po chvíli (prešla hádam hodina) utvrdzuje sa v nej v pevné   presvedčenie. Vošla mimovoľne do lesa, chvíľami sa zastavuje, načúva,   kladie dlaň na ústa a volá:
+   </tei:p>
+   <tei:p>
+    — Marta!...
+   </tei:p>
+   <tei:p>
+    Ale ľaká sa vlastného hlasu a nevládze dokončiť poslednú   slabiku.
+   </tei:p>
+   <tei:p>
+    Prediera sa ďalej pomedzi stromy, driape si šaty, nevie už vôbec,   kde je. Chvíľami vyjde na čistinku, a tu sa leskne mrazivý mesačný   svit, ako nož, ktorým vraždili. Mlčanie je tu dvojnásobne kruté.
+   </tei:p>
+   <tei:p>
+    Všetky sily ju už opúšťajú. Rada by si oddýchla, ale strach, ako   stočené pero, umiestené v jej útrobách, ženie ju ďalej. Je možné, že   sa už Marta vrátila na lúku, že ju tam hľadá. Je možné, že odbehla   iba na chvíľu, spadla, stalo sa jej nešťastie. Je možné, že len   zablúdila a teraz je už doma.
+   </tei:p>
+   <tei:p>
+    A znova beží, znova rozráža kry. Znova padá a znova sa dvíha. Raz   sa jej zdalo, že poznáva miesto, kde sa práve pred chvíľou potkla,   chce sa ta vrátiť, a znova sa zamotáva. Raz už prebehla cez asfaltový   chodník, ale pozde si to uvedomila a nemôže ho znova nájsť. Potom sa   celkom blízko zaligotalo svetielko. (Bolo ich už toľko, ale zakaždým,   keď na niektorom utkvela zrakom, ukázalo sa, že to bola svätojánska   muška.) Ale toto je svetielko opravdové. Chytá sa ho rezignovane. Nie   preto, že by dúfala, ale preto, lebo je to jediná vec nablízku, čo ju   priťahuje, a jej vôľa už nekladie nijakého odporu. A potom sa   vynoruje svetielko druhé a ďalšie; napokon je ich celý rad. Je to   hradská, čo vedie do Viedne. Jedno, ktorým smerom sa pustíš: na   koniec (svojho osudu) vždy dôjdeš.
+   </tei:p>
+   <tei:p>
+    Už počuť hučať Dunaj.
+   </tei:p>
+   <tei:p>
+    A tu je záhradný hostinec, osvetlený papierovými lampiónmi,   rozvešanými na drôtoch pomedzi agáty. Kde sa vzalo naraz toľko ľudí?   Sedia tu poza stoly, smejú sa, spievajú a nahýnajú si z pohárov.   Teraz im začala hrať hudba. Vstávajú, idú po páre do stredu na   prázdne miesto a začínajú tancovať. Pri stoloch sa vyprázdnilo. Je   lepší rozhľad. Keby ti na tom záležalo, mohla by si porátať všetky   pivné poháre na stoloch. Ale už ti na ničom nezáleží. Iba že tu   stojíš a dívaš sa s cesty ponad plot do záhradného hostinca. Vojak   pri tam-tom stole pod agátom zapaľuje si práve cigaretu. O chvíľočku   vstáva a čaká, kým vstane i jeho spoločníčka.
+   </tei:p>
+   <tei:p>
+    Vojak má na pleciach tri gombíky. Je to čatár.
+   </tei:p>
+   <tei:p>
+    Zapálil si cigaretu a postojačky dopíja pivo zo svojho pohára.   Jeho spoločníčka vstáva. Ale dosiaľ je obrátená chrbtom. Berie si   taštičku, čo ležala pred ňou. Má široké naberané sukne a peknú mašľu   na bedrách.
+   </tei:p>
+   <tei:p>
+    Je to Marta.
+   </tei:p>
+   <tei:p>
+    Teraz sa obracia, usmieva sa na vojaka. Marta sa usmieva na   vojaka. Vojak sa usmieva na Martu. Hudba hrá. Vojak sebavedome   odfukuje dym z cigarety.
+   </tei:p>
+   <tei:p>
+    Odchádzajú. Vojak chytá Martu popod pazuchu. Napráva si čiapku na   ucho. Je na niečo veľmi hrdý.
+   </tei:p>
+   <tei:p>
+    Vojak je hrdý na Martu. Marta je hodné dievča.
+   </tei:p>
+   <tei:p>
+    Vojak je trochu podnapitý. Objíma Martu okolo pliec a tisne si   čiapku ešte väčšmi na ucho. Potom sa nachýli k Marte a bozkáva ju. A   potom mľaskne potichu a vťahuje zhlboka dym z cigarety. Marta sa   pritom trochu začervenala. Vidno to, lebo práve idú okolo.
+   </tei:p>
+   <tei:p>
+    Po chvíli zasa bozkal vojak Martu, potom Marta vojaka. Potom idú   ďalej. Ešte sa raz bozkali, a potom ešte raz. A potom Marta ticho   zapískla a vojak sa veselo rozosmial.
+   </tei:p>
+   <tei:p>
+    — Už dosť. Už je tu most.
+   </tei:p>
+   <tei:p>
+    — A most je čo ? Azda sa bojím mosta?
+   </tei:p>
+   <tei:p>
+    Raz-dva, raz-dva, dupocú vojakove kroky po moste.
+   </tei:p>
+   <tei:p>
+    — Azda sa ja bojím mosta?
+   </tei:p>
+   <tei:p>
+    Nebojí sa mosta: smelo bozkáva Martu.
+   </tei:p>
+   <tei:p>
+    Raz-dva, raz-dva.
+   </tei:p>
+   <tei:p>
+    — Ktosi ide za nami.
+   </tei:p>
+   <tei:p>
+    Marta s vojakom zastanú.
+   </tei:p>
+   <tei:p>
+    Mária sa pritlačí k železnej konštrukcii. „Teraz ma uvidia. Nesmú   ma uvidieť.“ Mária sa ešte tuhšie pritlačí k železnej konštrukcii.   Medzi chodníkom pre peších a medzi cestou pre autá je medzera,   potrebná na železnú konštrukciu. Zábradlie je na tejto strane nižšie   ako na strane druhej. Dolu hučí a šumí voda a poskakujú tam červené   svetielka. To je od lampy, čo visí pod mostom, aby lode zďaleka   videly, že je tam most a že musia uhnúť s komínom. Dolu hučí a šumí a   červené svetielka poskakujú s vlny na vlnu. Cítia sa tam celkom   dobre, sú veselé a všetečné, ako deti, keď sa hrajú na slepú babu.   Hučí a šumí tam ako vo mlyne. Čím nižšie sa nakláňaš, tým tuhšie   hučí, tým vyzývavejšie šumí. A náhle sa tam dolu opäť vynoruje to   brucho. Teraz je celkom určité, celkom zrejmé. Naduté a slzké.
+   </tei:p>
+   <tei:p>
+    Vtedy sa vojak s Martou znova pohli. Ich kroky sa rytmicky   vzdiaľujú. Skoro by sa zdalo, že to tikajú hodiny, ktorým dochádza   dych a nezdolejú už merať svoj čas. Čo raz slabšie, čo raz   jemnejšie.
+   </tei:p>
+   <tei:p>
+    Ešte stále znejú.
+   </tei:p>
+   <tei:p>
+    Ešte by maly znieť. Prečo sa náhle zastavily?
+   </tei:p>
+   <tei:p>
+    Priveľmi nízko sa naklonila sestra Mária nad železným zábradlím,   červené svetielka sa na chvíľu rozprskly a odskočily. Ale hneď sa   zasa shŕkly a veselo sa roztančily.
+   </tei:p>
+   <tei:p>
+    O týždeň v Komárne, kam ju zaviezli, aby identifikovali mŕtvolu,   hovorila Marta s rybárom, čo vytiahol Máriu na breh.
+   </tei:p>
+   <tei:p>
+    — Nadutá bola ako mech; nech som dobrý, ani keby mala dvojčatá,   nemohla byť taká nadutá.
+   </tei:p>
+   <tei:p>
+    — A mala?...
+   </tei:p>
+   <tei:p>
+    — Neviem, či niečo mala. Doktori o tom nepovedia nič. A... — hodil   rukou, — všetci utopenci bývajú takí nadutí.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

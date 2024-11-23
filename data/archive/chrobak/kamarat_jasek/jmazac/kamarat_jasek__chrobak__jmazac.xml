@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1937536" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Kamarát Jašek : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     16542
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Kamarát Jašek
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Kamarát Jašek
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     1
+    </tei:head>
+    <tei:p>
+     To sme vtedy boli po výplate a sišli sme cez nedeľu dolu do   dediny. Zámienka vojsť do krčmy bola, pravdaže, vždy naporúdzi: treba   predsa kúpiť strovy od Žida na celý budúci týždeň. I mäsa, dohánu, no   a trochu i tej pálenky. Ale - aby ho Boh skarhal — keď si zasadneš s   kamarátmi a si aspoň trochu pri groši, nikdy nevieš, kedy zasa   vstaneš.
+    </tei:p>
+    <tei:p>
+     Boli sme vtedy štyria — a či piati?: Jaško Mihálik, Madlušovci   dvaja, ten chrchliak, čo sme mu ani na meno nevedeli prísť, a ja.   Piati teda. Všetci prespoľní. Posbieranci takí. Madlušovci boli z   Hrona, Jašek z Oravy, tá pliaga chrchľavá, skaza ho vie, odkiaľ, a ja   zo Spiša. Faktor, čo sme sa s ním sjednali do šlógu, sa nikdy   nestaral, odkiaľ si; hlavne aby si bol spôsobný ku drevu a nechcel   viac ako dvadsiatnik od kubíka. Čert vie, ako sa ten chrchliak medzi   nás dostal. Prišiel raz pod večer do koliby, že — tak a tak — utiekol   vraj z Ilavy, dva týždne sa túla po horách, žandári sú mu stále za   pätami, ani vraj už nepamätá, kedy sa naostatok poriadne najedol.   Sľutovali sme sa nad človekom. Nachovali sme ho, vyspal sa u nás.
+    </tei:p>
+    <tei:p>
+     Na druhý deň — čo nechceš — prišiel za nami faktor. A tu vysvitlo,   že tí dvaja sú starí známi. Nedal by som deravý groš za tú ich   známosť. A nič by som sa nedivil, keby mi bol dakto pošepol, že sa s   tým chlapom pred rokmi niekde poplietol a že na to veľmi nerád   spomína. Spôsob, akým sa zvítali, hovoril viac, ako každá rozprávka.   Chlapík, keď videl faktora blížiť sa ku kolibe, schoval sa za dvere,   a sotva faktor vstúpil, zavrešťal mu zpoza chrbta:
+    </tei:p>
+    <tei:p>
+     — Kot-kot-kot-kot-kodák!
+    </tei:p>
+    <tei:p>
+     Do faktora ako by hrom udrel. Zbledol a začal sa triasť na celom   tele. Ale neopovážil sa otočiť hlavu, kým sa mu chrchliak   nerozrehotal za chrbtom. A tu naň skočil, zaklial náramne a začal ho   hrdúsiť oboma rukami. Bol by ho na mieste zamordoval, nebyť nás.   Nikto z nás nevedel, čo mu to kotkodákanie pripomenulo, ale muselo to   byť niečo sakramentského, lebo chlap bol celý bez seba. Z pysku sa mu   penilo a žily ako povrazy navrely mu na šiji. Nikdy sme sa   nedozvedeli, aké mal účty s tým prišelcom. Keď sa utíšil, nechali sme   ich vedno v kolibe. Celé dopoludnie sa tam spolu radili. A večer nám   chrchliak oznámil, že sa s faktorom pojednal, že zostane s nami v   šlógu. Fľaša, v ktorej nám faktor nosil pálenku, bola prázdna; ľahko   sme si predstavili to ich jednanie.
+    </tei:p>
+    <tei:p>
+     Tak sa teda k nám prilepil. Vysvitlo, pravda, že všetko o tom   árešte a žandároch bola bájka; spravil si z nás dobrý deň. Trhan to   bol obyčajný. Robiť sa mu nechcelo, celý deň sa v kolibe povaľoval.   Tu ho brucho bolelo, tu mu do členka čosi vošlo. Vždy mal výhovorku,   keď bolo treba kolom podvihnúť, sekerou zavážiť. Ak nedrichmal v   kolibe, túlal sa po salašoch, posielal valachov po pálenku a hostil   sa s nimi na jarke v žinčici uvarenej. Pravda, treba mu zas uznať,   nezabudol po takýchto hostinách nikdy ani na nás; vždy doniesol   stehno, mäkušké a šťavnaté, pod kabátom. A druhá vec, čo mu treba   uznať, je, že spevák to bol zázračný.
+    </tei:p>
+    <tei:p>
+     Spievať vedel, ako — no, prostý človek som a neviem lepšieho   prirovnania — ako onen židovský kráľ, čo sa bol s tou Uršuľou   poplietol. Čert vie, kde sa to v ňom bralo. Hocikedy po robote —   ustatí sme boli ako psi - sadol si k ohnisku naprostred koliby a   znenazdania spustil nôtu. Počúvali sme ho ako žiaci, že sme aj na   spánok zabudli.
+    </tei:p>
+    <tei:p>
+     Odporný to bol ináč chlap, celý vytrasený; duša doň iba spávať   chodila. Ale keď spieval, všetko sa na ňom premenilo, celý naraz   opeknel. Mysleli sme si: ešte šťastie, že niet medzi nami ženskej;   nech ho tak nejaká počuje, sama za ním polezie. Tak vedel človeka   tými pesničkami rozobrať a celého zmäkušiť. A vedel on o tom i sám,   hrdý bol na svoj spev a nikdy v taký čas s nami slova neprehovoril.   Ponúkať ho do spevu bolo preň najväčšou urážkou. Spieval nie nám, ani   vari nie sebe, ale čomusi, čo z neho vypadlo, čo v ňom voľakedy bolo,   ale vytratilo sa rokmi a mrzkým životom. Spomienke nejakej, spomienke   na rodný kraj, spojeniu, krvnému sväzku, ktorý sa celkom uvoľnil a   trvá už len vo zvuku a slovách piesne.
+    </tei:p>
+    <tei:p>
+     Najmladší z nás, Jašek Mihálik, keď ho počul po prvý raz, div sa   nerozplakal, div sa mu k nohám nehodil. Díval sa naň cez celý čas ako   urieknutý. Ani jeden z nás slova nepovedal, a keď skončil, vracala sa   z hory a s temena hôľ jeho pieseň znova k nám a dlho do noci znela   nám v ušiach.
+    </tei:p>
+    <tei:p>
+     Dávno by sme ho boli vyprášili, nebyť jeho piesní. Ale i   Madlušovci, čo akí boli dudroši, náhle ho počuli spievať, zmäkli a   boli by mu svorne, o preteky dávali z ruky žrať.
+    </tei:p>
+    <tei:p>
+     Chrchliak, ako vravím, bol vtedy, tej nedele, tiež s nami. Nepil,   nespieval, len sa chvastal. Natáral nám vyše práva. Aký on má úspech   pri ženách, ako raz vo Zvolene... Eh, načo opakovať tie jeho bájky,   otrávil nás nimi dokonale. Pravda, vyobliekal sa tej nedele ako   pánik; každú chvíľu vyťahoval zrkadielko z vrecúška vo veste a hladil   si naslienenou dlaňou frizúru. Vylízaný bol, ako by sa prinajmenej za   družbu hotoval. No i tak bol ako rázsocha, čo sa na ňu hrnce vešajú.   Mal si sto chutí lapiť ho za tenké hrdielko a zatriasť ním poriadne,   aby opŕchly s neho tie veľkopanské móresy.
+    </tei:p>
+    <tei:p>
+     Ale to nič. Hlavné príde teraz.
+    </tei:p>
+    <tei:p>
+     Zvečerilo sa. Žid začal vypratovať stolce zprostred chyže.
+    </tei:p>
+    <tei:p>
+     — Čo, reku, bude, Maxo?
+    </tei:p>
+    <tei:p>
+     — Zábava, — vraví.
+    </tei:p>
+    <tei:p>
+     — To sa poberieme, — navrhuje starší Madluš; — nemáme tu čo   hľadať.
+    </tei:p>
+    <tei:p>
+     — A just zostaneme! — zvolal chrchliak a búšil päsťou o stôl tak   rozkazovačne, ako by sme boli jeho paholci.
+    </tei:p>
+    <tei:p>
+     Ako vravím, všetci sme boli prespoľní a na zábave sme vskutku   nemali čo hľadať. Nemáš nič horšieho, ako zapliesť sa niekomu do   remesla, keď je núdza o dievky. To hneď poháre lietajú, stolce   praštia a nože sa samy od seba vo vrecku otvárajú.
+    </tei:p>
+    <tei:p>
+     Rozvážnemu človeku, ktorý už mal bláznovstvá života z väčšej   polovice za sebou, neprichodilo iba súhlasiť s návrhom Madlušovcov.   Ale čert nechcel, mladému Jaškovi všetky žilky zaihraly, náhle počul   o zábave.
+    </tei:p>
+    <tei:p>
+     Bolo to chlápä neskúsené, ešte s mliekom na brade, fúziky sa mu   sotva prebíjať začínaly, žiadostivé poznať veci, o ktorých dosiaľ len   slýchal od starších. Chrchliak ho svojimi bájkami celkom učaroval;   visel na jeho ústach, keď rozprával o svojich dobrodružstvách, oči mu   svietily, lapal každé jeho slovo. Až mi ho bolo ľúto. Ale mal som   chlapca rád, najmä preto, že bol taký naivný a každú chvíľu mohol sa   prevrhnúť a zmárniť na hocijakom somárstve, a potom i preto, že s   jeho otcom slúžil som dvanásť rokov vojenčinu. Nebol by som za nič   dopustil, aby sa mu čo len vlas skrivil na hlave. Pokladal som si za   povinnosť neopustiť ho.
+    </tei:p>
+    <tei:p>
+     Madlušovci sa zodvihli, my traja sadli sme si do kúta, aby sme   nezavadzali a nikomu neboli na zádrapku. Dali sme si očistomok ešte   po dva deci.
+    </tei:p>
+    <tei:p>
+     O chvíľu prišli Cigáni s basou, husľami a cymbalom. Sotva   spustili, natlačilo sa medzi dvere detvákov a starých báb. Netrvalo   dlho, začali sa trúsiť i parobci s dievkami. A už sa to všetko vrtelo   ostopäť.
+    </tei:p>
+    <tei:p>
+     Zábava bola akurátna, regrútska.
+    </tei:p>
+    <tei:p>
+     Sedeli sme na svojom mieste, dívali sa a počúvali. Dobre nám bolo   tak.
+    </tei:p>
+    <tei:p>
+     Zpočiatku prišlo mi síce trochu ľúto starých kostí, ale ľútosť   prešla po chvíli v tiché, smierlivé porozumenie. Žičil som mladým.   Nech si len virgajú, nech sa tešia. Všetko sme, podľa apoštola Pavla,   skúsili, všetko poznali, a toto bolo zo všetkého najlepšie. Už som sa   nazdal, že obídeme po dobrom. Už sa ma aj driemoty začaly chytať.   Oprel som sa lakťami o stôl a hlava mi ovisla na prsia. Mal som tam   vtedy vdovicu, ktorú som po nedeliach tešieval v zármutku. Netajím,   tešil som sa úprimne na trochu toho tepla, čo ma pri nej čakalo.   Chlapovi, ktorý sa celý týždeň pasuje so zasmolenými klátmi a mrzne   po nociach v kolibe, dobre príde poriadne sa raz vydrhnúť v teplej   vode, zajesť si ľudského jedla, natiahnuť sa vo vyhriatej posteli a   cítiť potom dve nohy a dvoje rúk pri sebe.
+    </tei:p>
+    <tei:p>
+     „Starý somár som, že tu sedím a daromne čas mrhám; každej minúty   je škoda.“
+    </tei:p>
+    <tei:p>
+     Ako vravím, nazdával som sa už, že obídeme po dobrom. Chcel som už   aj vstať, drgol som lakťom do Jaška.
+    </tei:p>
+    <tei:p>
+     — Poďme, reku.
+    </tei:p>
+    <tei:p>
+     Ale Jašek visí očami kdesi v druhom kúte. Strhol sa, díva sa na   mňa nechápavo a celkom poplašene.
+    </tei:p>
+    <tei:p>
+     — Čo je, čo sa stalo ? — opytuje sa zjašene, ako by sa prebral z   najtuhšieho spánku.
+    </tei:p>
+    <tei:p>
+     — Nič, reku.
+    </tei:p>
+    <tei:p>
+     Podíval som sa v smere jeho pohľadu, a priam som pochopil.   Vdovica, vyhriata posteľ a všetky príjemnosti, čo ma čakaly, pripadly   mi v zápätí malichernými a ničomnými, potecha z nich sebeckou. „Čo   tebe, starému capovi, treba ženskej? Tuto chlapcovi div jazyk z huby   nevylezie, toho si vartuj. Hľa, čo sa porobilo, kým si drichmal s   hlavou na stole, teraz je už neskoro zachraňovať.“
+    </tei:p>
+    <tei:p>
+     Díval som sa s boku na chlapca; hneval som sa a hanbil ukrutne za   seba. Ale za nič na svete nebol by som mu teraz povedal ostrejšie   slovo. Vystalo by od neho, že by mi odpovedal niečo, čo by potom celý   život ľutoval. Bolo by to, ako keby si psovi kosť zpred samého pysku   odchytil. Ďakoval som Bohu aspoň za to, že som v chvíli pochopil   situáciu a zadržal slovo, čo som už mal na jazyku. Zbadal som, že je   tu na vážkach viac ako zdravá koža, bez ktorej pravdepodobne z krčmy   odídeme, že je na vážkach priateľstvo medzi Jaškom a mnou. A nejaký   zub alebo zlomené rebro vždy radšej obanujem ako dobrého   priateľa.
+    </tei:p>
+    <tei:p>
+     Dívam sa skúmavo, bokom na Jaška. Hľadí stále jedným smerom ako   vyjavený, ako by bol vypil viac, než mohol zniesť. Hľadí strnule, ani   sa nepohne. Len chvíľami poskočí mu ohryzok na vypätom hrdle. Tento   bezmocný pohyb vyschnutého chlapcovho hrdla dojíma ma k slzám.   Nemôžem sa ďalej dívať na jeho trápenie. Znova ho drgnem lakťom:
+    </tei:p>
+    <tei:p>
+     - Vieš, kto je to? — opytujem sa hlasom, nakoľko možno tichým a   ľahostajným.
+    </tei:p>
+    <tei:p>
+     Vyvalí na mňa oči ako na zázrak.
+    </tei:p>
+    <tei:p>
+     — Faktorova dcéra, — vravím pošepky, akoby len pre seba.
+    </tei:p>
+    <tei:p>
+     Komuže na tom záleží, že je to práve faktorova dcéra. Rovnako môže   byť dcérou povetria, letného vánku, šumotu vôd, nočnej rosy. Stála by   tam v kúte zasmradenej krčmy medzi spotenými parobkami rovnako   nedotknutá a čistá. Vidno z nej len tvár s vencom vrkočov nad čelom,   s rumencom a pokojným, detským pohľadom. Vyčnieva zpomedzi tej   mrvenice ako mladá jabloň, po prvý raz zakvitnutá, s panenským pelom   v ružových púpätách. Vidím ju od predku: čelo a oči, nos, ústa a   bradu, a všetko je to čisté a krásne ako hladina rybníka, tichá a   pokojná, keď na ňu padá mesačné svetlo. Ešte dnes točí sa mi z toho   hlava. A tu sa pohne a usmeje, a je to zasa ako hladina rybníka, keď   sa nad ňu vyhodí celkom malá rybka a voda s tichým zašpliechaním   trošíčku sa rozvlní od prostriedka k brehom. A keď to všetko doznieva   potom pri vašich nohách na brehu v celkom tichom a nežnom rytme.   Vidno ju teraz celú; stala si na uvoľnené miesto. Vidno jej plecia,   živôtok s útlymi prsníkmi, boky a nohy, i ruky, složené na páse, s   kytkou v dlaniach. Vidno ju celú, ako tam stojí, skoro ako u svätého   prijímania. Nechodím často do kostola, ale trochu sa na to pamätám:   celkom takto maľujú svätú Pannu. A som presvedčený, že krajšie ju ani   maľovať nemôžu.
+    </tei:p>
+    <tei:p>
+     Toto rozprávanie je dlhé, ale stačila chvíľka, aby si to všetko   videl a pochopil, aby sa ti to všetko vrylo do pamäti a aby si to   dodnes tam nosil a opatroval starostlive ako obrázok s Jezuliatkom,   ktorý si dostal od krstnej matere pri birmovaní. Stačila chvíľka, len   čo si sa podíval na ňu a potom na Jaška, aby si pochopil, že sa tu   robia veci, v ktorých cítiš prst boží, a že keby si do toho siahol   ako do čerešní, skľavela by ti ruka od samého lakťa.
+    </tei:p>
+    <tei:p>
+     Nepozostáva, ako sa na všetko dívať, bezmocne a odovzdane, ako sa   dívaš na dielo podpaľača, na víchor, ktorý horu láme, na skazu   povodne.
+    </tei:p>
+    <tei:p>
+     Dívam sa na Jaška, dívam sa na Etelku, dcéru faktorovu, a podívam   sa aj na chrchliaka. (Teraz ma trochu mrzí, že sme mu dali také meno,   nehodí sa nijako do zmenených okolností. Hodilo sa do šlógu a medzi   chlapov, ale náhle vstúpila na scénu ženská, pripadá mi hrubé a   neúctivé. Ale nedá sa nič robiť; musíme brať veci, aké sú.) Chrchliak   — hneď na to prídem — sedí za vrchstolom, cigareta mu visí z pysku,   smeje sa mi bezočive rovno do očí.
+    </tei:p>
+    <tei:p>
+     — I ty si ešte tu?
+    </tei:p>
+    <tei:p>
+     Ohromilo ma, že sa nič na ňom nezmenilo, že je stále rovnako   protivný a vylízaný. A vtom mi odrazu prišlo na um — a striasol som   sa hnusom pri tej myšlienke — že celá situácia sa podstatne   komplikuje tou jeho odpornou prítomnosťou.
+    </tei:p>
+    <tei:p>
+     Hneď to pochopíte.
+    </tei:p>
+    <tei:p>
+     — Aj tebe sa páči? — opytuje sa ma tým svojím protivným hlasom a   žmurká na mňa významne.
+    </tei:p>
+    <tei:p>
+     — Pekná potvorka, práve taká by sa mi teraz zišla.
+    </tei:p>
+    <tei:p>
+     Že som mu priam na mieste jedno nevsotil! Bol by sa rozsypal ako   rozviazaný snop. Život v ňom beztak visel iba na stopke.
+    </tei:p>
+    <tei:p>
+     Spravil som sa, že nepočujem, ale on brblal ďalej:
+    </tei:p>
+    <tei:p>
+     — Mám už po uši toho smradu vo vašej kolibe, človek sa tam za živa   vyúdi. A tie vaše pulendy už ani vidieť nemôžem, aby ich pes žral.   Vravíš, že je to faktorova dcéra? Musím sa so starým poshovárať.   Neodopre dávnemu priateľovi, keď sa pekne vyštafíruje a príde ho   požiadať o ruku jeho dcéry. Našinec sa už koľké roky svetom potĺka,   už mu je z toho všetkého do ryhania, a on tu nahrabal iste pekné   krajciare. A to ani nemyslím na to najlepšie...
+    </tei:p>
+    <tei:p>
+     Čo povieš, starý? — a tľapol ma dôverne po pleci, ako by sme boli   vedno husi pásli. — Taká panenka by nebola zlá do postele?
+    </tei:p>
+    <tei:p>
+     Toto mi už malo naozaj stačiť. Dosiaľ neviem pochopiť, prečo som   tomu zdochliakovi na mieste hrdlo nevykrútil. Miesto toho som si len   odpľul a obrátil sa mu chrbtom.
+    </tei:p>
+    <tei:p>
+     Ale to mu ani za mak nevadilo. Frflal ďalej a vybudoval si za tú   chvílu celý plán, ako oberie starého naraz o dcéru aj o   krajciare.
+    </tei:p>
+    <tei:p>
+     Neviem, či z tých jeho hnusných rečí počul niečo aj Jašek. Ale,   keď všetko ako sa patrí rozvážim, myslím, že áno. Lebo inak by som si   ťažko mohol vysvetliť, kde sa v ňom odrazu vzalo toľko odvahy. Vstal   a tvár sa mu pritom stiahla v rozhodnú, nebezpečnú grimasu. Stál   chvíľu na mieste a knísal sa s boka na bok ako mladý smrek, keď sa   doň zapre vietor. Potom sa pohol a, stále sa kníšuc, šiel rovno k   miestu, kde stála Etelka, prerážajúc si lakťami cestu pomedzi   tancujúcich.
+    </tei:p>
+    <tei:p>
+     — Ej, bysťu bohu, toto sa nestrojí byť dobre!
+    </tei:p>
+    <tei:p>
+     Hudba stíšila a tí, ktorých odstrčil, stoja a dívajú sa nechápavo   za ním. Ale len chvíľu. V zápätí nastal v krčme rozruch. Zpočiatku   celkom tichý, potom niekoľko ojedinelých hlasov:
+    </tei:p>
+    <tei:p>
+     — Čo je to za mamľasa, kamže sa tlačí?
+    </tei:p>
+    <tei:p>
+     Skočím zpoza stola, ale už bolo pozde: ozval sa temný buchot,   niekoľko nôh a potom pád. Ktosi postavil sa Jaškovi do cesty a teraz   sa váľal na zemi. Jašek hádam ani nezbadal, že niekoho prevalil;   išiel ďalej svojou cestou. Ešte dva-tri kroky, a potom sa vysoko nad   hlavy zodvihla čiasi ruka s pivným pohárom v dlani.
+    </tei:p>
+    <tei:p>
+     Kričím:
+    </tei:p>
+    <tei:p>
+     — Jašek...
+    </tei:p>
+    <tei:p>
+     Jašek sa obráti a ruka s pohárom mu padá prosto medzi oči.
+    </tei:p>
+    <tei:p>
+     Ešte hlas:
+    </tei:p>
+    <tei:p>
+     — Aby si nekríval!
+    </tei:p>
+    <tei:p>
+     A Jašek sa potočí, chce sa niečoho lapiť, padá.
+    </tei:p>
+    <tei:p>
+     Ledva som ho oratoval, málo chýbalo, boli by ho do smrti dokopali.   Nerátal som buchnáty a grgnáty, čo som dostal, keď som sa k nemu   tlačil, ale bolo ich dosť. (Že boly za kamaráta, prijímal som ich   neratané. Inak neviem, ako by sa všetko bolo skončilo.)
+    </tei:p>
+    <tei:p>
+     Nemusím vám hovoriť, že trvalo chvíľu, kým som ho vzkriesil. Úder   bol poriadny. Vyniesol som ho k jarku, čo tečie poza krčmu, a   oblieval ho studenou vodou do tých čias, kým sa mu nekýchlo. Vtedy   som už vedel, že je všetko v poriadku. Mŕtvi nekýchajú. Potom som   bežal do krčmy, doniesol dva deci čistého, vlial mu ich naraz, ako   som to videl pri nebohom Fírerovi, keď mi kravu kuroval. Ak by mu   bolo zapadlo, mohol som ho po chrbte bacnúť. Ale nebolo treba. Pri   treťom dúšku otvoril oči a pil sám ako nemluvniatko.
+    </tei:p>
+    <tei:p>
+     — Hadam, — reku, — pôjdeme, Jaško? — opytujem sa ho opatrne.
+    </tei:p>
+    <tei:p>
+     — Kam?
+    </tei:p>
+    <tei:p>
+     A v jeho očiach vidím pri svetle, čo sem padá oblokom z krčmy,   náhly záujem a nádej, že nie je nič stratené, že to bolo   nepochopiteľné nedorozumenie, že ten úder patril niekomu inému.
+    </tei:p>
+    <tei:p>
+     — Domov, Jaško.
+    </tei:p>
+    <tei:p>
+     Vstal, dotkol sa čela a potom sa podíval na ruku.
+    </tei:p>
+    <tei:p>
+     — To mi spravil ten chrchliak.
+    </tei:p>
+    <tei:p>
+     — Čoby chrchliak.
+    </tei:p>
+    <tei:p>
+     Ale viac neviem o tom povedať. Ako mu aj povedať, že je to   poučenie pre budúcnosť. Nie takto sa ženy dobývajú. To nie je strom,   na ktorý udreš rovno a z celej sily a búšiš doň sekerou, kým sa   nevyvráti.
+    </tei:p>
+    <tei:p>
+     — Radšej poďme.
+    </tei:p>
+    <tei:p>
+     — A chrchliak?
+    </tei:p>
+    <tei:p>
+     — Čo ťa po ňom.
+    </tei:p>
+    <tei:p>
+     — Vezme mi ju.
+    </tei:p>
+    <tei:p>
+     — Neboj sa nič, nie je z tých; dobre vie, že by sa mu dostalo to,   čo tebe. A kto vie, či by ho mal kto oratovať.
+    </tei:p>
+    <tei:p>
+     Šli sme. Veľký voz už vytŕčal kolesá dohora a cesta do šlógu   potrvá nám dobré tri hodiny. Tak- tak, že stihneme trochu sa vyspať   do svitania.
+    </tei:p>
+    <tei:p>
+     Šli sme mlčky až k Dunnerovi na krížnych cestách. A práve tu už   nemôže vydržať a hovorí:
+    </tei:p>
+    <tei:p>
+     — Aby ho Boh skarhal!
+    </tei:p>
+    <tei:p>
+     A potom:
+    </tei:p>
+    <tei:p>
+     — Vojdime ešte, strýko, nalejú nám.
+    </tei:p>
+    <tei:p>
+     Vedel som, že celou cestou myslí iba na to. Vlečie túto myšlienku   so sebou, ako batoh nad hlavou, a ona ho dlávi k zemi. Prišlo to naň   náhle, ako víchor na lán zbožia, ktoré sotva začalo dozrievať a klasy   k nebu vystierať. Ľahko som si mohol predstaviť, akú pohromu nechalo   mu to v duši. Nevie si nijakovsky rady, zadusí sa, ak mu nedám   príležitosť vyhovoriť sa.
+    </tei:p>
+    <tei:p>
+     — Nedbám, reku, vojdime.
+    </tei:p>
+    <tei:p>
+     Vošli sme a on objednal liter. Sedeli sme chvíľu proti sebe ako   zarezaní. Ale vedel som, že to príde. Keď vám chlap takto sedí, díva   sa pod stôl a má v sebe aspoň liter, môžete prisahať, že o chvíľu   začne sa spovedať. Čakal som teda trpezlive a tváril sa, ako by som   nevedel o rozumnejšej veci, ako sedieť v krčme po polnoci, keď ťa   ráno čaká robota od samého svitu.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     2
+    </tei:head>
+    <tei:p>
+     Môžete si hoci myslieť, že je toto rozprávka pre staré baby,   ktorým vypadaly zuby a rady sa uspokoja s hocijakou riedkou kašičkou.   Nemám ani trochu chuti presviedčať vás o opaku. A, na moj‘ veru,   neurazím sa, ani ma nevyruší, keď priam teraz polovica z vás vstane a   odíde drichmať na brloh.
+    </tei:p>
+    <tei:p>
+     Máte niekde v povale za trámom zastrčený kalendár z predlanského   roku; odporúčam vám tam rozprávku Bez Boha na svete. Čože?... Vy ste   ju dosiaľ nečítali? Na moj’ pravdu, musíte tak spraviť čo najskôr.   Povážte len, že táto rozprávka vychodí už tridsať rokov vo všetkých   kalendároch. No môže sa stať, že na rok už nevyjde, a vy sa k nej   nikdy nedostanete. Chytro, chytro, poponáhľajte sa trochu; možno by   ste do smrti banovali...
+    </tei:p>
+    <tei:p>
+     Tak teda, keď sme sa zbavili hluchých a nadutých panáčkov, budeme   spokojne pokračovať v príbehu o Jaškovi a Etelke.
+    </tei:p>
+    <tei:p>
+     Prestali sme v krčme u Dunnera.
+    </tei:p>
+    <tei:p>
+     Sedíme s Jaškom proti sebe za stolom a obaja čušíme ako zarezaní.   Hneď, ako sme vošli, zbadal som, že toto nebude príjemné prostredie   pre dlhé reči. No, ako vravím, vedel som, že celá vec musí sa odbaviť   teraz. Ospalý Žid, bzučiace muchy a žmúrivá lampa pod povalou mohli   síce oddialiť svojím nevľúdnym výzorom rozhodnú chvíľu, ale napokon   predsa len musí Jaškova päsť dopadnúť dunivým úderom na stôl a jeho   ústa začnú po niekoľkých rozpačitých úvodných zakliatiach odčrpkávať   trápenie z preplnených vnútorností.
+    </tei:p>
+    <tei:p>
+     Chcel som ho však predstihnúť. Prv, ako začne, chcel som si sám   vec náležite rozvážiť: nájsť pravý koniec, za ktorý ju lapiť. No   mohol som si vlasy zodrať za ušami, východiska som nenachádzal. Bol   som bezradný a nemotorný, ako by mne samému prichodilo ísť na vohľady   k faktorovej dcére.
+    </tei:p>
+    <tei:p>
+     Vravím: čušali sme, opretí naproti sebe lakťami o stôl. Ako by sme   vartovali mŕtveho... Nápoja vo fľaši nijako neodbúdalo. Ospalý Žid   knísal sa bezradne za pultom. Zdalo sa mi, že prisluhuje podivný, nie   celkom jasný obrad muchám, žajdlíkom, fľašiam a ostatným predmetom v   šenkovni. Dvíha sa mi žalúdok.
+    </tei:p>
+    <tei:p>
+     Premáham sa a dívam sa so strany na Jaška.
+    </tei:p>
+    <tei:p>
+     Sedí s privretými očami, sklesle, skoro sa mi zdá, že drieme.   Nepríjemný pocit, že ak on zaspí a všetky starosti zavesia sa na mňa,   znova ma núti posbierať roztratené myšlienky.
+    </tei:p>
+    <tei:p>
+     Podarilo sa mi ujasniť si aspoň jedno: Odprvoti mal som   podozrenie, že stretnutie Jaška s chrchliakom nie je obyčajným   stretnutím dvoch sokov v láske. Nerozoznával som jasne, čo všetko   priplietlo sa do tohto stretnutia (a dal by som turák za to, keby sa   mi aspoň teraz podarilo rozoznať to), ale tušil som tu veci, proti   ktorým je všetko ľudské počínanie slabé. Tušil som, že obaja,   chrchliak i Jašek, sú len nástrojmi v rukách neznámych a neúprosných   síl. Skôr, ako obyčajné stretnutie dvoch sokov v láske, zdalo sa mi   ono stretnutím dvoch svetov, dvoch rozličných mocností.
+    </tei:p>
+    <tei:p>
+     No nechce sa mi veľmi naširoko o tom rozkladať. Nie som z tých, čo   vedia o podobných veciach hovoriť na dúšok hoci celé hodiny. Ale keby   som vám postavil vedľa seba Jaška a toho... toho... chrchliaka, bolo   by vám jasné, čo chcem povedať. Jeden z nich nosí v hlave celkom iné   veci, ako druhý. Prvému z nich svietia v očiach slnce a hviezdy a   celý je plný tej šťavy a miazgy, čo vyteká zo zdravého pňa, keď doň   zatneš hodne hlboko sekerou. Celý je plný všelijakých tých zázrakov,   čo dávajú tráve rásť, vtákom lietať, vetru duť, ohňu horieť a zelenej   chvoji voňať. Sbiera sa to všetko v ňom, rastie v ňom a množí sa vo   vlažných nociach a v slnečných dňoch. Vláči to so sebou a nevie   dobre, čo si s tým počať. Dlho by mu trvalo, kým by to rozmenil a   vydal v drobných po záletoch, v bitke s rovesníkmi, v piesňach a   pasovaní sa s drevom v šlógu.
+    </tei:p>
+    <tei:p>
+     Druhý — mráz aby ho drvil a síra ohnivá pálila — nemá ani poňatia   o týchto veciach. Prišiel sem bohvie odkiaľ; nohy má ako triesky,   celý je vytrasený a zmrštený, žltý a bez šťavy — ako zemiaková vňať v   jeseni. Každé slovo, čo vypustí z úst, smrdí ako zaparený hnoj. Ak sa   s ním niekde stretneš, dávaj dobrý pozor: nemyslí na iné, len ako by   ťa čo najľahšie napálil. Cítiš, že si proti nemu bezmocný. Všetky   rekvizity, čo si nasbieral medzi statočnými ľuďmi, nepomôžu ti ani   trochu. Stojí ti v ceste a smeje sa ti bezočivo do očí. Vyzná sa v   tlačenici a vie o fígľoch, o ktorých sa tebe ani nesníva.
+    </tei:p>
+    <tei:p>
+     O čo ľahšia je pomoc, keď sa ti takto postaví do cesty chlapík,   kovaný z toho istého železa, ako ty. Počkáš si naň pred krčmou a   povieš mu svoje rovno do očú. Potom mu jedno vsolíš. Najlepšie medzi   oči. Ak sa s tým uspokojí, môžeš ísť spokojne spať: druhý raz ti do   kapusty nepolezie. Ak by mal málo, vsolíš mu ešte jedno. Môže sa,   pravda, stať, že on má päsť trochu tvrdšiu, ako je tvoja. Odnesieš si   potom pár zlomených rebier. Ale v každom prípade budeš napokon   vedieť, na čom si.
+    </tei:p>
+    <tei:p>
+     Ale nemôžeš si počkať na chrchliaka. Nemôžeš sa predsa biť s   chmárou na nebi. Ale ani so smradom, čo vystupuje z hnojnice. A   rovnako sa nemôžeš biť s tou clivou nôtou, čo sa k tebe vracia v   mrazivých nociach z hory a s temena hôľ. Nemôžeš zlámať väzy   nepobadateľnému chveniu v svojich údoch, ani úzkosti, čo sa ťa   zmocňuje pri dotyku sveta, ktorý nepoznáš, iba tušíš za tými jeho   brblavými rečami.
+    </tei:p>
+    <tei:p>
+     Ale kam sme sa to dostali? Aký osoh môže byť z takýchto myšlienok?   Napokon sa naozaj ukáže, že je toto rozprávka pre staré baby, ktorým   vypadaly zuby.
+    </tei:p>
+    <tei:p>
+     Starajme sa o svoje veci:
+    </tei:p>
+    <tei:p>
+     — Dopijeme, Jašek.
+    </tei:p>
+    <tei:p>
+     Vypili sme. Zmrštil sa pritom, ako by mu octu vlial medzi   zuby.
+    </tei:p>
+    <tei:p>
+     — Tebe už ani z apatieky keby doniesol, nepomohlo by ti, — myslím   si a dívam sa na neho smutne.
+    </tei:p>
+    <tei:p>
+     Odstrkuje pohárik a mŕšti sa tak ubolene, ako by mu palce do   kliešťov stískal.
+    </tei:p>
+    <tei:p>
+     — No, čože, Jašek,— vravím mu, ako by som sa prihováral človeku,   ktorý už leží na márach, — azda sa necítiš dobre?
+    </tei:p>
+    <tei:p>
+     Mám strašne malú nádej, že sa zmôže na odpoveď. Ja, starý cap,   mával som vždy viac šťastia v podobných veciach, ako zasluhovala moja   chlpatá papuľa. Neviem si ani poriadne predstaviť to jeho trápenie.   Býval som hrdý na svoje lacné úspechy, no teraz po prvý raz sa za ne   hanbím. Tvárou v tvár Jaškovmu trápeniu pripadajú mi žalostne úbohé a   podlé.
+    </tei:p>
+    <tei:p>
+     — Na moj’ dušu, chlapče, radšej by som ťa videl na márach, ako v   takomto trápení, — vyhŕklo zo mňa náhle a skoro zlostne.
+    </tei:p>
+    <tei:p>
+     On sa na mňa podíval prekvapene, ako by si až teraz uvedomil, že   som bol svedkom všetkého od začiatku.
+    </tei:p>
+    <tei:p>
+     — ... s takouto grimasou na tvári, — dokladám chabo na   vysvetlenie.
+    </tei:p>
+    <tei:p>
+     Nemyslel som veru, že ho tým veľmi poteším. Rozmazával prstom   mláčku vína na stole. Ale odrazu zdvihol oči a povedal jasne, hlasom   podivne pokojným.
+    </tei:p>
+    <tei:p>
+     Povedal:
+    </tei:p>
+    <tei:p>
+     — A čo vy o tom viete, strýko?
+    </tei:p>
+    <tei:p>
+     Tu máš, reku: čo ja o tom viem?
+    </tei:p>
+    <tei:p>
+     — Videl som, ako ťa pohárom medzi oči klkli.
+    </tei:p>
+    <tei:p>
+     Zasmial sa veselo a nahlas, ako by som bol povedal najlepší vtip.   A s celkom nečakaným výrazom pochopenia pokýval prisvedčive hlavou.   Prehol sa na stoličke, ruky zastrčil do vrecák a zadíval sa   bezstarostne do povaly.
+    </tei:p>
+    <tei:p>
+     To ma už načisto pomýlilo: čakal som všetko, len nie tento veselý   smiech a múdry výraz na tvári. Náhle vidím, že predo mnou nesedí   neskúsený a nemotorný Jašek, ale mocný a rozhodný chlapík.
+    </tei:p>
+    <tei:p>
+     — Nazdávate sa, strýko, že to...— a mykol hlavou ponad plece, —   stalo sa naraz a nepripravene, že ani neviem, ako sa stalo?
+    </tei:p>
+    <tei:p>
+     Čušal som a hľadel do stola. Hanbil som sa, že som sa tak pred   sebou pýšil svojím mudrlanstvom a skúsenosťou i náramnou ochotou   pomôcť chlapcovi. Hľa, ako som si to vyrátal: buchne päsťou a začne   sa spovedať. Bude kliať a nadávať, rozbíjať poháre. Vybúri sa a   všetko bude zas v poriadku. Ale miesto toho sedí on teraz pokojne a   pokojne mi vraví:
+    </tei:p>
+    <tei:p>
+     — Nazdávate sa, že ma to prikvačilo ako tchora do pasce a že mi   musíte pofúkať ranu na čele, lebo ste starší a skúsenejší?
+    </tei:p>
+    <tei:p>
+     Tuhľa máš, čo si hľadal. Radšej by som bol zdržal pätoro   zaúch.
+    </tei:p>
+    <tei:p>
+     — Bolo to vo mne dávno. Dávno predtým, ako som prišiel medzi vás   do šlógu, dávno predtým, ako som videl... — tu sa trochu zháčil,   zahryzol si do gamby, ale potom povedal jasne a pokojne: ... — ako   som videl ju.
+    </tei:p>
+    <tei:p>
+     Nestihol som sa zadiviť nad obsahom jeho reči. Na prvý raz udivila   ma viacej reč sama. Spôsob, ako vyberal a kládol k sebe slová. To   akosi nebola reč naša, tvrdá a neohybná, akú počuješ v šlógu a pri   kosení. Bolo v nej čosi jemnejšieho. Čosi, čo bolo podložené aj   inakšími zážitkami, ako je dorábanie chleba a sena. Ja, čo vám to tu   rozprávam, ako som to od neho vypočul tej noci v krčme u Dunnera a   potom za cestou do šlógu, sotva som si zapamätal doslova tú jeho reč.   Ale zostala mi z nej taká divná spomienka, ako by som bol býval   svedkom soslania Ducha svätého na apoštolov, ktorým sa rozviazaly   jazyky a začali v zápätí hovoriť siedmimi rečami. (Veď ste sa o tom   učili v biblickej histórii.) Stále mám na mysli túto spomienku, ako   vám to tu rozprávam. A uľahčilo by sa mi veľmi (v tomto rozprávaní   totiž), keby som vás mohol presvedčiť, že na toho chlapíka v   zasmradenej krčme u Dunnera vskutku sostúpil Duch svätý.
+    </tei:p>
+    <tei:p>
+     Keby bol chlapík vzdychal alebo klial a trieskal pästou na stôl,   ako som to čakal a ako sa to robí, nedbám, mohli by ste si myslieť o   celej veci svoje. Ale že vravel pokojne, jasne a najmä isto,   presvedčilo, keď nie vás, aspoň mňa, že som bol svedkom fígľa, ktorý   nemohol byť ďaleko od onoho z biblickej histórie. A tiež som už videl   všelijaké veci, ktoré sa zprvu nijako neprataly do mojej tvrdej   kotrby...
+    </tei:p>
+    <tei:p>
+     No nechajme to. Bude ešte príležitosť pohovoriť si o tom. Zavri   papuľu a rob sa, že všetkému rozumieš. Chlapčisko žmurká na teba   šibalsky a vraví nedbalo, ako keby sme tu sedeli len tak z dlhej   chvíle:
+    </tei:p>
+    <tei:p>
+     — Hádam pôjdeme, strýko; noc je už krátka a cesta ešte dlhá.
+    </tei:p>
+    <tei:p>
+     Vstávam poslušne ako žiačik. Mohol ma vyzvať, aby sme šli hoci do   pekla jazerného, bol by som ho vyprevadil.
+    </tei:p>
+    <tei:p>
+     — Zaplatíme!
+    </tei:p>
+    <tei:p>
+     Žid sa preberie a naraz je samá ochota.
+    </tei:p>
+    <tei:p>
+     A už si aj vykračujeme hore Bociankou po hradskej popod horu.   Mesiac ešte kdesi drichme, dávaj si dobrý pozor pod nohy. Pri horárni   odbočuje cesta do Svídovskej doliny. Cesta? Čerta vypĺznutého! Samá   skala je to a jarok. Potkýnaš sa a prevŕhaš ako nadratý, hoci poznáš   každý strom popri ceste. Chlapcove reči mútia ti hlavu. Povyše   Horného skoku začína chodník príkrejšie stúpať; zadychčíš sa   poriadne, kým vyjdeš na Prieslop. Tu sa dolina rozšíri, stromy   ustúpia a chodník sa stratí v mokrej tráve. Vtom sa rozvidní, mesiac   vyskočí nad Hadí grúň a ponáhľa sa po jeho hrebeni ako rozospatý   korheľ z krčmy. Všetko vidíš pod sebou ako na dlani. Teraz už len   najtiaž prevaliť sa cez sedlo (vidno už osamelý sihliak na jeho   hrebeni), dolu sa už pôjde veselšie. A potom je to už len kúsok, hneď   sme tam.
+    </tei:p>
+    <tei:p>
+     Nepovedali sme si veľa za cestou. V dlhých prestávkach pomedzi reč   zvonily iba naše podkovičky na ceste. Ale každé Jaškovo slovo kyslo   mi v hlave ako cesto na teplom prípecku. Hora dudre svoju starú   pesničku, ale toto dudranie ani nepozoruješ. Je známe, máš ho v krvi,   je kus teba. Zostávajú ti iba chlapcove slová. Holé a jasné, belejúce   sa v mesačnej noci ako míľníky popri ceste. Dve-tri pokojné slová,   zhlboka vyvážené a pevne osadené. Potom zas ticho. Znova dve-tri   slová a opäť ticho.
+    </tei:p>
+    <tei:p>
+     Tak sa kladú slová a ticho v dlhých prestávkach vedľa seba.
+    </tei:p>
+    <tei:p>
+     — Celé nešťastie je v tom, že jej podoba, jej úsmev, tvár a oči   boly vo mne dávno vytlačené, ako podoba mušle v kameni... Jej chôdza   a všetky jej pohyby boly mi známe dávno predtým, ako som
+    </tei:p>
+    <tei:p>
+     ju poznal... Vo zvlnení kopcov nášho chotára bolo zvlnenie jej   bokov pri chôdzi. A v šepote ihličia v Tichej doline bol šepot jej   úst, keď sa večer pred spaním modlila Otčenáš... Dotyk jej dlane bol   mi známy z dotyku vetra na tvári a hebkosť jej líca poznal som z   hebkosti mladej trávy... Dávno, dávno mal som ju pred sebou celučkú,   celú... Dávno som bol presvedčený, že jedného dňa stretnem sa s ňou   celkom zblízka, pristúpim k nej blízučko a spýtam sa jej, či sa
+    </tei:p>
+    <tei:p>
+     tiež na mňa trochu pamätá a či ešte má tú kvietkovanú šatku, v   ktorej som ju vídaval, keď som sa na ňu díval s druhého kopca ponad   lúky, zakvitnuté tureckými klincami... Potom by už bolo všetko   ľahké... Jedného dňa spýtal by som sa jej medzi rečou, či už má   nachystanú výbavu... Mimochodom bol by som jej rozpovedal niečo o   svojom kraji, o našej dedine, o dvoch býčkoch, ktoré sme na jar   prisadili... Gazdovstvo je v poriadku, staviská vlani pokryté novým   šindľom. Veci, o ktorých by sa ešte bolo treba dohovoriť, sú strašne   jednoduché. .. Bol som toho všetkého plný dávno predtým, ako som sem   prišiel. Chodil som s tým stále, ako o Vianociach s betlehemom, od   skaly k skale, od stromu k stromu, po všetkých susedoch a známych, u   ktorých som tušil vďačné prijatie. Bolo to ťažké, bolo to krásne a   čisté, preto, že to bolo od nás, z nášho kraja, uvaľkané z tej istej   hliny, čo rodila chlieb, ktorým ma kŕmili. Z dobrej, mastnej hliny,   starostlive povážanej a preorávanej otcom a starým otcom. Sbiehalo sa   všetko v jednom uzle, ako brázdy na úvratiach, blyšťalo a ligotalo   ako čerieslo na pluhu. Bol som presvedčený, že nič na svete nie je   silnejšie, že sa mi nič nemôže postaviť do cesty, lebo všetko je   vymerané, presne určené...
+    </tei:p>
+    <tei:p>
+     Jazyk mal akurátne podrezaný — ten chlapík. Z takého rečníka mali   by hneď na mieste spraviť biskupa, aby ho zástupy počúvaly. Hanbil   som sa za svoje chlpaté uši, ktoré neboly stvorené pre takéto kázne.   Ale rád by som videl hocikoho z vás na mojom mieste, ako by sa bol   ošíval.
+    </tei:p>
+    <tei:p>
+     — Vrav ďalej: počúvam ťa pozorne, a hoci nerozumiem všetkému,   myslím si predsa, že sa všeličomu podučím z toho, čo mi tu vykladáš.   Čo ďalej?
+    </tei:p>
+    <tei:p>
+     — Ďalej už nič. Trochu ma azda prekvapilo, že som sa ňou stretol   práve v krčme, ale hneď som sa spamätal a povedal si, že práve v tej   motanici, smrade a lomoze odráža sa jej krása zreteľnejšie a   bezpečnejšie, ako pod holým nebom, kde by farba jej očú ľahko mohla   splynúť s farbou oblohy. Povedal som si, že práve tak je to dobre,   vstal som a išiel k nej...
+    </tei:p>
+    <tei:p>
+     „A potom si dostal pohárom medzi oči,“ myslím si.
+    </tei:p>
+    <tei:p>
+     — To je teda všetko? — opytujem sa ho nedôverčive.
+    </tei:p>
+    <tei:p>
+     — Všetko.
+    </tei:p>
+    <tei:p>
+     Cítil som sa trochu sklamaným. Nechce azda, aby som si myslel, že   týmto je všetko skončené, že sa teraz môžeme ísť krásne vyspať a ráno   sa znova pustiť do roboty, ako by sa nič nebolo stalo? Azda má ešte   niečo na srdci, ale nechce to povedať predo mnou. Nuž nedbám, nech si   to povie hoci stromom a skalám, ale, úprimne povedané, nezaslúžil som   si takej nedôvery. Uvažujem, ako by som mu to povedal zaobalene.
+    </tei:p>
+    <tei:p>
+     — Vravíš, že je to všetko. No, a čo teraz? Čo spravíme? Či si   myslíš, že keď si sa tu pred starým Sojčiakom pekne vyspovedal, môžeš   ho zas poslať k čertu?
+    </tei:p>
+    <tei:p>
+     Pozrel na mňa prekvapene.
+    </tei:p>
+    <tei:p>
+     — Vieš, chlapče, bláznov si zo mňa robiť nebudeš. Alebo — alebo.   Alebo ťaháme obaja za jeden koniec — a potom, tu máš... moju ruku —   alebo si si tú rozprávku mal nechať pre seba a dať mi pokoj s celou   tou svojou vecou. Beztak tomu dobre nerozumiem.
+    </tei:p>
+    <tei:p>
+     — Nič zato, strýko.
+    </tei:p>
+    <tei:p>
+     — Teraz by si chvíľu mohol počúvať mňa. Azda si nemyslíš, že tými   svojimi rečičkami ženskú omámiš. Takto sa to teda nerobí. Musíme   nájsť inakší spôsob, ako faktora prehovoriť.
+    </tei:p>
+    <tei:p>
+     — Faktora...?
+    </tei:p>
+    <tei:p>
+     Pozrel na mňa zarazene. S faktorom, zdá sa, vôbec nerátal.
+    </tei:p>
+    <tei:p>
+     — Faktora, pravdaže. Nechcem sa pýšiť, ale radím ti, aby si sa   spoľahol na moju starú tekvicu.
+    </tei:p>
+    <tei:p>
+     — Dobre, strýko. Ale o tom sa porozprávame zajtra, — povedal tak   nedbalo, ako len bolo možné.
+    </tei:p>
+    <tei:p>
+     Mal som práve dosť tej jeho chlapčenskej nafúkanosti. Ale vtedy   sme už boli pri kolibe. A mali sme iba toľko času trochu sa vyvaliť a   hneď zas vstávať do roboty.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     3
+    </tei:head>
+    <tei:p>
+     Madlušovci spali. Chrchliaka dosiaľ nebolo v kolibe. Tým lepšie,   reku...
+    </tei:p>
+    <tei:p>
+     Prišiel až v pondelok na mraku. Zďaleka bolo vidieť, ako sa   nafukuje. Vyvalil sa na prieču, prehodil si nohu cez nohu, hvízdal   si, ako by bol v kolibe sám, a čochvíľa vyťahoval zrkadielko,   pozerajúc sa doň. Schválne si zavesil lampáš nad hlavu, aby sa lepšie   videl.
+    </tei:p>
+    <tei:p>
+     A potom začal vyťahovať z náprsnej tašky svoje oplzlé obrázky. Mal   ich celú sbierku.
+    </tei:p>
+    <tei:p>
+     Rozložil si ich v rukách ako karty na hranie a so zrejmým   potešením začal ich študovať. Pchal si ich najprv pod nos, dívajúc sa   zblízka na všetky detaily, potom sa v nich kochal z diaľky, držiac   ich v natiahnutej ruke, zrejme s úmyslom, aby sme i my videli tú jeho   galériu. Vyvracal pritom hlavu, žmúril znalecky očami a mľaskal   jazykom, ako by každú zvlášť koštoval.
+    </tei:p>
+    <tei:p>
+     — Takto by jej to svedčilo najlepšie, — rozhodol sa napokon a   luskol prstmi. — Čo povieš, starý? Bez toho vejára, len v pančuchách,   tuto s malou zásterkou a v klobúku. Klobúk je dobrý... Mohol by byť s   perom... Povedz.
+    </tei:p>
+    <tei:p>
+     Prevalil sa na bok a pchal mi pod nos jednu z tých potvor.
+    </tei:p>
+    <tei:p>
+     Chystal som si práve večeru. V jednej ruke som mal zemiak, v   druhej nôž. Pozrel som na obrázok a potom na nôž. Na nešťastie mal   tupý, okrúhly koniec...
+    </tei:p>
+    <tei:p>
+     — Pravda, najlepšie by jej svedčilo bez zásterky, ale to zas   nejde, móres sa musí zachovať, — brblal ďalej. — Myslím, že by som s   ňou dva-tri roky vydržal. Zpočiatku bolo by treba na ňu vynaložiť   pekný groš; rozumie sa, v handrách taká slečinka nemôže chodiť, ale   to by sa chytro vrátilo.
+    </tei:p>
+    <tei:p>
+     Čert vie, kam mieril so svojimi rečami. Ak nás chcel vydráždiť,   aby sme ho na mieste uškrtili, tak, na moj’ dušu, skoro sa mu to   podarilo. Nebyť toho, že som si nechcel babrať ruky pred večerou,   dávno by som ho bol zahrdúsil.
+    </tei:p>
+    <tei:p>
+     O svoju večeru sa, pravda, nestaral. Čakal, ako vždy, že sa mu   ulezie od niektorého z nás. Vedel byť v týchto veciach náramne drzý.   I toho večera... Keď zbadal, že si hotujeme večeru, vstal so svojho   brloha a začal rad-radom nazerať do hrncov. Nad každým zmrštil   opovržlivé nos; dobre, že doň nenapľul. To už starší z Madlušovcov   nevydržal. Chvíľu sa na neho díval od chrbta, potom rozvážne zodvihol   nohu a kopol ho okovaným krpcom doprostred zadku. Nech ho kopne   trochu slabšie, zaryje nosom rovno do pahreby. Takto preletel bez   škody na druhú stranu ohniska.
+    </tei:p>
+    <tei:p>
+     Rozumie sa, že sme sa všetci rozrehotali na plné ústa. Celá tá   krátka procedúra bola tak šikovne vyrátaná, ako by si ju bol videl na   javisku.
+    </tei:p>
+    <tei:p>
+     V zápätí sa chrchliak posbieral, zvrtol sa niekoľko ráz na mieste,   ako pes na kutisku, potom schytil horiacu hlaveň a hnal sa s ňou na   staršieho Madluša. Ale skôr, ako k nemu pribehol, zodvihol Madluš   znova veličizný krpec, rovno proti chrchliakovej papuli. Ešte krok, a   vybije mu všetky zuby. Ani by pritom okom nežmurkol.
+    </tei:p>
+    <tei:p>
+     Ale práve ten krok chýbal chrchliakovej odvahe. Zastavil sa a   zahrozil výhražne päsťou.
+    </tei:p>
+    <tei:p>
+     — Počkajte, všiváci, ja vám ukážem! — a vybehol s horiacou hlavňou   z koliby..
+    </tei:p>
+    <tei:p>
+     Madlušov krpec sa zasa zvážil k zemi. Pozreli sme na seba a náhle   nám všetkým zmrzol smiech na tvári.
+    </tei:p>
+    <tei:p>
+     — Ej, bohuprisám... — povedal mladší Madluš zčerstva, vyskočil a   schytil vedro s vodou.
+    </tei:p>
+    <tei:p>
+     Všetci sme vedeli, čo to značí. Nad kolibou, ani na sto krokov,   začína sa šlóg. Je tam plno suchého raždia, okliesnených haluzí i   vyschnutého naštiepaného dreva v krásnych, rovných stôsoch. A je tam   i kôra, suchučká ako slama, poukladaná v dlhých, súvislých, od spodku   i od vrchu vetrom predúvanych koňoch. Práve zajtra majú po ňu prísť   kôrkári. Stačí iskra a...
+    </tei:p>
+    <tei:p>
+     Jašek schytil sekeru, ja akúsi žrď a starší Madluš kotlík s   variacou sa vodou.
+    </tei:p>
+    <tei:p>
+     Netrvalo to ani desať sekúnd. Nestihol odbehnúť ani na päťdesiat   krokov. Mladší Madluš s vedrom vody ho už doháňal. Vtom sa tá potvora   zohla, nastavila Madlušovi nohu a ten — aký dlhý, taký široký —   vystrel sa na zem. To isté chcel spraviť staršiemu. Ale ten, na   svojich dlhých nohách, preskočil ho ako barana.
+    </tei:p>
+    <tei:p>
+     A teraz stoja proti sebe.
+    </tei:p>
+    <tei:p>
+     Chvíľočku.
+    </tei:p>
+    <tei:p>
+     Madlušova tvár v žiari horiacej hlavne, ktorú drží chrchliak   vysoko nad hlavou, je hrozná.
+    </tei:p>
+    <tei:p>
+     V zápätí ozve sa zjačanie a potom strašná kliatba.
+    </tei:p>
+    <tei:p>
+     Keď sme dobehli, chrchliak svíjal sa na zemi, kopal a hádzal   rukami. Starší Madluš stojí nad ním s prázdnym kotlíkom v ruke a   vysvetľuje pokojne: — Bolo tam ešte trochu vody; obaril som ho... — A   dokladá: — Prasa.
+    </tei:p>
+    <tei:p>
+     — Chyťte ho, strýko, — vraví mi Jašek a berie ho za nohy.
+    </tei:p>
+    <tei:p>
+     — Daj pozor, kope...
+    </tei:p>
+    <tei:p>
+     Ledva sme ho svliekli do koliby; hádzal sa, ako by mal   nedobrú.
+    </tei:p>
+    <tei:p>
+     Obarenie nebolo také zlé; trochu na pleci a na ľavom líci. Ostatok   ochránily šaty. Ale zato jajčal, ako keby ho na nože bral. Celú noc   sme ani oka nezažmúrili.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     4
+    </tei:head>
+    <tei:p>
+     Na druhy deň našli sme chrchliakov brloh prázdny. Zmizol, ako by   ho bola zem prehltla. Iba smrad z pomády zostal po ňom v kolibe.   Vydýchli sme si všetci. Najviac, pravda, Jašek. Spieval bláznivé   pesničky, robota mu horela pod rukou; znova to bol veselý kamarát   Jašek, čo volal na nás s vrch šlógu:
+    </tei:p>
+    <tei:p>
+     — Hahó! Varuj dušu na doline!
+    </tei:p>
+    <tei:p>
+     A v zápätí rútila sa dolu úplazom podpílená svrčina, žalostne   stonajúc a lamentujúc.
+    </tei:p>
+    <tei:p>
+     Čo deň boli sme bližšie k prieseku, ktorý označoval, kam až máme   rúbať.
+    </tei:p>
+    <tei:p>
+     — Ešte týždeň, a môžu nás mať tu radi.
+    </tei:p>
+    <tei:p>
+     Prsia sa mu dvíhajú sebavedomím a slabiny chvejú žiadostivosťou,   ako žrebcovi, ktorý zvetril čriedu kobýl. Mocný to bol chlap. Pekný,   široký a rovný ako svieca. Stojí podopretý nad svojou robotou, na   tvári má úsmev mäkuškej, načuchranej čečiny a v očiach všetko to   ševelenie a hmýrenie života okolo. Povedať mu niečo nepekného bol by   hriech.
+    </tei:p>
+    <tei:p>
+     — A potom sa dole začne žatva; pôjdeme k starému a tľapneme si.   Uvidíme, čo sa dá robiť.
+    </tei:p>
+    <tei:p>
+     — Vravíš, že sa mu ponúkneš na zbožné roboty?
+    </tei:p>
+    <tei:p>
+     — To sa vie. Či sa var‘ nazdávaš, že si tu budem pupok opekať?
+    </tei:p>
+    <tei:p>
+     — Ej, to už veru raz nie! Držím s tebou, chlapče, — a tľapol som   ho z celej sily po pleci.
+    </tei:p>
+    <tei:p>
+     Rehoce sa mi na plnú papuľu a všetkých tridsať dva zubov svieti sa   mu bezbožne a vyzývavo.
+    </tei:p>
+    <tei:p>
+     — Uvidíme, čo sa dá robiť.
+    </tei:p>
+    <tei:p>
+     — Neboj sa nič. Starý sa dá nahovoriť, keď uvidí na dvore chlapa,   súceho k dievke i do gazdovstva.
+    </tei:p>
+    <tei:p>
+     — A keď sa nedá?
+    </tei:p>
+    <tei:p>
+     — Daj sa mi bože — najde sa inakší spôsob. Nejedna sa zhŕdala a...   pfi, pfi, pfi, — pľujem si s chuťou do dlaní a bol by som si   podskočil od radosti.
+    </tei:p>
+    <tei:p>
+     Íverky vystrekly zpod sekery a robota kypí, ako mlieko z panvice.   Život je krásny a prostý. Sú veci, ktoré patria k sebe, lebo sú si   odprvoti určené. Najdú sa a spoja sa a neodlúčiš ich. Ako sekeru od   dreva, chlapa od ženy, zrno od zeme. O tomto netreba rozmýšľať, lebo   je to prosté a je to tak.
+    </tei:p>
+    <tei:p>
+     Dni sa prehrýzajú robotou k posledným stromom v šlógu a noci   obnažujú svoje čierne loná. Kdesi dozrieva jablko na strome a kdesi   klope chlapská ruka na odchýlenú obločnicu.
+    </tei:p>
+    <tei:p>
+     Nikto z nás nemyslí na chrchliaka. I na jeho hnusné reči sme   zabudli. Obrázky, čo vyťahoval v posledný večer z vrecka, prezrádzaly   síce jasne jeho nečisté myšlienky, ale ani na obrázky nemyslíme.   Všetko je v najlepšom poriadku.
+    </tei:p>
+    <tei:p>
+     V sobotu na obed balíme si už tanistry a čakáme iba na faktora s   výplatou. Jašek je vyholený a vymydlený, ako by rovno odtiaľto mal   ísť na sobáš. Po obede plačkal sa dlho v potoku, v zátočine, kde voda   padá so skaly do dvojmetrovej hĺbky. Hádzal a plieskal rukami okolo   seba, smial sa, prskal a vyrážal podivné škreky, ako by ho niekto   popod pazuchy šteklil. Potom vybehol na breh a skákal nahý a celý   biely s kameňa na kameň popri vode až na poľanu, zaliatu slnkom. Voda   sa na ňom perlila so všetkých strán, ako tam behal a hádzal kamienky   ponad jedľu, čo stojí konča koliby. Tešil sa ako žiak na vakácie.   Skúšal všelijaké bláznivé pohyby, preskakoval borievky, chodil po   rukách, zavesil sa na mocnú haluz a hojdal sa na nej ako opica. Čím   viac sme sa smiali jeho hlúpostiam, tým bol samopašnejší a jeho kúsky   krkolomnejšie.
+    </tei:p>
+    <tei:p>
+     Potom si spomenul na zajtrajší deň, zvážnel, starostlive sa   obliekol do sviatočných šiat, sviazal svoje veci do batôžka a   natiahol sa do tône za kolibou. Myslím, že si chcel znova a napokon   zopakovať pekne po poriadku, čo ho čaká zajtra a pozajtre, rozmyslieť   si ešte raz, čo jej povie, ako jej to povie, čo mu ona odvetí a čo   urobí, keď sklopí pred ním zrak a začervenie sa až po uši ako   pivonia.
+    </tei:p>
+    <tei:p>
+     Toto všetko si akiste zopakoval a potom pokojne zaspal, lebo   všetko bolo jasné a nikde nenarazil na háčik, s ktorým by nebol   počítal.
+    </tei:p>
+    <tei:p>
+     Madlušovci namastili si krpce ovčím maslom a vyložili ich na   slnko, aby masť pekne vsiakla do remeňa. V takých krpcoch chodí sa   ako v perine. Potom zahasili oheň v kolibe, vyniesli riad a zabili   dvercia klincami. A keď už naskrze nemali čo robiť, sadli si pod   stenu a snažili sa odtiaľ porátať pne v šlógu, s ktorým sme sa   lúčili.
+    </tei:p>
+    <tei:p>
+     Konečne prišiel faktor. Zadychčaný, spotený, s palicou v ruke a s   klobúkom v tyle. Ostril som si práve sekeru a robil som sa, že ho   nevidím, kým nezastal predo mnou. Bol zrejme veľmi vzrušený. Vstal   som zo slušnosti a pozdravil ho. Podíval sa na mňa zpod šatky, ktorou   si utieral čelo, ako by ma videl po prvý raz v živote. Potom sa   splašene rozhliadol, obišiel kolibu, odrapil dvercia a vošiel   dnu.
+    </tei:p>
+    <tei:p>
+     Vstúpil som za ním.
+    </tei:p>
+    <tei:p>
+     — Kde je? Kam sa podel? — vybuchol prudko a surovo.
+    </tei:p>
+    <tei:p>
+     — Koho hľadáte?
+    </tei:p>
+    <tei:p>
+     Myslím, že som sa zdal hodne hlúpym, lebo pozrel na mňa zlostne,   netrpezlive opakoval svoju otázku a zaklial ako paholok.
+    </tei:p>
+    <tei:p>
+     — Niet ho tu? Há?
+    </tei:p>
+    <tei:p>
+     Bál som sa o Jaška. Zastával som mu cestu k nemu.
+    </tei:p>
+    <tei:p>
+     — No, čo, starý trkvas, prehltol si si jazyk?
+    </tei:p>
+    <tei:p>
+     — Ja, — vravím a robím svätú tvár, — neviem, koho hľadáte.
+    </tei:p>
+    <tei:p>
+     — Nevieš? Veď ti ja poviem.
+    </tei:p>
+    <tei:p>
+     A vtedy mu už žily navrely na čele a celý sa triasol od hnevu.   Začal zúrivo rozhadzovať čečinu na priečach a pichať do nej   palicou.
+    </tei:p>
+    <tei:p>
+     — Gazda, — vravím trochu pohoršene pre tú jeho zúrivosť, — ak sa   nazdávate, že tu niekoho skrývame, mýlite sa. A ak hľadáte toho...   toho... chrchliaka, čo ste ho chceli tuto zaškrtiť — ten tu   nebol.
+    </tei:p>
+    <tei:p>
+     Vravím mu to pokojne, naladiac tvár na najsmierlivejší výraz. Ale   do neho ako by pichol. Sliny mu vyprskly z úst a blíži sa ku mne s   palicou v zdvihnutej ruke.
+    </tei:p>
+    <tei:p>
+     — Čo, nebol? Odkedy nebol? Vrav, lebo... — a dvíha svoju   bakuľu.
+    </tei:p>
+    <tei:p>
+     Už som sa nazdával, že ho musím obuchom klknúť. Držal som ešte   stále v ruke sekeru. Podíval som sa na ňu kosmo a trochu tuhšie   stisol porisko v dlani. To ho, zdá sa, zarazilo. Zastal a opakoval   svojú zúrivú otázku:
+    </tei:p>
+    <tei:p>
+     — Odkedy nebol? Vrav!
+    </tei:p>
+    <tei:p>
+     — Skoro tri týždne, ako odišiel.
+    </tei:p>
+    <tei:p>
+     — Kam?
+    </tei:p>
+    <tei:p>
+     — Skaza ho vie.
+    </tei:p>
+    <tei:p>
+     — Ja ti dám: Skaza ho vie! Všetci máte v tom prsty, lotri   naničhodní.
+    </tei:p>
+    <tei:p>
+     — Dajte si pozor na ústa, gazda, lebo... — začína ma dojedať jeho   nadávanie. — Najprv nás vyplaťte, potom sa poshovárame.
+    </tei:p>
+    <tei:p>
+     — Čo? Ešte vyplatiť? Okradnú človeka, zbojníci, a ešte majú   smelosť pýtať výplatu. Povedz: boli ste s ním dorozumení?
+    </tei:p>
+    <tei:p>
+     — O ničom, gazda, neviem, — pokúšam sa naposledy ovládnuť. — Ak   nemáte peniaze pri sebe, prídeme si zajtra sami. Ale teraz sa už   practe, lebo...
+    </tei:p>
+    <tei:p>
+     Madlušovci pozreli významne na seba a stavajú sa ku mne. Jašek   pribehol rozospatý a díva sa nechápavo raz na faktora, raz na nás.   Faktor ustupuje.
+    </tei:p>
+    <tei:p>
+     — Len si prídte, všiváci, lotri, dám vás žandárom!
+    </tei:p>
+    <tei:p>
+     Jeho hlas je menej istý a jeho pohyby opatrnejšie. Ustupuje zadkom   z koliby.
+    </tei:p>
+    <tei:p>
+     — Gazda, — vravím za ním, — povedzte, čo sa stalo, a nevyhrážajte   sa bez príčiny.
+    </tei:p>
+    <tei:p>
+     Vtedy už bol na prahu, nahnevane zachlopil dvercia a ešte raz si   odľahčil Kristom, Máriou a všetkými svätými.
+    </tei:p>
+    <tei:p>
+     — Pán gazda, pán gazda, — Jašek bežal za ním a kričí zpomedzi   dverí: — Pán gazda, počkajte!
+    </tei:p>
+    <tei:p>
+     Faktor sa obracia a zdrap nádeje vyhládza mu zhúžvanú tvár.
+    </tei:p>
+    <tei:p>
+     — Pán gazda, nepotrebujete pomoc na zbožné roboty?
+    </tei:p>
+    <tei:p>
+     — Bozaj ma i so svojimi zbožnými robotami, — odvrkol mu pomedzi   zuby a zlostne si odpľul do cesty.
+    </tei:p>
+    <tei:p>
+     Dívame sa na seba ako teľce. Potom ktorýsi z nás hodil rukou, ako   že sa nás celá vec netýka. Možno, že sa netýka, ale predsa nám nedá   pokoja. Jašek je celý zronený; zdá sa, že si uvedomuje iba to, že   jeho plán je pochovaný. Ja rozoberám znova celý výstup ako snop, do   ktorého sa zapotrošila ihla. Prečo sa zháňal za chrchliakom? Okradol   ho? Vyzradil naň niečo? Nič sa nezdá dosť pravdepodobným.
+    </tei:p>
+    <tei:p>
+     — Skúsim ešte raz zajtra, — rozhoduje sa napokon Jašek, — pomoc   iste potrebuje; čert by bol v tom, aby ma nevzal.
+    </tei:p>
+    <tei:p>
+     — Dobre máš, chlapče. A bez výplaty neodídeme. Pôjdeme s   tebou.
+    </tei:p>
+    <tei:p>
+     Vtom mi začnú zvoniť v ušiach chrchliakove slová z posledného   večera: „Takto by jej to svedčilo najlepšie,“ a beťárska predtucha   roztančí sa mi v hlave, ako brok v hrkálke. Nevyslovil by som za   svet, čo mi práve prišlo na myseľ, prehrýzam zlovestné špenie na   jazyku a vravím ako sa dá pokojne:
+    </tei:p>
+    <tei:p>
+     — Hádam, bude lepšie, keď pôjdeme ešte dnes.
+    </tei:p>
+    <tei:p>
+     — Nedbám, ak myslíte, že bude lepšie.
+    </tei:p>
+    <tei:p>
+     — Uvidíme, čo sa dá robiť.
+    </tei:p>
+    <tei:p>
+     — Uvidíme.
+    </tei:p>
+    <tei:p>
+     Bolo to tak, ako som si myslel. Chrchliak bol preč. A s ním   faktorova dcéra i faktorových tisíc zlatých. Bola toho plná dedina.   Všetky reči stekaly do krčmy ako jarčeky hnojnice zo dvorov do   priekopy popred domy. Stačilo ti ta vojsť, a zapadol si po uši do   tých klebiet a škodoradostných ľudských rečí. Keby sa ťa celý prípad   netýkal, mohol si sa v ňom váľať a miesiť ho s pasiou, ako vykysnuté,   lupkavé cesto v koryte. Krčmár si už na to vysúkal rukávy, stál za   stolom a rozkladal na ňom všetky podrobnosti od začiatku do konca.   Lepil ich dovedna, upravoval, formoval, tľapkal a slinil, ako pekár   rožky a žemle. Mal už toho pred sebou peknú hŕbku. Rekonštruoval   znalecky celý priebeh únosu i krádeže a znova a znova vykladal ho   načúvajúcim hosťom, dopĺňajúc stále nové detaily a výmysly.
+    </tei:p>
+    <tei:p>
+     Začalo sa to ešte tej noci na regrútskej zábave. Sotva sme odišli   po neslávnom Jaškovom výpade medzi tancujúcich, spustil chrchliak   jednu z tých svojich pesničiek, čo ti vedela zájsť za nechty a celého   ťa rozhegať. Rozprávam tu len to, čo som počul z druhých úst, ale   dobre si viem predstaviť, aký dojem urobil na tú chasu. Chlapi neboli   ešte natoľko ožratí, aby mu boli pri prvom slove zapchali papuľu, a   dievky boly akiste dosť rozgurážené, aby ich ten chrchliakov spev   pošteklil, kde sú najcitiivejšie.
+    </tei:p>
+    <tei:p>
+     Viacej, pravdaže, nepotreboval. Skončil svoju nôtu, vstal a zahral   si na gavaliera.
+    </tei:p>
+    <tei:p>
+     — Na vlastné oči som videl: celú zlatku hodil Cigánovi do basy, —   duší sa hostinský a dáva pozor, aby nejako neprelial rovášik na   rumplíku. — A potom, videli sme všetci, prešiel rovno k nej a   poklonil sa jej ako princezne: „Smiem prosiť, slečinka?“
+    </tei:p>
+    <tei:p>
+     — Hahaha, slečinka!
+    </tei:p>
+    <tei:p>
+     — Čuš, somár, čože ty vieš o spôsoboch. „Smiem prosiť, slečinka?“   a poklonil sa jej do pása. Pravdaže, bola hneď na mäkko.
+    </tei:p>
+    <tei:p>
+     — Vidí pred sebou pánika, ulízaného, navoňaného, ani sa jej o   takom nesnívalo.
+    </tei:p>
+    <tei:p>
+     — A čo potrebuje taká sopľa viac? Chlapa, ktorý sa s ňou dlho   nemazná.
+    </tei:p>
+    <tei:p>
+     — Čuš, vravím: celú noc sa vrtel okolo nej. Nahučal do nej viac,   ako vedela pochopiť.
+    </tei:p>
+    <tei:p>
+     — A nad ránom stretli ich Kokavci až na Vlčej jame.
+    </tei:p>
+    <tei:p>
+     — V starého stodole, hehehe!
+    </tei:p>
+    <tei:p>
+     — Dobre miesto si vybrali.
+    </tei:p>
+    <tei:p>
+     — Naučil ju ešte tej noci duchov vyháňať.
+    </tei:p>
+    <tei:p>
+     — Iste sa s ňou dlho nemaznal.
+    </tei:p>
+    <tei:p>
+     Babrali sa v tom svojimi svinskými rypákmi, kým nevychutnali každý   detail a každú možnosť. Potom si štrngli a začali znova. Zrejme sa im   dobre pilo na takú mastnú stravu.
+    </tei:p>
+    <tei:p>
+     — A od tých čias chodil za ňou každý večer, noc čo noc.
+    </tei:p>
+    <tei:p>
+     — Slízal kocúr smotánku.
+    </tei:p>
+    <tei:p>
+     — Ibaže mu bolo nepohodlné laziť každú noc oblokom a čakať, kým ho   starý vystrežie. Vyhútal iný spôsob. Vedel, že mu starý dcéru nedá.   Vzal si ju teda sám. Nedalo mu mnoho roboty obalamutiť ju. Sama mu   iste pomohla aj k tej tisícke.
+    </tei:p>
+    <tei:p>
+     To znelo celkom pravdepodobne. Sotva ktorý z nich poznal   chrchliaka, ale nič by som sa nedivil,
+    </tei:p>
+    <tei:p>
+     keby bolo pravda, že mu faktorova dcéra sama vliezla do siete.
+    </tei:p>
+    <tei:p>
+     — Počuješ, chlapče? — vravím Jaškovi potichu a rovno. — Tu sa už   nedá nič robiť. Poď, vyspíme sa.
+    </tei:p>
+    <tei:p>
+     Vravím mu to rovno, ako chlap chlapovi. Ale on ani nepozre na mňa.   Sedí ho tu iba polovička. Druhá polovička spadla kamsi — pod stôl —   neviem kam, neviem ani kedy. Chlap sa rozčesol odhora nadol; kosti a   mäso sú tu, sedí za stolom, opiera sa o ruku, ale to ostatné, čo bolo   za tým, sa kamsi podelo, a chlap pritom ani nemukol.
+    </tei:p>
+    <tei:p>
+     Objednávam liter.
+    </tei:p>
+    <tei:p>
+     — Tu máš, napi sa.
+    </tei:p>
+    <tei:p>
+     Pije na dúšok, ako vodu.
+    </tei:p>
+    <tei:p>
+     Znova mu lejem a on znova pije. A keď už mal dosť v sebe, beriem   ho popod pazuchy a vediem ako decko. Cestou ho víno tak rozobralo,   že, keď sme došli k stodole, kde sme si vyhliadli nocľah, musel som   si ho prehodiť cez plece a vyniesť ako vrece zemiakov hore rebríkom.   Sobul som mu baganče a uložil ho pekne do mäkkého ako nemluvniatko. A   naraz ma pochytil strach: kládol som mu ruku na srdce, načúval jeho   dych, posvietil som si zápalkou a, držiac ju hodne vysoko, díval som   sa mu do tvári, ako tam ležal bez pohybu, bez znaku života, vystretý,   ako keby ho na ražeň stokol a krútil nad pahrebou, až sa celý   zoškvaril a scvrkol, líca mu vpadly a hlava odkväcla na plece.
+    </tei:p>
+    <tei:p>
+     Sedel som tam nad ním a držal ho za ruku, kým ma únava neprevalila   vedľa neho do sena.
+    </tei:p>
+    <tei:p>
+     Zobudil ma šuchot a šramot, keď liezol dolu rebríkom.
+    </tei:p>
+    <tei:p>
+     — Čože mátaš tak zavčasu?
+    </tei:p>
+    <tei:p>
+     Stojí nehybne pod rebríkom, obutý, s tanistrou na chrbte. Díva sa   na mňa zpoza mreží bolesti, ktorá mu natiahla kožu na tvári a zmenila   ho do nepoznania.
+    </tei:p>
+    <tei:p>
+     — Vari by si nenechal starého Sojčiaka samého po tom všetkom?
+    </tei:p>
+    <tei:p>
+     Usmial sa trpko, ako by som to od neho žiadal a on mi chcel   vyhovieť, nasilu a s premáhaním.
+    </tei:p>
+    <tei:p>
+     — Tak čo? Kamže si sa vybral? Mohol by si aspoň na výplatu   počkať.
+    </tei:p>
+    <tei:p>
+     Hodil rukou, ako že nieto na čo.
+    </tei:p>
+    <tei:p>
+     — Dobre teda, chlapče, myslíš si svoje. Ak chceš ísť za ňou,   nedbám. Ale ja zostanem tu.
+    </tei:p>
+    <tei:p>
+     — Tak sbohom sa majte, — zapína si brusliak pod bradou a chystá sa   vykročiť.
+    </tei:p>
+    <tei:p>
+     — Počkaj ešte, musím ti čosi povedať.
+    </tei:p>
+    <tei:p>
+     Kľačím na srube nad rebríkom a hovorím k nemu shora, ako s kancľa.   Vidím na ňom, že by som ho ničím pri sebe neudržal. Ale nechcem, aby   si myslel, že mi je jedno, či odíde alebo zostane.
+    </tei:p>
+    <tei:p>
+     — Choď teda v mene božom. Ale vieš, kde ma nájdeš, keby si niečo   potreboval. Nechcel som si už znova začínať s tou vdovicou tu,   nesvedčí sa mi už myslieť na také veci, ale k vôli tebe vydržím ešte   jednu zimu. Myslím, že sa tu skôr dozviem nejakú novinku o tej tvojej   panenke. Budem vartovať otca, ten najskôr niečo vyňuchá. Potom ti dám   znať, len oznám, kam ti ju mám poslať. A tu máš... na. — Vytiahol som   zpoza opaska mešec a hodil som mu ho k nohám. — Odpáraj futro, nájdeš   tam papier a v ňom stovku. Bude napáchnutá dohánom, ale je pravá.   Odkladal som si to na staré kolená.
+    </tei:p>
+    <tei:p>
+     — Dobre, — vraví potichu. — Ak budem potrebovať, vezmem si z nej.   Tak s Bohom sa majte.
+    </tei:p>
+    <tei:p>
+     — Počkajže, — volám za ním a nakláňam sa so srubu, aby som ho mal   bližšie. Popchlo ma čosi, aby som to, čo mu chcem ešte povedať,   pokladal za mimoriadne dôležité:
+    </tei:p>
+    <tei:p>
+     — Chcem ti ešte povedať, že nech sa státie čokoľvek, budem na   takto rok, rovno na Brtomila, v tej kolibe pred Bystrou, kde sme toho   roku rúbali... Budem tam celý deň a celú noc a budem ťa čakať. Možno   neprídeš, možno ti to vravím zbytočne, možno si na takto rok ani   nespomenieš na starého Sojčiaka. A žičím ti, aby si nemusel naň   spomínať. No, ak ťa život privrzne, ak sa dostaneš do klepca, zíde ti   na um, že na svätého Brtomila nájdeš v kolibe pred Bystrou niekoho,   kto s tebou smýšľa dobre a kto ti azda bude vedieť pomôcť... Tak, a   teraz choď s Pánom Bohom.
+    </tei:p>
+    <tei:p>
+     — Ďakujem, strýko. Zdravý ostaňte. — Cítim v jeho hlase, v jeho   krátkom pohľade viac, ako prostú vďaku. Odvraciam tvár a premáham sa,   aby som sa naň viacej nepozrel:
+    </tei:p>
+    <tei:p>
+     — Sbohom, chlapče... Chvíľa možno vydrží; časy sú stále...
+    </tei:p>
+    <tei:p>
+     Keď sa obrátil, díval som sa za ním dlho so srubu, ako kráčal   neslyšno po mokrej tráve dolu k hradskej, nezastavujúc sa, ani sa   neobzerajúc. Jeho postava pomaly sa zmenšovala, splývala s rannou   hmlou. Bola čo raz menšia, čo raz nejasnejšia, až napokon stratila sa   celkom. Nebolo jej viacej a nebolo viacej na čo sa dívať.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     5
+    </tei:head>
+    <tei:p>
+     Medveďovi v zimnom brlohu nemôže byť lepšie, ako bolo mne tej zimy   u mladej vdovice. Obchodila ma ako princa a kŕmila ako pavúka. A čím   väčšmi som sa zaokrúhľoval, čím viacej sadla zaväzovalo sa mi okolo   pupka, tým viacej si ma vážila, tým väčšie mal som u nej úspechy.
+    </tei:p>
+    <tei:p>
+     Ak som už naskrze nemohol vydržať na prípecku, ak ma už naozaj   všetky hnáty bolely od leňošenia a žiadalo sa mi trochu sa rozkývať,   pár polien rozťať, trochu sečky odrezať, tu hneď bola pri mne a   líškala sa ako mačka: „Šetri sa trochu, oddýchni si; načo by sme mali   paholka.“
+    </tei:p>
+    <tei:p>
+     Hej, hrmenbohov, vedel som, kam mieri s tým večným: šetri sa,   oddýchni si...: bol som na najlepšej ceste stať sa rúčim   prístupníkom.
+    </tei:p>
+    <tei:p>
+     Často, keď takto začala, bolo by stačilo, pozabudnúť sa, trochu   dlhšie zahľadieť sa do jej belasých okáľov, kde to všetko bolo   napísané ako A v kalendári, a budúcej nedele mohly už byť ohlášky.   Neraz chýbal len vlások, aby mi hlava odkväcla na jej plece. Neraz   motalo sa mi už na jazyku to slovko, na ktoré čakala. No zakaždým   spomenul som si zavčasu na huncútsku svoju náturu: Poznal som   pridobre tú svrbľavosť v podošvách, čo sa ti vracia každej jari, ked   vŕšky začnú okopnievať a od juhu zaduje teplý vetrík. V ušiach začnú   ti zvoniť v taký čas tulácke nôty a dlane spejú ti nevysloviteľnou   nedočkavosťou.
+    </tei:p>
+    <tei:p>
+     Ohmatávaš známe predmety, porisko, vidly, okrúhle čiesi boky, ale   dlane neprestávajú špieť, nenachádzajú ukojenia.
+    </tei:p>
+    <tei:p>
+     Tmolíš sa po dvore, túlaš sa po medzierkach, vláčiš nohy po   puchkej, rozmrznutej zemi, vyčkávaš, načúvaš...
+    </tei:p>
+    <tei:p>
+     Počuješ škripot plužných koliesok, počuješ plieskanie biča,   počuješ pískanie vŕbovej píšťalky...
+    </tei:p>
+    <tei:p>
+     Na rozmoknutej ceste vidíš milióny stôp a na nebi túlaju sa   kŕdliky bielych obláčkov.
+    </tei:p>
+    <tei:p>
+     Jedného rána odhrnieš záclonu na obloku, podívaš sa na rozkysnutý,   karpavý svet, priestor vôkol teba sa náhle zúži, povala v izbe sa   sníži, začneš sa dusiť, nevydržíš viac. V náhlom rozhodnutí pohádžeš   sedem svojich slivák do tanistry, zaviažeš frumbie mocným uzlom na   prsiach, stiahneš klobúk na oči a... zmizneš, vytratíš sa ako smrad.   Niet ťa viac, nepovieš nikomu sbohom, si znovu sám, znovu voľný,   znovu ochotný prijímať údery a sklamania...
+    </tei:p>
+    <tei:p>
+     Tak veru. Práve tak. Práve takáto je história môjho života.   Nešťastná história celého môjho života.
+    </tei:p>
+    <tei:p>
+     Sotva sa tej jari okolo Dzura zjavili prví oráči, sotva sa po   dedine začal večierkom rozliehať výskot dievok, ktoré čakaly poza   uhly s vedrami vody na oráčov, sotva začaly cesty osychať a chlapci   krútiť vŕbové píšťalky, vrátily sa zpoza humien známe nôty a   vypĺznuté sľuby dostaly nové, vábivé kožuchy.
+    </tei:p>
+    <tei:p>
+     Celkom tak, ako vravím, vytratil som sa jedného rána z domu svojej   vdovice a nadstavil líca volajúcim diaľkam.
+    </tei:p>
+    <tei:p>
+     Ale, aby som nezabudol a nedal vám príležitosť upodozrievať ma z   toho najhoršieho, pamätal som celú zimu na Jaška. Hľadal som usilovne   spôsob, ako sa dozvedieť niečo určitejšieho o chrchliakovi a   faktorovej dcére. Sbieral som dedinské klebety, ako straka lesklé   sklíčka, a nosil si ich vytrvale na prípecok. Tým som sa vlastne   ustavične zamestnával: postával som popod uhly, vysedúval v krčme a   dával dobrý pozor, aby mi neušla ani jedna novinka. Zpočiatku   vravkovia, takí, čo nemajú celú zimu inakšej roboty, ako cmúľať fajku   a starať sa, aby každá klebeta aspoň päť ráz obehla celú dedinu,   horlive pretriasali a čuchrali udalosť s chrchliakom a faktorovou   dcérou. Snášal som, ako vravím, ich reči ešte teplé na prípecok a,   vyvaľujúc sa na starom kožuchu, prikladal som ich jednu k druhej,   lepil ich dovedna a kumštoval ako šusster, ktorý chce z kúska remeňa   vykrojiť podošvy, opätky, branzole a ešte i zvýšiť pre dcéru na   príštipky. No bola to robota taká daromná, ako keby som chcel vodu   vidlami prelievať. Mohol som si lámať hlavu, ako som chcel, mohol mi   aj pľuzgier navrieť na mozgu, nič som nevyhútal. To hlavné: kam sa   podela faktorova dcéra s chrchliakom, unikalo mi jednostaj pomedzi   prsty. Pltníci, čo sa vrátili z Komárna, tvrdili, že ich videli v   Trenčíne, Mucháľ, čo kupčí s koňmi, stretol sa vraj s nimi až kdesi   pri Košiciach, a chlapi, čo boli na zbožných robotách na Dolnej zemi,   sa dušovali, že práve taký párik videli v Debrecíne. Mohol si si   vybrať. Najskôr by si ich azda našiel v pekle jazernom. Aspoň s   tým... s tým... neviem mu ani na meno prísť, s tým by som sa tam   jedného dňa rád stretol.
+    </tei:p>
+    <tei:p>
+     Napokon aj reči prestaly. Vyhasly ako pahreba na salaši po svätom   Michale. Sám faktor ani sa neukázal medzi ľuďmi. Ak i niečo vedel,   nikomu sa nezdôveril. Bol to preň istotne úder náramný; chystal dcéru   prinajmenej za fiškála — a hľa, tu máš... Proboval som nejako   skmotriť, sa s ním. Nie zo súcitu, ale zo zvedavosti. Azda, reku,   predsa niečo vie. No skoro som životom zaplatil svoju opovážlivosť.   Darmo som sa obliekol do najlepších šiat, darmo si nasadil na tvár   najsvätejšiu grimasu. Keď ma poznal v maštaľnom šere (kydal práve   trús), zazrel na mňa ako na lotra a na pozdrav sotva odvrkol. A keď   som potom začal — pravda, hodne zďaleka — udrel na mňa rovno:
+    </tei:p>
+    <tei:p>
+     — Čo si prišiel? Ká skaza morová... ? Nevyplatil som ťa? Nemáš   dosť? Há?
+    </tei:p>
+    <tei:p>
+     — Ach, reku, gazda, na čo také reči. Len tak som prišiel... Ako   sused k susedovi.
+    </tei:p>
+    <tei:p>
+     — Ja ti dám suseda! Chlpatý ancikrist je tvojím susedom. Pakuj sa   mi s očí. Kým... kým...
+    </tei:p>
+    <tei:p>
+     Pomlčka bola veľmi významná. No chcel som skúsiť ostatný   tromf:
+    </tei:p>
+    <tei:p>
+     — Á, veď ja nič. Keď nechcete, nemusíte... Prišiel som vám len   povedať, že som sa dozvedel, kam zmizol ten trhan s vašou dcérou. Ale   keď nechcete počúvať... — mrdol som plecom, ako že nedbám.
+    </tei:p>
+    <tei:p>
+     Nedal sa však nachytať. Zavrčal ako pes na ježa a hnal sa po mne s   vidlami. Videl som mu na očiach, že, ak neuskočím, je schopný preklať   ma.
+    </tei:p>
+    <tei:p>
+     Od tých čias vzdal som sa všetkého. Faktor zrejme preklial dcéru   do čiernej zeme. I keby sa dozvedel, kam sa podela, nešiel by za ňou.   A vyšmáral by ju bičom zo dvora, keby sa mu sama vrátila.
+    </tei:p>
+    <tei:p>
+     Takáto to teda bola partieka. Posúďte sami, či sa človeku   vyplatilo hlivieť na prípecku. Najmä keď pri tom ešte reskiroval, že   napokon, v slabej chvíľke, predsa len vstrčí šiju do toho chomúta,   ktorého nech sa vystríha každý, kto má radšej nad hlavou kus   statočného, vysokého neba, ako kus začmudenej povaly.
+    </tei:p>
+    <tei:p>
+     Vám, čo ste to už skúsili, nemusím viac vravieť. A vám, čo ešte   máte šiju voľnú, odporúčam, aby ste si len predstavili seba   zaseknutého ako psa medzi dvermi. Von nemôžeš a zdnuky ťa hlušia   varechou poza väzy.
+    </tei:p>
+    <tei:p>
+     Bŕ, až ma zimomriavky prebehly.
+    </tei:p>
+    <tei:p>
+     Hajdy teda zčerstva o dom ďalej! Kým cesty neoschnú! Kým zem   puchne nevyplytvanou silou! Kým prúdi v haluzí stromov nežná miazga!   Kým chlapské srdce kypí nespútanou túhou! Kým sa prsia nadúvajú silou   a odvahou! Hajdy zčerstva, kým ťa nohy nosia cez vŕšky a doliny, cez   mestá a dediny.
+    </tei:p>
+    <tei:p>
+     Putoval som týždne a mesiace. Dakedy prešiel som na dúšok celú   stolicu, dakedy ledva som sa dovliekol od dediny k dedine. Niekde   zastavil som sa na mesiac, inde nevydržal som ani hodinu.
+    </tei:p>
+    <tei:p>
+     V tie časy dalo sa ešte takto putovať: Tu ktosi potrebuje chlapa   ku stavbe, tu k zbožným robotám, tu sa trafí vyhriata posteľ s   peknou, okrúhlou kôstkou, tu je dobrý i chĺpok mochu s hviezdnatým   nebom nad hlavou. Všeličo sa pritrafí, na všetko si súci: kolom   podvihnúť, kosou sa ohnať, ženu oblapiť, krčmára ozbíjať. Ani   nezbadáš, ako sa ti míňa čas. Spamätáš sa iba v Račištorfe pri   Prešporku, keď ti jedného dňa udre do uší známa nôta. Jedna z tých,   čo spieval chrchliak...
+    </tei:p>
+    <tei:p>
+     Nie, niet ho tu. No spomenieš si na svoj sľub: Nedávno mali sme   Jakuba, o mesiac je Brtomila. Sľúbil si komusi, že toho dňa budeš na   poľane pred Bystrou.
+    </tei:p>
+    <tei:p>
+     Lenže, ako ta prídeš s prázdnymi rukami?
+    </tei:p>
+    <tei:p>
+     Kopeš do skalnatej zeme vinohradu, celý si už krivý od bolesti v   krížoch a tvoj sľub pletie sa ti ustavične pomedzi nohy.
+    </tei:p>
+    <tei:p>
+     Cítiš odrazu ničomnosť celého svojho života. Vidíš, že je to len   obyčajná zbabelosť, čo ťa ustavične ženie s miesta na miesto a bráni   ti priložiť ruky k trvácemu a statočnému dielu. Hľa, hrozno na   viniciach sa nalieva, ženy priberajú okolo pása, obilie zreje. Ale   kde je to, o čo si sa sám zaslúžil? Veci silné a stále, ktorými   uskutočňuje sa smysel života, pretože majú moc množiť sa a   oplodňovať, unikajú ti pomedzi prsty, nakazené malomocnosťou každého   tvojho pohybu. Kde je strom, ktorý si sám zasadil? Kde žena, ktorú si   obťažkal? Kde dom, ktorý si postavil? Odvrhol si všetky príležitosti,   aby si naplnil svoj život poslaním, pre ktoré bol určený. Hľa, temer   si zabudol i na túto, hádam ostatnú príležitosť, pomôcť k šťastiu   dvom ľuďom, ktorí sa môžu mať radi.
+    </tei:p>
+    <tei:p>
+     Vláčil som sa s týmito myšlienkami deň-dva po vinici. Napokon   odhodil som motyku a dezertoval. Po prvý raz v živote nie preto, aby   som unikol z práce a z miesta, ktoré mi začínaly smrdieť, ale preto,   aby som uskutočnil myšlienku, ktorá ma posadla: Musím najsť Etelku,   musím najsť chrchliaka. Tohoto, aby som mu vykrútil krk, tamtú, aby   som ju zaviedol na Brtomila k Jaškovi.
+    </tei:p>
+    <tei:p>
+     Najbližšie bolo do Prešporka.
+    </tei:p>
+    <tei:p>
+     Ale hnalo ma sem i čosi viac, ako len jeho blízkosť. Prečo by   Etelka s chrchliakom nemohli byť práve v Prešporku? Je to možné, je   to skoro pravdepodobné. Podľa toho, čo mal chrchliak s Etelkou za   lubom, musel s ňou utiecť do mesta. A to do takého, kde sa hovorí po   nemecky. Pretože chrchliak, okrem po našsky, inakšie nevie. Ale po   nemecky vie, slúžil vo Viedni...
+    </tei:p>
+    <tei:p>
+     Kĺkol som sa do čela a nadával si do somárov, keď mi prišla na um   táto myšlienka. Ako som len mohol nespomenúť si na ňu už dávno, prv,   ako som pustil za nimi Jaška. Boli by sme ich možno dostihli, boli by   sme zabránili všetkému, čo sa od tých čias istotne porobilo.
+    </tei:p>
+    <tei:p>
+     „Starý blázon, starý sprostý cap,“ častoval som sa   najvyberanejšími nadávkami a skoro behom, horiac netrpezlivosťou a   chlapčenskou snahou napraviť staré chyby, hnal som sa po hradskej do   Prešporka.
+    </tei:p>
+    <tei:p>
+     „Pravda,“ začal som uvažovať triezvejšie, aby som nezaplašil   vábivú vyhliadku, že možno ešte toho dňa vykrútim chrchliakovi krk,   „pravda, rovnako, ako v Prešporku, môžu byť aj vo Viedni alebo i   ďalej v Rakúsku. No najbližšie je Prešporok.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     6
+    </tei:head>
+    <tei:p>
+     Ľahko sa ti povie: Najbližšie je Prešporok. Ale nerátal si vôbec s   tým, koľko je tu všade krivých uličiek, strmých schodov, koľko   tmavých kútov a záludných priechodov v starých a škamravých domoch.   Cez deň zdá sa to všetko náramne nevinné a celkom prítulné. Ale v   noci začne sa to tu hýbať a hemžiť podivnými, váhavými tôňami.   Vynoruju sa nečakano dva kroky pred tebou z temných dier a lezú ti   oproti ako veliké, lenivé a hladné vši. Za každým rohom číha na teba   v slizkej tme čosi odporného, záškodného a plazivého. Prechádzaš   takou ulicou s napätým sluchom, ostražite, pripravený každú chvíľu   uskočiť.
+    </tei:p>
+    <tei:p>
+     A v prvé dni vskutku som aj uskakoval do svetlejších častí mesta.   Utierajúc si chladný pot s čela, díval som sa potom ukradomky po   tvárach okoloidúcich, hľadajúc v nich niečo príbuzného svojim   zmäteným pocitom. No zrejme každý okrem mňa cítil sa tu celkom   bezpečne a isto. A predsa: vedel som i ja, po čo som sem prišiel a   kde to mám hľadať. Čoho sa teda ľakám a pred čím ustupujem?
+    </tei:p>
+    <tei:p>
+     Vec je vlastne veľmi jednoduchá: Odjakživa som sa mestu vyhýbal a   naďaleko ho obchádzal. Jeho prostredie nezdalo sa mi nikdy vhodným   živlom pre človeka našských spôsobov.
+    </tei:p>
+    <tei:p>
+     Láry-fáry, pomyslíte si, aká odrazu háklivosť, aká útlocitnosť.   Ale ja vám vravím, že je to nie nijaká háklivosť, nijaká útlocitnosť.   Človeku, ktorý bol naučený dívať sa ľuďom prosto do očí a volať veci   pravým menom, ťažko príde odrazu sa všelijako vykrúcať, obšmietať a   brať medzi prsty ihlu, keď bol privyknutý narábať s kolom a   sekerou.
+    </tei:p>
+    <tei:p>
+     Ale nechajme to. Nikam by sme sa takýmto mudrovaním nedostali.   Vráťme sa k tomu, o čom sme začali, k tomu, po čo som sem   prišiel.
+    </tei:p>
+    <tei:p>
+     Hej, lenže práve v tom je háčik. Prišiel som sem za Etelkou, k   vôli Jaškovi a k vôli tomu, aby sa na svete uskutočnilo kus čistého,   neľstivého života. A teraz si predstavte, že toho, kto má byť   účastným tohto života, čistého a neľstivého, máte nájsť tu, v   niektorej putyke, niekde v kúte na zaparenom smetisku, vo vykričanej   štvrti. Predstavte si, že jedna z tých plazivých a temných postáv,   môže byť práve tá, ktorú hľadáte. Neviem, či by vám tiež nevystupoval   na čele studený pot, či by ste tiež v rozhodnej chvíli nezutekali na   miesta svetlejšie a príjemnejšie.
+    </tei:p>
+    <tei:p>
+     Videl som svoju úlohu na začiatku tohto príbehu oveľa   jednoduchšie. Iba teraz som zbadal, že ani zďaleka nie je taká   jednoduchá. Bol som, na moj’ veru, prekvapený, že sa tu odrazu žiada   od človeka čosi ako obeť, čosi na spôsob hrdinstva. Hej veru, musím   sa na svoju úlohu ako sa patrí pripraviť. Spoliehať sa na to, že   jedného dňa naďapím znezrady na chrchliaka s Etelkou, bolo by ako sa   spoliehať, že jedného dňa stretnem tu na Vydrici Michala   archanjela.
+    </tei:p>
+    <tei:p>
+     Predne, i keby som ich stretol, chrchliak by sa Etelky iste ľahko   nevzdal. Je to preň príliš mastná kôstka, aby ju odhodil, kým ju   dokonale nevycmúka. A potom: Ako môžem vedieť, že Etelka bude s mojím   plánom súhlasiť. Čo, ak sa v chrchliakovej spoločnosti cíti celkom   príjemne? Budem ju môcť prinútiť? Budem ju môcť odvliecť k Jaškovi   nasilu ?
+    </tei:p>
+    <tei:p>
+     Sakramentsky pomotaná historia!
+    </tei:p>
+    <tei:p>
+     Najprv sa teda musím postarať o príhodné zamestnanie, ktoré by mi   dovoľovalo pobudnúť v meste tak dlho, ako bude treba.
+    </tei:p>
+    <tei:p>
+     Mnoho som si vyberať nemohol. V prístave nosili opálení, polonahí   lagani vrecia zbožia z vagónov na lode. Začal som nosiť i ja. Od rána   do mraku. Celých dvanásť hodín denne. Dozorca s ceruzou a papierikom   stál pri vchode do podpalubia a robil čiarky za menami. Každá čiarka   značila krajciar. Ak si vzal odrazu dvoje vriec, boly to dva   krajciare. Ak si sa naprázdno vracal behom, mohlo to byť do večera   tri sto čiarok, tri sto krajciarov, celé tri zlatovky. A večer   necítil si potom chrbta a hlavu si mal ako šop. Ale tri zlatky, tušil   si, budú dobré. Minieš z nich denne najviac jednu, dve ti zvýšia.
+    </tei:p>
+    <tei:p>
+     Večer by si sa s chuťou vyvalil na posteľ a prv, než by ti hlava   odkväcla na vankúš, drichmal by si ostopäť. Lenže večer čaká ťa nová   robota, dôležitejšia, ako tá, čo konáš cez deň. Musíš prekutávať rad   radom všetky putyky a všetky tmavé diery. A musíš to robiť pekne   sústavne a statočne, pretože to je prvý podnik tvojho života, ktorým   môžeš vykúpiť svoju čiernu dušu z pekelných múk.
+    </tei:p>
+    <tei:p>
+     Nosíš teda vrecia v prístave. Deň, dva... teraz je to už desať   dní. A večer obchádzaš pekne po
+    </tei:p>
+    <tei:p>
+     poriadku putyky a krčmy. Spoliehaš sa už pri tom trochu na svoj   nos, ktorý si pomaly počína privykať na nové zápachy. Niekde len   hlavu vstrčíš medzi dvere, inde zaváhaš, vojdeš a objednáš si   kalištek horkej. Často zadriemeš nad poliatym stolom a nespamätás sa,   len keď ťa čiašnik drme za plece: „Hej, starý, vstávať,   zavierame!“
+    </tei:p>
+    <tei:p>
+     Tu sa potom ospalo vytackáš na ulicu a preklínaš ľudskú   prirodzenosť, ktorá nevie vydržať chvíľu bez spánku. Možno práve v   ten večer si ju prepásol, možno sedela vedľa teba, kým si drichmal   ...
+    </tei:p>
+    <tei:p>
+     Tých desať dní to bolo ako desať ošarpaných, vyhladovaných   odsúdencov k smrti, zavretých spoločne do tmavej, zatuchnutej cely.   Sbily sa tu do zúfalej gundže v najvzdialenejšom kúte svojho väzenia   a, drkotajúc zubami, načúvaly strašidelným krokom kdesi na druhom   konci svojho umučeného vedomia.
+    </tei:p>
+    <tei:p>
+     Potom som sa odhodlal osloviť jednu z tých, o ktorých som   predpokladal, že majú spoločné remeslo s Etelkou. Schválne som si   vybral takú, čo sa zdala skúsenou a robila dojem, ako by si viedla   soznam všetkých ľudských hriechov a nerestí. Prisadol som si k nej a   pokúsil sa nenápadne opísať jej tú, ktorú hľadám. Vypočula ma so   znalecky prižmúrenými očami a prv než vypila druhý kalištek, čo som   jej objednal, rozsvietilo sa jej v hlave:
+    </tei:p>
+    <tei:p>
+     — Á, Eržiku hľadáš, viem...
+    </tei:p>
+    <tei:p>
+     — Nie, reku, Eržiku; Etelka sa volá.
+    </tei:p>
+    <tei:p>
+     — Eržika alebo Etelka, všetko jedno. Poznám ich všetky. Poď,   zavediem ťa k nej.
+    </tei:p>
+    <tei:p>
+     Zapochyboval som o jej pravdomluvnosti, no šiel som poslušne za   ňou hore Zámockými schodami a divil sa trochu, prečo som vlastne už   dávno neskúsil túto cestu. Nestihol som ani dobre si uvážiť situáciu,   do ktorej sa o chvíľu dostanem, keď ma už moja spoločnica strkala do   akejsi kutice, veľmi dusnej a tmavej, zaparenej miešaninou   najodpudivejších zápachov.
+    </tei:p>
+    <tei:p>
+     Stál som chvílu bezradne v úplnej tme. Potom moja spoločnica   zažala petrolejovú lampku, a hľa, na úzkom diváni ozaj ktosi leží   dolu bruchom. Lenže tento ktosi nezdá sa byť Etelkou. Predtucha, že   som bol oklamaný, sa zosilnila, premôžem svoju zdráhavosť a jediným   pohybom obrátim telo na diváni horeznačky. Pár vyjavených, žmúriacich   očí a v zápätí vyvalí sa z doráňaných úst prúd nadávok. Peľaším   odtiaľ ani zajac.
+    </tei:p>
+    <tei:p>
+     Od tej chvíle dal som si pokoj s podobnými pokusmi. A, čo   najhoršie, pomaly prestával som veriť, že Etelku vôbec nájdem. Nosil   som ďalej vrecia a večerami túlal sa po uliciach, ale oboje strácalo   už smysel.
+    </tei:p>
+    <tei:p>
+     Raz v nedeľu, keď v prístave zatíchol škripot žeriavov, zatúlal   som sa znezrady do ktoréhosi kostola.
+    </tei:p>
+    <tei:p>
+     Eh; kdeže, nechcem sa tváriť, že som sem vošiel z nejakej hlbšej   potreby. Ale kto chce, môže v tom, čo sa potom stalo, vidieť pekný   príklad podivných ciest prozreteľnosti, čosi, ako tak zvaný prst   boží.
+    </tei:p>
+    <tei:p>
+     Postavil som sa k jednému z vysočizných stĺpov, poobzeral sa   dookola a vozvysok a začal hútať, aká to musela byť huncútska robota   zbudovať takéto stavisko. Ako tak blúdim zrakom sem a tam, neviem   kedy ani prečo, začalo ma zrazu čosi omínať. Pozornosť sa rozptýlila   a len akýsi zdrap z nej zakvačil sa na podivnej predtuche, ktorá ma   náhle celého zaujala. Hľadal som v pološere tápavým zrakom predmet,   ktorý ju mohol vyvolať. Niekde shora niesol sa dôverný hlas organa,   oknom v priečelí prenikal snop farbistých lúčov a zďaleka, zpred   oltára, ozval sa chvíľami zvonček, ktorý svojím všetečným „cing   ciling“ čudne rozrušoval sviatočnú náladu. Ale to všetko nebolo to   pravé. Čosi iného ma znepokojovalo.
+    </tei:p>
+    <tei:p>
+     Díval som sa teraz k jednému z vedľajších oltárov. Díval som sa ta   uprene, no až po dlhej chvíli bezradného tápania v dojmoch som   zbadal, že tam kľačí chrbtom ku mne ženská postava a že práve tá   postava (možno som ju zočil hneď pri vstupe do kostola) priťahuje   moju pozornosť. Od tej chvíle nejasná predtucha, čo ma znepokojovala,   zmenila sa na pocit veľmi určitý a mocný, ktorý ma nezadržateľne   priťahoval bližšie k oltáru.
+    </tei:p>
+    <tei:p>
+     Pustil som sa ta na prstoch, snažiac sa narobiť čo najmenej hluku,   aby som nezaplašil svoje tušenie. Kútikom triezveho vedomia   presviedčal som sa síce, že sa istotne mýlim, že kráčam k cudzej,   celkom neznámej ženskej, oblečenej po mestsky a podľa módy, ktorá   nemôže byť v nijakej súvislosti s týmto príbehom, no celou ostatnou   bytnosťou bol som priťahovaný bližšie, čoraz bližšie.
+    </tei:p>
+    <tei:p>
+     Zastal som pár krokov od nej, šikmo za jej chrbtom a čakal som,   ani nedýchajúc. Po dlhej chvíli zdvihla hlavu, placho sa prežehnala,   potom vstala, položila na samý roh oltára, k nohám umučeného svätého   Šebastiána, kytôčku fialôk, obrátila sa a náhlymi krokmi, so   sklonenou hlavou prešla popri mne.
+    </tei:p>
+    <tei:p>
+     Áno, nemýlil som sa. Bola to ona.
+    </tei:p>
+    <tei:p>
+     Celkom iste bola to ona, Jaškova Etelka.
+    </tei:p>
+    <tei:p>
+     Ale, panebože večný, ako sa človek premení za jediný rok! Keby som   ju nebol videl vtedy na regrútskej zábave, povedal by som teraz, že   je to prinajmenej... no, slečinka samého viceišpána. Bledá, s   hlbokými, tmavými očami, s tvárou... no, ľudia boží, s tvárou ako   Panenka Mária, oblečená... ech, kdeže by som vedel pomenovať všetky   tie gráty, čo mala na sebe: boa a pštrosie pero za klobúkom a   hodvábnu, naberanú sukňu, taštičku a slnečník. Slovom, viceišpánova   slečinka.
+    </tei:p>
+    <tei:p>
+     Totohľa bolo teda niečo, s čím som nerátal. Znovu mal som pocit,   že ma ktosi hanebne oklamal a hodnú chvílu som váhal, či sa mám   pustiť za ňou.
+    </tei:p>
+    <tei:p>
+     „Na čo by si to,“ hútam si, „robil. Tu sa, ako vidíš, stala   premena, zázrak akýsi, ktorým ti Lucifer, či svätý Krišpín, skrížil   všetky plány. Spakuj svojich sedem slivák a choď Jaškovi povedať, aby   si dal pokoj, že z Etelky je dáma, ktorej on, pekne prepytujem, nie   je hoden ani ruku pobozkať.“
+    </tei:p>
+    <tei:p>
+     Potom však čosi ma popchlo, aby som sa nevzdával tak lacno.   Vybehol som z kostola a stihol som ju ešte zočiť, ako zahýňala za   roh. Pustil som sa za ňou. Bol som už na dva kroky od nej, chystal   som sa už prihovoriť sa jej, no vtom som sa znovu zháčil: Uvedomil   som si, aká je ona vycifrovaná a ja aký som trhan. Hoc’ som mal svoje   najlepšie šaty, vyzeral by som vedľa nej iste ako strašiak. Poškrabal   som sa poza uši a spomalil kroky. No neprestal som ju váhavo   sledovať. Po chvíli zahla z námestia do bočnej ulice a zamiešala sa   do prúdu ľudstva, čo tu každej nedele promenuje. A tu som zbadal   (keby som bol radšej namieste oslepol), tu som zbadal, ako ona   chvíľami dvíha hlavu a díva sa bokom zpod mihalníc po mužských, čo   idú okolo. Mužskí zvoľňujú krok, obracajú sa za ňou a s času na čas   obracia sa i ona a odpovedá na ich tázavý pohľad ľahkým, sotva   znateľným úsmevom. Ak chceš, môže to byť prisvedčenie na celkom jasnú   otázku, ak nechceš, môžeš v tom vidieť iba príjemný omyl, úsmev,   ktorý patril niekomu inému. Konečne, v tom šumote a vírení, čo ťa   obkolesuje, málo na tom záleží; ľahko sa stratí takýto drobný, letmý   úsmev.
+    </tei:p>
+    <tei:p>
+     Daj sa mi bože, ľahučký, drobný úsmev.
+    </tei:p>
+    <tei:p>
+     Keď sa na chvíľu zastavíš na kraji chodníka a zadívaš sa na to   mrvenie okolo, zbadáš, že vlastne ten úsmev je len chabý počiatok,   niečo celkom vedľajšieho, skoro zbytočného, čo môže a nemusí byť a že   to hlavné príde potom. Hľa, ľudia, čo sa tu motajú a obtierajú jeden   o druhého, vedia napospol už dávno, na čom sú, čo od seba môžu čakať   a jeden druhému poskytnúť. Je to tu všetko pekne vystavené ako na   tácni. Ako by popri sebe chodili nahí a len sa oceňovali, váhali   trochu, vyberali si, kým sa rozhodnú.
+    </tei:p>
+    <tei:p>
+     „Pekná prasacinka,“ pomyslel som si. V porovnaní s týmto tu, zdalo   sa to, čo som videl v krivých uličkách pod hradom, dokonale nevinné.   Alebo aspoň zjednodušené a úprimné. „Toto tu je opravdivý jarmok.   Tamto bol len úbohý, chudobný krám.“
+    </tei:p>
+    <tei:p>
+     A ako som tak za ňou šiel a toto všetko si uvedomil, zatočila sa   mi načisto hlava a, na moj’ pravdu, nevedel som pomaly kde som, ani   čí som, takže keď som ju náhle zbadal, ako zabočila pod starú, ťažkú   bránu, pripadalo mi to, ako by ju bola zem prehltla, ako by to všetko   bol iba zbytočný a nesmyselný sen, v ktorom sa nijakovsky nemôžeš   vyznať. A toto náhle jej zmiznutie môžeš prijať ako túžobne čakané   precitnutie.
+    </tei:p>
+    <tei:p>
+     Postál som chvíľu pred bránou, pretrel si oči a potom som sa   pomaly a váhavo pohol k prístavu, kde v nedeľňajšom odpočinku   meridzaly bachraté lode hŕby obilia, čo sme do nich cez týždeň   navláčili a kde vysočizné žeriavy stály na jednej nohe s vypätými   hrdlami, ako ozrutní, odpočívajúci bociani.
+    </tei:p>
+    <tei:p>
+     Tak veru. Celkom inakšie vyzerá svet, celkom v inakších tónoch   znie jeho nôta, keď sa ti pod nohy srúti takýto klepec. Nazdal si sa,   že ideš za určitým cieľom, ktorý je pred tebou jasný a pevný, a hľa,   náhle zbadáš, že si sa dýchavične plazil za mátohou, ktorá sa ti   rozplynula pred nosom ako dym.
+    </tei:p>
+    <tei:p>
+     Celú tú nedeľu preležal som v trudných myšlienkach v lese na   pravom brehu rieky. Bol som rozhodnutý zapľuvať všetko a vrátiť sa   kajúcne k svojej vdovici. Tam u nej bolo to aspoň niečo konkrétneho,   čo ti nevypĺzne zpomedzi prstov, práve keď si v najlepšom.
+    </tei:p>
+    <tei:p>
+     No večer ťahalo ma to neprekonateľne nazad k bráne, pod ktorou   zmizla Etelka. Postával som tam a obšmietal sa neskoro do noci.   Zlostil som sa pri tom chvíľami sám na seba, nadával si do
+    </tei:p>
+    <tei:p>
+     starých bláznov a bral sa preč, no zakaždým som sa sklesle vrátil   a oznove som bystril sluch, oznove sa díval do tmavých okien a skúšal   ukradomky kľučku na starej bráne. Bolo už skoro nad ránom (do pustej   ulice začalo prenikať beláskavé šero, fasády domov, odporné ako tvár   korheľova, mŕštily nevyspaté viečka proti nadchádzajúcemu svetlu),   keď na druhom konci ulice zaklepkaly neisté, drobné krôČky. Poznal   som ju. Pritisol som sa k stene a keď sa priblížila, zastal som jej   bez slova cestu. Zľakla sa, chcela čosi vykríknuť, pritkla dlaň k   ústam a náhle sa zvrtla, chcela ujsť.
+    </tei:p>
+    <tei:p>
+     Chytil som ju za ruku. Myslím, že nie veľmi nežne, bo zrazu sa   začala celá chvieť, ako lapené vtáča, a v zapätí sa rozvzlykala.
+    </tei:p>
+    <tei:p>
+     Prišlo mi jej odrazu veľmi ľúto. Pritiahol som ju bližšie k sebe a   zašeptal jej potichu do ucha:
+    </tei:p>
+    <tei:p>
+     — Poznám vás, nebojte sa ma. Neutekajte.
+    </tei:p>
+    <tei:p>
+     Zdvihla zrak a podívala sa mňa prekvapene širokými očami. Pokúšal   som sa vyzerať menej násilnícky, začal som sa jej prihovárať   ľútostivými slovami a dávať jej nežné mená domácich zvieratôk:   „Holúbok, vtáčatko, jahniatko moje nevinné.“ Súčasne chcel som ju   pohladiť po hlave. Tu sa však prudko vytrhla a znovu chcela ujsť.   Dobehol som ju a lapil okolo pása. Dychčala mi bezmocne v náručí s   odvrátenou, svesenou tvárou. A náhle zavrela oči, ako by sa lúčila so   svetom, hlava jej sklesla, celá sa schúlila, ako by ju podťal, a   celou váhou prevalila sa mi na ruku.
+    </tei:p>
+    <tei:p>
+     Lapil som ju mocnejšie oboma rukami a až vtedy som zbadal, že je   podnapitá. Z ruky jej vypadol pripravený kľúč. Zdvihol som ho a   zaniesol ju v náručí pod bránu. Otvoril som a niesol ju ďalej ako   decko.
+    </tei:p>
+    <tei:p>
+     Na konci dlhej chodby horelo stlmené plynové svetlo. Pred jednými   z mnohých dvier sa máličko pohla.
+    </tei:p>
+    <tei:p>
+     — Tu?
+    </tei:p>
+    <tei:p>
+     Poslušne prikývla. Stále ju podopierajúc, otvoril som dvere. Vtom   sa strhla, vymkla sa ako vretenica a začapila mi pred nosom dvere.   Zrejme už chvílu len predstierala nevládnosť a takto mi chcela   uniknúť.
+    </tei:p>
+    <tei:p>
+     Lenže teraz to už na mňa neplatilo. Bol som odhodlaný dostať sa k   nej hoci nasilu. No najprv chcem to ešte skúsiť po dobrom. Zaklopem   potichu na dvere a prihovorím sa jej:
+    </tei:p>
+    <tei:p>
+     — Slečinka...
+    </tei:p>
+    <tei:p>
+     Ticho. Kladiem ucho na dvere.
+    </tei:p>
+    <tei:p>
+     Oznove zaklopem trochu nástojčivejšie:
+    </tei:p>
+    <tei:p>
+     — Slečinka, otvorte.
+    </tei:p>
+    <tei:p>
+     Dnuká sa nič nepohne. Podívam sa kľúčovou dierkou. Je tam tma.
+    </tei:p>
+    <tei:p>
+     — Otvorte, slečinka, nič vám nespravím, nebojte sa.
+    </tei:p>
+    <tei:p>
+     Ticho.
+    </tei:p>
+    <tei:p>
+     — Slečinka, — volám skoro prosebne. No ona je zrejme rozhodnutá   neotvoriť mi za nič na svete. A tu mi príde na um šťastná   myšlienka... Pritknem ústa ku kľúčovej dierke a zašeptám:
+    </tei:p>
+    <tei:p>
+     — Etelka...
+    </tei:p>
+    <tei:p>
+     A potom chvíľu načúvam.
+    </tei:p>
+    <tei:p>
+     A hľa, na druhej strane sa čosi pohne, jemne zašramotí, nahmatá   kľučku na dverách a zas váhavo utíchne.
+    </tei:p>
+    <tei:p>
+     Nazerám vzrušene do kľúčovej dierky a znovu šeptám nástojčivo:
+    </tei:p>
+    <tei:p>
+     — Etelka... Etelka... Otvorte... To som ja... od vás. Nebojte sa,   doniesol som vám čosi. Potešíte sa... — Vymýšľam si množstvo drobných   lží a v jednom prúde šeptám ich vzrušene do kľúčovej dierky, kým sa   napokon dvere máličko neodchýlia a jej hlas... Predstavte si, po prvý   raz počujem jej hlas!... Jej hlas sa ma opytuje, čože to teda všetko   chcem.
+    </tei:p>
+    <tei:p>
+     — Pusťte ma, všetko vám poviem.
+    </tei:p>
+    <tei:p>
+     — Nemôžem, — odpovedá smutne.
+    </tei:p>
+    <tei:p>
+     — Prečo by ste nemohli, nič vám nespravím.
+    </tei:p>
+    <tei:p>
+     — Nemôžem, — opakuje, — o chvíľu príde... — a hlas jej   zaskočí.
+    </tei:p>
+    <tei:p>
+     — Kto príde? — opytujem sa prudko.
+    </tei:p>
+    <tei:p>
+     Mlčí. Vidím však špárou medzi dvermi, že smutne svesila hlavu. A   naraz sa mi všetko vyjasní. Viem presne, koľko udrelo... Príde teda   on, chrchliak... Tým lepšie, myslím si. No nesmiem sa prezradiť.
+    </tei:p>
+    <tei:p>
+     — Len na chvíľočku, slečinka; hneď zas odídem. To, čo vám chcem   povedať, je veľmi dôležité. Pomyslite si, že som k vôli tomu prišiel   schválne z Liptova.
+    </tei:p>
+    <tei:p>
+     Strhla sa, keď počula meno svojho rodného kraja a potom celá náhle   ožila, odbehla na chvíľu odo dvier a zasa sa vrátila, celá vymenená.   Pustila ma dnu.
+    </tei:p>
+    <tei:p>
+     — Vy ste z Liptova? — spytuje sa ma, pripravená počúvať o   zázrakoch.
+    </tei:p>
+    <tei:p>
+     — Pravdaže, veď vám to celý čas hovorím. Či si myslíte, že by som   ináč za vami liezol a nástojil, aby ste ma vpustili k sebe nad   ránom?
+    </tei:p>
+    <tei:p>
+     Stojím pred ňou, vrtím v rukách čiapku a zasmejem sa   rozpačite.
+    </tei:p>
+    <tei:p>
+     A ona sa červená (rozsvietila zatiaľ plynové svetlo), hanbí sa za   čosi a vidím, že nepovie už ani slova. Musím teda rozprávať ja.
+    </tei:p>
+    <tei:p>
+     A, na moj’ veru, dostávam na to odrazu opravdivú chuť. Rozpovedať   jej všetko po poriadku. Obzerám sa po izbe, kam by som si ako sadol,   utrem si fúzy, odkašlem a začínam pekne zvesela:
+    </tei:p>
+    <tei:p>
+     — Počalo sa to lanského leta. Práve pred rokom. U vás v krčme.   Pamätáte sa? Regrúti mali vtedy zábavu, a vy ste boli na nej. Stáli   ste tam v tej mrvenici, pokojná ako obrázok, s vencom vrkočov okolo   hlavy, s rumencom na lícach a s takým... s takým pohľadom... no, čo   vám mám hovoriť: zakaždým, keď si na to spomeniem, neviem k slovu   prísť a v hlave sa mi všetko pomúti... hehe, — smejem sa iste náramne   vtipne. — Dosť na tom (oznove zvážniem), práve tým pohľadom...   Počkajte, teraz si spomínam, už sme kdesi o tom počuli, aký to bol   pohľad: Bol ako rybník v Ezebon... hehe... (Oznove sa nejapne   smejem.) Dosť na tom, ako vravím, práve v tom rybníku utopil sa toho   večera môj kamarát Jašek... No áno, prečo sa dívate, ako by ste mi   neverili ?... Jašek Mihálik z Erdutky v Orave. Dobrý môj kamarát...   (Umĺkol som na chvíľu.) Hej, tak veru, skoro sa v ňom utopil. Odrazu   totiž, ako vás tam videl, vstal zpoza stola a rovno k vám. Ako na   motúzku.
+    </tei:p>
+    <tei:p>
+     — Ale, aby som nezabudol: bol s nami aj ten... ten... no, veď   viete... my sme ho volali chrchliakom, čo ste s ním potom odišli.
+    </tei:p>
+    <tei:p>
+     Tu si sadla na posteľ, ruky jej odpadly na peľasť a sedí tam ako   božie umučenie. Visí pohľadom na mojich ústach. Mne samému začalo byť   náhle mrkotno, zvážniem náramne a rozprávam ďalej potichu, dávajúc si   dobrý pozor, aby som ju ničím nepoplašil a hlavne, aby uverila, že   všetko, čo jej vravím, je čistá, svätá pravda. Nič som nezveličoval,   ani nič neprikladal, len som prosto rozpovedal, ako sa všetko stalo,   ako bolo s Jaškom, ako ho najprv pohárom klkli, ako sme potom sedeli   v krčme u Dunnera a nocou išli hore Prieslopom pred Bystrú. Najmä na   to som dával pozor, aby som verne zopakoval všetko, čo mi vtedy   cestou Jašek rozprával. O tom, že ju, Etelku, poznal dávno predtým,   ako sa s ňou stretol, že jej podoba, jej úsmev, tvár a oči, boly v   ňom dávno vytlačené, ako podoba mušle v kameni. Že jej chôdza, jej   pohyby, jej hlas, to všetko že bolo v ňom ako semiačko v lusku, ako   oheň vo švíbalke. A ďalej som jej rozprával o chrchliakovi,
+    </tei:p>
+    <tei:p>
+     o tom ako sa chystal dostať ju, ako vyťahoval tie oplzlé obrázky,   ako ho Madluš kopol do zadku, až preletel ponad pahrebu a o všetkom   ostatnom.
+    </tei:p>
+    <tei:p>
+     To najlepšie nechával som si však na koniec. Tušil som, že ju tým   načisto rozoberiem. No nečakal som, že sa ma na to sama spýta. Keď sa   však potom spýtala a počul som, ako sa jej pri tom zachvel hlas,   vedel som, že vec je na dobrej ceste.
+    </tei:p>
+    <tei:p>
+     Schválne som pred tým na chvíľu umĺkol, aby som sa podíval, ako to   na ňu zapôsobí a nabral čerstvého dychu, keď tu, ako vravím, sklopila   zrak a zašeptala:
+    </tei:p>
+    <tei:p>
+     — A potom?... A kde je teraz on?
+    </tei:p>
+    <tei:p>
+     Tvárim sa, ako že nerozumiem. No vidím, že už dávno myslí iba na   to. Tak jej to teda vravím, potichu, zreteľne:
+    </tei:p>
+    <tei:p>
+     — Jašek? Myslíte na Jaška?... Išiel vás hľadať. Hneď toho dňa, keď   sa dozvedel, že ste odišli, vybral sa za vami.
+    </tei:p>
+    <tei:p>
+     Videl som, ako zatajila dych, zbledla, zavrela oči a pootvorila   ústa. A potom pomaličky, ako pierko, spustila sa na posteľ.
+    </tei:p>
+    <tei:p>
+     Nazdal som sa, že znova omdlela. Pristúpil som k nej a položil jej   dlaň na plece. Zaborila tvár do vankúša a ležala ticho, bez pohnutia.   Cítil som však pod dlaňou, ako sa do nej pomaly vracia život, ako   celá oteplieva a začína sa jemne zachvievať tichým, očisťujúcim   plačom.
+    </tei:p>
+    <tei:p>
+     Počal som ju tešiť a čičíkať ako malé decko. Hladil som ju zľahka   po vlasoch, nakláňal sa k nej a šeptal jej do ducha, že Jašek ju   dosiaľ hľadá, že neviem, kde je, ale že na svätého Bartolomeja bude   čakať v kolibe pred Bystrou, a tam že ho nájdeme.
+    </tei:p>
+    <tei:p>
+     Obrátila ku mne tvár a znovu mi načúvala s plachým úsmevom. A ja   som jej vykladal ďalej, hladil ju a maznal sa s ňou, až mi usnula pod   dlaňou. Vyložil som jej nohy na peľasť a zostal sedieť pri nej.   Uvažoval som pokojne o tom, ako ju odtiaľto odvediem a o dva týždne   odovzdám Jaškovi v kolibe pred Bystrou. Na chrchliaka som celkom   zabudol.
+    </tei:p>
+    <tei:p>
+     Ráno vošlo nepozorovane oblokom do izby a ja som ešte vždy sedel   pri nej a dotkýňal sa jej nežne pohľadom, tešiac sa jej ako   Jezuliatku. V náhlom svetle ukázaly sa štyri holé steny náramne   pošpinené podozrivými fľakmi. Takisto roztrhané záclony, ošúchané   náradie, rozheganý diván, umývadlo, plechové vedro... A uprostred   toho ona, čistá ako ľalija.
+    </tei:p>
+    <tei:p>
+     Raz, dva razy sa pohla, usmiala sa zo sna a pritiahla si prikrývku   bližšie k brade. Biele plece vykĺzne jej z rukáva a zasvieti ako   božie slniečko. Ty sa na to všetko dívaš a je ti, ako by si bol   účastný zázraku, nadprirodzeného uskutočňovania sa tajomnej premeny,   ktorá sa odohráva najprv v nej, ako leží na posteli, vystupuje potom   z nej a šíri sa na všetky strany. Očisťuje predmety v izbe, zbavuje   ich špiny a všednosti, takže pomaly začne z nich prúdiť podivné   kúzlo, tichá úslužnosť a prítulnosť. Napokon postihuje táto premena   teba samého, cítiš, ako sa lieni s teba stará, hriešna koža a zpod   nej vylupuje sa čosi nového, veľmi čistého.
+    </tei:p>
+    <tei:p>
+     Zohrievaš sa týmto pocitom, usmievaš sa príjemne v ústrety novému   životu a začínaš podriemovať.
+    </tei:p>
+    <tei:p>
+     Odrazu sa však strhneš. Začuješ na chodbe šramot, potom kroky,   ktoré sa blížia. Vyskočíš. Najprv chceš ratovať ju, ale potom sa   spamätáš, že ona je tu doma a nehrozí jej nebezpečenstvo. Uskočíš   teda sám za skriňu v kúte pri dverách.
+    </tei:p>
+    <tei:p>
+     A vtom už zaštrkoce v zámku kľúč, dvere sa otvoria, prichýlia k   skrini, za ktorou stojíš, a znovu sa zavrú.
+    </tei:p>
+    <tei:p>
+     Uprostred chyže stojí chrchliak.
+    </tei:p>
+    <tei:p>
+     Všetko sa náhle začína rútiť, hrnúť kamsi v šialénom tempe.   Predmety v izbe sa poplašeno shŕknu dovedna a potom zas uskočia od   seba a popchajú sa do kútov. Medzi ním a tebou je náhle obrovský,   nepreklenuteľný priestor.
+    </tei:p>
+    <tei:p>
+     Stojí teraz nad ňou pri posteli. Díva sa na ňu prižmúrenými očima,   skúma, či ozaj spí a potom ňou surovo zatrasie. Ona sa strhne, posadí   sa prudko a díva sa naň s úžasom. To všetko trvá, zdá sa ti, dlho,   veľmi dlho, ako mátožný sen, z ktorého sa nemôžeš vyslobodiť. Vtom sa   však ona vzchopí, vyskočí z postele a beží k svojej taštičke. Chvatne   sa v nej prehŕňa a snaží sa čosi schovať za chrbtom. On sa na ňu díva   posmešne. Potom je jediným skokom pri nej, vytrhne jej taštičku z   rúk, podíva sa do nej a v zápätí udre ju prudko po tvári. Odletí do   kúta a srúti sa tam na hromádku. On sa pokojne zohne za peniazmi,   ktoré jej vypadly, a bez slova strčí si ich do vrecka. Stiahne si   klobúk na oči, utre dlaň o dlaň a chce odísť. Podíva sa ešte na ňu,   odchráče a chystá sa pluvnúť.
+    </tei:p>
+    <tei:p>
+     V tú chvíľu skočil som mu na hrtan.
+    </tei:p>
+    <tei:p>
+     Lapil som ho zaň oboma rukami a triasol ním ako planou hruškou.   Nebol by som ho možno pustil živého, no chcel som sa ešte napokon   podívať do jeho škamravých očí a povedať mu, čo si o ňom myslím. A   vtom ma on z celej sily kopol kolenom do brucha. Zatackal som sa a   odletel do kúta. A v zápätí vidím, že siaha rukou do vrecka.
+    </tei:p>
+    <tei:p>
+     Jediné slovo... „teraz,“ blyslo mi hlavou ako nôž. Bolo jasné,   britké a studené. Ostatné všetko potácalo sa ešte v opilom polosne od   ostrej bolesti v žalúdku.
+    </tei:p>
+    <tei:p>
+     „Teraz.“
+    </tei:p>
+    <tei:p>
+     A schvátil som stoličku, rozohnal sa z celej sily a ovalil ho po   hlave.
+    </tei:p>
+    <tei:p>
+     Stolička sa rozletela, ako by bola posliepaná.
+    </tei:p>
+    <tei:p>
+     V zápätí vytrhol som mu nôž a prv než padol, pichol som ho krátko,   dva razy po sebe do hrdla.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     7
+    </tei:head>
+    <tei:p>
+     To ostatné stalo sa potom veľmi chytro. Myslím, že som sa naň ani   nepozrel. Počul som len za sebou dunivý pád a dvoje či troje   zachrčaní. Skočil som k skrini a vyhadzoval z nej chvatne šaty,   bielizeň, ručníky. Nič z toho nedalo sa vziať. Až v kútiku na samom   dne našiel som uzlík a v ňom (jediným hmatom som sa o tom presvedčil)   jej dedinské šaty, tie, čo v nich odišla z domu. Vzal som uzlík pod   jednu pazuchu a pod druhú ju. (Ležala tam v kúte za celý čas bez   vedomia, s tvárou, pritknutou k špinavej stene...)
+    </tei:p>
+    <tei:p>
+     Dom ešte spal. Pod bránou pokúsil som sa priviesť ju k životu.   Zdalo sa mi, že trvalo večnosť, kým otvorila oči. Dívala sa na mňa   chvíľu, ako by ničoho nechápala a potom sa jednoducho spýtala:
+    </tei:p>
+    <tei:p>
+     — Čo sa stalo?
+    </tei:p>
+    <tei:p>
+     Nebol v tom strach, len jednoduchá otázka.
+    </tei:p>
+    <tei:p>
+     — Nič... Potom vám poviem... Teraz poďte...
+    </tei:p>
+    <tei:p>
+     Viac sa nespytovala. Vyviedol som ju za ruku na ulicu a mlčky,   chvatne šli sme vedľa seba smerom k nádražiu.
+    </tei:p>
+    <tei:p>
+     Ale prv, ako sme ta došli, prišla mi na um iná myšlienka: Hneď za   nádražím sú vinice a za nimi počína sa les. A tento les tiahne sa v   jednom kuse až do Liptova, ba ešte ďalej. Najprv sú to Malé Karpaty,   potom Biele, ďalej Beskydy a za Beskydami Oravské hole, za nimi   Liptovské hole a potom Tatry Vyšné, odkiaľ je už len skok do Nižných.   To sme už doma. Hore Demänovskou, popod Krakovu hoľu na Tanečnicu,   odtiaľ dole cez Javoria do Bystrej. Z Bystrej pred Bystrú je už len   skok. Na to už i sami prídete.
+    </tei:p>
+    <tei:p>
+     A hľa, na čo bolo dobré túlanie sa po nociach. Vedel som teraz,   kde je tunel, popod ktorý ľahko sa dostaneš na druhú stranu dráhy, do   viníc.
+    </tei:p>
+    <tei:p>
+     Cez tieto sme prešli na dúšok. I cez hodný kus agátového lesa.   Potom sme sa zastavili a rozbalil som uzlík.
+    </tei:p>
+    <tei:p>
+     — Oblečte si toto.
+    </tei:p>
+    <tei:p>
+     Počúvla ma bez slova. Obrátil som sa chrbtom a keď bola hotová,   shrnul som šaty, čo sobliekla, krpcom na hromádku, podložil chĺpok   suchej trávy a podpálil.
+    </tei:p>
+    <tei:p>
+     Nečakali sme ani, ako sa nám tým obom uľahčí. Nemuseli sme si to   vravieť, podívali sme sa len na seba a zhlboka si vydýchli. Potom som   ju znalecky a natešene premeral pohľadom v tom novom rúchu. Bol som,   prisám vačku, spokojný s premenou, čo sa s ňou stala. Iba vrkoče   okolo hlavy jej chýbaly. Mala vlasy nakrútené a nepekne začesané do   uzla v tyle.
+    </tei:p>
+    <tei:p>
+     Povedal som jej to.
+    </tei:p>
+    <tei:p>
+     — To sa ľahko napraví.
+    </tei:p>
+    <tei:p>
+     A pri najbližšom jarčeku sa to vskutku napravilo: Strčila hlavu do   vody a dlho si tam pľačkala tvár a najmä vlasy. Potom si ich nechala   rozpustené a keď uschly na slnci, zaplietla si ich vo dva nádherné   vrkoče, ktoré jej siahaly až niže pása.
+    </tei:p>
+    <tei:p>
+     A teraz tu stála so zlatou korunou okolo hlavy, ako kráľovná.
+    </tei:p>
+    <tei:p>
+     Išli sme potom chvíľami popri sebe, chvíľami za sebou, ako les   dovoľoval, ustavične ešte zamlklí, hútajúc o tých istých veciach, no   nevediac ich dosiaľ vysloviť. Celý ten prvý deň bol zavalený tichým   hĺbaním a potrebným pôstom jazyka.
+    </tei:p>
+    <tei:p>
+     Prenocovali sme na Javorine v pastierskej kolibe.
+    </tei:p>
+    <tei:p>
+     A potom to už išlo jedna radosť. Deň za dňom sa kotúľal, ako biele   postruhníky, ktoré miznú pred tebou, ani nebadáš ako. Zahrýzaš sa do   nich s chuťou, hlasno si mľaskáš a podudrávaš.
+    </tei:p>
+    <tei:p>
+     Chvíľami sa rozprávame, chvíľami mlčíme. Chvíľami zaspieva ona,   chvíľami zahúkam ja. Cez deň si nahrebieme zemiakov na roli konča   lesa a večer si ich pečieme pri ohníku. Prikladám potom halúzky na   pahrebu, kým ona neusne. A ešte i potom prikladám a dlho sa na ňu   dívam.
+    </tei:p>
+    <tei:p>
+     Dalo by sa mnoho rozprávať o tom, aké to boly dni, čo sa za nami a   popred nás kotúľaly po tráve a cez les, od Javoriny až po Kvačiansku   dolinu, kde sme odbočili cez Váh do Demänovskej. A raz aj budem o tom   rozprávať. No teraz horíme obaja netrpezlivosťou, aby sme už boli v   kolibe pred Bystrou.
+    </tei:p>
+    <tei:p>
+     Ostatný deň je opäť zavalený mlčaním. Nechce sa ti veriť, že   zajtra bude všetko skončené.
+    </tei:p>
+    <tei:p>
+     Totiž, skončené... Pre mňa áno, ale nie pre nich. Pre nich iba   teraz začne to opravdivé.
+    </tei:p>
+    <tei:p>
+     Kolibu našli sme takú, ako sme ju nechali. Iba bĺch — vedel som —   sa do nej nanosilo od jari. Nemáš väčšieho svinstva, ako takúto   opustenú kolibu. „No, na jednu noc,“ pomyslel som si, „bude
+    </tei:p>
+    <tei:p>
+     i takáto dobrá, čo len trocha bĺch.“ Vyhádzal som iba starú čečinu   a nalámal čerstvej.
+    </tei:p>
+    <tei:p>
+     Na druhý deň vytratil som sa hneď za rána, povediac Etelke   očistomok, že idem navštíviť známeho baču do Zúberovej. No v   skutočnosti nechcel som byť pri tom, keď sa tí dvaja sídu. Načo by   som im mal zavadzať.
+    </tei:p>
+    <tei:p>
+     Vyšiel som si na hore do radov na Sokolovú. Tu, na samom vrchu,   vyvalil som sa horeznačky, díval sa do neba i ponad bezbrehé more hôr   a tešil sa z dokonaného diela.
+    </tei:p>
+    <tei:p>
+     Zostávalo vykonať len veľmi málo. A môže sa to nechať i na   zajtra...
+    </tei:p>
+    <tei:p>
+     Tento deň, tento ostatný deň, strávim v pokoji, smierený s Bohom,   so svetom, i s tým, čo ešte treba vykonať, čo treba zajtra   vykonať....
+    </tei:p>
+    <tei:p>
+     Slnce pripeká, dookola rastie na vápencoch plno zamatovaných   plesnivcov, chvíľami zašuští v tráve jašterička, chvíľami skĺzne sa   had so skaly. Vysoko nad hlavou lieta jastrab, krúži a krúži   neúnavne, a naproti, za dolinou Štiavnicou, vyčnievajú zpoza čepca   Ludárovej hole braliská Ďumbiera. Vznáša sa tam ľahučká, riedka hmla,   prežiarená pásami slnečných lúčov, ktoré prenikajú pomedzi štrbiny na   hrebeni vrchu. Ako by sa tade cedila zvláštna milosť božia. Pre teba   a pre ostatných.
+    </tei:p>
+    <tei:p>
+     Panebože, koľko je tu všade dreva, koľko hôr, a v horách zveriny,   krotkej i divokej! Koľko všelijakého pechorenia a hmýrenia, drobných   zápasov i mohutných, ďalekou ozvenou sa ohlášajúcich bojov! A z toho   zo všetkého ťažia ľudia, čo bývajú v dedinách, roztrúsených tam v   diaľke, hlboko pod tebou. Bijú sa s tým a rujú, vymýšľajú silu   všelijakých spôsobov a nástrah, ktorými nad týmto všetkým víťazia a   svláčajú k sebe, do dvorov.
+    </tei:p>
+    <tei:p>
+     Pozri len, každá vec má svoje meno, každý vrch sa volá inakšie, a   každá trávička, každý strom a zver. A prečo je to tak? Len preto, aby   to ľudia ľahšie premáhali, aby sa vedeli dorozumieť v boji proti tej   nesmiernosti.
+    </tei:p>
+    <tei:p>
+     Všetko, čo vidíš, celý svet je, hľa, takto odrotovaný neustálym,   plynulým pechorením sa človeka. Všetko, hľa, drží vovedne, skĺbené je   nie jedným, ale tisícorakým spôsobom. Treba, či netreba sa nad tým   trápiť? Treba sa preto žalostiť a či sa z toho tešiť?
+    </tei:p>
+    <tei:p>
+     Pravdaže, len tešiť sa treba. Tešiť sa, že to vidíš, že to máš pod   sebou ako na dlani, a najmä, že sám si do toho zapätý, že sám si   účastný drobným svojím kúskom celej tej ohromnosti.
+    </tei:p>
+    <tei:p>
+     Posadil som sa a ešte raz som sa po všetkom rozhliadol. A potom,   keď sa slnce zvážilo nad Tanečnicu, pobral som sa s toho miesta popod   rady a spustil sa do Zúberovej, ako som bol prisľúbil Etelke.
+    </tei:p>
+    <tei:p>
+     Už za tmy vracal som sa domov (bača mal zásobu špiritusu) s   vytučeným barancom pod pazuchou, s dvoma hrudami syra a s geletou   žinčice.
+    </tei:p>
+    <tei:p>
+     Zďaleka videl som pred kolibou vatru.
+    </tei:p>
+    <tei:p>
+     „Obeť,“ myslím si. „Zápalná obeť.“
+    </tei:p>
+    <tei:p>
+     Vatra dohorela, kým som došiel ku kolibe. Vložil som si do jej   pahreby fajku, zapiekol si a posadil sa potichu na prah. Dvercia boly   zavreté. Ale keď som do nich nevdojak zavadil lakťom,
+    </tei:p>
+    <tei:p>
+     odchýlily sa a zdnuky počul som dvojnásobné pokojné oddychovanie.   V slabnúcej žiari pahreby videl som, že koliba je vyriadená, do čistá   vymetená, pomedzi špáry že je nastrkané chvoja a kvieťa. A v pozadí,   na mäkkom lôžku z jedľovej čečiny, spali oni dvaja bok po boku.
+    </tei:p>
+    <tei:p>
+     Potichu podrezal som za kolibou baranca, zavesil ho za zadné nohy   na pôdišiar, vniesol do koliby i syr a žinčicu a tíško sa znova   vytratil.
+    </tei:p>
+    <tei:p>
+     Zpoza Prieslopu vyšiel mesiac a svietil na cestu dolu Štiavnicou   do Svätého Jána. Stúpajúc mäkko, ako do perín, vykročil som na   ňu.
+    </tei:p>
+    <tei:p>
+     Nad ránom zobudil som žandárov v Mikuláši a oznámil im, že som   zabil chrchliaka. Uverili všetkému. I oni, i neskôr sudcovia. Na   Etelku nikto sa ma nespýtal.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

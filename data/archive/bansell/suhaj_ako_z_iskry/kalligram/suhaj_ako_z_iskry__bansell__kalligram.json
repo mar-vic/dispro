@@ -1,0 +1,32 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Šuhaj ako z iskry",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "ref": "isbn:9788081016837",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "title": "Šuhaj ako z iskry",
+        "publisher": "Napred",
+        "pub_date": "1871"
+    },
+    "authors": [
+        {
+            "first_name": "Koloman",
+            "last_name": "Banšell",
+            "birth_date": "1850",
+            "death_date": "1887",
+            "ref": "viaf:8188529"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

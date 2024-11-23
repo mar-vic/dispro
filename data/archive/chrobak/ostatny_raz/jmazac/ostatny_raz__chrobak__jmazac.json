@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Ostatný raz",
+        "publisher": "L. Mazáč",
+        "pub_place": "Praha, Bratislava",
+        "pub_date": "1937"
+    },
+    "authors": [
+        {
+            "first_name": "Dobroslav",
+            "last_name": "Chrobák",
+            "birth_date": "1907",
+            "death_date": "1951",
+            "ref": "viaf:13101099"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

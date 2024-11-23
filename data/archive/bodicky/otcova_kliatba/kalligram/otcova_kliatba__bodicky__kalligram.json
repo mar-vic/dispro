@@ -1,0 +1,31 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Otcova kliatba",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "ref": "isbn:9788081016837",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "title": "Otcova kliatba",
+        "pub_date": "1881"
+    },
+    "authors": [
+        {
+            "first_name": "Samuel",
+            "last_name": "Bodický",
+            "birth_date": "1850",
+            "death_date": "1919",
+            "ref": "viaf:84143439"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

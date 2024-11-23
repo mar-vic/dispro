@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1937908" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Návrat Ondreja Baláža : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3484
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Návrat Ondreja Baláža
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-21">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Návrat Ondreja Baláža
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Brieždilo sa. Z bielej osuhle namáhavo vystupujú kontúry kraja. V   údolí, odkiaľ vedie cesta hore k dedine, je osuheľ najhustejšia. Je   skoro taká hustá, ako mlieko, ktoré zabudli cez noc na vychladnutom   sporáku.
+   </tei:p>
+   <tei:p>
+    Zprvoti nič sa v blízkosti nehýbe: pusté a zamrznuté je siré pole,   skrehnuté ticho leží na dne sŕdc.
+   </tei:p>
+   <tei:p>
+    Po chvíli ozve sa zdola, z hmly, jemný klepot. Klepot sa   pravidelne zosilňuje. Z osuhle na dne údolia vynoruje sa postava.
+   </tei:p>
+   <tei:p>
+    Môže to byť blúdiaci duch tohto pustého kraja.
+   </tei:p>
+   <tei:p>
+    Môže to byť zlovestný posol vojen, požiarov, hladu a moru.
+   </tei:p>
+   <tei:p>
+    Môže to byť pútnik, vracajúci sa po rokoch z pobitej vojny.
+   </tei:p>
+   <tei:p>
+    Môže to byť človek s mošnou a barlou, v kepeni, ktorý mu siaha až   po zem.
+   </tei:p>
+   <tei:p>
+    Vynoruje sa z hmly a vystupuje namáhavo do kopca. Jeho obrysy sú   čo raz zreteľnejšie. Áno: v dlhom kepeni, s mošnou na prsiach, s   barlou pod pazuchou. Ľavá noha mu od kolena chýba. Stará vojenská   čiapka zakrýva polámanou strieškou polovicu zarastenej, vráskami   rozrytej tvári. Každých dvadsať krokov si človek, stúpajúci do kopca,   oddychuje, dvíha tvár a meria vzdialenosť, ktorá mu ešte zvyšuje k   prvým domom dediny.
+   </tei:p>
+   <tei:p>
+    Na kraji dediny sa znova a dôkladnejšie obzerá.
+   </tei:p>
+   <tei:p>
+    Hustá osuheľ zastiera mu výhľad a človek prudko a netrpezlive   vykročí. Zahadzuje sa dlhými skokmi do dediny. Cestou si úchytkom   obzerá strechy a štíty, komíny a ploty, domy vedľa cesty. Áno, to   všetko - komíny, ploty, strechy, štíty - je mu po sedemnástich rokoch   dopodrobna známe, ale súčasne je to všetko i akosi podivno neciteľné   pri jeho príchode. Človek čaká, že sa v ňom ozve hrejivý pocit a   radostný rozruch, že zavadí o kamarátsky výzor dôverne nachýleného   štíta, že zachytí šepot vetra v špárach plota, že ho ovanie teplý a   zaparený vzduch zo zadebnených oblôčkov chalúp. No miesto toho   stretne sa jeho pohľad s dvoma topoľmi, hrozivo čnejúcimi k nebu a v   zápätí zarazí ho mrazivo-biela zvonica, vztýčená k nebu ako nehybná   výstraha: Až potiaľ, a ďalej ani na krok! A pod zvonicou je akýsi   nekaľavny kvádor. Vyvstane mu pred očami tento kvádor tak nečakano,   že to skoro pripomína poplašný signál, ktorý náhle rozťal prostred   noci tíšinu nad zákopmi. Obzerá sa nechápavo po rynku, či naozaj   stojí pred kostolom medzi starými lipami, po ktorých kedysi lazieval   za vraními hniezdami. Kvádor na tomto mieste je zrejme čímsi zhola   nesmyselným, akýsi trápny omyl, nedorozumenie, ktoré treba vysvetliť   čím skôr. Pristupuje k nemu bližšie a vidí pod hornou hranou   nápis:
+   </tei:p>
+   <tei:p>
+    POMNÍK OBETIAM SVETOVEJ VOJNY
+   </tei:p>
+   <tei:p>
+    ODPOČÍVAJTE V POKOJI!
+   </tei:p>
+   <tei:p>
+    A pod tým mramorová tabuľa s radom pozlátených mien. Číta:
+   </tei:p>
+   <tei:p>
+    Samuel Adamec, *28. I. 1892. + 15. VI. 1916.
+   </tei:p>
+   <tei:p>
+    Peter Bagar, *15. VI. 1888. + 3. VIII. 1917.
+   </tei:p>
+   <tei:p>
+    Ondrej Baláž, *16. II. 1887. +
+   </tei:p>
+   <tei:p>
+    Čosi mu zaclonilo zrak čiernym súknom. Potočil sa. Barla sa mu   vari vykĺzla zpod pazuchy. Zdalo sa mu, že na chvíľu stratil vedomie.   Potom sa spamätal, priskackal o jednej nohe bližšie, natiahol sa a   dotkol sa prstmi svojho mena na žulovom kvádri. Prešiel po ňom   písmeno za písmenom a zastavil sa pri krížiku: Umrel... Dátum   chýbalo...
+   </tei:p>
+   <tei:p>
+    A naozaj sa mu zdalo, že v tú chvíľu umrel. V tú chvíľu, keď   zastal prstom na krížiku. Prestal existovať nielen pre tých, ktorí   jeho meno sem vytesali a potom pozlátili, nechajúc miesto na dátum,   ale i pre seba samého. V tú chvíľu prestal byť Ondrejom Balážom.   Stojí tu síce ktosi pred pomníkom, pretiera si oči, vracia sa   odkiaľsi, no nie je to viac on, Ondrej Baláž, ale ktosi iný, neznámy,   nepotrebný, nečakaný prišelec.
+   </tei:p>
+   <tei:p>
+    Oznove sa obracia po rynku.
+   </tei:p>
+   <tei:p>
+    Osuheľ zredla a uniká nepozorovane nahor, pomedzi holé konáre líp.   Domy za cestou postúpily
+   </tei:p>
+   <tei:p>
+    o poznanie bližšie k nemu, postavily sa do vyrovnaného,   mlčanlivého radu. Pozorujú ho napäté zasklenými očami, ako by čakaly   na blízky povel neviditeľného komandanta.
+   </tei:p>
+   <tei:p>
+    Nie. To všetko je strašný omyl. Kvádor na rynku a jeho meno v   treťom riadku odhora. Celé to napäté čakanie a mrazivá nehybnosť   dookola je fatálnym omylom. Chytro a čím prv treba vec vysvetliť. On,   Ondrej Baláž, žije. Vracia sa po sedemnástich rokoch domov, k rodine,   k žene, dieťaťu, aby oral a sial a pokračoval v začatom ľudskom   diele... Habká po barle, rozbehne sa kamsi, potom sa vracia, šuchá si   čelo a pokúša sa urovnať si vec v hlave.
+   </tei:p>
+   <tei:p>
+    On, Ondrej Baláž, odišiel pred sedemnástimi rokmi v slnečné   nedeľné popoludnie na vojnu. Rovno na front. Odtrhlo mu nohu pri   Ravaruske, zostal ležať, keď ostatní ustúpili, našli ho, vyliečili,   zaviezli kamsi a zabudli na neho, ako na zbytočnosť, daromnú   príťaž.
+   </tei:p>
+   <tei:p>
+    On, Ondrej Baláž, vracia sa teraz domov, aby pokračoval...
+   </tei:p>
+   <tei:p>
+    Áno, v čomže má pokračovať?
+   </tei:p>
+   <tei:p>
+    On, Ondrej Baláž... Ondrej Baláž? Je to naozaj on, Ondrej Baláž?   Rozpamätúva sa na Ondreja Baláža: Bol to zdravý, červený chlap, s   plavými vlasmi a širokými prsami. Dvadsaťsedemročný. Mal mladú ženu,   okrúhlu a mocnú. Rok pred odchodom dala mu dcéru.
+   </tei:p>
+   <tei:p>
+    Tento Ondrej Baláž odišiel pred sedemnástimi rokmi na vojnu.
+   </tei:p>
+   <tei:p>
+    A kto je ten, čo sa dnes vracia? Žobrák akýsi. Pútnik z pobitej   vojny. Posol nešťastia, hladu a moru. Nie je to Ondrej Baláž. Ondrej   Baláž umrel. Stratil sa, prestal existovať. Za jeho menom na pomníku   je krížik.
+   </tei:p>
+   <tei:p>
+    Ťažko a so svesenou hlavou vlečie sa dolu cestou. Automaticky   prejde cez potok a jarmočný rýnok, okolo sypární. Tu sa zháči. Hľa,   dom Ondreja Baláža. Díva sa na neho cudzo a bezcitne. Pripomína mu   akési dávne príhody. Rozpamätúva sa na akési cudzie, šedivé   priestory. Cíti v dlaniach podivuhodné dotyky oblých a hladkých   predmetov: kľučky na dverách, rukovätky na kosisku, poriska na   sekere. Zmäť nesúvislých, chytro sa premieňajúcich dojmov. Šelest   jaseňov okolo plota, piskot vrabcov v hniezde pod ústreším, škripot   kľuky na studni. Pohľad dvoch múdrych očí zpoza zápravy v stajni.   Veselý, hrkotavý smiech jeho ženy a jej vysoké, rozbúrené prsia. Jej   žiadostivá náruč, prudké vzplanutie túhy a do toho ostrý výkrik. A   nad tým žeravé nebo, vysoké a neúprosné. A dookola zeleň a zeleň,   tráva a zrejúce obilie a boží mier.
+   </tei:p>
+   <tei:p>
+    To bol dom Ondreja Baláža.
+   </tei:p>
+   <tei:p>
+    Blíži sa k nemu potichu. Prikráda sa ako zlodej a dáva pozor, aby   mu srieň pod nohou nezavržďal, aby sa kamienok nepohol. Kladie dlaň   na kľučku a celého prenikne ho ostré pichnutie. Dolu celou   chrbtovinou odhora nadol. Nastavuje ucho a zdá sa, že cez zatvorené   dvere počuť praskot ohňa. Nepremožiteľná túha pritknúť skrehnuté   dlane k troche domáceho tepla tlačí ruku nadol. Kľučka povoľuje,   dvere sa so známym škripotom odchyľujú a zdnuky ovanie ho vábivý   zápach zapraženej polievky, vyhriatych perín a - a ženinho tela.   Kladie nohu na prah a kradmo vstupuje.
+   </tei:p>
+   <tei:p>
+    Nad ohniskom stojí žena. Ešte neobriadená, rozospatá. Boky a prsia   v dvoch mohutných, rozvinutých šíkoch. Tvár navretá spánkom a zaliata   červeným svetlom s ohniska. Pohyby sypké a krehké, ako hrudy jarnej   zeme, čo sa váľa za pluhom do mastnej, pariacej sa brázdy. Priestor   okolo kysne jej sviežosťou, ako cesto, do ktorého zarobili na noc   odmladu.
+   </tei:p>
+   <tei:p>
+    Koľko chýbalo, aby vyslovil jej meno? Mal ho na jazyku, páliace a   žeravé. Vtedy sa obrátila a zbadala ho. Jej smelý pohľad a priama   otázka:
+   </tei:p>
+   <tei:p>
+    — Kto ste a čo tu hľadáte?
+   </tei:p>
+   <tei:p>
+    Ten istý pohľad, čo ho kedysi bol pribil k zemi, keď vztiahol na   ňu ruku, aby ju udrel po tvári: Udri... udri len, a uvidíš!
+   </tei:p>
+   <tei:p>
+    — Kto ste a čo tu hľadáte?
+   </tei:p>
+   <tei:p>
+    — Ponížene pekne prosím... — sklopil zrak a dokončil: — Nemal som   tri dni nič teplého v ústach. Pán Boh vám to vynahradí...
+   </tei:p>
+   <tei:p>
+    Vykĺzly sa mu tie slová z úst, ako ich mal naučené každodenným   užívaním. A potom už pokračoval trasľavým, priškrteným nápevom:
+   </tei:p>
+   <tei:p>
+    Povstali jsme z lože svého,
+   </tei:p>
+   <tei:p>
+    hledáme království tvého...
+   </tei:p>
+   <tei:p>
+    Plameň na ohnisku sa vyšvihol do výšky a vyplazil zpod panvice   posmešný lizák. Pokorne odvrátil pred ním zrak a dokončil, dívajúc sa   stranou:
+   </tei:p>
+   <tei:p>
+    Nebs ty všeho světa pánem,
+   </tei:p>
+   <tei:p>
+    jenž živíš své věrné. Amen.
+   </tei:p>
+   <tei:p>
+    Gazdina prestala miešať a dívala sa na neho znepokojene:
+   </tei:p>
+   <tei:p>
+    — Musíte počkať, kým sa dovarí.
+   </tei:p>
+   <tei:p>
+    Čakal postojačky.
+   </tei:p>
+   <tei:p>
+    — Sadnite si; zle vám je stáť o jednej nohe.
+   </tei:p>
+   <tei:p>
+    Sadol si a díval sa ukradomky na ženu z kúta, s nízkeho stolca,   ktorého tu nebolo, keď odchádzal.
+   </tei:p>
+   <tei:p>
+    Videl, že jeho prítomnosť ju netiesni ani nemýli. Pokračovala v   práci jemnými pohybmi, krehkými ako sen. Nohy mala bosé a rukávy   vysúkané nad lakte. Sledoval sboku presnú hru jej oblých svalov. V   jamkách na brade a v záhyboch lakťov čupel dosiaľ spánok. Okolo nôh   obtieral sa jej čierny kocúr.
+   </tei:p>
+   <tei:p>
+    „Toto je moja žena,“ myslel si. „Toto je žena Ondreja Baláža.“
+   </tei:p>
+   <tei:p>
+    A znova ho pálilo na jazyku jej meno.
+   </tei:p>
+   <tei:p>
+    — Odkiaľ idete? — opýtala sa, aby niečo povedala.
+   </tei:p>
+   <tei:p>
+    — Zďaleka.
+   </tei:p>
+   <tei:p>
+    — Odkiaľ až?
+   </tei:p>
+   <tei:p>
+    — Zo Sibírie.
+   </tei:p>
+   <tei:p>
+    Zháčila sa a pozrela na neho nedôverčivo.
+   </tei:p>
+   <tei:p>
+    — Máte tuná niekoho?
+   </tei:p>
+   <tei:p>
+    — Tuná?... Nie. Mal som, ale už nemám.
+   </tei:p>
+   <tei:p>
+    Odloží čiapku na zem a díva sa pod hradu, kde pavúk utkal sieť.   Potom sa pohľad skĺzne k žene a putuje odhora nadol po jej postave.   Neisto, zvoľna. Zastavuje sa pri ústach, pod bradou, na prsiach a   potom až dolu, na bosých nohách. Tu utkvie nadlho.
+   </tei:p>
+   <tei:p>
+    — A váš muž?... Nie je doma?
+   </tei:p>
+   <tei:p>
+    — Nie. Odišiel.
+   </tei:p>
+   <tei:p>
+    — Odišiel ? — opakuje po nej zdĺhavo, zpola významne, zpola ako   otázku.
+   </tei:p>
+   <tei:p>
+    — Odišiel na vývažku. Do Sihál.
+   </tei:p>
+   <tei:p>
+    — Do Sihál, — zatiahol potichu a mĺkvo, ako keď priložíte k uchu   vidličku, ktorou ste udreli o hranu stola.
+   </tei:p>
+   <tei:p>
+    Zvuk zamiera, až ho nepočuť, ale vám sa zdá, že ešte znie. Kdesi   inde, v inom čase a v inom priestore.
+   </tei:p>
+   <tei:p>
+    — Prečo sa opytujete? Prečo sa divíte? Poznáte môjho muža?
+   </tei:p>
+   <tei:p>
+    — Nepoznám... Poznal som ho. Poznal som Ondreja Baláža, ale už sa   nepamätám.
+   </tei:p>
+   <tei:p>
+    — Poznali ste Ondreja?
+   </tei:p>
+   <tei:p>
+    Teraz sa jej hlas zachvel vysokým tremolom, zazvonil o povalu a   potom sa nevládne sniesol, ako semienko púpavy na studenú zem.
+   </tei:p>
+   <tei:p>
+    — To bol môj prvý muž. — Znela v tom tupá, zahrdúsená spomienka,   ktorá sa nám už nevracia, ktorú sme tuho zatlačili na dno podvedomia.   — A kde ste sa s ním poznali?
+   </tei:p>
+   <tei:p>
+    — Pri Ravaruske, odtrhlo mu tam nohu. — A?...
+   </tei:p>
+   <tei:p>
+    — Tam umrel. V špitáli.
+   </tei:p>
+   <tei:p>
+    Povedal to pokojne, celkom potichu, ako by to bola udalosť dávno   známa, ktorá ho už vôbec nevzrušuje. A predsa sa mu zdalo, že v tú   chvílu zavalilo ho čosi, ako by sa na neho sosypala vysoká vrstva   piesku, ktorá ho pochovala a vzala mu dych.
+   </tei:p>
+   <tei:p>
+    Vtedy už stála pred ním, rozkročená, s rukami v bok, pevná a   mocná.
+   </tei:p>
+   <tei:p>
+    — Boli ste pri tom? Vravte.
+   </tei:p>
+   <tei:p>
+    Jej prísny a vecný tón uvoľnil v zadúšajúcom priestore úzku   škulinku a vrátil mu dych.
+   </tei:p>
+   <tei:p>
+    — Áno. Ležal vedľa mňa. Štyri dni sa trápil. Hovoril stále o vás a   o... — zľahka mykol hlavou k dverám do izby.
+   </tei:p>
+   <tei:p>
+    Vyvstala mu za nimi kolíska, drobné, trepotavé rúčky a pár   veselých očiek.
+   </tei:p>
+   <tei:p>
+    — O kom?
+   </tei:p>
+   <tei:p>
+    — O Miluške.
+   </tei:p>
+   <tei:p>
+    — Keď odchádzal, sotva sa bola postavila na nohy.
+   </tei:p>
+   <tei:p>
+    Oznove bola v tom zahrdúsená, plachá spomienka, schúlená ako   nevládne vtáča na dne mokrého hniezda.
+   </tei:p>
+   <tei:p>
+    — Rozprával vám o nej? Umrela na španielku.
+   </tei:p>
+   <tei:p>
+    A žena sa vrátila k svojej robote. Odstavila hrniec, položila na   stôl misku a načrpkala do nej polievky. Pozvala ho, aby si sadol.   Vytiahla priečinok v stole a chvíľu sa v ňom prehŕňala. Potom   vytiahla drevenú lyžičku.
+   </tei:p>
+   <tei:p>
+    — S touto jedával nebohý Ondrej.
+   </tei:p>
+   <tei:p>
+    Podala mu ju.
+   </tei:p>
+   <tei:p>
+    Ruka sa mu veľmi chvela, keď po nej siahol; držal ju medzi prstmi   a dlho sa díval na jej pripálený a vyhladený žliebok. Lyžička, ktorou   jedával Ondrej Baláž. Obyčajná, drevená lyžička, ktorú vyhladily jeho   pery. Začal pomaly chlípať. Žena stála proti nemu; dívala sa, ako   jie, ako si krája chlieb do polievky, nožíkom, ktorý mal uviazaný na   remenci.
+   </tei:p>
+   <tei:p>
+    — Celkom takto krájal si chlieb nebohý Ondrej, — povedala   zamyslene.
+   </tei:p>
+   <tei:p>
+    Neopovážil sa zodvihnúť hlavu; priam sa mu zdalo podozrivým, že sa   díva na neho tak dlho a pozorne.
+   </tei:p>
+   <tei:p>
+    — Nolen ukážte ten nožík, — zvolala náhle a siahla po nožíku,   ktorý teraz ležal na stole. — Veď je to Ondrejov. Sama som mu ho   kúpila v meste.
+   </tei:p>
+   <tei:p>
+    Prevracala nožík v prstoch a obzerala ho so všetkých strán a potom   mu pozrela skúmavo do tvári...
+   </tei:p>
+   <tei:p>
+    Nie, nepoznala ho. Skôr sa mu zdalo, že ho obviňuje z krádeže   nožíka. Chvatne si uvedomil, že toto musí vydržať.
+   </tei:p>
+   <tei:p>
+    — Áno, dal mi ho v špitáli, — vraví pokojne.
+   </tei:p>
+   <tei:p>
+    Vraví to pokojne a potom dokladá:
+   </tei:p>
+   <tei:p>
+    — Dostal otravu krvi, vedel, že umre. Dal mi nožík, aj hodinky a   túto fotografiu. — Vytiahol z bočného vrecka fotografiu. Jej   fotografiu. — Vravel, aby som si to vzal, a, ak sa vrátim domov, aby   som vám to nejakým spôsobom odovzdal. Túto fotografiu a hodinky.   Nožík mi daroval. Ten je môj. Peňazí nemal. Len ešte tri paklíky   dohánu, a tie som vyfajčil.
+   </tei:p>
+   <tei:p>
+    Išlo to všetko tak ľahko, ako by sa bol na to dávno pripravoval.   „Toto je koniec,“ myslel si pritom. „Toto, čo práve vravím, je istý   koniec. Prečo to teda vravím? Preto, lebo je to pravda, lebo Ondreja   Baláža viac niet. Preto, lebo ho nikto viac nepotrebuje, lebo mu už   vykresali krížik za menom. Len dátum ešte chýba. A to sa ľahko   doplní. Sám ho ta vykreše. Áno. Aby bol vo všetkom poriadok.“
+   </tei:p>
+   <tei:p>
+    Žena vzala hodinky, otvorila vrchnáčik a priložila si ich k   uchu.
+   </tei:p>
+   <tei:p>
+    — Bude ich treba opraviť; stoja. Aj sklo chýba, — vraví jej.
+   </tei:p>
+   <tei:p>
+    Zdá sa, že ho nepočuje. Znova a znova prikladá si hodinky k uchu,   hrká nimi, potíska ručičky. Stoja.
+   </tei:p>
+   <tei:p>
+    — Stoja, — vraví sklamane, s akýmsi čudným zafarbením hlasu, ako   by chcela povedať čosi viac.
+   </tei:p>
+   <tei:p>
+    — Áno, ale to sa napraví.
+   </tei:p>
+   <tei:p>
+    Hodinky sa napravia. Hodinky sa znova pohnú. Ale jeho život sa už   nepohne. Jeho život? Existuje nejaký zvláštny jeho život? Život je   len jeden. Vospolný. A ten sa nezastaví. Ten ide ďalej. Stále a   neúnavne. Život v tomto dome tiež sa nezastavil jeho odchodom. Hľa, z   prednej izby ozvalo sa práve detské zamrnkanie. Má teda ešte deti. S   ním, s tým druhým. Jedno? Dvoje? Dobre, že má. Prečo by nemala mať?   No, rád by uvidel toho druhého. Ale nemôže ho čakať, nemôže tu zostať   do večera. A polievka je už dojedená.
+   </tei:p>
+   <tei:p>
+    Odtíska misku od seba. Chcel by sa nejako odmeniť; neprišiel sem   predsa ako žobrák. Vie upliesť koš, vie plátať hrnce, vedel by   poreparovať hrable, alebo osadiť nové porisko do sekery. Nemajú nič   takého? Nemajú deravý koš, puknutý hrniec, zlomené porisko? Nie, vraj   nemajú; muž všetko spraví; je to majster nad majstrov.
+   </tei:p>
+   <tei:p>
+    — Oňahdy, — rozkladá s pýchou, — pribral sa robiť novú kolísku,   cifrovanú, vyrezávanú. — Potom sa zháči a zapýri, a dokladá na   vysvetlenie: — Pre kmotru, nie pre nás. My už len... My sme už starí,   — usmeje sa figliarsky a kývne rukou.
+   </tei:p>
+   <tei:p>
+    Niet teda ničoho pre neho. Nuž tak pôjde vo meno božie.
+   </tei:p>
+   <tei:p>
+    — Zdraví ostaňte, — a ďakuje za polievku.
+   </tei:p>
+   <tei:p>
+    Zdržiava ho. Nech ešte ostane. Nech si oddýchne, nech sa zohreje.   Veď jej ešte ani všetko nerozpovedal, ako bolo s Ondrejom. Hádam sa   predsa len nájde nejaký deravý koš, keď to už musí byť. Pozre, hneď   pozre.
+   </tei:p>
+   <tei:p>
+    Donesie zo dvora deravý koš. Vybehne potom na pôjd a snesie v   náručí povesno čerstvých lieskových lubcov.
+   </tei:p>
+   <tei:p>
+    — To si muž nakálal. Hotuje si robotu na zimu.
+   </tei:p>
+   <tei:p>
+    Pustil sa do plátania. Chvíľu mlčia. Žena ide do prednej izby,   pobaví sa tam a vráti sa preoblečená, učesaná. Až teraz vidí, že je   dosiaľ pekná a iste i žiadostivá. Má len tridsaťšesť rokov. Stojí   pred ním a pripína si vlasy. Takto, so zdvihnutými ramenami a   vypätými prsami, mával ju najradšej. Takto ju vídal najčastejšie za   nesčíselných nocí, za pustých, sinavých nocí sibírskych. Nazdával sa,   že život v jeho slabinách dávno už vyhasol. No teraz pocítil, ako mu   tam znova vyšľahol, zatrepotal sa ohnivým plameňom. Je to predsa jeho   žena. Má na ňu právo. Má právo povedať jej... Vtom zavadil pohľadom o   svoju barlu, opretú na lavici, o svoje trasľavé ruky, o svoj   zbedárený, zafúľaný, zodratý výzor, a spamätal sa. Žena dosiaľ stála   takisto, s bradou na prsiach, s rukami za hlavou. Náhle mu položila   otázku, a zdalo sa mu, že jej hlas sa pritom zachvel:
+   </tei:p>
+   <tei:p>
+    — Kedy umrel Ondro? Ktorého dňa?
+   </tei:p>
+   <tei:p>
+    Čakal túto otázku a mal pripravenú odpoveď: „10. septembra 1914.“   No nevedel, prečo sa ženin hlas zachvel. Až neskoršie, keď si   spomenul, že si po jeho odpovedi uľahčene oddýchla, až potom sa mu   vysvetlilo, že chcela vedieť, či nebola Ondrovi neverná, kým ešte   žil.
+   </tei:p>
+   <tei:p>
+    Nebola teda. Jazyk sa jej náhle rozviazal; začala riadiť kuchyňu a   medzi robotou neprestávala sa vypytovať na Ondra. Potom si sadla na   lavicu kraj stola a, držiac v jednej ruke vecheť, ktorým utierala   riad, podoprela si druhou zasnenú tvár. Vracala sa v spomienkach k   svojmu kratučkému prvému manželstvu. K tomu, ako k nej Ondro chodil   na zálety, ako u nej vyhrával nad všetkými parobkami. Hovorila o tom.   Hovorila možno viac pre seba, s príkrasami, s úctou,
+   </tei:p>
+   <tei:p>
+    o Ondrovej povahe, s obdivom o jeho sile, s láskou o jeho   kráse:
+   </tei:p>
+   <tei:p>
+    — Bol mocný ako dub, vysoký ako jedľa a tvár mal ako panenka.   Dobrý bol a opatrný. Múdry a šikovný. Vedel si poradiť, keď iní   skladali ruky do lona. Cez deň mohol byť prudký ako búrka, a v noci   vedel byť tichý ako nemluvniatko.
+   </tei:p>
+   <tei:p>
+    Počúval ju. Pustil koš a počúval ju so zatajeným dychom. Visel jej   na ústach žiadostivým pohľadom. Potom privrel oči a cítil, ako ho   unáša tichý a zasnený prúd jej reči do minulosti, k šťastiu, k   mladosti. Videl seba a proti sebe ju na šírej zelenej lúke, zaliatej   slnkom a tuhou vôňou skoseného sena. Videl ju smiať sa samopašným,   zvonivým smiechom. Videl ju plnú bujnosti, ako prikladá dlane k   ústam, ujuká vyzývavo na koscov na druhej strane chotára. Videl ju   kľačať proti sebe s miskou v lone a lyžicou v pravej ruke, kŕmi ho   ako nemluvniatko. Hanbí sa trochu za svoju lásku, ale nevie prestať,   nevie si nič odoprieť.
+   </tei:p>
+   <tei:p>
+    Potom sa náhle prúd kolembavej reči pretrhuje, prebúdza sa a vidí,   že ona ho zadivene pozoruje. Širokými očami díva sa na jeho blaženú   tvár. A zrazu sa strhne, rumenec vystupuje jej na líca, chvatne chytá   vecheť a pokračuje v utieraní riadu. Rozpaky, stud a hnev svierajú   jej hruď. Čo tuná rozpráva? Komu to rozpráva, kto sa tu na ňu díva   čudáckymi očami? Kde už videla tie oči a v nich tiché, blažené   vytrženie? Riad jej padá z rúk, opakuje množstvo zbytočných pohybov,   obracia sa ukradomky k tým očiam.
+   </tei:p>
+   <tei:p>
+    No nevidí v nich už nič zaujímavého. Sú sklopené k práci a v   tvári, okrem hluchej biedy, niet
+   </tei:p>
+   <tei:p>
+    nič podozrivého. Vo vzduchu visí však dosiaľ celkom zreteľné   napätie. V kuchyni niet naraz dosť miesta a okrem toho je tu dusno a   teplo. Otvára dvere. Zvonku vovalí sa surový chlad a všetko náhle   stuhne v mrazivej hrozbe.
+   </tei:p>
+   <tei:p>
+    Chlap zapletá koš. Žena utiera riad a obaja cítia, že sú si   vzájomne nepohodlní, ako by sa boli stretli na zakázanej ceste, ako   by sa boli pristihli pri úmysle vykonať ten istý zlý čin a teraz sa   hanbili podívať sa jeden druhému do očí.
+   </tei:p>
+   <tei:p>
+    — Spomenuli ste, že ste tu mali známeho. Azda ešte žije niekto z   jeho rodiny.
+   </tei:p>
+   <tei:p>
+    Neobrátila sa k nemu, keď to vyslovila, lebo vedela, že to, čo   povedala, môže sa zdať, ako by ho vyháňala. Iste to vyslovila len   preto, aby mu pripomenula, že už môže ísť. Ale nepozrela pritom na   neho, aby nemusela vidieť jeho zahanbenie. Jeho prítomnosť privádzala   ju na myšlienky o jej prvom mužovi, ktorý je mŕtvy. A netreba rušiť   pokoj mŕtveho. Mala svojho muža rada, a rada by mu bola dala viac,   keby jej ho vojna nebola vzala z náruče. Nemôže predsa za to, že ho   ľúbila krátko a že potom k nej prišlo šťastie s druhej strany.   Pravda, žiadala, aby ho úradne vyhlásili za mŕtveho, ale iba preto,   lebo jej notár tak poradil. Áno, poznala už vtedy toho druhého.   Pomáhal jej pri gazdovstve a mala ho pri sebe v posteli. Ale či to   nerobily všetky ostatné, ktorým sa mužovia nevracali z vojny?   Istotne, tak to bolo správne. Vtedy možno ešte pochybovala o tom, no   dnes ju presviedča všetko, kam sa podíva, že tak to bolo správne.   Gazdovstvo by bolo spustlo a ona by bola vyhasla bez úžitku.
+   </tei:p>
+   <tei:p>
+    To všetko sú myšlienky, ktoré sa im daromné pletú hlavou, lebo vec   je dávno rozriešená. Vedia to obaja. On i ona. Zbytočné je čakať i na   toho druhého. Nemôže mu povedať nič, čo by on už dávno nevedel. Žije   s ňou predsa dlhšie, ako žil on. Usporiadal iste všetko práve tak   dokonale, ako chcel (ale nestihol) usporiadať i on sám. Dopletie teda   koš a pôjde o dom ďalej. Všade sa nájde deravý koš, rozbitý hrniec,   ktoré treba poreparovať.
+   </tei:p>
+   <tei:p>
+    — Hej, — vraví, — mal som tu známeho. Ale z jeho rodiny niet už   nikoho.
+   </tei:p>
+   <tei:p>
+    Mohol by doložiť: „Žena sa vydala po druhý raz, dieťa umrelo na   španielku a jeho vyhlásili za mŕtveho.“ Ale tým by sa všetko   pokazilo.
+   </tei:p>
+   <tei:p>
+    Berie teda barlu pod pazuchu, napraví si mošnu na prsiach a podíva   sa ešte na ženu.
+   </tei:p>
+   <tei:p>
+    — Zdraví ostaňte.
+   </tei:p>
+   <tei:p>
+    Mädlí čiapku v prstoch, chce ešte čosi riecť, za čosi podakovať, o   čosi poprosiť. No všetko je strašne vzdialené, nedostihnuteľné a nie   dôležité. Obráti sa a shrbene, zvoľna odchádza cez štvorec dverí.   Žena sa za ním díva nemo a meravo. Odchádza človek, ktorý jej   zaplátal koš a doniesol niklové hodinky od mŕtveho muža. Naplnila mu   za to mošnu múkou a zemiakmi.
+   </tei:p>
+   <tei:p>
+    A von svieti slnko, osuheľ sa zdvihla, vzduch je zasa priezračný a   nebo sa prívetive nakláňa k tvári človeka spravodlivého.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

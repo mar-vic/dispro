@@ -1,0 +1,30 @@
+{
+  "language":          "slk",
+  "editor":            "Marek Vician",
+  "eltec_edition_str": "ELTeC edícia",
+
+  "srced": {
+    "title":           "Luna 2 neodpovedá",
+    "publisher":       "Smena",
+    "pub_place":       "Bratislava",
+    "pub_date":        "1958"
+  },
+
+  "authors": [
+    {
+      "first_name": "Ján",
+      "last_name":  "Bajla",
+      "birth_date": "1921",
+      "death_date": "1985",
+      "ref":        "84998226"
+    }
+  ],
+
+  "languages": [
+    "slo"
+  ],
+
+  "encoding_lvl":      "eltec-1",
+  "gender":            "M",
+  "canonicity":        "unspecified"
+}

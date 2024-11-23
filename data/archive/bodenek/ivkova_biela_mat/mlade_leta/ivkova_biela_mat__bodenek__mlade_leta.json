@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Ivkova biela mať",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1981"
+    },
+    "authors": [
+        {
+            "first_name": "Ján",
+            "last_name": "Bodenek",
+            "birth_date": "1911",
+            "death_date": "1985",
+            "ref": "viaf:57427439"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

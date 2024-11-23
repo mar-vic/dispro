@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1939438" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Tajomstvo skalného výbežku : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:34469723">
+     Bolfík, Július (1915 - 1993)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     10881
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Bolfík, Július
+     </tei:author>
+     <tei:title>
+      Tajomstvo skalného výbežku
+     </tei:title>
+     <tei:pubPlace>
+      Levoča
+     </tei:pubPlace>
+     <tei:publisher>
+      E. Singer
+     </tei:publisher>
+     <tei:date>
+      1939
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-13">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Tajomstvo skalného výbežku
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:l>
+    Mystikou živený...
+   </tei:l>
+   <tei:l>
+    smútok môj krásy duševnej Ti dodáva,
+   </tei:l>
+   <tei:l>
+    stonu šum prelieva cez vereje bôľu,
+   </tei:l>
+   <tei:l>
+    gloriolu žertvuje Ti okarinou spevu
+   </tei:l>
+   <tei:l>
+    a žaloby cborál s pietou ovádza !
+   </tei:l>
+   <tei:div type="chapter">
+    <tei:head>
+     Tajomný les a podivný skalný   výbežok.
+    </tei:head>
+    <tei:p>
+     Bolo jaro, teplé jaro a príjemné.
+    </tei:p>
+    <tei:p>
+     Úzka dolina obliekala sa v sviežu zeleň tisícerých odtieňov a svoj   nový šat vyšívala miliónmi pôvabných kvetov. Od blízkeho dominujúceho   Kohúta, kuželovitého to vrchu, povieval teplý vetrík. Zadrapoval sa   do stromov, ako by chcel vyprobovať silu kmeňa, strapatil košaté   koruny, asi sa chcel presvedčiť o ich pružnosti, nakoľko sú ohybné a   keď nestačil vybiť všetku svoju energiu dolu, vzniesol sa do výšky a   preháňal a zlostne tam roztrhával mraky a mráčky. Až v predvečer, keď   zem i nebo sa zahalily v slabé šero a ľudia prichyľovali sa do   svojich príbytkov, odišiel unaveným krokom do roklín a tam medzi   mochom obrastené skaly a pošepkával im veselé i smutné príhody o   ľuďoch a krajoch. Nik ho nepozoroval jedine osamotený ker a malá   kmitavá žiariaca večernica, ktorá práve vyskočila na zčiernalej   oblohe.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň bol hodne unavený a rád by si bol na chviľku oddýchol,   lebo už prešiel pekných 25 km o bolesť jeho ťažkých údov sa jasne   rysovala na jeho vychudlej tvári. Ubieral sa ešte asi 3 km celý   unavený a vysilený, až prišiel k miestu, kde chodník odbočoval od   cesty, vedúcej do blízkeho mesta R..., a viedol do lesa, tiahnucého   sa paralelne s cestou.
+    </tei:p>
+    <tei:p>
+     Silno sa stmievalo a napadlo mu, že lepšie by urobil, keby strávil   noc pod ochranou košatých stromov, ako by sa potĺkal ďalej, zbytočne   hľadajúc nocľah a napokon potom nútený prenocovať v otvorenej   krajine. Ostatne R... bola blízko, ale za posledných niekoľko dní   zistil, že spánok vo voľnej prírode je zaujímavejší.
+    </tei:p>
+    <tei:p>
+     Za štyri dni ustavičného pochodu zmocnilo sa jeho nálady akési   napätie, akási zúfalá podráždenosť a stav tento zostal nezmenený i   keď sa zvoľna predieral hustým lesom, hľadajúc nejaké vhodné miesto,   kde by si mohol ľahnúť a prespať a pritom dúfajúc, že snáď nájde   niekde niekoľko zralých jahôd alebo malín, ktorými by mohol trošku   utíšiť hrozný hlad.
+    </tei:p>
+    <tei:p>
+     Bola to však slabá nádej, predsa ho len lákala dopredu a ako   prechádzal lesom, pocítil akýsi divný dojem, ako by tu bola nejaká   bytosť. Dojem bol tak silný, že znenazdajky zavolal, či je tu niekto.   Nedostal však odpoveď a keď sa zastavil, aby naslúchal, nepočul nič.   Hlboké ticho, panujúce pod korunami stromov, nebolo porušené ani   najslabším šelestom a predsa mal pocit, že je tu na blízku živý tvor,   ktorý ho stále prenasleduje a pozoruje pomedzi stromy.
+    </tei:p>
+    <tei:p>
+     Keď prišiel na čistinu a prešiel ju, zastavil sa náhle a skrčil v   hustom kre, odkiaľ dával pozor a čakal. Nevidel však nikoho i za   chviľku pokračoval vo svojej ceste. Hneď ale dostavil sa mu ten istý   pocit, že je prenasledovaný a pozorovaný, takže mu napadlo, že tento   les nie je tak opustený, ako sa mu zdalo a pocítil akúsi hrôzu a   tajomnú úzkosť, ktorá pozvoľna sa mu vkrádala do srdca. V tejto   chvilí nebolo by ho ani najmenej prekvapilo, keby sa bola zrazu   roztvorila húština a ukázalo sa tu nejaké strašné nadprirodzené   zjavenie.
+    </tei:p>
+    <tei:p>
+     O chvíľu našiel na trnoch jedného kra kus odtrhnutej šatky, potom   kúsok ďalej vo smere, kde stromovie a kry boly hustejšie spletené a   bolo množstvo nepreniknuteľného podrostu, prišiel na malú bielu   vreckovku, vyšívanú modrou krajkou, ležiacu v malej kaluži, kde už   dávno hnil starý, zo stromu odlomený konár.
+    </tei:p>
+    <tei:p>
+     „Divná vec“, pomyslel si Janko Rekeň a pustil sa ďalej plaziacim   tuláckym krokom, dúfajúc, že sa mu naskytne príležitosť zistiť, o čo   sa jedná a že príde na kĺb celej tej záhadnej veci.
+    </tei:p>
+    <tei:p>
+     Bežal rýchlejšie a rýchlejšie. Mal dojem, že je treba najväčšieho   chvatu, keď sa nepoponáhľa čo najviacej, stane sa niečo hrozného tuná   v tomto mlčiacom lese, pod týmito previslými stromami, v týchto   tmavých a nemých miestach, kde nadchádzajúca noc rozostierala svoj   čierny plášť hlbokého temna a ticha.
+    </tei:p>
+    <tei:p>
+     Bežal zľahka a rýchlejšie, majúc všade svoje ostražité oči. Všetky   jeho schopnosti boly napnuté na najväčšiu mieru a všetko sa   sústredilo len k tomu, aby zistil, čo ho stále prenasleduje a   pozoruje a čo má znamenať odtrhnutá šatka a stratená vreckovka.
+    </tei:p>
+    <tei:p>
+     Zrazu sa rozbehol medzi stromy a začal bežať hneď tam, hneď inam,   križujúc celé okolie ako pes, idúci po stope. Tu skočil vpred, hneď   zase nazad, tu bežal vzpriamene, tu zase skrčený liezol štvornožky,   vrhajúc rýchle a prenikavé pohľady na všetky strany.
+    </tei:p>
+    <tei:p>
+     „Iste sa tu stalo niečo hrozného“, uvažoval. „Šatka a vreckovka sú   neklamným dôkazom a jasne hovoria o dievčaťu, ktorého telo mrtvé   alebo živé bolo rýchle nesené pomedzi stromy a kre.“
+    </tei:p>
+    <tei:p>
+     Bežal ďalej a ďalej a cítil, hoci nevedel prečo, že sa mu chveje   strašlivý výkrik na ústach, výkrik desu a hrôzy. Hneď sa dal iným   smerom a keď sa k jednému kru blížil, ozval sa zrazu po jeho pravej   ruke podivný škrek, aký dosiaľ nikdy v živote nepočul. Nebol to   ľudský hlas, nebol to zvierací hlas, ale niečo medzi obidvoma a bolo   v tom čosi hrozného, zlostného, zúrivého i strašne smyseľného.
+    </tei:p>
+    <tei:p>
+     Akonáhle začul tento zvuk, hneď sa obrátil vpravo a skočil do   krovia, odkiaľ bolo počuť vychádzať tak strašný rev. Ako sa tam   ocitol, zazrel niečo ako mátoha, mihlo sa mu pred očami a zmizlo za   stromom. Bolo to obratné, nízke a malé, takmer plaziace sa po zemi a   veľmi rýchle. V tme to vypadalo ani čierna guľa, váľajúca sa medzi,   stromami a nedostihnuteľná.
+    </tei:p>
+    <tei:p>
+     Zostal tu stáť celý zarazený. Kolom do kola ležal ťažký súmrak a   hlboké mlčanie, ktorým k nemu neprenikol ani ten najslabší zvuk,   ktorý by mu mohol prezradiť, čo sa tu stalo. Na chvíľku sa ho   zmocnila šialená hrôza, takže by bol najradšej hlasno vykríkol ako   preľaknuté dieťa a dal sa na útek a nezastavil sa, dokiaľ by nepadol   vysilením. Avšak násilím sa vytrhol z tohoto pocitu, sovrel päste,   zatajil dych a zavrel oči, aby ich hneď zasa otvoril.
+    </tei:p>
+    <tei:p>
+     Kráčal rýchle ku predu, nedbajúc ničoho, predsa však stále   pripravený na každý možný útok. Až na samý okraj lesa mal stále ten   istý pocit, že je prenasledovaný a špehovaný čímsi neznámym, ktoré sa   zdalo byť dosť strašným, no iste veľmi zlým. Ale prenasledovanie-keď   možno hovoriť o prenasledovaní-ihneď prestalo, akonáhle vykročil z   tieňa stromov.
+    </tei:p>
+    <tei:p>
+     Oddýchol si trošku, aby nabral dychu.
+    </tei:p>
+    <tei:p>
+     „Zaujímavé“, zahundral. „Nik tu nie je a stále mám dojem, že sa na   mňa niekto pozerá“.
+    </tei:p>
+    <tei:p>
+     Nedalo mu pokoja. Chcel zistiť kto ho to pozoruje. Vstal,   našľapujúc veľmi ticho a opatrne, aby sa vyvaroval každého hluku.   Kráčal zohnuto, aby sa jeho vysoká postava neprezradila proti   hviezdnatému nebu. Rýchle dobehol ku stromom a zmizol v ich   tieni.
+    </tei:p>
+    <tei:p>
+     Postup v hustom lese bol veľmi pomalý, lebo bola nutná najväčšia   opatrnosť pri každom kroku, aby ho nejaké skĺznutie neprezradilo.   Často sa zastavil a načúval bedlivo, alebo sa skrčil, priložil oči až   k zemi a pozeral sa uprene do tmy, či neuzrie niekde niečo sa   pohybovať. Nevidel však nič a nepočul nič. A tak s najväčšou   opatrnosťou sa predieral nocou pod hustými korunami stromov. Už   polhodiny cesty urazil od okraja lesa, až dosiahol jednu jeho časť,   kde pri zemi bol veľmi divoký podrost a nad hlavou hustá spleť vetví   a listov.
+    </tei:p>
+    <tei:p>
+     Nepreniknuteľná tma tu ovládala a úplné ticho. Ani slabý,   vzdialený šelesť, ktorý až dosiaľ mu prezradzoval pred ním utekajúcu   zver, nebolo počuť, ba ani len vetrík, ktorý pred tým občas zakýval   vetvami stromov-asi až sem nemohol preniknúť.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň zostal ticho stáť. Preniklo ho silné presvedčenie, že   tu nie je sám, ktosi, alebo čosi, je mu na blízku, ktosi strašný,   čosi záhadného a zlého-a stále upiera na neho oči. Tak mocný bol   pocit tento, že sa zohnul a čakal. Čakal, že asi bude na neho   podniknutý útok. Áno a zdalo sa mu, že vidí čosi v hustej tme, čosi   príšerného a tu po pravej strane vedľa seba. Máchnul rukou, dotkol sa   však len kmeňa jedného stromu Naslúchal bedlivejšie, nepočul však   zase nič. Dlho tu stál, majúc stále ten pocit, že tu nie je sám.
+    </tei:p>
+    <tei:p>
+     „Priamo komické,“ dumal si. „Netrpím vidinami, ale toto ma   privádza do rozpakov.“
+    </tei:p>
+    <tei:p>
+     Kľakol si a začal sa na kolenách a rukách plaziť do predu.   Akonáhle sa pohnul, zdalo sa mu, že celkom zreteľne začul po ľavej   sírane akýsi pohyb. Čo to bolo, nevedel. Zastavil sa a naslúchal, ale   nebolo počuť zase nič, úplne nič-jedine tlkot jeho vlastného srdca,   do ktorého sa vkrádal strach, ozýval sa tíško.
+    </tei:p>
+    <tei:p>
+     Bázeň ho zaujala v tej tme a v tom tichu, ale bránil sa jej zo   všetkých síl. Stále a stále ho svádzalo k tomu, aby zrazu vyskočil a   utiekol odtiaľto a nevrátil sa nikdy viac. Avšak znovu potlačil to   rozhodnutie. Vôbec nevedel, čoho sa bojí, bola to akási neurčitá   hrôza, ako dieťa, ktoré sa samotné ocitne v nepreniknuteľnej tme,   bolo mu, ako by všetky besy, ktoré jeho predkovia zažili v lesoch za   tmavých nocí, sa mu vracaly do duše a ju rozdrásavaly.
+    </tei:p>
+    <tei:p>
+     Ľahol si unavený strachom. Bol spotený na celom tele a triasol sa   ako osika. Začul ale, ako sa niekto blízko neho zasmial. Hneď ako by   všetok strach z neho spadol.
+    </tei:p>
+    <tei:p>
+     Bol to smiech zvierací, bol to smiech hlboký, bol to smiech   strašný-bolo to však aspoň niečo skutočnéno, prirodzeného, snáď aj   ľudského, ale pri všetkom niečo hmlistého. Janko Rekeň však ležal   kľudne a naslúchal. Keď sa už to neopakovalo, vstal. Pohnul sa   dopredu Šiel opatrne a ostražite, avšak predsa už bez onej   svrchovanej úzkostlivosti ako dosiaľ. Bolo isté, že jeho prítomnosť   je známa.
+    </tei:p>
+    <tei:p>
+     Dorazil na druhý okraj lesa a vystúpil z húšťavy stromov. Na čele   pocítil svieži nočný vánok a nad hlavou milý svit hviezd i strieborný   sŕpok mesiaca, vznášajúceho sa nad zapáleným obzorom.
+    </tei:p>
+    <tei:p>
+     Zastal v tieni na pokraji lesa nejakú chviľku, premýšľajúc v   duchu, kto to môže byť, ktorému je nepríjemná jeho prítomnosť.
+    </tei:p>
+    <tei:p>
+     Vyhľadal si pozdejšie príhodné miesto pod akýmsi hustým kroviskom,   kde dúfal, že bude môcť pohodlne stráviť zbytok noci. Vetve i listie   boly tak husté, že tvorily mu priamo strechu nad hlavou a zem bola   porostlá mäkkým mochom, ktorý sľuboval byť čo najprepychovejším   lôžkom. Také miesto samo bolo veľmi príhodné, lebo vpredu bola   otvorená krajina, prehľadná proti nočnému nebu.
+    </tei:p>
+    <tei:p>
+     Už začal usínať, keď v tom počul blízko seba tichý plačlivý   hlas:
+    </tei:p>
+    <tei:p>
+     „Bože môj! Bože môj!“
+    </tei:p>
+    <tei:p>
+     Rekeňovi pripadal tento hlas, volajúci z lesa uprostred temnej   noci, tak nemožným a neprirodzeným, že zpočiatku nechcel ani uveriť,   že ho počul.
+    </tei:p>
+    <tei:p>
+     Avšak nové detské volanie:
+    </tei:p>
+    <tei:p>
+     „Bože môj! Bože môj!“ bolo tak prosebné, naliehavé, ba úpenlivé.   Cítil, že sa musí ozvať. Zdalo sa mu, že je vylúčené, aby vychádzalo   z pozemských úst.
+    </tei:p>
+    <tei:p>
+     „Ako je možné, aby nejaká bytosť bola tu v hlbokom lese za tmavej   noci a aby tak úpenlive volala“.
+    </tei:p>
+    <tei:p>
+     Cítil, že mu mráz prechádza všetkými kosťami a ako mu vlasy hrôzou   vstávajú na hlave.
+    </tei:p>
+    <tei:p>
+     „Bože môj! Bože môj!“ znovu sa ozval prenikavý hlas.
+    </tei:p>
+    <tei:p>
+     Neváhal, ako poháňaný vyššou mocou nemohol odolať a dal sa tým   smerom, odkiaľ sa zdal vychádzať ten záhadný hlas.
+    </tei:p>
+    <tei:p>
+     Stále sa ozýval ten plačlivý hlas, až ho zaviedol k miestu, kde   stála veľká strmá skala. Zrazu preblysklo jasné svetlo, osvietilo ho   na chviľku a zas uhaslo.
+    </tei:p>
+    <tei:p>
+     „Nová korisť?“ ozval sa tlumený hlas zo sotva badateľného   otvoru.
+    </tei:p>
+    <tei:p>
+     Záchvat poverčivej hrôzy, ktorý dosiaľ svieral Rekeňove srdce,   ihneď pominul, lebo hlas tento bol ľudský. Bol však ešte predesený,   zároveň i veľmi prekvapený, lebo nemal tušenia, kto to môže byť,   ktorý ho privábil tak záhadným spôsobom.
+    </tei:p>
+    <tei:p>
+     Mrzelo ho veľmi, že sa dal tak detsky vylákať. I povedal skoro   zlostne:
+    </tei:p>
+    <tei:p>
+     „Čo má znamenať vaše divné jednanie?“
+    </tei:p>
+    <tei:p>
+     Odmlčal sa.
+    </tei:p>
+    <tei:p>
+     Začul prenikavý hvizd.
+    </tei:p>
+    <tei:p>
+     V tom okamžiku onen výbežok skalný, ktorý Janko Rekeň letmo   spozoroval cez rozstrapatené vetve skalného stromu a ktorý považoval   za prirodzený výčnelok mohutného skalného balvanu, sa odpútal odtiaľ   a dopadol priamo na neho, objímajúc ho pevne okolo krku a ramien.
+    </tei:p>
+    <tei:p>
+     Pod touto tiahou a neočakávaným bremenom zrútil sa na zem i s tým,   čo na neho spadlo a ovinulo sa okolo jeho tela. Pokúšal sa vyslobodiť   z nepríjemného objatia, avšak rýchla a ostrá rana do hlavy ho   srazila.
+    </tei:p>
+    <tei:p>
+     Stratil vedomie.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V skalnej dutine.
+    </tei:head>
+    <tei:p>
+     Začaly sa mu vracať smysly. Ležal na chrbáte, majúc ruky prehnuté   dozadu a okolo tela pevne spútaný povrazom. Bol teraz zajatcom a   každá obrana bola vylúčená.
+    </tei:p>
+    <tei:p>
+     „Dobre sviazať!“ rozkazoval neznámy hlas z blízkeho skalného   otvoru.
+    </tei:p>
+    <tei:p>
+     Ako v odpoveď ozvalo sa neartikulované zamrmlanie a zdalo sa   vyjadrovať kladný prejav.
+    </tei:p>
+    <tei:p>
+     „Dnes by som sa chcel vyhnúť všetkým násilnostiam-je to vždycky na   uváženie,“ ozvalo sa zo skalného otvoru.
+    </tei:p>
+    <tei:p>
+     Opäť odpoveďou bolo ono neartikulované a zvieracie zamručanie,   ktoré sa nezdalo vychádzať ani z ľudského ani zo zvieracieho hrdia a   z ktorého predsa vyznievalo úplné porozumenie a nevýslovná hrôza.
+    </tei:p>
+    <tei:p>
+     Neznámy v skalnom otvore sa usmial zľahka a zatiaľ, čo jeho kroky   umieraly v čiernej noci, Janko Rekeň ešte hodnú chvíľku počul jeho   tichý a zlovestný smiech. Krátky čas ležal bez pohybu, potom ale   pokúšal sa vyprostiť. Putá však boly pevné a nemohol sa ani pohnúť.   Otvoril ústa a chcel volať o pomoc, ale ihneď ohromná chlpatá a   odporná ruka sa mu pritlačila na ústa. Zbadal, že je vydaný na milosť   a nemilosť netvorovi.
+    </tei:p>
+    <tei:p>
+     Premietal celú svoju minulosť a cítil pri tom, ako sa mu ostré   putá zarezávajú hlboko do kotníkov a kĺbov. Ležal a čakal koniec, o   ktorom vedel, že je mu bezpečne prichystaný a nedá dlho na seba   čakať. V tomto zúfalom postavení sa svíjal ani had bezmocným hnevom,   že sa dal nachytať a tak detsky vliezol sám do nástrahy.
+    </tei:p>
+    <tei:p>
+     „Ako sa to mohlo stáť, že som sa dal tak ľahko zlákať? Nebola tá   cela vec veľmi nápadná?“ nadával si v duchu.
+    </tei:p>
+    <tei:p>
+     „Čo zamýšľate so mnou?“ opýtal sa hlasno. Ticho, ako odpoveď   dopadol na neho náhly papršlek svetla, pravdepodobne zo zlodejskej   lucerny.
+    </tei:p>
+    <tei:p>
+     Zrazu pocítil, ako chlpaté ruky ho ohmatávaly hore i dole a   zastavily sa na povraze, ovinutom okolo jeho rúk a celého tela.   Nemohol sa brániť. Chlpaté ruky uviazaly mu cez oči šatku,   zapáchajúcu pokročilou hnilobou, zdvihly bezmocné telo Janka Rekeňa a   niesly asi dvacať krokov. Neznámy nepriateľ sa zastavil, položil   bremeno a nechal ho kľudne ležať na zemi.
+    </tei:p>
+    <tei:p>
+     Zajatec cítil inštinktom, že bol nesený ku skalnému otvoru. Teraz   už vlastne nemal strachu, príšernosť postavenia mu dodala   odvahy-cítil ale, že koniec je neodvratný.
+    </tei:p>
+    <tei:p>
+     „Smrť však,“ uvažoval, „môže byť len prechodom vo večnosť a   vykúpením z tohoto postavenia.“
+    </tei:p>
+    <tei:p>
+     Náhle niečo zaškrípalo, dľa zvuku to boly ťažké okované železné   dvere. Hneď na to uchopily ho chlpaté ruky. Po niekoľkých krokoch   neznámeho ovanul Janka Rekeňa ťažký studený podzemný vzduch, že   mimovoľne sa zatriasol od zimy. Neznámy ho složil a nechal ho ležať   na tvrdej studenej skale.
+    </tei:p>
+    <tei:p>
+     Až dosiaľ sa namáhal Janko Rekeň byť kľudným a to zo všetkých síl,   aby sa mu naskytla príležitosť a možnosť vyslobodiť sa z pút, ale   teraz ho prepadol strach, zúfalý strach, aký človek pociťuje pod   dojmom neznámej, avšak strašnej hrôzy. Cítil, ako mu ľadový, pot   vyráža po tele od hlavy až k päte.
+    </tei:p>
+    <tei:p>
+     Šialene a zúrive sa začal škubať a hádzať po zemi, snažiac sa   vykĺznuť z povrazu, ktorý bol pevne a bezpečne ovinutý okolo tela.   Ale celá jeho námaha bola marná. Ako zápasil, doľahol mu k uchu divný   tichý zvuk, ktorý nemohol k ničomu pripodobniť, ale znelo to ako   hrozný a odporný chechtot.
+    </tei:p>
+    <tei:p>
+     Ozval sa dutý zvuk. Začul výkrik hlasný, hrozný a prenikavý a   nevedel, kto ho zo seba vyrazil, až tu náhle ucítil ohromnú ruku,   odpornú chlpatú, ktorá sa mu pritlačila na ústa.
+    </tei:p>
+    <tei:p>
+     Klesol.
+    </tei:p>
+    <tei:p>
+     Zostal ležať, vôbec nie schopný urovnať myseľ. Potácal sa v akejsi   tupej zmalátnelosti, nehýbal sa, ba temer ani nedýchal, až studeným   prúdom vzduchu začala sa mu zvoľna vracať chladnokrvnosť.
+    </tei:p>
+    <tei:p>
+     Jasno sa začalo vracať jeho pamäti. Krčovite zdrevenelými údami   začala mu zase prebiehať krv.
+    </tei:p>
+    <tei:p>
+     Prvou jeho myšlienkou bolo od začiatku uprchnúť pri najbližšej   príležitosti na veky z týchto miest, ale teraz celkom iný úmyseľ sa   začat rodiť v jeho hlave a hoci občas bez všetkej príčiny prebehlo mu   ešte telom mocné zamrazenie, predsa sa mu odvaha a odhodlanosť zase   vracaly. V duši vyrástlo pevné rozhodnutie, že neopustí skôr toto   miesto, dokiaľ nevypátra, aká tajomná odroda prírody alebo ľudstva má   tu v tejto chladnej skale svoj brloch a dokiaľ sa s ňou dôkladne   nevyúčtuje.
+    </tei:p>
+    <tei:p>
+     „Musí to byť predsa len nejaká ľudská stvora“, uvažoval. „Malo to   ruky, hoci chlpaté a ako sa zdalo, dorozumievalo sa pomocou   primitívneho mrmlania.“
+    </tei:p>
+    <tei:p>
+     „Iste“, premýšľal ďalej, „je to človek, hoci i človek v akomsi   prapodivnom a zvieracom smere degenerovaný a následkom toho tiež i   tie divoké a záhadné myšlienky, ktoré za nočnej tmy zdajú sa byť dosť   nadprirodzenými, v plnom dennom a hrejivom svetle slnečnom obstanú.   Ten môj nepriateľ je rozhodne človek, hoci už akého druhu.“
+    </tei:p>
+    <tei:p>
+     „Aké to miesto, ako je tu ticho“, predniesol polohlasne.
+    </tei:p>
+    <tei:p>
+     Ani najslabší hlások nedoľahol k jeho sluchu; nebol vstave   zahliadnuť v tej čiernej temnote, rozkladajúcej sa okolo, predsa však   ticho, ten kľud, tá temnota, všetko vyznievalo v jediný výkrik o   pomoc, ktorého ozvenu pociťoval v každej cievke a ktorým celá jeho   bytosť sa prechvievala.
+    </tei:p>
+    <tei:p>
+     Odkiaľ však prichádzala tá tichá prosba, či od koho, o tom nemal   ani najmenšieho tušenia, len sa mu zdalo, ako by celá noc bola ňou   naplnená.
+    </tei:p>
+    <tei:p>
+     Zrazu pocítil hroznú boľasť v hrdle, kde ukrutný tlak pokúšal sa   zdusiť v ňom všetok život. Vyrazil v dutý chrapľavý škrek a bezmocne   trhal sebou v tom diabolskom objatí, ktoré svieralo jeho hrtan. So   zúfalým napnutím všetkých síl škubol telom na bok a tu ucítil, ako   prsty na jeho hrdle sa šmýkajú a uvoľňujú tlak.
+    </tei:p>
+    <tei:p>
+     V tom začul, ako sa dvere zvoľna a tíško otvárajú... zatvárajú,   ako by bol práve niekto opatrne vyšiel von, alebo vstúpil do   vnútra.
+    </tei:p>
+    <tei:p>
+     Ohromná ruka sa znovu priblížila, pritiskla sa na jeho ústa.   Začala ho ohmatávať a opäť sa zastavila na jeho krku, kde ho začala   svierať tak ľahko, ba temer labužnícky, ako by v smyseľnom opojení   túžila ho objať a stisknúť, až by z neho vytlačila poslednú šťavu   života.
+    </tei:p>
+    <tei:p>
+     Jankovi Rekeňovi sa zdalo, že prišla posledná hodinka, ale tá ruka   zase povolila a začala ho opäť ohmatávať, ako to robí krajčír s   novokúpeným súknom.
+    </tei:p>
+    <tei:p>
+     „Počujte, skončite to so mňou, alebo mi dajte svätý pokoj!“ zvolal   zlostne.
+    </tei:p>
+    <tei:p>
+     Pocítil, ako chlpaté ruky prebehly ešte niekoľkokrát hore i dole   po celom tele a zastaly na šatke, previazanej cez oči.
+    </tei:p>
+    <tei:p>
+     Jedným trhnutím bola šatka dole.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň otvoril oči
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Krásna zajatkyňa.
+    </tei:head>
+    <tei:p>
+     V prvom okamžiku rozoznal len čiernu skrčenú postavu, ktorej   obrysy sa nejasno odrážaly od drsných stien chladnej jaskyne a počul   občas hlboké, hundravé a ťažké oddychovanie.
+    </tei:p>
+    <tei:p>
+     Chcel sa dobre pozreť, kto s ním tak neľútostne a zversky   zachádzal. Keď oči jeho zvykly si na podzemné svetlo, zbadal celkom   jasne a určite nízku postavu ako strašný nočný dravec, neforemnú   mačku, či skalné strašidlo ani obrovská veverica. Bola to malá   chlpatá obluda, ktorej zversky strhaná tvár a silná vysadlá čelusť   nezdala sa ani patriť ľudskej bytosti. Temná pleť, zverský výraz   tváre, vycerené zuby, neprirodzená dĺžka okončatín v srovnaní s   krátkym hranatým trupom, ako i úžasná chlpatosť celého tela a   roztrhané prehnilé šaty tvorily celok, ktorý za neurčitého svetla   pôsobil rozhodne viac dojmom zvieracím ako ľudským.
+    </tei:p>
+    <tei:p>
+     Vedľa stála žena.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň pozrel rozšírenými očami na štihlú dievku strednej   postavy, stojacu ani božské zjavenie pri drsnom tvorovi. Všimol si   krásne rostlej postavy a hrdého čela. Zlaté vlasy sa vlnily v   nepokojných kaderách až na bielu šiju, kde sa rozlievaly v nespútnanú   záplavu. Modré oči žiarily rozžeraveným zlatom, zahaleným slabým   náterom vzrušenia. Tak bol prekvapený, že zahryzol do ruky, či spí,   či je to skutočnosť.
+    </tei:p>
+    <tei:p>
+     Bola to však skutočnosť.
+    </tei:p>
+    <tei:p>
+     Mimovoľne mu zahral trpký úsmev na ústach, ale za okamžik na ňom   nebola ani stopa bezstarostnosti. Tváre mal stiahnuté odhodlaním a   bojovnou vôľou, ale v očiach bol zvláštny svit, v ktorom sa dal   celkom bezpečne rozoznať strach, šialený, neprekonateľný strach,   ktorý zvoľna ustupoval mlčiacemu pohľadu; šialený strach, ktorý   vzrástal o život neznámej krásky.
+    </tei:p>
+    <tei:p>
+     Šaty mala miestami roztrhané.
+    </tei:p>
+    <tei:p>
+     „Iste je to tá, ktorej šatku a vreckovku som našiel v lese,“   preletelo mu mysľou.
+    </tei:p>
+    <tei:p>
+     „Trochu divné soznámenie!“ predniesol skoro sarkasticky,   ohliadajúc sa pritom na neforemné telo svojho väznitefa.
+    </tei:p>
+    <tei:p>
+     „Som rada, že nie ste ranený,“ odvetila s ľahkým úsmevom.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň sa snažil znovu získať svoj kľud a chladnokrvnosť, ale   nijako sa mu to nechcelo dariť. Tak ako tu ležal v rozpakoch,   pripomínal malého chlapca, ktorý po dlhej dobe uvidel matku a nemôže   zo seba radostným šťastím vytlačiť ani slovíčko na uvítanie.
+    </tei:p>
+    <tei:p>
+     „Som Janko Rekeň a...“ prehovoril ticho, zatiaľ čo sa mu krv   hrnula do tváre.
+    </tei:p>
+    <tei:p>
+     Zastal uprostred vety, márne tápajúc po niečom, čo by povedal   dievčaťu, ktorá sa mu zdala byť najkrásnejším príslušníkom svojho   rodu na celej zemeguli. Cítil, ako ležia na ňom hlboké a pripravujú   ho o reč veliké oči so zlatým leskom,
+    </tei:p>
+    <tei:p>
+     žiariace na neho z pod pletencov rozpútnaných vlasov.
+    </tei:p>
+    <tei:p>
+     „Som šťastná, že tu vidím skutočnú ľudskú bytosť. Mňa volajú...“   podlomil sa jej hlas a červená záplava zakryla jej tvár od hrdla až   ku korienkam rozcúchaných vlasov.
+    </tei:p>
+    <tei:p>
+     Kývla rukou.
+    </tei:p>
+    <tei:p>
+     Tu nepodarená ľudská podoba uvoľnila mu putá a divokým smiechom   zimzla za škrípajúcimi ťažkými dverami.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň bol voľný.
+    </tei:p>
+    <tei:p>
+     Rýchlo vyskočil na odrvené nohy a rozprúďoval krv v zdrevenelých   údoch.
+    </tei:p>
+    <tei:p>
+     „Považujete ma iste za niečo horšieho, ako som v skutočnosti...“   povedala skoro násilne, snažiac sa dodať si zdanie celkom kľudného   človeka a urobila krok do predu.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň sa trošku zatriasol, keď pristúpila až tesne k nemu.   Dýchala z nej na neho úžasná sviežosť a podmaňujúce kúzlo, ktorému sa   ťažko bránil. Správne povedano-brániť sa nechcel, lebo všetko, čo sa   týkalo neznámej zlatovlásky, ho naplňovalo neznámym pocitom   radostného šťastia. Ťažko potlačoval svoje vzrušenie, bojac sa, aby   nepoznala, čo sa v ňom odohráva.
+    </tei:p>
+    <tei:p>
+     Neznáma v okamžiku ľahko očervenela. Tým skôr, že z Jankovho   obličaja zmizol tupý, zadumaný výraz a miesto neho nastúpil široký   úsmev, pri čom sa dievčatku neodôvodnene zdalo, že celý svet je   jasnejší
+    </tei:p>
+    <tei:p>
+     „Volajte ma Ditou“, prehovorila zvonivým hlasom. „Sme obaja   zajatci divokého človeka, ktorým som bola pri večernej prechádzke   prepadnutá. Obrana bola marná, kričať o pomoc som nemohla. Zaniesol   ma sem do tohoto brlohu. Zprvu ma mučil, chcel ma zahrdúsiť, ale o   krátky čas asi zapôsobila na neho ženskosť, lebo mi nosí potravu už   niekoľko dní. Obluda si ma pravdepodobne obľúbila, lebo zachádza so   mnou láskave ako s dieťaťom a mám i nepatrné privilégiá a to, že sa   môžem v týchto podzemných komnatách voľne pohybovať a niekedy si   predniesť i svoje prianie, ktoré mi neartikulovaným prisvedčením   dosiaľ splnil.“
+    </tei:p>
+    <tei:p>
+     „Bohužiaľ pokračovala, „som v zúfalej situácii a iste je to dar   neba, že ste sa sem dostal, hoci i hrubým spôsobom a proti svojej   vôli. Skutočne som potrebovala niekoho, ktorý by mi pomohol dostať sa   z tohoto väzenia.“
+    </tei:p>
+    <tei:p>
+     „Som vám k službám a som rád, že mám šťastie pomôcť práve vám,   hoci i ja sám potrebujem pomoci a nájsť kľúč k rozlušteniu celej   tejto záhadnej veci. Sme odkázaní na seba a jediným naším cieľom je   oslobodiť sa. Budete asi vedeť vysvetliť v akej spojitosti sme boli   sem dopravení a čo je to za nepodarený plod ľudského pokolenia, ktorý   ovláda tento skalný úkryt.“
+    </tei:p>
+    <tei:p>
+     „Ste dobrý, že mi chcete pomôcť a neopustíte ma. Budem vám   povďačná, veľmi povďačná. Čo má ten netvor za lubom, nemám ani len   tušenia. Zaiste zatým bude skryté tajomstvo, aké, to sa ukáže.   Varujem vás však, aby ste nepodnikal nejaký útok na obludu, lebo by   sme boli za živa pochovaní. Dvere sa vždycky automaticky zavierajú a   len na nejaké tajomné znamenie sa z vonku otvoria. Obluda má ešte   pravdepodobne spoločníka, človeka, ktorého panovačný hlas som   niekoľkokrát začula cez zatvorené dvere. Jeho tvár som dosiaľ nemala   šťastie videť.“
+    </tei:p>
+    <tei:p>
+     Janko Rekeň pozoroval jej nežný, ale pevný profil, na ktorom hralo   slabé žlté svetlo zlatým odtieňom, podobajúcim sa svitu v jej očiach.   Vlnami vlasov si pohrával úzky prúd vzduchu, vystupujúci zo skalnej   skuliny. Tak jak tu stála v nerozhodnom úžasu, krásna medzi drsnými   stenami jaskyne, podobala sa soche, ktorú vytesal najgeniálnejší   sochár k pocte ženy
+    </tei:p>
+    <tei:p>
+     Aspoň on v nej videl niečo takého a sotva dýchal, bojac sa, aby ju   nepoplašil a nestratil krásny obraz z očí. Cítil, že je k nej   priťahovaný zvláštnym kúzlom a vzájomným porozumením. Divil sa sám   sebe, lebo od detských dôb sa mu neprihodilo, aby pri rozhovore s   niekým bol tak rozrušený a nesvoj, ako sa mu ztalo vo styku s týmto   dievčaťom. Musel vynaložiť všetku duševnú silu, aby sa mu netriasol   hlas a nečerveňal sa ako školák.
+    </tei:p>
+    <tei:p>
+     Nevedel, pravda, že niečo podobného hrá i v duši zlatovlásky.
+    </tei:p>
+    <tei:p>
+     Uplynul celý týždeň.
+    </tei:p>
+    <tei:p>
+     Nič zvláštneho sa neprihodilo. Podzemný prízrak pravidelne nosil   potravu a ešte im urobil i lôžko zo starých opotrebovaných handier,   ktoré asi už vyradil zo svojej toilety.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň zatiaľ priamo dychtive prekonával ťažké balvany,   tvoriace stenu pri vchode do jaskyne. Pred každým jedením maskovala   Dita jeho úspešnú prácu rozprestrením prehnilých šiat po nakupených   skalách.
+    </tei:p>
+    <tei:p>
+     Janko a Dita si rozumeli.
+    </tei:p>
+    <tei:p>
+     Veľmi často sa im stretávaiy oči a robili dojem dvoch hanblivých   detí, ktoré rodičia po prvýkrát dali dohromady a prikázali im, aby sa   spolu hraly.
+    </tei:p>
+    <tei:p>
+     Dita vedela získavať svojím pôvabom a úprimnosťou. Janko Rekeň   neuvedomoval si dosiaľ príčinu zmeny, ktorú v jeho vnútri spôsobila   krásna dievka so zlatými kaderami a modrými očami.
+    </tei:p>
+    <tei:p>
+     Často ju videl v myšlienkach pred sebou tak, ako sa mu jej zjav   vryl do pamäti. Videl ju bezmocnú a zároveň zúfale odhodlanú, keď   stála pri ňom a pozorovala jeho osloboditeľskú prácu.
+    </tei:p>
+    <tei:p>
+     Musel sa pozerať inde, hoci k tomu bolo nutno vynaložiť všetky   sily. Nemohol jej pohliadnuť do očí, lebo sa bál, že jediným pohľadom   by dal všetko na javo, čo sa v ňom odohráva.
+    </tei:p>
+    <tei:p>
+     V tom okamžiku, keď zdvihla ruky a zvrátila hlavu do zadu, až sa   jej rozpustené vlasy vylialy ťažkými vlnami do pasu, pochopil to, čo   mu vzalo od prvého stretnutia s ňou všetok kľud.
+    </tei:p>
+    <tei:p>
+     Prišlo to náhle....
+    </tei:p>
+    <tei:p>
+     Temer ho udrelo ono poznanie, že Ditu miluje. Ustúpil mimovoľne,   žasnúc nad samozrejmosťou, s ktorou ho prekvapila láska.
+    </tei:p>
+    <tei:p>
+     V tomže okamžiku obrátila k nemu svoju anjelskú tvár s jemným   úsmevom na malinových ústach a žiarivými očami. Ako by ho volala, aby   sa s ňou delil o jej radosť a žalosť života.
+    </tei:p>
+    <tei:p>
+     „Život je krásny, Janko...“
+    </tei:p>
+    <tei:p>
+     Rekeň úžaslý vrátil sa pohľadom k dievke, ktorá silno očerveňala.   Nikdy dosiať ho neoslovila týmto menom, lebo nemala k tomu odvahy,   ale teraz jej vykĺzlo z úst úplne samo, mimovoľne,
+    </tei:p>
+    <tei:p>
+     „Smiem vás tak volať?“ opýtala sa ticho.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň mlčky pristúpil k nej, stiskol jej ruku, neodvažujúc   sa prehovoriť. Chvíľku tak stáli, spojení stiskom rúk i   myšlienkami.
+    </tei:p>
+    <tei:p>
+     Potom Dita ukázala na nedokončený otvor.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Záhadný cingot.
+    </tei:head>
+    <tei:p>
+     Od chviľky, ako Janko Rekeň bol zanesený do skalného brlohu,   cítila Dita podivnú stiesnenosť, ktorej sa nemohla za žiadnu cenu   zbaviť. Nútilo ju stále, aby hľadela ku vchodu a očakávala akúsi   nepochopiteľnú udalosť, ktorá stále neprichádzala.
+    </tei:p>
+    <tei:p>
+     Nevedela, čo sa s ňou robí. Ten divný nepokoj ju napadol hneď pri   prvom stretnutí. Videla dosiaľ, ako bezmocný ležal pri nohách   strašného netvora, aký neuveriteľný obrat nastal v celej veci.
+    </tei:p>
+    <tei:p>
+     Pritiahla si plášť prevlhlý studenou rosou k sebe a učupila sa k   vyčnievajúcej skale.
+    </tei:p>
+    <tei:p>
+     Ostatne Janko Rekeň bol silný triciatnik, atletickej postavy a   priameho pohľadu, ktorým si vedel získať priateľstvo. Mal úzku,   zdravú, tmavú tvár s trošku vystúplymi lícnymi kosťami, rovný nos a   pekné ústa. Nad čelom sa mu vlnily čierne havranie vlasy, spadajúce   obvykle nepokojnou kaderou nad ľavé oko, čo mu dodávalo chlapeckého   vzhľadu. Keď sa k tomu pripočítal i jeho večný úsmev, odhaľujúci   pekné biele zuby, vzniknul celkový obraz bezstarostného a pritom   neobyčajne energického a húževnatého muža, patriaceho do skupiny tých   nespokojných ľudí, ktorí vedia opustiť všetko za preludom niečoho   lepšieho, ale zároveň neistého.
+    </tei:p>
+    <tei:p>
+     Jeho sedemdesiat kilové telo sa pohybovalo ľahko ani kostra   pružného chlapca, ktorý sa má iba za niekoľko rokov zmeniť v pravého   muža. Široké ramená boly vtlačené do ošarpaného kabátiku, vyšitého   ľudovými vzorkami.
+    </tei:p>
+    <tei:p>
+     Bol bez všetkých pochybností pekným mužom. To mu nemohol uprieť   ani ten najzarytejší mrzút a tým sa asi stalo, že tak silno zapôsobil   na Ditu.
+    </tei:p>
+    <tei:p>
+     Už bol večer. Oddych po práci.
+    </tei:p>
+    <tei:p>
+     Chlad, ktorý zavial z predu od nepreniknuteľnej čiernej steny,   stále sa zosiľoval. Bolo v ňom cítiť vlhkosť, vôňu pliesne a zvláštny   nepopísateľný pach, vznikajúci tienim listia. Hustnúca tma pohltila   oboch pri večernej debate. Hučanie neviditeľných korún stromov nad   strmým bralom sa slievalo v jediný melancholický tón, ktorý pôsobil   ukľudňujúcim spôsobom na dievčine nervy. Všetky spomienky a obavy,   ako by zanikly v jeho tichom a predsa mohutnom hlase, vyhrávanom   tajomným slákom na tisícich strunách, v ktorom sa premenily i drsné   balvany chladnej jaskyne.
+    </tei:p>
+    <tei:p>
+     Ditina hlava klesala stále viac a viac na bok, až konečne sa   ustálila na Jankovom ramene.
+    </tei:p>
+    <tei:p>
+     „Janko...,“ pery sa zachvely nevyslovenými slovami.
+    </tei:p>
+    <tei:p>
+     Sklonil hlavu, pobozkal ju na ústa a pritúlil ju k sebe.
+    </tei:p>
+    <tei:p>
+     Bola chladná noc s bľadým svitom, ktorý ležal na povalí spotenej   jaskyne.
+    </tei:p>
+    <tei:p>
+     Poľúbenie toto pálilo ho na ústach, vzduch mu pripadal ako víno.   Podivný kryt s pohyblivými pruhami svetla sa mu zdal krásnejší a   kdesi v útrobách srdca vzrástala vďačnosť k moci, ktorá tvorila a   ovládala úžasný a nádherný vesmír. Videl teraz jasnejšie, ako inokedy   pred tým -aký zázrak urobilo spoznanie s Ditou. Až dosiaľ sa   domnieval, že život sa pohybuje v kruhu nenávisti a neprávosti, že je   bezvýznamnou vecou, ktorou sa človek lopotiac prediera k smrti.
+    </tei:p>
+    <tei:p>
+     Teraz-všetko sa zmenilo.
+    </tei:p>
+    <tei:p>
+     Dita vniesla do jeho života nový význam, vyplnila bahnistú cestu   minulosti.
+    </tei:p>
+    <tei:p>
+     Zrazu ozval sa podivný zvuk, ani keby niekto chorobne mince hádzal   na stôl.
+    </tei:p>
+    <tei:p>
+     Zvýšili pozornosť.
+    </tei:p>
+    <tei:p>
+     Pocítili akúsi hrôzu a tajomnú úzkosť, ktorá sa im postupne   vkrádala do srdca. Dojem ten bol dvojfarebný. Pokúšali sa ho zahnať,   lebo sa im zdal práve tak nemožným ako jeho úzkosť.
+    </tei:p>
+    <tei:p>
+     Zastali a vyčkávali, že budú privítaní novým prekvapením.
+    </tei:p>
+    <tei:p>
+     „Iste tu bude nejaké tajomstvo,“ prerušil Janko Rekeň trapné   mlčanie.
+    </tei:p>
+    <tei:p>
+     Hlboké ticho zostalo neporušené. Všetko bolo kľudné a nič sa ani   len nepohnulo, ani najmenšia známka života sa nejavila v jaskyni.
+    </tei:p>
+    <tei:p>
+     Šli za kovovým zvukom. Janko zdvihol kameň a skúšal skalnú stenu,   či nemá nejaký tajný otvor.
+    </tei:p>
+    <tei:p>
+     Obišli vlhkú skalu a Janko si všimol, že väčšia polovica zadnej   steny je umele urobená.
+    </tei:p>
+    <tei:p>
+     Zaklopal, ale neozvala sa žiadna odpoveď a keď zaklopal znovu,   teraz ešte silnejšie, znovu nedostal žiadnu odpoveď.
+    </tei:p>
+    <tei:p>
+     Mlčanie sa rozkladalo po celej jaskyni. Všade vládol kľud a mier a   jediný zvuk, ktorý rušil to hlboké ticho, bola ozvena jeho vlastného   hlasného klopania, keď po tretíkrát zabúchal kameňom na stenu.
+    </tei:p>
+    <tei:p>
+     „Musí tu byť živá bytosť,“ tvrdil Janko Rekeň.
+    </tei:p>
+    <tei:p>
+     Znovu ticho.
+    </tei:p>
+    <tei:p>
+     Pripadalo mu to zvláštnym i zaklopal ešte silnejšie. Ale zase sa   nikto neozval, lebo aspoň nedbal jeho volania, takže ho napadol znovu   ten divný a stiesnený dojem, ktorý mal, keď prechádzal lesom-dojem   akejsi neviditeľnej prítomnosti.
+    </tei:p>
+    <tei:p>
+     Chviľku čakal, ale stále sa nikto neozýval. Niekoľko minút stál   váhave a potom začal skúmať umele urobenú stenu, neodborne viazanú z   väčších menších skál.
+    </tei:p>
+    <tei:p>
+     Po dlhšom čase zistil miesto, kde stena vydávala tenký zvuk. S   veľkou námahou sa mu podarilo vytrhnúť malý kváder, ktorý hodne   uľahčil rozoberanie nepodarenej väzby. Ruky už mal odrané. Z prstov   mu tiekla krv cícerkom, on však ani posadlý zlým duchom šialene   prerážal stenu.
+    </tei:p>
+    <tei:p>
+     Najviac námahy mu spôsobil veľký balvan, ktorý držal celú hornú   väzbu steny. Vynaložil všetky schopnosti, napnul svoje sily až do   krajnosti a pomocou Ditinou sa mu predsa podarilo vyvaliť.
+    </tei:p>
+    <tei:p>
+     V tom však sa uvoľnila väzba a celá stena spadla s veľkým rachotom   dole. Janko Rekeň a Dita v poslednom okamžiku s hrozným výkrikom   odskočili, div, že ich neohlušilo a nezabilo.
+    </tei:p>
+    <tei:p>
+     Pred úžaslými tvárami zjavilo sa im zaujímavé divadlo.
+    </tei:p>
+    <tei:p>
+     Obaja s údivom otvorili ústa...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Poklad na kamennom stole.
+    </tei:head>
+    <tei:p>
+     Pred očami sa im otvorila malá skalná miestnosť, ktorej spotené   steny zapáchaly starou pliesňou. V pravom rohu bola z mochu upravená   posteľ, vedľa ktorej stál primitívny vešiak so starými čiernymi,   ošúchanými a zodranými šatami.
+    </tei:p>
+    <tei:p>
+     Uprostred stál dlhý kamenný stôl s množstvom mincí z rýdzeho   zlata, nádherných šperkov, lesknúcich sa a trblietajúcich jasnými   dúhovými barvami. Boly pečlive urovnané vo väčšie menšie hromádky,   ktorými bola posiata celá tabuľa a z každej kôpky vykukovala malá   bľachová doštička.
+    </tei:p>
+    <tei:p>
+     Tváre im horely, oči im svietily podivným leskom a ruky sa im   triasly, keď nervózne si siahali na krk, ako by zrazu pocítili   obtiaže pri dýchaní.
+    </tei:p>
+    <tei:p>
+     Pomysleli si v duchu, že tu pri ich nohách leží bohatstvo a že   potrebuje len ruku vztiahnuť a ono bude ich. Bolo to bohatstvo, ktoré   by ich bolo vstave uchrániť navždy od hladu i biedy i zúfalstva,   ktoré boli ešte pred nedávnom skúsili.
+    </tei:p>
+    <tei:p>
+     Pokušenie to zatriaslo nimi od hlavy až k päte, ako by skutočne   akási fyzická sila bola ich sovrela do svojich spárov. Vzmáhala sa   ich závrat’ a hrdlo mali ako by zošnúrované, vnútorne vyschnuté.
+    </tei:p>
+    <tei:p>
+     Napnuli pozornosť.
+    </tei:p>
+    <tei:p>
+     Bedlive prenikali zrakom do všetkých tieňov a odtieňov, či nie je   tu nejaký svedok, ktorý dľa úpravy jaskyne sa tu pred krátkym časom   zdržiaval a musí byť veľmi blízko.
+    </tei:p>
+    <tei:p>
+     Bol to ťažký a únavný úkol, napínajúci nervy, prehľadávať podzemný   kryt za temnej noci, bez všetkého svetla, mimo občasné škrknutie   zápalky. Ustavične boli pripravení, že každým okamžikom môže na nich   z niektorého kúta niekto vyraziť a zapliesť ich v zápas na život a na   smrť. Bolo to tiež veľmi zdĺhavé, lebo boli presvedčení, že skôr   neskôr musia naraziť na svojho nepriateľa.
+    </tei:p>
+    <tei:p>
+     Tma povoľovala, keď boli pomaly so svojou dôkladnou prácou hotoví.   Boli celí popletení a začínali sa už triasť strachom i zimou v   chladnej, holej jaskyni.
+    </tei:p>
+    <tei:p>
+     Nikoho nenašli.
+    </tei:p>
+    <tei:p>
+     Boli len sami.
+    </tei:p>
+    <tei:p>
+     Na prstoch sa doplazili ku kamennému stolu.
+    </tei:p>
+    <tei:p>
+     Dita s údivom a bez hlasu tesne sledovala Janka Rekeňa.
+    </tei:p>
+    <tei:p>
+     Boly tu ťažké zlaté mince, veľký diamantový náhrdelník, složený zo   dvaciatich šiestich nádherných kameňov a hneď vedľa neho dlhá šnúra z   najrozkošnejších perál. Ležal tu náramok vedľa náramku s   najvzácnejšími drahokamami. Bol tu celý sklad prsteňov, ihlíc a veľké   množstvo asi po tuctu snubných prsteňov, všetko z rýdzeho zlata. Boly   tu i spony i zlaté reťaze i črienky i mnoho iných šperkov, takže sa   Jankovi Rekeňovi a Dite zdalo, ako tu ležaly srovnané na stole, že   predčia leskom i samotné slnko.
+    </tei:p>
+    <tei:p>
+     Načúvali znovu napnute, či ich niekto nepozoruje. Teraz však   nenaslúchali tak ako skôr, pripravení vzdorovať každému útoku, ale   nekľudne a úzkostlive s pocitom nového a nízkeho strachu.
+    </tei:p>
+    <tei:p>
+     Terajší ich strach to nebola už tá prirodzená a samozrejmá bázeň z   hroziaceho nebezpečenstva, ktorú pocíti i ten najstatočnejší, hoci je   i pripravený odporovať každému útoku-ale bola to jednoducho len   úzkosť, že mohli by byť pozorovaní.
+    </tei:p>
+    <tei:p>
+     Boli rozhodnutí.
+    </tei:p>
+    <tei:p>
+     Našli skrytý poklad, ktorého chceli užiť pre seba, aby sa tak   zabezpečili proti drsnosti tohoto sveta, ktorý sa k nim bol   nespravodlivé a macošsky zachoval. Nahovárali si, že majú práve také   právo na tento poklad ako ktokoľvek iný a keď im ho osud hodil do   cesty za okolností tak zvláštnych, boli by veru bláznami, aby sa   nechytili tohoto šťastia.
+    </tei:p>
+    <tei:p>
+     „Tušil som, že sa tu jedná o pozoruhodnú vec,“ prerušil Janko   Rekeň hlboké ticho.
+    </tei:p>
+    <tei:p>
+     „Inštinkt“, pokračoval, „ma stále utvrdzoval, že naše podivné   dobrodružstvo má iste nejakú tajomnú spojitosť a že za tým sa skrýva   buď zločin alebo tajomstvo a náhoda ukázala pravú skutočnosť.“
+    </tei:p>
+    <tei:p>
+     Zdalo sa im tiež, že tento objav skrytého pokladu poskytuje aspoň   čiastočne vysvetlenie, čo sa tu stalo. Nebolo pochybnosti, že, hoci   už kto, vedel iste o existencii toho bohatstva a prepadnutie urobil z   obavy pred jeho vypátraním.
+    </tei:p>
+    <tei:p>
+     „Z akého dôvodu by tiež boly také drahocennosti tak ohromnej ceny   bývalý ukryté v tak podivnej skrýši?“ rozumoval. „A potom, ako   prišiel vôbec tak veľký a vzácny poklad do tejto osamelej jaskyne? Je   to snáď nahromadená korisť nejakej zbojníckej hordy?“
+    </tei:p>
+    <tei:p>
+     Všetky možné teórie a domnienky preletely Jankovou RekeňoVou   hlavou.
+    </tei:p>
+    <tei:p>
+     Labužnícky upravovali zlaté hromádky. „Toto sú mená majiteľov,“   ukazoval na malé tabuľky v každej kôpke, kde pečlivým tlačeným písmom   svietily mená a podivné značky.
+    </tei:p>
+    <tei:p>
+     „Zaiste si tu ukryli ľudia z obavy pred ukradnutím,“ pritúlila sa   k nemu Dita. „Nápisy a pečlive urovnané hromádky to zjavne dokazujú.   Podľa písma poklad tento bol už dávno sem uschovaný.“
+    </tei:p>
+    <tei:p>
+     „Pravdepodobne bude z válečných dôb. Dôkladnou prehliadkou snáď   narazíme na bližšie vysvetlenie. Náhoda nám ukázala príčinu nášeho   dobrodružstva, prečo nás prepadol ľudský netvor v blízkosti jaskyne.   Musíme ešte vypátrať, kto ovláda túto skalnú dutinu s tak vzácnym   obsahom, lebo netvor dľa náznakov, javiacich sa z jeho chovania a   jednania, je len obyčajným otrokom a nástrojom niekoho mocnejšieho,   ale dôvtipného. Je nutno zistiť, z akého dôvodu a kto dal sem tento   poklad, či je z rúk obyčajných zbojníkov alebo poctivých   pracovníkov.“
+    </tei:p>
+    <tei:p>
+     Dali sa do práce.
+    </tei:p>
+    <tei:p>
+     Pozorne rozhŕňali peniaze, šperky a drahokamy a hľadali nejaký   dokument, ktorý by im vrhnul trošku svetla do tejto záhady.
+    </tei:p>
+    <tei:p>
+     Po dlhom hľadaní objavila sa v prostrednej kôpke malá bľachová   tuba.
+    </tei:p>
+    <tei:p>
+     „Tu je niečo!“ zvolala Dita radostne, držiac v ruke medenú   válcovitú škatuľku.
+    </tei:p>
+    <tei:p>
+     Dychtive vychytil podávanú vec.
+    </tei:p>
+    <tei:p>
+     Silným úderom o roh stola otvoril tubu z ktorej vypadol žltý,   tvrdý papier pergamenový, popísaný iniciálkou a ukončený dlhým   stĺpcom podpisov a širokou pečaťou.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Dokument
+    </tei:head>
+    <tei:p>
+     Janko Rekeň trasúcimi sa rukami zdvihol zo zeme vypadlý žltý   pergamen a vzrušeným hlasom začal čítať:
+    </tei:p>
+    <tei:p>
+     „My B... Slobodný Pán na N..., V... a Z..., najvyšší Komorník,   tiež najvyšší Truksas v P... Jeho Jasnosti Rímskeho Cisára etc, tiež   v S..., najvyšší Kapitán na H... etc a verní poddaní mesta R...   zdravíme a vyslovujeme slušnú poddanosť všetkým, ktorí toto naše   prehlásenie čítať, alebo čítané počuť budú. Vinšujeme a odkazujeme   etc, s pocitom známo a povedome robíme, že Ottomanská brána válečne   proti nám tiahne Ku ochrane našej pomoc pobožní neodopreli kráľovia   kresťanskí, od plukov ktorýchto veľmi prospešne bojovano a nepriateľ   na mnohých miestach zahnaný bol, ktorý nás záhubným osudom už temer   bol pohltil, takže k dokonalému a úplnému triumfu viac nechybovalo   okrem už zbitého nepriateľa prenasledovanie. Ale kolo osudu šťastie   naše ponorilo pod hladinu neprávosti a nespravedlnosti a nepriateľ,   podporovaný Jeho Jasnosťou, Pánom a Vládcom naším, opanoval všetko a   naše práva hodil do prachu zeme.
+    </tei:p>
+    <tei:p>
+     Hľaďte ale, my snívame, že opäť dosiahneme to, čo národu nášmu   predtým bolo odňato. Najjasnejší náš Pán (akou a čiou radou, sám vie)   bez oznámenia nám a zabúdajúc výnimky, pod ktorými sa berly chopil,   taký mier uzavrel s nepriateľom, že jeho články ani Našej Zemi (o   ktorej dobro bolo jednané), ani iným vyhlásiť za užitočné   nepovažoval. Keď Jeho Jasnosti počestnej a nám, ktorí súc slobodní,   najslobodnejšími hlasmi sme ho sebe za Pána vyvolili, prospešné sú   tie články, nieto príčiny, prečo by sa tak veľmi ukrývať maly. Nie   sme zaiste tak nesmyseľní, aby aby sme nezapáchli mnoho, viac   nepredvídali, ako Pán nás znevažuje a iným za korisť vykladá slobodu   našu. Pozbavení tedy všetkej inej nádeje, keď nám slobodu zdedenú, od   nášho národa nadobudnutú, závidí, keď máme uľahnúť, uľahnime na   spôsob Samsona, so zahynutím toho, ktorý pohaneniu a koristi v   ústreti kráčajúc, často skazu našu dosiať už obmýšľal. Potreba   prikazuje moci sa podrobiť.
+    </tei:p>
+    <tei:p>
+     Vieme, že svetu kresťanskému zázrakom a ako by príslovím budeme,   keď toho, ktorý dosiaľ bol nepriateľom najukrutnejším, za Pána potom   nášho určeného, za nepriateľa ďalej uznávať počneme; ale úbohým nám   nič viac nepozostáva, musíme ísť, kde nás osud tiahne. Toto ale bez   náramného nebezpečenstva urobiť nemožno, keď nebude táto vec riadená   milostivým prostredníctvom a prezreteľnou radou Najdôstojnejšieho   Pána S... T... Má byť tiež požiadaný V..., ale čo najtajnejšie, aby   nezralé zámysly zjavené najjasnejšiemu Domu Pána neboly, tohoto   zbroje naproti nám neprihotoveným nepopudzovaly, my potom rozdelení,   každý vo svojom príbytku, zavraždení neboli, ale radšej buď náhleno s   jednaním, pretože predĺžený čas stále strojí úklady tajomstvu.
+    </tei:p>
+    <tei:p>
+     My B... Slobodný Pán na N..., V... a Z.., najvyšší Komorník, tiež   najvyšší Truksas v P... Jeho Jasnosti Rímskeho Cisára etc, tiež v   S..., najvyšší Kapitán na H... etc a verní poddaní mesta R...   prisaháme na svoju česť, na mŕtvych, na dobrých duchov, na Boha, že   verní a poslušní budeme rozkazom Najdôstojnejšieho Pána S... T..., za   neho a dobro národa radi život svoj položíme, lebo On jediný nás môže   vyviesť z tmy do svetla, zo zla do dobra, z nešťastia do šťastia. On   jediný chce naše blaho a dobro. On jediný neschvaľuje jednanie, ktoré   je namierené proti záujmom našej drahomilovanej vlasti.
+    </tei:p>
+    <tei:p>
+     Nech Boh Dobrotivý pomáha v práci našej, slobodu a práva ráči   dopriať, našim budúcim pokoleniam vydobiť, nepriateľa do prachu   sraziť, krivdu odčiniť, neprávosť, faloš pohaniť, pokoriť a pravdu na   slnko Božie vyniesť.
+    </tei:p>
+    <tei:p>
+     Veríme, že Hospodin, ochranca dobrých, odsudzovateľ zlých, nám   uľahčí cestu tŕnistú, pomôže z poroby vyslobodiť vlasť, odstrániť   zlých šafárov a kormidelníkov z najjasnejšieho Domu Pána, triumfovať   šľachetným myšlienkam a plánom Najdôstojnejšieho Pána S... T... a dá   kormidlo vlasti do rúk človeka, ktorý je obdarený Božskou múdrosťou,   dobrotou, spravedlivosťou a láskou!
+    </tei:p>
+    <tei:p>
+     Boh nám pomáhaj!“
+    </tei:p>
+    <tei:p>
+     Za tým nasledoval dlhý stĺpec podpisov a veľká pečať.
+    </tei:p>
+    <tei:p>
+     Udivene pozreli na seba. Áno, je to dokument o spiknutí veľmoža   B... a jeho poddaných proti najjasnejšiemu Domu Pána a jeho   prívržencom.
+    </tei:p>
+    <tei:p>
+     „Myslím, že za krátku chviľku prídeme na koreň celej veci“,   prerušil Janko Rekeň hrobové ticho. „Mám dojem, že sa už rysuje   koniec celej našej nemilej príhody. Obávam sa však, aby nám   nepriniesol účet s naším životom. Je jasné, že jaskyňa táto bola   útuľkom slobodného pána B... a jeho poddaných pred nepriateľskými   útokmi, skrýšou pre ich majetok. Spiklenci pri svojom vyjednávaní   boli prezradení, videli hroziace nebezpečenstvo a koniec ich zámerom,   tušili, že pomsta bude hrozná, majetky konfiškované, životy zničené,   preto v dohode odhodlali sa ukryť svoje bohatstvo, ktoré po prešlej   búrke malo patriť ich deťom.“
+    </tei:p>
+    <tei:p>
+     „Celá vec je nejasná. Dokument nehovorí o poklade, jedine mená na   kôpkách šperkov, perál a zlata nám dokazujú, že tento poklad patrí   viacerým občanom, pečIivé rozdelenie a urovnanie značí, že každý si   mal vzať len to, čo mu patrí. Iste tu musí byť ešte dokument o tomto   poklade. Veď tuba bola už pred nami otvorená, je poškodená na hornej   časti a nesie stopy po niektorom zvedavcovi, to znamená, že niekto   vybral ostatné dokumenty a skryl na bezpečné miesto. Fakt je, že mimo   obludy ešte obýva niekto jaskyňu. Kto, ešte nevieme. Vieme ale, že je   nebezpečný, keďže nás tu z nepochopiteľných dôvodov väzní,“   prehovorila Dita.
+    </tei:p>
+    <tei:p>
+     „Áno“, prerušii ju. „Sme v ťažkom položení. Väzniteľ hrá zo   skrytých karát, nevieme jeho úmysle, príčinu nášho prepadnutia. Na   oslobodenie je slabá nádej. Možno predpokladať, že za krátky čas, keď   neukáže pán tejto jaskyne svoju hru, prestane nám netvor nosiť   potravu. Sme tu už týždeň, možno i viac, kto vie, koľko dní ubehlo v   tomto brlohu plnom úzkosti, strachu, nebezpečenstva. Keby nás osud   nebol splietol a každý z nás by mal prežívať túto samotu a neistotu   sám, iste by sme neboli vydržali, lebo nervy sú v každej chvíľke   napnuté do krajnosti a raz príde čas, kedy prasknú a to bude náš   smutný koniec. Koniec, ktorý sa dá predpokladať, koniec hrozný,   strašný. Jedinou záchranou môže byť len súboj s väzniteľom, končiaci   naším víťaztvom, alebo ten započatý otvor v prvej časti jaskyne. Náš   život je na nitke a Damoklov meč hrozí každým okamžikom a my-bežíme   za rozlúštením záhady, komu patrí tento poklad, kedy ho sem dal a   prečo. Zabíjame svoje myšlienky snahou po vystopovaní tajomstva,   viažucého sa okolo pokladu, zastierame obavu pred smutným koncom   nesmiernym bohatstvom, ktoré nám osud hodil k nohám. Sme však   bezmocní, sme ako umierajúci starec, ako práve narodené dieťa, bez   moci, bez možnosti zásahu na naše postavenie. Démon, démon nás   ovládol a nechce nás pustiť zo svojej moci. Áno, démon nás ovil   putami bezmocnosti a hodil zlato pod nohy ako plienky novorodzeňatu,   aby sme kúpali mysle svoje v jeho žiarivom lesku, aby sme vlažili   zraky svoje v dúhových hrách drahokamov, obarvili príšernú skutočnosť   krásou a oslepili dušu svoju jeho mohutnosťou.
+    </tei:p>
+    <tei:p>
+     Áno, démon nás ovládol a sme jeho látkou. Uvoľnil oprate svojim   chúťkam, ostrým bičom bezcitnosti urýchluje spád, hľadá figúrky pre   svoju podivnú hru na čierne javisko, aby mohol hrať, utíšiť tuhu po   rozrušujúcej scéne, hrať sa so živými figúrami.
+    </tei:p>
+    <tei:p>
+     Áno, démon ukázal svoju moc!“
+    </tei:p>
+    <tei:p>
+     Odmlčal sa.
+    </tei:p>
+    <tei:p>
+     „Pripadám si“, pokračoval Janko Rekeň, „ako list, hádzaný prudkým   víchrom. Som slabý, bezmocný proti jeho sile.“
+    </tei:p>
+    <tei:p>
+     „Verím tomu“, ujala sa Dita slova. „Sama to cítim. Ale nezúfaj. I   najsilnejší víchor po čase zoslábne, jeho útoky zomdlejú a nakoniec   celkom uľahne. Vyzúri sa a potom bude úplný kľud “
+    </tei:p>
+    <tei:p>
+     Janko Rekeň na tu hneď neodpovedal. Uvažoval o týchto slovách.
+    </tei:p>
+    <tei:p>
+     „Máš pravdu, dievčatko drahé, ale čo škody narobí, nastvára   víchor, kým nacelok uľahne, o to ide! Stačí mnohokrát iba krátka   doba, aby zúrivý víchor narobil nesmierne škody!“
+    </tei:p>
+    <tei:p>
+     „Pripúšťam,“ posilňovala ho, „lenže nie som pesimistkou. Nech   narobí víchor akúkoľvek škodu v lese, niektoré stromy zostanú, vysadí   sa stráň a les znova ožije. A po rokoch nikto ani nespomenie na   besnenie víchrice. Zostane po nej len nepríjemná spomienka. Bojovať s   víchrom, vydržať nápor v tom je všetko!“
+    </tei:p>
+    <tei:p>
+     „Áno, bojovať. To sa ľahko povie. Ale bojuj, keď si ako páper, keď   každý pokus o odpor zlíha! Častý zápas človeka vysilí, unaví.“
+    </tei:p>
+    <tei:p>
+     „Nehovorím, že nie. Ale chcela som len vlastne toľko povedať:   zúfať už vopred-nie je múdre. Avšak i keď prehráš, zasa zdvihni   hlavu!“
+    </tei:p>
+    <tei:p>
+     „Chceš mi vliať do duše nádej, pokúsim sa!“
+    </tei:p>
+    <tei:p>
+     Pripadal si ako uchvátený dravým víchrom. V kruhu hneď menšom,   hneď väčšom točí sa okolo rozhodnutia. Nechať to všetko tak? Má   smyseľ z tohoto väzenia v útrobí masívnej skaly horského výbežku sebe   menší pokus o záchranu, vyslobodenie? Nie, je to hádzanie hrachu na   stenu. Veď nie je možné, aby holými rukami rozbil ťažké masívne   dvere, urobené čisto len zo železa. Hlavou múr neprerazí a tá   započatá práca v prvej časti jaskyne dáva veľmi nepatrnú nádej na   záchranu. Práca tá je ako lovenie rýb v naftových žriedlach. On to   vie. Ale nie, nie. Nemôže predsa úbohé dievča priviesť do zúfalstva!   Je to jej jediná nádej, že uzrie svetlo sveta. Len tým ju teší, že za   krátky čas sa mu podarí vyryť otvor, ktorým budú môcť preliezť a   utiecť.
+    </tei:p>
+    <tei:p>
+     Alebo je možné len nehtami preškrabať skalnú stenu, ktorá je snáď   niekoľko metrov hrubá? Nie, on to vie, že je to nemožné! Prišiel k   tomu poznaniu hneď, ako odhádzal prvú vrstvu nakúpených kameňov. On   to vedel, že sú odsúdení na milosť a nemilosť obyvateľom jaskyne. On   to vedel, že hrozí im strašná smrť zbláznením, hladom. Veď už druhý   deň, čo sa neukázal netvor a omrvinky, ktoré im zostaly z minulých   dňov, už dávno strovily ich hladné žalúdky.
+    </tei:p>
+    <tei:p>
+     Kde to len zablúdil! Neuvážil na počiatku, aké môžu byť následky.   Život sa podobá veľkému labyrintu, stačí menšia neopatrnosť, aby si v   ňom zablúdil nacelok.
+    </tei:p>
+    <tei:p>
+     Zlostne hodii nažlklý pergamen na zem, Dita úzkostlivé sledovala   jeho nepokojnú tvár. Oči strašlivým pohľadom prerezávaly hustú tmu,   škeriacu sa z každého kúta. Nepatrná škára v hornej časti jaskyne   slabo a odmerane liala špinavý prúd denného svetla, ktorý sa rozbíjal   a štiepal o nádherné drahokamy, šperky, zlato a bojazlivé hádzal   tmavožltú žiaru okolo stola ani dohasínajúca vatra.
+    </tei:p>
+    <tei:p>
+     Osud? Osud to bol, ktorý ho vrhol do lačného pažeráka Isti a   nešťastia? Nuž veď osud mu určil cestu inú, novú cestu života, ktorá   mala splniť jeho dávne túžby, osud mu dal po toľkých rokoch strádania   a bezcieľneho putovania možnosť stáleho, kľudného a šťastného života!   Osud mu dal zamestnanie a on mal urobiť len ešte polhodinovú cestu a   bol by býval splnený jeho sen-pracovať a žiť ako človek.
+    </tei:p>
+    <tei:p>
+     Nie osud-ale vášeň. Vášeň! Áno, stará vášeň ho sovrela do svojich   spárov, rozbúrila jeho dobrodružnú krv a dala ho na pospas práve pred   bránou nového života!
+    </tei:p>
+    <tei:p>
+     Vášeň! Nie je ona až príliš podobná dravému prúdu horskej rieky?   Prúd unáša so sebou všetky predmety, zlostne nimi bije o veľké   kamene, o prehnilé korene, o skalnaté brehy, točí nimi v prudkom   víru. Ale dokiaľ je spútaný vysokými brehami, je detský, prívetivý,   šteklivý, maznavý. Akú však ukáže tvár, keď sa z ich pút vyslobodí a   rozleje na nič netušiacu rovinu? Strhne masku, odhodí maznanie a   prevalí sa cez brehy, ktoré mu dosiaľ v ceste stály, všelijak umelé   vyvyšované. Keď sa už nebezpečne znížia brehy odporu, strhne so sebou   všetko. A jeho podivná vášeň je tiež takým nebezpečným živlom.   Možnosť náhlej katastrofy výstražne zdvihne stále svoj varovný prst:   uskoč pred dravým prúdom, dokiaľ ešte čas, dokiaľ sa ešte   nezadržiteľne nerozleje! A on? Mal počuvnúť varovný hlas hneď! Mal   potlačiť rozbúrenú krv, nechať nebezpečenstvá, vzrušenie a prekročiť   bránu nového života! Veď on videl, tušil nebezpečenstvo, ale jeho   rozbúrená krv túžila po ňom a on ho poslušne čakal. Vášeň mu   zaslepila oči, krv zatúžila po dobrodružstve! Darmo mu hrozil a   výstražné znamenie dával varovný prst. Nevšimol si ho. Jeho divoká   krv zaliala jeho nádeje, plány, nový život. Vášeň im podťala nohy a   vytrhla z nich Janka Rekeňa a dala mu do ruky sladký ostrý šíp nového   dobrodružstva, nového vzrušenia, nových zážitkov. Áno, on na prahu   nového života odhodil podávané mu šťastie a vrhol sa do náručia   novému démonu, chytil ho za ruku a dal sa viesť ako malý chlapec na   zakázané hrušky.
+    </tei:p>
+    <tei:p>
+     Pozrel na Ditu. Stála vedľa neho ustrašená, bľadá a ruky sa jej   triasly podivnou stiesnenosťou.
+    </tei:p>
+    <tei:p>
+     Oči sa im stretly. Čistý lesk jej modrých očí roztopil tvrdosť   jeho citov, rozohnal strašidelné myšlienky a vyslobodil z pút ťažkej   dumky, viažucej ho do spárov nebezpečnej obavy, kresliacej neodvratný   a príšerný koniec ich mladého života.
+    </tei:p>
+    <tei:p>
+     Obava padla — nádej sa vrátila!
+    </tei:p>
+    <tei:p>
+     Život zružovel.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Noc lásky.
+    </tei:head>
+    <tei:p>
+     Hľa, aká zmena!
+    </tei:p>
+    <tei:p>
+     Shodil obruče melanchólie a príjemné teplo zalialo jeho srdce.   Obava zaliezla k nedokončenej práci a nová nádej sa mu zasmiala do   očí. Áno, nádej, snáď zásah Vyššieho im ukáže spôsob, ako prelomiť   hrádze nebezpečenstva, ktoré nemilosrdne zahryzlo svoje kly do nič   netušiacich obetí.
+    </tei:p>
+    <tei:p>
+     Vnoril svoje oči do čistej hladiny modrých nezábudiek,
+    </tei:p>
+    <tei:p>
+     Svodné, súmerné tielko, ohnivá záplava zlatých vlasov, oči ako   priezračná obloha, pery ako čerstvo rozkrojený krvavý pomaranč...,   oslnivá žiariaca mladosť-žijúci ohňostroj, sršiaci okolo seba   nepokojné a mihotavé záblesky mladistvej nespútnanosti žeravého   temperamentu, závidenia hodného šťastia-to bola Dita.
+    </tei:p>
+    <tei:p>
+     Neodolal.
+    </tei:p>
+    <tei:p>
+     Schvátil ju do náručia, stiskol, až nemohla dýchať, začal ju nežne   hladiť po hlave, po tvári a zasypával ju tisícami sladkých a nežných   slov a ešte nežnejších bozkov.
+    </tei:p>
+    <tei:p>
+     Dita skoro nedýchala. Tak krásne, tak vrúcne k nej nikto   nehovoril. Jeho slová jej pripadaly ako teplý jarný vánok,   prinášajúci predzvestí krásnych teplých dňov. Bála sa, že je to len   sen. Nemohla pochopiť, že je to skutočnosť.
+    </tei:p>
+    <tei:p>
+     Držal ju za ruky.
+    </tei:p>
+    <tei:p>
+     Nie, nie je to len sen—je to naozaj skutočnosť. Janko Rekeň ju   skutočne miluje!
+    </tei:p>
+    <tei:p>
+     Premožená citom klesla na jeho hruď. Triasla sa. Zmocnil sa ju   pocit nevýslovného šťastia, jej mladá krv sa búrila, srdiečko sa malo   rozskočiť radosťou. „Má mňa rád, má mňa rád!...“, jásala v   duchu...
+    </tei:p>
+    <tei:p>
+     Janko Rekeň bol preniknutý čistou láskou. Zohrieval sa aspoň na   chviľku v kúzelnom trblietu jeho zábleskov. Kiež by sa mohol v tom   kryštálovom zrkadle mladosti videť navždy, navždy...
+    </tei:p>
+    <tei:p>
+     „Buď mojou, Dita! Nemohol by som bez teba žiť! Nemám rád druhé.   Ktoré som znal, sú len škrupinami so skazeným jadrom. Dal som sa   predtým oklamať zovňajškom—ale ty, ty si to, čo som hľadal, po čom   som tak túžil a čo mi patrí. Ty, len ty a žiadna iná! Povedz, cítiš   tak, ako ja?“
+    </tei:p>
+    <tei:p>
+     „Mám ťa hrozne rada!“ zašeptala. „Som tak šťastná, že sa bojím   priznať.“
+    </tei:p>
+    <tei:p>
+     Úzky pruh mesiaca, ktorý bol do tej chvile skrytý za mrakmi,   vyplul a predral sa malou štrbinou steny, ožiaril svojím strieborným   svitom jej krásnu tvár, zatrblietal sa v jej čistých, pravdivých   očiach—a Janko Rekeň ju bozkával znovu a znovu...
+    </tei:p>
+    <tei:p>
+     „Dám ti všetko, čo si len zažiadaš a máš rada,“ reptal   blažene.
+    </tei:p>
+    <tei:p>
+     „Mám rada ticho a kľud-samotu v prírode-a teba!“ preťal šťastný   úsmev jej priezračnú tvár.
+    </tei:p>
+    <tei:p>
+     Potom bolo chvíľku ticho. Dita nemohla nič povedať, lebo Janko   Rekeň ju náhle pritlačil na svoju hruď, až v nej dych zarazil a   tisknúc ústa na jej zlaté vlasy, šeptal tichunko-ale ona to   počula.
+    </tei:p>
+    <tei:p>
+     Bozkával jej oči, ústa, tváre...
+    </tei:p>
+    <tei:p>
+     Dita ležala v jeho náruči nemá, neschopná slova. Nemohla otvoriť   ústa. V ušiach jej stále zvonily jeho nežné slová:
+    </tei:p>
+    <tei:p>
+     „...nebude chvíľky, aby som na teba nemyslel...“
+    </tei:p>
+    <tei:p>
+     Úsmev šťastia jej skrvavil bielu tvár.
+    </tei:p>
+    <tei:p>
+     „...môj život teraz patrí len tebe...“
+    </tei:p>
+    <tei:p>
+     „...na tebe...“
+    </tei:p>
+    <tei:p>
+     „...s tebou...“
+    </tei:p>
+    <tei:p>
+     „...na veky...“
+    </tei:p>
+    <tei:p>
+     „...duša zlatá...“
+    </tei:p>
+    <tei:p>
+     Ležala mu bezvládne v náručí. Tak bola šťastná. Nadpozemsky   šťastná!
+    </tei:p>
+    <tei:p>
+     Janko Rekeň sa neovládol. Vzal to ženské telo do svojich rúk a   volal:
+    </tei:p>
+    <tei:p>
+     „Dita... moja sladká Dita... milovaná... ach, moja Dita, mať ťa v   náručí... v tom je vrchol pozemského i nebeského blaha pre mňa!“
+    </tei:p>
+    <tei:p>
+     Jeho volanie prešlo do vášnivého šepotu. Drtil v pažiach bielo   oblečené dievča, zasypával jej tvár bozkami, plnými nežnosti, plnými   vášne. Neuvažoval, nepremýšľal-jeho smysly boly rozkrvavené. Vášeň ho   náhle oslepila.
+    </tei:p>
+    <tei:p>
+     Vyzdvihol sladké telo vysoko v náručí a prebehol s ním cez úzky   otvor rozbúranej steny do prednej časti jaskyne. Bola tak ľahučká ani   pierko-ani ju v loktiach necítil. Bez rozmýšľania zamieril k svojmu   lôžku a klesol so svojím sladkým bremenom na staré kabáty, ktoré   slúžily miesto perín.
+    </tei:p>
+    <tei:p>
+     Nie-teraz nebol pri sebe. Veď boli v tragickom položení. Zabudol,   že život ich je ohrožený strašnou smrťou, hladom, alebo zákernou   zbraňou obyvateľa jaskyne. Zabudol na beznádejnosť vyslobodenia,   zabudol, že utešujúce reči o vyslobodení sú lož, že otvor v stene   neprerazí, že sú tu odsúdení za živa zomreť, alebo škrabať si v   tvrdej skale otvor na svetlo božie, až kým sa k smrti nezodrú.
+    </tei:p>
+    <tei:p>
+     Teraz bol skutočne šialený - láskou - túhou- ktorá dochádzala   splnenia. A žena v jeho náručí ležala zprvu mdle, omámená prílivom   nežnosti-potom sa vrátil život do jej rúk, na jej pery. Opätovala   divoké, sladké bozky, uvádzajúc Janka Rekeňa do úplnej blaženosti.   Zabudol, že pred chviľkou tieto pery, ktoré ho teraz bozkávajú,   zúfale kričaly: „Nesmieš! Pusť ma!“ Zabudol s akým zdesením ho tieto   biele rúčky odstrkovaly - a teraz oddane a láskyplne ležia okolo jeho   krku a tlačia ho k sebe.
+    </tei:p>
+    <tei:p>
+     Zabudli na seba, na svoje položenie, na život, na nebezpečenstvo,   na vyslobodenie, na celý svet.
+    </tei:p>
+    <tei:p>
+     Dve rozžeravené telá slialy sa v horúcu hmotu a sladký jed lásky   prenikol z rozpálených tepien Janka Rekeňa do krve ženy, ktorá sa   volala Dita.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Tajomné obrysy postavy.
+    </tei:head>
+    <tei:p>
+     Úzkou škárou skalnej steny sa predralo ranné svetlo. Ako zvedavými   prstami ohmatalo drsné kamene a plazilo sa kolísave po zemi. Potom   skĺzlo na široké lôžko, kde ležal mladý muž hlboko oddychujúc zo   spánku. Pohladilo ho po ruke, započúvalo sa, ako mu srdce bije - a   potom ho pošteklilo na tvári.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň sa pretiahol a otvoril oči.
+    </tei:p>
+    <tei:p>
+     Zdalo sa mu, ako by plul po kľudnej širokej hladine rieky s   pozvoľným spádom. Pohodlná loď tichunko plula, z oboch strán lemovaly   rieku zelené brehy, zpestrené rôznobarevnými kvetami. Idylické   obrázky sa striedaly. Nad hlavou sa klenula azúrová obloha, stále tá   ista, nikdy nezošpatená čiernymi mrakmi. Ale náhle do snov o kľudnej,   spokojnej budúcnosti oprel sa prudký víchor. Ďaleko rozmetal kvety   okolo cesty a on vyskočil z lodi na breh, pustil sa úzkym chodníkom   za vábnym zjavom, ktorý ho okúzlil- a o chvíľu došiel na miesto, kde   sa chodník rozdvojoval.
+    </tei:p>
+    <tei:p>
+     Sen zmizol - odviala ho skutočnosť.
+    </tei:p>
+    <tei:p>
+     Vstal. Vstúpil na piesčitú podlahu jaskyne a obrátil tvár k malej   štrbine v skale, ktorá slúžila za otvor, kadiaľ prúdil čistý vzduch,   a naplnil pľúca ťažkým vzduchom.
+    </tei:p>
+    <tei:p>
+     Dita kráčala ani vo snách podzemnými komnatami, z ktorých jedna od   druhej viac pôsobily stiesnene. Len ticho, ticho tu bolo ako v hrobe   a nikde nebolo čuť ani hlásku. Prešla úzkym otvorom do druhej   miestnosti, kde poklad na kamennom stole horel špinavým plameňom a   rozpáleným úzkym pruhom svetla bojazlive lámal hustú vravu tmy.   Povaľa, obliata žltým ohňom, menila drsné vyčnievajúce kamene na   zlaté trblietavé obrovské stalaktity - až zrak prechádzal obdivom,   kde len pohliadla, tam sa smialo všetko pozlátené.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň šiel za ňou. Chytil ju za ruku a bez slova si sadli na   široký plochý kameň v tmavom kúte. Nehovorili. Oči bez záujmu, bez   príťažlivosti prezeraly nesmierne bohatstvo. Ako ich zprvu ovládlo,   ako ich lákalo, ako sa mu tešili, plány priadli-teraz je bez ceny.   Myseľ horúčkovite pracovala, obťažkaná strašnými myšlienkami o   zajtrajšok. Odletela vášeň, skutočnosť odtrhla kvety nádeje a hodila   do bahna. Hlad ostrými pazúrami škriabal prázdne žalúdky.
+    </tei:p>
+    <tei:p>
+     Tretí deň - bez jedla. Vysilení hladom chladnokrvne očakávali, čo   im prinesie budúca hodina. Dlho nevydržia, ešte niekoľko dní a hrôza   pobytu im vezme zdravý rozum a oni pomätenou mysľou bezvládni padnú a   budú očakávať ohavnú smrť.
+    </tei:p>
+    <tei:p>
+     Nervy mali vysilené. Modzog, prepracovaný stálym zažívaním   myšlienok, predstav, nejasne sledoval reťaz rozpomienok na tninulé   dni. Oči, už blčiace horúčkou, bojazlive prerezávaly špinavú tmu.
+    </tei:p>
+    <tei:p>
+     Objavily sa tajomné obrysy postavy.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň neodvážil sa rozsvietiť, aby neprezradil svoju   prítomnosť. Sedeli v tmavom kúte a chladnokrvne čakali príchod   neznámeho.
+    </tei:p>
+    <tei:p>
+     Postava stála nehnute - ticho.
+    </tei:p>
+    <tei:p>
+     Do päťdesiat minút už chýbalo len päť minút a dosiaľ sa neozval   ani najmenší hluk, ktorý by nasvedčoval, že niekto prichádza.
+    </tei:p>
+    <tei:p>
+     Nervy boly napnuté až k prasknutiu.
+    </tei:p>
+    <tei:p>
+     „Nič na svete nie je horšieho, ako toto napnutie,“ preletelo cez   Jankov Rekeňov modzog.
+    </tei:p>
+    <tei:p>
+     V tom okamžiku ozval sa z protiľahlej strany tichý hluk. Obidvoch   sa zmocnilo nepopísateľné vzrušenie. Janko Rekeň zapálil svetlo, ale   po temných obrysoch postavy nebolo ani stopy. Začal prechádzať   rozrušený celú jaskyňu.
+    </tei:p>
+    <tei:p>
+     Dita vstala a sledovala ho nemým zrakom, v obličaji bola bľadá ako   stena.
+    </tei:p>
+    <tei:p>
+     Temné klopanie premohlo jej nervy.
+    </tei:p>
+    <tei:p>
+     „Počul si?“ sotva počuteľne povedala a bezvládne klesla ani   podťatý strom na studenú podlahu jaskyne.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň počul zreteľne kvapkanie vody, prýštiacej dolu   trhlinou steny.
+    </tei:p>
+    <tei:p>
+     Nehľadel na strach pred tajomným obrysom postavy, pred   strašideľnými zvukmi a rýchle sa sklonil k bezduchému telu   dievčaťa.
+    </tei:p>
+    <tei:p>
+     Zľakol sa. Dita ležala mu v náručí úplne bez seba, nejaviac   najmenšej známky života.
+    </tei:p>
+    <tei:p>
+     „Bože, snáď ju neranila mŕtvica...!“ prebehlo mu náhle hlavou.   „Muselo to byť hrozné ľaknutie...“
+    </tei:p>
+    <tei:p>
+     Znovu sa sklonil k bezduchej.
+    </tei:p>
+    <tei:p>
+     „Nie, skutočne... Ani nedýcha... Je... to možné?“
+    </tei:p>
+    <tei:p>
+     Zo smelého muža, schopného každého činu, teraz sa odrazu stalo   dieťa, nevediace si rady.
+    </tei:p>
+    <tei:p>
+     „Bože, keď je ona mrtvá...“, díval sa zúfale a s odporom na stôl,   ovenčený oslnivým ohňom zlata a perál.
+    </tei:p>
+    <tei:p>
+     „Nie, nie je mrtvá. Je len v bezvedomí. Preberie sa z toho skoro“,   utešoval sa.
+    </tei:p>
+    <tei:p>
+     Vzal ju do náručia. Jeho hruďou prenikol tak mocný pocit blaha a   šťastia, že sám sa z toho zľakol. Cítil, že drží v rukách nežnú   bytosť, dokonca šťastie, po ktorom tak túžil, snil a ktoré sa mu   zdalo nedosažiteľné. Uvedomoval si, že drží vo svojom náručí mladé   krásne dievča, bezmocné žiaľom nad úžasným položením, bezduché.   Uvedomoval si, že drží v náručí bytosť, ktorej náleží jeho srdce a   pre ktorú by bol schopný bojovať i život svoj obetovať. Zabudol zrazu   na svoje položenie a nebezpečenstvo.
+    </tei:p>
+    <tei:p>
+     Uvedomil si, že sa musí postarať, aby tomuto nešťastnému stvoreniu   vrátil život a vrátil radosť zo života. Áno, urobí to! Bude   bojovať!
+    </tei:p>
+    <tei:p>
+     Srdce mu zabúchalo radosťou a blahom. Bol by najradšej Ditu   pritiskol pevne k svojej hrudi a zceloval jej tváričku.
+    </tei:p>
+    <tei:p>
+     Ale radosť netrvala dlho.
+    </tei:p>
+    <tei:p>
+     „Prečo ja tak jásam?“ hovoril si náhle v duchu. „Čo mám k tomu   dôvod? Zabúdam, že sme v beznádejnom položení, že sme v moci   neznámeho, že nám hrozí večné väzenie, že nám hrozí strašná smrť,   smrť hladom, alebo smrť divnou zbraňou pána tejto skalnej diery.“
+    </tei:p>
+    <tei:p>
+     Súcitne pozoroval jej bľadu tváričku. Ako rád hladil jej zlaté   vlásky, ako rád jej šeptal, že ju má rád. Ale skutočnosť je iná! I   tak však nesmie stratiť nádej úplne. Najprv jej musí pomôcť, potom   uskutočniť pokus o útek... Potom snáď... Áno, verí pevne, že raz...   Teraz však tak ľahko sa nevzdá boja. Bude sa biť do posledného dychu   a nič nemôže byť tak neprekonateľné, aby ho odstrašilo a   odradilo.
+    </tei:p>
+    <tei:p>
+     Oddýchol si kľudnejšie. Vie, čo má robiť..
+    </tei:p>
+    <tei:p>
+     Sklonil sa a opatrne uložil Ditu na lôžko. Po niekoľkých minutách,   ktoré Jankovi Rekeňovi pripadaly vecnosťou, otvorila konečne Dita   oči. Pomaly zdvihla rúčku, ale sily ju znova opustily.
+    </tei:p>
+    <tei:p>
+     „Žije, ona žije!“ jásal.
+    </tei:p>
+    <tei:p>
+     Klesol na lôžko na kolená, ako by chcel vzdať nebesám vďaku za to,   že Dita žije. Pozoroval uprene dych, Dita teraz každým okamžikom   nadobúdala nových síl.
+    </tei:p>
+    <tei:p>
+     Za chvíľku pevne sedela vedľa Janka Rekeňa.
+    </tei:p>
+    <tei:p>
+     Tlumeným hlasom stavali novú budúcnosť, priadli plány na   vyslobodenie a prosili Boha o pomoc.
+    </tei:p>
+    <tei:p>
+     Dve duše splynuly v jednu silnejšiu, smelšiu, vytrvalejšiu,   odolnejšiu.
+    </tei:p>
+    <tei:p>
+     Život bol jasnejší.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Neznámy ukázal svoju tvár.
+    </tei:head>
+    <tei:p>
+     Zahrúžení do seba začuli za sebou tichý a zlovestný smiech.
+    </tei:p>
+    <tei:p>
+     Otočili sa.
+    </tei:p>
+    <tei:p>
+     Za nimi stál zvláštny človek. Bol nadpriemerne vysoký a chudý s   nehybnou a mrtvoľne bľadou tvárou, na ktorej kôža sa zdala byť   napnutá ako blana na bubnu. Hlboké zapadlé oči boly malé, za to však   živé a rozpálené, ako by všetok život z celého ostatného tela bol sa   sústredil v týchto dvoch jamkách. Bol hladko oholený, avšak vzrast   jeho vlasov musel byť veľmi mocný, lebo jeho brada i celá spodná časť   obličaja mala nádych čierny, prechádzajúci do modra. Vlasy mal čierne   a veľmi husté a okončatiny zdaly sa byť príliš dlhými na telo, ako by   k nemu vôbec nepatrily, takže jeho zjav pôsobil za takýchto okolností   mrazivým dojmom.
+    </tei:p>
+    <tei:p>
+     Janko Rekeň pokročil smerom k stene a oprel sa o veľký balvan, aby   mohol dobre kryť Ditu a svoj chrbát.
+    </tei:p>
+    <tei:p>
+     „Zahrávate si s ohňom,“ prerušil napnuté ticho neznámy.   „Rozmyslite si to dobre a tuším, že dobre urobíte, keď mi na všetko   poviete pravdu “
+    </tei:p>
+    <tei:p>
+     „Chcem...“ začal neznámy, odmlčal sa však, na čo vykríkol s   dôrazom najzúrivejšej vášne: „Chcem vedeť, kto ste a čo tu chcete?   Chcem vedeť, aké tu máte záležitosti?“
+    </tei:p>
+    <tei:p>
+     „Á“, ozval sa Janko Rekeň, ktorému nenapadlo práve nič   múdrejšieho, čo by hneď povedal.
+    </tei:p>
+    <tei:p>
+     Upozorňujem vás, že sa vydávate vo veľké nebezpečenstvo predniesol   neznámy hlasne a hnevlive.
+    </tei:p>
+    <tei:p>
+     „Á“, ozval sa opäť Janko Rekeň, považujúc stále ešte túto odpoveď   za najmúdrejšiu.
+    </tei:p>
+    <tei:p>
+     „Ó, nemusíte vymýšľať“, riekol neznámy zlostne.“ Máte iste pátrat,   kde sa tento poklad nachádza!“
+    </tei:p>
+    <tei:p>
+     Janko Rekeň hlasite zíval, nedal však nijakú odpoveď.
+    </tei:p>
+    <tei:p>
+     „Budete však toho...“, pokračoval neznámy hlasom trošku   stlumenejším, za to však presiaknutým ešte silnejším a nesmieriteľným   hnevom, „Budete toho ľutovať skôr, ako sa vám podarí dosiahnuť cieľa   a využiť príležitosti. Musíte nahliadnuť, že mám celú vec v rukách.   Viem presne, čo sa stane a tiež presne, čo mám robiť. Uznáte, že   nemôžem riskovať, aby moje plány boly krížené. Ste mi záhadou a   stojíte mi v ceste. Hovorím vám otvorene. Neviem, ako ste sa do tejto   veci dostali, neviem, na čo máte namierené, avšak nestrpím, aby mi   niekto staval prekážky. Nechcem sa dopustiť nejakej   neprezreteľnosti!“
+    </tei:p>
+    <tei:p>
+     „Nuž...,“ osmelil sa Janko Rekeň, avšak neznámy ho ostro   prerušil.
+    </tei:p>
+    <tei:p>
+     „A naposledy vás žiadam, aby ste mi otvorene povedali, akú úlohu   hráte v tejto celej veci, kto ste a čo ste chceli v blízkosti   jaskyne. Rád by som sa vyhnul všetkým násilnostiam, keď to nie je   nutné. Keby ste mi otvorene vyznali, možno, že by sme túto nemilú vec   urovnali. Ide tu o ohromnú záležitosť, bude tedy jedine múdre od vás   vyzradiť svoj úmyseľ!“
+    </tei:p>
+    <tei:p>
+     „To je tiež naším prianim“, odpovedal Janko Rekeň, „avšak my o   ničom nevieme, nemáme ani tušenia, lebo nás sem doniesla len   náhoda.“
+    </tei:p>
+    <tei:p>
+     „Neviete vôbec nič o tejto veci? A ja som presvedčený, že viete!   Ale chcete sa do nej vtreť, aby ste z nej vytlačili čo najväčší   zisk!“
+    </tei:p>
+    <tei:p>
+     „To je vaša mienka?“ prerušil ho Janko Rekeň, nie málo pomätený   dohadom.
+    </tei:p>
+    <tei:p>
+     „Áno a uisťujem vás, že je to nebezpečná hra, skutočne veľmi   nebezpečná hra a posledný raz vás žiadam, odpovedajte na otázku!“
+    </tei:p>
+    <tei:p>
+     „Skutočne nemáme ani tušenie...“
+    </tei:p>
+    <tei:p>
+     „Nie? Tak budete...“
+    </tei:p>
+    <tei:p>
+     Odmlčal sa náhle a vyliezol šikmým oblúkom po stene, využívajúc   vyčnievajúce kamene a zmizol za veľkým balvanom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Skaza jaskyne a šťastlivý útek z   nej.
+    </tei:head>
+    <tei:p>
+     Nastal kritický okamžik.
+    </tei:p>
+    <tei:p>
+     Špinavo žltá žiara zaľahla a zmizla v hustých tieňoch spotených   skál. Toto mrtvé ticho tiesnive doliehalo na osamotenú dvojicu,   hladiacu s napnutím do nepreniknuteľnej tmy. Nervy boly rozrušené.   Kamienok, vykopnutý zo svojho miesta, letel po nakúpenej zemi a ako   nadobúdal rýchlosť, bolo počuť jeho hrmot, podobajúci sa v tomto   desivom tichu bubnovaniu na poplach.
+    </tei:p>
+    <tei:p>
+     Náhle nastal nad ich hlavami podivný pustý ryk, ako keby niekoľko   ľudí tam behalo, dupkalo a sa predurovalo. Uvoľnený kameň dopadol s   veľkým rachotom na zem a všetko bolo prehlušované prenikavými,   zlovestnými, neartikulovanými škrekmi-podobné niečo, ako živí boli,   nepočuli-a ktoré naplňovaly celú tú tichú noc divokým a strašným   lomozom.
+    </tei:p>
+    <tei:p>
+     Hrozným dojmom pôsobil ten šialený povyk, ktorý sa tak náhle a   zdanlivé bez všetkej mysliteľnej príčiny rozpútal.
+    </tei:p>
+    <tei:p>
+     Jankova Rekeňova opálená tvár už nejavila rozrušenie. Bola kľudná,   odhodlane stiahnutá. Rýchlym pohybom zakryl svojím telom strachom sa   trasúcu Ditu.
+    </tei:p>
+    <tei:p>
+     Keď sa náhodou obrátil, zahliadol čosi-čo to vlastne bolo, nemohol   rozoznať-snáď to bol skrčený človek, alebo pes, alebo snáď len   plaziaca sa mačka, mihlo sa to len medzi balvanmi, vyčnievajúcimi pri   povali jaskyne, hneď to ale zase zmizlo, potom sa to náhle ešte raz   neurčite ukázalo a potom sa úplne stratilo z očí.
+    </tei:p>
+    <tei:p>
+     V krátkej chviľke opäť sa vynorila chlpatá hlava za balvanom a   netvor mačacím skokom hupol pred Janka Rekeňa. Ten sa uhnul rane,   smerujúcej na hlavu, pohybom boxera a netvor máchnul do prázdna a len   s vynaložením najväčšieho úsilia sa mu podarilo zadržať rovnováhu.   Janko Rekeň prešiel do protiútoku. Uskočil priamo netvorovej rane do   boku, predloktím pravej ruky srazil ruku netvorovu a ľavou rukou   strašným hákom zasiahol jeho žalúdok. Iný by sa bol iste na mieste   zrútil, avšak zasiahnutý len vyrazil zo seba boľavé híknutie.
+    </tei:p>
+    <tei:p>
+     V tom ozvalo sa ohlušujúce dunenie, ani keby sopečné plyny trhaly   útroby zeme a žeravú lávu v obrovských chúchvalcoch vyhadzovaly do   nesmiernej a nedohľadnej výšky. Povala jaskyne sa dala do pohybu,   bočné steny pukaly a veľké balvany strašným rachotom padaly na dno   jaskyne.
+    </tei:p>
+    <tei:p>
+     V neveľkej vzdialenosti rozoznali v prerušovanej tme čiernu   hromadu, skladajúcu sa asi z onoho muža, ktorý ich prekvapil a rýchle   vyliezol po stene s vyhrážajúcimi slovami na ústach, a toho druhého   muža, či zviera, či čo vlastne bolo, ktorý ešte pred chvíľkou chcel   sviesť zápas na život a na smrť.
+    </tei:p>
+    <tei:p>
+     Zrazu zbadal, ako sa pretrhla stena jaskyne a žiarivý papršiek   denného svetla oblial jeho mrtvoľne bľadú tvár. Inštinktívne vzal do   náručia omdlievajúcu Ditu a veľkým skokom priamo vyletel na boží   svet. Zastal na pokraji brala a len zázrakom sa stalo, že nesletel i   s Ditou do priepasti a tam neskonali na ostrých hrotoch skalného   výčnelku.
+    </tei:p>
+    <tei:p>
+     Ohromný podzemný lomoz ho vytrhol zo strnulosti a Ditu prebudil z   podvedomia. Žalostné, smrtelné výkriky a zvieracie škreky prerušovaly   strašné dunenie v útrobách horského výbežku.
+    </tei:p>
+    <tei:p>
+     Zem sa pohnula a klesla tlumeným praskaním o niekoľko metrov do   údolia.
+    </tei:p>
+    <tei:p>
+     Vyskočili ustrašene, dali sa na útek a bežali a bežali divoko,   slepo, šialene, spití hrôzou a vysilením, vždy ďalej a ďalej tmavými   tieňami, ktoré ich halily ako ochranný plášť, len ďalej a ďalej   húštinami i podrostom, cez potôčky i kamene, nedbajúc ničoho,   nemysliac na nič, majúc len divokú túhu: utiecť stoj čo stoj.
+    </tei:p>
+    <tei:p>
+     Zpočiatku mali dojem, že sú prenasledovaní, počuli za sebou hlasy,   bola to však len rozrušená myseľ. Leteli divokým behom ruka v ruke,   poháňaní šialeným strachom, pričom im husté stromovie bolo výbornou   pomocnicou. O chviľku dostali sa kdesi na pokraj lesa.
+    </tei:p>
+    <tei:p>
+     Cítili sa teraz bezpečnejšími, lebo vedeli, že vláda tých   diabolských tvorov, z ktorých moci práve utiekli, bola vždy najväčšia   v hlbokom lese pod vysokými stromami.
+    </tei:p>
+    <tei:p>
+     Utekali ešte kus cesty, až dobehli na jedno miesto, kde pôda   tvorila malú kotlinu. Tu klesli na svahu pod nízkym krom a zostali   ležať bez hnutia, netrúfajúc si ani uveriť, že dosiaľ žijú a že vyšli   zdraví a celí z toho pekla hrôzy a besu.
+    </tei:p>
+    <tei:p>
+     Bol chladný predvečer s bľadým mesiacom, ktorý ležal na oblohe,   ako by napnutý vetrom, a bol zahalený poletujúcim a prehľadným   mlhavým závojom.
+    </tei:p>
+    <tei:p>
+     Vedľa hral slávik milostnú pieseň o šťastí.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,31 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Modrá katedrála",
+        "publisher": "Vydavateľstvo Spolku slovenských spisovateľov",
+        "pub_place": "Bratislava",
+        "pub_date": "1998",
+        "ref": "isbn:8088735750"
+    },
+    "firsted": {
+        "publisher": "Matica slovenská",
+        "pub_date": "1942"
+    },
+    "authors": [
+        {
+            "first_name": "Ján",
+            "last_name": "Červeň",
+            "birth_date": "1919",
+            "death_date": "1942",
+            "ref": "viaf:48159887"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

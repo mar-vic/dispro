@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Tajomstvo skalného výbežku",
+        "publisher": "E. Singer",
+        "pub_place": "Levoča",
+        "pub_date": "1939"
+    },
+    "authors": [
+        {
+            "first_name": "Július",
+            "last_name": "Bolfík",
+            "birth_date": "1915",
+            "death_date": "1993",
+            "ref": "viaf:34469723"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

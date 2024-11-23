@@ -1,0 +1,33 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Príhody a skúsenosti mládenca Reného",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1976"
+    },
+    "firsted": {
+        "pub_date": "1785"
+    },
+    "diged": {
+        "title": "Príhody a skúsenosti mládenca Reného (Prvý diel) : edícia Zlatý fond denníka SME",
+        "target": "https://eknihy.sme.sk/titul/prihody-a-skusenosti-mladenca-reneho-1"
+    },
+    "authors": [
+        {
+            "first_name": "Bajza",
+            "last_name": "Jozef Ignác",
+            "birth_date": "1755",
+            "death_date": "1836",
+            "ref": "viaf:64128340"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

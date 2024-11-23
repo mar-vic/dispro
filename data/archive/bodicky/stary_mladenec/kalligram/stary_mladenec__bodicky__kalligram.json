@@ -1,0 +1,31 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Starý mládenec",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "ref": "isbn:9788081016837",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "title": "Starý mládenec",
+        "pub_date": "1879"
+    },
+    "authors": [
+        {
+            "first_name": "Samuel",
+            "last_name": "Bodický",
+            "birth_date": "1850",
+            "death_date": "1919",
+            "ref": "viaf:84143439"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

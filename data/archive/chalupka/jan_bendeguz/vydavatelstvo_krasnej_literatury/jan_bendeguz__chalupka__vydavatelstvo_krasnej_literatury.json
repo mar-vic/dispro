@@ -1,0 +1,32 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Bendeguz, Gyula Kolompos a Pišta Kurtaforint. Donquijotiáda podľa najnovšej módy.",
+        "publisher": "Slovenské vydavateľstvo krásnej literatúry",
+        "pub_place": "Bratislava",
+        "pub_date": "1953",
+        "ref": "isbn:8088735750"
+    },
+    "firsted": {
+        "publisher": "Otto Wigand",
+        "pub_place": "Leipzig",
+        "pub_date": "1841"
+    },
+    "authors": [
+        {
+            "first_name": "Ján",
+            "last_name": "Chalupka",
+            "birth_date": "1791",
+            "death_date": "1871",
+            "ref": "viaf:64806182"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1937131" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Silueta : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2188
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Silueta
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-22">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Silueta
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Neviem si spomenúť bez pohnutia na Evelíninu tvár.
+   </tei:p>
+   <tei:p>
+    Vidím túto tvár: Je zvrátená hlboko nazad, oči sú zavreté a okolo   úst — mäkký, trpiaci výraz.
+   </tei:p>
+   <tei:p>
+    Všetko, čo je tu napísané, je len pokusom o oživenie tohto   videnia.
+   </tei:p>
+   <tei:p>
+    Tvár leží nevládne na operadle kresla. Otvoreným oblokom vniká k   nej únava posledných lúčov zapadajúceho slnka. Deň efektne a trochu   divadelne dohorieva nad rampou zelených stromov. S času na čas   odpadne v záhrade pred domom dozretá hruška. A zakaždým, keď doľahne   k ušiam Evelíny krátky, pridusený úder, cíti, ako by jej samej   odtrhol sa vo vnútornostiach kus dozretého života. Kus života, ktorý   sa uvoľnil na stopke, čo ho pútala s minulosťou, a odpadol nevládne   do vlhkej trávy, kde je odsúdený zhniť, nikým nezbadaný, nikým   neužitý.
+   </tei:p>
+   <tei:p>
+    Tvár Evelíny zostáva pritom nepohnutá. Oči sú zavreté a ruky ležia   pokojne na operadlách kresla.
+   </tei:p>
+   <tei:p>
+    Tvár orámovaná samotou.
+   </tei:p>
+   <tei:p>
+    Je vyvrátená hlboko nazad a ústa cedia pomalými dúškami pomedzi   stisnuté pery bolestný pocit samoty.
+   </tei:p>
+   <tei:p>
+    Evelína je sama. Je sama v svojej izbe, sama v úrade, sama na   ulici. Sama je v bolesti i v zriedkavých chvíľach šťastia.
+   </tei:p>
+   <tei:p>
+    Áno, Evelína vie byť i šťastná. Mĺkvo a zbytočne šťastná v   chvíľach, keď sa jej podarí podívať sa užaslými očami na veľký kus   cesty, ktorý prekonala od svojho osirelého detstva. Tvrdo sú v jej   pamäti vyryté zastavenia na tejto ceste:
+   </tei:p>
+   <tei:p>
+    Sedem rokov: Je to naozaj ona? To bledé, chudorľavé dievčatko s   priezračnými očami, s dvoma tuhými, odstávajúcimi vrkôčikmi? Sedí na   kozlíku vedľa starého Baďu, čo vozí poštu na stanicu. Na kolenách   sviera batôžok, s ktorým ju vypravili do sveta. Do sirotinca v   ďalekom meste. Nad krajom leží hustá osuheľ: Ako by náročky   zastierala výhľad do budúcnosti, ktorá ju čaká.
+   </tei:p>
+   <tei:p>
+    Štrnásť rokov: Vyhúknutá, ešte stále chudorľavá. Oči rozšírené   večným údivom nad zmätkom a nepochopiteľnou mnohotvárnosťou sveta.   Vtedy podarí sa jej dostať sa z krajčírskej dielne (kam ju boli bez   škrupulí vstrčili) do školy. Potom knihy a knihy. A zasa knihy. A   raz, v letné popoludnie pri spoločnom kúpaní v rieke, poznanie.   Jasný, drtivý fľak na bielizni. „Umrem,“ myslí si. Mala by kričať,   volať o pomoc, alebo utekať, preč, ďaleko od ľudí. Ale miesto toho   schúli sa len na brehu, stranou od ostatných, a myslí si: „Umrem.“ A   čaká, kedy sa to stane. Nestalo sa nič. Len v duši zostalo dusivé,   skľučujúce tajomstvo.
+   </tei:p>
+   <tei:p>
+    Dvadsať jeden rokov: Tu sú žemle a žemle a sladké mlieko. Hŕby   žemieľ a more sladkého mlieka. Ledva to stačilo, aby sa udržala na   žive. Ale udržala sa.
+   </tei:p>
+   <tei:p>
+    A dnes má päťatridsať. Je prokuristkou v tej istej banke, kde   začala pred štrnástimi rokmi na žemliach a sladkom mlieku. Môže si   platiť nájomné dvojizbového bývania v modernej štvrti, môže sa dobre   obliekať, môže každý mesiac venovať istú sumu na knihy a časopisy.   Môže si predplatiť na celú sezónu kreslo v Mestskom divadle. Môže   stráviť dovolenku pri mori. Mohla by sa vydať a mohla by mať milenca.   Je samostatná, zdravá, dozretá ženská.
+   </tei:p>
+   <tei:p>
+    Dlhý kus cesty, kým dospela až sem. K plnosti, k samostatnosti a k   láske. Áno, ostatnou stanicou bola láska. Na každej predošlej prišlo   jej veľa rozmýšľať, vyratovať, odhodlávať sa, aby napokon zvíťazila.   Ale na tejto poslednej po všetkých predošlých navalilo sa toho na ňu   najviac. Vtedy, pred siedmimi rokmi, v dusnej, teplej tme, bolo   víťazstvo najťažšie. Bolo to víťazstvo nad niečím, čomu venovala   najväčší kus svojho života, víťazstvo nad márnivým, dlhotrvajúcim   snom — nádherným a odporným v tisícorakých premenách. Víťazstvo nad   chorým, umele na žive udržiavaným srdcom.
+   </tei:p>
+   <tei:p>
+    Nevie dodnes, kde vzala vtedy odvahu. Aký pud sebazachovania sa v   nej prejavil, keď začala hovoriť potichu, tvrdo do teplej tmy. Tušila   v tej tme nehybnú a cudziu tvár človeka, ktorého si bola narúčala   ľúbiť a ktorý mnohomluvne a trúfale vložil život do jej lona, aby jej   ho potom zbabele a slabošsky znova vyrval. Videla v tej tme žeravý   uhlík cigarety, ktorú držaly prsty, čo ju boly hladievaly po tvári,   na viečkach, po čele a popod hrdlo; všade tam, kde sa stretaly s   pridúšanou ozvenou jej tela. To všetko prestalo už účinkovať. Studený   kameň ležal jej na vyrabovanom živote. Cítila v sebe hrob. Dodnes si   môže spomenúť na slová, ktorými sa vtedy orosily jej ústa, slová,   ktoré bez stopy vsiakly do tichej, teplej tmy.
+   </tei:p>
+   <tei:p>
+    Do tichej tmy, ktorá i teraz vystupuje nenáhlivo zpoza rampy   čiernych stromov, a do ktorej pochovala vtedy najmocnejšiu svoju   túžbu. Túžbu po plnosti, po smysle života, túžbu po materinstve.
+   </tei:p>
+   <tei:p>
+    Mala vtedy osemadvadsať rokov a vedela, že v tomto veku mala by už   byť na vrcholci. Že v duši mala by už mať skladne urovnanú a   previazanú hodvábnymi stužkami celú výbavu života. A ona ešte vždy   bývala v penzionáte pre slobodné ženské, obklopené nepohodlím, večným   hlukom na chodbách, neznesiteľnými dôvernosťami spolubývajúcich a ich   upodozrievavými pohľadmi: „Chodí s niekým slečna Evelína? Má slečna   Evelína milenca? Môžem vás, slečna Evelína, pozvať dnes na   večeru?“
+   </tei:p>
+   <tei:p>
+    Bránila sa zúfale týmto pozvaniam na večeru. A keď raz pri diktáte   sklonil sa šéf nad jej šiju a bozkal ju tam dotieravo, zľahka, akoby   na skúšku, chcelo sa jej vyskočiť, kričať a súčasne plakať. Chcelo sa   jej volať, že je to omyl, strašný omyl. Zostala však sedieť s   meravými prstmi nad klávesnicou a s tupým, nehybným videním:
+   </tei:p>
+   <tei:p>
+    Bola už vtedy druhý mesiac samodruhá. Hlboko v nej odohrával sa   úchvatný proces. Podľa zákonov geometrického radu pučily sa buňky; z   jednej boly dve, z dvoch štyri, zo štyroch osem. Boly ich už   miliardy, samostatne živých a spolu organizovaných v zázrak, ku   ktorému mierila všetka jej
+   </tei:p>
+   <tei:p>
+    túha a cedila sa všetka jej krv. Vedela, čo ju čaká, no chcela   svoj plod donosiť. Ale človek, ktorého si narúčala ľúbiť, a   prostredie, ktoré ju živilo, tak dlho a urputne naliehali na jej   odvahu, až jedného dňa — skôr pomätená ako pri smysloch — vstúpila do   ordinácie uhladeného a aseptického vraha.
+   </tei:p>
+   <tei:p>
+    Vtedy mala osemadvadsať a cítila v sebe hrob.
+   </tei:p>
+   <tei:p>
+    Dnes má päťatridsať a ešte pred tromi mesiacmi, začiatkom tohto   leta, čo práve odpadáva s dozretými hruškami do uvädnutej trávy, sa   jej zdalo, že kameň s jej hrobu je znovu odvalený, že je účastná   zázraku zmŕtvychvzkriesenia svojho tela.
+   </tei:p>
+   <tei:p>
+    Nie, nie, nezatúžila po dotyku chvejúcich sa prstov. Nedá sa   viacej zaviesť na cestu, ktorá sa už raz skončila priepasťou.   Uvedomuje si iba, že jej telo je znovu pripravené a túha, ktorá   ustavične bola na stráži, vyháňa znovu upriamené, nepremožiteľné   výhonky. Presvedčuje sa o tom jedného rána po kúpeli v zrkadle. Vidí   svoju tvár, mladú a ešte vždy peknú, a svoje telo, čisté a dosiaľ   vábivé. Víťazne berie do dlaní svoje prsia a zaviera oči pred mocným,   žiariacim rozhodnutím:
+   </tei:p>
+   <tei:p>
+    Bude mať ešte dieťa.
+   </tei:p>
+   <tei:p>
+    Nejde toho dňa do úradu. Odíde vlakom ďaleko za mesto a chodí celý   deň bez únavy po lesoch a viniciach. Chce byť sama. Chce si rozvážiť   a vyrátať každý krok, ktorý od tejto chvíle učiní. Všetko je náhle   bez miery dôležité a všetko zbytočné stáva sa potrebným. Hľa, ako je   potrebné, že tráva rastie a kvety voňajú a v haluzí stromov že šumí   vietor. Ako dôležité a potrebné sú tieto klíčky hrozna, vlani   zasadené. Aký potrebný je biely oblak na nebi, čo sa rozplýva nad jej   hlavou. Bože, aké potrebné je to rozplývanie samo! Aká potrebná je   ona sama; jej ruky a ústa, jej zrak, jej plecia, jej driek. Jej   topánky, šaty a prsteň na jej ruke. Aký potrebný je teraz úrad, jej   plat, izba a miesto v kúte pre detskú kolísku. Zdoláva ju náhly a   hlboký cit vdačnosti.
+   </tei:p>
+   <tei:p>
+    A večer, ked si líha, je Evelína rozhodnutá. Má presný, do   podrobností vyrátaný plán.
+   </tei:p>
+   <tei:p>
+    Najbližšie nedeľné odpoludnie sa ligoce ako vyleštený medený   tanier nad holičským krámom. Jej drahé nové šaty priliehajú tesne   všade tam, kde sa končí istota videného a začína dráždivosť tušeného.   Do jej chôdze, pomedzi plavé, lesknúce sa lýtka, pletie sa   vyzývavosť. Na jej tvári sedí úzkostlive vyhladená maska diskrétnosti   skúsenej ženy.
+   </tei:p>
+   <tei:p>
+    Park je tej nedele plný smyslového chvenia a duseného napätia.   Ľudia plávajú lenivými pohybmi sem a tam v hustých prúdoch ako ryby   počas trenia. Ich sklovité oči utkvievajú na jej postave dlho,   nehybne. Cíti sa nahá, vystavená so všetkých strán ich podivnému,   trápnemu záujmu. V altáne pred reštauráciou hrá vojenská kapela. Tu   je stisk najväčší. Zastane si na kraji chodníka a vdychuje dráždivé   miešanie sa prachu a potu a lacných voňaviek. Srdce jej máličko búši   vzrušením, ale maska na tvári sedí pevne. Stojí nepohnute na kraji   chodníka, kým sa popred ňu nevymenia všetky tváre. Namáha sa hľadieť   na ne pozorne, s chladným a vecným záujmom kupca na jarmoku, ktorý si   vyberá najlepší záprah.
+   </tei:p>
+   <tei:p>
+    „Toto je tvár náročná a táto je hlúpe namyslená. V tejto je únava,   v tejto zatrpklosť a v tejto sklamanie. Táto je priveľmi drzá, táto   blazeovaná a v tejto je škodoradosť. V tejto je utrpenie a tiché   porozumenie. V tejto odvaha, vyzývavosť, sila. Táto je zahriaknutá a   pokorná. Toto je tvár úbožiaka a toto tvár spustlíka... Akú tvár   vlastne hľadá? Ktorá je tá pravá?“
+   </tei:p>
+   <tei:p>
+    A odrazu je tá tvár celkom blízko. Na dva kroky od nej. Je v nej   hlad. Rozšírené, hľadajúce zrenice, upreté do jej zreníc.
+   </tei:p>
+   <tei:p>
+    V očiach sa jej zahmlilo a taštička, ktorú držala kŕčovite v ruke,   vykĺzla jej na zem. Počuje hlas a cíti na tvári cudzí dych:
+   </tei:p>
+   <tei:p>
+    — Vypadla vám taštička. Je vám nevoľno, slečna?
+   </tei:p>
+   <tei:p>
+    Áno, je jej nevoľno.
+   </tei:p>
+   <tei:p>
+    — Mohol by som vám pomôcť? Mohol by som vás odprevadiť k stolu,   aby ste vypili pohár vody?
+   </tei:p>
+   <tei:p>
+    Áno, môže ju odprevadiť k stolu; vypije pohár vody.
+   </tei:p>
+   <tei:p>
+    — Je strašné dusno; nie div, že vám je nevoľno.
+   </tei:p>
+   <tei:p>
+    Pravda, je strašné dusno. Je strašné, zajakavé dusno. „Prepáčte...   naozaj — nedá sa ani hovoriť.“
+   </tei:p>
+   <tei:p>
+    Díva sa neprítomným zrakom na tvár pred sebou. Je vzdialená,   nekonečne vzdialená. Rozmazaná a neskutočná, ako tvár na nezaostrenom   fotografickom obrázku. Neskutočná, tuctová tvár chudáka, ktorý si   vyšiel v nedeľu odpoludnia do parku s pochybnou nádejou na pochybné   dobrodružstvo. Náhle sa upokojuje a rozoberá ju skúmave, črtu za   črtou. Potom sa díva na ruky, na plecia, na prsia a cíti, ako sa jej   znovu vracia odvaha. Cíti, ako jej krv stydne v žilách a tvár jej   meravie ľadovou istotou.
+   </tei:p>
+   <tei:p>
+    Vstáva.
+   </tei:p>
+   <tei:p>
+    Nohy sú trochu ťažšie ako obyčajne. Nevie, nevie, či bude môcť   vykročiť.
+   </tei:p>
+   <tei:p>
+    Prosí za prepáčenie, no naozaj musí už ísť.
+   </tei:p>
+   <tei:p>
+    — Ale smiem vás odprevadiť? Rád by som vás odprevadil; ste celá   bledá.
+   </tei:p>
+   <tei:p>
+    Pravdaže, môže ju odprevadiť.
+   </tei:p>
+   <tei:p>
+    — Môžeme ísť tramvajou.
+   </tei:p>
+   <tei:p>
+    Istotne, môžu ísť tramvajou. Bude to aspoň kratšie. Tu je   tramvaj...
+   </tei:p>
+   <tei:p>
+    A tu je už brána do jej domu.
+   </tei:p>
+   <tei:p>
+    Nevošiel by s ňou pán, pán... — Nevošli by ste so mnou na šálku   čaju?
+   </tei:p>
+   <tei:p>
+    Pán vyvalí oči v nemom úžase, ale v zápätí vyjasní sa mu tvár   pochopením. Pravdaže, veľmi ochotne vojde s ňou na šálku čaju. Ďakuje   veľmi úctivo. Ďakuje tak úctivo a horlivo, až mu sliny zaskočia do   hrtana. Ešte raz pekne ďakuje. Milostivá pani (prečo náhle milostivá   pani?) je veľmi láskavá. Milostivá pani sa istotne trochu nudí? Pán   manžel je azda na dovolenke? (Ak sa totiž smie spýtať.) Má to tuná   milostivá pani veľmi útulne zariadené; ako stvorené pre návštevy,   ktoré prinášajú rozptýlenie. Krásny kútik. Sám si už dávno želá mať   niečo podobného vo svojom byte. To človeka osvieži, keď sa unavený a   mrzutý vráti domov. Čo iného človek na tom svete má, ak nie to, čo   užije. (He-he.) Sám síce nie je tiež hocikto. (Prosím, prosím, aby   nenastala mýlka.) Má stále miesto a zabezpečenú penziu. Ale prestáva   ho už zabávať mládenecká samota. Azda to milostivú paniu trochu   zaujíma. Milostivá pani má iste svoje názory a svoje skúsenosti. Á...   (významná pomlčka, díva sa znalecky na jej profil) milostivá pani   iste, veľmi veľa trpela. Koľko má milostivá pani vlastne rokov? Ozaj,   či uhádne? Jej pleť je hladká a jej oči, jej ústa... jej oči, jej   ústa sú vábivé ako, ako... Sú vábivé, vábivé, vábivé... Celá   milostivá pani je veľmi vábivá, vábivá, vábivá...
+   </tei:p>
+   <tei:p>
+    O pol hodiny bola oznove sama. Navalila sa na ňu tupá neciteľnosť.   Ako by ju celú zmrazili podkožnými injekciami proti bolesti. V izbe   je polotma a zvonku sem nazerá desivé, mŕtve ticho. Leží bez hnutia   na posteli a posteľ sa s ňou kýva ako čierna rakva, ktorú za tmavej   noci hodili s paluby do mora. Rakva sa chvíľu stojato kýva na vlnách   a potom začne zvoľna, nečujno klesať ku dnu. Klesá a klesá, ustavične   klesá s jej mŕtvym telom. A hore, nad hladinou, ženie sa nepokojná,   búrlivá vlna a unáša na hrebeni všetok smysel jej života a všetku   skutočnosť jej života.
+   </tei:p>
+   <tei:p>
+    Číselník na hodinách pripomenie jej, ako málo času uplynulo od   chvíle, keď si ešte trúfala nájsť tento smysel, keď sa vybrala do   parku, zúfalo odhodlaná vyrvať ho pre seba. Dravo a bezohľadne chcela   ho vyrvať z kliešťov ľudskej zadubenosti. Nechtami chcela ho vyhrabať   zpod rumu pokrytectva, pretvárky a nežičlivosti. Nie všetok. Len   kúsok. Jediný krvavý franforec, na ktorý mala právo vo svojom   ženstve, vo svojom fyzickom uspôsobení, v samej podstate svojho   bytia. Aspoň tento jediný franforec chcela uchytiť a utiahnuť sa s   ním stranou od všetkých, na miesto, kde by nikoho nepoburovala,   nikomu neprekážala. Hoci do vlčieho brlohu.
+   </tei:p>
+   <tei:p>
+    Dva mesiace prišlo jej potom vyčkávať v mučivom napätí, skoro na   pokraji šialenstva, aby sa napokon dozvedela, že všetko je márne, že   je mŕtva zdnuky i zvonky ako bútľavý peň, ako vyhasnutá pahreba, ako   rozbitý džbán.
+   </tei:p>
+   <tei:p>
+    Jej tvár je zvrátená hlboko nazad v kresle pred oblokom, oči sú   zavreté a ústa cedia pomalými dúškami tragický pocit samoty...
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

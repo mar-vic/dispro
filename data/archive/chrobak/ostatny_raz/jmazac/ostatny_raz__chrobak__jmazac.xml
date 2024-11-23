@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk193759" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Ostatný raz : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     1565
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Ostatný raz
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-22">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Ostatný raz
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Synovia odišli z jari na múranie.
+   </tei:p>
+   <tei:p>
+    „Vrátime sa,“ písali, „týždeň pred Jakubom pomôcť pri kosení.“
+   </tei:p>
+   <tei:p>
+    Minula sa jar, začalo sa leto, prišla streda — týždeň pred   Jakubom. Synovia nechodia.
+   </tei:p>
+   <tei:p>
+    To už starý otec Lanštiak polihovali. Dýchať nedalo, v boku klalo.   „Tuto i tuto.“ Ledva sa starý otec večierkom na priedomie vytiahnu,   sadnú na prietos, paličku oprú k nohám.
+   </tei:p>
+   <tei:p>
+    Hore dedinou idú chlapi. Po jednom, po dvoch. Kosy na pleciach, na   kosisku kapsička, v nej kolík, nákovka, babka, kľúčik. Na bedrách   zakvačený oselník. Pri každom kroku zahrká oslička v oselníku: hrk,   hrk.
+   </tei:p>
+   <tei:p>
+    — Idete?
+   </tei:p>
+   <tei:p>
+    — Ideme.
+   </tei:p>
+   <tei:p>
+    Hrk, hrk.
+   </tei:p>
+   <tei:p>
+    — Na noc?
+   </tei:p>
+   <tei:p>
+    — Na noc.
+   </tei:p>
+   <tei:p>
+    Hrk, hrk.
+   </tei:p>
+   <tei:p>
+    Smutne pozerajú starý otec za chlapmi. „Nepôjdem ja už... Záduch   tlačí na prsiach. V boku kole. Tuto i tamto...“
+   </tei:p>
+   <tei:p>
+    Na rynku rozostavil kramár šiator s kosami. Vyber si, akú ti len   duša zažiada: poľku so širokým koncom, hronku s úzkym, končitým. Dlhú   a ťažkú, súcu žito žať; krátku a ľahkú, súcu na Bliesach škutinu   zpomedzi chopkov vykášať. Neprenáhli sa, dobre vyprobuj, kým sa   rozhodneš. Štrngni špicom o zem, prilož k uchu a načúvaj, aký zvuk   vydáva. Posliň palec a prejdi ním po ostrí. Poťažkaj v ruke, poklep   hánkou, prehni na kolene. To všetko zopakuj v zmenenom poriadku dva,   tri - desať ráz.
+   </tei:p>
+   <tei:p>
+    Hnevá sa starý otec na chlapov, čo idú na lúky. Nič sa mu na nich   nepáči.
+   </tei:p>
+   <tei:p>
+    — Trochár, — zadudre, keď ide okolo Kubis.
+   </tei:p>
+   <tei:p>
+    — Žráč, — keď prejde pomimo Melich.
+   </tei:p>
+   <tei:p>
+    — Rozdrap sa tam... Ktože to kedy slýchal... Voľakedy o Jakube   bolo dosť času. Teraz: tráva nevyzretá, úžitku nedá a už ju idú   ráňať.
+   </tei:p>
+   <tei:p>
+    Nedá mu, nedá starému otcovi nezávidieť zdravým, mocným chlapom,   čo sa týždne budú oháňať kosami na lúkach. Na slnci, na vetre. Tuto   Kubis: krivý, trochár, a predsa si vykračuje ako viceišpán.
+   </tei:p>
+   <tei:p>
+    A keď pofŕka dážď, raduje sa starý otec: „Nevravel som: časy sú   ešte nestále, tráva nevyzretá, narobíš sa a úžitku neuvidíš.“
+   </tei:p>
+   <tei:p>
+    Robota okolo sena je najhrdšia zo všetkých gazdovských robôt.   Hotujú sa na ňu, ako na prijímanie velebnej sviatosti oltárnej.   Spomínajú ju skúpo a iba v triezvom stave, s rovnakou úctou ako   spomínajú meno božie. Za tri týždne spávajú chlapi v stodolách na   lúkach, ďaleko od dediny. Isť po prvý raz na lúky je pre chlapca   väčším vyznamenaním, ako obliecť si po prvý raz dlhé nohavice.   Nohavice sú iba formou. Ísť na lúky je obsahom: znamená byť prijatým   do sväzku chlapov, gazdov. Počujú sa tu reči, súce len pre chlapské   uši. Robí sa tu práca, súca len pre chlapské ruky.
+   </tei:p>
+   <tei:p>
+    So dňa na deň sú starý otec netrpezlivejší.
+   </tei:p>
+   <tei:p>
+    — Nechodia. Bolo by im napísať. Či ako? Neprizabudli? V dňoch sa   nepomýlili?
+   </tei:p>
+   <tei:p>
+    Odrazu tiché nepriznané želanie vkradlo sa starému otcovi do duše:   vyjsť ešte raz na lúky, ešte raz a napokon vyhriať na slnci staré   kosti, večierkom variť údlo mäso pod kriakom. Naposledy môcť sa   vyspať v stodole na sene! „Dvierka sú nízko, vyšiel by som ja ešte.   Oj, vyšiel...“
+   </tei:p>
+   <tei:p>
+    V prsiach vari trochu odľahlo.
+   </tei:p>
+   <tei:p>
+    „Ak prídu, nepustia ma. A čo, ak neprídu...?“
+   </tei:p>
+   <tei:p>
+    — Nože, Miško, chlapče, dones s pôjda tie kosy, nech ich   poobzerám!
+   </tei:p>
+   <tei:p>
+    Starý otec hotujú kosy. Štyri. Dve pre synov. Jednu — novučkú,   ľahkú — pre Miška (čas mu je pribrať sa, skúsiť gazdovský život). A   jednu — tajne, aby stará mať nevideli — pre seba. Kosisko staré,   vyúdené cez dlhé roky v dyme na pôjde. Kvačka na ňom hladká,   vyhladená tvrdými dlaňami. Kosa vydratá sedí v babke ako priliata.   Mazne sa s ňou starý otec ako s dieťaťom. A záduch — vari naozaj   povolil.
+   </tei:p>
+   <tei:p>
+    Čo raz žiadostivejšie pokukujú starý otec na koscov, čo idú hore   dedinou.
+   </tei:p>
+   <tei:p>
+    — S nami sa, sváko!
+   </tei:p>
+   <tei:p>
+    — Hoh, nebodaj, čakám na synov...
+   </tei:p>
+   <tei:p>
+    A tiché, nesmelé želanie hniezdi sa starému otcovi v prsiach.   Pošepkáva, vyvoláva.
+   </tei:p>
+   <tei:p>
+    — Idete?
+   </tei:p>
+   <tei:p>
+    — Pomaly... treba. A vy kedyže?
+   </tei:p>
+   <tei:p>
+    — I nám by bolo.
+   </tei:p>
+   <tei:p>
+    A oslička v oselníku: hrk, hrk — pokúša, vyvoláva.
+   </tei:p>
+   <tei:p>
+    V sobotu prišiel list. Položili si starý otec okuliare, ale písmo,   nebodaj, vrtí sa pred očami, drobí pod stareckým zrakom. Zavolali   vnučku na pomoc.
+   </tei:p>
+   <tei:p>
+    — Prečítaj tuto. Učili ťa v škole.
+   </tei:p>
+   <tei:p>
+    „Nemôžeme prísť. Zárobky sú dobré. Najmite si pomoc,“ prečítala   vnučka.
+   </tei:p>
+   <tei:p>
+    Srdce sa zatrepotalo v starom tele. Brada zatriasla. „Ale načim sa   rozčuliť,“ spamätali sa starý otec:
+   </tei:p>
+   <tei:p>
+    — Kýho ďasa... Kto to kedy slýchal? Pomoc?! S cudzou čelaďou sa   hnevať. Hriechu v dome narobiť. Radšej nech na koreni zhnije!
+   </tei:p>
+   <tei:p>
+    V nedeľu zašli starý otec do kostola. Pomodliť sa, síl od Boha   vyprosiť.
+   </tei:p>
+   <tei:p>
+    Po obede priam sa kdesi podeli, aby sa nemuseli so starou materou   do reči púšťať. Až na mraku vyvrhli zpoza dvora: brusliak zapätý po   bradu, na nohách čižmy, v ruke valaška — kosa na pleci. A prostred   čela vráska. Strašná! Už tá vráska sama stačila zaseknúť kázeň starej   matere:
+   </tei:p>
+   <tei:p>
+    — Kdeže, ty starygáň, vari si sa nezblaznel? Boha pokúšať...
+   </tei:p>
+   <tei:p>
+    — Čit! — zahriakol ju starý otec s velebným posunkom, ako by ho   boli vyrušili z modlitby.
+   </tei:p>
+   <tei:p>
+    — Miško, rušajme!
+   </tei:p>
+   <tei:p>
+    Vyšúľal sa i Miško zpoza dvora.
+   </tei:p>
+   <tei:p>
+    — No, poďme vo meno božie.
+   </tei:p>
+   <tei:p>
+    Išli. Miško sa čochvíľa prizerá starému otcovi na nohy, či drží   krok, ako videl pri chlapoch. Držal.
+   </tei:p>
+   <tei:p>
+    Lúky voňaly. Slnce svietilo. Vetrisko, zbojník, čuchral staré   kriaky, preháňal sa po tráve.
+   </tei:p>
+   <tei:p>
+    — Takto si, syn môj, pritískaj päticu, aby ti špic neďugal do   zeme. Raz-dva, pravou nohou vopred, raz-dva, raz-dva.
+   </tei:p>
+   <tei:p>
+    Nohy nechávajú na vlhkej, pokosenej pažiti dve rovnobežné,   neprerušované stopy.
+   </tei:p>
+   <tei:p>
+    — Menej si zachyť. Zadychčíš sa.
+   </tei:p>
+   <tei:p>
+    — Ej, veď ja vládzem.
+   </tei:p>
+   <tei:p>
+    Láskavá bolesť v rukách, v kolenách.
+   </tei:p>
+   <tei:p>
+    Vysoké, dlhé ujúkanie dievok z úbočia: „Ujjúúj — juj, juj, juj,   júj — na ti, Dano Brdárovie, Marku Stanovie na ti ju náá! Ihjúj,   jujujujúúj — na ti ju na!“
+   </tei:p>
+   <tei:p>
+    Kvety, mŕtve i živé, na radku i na koreni, voňajú tuho. Vtáča   vyletí z radka krátkym, trhavým trepotom krídel k zenitu.
+   </tei:p>
+   <tei:p>
+    Dni sú zázračne krásne. Hlboké, priestranné, oboma koncami   pripnuté k večnosti. Bezbožne zelené. Zahľadené do seba. Ustrnuté nad   zázrakom vlastnej plodivej sily. Započúvané do tlkotu srdca poľnej   zveri, do šumotu miazgy v steblách trávy, do ševelu ihličia na   sihliakoch.
+   </tei:p>
+   <tei:p>
+    Starý otec sa podopreli dlaňami o kosisko a v tichej, chlapcovi   nepochopiteľnej dohode s dňom, so slncom, s vodou a zemou načúvajú   neslyšateľnej ozvene dávnych časov.
+   </tei:p>
+   <tei:p>
+    Sivé, jasné diaľky topia sa v slnci. Oj, nevydržíš, braček,   nevydržíš dívať sa, v oči reže, slzy zalejú stareckú tvár.
+   </tei:p>
+   <tei:p>
+    — Rušajme, Miško, v mene Boha.
+   </tei:p>
+   <tei:p>
+    Chlapec pokľukáva za starcom. Bolesť v rukách sa priostruje.   „Vydržať, vydržať do poludnia.“
+   </tei:p>
+   <tei:p>
+    Cez poludnie dobre je poležať si v sladkej únave pod stodolou.   Možno sa poshovárať so starým otcom. Možno sa podučiť z múdrych   rečí.
+   </tei:p>
+   <tei:p>
+    Večer sa zavŕtaš do sena, iba hlava ti trčí, zaspíš v pol   Otčenáši, nezbadáš ani, že starý otec dlho neusína, mrví sa v sene,   púšťa sa do reči s kýmsi. Ktosi kľačí starému otcovi na prsiach,   sbiera jeho reči do uzlíčka a rozkladá pod štít, ako hríby na   sušenie. Ráno, keď sa zobudíš, klepe už starký kosu pod stodolou.   Ponáhľa sa s kosením. Tie nočné rozhovory neslúžia mu na zdravie.   Záduchu niet, ale smútok, horší ako záduch, nanosil sa mu do tvári. A   čím viac trávy odbúda, tým je starcova tvár smutnejšia.
+   </tei:p>
+   <tei:p>
+    — Nevrátim sa ja už sem. Nevrátim...
+   </tei:p>
+   <tei:p>
+    V predostatný večer, keď už na ráno zostávalo dokosiť iba prieloh   konča lúky, zatiahla sa tvár starého otca do nepoznania. Strnisko na   brade zbelelo načisto, líca spopolavely. Toho večera už ani nejedli.   Zavesili kosu pod odkvap, sadli si pod stodolu, opreli sa o stenu.   Miško probuje jesť, ale nechutí. Priam v pažerákú zasekuje, do brucha   nedajbože dostať. Odloží misku a čaká. Donesie z chrástu suchého   raždia, rozloží ohník, prikladá a čaká.
+   </tei:p>
+   <tei:p>
+    Starý otec ledva dýchajú. Ruku — ťažkú, tvrdú — pritisli na   prsia.
+   </tei:p>
+   <tei:p>
+    — Pamätaj, synak... pamätaj, čo som ti vravieval ... Boha sa   nespúšťaj... zem... zem nezraď... ľudí... maj rád ľudí... spomeň si,   čo som ti vravieval... Zajtra... zajtra dokosíme...
+   </tei:p>
+   <tei:p>
+    Ruka — ťažká, tvrdá, z dreva vykresaná ruka — odpadla s pŕs   pomaly, potichu na zem.
+   </tei:p>
+   <tei:p>
+    — Starý otec, starý otec! — objíma Miško starcove kolená,   žalostive zajačí.
+   </tei:p>
+   <tei:p>
+    Počuli chlapi z okolitých stodôl chlapcov vzlykot. Prišli, budili   starca, hmatali puls, načúvali na prsiach.
+   </tei:p>
+   <tei:p>
+    — Nedýcha. Skonal.
+   </tei:p>
+   <tei:p>
+    Vystreli ho pod stodolu, pod hlavu sena nakládli, bradu   podviazali, ruky na prsiach složili a potichu sa pomodlili. Chlapca   pojali so sebou.
+   </tei:p>
+   <tei:p>
+    — Nech mu je Boh milostivý, umrel bez farára. Ráno pôjdeme po voz   do dediny.
+   </tei:p>
+   <tei:p>
+    Ráno sa zvesť rozniesla po lúkach. Schádzajú sa chlapi v kŕdlikoch   s celých lúk k stodole starého Lanštiaka. Patrí sa pomodliť nad ním,   vyprevadiť ho do dediny. Skupinky vážnych tvárí stavajú sa obďaleč   stodoly. Okúňajú sa akosi pristúpiť bližšie, vyrušiť kosca zo   zaslúženého odpočinku. Rosa jagá sa na tráve. Dobre sa kosí takto za   rána, kým je rosa na tráve. Žiaľ tu stáť a diškurovať o smrti starého   Lanštiaka.
+   </tei:p>
+   <tei:p>
+    — Nedokosil, — povie ktorýsi.
+   </tei:p>
+   <tei:p>
+    — Ale málo mu zostalo. Iba hen prieložtek konča lúky.
+   </tei:p>
+   <tei:p>
+    Obzrú sa chlapi na prieložtek.
+   </tei:p>
+   <tei:p>
+    — Čože to? Ľaľa...
+   </tei:p>
+   <tei:p>
+    Starý Lanštiak, rozkročený, pokojne si kosí prieložtek konča lúky.   Teraz vytiahol osličku a rozvážne ostrí. Zázrak, ľudia boží! Vari   vstal z mŕtvych? — Počuť, ako kosa cvendží, vidno, ako tráva padá a   ukladá sa do rovného radka.
+   </tei:p>
+   <tei:p>
+    Chlapi sa žehnajú a hľadia s otvorenými ústami na Lanštiaka.
+   </tei:p>
+   <tei:p>
+    — Dokosil.
+   </tei:p>
+   <tei:p>
+    — Nebodaj, nedalo mu umrieť, kým nedokosí.
+   </tei:p>
+   <tei:p>
+    Šesťdesiat rokov sám začínal, sám dokončieval. Nedalo mu.
+   </tei:p>
+   <tei:p>
+    Cestou s lúk stretli vtedy starý otec zástup horekujúcich žien a   švagra s vozom. Nahnevali sa vtedy starý otec nešeredne:
+   </tei:p>
+   <tei:p>
+    — Kdeže vás čerti nesú? Vyobliekané, bez batohov! Či sa tak chodí   na lúky? Aby vás...
+   </tei:p>
+   <tei:p>
+    Žili potom ešte starý otec do Mateja.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
