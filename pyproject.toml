@@ -33,6 +33,14 @@ pandas-stubs = "^2.2.1.240316"
 matplot = "^0.1.9"
 nltk = "^3.8.1"
 pattern = "^3.6.0"
+click = "^8.1.7"
+phunspell = "^0.1.6"
+textblob = "^0.18.0.post0"
+yapf = "^0.40.2"
+flake8 = "^7.1.1"
+isort = "^5.13.2"
+python-language-server = "^0.36.2"
+pudb = "2020.1"
 
 
 [build-system]
