@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Zkapaný diamant",
+        "publisher": "J. Gašparík",
+        "pub_place": "Turčiansky sv. Martin",
+        "pub_date": "1941"
+    },
+    "authors": [
+        {
+            "first_name": "Jonatán Dobroslav",
+            "last_name": "Čipkay",
+            "birth_date": "1819",
+            "death_date": "1861",
+            "ref": "viaf:84103218"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}
