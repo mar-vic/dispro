@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Povesti spod Sitna",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1987"
+    },
+    "firsted": {
+        "pub_date": "1937"
+    },
+    "authors": [
+        {
+            "first_name": "Jozef",
+            "last_name": "Horák",
+            "birth_date": "1907",
+            "death_date": "1974",
+            "ref": "viaf:74697033"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

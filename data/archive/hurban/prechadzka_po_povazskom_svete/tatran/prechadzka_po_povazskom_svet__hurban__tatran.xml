@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1983786" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Prechádzka po považskom svete : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:27087145">
+     Hurban, Jozef Miloslav (1817 - 1888)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     7604
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Hurban, Jozef Miloslav
+     </tei:author>
+     <tei:title>
+      Prechádzka po považskom svete
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Tatran
+     </tei:publisher>
+     <tei:date>
+      1983
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Hurban, Jozef Miloslav
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1844
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T1"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-12-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Prechádzka po považskom svete
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Vŕškom od Bukovca k Turej Lúke je pekná prechádzka. Ide sa pekným   vŕškom, potom dolu, tak hájikom utešeným a vždy má človek pred sebou   výhľady. Nie síce také, ako keď sa za Mnešicami z vŕšku otvorí   dolina, na ktorej polnočnom konci sa ukážu vrchy a skaly pruštianske,   zámok Trenčiansky, ba už hen vrcholce hôr belušských, nozdrovických a   dolu k poludniu - roviny až hen skoro trnavské, nie síce takéto   výhľady, ale výhliadky do kútkov všelijakých, kde ľud náš tiež žije.   A my chodiac všade s myšlienkou, všade vidíme život a všetko nás láka   a všetko nás priťahuje a všetko sa s nami teší a raduje.
+   </tei:p>
+   <tei:p>
+    Dívali sme sa po tých roztratených domoch po kopcoch a dolinkách a   úbočinách a zamysleli sa do toho arkadického života Slovákov. Sú to   kopanice, na ktorých vedie ľud slovenský v rodinách a   patriarchálnosti akejsi život idylický, bár sa zdá mnohému biedny.   Bieda je veľmi rozdielna, to jest pochop o biede nie je u všetkých   ľudí rovnaký. Mešťan, čo všetko imanie svoje premárnil, láskavých   dobrodružstiev sa nasýtil, takže všetko natoľko okoštoval, že sa mu   všetko spriečilo a duša už doňho len nocovať chodieva, má to za   vrchovec svojej túžobnosti, keby sa mohol oddialiť od hlučného sveta,   v ktorom už preňho nič nieto, ísť do úbočín prírody neskazenej a žiť   na sladkom v plástoch sa ligotajúcom mede a okusovať radostí   neskalených prírody. Tento kopaničiar sníva zas o meste, o pekných   palácoch a o hojnosti všetkých rozkoší a závidí tým, čo sa topia   každý deň v radostiach, rozkošiach a veselkárstve. Nepomyslí, že sa   tu mnohý smeje, čo má na tele svojom rany tráplivé z rozkoše, vo   svedomí svojom tŕne neprávosti urážlivé, vo vačku dlhy pozapisované a   úsmech jeho je len mechanická práca tváre, o ktorej srdce nič nevie.   Ostatne ale ľud tento je spokojný. Vo zvykoch starých, ktoré majú aj   tisíc rokov, v obyčajoch dedovských, ktoré sa verne zachovávajú,   stará sa o svoj dobytok a svoju daň, o svojho syna a dcéru svojho   suseda, ktorú by pre jej poriadnosť rád za nevestu v dome mal. Každá   dolinka a každý vŕštek má svoje nuanse zvykové jazykové aj odevové.   Ale všetky na jednom základe života slovenského stoja.
+   </tei:p>
+   <tei:p>
+    V Nitrianskej stolici je takýchto kopaníc veliké množstvo a ich   obyvatelia sú napospol evanjelici, ktorá okolnosť ukazuje iste na   časy prenasledovania náboženského. Kopanice sú prekopané a vyklčované   hory, je to zväzok medzi pánom a poddaným. Pán dal slobodu poddanému   vyklčovať horu a dal mu tie zeme, odkiaľ meno kopanica. Kopanicu takú   majúci sedliak zaviazaný bol pánovi za tú slobodu isté dane dávať.   Myjava, Brezová, Lukna, Stará Turá, Turá Lúka, Kostolné, Krajné atď.,   kde ich mnoho tisícov duší prebýva. Živia sa hospodárstvom,   remeslami, furmankami, ba aj handlom. Väčší diel ich však chodí do   výžinku, to jest do žatvy na dolné strany k Trnave, Novým Zámkom,   Šale atď. Domáca zem ich vyživiť nevládze. Jedna osada má viacej   oddielov, k akým prináleží hneď hŕbka z päť-osem domov pozostávajúca,   hneď celý rákoš domov ako veľké dediny. Mená týchto oddielov   pochádzajú hneď od krajov, v akých ležia, hneď od hlavných a   prvotinných osídlencov.
+   </tei:p>
+   <tei:p>
+    V takýchto myšlienkach a v takýchto rozprávkach sme zazreli aj   samú Myjavu.
+   </tei:p>
+   <tei:p>
+    Hej, vitajže nám, hrdinská Myjava! Hrdinská je Myjava, bo jej   história mnoho obsahuje skutkov, ktoré sa hrdinskými zvať môžu. Škoda   len, že všetka sláva hrdinskosti myjavskej len ženám náleží. Muži si   ju vraj nechali na budúcnosť. No aj to dobre. Charakter a ťah   Myjavcov je hrdosť. Na to sa pýši každý Myjavec, že je Myjavec. Ale   táto pýcha ešte neprešla v ten pekný sebecit, kde česť svoju hľadáme   a v nej si obľubujeme, a nič nerobíme, čo by nám toto znamenie   zastrieť mohlo. Ľud myjavský je tvrdý, ale vo svojej tvrdosti   podnikavý. Na čo sa vezme, to vyvedie. Len sa musí znať riadiť i s   jeho vlastnými slabosťami, nedokonalosťami, bludmi a predsudkami.
+   </tei:p>
+   <tei:p>
+    Urodzený pán Mikulecký, notár tutejší je takýto muž života, takýto   kráľ myjavský, takýto faktor všetkého dobrého a trvalého na Myjave.   On túto desaťtisícovú obec tak spravuje, ako by päťsto duší   počitovala. Ale pravda, on tomu rozumie, ako sa má ľudu charakter   poznávať. Zato bude mať i Mvjava večnú po ňom pamiatku a on po   Myjave. Lebo darmo je to, pôsobenie je zrastnutosť toho, kto pôsobí,   s tým, na koho pôsobí. A časom môže byť Myjava jeden z   najzvláštnejších punktov života nášho. Desaťtisíc obyvateľov   garantuje jej stálosť a bezpečnosť, duchovní správcovia jej charakter   mravný, vrchnosť jej silu vnútornú i vonkajšiu.
+   </tei:p>
+   <tei:p>
+    Na Myjave sme sa u dvojctihodného pána Jána Šulca, tunajšieho pána   farára evanjelického, rozhovorom a hádaním všelijakým výborne   zabávali.
+   </tei:p>
+   <tei:p>
+    Boh vie kedy, ale isté je to, že časom prvším alebo pozdejším   vyplnia sa naše tušenia a naše nádeje, bo ich nevystavujeme na   základe vymyslenom, ale na podstate pravdivej, na potrebnom tom   vyviňovaní sa historickom ľudského pokolenia. Však sme sa už tisíc   rokov pripravovali k tomu, čo byť máme v najbližšej budúcnosti. Ale   že k tomu výhľad nemajú tí, ktorí sa na budúcnosť dívajú z úzkeho   okienka formičiek dosavádnych, tomu sa nemáme čo diviť, bo to sú   ľudia, čo i o Kristu hovoria, že bez prorockého ducha mohol   predpovedať skazu mesta Jeruzalema. Oni sú to, čo po rade bývajú   múdrejší, avšak len na tú prípadnosť, ktorej východ, výpad a koniec   videli. Ľahko je povedať už teraz, že mohol to Kristus i bez   prorockého ducha predvidieť, bo vidíme všetko, ako sa vyviňovalo a po   sebe nastupovalo. Oni sú to, čo čakajú takú budúcnosť, ako bola   minulosť, chcejúc, aby sa rieka vždy nového a nového života národov   prekĺzala až po ich rozumu úzkej briežky. Špekulácie duchovnej nieto   tam, kde sa takéto myšlienky nachádzajú. Aj to obyčajné mienenie, že   by sa všetko len opakovalo, je takejto formálnej mysle plod. Preto sa   ľudia zavše skoro usilujú vypriasť takého niečo v histórii, ako už   bolo a čo sa im zaľúbilo. Aj vo francúzskej revolúcii zavše sa   hľadelo na staré revolúcie, a predsa to všetko ináč vypadlo. Novšie   zimničné fantázie niektorých ľudí zas sa formovať hľadeli podľa   francúzskej revolúcie. A to vypadlo ako: „Parturiunt montes, nascetur   ridiculus mus!“ Nie je to pravda, že by nič nového nebolo pod slnkom   a len sa všetko opakovalo. Ba je nové, tak síce, že sa staré všetko   opakuje a pretvára v novom, nie je však už ako celok, ale ten starý   celok sa v tom novom roztápa na moment, na čiastku nerozlučnú od toho   nového. Nové je teda reprodukcia všetkého starého s pritvorením k   tomu sveta všetko doceľujúceho a scelistvujúceho. Tak aj náš vek je   reprodukcia všetkých starých vekov. Ale už predsa snáď žiaden nebude   tak paradoxný, že by sa opovážil povedať, že stoletie XIX. by nič   iného nebolo ako len opakovanie sa predchádzajúceho stoletia. My   vieme, čo vedeli tí, čo vlani žili. Ale nevedeli oni, čo my teraz   vieme. Slovom, jedna niť sa pradie človečenstvom, národy a stoletia   ju vždy len zachycujú a ďalej pradú. Tá niť je zavše dlhšia i   obsiahlejšia. A my sa domnievame, že po rozpadnutí sa živlov národov   tých, ktorí dosiaľ krútili vretenom historickým, na náš národ prejde   poriadok krútenia vretenom tým. A preto nám všetky prekážky len   pomáhať budú k tomu. Bo čo má žiť, tomu všetko slúži k životu; čo má   hynúť, tomu všetko do hrobu pomáha.
+   </tei:p>
+   <tei:p>
+    Dňa 17. sme sa poberali ku Kostolnému a nohy naše sa usilovali   zadosť urobiť žiadostiam srdca a ducha, bo sme neverili čím skôr sa   vidieť s tým šľachetným duchom, s pánom dekanom okolia novomestského   Jánom Trokanom.
+   </tei:p>
+   <tei:p>
+    Krajinka táto je neúrodná, chladnejšie podnebie že v okolí Senice.   Je tu blízko Javorina, najvyšší vrch tohoto okolia, na medziach   Moravy položená. Hľadí ona do oboch vlastí, okom zarmúteným akoby   plakala nad Moravou i nad Slovenskom. Na jej vrchovci najvyššom sa   prestierajú lúky. Pod ňou ležia mestečká Stará Turá a ďalej nižšie   Lubiná. Staroturanci sú zvláštnymi výsadami či privilégiami   kráľovskými, pochádzajúcimi od kráľov uhorských, ale zvlášte Matiaša,   obdarení. Okolitých kopaničiarov pohostinnosť som ja už viac ráz   poznal. Ale to poznamenanie mám, že kostolanskí sú omnoho vľúdnejší   ako myjavskí. Ja sa domnievam, že je to pôsobenie tých obcí, k akým   náležia obojí. Myjava je obec veliká a táto povaha dodáva i rodom   jednotlivým akejsi tvrdosti, bezohľadnosti, akéhosi železného rázu.   Kostolné je obec malá, kde sa skôr zídu pospolu občania a, vidiac   svoju stávajíčnosť i krotkosť, vľúdnosť a ohľadnosť na ľudí, viac sa   spojujú ako tamtí. Jest i nábožnosti viac u kopaničiarov   kostolanských než u niektorých myjavských, bo sa jednotlivci skôr   cítia údmi sboru kostolanského byť, a preto aj častejšie sám sbor ich   môže na pozore mať. Rozlietaní po horách a po najukrytejších kútoch   kopaničiari myjavskí mnohí sotva raz vidia do roka kostol a   kňaza.
+   </tei:p>
+   <tei:p>
+    V Kostolnom sme sa výborne zabavovali, bo sme našli syna slávy   svedomito na národa roli dedičnej pracujúceho - i v dobrom rozmare a   položení. Nuž tento sa zaujíma obzvlášte svedomito o školy a učiteľov   svojej správe zverených. Hneď po povýšení ho na hodnosť dekanátsku   oznámil svojim učiteľom svoje úmysly a predsavzatia, ktoré sa ale   najlepšie dajú poznať z cirkulára, aký hneď pre učiteľov vydal.
+   </tei:p>
+   <tei:p>
+    Takéto sa ohlásenie nemohlo zostať bez dobročinných následkov. Za   základ takéhoto pôsobenia má slúžiť dekanátska knihovňa, ktorá sa pod   správou pána dekana nachádza a aj budúcne nachádzať má, jej   knihovníkom vždy ten pán učiteľ byť má, ktorý s pánom dekanom v   jednom zbore slúži. K napomoženiu tejto knihovne svoju pomoc   priniesli jednotlivcovia i celé sbory. Myjavský a brezovský sbor sa   obzvláštnou náklonnosťou k tomu cieľu preukázal. A okolie toto   novomestské má svojich učiteľov v spolku tomto. Jediný sbor   staroturanský nemá. Ja keď som to počul, prial som si poznať   muža, ktorý takú vec urobiť mohol. A potom som ho aj videl. Vyzeralo   to z neho. Ale beda takej cirkvi, ktorá má učiteľa, čo od spolkov   učených, knihovne a čítania uteká.
+   </tei:p>
+   <tei:p>
+    To je veliké šťastie mať knihy a knihovne. Poneváč ale okolnosti   našich učiteľov sú nie také, aby oni vlastné knihovne mať mohli,   pečujme spolu o to, aby aspoň dekanáty a senioráty také mali. Už je   zvrchovaný čas, aby sme sa z kariet a od pohárikov vyrazili k niečomu   vyššiemu.
+   </tei:p>
+   <tei:p>
+    Od toho času, čo pán terajší dekan svoj úrad nastúpil a jeden   poriadok do učenia školského uviedol, sú už aj skúšky omnoho   rozličnejšie od tých, ktoré sa dávali predtým. Bo nielen že sa učí   lepšie, keď sa dohliada lepšie, ale je aj voľajaká šľachetná   revnivosť či ubehávanie sa medzi učiteľmi, takže každý sa usiluje, čo   len môže najviac pre vzdelanie dietok urobiť. A k tomu dopomáha i   podotknutý jeden poriadok a vymedzený okres určených predmetov.
+   </tei:p>
+   <tei:p>
+    #S#
+   </tei:p>
+   <tei:p>
+    Dňa 18. srpna som teda len k východu sa poberal k Rokošu a k nášmu   pod ním zrodenému Ľudovítovi. Mňa ťahali aj sami rodičia týchto   synov, bo je to veru šťastie ako pre národ, tak pre jeho jednotlivcov   mať a vidieť takého otca, čo vychoval a vychováva takých veľkých   synov, ako sú naši Štúrovia. Otec tento, ktorý vychoval Karola,   Ľudovíta, Samoslava, otec tento, ktorý týmto rovného vychováva ešte   Janka, mal by byť od národa opletený vencami neuvädlej slávy. Ale ten   muž šľachetný ešte trpí so synmi svojimi a je stíhaný zato, že   posvätil bohoľúbemu životu, umeniu, škole, vychovávaniu svojich synov   svoj život, imanie, pokoj. Zato je tento šľachetník na svoje staré   dni predmetom mocnej, ale hlúpej vášne. Preto však nezúfaj, ty   šľachetný šedivec, ale pozdvihuj ducha k nebu, odkiaľ nám svieti   večnej lásky a múdrosti svetlo spasiteľné. Pozri k nebu, kam hľadel   Pavel apoštol, keď tie slová písal: „Se všech stran úzkost   míváme, ale nebýváme cele potlačení; bývame vrtkáni, ale nebývame   docela zvrtkáni. Protivenství trpíme, ale nebývame opustení; bývame   opovrženi, ale nehyneme.“
+   </tei:p>
+   <tei:p>
+    V lone tejto rodinky tichej a bohabojnej, z ktorej pošiel môj   drahý priateľ, ktorého tak ľúbim, ako ctím a s ktorým sa ľud biedny   slovenský tak tešiť, ako pýšiť môže, prežil som skoro celé jedno   odpoludnie sám a sám. Bo Ľudovít prišiel už v samý večer i so Samkom   z Turca a Považia. Už sme ich čakali, už sme pochybovali a každým   buchom sme boli splašení. Iba zahrkotal voz a z voza skákali títo   dvaja duchom i krvou bratia. Bolo tu radosti v srdciach našich, keď   sme sa zas zhliadli. Ale nebudem to opisovať, bo by som tým za   možnosť síl mojich prestúpiť chcel. Dosť na tom, že je to pekné   zjavenie u nás a pri nás, že sa tak nekonečne radi máme a nič nás je   nie v stave roztrhnúť. Keď sa Slováci zídu, ako keď sa vlnky Váhu v   jedno zlejú a celosť svoju jedna v druhej nájde. A keď sa rozídu, zas   je to tak, ako keď tie vlnky v jedno zliate plť alebo prievozník   člnkom rozrazí, takže bárs sa zas rozdvoja, predsa každá nesie v sebe   i tú druhú, alebo tej druhej čiastku a naopak.
+   </tei:p>
+   <tei:p>
+    Ľudko môj, Ľudko môj! Ty si teraz nad Dunajom a ja načúvam šepot   ďalekosiahleho boru. Ale viem, že so mnou mieniš, keď hovorím, že   pekný je ten život náš, bár nás ľudia naháňať chcú. Pekný je, bár   žiaľ nás neraz zachvacuje. Pekný je, bár nás ľudia tuční telom   ľutujú, že nič dobrého nezakusujeme. Boh nás chráň od všetkých   takýchto radostí a daj nám len sily, aby sme sa naháňať nemuseli dať   pôvodnosti a tvoriacej schopnosti, aby sme sa rozžiarili voždy v   skutky nové vlády duchovnej nad telom, aby sme aj ďalej nedali sa v   moci žiadostiam tela a znali nachádzať radosti aj v inom. ako je   kráľovstvo zmyselné.
+   </tei:p>
+   <tei:p>
+    Keď sme sa uvítali, keď sme tak hodne v sebe sa obaja našli a   obaja zas jeden v druhom k svojej vlastnej podstate poprichádzali a   usadili pohnuté duše svoje, hovorili sme si jedno a druhé. O Turci   bola reč, bo z čerstvého Turca prišiel čerstvý Ľudovít. Ja som   nejeden raz za tých časov pekných môjho prvého sa prebudzovania   hnevával sa na Turiec, bo koľko som koľvek znával Turčanov, keď   výjmem dve výnimky, to dobre známe, všetci boli nezdarenci. A nikdy   som nevedel to pojmúť, ako len mohol Kollár tu v tomto Turci sa   zjaviť. Ale teraz ja už vidím, bo mi k tomuto vtedajšiemu tajomstvu   terajší život kľúč podáva.
+   </tei:p>
+   <tei:p>
+    Druhého dňa sme išli do kostola. Bola to práve desiata nedeľa po   sv. Trojici. Dvojctihodný pán M. Svatý, slova božieho kazateľ   uhrovský, držal kázeň a buď mi dovolené na tomto mieste, kde sa mi   príležitosť dobrá zavdala, aj pár slov o rečníctve tohoto výborného   kazateľa evanjelického povedať. Keby sme mali svoje zvláštne noviny   teologické, tam by sme si povedali, čo vieme a mienime. Ale v takom   nedostatku povedzme, čo môžeme. Kázal pán farár z príkladu pádu mesta   Jeruzalema, vystavujúc výnimky trvania a kvetu národov a krajín. Jeho   hlas je prenikavý, rezký, bijúci do duše, zvonovitý a plný. Pána   Svatého hlas je hlasom dokonale rečníckym, ktorý slávou slovenského   kazateľstva slušne a zaslúžene bude a k obdivovaniu ľudí donúti. Čo   sa týče samého vypracovania, zdá sa mi, že sa pán kazateľ miestami   dlho vo všeobecnosti bavil, čo prekážalo veľmi vstupovaniu do živého,   konkrétneho, veci a predmetu vystavenia. Ale predsa väčšia čiastka   kázne rezala do živého a schvacovala nás do prúdov menistých   skutočného života, kde sme tiekli i my riekou výmluvnosti   dvojctihodného Svatého. A my sme išli z kostola vzdelaní a plní citu   nábožného, žiadajúc, aby boh každému sboru dal tak výmluvných   kazateľov a tohoto aby na mnohé roky v zdraví a k rozšíreniu   vzdelanosti a nábožnosti udržoval.
+   </tei:p>
+   <tei:p>
+    Nech by sme len čím skôr teologické noviny mali, aby sme sa mohli   opytovať na spôsoby kázní a na ducha, v ktorom sa budí duch viery a   nábožnosti a v ktorom by sme k životu sa budili a svoje plody ducha   merali a vážili, aby sme nezrastali tak velice s tým nekontrolovaným,   sebe samým sa páčením. Naši profesori a učitelia nemajú orgánu, v   ktorom by sme videli, čo robia a čo znajú a čo učia. A my nemáme   orgánu, v ktorom by sme pestovali svoje vedy a svoje učenie. Všetci   len tak pod kepeňmi súkromnosti verejnej a verejnosti súkromnej   žijeme a pracujeme. Nechže mi tu voľakto nepovie, čo sa bojí s farbou   von vystúpiť, že on verejne učí alebo káže. Bože môj! Verejnosť tvoja   je to povetrie, v ktorom žiješ s tvojimi učedelníkmi a poslucháčmi.   Do tejto verejnosti musíme teda všetci vletieť, aby nás videla zas   celá verejnosť. Pole vedy, na ktorom sa ukážeš pred svetom celý, ako   pôsobíš na svete menšom, to je verejnosť. A táto má súdiť všetkých   nás a my musíme i ju súdiť i seba vospolok pred ňou napravovať, učiť,   viesť, zdokonaľovať. Ale my nič nemáme - nič -a ešte raz hovorím, my   nič nemáme, kde by sme sa mohli ukázať a stvrdiť domnenie o nás, že   sme učení. Preto je už zvrchovaný čas, aby sme sa niečoho chytili, v   čom by sme sa držali. Ukážme predok. Už nás potom azdaj len budú   nasledovať aj tí ostatní, čo s nami spolu jedno telo nevidených   učených robia. Teraz už len to pôjde do života, čo sa ospravedlní v   ohnivej peci myšlienky presvedčenia, mienenia duchovného.
+   </tei:p>
+   <tei:p>
+    Popoludní po nešpore sme išli z kostola murovaného do kostola   samorastlého - do prírody krásneho uhrovského okolia. Je to čarodejná   krajina. Rokoš, ktorý nám už v básňach Ľudovítových aj na vyššom   duchovnom poli žije, je so svojou rodinou hôr uhrovských pán. A tak   si vývodí a tak si panuje, akoby ozaj aj vedel, že je pánom najväčším   týchto hôr a vrchov vekovitých. Hory a vŕšky sa tu premávajú a   prejímajú, akoby jeden na druhý sa vynášajú a jeden druhého   zahanbujú. A tie lúky pod nimi zdajú sa smútiť nad tým, že oni len v   tôni ich sa musia spokojovať a že dietky ich, kvietky skromnučké,   nevládzu sa tak hrdo vypnúť k oblakom ako jedle, duby a buky horami   rozsiate. Celé toto okolie je smutné, ale smútkom svojím hlbokým,   vysoko ducha vynášajúcim vráža sa akousi mäkkou radosťou do duše   pozorovateľa čulého. Ja som sa aspoň bavil tu rajskými rozkošami.   Nikdy som nezvykol prírody zjaviská pozorovať chladnou dušou. Ale keď   sa mi kde v prírody výjavoch zbiehali aj myšlienky a napádali   porovnania, tu som vždy vo vytržení ducha svojho tratil sa v tichom,   vnútrajšom horekovaní a plesaní, alebo keby jedným slovom tento stav   môj naznačiť chcel, teda by riekol, že som sa tratil vo svojom   spasení. A v pohľade na túto čarokrásnu prírodu uhrovskú, kde sa môj   Ľudovít svetu zjavil, svetlo uzrel, rástol a svoje hry detinské   prevádzal, v tomto pohľade, čo sa na moju myseľ nieslo myšlienok, to   mi je nemožné vypísať. Bo mi žil každý strom a všetko ukazovalo   Ľudovíta. Videl som ja tu všade Ľudovíta, jeho dušu s ideálom týchto   materiálností v jedno zliatu. Tá bolesť nekonečná, čo sa ustavične   varí a prekypuje v prudkej duši drahého Ľudovíta a ten skok ducha   jeho, ktorým sa vyroňuje z tejto bolesti v slovo a v skutok, takže   bolesť, slovo a skutok jeho večnú trichotómiu pôsobí, jeho podstatu   ukazuje a tvorí, túto povahu ráznu Ľudovítovu čítal som už v tejto   prenikavo uchvacujúcej prírode uhrovskej. Z hlbín, dolín smutných,   ktorými plačú potoky a rozostierajú sa lúky i záhonky tichučké,   zdvíhajú sa vŕšky a skaly, čo sa ohlasujú každému žblnknutiu vlnky a   každému šepotu vetríka a každému udereniu slávika, a zrazu sa tieto   melanchólie prírody vyrazia v skaly a vrchovce Rokoša kráľovského a   prechádzajú v hory, kde sa dubov a bukov sila so silou hromu meria a   korene hôr a vrchov nebo ráňajúcich s víchrom pasujú. A to ti všetko   tak razom rastie, ako ti razom rastie bolesť, slovo a skutok, sila a   energia Ľudovíta. A ja, keď som tuto takto všetko videl, bol som   bez seba. A keď som pohliadol na Ľudovíta, vedľa mňa stojaceho a oko   do neba upreté majúceho, bol som zas pri sebe, bo som sa tešil, že   môžem takého mať za priateľa.
+   </tei:p>
+   <tei:p>
+    Boli to hody ducha môjho. Ktovie, či sa mi kedy obnovia. Boli to   hody v desiatu nedeľu po sv. Trojici 20. srpňa 1843 popoludní   slávené. Nasledujúceho dňa sme išli niektorí svoji ďalej. Ja som sa   poberal i s pánom Orgovánom, kandidátom cestujúcim po Slovensku, k   skalám Súľovským. Ľudovít i so Samkom nás vyprevádzali. Tento po   Kšinnú, tamten až hor na vysoký Vtáčnik.
+   </tei:p>
+   <tei:p>
+    Dolinami uhrovskými sme išli hore a vždy hore a len vždy hore   vrchmi ako strecha strmými, až sme sa vydriapali na spomenutý   Vtáčnik. Odtiaľ obracali sme zraky svoje po tejto hornatej vysokej   krajine. Vrch na vrch a hora na horu sa tu kopcujú, hromadia, až   vlasy dupkom stávajú. Ale duch sa zas vzmôže a počína sa zmocňovať   tejto moci a sily nemocnej. A tu už rozumuje, aká to mŕtva životnosť,   aké to bez ceny poklady, aké bez výplaty kontá!! Dreva leží tu stá a   tisíce siah po jarkoch - a hnije. Prečo sa nevie duch grófa radšej na   toto obrátiť a vymyslieť niečo k emancipácii tohoto bez ceny tu   ležiaceho pokladu? Nemohlo by sa tu voľačo takého dať vybudovať   a vystaviť, čo by trávilo drevo a tvorilo iné veci ohňom, za ktoré by   stá a tisíce išli? Ale pán gróf má iné starosti. No, nechže je ten   poklad mŕtvy, pokým duch nepríde, čo by ho obživil a previedol   kanálom rovným do vrecka, z ktorého by mohli biedni poddaní za svoje   mozole aspoň k obľaveniu svojho kríža dostávať.
+   </tei:p>
+   <tei:p>
+    Zem táto samá vrchovatá má svoje určenie horou a hora má určenie   drevo niesť. Prečo je tu ľud biedny? Preto, že nepozná určenie svojho   kraja. Seje a trápi sa a z toho všetkého nemá nič, bo kraj tento nie   je na roľníctvo ale horníctvo. Prečože sa horníctva nechytá?
+   </tei:p>
+   <tei:p>
+    , no keď je to všetko panské! Čo si ľud pomôže? A páni   mnohí len po mestách sa radi vozia a zabávajú. Nech panstvá bár čert   driape! tak hovoril jeden, čo s nami šiel, aby nás tiež z   priateľstva odprevadil.  je to to zlé, odpovedal som ja.    potom naozaj nie čert, lež žid berie najkrásnejšie panstvá,   keď sa o ne žiadna svedomitá a ekonomická starosť nevedie. Preboha,   akože sa hen z hentoho skoro nedohľadného vrchovca dostane ten ovos,   či čo je to tam?
+   </tei:p>
+   <tei:p>
+    #S#
+   </tei:p>
+   <tei:p>
+    , dosť biedne! A to sa tam tiež len niekedy urodí, bo keď   sa po dva roky zaseje, musí sa to nechať ale za štyri - päť rokov zas   na úhor, keď sa to tam popraviť nemôže, ani poorať sa to skoro   nedá.
+   </tei:p>
+   <tei:p>
+    , pán boh vás osvieť, aby ste lepšie poznávali jeho múdru   radu! odpovedal som a nechal som radšej ducha svojho slobodne si   lietať po týchto vysokostiach. Veru som sa radšej na strmý Fačkov   díval, ktorý odtiaľto dobre vidno, ako by bol mal vravieť o tejto   nízkosti ľudskej.
+   </tei:p>
+   <tei:p>
+    Na Vtáčniku sme si s Ľudovítom poležali trochu a potom sme sa   rozžehnali. On sa vrátil s jedným a my s pánom Orgovánom brali sme sa   ďalej s druhým sprevádzačom. Hory a vrchy nesmierne neradili nám len   tak na svoju hlavu a šťastie sa spustiť. Preto sme si už do   Zliechovských hutí najali jedného sedliaka z Kšinnej a ten nám aj   cestu nepríjemnú spríjemňoval.
+   </tei:p>
+   <tei:p>
+    Z Vtáčnika sme sa spúšťali pomaly do Valaskej Belej. Valaská Belá   je hniezdo skleničiarov a sklenárov, križujúcich po vlasti. Je to   dedina, ktorá s kopanicami svojimi, tuto lazy menovanými, vyše 12.000   obyvateľov počituje. Chotár je tu biedny, samý vrch a samé strminy.   Domy sú drevené, sám ľud ošúchaný a zanedbaný, čo obzvlášte o ženách   platí. Výnimka toto medzi našimi Slovákmi. Robí to tento kraj, v   ktorom nerozkoší a nevybujnieva v okrasách a v šperkoch   ľúbopríjemných ani sama príroda. Zhovorčivosť, veselosť, chtivosť a   ochotnosť, Slovákovi vlastná, aj u týchto Beľanov je cnosť domáca.   Keď sa dvaja bárako neznámi zídu, myslel bys, že sú aspoň   kmotrovia, keď nie švagrovia. Mohol bys ich aj na druhú dolinu   očuť.
+   </tei:p>
+   <tei:p>
+    Cesta táto nám bola veľmi dlhotrvanlivá, bár sme sa zhovárali o   všeličom, bo sme aj hladom počínali byť morení. K Zliechovským   skleným hutám sme peknými dolinami prišli. Z tejto doliny hlas jeden   mi však dosiaľ z uší nevyznel, ba azda ani nikdy nevyzneje. Boli to   tóny, boli to zvuky večné z hrdla jednej Slovenky tečúce. Nevina,   rozmar, reč prírody - to boli jej zvuky. Hneď sa niesli k nebesám na   krídlach žaloby, hneď leteli dolu rozkošou lúk a hájov priťahované a   zas sa rozliehali v citlivom nadšení po brehoch šumiaceho potoka.   Hneď vyrážali tieto spevom stvorené hlasy pŕs, v ktorých by bol   poznal silu a vytrvalosť, veľkosť ducha a večnú lásku, hneď sa prúdil   z nich tiahly zvuk zvona dolinou znejúceho, v ktorom spojená bola   všetka nábožnosť, tichosť k modlitbe zovúca, pokoj svedomia a veliká   akási spokojnosť, harmónia duše so svetom. A keď sa roznábožnil hlas   dolinou, zas sa vyniesol z hrdla trasavého do svetlavých vysokostí,   kde si zas pohrával, točil sa, hopkoval, a ukrytá kdesi v húšti   Slovenka bezpochyby na milého myslela. Bo samá nádej, samá rozkoš,   samé blahoslavenstvo tieklo a znelo z tohoto spevu anjelského.
+   </tei:p>
+   <tei:p>
+    A my zastali na kvetnatej lúke a ja čakal, čo z tohoto húštia ešte   za tajnosti k bohu vyletia. Ale dievka utíchla. Tuším videla, že to   prerazí dušu moju, bo teraz mi začalo ľúto byť za strateným rajom, do   ktorého ma oku nevidená Slovenka bola voviedla. Ale o chvíľu - ach,   tu zas počala prerážať nebesá speváčka naša. Ale to vydržať bolo   ťažko. Ako by sa malo srdce jej rozpuknúť, tak, že by už viac ani pŕs   nepotrebovala, tak bolestne a tak silne čistý a strieborný hlas   vyrazila. V tom bola skrytá mizantropičnosť, v tom skrytý žiaľ nad   zemou, že je nebom nie, v tom bola skrytá akási letálnosť,   zabraňujúca spoluútrpnosť mať so svetom. Zdalo sa mi, že kára táto   víla ukrytá sveta národy z nedbalosti, že neznali ešte dosiaľ nájsť   cestu pravdy a bezpečnosti. A všetky tieto zvuky nemohli nájsť slov   sebe primeraných. Preto ,bola to pieseň bez textu, bolo to meranie   vysokosti a hlbokosti žiaľov ľudských jediným nástrojom hlasu. A   koniec týchto prechádzok bol tvrdý akýsi hlas, ktorým sa slobodne   vyrážalo povedomie víťazstva večného.
+   </tei:p>
+   <tei:p>
+    Potom sme už viac hlasu toho nečúvali. Ale sa počali ohlasovať   spevy po vŕškoch a dolinkách, ktoré predtým ani nečúchli. Bože môj,   ale čože to bolo proti týmto kráľovským nebeským zvukom! Niet divu,   že všetko mlčalo, keď ten hlas plnil doliny okolité. Hlas tento bol   úplne sám v sebe to, čo sú piesne slovanské. A mne tu prišlo na   pamäť, čo spieva básnik o nich:
+   </tei:p>
+   <tei:p>
+    Piesne slovanské, ako jarné noci svietite v dušu tichosťou   májovou, ducha nesiete ako vyššie moci v kraje povestí, ríše   minulosti, držíte srdce na stužkách milosti. Ej, šťastný básnik, čo   vás všetky razom v horúcich prsiach vyvarí, vykŕmi, čo dušu vaším   vystrojí obrazom – ten veľkou piesňou darmo nezahrmí.
+   </tei:p>
+   <tei:p>
+    Pán spolucestovateľ môj! Toto som všetko v duši svojej cítil, keď   som taký zadumaný pri vašom boku stál po tom speve Slovenky   nevidenej. Potom, keď sa rozvlnená duša moja trošku usadlila a   ustálila, rozjímali sme o tých chválami aj zlatom oslávených   speváčkach veľkomestských. Prečo mňa len žiadna z nich nikdy tak   nepohla a neuchvátila ako táto oku skrytá Slovenka? A tuto mi prišla   na myseľ Kollárovej Slávy dcéry 223. znelka, kde jemu to jest   príčinou že ho Catalani spevom nepohla, že:
+   </tei:p>
+   <tei:p>
+    Mína z duše, tato z měšce zpívá.
+   </tei:p>
+   <tei:p>
+    Vo Fačkove samom som sa rozhorekoval, ako hádam nikdá ešte. V   krčme, kde sme sa zastavili, chcejúc aj niečo zjesť, ale obzvlášte   príležitosť nájsť, bo nám nohy službu vypovedali, tam hotovú peleš   bezbožnosti sme našli. Detí zo štvoro po chyži sa potácalo, majúcich   v rukách skleničky páleným naplnené. Alebo chodili ku korheľom okolo   stola lalotajúcim a tí im vypitú otravu zas nalievali do nich. Oči   sedeli deťom navrchu a blyšťali sa, akoby zo skla boli, starcom boli   v jamkách zatlačené a viac dieram ako zrkadlám duše sa podobali. Deti   boli rozpálené, starí boli vychudnutí a vyblednutí, akoby z   podzemských dier boli vyliezli. Deti sa motali od stola k stolu   prostriedkom chyže, starí sa kývali pri stole a nosom hneď do seba,   hneď do steny, hneď do stola bádali.
+   </tei:p>
+   <tei:p>
+    Ja som sa nemohol zdržať, aby týchto stratených a zatratených ľudí   aspoň neoslovil, aby za sebou aspoň tieto dietky do pekla neťahali.   Ale som dostal odpoveď otcovskú:
+   </tei:p>
+   <tei:p>
+    , mladý pán, keď neviem, kto sú, aby im titul dal. Ľahko je   to hovoriť pánom, keď majú všetkého dosť. Ale chúďatka naše deti sa   musia hneď trápiť a nič nezakúsia. Nech im to nezávidia, však   iného neužije, to je jeho všetko, čo užije. A keď sa nemá stať   korheľom, nuž sa nestane. Však aj ja som píjal.
+   </tei:p>
+   <tei:p>
+    #S#
+   </tei:p>
+   <tei:p>
+    korheľom ste sa stali, pravda?! odslovil som ja a   vidiac ľudí na tomto stupni stáť, zas som aj toto ospravedlňoval a   inde príčinu tohoto nešťastia hľadal a nie v ľude samom. Keby mal čas   a miesto tuto, teda by preukázal ten spôsob, ako náš sedliak k   pálenému sa lapá, naháňa a priťahuje. Ale mlčme radšej teraz, keď   ešte pomôcť si nemôžeme.
+   </tei:p>
+   <tei:p>
+    Páni, kňazi, učitelia, vrchnosti! Hádajte, kto Je z vás viac   príčinou tejto zatratenia hodnej neprávosti?! Zakryl som svoje oči,   sadnul i s mojím spolucestovateľom do voza a utekali sme z tejto   čertovej krčmy. Adieu, Fačkov!
+   </tei:p>
+   <tei:p>
+    V Rajci som nič tak neľutoval, ako že som neznal aspoň jedno meno   tých krásnych duší, čo sa tu nachádzajú a dobre myslia s týmto ĺudom   naším slovenským. Vedel som zo zprávy v Kvetoch českých podanej, že   sa tu aj divadlo hralo, ale tam na nešťastie nebolo žiadneho mena   okrem študentov, ktorí divadlo hrali. Oboznamujme sa vospolok s   menami našincov! Z tohoto poznania našich mien vytečie akýsi nový   svet, v ktorom hýbajúc sa budeme to povedomie mať, že sa všetci títo   na nás dívajú. A to nám ani zblúdiť, ani usnúť nedá.
+   </tei:p>
+   <tei:p>
+    Rajec v peknej doline leží a je obkrútený utešenými vrchami a   horami. Cesta k nemu vedie dobrá. Horniaci tu bývajú, tí známi   Horniaci po celej vlasti. Ľud zdravý, čerstvý, pilný, ktorý to, čo mu   príroda ujala, doháňa svojou usilovnosťou. V Rajci však zvlášte je   mnoho remeselníkov, obzvlášte bývajú tu tí povestní koželuhovia,   ktorých výrobky veľmi sú dobré a povestné. Samo mesto je jedno z   najkrásnejších mestečiek Trenčianskej a iných stolíc. Má štvoruholný   veľmi priestranný rínok, ulice po bokoch dobre mu pristanú. Ale v   poslednom čase od ohňa veľmi mnoho trpelo.
+   </tei:p>
+   <tei:p>
+    Od Rajca asi štyri hodinky leží Jasenová, dedinka pod vrchom. Tu   sme si najali jedného chlapa, ktorý nás cez bludné vrchy, jarky a   hory previedol až k Súľovu.
+   </tei:p>
+   <tei:p>
+    Súľovské skaly vyvábili nás väčšiu už spoločnosť do svojho   kúzelného lona. Cesta priestranná, široká, štrkotavá vedie zo Súľova   k tomuto Žulovu, k týmto hradbám večným, k tejto Palmýre rozváľanej,   k tomuto Babylonu, k týmto labyrintom na vrchu sa pnúcim.
+   </tei:p>
+   <tei:p>
+    Prvé, čo človeka, prichádzajúceho zo Súľova, ohromí a k ľaku a   úžasu skloní, je ohromná, prírodou vystavená brána. Z oboch strán od   polnoci a od poludnia ležia hory skalnaté, medzi ktoré ide užasnutý   cestovateľ. Všetko hradí naňho okom všemohúcnosti, všetko sa smeje   jeho maličkosti, všetko mu visí nad hlavou, akoby mu hrozilo   rozmliaždením, jestli by sa opovážil neuznávať túto neslýchanú a   nevídanú silu, moc, slávu, hrôzu a velebnosť. Táto úžina skalnatá sú   opravdivé Termopyly slovenské. Keď ideš od Jablonového, až sa   ľakáš, že sa budeš musieť cez skaly driapať a nevidíš pred sebou   cesty. A len keď na koniec prídeš, vidíš, že sa cesta zas inakde   zakrútila. Celé toto kráľovstvo skál týchto nesmiernych je ako   zakliaty jeden vek so svojimi ľuďmi. Žiaden život nie je tu patrný.   Miesty len dáky kríčok a po skalách sem a tam mach - je celá   vegetácia týchto balvanov ohromných. Hneď sa vežia hore obelisky,   hneď vypínajú veže skalnaté, hneď sú naváľané hory a vrchy skál, hneď   sa spúšťajú z nesmiernej vysokosti rovné steny. Medzitým zas vidno   tam postavy a sochy, tu zas potvory a akési hieroglyfy a múmie.   Umĺknuť musí tu duch, bo čuje v týchto nemotách akýsi hlas tajomný,   ktorý mu hovoriť zbraňuje. Tu len obrazotvornosť svoje nite pradie a   v pásma ukladá. Tejto žije celý tento svet zakliaty, ona sa neľaká   vstúpiť do tajností jeho, ale vyčituje, čo kde môže, a podobá sa   dieťaťu, ktoré všetko všade ohliada a so všetkým spoločnosť mať chce.   Aj ja som musel podľahnúť svojej obrazotvornosti. Oprel som sa o   skalu a písal som si, čo som videl a čomu som sa rozumieť zdal.
+   </tei:p>
+   <tei:p>
+    Celá táto ríša, považovaná od západnej strany, tiahne sa od   polnoci k poludniu a robí reťaz, a tak jeden celok divov skalnatej   prírody. Spočiatku sú len malé skaly s vrchom bezprostredne spojené,   z neho len tak vykukujúce. Ale potom sa pomaly zdvíhajú a vypínajú,   až dosahujú nesmiernej vysokosti rohmi a špicami svojimi. Na hmote   nesmiernej skalnatej zakladajú sa potom tie tisíce koncov, vrchovcov,   rohov a hrebeňov skalových. Všetko toto sa mi tak podobalo, ako keby   jedno jazero roztopeného olova bol dakto z neba do mora nalial, bo   takéto by sa asi boli museli z ochladnutého razom olova nastrieľať   figúry. Hneď sa zdá ostrie rohu skalnatého siahať k nebesám a   hneď sa vedľa neho otvára priepasť, z ktorej však zas niečo   trčí.
+   </tei:p>
+   <tei:p>
+    V prostriedku oddelenia polnočného skál týchto zdvíhajú sa dve   nesmierne vysoké veže vedľa seba stojace a zďaleka sa ponášajú na   podobu ženskú. Ale viac určitosti som nezazrel na nich. Vyše týchto   dvoch žien skalnatých vypína sa okrúhle skalisko a na jeho vrchovci   javia sa tri podivné, dosť patrne poznateľné a rozoznateľné figúry.   Prvá figúra, k oddeleniu polnočnému obrátená, predstavuje   rozdráždeného psa, ktorého chrbát pokrčený sa veľmi prirodzene   ukazuje. Pred ním rozostavené množstvo rozmanité tvorených skalín zdá   sa množstvá rozhádzaných a rozmetaných ľudí predstavovať. Za   rozježeným tým psom vidno i holým okom, ale omnoho lepšie   ďalekohľadom opatreným, konskú hlavu i s hrivou sa rochtať za psom.   Tie rozpostavené pred týmito potvorami stĺpy predstavujú hravej   fantázii pohnutie proti psovi namierené. Pes sa zdá očúvať, ale   konská hlava silne za ním nepohnute rehce; a za ňou je neurčitá   hmota, ale dosť dobre bašte podobná, za ktorou bezprostredne priepasť   hlboká sa otvára.
+   </tei:p>
+   <tei:p>
+    #S#
+   </tei:p>
+   <tei:p>
+    Prvé oddelenie skál od polnoci má na konci svojom za medzu okrúhlu   skalu, pri ktorej je socha majestátna, predstavujúca veľmi pravdivo   kňaza, obráteného tvárou, ako sa zdá, k poslucháčom od poludnia ho   počúvajúcim, ale priepasťou od neho oddeleným. Z priepasti tej   zdvihuje sa vysoká skala pri vrchovci svojom rozštiepená. Poniže   tejto je nižšia skalka, dokonale spôsob a formu kancĺa majúca. Nie   menej zdarne sa vyníma z nej podoba modliaceho sa kňaza. Obrátený je   tiež k poludňajšej strane, kde chrbát skaly a vrchu pokrytý a posiaty   je samými potvorne vypadajúcimi podobami, akoby severné tieto ríše   zakliate modlitbou ochrániť chcel pred potvorami protivnými.
+   </tei:p>
+   <tei:p>
+    Neďaleko tej brány ohromnej. Termopylami slovenskými nazvanej,   vypínajú sa tri podoby na strmej skaline. Tá od polnočnej strany je   hieroglyf nečitateľný, postava bez určitosti, všeobecnosť akási   ideálna. Ale za ňou stojí zreteľná postava vymedzených ťahov a zhybov   a na prvý pohľad vidí sa hneď ako žena vážna, žiaľom a bolesťou   zmorená. Pripodobnila sa mi v prvom pohliadnutí matke od detí   opustenej, od cudzích potupenej, od nepriateľov mučenej. Táto postava   v pohľade týchto všetkých zjavov fantastických je niečo prenikavého,   živého, hýbajúceho sa. Niže tejto zreteľne sa vidí zase kňaz   zostaralý. Mach na pleciach jeho rastúci dodáva tým viac akcentu   starobe. Tento sa zdá potešovať chcieť matku roztrúchlenú, ale sám je   vyžialený a vyplakaný nad životom uprchlým bez najmenšieho pomoženia   týmto zakliatym svetom. Za týmto sú zas zrázy a priepasti, až sa k   Termopylám tieto pyramídy spustia.
+   </tei:p>
+   <tei:p>
+    Pripomenutá už ohromná skala od poludňajšej strany posiata je   množstvom nevyvedených a neukončených podôb. Ale tým viac do očí bije   jedna podoba v prostred týchto potvorných podôb nad všetky   pravidelnosťou vynikajúca. Je to tu zas modliaci sa kňaz, ale tak   očividne sformovaný, že všetko k jednému pomáha predstaveniu. Sedí v   habite na skale, cez pás je prepásaný, hlavu má sklonenú. A to všetko   tak vykrúžlené a vyhladené, že pravou rozkošou naplňuje dušu   pozorovateľa. Ja som sa dlho nemohol od neho odtrhnúť, bo čím som   viac celú túto zostavenosť považoval, tým živšie som v tomto všetkom   videl symbol nášho nešťastia. V prostriedku potvor skalnatých sedí   kňaz skalnatý v modlitbách. To mi nikdy z pamäti nevyjde. Tento obraz   musí zaujať každého, kto s bolesťou srdca svojho sem príde. Ešte keď   som odchádzal, dlho som sa obzeral na túto symboliku. S premenením   miesta všetky tie múmie a potvorné podoby svoje postavy menili. Sám   jediný ten kňaz nikdy podobu nemenil. vždy len ako modlitebník so   sklonenou hlavou sa vyjavoval.
+   </tei:p>
+   <tei:p>
+    Kde ste maliari naši? Poďte sem a budú vás obdivovať ľudia, keď   len aspoň tôňu tejto všemohúcnosti a slávy vystavíte. Tu sa rozpálite   ohňom, bo z týchto tajomných ríš blýskať vám bude žiara večných   farbitostí, blesk živého odrážania sa sily a moci božskej od týchto   silných obrazov večnosti.
+   </tei:p>
+   <tei:p>
+    Z Roháča, vrchu východno-polnočne od Súľova ležiaceho, sme videli   skaly tieto zas v novej podobe. Ale tu už dvojaká krajina plnila moje   srdce i myseľ moju. Tam od polnoci sa pod nohami mojimi a pred očami   mojimi rozprestrela krajina rozkoše, krásy, spanilosti, výhľad to na   žilinské kraje, na tie divoké Horniaky, čo sa v samej topia   čerstvosti, vznešenosti, rozmanitosti dolín, rovín, vŕškov, hôr a   vrchovcov nebotyčných! Tam k poludňozápadu videl som, ako sa celá   krajina skál dvíha na krídlach k nebesám!
+   </tei:p>
+   <tei:p>
+    Toto bol pohľad odo mňa nikdy neskúsený, rozkoš pôsobiaci   neopísateľnú. Niekoľko sto tisícov bocianov tiahlo nad Súľovom do   iných príbytkov a nechcelo obletieť večné tieto pyramídy a labyrinty.   Každý skoro vrchovec a vrchovček skál Súľovských bol obsadený takýmto   krídlatým husárom. Nič ináč sa to nezdalo, len akoby Súľovské skaly k   letu sa chystali. Už viali ťažkými svojimi krídlami, už aj niektoré   nadletovali -už som len čakal, či neschytia tieto hromozvody oblačné   za sebou do nebies. A keď sa už schytili milé bociany, to bol   pohľad najvelebnejší. Ešte sa zakrútil celý kŕdeľ nad touto skalnatou   krajinou a letel preč, až ma samého akási nikdaj predtým nepocítená   tklivosť a bolesť uchytila.
+   </tei:p>
+   <tei:p>
+    Ale predsa je to žalostná skúsenosť, že Nemci viac vedia o týchto   divoch prírody našej tatranskej, než my sami, že žiadny z našich   učených a básnikov zreteľ svoj na tieto divé krásy a krásne divy   neobrátil! Už my len vždy pozde prichádzame k svojmu dielu. Ale že sa   už zoberme raz, aby to aj ďalej tak nebolo! Ja som urobil, čo som   podľa svojich síl mohol. Druhý nech urobí viac. Všetko spolu zobrané   urobí hojný príspevok k tomu Gnóthí seauton! národa slovenského.
+   </tei:p>
+   <tei:p>
+    Dňa 23. srpňa popoludní som urobil výskok do Lietavy, k tomu   šľachetnému a velebnému géniovi týchto krajov, pánu Antonovi   Horeckému, preslulému farárovi lietavskému. A to bola moja rozkoš, to   bolo moje blahoslavenstvo poznať osobne dávno už známeho podľa ducha.   Vážna postava, vážna reč, bár oboje plné sily a výrazu, sú prvé do   očí bijúce pekné tak ako zriedkavé vlastnosti velebného tohoto   Slováka: svedomitá starosť o ľud jemu zverený a úprimná starosť a   dychtenie po oslávení života nášho. To sú anjelovia, ktorí ho životom   týmto sprevádzajú.
+   </tei:p>
+   <tei:p>
+    U pána farára a s pánom farárom viedli sme potom rozprávku o   našich dôležitostiach a našich veciach slovenských. Tento pán je aj   znateľ aj vrúci milovník dosavádnej aj u nás z väčšieho dielu   spisovnej reči českej. Hovorili sme dlho o krásach aj tej jej   vybrúsenosti. A pánu farárovi zavše bolo čosi na jazyku, čo ale riecť   nechcel, vari aby mňa ako hosťa neurazil. Ale ja som vedel, čo je.   Preto som prešiel z češtiny na slovenčinu. „Ale akokoľvek,“ hovorím,   „je vybrúsená čeština, predsa ona nezasahuje do nášho života   slovenského. Lebo vybrúsenosť a vzdelanosť reči nenesie ešte tým   samým národom vzdelanie. Musí tou rečou sám ľud byť preniknutý. On si   ju musí vybrúsiť a vzdelať, keď chce, aby ho ona zas prenikala.   Slováci sa museli dlho učiť sem a tam po kútoch súkromne, keď chceli   sa účastnými stať tých spisov, ktoré sme im v češtine vydávali. A   celá literatúra naša bola len po kútoch rozlezená. Nepísali sme pre   Slovákov, ale pre Čechov. A preto nikdaj nebolo dokonalého   uzrozamenia medzi spisovateľmi a národom. Spisovatelia boli na   prííkladoch českých zvedení a vzdelaní a ich publikum záležalo z   čitateľov tiež tak vzniklých. Všetky tie poklady zvuku, značenia,   rozmanitosti, hojnosti výrazov, novosti porekadiel, slovom všetky tie   poklady svojstva nášho - nášho nárečia slovenského - ležalo   zahrabané, bo sme to mali za barbarizmy, za hrubosť, za nevybrúsenosť   a chceli sme priúčať ľud náš na vybrúsenosti české. A teraz vidíme,   že to nešlo, ba že to bolo nespravodlivé ľudu nášho omŕzanie, ktorý   už potom o nič sa nestaral, keď videl, že tí, čo sa milovníkmi jeho   byť chvália, sami to, čím sa on každého dňa zaoberá, reč jeho za   sprostú majú. Naše zemianstvo videlo svoju reč potupenú, kňazstvo   katolícke, užívajúc slovenčinu nepretržene, cudzie bolo všetkým   spisom novšieho ducha, bo tieto boli české. Evanjelické kňazstvo pre   tie hrôzy pravidiel českej gramatiky nepísalo, bo sa bálo výsmechu a   potupy. A kto písal, to bol už len pravý učený a celou dušou na   naučení sa češtiny pracujúci. Medzi Slovákmi samými nebolo teda   punktu sprostredkujúceho. Bernolák a Hollý ujali sa síce vlastného   živlu slovenského, jedine Slovákov osvietiť mohúceho, ale čože to   bolo proti toľkým prekážkam? Za jedno nárečie toto nebolo to čisté   tatranské, za druhé spisy nesiahali obsahom svojím tak ďaleko do   života ľudu nášho, za tretie neujali sa toho mladí, a konečne českých   Slovákov silnejšie kroky udusovali toto rozvíjanie. My sme   lamentovali nad Bernolákom, že roztrhal Slovákov a mali sme len nad   sebou lamentovať, že sme potupovali Slovákov. Bližšia košeľa ako   kabát. A tak aj nám má byť bližší Slovák ako Čech. Český spisovateľ   sa stará o českého Slovana a nedbá mnoho na slovenského. Slovenský   spisovateľ nech dbá hlavne o slovenského Slovana, aby sa mu ten   nezdivočil a nespôsobným k Slovanstvu nestal. Čo sa však toho fantómu   týka, chcieť jedno nárečie uviesť do Moravy, Sliezska, Slovenska,   nárečie české, to sa nikdy nestane, ho je nemožnosť.“
+   </tei:p>
+   <tei:p>
+    Svojstvá kmeňové sú korene svojstiev národných. Že sa národné reči   nedajú vziať národom, je len to samé ducha so svojou rečou zrastenie,   aké v nižšom stupni vidíme, kde si kmeň živý, čerstvý, spôsobný inému   kmeňu nárečie vziať nedá.
+   </tei:p>
+   <tei:p>
+    Či aj my chceme takto gazdovať medzi naším ľudom? Svornosť a   vzájomnosť, na akú bezpochyby budú mnohí sa odvolávať pri tomto našom   predsavzatí, nezáleží v odhodení svojstva a prijatí iného, bár ako   slovanského kmeňovstva, ale svornosť a vzájomnosť je duchovné seba   vospolok uznávanie, svojstiev svojich kmeňových k povedomiu národného   povyšovanie a z kmeňov kmeňovských kmeňov slovanských stvorovanie.   Nie je to nešťastie, že máme moc nárečí, ale šťastie, bo čím viac je   čiastok k jednému celku tuho priliehajúcich, tým je celok mocnejší.   „Tento blud náš teda,“ pokračoval som ďalej, „chceme napraviť a   slovensky písať a obzvlášte noviny na žiadosť zjavenú celého   Slovenska v našom nárečí vydávať !“ „A iné spisy čo?“ „To je pravda,“   odpovedal som, „že k osvieteniu ľudu nášho všetky haluze umenia   patria. Ale neviem, či o to spočiatku pôjde.“ „My sme sa všetci   zradovali,“ odpovedal vážny pán farár, „keď sme očuli, že pán Štúr   hotový je naše prosby a žiadosti vyplniť. Lebo, darmo je, my nikam   neprídeme s českou rečou. Ľud náš je zanedbaný, my všetci potrebujeme   niečoho svojho, na čo by sme ukázať mohli, že je to naše. Ale Nitra   vaša by mala veru slovenskou byť. Keď máme už raz svoje chcieť, teda   to chcime celkom! Všetko naše okolie by čítalo, keby malo čo. Česky   sa im učiť nechce, ale zato neprestávajú byť Slovania, že svoje   chcú.“
+   </tei:p>
+   <tei:p>
+    „A bez tohoto sa ešte žiaden nepozdvihol národ myslel som si a   niečo aj hovoril. „Musí každý najprv sám seba chcieť, sám seba   vidieť, keď chce, aby iným bol patrný. Len svojím perím býva   rozoznaný od druhých. Na nás sa toho už krem toho moc biedy a hanby   uvalilo za tú nevšímavosť bezbožnú, že sme vždy k iným, keď nie k   cudzincom, teda istotne aspoň k iným kmeňom radšej zabiehali ako k   svojmu. Slovenské všetko nám bolo hrubé, neokresané, sprosté a išli   sme radšej k hotovej kope sena pásť, než aby sme boli svoje   zhrabávali, sušili, ukladali. Čo odtiaľ nasledovalo? Potupa u   cudzincov, i u samých kmeňov slovanských. Istý český spisovateľ mne   samému, keď som bol v Prahe, do očí riekol:
+   </tei:p>
+   <tei:p>
+    „My Češi bez vás Slovákú být múžeme, vy bez nás nikoli!“““
+   </tei:p>
+   <tei:p>
+    Ja som toto vtedy považoval len ako výhodok márnomyseľnosti   jedného človeka. A bár ma to hrozne bolelo, predsa som si z toho moc   nerobil. Ale konečne som sa presvedčil, že sme my sami takejto   spupnosti príčinou. Bo som videl, že sa ozaj s nami aj ako s takými   zachádza. Hej, ale viem, že keby tie veliké sily slovenské, čo tak   rozhojnili českú literatúru, v svojom nárečí to boli urobili, hej,   viem, viem, že by sa nik nebol opovážil tak blatom hádzať na   Slovákov. Ale nemajme to za zlé týmto, ba radšej ďakujme im za   upozornenie nás na naše povinnosti, bo to už naozaj špatné bolo, že   sme my Slováci ničoho nemali..
+   </tei:p>
+   <tei:p>
+    A muselo to prísť časom, keď mal slovenský ľud tiež k dačomu   vyššiemu sa stať spôsobným. My sme dosiaľ sebe nepomohli a boli sme v   českej literatúre len taký dôvažok a taký akcident literátov českých.   Ale naša literatúra - tá z väčšieho tiekla do Češka a tam sa len   krútila a točila ako nepovolaná panna na tanci, ktorú len ten berie,   ktorý chce zvedieť, ako tancuje. Tak sme sa tratili v češtine, a nie   aby sme sa boli nachádzali. Zjavujme sa ale slovenstvom svojím a   istotne sa nájdeme v Slovanstve. V tomto chráme nájdeme brata Čecha   aj brata Moravana, aj brata Chorváta atď. A keď každý cestou svojho   svojstva do tohoto kostola pôjde, teda zachová seba, bo sa v tejto   opravdivej vzájomnosti aj sám nájde, aj bratov svojich v čistejších a   zrelších formách uhliadne. Ku Kollárovej vzájomnosti by sa mal už   teraz komentár písať, lebo ju niektorí už zle počínajú vysvetľovať,   ustanovujúc akýsi primát jednotlivých nárečí, do ktorých by sme sa   všetci mali vliať. Ale vzájomnosť je nie literná a formálna. Tá je   kvet duchovného žitia Slovanstva na Tatrách vypestovaný. Tá nesmie   chcieť hynutie kmeňov menších vo väčších, ale žitie všetkých v   centrum Slovanatva.
+   </tei:p>
+   <tei:p>
+    A už sa nepamätám, čo som všetko hovoril, čo som všetko z našej   skutočnosti navážil. Bolo by to krem toho aj mnoho pre toto miesto.   Keď budeme ex professo o tomto predmete hovoriť, potom nám bude   slobodnejšie a hlbšie sa pustiť a širšie rozložiť.
+   </tei:p>
+   <tei:p>
+    Samým večerom sme sa rozchádzali. Pán farár nás ďaleko, ďaleko   vyprevádzal. A ešte aj keď sme sa rozišli, širákmi sme si kývali, až   sme sa tak v súmraku všetci sebe stratili. Ja s mojím švagrom dolinou   a vŕškami na Roháč som sa driapal a nocou k čakajúcej nás sestre   dorazil. A tejto noci obletovali ma sväté a zlaté sny o šľachetnom   Horeckom a našej živej, okrúhlej, zvonovitej, vlnovitej a hrmiacej   slovenčine.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Hudcov vrch",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1968"
+    },
+    "firsted": {
+        "pub_date": "1945"
+    },
+    "authors": [
+        {
+            "first_name": "Jozef",
+            "last_name": "Horák",
+            "birth_date": "1907",
+            "death_date": "1974",
+            "ref": "viaf:74697033"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

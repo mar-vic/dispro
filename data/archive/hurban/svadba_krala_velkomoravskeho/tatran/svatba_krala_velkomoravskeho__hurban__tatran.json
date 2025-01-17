@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Svadba kráľa veľkomoravského",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1983"
+    },
+    "firsted": {
+        "pub_date": "1844"
+    },
+    "authors": [
+        {
+            "first_name": "Jozef Miloslav",
+            "last_name": "Hurban",
+            "birth_date": "1817",
+            "death_date": "1888",
+            "ref": "viaf:27087145"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,30 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Irma",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "ref": "isbn:978-80-8101-683-7",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "pub_date": "1860"
+    },
+    "authors": [
+        {
+            "first_name": "Mikuláš Štefan",
+            "last_name": "Ferienčík",
+            "birth_date": "1825",
+            "death_date": "1881",
+            "ref": "viaf:71234606"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

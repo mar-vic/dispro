@@ -1,0 +1,27 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Smejme sa!",
+        "publisher": "Kníhtlačiarsko-účastinársky spolok",
+        "pub_place": "Turčiansky sv. Martin",
+        "pub_date": "1870"
+    },
+    "authors": [
+        {
+            "first_name": "Franko",
+            "last_name": "Chvojnický",
+            "alter_name": "František Víťazoslav Sasinek",
+            "birth_date": "1830",
+            "death_date": "1914",
+            "ref": "viaf:607156565743023500005"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

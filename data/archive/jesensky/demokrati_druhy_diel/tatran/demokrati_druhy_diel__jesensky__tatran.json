@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Demokrati (druhý diel)",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1980"
+    },
+    "firsted": {
+        "pub_date": "1934"
+    },
+    "authors": [
+        {
+            "first_name": "Janko",
+            "last_name": "Jesenský",
+            "birth_date": "1874",
+            "death_date": "1945",
+            "ref": "viaf:41884706"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

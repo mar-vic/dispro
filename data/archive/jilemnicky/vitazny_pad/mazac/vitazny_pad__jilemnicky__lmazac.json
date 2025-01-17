@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Víťazný pád",
+        "publisher": "L. Mazáč",
+        "pub_place": "Praha",
+        "pub_date": "1929"
+    },
+    "authors": [
+        {
+            "first_name": "Peter",
+            "last_name": "Jilemnický",
+            "birth_date": "1901",
+            "death_date": "1949",
+            "ref": "viaf:50020047"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

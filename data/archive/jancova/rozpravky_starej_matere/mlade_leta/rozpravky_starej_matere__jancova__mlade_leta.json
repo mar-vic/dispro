@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Rozprávky starej matere",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1972"
+    },
+    "firsted": {
+        "pub_date": "1953"
+    },
+    "authors": [
+        {
+            "first_name": "Mária",
+            "last_name": "Jančová",
+            "birth_date": "1908",
+            "death_date": "2003",
+            "ref": "viaf:30402640"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

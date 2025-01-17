@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Jozef Mak ",
+        "publisher": "Matica slovenská",
+        "pub_place": "Turčiansky Sv. Martin",
+        "pub_date": "1933"
+    },
+    "authors": [
+        {
+            "first_name": "Jozef Cíger",
+            "last_name": "Hronský",
+            "birth_date": "1896",
+            "death_date": "1960",
+            "ref": "viaf:43258918"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Zkapaný diamant",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1975"
+    },
+    "firsted": {
+        "pub_date": "1960"
+    },
+    "authors": [
+        {
+            "first_name": "Mária",
+            "last_name": " Ďuríčková",
+            "birth_date": "1919",
+            "death_date": "2004",
+            "ref": "viaf:29533427"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

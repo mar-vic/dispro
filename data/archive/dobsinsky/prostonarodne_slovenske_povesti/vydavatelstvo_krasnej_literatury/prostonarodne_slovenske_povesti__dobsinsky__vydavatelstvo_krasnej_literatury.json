@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Prostonárodné slovenské povesti",
+        "publisher": "Dobšnský Pavol",
+        "pub_place": "Slovenské vydavateľstvo krásnej literatúry",
+        "pub_date": "1958"
+    },
+    "authors": [
+        {
+            "first_name": "Pavol",
+            "last_name": "Dobšinský",
+            "birth_date": "1828",
+            "death_date": "1885",
+            "ref": "viaf:61772694"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

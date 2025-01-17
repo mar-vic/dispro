@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Človek na ulici",
+        "publisher": "Sväz slovenského študentstva v Bratislave",
+        "pub_place": "Praha",
+        "pub_date": "1928"
+    },
+    "authors": [
+        {
+            "first_name": "Ivan",
+            "last_name": "Horváth",
+            "birth_date": "1904",
+            "death_date": "1960",
+            "ref": "viaf:18434853"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,32 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Jánošík",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1987"
+    },
+    "firsted": {
+        "title": "Jánošík",
+        "publisher": "L. Mazáč",
+        "pub_place": "Praha",
+        "pub_date": "1933"
+    },
+    "authors": [
+        {
+            "first_name": "Ján",
+            "last_name": "Hrušovský",
+            "birth_date": "1892",
+            "death_date": "1975",
+            "ref": "viaf:20698550"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

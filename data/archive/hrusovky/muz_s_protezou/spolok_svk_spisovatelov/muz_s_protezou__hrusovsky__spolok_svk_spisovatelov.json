@@ -1,0 +1,30 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Muž s protézou",
+        "publisher": "Vydavateľstvo Spolku slovenských spisovateľov",
+        "pub_place": "Bratislava",
+        "pub_date": "2000"
+    },
+    "firsted": {
+        "title": "Muž s protézou",
+        "pub_date": "1925"
+    },
+    "authors": [
+        {
+            "first_name": "Ján",
+            "last_name": "Hrušovský",
+            "birth_date": "1892",
+            "death_date": "1975",
+            "ref": "viaf:20698550"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}
