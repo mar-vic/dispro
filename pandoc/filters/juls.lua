@@ -6,7 +6,7 @@ local headCleaned = false
 
 function Str(s)
   if s.text == "#POZ#" then
-    -- logging.temp("Poggers, I have encountered a note!!!!!")
+    logging.temp("Poggers, I have encountered a note!!!!!")
     noteContents = ""
     return pandoc.Str("")
   elseif s.text == "#-POZ#" then
