@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk2001166" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Serbianka : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:20476423">
+     Kalinčiak, Ján (1822 - 1871)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6147
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kalinčiak, Ján
+     </tei:author>
+     <tei:title>
+      Serbianka
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenský Tatran
+     </tei:publisher>
+     <tei:date>
+      2001
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Kalinčiak, Ján
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1849
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T1"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-23">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Serbianka
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     I
+    </tei:head>
+    <tei:p>
+     Bolo raz jedno pekné dievčatko, utešené, krásne, že mu nebolo   rovné pod slncom. Očká malo čierne, veľké, keď nimi pozrelo a dokola   švihlo, nazdal by si sa, že sokol svojimi peknými krídlami zavesloval   dokola. Malo pekné utešené líčka; keď nimi len pohlo, nazdal by si   sa, že ranné slniečko, vyskočiac spoza vysokej hory svojou ľúbostnou   žiarou v plnote citu a lásky bozkáva celý šíry, široký svet. A jeho   postava bola taká uhladená, taká vysoká, taká hybká, že by si ju   mohol prútom preťať alebo dva razy objať. To dievčatko sa volalo   Milica.
+    </tei:p>
+    <tei:p>
+     Ale to dievčatko mnoho zlého na svete narobilo; keď neveríš,   spýtaj sa len mladých šuhajcov, a všetci ti povedia: Áno, tak je,   mnoho zlého na svete narobilo. Ale nebolo toho príčina; svietilo na   svet svojou krásou, neohliadajúc sa na to, čo si ľudia z jeho pozoru   robia, nepozerajúc na to, či ňou svetu šťastie, alebo nešťastie   prinesie.
+    </tei:p>
+    <tei:p>
+     A to dievčatko Milica bolo sirôtka, nemalo nikoho krém Boha a   dobrých ľudí na tom božom svete. Ešte malo sotva dva roky, už mu i   otec, i matka odumreli. Jej celá rodina padla na Kosove, a jej otec,   ktorý vládol nad srbskou krajinou v odvislosti tureckej, zahynul roku   1447, keď Turci celkom zničili plemená grécke, románske a slovanské   na Dunaji.
+    </tei:p>
+    <tei:p>
+     Bol starý Sáva Markovič, čo sa ujal mladej Milice, a dievčina si   uňho ako ranná zora prekvitala a nič jej nechýbalo, len matička v   zemi zahrabaná a vtáčie mlieko. Starý Sáva ju zastával i pred zlými   Turkami, i pred očami všetečných mládencov a strážil ju ako oko v   hlave, bo Turci zlí, zaberajú, čo môžu, a zvlášť mladé pekné panny; i   srbskí mládenci zlí, lebo kradnú srdiečka a robia dievčatám na tisíce   starostí. Okrem toho bol starý Sáva Markovič dobrý Srbín, i snoval v   hlave mnohé myšlienky. On sľúbil Milicu najhodnejšiemu srbskému   junákovi, i čo by ho to čokoľvek stáť malo. Keď sa prišli k nemu   ľudia žalovať, že Turci, haradž (daň) vyberajúc alebo pre bašov   zbožie znášajúc a glavnicu (od hlavy) pýtajúc, ich súžia, zodierajú,   hovoril: „Hanba junákovi sťažovať sa na utláčanie a nemyslieť na   pomstu, nemyslieť na vyslobodenie domoviny!“ Keď sa zas starí ľudia   sťažovali, že im Turek kostoly hanobí a ich na staré dni sem-tam   preháňa, tak sa na to Sáva ozval: „Hej, pobratimci! Vytrepte Turka a   zhyňte sami; krem toho nemáte toľko dní života ako vlasov na hlave!“   Pre takéto reči a pre jeho samostatné si vedenie pokladali Sávu za   najlepšieho Srbína. - U tohto kvitla a jasala sa devica Milica.
+    </tei:p>
+    <tei:p>
+     Ale Sáva starnul a starnul. Vlasy mu pomaly obeleli i vypadali, a   oko, ten krištáľ duše ľudskej, vždy sa väčšmi zatemnievalo, ruka i   hlas triasol a junácka postava sa zhýbala ako javor, v jeseni   smútiaci za lístkami svojho života.
+    </tei:p>
+    <tei:p>
+     Sávovi bolo clivo, smutno v duši; nevidel nikde vyslobodenie.   Starí, sladkosť slobody zacítivší ľudia povymierali, nové pokolenie   zas vyrástlo v otroctve a nazdávalo sa, že to tak byť musí. Stislo mu   to srdce, keď si pomyslel, i zavzdychol, keď si na pamäť uviedol, že   sa nikdy nedožije oslobodenia domoviny; ale zaplakal zas, keď pozrel   na Milicu, diamant duše svojej, bo beda žene, ktorá, nevediac sa   brániť, musí hynúť v otroctve bez vlastnej viny.
+    </tei:p>
+    <tei:p>
+     Raz prišiel k nemu jeho starší syn Marko a povedal: „Otec môj, ja   som už aspoň sto Turkov zabil, pýšim sa, že som krv krvi tvojej, duša   z duše tvojej, i tým, že som najlepší junák v celej Srbii, a tak   podľa tvojho sľubu pýtam: Daj mi Milicu za ženu!“
+    </tei:p>
+    <tei:p>
+     Starý Sáva ovesil hlavu, mrmlal čosi pod šedivým fúzom i odpovedal   vážne, potichu: „Synak Marko, kto Milicu dostane, musí viacej urobiť,   ako si ty urobil; ten musí oslobodiť Srbsko od jarma turbanov a viery   nepravého proroka.“
+    </tei:p>
+    <tei:p>
+     „Otec, neprehovor sa!“ odpovedal Marko, „ty žiadaš viac, ako pán   sveta vypomôcť a urobiť môže. Dušman zatriasa pol svetom a vysmieva   sa národom, hynúcim pred ním ako hmla na horách pred slnečným   svetlom.“
+    </tei:p>
+    <tei:p>
+     Sáva zaškrípal zubami, bo jeho srdce bolo dráždivejšie ako hocako   jarého mládenca; pozrel teda hnevlivo na syna, vyzdvihol ruku akoby   na hrozbu a potom s potupným smiechom vyriekol: „A ty si najlepší   junák srbský? A ty si krv krvi mojej? A ty chceš dostať Milicu?“
+    </tei:p>
+    <tei:p>
+     „Áno, som a chcem!“ pyšne odpovedal Marko. „Otec, nehnevaj ma!“   zavolal po malej prestávke, „lebo nech nie som Srbín, keď znesiem   tvoj potupný pohľad!“
+    </tei:p>
+    <tei:p>
+     „Pekne, pekne, synak Marko!“ zas prudko odpovie starec, „od   starkého otca, čo je sotva schopný v ruke vyzdvihnúť handžár, nemôžeš   zniesť jeden potupný pohľad, ale za nemožné pokladáš zbaviť sa   tureckej potupy? Pekne, pekne, synak Marko!“
+    </tei:p>
+    <tei:p>
+     A Marko sa striasol ako osika, zuby mu zacengotali, mladé čelo sa   zamračilo, a málo chýbalo, že otca za prsia nechytil. „Kto ti   povedal, že lížem reťaze nášho vraha? Že neškrípem zubami nad našou   hanobou? - No vezmi si Milicu, ja ju nechcem, kým noha dušmana kráča   po dolinách Srbie. - Zdrav sa maj, otec!“
+    </tei:p>
+    <tei:p>
+     Starý Sáva pohliadol roziskrenými očima na svojho syna, mocne ho   chytil za kabaňu i zavolal: „Postoj, postoj, synko Marko! Ako že som   prežil už sedemdesiat rokov, tak bude Milica tvoja.“
+    </tei:p>
+    <tei:p>
+     „Nepozriem ani na teba, ani na Milicu,“ zavolá Marko, „kým   neuznáš, že som najlepší junák v celej srbskej krajine!“
+    </tei:p>
+    <tei:p>
+     „Uznám, uznám, uznám, synko môj!“ odvetil starec, „ale počuj múdre   slová staroby!“
+    </tei:p>
+    <tei:p>
+     Marko sa obrátil, hodil sa za stôl na lavicu, podoprel rukami   hlavu a pozeral na otca, akoby ho vyzýval na hovorenie.
+    </tei:p>
+    <tei:p>
+     „Ty si teraz nesmieš vziať Milicu!“ - A potom schýliac sa k nemu,   skoro pošepky hovoril ďalej: „Synak Marko, moji pobratimci prebehli i   Srbiu, i Bosnu, i Hercegovinu, a ľud kresťanský sa o krátky čas   pozdvihne. Synko Marko, ty ho musíš viesť a zhynúť, keď nebudeš môcť   zvíťaziť.“
+    </tei:p>
+    <tei:p>
+     Markovi sa oči zaligotali. Vyskočil spoza stola, objal starkého   otca a držal ho v náručí bez slova, bez hlasu.
+    </tei:p>
+    <tei:p>
+     Prirodzení ľudia žijú len v samučičkej prítomnosti a jedinké slovo   môže vzbudiť v ich prsiach najodpornejšie náruživosti.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II
+    </tei:head>
+    <tei:p>
+     Starý Sáva Markovič bol z najznamenitejších ráje srbskej; Turci mu   dali pokoj a spúšťali ho z očí, bo jeho staroba nijakú obavu nemohla   zapríčiniť. Ale svet sa mýlil; konal mnoho a jeho namáhanie len preto   na svetlo nevychádzalo, že všetko skrz pozornosť nevzbudzujúcich   starcov navliekal. - Najväčšiu nádej pri svojich podujatiach skladal   v dvoch svojich synoch. Obaja pekní chlapci, vysokí, počerní, očí   poligotavých, čiernych; obaja smelí, že sa krem Boha nikoho nebáli,   obaja vrtkí, že sa zovšadiaľ vymotať vedeli, kdekoľvek sa zaplietli.   Ale predsa bol medzi nimi veľký rozdiel. Marko si vážne počínal,   počúval s úchvatom otcove reči, chodil po krajine a hľadal zádrapky   do Turkov, vydávajúc sa na bielom dni do najväčšieho nebezpečenstva.   Preto jeho prirodzenosť bola celkom otvrdnutá, nič ho nemohlo   prestrašiť, pobúriť krem hany, kydanej na jeho junáctvo. Ale keď sa   to stalo, bol ako orkán všetko lámajúci, všetko ničiaci. - Mladší sa   volal Janko. Bol asi dvadsaťročný, a predsa neprekročil otcovský   prah. Jeho najväčšia radosť bola stúpať po najvyšších skalách   rudnických hôr a odtiaľ sa dívať bystrým okom po krajine. Najviac   býval sám, ruvačky nehľadal, ale raz k nim príduc, premáhal všetko   nadprirodzenou silou. Otec naňho mnoho nedbal mysliac, že je ešte   mladý, a tak povoľoval jeho vôli. Ale ani Janko sa o domácich veľmi   nestaral; vzal Milicu popod ruku a išiel s ňou ihrajúcky,   spievajúcky, za ruky sa vedúc, po zelených lúkách, po šumiacich   hájoch, po šumiacich horách.
+    </tei:p>
+    <tei:p>
+     Starý Sáva sedí v izbe a rozpráva sa s Markom o všelijakých   vážnych veciach. Dnu vstúpi ruka v ruke Janko s Milicou.
+    </tei:p>
+    <tei:p>
+     „Kde ste boli, deti?“ spýta sa Sáva.
+    </tei:p>
+    <tei:p>
+     „Boli sme na horách a pozerali sme, ako sa ľud hrnie k Rudníku,“   odpovie pekným hláskom Milica.
+    </tei:p>
+    <tei:p>
+     „A viete vy, čo sú to za ľudia?“ zas sa spýta starec, obrátiac oči   na Janka.
+    </tei:p>
+    <tei:p>
+     „Ľudia ako druhí,“ ozve sa ľahostajne Janko, „čo nás tam po nich,   však?“ prerečie, obrátiac sa k Milici.
+    </tei:p>
+    <tei:p>
+     Táto nič neodpovedá, ale starý Sáva sa zamračí, lebo synova   odpoveď nie je mu po vôli. „Mal by si ináčej hovoriť o ľuďoch,   idúcich na obranu Srbie.“
+    </tei:p>
+    <tei:p>
+     „To nám nik nepovedal a na to sme zabudli, však Milica, srdce   moje?“
+    </tei:p>
+    <tei:p>
+     „Teda ja ti povedám, synak Janko. Pôjdeš zajtra s Markom do   Rudníka a odtiaľ pôjdete proti Turkom, i bojovať budete za voľnosť   Srbie. Ak padnete, dobre, oplačeme vás; ak sa vrátite, budeme sláviť   svadbu Marka a Milice.“
+    </tei:p>
+    <tei:p>
+     „Moju s Milicou, brat Janko,“ odpovie starší brat.
+    </tei:p>
+    <tei:p>
+     Ale Janko sa usmeje, akoby nasilu, i zavolá: „Ba to nebudete!“
+    </tei:p>
+    <tei:p>
+     „Ba budeme!“ zvolá rozhnevaný starší brat.
+    </tei:p>
+    <tei:p>
+     „A ja prisahám na zástavu cára Lazára i na odev svätého Nikolu, i   na evanjelium svätého Jovana, že sa budeš prv v krvi vlastnej kúpať,   ako by mala byť Milica tvoja!“
+    </tei:p>
+    <tei:p>
+     „Ticho, nepodarené chlapčisko! Nerúhaj sa staršiemu bratovi, lebo   vieš, že tá ruka uschne, ktorá sa pozdvihnúť opováži oproti   staršiemu, a ten gágor prepadne peklu, ktorý sa osmelí hanu váľať na   svoj vlastný národ!“ zavolal starý Sáva.
+    </tei:p>
+    <tei:p>
+     „No nedbám, nech tu zahyniem, ale kým žijem, Milica jeho   nebude!“
+    </tei:p>
+    <tei:p>
+     Málo chýbalo, že Marko nečiahol po rozpajedenom bratovi a   zatlačiac mu gágor, neudusil jeho slová. Ale ten mykol hlavou, i   zamraštiac obrvy a divo pozrúc, postavil sa pred staršieho brata.
+    </tei:p>
+    <tei:p>
+     Vtom otec medzi nich vstúpil i volal: „Chlapci, ja rozsúdim medzi   vami!“
+    </tei:p>
+    <tei:p>
+     „Rozsúdiš,“ zasmial sa Janko, „áno, bude to spravodlivý súd, keď   si mu ju popredku obecal. Ale nech som prekliaty, ak sa to kedy   stane!“
+    </tei:p>
+    <tei:p>
+     „Či budeš ticho, chlapče!“ dupnúc nohou zavolá otec. „Kto je z vás   lepší junák, ten dostane Milicu. Marko, ty si starší, hovor, čo máš   najradšej na svete?“
+    </tei:p>
+    <tei:p>
+     „Srbiu!“ bola odpoveď.
+    </tei:p>
+    <tei:p>
+     „A vedel by si kvôli Milici opustiť Srbiu?“
+    </tei:p>
+    <tei:p>
+     Marko sklopil oči, prsia sa mu naduli, ale predsa silne a dôrazne   povedal „nie!“
+    </tei:p>
+    <tei:p>
+     „Teraz hovor, Janko, čo máš najradšej na svete?“
+    </tei:p>
+    <tei:p>
+     „Milicu!“
+    </tei:p>
+    <tei:p>
+     „A vedel by si obetovať Milicu oslobodeniu domoviny?“
+    </tei:p>
+    <tei:p>
+     „Otec môj,“ ozval sa Janko, „ja síce radšej vidím Srbiu ako ten   tu, ale povedať nemôžem, že by som rád opustil Milicu kvôli druhým   ľuďom.“
+    </tei:p>
+    <tei:p>
+     „Ako Božia vôľa,“ vyvolal starý Sáva: „Marko je lepší junák -“
+    </tei:p>
+    <tei:p>
+     „Nepravda! To je súd skrivodlivý. Ja tu volám i pred tebou, i pred   celým srbským národom, že nieto väčšej baby na svete, ako je tvoj syn   Marko; bo kto sa vie zvadiť za nevestu s vlastným bratom, a predsa je   nie hotový za ňu umierať - je horší od najhoršieho človeka.“
+    </tei:p>
+    <tei:p>
+     Teraz nastala trma-vrma medzi všetkými. Janko volal, aby si Milica   z nich dvoch volila, koho chce; tá celej zvade nerozumie, nevie ani,   o čom je reč, lebo oboch ako bratov rada vidí. I túli sa, trasúc a   bojac sa hnevného pohľadu bratov, na prsia starého Sávu; ten volá,   namáha sa upokojiť svoje deti, ale všetko darmo.
+    </tei:p>
+    <tei:p>
+     Naostatok Marko odstrčí brata a povie: „Počuj, otec, ako ma tvoj   mladší syn pohanil, i ja sa musím pomstiť, a čo by si čo robil.“
+    </tei:p>
+    <tei:p>
+     „A ja ťa,“ zavolá Janko, „celého ako si, zdrúzgam prv, ako by si   zovrel do náručia svojho Milicu!“
+    </tei:p>
+    <tei:p>
+     Starký otec spustil hlas, sily mu po takom veľkom napnutí upadli,   a tak si vydýchol i hovoril: „A čo vám príde z boja a zvady, synovia   nemúdri?! Dajte svoju hádku rozsúdiť srbskému starešinstvu!“
+    </tei:p>
+    <tei:p>
+     „Darmo, otec!“ zavolá Marko, „mňa nik nikdy nepohanil, len tento   chlapec tu. Jeden z nás musí umrieť!“
+    </tei:p>
+    <tei:p>
+     „A ja som nikdy chvastavejšieho človeka nevidel ako tohto tu!“   zvolal Janko.
+    </tei:p>
+    <tei:p>
+     Sáva sa dlho namáhal utíšiť dvoch rodných bratov, ale všetko   nadarmo, lebo dvaja rodní bratia vyšli v hneve na dvor, vytiahli   handžáre z remenných opaskov i hnali ich jeden do druhého na smrť.   Otec vyšiel za nimi a prinútený súc na to sa dívať, vyvolal:   „Nechajte, nechajte! Ktorý zahynie pre Milicu, a ktorý nažive   zostane, ten ju nikdy nedostane, bo ona za bratobijca nikdy ísť   nemôže!“
+    </tei:p>
+    <tei:p>
+     Ale všetko darmo. Marko doráža na brata, ten však mu vrazí handžár   až po rukoväť do pŕs a vytiahne ho dohora, pozerá, ako sa horúca krv   na ňom kúri, i hovorí: „Tu tebe. Milica!“
+    </tei:p>
+    <tei:p>
+     Marko padá, a starý Sáva stojí ako stĺp kamenný; neplače,   nevzdychá, bo to Srbín nevie krem vtedy, keď hynie jeho domovina:
+    </tei:p>
+    <tei:p>
+     #POEZIA#
+    </tei:p>
+    <tei:p>
+     #I#
+    </tei:p>
+    <tei:p>
+     Pokraj Save kod bedema
+    </tei:p>
+    <tei:p>
+     Beograda ugrabljena,
+    </tei:p>
+    <tei:p>
+     Crni Djordje prsa bije
+    </tei:p>
+    <tei:p>
+     a nad rodom suze lije.
+    </tei:p>
+    <tei:p>
+     #-I#
+    </tei:p>
+    <tei:p>
+     #-POEZIA#
+    </tei:p>
+    <tei:p>
+     Ale stislo mu to srdce; jeho pýcha, jeho nádej padla rukou   vlastného brata, a Srbia mala menej o jedného junáka. Veľká to   strata. - Pozerá na syna Janka i volá: „Bodaj teba, synak, synak   Janko, tvoje nešťastie postihlo. Jedno nešťastie, synak Janko, aby si   bol horší od Turčína; druhé nešťastie, aby ťa Boh nikdy na milosť   neprijal; tretie nešťastie, synak Janko, aby si ako zradca   zahynul.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III
+    </tei:head>
+    <tei:p>
+     Bolo asi desať rokov od tých čias, čo sa stala táto smutná príhoda   v dome Sávu Markoviča. Srbská krajina ešte väčšmi vzdychala pod   tureckým jarmom; ľudia zutekali do hôr, lebo Turčín, dozvediac sa o   ich úmysloch, bral všetko, čo mali, a predával ich za otrokov. Hej,   smutne, pusto v srbskej krajine! Nazdal by si sa, že to veľký hrob,   tá pekná, krásna srbská krajina, a ľudia, mátohy a duchovia, okolo   hrobu obchádzajúci. Nik nepovzdychol, nik nezažalostil nad tým   junáckym ľudom; a oni sami ledva slovo hovorili, bojac sa zrady. Len   ich oči hovorili medzi sebou a ruky dávali čudné znamenia.
+    </tei:p>
+    <tei:p>
+     Ale predsa boli dni v roku, v ktorých nijaká moc, nijaká sila   nemohla rozkazovať, aby sa spolu neschodil srbský ľud; boli to   sviatky náboženské a výročné.
+    </tei:p>
+    <tei:p>
+     I teraz sa zišlo tisíce ľudu v rudnických horách. Na päte týchto   hôr stojí monastier svätého Jovana, ktorého mnísi, prísne   zachovávajúc pravidlá svojho rádu, boli známi u Srbov láskou k svojmu   rodu. Teraz je deň svätého Jovana, sviatok patróna monastiera, a   preto mnoho ľudu obsadilo kopce okolo neho.
+    </tei:p>
+    <tei:p>
+     Pred svätou liturgiou je ľud rozložený okolo dubov a bukov, na   ktorých sú popribíjané obrazy Matičky Božej, svätého Jovana, svätého   Mikolu a druhých svätých. Pod tými stromami sedia starci, ktorým vek   odobral denné svetlo, s holými hlavami, na ktorých pofukujúci vietor   dvíha dohora zvyšky šedivých vlasov; v rukách držia gusle a čistými   tónmi, tu i tu trasľavým hlasom prespevujú junácke piesne zo starých   pekných čias zabudnutej už srbskej voľnosti. Ľud sa okolo nich zháňa   v kopy, sníma z hláv čiapky, žehná sa krížom, zvesí hlavu v nemej   tichosti, dáva voľnosť svojim prsiam, aby si v nich podľa ľúbosti   poihrali piesne slepcov. A keď tak dlho počúvajú, zakryjú si tvár   oboma rukami - a potom oko tvrdého Srba vylieva slzy, tam zas pozerá   jeden na rany druhého, prikrývajúce telo jeho pobratima; ten zas   žehná maličké dieťa trepotajúce sa v rukách utrápenej matky. Smutná   tu púť, kde niet potešenia, ale kde len zármutok duše ľudské   prerýva.
+    </tei:p>
+    <tei:p>
+     Okolo najrozložitejšieho duba sa ľud najväčšmi zhŕňa. Jeho konáre   ľúbezným chládkom zatôňujú vyschnutú zem a ich lístky poihrávajú sa s   tichým, do nich sa zadierajúcim vetríkom ako ruka slepca-pevca do   struny guslí, i vydáva z nich tiché šepotavé tóny.
+    </tei:p>
+    <tei:p>
+     Pod dubom sedí na skale starec s guslami, jeho vlasy sú začesané   poza uši ako veniec, lebo vrch hlavy má holý. Oči jeho sa dohora   stĺpkom dívajú, bo svetlu z nich sa strativšiemu nič neuškodí; ale   vrásky na čele a tiché podychovanie svedčia, že je sluch napnutý,   usilujúc sa vynahradiť to, čo oko urobiť nemôže. Napravo ležia gusle,   zľava zas sedí pri ňom, majúc hlávku podopretú v ruke a očkami   hľadiac do zeme, dievča, ktorému už prešiel kvet mladosti a tvár   obletoval dákysi závoj smútku.
+    </tei:p>
+    <tei:p>
+     Ľud sa zohnal okolo neho. Mužovia, podoprúc sa o dlhé palice,   pozerajú so smútkom na Sávu Markoviča; ženy si posadali na zem a   svojim deťom kážuc tichosť, ukazovali devicu Milicu.
+    </tei:p>
+    <tei:p>
+     Starý Sáva celkom oslepol; jedného syna stratil, druhý ušiel k   Turčínom, ktorí starkého vyhnali z jeho vlastného domu, takže teraz   chodí po krajine sprevádzaný svojím anjelom, devicou Milicou.
+    </tei:p>
+    <tei:p>
+     Krásna je láska, krásna obetavosť za starobu, ktorá si nevie   pomáhať sama.
+    </tei:p>
+    <tei:p>
+     Starý Sáva sedí medzi tichým zástupom, dívajúcim sa naňho s   dákousi velebou, i počúva sluchom, akoby chcel vyzvedieť z jeho   hukotu početnosť zástupu. Pomaly ovesí hlavu, vezme gusle a spieva   pesničku sprevádzanú ich šumotom:
+    </tei:p>
+    <tei:p>
+     #POEZIA#
+    </tei:p>
+    <tei:p>
+     #I#
+    </tei:p>
+    <tei:p>
+     Na Kosove, bielom poli,
+    </tei:p>
+    <tei:p>
+     šumí barjak cár-Lazara;
+    </tei:p>
+    <tei:p>
+     srbské dieťa srdce bolí,
+    </tei:p>
+    <tei:p>
+     keď sa o tom rozhovára!
+    </tei:p>
+    <tei:p>
+     To Kosovo, biele pole,
+    </tei:p>
+    <tei:p>
+     smutné zvesti nám donáša,
+    </tei:p>
+    <tei:p>
+     bo tam padla do nevôle
+    </tei:p>
+    <tei:p>
+     domovina voľná naša!
+    </tei:p>
+    <tei:p>
+     Ty Kosovo, pole bielo,
+    </tei:p>
+    <tei:p>
+     našej padlej slávy pole,
+    </tei:p>
+    <tei:p>
+     čos tak smutne zašumelo,
+    </tei:p>
+    <tei:p>
+     čože značia tvoje bôle?
+    </tei:p>
+    <tei:p>
+     A Kosovo odpovedá:
+    </tei:p>
+    <tei:p>
+     „Jak by som ja nešumelo?
+    </tei:p>
+    <tei:p>
+     Srbský synak v putách sedá!
+    </tei:p>
+    <tei:p>
+     Srbské dieťa onemelo!“
+    </tei:p>
+    <tei:p>
+     O voľnosti viac nevraví,
+    </tei:p>
+    <tei:p>
+     o nej sa mu viac nesníva;
+    </tei:p>
+    <tei:p>
+     keď ho dušman depce, dávi,
+    </tei:p>
+    <tei:p>
+     ono na to len sa díva.
+    </tei:p>
+    <tei:p>
+     A mne srdce schne od bôľa
+    </tei:p>
+    <tei:p>
+     a mňa smútok, žiaľ prikrýva,
+    </tei:p>
+    <tei:p>
+     lebo vinu môjho poľa
+    </tei:p>
+    <tei:p>
+     krvou svojou nik nezmýva.
+    </tei:p>
+    <tei:p>
+     Srbský synak, srbské dieťa,
+    </tei:p>
+    <tei:p>
+     kedy zbavíš domovinu?
+    </tei:p>
+    <tei:p>
+     Kedy zore ti zasvietia?
+    </tei:p>
+    <tei:p>
+     Kedy zmyješ moju vinu?
+    </tei:p>
+    <tei:p>
+     #-I#
+    </tei:p>
+    <tei:p>
+     #-POEZIA#
+    </tei:p>
+    <tei:p>
+     Starý Sáva zastal, bradu oprel o hlavu gusiel a temné oko uprel na   zástup, akoby chcel v jeho tvárach čítať a preniknúť do jeho srdca;   chudák zabudol, že božie slniečko si dávno prestalo zahrávať s jeho   zrenicou a že sa teraz na nej odrazí len ako na tvrdej skale. Ale   jeho ucho dopočulo šumiace šeptanie zástupu, cit jeho srdca pochopil,   že jeho pieseň búri v prsiach prostého národa, takých povoľných na   osvojenie si citu piesne, ako harfa len to znejúca, čo spevec   cíti.
+    </tei:p>
+    <tei:p>
+     „Čo zas chce jeho pieseň?“ šeptal jeden druhému, ktorý potom   odpovedal: „Daj pokoj, pravdu má.“
+    </tei:p>
+    <tei:p>
+     Naostatok pristúpil jeden zo starcov k Sávovi i povedal: „Pobratim   Sáva, či si ešte neprestal dráždiť ľud, aby si ho uvrhol ešte do   väčšej ako predtým neresti? Dosť si sa predtým namáhal a my sme   pritom predsa zradou tvojho syna zhynuli; teraz, nemajúc sily kaziť   našu pokojnosť, duše naše piesňami jedom napájaš!“
+    </tei:p>
+    <tei:p>
+     „Pobratim Štefan Sikula, že môj syn všetko pokazil, ja za to   nemôžem; ale ty nezabrániš spievať, čo sa mi páči!“
+    </tei:p>
+    <tei:p>
+     „Tak je, tak je,“ zvolala jedna stránka.
+    </tei:p>
+    <tei:p>
+     „Ale čo chcete?“ ozve sa zas Štefan Sikula, „národ nemá sily   vzoprieť sa Turkovi; a keď sa raz taká pieseň zaryje do srdca národa,   potom tento letí v hotové nešťastie nepomysliac, že si tým len zle   robí. Čakajte, bračekovci, na lepšie časy!“
+    </tei:p>
+    <tei:p>
+     „Pravdu má, pravdu má!“ zavolala zas druhá strana.
+    </tei:p>
+    <tei:p>
+     A starý Sáva sa zamračil, trasúc sa vstal a podávajúc ruku devici   Milici, hovoril: „Poď, dieťa moje, preč odtiaľto; tu sa nezišli   srbskí synovia, kypiaci hnevom nad svojou hanou, ale len podlí   otroci!“
+    </tei:p>
+    <tei:p>
+     Ale sotva vstal, sotva mu Milica ruku podala, už zahučalo   zhromaždenie: „Zostaň, zostaň! Hanba posmievať sa slepcovi!“ I hádka   a rozbroj povstal v zástupe, bo srbský národ drží slepcov za   neobraziteľných. Koniec hádky sa hneď urobil, lebo medzi národom   zahučalo: „Hospodine, vyslyš prosby naše a zmiluj sa nad nami!“
+    </tei:p>
+    <tei:p>
+     Ľud zabudol na náruživosti, hádky a rozbroje, i hodil sa v   tichosti srdca a pokore na kolená, žehnal sa krížom i hovoril:   „Gospodi, pomiluj!“
+    </tei:p>
+    <tei:p>
+     Svätá liturgia (služby Božie) sa začala, ľud sa na kolenách   modlil, a koľkokoľvek ráz sa kňazi modlili, ľud vždy odpovedal   „Gospodi, pomiluj!“ takým skrúšeným srdcom, že to nijaký človek,   nemajúci takú veľkú potrebu zmilovania božieho ako pri tejto púti   srbský národ, skrúšenejšie nemôže vysloviť. Po modlitbe povedal národ   „Amin!“ -a kňazi, podrobiac chlieb do pozlátených a vínom naplnených   kalichov, po poriadku lyžičkami víno s chlebom dávali; a keď muž   dostával požehnanie, nahnuvší sa kňaz pošepky k nemu hovoril: „V   kostole za oltárom odpustenie hriechov, v kostole za oltárom   spasenie!“
+    </tei:p>
+    <tei:p>
+     Všetci mužovia vstupovali do kostola.
+    </tei:p>
+    <tei:p>
+     Po malej chvíli nastal krik i v kostole, i okolo neho, mužovia   vybehúvali z jeho posvätných dvier s iskriacimi očami; jeden   vyzdvihol jatagán dohora, druhý tisol handžár na srdce, tretí vyvíjal   puškou ponad hlavu, iný zas niesol v ruke železom okovaný posekanec.   Všetci jednohlasne volali: „Sláva buď, Hospodine, menu tvojmu!“
+    </tei:p>
+    <tei:p>
+     Mnísi monastiera svätého Jovana boli pobožní ľudia; ale tichosť   ich života, ich ukrytosť pred svetom im dodávala príležitosť na   hlboké pocítenie hany svojho národa, na dumné premýšľanie o stave   vlastného ľudu. A vidiac, že Turčín poodnímal ľudu zbroj, aby sa mu   tento tým menej mohol protiviť, potajme ju zhromažďovali a na slávnej   svätojánskej púti rozdávali ľudu.
+    </tei:p>
+    <tei:p>
+     Ale keby si videl, pobratim drahý, tú rozpálenosť myslí, ten zápal   ľudu, prišlého zrazu k prostriedkom vyplnenia svojich túžob! Hej, nie   je to hračka, nie je to každodenný výjav!
+    </tei:p>
+    <tei:p>
+     A ľud je celkom rozihraný; starci plačú od radosti, mužovia sa   objímajú, mládenci výskajú, i nastáva hukot a štrngot zbroje.
+    </tei:p>
+    <tei:p>
+     Starý Sáva stojí medzi ľudom, oči má stĺpkom dohora obrátené; čo   ale ucho počuje, čo duša cíti, to sám vypovedať nevie. Mráz ho   striasol celého, údy sa mu pohybujú, zložené ruky sa pozdvihujú   dohora a ústa vyrieknu: „Hospodine, zmiluj sa nad nami!“
+    </tei:p>
+    <tei:p>
+     Celý národ za ním volá: „Hospodine, zmiluj sa nad nami!“
+    </tei:p>
+    <tei:p>
+     A po prednesených slovách príde Štefan Sikula, chytí starého Sávu   za ruky a sladkým hlasom povie: „Pobratim Sáva Markovič, teraz vidím,   že máš pravdu. Boh ťa živ na ozdobu srbského národa! - Tu máš, tu máš   i ty meč, lebo ak komu, tak tebe sluší!“ I vtisol mu do slabej ruky   dlhý ostrý meč.
+    </tei:p>
+    <tei:p>
+     A starý Sáva, pocítiac v ruke železo, sa vystrie a jeho ruka   neklesá pod jeho ťažkosťou, ktorú zdvíha dohora, že by si nepovedal,   pobratim drahý, že to starec mnohoročný, ale mládenec dvadsaťročný.   Starý Sáva, držiac meč dohora, volá: „Za Srbiu a vieru Kristovu!“
+    </tei:p>
+    <tei:p>
+     A zástup, pozdvihnúc zbroje dohora, volá za ním: „Za Srbiu a vieru   Kristovu!“
+    </tei:p>
+    <tei:p>
+     Sotva však ľud vykríkol, z húštia z ľavej strany zapukocú výstrely   pušiek; pár ľudí padne v zástupe, spoza dymu a prachovej kúrňavy sa   zablysne pár očí ako lampa vo tme a zo všetkých strán ozve sa vresk:   „Alah, Alah!“
+    </tei:p>
+    <tei:p>
+     Nasleduje výstrel za výstrelom, pušky odmieňajú meče a jatagány a   srbský ľud je prinútený sekať sa a rúbať prv, ako by sa mohol   usporiadať. Mnohí padli, mnoho Turkov pobili, mnohí sa prebili cez   múry pŕs neveriacich, mnohé ženy brániac deti, zutekali: ale srdce   Turčína, srdce janičiara, ktoré je zrodené z kresťanských rodičov,   ale ktoré im v detinstve odňaté a turecky vychované bolo, je horšie   od tvrdej skaly. Hafis aga, vodca janičiarov, zavolá: „Za nimi, za   nimi!“
+    </tei:p>
+    <tei:p>
+     Sotva tie slová vyšli z úst Hafis agu, Milica, zostavšia tu so   starcom slepcom, omdlela i padla na zem; a starý Sáva sa na celom   tele zatriasol ako lístie stromu v jeseni, i ovesiac hlavu, hovoril:   „Hej, synak Janko, už sa moja prvšia kliatba vyplnila; bodajže ťa,   synak Janko, keď si horší od Turčína, Boh nikdy na milosť neprijal!   Bodaj si, synak Janko, zradcovskou smrťou zomrel!“
+    </tei:p>
+    <tei:p>
+     A citom prekonaný klesol i on ku svojej Milici a horké, smutné   fikanie, podobajúce sa plaču, prezrádzalo útrapy jeho srdca.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV
+    </tei:head>
+    <tei:p>
+     Videli ste kedy mládenca plného výhľadmi do budúcnosti i   chcejúceho oblažiť svet krvou vlastného srdca, spomôcť svetu, i   nekonečne túžiaceho za šťastím ľudského pokolenia? - Videli ste ho   umierajúceho, keď sa mu všetky svety jeho túžob maľujú pred očami? -   On vidí blyšťať sa svoju úlohu pred očami duše, ale zároveň vidí, že   mu zhasína v žilách sila, že jeho svet, jeho najkrajší výtvor   obraznosti zhynie v krátkom čase ako hmly na horách v čase letnom, a   nezostane po nich naveky ani šľak.
+    </tei:p>
+    <tei:p>
+     Videli ste tú jeho bolesť, tú nekonečnú túžbu, ten hlboký   zármutok, ten strašlivý boj na jeho tvári, teda musíte rieknuť: To je   smútok hrozný, to je veľké nešťastie!
+    </tei:p>
+    <tei:p>
+     Ale predsa je smutnejší smútok ženy nad smútok muža: lebo hoci   celú mužovu postať preniká žiaľ, hoci sa mu prerýva až do najhlbšej   hlbokosti duše, predsa sa jeho sila tak odrazu pod jeho návalom   nezlomí ako sila ženská. A v takomto smútku je i Milica.
+    </tei:p>
+    <tei:p>
+     Milica bývala dakedy ako kvietok obchúknutý rosou na úsvite,   trasúci sa a túžobne očakávajúci príchod svojho miláčika, horúceho   slnca; teraz už zhynulo z jej líca prvé oviatie mladosti, dlhé   trápenie vyrylo šľaky na jej tvári, hybká postava sa sklonila, úsmev   umrel na ústach a jej bezstarostný hojdavý chod sa zmenil na tichý   pohyb. A teraz ešte sedí samojediná v úzkej izbe, nevediac ani, kde   sa nachádza, nevediac, kde sa podel starý Sáva; len to vie, že ich   osoba dobre známa a hádam inakšie i jej srdcu milá, nemilosrdne   rozlúčila. Či zhynul poctivý starec? Či nevzdychá za slobodou a za   svojou Milicou? - To ona všetko nevie, a len to vie, že počula pri   rudnickom monastiere známy hlas, preniknuvší jej až do duše, a   kliatbu zúfalého starca.
+    </tei:p>
+    <tei:p>
+     Hej, pusto v duši device Milice, nemo okolo nej, hlucho v jej   prsiach.
+    </tei:p>
+    <tei:p>
+     Devica Milica sedí na stolici, obe ruky má na stôl podopreté,   hlávka do nich klesá a oko, akoby sa chcelo zatvárať a nemohlo,   poblyskuje vyhasínajúcim ohňom. Nič nepočuť dovôkol, len štrnganie   šable pri dverách sa prechádzajúceho janičiara.
+    </tei:p>
+    <tei:p>
+     Ale pomaly zavŕzgajú dvere; dnu vstúpi mužská postava, vysoká,   dlhý fúz sa vinie po oholenej brade a medzi obrvami mu vidieť vrásku,   svedka jeho tvrdosti a neústupnosti. Milica nepozdvihne zraky, len   sedí ticho, nepohnute; vidieť, že sú jej podobné návštevy známe a   ľahostajné. Dlhý bol pohľad, ktorý hodil vstupujúci muž na Milicu,   ale aj ten jeden pohľad musel vzbudiť v jeho duši čudný pocit, lebo   sa celý zatriasol a jeho krok primrzol na mieste. Naostatok muž   pristúpi s krátkymi vzdychmi k devici, náruživo ju chytí za ruku i   prenikavo zvolá: „Milica!“
+    </tei:p>
+    <tei:p>
+     A devica Milica sa vytrhne z premýšľania a pozrie na príchodzieho   muža. Jej hlava sa nazad potrhne a vidieť, ako sa v jej peknom bielom   hrdle zadusil výkrik.
+    </tei:p>
+    <tei:p>
+     I stáli proti sebe dvaja ľudia, ktorí sú vedomí svojich vín alebo   aspoň toho, že sú príčinou mnohého zla. Milica poznala Hafis agu a   brata, svojho miláčka Janka Markoviča. Jej duša sa nezhrozila toho   pohľadu, neodvrátila sa od neho; poznať, že čistá duša len po mene   pozná hriechy, ktorých sa nikdy nedopustila, a nezbledne, vidiac pred   sebou človeka, na ktorom spočívajú veľké viny.
+    </tei:p>
+    <tei:p>
+     Janko neprehovorí slova, lebo hoc je i tvrdý, hoc mal dosť sily   zaprieť i vieru, i svoj rod, hoc mal dosť zdurnosti a necitlivosti ho   znivočiť a zvrhnúť do priepasti, hoc sa nebál Boha hubiť vlastný ľud,   ľud rodný, zdá sa, že teraz nemá vlády nad sebou, stojac pred   vlastným väzňom slabou dievkou. Zdá sa, že mu je toto dievča drahšie   nad všetko, lebo teraz jeho srdce klope hlasne, žily sa v ňom   potrhujú a dych z pŕs vychádzajúci úži sa vo vysokom hrdle, kráti sa   a dusí.
+    </tei:p>
+    <tei:p>
+     Ale Milica, akoby sa nič nebolo stalo, akoby bola zabudla na   zármutok, akoby sa cítila voľná v prítomnosti známej osoby, spýta sa:   „Janko, bratko, kde je otec, kde je starý Sáva?“
+    </tei:p>
+    <tei:p>
+     „Nespytuj sa naňho; ja som sem neprišiel zhovárať sa o ňom, ja ti   mám hovoriť iné veci,“ vravel Janko s odvrátenou tvárou.
+    </tei:p>
+    <tei:p>
+     „A kto mi dá vývod o tom, keď ty nie? Však si jeho syn a hádam   ešte nevyhasla v tebe iskra synovskej lásky?“
+    </tei:p>
+    <tei:p>
+     „Synovskej lásky?! O čom to hovoríš, Milica? Ja tomu nerozumiem.   On ma nikdy nemal rád, lebo mi odoprel teba; on ma nikdy nemal rád,   lebo vieš, že ma preklial, on ma nikdy nemal rád, lebo mi odňal tvoju   lásku!“
+    </tei:p>
+    <tei:p>
+     Milica sa schytila zo stolice, chytila Janka za ruku a prudko   zvolala: „Nik ti neodňal moju lásku!“
+    </tei:p>
+    <tei:p>
+     Janko stŕpol, oči sa mu navrch vytisli a spodná čelusť ovisla, že   nemohol prehovoriť nič krem slova „Milica“, ktoré zas zavislo na jeho   perách.
+    </tei:p>
+    <tei:p>
+     „Počúvaj, bratko Janko, čo ti musím povedať, kým sa nerozlúčime,   ja som teba vždy mala rada, ja som ťa žehnala, keď ťa druhí   preklínali. Mnoho ráz, keď sme sa s tvojím otcom pred tebou samým   museli ukrývať a moje bosé nohy krvácali ranené od tŕnia a bodľačia,   keď sme i mnoho týždňov museli spávať o hlade pod holým nebom, keď   sme nikde stanie, nikde pokoj nenašli, keď mi vtedy rozum hovoril, že   toho všetkého si ty príčina, bratko Janko, moje srdce to nechcelo   veriť.“
+    </tei:p>
+    <tei:p>
+     A oko Jankovo krvou nabehlo, prsia sa mu dobre nerozpukli, až   hrozným hlasom zvolal: „A čo si to nehovorila, keď som sa ťa   spytoval? - Nebol by som zradcom! - Hriech a vina padá na tvoju   hlavu!“
+    </tei:p>
+    <tei:p>
+     Ale dievčina sa nezľakla; tichá, pokojná ako predtým odpovedá:   „Maj ľútosť nad samým sebou! Nevyvolávaj pomstu na seba, ktorú si len   ty sám zaslúžil. - Počuj ma ďalej, bratko Janko, ja som nepoznala   rozdiel medzi vami dvoma bratmi, ja jedného mala tak rada ako   druhého; ale okamih tvojho nešťastia, bratko Janko, sklonil moje   srdce k tebe. Vtedy, keď druhí na teba sypali oheň, ja som ťa vo   snách hladkala, keď sa druhí do tvojich pŕs hnali mečom, ja som ťa   objímala; i plakala som nad tvojím nešťastím i modlila som sa za   tvoju stratenú dušu! Vidíš, Janko, bratko, ja nie som ničomu   príčina!“
+    </tei:p>
+    <tei:p>
+     A Janko stál ako skamenený stĺp, ale jeho duša sa obmäkčila i slza   skrápala milenkinu ruku. „Počuj ma, Milica!“ povedá pomaly, „brány   serailu sú mi otvorené, panovanie nad národmi isté - poď so mnou a   budeme žiť spolu, zabudnúc na svet, na budúcnosť.“
+    </tei:p>
+    <tei:p>
+     Ale Milica pokrútila hlavou i riekla: „Nikdy, brat môj! - Vidíš,   iná Srbianka vediac, že si neverný, vediac, že si zradca i viery, i   rodu, by ťa od seba odstrčila; ale u mňa už vyhasol oheň prvej   mladosti - desať rokov biedy a smútku urobilo zo mňa osobu smutnú,   tichú, ktorú ani nešťastie, ani blesky šťastia zďaleka sa ligotajúce   nezvedú od predsavzatia raz ustanoveného. - Ty si búrlivý, necitlivý,   ty si neverný; ako by si mne vieru držať mohol?“
+    </tei:p>
+    <tei:p>
+     „Zadrž, zadrž svoje slová,“ vyvolá on, „môj zákon mi povoľuje   náboženstvo a niet na nebi takých ligotavých hviezd, ako som ja mal   pekných devíc - a nikdy ani na jednej nespočinul môj pohľad od tých   čias, čo som teba zanechal.“
+    </tei:p>
+    <tei:p>
+     „I to ti verím; ale voľná Srbianka nikdy, a hoc by krv svojho   srdca mala vycediť, z dobrej vôle nevernému ruku nepodá.“
+    </tei:p>
+    <tei:p>
+     „Oj, majže ľútosť nado mnou i nad sebou, Milica moja: Nerozrývaj   ešte väčšmi moje búrlivé srdce železom svojich slov! Never, že som   tvrdý, zdurný; ej, v ukrutnostiach, v trápení vlastného rodu chcem   často uhasiť len vlastné muky, opojiť vlastnú myseľ, ohlušiť, aby na   seba zabudla. - Poď, Milica moja! Pôjdem do Sedmohradskej a potom   ďalej a ďalej, kde nás ani slnce nedostihne!“
+    </tei:p>
+    <tei:p>
+     „Ale ruka Božia nás dostihne!“ vážne, prenikavo, zdĺhavo povie   Milica, akoby schválne chcela vzbudiť v jeho nevernom srdci vieru v   Boha. „Na tebe spočíva otcovská kliatba a nikdy nemáš byť šťastlivý!   Preklial ťa, aby si bol horší od Turčína, i stal si sa horším od   Turčína; preklial ťa, aby ťa Boh neprijal na milosť - a tak ťa nikdy   na milosť neprijme!“
+    </tei:p>
+    <tei:p>
+     „Keď nemáš poľutovanie nado mnou, keď sa ty nado mnou nezmiluješ,   tak nieto pre mňa milosti, milosrdenstva! Rozrazím si hlavu o múr   alebo znivočím ľudské plemeno a diabolsky zahyniem!“
+    </tei:p>
+    <tei:p>
+     „Never tomu, bratko Janko,“ zas potichu odpovie Milica. „Ja síce   tvoja žena nikdy byť nemôžem, lebo si prelial krv svojho rodu; ale   keď milosť Božiu chceš obsiahnuť, vysloboď Srbiu! Zbav dušmanského   jarma naše plemená - a Boh ťa prijme na milosť, i otec tvoj ťa prijme   na milosť, i ja ťa prijmem na milosť.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V
+    </tei:head>
+    <tei:p>
+     Srbské plemená zišli z hôr dolu a obrábajú polia; veselosti im   pribýva, víno koluje z rúk do rúk a pobratim podáva pohár priateľstva   pobratimovi. Turectvo sa vyhrnulo na zem uhorskú a Srbia ako-tak   požíva odpočinok, hoc cez ňu prechádzajú i dušmanské vojská. Minul sa   asi rok, čo prepadli Srbov pri rudnickom monastiere svätého Jovana.   Starý Sáva Markovič, sprevádzaný devicou Milicou, prechádza sa po   srbských hájoch s guslami i zhľadúva málo, ešte doteraz žijúcich   svojich pobratimov, spravujúcich svoje rodiny. I rozpráva im čudné   veci, ktorým ani Srbíni neveria, i nechcú nasledovať jeho   podpaľovanie k novej vojne, hoci ho ľutujú, i stískajú mu ruky,   spolucítia s ním; každý myslí, že je všetko nadarmo.
+    </tei:p>
+    <tei:p>
+     Ale veselé povesti došli do Srbie. V Uhorskej rozprášil kráľ   Matiáš turecké hordy, basa bol odsúdený na smrť a Hafis aga, ktorý   podľa povestí Sávu Markoviča schválne dával svojmu vodcovi také rady,   aby musel byť zbitý, a ktorý srbským rodom žičí, bol povýšený na jeho   miesto. Srbia nadájaná novými nádejami sa zas pozdvihla. Starý Sáva   Markovič s Milicou všade nasledujú a sprevádzajú srbských   ozbrojencov.
+    </tei:p>
+    <tei:p>
+     Hafis baša je vyslaný v srbských krajoch zasa pozdvihnúť krvavý   súd. Turci prisahajú kresťanstvu hroznú pomstu. - Na srbskú zem   prišli janičiari, i spahiovia, i Tatári. Všade pusto, všade hlucho. V   rudnických horách sa zišiel celý národ so zbrojou v ruke, zhŕňajúc   skaly na končiare vrchov, podtínajúc stromovia dolu vrchmi.
+    </tei:p>
+    <tei:p>
+     Hafis baša je silný, mocný; sám rodák Srbín, však známy nepriateľ   rodu tohto. Jeho vojsko má k nemu pevnú dôveru. Zavolal Hafis agu   Tatárov: „Počuješ, aga Tatárov,“ povedal mu, „ťažko sa dostať ta do   hôr ku psom neverným! Preoblečieš všetkých Tatárov do šiat srbských a   pôjdeš do hôr, i zastaneš si pod múrmi zrúcaného monastiera, čakajúc   tam, kým neverní nedôjdu.“
+    </tei:p>
+    <tei:p>
+     Ako povedal, tak sa stalo. Aga Tatárov odišiel popredku. Hafis   baša káže janičiarom a spahiom tisnúť sa vpred. Prišli až k zrúcanému   monastieru svätého Jovana i uhliadli hejno Srbov ako mrákavy čierne,   ako piesok v mori početné. Hafis baša káže strieľať a janičiari   zavolajú: „Alah, Alah!“ Ale i z druhej strany sa ozýva: „Alah, Alah!“   - Janičiari sa zastavili, pomútili; ale Hafis kričí: „Zrada, zrada!   Psi neverní oholili brady, aby nás lepšie mohli prepadnúť; ja ich   poznám, ja ich poznám!“
+    </tei:p>
+    <tei:p>
+     A janičiari sa rozniesli po celej hore i strieľali a ťali Tatárov   ako drevo; a Tatári kričia, volajú, že sú priatelia, - ale všetko   darmo. Turci Turkov sekajú ako divé zvery - až obe strany sa   preriedili, roztrepali. A vtom z hôr zahučí: „Srbia i viera!“ A skaly   z vrchov sa gúľajú, stromy podťaté sa váľajú a drúzgajúc mrvia   neverných Turčínov. Hafis vznáša šabľu dohora a kričiac: „Za mnou, za   mnou!“ popchne koňa napred. A janičiari a spahiovia sa rútia za   svojím vodcom. Ale i zdola, i zhora sa ukazujú srbskí junáci a   Hafisovi nabehnú oči krvou, šabľu dvíha dohora i volá: „Srbíni, hore   sa, poďte za šabľou Janka Markoviča!“ A Srbíni obkľúčia väčšmi a   väčšmi janičiarov; Hafis baša proti nim bojuje a krik, zmätok,   preklínanie z ich úst sa ozývajúce bolo vidieť a počuť. Hafis baša sa   dorozumel so srbskými junákmi; Sáva Markovič im všetko rozpovedal a   turecké vojsko hynulo ako prach na púšti pred veľkým vetrom.
+    </tei:p>
+    <tei:p>
+     Janičiari sa dali na útek so zlosťou pobúrenými prsami na   vlastného vodcu: lebo v Uhorskej zhynulo ich vojsko, a teraz bolo zas   na prach zotreté. I strhli sa daktorí, a najprv obkľúčili Hafisa,   akoby sa bol so Srbmi spojil, rozťali mu hlavu i zutekali.
+    </tei:p>
+    <tei:p>
+     Hafis baša padol z koňa; Srbíni sa rozutekali za janičiarmi a len   dve osoby zostali na poli bitky. Bol to starý Sáva a Milica. A keď   táto videla padajúceho Janka, skríkla, omdlela a padla. Starý Sáva   volá: „Áno, raduj sa, dieťa moje, krič víťazstvo, volaj, až sa hlas   tvoj k nebu vyšinie!“ A potom, akoby sa chcel schýliť k jej uchu,   pošepky hovorí: „Počuješ, dieťa moje? Slnce zase nad Srbiou vstáva,   aby viac nezapadlo!“ Ale starec len teraz pozoruje, že jeho dieťa,   Milica, je nie pri ňom, lebo opojený radosťou nad víťazstvom jej pád   nezbadal. I rozprestiera teda ruky, habká dovôkol, ale Milica je nie   pri ňom. I zatrasie sa srdce v jeho starých prsiach, i pohne sa na   krok s vystretými rukami, zohne sa, rukou jej po tvári prebehne i   zvolá: „Zdvihni sa, dieťa moje, zdvihni! Dušman uteká a Srbia   vstáva!“ - Ale Milica neodpovedala. Starý nechcel veriť, že by sa čo   mohlo stať jeho chovanici, i čaká, čaká, ale ona sa nepohýna.
+    </tei:p>
+    <tei:p>
+     Zas to preletelo ako strela jeho dušu, na radosť nastúpil smútok;   osamotený starec volal, ale nik neprichádzal na pomoc i nevidel, že   tmavá noc zastrela svojím krídlom šíru, širokú zem, i necítil, že   povetrie ochladúvalo, lebo rozpálený a nevediac, či sa má radovať, či   smútiť, nič necítil, čo sa okolo neho dialo. I kľakol k Milici,   položil raz svoje ucho, raz svoju ruku na jej srdce, skusoval, či je   ešte živá, či mŕtva, a zbadajúc slabé bitie srdca, ako v šialenstve   zavolal: „Ona nesmie umrieť, kým nevypočuje, že krv Sávu Markoviča   vyslobodila Srbiu!“ I potrhol ju silne, i ovial ju z druhej strany   večerný studenkavý vietor, a tak sa začala voľne hýbať, až pomaly,   pomaly prichádzala k sebe. Starý Sáva volal: „Počuješ, dieťa moje?   Srbia víťazí; krv moja oslobodila Srbiu!“
+    </tei:p>
+    <tei:p>
+     Ale Milica mu nedala odpoveď; chytila ho za ruku: „Poď, otec,“   pošepnúc viedla neboráka slepého starčeka, viedla ho, až ho doviedla   na miesto, ktoré bolo jej duši také známe a také strašné.
+    </tei:p>
+    <tei:p>
+     Tam zastali a Milica vážne hovorila: „Otec Sáva, tu leží syn tvoj   zabitý, dorúbaný za neodvislosť Srbie. Otec, on splatil vinu, vezmi   nazad svoje kliatby!“
+    </tei:p>
+    <tei:p>
+     „Kto tu leží?“ spýta sa zamyslený Sáva, neveriac jej slovám.
+    </tei:p>
+    <tei:p>
+     „Tvoj syn Janko!“
+    </tei:p>
+    <tei:p>
+     „Môj syn Janko?“ i usmial sa pritom. „Či nevieš, dieťa moje, že   môj syn Janko Srbiu vyslobodil, že on žije, ničiac Turkov, a žiť   bude, kým pieseň srbská nezahynie?“
+    </tei:p>
+    <tei:p>
+     „Otec, nemýľ sa! On splnil slovo a jedným činom zmyl svoje viny;   otec, vezmi kliatbu svoju nazad, bo tvoj syn na to čaká, hoc tu mŕtvy   leží pod tvojimi nohami.“
+    </tei:p>
+    <tei:p>
+     A starý Sáva sa len teraz zdal rozumieť Miliciným slovám. Striasol   sa, hlava sa sklonila, ruky sa rozostreli, akoby chceli neprítomnú   osobu objímať, a smutným, prenikavým, až do srdca prehárajúcim hlasom   ústa jeho volali: „Dieťa moje!“ A prsia tie nikdy viacej hlasu   nevydali.
+    </tei:p>
+    <tei:p>
+     Na päte rudnických hôr v krvi sa zhliada biely mesiačik; v krvi   leží dorúbaný Janko a na ňom spočíva mŕtvy otec Sáva Markovič. Pri   nich kľačí na kolenách devica Milica; oko jej neplače, ruky jej dolu   visia a ústa šeptajú: „I bol horší od Turčína, i Boh mu neodpustil, i   zhynul ako zradca - a ja som ho tak kochala - tak ľúbila -“
+    </tei:p>
+    <tei:p>
+     I pozdvihla ruky dohora ako anjel, i povzniesla oči k nebu ako   anjel - a bledý tichý mesiačik sa v nich zhliadal i pomáhal smútiť   úbohej Srbianke.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>
