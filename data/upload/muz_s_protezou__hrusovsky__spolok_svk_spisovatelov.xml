@@ -1,0 +1,2395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk2000495" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Muž s protézou : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:20698550">
+     Hrušovský, Ján (1892 - 1975)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     22241
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Hrušovský, Ján
+     </tei:author>
+     <tei:title>
+      Muž s protézou
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Vydavateľstvo Spolku slovenských spisovateľov
+     </tei:publisher>
+     <tei:date>
+      2000
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Hrušovský, Ján
+     </tei:author>
+     <tei:title>
+      Muž s protézou
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1925
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-12-17">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Muž s protézou
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Prípad poručíka Seeborna
+   </tei:p>
+   <tei:quote>
+    <tei:p>
+     Prv než som dal túto prácu do tlače, rozpovedal som jej   obsah dobrému priateľovi a prísnemu sudcovi, ktorého mienku si   nadovšetko vážim. Vyčítal mi, prečo sa môj dej pohybuje v cudzom,   navyše ešte rakúskom prostredí, ktoré je nášmu cíteniu a celému nášmu   myšlienkovému svetu vzdialené; bolo by vraj primeranejšie, keby som   nechal dej sa odohrávať v našom prostredí. Na to by som mohol   jednoducho odpovedať, že udalosť sa odohrala v Rakúsku a ja teda   musím sa držať pravdy. Myslím však, že nemá vôbec nijaký význam, či   sa všetko odohralo tam alebo tu, zápisky Maximiliana Seeborna   pokladám za ľudský dokument, ktorý nemá s nacionálnou chúlostivosťou   nič do činenia a zaslúži si, aby nebol na úkor skutočnosti   pozmeňovaný. Nezmieňujem sa o tom preto, že by som svojej práci   pripisoval nejakú dôležitosť a zvláštnu cenu, ide mi len o to, aby   konečne aj u nás bola vyslovená zásada nezávislosti beletrie od   panujúcich politických predsudkov.
+    </tei:p>
+    <tei:p>
+     V Bratislave 1. decembra 1924.
+    </tei:p>
+    <tei:p>
+     JÁN HRUŠOVSKÝ
+    </tei:p>
+   </tei:quote>
+   <tei:div type="chapter">
+    <tei:head>
+     NA ÚVOD
+    </tei:head>
+    <tei:quote>
+     <tei:p>
+      Kto bol Seeborn?
+     </tei:p>
+     <tei:p>
+      Poručík v mojej stotine. Práporčík Niki ho nazval v ktorejsi   pokročilej hodine barónom Rébusom, a toto meno mu odvtedy navždy   prischlo.
+     </tei:p>
+     <tei:p>
+      Nikiho inšpirácia bola vcelku šťastná, lebo náš Seeborn bol naozaj   rébusom. Aspoň pre nás obyčajných vojakov. Raz vážny, uzavretý, potom   bez akéhokoľvek dôvodu veselý, zhovorčivý, o chvíľu roztúžený, hneď   zas roztržitý, až mrzutý... Jedným slovom človek nepreniknuteľných   nálad, netušených hĺbok a nepreniknuteľných, tajov. Jeho chrabrosť   bola bezpríkladná a mužstvo ho zbožňovalo s dojemnou láskou, ktorá   robí v bitke i z tej najchabšej chásky neohrozených hrdinov.
+     </tei:p>
+     <tei:p>
+      Drobná charakteristika Seebornovej odvážnosti:
+     </tei:p>
+     <tei:p>
+      V novembrovej ofenzíve roku 1917, niekoľko dní pred smrťou,   šturmoval na benátskom fronte so svojou čatou talianske pozície na   hore Asolone. Napochytre spravené drôtené prekážky kanonáda už   nadobro rozhádzala, guľomety štekali len zriedka, praskanie pušiek   ustávalo... Spustošenie po bubnovom ohni bolo hrozné na všetkých   stranách. A vlna šturmujúcich sa neodvratne blížila k znivočeným   zákopom. Seeborn zrazu zbadal, že z rozvalín vybehujú bersaglieri v   červených fezoch, zoskupujú sa a stroja sa na protiútok voči odvážnej   čate. Ak sa im to podarí, Seebornovci sú stratení, lebo ich útok   viedol do vŕšku. Už počul ojedinelé posmeľujúce výkriky, videl   napriahnuté ručné granáty, zašľahol i plameň z ústia pušky... ešte   krátka chvíľka života... keď dvoma-tromi nadľudskými skokmi vnikol   medzi bersaglierov, zúrivo šľahajúc bičíkom napravo, naľavo, kam len   zasiahol. Poručíkovou odvahou prekvapený nepriateľ prišiel do   pomykova, ustúpil a zaraz sa i vzdal, lebo aj Seebornovi ľudia boli   už na mieste. Len vtedy Seeborn zbadal, že šturmoval iba bičíkom a že   bol vlastne načisto bezbranný.
+     </tei:p>
+     <tei:p>
+      Áno, dnes je už mŕtvy.
+     </tei:p>
+     <tei:p>
+      Na sklonku rakúsko-uhorskej ofenzívy proti Talianom to bolo,   sedemnásteho novembra 1917... Jeden z najhroznejších dní našich   bojov. K dispozícii som mal dve zdecimované stotiny a s nimi som   musel podniknúť onen šialený útok na strmé svahy Col Bonata pod horou   Asolone, o ktorom sa v soľnohradskom pluku ešte dlho hovorilo.
+     </tei:p>
+     <tei:p>
+      Seeborn padol na sedem krokov od Talianmi obsadenej čiary, vo   chvíli, keď sa s hŕstkou landlerov rútil na štekajúci guľomet.   Odmlčal sa a klesol na zem.
+     </tei:p>
+     <tei:p>
+      - Pomôž mi! Ranili ma! — zakričal na mňa s preblednutou tvárou,   omakávajúc si ranené miesto. Bol to smrteľný priestrel brucha.
+     </tei:p>
+     <tei:p>
+      Nemohol som mu pomôcť. Bolo treba ďalej napred. Seeborn hľadel za   mnou rezignovane, bez výčitky...
+     </tei:p>
+     <tei:p>
+      Na druhý deň som prezeral jeho pozostalosť. Nebolo toho veľa.   Strieborná tabatierka s korunkou nad monogramom, tri tarbuká, asi   tristo korún v drobných bankovkách, hodvábna biela vreckovka, zopár   listov, ženská fotografia a tenká, husto popísaná knižočka:   Seebornove zápisky.
+     </tei:p>
+     <tei:p>
+      Že si Seeborn viedol zápisky, bolo pre mňa prekvapením. Po prvé,   nikdy sme ho nevedeli písať a po druhé, sám sa vysmieval práporčíkovi   Nikimu, že si svedomite zapisoval do knižočky udalosti dňa. Okrem   toho bol akýkoľvek, len nie sentimentálny a o živote sa zavše   vyjadroval až trápne drsno. Na roztúženejšie struny udieral len po   výdatnom množstve alkoholu. Cigary sme si svorne podelili, knižočku   som si ponechal — tak bolo určené na poslednej strane — a ostatné   veci som poslal na udanú adresu. Tak si to žiadal c. a kr. poručík.   Maximiliánvon und zu Seeborn.
+     </tei:p>
+     <tei:p>
+      Predo mnou ležia jeho zápisky a duševný obraz Míny z Riedenburgu.   Stúpa z nich konvalinková vôňa a v ušiach mi znie Seebornov príjemný,   hlboký hlas...
+     </tei:p>
+     <tei:p>
+      Dobrý, úbohý barón Rébus... A nadovšetko veľmi úbohý...
+     </tei:p>
+     <tei:p>
+      Tieto zápisky nie sú úplné. Začiatok im vôbec chýba. Azda ich sám   Seeborn vytrhol v nejakej nepokojnej chvíli. Podávam ich len s malými   opravami.
+     </tei:p>
+     <tei:p>
+      Autor
+     </tei:p>
+    </tei:quote>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ROZPRÁVA SEEBORN
+    </tei:head>
+    <tei:quote>
+     <tei:p>
+      Erna spí a ja sa tomu teším. Chcem byť sám so svojimi   dojmami, celkom sám a celkom nerušený.
+     </tei:p>
+     <tei:p>
+      Ech, ako hlúpo hovorím. Nepoznám nijaké dojmy a najmä nepoznám, čo   je to: nechať na seba pôsobiť! Lebo zamenil som srdce za protézu a   žije sa mi lepšie než predtým s tým bláznivým, náladovým krámom.   Skutočne, ako je dobre s takou protézou! Nedal mi ju síce ten hrozný   Michal zo Schwarzwaldu, ale je tu, tá protéza, a pracuje presne ako   stroj.
+     </tei:p>
+     <tei:p>
+      Videl som Mínu. Mínu z Riedenburgu. S Mínou som sa zhováral, Mínu   som odprevádzal domov.
+     </tei:p>
+     <tei:p>
+      Keby som nemal protézu namiesto srdca — hádam by som sa bol veľmi   tešil, ale že mám báječné osvedčenú protézu, bol to pre mňa len dobrý   žart.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Ako nevinne spí Erna. Ako rovnomerne dýcha. Keď ju vidím tak   oddane búvať, vždy vstanem od stola, idem po prstoch k nej, nežne ju   pohladkám po gaštanových vlasoch, nahnem sa nad ňu a načúvam tichému   trepotu jej malého srdca. Ale dnes ma to nevábi, som ustatý,   zunovaný, hlavu mám ťažkú, ospanlivú, odpočinku žiadostivú... Vonku   za mestom obracali seno, azda mi tá sladká vôňa tak stúpila do hlavy.   Veľmi sa podobá vôni konvaliniek. Áno, keď príde jar, všetko vonia   konvalinkami, celý ten široký svet.
+     </tei:p>
+     <tei:p>
+      Ako mi to dnes hovoril náš plukovný lekár?
+     </tei:p>
+     <tei:p>
+      — Chráňte sa rozčuľovania, máte choré srdce!
+     </tei:p>
+     <tei:p>
+      Babrák! Choré srdce! Môže neživá hmota trpieť na nejakú chorobu?   Protéza — a chorá! Povedal, že mám aj nervy otrasené. Zase babrák!   Nervy predpokladajú srdce; niet srdca, niet ani nervov, ako môžem mať   otrasené nervy, keď ich vôbec nemám?
+     </tei:p>
+     <tei:p>
+      Teda — videl som Mínu.
+     </tei:p>
+     <tei:p>
+      Prechádzka pozdĺž delostreleckých kasární. Zmrákalo sa, vzduch bol   vlažný, cigara dobrá, v jazere kŕkali žaby.
+     </tei:p>
+     <tei:p>
+      — Seeborn! — zavolal na mňa niekto od chrbta. Hlas, ktorý ma   kedysi sladkou hudbou uspával, hlas obostretý ľahunkým závojom, hlas   teplý, mäkko sa vlniaci...
+     </tei:p>
+     <tei:p>
+      Obrátim sa a vidím Mínu, ako za mnou rýchlo kráča.
+     </tei:p>
+     <tei:p>
+      — Seeborn... prečo sa skrývaš predo mnou? To nie je od teba   pekné.
+     </tei:p>
+     <tei:p>
+      Hlásila sa ku mne ešte starým „ty“. Ba akým právom?
+     </tei:p>
+     <tei:p>
+      — Neskrývam sa.
+     </tei:p>
+     <tei:p>
+      — Skrývaš.
+     </tei:p>
+     <tei:p>
+      — Nemám príčiny. Myslíte, že mám príčinu?
+     </tei:p>
+     <tei:p>
+      To bola veľká urážka. Pripomenúť dáme neslušné správanie,   odmietnuť prejav dôvernosti a zaprieť minulosť patrí medzi najťažšie   urážky. Také urážky sa obyčajne do smrti neodpúšťajú, ženu krv do líc   aj len pri spomienke, zmenia náklonnosť v najdivokejšiu nenávisť a   vyvolávajú bezohľadnú pomstu. Mína však len pokorne sklonila hlavu a   v tej chvíli pripomínala otroka, ktorý prijíma zaslúžené rany od   svojho pána.
+     </tei:p>
+     <tei:p>
+      — Hneváte sa?
+     </tei:p>
+     <tei:p>
+      Za tú otázku by bola zaslúžila bičom. Ja som však jednoducho   odpovedal:
+     </tei:p>
+     <tei:p>
+      — Hnevať? Či vy neviete, — a tu som sa jej ostro pozrel do očú, —   že mám protézu?
+     </tei:p>
+     <tei:p>
+      Naľakala sa a zbledla. Videl som, že ma nechápe, čo ma obrovsky   potešilo. Potom hodila rýchly pohľad na moje ruky i nohy.
+     </tei:p>
+     <tei:p>
+      — Boli ste ranený? Amputovali vám niečo?
+     </tei:p>
+     <tei:p>
+      Škodoradostne som konštatoval, že sa jej triasol hlas. I zahalil   som sa do dymu cigary, aby nevidela môj posmešný úškľabok.
+     </tei:p>
+     <tei:p>
+      — Nie, nebol som ranený. A jednako ma operovali dobrí lekári.
+     </tei:p>
+     <tei:p>
+      — Kde? Kde?
+     </tei:p>
+     <tei:p>
+      — Hm... vaša chyba, ak neuhádnete, krásna Mína.
+     </tei:p>
+     <tei:p>
+      Krásna Mína asi uhádla a do líc sa jej navrátila červeň. No   odvetiť nemala čo, lebo sú otázky, na ktoré niet odpovede. Okolo nás   sa stmievalo, na krajinu padala teplá hmla, koncert žiab umlkal...   Míne asi zaľahol na srdce veľký smútok, lebo už viac   neprehovorila.
+     </tei:p>
+     <tei:p>
+      Rok, čo som ju nevidel. Celý dlhý úžastný rok, ktorý sa skončil   tým, že mi dobrí lekári museli amputovať srdce. Ale ona je ešte vždy   opojné krásna, mladučká a... Nie, načo o tom hovoriť, nemá to zmysel,   je to celkom zbytočné.
+     </tei:p>
+     <tei:p>
+      Prečo len je taká krásna?
+     </tei:p>
+     <tei:p>
+      Čakal som, že jej na tvári objavím chyby, niečo nepekné, nechutné,   odpudzujúce alebo ešte horšie: zosmiešňujúce. Ale je rozkošná, do   zúfania rozkošná.
+     </tei:p>
+     <tei:p>
+      Stoj! O zúfaní ani reči. Či kedy kto videl zúfať protézu? To by   bolo asi to isté, ako keby zostúpil dobrý Mozart zo svojho   mramorového podstavca na námestí.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Ona ma ľúbi. Ešte vždy ma ľúbi. Na prst jej natiahli zlatú obrúčku   — a predsa ma ľúbi. Je hrdá, zatajuje to, ale je len otvorenou   knihou, v ktorej bez ťažkosti čítam.
+     </tei:p>
+     <tei:p>
+      Vidíš, Mína, teraz mi šľahla mozgom nádherná myšlienka. Čo za   skvelá myšlienka! Uskutočním ju s bezohľadnou dôslednosťou a   vypočítavo ako dravec. Na franforce ti rozdriapem úbohú, smutnú dušu   a prisahám, že sa budem kochať v tvojich trýzňach. Jasať budem,   spievať, tancovať, božstvu obete klásť... rúcho driapať... Lebo   hrozná vie byť protéza mrzáka, keď vnikne do nej iskra najvyššej   extázy.
+     </tei:p>
+     <tei:p>
+      Vieš, Mína, kto som?
+     </tei:p>
+     <tei:p>
+      Pečorin! Druhý Pečorin! Daj si pozor na Pečorina!
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Do čerta! Zase je tu ten ohavný zloduch. Veď je to hrozné! Ako to   lezie za mnou, vkráda sa mi do najhlbších úkrytov duše a nikdy ma   nenechá samotného. Nemôžem prísť na jedinú myšlienku, aby sa tento   zloduch na ňu nevrhol a na márne franforce ju nerozčesal. Prečo   nevynašli aj miesto mozgu protézy! Prečo len sa rodíme s tou odpornou   žltkastou hmotou?
+     </tei:p>
+     <tei:p>
+      A prečo chcem byť Pečorinom? A prečo je to skvelá myšlienka?   Hovorme, cisársky a kráľovský poručík Maximilián von und zu Seeborn!   A neráčme tak zlostne nohou dupkať, lebo sa zobudí hviezda   soľnohradského javiska zo svojho okrídleného sna, a potom bude naozaj   zle. No? Pán poručík?
+     </tei:p>
+     <tei:p>
+      Azda sa len nechceme — rovnakým odplácať?
+     </tei:p>
+     <tei:p>
+      Fuj! Aká podlá, nepekná myšlienka! Nebol by som hoden nosiť kabát   jeho veličenstva.
+     </tei:p>
+     <tei:p>
+      Nezmysel. Mstiť sa Míne, že sa v dvanástej hodine chytila zdravého   rozumu? Hlúposti. A bezhraničná nekonzekventnosť. Veď kto sa tu mstí?   Azda ten, kto si chce takto zaceliť akúsi ťažkú ranu? Ja? Oj, ako rád   by som sa zatriasol nenúteným, ohlušujúcim smiechom, ale sa bojím, že   by sa mi chraptivo dral z hrdla a Erna by sa zobudila.
+     </tei:p>
+     <tei:p>
+      A či azda z dlhej chvíle? Práve taký nezmysel. To už radšej potom   k Schiderovi terlánske piť a poháre o stenu hádzať. Nie, to všetko   nie je to pravé...
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Heuréka!
+     </tei:p>
+     <tei:p>
+      Už to mám! Ó! Ó! Teda len o to ide? Cudzím bôľom sa — kochať?Ánó,   áno. Tá nepochopiteľná, ohavná perverzita spôsobiť komusi blízkemu   veľký bôľ, kochať sa v jeho slzách, sýtiť sa pohľadom na duševnú   trýzeň, tešiť sa potlačenými vzdychmi — a sám jeho bôľom bezhranične   trpieť, súčasne však nachádzať najvyššiu rozkoš vo vlastnom utrpení.   A tu sa líšim od svojho slávneho predchodcu Pečorina. Len neviem, či   sa môžem honosiť touto rozdielnosťou. Neviem, neviem. Pečorin bol   celým človekom. Čo aj zversky bezohľadným, ale celým a do krajnosti   dôsledným. A ja? Nijako sa neviem vyšvihnúť na stupeň jeho   dokonalosti, hoci všetky sily napínam pre tento cieľ. Namiesto jednej   jedinej vášne, jediného veľkého, všetko prenikajúceho pocitu skladám   sa z tisícich najrozdielnejších, najkrajnejších a protipólnych   pocitov. Ach, veď to by ešte nebolo najväčšie nešťastie. Lenže tých   tisíc urputných faktorov stojí v stálom rozbroji, vo večitom boji a v   takej mäteži, že mi hlava často hrozí prasknutím. V takýchto chvíľach   sa mi vidí, akoby som stál na kraji čiernej, zívajúcej priepasti... a   závrat ma chytá a šialená túžba vrhnúť sa do nej, zaniknúť, nadobro   zaniknúť...
+     </tei:p>
+     <tei:p>
+      Ticho, ticho, pán poručík Maximilián von und zu Seeborn, neráčte   zabúdať na slová babráka-lekára. Ani na to, že ste sa ráčili honosiť   protézou, a to len pred krátkou chvíľočkou.
+     </tei:p>
+     <tei:p>
+      Neluhal som? Hm, neviem... nič neviem...
+     </tei:p>
+     <tei:p>
+      Dobrú noc, Seeborn — maličký, úbohý človiečik.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Bol som znova na druhej strane. Mínu som nevidel. K Erne som bol   nevľúdny, ba zlomyseľný. Erna sa rozplakala, a pre mňa sú ženské slzy   hotovým peklom.
+     </tei:p>
+     <tei:p>
+      Sedel som s Ernou u Tomaselliho. Námestie Viktora Ľudovíta bolo   mŕtve, nad strechami sa triasli vlny rozžeraveného vzduchu, nikde ani   človeka, ani zlomok ruchu. Na mesto sa z plamenných nebies spustilo   tupé ticho, ktoré akoby pochovalo všetky známky života. Psie dni.
+     </tei:p>
+     <tei:p>
+      Erna bola pohrúžená do Simplicissimu a občas si občerstvovala   smädné pery malinovou šťavou. Ja sám som hľadel bezmyšlienkovite na   ulicu. Aké nudné...
+     </tei:p>
+     <tei:p>
+      Aby som zahnal ťažkú olovenú nudu, venujem pozornosť Erniným   ústam. Tie nie sú nudné. Ó, naopak. Sú tizianovsky vykrojené a na   zbláznenie zmyselné. Ale vždy mám akúsi nepochopiteľnú hrôzu pred   nimi. Ich červeň mi pripomína sladkú krv a tie čudné bájky o   vampíroch.
+     </tei:p>
+     <tei:p>
+      Dlho, dlho som sa díval na ne. Susedný stôl medzitým obsadili   hostia, ani som ich nezbadal. Červeň Erniných úst ma načisto   fascinovala. Hádam ma omámila aj dusivá atmosféra kaviarne... zrazu   cítim, že strácam hlavu. Prudko sa nahnem k Erne a bozkám ju priamo   na ústa.
+     </tei:p>
+     <tei:p>
+      — Ale, Seeborn, čo sa ti robí? Tu v kaviarni, pred cudzími...   Plöm-plöm?
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Plöm-plöm.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Erna je rozkošné decko. Nenahnevala sa, iba sa začudovane   usmiala. Ostatne — na vine boli okolnosti, a nie ja, to veľmi dobre   chápala.
+     </tei:p>
+     <tei:p>
+      — Úbohý Seeborn, — ľutovala ma.
+     </tei:p>
+     <tei:p>
+      O chvíľočku:
+     </tei:p>
+     <tei:p>
+      — Pozri sa na tú dámu v druhom kúte kaviarne, pozri sa dobre. Tá   vyvaľuje oči!
+     </tei:p>
+     <tei:p>
+      — Nech vyvaľuje.
+     </tei:p>
+     <tei:p>
+      — Haló, Max! Veď sa tá na teba díva. Počuješ?
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Keď som sa obrátil k označenému stolu, stretol ma pohľad plný desu   a nechápavosti.
+     </tei:p>
+     <tei:p>
+      Zdvorilo pozdravím Mínu a jej snúbenca.
+     </tei:p>
+     <tei:p>
+      — Ty ju poznáš? — pýtala sa ma Erna neženírovane.
+     </tei:p>
+     <tei:p>
+      Neodpovedal som. Mínin pohľad mi hovoril, že prebdela noci, a tie   prebdené noci že ju mučili tisícorakými rozpomienkami.
+     </tei:p>
+     <tei:p>
+      — Ako sa trápila... ako sa trápila... — šepcem si pre seba a   kochám sa predstavou tohto bôľu.
+     </tei:p>
+     <tei:p>
+      — Čašník! Pohárik chartreuse! — volám hlasno, len aby som potlačil   víťazoslávny úsmev. Ale v tú chvíľu niečo vzdorovite zasvietilo Míne   v očiach. Odvrátila sa, aby sa odteraz venovala už len svojmu vážnemu   spoločníkovi. Hovorila nápadne hlasno, s vyzývavou, až protivnou   veselosťou, smiala sa na každom hlúpom slove... slovom, správala sa   ako každá soľnohradská kokotka.
+     </tei:p>
+     <tei:p>
+      Ó, drahá, maj sa na pozore! Smeješ sa, ale tvoja duša je smutná,   ustatá, a ja nebudem šetriť tvoje slabosti.
+     </tei:p>
+     <tei:p>
+      Zdvihol som hlavu do výšky a strmo sa zahľadel na Mínu. Zaraz   pocítila môj pohľad, chcela sa mu vyhnúť, ale bol silnejší. Prinútil   ju stretnúť sa s ním... Prečo hľadíš, drahá, tak prestrašene? Áno,   ešte si nevidela človeka s protézou namiesto srdca? Obzri si ho teda   dobre.
+     </tei:p>
+     <tei:p>
+      Ale večer! Čo bude večer! Preveliký Bože, ako sa bojím tých   nočných chvíľ! Napriek úbohej, biednej protéze...
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Môj tabak je vlhký, lebo mi podchvíľou medzi písaním vyhasína   fajočka. Vyťahám za uši galgana Franca. Ani Erna sa o nič nestará —   ak nie je v divadle, manikúruje si nechty a leňoší na pohovke. Všetko   sa spolčuje proti mne.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Ernin úspech bol skvelý. Štyrikrát ju vyvolali pred rampu,   a v svojom fantastickom ostužkovanom kroji je ozajstným škovránkom.   Aj kytice jej hádzali k nohám mladí nadšenci a starí paralytici v   lóžach. Najmä tí poslední. Jeden z nich, barón Wolffegg, sa vyhol z   lóže tak smelo, že stratil rovnováhu a museli ho za konce fraku   vtiahnuť nazad.
+     </tei:p>
+     <tei:p>
+      Blázni.
+     </tei:p>
+     <tei:p>
+      Celý čas patrila mne. Všetko, čo sa vášnivého a ozajstného rinulo   z jej tragicky modulovaných slov, vzťahovalo sa na našu drobnú   izbietku. Každý jej pohyb hovoril len o našej láske, každý divadelný   bozk o našich nočných chvíľach. A šminka len nedostatočne zakrývala   nervózne chvenie lícnych svalov, čo u Erny znamená blízkosť pudových   búrok. A tie úsmevy, čo vysielala ku mne do lóže, hovorili o   predtuche rozkošníckych hodín... Julietta hrala svojmu lordovi   Amandalovi, hrala iba jemu — malému poručíkovi s protézou namiesto   srdca.
+     </tei:p>
+     <tei:p>
+      Čo z toho?
+     </tei:p>
+     <tei:p>
+      Prečo som sa zachvel a prečo sa mi vzbúrilo vnútri niečo   odbojné?
+     </tei:p>
+     <tei:p>
+      Ernin triumf ma už nenapína tou hrdosťou, čo prv... Ech!
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      V prestávke blúdim foyerom a posilňujem sa v bufete dúškami sĺz   hriešnej Magdalény, sladkých a zlatom skvúcich. Pripojil sa ku mne   major Hanse, tučný, navoňavkovaný, s plešinou ako žiariaci úplnok.   Vyzeral podnapitý a šíril zápach sladkastého alkoholu, zmiešaného s   vôňou pižma.
+     </tei:p>
+     <tei:p>
+      Naširoko vypleštenými očami hltal poloodhalené prsia krásavíc.
+     </tei:p>
+     <tei:p>
+      — A nakazené sú všetky, beštie, — mrmlal s nenávisťou odmietnutého   milovníka. — Deväťdesiatdeväť percent Soľnohradčaniek je nakazených   luesom a inými hnusnými chorobami. Či tomu veríš, Seeborn?
+     </tei:p>
+     <tei:p>
+      — Myslíte?
+     </tei:p>
+     <tei:p>
+      — Že či myslím? Hahaha... Naivný Seeborn! Všetky, všetky sú   nakazené bez výnimky. Počnúc od dvornej dámy toskánskych arcikňažien   až po poslednú neviestku tamhore pod hradom. Celá armáda rainerov,   strelcov, dragúnov a cisárskych jágrov sa prevalila cez ich chlipne   telá... A ty ešte veríš v panenskosť Soľnohradčaniek?...   Hahaha...
+     </tei:p>
+     <tei:p>
+      Smial sa potupným chechotom, až mu na krátkom, mäsiarskom krku   žily navreli. A ja som sa musel zdržiavať, aby som mu fľašou   magdalénskeho nerozdrvil spotenú lebku.
+     </tei:p>
+     <tei:p>
+      — Vidíš tamtú veľkú brunetku s ružovým šálom na pleciach? Na   dôstojníckych plesoch ju vidíš tancovať s excelenciami a v noci sa k   nej cez okno do spálne zakrádajú nezrelí práporčíci. Má zálusk len na   mladé, čerstvé mäso. Vieš, ešte také chrumkavé... Alebo sa dobre   prizri malej barónke z Aigensteinu, ružovej, rozkošnej osôbke s   priblblým manželom, oddávna impotentným. Oddáva sa každý deň inému,   naposledy nadporučíkovi Hellerovi. O štyri dni nato musel s kvapavkou   k lekárovi...
+     </tei:p>
+     <tei:p>
+      Vypil pohárik poľského šnapsu, utrel si vreckovkou ožltnuté, cez   ústa visiace a slinovou penou pokryté fúzy.
+     </tei:p>
+     <tei:p>
+      — Tamtá tiež... tá s diadémom na nevinnej, anjelskej hlávke. Chodí   takmer každý večer na izbu do hotela Habsburg. Stačí sa jej prizrieť   na korze niečo vyzývavejšie do očú, a hneď ti žmurkne, čo znamená, že   ju máš nasledovať. Ináč ju nájdeš v najexkluzívnejších   spoločnostiach, jej muž je dvorným radcom. Tamtá moletka... bože, tú   môžeš mať každú chvíľku, ak len si na niečo súci. Len vraj vyžaduje   hrôzu od človeka...
+     </tei:p>
+     <tei:p>
+      Ešte nedávno som ľahostajne načúval jeho oplzlému, bezmocnému   táraniu, a dnes mi len tak trhá rukou búšiť mu plnou päsťou do tej   tučnej, alkoholom presiaknutej tváre.
+     </tei:p>
+     <tei:p>
+      Prečo sa rozčuľujem? Neprestajne siaham na rukoväť šable...   hnusník, hnusník... Ale neviem sa zriecť akejsi perverznej   zvedavosti, niečo ohavné ma núti opytovať sa ho, dozvedať sa   podrobnosti, počuť mená...
+     </tei:p>
+     <tei:p>
+      — I tá?
+     </tei:p>
+     <tei:p>
+      — Aj tá.
+     </tei:p>
+     <tei:p>
+      — Tá tiež?
+     </tei:p>
+     <tei:p>
+      — Uff! Vraj že či!
+     </tei:p>
+     <tei:p>
+      — Myslíte, i kontesa Melánia? Vidíte ju tam pod zrkadlom...
+     </tei:p>
+     <tei:p>
+      — Hahaha...
+     </tei:p>
+     <tei:p>
+      — A čo s Hollenovou?
+     </tei:p>
+     <tei:p>
+      — Zahanbí tú najposlednejšiu soľnohradskú neviestku.
+     </tei:p>
+     <tei:p>
+      — A... a... Mína z Riedenburgu?
+     </tei:p>
+     <tei:p>
+      — Hádam ju poznáš? Myslíš tú s tými veľkými srnčími očami?   Kamarát, o nič lepšia od druhých.
+     </tei:p>
+     <tei:p>
+      — Pane, vy ste opitý! — skríkol som v návale slepej zúrivosti.
+     </tei:p>
+     <tei:p>
+      — Ale... ale...
+     </tei:p>
+     <tei:p>
+      — Komisný lump! — revem ďalej a už tasím šabľu. Keby neboli   priskočili ku mne kamaráti od pluku, bol by som ho zabil.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      K pluku, ktorý je v ťažkom boji na trentinskom úseku, depešou   povolali pochodový prápor, aby vyplnil ťažké straty. Má odísť už   zajtra. Dnes bola poľná omša na širokom priestranstve pred dómom.   Celé mesto prišlo na odobierku, ulice boli už od rána preplnené. Veľa   uplakaných a starostlivých tvárí, lebo vojaci idú do zrejmej záhuby,   premnohí z nich sa celkom iste už nevrátia. Hrozné pomyslenie, že z   týchto silných, životu sa tešiacich ľudí zahynie na bojišti podľa   približných štatistických výpočtov dobrých dvadsaťpäť percent a   nijaká moc na svete od nich túto záhubu neodvráti. Každý štvrtý   človek prepadol smrti, áno, každý štvrtý kráča do pažeráka zániku,   neodvratne, nezastaviteľne, podľa strašných zákonov vojny, vyvodených   na základe chmúrnych skúseností. A najhroznejšie na tom je, že pri   pohľade na týchto zdravých, silných landlerov mieša sa do mysle už aj   predstava zmrzačených; hnijúcich tiel...
+     </tei:p>
+     <tei:p>
+      Smiali sa len dievčatá, ktorým je každé vzrušenie vítané.
+     </tei:p>
+     <tei:p>
+      Veliteľ Prvej stotiny nadporučík Hölzl si vypýtal dovolenku, že sa   napochytre odoberie od svojich, a tak mi pripadla úloha viesť jeho   stotinu na omšu.
+     </tei:p>
+     <tei:p>
+      Kráčali sme za zvukov dychovej hudby v plnej výzbroji špalierom   mlčanlivého ľudu a zem len tak dunela pod rovnomernými údermi ťažkých   bagančí. Podobalo sa to tupým úderom na veko rakvy a znelo to tak   isto beznádejne. Ó, vojna je hrozná.
+     </tei:p>
+     <tei:p>
+      A slnko svietilo veselo, ako keby ničoho smutného nebolo pod jeho   žiarivou tvárou.
+     </tei:p>
+     <tei:p>
+      Cesta nás viedla ulicou, kde býva Mína z Riedenburgu. Práve popod   ich vilu nás viedla. Keď som bol so svojou stotinou blízko nej, hudba   začala hrať ťažkomyseľný, melancholický pochod nášho pluku, ktorý   znie skôr smútočne ako bojovne.
+     </tei:p>
+     <tei:p>
+      Mína stála na balkóne a kývala bielym ručníkom. Teraz, teraz ma   zbadala. Ručník jej vypadol z rúk, líca pokryla bledosť... Či sa   nezachvela a či nehľadela na mňa načisto zmätená? Pozdravil som   priateľsky, s ľahunkým úsmevom a s veľkým zadosťučinením som videl,   ako sa zachytila zábradlia.
+     </tei:p>
+     <tei:p>
+      Mína si myslela, že odchádzam na bojište, a stačilo spraviť   posunok, aby som ju vyviedol z bludu.
+     </tei:p>
+     <tei:p>
+      Neupozorňoval som ťa, drahá, aby si si dala dobrý pozor pred   Pečorinom, tvrdým a bezohľadným?
+     </tei:p>
+     <tei:p>
+      Podobáš sa, drahá, nočnému motýľu, ktorý letí voslep do ohňa.   Popáliš sa!
+     </tei:p>
+     <tei:p>
+      Urobil som si malý výlet do Hellbrunnu. Dekoratívny anglický park   ma nudí, ale výhľad z Monatschlösslu je nádherný. Som schopný celú   hodinu nehybne stáť na najvyššej skale a kochať sa vznešenou   perspektívou. Slávne mesto ti prichodí ako rozprávka z rytierskych   čias a očakávaš, že sa každú chvíľu zo stromoradia vynoria   ohalapartňovaní heroldi.
+     </tei:p>
+     <tei:p>
+      Lavička pri zábradlí bola už obsadená. Sedela na nej Mína z   Riedenburgu s pritvorenou knihou v lone, hľadiac do neznáma. Zdala sa   smutná a pohrúžená do myšlienok. (Viem, viem... to tvoje znepokojené   srdce rozvírilo kopu myšlienok, predstáv a polovyblednutých, zle   pochovaných obrazov...)
+     </tei:p>
+     <tei:p>
+      — Dovolíš? Ustal som.
+     </tei:p>
+     <tei:p>
+      Tykal som znova s tou istou samovoľnosťou, s ktorou som nedávno   zaprel všetko dôverné medzi nami. Ľahunko som pozdravil a prisadol   som.
+     </tei:p>
+     <tei:p>
+      — Seeborn! — prekvapene jej vykĺzlo z úst, až sa jej líca   zarumenili. Nie, nemýlil som sa, myslela na mňa, je načisto zmätená,   čoskoro bude v radostnom očakávaní niečoho nekonečne sladkého — a ja   mám protézu.
+     </tei:p>
+     <tei:p>
+      — Áno, Seeborn, — potvrdil som zdvorile. Maximilián von und zu   Seeborn, alias Pečorin.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Ešte vždy sa nespamätala z veľkého prekvapenia a nervózne sa   pohrávala s knižkou. Rumeň v tvári postupne zmizol, aby ustúpil   dojímavej, aristokratickej bledosti. Ale nozdry, tie rozkošné ružové   nozdry — dôkaz rasy i temperamentu — sa jej neprestali chvieť, aj   prsia sa jej ešte vlnili vnútorným pohnutím. Hlboko pod nami   zarinčala šabľa, sprevádzaná krátkym dievčenským smiechom. Potom zas   tajnostné ticho a uspávajúci pohľad na sýtu zeleň cisárskeho parku.   Na Míninom prste sa jagala zlatá obrúčka, práve na tom pršteku, ktorý   som kedysi tak zbožne dvíhal k ústam. Prečo sa jagá tak   impertinentne?
+     </tei:p>
+     <tei:p>
+      — Áno, je to úžasná náhoda, že sme sa stretli práve na tomto   mieste, kde sme sa pred dvoma rokmi spoznali a pred rokom videli   naposledy — prerušil som ticho a usiloval sa dodať svojmu hlasu tupý   svetobôľ.
+     </tei:p>
+     <tei:p>
+      Kus ticha.
+     </tei:p>
+     <tei:p>
+      — Pred dvoma rokmi... — opakujem pomaly, — práve pred dvoma rokmi.   Bolo to práve o takomto čase, aj vtedy svietilo slniečko, ticho bolo,   kdesi pod nami zarinčala šabľa a ozval sa krátky dievčenský smiech...   tak isto ako pred chvíľkou. Čudné...
+     </tei:p>
+     <tei:p>
+      Ďalší kus ticha. Len Mínine prsia ťažko pracovali a bolo počuť   tlkot nepokojného srdca.
+     </tei:p>
+     <tei:p>
+      Môjho, samozrejme, nie, veď mám namiesto srdca protézu.   Míninho.
+     </tei:p>
+     <tei:p>
+      — Myslíš, že náhoda? — mrmlala, reagujúc na moju poznámku o   náhode. — Neverím v takéto náhody. Ty, Seeborn, — a pritom sa   obrátila prudko ku mne, — nechápeš, že sme sa museli práve na tomto   mieste stretnúť? Sú miesta, ktoré priťahujú človeka neodolateľnou   silou v každej chvíli, za každých okolností, len mocou rozpomienok.   Na takých miestach ostáva vždy niečo z nás, niečo osobné, z najhlbšej   híbky duše, z najukrytejších tajností srdca... Také miesta sa nám   zdajú priam živé, každý predmet rozpráva, šepká, spomína,   pripomína...
+     </tei:p>
+     <tei:p>
+      Mína z Riedenburgu povedala niekoľko pravdivých slov. Ale čo z   toho, keď dobrí lekári vybrali poranené, znivočené srdce, a vložili   na jeho miesto protézu? Pre mňa sú také miesta mŕtve, hľa, nič mi   nerozprávajú, nič nešepkajú, nespomínajú, nepripomínajú...
+     </tei:p>
+     <tei:p>
+      — A potom, — pokračovala Mína vždy dôraznejšie, — či nechápeš, že   sme sa i pre niečo iné museli stretnúť? Museli! Medzi nami musí byť   všetko čisté a jasné. Ani kúsok tieňa, ani kúsok pochybnosti nesmie   ostať medzi nami. Nesmie! Rozumieš?
+     </tei:p>
+     <tei:p>
+      — Nechápem. Či nie je všetko čisté a jasné? Je čo len kúsok tieňa   medzi nami? Ty máš snúbenca, rozpomienky, živé miesta s ostatkami   duše, a ja mám protézu. Všetko sa vyrovnáva. Kde sú komplikácie?
+     </tei:p>
+     <tei:p>
+      Hlas mi znel vypočítavo chladne. Mínino čelo sa zamračilo.
+     </tei:p>
+     <tei:p>
+      — Dobre, Seeborn, teda mi nechceš rozumieť?
+     </tei:p>
+     <tei:p>
+      — Mňa tiež nechápali.
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Max, Max (hľa, náhle ma oslovila starým, dôverným menom), veď ty   ani nevieš, čo leží za mnou, čo všetko leží za mnou.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Viem veľmi dobre, čo všetko leží za ňou, a s nevýslovným   potešením konštatujem, že len s veľkou námahou zadržuje slzy, ktoré   sa jej už-už idú potôčkom roniť dolu lícami. Len to nie! Preboha, len   to nie. Na plačúce ženy je groteskný, ba odporný pohľad, a keby   vedeli, ako im plač zohyzďuje tvár, nikdy by neplakali pred mužom.   Len si pomyslieť: skrivené ústa, opuchnuté viečka, zrumenený konček   nosa. Ale ženy nikdy nemali opravdivého krasocitu, večne budú kriviť   ústa pred mužmi a večne budú robiť peklo na zemi. Ach áno, hrozné,   hrozné, nespôsobné plemä.
+     </tei:p>
+     <tei:p>
+      — Max, Max, tento rok...
+     </tei:p>
+     <tei:p>
+      Či som nehovoril? Už to šklbe ústami, tými drobnými, sladkými   ústami, hrdinstvo Míny z Riedenburgu sa končí. Vyhŕklo veľkými,   bohatými kvapkami zo stemnených očí.
+     </tei:p>
+     <tei:p>
+      Mína plače. Tíško, ľahunko, neodolateľne. Moje veľké obavy, lepšie   povedané, moja perverzná škodoradosť vidieť Mínu so skrivenými   ústami, so zarumeneným končekom nosa, odpudzujúcu, znetvorenú — boli   neopodstatnené. Mína neposkytovala groteskný pohľad. Tvár jej ostala   nedotknutá, len práve z očí to prúdi sladkými, krištáľovými   pramienkami a stráca sa v záhyboch plášťa. Plačúca socha. Slzy   Magdalény. Teraz už viem, prečo sú také sladké.
+     </tei:p>
+     <tei:p>
+      A miernym hlasom rozpovedala mi celú svoju banálnu históriu —   históriu tisícich, státisícich duší, chabých, malinkých, ktoré v   jednej jedinej chvíli podľahli, zabudli na to, že príde, celkom iste   príde chvíľa, keď sa ono ozve vášnivým volaním. Týmto   poľutovaniahodným dušiam život neprinesie už nič sladké a tajnostné,   veľké mystérium lásky stane sa im jedinou hrôzou a zaniknú biedne   prv, než by boli plnými dúškami okúsili z čaše najvyššej. Ó, ako   kruto, ako neľudsky sa mstí na nich život! Život len víťaznému   prináša obrodenie, slabého rozdrví, zničí, rozgniavi... drahá,   onedlho aj ty klesneš pod jeho úžasnou ťarchou, a mňa, mňa to nebude   bolieť, veď vieš, že v duši nosím záhadu chmúrneho Pečorina.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Keď sme opúšťali aleju tisícročných dubov, na sady klesol ľahunký   súmrak a strašné bralá Untersbergu zahoreli ľúbostným ohňom. Z   bielych letohrádkov ozýval sa roztopašný smiech a niekde v diaľke   zaspieval ktosi roztúžený v sprievode gitary. Po cestičkách kráčali k   sebe pritúlené páriky, z každého kúta sa ozýva volanie lásky, všetko,   všetko vzdychá za láskou...
+     </tei:p>
+     <tei:p>
+      Iba ja mám protézu namiesto srdca a tuto, hľa, Mína z Riedenburgu   skláňa hlavu a momentálne podstupuje ťažký, ukrutne ťažký boj, z   ktorého nevyjde víťazne, veď už aj klesá pod jeho nesmiernym   bremenom. A tak priniesol osud, že moje šance rastú z minúty na   minútu, ale, drahá, už som ťa raz upozornil, že nebudem šetriť tvoje   slabosti. Ľudia, ktorí majú protézu namiesto srdca, nepoznajú   súcit.
+     </tei:p>
+     <tei:p>
+      Dnes som sa kochal v tvojich slzách, zajtra sa budem kochať v   tvojich bozkoch a nakoniec sa budem smiať, smiať, smiať.
+     </tei:p>
+     <tei:p>
+      Lebo to je jediné, čo smie človek s protézou.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Moja záležitosť s majorom Hansem stojí pred čestným súdom. Predsa   som nepokladal majora za takého hlúpeho! Dozvedám sa, že sa vec   zatušuje, ale že ma za trest pridelia k najbližšiemu pochodovému   práporu. Horšie však pochodí starý major, údajne vypadne z   novembrového postupu. A svätosväte čakal vymenovanie za   podplukovníka. Ľutujem, že bol taký hlúpy.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Náhoda ma včera zoznámila s Míniným snúbencom, mladým advokátom   Schröderom z Lineckej ulice. Stalo sa to takto:
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Po tieto dni zasadala superarbitračná komisia a mňa k nej   pridelili vypomôcť stotníkovi Hueberovi z doplňovacieho veliteľstva.   Prehliadky dôstojníkov sa konali v kasárňach Františka Jozefa v   dôstojníckej čitárni pod predsedníctvom starého generála Mandla,   povestného svojou bezohľadnosťou. Najmä na rezervných dôstojníkov   šiel zostra, a keď niektorý nebol naozaj už na smrť chorý, mohol byť   istý, že ho pridelia k pochodovému práporu, ktoré teraz odchádzali   jeden za druhým do poľa.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Proces býval veľmi krátky. Štábneho lekára, dobráka, ani   veľmi nepripustil k slovu. Kládol nešťastníkom jedinú otázku:
+     </tei:p>
+     <tei:p>
+      — Vládzete chodiť, áno alebo nie?
+     </tei:p>
+     <tei:p>
+      Prirodzene, ak len nebola noha dolámaná, každý vládal chodiť, a   tým bolo všetko rozhodnuté.
+     </tei:p>
+     <tei:p>
+      — Berte na vedomie, že ste uznaný za schopného.
+     </tei:p>
+     <tei:p>
+      Na včerajšie zasadanie bolo predvolaných dvadsaťpäť dôstojníkov od   pluku, väčšinou záložných, lebo aktívnym bolo ťažko povaľovať sa v   civile bez zamestnania. Hoci, kto mal usilovné ruky, ľahko si mohol   pri toľkom nedostatku mužských síl nájsť prácu.
+     </tei:p>
+     <tei:p>
+      Zasadali srne v jednom ťahu od deviatej hodiny ráno a o jednej   popoludní ešte vždy ostávalo asi desať dôstojníkov na prehliadnutie.   Najmä vyplňovanie nekonečne dlhých dotazníkov si vyžadovalo veľa   času. Generál vyhladol, poprosil stotníka Huebera na chvíľu o   zastúpenie a zabehol do dôstojníckej menzy niečo si zjesť.
+     </tei:p>
+     <tei:p>
+      Stotník kývol vojakovi pri dverách.
+     </tei:p>
+     <tei:p>
+      — Zavolajte nasledujúceho pána!
+     </tei:p>
+     <tei:p>
+      Odkašlávanie, odŕhanie vonku za dverami a do miestnosti vkročil —   snúbenec Míny z Riedenburgu. Bol trocha preblednutý, ale istým krokom   kráčal k stotníkovi a zastal pred ním s ľahkým úklonom.
+     </tei:p>
+     <tei:p>
+      — Ako sa voláte?
+     </tei:p>
+     <tei:p>
+      — Rezervný nadporučík Viliam Schröder.
+     </tei:p>
+     <tei:p>
+      — Superarbitrovaný?
+     </tei:p>
+     <tei:p>
+      — Minulý rok prvého novembra.
+     </tei:p>
+     <tei:p>
+      Stotník, nervózny od dlhého zasadania a od veľkého hladu,   zahundral si pod fúzy a prehŕňal sa v spisoch.
+     </tei:p>
+     <tei:p>
+      — Boli ste už v poli?
+     </tei:p>
+     <tei:p>
+      — Nebol.
+     </tei:p>
+     <tei:p>
+      Advokátova odpoveď znela akosi stiesnene, aspoň mne sa tak zdalo.   Stotník sa zamračil ešte väčšmi, a hoci sám ešte nikdy nebol pred   nepriateľom, má strašnú zlosť na každého, kto sa vedel vyhnúť službe   na fronte.
+     </tei:p>
+     <tei:p>
+      — Tááák! Aha, tu to máme, dobre. Rezervný nadporučík
+     </tei:p>
+     <tei:p>
+      Viliam Schröder, superarbitrovaný 1. septembra 1914, 1. apríla   1915, 1. októbra 1916... Človeče, veď vy ste cez celú vojnu v   civile!
+     </tei:p>
+     <tei:p>
+      — Trpím na ťažkú prietrž.
+     </tei:p>
+     <tei:p>
+      Stotník opovržlivo kývol rukou a zlostne sa usmial.
+     </tei:p>
+     <tei:p>
+      — Poznáme tieto prietrže. Polovica dôstojníkov trpí na prietrže,   reumatizmy a srdcové záchvaty, len aby nemuseli do poľa. Hanba... Pán   štábny lekár, prosím o dôkladné vyšetrenie.
+     </tei:p>
+     <tei:p>
+      Štábny lekár pristúpil k Schröderovi a poklepal ho priateľsky po   pleciach.
+     </tei:p>
+     <tei:p>
+      — Vyzlečte sa, pán advokát.
+     </tei:p>
+     <tei:p>
+      Načo stotník jedovato poznamenal:
+     </tei:p>
+     <tei:p>
+      — Tu nepoznáme advokátov, tu poznáme len podriadených a   nadriadených. V tomto prípade stojí pred nami rezervný nadporučík   Viliam Schröder. Advokáta Schrödera nemám česť poznať.
+     </tei:p>
+     <tei:p>
+      Ku cti pána Schrödera musím doložiť, že stotníkov veľký hnev ho   nechal celkom chladným. Ani okom nemihol po poslednej urážke. Potom   sa vyzliekol. Pekný chlapík, tento advokát Schröder. Tvrdý, svalnatý,   dobre urastený, ba až trochu prirobustný. Myslím, že by som mohol   žiarliť naňho, keby nie protéza namiesto srdca — a tá hrozná prietrž.   Lebo ozaj mal prietrž, nemožný bol Mínin snúbenec. S takou prietržou   by nevydržal ani v zázemnej službe, nie to ešte v poli, pri toľkých   štrapáciách. Erár by mal len zbytočné výlohy. A mňa sa náhle zmocnila   veľká škodoradosť, že Mína má takého úbohého, poľutovaniahodného   snúbenca, chlapa síce, a jednako nie chlapa na mieste...
+     </tei:p>
+     <tei:p>
+      Štábny lekár sa obrátil k stotníkovi.
+     </tei:p>
+     <tei:p>
+      — Služby neschopný.
+     </tei:p>
+     <tei:p>
+      Stotník prudko udrel spismi o stôl.
+     </tei:p>
+     <tei:p>
+      — Ako? Tento atlét služby neschopný? Je to možné?
+     </tei:p>
+     <tei:p>
+      — Ťažký prípad prietrže.
+     </tei:p>
+     <tei:p>
+      — Ach, prietrž...
+     </tei:p>
+     <tei:p>
+      Starý pán stratil náhle rozpačitosť — veď generála tu nebolo a   stal sa veľmi energický.
+     </tei:p>
+     <tei:p>
+      — Pán stotník, oznamujem vám, že nadporučík v zálohe Schröder je   služby neschopný. Predbežne ho neodporúčam ani do triedy C.
+     </tei:p>
+     <tei:p>
+      — Na moju zodpovednosť! — zahučal stotník.
+     </tei:p>
+     <tei:p>
+      — Zodpovednosť nesiem ja, lekár, — rezolútne vyhlásil štábny   lekár.
+     </tei:p>
+     <tei:p>
+      Tým sa prehliadka skončila a advokát Schröder bol zachránený. Keď   si obliekal košeľu, zbadal ma sedieť pri stole a očervenel do tmava.   Spoznal vo mne Míninho známeho. I bolo mu studno, že som videl   obnaženého s jeho ťažkou telesnou chybou.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Už ráno som mal neopísateľnú predtuchu niečoho prjemného.   Predtuchy ma dosiaľ ešte nikdy nesklamali — ba som presvedčený, že   vycítim vopred i svoju smrť, ktorá bude podľa všetkého násilná, ako   sa mi už neraz objavila vo sne. (Napokon, či nie sme vo vojne?) Ó,   ona nie je hrozná — skôr sladká. Keď na ňu myslím, naskrze nemám   predstavu strašného kostlivca, ale kohosi nesmieme drahého a   blízkeho, kohosi s mäkkou, hladkajúcou rúčkou.
+     </tei:p>
+     <tei:p>
+      Keď som už pri predtuchách, nezaškodí mi, myslím, rozpamätať sa na   prípad kadeta Mateja Ponguera, ktorý padol v májovej ofenzíve r. 1916   medzi prvou a druhou líniou pod Dürerovou kótou pri Osterii   Fiorentini.
+     </tei:p>
+     <tei:p>
+      Deň pred zahájením ofenzívy trávili sme v drevenom čečinou   pokrytom baraku, v ktorom sme bývali všetci dôstojníci i kadeti od   stotiny i so svojimi sluhami. Dve stotiny boli v zákopoch a naše dve   stotiny ležali v tmavej, jedľovej hore, na pol hodiny od prednej   línie. Bolo tu snehu aj tri-štyri metre. Ľudia jedli, pili,   odpočívali v hojnosti, ako to už býva pred útokmi, slovom, statočne   sa chystali na krvavú prácu.
+     </tei:p>
+     <tei:p>
+      V našom baraku bola tma a veľké ticho. Každý si ležal na svojom   kavalci, pohrúžený do chmúrnych myšlienok. Mysleli sme na nasledujúci   deň, ktorý mal byť pre nejedného posledným v živote. Áno, podľa   teórie pravdepodobnosti bolo celkom isté, že niektorí padnú, ibaže   sme nevedeli kto. Aj vonku panovalo hlboké ticho, z barakov mužstva   sa neozval jediný hlások. Aj tí sa tam posilňovali na smrť. A náhle v   tejto ťažkej mĺkvosti sa ozval hlas kadeta Pongauera:
+     </tei:p>
+     <tei:p>
+      — Sepp, vyber mi z batoha dva hárky papiera a priprav pero.
+     </tei:p>
+     <tei:p>
+      Čudovali sme sa, čo chce kadet s dvoma hárkami papiera a s perom.   Nepísavali sme pred útokmi a vôbec pred bitkami sentimentálne listy,   pokladali sme to za zbytočné sužovanie domácich, ktorí aj tak každú   chvíľu tŕpli o naše životy. Veď každý mal príležitosť rozlúčiť sa so   svojimi pred odchodom do poľa.
+     </tei:p>
+     <tei:p>
+      — Nie, nie, nijaké lúčenie so životom, — usmial sa kadet.
+     </tei:p>
+     <tei:p>
+      — Čo teda?
+     </tei:p>
+     <tei:p>
+      — Závet.
+     </tei:p>
+     <tei:p>
+      Zasmiali sme sa. Prichodilo nám komické písať závety pred   útokmi.
+     </tei:p>
+     <tei:p>
+      — Smejete sa? Mám vážnu príčinu písať závet, — odvetil kadet   pokojne.
+     </tei:p>
+     <tei:p>
+      — To si mal už dávno, — namietali sme celkom rozumne.
+     </tei:p>
+     <tei:p>
+      — Myslíte? Hm... ako vám to vysvetliť... Vidíte, doteraz som ešte   nikdy necítil potrebu starať sa o závet, lebo som vedel, že   nepadnem...
+     </tei:p>
+     <tei:p>
+      — Oho! — protestovali sme. — Ako si to mohol vedieť? To sa nikdy   nevie vopred.
+     </tei:p>
+     <tei:p>
+      — Áno, myslelo by sa a snáď to tak aj vo všeobecnosti je. Napokon,   ktovie... Ale čo sa mňa týka, doteraz som ešte nikdy nemal myšlienku   na smrť. Jednoducho, necítil som takú potrebu, nehlásila sa vo mne. I   v tých najťažších chvíľach bol som si istý... áno, ťažko to   vysvetliť. Slovom, vedel som, že sa mi nič nestane. Prirodzene, ničím   som svoju vieru nemohol odôvodniť, ale bola pevná a nikdy ma   nesklamala. Dôkazom toho je, že som tu medzi vami. Okolo mňa padali   granáty, pukali šrapnely, zomierali ľudia, len to miesto, kde som   stál ja, bolo nedotknuteľné. Lebo tak to chcel osud. Smejete sa? Zver   vždy vycíti svoju poslednú chvíľu — prečo by ju nemohol vycítiť   človek?
+     </tei:p>
+     <tei:p>
+      Rozprúdila sa debata, či môže človek vopred vycítiť svoj osud.   Samozrejme, nemala nijaký výsledok, tak sme stíchli.
+     </tei:p>
+     <tei:p>
+      — Dnes popoludní, — ozval sa znova kadet Pongauer, — keď sme si   ľahli, premkla ma z čistá jasná strašná istota, že pri zajtrajšom   útoku padnem...
+     </tei:p>
+     <tei:p>
+      — Nezmysel! — usilovali sme sa upokojiť kadeta, ale už menej   presvedčivo.
+     </tei:p>
+     <tei:p>
+      — Možno, že nezmysel. Pre vás istotne. Ja sa však neviem zbaviť   tejto istoty, akokoľvek sa namáham. Žiaľbohu, ťažko sa presvedčiť o   správnosti takýchto predtúch... iba vy, čo tu ležíte okolo mňa,   budete môcť povedať definitívny úsudok o veci — na môj účet...
+     </tei:p>
+     <tei:p>
+      Odmlčal sa a my sme už nenašli ani slovo na protest.
+     </tei:p>
+     <tei:p>
+      — Tak či tak, neškodí napísať závet. Človek má byť na všetko   pripravený.
+     </tei:p>
+     <tei:p>
+      Sadol si k stolu a prostred skľúčeného ticha písal svoj závet. Keď   bol hotový, poprosil dvoch z nás, aby sa podpísali ako svedkovia.   Stalo sa. Potom poslal po účtového poddôstojníka a závet mu   odovzdal.
+     </tei:p>
+     <tei:p>
+      — Ak by sa mi zajtra niečo stalo, pošlite ho môjmu bratovi   Martinovi Pongauerovi, obchodníkovi s miešaným tovarom vo   Frankenmarkte. A upovedomte aj moju snúbenicu Elzu Bruneckovú, dcéru   obchodníka s drevom vo Vöcklabrucku. Tu máte obidve adresy.
+     </tei:p>
+     <tei:p>
+      Zvyšok dňa sme zabili pri kartách, pričom bol kadet Pongauer   veselší ako my všetci dokopy. A vyhrával priam impertinentne,   nenechal nám ani halier. Nemal z toho nijaký úžitok.
+     </tei:p>
+     <tei:p>
+      Na druhý deň o deviatej ráno sme už stáli za prvou talianskou   líniou. Zahynulo mnoho dobrých ľudí. Boj na chvíľku ustal a robili sa   prípravy k útoku na druhú čiaru, ktorá bola azda ešte lepšie   opevnená. A tu som videl kadeta sedieť na skale s obnaženou hlavou,   ako sa slnil a veselo žmurkal na mňa.
+     </tei:p>
+     <tei:p>
+      — Počuj, Pongauer, — kričal som naňho, — tá tvoja predtucha ťa   poriadne blamovala!
+     </tei:p>
+     <tei:p>
+      — Len pomaly, Seeborn, teraz príde to pravé!
+     </tei:p>
+     <tei:p>
+      Útok sa znovu začal. Kadeta som pustil z očí. Každý mal sám so   sebou dosť roboty. Tentoraz to už nešlo tak ľahko. Pozície sme dobyli   až nad ránom a stálo nás to nespočetné obete. Dobrá štvrtina pluku   ostala ležať pred drôtenými prekážkami. Keď sme si odpočinuli a   zberali sa na ďalší postup, zistili sme veľké straty. Chýbal jeden,   chýbal druhý, chýbalo ich mnoho, veľmi mnoho...
+     </tei:p>
+     <tei:p>
+      — A čo s kadetom Pongauerom? — pýtal som sa službyvedúceho   šikovateľa.
+     </tei:p>
+     <tei:p>
+      — Mŕtvy. Zachytila ho mitrailleusa.
+     </tei:p>
+     <tei:p>
+      Predsa len mal pravdu. A my sme sa presvedčili o správnosti istých   predtúch. Na jeho účet, pravda, ako trpko predvídal deň pred   útokom.
+     </tei:p>
+     <tei:p>
+      Hľa, ako som odbočil...
+     </tei:p>
+     <tei:p>
+      Áno, teda dnes ráno som i ja mal predtuchu, no predtuchu niečoho   radostného. Naisto uvidím Mínu z Riedenburgu. Len nechápem, prečo   hovorím, že to bude niečo radostné.
+     </tei:p>
+     <tei:p>
+      Ach, áno, prežívať víťazstvo je tou najrozkošnejšou slasťou. E   viva Pečorin!
+     </tei:p>
+     <tei:p>
+      Erna odcestovala k rodičom do Wellsu, ale celá izba je naplnená   ešte vôňou jej mladého, kyprého tela. Vôňa všetkých vôní! Nepoznám   jemnejšiu a lahodnejšiu vôňu nad ľahunký zápach mladého ženského tela   a nadprirodzenú vôňu gaštanových vlasov. I Mínine vlasy sú gaštanové,   práve také ako Ernine, ale Mínine majú lesk roztopeného zlata. Ó,   Mínine vlasy!
+     </tei:p>
+     <tei:p>
+      Cítim sa taký ľahký, som tak dobre naladený ako už dávno nie.   Pootváral som všetky obloky dokorán a nechal prúdiť do izby svieži,   jarný vzduch. Čo to za rozkoš! Schytil som stužtičkami vyzdobenú   gitaru a zaspieval:
+     </tei:p>
+     <tei:p>
+      Guťs Bubal mei, mei, musst net gar so sein, weil i mit an Andern a   bissl bin fein. Denn wôgn dem Ring, dôss will i dir sag,   die Mutter haťs vom Kirchtag mir hoamtrag
+     </tei:p>
+     <tei:p>
+      (Môj miláčik, nehnevaj sa, že som aj k inému trošičku dobrá. To   pre ten prsteň, poviem ti, mamička mi ho priniesla vo sviatok.)
+     </tei:p>
+     <tei:p>
+      A čo povedal na to miláčik? Takto odpovedal:
+     </tei:p>
+     <tei:p>
+      Itzt hab i scho gnua, i wer Urlaub nehma,   b di Gott, du schôn Dienal, wer nimma.Solch Madeln   gibťs uberall, schônere gnua, und i bleibt holt a lebfrischer   Bua...
+     </tei:p>
+     <tei:p>
+      kemma.
+     </tei:p>
+     <tei:p>
+      (Už mám toho dosť, vezmem si dovolenku a boh s tebou, pekné   dievča, nikdy viac sa nenavrátim. Takých dievčat je všade a krajších   nadostač. A ja ostanem veselým chlapcom.)
+     </tei:p>
+     <tei:p>
+      Vieš, Mína, komu môžem ďakovať za všetky tieto stužtičky? Iba   tebe! A mám ich tu veľa: červené, ružové, belasé, biele, zelené,   zlatom i striebrom vyšívané, a na každej zopár dobrých slov.
+     </tei:p>
+     <tei:p>
+      Hľa, biela: od snehovej panny z Pustertalu. Chladná, navonok z   mramoru, ľadová na dotyk a oči mala ako kvapky zelenomodrých vôd   Rienzu. Či sa mi neroztopila v náručí? Tak dôkladne... Tu hľa, druhá,   s nápisom: Naša stará bašta. Veru, naša stará bašta nad priepasťou   Neuburgu, na dne priepasti rozpenená horská riava, skučiaca ako kŕdeľ   besných psov. Ústa mala purpurové ako táto stužka a horúce ako plameň   dehenny. A predsa ma nespálil ich pálčivý žiar. Potom, hľa, zlatom i   striebrom vyšívaná: Nezabudni nikdy na Máriu. Ako možno zabudnúť na   jej veľké, priateľské oči a na naše potulovanie po kalternských   viniciach za aprílových podvečerov? Alebo ako zabudnúť na náš drevený   hostinec pri jazere, v ktorom sa s ňou i s kamarátmi tak dobre   sedávalo pri dobrom víne a veselej piesni? Hoho, to boli nádherné   časy! Ó, Mária bola skvelé dievča, či mi ju nezávidel celý pluk? A   tuto, hľa, belasá bez hesla... To bola taká celkom nevinná,   bielulinká láska, bez divokých vášní, s dlhými pohľadmi a utajenými   vzdychmi... Zmizla s marcovým snehom a ostala po nej len táto belasá   stužka.
+     </tei:p>
+     <tei:p>
+      Drahá, príde celkom iste deň (a viem, že dlho nedá na seba čakať),   keď aj teba oviniem na hrdlo gitary a odložím do kúta medzi   rozpomienky.
+     </tei:p>
+     <tei:p>
+      Ako je dobre byť takto ponechaný na seba, bez dozoru a bez   povinností zodpovedať sa z každého kroku i slova. Po prvý raz sa   teším Erninej neprítomnosti a prajem si, aby trvala ešte veľmi   dlho.
+     </tei:p>
+     <tei:p>
+      Cez obed som zašiel do Mirabellinho sadu medzi svet. Niet   rozkošnejšieho miesta v celom meste. Najmä teraz to tam vonia jarou,   všetko je už v plnom kvete. Pri vodometoch hrala hudba nášho pluku,   chodníkmi vysypanými bielučkým pieskom sa vlnili pestré kostýmy,   rovnošaty, žakety, cylindre, slnečníky a do slávnostných tónov chóru   Tannhäuserových pútnikov harmonicky vplynul neurčitý šum   prechádzajúceho sa publika. Sad sa v čase poludňajšieho korza podobá   veľkému farbistému mravenisku a je veľmi zábavné oprieť sa o   mramorové zábradlie vodometu a pozorovať celý ten zázračný svet.
+     </tei:p>
+     <tei:p>
+      Vidím veľa známych, zdravím a dívam sa uprene do chaosu, či tých   známych nebude viac. Daromná námaha — Míny niet. A predsa: predtuchy   ma zvyčajne neklamú. Podobal som sa vyžle, strihal som ušami a vetril   nozdrami, cítiac každým nervom jej blízkosť. A keby som nemal protézu   namiesto srdca, bol by mi ju naisto prezradil i jeho tlkot.
+     </tei:p>
+     <tei:p>
+      Prečo sa zamračila obloha? Áno, zatiahla sa. Nebolo síce ani   obláčika na azúrovom nebi, slniečko svietilo ďalej a predsa zaľahol   mrak na svet. I trúbky zneli, ako keby boli závojom obostreté, a   bombardóny zlostne zahučali. Áno, už nebolo tak jasno a radostne ako   len pred chvíľočkou. Rozmýšľal som o svojom nastávajúcom   víťazstve...
+     </tei:p>
+     <tei:p>
+      Ako to povedala Mína, keď sme sa naposledy stretli na   hellbrunnskej skale? Max, Max, veď ty ani nevieš, čo všetko leží za   mnou!
+     </tei:p>
+     <tei:p>
+      Áno, tak povedala a s nadľudskou námahou potláčala slzy, ktoré sa   jej hrnuli do rozpálených očí. Avšak prečo si sa nespýtala, drahá, či   azda i za mnou niečo neleží? Vidíš, drahá, sú to celé hory, celé   kalvárie, ktoré mi bolo bez hlesnutia prekonať. Ó, strašné kalvárie!   Krv by ti zamrzla v žilách, drahá, keby si zazrela čo len jediný   zlomok z mojich kalvárií. Na nič si sa nespytovala. Mala si pred   očami len tú svoju úbohú, maličkú biedu, rozpamätala si sa len na   svoj malicherný kríž a zabudla si, že moja Golgota viedla príkrejšími   cestami. Vy úbohé, ničomné, egoistické a slabé plemä! Vy hrozné   plemä. Len dnes začínam chápať trpkú nenávisť Strindbergovu.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Pripojili sa ku mne priatelia od pluku: nadporučík Zelar a poručík   Weller. Mlčky sa dívame na korzujúcich a opierame sa o rukoväte   šabieľ. Zelar, nenapraviteľný donchuan, vše zabrnkne ostrôžkami a   zaľúbene si pozrie na bohato dekorovanú hruď, na ktorej sa skvie celá   „trottelgarnitura“. Odtiaľ sa mu zosunie zrak do očú okoloidúcich   krásavíc a je isté, že to musí pôsobiť. Ostrôžky, „trottelgarnitura“   a ženské oči. Weller fajčí z krátkej anglickej fajočky a ospanlivo   prižmuruje oči ako žaba na piesku. Čo sa mňa týka, neprestávam blúdiť   zrakom po obecenstve. Ale svet ešte vždy pláva v tmavých farbách.
+     </tei:p>
+     <tei:p>
+      — Dnes sa celkom iste naderiem, — precedil poručík Weller cez zuby   a rozvážne zabafkal z fajočky.
+     </tei:p>
+     <tei:p>
+      — Hm, — poznamenal nadporučík Zelar, — ty sa každý deň celkom iste   naderieš.
+     </tei:p>
+     <tei:p>
+      — Ale dnes sa menovite a zvlášť naderiem, — zdôrazňoval   Weller.
+     </tei:p>
+     <tei:p>
+      — Čujme.
+     </tei:p>
+     <tei:p>
+      — Vedzte, že o dva dni odchádzam do poľa. S dôstojníckym   transportom. Do Val Sugany.
+     </tei:p>
+     <tei:p>
+      — Veď ty čochvíľa prikvitneš, — hovorím.
+     </tei:p>
+     <tei:p>
+      — Ja sa vôbec nevrátim.
+     </tei:p>
+     <tei:p>
+      — A ako to vieš? — pýtam sa ho zvedavo.
+     </tei:p>
+     <tei:p>
+      — Hm, vedieť... ťažko vysvetliť... Ale stalo sa to takto: keď som   si včera večer ľahol do postele, prišlo mi zrazu čohosi veľmi ľúto...   Čoho? Čert vie... neviem. Len som sa vám rozplakal ani malé dieťa,   viete, tak sprosto rozplakal... Boh mi je svedkom, slzy mi tiekli   cícerkom dolu lícami. A keď som prestal plakať, premkla ma strašná   istota, že sa už viac nevrátim. Márne som sa vám bránil proti tejto   istote... pol fľaše koňaku som vypil, na nervy bohoval, nepomáhalo.   Ostalo mi to tu dnu. Preto vám vravím, že sa chcem dnes menovite a   zvlášť nadrať.
+     </tei:p>
+     <tei:p>
+      Prišlo mi na um, že jedného májového dňa pred útokom na talianske   pozície kadet Matej Pongauer hovoril podobne, ba takmer tými istými   slovami... Áno, aj Weller môže mať pravdu a pravdepodobne má pravdu.   Hľa, i Pečorin vyčítal smrť z tvárí stratených ľudí. A ktovie, či v   blízkom čase, keď budem musieť s pochodovým práporom do poľa — či i   ja nepocítim onú strašnú istotu... Dnes ty, zajtra ja...
+     </tei:p>
+     <tei:p>
+      Tak sa stalo, že nik z nás nemal odpovede na temné proroctvá   poručíka Wellera.
+     </tei:p>
+     <tei:p>
+      Vtom mi v ľavom uchu tenučko zaznelo a šabľa sa ľahunko striasla v   ruke. Prečo mi zarazilo dych? Ako to, že sa mrzká chmára rozbehla do   ďalekých kútov a že sa celý svet zajagal v zázračných farbách?   Neďaleko zaznel mäkký, sladký hlas, a keď som sa obrátil v tú stranu,   videl som Mínu z Riedenburgu v sprievode malej, nenápadnej brunetky.   Či som nehovoril pred chvíľou o sladkých predtuchách?
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Aj ona ma zbadala a naznačila pohľadom, aby som sa pripojil.
+     </tei:p>
+     <tei:p>
+      Nie, priatelia nemajú nič proti tomu. Dobre sa maj, Weller, choď   sa dnes menovite a zvlášť nadrať.
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Ó, malá brunetka bola podarená. Hneď po prvých slovách sa   rozlúčila, predstierajúc nevyhnutnú návštevu u rodiny. Zostal som s   Mínou sám.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      — Akú zmenu badáte na mne, cisársky a kráľovský poručík   Maximilián von und zu Seeborn? — spýtala sa ma s nezvyčajnou   veselosťou, ba rozpustne.
+     </tei:p>
+     <tei:p>
+      Obzrel som si ju od hlavy po päty.
+     </tei:p>
+     <tei:p>
+      — Rozkošná ako vždy.
+     </tei:p>
+     <tei:p>
+      — Prosím, nijaké poklony.
+     </tei:p>
+     <tei:p>
+      — Boh mi je svedkom...
+     </tei:p>
+     <tei:p>
+      — K veci, prosím, k veci!
+     </tei:p>
+     <tei:p>
+      Obzrel som si ju ešte dôkladnejšie. Ozaj, chcela počuť poklony? V   tom prípade...
+     </tei:p>
+     <tei:p>
+      — Hádam vaše apartné jarné šatôčky, ktoré som ešte nemal česť   vidieť? A ktoré sú najmä v drieku...
+     </tei:p>
+     <tei:p>
+      — Nezmysel.
+     </tei:p>
+     <tei:p>
+      Drahá sa zapýrila a za toto zapýrenie by som jej bol kľakol k   nohám.
+     </tei:p>
+     <tei:p>
+      — Alebo azda nové náušničky v ružovom ušku?
+     </tei:p>
+     <tei:p>
+      — Zase neuhádol. Ďalej...
+     </tei:p>
+     <tei:p>
+      — Či prekvapujúca architektonika účesu pod vaším hodvábnym   klobúčikom?
+     </tei:p>
+     <tei:p>
+      — Pán poručík...
+     </tei:p>
+     <tei:p>
+      — Musím sa teda s hanbou priznať, že nevidím nijaké zvláštne   zmeny.
+     </tei:p>
+     <tei:p>
+      — Tak ráčte láskavé pozrieť, poručík, čo tu vidíte alebo nevidíte?   — a s tým mi podstrčila svoju malú, pestovanú rúčku blízko k očiam.   Skutočne záhadná zmena: snubný prsteň zmizol.
+     </tei:p>
+     <tei:p>
+      — Kde je? — pýtam sa s úžasom.
+     </tei:p>
+     <tei:p>
+      — Povandroval pánu snúbencovi do vrecka, — odpovedala rozmarne.   Potom ticho, pokorne:
+     </tei:p>
+     <tei:p>
+      — Nemohla som ďalej...
+     </tei:p>
+     <tei:p>
+      Kráčala popri mne tak dôverčivo. A o chvíľku ešte tichším hlasom,   takmer šeptom:
+     </tei:p>
+     <tei:p>
+      — Si spokojný so mnou?
+     </tei:p>
+     <tei:p>
+      Neodpovedal som. Nebol som schopný odpovedať. Na to nebolo   odpovede. A je zvláštne, že v prvej chvíli to ani nebola veľká radosť   z víťazstva, ale niečo nekonečne smutné, tiesnivé, čo by mi bolo   vyhnalo slzy do očí, keby, pravda, keby tu dnu nebola protéza   namiesto srdca... Áno, odovzdanosť Míny z Riedenburgu prekračuje   hranice...
+     </tei:p>
+     <tei:p>
+      — Max, ja ho nenávidím!
+     </tei:p>
+     <tei:p>
+      Nie, nie som mäkký. Musel som sa odvrátiť, aby nezbadala môj   triumfujúci úsmev. Ó, nemať protézu, bol by to hrozný, príšerný   triumf, príšernejší od porážky!
+     </tei:p>
+     <tei:p>
+      Sny bývajú hmlisté, prchavé a nezmyselné. Obyčajne nám vymiznú z   pamäti nadobudnutím vedomia. Ale ja mávam niekedy veľmi jasné sny, s   celkom súvislým dejom, vôbec nie fantastickým. No čo sa mi snívalo   včera, to už presahuje medze každej fantázie. Bol to sen síce   nechutný, ale taký podivný, nepekný a hrozný, že sa pamätám ešte na   všetky podrobnosti. Dobre, že som ďaleko od toho, vyvodzovať zo snov   akékoľvek dôsledky.
+     </tei:p>
+     <tei:p>
+      Snívalo sa mi totiž toto:
+     </tei:p>
+     <tei:p>
+      Tak akosi to prišlo, že ma cesta viedla tmavou jedľovou horou,   vždy vyššie a vyššie do kopca. Pôdu pokrýval hustý koberec machu, do   ktorého som sa zabáral až po členky, a vzduch bol presýtený vôňou   hnijúceho ihličia i ostrým zápachom divých húb. Nad pralesom sa   vznášala nesmierna tichosť, a keď som stúpil na suchý konárik, ozvalo   sa to ako výstrel z pištole.
+     </tei:p>
+     <tei:p>
+      Kráčal som vždy vyššie a vyššie. Napokon cesta viedla tak strmo do   vrchu, že som sa musel lapať konárov, aby som sa nezošmykol po   hladkom ihličí. Už mi od veľkej námahy pot tiekol po tvári, ale   nesmel som ochabnúť, lebo tak akosi to bolo, že musím pre nesmieme   dôležitú vec až hore na končiar vrchu. Od toho záviselo všetko, celý   môj duševný pokoj, celé moje spasenie. Áno, tak akosi to bolo... Ale   keď som vše vybehol na čistinu, odkiaľ bol rozhľad, videl som končiar   ešte vždy nesmierne vysoko pred sebou, tak vysoko, že bol zahalený do   tmavých oblakov, ktoré nehybne viseli nad krajinou. Zmocňovalo sa ma   zúfalstvo, nohy sa mi už podlamovali v kolenách, jednako som len   kráčal vpred pomocou konárov, za ktoré som sa zachytával. Ruky som   mal už celkom dokrvavené od ostrého ihličia.
+     </tei:p>
+     <tei:p>
+      A stmievalo sa. Húštiny boli vždy tmavšie.
+     </tei:p>
+     <tei:p>
+      Sadol som si na machom porastenú skalu, lebo mi už vychádzal dych.   Ešte teraz cítim tú hroznú únavu, ktorá sa ma zmocnila. Zavrel som   oči, ukolembaný tajnostným tichom jedľovej hory.
+     </tei:p>
+     <tei:p>
+      Tu náhle zašumeli koruny stromov a z tmavých húštín sa ozval   tlmený šepot, ako keď lesom prebehne studený vánok. Hoci som bol na   širokej čistine, nezbadal som nijaké zavanutie vetra.
+     </tei:p>
+     <tei:p>
+      Otvorím oči, a hľa, predo mnou stojí človek v dlhom vojenskom   plášti cudzieho strihu a s ruskou furažkou na hlave. Díva sa na mňa   nehybne, so založenými rukami, akosi pohŕdavo, ba so zrejmým   opovrhnutím.
+     </tei:p>
+     <tei:p>
+      — Kto ste? — spytujem sa ho s úžasom.
+     </tei:p>
+     <tei:p>
+      Neodpovedal.
+     </tei:p>
+     <tei:p>
+      — Kto ste? — spytujem sa ho znova. Premkol ma taký strach, že som   ledva vyjachtal tie slová.
+     </tei:p>
+     <tei:p>
+      Záhadný cudzinec len mlčal.
+     </tei:p>
+     <tei:p>
+      Teraz som si ho obzrel dôkladnejšie. A zrazu mi zišlo na um, že   túto vysokú, ramenatú, nádherne urastenú postavu som už musel niekde   vidieť. Niet pochybnosti... tá bledá, krásna tvár, tie pevne zovreté   červené pery, tá unavená črta okolo úst, to biele, vysoké, už   prebrázdené čelo... naozaj, tento človek mi nie je neznámy.
+     </tei:p>
+     <tei:p>
+      Mlčali sme obidvaja a dívali sa skúmavo jeden na druhého.
+     </tei:p>
+     <tei:p>
+      Totiž skúmavo len ja, jeho pohľad ostával i naďalej   opovržlivý.
+     </tei:p>
+     <tei:p>
+      Konečne sa mi mlčanie videlo príliš trápne.
+     </tei:p>
+     <tei:p>
+      — Nie ste vy, — spytujem sa, hľadajúc v myšlienkach meno cudzinca,   — nie ste vy... bože, taký ste mi povedomý, taký veľmi povedomý...   kdeže som vás len videl naposledy...
+     </tei:p>
+     <tei:p>
+      — Na Kaukaze, — ostro prerušil moje habkanie.
+     </tei:p>
+     <tei:p>
+      — Na Kaukaze? — šepcem s hrôzou, lebo na Kaukaze som ešte nikdy   nebol. Niet pochýb, predo mnou stojí šialenec, sme tu sami, ja   bezbranný, on priam obrovskej sily... úzkostlivo sa obzerám vôkol,   hľadajúc možnosť spásy. Ale nemám sily vstať, nohy akoby boli   hlinené.
+     </tei:p>
+     <tei:p>
+      Neznámy prikročil tesne ku mne a pozrel mi pevne do očí:
+     </tei:p>
+     <tei:p>
+      — Nepoznáš ma?
+     </tei:p>
+     <tei:p>
+      Páchlo z neho hrobom i zdalo sa mi, ako keby pod vojenským plášťom   zahrkotali kosti.
+     </tei:p>
+     <tei:p>
+      — Kto si? — zjačím a zakryjem si tvár dlaňami, aby som sa nemusel   pozerať do tých hrozných očí.
+     </tei:p>
+     <tei:p>
+      — Pečorin, — odvetil ticho.
+     </tei:p>
+     <tei:p>
+      — Pečorin? — skríkol som s úžasom, vyskočiac zo skaly, ku ktorej   som bol dosiaľ ako prikovaný. Teraz som už chápal, prečo mi bol od   prvej chvíle taký známy... Hneď mi bolo všetko jasné, samozrejmé, nič   podivuhodné a v rýchlosti som sa rozpamätal na všetky podrobnosti   zovňajšku Lermontovovho hrdinu, ako som si ho dosiaľ v duchu   predstavoval. Ó, Pečorin bol mi vzorom dokonalosti. A tento tu,   naozaj, tento bledý, hrobom páchnúci cudzinec nemohol byť nik iný než   Pečorin.
+     </tei:p>
+     <tei:p>
+      Môj veľký, nemilosrdný Pečorin! Strašný Pečorin!
+     </tei:p>
+     <tei:p>
+      Pečorin, spokojný dojmom, ktorý vyvolal, odstúpil odo mňa a   zapálil si papirosu.
+     </tei:p>
+     <tei:p>
+      Na nasledujúci rozhovor sa pamätám tak jasne, ako keby sa bol   odohral nie vo sne, ale v skutočnosti.
+     </tei:p>
+     <tei:p>
+      — Veľmi ma teší, — usmial som sa na Pečorina, — že ste sa mi   zjavili. Myslel som na vás veľmi často. A posledné týždne myslím na   vás každý deň.
+     </tei:p>
+     <tei:p>
+      — Hľa, hľa...
+     </tei:p>
+     <tei:p>
+      — Ubezpečujem vás, že je to pravda. Stali ste sa mi takmer   vzorom.
+     </tei:p>
+     <tei:p>
+      Pečorinova tvár sa zamračila.
+     </tei:p>
+     <tei:p>
+      — Aj, aj...
+     </tei:p>
+     <tei:p>
+      — Áno, idem tak ďaleko, že sa správam podľa vašich zásad...   respektíve podľa vašej morálky.
+     </tei:p>
+     <tei:p>
+      — Čujme, čujme, — zamrmlal Pečorin, — vec ma začína zaujímať.
+     </tei:p>
+     <tei:p>
+      A ja som sa pustil do rozprávania.
+     </tei:p>
+     <tei:p>
+      — Poznáte, prosím, históriu Míny z Riedenburgu? Dobre, dobre. A   históriu cisárskeho a kráľovského poručíka Maximiliána von und zu   Seeborna? Dobre, i tú poznáte. (Ukázalo sa, že Pečorin je o všetkom   informovaný.) Teda, tento malý poručík...
+     </tei:p>
+     <tei:p>
+      Hora bola vždy tmavšia a tmavšia, len cudzincove oči planuli do   noci ako dva žeravé uhlíky. A čím ďalej som mu rozprával históriu   malého poručíka, tým strašnejšie blčali.
+     </tei:p>
+     <tei:p>
+      — ... a rozhodol sa malý poručík, šiel k dobrým lekárom, dal si to   choré, úbohé srdce vyoperovať a vložiť na jeho miesto tichú protézu.   Lebo chcel byť strašným, nemilosrdným Pečorinom...
+     </tei:p>
+     <tei:p>
+      — Hahaha... — rozosmial sa vtom cudzinec.
+     </tei:p>
+     <tei:p>
+      — Hahaha... — ozvala sa hora zo svojho hlbokého sna, poplašiac   veľké, čierne vtáky, ktoré s krikom prelietli ponad čistinu.
+     </tei:p>
+     <tei:p>
+      — Hahaha... — smial sa nepretržite cudzinec, skáčuc na jednom   mieste. Potom si s divokým pohybom zhodil vojenský plášť, pod ktorým   sa objavilo silne fosforeskujúce telo.
+     </tei:p>
+     <tei:p>
+      — Strašným, nemilosrdným Pečorinom si chcel byť! — posmieval sa s   diabolským úškľabkom. — Hoho! On chcel byť strašným, nemilosrdným   Pečorinom. Hahaha...
+     </tei:p>
+     <tei:p>
+      — Óóó, — jačím zdesený, — prestaň, prestaň!
+     </tei:p>
+     <tei:p>
+      — Chceš vidieť moju protézu? Chceš? — reval hrozným hlasom do   čiernej noci. — Hľa, tu ju máš. Dívaj sa!
+     </tei:p>
+     <tei:p>
+      Napoly v mrákotách som videl, ako si rozdrapil hruď a vytiahol z   útrob tlčúce, krvácajúce srdce. Červená žiara krvi osvietila celú   čistinu.
+     </tei:p>
+     <tei:p>
+      — Vidíš ho? Vidíš? — tancoval okolo mňa a pchal mi pod nos svoje   krvácajúce srdce, ktoré bolo nervami a žilami spojené s vnútrom   hrude. Tu ma zrazu prešla všetka hrôza a divým som sa stal teraz ja.   Strašný hnev ma zachvátil nad veľkým sklamaním. Veď som naisto rátal   s jeho protézou.
+     </tei:p>
+     <tei:p>
+      — Oho! — pustím sa do neho, — teda ty si celkom obyčajný luhár?   Tu, pred celým svetom ťa usvedčujem z ohavného podvodu.
+     </tei:p>
+     <tei:p>
+      — Hohohó!
+     </tei:p>
+     <tei:p>
+      — Podvodník!
+     </tei:p>
+     <tei:p>
+      — Hihihi!
+     </tei:p>
+     <tei:p>
+      — Travič!
+     </tei:p>
+     <tei:p>
+      — Hehehe!
+     </tei:p>
+     <tei:p>
+      Pochytila ma veľká zúrivosť nad jeho potupným chechotom. Strhol   som zo seba šaty, vyzliekol košeľu, až som bol tiež celkom nahý.
+     </tei:p>
+     <tei:p>
+      — Ja nie som podvodník! Hľaď, ja mám protézu namiesto srdca! Hľaď,   čertov syn!
+     </tei:p>
+     <tei:p>
+      I rozdrapil som si hruď a siahnuc hlboko do útrob, vytiahnem z   nich — tlčúce, krvácajúce srdce... choré, úbohé...
+     </tei:p>
+     <tei:p>
+      — Hoho! On má protézu namiesto srdca! — zadúšal sa netvor   smiechom. — Dívajme sa, akú protézu! Hohohó...
+     </tei:p>
+     <tei:p>
+      Zahanbený, zničený a potupený odhodím srdce ďaleko do húštiny a   začnem prosiť:
+     </tei:p>
+     <tei:p>
+      — Pusť ma... musím preč...
+     </tei:p>
+     <tei:p>
+      — Kam chceš?
+     </tei:p>
+     <tei:p>
+      — Tamhore, do výšok, k Míne z Riedenburgu...
+     </tei:p>
+     <tei:p>
+      — Nikam nepôjdeš!
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Nože ma pusť... ona je tamhore, vysoko, medzi oblakmi... ešte   dnes musím k nej... čaká...
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      — Nikam nepôjdeš!
+     </tei:p>
+     <tei:p>
+      — Má také smutné oči... díva sa do noci a čaká... tamhore, vysoko,   na samom končiari, medzi oblakmi, pusť!
+     </tei:p>
+     <tei:p>
+      — Dolu s tebou!
+     </tei:p>
+     <tei:p>
+      — Musím k nej... chápeš? Musím!
+     </tei:p>
+     <tei:p>
+      — Dolu!
+     </tei:p>
+     <tei:p>
+      — Čaká...
+     </tei:p>
+     <tei:p>
+      — Dolu! — zreval cudzinec strašným hlasom a sotil ma dolu stranou.   Spadol som a chcel som zúfalo hore k nemu. Ale on, celý v ohni,   schytil balvany a metal ich dolu na mňa. Boli to centové ozruty a   zavíjajúc fičali okolo mňa, s hromovým rachotom padajúc do priepasti,   ktorá sa roztvárala podo mnou.
+     </tei:p>
+     <tei:p>
+      V kancelárii našej doplňovacej rezervnej stotiny našiel som list,   adresovaný pevným mužským písmom mne. Písal ho advokát a rezervný   nadporučík s prietržou dr. Viliam Schröder, bývalý snúbenec Míny z   Riedenburgu:
+     </tei:p>
+     <tei:p>
+      Pán poručík!
+     </tei:p>
+     <tei:p>
+      Nemám česť poznať Vás osobne, ale záležitosť, o ktorú mi ide,   hádam dostatočne ospravedlní moju smelosť písať Vám, cudziemu   človeku.
+     </tei:p>
+     <tei:p>
+      Slečna Wilhelmina z Riedenburgu, od šiestich mesiacov moja   snúbenica, pred dvoma dňami sa náhle rozhodla rozviazať náš obapoľný   sľub a vrátila mi prsteň, ktorý prijala odo mňa na znak zaviazanosti.   Týmto aktom sa slečna Wilhelmina z Riedenburgu stala znova voľnou.   Rešpektujem každé rozvážne konanie, a pretože si slečnu Wilhelminu z   Riedenburgu príliš vysoko ctím, aby som sa opovážil predpokladať u   nej možnosť prenáhlenosti, rešpektujem i rozhodnutie slečny   Wilhelminy. Tým väčšmi, lebo som plne presvedčený, že pri jej   otvorenosti a povahe nebolo takmer iného východiska.
+     </tei:p>
+     <tei:p>
+      Rozhodnutím slečny Wilhelminy z Riedenburgu nemám viac práva   miešať sa do jej súkromných záležitostí. Nemôže mi však zabrániť ani   slečna Wilhelmina z Riedenburgu, aby som s hlbokou účasťou nesledoval   jej ďalšie osudy. Pretože viem, že zmenu v životnej dráhe slečny Míny   z Riedenburgu zapríčinila len Vaša prítomnosť, dovoľujem si Vás   upozorniť, pán poručík, že ak sa nezachováte voči slečne Wilhelmine z   Riedenburgu tak, ako sa svedčí na gentlemana a dôstojníka, vyvodím z   toho konzekvencie.
+     </tei:p>
+     <tei:p>
+      S patričnou úctou
+     </tei:p>
+     <tei:p>
+      dr. Viliam Schröder
+     </tei:p>
+     <tei:p>
+      Zúrivosť samca, ktorému uchvátili samicu. Len na to som zvedavý,   ako bude vyvodzovať konzekvencie advokát a rezervný nadporučík — s   prietržou.
+     </tei:p>
+     <tei:p>
+      Erna je už tu a priniesla so sebou vôňu hornorakúskeho vidieka,   ktorá je zmesou vône čerstvého sena, rezedy a jabĺk. Líca má na   ružovo sfarbené a vidno, že celučký svoj slobodný čas strávila niekde   na brehoch Traunu, v roztopašnej spoločnosti, v neprestajnom smiechu   a kriku a pri veselom speve.
+     </tei:p>
+     <tei:p>
+      Rozhodila po zemi za tucet väčších a menších škatúľ, skočila mi   okolo krku a potom odcupotala k zrkadlu, pred ktorým sa hlboko a   obradne uklonila, mrmlajúc niekoľko vznešených pozdravov.
+     </tei:p>
+     <tei:p>
+      Donútila ma, aby som si sadol na pohovku, zapálil fajočku (sama mi   ju napchala) a potom si kľakla na zem, dotknúc sa hlavou mojich   kolien.
+     </tei:p>
+     <tei:p>
+      — Pozdravujem svojho pána a kráľa, — prehovorila s úctyplnou   láskou Margaréty.
+     </tei:p>
+     <tei:p>
+      — Ty budeš kráľovná?
+     </tei:p>
+     <tei:p>
+      — Len kráľovná. Ale myslím, že aj to ma bude tešiť. Na čo som   odpovedal hlasom ctižiadostivého Jarla Skule:
+     </tei:p>
+     <tei:p>
+      — Ale ja budem vládnuť v ríši a v krajine.
+     </tei:p>
+     <tei:p>
+      Mal som príležitosť konštatovať obdivuhodnú rýchlosť, s akou sa   roznášajú po grandiózne klebety, týkajúce sa súkromných záležitostí   dôstojníckeho zboru.
+     </tei:p>
+     <tei:p>
+      Už keď som vkročil do našej dôstojníckej jedálne, zbadal som, že   mi plukovník odpovedal na povinný pozdrav so zvláštnou, ba   nezvyčajnou benevolenciou. Usmial sa tak pôvabne, ako keby som bol   najsympatickejšou bytosťou na svete. Tým čudnejšie, že ešte len   nedávno som musel vypočuť od neho hotovú záplavu výčitiek pre hlúpu   históriu s majorom Hansem. Medzi jedením — ako poručík sedávam na   opačnom konci stola — častejšie som cítil na sebe spočinúť   plukovníkov láskyplný pohľad. Istotne veľká česť pre mňa, obyčajného   poručíka.
+     </tei:p>
+     <tei:p>
+      Po múčniku si starý zapálil cigaru, a to bolo znamenie pre   voľnejší rozhovor. Ako to už v dôstojníckych jedálňach býva, hovorilo   sa najprv o služobných veciach, potom o najbližšom povyšovaní v   pluku, o víťazstvách spojeneckých armád, o blízkom a slávnom ukončení   vojny — a nakoniec rozhovor zakotvil pri najpríjemnejšej, ale súčasne   i najosožnejšej téme: pri ženách. Ó, mali ste vidieť, ako to myklo   náladami, ako zasvietili oči tým starým veteránom lásky. Hneď prestal   rozdiel medzi podriadenými a nadriadenými, a najmä bolo pozoruhodné   dívať sa na plešivých majorov, s akou bezmocnou dychtivosťou viseli   na polohlasných, významnými pauzami prerývaných rozprávkach bujných   práporčíčkov i kadetkov. Vtedy strčili starí svoje plešivé lebky   dovedna a podchvíľou bolo počuť odporné pregĺganie slín nad necudnými   a perverznými predstavami nahých ženských tiel. Načúvajúci mali zraky   rozpálené, líca ružové, žily na čele do prasknutia navreté a nad   celou stolovou spoločnosťou ležalo ťažké, zápachom jedál, dymom a   ľudským potom presýtené ovzdušie, v ktorom sa vybíjala chlípnosť   samcov. Major Hanse musel neprestajne vyťahovať vreckovku, ináč by mu   boli sliny tiekli na obrus, a podplukovník Müller si priložil ešte aj   dlaň k uchu, aby mu neušlo ani jediné slovo. Najzábavnejšie na celom   obrázku je, že títo starí zhýralci, ktorí teraz tak dychtivo načúvajú   oplzlým rozprávkam subalterných, v nasledujúcej chvíli, len čo si   uvedomia svoju nadriadenosť, sú schopní tým istým subalterným držať   hodinovú reč o cnostiach c. a k. dôstojníka, ba i rozhorčiť sa nad   mravným úpadkom dôstojníckeho zboru.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Z týchto ohavných bakchanálií počujem plukovníkov hlas:
+     </tei:p>
+     <tei:p>
+      — Pán poručík Seeborn!
+     </tei:p>
+     <tei:p>
+      Začudovane prejdem k plukovníkovi, ktorého som našiel ešte   rozpáleného od necudných rečí.
+     </tei:p>
+     <tei:p>
+      — Rozkážte, pán plukovník.
+     </tei:p>
+     <tei:p>
+      Plukovník vstal od stola, vzal na seba dôstojnejší výzor (v každom   vrecku mal inakšiu masku na tvár) a kýval mi priateľsky:
+     </tei:p>
+     <tei:p>
+      — Poďte so mnou do čitárne, chcem sa s vami dôverne   pozhovárať.
+     </tei:p>
+     <tei:p>
+      Čitáreň bola — ako zvyčajne — prázdna. Nebolo tam vlastne, okrem   niekoľkých predhistorických čísiel Die Zeit, Neue Freie Presse,   Danzer‘s Armee-Zeitung a Salzburger Volksblatt nič spomenutiahodného   na čítanie, a tak čitáreň slúžila na tiché siesty v odpoludňajších   hodinách alebo na tichú ferbličku pri zamknutých dverách.
+     </tei:p>
+     <tei:p>
+      Keď starostlivo zavrel za sebou dvere, plukovník ma chytil za   gombík a zatiahol do kúta k obloku, kde si stal rozkročmo predo mňa,   hľadiac na mňa hodnú chvíľu mlčky, ale so širokým, otcovským úsmevom.   Potom vrelo:
+     </tei:p>
+     <tei:p>
+      — Gratulujem k zasnúbeniu, pán poručík.
+     </tei:p>
+     <tei:p>
+      Od údivu som stratil reč. Plukovník to zrejme pokladal za   vysvetliteľnú plachosť poručíka pred plukovníkom a potľapkal ma   blahosklonne po pleciach.
+     </tei:p>
+     <tei:p>
+      — A teraz hľaďte, aby došlo čím skôr k svadbe. Dúfam, že na mňa   nezabudnete...
+     </tei:p>
+     <tei:p>
+      — Dovoľte, pán plukovník... — jachcem prekvapene.
+     </tei:p>
+     <tei:p>
+      — Nijaké rozpaky, poznáme to, — prerušil ma plukovník širokým   gestom.
+     </tei:p>
+     <tei:p>
+      — Ale... ale... pán plukovník... veď ja som sa s nikým nezasnúbil,   — braním sa ešte vždy vo veľkom údive.
+     </tei:p>
+     <tei:p>
+      Plukovník dôverne zažmurkal.
+     </tei:p>
+     <tei:p>
+      — Rozumiem, rozumiem, pán poručík, chcete povedať, že oficiálne   ešte nie ste zasnúbený, plne chápem...
+     </tei:p>
+     <tei:p>
+      — Dovoľte, pán plukovník...
+     </tei:p>
+     <tei:p>
+      Ale plukovník ma už vôbec nepripustil k slovu.
+     </tei:p>
+     <tei:p>
+      — Nenamáhajte sa, poručík, výhovorky vám nepomôžu, som dokonale   informovaný o všetkom. Hoho, myslíte, že sa v meste nevie, prečo sa   rozišlo zasnúbenie slečny Wilhelminy z Riedenburgu? Úprimne povedané,   teším sa tomu zo srdca, nerád by som videl takú skvostnú nevestu v   rukách rezervného. My aktívni...
+     </tei:p>
+     <tei:p>
+      — Pán plukovník...
+     </tei:p>
+     <tei:p>
+      — Počkajte, teraz hovorím ja, váš plukovník. Musíte vedieť, že ako   veliteľovi kádru prislúcha mi bdieť i nad súkromnými záležitosťami   mojich dôstojníkov, teda mám slovo i do vašich srdcových otázok. A   keďže ste už tak ďaleko, dovoľte mi, poručík, aby som vám vyjadril   svoje úprimné potešenie nad šťastnou voľbou.
+     </tei:p>
+     <tei:p>
+      Plukovník vzal teraz na seba dôstojný, až slávnostný výzor, kým sa   z jeho úst valil na mňa zápach roquefortského syra a kontuszowky.
+     </tei:p>
+     <tei:p>
+      — Nezabúdajte, poručík, že je to dobrá, stará šľachta, prinajmenej   taká stará ako vaša, Seebornovcov. Áno, páni z Riedenburgu sa   spomínajú už za Habsburského Rudolfa v halleinskej darovacej listine.   Boli to všetko statoční rytieri, ak sa nemýlim. To si musíte,   poručík, zvlášť vážiť. A panie z Riedenburgu boli široko-ďaleko   povestné svojím telesným pôvabom... a keď sa nemýlim, najmladšia   svojho rodu, hehehe, nijako nezaostáva za svojimi krásnymi   pramatkami... hehehe... vy ste, poručík, veľký figliar.
+     </tei:p>
+     <tei:p>
+      A znova dôverne zažmurkal, labužnícky si prejdúc rukou po fúzoch,   kým ja som stál pred ním nehybne, v strmom pozore, pod návalom   plukovníkovho tárania neschopný jediného slova protestu. Keď sme sa   vracali do jedálne, na rozlúčku mi ešte zakričal od dverí:
+     </tei:p>
+     <tei:p>
+      — Vy ste veru pekný figliar!
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Mína mi napísala takýto list:
+     </tei:p>
+     <tei:p>
+      Chcem ťa vidieť. Príď v pondelok ráno o 9. hod. do dómu. Nájdeš ma   pri štvrtom stĺpe vľavo. Budem v bielom.
+     </tei:p>
+     <tei:p>
+      Mína.
+     </tei:p>
+     <tei:p>
+      Odovzdala mi ho Erna s akýmsi tupým, zlomyseľným výrazom v   tvári.
+     </tei:p>
+     <tei:p>
+      — Ženské písmo.
+     </tei:p>
+     <tei:p>
+      — Áno, ženské písmo, — odvetil som chladne. Boh mi odpusť, ale keď   vidím na ženskej tvári túto zlú a nekonečne obmedzenú črtu, mám   pocit, že predo mnou stojí malé, potmehúdske a zlomyseľné zvieratko.   Preto sa radšej odvrátim a idem svojou cestou, lebo pri pohľade na   zlomyseľné zvieratká mi zavše mimovoľne trhá rukou...
+     </tei:p>
+     <tei:p>
+      Ani teraz som neodpovedal a zašiel som do kúta, chcejúc
+     </tei:p>
+     <tei:p>
+      list prečítať vo všetkej tichosti. No nepočítal som s povahou   zanovitých, zlomyseľných zvieratiek. Erna šla i sem za mnou a pýtala   sa hlasom, z ktorého jasne vyznieval úmysel urážať, vyvolať nechutnú   scénu, končiacu sa vždy slzami a usedavým plačom.
+     </tei:p>
+     <tei:p>
+      — Prosím ťa, a ktoráže ti to píše?
+     </tei:p>
+     <tei:p>
+      To „ktoráže“ bolo vyslovené s toľkým opovrhnutím, s toľkým   hanebným upodozrievaním a s toľkou nenávisťou, že som mal chuť na   mieste potrestať toto malej zlomyseľné zvieratko. No miernim sa.
+     </tei:p>
+     <tei:p>
+      — Nepoznáš ju.
+     </tei:p>
+     <tei:p>
+      Medzi chlapmi by takáto odpoveď postačila. Vôbec však nepostačí   zvrátené mysliacemu ženskému tvorovi v podráždenej nálade. Erna   opovržlive spustila kútiky úst a sadla si afektovane na kraj   otomanu.
+     </tei:p>
+     <tei:p>
+      — A keby ma jednako zaujímalo zvedieť jej meno?
+     </tei:p>
+     <tei:p>
+      Neodpovedal som a rozrezával obálku listu. Je celkom zbytočné   odpovedať na otázky tupých, zlomyseľných a podráždených žien.
+     </tei:p>
+     <tei:p>
+      — Počuješ, Max? Kto ti písal?
+     </tei:p>
+     <tei:p>
+      — Dáma zo spoločnosti, — odsekol som namrzene.
+     </tei:p>
+     <tei:p>
+      — Dáma? Hahaha...
+     </tei:p>
+     <tei:p>
+      To je už... to je už hystéria. Rozzúrený schytím čiapku a vybehnem   na chodbu, kde si môžem nerušene prečítať Mínin list.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Je biely, úzky, stúpa z neho konvalinková vôňa. Vôňa   konvaliniek... I z jej ňadier vystupuje vôňa konvaliniek, jej ústa sú   konvalinkovým kalíškom, jej bozky chutia medom konvaliniek, jej   pršteky sú ako útle konvalinkové stebielka a jej hlas... to ako keby   sa rozhojdalo tisíce zvončekov.
+     </tei:p>
+     <tei:p>
+      Moja biela, nepoškvrnená konvalinka...
+     </tei:p>
+     <tei:p>
+      S rozkošou si mrmlem pre seba: „Chcem ťa vidieť... Príď v pondelok   ráno... Nájdeš ma pri štvrtom stĺpe... Budem v bielom...“
+     </tei:p>
+     <tei:p>
+      A do pondelka sú ešte celé tri dni!
+     </tei:p>
+     <tei:p>
+      Vtom sa ozval Ernin plačom prerývaný hlas:
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Max... Max...
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Už ma netešia Ernine bozky a nepôsobí mi zvláštnu rozkoš   zaboriť si hlavu do jej mäkkých, rozpustených vlasov. Moja myseľ je   ďaleko, ďaleko od Erny... vlastne ani nie tak ďaleko, najviac na   polhodinku cesty, v malej, jednoposchodovej vile na druhom konci   mesta, v bielej, dievčenskej izbe, v ktorej voňajú konvalinky, Mínine   sladké konvalinky. A tak sa potom stáva, že bozkávajúc Ernu, bozkávam   Mínu...
+     </tei:p>
+     <tei:p>
+      V najnovšom čase pozorujem mnohé, čo som nedávno ešte nebadal a čo   ma napína postupne sa vzmáhajúcou nevôľou, ba priam odporom.
+     </tei:p>
+     <tei:p>
+      Vezmite to rad-radom. Urážajú ma Ernine gestá, uráža ma jej náhly   spád hlasu, uráža jej smiech, jej spôsob reči, jej chôdza. Jej   vtipnosť mi prichodí príliš vyumelkovaná, jej dobrosrdečnosť herecky   vypočítavá. Všetko, všetko ma na Erne uráža a denne nachádzam nové,   doteraz nepozorované tienisté stránky, alebo sú to vlastnosti, ktoré   mi doteraz boli prameňom nežnosti a rozkoše. Napríklad Ernina   šošovička. Má Erna malú šošovičku na ľavom pleci, tesne pri krku.   Bozkával som ju pri každej možnej i nemožnej príležitosti. A hľa,   dnes ma už nevie nadchnúť pôvab malej šošovičky.
+     </tei:p>
+     <tei:p>
+      Ale je tu ešte aj iné. Ktorýsi večer ma Erna bozkala na ústa: jej   bozk páchol cesnakom, že ešte aj dnes mám cesnakovú chuť v ústach.   Hneď som vedel, že Erna jedla v divadelnej reštaurácii cesnakové   klobásky, veľmi nechutné a podozrivej akosti. Stále mám pred očami   odporný obraz tých krátkych, ohnutých klobások, a nie je moja vina,   že sa mi jednostaj vsúvajú medzi Ernu a mňa.
+     </tei:p>
+     <tei:p>
+      Čo z takej milenky, ktorá rias častuje cesnakovými bozkmi?
+     </tei:p>
+     <tei:p>
+      Alebo mám opísať odprevádzame Erny na stanicu, keď naposledy   cestovala k svojej sestre do Innsbrucku? Tak prosím. Mala na sebe   čierne hodvábne šaty, v ktorých bola štíhla, vysoká a očarujúca.   Myslím si: Erna je rozkošné decko. Keď ju takto vidím, cítim sa   hriešny a hrubý. Nemožno neľúbiť toto krásne decko.
+     </tei:p>
+     <tei:p>
+      Prechádzame sa po nástupišti a Erna rozkladá rukami, ako asi   pocestuje, ako sa bude nudiť a ako jej bude ľúto. Mnohé zraky   premeriavajú Erninu postavu a odhadujú v duchu rozkoš, ktorú vie   poskytnúť. Najmä starý plukovník od delostrelectva je bezočivý a zíza   Erne celý čas do tváre. Erna to zbadá a zamračí sa. Ja sa však   neklamem. Keby to bol mladý poručík od dragúnov, iste by sa   nemračila.
+     </tei:p>
+     <tei:p>
+      — Vidíš ho, bezočivého chlapa? Cítiť ho nemôžem. A on si celkom   iste prisadne ku mne, pokazí mi celú cestu. Odporný dedko...
+     </tei:p>
+     <tei:p>
+      Mal by som byť smutný a ledva viem potlačiť úsmev, že o niekoľko   minút budem na pár dní slobodným človekom, že nebudem musieť brať   ohľad na ženské vrtochy, že mi nik nebude rušiť nočný spánok. Vravíme   si podchvíľou, že sa ľúbime, že budeme nekonečne túžiť za sebou — a v   hĺbke duše vieme, že hovoríme číru lož, lebo dnes sa ľúbia už len   naše zmysly. Duše sú si naprosto cudzie.
+     </tei:p>
+     <tei:p>
+      V ktorejsi chvíli zastaneme a hľadíme si do očí, vôbec nie   zaľúbene, ale akosi nedôverčivo, so stupňovaným úžasom. A stalo sa v   tej krátkej chvíľočke toto: z našich myšlienok padol závoj a videli   sme ich v plnej nahote, do najposlednejšieho záchvevu, jasne   čitateľné a precízne ohraničené. Zahanbili sme sa, ako keby sme tu   stáli do naha vyzlečení.
+     </tei:p>
+     <tei:p>
+      Vrátnik oznámil odchod vlaku.
+     </tei:p>
+     <tei:p>
+      — Max, nezabúdaj na mňa!
+     </tei:p>
+     <tei:p>
+      — Nie, nezabudnem.
+     </tei:p>
+     <tei:p>
+      Schytila mi ruku, stisla ju a už aj zmizla v nervóznom zástupe. O   chvíľku som ju videl ľahunko a elegantne sa vyšvihnúť do vozňa. Hneď   nato sa zjaví v okne, s úsmevom hľadiac na mňa a kýva mi rukou na   rozlúčku. Či si k nej neprisadol starý dedko od delostrelectva?
+     </tei:p>
+     <tei:p>
+      Nehľadím na ňu. Neviem prečo, ale zaumienil som si, že len vtedy   pozriem na Ernu, keď sa vlak už pohne. Za ten čas preletím zrakom   susedné obloky a zastavím sa na lesklej, oholenej lebke. Formálne   žiari a pripomína mi staničné reklamné obrazy s prostriedkom proti   plešinám. Som presvedčený, že ani Erna sa nedíva na mňa a že aj ona   si zaumienila vyčkať do poslednej chvíľky. Konečne krátky lomoz,   vozne sa posunú. Zraky sa nám stretnú, ruky kývajú vreckovkou, kým sa   vlak nestratí za najbližšou zákrutou. Z pliec sa mi odvalilo ťažké   bremeno, vydýchol som teda radostne.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Prvý... druhý... tretí... štvrtý...
+     </tei:p>
+     <tei:p>
+      Kľačí na zamatovej podnôžke a skláňa hlavu tak pokorne, ako keby   ju tlačili veľké, ťažké hriechy. Cez farbistú mozaiku okna padajú na   ňu zlaté, modré i zelené fľaky, zlaté na čelo, modré na šiju a zelené   na zopäté ruky. Botticelliho sladkoústa, bledá Madona.
+     </tei:p>
+     <tei:p>
+      Mína sa modlí. Tíško a nikým nepozorovaný prikľaknem k nej,   chránený hrubým stĺpom pred zvedavými zrakmi v hlavnej lodi. V tú   chvíľu bol dóm takmer prázdny a také ticho vládlo pod jeho mohutnými   klenbami, že bolo počuť tlkot dvoch sŕdc: Jedného úbohého a druhého z   protézy, stokrát úbohejšieho.
+     </tei:p>
+     <tei:p>
+      Vie, že som tu. Nezdvihne hlavu, len čo sa jej pery rýchlejšie   hýbu a šija skloní ešte pokornejšie. Či nepocítila zlatovlasá Greta   to isté, keď pri vchode do chrámu videla stáť tmavého, čudného   cudzinca s ešte čudnejším sprievodcom? Či nezaľahli na jej svetlú   dušu tie isté úzkosti, predtuchy a strach pred neznámym? Mínina   zbožná duša vycítila blízkosť hriechu a na chvíľku ju zachvátila   hrôza. Ale nie sú ženy nočné motýle, ktoré slepo vyhľadávajú záhubu a   sú predurčené spáliť si krídla v plameňoch?
+     </tei:p>
+     <tei:p>
+      Nahol som sa nad ňu a vtisol ľahký bozk na zohnutú šiju. Striaslo   ju. Áno, blízkosť Madony je slabou ochranou pred človekom, ktorý má   protézu namiesto srdca...
+     </tei:p>
+     <tei:p>
+      A znovu sme sedeli na našej starodávnej lavičke pri hellbrunnskom   Monatschlossli ako pred mesiacom a znova mlčky hľadeli na veľkolepú   panorámu, ktorá sa nám rozprestierala pod nohami. Áno, všetko bolo   také ako predtým, len v Míninom nežnom srdci nastal sladký pokoj a   tichá radosť za najnovšej lásky c. a k. poručíka Maximiliána von und   zu Seeborna. Úplnú blaženosť Wilhelminy z Riedenburgu, ruší už len tá   malicherná, ale v jej očiach veľmi dôležitá okolnosť, že znovunájdený   miláčik... hm... jednoducho povedané, že tento mladý človek ešte vždy   spáva s hviezdou soľnohradskej činohry, s tou protivnou Ernou, v jej   očiach veľkou hriešnicou. Po celý čas, čo sedíme pri sebe, neschodí   jej to z mysle a chystá sa vysloviť svoje veľké pohoršenie nad tou   úžasnou nemravnosťou, no nenachádza primerané slová na háklivý   rozhovor. S veľkou rozkošou pozorujem jej tiché ťažkosti (pohráva sa   nervózne so slnečníkom a podchvíľou sa začervenie, drahá) a trpezlivo   čakám na začiatok. Konečne to vybúšilo:
+     </tei:p>
+     <tei:p>
+      — Max, okamžite prerušíš všetko s ňou!
+     </tei:p>
+     <tei:p>
+      — Čo? S kým? — čudujem sa.
+     </tei:p>
+     <tei:p>
+      — Veď vieš...
+     </tei:p>
+     <tei:p>
+      Tvár drahej stojí v plameňoch, hanblivo odvracia hlavu a neodváži   sa mi pozrieť do očú. (Ale pred rokom sa nehanbila.) Je to obraz taký   rozkošný, že je mi ho ľúto pokaziť. Preto odpovedám nechápavo:
+     </tei:p>
+     <tei:p>
+      — Ozaj nerozumiem...
+     </tei:p>
+     <tei:p>
+      Avšak Mína ma hneď prehliadla. Zbledne a opovržlivo spustí kútiky   úst.
+     </tei:p>
+     <tei:p>
+      — Myslím tú tvoju herečku.
+     </tei:p>
+     <tei:p>
+      Mína je v nebezpečí hovoriť tupo a surovo ako každá žena, keď ide   o jej vlastnícke právo na muža. V takýchto chvíľach niet rozdielu   medzi ženami drsnými a jemnocitnými, medzi ženami zo spoločnosti a   ženami jednoduchými: najspodnejšie, ale aj najneskazenejšie inštinkty   vybúšia, hoc aj nie rovnakými slovami, ale s rovnakou nenávisťou a s   rovnakou bezohľadnosťou, vždy surovo, podráždene a hlúpo. „Tú tvoju   herečku“ vyslovila Mína s tým istým hanebným opovrhnutím ako svojho   času Erna Mínino označenie „dáma“. A je len rozdiel medzi   spoločenským stupňom oboch dievčat!
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Ernu?
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      — Neviem, ako sa volá... myslím prirodzene tú, s ktorou   žiješ.
+     </tei:p>
+     <tei:p>
+      Opovrhnutie ustúpilo rozhorčeniu a úprimnému žiaľu nad toľkou   skazenosťou. Ó, vy netolerantné tvory! Mína mi dala kategoricky na   vedomie, že alebo ona, alebo „tá herečka“, strednej cesty nepozná. V   prvom prípade musím „zaraz prerušiť pomer s ňou“.
+     </tei:p>
+     <tei:p>
+      Toho dňa som však mal zvláštnu náladu, a preto, vstanúc z lavičky,   prehovoril som celkom vážne:
+     </tei:p>
+     <tei:p>
+      — Čo vy, ženy, toľko a tak zbytočne žiarlite? Aký nerozum a aká   duševná tuposť! Denne hovoríte o láske, bezhraničnej a svätej, a   vaším prvým činom je v mene tejto bezhraničnej a svätej, teda údajne   celkom nezištnej lásky sputnať nám ramená a zbaviť nás navždy i   najmenšieho voľného pohybu. Áno, tak robíte. Jemnučkými hodvábnymi   nitkami nám zviažete ruky, a čím sú tieto svalovitejšie, tým viac v   nás mužnosti i zdravého inštinktu po slobodných rozmachoch a tým   hlbšie sa nám nitky vrezávajú do mäsa. Bdiete nad každým naším   krokom, nad každým naším pohybom, úzkostlivo sledujete každé naše   slovo, dávate pozor na každý sval našich tvárí, vkradnete sa nám do   myšlienok, do najskrytejších závitov mozgu, ba ani naše sny nie sú   isté pred vašou strašnou podozrievavosťou... ako večný tieň nás   sprevádzate na každom kroku, od rána do večera a od večera do rána,   ach, tak otrocky prefíkane... A nemilosrdnou rukou vykynožíte všetko,   čo je v nás veľké, krásne a silné, čo nás robí nad vás povýšenými,   bohu blízkymi. Prečo? Prečo? Lebo, drahá, toto všetko leží mimo vášho   dohľadu, mimo vášho úzkeho horizontu, v diaľkach, kam vaše oko nikdy   nedôjde, kam váš duch nikdy nezaletí... A aby ste nemuseli ostať na   hranici tejto ríše, prídete s nožničkami v ruke a obstrihnete všetko,   čo presahuje onú hranicu. Všetko, všetko obstrihnete, podľa svojich   filigránskych rozmerov: myšlienky, túžby, snahy, sny, plány,   ideály... v mene veľkej, samospasiteľnej lásky, len aby ste nás mohli   čím ľahšie a bezpečnejšie strážiť. Áno, len preto to robíte! Ó, koľká   hanebnosť: z víťazných a pyšných orlov spravíte kŕdeľ džavotajúcich   vrabcov a zrazu ste prešťastné, že môžete spolu s nimi džavotať.   Obstrihávate perute, lebo nenávidíte výšky, kam nás nemôžete   sledovať. Vaším domovom sú ploty, strniská vyschnuté kry, uličný   prach, strechy, a prinútite hrdého orla, aby sa s vami v prachu   váľal, aby bezmocne poskakoval, džavotal, džavotal...
+     </tei:p>
+     <tei:p>
+      Tento deň patril Bakchusovi. Vždy holdujeme Bakchusovi, keď príde   na nás chvíľa... Keď vnútro zabúri chaotickou vravou, že si vlastného   slova nerozumieme, keď sa tepnami rozleje láva zžieravého bôľu alebo   smútok zaľahne na myseľ. Vtedy vyhľadávame odveké božstvo v jeho   svätostánku a s horlivou opravdivosťou kladieme mu obete na oltár   podľa starodávnych rítov, od otcov zdedených, za cengotu vínových   čiaš a slávnostného štvorspevu, pri kriku i tanci... A dobrotivý je   boh Bakchus k svojim ctiteľom. Vylieči, vravu zakríkne, oheň zadusí,   bôle zmierni, smútok odveje... čo i len do najbližšieho termínu.   Sláva buď za to bohu Bakchusovi, milému dobrodincovi!
+     </tei:p>
+     <tei:p>
+      Dnes došlo k roztržke s Ernou. Došlo!... Hahaha!
+     </tei:p>
+     <tei:p>
+      Sedela pred zrkadlom a upravovala si účes. Ó, tie jej skvostné,   mošusom voniace vrkoče! Ja som stál bokom, pri okne, a pozoroval ju   neprestajne, neprestajne... až prišiel na mňa čudný závrat... veď ona   má na sebe len nočný kabátik a spod neho vykukáva dvoje bielych,   tvrdých dievčenských pŕs, núkajúcich divoké rozkoše... A ja stojím   pred nezlomným rozhodnutím zakončiť všetko podľa vopred stanoveného   programu! (E viva Pečorin!) Štípem sa do stehna, aby ma nepremohol   závrat, a hryziem si pery do krvi a zatínam päste, až mi nechty   vnikajú do dlane... Ale už sa mi krivia prsty na vášnivé objatie,   pred očami zatancujú krvavé obruče, v uchu zacvendží tenučko...   Cítim, ako sa láme to moje „skalopevné“ rozhodnutie. Ach, aj kúštik   lýtka odhalí nediskrétna košieľka, kúštik sviežeho, hladkého lýtka,   tak výrečne vyzývavého... Kde ste, tvrdí bohovia?
+     </tei:p>
+     <tei:p>
+      A hľa:
+     </tei:p>
+     <tei:p>
+      Teraz si nadvihuje vrkoče.
+     </tei:p>
+     <tei:p>
+      Ó, ako sa zmenila! Hlava dostala obrysy aj výraz mačky, áno,   nahlúplej mačky, s groteskným ružovým noštekom a žalostne skrivenou   papuľkou. Niečo náramne komické, ale i nechutné, ba priam odporné.   Veď to nie je Erna, moja krásavica a hviezda soľnohradského divadla,   rozkošná Julietta lorda Amandala. Ale áno, hovorím si, práve to je   ona, v svojej najhlbšej podstate: nahlúpla mačka. Prišla mi na um   skvelá rozprávka, tuším od nešťastného Villiers de l‘Isle-Adama o   salónnej spoločnosti, v ktorej akýmsi čudným zvratom začínajú hlavy   prítomných dostávať obrysy i črty zvierat, príbuzných charakterom. Na   čo, hm... na čo by sa musela premeniť Mína z Riedenburgu? Na   konvalinky, na biele, voňavé konvalinky, vyzváňajúce strieborným   cengotom...
+     </tei:p>
+     <tei:p>
+      Je po chvíľkovej slabosti. Päste sa uvoľnia, hlava ochladne...   áno, už som sa celkom spamätal, som opäť pevný, neoblomný... Zapálim   si cigaru a postavím sa tesne za ňu, rozkročmo, s urážlivou   ľahostajnosťou odfukujúc dym ponad jej hlavu. Dym sa odráža od   zrkadla a mýli Ernu pri zapletaní vrkočov. Jej ťažkých, mošusom   voniacich vrkočov!
+     </tei:p>
+     <tei:p>
+      — Ale Max... — čuduje sa s úsmevom.
+     </tei:p>
+     <tei:p>
+      Pokračujem v neslušnosti.
+     </tei:p>
+     <tei:p>
+      — Prosím ťa, veď takto nemôžem... — a chutne zošpúli tie červené,   krvilačné ústa. Hoho, sme obrnení, milenka moja krásna! Sme   obrnení!
+     </tei:p>
+     <tei:p>
+      — Ide totiž o to, — hovorím načisto ľahostajne, ako keby šlo o   veci každodenné, — že sa dnes musíš odsťahovať.
+     </tei:p>
+     <tei:p>
+      Prestala zapletať vrkoče a cez zrkadlo vrhla na mňa pohľad,   nechápavý a prekvapený. Ó, aký hlúpučký pohľad!
+     </tei:p>
+     <tei:p>
+      — Nerozumiem... — jachce v prvom prekvapení.
+     </tei:p>
+     <tei:p>
+      — Myslím, že bude najlepšie, keď sa rozídeme, — hovorím celkom   priateľsky.
+     </tei:p>
+     <tei:p>
+      — Máš dnes akúsi zvláštnu žartovnú náladu, — usmeje sa s nútenou   zhovievavosťou a ďalej si zapletá vlasy. Tým mi chce jasne naznačiť,   že všetko pokladá iba za žart, neslušný síce, ale odpustiteľný pri   mojej periodickej náladovosti.
+     </tei:p>
+     <tei:p>
+      Ale nie... zrazu, z čista jasna pochopila, že mi nie je vôbec do   žartu a že to s rozchodom myslím naozaj vážne. Vidím, ako jej zrazu   zbledli líca... hľa, i ruky sa jej triasli a pohľad stemnel ako more   pred búrkou. Chápe, veľmi dobre chápe, že tu už nič nemožno zmeniť,   že všetko je rozhodnuté, do detailov premyslené, presne odvážené...   ale ešte chce získať niečo času. Keď už je bitka prehraná, tak aspoň   čestný, prijateľný ústup.
+     </tei:p>
+     <tei:p>
+      — Erna, pozri, rozídeme sa v najlepšom priateľstve, ako sa svedčí   na milých, rozumných milencov-kamarátov, — dohováram jej mierne a   hladkám ju po vlasoch. Jej mäkkých, mošusom voniacich vlasoch.   Čudujem sa, že necítim nijakú ľútosť, nijaké výčitky svedomia, ba ako   keby sa všetko rozjasňovalo, nadobúdalo radostnejšie farby... a   hladkajúc Ernine vlasy, myslím, na bledolícu Mínu z Riedenburgu, na   striebristý cengot konvaliniek...
+     </tei:p>
+     <tei:p>
+      — Ale prečo? Prečo? — šepkala Erna so široko roztvoreným   zrakom.
+     </tei:p>
+     <tei:p>
+      — Niet iného východiska, — mrmlem a usilujem sa dodať svojmu hlasu   trocha tragickej príchuti. A pretože mi nič rozumnejšie neprichodí na   um, úporne hľadím do kúta, kde visia Ernine ranné šaty.
+     </tei:p>
+     <tei:p>
+      Nepríjemné ticho.
+     </tei:p>
+     <tei:p>
+      V tomto tichu začínam chápať čosi prekvapujúce, náramne komické...   Hľa, veď mi tu obidvaja hráme čistú komédiu, veď sme si my už dávno   nazreli do duše a vieme celkom presne odhadnúť jalovosť svojich   citov. Oj, už dávno sme čakali na tento deň, ktorého príchod bol   neodvratný, veď všetky príznaky hovorili o jeho blízkom príchode. Len   to sme nevedeli, že bude tak chabo dramatický a že budeme musieť hrať   komédiu, aby sme z akejsi hanby pred sebou zakryli chatrnosť svojich   citov.
+     </tei:p>
+     <tei:p>
+      Hľadáme primerané finále. Len načo, načo to všetko... veď to tak   unavuje!
+     </tei:p>
+     <tei:p>
+      — Ó, ako to bolí, ako hrozne to bolí... vyháňa ma... neľúbi ma   viac... Max, Max... či vieš, čo robíš? — zaplakala Erna a s krásnym   gestom chytila sa obidvoma rukami toaletného stolíka, ako keby ju   premohla chvíľková slabosť. Keď bude treba, azda aj zamdlie, ale to   sa, dúfam, predsa len v našom repertoári nevyskytne.
+     </tei:p>
+     <tei:p>
+      Odpovedám:
+     </tei:p>
+     <tei:p>
+      — Jedného dňa som riekol: Ja vládnem v ríši a v krajine.
+     </tei:p>
+     <tei:p>
+      — Ale kráľovnou som bola ja... — bránila sa Erna.
+     </tei:p>
+     <tei:p>
+      — Áno, kráľovnou, ktorá sa síce teší priazni svojho pána, ale vie   byť i hrdá! — citujem z Ibsena trocha povýšeným hlasom.
+     </tei:p>
+     <tei:p>
+      — A... a kto nastúpi na môj prestol? — prešľahne do tragédie   záblesk laškovnosti.
+     </tei:p>
+     <tei:p>
+      — Hm...
+     </tei:p>
+     <tei:p>
+      — Dáma zo spoločnosti?
+     </tei:p>
+     <tei:p>
+      — Niečo podobného... Koniec koncov o slušný byt som sa ti už   postaral v Zlatej kačke, budeš s ním spokojná. Môj sluha ti stojí   kedykoľvek k dispozícii. Ak rozkážeš, môžeme hneď začať...
+     </tei:p>
+     <tei:p>
+      — Max, Max... — vykríkla a prikryla si tvár obidvoma dlaňami, aby   som nevidel, že jej oči ostávajú suché.
+     </tei:p>
+     <tei:p>
+      — Ale, Erna, dieťa milé... — utešujem ju s povinnou nežnosťou,   predpísanou pre podobné situácie.
+     </tei:p>
+     <tei:p>
+      — Max, Max... — horekovala ďalej a prsia sa jej vlnili kŕčovitým   plačom, ako sa jej už stokrát vlnili pred rampou v osvetlení   žiaroviek.
+     </tei:p>
+     <tei:p>
+      Vzdialil som sa bez slova a vrátil sa iba neskoro večer. Dosť   podpitý. Čert vie, čo ma zviedlo na pitie.
+     </tei:p>
+     <tei:p>
+      Na stole som našiel krásnu ružu a Erninu navštívenku, na ktorej   stálo: „Pá, bozkávam ťa.“
+     </tei:p>
+     <tei:p>
+      Áno, Erna je predsa len zlaté decko.
+     </tei:p>
+     <tei:p>
+      A na druhý deň som si zamenil izbu.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Slobodný!
+     </tei:p>
+     <tei:p>
+      Po dlhých mesiacoch znova slobodný! Slobodný od rána do večera a   od večera v jednom kuse, neprestajne slobodný. Byť slobodný v každej   chvíli, takrečeno na každom mieste, za každých okolností a byť   slobodný najmä doma, medzi štyrmi stenami, vo vlastnom prostredí!   Cítiť sa úplne voľný a neobmedzený v každom konaní, môcť konať   ľubovoľne, podľa vlastného uváženia, nemusieť brať ohľady na nikoho,   na nič... čo je to za nádherný, jasavý pocit! Či to nie je dostatočná   príčina na úprimné vydýchnutie?
+     </tei:p>
+     <tei:p>
+      Slobodný... Vzduch! Svetlo! Voľné horizonty!
+     </tei:p>
+     <tei:p>
+      Hľa, veď mne je naraz ako trestancovi, ktorému sa podarilo uniknúť   z nenávideného väzenia. Hlava sa mu zakrúti od voľného vzduchu, príde   naňho slabý závrat, zbožne by kľakol na kolená a bozkal prach zeme...   A je mi aj ako po ťažkej, dušu i telo gniaviacej chorobe... áno, tak   akosi mi je. (Či to nebola choroba, všetko od začiatku?)
+     </tei:p>
+     <tei:p>
+      V dnešnom rozkaze stálo, že poručík Maximilián von und zu Seeborn   prideľuje sa k Druhej pochodovej stotine. Táto stotina má odísť už v   najbližších dňoch a jej veliteľom je nadporučík Fiorelli, ozrutný   tmavooký Trentinčan, o ktorom sa medzi nami všeličo povráva... Ale   pri pluku majú k nemu neobmedzenú dôveru, dostal predsa ako práporčík   zlatú medailu za chrabrosť, preukázanú kdesi vo Volyňsku. Fiorelli je   vážny, nezhovorčivý a večne zachmúrený. Do spoločnosti nechodí, s   dievčatami sa nestýka, verejné miestnosti nenavštevuje — slovom,   človek puritánskych mravov a zrejme opovrhujúci celým svojím okolím,   počnúc od plukovníka až po svojho sluhu, ktorý má uňho tvrdý život.   Mal by však byť opatrnejší vo svojich antipatiách, lebo prípad s   Battistim rozrušil kdekoho. Nemôžem zamlčať, že k nemu cítim hlbokú   náklonnosť, hoci nemám Talianov vo veľkej láske. A najmä nie   Trentinčanov, s ktorými mám už svoje skúsenosti.
+     </tei:p>
+     <tei:p>
+      Okrem mňa sú tu ešte poručíci Hueber a Feuerstrom a práporčík   Kunzel, protivný, žltovlasý študent odkiaľsi zo saských hraníc.   Hueber je aktívny, spolu sme chodili do innsbruckej kadetky, človek   prázdny, namyslený. Pokladá sa za neodolateľného krásavca, a aby   svoje pôvaby ešte zvýšil, nosí šnurovačku. Feuerstrom robí dojem   tvrdošijného špinavca, nám aktívnym sa podlizuje a na záložných   klebetí, kde len môže. Pravdepodobne sa dá aktivovať, no ja budem   prvý hlasovať proti nemu.
+     </tei:p>
+     <tei:p>
+      Slovom, mám to ja len príjemných druhov v stotine. Mužstvo? Samí   devätnásťroční chlapci. Decká. Prišli sem priamo spoza matkiných   sukieň. Aj chodia po dvore tichí, zarazení, s preľaknutými tvárami —   stačí tvrdšie slovo a už im to myká bradou, hneď by sa pustili do   plaču. A takéto mláďatká nám posielajú sem do pochodových formácií,   týchto bledolícich, prestrašených chlapcov máme viesť na bitúnok. Veď   ledva udržia manlicherku na pleci — a už ňou majú narábať prostred   zúriacich bojov. Ako nazvať takúto nesvedomitosť? Nová herodiáda!   Padnú, skosení utrpením vo vlhkých zákopoch prv, než by vyčkali   smrtonosnú ranu nepriateľa. Koľká hrôza! Kto za to všetko   zodpovie?
+     </tei:p>
+     <tei:p>
+      Prirodzene, že sa hneď dozvedela o mojom zadelení k pochodovému   práporu. Totiž Mína. Postarali sa o to nežné, súcitné priateľky,   ktoré sú vždy pohotové vykonať dielo milosrdenstva.
+     </tei:p>
+     <tei:p>
+      Keď som na druhý deň po zadelení skončil popoludňajšie cvičenie v   barakovom tábore na brehu Salzachu a poberal sa v zvyčajnú hodinu   krásnou gaštanovou alejou smerom k mestu, vidím kráčať proti sebe   dámu v bielom. Je to Mína. Po prvý raz mi ide naproti z vlastného   popudu, bez vyzvania, čo sa nikdy neprihodilo ani v prvom diele nášho   nežného románu. Keď sa tak dobre rozpamätám na všetky spoločne   strávené chvíle — a bolo ich veľa — prichodím k poznaniu, že vlastne   napriek svojej dojímavej oddanosti a ženskej mäkkosti bola to vcelku   osôbka nadmieru hrdá a ťažko prístupná. Áno, aj v najintímnejších   chvíľach vždy ako keby bola stála medzi nami španielska stena, ktorá   mi zabraňovala dôkladnejšie nazrieť Míne do duše. A prichádza mi na   um, že nikdy nebolo situácie, ani krajne nebezpečnej, ktorú by nebola   ovládala, pravda, s takým jemným taktom a takými istými rúčkami, že   to vnucovalo úprimný obdiv, hoci aj na úkor mojej poručíckej   reputácie. (Bože, či sme len boli namyslení fagani, my mladí   poručíci!) A dnes, hľa, prichodí sama so sklonenou hlavou a krokom   pokornej vinníčky... Ach, drahá, už naozaj nie sme ďaleko od   vytýčeného cieľa. Že to ty neveríš...
+     </tei:p>
+     <tei:p>
+      Priblížim sa k nej s úsmevom a s najkorektnejším pozdravom:
+     </tei:p>
+     <tei:p>
+      — Čo to za rozkošná náhoda...
+     </tei:p>
+     <tei:p>
+      Ale ona ma hneď na začiatku preruší akýmsi zmalátneným gestom:
+     </tei:p>
+     <tei:p>
+      — Max, je to pravda?
+     </tei:p>
+     <tei:p>
+      — Čože sa stalo, preboha?
+     </tei:p>
+     <tei:p>
+      — Povedali mi, že ťa pridelili k pochodovému práporu...
+     </tei:p>
+     <tei:p>
+      S úzkostlivým napätím očakávala moju odpoveď, chytiac ma ľahunko   za rukáv. A ja s rozkošou chystám pre ňu slová, ktorými ju zamýšľam   trýzniť na svoje nevýslovné potešenie:
+     </tei:p>
+     <tei:p>
+      — Áno, je to pravda. Podľa všetkého odchádzame už o niekoľko dní.   K pluku, samozrejme. Mal zase veľké straty, ktoré treba nahradiť   čerstvými silami.
+     </tei:p>
+     <tei:p>
+      — Ale... ale... veď si len nedávno došiel z frontu...
+     </tei:p>
+     <tei:p>
+      — Čo z toho, drahá? Rozkaz je rozkaz. Treba poslúchať...
+     </tei:p>
+     <tei:p>
+      — Nemožno tu nič podniknúť? Mám na mysli rozsiahle konexie našej   rodiny...
+     </tei:p>
+     <tei:p>
+      — Bolo by to bezvýsledné. A... neprajem si nijaké zasahovanie,   vrhalo by to na mňa čudné svetlo. Uváž, mladý, ambiciózny dôstojník,   plný vojnového nadšenia, hotový každú chvíľu položiť svoj život za   slávu dynastie (tie moje veľkolepé gestá!)... Nie, nie, nemožno meniť   rozhodnutie veliteľstva. Keď ísť, tak ísť. Idú aj iní.
+     </tei:p>
+     <tei:p>
+      Dlhá pauza.
+     </tei:p>
+     <tei:p>
+      Potom šeptom:
+     </tei:p>
+     <tei:p>
+      — A na mňa nemyslíš? Čo so mnou?
+     </tei:p>
+     <tei:p>
+      Čo s tebou, Mína z Riedenburgu, bledolíca krásavica moja? Bohovia   vedia... Keby to tak strašne nebolelo (hehe, protéza), povedal by som   s umierajúcim Valentinom:  DE wie es gehn kann, so wirds   gehn. Du fingst mit Einem heimlich an, bald kommen ihrer mehre dran.   . ./lang
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Už vieme i presný dátum odchodu: v nedeľu, 26. júna. Dnes sme   vyfasovali konzervy a obväzy. Niektorí moji hrdinovia plakali, keď si   ich ukladali do batôžka.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      — Max?
+     </tei:p>
+     <tei:p>
+      — Načúvam, Mína.
+     </tei:p>
+     <tei:p>
+      — Veľmi ma ľúbiš?
+     </tei:p>
+     <tei:p>
+      — Veľmi ťa ľúbim.
+     </tei:p>
+     <tei:p>
+      — Nadovšetko?
+     </tei:p>
+     <tei:p>
+      — Nadovšetko.
+     </tei:p>
+     <tei:p>
+      — A keby som umrela?
+     </tei:p>
+     <tei:p>
+      — I ja by som umrel.
+     </tei:p>
+     <tei:p>
+      — Prisahaj!
+     </tei:p>
+     <tei:p>
+      — Prisahám...
+     </tei:p>
+     <tei:p>
+      — Max?
+     </tei:p>
+     <tei:p>
+      — Načúvam, Mína.
+     </tei:p>
+     <tei:p>
+      — Ach... povedz mi, drahý, prečo je to, že sa mi čudným smútkom   zviera hrdlo, prečo mi slzy stúpajú do oč9? Prečo sa neviem z plného   srdca tešiť tvojim bozkom?
+     </tei:p>
+     <tei:p>
+      — Nervy, drahá.
+     </tei:p>
+     <tei:p>
+      — A prečo mávam také čudné sny noc čo noc?
+     </tei:p>
+     <tei:p>
+      — Nervy, nervy...
+     </tei:p>
+     <tei:p>
+      Bláznivý advokát.
+     </tei:p>
+     <tei:p>
+      Sedím u Zlatej hrušky pri večeri, mlčanlivo upíjam z hlbokého   kamenáka... a zrazu zacítim na chrbte čísi prenikavý pohľad. Zvoľna   sa obrátim a v kúte jedálne zbadám advokáta Schrödera, Míninho   bývalého snúbenca, nehybne hľadiaceho na mňa. Koľko nenávisti v   mračnom jagote oka, koľko nezmieriteľnej zášti, koľko nespútanej,   divej zloby. Keby sa dalo vraždiť pohľadom, už by som ležal na dlážke   tisíckrát prebodnutý a na márne kúsky rozkrájaný. Priznám sa bez   hanby, že mi prebehlo telom lahké chvenie a že som sa rýchlejšie   odvrátil, než som mal v úmysle. Aká hrozná, bezmedzná musí byť jeho   nenávisť! Ó, ja si ctím každú vášeň, nech vzniká z akýchkoľvek   príčin. Každá vášeň je krásna, či už šmýka človeka kalužami alebo ho   unáša medzi oblaky, len nie ľudia sú vždy rovnako triezvi, bez chyby   a hany...
+     </tei:p>
+     <tei:p>
+      Preto som asi, kým ma advokát Schröder posielal v duchu do   najhorúcejšieho pekla, necítil ani zášť, ani hnev, ani odpor, ba   pohlo sa vo mne niečo, čo by sa dalo nazvať počiatkom hlbokej   účasti...
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Či nie sme my chlapi, všetci bez rozdielu, otcovia, i synovia,   manželia i milenci, oklamaní i klamajúci, do priazne pojatí i   odmietnutí, spolutrpiacimi a spoločný osud znášajúcimi bratmi? Či nám   nie je, všetkým bez rozdielu, už od prvopočiatku údelom byť večitým   objektom uzurpátorských nábehov ženy? Či nečelíme každodenne   sebectvu, zlomyseľnosti, falši a skrivodlivosti našich najbližších i   najdrahších: matiek, manželiek, mileniek, dcér? Či nemusíme byť   prichystaní na každom mieste a každú minútu na nový úskok tohto   svojho odvekého protivníka, ktorý prichádza s mäkkou rúčkou a so   sladkým úsmevom zasadiť nám dobre namierenú ranu na mieste   najboľavejšom? Ó, ženy! Ó, dych pravekov! Ó, matky, manželky,   milenky, dcéry i vy všetky ostatné neznáme: vanie z vás puch   diluviálnych húštin, z ktorých ste sa blížili šelmovitým krokom, plné   krásnych i strašlivých inštinktov, neľútostné, bezcitné a milosti   neznajúce. Vo vašich pohľadoch sa kmitajú záblesky prašelmy, vaše   červené pery chutia teplou krvou, ostrosť vašich bielych zúbkov   pripomína nemilosrdný chrup ostrovida, vo vlnistých záhyboch vášho   úsmevu sa skrývajú všetky rozkoše neba i hrôzy inferna, vaše ružové   nozdry sa chvejú neznámymi vášňami, z uspávajúcej melódie vašej reči   vyznieva šum vzdialených pravekov, hladkosť vášho bieleho tela   vynucuje si predstavu číhajúcej zmije, narkóza vašich sladkých bozkov   preniká nám do najskrytejších hĺbok, vaše mäkké objatie zatracuje i   vykupuje...
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Píšem jasnými, zreteľnými písmenami: 15. júna1917.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Lebo toto bol deň, v ktorom mi bolo milosrdným a zároveň   milosť nepoznajúcim osudom dopriate vyprázdniť kalich najvyššej i   najhroznejšej rozkoše do poslednej kvapky, až po dno... Deň, v ktorom   ma ovial dych večnosti i puch strašlivého rozkladu. Deň, ktorý ma   vyniesol na najvyššie, oblohu šturmujúce vrcholce a bezcitnou rukou   sotil do najtmavších hlbín. Deň, v ktorom som sa spoznal so všetkými   nádherami neba i všetkými podlosťami inferna. A deň, ktorý každodenne   stokrát zvelebujem i stokrát preklínam a ktorého obraz, viem celkom   iste, štvať ma bude až do najposlednejšieho konca...
+     </tei:p>
+     <tei:p>
+      V tento deň sa stala Mína mojou. Celá, celučká, so svojím bielym   panenským telom. Prišla ku mne, a ja som si ju vzal. Tvrdo,   bezohľadne, surovo, tak ako sa svedčí človeku s protézou namiesto   srdca.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Už v raňajších hodinách sa ma zmocnil čudný nepokoj, ako keby som   bol vetril blízkosť veľkých chvíľ. Nepokoj sa stupňoval z hodiny na   hodinu. Napoludnie som už nevydržal v barakoch a nedbajúc na   škvŕkajúci žalúdok, dal som sa na cestu k hotelu, v ktorom bývam. Čím   viac som sa blížil k Hroznu (tak sa volá môj hotel), tým rýchlejšie   boli moje kroky. Cez Mozartovo námestie som už priam bežal. A tu   náhle pri jezuitskom chráme som pochopil príčinu svojho záhadného   nepokoja. Veď to bola predtucha Míninho príchodu. Áno, kdesi v   najskrytejších závitoch podvedomia usídlila sa pevná istota, že Mína   príde, aby mi ponúkla svoje nedotknuté panenské telo. Ó, tak   skalopevne som veril v jej nepoškvrnenosť! Či ona nie je bielou,   nežnou konvalinkou, ktorá je len dovtedy svieža, kým ju neodtrhnú   ruky surovca? Panenskosť sa odráža v každom jej pohybe, slove a   pohľade, nebolo možné o tom pochybovať. Mám obdivuhodný inštinkt v   týchto veciach, ešte ma nesklamal.
+     </tei:p>
+     <tei:p>
+      Konečne v hoteli.
+     </tei:p>
+     <tei:p>
+      — Hľadal ma tu niekto?
+     </tei:p>
+     <tei:p>
+      Nie, doteraz ma ešte nik nehľadal. Hej, Franc! Za priehrštie   najkrajších kvetov. A najmä konvaliniek, bielych, sviežich   konvaliniek! Čože, už pominul ich čas? Nedostať ich? Niet viac   konvaliniek... Koľká škoda... Ako by sa im potešila Mína z   Riedenburgu, najkrajšia milenka. Tak teda biele ruže sem, diskrétnej,   lichotivej vône, niekoľko krvavočervených vlčích makov (ako rozkošne   sa budú vynímať za jej vysokými ňadrami), trošku rezedy a veľa, veľa   brezového prútia. Čo, že ho nedostať? Aj keby si mal ísť za ním na   koniec sveta, Franc, musíš ho zadovážiť. Ako by som mohol prijať   svoju nádhernú milenku bez chumáčov brezového prútia tamhľa v kúte   nad toaletným stolíkom? Hanbiť by som sa musel, Franc. A bolo by tu   tak pusto, tak nevľúdne! Hej, Franc! Rýchle, rýchle, nemáme navyše   ani minútu, každú chvíľu sa môžu otvoriť dvere pred drahým hosťom.   Ajhľa, všetky moje peniaze!
+     </tei:p>
+     <tei:p>
+      Vysypal som pred sluhom Francom celý obsah svojej tobolky.   Päťdesiatšesť korún, ani haliera viac. Nech to všetko padne na kvety.   Ó, peňazí bolo i bude, ale Mína z Riedenburgu len jedinký raz v   svojom živote prekročí prah môjho bytu. Ani vtedy neodíde taká, aká   prišla. To predsa treba náležité oceniť. Hehehe...
+     </tei:p>
+     <tei:p>
+      Príde, istotne príde. Cítim to každým svojím nervom, je vylúčené,   aby som sa sklamal. Prižmúrim oči a celkom jasne vidím, ako stojí pri   okne svojej bielej izbietky, hľadí zakaleným zrakom do neurčita a —   váha. Zápasí so sebou. No jej váhanie nepotrvá dlho, či nie je   nezmeniteľnou vôľou osudu už vopred rozhodnuté, aby sa mi v dnešné   popoludnie celučká oddala? Na tom, drahá, nič nezmeníš, len čo si   ťažšou robíš svoju obetnú púť k milencovi s protézou namiesto srdca.   Hľa, ešte okamih a Mína z Riedenburgu odstúpi od okna, námesačnými   pohybmi si založí biely klobúčik, upraví záhyby sukne, prihladí   neposlušné kadere... Kam to teraz kráča... Ach, nad bielou postieľkou   visí železný krucifix, pokorne skloní hlavu, urobí trikrát znamenie   kríža... Práve tak kľačala v onú nedeľu i pred Madonou (cez farbistú   mozaiku okna padali na ňu zlaté, modré i zelené fľaky, zlaté na čelo,   modré na šiju a zelené na zopäté ruky), ale, spytujem sa ťa, drahá,   čo ti pomôže Ukrižovaný, keď ti nevedela pomôcť sedmobolestná,   bledolíca Madona? Vidíš, už aj vstávaš a nastupuješ cestu, z ktorej   niet návratu. Keby som nemal protézu namiesto srdca, ver mi, drahá,   zaplakal by som nad tebou. So zimničnou náhlivosťou som dával svoju   skromnú poručícku izbu do poriadku. Ó, nebolo toho mnoho. Nad   pohovkou skrížené šermiarske šable aj s príslušnými rekvizitami,   naproti nad posteľou dve staré, mosadzou vybíjané pištole (úbohý   pozostatok z otcovského dedičstva), na písacom stolíku poltucet   Erniných podobizní v jej najobľúbenejších rolách, dva-tri bezcenné   farbotlačové obrazy (niečím len treba zakryť pustotu stien) — to bolo   asi všetko, čo okrášľovalo môj neveľký príbytok. Ach áno, ešte   stužtičkami vyzdobená gitara nad nočným stolíkom a dva páry vysokých   čižiem pri posteli. Čo viac možno žiadať od c. a k. poručíka, ktorý   už v polovici mesiaca nevie, čím by zaokryl svoje „nevyhnutné   stavovské výdavky“?
+     </tei:p>
+     <tei:p>
+      Konečne sú tu už aj kvety. Franc ich priniesol celú náruč, za   päťdesiatšesť korún dostať už všeličo. Čože, aj konvalinky? Kde   nabral Franc konvalinky? Veď už máme jún. Áno, ale vzácnou náhodou   kvetinár v Obilnej ulici mal ešte zopár kytičiek. Posledné a vôbec   najposlednejšie toho roku. Ako sa im poteší Mína z Riedenburgu!   Naozaj vzácna náhoda, alebo skôr veľavravné znamenie pre veci   nastávajúce.
+     </tei:p>
+     <tei:p>
+      Kvety som roztrúsil po celej izbe. Konvalinky prišli do   porcelánovej vázy pred zrkadlo, vlčie maky na stôl, chumáče brezového   prútia nad toaletný stolík, a keď som potom skúmavým zrakom premeral   celú izbu, zdalo sa mi tu celkom útulne.
+     </tei:p>
+     <tei:p>
+      Mína môže byť spokojná.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Franc dostal pokyn, aby opustil svojho pána, a na upravenej scéne   nastalo hlboké mlčanie. Drahá sa asi blíži...
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Nie „asi“. Ja ju zreteľne vidím, ako sa vynára z riedenburského   tunela, biela, akosi meravo vzpriamená, ako zahýba okolo   arcikniežacej jazdiarne k univerzitnej budove nevšíma si   okoloidúcich, nedbá na vyzývavé pohľady mladých dôstojníkov, len   kráča a kráča s čudne planúcim zrakom... práve teraz je pri radnici,   namáhavo si razí cestu úzkym priechodom... hodiny práve odbíjajú   dve... už je na moste, ale nič nebadá z oslňujúcej nádhery júnového   dňa... teraz musí okolo „opičieho ostrova“, ale ona ani len hlavu   neskloní a ako vo sne prekĺzne nebezpečnou križovatkou do Lineckej   ulice. Odtiaľ je k môjmu hotelu už len sto krokov... Ach, spomalila   krok... Áno, už len sto krokov k dverám izbietky nastávajúceho   milenca, už len zopár chvíľ... Želá si Mína z Riedenburgu, aby sa   tých sto krokov zmenilo náhle na sto kilometrov, a súčasne azda nevie   vyčkať chvíľu, keď ju konečne zovriem v horúcom objatí... Či   nezastala na chvíľočku, aby boh zoslal nejaký zázrak, ktorý by   odvrátil veci neodvratné? Aké je to zbytočné, drahá... Hľa, už si   prebehla cez halu (koľko zvedavých očí sa páslo na tvojom rozkošnom   zmätku), už kladieš nohu na prvý schod... Že tá tvoja biela rúčka tak   prudko zviera zábradlie... Ó, neboj sa, drahá, všetko prejde, všetko   pominie...
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Klop... klop... klop... klop...
+     </tei:p>
+     <tei:p>
+      Potom hlboké ticho. A po krátkej chvíli znovu, vždy bližšie a   bližšie:
+     </tei:p>
+     <tei:p>
+      Klop... klop... klop...
+     </tei:p>
+     <tei:p>
+      V skutočnosti azda ani nepočujem ozvenu krôčkov, veď mäkký koberec   pohlcuje aj najmenší zvuk, ale ja ich predsa cítim a počujem.   Hľa:
+     </tei:p>
+     <tei:p>
+      Klop... klop...
+     </tei:p>
+     <tei:p>
+      Naozaj moje oči mali onoho nezabudnuteľného popoludnia vlastnosť   röntgenových lúčov, bez námahy prenikali hrubými stenami domov... či   som nepozoroval Mínu, ako stála pri okne svojej bielej izbietky a   zápasila so sebou a či som ju nesledoval krok za krokom, až zastala   predo dvermi môjho bytu, na smrť bledá... Ó, celé dve minúty držala   ruku na kľučke, stokrát ju chcela odtrhnúť a stokrát nemohla... Ach,   tá sladká slabosť... Jasne som videl celý ten preťažký zápas tam   vonku na chodbe. Pravdaže vedela, že je všetko vopred rozhodnuté a   ustálené a že nemožno už nič zmeniť. A tak po nekonečných dvoch   minútach stisla...
+     </tei:p>
+     <tei:p>
+      Nezabúdam ani na jedinú chvíľku. Všetko mám pred očami neobyčajne   jasné. Dvere sa pomaly roztvorili dokorán, áno, celkom dokorán, že to   vzbudilo vo mne úžas, a v nich sa objavila Mína, nehybne stojaca na   prahu. Hľadela na mňa dlho, a tento pohľad ma privádzal do pomykova.   Je skutočne obdivuhodné, čo všetko sa vyskytuje v pohľade ženy, ktorá   stojí pred najosudnejšou chvíľkou svojho života. V prvom momente to   bol nekonečný úžas, že kľučku predsa len stisla a „urobila krok“,   hoci vedela, že ho celkom iste urobí. Nato vyšľahla z oka strašná   nenávisť, vedomie konečnej porážky. A potom zahorela v pohľade úžasná   úzkosť: nekonečne jemný inštinkt ženy vytušil všetko, čo malo   nevyhnutne a neodvratne prísť, ona ma v tejto kratučkej chvíľke   prezrela až na dno duše, nič jej neostalo utajené, všetko pochopila,   všetko videla v príšernej jasnosti... Ale aj tento záblesk zhasol,   aby ustúpil najprv vášnivému, potom vždy nežnejšiemu a nakoniec už   veľmi pokornému pohľadu. Vtedy sa stala nadobro mojou.
+     </tei:p>
+     <tei:p>
+      A s touto pokorou vstúpila ku mne, ktorý som ju hádam už od   pravekov očakával.
+     </tei:p>
+     <tei:p>
+      Rozhliadla sa bojazlivým okom po vyzdobenej izbe.
+     </tei:p>
+     <tei:p>
+      — Vedel si, že prídem?
+     </tei:p>
+     <tei:p>
+      — Ach, myslíš konvalinky vo váze a vlčie maky na stole... Áno,   čakal som ťa. Je na tom niečo čudného?
+     </tei:p>
+     <tei:p>
+      Ó, či toto všetko nebola naozaj záhada? Ba, cítil som jasne v tej   chvíli, že tu sa odohráva niečo veľmi ponuré a strašlivé a že kdesi v   neznáme sa pohla hrozná lavína, ktorá všetko zničí a zahubí. Mína sa   však zrazu prestala čudovať. Odvetila s tichou odovzdanosťou:
+     </tei:p>
+     <tei:p>
+      — Čomu sa čudovať, Max? Všetko je samozrejmé: ty si ma čakal a ja   som išla. Mohla som robiť iné?
+     </tei:p>
+     <tei:p>
+      Tak odpovedala Mína. Mohla odpovedať konečne i takto: „ja som išla   a ty si ma čakal“. Ale ona odpovedala opačne, a z tejto jej prostej   odpovede vytušil som všetky hlbky prapudov. Ach, v samcovi sa   rozpenila horúca krv, samec zrazu zatúžil a jeho divoká túžba   prerazila steny, preliatia priestory a hravo si našla cestu k bielej   samici. Samcova dravá túžba... Ozaj, čo iné mohla robiť biela samica,   než poslúchnuť volanie krvi?
+     </tei:p>
+     <tei:p>
+      Áno, Seeborn! Ale sme si tým istí? Bola to naozaj len „dravá túžba   samcova“, a nič iné? Naozaj len to? Nič krajšie, velebnejšie a   vyššie? Alebo nič strašlivejšie a úžasnejšie? Ó, Seeborn!
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Je skutočne zaznamenaniahodné, že potom už ani poznámka nepadla o   tom všetkom. Míne to bolo „samozrejmé“. Či si nezložila s tou   najväčšou samozrejmosťou klobúk a či si neupravila, na spôsob dávnej   milenky, vlasy pred zrkadlom? Ani odtieň rozpakov v jej pokojnej   tvári, ani pamiatky po skrytom stude, a predsa jej duša je ešte   celkom neskazená, panenská, jej (iste nádherné) telo nedotknuté, jej   myseľ nepoškvrnená nijakou necudnou predstavou... Ženy, ženy, kto vám   porozumie?
+     </tei:p>
+     <tei:p>
+      Mína sa z čista jasna dala podrobne prezerať izbu a črty sa jej   rozjasnili. Pre milenku je vždy veľmi rozkošné vidieť prvýkrát   miesta, v ktorých jej milenec trávi svoj život. Vtedy vie aj   najvšednejší predmet, hoci remeň na holenie, vyvolať v milenke veľké   nadšenie a niet konca-kraja zvedavým otázkam. Ako by mohla urobiť   výnimku Mína z Riedenburgu, ktorá prvýkrát v živote vkročila do bytu   mladého človeka a pre ktorú bolo všetko také nové a ohromujúce?
+     </tei:p>
+     <tei:p>
+      — Skriňa na šaty? Ach, tvoja parádna uniforma... Aké je to čudné,   Max, tu stojím v tvojom byte a pozerám sa ti do skrine na šaty, ako   keby to bolo niečo samozrejmé... Tam v kúte lakové čižmy... ale kefa   je už veľmi zodratá, potreboval by si, Max, novú. Povedz sluhovi,   nech ti kúpi novú u Roseneggera. A kde si držíš bielizeň? Nie,   neotváraj, len som chcela vedieť. Ale prachu tu máš zato dosť.   Nezabudni povedať chyžnej, aby ti lepšie riadila. Chudák Max, ani mu   poriadne nezametú... Ach, pamiatky z vojny... popolník zo šrapnelovej   nábojnice, fajočka z patróna, bože, aká chutnučká... A to je tu kto   na fotografii? Dáma, dáma a zase dáma. No, počuj, Max...
+     </tei:p>
+     <tei:p>
+      A tak došlo i na Erninu podobizeň, ktorá visela v tmavom ráme nad   posteľou. Nepovedala ani slova, len sa ľahunko zamračila...
+     </tei:p>
+     <tei:p>
+      Vtedy som náhlivo prikročil k dverám, zamkol na dva západy a kľúč   skryl do vrecka.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Opakujem nesčíselnekrát a zdôrazňujem znova, že všetko moje   konanie bolo vedomé a zakladalo sa na triezvej vypočítavosti. Že   Mínina návšteva bola náhodná, a teda sa vymykala všetkým výpočtom?   Hlúposť. Keď nie dnes, bola by prišla zajtra, jedného dňa prísť   naisto musela. Áno, moje činy boli už dávno vopred uvážené a   rozhodnuté. A jednako, keď som prikročil k dverám a zamkol ich, konal   som akosi nevedomky. Áno, pamätám sa celkom jasne, že napriek všetkým   „výpočtom“, ešte chvíľočku predtým som nijako nemohol uveriť, že by k   tomu naozaj mohlo dôjsť. Čo ma náhle zahodilo k dverám a donútilo ich   zamknúť a kľúč skryť do vrecka, to bola práve tá sila, ktorá všetky   moje konania od začiatku až do konca určovala a proti ktorej som ja   bezmocný a bezbranný. Áno, všetky svoje „výpočty“ pripisujem na účet   tejto strašnej, nemilosrdnej sile a kliatba, ak bude nejaká   nasledovať, nech padá na jej hlavu. Ja nie, to ona. A predsa ona a ja   sme jedno, a zodpovednosť i následky za všetko znášam napokon iba ja   sám.
+     </tei:p>
+     <tei:p>
+      Viem, že sme obidvaja strašne zbledli (cítil som, ako mi stuhla   krv v žilách). Na krátku chvíľu zavládlo v izbe mučivé ticho, áno,   Míne naisto prestalo v tej chvíli srdce, potom krátky výkrik hrôzy a   Mína priskočila mne s úžasom v očiach.
+     </tei:p>
+     <tei:p>
+      — Max, Max, preboha...
+     </tei:p>
+     <tei:p>
+      Nepohol som sa od dverí a hľadel na ňu meravým pohľadom. — Max, čo   to...?
+     </tei:p>
+     <tei:p>
+      Aká bola úbohá a biedna v svojom hlbokom zúfalstve, Mína z   Riedenburgu. Zato my sme sa nádherne držali, len čo je pravda. Či som   sa neuškľabil na ňu s rozkošou víťaza, či som nešiel s najväčším   pokojom k otomanu a nezapálil si pevnými prstami cigaretu? Áno,   doslova tak som urobil, ibaže na chvíľu všetko zaplávalo v purpurovej   hmle... na celkom kratučkú chvíľku...
+     </tei:p>
+     <tei:p>
+      Ó, len keby nie to detské zalomenie rukami, len keby to nie. Mína   akosi čudne rozhodila rukami, áno, drobnučké deti tak rozhodia   rúčkami, keď zastanú v ustrašenej bezradnosti pred niečím   nepochopiteľným a hrozivým. Na tento Mínin komický pohyb jednostaj   myslím — haha, rozhodila rukami, zašermovala si nimi pred tvárou tak   smiešne, tak bezradne — pokorne sa priznávam, nemať tuto pod kabátom   protézu namiesto srdca, dal by som sa naskutku do plaču.
+     </tei:p>
+     <tei:p>
+      Haha... rúčkami rozhodila...
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Tak, tak, Mína...
+     </tei:p>
+     <tei:p>
+      Pochopila všetko a neprehovorila už ani slova. Ako z kameňa stála   predo mnou, nijaké vzpieranie, nijaký odboj, ani stopy po najmenšom   odpore, nič, nič viac neprezrádzalo strašné rozochvenie... ruky   viseli bezvládne pozdĺž tela, hlava hlboko sklonená, oči hľadeli   meravo na jeden bod koberca... Taká bola malinká a biedna, Mína z   Riedenburgu. Na čo myslela? Aký úžasný zmätok musel panovať v jej   prekvapenej mysli? Alebo bolo znovu všetko „jasné a samozrejmé“? Kto   sa to kedy dozvie.
+     </tei:p>
+     <tei:p>
+      A nehybnosť zachovala i vtedy, keď som jej siahol na   šaty...
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Biela, nádherná panna!
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Aký to zázrak! Celá izba sa kúpala v jase, keď sa jej z   ramien zviezla i batistová košieľka a obnažila Mínino nežné, panensky   tvrdé telo. Ohromné! Vidieť prvýkrát milenku v telesnej nahote, a to   ešte milenku takých skvelých, dokonalých tvarov, takých elegantných   línií, akou je Mína z Riedenburgu, ktorej históriu tu zaznačujem. A   ktorá vám bola od prvopočiatku až do konca všetkým, všetkým. Svetom.   Cieľom. Myšlienkou. Skutkom. Životom samým. Zmyslom všetkého. Za   ktorou ste divo túžili od pravekov, keď jej medzi živými ešte ani   nebolo. Ktorá vám s mučivou nejasnosťou nikdy neschádzala z mysle.   Ktorú ste denne tisíckrát zvelebovali a tisíckrát preklínali. Ktorá   vám menila noci na dni a dni na noci. Ktorá vami potvorsky otriasla   až do najskrytejších závitov bytia. A ktorá naplnila dušu žeravým   uhlím, že ste zavýjali od strašnej úzkosti. Ha! A náhle ju máte, túto   svoju ukrutnú katanku, pred sebou, nahú, nahú!!! Vpijete sa horúcim   zrakom do všetkých tých rozkošných detailov, ktoré dovedna tvoria   vašu krásnu šelmu. Hehe, tu je celá, celučká. Pasiete sa pohľadom   víťaza na jej úbohej bezradnosti, prežívate celú rozkoš deptateľa.   Rastiete do výšky. Naberáte ohromné dimenzie. Stávate sa bohorovným.   A súčasne horíte brutálnou nedočkavosťou vrhnúť sa na ľudskú šelmu,   zdeptať a rozgniaviť to nádherné biele telo, vtopiť sa doň a zaniknúť   akosi nadobro... Áno, tak by ste chceli.
+     </tei:p>
+     <tei:p>
+      Pamätám sa s prekvapujúcou určitosťou na drsný pohyb, ktorým som   ju chcel v páse schvátiť a zavliecť k otomanu. Áno, nedočkavosť sa vo   mne vystupňovala do brutálnosti. Ale či ma nezastavil v ceste Mínin   vážny pohľad? Podivné, ako sa zmenila. Ako náhle a nečakane. Čosi sa   s ňou stalo, čosi zvláštne a prekvapujúce. Ako to len bolo? Áno,   naraz ako keby bola vyrástla o štyri hlavy, hej, ako keby sa bola   zmenila na bielu, mramorovú sochu, prúd velebnosti sa rozlial okolo   nej a už nebolo možné dotknúť sa jej rúhavou rukou. Hej, na kolená   pred Nepoškvrnenou!
+     </tei:p>
+     <tei:p>
+      Ach, aký maličký a biedny som sa zrazu cítil a ako zbožne som   klesol na kolená pred pannou. A tu mi ona nesmieme jemným pohybom   položila ruku na hlavu, ako keby už vopred odpúšťala všetko to   hrozné, čo som pre ňu chystal...
+     </tei:p>
+     <tei:p>
+      Komické. Odrazu vyskočila z otomanu a strhla zo steny Ernin obraz,   ktorý s kŕčovitou zúrivosťou rozdriapala na franforce, rozhádzala po   celej izbe. Potom sa zviezla na zem a dlho, dlho plakala.
+     </tei:p>
+     <tei:p>
+      Výborne! Kým neuplynie najmenej desať dní, niet ani pomyslenia na   odchod k pluku. Ukázalo sa totiž celkom neočakávane, že podošvy   topánok, ktoré vyfasovalo naše mužstvo, sú z praobyčajnej lepenky a   nevydržali by ani týždeň na pochodoch, nie to ešte mesiace a mesiace   vo vlhkých zákopoch. To bolo rozčúlenia na veliteľstve! Starý zúril,   div nevraždil. Ale som presvedčený, že darebáckemu dodávateľovi   neskrivia ani vlas na hlave, ba je ľahko možné, že bude dodávať svoje   lepenkové baganče našej slávnej armáde až do konca vojny a dostane za   svoje zásluhy o blaho vlasti rad Františka Jozefa, hoci aj s mečmi.   Poznáme to už veľmi dobre.
+     </tei:p>
+     <tei:p>
+      Item treba pokojne čakať, až nášmu augmentačnému skladu dôjdu z   hlavných skladíšť nové baganče s remennými podošvami, pričom, pravda,   nie je vylúčené, že aj z týchto sa vykľuje praobyčajná lepenka, len   hádam lepšie imitovaná. A my nakoniec budeme musieť tiahnuť do poľa   predsa len v lepenkových bagančiach.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      No, pravda, potom to už tak býva. Každý deň je mojou. Mojou! Mína   z Riedenburgu! Ináč to ani nemôže byť. Hehe. Vždy podvečer vybehne ku   mne, zarumenená, s vlhkým svitom v očiach, panensky cudná i rozkoše   nedočkavá... Sme slepí. Sme hluchí. Nič nevidíme a nič nepočujeme.   Náš hlad po sebe je úžasný. Priam šialený. Niekedy by sme sa   rozchmátali ani divé šelmy, ústa máme zakrvavené, rozhryzené, telá   pokryté modrastými stopami po skrývaných pazúroch. Zúrime. Telá sa   nám miesia. Vtopiť by sme sa chceli do seba, vgniaviť do jednej   bytosti, aby prestalo dvojaké ponímanie. A túžime aj po rozkoši   zaniknutia. A chmáceme, chmáceme... Neprehovoríme ani slova. Načo   hovoriť? Niet čo povedať. Niet nad čím uvažovať. Naše zmysly hovoria   rečou až príliš strašnou. Ó, aké biedne, ničomné by tu bolo každé   slovo. Aké nekonečne zbytočné! To, čo prežívame, je také úžasné! Keby   sa ma niekto spýtal, čo sa robilo vtedy okolo nás, nevedel by som   odpovedať.
+     </tei:p>
+     <tei:p>
+      Ale v nedeľu som videl Mínu celkom náhodne (?) v dóme, na starom   mieste. Kľačala pred Madonou na zamatovej podnôžke a pravda, skláňala   hlavu ešte pokornejšie. Či netlačil jej bielu dušu ťažký, preťažký   hriech, ktorý ju desí perspektívami inferna? Hrôza, ó, hrôza! Ešte   len nedávno kľačala na tom istom mieste, pred tou istou Madonou, s   tou istou modlitbou na perách — a predsa ako nesmierne dávno je už   tomu, veky prešli, svety sa zmenili... Je to možné?
+     </tei:p>
+     <tei:p>
+      Skrúšene sa bila do pŕs a už na ňu nepadali nijaké farbisté fľaky,   veď nebesá boli zatiahnuté olovenými mračnami a v lodi sa váľalo   mŕtve šero. Cítila moju blízkosť? Myslela vôbec na mňa? Ak áno, akú   mala v tej chvíli predstavu o mne?
+     </tei:p>
+     <tei:p>
+      Pristúpil som tíško k nej, nikým nepozorovaný, a vtisol jej   ľahunký bozk na zohnutú šiju... Haha! Pobehla k Madone, zúfalo sa jej   vrhla k nohám, akoby bola zazrela Satana v najpodlejšej podobe.
+     </tei:p>
+     <tei:p>
+      Myslím na to, ako uteká čas a ako sa blíži hodina, v ktorej   dovŕšim svoje nádherné dielo. Obdivujem sám seba, že som taký pokojný   a necítim nijakú nerozhodnosť. Ibaže na to neprestajne myslím, áno,   celý čas myslím na tú blížiacu sa hodinu a predstavujem si všetko vo   veľmi ľahostajných farbách.
+     </tei:p>
+     <tei:p>
+      A tu by som chcel niečo poznamenať, vec, lepšie povedané   skutočnosť, ktorá ma privádza tak troška do úžasu. Hľa, okolo mňa   zúrivé pustošenie a ničenie ľudských životov, aké ešte dejiny   nezaznačili. Svet sa ide vyvrátiť zo základov, štáty zanikajú,   spoločnosť sa rúca, áno, dejú sa veci úžasné, ohromujúco príšerné,   celé ľudské pokolenie zachvátilo šialenstvo vzájomného vraždenia, za   najvyššiu cnosť sa pokladá čím väčšie krviprelievanie, státisíce   denne hynú na všetkých svetových frontoch — a ja to všetko   nepozorujem, pre mňa je to všetko bezvýznamné, ľahostajné, ako keby   ani nejestvovalo a mňa sa už vôbec netýkalo. Áno, necítim s tým   všetkým nijakú vnútornú spojitosť. Dynastia? Vlasť? Národ? Veľkosť   chvíle? Patriotizmus? Totožnosť záujmov? Tomu ja nerozumiem, mne je   to všetko cudzie, vzdialené, ja s tým nemám absolútne nič do činenia,   moja súvislosť s týmito vecami je len vonkajšia a celkom mechanická.   Ostávam svetom pre seba, moje „ja“ je hermeticky uzavreté pred   všetkými vonkajšími vplyvmi, cítim sa načisto osamotený v tejto   šialenej svetovej vrave a ani nemám chuti vystúpiť zo svojej   samoty.
+     </tei:p>
+     <tei:p>
+      Áno, taký som zaujatý vlastným problémom, že srdečne nemám času na   pozorovanie takých malicherností, ako je svetová vojna so všetkými   svojimi úkazmi. Viem len toľko, že jestvuje na svete Mína z   Riedenburgu, biela, nádherná milenka a všetok môj záujem sa v tej   chvíli sústreďuje na to, čo bude v najbližších hodinách.
+     </tei:p>
+     <tei:p>
+      V našom kádri sa ujal tento smiešny zvyk (trvá už dobré dva   roky):
+     </tei:p>
+     <tei:p>
+      Pred odchodom každého pochodového práporu sa v ktorýkoľvek večer   zídu dôstojníci toho práporu na spoločné špiritistické sedenie.   Obyčajne sa to odohráva vonku za mestom v St. Aigene u Čierneho orla,   kde sa čapuje dobré augustínske a kde sa človek môže zabaviť   nerušene, hoci aj do včasného rána. Je tam starý, rozheganý klavír,   ohromná začadená gitara, pekná krčmárska dcérka a mnoho, mnoho dobrej   vôle. Možno ta zájsť aj v sprievode dievčat, a robieva sa to veľmi   usilovne, ale keď je rozlúčkový večierok so spomenutým špiritistickým   sedením, brať so sebou dámy je prísne zakázané. Treba totiž vedieť,   že tieto špiritistické sedenia sú spojené s úžasnými orgiami, pri   ktorých je všetko dovolené... počnúc od skromného rozbíjania pohárov   až po rozbíjanie hláv. Obyčajne sa to všetko skončí svorným   odpočinkom pod rozbitými stolmi a načisto pokazeným žalúdkom. Hlavným   bodom večierka ostáva však spomenuté špiritistické sedenie a na tom   sa zúčastní každý na niečo súci dôstojník, počnúc od veliteľa práporu   až po posledného práporčíka. Okrem toho treba poznamenať aj to, že   úkazom i javom pri sedení prikladá sa v pluku nie menšia dôležitosť   ako svojho času delfským veštbám, lebo tak hovorí dvojročné podanie,   že doteraz sa, keď aj nie všetko, tak iste veľmi veľa vyplnilo, a ak   sa i niečo nesplnilo, na vine bolo nie proroctvo vyvolaného ducha,   ale nešikovnosť zainteresovaného, ktorý sa proroctvo neusiloval   vyplniť. Spomedzi duchov najobľúbenejší a najčastejšie interviewovaný   bol akýsi Metamon, ktorého objavil zakladateľ týchto zasadaní stotník   Kubahias v akomsi egyptologickom diele. Metamon odpovedal a klepal   veľmi svedomito, zdal sa o všetkom veľmi informovaný a jeho   trpezlivosť naozaj nepoznala hraníc. Bol to duch dobrý, nekonečne   štedrý, nikomu neuprel nejaký ten záslužný kríž alebo možnosť na   mimoriadny postup. Hrdinské smrti rozdával veľmi neochotne, obyčajne   zabezpečoval pohodlnú smrť v perinách, čo vlastne nikomu nebolo proti   vôli.
+     </tei:p>
+     <tei:p>
+      Aj včera sa teda išlo do St. Aigenu, kam je dobrá hodinka peši   rozkošným stromoradím a po svetlých lúkách. Tiahli sme z mesta v   hustom štvorstupe — tak to vyžadoval zvyk — a keď sme už boli sami   prostred lúk, spievali sme, čo nám prišlo na jazyk. Na čele kráčal   stotník Marat, šabľou dával takt ako na tambure a my sme nadšene   dupkali, až sme celkom zmizli v oblaku prachu. Áno, už dávno sme   nemali takú dobrú vôľu. Niet nič veselšieho nad rozlúčku so svetom,   veď všetko je skryté v takej skvelej neistote a možnosti sú   toľké...
+     </tei:p>
+     <tei:p>
+      U čierneho orla sme si povešali šable na vešiaky, padli prvé   „rundy“, ó, ako nám chutilo ostré augustínske so vzácnymi slanými   rožkami a ako nádherne sa búchalo do taktu na stôl, keď nám   nadporučík Zelar zahral starý plukovný pochod.
+     </tei:p>
+     <tei:p>
+      Krátko pred polnocou starý priniesol dlhý drevený stôl, zbitý z   tenkých jedľových fošien (mal ho vždy pripravený v drevárni),   postavil ho doprostred izby, na pokyn stotníka Marata stlmil svetlo a   s hlbokou poklonou sa vzdialil do výčapu. Samozrejme, že sme všetci   naskutku stíchli a zvážneli primerane vážnej chvíli. Akoby aj nie?   Onedlho sme mali byť svedkami vecí záhadných a neobyčajne   vzrušujúcich. Potom sme si posadali okolo stola, hu, ako ukrutne   sviatočne sme sa tvárili, stotník Marat napomenul ešte tých   najmladších a najneskúsenejších, aby sa dôstojne správali, ináč by   vraj Metamon nereagoval na otázky, a hneď nato zavládlo v začadenej   izbe hrobové ticho, v ktorom bolo počuť tlkot asi dvadsiatich   stiesnených mladých sŕdc. Jakživ som nevidel nič také komické. Haha,   ako zastrašene zízali všetci pred seba!
+     </tei:p>
+     <tei:p>
+      Nedal sa dlho prosiť ten Metamon. Hneď sa prihlásil, akoby nás už   bol netrpezlivo očakával skrytý tam kdesi v kúte, a keď sa ho Marat   opýtal, či je ochotný dať správne odpovede na naše otázky, zaklepal   veľmi rozhodne. Áno, povie nám všetko, čo len chceme. A svoj sľub i   dodržal. Ešte nikdy nedával také uspokojivé informácie ako včera, to   sa neskôr všeobecne konštatovalo. Ale keď prišiel rad na mňa, stíchol   a stala sa táto podivná vec: oblok z dvora sa náhle s rachotom   roztvoril, do izby vletel chumáč lístia zo stromu, lampa zaraz zhasla   a dvere do susednej izby (boli otvorené, aby sa nimi vetralo) sa   začapili tak prudko, že to zaznelo ako výstrel z pištole. Áno, bolo   to príšerné a prirodzene, že nás v tej chvíli všetkých zamrazilo. Ale   keď sme si neskôr uvedomili, že sa vonku práve rozpútala prudká   víchrica, nuž nebolo na tom nič podivné.
+     </tei:p>
+     <tei:p>
+      A do Metamona ako keby bolo vliezlo tisíc čertov, začal si nás   doberať, že to naozaj bolo až neslušné. Či nenatriasal stolom, že sa   pri ňom už nedalo sedieť? Ale keby len to. V svojej roztopašnosti   počal ním krútiť a my sme museli s ním, krútili sme sa vždy prudšie a   prudšie, až bol z toho bláznivý galop po izbe, hahaha, ako sme   lietali, ako sme sa vrteli, ako divo poskakovali. Hop, hop, hop... Už   sme nevedeli lapiť dych, hlavy sa nám krútili a červení sme bolil ako   diabli... A tu v tom najväčšom hurhaji ostré krrrach, viaceré   zapraskanie... Či sa nerozpadol náš stôl na fošne a latky, že z neho   ostala len kôpka trosiek prostred izby?
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Viem, viem, už sú aj minúty spočítané. Lavína, ktorá sa kedysi v   neznámej chvíli a na neznámom mieste odpútala od svahu, rúti sa podľa   odvekých zákonov prírody so stupňovanou rýchlosťou, ničiac a gniaviac   všetko, čo jej príde a nevyhnutne musí prísť do cesty, a niet nijakej   moci na svete, ktorá by zabránila, aby v presne vymeranom čase so   strašlivým rachotom nedosiahla najhlbší bod svojej dráhy.
+     </tei:p>
+     <tei:p>
+      Hľa, hľa — teda lavína. Hm... Kedysi vraj v neznámej chvíli a na   neznámom mieste... Áno, iste. Ale bol som pritom? Mal som na to   nejaký vplyv? Myslím: odpútala sa lavína z mojej vôle a podľa presne   vypočítaného plánu? Bola vo „výpočtoch“?
+     </tei:p>
+     <tei:p>
+      Nedávno som čosi také poznamenal, že „každé mojej konanie od   začiatku až do konca určuje strašná, nemilosrdná sila“, proti ktorej   som bezmocný a bezbranný. Áno, bola to podivuhodná poznámka vzhľadom   na moje doterajšie „výpočty“. Ako keby sa bolo niečo náhle osvetlilo.   Ako keby sa bolo niečo poodhalilo, niečo starostlivo zatiahnuté a   ukázali sa mi obrysy nových poznaní. Dojem je však chmúmejší. Neviem   ešte, čo to je. Len tuším...
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Už sa to stalo.
+     </tei:p>
+     <tei:p>
+      Áno, stalo sa to pred štyrmi hodinami, pred krátkymi štyrmi   hodinami, tu na týchto miestach, práve pri stole, na ktorom si teraz   píšem svoje poznámky. Ešte je všetko vôkol tak, ako bolo pri jej   odchode, ničím som nepohol, ničoho som sa nedotkol. Ešte i vôňa jej   vlasov je tu (tá opojná, sladká vôňa), len ona je už preč, aby sa už   nikdy, nikdy nevrátila na tieto miesta. Ako pokojne píšem „nikdy“, a   predsa nepoznám hroznejšieho slova. Je definitívou zúfalstva samého,   je výrazom najstrašlivejšej beznádejnosti. Nikdy! Nikdy!
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Áno, som pokojný, nič na mne nebadať, som, aký bývam vždy. Pred   chvíľkou som sa dole v reštaurácii navečeral, vypil svoje dva poháre   piva, celkom rozumne som sa zhováral so starým kapitánom Steinom,   pochválil som malú čašníčku Annu ako obyčajne, že je pekná, svieža a   pozorná, a potom som s najväčším pokojom vyšiel nahor, sem do izby, a   zapálil si cigaru ako vždy, keď mi jedlo chutilo. Opakujem: som   nesmierne pokojný. Som taký, ako bývam. Necítim načisto nič, ako keby   sa všetko, čo sa tu na týchto miestach pred štyrmi hodinami odohralo,   netýkalo mňa, ale kohosi tretieho, celkom neznámeho. Viem aj to, že   keď zatvorím denník, ľahnem si do postele a zhasnem lampu — zaspím   ako inokedy a budem celkom pokojne spať až do rána, potom pôjdem do   barakov a budem vykonávať službu ako vždy.
+     </tei:p>
+     <tei:p>
+      Áno, som teda už naozaj človekom s protézou namiesto srdca, a ak   som o tom niekedy pochyboval, dnes už niet nijakých pochybností. Ó,   teraz by som si už smelo mohol rozorvať hruď pred nočným návštevníkom   z Kaukazu...
+     </tei:p>
+     <tei:p>
+      Ibaže čosi vo mne i okolo mňa zmeravelo. Áno, mám čudný pocit, že   som celý z olova, hýbem sa síce zvyčajne pružne, a jednako údy i   všetko vo mne ako keby bolo z olova, aj myšlienky mám ťažké a šedé   ako olovo a celý priestor okolo mňa akoby bol vyplnený týmto chmúrnym   kovom. A kamkoľvek idem, všade vlečiem so sebou túto hroznú masu, ba   mnohokrát sa mi vidí, že sa už rúti na mňa a chce ma na fľak   rozgniaviť. Tá šedá, olovená stena.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     Hľa, ako sa to všetko prihodilo:
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Popoludní o piatej ponáhľal som sa z barakov na byt, kde ma   mala očakávať Mína. Vždy o tomto čase sme sa stretávali. Ako som sa   ponáhľal! Ako som túžil za jej objatím už od rána! Áno, ešte nikdy   som netúžil za ňou tak úporné, tak šialene ako v tento hrozný deň.   Čokoľvek som hovoril, čokoľvek som robil, kamkoľvek som sa obrátil,   vždy som pred sebou videl len jej veľké, žiarivé oči... Ach, všetky   moje myšlienky boli pri nej, bielej, nádherne milenke. Opakujem: ešte   nikdy, nikdy som nelačnel za Míninou láskou s toľkou nedočkavosťou   ako práve dnes. Som presvedčený, že by som bol zošalel, keby tak   náhodou Mína nebola mohla prísť alebo keby sa boli vyskytli   nepremožiteľné prekážky. Teraz som už pokojný. Míny viac niet. (Aspoň   nie pre mňa.)
+     </tei:p>
+     <tei:p>
+      A v tejto chvíli, keď je už po všetkom, môžem konštatovať napokon   aj to, že po celý čas, kým som neprekročili prah svojho bytu,   nemyslel som ani na okamih na to, že by dnešný deň mohol byť   posledný... Nie, nie, nemal som inej žiadosti, ako jej klesnúť k   nohám a vášnivo jej objať biele kolená a šepkať tie krásne,   nezmyselné slová, ktorej hovoria milenci už od prvých červánkov   ľudského pokolenia. Áno, vysvetliť som jej chcel, ako strašne, priam   na smrť ju ľúbim, ja, človek s protézou namiesto srdca. Moje   „výpočty“? Na smiech. Celý čas som o nich nevedel. Ako keby mi boli   vymizli z mozgu. Ako keby nikdy ani neboli.
+     </tei:p>
+     <tei:p>
+      Ohlásili sa len vtedy, keď som roztvoril dvere a videl prostred   izby stáť Mínu s rozpustenými vlasmi. Či vo mne všetko náhle   nestvrdlo? Nie, nie, nesprávne hovorím. Niečo iného sa stalo so mnou:   keď som vkročil dnu a zavrel za sebou dvere, ako keby mi niekto cudzí   surovým násilím vytrhol z najtajnejších hlbok to moje vlastné „ja“ a   sám vstúpil dnu na jeho miesto — hovorím „niekto cudzí“, avšak predsa   dávno povedomý... Áno, akoby jedno „ja“ vystúpilo a urobilo miesto   druhému „ja“, urputnému bezohľadnému a chmúrnemu. Tak dajako to bolo.   A podivné: len čo sa to druhé „ja“ tu dnu umiestilo, bol som to znova   ja, len práve niečo olovené... Áno, áno, to olovo. Zdá sa, už navždy   ostane tu dnu i dovôkol to ťažké, šedé olovo.
+     </tei:p>
+     <tei:p>
+      Ešte nikdy nebola Mína z Riedenburgu taká rozkošná a zvodná ako   dnes popoludní. Keď som ju našiel v očakávaní stáť uprostred izby s   rozpustenými gaštanovozlatými vlasmi, vysokú, štíhlu, bielu, s   polootvorenými červenými perami (ako sa chveli od žiadostivosti!) a   tmavým, žiarivým pohľadom, stelesňovala najnádhernejšie spojenie   nevinnosti a rozkoše.
+     </tei:p>
+     <tei:p>
+      Áno, Mína z Riedenburgu spájala v sebe v tejto chvíli všetky čara   svojho pohlavia. A s akým pôvabom roztvorila náruč, aby ma   privítala!
+     </tei:p>
+     <tei:p>
+      Na každé slovo sa pamätám, všetko žije vo mne s príšernou   jasnosťou.
+     </tei:p>
+     <tei:p>
+      — Čakám tu už štvrťhodinku a Max nikde, — mračila sa milo,   zavesiac sa mi na plecia. — Kde si tak dlho?
+     </tei:p>
+     <tei:p>
+      Ako voňali zblízka jej nádherné vlasy! Ach, nebyť čohosi chmúrneho   vo mne, ako by ma boli opojili! Takto som však celkom triezvo   odvetil:
+     </tei:p>
+     <tei:p>
+      — Ozaj som sa oneskoril? Ľutujem. Tomu sú zase na vine tie mizerné   kantínske hodiny. Ale zato som sa náležite ponáhľal. A teraz som   tu.
+     </tei:p>
+     <tei:p>
+      — Vidím, — usmiala sa už celkom udobrená.
+     </tei:p>
+     <tei:p>
+      Ale ja som jej úsmev neopätoval. Nemohol som. „Chmúrny“ nedovolil.   A neočakávane nastala pomlčka, najprv rozpačitá, potom vždy   trápnejšia a nakoniec už celkom ťažká. Hneď bolo jasné, že sa   neodvratne niečo chystá.
+     </tei:p>
+     <tei:p>
+      Pocítila to aj Mína a nepokojne mi pozrela do očí.
+     </tei:p>
+     <tei:p>
+      — Čo sa stalo?
+     </tei:p>
+     <tei:p>
+      Nádherná otázka! Ako správne vytušila, že sa niečo „stalo“.
+     </tei:p>
+     <tei:p>
+      Nijaká odpoveď. Znovu som nemohol. Znovu nedovolil „chmúrny“. A tu   Mína ustúpila na dva kroky a prezrela si ma so zachmúreným čelom od   hlavy po päty.
+     </tei:p>
+     <tei:p>
+      — Prečo sa nevyzlečieš?
+     </tei:p>
+     <tei:p>
+      A hneď nato:
+     </tei:p>
+     <tei:p>
+      — Chceš ostať po celý čas so šabľou? Prečo si neodložil   čiapku?
+     </tei:p>
+     <tei:p>
+      Ako som mal na to odpovedať? Neodpovedal som radšej nič, len som   hľadel ako cez závoj na Mínu z Riedenburgu. Ako jej pohľad postupne   temnel! Ako keď na ulici ešte v skorých ranných hodinách jednu za   druhou zhášali plynové lampy.
+     </tei:p>
+     <tei:p>
+      Konečne ešte posledná otázka:
+     </tei:p>
+     <tei:p>
+      — Max, čo to má všetko znamenať?
+     </tei:p>
+     <tei:p>
+      — Chceš vedieť? — odvetil som konečne hlasom, ktorý ma samému bol   cudzí a nepríjemný. (Boh vie, ešte nikdy som nehovoril takým tupým,   dreveným hlasom.)
+     </tei:p>
+     <tei:p>
+      Videl som, ako zbledla a ako sa jej zarazil dych. Mína z   Riedenburgu začala chápať...
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Podivné: kdesi v najhlbšom vnútri som nijako nemoholj veriť, že by   „to“ už malo prísť. A vôbec, to niečo vnútorné vo mne, mne vždy   láskavé a sympatické, s čím som sa vždy najradšej stotožňoval — sa   odprvoti vzpieralo proti myšlienke, že by „to“ skutočne mohlo prísť.   Áno, nechcel som tomu veriť a súčasne som bol presvedčený, že sa to   už v najbližších chvíľach neodvratne a so všetkou určitosťou stane. A   že ozaj niet nijakej moci, ktorá by tomu zabránila. Vtedy som zrazu   pochopil všetko, čo mi bolo dosiaľ nejasné a nezrozumiteľné alebo čo   som si doteraz chybne vykladal. Hľa, veď ja nemám slobodnej vôle, veď   ja tu v otrockej poslušnosti vykonávam len to, čo mi predpisuje   „chrnúrny“. Ach, ten „chmúrny“... To je tá nemilosrdná, strašná sila,   ktorá určuje všetko moje konanie od začiatku až do konca a proti   ktorej som celkom bezmocný a bezbranný... Áno, on je to, čo prišiel z   neznámeho temna, postupne vytlačil moje svetlejšie „ja“, uzurpoval si   právo veliť, diktovať a rozhodovať podľa svojich podlých intencií. On   to bol, tento strašlivý, nirvánou páchnúci diabol, ktorý sa mi v   nestráženej chvíli vkradol do duše a udrel na ňu pečať svojej hnusnej   ríše. On je to, ktorý mi v hrudi založil oheň a spálil s prekliatou   rafinovanosťou všetko, čo pripomínalo jasnejšie časy. Podlý, podlý   uzurpátor!
+     </tei:p>
+     <tei:p>
+      A tak darmo by som sa bol vzpieral, darmo revoltoval, ústa   opakovali, čo im bolo určené...
+     </tei:p>
+     <tei:p>
+      Áno, Mína z Riedenburgu začala chápať. Nie, nie, ona už aj   pochopila. Či som to nevidel jasne napísané v jej pohľade? Naskutku   všetko pochopila, všetkému porozumela, ako keby bola na túto chvíľu   už oddávna čakala. Videl som, že nielen pochopila a porozumela, ale   súčasne už aj odpustila a so všetkým sa pokorne zmierila. Ach, áno,   bola ochotná brať na seba kríž aj za mňa.
+     </tei:p>
+     <tei:p>
+      Nad touto bezhraničnou pokorou ma pochytila nesmierna   zúrivosť.
+     </tei:p>
+     <tei:p>
+      — Tak ti to teda vysvetlím! — zareval som voslep. — Preto som sa   tak ponáhľal, aby som ti čím skôr mohol povedať do očí, ako veľmi ťa   nenávidím. Počuješ? Nenávidím ťa! Áno, nenávidím ťa celou svojou   dušou, každou žilkou, každým svojím nervom, nenávidím ťa od   prvopočiatku, keď ťa snáď ešte ani nebolo a keď som ešte i ja blúdil   v tmách vekov, vždy, vždy som ťa nenávidel, Mína z Riedenburgu!   Nenávidím tvoje veľké srnčie oči, skrýva sa v nich svit inferna,   nenávidím tvoje purpurové ústa, chutia krvou a skrývajú v sebe   najpodlejší jed sveta, nenávidím tvoje nádherné vlasy, okrádajú ma o   pokoj duše, nenávidím tvoje krásne, biele telo, striehne v ňom tisíc   divých šeliem, nenávidím tvoju mäkkú náruč, robí zo mňa bezvládnu   babu, nenávidím tvoje horúce objatia, páchnu hnilobou a rozkladom,   nenávidím tvoj líškavý šepot, opriada ma sieťou falše a pokrytectva,   nenávidím... áno, niet na tebe, Mína z Riedenburgu, miestečka, ktoré   som neznenávidel z celej hĺbky svojho bytia. A predovšetkým nenávidím   tvoju biednu, pokornú dušu... tuším v nej lesť najnižšej   podlosti...
+     </tei:p>
+     <tei:p>
+      — Max, Max, prestaň...
+     </tei:p>
+     <tei:p>
+      — Prestať? Mýliš sa, moja drahá, ešte som len začal. Ešte som ti   len vyložil, ako hrozne ťa nenávidím. Chápeš, vnímaš už moju   nenávisť? A nezabudni, že preklínam i tú zlomyseľnú chvíľu, keď som   ťa po prvýkrát videl a spoznal. Ó, bol to najtmavší okamih môjho   života... Lebo vtedy vtiahol mi do duše aj „chmúrny“, aby ju   preformoval podľa svojho hnusného plánu, áno, tie tvoje tmavé,   nevinné oči vyvolali vo mne všetky priepasti inferna! Ty si   asistovala pri tom podlom čine, keď sa odpútala od svahu lavína a   rútila sa dolu stranou. Pritom si, pravda, nerátala s tým, že súčasne   zmetie i teba. Hehe, koľká obmedznosť... Ale ešte som ti, Mína z   Riedenburgu, nevysvetlil, ako veľmi tebou aj opovrhujem. Si biednou   schránkou najnižších prapudov, si stelesnením temnej stránky   ľudskosti, áno, si vlastne prameňom všetkého zla. Ruži bolo dané, aby   voňala najnádhernejšími vôňami, tebe, Mína z Riedenburgu, bolo dané,   aby si menila zdravé, horúce prsia na ohavné protézy. Ale ani   opovrhnutie nevyjadruje všetky moje pocity. Ja sa ťa aj štítim. Áno,   štítim sa ťa ako svojho najväčšieho hriechu, vzbudzuješ vo mne odpor,   si nečistá, nečistá! Už Sväté písmo ti s opovrhnutím vrhlo do tváre,   že si tvorom dvanásťkrát nečistým. Ach, choď, choď, biedna kreatúra,   zmizni, odtiahni, neotravuj viac tento vzduch...
+     </tei:p>
+     <tei:p>
+      Takto alebo podobne som hovoril. Hovoril? Nie: kričal, reval, až   mi pena lietala z úst. A Mína z Riedenburgu? Bledá ako plátno hľadela   tak smutne, tak nevýslovne smutne na mňa, že moja zúrivosť dosiahla   stupeň nepríčetnosti. Či som sa nevrhol na ňu so zaťatými päsťami?   Áno, chytil som ju za plecia, surovo ňou zatriasol, takmer ju sotil   na zem. Ó, čo to bola za hrozná, nebezpečná rozkoš! Ako ma vábilo,   aby som ju bil dlaňou po drahej, sladkej tvári, ako som sa musel   premáhať, aby som jej z koreňov netrhal nádherné, voňajúce vlasy...   Násilím som musel odtiahnuť ruky — či sa mi už nekrivili prsty, aby   sa jej s rozkošou zaborili do nežného, bieleho hrdla? Tisíc diablov   sa pohlo vo mne, aby som ju tam na mieste roztrhal. Ach, ešte teraz   cítim nebezpečné chvenie v prstoch.
+     </tei:p>
+     <tei:p>
+      A ona ešte vždy neprehovorila ani slovo, ani sa nebránila. Ako tu   načisto nestratiť hlavu? Myslím, že keby som nebol náhle otvoril   dvere a nevysotil ju von, mohlo sa to aj inakšie skončiť.
+     </tei:p>
+     <tei:p>
+      Na ďalšie jednotlivosti sa akosi nepamätám. Plával som v akejsi   purpurovej hmle. Viem ešte, že som kričal za ňou kdesi na chodbe pred   húfom prestrašených ľudí:
+     </tei:p>
+     <tei:p>
+      — Nepúšťajte viac ku mne túto neviestku. Treba ju vyhnať   korbáčom!
+     </tei:p>
+     <tei:p>
+      Takto teda vyzerá človek s protézou namiesto srdca. Vravím, som   celý ako z olova, nič ku mne nepreniká, od vecí aj ľudí ma oddeľuje   šedá stena, na ktorej sa všetko rozbíja. Som od sveta dokonale   izolovaný. Tu mi prichádza na rozum Tolstého knieža Bolkonskij, ktorý   sa krátko pred smrťou celkom odpútal od okolia a nič viac nevnímal,   len sa do seba pohrúžil. Ja sa, pravda, do seba nepohružujem,   hovorím, som celý z olova, olovenú mám myseľ, aj myšlienky olovené,   ešte sa ani nezrodia a už padajú k zemi. Ako sa tu do seba   pohrúžiť?
+     </tei:p>
+     <tei:p>
+      Vykonávam všetko ako stroj: chodím, jem, pijem, vojakov preháňam,   erárnym vtipom načúvam, dámy kritizujem. To však nemá so mnou nič do   činenia. Opakujem, nevnímam nič, som od sveta oddelený šedou,   olovenou masou.
+     </tei:p>
+     <tei:p>
+      Prešli dva dni odvtedy, čo sa „to“ stalo. A dnes čítam v   Salzburger Bote túto noticku:
+     </tei:p>
+     <tei:p>
+      „Tragická smrť dámy zo spoločnosti. Dnes o 4. hodine popoludní   našla četnícka patrola v lese pri Salzachu poniže Maria-Plain mŕtvolu   mladej dámy, v ktorej bola zistená slečna Wilhelmina z Riedenburgu,   dcéra vrchného súdneho radcu vo výslužbe, pána Ericha z Riedenburgu.   Mŕtvola nevykazovala nijaké stopy po násilí. Ako bolo na súdnej pitve   zistené, ide o náhlu srdcovú porážku, ktorá nebohú pri prechádzke   krásnym lesom prekvapila a ihneď usmrtila. Prípad vzbudil veľký   rozruch a hlbokú sústrasť, lebo nebohá, známa svojou krásou a milou   povahou, bola v salzburskej spoločnosti neobyčajne obľúbená.   Podivuhodné je, že nebohá predtým nikdy netrpela na srdcovú chybu,   porážka prišla teda celkom nečakane. Poznamenávame ešte, že slečna   Mína z Riedenburgu bola zasnúbená s miestnym advokátom, pánom dr.   Viliamom Schröderom. Úprimne spolucítime s postihnutou, všeobecne   váženou rodinou.“
+     </tei:p>
+     <tei:p>
+      Ach, aký som pokojný...
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      Áno, lavína sa rúti s nezadržateľnou silou k najnižšiemu bodu   svojej dráhy. A ničí, drví všetko, čo jej príde a nevyhnutne musí   prísť do cesty.
+     </tei:p>
+     <tei:p>
+      Dnes popoludní som si vyšiel na prechádzku do salzachského lesa,   kde je tak krásne, pokojne a ticho. Či ma nedostihol advokát   Schröder? Vôbec som nebol prekvapený. Ba čakal som, že príde. Bolo   nevyhnutné, aby sme sa my dvaja na tomto mieste stretli.
+     </tei:p>
+     <tei:p>
+      Osud, ten geniálny aranžér náhod, chcel to azda už vtedy, keď   priestormi plávali ešte hmloviny.
+     </tei:p>
+     <tei:p>
+      Tvár mal veľmi pokojnú tak isto ako ja. Pozdravili sme sa s   konvenčnou zdvorilosťou (ako hlboko siahajú návyky konvencie!) a nato   Schröder pristúpil ku mne:
+     </tei:p>
+     <tei:p>
+      — Je azda zbytočné, aby sme sa predstavovali.
+     </tei:p>
+     <tei:p>
+      — Áno, veď sa poznáme, — odvetil som, podávajúc mu ruku, ktorú on   neprijal. Hlupák.
+     </tei:p>
+     <tei:p>
+      — A dúfam, že asi viete, aké následky bude mať naše náhodné   stretnutie, — pokračoval s nezmeneným pokojom.
+     </tei:p>
+     <tei:p>
+      — Tuším...
+     </tei:p>
+     <tei:p>
+      Zostúpili sme z násypu na chodník, ktorý viedol od rieky do vnútra   lesa, a pobrali sme sa po ňom bez slova, v nemom súhlase. Na   najbližšej čistinke sme zastali. Uprostred sa dvíhala kôpka skál.
+     </tei:p>
+     <tei:p>
+      — Tu to bolo, — ukázal advokát na kôpku.
+     </tei:p>
+     <tei:p>
+      Rozhliadol som sa zvedavo.
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Tu ju našli četníci včera popoludní, práve na tomto mieste. Dal   som si to presne vysvetliť. A dnes predpoludním naznášal som skaly na   miesto, kde ležala. Vidíte? Takto ležala.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Ľahol si a ukázal mi, ako ležala. Obrátená k zemi a ruky   pritisnuté k prsiam. Potom vstal a starostlivo si oprášil kolená.
+     </tei:p>
+     <tei:p>
+      Vytiahol som z vrecka tabatierku a ponúkol aj advokáta.
+     </tei:p>
+     <tei:p>
+      — Fajčíte?
+     </tei:p>
+     <tei:p>
+      — Ďakujem. Len cigary.
+     </tei:p>
+     <tei:p>
+      Aj on siahol do vrecka a vybral z puzdra trabuko, ktoré opatrne   nakrojil. Zapálili sme si.
+     </tei:p>
+     <tei:p>
+      — Hlupák lekár, — hučal v oblaku dymu, — vraj náhla srdcová   porážka! Zabili ju, uštvali, do pažeráka smrti sotili, tak je to. Čo   myslíte, poručík?
+     </tei:p>
+     <tei:p>
+      — Ako to teda spravíme? — spýtal som sa miesto odpovede. — Máte   pištoľ?
+     </tei:p>
+     <tei:p>
+      — Mám. A vy?
+     </tei:p>
+     <tei:p>
+      — Aj ja.
+     </tei:p>
+     <tei:p>
+      — Sláva!
+     </tei:p>
+     <tei:p>
+      — Háčik je však, nazdávam sa, v tom, že súboje sa dnes trestajú   degradovaním a obyčajnou väzbou. Podľa platných predpisov sa všetky   odkladajú až na čas po skončení vojny. Chcete dovtedy čakať?
+     </tei:p>
+     <tei:p>
+      — Aby vás zabil niekto iný? Ani mi na um nepríde.
+     </tei:p>
+     <tei:p>
+      — Máte pravdu, treba to hneď skoncovať. Ako teda?
+     </tei:p>
+     <tei:p>
+      — Ech, čo po nariadeniach, nemáme predsa svedkov.
+     </tei:p>
+     <tei:p>
+      — Aby potom toho druhého pokladali za praobyčajného vraha? Nie, to   je vylúčené. Rozmýšľajme nad iným spôsobom.
+     </tei:p>
+     <tei:p>
+      Sadli sme si do trávy a usilovne rozmýšľali. Ach, ako voňal les   tisícorakými rozkošnými vôňami, ako to v ňom milučko šepkalo a   bzučalo, kdesi v blízkosti spievala pinka a ďateľ klepal do stromu v   presných intervaloch. Čo to za nádhera! Len my sme sa tu umárali, ako   zabiť jeden druhého čo najdokonalejšie a bez stopy. — Mám návrh, —   ozval sa konečne Schröder.
+     </tei:p>
+    </tei:quote>
+    <tei:p>
+     — Počúvam.
+    </tei:p>
+    <tei:quote>
+     <tei:p>
+      Hovoril tichým hlasom a díval sa mi uprene do očú:
+     </tei:p>
+     <tei:p>
+      — Je isté, že jeden z nás tu musí ostať. O tom niet nijakej   pochybnosti, pravda? Vec si vyžaduje teda dôkladnú prácu. Nijakú   polovičatosť. Vy alebo ja. To je jasné. Súboj je však vždy spojený s   nebezpečenstvom, že sa náboje vyčerpajú bez výsledku alebo je rana   vyliečiteľná. Načo by sme sa teda strieľali navzájom, keď to môžeme s   najväčšou dôkladnosťou vykonať každý sám. Navrhujem ťahať žreb, kto   prehrá, zastrelí sa na mieste. Súhlasíte?
+     </tei:p>
+     <tei:p>
+      — Súhlasím.
+     </tei:p>
+     <tei:p>
+      Dofajčili sme a vstali. Potom Schröder vybral zápisník, vytrhol   dva listy a napísal na ne naše mená. Na jednom bolo jeho a na druhom   moje. Papiere sme skrkvali do guľôčky a hodili do mojej čiapky.
+     </tei:p>
+     <tei:p>
+      — Chcete ťahať vy alebo mám ťahať ja?
+     </tei:p>
+     <tei:p>
+      — Nedbám, — odpovedal som, — ťahajte vy.
+     </tei:p>
+     <tei:p>
+      Odvrátil sa a siahol do čiapky.
+     </tei:p>
+     <tei:p>
+      — Počkajte, — hovorím, — aby sme podozrenie z vraždy celkom   odstránili, každý z nás napíše na kus papiera, že zomiera vlastnou   rukou a z vlastnej vôle.
+     </tei:p>
+     <tei:p>
+      Spravili sme. A Schröder siahol do čiapky po druhý raz.
+     </tei:p>
+     <tei:p>
+      Vytiahol svoje meno. Zbledol a nevedel zabrániť, aby sa mu prsty   nezatriasli. Komu by sa v takej chvíli nezatriasli prsty?
+     </tei:p>
+     <tei:p>
+      — Dobre, — povedal. — Budťe len taký láskavý a odíďte, pred cudzím   sa hanbím...
+     </tei:p>
+     <tei:p>
+      Vrátil som sa chodníčkom k rieke. Keď som vystupoval na násyp,   padla v lese suchá rana.
+     </tei:p>
+     <tei:p>
+      Bol to nádherný chlapík, ten advokát Schröder.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      V Innsbrucku na stanici.
+     </tei:p>
+     <tei:p>
+      Budeme tu stáť celé štyri hodiny. Trať je preplnená transportmi a   nákladnými vlakmi. Čosi sa chystá.
+     </tei:p>
+     <tei:p>
+      Len čo som sa vrátil domov z lesa, došla z veliteľstva telefonická   správa, že prápor odchádza na druhý deň, teda včera, sme už   pochodovali k stanici, sprevádzaní zvedavými i plačúcimi. Kamaráti   boli podperení ružami, len ja som nemal nijakú ozdobu.
+     </tei:p>
+     <tei:p>
+      V Lineckej ulici, práve neďaleko môjho hotela, sme boli nútení   zastať. Celý prápor zastal.
+     </tei:p>
+     <tei:p>
+      — Čo sa stalo? — pýtam sa nadporučíka Fiorelliho, svojho veliteľa,   ktorý sedí na koni a môže vidieť dopredu.
+     </tei:p>
+     <tei:p>
+      — Pohreb.
+     </tei:p>
+     <tei:p>
+      A okoloidúcich sa pýtam:
+     </tei:p>
+     <tei:p>
+      — Kohože to pochovávajú?
+     </tei:p>
+     <tei:p>
+      Jeden z nich odpovedal:
+     </tei:p>
+     <tei:p>
+      — Neviete? Mínu z Riedenburgu, dcéru pána Ericha z   Riedenburgu.
+     </tei:p>
+     <tei:p>
+      A ktorýsi nábožný landler za mnou zahučal:
+     </tei:p>
+     <tei:p>
+      — Pomodlime sa za ňu.
+     </tei:p>
+     <tei:p>
+      ***
+     </tei:p>
+     <tei:p>
+      V Bozene na stanici.
+     </tei:p>
+     <tei:p>
+      Dnes v noci, keď sme prechádzali cez brixenskú stanicu a všetci   kamaráti hlboko spali, prikvačilo ma z čista jasna to isté, čo kedysi   kadeta Pongauera a neskôr poručíka Wellera. Mám v srdci sladkú   istotu, že nájdem, čo hľadám.
+     </tei:p>
+     <tei:p>
+      Aký som pokojný...
+     </tei:p>
+    </tei:quote>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

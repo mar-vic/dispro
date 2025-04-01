@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk2012974" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="isbn:9788081016837">
+     Na parolodi a železnici : ELTeCedícia
+    </tei:title>
+    <tei:author ref="viaf:8188529">
+     Banšell, Koloman (1850 - 1887)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     4637
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Banšell, Koloman
+     </tei:author>
+     <tei:title>
+      Na parolodi a železnici
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Banšell, Koloman
+     </tei:author>
+     <tei:title>
+      Na parolodi a železnici
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1872
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-13">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na parolodi a železnici
+    </tei:head>
+    <tei:head>
+     Fejtón
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Slávny vynálezca pary, to jest, prosím za láskavé odpustenie,   chcel som riecť: slávny vynálezca toho slávneho tajomstva, ktoré   neznala vynájsť za tisíc rokov „múdra“ koruna ľudstva, totiž jeho   milosť pán človek, napriek tomu, že mávala paru každý deň niekoľko   razy pod nosom, a ktoré tajomstvo nezáležalo v inom, leda v   cieľuprimeranom upotrebení toho plynového, od nepamäti dobre známeho   divu (pary)..., slávny vynálezca toho slávneho tajomstva by sa sotva   bol domnieval, že si svojím vynálezom, pre celé človečenstvo   veľadôležitým, urobí niektorých ľudí – zaťatými nepriateľmi.
+   </tei:p>
+   <tei:p>
+    (I za túto náročky rozvláčnu vetu, ktorá má slúžiť za vzor takého   slohu, akým sa písať nemá, prosím ctené čitateľstvo o láskavé   prepáčenie. Spolu sľubujem, že budem písať tento svoj cestopisný   úryvok vo vetách čo možno najkratších, lebo sa to lepšie číta než   také veci, čo sú rozvláčené v míľodlhých periódach, v ktorých útly   rozum ľudský obyčajne tak poblúdi ako odsúdenec v labyrinte. Nie je   veru taký šťastný každý smrteľník, čo noviny čítava, žeby sa pri   čítaní akejkoľvek čarbaniny stával účastným zvláštnej grácie   Ariadninej, to jest toho klbka [trpezlivosti], pomocou ktorého možno   vyjsť na svetlo z labyrintu míľodlhých periód.)
+   </tei:p>
+   <tei:p>
+    Teda to som chcel povedať na začiatku týchto riadkov, že je   vynálezca pary, parolodí a železničných rušňov v nenávisti u mnohých   ľudí, patriacich do spoločnosti – spisovateľov.
+   </tei:p>
+   <tei:p>
+    Z akej príčiny? – opýta sa udivený čitateľ.
+   </tei:p>
+   <tei:p>
+    A ja na to: len z tej príčiny, lebo pole zaujímavých cestopisov sa   vo veľkej miere zúžilo od tých čias, čo cestovať možno na železnici   alebo parolodi. Keď si predtým išiel do susednej dediny, nazbieral si   toľko zaujímavej látky k cestopisom, že si mal za celé mesiace o čom   písať. Teraz precestuješ stolicu za stolicou, krajinu za krajinou a,   ó, krvavá pomsta osudu! nemáš zo svojho cestovania ani toľko úžitku,   žeby si niekoľko zaujímavých riadkov mohol napísať o svojich   skúsenostiach. Keď slávny Kollár cestoval asi pred štyridsiatimi   rokmi po Taliansku, bolo mu vtedy veľmi ľahko zostaviť štvorzväzkový   cestopis. Ale teraz? Precestuj Európu, Áziu, Afriku, Ameriku a   Austráliu radom, a čo si hneď od Kollára deväťstodeväťdesiatdeväťkrát   geniálnejším spisovateľom, sotva budeš vstave o svojej ceste napísať   štvorstránkový zaujímavý obrázok. Tak sa časy menia, tak tento svet   beží!
+   </tei:p>
+   <tei:p>
+    A k tomu povážiť treba ešte jednu spisovateľskú kalamitu –   nešťastné baedekre. Baedecker napísal zväzky o pamätnostiach celého   sveta, v svojich dielach ti aj o tom správu podá, koľko máš platiť v   ktorom hostinci prepitného, za čo ti kde očistia topánky a o   podobných pamätnostiach... Od alfy do omegy máš v baedekri hotový   cestopis, a to v ktoromkoľvek smere, všetko jedno, či sa pohneš z   Talianska cez Alpy do Švajčiarska a či z Brdárky na Gorlicu.
+   </tei:p>
+   <tei:p>
+    Za takýchto okolností má spisovateľ, čo chce o zaujímavých veciach   písať cestopisy, ozaj nepríjemné postavenie. Keď si sadne na   železnicu, tá letí s ním sťaby so šarkanmi o závod a synovi   panenských múz dopraje možno najkratší pohľad na krásu rozkošných   krajov, takže tieto uletia útekom klamlivého sna (alebo rakúskej   bankovky) pred jeho zrakom bez toho, žeby mu v duchu len tôňu tých   pôžitkov boli zanechali, ktoré počas pokojného dlhšieho skúmania z   ich lona prýštievajú. Potom zase, keď sa peknoduchého cestovateľa   začína zmocňovať bojazlivosť, že ho to ustavičné rýchle striedanie   nových vrchov a miest, nových dolín a riek snáď bláznivým urobí,   pochytí do ruky baedeker a začne čítať, aby vyčítal to, čo v   cestopise nie je napísané, o čom sa teda písať dalo. Ale baedeker je   opravdivý Mefisto. Nenájdeš v tých doskách červených ani za dukát   niečo takého, čo by z nich chýbalo, o čom by sa pojednávať dalo s   dobrým prospechom, bez uskutočnenia plagiátorského prečinu a bez   urážky svojho spisovateľského „dobrého mena“.
+   </tei:p>
+   <tei:p>
+    Dešperátne postavenie! Dešperátnejšie než postavenie plátku   banskobystrického, keď nad ním zaznie výrok z úst Jekelfalussiho:   „Mene, mene, tekel úpharzin“, t. j. po našsky: „sčítané, sčítané,   súdené a odvážené je množstvo – nerozumov tvojich!“
+   </tei:p>
+   <tei:p>
+    Toto je, ctené čitateľstvo, prelúdium k nasledovnému cestopisu,   ktorý vášmu dobroprajnému zraku nakresliť zamýšľam. Verím, že ráčite   nahliadnuť, z akej príčiny som sa pustil do takého zbytočného – na   prvý pohľad zbytočného – prelúdia. Na žiaden pád nie preto, akoby som   v predohrách nejakú zvláštnu úľubu nachádzal, lebo nie som zo   šťastných „muzikantov“ banskobystrických, a aj do tej spravodlivej   muziky sa len toľko rozumiem, koľko hus do žita. (Pozobe ho, pochutná   si na ňom, ale nevie, z akých ústrojných látok sa ono skladá a do   ktorej triedy Linnéovej patrí jeho kvet.) Otáznu predohru som len   preto napísal, aby ctené čitateľstvo malo milosrdenstvo nado mnou, ak   nebude môj cestopisný obrázok hoden ani fajku dymu. A nakoľko som   videl, že vynímajúc tú predohru, ako vidno – dosť podarenú, všetko,   čo na poli cestopisov napíšem, málokoho bude zaujímať, preto som i   tejto prácičke dal nápis
+    <tei:emph>
+     Na parolodi a železnici
+    </tei:emph>
+    a   náročky som sa vyhol mnohosľubným grandióznym titulom à la
+    <tei:emph>
+     Cestopis do Švajčiarska
+    </tei:emph>
+    atď. Nechcel som vás teda aspoň   zavádzať – túto veľkomyseľnosť mi uznáte. A preto ak by ste sa pre   moje prostosrdečné okolky zdráhali tieto riadky ďalej čítať, prosím   vás, prečítajte ich aspoň ako odmenu mojej vyššie dokázanej   veľkomyseľnosti, ktorá cnosť je v týchto porušených časoch, kde sa už   aj subvencia dáva, ozaj zriedkavá i odmeny hodná. A tak hurá! ideme   do kraja zlatej slobody slobodienky, do mileného Švajčiarska.
+   </tei:p>
+   <tei:p>
+    Šramotalo, hrkotalo celú noc. V noci vrhol som sa totiž do   niektorého vagóna, ktorý náhodne do Mníchova išiel z Viedne. (Aby som   vás nenudil, nezačnem opisovať svoje cestovateľské skúsenosti od   svojho rodiska, lež od Viedne.) Sotva sa zavreli za mojím nevinným   chrbtom dvere vagóna, vydajúc praskot taký silný, aký len na   rakúsko-uhorských železniciach možno počuť (zjavná to sympatia k   praskotu burzovnému a generálnemu), a sotva mi konduktor vybil dierku   na cestovnej karte, hneď som sa nachádzal v náručí sladkého spánku.   Ale som predsa počul, že šramotalo a hrkotalo celú noc. To bolo teda   dôkazom, že som alebo sníval celú noc o šramotaní a hrkotaní, alebo   že som vlastne nespal, lež hrkotanie železnice počul.
+   </tei:p>
+   <tei:p>
+    Povážiac okolnosti, v akých som sa nachádzal – dva centy napravo   (jedna vážna matróna), tri centy naľavo (akýsi medveď v ľudskej   postave) – náchylný som veriť, že som vlastne nespal, ale som si len   myslel, že by dobre bolo voľnejšie odfukovať. V sladkých túžbach po   eldoráde slobodnejšieho dýchania som snáď naposledy aj na okamih   zadriemal. Ale i za ten okamih som počul šramotanie a hrkotanie.
+   </tei:p>
+   <tei:p>
+    Čo šramotalo, čo hrkotalo celú noc? Ó, radostné cestovanie!
+   </tei:p>
+   <tei:p>
+    Môj sused šramotal mechmi chrápajúcich úst, moja suseda hrkotala   skameneným jazykom.
+   </tei:p>
+   <tei:p>
+    Ináč, to nepatrí k veci. K veci len to patrilo, že som celú noc   nemohol spať a následok toho bol, že som za rána, keď sa moji susedia   z vagóna vytratili, začal sprobúvať svoje nešťastné pľúca, či mi ich   nemilosrdná ťarcha piatich centov neroztlačila a či sú na spanie ešte   upotrebiteľné. I usnul som, práve keď vychádzalo slnce. Železnica   uháňala krásnymi dolinami Salzburgu. Škoda krásneho kraja, že som ho   nemohol obdivovať!
+   </tei:p>
+   <tei:p>
+    Ináč, ani to nepatrí k veci. Nechcem písať obšírny cestopis. A   keďže som i spal, či to nebolo „na železnici?“
+   </tei:p>
+   <tei:p>
+    Z tej nadmieru zaujímavej scény, ktorá vyššie v krátkych   lapidárnych ťahoch bola nakreslená, sa iste možno presvedčiť, že sa   na železnici i pamätihodné udalosti vyskytujú.
+   </tei:p>
+   <tei:p>
+    Avšak tak sa mi zdá, sťaby moje ucho bolo duchom cteného   čítajúceho publika. Zdá sa mi totiž, že väčšia časť súdneho   čitateľstva (a ja každého čitateľa pokladám za súdneho, ktorý týmto   riadkom pozornosť venoval) takto hovorí: Škoda preškoda tej   zaujímavej scény, že ju pôvodca tak nakrátko, tak lapidárnym slohom   opísal. A koľko zaujímavého mohol rozprávať! Mal nám bližšie   charakterizovať svojich spolucestujúcich, mal nám rozpovedať, o čom   rapotal ten skamenený jazyk jeho dvojcentovej susedy? Ktovie, či by z   jej reči nebola povstala zaujímavejšia epizóda, než je celý cestopis?   A potom – aká nejapnosť od toho pôvodcu i to, že nepripomenul, či sa   s tým susedom alebo susedou na železnici vôbec zhováral. Možno, veru,   že je ten pôvodca tak mechom buchnutý, že sa ešte ani k ľuďom   prihovárať nevie... Hja, ale potom nechže nepíše cestopisy, lebo je   na to niečo prihl... A zase o tých krásnych krajoch Salzburgu úplne   mlčí. Že, vraj, drichmal. Daromná fráza, ba urážlivá. Pokladá svojich   čitateľov za bláznov, alebo je on sám...
+   </tei:p>
+   <tei:p>
+    A už takéto monológy netrpím, totiž ja, pôvodca týchto riadkov.   Musím sa ohradiť proti takým urážlivým nadávkam. Ja že mechom   buchnutý? Ja že...? Do očí vám musím riecť bez obalu, vám všetkým, čo   ste s lapidárnym opisom tej železničnej scény nespokojní, vám všetkým   musím povedať, že vás – nesmierne ľutujem. Ľutujem vás preto, že   nemáte ani zdania o pokrokoch moderného spisovateľstva. Tak sa mi vy   do toho rozumiete ako sliepka do organovania. Nuž či ste vy tak   ďaleko zaostali za vozom moderných náhľadov, že ani to neviete, že sa   teraz čo najkratšie opisy najlepšie ľúbia, pri ktorých je najširšie   pole ponechané obrazotvornosti čitateľovej? Veru by ste sa hanbiť   mohli, vy nositelia zastaraných šlendriánov. Spýtajte sa   ktoréhokoľvek moderného kritika, každý vás ubezpečí, že sa teraz   krátke opisy najlepšie ľúbia. Predtým, pravda, opak tohto náhľadu   stál na povrchu. Predtým bolo prvou cnosťou dobrého spisovateľa čo   najpodrobnejšie detailizovanie, rozbor situácie, osoby a predmetu až   na najútlejšie čiastočky, ako to napríklad u Hollého vidno, ktorý   opisuje črpák svojho valacha asi v dvadsiatich-tridsiatich   hexametroch. Ale teraz? – Teraz je najslávnejším spisovateľským   maliarom ten, čo len obrysy kúskovité vie čiarať, aby obrazotvornosť   čitateľova čo najslobodnejšie pole mala asekurované. (Niečo podobného   i deti vedia robiť uhlíkom na stenu.) Tak veru! Moderné požiadavky sú   inakšie i v spisovateľstve než zastaraný klasický šlendrián. A môžem   vás ubezpečiť – aspoň tak vraveli o tom moderní kritici – že príde   onedlho čas, že ten bude venčený za najhlavnejšieho spisovateľa, kto   nenapíše v svojom živote – ani riadočka. Ten už potom zabezpečí   obrazotvornosti svojich čitateľov najširšie pole. Ó, keby ten čas už   predo dvermi bol! Potom by aspoň a posteriori neexistovali ani   moderní kritici.
+   </tei:p>
+   <tei:p>
+    Zatiaľ poďme ďalej.
+   </tei:p>
+   <tei:p>
+    Železnica už pri Mníchove píska.
+   </tei:p>
+   <tei:p>
+    City príjemné ovládali srdce moje, keď sa rušeň k Mníchovu   približoval. Vytrčiac hlavu zo železničného vozňa a zhliadnuc pred   sebou sochu „Bavariu“ (do ktorej sa hore schodmi chodieva), bol som   napomenutý, že som prišiel na pôdu umenia.
+   </tei:p>
+   <tei:p>
+    Len niekoľko okamihov – a železnica zastala. Vo mne vrela túžba,   aby som čím skôr mohol obdivovať povestné zbierky diel umeleckých:   glyptotéku, pinakotéku a pod. Bohvie ešte čo. Lež príjemné moje city   v škrekľavú disharmóniu premenila nepríjemná epizóda pri železničnej   stanici. Chcejúc sa zaopatriť bavorskými peniazmi, išiel som k   pokladnici. Tam mi statočne vymenili naše bankovky za bavorské   papiere.
+   </tei:p>
+   <tei:p>
+    V myšlienky ponorený nad tým výrazom „čert ako diabol“, zabudol   som si paličku pri pokladnici. Ľútosť hlboká mi zachvátila útroby za   jedinou vernou spoločnicou, ktorá ma z domova až do tejto cudzej   krajiny sprevádzala. Ale ľútosť netrvala dlho. Navrátiac sa k   pokladnici, tam som síce milenú a takmer oplakávanú paličku svoju   nenašiel, lež učiniac v zármutok pohrúžený niekoľko krokov napred,   zazrel som ju v ruke nejakého sluhu od železnice.
+   </tei:p>
+   <tei:p>
+    Okamžik – a žiadal som galantne svoju družku naspäť.
+   </tei:p>
+   <tei:p>
+    „Oh, veľmi vďačne,“ odpovie oslovený, „ak je vaša.“
+   </tei:p>
+   <tei:p>
+    Vytiahol som mešec a podával som statočnému nálezcovi akýsi   strieborniačik, čo mi ešte od Simpachu bol zvýšil.
+   </tei:p>
+   <tei:p>
+    „Nie som privyknutý na také almužny,“ zaďakoval odmenený, uškrnúc   sa opovržlivo. Nálezné neprijal.
+   </tei:p>
+   <tei:p>
+    Na také almužny? myslím si. To mu je málo. „Dal by som viac,“   rečiem, „ale nemám okrem bankovky. Vidíte prázdny mešec. Pijete   pivo?“ pýtam sa, pozrúc na blízky hostinec.
+   </tei:p>
+   <tei:p>
+    Miesto odpovede zachytil sa dobrý vtáčik so mnou.
+   </tei:p>
+   <tei:p>
+    Je to hrozné s týmito veľkomestskými gaunermi, myslel som si,   vstúpiac do pivovaru. Už ma má! Vďačne by som mu bol ponechal milú   paličku.
+   </tei:p>
+   <tei:p>
+    V tomto okamžiku mi dobrá myšlienka napadla.
+   </tei:p>
+   <tei:p>
+    „Pijete pivo?“ pýtam sa svojho sprievodcu, obrátiac sa k nemu   nenazdajky uprostred sály.
+   </tei:p>
+   <tei:p>
+    „Ó, áno.“ Úľubne sa usmial.
+   </tei:p>
+   <tei:p>
+    „Kúpte si teda za moju paličku piva,“ rečiem odhodlane, „a tu máte   ešte i túto almužnu.“ S tým som mu hodil tenže strieborniačik čo prv   a odchádzal som naspäť.
+   </tei:p>
+   <tei:p>
+    Svingulant prijal oboje.
+   </tei:p>
+   <tei:p>
+    „Len jednu otázku,“ riekol pritom galantne, „smiem vám dať?“ A   nečakajúc na moju odpoveď, spytuje sa ďalej: „Vy ráčite byť z   Rakúska. Nie?“
+   </tei:p>
+   <tei:p>
+    „Ak vám ľúbo, áno.“
+   </tei:p>
+   <tei:p>
+    „Hneď som si myslel,“ dodal gauner s triumfujúcim smiechom. „Len   Rakúšan môže byť taký ľahkomyseľný v peňažníctve. Vezmite svoju   paličku i peniaz!“ kričal za mnou.
+   </tei:p>
+   <tei:p>
+    Ja som sa ani neobzrel od radosti nad tým, že som sa takého   gaunera striasol.
+   </tei:p>
+   <tei:p>
+    O hodinu neskôr som sa dozvedel v tomže hostinci, že sluha od   železnice, s ktorým som mal aféru, bol bavorský – minister!
+   </tei:p>
+   <tei:p>
+    „Nie je možné! To je švindeľ. Nepravdepodobné!“
+   </tei:p>
+   <tei:p>
+    Domnievam sa, že asi tieto slová vykĺzli sa z úst čitateľa nad tou   aférou, ktorú som mal v Mníchove s údajne bavorským ministrom a ktorú   som predošle opísal.
+   </tei:p>
+   <tei:p>
+    Ja, bohužiaľ, voči tejto nedôvere nemám inej odvety okrem tejto:   relata refero, to jest podal som vec počutú. Ak teda ten údajný   minister nebol opravdivým ministrom, prosím, neobviňujte mňa, lež   prameň, z ktorého som správu čerpal. – A tu mi niečo napadá reťazením   sa myšlienok. Neraz sa i pisateľom historických románov a podobných   vecí tej nedôvery za podiel dostáva, akoby niektoré veci v ich   spisoch neboli pravdepodobné. Avšak oni úbožiaci za to nemôžu, preto   sa nedôvera tá vlastne ani ich netýka. Námietku pravde nepodobného   vymýšľania iba ten môže na nich uvaľovať, kto nerozoznáva historický   dej od toho, čo je slobodnou fantáziou vymyslené... Čítať napríklad v   niektorej novele o hodovaní v takom paláci, nad ktorým stotridsaťpäť   obesencov visí, je zdanlivo pravde nepodobné a absurdné, a predsa je   to dejepisný fakt. Od nepravdepodobnosti k nemožnosti je ďaleký   skok.
+   </tei:p>
+   <tei:p>
+    A prečo by som neuveril, že ten pán v rovnošate (ktorú som ja,   cudzinec, za rovnošatu bavorských železničných sluhov a úradníkov   pokladal) bol vskutku bavorským ministrom, keď som z bezpečných úst   počul (a to je všeobecne známa vec), že bavorskí ministri veľmi často   chodievajú do toho hostinca, kam som i ja bol zašiel, na pohár piva?   – Tak je to i s dejepisnými rozprávkami. Prečo by som pochyboval o   pravdivosti niektorého deja, keď viem z bezpečných prameňov, že sa on   pomerom, obyčajam a duchu patričných časov neprotiví, ba s nimi   súhlasí.
+   </tei:p>
+   <tei:p>
+    Avšak vzdialil som sa od predmetu.
+   </tei:p>
+   <tei:p>
+    Prechádzam sa po chodbištiach mníchovských. Hľadal som zrakom   zvedavým na tejto pôde umenia predovšetkým zvláštne stavby.
+   </tei:p>
+   <tei:p>
+    Ale očakávanie moje nebolo splnené. O zovňajšku Mníchova možno   síce vcelku riecť, že v architektúre ďaleko stojí nad Pešťou, ktorá   sa zdá byť len kasárenským hniezdom, lež v stavbách mníchovských niet   dostatočnej veľkoleposti. A tak myslím, že i najčistejšia stavba len   vedno s veľkoleposťou môže vyvolať uspokojujúci dojem. Z budov   mníchovských priveľmi vyzeralo reálne zmýšľanie bavorských pivárov.   Mimovoľne mi napadlo: títo ľudia, reku, nezamurovávajú svoje peniaze   do skaly. Z národohospodárskeho ohľadu je to chvályhodné. Pešť by sa   mohla z toho poučiť, ale dojem umelecký je tou myšlienkou mútený.
+   </tei:p>
+   <tei:p>
+    Keď hovorím o staviteľstve, spomeniem spomedzi pamätnejších   stavieb mníchovských aspoň starý gotický dóm, neovakovaný, z   červených tehál stavaný. Palác kráľovský je dostatočne známy z   novinárskych drobností.
+   </tei:p>
+   <tei:p>
+    Navštívil som i glyptotéku. A tu som nahliadol, že keď som v   Mníchove hľadal Atény, nebol som veru sklamaný. Už sama budova s   klasickou jednoduchosťou je majstrovským dielom staviteľstva. A obsah   tejto budovy! Veľkolepé, uchvacujúce a poučné je vidieť, ako sa   vyvíjalo rezbárstvo od svojej egyptskej kolísky počnúc až ku gréckemu   kulminačnému veku. Podoba jednotlivých triednych svetlíc a ich   usporiadanie ako i fresky úplne harmonizujú so sochami, ktoré sú v   nich umiestnené.
+   </tei:p>
+   <tei:p>
+    Nemôžem spomenúť ani najpamätnejšie sochy. Ale aspoň jednu. Mňa   zvlášť zaujímal „Spiaci Saturn“, pozostatok to z veku slávneho   Praxitela a Skopasa. Keď sa zahľadí človek na túto sochu, príde do   pokušenia nastaviť svoje ucho, či ten Saturn skutočne nedýcha. Na   tvári Saturnovej je klasicky vyjadrená opitosť. Skoro by sme uhádli,   o čom asi sníva.
+   </tei:p>
+   <tei:p>
+    Ale dosť. Okrem toho si vás už predstavujem, ako sa usmievate nad   tým, že sa mi práve opitý spiaci Saturn páčil v glyptotéke. „Nie   div,“ poviete, „že sa pôvodca medzi bavorskými pijanmi táral.“
+   </tei:p>
+   <tei:p>
+    Mníchov som opustil pod dojmom príjemných citov. Mnohé by som mal   spomenúť, čo ma zaujímalo, naširoko-ďaleko by som sa mohol rozpisovať   o každom videnom predmete. Či by môj cestopisný úryvok potom nebol   ešte rozvláčnejší, než je teraz, to mnohý ľahko uhádne. Pritom je aj   to isté, že by tieto riadky mnohým lepšie chutili, keby v nich   rozličné skúsenosti boli pospomínané dve na tri a nakrátko, než   chutia teraz, keď sa pri niektorom predmete trochu dlhšie zabavím. Z   toho si každý novelista môže tú dobrú radu vybrať, že sa väčšine   terajšieho čitateľstva také poviestky najväčšmi ľúbia, v ktorých je   mnoho deja v krátkom lapidárnom slohu nakopené. Kto sa tejto modernej   požiadavke ozlomkrky neprispôsobí, lež i na estetický zmysel   prevýšených „šlendriánov“ reflektuje vpradeným do svojej práce kde-tu   obšírnejším opisom niektorého deja alebo osoby, nad tým novelistom je   už vopred vynesený výrok nezdaru.
+   </tei:p>
+   <tei:p>
+    Moja návšteva v mníchovskej glyptotéke mala za následok, že som si   v najbližšom kníhkupectve zaopatril Lessingovo dielo
+    <tei:emph>
+     Laokoón
+    </tei:emph>
+    . Túto klasickú prácu čítal som na železnici od   Mníchova až po Lindavu. Medzi spolucestujúcimi som iste nemal nikoho,   kto by mi bol lepšie než
+    <tei:emph>
+     Laokoón
+    </tei:emph>
+    zdĺhavý čas cestovania   krátil.
+   </tei:p>
+   <tei:p>
+    <tei:emph>
+     Laokontovi
+    </tei:emph>
+    mnohé mám čo ďakovať...
+   </tei:p>
+   <tei:p>
+    Na svoju hanbu som sa presvedčil, že som dovtedy nejasný pochop   mal o hraniciach maliarstva, rezbárstva a poézie. Predtým som sa   domnieval, verný náhľadu Simonidesovmu, že maliarstvo je nemou   poéziou a poézia hovoriacim maliarstvom. Lessing ma o inom   presvedčil. I zanevrel som na „mániu opisovania“, ktorej som dosiaľ   hlavnú rolu v básnictve pripisoval.
+   </tei:p>
+   <tei:p>
+    „Len to je úrodné,“ hovorí Lessing (
+    <tei:emph>
+     Laokoón III
+    </tei:emph>
+    .),   „čo obrazotvornosti slobodnú hru ponecháva. Čím viac vidíme, musí nám   byť dovolené, aby sme si tým viac domyslieť mohli.“
+   </tei:p>
+   <tei:p>
+    Lessing toto síce o maliarstve hovorí, ale či to neplatí aj o   básnictve? Isteže aj o poézii, a tak napríklad aj o novelistike, s   tým malým rozdielom snáď, že táto musí ponechať slobodné pole dômyslu   čitateľovmu v pobočných dejoch a reflexii nad súvisom hlavného deja,   ale nikdy sa nesmie opierať o slobodný dômysel pri maľbe charakterov.   Novelista podľa mojej mienky nesmie dopustiť, aby si čitateľ inakšiu   ideu smel utvoriť o charaktere niektorej, zvlášť hlavnej osoby, než   akú pôvodca nakresliť zamýšľal. Spisovateľ musí byť istý, že s ktorou   osobou svojej poviestky on sympatizuje, s tou musí cítiť aj čitateľ.   Aby sa ale táto zhoda medzi názorom spisovateľovým a čitateľovým   možnou stala, k tomu je pri nekonečnom počte nuáns v charakteroch   ľudských potrebná maľba, dôkladné kolorizovanie, často na úkor   lapidárnosti, a nielen povrchne rabelaisovskú geniálnosť   napodobňujúce čmáranie jednotlivých spisov. Myslím, že ak sa   maliarstvo niekde s poéziou stýka, je to práve tento punkt – punkt   charakteristiky. Nechcem však rozpisovať svoje reflexie nad   Lessingovým
+    <tei:emph>
+     Laokontom
+    </tei:emph>
+    , ktorého takmer každá kapitola sa   hodí k novým a novým úvahám. Len škoda, že mnohí z novších kritikov   práve na základe Lessingových zásad, nimi jednostranne pochopených,   vystavali svoje klamné teórie, z ktorých niektoré som už v priebehu   týchto riadkov spomenul.
+   </tei:p>
+   <tei:p>
+    Začínalo svitať, vlak dochádzal k Lindave. O dve hodiny mal som   uvidieť kraje blaženého Švajčiarska... Aká to bude plavba po siných   vlnách Bodamského jazera! V hrudi mi splápolal plameň nadšenia...
+   </tei:p>
+   <tei:p>
+    Tu ale padlo mi oko na jednu enunciáciu otvoreného
+    <tei:emph>
+     Laokonta
+    </tei:emph>
+    – a odrazu som sa tak začal cítiť, akoby plameň   môjho nadšenia bol býval spláknutý ľadovým tušom.
+   </tei:p>
+   <tei:p>
+    „Konečným cieľom každého umenia,“ hovorí tam Lessing, „je úľuba a   bez tejto sa možno i zaobísť. Preto nepochybne môže závisieť od   zákonodarcu, ktorý druh úľuby a v akej miere je povoliteľný.“
+   </tei:p>
+   <tei:p>
+    Horrendum dictu! To je snáď predsa primnoho od takého   „Freigeista“, ako bol Lessing. Zákonodarstvo by teda malo rozhodovať   napríklad nad tým, aké obrazy je dovolené maľovať, akého „druhu“   básne písať, „akú mieru“ nadšenia v nich upotrebiť a pod.? A už,   prosím za odpustenie, táto kapitola Lessinga, napriek tomu, že ju   pôvodca chcel dejepisnými príkladmi ilustrovať, z toho, že u starých   boli aj umenia podrobené zákonom, vyvodzovať, že by táže inštitúcia   aj za našich čias bola potrebná a cieľu primeraná, to toľko znamená   ako históriu zauškovať a nenahliadať, aký veľký je rozdiel medzi   duchom starého a prúdom nového veku.
+   </tei:p>
+   <tei:p>
+    Ale na šťastie v modernej Európe sa ani nenašiel taký štát, v   ktorom by zákonodarstvo rozhodovalo nad dovoliteľným a nedovoliteľným   v umení, čiže kde by zákonodarstvo slobodný vývin umenia bolo chcelo   hatiť. A dobre tak.
+   </tei:p>
+   <tei:p>
+    Nechže je zástoj absolutistickej kontroly ponechaný takým   indivíduám, o ktorých je známa vec, že sa pštrosom podobajú, nakoľko   sa aj oni radi zarývajú pred nebezpečenstvom „liberalizmu“ a   podobných mátoh do piesku stredovekých lapálií. Tieto   poľutovaniahodné indivíduá nechže sa kochajú v svojom vycieraní   zubov, nechže sa kochajú v tom výlučne svojom vlastnom privilégiu, že   sú oni strážcami mravnosti a najvyšším fórom umenia. Ja týchto ľudí   ľutujem. A ak by sa mi kedy toho šťastia za podiel dostalo, že by tí   zasmušilí rytieri vykrikovali nad nejakým mojím výtvorom mne do očú   (a nielen za chrbtom) svoje fulminantné jeremiády: „Mravnosť je   napadnutá! Pozor, devy slovenské! Nedajte sa zviesť, junoši naši!“ –   ja i vtedy nevedel by som sa namrzieť, ale s ľahkým úsmevom vyjadril   by som tým rytierom svoju najhlbšiu sústrasť. Úbohí!...
+   </tei:p>
+   <tei:p>
+    Pradenie týchto myšlienok ešte nebolo dohotovené, keď rušeň začal   pískať, dávajúc na vedomie, že sme blízo Lindavy. O niekoľko chvíľ   rušeň zastal.
+   </tei:p>
+   <tei:p>
+    Vystúpil som z vagóna, a oddajúc batožinu nosičovi, poberal som sa   k prístavu Bodamského jazera.
+   </tei:p>
+   <tei:p>
+    Stál som na palube a hľadel som v tichej dume do zelenkavých vôd   jazera. Neviem, či to bola túžba za opusteným domovom a či inakšie   akési pocity, ktoré v prsiach mojich prúdiť začali. Dosť na tom, bol   som rozrušený... V rozrušenosti zabiehal som až k hraniciam   povestného „weltschmerzu“ i mimovoľne tisla sa mi na pery nasledovná   básnička. Melancholické čľapotanie vĺn, loďou prerezávaných, bolo   hudobným sprievodom k mojim rýmom:
+   </tei:p>
+   <tei:p>
+    <tei:emph>
+     Ranný vánok už povievať začína,   noc-mrákava vždy viac a viac sa míňa:   Ó, loď, pospeš, rozprestri vetrilá,   nech sa zjaví voľnosti vlasť milá!   Blíži sa noc. Dych života nevládze.   Ako by vládal niesť toľké nesnádze?   Ó, čierna loď, nenáhli sa, čakaj:   Len ešte raz, len – zaplakať mi daj.
+    </tei:emph>
+   </tei:p>
+   <tei:p>
+    Neviem, či to v tomto smutnom tóne i ďalej malo ísť. Len na to sa   rozpomínam, že nasledujúca sloha mala obsahovať rezolútne – zriekanie   sa večného spasenia. Myšlienka táto, ako vidno, nebárs akorduje s   obsahom slôh vyššie uvedených, no ja som ju predsa silou-mocou chcel   upotrebiť, a síce z nasledovnej príčiny. Stalo sa mi pred pár rokmi,   že som bol napísal a uverejnil veršík, v ktorom sa moja hriešna duša   ľahkomyseľne zriekala účasti spasenia. Akýsi starý pán sa nad touto   impertinenciou bol strašne napálil (priatelia mi vyčítali, že je   myšlienka tá plagiátom z celej svetovej literatúry, čo ja sám   uznávam) a tenže starý pán ma za tú impertinenciu statočne vymydlil.   Ale čo sa vykľuvalo z kritiky toho pánovej? Výborná reklama pre moje,   ináč „nechutné“ veršovnícke výtvory. A čo bolo výsledkom tej reklamy?   Ten jednoduchý fakt, že skoro každá vzdelaná Slovenka vedela celú tú   básničku naspamäť a častejšie si ju s úľubou opätovala, a bez reklamy   starého pánovej by ju snáď nikdy nebola ani čítala. Presvedčiac sa   teda, že je nemierny útok starého pána pre mňa opravdivou reklamou,   vyznám dôverne, i k veršíkom vyššie uvedeným som preto zamýšľal   pripojiť myšlienku o spasení, aby mi u toho starého pána bol zaistený   útok – reklama mojich veršíkov.
+   </tei:p>
+   <tei:p>
+    Dokým som sa ja čiernej lodi prosil, aby mi len ešte raz dovolila   zaplakať – pustili sa do plaču nebesá. Neviem, či to boli slzy   ľútosti nado mnou. Ak slzy tie naozaj mne platili, tak veru strašným   hriešnikom byť musím, lebo sa lialo strašne.
+   </tei:p>
+   <tei:p>
+    K tomu vial i silný vietor. Bodamské jazero začalo sa vlniť.   Krásny to bol obraz! Ale nejdem ho opisovať po prvé preto, že nemôžem   vystáť „mániu opisovania“, a po druhé z tej príčiny, lebo cteným   čitateľom môžem v krajine ukázať a predstaviť niečo krajšieho, než sú   rozhnevané vlny Bodamského jazera.
+   </tei:p>
+   <tei:p>
+    Pozrite, kto sa tam do zrkadla pozerá?...
+   </tei:p>
+   <tei:p>
+    Potichu sa blížte ako milenec ku komôrke svojej dievčiny;   nedovoľte čižmám vŕzgať, ak máte v nich lipové triesky.
+   </tei:p>
+   <tei:p>
+    V kajute je samotná, za spolucestujúceho mňa jediného má, môže   teda svojej márnomyseľnosti nemýlene pochlebovať v zrkadle.
+   </tei:p>
+   <tei:p>
+    Pozrite na tú štíhlu postavu – ale nejdem ju ďalej opisovať. Dosť   na tom – máte pred sebou ženu ako lusk.
+   </tei:p>
+   <tei:p>
+    Aký blažený som bol, že som mohol v jej spoločenstve cestovať.
+   </tei:p>
+   <tei:p>
+    A aká zhovorčivá! Čo slovo, to geniálna myšlienka. Mladá síce nie   je, ale je predsa na pobozkanie.
+   </tei:p>
+   <tei:p>
+    Rodom Poľka; vydala sa do Francúzska, ale jej manžel dávno zomrel.   Keď mi o jeho smrti rozprávala, vytiahla z vrecka šatku a utierala si   zaslzené oči. To je už potom vernosť na pozlátenie.
+   </tei:p>
+   <tei:p>
+    „Váš nebohý manžel,“ rečiem ja, „bol veľmi šťastný človek, lebo   ako vidím, blažili ste ho závideniahodnou vernosťou.“ Chcel som   týmito slovami jej sentimentálnosť pichnúť, ale sa mi to nepodarilo;   moje slová sa viac poklone podobali.
+   </tei:p>
+   <tei:p>
+    „Ó, prosím vás,“ rečie ona, ľúbo usmejúc sa odrazu, „veľmi mi   pochlebujete. Radšej ste mali riecť, že srdce ženské býva vernejšie   než mužské. A to je naše šťastie, bo v povedomí vernosti nachádzame   aspoň aké-také uspokojenie, ak sme v ľúbosti nešťastné.“
+   </tei:p>
+   <tei:p>
+    „Ach, vy ste boli snáď nešťastnou? Veru vám to z tváre   nevyzerá.“
+   </tei:p>
+   <tei:p>
+    „Či nešťastnou?“ rečie ona s trpkým úsmevom. „Vy ste dobrý znalec   ľudí. Mám k vám dôveru. Ak chcete, môžete počuť o mojom osude. – Ale   snáď sa naraňajkujeme.“
+   </tei:p>
+   <tei:p>
+    Dal som doniesť kávu, ktorú som fatálne draho musel zaplatiť.
+   </tei:p>
+   <tei:p>
+    Pri šáločke začala rozprávať moja drahá Poľka o živote svojho   nebohého muža, aký výstredný život viedol, koľko príčin jej k   žiarlivosti poskytoval a podobné veci. Už som chcel svoje slová   odvolať, ktorými som bol prv vyznal, že jej manžel bol veľmi šťastným   človekom.
+   </tei:p>
+   <tei:p>
+    Ale denique zabával som sa dobre, až kým loď v Romanshorne   zastala. S takou milou ženou som sa už dávno nezabával.
+   </tei:p>
+   <tei:p>
+    Chlape, myslel som si, ak by si bol o štyri roky mladší, t. j.   osemnásťročný, nech som dobrý, ak sa nezaľúbiš do tejto ženy až po   uši.
+   </tei:p>
+   <tei:p>
+    Keď som si v Romanshorne železničný lístok vymieňal, pribehne   drahá Poľka ku mne a vysype na pult predo mnou všetky svoje peniaze.   Boli to všelijaké strieborniaky od výmyslu sveta, nebodaj, pozostatok   akejsi numizmatiky.
+   </tei:p>
+   <tei:p>
+    „Prosím vás,“ rečie ku mne, „pomáhajte mi vyberať švajčiarske   peniaze, ja sa v týchto rozličných nevyznám.“
+   </tei:p>
+   <tei:p>
+    Vyberať – myslím si. Celá tvoja numizmatika nestojí päť frankov a   za lístok máš platiť aspoň dva razy toľko.
+   </tei:p>
+   <tei:p>
+    Z rozpakov mi zvonček pomohol – začali tretí raz na odchod   cengať.
+   </tei:p>
+   <tei:p>
+    „Odpusťte, madame, ešte som neodovzdal svoju batožinu.“ S týmito   slovami som sa vzdialil. Už darmo je, bol som veru taký negalantný,   že som svojej „priateľke“ nekúpil lístok – za svoje peniaze.
+   </tei:p>
+   <tei:p>
+    Chlape, myslel som si, ak by si bol o štyri roky mladší, to jest   osemnásťročný, nech som dobrý, ak jej nekúpiš lístok za svoj   groš.
+   </tei:p>
+   <tei:p>
+    Odvtedy, čo som na pôdu švajčiarsku stúpil, šťastie ženské ma v   opravdivom zmysle slova začalo prenasledovať. Sotva som v Romanshorne   na železnicu sadol, dopálila za mnou moja premilená Poľka, a prv než   by som ju bol spozoroval, sadla si ku mne, rečúc s francúzskou   zdvorilosťou: „Neráčte sa mrzieť, ak budem vašou susedou. So známym   priateľom je, tuším, lepšie cestovať.“
+   </tei:p>
+   <tei:p>
+    Neodpovedal som, čo mi namrzenému na jazyku väzilo, ale som sa   predsa nemohol zdržať, aby som nejako zarazeno nabok nepohliadol.
+   </tei:p>
+   <tei:p>
+    A koho tu zhliadnem?
+   </tei:p>
+   <tei:p>
+    Dievčinu, na prvý pohľad dobre známu, lež v prekvapení som sa   nevedel spamätať, kto je a kde som ju videl.
+   </tei:p>
+   <tei:p>
+    Ona tiež pozrela na mňa a začervenala sa.
+   </tei:p>
+   <tei:p>
+    Po mnohom rozmýšľaní mi prišlo na um, že som dievčatko to sivooké   v Pešti videl asi pred týždňom, keď v omnibuse vis a vis sedela.
+   </tei:p>
+   <tei:p>
+    Cestovala samotná. Možná vec, že v Pešti bola guvernantkou a že sa   teraz do svojho rodiska navracala. Bol som v rozpakoch, či sa jej mám   prihovoriť. Srdce mi lietalo od radosti. Vyznám dôverne, s dievčatkom   som vrele sympatizoval.
+   </tei:p>
+   <tei:p>
+    A ak je ona z Uhorska? Či by sa nepatrilo ju osloviť?... A vidím,   že sa i ona rozpomína na mňa.
+   </tei:p>
+   <tei:p>
+    Bol som v rozpakoch za dlhší čas, a čo z rozpačitosti vyplýva, na   susedu som pozabudol. Táto, aby moju negalantnosť revanšovala, začala   si – za smiechu spolucestujúcich – vlasy vyčesávať. Tak som sa cítil,   akoby ten smiech mne bol platil.
+   </tei:p>
+   <tei:p>
+    To ma pohlo k rozhodnutiu.
+   </tei:p>
+   <tei:p>
+    „Prosím, nebudem na prekážku vášmu zamestnaniu,“ rečiem k svojej   Poľke a už som sedel pri boku sivookého dievčaťa, prehodiac krátko:   „Excusez, mademoiselle“.
+   </tei:p>
+   <tei:p>
+    „S’il vous plait, monsieur,“ rečie ona, sklopiac zrak a zapýriac   sa.
+   </tei:p>
+   <tei:p>
+    ... Mal som také cestovanie, aké viac nikdy nebudem mať...
+   </tei:p>
+   <tei:p>
+    Kto bola tá dievčina a ako som sa s ňou zabával, rozpoviem vám   druhý raz.
+   </tei:p>
+   <tei:p>
+    Do videnia!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

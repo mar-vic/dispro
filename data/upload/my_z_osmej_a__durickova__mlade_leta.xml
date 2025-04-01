@@ -1,0 +1,2014 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1975919" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Zkapaný diamant : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:29533427">
+     Ďuríčková, Mária (1919 - 2004)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     14160
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Ďuríčková, Mária
+     </tei:author>
+     <tei:title>
+      Zkapaný diamant
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Mladé letá
+     </tei:publisher>
+     <tei:date>
+      1975
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Ďuríčková, Mária
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1960
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="F"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-12-02">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     My z ôsmej A
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Dozrievajú červené jahody
+    </tei:head>
+    <tei:p>
+     Balila som sa v stane, aby nik nevidel, ako sa mi lejú slzy.   Plakať sa vraj dá i dovnútra, že na tvári nič nevidieť, ale tak   plakať som sa ešte nenaučila. Ja viem plakať len celkom obyčajne, že   to na mne každý vidí.
+    </tei:p>
+    <tei:p>
+     Skrútila som deky, stiahla remencami a potom som si tvár dobre   vyšúchala oboma rukami.
+    </tei:p>
+    <tei:p>
+     Keď som vyšla, stáli všetci okolo stanu a dívali sa na mňa. Zora   zlostne, Borka ľútostivo (nestojím ja o jej ľútosť!), súdruh vedúci   prísne ani sudca a ostatní chladno a cudzo, akoby som ani nebola z   ich oddielu, ale zdakade z nepriateľskej planéty. A Boris? Kde je   Boris? pozrela som ešte raz dookola veľmi ľahostajným pohľadom, aspoň   som sa o taký snažila. Boris stál obďaleč a prikladal na oheň — už   išli variť večeru. Vystrel sa a pozrel na mňa tak pohŕdavo, že mi   celým telom prebehla ľadová vlna. V ruke držal suchý konárik a trošku   ním kýval, akoby ma chcel čím skôr vyhnať. Mykla som hlavou a   narazila som očami na súdružku Evu. Stála pár krokov od Borisa a   jediná akoby mala v pohľade štipku porozumenia, ale to sa istotne len   tak robila. Ja viem, že ma všetci nenávideli, všetci, všetci! Ba   nenávidela som sa i sama.
+    </tei:p>
+    <tei:p>
+     „Tak teda do videnia!“ otvorila som ústa, ale v hrdle mi len akosi   zaskučalo a do očí sa mi znova začali tisnúť slzy. So sklonenou   hlavou som chytro vykročila pomedzi stany a mihalnicami som si   vysúšala oči; nevidela som dobre pod nohy a potkla som sa o stanový   kolík. Napäla som uši, ale nie, nikto sa nezasmial.
+    </tei:p>
+    <tei:p>
+     Za mnou kráčal súdruh učiteľ Moško, ktorý ma mal odprevadiť.
+    </tei:p>
+    <tei:p>
+     Náhlila som sa preč, preč, a predsa som nemohla nevidieť, aké   prekrásne je stanové mesto, keď ho slnko sponad hory tak iskrivo   hladká. Ach, radšej sa nedívať!
+    </tei:p>
+    <tei:p>
+     Ale musela som sa dívať, aby som znovu nenarazila na kolík, aj aby   som nepoblúdila, veď to bolo mesto veľké, azda s tisíckou stanov a   desiatkami štvrtí.
+    </tei:p>
+    <tei:p>
+     Mnohí pionieri a pionierky si varili večeru, bielili zemiaky,   nosili raždie. Dvom chlapcom sa nechcel rozhorieť oheň, mali hrubé   drevo a možno aj mokré, keď podchvíľou prší. Belavý jedovatý dym sa   im kudlil okolo kotlíka, a plameň nie a nie vyšľahnúť. Nešikovní!
+    </tei:p>
+    <tei:p>
+     Veľká farebná lopta mi takmer padla na hlavu, no stihla som ju   odbuchnúť, a to rovno do rúk usmiatemu chlapcovi v kockavej košeli. —    CS!/lang — zavolal za mnou, ale som mu   neodpovedala, lebo čo sa má škeriť, ani keby neviem čo. Ponad stany   tu i tam i tam i tam vyskakovali farebné aj nefarebné lopty,   zaznievali výkriky, huriavk, smiech. A mne vôbec nebolo do   smiechu.
+    </tei:p>
+    <tei:p>
+     Obišli sme veľký kruh tancujúcich detí. Vyspevovali: „   CS záhradník do záhrady s motykou, vykopal tam rozmarýnu   velikou.../lang“
+    </tei:p>
+    <tei:p>
+     To je kraj Olomouc. Pri vstupnej bráne majú výstavku fotografií,   ešte som si ju nestihla pozrieť, ani si už nestihnem.
+    </tei:p>
+    <tei:p>
+     „...  CS to rozmarýna, byl to křen, vyhodil ho   zahradníček z okna ven./lang“
+    </tei:p>
+    <tei:p>
+     Ako z okna, keď bol v záhrade? myslím si namrzená. Aj naši istotne   chodia takto do kruhu a hrajú sa na jahody, do osprostenia sa hrajú   na tie hlúpe jahody a Boris vykrúca Zoru. Bodaj by sa im spustil   poriadny dážď, aby nemohli mať večer ani tie partizánske ohne, bodaj   by! Čo by som hneď i ja zmokla, nech!
+    </tei:p>
+    <tei:p>
+     „Pionierske noviny! Nech sa páči Pionierske noviny!“ kráčal oproti   nám pionier a rozdával na všetky strany zvláštne malé noviny,   vytlačené akoby čiernym tušom.
+    </tei:p>
+    <tei:p>
+     Zrazové Pionierske! Zahľadela som sa idúcky do nich. „Čo sa   prihodilo Žilinčanom.“ „Plzenská sláva.“ „Piešťanským pionierom.“ No   na moj veru! Ešte tu nebodaj opíšu aj môj prípad! Zo súdružky Evy by   to vystalo. Je redaktorka a istotne prišla medzi nás, aby dačo   vysnorila.
+    </tei:p>
+    <tei:p>
+     Pri tej predstave mi vbehla do očí taká horúčava, že som ani   nezbadala mláku a stúpila som rovno do nej, až mi ofľaslo nohavice   povyše kolena. Okolo poľného vodovodu stála kopa pionierov a niektorí   sa uškrnuli, že som taká ťarboška. Čo vy viete!
+    </tei:p>
+    <tei:p>
+     Na kraji hory som zastala a pozrela ešte raz na zrazište. Bolo   zaliate ružovkavým svetlom a pestré stanové štvrte sa miestami   strácali v úvalinách. Spod lesa zaznievali výkriky: „Tempo,   Bratislava! Tempo, Bratislava!“ Zápasili tam vo volejbale.
+    </tei:p>
+    <tei:p>
+     Odvrátila som sa a vykročila do hory.
+    </tei:p>
+    <tei:p>
+     V starom tábore vyvalia oči, keď ma zazrú. Kto je tam vlastne?   Súdružka hospodárka, Ľubo s Ďurom, lebo mali vždy najneporiadnejší   stan, Fedor, ktorému sa zbiera noha, a Zuza s Elenou, lebo „nám sa   nechce ísť na zraz!“ Nechcelo sa im, radšej ostali hlivieť v tábore!   A k tým sa vraciam: neporiadnym, lenivým, čo si hádam ani nezasluhujú   pioniersku šatku... Ale nič im nepoviem, ani slova o tom, prečo som   sa vrátila, ja som aj tak oveľa lepšia ako oni...
+    </tei:p>
+    <tei:p>
+     Súdruh učiteľ ide mlčky, je mojím tichým sprievodcom. To nebolo   treba, potrafila by som i sama, veď je to len dáka hodina cesty. Ako   nič by som potrafila, veď hádam viem, kade sme šli sem. A možno by   som sa ani nevrátila do tábora, možno by som šla rovno na vlak a   domov. Lebo čo ja v tábore so Zuzou a Elenou? Aspoň keby im súdruh   učiteľ nič o tom nepovedal, aspoň Elene a Zuze keby nepovedal, lebo   súdružke hospodárke istotne povie. Ale po zraze sa vrátia do tábora   aj ostatní a vyľapocú. Pravdaže vyľapocú, hoci nič nechápu, celkom   nič. Nikto! Ani súdružka Eva by neuhádla opísať, prečo sa to so mnou   stalo, čo je i redaktorka. Ani by od nej nebolo pekné, keby mi   urobila takú hanbu, veď kto v živote nespraví chybu? Každý! I ona,   hľa, ako prišla do tábora! V poltopánčičkách a s kufrom, ani čo by   šla na Sliač, a nie do hory! Cha! Všetci sme sa síce tvárili vážne a   ustarostene, že čo už teraz, keď nemá ani stan, ani deky, ani nič,   ale okolo úst nám to šklbalo. Či je to tiež nie smiešne? A aké!
+    </tei:p>
+    <tei:p>
+     Pravdaže, budú o mne rozprávať, preperú ma zo všetkých strán, a   najviac Zora, moja bývalá kamarátka. No nechápe ma ani ona, nikto na   svete ma nechápe. A ja to nikomu nebudem vysvetlovať, ja si to len   zapíšem do svojho zošita, čo má na štítku nápis :VEĽMI TAJNÉ. Tam si   to zapíšem od začiatku do konca.
+    </tei:p>
+    <tei:p>
+     Lebo to sa vôbec nezačalo tu na zraze, ale už dávno predtým. Vtedy   sme ešte boli so Zorou kamarátky, vtedy som si o nej myslela, že je   úprimná a verná, ale ukázalo sa, že je falošná.
+    </tei:p>
+    <tei:p>
+     Už v zime sa to ukázalo, keď na estráde spievala s Borisom   Slniečko horúce a začala si o sebe myslieť neviem čo, lebo im tak   tlieskali, že museli pieseň zopakovať. Podľa mojej mienky ju ani   nespievali dáko vynikajúco, ale našim Trenčanom sa hocičo páči. Žiaci   odvtedy volajú Borisa Praclíkom a Zoru Praclíčkou. Taká smiešna   prezývka! Vraj je to od mena Presley a to že je akýsi slávny americký   spevák. Dajsamisvete! A veď Boris ani nespieva dáko krásne, on akoby   len rozprával, a ešte k tomu chrapľavo. A pritom sa vždy zahľadí až   kamsi do Ameriky, aby bol zaujímavejší. Najradšej spieva Nelly Grey a   Arivederči, Roma. Ale súdruh učiteľ povedal, že na estrádu bude   vhodnejšia ľudová pieseň, tak zaspievali so Zorou to Slniečko horúce.   Stáli na javisku a spievali, možno aj dosť pekne, ale vôbec nie   vynikajúco. A pieseň im ani veľmi nesedela, lebo sú obaja počerní, a   v piesni sa vraví: „.. nech mi neuhorí tá moja biela tvár.“
+    </tei:p>
+    <tei:p>
+     Ja som na estráde tiež vystupovala, hrala som hlupaňu, čo si   myslí, že všetko vie, ale v skutočnosti nevie nič poriadne, a keď   recituje Hájnikovu ženu, pomieša do nej i verše z Detvana, i z Mor   ho!, i z Piesne nad kolískou.
+    </tei:p>
+    <tei:p>
+     Mne síce tiež zatlieskali, ale iba troška, a súdruh učiteľ   povedal:
+    </tei:p>
+    <tei:p>
+     „Ľuda, prehnala si to. Ty obyčajne všetko preženieš.“
+    </tei:p>
+    <tei:p>
+     Zora sa o mojom výstupe ani nezmienila, akoby celá estráda bola   len jej Slniečko horúce a nič viac a nikto viac. A mohla povedať   aspoň slovíčko, veď sme boli kamarátky.
+    </tei:p>
+    <tei:p>
+     Myslím, že som ju už vtedy prestávala mať rada.
+    </tei:p>
+    <tei:p>
+     Z estrády sme mali dosť pekný zisk (odhlasovali sme ho na letné   táborenie) a Zora s Borisom aj veľkú slávu.
+    </tei:p>
+    <tei:p>
+     „Tak čím budeš, Praclík?“ naťahovali ho chlapci. „Spevákom, či   chemikom?“ Lebo Boris má veľmi rád i chémiu a večne rozpráva o   všelijakých pokusoch. Raz vravel, že sa chemicky dajú vyrábať aj   diamanty, vraj pod veľkým tlakom. Ale to sú iste len táraniny!
+    </tei:p>
+    <tei:p>
+     „Tak čím budeš?“
+    </tei:p>
+    <tei:p>
+     Vtedy už stáli okolo neho aj dievčatá a Boris sa sebavedome   usmial, že sa o neho všetci tak zaujímajú.
+    </tei:p>
+    <tei:p>
+     „Najprv budem vyrábať diamanty,“ povedal pyšne. „Vyrobím diamant   veľký ako dom, spravíme z neho koncertnú sálu a tam potom budem   spievať.“
+    </tei:p>
+    <tei:p>
+     „Ha-ha-ha, tak v Trenčíne budeme mať diamantovú koncertnú   sálu?“
+    </tei:p>
+    <tei:p>
+     „Normálne!“ povedal Boris a zahľadel sa do neurčita, ako to mal vo   zvyku.
+    </tei:p>
+    <tei:p>
+     „Nože zaostri svoj pohľad na nás obyčajných!“ povedala som   ironicky, ale on ma tuším nepočul.
+    </tei:p>
+    <tei:p>
+     „Normálne,“ zopakoval ešte raz, už len akoby sám pre seba.
+    </tei:p>
+    <tei:p>
+     „Nafukuje sa ako tá žaba, čo chcela byť kravou,“ pošepla som Zore   v lavici.
+    </tei:p>
+    <tei:p>
+     „Tebe sa Boris nepáči?“ spýtala sa prekvapená.
+    </tei:p>
+    <tei:p>
+     „Neviem, čo by sa mi na ňom malo páčiť! Vari tie namyslené oči? A   vrchné zuby má ani lopaty, nevšimla si si?“
+    </tei:p>
+    <tei:p>
+     „Ale ako mu svedčí biela košeľa!“ chytila ma Zora za ruku a v   očiach jej zasvietilo nadšenie.
+    </tei:p>
+    <tei:p>
+     Ako nikomu inému! pomyslela som si, lebo som sa už nevládala   pretvarovať i sama pred sebou. Ale nahlas som povedala:
+    </tei:p>
+    <tei:p>
+     „No, strúha parádu, že sa to skoro ani nepatrí. Ešte aj vlasy si   vlní, ha-ha!“ a ohrnula som pery.
+    </tei:p>
+    <tei:p>
+     „Aby si vedela, Ľuda, vlnia sa mu samy,“ bránila ho Zora. „Myslím,   že keď sa ti Boris aj nepáči, zato nemusíš naňho vymýšľať.“
+    </tei:p>
+    <tei:p>
+     Pravdaže, už vtedy bola doň zaľúbená. Akiste preto sa začala i   parádiť. Raz prišla do školy v takých módnych šatách, že všetci na ňu   prilepili oči. Už som myslela, že bude mať z nich slávu ako z toho   Slniečka horúceho, ale vtom sa ozval Jano Hába, ktorý vstupoval za   ňou do triedy:
+    </tei:p>
+    <tei:p>
+     „Zora,“ hovorí, „veď si si ty obliekla šaty predkom na zadok!“
+    </tei:p>
+    <tei:p>
+     Zora sa najprv zľakla, pozrela chytro po sebe, ale potom   odvrkla:
+    </tei:p>
+    <tei:p>
+     „Ty sa rozumieš do módy ako hus do algebry!“ A obrátila sa k nemu   tvárou: „No pozri, ty módny znalec!“
+    </tei:p>
+    <tei:p>
+     Jano hľadí na Zoru a vraví v pomykove:
+    </tei:p>
+    <tei:p>
+     „No toto je humor! Tie šaty aj spredu vyzerajú ako spredu, aj   zozadu vyzerajú ako spredu.“ A hodil rukou, že sa chlapovi škoda   miešať do takých vecí, lebo si len hanbu spraví.
+    </tei:p>
+    <tei:p>
+     Rozosmiali sme sa, lebo sa nám už veľmi žiadalo smiať. Aj Zora sa   smiala, ale nie od srdca, to som videla. Ani v tých šatách neprišla   viac do školy, nosí ich len v nedeľu. No šaty sú to pekné, so   špicatým výstrihom a zapínaním vzadu. Ani ja by som sa od takých   neodhodila, lenže nám doma nestačí na toľkú parádu.
+    </tei:p>
+    <tei:p>
+     Ale čože šaty, tie jej ja nezávidím. No prečo sa zaľúbila práve do   Borisa? Akurát doň, akoby v triede nebolo dosť iných chlapcov!
+    </tei:p>
+    <tei:p>
+     Boris si ju ešte vtedy dajako zvlášť nevšímal: pestoval hudbu a   robil všelijaké chemické pokusy. Aj učenia bolo dosť, lebo sme   končili ôsmu triedu a drvili sme literatúru a gramatiku a všetko. Už   som sa neučievala so Zorou, ale s Paulou. Paula vôbec nie je pyšná,   ale skromná a tichá a nič mi nerobí napriek.
+    </tei:p>
+    <tei:p>
+     Pritom sme sa celý čas tešili na táborenie, a hlavne na zraz   mladých turistov. To bude čosi!
+    </tei:p>
+    <tei:p>
+     V druhý prázdninový týždeň sme vyrazili: vlakom do Brezna a potom   autobusom do Mlynnej doliny.
+    </tei:p>
+    <tei:p>
+     Tábor sme si postavili na utešenom mieste: rovienka pod horou,   poniže cesty potôčik, na dva kroky prameň s pitnou vodou a na dvesto   krokov ešte aj kyselka. To náš súdruh riaditeľ, ktorého v tábore   voláme iba súdruh vedúci, má taký nos. Turistika je jeho dávna   záľuba.
+    </tei:p>
+    <tei:p>
+     Prvé dni boli velmi-veľmi rušné, lebo sme sa všetci snažili, aby   náš tábor bol čím krajší a pohodlnejší. Družiny sa pretekali vo   vynachádzavosti. Borisova družina spravila vstupnú bránu aj so   schodíkmi a ešte i „jedáleň“, veľký stôl s lavicami dookola. Zorina   družina urobila výstavný kútik s mapami a fotografiami a moja družina   slnečné hodiny.
+    </tei:p>
+    <tei:p>
+     Škoda, že sa do mojej družiny dostali okrem siedmakov a ôsmakov aj   dve šiestačky, Dorka a Borka, také mačence, čo by sa ustavične len   hrali. Veď nemôžem povedať, stan mali vždy v poriadku, vystlaný   sviežou čečinou, a pri bodovaní dosiahli zaň obyčajne osem i deväť   bodov. Ale v ostatnom zaostávali, takže naša družina bola na   poslednom mieste. Zorina bola prvá a Borisova druhá, ale oni mali   samých siedmakov a ôsmakov.
+    </tei:p>
+    <tei:p>
+     „Aspoň si robte vzorne táborové denníčky,“ nakladala som Dorke a   Borke, „aby sme trošku postúpili.“ Horlivo prikyvovali a denníčky si   robili naozaj pekne, možno krajšie ako ja. Každé heslo dňa si   vypracovali, aj kresbičkou prizdobili a nikdy si nezabudli zapísať,   ako tábor strávil deň. A predsa bola naša družina posledná.   Predsa!
+    </tei:p>
+    <tei:p>
+     Veľmi mi tá Zora odpadla od srdca. Už mi je ťažko i pozrieť na jej   stan; býva v ňom s Lenou, čo má na starosti táborovú kroniku. So mnou   býva Paula. Tá mi aspoň nehudie poza uši, aký je Boris pekný v bielej   košeli. Paula sa za Borisom vôbec nejaší, ale Zora až nápadne.   Najlepšie sa to ukázalo pri jahodách. Jahody, to je hra, ktorú sa   hrávame obyčajne po večernom hlásení. Chytíme sa za ruky, chodíme do   kruhu a spievame:
+    </tei:p>
+    <tei:p>
+     Dozrievajú červené jahody,
+    </tei:p>
+    <tei:p>
+     povedz, milá, kto za tebou chodí,
+    </tei:p>
+    <tei:p>
+     povedz, milá, duša moja,
+    </tei:p>
+    <tei:p>
+     kto za tebou chodí.
+    </tei:p>
+    <tei:p>
+     A vprostred kruhu kráčajú protismerom chlapci a vyberajú si, ktoré   dievča si vyvoliť. Potom k tej vyvolenej pribehnú a vrtia sa s ňou   popod pazuchy, ale to už pri slovách druhej slohy:
+    </tei:p>
+    <tei:p>
+     Za mnou chodia dve červené líčka,
+    </tei:p>
+    <tei:p>
+     vrezali sa do môjho srdiečka,
+    </tei:p>
+    <tei:p>
+     vrezali sa, duša moja,
+    </tei:p>
+    <tei:p>
+     do môjho srdiečka.
+    </tei:p>
+    <tei:p>
+     Potom ostanú v kruhu dievčatá a hra sa opakuje, ibaže teraz si   dievčatá volia chlapcov.
+    </tei:p>
+    <tei:p>
+     Hra je celkom jednoduchá, a predsa veľmi-veľmi zaujímavá, lebo sa   pri nej naozaj ukáže, kto za kým chodí.
+    </tei:p>
+    <tei:p>
+     Zora si, pravdaže, najčastejšie vyvolila Borisa. On sa vždy   usmial, navidomoči spokojný, a už sa vrteli, až im tak vlasy   nadskakovali.
+    </tei:p>
+    <tei:p>
+     A Boris tiež. Už si nás len prezerá, ako kráčame dookola, a potom   sa zvrtne a hybaj k Zore! Raz bežal k nej z druhej strany Jano Hába a   tak sa zrazili hlavami, až to zadunelo.
+    </tei:p>
+    <tei:p>
+     „Prepáč, Praclík,“ chytil ho Jano okolo pliec. „Nechcel som.“
+    </tei:p>
+    <tei:p>
+     „Normálne,“ zašomral Boris a vzal do tanca mňa. Ale čože z toho,   keď som ja videla, že on už pasie za Zorou. No a prečo nie! I pekná   je, i družinu má najlepšiu — a ja najhoršiu.
+    </tei:p>
+    <tei:p>
+     Onedlho nato prišla do tábora súdružka Eva. Práve sme vyliezali zo   stanov po odpoludňajšom odpočinku, lebo sme v ten deň nikde nešli pre   dážď.
+    </tei:p>
+    <tei:p>
+     Súdružka Eva bola po kolená zablatená, s kufrom v ruke, a vyzerala   tak bezradne, že nám bolo i ľúto i smiešne. Pobudne vraj s nami, rada   by vidieť, ako si v tábore nažívame, a dúfa, že sa s nami aj   skamaráti.
+    </tei:p>
+    <tei:p>
+     Súdruh vedúci šiel kdesi požičať pre ňu stan aj deky a jeden   matrac sme mali navyše, tak sme jej ho nafúkali. Ja som jej   požičiavala jedácu šálku, a keď sme šli na huby, dala jej Paula svoje   trampky.
+    </tei:p>
+    <tei:p>
+     „Veľmi sa o mňa staráte,“ povedala súdružka Eva. A zahanbene sa   usmievala.
+    </tei:p>
+    <tei:p>
+     Naozaj to bolo zvláštne: mali sme ju na starosti, akoby nebola od   nás o dvadsať rokov staršia, ale o päť rokov mladšia. Všeličo sa v   živote stáva.
+    </tei:p>
+    <tei:p>
+     „Ak nebude večer pršať,“ povedal na druhý deň súdruh vedúci,   „spravíme si táborák. Družiny nech si pripravia program.“
+    </tei:p>
+    <tei:p>
+     Pripraviť s mojou družinou súci program, to nebola maličkosť. Ale   súdružka Eva nám azda pomôže, keď sme už na tom poslednom mieste.
+    </tei:p>
+    <tei:p>
+     Vyšli sme kúsok za tábor a tam sme si sadli na kláty.
+    </tei:p>
+    <tei:p>
+     Súdružka Eva začala s nami nacvičovať dvojhlasnú pieseň. Dosť dlho   sa morila, no nebolo z toho nič, lebo chlapcom to akosi nešlo do   ucha, a najmä Mišovi, ktorý bručal všetko o sekundu nižšie.
+    </tei:p>
+    <tei:p>
+     „To nám teda nepôjde,“ povedala súdružka Eva a na chvíľu sa   zamyslela: „Ale naučíme sa jednu celkom-celkom ľahkú: Vy budete   spievať len umbaj-umbaj a prvý hlas zaspievam sama.“
+    </tei:p>
+    <tei:p>
+     „Umbaj-umbaj, umbaj-umbaj, umbaj-umbaj,“ spievali sme horlivo.
+    </tei:p>
+    <tei:p>
+     „Ty, Michal, tichšie,“ napomenula ho súdružka, „priveľmi ťa   počuť.“ Ja viem, že chcela vlastne povedať: Ty, Michal, nespievaj,   lebo máš hluchú muchu v uchu. Ale Mišo nepochopil, čo chcela povedať,   on pochopil len to, čo povedala. No spieval aspoň trošku tichšie.
+    </tei:p>
+    <tei:p>
+     „Umbaj-umbaj, umbaj-umbaj,“ spievali sme a súdružka Eva zatiahla k   tomu prvý hlas: „Na zelenej Ukraj-i-i-ne...“
+    </tei:p>
+    <tei:p>
+     Mala krásny soprán, ktorý sa ponad naše umbaj-umbaj vznášal ako   pestrý vtáčik ponad hrubý les.
+    </tei:p>
+    <tei:p>
+     „Nezrýchlovať, Dorka-Borka!“ pozerala som prísne na šiestačky,   ktorým to umbaj bežalo čoraz rýchlejšie, ani čo by ho kotúľali dolu   brehom, a dávala som rukou takt.
+    </tei:p>
+    <tei:p>
+     Myslím, že nám to nešlo najhoršie.
+    </tei:p>
+    <tei:p>
+     Potom som si ja s Paulou precvičila rozhovor hluchých tetiek, to   je dosť smiešne, a Jano Hába že zatancuje hadí tanec. To bol program   našej družiny.
+    </tei:p>
+    <tei:p>
+     Pri táboráku sa Umbaj-umbaj podarilo úplne senzačne. Večer bol   tmavý, na oblohe ani hviezdičky, ale z nášho táboráka vyletovali do   tmy tisíce hviezd a pomedzi ne sa prepletala sladká melódia s   farebnými slovami: Na zelenej Ukrajine... a dolu v hĺbke sa   prevaľovalo ani morské vlny: umbaj-umbaj, umbaj-umbaj. Až mi od tej   krásy naskočili zimomriavky.
+    </tei:p>
+    <tei:p>
+     Pri hodnotení programu ocenilo sa Umbaj ako najlepšie číslo a   súdruh vedúci nám chcel zaň dať päťdesiat bodov. Ale vtom sa ozvala   Zora, že tak a tak, tam bola cudzia účasť, že súdružka Eva nie je   členkou družiny a ešte neviem čo. Body nám znížili na dvadsať a   všetci to pokladali za správne. Aj Boris.
+    </tei:p>
+    <tei:p>
+     „Normálne,“ povedal po svojom. „Stačí im dvadsať.“
+    </tei:p>
+    <tei:p>
+     A tak zostala naša družina zas len na poslednom mieste, dvadsať   bodov nás z blata nevytiahlo. Zorina je stále prvá, lebo do   táborákového programu zložili zaujímavé Rozhlasové noviny z Mlynnej   doliny. A Borisova družina je na druhom mieste, lebo pekne zaspieval   pieseň o Mississipi. Dievčence vraveli, že keby Boris nebol už   Praclíkom, tak by ho nazvali Robesonom. Ešte čo! Veď nepoviem,   spieval celkom dobre, ale nám sa stala krivda.
+    </tei:p>
+    <tei:p>
+     O tri dni sa už malo ísť na zraz do Bystrej doliny. Všetci sme sa   tešili, len Zuza a Elena vraveli, že sa im nechce. Súdruh vedúci   povedal, že takí, ktorým sa na zraz nechce, ta ani nepatria, a že mu   je to i vhod, lebo tábor aj tak nemôže ostať opustený, kým sa   vrátime. Tak nech vraj Zuza a Elena ostanú a nech ostane aj Ľubo s   Ďurom, keď sú takí neporiadni, a že ostane s nimi aj súdružka   hospodárka a ešte Fedor, ktorého bolí noha.
+    </tei:p>
+    <tei:p>
+     Na lúčinu Tále, vlastné miesto zrazu, sme vykročili až na signál:   červené rakety a delobuchy. Ale akáže tam lúčina! Lúčinisko, že ju   okom neobsiahneš, tu i tam mierne zvlnená a obkolesená horou. Kráčame   v dvojstupe, plní očakávania, a tu z druhej, tretej i štvrtej strany   hory ďalšie dvojstupy turistov. Sedem dlhých prúdov zo všetkých strán   hory, zo všetkých kútov našej vlasti. Sedem dlhokánskych, nekonečných   prúdov a v nich takmer päťtisíc pionierov. Vitajte, kamaráti,   vitajte!
+    </tei:p>
+    <tei:p>
+     A potom, za necelú polhodinu, vyrástlo na Táľoch stanové mestečko.   Ale akéže tam mestečko. Celé mesto, s ulicami, námestiami, zákutiami   a ihriskami, ba i s obchodmi na hlavnom námestí: kúp si, čo chceš. A   stany akých len rozličných farieb! Žlté, zelené, belasé, ružové,   modré, strakaté...
+    </tei:p>
+    <tei:p>
+     Keď som pozrela na naše mesto zdola od potôčika, zdalo sa mi, že   je to záhrada s obrovskými kvetmi. A tak mi bolo radostne, že som na   chvíľu pozabudla aj na protivnú Zoru.
+    </tei:p>
+    <tei:p>
+     Ale pri večernom nástupe nám súdruh vedúci oznámil, že trojica   Zora, Lena a ja budeme zajtra pretekať za kraj v celoštátnych   orientačných pretekoch. Potešilo ma to — i zamrazilo. Zora bude   veliteľka hliadky, tá falošnica, čo mi aj Borisa predchytila, aj   mojej družine nedopriala päťdesiat bodov. Čo mi všade stojí v   ceste...
+    </tei:p>
+    <tei:p>
+     Po večeri sme sa zasa hrali na jahody, no ja som o chvíľu odišla a   sadla som si pred stan.
+    </tei:p>
+    <tei:p>
+     „Čo sa nejdeš hrať, Ľuda?“ volala ma Paula, ale ja som len   pokrútila hlavou.
+    </tei:p>
+    <tei:p>
+     „Zbiera sily na zajtra,“ zasmial sa Boris. „Neboj sa, budeme vám   držať palce! Normálne!“ Ale pritom sa už nedíval na mňa, lež na Zoru.   Odvrátila som oči a naozaj som zbierala sily.
+    </tei:p>
+    <tei:p>
+     Zajtra nijaké truce a prieky, Ľuda! Rozumieš? prikazovala som si   prísne.
+    </tei:p>
+    <tei:p>
+     Rozumiem: nijaké truce a prieky, odpovedala som si poslušne.
+    </tei:p>
+    <tei:p>
+     Budeš rozvážna a disciplinovaná, jasné?
+    </tei:p>
+    <tei:p>
+     Jasné: budem rozvážna a disciplinovaná.
+    </tei:p>
+    <tei:p>
+     Inak nie si správna pionierka, chápeš?
+    </tei:p>
+    <tei:p>
+     Chápem: inak nie som správna pionierka.
+    </tei:p>
+    <tei:p>
+     V noci sa mi snívalo, že to naša hliadka vyhrala, a keď sme sa   vracali s víťaznou vlajkou a plaketou, tak nás Bratislavčania a   Piešťanci a Seredčania niesli na pleciach a kričali: „Nech žijú naše   reprezentantky, hurá, hurá, hurá!“ A Boris hral na klavíri a usmieval   sa na mňa rovnako milo ako na Zoru a bledoružové stany Liberčanov sa   premenili na záhon bledoružových georgín a Boris tri z nich odtrhol a   dal po jednej Zore, Lene aj mne.
+    </tei:p>
+    <tei:p>
+     Zobudila som sa veselá a spokojná.
+    </tei:p>
+    <tei:p>
+     Naši odchádzali na výlet včaššie ako my na štart a ešte z diaľky   nám kývali zaťatými päsťami, že takto hľa nám budú držať palce.
+    </tei:p>
+    <tei:p>
+     Aj my sme im kývali: „Nebojte sa, všetko bude dobre!“
+    </tei:p>
+    <tei:p>
+     Ale nebolo. Ach, veru nebolo...
+    </tei:p>
+    <tei:p>
+     S patričnou záťažou na chrbte, s mapou v mapníku a kompasom v ruke   prijali sme na štarte prvý rozkaz:
+    </tei:p>
+    <tei:p>
+     „Kontrola číslo jedna je na juhozápad od miesta štartu,   vzdialenosť asi osemsto metrov...“
+    </tei:p>
+    <tei:p>
+     Čupli sme si pod liesku a zahľadeli sa do mapy.
+    </tei:p>
+    <tei:p>
+     „Kde sme teraz? Čo myslíte?“ spytuje sa Lena. „Tuto,“ ukazuje Zora   na mape. „Aha, tu je záhyb potôčika a tuto sme my,“ zopakovala.
+    </tei:p>
+    <tei:p>
+     „Nezdá sa mi,“ pokrúcam ja hlavou. „Myslím, že naše stanovisko je   tuto,“ a ukazujem na mape o kúštik západnejšie.
+    </tei:p>
+    <tei:p>
+     „Ale čožeby!“ zapálila sa Zora. „Ty sa vždy robíš múdrejšia. Tuto   sme predsa!“
+    </tei:p>
+    <tei:p>
+     „No, neviem,“ hovorím zachmúrene. „Budeme blúdiť,“
+    </tei:p>
+    <tei:p>
+     Ale Zora si nedala povedať, a tak sme šli, ako ona vravela.
+    </tei:p>
+    <tei:p>
+     Prešli sme už nie osemsto, ale iste dvakrát osemsto metrov, a   kontrola nikde.
+    </tei:p>
+    <tei:p>
+     „No vidíš,“ premáhala som zlosť, čo sa vo mne vzdúvala. „Vráťme sa   na miesto štartu a poďme odznova!“
+    </tei:p>
+    <tei:p>
+     „Čo tu rozkazuješ!“ vybuchla Zora, už tiež nazlostená, veď sme   stratili toľko času! „Kto je veliteľka, ty, či ja? Nevieš, čo je   disciplína!“
+    </tei:p>
+    <tei:p>
+     „Nie som povinná poslúchať hlúpe rozkazy, a ani nebudem!“ Vzdor mi   preletel popod čelo ani horúci šíp. Zhodila som plecniak a sadla som   si naň. „Choďte si samy!“
+    </tei:p>
+    <tei:p>
+     „Neblázni, Ľuda!“ zvolala Lena preľaknutá a ťahala ma za ruku. „Tá   kontrola nemôže byť ďaleko, nájdeme ju!“
+    </tei:p>
+    <tei:p>
+     „S takou veliteľkou nikdy!“ odsekla som opovržlivo a vyvalila som   sa na trávu. Nezdvihli by ma ani žeriavom.
+    </tei:p>
+    <tei:p>
+     „Tak ju nechaj, umbajku trucovitú,“ povedala Zora a potiahla Lenu   za sebou. „Vyfarbila sa. Vlastný truc je jej prednejší ako...“ Koniec   vety som už nepočula, zanikol s odchádzajúcimi krokmi.
+    </tei:p>
+    <tei:p>
+     Prednejší ako čo? ako čo? ako čo? ako čo? bila mi krv do slúch a   ja som si nijako nevedela domyslieť koniec Zorinej vety.
+    </tei:p>
+    <tei:p>
+     Zahľadela som sa na oblohu, plávali po nej sivé oblaky. Jeden   vyzeral ako mapa Afriky, len Madagaskar chýbal a Guinejský záliv   nebol dosť vyhryznutý. A druhý oblak vyzeral... ako čo? ako čo? ako   čo?... (bila mi krv do slúch) aha, už viem, druhý vyzeral ako   obrovská georgína s uvädnutými krajnými lístkami, taká trošku   roztrasená, pred troma dňami odtrhnutá... Aj Boris mi dal vo sne   georgínu, ale tá bola krásna, bledoružová ako liberecké stany a   svieža, ledva rozkvitnutá. A Bratislavčania, Piešťanci a Seredčania   nás niesli na pleciach a kričali: „Nech žijú naše reprezentantky,   hurá, hurá, hurá!“
+    </tei:p>
+    <tei:p>
+     Vyskočila som na rovné nohy a rozbehla som sa za Zorou a   Lenou.
+    </tei:p>
+    <tei:p>
+     „Idem, počkajte ma!“ kričím. „Zora, Lena, kde ste?“ Ale nikto sa   neozval, ani len ozvena sa mi neozvala.
+    </tei:p>
+    <tei:p>
+     Azda zmenili smer? zastala som uprostred hory. A vtom som si   uvedomila, že som si na lúčinke zabudla plecniak. Bežala som poň, veď   záťaž je povinná, a potom znova do hory, kričím, vyvolávam... Nič,   nič, ani najmenšia ozvena. Namiesto nej zašuchotal v lístí stromov   hustý dážď.
+    </tei:p>
+    <tei:p>
+     Zastala som pod širokým hrabom — alebo to bol buk? — a krv mi už   do slúch nebila, ale mi v žilách úplne stuhla, lebo sa mi zrazu ako   blesk mihol hlavou koniec Zorinej vety: „Vlastný truc je jej   prednejší ako... ako pionierska povinnosť brániť česť oddielu,   skupiny, kraja...“
+    </tei:p>
+    <tei:p>
+     Vracala som sa, akoby som vliekla na pleciach všetku ťarchu sveta.   Dážď už prestal a svietilo slniečko. Zďaleka som vyhla zeleným   hangárom Seredčanov aj belasým stanom Bratislavčanov a vkradla som sa   ako zlodej pod žltú striešku nášho stanu.
+    </tei:p>
+    <tei:p>
+     Naši prišli z výletu dosť neskoro popoludní, trošku zmoknutí, ale   veselí.
+    </tei:p>
+    <tei:p>
+     No veselí boli, len keď prichádzali, potom ich všetka veselosť   prešla.
+    </tei:p>
+    <tei:p>
+     „Vrátili sme sa teda na miesto štartu,“ vysvetľovala Zora   súdruhovi vedúcemu, „a šli sme novým smerom, ako vravela predtým   Ľuda. Kontrolu sme o chvíľu našli, ale neboli sme v plnom počte, tak   sme preteky museli vzdať.“
+    </tei:p>
+    <tei:p>
+     „Ľuda, Ľuda! Ona vždy všetko preženie!“ Súdruh učiteľ Moško kýval   hlavou, ako že ho to vôbec neprekvapuje.
+    </tei:p>
+    <tei:p>
+     Stála som uprostred hučiaceho mesta s tisíckami pionierskych   obyvateľov, no bola som celkom sama a chvela som sa ako od zimy, hoci   slniečko sponad hory tak iskrivo žiarilo.
+    </tei:p>
+    <tei:p>
+     „Zbaliť sa a odchod!“ tak znel rozsudok. Jednohlasný.
+    </tei:p>
+    <tei:p>
+     „I šatku by jej bolo treba vziať!“ počula som Zorin hlas.
+    </tei:p>
+    <tei:p>
+     Ale súdruh vedúci doložil iba toľko:
+    </tei:p>
+    <tei:p>
+     „Súdruh Moško, buď taký láskavý, rob jej tichého sprievodcu do   starého tábora.“
+    </tei:p>
+    <tei:p>
+     Balila som sa v stane, aby nik nevidel, ako sa mi lejú slzy.   Plakať sa vraj dá i dovnútra, že na tvári nič nevidieť, ale tak   plakať som sa ešte nenaučila. Ja viem plakať len celkom obyčajne, že   to na mne každý vidí.
+    </tei:p>
+    <tei:p>
+     Skrútila som deky, stiahla remencami a potom som si tvár dobre   vyšúchala oboma rukami.
+    </tei:p>
+    <tei:p>
+     Keď som vyšla, stáli, pravdaže, všetci okolo stanu a dívali sa na   mňa. Zora zlostne, Borka ľútostivo (nestojím ja o jej ľútosť!),   súdruh vedúci prísne ani sudca a ostatní chladno a cudzo, akoby som   ani nebola z ich oddielu, ale zdakade z nepriateľskej planéty. „A   Boris? Kde je Boris?“ pozrela som ešte raz dookola veľmi ľahostajným   pohľadom, aspoň som sa o taký usilovala. Boris stál obďaleč a   prikladal na oheň — už išli variť večeru. Vystrel sa a pozrel na mňa   tak pohŕdavo, že mi celým telom prebehla ľadová vlna. V ruke držal   suchý konárik a trošku ním kýval, akoby ma chcel čím skôr vyhnať.   Mykla som hlavou a narazila som očami na súdružku Evu. Stála pár   krokov od Borisa a jediná akoby mala v pohľade štipku porozumenia,   ale to sa istotne len tak robila. Ja viem, že ma všetci nenávideli,   všetci, všetci! Ba nenávidela som sa i sama.
+    </tei:p>
+    <tei:p>
+     „Tak teda do videnia!“ otvorila som ústa, ale v hrdle mi len akosi   zaskučalo a do očí sa mi znova začali tisnúť slzy. So sklonenou   hlavou som chytro vykročila pomedzi stany a mihalnicami som si   vysúšala oči; nevidela som dobre pod nohy a potkla som sa o stanový   kolík. Napäla som uši, ale nie, nikto sa nezasmial.
+    </tei:p>
+    <tei:p>
+     Teraz kráčame do starého tábora v Mlynnej doline a budem tam s   Elenou a so Zuzou a s Ľubom a s Ďurom, čo takmer ani nie sú   pionieri...
+    </tei:p>
+    <tei:p>
+     A pršať už dnes nebude. Obloha je čistá, tamtie pozlátené oblaky   nad západom nie sú dažďové. Večer vyšľahne okolo Táľov osemnásť   partizánskych ohňov a Mor ho! bude namiesto mňa recitovať Lena. Alebo   možno Paula. To je mne už fuk.
+    </tei:p>
+    <tei:p>
+     V tejto chvíli sú už naši po večeri a hrajú sa a spievajú:
+    </tei:p>
+    <tei:p>
+     Dozrievajú červené jahody,
+    </tei:p>
+    <tei:p>
+     povedz, milá, kto za tebou chodí,
+    </tei:p>
+    <tei:p>
+     povedz, milá, duša moja,
+    </tei:p>
+    <tei:p>
+     kto za tebou chodí.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     My z ôsmej A
+    </tei:head>
+    <tei:p>
+     Naparovali sa od samého septembra: najprv spravili prváčencom   záložky do kníh, potom tretiačencom plastickú mapu Slovenska, potom   zase prváčencom — darčeky na deda Mráza. Už nás to aj dopaľovalo,   lebo školský rozhlas podchvíľou vysielal: „Ďakujeme našim timurovcom“   a prváčence im zaspievali: „Stokrát, stokrát nech žijú, žijú nám!“   Kto by to reku mohol byť? lámali sme si hlavy. Ale podistým len dáki   piataci, najviac ak šiestaci, lebo si všímajú iba drobizg a do našej   ôsmej A sa nestarejú.
+    </tei:p>
+    <tei:p>
+     Aha, nie! Zastareli sa, a rovno do mňa!
+    </tei:p>
+    <tei:p>
+     Jedného dňa mi prišiel do školy balíček. Všetko sa zhŕklo ku mne,   čo to vraj môže byť? Ale ja, akoby som tušil dačo zlé, neotvoril som   ho v triede. Išiel som — no, ta, kde som mohol byť celkom sám. V   balíku bola novučičká pionierska šatka a — krém na topánky. Pri tom   krátky lístok:
+    </tei:p>
+    <tei:p>
+     Pionierovi Ivanovi Garajovi
+    </tei:p>
+    <tei:p>
+     timurovci
+    </tei:p>
+    <tei:p>
+     „Ach, ja vášho Alaha!“ nasrdil som sa. „Teda ma chcete   vychovávať!“
+    </tei:p>
+    <tei:p>
+     Oddielová vedúca ma už niekoľkokrát napomenula, prečo nenosím   pioniersku šatku, aspoň vraj na schôdzky. Aj som sľúbil, tak   neurčito, ale akože si uviažem pioniersku šatku, keď som už väčší ako   hociktorý zväzák! — A to druhé? No, dajsamisvete! Dva či tri razy som   nemal vyleštené topánky. Či sa to hocikomu nepritrafí? Zima je taká   nijaká, ani sneh ani ľad, iba prach a blato, to si môžem čistiť   topánky aj trikrát za deň, a nebudú sa lisnúť. A už sa do mňa   zadrapili! Ja vášho Mohameda!
+    </tei:p>
+    <tei:p>
+     Zaťal som sa. Namiesto topánok som začal nosiť partizánky a   najbližšiu pioniersku schôdzku som vymeškal. Nie som ja taký ľahký   prípad, milí timurovci! A striehol som: zastarie sa dakto do toho?   Hlavne na tých našich „vzorných“ som dával pozor. No nikto sa   neprezradil ani slovom, ani pohľadom.
+    </tei:p>
+    <tei:p>
+     Ale nevdojak som predsa len začal väčšmi dbať o seba, aby ma reku   znova dáko nevysmiali. Nechty a uši som si už čistil každý deň a   nohavice som si skladal pekne puk na puk. Aj knihy a zošity som si   prebalil. Pritom som zistil, že literárny zošit mám vo veľkom   neporiadku, tak som sa rozhodol, že ho prepíšem, lebo sa už blížil aj   polrok a súdružka istotne bude zošity prezerať a známkovať. Z maminej   starej čítanky som povystrihoval portréty spisovateľov a nalepil do   zošita a k niektorým obsahom som nakreslil obrázky. Za štyri dni to   bolo hotové. Mama vravela, že zošit je teraz utešený, a mala veľkú   radosť. Ja tiež, lenže som to na sebe neukázal. Pekne písať, to je   nič, to dokáže každý šplhúň, ale pekne kresliť, to je dačo iné. Na to   treba mať vlohy. Ja mám. V kreslení som najlepší z triedy, a hneď po   mne Dana Hlaváčová.
+    </tei:p>
+    <tei:p>
+     Skúšanie bolo v plnom prúde, známky v žiackej knižke mi pribúdali.   Tohto roku som stál dobre, oveľa lepšie ako vlani. Lebo vlani sme   mali hudobnú výchovu (fis, cis, gis! ! !) a okrem toho som vlani   „obsiahol“ aj dvojku zo správania. Ale tú mi zavinil kamarát Šurdík,   s ktorým sedím v jednej lavici. Šurdík je strašný smejko. Ak si dakto   dačo spletie, on sa už chichúňa — a ja s ním, lebo smiech je   nákazlivý. A dodala nám hlavne jedna príhoda:
+    </tei:p>
+    <tei:p>
+     Odpovedal som z dejepisu a splietol som si Ladislava Jagelonského   s Ladislavom Pohrobkom. Súdružka mi vraví:
+    </tei:p>
+    <tei:p>
+     „Garaj, vy by ste sa mali volať Táraj, a nie Garaj! Také základné   veci ste poplietli.“
+    </tei:p>
+    <tei:p>
+     Stál som vážny — veď ma to mrzelo! — a tu cítim, že sa lavica   potriasa. Šurdík sa smial: päsť si vopchal do úst, prikrčil sa za   Motákov chrbát — a chichúňal sa, chichúňal.
+    </tei:p>
+    <tei:p>
+     Keby ma už posadila, myslím si, lebo sa ešte aj ja rozrehocem. Ale   súdružka mi ďalej vyčíta, že taký bystrý chlapec nemá právo zle   odpovedať a že by som si zaslúžil...
+    </tei:p>
+    <tei:p>
+     Silou-mocou zdŕžam smiech, vťahujem líca, že už mám namiesto nich   jamy, a tvár sa mi predĺžila aspoň o sedem centimetrov. Súdružka s   údivom pozerá na moju grimasu — a ja sa práve vtedy rozrehocem, hrubo   a huňato, už celkom chlapským hlasom.
+    </tei:p>
+    <tei:p>
+     Tak sme si so Šurdíkom vychichúňali dvojky zo správania. Ale to   bolo vlani v siedmej.
+    </tei:p>
+    <tei:p>
+     Na začiatku tohto školského roku sme si povedali:   „Kamarátku-bratku, dosť! Učitelia vôbec neberú do úvahy, že sme ešte   len v puberte, dokonca nám začali vykať ako dospelým, tak sa musíme   aj správať dospelejšie.“
+    </tei:p>
+    <tei:p>
+     Trošku sme sa i potrénovali:
+    </tei:p>
+    <tei:p>
+     „Garaj, vy by ste sa mali volať Táraj, a nie Garaj,“ zatiahol som   dejepisárkiným hlasom.
+    </tei:p>
+    <tei:p>
+     Hľadím na Šurdíka: je vážny, ani sval sa mu v tvári nepohne, len z   očí mu vykúka smiešok. Ale to sa neráta, oči sa dajú zakryť   viečkami.
+    </tei:p>
+    <tei:p>
+     Sedím v kuchyni, čakám na mamu a idem uschnúť od   netrpezlivosti.
+    </tei:p>
+    <tei:p>
+     Konečne!
+    </tei:p>
+    <tei:p>
+     „Čo nového v škole?“ spytuje sa ako vždy.
+    </tei:p>
+    <tei:p>
+     „Bozkaj ma,“ vravím. (V našej domácej reči to znamená: dostal som   jednotku.)
+    </tei:p>
+    <tei:p>
+     „Z čoho?“ zažiarila mama.
+    </tei:p>
+    <tei:p>
+     „Len bozkaj,“ vravím a trošku sa prihnem, lebo som už od nej o   hlavu vyšší. „Za literárny zošit. A teraz ma bozkaj ešte raz, za   odpoveď z literatúry.“
+    </tei:p>
+    <tei:p>
+     „Ach, ty moja hora vysoká,“ roznežnila sa mama a vybozkávala ma na   obe líca. (My sa ináč nebozkávame, iba za jednotky.)
+    </tei:p>
+    <tei:p>
+     Mala velikánsku radosť, lebo slovenčina je jej najmilší predmet   ešte zo školských čias.
+    </tei:p>
+    <tei:p>
+     Ale ja mám radšej aritmetiku a ešte radšej geometriu a najradšej   kreslenie. Vlohy na kreslenie som zdedil po otcovi. On výborne   maľoval. Jeden jeho obrázok mám nad gaučom. Ale otecka už nemám.   Umrel, keď som bol ešte celkom malý, ani sa naňho nepamätám. Ktovie,   ozaj, ako je to mať otca. Ale vlastného, nie dákeho nevlastného.
+    </tei:p>
+    <tei:p>
+     Lebo vlani chodieval k nám jeden ujo, volal sa Sviatko. Bol takto   celkom milý a mama sa mu vždy veľmi tešila. Vlastne i ja, lebo sa   dobre rozumel do bicykla a všeličo ma naučil. Ale nepáčilo sa mi, že   býval u nás niekedy veľmi dlho. Raz povedal (ale to iste len zo   žartu):
+    </tei:p>
+    <tei:p>
+     „Vezmite si ma za svojho!“
+    </tei:p>
+    <tei:p>
+     „A ja?“ vyhŕkol som preľaknutý.
+    </tei:p>
+    <tei:p>
+     Oni sa obaja rozosmiali a ja som išiel z vädnúť od hanby. Odvtedy   som uja Sviatka prestal mať rád.
+    </tei:p>
+    <tei:p>
+     Toho roku už k nám nechodí a mama býva možno i preto smutná a   niekedy aj nevrlá. No nič sa nedá robiť, nevlastného otca by som   nechcel. To už radšej len sami dvaja s mamou.
+    </tei:p>
+    <tei:p>
+     Ani v predpolročnom frmole som nezabudol na timurovcov. Skôr akoby   oni pozabudli na svoje tajné úlohy. Akiste im polrok riadne pripekal.   Ale ja im to neodpustím! Veď z koho si utiahli? Z celkom dobrého   žiaka! Možno, že to dotiahnem na vyznamenanie.
+    </tei:p>
+    <tei:p>
+     Krátko pred polrokom sa ohlásili.
+    </tei:p>
+    <tei:p>
+     Prídeme ráno do triedy — na tabuli visí ceduľa:
+    </tei:p>
+    <tei:p>
+     Ôsmaci,
+    </tei:p>
+    <tei:p>
+     Vaša nástenka už očernela od prachu.
+    </tei:p>
+    <tei:p>
+     Kedy ju vymeníte za novú?
+    </tei:p>
+    <tei:p>
+     Timurovci
+    </tei:p>
+    <tei:p>
+     Celá trieda zašumela: ozaj, nástenkári, čo je s vami?
+    </tei:p>
+    <tei:p>
+     A to som bol zasa ja a ešte Dana Hlaváčová. Vlastne ona   predovšetkým, lebo je hlavná redaktorka.
+    </tei:p>
+    <tei:p>
+     Predseda triedy Peter Krátky rozhorčene kýval hlavou, ba sa nám i   prstom zahrozil.
+    </tei:p>
+    <tei:p>
+     „Čo sa ten Peter rozčuľuje?“ jedoval som sa. „Pred polrokom sú aj   dôležitejšie veci ako nástenka!“
+    </tei:p>
+    <tei:p>
+     „Keď je raz šerifom, tak sa musí. Je to jeho povinnosť,“ riekol   Šurdík skúsene, ani keby on už dakedy bol býval šerifom.
+    </tei:p>
+    <tei:p>
+     „Mali by sme sa poobede zísť,“ povedala mi cez prestávku Dana.   „Lenže kde? V triede je vyučko a v klubovni má schôdzku štvrtý   oddiel.“
+    </tei:p>
+    <tei:p>
+     „No, hoci u nás,“ navrhol som po krátkom rozmýšľaní. „Mama má i   tak dlhý deň. A zavolám aj Šurdíka,“ doložil som rýchlo, lebo som sa   zľakol, že sa s Danou nebudem mať o čom zhovárať.
+    </tei:p>
+    <tei:p>
+     Dana je „vzorná žiačka“, jej fotografia visí už tretí rok na   chodbe. Ale zato by nemusela byť taká pyšná. S chlapcami takmer   neprehovorí (len keď celkom musí: nástenka a pod.), iba s Petráňom,   ktorý ju neprestajne obieha ako sputnik. Často chodia spolu aj do   školy alebo zo školy.
+    </tei:p>
+    <tei:p>
+     Čo len vidí na tom Petrániskovi? žralo ma. Veď ten nevie ani   kresliť!
+    </tei:p>
+    <tei:p>
+     „Mama, však som ja veľmi mrzký?“ spýtal som sa nedávno mamy.
+    </tei:p>
+    <tei:p>
+     Zvrtla sa a premerala si ma od hlavy po päty, akoby ma videla prvý   raz.
+    </tei:p>
+    <tei:p>
+     „Čože by si bol! Si ako najviac,“ povedala s presvedčením.
+    </tei:p>
+    <tei:p>
+     „A Petránisko je krajší?“
+    </tei:p>
+    <tei:p>
+     „Ktorý Petránisko?“
+    </tei:p>
+    <tei:p>
+     „Nuž Petráň z našej triedy,“ opravil som sa a trošku som   očervenel.
+    </tei:p>
+    <tei:p>
+     „Aha, ten počerný! Krajší? Ani by som nepovedala.“
+    </tei:p>
+    <tei:p>
+     „A prečo sa Dane lepšie páči?“
+    </tei:p>
+    <tei:p>
+     „To sa jej nečudujem. Je vždy taký upravený a aj učí sa lepšie ako   ty.“
+    </tei:p>
+    <tei:p>
+     „No, ja sa už tiež dobre učím. Uvidíš zajtra na rodičovskom   aktíve.“
+    </tei:p>
+    <tei:p>
+     „Veď je načase. Doteraz sa na teba vždy len ponosovali. Ty si dačo   vyparatil, a mne umývali hlavu. Neraz mi aj slzy vhŕkli do očí. Veru   keď som ja chodila do školy...“
+    </tei:p>
+    <tei:p>
+     Začína sa kázeň. Je strašne zlé, ak má žiak mamu, ktorá bola   výbornou žiačkou. Otec, ten bol normálny žiak, mával aj trojky, ale   už mi nežije. On by mi iste lepšie rozumel. Mama vždy len o takých   ženských pletkách, a chlapské veci ju vôbec nezaujímajú. Nevyzná sa   ani v zbraniach, nevie ani, čo je tretia kozmická rýchlosť, a keď jej   o tom začnem rozprávať, len hlavou prikyvuje a vôbec ma nepočúva.
+    </tei:p>
+    <tei:p>
+     „... a ani len nepočúvaš, keď ti dačo hovorím.“
+    </tei:p>
+    <tei:p>
+     „Keď mi ty, mama, nerozumieš.“
+    </tei:p>
+    <tei:p>
+     Dana a Šurdík prišli, ako sme sa dohovorili. Ponúkol som im   malinovku a keksy a potom sme sa pustili do nástenky. Mala sa volať:   KUK DO TRIEDY!
+    </tei:p>
+    <tei:p>
+     Dana nakreslila Irmu, ako si maľuje ústa, a ja som nakreslil   Motáka, ako sa nesie na pätorke. Takého tučka medveďacieho. A Šurdík   nám radil: ešte to a ešte toto.
+    </tei:p>
+    <tei:p>
+     „Ale nás pripreli tí timurovci,“ uškrnula sa Dana.
+    </tei:p>
+    <tei:p>
+     „Už sa len mancujú!“ znova ma pochytila zlosť. „A my skáčeme pred   nimi do pozoru. Ba ktorí to môžu byť?“
+    </tei:p>
+    <tei:p>
+     „Vypátrajme ich,“ navrhol zrazu Šurdík. „Založme si detektívnu   skupinu na ich odhalenie.“
+    </tei:p>
+    <tei:p>
+     „Založme!“ nadchla sa Dana, „lebo mňa tiež strašne zaujíma, pred   kým to skáčeme do pozoru.“
+    </tei:p>
+    <tei:p>
+     Ukrutne ma zamrzelo, že sa ten skvelý nápad o detektívnej skupine   nezrodil v mojej hlave, tak som len čušal.
+    </tei:p>
+    <tei:p>
+     „A Ivan nech je hlavný detektív,“ doložil ešte Šurdík. Možno   čakal, že poviem, aby hlavný bol on, keď je to jeho nápad, ale ja som   súhlasil:
+    </tei:p>
+    <tei:p>
+     „Dobre,“ hovorím. „Mám na to osobitnú príčinu.“
+    </tei:p>
+    <tei:p>
+     „Akú?“ zdvihla Dana hlavu.
+    </tei:p>
+    <tei:p>
+     „Nemôžem povedať. Ale sú to muchotrávky a treba ich odhaliť!“ A čo   ak je to Petráň? bodlo ma pri srdci, až som vyskočil zo stoličky.   „Nože mi, Danka, požičaj zelenú farbičku.“
+    </tei:p>
+    <tei:p>
+     „Nech sa páči,“ vystrela ruku ponad stôl a podala mi — hnedú.
+    </tei:p>
+    <tei:p>
+     Začudoval som sa:
+    </tei:p>
+    <tei:p>
+     „Chcel som zelenú,“ vravím. „Ale aj hnedú budem potrebovať,“   doložil som chytro, keď som zbadal, ako sa Dana zapálila. „Však   Petráň nosí hnedú vetrovku?“
+    </tei:p>
+    <tei:p>
+     „Kreslíš Petráňa?“ priskočil ku mne Šurdík. „Ha-ha-ha!“   rozchichotal sa. „Len mu tie slzy väčšie, také krokodílie!   Cha-cha-cha! Vraj: Prečo plačeš? — Dostal som dvojku, bé-é! — Ach, ja   z toho skryštalizujem!“ A Šurdík sa až tak skrúcal na stoličke.
+    </tei:p>
+    <tei:p>
+     „A kedyže Petráň plakal pre dvojku? Ja som nevidela,“ riekla   Dana.
+    </tei:p>
+    <tei:p>
+     „Ale ja som videl. Je to štréber, pravda, Šurdík?“ a pozrel som   prižmúreným okom na obrázok. Dobre som ho utrafil?
+    </tei:p>
+    <tei:p>
+     Napokon sme obrázky nalepili na veľký výkres a bola z toho celkom   pekná nástenka.
+    </tei:p>
+    <tei:p>
+     „Dobre kreslíš, Dana,“ musel som uznať. „Mala by si ísť na   umelecko-priemyslovú. I ja možno pôjdem.“
+    </tei:p>
+    <tei:p>
+     „No, neviem,“ zosmutnela akosi. „Hoci by som rada. Viete... (akoby   bola chcela ešte dačo povedať, ale sa zháčila)... ja už musím   ísť.“
+    </tei:p>
+    <tei:p>
+     „Tak my si so Šurdíkom premyslíme ešte plán pátrania a potom ťa   budeme inštruovať, dobre?“
+    </tei:p>
+    <tei:p>
+     Keď odišla, znovu sme si za jedli keksov a radili sme sa:
+    </tei:p>
+    <tei:p>
+     „Bude treba chodiť včaššie do školy, lebo timurovci roznášajú tie   svoje finty po triedach akiste zrána,“ hovorím.
+    </tei:p>
+    <tei:p>
+     „A možno večer, keď sa skončí vyučko,“ uvažoval Šurdík.
+    </tei:p>
+    <tei:p>
+     „Tak jeden z nás bude raňajší pátrač a druhý večerný.“
+    </tei:p>
+    <tei:p>
+     „A Dana?“
+    </tei:p>
+    <tei:p>
+     „Dana bude vyzvedať medzi dievčatami. Bol by v tom čert, aby sme   ich nevysliedili, muchotrávky! Strašne ma urazili!“
+    </tei:p>
+    <tei:p>
+     „Nevrav! Ako, kedy?“ Šurdík roztvoril nielen oči, ale aj ústa.
+    </tei:p>
+    <tei:p>
+     „Povedal by som ti, ale či sa nepodriekneš?“
+    </tei:p>
+    <tei:p>
+     „Nikdy, nikdy, nipikdypi!“ zariekol sa Šurdík a zvrtol ruku pri   ústach, ako keď sa zamyká zámka. Ešte aj šťuknutie bolo počuť.
+    </tei:p>
+    <tei:p>
+     „Vieš čo? Najprv uzavrime bratstvo — a potom ti poviem,“ nestačil   mi jeho sľub.
+    </tei:p>
+    <tei:p>
+     „Dobre! Urobme si o tom písomnú zmluvu! (Šurdík má také výborné   nápady. Hádam by predsa on mal byť hlavným detektívom.)
+    </tei:p>
+    <tei:p>
+     Zmluvu sme zložili takto:
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     ZMLUVA
+    </tei:head>
+    <tei:p>
+     o vzájomnej spolupráci a priateľstve medzi Ivanom Garajom a   Rudolfom Šurdíkom. Medzi nami nesmie byť nikdy vojna! Z tejto zmluvy   vyplýva, že sa môžeme nazývať bratmi.
+    </tei:p>
+    <tei:p>
+     Ivan Garaj,
+    </tei:p>
+    <tei:p>
+     nar. 20. 5. 1945,
+    </tei:p>
+    <tei:p>
+     Bratislava,
+    </tei:p>
+    <tei:p>
+     Dobrovského 10
+    </tei:p>
+    <tei:p>
+     Rudolf Šurdík,
+    </tei:p>
+    <tei:p>
+     nar. 14. 2. 1945,
+    </tei:p>
+    <tei:p>
+     Bratislava,
+    </tei:p>
+    <tei:p>
+     Dunajská 29
+    </tei:p>
+    <tei:p>
+     V Bratislave 26. jan. 1959
+    </tei:p>
+    <tei:p>
+     Zmluvu sme napísali dvojmo, Šurdík pre mňa a ja pre Šurdíka, a   schovali sme si ju ako vzácny dokument. A potom sme zbratanie   upevnili ešte aj krvne. Doniesol som z komory jablko, rozkrojil som   ho napoly a každý sme do svojej polovice pustili po kvapke krvi z   prsta. Potom sme si jablká vymenili a zjedli.
+    </tei:p>
+    <tei:p>
+     Mám v sebe kvapku Šurdíkovej krvi a on má kvapku mojej.
+    </tei:p>
+    <tei:p>
+     Sme bratia.
+    </tei:p>
+    <tei:p>
+     A je to tajnosť pred celým svetom.
+    </tei:p>
+    <tei:p>
+     Polrok mi prešiel slávne: bol som vyznamenaný.
+    </tei:p>
+    <tei:p>
+     Niektorých učiteľov to až prekvapilo. Fyzikár mi vraví po   polročných prázdninách:
+    </tei:p>
+    <tei:p>
+     „A nemali ste vy, Garaj, vlani dvojku zo správania?“
+    </tei:p>
+    <tei:p>
+     „Mal,“ hovorím a len tak rastiem od radosti.
+    </tei:p>
+    <tei:p>
+     „No vidíte! Veľmi sa teším, že ste sa tak potiahli. Z dnešnej   odpovede vám dávam jednotku.“
+    </tei:p>
+    <tei:p>
+     Všetci si ma začali všímať a vážiť. Verili mi. Už mi inšie   neostáva, len sa tak držať aj naďalej.
+    </tei:p>
+    <tei:p>
+     Horšie bolo, že ma súdružka triedna vymenovala za vedúceho úderky   namiesto chorej Agneše Herzovej. Teraz som už zodpovedný nielen za   seba, ale aj za siedmich členov úderky a budem musieť referovať o   nich na rodičovských aktívoch. Trošku sa obávam. Ledva-ledva som si   poradil sám so sebou, a tu hneď ďalší siedmi...
+    </tei:p>
+    <tei:p>
+     Naša detektívna skupina horlivo pátra a sliedi, ráno i večer. Dana   nás upozornila, že tie a tie dievčence sa schádzajú v pionierskej   klubovni. Zistili sme cez kľúčovú dierku, ktoré sú to.
+    </tei:p>
+    <tei:p>
+     Máme vás! mysleli sme si. Vyšívate dáky timurovský darček!
+    </tei:p>
+    <tei:p>
+     Lenže ten darček-dečku odovzdali verejne menom všetkých žiakov   súdružke triednej na MDŽ.
+    </tei:p>
+    <tei:p>
+     Taký som bol z toho sklamaný, že som mame zabudol na MDŽ   gratulovať. Večer mi to pripomenula a ja som jej chcel zaželať aspoň   dodatočne, ale mi povedala, že dodatočne sa neráta.
+    </tei:p>
+    <tei:p>
+     No prosím, a to všetko pre timurovcov!
+    </tei:p>
+    <tei:p>
+     Ich štichy sa zjavovali ďalej.
+    </tei:p>
+    <tei:p>
+     Vojdeme po prestávke do triedy, a na tabuli nápis:
+    </tei:p>
+    <tei:p>
+     Dievčence,
+    </tei:p>
+    <tei:p>
+     prineste si zajtra ihly a nite, niektorým
+    </tei:p>
+    <tei:p>
+     chlapcom treba prišiť ušká na kabátoch.
+    </tei:p>
+    <tei:p>
+     Timurovci
+    </tei:p>
+    <tei:p>
+     Akoby si to chlapci nevedeli prišiť aj sami. Ja si viem, aj uško,   aj gombík.
+    </tei:p>
+    <tei:p>
+     Pravdaže, dievčence nemali na druhý deň čo prišívať, všetko bolo v   poriadku.
+    </tei:p>
+    <tei:p>
+     V poslednom čase husto kolujú po triede pamätníky. Dievčence sa s   nimi úplne jašia. Aj dnes mám v taške dva, Sonin a Zuzin.
+    </tei:p>
+    <tei:p>
+     Šurdík ma volá prejsť sa poobede na bicykli, ale ja radšej budem   kresliť.
+    </tei:p>
+    <tei:p>
+     Soni som nakreslil černocha s gitarou a Zuze kovboja na koni a pod   tým nápis:
+    </tei:p>
+    <tei:p>
+     ŠEL KOVBOJ PUSTOU PRÉRIÍ
+    </tei:p>
+    <tei:p>
+     „Dievčence sa kovbojmi nenadchýnajú,“ vraví mi mama.
+    </tei:p>
+    <tei:p>
+     „Ale ja sa nadchýnam. Len pozri, nie je pekný?“
+    </tei:p>
+    <tei:p>
+     „Dosť pekný. Ibaže kôň má primalé nohy.“
+    </tei:p>
+    <tei:p>
+     „Myslíš? Aha, to je možné. Lenže nakresliť koňovi nohy, to je to   najťažšie. A teraz pozri, čo nakreslila Dana.“ Prevrátil som list   (lebo ak sa dá, vždy kreslím svoj obrázok za Daniným): „Krajinka.   Pekná, však?“
+    </tei:p>
+    <tei:p>
+     „Áno... ale aké zvláštne farebné videnie!“ začudovala sa mama.
+    </tei:p>
+    <tei:p>
+     „Však? (Zvláštne farebné videnie, to si musím zapamätať.) Pozri,   strom nakreslila opačnými farbami: kmeň zelenou a korunu hnedou.   Prečo asi?“
+    </tei:p>
+    <tei:p>
+     „To bude taká schválnosť.“
+    </tei:p>
+    <tei:p>
+     „A ak nie?“ Znovu mi zišlo na um, ako mi vtedy namiesto zelenej   farbičky podala hnedú. „Čo ak to nie je schválnosť?“
+    </tei:p>
+    <tei:p>
+     „Potom by to mohol byť... aj daltonizmus...“
+    </tei:p>
+    <tei:p>
+     „A to je čo?“
+    </tei:p>
+    <tei:p>
+     „Neschopnosť rozoznávať niektoré farby. Ale nie, istotne nie!   Danka predsa výborne kreslí a rodičia ju chcú dať na   umelecko-priemyslovú. Možno ta budete chodiť spolu.“
+    </tei:p>
+    <tei:p>
+     „A je daltonizmus hanba?“ neopúšťalo ma to zvláštne   podozrenie.
+    </tei:p>
+    <tei:p>
+     „Čoby! Len malá organická chyba. Pravda, pri niektorých   povolaniach...“
+    </tei:p>
+    <tei:p>
+     „... napríklad pri maliarstve!“ skočil som jej do reči. „A povedz,   mama, je na svete veľa daltonistov?“
+    </tei:p>
+    <tei:p>
+     „Kedysi som čítala, že dve percentá.“
+    </tei:p>
+    <tei:p>
+     „Z dvoch a pol miliardy je to... počkaj (počarbal som ceruzkou)   ojojój! — až päťdesiatmiliónov! Až päťdesiatmiliónov ľudí nevidí svet   v plných farbách! A to sa potom vraví, že majú „zvláštne farebné   videnie“?“
+    </tei:p>
+    <tei:p>
+     „Aleba!“ rozosmiala sa mama. „To sa vraví o maliaroch, nie o   daltonistoch.“
+    </tei:p>
+    <tei:p>
+     Bol som úplne vykoľajený.
+    </tei:p>
+    <tei:p>
+     Milá, milá Dánka! Nebude môcť byť maliarkou.
+    </tei:p>
+    <tei:p>
+     Ani šoférkou nebude môcť byť.
+    </tei:p>
+    <tei:p>
+     Ani rušňovodičkou.
+    </tei:p>
+    <tei:p>
+     A na križovatke ju môže zraziť auto, lebo nerozozná zelenú.
+    </tei:p>
+    <tei:p>
+     Na tom má istotne veľkú vinu jej mama. Keby jej bola od malička   vravela: „Danuška, toto je zelená a toto je hnedá. Zelená tráva,   hnedý plot, zelené svetlo, hnedá zem,“ bola by sa to určite naučila,   ako som sa to naučil od mamy ja.
+    </tei:p>
+    <tei:p>
+     Keby mi Dana dala svoj pamätník, nakreslil by som jej utešený   obrázok: žlto-červenú loď na modrej hladine a v popredí bielu čajku.   Ale ona nechce odo mňa pamiatku, to je jasné. Kde-komu si už dala   napísať, nakresliť, a mňa obchádza.
+    </tei:p>
+    <tei:p>
+     To všetko mi tak privalilo dušu, že som predsa len vytiahol   bicykel a šiel som sa previezť.
+    </tei:p>
+    <tei:p>
+     V bratislavských záhradách už kde-tu kvitli marhule a úbočia sa   rozzelenievali. Vzduch bol chladný a svieži, taký rezký. Ohromný!
+    </tei:p>
+    <tei:p>
+     Rozohnal som sa, až mi vietor nafukoval vetrovku. Tachometer   ukazoval, že idem tridsiatkou. A vedel by som aj rýchlejšie. Ujo   Janko, pretekár-cyklista, mi neraz hovoril, že mám na cyklistiku   predpoklady. Musím vydrankať od mamy na galusky, len či bude mať pre   to porozumenie? Ale veď sa teraz dobre učím a galusky aj   zlacneli.
+    </tei:p>
+    <tei:p>
+     Raz cez prestávku mi Dana odovzdala lístok. „Od Sone,“ povedala so   šibalským úsmevom. Soňa je jej najlepšia kamarátka.
+    </tei:p>
+    <tei:p>
+     V lístku bolo jedno jediné slovo:
+    </tei:p>
+    <tei:p>
+     Dúfam.
+    </tei:p>
+    <tei:p>
+     Bol som z toho jeleň, ale vzrušilo ma to. Soňa ma síce nikdy dáko   nezaujímala, hoci je celkom pekná, aj učí sa dobre. Ale je Danina   kamarátka, a to rozhodlo. Odpísal som teda:
+    </tei:p>
+    <tei:p>
+     Ja tiež.
+    </tei:p>
+    <tei:p>
+     A odovzdal som lístok Dane.
+    </tei:p>
+    <tei:p>
+     „Pre Soňu,“ hovorím.
+    </tei:p>
+    <tei:p>
+     Dúfal som, že Dana bude aspoň trošku žiarliť. Ale nebolo vidieť,   usmievala sa celkom dobroprajne a vôbec nie smutne.
+    </tei:p>
+    <tei:p>
+     Na druhý deň som dostal ďalší lístok:
+    </tei:p>
+    <tei:p>
+     Ty v čo dúfaš?
+    </tei:p>
+    <tei:p>
+     Ja v priateľstvo.
+    </tei:p>
+    <tei:p>
+     A v čo iné? myslel som si mrzuto. Hádam si si nemyslela, že sa   chcem s tebou bozkávať?
+    </tei:p>
+    <tei:p>
+     Paľo z nášho domu (a ten je o rok mladší!) sa už síce bozkáva s   dievčatami. Keď Judite spadne lopta do pivnice, Paľo jej hneď povie:   „Donesiem ti ju, ak ma bozkáš.“ A Judita sa škerí: „Dobre, čo už mám   robiť?“ (Vše si myslím, že si loptu náročky hádže do pivnice.) A Paľo   ju potom bozká, rovno na dvore, pred všetkými deťmi ! ! ! Ja by som   zvädol od hanby! Za svet by som nebozkal nijaké dievča, ani Danu nie.   Najviac ak mamu, aj to len za jednotku a keď nikto nevidí.
+    </tei:p>
+    <tei:p>
+     Soni som odpísal:
+    </tei:p>
+    <tei:p>
+     Ja tiež.
+    </tei:p>
+    <tei:p>
+     Ale už ma to celé prestávalo baviť, lebo Dana zrejme vôbec   nežiarlila a chodila si pekne-krásne s Petrániskom.
+    </tei:p>
+    <tei:p>
+     Onedlho prišiel ďalší lístok:
+    </tei:p>
+    <tei:p>
+     Ivan,
+    </tei:p>
+    <tei:p>
+     budeme si teda písať, dobre? A v nedeľu vystupuje náš tanečný   krúžok v Pionierskom dome. Nechcel by si prísť? Tento lístok nikomu   neukáž a hneď ho roztrhaj!
+    </tei:p>
+    <tei:p>
+     Soňa
+    </tei:p>
+    <tei:p>
+     Akurát! myslím si. Tvoja kamarátka o tom vie, tak môže vedieť aj   môj brat Šurdík.
+    </tei:p>
+    <tei:p>
+     „Dovoľ, aby som sa zasmial: ha-ha-ha!“ rozchichotal sa Šurdík. „V   nedeľu predsa pôjdeme na bicykloch! A veď ty máš rád Danu, či   nie?“
+    </tei:p>
+    <tei:p>
+     Pravdaže! So Soňou by som sa aj tak nemal o čom zhovárať. Ktovie,   o čom sa zhovára Dana s Petráňom...?
+    </tei:p>
+    <tei:p>
+     Soňa sa po nedeli tvárila urazene, ale ja som si z toho nič   nerobil, lebo sa vyskytla iná vec. Znovu sa totiž ozvali   timurovci.
+    </tei:p>
+    <tei:p>
+     Tentoraz visel na tabuli výkres s nápisom:
+    </tei:p>
+    <tei:p>
+     Ôsmaci,
+    </tei:p>
+    <tei:p>
+     potrebujeme zem na presadenie kvetov.
+    </tei:p>
+    <tei:p>
+     Kto chce pomôcť, nech sa tu podpíše.
+    </tei:p>
+    <tei:p>
+     (Brigáda zajtra o 15. hod.) Ďakujeme.
+    </tei:p>
+    <tei:p>
+     Timurovci
+    </tei:p>
+    <tei:p>
+     V pravom hornom rohu bol nakreslený črepník a pri ňom kôpka zeme.   A ten črepník i tá zem boli nakreslené zelenou farbou!
+    </tei:p>
+    <tei:p>
+     Nik z triedy sa nad tým nepozastavil. Existujú predsa i zelené   črepníky, každý stý alebo každý päťdesiaty. Ale v našej škole sú   všetky do jedného hnedé. Hnedé. No ak by sa to aj dalo odškriepiť,   tak zem... zem predsa nikdy nie je zelená! (A jednako sa nad tým nik   nepozastavil!)
+    </tei:p>
+    <tei:p>
+     Viacerí sa na výkres podpísali, aj Dana ! ! !
+    </tei:p>
+    <tei:p>
+     A ja som stál pri tabuli ani kandeláber. Teda si to ONA zo mňa   utiahla, za nos ma vodila, krém na topánky mi poslala! A možno spolu   s Petrániskom! Po tele mi stúpala horúčava, ako keď som vlani dostal   kalciovú injekciu.
+    </tei:p>
+    <tei:p>
+     Nasledovala ruština, ale ja som sa nijakovsky nevedel   sústrediť.
+    </tei:p>
+    <tei:p>
+     „Odhalil som timurovca, vlastne timurovku,“ napísal som na pijak a   potisol pred Šurdíka.
+    </tei:p>
+    <tei:p>
+     „Ba hroma! A kto je to?“ odpísal mi brat.
+    </tei:p>
+    <tei:p>
+     „Dana.“
+    </tei:p>
+    <tei:p>
+     „Nelakuj!“
+    </tei:p>
+    <tei:p>
+     „Prisámvačku!“
+    </tei:p>
+    <tei:p>
+     „Ako si na to prišiel?“
+    </tei:p>
+    <tei:p>
+     „Prišiel.“
+    </tei:p>
+    <tei:p>
+     „Ako?“
+    </tei:p>
+    <tei:p>
+     Vtom ani čo by v diaľke zaznelo moje meno. Pozriem po triede,   žiaci mi kývajú hlavami: ty, ty.
+    </tei:p>
+    <tei:p>
+     Vyskočil som: „Prosím?“
+    </tei:p>
+    <tei:p>
+     Kdesi vpredu sa ozval smiešok, ale hneď primrzol.
+    </tei:p>
+    <tei:p>
+     „U Garajov sa cez hodinu bavkajú, pravda?“ Súdružka ruštinárka   mala v ten deň veľmi nepohodlný hlas. „Vyznamenanie im udrelo do   hlavy, pravda? No, postojte si trošku, aby som na vás lepšie videla.   A vy, Peter, zapíšte vedúcemu druhej úderky päť zlých bodov.“
+    </tei:p>
+    <tei:p>
+     Šerif hodil na mňa vražedný pohľad a otvoril svoju „čiernu   knihu“.
+    </tei:p>
+    <tei:p>
+     Tak som zo štvrť hodiny podkľakoval to na jednej, to na druhej   nohe, lebo sa mi zdalo, že som nemožne, neznesiteľne vysoký. A pritom   ma žrala zlosť na Danu, že ma tak dobehla.
+    </tei:p>
+    <tei:p>
+     Po vyučovaní som šiel k nej (česala sa pred privretým obločným   krídlom) a vravím jej srdito a víťazne:
+    </tei:p>
+    <tei:p>
+     „Si to ty!“
+    </tei:p>
+    <tei:p>
+     „Čo som ja?“ povedala tlmene, lebo držala v zuboch zamatku na   previazanie vlasov.
+    </tei:p>
+    <tei:p>
+     „Timurovka!“ hodil som jej ani bombu.
+    </tei:p>
+    <tei:p>
+     Naozaj ju to omráčilo. Spustila ruky a zrazu celá očervenela. Ešte   aj uši jej očerveneli a vlasy sa jej rozsypali po pleciach. Taká bola   neobyčajná, že som trochu aj na hnev pozabudol.
+    </tei:p>
+    <tei:p>
+     „A-ako, ako si na to prišiel?“ vyjachtala napokon. Ale hneď sa   spamätala a chcela zachrániť, čo sa ešte dalo. „Taký nezmysel!“
+    </tei:p>
+    <tei:p>
+     „Nekľučkuj, viem to na betón.“ A v mojom hlase bola taká nezlomná   istota, že Dana znovu stratila reč. „A čože máš tak strašne tajiť,   veď to nie je nič zlé, naopak.“
+    </tei:p>
+    <tei:p>
+     Dívala sa mi uprene do tváre, a to ma trošku znervózňovalo, lebo   som mal na čele jedovatý pupenec (škoda, že som si ho ráno neprelepil   náplasťou) — a pohľad mala modrý-modrý a zamatku si na prst to   nakrúcala, to zasa odkrúcala. Červeň z tváre jej pomaly   ustupovala.
+    </tei:p>
+    <tei:p>
+     „Ako si to vypátral?“ spýtala sa po chvíli znovu, už takmer   pokojne.
+    </tei:p>
+    <tei:p>
+     „Vidíš, to ti zas ja nepoviem. Nikdy, nikdy, nipikdypi!“ vyšmyklo   sa mi nevdojak bratovo úslovie. „To je zas moja tajnosť.“
+    </tei:p>
+    <tei:p>
+     „A čo chceš spraviť? Prezradíš ma?“ šepla znepokojene.
+    </tei:p>
+    <tei:p>
+     „Čo?“ Ozaj, čo teraz spraviť? Musím sa poradiť so Šurdíkom. „Ešte   neviem. Ešte si to rozmyslím.“
+    </tei:p>
+    <tei:p>
+     „Čo si tam toľko hrkútate?“ nakukla do triedy Soňa, už preobutá a   oblečená. „Mám ťa čakať, Dana?“
+    </tei:p>
+    <tei:p>
+     „Áno, počkaj, prosím ťa,“ uväzovala si Dana vlasy. Má ich plavé,   husté a už na pohľad mäkké.
+    </tei:p>
+    <tei:p>
+     So Šurdíkom sme sa dohodli takto: Nič neprezradíme, ak nás   timurovci vezmú medzi seba.
+    </tei:p>
+    <tei:p>
+     Dana povedala, že o tom rozhodne štáb.
+    </tei:p>
+    <tei:p>
+     Človeče, tajný timurovský štáb! Ale to akiste budú samé dievčatá,   prinajlepšom veľká väčšina, lebo všetky ich akcie boli také babské:   záložky, ušká, kvetiny (krém na topánky!) — no, okrem tej mapy. My   tomu dáme chlapskejší ráz: vyhlásime napríklad cyklistické preteky   alebo medzitriedny zápas v gréckorímskom a judo (bojisko: trieda,   čas: veľká prestávka, cena: zlatá timurovská medaila... podpis:   timurovci.) Len či nás prijmú? Ale prečo by neprijali? Aj sa učíme   dobre, aj inak sme tiptop.“
+    </tei:p>
+    <tei:p>
+     Na druhý deň sme mali pochodové cvičenie — smer Pajštún.
+    </tei:p>
+    <tei:p>
+     Šli sme lesnou cestou od Koliby. Bledozelená hora, bledobelasé   nebo, všetko v takých nežných farbách. Ktovie, ozaj, ako vidí horu   Dana. Úplne nefarebne, či má „zvláštne farebné videnie“?
+    </tei:p>
+    <tei:p>
+     Obzrel som sa za ňou. Žiaci už nešli v trojstupe, ale vo   väčších-menších skupinách. Vedľa Dany kráčal Petráň a niesol jej   chlebník.
+    </tei:p>
+    <tei:p>
+     „Sputnik sa už zasa krúti okolo planéty,“ drgol som do   Šurdíka.
+    </tei:p>
+    <tei:p>
+     „Dánsky sputnik!“ rozchichotal sa brat a s ním aj viacerí   naokolo.
+    </tei:p>
+    <tei:p>
+     „Prečo dánsky?“ nezdalo sa mi to vtipné.
+    </tei:p>
+    <tei:p>
+     „No tak Danin! Ale „dánsky“ je lepšie, nie, chlapci?“
+    </tei:p>
+    <tei:p>
+     „Pra-pravdaže,“ pridal sa Tučko. „Da-dánsky sputnik, to je ako   ni-ni-nič, lebo taký ne-ne-ne-jestvuje.“
+    </tei:p>
+    <tei:p>
+     „Tučkovmu objavu trikrát hurá!“ vykríkol Šurdík.
+    </tei:p>
+    <tei:p>
+     Moták-Tučko šiel po mojej ľavej strane, a hoci sa cesta niekde   zužovala, že sme sa traja na ňu nevmestili, on mi neochvejne kráčal   po boku i cez kríčie a kalužiny. Odkedy som vedúcim úderky, správa sa   ku mne ako moja osobná stráž. Ale aj ostatní z úderky: brat Šurdík   prirodzene, potom i Čudrna, Hammel (čiže „Hamlet“) a Jano Sebedínsky.   Ba ešte aj Herzová a Mačudová, naša „ženská zložka“. I teraz sme   kráčali pokope.
+    </tei:p>
+    <tei:p>
+     „A čo sa budeme vliecť ako slimáky! Vykročme rezkejšie, raz-dva,   raz-dva!“ zavelil som nevdojak, hoci cesta práve začala stúpať.
+    </tei:p>
+    <tei:p>
+     „Správne,“ potešil sa Čudrna, „lebo...“ a zrazu zanôtil: „   RU geroj-geroj Čapajev byl vsio vremia   vperedí-i.../lang“
+    </tei:p>
+    <tei:p>
+     Kým sme dospievali Čapajeva, vzdialili sme sa od ostatných žiakov,   že ich už nebolo vidieť.
+    </tei:p>
+    <tei:p>
+     „Zato nič, veď vieme, kam treba ísť,“ povedal som, „v cieli ich   počkáme.“
+    </tei:p>
+    <tei:p>
+     „Bu-budeme v cieli prví!“ (Tučko.)
+    </tei:p>
+    <tei:p>
+     „Prví strelíme do cieľa!“ (Hamlet.)
+    </tei:p>
+    <tei:p>
+     „Raz-dva-tri-štyri, goool!“ (Šurdík.)
+    </tei:p>
+    <tei:p>
+     „Raz-dva-tri-štyri, GOOOOOL ! ! !“ (Všetci.)
+    </tei:p>
+    <tei:p>
+     „Banda, čuduj sa!“ (Šurdík.)
+    </tei:p>
+    <tei:p>
+     „Ííííí-ha ! ! !“ (Všetci.)
+    </tei:p>
+    <tei:p>
+     „Íííííí-ha!“ znovu zvýskol Šurdík, a to takým vysokým hlasom, že   sme všetci nevdojak stíchli. „Íííí-ha, začudovala sa električka a   poškrabala sa na zadnej plošine.“
+    </tei:p>
+    <tei:p>
+     Smiech.
+    </tei:p>
+    <tei:p>
+     „Ha-ha-ha, zasmial sa Jack a odcválal na zápalkovej škatuľke.“
+    </tei:p>
+    <tei:p>
+     SMIECH!
+    </tei:p>
+    <tei:p>
+     „He-he-he, zachechtali sa zbrojnoši a zmizli v otvore miešačky na   betón.“
+    </tei:p>
+    <tei:p>
+     Hurónsky rev! (Šurdík je strašná potvora.)
+    </tei:p>
+    <tei:p>
+     Hora až tak vrela od nášho kriku-smiechu. Dobre že sme z kože   nepovyskakovali.
+    </tei:p>
+    <tei:p>
+     Do cieľa sme došli hádam aj o hodinu skôr ako ostatní. Keď sme ich   konečne zazreli približovať sa, znova sme sa rozkričali a rozvýskali.   Tučko mával nad hlavou hrabovým konárom a Sebedínsky spravil od   radosti kotrmelec.
+    </tei:p>
+    <tei:p>
+     Ale tí kráčali vážne a ticho. Vari sú unavení?
+    </tei:p>
+    <tei:p>
+     „Zle je,“ pošepla mi Soňa, ktorá došla medzi prvými. „Nepočuli ste   nás volať?“
+    </tei:p>
+    <tei:p>
+     „Kdeže,“ pohodil som rukou. „Nepočuli sme ani samých seba.“
+    </tei:p>
+    <tei:p>
+     A odrazu sa mi zdalo, že hora posmutnela. Ale to len neveľký sivý   oblak zastrel slnko, aj to nie celkom; spoza okrajov presvitala zlatá   žiara.
+    </tei:p>
+    <tei:p>
+     „Za toto sa budete zodpovedať, najmä vy, Garaj,“ povedala súdružka   triedna. „Taká svojvôľa!“
+    </tei:p>
+    <tei:p>
+     To „vy, Garaj“ ma veľmi zamrzelo. Súdružka triedna mi vždy   hovorievala „Ivan“, veď sa oddávna priatelí s mojou mamou a v jej   predmetoch (aritmetika, geometria) som výborný.
+    </tei:p>
+    <tei:p>
+     Ech, ako som to len všetko zbabral!
+    </tei:p>
+    <tei:p>
+     Sadli sme si s bratom pod krík a bez slova sme stavali z prútikov   studňu, takú zrubenú, ako má stará mama v Ozorovciach.
+    </tei:p>
+    <tei:p>
+     Vtom prišla Dana. Ani som sa nepotešil. Už som nečakal nič   dobré.
+    </tei:p>
+    <tei:p>
+     Čupla si k nám a položila na studňu dva prútiky.
+    </tei:p>
+    <tei:p>
+     „Idem vám oznámiť rozhodnutie štábu,“ povedala ticho. „Neprijmú   vás. Ty, Ivan, sa hanbíš za pioniersku šatku a okrem toho ste obaja   veľmi nedisciplinovaní. Aj dnes čo ste vyparatili...“
+    </tei:p>
+    <tei:p>
+     „A my teda všetkým vyzradíme, že si timurovka!“ vyhŕkol Šurdík   zlostne. Povedal presne to, na čom sme sa dohodli, ale vypálilo to   nevhodne.
+    </tei:p>
+    <tei:p>
+     „Nuž nech!“ povedala Dana akýmsi neobyčajne hlbokým hlasom. „Budem   pracovať zjavne. A ostatných timurovcov aj tak nepoznáte, iba mňa ste   odhalili. Ako vlastne? Akú nešikovnosť som spravila?“
+    </tei:p>
+    <tei:p>
+     Pozrela najprv na mňa, potom na Šurdíka a potom zasa na mňa a v   kútikoch úst sa jej chvela ľútosť, taká drobná a trhavá, akoby sa jej   ústa už-už mali skriviť do plaču. (Ktovie, či ju tajný štáb   nepokarhal za tú „nešikovnosť“!)
+    </tei:p>
+    <tei:p>
+     Hľadel som na ňu a všetko tvrdé sa zo mňa vytrácalo, ostala iba   nežnosť, taká čudná, teplá a mäkká. Nie, nemôžem jej povedať, ako som   na to prišiel (lebo čo ak je daltonizmus predsa len hanba?) Nepoviem.   Nepoviem to nikdy nikomu. Ani Šurdíkovi. (Myslím, že aj pred bratom   možno mať tajnosť, aspoň jednu-jedinú.)
+    </tei:p>
+    <tei:p>
+     „Nijakú nešikovnosť si nespravila,“ vravím. „Ja som len tak   naslepo hádal, no a náhodou som trafil, to je všetko. A o tom   vyzradení... teda nie, ne vyzradíme ťa. Vieme to len my dvaja so   Šurdíkom... a budeme mlčať, aj keď... ste nás neprijali. Dávame ti na   to slovo a ruku, pravda, bratku?“
+    </tei:p>
+    <tei:p>
+     Vstali sme. Potriasol som Dane ruku (prvý raz v živote) a mal som   pritom dojem, akoby som sa s ňou lúčil.
+    </tei:p>
+    <tei:p>
+     „Si lepší chlapec, ako som si myslela, Ivan. Ďakujem ti. Ďakujem   vám obom.“
+    </tei:p>
+    <tei:p>
+     Pohladila nás svojím modrým-modrým pohľadom a odišla si sadnúť k   Petráňovi, ktorý práve otváral akúsi konzervu.
+    </tei:p>
+    <tei:p>
+     Pred rodičovským aktívom sa súdružka triedna zhovárala s mamou v   kúte chodby. Mama sa chmúrila a klonila hlavu (ona sa ma pred   učiteľmi nikdy nezastane!). Potom ma zavolali a nakázali mi, aby som   pri hlásení porozprával rodičovskému aktívu aj o tom, ako som sa v   poslednom čase správal.
+    </tei:p>
+    <tei:p>
+     Chcel som vykríknuť: Nie, radšej ma zabite!, ale hrdlo som mal   stiahnuté, a kým som sa spamätal, súdružka už volala:
+    </tei:p>
+    <tei:p>
+     „Nastúpiť, žiaci, začíname!“
+    </tei:p>
+    <tei:p>
+     Vystúpili sme na stupeň siedmi: šerif a šiesti vedúci úderiek.   Prevyšoval som všetkých o pol druha hlavy.
+    </tei:p>
+    <tei:p>
+     Hlásil som rodičom, že sa naša druhá úderka drží, za posledný   mesiac získala 120 dobrých a 55 zlých bodov, pritiahnuť by mal hlavne   Moták a Mačudová.
+    </tei:p>
+    <tei:p>
+     „A teraz...“ začal som namáhavo, „musím ešte porozprávať o sebe...   V poslednom čase som nepozorný a nedisciplinovaný... na pochodovom   cvičení sa naša úderka vzdialila od hlavnej skupiny, a to som zavinil   ja... myslím, že by bolo treba vymenovať na moje miesto... niekoho   iného...“
+    </tei:p>
+    <tei:p>
+     Hlásenie ostatných som vôbec nevnímal, len som podkľakoval to   jednou, to druhou nohou, aby som bol aspoň trochu nižší. Cítil som,   ako všetci rodičia hľadia na mňa, len na mňa, a že jeden z tých   pohľadov je uslzený. Ani mne nechýbalo veľa do sĺz, ale díval som sa   uprene do zeme a opakoval som si v duchu: Chlapi neplačú. Ani môj   tatko nikdy neplakal.
+    </tei:p>
+    <tei:p>
+     Konečne potlesk, koniec hlásenia. Vychádzali sme v zástupe, predo   mnou kráčalo dievča s dlhými plavými vlasmi, previazanými čiernou   zamatkou.
+    </tei:p>
+    <tei:p>
+     Na chodbe ma chytila za ruku mama. Najradšej by som si bol   pritisol hlavu na jej prsia, aby som nevidel nič okolo seba, ale boli   tam žiaci. Tak mi mama len pošepkala do ucha: „Ty moje potešenie“ a   potom mi dala 10 korún, aby som sa šiel navečerať do Srdiečka; lebo   rodičovský aktív ešte pokračoval, hlásenie vedúcich bolo iba prvým   bodom.
+    </tei:p>
+    <tei:p>
+     Ťažký je život, kamaráti!
+    </tei:p>
+    <tei:p>
+     Ešte dobre, že po ôsmej triede nasleduje deviata a tam sa už   namiesto pionierskej šatky nosí zväzácka košeľa.
+    </tei:p>
+    <tei:p>
+     Ale musí sa na to ešte vážnejšie, brat môj!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Nebový sveter
+    </tei:head>
+    <tei:p>
+     Už dvakrát sa jej to podarilo: raz so šatkou a raz s topánkami.   Ospevovala ich doma, aké sú utešené a ako by sa jej zišli, a potom   šla do obchodu a poprosila, či by jej ich nedali ukázať domov   mamičke, oteckovi... Ale pravdaže, nech sa páči! Vedúci všetkých   štyroch obchodov v dedine veľmi dobre poznajú Vierku Vagačovú i jej   otca traktoristu, i mamu, družstevnú dojičku. Nech sa páči! — A o   hodinu niesla Vierka do obchodu nie už topánky, ani tú krásnu bielu   šatku, ale peniaze. Vie ona, ako na to, veru hej!
+    </tei:p>
+    <tei:p>
+     I teraz nesie čosi domov „ukázať mamičke, oteckovi“. Sveter   nebovej farby, po akom už dávno túži. Lenže je drahý, sto osemdesiat   korún. Ktovie, či sa jej to dnes podarí. Lebo mama si väčšmi hľadí   Evy, tú cifruje ani princeznú... Eva je Vierkina staršia sestra,   chodí do školy v Lučenci, ale každú sobotu zavíta domov. Čo tej   všetko treba! Aj na internát, aj na knihy, aj na parádu: nové šaty na   stužkový večierok, nové na matúru, taký sveter, onaký sveter,   jajajaj! Vierka by vyzerala popri nej ako pastorkyňa, keby sa v tom   trošku nevyznala. Akoby trinásťročná nemala nijaké práva. Akoby bolo   spravodlivé robiť taký rozdiel medzi sestrami. Veď je už skoro toľká   ako Eva, no teda!
+    </tei:p>
+    <tei:p>
+     „Tak pozrite, nie je zlatý?“ vpadla Vierka do teplej kuchyne a už   rozkrúca papier. „Veď len na pozretie, kúpiť nemusíte,“ dokladá   chytro, keď zazrie v maminom oku odmietavý záblesk. A už sa zvŕta v   nebovom svetri, ani čo by zahalená do kúska letnej oblohy. Zapína a   rozopína ho a ukradomky pozoruje, aký dojem vyvolala.
+    </tei:p>
+    <tei:p>
+     „Ani nie,“ vraví mama neoblomne, hoci jej zrak s úľubou spočinie   na peknej dcére. „Kdeže takú drahotu, to iba ak by sme kradli! Či ty   vieš, koľko sa ja musím narobiť za tie peniaze?“ A usilovne šťuká   nožnicami; rovnomerný pásik hnedej pančuchy sa jej ukladá v slučkách   na zásteru. Strihá handry do pokrovcov.
+    </tei:p>
+    <tei:p>
+     Ale Eve by ste... tisne sa Vierke na jazyk, no zdrží sa. Neverí   ona maminým lamentáciám. Mama nikdy nemá, nikdy nemá, ale keď na to   príde, vždy ešte má, veď ju hádam pozná. A Vierka nachmúri čierne   obrvy a ľútostivo oduje pery.
+    </tei:p>
+    <tei:p>
+     „Že tá vedúca nemá rozum! Načo jej to dáva?“ hundre mama, akoby   čítala dcérine myšlienky.
+    </tei:p>
+    <tei:p>
+     „Ba práve že má!“ zasmeje sa otec a zapne rádio; budú   odpoludňajšie správy. „Vždy ho mala na mieste, pamätám sa, veď som s   ňou chodil do školy. Šikovná baba.“
+    </tei:p>
+    <tei:p>
+     „Skočím sa ešte ukázať starkej,“ nevzdáva sa Vierka a nová nádej   jej rozsvecuje oči.
+    </tei:p>
+    <tei:p>
+     „Tak doveď aj Paľka, je tam od samého obeda,“ volá za ňou mama,   prekrikujúc hlas rádia.
+    </tei:p>
+    <tei:p>
+     Starká má izbu prerobenú z dakedajšej komory, s veľkým oblokom na   záhumnie.
+    </tei:p>
+    <tei:p>
+     Na dlážke, pokrytej štvorčekovým linoleom, rapčí pásový traktor.   Traktorista Paľko obskakuje okolo neho, skláňa hlavu až k samej zemi,   je strašne zaneprázdnený.
+    </tei:p>
+    <tei:p>
+     „Pozli, plejde aj cez plekážku!“ presviedča svoju mladšiu   kamarátku, susedovie Aničku. Rozloží lepenkovú knižku a dve dosky   postaví ako strechu.
+    </tei:p>
+    <tei:p>
+     „Pozli, pozli!“ výska Paľko a už mu nestačí Aničkin obdiv,   potrháva za sukňu aj starkú, aj susedu, ktoré sedia za stolom a   párajú perie.
+    </tei:p>
+    <tei:p>
+     Traktor sa pomaly, ale bezpečne škriabe po strmej stene, už sa   prevažuje cez hrebeň strechy...
+    </tei:p>
+    <tei:p>
+     „Plešiel, plešiel!“
+    </tei:p>
+    <tei:p>
+     Taký výkon vie traktorista oceniť, ale o Vierkin sveter nemá   záujem. Ani Anička. Ledva hodili okom po tej nebovej belasosti, nad   ktorou ako vráňa poletujú Vierkine čierne vlasy, a už sú zasa vo   svojom svete. Anička ťapká rúčkou, zalepenou od cukríka, po   obrázkovej knižke a Paľko jej číta prsty.
+    </tei:p>
+    <tei:p>
+     „Jeden, dva, tli,“ ukazuje tučným ukazovákom. „Máš tli ako aj ja.“   Potom pozrie skúmavo na veľkú sestru, či ho nepochváli, veď ho to ona   učila rátať prsty, ale Vierka ho nepočúva.
+    </tei:p>
+    <tei:p>
+     „... nuž ak ti ho kúpia,“ vraví starká, „dám naň päťdesiat   korún.“
+    </tei:p>
+    <tei:p>
+     Starká je už taká. Nevie odoprieť Vierke radosť, alebo hádam sebe   nevie odoprieť to vystískanie a tie bozky. Svojim deťom musela kedysi   odopierať aj celkom drobné radosti, ale vnúčatám... Veď si zarobí   čo-to, v lete okolo družstevného ľanu a v zime páraním peria. A má aj   starobnú, čo i neveľkú. Či starej žene veľa treba?
+    </tei:p>
+    <tei:p>
+     O hodinu zaniesla Vierka do obchodu sto osemdesiat korún a   skackajúc vracala sa podvečernou dedinou. Mrzlo a lepkavá sivá hmla   sa tisla pomedzi domy. Obrysy sveta akoby sa rozplývali, bola tu len   široká lisná asfaltka a nákladné auto, ktoré sa s blikajúcimi očami   rútilo dolu dedinou, a potom už len Vierka so svojou radosťou z   pekného svetra. V nedeľu pôjde v ňom do kultúrneho domu, príde   dedinské divadlo. Hop-hop, tram-pam-pam!
+    </tei:p>
+    <tei:p>
+     Aha, po druhej strane cesty kráča Janko Zub. Kdeže bol? pomyslela   si Vierka. Ako dobre by bolo stratiť s ním zopár slov, keď sa jej deň   tak vydaril. (Hlúpy zvyk, že sa spolužiaci na ulici nepozdravia, len   prejdú popri sebe, akoby sa nepoznali.) Lebo Janko Zub, pravým menom   Ján Kozub, je koťuha vybíjaná, samý špás a fígeľ. Chi-chi-chi!   Hop-hop!
+    </tei:p>
+    <tei:p>
+     Po ceste tiahne voz naložený ďatelinou. Dobrý večer! Ľubin   Vrabcovkin brat vezie krm pre jalovinu. Čo keby zabehla na chvíľu k   Ľube? Chodia spolu do školy, ba sedia aj v jednej lavici a ich mamy   doja kravy v jednom kravíne. Vierkina mama dojila minulý týždeň aj za   tetku Vrabcovú, keď si porezala ruku. Ako je to dobre, aj mamy sa   kamarátia, aj dcéry.
+    </tei:p>
+    <tei:p>
+     Vierka zabočila do Vrabcov. Dvere na gánku boli dokorán, svetlo z   kuchynského obloka a zo susedných pootvorených dverí sa rozplývalo v   mliečnom povetrí ako mdlý svetielkujúci chumáč. Nazrela oblokom. Aha,   Ľuba sedí nad úlohou, obhrýza koniec rúčky a oči vyvracia do povaly.   Fí, Vierku to ešte len čaká! No predsa vari vojde dnu, aspoň na   chvíľu...
+    </tei:p>
+    <tei:p>
+     Už dvíhala ruku, že zaklope, keď vtom začula hlas zo susedných   odchýlených dverí.
+    </tei:p>
+    <tei:p>
+     „... kým ma zastupovala, nadojila každý deň o sedem aj osem litrov   viac ako ja. Živočíšny ju pred všetkými pochválil. Pľuha je to, aby   si vedel!“ To hovorila Ľubina mama.
+    </tei:p>
+    <tei:p>
+     „Nuž veď sa jej prizrite na prsty!“ povedal Ľubin otec.
+    </tei:p>
+    <tei:p>
+     Zakvíkalo prasa a bolo počuť: „Čo sa strkáte, nemáte dosť obidve?   Žerú, akoby pálil, hádam tú zabíjačku odložme o dáke dva týždne.“
+    </tei:p>
+    <tei:p>
+     Zaškrípal rígeľ, zazneli kroky.
+    </tei:p>
+    <tei:p>
+     Vierka bleskovo cúvla za gánkové dvere a pritiahla ich za   sebou.
+    </tei:p>
+    <tei:p>
+     „Veď sa aj prizrieme, až prizrieme!“ Slová zneli sipľavo, akoby   ich Ľubina mama nasilu pretískala pomedzi zuby. Zarinčala ročka,   položená na betónový gánok, a ešte jedna, ktorú vpustili do nej.
+    </tei:p>
+    <tei:p>
+     Vierka ešte počkala, kým vojdú do kuchyne, a potom ako bez života   kráčala dolu schodíkmi.
+    </tei:p>
+    <tei:p>
+     To hovorili o jej mame!
+    </tei:p>
+    <tei:p>
+     Mliečna hmla zrazu oťažela a zhustla na zadusenie. Dievča kráčalo   z nohy na nohu, skoro len po rozume zabočilo z hlavnej cesty do úzkej   uličky, nazývanej Za šmykňou. Matné steny domov hľadeli čiernymi   oblokmi predných izieb, susedovie Lajka zaďavkala, ale bez nadšenia,   len tak z povinnosti, dva či tri razy.
+    </tei:p>
+    <tei:p>
+     Amplión pred Plátenníkovie domom sa rozzvučal zunovanou   melódiou... Už ju vie aj elektrické vedenie aj drôtený plot pred   domom a zunia ju spoločne s ampliónom, ech!
+    </tei:p>
+    <tei:p>
+     „Oznamujeme družstevníkom, že zajtra o 19. hodine bude v kultúrnom   dome plenárna schôdzka.“
+    </tei:p>
+    <tei:p>
+     To je nič, to sa týka len otca, pomyslela si Vierka a zrazu sa jej   vynorilo v pamäti iné hlásenie miestneho rozhlasu — asi spred štyroch   dní:
+    </tei:p>
+    <tei:p>
+     „Občianka Katarína Speváková odcudzila dnes v obchode samoobsluhy   čokoládu za 11 korún 50 halierov. Dúfame, že sa také niečo už nikdy   viac nestane.“
+    </tei:p>
+    <tei:p>
+     Ech, hlúposť! mykla Vierka hlavou a vybehla hore schodíkmi. Jej   mama je statočná, darmo si tetka Vrabcovka otiera o ňu ústa. Taká   Vrabčica klebetná!
+    </tei:p>
+    <tei:p>
+     „Kde je mama?“ otvorila Vierka kuchynské dvere. Starká stála pri   sporáku a Paľko sedel na debničke s drevom, kolená až pri samej   brade, a ďubal si prstom do pančuchy.
+    </tei:p>
+    <tei:p>
+     „Pozli, ako mi lastie diela!“ ukazoval Vierke čerstvú trhlinu, od   ktorej utekali očká.
+    </tei:p>
+    <tei:p>
+     „Nenaťahuj si to,“ zhodila mu Vierka nohy z debničky. „Nestačíme   ťa obšívať. A kde je mama?“ zopakovala naliehavo.
+    </tei:p>
+    <tei:p>
+     „Kdeže by bola o takomto čase?“ riekla s údivom starká. „Išla   dojiť aj s otcom. A čo si taká premenená? Za sveter si   zaplatila?“
+    </tei:p>
+    <tei:p>
+     „Pravdaže,“ usmiala sa Vierka, lebo jej radosť z krásneho svetra   znova vstúpila do vedomia. No len na chvíľu. Potom sa jej tvár zasa   zatiahla nepokojom.
+    </tei:p>
+    <tei:p>
+     „Nože jej choď odfúknuť z čela ten oblak, Paľko môj,“ povedala   starká podľa svojho zvyku.
+    </tei:p>
+    <tei:p>
+     „Fú-fú-fúúú!“ rozbehol sa Paľko a fúkal, fúkal, kým sa Vierka   predsa len akomak neusmiala.
+    </tei:p>
+    <tei:p>
+     „Už som, stalká, už som! Ta-a-aký veľký oblak som odfúkol!“   rozhodil rukami, ako naširoko vládal.
+    </tei:p>
+    <tei:p>
+     Vierka vytiahla z tašky zošit a sadla si za stôl.
+    </tei:p>
+    <tei:p>
+     „Hijó, hijó!“ ťahá Paľko vozík prostriedkom domášneho pokrovca.   Starká sa k nemu nakláňa:
+    </tei:p>
+    <tei:p>
+     „Tichšie, Palíčok, Vierka si robí úlohu.“
+    </tei:p>
+    <tei:p>
+     Ale Vierka nespravila ešte ani čiarku, meravým pohľadom sa díva do   zošita a namiesto príkladu vidí tetku Vrabcovku, ako sa prizerá mame   na prsty a zvoláva všetky dojičky: Pozrite túto pľuhu, aké ich má   špinavé!
+    </tei:p>
+    <tei:p>
+     „Idem za mamou!“ vyskočí Vierka spoza stola a oblieka si   kabát.
+    </tei:p>
+    <tei:p>
+     „Nože netáraj, dievča! Či nevidíš, aká je tma? Strepeš sa dakde,   nohu zlomíš! Baterku vzal otec.“
+    </tei:p>
+    <tei:p>
+     No Vierka už otvára dvere. „Zhasnite za mnou,“ vraví náhlivo.
+    </tei:p>
+    <tei:p>
+     Žiarovka pod odkvapom chabo osvetľuje kus dvora, a to je ešte   horšie, lebo za hranicou svetla akoby tma úplne zhustla. Pri studni   zaštrkoce reťazou Taro, aj prívetivo zaskučí, ale Vierka sa mu ani   slovkom neprihovorí. Kráča hore dvorom k humnu, cez ktoré musí   prejsť. Vráta vŕzgajú, akoby kričali na ratu, a za nimi je tma ešte   tmúcejšia, tá najhustejšia tma na svete. Vierka kráča s vystretými   rukami, aby do niečoho nevrazila. Ale do čohože by! Holohumnica je   prázdna, len v štáloch po oboch stranách je uložené družstevné seno.   Vtom sa Vierkinej ruky dotklo čosi mäkké a vlhké.
+    </tei:p>
+    <tei:p>
+     „Jaj!“ vykríkla polohlasom a pritisla si dlane na hrdlo. Ale nič   na ňu neskočilo, nič ju neuhryzlo, len ticho jej cvendžalo v ušiach.   Hádam sa vrátiť? blyslo jej mysľou, no ihneď zavrátila samu seba:   „Pekná pionierka, čo verí v strašidlá! A v maštali za ten čas ktovie   čo sa robí!
+    </tei:p>
+    <tei:p>
+     Zaťala zuby, odhodlane sa načiahla a ohmatala to mäkké a vlhké.   Malo to tvar pančuchy. Vidíš ho, strašidlo s poštopkanou pätou!   Vlastnoručne zavesila sem včera Paľkove i svoje pančuchy a nohavičky.   Vydýchla si a vykročila už smelšie k druhým vrátam. Zvonku sú   pritisnuté kameňom, treba sa do nich dobre zaprieť, táák!
+    </tei:p>
+    <tei:p>
+     Na druhej strane humna žmurkajú do tmy rady svetiel. V družstevnom   stredisku je čas večerného dojenia.
+    </tei:p>
+    <tei:p>
+     Kráča náhlivo, nohy sa jej vyvracajú po hlbokých koľajach. Svetlá   sa zväčšujú, sem treba ísť.
+    </tei:p>
+    <tei:p>
+     „Dobrý večer,“ pozdravila nesmelo (veď čo ak sa tu už dačo   stalo?).
+    </tei:p>
+    <tei:p>
+     „Dobrý večer, Vierka, ideš nám pomôcť?“ Tetka Korytárka vylieva do   kanvy za hrotok mlieka a usmieva sa. Priateľsky a prívetivo.
+    </tei:p>
+    <tei:p>
+     Vierke spadol kameň zo srdca: nič sa nestalo. Ako by sa aj mohlo,   veď tetka Vrabcovka len klebetila. Zo závisti, že nadojí menej ako   mama. Nech sa každý usiluje!
+    </tei:p>
+    <tei:p>
+     Pohľad na kravín je taký veselý, že dievčaťu znovu prilieta na   tvár stratený úsmev. Dva dlhokánske rady kráv a pomedzi ne čistá   cestička, sadnúť si môžeš na ňu, a všetko v jasnom svetle, biele a   teplé. Už vidí otca, umýva chvost Belani a kýva na dcéru.
+    </tei:p>
+    <tei:p>
+     „Vitaj, čo si prišla?“
+    </tei:p>
+    <tei:p>
+     „Len tak, pozrieť,“ vraví Vierka a na srdci je jej ľahko a krásne.   Mama sedí pod Citronou, čelo opreté o jej brucho, a spod šikovných   rúk čvrkajú do hrotka biele prúdy mlieka.
+    </tei:p>
+    <tei:p>
+     „Nebála si sa?“
+    </tei:p>
+    <tei:p>
+     Vierka pokrútila hlavou a pohladila pohľadom mamine ruky. Sú   čisté! Každý sa jej môže prizrieť na prsty! Aj tetka Vrabcová.
+    </tei:p>
+    <tei:p>
+     Tetkine kravy sú naproti maminým. Tetka práve doutierala vemeno   čistým plátnom a začína dojiť. Prúdy mlieka sa rozospievali o boky   prázdneho hrotka vo vysokej, radostnej tónine, laškovne a zvonivo,   ešte, ešte vždy spievajú, ale už temnejším, penovejším hlasom — a   teraz už len čvrk-čvrk, čvrk-čvrk! Hotový koncert, myslí si Vierka a   díva sa, ako šikovne dojí tetka Vrabcová. O nič horšie ako mama. O   nič horšie veru..
+    </tei:p>
+    <tei:p>
+     Robotu dokončili bez slova, aj domov šli ticho. Otec svietil   baterkou a Vierka si opakovala v mysli: Klebeta, klebeta, klebeta! a   každé to slovo pribila ráznym krokom o zamrznutú zem.
+    </tei:p>
+    <tei:p>
+     „Koľko mlieka vlastne nadojíš za deň, mama?“ spýtala sa zrazu.
+    </tei:p>
+    <tei:p>
+     „Okolo osemdesiat litrov.“ odpovedala mama.
+    </tei:p>
+    <tei:p>
+     „A tetka Vrabcovka?“
+    </tei:p>
+    <tei:p>
+     „No, tá voľačo menej. Veď mne aj otec pomôže zavše okolo kráv, to   sa hneď vidí. A čože?“
+    </tei:p>
+    <tei:p>
+     „Nič, len tak,“ povedala Vierka ticho a pobehla dolu dvorom. Čaká   ju ešte úloha.
+    </tei:p>
+    <tei:p>
+     Ľuba Vrabcová vošla do triedy krátko pred zvonením.
+    </tei:p>
+    <tei:p>
+     „Čo si ma neohlásila?“ volala už odo dvier. Líca mala červené od   zimy a nos ešte červenší.
+    </tei:p>
+    <tei:p>
+     „Myslela som, že si už odišla,“ odpovedala Vierka a skúmavo sa na   ňu zahľadela. (Počula tú klebetu, či nie?)
+    </tei:p>
+    <tei:p>
+     „No vidíš, a ja som čakala. A čo si ma tak premeriavaš?“
+    </tei:p>
+    <tei:p>
+     „Čože by som? Hlava ma bolí.“
+    </tei:p>
+    <tei:p>
+     „Nevrav! A to je ako? Mňa ti hlava ešte nikdy nebolela. A ozaj,   ideš v nedeľu na divadlo?“
+    </tei:p>
+    <tei:p>
+     „Pravdaže,“ usmeje sa Vierka uľahčene (Ľuba teda nič nepočula!)   „Včera mi kúpili nový sveter, tak pôjdem v ňom. Nebový.“
+    </tei:p>
+    <tei:p>
+     „Íha, teda už máš tri: nebový, žltý a tento červený.“ V Ľubinom   hlase zaznel tónik závisti.
+    </tei:p>
+    <tei:p>
+     „Tento naozaj nemáš čo rátať, veď už má aj sto rokov.“
+    </tei:p>
+    <tei:p>
+     Ale Ľuba sleduje vlastnú niť. „Lenže tebe je ľahko, tebe aj otec   aj mama viac zarábajú ako mne.“
+    </tei:p>
+    <tei:p>
+     Vierka mlčí. Ľuba trafila celkom blízko boľavého miesta, ktoré ju   už od včera večera páli. Vyberá si z tašky perečník aj zošit a v   duchu si vyčíta: Bolo mi treba spomínať ten pľuhavý sveter?
+    </tei:p>
+    <tei:p>
+     Cez veľkú prestávku sa Vierka prechádzala s Ľubou a skúšali sa   ruské slovíčka.
+    </tei:p>
+    <tei:p>
+     „Na križovatke...“
+    </tei:p>
+    <tei:p>
+     „...  RU razjezda/lang“
+    </tei:p>
+    <tei:p>
+     „Bojová príprava...“
+    </tei:p>
+    <tei:p>
+     „...  RU podgotovka/lang“
+    </tei:p>
+    <tei:p>
+     Vtom si Vierka všimla Zuzku Spevákovú zo siedmej B. Doťahovala sa   s Ondrom Bobáľom, čosi mu chcela vziať a on si to nechcel dať a obaja   sa chichotali, až Zuzke poletovali okolo hlavy plavé, čerstvo umyté   vlasy. Teraz je už veselá, ale ešte predvčerom chodila ako zarezaná.   To o jej mame vyhlásil miestny rozhlas, že odcudzila v samoobsluhe   čokoládu. Zuzka sa po dva dni schovávala, kde sa dalo, a ak sa už   musela s niekým stretnúť, hľadela si uprene na topánky.
+    </tei:p>
+    <tei:p>
+     Rodičia by sa mali správať tak, aby sa deti nemuseli za nich   hanbiť, pomyslela si Vierka tvrdo. Pravdaže, aj deti. Aj rodičia, aj   deti by sa mali správať tak, aby sa jedni za druhých nemuseli   hanbiť.
+    </tei:p>
+    <tei:p>
+     „Čo je to dneska s tebou, Viera?“ štuchla ju Ľuba do boka. „Už   tretí raz ti vravím: odvážne konať.“
+    </tei:p>
+    <tei:p>
+     „Áno,“ hovorí Vierka, „musím.“
+    </tei:p>
+    <tei:p>
+     „Aké musím? Po rusky to povedz!“
+    </tei:p>
+    <tei:p>
+     „Aha, chrabro dejstvovať. Áno, to je ono.“
+    </tei:p>
+    <tei:p>
+     Ľuba zadivene pokrúca hlavou, ale Vierka si to nevšíma. Rozhliada   sa okolo seba, hotová hneď dokázať svoje odhodlanie.
+    </tei:p>
+    <tei:p>
+     „Pozri, služba si zas nekoná povinnosť!“ povedala a plná pocitu   vnútorného oprávnenia vykročila k chumľu žiakov predo dvermi šiestej   triedy. Klbčili sme sa tam dvaja chlapci a ostatní ich s radosťou   pozorovali.
+    </tei:p>
+    <tei:p>
+     „Rozíďte sa,“ povedala Vierka prísne.
+    </tei:p>
+    <tei:p>
+     Možno si mysleli, že má službu, keď vyzerala tak energicky, nuž sa   porozchádzali. Bitkári si v rozpakoch oprášili nohavice a zapojili sa   do prúdu.
+    </tei:p>
+    <tei:p>
+     Cez poludnie cesta trošku zvlhla od slnka. Vlastne na asfaltke sa   to veľmi ani nezbadalo, iba čo o poznanie otmavela, ale za šmykňou   bolo blatnato.
+    </tei:p>
+    <tei:p>
+     Vierka kráčala tesne popri plote, kde bolo predsa len väčšmi   prituhnuté, a za Plátenníkovie komôrkou len-len že nevrazila do ženy   v hnedom dubenom kožuchu. Do tetky Spevákovej.
+    </tei:p>
+    <tei:p>
+     „Dobrý deň,“ pozdravila ticho a do tváre jej vbehla krv, lebo si   spomenula, ako rozmýšľala o nej dneska v škole.
+    </tei:p>
+    <tei:p>
+     „Dobrý deň, Vierka. Tak už domov, domov?“
+    </tei:p>
+    <tei:p>
+     „Už,“ zašepkala Vierka a chcela sa chytro prešmyknúť popri   nej.
+    </tei:p>
+    <tei:p>
+     „A nože mi povedz,“ zastavila ju tetka, „mojej Zuzke sa v škole   nevysmievajú?“
+    </tei:p>
+    <tei:p>
+     „Čožeby!“ usmiala sa Vierka neisto a červeň na tvári jej ešte   väčšmi zhustla. „Už sa na všetko zabudlo.“ Ale nezdvihla oči, uprela   ich na čierny prám tetkinho kožucha. Mama má taký istý, vedno si ich   dali šiť kdesi v Mošovciach. „A kde ste boli, tetka?“ doložila   chytro, aby zvrtla rozhovor na inú koľaj.
+    </tei:p>
+    <tei:p>
+     „Ale tuto u brata. Šla som mu obriadiť, keď ho tá lámka tak   pritisla, chudáčiska.“
+    </tei:p>
+    <tei:p>
+     „Veď sme mu chceli už aj my pionieri, ale nás nepustil,“   vysvetľovala náhlivo Vierka, rada, že sa dostali do bezpečnejšej   oblasti. „Tetke Juskovej chodíme aj upratať, aj dreva nakálať, ale   váš ujček nás nechce ani vidieť.“
+    </tei:p>
+    <tei:p>
+     „Keď je to taký čudák. Sedí v tom domci ani zakliaty a pomaly ho   už myši zjedia. No ale pôjdem. Pozdrav odo mňa mamičku, dávno som ju   nevidela.“
+    </tei:p>
+    <tei:p>
+     „Ďakujem.“ Vierka chcela už vykročiť, ale vtom ju premkla akási   ľútosť k tetke Speváčke (a možno to nebola ľútosť, možno to bolo dačo   inšie). Zastala v polkroku a povedala: „Keby moja mama bola vedela,   že sa s vami stretnem, iste by vás tiež bola dala pozdraviť.“
+    </tei:p>
+    <tei:p>
+     „No, ktovie, dieťa moje,“ usmiala sa tetka. „Ktovie...“ A dala sa   náhlivo smerom k hlavnej ceste.
+    </tei:p>
+    <tei:p>
+     Dievča hľadelo chvíľu za ňou, ale keď zbadalo, že sa tiež obzrela,   myklo sa ako popálené a sponáhľalo sa domov.
+    </tei:p>
+    <tei:p>
+     „A čože tá mňa má pozdravovať, kradoška!“ ohradila sa mama, keď   jej Vierka odovzdala pozdrav. „Ja by na jej mieste zhorela od hanby,   a ona sa presúša po dedine ani kišasoňa!“
+    </tei:p>
+    <tei:p>
+     Položila na stôl misu tvarohových halušiek a naberala rad-radom   otcovi, Paľkovi, Vierke.
+    </tei:p>
+    <tei:p>
+     „Ale veď neukradla bohviečo!“ nesúhlasil otec s jej príkrym tónom.   „Čokoládu za jedenásť korún. A dosť ju zato vytrestali, pred celým   svetom ju vykričali.“
+    </tei:p>
+    <tei:p>
+     „Tak jej treba!“ prekypoval v mame srd. „Všetko by chcela zožrať!   Vari jej nedochodí, či čo? Keď ju prezerali, našli jej v pudilári   šesťsto korún. Chudera, a čokoládu nevládala kúpiť pre dieťa!“
+    </tei:p>
+    <tei:p>
+     „Aj ja chcem čokoládu,“ odpútal sa Paľko od halušiek. „Plosím si   čokoládu,“ opravil sa.
+    </tei:p>
+    <tei:p>
+     Vierka počúvala rozhovor celým srdcom a obed jej čoraz lepšie   chutil. Mamino odsúdenie tetkinho činu vyhnalo jej z mysle všetky   pochybnosti. Tak môže hovoriť len človek, ktorý má čisté svedomie a   čisté ruky. Tetka Vrabcovka teda naozaj len klebetila a Vierka sa   zbytočne trápila. Ach, ako dobre, že zbytočne!
+    </tei:p>
+    <tei:p>
+     A kuchyňa jej razom zjasnela a skrásnela. Zimné slniečko sa   zastavilo rovno na hrebeni susedovie strechy a žiarilo do obloka   červenkavým iskrivým svetlom. Taniere a príbory veselo cvendžali, ako   ich Vierka ukladala do kredenca, a nevdojak jej vylúdili na ústa   pieseň. Jednu z tých starodávnych, ktorú si spevávala starká, kým   bola ešte dievčaťom: „Teraz mi je milý svet, kvitnem ako z ruže   kvet...“ Starká nosila vtedy oplecko a v oplecku vyzerá dievča naozaj   ako kvet, ako biela ruža. V nebovom svetri by vyzeralo ako   nevädza.
+    </tei:p>
+    <tei:p>
+     Vierka vytiahla zo skrine svoj nebový sveter a zvŕtala sa v ňom   pred zrkadlom.
+    </tei:p>
+    <tei:p>
+     Veľká parádnica je táto moja dcéra, pozerala na ňu mama   znepokojene. Ľaľa, oči jej svietia ani lampy.
+    </tei:p>
+    <tei:p>
+     „Vidíš, Paľko, ty budeš mať v nedeľu nebovú košieľku a ja nebový   sveter,“ naklonila sa Vierka k bračekovi, ktorý kreslil čosi smelými   ťahmi po škarnicli od cukru.
+    </tei:p>
+    <tei:p>
+     „Ale ty si žena, a ja chlap, tak ja chcem čevlenú,“ nesúhlasil   Paľko.
+    </tei:p>
+    <tei:p>
+     „No dobre, dobre. Ty budeš červený a ja belasá,“ zdvihla ho Vierka   do náručia a zavrtela sa a ním po kuchyni.
+    </tei:p>
+    <tei:p>
+     „Jajajáj! Pozol na plštek!“ škriekal Paľko a trepal sa jej v   náručí.
+    </tei:p>
+    <tei:p>
+     „Vari ta bolí? Ukáž!“ položila ho na stoličku.
+    </tei:p>
+    <tei:p>
+     „No, bolí. Mám na ňom angínu,“ ukazoval Paľko odreninku na palci.   „Pásak ma polanil.“
+    </tei:p>
+    <tei:p>
+     „Ha-ha-ha!“ rozosmiali sa všetci. Vlastne len mama s Vierkou.   Poranený traktorista hľadel na ne chmúrne a zazlievavo a otec bol už   dobrú chvíľu preč. Vozil tehly na novú koniareň.
+    </tei:p>
+    <tei:p>
+     Paľko videl, že sa Vierka zberá s mamou dojiť, a odhováral ju:
+    </tei:p>
+    <tei:p>
+     Nechoď, vonku je vietol. Budem ti čítať lozplávku.“
+    </tei:p>
+    <tei:p>
+     „Lenže mamičke treba pomôcť,“ presviedčala ho Vierka. „A rozprávku   môžeš čítať starkej. Dobre?“
+    </tei:p>
+    <tei:p>
+     „Tak doble,“ súhlasil napokon a dal sa odviesť do hornej izby.
+    </tei:p>
+    <tei:p>
+     U starkej bolo príjemne teplo, na sporáku bublali zemiaky a na   stole sa vŕšila bielučká kôpka peria.
+    </tei:p>
+    <tei:p>
+     „Stalká, a plečo si ty stalá?“ zadíval sa Paľko na starkej tvár v   plnom svetle žiarovky a prešiel jej prstom po zbrázdených lícach.
+    </tei:p>
+    <tei:p>
+     „To už tak musí byť, synček môj.“
+    </tei:p>
+    <tei:p>
+     „A plečo?“
+    </tei:p>
+    <tei:p>
+     Akože ti to vysvetliť? rozmýšľa starká a ešte raz sa pokúsi vyhnúť   odpovedi: „Nuž preto.“
+    </tei:p>
+    <tei:p>
+     „A plečo pleto?“ nedal sa Paľko odbiť.
+    </tei:p>
+    <tei:p>
+     „Nuž to ti je taký jeden kráľ,“ vynašla sa napokon starká, „volá   sa Kráľ času. A ten poznačí každého, kto už dlho žije.“
+    </tei:p>
+    <tei:p>
+     „A on je zlý?“ vyvaľuje Paľko tmavohnedé oči.
+    </tei:p>
+    <tei:p>
+     „No, je prísny a nikomu nič neodpustí,“ a starkej pohľad akoby sa   zastrel dávnou spomienkou.
+    </tei:p>
+    <tei:p>
+     „Ale ja ti všetko odpustím a nebudem ani plísny,“ vyštveral sa   Paľko na stoličku a pritisol si tvár k starej maminým ústam.
+    </tei:p>
+    <tei:p>
+     Starká ho vybozkávala po tmavej hlávke a potom mu navyťahovala z   hlineného hrnca veľké husie perá, aby jej pomáhal párať.
+    </tei:p>
+    <tei:p>
+     Páral celých päť minút. Niektoré pero sa mu podarilo celkom dobre   a niektoré sa mu zalomilo. Ale to sa stáva aj starším pomocníkom.
+    </tei:p>
+    <tei:p>
+     Mama práve vyliala mlieko do kanvy, nabrala do hrotka čistej vody   a sadá pod Soboňu. Vierka češe susednú Kvetuľu a je jej tak radostne,   že by sa najradšej znovu dala do spevu ako odpoludnia v kuchyni:   Teraz mi je milý svet, kvitnem ako z ruže kvet... Lenže je tu veľa   cudzích, nepatrí sa.
+    </tei:p>
+    <tei:p>
+     Mama doumývala Soboni vemeno, už ho utiera čistým plátnom,   čochvíľa sa rozospievajú cícerky mlieka o dno prázdneho hrotka. Bude   koncert!
+    </tei:p>
+    <tei:p>
+     Vierka spustila ruky a usmieva sa v očakávaní tých zvonivých,   laškovných zvukov. No, už...
+    </tei:p>
+    <tei:p>
+     Ale čo to? Mlieko curká, lenže vôbec nespieva, iba šuchoce, akoby   hrotok bol už napoly plný: čvrk-čvrk, čvrk-čvrk!
+    </tei:p>
+    <tei:p>
+     Tak je to teda! zhrozí sa dievča a náhle poznanie ju pribije na   miesto ani blesk. Horúčava sa jej znovu vovalí do tváre a z   rozblčanej mysle sa vynorí dopoludňajšie rozhodnutie: „Odvážne   konať.“ Ako potisnutá neznámou silou prebehne rýchlo k mame a zasipí   jej do ucha:
+    </tei:p>
+    <tei:p>
+     „Tá voda je na umývanie, a nie na pitie, mama!“ A buchne päsťou po   vnútornej stene hrotka, že ho hneď vyrazí spomedzi maminých kolien. A   potom sa už len mlčky a zhrozene díva, ako sa z neho leje voda, voda,   voda, akomak prebelená niekoľkými cícerkami mlieka. Zdvihne ho, podá   mame a pozrie na ňu takým vyčítavým, ľútostivým a zároveň pohŕdavým   pohľadom, že mama nevdojak skloní hlavu. Vierka cití, že jej srdce   vystúpilo kdesi vysoko, až do samého hrdla, a začína ju dusiť.
+    </tei:p>
+    <tei:p>
+     Zvrtne sa a vykročí cestičkou pomedzi kravy, najprv rýchle, potom   rýchlejšie a napokon celým behom. Vrazila do čejsi ročky s vodou, ale   stihla ju ešte zachytiť, a potom oslepená slzami vyrazila do tmy.
+    </tei:p>
+    <tei:p>
+     „Hej, Vagačka, čože sa ti to dievča tak splašilo?“ podišla k   Vierkinej mame tetka Korytárka. „Utekala, ani čo by horelo.“
+    </tei:p>
+    <tei:p>
+     „Ale... vyliala mi mlieko, tak sa naľakala,“ povedala mama s   hlavou pritisnutou o Sobonino brucho a ruky sa jej len tak mihajú a   mlieko zvoní o boky hrotka ani na poplach.
+    </tei:p>
+    <tei:p>
+     „Nie aby si ju zato hlušila!“ sadá si Korytárka k dojeniu o kúštik   ďalej. „Majže rozum, to sa hocikomu pritrafí!“
+    </tei:p>
+    <tei:p>
+     „A veď ti to nebude až tak veľmi chýbať,“ zavolá štipľavo   Vrabcovka odkiaľsi z kúta. „Čože je to tebe, až čo je to tebe?   Najlepšia dojička!...“
+    </tei:p>
+    <tei:p>
+     Ale Vagačová akoby nepočula. Chvejúcimi sa kolenami stíska hrotok,   do ktorého sa rinú prúdy čerstvého mlieka, a na dne srdca ju páli ako   ohnivá pečať dcérin pohŕdavý pohľad. A veď pre kohože to ona robila?   Len pre ne, pre svoje dievčence, aby mali všetko ako druhé, a ešte aj   trošku viac. Muž odkladá každý halier na knižku, strojí sa stavať,   tomu je fuk, aj keby dcéry v jedinej fertuške chodili. A tak všetka   starosť leží na jej hlave, a teraz na ňu dopadá aj všetka   hanba...
+    </tei:p>
+    <tei:p>
+     Vagačka si zúfalo pritisla čelo o Sobonino brucho, až sa krava s   údivom na ňu obzrela.
+    </tei:p>
+    <tei:p>
+     Vierka vybehla z dvier maštale, oprela sa chrbtom o stenu a   zadržované prúdy sĺz sa jej rozliali po lícach. Slzy hnevu, ľútosti,   sklamania i pokorenia.
+    </tei:p>
+    <tei:p>
+     Áno, hnevá sa na mamu, veľmi, veľmi... Ako mohla nadávať na tetku   Speváčku, keď je sama nie lepšia? Ale ona si iste myslí, že toto nie   je krádež, že družstvo má z toho ešte aj osoh, viacej mlieka. Ha,   pekného mlieka, so špinavou vodou! A za toto dostávala mama viacej   peňazí...
+    </tei:p>
+    <tei:p>
+     Lenže tomu si na vine aj ty! ozval sa vtom obžalobne jej vlastný   vnútorný hlas.
+    </tei:p>
+    <tei:p>
+     Vari naozaj? zhrozila sa Vierka.
+    </tei:p>
+    <tei:p>
+     A kto poškĺbal mamu neprestajne o peniaze? To na topánky, to na   šatku, to na sveter! Akoby si nemohla byť bez bielych topánok a   nebového svetra, veľká slečna! Čože sa ty máš čo merať s Evou, veď je   to už dievka na vydaj, mládenci za ňou pozerajú.
+    </tei:p>
+    <tei:p>
+     Prudké výčitky ochladili trošku Vierkinu rozhorúčenú hlavu, až si   napokon uvedomila, že jej slzy primŕzajú na tvári a že ju drobí   zima.
+    </tei:p>
+    <tei:p>
+     Vyšúchala si líca drsnými pletenými rukavicami, pritiahla si užšie   kabát a vykročila smerom k tmavému humnu.
+    </tei:p>
+    <tei:p>
+     Bolo nedeľňajšie poludnie, mama s otcom sa práve vrátili z   dojenia.
+    </tei:p>
+    <tei:p>
+     Eva, dievča vyvinutej postavy a počerná ako všetky Vagačovie deti,   prestierala s Vierkou na stôl a rozprávala jej príhodu z maškarného   plesu. Inokedy bývala mladšia sestra dychtivou poslucháčkou, ale   dnes... Eva si všimla — a nepratalo sa jej to do hlavy — že Vierku   dnes väčšmi zaujíma rozhovor rodičov. Stíchla teda a tiež sa   započúvala.
+    </tei:p>
+    <tei:p>
+     „Tak ti teda kravičky prischýnajú,“ vravel otec, „dnes naobed si   nadojila o tri litre menej ako predvčerom.“
+    </tei:p>
+    <tei:p>
+     „Akoby neprischýnali?“ odpovedala mama. „Zima priťahuje a krm   planý. Veď vieš, aké je seno v stohoch!“ Mama pozrela po deťoch, a   keď zbadala, že ju Vierka pozorne počúva, naklonila sa nad kastrólik   s polievkou, do ktorého zavárala rezance. Až priveľmi sa   naklonila.
+    </tei:p>
+    <tei:p>
+     „Viem, viem,“ prikývol otec. „Veď som ja hneď vravel, že nebude   dobré, keď sa v žatve pustili tie dažde. Už vtedy stohy fajčili.“
+    </tei:p>
+    <tei:p>
+     „Ako fajčili?“ oprel sa mu Paľko o kolená a naširoko roztvoril   hnedé oči.
+    </tei:p>
+    <tei:p>
+     „Nuž dymilo sa z nich ako z tejto cigarety,“ podržal mu otec pred   očami horiacu detvu. „Seno navlhlo a teraz je potuchnuté. A preto   kravičky majú menej mlieka.“
+    </tei:p>
+    <tei:p>
+     „A u Vagačov bude menej peňazí,“ povedala Eva zo žartu i   naozaj.
+    </tei:p>
+    <tei:p>
+     „Neboj sa, nič ti nebude chýbať,“ skočila jej do reči Vierka. „Len   trošku čo sa uskromníme, pravda, mamička?“ A prvý raz od onoho večera   sa na mamu usmiala. Zdvihla sa v nej vlna teplého citu. Akoby ju   obdarovali niečím krásnym.
+    </tei:p>
+    <tei:p>
+     „Ja už nebudem poškĺbať mamu o peniaze, uvidíš!“ doložila,   obrátená k Eve.
+    </tei:p>
+    <tei:p>
+     „Čože si ty zrazu taká dobrá?“ prehodila neveriaco Eva. „Akoby sme   sa nepoznali! Len čo mi dačo kúpia, už budeš mrnčať: A mne?“
+    </tei:p>
+    <tei:p>
+     „Nezabŕdaj do nej,“ povedala mama. „Ja viem, že to myslí   naozaj.“
+    </tei:p>
+    <tei:p>
+     Po obede sa Eva s mamou zvŕtali okolo riadu a Vierka sa v izbe   chystala na divadlo. Pôjde na odpoludňajšie predstavenie — pre   mládež.
+    </tei:p>
+    <tei:p>
+     Otec sa začítal do knižky a Paľko znovu vytiahol pásový   traktor.
+    </tei:p>
+    <tei:p>
+     „Pozlite, pozlite,“ potrhal ich rad-radom, keď traktor vyliezal na   rozličné kopce a prekážky.
+    </tei:p>
+    <tei:p>
+     „Nože ma nechaj čítať,“ bránil sa otec a len hľadel sústredene do   knižky.
+    </tei:p>
+    <tei:p>
+     „Tak pozli ty, pozli!“ nečakane podrgol Paľko Evu, že jej hneď   vypadol z ruky tanierik.
+    </tei:p>
+    <tei:p>
+     „Bodaj ťa aj s fafrnkom!“ nasrdila sa Eva a capla ho dva razy po   ruke. Paľko nakrivil ústa, rozbehol sa k mame, zaboril si tvár do jej   sukieň a žalostne sa rozplakal.
+    </tei:p>
+    <tei:p>
+     „Tak ja teda idem,“ vyšla vtom Vierka z izby, už v kabáte a v   zelenej kvetovanej šatke.
+    </tei:p>
+    <tei:p>
+     „No choď, Vierka moja,“ povedala mama, tuľkajúc k sebe plačúceho   Paľka. „A čože si si nevzala tú novú bielu šatku?“ všimla si zrazu   dcérino oblečenie.
+    </tei:p>
+    <tei:p>
+     „Tak, dobrá mi je aj táto,“ usmiala sa Vierka akýmsi zvláštnym   úsmevom a vyšla zo dvier.
+    </tei:p>
+    <tei:p>
+     „Odkedyže Viera seká takú dobrotu?“ vykrivila Eva ústa od   údivu.
+    </tei:p>
+    <tei:p>
+     Ale mama si len zahryzla do pier a vôbec sa nezberala odpovedať.   Zdvihla na ruky fikajúceho Paľka, pritisla si líce k jeho tmavému   temienku a vošla do izby.
+    </tei:p>
+    <tei:p>
+     Nie, naozaj ju to neprekvapilo.
+    </tei:p>
+    <tei:p>
+     Keď otvorila skriňu, zabelasel sa jej na vešiaku nebový sveter.   Žiaril ako kus letnej oblohy, a mama predsa chytro skriňu zavrela,   akoby ju bolo od neho ovialo vyčítavým, sychravým chladom.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

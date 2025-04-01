@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk2012186" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="isbn:9788081016837">
+     Šuhaj ako z iskry : ELTeCedícia
+    </tei:title>
+    <tei:author ref="viaf:8188529">
+     Banšell, Koloman (1850 - 1887)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3337
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Banšell, Koloman
+     </tei:author>
+     <tei:title>
+      Šuhaj ako z iskry
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Kalligram
+     </tei:publisher>
+     <tei:date>
+      2012
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Banšell, Koloman
+     </tei:author>
+     <tei:title>
+      Šuhaj ako z iskry
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+      Napred
+     </tei:publisher>
+     <tei:date>
+      1871
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-13">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     <tei:hi>
+      Šuhaj ako z iskry
+     </tei:hi>
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Kapitola prvá
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     <tei:emph>
+      Čo to znamená ten šuhaj ako z iskry?
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     Na tom som si lámal hlavu, ako by sa štyri letory ľudské tak po   našsky najlepšie dali pokrstiť? Začal som prekladať: sangvinik –   krvnatý; to mi však bolo neľubozvukom. Rozmýšľal som o flegmatikovi:   sadnuté mlieko, mledzivo, huspenina, – to všetko zdalo sa mi   priprostonárodné, nevedecké. Išiel som ďalej, ale ani so žlčnikárom   alebo svalnáčom namiesto cholerika, ani s pokútnym alebo citlivkárom   namiesto melancholika som naskrze spokojný nebol.
+    </tei:p>
+    <tei:p>
+     Namrzený nad nezdarom svojich jazykospytných bádaní zavreštím na   chyžnú z plného hrdla, až sa mi celý dom hnevným hlasom ozval:   „Julča, vody!“
+    </tei:p>
+    <tei:p>
+     Julišku našu ani najmenej z promptnosti vo výsluhe vychvaľovať   nemôžem. Teraz ale, snáď pohnutá neobyčajnou mohutnosťou môjho   volania, pripáli naskutku do mojej chyže sťaby hromom podšitá. Až ma   zarazil jej skorý príchod. Opätujem ešte raz prízvukom cézarským:   „Julča, vody!“ – a pridám konca-kraja nemajúci prúd filipiky, ktorej   i začiatok i koniec v ten zmysel vychádzal, že prečo dá na seba toľko   razy kričať? – Takmer som sám mohol vidieť iskriaci hnev na konci   svojich malých bajúzikov, ako keď pohoniči vidia v čiernej noci   iskriť mlunné blesky z konských uší.
+    </tei:p>
+    <tei:p>
+     Julka, lapiac krčah do ruky, s úplnou rezignáciou vypočula   prostosrdečnú moju mienku. V idylickej pozitúre celkom ľahostajne   hľadela do sršiacich mojich očú.
+    </tei:p>
+    <tei:p>
+     Keď sa všetci diabli a ich kumpáni mojimi snáď i primalými   ústočkami šťastlivo premleli, opätoval som ešte raz žiadosť svoju a   začal som sa ďalej, akoby som závet Rotchildovcov držal vo vrecku,   pyšne po izbe preháňať.
+    </tei:p>
+    <tei:p>
+     Juliška, ktorú k najvyššiemu môjmu hnevu všetok lomoz, krik a   hromovanie ani za mak nevynieslo z koľaje, otvorí konečne dvere   (blízo ktorých bezpochyby nie z obozretnosti alebo zo strachu, ale   len z tej jednoduchej príčiny zaujala pozíciu, že krčah náhodne pri   dverách stál) a polohlasne rečie: „Čože ich vodí?“ – i chtiac i   nechtiac, aby som jej poznámku dopočul – a v tom okamihu ako svižná   laňka zmizne.
+    </tei:p>
+    <tei:p>
+     Vo mne vrelo.
+    </tei:p>
+    <tei:p>
+     „Máš čas, že si sa odpratala!“ myslel som si.
+    </tei:p>
+    <tei:p>
+     Po kratučkej chvíli vstúpi Juliška s krčahom dnu.
+    </tei:p>
+    <tei:p>
+     „No veď už konečne!“ privítal som ju a začal som zase nespokojnosť   svoju nad jedným-druhým jej sluchu vzorne trpezlivému   predostierať.
+    </tei:p>
+    <tei:p>
+     „Jaj, mladý pán, taký sú ako z iskry, nemám času ďalej sa baviť a   ich naslúchať,“ dopovie už v pitvore a driev než som zbadal, bola tá   tam.
+    </tei:p>
+    <tei:p>
+     „Haha!“ – rozosmial som sa zrazu, akoby ma v tom istom okamihu   šaľba bola napadla. Nad čím som si ja za pár hodín na daromnicu lámal   hlavu, ona to bez všetkého rozmýšľania vie! Ako z iskry! Tu, hľa, máš   slovo slovenské namiesto latinského sangvinik, tu výraz nielen povahu   dotyčnú výborne označujúci, ale k tomu i básnický. A radoval, smial   som sa zase, behajúc po izbe, akoby som nejaký drahocenný poklad bol   našiel.   *
+    </tei:p>
+    <tei:p>
+     Tento výjav mám zaznačený vo svojich zápiskoch ešte z tých   ružových časov študentstva. Na dôkaz jeho pravdivosti len to   pripomínam, že som ho z úst samého priateľa svojho Rarášťoka Smejku   ako od osoby v ňom účinkujúcej počul a, nakoľko možné bolo, prísne   podľa počutia napísal.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Kapitola druhá
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     <tei:emph>
+      Čo za jedného je ten šuhaj ako z iskry?
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     Rarášok Smejko bol opravdivým šuhajom ako z iskry.   Charakteristickejšieho pomenovania by si nebol našiel preňho, čo by   si všetky slová slovníka podľa všetkých možných kombinácií   počtovedných popremieňal a pospájal.
+    </tei:p>
+    <tei:p>
+     So mnou navštevoval jednu a tú istú triedu. Priateľmi v užšom   zmysle slova sme si neboli, vlastne opravdivého priateľa on ani nikdy   nemal, bo jemu bol jeden druh ako druhý; ale preto stýkali sme sa my   dvaja mnoho spolu, takže mi nechýbalo príležitosti povahu jeho hlbšie   spoznať.
+    </tei:p>
+    <tei:p>
+     Bol on, čo sa zovňajšku týka, mladík strednej, územčistej postavy,   kvitnúcich čerstvých líc, iskriacich čiernych očú a širokých pŕs   (ktoré sa vždycky vlnami rýchlymi dmuli). Nôžky mu ustavične na tanec   išli, po ulici sa náhlieval ako šarkan a pri tomto lietaní poskakoval   si kedy-tedy celkom neženírovane, akoby myslel, že je na lakovaných   dlážkach a že dajakého anjelička má vis à vis. Pritom si rád nôtieval   popod nos dajaký valčík alebo polku. Keď stretol známeho, vyťal   svižnú poklonu, usmial sa a ponáhľal sa ďalej. Toho sa ale nikdy   nemohol zdržať, aby, keď mal šťastie s mladou osobou bieleho   pohlavia, dva-tri razy naspäť nepozrel za ňou.
+    </tei:p>
+    <tei:p>
+     Za žiaka sme ho mali stredného. Niekedy, pravda, lepšie odpovedal   ako prvý eminens, ale inokedy nevzal knihu ani za mesiac do ruky; v   písaných štúdiách mal viac bielych „oblokov“ než napísaného. Na   skúškach vzdor tomu vždy výborne obstál: to isté odpovedal neraz i na   lekciu i na opakovanie i na skúške, a kým sa iný žaloval, že práve   len to nevedel, čo odpovedať mal, Rarášťok sa so smiechom vystatoval,   že by si lepšiu otázku ani sám nebol vedel vyvoliť, ako bola tá, čo   mu prisúdila sudba. Súkromne študoval veľmi mnoho, nedokončil však   nič. Obyčajne popredku spomínal, do akého utešeného štúdia sa on zase   zabral. Keď sme sa ho po čase spýtali, či už ďaleko pokročil, odvetil   nám, že sa mu to nezdalo, nuž že to odhodil.
+    </tei:p>
+    <tei:p>
+     Národné jeho zmýšľanie bolo síce pravé, isté, ale chýbal mu ten   výraz nadšenosti, ktorý mladosť tak charakterizuje. Nápadné bolo pri   Rarášťokovi, že o národe veľmi málo hovorieval. Pokladal predmet   tento v rozhovoroch za zodratý, ustavičné márne tliachanie o ňom   nevedel priviesť do súhlasu s dôstojnosťou jedného národa. Vôbec z   celého jeho správania usudzujúc neskladali sme veľké nádeje v   Rarášťoka pre náš národ. Páni učbári, čo našimi boli, rukou kývali   nad ním v punkte tomto. Poznali ho ako chytráka a očakávali z neho   iba figúrku, ktorá bude plávať s prúdom sveta. Ba či sa   nesklamali?
+    </tei:p>
+    <tei:p>
+     V družstvách priateľských mali sme Rarášťoka všetci radi. V   hádkach i o najvážnejších predmetoch sa často smial, až mu slzy ako   hrachy vystúpili v očiach, zvlášť keď odporcu končitým, nezriedka   hrubým vtipom kapacitovať mohol. Býval pri podobných prípadoch i   skutočne niekedy náruživý a tu ani takú jasnú pravdu ako to slnce   nechcel uznať a celú rozopru prudkými nadávkami dokončil. Po chvíli   oblizoval sa už s odporcom svojím sťaby s milenkou, prosiac ho o   prepáčenie a uznávajúc svoj omyl. Ale beda bolo vtedy, keď sa so mnou   začal pravotiť o voľačom, lebo ako mi vraveli, povaha moja veľmi bola   podobná Rarášťokovej. Ja som nepopustil žiadnym dôvodom – on tiež   nie, a tu hnev bol hotový. Stali sme sa jeden druhému tými   najúhlavnejšími nepriateľmi pre veci chatrné. Vystrájali sme si potom   protivne i v najmiernejších maličkostiach. I teraz so srdečným   smiechom sa rozpomínam, že sme sa raz, on zastávajúc Schillera, ja   ale Petőfiho, tak boli rozkmotrili, že sme v hostinci u „Jeleňa“ už s   holými šabľami stáli proti sebe, hotoví k súboju. Konečne pili sme na   bratstvo – a boli sme si zase dobrými kamarátmi.
+    </tei:p>
+    <tei:p>
+     Ináč mal Rarášťok srdce mäkké ako vosk. Keď sa radoval, objímal   každého, akoby svet celý do náručia svojho bol chcel privinúť. Ale   keď videl slzy žiaľu alebo biedy, rozplakal sa ako šesťročný chlapec.   Pri poháriku by bol obetoval aj košeľu zo seba, a to nie natoľko   sebe, ako radšej kvôli svojim druhom. Keď počul struny husieľ, ako   veselú vyťahujú, trhal sa na celom tele, vyskakoval zo stolca, drvil   päsťou stôl, akoby náročky len to chcel, aby aj sklenice tancovali,   hádzal klobúk o zem a šklbal si vlasy ako zbesnený pomätenec. Naproti   tomu pri zádumčivej nôte zniona alebo pri unylých zvukoch nočnej   fujary zastával mu dych, klesal, kedy-tedy zavzdychol a city jeho sa   v úľubnom, slastiplnom úsmeve skutočne rozplývali...
+    </tei:p>
+    <tei:p>
+     Takýto bol Rarášťok Smejko, ten náš šuhajko z iskry.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Kapitola tretia
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     <tei:emph>
+      kde sa dokazuje, že sú hviezdy slzami božími, čo lumpov   oplakávajú
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     Výjav nasledujúci mám v zápiskoch svojich len niekoľkými slovami   naštrknutý, nemôžem sa však zdržať, aby som vám ho obšírnejšie   nepodal.
+    </tei:p>
+    <tei:p>
+     Bolo to v jeseň roku 185... Listy stromov očervenievali a   opadávali, nové víno najlepšie kyslo a vrelo. Vtedy sme sa my čo   fidélnejší chlapíci vybrali do susedného mestečka pod zámienkou   nejakej pokonávky, za lubom väzela však horúca túha po okoštovaní   toho nového, lebo v našom meste, v sídle to rozumu milovných múz, sme   pred čujným čuchom cteného učbárstva ani za málo neboli bezpeční, že   nás hneď pri prvom glgu nezdrapia a do chládku neposadia. V meste J.,   kam sme sa boli vyklamali, zamierili sme kroky naše do najväčšieho   domu, lebo to je u nás pravidlom, že najväčší dom musí byť nepochybne   hostincom. V tomto teda najväčšom dome jednohlasne uzavrelo konzílium   naše, že je veru to nové výborné – non plus ultra! Čo div, že sme sa   následkom toho onedlho všetci zhliadali v bájnom rozpoložení   iluminácie, to jest osvietenia? Darmo je to, kde škola nedostatočne   osvecuje, tam je osvecovanie materiálno-spirituálne, to jest vínové a   špiritusové celkom prirodzenou požiadavkou.
+    </tei:p>
+    <tei:p>
+     Dosť na tom, my sme sa ver v dobrej vôli zobrali konečne na   spiatočnú cestu od azylu Bakchovho – rozumiem pohanského boha, a nie   ministra. Bola utešená jasná noc jesenná. Hore dolinou vyspevovali   sme s opravdivou virtuozitou. Nám samým sa to aspoň tak zdalo, že   spievame utešene, dojímavo. (Kedy si to len opití ľudia nemysleli   mnoho pekného o sebe!) Išli sme, pochytajúc jeden druhého za rameno,   v jednom šíku. Mojím susedom z ľavej strany bol Rarášťok Smejko. Bol   zadumaný, smutný. Domnieval som sa, že mu snáď šumná kelnerka, do   ktorej sa podľa vlastného vyznania infámne buchol, v ľúbiacej hlávke   vrčí (lebo svet náš iba hlavou ľúbi), nuž teda nechal som sladké jeho   marenie.
+    </tei:p>
+    <tei:p>
+     „Števko, duša moja!“ rečie konečne po dlhom mlčaní, keď   zachrípnuté hrdlá za dobré uznali maličkú prestávku použiť na   zotavenie.
+    </tei:p>
+    <tei:p>
+     „Dávno som očakával dôkaz toho, že si neonemel,“ vravím ja.
+    </tei:p>
+    <tei:p>
+     „Števko, duša moja!“ Tu prestal.
+    </tei:p>
+    <tei:p>
+     „Veď sa ja len predsa bez príčiny nenazdávam, že si do jazyka kŕče   dostal.“
+    </tei:p>
+    <tei:p>
+     „Števko, duša moja!“ Zase prestal, pohliadol na mňa a na červených   jeho lícach ligotné slzy sa skveli.
+    </tei:p>
+    <tei:p>
+     „Či vieš“ – pokračuje a trhá potom – „čo sú to tie hviezdy? Ako sa   trasú sťaby slzy v devinej mihalnici!“
+    </tei:p>
+    <tei:p>
+     Tu znížil hlas, jazyk mu vypovedal službu. To prekliate víno bolo   na príčine. Rarášťok vše spomínal, že keď sa potúži, na perách   svojich takú ťarchu cíti, akoby balvany celého Uralu boli na nich   privalené.
+    </tei:p>
+    <tei:p>
+     „Básniš, básniš?“ rečiem teda, nechcejúc rozhovor prestávkou   pretrhnúť.
+    </tei:p>
+    <tei:p>
+     „Števko, duša moja...“
+    </tei:p>
+    <tei:p>
+     „No konečne...“
+    </tei:p>
+    <tei:p>
+     „Pozri ta hore na tie trblietavé hviezdy: to sú slzy, hej, slzy na   oblohe, božom oku, čo pán boh vylieva nado mnou, nad korheľom,   ožranom, lumpom... Óh, padajte, hviezdy, padajte slzy božie – ja som   veľký lump, ja som nešťastník...“ A ono neborák po prvučičký raz si   bol trochu viac potiahol.
+    </tei:p>
+    <tei:p>
+     Nemohol som sa hlasného chichotu zdržať. Dolina celá odvetila   výbuchu srdečného môjho smiechu. Druhovia, dozvediac sa o príčine   šaľby mojej, sa dobre o zem nehádzali.
+    </tei:p>
+    <tei:p>
+     V dobrom rozmare dotárali sme sa až po polnoci domov.
+    </tei:p>
+    <tei:p>
+     A Rarášťok vari ďalej rozmýšľal o tých slzách božích? Horké jeho   rozmýšľanie! Najväčšie nedobizne vystrájal potom a zo samého seba   strojil rozličné vtipky.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Kapitola štvrtá
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     <tei:emph>
+      Ako sa ozaj vodilo tomu nášmu Rarášťokovi v záležitostiach   ľúbostných?
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     Čitateľky spanilé a čitatelia drahí, viem, tvrdo očakávali tento   predmet. Očakávanie ich som sa tým usilovnejšie snažnejšie vyplniť,   lebo ľúbosť bola v živote brata Rarášťoka Smejku hlavným činiteľom,   hlavným predmetom jeho myslenia, cítenia a celého túženia. Keď   prišiel medzi nás, obyčajne začal o svojich „liebschaftoch“   vyprávať.
+    </tei:p>
+    <tei:p>
+     Ešte ako maličký chlapec bol zaľúbený do jedného malého maďarského   dievčaťa, ktoré v susednom jeho domoviny mestečku bývalo a ktoré, kto   zná, či už tiež začalo pociťovať tie blažené city a tajné, pritom ale   predsa jasné túhy, o ktorých sa dakto vyslovil, že by bez nich nebolo   hodno ani na svet prísť! S veľkým pátosom rozprával brat Smejko, aká   utešená, naivná bola táto jeho prvá ľúbosť! I tie jeho plány a túžby,   aké boli jednoduché, primitívne! Všetky jeho želania sústreďovali sa,   vraj, v tom jedinom: mať malinkú kolibku, v ktorej by so svojou malou   ženičkou sám mohol bývať a gazdovať.
+    </tei:p>
+    <tei:p>
+     V štrnástom roku svojom mal zase ľúbostný pomer s istou osôbkou,   ktorá si zhola nemohla sťažovať, že je snáď ešte nedospelá. Prekárali   ju, že by Rarášťokovi i za starú mamičku ta pristala. Napriek tomu   bol náš šuhaj z iskry do nej zaľúbený láskou ohnivou, horiacou až   dovtedy, kým sa páni učbári nedozvedeli o dobrodružnom svojom   žiakovi. Jediné postrašenie pána správcu, že dostane z mravnosti o   jeden stupeň nižšiu triedu, dostačovalo ochladiť jeho rozohriaty   mozog.
+    </tei:p>
+    <tei:p>
+     Ako osemnásťročný junoš bol náš Rarášťok vychovávateľom v jednom   panskom dome. Čo mu veľmi vhod prišlo, našiel tu i dievča z   príbuzenstva panej. Švárna, nevinná Eufrozína padla mu, prirodzene,   do srdca, a to tým viac, že si na dedine, kam postavením svojím bol   priviazaný, nemohol tak medzi dievčatami vyberať ako v meste. Ale   jeho zásadou bolo: stoj čo stoj mať naveky s niekým bližší pomer. –   Chlad a nevinnosť z každého ťahu Eufrozíninho milostne žiariace boli   menovite vlastnosťami, ktorým sa Rarášťok sťa idolu koril, pre ktoré,   ako sám vravieval, ideál svoj k srdcu striebornými klincami mal   priklincovaný. Aká nešťastná bola zatiaľ ľúbosť táto! Eufrozína   nebeská, spása edenu, blesk hviezdy zimošnej, zápyr zôr nad najvyšším   vrcholcom Tatier, Eufrozína, ten vzor nevinnosti a studu panenského,   ktorý sa pri každom stretnutí pohľadu so zrakom iného nežne červenal   a lúče snivých očú na dlážky upieral, Eufrozína tá, s ktorou si po   uplynutí niekoľkých rokov večný zväzok sľuboval priateľ náš,   Eufrozína tá – bola mamičkou, mamkou dvoch na dedine inej žijúcich   anjelikov! – To bolo sklamanie ukrutné. Pád neočakávaný do vĺn   spenených zúriacej Niagary, pád márnivého meteora do hlbiny morskej,   pád prvého anjela z jasných výšin nebeských do čierňav bezodného   Tartaru nemohol hroznejší byť nad pád Rarášťokov zo sveta klamných   ideálov do bahna ohyzdnej skutočnosti. Tak aspoň opisoval sklamanie   svoje on. Čo si tu mal počať úbohý nešťastník? – Svetom utiecť?   Preklínať ukrutný osud? Strašnú pomstu sypať na hlavy besných drakov,   čo vencov svätých opovážili sa i len dotknúť, nie to roztrhať? –   Rarášťok ani jedno ani druhé nezrobil. Úbohej Eufrozíne nadal po   počutí tohto chýru do neverníc, za niekoľko dní sa s ňou nezhováral,   ale potom sa zase pomeril a hockedy ju celkom ľahostajne do dobrej   vôle vybozkával...
+    </tei:p>
+    <tei:p>
+     Ešte viac kadejakých ľúbostných pomerov by som mohol zo života   Rarášťokovho pospomínať, ako napríklad i do vlastnej sestričky, do   istej barónky, ba i do jednoduchej chyžnej (do tej spomínanej   Julišky) bol buchnutý, ale nateraz to všetko náročky rozťahovať   nechcem, aby som si potom jeho hnev na seba neuvalil, že všetky jeho   tajnosti, s ktorými sa on iba svojim priateľom zveril, celému svetu   vytrubujem. Ba i zavrátiť by ma mohol, že sa jedno-druhé len v jeho   ohnivej obrazotvornosti prihodilo, čím nás ako so skutočnou udalosťou   ošudiť zmýšľal. Mal zaiste i nevšedný dar „zahýbania“.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Kapitola piata
+    </tei:head>
+    <tei:p>
+     <tei:emph>
+      Návšteva u šuhaja ako z iskry
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     Po skončení práv vystúpil Rarášťok Smejko na postať verejného   života a vodilo sa mu tuná veľmi dobre. Kde sa len skrútol, šťastie   ho takrečeno prenasledovalo. My sme si, z akej príčiny neviem,   nepísali, takže aj on bezpochyby len tak málo znal o mne ako ja o ňom   a o jeho pomeroch. Na poli spisby som jeho meno nevidel, usudzoval   som teda tak, ako je to na Slovensku hriešnou obyčajou: kto nepíše,   nie je činným národovcom.
+    </tei:p>
+    <tei:p>
+     Asi o desať rokov od čias nášho nevidenia sa prišiel som náhodou   do mesta P. Zosadol som v hostinci a nevýslovne som bol prekvapený,   počujúc všade rozhovory slovenské i medzi vzdelanejšími, a to zväčša   o záležitostiach národných.
+    </tei:p>
+    <tei:p>
+     „Aký to prevrat netušený od desiatich rokov v tomto čestnom   meste,“ oslovím jedného z prítomných hostí. „Keď som ešte ako žiak   navštívil tu narodeného svojho druha, nebolo tu počuť od   vzdelanejších ani slovíčka po slovensky. Všetko bolo odrodilé, že   človeku až smutno prichádzalo okolo srdca. A teraz, buď bohu chvála,   aký to život, aká zaujatosť!“
+    </tei:p>
+    <tei:p>
+     „Sláva bohu!“ vzdychne si oslovený, „že sa tie smutné časy našej   zaslepenosti duševnej už pominuli! No sláva aj nášmu pánu   Rarášťokovi! Keby jeho nie, veru, kto zná, či by z nášho preporodu až   dosiaľ bolo voľačo bývalo!“
+    </tei:p>
+    <tei:p>
+     „Rarášťok Smejko?“ spýtam sa prekvapene.
+    </tei:p>
+    <tei:p>
+     „I veľmi. Veru nás pán pravotár zobudil k opravdivému životu.   Milostivý Hospodin ho za to požehnaj!“
+    </tei:p>
+    <tei:p>
+     Vo mne zovrela radosť.
+    </tei:p>
+    <tei:p>
+     „Odpusťte, priateľko drahý, že hnaný citmi srdca svojho v náruč sa   ponáhľam bývalému druhovi svojmu a rozhovor svoj s vami prerušujem.   Prosil by som vás len ešte o číslo jeho domu.“
+    </tei:p>
+    <tei:p>
+     Sotva dočkajúc odpovede, bol som na ulici. Idúc hore mestom a   pozerajúc na čísla domov, zhliadnem blížiť sa proti sebe vážneho muža   postavy širokej, územčistej.
+    </tei:p>
+    <tei:p>
+     „Brat môj!“
+    </tei:p>
+    <tei:p>
+     „Duša moja!“ A sťa zamilovaný párik viseli sme jeden druhému na   perách.
+    </tei:p>
+    <tei:p>
+     Rarášťok pred desiatimi rokmi opravdivým Rarášťokom po desiatich   rokoch. Ani vlas nepremenil sa na ňom od tých čias v jeho povahe.
+    </tei:p>
+    <tei:p>
+     Na moju prosbu išiel so mnou do hostinca.
+    </tei:p>
+    <tei:p>
+     „Buď si!“ odvetil mi on, „urobíme si aspoň fígeľ.“ Ja som ho   nerozumel. Podobne mi nejasné bolo, čo mala znamenať navštívenka,   ktorú brat Rarášťok, naznačiac voľačo na ňu, hostinskému bol podal   pred dvanástou v sprievode niekoľkých mnou nepočutých slov.
+    </tei:p>
+    <tei:p>
+     Obedovali sme spolu. Keď sme si najhlavnejšie momenty života   nakrátko vyrozprávali, prešiel rozhovor zaraz na národné záležitosti.   Prítomní pustili sa s nami tiež do rozhovoru. Srdce mi rástlo od   radosti, keď som počul priateľa svojho besedovať s prítomnými o   zlatej budúcnosti Slovenstva, ktorú on tak prirodzene, a predsa   veľkolepo, tak nadšene, a predsa jasne maľoval. Že sa o národné veci   obzrie dakedy, proti tomu by som ešte pred štvrť hodinou počas nášho   súkromného rozhovoru bol mohol prisahať, a žeby čo i len slovo hoden   bol vážne preriecť, to ani predpokladať som sa neopovážil. Radosť   bolo vidieť, ako sa všetko k nemu vinulo.
+    </tei:p>
+    <tei:p>
+     S citmi ľúbymi, sladkými rozlúčil som sa s ostatnými prebudenými   občanmi p...skými, keď ma Rarášťok na svoju hospodu pozval, aby sme   si vraj o jednom-druhom ešte dôvernejšie mohli poklebetiť.
+    </tei:p>
+    <tei:p>
+     „Toto je moje hniezdo!“ riekol pred jedným veľkým domom.
+    </tei:p>
+    <tei:p>
+     Vošli sme do dvora. Vzorný poriadok dookola v kvetinovej záhradke   ako i na chodbe upomínal, že v dome nechýba usilovná gazdiná.
+    </tei:p>
+    <tei:p>
+     Iba pred samými dvermi napadlo mi, že som sa zabudol spýtať brata   Rarášťoka, či je ozaj ženatý?
+    </tei:p>
+    <tei:p>
+     „Nech sa ti ľúbi, chyža je otvorená,“ predbehne ma slovom.
+    </tei:p>
+    <tei:p>
+     V chyži dačo zašuchotalo. Zaklopem.
+    </tei:p>
+    <tei:p>
+     „Voľno!“ zaznie tenký, mne trochu známy hlas.
+    </tei:p>
+    <tei:p>
+     Vstúpime dnu; ku dverám blížila sa nežná ženská postava v úhľadnom   letnom obleku. Jej ťahy sa mi úplne neznámymi nepozdávali, spamätať   som sa ale naskutku, aj ináč prekvapený, nevedel, kto by asi osoba   táto mohla byť?
+    </tei:p>
+    <tei:p>
+     Na pohovke sa dve dietky čerstvých milých líčok zabávali.
+    </tei:p>
+    <tei:p>
+     „Bývalý môj spolužiak pán Štefan K. – a toto ženuška moja,“   predstavil nás Rarášťok obapolne.
+    </tei:p>
+    <tei:p>
+     „Ó, pán K., takmer by som vás ani nebola poznala!“ zašveholí ku   mne švárna, vľúdna žienka. „A vy akože? Neprichodím vám známa?“
+    </tei:p>
+    <tei:p>
+     „Ráčte odpustiť, milosťpani,“ vravím ja, keď sme sa všetci traja   na pohovku posadili, takže žieňatko do prostriedku prišlo. Rarášťok   sa šibalsky usmieval. „Napriek tomu, že sú mi panej ťahy nie cudzie,   nemôže mi prísť na um...“
+    </tei:p>
+    <tei:p>
+     „Nemôže vám prísť na um, keď ste ma jeden večer ako študent r-ský   násilne boli pobozkali?“
+    </tei:p>
+    <tei:p>
+     A Rarášťok sa len usmieval a nepovedal nič, čo pri ňom bolo veľmi   nápadné.
+    </tei:p>
+    <tei:p>
+     „Krátke vlasy – dlhý rozum,“ vravia ľudia, „a veru sa nepravda   tohto i teraz dokazuje,“ rečie s ľúbym úsmevom tajomná šumná.   „Rozdiel medzi mojimi vlasmi a vašimi, pán K., je istotne nie malý a   môj rozum je teraz, ako vidím, predsa len nie kratší od vášho. Nuž,   naozaj, nerozpomínate sa?“
+    </tei:p>
+    <tei:p>
+     Rarášťok vyskočil z pohovky.
+    </tei:p>
+    <tei:p>
+     „Ale ľudia! čože sa vám robí? Už vidím, že vás ja musím z ťažkostí   vytrhnúť!“ zvolá, prebehnúc so smiechom po izbe. „Nuž Juliška,   Juliška, čo mi ako študentovi vodu nosievala, je táto moja ženička!   Bozkajte sa mi krásne pred očami a zmyte ten násilný bozk slobodným,   dobrovoľným bozkom.“
+    </tei:p>
+    <tei:p>
+     A sladulinký bozk zopakoval sa, takže na jeho hlasné dvojité   pľasnutie i dietky zle zazreli na mňa.
+    </tei:p>
+    <tei:p>
+     V dome tomto strávil som tri z najsladších dní života svojho,   zabával som sa ako v kruhu svojich vlastných. Nevedel som sa dosť   načudovať ostrovtipu a vzdelanosti Juliškinej. Kto by len zakrátko   bol pozoroval jej nenútený spoločenský tón, nikdy by nebol veril, že   iba rok bola vo výchovnom ústave, kam ju Rarášťok na svoje útraty bol   dal, prv než sa s ňou vzal.
+    </tei:p>
+    <tei:p>
+     Odchodiacemu riekol mi Rarášťok s dobrým rozmarom toto: „Od svojej   Julišky naučil som sa, že je sangvinik po našsky ,šuhaj ako z iskry‘.   Odvtedy ale, brat môj, ako som si ju za žienku vzal, naučil som sa od   nej ešte mnoho dobrého – ale nie menej i zlého...“
+    </tei:p>
+    <tei:p>
+     Za to vypriadol si na samopašné pery svoje milosrdné pľasnutie od   rúčky snehovej.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

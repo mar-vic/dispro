@@ -26,3 +26,60 @@ SCHEDULED: <2024-02-26 Po> CLOSED: [2024-03-04 Mon 14:34]
 :ARCHIVE_ITAGS: dispro work
 :END:
 [2024-02-26 Po]
+
+* DONE Create a custom pandoc reader for eltec files
+CLOSED: [2024-06-18 Tue 16:54]
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-03-11 Tue 08:55
+:ARCHIVE_FILE: ~/Projects/dispro/dispro.org
+:ARCHIVE_CATEGORY: dispro
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: dispro work
+:END:
+
+[[https://pandoc.org/custom-readers.html][Custom reader]] for eltec .xml can be used to
+transform eltec files into any type of pandoc output.
+
+Custom reader is simply a lua file that defines a 'Reader' function which takes two arguments:
+
++ the raw input to be parsed, as a list of sources
++ optionally, a table of reader options,  e.g. { columns = 62, standalone = true }.
+
+The Reader function should return a Pandoc AST. Look here on how to maniplate Pandoc
+AST: [[https://pandoc.org/lua-filters.html]]
+
+The reader is then invoked by putting the path to file implementing the reader function
+after the -f option when using pandoc command:
+
+#+begin_src
+pandoc input -f <file with reader definition> -t <output type> -o output
+#+end_src
+
+** DONE Transform eltec file into pandoc's AST
+CLOSED: [2024-06-11 Tue 15:19]
+
++ Create mapping between eltec elements and pandoc AST
++ Extract all eltec elements occuring within <text>
++ Generate pandoc AST out of eltec elements
++ It is possible to modify existing Blocks with function in pandoc.List module
+
+
+* DONE Sprav vykaz pre JULS
+CLOSED: [2024-11-19 Tue 13:42] DEADLINE: <2024-11-25 Mon> SCHEDULED: <2024-11-18 Mon 08:00-09:00>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-03-11 Tue 08:55
+:ARCHIVE_FILE: ~/Projects/dispro/dispro.org
+:ARCHIVE_CATEGORY: dispro
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: dispro work
+:END:
+
+* DONE Sprav vykazy za februar pre UKF
+CLOSED: [2025-01-23 Thu 16:54] SCHEDULED: <2025-01-15 Wed> DEADLINE: <2025-01-31 Fri>
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-03-11 Tue 08:55
+:ARCHIVE_FILE: ~/Projects/dispro/dispro.org
+:ARCHIVE_CATEGORY: dispro
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: dispro work
+:END:

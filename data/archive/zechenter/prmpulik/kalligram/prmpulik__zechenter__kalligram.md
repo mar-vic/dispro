@@ -1,4 +1,4 @@
-# Prmpulík 
+# Prmpulík
 
 Päťdesiat i šesť ružových papúľ sa otvára, toľko hlasov rozličnej výšky
 čviriká, k tomu frfoce dvoma motúzmi poviazaný, rukami obratne krútený

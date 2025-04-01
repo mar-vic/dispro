@@ -1,0 +1,2210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1913768" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Malomestské rozprávky : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:41884706">
+     Jesenský, Janko (1874 - 1945)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     19317
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Jesenský, Janko
+     </tei:author>
+     <tei:title>
+      Malomestské rozprávky
+     </tei:title>
+     <tei:pubPlace>
+      Ružomberok
+     </tei:pubPlace>
+     <tei:publisher>
+      Ján Párička
+     </tei:publisher>
+     <tei:date>
+      1913
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-13">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Malomestské Rozprávky
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Šťastie v nešťastí, nešťastie v   šťastí.
+    </tei:head>
+    <tei:p>
+     Ďuro Koštial z Horných Luhov, veľký, kostnatý sedliak, s červenou,   pehavou tvárou, belavým obočím a neoholenými lícami, vyšiel z banky.   Hrmotne prichlopil dvere a len čo sa zohol za končitým klobúkom,   ktorý pohodil na zem, keď vchádzal, zamrmľal urazený:
+    </tei:p>
+    <tei:p>
+     — Vietor vás knísal!
+    </tei:p>
+    <tei:p>
+     Hodil klobúk na hlavu ledabolo, šuchol s brucha na bok kapsou,   ktorá sa mu pri sohýňaní sošmikla a poobzeral sa, kde je východ.   Potom pošiel ka­mennou dlažbou predsiene, búchajúc veľkými zabla­tenými   čižmami.
+    </tei:p>
+    <tei:p>
+     — Ba, desať žír, — pohundrával sám pre seba, — nech vás čert   berie... Čierny Fojták si príde k vám požičať, čo má osemdesiat   meríc!... Bohatým netreba a chudobnejším nepožičajú... Takí sú to   páni... Áno pre chudobu... Veru pre chudobu.
+    </tei:p>
+    <tei:p>
+     A posmešne sa uškrnul.
+    </tei:p>
+    <tei:p>
+     — Pol dediny aby sa ti podpísalo, — pokračoval v myšlienkach. — Aj   to vezmú akúsi knihu, pozerá do nej ten bruchatý s fúzami, pozerá ten   plešivý, čaptavý, pozerá mladý s červeným pod­bradníkom, tresknú hlavy   do vedna, šuškajú a počnú sa ťa vypytovať: „Aké máte numero domu?“   Poviem. To je nie dosť. „Kto je vaším súsedom?“ Poviem aj to. Zase   len pozerajú v tej knihe a spytujú sa: „Kto býva pri vás s hora, kto   býva s dola?...“ Na fiškála cengajú, aby pozrel grundbuch. Čakáš aj   hodinu. Nakonec ti zvestujú: „Slabé. Ešte jedneho žiranta...“   Nepohľadia ti do očí, či ich máš poctivé, ani na ruky, či si môžeš s   nimi zarobiť... Keby si im tak doniesol a nepýtal, ne­robili by toľké   komedie. Aj do remennej stolice by ťa posadili...
+    </tei:p>
+    <tei:p>
+     Vyšiel z predsiene do podbránia rozhorčený, ale akýsi veselší, ako   keď vchádzal. Neistota, ktorú pociťoval vtedy, ztratila sa v tom   okamžiku, ako mu povedali, že mu veru ani 100 zlatých nemôžu   požičať.
+    </tei:p>
+    <tei:p>
+     — Teraz je už všetkému konec, — myslel si, idúc pomaly podbránim.   — Môžem dostať aj tisíc písem, neobzrem sa o nič. Nech chodia...   Príde zelená koperda zo židovskej — do pece hodím, príde biela zo   starej špárkasy — na kúsky podria­pem, príde červenkastá z tejto — na   fajku si s ňou pripálim...
+    </tei:p>
+    <tei:p>
+     A už aj vytiahol zpoza sáry krátku fajočku so začadeným kupakom.   Otvoril ho. Popritláčal palcom tabak, vyňal z vesty zápalku, nadvihol   nohu, štrajchol po nohavici a priehrštím chrániac jej oheň, čakal,   kým sa rozhorí. Potom si pripálil, chytro jedno za druhým pocmukal,   prichlopil kupak a vypustil pár razy riedky, biely dym. Odhodil   zápalku a crkol cez zuby za ňou.
+    </tei:p>
+    <tei:p>
+     — Nemajú aj tak druhej roboty, nech vypisujú, — myslel ďalej vše o   tom istom. — Neobzrem sa o nič... Keď na to príde, nech si predajú.   Aspoň sa všetkého strasiem. Nebudem potrebovať vždy mysleť: tam ti   schádza dlžoba, tam ti schádza druhá, tam tretia... Pustím všetko.   Odľahne mi.
+    </tei:p>
+    <tei:p>
+     Toto rozhodnutie bolo, čo ho troška rozvese­lilo. Bol by sa stal   celkom veselým, keby bol mal pár krajciarov na fruštik. Trápilo ho už   len to, že musí ísť rovno domov — bez fruštika. Zase tri hodiny v tej   pľušti a blate. Žiadalo sa mu veľmi posedeť si na chvíľu a vypiť   píšťalu-dve v niektorej krčme... Ale, darmo je. Nedá sa. Peňazí niet   Zborgovať nezborgujú... Myslel si, že mu pomôžu. Bol by vyplatil tým   špatám, čo mu pred týždňom kravu a býčka s exekvovali a bolo by   zostalo aj na fruštik a aj krava s býčkom by boly bývaly   oslo­bodené... Ani s voza, ani na voz. Ani predať, aby si si odplatil,   ani požičať, aby si si kravu oslobodil.
+    </tei:p>
+    <tei:p>
+     — Zamotali ma, prekliati! — vykríkol nahlas a zahrozil päsťou,   kráčajúc po hradskej s nohy na nohu, ako by sa mu nechcelo.
+    </tei:p>
+    <tei:p>
+     Deň bol novembrový. Čas hmlistý, mokrý a chladný. Medzi stromovím   sedela sivá, nehustá hmla. Hradská na sto krokov ztrácala sa v nej.   Vrchov nebolo vidno. Polia boly pokryté sňahom, ktorý padal v   chumáčoch miešane s dážďom a roztápal sa hneď v žltom, hlinastom   blate cesty s hlbokými povyrývanými koľajami, plnými vody. V   prostriedku stálo rozriedené blato. Ono cvrkalo pod ťažkými čižmami   Ďura Koštiala. Očernetá ha­lena na remennom kožuchu s červeným hrncom   a koncami rukávov mokla. Červenkastý šál, čo mal okolo hrdla   obviazaný, vlažil mu krk, keď pohýbal hlavou. Na strieške končitého   klobúka shromažďovaly sa kvapky a tiekly shrnutým krajom, kvapkajúc   mu pred samým nosom čím ďalej tým častejšie.
+    </tei:p>
+    <tei:p>
+     Vari od týchto kvapák prišla mu na um žena Verona.
+    </tei:p>
+    <tei:p>
+     — Tá sa naplače, — pomyslel si, — a za ňou všetky deti. Bude to   rumádzgania.
+    </tei:p>
+    <tei:p>
+     A ako pred chvíľou sa mu zazdalo, že sa už rozhodol nestarať sa o   nič, tak teraz odrazu zase prišiel na to, že to nemôže byť a že sa   musí starať. Hneď a zaraz treba by sa bolo obrátiť a záležitosti   usporiadať.
+    </tei:p>
+    <tei:p>
+     Zase mu bolo smutne. Premýšľal, ako by to bolo, keby mu predali   kone, kravu, býčka, roľu pod Tŕnim, za Salašom, lúku Záhumenicu,   chalupu. Čo by robil? Na čo by bol potom na svete?… Čo sa na tých   roliach natrápil a teraz by ich mal popustiť. Medzi nimi sú aj   otcovské. Ten by sa aj v hrobe obrátil... Na čo by on potom vstával   zavčasu... Ani koní by nebolo, ani kravy... Čo napojiť, komu dať   žrať, komu podstlať, čo čistiť? Ľúto by bolo...
+    </tei:p>
+    <tei:p>
+     — Ach, Bože, Bože, — zabožekal nahlas a zavzdychol z hlboka. —   Kone predať? Zostane bez ních a treba sú. Býčka? Ten by šiel za   facku, s tým by si nepomohol a o krave ani nehovoriť. Bez kravy sa   ani dýchať nedá sedliakovi... A aj tak mu zakázal predávať ten   krivonosý, keď ho exekvoval... Len 100 zlatých keby bolo. Všetky   diery by zaplátal... Všade má síce nachytaných dlžôb, ale zaplátal   by... Majetok zaintabulovaný. Platiť nestačí... Ale stovku mať,   všetko by prišlo do koľaje... Potom by stačil popredať.
+    </tei:p>
+    <tei:p>
+     Rozmýšľal, kto by mu dobre stál, na čí podpis by dali. Keby tak   Fojták čierny podpísal... Rozloží mu veci, poprosí ho pre Boha... Ale   Fojták je lakomec, tvrdý, bez srdca človek. Ak sa mu nevysmeje,   vyhodí ho. Čo by taký boháč mal milosrdenstvo... Bohatí sú práve takí   tupí, čo sa srdca týče, ako tí po bankách. Udri sa po vrecku, keď sa   chceš s nimi shovárať. Hľadajú statočnosť vo vrecku a najdu ju v   plnom. Prázdne vrecko — nestatočný človek... Čerta netratí cti   chudoba... Chudobný človek hotová opica...
+    </tei:p>
+    <tei:p>
+     Volakto mu za chrbtom zakričal:
+    </tei:p>
+    <tei:p>
+     — Hohó!
+    </tei:p>
+    <tei:p>
+     Obzrel sa a ľakol. Šimle so zablatenými prsiami, zapriahnuté v   ľahkej žltej bričke, leteli mu rovno na chrbát. Chcel na pravo   skočiť, ale pozrúc na zadok, zdalo sa mu, že tadiaľ letí brička.   Trhol sa a skočil na ľavo s užaslou tvárou. Práve naopak. Oje ho už   búšilo do boka a spadol, zaryjúc nosom do rozvodneného blata. Klobúk   mu odletel. Kone ho pošliapali a dvoje kolies prešlo mu čosi vyše   kolien. Zostal ležať na bruchu v úžase, kým po­chopil, čo sa s ním   robí. Keď zvedel, že ho aj kone i vozík prešly, skúmal, kde ho bolí.   Zavrtel krkom — nič. Vtiahol brucho a nadul — nič. Vystrel jednu   nohu, potom druhú — akoby sa celkom nič nebolo stalo. Proboval si   ruky pokrčiť a na­tiahnuť, prešiel dlaňou po tvári a pozeral, či je   nie zakrvavený — nič, nič. Celkom zdravý je... Len čo ho strhalo a   strachu mu nahnali... To by bolo dobre, — hútal, — ale sa mu predsa   len mohlo niečo stať. Ako ľahko mu mohlo na príklad ruku alebo nohu   zlomiť, nedajbože brucho pritlačiť alebo tak pripučiť... Mihol okom   na bričku, ktorá zastala a na pánov, čo s nej soskočili. Stačil   kuknúť aj na dva krásne, rovnaké šimle a hneď ich aj odšacoval na   1000 zlatých... Keď môžu mať také kone, tak sú to páni a keď sú páni,   nech zaplatia za prekotenie, — uvažoval a obrátil sa na chrbát. Blato   stekalo mu s tvári, kým si ju rukávom nepoutieral. Zostal pri tom   všetkom zamazaný od hlavy do päty a nijako nedvíhal sa z blata. Ba,   čo viac, počal na ratu kričať. Vyvrátil ľavú nohu opätkom von a   skrčil v kolene. Potom sa zatrepal v bahne, ako ryba na suchu, oprel   sa o jeden lakeť a zas o druhý, akoby chcel vstať, ale nemohol a zas   sa len svalil a bezvládne zostal ležať, nesiahnúc ani za klobúkom,   ktorý čupel hore strieškou na tri piade od neho.
+    </tei:p>
+    <tei:p>
+     — Ježiš, Mária, — volal v trapiech, — nohu mi zlomilo. Čo si ja   počnem teraz? Ktože vás vyživí, deti moje drobné?... Verona moja, čo   si ty teraz počneš samotná?
+    </tei:p>
+    <tei:p>
+     Jeden pán v čiernej bunde s vyhrnutým golierom, v čiapke so   šiltom, tučnej tvári s hrdzavými, veľkými fúzami, prvý soskočil s   bričky a utekal k povalenému Ďurovi, zdvihnúc si šósy bundy, aby sa   nezablatily. Druhý, mladý, v krátkom remennom kabáte s malým   klobúčikom s tetrovím perom, v žltých, remenných kamašniach, držal   staršieho za rameno, aby sa nepokĺzol a utekal zároveň s ním. Kočiš v   gumovom plášti medzitým prekročil so zadného sedadla, kde predtým   sedel, na predné a chytil pustené opraty.
+    </tei:p>
+    <tei:p>
+     Ďuro sŕkal a svíjal sa, majúc nohu skrivenú opätkom von a skrčenú   v kolene.
+    </tei:p>
+    <tei:p>
+     — Nohu mi zlomilo, nohu mi zlomilo, — kričal plačlive, hľadiac   zúfanlive na pánov.
+    </tei:p>
+    <tei:p>
+     O chvíľku mu počal hlas slabnúť a zažmúril oči. Zdalo sa, že   nedýcha.
+    </tei:p>
+    <tei:p>
+     — Zamdlel, — povedal mladý s tetrovím perom.
+    </tei:p>
+    <tei:p>
+     — Nepríjemná vec, nepríjemná vec, — hundral starší tiež plačlive,   hľadajúc ručník po vreckách, aby si utrel zaslzené oči. — Bolo mi   treba poháňať...
+    </tei:p>
+    <tei:p>
+     — Čo robiť? — pýtal sa mladý, potichu, ako­by samého seba a   potiahol si v nesnádzach klo­búčik k nosu.
+    </tei:p>
+    <tei:p>
+     — Bežte za doktorom, bežte za doktorom, — rozkazoval starší,   obchádzajúc Ďura a rozkladajúc rukami. — Predám tie divé zvery...   Bolo mi to treba... Bežte pre doktora... Takéto nešťastie. Škrabal sa   po slyche a utieral si oči ručníkom.
+    </tei:p>
+    <tei:p>
+     — Takto ležať nemôže, — odporoval mladý, — musíme sa najprv o neho   postarať. Ukázal na Ďura, ktorý sa nehýbal.
+    </tei:p>
+    <tei:p>
+     Zavolali na kočiša a všetci traja vyložili zabla­teného Ďura na   bričku. Cvalom prešli do najbližšej dediny. Prvý dom bola krčma, ta   vnišli. Krčmár, chudý žid s malou šedivou bradou, zvráskavelej tvári   s červenými, ustavične slziacimi, zakarpavenými očami, vidiac pánov,   pustil ich do svojej izbičky so zatiahnutými fotelami a posteľou. V   izbe bol suchý, horúci vzduch od malej, železnej pece, v ktorej hučal   oheň. Posteľ odokryli a položili do nej Ďura, ktorý sa ešte vždy   nehýbal a mal skri­venú nohu.
+    </tei:p>
+    <tei:p>
+     — Pre doktora, pre doktora, — kričal pán v bunde, shodiac čapicu a   utierajúc si teraz už lysinu, ktorá sa mu v strachu zapotila. Plno   drobných krupäjov vystupovalo mu na čelo, záhyby nosa plnily sa mu   potom neustále a celá tvár sa blyšťala. V povedomí, že zapríčinil   smrť, zmäteno chodil po izbe a súril doktora.
+    </tei:p>
+    <tei:p>
+     Ďura trhlo. Už so tretí raz počul spomenúť doktora a srdce mu   zabúchalo.
+    </tei:p>
+    <tei:p>
+     — Veď, ak doktor príde, nuž ho prezre a všetko uvidí, — myslel si.   — Lepšie bude, keď sa zo­budím a skočím s postele... Alebo, keď sa aj   zobudím, a s postele jednako nesoskočím... Vec na uváženie...   Zostanem ležať, ale sa zobudím... Až pre doktora pošlú, času   dosť.
+    </tei:p>
+    <tei:p>
+     Zavzdychol a otvoril oči.
+    </tei:p>
+    <tei:p>
+     — Vzdychá, žije, — poznamenal mladý v kamašniach a prešiel ku   posteli. Starší pobehol za ním a sadol si na peľasť, nakloniac sa nad   Ďura.
+    </tei:p>
+    <tei:p>
+     — Čo vás bolí, spýtal sa.
+    </tei:p>
+    <tei:p>
+     — Všetko, — pošepol dokaličený, sťaby ani hovoriť nevedel od   slabosti, — ale nohu, nohu nemôžem vystreť...
+    </tei:p>
+    <tei:p>
+     — Ktorú to?
+    </tei:p>
+    <tei:p>
+     — Túto, — ukázal nosom a pohľadom na ľavú.
+    </tei:p>
+    <tei:p>
+     — Teda ľavá.
+    </tei:p>
+    <tei:p>
+     — Ľavá, ľavá, Bože moj... Moja žena... Za­vezte ma domov.
+    </tei:p>
+    <tei:p>
+     Hlas mu znel trasľavo a plačlive.
+    </tei:p>
+    <tei:p>
+     — Ja sa už postarám o vás, — uspokojoval tučný pán ... Doktora   pošlem, ako prídem do mesta.
+    </tei:p>
+    <tei:p>
+     — Nie, nie, načo doktora platiť. Žena Verona napraví. Tá už   nejednomu napravila... Ak by tá nie, potom.
+    </tei:p>
+    <tei:p>
+     — Odkiaľ ste? opýtal sa so sústrasťou.
+    </tei:p>
+    <tei:p>
+     — Z Horných Luhov.
+    </tei:p>
+    <tei:p>
+     — A ako sa voláte?
+    </tei:p>
+    <tei:p>
+     — Ďuro Koštial.
+    </tei:p>
+    <tei:p>
+     — Ďuro Koštial?
+    </tei:p>
+    <tei:p>
+     — Áno.
+    </tei:p>
+    <tei:p>
+     — Z Horných Luhov?
+    </tei:p>
+    <tei:p>
+     — Odtiaľ prosím.
+    </tei:p>
+    <tei:p>
+     Pán v bunde stal s peľasti a pošiel ku mladému. Vytiahol akési   písma z vrecka, nastrčil okuliare a pozeral do nich. Potriasol   hlavou, čudujúc sa náhode. Mrkol na chorého a udrel prstami po   písmach.
+    </tei:p>
+    <tei:p>
+     — Ten istý, — pošepol mladšiemu.
+    </tei:p>
+    <tei:p>
+     — Ale, — začudoval sa aj mladší.
+    </tei:p>
+    <tei:p>
+     — K nemu sme šli.
+    </tei:p>
+    <tei:p>
+     — Teraz ste vy jeho dlžníkom.
+    </tei:p>
+    <tei:p>
+     — Chudák.
+    </tei:p>
+    <tei:p>
+     Takto šepkali za chvíľu. Ďuro medzitým zase počal vzdychať čím   ďalej tým častejšie. Vzdychanie premenilo sa o chvíľu na fňukanie.   Konečne, akosi divne, neprirodzene rozplakal sa, vydávajúc zo seba   zverské, divoké zvuky, podobné zavíjaniu. Do tohoto zavíjania plietol   meno ženy Verony a detí Jana, Zuzy a Barbory.
+    </tei:p>
+    <tei:p>
+     Tučný pán zase zmäkol a chcejúc potlačiť pohnutie, zatrúbil do   šatky, sťaby si nos čistil. Prešiel zase ku posteli a sadol na   peľasť.
+    </tei:p>
+    <tei:p>
+     — Ja sa postarám, Ďurko. Nebanujte. Všetko bude v poriadku... A na   apatieku tu máte.
+    </tei:p>
+    <tei:p>
+     Vytiahol dve banknoty a dal ich Ďurovi.
+    </tei:p>
+    <tei:p>
+     — Tu máte, Ďurko. Ja som vina... Ak by nestačilo, len príďte ku   mne do mesta... Ja už pomôžem... Nohu vám napravia. Budete chlapom   ako predtým.
+    </tei:p>
+    <tei:p>
+     Ďuro pozrel na banknoty. Svetlasté a väčšie... Stovky... Dve   stovky. Práve toľko, koľko si žiadal.
+    </tei:p>
+    <tei:p>
+     Chytil pánovi ruku a bozkal ju.
+    </tei:p>
+    <tei:p>
+     — Ďakujem pánu veľkomožnému.
+    </tei:p>
+    <tei:p>
+     A v očiach zableskly sa mu úprimné slzy vďačnosti.
+    </tei:p>
+    <tei:p>
+     Páni odišli s tým, aby sa krčmár postaral o prevezenie sedliaka do   Horných Luhov.
+    </tei:p>
+    <tei:p>
+     Koštial sa skutočne v perinách odviezol domov. Žid mu privolal   ešte na cestu:
+    </tei:p>
+    <tei:p>
+     — Nedajte sa od tisícky.
+    </tei:p>
+    <tei:p>
+     Ale na tisícku nevyšlo. Ďuro na druhý deň išiel do mesta aj s   dvesto korunami, čo dostal za zlomenú nohu. Hlásil sa v banke, že   chce svoju dlžobu vyplatiť. Mladý s červeným podbradníkom mu oznámil,   že je jeho dlžoba už žalovaná, aby šiel ku advokátovi. Bankový sluha   ho zaviedol až ku dverom... Ďuro zaklopal, pritlačil kľučku a potichu   vtiahol sa do kancelárie. Pozrel a od ľaku ani dvere neprivrel.   Zostal, ako skamenelý stáť.
+    </tei:p>
+    <tei:p>
+     Pri veľkom písacom stolíku sedel včerajší pán s hrdzavými fúzami a   hľadel na neho.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Slnečný kúpeľ.
+    </tei:head>
+    <tei:p>
+     Mestský notár Škorec, s chudou umučenou tvá­rou, na ktorej kožka   len tak visela, si už zúfal. So dňa na deň mu bolo ťažšie prejsť cez   veľký mestský rýnok. Akýsi neurčitý pocit strachu sa ho zmocňoval,   keď prechádzal cez jeho holý, žabicou vydláždený priestor. Zdalo sa   mu, že sa v sa­mom prostriedku rynku potočí, zakrúti, nebude sa môcť   na nič podopreť a odpadne. Druhí mávajú ten istý pocit, keď musia   prejsť ponad potok cez úzku lavičku.
+    </tei:p>
+    <tei:p>
+     Dlho sa premáhal a chodil cez rýnok, aby vzdoroval tomuto strachu.   Konečne raz skutočne dostal závrat a musel sa opreť, na vidomoči   mno­hých, o stĺp lampy a tak stáť za chvíľku, kým sa osmelil ďalej   ísť.
+    </tei:p>
+    <tei:p>
+     Zdôveril sa s tymito pocitami aj mestskému doktorovi Edutovi,   mladému ešte človekovi, bez fúzov, s hústými bakombardami, dobrej a   vážnej tvári.
+    </tei:p>
+    <tei:p>
+     Doktor ho zachytil prejsť sa za mesto.
+    </tei:p>
+    <tei:p>
+     — Nervozita, — povedal mu, — šport, kamarát, a ozdravieš. V zime   ródle, korčule, ski, v lete chôdza, kúpele, menovite slnečný   kúpeľ...
+    </tei:p>
+    <tei:p>
+     — Neverím ani vzduchu, ani slncu, — odporoval temno Škorec. — Pre   mňa sa chystá tma — mozgová tma... Dovoľ, aby som sa ťa chytil. O   mnoho bezpečnejšie sa cítim, keď sa držím niekoho.
+    </tei:p>
+    <tei:p>
+     Šli poľnou cestou medzi brehami, ktoré sa už zelenaly novou,   bledozelenou trávou. Slnce lahodne pálilo cez hrubé súkno svrchníkov.   Vzduch prie­zračný a ľahký mimovoľne šíril nozdry a pľúca. Pohladkával   líca, ako neviditeľná, jemná hodvábna šatka. Tento závan prírody   vlnil drobnú oziminu a striasal kvet s kvitnúcich čerešieň. Cesta sa   už prášila a hrudky soschnutého blata mrvily sa pod nohami.
+    </tei:p>
+    <tei:p>
+     Doktor sa uštipačne zasmial:
+    </tei:p>
+    <tei:p>
+     — Neveríš vzduchu, ani slncu. Nepotrebuješ veriť, len pozreť pred   seba a zkúsiť ich... Aká bola táto cesta pred troma týždňami. Blato   po kolená, mláky. Pozri, teraz je ako dlaň... A tieto brehy Aké   smutné a holé boly. Pozri, rozzelenaly sa... I ty si také bahno a   mláka, holý a smutný breh... Buď na vzduchu a slnci, omladneš, ako,   ľaľa, tamten brezový hájik. Veru.
+    </tei:p>
+    <tei:p>
+     — Filozofia alebo poezia je, čo vravíš.
+    </tei:p>
+    <tei:p>
+     — Čoby. Zdravoveda... Vieš, čo? V júni začneme spolu slnečné   kúpele, aby ti nebolo samému smutno. Pribereme k sebe aj zverolekára   Papsta. To je tiež taký nervózny pán. Vždy sa chytá za hlavu a   tancuje ešte aj vtedy, keď sedí pri pive.
+    </tei:p>
+    <tei:p>
+     Tak sa stalo, že notár Škorec, doktor Edut a zverolekár Papst   chodili každé pekné letné odpo­ludnie kúpať sa k úpustu, neďaleko za   mestečkom, tak asi dvadsať minút. Miesto bolo pekné. S jednej strany   vŕšok celý zelený, na jeho úpätí bujná mäkká pažiť. S druhej strany   husté nepriehľadné vrbiny s drobným riečnym pieskom na brehu. Práve   dobrým na vyvaľovanie sa a praženie na slnku. Za vŕškom viedla   hradská. Odtiaľto, kto bol zvedavý, mohol sa dívať na kúpajúcich sa.   Ale, ktože sa bude dívať na to, keď sa chlapi kúpu? A potom, ktože   chodí v lete po obede po hradskej? Nevýnde veru ani Marina   Sirenákova, ani pehavá, ale pekná Rozetka Mandalíkova, ani mladá,   kučeravá podsudcová, zapudrovaná Betty Rišáková. Tie vychádzajú len   večierkom, keď mesiac svieti, ako hviezdy. Pred gazdami,   vandrovníkami, dedinčanmi a dedinčiankami niet sa čo hanbiť.
+    </tei:p>
+    <tei:p>
+     Kúpali sa tedy páni veselo. K slnečnému kúpeľu pripojili aj   gymnastiku Müllerovho systému. Chodili po brehu, hádzali rukami raz   pred seba, raz od seba, drgali a krútili nohami, na bruchá sa   hádzali, na chrbty prevaľovali a to všetko podľa komanda doktorovho,   ktorého bolo poznať iba po hustých bakombardoch a nohavičkách   červenej barvy. Okrem toho doktor mal najhrubšie nohy a zarastené   prsia. Notár mal modré nohavičky, ale poznať ho bolo aj po   podlhovastej hlave s chumáčom mokrých vlasov v čele a po tenkých ako   trieska nohách a ramenách. Zverolekár Papst pýšil sa s nohavič­kami s   červenými a bielymi pásikami, guľatou, plešivou hlavou. Ináče ich   nebolo rozpoznať.
+    </tei:p>
+    <tei:p>
+     Leto bolo krásne, horúce, bez vetrov, a tak sa naši páni každé   popoludnie kúpali. Ohoreli od slnca od hlavy do päty. Notár sa už-už   zotavoval a bez strachu prešiel so tri razy cez rýnok. Zve­rolekár sa   už tak nehniezdil a nebúchal do boku súsedov, čo sedávali s ním v   kiosku mestského hostinca. Doktor Edut však tešil sa, že jeho rada   pomohla menovite Škorcovi a radil každému slnečný kúpeľ, spojený s   vodným a Müllerovou gymnastikou.
+    </tei:p>
+    <tei:p>
+     Ale nie preto žijeme v malom meste, aby sme sa nikdy nezasmiali a   len svoje nervy kurovali. Zahrajú nám aj tu veselé frašky, keď aj nie   chýrni umelci, ale raz ten a druhý raz ten. Niekedy aj samé   predstavenstvo obce...
+    </tei:p>
+    <tei:p>
+     Matej Jakub, polremeselník a polgazda, kosil v jedno odpoludnie   ďatelinu na svojej ráte neďa­leko úpustu. Slnce pražilo, ako by sa   nebol zohrial. Zohrial sa veru do červena a do potu. Pritom ho veľmi   pálily nohy v čižmách. U nás sa síce takí ľudia, ako bol Jakub, od   krstu do smrti nekúpu, vyjmúc tých pár detských kúpeľov, ale, divná   vec, Jakubovi zachcelo sa odrazu aspoň nohy si omočiť.
+    </tei:p>
+    <tei:p>
+     Hodil kosu a už sa spúšťal s vŕšku k úpustu, keď sa odrazu   zastavil. Traja celkom nahí ľudia s fúzami a bradami, v krátkych,   barvistých noha­vičkách, krútili hlavami raz na pravo, raz na ľavo.   Jakub tiež pokrútil hlavou a pozrel na nebo, či neletí nejaký balón.   Ale o balónu ani chýru. Siné, hlboké, bez obláčku nebo klenulo sa nad   ním. Čo tí vrtia toľko hlavami? Jeden z naháčov vykríkol, a tu,   neslýchaná vec, všetci traja počali sa pliaskať po stehnách. Dvíhali   ruky do vysoka a rýchlo spúšťali ich k lýtkam. Pliaskalo to, ani čoby   piestom prali.
+    </tei:p>
+    <tei:p>
+     Jakub nerozumel. Napadlo mu hneď, že to budú iste tí traja blázni,   o ktorých čital v novin­kách, že ušli z blázinca a ponevierajú sa po   okolí. Učupil sa a štvornožky vyšiel nazpät na vŕšok, len aby ho   nezbadali a za ním sa nepustili. Ani sa len neobzrel. Keď sišiel na   hradskú, skoro behom pustil sa dolu ňou, aby vec oznámil slávnemu   predstavenstvu... Takto znebezpečovať ľudí!... Ak im tak napadne   všetkým trom za mnou sa pustiť. Krásne by bol vyzeral... Stretol sa s   Mrvenčíkom, gazdom z Dolnej ulice, ktorý tiež išiel s kosou na   ďatelinu. Vtedy mu napadlo, že si kosu nechal na ráte.
+    </tei:p>
+    <tei:p>
+     — Nože, súsedko, tam mám kosu na mojom ďatelinisku. Opatri mi ju.   Idem s vážnou vecou.
+    </tei:p>
+    <tei:p>
+     — S akou?
+    </tei:p>
+    <tei:p>
+     Jakub zamrkal očima smerom k úpustu:
+    </tei:p>
+    <tei:p>
+     — Pri úpuste si daj pozor, — upozornil ho.
+    </tei:p>
+    <tei:p>
+     — Čože sa stalo?
+    </tei:p>
+    <tei:p>
+     — Akísi blázni sa kúpu... Ušli z mesta. Po­mysleli si, že sa okúpu   a tam sú. Hrozia sa proti nebu a pliaskajú jeden druhého.
+    </tei:p>
+    <tei:p>
+     — Nehovor.
+    </tei:p>
+    <tei:p>
+     Jakub sa zadušil.
+    </tei:p>
+    <tei:p>
+     — Idem to oznámiť predstavenstvu, — podotkol vážne, — a ty si daj   pozor, aby ťa nezbadali.
+    </tei:p>
+    <tei:p>
+     Mrvenčík sa chcel vrátiť, ale sa stretol s Janom Holubom, mešťanom   z Horného konca. Obidvaja potom osmelili sa pozreť s vŕšku na   kúpajúcich sa. Šly tadiaľ dve ženy a tiež sa zastavily. Zastali sa   dívať aj traja čižmári, ktorí šli s jarmoku a niesli na žrďach   nepredané čižmy. Onedlho bola na vŕšku celá kopa ľudí a smiala sa   pohybom a posunkom našich naháčov, kúpajúcich sa raz vo vode, raz na   slnku a gymnastizujúcich sa. Ale smiech bol tichý, tlumený, aby to tí   traja nejako nepočuli a nezbadali divákov. Doktor Edut raz vyskočil   na breh s pažiťou, a za ním šikovným pohybom vyhodil sa na breh aj   notár, zverolekár sa už počal tiež driapať, a čižmári už aj brali   svoje žrde, plašiac:
+    </tei:p>
+    <tei:p>
+     — Na nás idú!
+    </tei:p>
+    <tei:p>
+     — Všetci vyhrnuli sa na hradskú.
+    </tei:p>
+    <tei:p>
+     — Ide rychtár, — povedal ktosi.
+    </tei:p>
+    <tei:p>
+     Skutočne, vynorila sa hrubá a veľká postava pá­na rychtára obce,   Ernesta Smaženíka, v bielych plá­tennych šatách, v mäkkej košeli bez   kravaty, so sla­meným klobúkom, posoteným na tylo. V ruke mal   trstenicu a rozháňal ňou pri každom kroku. Poná­hľal sa veľmi a váľal   dlhé kroky. Pri ňom drobčil krátky Jakub, majúc klobúk dolu s hlavy   od teploty. Obďaleč po bokoch rychtárových šli dvaja mestskí sluhovia   so šabľami.
+    </tei:p>
+    <tei:p>
+     Rychtár so smrašteným obočím prezrel zástup.
+    </tei:p>
+    <tei:p>
+     — Kde sú? — opýtal sa prísne.
+    </tei:p>
+    <tei:p>
+     Jakub ukázal k úpustu.
+    </tei:p>
+    <tei:p>
+     Rychtár vyšiel na vŕšok a pozrel dolu. Zástup šiel za ním.
+    </tei:p>
+    <tei:p>
+     — Kto sú to? — spýtal sa zase, práve tak prísne, ako predtým.
+    </tei:p>
+    <tei:p>
+     Nik nevedel.
+    </tei:p>
+    <tei:p>
+     — Choďte, Jakub, a oslovte ich, aby sa hneď obliekli, — vy ste   boženík.
+    </tei:p>
+    <tei:p>
+     Jakub sa poškrabal za ušima.
+    </tei:p>
+    <tei:p>
+     — Ja? Prečo ja?
+    </tei:p>
+    <tei:p>
+     — Vy ste boženíkom, — opätoval rychtár.
+    </tei:p>
+    <tei:p>
+     — To nepatrí boženíkovi... Veru... Aby ma zmlátili, — protestoval   Jakub a odstúpil od rychtára do pozadia.
+    </tei:p>
+    <tei:p>
+     — Choď ty, — rozkázal Smaženík mladšiemu mestskému sluhovi, — len   zhurta na nich, aby sa hneď a zaraz obliekli, že im to rozkazuje   rychtár... No, čo sa nehýbeš?... Rozkazujem ti, marš!
+    </tei:p>
+    <tei:p>
+     Sluha sa nehýbal. Pomyslel si na dieťa, čo sa mu pred mesiacom   narodilo. Ktože ho opatrí?
+    </tei:p>
+    <tei:p>
+     — Pán rychtárko, — povedal nahlas, — ktože sa potom bude starať o   môjho Ďurka?
+    </tei:p>
+    <tei:p>
+     Ani starší sluha sa neopovážil. Čižmári smelí chlapci sa   vyhovorili, že ich nepočúvnu. Mrvenčík sa len zasmial a povedal: „Ja?   Dobre by bolo.“
+    </tei:p>
+    <tei:p>
+     — Akože ich zlapeme? — hútal rychtár, — a keď ich zlapeme, nemáme   ich čím poviazať... A keby sme aj mali ich čím poviazať, ako ich   odšutrujeme?
+    </tei:p>
+    <tei:p>
+     Traja kúpajúci sa práve v tomto čase počali otvárať a zatvárať   ústa.
+    </tei:p>
+    <tei:p>
+     — No, blázni, — hundral rychtár, — otvárajú bez príčiny papule...   Šándor, — obrátil sa k mlad­šiemu sluhovi, — choď a daj zapriahnuť do   mestskej príležitosti, príďte sem a dones aj povrazy. Ale sa   ponáhľaj!
+    </tei:p>
+    <tei:p>
+     Sluha odbehol.
+    </tei:p>
+    <tei:p>
+     Naháči ešte za chvíľu otvárali a zatvárali ústa, potom odrazu   udreli sa po stehnách a otrčili ruky s roztvorenými dianiami proti   sebe. To bol ich Müllerovský pozdrav. Hneď za tým počali sa   obliekať.
+    </tei:p>
+    <tei:p>
+     Ledva si notár položil veľký slamený klobúk na hlavu, aký nik   nenosieval, rychtár si pľasol do dlaní a vykríkol v najväčšom   podivení:
+    </tei:p>
+    <tei:p>
+     — Veď je to náš notárko!
+    </tei:p>
+    <tei:p>
+     Dohrmel koč.
+    </tei:p>
+    <tei:p>
+     — Veď je to doktor Edut, — skríkol Jakub.
+    </tei:p>
+    <tei:p>
+     Konečne poznali aj zverolekára.
+    </tei:p>
+    <tei:p>
+     — Žeby sa všetci traja boli zbláznili, nemôže byť, — pomyslel si   rychtár a hodiac za ním sto­jacemu Jakubovi dosť nahlas do očí, že je   mamľas sišiel dolu vŕškom ku rieke. Pozdravil sa pánom a zavolal im   na druhý breh:
+    </tei:p>
+    <tei:p>
+     — Nech sa páči na tento breh vystúpiť. Hore vás čaká mestská   príležitosť. Môžete sa odviezť...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Výborník.
+    </tei:head>
+    <tei:p>
+     Pán majster Dionýzius Ježo nebol len jedno­duchým čižmárom, ale aj   členom slávneho obec­ného výboru. Zametal síce na rozkaz ženy aj pred   svojím domom, ale bol hrdým, že môže zametať všade. Na príklad z   mestského hostinca vyteká kanál. Celý rýnok smrdí. Keby chcel, mohol   by pozdvihnúť slovo proti tomu. Hostinský to dobre vie, a preto mu je   kamarátom. Vždy mu odmerá jak sa patrí. Vody do vína neprileje. Bojí   sa jeho slova. To je to. Nuž a ruka ruku umýva. K vôli kamarátstvu   čuší. Keď smrdí, nech smrdí. Nech druhých bolí hlava... Alebo, len   jedno slovko by ho to stálo, a rychtár by bol hore nohama. Povedzme   len maličkosť. Povedzme o gazdovaní s petroleumom. Päť lámp je v   našom mestečku a nikdy nesvieťa. Koľkože sa prijalo v präliminári?   Akože znely účty ohľadom osvetlenia? Kedy a koľkorazy sa svietilo?   Kdeže je ten petrolej? Há? A keď sa s ním v meste nesvieti, ktože s   ním osvetľuje? Hm? Nuž ale rychtár mu je tiež vždy dobrým. Čo jeden   mestský oldomáš, vždy ho zavolá. Čoby sa on za prsty ťahal s ním? Keď   je druhým dobrý, jemu je ešte lepší. Ale je pravda, že keby pán   majster Ježo chcel, neboly by v obci ani polgárky. Pravda, kto je   múdry, nebude nikdy proti školám, a proti vývinu mestečka. Všetci sa   naučíme po „uhorsky“. To je prvé. A keď toto nastane, ký čert   rozpozná majstra Ježu od veľkomožného slúž­neho Čillagošiho. Len tá   reč ich delí. Rozum, manýr jednaký. S profesormi a ich famíliami   navalí sa do mesta ľudí a peňazí. To je druhé. Blata v meste hrúza,   budú sa lepšie míňať, keď nie iné, aspoň čižmy. Peňazí má síce — ale   len bitky je dosť. A potom, potom... Nuž ale hlavná vec je reč...   Nedávno chceli páni akýsi trotoár. Každý si má svoje preddomie   vyložiť kameňami, aby aj keď je blato, bolo sucho. Toto sa už pánu   majstrovi ne­páčilo. Keď je sucho, netreba trotoáru a keď je blato,   pľušť, nečas, aj ten vrabec sa uchýli pod strechu. Nech každý čaká,   kým sa vyjasní. A ten, ktorý musí, nech príde k nemu, k pánu   majstrovi. Dá mu čižmy po hrdlo a lacno. Nie sú na to čižmy, aby sa   nenosily. Ako to slnce, dážď, hrma­vica, chumeľ, tak aj čižmy sú od   pána Boha. Na to dal pán Boh rozumu, aby sme sa proti neho­dám mohli   brániť. Preto vieme, kedy treba chodiť v črieviciach a kedy v   čižmách. Čižmy a nie trotoár. Dosiaľ sme boli bez neho, budeme aj na   ďalej.
+    </tei:p>
+    <tei:p>
+     „Neodhlasujeme! Apelujeme!“ určil pán majster Návrh len-len že   neprepadol. Ale keď pán notár Žilinský vstal a složiac okuliare   vysvetlil, že je dlažba potrebná, ako kus chleba, preto, aby sme sa   nepotopili, keď je blato, a aby sme sa nevydusili, keď je prach, a   keď na to aj pán rychtár prikývol, uznali všetci, aj pán majster, že   už takto áno, to sa rozumie, je vec potrebná. Mnohí zakričali aj   „iljen!“ Ale je pravda, že keby bol pán majster chcel, návrh   prepadne, ako panslávsky kandidát.
+    </tei:p>
+    <tei:p>
+     Takýto potentát bol Ježo v obecných záleži­tostiach. Už by ho aj   boli vyvolili za podrychtára, ale si ešte pestoval svoje remeslo. Len   to mu ne­dovolilo. Ináče mu to ani netreba. Ako výborník zastane si   vždy hrdo, neodvisle.
+    </tei:p>
+    <tei:p>
+     Kto by uhádol príčinu, že aj ten najsmelší bo­jovník býva vo svojej   domácnosti najpokornejším otrokom? Pán majster bol tiež vojakom.   Nebál sa ani slepých, ani ostrých patrónov. Neraz mu revaly kanóny do   uší pri manévroch a nebál sa. Odhodlane hnal sa na nepriateľa, keď   zabubnovali, alebo za­trúbili na šturmu. Hrdo stál neraz pred   generálmi a smelo odpovedal, keď sa ho pýtali. A aj teraz. Či nie on   jediný je smelý vo verejných záležitostiach? Ako hromžieval pred   mestským domom na pánov. Ako zúril na nich po zasadnutiach. Videli   sme, že sa nedal a vždy povedal: „To sa mi páči. To nie!“ Kto ho   videl pri verejnom účinkovaní, nebol by veril, že tento istý človek,   ako pokorne vbíjal drevené klince do podošiev. Ako stával pred svojou   tučnou pani majstrovou Zuzanou rodenou Kiš. Keď vchádzala do chyže,   už sa mu kladivko kĺzalo a mráz mu išiel po chrbte. V okamžiku   prebehol mysľou, či ozaj nespravil niečo zlého? Ale či mal pokojné   svedomie, či nie, vše si myslel, že niečo vyparatil alebo nespravil   čo mal. Hneď a zaraz mu prišly všelijaké otázky na myseľ. — Či som ja   ozaj podstlal kravám? Ale hej... Narezal som burgyne?... Tak je.   Narezal. Dal som sviniam žrať? Dal... Dobre je... Pil som, či nie?...   Nepil... Tak je všetko v poriadku... Nemôže mať proti mne nič —
+    </tei:p>
+    <tei:p>
+     Ale žena je preto ženou, aby niečo vymyslela. — A si narúbal   dreva? — ohriakla ho.
+    </tei:p>
+    <tei:p>
+     — Tu máš! — myslel si pán majster, — veď je tak. Nenarúbal som,   ale keby bol aj narúbal, iste by sa spýtala, či som dvor zamietol. A   keby bol aj dreva narúbal, aj dvor zamietol, na každý pád by ma bola   poslala do sklepu pre ocot.
+    </tei:p>
+    <tei:p>
+     Ale pán majster ani neodpovedal. Hodil topánky a kladivko a už sa   aj bral drevo rúbať. Rúbal, rúbal, kým mu žena nepovedala:
+    </tei:p>
+    <tei:p>
+     — Ešte vše rúbeš? Nemáš ty druhej roboty? Do polnoci bude tu   kálať... Nepomyslí na remeslo.. Chumaj!
+    </tei:p>
+    <tei:p>
+     A pán Ježo vrátil sa k trojnohe. Chudák! Akokoľvek sa usiloval,   nikdy nevyhovel svojej po­lovičke. Darmo zametal, čistil, rúbal,   varil, halušky hádzal, stával pri sporáku na ženin rozkaz, aby mlieko   nevykypelo, hrnce k ohňu pristavoval a od ohňa odstavoval... Nebol by   vyhovel vari ani vtedy, keby sa bol na hlavu postavil. Obľahčilo sa   mu iba vtedy, keď šiel na mestské zasadnutie. Žena skrotla.   Neodporovala, len naučenie mu dávala:
+    </tei:p>
+    <tei:p>
+     — Ale, aby si niečo nevykázal, ty trubiroh!
+    </tei:p>
+    <tei:p>
+     Ježo len čo zavrel dvercia a pošiel na dvadsať krokov od svojho   domu, už sa usmieval, hruď sa­mu rozšírila, dýchal voľne a vážne sa   opieral o palicu, kráčajúc k mestskému domu. Hodil kedy-tedy hlavou,   ako by ho golier tlačil, poťahoval krátky kabátik a mrdal plecmi.   Kedy-tedy zdvihol ukazovák ku striežke svojho klobúka na znak   pozdravu a bol zas hrdým a sebavedomým.
+    </tei:p>
+    <tei:p>
+     — Dobrý deň, sváko! — pozdravovali sa mu.
+    </tei:p>
+    <tei:p>
+     — Ďakujem.
+    </tei:p>
+    <tei:p>
+     — Kdeže, kde?
+    </tei:p>
+    <tei:p>
+     — Do zasadnutia.
+    </tei:p>
+    <tei:p>
+     A vypäl sa bez toho, žeby sa bol zastavil. Nie veru, nikto by   neuveril že tomuto ctenému výborníkovi nadáva žena do trubirohov,   takú úctu vzbu­dzoval pred tými, ktorí ho stretali.
+    </tei:p>
+    <tei:p>
+     Ale nič netrvá večne. Menovite sláva nie. Ako keď sa chlapec srúti   s lipy, kde vtáčence vyberal. Len pred chvíľou bol vysoko nad   chalupami a hľa nevie sa posbierať ani so zeme. Jediná minúta,   okamžik.
+    </tei:p>
+    <tei:p>
+     V jedno hmlisté jasenné popoludnie pán majster tiež takto hrdo   kráčal k mestskému domu. Hmla sa rozostierala ulicami a oblievala   vlahou tvár. Bol to dážď bez kvapák, ako by si sa kúpal v chladnej,   nepríjemnej pare. Tma bola už o druhej. Žlté bahno čvrkalo pod   nohami, keď bolo treba prejsť cez ulicu.
+    </tei:p>
+    <tei:p>
+     Išlo sa o osvetlenie mestečka. Nedá sa určiť príčina, ale Ježo   nenávidel svetlo. Keby bol mal aj rád svetlo, neišlo mu do hlavy   osvetlenie. — Osvetlenie? — myslel si, — veď je. Päť lámp horí,   vlastne by malo horeť. Posiaľ nehorievaly, to je pravda... Ale práve   preto netreba osvetlenia. Len treba týchto päť lámp riadne každý   večer zapáliť a bude svetla dosť a dosť... Lebo, na príklad, vezmime   rýnok. Lampa pri kostole osvieti pol rynku. Za kostolom by síce aj   takto bola tma, ale tu je krčma Steinova. Odtiaľ ide svetlo a tak je   aj za kostolom svetla dosť. Rýnok je tedy celý osvietený. Keď pridáme   aj večnú lampu, čo je na kríži, ani Pešť je nie lepšie osvetlená...   Len uvážiť veci... Ďalej. V jarmočnej ulici je druhá lampa. Osvieti s   dolného konca práve pol ulice, ale tu je zas rynková lampa, tá   osvieti druhú polovicu. Tedy celá jarmočná ulica je osvietená. A to   sú len dve lampy. Zvyšujú ešte tri. To je na ostatok mesta celkom   dosť. Múdri ľudia to boli, čo tie lampy porozostavovali...
+    </tei:p>
+    <tei:p>
+     Stretol sa s kolegom Jančíkom, tiež poctivého remesla čižmárom a   výborníkom. Podali si ruky a šli spolu na zasadnutie.
+    </tei:p>
+    <tei:p>
+     — Čo to zase chcú? — spýtal sa Jančíka.
+    </tei:p>
+    <tei:p>
+     — Osvetlenie, — zasmial sa Jančík.
+    </tei:p>
+    <tei:p>
+     — Na kieho čerta?
+    </tei:p>
+    <tei:p>
+     — Čo ja viem?
+    </tei:p>
+    <tei:p>
+     — Ale veď to netreba.
+    </tei:p>
+    <tei:p>
+     — Čoby bolo! Kto je poctivý, za vidna ide domov. Trafí aj bez   lampáša.
+    </tei:p>
+    <tei:p>
+     — Nuž pravda. To bude iste len na to, aby pisári a všeliakí opití   lumpi nepadali do Jalovky, keď idú v noci z krčmy.
+    </tei:p>
+    <tei:p>
+     Jalovka bola riečka, čo tiekla cez rýnok.
+    </tei:p>
+    <tei:p>
+     — Tých je nie škoda.
+    </tei:p>
+    <tei:p>
+     — To je tak. Nech sa potopia.
+    </tei:p>
+    <tei:p>
+     Pripojil sa k nim červený mäsiar Trupák.
+    </tei:p>
+    <tei:p>
+     — Bude búrlivé zasadnutie, — povedal.
+    </tei:p>
+    <tei:p>
+     — Pre to svetlo? — spýtal sa Ježo.
+    </tei:p>
+    <tei:p>
+     — Preto. A vy vari budete zaň hlasovať? — Nebojíte sa pána Boha?   Na čo že je noc? Aby ľudia spali. Zákon boží chcú narušovať. Keď má   byť tma, nech je tma. Deň je na svetlo...
+    </tei:p>
+    <tei:p>
+     Takto smýšlali všetci jednoduchí výborníci. Kto bol poriadny   kresťan, bol tohoto náhľadu. Pred bránou mestského domu už ich stálo   so dvadsať v kope. Šumeli, ako bzučia včely, keď sa roja. Šum sa   zmáhal. Bolo počuť aj výkriky:
+    </tei:p>
+    <tei:p>
+     — Nové prirážky... Zase prirážky... To sa rozumie... Kto to   vydrží? Na čo sú lampáše... To je lacnejšie... 200 percentov... Žiť   sa nedá. Stolár Žitný už aj päste dvíhal, a nadával rychtárovi do   panskej lásky na zajačom chvoste.
+    </tei:p>
+    <tei:p>
+     Išla pomimo kostolníkova žena a zastavila sa.
+    </tei:p>
+    <tei:p>
+     — Čo to bude? — spýtala sa Ježu, ktorý stál opodiaľ a rozhadzoval   rukami.
+    </tei:p>
+    <tei:p>
+     — Búrlivé zasadnutie, — odvrkol tento s vysoka.
+    </tei:p>
+    <tei:p>
+     — Búrlivé zasadnutie, — zachytila kostolní­kova, — čo je to? To je   niečo strašného... Búrka. Tam sa iste budú biť. Strieľať. A Ježová si   pustí muža. Veď keď ho Trupák ovalí, amen, je po ňom... Všetci majú   palice a páni iste pištole... Búrlivé za­sadnutie... Zhýkla a odbehla   povedať to Ježovej.
+    </tei:p>
+    <tei:p>
+     Medzitým sa otvorilo okno nad pánmi výborníkmi a zjavila sa   plešivá hlava veľkomožného pána slúžneho, pána Čillagošiho.
+    </tei:p>
+    <tei:p>
+     — Nech sa páči, páni, — zavolal na nich, — zasadnutie sa   počína.
+    </tei:p>
+    <tei:p>
+     Výborníci stíchli, ako na povel. Sobrali sa jeden po druhom do   brány, potom hore schodmi do poradnej siene.
+    </tei:p>
+    <tei:p>
+     Tu už sedeli páni okolo dlhého, zeleným súknom obtiahnutého stola   na starých, remenných stoliciach. Za vrch stolom sedel pán rychtár   Malinský. Pred ním písma a zvonec. Pri ňom na jednom boku slúžny s   plešivou hlavou a bakombardami; veliteľ hasičov Podkylavý, starý   mládenec s červenou tvárou a hrdzavými fúzami; fiškál Marinovič s   pre­bitým čelom. Na druhom boku notár, ktorý značil prítomných pánov;   kupec Lindenberg s tvárou ako vysušená slivka; zemský pán Hubert s   dlhou še­divou bradou a trasúcou hlavou; inžinier Hluchý, apatekár   Racký a iní. Sedeli vážne, v očakávaní, kým si výborníci posedajú na   lavice pod oknami pre nich určené. Konečne si posedali. Nastala   ti­chosť. Rychtár otvoril zasadnutie. Podľa obyčaje privítal pánov a   ďakoval, že sa v tak hojnom počte dostaviť ráčili.
+    </tei:p>
+    <tei:p>
+     — Lebo, — hovoril, — uraim, páni moji, punkt nášho dneskajšieho   zasadnutia je veľavýznamný. Pojednávať sa má návrh, nášho tu   prítomného pána, vysokozaslúžilého pána inžiniera.
+    </tei:p>
+    <tei:p>
+     Ktosi zavolal „iljen!“
+    </tei:p>
+    <tei:p>
+     — Dľa tohoto plánu, tervezetu, udi kýrem, — pokračoval rychtár   obrátiac sa k inžinierovi, ktorý na znak súhlasu prikývol hlavou, —   slávne mestečko naše dalo by sa osvetliť takzvaným elektrickým   svetlom veľmi snadno a veľmi lacno... Vieme, že je v Nedašovciach   papiereň, v ktorej sa dorába elektrika... Tu sa podáva plán, akoby   sme z tej fabriky mohli túto elektrinu, aby som sa dobre vyslovil,   tak rečeno preniesť. Udi kýrem?... — Pán inžinier znova pokýval   hlavou na znak súhlasu. Rychtár pokračoval: Svetlo, uraim, páni moji,   je vec potrebná, lebo, ako bez slnca nebolo by dňa, tak bez svetla   nemohli by sme deň predĺžiť... Každému zaiste leží na srdci vývin   našeho mestečka a svetlo je vývin. Svetlo...
+    </tei:p>
+    <tei:p>
+     Dosť dlho pokračoval, krútiac sa okolo svetla ako nočný komár.   Odrazu zastal. Pozrel ku dverám a otvoril ústa. Kľučka silno štrkla.   Dvere tuhým nárazom rozletely sa dokorán a buchly o stenu. Do siene   vbehla veľká, bruchatá žena so zamúčenou fertuškou a rozcuchanými   vlasmi. Červenú šatku mala spustenú na hrdle. Na čele perlil sa jej   pot. Bola to pani majstrová Zuzana Ježo rodená Kiš. Ježo ju prvý   poznal a uchýlil sa za veľkú kasňu. Notár už-už chcel zapísať   novoprišlého výborníka, ale vidiac, že je to žena; užasol a tak   pritlačil tužku o koncept protokola, že sa mu zlomila. Mestský   pokladník, mysliac, že ide niekto porcie platiť, pobehol, ale   sklamaný vrátil sa, poznajúc Ježovú, ktorá svoje porcie už dávno   zaplatila. Apatekár skočil na rovné nohy. Statkárovi sa počala ešte   väščmi hlava triasť. Slúžny Čillagoši v prekvapení strhol rukávom   kalamár.
+    </tei:p>
+    <tei:p>
+     — Kde je môj Dynko? — vykríkla pani maj­strová, fučiac ako kováčske   mechy. — Kde je môj muž?... Ježo, kde si? Ja si ho nedám zabiť! —   kričala, behajúc sem i tam a hľadajúc svojho muža.
+    </tei:p>
+    <tei:p>
+     Dynko sa osmelil a vyšiel zpoza kasne. Myslel sám, že sa mu žena   zbláznila.
+    </tei:p>
+    <tei:p>
+     — Tu som. Čo chceš? Čo sa ti robí? — za­volal.
+    </tei:p>
+    <tei:p>
+     Pani majstrová ako tygrica skočila k nemu a chytila ho za   rukáv.
+    </tei:p>
+    <tei:p>
+     — Hybaj! Hybaj, ty trubiroh!... Veď ti ja dám... Počkaj! Ty   ozembuch! Máš štyri deti doma a ty, chumaj, ideš sem do búrlivého   zasadnutia. Ja ti dám búrlivého zasadnutia! Marš! —
+    </tei:p>
+    <tei:p>
+     Chytila ho za pazuchu a tisla ku dverám. Pán majster sa len   málinko zpieral. Išiel potichu a zahanbený.
+    </tei:p>
+    <tei:p>
+     — Ale, ale stryná! — volal ktosi. Pani maj­strová nevidela a   nepočula. Nepopustila nešťastného majstra a len kričala:
+    </tei:p>
+    <tei:p>
+     — Dám ti ja búrlivého zasadnutia! Len sa mi ešte raz opováž do   búrlivého zasadnutia!
+    </tei:p>
+    <tei:p>
+     Notár sa hlasno zasmial. Pochopil, o čo ide. Povedal čosi   slúžnemu. Ten sa zarehotal a buchol rukou o stolík. Apatekár sa už   tiež smial. Hubertovi až slzy padaly. Onedlho sa smialo celé slávne   zasadnutie. Niektorí pobehli za Ježovci, ale inži­nier ich   zastavil:
+    </tei:p>
+    <tei:p>
+     — Nech idú do čerta! — povedal.
+    </tei:p>
+    <tei:p>
+     Mnohí šli k oknám a dívali sa, ako pani majstrová šutruje cez   rýnok svojho manžela a za­chádzali sa od smiechu.
+    </tei:p>
+    <tei:p>
+     Dlho trvalo, kým pánu Hubertovi prestaly slzy cupkať, a kým sa pán   rychtár od smiechu prestal krčiť, kým pán veľkomožný Čillagoši   prestal v zá­chvate smiechu o stolík búchať... a kým si notár   zastrúhal tužku. Konečne však utíchli a rychtár zno­vu povstal, v   strachu, že ešte niekto smiechom vypukne a on sa tiež bude museť   smiať. Odho­dlal sa predsa. Vzal zase písma do ruky a počal:
+    </tei:p>
+    <tei:p>
+     — Svetlo, páni moji, nám je potrebné...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Večera.
+    </tei:head>
+    <tei:p>
+     Advokát dr. Ján Čurida sedel pri svojom pisacom stolíku ešte bez   písem, lebo sa len nedávno osadil v mestečku. Bolo jedenásť hodín   pred obedom a rozmýšľal, čo by bolo príjemné? Príjemné by bolo   všeličo. Príjemné by bolo ísť na pohárik piva, ale trafí prísť   klient. Nikoho nenajde. Odíde. Hotová škoda. Príjemné by bolo písať   žalobu, ale takej ešte nemá. O mnoho príjemnejšie by bolo, keby tak   niekto prišiel a poprosil ho, aby prijal 1000 korún preddavku na   budúcu advokátsku prácu. Najpríjemnejšie by ale bolo, keby tak proti   nemu sedela slečna Želmírka Silnická, dcérka di­rektora Priemyselnej   banky účastinárskej spoloč­nosti, a on by jej mohol diktovať:
+    </tei:p>
+    <tei:p>
+     „Slávny okresný súd! Juraj Čečina, mlynár, obyvateľ tunajší mi je   titulom požičky dlžen 10.000 korún...“ Bola by aj žaloba, aj žena a   tá žena by sa menovala Želmíra Silnická. Táto je dcérou direktora   banky. V bankách sú peniaze. Bol by tedy iste aj akýsi preddavok. Ale   keby aj tá Čečinovská žaloba nebola, len keby sa teraz dvere otvorily   a prišla by ho volať na obed pani dok­torka Želmíra Čuridová rodená   Silnický. Jeho, Čuridu, ako svojho muža. Ona, Želmíra, ako jeho žena.   A oni by spolu obedovali...
+    </tei:p>
+    <tei:p>
+     Takto rozmýšľal pán doktor, keď sa dvere naozaj otvorily.
+    </tei:p>
+    <tei:p>
+     Do kancelárie vnišiel bruchatý, asi šesťdesiat­ročný človek s   červenou, vyholenou tvárou, chumáčovým obočím a s veľkým mäsitým   nosom. Oble­čený bol do obšuchaného kávového zimníka, obšitého   čiernymi šnúrami po krajoch, s bočným vreckom na pravej strane. Z   tohoto vrecka mu trčal dlhý pipasár s obhryzenou čutorkou a s   čer­venými kvastľami. Na bruchu kolembal sa na zelených šnôrach cez   krk prehodených starý, žlt­kavý, miestami vypĺznutý jágerský muf,   ktorý slúžil miesto rukavičiek.
+    </tei:p>
+    <tei:p>
+     Hrubú tŕňovú palicu aj s plochým zelenkavým klobúkom složil do   kúta a prešiel rozvažne k advokátovi, podávajúc mu ruku.
+    </tei:p>
+    <tei:p>
+     — Andrej Škereň, — predstavil sa, — učiteľ na odpočinku. Tunajší   mešťan.
+    </tei:p>
+    <tei:p>
+     — Dr. Čurida. Čím môžem slúžiť?
+    </tei:p>
+    <tei:p>
+     — V právnej záležitosti som prišiel.
+    </tei:p>
+    <tei:p>
+     — Prosím.
+    </tei:p>
+    <tei:p>
+     — Chcem sa so ženou rozsobášiť.
+    </tei:p>
+    <tei:p>
+     — Prečo?
+    </tei:p>
+    <tei:p>
+     — Dovoľte, aby som si sadol. Musím vám celú vec rozložiť. To   vyžaduje času. Historia tridsať rokov.
+    </tei:p>
+    <tei:p>
+     — Rozsobáš, — myslel si Čurida, — intere­santné... — Ráčte si sem   ku mne. Počúvam, — povedal nahlas.
+    </tei:p>
+    <tei:p>
+     — Idem ako ku spovedi. Chcem všetko povedať od a po z. Prosím vás,   pán doktor, ako som už povedal, som Škereň a ženil som sa pred   tridsia­timi rokmi. Na svadobnej večeri bola aj pečená kačka s   majoránikom a gaštanové pyré... Od tých čias som si kúpil dom.   Vysadil sad. Rodí sa mi ovocie najvyberanejšej fajty. Mám desať   včelí­nov. Chýrny je takzvaný škereňovský med. Kúpil som si štyri   turecké lózy. Chránim v kasni sedem vkladných knižiek. A konečne   teším sa 25-ročnej dcére Malvínke. Pekné dievča. Ale nebudem sa   chváliť. Slovom, stačil som na všetko. Ja totižto...
+    </tei:p>
+    <tei:p>
+     Škereň sa udrel do pŕs.
+    </tei:p>
+    <tei:p>
+     — A stačí nám na všetko... A predsa, pán doktor, od svadobnej   večere nevidel som na svo­jom stole ani pečenej kačky, ani gaštanové   pyré. Túžim po nich. Snáď by sa pri nich mladoženíchom cítil. Nemôžem   sa ich dožiť... Prečo?... Preto, lebo pani učiteľka nestačí. Nestačí   s časom. Jej stačí iba na demikát, na bielu kávu, niekedy s veľkou   parou a pomocou súsedy na mrvance so zemiakmi a škračkami. Demikát   závodí s bielou kávou, ako dve drane. Raz demikát, raz káva je napred   o konskú hlavu... Do zúfania mi je. Na obed demikát, na večer   demikát. Ráčte to uvážiť. Ktorýsi priateľ sa mi vysmieval, že sa   nemám čo ponosovať na dražobu.
+    </tei:p>
+    <tei:p>
+     — Kúpiš si za štyri bryndze, napiješ sa vody, staneš si ku sporáku   a máš večeru.
+    </tei:p>
+    <tei:p>
+     — Tak vravel. A to je aj pravda.
+    </tei:p>
+    <tei:p>
+     Advokát sa usmial. Klient sa zamračil.
+    </tei:p>
+    <tei:p>
+     — Nie je to k smiechu. K plaču, pán doktor, k plaču. Ľudia by   povedali, že to zo skúposti. Nie. Len preto, že pani učiteľka   nestačí. A počujte, vždy lieta, vrtí sa ako vreteno. Vše chodí, behá,   lezie, štveria sa ako veverica, a práce po nej ne­vidíte. Raz je na   povale, raz v pivnici, raz na dvore, raz tu, raz tam, a probujte   pozreť za ňou. Nič je nie v poriadku. Celé dni sa nepostele. Periny   zostávajú rozhádzané, ako za rána boly. Dcéru učeše o dvanástej, ale   nestačí, aby sama seba učesala. Kým mi gombík prišije, trvá poldruhej   hodiny, lebo niet doma ihly, donesú z mesta, tu vysvitne, že nieto   čiernych cverán. Hybaj do mesta pre cverny. Je aj ihla, sú aj cverny,   ale gombíka niet. Tak je s gombíkom. A ako je s gombíkom, tak je so   všetkým. So všetkým, pán doktor, so všetkým!
+    </tei:p>
+    <tei:p>
+     Pomlčal za chvíľu, škrabúc sa za uchom.
+    </tei:p>
+    <tei:p>
+     — Za tridsať rokov iba teraz badáte, — po­dotkol doktor.
+    </tei:p>
+    <tei:p>
+     — Teraz mi bije do očí, keď sa má dcéra vydávať. Ale počujte ma.   Nie som u konca. Prí­deme aj na to, prečo mi je to až teraz   neznesi­teľné... Dovoľte mi zapáliť si. Som fajčiarom.
+    </tei:p>
+    <tei:p>
+     — Nech sa vám páči.
+    </tei:p>
+    <tei:p>
+     Učiteľ vyňal fajku z kabáta a druhou rukou mechúrik s červeným   krajom, vyhrnul ho, vložil doň fajku a napchal si ju. Pripálil a   rozprával:
+    </tei:p>
+    <tei:p>
+     — Každému uteká čas, ale mojej žene tak, ani čoby ho z misy   vyšustla. Bol, už ho niet. Odrazu jej zvonia nad hlavou na obed.   Vychodím z mojej izby do stolovej. Musím sa ukázať, lebo by nevedely,   že je čas jesť. V stolovej, rozumie sa, neprikrytý stolík. Nik sa   neukazuje. Chodím, chodím okolo stola. Sadám ku klavíru. Berem   akordy. Čítam novinky. Zase chodím. Zase beriem akordy. Idem konečne   do kuchyne, reku, čo je s obedom? Stavajú vodu... Čo chystáte?   Demikát.
+    </tei:p>
+    <tei:p>
+     No, reku, to som sa ani opytovať nemusel a idem nazpät do   stolovej... Zase chodím, čítam, akordy beriem a čakám... Tak to ide   od tridsiatich rokov... Navykol som sa a dobre... Je to kríž. Ale veď   aj Kristus niesol kríž. Preto sme kresťania, aby sme boli pokorní a   trpezliví... I ja by zdržal tento kríž, pokorným a trpezlivým by bol,   ako posiaľ, keby išlo len o môj žalúdok a o moju osobu... Lenže tu   ide o významnejšie osoby a veci. Ide o Malvínku a o jej vydaj. A šlo   by to. Keby nie keby. Keby žena vedela poriadnu večeru spraviť, už by   bolo po starostiach. Dávno by sa bola vydala...
+    </tei:p>
+    <tei:p>
+     Doktor pokrútil hlavou. Chudák, nerozumel, že bez večere niet   sobáša.
+    </tei:p>
+    <tei:p>
+     — Nechápete, — pokračoval otec, — štastný mladý človek. Vysvetlím   vám to. Každý pytač je zvedavý, ako to vyzerá doma, čo sa na ulici,   di­vadle, bále tým najmilším a najkrajším ukazuje. Aj dievčatá na   ulici budú sa vám jagať, trblietať, ako motýle. Každú chcelo by sa   vám chytiť, také sú krásne. Ale pytač, tvor múdry, chce nazreť   hlbšie. Ide do hniezda, odkiaľ motýlik vylietol Motýlik, motýlik.   Každý motýlik bol húsenicou a stáva sa pupou. I húsenica i pupa je   nepekná... Ktože by takému pytačovi zabránil? Chce vedeť, či ten   krásny motýľ neukáže sa hnusnou húsenicou. A už sme doma. Čímže sa   pytačovi zavďačíte? Dobrou večerou. Nech vie, že aspoň kuchárku   dostane. Takáto večera je u mňa nemožná. Ne­možná!
+    </tei:p>
+    <tei:p>
+     Vykríkol a hodil rukou. Oči mu zvlhly. Vytiahol veľkú žltú šatku s   hrdzavými fľakmi a utrel si nos.
+    </tei:p>
+    <tei:p>
+     — Večera nemožná. Pytač nemožný... Už dvaja pošli kade ľahšie a   kde vedia večeru spraviť... Tu je to nešťastie... Pred rokom bol   jeden. Vážny. Dobré dôchodky. Mladý a driečny. Bolo polštvrtej   poobede, keď prišiel. Práve som obedoval. Náhodou bola biela káva.   Ľahko som sa vyhovoril.
+    </tei:p>
+    <tei:p>
+     — Ja už olevrantujem, — hovorím.
+    </tei:p>
+    <tei:p>
+     — Tak zavčasu, — čuduje sa.
+    </tei:p>
+    <tei:p>
+     — To je obyčaj, — vravím a myslím si: Treba ho ponúknuť. Môže byť,   že je hladný... Myslíte, možno? Nie. Žena varí, ako sa hovorí,   „knapp“... Doobedujem. Sedí vám tento chudák, sedí a čaká.
+    </tei:p>
+    <tei:p>
+     Myslím si, Malvínku čaká a idem. Ale už v pi­tvore počujem: „Nekváč   ma.“ To hovorí Malvínka. „A kde máš kolečká?“ Spytuje sa mať. „Teraz   aby Zuzka išla kupovať kolečká. Vždy ich ztratíš...“ Tu to máte.   Dcéra o pol štvrtej poobede neučesaná. Má 25 rokov a mať ju češe...   Vraciam sa k hosťovi... Sedí pokorne a čaká... O pol piatej prichádza   Malvínka: „Maminka príde hneď. Je v kuchyni. Chystá večeru. Musíte u   nás veče­rať...“ Hosť sa teší. O siedmej večer Malvínka zašvitorí:   „Nech sa páči do jedálne.“ Prechádzame do jedálne... Jedálňa ako   jedálňa. Veľká izba s podlahou na žlto natretou. Nové červené koberce   so zelenými kvetami. V kúte izby krátky čierny klavír, na ktorom ja   akordy berem. Orechový kre­denc so sklíčkami. Plyšové záclony. Biele   filigránske foteľky s divánikom a pár remenných stoličiek. V druhom   kúte papierová palma na drevenom stolíku. Tri jarmočné obrázky na   stene. Všetko v poriadku, okrem toho, že stôl nie je prikrytý a v   peci sa nekúri napriek tomu, že je sibírska zima... Malvínka skladá   sviečku na stolík a odbieha s hrúzou, že musí dať zakúriť... Sedíme   zase len dvaja a obidvaja čakáme, že zakúria, že rozsvieťa... Nechodí   nik. Prepadly sa všetky... Sviečka dohorieva... Knôt sa nakloňuje a   papier, do ktorého je ovinutá, vzbĺka... Utešené svetlo. Hanbím sa   pán doktor, ako pes a idem rozzúrený... Nuž prosím, žena sa háda s   dcérou, čo majú dať ku šunke, či vajíčka, či chren? Žena chce chren,   Malvínka vajíčka, lebo je to krajšie. Zuzka sháňa šunku... Novej   sviece, pravda, niet... V lampe oleja niet... Oleja niet... Sobral   som kuchyňskú... Potme nemožno sedeť... Hosť trpezlive sedí a čaká...   Iste si myslí: Ako dobre by bolo v krčme. Bolo by treba iba po­vedať:   „Kúsok klobásky!“ Už by doniesli. „Lampa nehorí.“ Už by zapálili.   „Piva!“ Už by si ho mal... Šliak by trafil každého v takom fajnovom   dome... Hosť je trpezlivý... Aký by to bol výtečný zať, myslím si...   Odbilo osem. Odbilo deväť. O večeri ani chýru. O pol deviatej sa   prišla opýtať Malvínka, či rozkážeme praženicu?... O deviatej sa   opýtala, či má byť na masle, či na slaninke?... O pol desiatej   prišla, že či môže byť na masle, lebo sla­ninky niet doma... O   desiatej zvestuje:
+    </tei:p>
+    <tei:p>
+     — Nemáme ani masla. Môžu byť vajíčka?
+    </tei:p>
+    <tei:p>
+     — Navar demikátu, — okrikujem ju so zlosťou, lebo vychádzam z   trpezlivosti a chcem ju podráždiť. Ani baran by to nevydržal   konečne.
+    </tei:p>
+    <tei:p>
+     — Môžu byť vajíčka?, — opytuje sa poznove, akoby moju poznámku   nebola počula.
+    </tei:p>
+    <tei:p>
+     — Keď nie demikátu, bielej kávy, — dráždim ja.
+    </tei:p>
+    <tei:p>
+     — Teda vajíčka, — a beží.
+    </tei:p>
+    <tei:p>
+     Zostávame zase sami. Od vzrušenia sa mi hlas trasie, ale hovorím s   mladým pánom. Vravím o športoch a myslím si za akého asi zvera ma   pokladá tento človek. Iste si myslí, že preto vravím o športoch, aby   nám zima nebola. V izbe sa to­tižto ešte vždy nekúri a svieti   kuchyňská lampa. Po športoch prechádzam na vojnu Talianov a vravím o   systéme bojovania. Pri tom myslím, že pán pytač hovorí: „Vo vlastnom   dome by si mal mať systém. Keď je tma, lampu zapáliť, keď je zima,   zakúriť, keď si osem hodín nejedol, dať ve­čeru. To by bol systém.“ Do   izby vchodí Malvínka. Prichádza sa opýtať, či tie vajíčka majú byť na   tvrdo, či na mäkko?... A ja prechádzam v reči, že je terajšia drahota   umelá... „Aha! To ty preto nedávaš večeru,“ myslí si iste pytač...   Pri tom čakáme, čakáme... Vchádza Zuzka:
+    </tei:p>
+    <tei:p>
+     — Pani veľkomožná sa dajú pýtať, či majú byť vajíčka v pohári, či   len tak?
+    </tei:p>
+    <tei:p>
+     Zase čakáme. Myslíte, že ten pán dočkal ve­čeru? Nie, pán doktor.   Odišiel bez nej. Bolo okolo polnoci. Nenašiel ani hostinec otvorený.   Viac sme ho ani nevideli. Neprišiel. Prepadol sa ako kameň v potoku,   ako tá večera, ako celý vydaj Malvínkin. Ale demikát sa neprepadol.   Ani žena. Nezmudrela... Po polroku prišiel druhý pytač. Práve tak   pochodil. Odišiel bez večere a viac sa nevrátil...
+    </tei:p>
+    <tei:p>
+     Oči mu zase zaslzily. Pocmukal fajku. Tá ne­horela. Strčil ju so   vzdychom do vrecka.
+    </tei:p>
+    <tei:p>
+     — Toto je môj kríž, — doložil po chvíli smutne. — Prosím vás o   radu. V sobotu má prísť ku nám kontrolór z berného úradu, Činčovič.   Ráčite ho znať? Výtečný, vzdelaný, usilovný mladý človek... Tiež sa   zaujíma o Malvínku... Sám som ho zavolal. Ani neviem, ako sa to   stalo? Kibicoval mi pri kartách — v pondelok. Filipík partner   prehrá­val a hneval sa. Nám to robilo radosť. K tomu tento Činčovič   vše ma tituloval „pán prefesor.“ Hovoril: „Adut, pán profesor. Teraz   s týmto, pán profesor!“ Spomenul aj zlé hostinské kosty. „Číročistá   hnusoba, — vraví, — hotový žalúdočný katár...“ Napadlo mi to v akomsi   rozjarení, nad­chnutí... takom akomsi duševnom rozpoložení. Zavolal   som ho na sobotu. Keď sa mi poklonil na znak súhlasu, už som vedel,   že som vykonal blbosť. Ale povedal som, konec... To bolo v pon­delok.   Dnes je streda... Od pondelka nemôžem spávať... Dajte mi rady...
+    </tei:p>
+    <tei:p>
+     Čurida sa na chvíľku zamyslel.
+    </tei:p>
+    <tei:p>
+     — Vec jasná, — povedal, — najmite si ku­chárku na ten deň.
+    </tei:p>
+    <tei:p>
+     Škereň skočil so stoličky, akoby ho boli pichli.
+    </tei:p>
+    <tei:p>
+     — Oči by jej vyškriabala. Metlou vyhnala. Rozsobáš by ona pýtala.   Veď by to bol škandál pred hosťom.
+    </tei:p>
+    <tei:p>
+     — Navarte večeru vy.
+    </tei:p>
+    <tei:p>
+     — Nikdy som nevaril, ani nepiekol.
+    </tei:p>
+    <tei:p>
+     — Teda dcéra.
+    </tei:p>
+    <tei:p>
+     — Matke z oka vypadla. Nestačí.
+    </tei:p>
+    <tei:p>
+     — Dajte si večeru doniesť z hostinca.
+    </tei:p>
+    <tei:p>
+     — To by bola hanba. Práve v tomto páde. Povedal som, že sa   Činčovičovi hnusí krčmársky kost.
+    </tei:p>
+    <tei:p>
+     — Tvrdý orech, — poznamenal advokát.
+    </tei:p>
+    <tei:p>
+     — Ak tento odíde bez večere, rozsobášim sa. Žena je povinná ctiť   si muža. Ctí si ma? Uráža. Varí demikát a kávu. To je znevažovanie,   tedy urážanie. Povinná je muža napomáhať v domác­nosti. Napomáha?   Nepostele, neušije, nezapláta. Má materské povinnosti. Plní ich?   Každého pytača vyženie... To sú príčiny k rozvodu. Musia byť... Ale,   pán doktor, vysokoctený pán doktor! Hľa, na čo som ja od pondelka v   mojich bezsenných no­ciach prišiel... Vy budete taký dobrý a napíšete   advokátsky list.
+    </tei:p>
+    <tei:p>
+     — V akom smysle?
+    </tei:p>
+    <tei:p>
+     — V takom smysle, že ak na sobotu, na siedmu hodinu večernú   neupečie moja žena kačku a nespraví gaštanové pyré, sa ja Škereň   rozsobášim s ňou. Vy totižto budete nútený, ako môj advokát, už v   nedeľu zadať žalobu o rozsobáš... Advokátsky list moja žena ešte   nikdy nedostala... Firma advo­kátskej kancelárie... Taká pečiatka...   Slová: „advokát, žaloba“ naháňajú strach... Pár para­grafov do   listu... Číslice, punkty... Naľaká sa a upečie... Každý sa bojí   súdov, ako čert svätenej vody, nie to žena... Upečie... Stavím sa.   Päťdesiat korún stavím.
+    </tei:p>
+    <tei:p>
+     Advokát zachytil slovo „stávka.“
+    </tei:p>
+    <tei:p>
+     — Ako stávku prijímam. List napíšem.
+    </tei:p>
+    <tei:p>
+     — Stojí.
+    </tei:p>
+    <tei:p>
+     — Tedy, ak bude večera?...
+    </tei:p>
+    <tei:p>
+     — Platím päťdesiat korún.
+    </tei:p>
+    <tei:p>
+     — Ak nebude?...
+    </tei:p>
+    <tei:p>
+     — Platím za list tiež toľko, aby ste nemohli prehrať.
+    </tei:p>
+    <tei:p>
+     — Dobre.
+    </tei:p>
+    <tei:p>
+     — Buďte taký laskavý, pán doktor, veď len preto som prišiel. Aj   Boh vám odplatí... Len vy­píšte slovo advokát... Položte na list aj   tri pe­čiatky... Paragrafy... Spomeňte súd. Vypíšte: „rozhodne   žaloba.“ Päťdesiat korún je vašich. Môžem deponovať, ako honorár   odovzdať... Len tie pe­čiatky prosím a čím viac mariek na obálku...   Pošlite rekomandovane, expres... V sobotu na siedmu večer. Ráčte si   to poznačiť...
+    </tei:p>
+    <tei:p>
+     — Napíšem. Honorár až potom.
+    </tei:p>
+    <tei:p>
+     Škereň celý vytešený potriasol ruku advokátovu. Plný vďačnosti a   nádeje odišiel.
+    </tei:p>
+    <tei:p>
+     V sobotu, pri prechádzke, okolo polôsmej za­šiel Čurida ku   Škereňovskému domu. Zastal pri osvetlených oknách a počúval. Počul   hudbu. Krajšiu, ako bývaly akordy pána učiteľove, keď vyčkával obed,   krajšiu, ako muzika Malvínkina, keď hrala Mozarta, krajšiu, ako keby   sám Mozart hral: hudbu tanierov, vidličiek a nožíkov. U Škereňov   večerali. Ženích istý.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Doktor.
+    </tei:head>
+    <tei:p>
+     V našom meste usadil sa nový hodinár. Nad malý mriežkový oblok   nízkeho domu dal si krásnu veľkú tabulu. „Sásik János, órás.“ U   vchodu vy­strčil čosi takého, ako hodiny a do miestnych novín dal, že   stojí k službám vďačnému obe­censtvu. Ale obecenstvo nijako nechcelo   sa upo­zorniť krásnou firmou. Pán Sásik odhodlal sa urobiť v malom   okienku výklad a hľa, ľudia počali po­stávať a obzerať si vyložené   veci. Mal síce v ňom len so pár strieborných hodiniek, dve zaprášené   zaušnice s červenými sklíčkami, štyri obšúchané prstene a jednu   zapalkovú škatuľku. Ako sa táto dostala do výkladu, nevedno, ale fakt   je, že ľudia nielen že postávali pred výkladom, ale počali sa aj   zaujímať o pána majstra.
+    </tei:p>
+    <tei:p>
+     Pán Sásik bol útlej, trošku zohnutej postavy s veľkou hlavou a   širokou, bledou tvárou. Fúzy pristrihoval si po anglicky a keď   vychádzal, vždy sa hodil do dlhého salonového kabáta a priviazal si   pod bradu červenú mašľu, natiahol žlté, vždy nové rukavičky a brával   so sebou tenkú paličku. Keď kráčal, pyšno dvíhal hlavu do hora,   pozrel do ďa­leka a znovu ju spúšťal, akosi na pravé plece, rukami   rozháňal alebo mal jednu vo vrecku a a druhou medzi prstami krútil   tenkou paličkou raz na jednu, raz na druhú stranu. Hovoril ma­ďarsky,   ale tak, že ho Maďari nerozumeli. Zriedka kedy zabŕdol do slovenčiny.   Aj to len vtedy, keď ho nejaký „sprosták“ nemohol pochopiť. Pánom sa   líškal a stŕhal klobúk pred nimi zďaleka.
+    </tei:p>
+    <tei:p>
+     Trápilo ho iba jedno. Nemohol nijako svojmu osudu odpustiť, že je   len jednoduchým hodinárom. Má pánske zvyky. Je veru dosť múdry, a   predsa musí nie rozumom, ale rukami pracovať. Preto, keď len mohol   zatajil svoje remeslo a kde ho ne­poznali, vydal sa za stoličného   pisára alebo inak­šieho úradníka. Vyhľadával panskejšie spoločnosti a   bol veľmi rád, keď si mohol sadnúť neďaleko pánov. Ľudia jemu rovní   zdali sa mu, ako sa to u nás hovorí, „chrapúňmi.“ Takými akýmisi   neumytými, neohrabanými, bez spôsobov a každý jeden z nich bol dľa   pána majstra „mechom udretý.“
+    </tei:p>
+    <tei:p>
+     Nenadarmo vraví príslovie, aby šuster sedel na svojej trojnohe.   Pánu Sásikovi sa raz veľmi zle povodilo, že sa hanbil za svoju   materčinu a za svoje remeslo.
+    </tei:p>
+    <tei:p>
+     Mal byť akýsi fašiangový bal. Pán Sásik sa z počiatku nijako   nevedel rozhodnúť, či sa má zú­častniť na ňom.
+    </tei:p>
+    <tei:p>
+     — Predstavím sa ako hodinár — myslel si — ani pes sa o mňa   neobzre, nie to dámy. Každá by ovesila nos a povedala: „Netancujem.“   A to preto, že nemám pred menom ani „gr.“, ani „br.“, ani „hr.“, ani   „dr.“
+    </tei:p>
+    <tei:p>
+     Pri tom prechádzal sa z kúta do kúta a po­zeral von oknom. Von bol   príjemný februárový čas. Sňah padal tak, ako komu sa nechce padať.   Kolembal, vrtel, krútil sa nad zemou. Ošarpané agáty pred oknom   hrkotaly suchými strúčkami. Hradská zamrznutá. Dnu u pána majstra   bolo teplo a vidno. Povešané hodiny na stene klepaly, ťukaly,   vŕzgaly, bily.
+    </tei:p>
+    <tei:p>
+     Sásik pozrel do zrkadla. Videl svoju tvár a zahundral:
+    </tei:p>
+    <tei:p>
+     — Áno, áno. Nie som taký špatný. Zrkadlo necigáni. Vlasy sa mi   blyštia ako deklík na ho­dinkách a fúzy sú mi celkom dobre   obstrihnuté.
+    </tei:p>
+    <tei:p>
+     Napravil si účes, pohladil fúziky a ďalej šo­mral. Kukajúc do   zrkadla celkom z blízka a otvá­rajúc pri tom na široko oči,   šomral:
+    </tei:p>
+    <tei:p>
+     — No, oči sú troška vodové, ale veľké a do dĺžky zastrihnuté...   Musím na ten bál... Áno. Čo na tom? Vydám sa za doktora a zabavím sa   dobre... Veď pohyby moje sú ozaj panské. Vidno, že som sa ako tovaryš   pohyboval vo vyšších kruhoch, keď bolo treba nejakému grófovi tu   hodiny zavesiť na stenu, tu doniesť, tu napraviť. Často sa stalo, že   sa sám gróf pustil so mnou do reči, alebo osvietená pani, To hneď   vidno na človeku, medzi akými ľuďmi sa pohyboval...
+    </tei:p>
+    <tei:p>
+     Po jeho tvári rozlial sa blažený úsmev. Rý­chlymi, šúchajúcimi   krokmi počal sa pohybovať po izbe, rozpomínajúc sa na pohyby veľkých   pánov.
+    </tei:p>
+    <tei:p>
+     Natiahol rukavičku a vžil sa do postavenia, ako sa šepce poklona.   Á! Vydarilo sa mu znamenite. Spustil sa na ľavú nohu, vystrel krk,   sošpúlil ústa, potom požmurkal, pokrútil v povetrí prstom a hlboko   nahnul sa k zemi, ale zašeptať celkom zabudol.
+    </tei:p>
+    <tei:p>
+     Hneď na to pomyslel si, že kráča popri peknej slečne. Naklonil sa   na pravo a pošuchol si kabát rukou, pričom nešeredne bil si ľavú nohu   ruka­vičkou, ktorá sa mu hompáľala v ruke. Proboval hodiť sa do   fotela, ako to robievajú mladí páni. Zdvihol tedy pozorne kabát a   tichúčko pustil sa na stoličku. Potom vstal. Zagestikuloval klobú­kom   a spravil elegantný skok. Usmial sa tak, aby mu pri tom netrčaly   veľké žlté zuby. Prešiel sa, aby mu ruky nevisely. Vydal zo seba   niekoľko ráz podivný zvuk a bol so sebou úplne spokojný. Celkom, ako   by sa bol za grófa narodil a spával pod hodvábnym paplonom...
+    </tei:p>
+    <tei:p>
+     — Vydám sa za doktora a zabávať sa budem výborne. Poznať ma ešte   tak nepoznajú, menovite slečinky nie.
+    </tei:p>
+    <tei:p>
+     Tak sa rozhodol a usmieval sa v duchu.
+    </tei:p>
+    <tei:p>
+     Pomaly sa zmrklo. Ani sňah už nerobil kruhy nad zemou, ale padal   šikmým smerom. Pokryl vetvy agátov, ploty, strechy. Na uličných   lampách bolo vidno celé čiapočky.
+    </tei:p>
+    <tei:p>
+     Pán Sásik na to všetko nedbal. Pripravoval sa na bál a úsmev   radosti neschádzal mu s tvári.
+    </tei:p>
+    <tei:p>
+     Je po zábave. Celé mesto smeje sa nád do­ktorom Sásikom, hodinárom   z Hornej hrubej ulice. Prečo?
+    </tei:p>
+    <tei:p>
+     Na zábave dlho okúňal sa ísť ku slečnám.
+    </tei:p>
+    <tei:p>
+     — Neviem si vybrať, — myslel si, potrhávajúc frak.
+    </tei:p>
+    <tei:p>
+     Tanečnice len tak sa hemžily. Jedna krajšia od druhej. Pokukávaly,   smialy sa, šermujúc vejármi.
+    </tei:p>
+    <tei:p>
+     Odrazu pánu doktorovi ziskrilo sa v očiach. Hmla padla mu do   hlavy. Slečna Pavlínka po­zrela na neho.
+    </tei:p>
+    <tei:p>
+     — Áno. Tejto budem dvoriť, — rozhodol hneď a vbehol do bočnej   izby, kde pred zrkadlom napravil si mašľu a utrúc krýdlom z fraku   topánky, vážnym krokom vracal sa do dvorany.
+    </tei:p>
+    <tei:p>
+     — Krása, krása, táto Pavlínka... Široká, tučná tvár. Líca veľké,   červené... Vypuklé čierne oči... Plné, okrúhle plecia. Vlasy čierne,   ružička v nich.. Krása, krása — myslel si a pohrával sa guľkou   retiazky, ktorá mu visela zpod fraku.
+    </tei:p>
+    <tei:p>
+     Nemohol sa dlšie zdržať. Pobehol k nej. Spu­stil hlavu na prsia, čo   znamenalo poklonu, a mäkko zašeptal svoje meno, prosiac hneď o   túru.
+    </tei:p>
+    <tei:p>
+     Lenže, beda! Tanec nijako nešiel. Pán doktor ho vždy poplietol.   Obrátil sa raz-dva a zastal, hľadajúc príhodný vpád do taktu. Ale   darmo po­máhal si hlavou a pleciami — vždy poplietol.
+    </tei:p>
+    <tei:p>
+     — Zle hrajú títo cigáni — prehovoril konečne zadychčaný.
+    </tei:p>
+    <tei:p>
+     — Možno, že vám pôjde drajšrit, — pozname­nala Pavlínka.
+    </tei:p>
+    <tei:p>
+     — Áno, drajšrit, — potvrdil doktor.
+    </tei:p>
+    <tei:p>
+     Ani tento neišiel.
+    </tei:p>
+    <tei:p>
+     — Netancujete sexšrit, pán doktor? — opýtala sa slečna. — To je   ľahšie.
+    </tei:p>
+    <tei:p>
+     — Áno, áno sexšrit, — zajakol sa doktor.
+    </tei:p>
+    <tei:p>
+     Pán doktor nemal ani poňatia a takomto tanci.
+    </tei:p>
+    <tei:p>
+     — A viedeňský viete alebo džentry valčík.
+    </tei:p>
+    <tei:p>
+     Tanečník čosi zakoktal. Tanec nešiel ani tak, ani tak.
+    </tei:p>
+    <tei:p>
+     Pavlínka naľakala sa ťarbavého tanečníka a zaďakovala.
+    </tei:p>
+    <tei:p>
+     — Zle tancuje táto Pavlínka, — povrával si pán doktor a utieral si   spotenú tvár. — Možno, že hen tá bude lepšie. Ale ani táto   nevedela.
+    </tei:p>
+    <tei:p>
+     Šiel radom a s každou poplietol.
+    </tei:p>
+    <tei:p>
+     — Čo je to, že mi nejde, tanec? Veď som sa učil vo Viedni. Ale,   tak to bude, že tu inakšie tancujú, — filozofoval a čakal na   čardáš.
+    </tei:p>
+    <tei:p>
+     Slečny medzitým hovorily o novom doktorovi, ako strašnom   tanečníkovi. Konečne, každý doktor je nie hneď aj výtečným   tanečníkom, ale toto je čosi dešperátneho. Ako sa ho zbaviť, aby   nemusely dať košík, lebo iste príde a košíky rozdávať sa dľa našich   mravov nesvedčí. Povedaly to aj mládencom. „Aký doktor? Čo za doktor?   Ale ten? Veď je to hodinár,“ povedal ktosi. „Tak sa vám predstavil?   Nehanebník akýsi. No počkaj. Zamieňaš si remeslo s kadejakými   titulami a robíš nám hanbu, akoby sme si my remeselníka ne­uctili.“   Pošuškali si medzi sebou tanečníci a vy­mysleli čertovský plán.
+    </tei:p>
+    <tei:p>
+     Pán doktor tancoval čardáš so slečnou Vierou, peknou, útlou   devuškou s veľkopánskymi náhľadmi.
+    </tei:p>
+    <tei:p>
+     — To mi už ide, — myslel si pán Sásik, ob­zerajúc sa hrdo dookola.   Videl, že sa každý usmieva nad ním, ba i Viera. Ešte hrdšie a   prudkejšie ju vykrúcal. Dvíhal nad hlavu mokrú šatku a triasol ňou.   Radosť bola dívať sa. On sám kochal sa najväčšmi v svojom tanci...   Teraz povedzte, že neviem...
+    </tei:p>
+    <tei:p>
+     Po tanci sa chcel hodiť do fotela vedľa Viery, tak ako to doma   proboval. Hľadal krýdla fraku, aby ich zodvihol, ale našiel len   jedno. Z počiatku len hmatal, hmatal, ale druhé krýdlo nedajbože   nájsť. Potom sa počal vrteť, ako pes za svojím chvostom. Krýdla   nebolo. Pozrel na slečnu Vieru celý skonfundovaný. Tá už sa nevedela   zdržať a vypukla napriek svojmu aristokratizmu v hlasný smiech, až sa   musela prikrčiť, tak ju zaklalo v boku. Kládla si z počiatku šatku na   ústa, ale to nepomohlo. Smiech srdečný, veselý, hlasný zunel dvoranou   a chytal sa okolitých dám a pánov. Ko­nečne smialo sa všetko. Ešte aj   pikolo z kasína vošiel a škriekal k vôli škreku.
+    </tei:p>
+    <tei:p>
+     — Čo, čo je to? — jachtal pán doktor, vrtiac sa ešte vše okolo   seba samého.
+    </tei:p>
+    <tei:p>
+     Slečna Viera od smiechu nevedela mu to vysvetliť.
+    </tei:p>
+    <tei:p>
+     Doktor vybehol z dvorany. Vo fojeri si svliekol frak, roztiahol ho   za rukávy pred sebou, aby na­šiel aj druhé jeho krýdlo. Nebolo ho...   Ký čert! Vedel určite, že frak máva dve krýdla a že aj jeho mal...   Veď si ho dobre obzrel, keď si ho požičiaval a platil zaň...
+    </tei:p>
+    <tei:p>
+     Ľudia počali vychádzať za ním aj do fojeru. Šuchol frak pod   pazuchu a ako smyslov zbavený utekal do­mov. Ani sa nevrátil. Kto by   sa opovážil po takej hanbe vrátiť sa na bál a tancovať? Vec   nemožná...
+    </tei:p>
+    <tei:p>
+     Na tretí deň dostal poštovou poukážkou 100 korún. Na kupone, ktorý   odstrihol, bolo len toľko napísané, aby si kúpil nový frak.
+    </tei:p>
+    <tei:p>
+     — Radšej ich vložím do obchodu, — zamrmľal pán „doktor“,   zavierajúc asignáciu do stolíka.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Moja domáca pani.
+    </tei:head>
+    <tei:p>
+     Stalo sa to so mnou pred rokom. Prišiel som domov z úradu. Bolely   ma nohy, ruky a driek. Tancoval som mnoho... Bol krásny, júnový deň.   Všetky dámy a kamaráti odišli na majáles. Sobral som sa i ja za nimi.   Konečne, som mladým člo­vekom a spoločenským tvorom. Rád mám vese­losť,   spev, hudbu a dievčatá. Nuž, na majálesi našli sa ľudia veselí pri   víne. Zapil a zaveselil som sa. Spievalo sa, zaspieval som si i ja.   Cigáň zahral. Roztancovali sa všetci. Pustil som sa do tancu.   Nevyberám, ako ostatní. Mne je jedno, od kraja, čo vidím. Všetko to   malo dlhé vlasy, pekné líca a mäkké ramená. Pán Boh nepošle špatu do   sveta. Je pôvab v každom človeku, dievčati, zvie­rati a predmete. Môj   záujem je vyhoveť pri ta­kýchto zábavách všeobecným požiadavkám.   Uzná­vam, že sú druhí inakší. Vyhľadajú si najkrajšiu tvár s utešenými   očiami. Zaslepia sa a nevidia ostatných. Idú do hory k opustenej   studničke a sbierajú chrobáky alebo králiky. Niektorí lovia s výšiny   utešený obraz dolinky alebo barvu neba a zabudnú ostatných. Druhí sa   vláčia zrovna za hubami, keď by mali tancovať. Ja nie. Všeobecný   záujem. Keď treba — spievať, keď tancovať — nuž tancovať.
+    </tei:p>
+    <tei:p>
+     Bolo naozaj veselo. Ani som sa nenazdal, že som taký vážený.   Jednoduchý bankový úradník — a predsa, ako laskave ma prijímali.   Dcéry pána fabrikanta nevstaly, ale vyskočily, keď som sa uklonil.   Slečne Malvínke som povedal:
+    </tei:p>
+    <tei:p>
+     — Slečna, smiem prosiť?
+    </tei:p>
+    <tei:p>
+     Ona zrovna vykríkla:
+    </tei:p>
+    <tei:p>
+     — Ó, áno!
+    </tei:p>
+    <tei:p>
+     Ako ľahúčko tancuje. Aká tanečnica, a predsa povedala: „Ó, áno!“   Muselo jej to radosť pôsobiť. Ináče by bola jednoducho vstala. Ale   ona pove­dala s radosťou: „Ó, áno!“
+    </tei:p>
+    <tei:p>
+     Slečne Žofii som sa len uklonil. Porozumela a hneď sa zavesila na   moje rameno. Naklonila hlávku k môjmu plecu. Myslel som si, že som   naozaj príjemným človekom. Prečo by bola naklonila hlávku? Bola by   jednoducho rovno šla, keby som jej bol ľahostajným. Ale ona naklonila   hlávku. Dovolil som si poznamenať:
+    </tei:p>
+    <tei:p>
+     — Vy, slečna, musely ste mať znamenitého učiteľa...
+    </tei:p>
+    <tei:p>
+     — V čom? — pýtala sa.
+    </tei:p>
+    <tei:p>
+     — V tanci.
+    </tei:p>
+    <tei:p>
+     — Prečo?
+    </tei:p>
+    <tei:p>
+     — Tak ľahúčko, krásne tancujete. Ani páper keď v povetrí lieta.   Viete, fúknete naň s dola, vy­letí hore. Fúknete s hora, letí dolu.   Fúknete s boku, letí protivným smerom. Kam vás človek chce po­tiahnuť,   už to cítite a idete...
+    </tei:p>
+    <tei:p>
+     — Ale nevravte, — a zasmiala sa.
+    </tei:p>
+    <tei:p>
+     Porovnanie podarilo sa mi, — dumal som. To ma tak rozveselilo, že   počas prestávky neustále zvu­čala mi v hlave nóta:
+    </tei:p>
+    <tei:p>
+     „Fouknu na tě dvakrát,
+    </tei:p>
+    <tei:p>
+     holka budeš plakat.“
+    </tei:p>
+    <tei:p>
+     Áno. Rozveselil som sa, cítil som sa slobodnej­ším. Zdalo sa mi, že   celkom voľne kráčam a ne­mám veľké, nešikovné ruky. Keď si pomyslím,   za akú pyšnú slečnu považoval som Ellu... Predsa bola v utešenej,   celkom bielej toalete, biele topá­nočky, biele rukavičky, biela tvár,   sivé oči, biele vlasy... Direktor banky jej dvorí... Husársky   nadporučík jej dvoril na minulej zábave. Akýsi maliar-umelec ju   maľoval. Notár chválil jej krok, že vraj, ako keď vietor duje a raž   sa vlní — taký krok. Viedeňský šik a móda k tomu. Utešená. A notár sa   predsa len rozumie. Bol dva roky v Pa­ríži! A hľa, ona je nie ani   pyšná.
+    </tei:p>
+    <tei:p>
+     Ani som nezaprosil, ani sa nepoklonil pred ňou. Jednoducho som   zastal. Zadíval som sa na ňu a — šla. Bol čardáš a — šla. Šla a   tancovala do konca — čardáš! Keby to druhý tanec. Potrvá minútu-dve a   — dobre. Môžeš ho tancovať s najšpatnejším človekom, ale čardáš!   Slečna Ella a ja. Čardáš! Nezabudnem nikdy. Tancujem ho pravda po   peštiansky — pekne. Ničoho sa netý­kam, len sa trasiem a šuchám   nohami. Ale slečna Ella — skvost. Nie. Nie. Na mne musí byť akási   zvláštna krása — opätoval som si v mysli. Každá je voči mne taká   príjemná, nežná.
+    </tei:p>
+    <tei:p>
+     Áno. Slečne Elle pochválil som oči.
+    </tei:p>
+    <tei:p>
+     — Utešené oči máte.
+    </tei:p>
+    <tei:p>
+     — Nevravte, — povedala.
+    </tei:p>
+    <tei:p>
+     — Viem, že vám to už mnohí povedali. Musel som to povedať i ja.   Krása je krása. Dojíma. Človek rád vypovie svoj dojem. Ja som vám to   sdelil, ako druhí...
+    </tei:p>
+    <tei:p>
+     — Dojíma, — zašepla a prižmúrila oči, tak romanticky.
+    </tei:p>
+    <tei:p>
+     Aspoň mne sa tak videlo. Srdce vo mne zvýsklo. Slečna Ella šepce,   nezachmúri sa, ale šepce. Taká krásna dáma. Rozhodne, musím byť i ja   pekný. Ináče by nešepkala.
+    </tei:p>
+    <tei:p>
+     Slnce zašlo za hory. Chlad čo raz príjemnejší. Mrak pomaly sa   púšťal, akoby prichádzal z hôr. Jedle a krovia spájaly sa jedno s   druhým. Chodník hore k studničke tratil sa. Vatry boly svetlejšie a   teplejšie. Hudba čo raz ďalej lepšie hýbala srdcami. Krajšie znela;   ako by nohami donášala so sebou nielen tóny, dľa ktorých treba hýbať   a krútiť sa, ale aj akýsi prúd, čo vniká do duší a otvára ich. Ako   prekrásne je podvečer na majálesi!
+    </tei:p>
+    <tei:p>
+     Ja som sa zrovna nemestil do kože. Zato, že som len jednoduchým   úradníkom, prečo by som si nerozkázal liter vína? Kázal som si. Pili   všetci bankoví. Druhí rečnia. Prečo by som nezarečnil? Zarečnil som   na redaktora domáceho časopisu. Potom, druhí si svoju nótu rozkážu.   Prečo by som si nerozkázal i ja? Rozkázal som si. Ťahal som tenor.   Hory len tak hučaly. A konečne, že slečne Boženke dvorí kasír, prečo   by som jej nevyznal lásku ja? Vyznal som. A ako krásne. Predchytil   som mu ju v ostatnom tanci.
+    </tei:p>
+    <tei:p>
+     — Viete, kto je najmocnejším tvorom na svete? — spýtal som sa   jej.
+    </tei:p>
+    <tei:p>
+     — Ako myslíte? Na tejto zemi?
+    </tei:p>
+    <tei:p>
+     — Na zemi.
+    </tei:p>
+    <tei:p>
+     — Povedala by som, že slon.
+    </tei:p>
+    <tei:p>
+     — Ó, nie.
+    </tei:p>
+    <tei:p>
+     — Teda lev.
+    </tei:p>
+    <tei:p>
+     — Zle meriate silu, slečna Boženka. Myslím silu tvoriacu a   boriacu.
+    </tei:p>
+    <tei:p>
+     — Človek.
+    </tei:p>
+    <tei:p>
+     — Ale medzi ľuďmi?
+    </tei:p>
+    <tei:p>
+     — Medzi ľuďmi? — a zamyslela sa.
+    </tei:p>
+    <tei:p>
+     — Netrápte sa. Poviem vám: žena.
+    </tei:p>
+    <tei:p>
+     — Ako?
+    </tei:p>
+    <tei:p>
+     Nepočúval som na jej otázku. Bol som v otázkach a postavil som   novú:
+    </tei:p>
+    <tei:p>
+     — A viete, čo myslíte, ktorá dáma je najmoc­nejšia predo mnou?
+    </tei:p>
+    <tei:p>
+     — To ja neviem. Čo ja môžem vedieť?
+    </tei:p>
+    <tei:p>
+     — Poviem vám. Vy, slečna Boženka. Vy musíte vedieť, že vás ja rád,   už dávno rád.
+    </tei:p>
+    <tei:p>
+     Skutočne, v to okamženie i pocítil som lásku. Videlo sa mi, že jej   malá tvár s nevinnými, det­skými očiami, je pre mňa najvzácnejšou. Že   zau­jímať sa budem o ňu vždy, nie chvíľku, ale aj zajtra, i o   týždeň...
+    </tei:p>
+    <tei:p>
+     — Áno, vy, — hovoril som, — vy máte v ru­kách moje šťastie a   nešťastie. Díval som sa na vás, pozoroval...
+    </tei:p>
+    <tei:p>
+     — Ale, prosím vás...
+    </tei:p>
+    <tei:p>
+     Cigáň prestal hrať. Slečnu Boženku odprevadil som, nepovediac viac   ani slova. Chcel som hrať urazeného. Nechcela si vypočuť. Dobre.   Obanuješ. Však sa ty budeš trápiť a čihať za mnou, ale ja nedokončím.   Láska ťa bude moriť. Obledneš — a ja nedokončím. Nepoviem ti viac, že   ťa rád.
+    </tei:p>
+    <tei:p>
+     Spotený chcel som sa ochladiť a prechádzal som po kole. Hľadal som   lavičku, kde by som si mohol sadnúť. Cigáň zase spustil čardáš a ja   som zastal. Kde si sadnem? Tam sedia. Tam sedí jedna dáma s druhou —   a tam je miesto. Pošiel som proti ním a znovu som zastal. Menšia dáma   vstala a posla ku mne. Nazdala sa, že ju vyzývam do tanca.
+    </tei:p>
+    <tei:p>
+     — Nie, slečna, netancujem, — povedal som, — len som si chcel sem   sadnúť... O minútku. Teraz mi srdce veľmi bije.
+    </tei:p>
+    <tei:p>
+     Sadla si bez slova a ja neďaleko nej. Ja hľa­dím na všeobecný   záujem, je pravda, ale i ja ustanem a spotím sa.
+    </tei:p>
+    <tei:p>
+     Pozrel som na svoju súsedku. Chcelo sa mi hovoriť. Odrazu som sa   zarazil. Veď je to domáca slečna a tá staršia pri nej, to je matka!   Domáca pani!... Aká negalantnosť! Kdeže boly posiaľ, že som ich   nevidel?
+    </tei:p>
+    <tei:p>
+     Povstal som s miesta a ačpráve mi srdce ešte tuho bilo, po tvári   tiekol mi pot cícerkami, šatka ako by ju do vody zamočil, žmýkať a   nie utierať sa s ňou, — hlboko poklonil som sa pred do­mácou   slečnou.
+    </tei:p>
+    <tei:p>
+     Tá by bola nedbala, ale matka ju schytila za rukáv a zlostne   riekla:
+    </tei:p>
+    <tei:p>
+     — Nebudeš!
+    </tei:p>
+    <tei:p>
+     Dcéra si sadla.
+    </tei:p>
+    <tei:p>
+     — Ale prečo, milosťpani? — počal som.
+    </tei:p>
+    <tei:p>
+     — Preto! — riekla ešte raz, ale tak určite, že som bol nútený   odísť.
+    </tei:p>
+    <tei:p>
+     Kameň som pocítil v duši, ktorý premenil sa v zlobu. Tieto baby   naozaj chcú, — myslel som si, — aby bol človek ich otrokom. Ale ja   hľadím na všeobecný záujem. Musím to na budúce na­praviť. Prvú ju   vykrútim a okrem toho ešte desať ráz. Veselosť vrátila sa mi a   štastlive dotancoval som so slečnou Melankou. I domov som ju   od­prevadil. Rúčka v pazuche. V pazuche ľúbostné fluidum. Plný mesiac.   Biela cesta. Zemiaky z ľava, raž z prava. Cvrčky. Krása, cit, láska.   Znamenitý majáles to bol...
+    </tei:p>
+    <tei:p>
+     Ľahol som si na diván a spomínal včerajšie udalosti. Všade som   videl seba, ako hlavnú osobu. Melanka na príklad zaujíma sa — o mňa.   Kama­ráti ma iste spomínajú. Redaktor je ešte vždy očarovaný — mnou.   Slečne Elle som ukázal, kto vie tancovať — ja. Na každý pád jej bude   ľúto — za mnou. Jedna myšlienka za druhou prichádzala mi do hlavy.   Všetky boly jasné, príjemné. Ukázal som, čo môžem. Videli, že som nie   človek jednoduchý...
+    </tei:p>
+    <tei:p>
+     Privrel som víčka.
+    </tei:p>
+    <tei:p>
+     — Nech sa páči, tu je káva, — začul som nad hlavou.
+    </tei:p>
+    <tei:p>
+     Slúžka Zuzka vošla s olevrantom.
+    </tei:p>
+    <tei:p>
+     Spustil som nohy s divána.
+    </tei:p>
+    <tei:p>
+     — No, čo nového, Zuzka? — spýtal som sa jej uveličený sám nad   sebou. — A prečo len jeden rožtek? — pokračoval som, — a len tri   cukríky? Vieš, že ja rád mám sladkú. Nože dones.
+    </tei:p>
+    <tei:p>
+     — Milosťpani povedaly, že je to dosť.
+    </tei:p>
+    <tei:p>
+     — Ale prečo len jeden rožtek?
+    </tei:p>
+    <tei:p>
+     — Milosťpani myslia, že je to dosť.
+    </tei:p>
+    <tei:p>
+     — To je nie dosť, Zuzka moja. Zajtra ráno aby bolo tak ako   inokedy.
+    </tei:p>
+    <tei:p>
+     Po olevrante vyšiel som na prechádzku. Po prechádzke šiel som na   večeru a po večeri domov. Ako som vošiel, napadlo mi hneď, že nevidno   lampy. Na jej mieste bola tenučká sviečka. Trochu ma to mrzelo, ale i   tak chcelo sa mi spať. Ľahol som si. Zdalo sa mi, že mi je nízko pod   hlavou. Pozrem. Malý vankúšik chybí. V izbe ho nebolo. Musím sa   zajtra spýtať Zuzky.
+    </tei:p>
+    <tei:p>
+     Ráno zavčasu zobudily ma dávno nepočuté hlasy. Baranca, ktorého na   moju žiadosť nepúšťali ráno do dvora, zase vypustili so všetkými   sliep­kami, kohútmi a husmi. Darmo kryl som svoje uši pod paplon,   nemohol som spať.
+    </tei:p>
+    <tei:p>
+     O siedmej ráno našiel som topánky nevyčistené. Ležaly tak, ako som   ich včera nechal.
+    </tei:p>
+    <tei:p>
+     Vošla Zuzka s kávou. Zase len jeden rožtek a tri cukríky.
+    </tei:p>
+    <tei:p>
+     — Ale, čo sa vám robí? — vykríkol som so zlosťou dávno   zdržiavanou. — Potvora! Tebe treba rožtek a ty nemáš dosť sladkú   kávu!
+    </tei:p>
+    <tei:p>
+     — Ja nie, ale pani...
+    </tei:p>
+    <tei:p>
+     — Čuš! Kde je lampa?
+    </tei:p>
+    <tei:p>
+     — Ja...
+    </tei:p>
+    <tei:p>
+     — Kde je vankúšik?
+    </tei:p>
+    <tei:p>
+     — Pani...
+    </tei:p>
+    <tei:p>
+     — Čo si mi topánky neočistila? Ja ťa naučím poriadku! Hneď a zaraz   dones ešte jeden cukrík a rožtek! Ja budem pre teba horkú kávu   piť?!
+    </tei:p>
+    <tei:p>
+     Zuzka odišla a doniesla šuvix a kefu.
+    </tei:p>
+    <tei:p>
+     — To si ty len v kuchyni urob, nie tu.
+    </tei:p>
+    <tei:p>
+     — Ale pani povedali, aby si sami...
+    </tei:p>
+    <tei:p>
+     Nerozumel som. Zuzka vyšla a viac sa neuká­zala. Kávu som nechal   tak a topánky som si sám očistil.
+    </tei:p>
+    <tei:p>
+     Na obed našiel som miesto štyroch stoličiek už len dve. Stôl   druhý. Starý politírovaný od­niesli a dali mi biely, hobľovaný.
+    </tei:p>
+    <tei:p>
+     Na večer zmizol so steny náš kráľ s kráľovnou. Zimnej krajinky a   lovca, ako sa odporúča od svojej manželky a ako prichádza so zajacom,   tiež nebolo. Miesto lampy zase len sviečka. V posteli našiel som už   len jeden vankúš.
+    </tei:p>
+    <tei:p>
+     Nevedel som si to nijako vysvetliť. To je nie preto, žeby na   príklad mali hostí. V tom trčí na každý pád ženská zloba. Káva,   topánky, vankúše, svieca... Ženská zloba. Rozhodne nič nie inšie...   Vo mne zvrelo. V prvom okamihu chcel som vnísť k domácej panej žiadať   vysvetlenie. Ale hneď mi napadlo, že by ma mohla ešte väčšmi slovom   uraziť a ja by som jej prípadne nemohol trefne odpovedať. Nerád sa   vadím. Ale predsa musím niečo povedať. Aspoň pred sebou sa   ospravedlniť. Umienil som si, že zo zvedavosti budem čušať. Počkám,   ako sa to skončí. Veď všetko nemôže odniesť. Diván a posteľ mi   nechá.
+    </tei:p>
+    <tei:p>
+     V nasledujúci deň bol jarmok. Po obede chcel som si pospať.   Nedajbože! Každé decko v susedstve a vo dvore dostalo do daru rapkáč   a trúby. Asi osem detvákov neprestajne rapkalo a trúbilo. Išiel ma   čert vziať.
+    </tei:p>
+    <tei:p>
+     — Ticho! — zakričal som.
+    </tei:p>
+    <tei:p>
+     Neprestaly.
+    </tei:p>
+    <tei:p>
+     Vyšiel som von s palicou.
+    </tei:p>
+    <tei:p>
+     — Ak neprestanete, vyobšívam vás! A to si ony práve pod môj   oblok...
+    </tei:p>
+    <tei:p>
+     — Nebojte sa nič, len rapkajte! — začul som z kuchyne.
+    </tei:p>
+    <tei:p>
+     To zase domáca pani nastrojila. Ale, pre Boha, čo som jej len   urobil? Čo ma prenasleduje? Riadne platím a riadne chodím domov. Čo   chce?
+    </tei:p>
+    <tei:p>
+     Deti rapkaly s dvojnásobnou silou. Odišiel som do kaviarne.
+    </tei:p>
+    <tei:p>
+     Na večer zmizol diván. Knihy porozhadzované, polica preč. Miesto   paplona akési huňaté prikryvadlo. Smial som sa v zlosti a zacengal na   Zuzku. Odkážem jej, — myslel som si, — aby skapala do rána.
+    </tei:p>
+    <tei:p>
+     Zuzka neprišla.
+    </tei:p>
+    <tei:p>
+     Zacengal som ešte raz.
+    </tei:p>
+    <tei:p>
+     Zase nič.
+    </tei:p>
+    <tei:p>
+     Pritisol som gombík a držal ho pritisnutý asi päť minút. Nikto   neprišiel. Chcelo sa mi lámať a drúzgať, ale utíšil som sa. Asi o dve   hodiny, keď som si líhal prišla Zuzka.
+    </tei:p>
+    <tei:p>
+     — Zuzka, prosím ťa, povedz mi, čo sa to tu robí?
+    </tei:p>
+    <tei:p>
+     — Pani sa hnevajú.
+    </tei:p>
+    <tei:p>
+     — Ale prečo?
+    </tei:p>
+    <tei:p>
+     — To nepoviem.
+    </tei:p>
+    <tei:p>
+     — Povedz, prosím ťa.
+    </tei:p>
+    <tei:p>
+     — Pani mi zabránily.
+    </tei:p>
+    <tei:p>
+     — Tu máš korunu.
+    </tei:p>
+    <tei:p>
+     Zuzka vzala korunu a povedala:
+    </tei:p>
+    <tei:p>
+     — Dcéru im nevykrútili na majálesi...
+    </tei:p>
+    <tei:p>
+     Na druhý deň ráno prilepil som veľku cedulu na bránu s   nasledujúcim textom:
+    </tei:p>
+    <tei:p>
+     „Elegantnú izbu dostať do prenájmu pre mla­dého človeka, ktorý pri   každej príležitosti vykrúti domácu slečnu.“
+    </tei:p>
+    <tei:p>
+     Len kde ja nájdem byt bez domácich slečien?
+    </tei:p>
+    <tei:p>
+     Poraďte!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Vadium.
+    </tei:head>
+    <tei:p>
+     (Skutočnosť.)
+    </tei:p>
+    <tei:p>
+     Licitovalo sa.
+    </tei:p>
+    <tei:p>
+     — Roľa Cimenná, — vykríkol exekútor v jágerských šatoch s   kostenými gombičkami, se­diaci medzi chudým farárom Remeným a rapavým   advokátskym pisárom s vytrhanými fúzami. Veselo pozrel cez cviker na   sedliakov, čo stáli neďaleko dvier a zamočil pero do fľaštičky s   atramentom.
+    </tei:p>
+    <tei:p>
+     — Výkričná cena 1000 korún, — pokračoval a počal robiť kolá nad   protokolom, akoby chcel písať.
+    </tei:p>
+    <tei:p>
+     — Počkať, počkať, — ozvalo sa pár hlasov odo dvier.
+    </tei:p>
+    <tei:p>
+     — Dufek chce tiež licitovať, — povedal vážne rychtár, opretý o sud   s kapustou a poškrabúc si veľký a ostrý nos postúpil pár krokov ku   stolu, kde sedeli páni a dodal:
+    </tei:p>
+    <tei:p>
+     — Prosím počkať, pán exekútor.
+    </tei:p>
+    <tei:p>
+     — Vadium, — naštrkol chladno a krátko ra­pavý pisár.
+    </tei:p>
+    <tei:p>
+     — 100 korún je vadium. Nech položí, — vysvetlil exekútor a ukázal   prevrátenou rúčkou na stolík, hľadiac na rychtára.
+    </tei:p>
+    <tei:p>
+     — Vadium složte, — obrátil sa rychtár k Dufekovi, nízkemu,   čiernemu sedliakovi s chĺpkami v nose a ušiach, širokými pleciami a   veľkými, kostnatými rukami, v bielej halene.
+    </tei:p>
+    <tei:p>
+     Dufek pohodil halenou a začrel do sviazaného rukáva, akoby v nej   mal peniaze a opýtal sa:
+    </tei:p>
+    <tei:p>
+     — Koľko?
+    </tei:p>
+    <tei:p>
+     — Sto korún, — povedal mu rychtár.
+    </tei:p>
+    <tei:p>
+     Hľadal v rukáve a pohodil ešte raz halenou, aby mohol hlbšie   načreť do rukáva. Po chvíli vy­tiahol ruku z neho a pozrel na   rychtára, pričom dva razy mrdol pleciami, narovnajúc sa.
+    </tei:p>
+    <tei:p>
+     — Nemáte, rychtárko? — šepol.
+    </tei:p>
+    <tei:p>
+     — Kde by ich vzal? — na to rychtár tiež šeptom.
+    </tei:p>
+    <tei:p>
+     Dufek pozrel tázavo na sedliakov okolo neho, ale i tí bez slova   pokrútili hlavami na znak, že rozumejú nemú otázku, ale žiaľbohu   nemajú.
+    </tei:p>
+    <tei:p>
+     — Myslel by som, — počal Dufek váhavo a nahlas k pánom, —   keby...
+    </tei:p>
+    <tei:p>
+     — Poďme, — pretrhol ho rapavý a ukázal exekútorovi, na hodinky,   ktoré ležaly pred týmto, chcejúc označiť, že sa čas míňa.
+    </tei:p>
+    <tei:p>
+     — Licitujete, či nie? — spýtal sa exekútor Dufeka.
+    </tei:p>
+    <tei:p>
+     — Áno, licitujem.
+    </tei:p>
+    <tei:p>
+     — Složte vadium.
+    </tei:p>
+    <tei:p>
+     Dufek obrátil svoje malé čierne oči na farára. Schválne ho bol   poprosil pred licitáciou, aby dal pozor, že by sa nejaká faleš   nestala. Licitácia v Malobreží ešte tuším ani nebola a ľudia sa   nevy­znali, čo treba a čo nie. Tak sa dostala aj cir­kevná osoba ku   tejto najsvetskejšej veci. Farár videl pohľad Dufekov a zdvihol ruku,   že smelo môže licitovať.
+    </tei:p>
+    <tei:p>
+     — Dufek je majetný, — riekol istým, chladným hlasom. — Na moju   zodpovednosť mu môžete sveriť to vadium... Zaplatí vám to,   donesie.
+    </tei:p>
+    <tei:p>
+     — Vaša milosť, mohli by ste mi pomôcť, — zaprosil licitujúci.
+    </tei:p>
+    <tei:p>
+     — Ale, veď ti to pán exekútor sverí, — uspo­kojil ho farár,   usmievajúc sa na exekútora, — však, blahorodý pane?
+    </tei:p>
+    <tei:p>
+     — Nemožno, velebný pane, — odpovedal exekútor mračne.
+    </tei:p>
+    <tei:p>
+     — Treba hotovým, — potvrdil rapavý.
+    </tei:p>
+    <tei:p>
+     — Je to zákon? — spýtal sa farár nedôverčive.
+    </tei:p>
+    <tei:p>
+     — Zákon, — odvrkol exekútor.
+    </tei:p>
+    <tei:p>
+     Farár pokrútil hlavou, sťaby tomu neveril, že je taký zákon, ktorý   káže hotovým platiť. Exekútor zdvihol plecia a vykríkol:
+    </tei:p>
+    <tei:p>
+     — Roľa Cimenná!
+    </tei:p>
+    <tei:p>
+     — Vaša milosť, prosím vás, — zaprosil zase Dufek, — zajtra si   predám kravu a donesiem...
+    </tei:p>
+    <tei:p>
+     Nijako nechcelo sa mu upustiť od role Cimennej, susediacej s jeho   rátou... Taký krásny kúsok, — prebehlo mu mysľou, — najkrajšia   ro­ľa... Rovná, ako dľaň a pod nosom... Skalky nenájdeš... Aj škriepky   s Lovásikom by prestaly ohľadom medze... Usporil by pravotu, ktorú   len preto nezaviedol, lebo si myslel, že ju na licitácii aj tak   kúpi... A tu ti tak odrazu príde licitácia. Nik nevedel nič, len čo   dnes ráno zabubnovali ... Aj splnilo by sa, čo Lovásikovi   predpovedal, že na rok on Dufek bude orať na tej roli. Lovásik mu   vtedy na zuboch ukázal, že čo bude orať. A teraz ľa... Nepustím,   nepustím...
+    </tei:p>
+    <tei:p>
+     — Nemám, syn moj, — povedal farár skormútene.
+    </tei:p>
+    <tei:p>
+     — Ani doma?
+    </tei:p>
+    <tei:p>
+     — Ani, — a zavzdychol.
+    </tei:p>
+    <tei:p>
+     Dufekovi napadlo, že azda bude mať krčmár Edelstein. Ale aj ten   vydával dcéru predvčerom, aby ho... Lenže ten sa nenechá bez   peňazi... Iste bude mať Treba probovať.
+    </tei:p>
+    <tei:p>
+     Poprosil pánov, aby počkali, že donesie tých 100 korún a ani   nečakajúc položil čapicu na hlavu a vybehol.
+    </tei:p>
+    <tei:p>
+     — Poďme, — posúril opätovne pisár.
+    </tei:p>
+    <tei:p>
+     — Roľa Cimenná! — zavolal. — Výkričná cena 1000 korún, — a   zamočiac pero do atramentu zase rozkrútil sa ním nad papierom.
+    </tei:p>
+    <tei:p>
+     — Počkať by sme mali, — nadmietol farár a vytiahol cigarník zo   zadného vrecka svojho dlhého kabáta. Otvoril a pošuchol ho pred   exekútora. Exekútor si vzal s poďakovaním a uspokojil ho, že sa   počkať môže. Aj rapavý svolil, keď aj pred neho postavili   cigarník.
+    </tei:p>
+    <tei:p>
+     — Počkáme, — rozhodol, krútiac cigaru v ústach a fúkajúc do nej,   či bude dobre dýchať.
+    </tei:p>
+    <tei:p>
+     — A po licitácii nech sa páči pánom na malý fruštik, — vravel   farár, chcejúc sa ukázať vďačným, že čakajú. — Taký malinký   predobedík nepo­škodí... Mám vínečko pitné, neškodné. Dá sa pri ňom   poshovárať. — Poklepkajúc prostredným prstom cigaru, otriasol s nej   popol a vyfúkol dym nad svoju hlavu... — Tohoročné vína nebudú   chýrne, — pokračoval. Hrozno nedozrelo od pľúšť a zimy. Dva mesiace   už nesvietilo slnce.
+    </tei:p>
+    <tei:p>
+     Rozprávali o úrode vína a o rozdielnych faj­tách tohoto. Sedliaci   si medzitým posadali pod pec na lavicu a ktorémusi z nich sa nahlas   začkalo. Druhý vystierajúc údy hlasno zívol. Rychtár pre­šiel od suda   k oknu a díval sa na cestu, majúc ruky na kríž položené. Von   neprestával padať sňah s dážďom.
+    </tei:p>
+    <tei:p>
+     Dufek o štvrťhodinu pribehol spotený a mokrý. Utrel si rukávom   tvár a pár ráz smrknúc prišiel až ku stolu
+    </tei:p>
+    <tei:p>
+     — Tu je 100 korún, — povedal hlasno.
+    </tei:p>
+    <tei:p>
+     Rychtár videl cez okno, že Dufek doviedol so sebou aj kravu,   veľkú, strakavú švajčiarku. Pri­viazal ju o hrušku pred domom.
+    </tei:p>
+    <tei:p>
+     Exekútor ani nepozrúc hodil rukou, aby ich složil. Ale Dufek stál   a neskladal.
+    </tei:p>
+    <tei:p>
+     — No, čo je? Složte, — súril.
+    </tei:p>
+    <tei:p>
+     — Tam sú na dvore.
+    </tei:p>
+    <tei:p>
+     — Čo?
+    </tei:p>
+    <tei:p>
+     — Krava.
+    </tei:p>
+    <tei:p>
+     — Aká krava?
+    </tei:p>
+    <tei:p>
+     — Vadium... Hodna je štyristo korún.
+    </tei:p>
+    <tei:p>
+     Exekútor nerozumel. Pozrel najprv na Dufeka, potom dookola a   zastavil sa pohľadom na faráro­vej tvári, aby tento vysvetlil.
+    </tei:p>
+    <tei:p>
+     — Skladám ju, — povedal Dufek, — ako va­dium. Ak chcú, aj sem ju   dovediem. O stôl pri­viažem, aby nepochybovali... Dvesto zlatých je   hodna... Nie, rychtárko?
+    </tei:p>
+    <tei:p>
+     Rychtár pokýval hlavou a povedal krátko:
+    </tei:p>
+    <tei:p>
+     — Otcu, materi.
+    </tei:p>
+    <tei:p>
+     Aj farár sa nahol ponad chrbát exekútorov a pozrel von oknom, aby   ocenil kravu.
+    </tei:p>
+    <tei:p>
+     — 300 korún odčítam, — povedal.
+    </tei:p>
+    <tei:p>
+     Sedliaci povstávali zpod pece a podišli k oknu, aby sa   presvedčili, čo je asi tá švajčiarka hodna. Cenili ju rozdielne.   Jeden povedal za fa­rárom 300. Druhý 360. Tretí aj vyše 400 Krásna,   veľká krava — hovorili. Dobrá fajta. Celý majetok. Keď sa otelí, dá   denne 12—14 litrov mieka. Všetci chválili. Ale exekútora to nedojalo.   Hodil rukou, že sú to všetko daromnice a so stiahnutým obočím zase   len vykríkol:
+    </tei:p>
+    <tei:p>
+     — Roľa Cimenná!... Výkričná cena 1000 kor. — Po chvíli dodal ešte   hlasnejšie.
+    </tei:p>
+    <tei:p>
+     — Spúšťam na deväťsto... Na osemsto...
+    </tei:p>
+    <tei:p>
+     — Osemsto! — zavolal Dufek.
+    </tei:p>
+    <tei:p>
+     — Nemôžete licitovať, — zahriakol ho exekútor, — složte   vadium.
+    </tei:p>
+    <tei:p>
+     — Tam je krava, — duplikoval Dufek.
+    </tei:p>
+    <tei:p>
+     — Krava je nie peniaz, — strmo zahriakol ho exekútor už   namrzený.
+    </tei:p>
+    <tei:p>
+     — Poďme! — súril rapavý.
+    </tei:p>
+    <tei:p>
+     — Že nie peniaz? — zasmial sa rychtár po­smešne. Zdalo sa mu, že   Dufekovi vlastne ne­chcú dať licitovať a podržať mieňa roľu pre seba.   Jeden sedliak pod pecou, s krátkymi bakombardami, ako by mu bolo   veľmi smiešno nad tým, že je krava nie peniaz, dupnul nohou, ako v   tanci a otočiac sa, zavolal: „Že nie!“ Druhý bledý s nakríveným   plecom, sťa by ho zuby bolely, priti­sol si dlaň k lícu a povedal:   „Bože, nie peniaze?“
+    </tei:p>
+    <tei:p>
+     — No už odpustíte, — počal farár, — ako by krava nebola   peniazom... Čože by ste ju teda ako vadium neprijali, ctení páni...   Vieme my, čo je zákon... Veď za tú kravu, kedykoľvek, dosta­nete   peniaze... Ako vravím, ja sám by očítal 300 korún hneď, keby mal   totižto... Ide predsa len o to, či je Dufek dobrý na 100 korún. Nuž a   my všetci dobre vieme, že je Dufek dobrý aj na 4000 korún... A   potiahnúc si spodnú peru prstami, tak, že mu bolo vidno čierne od   fajčenia zuby, doložil dôrazne:
+    </tei:p>
+    <tei:p>
+     — Licitovať teda musíte dovoliť tým skôr, lebo vám tu deponuje   kravu.
+    </tei:p>
+    <tei:p>
+     — Pravda, pravda, — zavolali sedliaci. — Treba prijať, — kričali.   — Licitovať! Nezákonnitosť... Treba podľa regule... Netrpíme...
+    </tei:p>
+    <tei:p>
+     — Ale, pán exekútor, — dôvodil farár ďalej a potľapkal ho po   pleci, — nechže už len licituje ten Dufek. Krava je dobrá, môžete   uveriť. Vyznám sa v lichve.
+    </tei:p>
+    <tei:p>
+     Malobrežania čím diaľ tým viac si dovoľovali. Sväto-sväte chcú tu   človeka o práva obrať, mysleli si. Krik sa vzmáhal a ostrel. Počali   husto máchať rukami a pohyby ich stávali sa prudkými a rýchlymi.   Exekútor si už myslel, že zase bude museť ploty preskakovať. Rapavý   už aj hľadal zimný kabát a palicu, aby uvrznul. Začul, ako mu ktorýsi   sedliak nadáva do rapavých opíc. Drmal exekútora za ru­káv, aby hľadel   tiež nejakým činom ufujazdiť. Dufek pristúpil ku stolu a buchol oň   kostnatou rukou, že žiada licitáciu a dáva za roľu 800 kor. Exekútor   trhol hlavou. Nazdal sa, že ho už bijú A v tomto okamžení akosi   srdito zakričal:
+    </tei:p>
+    <tei:p>
+     — Čo, ja tú kravu budem hnať do mesta?
+    </tei:p>
+    <tei:p>
+     — Poženieme, — odvetil mu ktorýsi.
+    </tei:p>
+    <tei:p>
+     — Štajrant je nie maštaľ, — volal.
+    </tei:p>
+    <tei:p>
+     — Sú tam obecné, — odvrkli mu.
+    </tei:p>
+    <tei:p>
+     — Ja ju budem kŕmiť a dojiť?
+    </tei:p>
+    <tei:p>
+     — Tam sú mestskí sluhovia.
+    </tei:p>
+    <tei:p>
+     — Diabla, veď je to pre dievky.
+    </tei:p>
+    <tei:p>
+     — Fero podojí, — zasmial sa ktosi.
+    </tei:p>
+    <tei:p>
+     — Nič nepomáha, nič nepomáha, — myslel exe­kútor, — musím zadržať   licitáciu. Nech licituje ten sprosták. Možno že ho prebijú. Pozrel na   fa­rára. Ten sa usmieval. Neutíši ich... Ba dráždi...
+    </tei:p>
+    <tei:p>
+     — Ale, pre Krista pána! — povedal nahlas,— čušte už, nekričte,   budeme licitovať... Ale kravu soberiem, lebo ju musím ku písmam   priložiť... I seno, i slamu, i dievku... To všetko v štajrante   deponovať... Na tento kúsok ľahkého papieru treba korunový štempeľ, —   a ukázal im písmo... Koľko štempľov bude treba na kravu, dievku a   slamu...
+    </tei:p>
+    <tei:p>
+     — Veď je tak, — ozval sa rychtár, — teraz ide na všetko   štempeľ.
+    </tei:p>
+    <tei:p>
+     Sedliaci počali tíchnuť.
+    </tei:p>
+    <tei:p>
+     — A potom, — pokračoval exekútor, — písma musia byť čisté, aby ich   slávny súd mohol prečí­tať a súdiť... A keby tak krava, nedajbože   niečo, šanujem vás, spravila... Ako by prečítali? Odkiaľ by sa   dozvedeli, že tú roľu Dufek vylicitoval a tamtú pán rychtár...
+    </tei:p>
+    <tei:p>
+     Sedliaci celkom zatíchli. Uznali pravdu a tá im všetkým jazyky   razom poodrezúvala. I farár sklonil hlavu a pozeral niečo pod stolom.   Oči­stom si odpľul a zatrel čižmou.
+    </tei:p>
+    <tei:p>
+     — Roľa Cimenná! — vykríkol exekútor.
+    </tei:p>
+    <tei:p>
+     Dufek nelicitoval. Darmo je.
+    </tei:p>
+    <tei:p>
+     Keď sa Lovásik vrátil do Malobrežia a roz­právali mu o licitácii,   smutno a zároveň s pote­šením len toľko povedal:
+    </tei:p>
+    <tei:p>
+     — Čo po nej! Dufek ju nepoore.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Redaktor.
+    </tei:head>
+    <tei:p>
+     Vladimír Štilec, redaktor miestnych novín „Hlasu Ľudu“, sedel vo   svojej pracovni. Jednu bosú nohu podložil pod seba, na druhej, tiež   bez punčochy, hompáľala sa mu červená papuča. Bol vyzlečený do   košele. Rukávy na nej si vyhrnul, a prse obnažil. Do spustených   žaluzií opieralo sa júlové poobedňajšie slnce a v izbe bolo už du­sno   od neobyčajnej spary. Svetlo vnikalo otvo­renými dvermi z dvora, na   ktorom vrieskaly deti.
+    </tei:p>
+    <tei:p>
+     Oprel si lakťami hlavu o pisací stolík a krú­tiac prstami käčku,   čítal posledné číslo svojho časopisu. Vidno, páčilo sa mu, lebo sa   usmieval. Kedy-tedy zdvihol hlavu, odfúkol si a zahľadel sa do   otvorených dverí, akoby počúval krik detí.
+    </tei:p>
+    <tei:p>
+     Tieto si vymyslely akúsi podivnú hru. Jedno zakikiríkalo a druhé   na to odpovedalo „Turek“. Po tomto sa všetky deti zasmialy. Kikirikí.   Turek. Smiech. Trafilo sa však, že namiesto Turka, po­vedalo Maďar.   Vtedy sa deti nesmialy. Smysel zábavy bol iste ten, že na Turka sa   maly smiať, na Maďara však nie, a ktoré sa smialo na Maďara, to   spraly.
+    </tei:p>
+    <tei:p>
+     Redaktor bol s číslom skutočne spokojný. Niektoré state si aj dva   razy prečítal, aby sa v nich ešte pokochal. Na chvíľu rozmýšľal o   tom, prečo sa decko rovnako nespýta: „Čo si?“ Ale cel­kom nerozumne   kikiríka. To nemá smyslu. Potom odložil číslo, spustil nohu, pohľadal   s ňou druhú papuču pod pisacím stolíkom, nahmatal ju, na­strčil na   nohu a chcel ísť do dvora, aby utíšil re­hotajúce sa detváky, keď   prišla do pracovne jeho žena Katka, mladá, pekná, ale trošku nízka a   tučná osôbka. Bola svetlovlasá, s bielou tvárou, veľkými modrými   očami a tuho červenými perami. Na ušiach mala veľké čierne kokardy.   Župan modrej farby s čiernym zamatovým golierom jej veľmi dobre   slušal.
+    </tei:p>
+    <tei:p>
+     — Čo je, Kata? — privítal ju muž, zapínajúc si na hrdle   košeľu.
+    </tei:p>
+    <tei:p>
+     — Zase majú židáci sviatky? — spýtala sa ho.
+    </tei:p>
+    <tei:p>
+     — Prečo? — zarazil sa muž nad otázkou.
+    </tei:p>
+    <tei:p>
+     — U Kupfsteina nedostať rožkov.
+    </tei:p>
+    <tei:p>
+     — Pošli k Rumesovi, — hodil redaktor s pleca, akoby urazený a   namyslený, že ho žena s takými maličkosťami unúva.
+    </tei:p>
+    <tei:p>
+     — Ale veď sú nie sviatky, — povedal po chvíli, — dostaneš aj u   žida.
+    </tei:p>
+    <tei:p>
+     — Odkázal, že nepečie.
+    </tei:p>
+    <tei:p>
+     — No, tak pošli k Rumesovi... S každou hlúposťou mi prídeš hneď na   krk. Ja som predsanie pekárom a rožky nepredávam. Keď nie u žida, nuž   u Rumesa, keď nie u Rumesa, tak u Tuchlíka... Nikdy si nevieš   poradiť, — zahovoril redaktor chytro a podráždene, sťahujúc vyhrnuté   rukávy košele. — Z teba by bola moderná žena, to je pravda, —   pokračoval posmešne, — ty si súca na samostatnosť. Vše aby druhý   myslel miesto teba. Ba keby sa ti šnúrka na poltopán­kach roztrhla, aj   vtedy by si sa prišla radiť, čo máš robiť — há?
+    </tei:p>
+    <tei:p>
+     — Netáraj, — zahriakla ho žena, urazená. — Ani u Rumesa, ani u   Tuchlíka nedostať.
+    </tei:p>
+    <tei:p>
+     Redaktor, ktorý si práve natiahol punčochy a obul topánky,   vyskočil.
+    </tei:p>
+    <tei:p>
+     — Čert ma po vás, — zavolal, — ja vám ich nenapečiem. Ty si len   poraď. Ja zajdem do „Extravurštu“ a tam si zajiem.
+    </tei:p>
+    <tei:p>
+     Natiahol si manžety, založil kráglik, ktorý podviazal bielou   mašľou. Pritlačil slamený klobúk na hlavu. Zavesil paličku na   kabátové vrecko a počal naťahovať rukavičky.
+    </tei:p>
+    <tei:p>
+     — Iste bude dnes nejaký sviatok, — násto­jila žena. — Prečo by   neboli piekli pekári? Ale kalendár neukazuje.
+    </tei:p>
+    <tei:p>
+     — Pozrela si?
+    </tei:p>
+    <tei:p>
+     — Pozrela.
+    </tei:p>
+    <tei:p>
+     — No, tak pozri ešte raz.
+    </tei:p>
+    <tei:p>
+     Žena mu podala kalendár, ktorý mala v ruke.
+    </tei:p>
+    <tei:p>
+     — Pozri ty. Ja nenachádzam.
+    </tei:p>
+    <tei:p>
+     Redaktor pozrel. Sviatku v ten deň nija­kého nebolo. Preskúmal i   to, či je to kalendár z tohoto roku, lebo, aká je žena, môže mu   do­niesť aj predlanský.
+    </tei:p>
+    <tei:p>
+     — No, — súrila ho.
+    </tei:p>
+    <tei:p>
+     — Niet, — povedal muž a hodil kalendár na stolík. Zatým, ako by mu   bolo napadlo niečo, zadíval sa na ženu a vážne predniesol, že to bude   iste štrajk. Musí sa presvedčiť, ako a prečo sa to stalo. Zvedeť   príčiny a motívy. A odbehol.
+    </tei:p>
+    <tei:p>
+     Uháňal rovno do „Extravurštu“, z čiastky pre vypátranie štrajku,   ale z väčšej čiastky preto, aby si zaolevrantoval a menovite smäd   zahasil. Hostí sedelo pod plachtou veľa. Aj slúžny Péterfy, mladý,   namyslený pánik s končitou hlavou upíjal si pivo s komandantom   hasičov, pánom Antonom Lalo­kom v športovej čapici, s tučnými,   opuchnutými lí­cami a hrubými, šedivými fúzami. Redaktor sa im   pozdravil, ale ani slúžny, ani komandant nezaďakovali za jeho   pozdrav. To ho troška zara­zilo. Prešiel k malému stolku, složil   klobúk a pa­ličku na súsednú stoličku a uvelebil sa, čakajúc   sklepníka.
+    </tei:p>
+    <tei:p>
+     Mladý, čierny sklepník s nakaderenými vlas­mi, s ustrihnutým,   zakyckaným frakom a bielou zafľakovanou zásterou motal sa medzi   stolíkmi, ale ani nepozrel na neho.
+    </tei:p>
+    <tei:p>
+     Zaklepal snubným prsteňom na stolíku.
+    </tei:p>
+    <tei:p>
+     — Áno, — zakričal sklepník, ale ani hlavou neotočil.
+    </tei:p>
+    <tei:p>
+     — Sklepník, sklepník, — zavolal, ale sklep­ník len toľko povedal,   že hneď. Zato nepodišiel k jeho stolku.
+    </tei:p>
+    <tei:p>
+     Prešlo asi päť minúť. Redaktor opätovne za­klepal. Potom ešte raz   zaklepal, potom zaklepal a zavolal, za tým vstal, aby ho na seba   upozor­nil. Sklepník, ako čo by bol hluchý... A hľa! Slúžny tiež   zaťukal penicírom na poháriku a sklep­ník rovno k nemu neuteká, ale   letí. O chvíľu do­náša pivo.
+    </tei:p>
+    <tei:p>
+     Povstal s miesta a pošiel k sklepníkovi, že ho schytí za rameno a   nadá mu do hlúpych a nepozorných. Ten ho zbadal a zas len   zakričal:
+    </tei:p>
+    <tei:p>
+     — Áno, hneď.
+    </tei:p>
+    <tei:p>
+     Štilec sa posadil a čakal. Čakal zase asi de­sať minút, ale   sklepník neprišiel. Urazený a rozsŕdený redaktor sa vzchopil,   zahrešil, a schválne búchajúc palicou po dlážke, demonštratívne   vy­šiel z kiosku. Zdalo sa mu, že sa niekto smeje, ale sa neobrátil.   Hromžil, hundral v duchu na krčmu a obsluhu. Keby ste boli na niečo   súci, do novín by vás dal... Ale vás i dám. Otroci akýsi. Chvosty   pánske. Budete vy mňa ešte rešpektovať...
+    </tei:p>
+    <tei:p>
+     V druhej krčme u Kolesníka sa mu práve tak vodilo. Tu sa naďabil   aj asekuračný agent, mladý, drobný židáčik Blumberg, s tvárou   vyhádzanou samými červenými pupenčekami a nápadne od­stávajúcimi   ušami. Oznámil mu, že jeho aseku- rácia vyšla, a aby odpustil, ale   aby sa obrátil na druhú firmu. Povinný je chrániť záujmy firmy. V   prípade takom, v akom sa octol pán Štilec, by bolo zrovna trestuhodné   asekuráciu predlžovať atď., atď.
+    </tei:p>
+    <tei:p>
+     — Aký prípad? Choďte do pekla, — rozhodil sa redaktor.
+    </tei:p>
+    <tei:p>
+     Blumberg odišiel, ale aj Štilec odpálil, ako sa hovorí. Cestou sa   mu ani stolár Medený ne­pozdravil. Stretol sa aj s krajčírom, ale i   ten len čosi zamrmlal, čo sa ani zďaleka pozdravu nepo­dobalo.
+    </tei:p>
+    <tei:p>
+     — Chrapúni, chrapúni, — nadával v duchu celou cestou. Bol rád, keď   sa dostal domov. Mohol sa pre­obliecť. Pot lial sa mu cícerkom s čela.   Košeľa premoknutá, ani čo by zmokol. Vypil so desať pohárov vody a   svalil sa na diván, rozmýšľajúc o všetkom, čo sa mu prihodilo a nič   nechápajúc. Myslel do večera. Najmä obsluha v „Extravuršte“ ho   ponižovala a dráždila. Ani cez noc nemohol dobre spať. Strhávalo ho.   Ráno už o polpiatej sa zobudil a myslel, ako by sa vypomstil na   hotelierovi a ostatných.
+    </tei:p>
+    <tei:p>
+     Asi na tretí deň navštívila ho žena zase v pracovni.
+    </tei:p>
+    <tei:p>
+     — Tu si? — spýtala sa potichu, odchýliac dvere.
+    </tei:p>
+    <tei:p>
+     — Tu. Čo je?
+    </tei:p>
+    <tei:p>
+     Podala mu akési písmo modrej farby.
+    </tei:p>
+    <tei:p>
+     — Toto doniesli od súdu.
+    </tei:p>
+    <tei:p>
+     — Od súdu?
+    </tei:p>
+    <tei:p>
+     — Čo si zas neplatil?
+    </tei:p>
+    <tei:p>
+     Redaktor vzal písmo a letmo ho prezrel.
+    </tei:p>
+    <tei:p>
+     — Horšie, — povedal a zbledol.
+    </tei:p>
+    <tei:p>
+     — Čo, pre Boha? Hovor!
+    </tei:p>
+    <tei:p>
+     — Volajú ma k vyšetrujúcemu sudcovi, — vysvetlil a sadol si. —   Ukáž posledné číslo... Čo tam mohlo byť napísané .. Ešte by mi toho   bolo treba ...
+    </tei:p>
+    <tei:p>
+     Zadýchal sa od ľaku a pár razy glgol, čo mu ústa vyschly.
+    </tei:p>
+    <tei:p>
+     — Chytro, chytro, — súril.
+    </tei:p>
+    <tei:p>
+     Žena doniesla číslo, tiež celá naľakaná.
+    </tei:p>
+    <tei:p>
+     — Čítaj od začiatku do konca, — rozkázal, — ani jednu literu   nevynechaj. Aj punkty i čiarky spomeň. Chytro.
+    </tei:p>
+    <tei:p>
+     Žena prečítala číslo verne od slova do slova s punktami a   čiarkami. Nevynechala ani meno tlačiara.
+    </tei:p>
+    <tei:p>
+     — Je tam volačo?
+    </tei:p>
+    <tei:p>
+     — Nič nenachádzam, — ubezpečila ho žena.
+    </tei:p>
+    <tei:p>
+     — Nič trestuhodného?
+    </tei:p>
+    <tei:p>
+     — Nič.
+    </tei:p>
+    <tei:p>
+     — Prečítaj ešte raz.
+    </tei:p>
+    <tei:p>
+     Žena ešte raz prečítala. Redaktor neveril a sám prečítal. Prečo ho   tedy volajú k sudcovi? Čo vy­konal? Aký hriech spáchal? Čím ho   obviňujú? Večer v posteli prečítal číslo ešte dva razy. Ale nenašiel   nič.
+    </tei:p>
+    <tei:p>
+     Až u vyšetrujúceho sudcu sa dozvedel, prečo ho volajú. Tento   obstarný pán s obstrihanou okrúhlou bradou, s okuliarmi na hrbatom   nose, čibukujúc, prečítal mu inkriminovaný článok. Znel   nasledovne:
+    </tei:p>
+    <tei:p>
+     „Dopis z Lužian. Dvadsaťpäťročné jubileum ohňohasičské. Na znak   dvadsaťpäťročnej vernej služby a hasenia dostali 16. hasičia nášho   dobro­voľného hasičského spolku po jednom metáli z bronzu s kráľovou   hlavou a rimskou čislicou XXV. Slúžny Péterfi im ich odovzdal v   sprievode maďarskej reči. Ktosi mu za to z klobúka po ma­ďarsky   ďakoval. Večer bol banket v hoteli „Extravuršt“, na ktorom sa dávala   varená prasacina namiesto pečenej a nedovarené halušky so syrom,   ktoré sa v hrnci postretávaly a tak skamarátily, že sa ani na mise   nevedely jedna od druhej roz­lúčiť. Dali aj rozvareného pelendreku v   pohári­koch, bez lyžičiek, tak že si jubilanti museli mie­šať   vreckovými nožíkami, čakanami a prstami. Slúžny pripil na kráľa po   maďarsky. Ondrej Ka­lina na pána slúžneho po slovensky. Tunajší kaplán   vravel o sile náboženstva po slovensky. Antal Lalok, hasičský   komandant, po maďarsky a nemecky pripil hosťom. Hosť Eduard Valentín,   no­tár z Lendašoviec, vysvetlil po slovensky, na čo sme sa na bankete   sišli a jubilanti sa až pri reči tohoto dozvedeli, že sú jubilantmi a   hasičmi už 25 rokov. Bola aj hudba. Cigáň len na päťdesiaty raz   zahral slovenskú nótu, pri ktorej sme sa vše­tci rozveselili. Po   bankete bol aj tanec, spojený s kartovaním a pitím. A všetko toto   stálo len tri koruny.“
+    </tei:p>
+    <tei:p>
+     Štilec počúval ako omráčený.
+    </tei:p>
+    <tei:p>
+     — Toto inkriminujú? — spýtal sa ticho.
+    </tei:p>
+    <tei:p>
+     — Toto.
+    </tei:p>
+    <tei:p>
+     — A čo z toho bude?
+    </tei:p>
+    <tei:p>
+     — Všeličo. Poburovanie proti národnosti na každý pád. Urazenie   jeho Veličenstva kráľa, iste. Podnecovanie proti náboženstvu, celkom   určite. Urážka vrchnosti, ako vrchnosti a ublíženie na cti pána   slúžneho, eventuelne komandanta hasičov, hoteliera „Extravurštu“ a   jeho kuchárky, cigáň-primáša a všetkých kartárov...
+    </tei:p>
+    <tei:p>
+     Redaktor sa udrel do čela a zvolal, pretrhnúc sudcu v reči:
+    </tei:p>
+    <tei:p>
+     — Rumesa, Tuchlíka, Kupfsteina a ostatných pekárov a hasičov...   Ani asekurovať ma nechcú, čert aby ich vzal... Teraz už viem... To   preto bola taká obsluha... Ešte aj slúžka Zuza ma prestala počúvať.   Iste má nejakého hasiča... Už to mám... Chápem... Dobre je.
+    </tei:p>
+    <tei:p>
+     — Nie je dobre, — preriekol sudca. Vy ste písali ten článok?
+    </tei:p>
+    <tei:p>
+     — Ja.
+    </tei:p>
+    <tei:p>
+     — Dajte si pozor. A menovite nech vás chráni Pán Boh od ohňa.
+    </tei:p>
+    <tei:p>
+     — A od redaktorstva, — doložil Štilec...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Vydaj.
+    </tei:head>
+    <tei:p>
+     Keď sa dievča vydá, akoby umrelo, vraví prí­slovie. Ono tie   príslovia obyčajne prestreľujú, ale toto menovite nemá ani za necheť   pravdy. Keby sa vydaj rovnal smrti, nuž by neliply dievčatá za   mužskými, ako muchy za cukrom. Akonáhle počnú okrúhleť, už sú zvedavé   na svojho budúceho. Po­čujeme síce od nich: „Ach, ja sa nevydám. Ach,   čože by sa vydávala! Lepšie je dievčaťu, jak ne­veste.“ Ale čo vidíme?   Na Ondreja lejú olovo. Prečo lejú? Varia halušky s papierikami. Prečo   varia? Od Lucie až do Vianoc každý deň ráno na lačný žalúdok hryzú do   jablka. Na kieho helementa im je to? Berú do náručia drevo a   od­čitujú, či do páru nabraly, či nie? Nuž? Horký tam smrť. Každej   preletí hlavou: „Bohdaj by sko­rej takto zomrela.“
+    </tei:p>
+    <tei:p>
+     Ako dievčatá, tak aj ich rodičia. Veď by ich varovali pred istou   smrťou. Či ich varujú? Šušku borovú ich varujú! Tiskajú ich, aby im   len pre Boha na krkoch nezostaly, ale aby sa radšej ne­jakému   bohatému, mladému, hodnému, poriadnemu, zdravému, z dobrej famílie   pochádzajúcemu na krky zavesily. Navešajú na ne všetky možné čačky,   stužtičky, perličky, až sa tak ligocú, keď idú na slnci, len aby sa   popáčily a aby už raz dosť bolo tých všelijakých mašličiek. Do   kostola vyháňajú každú nedeľu tri razy a v robotný deň aspoň dva, len   aby padly do oka. A tie zábavy! Doma toľko ráz nevymetú, koľko ráz   zametú tanečnú izbu v ho­stinci u „Mesiaca“, čo je na rynku.
+    </tei:p>
+    <tei:p>
+     Nie preto píšem, že by im vari závidel. Ale sa jedujem, keď vravia   o smrti. Krásna smrť. Nie, to mi nikto na nos nezavesí.
+    </tei:p>
+    <tei:p>
+     O Zuzke Bírešovie som sa nazdal, že je vý­nimka. Ovdovela a bez   detí zostala. Šla slúžiť ku kníhkupcovi Mirzákovi v Hornej ulici.   Povedala, že vydaju mala dosť a nechce viac z tej sladkosti. A veru   nevyzerala ani tá, ako čo by z mŕtvych vstala, ani tak, ako čo by ju   boli s márov sniesli. Skorej sa podobala ruži, štepenej len minulej   jari do ohybného, mladého tŕňového prúta. Tvár jej aspoň tak kvitla a   driek sa jej tak ohýbal. Nebolo ani takej driečnej slúžky v meste.   Nechcem uraziť, ale je pravda, že tak v nedeľu, keď šla z kostola,   nejeden mešťan pozrel za ňou. Obyčajne nosila čiernu hodvábnu šatku   na hlave, čiernu zamatovú kabaňku, tmavobelasú satínovú sukňu a v   ruke pátričky, malú modlitebnú knižku a bielu šatku. V robotný deň   bola ešte krajšia. Keď zavrtela že­lezným kolesom na studni pred   vihňou kováča Miklúša, krátka biela sukňa sa jej oháňala, úzky driek   ohýbal a bosé nohy blýskaly, ako voda, keď svieti na ňu slnce.   Postála ak musela čakať, ale keď si putne naplnila, už sa aj zohla,   chytila ich a narovnajúc sa, hneď sa aj domov ponáhľala. Napäté,   silné a ohorené ramená niesly nehybne plné nádoby. Neobzerala sa, ako   straka, neskla­dala putne pri každej bráne, aby si poklebetila a   neškerila sa na paholkov.
+    </tei:p>
+    <tei:p>
+     A slúžka bola znamenitá. Panie závidely Mirzákovej tento ôsmy div   sveta. Druhým aby si hneď za rána hodinu vyzváňal nad hlavou, aby oči   rozdrapily a prestaly fučať. Zuzka sliepky budí. Ani ju zrakom   nedostihneš, tak lieta. Sukňa jej je ešte v kuchyni a hlava v sklepe,   alebo naopak. Jednou rukou skladá smeták v pitvore a druhou odťahuje   mlieko so sporáka v kuchyni. Načre rukou do pá­novej čižmy a v tom   momente už aj spravila ra­ňajky a nesie ich aj s čižmami. Ktoráže   slúžka pozerá za pec, ktoráže sa škriabe po rebríkoch na kasne, hádže   na brucho, aby videla, čo je pod posteľou a nepotrebné odmietla? Mimo   Zuzky ani jedna. Tá panie učí na poriadok.
+    </tei:p>
+    <tei:p>
+     Pani kníhkupcová je aj spokojná s ňou. Len jedno ju trápi. Neraz   povedala Zuzke:
+    </tei:p>
+    <tei:p>
+     — Dobre, Zuzka moja, dobre. Ale, ak sa mi vydáš, čo si ja   počnem.
+    </tei:p>
+    <tei:p>
+     Zuzka sa zachichotala:
+    </tei:p>
+    <tei:p>
+     — Ale, milosťpani, nikdy. Radšej by som si ruku odťala.
+    </tei:p>
+    <tei:p>
+     — Nono.
+    </tei:p>
+    <tei:p>
+     — Veru áno.
+    </tei:p>
+    <tei:p>
+     Pani sa tešila. Zuzka vo svojom predsavzatí zotrvávala. Mala aj   dvoch pytačov. Prvého na fľaku vyhodila. Druhý bol nebezpečný, lebo   sa ho aj jej rodina zaujala a bol dobrým gazdom, vdovcom s piatimi   deťmi. Bol to Becko, gazda z Rubinovej, tej istej dediny, odkiaľ bola   aj Zuzka. Odrazu ná­hlo zomrela mu žena. Čo bolo robiť? Pán Boh dal,   pán Boh vzal. Chybovala žena v dome, lebo boly deti, majetok,   dobytok. Všetko treba opatriť. Najímať veľa stojí a na cudzieho   sveriť majetok sa nedá. Uchytí tu, uchytí tam, dá tej rodine, dá   onej, seba neukráti a po chvíli ťa celého roznesie. Člo­vek nemá tisíc   očí. Najlepšie by bolo oženiť sa.
+    </tei:p>
+    <tei:p>
+     Ponosoval sa susede Ule.
+    </tei:p>
+    <tei:p>
+     — No, čože, — povedala aj táto, — ožeňte sa.
+    </tei:p>
+    <tei:p>
+     — Ktože pôjde za mňa, za vdovca s piatimi deťmi, — zavzdychol,   tešiac sa pri tom v duchu, že aj Uľa narádza oženiť sa. Tedy je to   nie taká nemožnosť.
+    </tei:p>
+    <tei:p>
+     — Čo, vdovec?... Len roľa. „Koncom na Pažiť“ je 12 meríc. A   deti?... Nuž a „Krídlatá?“ „Jedlište“, „Vyšníky“ sú od čoho? Ktože   hľadí na deti, keď môže role pozerať? Zuza Bírešovie by hneď šla.   Vdovica bez detí a má hotových 500 zl. nagazdovaných.
+    </tei:p>
+    <tei:p>
+     Súseda nevravela zle. Akokoľvek je to s roľami, ale dievčatá sa   nerady vydávajú za vdovcov, vdovy zase mládenci neberú veľmi. Čo   vdoviciam pozo­stáva? Vdovci... A potom takých 500 zlatých v   hotovosti, to aj vdovu povýši nad hocijaké dievča. Hotový peniaz je   duplovaná hodnota... Hneď sa môže prikúpiť niečo. Gazdovstvo sa   rozšíri.
+    </tei:p>
+    <tei:p>
+     — Nebolo by zle, — zamrmľal Becko a zamrdal fúzami, akoby bol   glgol z hriateho. Nahol sa k Ule a čosi pošuškal. Uľa prikývla.
+    </tei:p>
+    <tei:p>
+     Šla Uľa ku Zuzke aj so sestrou tejto, Marinou, chudobnou   bíreškou.
+    </tei:p>
+    <tei:p>
+     Zuzka práve umývala riad po obede. Utrela si chytro ruky.   Postierala zásterkou stoličky a usa­dila hosťov.
+    </tei:p>
+    <tei:p>
+     — Čože ste mi doniesly? — opýtala sa hrkajúc zase taniermi v   teplej vode a vykladajúc ich na táflu.
+    </tei:p>
+    <tei:p>
+     — Nahovárať sme ťa prišly. Či by si sa reku nevydala, — počala Uľa   rovno.
+    </tei:p>
+    <tei:p>
+     — Nie hocijaký, — dodala Marina.
+    </tei:p>
+    <tei:p>
+     — A čo je kto, ja sa nevydám.
+    </tei:p>
+    <tei:p>
+     — Štyri osminy majetku, — bastvila Uľa.
+    </tei:p>
+    <tei:p>
+     — Nech má koľko chce.
+    </tei:p>
+    <tei:p>
+     — Tri kravy, — licitovala Marina.
+    </tei:p>
+    <tei:p>
+     — Pár koní... Keď chceš vedeť, Becko, — vy­svetlila Uľa, aby ju   Marina neprevýšila, ačpráve sa Zuzka ani nespytovala, kto je to.
+    </tei:p>
+    <tei:p>
+     — Becko? — zhýkla Zuzka a zakryjúc si dlaňou tvár, rozosmiala sa.   Veď ten má päť detí. Choďte mi a ako čo by sa o vec celkom nič   nezaujímala, drhla ďalej suchou handrou umyté taniere. Potom sa ešte   spýtala Mariny, ako sa majú otec, len aby nepočaly ešte raz o   Beckovi.
+    </tei:p>
+    <tei:p>
+     Ufa s Marinou nafúkané odišly. Keď ich od­prevadila a zavrela za   nimi kuchynské dvere, zase sa len hlasno rozosmiala. Keď odložila   riad, za­stala pri okne a zadívala sa do sadu. Keď ku­chyňu zametala,   už si spievala a myslela si pri tom, že sa naozaj nevydá. By sa jej   chcelo zase lopotiť sa od svitu do noci... Kravy, role a na tých päť;   možno, že by ešte deti prišly... A tu, ani roboty toľko. Aj si   zarobí, aj vyslúži, aj má čo jesť. Pani dobrá. Nie skúpa. Nevydelí na   tanier, ako druhé. Chlieb v kredenci. Keď chce si od­krojí... Čo   jarmok, jarmočné ju neminie. Odídu, iste donesú niečo. Na Vianoce vše   dostane na celé šaty a hostia takí, čo odmenia za poslúženie... Čo by   sa ona vydávala.
+    </tei:p>
+    <tei:p>
+     Na druhú nedeľu Uľa sa zase dostavila aj so sestrou Zuzkinou.
+    </tei:p>
+    <tei:p>
+     Zuzka stála na svojom.
+    </tei:p>
+    <tei:p>
+     — Čo budeš vždy druhému slúžiť? Lepšie je byť paňou samej sebe, —   vysvetľovala Uľa. Čože si takto? Slúžka, slúžka, slúžka.
+    </tei:p>
+    <tei:p>
+     — Rodine pomôžeš, — na to Marina, — z ta­kého gazdovstva sa aj nám   ujde.
+    </tei:p>
+    <tei:p>
+     Nič nepomáhalo.
+    </tei:p>
+    <tei:p>
+     — Čo ma po ňom, čo ma po ňom, — od­vrkla za každou chválou   Zuzka.
+    </tei:p>
+    <tei:p>
+     Konečne bez výsledku odišly, ešte väčšmi na­fúkané.
+    </tei:p>
+    <tei:p>
+     Zuzka cez týždeň dostala až tri listy. Od Ma­riny, od mladšej   sestry Anny a od otca. Tento bol celkom prísny a bola v ňom vyhrážka,   že ak sa nevydá za Becku, aby viac domov nechodila.
+    </tei:p>
+    <tei:p>
+     Zuzka len plecom mrdla:
+    </tei:p>
+    <tei:p>
+     — Nuž nepôjdem.
+    </tei:p>
+    <tei:p>
+     Pani Mirzáková, keď sa o týchto pytačkách dozvedela, hneď povýšila   Zuzke slúžobné o celú zlatku, len aby jej nenapadlo vydať sa.   Čiernymi barvami jej líčila stav sedliačkin, ako musí robiť, ťahať,   ako taký koník a len pre cudzieho. Bude iba macochou a horšou slúžkou   ako u nej. Zuzka uspokojila paniu, aby sa len netrápila. Ona sa   nevydá.
+    </tei:p>
+    <tei:p>
+     Uľa zase Beckovi húdla, že to inak nepôjde, iba ak by dal na ňu   prepísať nejakú roľu. Možno, že by sa tým dala nakriatnuť. Becko   váhal, ale konečne privolil.
+    </tei:p>
+    <tei:p>
+     Zuzka dostala zase v jedno nedeľné odpoludnie návštevu. Prišla   Uľa, Marina, Anna a otec. Ani ich nemala kam usadiť, toľko ich bolo.   Ufa bola rečníkom. Ostatní len tak niekedy skákali do reči.
+    </tei:p>
+    <tei:p>
+     — Dá ti prepísať Krídlatú, — vravela Ufa, roz­kladajúc suchými,   čiernymi rukami. Budeš paňou.
+    </tei:p>
+    <tei:p>
+     — Hneď, ako sľúbiš, pôjdete spolu k notárovi, — doplňovala   Marina.
+    </tei:p>
+    <tei:p>
+     — Krásny kus zeme, — zamrmľal otec, zaký­vajúc hlavou s dlhými   namastenými vlasmi a si­navými, hrubými perami.
+    </tei:p>
+    <tei:p>
+     — Ja neviem, čo sa ty, Zuza, toľko onačíš, — zatrepotala chytro   jazykom mladšia sestra Anna, ohorená a pehavá a tiež chudobne   vydatá.
+    </tei:p>
+    <tei:p>
+     — K majetku prídeš a nič nedáš za to, — po­kračovala Uľa. — Akoby   ti pečený holub padol do huby. S deťmi nebudeš mať oštary. Najstaršia   má už 14 rokov. Tá dopatrí a pomôže ti vo všetkom.
+    </tei:p>
+    <tei:p>
+     — No už tá Krídlatá je krásny kúštik, opä­toval otec svoje,   pozerajúc si na čižmy a odlupu­júc si prstami soschnuté blato na   sárach.
+    </tei:p>
+    <tei:p>
+     — A do daru, pre nič za nič, — duplikovala Marina.
+    </tei:p>
+    <tei:p>
+     Anna nahnevano hodila hlavou, sťaby chcela povedať: komu niet   rady, tomu niet pomoci.
+    </tei:p>
+    <tei:p>
+     — Musíš hľadeť aj na svoju rodinu, Zuzka, nielen na seba, —   dovrávala Uľa.
+    </tei:p>
+    <tei:p>
+     — Vždy bola najhoršia medzi nami, — sekla Marina.
+    </tei:p>
+    <tei:p>
+     — Nedrážď, — chlácholila Uľa.
+    </tei:p>
+    <tei:p>
+     — Len jej aby bolo dobre, — uštipla Anna.
+    </tei:p>
+    <tei:p>
+     — No, už sa k nám neukazuj, ak toto od­mietneš, — pohrozil sa zase   otec a vstal s lavice, že aby šli. Aj sa pobrali, teraz už celkom   rozpaprčení.
+    </tei:p>
+    <tei:p>
+     Zuzka odolala. Z hlboka si vydýchla, keď od­išli. Smutná si sadla   ku oknu a zadumala sa hlboko, hľadiac na čap kotla na sporáku. Slnce   zapadalo a blýskalo sa vo vyleštenej meďovej ploche.
+    </tei:p>
+    <tei:p>
+     Taká bola Zuzka a ja som sa nazdal, ako som už povedal, že bude   výnimkou medzi dievčatmi a bezdetnými vdovami. Tešil som sa, že naše   pore­kadlá predsa len nekuľhajú, ale sú v nich skutočné zlaté zrná   pravdy, ktoré nemožno pozobať. A tu máš! Čo sa stalo asi o mesiac na   to? Zuzka sa predsa len vydala, akokoľvek je vydaj smrťou.
+    </tei:p>
+    <tei:p>
+     Ako sa to len mohlo stať?
+    </tei:p>
+    <tei:p>
+     Nuž prišla aj po štvrtý raz Uľa aj s Beckom.
+    </tei:p>
+    <tei:p>
+     Zuzka, pokorná a tichá, usadila ich a zdvihla svoje oči na Uľu s   nemou otázkou, akoby sa bála čohosi. Becko sa usmieval a pokukával tu   na Uľu, tu na Zuzku a fúzy si vykrúcal a prekladal si každú chvíľu   nohy. Raz pravú na ľavú, raz ľavú na pravú. Vyleštené čižmy svietily   sa ako jeho tučné líca. Vyzeral najviac 40-ročný. Čelo vysoké, ale   bez vráskov, len okolo kútikov očí bolo badať strakačie labky.
+    </tei:p>
+    <tei:p>
+     — Zuza, — povedala vážne, so sníženým hlasom Uľa, — ešte raz sme   prišli, ale ostatný raz. Ty si nie ľahkomyseľnica... Zakašľala   očistom a ukázala na Becku. — Pozri si, budeš mať nielen Krí­dlatú,   ale ti dá pán Becko 100 zlatých, ktoré si hneď môžeš dať do špárkasy,   ak sľúbiš... Šťastie sa ti usmieva... Neodoháňaj ho! Uletí a nepríde.   Ty si chudobná a budeš boháčkou...
+    </tei:p>
+    <tei:p>
+     Zuzka sklonila hlavu. Stovka jej prelietla my­sľou a zas sa jej len   do hlavy vrátila. Tam aj zostala trčať. Potom sa k nej aj celá roľa   Krídlatá priva­lila. Na to jej zakvičali so tri bravy, zaručaly tri   kravy, zaerdžali kone. K tomu ešte aj Uľa zahučala:
+    </tei:p>
+    <tei:p>
+     — Sľúb sa, sľúb sa...
+    </tei:p>
+    <tei:p>
+     V toľkom hukote ani anjel by nebol odolal, nie to Zuzka. No   napriek tomuto lomozu zretedlne bolo počuť v kuchyni hlas Zuzkin:
+    </tei:p>
+    <tei:p>
+     — Nech odčíta!
+    </tei:p>
+    <tei:p>
+     Riekla to ticho, snáď len sama sebe, snáď nie­komu na dvore, lebo   sa k oknu odvrátila. Zakryla si zásterou tvár a odklonená čakala, kým   nepo­čula, ako Becko odčituje pokrčené banknóty, ticho ich vystierajúc   na táfli a mrmľajúc si popod nos. Uľa prizerala sa mu, mihajúc   drobnými očima a ma­júc ruky na bruchu. Na koniec aj Zuzka fľochla a   keď Becko povedal „sto“, vše ešte nehľadiac do očí mladoženíchovi,   podala mu ruku do jeho na­tiahnutej ruky a zašepkala:
+    </tei:p>
+    <tei:p>
+     — Nech sa stane vôľa božia!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Strašidlo.
+    </tei:head>
+    <tei:p>
+     Nad tmavými vrchami stál mesiac. Veľký a okrúhly, ako peceň   chleba, lial svoje striebristé svetlo na krajinu. Všetko bolo   zatiahnuté riedkym tmavomodrým závojom. Len hradská sa belela ako   vápno a kvitnúce slivky po obidvoch stra­nách cesty zdaly sa   zasňaženými. Ich tône šikmo padaly a obrubovaly ju ľahkými   priezračnými čipkami. Niekedy zadul ešte dosť chladný aprílový vietor   a zašumel vrchom krátkeho žita, rozprestie­rajúceho sa dookola na   dvoch veľkých tablách. Drobné stromové lísťa zatrepotalo. Tiene na   ce­ste pohýbaly sa. Ináče bolo mŕtvo a ticho. Blížila sa polnoc.
+    </tei:p>
+    <tei:p>
+     Kaplán Červenák v tvrdom klobúku, s veľ­kým plášťom na pleciach a   dáždnikom, vracal sa domov do Rozkaloviec z Búrneho, kam skoro každý   deň chodieval k pánu dekanovi Veselému. Farníci síce vraveli, že   chodí k nemu k vôli jeho dcére, slečne Anne, lebo aj rozkalovský pán   farár má dobré víno, tak ako dekan, aj dobré cigary kúri, práve tak   ako dekan, aj tartílk si rád zahrá, ako Veselý, ale dcéry nemá. Tedy   len slečna Anička môže byť tým magnétom, ktorý pána ka­plána   priťahuje. Možno. Pravda je, že sa pán ka­plán najradšej prechádzal   smerom k Búrnemu. Aj to je pravda, že sa tieto prechádzky končievaly   Búrnym. Starý dekan ho vďačne prijímal a Anička najradšej s ním   filozofovala. Filozofovanie pre­tiahlo sa obyčajne do desiatej večer.   O tomto čase chodil pán dekan spať. Rozduril ich aj v najživšej   debate.
+    </tei:p>
+    <tei:p>
+     — Desať hodín, — prehlásil. — Spať.
+    </tei:p>
+    <tei:p>
+     A pán kaplán len po tomto odchádzal
+    </tei:p>
+    <tei:p>
+     Dnes nebol doma. Šiel k rozkalovskému fará­rovi, šéfovi   Červenákovmu, v akejsi cirkevnej zá­ležitosti. Nevracal sa a mladí   zabŕdli vo filozofii. Sedeli po prvý raz v zahradke a pán kaplán bol   neobyčajne citlivý.
+    </tei:p>
+    <tei:p>
+     — Veru, slečna Anička, — hovoril, — život je večný. Neprestane pri   tom, čo smrťou menu­jeme. Svoju podobu premieňa, ale zostáva tu, okolo   nás...
+    </tei:p>
+    <tei:p>
+     Popri tomto skúmal jej vysokú, štihlú postavu a grécky účes,   prihladený k slychám a malú riedku šticu, padajúcu na vysoké, okrúhle   čelo Uvažoval, že ku gréckemu účesu sa štica nehodí. Chcel jej   povedať, že sa zle češe, keď kuvik náhle zakuvikal. Od volakial zo   sadu šiel tento nepríjemný desiaci hlas. Anička sa striasla a spýtala   sa:
+    </tei:p>
+    <tei:p>
+     — Komu ozaj kuviká?
+    </tei:p>
+    <tei:p>
+     S kuvika prešla na mátohy.
+    </tei:p>
+    <tei:p>
+     — U nás ich je hrúza, — podotkla.
+    </tei:p>
+    <tei:p>
+     — Ako všade, — nadhodil kaplán
+    </tei:p>
+    <tei:p>
+     — Ale u nás sú skutočné, — vravela — Naj­istejšia je tá, čo sa   ukazuje pri Skalke.
+    </tei:p>
+    <tei:p>
+     — Pri Skalke? Ale pri tej, čo je neďaleko nás?
+    </tei:p>
+    <tei:p>
+     — Tam.
+    </tei:p>
+    <tei:p>
+     — O tej som nepočul. Čo je to?
+    </tei:p>
+    <tei:p>
+     — Ukazuje sa o polnoci farár, čo akési decko zamordoval. Kamenie   hádže na okolo idúcich. Trafí každého a tam, kde trafí, ochromie úd.   Čosi bieleho sa plazí za ním a kvíli. To je to decko. Ešte nevedelo   chodiť, keď ho zabil. Preto sa plazí
+    </tei:p>
+    <tei:p>
+     — Hlúposti, — hodil rukou kaplán.
+    </tei:p>
+    <tei:p>
+     — Vážni ľudia hovoria. Organista ho na vlastné oči videl. Počul aj   nariekanie. Notár vám to isté povie
+    </tei:p>
+    <tei:p>
+     — Ale, slečna! — pretrhol ju. — Vy ako fa­rárska dcéra nesmiete   veriť na strašidlá.
+    </tei:p>
+    <tei:p>
+     — Ja neverím. Ale by som neišla tadiaľ o polnoci
+    </tei:p>
+    <tei:p>
+     Kaplán chcel pozreť na hodinky, či je ešte ďaleko do polnoci a či   o dvanástej môže byť doma, ale hanbil sa pred slečnou, aby ho   neupodozrievala, že sa bojí. V zahradke im počalo byť zima. Prešli do   izby. Kaplán sa ani tu dlho nezdržal. Videl, že je na hodinách už   štvrť na dvanástu. Odporúčal sa Von porovnal čas so svo­jimi   hodinkami. Hodinky ukazovaly jedenásť...
+    </tei:p>
+    <tei:p>
+     Na všetko toto myslel, ponáhľajúc sa. Neveril síce, že sa farár   môže ukazovať, ale nepríjemné mu bolo, že musí prejsť popri Skalke.   Aby mu bolo veselšie, vrtel dáždnikom a hvízdal si nesmyselné   melodie, ktoré v okamžiku vymýšľal a za­búdal. Vietor čím ďalej tým   väčšmi a častejšie fúkal a rozdúval krýdla plášťa. Vyzeral ako veľký   netopier s ohromnými krýdlami. Žito a stromy väčšmi šumely a tône   neprestávaly sa hýbať. Jeho stín šiel pred ním krivý a dlhý.
+    </tei:p>
+    <tei:p>
+     Bolo mu treba prejsť cez horu, ktorá sa čer­nela pred ním na dosť   príkrom vŕšku. Kvitnúce slivky sa ztratily. Zamenily ich liesky a   mladé duby. Stín zhustol a čo chvíľa obklopila ho tma. Namiesto   ľavného šumu vetra v žite a slivkách tu bolo ticho. Len niekedy bolo   čuť vrzgot a pu­kanie, tu v hĺbke hory, tu jemu nad samou hla­vou. Pod   krokami šušťalo lanské lístie a drobné hrudky a kamienky, odlomené a   vyvážené pätami, kotúľaly sa s vršku dolu. To pukanie, šušťanie a   kotúľamni sa kamienkov stávalo sa mu neznesisiteľným. Pne stromov   ledva bolo rozoznať. Zdalo sa mu, že za každým skrýva sa niekto,   ktorý ho stopuje a Istive číha za ním. Očakával, že každú minútu   vyskočí zpoza pňa a zahúka. Počaly smreky. Chvoj jednoho sa zakývala,   ani čoby ju nejaká tajná ruka bola stiahla a pustila. Ešte väčšmi   zrýchlil krok, aby skorej prešiel horou. Pár ráz vytiahol hodinky a   rátal v duchu, či ešte pred dvanástou zájde za Skalku. Vychodilo, že   o dvanástej bude práve pri nej. Hanbil sa sám pred sebou, že mu je   nepríjemne a že bokom do hory by sa ne­osmelil pozreť. Bolo by treba   počkať tu, kým prejde dvanásta. Ale jestli farár vo svojej nočnej   prechádzke aj sem zájde...? Nie. Nemožno, žeby sa farár ukazoval.   Myslel si. Život je síce večný... Pokračuje sa v druhej forme. Tedy   tá forma ne­môže byť farár, ako býval za živa. Ak sa ukazuje, nemôže   mať ľudskú podobu, ale akúsi inakšiu, fantastickú... Účinok nejakej   sily neviditeľnej a a predsa jestvujúcej cítiť snáď pri Skalke. Ale,   žeby farár! Nemožno... Jednako lepšie by bolo obísť Skalku...
+    </tei:p>
+    <tei:p>
+     Čosi zahúkalo ďaleko v hore a hneď za tým prelietlo niečo nad ním.   — Sova, — myslel si a napadlo mu, že pobeží. Tak skorej prejde horou   a zájde za Skalku. Nik ho nevidí. Nemá sa koho hanbiť.
+    </tei:p>
+    <tei:p>
+     Hneď aj uskutočnil myšlienku. Behom pustil sa hore vŕškom a potom   dolu. Nepočul už ani pukanie, ani šušťanie, len dupot svojich   vlastných nôh. Nemyslel ani na čas. Na chvíľu zdalo sa mu, že s   pravej strany rovno s ním beží ktosi druhý. Nepozeral ta. Zapchal si   uši a utekal ďalej. Vybehol z hory celý upachtený a spotený. Srdce mu   búchalo ako kladivo. Mesiac svietil zas. Bol vyššie a menší. Cesta   ako šnúra vinula sa v diaľku. Ka­plán pozrel a asi na dvesto krokov   videl Skalku. Veľký balvan pri ceste. Bol biely. Len diery na ňom sa   černely, ako na tvári černejú sa oči, brada a fúzy. Pozrel na cestu,   ktorá viedla popri samom balvane. Najprv videl len čosi tmavého ako   strom, ale za okamžik uspel zbadať, že je to guľaté a že sa hýbe.   Blíži sa k nemu. Jasne vybadal vysoký, farársky klobúk, čierny, dlhý   kabát, nohy, ruky, tvár. Zastal a užasol. Chladný pot vystúpil mu na   čelo. Mráz prešiel mu po chrbte. V bruchu pocítil akýsi chlad. Nohy   nápadne zoslably. — Na mňa sa díva, — pomyslel. Vskutku, farár zastal   a díval sa. Kaplán videl, že sa farár ohnul. Iste hľadá kameň... Ale   tvár sa viac neobjavila Fi­gura znovu počala sa hýbať. Bežala, ale bez   tváre. Kúr zdvihol sa pred ňou, ako dym. Väčšil sa a postava zmizla.   Kaplán v hrúze zvrtol sa a počal utekať opačným smerom. Prebehol horu   a do rána túlal sa okolo Búrneho.
+    </tei:p>
+    <tei:p>
+     Nevyspatý, preblednutý vrátil sa domov len ráno. Chcel si ľahnúť v   svojej kaplánke, že si odpočinie, ale v posteli chrápal dekan Veselý,   ako čoby drevo pílili... Ľahol si na diván. Sotva sa vládal držať na   nohách.
+    </tei:p>
+    <tei:p>
+     Pri obede hovoril jeho šéf so smiechom:
+    </tei:p>
+    <tei:p>
+     — Nikdy takého bojka, ako je Veselý!
+    </tei:p>
+    <tei:p>
+     — Nuž?
+    </tei:p>
+    <tei:p>
+     — Naľakal sa vám farára, čo máta pri Skalke. Neskoro sa vybral a   okolo dvanástej sa vrátil udychčaný a bledý, že videl farára a prosil   ma o nociach.
+    </tei:p>
+    <tei:p>
+     Pohrozil mastným prstom kaplánovi a dodal: — Ale ani slovka o   tom!
+    </tei:p>
+    <tei:p>
+     Kaplán sa začervenal a mlčal
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

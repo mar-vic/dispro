@@ -1271,6 +1271,11 @@ def test_corpus_stats():
     type=click.Path(exists=True, file_okay=True, dir_okay=False, path_type=Path),
 )
 @click.option(
+    "-a",
+    "--gen-eltec-auto",
+   type=click.Path(exists=True, file_okay=False, dir_okay=True, path_type=Path)
+)
+@click.option(
     "-m",
     "--gen-metadata",
     is_flag=True,
@@ -1281,6 +1286,7 @@ def cli(
         get_page: click.Path,
         get_book: click.Path,
         gen_eltec: tuple[click.Path, click.Path],
+        gen_eltec_auto,
         validate_eltec: click.Path,
         gen_metadata,
         output: click.Path,
@@ -1326,6 +1332,40 @@ def cli(
             print("The file is valid according to eltec-1 schema")
         else:
             print(f"The file is invalid due to:\n {results[1]}")
+    elif gen_eltec_auto:
+        print(f"Generating eltec from dir {gen_eltec_auto.absolute()}")
+        source = [p for p in gen_eltec_auto.iterdir() if p.is_file() and p.suffix == ".docx"]
+        metadata = [p for p in gen_eltec_auto.iterdir() if p.is_file() and p.suffix == ".json"] 
+
+        if len(source) > 1:
+            print("There is more than one candidate for source file.")
+            quit()
+        if len(source) < 1:
+            print("There is no candidate for source file.")
+            quit()
+        if len(metadata) > 1:
+            print("There is more than candidate for metadata file.")
+            quit()
+        if len(metadata) < 1:
+            print("There is no candidate for metadata file.")
+            quit()
+
+        source = source[0]
+        metadata = metadata[0]
+
+        pandoc_process: subprocess.CompletedProcess = transform_file_to_eltec(source, metadata)
+        eltec: str = BeautifulSoup(
+            pandoc_process.stdout.replace("\n", ""), "xml"
+        ).prettify()
+        with open(source.stem + ".xml", "w") as f:
+                f.write(eltec)
+
+        outputfn = source.stem + ".xml"
+        results: tuple = eltec_validate_file(outputfn)
+        if results[0]:
+            print(f"The generated file '{outputfn}'  is valid according to eltec-1 schema")
+        else:
+            print(f"The generated file {outputfn} is invalid due to:\n {results[1]}")
     elif gen_metadata:
         with open(project_dir.joinpath("pandoc/meta/boilerplate.json"), "r") as f:
             template = json.load(f)

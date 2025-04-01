@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1983534" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Svadba kráľa veľkomoravského : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:27087145">
+     Hurban, JozefMiloslav (1817 - 1888)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     12447
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Hurban, Jozef Miloslav
+     </tei:author>
+     <tei:title>
+      Svadba kráľa veľkomoravského
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Tatran
+     </tei:publisher>
+     <tei:date>
+      1983
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Hurban, Jozef Miloslav
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1844
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T1"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-12-18">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Svadba kráľa veľkomoravského
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     1
+    </tei:head>
+    <quote>
+      <tei:l>
+        Otworzmy księgę historii.
+      </tei:l>
+    </quote>
+    <tei:p>
+     J. CZ.
+    </tei:p>
+    <quote>
+      <tei:l>
+        Stíny Laurítasů! Svatopluků!
+      </tei:l>
+      <tei:l>
+        Jak vás možno z hrobu vyvásti?
+      </tei:l>
+      <tei:l>
+        By ste uvidely neřesti
+      </tei:l>
+      <tei:l>
+        národu a hanbu svojich vnuků.
+      </tei:l>
+    </quote>
+    <tei:p>
+      J. Kollár
+    </tei:p>
+    <tei:p>
+     Slováci dávno zabudli na svadbu veľkomoravského kráľa. Hoci sa až   dodnes svadbia, Svätoplukova svadba im už ani na um nezíde. Ach, ako   smutno to vyzerá s národom, keď sám zabúda na svojich predkov; lebo   toto zabúdanie podožiera koreň jeho života. Oj, Slováci, viem ja o   inej svadbe, než sú tieto vaše svadby, ale to bolo veľmi dávno, dávno   pred naším storočím! Od tých čias sa vzniesli nad našimi hlavami   smutné časy, divé búrky, nepriaznivé osudy, a tú pamätnú svadbu   zaviala a zahalila šedivá, ďaleká, stratená minulosť…!
+    </tei:p>
+    <tei:p>
+     Keby som vedel, že ma budete počúvať, povedal by som vám niečo o   tej svadbe. Ale vy sa skláňate pred cudzími modlami, a nedbáte na   vlastných vrstovníkov, ktorí vám rozprávajú o slávnej slovenskej   minulosti. No ale predsa vám dačo poviem, aspoň na skúšku; ak však   nepodbáte na môj hlas, nebude to moja, ale vaša škoda. A popravde   múdrejšie urobíte, keď vezmete do ruky túto Nitru a v nej „Svadbu   kráľa veľkomoravského“, než napuchnuté, oduté a ošklbané Meluzíny,   Malojeny, Bruncvíkovcov, Štilfrídov a im podobné neprirodzené a   nepravdivé výmysly. Ale najmúdrejšie spravíte keď necháte tie cudzie   modly, tie cudzonárodné strakatiny a priviniete sa k svätému,   prirodzenému, božskému oltáru slovenskej národnosti.
+    </tei:p>
+    <tei:p>
+     Nuž teda počúvajte ma, Slováci a Slovenky, ale dajte pozor, lebo   začnem od samého začiatku.
+    </tei:p>
+    <tei:p>
+     Bola noc. V Nitre bolo ticho ako v hrobe. Na uliciach bolo však   vidno, lebo svietili nebeské lampy… a mesiac akoby šiel na vohľady, s   usmievavou tvárou si vykračoval po hviezdnatej klenbe. Tichučký prúd   Nitry vinul sa po kvetnatých rovinách medzi lúkami, poliami a   záhradami, a iba sem-tam v ňom pleskla rybka, keď sa vyhodila nad   vodu. Nitriansky hrad bdel ako strážca o polnoci nad mestom. Iba   jeden jedinký oblok bol na ňom osvetlený. Počuť bolo krok strážcu,   sprevádzaný štrnganím ostrôh, a kto by bol stál z južnej strany, kam   sa uberá rieka, bol by mohol uvidieť aj ohromnú prilbicu, od ktorej   sa odrážalo mesačné svetlo.
+    </tei:p>
+    <tei:p>
+     Nitriansky hrad mal vtedy, pravda, inú podobu ako teraz, lebo čas   a všelijaké búrky ho premenili na nepoznanie. Vystupujúce a   vyblýskané klenby, ohromné bašty, hlboké priekopy, medené, veľkými   klinmi povybíjané brány, pyšné, trepotajúce sa zástavy... ach, všetko   toto sa už dávno na prach, alebo inakšiu podobu obrátilo. A ako by sa   aj nebolo všetko premenilo, keď sa aj ľudia premenili a sláva Nitry   zapadla do hlbokého, nemého a neúčastného hrobu! Z tých čias   nezostalo Slovákom nič, iba tiché spomienky. Hej, a tak sa zdá, že aj   tieto spomienky už-už zhynú!
+    </tei:p>
+    <tei:p>
+     Ale podíďme už bližšie. Povedal som, že na hrade bol jediný oblok.   Bol osvetlený, lebo po vetkej komnate sa prechádzal nový   veľkomoravský kráľ. Bolo to v roku 870.
+    </tei:p>
+    <tei:p>
+     Svätopluk sa stal v tom roku kráľom Veľkej Moravy. Veľkou Moravou   sa volalo to kráľovstvo v deviatom storočí, do ktorého patrila   Morava, Slovensko, Sliezsko, veľká časť Poľska, ba i Ruska a nad   ktorým vládol sprvu Mojmír – za jeho vlády sa však tak ďaleko   nerozprestieralo – potom Rastislav, ktorý ho takto rozšíril, a po ňom   Svätopluk, ktorý k nemu pripojil i Čechov a iné slovanské kmene na   juhu. A tak Svätopluk, dostanúc sa na trón takej veľkej ríše,   rozmýšľal teraz o jej blahu a šťastí. A to tým viac, že si bol vedomý   svojej veľkej viny, po akých nepravých cestách prišiel na tento trón.   Musím poznamenať, že Svätopluk pripravilo veľkomoravský trón strýka   Rastislava, svojho najväčšieho dobrodincu, ktorý mu dal výchovu i   nitrianske kniežatstvo, keď ho zradne zajatého vydal jeho najväčšiemu   nepriateľovi Karolmanovi, synovi cisára Ľudovíta. Rastislava potom   pripravili o oči a uvrhli do kláštora, kde aj smutne skonal.
+    </tei:p>
+    <tei:p>
+     Ale Svätopluk čoskoro pocítil nemeckú lesť, lebo jeho krajina sa   dostala do rúk a pod vládu dvoch kniežat, Engelschalka a Vilíma, čo   veľmi ťažko niesol a hľadel ich moc preniesť na seba. Ale oni to   pobadali, dali ho chytiť a poslali ho ako zradcu nemeckému cisárovi   do Rezna. Lenže Svätopluk sa obránil, a tak ho Nemci poslali so   svojimi plukmi proti Slovákom, ktorí boli medzitým povstali, aby sa   mohli pomstiť Nemcom za Svätopluka. Ich vodcom bol Slavomír.   Svätopluk, ktorý dobre spoznal Nemcov počas svojho pobytu medzi nimi,   bojoval proti svojim rodákom iba naoko, ba potom prešiel na ich   stranu a postavil sa proti nemeckým plukom. A tak nielenže pripravil   o vládu EngeJschalka a Vilíma, ale keď bol vyhnal Nemcov zo svojej   krajiny, vyhlásil sa za samostatného kráľa, za akého ho ľud s   radosťou a plesaním prijal a uznal.
+    </tei:p>
+    <tei:p>
+     A tu sme už v tej chvíli, keď sa Svätopluk dlho do noci prechádza   vo svojej komnate a rozmýšľa o blahu svojho kráľovstva. Nuž poďme   teda bližšie a pozrime, na čo myslí.
+    </tei:p>
+    <tei:p>
+     Keď sa Svätopluk dosť naprechádzal, zasadol si za stôl, podoprel   hlavu rukami a hovoril si sám pre seba: – Tak, Svätopluk, už si   zasadol na kráľovský trón, ale predtým si nepomyslel, aká je to veľká   ťarcha niesť korunu takej veľkej ríše! Keby si si bol prv rozvážil,   prv sa naučil opovrhovať korunou i kráľovstvom, azda by si sa stal   hodnejší aj jedného aj druhého! – Zahľadel sa na dlážku. Sedel dlhú   chvíľu, a až potom sa začal sám so sebou zhovárať. – Ale nechcem viac   myslieť na seba, je načase, aby som rozmýšľal už teraz, ako by som v   sebe navrátil národu svojmu Rastislava, ktorého som mu vyrval. Hej,   chcem zakryť svoje hriechy a úhony, spáchané voči veľkému kráľovi,   národospasnými cnosťami a skutkami. Bože pomáhaj mi sám v tomto   svätom predsavzatí.
+    </tei:p>
+    <tei:p>
+     Ach, ale jako zahojím rany svojho národa, keď mi hrozia nové vojny   a búrky od mocného nemeckého cisára? Namiesto hojenia budem ich   musieť iba väčšmi rozrývať. Ako ma to bolí! Hoci, – pokračoval po   malej prestávke, – najkratšou a najpríhodnejšou cestou by bolo keby   som uzavrel mier s nemeckým cisárom. No či cisár bude chcieť uzavrieť   mier bez otrockých podmienok? – Kráľ zas umĺkol a hlboko sa zamyslel.   No jeho myseľ musela však roznietiť dobrá myšlienka, lebo náhlivo   vstal a usmievajúc sa, znova sa začal prechádzať po komnate. – Áno, –   začal hovoriť, – to bude najbezpečšie rukojemníctvo medzi mnou a   cisárom: spojím sa manželstvom s dcérou cisárskeho princa Karolmana!   Skrotím rozzúreného tigra, a čas mi dá do rúk ostatné   prostriedky.
+    </tei:p>
+    <tei:p>
+     Už sa schyľovalo k ránu, no Svätopluk na spánok ani nepomyslel.   Neskôr sa natiahol na kráľovské lôžko, aby ďalej rozmýšľal. Ale bdel   iba napoly; blažené sny mu prúdili mysľou. Videl svoj národ   blažený!
+    </tei:p>
+    <tei:p>
+     Vychodila dennica, bledá lampa v kráľovskej komnate zhasla a v   Nitre i na hrade sa začal prebúdzať život. Rytieri a zbrojnoši sa   hemžili na predzámku, po hradbách sa ozýval štrngot mečov a ostrôh.   Kráľovská palota bola zavretá, čo vzbudilo všelijaké reči v   kráľovskej družine, lebo to bolo nezvyčajné. Iba strážca s istotou   tvrdil; že oblok na kráľovskej komnate bol dlho osvetlený.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     2
+    </tei:head>
+    <tei:p>
+     Rezno sa rozprestiera na brehoch mohutného Dunaja a hučiacej   Rezny… Obe rieky sa tu objímajú po tisícročia. Dunaj sa majestátne   valí, logá a chlípe neveľkú rieku Reznu, a ona, dávajúc sa mu do   moci, tratí v ňom seba samu. A modrý Dunaj sa pyšnejšie uberá   ďalej.
+    </tei:p>
+    <tei:p>
+     Vychádzajúce slnko oprelo svoje lúče o reznianske veže a peny   Dunaja šumeli pri krajoch, až sa aj k nim znížili purpurové záblesky   slnca a zlatom obrúbili okraje dunajského prúdu. Rybári a lodníci   križovali hladinu staroslávneho Dunaja, a pobrežie sa hemžilo ľuďmi,   lebo veľa Rezňanov sa náhlilo von nadýchať sa ranného vzduchu. Bola   to tu rozmanitá strakatina; medzi ošúchanými kazajkami a roztrhanými   klobúkmi mihali sa skvostné rytierske kamizoly a nad hlavami   povievalo perie ozdobných prilbíc.
+    </tei:p>
+    <tei:p>
+     Po brehu išli dve ženy, ktoré na seba obracali pozornosť všetkých.   Museli byť zo slávnych a pamätných rodín; lebo to časté, ba všeobecné   pozdravovanie nemohlo patriť bezvýznamným osobám.
+    </tei:p>
+    <tei:p>
+     Dostali sa však rýchlo cez dunajské nábrežie z očí hlučného   mestského divadla, lebo onedlho boli už neďaleko hájika, ktorý sa   vtedy rozprestieral poniže Rezna.
+    </tei:p>
+    <tei:p>
+     – Chcem byť sama, nenávidím to poklonkovanie. Okrem toho je to len   obyčajné pokrytectvo, taká sláva mi nenáleží. Lebo ako za to nemôže   bedár, že sa narodil v chatrči, tak to nie je mojou zásluhou, že som   sa narodila na kráľovskom lôžku.
+    </tei:p>
+    <tei:p>
+     Takto pretrhla tichosť Adelaida, dcéra cisárskeho princa Karolmana   a Ľudovítova vnučka.
+    </tei:p>
+    <tei:p>
+     Tá druhá osoba, čo išla s ňou, bola jej komorná, asi   päťdesiatročná žena, švitorivá, vrtká, štebotavá Nemka. Sotva bol   človek dakedy za niečo vďačnejší než komorná za to, že kňažná   prehovorila. Nešlo jej ani tak o obsah reči, chcela iba počuť   Adelaidu hovoriť. Lebo od istého času bola Adelaida taká smutná, taká   do seba uzavretá, že bočila od každej spoločnosti, o ničom nevravela   a protivili sa jej najmä rozhovory o plesoch, rytieroch a   svadbách.
+    </tei:p>
+    <tei:p>
+     Ale komornej boli práve tieto predmety najmilšie. Teraz, keď sa   kňažnej rozviazali ústa a jazyk, usúdila komorná, že je vhodná chvíľa   ozvať sa.
+    </tei:p>
+    <tei:p>
+     Ach, milostivá kňažná, – začala svoju reč komorná – dovoľte mi   aspoň teraz, keď nás nikto nemôže vypočuť sa s vami o niečom, čo už   tak dlho nosím na srdci.
+    </tei:p>
+    <tei:p>
+     – No, vravte, komorná, len nech to zas nie je o našich nemeckých   rytieroch, – odpovedala Adelaida s úsmevom.
+    </tei:p>
+    <tei:p>
+     – Milostivá kňažná, aká ste šťastná! Ach, svätá matka božia keby   ste vy len tento kalich šťastia hľadeli lepšie nakloniť k svojim   perám. Počujte, počujte, kňažná, moju dobrú radu: koľko spanilých   rytierov, grófov a kniežat každodenne obletuje vašu výsosť! Ach, a   oni prahnú, túžia iba po jedinom pohľade. Koľko bardov ospevuje vašu   krásu a váš milý zjav! A vy, kňažná, nič nepočujete!
+    </tei:p>
+    <tei:p>
+     Takto švitorila štebotavá komorná, ale o jej reči kňažná málo   dbala. Jednako, aby sa ich čím skôr zbavila, sama ju pobádala do   ďalšieho rozhovoru.
+    </tei:p>
+    <tei:p>
+     – No, milostivá kňažná, myslím, áno, myslím... nuž len poviem,   lebo to s vami úprimne myslím, milostivá kňažná... totiž myslím   ohľadom grófa Rudolfa, ktorý sa už toľko ráz uchádzal o vašu ruku...   Je udatný a pochádza zo starej rodiny, jeho dedovia bývali vraj v   dávnych časoch prvými vodcami... áno, milostivá kňažná, jeho rod   svojimi výhonkami siaha až do čias Hermana Víťazného a je v priazni   najjasnejšieho cisára...
+    </tei:p>
+    <tei:p>
+     Komorná to hovorila trhano a okúňavo, vše pozrela na Adelaidu, vše   rozkladala rukami. Adelaida bola pohrúžená do myšlienok a tichý,   príjemný úsmev jej poletoval okolo pier.
+    </tei:p>
+    <tei:p>
+     Keď to komorná zbadala, začala hovoriť ešte smelšie a   štebotavejšie než predtým. Takto pokračovala ďalej:
+    </tei:p>
+    <tei:p>
+     – Ach, milostivá kňažná, a ako sa vraj radoval, keď dostal   pozvánku na zajtrajší cisársky ples! Strojí sa vraj ukázať pred vami   v celej svojej skvostnej a nádhernej sláve. Všetko iba kvôli vám,   milostivá kňažná! Len kvôli vám!
+    </tei:p>
+    <tei:p>
+     – Kto sa chystá? Kam sa chystá? Kvôli komu? – opýtala sa Adelaida,   ktorá sa pri posledných slovách komornej prebrala zo svojich   myšlienok. Tie slová jej boli nepochopiteľné, lebo jej myseľ sa   bavila na výslní krásnych želaní a nevnímala reči komornej.
+    </tei:p>
+    <tei:p>
+     – No, milostivá kňažná, ako hovorím, povestný gróf Rudolf sa   chystá na zajtrajší ples kvôli vašej milosti...
+    </tei:p>
+    <tei:p>
+     – Ha, ha, ha! Rudolf! Povestný gróf! A kvôli mne! Ušetrite si   reči, komorná, a ak neviete, ja na ten slávny ples ani nepôjdem!
+    </tei:p>
+    <tei:p>
+     A pri tých slovách sa zohýnala a so smiechom trhala bylinky a   odkvitnuté kvietky.
+    </tei:p>
+    <tei:p>
+     Komornú celé toto správanie kňažnej zmiatlo, lebo sa zrazu cítila   oklamaná. Kým sa pripravovala na nový príval slov a Adelaida trhala   kvietky a bylinky, zašli obe až do lesíka na brehu Dunaja...
+    </tei:p>
+    <tei:p>
+     V cisárskom zámku sa konalo zasadnutie rady, na ktorom bol   prítomný .aj sám cisár so svojimi synmi. Medzi významnejšie osoby   patrili grófi Engelschalk a Vilím, tí dvaja správcovia Svätoplukovej   krajiny, čo sa po ich vyhnaní stali jeho najúhlavnejšími   nepriateľmi.
+    </tei:p>
+    <tei:p>
+     – Moji verní! – takto otváral radu Ľudovít, veľmi slávny nemecký   cisár. – Všetci vidíme, ako začína silnieť ten náš područník,   Svätopluk veľkomoravský. Tento nespokojenec sa už osmelil prijať aj   kráľovský titul, a jeho krajina nám dnes-zajtra vypovie poslušnosť.   My sme svojou cisárskou mocou pokorili aj Rastislava aj Mojmíra, lebo   ich úsilie sa nám zdalo byť nebezpečné.
+    </tei:p>
+    <tei:p>
+     A hľa, čo nepodniká Svätopluk, kráčajúc v ich šľapajach! Naše   vojská sú porazené, našich výborných, aj tu prítomných správcov   zradne vyhnali z krajiny! Nuž teda, radcovia moji, vyjadrite svoj   názor o spôsobe a čase ľsti, ktorú by sme mali použiť, aby sme   pokorili tohto nášho nespokojného vazala!
+    </tei:p>
+    <tei:p>
+     Len čo skončil cisár reč, vztýčil sa pyšný a nahnevaný   Engelschalk, usilujúc sa dôraznou a obšírnou rečou pohnúť cisára a   celý snem k tomu, aby bez akéhokoľvek odkladania nemeké pluky   zaplavili Svätoplukovu krajinu. Podľa jeho rady mala sa teraz celá   nemecká ríša ozbrojiťa Svätopluk mal byť razom zvrhnutý z trónu.
+    </tei:p>
+    <tei:p>
+     Jeho reč podporoval gróf Vilím.
+    </tei:p>
+    <tei:p>
+     Lenže iný názor vyslovil Karolman, cisárov syn, ktorému zas   pomáhal jeho brat Ľudovít. Obaja princovia sa usilovali presvedčiť   celú slávnu radu a priviesť ju k tomu, aby sa táto vec skoncovala   pokojnou cestou a zmluvami. Zdalo sa im, že Svätoplukove pluky, ktoré   okúsili slobodu a zvykli si na víťazstvo, boli by teraz   nepremožiteľné. Predvídali aj to, že ak by sa teraz nepodarilo nad   Svätoplukom zvíťaziť, Veľkomoravská ríša by sa azda navždy   vyslobodila z područia nemeckých panovníkov.
+    </tei:p>
+    <tei:p>
+     Rokovalo sa dlho. Každá strana sa usilovala svoju mienku podoprieť   dostatočnými dôvodmi. Lenže Engelschalk a Vilím boli muži oveľa   výrečnejší a v štátnickom konaní, oveľa prefíkanejší a skúsenejší,aby   ich boli mohli mladí princovia prekonať.Vedeli, ako si celú radu aj   cisára nakloniť na svoju stranu. Preto sa hneď aj uzavrelo, aby sa po   celej ríši nazbieralo čo najviac vojska.
+    </tei:p>
+    <tei:p>
+     Týmto uzavretím sa rada skončila.
+    </tei:p>
+    <tei:p>
+     Cisár aj so svojím pisárom sa dlhou chodbou uberal do svojej   komnaty. Tu mu však vstúpila do cesty Adelaida s komornou, vracajúc   sa z raňajšej prechádzky.
+    </tei:p>
+    <tei:p>
+     – Ale, ale, vnučka moja, odkiaľ tak za rána? – opýtal sa jej   cisár.
+    </tei:p>
+    <tei:p>
+     Adelaida sklonila pred svojím cisárskym starým otcom hlavu a milo   odpovedala na otázku:
+    </tei:p>
+    <tei:p>
+     – Ach, slávny cisár, tam na pobreží tvojho Dunaja je tak voľno,   tak slobodno, mne sa tam tak páči... Prechádzala som sa tade s   komornou.
+    </tei:p>
+    <tei:p>
+     – Ale, moja milá Adelaida, čože ti je? Pozorujem ťa odnedávna a   vidím, že si akási utrápená. Povedz, dobré dieťa, čo ti chýba?
+    </tei:p>
+    <tei:p>
+     – Milostivý cisár! – vmiešala sa do reči komorná, – kňažnú musí   niečo bolieť, akýsi červ musí zožierať koreň jej blaha; našej   milostivej kňažnej musí veľa, ach, preveľa chýbať, keď už ani na   zajtrajší ples sa jej nechce!
+    </tei:p>
+    <tei:p>
+     Prv než by bol mohol cisár náležite zvážiť slová štebotavej   komornej, pod hradom sa ozval dupot koní a štrngot mečov a ostrôh.   Hore schodmi, ledva lapajúc dych, náhlil sa k cisárovi hradný   strážca.
+    </tei:p>
+    <tei:p>
+     – Čo je? – opýtal sa cisár nedočkavo.
+    </tei:p>
+    <tei:p>
+     – Milosttvý cisár! Prirazila družina z Nitry aj s knie- žaťom   Svätoplukom. Najponíženejšie prosím o ďalšie rozkazy!
+    </tei:p>
+    <tei:p>
+     Cisára to ohromilo. Iba napochytro odbavil obrneného hradného   strážcu, ktorý tam stál ako stĺp, týmito slovami: – Priprav celé   severné krídlo zámku, aby bolo o knieža a jeho družinu dobre   postarané.
+    </tei:p>
+    <tei:p>
+     Ale táto neočakávaná zvesť hradného strážcu najväčšmi vzruši1a   Adelaidu. Kvitnúce ruže na jej lícach sa rozblčali v purpurové   plamene, čierne oči sa zaiskrili, a šatôčka, obrúbená rýdzim zlatom,   ktorú húžvala v alabastrových rukách, jej vypad1a.
+    </tei:p>
+    <tei:p>
+     – Čo to hovoríte, komorná, že nepôjdem na ples! Milostivý cisár,   nič mi nechýba.
+    </tei:p>
+    <tei:p>
+     Takto hovorila Adelaida a ani nepobadala, že cisár náhlivo   odchádza, pohrúžený do iných myšlienok – a nepočúva ju. Nechala   šatôčku na tehlovej dlážke a takmer v mdlobách odišla do svojej   komnaty.
+    </tei:p>
+    <tei:p>
+     Komorná sa na toto všetko dívala s otvorenými ústami a zopnutými   rukami, a ani hneď nevedela, čo si má o tom všetkom myslieť.   Rozprávať sa nemala s kým. Zohla sa, dvihla šatôčku a ponáhľala sa za   ostatnými.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     3
+    </tei:head>
+    <tei:p>
+     Svätopluk bol v Rezne, Takmer celý nasledujúci deň po príchode,   určený na hry a rytierske preteky, strávil v rade. Svätopluk rokoval   s cisárom a jeho synmi o vážnych a dôležitých veciach. Ale z rady   neodchádza veselý; s očami uprenými do zeme a s ovesenou hlavou kráča   s cisárom a Karolmanom.
+    </tei:p>
+    <tei:p>
+     Boli už štyri popoludní, keď sa sadalo za slávnostný hodovací   stôl. Všetko, čo bolo dobré a drahé, ponúkalo sa hodovníkom. Bradatí   nemeckí bardi s ohromnými harfami spievali staré balady o rytieroch a   v každej sa muselo niekoľko ráz spomenúť Stermanovo meno. A rytieri   vzdychali a omdlievali od lásky, lebo láska musela rozpaľovať každého   nemeckého rytiera. No a najmä Adelaida, predná okrasa celého Nemecka,   bola príčinou, že aj z tejto siene museli vyniesť nejedného   omdlievajúceho rytiera. To bola iná láska než za našich čias! Ale   ešte aj iná zábava čakala na hostí v priestrannej d1hej, starovekými   obrazmi skrášlenej, mnohými kahancami a na železných reťaziach   visiacimi lampami osvetlenej sieni, v ktorej sa zhromaždilo veľké   množstvo pánov, paní a slečien. Očakávali samého cisára aj s   dvorom.
+    </tei:p>
+    <tei:p>
+     Bardi skončili piesne pri stoloch, a hodovná sieň sa vyprázdnila.   Večer sa mali všetci zúčastniť na plese.
+    </tei:p>
+    <tei:p>
+     Prv, než sa zjavil cisár, hovorilo sa v sieni iba o svadbe, o   Svätoplukovi a Adelaide. Nejeden rytier vynútil svojej milenke   bolestnú slzu, vychvaľujúc peknými slovami Adelaidinu krásu, čím sa   dotkol citlivého srdca milenky.
+    </tei:p>
+    <tei:p>
+     Iní zasa Svätoplukovi závideli, a škrípajúc zubmi, preklínali aj   jeho aj Adelaidu. Vilím a Engelschalk, zakrútení do plášťov,   prechádzali sa popri hrubých a vysokých stĺpoch po sieni s akousi   treťou, rovnako zababušenou postavou a spolu si dačo šepkali.
+    </tei:p>
+    <tei:p>
+     Veľactený čitateľ a láskavá čitateľka už vedia, že Svä- topluk sa   do Rezna vybral s tým cieľom, aby tu svojmu národu zjednal pokoj. A   aby to ľahšie dosiahol, zaumie- nil si, že požiada o ruku Adelaidu,   Karolmanovu dcéru a vnučku cisára Ľudovíta.
+    </tei:p>
+    <tei:p>
+     Čo si zaumienil, to aj vykonal. Lenže Svätopluk sa sklamal vo   svojej nádeji. Namiesto toho, aby národu vyjednal pokoj s výhodnými   podmienkami, dostal sa natoľko do krážov prefíkaných a úlisných   Nemcov, že seba aj svoj národ priviedol do ich područia.
+    </tei:p>
+    <tei:p>
+     Povolili mu kráľovský titul a jeho krajine udelili označenie   kráľovstva, ale Svätopluk sa musel zaviazať za seba aj za svoju   krajinu na každoročné poplatky, ako aj na to, že keby to vyžadovala   potreba; postavia sa jeho pluky proti hociktorému nepriateľovi   Nemecka a zložia prísahu vernosti nemeckej zástave. Potvrdením tohto   dohovoru mal byť jeho sobáš s Adelaidou.
+    </tei:p>
+    <tei:p>
+     Svätopluk sa všemožne usiloval, aby sa tieto veci ešte na čas   odložili, lenže nemecký cisár nechcel o nijakom odklade ani počuť.   Dobre vedel, že Svätopluk, ktorého mal znovu v moci, na všetko   privolí. A Svätopluk videl, že niet sa čo protiviť Nemcom v tomto   položení.
+    </tei:p>
+    <tei:p>
+     Zahrmeli bubny a trúby víťazne zavrešťali. V sieni sa ozvali hlasy   „Cisár, cisár!“, keď Ľudovít so svojimi synmi, Adelaidou a   Svätoplukom vstúpili do siene.
+    </tei:p>
+    <tei:p>
+     Z jednej strany pri cisárovi kráčal Svätopluk, z druhej Adelaida,   synovia za ním. Adelaida svojou krásou zatienila všetky prítomné   panie a slečny. Ako slnko sa jagala v celej sieni. Jej vysoká,   dokonalá postava, vážny rovný a lahodný krok, dvoje čiernych,   havraních očí, dlhé vlasy, v prstencoch splývajúce s bielym   alabastrovým hrdlom, vysoké čelo ako jasná obloha, na lícach kvitnúce   ruže, to všetko tak splývalo do jedného celku, že Adelaida musela   touto svojou krásou a pôvabným držaním očariť každého.
+    </tei:p>
+    <tei:p>
+     Ale aj Svätopluk sa teraz ukázal v nečakanej podobe, na ktorú   neboli nemeckí rytieri pripravení. V pamäti im zostal obraz   Svätopluka z čias jeho tunajšieho väznenia. Zvyčajne ho volávali   „slovenským rytierikom“ a ako takého chudobného rytierika si ho aj   predstavovali.
+    </tei:p>
+    <tei:p>
+     Tu sa však naraz Svätopluk zjavil v celej svojej dôstojnosti a   kráse. Nevypínal sa síce podľa vzoru nemeckých grófikov a kniežatiek   pyšne a naduto, lebo to ani nepatrilo k jeho vlastnostiam,   nedovoľoval to ani jeho stav, ani stiesnená myseľ. Jednako celé jeho   držanie bolo majestátne a naozaj kráľovské. Ľahký plášť, bohato   naberaný, sa v záhyboch ako vo vlnách spúšťal až poniže kolien.   Bohato pretkávaný pás mu sťahoval meč; na jeho rukoväti, tylci,   vykladanom zlatom a perlami, mal zavesenú prilbicu. Gaštanové vlasy   sa mu tak ako Adelaide vlnili po pleciach a modré jasné oči strieľali   blesky po prítomných.
+    </tei:p>
+    <tei:p>
+     Začalo sa plesať, tancovať a hrať, a všetko sa dovedna striedalo.   Aj sám cisár mal dobrú vôľu, a keď vystúpil spomedzi svojich,   zamiešal sa medzi kniežatá a iné tu prítomné panstvo. Tak sa potom   stalo, že Svätopluk zostal s Adelaidou sám, prechádzal sa s ňou po   komnate, to sa zhovárajúc s ňou, to obzerajúc starožitné obrazy   rozvešané po stenách a stĺpoch.
+    </tei:p>
+    <tei:p>
+     Adelaida ešte nikdy nepocítila takú slasť, akú našla v ľúbezných   Svätoplukových slovách, ale čoskoro sa jej zmocnila úzkosť, lebo sa   jej zazdalo, akoby vo vrave sem-tam sa prechádzajúcich mužov bola   začula hlas dobre známeho grófa, o ktorom sme už prv čosi počuli. Ale   ona videla všetku svoju rozkoš, útechu a blaženosť iba vo   Svätoplukovi, a začala Svätopluka nabádať, aby odišli zo siene a   vyhľadali cisára. Lenže medzitým, čo si Svätopluk chcel pozrieť   obraz, visiaci oproti, zahvižďala mu okolo uší strela a treskla do   stĺpa, pri ktorom stál s Adelaidou. Strela vyrazila zo stĺpa kus   tvrdého muriva, a akoby sa bála dotknúť Svätopluka, iba padla k jeho   nohám.
+    </tei:p>
+    <tei:p>
+     Táto udalosť pobúrila celý ples. Tu išlo o život Svätopluka. Ale   anjel života a národa držal nad ním stráž. Hoci ohromený, ale nie   zdurený, odišiel Svatopluk aj s Adelaidou z plesu.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     4
+    </tei:head>
+    <tei:p>
+     Adelaida nespala celú noc. Včerajšia udalosť spretŕhala všetky jej   sny. Myslela iba na Svätopluka a jeho vraha. Srdce mala   nepokojné.
+    </tei:p>
+    <tei:p>
+     Ráno vstala bledá. Pozrela do zrkadla a zľakla sa veľkej zmeny vo   svojej tvári. Dnes mal s ňou Svätopluk rokovať o dôležitých   svadobných veciach, lebo veľkí tohto sveta pri manželstvách kladú   svoju lásku a náklonnosť na posledné miesto. Ani Svätopluk nepožiadal   ešte sám Adelaidu o ruku.
+    </tei:p>
+    <tei:p>
+     Adelaide za1čalo byť teraz tak úzko, že nevedela, kam by sa mala   podieť. Pri pomyslení na toho svojho anjela, na Svätopluka, sa bála,   lebo včerajšia udalosť sa jej zračila v hroznej podobe. Domnievala   sa, že Svätopluk bude teraz podozrievať celý dvor. A čo si mala   myslieť o sobáši? Sobáš jej otváral bránu do nekonečnej blažeností,   ale práve preto sa jej to zdalo nemožné. Ako purpurový, horiaci, ale   už-už hasnúci lúč zapadajúceho slnka očarúva obrazotvornosť človeka,   no valiaca sa chmára hrozí ho pripraviť o pokoj duše, tak i   nastávajúci sobáš rozpaľuje Adelaidinu dušu horúcimi zábleskami,   lenže mrak neistoty zastiera tento obraz v jej mysli.
+    </tei:p>
+    <tei:p>
+     Dlho čakala Adelaida na Svätoplukovu návštevu. Nevedela si nájsť   miesto – zo desať a desať ráz menila polohu, stále si ináč   premýšľala, ako očakávať milenca. Napokon sa na chodbe ozval krok   sprevádzaný štrnganím ostrôh. Strhla sa a všetka krv sa jej nahrnula   do tváre. Nepokojne vstala a začala sa prechádzať po komnate, potom   hodila na stolík hodvábnu šatôčku, no znovu si sadla a sklonila hlavu   do rúk. Ostrohy sa blížili vždy bližšie a bližšie... tichý úsmev sa   jej usadil na perách, vstala, podišla k obloku a uprela zrak na   dunajskú vodu.
+    </tei:p>
+    <tei:p>
+     S nezdvorilým hurtom sa roztvorili dvere a Adelaidinu myseľ   zastrelo žalostné tušenie, že to neprichádza jej anjel. Obzrie sa a   vidí divú tvár zúfalého grófa Rudolfa. Celá sa triasla od ľaku,   žilami sa jej rozprúdil studený mráz a horúci oheň.
+    </tei:p>
+    <tei:p>
+     – Ach, to ste vy, pán gróf? – na viac sa nezmohla. Tento rozorvaný   zúfalec sa na to hneď zaškľabil.
+    </tei:p>
+    <tei:p>
+     – Akože, akože, milostivá kňažná? Nazdali ste sa, že sa dočkáte   kohosi iného? Ha, ha! Ako tá prekliata nádej klame! Hej, aj mňa chce   oklamať. Preto prichádzam, aby som nadobudol istotu, či naozaj aj mňa   zamýšľa oklamať. Kňažná nebeská! – zrazu sa vrhol k Adelaidiným   nohám. – Vyslyšte moje srdce, pripusťte k sebe tieto moje horúce   slzy, anjel môjho života, dôveruj mojej láske! Na týchto pleciach ťa   prenesiem cez búrky a blesky! Korím sa tu pred tebou, kňažná,   zostanem tu večne primrazený, ak ma z tejto studenej dlážky nezdvihne   sľúbené slovo tvojej milosti! Miluj ma, božská Adelaida!
+    </tei:p>
+    <tei:p>
+     Adelaida bola celá bez seba, toľko si však uvedomovala, že tento   šialenec, akých bolo vtedy medzi nemeckými rytiermi veľa, je v   nebezpečnom duševnom rozpoložení. Hlava mu horela, pobúrená krv   kypela.
+    </tei:p>
+    <tei:p>
+     – Vstaňte, milý gróf, – povedala mu po chvili, – neponižujte sa   pred slabou devou. – A skloniac sa k nemu, chcela ho dvihnúť zo   zeme.
+    </tei:p>
+    <tei:p>
+     Adelaidine slová razom skrotili jeho divosť, náhle sa cítil   prenesený do ríše blaženosti. Gróf sa vztýčil, keď sa kňažná k nemu   skláňala, a tak sa stalo, že sa jeho pery dotkli Adelaidinho čela a z   úst mu ulietol plamenný bozk.
+    </tei:p>
+    <tei:p>
+     To bolo Adelaidino nešťastie. Tento tichý baránok niesol vinu času   a okolností. Práve keď sa to stalo, v dokorán otvorených dverách   zastal Svätopluk.
+    </tei:p>
+    <tei:p>
+     Rudolf ako šialenec, ktorý sa dotkol čaše blaženosti, znovu sa   rozzúril a zvolal chrapľavým hlasom: – Ach, ty pes slovanský! – a   vyrútil sa z komnaty. Adelaida bola teraz najnešťastnejším stvorením   na svete. Sieň sa s ňou krútila, srdce jej neznesiteľne tĺklo, tvár   jej horela hanbou a bázňou, všetko nešťastie sa na ňu vyrútilo, a   nijaká útecha jej nesvitla na cestu života.
+    </tei:p>
+    <tei:p>
+     Svätopluk nevedel, čo je láska. Jedinou hviezdou jeho života bola   láska k národu, tá mu osvetľovala priepasti aj trhliny, nad ktorými   sa vznášal, aj výsosť závratnej slávy, ku ktorej túžil povzniesť seba   aj národ. Zdá sa, akoby nič nebol zbadal, alebo si to ako, hrdina   nevšimol, lebo so slovenskou úprimnosťou pristúpil k Adelaide a   riekol jej tichými slovami:
+    </tei:p>
+    <tei:p>
+     – Drahá kňažná, som prihotovený na cestu. Prichádzam, aby som sa   dozvedel, či je vašou vôľou stať sa mojou manželkou.
+    </tei:p>
+    <tei:p>
+     Tieto chladné slová uviedli Adelaidu ešte do väčšieho pomykova a   pochybností. Chcela čosi povedať, ale slzy čo jej tiekli po lícach,   rozvlnené prsia a nekonečne stiesnené srdce jej v tom načisto   zabránili. Potom, keď sa jej vnútro upokojilo, Adelaida prosila   Svätopluka, aby včerajšie aj dnešné udalosti pripísal iba Rudolfovej   šialenosti.
+    </tei:p>
+    <tei:p>
+     – Poznám, drahá kňažná, dobre poznám povahu vašich rytierov.   Neznepokojujte si pre túto vec svoju myseľ, – tak tíšil Svätopluk   Adelaidu, keď videl, čo ju pripravuje o pokoj.
+    </tei:p>
+    <tei:p>
+     Adelaida dlho váhala – ako všetky Nemky – vyjaviť Svätoplukovi   svoje myšlienky, ale Svätopluk mal sa k nej medzitým vždy   slovenskejšie. Napokon horúcimi slovami prejavila mu svoju lásku,   ktorú Svätopluk nemohol opätovať.
+    </tei:p>
+    <tei:p>
+     – Zbohom, kňažná, uvidíme sa, až urobíme náležité prípravy na   svadbu, – to boli posledné Svätoplukove slová. Potom odišiel.
+    </tei:p>
+    <tei:p>
+     Pred zámkom stoja slovenskí odenci. Svätopluka vyprevádza sám   cisár aj so svojimi synmi. A o chvíľu už iba veže Rezna pozdravujú   cválajúcu nitriansku družinu.
+    </tei:p>
+    <tei:p>
+     Ale kto tam stojí na zámockej veži? Trepoce sa biela šatôčka... to   Adelaida hľadí za Svätoplukom. A keď na obzore zmizol posledný   obláčik prachu, zmizla aj šatôčka aj Adelaida zo zámockej veže.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     5
+    </tei:head>
+    <tei:p>
+     Roku 870 bola česká krajina v smutnom položení. Od západu na ňu   číhal jej nepriateľ, bojovný nemecký národ, susednej Veľkomoravskej   ríši nedôverovala, lebo tam sa rozšírilo kresťanstvo, kým Čechy boli   zatiaľ v zajatí tuhého pohanstva. Neisté položenie českej krajiny   nemohlo trvať dlho, lebo mraky od západu sa čoraz väčšmi kopili: a   preto bolo načase rozmýšľať o tom, akoby aj ďalej mohol žiť český   kmeň slobodne.
+    </tei:p>
+    <tei:p>
+     Príčinou toho, že sa český národ tak dlho zdráhal prijať   kresťanské náboženstvo, kým Slováci zbratani s Moravanmi už medzitým   tento nebeský dar prijali, bolo to, že český kmeň privádzali ku   Kristovi nemeckí mnísi, nemeckí cisári, a títo nemeckí mnísi učili   evanjelium v cudzích jazykoch, v nemčine a latinčine, čomu ľud   nerozumel, preto ani pravdu tohto učenia nemohol poznať, ani sa k   nemu hlásiť. A nemeckí cisári s týmto náboženstvom zavádzali hneď aj   desiatky a dane, porobu a otroctvo. Tak si národ radšej volil   pohanskú slobodu než kresťanské otroctvo, a preto Česi zostávali pri   svojom slovanskom pohanstve.
+    </tei:p>
+    <tei:p>
+     Inou cestou sa dostalo kresťanstvo do Veľkomoravskej ríše.   Rastislav povolal do Nitry Cyrila a Metoda, slovanských apoštolov,   ktorí ľud učili pravdu svätého evanjelia v slovenskom jazyku, keď   preložili do tohto jazyka Písmo sväté. Až v Kristovom náboženstve   cítili sa Slováci slobodnými, lebo ním sa oslobodili od jarma   pohanského otroctva. Ľahko teda každý pochopí, prečo títo   veľkomoravskí a českí Slovania sa nestali kresťanmi naraz; viedli ich   k nemu rozličné cesty.
+    </tei:p>
+    <tei:p>
+     Tento smutný stav českej krajiny skoro zbadal nemecký cisár   Ľudovít, a tým väčšmi sa ho usiloval využiť vo svoj prospech, čím   horúcejšie v ňom blčala túžba pomstiť sa Čechom. Jeho vojsko Česi už   niekoľko ráz krvavo odrazili a mníchov, ktorých im vysielal,   pohádzali do Vltavy.
+    </tei:p>
+    <tei:p>
+     Tak sa teraz cisár chytil znamenitej príležitosti. Hneď po   Svätoplukovom odchode vypravil k.českému kniežaťu Bořivojovi dvanásť   poslov, ktorí mali od neho vymôcť povoľnosť a platenie ročných daní   aj bezodkladné prijatie kresťanského náboženstva.
+    </tei:p>
+    <tei:p>
+     Ale ako rozmýšľal Ľudovít o záhube Čiech, tak rozmýšľal Bořivoj o   zachovaní svojho národa. Bořivoj poznal silu svojho národa, lež videl   aj narastajúcu moc nemeckého cisára, a preto povolal na Vyšehrad   vladykov a vojvodcov svojej krajiny a múdro k nim prehovoril.   Pokladal za dobré, aby sa český národ dal pod ochranu mocného   Svätopluka, slovenského kráľa, lebo o jeho moc sa už roztrieštila   nemecká sila. Knieža. Bořivoj si získal lásku a dôveru svojho   poddanstva a jeho slovo platilo v poli aj v rade. I zostavilo sa   vyslanstvo, ktoré sa skladalo z českých vojvodcov a rytierov na čele   s. hrdinským Svatos1avom a Vítěslavom. Darmi, ktoré mali niesť   Svätoplukovi, boli osed1ané kone, štíty a rozličné zbrane. Ale práve   čo sa mal skončiť snem, vyšehradský hradný strážca oznamoval príchod   nemeckých poslov z Rezna. Dovolili im vojsť.
+    </tei:p>
+    <tei:p>
+     Dvanásť nemeckých rytierov so spupným výzorom vstúpilo do snemovne   a jeden z nich začal hovoriť:
+    </tei:p>
+    <tei:p>
+     – Počúvaj, české knieža Bořivoj, aj všetci prítomní vojvodcovia a   páni! Nemennou vôľou nášho cisára a pána je, aby česká krajina za   krivdy spáchané na našich mníchoch, čo kázali kresťanské náboženstvo,   povinne každý rok Jeho Jasnosti odvádzala daň päťsto koní a   bezodkladne prijala Kristovo náboženstvo. Ak by ste sa tomu bránili a   osmelili sa odoprieť poslušnosť, vedzte, že vás na to donúti nemecký   meč! A potom bude s vami zle.
+    </tei:p>
+    <tei:p>
+     Česká krv, tento horúci prúd víťaznej krvi, vzkypela v žilách   českých vojvodcov. A už by bolo nasledovalo pokorenie tohto   odvážlivca, keby knieža, dbajúc na práva a povinnosti pohostinstva,   nebol sa sám ujal odpovede.
+    </tei:p>
+    <tei:p>
+     Utíšte sa, hrdinskí Česi! – povedal Bořivoj, – vo vašom mene   odpoviem na túto nehanebnosť nemeckého cisára. Počujte, vy, nemeckí   poslovia! Právo pohostinnosti je u Slovanov sväté: preto vám   odpúšťame túto surovosť a drsnosť, ktorou ste sa proti našej národnej   hrdosti prehrešili. Aj my sme národ. Ale povedzte vášmu cisárovi a   pánovi, že český národ nevie skláňať svoju šiju do otrockého jarma.   Vie sa topiť vo vlastnej krvi preliatej v mužnom boji. Však váš cisár   a pán vie, aké tvrdé sú naše lebky, aké britké sú naše meče a   neprebitné naše štíty! Aspoň sa môže rozpamätať na rok 846, keď jeho   sila, čo tak ukrutne zničila Stojmírovu slávu, našla biednu smrť na   tvrdých skalách našich Krkonôš. Nuž, Nemci, choďte k svojmu cisárovi   a pánovi, oznámte mu náš odkaz, nech príde! Ale z ozbrojenej českej   ruky našu vlasť nedostane!
+    </tei:p>
+    <tei:p>
+     Výrazne predniesol Bořivoj tieto slová a celý snem zahrmel: –   Sláva Bořivojovi, slávnemu kniežaťu!
+    </tei:p>
+    <tei:p>
+     Na vyšehradskom priestranstve sa ozýva konský dupot a štrngot   mečov. Zástupy rytierov odchádzajú bránami kniežacieho Vyšehradu.   Nemci sa vracajú na západ k nemeckému cisárovi a Česi uháňajú na   východ k slovenskému kráľovi.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     6
+    </tei:head>
+    <tei:p>
+     Roku 871 sa v Rezne s novou jarou začal budiť aj nový život. Nové   nádeje a nové predsavzatia napĺňali nemecké duše. V Rezne sa   pripravuje svadba aj vojna: aké rozdielne ľudské zamestnanie!
+    </tei:p>
+    <tei:p>
+     Cisára veľmi popudila smelá Bořivojova odpoveď, a nemohol tieto   svoje sklamané nádeje znášať ľahostajne. Hotovil sa na výpravu proti   Čechom. Už by sa bol aj prv dal na výboj, keby mu v tom nebol   zabránil príchod zimy.
+    </tei:p>
+    <tei:p>
+     Teraz mu zas prípravy na svadbu kládli do cesty nemalé prekážky.   Nemeckí rytieri sa tešili na Svätoplukovu svadbu, lebo určite vedeli,   že Svätopluk je bohatý kráľ. A preto sa nádejali, že si zas dobre   zahýria, keď sa budú môcť svadbiť na staromestský spôsob, ako sa   vraví „mit Saus und Braus“. Bezpochybne toto bola ich jediná rozkoš,   lebo v bitkách v poli, po horách a strmých skalách zažili iste málo   dobrých dní. Preto ani teraz nemali veľkú chuť do vojny, a dozvedel   sa o tom aj sám cisár.
+    </tei:p>
+    <tei:p>
+     Nečudo , že aj sám cisár bol ochotný odložiť svoje predsavzatie.   Tým väčšmi sa staral o svadobné prípravy. Rozhodol sa, že v boji   proti Bořivojovi vyjde a pokorí ho až po svadbe.
+    </tei:p>
+    <tei:p>
+     Starý cisársky hrad opravovali. Staré komnaty, pochmúrne chodby a   siene, v ktorých mal záľubu Karol Veľký, opravovali, malé obloky v   nich prerúbavali na väčšie, brány krášlili novými výrezmi   predstavujúcimi nemecké rytierstvo, po chodbách a ambitoch   rozvešiavali starožitné obrazy, utierali z nich prach, vystavovali   prilbice, meče a štíty alávnych cisárskych predkov. Slovom, všetka   nemecká sláva stavala sa do šíku, aby náležite oslávila Svätoplukovu   svatbu s Adelaidou.
+    </tei:p>
+    <tei:p>
+     Cisár Ľudovít so svojím synom Karolmanom sa v duchu veľmi   radovali, lebo si uvedomovali, aký je tento skutok pre nich veľmi   výhodný. Pre nich spojenie so Svätoplukom nebolo ničím iným ako sieť,   do ktorej nevedomky vošiel silný lev, pokorený takto bez veľkej   námahy. Báli sa rastúcej sily a vlády Svätoplukovej, ba predvídali,   že by sa ľahko mohol spojiť s Bořivojom, a tak naveky zmariť nemeckú   nádej. Preto sa mohli iba radovať z tých podmienok, ktoré kládkĺi   Svätoplukovi.
+    </tei:p>
+    <tei:p>
+     Jeden deň určili na cisársku poľovačku na počesť Adelaidy, ktorá   sa jej sama zúčastnila ako odvážna lovkyňa. Už před východom slnka   bola poľovnícka výprava v pustných horách. Adelaida na vranom koníku,   v utešenom poľovníckom odeve, bola hviezdou spoločnosti.
+    </tei:p>
+    <tei:p>
+     Cisársky prvý poľovník rozostavil lovcov po skalách, dolinách a   vŕškoch. Chvíľu sa ešte ozývali poľovnícke trúbky, potom stíchli a   ohlášal sa iba štekot psov.
+    </tei:p>
+    <tei:p>
+     Adelaida, pyšná lovkyňa, túžila po poľovníckej sláve, a preto si   vybrala miesto na osamotenej príkrej skale, odkiaľ sa jej otváral   výhľad na roztrúsené čistinky. Niekoľko ráz sa poobzerala dookola,   potom si sadla na skalu a zahĺbila sa do myšlienok. Pomyslenie na to,   čo asi povie hrdinský Svätopluk, keď zbadá nejakú zver, prebodnutú   jej šípom , vyviedlo ju rýchlo na ušľachtilé výslnie Svätoplukovej   slávy. Jej duša sa vzniesla z lona týchto starých germánskych hôr na   zlatoklasé polia a vínonosné nitrianske kopce, do tône   veľkomoravských líp. Tam sa videla po boku slávneho Svätopluka   ovenčená kráľovskou velebnosťou.
+    </tei:p>
+    <tei:p>
+     Jej srdce bolo vzrušené tou najčistejšou láskou k Svätoplukovi.   Jej duša nepoznala iný život, iba život s ním. On bol pre ňu jediným   blahom a jedíným prameňom života. Keď si naňho pomyslela, celá   horela, prisnil sa jej v snách, myslela naňho v bdení. Myšlienka na   Svätopluka ju vyvábila aj na túto poľovačku.
+    </tei:p>
+    <tei:p>
+     Z myšlienok ju vyrušil šuchot v kroví pod skalou. Zrazu sa   obzrela, no zabudla, že sa opiera o natiahnutú kušu, sotila ju dolu   skalou, a šíp fikla do neďalekej jedle. Kým Adelaida preľaknutá   nečakanou náhodou stŕpnuto hľadela do doliny, z hustých krovín   vystúpil zúfalý gróf Rudolf a divo sa zahľadel na bralo.
+    </tei:p>
+    <tei:p>
+     – Aha, zradná stvora, poľujete po skalách na sny o svojom   Svätoplukovi? Ja vás naučím opovrhovať mojou láskou! – Strhol z pleca   natiahnutú kušu a bez dlhého cielenia vypustil jedovatý šíp na   Adelaidu. Šíp pozrážal niekoľko jedľových halúzok, zachytil perami   skrášlený Adelaidin klobúk a vzniesol sa vysoko do oblakov, aby po   chvíli zapadol v lesnej pustatine.
+    </tei:p>
+    <tei:p>
+     Adelaida nevidela viac grófa, uvedomila si iba, že beží lesnou   húštinou. Schytila poľovnícku trúbku a dala znamenie na rýchle   stretnutie sa poľovníkov.
+    </tei:p>
+    <tei:p>
+     Cisársky poľovník bol prvý, čo sa kňažnej pýtal na príčinu jej   preľaknutia a na prestrelený klobúk. Adelaida však s voľne   povievajúcimi zvlnenými vlasmi vysadla na vraníka a s celou družinou   odcválala do Rezna.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     7
+    </tei:head>
+    <tei:p>
+     Poďme však už k Svätoplukovi, nazrime do Nitry, kde ho uvidíme aj   s jeho národom.
+    </tei:p>
+    <tei:p>
+     Tá zvesť, že Svätopluk sa zamýšľa zosobášiť s nemeckou kňažnou,   nemilo sa dotkla väčšej a poprednejšej časti slovenského národa.   Istotne všetci tí, čo vedeli predvídať následky tohto kroku, báli sa   budúcnosti, lebo už dobre poznali spolky s Nemcami. Svätopluk rátal   medzi svojich radcov, rytierov a občanov hlavy zošedivené v bojoch a   zostarnuté v radách. Boli to živí svedkovia histórie Veľkomoravskej   ríše, ktorá sa v takom krátkom čase povzniesla na taký stupeň slávy a   vážnosti. I ich pomocou sa preslávili Svätoplukovi predchodcovia, s   ich pomocou sa aj Svätopluk povzniesol tak vysoko.A muselo sa to   dotknúť ich srdca, keď videli, že ich kráľ, len čo sa oslobodil z   nemeckých krážov, už upadá do nových a strháva za sebou celú   ríšu.
+    </tei:p>
+    <tei:p>
+     V Nitre sa medzitým šírili o kráľovej svadbe rozličné a odporujúce   si správy. Hoci sa spočiatku napospol hovorilo, že kňažná z   Ľudovítovho dvora je budúcou veľkomoravskou kráľovnou, od tých čias,   čo, boli u Svätopluka Bořivojovi vyslanci, rozprávali podaktorí s   istotou, že manželkou veľkomoravského kráľa má byť česká kňažná,   pretože ešte nijakých vyslancov nezdržali v Nitre tak dlho a v toľkej   nádhere ako týchto.
+    </tei:p>
+    <tei:p>
+     Sám Svätopluk od tých čias, čo prišiel z Rezna, správal sa celkom   zvláštne. Nepochybovalo sa o tom, že robí prípravy na slávnosti, hoci   sa nikomu okrem Metoda nezdôveril, že sú to svadobné prípravy.
+    </tei:p>
+    <tei:p>
+     Takéto tajomné a nedôverčivé správanie sa Svätopluka nemohli   ľahostajne znášať práve v týchto časoch jeho prední a hlavní   radcovia. I začali sa spoločne radiť, ako by mohli predniesť svoje   úmysly kráľovi a ako by ho mali, ak sa zamýšľa zasnúbiť s nemeckou   kňažnou, upozorniť na tento nebezpečný krok. Zavolali si preto medzi   seba kráľovského dôverníka, slovanského biskupa a apoštola Metoda,   ktorému kládli na srdce, aby Svätopluka presvedčil o ich úmysloch a   ak bude môcť, aby ho odviedol od tohto nebezpečného predsavzatia.   Metod, ktorý zahorel láskou k slovenskému národu, prisľúbil, že sa   všemožne pousiluje, aby sa Svätopluk nezaplietol do týchto   osídiel.
+    </tei:p>
+    <tei:p>
+     – Dlho na teba čakám, otče, – hovoril Svätopluk Metodovi, keď   vstúpil do jeho siene, lebo sa zdržal v rade Svätoplukových vladykov   a radcov a premeškal zvyčajnú hodinu.
+    </tei:p>
+    <tei:p>
+     – Milostivý kráľ môj, dôležité veci ma zdržali, – ospravedlňoval   sa vážny, šedinami.pokrytý Metod.
+    </tei:p>
+    <tei:p>
+     – Ale, ale dôležité veci! Azda nie sú tie veci, o ktorých sa s   tebou ja zhováram dosť dôležité? – hovoril kráľ, dávajúc dosť   zreteľne najavo, že zádumčivosť a namrzenosť, ktorá sa čoraz väčšmi   zmocňovala jeho ducha odvtedy, čo sa vrátil z Rezna, dosiahla už   vysoký stupeň. Lebo určite nemal vo zvyku tak nešetrne sa zhovárať s   Metodom, ktorého nazýval otcom. Metod však bol vždy duchaprítomný   človek, a hoci miernej mysle, nepoznal strach. Prešiel nejednou   školou trpkých osudov, a preto aj v túto chvíľu zostal sám sebou, a   keď, prevzal reč, takto začal dôrazne hovoriť:
+    </tei:p>
+    <tei:p>
+     – Škoda, škoda, veľký kráľ môj, pre teba a pre tvoju ríšu, že   nepripúšť k sebe pozhovárať sa tých, ktorí majú s tebou rokovať o   veciach, čo sú po tých, o ktorých ja hovorievam, istotne   najdôležitejšie. Pre toto tvoje chladné správanie sa k podporám   tvojho trónu obrátili sa na mňa, a ja idem práve teraz z ich porady,   kde sme premýšľali o tvojom blahu aj o blahu Veľkomoravskej ríše,   teda o veľmi vážnych veciach.
+    </tei:p>
+    <tei:p>
+     – Viem, viem, že Slováci a Moravania nie sú so mnou spokojní   odvtedy, čo som sa vrátil z Rezna a dostali sa im do uší chýry o   mojej svadbe. Ale viem, oj, dobre viem, kde je prameň tej   podozrievavosti, dobre viem, a dennodenne preklínam svoj hriešny   skutok, ktorým som sprznil svoju slávu naveky – to, že som zahubil   veľkého Rastislava...
+    </tei:p>
+    <tei:p>
+     – Ale, otče, – pokračoval rozohnený Svätopluk, – tu pred tvárou   živého boha ti prisahám, že jediným cieľom môjho života je dobro   Veľkej Moravy. Všetko moje úsilie sa obracia k tomuto slovenskému   plemenu. A že som sa rozhodol zasnúbiť s nemeckou kňažnou, a tak   vykonať násilie proti samému sebe, aj to vychádza z tohto svätého   predsavzatia, a práve zato ma podozrievajú Slováci! Otec Metod, ja   viem, čo som dlžen svojmu ľudu. Sám som pripravil tento ľud o   veľkého, múdreho, mocného a slávneho kráľa. Ja sám, sám, samojediný   chcem tomuto svojmu ľudu nahradiť stratu. Prudkou vášňou a   ctižiadosťou som poškvrnil svoju slávu, sám ju chcem znovu obmyť   svojou silou a vlastným pričinením. Ale pravda, pravda, moje srdce   nevidí nikto z ľudí! Ach...
+    </tei:p>
+    <tei:p>
+     Bolesť srdca mu pretrhla reč, na čelo mu vysadli kropaje studeného   potu. Nastala hrobová tichosť. Metod vedel oceniť dôležitosť tejto   tichosti – mlčal aj on.
+    </tei:p>
+    <tei:p>
+     – No uznaj, otče, či môžem konať ináč, ak chcem pre uspokojenie   svojej duše dosiahnuť ciele? Kto nepozná veľkú silu nášho nepriateľa?   A akože ho pokorím svojím rozjatreným a hlboko pokoreným národom? Či   nie je dobrý môj úmysel ukolísať tohto rozzúreného leva, medzitým   posilniť svoj ľud, a potom ho, zahnať a naveky pokoriť? A napokon sa   ti priznám, jesto slovanská kňažná, ktorá by mohla krášliť kresťanský   trón Veľkej Moravy?
+    </tei:p>
+    <tei:p>
+     Svätopluk havoril s pohnutou mysľou. Potom sa chytil slova   Metod.
+    </tei:p>
+    <tei:p>
+     – Mýliš sa, kráľ môj, ak sa nazdáš, že ti národ pre tvoj čin, hoci   hriešny, nedôveruje. Sila tvojho ducha a skutky, ktorými si sa   vyznačil, už zotreli túto škvrnu. Ale vedz, kráľ môj, národ   neschvaľuje jediný tvoj úmysel a bojí sa, že chceš pojať za kráľovskú   manželku nemeckú kňažnú. Ja schvaľujem tvoj svätý úmysel robiť to   všetko pre blaho svojho ľudu; no čudujem sa tvojej malomyseľnosti a   pochybovačnosti o takom hrdinskom národe, akým sú právom Slovania.   Poznám veľkú moc nemeckého cisára, ale poznám aj, pri tvojej   odhodlanosti, neoblomného ducha Slovákov. S akými hŕstkami premáhal   Mojmír a vyhnal Rastislav z krajiny nemecké vojská! A ty, jediná   bujará ratolesť Rastislavovcov, by si sa zľakol, keď máš víťaziť?   Svätopluk, ty sa obzeráš iba na nepriateľskú moc a zabúdaš na   skúsenosť a na poznanú hrdinskosť vlastného národa?
+    </tei:p>
+    <tei:p>
+     Svätopluk stál zarazený. Myseľ mu horela, ale tvár sa leskla a   červenala od hanby. A Metod pokračoval:
+    </tei:p>
+    <tei:p>
+     – A nazdávaš sa, veľký synovec veľkého Rastislava, že tvoj trón,   utvrdený slovanskou krvou, by Nemka, hoci ešte zo slávnejšieho rodu,   skrášlila väčším leskom než kňažná slovanského rodu, aj keď   slabšieho? Viem to, a chválim tvoju kresťanskú horlivosť, že nechceš   myslieť na slávny kniežací rod českých panovníkov, lebo väzí v   pohanstve. Ale či azda nemám u teba toľko dôvery, keď som obrátil ku   Kristovi Veľkú Moravu, že by som mohol získať aj susedných   Čechov?
+    </tei:p>
+    <tei:p>
+     Metodova výrečnosť prekonala všetky kráľove námietky. Pohrúžený do   myšlienok, iba mrzuto prehovoril:
+    </tei:p>
+    <tei:p>
+     – Veru dosť zle, že vy, duchovní otcovia, tak neskoro prichádzate   na túto myšlienku, a z inej strany ešte horšie, že Bořivoj tak dlho   váha prijať svetlo Kristovho evanjelia!
+    </tei:p>
+    <tei:p>
+     – Nieže tak, kráľ môj – odpovedal Metod, – či sme sa my, povolaní   do tvojej ríše, mali vari starať o cudzích? A potom, ako mohol   Bořivoj a jeho národ poznať Krista, keď mu ho ukazovali spolu s   otroctvom a okovami. Skôr na tebe bolo a aj je, veľký kráľ, aby si sa   o to postaral a nehľadal si ženu v nemeckých krajoch.
+    </tei:p>
+    <tei:p>
+     – Prestaň, prestaň, otče, pre sedem rán Kristových... a odpusť mi   moju unáhlenosť. Som iba človek a ťažká je starosť o takú veľkú ríšu.   Čo som zabudol rozkázať ukladám teraz tebe. Nech sa s tebou vypraví   vyslanectvo na Vyšehrad. Ty sa, otče, postaraj, o nebeské veci mojej   ríše a spriazneného národa, ja porozmýšľam o časných cestách mňa a   môjho národa.
+    </tei:p>
+    <tei:p>
+     Metod opustil kráľovskú sieň. Svätopluk sa spustil na stolec a   zabral sa do hlbokého, pamätného a vlasteneckého rozmýšľania.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     8
+    </tei:head>
+    <tei:p>
+     Keď sa Bořivojovi vyslanci vrátili z Nitry na Vyšehrad, doniesli   radostné správy a noviny. Rozprávali o veľkej náklonnosti nielen   kráľa, ale aj celého národa k Čechom, čím nové nádeje a radostné   výhľady do budúcnosti oživiIi srdce českého národa, ktorému sa znovu   vyhrážali Nemci. Medzi ľudom sa rozprávalo, že vyslancov už v Nitre   aj pokrstili, čo však bol dôsledok iba toho, že vyslanci sa veľmi   pochvalne a priaznivo vyjadrovali o nitrianskom kresťanstve,   porovnávajúc ho s nemeckým kresťanstvom.
+    </tei:p>
+    <tei:p>
+     Medzi Vyšehradom a Prahou stál vtedy na pobreží mohutnej Vltavy   neveľký hostinec, čiže krčma. Schádzavali sa v ňom kniežací a   rytierski zbrojnoši. Bývalo tu veľa ráz hlučno. Kto sa chcel   dozvedieť niečo nové, poberal sa sem.
+    </tei:p>
+    <tei:p>
+     Jedného dňa po príchode vyslancov z Nitry zhromaždilo sa tu väčšie   množstvo zbrojnošov a pospolitého ľudu, lebo sa túžili dozvedieť od   tých, čo boli so svojimi pánmi v Nitre, niečo o cudzích krajoch.
+    </tei:p>
+    <tei:p>
+     – To je tam celkom inakší svet, ľudia moji, – rozprával jeden   výrečný český junák, štrngajúci svojím širokým mečom, – tam je všetko   inakšie. Ale to som sa najväčšmi čudoval, že som v ďalekej cudzine   samých Čechov ponachodil! Vravím vám, samí Česi, akoby sa vo Vltave   kúpali a po Krkonošiach na divých kancov poľovali. A prisahám na   Perúna, ani tie ich meče nie sú menšie, a počujte, ľudia drahí, to sú   vám hrdinovia. Mali by sme veru čo robiť, keby sa tak pánu   Svätoplukovi zachcelo po nemecky k nám vtrhnúť! No, ale neľakajte sa!   Ha, ha, ha! Ba mne sa zdá, lenže nie sme tu sami... To by bolo! Ale   čo! Poviem vám to! Mne sa vidí, že pôjdeme spolu na Nemcov...! Ha,   ha, ha!
+    </tei:p>
+    <tei:p>
+     Jeho srdečný smiech sprevádzal štrngot meča. Potom schytil svoj   plecháč a vlial do seba, čo v ňom ešte bolo: – No, hoci to nie je   nitrianske víno, nalej ešte! – kričal na krčmára.
+    </tei:p>
+    <tei:p>
+     A čo potom, Strojsa, – pýtal sa ho iný zbrojnoš, – tí nemeckí   mnísi ti tiež nadbiehali s tou ich bláznivou nemčinou a s dreveným   krížom?
+    </tei:p>
+    <tei:p>
+     – No, – odpovedal prvý, – to by som im neradil, ale tých tam ani   nepotrebujú. Pravda, nemajú tam Svantovíta ani Perúna, ale, ľudia   moji, ten ich boh je tiež dobrý! Majú obetnicu, ale akú .obetnicu!   Ako naša vyšehradská Svantovítova! A tak vám spievajú, až sa Nitra   ozýva. To by ste mali počuť, samé české piesne, a prisahám na Moranu,   ide im to lepšie ako nám, keď sa vraciame z poľovačky.
+    </tei:p>
+    <tei:p>
+     Tu sa však pred krčmou začali zbiehať deti a dospelí, robili krik   a lomoz okolo šiatra, ktorý tu vyrástol za malú chvíľu. Pred šiatrom   bolo neveľa vyvýšené miesto na spôsob rečniska, čiže kazateľnice,   okrášlené veľkým krížom, na ktorom visel obraz Krista.
+    </tei:p>
+    <tei:p>
+     – Aha ho, zasa mních, no ten to zas dostane! Von sa, von!
+    </tei:p>
+    <tei:p>
+     Také hlasy sa ozývali v krčme a o chvíľu boli dubové stolce   prázdne a plecháče poprevracané. Všetko sa hrnulo von k šiatru.
+    </tei:p>
+    <tei:p>
+     Nemecký mních v jednej ruke s krížom vystúpil. na rečnisko,a kázal   zhromaždenému zástupu.
+    </tei:p>
+    <tei:p>
+     – Čo to vraví, čo to tára? – Začali sa ozývať hlasy, lebo   nerozumeli mníchovej nemčine. – Haní bohov, nadáva na Svantovíta,   rúha sa Perúnovi! Dolu s ním! – ozvalo sa inde.
+    </tei:p>
+    <tei:p>
+     Za okamih bol šiator roztrhaný, kazateľnica prevrátená: mnícha   stŕčali a zauškovali, ba niekoľko pohanov ho malo medzi sebou a   viedli ho k Vltave. A nebol by úbohý mních ušiel zvyčajnému osudu,   utopeniu, keby sa nečakane pozornosť všetkých nebola obrátila na iné   divadlo.
+    </tei:p>
+    <tei:p>
+     Skupina nitrianskych rytierov a odencov na čele s dôstojným   Metodom cválala cestou na Vyšehrad. Zbrojnoši, najmä ten rozprávač z   krčmy, dali sa z plného hrdla kričať: – Sláva Nitranom! Sláva   Slovákom! Huráá! Huráá!
+    </tei:p>
+    <tei:p>
+     Celý zástup ich sprevádzal zvedavými očami, až kým neprišli na   podzámok a nezmizli vo vyšehradských ohradách.
+    </tei:p>
+    <tei:p>
+     Hoci sa to rozumie samo sebou, predsa však musím pripomenúť, že po   Metodovom príchode na Vyšehrad celá Praha nehovorila o ničom inom ako   o Svätoplukovi. V takýchto časoch, pravdaže, ľud sa zmieta sa vo   večných pochybnostiach, kolíšuc medzi bázňou a nádejou. Každá   nezvyčajná udalosť vzbudzuje pozornosťa aj rozličné povesti poletujú   z úst do úst. A najmä český národ bol. teraz taký zastrašený a jeho   myseľ zmietali sem a ta všelijaké povesti, že nevedel, čoho sa držať.   Hrozilo mu nemectvo aj kresťanstvo, a hoci cítil v sebe silu,   nevedel, odkiaľ sa brániť. Z inej strany roznecovali jeho srdce   všelijaké nádeje, lebo o Nemcobijcovi – tak volali Svätopluka sa   šírili ustavične priaznivé správy. Myseľ národa bola navnadená,   pohnutá, rozjarená, ale neuspokojená. A jeho zvedavosť deň čo deň   rástla a rozmáhala sa.
+    </tei:p>
+    <tei:p>
+     Metod medzitým blahodarne pôsobil na srdcia celého kniežacieho   dvora. Ale tento slovanský apoštol sa neuspokojil s tým, že získal   pre Krista Bořivoja a jeho dvor, zaumienil si, že sa pokúsi obmäkčiť   aj srdce národa a osvietiť jeho myseľ.
+    </tei:p>
+    <tei:p>
+     Istého dňa na kniežaci príkaz rozhlásili, že zajtra sa majú konať   služby neznámemu bohu vo Svantovítovom chráme na Vyšehrade. Sotva sa   začalo v ten ustanovený deň brieždiť, zástupy ľudí sa hrnuli k   Vyšehradu. Celého zástupu sa zmocnila neskrotná zvedavosť a túžba po   novostiach, takže čoskoro v chráme, čiže v chrámových predsieňach,   nebolo miesta, lebo do vlastnej svätyne, v ktorej stála štvorhlavá   Svantovítova socha zastrená v popredí osobitnou oponou, nemal okrem   kňaza vykonávajúceho obrad nikto prístup. Pre oponou Svantovítovej   svätyne stála murovaná, kameňom vykladaná a voľačo zvýšená obetnica   na spôsob kresťanských oltárov.
+    </tei:p>
+    <tei:p>
+     Keď už boli všetky predsiene zaplnené, vošla dovnútra celá   Bořivojova rodina aj s vojvodcami a českými rytiermi. Tisíce ľudí tu   bolo prítomných, a predsa akoby tu nebol nikto, ticho a pokoj   zostávali nenarušené. Iba čo napínanie hláv spôsobovalo slabý   šuchot.
+    </tei:p>
+    <tei:p>
+     V takomto očakávaní, čo sa má diať, napätá zvedavosť sa rýchlo   premenila na úžas a zmeravenie, keď sa zjavil nábožný Metod.   Predstúpil pred obetnicu, a celý zástup sa zahľadel na jeho dôstojnú   postavu. Vysoký vzrast, strieborné, zošedivené vlasy splývajúce na   plecia, tvár aj vo svojej starobe krásna, vyjadrujúca mier a večný   pokoj... tieto vnútorné vlastnosti dojali všetok ľud. Dojem zvyšovalo   ešte dlhé rúcho.
+    </tei:p>
+    <tei:p>
+     – Kvôli neznámemu bohu, – začal Metod plný svätého nadšenia, –   zišli ste sa tu, udatní Česi, šľachetné ratolesti, znamenití potomci   Čecha a Sama! A ten vám neznámy boh posiela ma k vám, aby som vám   zvestoval jeho vďačnú pravdu!
+    </tei:p>
+    <tei:p>
+     Ten boh stvoril nebo a zem a všetko živé pod slnkom: on nám   daroval dušu aj telo. A tak k vám prichádzam na rozkaz tohto   všemohúceho boha.
+    </tei:p>
+    <tei:p>
+     Neprichádzam preto, aby som rúcal a lámal vašich strieborných a   zlatých, – drevených a medených bohov, ktorých chránite slovom a   mečom. Ale akože to, vy sami si musíte brániť vašich bohov? Aké veľké   šťastie pre vás, že ste takí mocní, keď vás ten neznámy boh obdaril   takou veľkou silou, že môžete brániť svojich bohov. Ale čo bude   potom, ak padnete? Kto vás potom bude chrániť, keď vaši bohovia sú   takí slabí, že vás potrebujú na svoju obranu?
+    </tei:p>
+    <tei:p>
+     Poznám boha, ktorého vy nepoznáte, a ten boh nepotrebuje obranu,   ale chráni tých, čo v neho uverili. Ten boh má v moci tento svet,   ktorý sám stvoril, on ho môže zatratiť, ale je taký dokonalý vo   svojej dobrote a milosrdnosti, že ho len chce časne a večne spasiť.   Tento boh, ktorého vy nepoznáte, pozná vás a hľadí na vás z jasných a   hrmiacich nebies, vidí vás v búrke aj v pokoji.
+    </tei:p>
+    <tei:p>
+     Od neho máte to zlato, striebro, tú meď a to drevo, z ktorých   staviate a lejete svojich bohov. Váš boh je pominuteľný, lebo hnije a   hrdzavie, ale ten boh, skrze ktorého je všetko, je večný, večne   mocný, večne slávny, večne blahoslavený!
+    </tei:p>
+    <tei:p>
+     Ľudia, on chce mať aj večne, večne blahoslavených; preto poslal na   tento svet syna svojho, aby každý, kto verí v neho, nezahynul, ale   mal život večný.
+    </tei:p>
+    <tei:p>
+     Ach, život večný! Táto nekonečnosť života, toto nekonečné a   nezmerateľné more večného života, toto slnce nikdy nezapadajúcej   slávy zablysne sa a otvorí človeku,keď vyputuje z tohto tmavého   údolia, kde nie je nič slávne, nič trvanlivé, nič večné, všetko hynie   a stráca sa.
+    </tei:p>
+    <tei:p>
+     Táto večnosť života a slávy je pripravená aj pre vás, ak uveríte v   tohto jediného boha, syna jeho Ježiša Krista a Ducha svätého, večného   utešiteľa.
+    </tei:p>
+    <tei:p>
+     Nuž, pripravuj te svoje srdcia, otvorte svoju myseľ pravde,   odovzdajte sa do moci a riadenia toho všemooúceho boha!
+    </tei:p>
+    <tei:p>
+     Všetko je slabé, mocný je iba on, všetko hynie, len on trvá večne,   on môže všetko podvrátiť, – iba jeho nemôže nikto skaziť, všetko je   temné, iba on je slávny, nič nie je dokonalé, iba on jediný, ten otec   nás všetkých je dokonalý.
+    </tei:p>
+    <tei:p>
+     Ľudia, veľa je blahoslavenstva, z ktorého dostávajú veriaci v   Krista. No bieda nad všetky biedy, hrôzy a večné biedy čakajú na   neveriacich a dobrovoľne blúdiacich. Och, ľudia, poznajte pravého   boha – vráťte sa k nemu, ako, hľa, tu pred tvárou celého ľudu a v   lesku božieho svetla robí váš slávny knieža!
+    </tei:p>
+    <tei:p>
+     Táto kázeň, ktorú mal Metod k českému nár.odu, nebola vypracovaná   podľa kazateľských pravidiel, ale predniesol ju nábožne horlivým   duchom, a preto mala veľký účinok. Lebo nikdy nepočuli títo českí   pohania tak zreteľne hovoriť o bohu, a hoci im mnohé zostalo záhadou,   predsa ich celá táto reč prenikla. Hneď, ako Metod skončil reč,   predstúpil pred neho s celým svojím dvorom Bořivoj, a Metod najprv   pokrstil jeho, potom ostatných domácich, vojvodcov a popredných   radcov a rytierov. Každý bez výnimky, prv než vylial na nich prameň   svätého krstu, riekol asi v tomto zmysle:
+    </tei:p>
+    <tei:p>
+     – Priznávam sa k jedinému bohu, ktorý stvoril moje telo a dušu a   môže ju večne spasiť! Zriekam sa modly štvorhlavého Svantovíta a   všetkých bohov vytvorených ľudskou rukou. Verím v jediného boha   Stvoriteľa, v jeho syna Vykupiteľa a v Ducha svätého posvätiteľa!
+    </tei:p>
+    <tei:p>
+     Metod, vylievajúc na nich krst svätý, hovoril asi v tomto   zmysle:
+    </tei:p>
+    <tei:p>
+     Krstím ťa, syn boží, v méne boha Otca, Syna i Ducha svätého, v   ktorého si uveril! Sláva buď bohu na výsostiach! Hospodine, pomiluj   ny!
+    </tei:p>
+    <tei:p>
+     Zástupy sa dívali s úžasom na toto slávne Metodovo krstenie. Mnohí   potom našli zaľúbenie v Kristovi, takže sa ich v ten deň veľmi veľa   pokrstilo.
+    </tei:p>
+    <tei:p>
+     Požehnaný bol príchod tohoto slovanského apoštola k Čechom. Neskôr   vysvätil mnoho kňazov, vystaval niekoľko chrámov, ako na Vyšehrade, v   Limomyšli, na ľavej strane Hradca atď. A posvätil ich sv.   Klimentovi.
+    </tei:p>
+    <tei:p>
+     Od tých čias sa v Čechách rozmáhalo kresťanstvo, ktoré stovky a   tisíce nemeckých mníchov s Karolom a Ľudovítom, mocnými cisármi,   nemohli ani v najmenšom kútiku tejto krajiny rozšíriť.
+    </tei:p>
+    <tei:p>
+     Hoci sa Metod skoro po Bořivojom krste odobral z Čiech, neprestal   potom až do svojej smrti aj s bratom Cyrilom pôsobiť na tento národ.   A až teraz sa dozvedáme, ba s istotou presviedčame, že chrám sv.   Klimenta v Litomyšli vysvätili títo dvaja bratia.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     9
+    </tei:head>
+    <tei:p>
+     Dobrý čitateľ a láskavá čitateľka, nezabudli ste medzi týmito   rozprávkami na toho zúfalého nešťastníka, čo ušiel do hôr, na grófa   Rudolfa? Ach, na toho som takmer aj sám zabudol. Pozrime teda, čo   robí.
+    </tei:p>
+    <tei:p>
+     Na reznianskom hrade, v tesnej komôrke, sedí muž stredného veku.   Rozpustené, strapaté vlasy mu padajú do očí, šaty má síce čisté a   skvostné, ale ledabolo na sebe nahádzané. Zapálené oči, zamračené   čelo a akási spurnosť z celej jeho tváre naznačujú, aký je to asi   človek.
+    </tei:p>
+    <tei:p>
+     Klobúk leží pod dubovým stolom, na posteli je namiesto mäkkých   perín mach, plechová kanvica, čo stojí na stole, je naplnená vodou;   muž sedí na brezovom klátiku. Keď bol o voľačom dôležitom   porozmýšľal, vstal, podišiel k železným dverám a začal nimi z celej   sily triasť a lomcovať. Ale dvere sa ani nehli. Hrozne zaškrípal   zubami, vpadnuté oči mu vyskočili navrch, akoby sa naraz chceli   vyslobodiť zo svojich jamôk. Niekoľko ráz sa prešiel po svojej   komore. Nič iné mu neprišlo na um. Chytil kanvicu, vylial z nej vodu   po komore a začal ňou tĺcť do steny tak silno, že za chvíľu v nej   vybil hlbokú dieru. A začal sa v duchu tešiť. Vtom však zaštrkotal vo   dverách kľúč a on videl, že k nemu už prichádza strážca. Zmraštil   obočie, položil kanvicu na stôl a zvalil sa na svoje machové   lôžko.
+    </tei:p>
+    <tei:p>
+     Vošiel žalárnik a po jeho boku si zastal cisársky pisár, ktorý   väzňovi zvýšeným hlasom prečítal takýto rozsudok:
+    </tei:p>
+    <tei:p>
+     – Vášmu väzeniu je koniec, avšak prísne sa vám ukladá, aby ste   ihneď opustili Rezno a nikdy sa doň nevracali, ak nechcete znovu   padnúť do rúk súdu. Dáva sa vám na vedomie, že túto milosť vám   vymohla milostivá kňažná Adelaida.
+    </tei:p>
+    <tei:p>
+     Vyziabnutého a preblednutého väzňa tieto slová rozohnili. Zrazu v   jeho prevrátenej hlave ožili všetky nádeje. Spod dubového stola   schytil klobúk, čo sa tam váľal, a utekajúc na koniec chodby, chrčal:   – Dve strely netrafili cieľ, ale prisahám, tretia trafí. – S tým aj   zmizol. Či viete, kto to bol?
+    </tei:p>
+    <tei:p>
+     Cisárski poľovníci chytili v horách grófa Rudolfa a priviedli ho   pred cisára. Mali ho prísne súdiť za jeho skutky, lebo sa mu   dokázalo, že on strieľal na Svätopluka. Ale dnes bol štastný deň,   všetko na hrade sa muselo radovať. Adelaida ešte nikdy nebola taká   veselá, ani jej otec, ba ani sám cisár – ako práve dnes. Iba uväznený   gróf smútil. Preto prosila zaňho Adelaida – a tak teraz tohto zúfalca   prepustili.
+    </tei:p>
+    <tei:p>
+     Bol to deň, keď očakávali Svätopluka. Pozajtra mal byť sobáš. Už   boli v Rezne aj biskupi, ktorí mali odbavovať sobášnu slávnosť. Každý   zbrojnoš bol oblečený v čistom striebre a zlate a rytieri sa tešili   na svadobný „Saus und Braus“.
+    </tei:p>
+    <tei:p>
+     Pri obloku .stála, Adelaida. .Srdce jej horerlo; myseľ svietila a   toto jej nádejne položenie vynášalo jej vnútro na najvyšší stupeň   blaha. Pohľad jej zalietal v tú stranu, kde vyhasol posledný lúč, čo   sa odrazil od prilbíc Svätoplukovej družiny. A o malú chvíľu zbadala   na konci cesty, strácajúcej sa v diaľke, dvíhať sa obláčik, v ktorom   sa znovu ligotala prilbica. Potešila sa a odišla od obloka. Vzrušená   nebeskou radosťou prechádzala sa po komnate.
+    </tei:p>
+    <tei:p>
+     Ale ako opísať, čo cíti milenka keď sa blíži jej vrúcne očakávaný   milenec? Povedzte nám to vy, milostivé panie, aké sú, aké to boli   city, čo prúdíli vo vašej hrudi, keď ste vo svadobný deň čakali na   svojho milého, ha ženícha? Vaša hruď sa vlnila, nepokojne burácajúce   srdce horelo, clivou blaženosťou tiesnená myseľ sa upokojovala   najsladšími nádejami, slovom, pretekala čaša nekonečného blaha.
+    </tei:p>
+    <tei:p>
+     Ale čo vtedy cítila Adelaida, horiaca láskou, živým a vznešeným   citom k Svätoplukovi? Povedzte si.to samy, vy, panie, a vy, páni, ja   zostanem pri tom, čo som povedal.
+    </tei:p>
+    <tei:p>
+     Po zámockej dlažbe štrngali ostrohy a rinčal hrmotný meč. Pre   Adelaidu to bola nebeská hudba. Ale o chvíľu zas stíchla v   náprotivnom hradnom krídle, kde mal svoje sídlo cisár. Nebeská hudba   stíchla, aby sa začala iná, pre Adelaidu najstrašnejšia.
+    </tei:p>
+    <tei:p>
+     Na tamtej strane sa totiž razom strhol hrozný krik, zdesaťnásobený   hrmotom a šramotom ostrôh, mečov a rytierskych krokov. A z tohto   hrmotu sa ozývalo Ľudovítovo strašné kliatie a nadávanie. Zrazu sa   dvere rozleteli dokorán a strapatý cisár so synmi aj s níektorými   radcami zastal v nich a kričal z plného hrdla:
+    </tei:p>
+    <tei:p>
+     – Tu to povedz, tu, pes slovenský, tu povedz tie zradné slová toho   môjho satrapu, tu, do tváre tohto tichého baránka!
+    </tei:p>
+    <tei:p>
+     Pravou rukou držal za plece pevného, urasteného, asi   tridsaťročného slovenského rytiera, ktorý, urazený týmto nečakaným   pohanením, vytrhol sa mu z ruky a krátko, ale dôrazne odpovedal:
+    </tei:p>
+    <tei:p>
+     – Som vyslancom môjho kráľa, prečo nakladáš so mnou zle, nemecký   cisár? Na našom dvore je právo vyslancov sväté a nedotknuteľné. A ja   musím na tvojom dvore znášať pohanu?
+    </tei:p>
+    <tei:p>
+     Potom sa Svätoplukov vyslanec obrátil k vystrašenej a prekvapenej   Adelaide a takto pokračoval:
+    </tei:p>
+    <tei:p>
+     – Milostivá kňažná! Prinášam vám od Svätopluka, môjho kráľa a   pána, posledné požehnanie. Hoci si to so sobášom inak rozmyslel, aj   tak vám posiela svoje blahoželanie, svoje blažené a vrúcne požehnanie   v presvedčení, že vy mu tento krok, o ktorom rozhodli vyššie osudy,   odpustíte! A tebe slávny cisár, oznamujem, že som a vo mne aj môj   kráľ pohanený. Ak z toho vzíde vojna, Nemci, aj môj meč zakúsite v   poli!
+    </tei:p>
+    <tei:p>
+     Potom ľavou rukou udrel o tylec svojho meča, ktorý hrmotne   zaštrkotal, pravicou si založil na hlavu prilbicu. Po dlhých   zámockých ambitoch a chodbách hrmeli ťažké rytierske kroky a ohlášal   sa štrngot meča a ostrôh. O malú chvíľu konské podkovy sa iskrili na   zámockých dlažbách a na reznianskych uliciach.
+    </tei:p>
+    <tei:p>
+     Ťažko by bol tento rázny slovenský vyslanec unikol nemeckej   pomste, keby celú pozornosť a celú horlivosť nebola na seba obrátila   Adelaida.
+    </tei:p>
+    <tei:p>
+     Táto správa otriasla Adelaidinu dušu od základov, takže nikdy viac   neprišla k sebe. Ako keď divá víchrica vyvalí aj storočný dub aj   jemné fialky, a môže sa potom premeniť hoci na zafír, nikdy viac   neoživí skleslú silu života. Tak ani Adelaide nemohla nijaká radosť a   rozkoš sveta vrátiť to, čo jediné jej táto hrozná chvíľa vyrvala.
+    </tei:p>
+    <tei:p>
+     Jej mdloba nebola obyčajnou mdlobou. Jej duša akoby rozorvaná   napoly cítila sa rozdielne. A medzi touto trhlinou života videla jej   myseľ Svätopluka. Zdalo sa jej, že ju kladú do hrobu a Svätopluk nad   ňou kvíli. Iba blažený sen nastúpil cestu v jej mysli, lebo skutočný   život v jej žilách omráčila prudká sila. No lekárska pomoc ju vytrhla   z tejto blaženosti a ona si uvedomila svoje nešťastie, prebrala sa do   skutočného života. Lenže ďalej sa nedalo. Všetka pomoc bola   takpovediac iba pomoc. Nebolo mesta ani miesta, kde by neboli   vyhľadávali lekárov, ale nič nepomáhalo.
+    </tei:p>
+    <tei:p>
+     Adelaida žila v sebe. Niekedy sa usmievala, niekedy aj dačo   hovorila, ale všetko sa to iba ponášalo na blažené sny. Ako keď   odkvitajúca ruža smutno pozerá na svoje pŕchnúce lupene, tak aj   Adelaida pokojne hľadela – niekedy aj so smiechom – na svoju vädnúcu   krásu, na hasnúci lesk svojho života. Bočila od spoločnosti, a keď ju   na to nútili, neprotivila sa, lež celý jej život podobal sa hrobu, čo   akokoľvek ovenčený, predsa si zachováva svoju smutnú podobu.
+    </tei:p>
+    <tei:p>
+     Ustanovili skvostný ples, na ktorom sa mala zísť celá nemecká   sláva. Sama Adelaida ho ustanovila do tej siene, v ktorej sa s ňou   naposledy prechádzal Svätopluk. Keď však nadišla hodina, nechcela   ísť. Keď ju prehovorili, predsa vstúpila do bohatej a nádhernej   siene, a bubny a trúbky ozvali sa na jej počesť. Vítali ju hlasné   výkriky, lenže táto sláva a vrava neprenikli. cez jej zádumčivosť.   Keď sa priblížila k stĺpu, do ktorého vrazila strela namierená na   Svätopluka, zastala pri ňom a zaliali ju horúce slzy. To bol posledný   prameň v jej očiach, lebo nikto ju viac nevidel žialiť.
+    </tei:p>
+    <tei:p>
+     – Tu je skrytý hrob Svätoplukovej lásky k Adelaide! – vyriekla   napokon. Potom nedbajúc na nič, vyšla zo siene, nechajúc tam celú   plesajúcu spoločnosť.
+    </tei:p>
+    <tei:p>
+     Ale nechajme na chvíľu smutnú, nešťastnú Adelaidu, obeť okolností   a osudov národov, a pozrime na: nemeckú ríšu.
+    </tei:p>
+    <tei:p>
+     Po celom Ľudovítovom kráľovstve sa s hrmotom a hlukom zbieralo   vojsko. Šíky a pluky sa stavali zo severu a z juhu, z východu a   západu. Konečne mala byť Veľká Morava vyvrátená. Ešte nikdy sa   Ľudovít nechystal do boja s takou mocou a silou. Mnísi a vojnoví   nahuckávači sa usilovali vzbudiť v celom nemeckom národe také   nepriateľstvo a hnev, aké sa roznietilo pre Svätopluka hrozným   blkotom v celej cisárskej rodine. A preto sa zmocnila národná hrdosť   všetkých nemeckých sŕdc, takže aj ten najbezvýznamnejší človiečik   zahorel túžbou pomstiť sa Slovákom...
+    </tei:p>
+    <tei:p>
+     Ba aj lúpežní rytieri a lotri, čo bujdošili v horách, šli pod   cisárske zástavy. Hlavnú správu nad celým, vojskom si ponechal sám   cisár: a každý vojak plesal od radosti, lebo bola známa sláva   Ľudovítovej hrdinskosti. O niekoľko mesiacov už boli nemecké vojská   pod vejúcimi koruhvami v Devíne, Magdeburgu i v Rezne.
+    </tei:p>
+    <tei:p>
+     Dlhou, veľkou a strašnou Hercynskou horou uberala sa posledná   zberba, čo vyzerala tak, akoby sa vytiahla z horských dúpät a jaskýň.   Slnce sa už schyľovalo na západ, no mesto bolo ešte dosť ďaleko. Bez   dákeho poriadku tu šlo asi osemdesiat strašne vyzerajúcich rytierov,   všelijak poobliekaných, no výborne, ba priam skvelo ozbrojených. Ich   vodca sa im vyrovnal vo všetkom.
+    </tei:p>
+    <tei:p>
+     Zrazu sa z doliny ozvali lahodné a príjemné hlasy. Vodca rozkázal   rozložiť stany a sám vyšiel, aby sa presvedčil, či tu niekde nebude   ľudská skrýša, v ktorej by aspoň pre seba našiel pohodlný nocľah.   Našiel kláštor, osamotené sídlo duší, čo ušli zo života.
+    </tei:p>
+    <tei:p>
+     K jeho sluchu donášalo príjemný hlas nábožných piesní, a zdalo sa   mu, že anjelský hlas, ktorý vynikal nad všetky ostatné, je mu   povedomý a známy, že ho už dakde musel počuť. Obzeral sa, rád by sa   bol na niečo opýtal, ale okolo chmúrnych kláštorných múrov boli iba   kriaky a stromy. Po chvíli spev ustal, predstavená rozpustila mníšky,   každú do svojej cely.
+    </tei:p>
+    <tei:p>
+     Už aj slnko zapadlo, iba jeho posledný dohorievajúci lúč sa   naostatok oprel do obloka jednej cely, v ktorom sa zjavila   preblednutá, smutná mníška. Umierajúci slnečný záblesk bledožltým   bozkom zafarbil jej tvár. Rytier ju mohol dobre vidieť. Keď však ona   zbadala rytiera, odstúpila od obloka. A rytier ako omráčený hromom   len-len že neklesol. Kolená sa pod ním triasli, no pozbieral poslednú   silu, a keď sa už zvečerilo, pobral sa do táboriska.
+    </tei:p>
+    <tei:p>
+     Noc sa prestrela po pustej, rozľahlej Hercynskej hore. Celý   kláštor sa už ponoril do sladkého spánku, iba ten jeden oblôčik   zjasňuje slabá lampa. Pred krížom Spasiteľa, na mäkkom čiernom   podstavci,. kľačí so zbožnou mysľou tá mladá mníška a modlí sa. Vo   vrúcnej modlitbe zotrváva do polnoci.
+    </tei:p>
+    <tei:p>
+     A za koho sa modlí? Či vari za cisára, čo ide proti Slovanom?   Alebo za rytierske Nemecko, ktoré si brúsi oceľ na Svätopluka?
+    </tei:p>
+    <tei:p>
+     Oj, nie! Ten nábožno-anjelský spev, čo očaril neznámeho rytiera, i   táto vrúcna modlitba, aj tieto usedavé vzdychy sú obeťou nábožného   srdca nešťastnej Adelaidy, ktorá sa modlí k bohu za Svätopluka.   Vyvolila si tichý kláštor, v ktorom by dožila ostávajúce hodiny   svojho hasnúceho života v myšlienkach na boha a snívaní o   Svätoplukovi.
+    </tei:p>
+    <tei:p>
+     Tým neznámym rytierom bol gróf Rudolf, ktorý, túlajúc sa horami,   pozbieral všelijakú zberbu povaľačov a lúpežníkov, a teraz sa poberá   pod cisárske zástavy proti Svätoplukovi.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     10
+    </tei:head>
+    <tei:p>
+     Metod sa vrátil z Vyšehradu do Nitry so šedinami ovenčenými slávou   šťastného a vytúženého úspechu. Potom, keď s ním Svätopluk zostal   dlho na reči a povypytoval sa ho na všetky noviny pri Bořivojovom   dvore, povolal do rady aj všetkých svojich hlavných radcov a odhodlal   sa na ten krok, aký urobil vtedy, keď v Rezne jeho vyslanec dokazoval   svoju statnosť. A sotva jeho vyslanec opustil Nitru, sám sa hneď   vydal na cestu do Prahy, aby osobne videl a spoznal tento národ a   jeho knieža, o ktorom mu pravdumilovný Metod povedal: – Nepoznám ľud,   nepoznám knieža, ktorý by ti mohol byť takým priateľom ako český ľud   a jeho knieža Bořivoj.
+    </tei:p>
+    <tei:p>
+     Tento výrok bol taký pravdivý, že ani jedno proroctvo sa nemohlo   lepšie splniť než toto. Presvedčíme sa, keď sa dostaneme na koniec,   že medzi kniežatmi nebolo väčších a úprimnejších priateľov na tomto   svete, ako bol Slovák Svätopluk Veľký s Čechom Bořivojom Veľkým.
+    </tei:p>
+    <tei:p>
+     Zatiaľ čo sa Nemci tak veľmi proti Svätoplukovi rojili a zbierali,   on na vojnu ani nepomyslel, prežíval najkrajšie hodiny vo svojom   živote na Vyšehrade. Svatopluk sa oslobodil od ťažkého bremena v tú   chvíľu, keď sa odhodlal opustiť všetky nemecké spolky a podmienky,   zväzky a sobáše. Až teraz videl, čo predtým dobrovoľne nechcel   vidieť, a bol len akousi malichernou bázňou donútený na tieto   predsavzatia a omámený istou domnelou žiadosťou po zvláštnom   víťazstve nad svojimi nepriateľmi: žiadosť tá spočívala v zahanbení   domácich, keby sa mu podarilo pokoriť cudzích. Boli to iba sny. Teraz   bol však Svätopluk veselý. Vedel síce, že z toho musí vzísť vojna, no   v tom domnení, že nemecký cisár nemôže tak rýchlo pozbierať také   pluky, aké má on v pohotovosti, no a láska, ktorá sa ho prvý raz   zmocnila, keď sa zoznámil s vyšehradskou kňažnou – zastreli pred ním   všetky starosti.
+    </tei:p>
+    <tei:p>
+     Sestra panujúceho českého kniežaťa Bořivoja, ktorá oslňovala celé   Čechy, uchvátila jeho myseľ krásou. Vyšehradská kňažná bola najmilšou   Svätoplukovou zábavou. Nikdy nepocítil horúci plameň lásky, preto sa   ho teraz zmocnil celou svojou prudkosťou. Na Rastislavovom dvore ho   vychovali v hrdinskej sláve, svoje ostatné roky prežil s večne   planúcou túžbou v srdci po dôstojnosti a kráľovskej sláve.   Roznecovali ho iba rytierske cnosti; takže sa nemal čas zmocniť jeho   srdca tento všetko podmaňujúci oheň. Keď porovnával držanie sa, krásu   a reč tejto vyšehradskej kňažnej s inými, najmä zahraníčnými devami,   všetko sa mu na nej pozdávalo lepšie než na iných.
+    </tei:p>
+    <tei:p>
+     V mysli mu začala blednúť všetka hrdinská a kráľovská sláva, lebo   najblaženejšími chvíľami sa mu zdali tie,keď sa so svojou kňažnou   prechádzal osamote po brehoch Vltavy, alebo sa plavil iba s ňou a s   jedným lodníkom na vlnách tejto veľkej českej rieky, strácajúc sa v   jej ľúbostnom pohľade. V prsiach mu prúdila nikdy necítená blaženosť,   niet sa teda čo čudovať, že Svätopluk, nechápuc sám seba, celkom sa   odovzdal blaženým chvíľam a zabudol pritom, že veci s Nemcami   neustali. Ani vyšehradská kňažná neušla pred Milkovým šípom, lebo   obraz Svätopluka sa jej hlboko vryl do srdca.
+    </tei:p>
+    <tei:p>
+     A tak pre obidve tieto duše míňali sa týždne šťastia a blaha a   prinášali im vždy krajšie hodiny.
+    </tei:p>
+    <tei:p>
+     No čoskoro ich vystrašilo čierne mračno, blížiace sa od západu, čo   prechovávalo vo svojom lone smrteľné hromy na celú Sláviu. Na českom   pomedzí zazneli nemecké trúby, a hneď potom doleteli chýry, že   Ľudovít postupuje s celou svojou silou a ešte nikdy nevídanou mocou,   aby zrúcal a rozvláčil celý slovanský východ.
+    </tei:p>
+    <tei:p>
+     Hoci sa zdalo, že Svätopluk zabúda na svoju slávu, nemohol mu ani   prudký oheň lásky zacloniť slávu jeho národa. Zrazu sa v ňom vzbúrili   všetky jeho predstavy, želania a ciele, ktoré si bol uložil, chcejúc   dokázať, že je hodným nástupcom veľkého Rastislava. Teraz mu, pravda,   pribudla ešte jedna myšlienka: k túžbe po oslávení svojho národa sa   pripojila túžba po vyšehradskej kňažnej. A o tomto sa ešte nezhováral   s nikým.
+    </tei:p>
+    <tei:p>
+     Jeho odenci čakali na vyšehradskom predhradí, jeho sivko už hrabal   kopytami, potriasal hrivou, fŕkal nedočkavo. Ale on bol v Bořivojovej   sieni s vyšehradskou kňažnou. Boli to pytačky, pravda, krátke   pytačky, nie také riadne, aké mávate vy, Slováci. Svätopluk sa akosi   nevedel pribrať do pýtania, iba stískal Bořivojovi ruku, hlas sa mu   triasol a neisto hovoril:
+    </tei:p>
+    <tei:p>
+     – Bořivoj, jeden nepriateľ nám hrozí obidvom! Naše priateľstvo,   posvätené nebeským cieľom urobiť nám zverené národy šťastnými... nech   nás spojí naveky...! Ale povedz, Bořivoj, povedzte aj vy, milostivá   kňažná, či môžem odísť s ,tou nádejou, že ak zvíťazím, odmení ma vaša   ruka?
+    </tei:p>
+    <tei:p>
+     Konečné rozlúčenie bolo „áno“.
+    </tei:p>
+    <tei:p>
+     Svätopluk sa náhlil do Nitry a Bořivoj zoraďoval šíky a pluky,   lebo Nemci prekročili hranice, hnali sa vždy bližšie k Vltave a   ničili a pálili zámky aj mestá.
+    </tei:p>
+    <tei:p>
+     Jeden oddiel vojska, ktorý viedol moháčsky arcibiskup Lintbrecht,   išiel na Čechov, kým celá sila nemeckého vojska pod vedením princov a   samého cisára mala udrieť na Svätoplukovu ríšu.
+    </tei:p>
+    <tei:p>
+     Hoci Bořivoj rozostavil svoje pluky, ktoré mohol napochytro   zhromaždiť, za vodcovstva Svatoslava, Spytimíra, Vítěslava a iných,   neďaleko Vltavy, pokiaľ sa až Nemci vodrali, musel však ustúpiť pred   ich veľkou silou, utrpiac pritom veľkú porážku. Potom sa stiahol do   opevnených miest a hradov. Stalo sa to roku 872.
+    </tei:p>
+    <tei:p>
+     Ale oveľa horšie sa vodilo Ľudovítovi a jeho synom na Veľkej   Morave. Keď Svätopluk dorazil do Nitry, našiel už všetko pripravené   na vojnu. Prípravy urobil Slavomír, ktorý bol za čias jeho nemeckého   väzenia vodcom Slovákov, a Metod. Vyslanec zaiste podľa známych   príznakov predpovedal skoré vzbúrenie sa Nemcov proti veľkomoravskému   kráľovi. A Metod vedel obnoviť v srdci národa dôveru k Svätoplukovi,   ktorá začala upadať.
+    </tei:p>
+    <tei:p>
+     Celý výkvet hrdinskej Nitry čakal už na Svätopluka, lebo on býval   známym vodcom Nitranov. Všetky vojská pookriali novým duchom, keď   videli blýskať sa Svätoplukov meč a vlniť sa jeho perá na   prilbici.
+    </tei:p>
+    <tei:p>
+     Slováci a Moravania dychtili po víťazstve a nevedeli sa dočkať   útoku na nepriateľa. Čoskoro sa divadlo vojny rozšírilo od Velehradu   až po Nitru, takže Morava, Nitra a Váh sa rozvodnili od ľudskej krvi.   Hoci mestá a dediny ľahli popolom, lebo ich aj sami Slováci zámerne   pálili pred nepriateľom, aby mu nepomohli, jednako škodu, ktorú   utrpeli Nemci po trojdennom neprestajnom boji, si nemecký cisár   Ľudovít už nikdy nenahradil. Lebo Svätopluk nielenže jeho a synov   porazil na hlavu a zahnal až za Dunaj, ale mu ešte v jeho vlastnej   ríši podmienky diktoval, na ktoré musel pristať, keďže sa viac   nemohol vzpierať a protiviť nepremoženému veľkomoravskému   kráľovi.
+    </tei:p>
+    <tei:p>
+     Takto Svätopluk zahnal tie hromové mraky, ktoré sa už dávno kopili   nad jeho ríšou. Pokoril nepriateľov, upevnil mocné zväzky s   priateľmi, zažal v národe svetlo pravdy a osvety, a tak stvrdil slávu   svojho mena na večné časy.
+    </tei:p>
+    <tei:p>
+     No a teraz by mi už neprichodilo nič iné, iba povedať, že   Svätopluk sa oženil a žil šťastne, a tak by som vzácneho čitateľa, a   milú čitateľku oslobodil od ťažkého čítania. Ale nie tak. Ja som si   vlastne zaumienil písať o svadbe veľkomoravského kráľa, no a o tej   nebolo ešte ani slychu, lebo náš hrdina neprestajky bojoval, nebolo   na to času. Že som sa tak dlho pri tom zdržal a ako sa zdalo, na   svadbu zabúdal, nech mi to ráči odpustiť láskavý čitateľ; a milé   čitateľky, naše milé Slovenky, mi to už odpustili. A ja som tiež hneď   pripojil, že svadba veľkomoravského kráľa sú obrazy z deviateho   storočia. Nuž, bože, či je to div, že sa človek zdrží pri tých   obrazoch, pre nás takých pamätných?
+    </tei:p>
+    <tei:p>
+     Tak poďme teda až na koniec.
+    </tei:p>
+    <tei:p>
+     Keď sa Svätopluk vracal cez Prahu z Nemecka, kde sa pokonával s   nemeckým cisárom Ľudovítom, obnovil pytačky, a keď porobil všetky   poriadky na nastávajúcu svadbu, vrátil sa do Nitry. Celá Nitra vyšla   svojmu kráľovi v ústrety a ohromne plesala nad jeho víťazstvom a nad   slávnym Svätoplukovým návratom.
+    </tei:p>
+    <tei:p>
+     Zaraz sa aj v Nitre pripravovali hody pre rytierov a hrdinov. A   medzitým sa schádzali okolité slovenské kniežatá, aby vzdali hold   veľkomoravskému kráľovi. Zo všetkých strán dovážali Svätoplukovi   všelijaké drahé dary na dôkaz úcty, ktorú prechovávajú k tomuto   slovenskému hrdinovi. Očakávala sa aj svadobná výprava z Prahy. Ale   tá dorazila až neskôr, ozbíjaná zbojníkmi čo zostali z nemeckých   vojsk v českých horách. Šesťsto bujných, osedlaných koní zostalo   zbojníkom, iné ochránili hrdinskí zbrojnoši, ktorí okrem toho zajali   ich náčelníka a zviazaného ho doviedli do Nitry.
+    </tei:p>
+    <tei:p>
+     Svätopluk si ho dal predviesť a spoznal v ňom zúfalého rozorvanca   grófa Rudolfa. Potom ho kázal naskutku prepustiť. Bohvie, kam zašiel   tento sám sebe odcudzený farizej; ak povesti neklamú, tak si v   považskej zátočine vzal svoj hriešny život.
+    </tei:p>
+    <tei:p>
+     Napokon príšiel do Nitry Bořivoj aj s celým svojím dvorom, a tu   bol vlastne začiatok tej slávnej, pamätnej svadby veľkomoravského   kráľa. Hneď druhého dňa ráno začalo sa vyzváňať a zástupy sa hrnuli   do chrámu na Nitrianskom hrade. Metod už stál pred oltárom.
+    </tei:p>
+    <tei:p>
+     Slovanský apoštol spojil manželským zväzkom vyšehradskú kňažnú. so   Svätoplukom, veľkomoravským kráľom.
+    </tei:p>
+    <tei:p>
+     Trúby a bubny zhrmeli a celá Nitra sa chystala na plesy a   radovánky. Na kráľovskom hrade bolo živo. Celý jeden rad siení bol   preplnený najprednejšími hosťami, Svätopluk s manželkou sedel za   vrchom skvostného a krásneho stola, po obidvoch stranách sedeli   kniežatá, vojvodcovia a grófi z okolitých krajín. Bolo tu vládnúce   panstvo z Chorvátska a Poľska, potom aj domáci. Všetko sa topilo v   lesku zlata a striebra, a srdce v radostiach. V čašiach sa perlili   najlepšie vina, na misách a tanieroch kolovala divina naznášaná zo   všetkých slovenských hôr.
+    </tei:p>
+    <tei:p>
+     Zahrmeli bubny a trúby, keď sa v rukách zablýskali čaše na   Svätoplukovu slávu. Neskôr sa rozzvučali aj harfy. Všetko stíchlo,   keď bard z balkóna začal spievať:
+    </tei:p>
+    <tei:l>
+     Slnce zapadlo nad Velehradom,
+    </tei:l>
+    <tei:l>
+     stleli lúče plamenné,
+    </tei:l>
+    <tei:l>
+     ach, kedy sa vrátiš nad naše tváre
+    </tei:l>
+    <tei:l>
+     národa slnce zapadlé?
+    </tei:l>
+    <tei:l>
+     Slnce zapadlo v mraku hustom,
+    </tei:l>
+    <tei:l>
+     dennica nevychodí,
+    </tei:l>
+    <tei:l>
+     ach, beda, večná nás tma uchváti,
+    </tei:l>
+    <tei:l>
+     divá búrka neuchráni!
+    </tei:l>
+    <tei:l>
+     Takto si kvílil, synu Nitry,
+    </tei:l>
+    <tei:l>
+     znášajúc jarmo nemecké,
+    </tei:l>
+    <tei:l>
+     tak nariekal si, keď mraky čierne
+    </tei:l>
+    <tei:l>
+     zastreli Tatry slovenské.
+    </tei:l>
+    <tei:l>
+     Útecha vädla v mysli žalostnej,
+    </tei:l>
+    <tei:l>
+     srdce opúšťala nádej...
+    </tei:l>
+    <tei:l>
+     lež tu sa zaskvel v zlej dobe anjel,
+    </tei:l>
+    <tei:l>
+     ktorého z neba Nitre zoslal boh.
+    </tei:l>
+    <tei:l>
+     Už luhy slávske pod kopytami,
+    </tei:l>
+    <tei:l>
+     už osenie pošliapané...
+    </tei:l>
+    <tei:l>
+     Pálili zámky vojská nemecké,
+    </tei:l>
+    <tei:l>
+     mestami zúrili chlípne!
+    </tei:l>
+    <tei:l>
+     Lež tu Svätopluk meč berie ostrý,
+    </tei:l>
+    <tei:l>
+     meč slobody blahonosnej...
+    </tei:l>
+    <tei:l>
+     Pot z neho prúdom už tečie veľkým,
+    </tei:l>
+    <tei:l>
+     pot jeho slávu dobýja.
+    </tei:l>
+    <tei:l>
+     Nemci sa roja, striel mraky hustnú,
+    </tei:l>
+    <tei:l>
+     rek neľaká sa slovenský!
+    </tei:l>
+    <tei:l>
+     Už sa nemecké prápory blížia
+    </tei:l>
+    <tei:l>
+     k Nitre, ach, beda, neresti!
+    </tei:l>
+    <tei:l>
+     Ale tu Nitra bojom uvyklá
+    </tei:l>
+    <tei:l>
+     statne sa drží v šíku hustom
+    </tei:l>
+    <tei:l>
+     „Bi, sekaj, žeň ich,“ káže Svätopluk,
+    </tei:l>
+    <tei:l>
+     a vpredu sám perie Nemca!
+    </tei:l>
+    <tei:l>
+     Už sa zablysli slnca lúče
+    </tei:l>
+    <tei:l>
+     na oslavu víťaza Nitry,
+    </tei:l>
+    <tei:l>
+     prázdne je od Nemcov mesto i miesto,
+    </tei:l>
+    <tei:l>
+     zahnali Nemcov Slováci!
+    </tei:l>
+    <tei:l>
+     A vďaka i sláva ti zaznieva
+    </tei:l>
+    <tei:l>
+     kráľ, Svätopluk Veľký!
+    </tei:l>
+    <tei:l>
+     Slávou ti večnou zaznie harfa
+    </tei:l>
+    <tei:l>
+     i ďalekému potomstvu!
+    </tei:l>
+    <tei:p>
+     Bard dospieval. Hlučné oslavovanie Svätoplukových hrdinov, najmä   nitrianskych, ale aj všetkých ostatných, sa zaslúžili o víťazstvo nad   nepriateľom, nie a nie skončiť.
+    </tei:p>
+    <tei:p>
+     Svätoplukovi zostal tento deň ako slnce medzi všetkými dňami   života. Takisto Bořivojovi. Od tohto dňa až do posledných chvíľ   života týchto dvoch panovníkov bolo nebo veľkomoravskej a českej ríše   nezamračené. Pod Svätoplukovou ochranou boli kniežatá chorvátske,   panónske, poľské a český knieža Bořivoj. Najmä Bořivoj jeho   najdôvernejším spojencom. Do smrti obidvoch týhto panovníkov, a   prišla na nich takmer odrazu, bola Veľká Morava nepodmaniteľná,   všetky nepriateľské šípy a strely sa od nej odrážali.
+    </tei:p>
+    <tei:p>
+     Ako som povedal, Bořivoj, požívajúc ochranu všemocného Svätopluka,   rozširoval vo svojom národe kresťanské náboženstvo, Svätopluk staval   školy a chrámy a viedol svoj ľud k osvietenosti, ktorá bola v tom   čase na vysokom stupni. Slúžil spravodlivosti, obhajoval nevinnosť,   bol otcom chudobných a útočiskom prenasledovaných.
+    </tei:p>
+    <tei:p>
+     Čo sa stalo s jeho ríšou potom, keď skončil svoju zemskú púť, ako   znesvárení synovia nepokračovali v šľapajách veľkého otca a priviedli   na. ťažko vybojované veľkomoravské kráľovstvo nepriateľov a nekonečnú   záhubu – to už sem nepatrí. No ak sa táto „Svadba kráľa   Veľkomoravského“ zapáči, pokúsi sa potom našim milým Slovákom   porozprávať čosi aj o tých veciach – aby sa už raz poznali.
+    </tei:p>
+    <tei:p>
+     O tejto svadbe neviem už nič iné povedať, iba to, že od tých čias,   a to je už 970 rokov, taká svadba nebola. A tak nech sa naša myseľ   kochá aspoň pamiatkou a jej spomienkami, a potomstvo nech sa učí v   slávnych predkoch a otcoch, čo už dávno spráchniveli, ctiť si a   milovať aj seba samého.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

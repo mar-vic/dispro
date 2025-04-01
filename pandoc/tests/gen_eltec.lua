@@ -1,0 +1,1 @@
+pandoc <input_file> --lua-filter ~/Projects/dispro/pandoc/filters/eltec_head_vals.lua --lua-filter ~/Projects/dispro/pandoc/filters/eltec_notes.lua ~/Projects/dispro/pandoc/filters/headers.lua --template ~/Projects/dispro/pandoc/templates/eltec.xml --metadata-file <metadata_file> -t ~/Projects/dispro/pandoc/writers/eltec.lua

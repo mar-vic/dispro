@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1956606" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Mendik : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kubáni, Ľudoví (1830 - 1869)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     12122
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kubáni, Ľudoví
+     </tei:author>
+     <tei:title>
+      Mendik
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské vydavateľstvo krásnej literatúry
+     </tei:publisher>
+     <tei:date>
+      1956
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Kubáni, Ľudoví
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1860
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Mendik
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA PRVÁ
+    </tei:head>
+    <tei:p>
+     #I#Obraz z učiteľského života#-I#
+    </tei:p>
+    <tei:p>
+     Naprostred školy v Sušiciach v príbytku pána učiteľa Philippa   Šípika stojí v kolese šesť osôb — a v prostriedku jedno malé   chlapčiatko. Tieto osoby sú:
+    </tei:p>
+    <tei:p>
+     1. Pán Philipp Šípik, ako povedáme, učiteľ v Sušiciach, asi   štyridsaťdvaročný chlap mocnej, tučnej, územčistej postavy — tvár a   brucho má okrúhle ako plný mesiac alebo ako polcentová tekvica, na   hlave má postavenú takrečenú domárku, t. j. okrúhlu čiapku z remeňa,   pod ktorou vykúkajú úhľadný nos a dve živé oči. Jednou rukou zakrúca   svoje dlhé nažltkasté fúzy, v druhej sa mu opála feruľa a dlhorúrová   fajka.
+    </tei:p>
+    <tei:p>
+     2. Pani Margaretha Šípik, rodená Klokočáni, manželka pána učiteľa,   vysokej rozložitej postavy žena, na ktorej tvári — bárs už má kolo   tridsaťšesť rokov — ešte znaky krásy sa mihotajú. Ona má na hlave   biely ako sneh čepiec, pod hladkým čelom dvoje čiernych, lež ohnivých   ako uhoľ očí, pod perami dva rady bielych ako slonová kosť zubov a   driek rukami podopretý.
+    </tei:p>
+    <tei:p>
+     3. Pán Bohuslav Trnovský, kaplán zo susednej dediny Lukatína,   mladý, dvadsaťpäťročný šuhaj prívetivej tváre.
+    </tei:p>
+    <tei:p>
+     4. Sidonia Cleopatra Šípik, dcéra pána učiteľa, utešené, asi   šestnásťročné dievča.
+    </tei:p>
+    <tei:p>
+     5. Mutius Horatius Šípik, nádejeplný desaťročný synáčik pána   učiteľov.
+    </tei:p>
+    <tei:p>
+     6. Jedna od hlavy až po kolená hrubou plachtou, čiže popelkou   zakrytá žena s batohom na chrbte, s bielym, čiernopretkávaným rubášom   pred sebou — a bosá.
+    </tei:p>
+    <tei:p>
+     V prostriedku malý chlapec rozrandaveného rúcha a slziacich   očí.
+    </tei:p>
+    <tei:p>
+     „Quomodo vocaris? To jest: ako sa voláš, chlapče?“ dopytuje sa pán   učiteľ zvučným, hrubým hlasom nášho rozrandavenca.
+    </tei:p>
+    <tei:p>
+     Chlapča sa striaslo, prebehlo malou dlaňou po čiernych kučeravých   vlasoch, ktoré mu temer do očí padali, a uprelo prosebný zrak na   bosú, vedľa neho stojacu ženičku.
+    </tei:p>
+    <tei:p>
+     „Neboj sa, dieťa moje!“ dodávala mu táto chuti. „Povedz, veď sú to   pán rechtor, dobrý pán rechtor, oni ti nič nespravia.“
+    </tei:p>
+    <tei:p>
+     „Martin — áno — Martin — Klipták,“ zašepkalo dieťa.
+    </tei:p>
+    <tei:p>
+     „Martin Klipták?! Eheu, domine reverende#POZ#1; (lat.) velebný   pane#-POZ#! Či počuli dakedy také obyčajné meno?“ vykríkol pán   učiteľ, obrátiac sa ku kaplánovi. „Tu som si ja mojim deťom   zvláštnejšie mená vyvolil. Tu vidia, rogo#POZ#2; (lat.) prosím#-POZ#,   Sidoniu Cleopatru, vedľa nej Mútia Horatia, syna matkinho srdca.“
+    </tei:p>
+    <tei:p>
+     „Ja som nie Mutius ani Horatius, ja nechcem také mená, mňa chlapci   Mucom a Rakom prezývajú,“ pretrhol pána učiteľov synáčik reči svojho   otca.
+    </tei:p>
+    <tei:p>
+     „Taceas nequam#POZ#3; (lat.) čuš, naničhodník#-POZ#! To jest:   hallgass, fiam#POZ#4; (maď.) čuš, syn môj#-POZ#! Mutius   Scaevola#POZ#5; Mutius Scaevola — zo starorímskych dejín. Gaius   Mutius Scaevola (Ľavičiak) mal byť umučený za pokus zavraždiť   etrúrskeho kráľa Porsennu (507 pr. n. l). Aby dokázal svoju odvahu,   spálil si na otvorenom ohni pravú ruku. Porsennovi vyhlásil, že   tristo podobných odhodlaných ľudí prisahalo kráľovi smrť, Porsenna sa   zmieril s Rímom a Mutiovi daroval život.#-POZ# a Horatius   Cocles#POZ#6; Horatius Cocles — zo starorímskych dejín. S dvoma   druhmi hájil most cez Tiber proti kráľovi Porsennovi. Rimania most   strhli. Hrdinský Horatius unikol nepriateľom preplávaním na druhý   breh.#-POZ# boli chýreční hrdinskí Rimania, máš byť hrdým, že ich   meno nosíš, k ich pocte som ťa tak nazval — a de caetero#POZ#7;   (lat.) ináč#-POZ# tvojich prezývačov zajtra solenniter#POZ#8; (lat.)   slávnostne, neobyčajne#-POZ# potrescem! — No, a koľkože máš rokov,   parvule#POZ#9; (lat.) maličký#-POZ# Klipták?“ obrátil sa pán Šípik k   malému Martinovi, keď bol Mutia utíšil.
+    </tei:p>
+    <tei:p>
+     Chlapča znovu pozrelo na bosú ženskú.
+    </tei:p>
+    <tei:p>
+     „Sedem, ich vlídnosť, pán rechtor,“ hovorila táto, rozumiac zraku   jeho, „sedem rokov má táto úbohá sirota, nemajúca nikoho na svete   kremä mňa, jeho otcovej sestry. Nach mi ráčia veriť, ich vlídnosť, že   by som ho od seba tak slabo a útlo nepúšťala, keby som ho mohla   vyživiť; ale, bože môj! teraz sú časy drahé, chudobný človek sám   ledva vyžije — a keď sa má cez celý život trápiť, nach sa už za mladi   naučí. Ono je ešte síce slabô, ale zato už bude vládať mechy ťahať, a   pani rechtorke vody doniesť a drevco preťať — ačpráve sa tomu   nebožiatko neučilo, lebo je i ono rechtorská sirota.“
+    </tei:p>
+    <tei:p>
+     „Rechtorská sirota? Revera#POZ#10; (lat.) skutočne#-POZ#, teraz mi   na um prichodí, že som dákehosi Kliptáka poznal; počkajmeže!“ Tu sa   pán Šípik zamyslel a položil feruľu na svoje čelo. „Klipták! Martin   Klipták! aha! veď to bol môj conscholaris#POZ#11; (lat.)   spolužiak#-POZ# v Levoči a — richtig — jedno leto sme boli na   Oravskom zámku.“
+    </tei:p>
+    <tei:p>
+     „A či to prošťa má dákesi šaty?“ pretrhla pani rechtorka hlasný   monológ manželov, ktorý už v Oravskom zámku blúdil. „Lebo vám to   povedám, že v Sušiciach mendík#POZ#18; (lat.) pôvodný význam žobrák.   Neskôr takto označovali chudobných žiakov, ktorí vypomáhali v ev.   rechtorských domácnostiach i v kostole pri cirkevných úkonoch#-POZ#   málo vyvinšuje, a biedna rechtorka, ktorá by aj mendíkov šatila — ba   keď ho zašatíš, potom ti ujde a rechtorka i za to vyhorí.“
+    </tei:p>
+    <tei:p>
+     Miesto odpovede zložila žena batoh a vykrútila z neho dva páry   hrubých gatí, dva páry takýchže košieľ, jeden kvietkastý lajblík z   veľkého chlapa a jednu vyšedivenú čiapku zo starého sveta.
+    </tei:p>
+    <tei:p>
+     „Biele šaty som mu z mojej horko—ťažko nadobudnutej priadze   našila, lajblík a čiapka mu zostali po otcovi, jedinô jeho dedičstvo;   lebo — nach mu pán boh hriechy odpustí, veď už jednako pred jeho   súdom stojí — on bol veľký korheľ!“
+    </tei:p>
+    <tei:p>
+     „Klipták — Martin Klipták! Že vraj veľký korheľ!“ povedal pán   učiteľ a obrátil sa k hovoriacej. „Žena! Vy chcete povedať, že bol   veľký latinák a ja myslím, že i svojmu synovi, keď nie inšie, aspoň   tento poklad latinčiny zanechal. Attende Martine! Quot sunt partes   orationis?#POZ#12; (lat.) počkaj, Martin! koľko máme čiastok   reči?#-POZ#“
+    </tei:p>
+    <tei:p>
+     Na túto otázku sa pustilo chlapča do plaču.
+    </tei:p>
+    <tei:p>
+     „Čuš s tvojimi sprostými otázkami!“ rozkríkla sa na pána Šípika   jeho pani manželka a obdarila ho takým pohľadom, že mu i feruľa z   ruky i dlhorúrovica z úst vypadla. „Tvoje orácie drž sám pre seba,   veď si jednako nimi už aj môjho Mútia pokazil. Mendík má inakšiu   robotu, radšej sa ho spýtaj, či zná stajňu vyčistiť, ošípané do poľa   vyhnať, drevo rúbať a vodu nosiť. No, Martin, či si to už dakedy   robil?“
+    </tei:p>
+    <tei:p>
+     „Ach, prosím ich milosť, pani rechtorku, veď ono i k tomu   privykne, nach sa len nad ním zmilujú, nad ním a nado mnou, ktorá ho   nemám z čoho vychovať,“ vravela stukajúcim hlasom bosá žena a spínala   ruky.
+    </tei:p>
+    <tei:p>
+     „Keď bude poslúchať, dobre mu bude, ja žiadnemu mendíkovi   neukrivdím!“ odpovedala pani učiteľka.
+    </tei:p>
+    <tei:p>
+     „Nošak budeš poslúchať, Martinko?“ ozval sa k chlapcovi strieborný   hlas Sidoniin, a šumná dcéra pána učiteľova podala jabĺčko malému   Kliptákovi, ktorý touto vďačnosťou utešenej devy osmelený, hlasným   názvukom povedal, že bude.
+    </tei:p>
+    <tei:p>
+     „Bene #POZ#13; (lat.) dobre#-POZ#, Martine! Dúfam, že keď nie   latinskú gramatiku, aspoň čítať a spievať znáš, a jestli sa nemýlim,   to je pre mendíka v Sušiciach dosť. Ex pura pietate#POZ#14; (lat.) z   čírej úcty#-POZ# naproti tvojmu otcovi budem s tebou aj Dunayho   Donát#POZ#15; populárna učebnica latinčiny od Aelia Donáta (IV. stor.   n. l), používala sa v rôznych prepracovaniach v Uhorsku do polovice   XIX. storočia. Emericus Dunay vydal roku 1812 „Donatus Latino —   Germanico — Hungarico — Slavicus“ #-POZ# traktovať, čo ti dakedy k   dobrému poslúži, bárs si myslím, že časom budeš spôsobnejší k   dákemusi poctivému remeslu ako k štúdiám. A s tým teraz dosť.   ,Sapienti pauca#POZ#16; (lat.) rozumnému stačí málo#-POZ#,   hovorí latinák — poďte, žena, do prednej chyže, zapíšem Martina   Kliptáka do mendíckeho protokolu!“ Keď toto pán učiteľ dopovedal,   zobrala sa celá spoločnosť, vyjmúc nového mendíka, do svetlice, kde   sa stalo slávne inprotokolovanie#POZ#17; (lat.) zapísanie do   zoznamu#-POZ# nového služobníčka cirkvi sušickej.
+    </tei:p>
+    <tei:p>
+     O chvíľku vyšla bosá žena von; pritisla malého Martina ešte raz k   svojim prsiam; povedala mu, aby bol poslušný, a odišla preč. Chlapec   zaplakal bolestne a odtiahol sa pod školskú lavicu, aby tam k svojmu   novému stavu privykal.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA DRUHÁ
+    </tei:head>
+    <tei:p>
+     Vyše Sušíc mal pán Šípik záhradu. Pre mnoho orechových stromov v   nej sa nachodiacich nosila meno Orešník, bárs sa radšej Vápenčíkom   mohla nazvať. Skutočne, ležala na vápennej pôde, a vyjmúc ovocných   stromov, ktoré rástli husto vovedne ako čierna hora, a jednej malej   čistinky, ktorá bola zastrená utešeným kobercom kvetov, nenachodila   sa v nej, iba púha, číra vápencová skala. Takýmto kameňom bola   dookola asi na pol siahy vysoko ohradená.
+    </tei:p>
+    <tei:p>
+     Vprostred záhrady spoza stromovia belela sa malá, k pádu sa   kloniaca búdka, vedľa nej sa prestieralo mäkké trávnaté ležiatko,   zatienené širokým lístím broskyne a hore po tyčkách sa plaziacou   bôbovinou. Na ležiatku v divnosladkých dumách zanorená sedela devica   Sidonia ako z neba zlietnuvší seraf, v bielej servianke#POZ#19;   (lat.) časť ženského obleku#-POZ#, v bielom, na spôsob mníšskej   kapucne upodobnenom klobúku, v modrej ako svetlý ultramarín kamži, a   červená ružička, na labutích ňadrách zapätá, rumenila sa tam akoby o   závod s rumencom, utkveným na devinej tvári. V rúčke držala žltobiely   králik, a či veľký harmúnový kvet, z ktorého prsty džubkali list za   listom a pery k tomu šepotali nezrozumiteľné slová. Škoda, že ich   nebolo možno dopočuť; istotne tvorili dákesi tajomstvo prvej, v   nevinných ňadrách vznikajúcej lásky — aspoň výraz jej utešenej tváre   žiaril v purpurovom nádychu dákehosi nového sladkého pocitu.
+    </tei:p>
+    <tei:p>
+     Asi pätnásť krokov od Sidonie vypínala sa do ohromnej výšavy   velikánska hruška z druhu ovseníc, na tenulinkom vrcholci ktorej   kolembalo sa jedno chlapča ako čížik na prútiku. Pod hruškou stál   druhý chlapec a túžobne pozeral hore do výšavy na žltú ovocinu, ktorú   chlapča vo vrcholci malými rukami do veľkej kapsy kládlo, k tejto   krkolomnej robote divnosmutnú nôtu polotichým hlasom si   hvízdajúc.
+    </tei:p>
+    <tei:p>
+     „Martin! Tú mi, čo je nad tebou, čo ti nad hlavou visí!“ kričal   Mutius Horatius Šípik na nášho Kliptáka trucovitým svojvoľným hlasom   a malý Martin, počujúc pánovitý hlas pani učiteľkinho miláčka,   natiahol svoju drobnú postavu, natiahol svoje krátke rúčky a chcel   vyznačenú hrušku odtrhnúť.
+    </tei:p>
+    <tei:p>
+     „Mladý pán! Nemôžem, veru nemôžem!“ volal ku dolustojacemu, keď   videl, že mu ta ani ruka nedosahuje.
+    </tei:p>
+    <tei:p>
+     „Nemôžeš?! Počkaj! To si poviem mamike, že mi nechceš nič kvôli   spraviť a že ma neposlúchaš, ako ti rozkázali!“ volal najedovane   Mutius, a do jeho hlasu sa miešalo stukanie zlosti. „Počkaj! Poviem,   že si nehvízdal, že si iba jedol!“ vyhrážal sa Mutius ďalej, a   dákousi okamžitou zlosťou rozpajedený, schytil zo zeme kameň,   namieril ho a hodil do mendíka.
+    </tei:p>
+    <tei:p>
+     Neboža Martin sa chcel vyhnúť, aby ho kameň neobrazil, ale v tom   pohnutí stratilo chlapča rovnováhu a so srdceraniacim výkrikom —   letelo dolu.
+    </tei:p>
+    <tei:p>
+     Svojvoľný Mutius skríkol, skríkla i deva prebudená z ľúbostného   snenia šuchotom lámajúcich sa haluzí. Ale Hospodin úbohého   osiroteného mendíka ochraňoval. On poslal anjela svojho v podobe   jedného mladého, v čierny šat oblečeného šuhaja, ktorý padajúceho   chlapca v tom okamihu, ako sa jeho telo k zemi približovalo, zachytil   do mocného náručia a ako čo by sa nič nebolo stalo, položil na pažiť   pod hruškou sa zelenajúcu.
+    </tei:p>
+    <tei:p>
+     „Trnovský!“ vydýchla z omráčenia strachu sa prebudivšia Sidonia,   na jej tvári zahrali ruže prvým bleskom slnca zaliate a z ruky jej   vypadol dopoly obtrhaný králik.
+    </tei:p>
+    <tei:p>
+     „Čudujete sa, že som tu, slečna?“ prehovoril lukatínsky kaplán a   uprel svoje oči prenikavo na dievčinu. „Sám Hospodin ma poslal, práve   som natrafil v najpríhodnejší okamih. Ostatne, čo ma dneska sem   doviedlo, to vám pozdejšie vysvetlím. Skôr musíme malého Kliptáka   prebrať z omdletia, do ktorého úboža upadlo. Či tu ozaj nablízku   nieto dákej studničky, aby sme ho mohli vodou kriesiť?“
+    </tei:p>
+    <tei:p>
+     „Mutius! Mutius!“ volala dievčina spiežovým hlasom, „dones v   tvojom klobúku z jarku trocha vody!“
+    </tei:p>
+    <tei:p>
+     Ale Mutius sa neozval, svojvoľný čeľadník, vidiac následky svojej   samopaše, bol pobral nohy na plecia a zmizol.
+    </tei:p>
+    <tei:p>
+     Kaplán znovu vzal do náručia omdletého mendíka, zaniesol ho na   trávnatú pohovku, i zabral sa bez slova k potoku, dolu pod Orešníkom   mútnymi vlnami žblnkajúcemu.
+    </tei:p>
+    <tei:p>
+     Sidonia zostala sama. Prekvapená nečakaným, ale snáď tušeným   zjavením toho, ktorého obraz sa v jej srdci mimovoľne vznášal, tíšila   svoju rozbúrenú krv, kládla rúčky na hladunké rozohriate čielce a na   vzbúrené ňadrá. Zrazu striasla hlavou, odhrnula z kalinových líčok   svojvoľné krúžky svetlogaštanových vlasov, ako čo by sa dákej divnej   myšlienky striasť chcela, a sadla si k omdletému chlapcovi.
+    </tei:p>
+    <tei:p>
+     Tento ležal bez seba. Nie div, že strachom svojho krkolomného pádu   omráčený upadol do mdloby. Z jeho nosa a uší prúdila červená krv,   mihalnice zastierali slziace oči a zo stiesnených pŕs nešumel žiaden   dych.
+    </tei:p>
+    <tei:p>
+     „Martin! Martin!“ volala dievčina, hladkajúc oblednuté líca   mendíka — ale Martin neprichádzal k sebe.
+    </tei:p>
+    <tei:p>
+     „Hneď mu spomôžeme!“ vravel kaplán, skočivší cez kamennú ohradu do   Orešnika. Fŕkal vodu do mendíkovej tváre, šuchral mu líca, až vidiac,   že chlapec prichodí pomaly k sebe, nalieval mu do úst vody.
+    </tei:p>
+    <tei:p>
+     „Mladý pán! Nemôžem — veru nemôžem!“ šepkalo z mdloby sa   preberajúce chlapča, ktorého tok myšlienok bol zastal pri trhaní   osudnej hrušky; ale vtom vidiac anjelskú tvár Sidoniinu a otvorený   obličaj kaplánov, usmialo sa milo, ako čo by sa bolo nazdalo, že   anjelom hladí do očí.
+    </tei:p>
+    <tei:p>
+     „Ticho lež, Martin!“ hovoril kaplán, „a keď môžeš, teda spi. Že   mnoho hrušiek nenaoberáš, to ja pred pani učiteľkou zodpoviem,“   dokladal usmievavo, a mendík, z tejto strany uspokojený, súc jednako   až na smrť zoslabnutý, zatvoril oči a zaspal sladkým snom.
+    </tei:p>
+    <tei:p>
+     „Teraz som vám, slečna, dlžen vysvetlenie môjho príchodu,“ hovoril   Trnovský, keď chlapča bolo zadriemalo, a rumenil sa celým lícom.   „Slečna!“ zajakal sa, „slečna — ďalej to zniesť nemôžem — neznesiem —   ja, ja.“
+    </tei:p>
+    <tei:p>
+     „Pán kaplán! Dneska sobota, kňazom robota, a vy sa tu túlate!“   prehovárala ho Sidonia, znepokojená začiatkom reči Trnovského, i   uprela svoje oči k zemi.
+    </tei:p>
+    <tei:p>
+     „Slečna! viem to dobre, viem,“ zajakal sa kaplán; „ale, bože môj!   mňa iba vtedy nadídu opravdu nebeské myšlienky, keď hladím do vašej   anjelskej tváre; vtedy sa mi otvorí svätá sieň cnosti citov; vtedy vo   mne splápolá veleba kresťanského náboženstva v kráse žiary; vtedy sa   cítim priblíženým k bohu — slovom, vtedy som najschopnejší k veľkým   myšlienkam; vtedy beriem predmety k mojim kázňam… Slečna! Ja,   ja…“
+    </tei:p>
+    <tei:p>
+     „Preboha vás prosím, nevolajte ma slečnou; ja som vám nie slečna,   ja som pre vás sestrička!“ pretrhla Sidonia zápalistú reč Trnovského   a pošmykla sa asi tri kroky ďalej.
+    </tei:p>
+    <tei:p>
+     „Dobre! Ba tým lepšie! Teda, sestrička Sidonia, ja, ja — vás ako   zoschýnajúci kvet rosičku, ako nešťastník vznikajúcu zoru blaha, ako,   ako…“ motal mladý kaplán, istotne chtiac lásku vyjaviť, ale sa zo   svojich motanín nijak vypliesť a ku slovu „ľúbim“ dopliesť   nemohol.
+    </tei:p>
+    <tei:p>
+     Dievčina sa mu prizerala a ružový odblesk panenskej hanblivosti na   jej tvári spravil miesto šelmovskému úsmechu. Povzbudená skrze   nemotorné motaniny Trnovského k veselosti, zasmiala sa tak srdečne,   že úbohý kaplán taktiež sa musel vmiešať do toho smiechu nad   sebou.
+    </tei:p>
+    <tei:p>
+     „Teda vy ste ten kvet, a ja mám byť rosa? Vy ste ten nešťastník, a   ja mám byť zorou vášho blaha?“ dopytovala sa Sidonia s ukrytým   úsmechom, ako sa bola do chuti nasmiala.
+    </tei:p>
+    <tei:p>
+     Trnovský si myslel, že musí hrať urazeného.
+    </tei:p>
+    <tei:p>
+     „Ako vidím, tá rosa nechce zoschnutý kvietok zvlažiť; tá zora sa   nešťastníkovi nezligotá!“ povedal dumne. „No nič zato! Nech kvet   vyschne a nech nešťastník zhynie; to bol odjakživa osud osirotených!“   doložil a odvrátil sa preč.
+    </tei:p>
+    <tei:p>
+     „Bez strechy, plota, ako tá sirota!“ šepotalo zo sna na ležiatku   spiace chlapča, ako čo by sa mu o jeho smutnom položení snívalo.   Sidoniu bodlo v srdci, pozrela na spiaceho Martina i na odvráteného   Trnovského.
+    </tei:p>
+    <tei:p>
+     „Nemrzte sa, pán kaplán, na blúznivé reči ľahkomyseľného   dievčaťa!“ prihovárala sa k nemu dôverným štebotom. „Ale, bože môj!   Vy ste ma tak prekvapili, a ja som sa nazdala, že žarty strojíte.   Och! to sú reči nie pre jedno chudobné rechtorské dievča. Prosím vás   teda, neopakujte ich viacej a zostaneme i napotom dobrí priatelia; ja   vašou sestrou a vy mojím bratom.“
+    </tei:p>
+    <tei:p>
+     „A nie viacej, anjel môj zlatý?“ dopytoval sa ťahavým hlasom mladý   zaľúbený kaplán, pozrel prenikavo do čiernych ako žúžoľ Sidoniiných   očí a chytil ju za ruku. Dievčina otvorila kalinové pery.
+    </tei:p>
+    <tei:p>
+     „Skorej fara, a tak Mara!“ zaznel nad oboma ostrý hlas pani   rechtorkin, ktorý Sidoniinu odpoveď udusil v jej labuťom   hrdielci.
+    </tei:p>
+    <tei:p>
+     „Amant#POZ#20; (lat.) milujú!#-POZ#! To jest, chcem povedať amen,   domine reverende!“ potvrdil manželkino porekadlo pán Šípik, a   zjavenie týchto dvoch osôb urobilo nateraz koniec vyjadrovaniu lásky   dvoch nádejných milencov.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA TRETIA
+    </tei:head>
+    <tei:p>
+     V škole čistili sušickí mendíci nože, naprostred chyže rozložené.   Jedného už známe, je to náš malý Klipták, hrdina našej rozprávky;   slušné je, by sme sa i s jeho kolegom oboznámili. Tento sa volá   Gašpar Kura, pochádza z dakadesi z kokavských vrchov; vycibrená ako   oceľ šelma. Už dva roky v svojom — aspoň na veži — vysokom povolaní   postavený, prebil sa cez všetky mendícke kúsky; a pri tom všetkom u   pani učiteľky stojí vo veľkej láske. Ako sa do tej mohol vodrať, to   je jeho tajomstvo; len že to na veľkú geniálnosť ukazuje, to — myslím   — každý pochopí. Gašpar je asi jedenásťročný chlapec červených vlasov   a jastrabie jeho oči urážajú, keď sa na dakoho oprú. Nos jeho bol   dakedysi riadny, ale odvtedy, ako ho pani učiteľka jedným oflinkom,   tvrdým ako feruľa, obdarila, navidomoči spľasol.
+    </tei:p>
+    <tei:p>
+     „Martin, šúchaj!“ kričal Gašpar na Kliptáka.
+    </tei:p>
+    <tei:p>
+     „Ja šúcham, ale ty nešúchaš,“ vyhováral sa Martin, drhnúc nôž   popolom, ako mu len sily stačili.
+    </tei:p>
+    <tei:p>
+     Gašpar vyškeril zuby a roztiahol sa po zemi. Oba mendíci kládli   vyčistené nože vedľa seba na kôpky. Martin, zanorený do svojej práce,   nespozoroval, ako mu na zemi vytiahnutý Gažo kôpku svojich zle   vyčistených nožov podhodil a jeho dobre vyčistené nože sebe   privlastnil. Zašramotili dvere; Gažo sa hodil ako spruha na svoje   predošlé miesto, a keď pani učiteľka vošla dnu, našla oboch v   najpilnejšej robote.
+    </tei:p>
+    <tei:p>
+     „Aha, vy daromníci! Či ste ešte s tými pár nožmi nie hotoví?   Sedemsto okovaných striel do vašej pečene! Nuž či ešte aj to sama   musím robiť?“ zahrmela pani rechtorka hlasom pomsty nad našimi   mendíkmi.
+    </tei:p>
+    <tei:p>
+     „Ja som si už dávno moju polovicu vyčistil; už štvrť hodiny, ako   Kliptákovi pomáham!“ cigánil smelým hlasom Gažo.
+    </tei:p>
+    <tei:p>
+     Miesto výhovorky pozrel Martin najsamprv na rozhnevanú pani   rechtorku, potom na kôpku svojich vyčistených nožov, ako čo by ju   chcel na lož svojho kamaráta upozorniť, ale sa chlapča striaslo ako   osika, keď namiesto svojich utešene vyligotaných šiestich párov   videlo dva zababrané páry Gašparove.
+    </tei:p>
+    <tei:p>
+     „Nuž, ty daromník, či to tvoja polhodinová robota?“ zabúrila pani   rechtorka a vyťala Martinovi také zaucho, že sa naskutku horeznačky   prevrátil. Nato sa chlapec pozbieral hore a prenikavým plačlivým   hlasom povedal, že mu Kura pokradol nože a svoje pod šmaril. Kura   však spravil urazenú tvár, zaprisahal sa na dušu, že je to nie   pravda, a malý Klipták, miesto žeby si bol pomohol, dostal za krivé   svedectvo ešte zopár oflinkov.
+    </tei:p>
+    <tei:p>
+     „Ale, mamika, prosím vás, nemorte tak to úbohé chlapča, veď už   jednako celkom vycivelo!“ prosila Sidonia, vstúpivšia na tento lomoz   dnu do exekučnej chyže.
+    </tei:p>
+    <tei:p>
+     „Rozkazuj si, keď budeš svojou paňou! Hľaďteže ju, kišasonku! Či   vieš, kto dneska príde? Či si už zarezala kurčatá? Či je už zajac   našpikovaný? Vohľači hneď tu a kišasonka nie žeby si do svojej práce   nos štúrila, mieša sa ti do mojich poriadkov! Pakuj sa z chyže, kým   ti dvojím; jednako máš už mnoho na rováši — a to ti povedám, až mi   pána Volovca, tvojho budúceho, vďačne neprijmeš, môžeš si navečer   batôžik na chrbát vziať a tajsť i s Kliptákom, kde vás dve oči   ponesú!“
+    </tei:p>
+    <tei:p>
+     Tak búrila pani Šípiková s podopreným bokom a Sidonia, jednako   nastávajúcou návštevou akéhosi jej neznámeho pytača pomätená, s   rozpálenou tvárou odišla von. Medzitým sa pani učiteľka pobrala k   ohnisku, nastavala hrncov, Kuru poslala pre päť funtov baraniny,   Kliptáka na drevo a s dvoma vedrami na vodu: všetko k príprave veľkej   hostiny pre vohľača, majúceho dôjsť.
+    </tei:p>
+    <tei:p>
+     Pán Philippus Šípik sa v dobrom rozmare prechádzal po svetlici.   Celé oblaky púšťal zo svojej dlhorúrovice a bol v sviatočnom obleku,   totižto v čiernom orleánovom kabáte a v toskínových nohaviciach. Aby   jeho postava tým vážnejšie vyzerala, zavesil si kolo hrdla striebornú   retiazku, na ktorej miesto strieborných cibúľ — len kľúčik pripravený   bol. To síce všetko jedno, lebo do vačku nikto nepozerá. Miesto   ferule opálal sa v jeho ruke muchopľask, nástroj k prenasledovaniu   neočatých múch. V chyži bolo ticho, iba odfuky dymu a cápanie   muchopľasku tu i tu sa ozvalo.
+    </tei:p>
+    <tei:p>
+     „Tá moja Megaera#POZ#21; — zo starogréckej mytológie. Bohyňa   pomsty, jedna z troch fúrií (Erynií), bohýň, ktoré chránili svetový   poriadok. V prenesenom zmysle fúria znamená energickú ženu.#-POZ#   (pán Šípik si tak zvykol krstné meno svojej polovičky skracovať, začo   sa ale pani Margaretha veľmi hnevala) — tá moja Megaera to predsa   múdro usporiadala a navliekla s tým Volovcom. Vere bene#POZ#22;   (lat.) skutočne dobre.#-POZ#! I dievča si z hlavy strasiem, i budem   mať bohatého zaťa. Raduj sa, Philippe! Victoria#POZ#23; (lat.)   víťazstvo#-POZ#! A vale#POZ#24; (lat.) zbohom#-POZ# zapražená   polievka! Keď mi bude mäsiar zaťom, bol by ja blázon pečenú nejesť!“   tešil sa sám v sebe pán učiteľ a capol muchopľaskom, že sa naskutku   asi desať múch s týmto strastiplným životom rozžehnalo.
+    </tei:p>
+    <tei:p>
+     Pred školou zadupotalo dačo ako čo by tátoše.
+    </tei:p>
+    <tei:p>
+     „Quadrupedante putrem sonitu quatit ungula campum#POZ#25; (lat.)   dupotom kopýt cválajúcich koní otriasa sa prachové pole. — Citát z   Eneidy od starorímskeho básnika Publia Vergilia Mara (70—19 pr. n.   l), spev VIII., verš 596#-POZ#!“ vykríkol pán Šípik a skočil k   obloku. „Uhádol som! To je náš Volovec, môj zať in spe#POZ#26; (lat.)   nádejný#-POZ#, na svojom sivkovi. Sidonia! Megaera! Či čo mám   povedať, Margaretha! Mutie! Gaspare! Kliptakius! Všetci, koľkí ste,   von sa na dvor vítať pána Volovca!“ začal zvolávať svojich domácich,   keď sa bol istotne presvedčil o osobe svojho zaťa in spe. Kým si však   vykrúcal fúzy, obratnejšia pani učiteľka s lahodným úsmechom voviedla   do svetlice pána vohľača Sidoniinho.
+    </tei:p>
+    <tei:p>
+     Predvediem ho i ja pred pánov čitateľov.
+    </tei:p>
+    <tei:p>
+     Pán Andreas Volovec, mäsiar v Ruskopoliach, je tučná, pol treťa   centová chlapina, päť šuchov#POZ#27; Šúch — (z nem.) stopa#-POZ#   zvýšky a pol treťa zhrúbky. Jeho telo síce hodne váži, viacej však   jeho meštek, lebo to celý svet zná, že toliare a dvadsiatniky na   merky meria. On je síce nie veľmi mladý, má asi päťdesiat rokov, ani   jeho tvár je nie z tých najkrajších, na pravé oko mu belmo zachodí a   spodná gamba mu trčí von na pol palca ďalej ako vyšná, ale to je   všetko nič.
+    </tei:p>
+    <tei:p>
+     „On má dvadsiatniky, toliare a dukáty, a s tým punktum!“ bol   povedal ráno pán Šípik Sidonii, keď ju na dneskajšiu návštevu   pripravoval.
+    </tei:p>
+    <tei:p>
+     Pán Volovec bol skutočne bohato vyštafírovaný. Len na jeho zelenom   dolománe blýskalo sa asi päťdesiat strieborných gombíkov ako vlašský   orech, ktoré spolu i s retiazkou a prackou vážili tri funty čistého   striebra trinástej próby. Prsteň na malom palci jeho pravej ruky,   ktorým voly dorážal a ktorým i sudy nasolenou baraninou naplnené   pečatil, stál svojich päť toliarov. Na ňom bol vyrezaný jeho címer, a   to volská hlava s dlhými rohami a pod ňou nápis „Volovec Bandi“. Jeho   nažltkasté nohavice boli samá cifra, samá šnúra a na nich po kolená   čižmy z kordovánu v Ratkovej vyrábaného.
+    </tei:p>
+    <tei:p>
+     „Tandem aliquando! Predsa už raz, pán brat Volovec!“ vítal pán   učiteľ tučného vohľača a pobozkal sa s ním, že to mľasklo ako   capnutie muchopľasku.
+    </tei:p>
+    <tei:p>
+     „Dobrý den, pán rechtor, dobrý den! Akohe sa máte? Šuahe tu za   chýr?#POZ#28; Volovcova priama reč je na všetkých miestach podaná v   ratkovskom nárečí, v gemerskom dialekte balockej doliny. Kubáni v   liste Dobšinskému (6. apríla 1860) o Volovcovi a jeho reči píše: „Reč   do úst mu daná je žargón našej balockej doliny — tešilo by ma, keby   si ju tak podal, ako ju pán Volovec užíva. V nej leží komikum   ruskopolianskeho mäsiara.“ Autentičnosť prepisu tohto nárečia   zrevidoval dr. Jozef Orlovský. Šuahe — čože#-POZ# Po šonže tu   barany? Kúpil by son si i ja, koj ni škopca, aspoň dáku dojku!“ začal   sa prihovárať náš vohľač, stískajúc ruky pána Šípikove tak mocne, že   tento temer vykríkol.
+    </tei:p>
+    <tei:p>
+     „Jalovičku, jalovičku, pán brat!“ doložil ironične pán učiteľ a   podával mu stoličku.
+    </tei:p>
+    <tei:p>
+     Medzitým pani rechtorka vzala dolu z poličky nad dverami pintovku   a štuchla svojho pána manžela, ktorý — porozumiac tomuto znaku —   otvoril svoj písací stolík, vzal kus papieru a písal   „Anweisung“#POZ#29; (nem.)poukážka#-POZ# na pintu vína.
+    </tei:p>
+    <tei:p>
+     „Šuahe to píšu, pán rechtor, šua?“ dopytoval sa Volovec.
+    </tei:p>
+    <tei:p>
+     „To len aby mendík nezabudol, pošlem pre pohárik vína. — Hej,   Martine! Martine!“
+    </tei:p>
+    <tei:p>
+     „Ej, šuahe by to tam kárčišky, ve jä dán dvacätník; adaj nám   lepšia namerejú,“ hovoril pytač a vytiahol z cifrovaného dolomána   zababraný štvorgrošový ručník, v ktorom sa nachodil uzlík   dvadsiatnikmi napakovaný.
+    </tei:p>
+    <tei:p>
+     Ale to pán Šípik a pani Margaretha nedovolili. „Oni si nedajú takú   hanbu spraviť!“ hovorili oba a predvolali Martina.
+    </tei:p>
+    <tei:p>
+     „Kde si bol zatoľko na tej vode, ty leňoch?“ privítala pani   rechtorka Kliptáka a durkla ho v čelo, že sa tri razy dookola zvrtol.   „Na, pakuj sa pre pintu vína, a bež, že sa ti len tak hlava metať   bude. Ale že fľašu neroztrep a tu mi buď v obrátení.“
+    </tei:p>
+    <tei:p>
+     Martinovi sa už vtedy hlava krútila, pobral sa a utekal preč.
+    </tei:p>
+    <tei:p>
+     „Tuž deže vám je to diavše, ich vlídnošč, pán rechtor, de? Vedä,   pani rechtorko, jä nerád dlhia jednašky; šua chocen kúpič, to si   poobzerán, zaplačín — a haj! tajden s ním s pánom bohom!“
+    </tei:p>
+    <tei:p>
+     Takto sa pán Volovec naskutku pustil k samej veci, k cieľu   príchodu svojho.
+    </tei:p>
+    <tei:p>
+     „Rogo, rogo, amice#POZ#30; (lat.) prosím, prosím, priateľu#-POZ#!“   odpovedal trochu urazený pán Šípik, „moje dievča nepredávam, tu o   obzeraní a platení ani slova. Otázka, či sa jej oni, pán brat,   zapáčia.“
+    </tei:p>
+    <tei:p>
+     „Hehehe — he!“ rozchichotal sa pán pytač, „vedä, pán rechtor, jä   son do školy nechodžil; koj son sedenrošný búl, už son musel barany   pášč; ale zato viam, šua je päč. Koj se vám mesärskia reši nedejú,   tuve dobre; puajden, z kä son prišol. ,Kä si prišol, idži tam!   tu ve i tak dobre.“ S tým sa pobral pán Volovec hore a hľadal klobúk,   ktorý doteraz v ruke držal, ako čo by mienil preč odísť.
+    </tei:p>
+    <tei:p>
+     „Azdaj by veru ani žart nerozumeli; veď môj starý len žartuje!“   poponáhľala sa pani učiteľka uspokojiť pytača chlácholivým úsmechom;   ale bokom takým pohľadom švihla na pána manžela, že mu fajkový dym   miesto von z úst, do hrtana vrazil. „Nechže si sadkajú, nech, pán   brat! Moja dcéra naskutku tu bude… Sidonia! Sidonia!“ volala a hneď   zase chlácholila bohatého vohľača.
+    </tei:p>
+    <tei:p>
+     Medzitým bola Sidonia v bočnej chyži skrytá; neušlo jej ani jedno   slovo tohto zhovoru. Úbohá deva sa triasla ako list smutnej vŕby   severným vetrom knísaný. Dačo takého predsa neočakávala; nazdala sa,   že pán Volovec má dákesi aspoň povrchné vzdelanie, aspoň jej ho tak   bol otec opísal; ba len z lásky k rodičom privolila k tejto návšteve.   Krem toho sa mihotal pred jej duševným okom krajší, ušľachtilejší   obraz, ako neohrabaná postava ruskopolianskeho mäsiara. Cítila, že   ľúbi; a tu sa medzi jej lásku taká šereda stavia. Na opakované   volanie matkino otvorila dvere a vstúpila do svetlice.
+    </tei:p>
+    <tei:p>
+     „A, a, a! Bude daš!“ zabrblal Volovec a vytreštil i gamby i okále.   „Pojhe sem, dievše, akohe te volajú? Dona, Sidonia, ši ak? Len naš   ste jej, pán rechtor, takua smiašnua meno dali — Škoda, ež si ni   Mariše, no, prejdi se, džitä mojo, po izbe, nach vidžín, aký máš   driak, ši si ni čampavá, ši nenapaduješ — ši…“
+    </tei:p>
+    <tei:p>
+     „A takémuto človeku by ste ma chceli obetovať?“ pretrhla vážnym,   prenikavým hlasom komplimenty a zdvorilosti pytačove Sidonia,   obrátiac sa k rodičom. Na jej tvári hrali farby vylúdenej panenskej   hanblivosti, a oči plávali v slzách touto urážkou vylúdených.
+    </tei:p>
+    <tei:p>
+     Pán Šípik sklonil oči k zemi a položil fajku na stranu; cítil   pravdu dcériných rečí a otcovská láska k dieťaťu v ňom víťazila. Pani   učiteľka neriekla ani slova. Sidonia ešte raz opakovala svoju otázku;   naostatok vidiac, že jej nik neodpovedá, obrátila sa preč a zabrala   sa z chyže von.
+    </tei:p>
+    <tei:p>
+     „Poškaj, diavše, neutekaj! Ve son ti ešte ništ peknyho nepódal!“   volal za odchádzajúcou zdvorilý pán Volovec; vidiac však, že dievča   von uteká, zachichotal sa svojím spôsobom a riekol:
+    </tei:p>
+    <tei:p>
+     „Vidä, pán rechtor, šua to tia školy robä. Dali si ju vyušič, a   au! tu či samá pýcha. No ale ništ, tahyho kviatä na svete došč; jä sa   zato predči oženín: a koj mi ju dajú, päč baranó stavín, že bude z né   i mesärka!“
+    </tei:p>
+    <tei:p>
+     Ako sa stalo, tak sa stalo, dosť na tom, pána Volovca zadržala   pani učiteľka k obedu. Martin s vínom tiež bol prispel, ba opakoval   svoju chôdzu do krčmy ešte zo dva razy; dosť na tom, povedáme ešte   raz, že keď sa Volovec z vohľadov domov poberal, vytiahol z dolomána   z jednej štrimfle päťdesiat toliarov a vtisol ich domácej panej do   ruky — s tým doložením, že to miesto prsteňa jeho budúcej vernej   manželke. Že Sidonia celý deň potom doma nebola — to každý z pánov   čitateľov ľahko uhádne.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA ŠTVRTÁ
+    </tei:head>
+    <tei:p>
+     Nad Sušicami sa ťahala jedna húšťava, záležajúca z hrabiny,   lieštiny, divej vŕby a hlôhoviny. Táto húšťava ležala kosom nad   dolinou; z vrchnej jej časti vykúkali skalnaté homoly, ako čo by   dákesi rozvaliny starých hradov. Tieto homoly tvorili podivnokrásne   skopenky. Obzvlášte jedna vypínala sa nad druhými v podobe malého   amfiteátra, polkolesom skál a polkolesom húšťavy obohnaná. Krajmi   tohto amfiteátra sa ťahali skaloplochy v podobe kamenných, pestro   vyrezávaných lavíc; v prostriedku stál ohromný kameň ako čo by   posvätný oltár. Nad amfiteátrom šuchotala hrabina a lieština, z   ktorej sa v jarných časoch ozýval slávičí spev.
+    </tei:p>
+    <tei:p>
+     Toto miesto preto tak obšírne opisujeme, lebo ono bolo útulkom   lukatínskeho kaplána. Básnickým duchom nadaný, presníval on v tejto   tichej samote svoje prázdne hodiny, a tu do seba dýchal nadšenie   mládeneckých úmyslov. On odtiaľto celú dolinu mohol odrazu vidieť;   jeho postavu však v tejto utešenej skrýši nezazrelo tak ľahko cudzie   oko.
+    </tei:p>
+    <tei:p>
+     I teraz tu sedí osamote, hlavu má o ruku oprenú a díva sa na tône   stromov oproti stojaceho vrchu, ktoré zapadajúce slnko vo fantastickú   dĺžosť rozťahuje. Vedľa neho leží roztvorená Slávy dcéra, predtým   jediná družica jeho. Ešte len pred dvoma mesiacmi sa nazdával, že   ideál Kollárov#POZ#31; Kollár v Slávy dcére výsostne umelecky spojil   intímny zážitok zo známosti s Friderikou Schmidtovou (od roku 1835   Kollárovou manželkou) s ideou lásky k Slovanstvu a všeslovanskej   vzájomnosti. Toto spojenie ľúbosti s láskou k vlasti v symbole Slávy   dcéry silne pôsobilo na ďalšie literárne generácie.#-POZ# bude   jedinou hviezdou jeho žitia, a teraz cíti, že i on má svoju vlastnú   vidinu. Trnovský je dvadsaťpäťročný šuhaj a v jeho srdci iba nedávno   po prvý raz žiary lásky zablyskli, kým druhí v tomto veku už dávno   slasťami a horkosťami ľúbosti nasýtení sú. V jeho srdci sa mihotá   Sidoniin obraz a v jeho ume — lukatínske kaplánstvo. Chudák, i on   padol za obeť tomu osudu, že sa skôr zaľúbil, ako mu to sociálne   postavenie a okolnosti dovoľovali. Jeho plat — sto zlatých   šajn#POZ#32; (nem.) rakúske inflačné poukážky, 250 zl. šajn rovnalo   sa 100 zl. v striebre#-POZ# — to mu je na dohán a na obuv málo; a   potom, čo by aj pre manželku dosť bolo, kaplánske ženby sú nie v   obyčaji.
+    </tei:p>
+    <tei:p>
+     Bohuslav Trnovský si toto všetko pripomína, a šepmo kľaje svetu   plnému predsudkov. „Skorej fara, a tak Mara!“ opakuje si slová pani   učiteľkine, v ktorej on vidí zosobnovateľku predsudkov sveta; a tu   jeho myseľ blúdi po všetkých okolitých a vzdialených evanjelických   cirkvách, aby dakde vyšpehovala k hrobu nakloneného pána farára.   Nadarmo! Páni farári nablízku i v diali sú všetci zdraví —   apertúry#POZ#33; Apertúra — (lat.) uprázdnené miesto v úrade#-POZ#   niet; ba keby sa aj dáka otvorila, číha už na ňu najmenej dvadsať   kandidátov. „Nech som dobrý! Stanem sa učiteľom; veď nemusí každý   bielu kamžu nosiť!“ zvolal zrazu odhodlane a videl sa už pri organe.   Tu mu ale prišlo na um, že on, chudák, iba vtedy vedel organovať, kým   ešte prstami nepreberali; ba že mu ešte i matka žije, ktorej jediná   žiadosť na svete je tá, aby svojho jedináčika čím skôr pánom farárom   volať počula, a matka sa v ňom sklamať nemôže, nesmie; ba že pán   Šípik, ač je sám učiteľ, taktiež i jeho pani manželka, dákusi   neodolateľnú nenávisť vyslovili proti zaťovi, ktorý by úrad učiteľský   zastávať mal. „Tak je nič! Musíme čakať, i ty, svätica moja, i ja,   lukatínsky kaplán!“ zašepkal bolestne, vyňal z listonošky#POZ#34;   náprsná taška (novotvar).#-POZ# kúsok bieleho papieru a olovko a   oddal sa do skladania ódy na „Trpezlivosť nešťastnej lásky“. Práve na   „srdce“ hľadal rým, lebo sa mu „prudce“ nevidelo, keď v lieskovine   zašušťalo a ktosi stenajúc zavzdychol.
+    </tei:p>
+    <tei:p>
+     „Kto to?“ vykríkol básnik.
+    </tei:p>
+    <tei:p>
+     „Ach, prosím ponížene, pani rechtorka, nech mi odpustia; už idem,   veru idem!“ odpovedal z lieskoviny hlas, v ktorom Trnovský naskutku   poznal príhovorku Kliptákovu.
+    </tei:p>
+    <tei:p>
+     „Martin, čo ty tu robíš? Poď von z tej húšťavy; veď už treba na   večer zvoniť a ty sa tu táraš!“
+    </tei:p>
+    <tei:p>
+     Vtom vykukla z húšte mendíkova zhrbená postava, na chrbte mal tak   veliké bremä suchého dreva, že sa ledva pod ním plazil; čiapka,   dedičstvo otcovo, trônila na dreve; náprsník, dedičstvo takže otcovo,   bol nechal svoju pravú polovicu na tŕní v húšťave; rozčuchrané vlasy,   rozrandavené gatky; krvácajúce, zranené bosé nohy a po lícach tečúce   slzy — to bol obraz mendíka. Chlapča v zadivení zastalo, keď namiesto   pani rechtorky, ktorej hlas mu ustavične v ušiach hučal, zazrelo   lukatínskeho kaplána. „Zlož to bremä dolu, Martin; veď už ledva   dýchaš pod ním. Čože si si toľkú hŕbu nabral?“ prihováral sa mu   Trnovský.
+    </tei:p>
+    <tei:p>
+     „Och, pani rechtorka povedali, že keď na celý deň dreva   nedonesiem, že mi obe uši odrežú,“ odpovedal chlapec, keď bol ťarchu   z chrbta zložil.
+    </tei:p>
+    <tei:p>
+     „Že obe uši! — A čo, vy už nemáte dreva?“
+    </tei:p>
+    <tei:p>
+     „Nie; čo ešte hrubšieho máme, to na pečenie chleba odložili; a čo   sme mali, to sa spálilo včera, keď boli páni vohľači#POZ#35; Vohľač —   (náreč.) pytač, ten, ktorý chodí na vohľady#-POZ# u nás.“
+    </tei:p>
+    <tei:p>
+     „Vohľači! Akí vohľači, Martin?“ spytoval sa v prestrašenom   zadivení kaplán a pristúpil bližšie k mendíkovi.
+    </tei:p>
+    <tei:p>
+     „Nuž, báťa mäsiar z Ruskopolia; taký hrubý, veľmi hrubý pán.   Prišli boli na sivkovi, a že som chodil po víno, nuž mi dali ten báťa   aj grajciar,“ rozprával úprimne Martin a vytiahol spoza pása   zakrútený peniaz.
+    </tei:p>
+    <tei:p>
+     Trnovskému sa pred očami začalo meniť; nazdával sa, že on nemá,   nemôže mať soka; a tu už i mendíci vedia, že Andreas Volovec,   vychýrený boháč na doline, uchádza sa o pána Šípikovu Sidoniu.
+    </tei:p>
+    <tei:p>
+     „Ale ešte neboli zdávanky?“ dopytoval sa ďalej, keď sa bol   premohol.
+    </tei:p>
+    <tei:p>
+     „Ba veru! Mladý pán Mucko povedali, že báťa mäsiar nechali u nás   päťdesiat toliarov, takých veľkých ako moja čiapka, a že tie budú   našej kišasonke.“
+    </tei:p>
+    <tei:p>
+     „A či kišasonka včera doma bola?“
+    </tei:p>
+    <tei:p>
+     „Mhm, ale iba ráno; potom boli odišli, lebo sa pani rechtorka boli   na nich vyvadili, že ma pred Gažom zastávali.“
+    </tei:p>
+    <tei:p>
+     Kaplánovi svitala nová nádeja. Sidonia teda o týchto pýtankách ani   nevie; a keď aj zná, teda sú jej nie po vôli. Tak dôvodil, a to ho   uspokojilo. „Martin, kohože radšej, či kišasonku, či pani rechtorku s   Mutiom?“ opýtal sa zrazu Kliptáka.
+    </tei:p>
+    <tei:p>
+     Mendíka táto nečakaná otázka trochu zmútila. Najsamprv sa prizrelo   chlapča otvorene na kaplána, potom sklopilo oči k zemi a   vzdychlo.
+    </tei:p>
+    <tei:p>
+     „Povedz pravdu, syn môj! Veď ja to nikomu nepoviem!“ uspokojoval   ho tento.
+    </tei:p>
+    <tei:p>
+     „Kišasonku!“ vydýchol mendík úprimným názvukom a slzy ho   zaliali.
+    </tei:p>
+    <tei:p>
+     „Neplač, Martinko!“ uspokojoval ho Trnovský, „neplač; keď si   vyplníš mendícke roky a v škole sa voľačo naučíš, i tebe bude na   svete dobre. No, ale počkaj; aby si mi ukázal, že naozaj slečnu   Sidoniu radšej vidíš ako Mútia, vezmem ťa na skúšku. Na, tu máš tento   lístok, oddaj ho slečne Sidonii; ale len tam, kde ťa nikto druhý   nevidí; vieš?! Keď mi to vykonáš, uverím ti, že si dobrý chlapec. A   žeby som sa ti odslúžil, pomôžem ti toto bremä domov zaniesť; veď sa   už jednako zmrklo, tak ma nikto nevidí. Taktiež tu máš dva groše k   tomu grajciaru, budeš ich mať sedem. Varuj si ich, aby si mi ich o   týždeň zase mohol ukázať; keď sa ti hodne nazbiera, kúpiš si za ne   náprsník alebo čiapku.“
+    </tei:p>
+    <tei:p>
+     Keď Martin, prekvapený dobrotou pána kaplána, lístok za košeľu a   peniaze za pás bol skryl a prisľúbil, že všetko statočne vykoná,   schytil Trnovský bremä a pri večernom šere zaniesol ho nespozorovaný   až ku Sušiciam. Tam ešte raz opakoval mendíkovi, čo a ako má s   ľúbolistom robiť, a ponáhľal sa domov.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA PIATA
+    </tei:head>
+    <tei:p>
+     Na druhý deň držala pani Margaretha so svojím drahým mužíkom   slávnu poradu. Boky mala podoprené a tvár prísnu, znak to   neutajiteľnej nevôle. Pán učiteľ mraštil nepokojne čelo, na ktorom tu   i tu dáka nevídaná, nechýrená odhodlanosť sa maľovala; aj jeho   inokedy usmievavé oči zablysli tu i tu výrazom pevného úmyslu.
+    </tei:p>
+    <tei:p>
+     „Quid sumus facturi, t. j. čo urobíme, carissima#POZ#36; (lat.)   najdrahšia.#-POZ# Margaretha?“ dozvedal sa naposledok ťahavým hlasom   a kládol dľa obyčaje ukazovací prst na čelo.
+    </tei:p>
+    <tei:p>
+     „Oh, ty trubiroh latinský!“ zahorlila Margaretha rozhorčeným   hlasom. „Čo urobíme? Keď si mamľas, nestaraj sa do mojich poriadkov;   ja znám, čo mám urobiť pre budúcnosť mojej dcéry — ja som   #I#matka#-I#!“
+    </tei:p>
+    <tei:p>
+     „A ja som #I#otec#-I# a punctum#POZ#37; (lat.) a bodka (tu vo   význame a dosť)#-POZ#!“ zavolal pán Philipp tak pevným názvukom, že   jeho pani Margaretha otvorila najskôr oči a potom ústa, plná úžasu   nad touto smelosťou. Potom sa spamätujúc, prešla pár ráz po chyži a   zastala si naostatok pred manželom.
+    </tei:p>
+    <tei:p>
+     „Mužu!“ začala vážnym hlasom, ktorý prenikal pánu Šípikovi skrýše   srdca. „Mužu, dobre znáš, že sme chudobní. Tvoj učiteľský plat, bárs   mu na našej doline málo rovného, nevynáša predsa štyristo zlatých   šajnových. Syna máš dať po školách; a tu bieda v dome, že mu sotva   máš za čo kabátik a nohavičky kúpiť. Pre Sidoniu sme sa zadĺžili — z   čohože budeš platiť? Tvoja pláca nám na výživu nestačí; vidíš, ešte v   tých šatách chodíme medzi ľudí, v ktorých sme sa dakedy zobrali. Sama   som krajčírom, tkáčom a všetkým v dome. Vidíš, mužu, to je naše   postavenie! Výhľadu inakšieho nemáš — a chorý, aby sa uzdravil, i   horkú pilulu zje. Sidonia je ešte dieťa, privykne aj k   Volovcovi.“
+    </tei:p>
+    <tei:p>
+     „Pochybujem!“ odvetil slabým hlasom pán Šípik, zhodený   nevývratnými dôvodmi z Olympu#POZ#38; Olymp — sídlo starogréckych   mytologických bytostí, horský masív v severnom Grécku. V prenesenom   zmysle povýšenecké stanovisko#-POZ# svojej odhodlanosti, a slzy   horkosti nad trápnym postavením prebreskovali jeho okom.
+    </tei:p>
+    <tei:p>
+     „Dubito#POZ#39; (lat.) pochybujem#-POZ#; tá dievčina sa radšej   zmámi, ako by za to telivo z dobrej vôle šla — ja síce — ja ju nútiť   nebudem!“
+    </tei:p>
+    <tei:p>
+     „Chichichi!“ zasmiala sa pani rechtorka na priek skormútenému pánu   manželovi. „Čo ty len vytáraš, že sa zmárni! Či som sa ja zmárnila,   keď som za teba proti mojej vôli šla? Vidíš, Philippko — uraziť ťa   nechcem — vieš, že sme sa s Bleskovínim radi mali — a ja som ho   musela nechať, bol bez stavu; prinútili ma k tebe, privykli sme, rada   ťa mám — no, a oba sme šťastní!“
+    </tei:p>
+    <tei:p>
+     „Bleskovíni bol lump, a ja som nie Volovec!“ preriekol rozpálené   urazený manžel; ale keď chcel ďalej pokračovať, zatvorila mu pani   Margaretha ústa, vybozkávala ho ako za mladi, zahladkala mu vlasy, i   nastal koniec nevrlosti.
+    </tei:p>
+    <tei:p>
+     „Vidíš, Philipp, len ty to na mňa nechaj; ja Sidonii naprostím   rozum. Ty ju siliť nemusíš!“ chlácholila Margaretha Philippa, a   tento, uspokojený beztak riedkym dôkazom manželkinej lásky, pristal   na všetko, pomysliac si, že si on ako Pontský Pilát umýva ruky od   nevinnej krvi. „A teraz, mužu, urob dopisovaniu Trnovského koniec.   Kliptáka vezmi sám na exámen; ja sa do tvojich mendíckych poriadkov   starať nebudem, Trnovskému napíš, čo mu treba, nech mi Sidoniu   nebalácha; ona mladá ľahko naňho zabudne, len nech za ňou nechodí.“   Tak ustanovovala pani učiteľka a odišla von.
+    </tei:p>
+    <tei:p>
+     Po malej chvíli vstúpil dnu Klipták a zastal si pokorne, v   očakávaní hroznej hrmavice, pred pánom učiteľom.
+    </tei:p>
+    <tei:p>
+     „Chlapče, keby si znal po latinsky, riekol by som tí: Quo semel   imbuta recens servabit odorem testa diu,#POZ#40; (lat.) citát zo   starorímskeho básnika Horatia, Epist. I., 2., 69.#-POZ# t. j. čím   hrniec navrie, tým i črep jeho, keď sa rozbije, páchne,“ začal   mohutným hlasom, že sa len tak v hlbinách Martinovho srdca ozývalo,   „pretože ty to však dôkladne nechápeš, poviem ti to ešte raz zreteľne   po slovensky: si oplan a na šibenici odvisneš, jestli sa nepolepšíš!   Kde si vzal ten list, nequam?“
+    </tei:p>
+    <tei:p>
+     Martin zaplakal; pán učiteľ mu ukazoval lístok, ktorý bol obdržal   včera od Trnovského k oddaniu slečne Sidonii a ktorý mu bol spolu i   so siedmimi grajciarmi nepochopiteľným spôsobom minulej noci skapal.   Videl, že tu tajiť nemožno a stenal ešte bolestnejšie.
+    </tei:p>
+    <tei:p>
+     „Hovor, canis tua mater#POZ#41;#-POZ#!“ sipel pán učiteľ naoko   prísne, ale v srdci sám šanoval ubiedené chlapča.
+    </tei:p>
+    <tei:p>
+     „Ach, prosím ponížene — veď mi to ten dobrý pán kaplán z Lukatína   dali, aby som to oddal kišasonke, aj šesť grajciarov mi dali, aj tie   mi skapali. Ach, prosím ponížene — už to viac neurobím!“ vyhováral sa   mendík úzkostlivo a hľadel prosebne na pána učiteľa.
+    </tei:p>
+    <tei:p>
+     „Accipies sex, dostaneš šesť, kujon! Vyprášim ja tebe listy a   grajciare spoza pása! Či ty nevieš regulu, peniaze k odloženiu mne   oddať — he?“
+    </tei:p>
+    <tei:p>
+     Keď takto pán učiteľ Kliptákovi sentenciu vyčítal — ktorú však,   aby sme jeho útrpnému srdcu za pravdu dali, potom na trest kľačania   premenil — chytil mendíka za ruku a odviedol ho do učbárne.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA ŠIESTA
+    </tei:head>
+    <tei:p>
+     Medzitým Trnovský — nezadarmo, že sa tak volal — sedel na   opravdivom tŕní, na tŕní zožieravej, možno nevyslyšanej lásky, a — na   tŕní stozlatového kaplánstva. Čakal celý druhý deň na odpoveď   Sidoniinu, ktorá však pre nám už známe príčiny nedochádzala. „Už   viem, koľko bilo!“ usmial sa bolestne a prechádzal sa prudkým krokom   po lukatínskej kaplánke. „Tá dievčina,“ hútal ďalej, „je bez srdca;   nepochopí a nepocíti plameň ľúbosti… Hja, taký je svet! Nielen   pravda, ale aj peniaze oči kolú; lenže s opačným výsledkom. Už je   koniec — koniec môjmu budúcemu blahu; ako vidím, ja zostanem   neženatý! No, a teraz nech verím a učím, že nieto praedestinatie   (predurčenia)! Tí kalvíni naposledok majú pravdu! Slobodná vôľa je tu   — a predsa sa pod prútom okolností a neprajného osudu musím   zvíjať!“
+    </tei:p>
+    <tei:p>
+     Ako vidíme, náš pán kaplán už bol v prúde teologických myšlienok,   a pretože už tam bol, dokončil svoj monológ a dal sa do čítania   bohoslovných, in folio#POZ#42; (lat.) v rozmere celého listu alebo   hárku#-POZ# tlačených bachantov, vo veľkom počte kolo stien   nastavaných — v tej nádeji, že sa pomocou týchto dostane z labyrintu   svojich pochybností na úslnie nepodvratnej vieropravdy. Neštudoval   dlho, zaklopal ktosi na dvere a na kaplánovo „voľno“ vstúpil dnu —   Gašpar Kura, starší mendík pána Philippa Šípika, učiteľa cirkvi   sušickej.
+    </tei:p>
+    <tei:p>
+     „Ich dvojctihodná milosť! Doniesol som list od pána,“ začal   rapotať Gažo, ale od koho, to Trnovský už nedopočul, bo jedným mihom   vychytil mendíkovi list a dal sa do čítania. Titul a písmo ho však   zarazilo. „To nie Sidoniina ruka!“ zamrmlal horko, otvoril dvere a   milého Gaža vystrčil von. Ale náš Kura bol prebitý čeľadník; pomyslel   si, že on zo Sušíc do Lukatína darmo chodiť nebude, i zastal si ako   stĺp v pitvore, očakávajúc utíšenie rozhorčenosti kaplánovej a pritom   — dákehosi daru.
+    </tei:p>
+    <tei:p>
+     Trnovský medzitým chodil — nie, nechodil, ale behal po chyži.   Nešťastný list ležal nerozpečatený na jeho stolíku, ukazujúc   vzdorovité čelo, na ktorom sa pevnokrásnymi ťahmi písma vystatovala   obšírna latinská adresa. Naostatok sa náš kaplán odhodlal. „Už,“   povedá, „všetko jedno! Vypijem tento plný pohár blenu dúškom a urobím   celej veci koniec!“ Rozpečatil list a čítal. Nakuknime i my doňho a   obdivujme lakonickú štylistiku pána Šípikovu. List znel takto:
+    </tei:p>
+    <tei:p>
+     „#I#Domine Reverende!#-I##POZ#43; (lat.) velebný pane#-POZ# Múdry   a opatrný Solón povedal: #I#Nemo ante mortem beatus!#-I##POZ#44;   (lat.) nikoho nemožno pred smrťou pokladať za šťastného#-POZ# a   taktiež múdry Bias#POZ#50; Bias — zo starogréckych dejín. Štátnik a   mysliteľ z jónskej Prienny (nar. okolo 570 pr. n. L). Vyznačoval sa   nezištnosťou a láskou k pravde. Svoj majetok rozdal na dobročinné   ciele.#-POZ#: #I#Omnia mea mecum porto!#-I##POZ#45; (lat.) všetko   svoje nosím so sebou#-POZ# — Pane! Vy ste dobrý latinák, porozumiete   teda týmto mnohovýznamným citátom. Ja len #I#propter   applicationem#-I##POZ#46; (lat.) pre použitie (v našom prípade)#-POZ#   to poznamenávam k nim: #I#quod ego non possum#-I##POZ#47; (lat.) že   ja (za to) nemôžem#-POZ#, že ste sa Vy práve do mojej Sidonie zaľúbiť   ráčili (čo by mne, #I#in parenthesi#-I##POZ#48; (lat.) v zátvorke   (povedané)#-POZ#, i po vôli bolo) a že sa ona Vašou, práve pre môj   druhý citát (#I#in parenthesi#-I#, pretože nemáte ani stav, ani   groše), stať nemôže. Aspoň tak #I#syllogizuje#-I##POZ#49;   odôvodňuje#-POZ# moja žena a ráčite uznať, #I#Domine reverende#-I#,   že to #I#kriminálne#-I# dôsledný #I#syllogizmus#-I##POZ#51; (lat.,   gr.) trestne dôsledné odôvodnenie, úsudok#-POZ#. Ja sám som v   #I#dilemme#-I#, t. j. v škripci; a pretože som sa voľky—nevoľky   odhodlal v tejto záležitosti zmýšľať s mojou polovičkou, úprimne vám   radím, aby ste kúsky, ktorým ste sa snáď z Ovídiovho #I#De arte   amandi#-I##POZ#52; básnické dielo o umení milovať od významného   rímskeho básnika Publia Ovidia Nasa (43 pr. n. 1. — 18 n. L)#-POZ#   priučili, ohľadom mojej dcéry — ktorá je už #I#solenniter#-I##POZ#53;   (lat.) slávnostne, neobyčajne#-POZ# mnohovážnemu Ondrejovi Volovcovi   zasnúbená — na stranu, #I#id est ad orcum#-I#, šmariť ráčili. #I#De   cetero me commendo humillime#-I##POZ#54; (lat.) ináč sa úctivo   porúčam#-POZ# — ponížený služobník Philippus Šípik m. p., #I#scholae   et ludi rector#-I##POZ#55; (lat.) správca školy a muziky#-POZ#. —   #I#Post scriptum#-I#: Kliptákius dostal za posluhu výprask; čo len   preto podotýkam, aby ste chrbty mojich mendíkov šanovali a naposledok   i #I#Gallenusa#-I##POZ#56; (lat.) gallus znamená kohút#-POZ#, t. j.   Kuru, k podobným posluhám neupotrebili. #I#Idem qui supra#-I##POZ#57;   (lat.) ten istý ako vyššie#-POZ#.“
+    </tei:p>
+    <tei:p>
+     Keď Trnovský fulminantný#POZ#58; (lat.) výbušný#-POZ# list pána   Šípikov raz, dva razy i tri razy prečítal, miesto aby sa vždy väčšmi   bol mraštil, zdal sa navidomoči uspokojovať, usmieval sa a premýšľal   v sebe: „Bravissime#POZ#59; (tal.) výborne#-POZ#!   Praestantissimus#POZ#60; (lat.) znamenitý#-POZ# pán Šípik je po mojej   strane — tá #I#parenthesis#-I# a to #I#dilemma#-I# ho prezradili — a   z #I#post scriptum#-I# vidno, že Klipták síce nešťastne pochodil, z   čoho sa však dá zavierať, že Sidonia môj list nedostala — no, ale o   tom sa hneď presvedčím.“
+    </tei:p>
+    <tei:p>
+     „Gašpar!“ zavolal tu nahlas, a ako strela postavil sa náš Kura v   chyži, očakávajúc za posluhu peňažný dar. Trnovský však zamkol dvere,   vzal mocný lineár do ruky i chytil nešťastného posla za šticu.   „Chlapče, kde je sedem grajciarov, čo si Kliptákovi vzal?“ zahrmel   ostro na mendíka.
+    </tei:p>
+    <tei:p>
+     „Ich milosť, pán kaplán, ja neviem,“ odsekol smelo náš geniálny   Kura.
+    </tei:p>
+    <tei:p>
+     „Nevieš? No počkaj, veď ťa ja hneď naučím!“ vravel Trnovský a   štitca Gašparova len tak sa otriasala v pána kaplánovej ruke a lineár   len tak skákal po mendíkovom chrbte. Na takéto výslužné náš Kura   nebol pripravený. Najskôr zaťato mlčal, ale keď mu toho už veľa bolo,   dal sa do prosby a vyrozprával celý fígeľ. Nechtiac potrhanú   Gašparovu spoveď vyratovať, my vo výťahu zdeľujeme to, že on,   obadajúc pri Kliptákovi groše, tieto mu spolu aj s listom v noci   vzal, a s pani učiteľkou na dôverných nohách stojac, tejto oddal.
+    </tei:p>
+    <tei:p>
+     Po dokončenej exekúcii zastrúhal sa ešte raz kaplán nešťastnému   poslovi, dal pozdraviť pána učiteľa a poslal ho preč.
+    </tei:p>
+    <tei:p>
+     Gažo sa pobral vnohy a nezastavil sa, iba doma.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA SIEDMA
+    </tei:head>
+    <tei:p>
+     Asi o týždeň po týchto udalostiach putovala horou, ležiacou medzi   Sušicami a Ruskopolím, zo troch osôb záležajúca karavána. Bolo to na   počiatku septembra. Príjemný vetrík povieval zelenými ratolesťami   dubovej hory ako čo by na rozlučné; vtáctvo si ešte veselo poletovalo   po širokých konároch a zďaleka sa ozýval cvengot zvoncov pášuceho sa   stáda. Našu karavánu však málo zaujímal tento čarovný pôvab k   driemote sa približujúcej prírody — iba ak jedného šarvanca vyjmeme,   ktorý si veselo poskakoval pred dvoma staršími osobami, tu v húšťave   sa stratil, tu zase na chodník vybehnúc, zdvihol kameň a zahodil do   preletujúcich a štebotajúcich vtákov.
+    </tei:p>
+    <tei:p>
+     „Mužu, nevládzem; pomenšie stúpaj, dosť zavčasu dôjdeme!“   preriekla Margaretha Šípik k pánu manželovi, ktorý navzdor svojej   telnatosti bystro kráčal hore vrchom.
+    </tei:p>
+    <tei:p>
+     „Fiat voluntas tua#POZ#61; (lat.) buď vôľa tvoja#-POZ#! Staň sa!“   odvetil on, zastal a odfúkol si, utrel pot z čela, oprášil toskínové   nohavice a orleánový kabát, lebo bol v gále, ako sme ho už v tretej   kapitole opísali.
+    </tei:p>
+    <tei:p>
+     „Hej, Mutie, Mutie!“ volal na šarvanca, poskakujúceho veselo   popredku.
+    </tei:p>
+    <tei:p>
+     „Daj mu pokoj, nech užije sveta, kým mu dobre,“ hovorila pani   učiteľka hlasom materinskej lásky, „ba,“ pokračovala, vydýchnuc si,   „lepšie je, keď sme sami, aspoň sa úprimne pozhovárame o našich   dnešných zámeroch.“
+    </tei:p>
+    <tei:p>
+     „Už som ti povedal, Margaretha, že sa ja do celej veci   nezamiešam,“ odpovedal trochu trpko pán Šípik; „rob si, ako sa ti   páči; ja na všetko pristanem, bárs mi je nešťastná Sidonia vovždy   pred očami.“
+    </tei:p>
+    <tei:p>
+     „Ako zbledla, tak sa zarumenie; prejde ju to, muž môj, ako i mňa   prešlo,“ tvrdila pani rechtorka a kráčala za manželom ďalej.
+    </tei:p>
+    <tei:p>
+     „Videbimus, uvidíme!“ mrmlal pán Šípik a ruka v ruke šli do   Ruskopolia.
+    </tei:p>
+    <tei:p>
+     Tak je, do Ruskopolia! U pána Volovca mali dnes jeho budúci   svokrovci obzerať ohnisko; už je to u nás Slovákov v obyčaji, a pani   Margaretha by za svet nebola premeškala túto starootcovskú obyčaj.   Predbehnime ich a pozrime, ako pán Volovec očakáva svojich budúcich   svokrovcov.
+    </tei:p>
+    <tei:p>
+     Pána Volovcov dom i s jatkou stál asi naprostred dediny v   susedstve kostola. Už zďaleka ho bolo poznať, bo sa hrdo vypínal nad   druhé sedliacke domce, ako čo by vedel, že pod jeho dachom prebýva   chýrečný na doline boháč „majster poctivého remesla mäsiarskeho“. Keď   to už u Volovca tuvon slávne vyzeralo, tamdnu panovala opravdivá   skvostnosť, pravda, podľa merťuku mäsiarskeho. Nado dvermi trčali dva   velikánske rohy z osemcentového bykala, ktorého Volovec pred pár   rokmi bol zabil. Po stenách viseli originálne, na skle mazané obrazy   Jánošíka, mäsiara, ako vola zabíja, k tomu zima, jar, leto a jeseň v   známych alegorických maľbách. Ohromná almária a kasňa na poháre a   stolový riad trónili v predných kútoch. V jednom zo zadných sa   vyvaľovalo velikánske pecisko, v ktorom sa mohlo napiecť chleba   odrazu pre celú kompániu, v druhom však visel klin na šaty, na ktorom   sa opálalo asi sedemdesiatfuntové bundisko a k tomu drahocenné   Volovcovo šatstvo. Vprostred chyže zamastený stôl z hrubých dubových   dosák, kolo stien dubové divány — vulgo lavice — a pár stolcov,   stenové hodiny v drevenom dlhom futráli; k tomu ešte jedna truhla, na   ktorej viseli dve klatky — to bolo všetko, čo sa názvom náradia mohlo   poctiť.
+    </tei:p>
+    <tei:p>
+     Kolo pece, čiže mám povedať ohniska, na ktorom sa opekalo asi osem   hrncov a dve veľké rajnice, šibrinkovali dve ženy: jedna v   perkálových šatách a v bielom čepci, druhá v kanafasovej kamži, v   červenom náprsníku, v bielom oplecku a v ručníku, uviazanom kolo   hlavy. Pán Volovec nebol v chyži, práve v jatke lúpal barana, ktorý   sa mal dostať do rajníc a do hrncov.
+    </tei:p>
+    <tei:p>
+     „Mariša, choďte, poponáhľajte pána; už je desať hodín a v hrncoch   ešte nič,“ rozkazovala osoba v perkálových šatách Volovcovej   slúžke.
+    </tei:p>
+    <tei:p>
+     Mariša, územčistá, asi osemadvadsaťročná dievka, si však iba ťažko   vzdychla a mrdla plecom.
+    </tei:p>
+    <tei:p>
+     „Ty si blázon,“ vyčítala jej prvá, „veď si azdaj šialené huby   nepojedla, aby si sa za pána majstra držala. No, to by bolo! Ty a pán   Volovec — hehehe!“
+    </tei:p>
+    <tei:p>
+     „A už, pani rechtorka, môžu sa pre mňa smiať, koľko len chcú; ale   ja som ho od desať rokov verne slúžila a predsa ma oklamal!“   sťažovala si slúžka.
+    </tei:p>
+    <tei:p>
+     „Hehehe!“ smiala sa pani rechtorka ešte chutnejšie. Vtom však   vstúpil dnu Volovec, v ktorom by teraz nikto nebol poznal cifrovaného   sušického vohľača. Skutočne, jeho zovňajšok nebol na zaľúbenie.   Vysúkané rukávy, špinavá zakrvavená košeľa, na pleci olúpaný baran,   do oči padajúce šedivé vlasy, vytrčená gamba, opálajúca sa ocieľka —   no, predstavme si, aký to bol Endymion#POZ#62; postava zo   starogréckej mytológie, symbol spánku a smrti. Pri večnom spánku Zeus   udelil mu večnú mladosť. V citovanom význame ironická poznámka o veku   pytača Volovca#-POZ#!
+    </tei:p>
+    <tei:p>
+     „Jaj, len skoro, pán kmotor!“ súrila ruskopolianska pani učiteľka,   „len sem to mäso a oni nech sa skoro preobliekajú, lebo naši sušickí   hostia hneď tu budú — len aby sme nevyhoreli.“
+    </tei:p>
+    <tei:p>
+     „Šua, kmotra, ež vyhoreč? Nach moji budúci svokrove i takto ku mne   privykajú; jä son mesär a za to mojo remeslo se nikda   nezahanbín.“
+    </tei:p>
+    <tei:p>
+     Ale pani rechtorka, nepočúvajúc výhovorky Volovcove, dala sa do   krájania mäsa, hádzala ho do hrncov a rajníc a pán mladoženích   voľky—nevoľky začal sa štafírovať.
+    </tei:p>
+    <tei:p>
+     „Nedudri mi telo, hor cesta lou cesta, koj se ty nepáši!“ šomral   na vysluhujúcu a homrajúcu Marišu Volovec, ako si kordovánové čižmy   obúval. Mariša chcela voľačo odseknúť, vtom sa však otvorili dvere a   dnu vstúpili — naši ohniskári.
+    </tei:p>
+    <tei:p>
+     „Bonum mane precor, to jest, dobré ráno, či je už aj poludnie!“   klaňal sa pán Šípik a zamieril k pánu Volovcovi.
+    </tei:p>
+    <tei:p>
+     „Aaa! Vitán ponížene, pán rechtor!“ odpovedal Volovec, skočil   poloboso hore, klonckal k pánu učiteľovi a podával mu ruku.
+    </tei:p>
+    <tei:p>
+     Chlapi si stisli ruky, panie rechtorky sa pobozkali a Mutius,   poobzerajúc hrnce a rajnice, vyvalil sa na dubový diván.
+    </tei:p>
+    <tei:p>
+     „Hej, Mariše, Mariše! Doneshe z komory tot bucolák#POZ#63;   (náreč.) butelák, nádoba na pálenku a na víno#-POZ# s tó slivovicó!“   rozkazoval mladý zať. „Prešli se, pán svokor, prešli, a slivovička i   v lete dobre padne.“
+    </tei:p>
+    <tei:p>
+     Mariši však darmo rozkazoval, tá, zazrúc strašne na príchodzích,   bola odišla preč. Naostatok sa Volovec doobliekal a vidiac, že   výsluhy nieto, doniesol sám z komory očakávaný bucolák.
+    </tei:p>
+    <tei:p>
+     Kým si páni zdravkali, povstal medzi učiteľkami šuškavý rozhovor.   Pani Margaretha držala pri tom skúmavým okom prehliadku po chyži, a   konečne utkvejúc očami na dvojnásobne zaklatkovanej truhle, usmiala   sa spokojne. Po kuse sa i obed dochystal. Stôl prikryli, pintovky naň   nakládli; miesto Mariše dospeli dve susedy na výsluhu, i začala sa   nevídaná, nechýrená trakta. Pán Šípik a Mutius boli vo svojom   elemente. Ten prvší citoval Anakreona#POZ#64; starogrécky lyrický   básnik (559 — 474 pr. n. 1.). Jeho básne sú bezstarostným, sladkým,   ľahkým ospevovaním telesných a duševných pôžitkov#-POZ#,   Horatia#POZ#65; starorímsky básnik Quintus Horatius Flaccus (65—8 pr.   n. L). Charakterom tvorby je príbuzný gréckemu básnikovi   Anakreontovi#-POZ# a druhých vínoľúbnych klasikov, ten druhý pamätal   len na svoj žalúdok, na tie reči málo dbajúc; zdravkalo sa i Sidonii   aj Volovcovi a napospol celej rodine.
+    </tei:p>
+    <tei:p>
+     Keď sa už milá spoločnosť pokrmom a nápojom bola potúžila, začal   trocha vínom nabraný pán Volovec driemkať; čo aj nie div, bo mu   svokor toľko šibrinkoval tými latinskými porekadlami kolo uší — že   naňho naposledok driemoty došli. Ale ruskopolianska pani učiteľka,   zbadajúc, že mladý zať i gajdovať počína, skočila hore, ponalievala   do polholbových pohárov čiernej kávy, zobudila Volovca a všetci   pili.
+    </tei:p>
+    <tei:p>
+     „Carissima! Už by sme sa mohli preč poberať!“ hovoril pán Šípik,   vstávajúc od stola.
+    </tei:p>
+    <tei:p>
+     „Šua, ež het poberač? Ve smo se ešte ani nenapili, ani   nepozhovárali,“ strimoval#POZ#66; (náreč.) zdržiavať#-POZ# mladý zať   svokra.
+    </tei:p>
+    <tei:p>
+     „Pravdu majú, pán syn,“ ohlásila sa pani Šípiková; „musíme sa už   dohovoriť, keď sme raz tu; akože oni myslia, pán syn?“
+    </tei:p>
+    <tei:p>
+     „Jä by najrašé šua by ším skoré, o dva, lebo o tri týžne; lebo   viam, šua viam, hehehe! — tot kaplán, tot kaplán! — Ve som jä pošul,   ež mi do záhrady leze; a koj bude Sida mojä, ukäžen mu, kde je   plot.“
+    </tei:p>
+    <tei:p>
+     „To je nie pravda, pán syn!“ rozhodila sa pani Margaretha na   táraniny Volovcove. „Planý svet všeličo pohovorí. Sidonia je dobre   vychovaná; a aby sa uspokojili, ja nedbám, čo svadba aj hneď bude o   tri týždne.“
+    </tei:p>
+    <tei:p>
+     „Protestor! Nepozvolím!“ ohlásil sa pán Šípik, „do fašiangov ani   hnúť! Veď ešte nie je ani vyštafírovaná, a ja dcéru — nútiť nebudem!“   Ostatné slová však nedopovedal, len si ich pomyslel, lebo mu ich   pohľad manželkin naspäť do úst vrazil.
+    </tei:p>
+    <tei:p>
+     „Teba do štafírungu nič, to matkina starosť!“ odsekla prísne   Margaretha a obrátiac sa k pánu Volovcovi, usmiala sa prívetivo a   preriekla: „Dobre, pán syn, nech bude dľa ich žiadosti — od nedele na   tri týždne svadba!“
+    </tei:p>
+    <tei:p>
+     Tu vstala i ona a všetci za ňou; páni si zapálili na fajky; panie   šli gazdovstvo poobzerať; Mutius však letel na vežu, kde sa mendíci   strojili zvoniť na #I#preces#-I# (na večerné modlitby).
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA ÔSMA
+    </tei:head>
+    <tei:p>
+     Ako sme videli, Sidonia nebola ohnisko obzerať. Za jedno je to nie   v obyčaji, za druhé čo by aj skutočne v obyčaji bolo, teda nebolo tej   moci, ktorá by ju k tomuto kroku bola pohla. Zostala sama doma, pod   strážou Kurových jastrabích očí. Sedela sama pri šijacom stolíku,   pohrúžená v práci a myšlienkach o svojom lóse.
+    </tei:p>
+    <tei:p>
+     Bola to utrápená mladucha: líčka oblednuté, oči vpadnuté a   zastrené závojom sĺz. Na alabastrovom čielci ležala chmára myšlienok   ako ranná hmla na Kráľovej holi. Dievčina sa tu i tu strhla, tu i tu   zavzdychla tak bolestne ako poranená srnka. Nevedomky odložila šitie   na stranu a pravicu položila na dmúce sa ňadrá, ako čo by v nich   chcela utlačiť vzmáhajúcu sa búrku.
+    </tei:p>
+    <tei:p>
+     „Oj, bože môj, bože môj!“ stukala deva názvukom žiaľu, „ako to so   mnou bude? Poslúchať musím; matka povedala: Obetuj sa za nás a za   tvojho brata! — a aj otec, môj dobrý otec doložil: Kliatba materina z   koreňa vyvracia základy! — Bohuš — môj Bohuš Trnovský ma tiež   zaklína, aby som mu vernou zostala — kde tu rady, kde pomoci?“   spytovala sa rozžialene sama seba a pozdvihla zaslzené zraky dohora,   ako čo by do neba nazrieť chcela.
+    </tei:p>
+    <tei:p>
+     Bola to utešená podobizeň Nioby#POZ#67; Niobe — postava zo   starogréckej mytológie, dcéra Tantalova, manželka tébskeho kráľa   Anfiona. Pretože sa pýšila počtom svojich detí, bohovia ich nechali   pomrieť. Niobe v žiali skamenela#-POZ#! Ako táto nad zahynulými   deťmi, tak Sidonia nad hrobom svojich krásnych, mladistvých snov a   nádejí ronila slzy, ktoré kameneli na líčkach v perly.
+    </tei:p>
+    <tei:p>
+     Otvorili sa potíšku dvere a dnu vstúpila mladá pani milých čŕt   tváre, vo vkusnom obleku. Jej usmievavá tvár sa trocha zakabonila pri   pohľade na zarmútenú Sidoniu. Táto sa strhla a vidiac, kto prišiel,   skočila hore, vrhla sa príchodzej do náručia a stukala tak prenikavo,   že aj tejto druhej zahrali slzy v krásnych, sivých očiach.
+    </tei:p>
+    <tei:p>
+     „Uspokoj sa, moja zlatá Sidka, uspokoj sa — všetko bude dobre!“   tešila ju táto a pobozkala v čelo.
+    </tei:p>
+    <tei:p>
+     „Ach, pani farárka, už je po mojom šťastí; ja som navždy stratená;   už ma ta dnes zakopala matka.“
+    </tei:p>
+    <tei:p>
+     „Viem, Siduška, viem, že tvoji rodičia šli do Ruskopolia obzerať   ohnisko a ustanoviť deň svadby; ale nič to, prejdeme im cez   rozum.“
+    </tei:p>
+    <tei:p>
+     Sidonia pozrela na sušickú pani farárku nedôverivým a spolu   prosebným zrakom.
+    </tei:p>
+    <tei:p>
+     „Sadnime si, sestrička moja; pozhovárame sa dôkladnejšie,“ vravela   pani farárka uspokojujúcim hlasom a sadla si spolu i s rozčúleným   dievčaťom na pohovku. „Dostala si list od Trnovského?“
+    </tei:p>
+    <tei:p>
+     Sidoniina tvár sa skúpala na túto otázku v ružovej žiare.
+    </tei:p>
+    <tei:p>
+     „Ja som ti ho dopravila,“ hovorila pani farárka ďalej, „a prišla   som pre odpoveď; vidíš, musíme byť v tejto veci na čistom, tak sa dá   pre vás niečo vykonať. No, ale dôveru za dôveru,“ dokladala, vidiac,   že sa Sidonia hanblivosťou a bázňou trasie, „budeme #I#ty#-I# a   #I#ty#-I#!“
+    </tei:p>
+    <tei:p>
+     Sotva dopovedala, ležali si dve mladé priateľky v náručí.   Priateľstvo zapečatené sestrinským bozkom, otvorilo Sidoniino srdce   ako raňajšie slnce na jar kalištek ľalie.
+    </tei:p>
+    <tei:p>
+     „Zdôver sa mi, Siduška — či ľúbiš Bohuša Trnovského?“ vyzvedala sa   so súcitom mladá priateľka. „Vidíš, to je najhlavnejšia vec i pre   teba i preňho. Dvaja skôr odoláte návalu neprajných okolností, a   potom, vieš, trpezlivosť ružičky nosí — no, a spojené sily všetko   vykonajú!“
+    </tei:p>
+    <tei:p>
+     Miesto odpovede vrhla sa Sidonia znovu svojej priateľke do   náručia, svoje „ľúbim“ tíško jej do ucha šepkajúc.
+    </tei:p>
+    <tei:p>
+     „Ľudmilka!“ dokladala po chvíli, „len ma neprezraď. Skapala by som   od hanby!“ prosila dôvernicu; táto však vstala hore, pošla k dverám,   zaklopala na ne a na ich prahu sa zjavil driečny šuhaj — mladý   lukatínsky kaplán.
+    </tei:p>
+    <tei:p>
+     Výraz na Sidoniinej tvári nemožno opísať. Trnovskému hrali v   očiach slzy, triasol sa ako prút a kyvotajúce sa nohy ledva ho   dovliekli naprostred chyže.
+    </tei:p>
+    <tei:p>
+     „Sidonia, anjel môj!“ vydýchol názvukom nevýslovnej blaženosti a   pozeral tak túžobným okom na zmeravenú, ako sa zdalo, dievčinu, že by   to i skalu bolo pohlo.
+    </tei:p>
+    <tei:p>
+     Táto položila pravicu na prsia, sklonila hlavu a ľavicou objala   Ľudmilu.
+    </tei:p>
+    <tei:p>
+     „Priatelia moji! Srdcia vaše sa stretli na ceste súzvučnej   ľúbosti, zachovajte ju verne!“ hovorila Ľudmila, zložila vedno ruky   zaľúbencov a kochala sa na roztomilom obraze dvoch nevinných, v   zvučných akordoch prvej lásky sa stretnuvších duší. Bol to utešený   obraz, súci pre Bohúňov#POZ#68; Bohúň — slovenský maliar žánrových   obrazov a portrétov Peter Bohúň (1822—1879)#-POZ# krásotvorný   štetec.
+    </tei:p>
+    <tei:p>
+     „Či — či smiem dúfať, svätica moja?“ spytoval sa túžobne šuhaj,   prenesený do raja sladkých blažených pocitov.
+    </tei:p>
+    <tei:p>
+     „Oj, bože môj, bože môj!“ šuškala dievčina a rumenec blaha sa   roztápal po jej líčkach.
+    </tei:p>
+    <tei:p>
+     „Všetkému čas, priatelia moji; nezabúdajme na svet i na vaše   okolnosti!“ preriekla Ľudmila a týchto pár slov prebudilo zaľúbencov   z krátkeho sna blaženosti, do ktorého sa boli ponorili.
+    </tei:p>
+    <tei:p>
+     „Tak je!“ odpovedal spamätavší sa kaplán. „Tak je! Musíme sa   obzrieť i o svet a neprajné nám okolnosti. Raďte, pani sestra, raďte;   ja neviem, ako sa vymoceme z tohto labyrintu neprajných osudov.“
+    </tei:p>
+    <tei:p>
+     „Múdry ste vy, pán brat,“ smiala sa Ľudmila, „ja som vás dopravila   do neba vyslyšanej lásky a teraz vás z dákehosi labyrintu mám   vyvádzať! No, no; len sa tak nepáľte, pán brat, ani ty, Sidonia: ja   som síce žiadna bystroumná Ariadne#POZ#69; postava zo starogréckej   mytológie, dcéra krétskeho kráľa Minosa. Pomocou Ariadninho klbka   dostal sa aténsky kráľovič Teseus z bludiska Minotaurovho#-POZ#, aby   som vás sama vyvádzala z motaniny vášho postavenia, ale vám dám   klbko, po ktorom sa na božie slniečko manželstva vypradiete, a to   klbko je — obapolná vernosť, stálosť a trpezlivosť.“
+    </tei:p>
+    <tei:p>
+     Trnovský však s touto radou neveľmi bol spokojný; bál sa, že ako   sa vedením anjela, ktorého si v osobe mladej sušickej farárky   predstavoval, do raja dostal, tak ho nie anjel, ale čert v podobe   Volovcovej z neho vyženie. Zadumal sa a hútal hlboko a letel v   nádejach vysoko — darmo! Nič nepomáhalo. Ukotvil sa teda na rade   Ľudmilinej, na kotve vernosti, stálosti a trpezlivosti.
+    </tei:p>
+    <tei:p>
+     „Počula si, anjel môj, čo nám Ľudmila radí?“ spytoval sa   Sidonie.
+    </tei:p>
+    <tei:p>
+     „Bohuš! Ja som sa už odhodlala,“ odpovedala deva. „Pravda je,   vernosť a stálosť nás spasí!“
+    </tei:p>
+    <tei:p>
+     Vtom vstúpil do chyže Klipták a kývnuc pani farárke, odišiel, ako   prišiel.
+    </tei:p>
+    <tei:p>
+     „No, priatelia moji, dosť bolo! Gašpar, ktorého som bola do dediny   poslala, sa vracia, rozíďte sa; poštou medzi vami budem ja!“ vravela   Ľudmila a pochytiac Trnovského, ktorý sa zdráhal ísť, za ruku,   bozkala Sidoniu na čelo a odišla s kaplánom preč. Sidonia túžobne   hľadela za odchádzajúcimi, striasla sa, ale veselšia ako predtým   zasadla si poznovu k šijaciemu stolíku.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA DEVIATA
+    </tei:head>
+    <tei:p>
+     Tri týždne sa minú ľahko, obzvlášte tam, kde sa štafíruje. Tak to   bolo i v sušickej škole. Pani Margaretha chcela svoje slovo splniť, i   šlo to všetko ako po strojoch: ona, ako starostlivá matka, pamätala   od detinstva Sidoniinho na túto príležitosť; servítky a obrusy,   vankúše i periny, slovom, čo bolo najhlavnejšie, už oddávna mala v   poriadku. Sidonia šila o dušu a jej matka sa nemohla prenačudovať   tejto neočakávanej pilnosti a dcérinmu veselému rozmaru.
+    </tei:p>
+    <tei:p>
+     „Povedala som, mužu,“ vravela tu i tu utrápenému Šípikovi, „že ju   to prejde: vidíš, aká je veselá; viem ja, že to aj mladým peniaze oči   zaslepujú!“
+    </tei:p>
+    <tei:p>
+     Na takéto potechy pán Philipp iba plecom mrdol; povedal svoje   „dubito!“ — „pochybujem!“ — a dodal ešte tu i tu, že ju on nútiť   nebude, a mal sa okolo svojej práce; bo žiaci, ako v jesenný čas, už   sa pomaly, pozvoľne schádzali do školy.
+    </tei:p>
+    <tei:p>
+     Bolo to v piatok večer tretieho týždňa, dva dni pred svadbou: u   pána učiteľa sa pilne šilo, pomáhala i pani farárka i druhé známe,   lebo už na druhý deň mali od Volovcov prísť pre posteľ. Pán Šípik sa   prechádzal v myšlienkach po chyži a púšťal zo svojej dlhorúrovice   veľké oblaky; domárka, známa čiapka z remeňa, mu sedela kosom na   hlave, znak toho, že ju často zboka nabok stŕcal. Tomu sa však   nedivme! On dosiaľ vždy úfal, že dakým zázrakom tá svadba sa rozsype   a tu — už iba dva dni do sobáša! Úprimne ľutoval svoju dcéru, a keby   nie dôvody a — ostré zraky manželkine, bol by zastavil celú vec. Ba   staral sa aj o svadobné trovy. Jalovicu na zabitie mal síce v   chlieve, ale na víno a druhé pletky „nervus rerum gerendarum#POZ#70;   (lat.) hybná sila činov#-POZ#“ chýbala. Slovom, i on bol v tŕní, a   Šípik „nomine et omine#POZ#71; (lat.) menom i významom#-POZ#“,   ktorého ostrosť sa jeho srdca bolestne dotýkala. V takejto planej   vôli postaveného došla ho žaloba, ktorú do chyže vstupujúci Kura na   chudáka Kliptáka takto prednášal:
+    </tei:p>
+    <tei:p>
+     „Pán rechtor! Martin ešte ani teraz nepozháňal a nezatvoril   prasce; jeho je týždeň, ja som zaňho i na večer zvonil a už máme ísť   na večeru.“
+    </tei:p>
+    <tei:p>
+     „Quid#POZ#72; (lat.) čo#-POZ#? Ešte prasatá nepozháňal?“ rozhorlil   sa namrzený pán Šípik. „No, Kliptakius, canis tua mater! Teraz si ho   zbereš. Pakuj sa za ním, Gašpar, a doveď mi ho dnu za šticu!“
+    </tei:p>
+    <tei:p>
+     Pani farárka dosť chlácholila a tíšila pána učiteľa, ale tento   teraz bol v sedle; Kliptákovo previnenie prišlo mu namrzenému práve   vhod. O chvíľku sa zjavil Gažo, vedúci Martina za šticu.
+    </tei:p>
+    <tei:p>
+     „Sta, stoj, nequam!“ zahrmel pán učiteľ na mendíka, „ani mak sa   nevyhováraj, kým ťa zajtra solenniter nepotrescem; budeš dnes   absens#POZ#73; (lat.) bez (večere)#-POZ# od večere, a miesto na peci,   budeš v chlieve spať.“
+    </tei:p>
+    <tei:p>
+     Klipták zažalostil, výhovorka však neplatila. Gažo mu pomohol k   prasiatkam do chlieva a zatvoril za ním víťazne dvere.
+    </tei:p>
+    <tei:p>
+     My nechajme k svadbe sa hotujúcu spoločnosť i rozmrzeného pána   Šípika pri pokoji, a poďme — k nášmu Kliptákovi.
+    </tei:p>
+    <tei:p>
+     Chlapec sa oddal svojmu osudu; najsamprv horko plakal, ale keď   videl, že mu to nepomôže, utiahol sa do kútika, nahrnul si pod hlavu   slamy a sladko zaspal. Chliev, v ktorom sa nachodil improvizovaný   nocľah Martinov, bol na dvoje rozdelený. V prvom priestrannejšom   priečine stál pána Šípikov rožný statok: ut pote#POZ#74; (lat.) podľa   možnosti#-POZ# (ako on hovoril) krava s teliatkom a ku svadbe určená,   zabíjať sa majúca dvojročná jalovica. V druhom priečine rochtali   prasce a chrápal Klipták, ako čo by chcel prezvučať nehody pominulého   dňa.
+    </tei:p>
+    <tei:p>
+     Mohlo byť kolo polnoci, tu prasiatka tuhšie zarochtali, zakvíkali   a na ten kvik prebudil sa Martin zo sna.
+    </tei:p>
+    <tei:p>
+     „Nä, mojä, nä!“ počul dakoho v druhom priečine ticho homrať a   zatajil dych, aby sa neprezradil. „Ej, šiže je tma — na moj hriašnu,   nepotrefím na mi; nä, jaloviška, nä, budeš dobrá na vágóva#POZ#75; (z   maď.) na zabitie#-POZ#.“
+    </tei:p>
+    <tei:p>
+     Keď Martin vyrozumel túto samovravu, hneď zbadal, že je tu nie   dobre. Potíšku sa pozdvihal a liezol hore brvnami až pod strechu, tam   sa prepchal von škárou a spustil dolu na zem. Sotva však skočil na   zem, už bol dakomu v rukách.
+    </tei:p>
+    <tei:p>
+     „Ty si to, Martin?“ spytoval sa temný hlas, v ktorom však mendík   hneď poznal príhovorku lukatínskeho kaplána.
+    </tei:p>
+    <tei:p>
+     „Ach, pán kaplán, zle je!“ zašeptal Klipták. „V chlieve sú   zbojníci, jalovicu nám preč vedú.“
+    </tei:p>
+    <tei:p>
+     „Že zbojníci?“ začudoval sa Trnovský. „No počkaj, vytneme im   fígeľ!“ S tým skočil k chlievnym dverám, ktoré boli pritvorené, ale   odklatkané, zaklatkal ich pevne a trasúcemu sa Martinovi ticho   rozkázal, aby hneď šiel pre richtára.
+    </tei:p>
+    <tei:p>
+     Martin letel skokom a Trnovský, pevne držiac v rukách dvere pri   tom všetkom, že boli zaklatkané, premýšľal, kam ho asi toto   dobrodružstvo zavedie. Chudák, každý večer blúdieval kolo sušickej   školy, aby videl aspoň tieň svojej ľúbenice. I teraz ho táto náhoda   zastihla pri takejto prechádzke a práve sa poberal domov, keď mu   Klipták takrečeno do rúk padol.
+    </tei:p>
+    <tei:p>
+     V chlieve sa stal hurt, rochtanie, lámanie na dvere; ale klatka a   kaplán držali pevne; pomaly sa všetko utíšilo.
+    </tei:p>
+    <tei:p>
+     Asi o štvrť hodiny dospel richtár s prísažnými a boženíkom. Vedeli   všetko; Martin im celú vec bol už cestou vyrozprával.
+    </tei:p>
+    <tei:p>
+     „Ich milosť, pán kaplán, nech zobudia pána rechtora,“ zašeptal   richtár Trnovskému; „neviem, ako sú zbojníci ozbrojení; dobre bude,   keď pán rechtor donesú von flintu. A vy, chlapi, obstúpite s vidlami   chliev, a ty, Jano, tie železá maj nahotove.“
+    </tei:p>
+    <tei:p>
+     Stalo sa všetko dľa rozkazu richtárovho. O pár okamžení vystúpil z   domu flintou ozbrojený pán Šípik, za ním pani Margaretha a Kura s   lampášom. Trnovský za dobré uznal na stranu sa utiahnuť, ale ho   bystré oko Šípikovo zazrelo a on voľky—nevoľky musel brať podiel pri   lapačke zbojníkov.
+    </tei:p>
+    <tei:p>
+     „Nech len rúru do dvier otrčia a dobre mieria, keď ja otvorím,“   šeptal richtár učiteľovi, „tak najskôr tých kujonov prestrašíme.“   Dvere sa otvorili a richtár s lampášom a neohrozený pán Šípik s   namierenou rúrou vstúpili do maštale. Tam nebolo nikoho, iba   odviazaná jalovica sem—tam sa motala.
+    </tei:p>
+    <tei:p>
+     „Tu dnu musí byť,“ hovoril kaplán, „bo len teraz som ho počul   hurtovať.“
+    </tei:p>
+    <tei:p>
+     Pani Margaretha pozrela naňho takým okom, ako čo by sa spytovala,   čo on tu chce. Richtár však, keď sa v noci takto sem konal, chcel aj   na dáky koniec veci prísť; oddal sa i s boženíkom do vyšetrovania   chlieva, zasvietil všade, až sa dostal k senici.
+    </tei:p>
+    <tei:p>
+     „Tu je!“ zavolal víťazne, „tu je zlodej! Už ho mám za kečku. No,   len staňte na dvere, aby nám dáko neušvihol,“ S tým vytemešil zo   senice — Volovca!
+    </tei:p>
+    <tei:p>
+     Bol to skutočne on, opravdivý Ondrej Volovec, mäsiar z Ruskopolia.   Čo sa teraz dialo, to by sme darmo opisovali, to by bolo treba len   vidieť a počuť: výkriky, úžas, smiech, plač — to všetko sa miešalo   dovedna. Len pani Margaretha stála ako skamenená.
+    </tei:p>
+    <tei:p>
+     „To je škandál, hanba, posmech!“ vykríkla naostatok a zalomila   ruky. „Nešťastný nešťastník!“ obrátila sa k utrápenému väzňovi, „ta   čo oni tu hľadajú?“
+    </tei:p>
+    <tei:p>
+     „Fi, ti, ti, pani rechtorka,“ zajakal sa tento a stukal; „vedä   šua, prišol son si pre — toläre!“
+    </tei:p>
+    <tei:p>
+     Pani Margaretha sa opovržlive usmiala a odišla preč.
+    </tei:p>
+    <tei:p>
+     „Donec eris felix multos numerabis amicos!#POZ#76; (lat.) dokiaľ   budeš šťastný, budeš mať veľa priateľov. Citát z Ovídia#-POZ#“   preriekol vyvýšeným hlasom pán Šípik. „To je po slovensky, domine   Volovec, toľko: že ste vy oplan — a zo svadby nič — dixi.“ S tým   schytil Trnovského za ruku a odišiel za pani manželkou. Richtár však   dal mladoženíchovi železnú obrúčku a pod vidlami odviedli ho do   obecného domu, kde za ním ešte tuhšie zavreli, ako keď bol tam v   chlieve zaklatkaný.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     KAPITOLA DESIATA
+    </tei:head>
+    <tei:p>
+     Ráno nielen Sušice, ale celá dolina vedela, čo sa minulej noci v   škole prihodilo. Dobrý chýr ďaleko letí, ale zlý ešte ďalej. Celý   svet sa čudoval bohatému Volovcovi, že ho na takej ceste zbohatnutia   postihli; a len teraz začalo mnohým v hlave svitať, akým činom sa   Bandi mohol tak rýchlo zmôcť a do výšavy pozdvihnúť. V obecnom dome v   Sušiciach držal predstavený obce predbežné vyšetrovanie. Klipták ako   hlavný svedok dostal akúsi neobyčajnú smelosť a vyrozprával dôkladne,   čo sa v chlieve bolo porobilo. Volovec tajiť nemohol, lebo ho na   skutku postihli; ale predsa sa vyhováral, ako sa vedel.
+    </tei:p>
+    <tei:p>
+     „Viate, pán richtár,“ mudroval, „to vám je tak: jä son chocel   vedieč, šua tot muaj pán svokor za statok majú. Ve viate, ež son   mesär, aj groše mán a už vám lem vypovien, ež son ni blázon, aby son   si diavše bez nišoho bral. No tak, hehehe!“
+    </tei:p>
+    <tei:p>
+     Ako vidíme, pán Volovec sa sám zasmial na svojej výhovorke, lebo   sa mu páčila; nie tak richtárovi. Ten začal milému majstrovi   vyratúvať po jednom celý lajster na doline skapaného rožného statku.   Tvár Bandiho sa škňúrila, gamba sa mu ešte o pol palca zdĺžila, a keď   mu železnú obrúčku lepšie na rukách zatiahli — straško, ako bol —   vyjavil po kuse všetky kúsky, ktoré mu dopomohli k súdkom   dvadsiatnikov a toliarov. Keď toliare zo školy prikvitli, richtár dal   Volovca pod dvoje vidiel a chlapi stúpali s ním k najbližšiemu   ochodznému úradu#POZ#77; okresný úrad (novotvar)#-POZ#.
+    </tei:p>
+    <tei:p>
+     U pána Šípika sa všetko obrátilo naruby. Veselosť a smútok   zamenili si osoby: prešli z jednej tváre na druhú. Polnočná   katastrofa, udavšia sa v chlieve, poslúžila i Sidonii i pánu   učiteľovi. Sidonia rozkvitla ako ruža a pán Philipp sa vyšvihol na   stupeň samostatnosti domáceho pána. Prechodil sa víťazne po chyži,   vykrúcal si fúzy a meral veliteľským okom pani Margarethu. Bola   skutočne do nepoznania: predtým rozkazujúce zraky sklopili sa k zemi,   kedykoľvek sa stretli s pohľadom Philippovým; predtým podoprený   driek, hlava dohora ako na palici, teraz nos ovesený — slovom, celá   postava Megaerina javila obraz pokoreného odsúdenca. Všetky jej   zámery a rozpočty, siahajúce do ďalekej, bezstarostnej budúcnosti,   vyšli na poctivý smiech. Celá vec, tak múdro a opatrne navlečená,   dočkala sa hanebného výsledku. Nie za Sidoniu, ale sama za seba sa   hanbila; lebo Sidonia bola len nástrojom k dosiahnutiu jej tajných,   po bohatstve túžiacich úmyslov. Darmo, už bolo po všetkom! I   zaplakala nad zboreninami svojich zámerov tak ľútostivé, ako matka   Gracchov#POZ#78; Gracchovia — zo starorímskych dejín. Tiberius   Sempronius Gracchus (163—133 pr. n. 1.) a Gaius Sempronius Gracchus   (154—121 pr. n. l), rímski štátnici, tribúni, usilovali sa preklenúť   priepasť medzi rímskymi boháčmi a chudobou. Zahynuli v zápase s   rímskou šľachtou#-POZ# nad mŕtvolami nešťastných synov.
+    </tei:p>
+    <tei:p>
+     „Quid fles#POZ#79; (lat.) čo plačeš?#-POZ#? Čo sa mazneš?“   dopytoval sa pán Šípik vyšetrujúcim hlasom; „teš sa, že tvoj nerozum   neporobil väčšie galamuty. Chvalabohu, dosť zavčasu sme poznali   Volovca.“
+    </tei:p>
+    <tei:p>
+     „Nespomínaj mi ho,“ prosila Margaretha, „radšej smrť, ako jeho   meno počuť.“
+    </tei:p>
+    <tei:p>
+     „Hahaha!“ smial sa pán Šípik, „vivas carissima#POZ#80; (lat.) ži   mi, najdrahšia!#-POZ#! Teraz sa mi páčiš! Poď, nech ťa pobozkám, aby   sme zas k sebe privykli; ale to ti povedám, Bleskoviniho mi viacej   nespomeň, ako ani ja tebe nášho bývalého…“ „zaťa,“ chcel povedať pán   učiteľ, ale mu vtom zatvorila manželka bozkom ústa, i pomerili sa   úprimne.
+    </tei:p>
+    <tei:p>
+     „Čo však s tým dievčaťom, carissima Margaretha?“ dodieval znovu   pán Philipp. „I štafírung hotový, i nevesta by už len rada k sobášu;   bolo by sa nám predsa len dáko postarať o mladého.“
+    </tei:p>
+    <tei:p>
+     Nedopovedal, bo mu ženička vpadla do reči: „Och, mužu, postaraj sa   o jej budúcnosť už ty; veď si otec — a ja na teba pristávam.“
+    </tei:p>
+    <tei:p>
+     „Bravo! No, vidíš, Margaretha, ja som sa už postaral; Sidonia bude   Trnovského, per se#POZ#81; (lat.) pravdaže#-POZ# potom, keď už bude   fara!“
+    </tei:p>
+    <tei:p>
+     Za farou však nebolo treba čakať. Asi o mesiac po týchto   udalostiach zomrel náhle Trnovského principál a lukatínska cirkev   vyvolila na jeho miesto svojho všeobecne obľúbeného kaplána, ktorý —   dobre vediac, že chlap, ktorý sa samou teológiou trudil, do   gazdovstva sa nerozumie — ani zamak so ženbou neodkladal.
+    </tei:p>
+    <tei:p>
+     O pol roka boli Bohuslav a Sidonia svoji. Keď sa svadba   rozchodila, dráždila Ľudmila mladú lukatínsku pani farárku, spytujúc   sa jej: „Ozaj, Siduška, či by si ty s tou šeredou ruskopolianskou   bola pred oltár stúpila?“
+    </tei:p>
+    <tei:p>
+     „Áno,“ smiala sa táto; „ale nech ti Bohuš povie, čo by si pán   Bandi tam bol počul.“
+    </tei:p>
+    <tei:p>
+     „Nuž, jedno pevnozvučné ,nie, t. j. nechcem, nemilujem ho!“   vysvetľoval šťastný manžel.
+    </tei:p>
+    <tei:p>
+     „Vides#POZ#82; (lat.) vidíš #-POZ#, Margaretha!“ dovŕšil pán   Šípik, „i bez jalovice by ti boli prešli cez rozum! Veselo, páni   bratia! Ešte jednu na rozchodnú a tento pohár Kliptákiusovi na   zdravie!“
+    </tei:p>
+    <tei:p>
+     Hrdina našej rozprávky, ktorý v cele novom obleku posluhoval pri   svadbe, zaplakal od radosti, že mu pán učiteľ zdravká. Páni   svadobníci mu však naskladali turáčiky, ktoré Trnovský dovedna zhrnul   a uradovanému mendíkovi povedal:
+    </tei:p>
+    <tei:p>
+     „Martin! S týmto vystupuješ zo školy sušickej a prechodíš do   lukatínskej. Ešte ti pozostávajú dva mendícke roky, tie už tu   vybudneš, a potom ťa dám, pretože si vlohy k statku ukázal, na   poctivé mäsiarske remeslo. Neboj sa nič, nie k Volovcovi — a tieto   groše ti potom, keď ťa z učňovstva prepustia, dobré budú.“
+    </tei:p>
+    <tei:p>
+     Martin sa od radosti ešte väčšmi rozplakal, pobozkal paniam a   pánom ruky a utiahol sa na stranu k svojmu — už odteraz dobrému   kamarátovi Mutiovi.
+    </tei:p>
+    <tei:p>
+     Aby sme ani na pána Volovca nezabudli, dokladáme, že tohto bedára   jeho svadba hrúzu stála. Bohatstvo sa pod jeho trestným procesom   náramne stápalo. Pravotári a druhí jeho zastávatelia použili   príležitosť. Dostal jeden rok väzenia. Trestnoprávne trovy a škody   musel prinavrátiť. Ako si pokutu odbudol, dovliekol sa domov o desať   rokov šedivší a o pol druha centa ľahší. Na prahu ho vítala   Mariša.
+    </tei:p>
+    <tei:p>
+     „Neboj sa ništ, Mariše, väc se ženič nebudem,“ prehovoril k nej;   „ve viaš, ež son ti bul naveky verný; a ani by se to nebulo stálo,   koby ni ve viaš šua!“
+    </tei:p>
+    <tei:p>
+     Mariša sa spokojne usmiala a voviedla Bandiho do príbytku, v   ktorom všetko tak bolo ako predtým, len tú truhlu nebolo treba na dve   klatky zavierať, bo na tento čas bola vyprázdnená. Potrestaní a   opovrhnutí od ľudí žijú, ako žili — ak nepomreli.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

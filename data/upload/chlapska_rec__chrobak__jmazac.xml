@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1937338" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Chlapská reč : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2576
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Chlapská reč
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-22">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Chlapská reč
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    To som vtedy viezol buky zo Svídova do Východnej. Buky pre   nebohého farára Orfanidesa.
+   </tei:p>
+   <tei:p>
+    Bol by som došiel domov za vidna, ale na Drahom dreve zlomila sa   mi klanica. Kým som osadil novú, zvečerilo sa. A kým som došiel na   krížne cesty, bolo už celkom tma.
+   </tei:p>
+   <tei:p>
+    A čo nechceš — stojí tu krčma Dunnerova, kone samy od seba zastaly   a náručný významne zaerdžal. Aby ťa, reku, Boh skarhal... Kúpil som   tie kone od Jana Melicha, kotľoša, on ich naučil postávať pred každou   krčmou.
+   </tei:p>
+   <tei:p>
+    Skočil som s fúry, zavesil liace na klanicu a vošiel do krčmy.
+   </tei:p>
+   <tei:p>
+    Čo mám povedať? Netrvalo to ani päť minút. Ani bič som neodložil,   ani klobúk nesňal. Prevrátil som iba pohárik, utrel si fúzy a poberal   sa von. Vo dverách búšil som sa ešte so Zuzou Búgerkou, čo tu slúži u   Žida; vyškerila na mňa zuby, i som ju vari potľapkal, ale nezdržala   ma. Ako vravím, netrvalo to ani päť minút.
+   </tei:p>
+   <tei:p>
+    Chytal som už liace (Židovka vyšla s lampášom na priedomie),   vtom... vtom vystúpil z tmy na druhej strane fúry človek s uzlíkom   pod pazuchou. Váhavo sa zastavil naproti mne a stál tak chvíľu v   zrejmej neistote. Sliepňal proti svetlu zo Židovkinho lampáša. V jeho   tvári... Dodnes sa veľmi určite pamätám na jeho tvár: V jeho tvári   bol vtedy podivný výraz uštvaného zvera. Hlboko v očiach ligotalo sa   nemé, skúmavé svetielko. Ako by striehlo vaše pohyby a bolo   pripravené vzplanúť každú chvíľu vražedným leskom.
+   </tei:p>
+   <tei:p>
+    Poznal som ho naskutku. No práve to svetielko v jeho očiach   zabránilo mi prihovoriť sa mu. Stáli sme proti sebe v nemom a napätom   zápase. Nie dlho. Azda ani nie toľko, čo by človek narátal do desať.   No cítil som odprvoti, že podľahnem v tom zápase, že nakoniec   vztiahnem proti nemu ruku a vyslovím jeho meno. Ale práve v tú   chvíľu, ked som už chcel tak spraviť, práve v tú chvíľu prišlo mi na   um, že ma on možno ešte nepoznal, pretože svetlo zo Židovkinho   lampáša svietilo mu rovno do očí a oslepilo mu zrak. A tu vošla do   mňa zbabelosť; chytro som sa zohol ku kolesám a tváril sa, že   naprávam lônik na osi. Prsty sa mi pritom chvely a srdce sa mi   rozbúšilo, ako voľakedy, keď som išiel po prvý raz na zálety.
+   </tei:p>
+   <tei:p>
+    Bol som tak skrčený dlho. Dlhšie, ako bolo treba, aby som napravil   lônik. Pomaly som sa upokojil, zahanbil som sa za svoju zbabelosť,   chcel som už vstať, odhodlával som sa už, ale vtom sa on na druhej   strane fúry pohol a pomaly, váhavo odchádzal do tmy. Načúval som   učupený za kolesom, ako sa vzdiaľoval, a horúca vlna hanby obliala ma   od hlavy až po päty.
+   </tei:p>
+   <tei:p>
+    Keď som sa spamätal, cmukol som potichu na kone, sadol som si na   oje pred fúru a začal som rozmýšľať o Ondrejovi Madlušovi, ktorého   volali Drakom. Neviem ani, kedy začalo pršať; chvíľami som azda   driemal, chvíľami sa strhával, švihol bezradne bičom, a znova a znova   oblievala ma horúca vlna hanby. Pole po oboch stranách cesty hrdo   mlčalo a mesiac, keď vyšiel zpoza chmár, odvrátil svoju upätú tvár a   dôstojne, ako biskup, prijal deputáciu drobných obláčkov, ktoré sa   oddelily od čiernej chmáry a natešene, s vyjasnenou tvárou ponáhľaly   sa mu v ústrety.
+   </tei:p>
+   <tei:p>
+    To všetko bolo vzdialené, odohrávalo sa bezo mňa a rozteskňovalo   ma.
+   </tei:p>
+   <tei:p>
+    Žena už spala. Ale spala tak, aby som videl, keď vojdem do dverí,   že ma dlho čakala. Postlala si v kuchyni na lavicu a na stole, konča   hlavy, horel jej lampáš, s ktorým chodíme ráno a večer do stajne. Keď   som vošiel do dverí... (Predtým dlho som sa očistom motal po dvore a   hľadal slová, ktorými jej oznámim, že Ondrej Madluš sa vrátil. „Musím   jej to oznámiť,“ myslel som si, „a to ešte dnes, lebo svieti a čaká   ma... “) Keď som vošiel do dverí a videl, ako spí a čaká ma, aké   široké sú jej bedrá, keď tak leží a čaká ma, zostal som stáť na prahu   a držal sa kľučky, lebo som si uvedomil, že je to moja žena, čo ma tu   čaká. Potom som sa potichu na prstoch priblížil k nej, nahol som sa   nad ňu a znova som si uvedomil: „Toto je moja žena.“ A uvedomil som   si to s úzkosťou, s náhlym strachom, ako by to nebolo pravda. Ako by   to až dosiaľ bolo bývalo pravda, ale práve od tejto chvíle, keď som   si to po prvý raz uvedomil, ako by to nebolo viac pravda. Nachýlil   som sa nad svoju ženu a opakoval som si šeptom a čo raz s väčšou   úzkosťou, čo raz s väčšou nedôverou: „Toto je moja žena.“
+   </tei:p>
+   <tei:p>
+    V očiach sa mi zahmlilo a hlava sa mi zatočila, ako by som bol   celý večer pil. Sadol som si na stoličku konča jej nôh, díval som sa   dlho na ňu a potom som sa potichu zobul, potichu sobliekol a potichu   si ľahol v izbe do postele.
+   </tei:p>
+   <tei:p>
+    A jej posteľ, vedľa mojej postele, zostala prázdna až do   rána...
+   </tei:p>
+   <tei:p>
+    Ráno som vstal zavčasu. Tak zavčasu, že svätý Florián, čo visí na   stene medzi oblokmi, prekvapene zažmurkal, keď ma videl stokýnať si   nohavice. Vyšiel som zo zvyku na priedomie podívať sa, aká strojí byť   chvíľa.
+   </tei:p>
+   <tei:p>
+    Ulica bola pustá. Domy s batohmi striech nad hlavou stály schúlené   pozdĺž cesty. Ako by sa chystaly opustiť tento prekliaty kraj, ako by   ich bol v noci navštívil posol na spenenom koni a oznámil im zlú   novinu. Nebo na východe bolo krvavo červené. Stačilo podívať sa na   také nebo, aby ti prešly všetky veselé myšlienky. Nič dobrého nemôže   sa stať v kraji, nad ktorým má nebo za rána takú nešťastnú farbu.
+   </tei:p>
+   <tei:p>
+    Vrátil som sa do izby a obul som si kapce. Žena dosiaľ spala.   Pohla sa trochu, keď som vychádzal zo dverí a spýtala sa ma   rozospatým hlasom, čo už mátam tak zavčasu.
+   </tei:p>
+   <tei:p>
+    — So soľou idem... teľcom, — vravím jej očistom.
+   </tei:p>
+   <tei:p>
+    Zahniezdila sa spokojne a usmiala sa zľahka. Nie však na mňa, ale   v ústrety príjemnému snu, z ktorého som ju svojím príchodom vytrhol.   Aj som to hneď pochopil a vytratil sa potichu na dvor. Prešiel som   krížom cez cestu, potom cez potok a cez jarmočné miesto. So záhumnia   videl som na Drakov dom. Opiera sa o kopec, ktorý sa dvíha nad   dedinou. Stojí prostred poľa na úzkom prielohu. Chodník, čo k nemu   vedie s cesty od vyžihárne, zarastený je trávou. Domec je nízky,   drevený, pokrytý šindľom. Šindoľ je na jednom mieste obtrhaný. To od   tých čias, ako sa parobci chceli presvedčiť, či v Drakovom dome   naozaj straší.
+   </tei:p>
+   <tei:p>
+    Ďakujem pekne! Nezdá sa to tu práve prívetivé!
+   </tei:p>
+   <tei:p>
+    Nie že by som bol bojko. Nie väčší ako iní. Ale nebolo tu všetko   akosi s kostolným riadom. Dom stál uprostred poľa, stranou všetkých   domov. Nič dobrého netrčalo z toho tŕnia a hložia, čo bujne vyhúklo   okolo neho. Každý veru radšej odvracal hlavu, keď mal prejsť popri   Drakovom dome. A ja tu teraz stojím a dívam sa naň pozorne, ako by   som nemal lepšej roboty.
+   </tei:p>
+   <tei:p>
+    Slnko začína prihrievať, dvíha sa vetrík, nadúva mi košeľu a   šteklí ma popod pazuchy. A náhle sa zaligotala rosa na obilí, všetko   sa nečakane zachvelo a rozbehlo sa bystrým trapom naproti slnku.   Vykročil som k Drakovmu domu s náhlym rozhodnutím skončiť naraz celú   parádu. Podivuhodne pokojne prešiel som cez prieloh. Usmieval som sa   dokonca trochu pod fúz a tešil sa, ako ho prekvapím, keď začnem z   čista-jasna...
+   </tei:p>
+   <tei:p>
+    Zastavil som sa, aby som si ujasnil, ako začnem z čista-jasna.
+   </tei:p>
+   <tei:p>
+    „Prepáč, reku, Ondrej; tak a tak... Lepšie bude, keď sa hned   dohodneme. Zavreli ťa na päť rokov zato, že si trochu tuhšie klkol po   hlave toho maznáka sopľavého. Hej, viem, nič mi nemusíš vysvetľovať;   mal si pravdu. Dráždil ťa, vláčil sa ti za Evou a toho večera v krčme   pchal ti pod nos pierko, že vraj od nej. Luhal, sopľoš. Eva mala rada   teba. Chodila ako bez ducha, keď ťa vzali žandári. Čakala na teba   celé dva roky. Ale ty si musel čakať päť. A to je rozdiel. Hej... A   raz... Ako by som ti to povedal? Uvidel som ju raz... To som vtedy   kosil kúty pri Váhu. Bral som si práve vodu do oselníka. A tu som ju   uvidel, ako prechádza cez rieku trochu povyše mňa. Stála prostred   prúdu. Jednou rukou držala hrable na pleci, druhou si pridŕžala   sukne. Vykasala si sukne vyše kolien a celé stehná mala holé. Čo ti   mám ďalej vravieť? Trvalo to chvíľu, kým sa prebrodila cez rieku...   “
+   </tei:p>
+   <tei:p>
+    „Znamenitý si ty chlap, Peter,“ čujem už jeho hlas a cítim, ako ma   zatrpkle a trochu posmešne tľapká po pleci: Darmo, vidno na ňom, že   árešt ho zmoril. Skrotol, a možno by sa už so všetkým smieril. No   usmejem sa veľkodušne a mávnem rukou:
+   </tei:p>
+   <tei:p>
+    „Vôbec nie znamenitý. Neprišiel som si po poklony; chcem sa s   tebou zmerať. Chcem... No, áno, čo sa tak dívaš ?... Chcem sa s tebou   biť. Nebudeme sa jednať: Eva patrí tebe, ty si ju mal prvý. Ale ja   budem mať s ňou dieťa...“
+   </tei:p>
+   <tei:p>
+    Nie, toto mu nepoviem. Toto mu nesmiem povedať.
+   </tei:p>
+   <tei:p>
+    „Ty si ju mal prvý. Ale ani ja nechcem sa jej vzdať. A nechcem   ani, aby povedali, že som ti ju predchytil. Musíme sa sprobovať...   “
+   </tei:p>
+   <tei:p>
+    Takto som si to vyhútal.
+   </tei:p>
+   <tei:p>
+    Ty, kamarát môj, si iste myslíš:
+   </tei:p>
+   <tei:p>
+    „Pekný si ty vták, Peter; poznám ja takých viťúzov; chceš robiť zo   seba hrdinu. Chceš sa lacno zbaviť ženy, ktorú si za tri roky nemohol   získať pre seba.“
+   </tei:p>
+   <tei:p>
+    No, ako sa ti páči. Nepoviem už ani slova. Môžeš si hoci myslieť,   že robím z núdze ctnosť a že sa chvastám tovarom, ktorý mi   nepatrí.
+   </tei:p>
+   <tei:p>
+    Ale načo darmo reči šíriť? Takto som si to vyhútal, kým som tam   stál neďaleko Drakovho domu a kým sa rosa sperlila na zboží. To treba   povedať (ale ako to povedať ?), že kým som tam stál, sperlila sa rosa   na zboží. A premena, ktorá tým nastala v nálade kraja (matná a   popolavá zeleň obilia náhle ožila ligotavým, sviežim leskom),   zasiahla i moju náladu. Nebyť toho, bol by som sa možno vrátil so   záhumma a šiel na Púchalky teľcom so soľou. Ale takto... Pokojne som   vyčkal, kým Drak vyšiel so sklonenou hlavou zpomedzi dverí, pokojne   som sledoval jeho pohyby, ako obchádzal dom, dívajúc sa na lastovičie   hniezda pod ústreším, ako potom vzal žŕdku a jedno za druhým srážal   hniezda zpod ústrešia. Potom nasbieral na dvore trochu dreva, čo sa   tam povaľovalo, a vniesol ho v náručí do pitvora.
+   </tei:p>
+   <tei:p>
+    Všetko je teda tak, ako som si myslel. Je to ten istý Ondrej   Madluš, čo raz tak pokojne klkol Sama Jariabka po kotrbe a čo teraz   práve tak pokojne sráža lastovičie hniezda zpod ústrešia.
+   </tei:p>
+   <tei:p>
+    No, poručenobohu! Karta leží, karta hrá. Trochu mi to stislo   srdce, ale vykročil som odhodlane. Nič sa nezmení, či začnem tak   alebo onak. Zastal som iba pred schodíkmi, čo viedly do Drakových   dverí. Potom som pomaly vystúpil i hore schodíkmi. Pokojne, s rukami   vo vreckách, ako by som išiel večer po kŕmení zapiecť si fajku do   susedov.
+   </tei:p>
+   <tei:p>
+    — Dobré ráno, Ondrej!
+   </tei:p>
+   <tei:p>
+    Celkom, ako by som si išiel zapiecť fajku do susedov.
+   </tei:p>
+   <tei:p>
+    Kľačal pred ohniskom a sústredeno rozduchoval oheň pod   panvičkou.
+   </tei:p>
+   <tei:p>
+    — Idem ťa, reku, pozrieť, keď si sa vrátil. Podíval sa na mňa   skúmavo zpod obočia. Myslel som, že ho uvediem do rozpakov; nemohol   ma predsa čakať, nemohol nikoho čakať tak zavčas rána, deň po svojom   návrate. Ale on počkal, kým sa oheň rozhorel, nechal ma čakať, kým sa   oheň rozhorel, len potom vstal a ide mi v ústrety. Usmievam sa naň   rozpačite.
+   </tei:p>
+   <tei:p>
+    Divná vec, i on sa usmieva a ukazuje mi na stoličku.
+   </tei:p>
+   <tei:p>
+    — Sadni si, keď si prišiel.
+   </tei:p>
+   <tei:p>
+    — Nepoznal som ťa, bratku, — vraví ďalej a neprestáva sa   usmievať.
+   </tei:p>
+   <tei:p>
+    A ja si pripadám ako žiak pred učiteľom.
+   </tei:p>
+   <tei:p>
+    — To si ty kŕmil včera pred Dunnerovou krčmou?
+   </tei:p>
+   <tei:p>
+    — Nekŕmil; iba na pohárik som vošiel. A čo? Klopím zrak a krv mi   udiera do tvári. Celkom ako žiak pred učiteľom.
+   </tei:p>
+   <tei:p>
+    — Len tak. Myslel som, že si to ty. No... Nedokončil. Hodil rukou,   ako by to bola vybavená vec.
+   </tei:p>
+   <tei:p>
+    — Musím tu trochu vyvetrať.
+   </tei:p>
+   <tei:p>
+    Otvoril oblok. Prievan zdvihol prach so zeme a pruh svetla, ktorý   sa rinul dvermi, stal sa naraz hmotným, žiarivým hranolom. Predmety v   pitvore máličko sa pohly, trochu sa pomkly na svojich miestach a   začaly pozorne načúvať šumotu života, čo prúdil za dvermi nad   dozrievajúcim obilím. Zreteľne bolo badať netrpezlivý rozruch vo   všetkých kútoch izby. Ako keď priložíte ucho na úľ,
+   </tei:p>
+   <tei:p>
+    z ktorého sa chystá vyletieť roj. I mňa sa zmocnil podivný   nepokoj, ako by som i ja bol býval tu zavretý dlhých päť rokov a   zadúšal sa teraz v prívale svetla a vzduchu. Zľakol som sa čohosi, čo   urobím v nasledujúcej chvíli. Roztvoril som naširoko oči a ustrnul v   napätom očakávaní.
+   </tei:p>
+   <tei:p>
+    Ondrej Madluš stál rozkročený prostred pitvora a díval sa   starostlivo po stenách. Bol to ešte stále pekný chlap, ako tam stál s   rukami vo vreckách, v bielej košeli, ktorú pred chvíľou vytiahol z   truhly, s hlavou zľahka pozdvihnutou, s vážnou a bledou tvárou.
+   </tei:p>
+   <tei:p>
+    — Musí sa tu trochu vyvetrať, — opakoval ešte raz a znova sa   obzeral po stenách.
+   </tei:p>
+   <tei:p>
+    Neviem, či mu mám prikývnuť, či čaká, aby som sa s ním pustil do   reči, či je zvedavý na Evu.
+   </tei:p>
+   <tei:p>
+    — Ako myslíš, — vravím a vrtím rozpačite klobúk medzi   kolenami.
+   </tei:p>
+   <tei:p>
+    — Aj vybieliť musím, — dokladá po chvíli a pozre na mňa s výrazom   bezpečnej istoty.
+   </tei:p>
+   <tei:p>
+    Popudzuje ma tá jeho bezstarostná istota.
+   </tei:p>
+   <tei:p>
+    — Priam zajtra vybielim.
+   </tei:p>
+   <tei:p>
+    „A či ja dbám.“ Uráža ma, že sa tu tak pokojne rozkročil. Či azda   nevie, že Eva, pre ktorú zabil Sama Jariabka, je teraz mojou ženou? A   že mám na ňu právo ako na svoju ženu? To mi ešte chýbalo, aby si sa   mi tu vyťahoval popred nos, ako nejaký pán veľkomožný!
+   </tei:p>
+   <tei:p>
+    — A či ja dbám, vybieľ si hoci aj dnes, — dudrem si popod nos.
+   </tei:p>
+   <tei:p>
+    Stojí teraz vo dverách, tvárou do poľa, opiera sa o zárub a díva   sa ponad pole do dediny. Ako by ma tu ani nebolo. Obzrel sa na mňa   nedbalo cez plece.
+   </tei:p>
+   <tei:p>
+    — Vravím, aby si si vybielil hoci aj dnes.
+   </tei:p>
+   <tei:p>
+    Celkom ma napajedil jeho veľkopanský móres.
+   </tei:p>
+   <tei:p>
+    Nazdá sa vari, že ho budem prosiť, aby si ma ráčil všimnúť.
+   </tei:p>
+   <tei:p>
+    -No a?
+   </tei:p>
+   <tei:p>
+    Hodil som plecom.
+   </tei:p>
+   <tei:p>
+    Vstávam, že je všetko skončené. Pokojne ma púšťa vedľa seba cez   dvere.
+   </tei:p>
+   <tei:p>
+    — Idem teraz teľcom so soľou. Nemáš tam nič?
+   </tei:p>
+   <tei:p>
+    Dobre viem, že nemá na paši ani srsti.
+   </tei:p>
+   <tei:p>
+    Krúti hlavou, ako že nie, a neprestáva sa dívať ponad pole na   dedinu. Viem, kam smeruje jeho pohľad, ale nezaujímajú ma už jeho   plány. Prišiel som sem za chlapom, za seberovným, nie za pánom   veľkomožným. Bol som už za plotom, náhle mi prišla na rozum   zlomyseľná myšlienka. Obraciam sa k nemu a vravím mu:
+   </tei:p>
+   <tei:p>
+    — Pošlem ti zajtra Evu, ak chceš; pomôže ti vybieliť.
+   </tei:p>
+   <tei:p>
+    To sa mi teda podarilo! Brada mu odkväcla, zaknísal sa, ako by ho   niekto búšil do pŕs. S rozkošou pasiem sa zrakom na jeho bledej   tvári. Chladne a vypočítave, ako mäsiar, keď prikladá nôž na hrdlo   bezmocnému prasaťu, dokladám:
+   </tei:p>
+   <tei:p>
+    — Ale sa musí šanovať; je v druhom stave.
+   </tei:p>
+   <tei:p>
+    Usmievam sa mu bezočivo rovno do tvári. Prichodí mi na myseľ, že   možno práve takýmto úsmevom vydráždil ho Jariabek toho večera v   krčme. A táto spomienka sťahuje mi tvár v grimasu ešte   bezočivejšiu.
+   </tei:p>
+   <tei:p>
+    — Tak sbohom, Ondrej; zajtra ti ju pošlem; bielenie nie je práca   pre chlapa.
+   </tei:p>
+   <tei:p>
+    Nemusím vám vravieť, že Ondrej Madluš nikdy chalupu nevybielil.   Nikto sa ani nedozvedel, že sa na to chystal, že sa vrátil z áreštu a   že tej noci prenocoval doma. Večer, keď som sa vracal s Púchalôk od   teliec, videl som zďaleka, že obloky na jeho domci sú znova zavreté.   Odišiel a nikto ho viac u nás nevidel.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

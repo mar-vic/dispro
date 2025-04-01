@@ -1,0 +1,2175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1980969" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Čenkovej deti : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:40174340">
+     Kráľ, Fraňo (1903 - 1955)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     20541
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kráľ, Fraňo
+     </tei:author>
+     <tei:title>
+      Čenkovej deti
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Mladé letá
+     </tei:publisher>
+     <tei:date>
+      1980
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Kráľ, Fraňo
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1932
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     <tei:hi>
+      Čenkovej deti
+     </tei:hi>
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Od matky do sveta
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      Rozprávka pri jazierku
+     </tei:head>
+     <tei:p>
+      Začnime večerom. Tiene súmraku pochovávajú práve obrysy   tatranských grúňov. Sypú sa do údolí, valia sa na les a nebyť   plameňov blčiacej vatry, sotva by sme už videli miesto, na ktorom sa   chceme zoznámiť s Miškom, Hankou, Paľkom, Evičkou a s ich matkou   Zuzanou Čenkovou.
+     </tei:p>
+     <tei:p>
+      Je to rozprávkové zákutie v lesnej húštine. Neďaleko Tatranskej   Lomnice smerom na Smokovec odbočuje od Cesty slobody na juh skromný   chodníček, ktorý nás ta zavedie: keď sa ním pustíme, zamoce nás   najprv do niekoľkých zákrut v sihline popri žblnkotajúcej bystrinke.   No sotva urobíme tristo krokov, chodník nám doslúži. Pred očami   zredne les, zaligoce sa hladina tmavého jazierka a z úbočia za   jazierkom zafľochne na nás ošumelá pivnica.
+     </tei:p>
+     <tei:p>
+      Pred pivnicou zápasia práve plamene ohňa s tmou nastávajúcej noci.   Na pažiti okolo vatry hovie si rodina Čenkovcov. Na pahrebe   v hlinenom hrnci blboce dovárajúca sa plávková polievka a na ražňoch   sa zvíjajú škvrčiace hríby. To sa pripravuje večera pre päť hladných   žalúdkov.
+     </tei:p>
+     <tei:p>
+      Je čarovný večer jedného z dní, aké máva koniec leta. Kŕkavá žaba   odrieka na jazierku posledné slová svojich uspávajúcich otčenášov a   les sa prepadá v tichu. To je čas rozprávok. A pretože život Čenkovej   detí je tvrdý a že ich mladosť nepozná čary, začína Zuzana Čenková   rozprávať rozprávku ozajstnú. «Hej, deti. Len pred nedávnom, pred   krátkym polrokom, žil ešte v neďalekej hájovni hájnik so ženou a   štyrmi deťmi. Bol to dobrý človek. Mal svoju rodinu veľmi rád.   Lopotil sa od rána do noci, len aby ju čo najlepšie uživil. Vykonával   svedomite svoju službu a pracoval hodne i okrem toho, lebo služba len   veľmi málo vynášala. Zaručovala mu byt v hájovni, smel si nabrať v   lese dreva, koľko pre svoju domácnosť spotreboval, a mohol si chovať   kravu na tráve, čo rastie v priekopách popri ceste. To bolo všetko.   Za to však bol mnoho povinný. Musel sa starať o les. Strážiť lesné   ovocie. Chrániť zverinu. Zakladať pre ňu soliská po horách a   vykopávať studničky. A popri iných ešte ťažších povinnostiach musel   byť každú chvíľu pripravený za honca na poľovačku. A to bývalo často.   Či v zime, či v lete; či v čase, či v nečase. Keď si páni z dlhej   chvíle zmysleli na hon, už musel byť pripravený. Bolo to ukrutné. A   najukrutnejšie v poslednú zimu, keď ho štvali niekoľko dní   nepretržite, až padol skrehnutý a vysilený. Následok bol zápal pľúc,   prudká horúčka a o niekoľko dní potom smrť.
+     </tei:p>
+     <tei:p>
+      Hej, dobre nám bolo, kým žil! Hoc bieda bola, hoc nedostatkov bolo   i vtedy dosť, predsa to len nebolo také zlé ako teraz. No sotva   dodýchal náš dobrý otec, prisťahoval sa do hájovne nový hájnik a my,   žobráci, pretože si otec vraj sám zavinil smrť, museli sme zviazať   uzlíček a ísť. Ešte aspoň, že ten nový hájnik má kus srdca a že nám   dovolí na povalôčke tejto opustenej pivnice cez leto bývať! Že môžeme   sa tu aspoň na noc ako lesná zver do svojho brloha utiahnuť! Hej,   spokojní sme aj s tým! Ja chodievam do hotelov schody drhnúť a   dostanem kuchynských odpadkov, že obedúvame ako grófi; vy zasa beháte   lesom, zbierate raždie a huby, že nám môžu závidieť naše večere a   večery všetky rozmaznané pánčatá niekde na pohovkách, ktoré o   takýchto čarovných dobrodružstvách len pri rozprávkach snívajú. Ale   nepôjde nám to už tak dlho. S miznúcim letom mizne i panstvo z   letovísk a ja mám zo dňa na deň väčšiu obavu, že už nebude pre mňa   dosť roboty v hoteloch. S miznúcim letom stráca sa i množstvo lesných   plodov a vy zo dňa na deň navraciate sa s prázdnejším košíčkom. Čo   bude s nami naďalej? Kde sa uchýlime na zimu? Kto sa postará o nás?   Naše remeslá nás zakrátko neuživia. Musíme sa obhliadnuť po iných.   Naučiť sa… Čomu? Kradnúť? Žobrať? Dobre, budeme sa učiť žobrať!   Paľko, ty zajtra skúsiš. Postavíš sa hneď ráno k ceste a budeš   prosiť. Hádam sa zmilujú nad tebou. Si malý, dobrý a pekný chlapček.   A teraz poďme spať. Polievku a hríby ste pojedli. Dobre. Dobrú   noc…»
+     </tei:p>
+     <tei:p>
+      Ozajstná rozprávka prechádza do skutočnosti. Z vatry poletujú   posledné iskričky. Strecha pivnice sa škerí rozzeveným otvorom na   povalôčku. Tam líha na handrách päť ľudí. Päť božích obrazov. Päť   slobodných občanov. Päť žobrákov. Päť výkričníkov do tupých svedomí.   Päť otáznikov budúcnosti. –
+     </tei:p>
+     <tei:p>
+      Dobrú noc…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Roztomilý chlapec
+     </tei:head>
+     <tei:p>
+      Šípkové ruže kúpu sa v pramienkoch rannej rosy. Nad lesom víta   vták východ slnka. Na lešenia novostavieb vystupujú nezrelí chlapci a   dievčatá s prvými nošami malty. Z hotelov uberajú sa páni, panie   a buldogy do parkov na ranné prechádzky. A v priekope pri ceste   skromne žobre štvorročný Paľko: «Pjosím kojunu…»
+     </tei:p>
+     <tei:p>
+      A samá nespokojnosť… Šípkové ruže chceli by viac lupienkov, aby sa   vyrovnali ružiam záhradným. Vták túži po krajšom hlase, aby ešte viac   očaroval. Chlapci a dievčatá stenú pod ťarchou noší. Dámam a pánom   protiví sa Paľkovo žobranie. Buldogy nenávidia zlaté retiazky. A   Paľko svoj hlad. «Pjosím kojunu… pjosím. Som hjadný…»
+     </tei:p>
+     <tei:p>
+      «Ejha, a to je veru veľký pán, ten malý žobráčik! On chce len   koruny! A nebol by ti dobrý takto i šestáčik?»
+     </tei:p>
+     <tei:p>
+      «Pjosím šestáčik… pjosím…»
+     </tei:p>
+     <tei:p>
+      «No, dám ti ho, keď budem mať drobné,» povie láskavý pán a poberá   sa za svojou družinou.
+     </tei:p>
+     <tei:p>
+      «Pjosím šestáčik… pjosím…»
+     </tei:p>
+     <tei:p>
+      «Šestáčikov nemáme. Ale ak si hladný, dáme ti chleba a salámy.   Chceš?» «Pjosím chleba, pjosím salámy, hjadný som…»
+     </tei:p>
+     <tei:p>
+      A Paľko drží v rukách okruštek a veselo zahryzuje. Okolo neho   stojí kruh invalidov, ktorí sú tu v sanatóriu v neďalekých   Tatranských Matliaroch na liečení. Liečia sa z tuberkulózy, ktorú im   spôsobila vojna. Každý z nich drží v ruke balíček chleba a salámy, čo   práve dostali v jedálni pri raňajkách na predobed.
+     </tei:p>
+     <tei:p>
+      «Máš mamičku?»
+     </tei:p>
+     <tei:p>
+      Paľko prikyvuje hlavou, lebo pre plné ústa nemôže hovoriť.
+     </tei:p>
+     <tei:p>
+      «A máš aj bratov a sestry?»
+     </tei:p>
+     <tei:p>
+      Paľko zas prikyvuje.
+     </tei:p>
+     <tei:p>
+      Invalidi pozerajú jeden na druhého. Sem-tam zaleskne sa oko   a zradná slza stečie tvárou. Hádam spomínajú na svoje biedne deti   doma, ktoré tiež hladujú. «A otca máš?»
+     </tei:p>
+     <tei:p>
+      Paľko vrtí záporne hlavou.
+     </tei:p>
+     <tei:p>
+      Tu pristupujú invalidi jeden po druhom a každý skladá svoj balíček   chleba a salámy do Paľkovho náručia. Chlapec sa blažene usmieva. Už   má plné náručie.
+     </tei:p>
+     <tei:p>
+      Už viac ani neunesie…
+     </tei:p>
+     <tei:p>
+      «Tak,» a invalidi so sklonenými hlavami odchádzajú.
+     </tei:p>
+     <tei:p>
+      «Ej, ej, ej, ej,!!» poskakuje si Paľko s nákladom a ponáhľa sa   chodníčkom popri ceste domov, do pivnice.
+     </tei:p>
+     <tei:p>
+      «Áno, manžel môj drahý, toho chrta mi musíš kúpiť! Veď si len   spomeň, ako krásne to bývalo na prechádzkach, kým nám chudáčik Frico   žil! Aké milé to bolo zvieratko a aké vďačné stvorenie! Len čo si naň   pomyslím, slzy sa mi tisnú do očú. Musím mať zaň náhradu!»
+     </tei:p>
+     <tei:p>
+      «Ale, miláčik môj, veď vieš, že by som ti vďačne urobil po vôli,   keby som sa zas neobával ľudských rečí. Pováž len, čo by na to   povedali moji robotníci, ktorým sa každú chvíľu vyhováram, že mám i   ja biedu. Čo by si o nás pomysleli, keby sme chovali chrty a angorské   mačky, zatiaľ čo ich deti hladujú?» «Ale daj mi s tým pokoj! Čo ma je   po ich povedačkách?»
+     </tei:p>
+     <tei:p>
+      «No, nie tak, žienka. Viem, že ti je smutno v živote, že nemáme   deti. Veď i mne, čím viac starnem, tým viac chýba nejaký ten synček   alebo dcéruška. Ale pozri, čo keby sme si vzali za svoje niektoré   z osirených alebo opustených deťúreniec?»
+     </tei:p>
+     <tei:p>
+      «Nejaké usmrkanča, ufúľanča, zasoplenča špinavé, nie?»
+     </tei:p>
+     <tei:p>
+      «Nie, veď niektoré deti sú i pekné, keď sa umyjú. Aha, hľaď len, i   tu ide oproti nám krásny rusovlasý parobček. Len pozri, pozri, aký je   roztomilý s tým svojím bremenom!»
+     </tei:p>
+     <tei:p>
+      «No, ten by sa mi páčil! Kúpiš mi ho?»
+     </tei:p>
+     <tei:p>
+      A Paľkovi zastupuje chodník pán továrnik so svojou paňou…
+     </tei:p>
+     <tei:p>
+      «Jaj, už nevjádzem!»
+     </tei:p>
+     <tei:p>
+      «A kde sa ponáhľaš, chlapče?»
+     </tei:p>
+     <tei:p>
+      «Domov.»
+     </tei:p>
+     <tei:p>
+      «A číže si?»
+     </tei:p>
+     <tei:p>
+      «Náš.»
+     </tei:p>
+     <tei:p>
+      «No hej, ale ako ťa volajú?»
+     </tei:p>
+     <tei:p>
+      «Pajko.»
+     </tei:p>
+     <tei:p>
+      «A tvojho otecka?»
+     </tei:p>
+     <tei:p>
+      «Tí umjeji.»
+     </tei:p>
+     <tei:p>
+      «Umrel? Hm. A kde býva mamička?»
+     </tei:p>
+     <tei:p>
+      «Tam,» ukazuje Paľko do lesa smerom na pivnicu.
+     </tei:p>
+     <tei:p>
+      «Ale veď tam niet nijakého domu!» A pána továrnika začína vec viac   a viac zaujímať. «Vezmeš nás so sebou domov?»
+     </tei:p>
+     <tei:p>
+      «Hej, jen si tjochu oddýchnem.»
+     </tei:p>
+     <tei:p>
+      Pán sa usmieva a usmieva sa i pani. Pomáhajú Paľkovi zbierať   balíčky zo zeme, ukladajú mu ich zas do náručia a už sa aj uberajú   zákrutami chodníčka popri bystrinke za Paľkom k jeho domovu.
+     </tei:p>
+     <tei:p>
+      «Tu je bajinka, skočte, takto!» ukazuje Paľko a poučuje svojich   hostí.
+     </tei:p>
+     <tei:p>
+      «Ten je roztomilý! Kúpiš mi ho? Kúpiš? Oj, kúp, kúp, ja sa budem s   ním hrať ako s mačiatkom! Nechcem už chrta, aj angorské mačky môžeš   popredať, len mi toho chlapčeka kúp!» šepká manželovi roztúžená pani   továrnička…
+     </tei:p>
+     <tei:p>
+      «No, už sme doma,» zastavuje sa Paľko pred pivnicou a zosýpa   náklad na zem. «Ako? Tu? Vari tu len nebývate?…»
+     </tei:p>
+     <tei:p>
+      «Ba veju, tu. Tu bývame. Aj mama, aj Miško, aj Hanka, aj majá   Evička, aj ja.»
+     </tei:p>
+     <tei:p>
+      «Ale, ale…» jachcú zarazení Paľkovi hostia. «No, a kde máš   mamičku? Zavolaj ju!»
+     </tei:p>
+     <tei:p>
+      «Nie sú doma. Pjídu jen na obed. Išji do hoteja schody   djhnúť.»
+     </tei:p>
+     <tei:p>
+      Dáma sa díva na hodinky. «Je pol jedenástej. Mohli by sme   počkať.»
+     </tei:p>
+     <tei:p>
+      «Dobre. Zatiaľ si prezrieme toto čarovné zákutie.»
+     </tei:p>
+     <tei:p>
+      «Paľko, neukázal by si nám, kde spávate?»
+     </tei:p>
+     <tei:p>
+      «Ba hej. Tuto,» ukazuje Paľko od strechy pivnice roztvorenými   dvierkami na štíte.
+     </tei:p>
+     <tei:p>
+      «A to si ani nezamykáte – či – či – áno – áno – načo by ste   zamykali, veď na tú hromádku sena a handár sa iste nikto   neulakomí…»
+     </tei:p>
+     <tei:p>
+      Naraz počuť z lesa detský krik a plač.
+     </tei:p>
+     <tei:p>
+      «Čo to?»
+     </tei:p>
+     <tei:p>
+      «To náš Miško a Hanka a Evička sa navjacajú z hoji,» vysvetľuje   Paľko, podskočí, a už je medzi stromami v ústrety svojim   súrodencom.
+     </tei:p>
+     <tei:p>
+      Mišo má na chrbte batoh raždia. Hanka poldruharočnú Evičku a obaja   okrem toho nesú v rukách uzlíky s hubami. Evička plače, že je hladná   a že s ňou pred chvíľou spadla Hanka, keď sa potkla na peň.
+     </tei:p>
+     <tei:p>
+      «Ste hjadní, však? A ja vojačo mám!»
+     </tei:p>
+     <tei:p>
+      «Čo!»
+     </tei:p>
+     <tei:p>
+      «Vojačo… Vojačo… Hádajte!» vyzýva Paľko, bežiac k hromade svojich   balíčkov, aby ich nejak zakryl. No jeho dlane sú primalé, a preto je   Mišovi ľahko zistiť cez priesvitný mastný papier obsah balíkov.
+     </tei:p>
+     <tei:p>
+      «Ej, daj mi jeden… Daj nám jeden…»
+     </tei:p>
+     <tei:p>
+      «Dám, aje jen jeden! Ostatné dám mame, keď pjídu!»
+     </tei:p>
+     <tei:p>
+      Deti si sadajú na trávnik. Každé túžobne očakáva, kým Paľko   rozbalí balíček. Nevšimnú si, že sa na nich díva štvoro vyjavených   cudzích očí. Veď ony sú tu doma! A Paľko rozbaľúva. Akosi mu to   nejde. Ruky sú ešte neobratné. Ale oči žiaria šťastím. Je pyšný, že   môže byť chlebodarcom. Povznesene podáva úlomky chleba a kolieska   salámy svojim súrodencom.
+     </tei:p>
+     <tei:p>
+      Deti jedia, žujú, hlcú a ani nespozorujú, že stojí nad nimi už ich   matka. Navrátila sa prv ako obyčajne. Díva sa smutne, zadumane.   V rukách drží rožky zástery. V nej má okrušky uschnutého chleba,   neohryzené koštiale a zvyšky iných jedál. To je jej posledný zárobok.   Zajtra už nepôjde do roboty. Už ju nepotrebujú. A preto sa tak smutne   díva na svoje štyri deti. Ani si neuvedomuje, že ony sú teraz   šťastné, pretože prehltujú práve chutný pokrm. Je ustaraná, zúfalá,   lebo v jej mozgu víri hrozná otázka: čo ďalej? Čím nasýti zajtra   hladné žalúdky? Čím pozajtre? Ach, život, život!… A tá hnusná   nespravodlivosť v ňom! Prečo jej deti majú hladovať, keď inde je   prebytok? Ale veď nehladujú… Hľa, ako sa sýtia… Ako sa blažene   usmievajú… Aké sú šťastné…
+     </tei:p>
+     <tei:p>
+      «Deti! Deti moje!…»
+     </tei:p>
+     <tei:p>
+      «Aha, mama! Už ste prišli?»
+     </tei:p>
+     <tei:p>
+      «Prišla… A čože to jete? Kto vám to dal?»
+     </tei:p>
+     <tei:p>
+      «To som ja pjiniesoj,» chváli sa Paľko.
+     </tei:p>
+     <tei:p>
+      «Ale odkiaľ? Kto ti dal?»
+     </tei:p>
+     <tei:p>
+      «No, tí ujovia tam v Matjiajoch…»
+     </tei:p>
+     <tei:p>
+      «Invalidi,» vysvetľuje pán továrnik a približuje sa z ústrania,   kde pozoroval dosial so svojou paňou celý rodinný výjav, aby sa teraz   mohol zapliesť do rozhovoru. «Áno, invalidi mu to iste dali… Tí sa   tam liečia z tuberkulózy…» A tu sa zarazí, aby po chvíli vykríkol:   «Preboha! To by ste nemali dať jesť tým deťom! Veď tuberkulóza je   nákazlivá choroba! Nakazia sa… Ochorejú…» «Nedajte im to!» zakazuje   pani továrnička. «Dajte im radšej mliečka, hovädzej polievky im   navarte, krupicovej kaše, alebo…»
+     </tei:p>
+     <tei:p>
+      «Alebo?» pýta sa uštipačne Zuzana Čenková.
+     </tei:p>
+     <tei:p>
+      «Nuž, hoci nejaký iný pokrm, zdravý pre deti…»
+     </tei:p>
+     <tei:p>
+      «Alebo – koštialov na ohrýzanie. Sú dobré, včerajšie, ešte   nesmrdia…» ironizuje zúfalá matka. «Deti, jedzte, najedzte sa! Dnes   ešte máte čoho!…» a sype obsah zástery na pažiť.
+     </tei:p>
+     <tei:p>
+      «A zajtra?»
+     </tei:p>
+     <tei:p>
+      «A zajtra? Na pašu ich vyvediem…»
+     </tei:p>
+     <tei:p>
+      «Počujte, suseda, nerozhorčujte sa! My by sme vám chceli pomôcť…»   «Dáte mi almužnu? Či ma naučíte kradnúť?»
+     </tei:p>
+     <tei:p>
+      «Ste bláznivá. Veď s vami hovoríme vážne. Chceme, aby ste nám   dali, či predali jedno dieťa… Paľka…»
+     </tei:p>
+     <tei:p>
+      Zuzana Čenková obracia zrak na továrnika. Meria si ho i jeho ženu   od hlavy po päty. Pohľad má strnutý, svaly na tvári jej sťahuje   trpkosť a z úst jej vylieta hrozný výkrik: «Hah, ktovie, kto ste a čo   chcete urobiť s mojím dieťaťom!» «Ale, suseda, suseda, upokojte sa a   dôverujte nám. Sme majitelia továrne z neďalekého mestečka L. Veď náš   závod tam hádam i poznáte. Nemusíte mať nijaké obavy. Zmýšľame s vami   úprimne. Sme majetní a bezdetní. Nuž chceli by sme si vziať nejakého   chlapčeka za svojho. Veď ak nebudete chcieť, nemusí to byť práve váš   Paľko. Je dosť chudobných detí a ľudia, čo nás poznajú, iste nám   hociktoré z nich vďačne zveria. U nás mu bude dobre. Bude žiť v   hojnosti a prepychu. Ostatne, ak neveríte, môžete sa i na vlastné oči   presvedčiť. Ak sa vám páči, sadneme ešte dnes do nášho auta a o   niekoľko minút sme všetci u nás. Nuž, chcete?»
+     </tei:p>
+     <tei:p>
+      «Nuž, no, veď… ja… ja…»
+     </tei:p>
+     <tei:p>
+      «My len preto, že Paľko sa nám veľmi zapáčil. A nechceme vám ho   zadarmo. Dáme vám za neho tisíc korún.»
+     </tei:p>
+     <tei:p>
+      «Tisíc korún!… Predávam dieťa?…» Čenková si chytá hlavu do dlaní.   «Nechápem… neviem…»
+     </tei:p>
+     <tei:p>
+      «No, len sa upokojte a premyslite si to… Ak súhlasíte, iste   neobanujete.
+     </tei:p>
+     <tei:p>
+      O chlapca sa postaráme ako o vlastného. Odvezieme si ho ešte dnes   a i vás vezmeme, aby ste videli, komu a kde si dieťa zverujete. Tak…   Tu je tisícka…»
+     </tei:p>
+     <tei:p>
+      «Tisícka!… Paľko!… Odev… Obuv… Strava… Kde zarobiť? Kde vziať?…   Zima príde… Hlad…»
+     </tei:p>
+     <tei:p>
+      Podlhovastá sivá štátovka dotýka sa chvejúcej sa mozoľnatej   ruky.
+     </tei:p>
+     <tei:p>
+      Paľko je predaný.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Tisícka
+     </tei:head>
+     <tei:p>
+      Tisícka býva dosť veľkým peniazom, aby upokojila svedomie   zámožných darcov, že vykonali svoju sociálnu povinnosť.
+     </tei:p>
+     <tei:p>
+      Tisícka býva dosť veľkým peniazom, aby jej darcov vyhlásili za   šľachetných dobrodincov.
+     </tei:p>
+     <tei:p>
+      Tisícka býva dosť veľkým peniazom, aby pred oči chudákov nasnovala   plány prekrásnej budúcnosti bez biedy, bez hladu a bez   nedostatkov.
+     </tei:p>
+     <tei:p>
+      Ale tisícka je pramalým platidlom, keď sa pokúsi niektorý z týchto   šťastných chudákov
+      <tei:emph>
+       (čo ju náhodou dostane)
+      </tei:emph>
+      i len časť   svojich vyčarených plánov uskutočňovať.
+     </tei:p>
+     <tei:p>
+      Zuzana Čenková je takým šťastným chudákom. Vyprevadila práve   svojho Paľka do jeho nového krásneho domova a teraz stojí na námestí   pred výkladmi, plnými šatstva, obuvi a pokrmov. Oči sa jej pasú v   bohatstve, v dlaniach zviera drahocenný papier a mysľou jej víria   výpočty. Odhodláva sa na nákup. Vchádza do obchodu.
+     </tei:p>
+     <tei:p>
+      «Dobrý deň prajem.»
+     </tei:p>
+     <tei:p>
+      «Čím môžem poslúžiť?»
+     </tei:p>
+     <tei:p>
+      «Štyri páry čižiem a látku na štvoro šiat.»
+     </tei:p>
+     <tei:p>
+      Obchodní pomocníci znášajú, vychvaľujú, ponúkajú a Zuzana Čenková   vyberá, skúša a odhaduje, ktorá vec pre ktoré dieťa bude práve dobrá,   dostatočne veľká, trváca a dosť teplá. Dlho jej trvá výber. Dlho   uvažuje, kým sa rozhodne. Napokon pristupuje k pokladnici. Platí.   Ruky sa jej trasú, keď sa rozlučuje so sivou tisíckou. Navracajú jej   toľko, koľko je tisíc bez päťsto tridsaťdeväť. Odchádza. Objemný   balík zväzuje si do obrúska. Ten jediný jej zostal z celého bývalého   hospodárstva v hájovni. Ostatné veci rozpredali jej veritelia, sotva   muža pochovala. Bolo treba vyplatiť dlhy za lekára, za lieky i za   pohreb. Zostal teda zachránený len jeden obrúsok a niekoľko   nepredajných handár. To je všetko.
+     </tei:p>
+     <tei:p>
+      Hej, tisícka je nepatrná hodnota v rukách baviaceho sa boháča, ale   stáva sa ešte nepatrnejšou sumou, keď sa ňou chce zachrániť zbedačená   rodina! Niekoľko párov obuvi, trochu šiat a na niekoľko týždňov   chatrná strava pre štyri žalúdky zahladí aj najmenšiu stopu po jej   jestvovaní. Ešte len prvý raz hrá sa príroda na vojnu mlynárov, a už   si Zuzana Čenková od zúfalstva trhá vlasy, že nemá viac čím nasýtiť   skuhrajúce deti.
+     </tei:p>
+     <tei:p>
+      Pod nohami vŕzga sneh, akoby sa posmieval jej úbohosti. Peniaze sa   minuli. Sú dva mesiace po lete.
+     </tei:p>
+     <tei:p>
+      Na strechu pivnice klope zima.
+     </tei:p>
+     <tei:p>
+      Gerlachovku, Kriváň, Lomnický štít i ostatné končiare Tatier   premenila už na cukrové homole. Teraz zasýpa les. Lyžiari sa tomu   tešia. Hmýria sa okolo Štrbského Plesa, okolo Hágov, Smokovcov,   Polianky, Tatranskej Lomnice i vôkol ostatných tatranských   sídlisk.
+     </tei:p>
+     <tei:p>
+      Sú spití krásou krištáľovej beloby nového snehu.
+     </tei:p>
+     <tei:p>
+      Len Čenková ju vidí šedivo. Pre ňu je to strašná príšera   neodvratnej skazy. Posledné haliere sa minuli. Príroda i s jej darmi   líha pod sneh. V streche je zima. Kúriť tu nemožno. Deti sa trasú   a pýtajú jesť. Je z toho zúfalá.
+     </tei:p>
+     <tei:p>
+      Modlí sa – nik ju nevyslyší. Nadáva – nik sa nebúri. Prosí – nik   nič nedáva. Nuž chytá sa vlastného rozumu. Oddáva sa na samospásu.   Chápe sa posledného prostriedku…
+     </tei:p>
+     <tei:p>
+      V NOVINÁCH ČÍTAME TÚTO POBURUJÚCU SPRÁVU:
+     </tei:p>
+     <tei:p>
+      Do mestečka L. prišla chudobná matka s dvoma deťmi. Postavila sa   na trhu a ponúkala svoje deti na predaj…
+     </tei:p>
+     <tei:p>
+      Poznáme ju. Stojí tam opretá o telegrafný stĺp a k nej sa túlia   Miško s Hankou. Matka ich chce predať. Nie preto, že by ich azda   nemala rada, ale práve preto, že ich má veľmi rada. Jej materinské   srdce nemôže už zniesť utrpenie nevinných detí. Preto sa ich radšej   vzdáva. Ponúka ich na kúpu alebo darom, len aby im zaopatrila niekde   teplý kútik ako Paľkovi, aby nemuseli zahynúť od hladu a zimy. Jej   zostane ešte najmladšia Evička. Veď i s ňou bude mať dosť trápenia   cez zimu. Ale dúfa, že s jedným dieťaťom ju predsa len skôr niekde   pritúlia. Veď bude robiť ako otrok. Nuž, stojí tu vycivená a mĺkvym   hlasom ponúka svoj živý tovar.
+     </tei:p>
+     <tei:p>
+      «Milostivý pán, kúpia si… vezmú si detičky…»
+     </tei:p>
+     <tei:p>
+      «Milostivá pani, kúpia si… vezmú si detičky…»
+     </tei:p>
+     <tei:p>
+      Ale milostiví páni a milostivé panie prechádzajú bez povšimnutia.   Niet medzi nimi nikoho, kto by potreboval namiesto chrta a angorských   mačiek dieťa za hračku. Čenkovej i posledná nádej troskoce. V očiach   sa jej stmieva. Hlava jej treští. Srdce puká. Nohy sa podlamujú. A   nik si ju nevšíma…
+     </tei:p>
+     <tei:p>
+      Či predsa niekto? Je ešte človek s citom? Ba je! Ba je! Hľa, už   prichádza… Už sa blíži… Už sa prihovára…
+     </tei:p>
+     <tei:p>
+      «Čo vy tu postávate? Aké to kšefty? Pôjdete so mnou na úrad!»
+     </tei:p>
+     <tei:p>
+      Je to policajt.
+     </tei:p>
+     <tei:p>
+      Čenková nevzdoruje. Pokorne kráča. Poslúcha. Ide. Jej je to jedno.   Ani si neuvedomuje, čo sa s ňou robí. Je vysilená. Klesla by, keby ju   z jednej strany nepodopieral Miško a z druhej Hanka. Vedú si mamičku.   Policajt ich nasleduje.
+     </tei:p>
+     <tei:p>
+      «Tam, po tých schodoch, do druhých dverí!» zneje rozkaz.
+     </tei:p>
+     <tei:p>
+      Želanie stáva sa skutkom.
+     </tei:p>
+     <tei:p>
+      Policajt oznamuje príchod potulujúcej sa ženy, ktorá ponúkala na   námestí svoje deti na predaj. Priviedol ju i s tovarom.
+     </tei:p>
+     <tei:p>
+      «Prečo nepredávate radšej iné veci? Ale deti! Veď je to nemravné a   zakázané! Musíte vedieť, že obchod s ľuďmi je protizákonný! Na to   máme paragrafy!» vyzvedá, vyšetruje, poúča a vyhráža úradník. «Musíme   vás oddať súdu.» «Súdu?!»vykríkne žena, uvedomiac si toto strašné   slovo, a preberá sa z mdlôb. «Súdu? Pre Krista Ježiša! A za čo?»
+     </tei:p>
+     <tei:p>
+      «Že obchodujete s deťmi.»
+     </tei:p>
+     <tei:p>
+      «Ja s nimi neobchodujem! Ja ich ponúkam zadarmo! Chcem ich   zachrániť! Lebo ak tak neurobím, zahynú od zimy a hladu!»
+     </tei:p>
+     <tei:p>
+      «Ale, ale, ale, ale! Že zahynú od zimy a hladu! Akože môžu zahynúť   od zimy a hladu? Veď máme sociálnu starostlivosť o deti!»
+     </tei:p>
+     <tei:p>
+      Tak sa Mišo s Hankou dostávajú pod ochranu sociálnej   starostlivosti o mládež. Ale čo s nimi? Útulňa v Košiciach je   preplnená. Kde ich dáme? Nuž, pošleme ich Krajinskej starostlivosti o   mládež v Bratislave. Nech si tam poradia!
+     </tei:p>
+     <tei:p>
+      A Zuzana Čenková navracia sa samotná k Evičke do strechy   pivnice.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Vo vlaku
+     </tei:head>
+     <tei:p>
+      Na stanici je rušno ako vždy. Vlaky prichodia, zastavujú sa,   odchodia. Ľudia sa vítajú i lúčia. Smejú sa i vzlykajú. Slzí starček,   vyprevádzajúci svoje deti do šíreho sveta za zárobkom, a plače   starenka, ktorej jediného syna, jedinú oporu v starobe, unáša práve   rušajúci sa vlak, aby šiel slúžiť za vojaka.
+     </tei:p>
+     <tei:p>
+      Železničiari majú plné ruky práce. Posunujú vagóny, vyraďujú ich a   zas zaraďujú do nových vlakov. Práve vyprázdnili stredné koľajnice.   Na východnej strane zdvíha sa semafor. To dáva znak, že je voľná   cesta pre vchod vlaku, ktorý dochádza od Košíc.
+     </tei:p>
+     <tei:p>
+      Do čakárne vstupuje vrátnik. Zvoní zvoncom a volá:«Ružomberok,   Kraľovany, Vrútky, Žilina, Bratislava – osobný vlak je na druhej   koľaji – nastupovať!» «To je náš! Poďte!» hovorí sprievodkyňa Mišovi   a Hanke.
+     </tei:p>
+     <tei:p>
+      Deti idú. Pozorne sledujú každý krok svojej sprievodkyne. Veď ony   sa ešte nikdy neviezli na vlaku. A teraz pôjdu tak ďaleko. Do   Bratislavy… Ach, ako čudne sa cítia! Ba, čo ich len tam v tom   neznámom svete očakáva? «Popradská kyslá voda – víno, pivo, slanina,   saláma, čokoláda…» pokrikuje predavač a ponúka svoj tovar   cestujúcim.
+     </tei:p>
+     <tei:p>
+      «Nastupovať! Nastupovať! Chytro! Chytro!» súria sprievodcovia   vlaku.
+     </tei:p>
+     <tei:p>
+      «Hotovô!»
+     </tei:p>
+     <tei:p>
+      Hvizd píšťaliek, ohlas trúbky, zasyčanie pary rušňa, trhanie   vozňov, a Mišo s Hankou s úžasom v okne vlaku pozorujú, že stanica sa   začína hýbať, že uteká od nich niekde dozadu, stráca sa, kape   z dohľadu… A nielen stanica kape a ľudia a železničiari! Hľa,   i stromy pri ceste utekajú, i polia, i lúky, i hory… všetko sa to   mihá, mrví, pohybuje! Čo sa to robí? Ha! – a oni stoja a ich   sprievodkyňa dokonca tu sedí na lavici!… Joj, to je divné v tom   vlaku!…
+     </tei:p>
+     <tei:p>
+      Rušeň spieva, kolesá tancujú a všetko drumbľuje akúsi prečudesnú   nôtu: tra-ta-ta – ta-ta, – tra-ta-ta – ta-ta… ta-ta…
+     </tei:p>
+     <tei:p>
+      V okne sa mihne vŕba, dom, ploty, dedina… Na severnej strane   defilujú grúne panorámy Vysokých Tatier, na juhu sa naháňajú výbežky   vrchov Slovenského Rudohoria a medzitým letia priestory a plahočia sa   pláne zasnežených lúk a polí.
+     </tei:p>
+     <tei:p>
+      Raz-dva stíchne rušeň, zaškrípu hamovky, postoja kolesá. Niekoľko   ľudí vystúpi, niekoľko vstúpi.
+      <tei:emph>
+       «Zbohom»
+      </tei:emph>
+      a
+      <tei:emph>
+       «Dobrý   deň».
+      </tei:emph>
+      Zastávky miznú. A už vlak dochádza na najvyšší bod   železníc na Slovensku, na štrbskú stanicu. Leží 901 m nad morom. Z   nej sa vystupuje na Štrbské Pleso.
+     </tei:p>
+     <tei:p>
+      Raz-dva, a už druhá hodina cestovania pasie oči našich detí na   krásach i biede chudobného Liptova. Tam spína k oblohe ohorené kýpte   povestný Važec. Tu sa krčí k zemi v horách bačova koliba. Tam kľaje   svojim volom nazlostený mládenec. Tu chrčí pod nošou haluziny   starena. «Hej, pod Kriváňom, tam je krásny svet!…»
+     </tei:p>
+     <tei:p>
+      A Váhy rovnako bublajú. Biely si skacká spod Kriváňa a Čierny sa   vlečie spod Kráľovej hole. Pod železničným mostom v Kráľovej Lehote   sa zlievajú v jediný Váh, ktorý sa nám stáva spolucestovateľom na   ceste do Bratislavy. «Hanka, pozri, pozri, to je dosák!» upozorňuje   Mišo na píly v Liptovskom Hrádku. «A hľaď len, čo to robia s drevom   chlapi vo vode?!»
+     </tei:p>
+     <tei:p>
+      «To zbíjajú pltníci plte,» vysvetľuje sprievodkyňa. «O chvíľu   uvidíte, ako plávajú plte vo Váhu.»
+     </tei:p>
+     <tei:p>
+      «Aha, a to sú vysoké vrchy, skoro ako Tatry!…»
+     </tei:p>
+     <tei:p>
+      «Veď i to sú Tatry, ale tieto sa menujú Nízke Tatry. Tamten vrch v   pozadí sa volá Ďumbier, to je najvyšší grúň v Nízkych Tatrách.»
+     </tei:p>
+     <tei:p>
+      «A kde je Kráľova hoľa?» spomína Mišo na učivo zo školy.
+      <tei:emph>
+       (On   totiž, kým mu otecko žil, chodil po nejaký čas i do školy.)
+      </tei:emph>
+      «Tam sa zdržiaval Jánošík!»
+     </tei:p>
+     <tei:p>
+      «Kráľovu hoľu odtiaľto nevidieť, ale pozrite do náprotivného okna   na sever, tam uvidíte Liptovské hole!»
+     </tei:p>
+     <tei:p>
+      «Hí! To je komínov! Aké je to mesto?»
+     </tei:p>
+     <tei:p>
+      «To je Liptovský Svätý Mikuláš. Býval jedným z naj   priemyselnejších miest na Slovensku, ale teraz jeho továrne-garbiarne   stoja. Pozrite, z komínov sa nedymí. Sú to len mŕtve pomníky.»
+     </tei:p>
+     <tei:p>
+      «Ozaj, tuná to obesili páni Jánošíka?»
+     </tei:p>
+     <tei:p>
+      «Tu. Stalo sa tak na jar v roku 1713.»
+     </tei:p>
+     <tei:p>
+      A vlak syčí, hrkoce a uháňa krásnym Považím ďalej a ďalej. Slamené   a šindľové strechy domčekov tisnú sa do kôpok ako kurčatá do   kŕdlikov. To sú považské dediny. Plazia sa povedľa železnice ako   bojazliví psici.
+     </tei:p>
+     <tei:p>
+      Sme v Ružomberku. Zastavujeme sa chvíľočku zrakom na tunajších   papierňach a na textilke v neďalekom Rybárpoli a už zas letíme ďalej   na západ, aby sme zavolali na jednu z najchudobnejších dediniek   Liptova: «Gombáš, chleba nemáš!» Nemá, veru nemá…! Veď kdeže by ho i   vzal! Ľala, políčka porozprestierané po úbočiach hôr ako obrúsky,   ktorými zastierame stôl! Hej, namojveru, o nič nie sú väčšie! A tá   ich pôda – číry kameň! Tu sa motykami orie a na chrbtoch zváža. A   predsa je tu tak krásne!
+     </tei:p>
+     <tei:p>
+      «Kraľovany! Na Oravu prestupovať!» hlási sprievodca.
+     </tei:p>
+     <tei:p>
+      «Deti, nie ste hladné? Už sa tri hodiny vezieme…»
+     </tei:p>
+     <tei:p>
+      Deti sa dávajú do jedla. Sprievodkyňa totiž pamätala, že na dlhšiu   cestu vlakom nestačí len kúpiť si cestovný lístok, ale že sa treba   poriadne zásobiť i jedlom. V jednej ruke okruštek chleba a v druhej   hrnček mlieka. Mišo sa chce práve prvý raz napiť, keď sa mu vtom   zotmie pred očami a on od strachu vykríkne. I Hanka sa tej tmy ľaká,   ruky sa jej trasú a hrnček sa váľa pod lavicou. «Čo to? Jój! Tu je   tma! Do pekla letíme! Do pekla! Ratujte!» kričia nastrašené deti.   A sprievodkyňa ich len veľmi ťažko utišuje, aby sa nebáli, že veď to   je jask, tunel, do ktorého práve vošiel vlak, a že budú o chvíľu zasa   na svete.
+     </tei:p>
+     <tei:p>
+      Vlak vychádza z jasku, deti sa upokojujú, ale teraz sa musia zas   červenať zahanbením, lebo všetci spolucestujúci sa dívajú na ne   a usmievajú sa. Jaj, ako zle je takému neskúsenému!
+     </tei:p>
+     <tei:p>
+      Sú v záhradke Slovenska. Tak sa volá tento kraj. Je ozaj ako   záhradka. Okolité pohoria nahrádzajú ploty. Hriadkami sú lány oráčiny   a lúky.
+     </tei:p>
+     <tei:p>
+      «Vrútky! Na Turčiansky Svätý   Martin-Zvolen-Plešivec-prestupovať!»
+     </tei:p>
+     <tei:p>
+      Tu odbočuje od košicko-bohumínskej železnice iná hlavná trať na   juh Slovenska.
+     </tei:p>
+     <tei:p>
+      Ešte niekoľko zastávok, veľkolepý pohľad na zrúcaniny Strečna,   polhodinka cesty, a vlak oddychuje v Žiline. Žilina má veľkú stanicu,   lebo je železničným uzlom. Odtiaľto sa rozbiehajú železnice na všetky   strany Slovenska. Na Čadcu, na Bratislavu, na Rajec, na Košice.
+     </tei:p>
+     <tei:p>
+      Bratislavský vlak postupuje ďalej Považím. Len smer pozvoľna mení.   Obracia sa na juhozápad. Je to trenčianske Považie. Prvým mestečkom   je tu Bytča so známym drotárskym údolím. Aha, i teraz vstupujú do   vlaku mladí drotárici. Tisnú sa so svojimi krošňami do oddelenia, v   ktorom cestujú Mišo s Hankou.
+     </tei:p>
+     <tei:p>
+      «Kde sa sem hrniete, veď vidíte, že tu niet miesta!» oboruje sa na   nich akýsi pán vo vyšívanej slovenskej košeli.
+     </tei:p>
+     <tei:p>
+      «No len sa nám už pomknite, veď i my musíme do sveta!»
+     </tei:p>
+     <tei:p>
+      «Bodaj by ste ta radšej nechodili! Iba nám hanbu v ňom robíte!   I toť sa písalo v novinách, ako sa museli za vás poriadni Slováci   hanbiť, keď ste sa potĺkali po Prahe!»
+     </tei:p>
+     <tei:p>
+      «Nuž, a či je radosť potĺkať sa svetom? Či by sme my radšej   nesedeli pri práci doma? I potĺkať sa musíme, i hladujeme! Prečože sa   teda nepostarajú o nás tí poriadni Slováci, čo sa za nás hanbia pri   prechádzkach pražskými ulicami? Prečo nás nechajú hladom žobrať, keď   oni sú napapkaní?»
+     </tei:p>
+     <tei:p>
+      Mišovi sa drotárici ukrutne páčia. Súhlasí s nimi a hneď by sa   šiel za nich hoc i biť. Hej, tak je to! Pravdu majú! A hneď sa k nim   približuje, aby nadviazal priateľstvo.
+     </tei:p>
+     <tei:p>
+      A teraz plynú hodiny… Vlak míňa kraj, míňa dediny, míňa mestá… Tam   je už Ilava so svojou väznicou… Tam je Trenčín s rumami hradu na   skale, o ktorej jeho najmocnejší vládca Matúš Čák povedal: «Z   trenčianskej skaly vody a z môjho oka slzy nedobyješ!…»Tam Nové Mesto   nad Váhom, tam Piešťany so svojimi svetovými kúpeľmi, tam Trnava s   parádnymi kostolmi a s biednym školstvom…
+     </tei:p>
+     <tei:p>
+      Zvečerieva sa.
+     </tei:p>
+     <tei:p>
+      Vlak uháňa vínorodým krajom popod úpätie vápencových Malých   Karpát. Modra – Pezinok – Rača…
+     </tei:p>
+     <tei:p>
+      V oknách sa ligocú ružence svetiel.
+     </tei:p>
+     <tei:p>
+      Bratislava!
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Mišo
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      Prípovedné
+     </tei:head>
+     <tei:p>
+      «Chlapci!»
+     </tei:p>
+     <tei:p>
+      «No?»
+     </tei:p>
+     <tei:p>
+      «Viete, čo nového?»
+     </tei:p>
+     <tei:p>
+      «Zabil krivý čaptavého?»
+     </tei:p>
+     <tei:p>
+      «To nie, ale na našej ulici máme nového čučmáka! Obuvník Kasper ho   niekde vypriadol. Volá sa Mišo. Videl som ho už…»
+     </tei:p>
+     <tei:p>
+      «A čo je zač?»
+     </tei:p>
+     <tei:p>
+      «No taký mumaj dedinský.
+     </tei:p>
+     <tei:p>
+      «Ba kde ho len Kasper zohnal? Veď už vyše roka nemal nijakého   učňa!»
+     </tei:p>
+     <tei:p>
+      «A ktože by aj bol u takého majstra za učňa?! Deti čičíkať,   zemiaky škrabať, dlážku drhnúť, pod pecou spávať a hladovať – to môže   každý aj u mamy!» «A výprask predsa len sladšie zlizneš, keď je od   otcovej bakule, ako keď ti ho má narezať šusterský lápsik!»
+     </tei:p>
+     <tei:p>
+      «Ach, chudák Mišo!»
+     </tei:p>
+     <tei:p>
+      «Len odkiaľ prišiel?
+      <tei:emph>
+       »
+      </tei:emph>
+     </tei:p>
+     <tei:p>
+      «To ho iste zas tá sociálna starostlivosť odkiaľsi doviedla. Ona   sa stará o osirelé a opustené deti. Aj Ondra Valku, čo sa hen u   Leicha za zámočníka učí, zobrala niekde na dedinskej ceste a dala ho   sem na remeslo.»
+     </tei:p>
+     <tei:p>
+      «Chudák Mišo.
+     </tei:p>
+     <tei:p>
+      «Je iste sirota.»
+     </tei:p>
+     <tei:p>
+      «Ale prípovedné mu zato dáme»
+     </tei:p>
+     <tei:p>
+      «No pravdaže! Veď by inak ani nesmel do nášho cechu!»
+     </tei:p>
+     <tei:p>
+      «Dnes je nedeľa. Možno majster aj jeho pustí na chvíľu von, ako   pustili nás naši majstri. Čo, nepôjdeme ho vyhľadať?»
+     </tei:p>
+     <tei:p>
+      «Poďme!»
+     </tei:p>
+     <tei:p>
+      Mišo stojí prihrbený v kútiku pod starou bránou jedného   z dvestoročných domov. Je to na Mikulášskej ulici bratislavskej   štvrte, ktorú nazývajú Židovňou, ale správnejší názov pre túto štvrť   by bol iste
+      <tei:emph>
+       «Chudobeň».
+      </tei:emph>
+      Ani na pravé poludnie s lampášom   v ruke by ste tu nenašli zámožného človeka! Len zúfalá bedač škerí na   vás zuby z každého kúta tohto hniezda.
+     </tei:p>
+     <tei:p>
+      Mišo stojí pritisnutý k ošarpanému múru. Ruky má vo vreckách   nohavíc a očami blúdi v ruchu nedeľnej ulice. Prechádzajú chlapi,   prechádzajú ženy, prechádzajú deti. Mišo sa díva, pozerá, hľadá, ale   nikoho tu nenachádza. Niet tu jeho matky, niet súrodencov, niet   nikoho známeho. Len cudzí, chladní, nevšímaví ľudia… Mišovi je   strašne smutno. Spomína na domov i na všetko zažité od čias, čo sa   túla svetom. Nie je to dávno… Niekoľko dní… Len včera sa rozlúčil so   svojou sestričkou Hankou… Len včera ho dali za učňa… Len od včerajška   býva v podzemí tohto hrozného domu, ktorý straší každú chvíľu   zrútením sa…
+     </tei:p>
+     <tei:p>
+      «To je on?»
+     </tei:p>
+     <tei:p>
+      «Áno.»
+     </tei:p>
+     <tei:p>
+      «Ty si Mišo? Kasperov učeň?»
+     </tei:p>
+     <tei:p>
+      «A… A čo chcete so mnou?!»
+     </tei:p>
+     <tei:p>
+      «Čože by sme chceli! Pripovedať ťa medzi nás chceme! Veď nebudeš   tu takto sám čumieť! Budeme priateľmi. Budeme spolu chodiť do   učňovskej školy a huncútstva stvárať…»
+     </tei:p>
+     <tei:p>
+      «Ale, ako to pripovedať? Ja nemám peňazí…»
+     </tei:p>
+     <tei:p>
+      «To nič. Len keď máš dobré nohavice!»
+     </tei:p>
+     <tei:p>
+      «A čo chcete s mojimi nohavicami? Ja si ich nedám! Tie mi mamka   kúpili z peňazí, čo dostali za brata Paľka…»
+     </tei:p>
+     <tei:p>
+      «No neboj sa! My ti ich nevezmeme. Len ich vyskúšame, či sú dosť   silné a trvácne. Tak poď!»
+     </tei:p>
+     <tei:p>
+      «Ale kam?»
+     </tei:p>
+     <tei:p>
+      «Nuž s nami! Tamto vedľa kostola medzi tie múry. To sa barak   nedávno zrútil. Tam sa teraz schádzame každú nedeľu popoludní…»
+     </tei:p>
+     <tei:p>
+      Chlapci idú a Mišo s nimi. Niekoľko krokov, a sú na zrúcanisku. Je   to hromada harabúrd. Hlina, kamenie, úlomky tehál, kusy omietky,   rozbité mreže, rozlámané časti železných postelí, kusy zhrdzaveného   drôtu, otlčené umývadlá, smrdiace odpadky, hnijúca slama, špina,   výkaly…
+     </tei:p>
+     <tei:p>
+      «Koľko mu ich dáme?»
+     </tei:p>
+     <tei:p>
+      «Ako každému. Desať.»
+     </tei:p>
+     <tei:p>
+      «Tak, Mišo, ľahni si na tento kameň. Dostaneš prípovedné. Nerob si   však z toho nič. To je u nás zvykom. Vždy, keď príde nový učeň,   dostane najprv bitku. Len potom ho prijmeme do cechu za priateľa.
+     </tei:p>
+     <tei:p>
+      Mišo líha pokorne. Najsilnejší z chlapcov dvíha palicu a už   sádže: – jeden – dva – tri – štyri – päť – šesť – sedem – osem – deväť –   desať.
+     </tei:p>
+     <tei:p>
+      Mišo vstáva. Teraz pristupujú chlapci k nemu, podávajú mu ruky a   rad-radom sa predstavujú. «Ja som Juro Petráš… Ja Jano Sekera… Jozef   Barica… Imrich Weis…»
+     </tei:p>
+     <tei:p>
+      Mišo je pripovedaný medzi učňov na Židovni v Bratislave…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      U majstra
+     </tei:head>
+     <tei:p>
+      U obuvníka Kaspera sa žije životom, ktorý sa nedá nazvať psím,   lebo sotva by sa našla psia rodina, ktorej životná úroveň nestála by   nad biedou rodiny Kasperovej. Psi síce tiež chlipkávajú mútnu vodu,   ktorá je mútna preto, že obsahuje zvyšky jedál, ale Kasperovci   jedávajú mútnu vodu, ktorá býva zamútená preto, aby sa podobala   jedlu. Rozdiel medzi týmito vodami je, že prvá sa menuje pomyjami a   druhá polievkou.
+     </tei:p>
+     <tei:p>
+      Kasperovci vedia, čo je bieda. Bývajú v izbičke, ktorá sa iste   slnka bojí, a preto je väčšou časťou pričupená pod zem a len jedným   malým okienkom sa díva do tmavého dvorca. Keď sa v nej rozhľadíme,   spozorujeme, že má rozmery, do ktorých sa práve vmestí jeden stôl,   dve rozbité stoličky, jedna ošumelá posteľ a starý obuvnícky   verpánok. To je zariadenie Kasperovie príbytku. Býva tu nateraz šesť   ľudí. Kasper, jeho žena, ich tri deti a učeň Mišo. Nebýva sa im síce   najlepšie, nie sú zamilovaní do tejto diery, ktorá mala kedysi i   dlážku a ktorá ma dosiaľ rozpukanú prehnutú povalu, ale pán Kasper   tvrdí, že je to predsa lepšie, ako keby mali bývať niekde pod holým   nebom. A nájomné, 50 korún mesačne, nie je také, že by si naň nemohol   pán domáci i niekoľko rokov počkať.
+     </tei:p>
+     <tei:p>
+      Ale horšie je so zháňaním živobytia. Kasperovci nie sú síce   v jedle veľmi vyberační, ale predsa len potrebujú niečo, čo by im   aspoň tú vodu zamútilo na polievku. Bývajú to zemiaky, kúsky   stvrdnutého chleba a sem-tam i nahnitá zelenina. Týmito vecami sa   nesýtia preto, že by hádam nemali radi hovädziu polievku, smažené   mäso, torty či pomaranče, ale proste preto, že im na slušné jedlá   nestačí. Majster Kasper je obuvníkom, ktorý už po roky nespravil   novej obuvi. Darmo sa zháňa za robotou, márne hľadá zákazníkov! Veď   ktože by si dnes aj dal zhotoviť topánky u priemerného remeselníka,   keď má za výkladmi obchodov nespočetný výber prvotriednej továrenskej   obuvi! A konečne, veď ten remeselník mu to nemôže ani pri najlepšej   vôli spraviť za takú nízku cenu, ako to urobí továreň, kde sa podniká   vo veľkom. A bolo to ešte, bolo, kým Kasperovi a podobným majstrom   dávali ľudia aspoň opravovať obuv. Ale od čias, čo si továrnik Baťa   zriadil pri svojich predajniach vlastné opravovne, sú títo úbožiaci   na mizine. Dnes sa zablysnú od radosti Kasperove vpadnuté oči, keď   niekto i len náhodou alebo omylom zabúcha na dvere jeho izbičky a   povie: «Pán majster, pribite mi tento opätok!» alebo «Pán majster,   tuto sa mi odpáral príštipok!» Za takéto služby sa, pravda, platí   šestákmi.
+     </tei:p>
+     <tei:p>
+      A z tých šestákov tvoria Kasperovci zázrak výživy šiestich   ľudských bytostí. Lež tú by sme sa mali konečne Kaspera spýtať,   načože si teda berie učňov do domu, keď sám nemá čo robiť a keď ani   vlastnú rodinu nemá čím živiť! Na toto nám, ak je aspoň trochu   úprimný, odpovie Kasper asi takto: «Učňa si beriem miesto slúžky.   Slúžku by som nemal čím platiť, a učňa mám zadarmo.»
+     </tei:p>
+     <tei:p>
+      A keď sa podívame na neho a na jeho rodinu, priznáme mu, že veru   potrebuje posluhu. Sám je štyridsaťročný, hrbatý, slabučký človiečik,   do ktorého život už vari chodí len spávať. Jeho žena je ešte   úbohejšia. Ona väčšinu času trávi na posteli v tmavom kúte, kde   vykašliava zvyšky svojich suchotinárskych pľúc. A deti, to je jedno   nešťastie! Všetky sú rachitické a tuberkulózne. Najmladšie má tri   roky, a ešte sa ani na nohy nepostaví. Leží vedľa matky ako kôpka   zúfalstva. A toto všetko zavinila bieda, podvýživa a vlhký, nezdravý   byt. Kasperova izbička je nemocnicou.
+     </tei:p>
+     <tei:p>
+      Kasperovci potrebujú opatrovateľa a živiteľa.
+     </tei:p>
+     <tei:p>
+      A tým má byť učeň Mišo.
+     </tei:p>
+     <tei:p>
+      «Teraz, chlapče, zabehneš najprv s týmito papučami k Najmanovi. Je   to ten plechár za rohom ulice. Povieš mu, že ho pekne pozdravujem a   že mi je dlžen za to zašitie dve koruny. Ale nenechávaj tam papuče,   ak ti hneď nezaplatí! Na spiatočnej ceste zastavíš sa u pekára a   kúpiš z tých dvoch korún, čo u Najmana dostaneš, za jednu staré   pečivo. Keď sa vrátiš, donesieš vody, rozrúbeš dreva a nakladieš   oheň. Potom spravíš trochu poriadok v izbe. Vymetieš, vynesieš nočník   a vyperieš plienky…»
+     </tei:p>
+     <tei:p>
+      Rozkaz je vydaný. Mišo sa chápe činu.
+     </tei:p>
+     <tei:p>
+      Najprv beží s papučami. Odovzdá, vybaví, dostane peniaze, a už je   u pekára. Tu kúpi za korunu staré pečivo. Berie ho, porúča sa,   odchodí. Nohy už prekladá cez prah, aby sa poponáhľal k domácej   práci. Ale oči mu nejak nechcú opustiť pekáreň. Bože, čo je tu   dobrôt! Čerstvého chleba, žemlí, rožkov, koláčov! A on dnes ešte   nejedol! Žalúdok mu vŕzga ako stará harmonika. Ej, čiže by to bolo,   stisnúť tak mäkkú vekňu do dvoch rúk a zahryznúť sa do nej všetkými   zubami! No naprázdno pregĺga sliny, oči odtŕha od nedobytných dobrôt   a so sklonenou hlavou sa navracia k svojmu majstrovi.
+     </tei:p>
+     <tei:p>
+      Potom zháňa vodu, rozbíja akúsi debničku na triesky a zakladá   oheň. Pán majster ďalej vydáva rozkazy a Mišo ich vypĺňa, až z tých   rozkazov a z práce vzniká niečo, čo je Kasperovcom obedom. Mišo sa   sám sebe čuduje, keď si pochutnáva na polievke, akým je on výborným   kuchárom. Veru, ani pani majstrová, ktorá dnes zas leží, by to lepšie   neuvarila!
+     </tei:p>
+     <tei:p>
+      Po obede vysukuje Mišo rukávy. Dáva sa do roboty, ktorá mu je   protivná. Vyťahuje spod postele nočník a vylieva jeho obsah   k rozbitému kanálu na dvor, tak, ako to robia všetci obyvatelia tohto   domu. (Nedivte sa teda, keď vojdete do takého dvora, musíte si zaraz   chytiť nos!) Potom zametá, umýva riad i deti a perie plienky po   najmladšom. To je robota, ktorá mu zaberie celé popoludnie. Pán   majster sedí zatiaľ pri verpánku a opravuje nejakú čižmu.
+     </tei:p>
+     <tei:p>
+      A hneď je večer. Do žalúdkov sa vpraví zostatok od obeda a už sa   ide spať. Mišo spáva na zemi v kútiku za sporákom. Tu si prestiera   handru, ktorá bola kedysi vrecom, aby uložil na ňu svoje zmučené   telo. Poduškou sú mu nohavice a prikrývkou kabát, čo zvlečie zo   seba.
+     </tei:p>
+     <tei:p>
+      A teraz sa oddáva sebe, svojim citom a spomienkam. Myseľ mu   preletí hory, preletí doly, až zastavuje sa v milom kútiku,   v tatranskom lese pri jazierku…
+     </tei:p>
+     <tei:p>
+      «Mamička!»
+     </tei:p>
+     <tei:p>
+      A horké slzy vzlykajúceho chlapca rinú sa prúdom na tvrdé   lôžko…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Do učňovskej školy
+     </tei:head>
+     <tei:p>
+      «Musíš sa ísť zapísať do učňovskej školy! Hej, taký je to   poriadok, abyže im tristo hromov páralo do duše! Človek si vezme   učňa, pretože ho potrebuje pre domácu výpomoc, a potom aby si ho   posielal po školách! Ak nepošleš, trescú ťa, že prekračuješ zákony!   Abyže ich porantalo!»
+     </tei:p>
+     <tei:p>
+      «Ale ja ta sám nepotrafím. Ja neviem, kde je to…»
+     </tei:p>
+     <tei:p>
+      «Však ťa samotného nik neposiela! Pôjdeš s Krauzovým učňom. Krauz   je ten krajčír, čo má nad nami na poschodí dielňu. A učňa možno už i   poznáš. Volá sa Jozef.»
+     </tei:p>
+     <tei:p>
+      «Mám ísť hneď?»
+     </tei:p>
+     <tei:p>
+      «Choď. A ak sa ťa budú v škole pýtať, kde máš potrebné listiny,   povedz, aby si to vyžiadali od Krajinskej sociálnej starostlivosti   o mládež. Ak je potrebná i moja prítomnosť, oznám, že prídem zajtra.   A uč sa mi tam potom poriadne! U mňa sa i tak veľa toho nepriučíš,   keďže nemám nijakej lepšej práce!…»
+     </tei:p>
+     <tei:p>
+      «Aha, Mišo! Vitaj! My sa už poznáme. Od nedele…»
+     </tei:p>
+     <tei:p>
+      «Mám ísť s tebou zapísať sa do učňovskej školy.»
+     </tei:p>
+     <tei:p>
+      «Dobre. Vezmem ťa. Ja už chodím. A chodí nás odtiaľto niekoľko.   Keď chceš, budeme chodievať spolu.»
+     </tei:p>
+     <tei:p>
+      «Hej. Ja ťa prídem vždy ohlásiť.»
+     </tei:p>
+     <tei:p>
+      «Tak teda poďme! Aby sme sa neoneskorili. Ja som sa už práve   poberal…» Chlapci prechodia uličkami popri Univerzitnej knižnici. Za   chvíľu sú na Michalskej ulici, ktorá vedie popod známu Michalskú   bránu. Tu vidia vo výkladoch krásne perzské koberce. Ach, aké sú to   drahé veci! I niekoľko tisíc korún stojí jeden!
+     </tei:p>
+     <tei:p>
+      «Povedz mi, Jožko, na čo sú to!?»
+     </tei:p>
+     <tei:p>
+      «Nuž na zem poprestierať, do izieb.»
+     </tei:p>
+     <tei:p>
+      «A kadiaľ potom ľudia prechodia, keď si to poprestierajú po   zemi?»
+     </tei:p>
+     <tei:p>
+      «Joj, aký si ty sprostý, Mišo! Kadiaľ by chodili? Nuž po kobercoch   chodia!»
+     </tei:p>
+     <tei:p>
+      «Po takých drahých veciach stúpajú? Veď je to nemožné!? – – »
+     </tei:p>
+     <tei:p>
+      «Pozri, braček, to je palác, čo?!»
+     </tei:p>
+     <tei:p>
+      «Jojojój, to je topánok!!! A čie sú to všetky?»
+     </tei:p>
+     <tei:p>
+      «Baťove. To je Baťova nová predajňa.»
+     </tei:p>
+     <tei:p>
+      Vychodia práve na Hurbanovo námestie, odkiaľ vidieť celým   rozsiahlym námestím Republiky. Tu stojí veľká budova pošty, veľkolepý   palác banky Tatra a mestská tržnica s čulým obchodom s potravinami.   Mišo na všetko vyvaľuje oči. On toľko ruchu a krásy ešte nikdy   nevidel. Je už síce v Bratislave niekoľko dní, ale na hlavnú ulicu   alebo na námestie sa ešte nedostal. A v ten večer, keď prišiel do   Bratislavy, bolo už neskoro, takže obchody boli pozatvárané a ulice   opustené a majster ho odviedol len bočnými priechodmi do svojej   diery.
+     </tei:p>
+     <tei:p>
+      «Pozor daj, autobus ťa zadlávi! Tu sa nesmieš dívať na veci ako   teľa na nové vráta! Musíš byť opatrný! Veď vidíš, že sa to tu na   križovatkách len tak hmýri autami, autobusmi a električkami!»
+     </tei:p>
+     <tei:p>
+      Z námestia prechádzajú do Uhorskej ulice. Tadiaľto sa totiž chcú   dostať pred Živnodom a potom popri plynárni rohom Sahary na Vazovovu   ulicu, kde stojí nová učňovská škola.
+     </tei:p>
+     <tei:p>
+      «Ale tí ľudia musia byť predsa len strašne bohatí! Pozri, aké   ohromné báby majú v oknách, a všetky tak krásne   vyobliekané!
+      <tei:emph>
+       »
+      </tei:emph>
+     </tei:p>
+     <tei:p>
+      «To nie sú báby, to sú figúry vo výkladoch!»
+     </tei:p>
+     <tei:p>
+      «No áno, ale ako sa s tým hrajú, veď je to priam také veľké ako   človek!»
+     </tei:p>
+     <tei:p>
+      «Ale veď to nie je na hranie! To sú modely, na ktorých sa ukazuje,   ako slušia tie poobliekané šaty!»
+     </tei:p>
+     <tei:p>
+      «Hm, a ja by som myslel, že by tie šaty predsa len lepšie slušali,   keby ich poobliekali živým ľuďom. Je iste dosť takých, čo by sa im   zišli. Veru by som ani ja neodbehol, keby mi tak dali ten zimný kabát   z toho voskového chlapca!»
+     </tei:p>
+     <tei:p>
+      «Ty si dedinský truľko!…»
+     </tei:p>
+     <tei:p>
+      Chvíľu kráčajú tíško. Sú už na Sennom námestí. Mišo je urazený, že   mu Jožo nadáva do sprostých truľkov. Veď prečože mu má nadávať? Či   nie je naozaj hriechom, ak niekto šliape vo svojich izbách po   drahocenných kobercoch, kým iní nemajú pod nohami ani dlážky? A či   nemá pravdu, keď hovorí, že by nemali byť v krásnych šatách   vyobliekané bábky za oknami, kým toľko ľudí chodí otrhaných a trasie   sa od zimy?
+     </tei:p>
+     <tei:p>
+      Mišo je urazený. Chvíľu kráča bezo slova povedia Jozefa.
+     </tei:p>
+     <tei:p>
+      Ale neovládne sa dlho. Len čo dôjdu pred veľký výklad   s kožušinami, už skríkne:
+     </tei:p>
+     <tei:p>
+      «Pozri! Pozri! Tu majú medvede! Medvedie kože…»
+     </tei:p>
+     <tei:p>
+      «Ale veď to nie sú nijaké medvede! Čo nevidíš, že panie, ktoré   popri nás prechádzajú, sú tiež v takých kožiach odeté? To sú dámske   plášte. Dámske zimné kabáty.»
+     </tei:p>
+     <tei:p>
+      So zapísaním Miša je pán riaditeľ v učňovskej škole raz-dva   hotový. Zaznamenáva si jeho meno a podotýka, že potrebné dokumenty si   teda vyžiada tam, kde Mišo uvádza. Potom Michala Čenku odvedú medzi   chlapcov do oddelenia, na ktoré učni od ostatných remesiel radi   pokrikujú:
+     </tei:p>
+     <tei:p>
+      Šuster – flek, ber kopýtko a pod het!
+     </tei:p>
+     <tei:p>
+      «Jožko, ale ma, prosím ťa, dočkaj po vyučovaní! Lebo ja by som sám   veru nepotrafil domov!» volá ešte Mišo za Jožom, ktorý odchádza zas   ku svojej družine.
+     </tei:p>
+     <tei:p>
+      V učebni sa Mišo s chlapcami skoro zoznamuje. Hľa, tam toho   škuľavého dokonca i pozná! Je zo Židovne. Bol v nedeľu tiež medzi   šarvancami, čo Mišovi dávali prípovedné. A ostatní sú všetci rovnakí.   Obšúchaní obuvnícki učni.
+     </tei:p>
+     <tei:p>
+      Mišovi sa tu páči. S otvorenými ústami počúva každé slovo   učiteľov. A o akých zaujímavostiach prednášajú! On také veci ešte   nikdy nepočul! Dejiny, vynálezy, stroje… A každú hodinu sa striedajú   učitelia. Každý vyučuje iný predmet. Hm, braček, to nie je ako v   cirkevnej škole niekde pod Tatrami, kde ťa chudák učiteľ, ktorý mal   sám osemdesiat žiakov, sotva čítať a písať naučil! A nielen náukové   predmety sa tu prednášajú. I praktické veci, ktoré potrebuje každý   remeselník do denného života, sa tu pestujú. Ej, veru neviem, či   nebude Mišo vedieť lepšie vymerať a vyrezať zvršky na topánky, keď   bude i len pol roka chodiť do tej školy, ako vie teraz jeho   majster!
+     </tei:p>
+     <tei:p>
+      Na stenách chodieb a učebni ide si Mišo oči vyočiť. To vám je   plagátov, obrazov, máp, diagramov, výkresov! A čo v kabinetoch, tam   keby si sa, chlapče, podíval! To by si len híkal!
+     </tei:p>
+     <tei:p>
+      Slovom, Mišo je so školou veľmi spokojný. Umieňuje si, že sa bude   veľa, veľa učiť, aby si z toho duševného bohatstva čo najviac   odniesol do života.
+     </tei:p>
+     <tei:p>
+      Na spiatočnej ceste vypytuje sa Jožo Miša, ako sa mu tá «búda»   páčila, a Mišo si nevie dosť vynachváliť prekrásnu školu.
+     </tei:p>
+     <tei:p>
+      «Teraz ťa prevediem zas inými ulicami, nie kade sme prišli. Bude   to síce dlhšia cesta, ale uvidíš tam veci, ktoré sa ti budú iste   páčiť. Doma však nesmieš povedať, kadiaľ sme sa navracali, lebo by   nás majstri vyhrešili, že sme si tak zašli!»
+     </tei:p>
+     <tei:p>
+      Jožo vyrástol v Bratislave. Pozná tu každý kútik. Vedie preto Miša   uličkami, pasážami, priechodmi, len aby boli čím skôr pri cieli. Chce   ho totiž prekvapiť Dunajom a loďami. O niekoľko minút sú tam.
+     </tei:p>
+     <tei:p>
+      Mišo žasne. Tie valiace sa vlny chmúrnej veľrieky! Akoby obrovský   špinavý had sa plazil z nedozerna do nekonečna. Srdce vám zviera   úzkosť. A keby ste si tento ohavný obraz nevymenili za predstavu   rozľahlej zoranej role, bolo by vám nevoľno. Áno, Dunaj sa väčšmi   podobá zoranému lánu poľa, po ktorom sa stále vláčia obrovské   traktory v podobe rozličných lodí. Tieto vyorávajú brázdy   krížom-krážom a darmo sa vôkol nich čeperia vlnky, akoby protestovali   proti tomu, že ich mliaždia. No Dunaj nie je ani hadom ani roľou! Veď   Mišo dobre vie, že je to len ohromné množstvo tečúcej vody! A hoci sa   ten stroj, čo vyloďuje z nákladných parníkov tovar, podobá loviacemu   bocianovi, predsa je to len železný žeriav! A tak i most, ktorý tu   spojuje Bratislavu s Petržalkou, nie je nijakou kovovou obručou ani   napätou anténou, ale len železným mostom, klenúcim sa ponad Dunaj a   spojujúcim oba brehy širokej rieky.
+     </tei:p>
+     <tei:p>
+      Mišo tu teda poznáva Dunaj, lode, žeriav a bratislavský most.
+     </tei:p>
+     <tei:p>
+      Na ceste domov, pod Hrad, na Židovňu, upozorňuje ho Jožo ešte na   Roľnícke múzeum a na Národné divadlo. A zas z miest krásy a údivu   zapadá Mišo do šedivosti a špiny obuvníckej dielne.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Hry a dobrodružstvá
+     </tei:head>
+     <tei:p>
+      «Priatelia! Mám znamenitý plán! Na tie Vincerove pomaranče sa   predsa len dostaneme!»
+     </tei:p>
+     <tei:p>
+      «Ale kade?»
+     </tei:p>
+     <tei:p>
+      «Zadným vchodom. Z dvora. Zbadal som, že Vincer na poludnie   zatvára len dvere z ulice. A do obchodu sa dá vniknúť i dvierkami,   ktoré vedú do tmavého dvora, kde má byt a kde je i naša dielňa.»
+     </tei:p>
+     <tei:p>
+      «Hej, ale čo pes? Veď vari vieš, že práve pri tých dvierkach stojí   búda šteňaťa, čo stále ďavká! To by nás prezradilo!»
+     </tei:p>
+     <tei:p>
+      «Myslel som i na to. Šteňa musíme odpratať!»
+     </tei:p>
+     <tei:p>
+      «No?»
+     </tei:p>
+     <tei:p>
+      «Zapálime mu búdu! A to ešte dnes večer, aby sme si už zajtra   popoludní mohli pochutnávať na pomarančoch. Búda je plná slamy, smetí   a papierov. To bude horieť ako fakľa. A kým Vincer zbadá, čo sa   stalo, pes bude dávno zadusený!»
+     </tei:p>
+     <tei:p>
+      «A nestane sa nešťastie? Nezapália sa od búdy aj nejaké iné veci?   Nevznikne požiar?»
+     </tei:p>
+     <tei:p>
+      «Ba kýho čerta! Čože by tam horelo? Iba ak to blato vo dvore   a staré plesnivé múry!»
+     </tei:p>
+     <tei:p>
+      «Dobre teda. Ty zapáliš dnes večer búdu a my zajtra cez obed   podnikneme ostatné. Mišo s Jožom budú dávať pozor a ja s Imrichom   vojdeme do obchodu,» zakončuje uznesenie Juro Petráš, ktorý je   náčelníkom chlapcov na Židovni.
+     </tei:p>
+     <tei:p>
+      «Ale deliť sa budeme na rovnaké časti!» vymieňuje si ešte škuľavý   obuvnícky učeň, ktorý prišiel s týmto plánom.
+     </tei:p>
+     <tei:p>
+      «Dobre, budeme!»
+     </tei:p>
+     <tei:p>
+      Takéto a podobné kúsky vyvádzajú chlapci na Židovni. Plány sa im,   pravda, vždy nevydaria, mnoho ráz skončí sa celý nastrojený podnik   zauchami a poučením šarvancov, že krádež a týranie zvierat sú nepekné   a neľudské veci. Ba neraz musí veru i pán policajt skúšať svoj rozum   a obuštek, aby uhájil posvätné vlastníctvo statočných občanov pred   touto cháskou, vybíjanou na čertovom kopýtku. Ale chlapci sú a   zostanú chlapcami! A tobôž, keď sú to vyhladované deti periférie!   Taký učeň, ktorý sa za celé roky poriadne nenaje, ktorému večne   žalúdok kŕka ako žaba, nedá sa veru len tak ľahko zastrašiť, aby   znova a znova neskúsil zmocniť sa nejakého jedla alebo lahôdky,   ktorej ešte v živote neochutnal! Darmo sa teda niekto rozhorčuje nad   nevychovanou a skazenou mládežou. Tá mládež je preto zlá, že je   biedna.
+     </tei:p>
+     <tei:p>
+      A náš Mišo je už plnoprávnym členom tejto spoločnosti. Spriatelil   sa s učňami od svojho remesla aj od remesiel iných. Ba do tejto   družiny patria i chlapci, ktorí nie sú dosiaľ učňami, pretože   navštevujú ešte ľudovú alebo meštiansku školu. Ale ani tých chlapcov   nečaká iný osud. A preto už teraz nadväzujú priateľstvo s budúcimi   svojimi kolegami a vyberajú si remeslá, ktoré by sa im najlepšie   hodili. Obuvníctva sa najviac boja. O tom hovoria:
+     </tei:p>
+     <tei:p>
+      Nepôjdem ja za sustra,
+     </tei:p>
+     <tei:p>
+      nedaj mi to, bože,
+     </tei:p>
+     <tei:p>
+      bo mám slabé zúbence
+     </tei:p>
+     <tei:p>
+      naťahovať kože!
+     </tei:p>
+     <tei:p>
+      Ale Mišo sa za svoje povolanie nehanbí. Vie, že každá práca je   čestná, keď ju svedomite vykonávame. A Mišovi jeho remeslo i sluší.   Je z neho ozajstný obuvnícky učeň. Má strapatú hlavu, nevysoké   zavalité telo a kolísavú chôdzu. Keby ste ho tak videli v jeho   usmolenej zelenej zástere a v drevených končistých topánkach, ktoré   mu niekto podaroval, iste by ste sa ho spýtali: «Tak čo, pán majster,   ako sa im darí?» A on by si skrížil zašpinené, po lakte vysúkané ruky   na prsiach a odpovedal by: «No, tak-tak, po troške. I lepšie by sa   zdržalo. Len keby tej biedy toľko nebolo!»
+     </tei:p>
+     <tei:p>
+      Áno, Mišo vám rozpráva ako dospelý človek. Má síce len štrnásť   rokov, ale skúsenosťami by sa už vyrovnal nejednému dospelému   človekovi. Pozná kus sveta, pozná život chudoby v horách a pozná ho i   v meste. Vie, že to nebol nijaký pánbožko, ktorý stvoril biednych a   bohatých, ale že to boli sami ľudia, ktorí sa usilovali zotročiť sa   navzájom. A preto je hlad a sú nedostatky na jednej strane, kým na   druhej strane je hojnosť a prepych. Ba Mišo vie ešte aj to, že tento   stav je len dotiaľ možný, kým krivdení budú ochotní znášať   nespravodlivosť na nich páchanú.
+     </tei:p>
+     <tei:p>
+      No hoci sa Mišo tomuto všetkému priučil, hoci je už rozumným,   predsa len neprestal byť ešte chlapcom a veselým kompánom seberovnej   spoločnosti. A svedčí mu to tak. Jeho priatelia ho majú zato radi. Je   všade medzi prvými.
+     </tei:p>
+     <tei:p>
+      «Hoho! Chlapci! Na našej povale objavil som netopiere!   Pôjdete?»
+     </tei:p>
+     <tei:p>
+      A Mišo sa už driape. Schody dolámané, povala sprebáraná,   nebezpečenstvo na každom kroku, ale našich hrdinov to nezastraší.   Prekutajú všetky diery dvestoročných domov, aby vyplašili tu myšku,   tam potkana, tu vtáčika, tam netopiera. A čo je potom samochvál a   hrdinských rozprávaní, keď sa im zdarí takáto dobrodružná výprava bez   toho, že by sa bol niekto niekde zrútil, alebo že by ich bol nejaký   občan, vyrušený hurhajom, vyťahal za uši!
+     </tei:p>
+     <tei:p>
+      Ale Mišovi sa prihodí i táto nehoda.
+     </tei:p>
+     <tei:p>
+      Jeho majster potrebuje práve kúsky okenného skla na oškrabovanie a   hladenie podošvy. Zahvizdne na Miša, ktorý zasa pláka plienky na   dvore pri kanáli, a volá: «Hej, chlapče, skoč niekde a pohľadaj   úlomky skla! Aleže sa zvrtni, aby som ťa nevyobracal lápsikom!»
+     </tei:p>
+     <tei:p>
+      Mišo rozumie. Vie, že sklo musí tu byť hneď, lebo ináč majstrov   lápsik zatancuje si cáprpolku na jeho koži. Ale kde ho vziať? Hm,   kamarát! Ber rozum do hrsti. Ale nie rozum! Ber radšej kameň do hrsti   a brinkni ním do niektorého z najbližších okien! – Bojíš sa? Vidia   ťa? – Vybijú ťa? – Ale čo! Tak alebo onak! A možno to predsa len   nebude také štipľavé ako po lápsiku! – A brink! – už rinčí sklo   okienka krajčírovej komôrky ha poschodí. – Mišo si myslí, že to Krauz   nepočuje, keďže má dielňu v inej miestnosti, za komôrkou. Ale beda!   Sotva sa Mišo zhýba, aby uchytil prvý kúsok padajúceho skla, už vrždí   prehnitá pavlač a nad Mišom sa ježí ako boh pomsty strapatá hlava   nahnevaného krajčíra.
+     </tei:p>
+     <tei:p>
+      «I ty naničhodník jeden! No, dočkaj!»
+     </tei:p>
+     <tei:p>
+      A Mišo ozaj zľaknutý čaká, kým len nezíde Krauz k nemu a nechytí   ho do dvoch rúk za uši. A teraz kričí. «Jój, to boli!» Ale máme.   Krajčír ďalej nakrúca Mišove uši, akoby naťahoval vežové hodiny. Ale   teraz poznáva chudák chlapec, že by to predsa len nebolo také hrozné,   keby bol volil lápsik a šiel vyhľadať kúsky skla niekde na   zhorenisko. No, «vošiel do toho ako kôň do štvorní!» hovorí   príslovie.
+     </tei:p>
+     <tei:p>
+      Lež i milšie a radostnejšie udalosti sa vyskytujú v živote   bratislavských chlapcov. Ach, na to kino, čo navštívil s učňovskou   školou, nezabudne veru Mišo nikdy! To vám tam bolo smiechu, keď   vyvádzal Chaplin svoje kúsky! A potom tie obrazy ďalekých krajín   a cudzozemských zvierat! Tie tulene sa váľali po zemi ako vykŕmené   prasce! Hej, to keby tak videli naši chlapci na dedine!
+     </tei:p>
+     <tei:p>
+      A keby tak prišli do Bratislavy na veľké námestie, ktoré sa volá   Sahara! Tu by im Mišo ukázal, čo je to cirkus a kolotoč! Veru, ten   kolotoč je znamenitá vec! Zaplatíš niekoľko halierov, a už ti muzika   hrá a ty sa krútiš ako v nebeskej sláve. A sú i také, kde nemusíš ani   platiť. Slovom, ideš najprv s chlapcami nejakú chvíľku otáčať týmto   kolotočom a potom ťa majiteľ za to raz zadarmo prevezie. Ale o tom sa   nedá rozprávať. To sa musí vidieť a zažiť!
+     </tei:p>
+     <tei:p>
+      Ale tie hojdačky, jazda na drevených koňoch a automobiloch! Veru,   braček, to nezažiješ hocikde! To si musíš prísť pozrieť do   Bratislavy.
+     </tei:p>
+     <tei:p>
+      Príď a uvidíš tu ešte mnoho krásnych vecí, ktoré ani Mišo nevidel,   lebo na zábavu má len veľmi málo času!
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Kríza
+     </tei:head>
+     <tei:p>
+      A plynú udalosti. Radostné striedajú sa so smutnými a z toho sa   utvára život. Škoda len, že v živote väčšiny ľudí trpké chvíle   vypĺňajú značnú časť času. Ale čas to nezaznamenáva. Spokojne vypúšťa   do vekov deň za dňom, ako vypúšťame do vzduchu mydlové bubliny.   Bubliny sa rozplynú, dni miznú a čas sa napĺňa.
+     </tei:p>
+     <tei:p>
+      Na bratislavských uliciach treštia mrazy suchej zimy. Niet snehu,   a preto niet ani rozprávkových kúziel, ktoré zimy vytvárajú. Mierny   chlad a príšerné hmly tisnú sa do každého kúta priestoru, ako sa   vtláča do každej núdznej domácnosti hlad a bieda. A oboje vzbudzuje   hrôzu. Škaredého počasia, pravda, hrozia sa len milovníci krásnych   chvíľ, kým pred príšerou biedy trasú sa celé zástupy.
+     </tei:p>
+     <tei:p>
+      Hovorí sa, že stav biedy zavinila hospodárska kríza. Sú ľudia,   ktorí tomuto slovu rozumejú, ale aj takí, čo si predstavujú, že tá   kríza je nejaká zlá ježibaba, ktorá vyhadzuje robotníkov z práce na   ulicu a chudobné deti necháva hladovať.
+     </tei:p>
+     <tei:p>
+      I noviny, ktoré ležia na stoloch vykúrených kaviarní, šenkov   a iných zábavných miestností, ju podobne maľujú. Kríza je príčinou   nezamestnanosti. Len táto potvorská mátoha je všetkému na vine.   A máme ju preto, že je všetkého prebytok, že nemá kto tovar   skonzumovať, a preto sa musia zastaviť podniky, aby nevyrábali   nadbytok.
+     </tei:p>
+     <tei:p>
+      Ale tí núdzni nechcú takémuto výkladu veriť. Že niet   spotrebiteľov? Ale veď my sme hladní a otrhaní! Že je prebytok? Ale   veď my trpíme núdzou! Že niet čo budovať? Ale veď dosiaľ bývame v   podzemných dierach a búdach! A títo nespokojenci začínajú premýšľať,   poznávajú, že ľudská spoločnosť nie je tak zriadená, ako by mala byť.   Vidia, že menšina jednotlivcov oplýva blahobytom a hojnosťou, kým   široké vrstvy drobného ľudu sú zbedačované. A to rozhorčuje. Davy   nezamestnaných i zamestnaných pokúšajú sa demonštrovať na uliciach.   Chleba a práce sa dovolávajú. Chcú žiť. Chcú ľudskú spoločnosť tak   usporiadať, aby boli dané aj im podmienky na žitie.
+     </tei:p>
+     <tei:p>
+      Úrady, pravda, musia takéto verejné prejavy zakazovať, aby sa   nerušil pokoj a poriadok.
+     </tei:p>
+     <tei:p>
+      A usilujú sa všemožne i všelijaké dobročinné ustanovizne. Robia   zbierky a podporujú, čo je v ich silách. Ale niekoľko vozov   odhodených šiat a skromné hromádky potravín nemôžu zachrániť tisíce   hladujúcich. A tento počet stále rastie. Nezamestnaní sa už počítajú   na státisíce.
+     </tei:p>
+     <tei:p>
+      Z domu do domu blúdia vyhladované postavy a na každom rohu ulice   žobrú otrhané deti.
+     </tei:p>
+     <tei:p>
+      Je hlad, je bieda.
+     </tei:p>
+     <tei:p>
+      A tento stav pociťujú na svojej koži aj učni zo Židovne.
+     </tei:p>
+     <tei:p>
+      Čím ďalej, tým viac miznú rumence z mladých tvárí. Oči vpadajú a   líca maľuje žlč podvýživy a chorôb. Nie je to len Mišo, ktorý trpí   v Kasperovej rodine. Tie osudy remeselníckych rodín sú všetky   viac-menej rovnaké. Šibalské kúsky chlapcov sa viac a viac nahrádzajú   smutnými ponosami. «My sme dosial mali vždy raz za týždeň, v nedeľu,   mäso a mäsovú polievku, ale dnes nám povedal majster, že už ani to   naďalej nebude…»
+     </tei:p>
+     <tei:p>
+      «Kdeže mäso! Ani sa nepamätám, kedy som ho jedol! To nám naša   majstrová už i okružky chleba natoľko stenčila, že vidíme cez ne celú   Bratislavu!»
+     </tei:p>
+     <tei:p>
+      «A my veru už od jesene nevečeriavame…»
+     </tei:p>
+     <tei:p>
+      A Mišov majster, Kasper, dnešný svoj rozhovor s krajčírom Krauzom   zakončil slovami:
+     </tei:p>
+     <tei:p>
+      «Veru, neviem, neviem, ako sa to so mnou a s mojou rodinou skončí,   ak sa v najbližšom čase niečo nestane. Prichodí nám zomrieť od hladu.   A Miša musím prepustiť pred doučením…»
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Hanka
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      Trh na deti
+     </tei:head>
+     <tei:p>
+      Hanka sa dostala z Bratislavy na južné Slovensko. Sociálna   starostlivosť o mládež stará sa totiž o zverené jej deti tak, že ich   dáva na remeslá, alebo ich rozdáva do súkromných rodín na výchovu. Na   remeslá idú deti, ktoré už tomuto cieľu vyhovujú vekom. Mladšie   dávajú na výchovu.
+     </tei:p>
+     <tei:p>
+      Snaha je tu celkom dobrá a pekná: starať sa o maloletú opustenú   mládež. Pravda, niekedy aj najlepšie úmysly zvrhajú sa v zlo vinou   rozličných okolností. A tak je to v tomto prípade. Z rozdávania detí   na výchovu stáva sa trh na mládež. Dozvedáme sa o tom z dennej   dače.
+     </tei:p>
+     <tei:p>
+      Tam sa píše:
+     </tei:p>
+     <tei:p>
+      Transport na Vrbovke
+     </tei:p>
+     <tei:p>
+      Na Vrbovke a v okolí sa dozvedeli, že príde transport najmenších   otrokov. Oznámili to úrady bubnovaním, aj z kancľov. Príďte, dobrí   ľudia, a vyberajte si v tomto lacnom pracovnom tovare. Aj kúpite, aj   vám zaplatia, pritom na «radáš» vám budú robiť a pomáhať v tejto   veľkej kríze. Tovar je tak od troch mesiacov. Prídavok 100-300 korún.   Aj chudobným vdovám a ženám sa povedalo, keď si žiadali nejakú   podporu pre hladné a tuberkulózou vyblednuté dietky: Len si ta   zájdite a uvidíte, že dobre urobíte.
+     </tei:p>
+     <tei:p>
+      Autobus sa zastavil. Vyšli z neho dve ošetrovateľky. Na obecnom   dome je rušno. Dietky milé, krásne ako hračky vo výkladnej skrini,   žmurkajú, plačú, prsty si cicajú. Je im to čudné. Nemôžu pochopiť, čo   sa to tu s nimi robí. Sedliaci! Ziskuchtivci! Ženy! Aj Cigánky   prišli. Výber sa začal. «Hej! Ten chlapec, čo tam plače, je   koľkoročný?»
+     </tei:p>
+     <tei:p>
+      «Nuž, strýko, ten má podľa tu uvedených dát šesť rokov. Je zdravý   a silný.» «Tak, tak! Silného potrebujem. Pri husiach mu bude dobre.   Ba aj pri oraní ho podučím, volky hnať.»
+     </tei:p>
+     <tei:p>
+      «To dievčatko si beriem ja.»
+     </tei:p>
+     <tei:p>
+      «Má päť mesiacov, budete naň dostávať 100 korún mesačne.»
+     </tei:p>
+     <tei:p>
+      «Veď viem, ináč by som ho nemohla brať, lebo mám tri svoje a nemám   im čo dať jesť…
+     </tei:p>
+     <tei:p>
+      Tak to ide rad-radom. Aj Cigánka – špinavá, otrhaná – dostane   trojmesačné nemluvniatko. A každý, kto len chce. Šesťročný chlapček   sa priúča. Sedliak mu k tomu pomáha buchnátmi a lieskovým prútom.   Päťmesačné dievčatko si ťažko privyká na zemiakovú kašu a zberané   mlieko (i to len v nedeľu). Trojmesačné nemluvňa v búde, v dyme a   smrade sa dusí. Keď sa zadusí, Cigánka hlási a dostane iné. Vdova,   ktorá svojich päť detí nemôže uživiť, nesie ich ta. Myslí: bude im   lepšie. Ale keď vidí tento trh na otrokov, s plačom berie svoje   bremeno na chrbát a do náručia a uteká z toho miesta ako šialená…
+     </tei:p>
+     <tei:p>
+      Hanka sa dostala na pustatinu Betö ku gazdovi Rigovi. Gazda si ju   vybral preto, že Hanka je dosť silné dievčatko, a on potrebuje   kraviarku k svojmu dobytku. Ako je to dobre, keď môže mať tak zadarmo   slúžku! Ba ešte mu budú aj priplácať niekoľko korún mesačne. Hm, tí   páni sú predsa len dobrí, keď to tak múdro zariadili!…
+     </tei:p>
+     <tei:p>
+      «Neboj sa, dievča, u nás ti bude dobre! Mám kone, kravy,   svine – budeš sa mať o koho starať. I bývať budeš s týmito   zvieratkami. Tam ti bude teplo. Len čo dôjdeme domov, hneď ti spravím   priču v maštali nad chlievikom. Namojdušu, na tej sa ti bude spávať   ako princeznej…»
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Na pustatine
+     </tei:head>
+     <tei:p>
+      Pustatina Betö leží na maďarských hraniciach pri rieke Ipli.   Politicky patrí k obci Kováčovce. Je to na juhu modrokamenského   okresu, ktorému dobrotivý pánbožko nepožehnal ani jediného metra   železnice. Cestuje sa tu pešo, na vozoch a po hradskej i autobusom.   Keď sa chcete dostať na najbližšiu stanicu k vlaku, potrebujete   prekonať 50-60 kilometrovú cestu. Áno, z pustatiny Betö do Lučenca je   asi 60 km! Kraj je tu rovinatý, úrodný. Pestuje sa tu víno, cukrová   repa a pšenica. Okraje blatných ciest sú vysadené agátmi, ktoré sa   v jarných mesiacoch premieňajú na ohromné kytice, vypúšťajúce do   široka-ďaleka ľúbeznú vôňu svojich kvetín. A keď sa tak po prudkých   lejakoch vyleje Ipeľ z koryta na okolité pláne lúk a polí, aby   premenil celý kraj na neprehľadné jazero, nemáte rozprávkovejšieho   kraja! Dívate sa do diaľav a v očiach sa vám mení od nekonečnej   hladiny sčerených vlniek. Len tu a tam zavadí vám zrak o osamelý   topoľ, ktorý vyčnieva z vôd ako zapichnutý prút. Na topoľoch hniezdia   bociany. Netrpezlivo poletujú a vyčkávajú, kým opadnú vody, aby mohli   začať so svojou hostinou na žabej pečienke. To vám je potom hurhaj!   Ovzdušie sa chveje príšerným škrekotom žiab a bociany si vykračujú po   močariskách ako kráľoviči.
+     </tei:p>
+     <tei:p>
+      Hanka sa díva na tento kraj z okienka Rigovej maštale a je jej   strašne clivo. Ach, kde sú tie prekrásne končiare majestátnych   Tatier? Kde sú štebotavé tatranské bystrinky? Kde je voňavá sihlina?   Kde vtáčí spev? Kde uvidí mihnúť sa splašenú srnku? Kde zapanáčkuje   veverička? Odkiaľ pribehnú jej bračekovci? Kto ju privinie a kto sa   jej ozve miesto jej mamičky?
+     </tei:p>
+     <tei:p>
+      «Bú-bú-bú,» ohláša sa z kúta od válova Rohaňa.
+     </tei:p>
+     <tei:p>
+      «Kví-au-kví,» grúlia v chlieve prasce.
+     </tei:p>
+     <tei:p>
+      «Í-ha-ha-ha, íha,» rehoce sa Hankinmu smútku Pejko.
+     </tei:p>
+     <tei:p>
+      Ale Hanka má rada tieto zvieratá. Odchádza od oblôčika a ide   k Rohani. Oblapuje kravu okolo šije a rozpálenú hlávku prikláňa si   k veľkej hlave zvieraťa. A Rohaňa akoby rozumela bolesti dievčaťa.   Díva sa na Hanku sústrastne svojimi múdrymi očami, a keď Hanke   vyhŕknu horké slzy, vyvaľuje svoj lemeš a líže devuškinu tvár, akoby   chcela postierať všetky tie trpké slzy a zahojiť každučkú bolesť   trpiacej Hanky.
+     </tei:p>
+     <tei:p>
+      Hej, Hanka veru hodne trpí v cudzom, chladnom svete! U gazdu Rigu   niet pre ňu slova lásky ani čara rodinného tepla. Zachádzajú s ňou,   akoby ani človekom nebola. Gazda má pre ňu len rozkazy, s gazdinou sa   nemôže ani dohovoriť, lebo tá vie len po maďarsky, a Rigovie jediný   synček Ákoš díva sa pyšne na «kraviarča» a vyplazuje na Hanku   jazyk.
+     </tei:p>
+     <tei:p>
+      Veru, smutno je desaťročnému dievčatku v neznámom prostredí, kde   niet človeka, ktorý by s ním cítil. Je tu stratené, opustené. Nik sa   ho nespýta, ako sa vyspalo na tvrdom lôžku, nik sa nestará, či mu   chutí papriková polievka. Rigovci si myslia, že pre život takému   tuláčaťu stačí trochu jedla, maštaľná strecha nad hlavou a dostatok   roboty od rána do noci. Že je to dieťa, slabé, krehké dievčatko,   ktoré by potrebovalo aj trochu ľudskej lásky a opatery, to   nechápu. – Načo sa na také zafúľanča usmiať? Načo ho pritúliť k sebe?   Načo ho pohladkať? Kto by sa s takou potvorou maznal! A umyť ho?   Vykúpať? Prečesať mu vlásky? Vyprať a zaplátať mu šatočky? – Ale veď   Rigovci si nebrali do domu dievča na to, aby s ním mali   papračku – oni potrebovali slúžku, ktorá by im slúžila zadarmo, ba za   ktorej výživu by ešte i sami dostali niekoľko koruniek mesačne! Veď   na hranie majú svojho roztomilého Ákoška. To je ich drahý, jediný   maznáčik. Jemu sa musia celí venovať a obetovať mu každý cit ľudskej   lásky. Jeho rozmarom musia podriadiť i záujmy celej domácnosti.
+     </tei:p>
+     <tei:p>
+      «Počuj, dievča, vymetaj poriadne maštaľ, lebo ti vytrhám tie tvoje   škuty všivavé! – Pomedzi plánky plno hnoja! Pod koňmi mokro! Vo   válovoch zajačí trus!… Aby som ťa už raz nevycambal!»
+     </tei:p>
+     <tei:p>
+      A už zas zostáva Hanka sama vo veľkej maštali medzi čriedou   dobytka. Prídu ju navštíviť len vtedy, keď ju chcú pohnať do roboty,   alebo keď chcú zistiť, ako svoju prácu vykonala. Odmenou jej donášajú   trochu jedla a sprosté nadávky. Viac, pravda, pochlípe papuľovej ako   tej paprikovej polievky. A darmo sa usiluje, pre jej prácu niet   uznania. I keby tú vec spravila ako najusilovnejšia včielka, ešte   gazda Rigo šomre, hundre a nadáva. Nik na svete by mu hádam   nevyhovel.
+     </tei:p>
+     <tei:p>
+      Lež Hanka trpí mlčky a pracuje. Zo šopy znáša krmivo, zo dvora od   studne vláči vo vedrách vodu na napájanie, na talige vyváža hnoj z   maštale na záhumnie. Kŕmi, napája a čistí dobytok. Je to práca pre   poriadneho chlapa. Ťažká a nebezpečná. A najviac sa Hanka bojí, keď   má vysluhovať a čistiť bujných tátošov. Kone sú zlé. Darmo sa im   Hanka prihovára a márne ich hladká. Pejko sa jej síce svojím rehotom   len posmieva, ale Šárga, ten nemilosrdne cerí na ňu dlhé zuby. Raz ju   už chytil za suknicu a vyzdvihol do výšky. Bolo šťastím pre Hanku, že   sa jej práve v tej chvíli pretrhla tkanička. Šárgovi zostala v zuboch   len suknica. Hanka sa vysypala pod válov. Naozaj, Hanka sa vytriasla   zo sukne a Šárga potom metal sem a ta už len prázdnou hábou. A   dievčaťu pritom veru nebolo do smiechu. Stálo tam polonahé a túžobne   očakávalo, kým koňa omrzí ošklivá hra. Napokon odhodil Šárga suknicu   nabok. Hanka si ju uchytila. Bola rada, len to ju zarmucovalo, že má   na svojej starej sukničke zas nové diery.
+     </tei:p>
+     <tei:p>
+      No všetky zvieratá nie sú také ukrutné na Hanku. Sú tu aj tetky   kravy, ktoré by za Hanku i do ohňa skočili. Len keď prekračuje prah   maštale, aby vyšla von, už sa za ňou znepokojene obzerajú a s obavou   múkajú. A keď sa k nim približuje, ani nevedia od radosti, ako jej z   cesty ustúpiť a ako sa k nej potom pritrieť, aby ju tým neurazili.   Hanka má v nich ozajstné priateľky. Keď je ona smutná, i kravy sa   smutne dívajú. Keď plače, i kravy slzia. Hej, Hanka má tu predsa   niekoho, komu môže vyžalovať svoje bolesti a zármutok!
+     </tei:p>
+     <tei:p>
+      A dobrý je k nej i Rohanin malý synček. Je to štrnásťdňové   teliatko. Býva v rohu maštale v neveľkej zápravke. Tam robí cirkus,   predvádza svoje teľacie kúsky. Hanka ho hneď po svojom príchode   pokrstila. Menuje ho Ryškom. A je to hodný parobček. Nie je o nič   hlúpejší ako ostatné teľce v jeho veku. S Hankou sa priatelí. Každý   deň ukazuje, čo sa zas nového naučil. Najradšej zdvíha chvostík   a šmiera zadnými nohami do výšky. Pri tomto výkone máva však ukrutné   nehody. Zakaždým totiž vrazí hlavou do steny. A to bolí. Žmurká potom   chudák od bolesti očami. Ba niekedy je to také prudké, že mu i slzy   vyhŕknu. No keď ho Hanka pohladí, potľapká a pochváli, hneď to všetko   prejde. A Ryško ešte bujnejšie vyvádza.
+     </tei:p>
+     <tei:p>
+      Ba i zajačiky-králiky majú Hanku rady. Hopkajú za ňou po maštali   ako prítulní psici. A keď Hanka zavolá «muc, muc!», to obklopí ju   celá črieda ušiakov. Panáčkujú potom a berú si z Hankiných rúk   potravu.
+     </tei:p>
+     <tei:p>
+      A ešte holuby. Na ten kŕdeľ hrkútavých vtákov nesmieme zabudnúť.   Tam si poletujú po strechách stavísk, a keď Hanka vyjde na dvor, hneď   sa jej niektorý posadí na plece. Búdky majú popod odkvap maštale. Tam   majú hniezdočká a tam odchovajú i svoje mladé. Hanka veľmi rada   počúva ich hrkútanie. Keď si večer líha na priču nad chlievikom,   holuby jej hrkútajú uspávanku. A keď sa ráno zobúdza, akoby sa jej   prihovárala dobrá mamička, tak znie ten hlások holubov.
+     </tei:p>
+     <tei:p>
+      «Hrkú-hrkú-hrkú.»
+     </tei:p>
+     <tei:p>
+      Nuž, Hanička, nebuď smutná. Nehnevaj sa na zlých ľudí a na   ukrutného koňa. Ostatné zvieratá a vtáky ťa majú rady. Majú ťa rady   kravy, teľa, zajace, holuby, prasce, sliepky, husi, pes, mačka…   Hanička, nebuď smutná! Neplač…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Príchod učiteľa
+     </tei:head>
+     <tei:p>
+      «Tak školu predsa len budeme mať. Dnes som dostal od školského   inšpektorátu prípis, v ktorom nám oznamujú jej zriadenie. I učiteľa   nám už vymenovali. Nejakého Štefana Hronkina.» To rozpráva pohraničný   strážnik Matej Majda svojmu druhovi Františkovi Novákovi. Vracajú sa   práve zo služby, z obchôdzky po štátnej hranici. Na pustatine Betö je   totiž oddelenie pohraničnej finančnej stráže, ktorá má za úlohu   strážiť úsek československej hranice od piešťanského mosta po most   kováčovský. Hranicu tu tvorí rieka Ipeľ. «Veď dobre, dobre! Je to   pekná vec, že nám tú školu konečne povolili! Veď si sa, Matej, dosť   za tým nabehal! Ale pováž, kde ju len umiestime, kým nám zas poukážu   potrebnú sumu na vybudovanie školskej budovy? A kde bude bývať   učiteľ? Však sám najlepšie vieš, aká je tu hrozná núdza o miestnosti   a o byty! Sami bývame so svojimi rodinami len v tesných komôrkach   chalúpok tunajších obyvateľov.»
+     </tei:p>
+     <tei:p>
+      «Aj o to je postarané. Veď prv, ako nám školu povolili, museli sme   oznámiť úradom, kde sa bude dočasne vyučovať. Bude to u kolára   Perčinu. Ten má dve izby. A sľúbil, že za dobré nájomné jednu z nich   prepustí.»
+     </tei:p>
+     <tei:p>
+      «A učiteľ?»
+     </tei:p>
+     <tei:p>
+      «Učiteľ sa môže ubytovať v pitvorci, cez ktorý sa vchádza do   izby.
+     </tei:p>
+     <tei:p>
+      «Tak to máš už všetko pripravené?»
+     </tei:p>
+     <tei:p>
+      «Všetko. Len neviem, ako sa nám učiteľ sem dostane cez toto   blatisko. Po Modrý Kameň autobusom. Ale ako ďalej?»
+     </tei:p>
+     <tei:p>
+      «Počul som, že autobus dochádza zas až do Želoviec. Opravili vraj   cesty. No a zo Želoviec je to už len asi 16 kilometrov. To dobré kone   prebrodia, hoc budú i po bruchá zapadať.
+     </tei:p>
+     <tei:p>
+      «Neviem… neviem…» starostlivo usudzuje Majda a rozhliada sa po   pustých pláňach, na ktorých v lete zvonievajú klasy dozrievajúcej   pšenice.»
+     </tei:p>
+     <tei:p>
+      Na druhý deň hijoká jeden zo želovských furmanov na poľnej ceste k   Betövu. Na voze má naložený kufor a učiteľa Hronkina. Preklína   všetkých bohov a učiteľov, keď mu kolesá voza zapadajú po osi do   mazľavého blata. Ľutuje, že sa dal zlákať dobrou odmenou, a najradšej   by ihneď vysypal učiteľa i s jeho kufrom do mláky a vrátil sa domov.   Hronkin má veru už i strach, že sa tak stane. Ale nie, nepoznáte   želovských furmanov! Veď by sa taký furman ani neubránil posmeškom,   že náklad zhodil na polceste, keďže mu «kocúry» zaviazli po uši a   nevládali dotiahnuť.
+     </tei:p>
+     <tei:p>
+      A tak ťahajú koníky, ťahajú, až dotiahnu k prvým domkom pustatiny.   Tu furman zastaví a obracia sa k učiteľovi:
+     </tei:p>
+     <tei:p>
+      «Tak, kde vás mám zložiť?»
+     </tei:p>
+     <tei:p>
+      «To veru neviem. Som tu neznámy. Musím sa ísť popozerať do tých   domcov…»
+     </tei:p>
+     <tei:p>
+      «A čo si myslíte, že ja mám kedy na vás tu hodiny vyčkávať?»   a nazlostený furman už aj sťahuje Hronkinov kufor z voza naprostred   cesty do blata.
+     </tei:p>
+     <tei:p>
+      «Preboha! Azda ma tu nechcete takto nechať?»
+     </tei:p>
+     <tei:p>
+      «Doviezol som vás do Betöva. To bola moja povinnosť. Prosím si   zaplatiť.»
+     </tei:p>
+     <tei:p>
+      A učiteľ zaplatí 120 korún. Hej, kto mu to kedy nahradí? A schádza   z voza. Ozaj, kde tu len stúpiť? Hop! a už trčí po členky v blate. Do   topánok sa mu naberá špinavá voda. Joj, to je hrozné! Chce pokročiť,   aby si vyslobodil nohy z tejto hnusoby. Ale beda! Nohy zapadajú ešte   hlbšie. Už je v tom takmer po kolená.
+     </tei:p>
+     <tei:p>
+      «Hja, braček! Do našich krajov nesmiete sa vybrať v lakovkách! V   tých si môžete špacírovať niekde po meste. Tu sa nosia poriadne   vysoké čižmy!»
+     </tei:p>
+     <tei:p>
+      A pán učiteľ bezradne prijíma lekciu. Potom sa obzerá po   chalúpkach. Pred nimi už stoja ich obyvatelia. Prekvapene sa dívajú   na nového hosťa pustatiny. A ten tam stojí v čiernych šatách a v   lakovaných topánkach rozkročený vprostred cesty v blate. Ach, ako   komicky vyzerá s tým kufrom!
+     </tei:p>
+     <tei:p>
+      «Prosím vás pekne, ja som sem prišiel za učiteľa, nemohli by ste   mi poradiť, kde sa mám uchýliť?»
+     </tei:p>
+     <tei:p>
+      «Nem tudok tótul…»
+     </tei:p>
+     <tei:p>
+      Na tomto konci pustatiny bývajú totiž samí Maďari. Aj oni síce   vedia, že sa má v najbližších dňoch zriadiť škola, ale sa na to   hnevajú. Chceli by školu maďarskú. No aby to bola škola slovenská, o   to sa už dávno postarali pohraniční strážnici, ktorí sú národnosti   českej a slovenskej. Im totiž už tiež dorastajú deti do školy.   A nechceli by si ich dať odnárodniť.
+     </tei:p>
+     <tei:p>
+      Nuž darmo sa Hronkin prihovára týmto ľuďom a márne žiada od nich   rady. I keď rozumejú, kto je a čo si želá, predsa len nejavia nijakú   ochotu pomôcť mu. Nuž usadzuje sa milý pán učiteľ na svoj kufor a   vyčkáva zúfalý naprostred cesty svoj ďalší osud.
+     </tei:p>
+     <tei:p>
+      «Haló, deti, pán učiteľ vám prišiel, bežte si ho privítať!»
+     </tei:p>
+     <tei:p>
+      Drobizg sa hrnie. Z horného konca pustatiny i z najodľahlejších   hlinených chalúpok vybehujú zafúľaní chlapci a dievčatá. To vám je   divadlo! Pán učiteľ na kufri a okolo neho 15-20 nazízajúcich   hlavičiek. Okukujú si ho ako novú smiešnu hračku. No skoro   prichádzajú i dospelí a Hronkin sa vyslobodzuje z tejto komickej   situácie. Privítajú ho členovia pohraničnej stráže a odvedú do   miestnosti nastávajúcej školy.
+     </tei:p>
+     <tei:p>
+      V najbližších dňoch začína sa vyučovanie. Je to hrozná práca. Niet   dosiaľ nábytku a niet učebných pomôcok. A tí žiaci! Dochádzajú i z   okolitých samôt. Nazbieralo sa ich spolu 34. Väčšina z nich však   vôbec nechodila do školy. Nemali kam. Najbližšie školy sú až v   Kováčovciach a v Čelároch. A to je pekných pár kilometrov. A i tí, čo   ta chodili, učili sa dosiaľ len po maďarsky, lebo tam sú maďarské   školy.
+     </tei:p>
+     <tei:p>
+      Po nejakom čase to však predsa len prichádza ako-tak do riadnych   koľají. Začína sa to podobať škole a vyučovaniu. Z húfu zašpinených   detí stáva sa trieda poriadnych žiakov. Medzi nimi vidíme i našu   Hanku. Gazda Rigo ju síce nechcel dať do školy, ale pán učiteľ   rozhodne zakročil. Keď je školopovinná, do školy chodiť musí! A tak   Hanka každý deň zamieňala maštaľ na niekoľko hodín za školu. Cíti sa   tu dobre. Učí sa rada. Len tak hlce tie písmenká a ostatné náuky.   Najradšej má však vlastivedu. Ten obraz, čo pán učiteľ nazýva mapou a   na ktorom je nakreslené celé Slovensko, ukrutne sa jej páči. Taký   kúsok papiera, čo si ho pán učiteľ poskladá a vloží do vrecka, a   predsa je tam namaľovaný taký kus sveta! Hej, i Vysoké Tatry sú tam!   Hanka už videla tie tmavé škvrny, na ktorých je napísané Kriváň,   Gerlachovka, Lomnický štít a ktoré sú jej domovom.
+     </tei:p>
+     <tei:p>
+      «Ty že si z Tatier? No, a vedela by si tam sama zacestovať? Poďže   k mape a ukazuj nám, kade by si išla!»
+     </tei:p>
+     <tei:p>
+      Hanka, to pravda, ešte nevie, ale pán učiteľ tak podrobne opisuje   cestu, že by sa za tým dalo zájsť i posliepačky. On je totiž rodák   spod Tatier. Tam má domov.
+     </tei:p>
+     <tei:p>
+      A Hanka si vštepuje do pamäti každé slovo. Smer ciest i mená   dedín, ktorými by sa dostala pešo alebo povozom do Lučenca a potom   vlakom cez Vrútky na Štrbu a Poprad… Ach, domov!… Mamička!…   Domov!…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Túžba po domove
+     </tei:head>
+     <tei:p>
+      A Hanke cesta k domovu, ktorú poznala na mape, začína vŕtať   v hlave. Čo keby ju raz prekonala? Keď príde jar a vyschnú cesty… Keď   sa rozzelenajú tatranské lúčiny a vtáci budú spievať… Keď sa zas   navrátia prekrásne dni a rozprávkové večery. Keď tam pri   jazierku…
+     </tei:p>
+     <tei:p>
+      Ach, mamička moja drahá! Či vás ešte uvidím? Kde ste mi, kde ste?   Kde sa teraz asi skrývate? Kde prežívate tie sychravé zimné dni a   studené noci? Či sa máte aspoň kde zohriať? Či nie ste hladní? A čo   robí moja malá sestrička? Čo robia bračekovci? Ako sa vodí Paľkovi u   bohatých pánov a čo je s Miškom v Bratislave? Ach, ako dobre, že sa   už skoro naučím písať! Budem vám vypisovať dlhé, dlhánske, dlhokánske   listy… Ale nie, nie listy, chcem radšej sama k vám zabehnúť! Chcem sa   k vám navrátiť! Ta, k milému jazierku. Do útulnej pivničky… Oj, ako   krásne tam bývalo!
+     </tei:p>
+     <tei:p>
+      A Hanka, kade chodí, tade snuje plány na návrat do Tatier. Pri   každej práci myslí na domov. V každom sne sníva o svojich najmilších.   Niekedy sa tak pohrúži do myšlienok, že ani nevie, čo sa okolo nej   deje. Nevidí, nepočuje, necíti. Nepozoruje, že sychravé dni striedajú   sa s mrazivými nocami. Nevšíma si plynúcich udalostí. Nevníma zlobu,   ktorou ju zahŕňajú. A len keď ju gazda Rigo surovo okríkne, preberá   sa zo svojho pohrúženia.
+     </tei:p>
+     <tei:p>
+      «Hej, čo sa ty, dievčisko, vláčiš ako mátoha?! Zamýšľa sa a nedáva   si pozor na robotu! Mohla by si sa radšej niečomu priučiť! Kravy   dojiť! I tak sa musíš chytiť do toho. Keď sa nám Rysuľa otelí, nebude   veru stačiť gazdiná na všetky. A to už čakáme každý deň. Ba – aby som   nezabudol – zverujem ju tebe do opatery. V noci nedrichmi ako bunda,   ale skoč vždy a podívaj sa na ňu. A keď zbadáš, že sa niečo deje,   zobuď i mňa! Beda ti, ak sa stane pre tvoje darebáctvo nejaké   nešťastie! A to sa pri telení kráv často stáva. Keď nie sme dosť   opatrní, môže sa zaliať teliatko, alebo môžu vyhučať vnútornosti z   teliacej sa kravy. A najmä pri prvôstkach, ako je Rysuľa, je to   nebezpečné. Preto pozor! Lebo beda tvojej koži! Zodral by som ju z   teba ako zo starého psa!»
+     </tei:p>
+     <tei:p>
+      Ach, že je už koniec tej surovej reči! Ale prečo tu tak drsno   každý s Hankou zachádza? I deti, čo s ňou chodia do školy, volajú ju   len
+      <tei:emph>
+       «kraviarčaťom»,
+      </tei:emph>
+      akoby nevedeli, že sa ona správne   menuje Hanka Čenková. A na ceste zo školy vždy sa jej posmievajú. Ale   to ich na to navádza ten Ákoš. A nemajú veru príčiny posmievať sa jej   chudobe. Samy sú dokonalé bedárčatá. Ich otcovia bývali sluhami   a bírešmi na tunajších panstvách maďarských veľkostatkárov, kým tieto   veľkostatky nerozparcelovali.
+     </tei:p>
+     <tei:p>
+      Teraz sú však bývalí sluhovia a bíreši ešte väčšími žobrákmi, než   boli do tých čias, lebo prídel z poľa dostal len ten z nich, čo mal   peniaze. A tých bolo veru veľmi málo. Ostatnú zem rozpredali   slovenským kolonistom. Tak teda väčšina tých detí, čo sa Hanke   posmievajú, je práve taká chudobná a biedna, ako je Hanka sama. Veru,   nejedno neraz nemá čo do úst vložiť, aby si ukojilo hlad! A bývajú   tiež chudobne ako Hanka. Na samotách a v dedinách nie je síce nejakou   hanbou spávať v maštali. Tu je to prirodzené, že sluha býva spolu s   dobytkom. Domy sa nebudujú veľké. Len malé hlinené chalúpky s jednou   izbičkou, ktoré nemávajú ani dlážky a sú také nízke, že sa v nich   vyšší človek dotýka hlavou povaly. Oblôčiky týchto izbičiek zakryli   by ste dvoma dlaňami. Spáva sa tu teda v lete na šope v sene a v   zime, kto sa nezmestí do izbice, ide spať do maštale na slamu.
+      <tei:emph>
+       «Chudoba cti netratí.»
+      </tei:emph>
+     </tei:p>
+     <tei:p>
+      Lež Hanka vie, že pôvodom všetkých tých posmeškov je ich osemročný   Ákoš. To je také rozmaznané, zlostné chlapčisko. Rodičia mu dávajú   všetko po vôli. Ba ešte sa i smejú, keď vyvedie nejaké grobianstvo.   Nepotrescú ho, keď starej tetke, čo chodí o palici, nadáva do   kriváňov; nenapomenú ho, keď statok týra remenným bičom.
+     </tei:p>
+     <tei:p>
+      Ale toto sa mu raz zle odplatilo. Vošiel práve do maštale a začal   šľahať. Šľahol Rohaňu, až sa prehla a zabučala od bolesti. A šľahol   i Šárgu. No Šárga neprijal svoj údel pokorne ako krava. Obzrel sa   zlostne, vyškeril zuby, a keď videl, že nezbedník stojí konča neho   a že by ho teda nedosiahol svojimi hryzadlami, vytrônil kopytami.   Chlapec skríkol, a už sa aj váľal naprostred maštale. Ľavou rukou si   chytal pravé rameno a volal s plačom na otecka a mamičku. Kôň ho   trafil do pravého ramena. Bolo veľkým šťastím, že nie do hlavy, lebo   by bol nezbedník doplatil životom. Rana bola naozaj veľká a ťažko sa   hojila. Celé dva týždne chodil Ákoš s obväzmi.
+     </tei:p>
+     <tei:p>
+      No ani tento prípad mu nebol dostatočnou poučkou. Sotva sa ako-tak   uzdravil, už vyčíňal zas.
+     </tei:p>
+     <tei:p>
+      «Ákoško! Poď, syn môj, oblečiem ťa do sviatočných šiat, pôjdeme k   starým rodičom na návštevu. Starý otec má dnes narodeniny, pôjdeme mu   blahoželať.»
+     </tei:p>
+     <tei:p>
+      No sotva matka syna vyobliekala, už je Ákoš v maštali. Chcel sa   pred Hankou popýšiť, aký je on pán vo sviatočných šatách.
+     </tei:p>
+     <tei:p>
+      «Podívaj sa, kraviarča, to mi sluší, čo?! Hm, že by si i ty chcela   tak sa vycifrovať a ísť na návštevu?»
+     </tei:p>
+     <tei:p>
+      Ale Hanka si ho nevšíma. Neodpovedá mu vôbec. A to chlapca   dopaľuje. Rozmýšľa nachytro, čo by vykonal Hanke, aby ju pozlostil.   Hej, vypustiť jej tak toho bujného býčka zo zápravky. Nech sa potom   kraviarča morduje, kým ho zas ta dostane. A keby jej tak býček ušiel,   to by bol fígeľ!
+     </tei:p>
+     <tei:p>
+      A už sa blíži k zápravke a otvára dvierka. Pravdaže, Ryško len na   to čakal! Rúti sa z väzenia ako šialenec a radostne skáče okolo   Ákoša. Hádže hlávkou a trôňa zadnými nohami, až mu kusy hnoja z ratíc   odfrkujú a padajú Ákošovi rovno do tváre. Chlapec sa chce tomu   brániť, oháňa sa rukami, ale býčka to len posmeľuje. On nerozumie, čo   chce Ákoš dosiahnuť tým rozhadzovaním rúk. Jemu sa zdá, že ho tým   vyzýva na zápas. A už sa aj rozbehuje a bác chlapca hlavou do brucha.   Ákoš sa od bolesti prehýna vo dva konce. Nemôže ani vykríknuť. Na   žalúdok si pritláča dlane a celý sa predkláňa. A to je býčkovi práve   vhod. On si myslí, že mu Ákoš nadstavuje hlavu, ako to robia teľce   pri pračke. A už sa rozbehuje znova a bác Ákoša do hlavy. Chlapec sa   potáca späť a klesá zadkom práve do veľkého kravského lajna.   Posadzuje sa doň vo svojich parádnych šatách ako do pohovky. A teraz   len nastáva tentušenie. Ryško skáče, strká, kope rozradostený svojím   víťazstvom. A Ákoš sa premieňa na hromádku hnoja a bolesti. Nebyť   Hanky, ktorá svojím rozhodným zakročením odvádza býčka späť do   zápravky, zostala by z Ákoša len rozcapartená mŕtvolka. No i tak je   hrozný pohľad na chlapca. Ruky, tvár, šaty, to ani nevidieť spod   kravského trusu. Ba i ústa, uši a oči má ním zapchaté. Zvíja sa tam a   stene od bolesti a Hanka ani nevie, ako mu chytro pomáhať. Tak, teraz   sa mu veru zišlo to «kraviarča», keď ho ratuje v nešťastí!
+     </tei:p>
+     <tei:p>
+      Už je štrnásť dní od čias, čo gazda Rigo prikázal Hanke dávať   pozor na Rysuľu. Hanka deň i noc bdie a očakáva nového člena   maštaľnej spoločnosti. Ale jemu sa akosi nechce na tento svet. No   bude iste býček, lebo býčky nosia kravy i dva týždne po čase.
+     </tei:p>
+     <tei:p>
+      Hanka je už celá vysilená. Cez deň tvrdo pracuje a v noci spáva   len «naúchytky». Každú chvíľu sa vytrhuje zo spánku a skáče z priče,   aby sa podívala na Rysuľu. No dnes sa ukazujú už zjavné príznaky.   Hanka musí byť veľmi opatrná. Nesmie zaspať, hoc oči sa jej už   stojačky zatvárajú. Ach, ako ju bolí hlava z tých prebdených nocí! Je   celá zmalátnená. Sotva sa vláči.
+     </tei:p>
+     <tei:p>
+      «Ach, Rysuľka moja zlatá, nemuč ma už toľko a dones konečne to   teliatko!» A Rysuľa akoby rozumela. Sústrastne sa díva na úbohú   Hanku. Výrazom svojho zvieracieho obličaja sľubuje, že už to bude.   Bude… Hanka ju objíma okolo šije. Sadá si na válov. Hlávka jej klesá   do žľabu. Usína. Krava jej líže tvár, vlasy, ruky, nohy… Hanke sa   zdá, že ju to hladká jej dobrá mamička. Ach, aké je to milé!… Hanka   sa zo sna blažene usmieva… Je neskorá noc…
+     </tei:p>
+     <tei:p>
+      «Ej, pre teba by veru mohli i hromy biť a nielen krava sa teliť!   Ty si tu chrníš, a nech nedôjdem, ktovie čo by sa porobilo!»
+     </tei:p>
+     <tei:p>
+      Hanka sa strhuje. V prvej chvíľke nechápe, čo sa robí. Pozerá…   pozerá, kde je jej mamička, a až o chvíľu vidí, že tu stojí gazda   Rigo s lampášom. Rysuľa sa zvíja v pôrodných bolestiach. Na svet   prichodí krásny sivý býček. Matka si ho líže, umýva a malý synček už   sa aj stavia na nohy. Všetko šťastne. Rigo je spokojný. Robí potrebné   opatrenie a odchodí.
+     </tei:p>
+     <tei:p>
+      «Tak je všetko v poriadku. Môžeš si ísť ľahnúť…»
+     </tei:p>
+     <tei:p>
+      A Hankou striasa zima. Je neskorá nočná hodina. Zíva sa jej, spala   by. Na priči je chladno. Líha si zas do žľabu pred kravy. Tie na ňu   dýchajú a zohrievajú ju, ako zohrieva osol na obrázku malé   Jezuliatko…
+     </tei:p>
+     <tei:p>
+      A Hanka blúdi vo snách tatranskými chodníkmi…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      List od brata
+     </tei:head>
+     <tei:p>
+      Hanka je jednou z najusilovnejších žiačok školy. Sotva uplynuli   tri mesiace výučby, a ona už vie krásne čítať. Pán učiteľ ju má zato   rád. Požičiava jej knižky na čítanie, Hanka síce má len veľmi málo   času na vzdelávanie sa, ale využíva každú voľnú chvíľku. V prestávke,   alebo kým sa iní žiaci hrajú, ona číta. Posledne jej požičal pán   učiteľ krásnu knižku, ktorú napísala česká spisovateľka Marie   Majerová. Tá knižka sa menuje Bruno. Tu Hanka číta o osude chlapca,   ktorý sa trochu podobá osudu Hankinmu.
+     </tei:p>
+     <tei:p>
+      Bruno je chlapec z cudziny, ktorého rodičia dajú na výchovu do   českej dediny, aby sa tam naučil po česky. Je to pre chlapca cudzie,   neznáme prostredie.
+     </tei:p>
+     <tei:p>
+      Nerozumie tamojším ľuďom a oni nerozumejú jemu. Českí dedinskí   chlapci posmievajú sa Brunovi a prezývajú ho. Zhrkujú sa vo svorky a   prenasledujú cudzinca. Bruno ťažko znáša ponižovanie. A keď už nemôže   trpieť krivdy a pohany, odhodláva sa na útek do svojho domova.
+     </tei:p>
+     <tei:p>
+      A táto časť knižky najviac Hanku zaujíma. Usilovne sleduje Brunov   podnik: veď aj ona chce ujsť. Napodobní teda Bruna, len si dá pozor,   aby sa vyhla chybám, ktorých sa dopustil Bruno pri svojom úteku. Áno,   ujsť! Už nebude dlho znášať ústrky! Už sa blíži jar. Cesty   vyschýnajú. Trávička pučí. Vtáci spievajú…
+     </tei:p>
+     <tei:p>
+      Na dojenie kravy treba mať silné prsty. Je to ťažká robota. Hanka   si len pomaly na ňu zvyká. Ešte vždy ju bolia palce a ukazováčiky na   rukách. Má na nich mozole.
+     </tei:p>
+     <tei:p>
+      I teraz dojí. Sedí na malom stolčeku vedľa kravy a medzi kolenami   drží zaseknutý hrotok. Poťahuje cecky a mlieko crká. Má už asi pol   hrotka speneného mliečka, keď niekto vstupuje do maštale.
+     </tei:p>
+     <tei:p>
+      «Ty si Hanka Čenková? Doniesol som ti list.»
+     </tei:p>
+     <tei:p>
+      «A od koho?»
+     </tei:p>
+     <tei:p>
+      «To neviem. Bol som včera na pošte vo Vrbovke a tam mi ho dali.» A   pohraničný strážnik podá Hanke list a odchádza.
+     </tei:p>
+     <tei:p>
+      «List? Ktože mi ho len písal?» diví sa Hanka a rozlepuje obálku.   «Len ako ho čím skôr prečítať? Veď kravu nemôžem nechať nedodojenú   stáť. Čo, keby vošiel gazda? Nuž, dám si ho vedľa na koleno a budem   odrazu i dojiť, i čítať!» A Hanka dojí i číta:
+     </tei:p>
+     <tei:p>
+      Milá sestrička moja,
+     </tei:p>
+     <tei:p>
+      iste sa začuduješ, keď dostaneš tento list! Kde som sa dozvedel   Tvoju adresu? Nuž bol som v úradovni pre sociálnu starostlivosť   o mládež, a tam mi ju povedali. Veru dlho som sa napremýšľal, kým som   vyhútal, ako sa dozvedieť o Tebe aj o ostatných našich drahých.   Mamičke som už dávnejšie dva razy písal, ale odpoveď som nedostal.   Hádam nedostali moje listy. Len keby si aspoň Ty tento list dostala.   Viem, že nevieš čítať ani písať, Ej, ba veru už viem!, myslí si   Hanka, ale dúfam, že nájdeš tam dobrého človeka, ktorý ti to prečíta   a ktorý mi tiež láskavo napíše niekoľko slov o Tebe. Veď tak smutno   je mi za vami v tomto cudzom svete! Už mnoho mesiacov prešlo, a ja   neviem nič o vás! Hádam od Teba sa niečo dozviem. Možno Ty mi   oznámiš, čo je s mamičkou, s Evičkou, s Paľkom, aj ako sa Tebe   vodí?
+     </tei:p>
+     <tei:p>
+      Ja sa tu mám veru hocijako. Biedy a hladu zakúsim sto ráz viac ako   u našej dobrej mamičky. A narobím sa ako otrok. Som tu slúžkou a   ošetrovateľom. Ale veru zlým ošetrovateľom, lebo práve v pondelok mi   pochovali jedného z mojich pacientov. Umrela mi pani majstrová. Celú   zimu ležala a vykašliavala kusy krvi. Lekár, ktorého majster zavolal   k umierajúcej, sa zhrozil. Záchrany nebolo. Hneď potom dokonala. Po   pohrebe nariadil lekár zdravotnú prehliadku nás všetkých, čo sme s   ňou bývali. A tu sa zistilo, že sme už všetci chorí na pľúca. I   majster, i jeho deti, i ja. Máme vraj ísť na liečenie do Tatier.   Červený kríž sa má o to postarať. Ja a majstrove deti že pôjdeme do   toho detského Šrobárovho ústavu v Dolnom Smokovci. A na to sa veľmi   teším! Ani z tej choroby si nič nerobím. Len keď pôjdem zasa domov!   Zas ta, k našej mamičke! A zas do lesov! Veru, je tam omnoho krajšie   ako v Bratislave, i keď má Bratislava mnoho krásnych vecí!
+     </tei:p>
+     <tei:p>
+      Všakže prídeš i Ty? Príď, pýtaj sa, a ak Ťa nepustia, ujdi! Príď,   budeme zasa chodiť na huby a naháňať veveričky! Príď, bude zas krásne   pri jazierku!
+     </tei:p>
+     <tei:p>
+      Nuž do videnia!
+     </tei:p>
+     <tei:p>
+      Srdečne Ťa pozdravuje Tvoj brat
+     </tei:p>
+     <tei:p>
+      Mišo
+     </tei:p>
+     <tei:p>
+      A Hanka zabúda, že má medzi kolenami zaseknutý hrotok a že dojí   kravu. Vo vytržení stíska cecky, na ktorých má Rysuľa boľavé   bradavky. Chce skríknuť: domov! domov! – keď vtom kopne krava od   bolesti nohou, a plný hrotok mlieka váľa sa po zemi. Čerstvé mlieko   leje sa po plánkach a steká s hnojnicou. Hanka sa díva na toto chvíľu   nechápave a potom zatrasie ňou strach a hrôza.
+     </tei:p>
+     <tei:p>
+      «Čo som to vyviedla?! Gazda ma bude biť! Jój! – Ba nie, ja sa   nedám biť! To bolí! Idem preč! Preč z tohto domu, kde pre mňa majú   len osočovanie a nadávky! Preč z tohto nevľúdneho prostredia! Preč od   nemilosrdných ľudí, dokiaľ sa nedozvedia, čo som   vykonala! – Preč! – preč!…»
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Paľko
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      V pohodlí
+     </tei:head>
+     <tei:p>
+      A teraz si zájdime na návštevu k Paľkovi. Vieme už, kde ho máme   hľadať. Nie je to tmavá diera bratislavskej Židovne, v ktorej sme sa   stretli s Miškom, ani nevľúdna maštaľ juhoslovenskej pustatiny, kde   sme sledovali utrpenie Hanky. Paľko býva v krásnom paláci v útulnom   mestečku pod Tatrami. Keď pritisneme pri bráne malý biely gombík, na   chodbe budovy ozve sa elektrický zvonec a vo dverách sa zjaví bystrá   devuška, ktorá nám beží otvoriť. «Čo si želáte?» spytuje sa nás.
+     </tei:p>
+     <tei:p>
+      «Nuž, chceli by sme navštíviť malého Paľka Čenku. Boli sme už u   jeho brata v Bratislave aj u sestry na maďarských hraniciach. Teraz   by sme chceli vidieť, ako sa má on.»
+     </tei:p>
+     <tei:p>
+      «Nech sa vám páči!» hovorí devuška a vedie nás dnu.
+     </tei:p>
+     <tei:p>
+      Ej, veru, braček Paľko to najlepšie vyhral zo svojich súrodencov!   Hľaďte len, aký sa stal z neho pán! Má na sebe krásne vyhladené   šatočky a v topánkach by ste sa mu mohli uvidieť ako v zrkadle! Vlasy   pristrihnuté a pričesané «
+      <tei:emph>
+       na ježka»,
+      </tei:emph>
+      pod bradou hodvábna   mašlička a na ruke zlatý prstienok. Vymytý, vyčesaný, ba ešte   navoňavkovaný nejakým violetovým parfumom. Hej, veru, ani by sme ho   nepoznali, keby sa neusmieval na nás tým svojím dobráckym úsmevom,   pri ktorom mu očká svietia ako dva uhlíky.
+     </tei:p>
+     <tei:p>
+      «Nuž, ako sa máš Paľko?»
+     </tei:p>
+     <tei:p>
+      «Dobje,» odpovedá a už nás vedie z predizby do ďalších miestností.   Prechádza salónmi, jedálňami, spálňami. Všade prepych a veľkoleposť.   Perzské koberce, mahagónový nábytok, zlaté rámy na obrazoch. Každá   sála ináč vymaľovaná a každá ináč zariadená. Sošky, prikrývky,   podušky, jelenie parohy, vypchaté vtáky, ťažké záclony, vázy,   obrázky, pamätníky a nekonečný počet iných okrás. Na stenách zrkadlá   a veľké portréty. Ako v múzeu. Mohli by sme hovoriť o nevkuse.   Istotne, každý človek by sa tu dobre necítil, ale každého musí   ohromiť to veľké bohatstvo. Každého by to prepychové haraburdie   nepotešovalo, ale každého musí zaraziť skutočnosť, že v týchto   veciach leží nezužitkovaná nesmierna hodnota…
+     </tei:p>
+     <tei:p>
+      Vari dvanásť, ako v rozprávke o zakliatom zámku, a hádam i viac   tých izieb prechádzame, kým sa zastavuje náš Paľko vo svojom   salóniku. Áno, aj on má salón, kde prijíma návštevy, a má i svoju   spálničku. V salóniku nás usadzuje a otvára veľkú dubovú skriňu, aby   nám ukázal svoje hračky.
+     </tei:p>
+     <tei:p>
+      Najprv vyťahuje krásneho dreveného koňa s koženým sedlom. Toho má   najradšej. Menuje ho Fakom. Chytá ho za uzdu, nohy do strmeňov, sadá   naň a už: «Dzi, koníčku, do Plešova, dzi, dzi, dzi!…» Potom trúbi   auto a rapčí od jednej steny k druhej, píska železnica a jachá po   kruhovej linaji, pochodujú cínoví vojaci, skáču gumené lopty. Napokon   nám Paľko skladá továreň z hracích kociek, a to práve takú, ako má   jeho «tati».
+     </tei:p>
+     <tei:p>
+      «To je tebe hej! A nespomínaš si na svojho bračeka a na   sestričky?»
+     </tei:p>
+     <tei:p>
+      Paľko myká plecami.
+     </tei:p>
+     <tei:p>
+      «A na mamičku si ešte nezabudol?»
+     </tei:p>
+     <tei:p>
+      «Boli ma navštíviť. Plakali.»
+     </tei:p>
+     <tei:p>
+      Do salónika vchádza kuchárka. «Paľko, mám ťa pripraviť na obed. V   jedálni je už prikryté. Budeme obedovať.»
+     </tei:p>
+     <tei:p>
+      Lúčime sa. Opúšťame Paľka, aby mohol ísť obedovať. Prejdime zas v   mysli tým dlhým radom prepychových miestností, ktoré slúžia za   príbytok trom ľuďom: továrnikovi, jeho panej a Paľkovi. Trom ľuďom   azda dvanásť, ba hádam i viac izieb… Mišo, kde ty bývaš so svojím   majstrom a s jeho rodinou? Hanka, kde ty spávaš? Deti, kde sa skrýva   vaša matka s najmladšou sestričkou? V jedálni je pripravené.   Predjedlo, polievka, príkrmy, pečienka, múčniky, ovocie, víno. Všetko   vzorne servírované. Pre tri osoby: pre pána továrnika, pre jeho paniu   a pre Paľka.
+     </tei:p>
+     <tei:p>
+      Paľko, ty zabúdaš na svoju matku a na súrodencov? Prečo? Prečo   nemôžu zabudnúť Mišo a Hanka?
+     </tei:p>
+     <tei:p>
+      Hm, v hojnosti sa ľahko zabúda na biedu…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Na lyžiach
+     </tei:head>
+     <tei:p>
+      Na nížinách môže byť blato, na uliciach Bratislavy zmrznutý prach,   ale tatranská zima sa nikdy neobíde bez snehu. Na vysokých horách   sneží od včasnej jesene do neskorej jari. Kým obyvatelia južných   častí Slovenska túžia v túto zimu čo i len uvidieť strapce snehu, pod   Tatrami zapadajú vlaky do neprepustných závejov.
+     </tei:p>
+     <tei:p>
+      Rozľahlé stráne, vysoké končiare, hlboké údolia – a všetko sa to   podobá ohromnej plastickej mape, vymodelovanej v najbelšom tvarohu.   Ešte i stromy, lesy, ktoré sa v lete zelenievajú, tmavejú, sú teraz   zasypané mohutnou vrstvou páperovej bieloby. Vzduch zvoní čistotou a   srdcia lyžiarov túžbou po zasnežených úbočiach.
+     </tei:p>
+     <tei:p>
+      «Poďme, poďme! Haló – hej – hop!»
+     </tei:p>
+     <tei:p>
+      Pán továrnik s paňou a s Paľkom sú na tatranskom Hrebienku.   Vyviezli sa sem zo Smokovca lanovkou. Odetí sú v lyžiarskych úboroch   a na nohách majú pripäté lyže. Veľmi radi sa lyžujú. Vedia, že je to   zdravý šport. A čo zábavy pri ňom.
+     </tei:p>
+     <tei:p>
+      Hlaďme len na Paľka, ako sa práve kopŕca! Ale neudrie sa. V snehu   sa môžeme váľať ako v perinách a nezraníme sa. Sneh je mäkký, sypký.   A Paľkovi nie je pritom ani zima. Má dobré, teplé rukavice a šaty,   ktoré hrejú ako pec. Lyžovať sa síce ešte nevie, ale v padaní, to vám   je už z neho pravý umelec! Niet lyžiara, ktorý by toľko ráz padol ako   Paľko. No i to je umenie! «Čože, na lyžiach sa zviezť dolu brehom, to   dokáže každý,» myslí si Paľko, «ale skúste sa niektorý zviezť na   chrbte, ako to robím ja!»
+     </tei:p>
+     <tei:p>
+      A naozaj, Paľko viac sa šmýka na zadku ako na lyžiach. Ale to   neškodí. Veď sa on naučí. Lyže má dobré, remienky na nich v poriadku   a palice s krúžkami tiež. A to je hlavné. Ostatné už príde samo od   seba. Veru, tak o desať dní sa mu už nebudeme posmievať, že do brehu   si vyšľapuje pyšne na lyžiach a z brehu že sa lyže hanebne vezú na   ňom! To už bude jazdiť ako čert na babe!
+     </tei:p>
+     <tei:p>
+      A pán továrnik sa o to postará. Jeho najmilším pobavením je, keď   sa môže s Paľkom hrať a učiť ho základným pohybom. Keď sa to   chlapcovi nedarí a robí kotrmelce, pán továrnik sa smeje, až mu   brucho tancuje.
+     </tei:p>
+     <tei:p>
+      «Ale tuná, na Hrebienku, predsa len nie je vyhovujúce miesto pre   takých lyžiarov, ako sme my,» hovorí pán továrnik. «Obávam sa, aby sa   chlapcovi niečo nestalo. Zvezieme sa dolu do Smokovca a odtiaľ   podnikneme ľahkú túru Cestou slobody k Lomnici. Tam je to nižšie   a nijaké nebezpečenstvo. Z Lomnice potom môžeme odcestovať vlakom   domov.»
+     </tei:p>
+     <tei:p>
+      «Dobre,» súhlasí pani továrnička. «I mne sa tu hlava krúti, ale   poďme si najprv do hotela zaobedovať.»
+     </tei:p>
+     <tei:p>
+      Paľko by radšej zostal. Jemu sa veľmi páči v týchto výškach.   Odtiaľto vidieť doširoka, doďaleka. Okolo skalné bralá, pod nimi   zasnežené lesy a v diaľkach v spišskej a liptovskej kotline,   rozsypané mestečká a dediny. A vlak, čo bafká tamdolu pod horami, tak   smiešne vyzerá v tých nekonečných pláňach snehu, akoby malý čierny   červiačik liezol po bielom obruse.
+     </tei:p>
+     <tei:p>
+      «Poď, Paľko, nezaostávaj!»
+     </tei:p>
+     <tei:p>
+      «A zasa ho len ‚Paľkom‘ voláš! Už som ti povedala, aby si ho tak   nemenoval. To zneje hrozne sproste, sedliacky. ‚Paľko!   Paľko!‘ – Fuj!» čertí sa pani továrnička.
+     </tei:p>
+     <tei:p>
+      «A akože mu mám hovoriť?»
+     </tei:p>
+     <tei:p>
+      «Palík, Pali.»
+     </tei:p>
+     <tei:p>
+      «Ale veď je to po maďarsky!»
+     </tei:p>
+     <tei:p>
+      «Neškodí, len keď je to pekné! A keď sa ti tak nepáči, budeme ho   volať Pačkom…»
+     </tei:p>
+     <tei:p>
+      «Poď, Pačko, poď!»
+     </tei:p>
+     <tei:p>
+      Po dobrom obede sa lepšie lyžuje ako na lačný žalúdok. A Paľko sa   veru vie napáckať do prasknutia. I teraz odchodí z hotela temer širší   než dlhší. No lanovka ho uvezie a potom sa už po dobrej ceste zašmýka   do Smokovca k Lomnici…
+     </tei:p>
+     <tei:p>
+      A ide to. Cesta je vyhladená. Paľko si fujazdí vopred a pán   továrnik s paňou za ním. Neminie hodinka, už sa približujú   k Tatranskej Lomnici.
+     </tei:p>
+     <tei:p>
+      Tu však Paľko naraz zastane. Nejak čudne sa obzerá vôkol. Čo to?   Prečo sa Paľko zastavuje? A zas sa tak zadivene obzerá dookola. Akoby   niečo poznával. Akoby sa nad niečím zamýšľal. Či čaká na pána s   paňou? Ale prečo tak skúmavo pozerá na stromy a na zaviaty potôčik?   Čo poznáva tam napravo, keď hodlá tým smerom odbočiť? Načo sa chce   brodiť celinou v snehu popri haditom potôčiku? A už sa aj brodí a   ide, zapadá a postupuje…
+     </tei:p>
+     <tei:p>
+      Hľa, tu bolo v lete jazierko, kde je teraz tá zaviata ľadová pláň…   Tam bola lúčka, kde je ten vysoký závej… A zas bude skoro tak, ako   bolo. Veď na juhu sa už začína jar. Tam, kde je Hanka, trávička už   pučí a vtáci spievajú… A o niekoľko týždňov i tu bude tak. Hej, ten   vysoký závej zmizne a z úbočia za ním zas zafľochne pivnička. Teraz   ju nevidieť. Je zasypaná ešte. Nebýva v nej nikto. Je tu pusto…
+     </tei:p>
+     <tei:p>
+      A Paľko stojí a díva sa kdesi do neznáma, akoby spomínal na niečo.   Tak vyjavene hľadí. Ani nepozoruje, že stoja už za ním jeho druhí   rodičia. Došli za stopou Paľkových lyží podívať sa tiež na bývalé   sídlo svojho zverenca… Čo sa tu asi deje v Paľkovej duši? Spomína na   matku a na súrodencov? Túži po návrate do tej zaviatej pivnice?
+     </tei:p>
+     <tei:p>
+      Obracia sa a odchodí.
+     </tei:p>
+     <tei:p>
+      «Mama, tati, poďme už domov…»
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Pri robotníkoch
+     </tei:head>
+     <tei:p>
+      Najlepšie sa paľko cíti, keď môže na chvíľu opustiť prepychové   siene a zájsť si do «tatiho» továrne medzi robotníkov. «Selvus,   stlýko! Ako sa máte?» prihovára sa robotníkovi pri stroji.
+     </tei:p>
+     <tei:p>
+      «Servus, Paľko! Ale ako sa mám, to ti poviem, len keď mi správne   vyslovíš: A tie vrabce z toho tŕňa štrng! brnk! do druhého tŕňa!»
+     </tei:p>
+     <tei:p>
+      «A tie vlabce z toho tĺňa štlnk! blnk! do dluhého tĺňa…»
+     </tei:p>
+     <tei:p>
+      «Zle. Povez: r-r-r-r-r!…»
+     </tei:p>
+     <tei:p>
+      «Lr-lr-lr-lr-lr…»
+     </tei:p>
+     <tei:p>
+      «No, vidíš! Už to trochu ide. Len ešte lepšie zatras jazykom!   Takto: -rrrrr…»
+     </tei:p>
+     <tei:p>
+      «Rrrrr…»
+     </tei:p>
+     <tei:p>
+      «Dobre. Len to už nezabudni! Stále sa cvič! Aby si nebol   brblavý.
+     </tei:p>
+     <tei:p>
+      «A teraz mi už poviete, ako sa máte?»
+     </tei:p>
+     <tei:p>
+      «Ale hej: Dva dni zle a na tretí ešte horšie…»
+     </tei:p>
+     <tei:p>
+      «A prečo sa máte zle?»
+     </tei:p>
+     <tei:p>
+      «Preto, že sa máš ty a tvoj ‚tati‘ veľmi dobre.»
+     </tei:p>
+     <tei:p>
+      Paľko má veľmi rád robotníkov. Oni mu nahrádzajú priateľov. Zavše,   keď mu dovolia ísť von, rozbehne sa medzi nich. Prechádza popri   bežiacom páse a každého sa vypytuje, čo robí. Robotníci mu radi   odpovedajú. Majú ho tiež radi. Vedia, odkiaľ sa dostal   k továrnikovcom. Menujú ho Bumbajkom. «Strýko zamazaný, a načo   hádžete toľko uhlia do pece?» vypytuje sa Paľko kuriča.
+     </tei:p>
+     <tei:p>
+      «Aby som mal veľký oheň.»
+     </tei:p>
+     <tei:p>
+      «A či vám je zima? Veď je tu strašne horúco»
+     </tei:p>
+     <tei:p>
+      «Nie pre seba potrebujem to teplo,» odpovedá kurič a už zas otvára   okrúhle železné dvierka pece a hádže širokou lopatou lesklé čierne   uhlie na oheň. Z pece šľahá taká žiara, že si Paľko musí zakrývať   dlaňami oči a ustupovať do pozadia, aby ho to nepopálilo. Ach, a ten   strýko ufúľaný musí tak blízko stáť pri plameňoch, kým nahádže uhlia   do pece.
+     </tei:p>
+     <tei:p>
+      Veď má už, chudák, celú tvár opálenú. Ani obŕv nemá nad očami. A   tie jeho šaty! Čierne ako uhlie a lesklé ako Paľkove topánky.
+     </tei:p>
+     <tei:p>
+      «Strýko zamazaný, a idú vám dobre tie hodiny?»
+     </tei:p>
+     <tei:p>
+      «Aké hodiny?»
+     </tei:p>
+     <tei:p>
+      «No tie, čo sa práve na ne dívate.»
+     </tei:p>
+     <tei:p>
+      «Ale veď to nie sú hodiny, to je manometer.»
+     </tei:p>
+     <tei:p>
+      «A to je načo?»
+     </tei:p>
+     <tei:p>
+      «Nuž pozri, to máš takto: Ja hádžem uhlie do pece, aby tam horel   veľký oheň. Nad pecou je kotol, naplnený vodou. Voda sa v kotle varí,   vrie a premieňa sa na paru. Para chce ujsť a ženie sa do valcov. Tam   sa dostáva k piestom, na ktoré tlačí, a tým nimi pohybuje. S piestami   sú spojené kolesá a pomocou remeňových transmisií všetky stroje   továrne. Tak prichádza do pohybu bežiaci pás a robotníci, ktorí pri   ňom pracujú, môžu vyrábať tovar.»
+     </tei:p>
+     <tei:p>
+      «Rozumiem,» hovorí Paľko. «Ale načo je ten manometer na   kotle?»
+     </tei:p>
+     <tei:p>
+      «Manometer ukazuje, aké je napätie pary v kotle. Akou silou tlačí   para na piesty.»
+     </tei:p>
+     <tei:p>
+      «Rozumiem, rozumiem,» tvrdí Paľko veľmi rozhodne. Nechce, aby ho   pokladali za sprostáčika.
+     </tei:p>
+     <tei:p>
+      A tak vyzvedá chlapec postupne všetky tajomstvá parného stroja.   Dozvedá sa, načo sú tie rozličné kľučky, kolieska, sochorky   a trubičky. Vie, kde treba otočiť, aby zasyčala para: kssss-ššššš,   a kde potiahnuť, aby sa ozvala siréna továrne: au-ú-ú-…
+     </tei:p>
+     <tei:p>
+      A čierny kurič svojho príčinlivého učňa zavše pochváli a pohladí   tou svojou drsnou, ako železo tvrdou rukou. Paľkovi je to príjemné.   Jemu neškodí, že tá ruka zanecháva mu na lícach tmavé škvrny a zápach   po oleji a železe. Protivné je to však pani továrničke, ktorá každú   chvíľu prikazuje svojmu «miláčikovi», aby sa nechodil špiniť do   továrne. Nechápe, ako sa môže Paľko dobre cítiť medzi tými   zašpinenými robotníkmi. Veď v salónoch je tak krásne, čisto   a pohodlne! Prečo to chlapča nesedí stále tu s ňou?
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Rozmary a vzdor
+     </tei:head>
+     <tei:p>
+      «Poď, Pačinko, poď si ku mne hopkať! Kúpim ti čižmičky, čo ti budú   klopkať.» «Ale ja chcem ísť von, k tým strýkom do továrne»…
+     </tei:p>
+     <tei:p>
+      «Nie, ta nepôjdeš, zas by si sa len ušpinil! Tu si sadneš na mäkkú   pohovku vedľa mňa.»
+     </tei:p>
+     <tei:p>
+      Paľko poslúchne, sadá, ale nie je mu to nijak po vôli. Šomre čosi,   nohami vyzváňa a kope do boku pohovky. Hlavu má sklonenú a zlostne   zazerá.
+     </tei:p>
+     <tei:p>
+      «Ale, Pačinko, ty sa dívaš ako hrom do bariny! ‚Ide svrček po   stene, že sa Pačko nesmeje; ide svrček po kadlube, že sa Pačo hnevom   šklbe!‘» posmieva sa mu pani továrnička. A Paľko sa hneď na jeden   fúzik usmieva.
+     </tei:p>
+     <tei:p>
+      «Tak vidíš, teraz si zlatý chlapček! Daj mi sem hlavinku, skloň si   ju do môjho náručia a budeme sa hrať ako mačiatka!»
+     </tei:p>
+     <tei:p>
+      Paľko povoľuje. Kladie si hlavu na kolená pani továrničky. Necháva   sa cambať za líca, poťahovať za nos a brnkať si prstami po perách.   Pri tomto mu spodná pera tlieska na hornú a robí   «lap-lap-lap-lap…»Pani továrničke sa to veľmi páči. Nadhadzuje sa od   radosti a všetečne sa smeje. Má rada takéto hry. Je rozmarná.
+     </tei:p>
+     <tei:p>
+      Potom zas berie Paľkovu ruku a varí mu na dlani «kašičku». Mieša   prstom, odrezáva hlavičky, pára, zakáľa a pritom hovorí:
+     </tei:p>
+     <tei:p>
+      Varila mama kasičku.
+     </tei:p>
+     <tei:quote>
+      <tei:p>
+       Tomu dala na lyžičku,
+      </tei:p>
+      <tei:p>
+       tomuto na tanierik,
+      </tei:p>
+      <tei:p>
+       tomuto na mištičku,
+      </tei:p>
+      <tei:p>
+       tomuto na panvičku,
+      </tei:p>
+     </tei:quote>
+     <tei:p>
+      a najmenšiemu sa už nič nedostalo, preto
+     </tei:p>
+     <tei:p>
+      vzala nožík, odrezala mu hlávku a párala,
+     </tei:p>
+     <tei:p>
+      párala a tuto zaklala…
+     </tei:p>
+     <tei:p>
+      Zaklala pod pazuchou, kde pani továrnička zavše Paľka hodne   pošteklí. Paľko pri tom výska, vreští, zvíja sa a kašle vynúteným   smiechom, až sa mu dych zastavuje.
+     </tei:p>
+     <tei:p>
+      Pani továrnička vie, že Paľko je jej hračkou. Veď na to jej ho   manžel kúpil. Mávala chrta, angorské mačky, a teraz má chlapca. Pes a   mačky bývali, pravda, poslušnejšie zvieratá, ako je Paľko. Frico sa   musel na rozkaz plaziť pri nohách panej a mačky jej museli lízať   ruky. Paľko je však vzdorovitý. Nerád sa podrobuje vrtochom pani   továrničky. On by sa radšej stále hral so svojimi hračkami, alebo by   sa rozbehol k strýkom do továrne, či medzi chlapcov na ulicu. Toto mu   však zabraňujú. On sa nesmie potulovať. Musí sedieť každý deň doma, a   keď si ho «mami» zažiada, musí jej robiť spoločníka.
+     </tei:p>
+     <tei:p>
+      Nie je to ľahká vec, dať sa každú chvíľu naťahovať za líca, za   vlasy, za nos i za uši. Dať sa štekliť do úmoru a trpieť frčky do   nosa, až slzy z očú vyhrkujú. Paľko to síce zavše za chvíľku i   pokorne znáša, ale nikdy nevydrží dlho bez toho, aby sa   nerozplakal.
+     </tei:p>
+     <tei:p>
+      Pani ho potom dráždi, posmieva sa mu, šteklí ho, až sa musí zase   cez slzy bolestne usmiať. Sú to ženské rozmary, ktoré hraničia   s ukrutnosťou. Továrnička, pravda, nechápe, že tým mučí dieťa. Ona   nerozumie detským záujmom. Nazdáva sa, že chlapec má byť šťastný, keď   sa ona s ním hrá. ‚Také žobráča, a môže sa baviť s bohatou pani   továrničkou!‘ myslí si.
+     </tei:p>
+     <tei:p>
+      Ale Paľko nechápe takto svoje postavenie. On nevie, že jeho úlohou   je byť hračkou. V žilách mu koluje bujná chlapčenská krv. Má svoje   požiadavky a chce si tiež vynútiť svoje práva. A preto, keď ho raz do   krajnosti utýrali rozmary pani továrničky, ozve sa v ňom vzdor a chce   sa pomstiť.
+     </tei:p>
+     <tei:p>
+      Vytrhne sa z rúk svojej trýzniteľky, postaví sa rozkročmo   naprostred salónu, otvára ústa ako vráta a chlapčenským spôsobom,   vylievajúc si všetku zlosť a nenávisť, vyplazuje na pani továrničku   jazyk, aký len má veľký a dlhý, s výkrikom: – «Mé…»
+     </tei:p>
+     <tei:p>
+      Pani továrnička žasne. Chytá si hlavu do dlaní a zúrivo   vreští:
+     </tei:p>
+     <tei:p>
+      «Grobianča sprosté! Pakuj sa mi z očú! Takú trúfalosť, ničomnosť,   nevďačnosť! Ber sa mi! – a už ťa nechcem ani vidieť!…»
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Koniec panstva
+     </tei:head>
+     <tei:p>
+      Veľké udalosti dejú sa vo významných časoch. Dni, ktoré práve   prežívame, stoja na prelome dejín. Niečo sa rúti, zaniká, hnije.   Zápach plesne a hniloby obtáča zem. To dokonáva súčasný spoločenský   poriadok. Ťažko však zdychá táto ohava. Kope okolo seba a zachycuje   posledný dych. Rada by sa zachrániť, predĺžiť si posledné chvíľky   života, a na to používa všetky nemožnosti. Vedie ukrutné vojny a   zároveň rozpráva rozprávky o odzbrojení a o svetovom mieri. Narieka,   že má všetkého prebytok, a šíri biedu. Reční o láske k človekovi i k   zvieraťu, a zabíja robotníkov a chudobných necháva hladovať.
+     </tei:p>
+     <tei:p>
+      A preto na východe nad Čínou dunia v tomto čase japonské kanóny a   v meste Ženeve cengocú vínové poháre. Preto tam vraždia, a tu si   rozprávajú o odzbrojení. Preto sa zastavuje výroba a po uliciach   sveta blúdia milióny nezamestnaných. Preto nemôžeme si v tejto knižke   rozprávať rozprávky babičiek, ale musíme hovoriť o súčasnom živote.   Preto usporiada dnes pán továrnik, Paľkov «tati», veľkú hostinu, a   preto zastavil včera výrobu vo svojej továrni a prepustil z práce   všetkých robotníkov…
+     </tei:p>
+     <tei:p>
+      Píše sa rok 1932…
+     </tei:p>
+     <tei:p>
+      Hostina je skvelá. Chuť do jedenia znamenitá. Nekazí ju vedomie,   že práve v tejto chvíli padol niekde na ulici človek od hladu. Hostia   sú vyberaní. Továrnici, obchodní špekulanti, bankári, vysokí   dôstojníci, cirkevní hodnostári…
+     </tei:p>
+     <tei:p>
+      Všetci pripíjajú pánu továrnikovi a jeho panej na zdravie. Je to   nejaká rodinná slávnosť. Hádam pán továrnik má narodeniny alebo jeho   pani meniny. Na tom nezáleží. Tu sa hoduje často, a preto už ani   nikomu nepríde na um spýtať sa, prečo. Hoduje sa, pije sa a Cigáni   hrajú. Čo koho do toho?
+     </tei:p>
+     <tei:p>
+      «Veselo, dámy! Veselo, páni! Na krízu nesmiete myslieť. Zakážeme   si medzi sebou to slovo! Aká kríza pre nás? Peňazí máme dosť v   bankách a tovaru plné skladištia! Že nejdú obchody? Že niet trhov?   No, toľko vždy ešte odpredáme, koľko nám treba na bezstarostný život.   A vojna sa blíži! Na východe už dunia delá a pušky treštia! Nech žije   nová svetová vojna! To nám bude zas hej! Továrne obnovíme, budeme   vyrábať vojnový materiál! Staneme sa slávnymi, staneme sa bohatými, a   ani vlas sa nám na hlave nepohne! Veď my na front nepôjdeme…»
+     </tei:p>
+     <tei:p>
+      «Hej, Cigán! Tichučké tango hraj! Pán továrnik so svojou paňou   majú sólo! Nech žijú vzácni hostitelia!»
+     </tei:p>
+     <tei:p>
+      «Nech žijú-ú-ú-ú!»
+     </tei:p>
+     <tei:p>
+      Pán továrnik so svojou paňou tancujú. Hostia si štrngajú,   pripíjajú.
+     </tei:p>
+     <tei:p>
+      «Tak, dušička, o niekoľko dní odcestujeme. Teraz ma už nebude nič   viazať k tejto diere, keďže som továreň zastavil,» hovorí pán   továrnik svojej panej. «Na francúzsku Riviéru, však? Oj, ako sa už   teším na krásne morské pobrežie! Tam je večná jar, všetko sa zelená,   kvety kvitnú, vtáci spievajú…»
+     </tei:p>
+     <tei:p>
+      «Áno, dušinka, tam si budeme žiť ako novomanželia! Ale… Čo urobíme   s chlapcom? Nebude to trochu nepríjemné vodiť ho stále so sebou? A   kto sa tam bude starať o neho?… Ba kde je? Kde si ho nechala, keď ho   tu nevidím?» «Ani mi nespomínaj to sedliača sprosté! Nechcem ho už   ani vidieť. Je to naničhodné chlapčisko. Urazilo ma najnižším   spôsobom. Predstav si len, keď som ho láskala, keď som sa s ním   maznala, vyplazilo na mňa jazyk. Áno, my sme zabudli, že v tom   chlapčisku nekoluje ani kvapka ušľachtilej panskej krvi, a privinuli   sme na hruď jedovatého hada!»
+     </tei:p>
+     <tei:p>
+      «Len čo teraz s ním?»
+     </tei:p>
+     <tei:p>
+      «Navrátime grobianča jeho materi. Odkážeme jej, aby si poň prišla.   Len čo najskôr, lebo ja ho už nechcem ani vidieť! Prichádza jar, nech   sa tam bagáž zas živí vo svojej pivnici!»
+     </tei:p>
+     <tei:p>
+      Cigáni dohrali, tango je dotancované a Paľkov osud spečatený…
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Zo sveta späť k mame
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      Zuzana Čenková
+     </tei:head>
+     <tei:p>
+      V onen jesenný deň, keď sa sociálna starostlivosť ujala Miša   a Hanky, vracala sa Zuzana Čenková plačúc k svojmu najmladšiemu   dieťaťu. Bol to tichý, trpký, bolestný plač matky, ktorá musela od   vlastného milujúceho srdca odsotiť si deti, len aby ich zachránila.   Nevedela, komu ich zveruje, a netušila, do akých rúk sa ďalej   dostanú. Len nádej a viera, že v cudzom svete budú šťastnejšie než   v jej chudobe, posilňovali ju v ťažkom žiali.
+     </tei:p>
+     <tei:p>
+      Po návrate do pivnice zovrela v náručí a pritisla si na uštvané   srdce zvyšok svojho kŕdlika, malú Evičku, a premýšľala, čo robiť   ďalej. V pivnici nemohla prezimovať s malým dievčatkom. Musela niečo   podniknúť. Musela hľadať záchranu.
+     </tei:p>
+     <tei:p>
+      Vybrala sa teda k domovníkovi hotela, v ktorom v lete pracovala.   Domovník bol jej známy. Poznali sa ešte z čias, keď Čenková bola pani   hájničkou. A tu nešťastná matka tak vrúcne prosila svojho starého   známeho, že by sa bola i skala pohla súcitom.
+     </tei:p>
+     <tei:p>
+      «Nie pre seba prosím, ale pre to malé dieťa, aby nezahynulo!   Pritúľte nás niekde na zimné mesiace…»
+     </tei:p>
+     <tei:p>
+      «Len ako to urobiť, len ako to urobiť… Veď viete, že by som vám   rád pomohol… Čo si však počať? Do ubytovacích izieb vás nesmiem   umiestiť, hoci sú všetky prázdne. To by ma ihneď prepustili zo   služby. A sám bývam so svojou rodinou v jednej miestnosti, kde sme   natlačení ako haringy… Ale – počkajte! O niekoľko dní má odísť chyžná   na dovolenku. Hádam by sa tu dalo niečo robiť… Požiadam ju, aby vám   dovolila vo svojej izbe prezimovať…»
+     </tei:p>
+     <tei:p>
+      Chyžná dovolila, a tak Zuzana Čenková so svojou dcéruškou prežili   najkrutejšie mrazy a fujaky v malej služobnej izbe hotela.
+     </tei:p>
+     <tei:p>
+      Boli to kruté dni hladu, zimy a biedy. Vo väčšine tatranských   hotelov sa totiž v zime nebýva. Otvárajú ich len na jar, na letnú   sezónu. V zime tam býva len domovník. V miestnosti sa nekúri a   v kuchyni nevarí. A tak to bolo i v tomto hoteli. Preto Čenková len   veľmi ťažko zháňala pre seba a malú Evičku potrebnú potravu.   A zakúrili si v piecke len vtedy, keď sa Čenkovej podarilo niekde   spod snehu vyhrabať kus dreva. Domovník im pomáhať nemohol. Sám žil v   biede. Mal dosť starostí so svojou rodinou.
+     </tei:p>
+     <tei:p>
+      Ale prežili už všetko. Pretrpeli zimu a prehladovali dlhé mesiace.   Blížia sa jarné dni. Úbočia kopnej ú a v dolinách zurčia rozvodnené   potoky. Príroda radostnie. Zaváňa novým životom. Veselosť tečie   z vtáčích hrdiel…
+     </tei:p>
+     <tei:p>
+      I v zraku Čenkovej leskne sa už viac nádeje. Veď príde zas leto   a bude práce a bude chlieb… Len spomienka na najstaršie deti ju ešte   vždy zarmucuje. Nič nevie o Mišovi a o Hanke. Od jesene, ako sa   rozlúčili, nemá nijakých správ o nich. Darmo sa v meste vypytovala na   úrade, kde ju chceli zatvoriť, že predáva deti, nič jej nepovedali.   Úradník sa len surovo na ňu oboril, že nemá kedy zháňať sa po   adresách. Uistil ju krátko, že deti sú v dobrých rukách… A Mišove   listy Čenková nedostala. Mišo adresoval do pivnice pri jazierku   v Tatranskej Lomnici. Pravdaže, ktorý poštár by mohol vyhľadávať   pivnice v lesných húštinách?!
+     </tei:p>
+     <tei:p>
+      No, aspoň Paľka niekoľko ráz uvidela. Navštívila ho zavše, keď   bolo možné prebrodiť sa závejmi k mestu. A tu sa potešila. Videla na   vlastné oči, v akej hojnosti a prepychu žije jej synáčik. Usmievala   sa pritom i plakala od šťastia. Nič si nerobila z toho, že Paľko sa   už pri tretej návšteve správal k nej chladne, akoby mu bola cudzia,   akoby ju ani nepoznal. Ešte prvý a druhý raz privinul sa k nej,   vyobjímal ju, porozprával sa, ale pri nasledujúcich návštevách držal   sa už skoro odpudivo. Nechápal, prečo matka plače, a jej láskanie   bolo mu priam protivné. S ním sa dosť nahrala každodenne jeho nová   «mami»… Lež milujúce srdce matky ospravedlňovalo túto ľahostajnosť   malého synka. Nehnevala sa preto naň a v duchu mu žehnala. Nijakej   väčšej túžby nemala, ako dopočuť sa raz, že i Mišo a Hanka majú sa vo   svete dobre ako Paľko. Nebolelo ju, že na ňu deti zabudnú, len aby   boli šťastné…
+     </tei:p>
+     <tei:p>
+      Akým prekvapením a sklamaním pre Zuzanu Čenkovú je však potom   chvíľa, keď sa zastavuje pred ňou panský sluha od továrnika a keď jej   oznamuje, že vyhľadal ju preto, aby jej oznámil, že si má ísť k jeho   pánovi vziať svojho synáčika! Ani neverí svojim ušiam.
+     </tei:p>
+     <tei:p>
+      «Čože?»
+     </tei:p>
+     <tei:p>
+      «Áno, posielajú ma páni, aby ste si prišli ihneď po svojho   Paľka.»
+     </tei:p>
+     <tei:p>
+      Čenková ide. Paľka si odvádza. Ani jej poriadne nepovedia, prečo   ho vracajú…
+     </tei:p>
+     <tei:p>
+      «Už ho nepotrebujeme. Berte si ho. Je po zime. Cez leto ho už   nejak vyživíte. Navraciame vám ho zadarmo.»
+     </tei:p>
+     <tei:p>
+      Čenková stojí na brehu jazierka pri pivnici. Zas sa sem musí   presťahovať. Chyžná sa už vrátila. Je jar. Vidí tam seba, Paľka,   Evičku. Ako v zrkadle. Díva sa na svoju rodinku… Jedno… Dvoje… Kde sú   ostatné? Mala štvoro! Kde je Hanka? «Deti moje, kde ste? Kde ste?   Ach, vráťte sa mi! Vráťte!»
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Mišo sa navracia
+     </tei:head>
+     <tei:p>
+      Čo Mišov majster predvídal, to sa aj stalo. Z neba nespadla   záchrana pre trpiacich, a preto Kasperova rodina hynula ďalej. Bieda   dokončovala ďalej svoje zhubné dielo.
+     </tei:p>
+     <tei:p>
+      Kasperová umrela na suchoty a ostatní členovia rodiny stali sa   majiteľmi tejto choroby chudobných. Ochorel majster, ochoreli jeho   deti a ochorel aj učeň Mišo. Lekár zistil u všetkých pľúcnu   tuberkulózu.
+     </tei:p>
+     <tei:p>
+      Ako bolo rozhodnuté o chorých, dozvedeli sme sa už z Mišovho listu   Hanke. Mali ich poslať na liečenie. A preto v najbližších dňoch potom   vidíme Miša lúčiť sa s Bratislavou. Vpadnutá bledá tvár, ruky vo   vreckách obšúchaných šiat, stojí tam na brehu rozvodneného Dunaja   malý obuvnícky učeň. Ešte raz chce vidieť do diaľav plávajúce lode,   ešte raz počuť hukot valiacich sa vĺn. Lode sa šinú majestátne ako   labute a vlny hudú pochodovú pieseň… Je to také pekné, že by pri tom   mohli básnici sniť a skladať svoje verše, keby sa v dnešných časoch,   naplnených pre nich významnejšími povinnosťami, mohli oddávať snom o   kráse.
+     </tei:p>
+     <tei:p>
+      Potom odchodí Mišo do ulíc mesta. Prechádza krížom-krážom   námestiami a pasážami, ulicami i uličkami. Odberá sa od veľkolepých   stánkov boha kresťanského i židovského, od palácov bánk i obchodov,   od víl boháčov i od chatrč a dier bratislavskej chudoby.
+     </tei:p>
+     <tei:p>
+      A keďže je práve nedeľa a je už popoludnie, môže sa Mišo rozlúčiť   i so svojimi druhmi. Všetci sú akísi zamyslení. Dnes nik neprišiel s   návrhom na nijaké dobrodružstvo. Majú sa lúčiť s Mišom. S dobrým   priateľom, na ktorého si už zvykli lepšie ako na vlastných bratov.   Hovoria vážne.
+     </tei:p>
+     <tei:p>
+      «Ty teda odchádzaš. Do sanatória…»
+     </tei:p>
+     <tei:p>
+      «Nie do sanatória. Pôjdem najprv k matke. Hádam ju niekde   vyhľadám. A len ak nebudem môcť s matkou žiť v Tatrách, prihlásim sa   potom do toho Šrobárovho ústavu.»
+     </tei:p>
+     <tei:p>
+      «Nezabúdaj však, že si chorý a že sa ti treba najprv   vyliečiť.»
+     </tei:p>
+     <tei:p>
+      «Veď sa ja vyliečim aj u matky. Len keď prídem zas do našich   hôr!»
+     </tei:p>
+     <tei:p>
+      «A kedy odcestuješ?
+     </tei:p>
+     <tei:p>
+      «Ešte dnes v podvečer. Peniaze na lístok mi už dali. Vyhlásil som   totiž, že ja už do Tatier potrafím i sám, keďže som odtiaľ.»
+     </tei:p>
+     <tei:p>
+      «Pôjdeme ťa teda vyprevadiť. O ktorej sa poberáš na stanicu?»
+     </tei:p>
+     <tei:p>
+      «No hneď mi treba ísť. Kým ta zájdem, prejde dobrá polhodina. A   nerád by som sa oneskoril.»
+     </tei:p>
+     <tei:p>
+      «Tak poďme.»
+     </tei:p>
+     <tei:p>
+      «Hneď. Len chvíľočku ma ešte dočkajte. Kým dám majstrovi   zbohom.»
+     </tei:p>
+     <tei:p>
+      «Skoč. My pôjdeme pomaly. Dobehneš nás.»
+     </tei:p>
+     <tei:p>
+      A chlapci idú. Mládež Židovne ide vyprevádzať svojho druha. Je jej   hodný kŕdlik. Všetci kráčajú vážne, akoby šli na pohreb.   V prostriedku mašíruje Mišo.
+     </tei:p>
+     <tei:p>
+      Na stanici je ruch a zhon. Mišov vlak na Žilinu odchádza o desať   minút. Presne o piatej. Mišo si beží k pokladnici vymeniť cestovný   lístok.
+     </tei:p>
+     <tei:p>
+      «Tatranská Lomnica, tretia trieda, osobný,» hovorí pokladníkovi   pri okienku.
+     </tei:p>
+     <tei:p>
+      «Deväťdesiatjeden korún,» odpovedá pokladník a dáva Mišovi   lístok.
+     </tei:p>
+     <tei:p>
+      «Tak. Som hotový. Musím nastupovať.»
+     </tei:p>
+     <tei:p>
+      «Nuž teda… Maj sa dobre. Spomínaj…»
+     </tei:p>
+     <tei:p>
+      Objatia. Stisky rúk. A oči sa lesknú v slzách…
+     </tei:p>
+     <tei:p>
+      «Buďte zdraví! A nezabudnite na mňa!»
+     </tei:p>
+     <tei:p>
+      «Nezabudneme, drahý priateľ, nezabudneme…
+     </tei:p>
+     <tei:p>
+      A vlak rušia. Železný tátoš dáva sa do cvalu. Rušeň píska, kolesá   tancujú. Mišove oči prebádajú sklo okna. Ešte jeden pohľad na   Bratislavu… Ešte raz jej pokynúť… A potom Považie…   Trnava – Trenčín – Žilina – Vrútky – Poprad… Celá noc cestovania…
+     </tei:p>
+     <tei:p>
+      A ráno vítajú Miša nebotyčné Tatry usmiatym slnkom nad   Kriváňom…
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Hankin návrat
+     </tei:head>
+     <tei:p>
+      «Preč! preč!» štvú Hanku vlastné výkriky. Preč z Rigovho domu a   preč z pustatiny! Preč, kým gazda nevojde do maštale a kým nezbadá   rozliate mlieko po zemi. V hlave jej hučí nával krvi. Telo sa trasie   ako v zimnici. Od strachu, od hrôzy a túžby po domove.
+     </tei:p>
+     <tei:p>
+      Ach, domov, mamička, domov! Ujsť pred Rigovou bitkou.
+     </tei:p>
+     <tei:p>
+      Zmiznúť a nedať sa chytiť. Vrátiť sa k matke!
+     </tei:p>
+     <tei:p>
+      A Hanka beží, čo jej sily stačia. Po záhumní, cez lúčku, na šíre   polia. Uteká štvaná strachom a túžbou, že sotva dychu popadá.   O chvíľu je na ceste k Čeláru. Ani sa neobzrie.
+     </tei:p>
+     <tei:p>
+      Len ďalej, ďalej…!
+     </tei:p>
+     <tei:p>
+      Vie, že ju bude gazda prenasledovať, ak zbadá včas útek. Vie, že   ak sa mu ju nepodarí chytiť, oznámi vec úradom. Četníci budú   stopovať. Hanka musí byť opatrná. Nesmú jej prísť na stopu.
+     </tei:p>
+     <tei:p>
+      A gazda po chvíli naozaj zúri. Nadáva, bohuje. Hľadá Hanku po   maštali. Hľadá po dvore, hľadá po šope. Nazdáva sa, že sa kraviarča   zo strachu skrylo. Ale Hanka má za ten čas už pekných pár kilometrov   cesty ubehnuté. Neuteká síce stále, ale stále sa ponáhľa. Prechádza   samoty, prechádza dediny.
+     </tei:p>
+     <tei:p>
+      V duchu vidí ustavične pred sebou učiteľovu mapu. Už vopred vie,   ako sa volá dedina, ku ktorej sa približuje, aj aké meno má osada, čo   za touto nasleduje. V škole sa naučila cestu do Lučenca dopodrobna   naspamäť. Veď toľko sa natúžila a nasnila o návrate domov!
+     </tei:p>
+     <tei:p>
+      A Rigo jednostaj hľadá. Prekutáva všetky kúty stavenísk. Už ani   nenadáva, nebohuje. Tichým hlasom len povoláva: «Hanka, dievča, kde   si? Ozvi sa…» Má už obavu, že si Hanka zo strachu niečo urobila. Čo   keby bola tak skočila do rozvodnenej rieky? Kto by bol zodpovedný?   Rigo vie, že jedine on. A preto keď nemôže dievča nájsť, je mu čoraz   užšie okolo srdca. Aj by šiel hneď na úrad vec ohlásiť, ale sa bojí.   Čo, ak ho zavrú? Nie, nepôjde ešte. Hádam sa Hanka predsa len nájde.   Hádam len niekde poodišla a k večeru sa navráti. Veď oznámiť bude   dosť času i zajtra… pozajtre…
+     </tei:p>
+     <tei:p>
+      Hanku ťažká cesta skoro vysiľuje. Je i hladná. Putuje už vari dve,   azda i tri hodiny a len teraz si uvedomuje, čo vlastne podnikla.   Premýšľa nad svojím osudom. Má síce v uzlíčku zásterky zaviazaných   niekoľko korún, ktoré si usporila z odmien, čo jej dával pán učiteľ   Hronkin, keď mu každé ráno nosievala mlieko od Rigov, ale to je iste   veľmi malá suma na takú ďalekú cestu. Čo len robiť? Hanka počíta   svoje korunky. Je ich dvanásť. Ale veď len cestovný lístok z Lučenca   do Tatranskej Lomnice stojí 76 korún, a čo bude jesť, kým sa vráti   domov… Ťažké položenie!
+     </tei:p>
+     <tei:p>
+      V najbližšej dedinke kupuje si Hanka v obchode za korunu chleba.   Je taká hladná, že už nemôže vydržať. Sadá si za dedinou v priekope   vedľa cesty na trávnik a posilňuje sa. Chlieb jej chutí znamenite a   je ho hodný okruh. Stačí na jedno poriadne najedenie sa. Keď je Hanka   s jedlom hotová a pritom si trochu i odpočinula, vydáva sa na ďalšiu   cestu. Kráča zas vytrvale a ani nepozoruje, že deň sa už chýli ku   sklonku.
+     </tei:p>
+     <tei:p>
+      Slnko sa červenie nad západom. Za vecami dĺžia sa tiene. Kvetiny   si privierajú korunky. Vtáci opúšťajú výšky. Oráči doorávajú brázdy.   Ľudské príbytky oživujú. Je jarný večer…
+     </tei:p>
+     <tei:p>
+      «Ach, prichádza noc! Kde ja budem nocovať?» spytuje sa Hanka sama   seba uprostred zaprášenej cesty. «K ľudským sídliskám nepôjdem. Ľuďom   nedôverujem. Kto ma prichýli?»
+     </tei:p>
+     <tei:p>
+      Jaj, Hanka, Hanka, aká si ty nevšímavá, nuž či nevidíš tam na poli   šedivý stoh vlaňajšej slamy? Pozri len, ako ťa láka! Skoro nahlas sa   ti ponúka: «Poď, Hanka, ja ti usteliem postieľku! V mojej slame sa   vyspíš ako v páperových perinkách!»
+     </tei:p>
+     <tei:p>
+      Naozaj, tá slama je mäkká a teplá po celodennom slnku. Nič to, že   zapácha už trochu hnilobou. Hanka sa do nej ukladá ako do postieľky.   Naťahuje si ustaté telo na odpočinok. Je strašne ukonaná. Po chvíli   zaspáva. Na tvár jej sadá úsmev šťastia. To istotne sníva o matke a o   domove…
+     </tei:p>
+     <tei:p>
+      «Hej, vstávaj, Hanka, a pod na ďalšiu cestu. Okolo mňa sa už   otočila zem polovicou svojho obvodu za čas, čo ty spíš.
+     </tei:p>
+     <tei:p>
+      Je zas ráno. Vstaň, poď budem ti svietiť a budem ťa hriať na   tvojej púti…» To ranné slnko svojimi lúčmi šteklí a prebúdza   Hanku.
+     </tei:p>
+     <tei:p>
+      A Hanka vstáva a ide ďalej. Zas tvrdá cesta z dediny do dediny,   bližšie a bližšie k Lučencu. Tu a tam sa spýta oráča, či naozaj   správne ide k svojmu cieľu, a zase sa uberá ďalej. Hlad si zaháňa   chlebom, na ktorý obetovala novú korunu, a smäd vodou z bublajúceho   potôčika. Len keby tie nohy tak neboleli! Má ich bosé a celé doráňané   od kamenitej cesty. Veru, prekonať desiatky kilometrov pešo, to sa   hocikto neodváži. Tu treba mať vôľu a vytrvalosť!
+     </tei:p>
+     <tei:p>
+      «Strýčko, nepreviezli by ste ma trošku?» pýta sa Hanka popoludní   jedného z furmanov na ceste, keď už sotva nohy prekladá od únavy.
+     </tei:p>
+     <tei:p>
+      «A kdeže ideš?»
+     </tei:p>
+     <tei:p>
+      «Do Lučenca, strýčko, a som už strašne ukonaná.»
+     </tei:p>
+     <tei:p>
+      «No, sadni si. Ja idem tiež do Lučenca. O hodinu sme tam…»
+     </tei:p>
+     <tei:p>
+      Na lučenskej stanici študuje Hanka na stene vyvesený cestovný   poriadok. I tomu sa naučila v škole. Preto jej je teraz ľahko zistiť,   kedy odchádza najbližší vlak na Zvolen a Vrútky, aj aké má spojenie s   vlakom z Vrútok do Popradu. Nastupovať bude práve o dvadsiatej druhej   hodine a na Vrútky sa dostane o druhej hodine dvadsať minút po   polnoci…
+     </tei:p>
+     <tei:p>
+      Hej, ľahko sa povie «nastupovať» a «dostane sa», ale ako? Veď   Hanka má v uzlíčku už len desať korún. Za čože si kúpi cestovný   lístok?
+     </tei:p>
+     <tei:p>
+      Ej, Hanka, Hanka, všelijako je to teraz s tebou! Čože si len   počneš? Či nebola márna všetka tvoja námaha a či nestroskocú tvoje   túžby po domove?
+     </tei:p>
+     <tei:p>
+      «Nie! Nie! Ja sa musím domov dostať! Ja musím k svojej   mamičke!…»
+     </tei:p>
+     <tei:p>
+      A Hanka myslí, premýšľa, vymýšľa, čo a ako robiť ďalej. Sedí tam   na lavičke v čakárni už celú hodinu a nie a nie nájsť nejaké   východisko zo svojho položenia. Čo len robiť? Čas beží, o chvíľu bude   tu vlak a Hanka ešte sedí na lavičke s hlavou zaborenou do dlaní.
+     </tei:p>
+     <tei:p>
+      «Ale už je jedno!… Skúsim to tak… Možno sa mi podarí   prešvindľovať…» odhodláva sa Hanka a pristupuje k pokladnici.
+     </tei:p>
+     <tei:p>
+      «Osobný tretí do Detvy…»
+     </tei:p>
+     <tei:p>
+      «Päť osemdesiat…»
+     </tei:p>
+     <tei:p>
+      Hanka si kúpila lístok len do Detvy a chce na ňom zacestovať na   Vrútky. Vie, že je to klamanie, že je to i nečestné a že je to   protizákonné, ale nenachádza zo svojho položenia iného východiska.   Možno sa jej podarí oklamať sprievodcu. Skúsi to…
+     </tei:p>
+     <tei:p>
+      A už aj rapčí do stanice rušeň… Hanka vstupuje do vlaku. Je   odhodlaná na všetko. Azda sa jej podarí… A hádam ju na niektorej   stanici vyhodia… Bude sa pretvarovať, že zaspala a že ani nevie, že   je už za Detvou…
+     </tei:p>
+     <tei:p>
+      Hanka sadá do kútika k oknu. Po chvíli prichádza sprievodca.
+     </tei:p>
+     <tei:p>
+      «Lístky prosím…»
+     </tei:p>
+     <tei:p>
+      Hanka odovzdáva. Sprievodca preštikne a vracia. Ani si dobre   nepovšimne Hanky a už ide k ďalšiemu cestujúcemu.
+     </tei:p>
+     <tei:p>
+      A teraz sa Hanka uťahuje tesne do kútika. Hlavu si zastiera   okennou záclonou a tvári sa, akoby spala. Vlak hrkoce, zastáva, rušia   sa. Sprievodca vyvoláva stanice. O tri štvrte hodiny kričí «Detva!»   Hanke pri tom slove až mráz prebehne telom. Chveje sa od strachu, čo   bude ďalej. Aspoň že si ju spolucestujúci nevšímajú. Oni sa tam   rozprávajú o svojich denných starostiach a Hanka sa tisne viac a viac   do kútika k oknu. Je z nej už len hromádka strachu. Ani ju nevidieť   spoza širokej tetky, čo vedľa nej sedí.
+     </tei:p>
+     <tei:p>
+      A čas plynie a vlak zastáva a sprievodca vyvoláva…
+     </tei:p>
+     <tei:p>
+      Zvolen – Kremnica – Štubnianske Teplice – Turčiansky Svätý Martin…   Joj, ešte chvíľu… Už len chvíľu… A…
+     </tei:p>
+     <tei:p>
+      «Vrútky! Na Žilinu, na Košice prestupovať!»
+     </tei:p>
+     <tei:p>
+      «Ach!» vydychuje si Hanka a zostupuje…
+     </tei:p>
+     <tei:p>
+      Je pol tretej po polnoci. O desať minút ide vlak na Košice. Hanka   stojí na peróne a premýšľa, čo robiť ďalej. V uzlíčku má už len štyri   koruny dvadsať. A je taká strašne hladná…
+     </tei:p>
+     <tei:p>
+      Kúpiť si zas lístok cez jednu-dve stanice a cestovať i ďalej, ako   pricestovala z Lučenca? Ale veď jej už potom nezostane ani na kúsok   chleba! A Hanka ešte drží v ruke starý lístok. Ani ho pri východe   neodovzdala. Povedala, že cestuje ďalej. Nuž, kúpiť? Nekúpiť? Vojsť   bez lístku do vlaku, ukryť sa tam pred sprievodcom a peniaze si   nechať na chlieb a na nejaký darček pre matku? Áno, skúsi, možno   podarí sa jej i toto a potom sa ráno v Poprade poriadne naje chleba a   aj pre matku niečo kúpi. Skúsi teda šťastie…
+     </tei:p>
+     <tei:p>
+      Po príchode vlaku vťahuje sa ustrašene do samého posledného   vagóna. Obzerá sa vôkol a hľadá miestečko, kde by sa utiahla. Je   všetko obsadené, len úzka chodbička je voľná. A tu Hanka nemôže   zostať. Iste by si ju hneď povšimol sprievodca. Len kde sa chytro   utiahnuť? Kde… Aha, záchod je voľný! Práve ho teraz niekto opustil.   Že by teda tam? A Hanka nerozmýšľa dlho. Už aj zatvára za sebou   dvierka. Zastrkuje závoru… Tak… Teraz je v bezpečnosti…
+     </tei:p>
+     <tei:p>
+      Ale o chvíľu niekto šťuká kľučkou, Hanka trnie od strachu.   Neotvára. Šťukánie prestalo. Vlak uháňa, zastavuje, pohýna sa…
+     </tei:p>
+     <tei:p>
+      Ale onedlho zas šťukanie, ba i búchanie na dvere…
+     </tei:p>
+     <tei:p>
+      A keď Hanka ani pri ďalších útokoch dvere záchodu neotvára,   upozorňujú cestujúci sprievodcu vlaku, že záchod je už vyše hodiny   uzavretý, a žiadajú ho, aby zakročil. Sprievodca otvára záchod kľúčom   a vyťahuje z neho nastrašenú Hanku.
+     </tei:p>
+     <tei:p>
+      «Čo tam robíš tak dlho? A kde máš cestovný lístok?»
+     </tei:p>
+     <tei:p>
+      Hanka ani nevie od strachu, čo má povedať. Len sa trasie celá   a púšťa sa do plaču.
+     </tei:p>
+     <tei:p>
+      «Aha, to mám slepého pasažiera! No, poď len, poď…»
+     </tei:p>
+     <tei:p>
+      «Pán sprievodca, nevyhoďte ma, ja cestujem do Tatier k svojej   mamičke a nemám na lístok…» A teraz vzlykajúca Hanka rozpráva   sprievodcovi všetko o sebe, kto je ona, prečo cestuje a odkiaľ   cestuje. Dobrému sprievodcovi je ľúto nešťastného dievčatka. Keď mu   Hanka rozpráva, čo už pretrpela vo svojom krátkom živote, oči sa mu   lesknú od slz.
+     </tei:p>
+     <tei:p>
+      «Len čo s tebou, dievča, robiť? Veď ak mi príde revízor, ešte ma   pre teba i pokutujú! Čo si s tebou počať?»
+     </tei:p>
+     <tei:p>
+      «Joj, len ma nevyhoďte!… Prosím vás pekne… Zavezte ma k mojej   mamičke…»
+     </tei:p>
+     <tei:p>
+      «Nuž poď teda do služobného kupé. Skúsim to. Uvidím. Ak mi však   príde revízor, musím ťa potom na najbližšej stanici vyložiť   a odovzdať úradu…» Ale revízor neprichádza a Hanka sa vezie horným   Považím k domovu. Trištyri hodiny plynú, stanice ubiehajú, von sa   rozodnieva, blíži sa Poprad…
+     </tei:p>
+     <tei:p>
+      Hanke trepoce srdce od radosti a túžby. Keď sa lúči so   sprievodcom, ani nevie, ako mu má ďakovať. A ten sprievodca je veru   dobrý človek. Jeden z mála šľachetných…
+     </tei:p>
+     <tei:p>
+      «Na, tu máš desať korún, aby si mala na lístok z Popradu do   Tatranskej Lomnice…»
+     </tei:p>
+     <tei:p>
+      «Ach, mamka, mamička moja!…»
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      A zas pri jazierku
+     </tei:head>
+     <tei:p>
+      A zas sa pažiť rozzelenala a kvitnú kvietky. Na rúbanisku pasú sa   srnky a na vŕšku panáčkuje ušiak. Spievajú vtáci a bzučia včielky.   Množí sa hmyz a rastú huby.
+     </tei:p>
+     <tei:p>
+      Zas je tu jar.
+     </tei:p>
+     <tei:p>
+      Tatranské sídliská ožívajú. Hotely sa otvárajú. Vlaky, električky,   autobusy hmýria sa panstvom. Kuchyne, umyvárne, pracovne napĺňajú sa   služobníctvom. Začína sa sezóna. Tatry hýria krásou a bohatstvom…
+     </tei:p>
+     <tei:p>
+      «Ú-hu-hu! Na hubu!…»
+     </tei:p>
+     <tei:p>
+      «Sem ju, sem! Veď ju chcem!…»
+     </tei:p>
+     <tei:p>
+      To Čenkovej deti, rozbehnuté po húštine lesa za hubami, pokrikujú   na seba, aby sa nepotratili. Mišo má na ruke kôš, Hanka na chrbte   Evičku a Paľko rád by mal v náručí bystrú veveričku, čo práve skočila   z jedle na borovicu.
+     </tei:p>
+     <tei:p>
+      «Poď sem, poď, veverička, veď ja ti nič neurobím!…»
+     </tei:p>
+     <tei:p>
+      «Čerta, že nič! Poznám ja dobre šelmovských chlapcov, čo do nás   hádžu kamením!…»
+     </tei:p>
+     <tei:p>
+      Po machu vlečie sa slimák. Hanka ho žiada, aby vytrčil nôžky, že   mu dá masla na parožky. Chodníkom prebieha jašterička, Evička sa   spúšťa z Hankinho chrbta, beží za ňou a tlieska rúčkami. V potôčiku   sa mihajú pstruhy. Mišo vysukuje rukávy a pokúša sa ich zmocniť.   Povetrím letel motýľ a Paľko ho už väzní pod čapicou…
+     </tei:p>
+     <tei:p>
+      «Ale poďme už domov. Mamka sa už iste navrátili z hotela!…»
+     </tei:p>
+     <tei:p>
+      «Poďme na mäso a na koláče, čo dostali za drhnutie!…»
+     </tei:p>
+     <tei:p>
+      A je zas večer. Tma zavaľuje grúne i údolia. Žaba odrieka na   jazierku svoje otčenáše. Pred pivničkou blčí vatra. V hlinenom hrnci   blboce polievka. Na ražňoch zvíjajú sa hríby. Okolo ohňa na pažiti   hovie si Čenkovej rodinka. Je ticho. Je čas rozprávok.
+     </tei:p>
+     <tei:p>
+      A preto, že životy Čenkovcov sú bohaté na skúsenosti, rozprávajú   si rozprávky ozajstné. Matka o svojej a Evičkinej biede v poslednej   zime, Mišo o Bratislave, Hanka o pustatine a Paľko o továrni. Všetci   končia svoje rozprávky šťastným koncom, len Paľko nie. Ale i Paľkova   ozajstná rozprávka, ako všetkých ostatných, prechádza koncom do   prítomnej skutočnosti.
+     </tei:p>
+     <tei:p>
+      Vatra dohára. Strecha pivnice škerí sa rozďaveným otvorom na   povalôčku. Tam líha na handry päť ľudí. Päť božích obrazov. Päť   slobodných občanov. Päť žobrákov. Päť výkričníkov do tupých svedomí.   Päť otáznikov budúcnosti…
+     </tei:p>
+     <tei:p>
+      Budúcnosť však už nebude taká ukrutná. V budúcnosti pracujúci ľud   zvrhne nespravodlivý poriadok a vybuduje si socialistické spoločenské   zriadenie, v ktorom nebudú trpieť nevinné deti.
+     </tei:p>
+    </tei:div>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

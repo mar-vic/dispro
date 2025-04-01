@@ -1,0 +1,2358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1968210" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Hudcov vrch : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:74697033">
+     Horák, Jozef (1907 - 1974)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     19449
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Horák, Jozef
+     </tei:author>
+     <tei:title>
+      Hudcov vrch
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Mladé letá
+     </tei:publisher>
+     <tei:date>
+      1968
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Horák, Jozef
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-12-04">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Hudcov vrch
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="group">
+    <tei:head>
+     HUDCOV VRCH
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      1
+     </tei:head>
+     <tei:p>
+      Tento Hudcov vrch vám vyzerá, akoby sa boli naň hory nahnevali a   vystrčili ho zo svojho lona. Akoby bol dakde niečo vyčinil, nejaké   pochabstvo vyviedol a hora-mať ho chytila za golier a vyhodila,   nezbedníka, predo dvere. Ale nie celého. Len polovička ho trčí z hory   a akosi udivene hľadí okolo seba. Ale zato si nikde tak neoddýchneš   ako na tejto vystrčenej polovici Hudcovho vrchu. Mach tu rastie taký   ako nikde v chotári. Skoro po kolená sa doň zahoríš, a keď sa   vyvalíš, na nijakej posteli sa ti tak mäkko ležať nebude.
+     </tei:p>
+     <tei:p>
+      Nuž takýto je Hudcov vrch.
+     </tei:p>
+     <tei:p>
+      Vrch a okolo neho lúčiny i oráčiny, na ktorých dorastie žito a raž   ako hodný chlap. A dobre by všetko bolo, keby sem nechodili diviaky   gazdovať. Ale toto je vari tiež pekné. Keď sa naplní mesačná tvár,   vidíš pred sebou všetko ako na dlani. Môžeš sa stretnúť s kŕdlikom   diviakov, a to je teraz veru vzácna vec. Alebo popasieš oči na   plachej srnčej rodinke, čo sa večerom alebo včasným ránom tu na   lúčinách pasú. No môžeš vidieť aj mohutného jeleňa, keď sa príde   nasýtiť do zeleného ovsa.
+     </tei:p>
+     <tei:p>
+      Veľmi rád som chodieval na Hudcov vrch. A neraz som rozhutoval:   prečo sa vlastne tento vrch volá Hudcov? O hudcoch tu ani chýru ani   slychu. Nič som o nich dosiaľ nepočul. Iba o sebechlebských, ale   kdeže sú Sebechleby od Hudcovho vrchu?! Oni síce chodievali ďaleko   vyhrávať. Na Sitno, do Štiavnice zašli a možno aj na Žakýlskom zámku   vyhrávali, keď tu ešte žil pán Tobiáš Žakýlsky. Ale tí tu na Hudcovom   vrchu neboli.
+     </tei:p>
+     <tei:p>
+      A darmo som premýšľal, nič som nevymyslel.
+     </tei:p>
+     <tei:p>
+      Jednako som sa raz čosi dozvedel...
+     </tei:p>
+     <tei:p>
+      Išiel som na Hudcov vrch, keď bola kosba v najlepšom prúde. No a   vtedy tam býva celá dedina. Idem a vidím, že moje miestečko, kde som   zvykol sedávať, nie je pusté. Našiel som tam sedieť deda   Kašiara-Poudruhého. Zastavil som sa a hovorím:
+     </tei:p>
+     <tei:p>
+      — Pozdravbože, dedo!
+     </tei:p>
+     <tei:p>
+      — Aj vás, aj vás, pán rechtor, — odpovedá mi trasľavým hlasom.
+     </tei:p>
+     <tei:p>
+      — Akože sa, ako... — chcem povedať, „mávate,“ ale ded už vetí:
+     </tei:p>
+     <tei:p>
+      — Po biede, pán rechtor, po biede. Rokov pribúda, neubúda. Sotva   ja ešte prídem na tieto miesta.
+     </tei:p>
+     <tei:p>
+      — Ale, ale, — prehováram deda, — dobre vy ešte na takto rok sem   pobežíte.
+     </tei:p>
+     <tei:p>
+      — Rád by som, rád, — zakýva ded hlavou.
+     </tei:p>
+     <tei:p>
+      Vidím, zapekačka trčí z dedovho vrecka. Ktovie, či má čo do nej...   Vyberám cigarku, ale dedko nefajčil cigarky. No môj nožík pretvorí vo   chvíľočke cigaru na hŕbočku tabaku. Vysypem ho do dedovho vrecka. Ded   sa potešil. Veselšie hovorí a pchá tabak do zapekačky. Nezapeká ju,   ako zvykol kedysi za svojej mladosti, lebo mu už vytŕčam svoj   zapaľovač, a o chvíľu ded pufká voňavý tabak a veselšie sa obzerá   okolo.
+     </tei:p>
+     <tei:p>
+      A tu, ani sám neviem ako, len nadhodím:
+     </tei:p>
+     <tei:p>
+      — Ba, počúvajte, ded Kašiar, prečo asi tento vŕšok zovú   Hudcov?
+     </tei:p>
+     <tei:p>
+      — Boh sám vie, — odtušil.
+     </tei:p>
+     <tei:p>
+      „Ani tento človek nevie,“ hútam sklamaný.
+     </tei:p>
+     <tei:p>
+      Ale ded ma potešil:
+     </tei:p>
+     <tei:p>
+      — Čosi som bol počul od svojho deda, — zahovoril, — ale to bolo   veľmi dávno...
+     </tei:p>
+     <tei:p>
+      — Už ste hádam aj zabudli, — narážam.
+     </tei:p>
+     <tei:p>
+      — Čosi sa zabudlo, čosi ostalo, ale ktovie, či to pravdou bolo,   keď, ako hovorím, dávno to minulo...
+     </tei:p>
+     <tei:p>
+      — A čo také? — vyzvedám sa.
+     </tei:p>
+     <tei:p>
+      — To, že tu naozaj býval hudec... a znamenitý.
+     </tei:p>
+     <tei:p>
+      — Tak?
+     </tei:p>
+     <tei:p>
+      — Hej, môj ded neraz spomínal, ale to vraj stál ešte hore nad   Plesom zámok, nie hŕba rumov, zarastených machom ako dnes.
+     </tei:p>
+     <tei:p>
+      — Aha! Pravdaže, dávno to bolo... Jednako, povedzte, ded, čo   pamätáte. Vyvalím sa na mach a vy rozprávajte.
+     </tei:p>
+     <tei:p>
+      Ded sa usmial a začal. A naozaj mu viacej utkvelo v pamäti, než   som sa nazdával...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      2
+     </tei:head>
+     <tei:p>
+      Sedel bača Babic na kopci a obzeral sa po horách. Dolu pod jeho   nohami sa prestierali zelené lúčiny. Tu i tam stál osamotený strom.   Dub alebo divá čerešňa. A okolo potom samá hora, čo sa trhala len   tam, kde sa jej chrbát prelamoval do Hrona. Iba keď bača Babic hlavu   obrátil a pozrel trhlinou medzi stromami, videl na kopci Žakýlsky   hrádok. A ani nie celý, ani pol, len malú vežičku, čo trčala k nebu.   Ale málo sa v tie strany bača obzeral. Veď čože by aj? Ak potreboval   pán Tobiáš jarku, dve alebo i tri, poslal sluhu Vavrinca a ten   povedal bačovi. A Babic už poznal svoje stádo, vedel, ktorá jarka   bude najlepšia, aby pán Tobiáš nemraštil tvár a nezlorečil. Veď nešlo   ani tak o baču, ale tí tam na hrade i v dedinkách zle sa mávali, keď   sa pán Tobiáš nahneval. A tak posielal bača také, aké veru neposlal   svojmu pánovi ani jeden bača naširoko-ďaleko.
+     </tei:p>
+     <tei:p>
+      Teraz nemyslel Babic na toto. Jar sa utešene rozvila a teplo bolo   ako prostred leta. Sedel teda a pásol oči na utešenej kráse, čo sa   rozostierala okolo. Lebo darmo kto čo hovoril, bača Babic mal len   hory — a vnuka Valenta.
+     </tei:p>
+     <tei:p>
+      Ovce sa rozliezli a dvaja hodní zurvalci ich obháňajú, keď daktorá   odbočí. Bača len zahvizdne. Psi poskočia a zastanú. Vzpriamia hlavy,   strihnú ušami a zďaleka múdro hľadia na baču. Bača len zavolá:
+     </tei:p>
+     <tei:p>
+      — Aha ju! To je ona! Nože ju!
+     </tei:p>
+     <tei:p>
+      A šibne palicou v tie strany, kde nechce mať ovce. Ostatok už   urobia psi. No teraz sa ovce spokojne pasú a psi ležia neďaleko baču.   Tu i tam daktorý zavrčí zo sna, chňapne po muche, čo mu na nos sadla,   pootvorí jedno oko, pozrie na baču a potom vydýchne a spokojne   leží.
+     </tei:p>
+     <tei:p>
+      Tam dolu pri ovciach je ešte niekto.
+     </tei:p>
+     <tei:p>
+      Nebodaj bačov vnuk Valent.
+     </tei:p>
+     <tei:p>
+      Veru. Prielohmi sa akosi netrebne pletie muzika. Chvíľou akoby sto   múch dudlalo, potom akoby malé decko zvriesklo a zas huk a zas vresk.   Potom sa ťažko, potkýnajúco vypletie z toho jasnejší hlas. Bača   počúva. Zrak zabodol dolu, ale myseľ je pri muzike. To gajdy hučia v   rukách muzikanta, ktorý má ešte drevené prsty, lebo, ako som povedal,   nôta sa netrebne z tohto mrmotu rodí.
+     </tei:p>
+     <tei:p>
+      Jednako sa bača usmieva.
+     </tei:p>
+     <tei:p>
+      To Valent skúša na jeho gajdách. Veď čože má chlapčisko medzi   týmito horami? Hory, ovce, samotu. Nech si teda vyhráva. Dakedy sa   samota zunuje a žiada sa ti s niekým prehovoriť. Ale akože, keď   stromy sú nemé a s týmito tvormi nemými akože pohovoríš o svojich   starostiach? A gajdy? Hej, zavzdychol si bača. Vie on dobre, ako si   poľahčoval, keď ho kríže navštívili, keď nemal nikoho, len malého   Valenta, ktorý ešte nevládal na nohách stáť a len sa povaľoval okolo   neho. Vtedy ho uspával, aj sám sa tešil, i vnuka prehováral muzikou.   Na gajdách si prehrával a dieťa akoby ho bolo rozumelo. Prestal malý   Valent nariekať a veľké zaslzené oči upieral na jeho hučiaci   nástroj.
+     </tei:p>
+     <tei:p>
+      A počúval, akoby bol piesni, čo ded vyhrával, rozumel.
+     </tei:p>
+     <tei:p>
+      Teraz je už Valent hodný parobok. Taký, že ľahko steperí dedove   gajdy z police a pokúša sa nafúkať temlov. Ale starý Babic, aký bol   muzikant, taký bol, jednako nemôže zaprieť, že to chlapčisko, Valent,   veru obratne berie nástroj do rúk. Chlipák posadí medzi pery a dúcha   a pritom sotva zbadáš, že naduje líca. No zdravé pľúca má Valent a   temlov je na štyri-päť fukov nadutý ako mech. Huk prehodí cez plece a   skusuje. Ide mu to. Pravda, nie najlepšie, ale starý Babic vidí, ako   kladie prsty na dierky, ako vie, kedy sfučať, kedy lakťom pritlačiť,   aby sa huk hlasnejšie ozval. Pri začiatku píšťala ešte zvrieskne, ako   keď mačke na chvost stúpiš, ale potom sa pieseň vypletá spod prstov   šuhaja a nôta zuní, preskakuje, že sa veru dedovo srdce plní   radosťou.
+     </tei:p>
+     <tei:p>
+      Tak aj teraz.
+     </tei:p>
+     <tei:p>
+      — Drevené prsty ešte, — hundre si do fúzov, ale na tvári vidieť,   ako sa mu chlapcove pokusy pozdávajú. Počúva a tu i tam potichu   zanôti pieseň, ktorú Valent sprobúva...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      3
+     </tei:head>
+     <tei:p>
+      Bolo to akosi začiatkom jari, keď tráva ešte bojazlivo dvíhala   hlavu a obzerala sa, ako je na svete. A veru nebolo tam najlepšie. V   hore bolo snehu dobre vyše členkov, aj na mokrých grúňoch sa ešte   beleli snehové záplaty. Ale jar prichodila a v Babicovom košiari zo   dňa na deň viacej jahniat bľačalo. Veľká bola Babicova radosť, lebo   tohto roku sa jahnence dobre darili, nedochli. A ani vlci   nedobiedzali, medveď sa celú jeseň neukázal a pána Tobiášov kŕdeľ sa   skoro zdvojnásobil. Aj teraz skoro každý deň sa nájdu dve-tri   jahnence. Nuž je Babic v dobrej vôli. Mal sto chutí zájsť k pánu   Tobiášovi a pozvať ho, aby prišiel pozrieť, ako gazduje. Ale čože pán   Tobiáš? Čerta sa ten stará o baču a jeho ovce. Len keď mu vlnu na   Michala a na Ďura odovzdá, alebo Vavrinec dovlečie jarky, mäkké ako   pampúšky, spomenie si, že na neďalekom vrchu má baču a ovce, čo sa   ohlasujú jasnými striebristými spiežovcami.
+     </tei:p>
+     <tei:p>
+      Ale tohto rána, bolo to akosi okolo Jozefa, stala sa čudná vec.   Starý Babic bol v kolibe a čo-to upravoval. Valent ešte za tmy   odbehol, aby stádo obriadil. Nuž sa milý ded ponevieral po kolibe. A   tu odrazu začuje volanie:
+     </tei:p>
+     <tei:p>
+      — Dedóóó, dedó...
+     </tei:p>
+     <tei:p>
+      Zastal chvíľu a potom, hodiac širák na hlavu, vybehol. Len   úchytkom schytil sekeru, lebo sa mu namanulo, že sa azda medveď   prebudil a prišiel zabiť hlad na salaš.
+     </tei:p>
+     <tei:p>
+      Nebol to medveď.
+     </tei:p>
+     <tei:p>
+      Keď dobehol ku košiaru, stretol sa s Valentom, ktorý teperil na   rukách hodné jahňa, jarku. Ale akú jarku! Div divúci. Dedo už veľa   pamätal, jednako takúto ovcu ešte nevidel. Jarka bola hodná a biela   ako sneh. Ten sneh, čo ho slnce deň po dni uhryzkovalo viacej a   viacej.
+     </tei:p>
+     <tei:p>
+      — Kdeže si to, chlapče? — volal na Valenta.
+     </tei:p>
+     <tei:p>
+      — Neviem, kde sa vzalo, dedo, tmolilo sa medzi ovcami. Ani matere   si nepozná.
+     </tei:p>
+     <tei:p>
+      — Blúzniš, truľo, — odvrkol bača a bral jarku z chlapcových rúk.   Pošiel do košiara a pustil ju medzi ovce. Jahňa sa túlalo medzi   ovcami, tu i tam zabľačalo, ale ani ono materi, ani mater jemu sa   nepriznávala. Starý Babic pokrútil hlavou a poškrabal sa vo   vlasoch.
+     </tei:p>
+     <tei:p>
+      — Pekná, pekná, — šomral, — len akože ju vychováme, keď matere   nepozná?
+     </tei:p>
+     <tei:p>
+      Ale bača sa darmo strachoval. Divná ovečka nezahynula. Túlala sa,   túlala, a kde stretla ovcu-mater, prikradla sa k nej a napojila sa. A   divné, ani jedna ovca ju neodohnala. Tak sa jahňa chovalo a rástlo   ako z vody. Rástlo a bačovi prichodilo neustále rozmýšľať, aký div sa   stal v jeho košiari. Veď nepamätal, že by boli starí spomínali, že sa   voľakedy takáto ovca uliahla.
+     </tei:p>
+     <tei:p>
+      Ba vari...
+     </tei:p>
+     <tei:p>
+      Hej. Teraz mu odrazu svitlo v hlave. Nebohý bača Ogrgeň, čo   bačoval na behanovských salašoch, bol čosi spomínal. Ale to bolo   dávno, keď ešte on honelníčil, že sa vraj rodia aj takéto ovce...   A...
+     </tei:p>
+     <tei:p>
+      Bača zmraštil čelo. Tak veru. Ten starý Ogrgeň z Behanova bol   spomínal, že gajdy urobené z kože takýchto oviec... No, majú to byť   gajdy nad gajdami, na akých len azda gajdoš Filúz vyhrával.
+     </tei:p>
+     <tei:p>
+      A nedala mu potom táto myšlienka spávať. Darmo sa ho Valent   vypytoval, čo mu je. Aj na gajdách mu darmo vyhrával. A veru tak   vyhrával, že nemohol dedo povedať, že to gajdoš s drevenými prstami   hrá. No dedo chodil zachmúrený, a keď počul vnuka húsť, ešte väčšmi   mraštil čelo...
+     </tei:p>
+     <tei:p>
+      Všelijako hútal, ale nakoniec vždy len zašomral:
+     </tei:p>
+     <tei:p>
+      — Ovca je pána Tobiášova, nie bačova Babicova.
+     </tei:p>
+     <tei:p>
+      A dodával:
+     </tei:p>
+     <tei:p>
+      — Kradnúť len nebudem...
+     </tei:p>
+     <tei:p>
+      Lebo ten starý Ogrgeň z Behanova spomínal, že najlepšie gajdy sú z   ukradnutej bielej jarky...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      4
+     </tei:head>
+     <tei:p>
+      Ťažko sa pribral starý Babíc na toto. Jednako sa pribral. Jedného   dňa sa starostlivo učesal, natiahol nové gate, vyčistil pracky na   opasku, že sa svietili, akoby na svadbu šiel, namastil krpce,   prehodil halienku, vzal do ruky sekeru a pobral sa na hrádok.
+     </tei:p>
+     <tei:p>
+      — Už len bude, ako bude, — šomral idúci.
+     </tei:p>
+     <tei:p>
+      Ale keď došiel k bráne, akoby mu bolo srdce za sáru spadlo. Mal   sto chutí sa vrátiť. Aj by sa istotne bol, keby nie samého pána   Tobiáša. Kde sa vzal, tu sa vzal, pricválal aj s paholkom a rovno na   baču:
+     </tei:p>
+     <tei:p>
+      — Hej, starý, ak sa nemýlim, Babic, čo ty tu robíš? Čo   ovce...?
+     </tei:p>
+     <tei:p>
+      — I veľmi, i veľmi, pán veľkomožný, — prisviedčal bača a chystal   sa ruku bozkať pánu Tobiášovi.
+     </tei:p>
+     <tei:p>
+      — Nechaj, starý, — odvrkol Tobiáš a zodvihol ruku. — Kam ideš?
+     </tei:p>
+     <tei:p>
+      — K osvietenému pánovi.
+     </tei:p>
+     <tei:p>
+      — Ku mne? Čo ti ovce dochnú?
+     </tei:p>
+     <tei:p>
+      — Ej, aby som neporiekol, raz toľko ich je než v jeseni.
+     </tei:p>
+     <tei:p>
+      — Teda čože mi chceš? — opýtal sa pán Tobiáš a zosadol z koňa.   Paholok ho odviedol a pán Tobiáš si sadol na lavičku pod starým   gaštanom.
+     </tei:p>
+     <tei:p>
+      — Neviem, či možno, veľkomožný pane, ale prosiť som prišiel.
+     </tei:p>
+     <tei:p>
+      — Prosiť? A čo?
+     </tei:p>
+     <tei:p>
+      — Takto si hútam, urodzený pane, — hniezdil sa bača, nevediac, ako   by mal začať. — Stádo sa rozrastá, hodné je a mohlo by sa aj predať.   Veď ak sa aj predá, dorastie zas. Ale osvietený pán akoby bol zabudol   na salaš.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš sa zasmial.
+     </tei:p>
+     <tei:p>
+      — Urobíme, urobíme, starý, jednako ani teraz neviem, po čo si   prišiel.
+     </tei:p>
+     <tei:p>
+      — Ja, urodzený pane, ak by ste, reku, predávať išli, kúpil by   som...
+     </tei:p>
+     <tei:p>
+      — Čo? — vyskočil prekvapený Tobiáš.
+     </tei:p>
+     <tei:p>
+      — Jarku, — povedal bača, aby to mal všetko von, lebo videl, že   búrka ide z pána Tobiáša.
+     </tei:p>
+     <tei:p>
+      — Hahaha, — zasmial sa pán Žakýlsky. — Starý, ty máš hriech na   svedomí, a preto si prišiel. Veď dostaneš svoje a ešte chceš kupovať?   Kde si vzal peniaze?
+     </tei:p>
+     <tei:p>
+      — Neveľa, urodzený pane, ostalo ešte z tých časov, keď som   valašil.
+     </tei:p>
+     <tei:p>
+      — A poza bučky zachodil, len sa neboj a dopovedz. Viem ja, ako to   behanovskí valasi robievajú...
+     </tei:p>
+     <tei:p>
+      Bača mlčal, hoci to pravda nebola. Aspoň čo sa jeho týka, nie. No   vybadal, že je pán v nálade, keď je najmúdrejšie na jeho výčitky   mlčať a svedčiť. Nuž zamĺkol starý Babic a sklonil hlavu.
+     </tei:p>
+     <tei:p>
+      — Počúvaj, — začal odrazu pán Tobiáš, akoby mu bolo niečo zišlo na   um. — Viem, že ma klameš, lebo kedyže som ovce rátal? Ani ich   nebudem. A ak si málo nakradol, vezmi si ešte tú jednu. Máš šťastie,   že som pri dobrej vôli a nemám chuť kaziť si ju pre ovce. Ale ak ma   raz zlá nálada zastihne, prídem a spočítam všetky. Aj tie, čo si   ukradol, aj ťa vyplatím za ne, i za túto, čo chceš kupovať...
+     </tei:p>
+     <tei:p>
+      — Ej, vaša milosť, nech sa nepohnem, ak som vzal čo i len   srsť.
+     </tei:p>
+     <tei:p>
+      — Daj pokoj, starý, a prac sa!
+     </tei:p>
+     <tei:p>
+      — Veď, veď, vaša milosť, ale tá ovca...
+     </tei:p>
+     <tei:p>
+      — Čo je s ňou?
+     </tei:p>
+     <tei:p>
+      — Boh sám vie, vaša milosť, starý som už, ale také čosi som ešte   nevidel. Biela je ako mlieko.
+     </tei:p>
+     <tei:p>
+      — Ale? — zadivil sa pán Tobiáš. — Tak ty preto?
+     </tei:p>
+     <tei:p>
+      — Preto, vaša milosť.
+     </tei:p>
+     <tei:p>
+      — Hm, starý, môže to byť i po dobrom, ale tak isto i po zlom s tou   ovcou. Aj vidieť by som ju mal, ale teraz mám inú robotu. A povedal   som, môžeš si ju vziať, nuž nebudem hovoriť teraz, nevezmi, ako   sedliak. Ale načo ti bude?
+     </tei:p>
+     <tei:p>
+      — Načo? — Babic pozrel na pána Tobiáša a potom sa zahľadel kamsi   do neurčita. — Vnuka mám, vaša milosť, zurvalec, dobre už pomáha ovce   pásť, zavracať, i dojiť, i jahnence opatrí. Keď pasie, na gajdách   vyhráva. Nuž hútam, moje sú staré a nesúce do chlapcovej ruky. Z   bielej jarky vraj znamenitý nástroj môže byť. Sám urobím, huk i   gajdicu i hlavičku vyzdobím, aby mal vnuk po mne pamiatku. Zato vám,   urodzený pane, chlapec dobre poslúži. A možno, ak bude na vašej vôli   a ja nebudem už dovladovať, môže miesto mňa...
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš pokýval nedôverčivo hlavou.
+     </tei:p>
+     <tei:p>
+      — Čudná vec, starý, ale kto sa vo vás vyzná. Jednako raz sa   vyberiem k vám pozrieť stádo a uvidím, akého to valacha a muzikanta   chováš. Ale ak si ma klamal... Veď vieš, aký bývam...
+     </tei:p>
+     <tei:p>
+      A zvrtol sa, nechajúc Babica stáť pred bránou...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      5
+     </tei:head>
+     <tei:p>
+      Čudoval sa starý Babic, že mu psi neprišli naproti. Inokedy, keď   kráčal nádejovským prievozom, zbadali ho a bežali k nemu s veselým   brechotom. No netrápil sa tým. Možno sú s Valentom. Jednako pridal do   kroku, ak by sa predsa len bolo dačo prihodilo.
+     </tei:p>
+     <tei:p>
+      Keď dochodil ku kolibe, zbadal Valenta sedieť na pni a psiská   ležali pri ňom. A ešte čosi videí belieť sa pri Valentových nohách.   Nedovidel už starý Babic. Iba keď došiel bližšie, zbadal, že to   ovca.
+     </tei:p>
+     <tei:p>
+      — Čože si porobil, Valent, — volal už zďaleka, keď rozpoznal v   ovci bielu jarku.
+     </tei:p>
+     <tei:p>
+      — Poďte bližšie, — zavolal Valent.
+     </tei:p>
+     <tei:p>
+      Bača sa poponáhľal.
+     </tei:p>
+     <tei:p>
+      — Čo sa s ňou porobilo? — opýtal sa, keď došiel. Ovca bola   vyvalená, zdochnutá. Bielu srsť mala premočenú. Psiská ležali pri nej   a smutno hľadeli to na ovcu, to na baču, to na Valenta.
+     </tei:p>
+     <tei:p>
+      — Ktohovie, dedo, čo sa porobilo. Piť išla, ako chodievala. A   viete, aká bola. Ak ostatné pili hore, ona šla dolu, ak tie pili   poniže, ona šla povyše. Zatúlala sa k výmoľu. Možno sa pošmykla,   možno sa podmytý breh preboril pod ňou, spadla do vody. Zabľačala a   vtedy som pribehol. Buro bol šikovnejší. Skočil do vody a vytiahol   ju. Ale čože, bolo po nej.
+     </tei:p>
+     <tei:p>
+      — Hm, hm, — krútil hlavou bača.
+     </tei:p>
+     <tei:p>
+      — A možno, dedo, že aj topelec...
+     </tei:p>
+     <tei:p>
+      — Možno... — prisvedčil bača, — keď bola taká zvláštna. Biela ako   mlieko. Hm... a to práve, keď nám ju pán daroval.
+     </tei:p>
+     <tei:p>
+      — Daroval?
+     </tei:p>
+     <tei:p>
+      — Tak je.
+     </tei:p>
+     <tei:p>
+      — A načože vám bude?
+     </tei:p>
+     <tei:p>
+      — Uvidíš, synku, uvidíš...
+     </tei:p>
+     <tei:p>
+      Potom sa bača zložil. Ovcu stiahol a mäso zahrabal Valent pod   vysoký buk, čo rástol stred grúňa. Hej, ta neprídu líšky a nevyhrabú   ovečku. Ktovie, aké to bolo zviera...
+     </tei:p>
+     <tei:p>
+      Bača sa dal do roboty. Umyl kožu a zakrútil do handry. A keď   dostatočne preschla a zmäkla, pripevnil na ňu gajdicu, ktorú bol už   potajme vyrobil. Vyrezal a vyzdobil. Zasadil do temlova huk a   namiesto druhej prednej nôžky chlipák. A nehovoril nič, komu tie   gajdy budú, ani prečo ich tak pozorne skúša. Iba kedysi stred júna   bol zavolal na Valenta, keď bral dedove gajdy z police:
+     </tei:p>
+     <tei:p>
+      — Valent!
+     </tei:p>
+     <tei:p>
+      — Čo je, dedo?
+     </tei:p>
+     <tei:p>
+      — Sem poď!
+     </tei:p>
+     <tei:p>
+      Valent vyšiel. Ded držal v rukách nové gajdy. Valentove oči   zaiskrili, lebo si domyslel, čo chce ded s gajdami.
+     </tei:p>
+     <tei:p>
+      — Pozri a oprobuj! To som ti urobil, aby si nezabudol, že si mal   deda, čo ťa na rukách nosil a vychoval, keď si nepoznal ani otca, ani   matere.
+     </tei:p>
+     <tei:p>
+      Valent vzal gajdy a stál, nevediac, čo by mal urobiť. Cítil, že by   sa mal dedovi poďakovať, zavďačiť, ale nevedel napochytre ako. A že   nevedel, nuž len si prisadol tesne k dedovi a mlčal. Iba po chvíli   začal:
+     </tei:p>
+     <tei:p>
+      — Dedko, za tieto gajdy vám ďakujem. Ak ste ma vychovali, opatrím   vás na vaše staré dni, ako by som si bol otca a mater opatril.
+     </tei:p>
+     <tei:p>
+      Chytil dedovu starú zodratú ruku a hladkal navreté žily a tvrdú   kožu.
+     </tei:p>
+     <tei:p>
+      — Hovoríte, dedo, nepoznal som otca, matere...
+     </tei:p>
+     <tei:p>
+      — Hej. Akože si mohol, keď si bol ešte taký, že som ťa na rukách   musel nosiť za ovcami, keď ti umreli...
+     </tei:p>
+     <tei:p>
+      — Umreli...
+     </tei:p>
+     <tei:p>
+      — Hej, — zašomral starý, — taká čudná choroba to bola. Prišla a   pochodila celú dedinu. Človek dostal čierne vredy a boh dobrý, ak   vyzdravel. Vymreli celé dediny...
+     </tei:p>
+     <tei:p>
+      Valent sa už neopytoval. Sklonil hlavu, ale nemyslel na rodičov.   Akože si ich mohol predstaviť, keď bol taký malý, ako hovorí ded?!   Hej, horšie by bolo bývalo, keby aj ded... Cítil, ako ho v srdci   zabolelo. A toho dňa nehral na gajdách, len tak presedel do večera s   dedom pred kolibou.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      6
+     </tei:head>
+     <tei:p>
+      Taký akýsi bojazlivý večer sa zniesol do hory. Vyplával mesiac a   stromy stáli, akoby boli zo skla bývali. Ovce spali a ani jedna   nezbľačala. Ba aj žblnkot potoka sa tratil v tichosti. Také večery   mával Valent rád. Tohto večera vzal nové gajdy, sadol si pod buk, kde   bola ovca zahrabaná, a nafúkal temlov. Spustil na huku vrchnáčik, aby   hlas trochu pridusil, a prešiel prstom po dierkach. Gajdy sa   rozhučali ako organ. Dúúú .. nieslo sa horou a v tom hukote sa   triasla zádumčivá nôta. Kto ju vie, kde sa vzala. Boli nôty, ktoré   Valent poznal od deda, ale tieto tu nikdy ded nespieval, ani   nezahral. To sa mu len teraz kdesi pri srdci zrodilo a vyrástlo.   Plietla sa nôta horou, že si ťažko rozpoznal, kde prestáva pieseň a   začína sa hora.
+     </tei:p>
+     <tei:p>
+      Ako si tak milý Valent vyhráva, len ti tu odrazu na lúčine niečo:   hop, hop...
+     </tei:p>
+     <tei:p>
+      Skáče, poskakuje, vrtí sa, ale Valentovi sa pozdáva, že to ani nôh   nemá, len sa kdesi nad zemou vznáša ako malý biely obláčik. Nevedel   sprvoti, čo to, len keď sa to dostalo bližšie k nemu stred lúčiny,   spoznal, že to deva. „Nebodaj lesná žienka,“ blyslo mu hlavou.
+     </tei:p>
+     <tei:p>
+      A čudo, neschvátil ho ani najmenší strach. Naopak, keď videl, ako   si deva bezstarostne poskakuje, našla ho veselá nálada. Zahnal smutné   nôty, ktorými vylákal žienku, a začal veselo hajduchovať. Hlasy   vyrážali z dierok ako malé iskry. Jeden vyššie, druhý nižšie, tento   sa zatriasol medzi prstami, tamten sa udusil v polovici, ale   dohromady to bol divný, predivný tanec, čo teraz Valent vyhrával a   žienka tancovala.
+     </tei:p>
+     <tei:p>
+      Keď mu už prsty začínal kŕč brať, zmizla žienka, ako bola   prišla.
+     </tei:p>
+     <tei:p>
+      Ale druhý večer prišli dve a na tretí sa ich naschodil celý   kŕdlik. Možno všetky, ktoré v tejto hore žili. Valent sa ich nebál   ani najmenej a vyhrával im o milých päť. Dedovi nepovedal ani slova,   len keď sa zotmelo, vyšiel pod buk a hral. Ako odzneli prvé tóny,   prišli žienky. Tancovali a neskoršie aj spievali:
+     </tei:p>
+     <tei:p>
+      Gajdujte, gajdičky, z tej bielej ovčičky,
+     </tei:p>
+     <tei:p>
+      čo sa utopila, keď vodičku pila...
+     </tei:p>
+     <tei:p>
+      Tancujme, sestry, bez groša,
+     </tei:p>
+     <tei:p>
+      mladého máme gajdoša!
+     </tei:p>
+     <tei:p>
+      A vrteli sa, vrteli a potom odrazu, ako prišli, tak sa stratili.   Znovu začal vyhrávať, ale žienky sa už nevrátili.
+     </tei:p>
+     <tei:p>
+      Tohto večera, možno bola svätojánska noc, keď prestal hrať,   stratili sa žienky, ako sa tratievali. Iba jedna ostala. Stojí na   lúke, akoby nevedela, kam sa pobrať. Potom odrazu sa obrátila k   Valentovi. Pomaly hopkala k nemu. Už ju Valent jasne rozpoznáva, vidí   jej do tváre. Na hlave má drobnú korunku.
+     </tei:p>
+     <tei:p>
+      — Gajdoško, gajdoško...! — zavolala, keď došla celkom blízko.
+     </tei:p>
+     <tei:p>
+      — Valentom ma volajú, — povedal jej meno. — A ty si čia?
+     </tei:p>
+     <tei:p>
+      — Ja som Kráľka! — vetila žienka a reč jej znela, akoby bola   spievala.
+     </tei:p>
+     <tei:p>
+      — Tak? Nuž, Kráľka, a čože mi chceš?
+     </tei:p>
+     <tei:p>
+      — Dobrý si ty, Valent, gajdoš a znamenite si nám vyhrával. I ja i   sestry moje ťa len chváliť musíme. Škoda, že už na rok sa nezídeme.   Dlho sa už takto zabávať nebudeme, lebo ktovie, kedy sa zas taký   človek narodí, čo by také gajdy mal ako ty.
+     </tei:p>
+     <tei:p>
+      Valent nehovoril, len počúval, čo žienka rozpráva. A tá, akoby tu   ani Valenta nebolo. Hľadela kamsi do neba a hovorila viacej sama sebe   ako Valentovi.
+     </tei:p>
+     <tei:p>
+      Iba teraz sa spamätala.
+     </tei:p>
+     <tei:p>
+      — Zato, že si nám tak veselo hral, dám ti gajdicu, aby si mal   gajdy, ako sa patrí. Nerozpoznáš ju od tej, čo máš, ale keď naduješ   temlov, prsty nasadíš na dieročky a piskor sa rozkvičí, potom uvidíš,   aké tajomstvo gajdy skrývajú.
+     </tei:p>
+     <tei:p>
+      Valent ani nevedel, ako mu zmizli gajdy spod pazuchy. Spamätal sa   len vtedy, keď aj Kráľka zmizla.
+     </tei:p>
+     <tei:p>
+      Nevzal on potom gajdy do rúk. Akosi sa ich bál. Iba na tretí či   štvrtý večer ich zobral a sadol si pod buk.
+     </tei:p>
+     <tei:p>
+      A hral.
+     </tei:p>
+     <tei:p>
+      Lesné žienky naozaj neprišli a Valent nevedel, či Kráľka pravdu   hovorila, lebo gajdy hrali, ako hrali, a nebadal Valent zmenu v ich   zunivej a spievajúcej reči...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      7
+     </tei:head>
+     <tei:p>
+      Také boli vtedy časy, že boli na svete páni a poddaní. Pánovi   bolo, ako bolo, ale poddanému iba zle bývalo. Máloktorý sa narodil v   taký šťastlivý deň, že by si bol pochvaľoval, hoci sa aj takí páni   našli, čo s poddaným zaobchodili lepšie. No poddaný, čo sa dostal pod   takého pána, ako bol pán Tobiáš zo Žakýla, ej, veru, ten málo dobrého   na svete zažil. Keď sa pána Tobiáša vôľa na dobré obracala, nuž ešte   ušlo, ale keď sa zle vyspal, mali palice drábov celé dni a noci   robotu. Pri takomto spôsobe, keď dňom musel sedliak hrdlačiť na   panskom a nocou na svojom, kdeže bola veselosť? Málo jej ľudia   poznali, zato viac plaču a bolesti.
+     </tei:p>
+     <tei:p>
+      Radosť, veselosť uletela ako vtáča. A ak sa aj priblížila, len   bojazlivo poletovala v dedine a len na chvíľočku postierala slzy a   starosti z tvárí poddaných.
+     </tei:p>
+     <tei:p>
+      Valent z Babicovho salaša bol vari ako to vtáča. Keď prišiel,   zišli sa ľudia ukradme tu i tam, v izbe, v poli alebo v hore, a   Valent hral. A tu tí ľudia cítili, ako z nich starosti padajú. Akoby   sa ponárali do teplej vody. Uľahčilo sa im a pozabudli. Mladí si   zaskočili, starí zaspievali, dedovia poutierali zaslzené oči a   usmiali sa, lebo Valentove gajdy smútiť nedali.
+     </tei:p>
+     <tei:p>
+      Tak sa stalo, že sa z úst do úst, od ucha k uchu šírila zvesť,   akého muzikanta majú poddaní pána Tobiáša. A keď sa len chvály o   Valentovi rozchyrovali, ani nemohlo ináč byť, ako že neraz prišli po   neho aj z piatej dediny. Tak veru... Ten ho prišiel volať na svadbu,   ten zas o fašiangu, iný zas k jánskym ohňom...
+     </tei:p>
+     <tei:p>
+      No zo dňa na deň poznalo viacej dedín hudca Valenta. Poznalo,   poznalo, ale jeden predsa len o ňom nevedel. Pán Tobiáš zo   Žakýľa.
+     </tei:p>
+     <tei:p>
+      Dobre bolo Valentovi, kým o ňom nevedel. Dobre, lebo ako ho   spoznal, zle sa mu povodilo.
+     </tei:p>
+     <tei:p>
+      A či mohol Valent nejsť, keď ho prišiel volať Damián, syn tiež   Damiána Bartku z neďalekého Revištia? Pán dovolil, aby sa mladý   Damián oženil, nuž si vybral súce dievča a ženil sa. A nič by nebolo   bývalo, keby sa na svadbe nebola prihodila tá vec s pánom   Tobiášom.
+     </tei:p>
+     <tei:p>
+      Svadba bola a ako sa dalo, tak sa hostilo. A keď sa pohostilo, aj   sa zaspievalo, a keď sa zaspievalo, boli by nohy museli byť drevené,   keby sa neboli pustili do tanca. A že tu hral hudec Valent z   Babicovho salaša pána Tobiáša, nuž veselo bolo ľuďom, ako im bývalo   vždy, keď sa rozhovorili Valentove gajdy.
+     </tei:p>
+     <tei:p>
+      A tu kde sa vezme, tu sa vezme pán Tobiáš. Ej, a v čertovej koži.   Nebodaj sa mu nepodarilo uchmatnúť čo-to zo štiavnickej zlatej fúry.   Najedovaný vrazil do izby s troma-štyrmi drábmi a reve:
+     </tei:p>
+     <tei:p>
+      — Teda takto, sedľač, chrapač daromná? Spievať a zabávať sa ako   veľkomožní páni? Zajtra sa budete motať po poli ako drevení! Či vám   patrí zábava? Dám vám ja zábavy! Chlapi, derte! — zareval na   drábov.
+     </tei:p>
+     <tei:p>
+      A tí veru nelenili. Chlapiskovia len na to boli chovaní v zámku a   vypasení ako medvede. Začali ťať hlava-nehlava. Darmo sa prikradol k   žakýlskemu pánovi starý Bartko a prosil a svedčil, že pán veľkomožný   dovolil. Pán Tobiáš ho odsotil a bol by starý Damián iste dostal   hodne nečítaných, keby sa nebol stratil v pitvore ako väčšina   svadobníkov.
+     </tei:p>
+     <tei:p>
+      — Teraz tancujte! Teraz vyspevujte, bedač jedna! — chechtal sa pán   Tobiáš. — Nože, aj tomu s tými gajdami. Nože mu, Krištof, zahraj!
+     </tei:p>
+     <tei:p>
+      Krištof veru nelenil, vyťal Valentovi jednu, len sa mu tak skúrilo   na chrbte. No len kožuštek možno zavrešťal, ale Valent nie, lebo iba   úder pocítil, bolesť nie. Jednako nebral vec na žart a prikrčiac sa,   hľadel sa dostať v temnote von. Ale jeden z pandúrov, pravdepodobne   Krištof, čo ho palicou obšíval, chytil ho za plece a zareval:
+     </tei:p>
+     <tei:p>
+      — Hohoho, muzikant, neutekaj. Teraz nám zahráš do tanca!
+     </tei:p>
+     <tei:p>
+      A vliekol ho k pánu Tobiášovi.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš sa rozkročil a podoprúc si rukami boky, hovorí:
+     </tei:p>
+     <tei:p>
+      — A ty že si odkiaľ? Ty si nie z dediny!
+     </tei:p>
+     <tei:p>
+      — Ja som, prosím, Valent z Babicovho salaša pána veľkomožného, —   povedal pokorne.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš sa trochu zarazil. Chvíľku stál a mlčal, díval sa na   mladíka a jeho nástroj a potom povedal miernejšie:
+     </tei:p>
+     <tei:p>
+      — Teda si to ty? Viem, viem, chlapče... A taký si ty chýrečný   muzikant, že po svadbách vyhrávaš? Nuž dobre, keď sedľači vyhrávaš,   prečo by si aj pánom nezahral? Berte ho so sebou! — zavolal na   pandúrov, ktorí už boli skončili robotu, lebo v izbe nebolo ani   duše.
+     </tei:p>
+     <tei:p>
+      Nuž išiel Valent, skrúšený a utrápený. Nestaral so o seba, ale na   deda myslel. Čo povie, keď nepríde ráno domov? Čo povie, keď sa   dozvie? Čo ak aj jeho dá pán Tobiáš zavrieť? A hútal, čo s ním asi   budú robiť. Ak hrať, nuž čože by nezahral? Ale či bude pán Tobiáš   spokojný s jeho muzikou? Čo ak miesto pláce dá mu vyťať nečítaných na   dereši pred zámkom? Takto sa mučil, až mu kropaje z čela padali.   Pokorný kráčal medzi pandúrmi k zámku. Aj zamýšľal, či by sa   ufujazdiť nedalo, no keď sa poobzeral a videl vysokých pandúrov,   zašla mu chuť a kráčal k hradu.
+     </tei:p>
+     <tei:p>
+      Večer potom bolo na hrade dínom-dánom. Veselil sa pán Tobiáš,   veselili sa jeho kamaráti. Víno tieklo prúdom a páni si štrngali,   smiali sa i výskali od veselosti. Možno včerajší žiaľ a mrzutosť   takto osladzujú. V tej veselosti vari zabudli na milého Valenta.   Dobre by bolo bývalo. Lenže nebolo tak. Kto je veselý, chce byť ešte   veselší. Aspoň pán Tobiáš bol taký. A takí boli aj jeho kamaráti. A   potom, kto pije, opije sa a podpitému od spevu k tancu neďaleko. Tak   aj títo. Keď si vypili a dobre sa mali, dali sa hajduchovať.   Vyskakovali ako capy a tu i tam sa niektorý prevalil, keď sa mu   ostroha zamotala do koberca. Ale sa len rozchichotal ako ostatní a   dal sa ďalej vyskakovať, zaliaty potom a červený ako rak.
+     </tei:p>
+     <tei:p>
+      Tu prišiel pánu Tobiášovi na um Valent.
+     </tei:p>
+     <tei:p>
+      Hneď ho dal priviesť.
+     </tei:p>
+     <tei:p>
+      Naľakaný Valent sotva stál na nohách. Ej, nevidelo jeho oko ešte   takého sveta. A keď oko nevidelo, tým menej noha chodila po   kobercoch, že mal sto chutí vyzuť si krpce, lebo sa neopovážil stúpiť   na ne. No keď videl, ako páni skáču, prešiel izbou a sadol si k peci,   kde ho dráb zaviedol.
+     </tei:p>
+     <tei:p>
+      Nestačil sa dočudovať, lebo skočil k nemu pán Tobiáš a   zakričal:
+     </tei:p>
+     <tei:p>
+      — Sadni a hraj, sto striel ti do matere! — natriasal sa pred   Valentom ako starý medveď.
+     </tei:p>
+     <tei:p>
+      Ľahko mu bolo vyspevovať a tancovať, ťažšie bolo Valentovi hrať.   Od strachu a ľaku sotva rozpoznal gajdicu od chlipáka a len-len že   nestrčil malú trúbku gajdice do úst. Horko-ťažko našiel chlipák a   nafúkal temlov. Páni prestali hajduchovať a obstali mladého gajdoša.   Bolo ich zo desať, samí chlapi a samí páni z okolitých zámkov. Stáli   a čakali, čo bude. Valent potisol pazuchou temlov a nasadil prsty na   dierky.
+     </tei:p>
+     <tei:p>
+      Ale čo to?
+     </tei:p>
+     <tei:p>
+      Ticho. Ani huk nezahučí, ani piskor sa neozve, hoci Valent čím   ďalej, tým mocnejšie fučí a ramenom stíska temlov. Mali by gajdy   hučať, len by sa tak múry triasli. Ale gajdy akoby boli onemeli.   Preberá Valent prstami, ale piskory nevydávajú ani hláska. Pán Tobiáš   červenie, keď vidí, ako sa Valent nadúva, a nedajbože z gájd hlasu   dostať.
+     </tei:p>
+     <tei:p>
+      — Hraj, gajdoš, hraj! — vreštia kamaráti.
+     </tei:p>
+     <tei:p>
+      Ale gajdoš nehrá. Pokúša sa, ale gajdy sú nemé.
+     </tei:p>
+     <tei:p>
+      — Čo je s tebou? — vreští pán Tobiáš. — Počul som, ako si vyhrával   na svadbe! Tak zahraj aj mne!
+     </tei:p>
+     <tei:p>
+      — Nemožno, vaša milosť, nemožno! — šepoce bezmocný Valent a   len-len že sa do plaču nepustí.
+     </tei:p>
+     <tei:p>
+      — Ako nemožno? Naduj gajdy a hraj, lebo ti ja zahrám! — vreští pán   Tobiáš.
+     </tei:p>
+     <tei:p>
+      Proboval Valent ešte raz, ale gajdy akoby nikdy neboli bývali   gajdami. Mlčali ako zakliate.
+     </tei:p>
+     <tei:p>
+      — Nechceš? — jedoval sa Tobiáš a začal zhľadúvať korbáč. A keď mu   ho jeden z drábov podal, začal nemilosrdne obšívať Valenta. Ale   nástroj ani potom sa nerozozvučal.
+     </tei:p>
+     <tei:p>
+      — Zatvoriť ho, — kričal pán Tobiáš, — galgana! Zajtra sa ešte   pozhovárame!
+     </tei:p>
+     <tei:p>
+      Nuž odviedli drábi Valenta a šmarili ho do hlbokej, studenej a   vlhkej veže Žakýlskeho zámku.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      8
+     </tei:head>
+     <tei:p>
+      Sedel teda Valent a plakal. Hej, možno by to bol vyhral u pána, aj   dedovi poľahčil, keby... Hej, keby gajdy boli hrali... Len prečo   nehrali? Valent rozhutoval, ale nemohol na to prísť. Ba či naozaj   nehrajú? I čo mu ťažko prichodilo, nafúkal temlov a sotva rameno   pritisol, už sa ozval hlboký hlas hukov. Rýchlo ich odložil. Mohli by   ho počuť a vyvliecť von. I keď bol v tme a hlboko pod zemou, jednako   sa mu tu istejšie videlo ako pred pánom Tobiášom. Teraz poznával   Valent, ako je byť poddaným. Videl, prečo sú tí ľudia z dediny takí   smutní a zarazení a prečo im jeho muzika otvára ústa a srdcia, ako   keď lačnému podáš kus chleba. A v tomto rozhutovaní aj pozabudol na   to, čo ho čaká.
+     </tei:p>
+     <tei:p>
+      Ale Valent sa strašne zadivil, keď ho ráno bez všetkého   pustili.
+     </tei:p>
+     <tei:p>
+      Pravdaže, nemohol vedieť, že je v tejto krajine aj kráľ. Nikdy o   ňom nepočul. A že týmto kráľom je spravodlivý Matiáš, to už naozaj   nemohol vedieť. Nuž a keď nevedel, neprestával sa diviť, že kráča   horou a je slobodný. Je to ale pravda, lebo, hľa, tu je nádejovský   prievoz a už zreteľne čuje brechot dedových psov. Preskočil milý   hudec potok a kráčal vŕškom k salašu. Keď ho zbadali psi, dali sa mu   bežať oproti. A vtedy ho zbadal aj ded.
+     </tei:p>
+     <tei:p>
+      — Ty si to, Valent? — volal na neho.
+     </tei:p>
+     <tei:p>
+      — Ja, dedo!
+     </tei:p>
+     <tei:p>
+      A pobehol.
+     </tei:p>
+     <tei:p>
+      — Zdravý? — opýtal sa ho starostlivý ded, keď videl na tvári   bledosť a sinky, i na rukách krvavé pásy po pána Tobiášovom   korbáči.
+     </tei:p>
+     <tei:p>
+      — Zdravý, dedo, iba čo ma trocha pán Tobiáš... — povedal len tak   mimochodom Valent.
+     </tei:p>
+     <tei:p>
+      — Ej, chvalabohu, synku. Šťastie máš, ale druhý raz nevyhľadávaj   takú spoločnosť, lebo by sa ti mohlo zle povodiť.
+     </tei:p>
+     <tei:p>
+      — A vy ako viete?
+     </tei:p>
+     <tei:p>
+      — Matúšov Kubo dobehol v noci a vyrozprával všetko. Už som sa   zberal poprosiť pána, aby ťa prepustil...
+     </tei:p>
+     <tei:p>
+      — Eh, dobre, že ste nešli, lebo ktovie, ako by ste boli   pochodili... — A vyrozprával dedovi všetko, čo prežil.
+     </tei:p>
+     <tei:p>
+      Ded pokrútil hlavou a zahľadel sa na gajdy.
+     </tei:p>
+     <tei:p>
+      — Teraz hrajú? — opýtal sa.
+     </tei:p>
+     <tei:p>
+      — Hrajú, — povedal isto Valent a nafúkol templov. Gajdy zaspievali   hlasom jasným ako krištáľ.
+     </tei:p>
+     <tei:p>
+      Nuž pokrútil starý ded Babic hlavou nad týmito čudnými gajdami,   gajdencami.
+     </tei:p>
+     <tei:p>
+      Valent nehovoril. Odrazu mu prišli na um Kráľkine slová. Len teraz   ich začínal chápať.
+     </tei:p>
+     <tei:p>
+      — Hej, gajdy hrajú iba tomu, koho tieseň a žiaľ morí, a divne   zmĺknu, keď by mali potešiť toho, kto iným slzou tvár zalieva a   bitkou a trápením ju utiera.
+     </tei:p>
+     <tei:p>
+      Ale Valent sa uspokojil a uspokojil sa aj jeho ded.
+     </tei:p>
+     <tei:p>
+      Na druhý deň sa nič nestalo, ani na tretí. Iba na hrade bolo   všetko hore nohami. Ako by aj nie, keď dôjde taká zvesť, že pán kráľ   príde. Tak veru. Príde pán Matej do Zvolena a príde aj na Šášov a   možno aj na Žakýl dôjde. Hej, keby tohoto nie, nebol by si pán Tobiáš   robil starosti s Valentom. Ale dobre pozná kráľa. Môže prísť, popýtať   sa ľudí, aj baču môže navštíviť. Jeden škrkne niečo, druhý a kráľ je   hneď samá spravodlivosť. Nuž prečo by si pre chumaja robil u kráľa   zlé oko — hútal pán Tobiáš. Kázal ho preto vypustiť a zámok pripraviť   na uvítanie takého vzácneho hosťa...
+     </tei:p>
+     <tei:p>
+      Ale Valent sa nikdy nedozvedel, prečo sa dostal z rúk pána Tobiáša   s celou kožou...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      9
+     </tei:head>
+     <tei:p>
+      Tentoraz neprišiel sem pán kráľ Matej pre zábavu. Nie. Mal on   veľký smútok v srdci. Akože by aj nie, keď pani kráľovná zomrela a   kráľ ostal sám, samotný. V bielych múroch kráľovského zámku   budínskeho — ej, nemnoho tam bolo potechy pre dobrého kráľa. Tam ho   len ťažkosti zachodili. Nemal tu človeka, s ktorým by si bol podelil   žiale, ktorý by ho bol mohol potešiť. Nečudo teda, keď hľadal   potešenie inde. A kdeže ho mohol nájsť, ak nie v tichej hore? Matej   to vedel, a preto sa rozhodol, že leto strávi vo Zvolene. Tak sa aj   stalo. No a keď prišiel do Zvolena, nuž prečo by sa aj na Šášov   nevybral? Veď to bol tiež jeho zámok, len ho prenajímal pánom   nájomníkom. Šášovské panstvo sa tiahlo od Hrona až po Štiavnicu. A to   samá hora, šíra a tichá. Horou potoky vyryli hlboké doliny a v nich   driemali drobné viesky, po ktorých dnes už ani stopy nezostalo.
+     </tei:p>
+     <tei:p>
+      Tak raz teplého letného dňa naozaj prišiel kráľ na Šášov. Jednak   na návštevu, jednak aby pánu nájomcovi šášovskému povedal do duše,   aby nechával na pokoji majetky Beňadického kláštora, ktorého mnísi sa   často, prečasto ponosovali u kráľa, že im pán šášovský nájomca bráni   užívať majetky, ktoré ležia v tesnej blízkosti Šášova. No keď tak   urobil, vyšiel si s malou družinou do hôr k Žakýlu. Nepoľoval, len   obzeral horu, pozoroval divú zver, ktorá sa tu i tam ukázala, díval   sa na veľké kane, krúžiace v povetrí ako ľahké vzdušné koráby. Hľadel   na vodu potoka a pozoroval, ako rastie, ako potom bez ustania uteká   za neznámym cieľom dolu Hronom.
+     </tei:p>
+     <tei:p>
+      Keď došiel neďaleko Žakýlskeho zámku, kde sa už dedinky ukazovali,   zoskočil z koňa a rozkážuc družine, aby sa pobrala do zámku, sám s   jediným sluhom sa pobral pešky prejsť dedinkami. Kráčal tu horou, tu   lúčinou, tu stretol človeka a opýtal sa, ako sa má, zas zastal a   obdivoval drobný kvet alebo zajaca, čo sa zvedavo postavil na   chodníku a veľkými očami hľadel na kráľa.
+     </tei:p>
+     <tei:p>
+      Vtom — čo to?
+     </tei:p>
+     <tei:p>
+      Zastal kráľ, zastal i jeho sluha a počúvajú. Odkiaľsi z hory akoby   sa muzika ozývala. Zreteľne rozpoznávajú zvuky gájd. Hej, huky   pridusené, smutne plačú a nad nimi mrholí clivá pesnička. Huky akoby   ju zakrývali ľahkým závojom, že pesnička, čo i hybká, jednako smútok   budí v srdci. Ale aký smútok! Ten smútok nebolí. Hojí. Kráľ kývne   sluhovi a pomaly sa kradne horou. Muzika sa jasnejšie ozýva. Ba už   cez krovie začína presvitať vidno a v tom vidne vidí veľký grúň. Na   grúni sa ovce pasú. Stred grúňa strom a pod stromom na pni sedí   mládenec a hrá. Obíde kráľ mladíka a potichu sa kradne k nemu. Keď   dôjde, sadne si za strom a sedí. Mladík hrá. Nevie, aký človek ho to   počúva. Líca sotva nafukuje, jednako sa temlov nadúva. Pritíska ho   lakťom, prsty sa mihajú na gajdici a prepúšťajú piesne. Vidí kráľ, že   tieto piesne sa mládenec nenaučil. Iste má žiaľ, lebo gajdy to plačú,   nariekajú a to zas akoby prehovárali, tešili. Akoby tie gajdy boli   živé a rozprávali ľudskou rečou.
+     </tei:p>
+     <tei:p>
+      Nuž kráľ si podopiera hlavu a počúva.
+     </tei:p>
+     <tei:p>
+      Ktovie, dokedy by takto boli sedeli kráľ i gajdoško, keby sa na   lúčine neboli zjavili dva lišiaky. Pobehol jeden, pobehol druhý za   ním. Prostopašne vyskakovali a hrali sa. To stáli na zadných nohách,   to zas v klbku váľali sa po zemi, že ťažko bolo rozpoznať, koľko ich   je. A ktovie, dokedy by sa boli tak hrali a váľali, keby sa im nebol   postavil do cesty potok. Nevidel asi hrajúce sa lišiaky a tak   neuskočil, hoci dobré nohy má, a milí kamaráti priblížili sa až k   nemu. Ešte raz sa prekrbalili a vtom hup! — spadli obidvaja do   vody.
+     </tei:p>
+     <tei:p>
+      Mladý gajdoš vypustil chlipák a hlasito sa zasmial.
+     </tei:p>
+     <tei:p>
+      Ani kráľ sa nezdržal.
+     </tei:p>
+     <tei:p>
+      Keď ho mládenec zbadal, zamračil sa, vyskočil. Zľakol sa.   Valentovi, lebo on to bol, prišiel na um pán Tobiáš, jeho hrádok a   jeho kamaráti. Zbledol a chystal sa ufujazdiť. Ale kráľ ho   zadržal.
+     </tei:p>
+     <tei:p>
+      — Neutekaj, synku!
+     </tei:p>
+     <tei:p>
+      — Náhlo mi, pane, — odvetil poplašený Valent.
+     </tei:p>
+     <tei:p>
+      — Ak ti náhlo, dobre. Ale zahraj ešte. Tak mi zahraj, akoby si   hral tým dvom prostopašným lišiakom, nie tak smutno ako pred   chvíľou.
+     </tei:p>
+     <tei:p>
+      Valent neveľmi veril. Tento sa síce celkom ináč rozpráva ako pán   Tobiáš, jednako, ktovie, či gajdy zahrajú.
+     </tei:p>
+     <tei:p>
+      — A povedzte mi, pane, ste vy dobrý človek? — opýtal sa.
+     </tei:p>
+     <tei:p>
+      — Ja? — zadivil sa kráľ.
+     </tei:p>
+     <tei:p>
+      — Nie ako tí? — ukázal Valent na hrádok.
+     </tei:p>
+     <tei:p>
+      Matej sa zamračil. Vedel dobre, aký je pán Tobiáš i šašovský pán   nájomník, jeho priateľ. Preto sa zachmúril a zamyslel sa.   Neprehovoril už, len si sadol a smutne hľadel pred seba. Valentovi sa   ho uľútostilo. „Nie,“ hútal, „tento je iste nie ako tamtí. Aj sa   pekne prihovoril, ani nebil, ani sa nevadil, že si tu na bielom dni   vyhrávam.“ Prisadol si teda a fúkol do nástroja.
+     </tei:p>
+     <tei:p>
+      Začal.
+     </tei:p>
+     <tei:p>
+      Najprv smutne, a potom akoby bol zabudol na cudzinca, videl iba   rozihrané lišiaky. A hral, ako vari ešte nehral. Keď zastal, vstal aj   kráľ.
+     </tei:p>
+     <tei:p>
+      — Ďakujem ti, synku, — povedal, — a aby si vedel, komu si hral, tu   máš tento môj obraz.
+     </tei:p>
+     <tei:p>
+      Podal mu zlatý peniaz.
+     </tei:p>
+     <tei:p>
+      Ale Valent nechcel vziať.
+     </tei:p>
+     <tei:p>
+      — Ej, — hovorí, — môj pane, nie za peniaze som vám vyhrával.
+     </tei:p>
+     <tei:p>
+      — To nie za muziku, synku, ale na pamiatku.
+     </tei:p>
+     <tei:p>
+      Nuž Valent si nedôverčivo vzal podávaný peniaz.
+     </tei:p>
+     <tei:p>
+      A keď sa vrátil a rozpovedal dedovi, aký človek sa tu potuluje,   ded len pokýval hlavou. Ale keď mu ukázal peniaz, vypleštil starý oči   a zareval:
+     </tei:p>
+     <tei:p>
+      — Ty chumaj, veď to bol pán kráľ!
+     </tei:p>
+     <tei:p>
+      Ale čože Valent! Nevedel on, či to väčší pán od Tobiáša, alebo   menší. Len sa usmial a schoval dukát do rázštepu v kolibe...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      10
+     </tei:head>
+     <tei:p>
+      Starý ujec Poudruhý zamĺkol.
+     </tei:p>
+     <tei:p>
+      — A potom? — opytujem sa, keď nepokračoval v reči.
+     </tei:p>
+     <tei:p>
+      — Potom? Kráľ vraj často sem chodieval, ba aj do Zvolena volával   Valenta, aby počúval jeho muziku. Tento grúň mu vraj daroval. Ľudia   ho, možno, po ňom menujú...
+     </tei:p>
+     <tei:p>
+      — Aha, Hudcov vrch, — šomrem a vstávam. Starý ujec Kašiar-Poudruhý   sedí a pufká zo zapekačky. A možno myslí na tie časy, keď tu ešte   býval chýrny hudec-gajdoš Valent...
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="group">
+    <tei:head>
+     NA ZVOLENSKOM ZÁMKU
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      1
+     </tei:head>
+     <tei:p>
+      Ak vedel ujec Poudruhý niečo o Valentovi-hudcovi, nevedel všetko.   Už je raz darmo, najťažšie je zachytiť koniec nitky, potom sa už   ľahšie dostaneme ku klbku. Keď máme klbôčko v hrsti, len nám prichodí   opatrne odmotávať a rozmoceme uzlík. A tak bolo aj s týmto Valentom z   Hudcovho vrchu, čo také divné, predivné gajdy mal, a keď zagajdoval,   také čudné veci sa diali. Čudné veru, lebo duši ťažko nájsť lekára, a   Valent so svojimi gajdami takýchto ľudí liečil, čo ťažkosti v srdci   nosili. A ak bol spravodlivý človek a mal radosť, nuž sa mu radosť   znásobila. Iba keď sa so zlým človekom stretol, čo slabým krivdil,   poddaným nedoprial radosti ani poľahčenia, jeho gajdy zamĺkli. Divné,   predivné to boli gajdence. A s tým vrchom, čo kráľ Matej daroval   Valentovi, takto sa porobilo:
+     </tei:p>
+     <tei:p>
+      Hovorí sa: kráľ, kráľ. Ale akéže to vtedy boli časy? Pán kráľ   povedal čierne, a páni na zámkoch a hradoch povedali biele. Kráľ   takto, a oni inak. Darmo vypisoval kráľ pánom nájomcom šášovského   zámku, páni si robili, ako robili. Brali Štiavničanom, brali každému,   koho pochytili, kto sa im do rúk dostal. Lebo vtedy len mocní mali   právo.
+     </tei:p>
+     <tei:p>
+      A takíto boli skoro všetci, či bývali v Žakýle, alebo na Šášove,   alebo v Revišti, alebo v Breznici.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš Žakýlsky sa milo usmial, keď pán kráľ Matej zavítal k   nemu a keď mu medzi rečou na hostine odrazu povie:
+     </tei:p>
+     <tei:p>
+      — Urodzený pane, to váš ten kopec tamdolu, kde sa ovce pasú?
+     </tei:p>
+     <tei:p>
+      — Z vašej milosti môj, veličenstvo, — hovorí úctivo pán Tobiáš a   už myslí, že sa iste kráľ stretol s Babicom, ktorý nebodaj niečo   naklebetil na neho. Tak myslí a sľubuje v duchu: Ak som ti ešte gate   nevyprášil, vyprášim ti ich teraz istotne.
+     </tei:p>
+     <tei:p>
+      — Hm, teda váš, — hovorí kráľ a dodáva, — počúvajte, urodzený   pane, mohli by sme urobiť čaru.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš si oddýchol. Vyjasnil tvár a začervenal sa.
+     </tei:p>
+     <tei:p>
+      — Dajte mi kopec aj s lúčinami, ja vám dám kus zeme na tejto   strane pri Bielom potoku až po Hron. Je to síce les, ale je ho z päť   ráz toľko ako tamtoho.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš nevedel napochytre, čo by mal povedať. Jednako, či mu   boli kráľove slová po srsti alebo proti, nemohol ináč, len   privoliť.
+     </tei:p>
+     <tei:p>
+      — Hovorím, veličenstvo, z vašej milosti požívam, čo požívam, a ak   sa vám kopec páči, nájdem ja pre svoje ovce pasienky aj inde a lesy   sa mi zídu a možno aj viac úžitku prinesú ako holé grúne.
+     </tei:p>
+     <tei:p>
+      Kráľ sa milostivo usmial.
+     </tei:p>
+     <tei:p>
+      — Hneď po návrate dám vyhotoviť príslušné listiny a pošlem vám ich   zo Zvolena.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš sa uklonil a úctivo pobozkal kráľovi ruku.
+     </tei:p>
+     <tei:p>
+      Ale potom, keď sa dozvedel, prečo kráľ zamieňal pozemky, očervenel   ako vtedy, keď kráľ začal reči o zámene. Nadul líca a zlostne fučal.   Pravou rukou vykrúcal to jeden, to druhý fúz a bez slova počúval, čo   číta páter, ktorý učil jeho dcéry poznávať abecedu na hrade. Keď   dočítal, stál pán Tobiáš ešte chvíľku takto a potom sa opýtal:
+     </tei:p>
+     <tei:p>
+      — Teda toto tam stojí?
+     </tei:p>
+     <tei:p>
+      — Do slova.
+     </tei:p>
+     <tei:p>
+      — Hm, — zašomral Tobiáš a vyšiel. Poprechodil sa po dvore, postál   pred hrádkom a potom, akoby si bol odrazu na niečo spomenul, dal si   priviesť koňa.
+     </tei:p>
+     <tei:p>
+      Vysadol a cvalom letel na salaš.
+     </tei:p>
+     <tei:p>
+      — Kdeže máš toho tvojho muzikanta, starý? — začal, keď došiel na   salaš.
+     </tei:p>
+     <tei:p>
+      — Vnuka, urodzený pane?
+     </tei:p>
+     <tei:p>
+      — Čert vie, čím ti je!
+     </tei:p>
+     <tei:p>
+      — Valent, Valent! — zavolal bača. — Je kdesi dolu pri ovciach,   urodzený pane, ale hneď bude tu.
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš zosadol z koňa a sadol si na peň, nevšímajúc si baču,   čo práve žinčicu zváral.
+     </tei:p>
+     <tei:p>
+      Keď Valent dobehol, zastal, akoby ho bol do zeme vsadil. Aj   pozdraviť zabudol a len po hodnej chvíli zajachtal:
+     </tei:p>
+     <tei:p>
+      — Pánboh daj dobrý deň, urodzený pane!
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš akoby ani nebol počul. Premeral si ho od hlavy do päty   a nechal ho stáť pred sebou.
+     </tei:p>
+     <tei:p>
+      Valent sa neopytoval, lebo si domyslel, že ho ded kvôli pánu   Tobiášovi volal.
+     </tei:p>
+     <tei:p>
+      — Teda ty si ten chýrny hudec?
+     </tei:p>
+     <tei:p>
+      Valent len hlavu sklonil.
+     </tei:p>
+     <tei:p>
+      — A aj kráľovi si vyhrával?
+     </tei:p>
+     <tei:p>
+      — Neviem, urodzený pane, či to pán kráľ.
+     </tei:p>
+     <tei:p>
+      — Chmuľo, mal by si dostať päťadvadsať, že nepoznáš kráľa, ale   nemám dnes na takéto veci čas a vôľu. Dostal som písmo od kráľa.
+     </tei:p>
+     <tei:p>
+      Valent len stál a pozorne počúval reči pána Tobiáša.
+     </tei:p>
+     <tei:p>
+      — Podľa toho písma sú tieto lúčiny i s kopcom tvoje. Rozumieš,   chmuľo?
+     </tei:p>
+     <tei:p>
+      — Nerozumieme, urodzený pane, — zastarel sa do reči Babic. — Ako   môžu byť jeho, keď sú to lúčiny vaše?
+     </tei:p>
+     <tei:p>
+      — Ty starý trúd sa nestar. To tuto všetko je vnukovo, ale si   nemyslite, že to len tak ľahko pôjde. Mne je kráľ...
+     </tei:p>
+     <tei:p>
+      Pán Tobiáš, ktorý medzi rečou vstal a podišiel k Valentovi, sa   spamätal a zamĺkol. Len jedovato odpľul a potom bez slova vzal koňa   za opraty a pešky odchodil, zlostne šibúc bičíkom. Keď prešiel   niekoľko krokov, obrátil sa a zavolal:
+     </tei:p>
+     <tei:p>
+      — Zato sa tu moje ovce budú pásť a árendu vám vyplatím!
+     </tei:p>
+     <tei:p>
+      Neboli múdri z tejto reči ani ded, ani vnuk. A že nerozumeli, čo   tou rečou myslel žakýlsky pán, nuž len robili ako dosiaľ. Akoby tieto   pozemky a stádo boli pána Tobiášove.
+     </tei:p>
+     <tei:p>
+      Ale o krátky čas sa tu nadaril páter z hradu a ten rozpovedal   starému Babicovi, ako prišiel Valent k týmto lúkam, kde by sa bola   mohla aj hodná dedina vystaviť.
+     </tei:p>
+     <tei:p>
+      Bolo to o Michale.
+     </tei:p>
+     <tei:p>
+      Podjeseň, a leto sa nemalo vôľu poddať. Slniečko svietilo teplo a   milo hrialo, že tŕpkové kriaky začali znovu kvitnúť, akoby mala jar   prísť. A to veru bola zriedkavá vec. No nedalo sa nič robiť. Ovce sa   dobre darili. Pásli sa veselo a Valent i ded dávno zabudli, čo to bol   pán kráľ Matej s kopcom porobil.
+     </tei:p>
+     <tei:p>
+      Iba teraz im zišlo na um. Dobehol totiž raz Vavrinec a   oznamuje:
+     </tei:p>
+     <tei:p>
+      — Máte prísť zajtra aj s vnukom na hrad.
+     </tei:p>
+     <tei:p>
+      Nedalo sa nič robiť, len ísť, keď pán Tobiáš volal. Na druhý deň   si vymastili krpce, prihladili starostlivo vlasy, obliekli nové gate,   i hunky prehodili na plecia a pobrali sa, nechajúc stádo psom na   opateru. Stúpali bez slova, lebo nechodievali na hrad. Radiť sa   nemali čo. Pán Tobiáš povie, prečo ich zve, a oni budú musieť len   prikývnuť. Tak sa dostali na hrádok. Pán Tobiáš ich už čakal.
+     </tei:p>
+     <tei:p>
+      — Teda ste prišli, prišli, — vítal ich, keď sa úctivo   poklonili.
+     </tei:p>
+     <tei:p>
+      — Ako ste ráčili rozkázať, urodzený pane, — prisviedčal starý.
+     </tei:p>
+     <tei:p>
+      — Hehehe, — zasmial sa nepríjemne jedovato pán Tobiáš. Pravdaže   ste prišli, ale sotva viete, po čo.
+     </tei:p>
+     <tei:p>
+      — To veru nevieme, urodzený pane.
+     </tei:p>
+     <tei:p>
+      — Nuž tak vám to poviem: árendu vám idem vyplatiť za pasienky.
+     </tei:p>
+     <tei:p>
+      Teraz sa neozval ani starý, ani mladý.
+     </tei:p>
+     <tei:p>
+      — Hrom do toho, to som ešte nerobil... — hovoril už zrejme jedom   schvátený pán Tobiáš, — aby som takýmto chumajom árendu platil za to,   čo je moje.
+     </tei:p>
+     <tei:p>
+      — Nepožadujeme, urodzený pane, — osmelil sa starý Babic, vediac   už, prečo ich volal a prečo sa jeduje.
+     </tei:p>
+     <tei:p>
+      Ale bodaj by to nebol povedal:
+     </tei:p>
+     <tei:p>
+      — Počkaj, starý trkvas, — zavrešťal odrazu pán Žakýlsky, akoby ho   bola osa bodla. — Ešte mi napokon daruješ, čo je moje... Rozumieš,   chumaj, čo je moje... I keď kráľ... Tu som ja kráľom... Hrom a   peklo...!
+     </tei:p>
+     <tei:p>
+      — I veľmi, ako vy ráčite rozhodnúť, urodzený pane, — prisviedčal   naľakaný starý.
+     </tei:p>
+     <tei:p>
+      — To si myslím, — povedal spokojnejšie pán Tobiáš, — ale kráľ je   jednako kráľ a písmo je písmo. Vy ho nemáte, ale mne prikázal. —   Chvíľku nehovoril a potom zas začal:
+     </tei:p>
+     <tei:p>
+      — Teda ty si muzikant? — ukázal prstom na Valenta.
+     </tei:p>
+     <tei:p>
+      Valent ani nevedel, ako vyhŕklo z neho:
+     </tei:p>
+     <tei:p>
+      — Ja!
+     </tei:p>
+     <tei:p>
+      — Hehehe, — zasmial sa pán Tobiáš, — viem... Kráľovi vyhrávaš...   No veď počkaj... A kto ťa to naučil? — opýtal sa odrazu.
+     </tei:p>
+     <tei:p>
+      — Sám, — povedal naraz i vnuk i ded.
+     </tei:p>
+     <tei:p>
+      — Ehe, ale gajdy si mu ty... — zavrešťal zas Tobiáš a jed mu   stúpal do hlavy. — A z mojej ovce... he...!
+     </tei:p>
+     <tei:p>
+      — Darovať ste mi ju ráčili, urodzený pane, a nechceli peniaz vziať   za ňu, — bránil sa starý Babic, vidiac, že nebude dobre.
+     </tei:p>
+     <tei:p>
+      — Ukradol si ju, ukradol, — kričal Tobiáš.
+     </tei:p>
+     <tei:p>
+      — Hrom aby to... Ja vám dám árendy... Ej, dám, aby ste nemysleli,   že žakýlsky pán je dáky chrapúň... Kráľ dal, kráľ rozkázal a žakýlsky   pán statočne zaplatí... Ej, zaplatí... aby ste si nemysleli... Bedač   jedna... Hej, Krištof! — zavolal.
+     </tei:p>
+     <tei:p>
+      Keď sa dráb ukázal, rozkazoval pán Tobiáš chladným hlasom:
+     </tei:p>
+     <tei:p>
+      — Týchto dvoch vyplatíte. Tomu muzikantovi štyridsať a starému   dvadsať! Rozumieš?
+     </tei:p>
+     <tei:p>
+      Krištof prisvedčil a zavolal Valenta i deda, aby šli za ním. No   sotva vyšli predo dvere, ani nevedeli, ako ich zdrapili železné ruky   vypasených pandúrov. Kým si uvedomili, čo sa s nimi robí, ležali už   jeden i druhý vytiahnutí na dereši v zámockom dvore. Pán Tobiáš stál   pri okne a smial sa:
+     </tei:p>
+     <tei:p>
+      — Nuž vidíte... Ej, pán Žakýlsky neostane dlžen... Statočne   zaplatí árendu... Len neviem, či som dosť nameral urodzeným   pánom...
+     </tei:p>
+     <tei:p>
+      Ej, na jar zas vyplatím, i na jeseň statočne... Sám budem čítať.   Krištof a Damián, začnite!
+     </tei:p>
+     <tei:p>
+      A stojac v okne, pomaly počítal.
+     </tei:p>
+     <tei:p>
+      — Jedna, dve, tri... štyri... päť...
+     </tei:p>
+     <tei:p>
+      Pomaly rátal a za každým slovom zahvižďala palica na obnaženom   tele. Valent pod prvým úderom zjujčal, pod druhým zakvílil, pod   tretím zabedákal... A tu sa starý obrátil a zakričal na vnuka tak,   ako ho ešte v živote nepočul zakričať:
+     </tei:p>
+     <tei:p>
+      — Mlč!!!
+     </tei:p>
+     <tei:p>
+      Vtedy akoby sa vo Valentovi bolo niečo prebudilo. Vycítil, prečo   ded mlčky znáša údery a prečo aj na neho zakričal. Údery padali a   pálili každý tuhšie. Ale Valent stisol zuby a nevydal viac ani   hláska...
+     </tei:p>
+     <tei:p>
+      Keď ich odviazali, boli mokrí, lebo na starého dva razy a na   Valenta raz vyliali vody. Pán Tobiáš stál v okne a smial sa:
+     </tei:p>
+     <tei:p>
+      — No, ste spokojní? — volal.
+     </tei:p>
+     <tei:p>
+      — Spokojní, — zavolal Valent, nevediac sa zdržať. — Čo ste dali,   to sme vzali, kým sa odplatíme, urodzený pane...!
+     </tei:p>
+     <tei:p>
+      — I veľmi, i veľmi, chlapče... Teraz si do jari môžeš spokojne   vyhrávať a po Ďure vás zas zavolám a statočne vyplatím, čo som   dlžen.
+     </tei:p>
+     <tei:p>
+      Vyšli Babicovci bez slova, ako boli bez slova prišli...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      2
+     </tei:head>
+     <tei:p>
+      Sedel Babic, sedel aj vnuk, lebo im nebolo do skoku. Ani   nehovorili, lebo im ani do hovoru nebolo. A že by bol vzal Valent   gajdy do rúk, to už naozaj nie, lebo ho po bití telo bolelo a v hrudi   sa jed zváral s trpkosťou a bezmocnosťou. Čože mohol robiť? Mohol sa   postaviť hradnému pánovi? Mohol žiadať, aby nerobil krivdu, a čo   urobil, napravil? Len takto posedávať mohol a jedom a trpkosťou sa   zjedať a zvíjať v bezmocnosti. Nebol Valent ako jeho ded, ktorý bol   už zrástol s poddanským životom, plným takýchto príhod. Ba ešte sa   radoval, že sa nič iné nestalo a že ich pán Tobiáš necháva ovce pásť,   lebo panská robota je sto ráz horšia. Aj robiť musíš od svitu do   mrku, aj sa nenaješ, a ak ustávaš, pandúr ti dodá chuti korbáčom. Tu   si robili, ako vedeli a stihli, nik sa o nich nestaral. Keby nie   kráľa a Valentovej muziky...
+     </tei:p>
+     <tei:p>
+      Veru, Valentových gájd.
+     </tei:p>
+     <tei:p>
+      Milý bača už ľutoval, že sa dal na slová behanovského Ogrgeňa a   podľa jeho rady urobil gajdy. Ale prečo sa biela ovca práve tu našla?   A prečo sa utopila? A vedel aj to, že keď Valent teraz gajdy nechytá   do rúk, jednako sa ich nezriekne. To by naostatok nebolo zle, ale ak   bude vyhrávať s takým šťastím ako dosiaľ, nuž sa veru ešte hodne zla   navalí na nich.
+     </tei:p>
+     <tei:p>
+      Ale Valent nie tak.
+     </tei:p>
+     <tei:p>
+      — Dedo, — hovorí raz za zimného večera po Hromniciach.
+     </tei:p>
+     <tei:p>
+      — No? — zašomral ded.
+     </tei:p>
+     <tei:p>
+      — Ja takto nebudem. A keby vás nebolo, ani by som už nie...
+     </tei:p>
+     <tei:p>
+      — A čo chceš urobiť?
+     </tei:p>
+     <tei:p>
+      — Pozrite, grúne vraj pán kráľ dal mne... Jednako ich užíva pán   Tobiáš. A nech by užíval. Čože, ja nežiadam, ale aby som čakal do   Ďura, kým ma pozvú na zámok, aby ma vypalicovali, ej, dedo, to   nebudem...
+     </tei:p>
+     <tei:p>
+      Ded len hlavou pokýval. Uznával, že má Valent pravdu. Ak dočká   jar, pán Tobiáš istotne splní slovo.
+     </tei:p>
+     <tei:p>
+      Pozná ho už dobre.
+     </tei:p>
+     <tei:p>
+      — Len čo s vami bude, dedo... Čo s vami.
+     </tei:p>
+     <tei:p>
+      — Nestaraj sa ty o mňa, Valent. Ja som už zvykol a poznám pána   Tobiáša. A konečne, mne kráľ lúčiny nedaroval, dostal som len za to,   že som ti gajdy urobil a na muziku ťa naviedol.
+     </tei:p>
+     <tei:p>
+      — Ale čo si počnete, keď ste už starý a sotva nohami   zapletáte...
+     </tei:p>
+     <tei:p>
+      — Nájdem si pomoc. Vezmem honelníka alebo valacha. Ty urob, ako   vieš. Vrešťať si síce začal, keď ťa palicovali, ale teraz vidím, že   ti zlý nedá pokoja a ľahko by si mohol dačo vyčiniť. Čože si ty proti   pánu Tobiášovi?
+     </tei:p>
+     <tei:p>
+      — Nie, dedo. Keby dal pokoj, nech si pasie. Ani denár nepýtam, ale   počuli ste sami, ako hovoril: na Ďura nás zavolá... Ej, a veru nešiel   by som! A keby som neposlúchol, čo by mi ostalo? Dať sa na zboj, a to   nechcem...
+     </tei:p>
+     <tei:p>
+      — Ale čo si počneš?
+     </tei:p>
+     <tei:p>
+      — Čo? Hovorili ste, i páter hovoril, aj pán Tobiáš, že som pánu   kráľovi vyhrával a on ma za to odmenil.
+     </tei:p>
+     <tei:p>
+      — Hej, hej, — prisviedčal starý bača.
+     </tei:p>
+     <tei:p>
+      — Nuž pozrite, dedo, ak kráľ dal, pôjdem k nemu a poviem, nech si   zas vezme, čo je jeho, a vráti pánu Tobiášovi. Pán kráľ, ako dal, tak   vezme a pán Tobiáš dá pokoj. Vrátim sa a budeme zasa spolu.
+     </tei:p>
+     <tei:p>
+      — Dobrá myšlienka, chlapče, jednako, ako sa dostaneš ku kráľovi?   Vieš ty, kde býva kráľ? Poznáš cestu, ktorá vedie k nemu? A vieš ty,   že kráľ býva v takom meste, kde zámkov, ako tuto pánov Tobiášov, ba   ešte väčších, ako oviec v košiari a domov ako tej trávy na lúkach a   ľudí ako mravcov v mravenisku?! A pána kráľov zámok taký veľký ako   táto hora a pod zámkom voda hučí a ako sa cez ňu dostaneš, keď si   nikdy rieky nevidel, nie to v loďke sedel?
+     </tei:p>
+     <tei:p>
+      Valent len na pol ucha počúval. Nemienil ísť do Budína. Inak   myslel.
+     </tei:p>
+     <tei:p>
+      — Nie, dedo. Prečo by ja šiel za pánom kráľom, keď pán kráľ príde   sem?
+     </tei:p>
+     <tei:p>
+      Babicovi svitlo v hlave, musel prisvedčiť.
+     </tei:p>
+     <tei:p>
+      — Myslíš do Zvolena?
+     </tei:p>
+     <tei:p>
+      — Prečo nie? Príde leto a príde aj pán kráľ. Do Zvolena už len   potrafím. Hovorili ste, že Hron od Zvolena tečie. Zbehnem dolu pod   Šášovský zámok k Ladomeru a potom sa dám proti vode, kým nedôjdem do   mesta. V meste ľahko nájdem zámok a v zámku pána kráľa. Vezmem   peniaz, čo mi daroval, bude ho iste poznať. Mám ho odložený v kolibe   v rázštepe. Rozpoviem mu, ako som pochodil, ako sa nám povodilo.
+     </tei:p>
+     <tei:p>
+      — Bodaj by bolo tak, ako hovoríš, chlapče. Bodaj by bolo   tak...
+     </tei:p>
+     <tei:p>
+      — Uvidíte, dedo, že dobre bude, len čo sa tohto kráľovho daru   strasiem.
+     </tei:p>
+     <tei:p>
+      Potom už nesedávali takí smutní. I ded, i vnuk veselšie chodili   okolo oviec a radostnejšie očakávali jar, keď pán kráľ príde do   Zvolena.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      3
+     </tei:head>
+     <tei:p>
+      Nevedel Valent, nevedel ešte, aké je lúčenie. Nikdy sa nelúčil s   nikým. Ani mu na um neprišlo, že by sa s dedom rozísť mal. Myslel, že   s ním bude naveky. Teraz, keď si pohútal, že bude musieť odísť a deda   nechať, čudne mu stískalo srdce. Nevedel Valent, či to strach, či   obava. Ale čas utekal. A čím ťažšie bolo Valentovi myslieť na túto   vec, tým chytrejšie utekal čas. Utekal a Ďura bude nezadlho. Valent   nechcel čakať do Ďura na salaši...
+     </tei:p>
+     <tei:p>
+      Čože mal robiť? Nič nemohol, iba vziať gajdy a s nimi sa tešiť, ak   sa potešiť mohol a vedel. Ej, ale ak iných jeho gajdy tešili, jeho   samého nepotešili. Ba keď večerom pod starým stromom hrával, ešte   ťažšie mu prichodilo. Aj tohto večera tak. Nadúval temlov, prstami   preberal po dierkach, ale mysľou, oj, tou bol ďaleko. V ušiach mu   neznel zvučný hovor huku, ale akýsi neznámy šumot. Keď sa pozastavil   nad tým, zbadal, že to nie huk, ale rieka hučí. A nad riekou mesto a   nad mestom zámok, akého v živote nevidel. Nebol nikdy ďalej ako v   hore, ale sa mu tak v mysli marilo, že je to Zvolenský zámok. A naraz   jeho ústa prestali dúchať do chlipáka, prsty prestali preberať a   gajdy zatíchli. Gajdoš sedel bez slova, zahútaný. Takto sedával dlho   do noci. A keď sa preberal, neraz mu tak ťažko prišlo, že sa mu slzy   rozliali po lícach. Valent ich len rukou strel a rozžialený,   nepotešený sa vracal do koliby k dedovi.
+     </tei:p>
+     <tei:p>
+      Toho večera, keď ho už len dva dni delili od chvíle, keď sa mienil   vydať na cestu, stala sa divná vec. Hral, hral, kým sa mu myseľ   nezastrela a pred očami sa nezjavil zámok a voda. Potom mu chlipák   vypadol z perí a muzika sa zadusila kdesi v temlove. Sedel Valent   potom viacej zadumaný ako inokedy. Ako tak sedí uhriešený a utrápený,   odrazu len zbadá, že sa z hory niečo k nemu trávou blíži. Neveľmi si   toho všímal. Len keď zbadal malú postavičku lesnej žienky, zbystril   pohľad. Keď priskackala k nemu tak, že sa ani zeme nedotýkala, poznal   v nej Kráľku. Mala ľahké belavé šaty, čo sa v noci tratili v tme, a   na hlave jej svietila korunka. Čakal Valent a nehovoril, lebo videl,   že sa Kráľka k nemu uberá.
+     </tei:p>
+     <tei:p>
+      — Valent, Valent! — zavolala, keď došla a zastala obďaleč.
+     </tei:p>
+     <tei:p>
+      — Ty si to, Kráľka? — opýtal sa Valent len tak zo zvyku.
+     </tei:p>
+     <tei:p>
+      — Ja, Valent, a prišla som k tebe...
+     </tei:p>
+     <tei:p>
+      — Hej, Kráľka, rozlúčiť sa, však...
+     </tei:p>
+     <tei:p>
+      Kráľka nepovedala slovka, len sklonila hlávku.
+     </tei:p>
+     <tei:p>
+      — Nebudem vám ja už tejto jari vyhrávať, Kráľka. Nebudem veru,   lebo Ďura neďaleko a pán kráľ možno sa už poberá do Zvolena.
+     </tei:p>
+     <tei:p>
+      — Smutno nám bude, Valent, ale čože si počneš? Vieme, že ti to   všetko naša gajdica narobila. Ej, čože sme my vedeli, keď sme ti ju   darovali? Mysleli sme — všetci ľudia sú takí ako my. A ono žijú aj   takí ako žakýlsky pán a jeho kamaráti. Ale nermúť sa, dám ti novú   gajdicu, lepšia ona bude od prvej, a keď ti zle bude, len si smelo   zagajduj!
+     </tei:p>
+     <tei:p>
+      Valent popamäti vykrútil starú gajdicu, podal ju Kráľke a zakrútil   si miesto nej novú.
+     </tei:p>
+     <tei:p>
+      — Tak, Valent, ostaň zbohom... A keď sa raz vrátiš, nezabúdaj na   nás. I keď sme tvojmu oku skryté, jednako ťa vidíme a počúvame.   Zahraj tu večerom pod stromom...
+     </tei:p>
+     <tei:p>
+      A odhopkala spod stromu do lesa.
+     </tei:p>
+     <tei:p>
+      Valent už toho večera nehral. Ešte vždy dúfal, že nebude musieť   odísť. Teraz už nemal nádeje. Kráľka ho nepotešila. Zavzdychol si   teda a odišiel spod stromu do koliby.
+     </tei:p>
+     <tei:p>
+      Druhého dňa sa chystal na cestu. Nechcel sa dať prekvapiť.   Prichystal tanistru, hodnú čugaňu do ruky, lebo vedel — vo svete   všelijakí ľudia. Pozrel gajdy, vymastil bačkorky a pripravil sa.   Dohodli sa, že ho dedo odprevadí na kus a potom už sám pobeží dolu k   Hronu. Pohne sa večer, lebo čože je jemu noc? Od malého mala žil v   hore a noc, deň mu boli jedno. Aspoň prejde okolo Šášova nocou.   Radšej si cez deň oddýchne.
+     </tei:p>
+     <tei:p>
+      Deň sa minul bez nehody. Iba Vavrinec prišiel pýtať tri jahnence.   Vraj pre šášovského pána. Lebo pán zo Šášova je Juro a Tobiáš nebodaj   zajtra pobeží k nemu.
+     </tei:p>
+     <tei:p>
+      Keď to Valent počul, svitlo v ňom trochu nádeje. Ak sa pán Tobiáš   chystá na Šášov, akiste na nich zabudol. No keď sa vráti, môže si   odrazu zmyslieť. Neodložil teda odchod, hoci sa mu takéto myšlienky   začínali vkrádať do pamäti. Keď nadišiel večer, pobral sa. Ded šiel s   ním po močiarske kopanice. Tam sa rozlúčili.
+     </tei:p>
+     <tei:p>
+      — Vrátim sa, Valent, — hovoril ded, — a ty si zapamätaj, čo som ti   hovorieval. Nespúšťaj sa a drž sa rovných ciest. Ja už len na teba   budem myslieť a ty nezabúdaj, že máš deda. Nerád by som umrel, kým ťa   ešte neuvidím.
+     </tei:p>
+     <tei:p>
+      — Ej, dedo, — hovorí Valent, — odoberáte sa, akoby som odchodil   naveky. Možno je už pán kráľ vo Zvolene. Ak nebude, poberiem sa na   niektorý salaš a prechovám sa, pokým príde. Za moju robotu mi hocikto   dá jesť a iné nežiadam. Dávno ja budem na Michala doma. Pole bude   pána Tobiášovo a nebudeme musieť na hrad. Len sa vy nebojte, a ak by   ste mali potrebu, nezabúdajte odkázať do dediny, nedajú vám   zahynúť... Aj ja som prosil, aby pozreli.
+     </tei:p>
+     <tei:p>
+      Rozlúčil sa. Ded stál a hľadel za Valentom. Valent smelo vykročil,   ani sa neobzrúc, aby si ded nemyslel, že sa bojí...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      4
+     </tei:head>
+     <tei:p>
+      Nebál sa Valent noci, ale ako sa vzďaľoval od deda, tým viac mu   srdce stískalo. Len keď prešiel do ladomerských hôr, uľahčilo sa mu.   Kráčal potichu horou, lebo mal krpce mäkké ako perina a oči mu boli   privykli na temnotu. Nohy sa nepotkli ani o jeden kameň. Kráčal horou   ako tôňa. Už cíti, ako sa cesta zvažuje a zostupuje. To už kráča   nadol ku Hronu. Teraz by sa mal napravo od neho zjaviť Šášovský   zámok. Ale je tma, sotva ho uvidí. Jednako, čo i mesiac už zvečera   zašiel a hviezdy trúsili len sporé, studené svetlo, zbadal ho. Múry   presvitali belavo a veže trčali do neba ako rázsochy. Trochu mu srdce   zabúchalo, keď prichodil k nemu. Nebol on ešte v zámku, ale dobre   vedel, že šášovský pán nie je odchodnejší od žakýlskeho. Veru, i čo   ho vtedy na Žakýlskom zámku nebil, len sa chechtal, keď ho pán Tobiáš   obšíval.
+     </tei:p>
+     <tei:p>
+      Došiel na miesto, kde sa cesta dvojila. Jedna stúpala hore ku   hradu, druhá sa znižovala dolu k Hronu. Čosi mu šepkalo, aby pobehol,   lebo nehodno sa okolo takýchto skalných hniezd motať. Strážnik iste   stojí na veži a môže ho zbadať na ceste. Stačí zavolať a Valent by sa   mohol ľahko ocitnúť v pasci. Nadhodil halienku na pleci, tuhšie   stisol gajdy a pobehol. Šťastlivo sa dostal k Ladomeru. Obišiel mýto   a dal sa hradskou proti toku Hrona. Odľahlo mu. Ani si nemyslel, že   to tak ľahko prejde.
+     </tei:p>
+     <tei:p>
+      Chystal sa preskočiť priekopu. Zdalo sa mu, akoby mu bol remenec   na krpci povolil. Na druhej strane si oddýchne, i remenec napraví.   Ale ešte sa po skoku ani zeme nedotkol, keď odrazu ktosi zahučí:
+     </tei:p>
+     <tei:p>
+      — Stoj!!!
+     </tei:p>
+     <tei:p>
+      Valent prisadol k zemi ako divá mačka, ktorá skočila mimo a padla   pod nohy poľovníka. Nepohol sa, ani slovka nepreriekol. Akoby bol   zrástol so zemou.
+     </tei:p>
+     <tei:p>
+      Pričupil sa ku kružine a čugaňu mocne stisol v hrsti.
+     </tei:p>
+     <tei:p>
+      Z druhej strany kružiny začul niekoho prichodiť. Nebodaj ho   hľadajú. Haluze šuchotali a zreteľne počul, ako sa niekto prediera   krovím.
+     </tei:p>
+     <tei:p>
+      — Hrom do teba, — zašomral hrubý hlas, — kde si zmizol?
+     </tei:p>
+     <tei:p>
+      — Sem kdesi skočil, — prisviedčal druhý hlas. — Ej, ale ti   vyčítam, ak ťa nájdem, — sľuboval.
+     </tei:p>
+     <tei:p>
+      Nuž takto milý Valent nemohol nič robiť, iba učupený sedieť a   nehýbať sa, lebo i najmenší pohyb by ho prezradil. Zhrbil sa ešte   viac a čakal, čo bude.
+     </tei:p>
+     <tei:p>
+      Tí dvaja sa priblížili. Nevedeli rozpoznať sivú halenu od krovia.   Iba keď jeden z chlapov pristúpil Valentovi nohu, že Valent až zubami   zaškripotal, zbadali ho.
+     </tei:p>
+     <tei:p>
+      — Tu je vtáčik, — zavolal ten, čo ho našiel, a už ho aj drapcoval   zo zeme.
+     </tei:p>
+     <tei:p>
+      — Ukáž sa, čo si zač?
+     </tei:p>
+     <tei:p>
+      Keď sa Valent postavil a tí dvaja zakresali a svetlo sa rozlialo,   zhíkli:
+     </tei:p>
+     <tei:p>
+      — I hrome, gajdoš! Kdeže sa ty tu berieš? — smiali sa.
+     </tei:p>
+     <tei:p>
+      Nevedel Valent, čo povedať. A keďže sa bál pravdu vyriecť, radšej   mlčal a naplašený hľadel na pandúrov. Lebo to naozaj s pandúrmi sa   stretol. A to s pandúrmi šášovského pána. Často sa tí po hradskej   potulovali, najmä keď mal cestou prejsť sprievod kupcov, alebo   strieborná fúra zo Štiavnice, alebo vozy vezúce do Beňadika desiatok   alebo zbožie... Možno aj teraz striehli na niečo takého, a keď nič   nevystriehli, vracali sa domov a takto sa stretli s Valentom.
+     </tei:p>
+     <tei:p>
+      A že Valent tak náhle odskočil z cesty, pozdávalo sa im   podozrivé.
+     </tei:p>
+     <tei:p>
+      — No, čože, vari si onemel? — prihováral sa mu prvý.
+     </tei:p>
+     <tei:p>
+      — Hovor, človeče, skadiaľ a kam takto nocou!
+     </tei:p>
+     <tei:p>
+      Ale Valent mlčal.
+     </tei:p>
+     <tei:p>
+      — Posvieť ešte, uvidíme, či je to naozaj gajdoš. Možno niekto, čo   nemá čisté svedomie.
+     </tei:p>
+     <tei:p>
+      Vtom sa už aj rozleteli iskry. Ale ešte sa svetlo ani dobre   nerozhorelo, keď zavolal jeden z pandúrov:
+     </tei:p>
+     <tei:p>
+      — Iha, veď je to pána Zakýlskeho gajdoš. Videl som ho hore na   zámku, keď sa raz chceli páni zabávať.
+     </tei:p>
+     <tei:p>
+      — Ty si nebodaj ušiel! — vyjasnieval tvár druhý.
+     </tei:p>
+     <tei:p>
+      — A vieš, čo znamená ujsť od pána?
+     </tei:p>
+     <tei:p>
+      — Neviem, — zašomral Valent, ani nevediac, ako mu to slovko   vyletelo z úst.
+     </tei:p>
+     <tei:p>
+      — Nuž ak nevieš, dozvieš sa. A teraz sa ber s nami na zámok, tam   ti už povieme, čo a ako. Možno príde dnes aj pán Tobiáš a urobí s   tebou poriadok.
+     </tei:p>
+     <tei:p>
+      Tak sa skončila krátka Valentova cesta za pánom kráľom. Namiesto   proti vode musel kráčať po vode a miesto ku Zvolenu blížil sa k   Šášovu. Prešli dedinou, prešli mostom cez Hron a dali sa strmou   cestou na hrad. Rozmýšľal Valent, čo by mal urobiť. Nemohol nič. S   dvoma ozbrojenými chlapmi si neporadí. Nuž poslušne a pokorne kráčal   hore na hrad.
+     </tei:p>
+     <tei:p>
+      Nezobudili nikoho. Zatvorili ho do izbietky kdesi pod vežou. V   izbietke nebolo ani nábytku, len hrubo tesaný stolík, lavička a   drevené lôžko očakávali nešťastného gajdoška.
+     </tei:p>
+     <tei:p>
+      — Tu sa zlož, a ak ti smutno bude, máš gajdy, zagajduj si. Keď sa   pánu urodzenému uráči vstať, upovedomíme ho, akého hosťa má na zámku.   Potom sa dozvieš aj viacej.
+     </tei:p>
+     <tei:p>
+      Dvere sa zatvorili. Valent zreteľne začul, ako zaškripel veľký   kľúč v zámke. Ostal sám. Ale napodiv, necítil obavy. Veď mal čisté   svedomie. Neurobil nič zlého. Že odišiel? Ded ostal a ovce upasie.   Úprimne povie a po pravde, prečo sa pobral do Zvolena. Hej, aby pán   kráľ vrátil pole pánu Žakýlskemu, on že radšej bude pásť ovce pána   Tobiáša, ako pásaval. A ak pán kráľ príde, rád mu zahrá, ak ho bude   muzika zabávať. Zahrá, a zadarmo. Nie, neurobil nič zlého.
+     </tei:p>
+     <tei:p>
+      Takto rozmýšľal, sediac na drevenej priči, a čakal, kedy zasvitne   biely pás svetla na oblohe.
+     </tei:p>
+     <tei:p>
+      Ale dlho musel takto sedieť náš Valent a možno aj zdriemol, kým sa   rozbrieždilo. A aj keď svetlo sporo vnikalo malým okienkom kdesi nad   Valentovou hlavou, neprišiel nik po neho, hoci zreteľne počul, že na   dvore je čulý ruch a zhon...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      5
+     </tei:head>
+     <tei:p>
+      A veru zabudol pán Tobiáš na baču i na jeho vnuka. Aspoň v tomto   čase, keď pán Juro zo Šášova oslavuje meniny a príchod šiestej   desiatky veku na plecia. Ani nemohlo ináč byť, lebo sa na Šášovskom   zámku zišla vyberaná spoločnosť. Boli tu páni Dóczovci z Revišťa,   rodina Jura zo Šášova, aj páni z blízkej Breznice, aj pán Baláž zo   Sitna bol prítomný, ani panstvo z Teplického hrádku nechýbalo.
+     </tei:p>
+     <tei:p>
+      Na dvore bolo ako o súdnom dni. Panstvo prichodilo a vítačkám   nebolo konca-kraja.
+     </tei:p>
+     <tei:p>
+      Večer sa potom rozprúdila na zámku veselosť, akej tu už dávno   nebolo. A ktože by si v takomto čase kazil náladu s Valentom! Bude na   to času neskoršie. Teraz sa panstvo zabávalo. Svätokrížski pištci   vyhrávali, a keď bola muzika, ani spevu a tanca nechýbalo.
+     </tei:p>
+     <tei:p>
+      Dolu v prízemí hradu neinak. V jednej sále čeľaď, v druhej   pandúri, správcovia a drábi hradného pána sa zabávali. Kriku a   výskotu nebolo o nič menej tudolu ako tamhore. Keď sa už noc tak   naširoko rozprestrela, že sa začínala trhať napoly, zišiel ktorémusi   pandúrovi na um Valent.
+     </tei:p>
+     <tei:p>
+      — Sto striel, kamaráti, — zavolal, — či sa my musíme zabávať bez   muziky, keď máme privrznutého gajdoška?!
+     </tei:p>
+     <tei:p>
+      — Tak je, tak je! — vrešťali pandúri.
+     </tei:p>
+     <tei:p>
+      — Možno nám veselšie bude hrať ako pánu Žakýlskemu, — vrešťal ten,   čo bol videl Valenta na Žakýlskom zámku.
+     </tei:p>
+     <tei:p>
+      — Ak nebude, vyplatíme ho štedrejšie než pán Tobiáš!
+     </tei:p>
+     <tei:p>
+      A tak sa stalo všetko ako vtedy na Žakýlskom zámku.
+     </tei:p>
+     <tei:p>
+      Valent sedel uhriešený a počúval krik a hurhaj. Vedel, ako sa tam   veselo zabávajú a na neho už dávno zabudli. Hej, lebo sa nik od rána   o neho ani neobzrel. Nemal Valent celý deň nič v ústach. Zakrútil mu   síce ded kus suchej baraniny a chleba na cestu, ale Valentovi   nechutilo jesť. Nedotkol sa ani chleba, ani mäsa. Len sedel a hútal,   prečo ho na každom kroku nešťastie stretá a prenasleduje. Keď sa   začalo schyľovať k večeru a v izbici sa začínalo stmievať, položil   gajdy vedľa seba a zakrútiac sa do halienky, vyvalil sa na tvrdé   lôžko. A aj by bol usnul, nebyť toho kriku a hurhaja na dvore a v   zámku. Driemoty zašli a potom zas prišli myšlienky na salaš, na deda,   na ovce a spánok odbehol ďaleko, ďaleko od Valenta.
+     </tei:p>
+     <tei:p>
+      A tak ho našli drábi: ležal, ale nespal.
+     </tei:p>
+     <tei:p>
+      — Hej, kamarát, muzikant, gajdoško s gajdami, hore sa!   Vstávaj!
+     </tei:p>
+     <tei:p>
+      Valent vyskočil na rovné nohy, ale nemal veľkej chuti poberať   sa.
+     </tei:p>
+     <tei:p>
+      — Čo stojíš ako drevený? Ber gajdy a poď!
+     </tei:p>
+     <tei:p>
+      — Aspoň sa naješ a napiješ, lebo si sa iste poriadne vypostil, —   vravel ten, čo prišiel prvý.
+     </tei:p>
+     <tei:p>
+      Pochopil Valent, čo sa robí. Pred očami sa mu mihol obraz, ktorý   prežil nedávno na Žakýlskom zámku. Ale protiviť sa nemohol. Vzal   pokorne gajdy a pobral sa. Vo dverách zastal. Akoby rozmýšľal, či   ísť, či nejsť. No pandúr nedal rozmýšľať. Posotil ho a zavrešťal:
+     </tei:p>
+     <tei:p>
+      — Ak sa ti nechce, zahráme ti skôr ako urodzený pán!
+     </tei:p>
+     <tei:p>
+      Nuž sa Valent pohral. Skrúšený vkročil do miestnosti, kde bola   zábava. Privítali ho s veľkým vreskom. Posadili ho na vyvýšené miesto   k bachratej peci a čakali, kým si pripraví nástroj. Valent nemal   iného východiska, i čo mu srdce stískalo, len hrať. Pomaly, trasúcimi   sa rukami pchal temlov pod pazuchu a pripravoval chlipák, prehodil   huky cez plece a prebehol prstami po dierkach gajdice. Hej, a v duchu   si prial, aby tentoraz lepšie pochodil ako predošle na Žakýlskom   zámku. Lebo tak bolo. Z klbka pandúrov sa vyterigal dobre podnapitý   ten, čo ho priviedol do hradu a čo ho aj na Žakýlskom zámku videl; v   ruke niesol hrubú trstenicu. Po biede sa doterigal k Valentovi a   hovorí:
+     </tei:p>
+     <tei:p>
+      — Pozri, kamarát, ak ty nebudeš, budem ja... Ty na gajdách a ja   touto palicou. Lebo ja ťa dobre poznám, vtáčik. Takto sedliackej   chase zahráš, a pánom nechceš. Teda pozor si daj!
+     </tei:p>
+     <tei:p>
+      A šermoval mu palicou pred nosom.
+     </tei:p>
+     <tei:p>
+      Valentovi už bolo všetko jedno. Vedel, zle sa mu povodilo, a   horšie sa mu povodí. Jednako mu odrazu blysla hlavou myšlienka na   Kráľku. Trochu sa potešil a začal dúfať, že mu pomôže. Čelo sa mu   vyjasnilo, smelšie pozrel na čakajúcich pandúrov. Oblizol si pery i   chlipák a začal fúkať.
+     </tei:p>
+     <tei:p>
+      Divné. Tentoraz sa gajdy rozhovorili. Huky zašomrali plným,   zvonivým hlasom ako organ, piskory zakvílili a potom sa rozspievali.   Valent akoby bol pri tomto zvuku zabudol, že je na Šášovskom zámku.   Tak sa mu pozdávalo: sedí na salaši pod stromom a pred ním lesné   žienky tancujú. Nuž si hral gajdoš Valent a čerta sa staral, čo robia   pandúri.
+     </tei:p>
+     <tei:p>
+      Jednako mal sa aj na nich obzrieť, bol by videl čudný obraz. Dobre   hovorila Kráľka, že mu táto gajdica lepšie poslúži ako prvá. Pandúri   sa zabávali, až milá vec. Ale ktorý sedel, stál alebo spieval, ktorý   tancoval, hajduchoval, alebo pil, nik sa zo svojho miesta nepohol. A   tak sa pozdávalo, že smelí pandúri šášovského pána, čo bili na poli   poddaných, čo sa nebáli ani banskomestských vojakov, keď sprevádzali   zlaté a strieborné fúry, čo chytali opátskych ľudí, museli teraz   počúvať tajomný hlas gájd. Jedni sedeli, a nemohli sa pohnúť z   miesta, hoci sa pokúšali vstať, akoby boli s lavicami zrastení, alebo   mali na nohách centové ťarchy. Iní sa smiali s rozškľabenými ústami a   nemohli iné robiť, len sa rehotať, hoci rozhadzovali rukami, chytali   si ústa, ohmatávali líca, lebo smiech nemohli zastaviť. Tí, čo sa   chytili hajduchovať, vyskakovali, rozhadzovali rukami, nohami, pot sa   z nich lial, ale nemohli prestať. Každý bol ako gumovým povrazom   priviazaný k zemi. Pohybovať sa mohol, ale z miesta pohnúť nie. A   možno, keby si bol Valent všimol tohto obrazu, bol by v hre prestal.   Ale Valent sa neobzeral a len hral, hral. Videl ešte stále pred sebou   salaš a mesačnú noc. Lesné žienky vyšli na lúčinu a tancovali. Kdesi   vzadu kŕdlik líščeniec poskakoval a vedľa nich zaberali srnky do   hory...
+     </tei:p>
+     <tei:p>
+      Vresk a hrmot ho prebudil zo snenia.
+     </tei:p>
+     <tei:p>
+      To sa najtučnejší pandúr, čo sa prvý začal natriasať, prevalil.   Trepol na zem, len tak zadunelo. Ej, ale ani tak nemal pokoja. Aj   ležiačky rozhadzoval rukami, nohami, akoby ho boli kŕče naťahovali.   Tí, čo sa za stolom rozvaľovali a smiali, tiež sa jeden po druhom   skydávali na zem. Jednako sa smiať neprestávali. A ak niekto vošiel,   schvátila ho veselosť, natriasal sa, spieval, smial sa ako   ostatní.
+     </tei:p>
+     <tei:p>
+      Valent stále hral, lebo ešte nevedel, že to jeho gajdy robia.   Myslel, že to drábi z prostopaše vyčíňajú. A keď si takto namýšľal,   tuhšie fúkal do temlova, rezkejšie preberal na gajdici, aby ten s   palicou nemal možnosť a príčinu zamiešať sa do jeho muziky. Ale ak   tuhšie hral, tí museli tuhšie revať, tuhšie sa smiať i natriasať sa.   Hej, beda, prebeda! Nevidelo sa to už Valentovi. No nevypustil   chlipák z úst, lež ustavične preberal a obzeral sa dookola. Dráb s   palicou sa rozháňal, a kto sa nadaril bližšie, dostal takú, len sa   tak skúrilo. Pot z neho stekal, oči vyvaľoval na Valenta, ale   rozháňať sa neprestal, hoci z palice už triesky fŕkali. Iba teraz si   začínal Valent uvedomovať, čo sa to robí. Kráľkina gajdica! A ak je   tak, bude len hrať, aby sa páni drábi do chuti vytancovali.
+     </tei:p>
+     <tei:p>
+      Aj hral. Hral a neustával, kým mu prsty nezačali drevenieť. Keď   prestal, okolo ležalo všetko ako pobité. Niektorí sa únavou dusili,   iní ležali s vyvalenými očami a dívali sa na Valenta ako vyjavení,   tretí sa mykali na zemi, akoby z nich život unikal. Ej, divnú to   gajdicu má, divnú. Ale čo teraz?
+     </tei:p>
+     <tei:p>
+      Tak veru, čo teraz?
+     </tei:p>
+     <tei:p>
+      No Valent rýchlo našiel odpoveď.
+     </tei:p>
+     <tei:p>
+      — Preč!
+     </tei:p>
+     <tei:p>
+      Kým títo spia a oddychujú, — iste budú dlho oddychovať — musí   zmiznúť. Ujsť a utekať cestou, z ktorej ho vrátili. Teraz pôjde   smelšie, lebo vie, čo väzí v gajdici. A ani už nerozmýšľal, len   vybehol na dvor. Keď bol na dvore, ľahko našiel vrátka, ktorými sa   vychodilo, keď bola hlavná brána nad padacím mostom zatvorená. Keď   uvidel nad sebou hviezdami posiate nebo a okolo horu, radostne si   vydýchol a dal sa dolu cestou ku Hronu.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      6
+     </tei:head>
+     <tei:p>
+      Nechal Valent Šášov Šášovom, nepustil sa Hrona. A že sa ho   nepustil, dostal sa šťastlivo ku Zvolenu. Ale keď došiel celkom   blízko k mestu, zbadal, že sa Hron ovíja okolo neho ako had. Z druhej   strany zas Slatina zastavuje cestu k nemu. A že to bolo v jari, nuž   veru hodné vody sa valili i jednou i druhou stranou. Prebrodiť sa   nedalo a plávať v šatách a s gajdami? Valent sa škrabal v štici a   obchodil mesto ako mačka horúcu kašu. Nakoniec nemohol ináč, len sa   pobrať pekne k mostu.
+     </tei:p>
+     <tei:p>
+      Hej, ale na moste zábradlie a krížom cez cestu mocné drevené   závory. Pri závorách domec a Valent si už domyslel, že v domci   striehne zvolenský mýtnik. Valent nemal pri sebe ani groša okrem   toho, čo mu dal kráľ.
+     </tei:p>
+     <tei:p>
+      „Eh,“ rozhodol sa odrazu „čože, možno je mýtnik dobrý človek,   nezje ma. Poviem dobré slovo a pustí ma.“
+     </tei:p>
+     <tei:p>
+      Aj sa zobral. Ale mýtnik, aký bol, divný človek bol. Chlapisko   tučné a s fúziskami, v dlhom kabáte so zubatým golierom, v čižmách a   v končitom klobúčiku. Zastavil ho a zavolal:
+     </tei:p>
+     <tei:p>
+      — Denár!
+     </tei:p>
+     <tei:p>
+      A keď Valent len stál, lebo nevedel sa k slovu dostať, vtiahol sa   mýtnik do domu a nechal ho stáť pred závorou.
+     </tei:p>
+     <tei:p>
+      „Denár, denár,“ hútal Valent. Počul už toto slovo a myslel, že to   peniaz má byť, ale ho ešte v živote nevidel. Iba ten, čo má zašitý v   kožúšku, čo dostal od kráľa. Hej, ale ten nemožno dať. Čo robiť?   Ohrada je nie taká vysoká a ľahko by ju preliezol. Ale ak by ho   mýtnik zbadal, naisto by sa mu nedobre povodilo.
+     </tei:p>
+     <tei:p>
+      Skúsi zaprosiť a povedať, o čo ide.
+     </tei:p>
+     <tei:p>
+      — Hej! — zavolal na mýtnika, — pán mýtnik! Pusťte ma, chudobný   človek som!
+     </tei:p>
+     <tei:p>
+      Mýtnik vystrčil fúzatú hlavu a zavolal:
+     </tei:p>
+     <tei:p>
+      — Denár!
+     </tei:p>
+     <tei:p>
+      — K pánu kráľovi idem!
+     </tei:p>
+     <tei:p>
+      — Pána kráľa niet v meste.
+     </tei:p>
+     <tei:p>
+      Toto bola iná reč. Pre Valenta prestalo mesto jestvovať. Čože by   tu robil, keď pána kráľa niet? Nepôjde do mesta. Počká. O nejaký čas   pán kráľ isto príde a potom ho vyhľadá. Možno mýtnik aj bude vedieť,   opýta sa ho.
+     </tei:p>
+     <tei:p>
+      — Hej, pán mýtnik! — zavolal znova.
+     </tei:p>
+     <tei:p>
+      Keď trpezlivý mýtnik vystrčil hlavu z domca a zas zavolal svoje   „denár“, zaprosil:
+     </tei:p>
+     <tei:p>
+      — Prosím vás, pán mýtnik, kedy dôjde pán kráľ do mesta?
+     </tei:p>
+     <tei:p>
+      — Čo ťa do toho?
+     </tei:p>
+     <tei:p>
+      — Musím k nemu. Tu v kožúšku mám zašitý peniaz, čo mi bol dal...   Aj salaš mi podaroval, ale chcem mu povedať, aby ho len nechal pánu   Tobiášovi...
+     </tei:p>
+     <tei:p>
+      Teraz už mýtnik nevtiahol hlavu do domca, ale skúmavo pozrel na   mládenca. Nevyzerá na lapaja. Statočnosť mu hľadí z očú. Pokýval   hlavou a prívetivejšie zahovoril:
+     </tei:p>
+     <tei:p>
+      — Niet ho ešte. Možno o nejaký čas príde, lebo sa posli častejšie   v meste obracajú ako inokedy. Je to obyčajne predzvesť toho, že pán   kráľ príde.
+     </tei:p>
+     <tei:p>
+      — Nuž počkám a prídem neskoršie, — povedal Valent. — A vám, pán   mýtnik, ďakujem.
+     </tei:p>
+     <tei:p>
+      Obrátil sa a dal sa kráčať naspäť. Mýtnik hľadel za ním a krútil   hlavou.
+     </tei:p>
+     <tei:p>
+      Keď došiel Valent zas na cestu, uderila mu do mysle otázka: Čo   teraz? Veru, čo teraz? Domov? Možno ho už pán Tobiáš hľadá, aby ho   vyplatil ako v jeseni. Aj tak sa mohlo stať, že už vie, že ušiel, a   potom je ešte horšie. Okolo Šášova sa potulovať? Ej, to by si dal!   Nezabudnú pandúri, ako ich pozabával. Chytro sa obrátil chrbtom tým   stranám, kde bol šášovský a pána Tobiáša hrádok, a dal sa stúpať na   druhú stranu mesta proti toku Slatiny. Mesto nechával bokom a   nezadlho mu zmizlo z očú. Valent sa držal riečky, prechodil   dedinkami, i do Slatiny došiel. A tam sa dozvedel, že z druhej strany   Zvolena, k Bystrici, sú Rybáre, Hájniky, Kováčová. Tam bývajú kráľovi   ľudia a tí istotne najlepšie budú vedieť, kedy dôjde pán kráľ. Tak   veru, lebo tí pána kráľove lesy strážia, kone kujú, vozy opravujú,   ryby chytajú a až hen do Budína posielajú, veď v Dunaji takých rýb   nenájdeš ako tu, v čistej vode Hrona. Nuž si Valent pomyslel:
+     </tei:p>
+     <tei:p>
+      „Ak chcem kráľa uvidieť, nemôžem tu ostať, ale musím v tie strany   prejsť. Ta musím, kde jeho ľudia bývajú, lebo ku svojim skôr príde   ako k cudzím.“
+     </tei:p>
+     <tei:p>
+      Aj tak urobil. Dal sa putovať naspäť na Zvolen. Tu i tam dlhšie   pobudol, poslúžil, mládeži na muzike zahral, zarobil groš-dva, aj sa   preživil. A tak sa zbavil starosti, že ho pán mýtnik zvolenský do   mesta nepustí, keď nebude mať denár na mýto. Ako ho zarobil, hneď ho   odložil k tomu, čo mu daroval pán kráľ, a zaumienil si, že ho   nevypustí z rúk, len keď dôjde ku zvolenskému mýtu.
+     </tei:p>
+     <tei:p>
+      Tak sa dostal šťastlivo do Kováčovej. Zastavil sa v prvej vyhni,   ku ktorej došiel, lebo v tejto dedine bývalo veľa kováčov, čo   podkúvali kráľovské kone. A že bol Valent chlapík súci a veľké   kladivo, ktorým kováč udieral na podkovy kráľových vraníkov, mu bolo   ako pierko, usmial sa starý Damián-kováč, ku ktorému bol prišiel, a   prijal ho do služby, i keď len na taký čas, kým príde pán kráľ. Nuž   odložil Valent gajdy a každé ráno nasadil na hlavu čiernu koženú   čiapku, opásal si zásteru, bral do rúk veľké kladivo a udieral do   žeravého železa, len tak iskry fŕkali. Aj starému Damiánovi,   kováčovi, bolo veselšie, lebo deti i žena mu pomreli a len stará   gazdiná mu opatrovala dve kravy, varila, i obšila kováča i Valenta.   Aj Valentovi dobre sa povodilo, lebo kováč ho aj poriadne nachoval,   aj dobré slovo povedal, aj zaplatil, ako bol sľúbil. Ale aj udieral   Valent, ako dosiaľ ani jeden tovariš kováča Damiána. Večerom alebo v   nedeľu, keď starý Damián sedával v záhrade pod starou hruškou a   myslel na ženu a deti, ktoré pomreli, keď zúrila tá strašná nemoc, čo   aj Valentovu mať i otca skosila, bral Valent gajdy a nafukoval   temlov. A hral. Hral kováčovi Damiánovi a osládzal jeho žiale. Huky   len pridusene liali tichú nôtu, piskor nezaškrečal, píšťala hybko   snula melódiu, ktorá aj Valenta, aj Damiána, aj starú gazdinú   potešila. Tak všetkým trom odľahlo na duši.
+     </tei:p>
+     <tei:p>
+      Nevedel sa kováč Damián nahľadieť na Valenta, ktorý cez deň   trieskal ťažkým kladivom do železa a večer mal jednako také ľahké   prsty, že ako iskry lietali po dierkach gajdice. Neraz začal   zahovárať:
+     </tei:p>
+     <tei:p>
+      — Valent, Valent, dobrý kováč by bol z teba.
+     </tei:p>
+     <tei:p>
+      — Ak by som sa naučil, možno...
+     </tei:p>
+     <tei:p>
+      — Isto. Uhádneš už podkovu ohnúť, aj meč obstojne vykuješ, aj na   oštep urobíš tvrdý hrot... Ak by ti vôľa bola...
+     </tei:p>
+     <tei:p>
+      Zatíchol... Ani Valent nehovoril.
+     </tei:p>
+     <tei:p>
+      — Kohože mám, Valent? Žena i deti hnijú a stará gazdiná je nadnes,   nazajtra... A z teba by dobrý kováč bol... Tešil by sa pán   kráľ...
+     </tei:p>
+     <tei:p>
+      Ale Valent len hlavou pokrútil. I čo mu ľúto prišlo, úprimne sa   vyznal majstrovi:
+     </tei:p>
+     <tei:p>
+      — Dobrý ste vy človek, majster Damián, jednako ja už len v naše   strany pôjdem. Aj ded čaká a možno sa už obáva o mňa. Len aby pán   kráľ došiel, poprosím ho a vrátim sa. Veď vy ešte dostanete tovariša,   a hádam aj súcejšieho odo mňa.
+     </tei:p>
+     <tei:p>
+      — Možno... — povedal Damián potichu a sklamaný. — Lež ty si aj   zahrať vedel a pri tvojej muzike mi tak bolo, akoby moji boli ožili a   tu okolo mňa sedeli a stáli. Akoby mi starosti spadli z pliec,   veselšie mi je okolo starého srdca... Nemal by si odchodiť, Valent,   nemal...
+     </tei:p>
+     <tei:p>
+      Keď Valent nehovoril, dodal po chvíli:
+     </tei:p>
+     <tei:p>
+      — Pravdaže, máš deda... Ale aj ten by mohol k tebe...
+     </tei:p>
+     <tei:p>
+      Tak prešiel pri zhovore nejeden večer. No Valent neprestával   myslieť na kráľa. Natŕčal uši a striehol na zvesti zo Zvolena. A keď   tak túžobne čakal, aj sa dočkal.
+     </tei:p>
+     <tei:p>
+      Raz júnového dňa priletel posol na koni a rovno k richtárovi:
+     </tei:p>
+     <tei:p>
+      — Pán kráľ príde. Dajte znať i rybárom i hájnikom kráľovským!
+     </tei:p>
+     <tei:p>
+      Valent ožil. Prestalo ho zaujímať kováčstvo. Majster Damián dobre   videl, ako udiera pomimo, alebo krajom kladiva uderí a vybije jamu,   že musí železo znova zohrievať, aby ju zahladil. Jednako mu to   nezazlieval. Vedel kováč Damián, ako mladík túžobne očakáva kráľov   príchod.
+     </tei:p>
+     <tei:p>
+      Keď potom konečne zaviali nad Zvolenom kráľovské zástavy a   zavrešťali trúby, že ich až do dedín bolo počuť, isté bolo, že pán   kráľ prišiel. Valent sa už nevedel opanovať. Poďakoval sa kováčovi   Damiánovi i jeho gazdinej a pobral sa.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      7
+     </tei:head>
+     <tei:p>
+      Ak sa inokedy dostal hocikto do Zvolena, teraz veru nebolo tak. V   meste je vzácny hosť a aj mýtnik dostal pomoc. Dvaja mocní, ako hora   urastení pandúri stoja tam a každého, kto ide do mesta, prísne   prezrú. Ak sa pozdáva podozrivý, vovedú ho do mýta a podrobne sa   povypytujú, kto je, čo chce a kam ide. Nuž veru aj Valentovi stislo   srdce, keď sa blížil k mostu a uvidel pandúrov. Aj sa mal vôľu   vrátiť, ale mýtnik i pandúri ho už zbadali. Nuž sa poručenobohu   pobral ďalej.
+     </tei:p>
+     <tei:p>
+      Mýtnik ho poznal. Aj sa usmial. Ale pandúri chladným zrakom   hľadeli na neho. No mladík s gajdami, čo mal dukát od samého kráľa, a   ako im už mýtnik povedal, pre spravodlivosť ide, nepozdával sa   nebezpečným a pustili ho, keď zaplatil mýto.
+     </tei:p>
+     <tei:p>
+      Tmolil sa Valent po meste sem-ta, ale nevedel, kadiaľ by sa dostal   do zámku. Aj došiel ku hradu, aj bránu ako dva domy veľkú uvidel, ale   smelosť pretiekla zo srdca kamsi do nôh. Strácal chuť pristúpiť   bližšie. Jednako sa musel odhodlať, keď sa chcel zhovárať s kráľom.   Nuž pobral sa už zo šiesty raz k zámku. Vzdychol si skrúšene a ani   nerozmýšľajúc, čo robí, pobral sa k bráne.
+     </tei:p>
+     <tei:p>
+      Ale čo to?
+     </tei:p>
+     <tei:p>
+      V bráne stojí skupina drabantov a medzi nimi mládenec ako on,   Valent. Čosi drží v ruke, akoby vtáka. Valent jasne vidí, aj reči   počuje, ale nerozumie. Tí v bráne sa o čosi dohadujú. Ale mládenec s   vtákom je neústupný. Smelo sa stavia a nechce sa dať. Odrazu sa len   obráti, rozhodí rukami a už aj dvaja-traja drabanti ležia na zemi.   Šuhaj vybehne z brány a poberá sa dolu briežkom. A drabanti za ním.   Ale len čo ho daktorý dohoní, už sa váľa na zemi. Valentov strach   ustúpil údivu a veselosti.
+     </tei:p>
+     <tei:p>
+      Teda takto? Ej, bude to srdnatý šuhaj, podľa ústroja od Detvy,   trocha vyšší od Valenta a možno aj starší. A vie sa obracať. Striasa   drabantov zo seba ako hrušky. Jednako, ak drabanti začnú so   zbrojou... Valaška, čo ju v ruke šuhaj nesie, ho neobráni.
+     </tei:p>
+     <tei:p>
+      Vtom prebehol mládenec okolo. Valent len stojí, hľadí a smeje sa,   keď vidí, ako zas šmaril jedného z pandúrov o zem a mizne so sokolom   — lebo to sokola niesol v ruke — za prvými domami v meste. Prebral ho   surový hlas.
+     </tei:p>
+     <tei:p>
+      — A čože ty tu?
+     </tei:p>
+     <tei:p>
+      — Nebodaj kamarát tamtoho! — zavrešťal drabant, čo sa zo zeme   zbieral a blato zo seba striasal.
+     </tei:p>
+     <tei:p>
+      — Ber ho! — vrešťal tretí.
+     </tei:p>
+     <tei:p>
+      Nestačil sa Valent spamätať a už mu hviždí korbáč za uchom.
+     </tei:p>
+     <tei:p>
+      Hybko sa uhol a odskočil.
+     </tei:p>
+     <tei:p>
+      Ale dobrá vôľa ho akosi nechcela opustiť.
+     </tei:p>
+     <tei:p>
+      — Nieže tak, páni drábi, neprišiel som ja s tým. A nemôžem za to,   že také slabé nohy máte, že mládenec len rukou rozhodí a už ležíte v   blate. Chudobný gajdoš som a pána kráľa hľadám. Ak vám vôľa, zahrám   aj vám.
+     </tei:p>
+     <tei:p>
+      A už aj duje do temlova.
+     </tei:p>
+     <tei:p>
+      Keď rozpajedený drabant dvíha znovu korbáč, zavreští piskor, huky   zahučia. Milý drabant ostane tak, ako sa rozohnal korbáčom.   Poskakuje, švihá, tu i tam zasiahne kamaráta po uchu. Ten zvrieskne a   natriasa sa, nevediac, ako to môže byť, že nechce tancovať, a musí.   Ak daktorý pribehne kamarátom na pomoc, horkýže pomôže! Vyskakovať   musí ako tí. Ej, ktovie, čo by tak pán kráľ, keby videl, ako si   počínajú jeho pandúri. Ale pán kráľ asi nebude doma a Valent hrá,   hrá, dobre pandúrov neumorí. Jednako nemohol takto donekonečna hrať.   Dobre bude stratiť sa za mládencom so sokolom. Nuž pomaly ustupuje,   nechávajúc natriasajúcich sa pandúrov. Jeden, dvaja sa vyvalia od   ustatosti, ale ani na zemi nemajú pokoja a musia sa natriasať aj tam.   Keď došiel k prvým domom, stisol gajdy pod pazuchou a poberal sa   rezko za Detvanom. Len za mestom ho dohonil.
+     </tei:p>
+     <tei:p>
+      — Hahoj, kamarát! — zavolal za ním.
+     </tei:p>
+     <tei:p>
+      Mládenec so sokolom zastal.
+     </tei:p>
+     <tei:p>
+      — Pomôžbože, brat, — prihovoril sa mu Valent.
+     </tei:p>
+     <tei:p>
+      — I tebe, kamarát, — odpovedal ten so sokolom, vidiac, že to   človek taký ako on.
+     </tei:p>
+     <tei:p>
+      — Dobre si sa pozhováral s drábmi...
+     </tei:p>
+     <tei:p>
+      — Ako sa oni prihovárali, tak som musel odpovedať.
+     </tei:p>
+     <tei:p>
+      — A ja by som bol skoro za teba dostal...
+     </tei:p>
+     <tei:p>
+      — Čože?
+     </tei:p>
+     <tei:p>
+      — Mysleli, že som s tebou prišiel... Len-len že som ušiel.
+     </tei:p>
+     <tei:p>
+      — Potvory, — zašomral ten so sokolom ešte namrzený.
+     </tei:p>
+     <tei:p>
+      — Kráľa hľadáš? — opýtal sa Valent.
+     </tei:p>
+     <tei:p>
+      — A ty? — opýtal sa Detvan miesto odpovede.
+     </tei:p>
+     <tei:p>
+      — Hľadám, ale neviem, kde ho nájdem.
+     </tei:p>
+     <tei:p>
+      — V Slatine je, — poradil Detvan.
+     </tei:p>
+     <tei:p>
+      Valent mu rozpovedal svoju biedu.
+     </tei:p>
+     <tei:p>
+      Detvan zas rozprával, čo sa jemu prihodilo. Nechtiac zabil   kráľovho sokola a teraz mu ho nesie. Dozvedel sa Valent, že to Martin   Hudcovie z Detvy.
+     </tei:p>
+     <tei:p>
+      Uľahčilo sa obom. Zhovárajúci im z cesty dobre ubúdalo.
+     </tei:p>
+     <tei:p>
+      ... Čo, je Slatina druhé Jericho?
+     </tei:p>
+     <tei:p>
+      Vreštia to trúby Jehovy? —
+     </tei:p>
+     <tei:p>
+      Ticho, šuhajci, preboha, ticho!
+     </tei:p>
+     <tei:p>
+      Zrútia sa vaše budovy! —
+     </tei:p>
+     <tei:p>
+      A zem sa trasie a hučia hory,
+     </tei:p>
+     <tei:p>
+      Zdá sa, že celé mestečko horí,
+     </tei:p>
+     <tei:p>
+      Že z mŕtvych každý hrob vstáva;
+     </tei:p>
+     <tei:p>
+      Tak jedným reve ľud ten hrtanom
+     </tei:p>
+     <tei:p>
+      Radosťou milým nad svojím pánom:
+     </tei:p>
+     <tei:p>
+      Sláva-sláva — sláva-sláva!!!...
+     </tei:p>
+     <tei:p>
+      (Andrej Sládkovič: Detvan)
+     </tei:p>
+     <tei:p>
+      Slatinské ulice sú preplnené, že sotva kroka urobíš. Hej, aké   šťastie, že je tu tento Martin. Vie sa medzi ľuďmi obracať. Valent si   ťažko za ním razí cestu. Ale akože razí? Každú chvíľu ich rozdelia.   Martin zastáva a volá:
+     </tei:p>
+     <tei:p>
+      — Valent!
+     </tei:p>
+     <tei:p>
+      A onedlho zas Valent vykrikuje:
+     </tei:p>
+     <tei:p>
+      — Martin!
+     </tei:p>
+     <tei:p>
+      V Slatine bol práve jarmok a ľudí všade ako maku. Mládenci sa   medzi nimi strácali ako rybičky v mori. Znova ich zástup   rozdelil.
+     </tei:p>
+     <tei:p>
+      Valent zavolal, ale Martin sa mu neohlásil. Ani sa už nedovolal   Martina. Stál, stál bezradný hodnú chvíľu. Napokon si pohútal:
+     </tei:p>
+     <tei:p>
+      „Nie je Slatina Babylon. Možno sa stretnem s Martinom, ale môžem   sa i sám opýtať na pána kráľa. A možno sa ľudia premelú, voľnejšie   bude na ulici.“ Vtiahol sa Valent do najbližšej krčmy, že si oddýchne   a zaje, lebo od rána je ďaleko. Sadol si k studenej peci a položiac   gajdy vedľa seba, rozbalil batôžtek a začal si ujedať, čo mu bola   gazdiná majstra Damiána pripravila na cestu. Keď sa najedol, oprel   hlavu o pec a hľadel na premávajúcich sa ľudí. Pomaly začal   driemať.
+     </tei:p>
+     <tei:p>
+      Možno aj zdriemol, keď ho odrazu vyruší krik:
+     </tei:p>
+     <tei:p>
+      — Gajdoš!
+     </tei:p>
+     <tei:p>
+      Valent rýchlo precitol. Naľakaný trochu sa poobzeral. Spamätal sa,   kde je. Ale ten, čo ho zobudil, nedal mu dlho rozmýšľať.
+     </tei:p>
+     <tei:p>
+      — Hore sa, kamarát, — volal. — Že sa ti chce driemať. Vieš ty, aký   dnes deň? V Slatine jarmok a na jarmoku pán kráľ! Nedriem, ale ber   gajdy a hraj, veď sa dnes všetko veselí. O chvíľu tu bude chasa, nech   si zatancuje. Pán kráľ to má rád. Možno príde aj on. Hej, neraz tak   urobil.
+     </tei:p>
+     <tei:p>
+      A pri tejto reči Valent strácal driemoty. Upil si vína, čo mu   hovoriaci podával. Krv sa mu čujnejšie rozbúrila. Naozaj — uznával —   možno príde pán kráľ. Začuje ho a iste bude ešte poznať hlas jeho   gájd. Nedal sa teda viacej ponúkať, vzal gajdy a nafúkal temlov.
+     </tei:p>
+     <tei:p>
+      Zvuk gájd akoby bol vábil do krčmy. Onedlho bola plná. Mládenci   obstali Valenta a len sa dívali, aký to divný gajdoš. Lebo nehral   ešte v Slatine takýto. A darmo by im aj bol povedal, skadiaľ je,   sotva by boli vedeli. O Štiavnici ešte, ale o Žakýlskom hrádku, to   veru by už nebol vedel nik. Ale neboli šarvanci na to zvedaví. Keď   hral, dali sa do spevu, a keď prišli dievky, rozvíril sa veselý   tanec. A tak Valentove gajdy veselili a búrili ľudí. Mládenci   tancovali, spievali, dievky výskali. Valentova muzika sa drala   oknami, dverami von do dediny, akoby chcela prekričať rozbúrenú   Slatinu.
+     </tei:p>
+     <tei:p>
+      Ani nezbadal, že sa začína stmievať. Práve vtedy sa odrazu strhol   zvláštny šumot. Najprv všetko utíchlo a potom sa ozvalo jasavé   volanie na slávu. Valent pozabudol fúkať do temlova, aj chlipák mu   vypadol z úst. Nevedel, čo si počať. Sedel na hrubej lavici a držal   gajdy pod pazuchou, akoby boli bývali slamkou, ktorej sa topiaci   Valent drží.
+     </tei:p>
+     <tei:p>
+      Vonku na ceste pred krčmou naozaj zastal kráľov voz. Sám kráľ ho   dal zastaviť, keď zbadal bujnú veselicu. Ale odrazu sa jeho tvár   zachmúrila. Aké sú to zvuky? Aké to gajdy hrajú? Poznával ich jasne.   Naozaj sú to nôty, ktoré počul vtedy, keď bol v žakýlskych lesoch a   tak podivne sa zišiel s mladým gajdoškom.
+     </tei:p>
+     <tei:p>
+      Už nerozmýšľal, povedal niečo jednému z drabantov, ktorí stáli   okolo koča. O chvíľku dvaja kamsi odbehli a koč sa pohol ďalej. Ale   kráľovi odletela spokojnosť z tváre, zatiahla sa tichým smútkom.
+     </tei:p>
+     <tei:p>
+      Uhriešený Valent sedel, sedel a nevedel sa rozhodnúť. Kráľ je   blízko, a on len sedí, nohy má ako z kameňa.
+     </tei:p>
+     <tei:p>
+      Ak mu srdce divo bilo, teraz zastalo, keď pozrel ku dverám.
+     </tei:p>
+     <tei:p>
+      Zjavili sa totiž dvaja v červených dolománoch, v belasých, zlatom   cifrovaných nohaviciach, v blýskavých čižmách, s vysokými čákovmi na   hlavách. Ostrohami zvonili, šabľami hrkotali, fúzy pyšne vykrúcali a   obzerali sa okolo. Valentovi ostalo čosi v hlave, ako vyzeral kráľ.   Jednako v tejto chvíli veru sa nevedel rozhodnúť, ktorý by z tých   dvoch mohol byť kráľom. Alebo sa mu to len pred očami marí? Pretrel   si oči, ale zas len dvoch videl. A tí sa len obzerali hodnú chvíľu,   ale keď ho v prítmí zazreli, pobrali sa k nemu.
+     </tei:p>
+     <tei:p>
+      Keď došli, blyslo vo Valentovej mysli: „Nie je to kráľ, tí budú   len z jeho vojakov,“ lebo sa podobali tým, čo ich bol vo Zvolene   videl.
+     </tei:p>
+     <tei:p>
+      — Hej, gajdoš, gajdoško, — zavolal ten, čo mal viacej zlata na   sebe a aj koniec šable sa mu blyšťal zlatom, aj pero na čákove mal   väčšie, aj na dolománe viacej zlatých kystiek sa mu osievalo. —   Nechaj muziku muzikou, — volal na neho, — lebo ty veru s nami musíš   ísť!
+     </tei:p>
+     <tei:p>
+      Chasa zhíkla sklamaná a prekvapená. No nik sa neodvážil zavolať,   aby gajdoš nešiel a ostal. Nik veru, lebo to boli pandúri kráľovskí a   nebolo radno si s nimi začínať. Keď videl Valent, ako všetko okolo   zmĺklo, pozrel zapálený na pandúrov. Sprvoti sa naľakal, ale keď si   uvedomil, že sú kráľovskí, uspokojil sa.
+     </tei:p>
+     <tei:p>
+      — A vy ste pána kráľa? — opýtal sa smelo.
+     </tei:p>
+     <tei:p>
+      — Nevidíš kráľov odznak na čákovoch? — šepol mu krčmár, čo sa   prikradol k Valentovi, aby mu povedal a dal znať, že sa nesmie brániť   a odporovať, ale bez slova poslúchať.
+     </tei:p>
+     <tei:p>
+      — Sme, — povedal ten, čo ho bol oslovil. — Počul ťa milostivý kráľ   hrať, máš sa hneď pobrať k nemu.
+     </tei:p>
+     <tei:p>
+      Nuž Valent vstal, vzal halienku, popravil klobúk na hlave, gajdy   pod pazuchu a pobral sa s pandúrmi.
+     </tei:p>
+     <tei:p>
+      Vonku stál voz, do ktorého si sadol, a pohli sa.
+     </tei:p>
+     <tei:p>
+      „Nebodaj pán kráľ už odišiel,“ hútal Valent. A veru odišiel a   pandúri ho viezli do Vígľaša, kde kráľ Matej trávil noc. Jednako   nebolo badať, že na zámku taký vzácny hosť býva. Okien mnoho, ale   veľmi málo ich bolo osvetlených. Možno už aj kráľ spí a spí všetko,   čo v zámku býva.
+     </tei:p>
+     <tei:p>
+      Keď došli, zavolal jeden z pandúrov na strážnika. Len čo ich   spoznal, otvoril bránu a vpustil ich.
+     </tei:p>
+     <tei:p>
+      Keď Valent zliezol z voza, povedal mu jeden z pandúrov:
+     </tei:p>
+     <tei:p>
+      — Ogab sa a uprav, lebo sa pán kráľ, jeho milosť, chce s tebou   rozprávať.
+     </tei:p>
+     <tei:p>
+      Valent sa v chytrosti upravil. Srdce sa mu rozbuchotalo ako vtáča   chytené do siete. Ale nebál sa. Naopak, tešil sa už, že rozpovie pánu   kráľovi, ako sa mu povodilo. A vráti sa k dedovi. Vráti sa skôr, ako   myslel. Nebude ho ded dlho čakať.
+     </tei:p>
+     <tei:p>
+      Prešli veľkou bránou. Kde-tu trčí na chodbe fakľa a osvetľuje ju   slabým, mdlým svetlom. Jelenie parohy, povešané nad dverami, kančie   hlavy s vycerenými zubiskami, medvedie kože sa černeli na stenách ako   mátohy. Nemal sa kedy obzerať, lebo ani pandúri sa neobzerali a   viedli ho chodbami, to vľavo, to vpravo odbočovali, to zas po   schodoch vystupovali. Konečne zastali pred veľkými dverami. Tam stáli   dvaja pandúri, mocní a vyobliekaní ako tí, čo ho sem priviedli. Dali   sa do zhovoru. Po chvíľke zmizol jeden v izbe.
+     </tei:p>
+     <tei:p>
+      Potom Valent ani nevedel, ako sa ocitol vo veľkej komnate pred   kráľom. Dvaja-traja páni tu ešte sedeli, ale Valentove oči ulipli na   kráľovi, ktorého hneď poznali. Kráľ trošku akoby bol omladol. Tvár   mal černejšiu a zdravšiu ako vtedy, keď ho prvý raz videl. Tak stál   Valent pred ním, aj pozdraviť sa zabudol, aj hlboko ukloniť, aj   pokľaknúť. Ešte že si širák už pred prvými dverami sňal z hlavy.   Ktovie, ako dlho by bol takto stál pred kráľom, keby sa mu nebol   prihovoril.
+     </tei:p>
+     <tei:p>
+      — Nuž, synak, zdá sa mi, že by sme sa mali poznať.
+     </tei:p>
+     <tei:p>
+      — Poznáme, vaša milosť pán kráľ!
+     </tei:p>
+     <tei:p>
+      Kráľ sa obzrel na tých dvoch, čo boli s ním, a usmial sa.
+     </tei:p>
+     <tei:p>
+      — Zahral si mi, ak sa nemýlim, keď som bol u pána Žakýlskeho.
+     </tei:p>
+     <tei:p>
+      — Ej, zahral, zahral, vaša milosť, aj ste ma obdariť ráčili,   ale...
+     </tei:p>
+     <tei:p>
+      — Čo ale...? — skočil mu do reči kráľ.
+     </tei:p>
+     <tei:p>
+      — Bodaj by som nebol hral a bodaj by ste ma neboli obdarili.
+     </tei:p>
+     <tei:p>
+      Kráľ zvážnel. Zadivil sa. Tvár akoby mu bol zastrel hustý mrak,   obrátil sa a pristúpil bližšie k Valentovi.
+     </tei:p>
+     <tei:p>
+      — Čo to hovoríš? Nerozumiem ťa.
+     </tei:p>
+     <tei:p>
+      — To hovorím, vaša milosť, že som sem za vami s ponosou   prišiel.
+     </tei:p>
+     <tei:p>
+      — S ponosou?
+     </tei:p>
+     <tei:p>
+      — A s prosbou.
+     </tei:p>
+     <tei:p>
+      — A s prosbou?
+     </tei:p>
+     <tei:p>
+      — Hej, vaša milosť, — vzdychol Valent. — Vezmite pasienky, čo ste   mi boli darovali, a nechajte ich pánu Tobiášovi.
+     </tei:p>
+     <tei:p>
+      Kráľ sa trpko usmial. Akoby bol tušil, že sa tu zasa nejaká krivda   stala.
+     </tei:p>
+     <tei:p>
+      — Hovor, synku, lebo z tvojej reči doteraz neviem, o čo ide.
+     </tei:p>
+     <tei:p>
+      — Ej, vaša milosť, zabudnúť ste ráčili, že ste mi boli darovali   grúne, na ktorých sa pána Tobiášove ovce pásli. Ale nebrali sme grúne   ani ja, ani ded a ovce sa pásli, ako sa pásavali. My sme nepýtali   nič. Bohuchovaj! Pre nás mohol pásť, my nežiadame.
+     </tei:p>
+     <tei:p>
+      — A čo vám pán Tobiáš?
+     </tei:p>
+     <tei:p>
+      — Zavolal nás, mňa i deda, na hrad a hovorí: Vyplatím vám árendu,   statočne vyplatím. Ale ded na to: Nežiadame, pán veľkomožný. A pán   Tobiáš: Napokon mi darujete, čo je moje! A dal vytiahnuť dedovi   dvadsať a mne raz toľko.
+     </tei:p>
+     <tei:p>
+      Kráľ nehovoril. Pokrútil hlavou a začal sa prechodiť komnatou.
+     </tei:p>
+     <tei:p>
+      — Toto vám? — zastal odrazu pred Valentom.
+     </tei:p>
+     <tei:p>
+      — Eh, vaša milosť, nič to, keby bol ubil. Ale sľúbil, že na jar   zas tak vyplatí a v jeseni tiež... Tak by som prosil...
+     </tei:p>
+     <tei:p>
+      — Čo? — skočil mu do reči zrejme namrzený kráľ.
+     </tei:p>
+     <tei:p>
+      — Aby ste ráčili, vaša milosť, zas grúne pánu Tobiášovi vrátiť.   Nech pasie, ako pásol, a my mu stádo opatríme.
+     </tei:p>
+     <tei:p>
+      Kráľ si sadol. Oprel hlavu o dlaň a zamyslel sa ako vtedy pod   stromom. Možno aj zabudol na Valenta. Len po hodnej chvíli   povedal:
+     </tei:p>
+     <tei:p>
+      — Nie, Valent, čo som dal, je tvoje. A neboj sa, pán Tobiáš ťa už   nebude na hrad volávať, ani na dereš naťahovať. Ešte zajtra urobím   poriadok. Ty sa vráť a gazduj na pasienkoch ako na svojom. A pána   Tobiáša sa neboj...
+     </tei:p>
+     <tei:p>
+      Valent chcel ešte niečo povedať. V ústach mu zhorklo. „Reči,   reči,“ hútal. „Keď prídem domov, prvé bude, že ma dá pán Tobiáš   chytiť a predviesť na hrad.“ Ale mohol sa protiviť? Nemohol. Len   pobozkal úctivo kráľovi ruku a vyšiel. Nespokojný a namrzený. Kráľov   dar mu ležal na pleciach ako veľká ťarcha. Nevedel sa jej zbaviť.   Potkýnajúc dostal sa na dvor, kde mu v jednej izbici postlali a do   sýtosti sa dali najesť.
+     </tei:p>
+     <tei:p>
+      Ráno potom kráľova družina zavčasu rušala zo zámku. Dal sa teda aj   Valent putovať naspäť do Zvolena.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      8
+     </tei:head>
+     <tei:p>
+      O niekoľko dní potom raz ráno sa prebudil. Prespal v hostinci na   šope. Zišiel, pozbieral sa, lebo sa toho dňa chcel vybrať domov.
+     </tei:p>
+     <tei:p>
+      Ale sa nevybral.
+     </tei:p>
+     <tei:p>
+      Keď prešiel dvorom pred krčmu, začul nezvyčajný hurhaj a spev. Do   spevu sa mieša kvílenie píšťal a aj nejaký strunový nástroj hučí a do   toho sa mieša cengot pohárov a dupot tancujúcich. Pred krčmou stojí   dlhý stôl a na ňom vína, medoviny. Vycifrovaní vojaci, švárni a   hybkí, nalievajú si a nalievajú aj muzikantom. Okolo postávajú   mládenci a dívajú sa, ako sa vojaci zabávajú.
+     </tei:p>
+     <tei:p>
+      Diví sa Valent a opytuje sa najbližšieho:
+     </tei:p>
+     <tei:p>
+      — Povedz, brat, čo sa to tu stvára?
+     </tei:p>
+     <tei:p>
+      — Nevidíš, lapaj, verbovačka! Ak máš vôľu, daj sa na vojnu.
+     </tei:p>
+     <tei:p>
+      Nebol Valent z tejto reči múdrejší, jednako mu začínalo v mysli   svitať. Aha, teraz prikročili dvaja mládenci odkiaľsi z Očovej a pán   kapitán im stíska ruky, akoby sa boli poznali oddávna. Druhý nalieva   medoviny do cínových pohárov a štrngajú si s nimi. Potom im dávajú na   hlavy zdobené čákovy. Mládenci si popíjajú, smejú sa a potom sa   dávajú do spevu ako vojaci. Keď sa im vôľa rozbehla, dali sa do   hajduchovania. A zas pristúpili traja. Valentovi sa to páči. Usmieva   sa a hľadí, ako sa pištci nadúvajú, ba je medzi nimi jeden aj s   gajdami. Ej, ale kdeže je ten od Valenta... Keby im on tak zahral...   Ale nemal to Valent v úmysle robiť. Len stál, usmieval sa a hľadel,   ako sa mládenec kde-tu osmelí a zamení okrúhly širáčik, ozdobený   rozmarínovým pierkom, za zdobený čákov. Upije si s vojakmi a schmatne   hrsť zlatých peňazí. Potom spieva a hajduchuje ako ostatní, čo sa   dali zverbovať medzi vojakov.
+     </tei:p>
+     <tei:p>
+      Vtom zbadal Valent akúsi známu postavu. Nemá čákov, len detviansky   klobúčik nabok hlavy, vrkoče na pleciach, fujaru a valašku. Nespieva,   nehajduchuje. Hlavu opiera o ruku, oči akosi smutno hľadia k   Zvolenskému zámku. Možno mu len teraz na um prichodí, čo urobil, keď   sa dal zverbovať na vojnu. A Valentovi sa pozdáva, že to známy.   Podíde bližšie, a naozaj. Je to Martin Hudcovie, čo ho nedávno do   Slatiny priviedol a zámockých drábov vo Zvolene vyplatil, keď niesol   pánu kráľovi zabitého sokola.
+     </tei:p>
+     <tei:p>
+      — Martin, druh! — zavolal Valent.
+     </tei:p>
+     <tei:p>
+      Martin dvíha hlavu a obzerá sa. Zbadá Valenta. Oči mu zahoria,   zablysnú, tvár sa vyjasní, ústa sa usmejú.
+     </tei:p>
+     <tei:p>
+      — To si ty, Valent?!
+     </tei:p>
+     <tei:p>
+      — Ej, bisťubohu, ja, Martin. A čo ty taký smutný?
+     </tei:p>
+     <tei:p>
+      — Ja, Valent?...
+     </tei:p>
+     <tei:p>
+      Vstal a pobral sa k muzikantom. Obzrel sa a začal spievať namiesto   odpovede:
+     </tei:p>
+     <tei:p>
+      Na detvianskom poli
+     </tei:p>
+     <tei:p>
+      vojakov verbujú,
+     </tei:p>
+     <tei:p>
+      detvianski mládenci
+     </tei:p>
+     <tei:p>
+      na vojnu rukujú...
+     </tei:p>
+     <tei:p>
+      Idú, idú ,idem aj ja
+     </tei:p>
+     <tei:p>
+      od Poľany do Dunaja...
+     </tei:p>
+     <tei:p>
+      Neplač, mamka, neplač,
+     </tei:p>
+     <tei:p>
+      veď ma ešte tu máš.
+     </tei:p>
+     <tei:p>
+      Potom môžeš plakať,
+     </tei:p>
+     <tei:p>
+      keď ma nebudeš mať.
+     </tei:p>
+     <tei:p>
+      Keď môj koník neposkočí
+     </tei:p>
+     <tei:p>
+      a krv trávičku porosí...
+     </tei:p>
+     <tei:p>
+      Ale muzikanti akosi nevedia ulahodiť Martinovi. Pesnička uviazne,   muzika stíchne. Prestane tanec, vojaci zosmutnejú. Len Martin   nie.
+     </tei:p>
+     <tei:p>
+      Pozrie na Valenta a usmeje sa:
+     </tei:p>
+     <tei:p>
+      — Takto ja, Valent-druh!
+     </tei:p>
+     <tei:p>
+      Valentovi je čudne okolo srdca. Martin sa smeje, ale Valent vidí a   cíti, že má v srdci veľký žiaľ. Chce ho vyspievať, vybúriť, ale   nemôže. Hej, húta Valent, čo počať? Ale vtom pristúpi Martin a položí   mu ruku na plece:
+     </tei:p>
+     <tei:p>
+      — Hej, Valent, druh, len mi ty ešte raz zahraj!
+     </tei:p>
+     <tei:p>
+      Nuž berie Valent gajdy a nafukuje temlov. Už hučia huky a prsty   skáču po dierkach gajdice. Martinovi oči zahoria a tvár zažiari.   Strčí prst do úst a zahvizdne, že vlasy dupkom vstanú. Valaškou   zakrúti, v povetrí zafučí, akoby vietor zadul. Poskočí a začína   drobčiť. Cifruje nohami v ľahkých krpcoch. Gatky odskakujú od nôh,   akoby Martin skákal v bielej vode. Zhodí hunku a uderí na dlaň,   vyhodiac valašku vozvysok. Zas ju obratne chytí a skrúti nad hlavou a   zas vyskočí, akoby ho zem vyhodila. Zatne valašku do stola a založí   ruky za chrbát a cifruje, cifruje po zemi, akoby mal sto nôh. A zas   sa vrtí, obracia, krúti. Vrkoče lietajú, širáčik mu spadol na chrbát   a drží ho len remenec pod krkom. Ale Martin neustáva. Valentova   muzika akoby nových síl nalievala do jeho nôh. Za ním sa dávajú aj   ostatní zverbovanci. Ej, nemali kráľovskí páni kapitáni takejto   verbovačky. Kapitánovi sa to páči. Vykrúca fúzy a káže ponalievať.   Keď Valent s muzikou ustane, schmatnú verbovanci poháre a pijú.   Ponúkajú Valenta. Hej! Hej, Valent!
+     </tei:p>
+     <tei:p>
+      Pije prvý, pije druhý pohár.
+     </tei:p>
+     <tei:p>
+      A keď vypil tretí, posadil mu kapitán zlatý čákov na hlavu.
+     </tei:p>
+     <tei:p>
+      A na zelených stráňach žakýlskych sedí ded Babic a díva sa ponad   hory. Díva sa a čaká, kedy sa vráti Valent. Hej, kedy. Lebo hory sa   už jeseňou začínajú prihovárať a pán Tobiáš ešte v lete dostal nové   písmo od kráľa. Nevolal už deda na hrad, ale sluha Vavrinec priniesol   hodné vrecko zlatých peňazí. Dal ich bačovi a povedal, že teraz   žakýlsky pán takto bude na Ďura i na Michala vyplácať...
+     </tei:p>
+     <tei:p>
+      Nuž ded Babic len čakal...
+     </tei:p>
+     <tei:p>
+      Ale keby bol vedel, ako posadil švárny kapitán Valentovi pri   zvolenskej verbovačke zlatý čákov na hlavu, nebol by čakal.
+     </tei:p>
+     <tei:p>
+      Nebol veru.
+     </tei:p>
+     <tei:p>
+      Iba by bol zavzdychol a zaplakal.
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="group">
+    <tei:head>
+     HUDEC VALENT Z HUDCOVHO   VRCHU
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      1
+     </tei:head>
+     <tei:p>
+      Tečie Dunaj dolinami a nezastaví sa ani vtedy, keď sa jeho kalná   voda prevalí do rovín. Tečie, tečie, beží a nezastavuje sa. Ani pri   vežatej Viedni, ani pri starom Ostrihome, ani v kráľovskom Budíne sa   nezastaví. Iba vari to, že nad Budínom pod Novohradom odrazu, akoby   si niečo rozmyslel, obráti sa k mestu. Ale ako som povedal, nezastaví   sa a beží ďalej dolu k Belehradu.
+     </tei:p>
+     <tei:p>
+      Ale divná voda Dunaja ani tu nepostojí. Len ovlaží múry mesta a   vlečie sa k balkánskym horám. Tam už prestávajú šíre roviny, ktoré   verne sprevádzali veľkú vodu potiaľto. Roviny šíre, roviny nekonečné.   Tu i tam strom, tu i tam skupinka vysokých krov. Ale za stromom zas   len rovina a vysoká suchá stepná tráva alebo mokrá šarina a v nej   škrieka, píska divné vtáctvo týchto krajín...
+     </tei:p>
+     <tei:p>
+      Pod jednou zo skupiniek stromov akoby oheň blikotal. Akoby sa jeho   slabé lúče medzi sebou ihrali. Poskočí jeden, poskočí druhý, a   vzápätí ich už niet. Iba čo pahreba tlie. Keď vetrík zafučí, poskočia   plamienky znovu. Poskočia a hodia hrsť svetla okolo. Lebo je tmavá   noc a na nebi len hviezdy svietia studeným bledým svetlom.
+     </tei:p>
+     <tei:p>
+      Pri dohasínajúcom ohníku sedí mládenec. Klobúčik, hunka, vrkoče,   valaška položená v lone. Len kde sa vzal Detvan v tomto kraji? Kde sa   vzal Martin Hudcovie pri Dunaji?
+     </tei:p>
+     <tei:p>
+      Nebolo ináč. Martin Hudcovie bol vojakom Matejovho Čierneho pluku.   Bol ním aj hudec Valent. S plukom sa dostali až sem, k hraniciam   krajiny, aby ich strážili pred útokmi Turkov. Sedí teraz Martin pri   ohni. Zavše vyskočí, orlím zrakom hľadí do noci, prejde k brehu, po   brehu hore, potom dolu a znova sa vráti k uhasínajúcemu ohňu.
+     </tei:p>
+     <tei:p>
+      Hej. Martin Hudcovie!...
+     </tei:p>
+     <tei:p>
+      Pre teba len detvianske poľany bývali...
+     </tei:p>
+     <tei:p>
+      Bývali, bývali, ktovie, či ešte budú...
+     </tei:p>
+     <tei:p>
+      Kdesi z močariny sa ozval škrek. Jeden, dvaja splašení vtáci   zaškrečali a vyleteli do noci. Zreteľne bolo počuť, ako zatrepotali   krídlami. Potom nastalo divné ticho. V tom tichu sa zrodili akési   nové zvuky, ktoré bolo ťažko rozpoznať necvičenému uchu. Ušli uchu,   tobôž oku. Ale ucho, vycvičené v detvianskych horách, vedelo   rozpoznávať veci v najtemnejšej noci, plazenie sa hada od behu   jašteričky. Aj zrak je naučený rozpoznávať veci v najtemnejšej noci.   Martin vyskočil, zhodil hunku z pliec, chytil tuhšie valašku a   poskočil dopredu. Keď prešiel potichu k močarisku, zbadal, že ani   voda tak nešuchoce v rieke, ako šuchotala. V hovore vĺn zreteľne   počuť iný hovor. Zreteľne ho rozpoznať od šumotu vody.
+     </tei:p>
+     <tei:p>
+      Len čo sa vzpriamil, aby lepšie dovidel, už sa skrčil. Akoby bol   niekto vedľa neho zavolal: — Martin, pozor, zohni sa!
+     </tei:p>
+     <tei:p>
+      Martin sa skrčil a valašku tuhšie stisol v hrsti. Ponad hlavu mu   zahvizdol šíp. Vedel Martin, čo to. Neraz už jeho ucho počúvalo   takúto pieseň. Prikrčil sa k zemi a s valaškou v ruke čakal, čo   bude.
+     </tei:p>
+     <tei:p>
+      Nič.
+     </tei:p>
+     <tei:p>
+      Len nový šíp zahvizdol popri Martinovej hlave.
+     </tei:p>
+     <tei:p>
+      A keď sa Martinko z Detvy obrátil, aby skočil k druhom a upozornil   ich, čo sa robí, zahvízdal tretí šíp.
+     </tei:p>
+     <tei:p>
+      A ten tretí sa zabodol hlboko do Martinovho chrbta. Tam, kde mocná   lopatka zakrývala smelé srdce Martinovo. Ten šíp bol ako had.   Prestokol kožuštek, prerazil bielenú košieľku, vbodol sa hlboko do   Martinovho tela.
+     </tei:p>
+     <tei:p>
+      „Hej, bisťubohu,“ blyslo Martinovou hlavou, „ale si mi dal!“
+     </tei:p>
+     <tei:p>
+      — Hej, kamaráti, bite pohana! — zavolal ešte a padol na zem.
+     </tei:p>
+     <tei:p>
+      Ohník pohasol, ale namiesto toho akoby bola zem ožila. Akoby sa   bola suchá stepná tráva premenila na ľudí. Stávali ako temní duchovia   stepi, čo kvílievali nocou. Len meče zaštrkotali a tetivy zadrnčali,   keď vystrelili šípy smerom, odkiaľ prichodil Martinov hlas.
+     </tei:p>
+     <tei:p>
+      — Martin!
+     </tei:p>
+     <tei:p>
+      — Tu, brat!
+     </tei:p>
+     <tei:p>
+      Valent skočil po hlase. Za ním skočilo z desať iných. Ozval sa   odporný škrekot. Ale hneď zatíchol. Okolo prebehlo niekoľko postáv.   Potom sa ozýval z tmy len sekot mečov a buchot okovaných cepov. A   medzitým sa ozvalo chrčanie ranených a krik umierajúcich. Kdesi vo   vode bolo počuť jasné údery vesiel. Ktosi volal o pomoc. Z člna   vyletela fakľa a padla na breh. To Turci hádzali, aby mohli strieľať   presnejšie z člnov na osvetlené postavy na brehu. Ale vojaci rýchlo   hasili fakle. Niektoré padli do vody, syčiac a plieskajúc.
+     </tei:p>
+     <tei:p>
+      Po chvíli nastalo ticho. Udychčané postavy stáli na brehu a   čakali. Hodnú chvíľu tak stáli, lebo nevedeli, či nepriateľ zas   nevyrazí niekde na brehu.
+     </tei:p>
+     <tei:p>
+      Často sa tak stávalo za hviezdnatých nocí, keď sa mesiac   neukázal.
+     </tei:p>
+     <tei:p>
+      Len keď sa začínal ďaleko na východe deň zapaľovať, vzdialili sa   obrancovia od brehu...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      2
+     </tei:head>
+     <tei:p>
+      Keď vyšlo slniečko a krvavé, chladné ráno sa rozlialo okolo,   odnášali vojaci svojich a nebohých Turkov hádzali napospas vlnám do   Dunaja. Ranených odvádzali, len Martinka museli odniesť. Hej, Turčín,   tvoja ruka dobre mierila, keď našiel šíp cestu až k Martinovmu srdcu.   Priniesli ho a posadili neďaleko pod strom. Kamaráti stáli bezradní   okolo neho. Videli, že šíp väzí hlboko v chrbte. Tak hlboko, že sa   ťažko dá vytrhnúť, a Martinovi krv pri každom pohybe z úst i rany   vyteká. Tak len stáli kamaráti Martinkovi spod Poľany a z Detvy, od   Muráňa i od Sitna, čo sa boli spolu zverbovali do vojska Mateja   kráľa.
+     </tei:p>
+     <tei:p>
+      Valent nestál. Kľačal pri Martinovi a držal jeho studenú ruku vo   svojej.
+     </tei:p>
+     <tei:p>
+      Sedel a hovoril, ani nemysliac na to, čo hovorí:
+     </tei:p>
+     <tei:p>
+      — Hej, druh Martin, len sa drž. Príde ránhojič a vytrhne šíp.   Uľaví sa ti. Uľaví a rana sa zahojí. Ej, veď neraz tvoja hlava   vycedila krv, a nič to, že teraz z boku tečie. Pôjdeme my o rok-dva   spolu k Detve...
+     </tei:p>
+     <tei:p>
+      Ale Martin neotvoril oči, len hlavou pokýval a slabo povedal:
+     </tei:p>
+     <tei:p>
+      — Nie, Valent... Ja to viem... Ja už Detvu neuvidím... Ani   Poľanu... Ani Elenu...
+     </tei:p>
+     <tei:p>
+      — Nezúfaj, druh, a nehovor takto...
+     </tei:p>
+     <tei:p>
+      — Nevylomíte šíp, rana moja už nezacelie...
+     </tei:p>
+     <tei:p>
+      A ako dopovedal, vyvstala mu na perách krvavá pena. Valent ju   utrel belavou šatkou.
+     </tei:p>
+     <tei:p>
+      — Nehovor, Martin... — povedal temno Valent.
+     </tei:p>
+     <tei:p>
+      Martin pokýval hlavou, akoby mu prisviedčal. Potom sa obzrel   okolo: na neho i kamarátov. Trošku sa pousmial. Horký to bol   smiech.
+     </tei:p>
+     <tei:p>
+      Deň bol horúci a dlhý.
+     </tei:p>
+     <tei:p>
+      Keď nadišiel večer, začal Martin strácať vedomie. Tvár zbledla ako   mlieko, oči zatvoril a pery prestali šepotať. Valent sedel stále pri   ňom a utieral si oči. Teraz sa držal Martin jeho ruky. Akoby sa bol   bál, že Valent odíde od neho. Kedy-tedy ju stisol. Možno kŕč prebehol   telom, možno od bolesti, a možno to miesto reči. Martin otvoril oči.   Možno hľadal hviezdy, ktoré ešte nevyšli. A ako hľadal, odrazu mu   úsmev zakvitol na ústach. Na strome uzrel Valentove gajdy.
+     </tei:p>
+     <tei:p>
+      — Zahraj, Valent, — zašepkal slabo.
+     </tei:p>
+     <tei:p>
+      Ej, ťažko prichodilo Valentovi gajdy brať do rúk. Hrdlo mu stískal   žiaľ ako železné kliešte a hruď sa mu šla roztrhnúť. Ťažko, preťažko   mu bude hrať. Ale Martin hľadel takým zapáleným zrakom na nástroj, že   nemohol odolať. Vstal a vzal gajdy do rúk. Nafúkal temlov a spustil   huky. Valentovi sa zdalo, že ako fúka, žiaľu ubúda, pri srdci ostáva   ľahšie. Pri prvých zvukoch akoby tieto šíre kraje zmizli. Akoby sa   bolo všetko zmenilo. Akoby sa tieto rovné pusty boli zavlnili a   namiesto nich tu stáli voňavé hory. Namiesto kalnej vody Dunaja tu   hovoril bystrý potok a tam v diaľke na kopci akoby detvianska deva   spievala. Valentove gajdence tíško a sladko zneli. Zuneli, plakali,   spievali poslednú pieseň Martinkovu...
+     </tei:p>
+     <tei:p>
+      A Martin hľadel dovysoka a usmieval sa. Oči, jasné ako iskry, mu   horeli. Hej, kdeže sú časy, keď si pri týchto gajdách zahajduchoval?   Slniečko už dávno skrylo tvár a večer sa vliekol okolo. A ako sa   vliekol, zastieral Martinkovu tvár. Najprv zastrel jeho úsmev, potom   líca, potom jedno oko a potom vyhasil aj druhé. Potom zastrel aj   čarovnosť Valentovej muziky.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      3
+     </tei:head>
+     <tei:p>
+      Valent ostal sám. Bolo kamarátov, bolo, ale Valent zbadal, že mu   Martin bol viacej ako kamarát. Ale čože mal robiť, keď sa zaviazať   desať rokov slúžiť. Musel doslúžiť. Jednako bolo v tom Martinovo   nešťastie. Valenta už len z pol roka delilo od skončenia služby. Rok   je málo, keď ho porovnáme s desaťročím, pol roka ešte menej. Jednako   bolo Valentovi toho pol rôčika, čo musel doslúžiť bez Martina, dlhšie   ako celých desať, strávených v storakých šarvátkach a bitkách v   Matejovom Čiernom pluku. Ale čo ako dlho ten čas trval, predsa sa   minul. Minul sa a Valentovi prichodilo voliť, či sa znova zaviazať na   vojnu, alebo sa vrátiť domov. Či si mohol Valent voliť iné, než   vrátiť sa domov?
+     </tei:p>
+     <tei:p>
+      Nemohol. Vrátil sa. Dal zbohom kamarátom, čo ostali, aj tým, čo sa   zriekli služby, a pobral sa domov. Hej, domov, voľný a slobodný ako   kedysi.
+     </tei:p>
+     <tei:p>
+      Nuž ale doteraz bolo, ako bolo, ale ako bude teraz? Desať rokov je   veľa a premaľujú tvár človeka. Tak aj Valent. Povyrástol, zhrubol,   spevnel, stvrdol na opravdivého chlapa. Pod nosom vyhnali mocné   fúziská a nik by veru v ňom nebol hľadal voľakedajšieho Valenta z   Babicovho salaša pána Tobiáša Žakýlskeho. Ba hádam ani sám Babic ho   nebude poznať.
+     </tei:p>
+     <tei:p>
+      Pod detvianskou Poľanou rok po roku dievča seno hrabalo. Hrabalo,   hrabalo, ale nespievalo ako jeho kamarátky. Nespievalo, nemohlo, lebo   mu po lícach slzy stekali. A ako sa rok za rokom míňal, nestratili sa   slzy z očú devy. Hej, hlbšie sú niekedy oči než more a viacej v nich   sĺz ako v mori vody. Zbledlo dievča, zbledli jej líca a belosť   svietila aj vtedy, keď ju slnce spálilo do hneda.
+     </tei:p>
+     <tei:p>
+      Tak sa míňali roky. Minul jeden, dva, päť... I desiaty sa pominul.   I jedenásty sa míňa, a dievča len plače a večerom vychodí na kopec a   pozerá k Zvolenu. Ale ako ho nedovidí, tak nevidí prichodiť ani toho,   koho očakáva.
+     </tei:p>
+     <tei:p>
+      Lež raz večer, keď už dúfať prestalo a začínalo sa mu do srdca   zúfalstvo vkrádať, odrazu našiel ju slabý a tichý hlas gájd. Ten hlas   bol taký, že sa dievča rozveselilo. Srdce akoby sa išlo hojiť.   Neznáma radosť sa rozniesla okolo neho. Dievča vstalo a čakalo.   Nečakalo darmo. Z hory vyšiel hudec s gajdami na pleci. Isto mu horou   smutno bolo a zaháňa smútok hrou. Keď zbadal devu, prestal hrať a   zastal.
+     </tei:p>
+     <tei:p>
+      — Boh s tebou! — pozdravil ju.
+     </tei:p>
+     <tei:p>
+      — Vitaj, hudec... — povedala deva.
+     </tei:p>
+     <tei:p>
+      Hudec stál a hľadel potom bez slova na devu.
+     </tei:p>
+     <tei:p>
+      — Čo stojíš, hudec, a dívaš sa na mňa? Vari ma poznávaš?
+     </tei:p>
+     <tei:p>
+      — Možno, — povedal potichu.
+     </tei:p>
+     <tei:p>
+      — Nikdy som ťa nevidela.
+     </tei:p>
+     <tei:p>
+      — Nevidela? A mne sa pozdáva, že sme sa predsa len videli.
+     </tei:p>
+     <tei:p>
+      Deva zavrtela hlavou.
+     </tei:p>
+     <tei:p>
+      — Sotva, — povedala.
+     </tei:p>
+     <tei:p>
+      — V Slatine, pred rokmi, keď tam bol pán kráľ...
+     </tei:p>
+     <tei:p>
+      Elene Martinovej sa na chvíľku zachmúrila tvár. Hej, tak to bolo.   Teraz aj ona si spomína. Hej, hej, divný neznámy hudec tam hral.   Prišiel za kráľom a hral. Mládež tancovala. Aj Martin. Aj ona. Ale   ten hudec bol mladší. Šarvanec. Tento tu je tvrdý, dospelý muž.   Jednako v jeho tvári nachodí známe črty a zvuk jeho gájd je ten istý.   Tvár jej zosmutnela. Z očú vypadli slzy.
+     </tei:p>
+     <tei:p>
+      — Čo by si plakala, Elena, — povedal odrazu hudec a sadol si na   kameň.
+     </tei:p>
+     <tei:p>
+      Deva sa zošúverila.
+     </tei:p>
+     <tei:p>
+      Chvíľu bolo ticho. Hudec mlčal a deva plakala. Len po chvíli sa   ozval hudec:
+     </tei:p>
+     <tei:p>
+      — Hovorím, Elena, neplač a tak si pomysli, že Martina ani nebolo.   — Deva sa strhla a vyskočila.
+     </tei:p>
+     <tei:p>
+      — Ty si ho poznal?
+     </tei:p>
+     <tei:p>
+      — Spolu sme sa vo Zvolene zverbovali.
+     </tei:p>
+     <tei:p>
+      — A kde je Martin? — volala.
+     </tei:p>
+     <tei:p>
+      — Kde? — opakoval hudec a odvrátil sa od devy.
+     </tei:p>
+     <tei:p>
+      — Kde je? — opakoval si devinu otázku. — Pusta, dolnozemská pusta   je šíra a nekonečná. Celkom inakšia ako naše hory. A Dunaj je veľká   voda, Elena. Celkom inakšia ako náš Hron. Belehrad je mesto sto ráz   väčšie než náš Zvolen. A tam, kde sa dunajskej vode začína ukazovať   toto mesto, je na brehu päť jelší. Pod nimi mohyla a nad ňou kríž.   Pod krížom valaška a na valaške visí Martinov klobúčik. A tvoj   Martin...? Ten sa už nevráti...
+     </tei:p>
+     <tei:p>
+      Neskríkla Elena, len hlavu hlbšie sklonila a plakala. Hudec   nehovoril, len hľadel do neurčita. Možno mal pred očami kraj a obraz,   o ktorom hovoril.
+     </tei:p>
+     <tei:p>
+      — Ty, Elena, neplač. Iba si spomínaj na neho. A ak otec, mať   Martinovi sú nažive, povedz aj im...
+     </tei:p>
+     <tei:p>
+      Elena sa zdvihla a pobrala sa, uplakaná, pomaly dolu briežkom,   akoby tu hudca ani nebolo bývalo...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      4
+     </tei:head>
+     <tei:p>
+      Desať rokov je málo, ale desať rokov je aj veľa. No a kým sa   Valent dostal domov, uplynulo ich celých jedenásť. Za ten čas sa veľa   zmenilo. Veľa. Napríklad aj to, že Šášovský hrad dostal nového pána a   ten sa už nekamarátil s pánom Tobiášom Žakýlskym. Akože sa aj mohol,   keď bol pán Tobiáš nebohý. Nebohý veru a pod veľkým dubom v záhrade   zámku pochovaný.
+     </tei:p>
+     <tei:p>
+      Pani Žakýlska žila sama, samotinká na hrade, lebo sa jej dcéry   povydávali. Ani to vraj už nebol jej hrad, lebo ho pán kráľ za hodnú   odmenu daroval štiavnickým radným pánom.
+     </tei:p>
+     <tei:p>
+      No a mesto vedelo starostlivejšie plniť rozkazy kráľa ako pán   Tobiáš.
+     </tei:p>
+     <tei:p>
+      Desať rokov je mnoho, a desať rokov je i málo. Málo, lebo na   Valentovom dedovi ich bolo neveľmi badať. Taký bol, ako býval.   Prihrbený a biely ako holub. Popásal ovce, ale ich mal menej, ako ich   mával. Menej, ale boli jeho. Žakýlska pani nechovala. Načo aj? Ak   potrebovala hrudku syra alebo dobrú jahničku na jar, zbehol sluha   Vavrinec dolu a bača Babic poslal. A ak potrebovala pani vlnu, aby   mala v zimných večeroch čo robiť, nuž aj tej sa u Babica našlo. A čo   ostalo, to štiavnickí páni kupci radi skúpili. No žakýlska pani   statočnejšie platila než jej nebohý muž. Po takom spôsobe sa nemohol   Babic horšie mať, ako sa mával kedysi. Len jedno ho trápilo. Valent.   Ale keď sa od drábov šášovského pána dozvedel o zvolenskej   verbovačke, myslel si, že sa už Valent nikdy nevráti. Spokojne čakal,   kedy už smrť príde po neho.
+     </tei:p>
+     <tei:p>
+      Ale desať rokov sa šuchlo, a matka smrť neprišla.
+     </tei:p>
+     <tei:p>
+      A koncom jedenásteho prišiel Valent.
+     </tei:p>
+     <tei:p>
+      V podvečer došiel, keď ded Babic sedel pred kolibou a čakal, kým   nadíde noc. Vtedy, ako nedávno Elena, začul známe zvuky gájd. Najprv   sa len usmial, lebo si myslel, že to mu sen priniesol pozdrav od   Valenta. Ale keď muzika neprestávala, ba zosilňovala sa, obzrel sa   zadivený. A ako sa obzrel, zbadal vyrasteného, vysokého   chlapa-gajdoša. Hej, a dedovo srdce je ako otcovo. Oči nepoznali, ale   srdce poznalo vnuka. Vyskočil starček, čo už len matku smrť čakal, a   pobehol Valentovi oproti. Valentovi vypadol chlipák z perí, ba aj   gajdy, keď objal deda.
+     </tei:p>
+     <tei:p>
+      Toho večera už nezazneli gajdy. Sedel pred kolibou vnuk, sedel aj   ded a počúval, ako sa mal Valent v ďalekom cudzom svete.
+     </tei:p>
+     <tei:p>
+      A Valent zas, čo sa za ten čas doma porobilo...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      5
+     </tei:head>
+     <tei:p>
+      Časy sa míňajú a ľudia s nimi.
+     </tei:p>
+     <tei:p>
+      Požil si síce ded Babic hodne rokov, lebo zomrel, keď mal ďaleko   za stovkou. Valent ostal sám. Jeho gajdy nezamĺkli, ozývali sa a   šírili zvesť o hudcovi široko-ďaleko. Tešili ľudí, ktorých stretol   smútok alebo žiaľ.
+     </tei:p>
+     <tei:p>
+      Často sa Valentove gajdy ozývali aj nocou. Ale nik sa vtedy   nepriblížil k nemu. Lebo je aj to možné, že ľudia, ktorých sa čím   ďalej, tým viac premieľalo okolo na hrad, i haviarov do baní,   nepočuli túto muziku. Možno, že Valent vtedy sebe vyhrával, možno, že   zabával lesné žienky, ktoré mu darovali gajdicu. Tak sa aspoň o   Valentovi povrávalo. Ak je pravda, že si žienky pozývali aj   mládencov, čo mladí umreli, nuž je možné, že medzi nimi vídal Valent   aj Martina. Akože by potom mohol Valent nehrať?
+     </tei:p>
+     <tei:p>
+      Ale všetko sa pominie. Valent-hudec tiež. Iste sa nedožil takého   vysokého veku ako jeho ded.
+     </tei:p>
+     <tei:p>
+      A gajdy?
+     </tei:p>
+     <tei:p>
+      Valent nemal syna, čo by ho bol v muzike tak vycvičil ako ded   jeho. Ktovie, čo sa s nimi stalo. Mnohí ich hľadali, gajdoši zo   široka-ďaleka tu chodili a dopytovali sa. Nik nevedel, ani sa   nedozvedel. Možno si ich vzali lesné žienky a dajú ich zas takému   gajdošovi, ako bol Valent z Babicovho salaša...
+     </tei:p>
+     <tei:p>
+      Ale ťažko sa taký hudec narodí...
+     </tei:p>
+    </tei:div>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

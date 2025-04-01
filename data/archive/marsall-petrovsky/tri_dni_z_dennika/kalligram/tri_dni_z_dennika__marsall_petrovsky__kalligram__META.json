@@ -1,27 +1,29 @@
 {
-  "xslt_params" : {
-    "title":            "Tri dni z denníka",
-    "words":            "0",
-    "pages":            "0",
-    "vols":             "0",
-    "srced_publisher":  "Kalligram",
-    "srced_pub_place":  "Bratislava",
-    "srced_ref":        "isbn:978-80-8101-683-7",
-    "srced_pub_date":   "2012",
-    "frsted_publisher": "",
-    "frsted_pub_place": "",
-    "frsted_ref":       "",
-    "frsted_pub_date":  "",
-    "encoding_lvl":     "eltec-1",
-    "gender":           "M",
-    "size":             "medium",
-    "timeSlot":         "T2",
-    "canonicity":       "unspecified"
-  },
-  "author_first_name": "Gustáv",
-  "author_last_name":  "Maršall-Petrovský",
-  "author_alter_name": "",
-  "author_birth_date": "1862",
-  "author_death_date": "1916",
-  "author_ref": "viaf:42640171"
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Tri dni z denníka",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "pub_date": "1890"
+    },
+    "authors": [
+        {
+            "first_name": "Gustáv",
+            "last_name": "Maršall-Petrovský",
+            "birth_date": "1862",
+            "death_date": "1916",
+            "ref": "viaf:42640171"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
 }

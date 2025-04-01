@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk185663" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title ref="8716423134">
+     Title : ELTeC edícia
+    </tei:title>
+    <tei:author ref="64314">
+     Blewit, Blewit [Tiwleb] (1800 - 1900)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     359
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Blewit,
+     </tei:author>
+     <tei:title>
+      Title
+     </tei:title>
+     <tei:pubPlace>
+      Publishing place
+     </tei:pubPlace>
+     <tei:publisher>
+      Publisher
+     </tei:publisher>
+     <tei:date>
+      1856
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Blewit, William
+     </tei:author>
+     <tei:title>
+      Title
+     </tei:title>
+     <tei:pubPlace>
+      Publishing place
+     </tei:pubPlace>
+     <tei:publisher>
+      Publisher
+     </tei:publisher>
+     <tei:date>
+      1800
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="digitalSource">
+     <tei:title>
+      Title
+     </tei:title>
+     <tei:ref target="www.site.com"/>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T1"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-10-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     sfddsfds
+    </tei:head>
+    <tei:head>
+     gdvdfv
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Subheader
+    </tei:head>
+    <tei:p>
+     Lorem ipsum dolor sit amet, consectetur
+     <tei:ref target="#N1"/>
+     adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore   magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation   ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute   irure dolor in reprehenderit in voluptate velit esse cillum dolore eu   fugiat nulla pariatur. Excepteur sint occaecat cupidatat non   proident, sunt in culpa qui officia deserunt
+     <tei:ref target="#N2"/>
+     mollit anim id est laborum.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Header
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      Subheader
+     </tei:head>
+     <tei:p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim   ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut   aliquip ex ea commodo consequat. Duis aute irure dolor in   reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla   pariatur. Excepteur sint occaecat cupidatat non proident, sunt in   culpa qui officia deserunt mollit anim id est laborum.
+     </tei:p>
+     <tei:div type="chapter">
+      <tei:head>
+       Subsubheader
+      </tei:head>
+      <tei:p>
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim   ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut   aliquip ex ea commodo consequat. Duis aute irure dolor in   reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla   pariatur. Excepteur sint occaecat cupidatat non proident, sunt in   culpa qui officia deserunt mollit anim id est laborum.
+      </tei:p>
+      <tei:div type="chapter">
+       <tei:head>
+        Subsubsubheader
+       </tei:head>
+       <tei:p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim   ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut   aliquip ex ea commodo consequat. Duis aute irure dolor in   reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla   pariatur. Excepteur sint occaecat cupidatat non proident, sunt in   culpa qui officia deserunt mollit anim id est laborum.
+       </tei:p>
+      </tei:div>
+     </tei:div>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      Subheader
+     </tei:head>
+     <tei:p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim   ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut   aliquip ex ea commodo consequat. Duis aute irure dolor in   reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla   pariatur. Excepteur sint occaecat cupidatat non proident, sunt in   culpa qui officia deserunt mollit anim id est laborum.
+     </tei:p>
+    </tei:div>
+   </tei:div>
+  </tei:body>
+  <tei:back>
+   <tei:div type="notes">
+    <tei:note xml:id="N1">
+     This is a footnote.
+    </tei:note>
+    <tei:note xml:id="N2">
+     This is another one.
+    </tei:note>
+   </tei:div>
+  </tei:back>
+ </tei:text>
+</tei:TEI>

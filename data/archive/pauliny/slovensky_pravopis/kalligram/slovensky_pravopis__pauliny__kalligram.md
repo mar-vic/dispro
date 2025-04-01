@@ -1,7 +1,3 @@
-**Slovenský pravopis**
-
-Noveletka
-
 „Došli noviny?"
 
 „Došli, *Vedomosti* i *Sokol*."

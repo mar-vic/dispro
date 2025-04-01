@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1956703" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Emigranti : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kubáni, Ľudoví (1830 - 1869)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     6234
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kubáni, Ľudoví
+     </tei:author>
+     <tei:title>
+      Emigranti
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Slovenské vydavateľstvo krásnej literatúry
+     </tei:publisher>
+     <tei:date>
+      1956
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Kubáni, Ľudoví
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1870
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head/>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Závidím emigrantom!... Ja som ním bol pár hodín, a vodilo sa mi   dobre. Ľutovali ma, uctili ma... ba sa snáď i zaľúbili - nie síce do   mňa, ale do môjho spoluturistu, merníka Ružana (kto by tohoto pána   nepoznal, upravujem ho na prvý ročník „Lipy“, kde už vtedy vojvodí   ako ideálny ľúbenec), ktorý -čo sa takrečeného „exteriéru“ týka -je   alebo aspoň bol Endymion vo zväčšenom formáte, asi v 99. vydaní.   Opisovať ho teraz nebudem; ba načo?… Slovensko ho pozná ako   novomódneho Ulyxa, blúdiaceho na mori problematičného okolia   hornouhorského Slovenska. Hneď je pod Kriváňom, hneď pod Fatrou; dnes   pod Sincom, zajtra pod Sitnom - a so mnou bol pod Poľanou v osídlach   bohyne Circe, ktorej sa iba zato striasol, aby sa až doteraz nedostal   k svojej budúcej Penelope.
+   </tei:p>
+   <tei:p>
+    Ale, aby som na naše emigrantstvo prišiel, musím začať od   počiatku.
+   </tei:p>
+   <tei:p>
+    Merník Ružan, ako i teraz, bol i predtým naozajstný neposeda…   Mučilo a trápilo ho to na jednom mieste ako Petra Schlemihla, ktorý   hľadal svoju tôňu v sedemmíľových čižmách. Ružan má síce svoju tôňu;   obzvlášte ráno a večer ju nebolo radno hľadať, ale má i anglický   spleen (však nás i tak „hlas zo Slovenska“ i s Čaplovičom k   Angličanom pripodobňuje), a tento svetom roznášať - zdá sa mi byť   jeho úlohou. Ja na spleen netrpím, preto mi Ružan dakde okolo Radvane   nadal - do francúzskych šarlatánov, ktorí do sveta ani zádumčivo,   zasmušilo nevedia pozerať; pri tom všetkom však rád cestujem   obzvlášte na cudzích „kelčíkoch“. Keď ma teda asi pred pätnástimi   rokmi (práve vo vhodný čas, lebo som sa vtedy následkom Bachovho   definitíva nachodil v disponibilite, t. j. bez služby) k   spolucestovaniu vyzval-usmial som sa, podal som mu ruku, položil   zelené protiprašné okuliare na nos, pod pravú pazuchu dáždnik, pod   ľavú dlhorúrovú fajku, na hlavu vydrový klobúk asi tej podoby, ako   čikóši nosia, na pol pleca kapseľu á la botanista a na všetko toto   jeden predpotopný čiže karbonársky sedemdesiatsedemgolierový kepeň -i   stúpal som za Ružanom…
+   </tei:p>
+   <tei:p>
+    Kam?… Do slávnych miest Bryndzovej, Lojnice, Škrupiny, Kyselnice -   a bohvie, ako sa všetky dľa nebeského černokňažníka volajú… Načo?…   Vidieť divy a zázraky terajšieho sveta, ktoré sa v týchto slávnych   mestách ako v strediskách nakopené nachádzajú; zdokonaľovať sa v   národopise, skúmať nový, kryptogamický a odrazu ako hríb na dejište   sveta pod menom „Tótmagyar“ vystúpivší národ v jeho velikánskych   cieľoch, odvodzujúcich ideu všesvetovej slobody z nutnosti   odnárodnenia.
+   </tei:p>
+   <tei:p>
+    A vskutku, skusby naše boli a sú veľadôležité! Zdalo sa mi, že som   v Austrálii, kde všetko naopak ako v Európe. Tu podlosť znamená   charakter, anarchia poriadok, závislosť autonómiu, zrada vlasti   milovanie národa, alebo naopak, slovom - obrátený svet: kde zver   lieta, vtáctvo na štyroch chodí, ryby v povetrí plávajú, oheň tečie a   voda blnká atď. atď. Každý si môže predstaviť dojmy, ktoré pôsobili   na mňa pri tomto opačnom poriadku vecí. Spočiatku mi bolo trochu   divno okolo srdca… Keď som sa však hlbšie zahrúžil do stavu vecí a   pozornejšie skúmal túto mimoriadnosť - tu som sa zrazu ocitol v tom   presvedčení, že tieto kraje pochopili opravdivú filozofiu a určenie   života… že tento ľud skutočne sa opeká na úslní tých právd, ktoré   jedine blažiaco pôsobia, nie síce na ducha - ale na bruchá: že   vynašiel kameň mudrcov, žiť a hniť v pokoji; dať sa obliekať v lesk a   slávu cudzoty ako kavky v pávie perá; sadať do tône pustatín a tam   držať siestu ako blažení lazaróni v utešenom Neapole.
+   </tei:p>
+   <tei:p>
+    Hoj! Je to národ, čo pochopil svoje určenie!… Je to - ale hop!   zablúdil som, sám neviem kam, a ako sa vymocem… Nie je to ani žart,   vrátiť sa z tohoto Kanaánu, kde sa i Ružanov spleen na slnku   opísaných mimoriadností roztopil, naspäť do nášho prozaičného Egypta;   z toho Kanaánu, v ktorom by sme snáď i teraz blúdili, keby nám boli   trvali groše, táto jediná modla opisovaných krajov. Kým sme v   sprievode týchto bôžikov v zasľúbenej tejto zemi turistovali, nemala   úcta naproti nám koncakraja; korili sa, klaňali sa nám ako zlatému   teliatku.
+   </tei:p>
+   <tei:p>
+    Prišiel Mojžiš v podobe núdze, stroskotal teľa - a modlári sa   rozpŕchli, schovali sa do svojich dier ako rozprášené myši; a my   turisti leteli navýlomkrky - kam? -Ďaleko, ďaleko… až na Detvu!
+   </tei:p>
+   <tei:p>
+    Detvu, Detvana a Detvianku náš neporovnateľný Sládkovič tak   pôvabne opísal, že nám nikto nemôže mať za zlé, keď sme videli v   každom šarvancovi ideál slovenského šuhaja, Martinka, v každej   dievčine zosobnenú Elenku… V zjave tých utešených krás či velebnej   prírody a či utešených rýdzoslovenských postáv, zabúdali sme na naše   vyčerpané, vysušené vačky, na žalúdky stenajúce ako prázdny mechúr,   roztrhané boty atď...
+   </tei:p>
+   <tei:p>
+    Stáli sme nad Detvou vo vytržení ako Vasco Nuňez de Balboa navrchu   panamskej úžiny, pozerajúci prvý z európskych smrteľníkov na   velikánsky šíroširoký Tichý oceán...
+   </tei:p>
+   <tei:p>
+    Ružan rozprestrel ruky na spôsob veličenstva pána kráľa, ked   pri korunovácii na kopni máva mečom vo štyri sveta strany, ako čo by   sa i on - totižto Ružan - bol chcel položiť do skutočného majetku   detvianskeho údolia.
+   </tei:p>
+   <tei:p>
+    Ja som sa díval cez zelené, prachom zapadnuté okuliare ako v   apatéke v zelenej sklenke zatvorený had, ktorému sa všetko vidí -   žltým...
+   </tei:p>
+   <tei:p>
+    „Detva!“ vydýchol Ružan.
+   </tei:p>
+   <tei:p>
+    „Syr a žinčica!“ zvolal som ja.
+   </tei:p>
+   <tei:p>
+    Môj spoludruh pozrel na mňa opovržlivo ako asi Don Quijote na   Sancha Pansu, keď mu tento rozprával o svojej výprave k Dulcinei z   Tobosa - ktorú miesto diamantov našiel žito osievať.
+   </tei:p>
+   <tei:p>
+    „Nechápeš zmysel môjho výkriku, ty si prozaický chlebár!“ zavolal   potupne, ako čo by on z povetria žil.
+   </tei:p>
+   <tei:p>
+    „Brrr!“ pomyslel som si, „to je pekné! Jedným som romantik, druhým   chlebár! Rád bych vedel, ako sa tieto dva extrémy môžu sústredovať v   jednej osobe!“
+   </tei:p>
+   <tei:p>
+    Ale nahlas nepovedal som nič; zostupoval som dolu kopcom za ním,   totiž merníkom, ktorý miesto trigonometrických punktov skúmal zvedavé   tváre popri nás prechodiacich devíc, skutočný prototyp filozofujúceho   Schillera, keď básnil, a naopak.
+   </tei:p>
+   <tei:p>
+    Keď sme mali vkročiť do mesta, zastane pán merník i padne do   nasledujúceho extrému:
+   </tei:p>
+   <tei:p>
+    „Stano! Máš dáke groše?“
+   </tei:p>
+   <tei:p>
+    „Ani babky!... V Slatine sme prebryndzovali ostatný halier...“
+   </tei:p>
+   <tei:p>
+    „To je zle… ostatne Detva je vzor Slovenska; istotne nás tu čaká   opravdivé pohostinstvo.“
+   </tei:p>
+   <tei:p>
+    V očakávaní detvianskeho potvrdenia tejto slovenskej cnosti   škúlili sme do dvorov, či sa na prahoch domov nezjavia sivooké device   s plnými črpákmi sťa rusovlasé rusalky, a chytiac nás, nezaveslujú s   nami ku stolom, bohato naloženým darmi slovenskej prírody?...
+   </tei:p>
+   <tei:p>
+    Ale v Detve bolo ticho!... Pusté dvory a domy ako úle, z ktorých   sa všetky včielky do ostatnej vyrojili.
+   </tei:p>
+   <tei:p>
+    Nás dákosi zaujala clivá predtucha; zabudli sme, že obyvateľstvo   Detvy v lete žije z väčšej časti v poli po salašoch. Naostatok sme   zazreli jednu staruchu.
+   </tei:p>
+   <tei:p>
+    „Tetka! Či by ste nemali dačo zjesť…?“ dopytoval som sa napnutým   hlasom.
+   </tei:p>
+   <tei:p>
+    Tetka otvorila zvedavé, zuboprázdne ústa, spráskla rukami a hybaj   v útek …
+   </tei:p>
+   <tei:p>
+    „Pekne sme!“ zhomrali sme oba; i mrzelo nás, i bolo nám do   smiechu.
+   </tei:p>
+   <tei:p>
+    Čo tu robiť? Hm, čo tu robiť? To je tá otázka, čiže quadratura   circuli…
+   </tei:p>
+   <tei:p>
+    Ani známosti, ani grošov; kam sa pustíš, biedny človeče? Merník,   ako idealista, pozrel hore k nebu; ja, ako chlebár, k zemi istotne   oba v nádeji rozlúštenia otázky, načítanej v mysli našej v podobe   dolnozemského kútágašu:
+   </tei:p>
+   <tei:p>
+    „Kútágasra szállott a sas,
+   </tei:p>
+   <tei:p>
+    engem, rozsám, ne csalogass,“
+   </tei:p>
+   <tei:p>
+    zanôtil som si šepmo, aby ma môj spoludruh nepočul pri pomyslení   nevyspytateľnej otázky nášho problematičného obeda.
+   </tei:p>
+   <tei:p>
+    On nato takže nôtil refrénom, bárs len sám v sebe, aby ho ani ja   nepočul:
+   </tei:p>
+   <tei:p>
+    „Die Stunde naht, wo Busch und Hag
+   </tei:p>
+   <tei:p>
+    erttint vom Nachtigallenschlag…“
+   </tei:p>
+   <tei:p>
+    Ozaj! Ako čo by skutočne len z ideálnej ľúbosti chcel žiť . . Zo   spevu sa človek nenaje, to je starodávna a všeobecná pravda; a   pretože je všeobecná, pocítili sme ju i my, a preto prestanúc sami v   sebe nôtiť - oba razom dákousi netušenou odhodlanosťou nadchnutí,   zamierili sme kroky do jedného väčšieho, úhľadného, naprostred Detvy   ležiaceho stavania, v ktorom sme vetrili pohostinného majiteľa.
+   </tei:p>
+   <tei:p>
+    Vstúpili sme smelým krokom dnuka - a v tom okamihu cúvali sme   spiatky.
+   </tei:p>
+   <tei:p>
+    Ocitli sme sa boli vo veľkej sieni, vystrojenej dlhočiznými   tablami a latami ošrankovanou kavetrou - vulgo, v krčmovej   korheľni.
+   </tei:p>
+   <tei:p>
+    Čo nás k tejto retiráde pohlo, uhádnete každý, komu je známe to   porekadlo: „Bez penez do jarmoku nelez!“
+   </tei:p>
+   <tei:p>
+    Korhelňa zdala sa prázdnou, mysleli sme teda, že sa nám   spätkovanie vydarí bez toho, žeby to dakto spozoroval.
+   </tei:p>
+   <tei:p>
+    Ale -človek mieni, pán boh mení.
+   </tei:p>
+   <tei:p>
+    Ružan - ktorý ako merník, nasledovne i staviteľ, skúmal trochu   dlhšie, ako to naše uskočenie požadovalo, smelú drevenú klenbu   korheľne - veslujúc očami po sieni, zbadal niečo, čo ho prikovalo ku   krčmovej dlážke sťaby klincom.
+   </tei:p>
+   <tei:p>
+    Ja som už bol preskočil Rubikon, t. j. prah, nasledovne nevidel   som nič.
+   </tei:p>
+   <tei:p>
+    „Za mnou sa, Ružan, kým nás nik nebadá!“ súril som ho.
+   </tei:p>
+   <tei:p>
+    „Oh, oh!“ znela jeho odpoveď tak clivo prednesená, že by   polomŕtveho bola zvedavosťou naplnila.
+   </tei:p>
+   <tei:p>
+    Pozriem ta dnu a ač cez zaprášené zelené okuliare -predsa vidím…   áno, skutočne vidím úkaz a zjav vznášajúci sa v podobe bohyne Héby s   pivovým pohárom oproti Ružanovi, užasnutému týmto ľúbym výjavom.
+   </tei:p>
+   <tei:p>
+    Teraz som už i ja zastal na prahu dvier ako prikovaný. Fatálna   situácia! Po slovensky: osudné položenie! Nevdojak pripadol mi na   mysel Buridanov osol, nachádzajúci sa v rovnakej vzdialenosti   medzi dvoma viazaničkami sena, ktorý pretože sa ani k jednej ani k   druhej dľa pravidla rovnakej príťažlivosti nemohol približiť - medzi   oboma hladom zhynul. Tam pivo kredencované bohyňou - tu prázdny vačok   - brrr!
+   </tei:p>
+   <tei:p>
+    Ja som síce stál obdaleč, ale Ružan!…
+   </tei:p>
+   <tei:p>
+    Čo asi on cítil a myslel, to som v tom okamžení poznať nemohol;   ale jestli je pravda, čo mi pozdejšie vytajil - myslel i on na   Buridanovho osla, cítil i on jeho položenie, lenže potencovaným   spôsobom.
+   </tei:p>
+   <tei:p>
+    Našťastie mala detvianska Héba iba jeden pivový pohár v ruke.   Pretože som teda videl, že pri Ružanovom smäde by sa mne sotva dačo   dostalo, a pretože je závisť, keď je človek smädný a hladný,   najväčšia - a pretože som verný prívrženec toho porekadla: „Keď nie   mne, tak ani tebe,“ skočil som medzi oboch, t. j. medzi Ružana a   pohár, oboriac sa na spoluturistu vyčítavým hlasom takto:
+   </tei:p>
+   <tei:p>
+    „Čo to, Ružan? Zabúdaš, kde sme a čo sme?… Pospieš za mnou, kým   nás nik inší nezbadá! Táto ladoňka nás azda neprezradí nikomu…“
+   </tei:p>
+   <tei:p>
+    Na tieto, ako sám už teraz uznám, trochu nejasné slová vykríkla   naša bohyňa, spráskla rukami a z nich vypadnuvší pohár sa k nemalému   nášmu žiaľu roztrieskal na tisíc kusov a my, ač prestrašení týmto   nečakaným výjavom, viacej sme ľutovali obsah pohára ako sklo.
+   </tei:p>
+   <tei:p>
+    „Oni sú! . . Skutočne oni!“ zajasala Héba názvukom netajenej   radosti, ktorým však i dáka obava povievala, a chytiac nás,   zarazených jej nepochopiteľnými slovami, za ruky, ťahala nás za sebou   ako matička študentov synkov, keď sa jej po dlhom roku zo škôl domov   vrátia.
+   </tei:p>
+   <tei:p>
+    „Tá sa zbláznila!“ myslel som si a mráz ma prechodil; cítil som   však potrebu vyhovoriť sa dáko, i riekol som nahlas:
+   </tei:p>
+   <tei:p>
+    „Azda nás za druhých uznávajú?… My sme…“
+   </tei:p>
+   <tei:p>
+    „Pst! Ani slova ďalej !“ vetila ona, položiac mi bielunkú rúčku na   ústa. „Eh, ja viem, kto ste… a ja vás neprezradím!“
+   </tei:p>
+   <tei:p>
+    „Poručeno bohu!“ pomysleli sme si a pozrúc významne jeden po   druhom, stúpali sme za ňou.
+   </tei:p>
+   <tei:p>
+    Voviedla nás do jednej obďalečnej, utešene vystrojenej chyžky; na   prvý pohľad zbadali sme, že je to jej vlastná izbietka, tak milo,   nežne, čisto, až skvostne vyzeralo všetko.
+   </tei:p>
+   <tei:p>
+    „No, tu sme! Tu nás istotne nik hľadať nebude!“ preriekla   strieborným hlasom, bežala k oblokom, spustila husté, ťažké záclony,   zapálila sviečky, a s milým úsmevom pošepnúc: „Do videnia,“   pospiešila von, zarígl dvere.
+   </tei:p>
+   <tei:p>
+    „Kde sme?… Čo sa to s nami robí?… Za koho nás drží tá kráska?…“   spytovali sme sa jeden druhého, keď sme sami zostali.
+   </tei:p>
+   <tei:p>
+    „Stano!“ prehovoril merník vážne, „tu na nás čaká nejaké   tajomstvo…!“
+   </tei:p>
+   <tei:p>
+    „Mhm! Tajomstvo!… Verím, ale aké? Nás nik neprenasleduje, iba ak   hlad a smäd, a hostinská nás istotne drží za prenasledovancov a preto   nás sem skryla…“ vetil som, lámajúc si hlavu na príčine nášho   zatvorenia.
+   </tei:p>
+   <tei:p>
+    „Istotne sa s jej vedomím stal dáky zločin…“ mudroval Ružan   ďalej.
+   </tei:p>
+   <tei:p>
+    „Ach, s jej vedomím?“ divil som sa.
+   </tei:p>
+   <tei:p>
+    „Pravdu máš! To je nemožné; bo veď je v zovnútornej podobe anjel,   a v tak krásnom tele diabol nemôže sídliť…“ vyvracal sa sám pán   idealista.
+   </tei:p>
+   <tei:p>
+    „Pri tom všetkom zatvorila nás, a bohvie, či nám dakedy i otvorí a   my tu hladom môžeme pohynúť…“
+   </tei:p>
+   <tei:p>
+    „Eh! Veď sme nie v Španielsku ani v Paríži v osídlach dákej   Messaliny!“ potešoval ma Ružan trochu trasľavým hlasom.
+   </tei:p>
+   <tei:p>
+    „Ale sme v Detve!“ vetil som so strachom, pripomenúc si per   associationem idearum strašné smrti nešťastníkov, o ktorých nám   rozprávajú Suove a Vidocqove „Mystéres du Paris“.
+   </tei:p>
+   <tei:p>
+    „Na moj veru! Detvianski chlapci i poza bučky chodia; ktovie, či   je naša Circe nie s nimi v porozumení…?“
+   </tei:p>
+   <tei:p>
+    „Ktovie, či nás sem neprilákala, aby nás, nádejajúc sa množstvu   peňazí u nás, dala tu nevinne povraždiť, nevinne, povedám, lebo   jednako nemáme ani babky…“
+   </tei:p>
+   <tei:p>
+    Sotva som toto vypovedal, chytili sme oba po jednej sviečke, i   dali sme sa do vyšetrovania chyžky; pod posteľami, kanapou, v každom   kúte po celej podlahe hľadali sme skrytých banditov abo aspoň škvrny   krvi - úplne súc presvedčení, že sme vliezli do detvianskej   pasce.
+   </tei:p>
+   <tei:p>
+    Nenašli sme nič, ani za prach podozrivého; pri tom všetkom sa naša   rozdráždená obrazotvornosť nedala utíšiť.
+   </tei:p>
+   <tei:p>
+    Spiechali sme k oblokom… Nerozumejúc sa do kolieskového ústroja,   nevedeli sme ťažké záclony vykrúžiť dohora.
+   </tei:p>
+   <tei:p>
+    Strach a núdza veľký majster!… Ja som vytiahol perorez a   nepomysliac, že záclony nie sú moje, spravil som jedným rezom škáru,   ktorou sa vonkajšie svetlo valilo k nám dnu oblokom.
+   </tei:p>
+   <tei:p>
+    Oh, oh, na oblokoch boli husté, hrubé mreže!…
+   </tei:p>
+   <tei:p>
+    „Vylámme dvere!“ šepkal som v smrteľných úzkostiach merníkovi.
+   </tei:p>
+   <tei:p>
+    „Hm!“ odpovedal tento s flegmou ľadovou od nepokoja. „Hm! Keď   jedny vylámeš, zabijú ťa v druhých, bo vieš, že sme jedno päť dvier   prešli.“
+   </tei:p>
+   <tei:p>
+    „Teda kričme von oblokom o pomoc…“
+   </tei:p>
+   <tei:p>
+    „V Detve ani ducha, kto ti príde na ratu?“
+   </tei:p>
+   <tei:p>
+    Letel som ku škáre na záclone spravenej, škúlil som von, chtiac   vysliediť niekoho - a skutočne, radosť nad radosťou! V oči moje   zablysli - žandárske šišaky a bodáky!…
+   </tei:p>
+   <tei:p>
+    „Žandári idú!“ vykríkol som, sám neviem, akým hlasom, i obrátil   som sa víťazne k Ružanovi.
+   </tei:p>
+   <tei:p>
+    V tom okamihu otvorili sa i dvere; s usmevavým, lež malý nepokoj   prezrádzujúcim pohľadom zjavila sa v nich naša Circe… Istotne čula   môj výkrik, bo za sebou zamkla zdnuka dvere.
+   </tei:p>
+   <tei:p>
+    „Pravda je, žandári idú!… Ale nebojte sa, tu vás nenájde nikto!“   tešila nás práve tým, čoho sme sa najväčšmi obávali, totiž, že   vykerujeme pozornosť týchto strážcov bezpeče.
+   </tei:p>
+   <tei:p>
+    „Ale, prosím, za koho nás ráčite držať?… My nemáme ničoho, my sme   chudobní,“ začal sa Ružan vyhovárať; nedopovedal však, už mu skočila   do reči:
+   </tei:p>
+   <tei:p>
+    „Eh, viem ja to!… Kdeže by ste i nabrali po takej dlhej ceste   potrebných prostriedkov?… Však ste vyhladli, vysmädli?… Úbohí!… Koľko   musíte za nás trpieť!“ štebotala ďalej, i chytila sa prikrývať   stôl.
+   </tei:p>
+   <tei:p>
+    „Tá sa lebo zbláznila, alebo nás za bláznov má!“ mysleli sme si   trochu uspokojenejší, vidiac neklamné prípravy k obedu, ktorý sa   tuctom tanierov predzvestoval ako znamenitý.
+   </tei:p>
+   <tei:p>
+    Pri tom všetkom pokúsil som sa ešte ja o jeden spôsob objasnenia   našej záhadnej situácie - a keď sa to podarí - úteku.
+   </tei:p>
+   <tei:p>
+    „Pani moja!“ začal som lichotiacim hlasom. „Ako vidíte, my sme   cestovatelia, lež - žiaľbohu! -nemáme pasy… a ked nás   žandarméria zvetrí, nastúpime cestu ta, kam by sme vonkoncom   nechceli; jestli teda máte s nami zľutovanie, poprajte nám miesto   pohostinstva spôsob k tajnému úteku.“
+   </tei:p>
+   <tei:p>
+    Ona začala uvažovať, myslel som si, už ju máme, už budeme hneď   bárs i lační, ale predsa na slobode.
+   </tei:p>
+   <tei:p>
+    Miesto odpovede na moju, a ako som to z Ružanových očí videl, i   jeho prosbu - zaliali ju slzy… „Oh, bože môj!“ šepkala zajakavo. „Vo   dne nemožno preč, bo čakajú na vás, a keď padnete žandárom do rúk, je   celý plán prezradený…“
+   </tei:p>
+   <tei:p>
+    „Aký plán, čo za plán?“ spytovali sme sa prestrašene. Neveríte mi?   Ja vás poznala hneď; ja viem, že sa strojíte cez hory a doly do   Kokavy; že tam máte byť ešte tej noci, že tam vás čaká odpočinutie a   ďalšia úloha… no, či nie je tak?“
+   </tei:p>
+   <tei:p>
+    „Pane bože! Skade tá vie naše najtajnejšie úmysly?!“ ozvalo sa v   nás, ktorí sme skutočne ešte v Slatine boli uzavreli, že cez Detvu   prosto horami a dolami pospiešime si do Kokavy k mojej rodinke, a tam   si odpočinieme po našich turistických trampotách.
+   </tei:p>
+   <tei:p>
+    Zbadala i ona naše prekvapenie, a akoby ju to zármutkom bolo   pohlo, že jej azda nedôverujeme, doložila ráznym tónom:
+   </tei:p>
+   <tei:p>
+    „Páni! Nateraz ste v mojich rukách; za váš bezpek pred našincami   musím ja ručiť, nasledovne podrobiť sa vám treba mojim poriadkom.   Akonáhle sa zotmie, dám vám bezpečný sprievod, a vy ste do rána   tajnými cestami istotne v Kokave.“
+   </tei:p>
+   <tei:p>
+    S týmto, nečakajúc našej odvety - ktorá by na jej nepochopiteľné   slová a plány istotne bola vypadla smiešne, asi tak, ako päsť na oko   - pobrala sa von, opätovne zamknúc za sebou dvere.
+   </tei:p>
+   <tei:p>
+    Aké asi city nami lomcovali, to rozlúštiť nechávam tomu, ktorý na   smrť odsúdený stál už pod šibenicou, ale predsa očakával pardon.
+   </tei:p>
+   <tei:p>
+    „Tá sa v nás mýli, ako my v nej !“ ozval sa naostatok Ružan a   vrhol sa s úplnou rezignáciou na pohovku.
+   </tei:p>
+   <tei:p>
+    „A skadeže vie náš tajný úmysel pobrať sa stadiaľto prosto do   Kokavy?… Nech som dobrý!… Tá je istotne veštica!“
+   </tei:p>
+   <tei:p>
+    „Bah, nedbám!… Ale sa jej musí dať, že je pekná, a úprimne   vyznajúc, neľutujem, že sa tu zabavíme do večera; ba ako vidieť, má i   vzdelanie i ducha!“
+   </tei:p>
+   <tei:p>
+    „Do večera!… Nuž a či si nečul, že nám dá sprievod, istotne   chlapov, ktorí nás dakde v Malinských horách skutočne znesú zo   sveta…?“ namietal som Ružanom, rozdráždený jeho chválou neznámej   hostiteľky.
+   </tei:p>
+   <tei:p>
+    „Pletky! Veď si počul, že musí za nás ručiť; nasledovne…“
+   </tei:p>
+   <tei:p>
+    „Ručí! Komu ručí?… Vraj našincom! Kto sú tí našinci?,“ tak som sa   rozhorlene dopytoval a bol bych sa i ďalej, keby vtom nebola vkročila   do chyžky naša už teraz skutočná hostiteľka s misou v rukách, z   ktorej sa s milým zápachom valila do našich nozdier vonná para   chutnej polievky.
+   </tei:p>
+   <tei:p>
+    Pri pohľade na tento utešený zjav umĺkol razom i vo mne všetok   strach a nedôvera.
+   </tei:p>
+   <tei:p>
+    Na nemé, lež milostné jej ponúkanie, sadli sme k stolu, a oddajúc   sa smačnému požitku polievky, zabudli sme na naše väzenie, na   žandárov, na útek… ba, bože, odpusť ťažké hriechy! – i na ňu.
+   </tei:p>
+   <tei:p>
+    Ju to ani zamak nemýlilo; ba zdalo sa ju tešiť, že sa tak ticho   chováme, čo ináč ani nemohlo byť, bo veď s plnými ústami hovoriť   nemožno - a hladný, keď sa k jedlu dostane, bárs by v akých trapiech   bol, predsa vyjasní čelo.
+   </tei:p>
+   <tei:p>
+    Iba keď už misa bola prázdna, pozreli sme hore k nej - lež ona   bola zmizla.
+   </tei:p>
+   <tei:p>
+    „Oh, ešte dôjde niečo!“ prorokovali sme si, a skutočne došlo a   dochádzalo v podobe mäsa, znamenite a ústrojne garnírovaného   „cušpajzu“ vo vábivom tvare „hajdukáposzty“, hurkami a klobásami   ovenčenej, múčnika vo forme hadovitopokrútenej hrozienkovej sladkej   štrúdle, pečienky v utešenom zjave jedného bohato vyšpikovaného asi   pät kapúna, k tomu cifrované alačkanské víno, ktorého   každá kvapka - a bola ich na tisíce - sa v nás v rozihranú krv   menila, potom ľúbezný úsmev hostiteľky, ktorá nemo síce a vždy s   potrebnou opaterou zamkýnania dvier sa nám čas po čase zjavovala,   prinášajúc hore spomínané smačne ustrojené jedlá…
+   </tei:p>
+   <tei:p>
+    Oh, predstavte si všetko to, a nebude vám divné, že ačpráve nad   nami visel Damoklov meč nemožnosti zaplatenia tohoto skvostného   nezaslúženého obeda, zabudli sme na strach a na neistotu nášho   položenia, a rozjarení ohnivým vínkom, upierali sme ľubou rozžiarené   zraky na našu milostnú Hébu, ktorej sme nepoznali ani stav, t. j. či   je ženou, vdovou, a či ešte pannou.
+   </tei:p>
+   <tei:p>
+    Ružan, ako už najedený idealista a majster v krásnych, vysoko   lietajúcich slovách, odhodlal sa prvý k nadpradeniu milostného   rozhovoru v tom momente, keď nás opravdivou mokkou a „importiert“   cigarami ponúkla.
+   </tei:p>
+   <tei:p>
+    „Milosťpani!“ začal hrkútajúcim ako holub hlasom a s tak ľúbostným   výrazom tváre, že som podobný na ňom ani predtým ani zatým   neznamenal. „Milosťpani, vaša pohostinnosť je tak veľká, že prevyšuje   všetky bájky o podobnej cnosti Arabov a druhých východných národov;   dôkazom je toho, že sa táto cnosť na našom krásnom Slovensku v   najväčších, doteraz netušených rozmeroch zjavuje.“
+   </tei:p>
+   <tei:p>
+    „Nech povedia v Uhorsku!“ zamiešala sa ona.
+   </tei:p>
+   <tei:p>
+    „Kde cena, kde poklady, ktoré by sme vašej milosti za túto   pohostinnosť k nohám položiť mohli...?“ pokračoval ďalej Ružan,   nedajúc sa konfundovať. „Oh, nech ráči milosťpani prijať   najvrúcnejšie vďaky oboch.“
+   </tei:p>
+   <tei:p>
+    „Tichšie, prosím, lebo vás žandári počujú!“ zvolala ona, a ako   prestrašená srnka ponáhľala sa ku dverám a tam ešte zahrozením ruky   dajúc váhu svojim výstražným slovám, zmizla a nás opäť zamkla.
+   </tei:p>
+   <tei:p>
+    Nevracala sa dlho; vo mne, bárs som bol hojným užitím vína a mokky   rozbujarený, povstávali nové pochybnosti a rozmýšľal som, že by   teraz, keď sme sa najedli a napili, najlepšie bolo vzdor všetkým   svetským žandárom a Hébam, nečakajúc večera a sľúbeného sprievodu -   pekným spôsobom sa odpratať.
+   </tei:p>
+   <tei:p>
+    Ružan v blahom pokoji odfukoval dym „import“ cigary, a zdal sa   blúdiť v krajoch ním spomenutej Arábie v šiatroch pohostinných   Beduínov v kole rajských odalisiek…
+   </tei:p>
+   <tei:p>
+    „Ale ako zaplatíme?“ pretrhol som dosť prozaicky tok jeho   rozihranej obrazotvornosti -a nemýliac sa jeho zazrením, doložil som:   „A ako sa dostaneme von…?“
+   </tei:p>
+   <tei:p>
+    Z letov svojich do skutočnosti nášho položenia zronený merník   obdaril ma takým pohľadom ako tiger, keď ho guľa neskúseného strelca   strašne poraní opovržlivo sa usmial a viac sebe ako mne s emfázou   vetil:
+   </tei:p>
+   <tei:p>
+    „Zaplatiť?! Neubližujme pomyslením na to anjelovi, ktorý Habakuka   sýtil a ktorý sa nám v podobe našej hostiteľky nie v Starom zákone,   lež v mladistvom rúchu skutočnosti zjavil… ktorý uhádol, nielen čo   chceme, lež i čo myslíme… ktorý…“ bol by Ružan blúznil ďalej, keby mu   príchod nášho, ako teraz uznám, skutočného anjela nebol pretrhol niť   jeho rozvlnenej obrazotvornosti.
+   </tei:p>
+   <tei:p>
+    „Chvalabohu, už som i tých opatrila! Ani v myšlienke nemajú, že by   ste vy, páni, v ich susedstve boli… len prosím vás, ticho, kým sa   neodpracú alebo nepospia, bo som im tým najtuhším vínom poslúžila…“   potešovala nás veselým rozmarom i sadla si k nám na pohovku.
+   </tei:p>
+   <tei:p>
+    „Koho, prosím, koho ste ráčili opatriť?“ dopytoval som sa vzdor   merníkovým žmurkaniam.
+   </tei:p>
+   <tei:p>
+    „Koho?… Nuž veď viete, vašich prenasledovateľov - žandárov!“   vetila trochu zmätená mojou nečakanou otázkou.
+   </tei:p>
+   <tei:p>
+    „Tak či nás prenasledujú? Prečo! Veď sme my nikomu nič   neurobili…!“ dotieral som ďalej.
+   </tei:p>
+   <tei:p>
+    „Oj, páni, ako sa mi zdá, vy doteraz nemáte ku mne dôvery, akoby   ja nevedela cieľ vašej púte, akoby vás ja zradiť mohla!… Ja, čo som   horlivá vlastenka…!“
+   </tei:p>
+   <tei:p>
+    Ružanovi začalo svitať, aspoň sa mi tým pozdejšie chválil; no ja   som ju nerozumel.
+   </tei:p>
+   <tei:p>
+    „Áno, páni, nebojte sa zrady!“ pokračovala ďalej tak presvedčivo,   že som jej uveril, čo i nechápal som, aký náš skutok by mohla pomstiť   zrada. „Na otázky žandárov, ktorí sú o vašej ceste poučení, odsekla   som, že vás tu niet, že vás tu nebolo, že vám podobných ľudí nikdy   som nevidela a nepoznám… Šťastie, že ma o vašom príchode môj manžel z   Prešporka skôr upovedomil, ináče sama neviem, čo by sa bolo   stalo!“
+   </tei:p>
+   <tei:p>
+    „Oh, anjel drahý! Akože sa vám za vašu dobrotu odslúžime?“   vykríkol nadšenosťou ľuby rozčúlený Ružan, bárs sám nechápal dočista   jej slová; i klonil sa jej - nie k nohám, ako som sa skutočne nazdal   -lež k bielej rúčke, i pritisol na ňu tak vrelý bozk, že i moje   srdce, keď nie súcitom, teda závisťou splápolalo.
+   </tei:p>
+   <tei:p>
+    Nebožiatko hostinská zapálila sa ako pivónia, keď sa jej puk   rozvinie; lichotivé a sladké slová Ružanove zdali sa jej milé; ač   myslím, že keď zvie vlastne, kto sme my, a že nie sme tí, ktorých jej   manžel z Prešporka pripovedal, ukáže nám vnady a črty, aké sme v jej   krásnej tvári ani netušili.
+   </tei:p>
+   <tei:p>
+    Povstala v roztomilých rozpakoch; mysleli sme, že nás opäť chce   nechať, a ja som ju poznovu mienil osloviť, aby nás už spánombohom   vzdor všetkým žandárom prepustila - keď vzala na posteli ležiacu   gitaru do rúk, preludovala chvíľku, až smutným, nadmier pôvabným   tónom začala spievať:
+   </tei:p>
+   <tei:p>
+    „Vissza, vissza szép hazám óledbe,
+   </tei:p>
+   <tei:p>
+    hutlenul én el nem hagytalak!“ atď.
+   </tei:p>
+   <tei:p>
+    Trúchlivý a v zvučnej reči maďarskej dojímavo prednesený spev nás,   mocným vínom rozohriatych, poznovu pomútil. Smútočný výraz jej tváre,   hlboký žiaľ v modrých očkách utkvený, tá piesňou povievajúca bôľna   túha nešťastného poľského vyhnanca po milej domovine, naše záhadné   položenie, slovom, celá scéna vo dne v tajnej izbietke šumnej   krásavice millysviecami ožiarená budila v nás city - v Ružanovi, ako   mi potom vyznal, netušenej ľubosladi, vo mne… ach, vo mne sám neviem   – čoho…
+   </tei:p>
+   <tei:p>
+    Dokončiac spev, podala gitaru Ružanovi, ako čo by s istotou bola   vedela, že je i on na tom dosť tupo znejúcom nástroji majstrom…
+   </tei:p>
+   <tei:p>
+    On, rozčúlený jej milostne prosebným pozorom, nedal sa dlho núkať,   spravil ohebnými prstami pár akordov, i začal svojím hlbokým   barytónom sprevádzať hudbu:
+   </tei:p>
+   <tei:p>
+    #POEZIA#
+   </tei:p>
+   <tei:p>
+    #I#Ginie ojczyzna, juž na przepaść leci,
+   </tei:p>
+   <tei:p>
+    žegna vas maci ukochane dzeci;
+   </tei:p>
+   <tei:p>
+    próžna nadzieie i pochlebne mysli,
+   </tei:p>
+   <tei:p>
+    na což šmy teraz my Sarmaci vyszli, atď.#-I#
+   </tei:p>
+   <tei:p>
+    #-POEZIA#
+   </tei:p>
+   <tei:p>
+    „Tí si skutočne porozumeli!“ pomyslel som si, vidiac, s akou   nadšenosťou načúva naša hostitel zvučnému hlasu a spevu môjho   spoludruha, ako túžobne sleduje zúfalé slová piesne, ako sa perlia   jej tvárou slzy; a aby som do zblúznenia i sám nepadol, pospiešiac k   obloku, pozeral som škárou záclony von na biely deň - ba čo povedám!   - na zlaté pruhy zapadajúceho slnka, v ktorých sa ligotali šišaky a   bodáky neistým krokom odchádzajúcich žandárov.
+   </tei:p>
+   <tei:p>
+    Mal som vôľu na nich, t. j. na žandárov kričať - vtom ma však   potrhol dakto, a ja spešne sa obrátiac,vidím pred sebou stáť našu -   Hébu.
+   </tei:p>
+   <tei:p>
+    „Ha, čo to? Diera na záclone?“ zvolala prestrašene, vidiac, ako sa   ňou vkráda do izbietky ostatná žiara slnka.
+   </tei:p>
+   <tei:p>
+    „Oh, prosím!“ začal som sa vyhovárať.
+   </tei:p>
+   <tei:p>
+    „No, svetlo sviec snáď nik nespozoroval, tým menej vás!“   uspokojovala sa, a kuknúc von škárou, zvolala:
+   </tei:p>
+   <tei:p>
+    „Ah, predsa už odchádzajú, a to domov, cestou ku Zvolenu. Páni, už   ste skutočne v bezpečnosti!“
+   </tei:p>
+   <tei:p>
+    S tým sa zvrtla, tleskla rúčkami a pospiešila preč, zabudnúc v   svojej radosti i dvere za sebou zamknúť.
+   </tei:p>
+   <tei:p>
+    „No, braček, tu je čas k úteku! Dvere sú otvorené, teraz sa môžeme   ľahko von vykradnúť…“ prihováral som sa k zadivenému Ružanovi.
+   </tei:p>
+   <tei:p>
+    „Ujsť! Bez poklony ujsť…!“ vetil opovržlivo. „Neviem, ako tá chabá   myšlienka môže v tebe povstať.“
+   </tei:p>
+   <tei:p>
+    „Ale preboha! Akože jej zaplatíš?… Ja moje strieborné cylindrové   hodinky tu nechať nemám vôľu…“
+   </tei:p>
+   <tei:p>
+    „Zadrž si ich… keď bude treba, zaplatí môj - prsteň!“ odsekol mi a   obrátil sa ku mne chrbtom.
+   </tei:p>
+   <tei:p>
+    „Jeho prsteň?“ dumal som sám v sebe. „Iba až sa skutočne s ňou   oddávať chce; ale veď je to nemožné, veď ona má muža, čo je nateraz   priam v Prešporku.“
+   </tei:p>
+   <tei:p>
+    Už, už som sa odhodlal, že ho tam nechám v zálohu a sám vybŕdnem z   pasce, už som dvere otváral, chtiac mu len stamvon privolať „zbohom!“   - keď sa tieto rozlietli a dnu vstúpil -jeden siahovysoký Detvan s   veľkým posekáňom v ruke a náramným cedidlom na boku, z ktorého sa   fafrnce až dolu na zem opálali.
+   </tei:p>
+   <tei:p>
+    „Zaplatíme už za obed!“ zhomzral som predesený a reteríroval som   spiatky k taktiež zarazenému Ružanovi.
+   </tei:p>
+   <tei:p>
+    Ten sa v okamihu stolom obarikádoval a ja chytil stolec, že pri   útoku chlapiska ním ovalím.
+   </tei:p>
+   <tei:p>
+    „Pán boh daj šťastie. :Tak toto sú tí páni…?“ prihováral sa   ohromným hlasom Detvan.
+   </tei:p>
+   <tei:p>
+    „Áno, Fedor!“ zaznel za ním anjelský hlas našej hostiteľky, v   ktorom sa mi však dačo diabolsky zvučiaceho zdalo.
+   </tei:p>
+   <tei:p>
+    „No, teraz nás ovalí!“ mysleli sme oba. „Už nás zradila, ako Judáš   Krista Pána!“
+   </tei:p>
+   <tei:p>
+    Márne strachy. Detvan úctivo vzal dolu žltými klincami vybíjaný   velikánsky širák a zastal pokorne pri dverách.
+   </tei:p>
+   <tei:p>
+    I my sme sa zahanbene chytro postavili do predošlej situácie;   zahanbene povedám, lebo krásne očká pani hostinskej spýtavo, akoby   zadivene po nás pozerali.
+   </tei:p>
+   <tei:p>
+    „Oh, akí tu ohromní chlapi!“ začal som dosť nejapne zahovárať našu   bázeň, ktorú ona istotne spozorovala.
+   </tei:p>
+   <tei:p>
+    „Ako jedle!“ usmiala sa ona. „Ale verní, poctiví a zmužilí, na   ktorých sa možno bezpečne spoľahnúť, avšak, Fedor?“
+   </tei:p>
+   <tei:p>
+    Fedor pokýval hlavou, zabručal dačo a meral nás od hlavy až do   päty.
+   </tei:p>
+   <tei:p>
+    „Páni, už sa zmrklo… teda tu čas vášho odchodu. - Fedor vás   tajnými cestami cez noc odprevadí do Kokavy; zverte sa mu bezpečne a   prijmite moje vďaky za drahú návštevu vašu; upovedomte po šťastnom   návrate svojich vysielateľov, že i vstred našich vrchov vrelé srdcia   za ich ciele bijú!“ lúčila sa s nami a slzy jej hrali v očiach.
+   </tei:p>
+   <tei:p>
+    Sotva som svojim ušiam veril, vidiac, že nás skutočne prepúšťa;   ale ten chlap, ten posekáň, tie tajné cesty, hory, doly, tá čierna   noc - to ma všetko ešte konfundovalo.
+   </tei:p>
+   <tei:p>
+    Nie tak Ružana! Pristúpil k nej, pobozkal poznovu jej bielunkú   rúčku, sňal zo svojho malíčka obrúčku - a názvukom tak clivým, že som   v ňom dačo podobného ani netušil, podal jej ju s týmito slovami:
+   </tei:p>
+   <tei:p>
+    „Milosťpani! Od chudobných nateraz cestovateľov prijmite tento   maličký znak našej vďaky na pamiatku; bo keď ste sa v nás azda i   zmýlili, uhostili ste takých ľudí, ktorí vašu milosť povždy budú   spomínať s vďačným srdcom!“
+   </tei:p>
+   <tei:p>
+    Ona sa rozslzila, prijala dar, skryjúc ho za labutie ňadrá,   ukázala nemo k dverám, vrhla sa stukajúc na pohovku -a my poberali   sme sa von za naším sprievodcom do pustej tmavej noci…
+   </tei:p>
+   <tei:p>
+    „No, len keď sme na slobode:“ vydýchol som si sťažka, poberajúc sa   krásnym májovým večerom za Ružanom, ktorému som vďačne prepustil   prednosť stúpať za Detvanom. Hlavou sa mi zmietali všakové myšlienky,   nie inak ako v hrnci, v ktorom krúpy, zemiaky, petruška, mäso a čo ja   viem čo jedno s druhým vrie a brbloce. „To bolo dobrodružstvo!“   premietal som. „Takého azda už nedožijem… Ozaj, či je už pri konci?…   Ktovie, či sa tragicky neukončí?… Eh, ten Detvan, ten posekáň, tie   hory, tá noc…“ Všetko ma to trápilo; z druhej strany zase tá utešená   hostiteľka, ten skvostný obed, to výborné víno, tie opravdivé havanky   - nie, nie, nemožno, že by všetko to bol len medový motúz alebo lep,   na ktorý sme sadli. „Za koho nás asi držala?“ šepkal som polohlasom   predo mnou strmo kráčajúcemu Ružanovi. Ale ten neodpovedal nič ani na   opätovný príhovor a stúpal za Detvanom dalej. „Čo mu asi môže byť? Či   sa nebojí?… ale nie! Bo veď je sprievodcovi za pätami, bárs ten kráča   ako už raz spomenutý Peter Schlemihl… Či sa skutočne do detvianskej   Héby zaľúbil?… Ach, možno! Veď jej daroval, a to i v mojom mene,   obrúčku, furták! Akoby nevedel, že som ja už zasnúbený… Oh, aká   radosť žiarila mu z očí, keď videl, že ten zlatý prstienček za ňadrá   si kladie! Ba zdalo sa mi, že na jej slzy i on odpovedal so   zarosenými očami, bo veď sa mu tak blyšťali ako krištáľ, keď ho voda   skúpe . . . No, veď si pochodil, Ružan! Našiel si už raz svoj ideál…   Ale čože, keď zostane zas len ideálom?! Bo veď je vydatá, bo veď je   jej muž v Prešporku síce, ale sa istotne čím skôr domov vráti…“
+   </tei:p>
+   <tei:p>
+    Všetko sa mi to nieslo hlavou bez ladu a skladu a navrch myšlienok   sa naveky dostala tá otázka, za koho nás držal ten utešený anjel… Už   sme asi tri hodiny stúpali nemo cez hory a doly, cez poľany salašmi   Detvanov ovenčené; dostali sme sa už navrch k dákej v hore ležiacej   dedinke. Ukonaný i myslením i púťou, privolal som Fedorovi, aby   zastal, bo dalej ísť nevládzem.
+   </tei:p>
+   <tei:p>
+    „A veru dobre bude, páni! Zíde sa i vám dačo si zahryznúť; pani   hostinská naplnila plné cedidlo pečienkou, koláčmi a pár sklenkami   vína, pôjdeme dnu ku Vŕbiniakovi, však vás ten neprezradí.“
+   </tei:p>
+   <tei:p>
+    Pri tejto zvesti moje srdce splesalo.
+   </tei:p>
+   <tei:p>
+    „Ako sa volá táto dedina, Fedor?“ dopytoval som sa ho.
+   </tei:p>
+   <tei:p>
+    „Nuž, Látky !“
+   </tei:p>
+   <tei:p>
+    „Látky?! Či tu nie blízko huta - a nebýva tam pán Tverdý?“
+   </tei:p>
+   <tei:p>
+    „Eh, ba blízko je, na jedno strelenie…“
+   </tei:p>
+   <tei:p>
+    „No, odprevaďte nás ta, to je môj dobrý známy.“
+   </tei:p>
+   <tei:p>
+    „Ako?… Však je to z Čiech a Nemec! A chodia k nemu žandári a   financi.“
+   </tei:p>
+   <tei:p>
+    „No, nech je on i Turek! Dosť na tom, mne je známy, a ja nevládzem   ďalej.
+   </tei:p>
+   <tei:p>
+    „Ako sa vám páči, pánko môj! Lenže mi je od pani hostinskej   prikázané zastaviť sa radšej u Vŕbiniaka.“
+   </tei:p>
+   <tei:p>
+    Ružan sa do tohto rozhovoru nezamiešal; zdalo sa, že ho ani   nezaujíma, mlčal a stúpal ako námesačník.
+   </tei:p>
+   <tei:p>
+    O pár minút ocitli sme sa pri hute.
+   </tei:p>
+   <tei:p>
+    No, Fedorko, tu sme už! Ani vás ďalej ustávať nebudeme, prenocujte   u vášho Vŕbiniaka a zavečerajte si z toho, čo pani hostinská pre nás   prichystala, bo veď my u pána Tverdého dostaneme večeru…“ vravel som   sprievodcovi.
+   </tei:p>
+   <tei:p>
+    „Ej, bisťubohu, bolo by to!“ odpovedal on. „Však musím s vami až   na Kokavu, zaplatila mi pani hostinská cestu napredok, a pre mňa je   osobitná večera v cedidle.“
+   </tei:p>
+   <tei:p>
+    „Ale ja už znám stadiaľto do Kokavy cestu, a my neprídeme, len   ráno, nebojíme sa nikoho; čo by ste sa s nami ustávali?“
+   </tei:p>
+   <tei:p>
+    „Nuž, ako chcete, lenže v cedidle je i písmo, čo mi pani hostinská   dala, aby vám ho v Kokave doručil.“
+   </tei:p>
+   <tei:p>
+    „I písmo?“ zamiešal sa naostatok Ružan.
+   </tei:p>
+   <tei:p>
+    „No, Stano, poďme len dnu i s Fedorom k Tverdému; zvedavý som, čo   nám asi tá duša môže písať - ba zdá sa mi, že to rozlúšti záhadu   nášho prijatia u nej.“
+   </tei:p>
+   <tei:p>
+    Vstúpili sme dnuka… Tverdý, nemálo zadivený a prekvapený naším   nečakaným príchodom, prvítal nás s radosťou.
+   </tei:p>
+   <tei:p>
+    „Kdeže sa tu beriete, ľudkovia, kde niet ani vtáčka ani letáčka,   tým menej náhlej večery o polnoci?!“ prihováral sa a chytal nám   ruky.
+   </tei:p>
+   <tei:p>
+    Pozreli sme na hodiny - bolo už po jedenástej.
+   </tei:p>
+   <tei:p>
+    „Za večeru sa nestaraj, len sme si tu! A takí turisti, ako my,   nosíme so sebou večeru; hej, Fedor, dnu že to cedidlo!“
+   </tei:p>
+   <tei:p>
+    Fedor poslúchol, vyňal z cedidla jeden batôžtek a pár butelí vína,   nedôverivo veslujúc očami po chyži; ale naostatok sa premohol,   rozviazal najsamprv uzol na serviete, vyňal z neho list a podal ho   tak obratne Ružanovi, že celý manéver jeho Tverdý ani nespozoroval.   Merník spiechal so svojou korisťou do bočnej chyže a ja bárs ma tiež   zvedavosť trápila -dal som sa do vykladania ďalšieho obsahu serviety.   Najsamprv vykukli dve vyprážané kurence, potom jeden klenovský syrec,   dva snehobiele koláčiky a naostatok jeden balík fajných havanských   cigár.
+   </tei:p>
+   <tei:p>
+    „Vidíš, bratu, že sme dobre zaopatrení!“ prihováral som sa   Tverdému. „A to víno! Okús ho len, to je za nápoj!“
+   </tei:p>
+   <tei:p>
+    , veď je to najvýbornejšia tokajčina! Kdeže ste ju   vypriadli? No, bude dobrá potom, keď sa z môjho drapáku napijeme!“   vetil on, keď bol okúsil obsah fľašiek.
+   </tei:p>
+   <tei:p>
+    Ja som sa tiež chcel presvedčiť, či nám naša Héba na cestu vskutku   tokajčinou poslúžila, i chytal som sa fľašky.
+   </tei:p>
+   <tei:p>
+    Vtom však otvoril Ružan na bočnej chyži dvere, kývol mi a ja,   vidiac ho celkom zblednutého, pospiechal som k nemu.
+   </tei:p>
+   <tei:p>
+    „Čo sa ti stalo, človeče? Veď tak vyzeráš, ako z hrobu!“
+   </tei:p>
+   <tei:p>
+    „Čítaj !“ zašepkal trasľavým hlasom a zatvoril za sebou dvere.   Podal mi list a ukázal na stôl, na ktorom sa prestierala jedna   päťdesiatzlatová „Reichsschatzscheinka“.
+   </tei:p>
+   <tei:p>
+    „Čože je to? Veď sú to azda Tverdého peniaze?“
+   </tei:p>
+   <tei:p>
+    „No len čítaj, v liste nájdeš vysvetlenie!“
+   </tei:p>
+   <tei:p>
+    Poslúchol som ho, a k nemalému prekvapeniu a úžasu čítal som   nasledovné:
+   </tei:p>
+   <tei:p>
+    #i#Páni drahí !
+   </tei:p>
+   <tei:p>
+    Viem, kto ste; viem, že ste B. a M., emigranti a emisári z   Londýna. Môj manžel vás popredku u mňa pripovedal - pán boh   sprevádzaj pre blaho nešťastnej našej vlasti Vaše kroky - nech Vás   chráni každá dobrá duša aspoň tak, ako som sa ja o to s prospechom   pokúsila; prijmite pripojenú maličkú obeť, ktorú kladie na oltár   vlasti jej verná dcéra
+   </tei:p>
+   <tei:p>
+    Marina
+   </tei:p>
+   <tei:p>
+    P. S. Lístok môj ráčte spáliť; nie pre moju, lež pre Vašu   bezpečnosť!#-I#
+   </tei:p>
+   <tei:p>
+    Ako čo by z jasného neba hrom bol do mňa uderil, tak zatriasol   mojimi citmi tento kratučký list. Záhada bola teda rozlúštená…   Nebožiatko! Tá duša zlatá nás za emisárov držala… „Oh, nezhynie pod   cudzím nátlakom naša vlasť, ktorá také dcéry chová!“ myslel som si a   obdivoval to hrdinské žieňa, ktoré sa za nás, nepoznaných cudzincov,   do nebezpečenstva vydalo.
+   </tei:p>
+   <tei:p>
+    „Či si už prečítal?“ dopytoval sa Ružan.
+   </tei:p>
+   <tei:p>
+    „Už - to je divné dobrodružstvo!“
+   </tei:p>
+   <tei:p>
+    „Čo teraz robiť?… Toho anjela v tom blude nechať nemôžeme.“
+   </tei:p>
+   <tei:p>
+    „Čo robiť?… Nuž najskôr spálime list…“
+   </tei:p>
+   <tei:p>
+    „To neurob!… To je môj najväčší poklad, ktorý si odložím na   pamiatku,“ zvolal Ružan.
+   </tei:p>
+   <tei:p>
+    Ale už bolo pozde; listok už blnkotal - a ja som merníkoví   odovzdal na pamiatku jeho popol, ktorý snáď teraz pri sebe ako dáky   talisman nosí.
+   </tei:p>
+   <tei:p>
+    „A s peniazmi čo?“ spytoval sa ďalej skormúteným hlasom, keď   videl, že nádeja vládnuť literami jej rúčkou písanými je zmarená.   „Tie vonkoncom prijať nemôžeme…“
+   </tei:p>
+   <tei:p>
+    „Pravdaže nie! Najmúdrejšie bude, ked jej odpíšeš list,   vysvetľujúci jej
+   </tei:p>
+   <tei:p>
+    mýlku a našu nevinnosť; k listu pripojíš „Reichsschatzscheinku“ a   pošleš ju po
+   </tei:p>
+   <tei:p>
+    Fedorovi spiatky.“
+   </tei:p>
+   <tei:p>
+    „Tak je, to je najlepšia myšlienka!“ odpovedal on a chytal sa hneď   papiera a pera.
+   </tei:p>
+   <tei:p>
+    „Nech len miesto výhovoriek nebude ľubojavba,“ privolal som mu a   pospiechal k Tverdému, zadivenému nad naším tajnostkárstvom.
+   </tei:p>
+   <tei:p>
+    Fedora už v chyži nebolo - bežal som von, volal za ním; ale ten sa   bol pobral preč bez odporúčania sa nám, bez čakania prepitného   istotne návodom milostnej hostitel, sklamanej v našich   osobách.
+   </tei:p>
+   <tei:p>
+    Oznámil som to Ružanovi, ktorý sa síce trochu zarazil, lež len   ďalej písal písal zadlho, potrhajúc azda i päť listov, ktorých   koncepty sa mu nepáčili, takže my, v očakávaní jeho príchodu, chytili   sme sa sami s Tverdým k chutnej večeri a jedli a pili i za neho,   ktorý sa istotne slovami ľúby sýtil.
+   </tei:p>
+   <tei:p>
+    Bolo už okolo tretej k ránu, keď sa nám už čakajúcim pán merník   zjavil - a
+   </tei:p>
+   <tei:p>
+    pristúpiac k Tverdému, oslovil ho vážne:
+   </tei:p>
+   <tei:p>
+    „Kedy pôjdeš do Detvy, priateľu?“
+   </tei:p>
+   <tei:p>
+    „Tuším napozajtre…“
+   </tei:p>
+   <tei:p>
+    „Zaviažeš sa mi statočnosťou svojou, že tento list hostinskej   samej do jej vlastných rúk oddáš?“
+   </tei:p>
+   <tei:p>
+    „Oh, vďačne! Prečo by nie! To je znamenitá duša; čo - azda si sa   prílišne na ňu zahl…?“
+   </tei:p>
+   <tei:p>
+    Ružan sa smutne usmial.
+   </tei:p>
+   <tei:p>
+    Ja uctil som jeho bôl, nedopytoval som sa ani vtedy, ani   potom na obsah toho listu, ktorý Tverdý prijal, že ho osobne doručí.   Na druhý deň okolo poludnia boli sme už v Kokave.
+   </tei:p>
+   <tei:p>
+    Dávno som nemal takú nudnú cestu, ako od Látok až ta… Viete   prečo?
+   </tei:p>
+   <tei:p>
+    Lebo som sa cítil osamotený; môj súdruh celou cestou nepreriekol   ani slova, stúpal zadumaný, zamyslený, ako opravdivý automat.
+   </tei:p>
+   <tei:p>
+    V B., v mojom domove, sme sa rozlúčili.
+   </tei:p>
+   <tei:p>
+    „Stano,“ hovoril mi vážne, „o našom detvianskom dobroužstve   najmenej za desať rokov ani slova!… Či ma rozumieš?“ A ja som ho   dobre rozumel; lebo neminulo pár týždňov, čítal som v novinách, že   chytili dvoch emisárov, istého B. a M., ktorých ani doteraz neviem,   čo sa s nimi potom stalo…
+   </tei:p>
+   <tei:p>
+    Neboráci! Miesto nich užili sme my, ač bez vlastného pričinenia,   jednou horlivou vlastenkou pripravenú pohostinnosť.
+   </tei:p>
+   <tei:p>
+    Odvtedy minulo nie desať, lež až pätnásť rokov. Doby, v ktorých   bolo treba emisárov, už sa zmenili - k prospechu drahej vlasti. Bože,   daj, aby sa pre žiaden národ Uhorska nikdy viacej nevrátili! Ja bych   aspoň nerád poznovu nastúpiť také námestníctvo - bárs sa mi pri prvom   dobre vodilo.
+   </tei:p>
+   <tei:p>
+    Ružan doteraz chová svoje tajomstvo v ňadrách; no ja s ním   vystupujem na svetlo, aspoň pre rozpomienku na tie neblahé časy…   Dajedni sa zasmejú; dajedným útlocitnejším zahrá slza v očiach; druhí   pocítia i to, i to - veď naše dobrodružstvo bolo skutočne   tragikomédia!…
+   </tei:p>
+   <tei:p>
+    A naša krásna pohostinná Héba či žije dosiaľ? Daj to, bože! No daj   tisíce jej podobných horlivých národovkýň a vlasteniek!
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

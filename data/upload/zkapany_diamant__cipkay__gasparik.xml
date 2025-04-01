@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1941182" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Zkapaný diamant : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84103218">
+     Čipkay, Jonatán Dobroslav (1819 - 1861)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5961
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Čipkay, Jonatán Dobroslav
+     </tei:author>
+     <tei:title>
+      Zkapaný diamant
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1941
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-27">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Zkapaný Diamant
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Medzi mnohými pamätnostiami mesta Pa­ríža sú i takrečené katakomby,   čiže pod­zemné sklepy, do ktorých ukladajú mrtvé telá parížskych   obyvateľov. A tak sú to pod­zemné cintoríny; len že v nich niet hrobov   porastlých milou zelenou trávou, ale umrl­čie truhly sú rad-radom   poukladané v tých čiernych sklepoch, kde ich rúška podzem­nej tmy   naveky prikrýva. Ak nikde inde, teda v tomto kráľovstve smrti,   zatriasa dušou človeka tá vážna myšlienka, že vše­tko časné a zemské   je márnosť a že viera v Boha a cnost života sú jediným veslom jediným   člnkom, na ktorom človek môže sa preplaviť búrlivým morom sveta   tohoto k nebeskému blaženejšiemu brehu.
+   </tei:p>
+   <tei:p>
+    Pri vchode do tohoto nemého miesta odpočinku — asi pred 130. rokmi   — kľačala mladá vdova, držiac na rukách ročného chlapca a pobožne sa   modlila. — Bolo práve na mraku. Už boli poodchodili tí, čo toto   pamätné obydlie smrti cez deň navštevovali už či zo zvedavosti, alebo   tým cieľom, aby ostatky svojich milých skropili slzami.
+   </tei:p>
+   <tei:p>
+    Mladá vdova kľačala tu samotná. Slzy zármutku tiekly jej z očú. I   zalomila rukama a ticho síce, ale boľastne začala nariekať: „Otec,   dobrý otec! prečože si nás, prečo samotných tu zanechal? Prečože si   nás, prečo radšej nepobral sebou? Ach! akože budem na svete bez   podpory, bez opatrov­níka?“ — V tom prebudil sa malý Martin, ktorého   na rukách držala a zaplakal. Matka pritisla k srdcu nevinnú sirotu a   plakala ním.
+   </tei:p>
+   <tei:p>
+    „Ženička, čo plačete?“ ozval sa jej za chrbtom prívetivý hlas.   Vdova obzre sa, utre si slzy a vidí, že pri nej stojí mladý, čisto   oblečený muž s bľadou úprimnou tvárou. „Čo plačete?“ opakoval svoju   otázku tak prívetive, tak úprimne, ako čo by to jej vlastný brat bol   býval.
+   </tei:p>
+   <tei:p>
+    „Tu leží môj muž!“ odpovedala vdova zajikavým hlasom.
+   </tei:p>
+   <tei:p>
+    „Váš muž? — A kto bol váš muž?“
+   </tei:p>
+   <tei:p>
+    „Chudobný tokársky tovaryš, ktorý seba i mňa živil prácou rúk   svojich. Tri dni, ako tu pochovaný leží, a ja biedna neviem, čo si   počať na tom šírom svete?“
+   </tei:p>
+   <tei:p>
+    „Tak mladá a neviete, čo si počaf? Načože vám Pán Boh dal   ruky?“
+   </tei:p>
+   <tei:p>
+    „Ach, pane, rozumiem vás“ — odpovedala žalostne vdova. „Vďačne by   som pracovala, ale ktože ma vezme s malým dieťaťom či do služby, či   do roboty? Keby som bola samotná, všetko by to bolo inakšie!“
+   </tei:p>
+   <tei:p>
+    „A či ste sa už ponúkaly dakomu?“
+   </tei:p>
+   <tei:p>
+    „Ponúkala, ale ma všade odpravili, že vraj ženy s dieťaťom   nepotrebujú.“
+   </tei:p>
+   <tei:p>
+    Neznámy muž zamyslel sa trochu; potom prikročil bližšie k smutnej   vdove a vážnym hlasom preriekol: „Teda vás prijmem ja; dám vám ročite   dvesto frankov a dieťa vám pomôžem vychovať. Takú mladú úbohú osobu   nechať bez pomoci, bol by hriech. Ak prijímate u mňa službu, môžeme   hneď ísť domov.“
+   </tei:p>
+   <tei:p>
+    Prívetivosť a k tomu vážnosť, ktorou mladý tento muž ponúkal jej   službu u seba, pohly našu Juditu — tak volala sa tokárova vdova — k   tomu, že bez rozmýšľania pohla sa za neznámym. — Neznámy tento bol   Miroň, bohatý zlatník a parížsky mešťan. Po jeho dome už zvonku bolo   poznať, že vládze na tisíce, bo už dom bol na štvoro poschodí s   krásnymi zelenými obločniciami a utešene maľovaný. Pod oknami vo   dvore stály dva vysoké cedry, a vôňou i tôňou príjemne ľahodily   obyvateľom domu. A tam dnu? Tam len tak jasalo sa od zlata a   striebra, najmä v tej izbe, kde mal sklad drahých vecí. —   Najprednejší páni a panie od neho kupovali prstene, perly, reťaze,   korale a všetko, čo zo zlata, striebra a drahých kameňov vystane. Ba   vraj sám kráľ dal si u neho zlatú rukoviatku na šabľu vyhotoviť a   drahými kameňmi povykladať. — A čo je zriedkavé pri bohatých ľudoch,   Miroň bol človek bohabojný a statočný. Žiadna nedeľa neprešla, žeby   nebol šiel do kostola pomodliť sa Pánu Bohu a potešiť sa Jeho svätým   slovom. Ba ani striedtýždňa, keď mu práce dopustily, nezameškal ísť   do kostola ďakovať za nočnú ochranu a prosiť o Božie požehnanie.
+   </tei:p>
+   <tei:p>
+    V takomto dome pobožná Judita skoro privykla, a pán, vidiac jej   statočnosť, vernosť a pracovitosť, požehnával tú hodinu, keď ju   prijal do domu.
+   </tei:p>
+   <tei:p>
+    Pominulo šesť rokov. Sedemročný Martin chodil na Miroňove útraty   do školy, aby vycvičil sa v potrebných známostiach a aby vyrástol z   neho statočný človek. Učitelia chválili dobrého chlapca a Miroň tešil   sa z neho, ako z vlastného syna. Judita rástla od radosti, kedykoľvek   jej Martinko pribe­hol zo školy s knižtičkami pod pazuchou, priklonil   sa, želal jej i všetkým v dome „dobrý deň“ a opakoval, čo všetko   naučil sa v škole. Už si ani nežiadala lepšej vynáhrady od Boha za   to, že ju i syna zavčasu pozbavil otca. „Keby mi to len naveky tak   trvalo !“ priala si. — Ale malo byť aj ináč.
+   </tei:p>
+   <tei:p>
+    Dobročinný Miroň, ako muž príkladný, hospodárlivý, každému človeku   úslužný Bohu oddaný, rástol síce s roka na rok namajetku a na dobrom   mene. A pracovitej,v dome všetko verne usporadujúcej Judite ublížiť,   alebo v niečom ujmu urobiť, nenapadlo mu ani vo sne. Ale mohol byt   asi tridsaťpäťročný, ked, na časté nahováranie priateľov, oženil sa.   Škoda len, že pri tom nehľadel viac na srdce, ako na krásu a   bohatstvo.
+   </tei:p>
+   <tei:p>
+    Nová pani hneď v prvý týždeň oslovila svojho muža, aby Juditu   prepustil. „Ten jej svätuškársky smutný pozor je mne mladej žene   odporný. A potom, vieš mužíček, načo by sme nakladali na cudzie   dieťa?“ Ale Miroň práve tú tichosť a pokoru ctil pri Judite, na   hodného chlapca vďačne nakladal a neprivolil ženinej žiadosti.
+   </tei:p>
+   <tei:p>
+    Pani mlčala. Tak prebehol celý rok a za ten čas bolo ešte ako   bolo. Ale po roku začala mladá Miroňová hlasnejšie spievať svoju   pieseň. Hostinky, návštevy, zábavky len tak sa mlely jedna za druhou.   Najkraj­šie retiazky, čo by sa boly mohly s osohom odpredať, vešala si   sama na hrdlo. Najdrahšie prstene, čo kniežatá a hrabätá svojim   dcé­ram a paniam pokúpiť chceli, stokýňala si sama na prsty. A keď ju   pracovitý muž prosil a napomínal, aby to nerobila, hovo­rievala, že či   je ona nie prednejšia, ako druhí.
+   </tei:p>
+   <tei:p>
+    Tak tam šlo. Miroň pracoval pilne; ale hospodárstvo jeho nerástlo,   ba naopak umenšovalo sa; lebo čo on zarobil, to márnotratná žena   nevedela zavarovať. — V tre­tom roku narodil sa im krásny černooký   chlapček, ktorého pokrstili na otca Adolfom. Judita, ktorej otec   malého Adolfa do opa­tery sveril, pritisla ho k srdcu, akonáhle   doniesli ho z kostola, tak úprimne, tak laskave, akoby ho bola chcela   doň zavreť. S ním stávala i líhala, s ním bavievala sa celý deň, pri   ňom nejednu noc ani oka nezažmúrila. Varovala a opatrovala ho ako   zreničku vlastných očí. A predsa, Pán Boh vie prečo, pani vždy   hromžila na ňu a pána jednostajne unúvala, aby ju preč poslal.
+   </tei:p>
+   <tei:p>
+    Miroň ľutoval, že jeho pani pobožnú Ju­ditu vystáť nemôže; ale ju   bez všetkej prí­činy odstrániť nechcel. — Omrzlosť panej rástla so dňa   na deň, a len čakala, na prí­ležitosť kde by v celej neľudskosti mohla   vybuchnúť. A tá, žiaľ Bohu, dosť skoro nad­hodila sa.
+   </tei:p>
+   <tei:p>
+    Miroňova majetnosť, ako sme už podotkli, umenšovala sa so dňa na   deň. On pri már­notratnej a ľahkomyseľnej žene zchudobnel natoľko, že   už teraz na miesto dvadsiatich štyroch tovaryšov, ktorých za svobodna   držiaval, sotva mohol udržať štyroch; lebo páni odpútili sa od neho,   keď videli, že také veci, čo by sa im boly najlepšie páčily, predať   nechce, alebo radšej pre ženu predať nemôže. — Všetko jeho bohatstvo,   všetka jeho nádeja složená bola v jednom velikom diamante, ktorý stál   vyše päťstotisíc frankov a ktorý mienil po tieto dni v zlatú reťaz   zapraviť a kráľovi zaniesť. Diamant tento ležal za sklom vo zvláštnej   izbe medzi druhými drahými kameňmi.
+   </tei:p>
+   <tei:p>
+    Judita svobodne chodievala po celom dome z izby do izby, ukazujúc   malému Adolfovi hneď krásne maľované obrazy, hneď drahé blyštiace sa   veci, aby sa jej zabával. Prišla s ním aj do izby, kde diamant medzi   druhými kameňmi ligotal sa ako slnce na nebi medzi hviezdami a   bleskom svojím všetko ostatné zastieňoval. I poklepkáva na zavreté   sklenené dvere a malý Adolf vytrčí túžobne ručičku, akoby chcel   ulapiť blyštiace sa kamene. V tom prišla do izby pani a vidiac, že   Judita na sklenené dvere poklepkáva, ohriakla ju hnevivo, že či,   vraj, chce sklo rozbiť a pánovi škodu urobiť! — Dobrá pestúnka, na   takéto reči už privyknutá, odstúpila, nepreriekla ani slova, ale v   srdci zažalostila nad nezaslúženými krivdami, ktoré podstupovala od   nemilosrdnej panej.
+   </tei:p>
+   <tei:p>
+    Bolo ticho v dome. Slniečko utiahlo sa pokojne za hory, akoby si   bolo chcelo od­dýchnuť po dlhej ceste, ktorú cez deň vy­konalo. Na nebi   rozligotaly sa milliony hviezd, akoby sa boly tešily, že môžu sa   svetu ukázať aspoň po západe slnka, pred ktorého jasnosťou a   velebnosťou vo dne pokorne ukrývajú sa. Judita uložila malého Adolfa   do postieľky a poručiac seba i jeho do ochrany milému Pánu Bohu,   uspokojená ľahla si spať. Ľudia dobrého svedomia spá­vajú pokojne po   dennom unavení; tak spala i pobožná Judita. Nestrhávala sa zo sna,   ako ľudia previnilí; ticho, tichúčko spočívala si, akoby anjel Boží   bol obletúval okolo nej.
+   </tei:p>
+   <tei:p>
+    Ale svitnul pre ňu deň strašný. Len čo sa prebrala, už počula po   dome krik. Veliký diamant skapal! na ktorého blesku malý Adolf len   včera ešte tak milo sa bavil.
+   </tei:p>
+   <tei:p>
+    Utrápený Miroň chodil ako bez rozumu. Posledné jeho imanie, všetka   jeho nádeja s kameňom tým bola preč! Svolal celú čeľad, popredku ale   tovaryšov, na ktorých padalo najväčšie podozrenie. I prívetivosťou i   prísnosťou vyhľadával skapaný poklad; ale všetko nadarmo. Tovaryšia   nepriznávali sa k ničomu. — V tom prišla do izby pani a víťazne boky   podoprúc postaví sa pred utrápeným pánom: „A tvoja pobožná Judita   nepríde ti ani na rozum?“
+   </tei:p>
+   <tei:p>
+    „Prečo Judita?“ zadivil sa Miroň.
+   </tei:p>
+   <tei:p>
+    „Preto,“ odpovedala pani, „že je ona ten domáci zlodej, ktorý ťa   chce ožobráčiť za tvoju dobrotu.“
+   </tei:p>
+   <tei:p>
+    „Žena, mlč!“ zvolal zostrašený pán, „alebo dokáž svoje   podozrenie!“
+   </tei:p>
+   <tei:p>
+    „Podozrenie?! Nie podozrenie, istotu ti dokážem. Z tovaryšov   žiaden nemal prí­stupu do tej izby; jediný tvoj pretvárený diabol,   tvoja pobožná Judita motávala sa tam. I včera videla som ju na dvere   klepkať a drahé kamene chlapcovi ukazovať.“
+   </tei:p>
+   <tei:p>
+    „To je málo,“ odpovedal pán; „tým ešte nič nedokážeš. Jej   desaťročná vernosť docela podvracia tak chatrné podozrenie. Oj nie,   tá pobožná duša to urobiť nemohla!“
+   </tei:p>
+   <tei:p>
+    „Mám i väčie dôvody!“ zavolala pani, vytešená viacej nad novým, v   hlave skrslým nálezom, ktorým Juditu istotne zničiť mala, ako nad   ztratou zarmútená. — „Mám i väčšie dôvody!“ hovorí vyťahujúc čosi z   vrecka. „Tento kľúčik ti to dokáže! Rozkáž len zavolať tú tvoju   pobožnú Juditu a potom presvedčíš sa, čo za hada choval si si v   dome.“
+   </tei:p>
+   <tei:p>
+    Judita prišla. Miroň chcel k nej prívetivo, prehovoriť, ale pani   vytrčiac kľúčik skočila mu do reči: „Ty pobožná verná Judita, či   poznáš tento kľúčik?“
+   </tei:p>
+   <tei:p>
+    „Poznám,“ odpovedala táto pokojne: „to je kľúčik od mojej   truhličky.“
+   </tei:p>
+   <tei:p>
+    „Tak! — a od pánovej pokladnice!“ zvo­lala radostne Miroňová. Tu   chytila muža za ruku ťahajúc ho sebou. „Teraz poď pre­svedčiť sa na   vlastné oči.“
+   </tei:p>
+   <tei:p>
+    Predesený Miroň stúpal za ženou, ktorú pochopiť nemohol, a vidiac,   že táto sklenné dvere otvára kľúčikom Juditiným, vykríkol ako bez   seba: „Judita, Judita, čo si to urobila!“
+   </tei:p>
+   <tei:p>
+    O chvíľku prišli mestskí policajti, ktorí úbohú varovkyňu, ktorá   týmto činom do podozrenia prišla, okovali a odviedli do temnice.   Miroň díval sa na všetko to nepo­hnute. Ešte vždy nemohol pochopiť,   žeby to Judita bola urobila. Rád by ju bol vy­hlásil za nevinnú a   predsa ju ani len vyho­várať nemohol; lebo všetko svedčilo proti nej,   a ešte len teraz začal sa obávať hnevu ženinho.
+   </tei:p>
+   <tei:p>
+    Nadutá Miroňová predsa už raz sprostila sa poctivej Judity a s ňou   i jedenásťročného Martina, ktorého v tom okamžení s hrozným   preklínaním vyhnala zo dvora, a na jeho žalostné nariekanie ani   nepodbala. —
+   </tei:p>
+   <tei:p>
+    Na druhý deň ráno našli jednoho z to­varyšov zarezaného. Prečo sa   zarezal, nikto nevedel. Jeho kamaráti len toľko vedeli po­vedať, že   celý deň chodil, ako bez rozumu, a že bezpochyby v zúfalstve sa   zmárnil. — Tuto na chvíľku zanecháme Miroňov ne­šťastný dom a budeme   sprevádzať malého Martina.
+   </tei:p>
+   <tei:p>
+    Jedenásťročný chlapček vo velikom meste, aké je Paríž — bez   rodičov, bez priateľov, bez známych — čože si mal počať? Pracovať?   Ach, čože by jedenásťročný chlapček svojou prácou zarobil? Ktože   príjme slabé dieťa za robotníka? Smutný, smutný bol stav úbohého   Martina, keď ho vyhnali z Miroňovho domu. Kto by bol videl, ako išiel   slziaci ulicou, bol by sám zaplakal nad ním.
+   </tei:p>
+   <tei:p>
+    Blížil sa večer. Náš Martin nevedel ešte, kde prenocuje, tým menej   kde nasýti lačný žalúdok. Len to by bol rád vedel, kam sa podela jeho   matka. Či azda nahnevala sa aj ona naňho. Ale prečo? veď ju ničím   nerozhneval! Neboráčik, nevedel ešte, čo sa to porobilo. Rozhútal si,   že najlepšie bude vrátiť sa do domu Miroňovho, pýtať sa, kde mu matku   podeli, a prosiť, aby mu dovolili aspoň dakde pod strechu na noc sa   učupiť a hladný žalúdok nasýtiť aspoň kôrkami, ktoré čeľaď   poodhadzuje. Ale na nešťastie o jeho návrate najsamprv zve­dela   nemilosrdná pani, ktorá ešte aj na nevinnom dieťati chcela sa   vyvŕšiť. Dala ho teda prútmi vyšibať, aby vraj to zlodejské plemä   neopovážilo sa viac prekročiť prah jej domu. Martin, ačpráve bol   maličký, predsa dobre cítil túto velikú krivdu, ale spomôcť si   nevedel. Povedali mu, že i jeho matku vyšibali a vysotili z domu.   Prečo? To ne­mohol si vysvetliť.
+   </tei:p>
+   <tei:p>
+    I pustil sa znovu dolu ulicou a plakal, zalamujúc ručičkama, dobre   sa mu srdiečko nerozpuklo. Zoslabený plačom a ustatý chôdzou zastavil   sa pred jedným kostolom. Predo dvermi velikého domu Božieho stál   nádherný kríž a na ňom ukrižovaný Spasiteľ. Úbohý chlapček zdvihnul   uplakané očká a v tom okamžení poprichodilo mu na um všetko, čo sa   učil v škole o Pánu Kristu: koľko trpel, koľké muky znášal, ako ho na   ostatok Židia ukrižovali. I stislo mu čisté nevinné srdiečko. Padnul   na ko­lená a žalostným hlasom zvolal, ako sa bol v škole naučil: „Bože   môj, Bože môj, prečo si ma opustil?“ — V tom čosi s kríža na zem   padne; obzre sa — a hľa! celá žemlička., sotva načatá, leží mu pri   nohách! Pozdvihne oči ku krížu a vídí kvákajúcu a za žemľou hľadiacu   kavku. Martin hneď pochopil, kde sa vzala žemlička pri jeho nohách;   lebo vlastnosti tohoto vtáka poznal z čiastky zo školského učenia, z   čiastky zo zkúsenosti. Vedel, že kavka kde čo môže, pochytí a snadno   aj z pysku popustí. A práve preto považoval žemličku za dar Boží,   ktorý mu Pán Boh divným spôsobom poslal na večeru. — Občerstvený   žemličkou položil si klobúčik pod hlavu a ani neve­del, kde sa podel,   tak sladko usnul. Pokojne prespal celú dlhú noc, ktorej sa obával a   prebudil sa len, keď mu už Božie slniečko nad hlavou zasvietilo.
+   </tei:p>
+   <tei:p>
+    Už z tohto vidíte, mladí čitatelia, že Pán Boh stará sa o každého   človeka, a tým viac o nevinné dobré dietky a že nikdy nemáme zúfať,   trebárs by sa nám zdalo, že už niet na tom svete pre nás pomoci. A to   vám dosvedčia aj ďalšie príhody Martinove.
+   </tei:p>
+   <tei:p>
+    Martinko náš, pomodliac sa raňajšiu modlitbu, vstal zpod kríža;   smutný síce, ale predsa upokojenejší pustil sa ulicou. Kde zájde? kde   staví sa na večer? O tom naj­menej hútal.
+   </tei:p>
+   <tei:p>
+    Na väžiach nádherného Paríža zahučaly zvony, oznamujúc, že poldňa   zase prebehlo. A náš Martin, ktorý ani na ráno nič ne­jedol, cítil   tiež, že to čas, kde predtým k stolu zasedal. A teraz? Ach, teraz   nemal kde k stolu sadnúť; nemal čím nasýtiť lačný žalúdok. I zabehly   mu očká slzami, tak že temer každé uderenie zvona vytlačilo mu z oka   horúcu žalostnú slzu.
+   </tei:p>
+   <tei:p>
+    Ale Pán Boh i tu naňho nezabudnul. Len čo dakoľko krokov urobil,   štrnglo mu čosi pod nohama. Pozre pred seba a hľa, pod nohama mu leží   mešec plný dukátov! — I zodvihne ho obzerajúc sa okolo, kto by to bol   ztratil. Ale z mimoidúcich nebolo ni­koho, čo by bol sa dovedúval, a   náš Martin mal tiež natoľko rozsudku, že ho neponúknul takým, čo by   si ho boli nič po nič prisvojili.
+   </tei:p>
+   <tei:p>
+    V tom pribehne k nemu krásny chlpatý púdlik, pokrucuje pekne   chvostíkom, a vyskakuje za mešcom, ktorý Martin v ruke držal. O tomto   druhu psov počul Martin mnoho pekného a podivného rozprávať a tak   domyslel sa hneď, že ten mešec neztratil nikto iný, ako pán toho   pudlika. Ale psí­kovi toľké peniaze sveriť, videlo sa mu byť vecou   ľahkomyseľnou; ačpráve na to, že by peniaze pre seba zadržal, ani   nepomy­slel. — I pustí sa skorým krokom za poskakujúcim psíkom, v   nádeji, že ho tento až k samému pánovi privedie. Ale psík, obska­kujúc   okolo neho, zrazu mu mešec z ruky vychytí a letí pred ním ako guľa,   až sa mu pred očima ztratí.
+   </tei:p>
+   <tei:p>
+    Dukáty teda boly preč. A nášho Martina, ač neželel za peniazmi,   ktoré neboly jeho, predsa len mrzelo, že nebol obozretnejším.   Medzitým príhoda táto, ako to uvidíme, mala pre Martina dobré   následky. — Sotva mi­nulo štvrťhodiny, chlpatý púdlik pribehne a   počujte len! v pysku drží hodný kus pečienky a pokrúťac prívetivé   chvostíkom, položí ju k nohám udiveného chlapca.
+   </tei:p>
+   <tei:p>
+    Dobrý psíček! azda si chcel týmto preukázať vďačnosť malému   Martinovi, že ti vrátil ztratený mešec? Ak to bola príčina tvojho   návratu, ach, či mnohých ľudí pre­vyšuješ vďačnosťou! Čiže by si mohol   slúžiť za príklad mnohým nevďačným ľuďom, ktorí odmeňujú sa zlým za   dobré!
+   </tei:p>
+   <tei:p>
+    Martin nerozmýšľal sa dlho. Zodvihol so zeme pečienčičku, trocha   ju z prachu poobfukoval a jako si mysleť môžeme, chutne ju zjedol.   Potom sa napil vodičky a bol rád, že takto nevdojak prišiel k   obedu.
+   </tei:p>
+   <tei:p>
+    Už bezpochyby každý vopred vie, že Pán Boh Martina neopustí, keď   ho už dva razy nasýtil tak divným spôsobom. A nemýli sa nikto, kto   takto myslí a takto verí.
+   </tei:p>
+   <tei:p>
+    Vo veľkých mestách prechádzava sa panstvo, a to najmä podvečer, po   pekných, pieskom vysypaných a hladko utlačených prechádzankách, a   chodníkoch, ktoré hneď široké tiahnu sa do diaľky popod rady vysokých   stromov, hneď zase zabehujú v stranu na okľuky medzi vysadené krovie   a kvieťa. I Martin prišiel nevdojak na takéto miesto, Pred ním a za   ním šli páni, panie a paničky, jedna nad druhé krajšie, nádhernejšie   vyob­liekané. On na týchto stranách mesta nikdy predtým nebol; bolo mu   teda všetko nové, nevídané. Pasúc oči na nádhere mimoidúceho panstva,   zrazu zazre známeho už púdlika po boku jednej obstarnej panej. A v   tom okamihu zbadal ho aj psík. Pribehnul hneď k nemu, ako starý známy   a obska­koval okolo neho.
+   </tei:p>
+   <tei:p>
+    Pani to spozorovala a psíka k sebe za­volala. Poslušný púdlik   vrátil sa síce k nej, ale o chvíľku bol zase pri chlapcovi,   vy­skakoval proti nemu a líškajúc sa oblizoval mu podanú ruku. Panej   to čudno prichodilo, lebo to nebola obyčaj psíkova. I pristúpi k   chlapcovi a rečie mu:
+   </tei:p>
+   <tei:p>
+    „Synček môj, či azda poznáš toho psíka?“
+   </tei:p>
+   <tei:p>
+    „Poznám; na poludnie mi doniesol kúštik pečienky.“
+   </tei:p>
+   <tei:p>
+    „Pečienky?“ začudovala sa pani a pomaly jej svitlo v hlave, že   veru psík na poludnie odbehol voľakdesi aj s kúskom pečienky, čo   predtým neurobil nikdy. „Nuž a predtým si ho nikde nevidel?“
+   </tei:p>
+   <tei:p>
+    „Ej ba veru videl!“ Tak priznal sa Martin a vyrozprával panej celú   príhodu s mešcom a s dukátmi.
+   </tei:p>
+   <tei:p>
+    Dobrá pani, poznajúc zo všetkého úprim­nosť a statočnosť chlapcovu,   objala a poboz­kala ho srdečne, a riekla; „Ty si statočný chlapec!   Druhý by si bol peniaze zadržal, ale ty si ich statočne prinavrátil.   Tak rob, syn môj, a nelakom sa nikdy na cudzie veci; lebo vec   nespravodlive nadobudnutá nikdy nebýva požehnaná. Tie peniaze   ztratila som ja a verný púdlik mi ich skutočne donie­sol.“ V tom čosi   z mešca vytiahla a po­dávajúc to Martinovi hovorila ďalej: „Tu máš   malé nálezné a bývaj mi vždy takým poriadnym a statočným!“
+   </tei:p>
+   <tei:p>
+    Martin chcel jej úctivé bozkať ruku, lebo to bol dukát, čo mu   položila do hrsti. A pani ho znovu objala a vravela: „Nechaj, syn   môj, nebozkávaj, veď si aj viac zaslúžil; len buď i ďalej takým   statočným! Ale mi snáď povieš, ako ťa volajú a kto sú tvoji páni   rodičia?“
+   </tei:p>
+   <tei:p>
+    Úbohý chlapec, odpovedal na túto otázku slzami; lebo mu odrazu   všetko na um po­schodilo. Ale prívetivá pani, utierajúc mu slzavé očká   bielym ručníkom, hľadela ho uspokojiť a on jej všetko vyrozprával: že   si otca nepamätá a že u Miroňov dlho bý­vali aj s matkou a že im tam   dobre bolo, aj oni boli každému dobrí, len to nevie, prečo ich včera   z domu vystrčili a jeho, keď sa vrátil, prútom vyšibali. Vyrozprával   aj to, ako ho Pán Boh už dosiaľ nasýtil, a ako úfa sa, že ho aj na   ďalej neopustí.
+   </tei:p>
+   <tei:p>
+    Dobrá pani, počúvajúc nevinné rozprávanie chlapcovo, nemohla sa   zdržať od sĺz a keď dokončil, láskave ho pohladkala a riekla: „Nie,   takého dobrého a statočného chlapca Pán Boh neopustí! Sama nevýslovne   radujem sa, že mňa vyvolil za tvoju opa­trovkyňu. Pôjdeš so mnou,   dieťa moje, tak verne starať sa budem o teba, ako bych ti matkou   bola.“ — Martin jej úctive ruku pobozkal a sľúbil, že ju bude   poslúchať, ctiť a milovať. Na to stará pani vrátila sa domov, za ruku   si vedúc Martina a púdlik tiež spo­kojný, tu obskakoval veselo okolo   nich, tu ich predbehnul a cestu im ukazoval.
+   </tei:p>
+   <tei:p>
+    Neznáma pani bola zámožná tokárska vdova, ktorá po smrti mužovej   porozpúšťala tovarvšov a žila z hotového; ale z tokárskeho riadu ešte   posiaľ nič nebola odpredala. Akonáhle jej Martin povedal, že jeho   otec bol tokárskym tovaryšom, hneď si umienila, že ho dá vyučiť   tokárstvu, a ak sa bude statočne spravovať, že mu daruje pracovňu so   všetkým riadom. Ba umienila si, že ho prijme časom aj za svojho syna,   lebo žiadnych dietok nemala. Ale že bol mladý a slabý, najprv ho ešte   celé tri roky posielala do školy. — Ako predtým, tak aj teraz učil sa   pilne, učiteľov svojich poslúchal a po troch rokoch majster, ku   ktorému ho druhá jeho matka dala na remeslo, tešil sa tiež, že dostal   tak schopného a poslušného učňa.
+   </tei:p>
+   <tei:p>
+    V druhom roku svojho učňovstva robil už všetko, ako trebársktorý   tovaryš, lebo po­zoroval na všetko, čo mu zkúsenejšia ruka ukazovala,   a učil sa všetky tokárske veci aj kresliť. A keď tri roky učňovské   prebehly, dal mu majster také svedoctvo, že už ako učeň stál za   druhých dvoch. S takýmto svedoctvom od parížskeho majstra smelo mohol   sa pustiť po vandrovke, čo by vari aj priam na kraj sveta; nemal sa   čo obávať, že ro­boty nedostane, a kde ju raz dostal, tam ani   nezahanbil sa za seba!
+   </tei:p>
+   <tei:p>
+    Robil teda skoro vo všetkých väčších europejských mestách: v   Londýne, v Ber­líne, vo Viedni, v Petrohrade, a z každého vyniesol si   svedoctvo, že spravoval sa sta­točne, pracoval verne a pilne.
+   </tei:p>
+   <tei:p>
+    Päť celých rokov minulo, čo Martin bol preč z Paríža.   Dobroditeľkyni svojej písaval často a obšírne, kde ako vodilo sa mu.   Ešte rok mienil v cudzine stráviť, aby tak zkúsenosťou a dôkladnou   známosťou svojho remesla obohatený, navrátil sa do vlasti a tam   počestne a osožne pracoval. Vedel on do­bre, že na svete len ten môže   prísť k nie­čomu, kto dobre rozumie sa do svojho remesla. Nevandroval   teda len preto, aby roky vybavil, ako to naši slovenskí remesel­níci   zväčša robievajú, ale aby sa náležite vyučil a veľa zkúsil. Ešte   jeden rok teda mienil v cudzine učiť sa a len potom chcel sa osadiť   doma. Ale dostal zrazu neočaká­vaný list od svojej dobroditeľkyne.   Prosila ho, aby sa čím skorej navrátil, lebo že je ona veľmi chorá a   že rada by ho ešte videť a požehnať.
+   </tei:p>
+   <tei:p>
+    I sobral sa ešte v ten deň na cestu a o pár týžnov stál už pri   posteli chorej tokárskej vdovy a svojej terajšej matky. Mladý človek   za päť rokov veľmi sa premení i na tele i na duchu. Z Paríža bol   odišiel slabý, so­tva sedemnásťročný mládenček a navrátil sa silný   dvadsaťdvaročný mládenec. Pred­tým mal tvár holú, chlapeckú; teraz   černely sa na nej pekné mladé fúzy a pekná mäkká briadka. Predtým bol   trochu ľahkomyseľný a detinský; teraz rozvážlivý a mužský. Nemocná   vdova sotva poznala svojho cho­vanca, keď jej so synovskou dôverou a   úctivosťou ruku pobozkal.
+   </tei:p>
+   <tei:p>
+    „Syn môj drahý!“ preriekla slabým hlasom, držiac a stískajúc mu   ruku, „temer do nepoznania vyrástol si mi krásny a silný! Ďakujem   Bohu, že som tvoj návrat dožila; aspoň s tým povedomím odídem z tejto   zeme, že si šťastný. Áno šťastný budeš,“ preriekla zase po chvíli, „k   šťastiu prináleží hlavne pokojné svedomie a niečo zemského imania. O   prvé si stál ty, o druhé starala som sa pre teba ja. Krem teba nemám   na svete nikoho, kto by zaplakal nad mojím hrobom. Tebe teda poručila   som všetek svoj majetok. Buď pilným, varovčivým, sta­točným a   bohabojným, a Pán Boh — ako si sám dakedy za chlapectva bol riekol —   istotne neopustí ťa; — On usilovnosť tvoju požehná.“
+   </tei:p>
+   <tei:p>
+    Tu mu podala ruku. On ju úprimne pritisnul k ústam. Dve horúce   slzy padly na ňu z očú Martinových — a ruka stydla, — a ruka   zdrevenela. Dobrodinkyňa jeho vy­pustila dušu! —
+   </tei:p>
+   <tei:p>
+    Martin stal sa teda dobre sa majúcim to­károm. Dom, pracovňa,   tokársky riad a pár tisíc frankov dostalo sa mu po v Pánu   odpočívajúcej vdove, ktorá ho prijala za syna; usilovnosť,   varovčivosť a dôkladnú známosť remesla doniesol si z cudziny. Dobre   sa mu viedlo. Neminulo pol roka a meno jeho rozhlásené bolo po celom   Paríži, ako meno najlepšieho tokára.
+   </tei:p>
+   <tei:p>
+    Nuž a na svoju vlastnú matku, pobožnú Juditu, či azdaj docela   zabudnul? Zachovaj Bože, dačo takého o statočnom Martinovi len   pomysleť! Len čo ho kedysi tá tokárska vdova do svojho domu prijala,   už ne­ustával prosiť ju, aby len dovedala sa, prečo Miroňová matku   jeho z domu vyhnala a kde sa mu potom podela. Ale dobrodinkyňa   Martinova sotva počula, že matku jeho za krádež hodili do temnice,   zamlčala všetko pred mladuškým chlapcom, nechtiac ho zarmútiť.   Povedala mu len toľko, že nemôže dozvedeť sa ničoho istého. I z   ďalekých zemí písaval a prezvedúval sa o matke; ale na túto otázku   nikdy nedostal náležitej odpovedi, z čoho len to zavieral, že   dobrodinkyňa jeho nevie o nej nič istého. — Tak hľa pominulo celých   dvanásť rokov a Martin myslel, že jeho matka alebo umrela, alebo   odišla z Paríža. V tichých večerných hodinách, kde odpočívajúc od   práce pre­mýšľal o príhodách svojho života a oslavo­val Boha za   doterajšie otcovské opatrovanie, často ju oplakával ako zomrelú.
+   </tei:p>
+   <tei:p>
+    Raz, asi v druhom roku, čo stal sa maj­strom, prechádzal sa pred   západom slnka po brehoch rieky Sajny, pretekajúcej mesto Paríž. Deň   bol krásny a slniečko, schyľu­júce sa k západu, čím ďalej tým viacej   tra­tilo páľčivosť svoju. I kráča Martin zamyslený ďalej brehom   vlniacej sa rieky, až zrazu zpozoruje neveľkého šuhajka rybky chytať   na udicu. Mohol byť asi trinásťročný. Bľadá okrúhla tvár, jasné   čierne oči, pekný orličí nos, vzbudily v Martinovi známy obraz, na   ktorý ale nemohol sa rozpamätať. Jestli toho chlapca nikdy nevidel,   tedy aspoň blízku jeho rodinu istotne dakedysi poznal. Ale kde? To mu   bolo nevysvetliteľnou pohádkou. — V tom ozval sa z blízkého domu   ženský hlas: „Ádolfko, poď dnu, už nie nechytíš!“ A chlapec v tom   okamžení sobral svoje veci a odišiel.
+   </tei:p>
+   <tei:p>
+    Martin bol nepokojný. Rád by bol dozvedel sa o chlapcovi niečoho   istého; ale zas nechcel byť takým dotieravým, žeby do celkom   neznámeho domu len tak nič po nič vpálil a dovedúval sa na pomery   rodinné. Vrátil sa len domov, ale s tým predsavzatím, že zajtra zase   ta pôjde a že mu asnáď šťastie lepšie poslúži.
+   </tei:p>
+   <tei:p>
+    V skutku tak urobil a hneď zaradoval sa, keď zazrel chlapca s   udicou okolo vody ob­chádzať. I príde k nemu bližšie a dívajúc sa naň   za chvíľku, prihovorí sa mu prívetive: „Syn môj, akože ťa   volajú?“
+   </tei:p>
+   <tei:p>
+    „Adolfom!“ odpovedal šuhajček.
+   </tei:p>
+   <tei:p>
+    „A či máš rodičov? Akože ti volajú pána otca?“
+   </tei:p>
+   <tei:p>
+    „Ja rodičov žu nemám!“ zavzdychnul si smutný Adolf.
+   </tei:p>
+   <tei:p>
+    „A či ti dávno pomreli?“ pokračoval v otázkach zvedavý Martin.
+   </tei:p>
+   <tei:p>
+    „Otec mi umrel asi pred piatimi rokmi!“
+   </tei:p>
+   <tei:p>
+    „A čo bol tvoj otec?“
+   </tei:p>
+   <tei:p>
+    „Zlatník,“ odpovedal chlapec a skrútil udicu, že preč odíde, aby   vyhnul otázkam neznámeho.
+   </tei:p>
+   <tei:p>
+    „Neboj sa, syn môj, neutekaj; veď ti ja nič neurobím“ — zadržiaval   ho, čím ďalej, tým zvedavejší Martin. „Povedz mi len ešte, kto ta   teraz opatruje?“
+   </tei:p>
+   <tei:p>
+    „Judita, ktorá hovorí, že bola dakedy mojou pestúnkou“ —-   dopovedal chlapec a zmiznul v bráne blízkeho domu.
+   </tei:p>
+   <tei:p>
+    „Judita?!“ zarazil sa Martin. „Bože! i moju matku volali Juditou a   ona tiež bola pestúnkou u zlatníka Miroňa. A Miroň, ako som počul,   asi pred piatimi rokmi umrel. Čo, jestli je to ona? a chlapec Miroňov   syn?“ I vbehnul plný nádeje do blízkeho domu.
+   </tei:p>
+   <tei:p>
+    Pri stole stála nebárs obstarná a pritom zdravá a mocná, hoc zdalo   sa, trocha utrá­pená žena. Preberala sa v bielych vyhla­dených šatoch a   ukladala ich na hromádky; znak to, že nebodaj k vôli tomu býva v   blízkosti rieky, aby praním šiat mohla sa živiť. — Martina nádeja   nesklamala. Bola to vskutku jeho drahá, dávno nevidená matka. I padne   jej hneď okolo hrdla a radosti plným hlasom zvolá: „Matka! moja drahá   matka!“ Judita nepoznala Martina. Chcela sa mu vytrhnúť z náručia,   ale akási tajná moc ťa­hala ju k neznámemu. Hodnú chvíľu dala si   bozkávať tvrdé mozoľovité ruky. Konečne, zpamätujúc sa, odtrhla sa od   neho a vy­kríkla: „Ach, pane, čo chcete? Ja vás ne­poznám!“
+   </tei:p>
+   <tei:p>
+    „Ó, Bože, vy ma nepoznáte?! A či vám srdce nehovorí, že som ja   Martin, váš jediný syn Martin?!“
+   </tei:p>
+   <tei:p>
+    „Martin?!“ strhla sa Judita, prebehnúc po neznámom očima od hlavy   do päty. „Martin, môj ztratený syn Martin?! Áno, ty si to, dieťa   moje! Oj, že som ťa nepoznala! Tá istá otcova tvár, tá istá otcova   postava! Poď, syn môj, poď, nech ťa pritisnem k ma­terinskému srdcu a   umrem!“
+   </tei:p>
+   <tei:p>
+    Tu si padli poznovu okolo hrdla a plakali. Dvanásť rokov, čo jeden   o druhom ani najmenšieho nepočuli. Syn matku, matka syna pokladala za   ztrateného a teraz neočaká­vane, nevdojak našli sa! Oj, kto by sa tu   netešil, kto by sa tu neradoval?! — Keď prvé radostné pobúrenie citov   dobrého syna a vernej matky utíšilo sa, Judita takto za­čala svoje   dvanásťročné príbehy rozprávať synovi:
+   </tei:p>
+   <tei:p>
+    „Deň, v ktorom teba, dieťa moje, vy­hnali z domu nášho dobrodinca   Miroňa, bol deň môjho najväčšieho poníženia a utrpenia na svete. Na   putkách okovanú viedli ma ľudnatými uliciami do temnice. Plakala som,   prosila som, Boha za svedka volala som: nič nespomáhalo. Podozrenie   bolo veliké, že som ja ukradla ten diamant, ktorý v tú noc bol skapal   pánovi. Kráčala som ako zlodejka v očiach sbehávajúceho sa ľudu. Bože   môj! čo som vtedy vytrpela, to jazyk ľudský nevypovie. Bolo mi, ako   čo by mi nožmi boli pichali do srdca. — Pol roka vy­sedela som medzi   žabami a hadmi v mokrej temnici.. Ach, syn môj, celá sa trasiem, keď   si pomyslím na tú biedu. Každý mesiac raz ma vyviedli pred sudcov a   vyšetrovali vždy s novou prísnosťou. Dlhý, čiernym súknom prikrytý   stôl, na ňom čierny kríž s umučením, pod týmto umrlčia hlava a okolo   stola prísni sudcovia: — všetko toto malo ma pohnúť k vyznaniu   krádeže, lebo ma upomínalo na posledný súd. A mňa práve tá upomienka   na posledný súd a na Umučeného, na ne­vinného Krista Pána, zachovala,   aby som nezluhala, lebo som bola i ja nevinná, — Pán Boh to videl —   nevinná ako dieťa, ktoré sa dnes narodilo!
+   </tei:p>
+   <tei:p>
+    Po polroku, keď sa na mňa nič nedosved­čilo, prepustili ma na   svobodu. I to, jako som sa potom dozvedela, najviac na Miroňovo   naliehanie a orodovanie; lebo Miroňová bola by ma dala aj ďalej   mučiť. Ach, ale radšej by som bola tam umrela. Pomysli si, syn môj,   pustili ma, — ale moje dobré meno mi nenavrátili, lebo podozrenie   ešte vždy ležalo na mne! Výchádzajúcej z väzenia prvý si mi ty sišiel   na um. I premohla som ostýchavosť a hanbu a šla som rovno do   Miroňovho domu, mysliac si, že ťa tam nájdem. Ale koľká bola moja   bolesť, keď mi povedali, že i teba v ten istý deň vyhnali z domu.   Srdce mi stislo, ale nezanevrela som na nikoho, a zvlášte nie na   Miroňa, veď bez neho i tak boli by sme od dávna bý­vali len ako   vyhnanci. Schodila som všetky ulice, schodila som celé mesto,   dovedujúc sa na teba, vyzerajúc, vyvolávajúc len teba; ale všetko   bolo márno. Oplakala som ťa ako mŕtveho!
+   </tei:p>
+   <tei:p>
+    Hanbila som sa známym aj na oči ísť, lebo si tí všade len to   hovorili, že som ja v tej krádeži pomiešaná a jedni opovržlive, druhí   aspoň nedôverive odťahovali sa odo mňa. Nuž utiahla som sa do tohoto   ďalekého kúta, kde ma nikto nepoznal. Živila som sa praním a šitím   šiat, a Pán Boh mi až posiaľ pomáhal.
+   </tei:p>
+   <tei:p>
+    Ale Miroňovský dom vždy mi ležal na srdci; ačpráve od toho času   nikdy neprekročila som jeho prahov. Dobrý Miroň náhlou ztratou   diamantu a márnotratnosťou ženinou prišiel docela na mizinu. Asi päť   rokov tomu, čo ho žiaľ umoril. Ľahkomyseľná Miroňová po smrti mužovej   chcela nádherne žiť; a keď nemala dôchodkov, predala naposledy aj dom   a v krátkom čase i ten bol premár­nený. Z prenajatej hospôdky zmizla   nevidome a spiaceho Adolfa nechala v posteli. Žiaden duch nevypátral,   kde sa podela, a keď za viac dní neprichádzala, majiteľ domu sobral   pozostalé veci za prenájom a malého Adolfa nechcel trpeť u seba ani   za hodinu.
+   </tei:p>
+   <tei:p>
+    Dozvedela som sa o tom všetkom. Ach, či by som bola hodna milosti   Božej, keby som opusteného nebola vďačne prijala, veď aj nás dakedy   otec jeho tak prijal k sebe. Tu ho vidíš, pravý obraz nebohého otca!   Opatrovala som ho verne, mysliac, že si teba opatrujem, syn môj   premilený! Žijeme dosť biedne, ale pri tom spokojne s tým, čo nám Pán   Boh so dna na deň udeľuje,“
+   </tei:p>
+   <tei:p>
+    „Ach, dieťa moje!“ vzdýchla si matka — len za to Pána Boha prosím,   aby vyviedol moju nevinnosť na svetlo!“
+   </tei:p>
+   <tei:p>
+    „Cesty Božie sú divné,“ potešoval ju syn.“ Všetko sa to ešte môže   stať. A hoc by sa to pred svetom nestalo, svedomie vám hovorí, že ste   pred Bohom z toho ospravedlnená.“
+   </tei:p>
+   <tei:p>
+    Tu jej on vyrozprával, čo a ako vodilo sa mu od rokov a pobožná   Judita zodvihla oči k nebu volajúc: „Ach, Bože, v skutku divné sú   cesty tvoje!“
+   </tei:p>
+   <tei:p>
+    Minuly dva roky. Pätnásťročný Adolf vy­chodil školu, učil sa u   Martina tokárstvo a bol pilným pracovitým, ako jeho majster. — Judita   modlievala sa vždy Pánu Bohu, aby ju, ak je Jeho vôľa, aj pred svetom   ospravedlnil. Ach ťažko jej to padalo, ťažko, keď stretala sa so   známymi a títo chladne odvracali sa, alebo si azda ešte mysleli, že   Boh zná koľko v tom pravdivého, žeby Mártin bol zdedil po tokárskej   vdove synovstvo i bohatstvo, a žeby asnáď všetko mohlo pochodiť z   ukradeného diamantu...
+   </tei:p>
+   <tei:p>
+    Pán Boh konečne vyslyšal Juditinu mo­dlitbu.
+   </tei:p>
+   <tei:p>
+    Jednoho dňa kúpil Martin do remesla dva cédrové kláty a bystrý   Adolf mal ich porozkaľovať, aby z nich mohla sa hotoviť tokárska   robota. Bolo na mraku. Tovaryšia už boli zanechali robotu, len sám   domáci pán majster stál pri Adolfovi, aby mu ukazoval, ako má   štiepať. I zatne šuhaj čerstvo do tuhého cédrového dreva. Potom vrazí   do zátinu železný klin, udre naň ťažkým obuškom a dve polovice   rozpadnú sa.
+   </tei:p>
+   <tei:p>
+    V tom zablyští sa mu čosi pred očima. Zodvihne to a ukáže   majstrovi. „Bože vše­mohúci, to diamant!“ vykríkne zrazu Martin a beží   k matke ako bez duše a ukazuje jej nájdený poklad! Judita na prvý   pohľad preľakla sa a pozrúc bojazlive na syna zvo­lala: „Kde si to   vzal, syn môj?! Pre Boha, ak dobre vidím, to je diamant, čo pred   štrná­stimi rokmi skapal Miroňovi!“ — Prizrela sa mu bližšie — a   presvedčila sa: žltá škvrna, ktorú na ňom bolo vždy badať, vytrhla ju   z pochybnosti. — Martin jej povedal, že to Adolf v cédrovom dreve   našiel. Bežala k drevu a presvedčila sa aj o tom: bolo poznať miesto,   kde diamant ležal.
+   </tei:p>
+   <tei:p>
+    Ešte toho večera všetko oznámili vrch­nosti, ktorá po prísnom   vyšetrení toho, že cédrové kláty pochodia zo dvora niekedajšieho   Miroňovského domu, diamant ten pri­súdila Adolfovi ako jeho otcovizeň.   — Ale Judita ešte vždy nebola celkom čistá od podozrenia. Znalci   tvrdili, že diamant cez vovrtanú dierku bol do stromu vložený, a tá   po čase úplne sa zavrela. A tak bola mohla to aj Judita ta dnu   vložiť. Ale Pán Boh ešte aj to vyviedol na svetlo. Pri točení dreva   vypadol z neho zlomený nebožiec, na kto­rom boly vyryté počiatočné   písmeny, po­ukazujúce na meno a vlastníctvo tovaryša, ktorý sa bol   zarezal v tú noc, keď Juditu chytili. Z tej okolnosti i vrchnosť   uznala, že krádež nikto iný nespáchal, len ten, kto svojím nebožiecom   dieru na to vŕtal a ktorý preto i zúfale zavraždil sa.
+   </tei:p>
+   <tei:p>
+    Vidíte, mladí priatelia, aké divné sú cesty Božie! Takto, ač   pozde, vyšla na javo nevinnosť Juditina. A nie len to; ale Pán Boh   ten drahý diamant za štrnásť rokov nechal ukrytý, aby ho zachránil   Adolfovi, ktorý nič nezavinil. Lebo kto vie, či márnotratná Miroňová   nebola by priniesla syna aj o posledné dedictvo. — Diamant ten potom   odpredali a zaň utŕžených päťstotisíc frankov tvorilo základ   bohatstva pre praco­vitého Adolfa, ktorému Pán Boh za tým lepšie   pomáhal, ako dosiaľ. Všetci potom žili šťastne a spokojne, a   neprestávali oslavať Hospodina, že tak divne a dobre spra­vuje všetky   veci. —
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

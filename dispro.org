@@ -1,7 +1,7 @@
 #title: Dispro
 #+FILETAGS: :dispro:work:
 
-* Dokumnetácia
+* Dokumentácia
 ** Eltec
 + [[https://distantreading.github.io/Training/Budapest/encodingGuide-2.html#(1)][Eltec Summary Guide for <text>]]
 + [[https://distantreading.github.io/Training/Budapest/encodingGuide-1.html#(1)][Eltec Summary Giud for <header>]]
@@ -51,24 +51,43 @@ Start the eXist-db by running the following:
 #+begin_src shell
 ~/eXist-db/bin/startup.sh
 #+end_src
-* PROJ [#B] Create the web for presenting the collection
-DEADLINE: <2024-12-30 Mon>
+*** Transofrming JULS note annotations
+There are some texts from JULS with a crude note annotations (ie, contents
+between "#POZ#" and "#-POZ#" marks). To transform these into regular .docx
+footnotes, run pandoc with following lua filter:
+#+begin_src
+  pandoc <path to a file> --lua-filter ~/Projects/dispro/pandoc/filters/juls.lua
+#+end_sr
+
+* IN-PROGRESS Vytvor stranku na prezentaciu kolekcie
+:LOGBOOK:
+- State "IN-PROGRESS" from "WAITING"    [2025-03-30 Sun 11:28]
+- State "IN-PROGRESS" from "PROJ"       [2025-03-29 Sat 08:46]
+:END:
 
 The web will be based of [[https://teipublisher.com/exist/apps/tei-publisher-home/index.html][Tei Publisher platform]]
 
 ** References
-
 - [[https://www.youtube.com/@e-editiones8339/videos][e-editions YT channel]]
 - [[https://teipublisher.com/exist/apps/tei-publisher/documentation][Tei Publisher Documentation]]
+- Tei Publisher FAQ
+  - [[https://faq.teipublisher.com/webcomponents/debug][Debugging and changing components]]
 - [[https://github.com/eeditiones/teipublisher-docker-compose][TEI Publisher docker image]]
 - [[https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html][TEI Guidelines]]
 - [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch][TEI-Publisher-From-Scratch]]
-
 ** Administration
 *** TEI Publisher
 Creating custom ODDs errors out for some reason while running the publisher
 natively. The issue can be avoided by using the dockerized version of the application.
+**** eXist-db admin account
+
+eXist-db default administration account is "admin" with a empty password.
+
 **** Data persistence
+:LOGBOOK:
+- Note taken on [2024-11-27 Wed 16:16] \\
+  This is only needed for container from git repo
+:END:
 To make the data persist while running the dockerized version of the publisher,
 modify the volumes section of docker-compose.yaml from:
 #+begin_src
@@ -82,12 +101,121 @@ to:
 
 This will store the data in eXist databse on the system hosting the docker image.
 
-** TODO Watch the video recording of workshop on TEI Publisher       :learn:
-- [[https://youtu.be/QuWrfAS2SWM?si=lf_n9BeMMl9ODutc][Learn TEI Publisher - Session 1 of 3]]
-- [[https://youtu.be/5qu94bhftpk?si=j6ODv_szb5avCFdA][Learn TEI Publisher - Session 1 of 3]]
-- [[https://youtu.be/5qu94bhftpk?si=j6ODv_szb5avCFdA][Learn TEI Publisher - Session 1 of 3]]
+**** Running the official docker container
 
-** TODO Changes to ODD does are not reflected on documents           :error:
+- https://hub.docker.com/r/existdb/teipublisher
+
+To create and start the container, run the following:
+#+begin_src
+docker run -p 8081:8080 -p 8444:8443 -v exist-data:/exist/data --name teipublisher existdb/teipublisher:latest
+#+end_src
+
+To rerun already created container, run the folling:
+#+begin_src
+docker start teipublisher
+#+end_src
+** Documentation
+*** Website
+**** Templates
+- Document view: /db/app/dispro/templates/pages/dispro-grid.html
+- Main page: /db/app/dispro/templates/pages/index.html
+**** Debugging and customizing components
+***** References
+[[https://faq.teipublisher.com/webcomponents/debug][Debugging and changing components]]
+***** Running the dev environment
+****** Install the prerequisities
+- Install nodejs
+- Clone the [[https://github.com/eeditiones/tei-publisher-components][TEI Publisher Components Library]]
+- run "nmp install" in the root directory of the library
+****** Start the server
+- run "npm start" in the root directory of the library
+****** Set the variables in config.xqm of the app
+- declare variable $config:webcomponents := "dev";
+- declare variable $config:webcomponents-cdn := "http://localhost:8000";
+**** Extending web components
+** TODO Add ELTeC Categories Facets
+*** References
+- [[https://teipublisher.com/exist/apps/tei-publisher/documentation/facets?action=search&view=div&odd=docbook.odd#3.32.5][Facet Search Configuration in TEIPublisher]]
+- [[https://exist-db.org/exist/apps/doc/lucene][Full Text Indexing in eXist-db]]
+*** Documentation
+**** Config files
+  - /collection.xconf
+  - /index.xql
+  - /config.xqm
+**** Categories
+- Jazyk
+- Pohlavie
+- Rozsah
+- Obdobie
+** TODO Update site design
+- [-] metadata widget
+  - [X] Change general aesthetics of the widget (fonts, colors, use paper componet etc)
+  - [ ] Make links out of relevant items ocurring on the widget
+    - Author name should link to the page with all of thei works withint the corpus
+    - Gender should link to the page with all of the works produced by authors with given gender
+    - ...
+- [X] Reduce the amount of info in document teasers on the main page
+** TODO Update the About page
+** TODO Update ODT file
+- Rules for notes have to be defined
+- Bodies of titles without chapters are not rendering in the app
+  - Rendering of introductory segements that do not belong to any chapter
+- Style the subtitles
+** TODO Set-up Let's encrypt certificate renewal
+** DONE Deploy the application
+*** References
+- [[https://faq.teipublisher.com/hosting/docker-compose/][Tutorial: Deploy an Application Using Docker Compose]]
+- [[https://github.com/eeditiones/tei-publisher-app][TEI Publisher App Repo]]
+- [[https://github.com/eeditiones/teipublisher-docker-compose][TEI Publisher Docker Compose Repo]]
+- [[https://github.com/eeditiones/tei-guidelines][Tei Guidelines App Repo]]
+*** TODO Deploy TEI Guidelines App from repository
+- try locally and onto hosting
+*** TODO Deploy Dispro App from repository
+- try locally and onto the hosting
+** DONE Create the dispro app in Tei publisher
+*** DONE Create ODD for the app
+
+**** Metadata view
+
+**** Text view
+
+**** Maybe a view for scans
+
+*** DONE Create template for the app
+
+** DONE Watch video on TEI-Publisher deployment                      :learn:
+- [[https://youtu.be/sA7H2f6zKmI?si=Lp-gNABcj72aNsjV][Common eXist-db / TEI Publisher Deployment Scenarios]]
+
+** DONE Watch the video recording of workshop on TEI Publisher       :learn:
+CLOSED: [2024-12-05 Thu 18:27]
+:LOGBOOK:
+- Note taken on [2024-12-04 Wed 17:42] \\
+  While watching the recording of the third workhsop, trying to exclude an xml
+  file from the collecion. Should be done by modyfing data-exclude variable in
+  modules/config.xqm.
+- Note taken on [2024-12-02 Mon 16:46] \\
+  Working on [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch/blob/master/assignments/A2.md#73-display-additional-metadata][assignment 7.3]]:
+  - trying to extract number of pages from the <extent> element and put them into metadata column
+:END:
+- [[https://youtu.be/QuWrfAS2SWM?si=lf_n9BeMMl9ODutc][Learn TEI Publisher - Session 1 of 3]]
+  - [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch/blob/master/assignments/A1.md][First Week Assignments]]
+  - [[https://youtu.be/WhcDzCaVzYs][Video Solutions to the Assignments]]
+- [[https://youtu.be/5qu94bhftpk?si=5zIJOmtizcXEVnVl][Learn TEI Publisher - Session 2 of 3]]
+  - [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch/blob/master/assignments/A2.md][Second Week Assignments]]
+  - [[https://www.youtube.com/watch?v=8JUAwjvDCGw][Video Solutions to the Assignments]]
+- [[https://youtu.be/FS36nYFlTbE][Learn TEI Publisher - Session 3 of 3]]
+  - [[https://github.com/diegosiqueir4/TEI-Publisher-From-Scratch/blob/master/assignments/A3.md][Second Week Assignments]]
+  - [[https://youtu.be/HxCo303tgOk][Video Solutions to the Assignments]]
+
+** DONE Unable to download documents through "Download" in main nav :error:dispro:
+CLOSED: [2024-11-28 Thu 15:19]
+
+:LOGBOOK:
+- Added: [2024-11-22 Fri 17:32]
+:END:
+
+** DONE Changes to ODD does are not reflected on documents           :error:
+CLOSED: [2024-11-28 Thu 15:17]
 Sometimes changes made to ODD are not reflected on documents to which the ODD is
 applied.
 
@@ -103,8 +231,31 @@ CLOSED: [2024-11-20 Wed 09:14]
   - docker image failed during build step
   - The issue is probably with ssh
 
-* PROJ [#C] Build the collection
+* IN-PROGRESS Vytvor digitalnu kolekciu prozy
 :LOGBOOK:
+- State "IN-PROGRESS" from "PROJ"       [2025-03-30 Sun 11:31]
+- Note taken on [2025-01-28 Tue 18:05] \\
+  Na Kubani Valgathe treba spracovat poznamkovy aparat
+- Note taken on [2025-01-14 Tue 18:33] \\
+  Jilemnicky spraveny
+- Note taken on [2025-01-13 Mon 16:35] \\
+  Janko Jesensky: prvé vydanie Malomestskych rozpravok spracovane
+- Note taken on [2025-01-06 Mon 19:00] \\
+  Na jesenskom: treba anotovat druhy diel demokratov
+- Note taken on [2024-12-19 Thu 15:34] \\
+  Na jesenskom: Demokrati 1 spravene
+- Note taken on [2024-12-18 Wed 15:24] \\
+  Na Janocovej: vygenerovany subor nie je validny
+- Note taken on [2024-12-12 Thu 16:03] \\
+  Na hrusovskom: treba spravit "Muz s protezou"
+- Note taken on [2024-12-10 Tue 15:04] \\
+  Horvath spraveny.
+- Note taken on [2024-12-04 Wed 14:49] \\
+  Na horakovi: treba anotovat Povesti spod Sitna
+- Note taken on [2024-12-03 Tue 14:40] \\
+  Na heckovi: treba anotovat strukturu
+- Note taken on [2024-11-27 Wed 15:07] \\
+  Cipkay dokonceny
 - Note taken on [2024-11-22 Fri 15:10] \\
   Chrobak je dokonceny.
 - Note taken on [2024-11-21 Thu 14:58] \\
@@ -128,7 +279,7 @@ CLOSED: [2024-11-20 Wed 09:14]
 - Note taken on [2024-11-11 Mon 16:23] \\
   Na spracovanie nasleduje: "bez mena"
 :END:
-** NEXT Add and process titles from juls
+** TODO Add and process titles from juls
 + [ ] Generate and process the .docx files
 + [ ] Create metadata files
 + [ ] Generate ELTeC files
@@ -139,12 +290,13 @@ CLOSED: [2024-11-20 Wed 09:14]
 ** TODO Add and process titles from Marek
 - [ ] Nevesta hol
 ** TODO Add and process other titles from golden fund
-
 ** TODO Add and process scanned titles
-
+** TODO Add bibliographies for source and first editions
 ** TODO Upravy textov
 *** Vseobecne
 - Tituly vo vstupnych .docx formatoch nastav ako "title", nie "header"
+- V pripadoch, ked su tituly publikovane v kolekciach treba uviest informaciu v hlavicke vysledneho xml suboru
+  - Podla tohto: https://tei-c.org/release/doc/tei-p5-doc/en/html/examples-bibl.html
 *** Bansell
 - V "Na parolodi" anotovat verse na 9. strane
 - v "Emancipovaná" anotovat verse na ? strane
@@ -157,11 +309,24 @@ CLOSED: [2024-11-20 Wed 09:14]
 **** Modra katedrala
 - anotacia pododielov kapitol podla [[https://distantreading.github.io/Training/Budapest/encodingGuide-2.html#(9)][tejto instrukcie]] (su oznacene "*")
 - anotacia versov na stranach 136 - 137
+*** Dobsinksky
+**** Prostonarodne slovenske povesti
+- nefuguje lua filter na transformaciu poznamok od JULS
 *** Feriencik
 - v "Irma" anotovat verse na str. 24
 - v "Irma" anotovat "***" na str. 27
+*** Hecko
+**** Cervene vino
+- Anotuj madarcinu pred zaciatkom 17. kapitoly
+  - Casti v madarcine by mali byt v kurzive
+- Anotuj verse
+  - Verse su kurzivou
 *** Kubani
 - v "Emigranti" a anotuj verse na str. 3, 4, 10, 11
+*** Maria Durickova
+**** My z osmej A
+- anotovat verse
+- transformovat <lang CS> anotaciu od JULS
 *** Petrovsky
 - v "Ako sa v P hralo divadlo" anotuj "***" na 4 str
 - v "fi donc" anotuj "***" na 4 str
@@ -177,6 +342,10 @@ CLOSED: [2024-11-20 Wed 09:14]
 *** Zechenter
 - V "cestovanie na vakacie" anotuj verse na str 9
 - V "Prvy tanec" anotuj verse na str 9
+*** Jancova
+**** Rozpravaky strej matere
+- treba anotovat poeziu
+- generuje nevalidne xml
 *** Ján Chalupka
 - Donquijotiáda je preložená z nemčiny (nie autorom)
 - Len niektoré poznámky sú autorove (ostatné pochádzajú od prekladateľa)
@@ -190,8 +359,108 @@ CLOSED: [2024-11-20 Wed 09:14]
   - Silueta
   - Ucenliva Marta a starostliva Maria
 - Treba skontrolovat bibliografiu tychto diel.
-* PROJ Write eltec generation scripts
+*** Janko Jesenesky
+**** Demokrati prvy a druhy diel
+- treba transfromovat anotacie juls
+*** Peter Jilemnicky
+**** Vitazny pad
+- treba anotovat <lang HU>
+*** Frano Kral
+**** Cenkovej deti
+- treba anotovat verse
+*** Ludovit Kubani
+**** Hlad a laska
+- treba bud odstranit alebo #I# ... #-I# segementy v ucode kapitol
+**** Mendik
+- treba bud odstranit alebo #I# ... #-I# segementy v ucode kapitol
+**** Valgatha
+- treba anotovat poeziu
+- treba bud odstranit alebo anotovat #I# ... #-I# 
+*** Martin Kukucin
+**** Dedinsky jarmok
+- generuje nevalidne xml
+- Treba upravit ODT pre zobrazovanie poznamok
+**** Miso
+- trba anotovat #I# a #POZ# segmenty
+**** Mlade leta
+- anotovat #I# a #POZ# segmenty
+**** Na podkonickom bale
+- treba anotovat #POZ# segmenty
+*** Kalinciak
+**** Restavracia
+- anotovat poznamky
+- pozriet zdroj kvoli strukture kapitol
+*** Kunik
+**** Sukar cajori
+- anotovat italics
+*** Macingova
+**** Plechove srdiecka
+- anotovat <lang HU>
+*** Mnacko
+**** Smrt chodi po horach
+- treba anotovat poeziu
+*** Natsin
+**** Zivot vciel
+- treba anotovat poeziu (bez predchadzajucej anotacie)
+  - regex na identifikovanie neanotovanej poezie: za sebou nasledujuce riadky ukoncene '\n'
+*** Ondrejov
+**** Slnko vystupilo na hory
+- anotovat poeziu (bez predchadzajucej anotacie)
+*** Vansova
+**** Kliatba
+- treba anotovat (anotovane) pasaze  neslovenskymi jazykmi
+*** Zechenter
+**** Listy Stefana a Dura
+- treba anotovat alebo vymazat poznamkovy aparat (#POZ# segemnty)
+**** Zo slovenska do Carihradu
+- treba anotovat #POZ# segementy
+**** Zo slovenska do Talianska
+- treba anotovat #POZ# segementy
+**** Zarty a rozmary
+- anotovat #POZ# a #POEZIA# segmenty
+**** Cestovanie na Vakacie
+- anotovat cudzie jazyky a neanotovanu poeziu
+**** Prvy tanec
+- anotovat neoznacenu poeziu
+**** Studentsky majales
+- anotovat pasaze v neslovenskom jazyku
+*** Zlinova
+**** Jakubko
+- treba anotovat oddelnie paragrafov
+- treba anotovat cudzie jazyky
+*** Zuberk
+**** Jar Adely Ostroluckej
+- treba anotovat oznacene pasaze v cudzich jazykoch "<lang ...>"
+* IN-PROGRESS Napis ucebnicu
+:LOGBOOK:
+- Added: [2025-02-19 Wed 11:11]
+:END:
+** IN-PROGRESS Založ dokument pre učebnicu
+:LOGBOOK:
+- State "IN-PROGRESS" from "NEXT"       [2025-04-01 Tue 10:57]
+- State "IN-PROGRESS" from              [2025-03-30 Sun 11:15]
+:END:
+** IN-PROGRESS Precitaj The Plain Person’s Guide to Plain Text Social Science
+- https://plain-text.co/
+** IN-PROGRESS Prejdi si online kurz na Open University
+- [[https://www.open.edu/openlearn/history-the-arts/digital-humanities-humanities-research-the-digital-age/content-section-overview?active-tab=content-tab][Digital humanities: humanities research in the digital age]]
+** TODO Rozveď tretiu časť osnovy
+:LOGBOOK:
+- State "TODO"       from "IN-PROGRESS" [2025-03-30 Sun 11:26]
+- State "IN-PROGRESS" from              [2025-03-30 Sun 11:26]
+:END:
+
+** DONE Sprav osnovu učebnice
+CLOSED: [2025-03-30 Sun 11:14] SCHEDULED: <2025-02-20 Thu>
+:LOGBOOK:
+- State "DONE"       from "IN-PROGRESS" [2025-03-30 Sun 11:14]
+- State "IN-PROGRESS" from "TODO"       [2025-03-29 Sat 08:41] \\
+  Založil som dokument s osnovou učebnice.
+:END:
+
+* TODO Write eltec generation scripts
 - Eltec generation scripts are implemented in "scripts/dispro.py", "pandoc/readers", "pandoc/writers" directory
+** TODO Lua filter for juls note processing is not working           :error:
 ** TODO Write custom pandoc writer for eltec .xml files
 - A custom pandoc writer for eltec files makes it possible to use pandoc to
   generate eltec files out of any of the input types pandoc recognizes
@@ -200,7 +469,7 @@ CLOSED: [2024-11-20 Wed 09:14]
 + [[https://github.com/jgm/pandoc-templates][Pandoc Templates Repo]]
 + [[https://pandoc.org/custom-writers.html][Creating Custom Pandoc Writers in Lua]]
 + [[https://pandoc.org/lua-filters.html#lua-type-reference][Types of objects available to Lua filters]
-*** NEXT Removing newlines while prettifying seems to leave two spaces
+*** TODO Removing newlines while prettifying seems to leave two spaces
 *** TODO Write code for validating whole corpus
 *** SOMEDAY Chapters should be wrapped inside <div> according ELTeC standard
 - collection of chapters should have the "type" attribute set to "group"
@@ -252,7 +521,7 @@ CLOSED: [2024-07-02 Tue 14:03]
 + Test eltec from images transformation
 + Test metadata generation
 + Generated files should be valid according to eltec standard
-** SOMEDAY Use AI to correct OCR artefacts
+** TODO Use AI to correct OCR artefacts
 The "autocorrect" should identify all misspelled words within the file and use 
 the predictive capabilities of LLM to correct the misspelling. The script
 should be able to run in guided mode in which, if there more options to correct 
@@ -266,37 +535,5 @@ the misspeling, user is prompted to chose one.
   + [[https://x.com/simonw/status/1831207719745077493]]
 + [[https://generativehistory.substack.com/p/introducing-transcription-pearl][Introducing Transcription Pearl]]
   + [[https://github.com/mhumphries2323/Transcription_Pearl][Transcription Pearl GitHub]]
-
-* DONE [#A] Posli podpisane doklady do Nitry
-CLOSED: [2024-11-22 Fri 14:42] DEADLINE: <2024-11-22 Fri> SCHEDULED: <2024-11-21 Thu 16:00>
-* DONE Sprav vykaz pre JULS
-CLOSED: [2024-11-19 Tue 13:42] DEADLINE: <2024-11-25 Mon> SCHEDULED: <2024-11-18 Mon 08:00-09:00>
-* DONE Create a custom pandoc reader for eltec files
-CLOSED: [2024-06-18 Tue 16:54]
-
-[[https://pandoc.org/custom-readers.html][Custom reader]] for eltec .xml can be used to
-transform eltec files into any type of pandoc output.
-
-Custom reader is simply a lua file that defines a 'Reader' function which takes two arguments:
-
-+ the raw input to be parsed, as a list of sources
-+ optionally, a table of reader options,  e.g. { columns = 62, standalone = true }.
-
-The Reader function should return a Pandoc AST. Look here on how to maniplate Pandoc
-AST: [[https://pandoc.org/lua-filters.html]]
-
-The reader is then invoked by putting the path to file implementing the reader function
-after the -f option when using pandoc command:
-
-#+begin_src
-pandoc input -f <file with reader definition> -t <output type> -o output
-#+end_src
-
-** DONE Transform eltec file into pandoc's AST
-CLOSED: [2024-06-11 Tue 15:19]
-
-+ Create mapping between eltec elements and pandoc AST
-+ Extract all eltec elements occuring within <text>
-+ Generate pandoc AST out of eltec elements
-+ It is possible to modify existing Blocks with function in pandoc.List module
-
+* DONE Posli podpisane dokumenty do Nitry
+CLOSED: [2025-03-12 Wed 10:30] SCHEDULED: <2025-03-11 Tue>

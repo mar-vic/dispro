@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tei:TEI xml:id="slk1972881" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+<tei:TEI xml:id="slk1972130" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
  <tei:teiHeader>
   <tei:fileDesc>
    <tei:titleStmt>
@@ -75,7 +75,7 @@
    </tei:textDesc>
   </tei:profileDesc>
   <tei:revisionDesc>
-   <tei:change when="2024-12-19">
+   <tei:change when="2025-01-28">
     Initially created as an ELTeC file
    </tei:change>
   </tei:revisionDesc>
@@ -83,7 +83,11 @@
  <tei:text>
   <tei:front>
    <tei:div type="titlepage">
-    <tei:head/>
+    <tei:head>
+     <tei:hi>
+      Rozprávky starej matere
+     </tei:hi>
+    </tei:head>
     <tei:head/>
    </tei:div>
   </tei:front>
@@ -93,241 +97,245 @@
      DIEVČATKO
     </tei:head>
     <tei:p>
-     Bolo raz jedno dievčatko. Žilo na dedine v malom drevenom domčeku   pririeke. Okolo Vianoc ho začali pobolievať oči. O niekoľko dní sa   muzapálili a potom už dobre nevidelo.
+     Bolo raz jedno dievčatko. Žilo na dedine v malom drevenom domčeku   pri rieke. Okolo Vianoc ho začali pobolievať oči. O niekoľko dní sa   mu zapálili a potom už dobre nevidelo.
     </tei:p>
     <tei:p>
-     Najhoršie mu bývalo ráno. Mihalnice mávalo zalepené hnisom. Ani   otvoriťich nemohlo. Matka mu umývala oči odvarom z harmančeka, ale   ani potomnevidelo zreteľne. Bolo také svetloplaché, že najradšej   sedávalo nastarom kožuchu pri peci a počúvalo, čo sa deje vonku.
+     Najhoršie mu bývalo ráno. Mihalnice mávalo zalepené hnisom. Ani   otvoriť ich nemohlo. Matka mu umývala oči odvarom z harmančeka, ale   ani potom nevidelo zreteľne. Bolo také svetloplaché, že najradšej   sedávalo na starom kožuchu pri peci a počúvalo, čo sa deje vonku.
     </tei:p>
     <tei:p>
      Tam od rána do večera dula víchrica.
     </tei:p>
     <tei:p>
-     Dievčatko počulo, ako divo cvála okolo dreveného domčeka. Zavše   saoprela do strechy, až krovy zaprašťali. Vtedy sa bálo, že   domčekodnesie. Predstavovalo si víchricu ako velikánsku ženu s   vlajúcimišatami, ktorá lieta zo zasnežených vrchov do dolín a váľa do   snehovýchzávejov všetko, čo jej príde do cesty.
+     Dievčatko počulo, ako divo cvála okolo dreveného domčeka. Zavše sa   oprela do strechy, až krovy zaprašťali. Vtedy sa bálo, že domček   odnesie. Predstavovalo si víchricu ako velikánsku ženu s vlajúcimi   šatami, ktorá lieta zo zasnežených vrchov do dolín a váľa do   snehových závejov všetko, čo jej príde do cesty.
     </tei:p>
     <tei:p>
-     Dievčatku sa v takých chvíľach nijako nežiadalo byť vonku. Hneď   ránosadlo si na kožuch a trpezlivo očakávalo, kedy sa na zadnej izbe   otvoriadvere a hneď zatým ozve sa milý hlas starej matere:
+     Dievčatku sa v takých chvíľach nijako nežiadalo byť vonku. Hneď   ráno sadlo si na kožuch a trpezlivo očakávalo, kedy sa na zadnej izbe   otvoria dvere a hneď zatým ozve sa milý hlas starej matere:
     </tei:p>
     <tei:p>
      — Ty si už vstala, Hanička moja?
     </tei:p>
     <tei:p>
-     Dievčatku by bolo bývalo veľmi smutno bez starej matere. Otec mu   zahynulv prvej svetovej vojne, keď malo štyri roky, a mať chodievala   na celédni po zárobkoch.
+     Dievčatku by bolo bývalo veľmi smutno bez starej matere. Otec mu   zahynul v prvej svetovej vojne, keď malo štyri roky, a mať chodievala   na celé dni po zárobkoch.
     </tei:p>
     <tei:p>
-     Stará mať vedela krásne rozprávať. A v chorobe sa dievčatko tým   viacejupriamilo na jej rozprávky. Boli to zvláštne rozprávky. Nie   oprinceznách a šarkanoch, ani o strigách a čarodejníkoch, ale o tom,   čostará mať sama prežila vo svojom dlhom živote.
+     Stará mať vedela krásne rozprávať. A v chorobe sa dievčatko tým   viacej upriamilo na jej rozprávky. Boli to zvláštne rozprávky. Nie o   princeznách a šarkanoch, ani o strigách a čarodejníkoch, ale o tom,   čo stará mať sama prežila vo svojom dlhom živote.
     </tei:p>
     <tei:p>
-     Pri jej rozprávkach tratilo sa dievčatku spred očí všetko, čo bolo   vizbe: postele, stôl so stoličkami, maľovaná truhla, obrázky na   stenách,pokrovce na dlážke z farbistých handričiek i veľká pec v   tmavom kúte. Ajtak už nábytok v izbe pre choré oči dobre nevidelo.   Celá izba akoby bolabývala naplnená sivým dymom. Svetlo z oblokov len   zväčšovalo dievčatkubolesť v očiach. Preto si oči radšej privieralo.   Potom si tým jasnejšiepredstavovalo živú príhodu, čo rozprávala stará   mať.
+     Pri jej rozprávkach tratilo sa dievčatku spred očí všetko, čo bolo   v izbe: postele, stôl so stoličkami, maľovaná truhla, obrázky na   stenách, pokrovce na dlážke z farbistých handričiek i veľká pec v   tmavom kúte. Aj tak už nábytok v izbe pre choré oči dobre nevidelo.   Celá izba akoby bola bývala naplnená sivým dymom. Svetlo z oblokov   len zväčšovalo dievčatku bolesť v očiach. Preto si oči radšej   privieralo. Potom si tým jasnejšie predstavovalo živú príhodu, čo   rozprávala stará mať.
     </tei:p>
     <tei:p>
-     Stará mať sadla si vždy k teplej peci na nízky stolček. Pred seba   sipoložila opálku s ovčou vlnou. Dievčatku sa len nezreteľne marila   vočiach. Skôr vedelo, ako videlo, že tvár má okrúžlenú bielym čepcom   aruky usilovne rozpletajú skrútené chĺpky vlny.
+     Stará mať sadla si vždy k teplej peci na nízky stolček. Pred seba   si položila opálku s ovčou vlnou. Dievčatku sa len nezreteľne marila   v očiach. Skôr vedelo, ako videlo, že tvár má okrúžlenú bielym čepcom   a ruky usilovne rozpletajú skrútené chĺpky vlny.
     </tei:p>
     <tei:p>
-     Načuchraná kôpočka začala rásť. Dievčatko ju chvíľu pritískalo   dlaňou apotom tichým hláskom zaprosilo:
+     Načuchraná kôpočka začala rásť. Dievčatko ju chvíľu pritískalo   dlaňou a potom tichým hláskom zaprosilo:
     </tei:p>
     <tei:p>
-     - Stará mať, ako to bolo, keď ste boli malá?
-    </tei:p>
-    <tei:div type="chapter">
+     -
+     <tei:p>
+      Stará mať, ako to bolo, keď ste boli malá?
+     </tei:p>
+     <tei:p>
+     </tei:p>
+     <tei:div type="chapter">
       <tei:head>
-        KEĎ BOLA STARÁ MAŤ MALÁ…
+       KEĎ BOLA STARÁ MAŤ MALÁ…
       </tei:head>
       <tei:p>
-        Stará mať položila chĺpok načuchranej vlny na kôpku. Potom si   nabrala dopriehrštia novej, a keď ju začala rozpletať, dala sa aj do   rozprávky.
+       Stará mať položila chĺpok načuchranej vlny na kôpku. Potom si   nabrala do priehrštia novej, a keď ju začala rozpletať, dala sa aj do   rozprávky.
       </tei:p>
       <tei:p>
-        — Nás bolo doma sedem detí. Otec odchodil na jar i na leto do   Peštidomy murovať. Doma ostala s nami sama mať. Z jari otec ešte   pooral aobsial zeme, ostatné sme si už porobili sami: zemiakov sme   nasadili,ľanu nasiali, hrudy potkli a tak rad-radom všetko čakalo na   nás.
+       — Nás bolo doma sedem detí. Otec odchodil na jar i na leto do   Pešti domy murovať. Doma ostala s nami sama mať. Z jari otec ešte   pooral a obsial zeme, ostatné sme si už porobili sami: zemiakov sme   nasadili, ľanu nasiali, hrudy potkli a tak rad-radom všetko čakalo na   nás.
       </tei:p>
       <tei:p>
-        Za rána, keď sme sa my menší poprebúdzali, ešte sme ani oči   dobreneotvorili, už sme na mater volali: „Mamo, hladní sme!”
+       Za rána, keď sme sa my menší poprebúdzali, ešte sme ani oči dobre   neotvorili, už sme na mater volali: „Mamo, hladní sme!“
       </tei:p>
       <tei:p>
-        Varievala nám na trojnožkovej panvici na ohnisku zemiaky v šupke.   A všez tých najdrobnejších, čo už boli uvarené, hodila každému zopár   dokošieľky. My sme si ich najprv prekladali z ruky do ruky,   ofukovali, akeď trochu ochladli, zjedli sme ich aj so šupkami ako   maškrty.
+       Varievala nám na trojnožkovej panvici na ohnisku zemiaky v šupke.   A vše z tých najdrobnejších, čo už boli uvarené, hodila každému zopár   do košieľky. My sme si ich najprv prekladali z ruky do ruky,   ofukovali, a keď trochu ochladli, zjedli sme ich aj so šupkami ako   maškrty.
       </tei:p>
       <tei:p>
-        Kým sa zemiaky uvarili, poobliekali sme sa, pričom starší z nás   pomáhalimladším. Posadali sme si okolo stola, mať vysypala zemiaky na   červenúhlinenú misu i vyberali sme ich, olupovali a jedli a zapíjali   kyslýmmliekom.
+       Kým sa zemiaky uvarili, poobliekali sme sa, pričom starší z nás   pomáhali mladším. Posadali sme si okolo stola, mať vysypala zemiaky   na červenú hlinenú misu i vyberali sme ich, olupovali a jedli a   zapíjali kyslým mliekom.
       </tei:p>
       <tei:p>
-        Keď sme sa najedli, hybaj každé za svojou robotou!
+       Keď sme sa najedli, hybaj každé za svojou robotou!
       </tei:p>
       <tei:p>
-        Mať vzala do náručia poľné kolísky a košík s najmenším na   chrbát.Staršie dievčatá pobrali motyky, tĺky a šli s ňou do poľa. Nám   menšímpridelila robotu doma: husi pásť, plátno polievať, na zelinu   chodiť.
+       Mať vzala do náručia poľné kolísky a košík s najmenším na chrbát.   Staršie dievčatá pobrali motyky, tĺky a šli s ňou do poľa. Nám menším   pridelila robotu doma: husi pásť, plátno polievať, na zelinu   chodiť.
       </tei:p>
       <tei:p>
-        — A vy ste čo robili, stará mať? – opýtalo sa dievčatko a   zamysleneošklbávalo vlnu na starom kožuchu.
+       — A vy ste čo robili, stará mať? – opýtalo sa dievčatko a   zamyslene ošklbávalo vlnu na starom kožuchu.
       </tei:p>
       <tei:p>
-        — Ja som chodila plátno polievať, čo mať v zime natkala. To   bývalamoja najmilšia robota. Uviazala som si ho do plachtičky, vzala   na chrbáta išla som s ním k potôčiku. Tam som ho povystierala na   zelenú pažiť,poprikladala som ho zvariakmi z potoka, aby ho vietor   neodniesol, ačoraz uschlo, poliala som ho vodou z potôčika. Slniečko   ho peknevybielilo, a keď už bolo ako sneh, veľmi som sa tešila, lebo   ma mať vždypochválila.
+       — Ja som chodila plátno polievať, čo mať v zime natkala. To bývala   moja najmilšia robota. Uviazala som si ho do plachtičky, vzala na   chrbát a išla som s ním k potôčiku. Tam som ho povystierala na zelenú   pažiť, poprikladala som ho zvariakmi z potoka, aby ho vietor   neodniesol, a čoraz uschlo, poliala som ho vodou z potôčika. Slniečko   ho pekne vybielilo, a keď už bolo ako sneh, veľmi som sa tešila, lebo   ma mať vždy pochválila.
       </tei:p>
       <tei:p>
-        V lete sme si na otca skoro ani nepomysleli. Ale keď sa blížila   jeseň avysoko v povetrí začínali preletúvať divé husi, začali sme aj   my otcaobčakávať. Každú chvíľu vyšli sme na cestu vyzerať, či sa už   nevraciadomov. Obyčajne to bolo tak, že jedno z nás vybehlo na cestu   a nečakanezazrelo zaprášeného človeka kráčať hore dedinou. Tanistru   niesol nachrbte. Len čo podišiel bližšie a ono ho spoznalo, hneď   vletelo do izby,vykríklo: „Otec ide!” a vyrútilo sa mu naproti.
+       V lete sme si na otca skoro ani nepomysleli. Ale keď sa blížila   jeseň a vysoko v povetrí začínali preletúvať divé husi, začali sme aj   my otca občakávať. Každú chvíľu vyšli sme na cestu vyzerať, či sa už   nevracia domov. Obyčajne to bolo tak, že jedno z nás vybehlo na cestu   a nečakane zazrelo zaprášeného človeka kráčať hore dedinou. Tanistru   niesol na chrbte. Len čo podišiel bližšie a ono ho spoznalo, hneď   vletelo do izby, vykríklo: „Otec ide!“ a vyrútilo sa mu naproti.
       </tei:p>
       <tei:p>
-        Všetci sme vybehli na cestu. My menší sme sa rozbehli rovno proti   nemu.Pustil sa do plaču, keď nás pritískal k sebe.
+       Všetci sme vybehli na cestu. My menší sme sa rozbehli rovno proti   nemu. Pustil sa do plaču, keď nás pritískal k sebe.
       </tei:p>
       <tei:p>
-        — A prečo plakal, stará mať? – začudovalo sa dievčatko.   Nevedelopochopiť, ako mohol plakať, keď ostatní sa tešili.
+       — A prečo plakal, stará mať? – začudovalo sa dievčatko. Nevedelo   pochopiť, ako mohol plakať, keď ostatní sa tešili.
       </tei:p>
       <tei:p>
-        — Od radosti plakal, dieťa moje… A keď prišiel do izby,   najprvzhodil tanistru na lavicu a hneď ju začal rozväzovať.
+       — Od radosti plakal, dieťa moje… A keď prišiel do izby, najprv   zhodil tanistru na lavicu a hneď ju začal rozväzovať.
       </tei:p>
       <tei:p>
-        Všetci sme sa zhrčili k nemu a čakali sme, čo z nej vytiahne.
+       Všetci sme sa zhrčili k nemu a čakali sme, čo z nej vytiahne.
       </tei:p>
       <tei:p>
-        Vtedy, čo si ho ja pamätám, prišiel ostatný raz zo sveta.   Materidoniesol krásnu červenú šatku s votkanými žltými ľaliami. Len   sa takmenili farby na nej! Starším dievčatám vytiahol široké stužky   do vlasova nám menším marcipánové panny a kone. Tak krásne boli   cifrované, že námich až ľúto bolo zjesť.
+       Vtedy, čo si ho ja pamätám, prišiel ostatný raz zo sveta. Materi   doniesol krásnu červenú šatku s votkanými žltými ľaliami. Len sa tak   menili farby na nej! Starším dievčatám vytiahol široké stužky do   vlasov a nám menším marcipánové panny a kone. Tak krásne boli   cifrované, že nám ich až ľúto bolo zjesť.
       </tei:p>
       <tei:p>
-        Neskoro večer poschodili sa susedia popočúvať chýry, čo otec   doniesol zosveta. Vtedy ešte nebolo novín. Ľudia nevedeli, čo sa vo   svete robí, abolo im vzácne dozvedieť sa, kde aká vojna stojí, ktorý   kráľ kde umrel aako panuje nový.
+       Neskoro večer poschodili sa susedia popočúvať chýry, čo otec   doniesol zo sveta. Vtedy ešte nebolo novín. Ľudia nevedeli, čo sa vo   svete robí, a bolo im vzácne dozvedieť sa, kde aká vojna stojí, ktorý   kráľ kde umrel a ako panuje nový.
       </tei:p>
       <tei:p>
-        — A v zime čo robil? – opýtalo sa dievčatko. Veľmi sa tešilo, že   sastarej materin otec vrátil domov, ale chýry zo sveta ho   nezaujímali.
+       — A v zime čo robil? – opýtalo sa dievčatko. Veľmi sa tešilo, že   sa starej materin otec vrátil domov, ale chýry zo sveta ho   nezaujímali.
       </tei:p>
       <tei:p>
-        — V zime mlátil zbožie, čo sa nám urodilo. A chodil na blízke   dedinyhrávať na svadby. Bol chýrny muzikant-huslista, – vysvetlila   stará maťa dievčatko z jej hlasu poznalo, aká je ešte dnes pyšná na   otcovumuziku.
+       — V zime mlátil zbožie, čo sa nám urodilo. A chodil na blízke   dediny hrávať na svadby. Bol chýrny muzikant-huslista, – vysvetlila   stará mať a dievčatko z jej hlasu poznalo, aká je ešte dnes pyšná na   otcovu muziku.
       </tei:p>
       <tei:p>
-        — To chodili viacerí spolu, – pokračovala stará mať, – jeden z   nichhrával na base. Do basy im hádzali peniaze.
+       — To chodili viacerí spolu, – pokračovala stará mať, – jeden z   nich hrával na base. Do basy im hádzali peniaze.
       </tei:p>
       <tei:p>
-        A keď prišli zo svadby, podelili si, čo spolu vyhrali.
+       A keď prišli zo svadby, podelili si, čo spolu vyhrali.
       </tei:p>
       <tei:p>
-        Tá basa mala hrubý hlas. Otec nám vravieval, že keď na nej hrajú,   ona simručí túto pesničku:
+       Tá basa mala hrubý hlas. Otec nám vravieval, že keď na nej hrajú,   ona si mručí túto pesničku:
       </tei:p>
       <tei:p>
-        #POEZIA#
+       #POEZIA#
       </tei:p>
       <tei:p>
-        Polovného,
+       Polovného,
       </tei:p>
       <tei:p>
-        polovného,
+       polovného,
       </tei:p>
       <tei:p>
-        len by bol!
+       len by bol!
       </tei:p>
       <tei:p>
-        #-POEZIA#
+       #-POEZIA#
       </tei:p>
       <tei:p>
-        Dievčatko sa zasmialo, keď stará mať napodobnila mrmlavý hlas   basy. Alenerozumelo slovám pesničky, preto sa dozvedalo:
+       Dievčatko sa zasmialo, keď stará mať napodobnila mrmlavý hlas   basy. Ale nerozumelo slovám pesničky, preto sa dozvedalo:
       </tei:p>
       <tei:p>
-        — Čo je to polovný, stará mať?
+       — Čo je to polovný, stará mať?
       </tei:p>
       <tei:p>
-        — Polovný chlebík pečú z takej múky, čo namleli z polovice jačmeňa   a zpolovice ovsa. Taký chlebík je veru poriadne čierny. A basa mrmle,   žekeď niet iného, dobrý je aj ten, ale že ani toho vždy nieto.
+       — Polovný chlebík pečú z takej múky, čo namleli z polovice jačmeňa   a z polovice ovsa. Taký chlebík je veru poriadne čierny. A basa   mrmle, že keď niet iného, dobrý je aj ten, ale že ani toho vždy   nieto.
       </tei:p>
       <tei:p>
-        Dievčatko už teraz porozumelo a počúvalo ďalej.
+       Dievčatko už teraz porozumelo a počúvalo ďalej.
       </tei:p>
       <tei:p>
-        Raz som mútila mlieko. Len som sa veľmi náhlila, i dbanka sa mi   vyvalilaa hodne mlieka sa vylialo. Chytro som sa schovala pod posteľ,   aby ma maťnenašla a neubila.
+       Raz som mútila mlieko. Len som sa veľmi náhlila, i dbanka sa mi   vyvalila a hodne mlieka sa vylialo. Chytro som sa schovala pod   posteľ, aby ma mať nenašla a neubila.
       </tei:p>
       <tei:p>
-        A práve vtedy sa vrátili muzikanti aj s naším otcom z akejsi   svadbydomov.
+       A práve vtedy sa vrátili muzikanti aj s naším otcom z akejsi   svadby domov.
       </tei:p>
       <tei:p>
-        Učupená pod posteľou dívala som sa, ako si budú peniaze deliť.
+       Učupená pod posteľou dívala som sa, ako si budú peniaze deliť.
       </tei:p>
       <tei:p>
-        Mať prišla zo dvora a na rozliate mlieko nemala sa ani kedy   hnevať.Naprostred izby prestrela im veľký ľanový obrus a oni začali   vytriasať zbasy medenáky a dvojgrošníky.
+       Mať prišla zo dvora a na rozliate mlieko nemala sa ani kedy   hnevať. Naprostred izby prestrela im veľký ľanový obrus a oni začali   vytriasať z basy medenáky a dvojgrošníky.
       </tei:p>
       <tei:p>
-        Jeden dvojgrošník dokotúľal sa, čo nevideli, až ku mne. Stisla som   ho vdlani a čakala som pod posteľou, kým si muzikanti všetok   zároboknepodelili. Keď vyšli z izby von, vytiahla som sa aj ja spod   postele.Dvojgrošník som schovala medzi handričky pod truhlu. Tam som   mávalauloženú handrovú bábiku. Myslela som si, že dvojgrošník dám   materi, keďpôjde na jarmok; nech mi zaň kúpi stužku do vlasov. Ešte   som bola malá atakým sa vlasy uväzovali len farbistou šnúročkou. A ja   som veľmi túžilapo stužke.
+       Jeden dvojgrošník dokotúľal sa, čo nevideli, až ku mne. Stisla som   ho v dlani a čakala som pod posteľou, kým si muzikanti všetok zárobok   nepodelili. Keď vyšli z izby von, vytiahla som sa aj ja spod postele.   Dvojgrošník som schovala medzi handričky pod truhlu. Tam som mávala   uloženú handrovú bábiku. Myslela som si, že dvojgrošník dám materi,   keď pôjde na jarmok; nech mi zaň kúpi stužku do vlasov. Ešte som bola   malá a takým sa vlasy uväzovali len farbistou šnúročkou. A ja som   veľmi túžila po stužke.
       </tei:p>
       <tei:p>
-        Bolo vtedy akosi pred jarou.
+       Bolo vtedy akosi pred jarou.
       </tei:p>
       <tei:p>
-        Večer sme sedeli pri ohnisku a otec začal spomínať, že už nepôjde   dosveta, lebo už nevyvládze toľkú cestu z Oravy do Pešti, že ostane   robiťdoma a bude na svadbách hrávať.
+       Večer sme sedeli pri ohnisku a otec začal spomínať, že už nepôjde   do sveta, lebo už nevyvládze toľkú cestu z Oravy do Pešti, že ostane   robiť doma a bude na svadbách hrávať.
       </tei:p>
       <tei:p>
-        Mať sa dala do plaču. Starala sa, ako len vyžijú so siedmimi   deťmi. Aledarmo nariekala: otec už nemal nijakej chuti odísť z domu.   Nakoniec samať nahnevala, schytila otcove husle a utekala s nimi   rovno pod cieňu.Tam ich položila na klát a rozrúbala sekerou. „Teraz   hraj, na čomchceš!” povedala nahnevaná. Keď sme to otcovi oznámili,   celkom zmeravel.Schúlil sa na lavici pri kozube a vyzeral ako bez   duše. Celý večernepovedal ani slovko.
+       Mať sa dala do plaču. Starala sa, ako len vyžijú so siedmimi   deťmi. Ale darmo nariekala: otec už nemal nijakej chuti odísť z domu.   Nakoniec sa mať nahnevala, schytila otcove husle a utekala s nimi   rovno pod cieňu. Tam ich položila na klát a rozrúbala sekerou. „Teraz   hraj, na čom chceš!“ povedala nahnevaná. Keď sme to otcovi oznámili,   celkom zmeravel. Schúlil sa na lavici pri kozube a vyzeral ako bez   duše. Celý večer nepovedal ani slovko.
       </tei:p>
       <tei:p>
-        ***
+       ***
       </tei:p>
       <tei:p>
-        V našom dome ostalo také ticho, akoby nám bol niekto umrel. Mať   chodilaprudko z izby do dvora a naspäť. Robila si svoju každodennú   robotu atiež zanovito mlčala.
+       V našom dome ostalo také ticho, akoby nám bol niekto umrel. Mať   chodila prudko z izby do dvora a naspäť. Robila si svoju každodennú   robotu a tiež zanovito mlčala.
       </tei:p>
       <tei:p>
-        Tak to chodilo u nás niekoľko dní. Otec aj robil, aj jedol, ale   všetkolen ako v mrákotách. Mne ho bolo veľmi ľúto. Aj za husľami som   banovala.Ako len bývalo u nás, keď si otec na husličkách   zafidlikoval!
+       Tak to chodilo u nás niekoľko dní. Otec aj robil, aj jedol, ale   všetko len ako v mrákotách. Mne ho bolo veľmi ľúto. Aj za husľami som   banovala. Ako len bývalo u nás, keď si otec na husličkách   zafidlikoval!
       </tei:p>
       <tei:p>
-        Raz sme si sadli k večeri. Otec si vzal do ruky lyžicu, ale keď   videlnahnevanú mater, ako bez slova dala misu na stôl, lyžicu   odložil. Takýostal smutný, že som sa nevydržala naň dívať. Vstala som   od stola,skrčila som sa pod truhlu a vytiahla som odtiaľ dvojgrošník,   zakrútený vhandričke. Zaniesla som ho otcovi:
+       Raz sme si sadli k večeri. Otec si vzal do ruky lyžicu, ale keď   videl nahnevanú mater, ako bez slova dala misu na stôl, lyžicu   odložil. Taký ostal smutný, že som sa nevydržala naň dívať. Vstala   som od stola, skrčila som sa pod truhlu a vytiahla som odtiaľ   dvojgrošník, zakrútený v handričke. Zaniesla som ho otcovi:
       </tei:p>
       <tei:p>
-        „Nate, ňaňo, kúpte si druhé husle!”
+       „Nate, ňaňo, kúpte si druhé husle!“
       </tei:p>
       <tei:p>
-        Mať sa dívala, čo to robím. Nepovedala nič.
+       Mať sa dívala, čo to robím. Nepovedala nič.
       </tei:p>
       <tei:p>
-        Otec sa usmieval, ale tak smutno, že mi bolo do plaču.
+       Otec sa usmieval, ale tak smutno, že mi bolo do plaču.
       </tei:p>
       <tei:p>
-        Potom sa ma opýtal, kde som vzala dvojgrošník.
+       Potom sa ma opýtal, kde som vzala dvojgrošník.
       </tei:p>
       <tei:p>
-        Rozpovedala som, ako som k nemu prišla. Všetci počúvali. Aj mať.   „A načosi si ho schovávala?” vyzvedal sa ma otec s úsmevom.
+       Rozpovedala som, ako som k nemu prišla. Všetci počúvali. Aj mať.   „A načo si si ho schovávala?“ vyzvedal sa ma otec s úsmevom.
       </tei:p>
       <tei:p>
-        „Chcela som, aby mi zaň mať kúpila na jarmoku stužku do vlasov.   Aleteraz už nechcem.”
+       „Chcela som, aby mi zaň mať kúpila na jarmoku stužku do vlasov.   Ale teraz už nechcem.“
       </tei:p>
       <tei:p>
-        „Len si ho nechaj,” povedal mi otec, „aj tak bol už posledný, čo   som nasvadbe zarobil.”
+       „Len si ho nechaj,“ povedal mi otec, „aj tak bol už posledný, čo   som na svadbe zarobil.“
       </tei:p>
       <tei:p>
-        Vtedy mať prudko odskočila od stola k truhle. Vybrala z nej   krásnučervenú šatku so žltými ľaliami. Vyšla s ňou von.
+       Vtedy mať prudko odskočila od stola k truhle. Vybrala z nej krásnu   červenú šatku so žltými ľaliami. Vyšla s ňou von.
       </tei:p>
       <tei:p>
-        Nevedeli sme, čo zamýšľa. Skončili sme večeru celí nesvoji. Už   bola tma,a matere nikde. Menšie deti aj pospali, ale ja som čupela v   posteli.Čakala som na mater.
+       Nevedeli sme, čo zamýšľa. Skončili sme večeru celí nesvoji. Už   bola tma, a matere nikde. Menšie deti aj pospali, ale ja som čupela v   posteli. Čakala som na mater.
       </tei:p>
       <tei:p>
-        Keď konečne prišla, držala v rukách husle. Vložila ich otcovi do   rúk apovedala mu prívetivým hlasom:
+       Keď konečne prišla, držala v rukách husle. Vložila ich otcovi do   rúk a povedala mu prívetivým hlasom:
       </tei:p>
       <tei:p>
-        „Bude lepšie, keď ostaneš doma. Aj tak už všetko nestačím dorobiť   napoli. A toto,” ukázala na husle, „aby si mal na čom na svadbách   hrávať.”
+       „Bude lepšie, keď ostaneš doma. Aj tak už všetko nestačím dorobiť   na poli. A toto,“ ukázala na husle, „aby si mal na čom na svadbách   hrávať.“
       </tei:p>
       <tei:p>
-        „A kde si ich vzala?” opýtal sa otec celkom premenený.
+       „A kde si ich vzala?“ opýtal sa otec celkom premenený.
       </tei:p>
       <tei:p>
-        „Vymenila som ich u cigánov za tú červenú šatku, čo si mi z   Peštidoniesol. Aj tak by mi už nesvedčala taká ohnivá. A dievky by sa   darmopobili pre ňu,” doložila celkom usmiata.
+       „Vymenila som ich u cigánov za tú červenú šatku, čo si mi z Pešti   doniesol. Aj tak by mi už nesvedčala taká ohnivá. A dievky by sa   darmo pobili pre ňu,“ doložila celkom usmiata.
       </tei:p>
       <tei:p>
-        Otec už viac nešiel do sveta. Robil s materou na poli a hrával   nasvadbách. Staršie dievky odišli slúžiť.
+       Otec už viac nešiel do sveta. Robil s materou na poli a hrával na   svadbách. Staršie dievky odišli slúžiť.
       </tei:p>
       <tei:p>
-        — A s tým dvojgrošníkom čo ste spravili, stará mať?
+       — A s tým dvojgrošníkom čo ste spravili, stará mať?
       </tei:p>
       <tei:p>
-        — Za ten mi kúpila mať na jarmoku stužku do vlasov. Takú   krásnučervenú a širokú. Ale to bola vzácna stužka! Tá nám zachránila   otca,lebo on dobre cítil, že je už slabý na dlhé vandrovky. Bol by   isteniekde zahynul v cudzom svete, – doložila stará mať.
+       — Za ten mi kúpila mať na jarmoku stužku do vlasov. Takú krásnu   červenú a širokú. Ale to bola vzácna stužka! Tá nám zachránila otca,   lebo on dobre cítil, že je už slabý na dlhé vandrovky. Bol by iste   niekde zahynul v cudzom svete, – doložila stará mať.
       </tei:p>
       <tei:p>
-        Potom sa odmlčala.
+       Potom sa odmlčala.
       </tei:p>
       <tei:p>
-        Usilovne rozpletala chĺpky bielej vlny a kládla ich na kôpku.
+       Usilovne rozpletala chĺpky bielej vlny a kládla ich na kôpku.
       </tei:p>
       <tei:p>
-        Aj dievčatko mlčalo. Pritískalo našuchorenú kôpku dlaňou. Nasilu   sichcelo, a nijako si nevedelo predstaviť, že tá istá stará mať, čo   terazsedí pri ňom, bola raz malým dievčatkom. A že tiež túžila po   peknejstužke do vlasov…
+       Aj dievčatko mlčalo. Pritískalo našuchorenú kôpku dlaňou. Nasilu   si chcelo, a nijako si nevedelo predstaviť, že tá istá stará mať, čo   teraz sedí pri ňom, bola raz malým dievčatkom. A že tiež túžila po   peknej stužke do vlasov…
       </tei:p>
-    </tei:div>
+     </tei:div>
      <tei:div type="chapter">
       <tei:head>
        STARÁ MAŤ ROZPRÁVA O POVODNI
       </tei:head>
       <tei:p>
-       Raz v noci sa dievčatko prebudilo. Počulo praskať ľad. Zlovestný   praskotho naľakal. Dobre sa totiž pamätalo z minulých rokov, ako to   bývalokoncom zimy s riekou.
+       Raz v noci sa dievčatko prebudilo. Počulo praskať ľad. Zlovestný   praskot ho naľakal. Dobre sa totiž pamätalo z minulých rokov, ako to   bývalo koncom zimy s riekou.
       </tei:p>
       <tei:p>
-       Ľadová pokrývka na nej pukala, puklinami odspodu vyvierala voda   arozlievala sa po ľade. Vtedy sa už nedalo po ňom chodiť ako po   moste.
+       Ľadová pokrývka na nej pukala, puklinami odspodu vyvierala voda a   rozlievala sa po ľade. Vtedy sa už nedalo po ňom chodiť ako po   moste.
       </tei:p>
       <tei:p>
-       Dievčatko sa bálo. Mať pri ňom tuho spala a ono ju nechcelo   zobudiť. Aletým viac v ňom rástol strach. Predstavilo si rieku, ako   sa naraz začnevzpínať, ako ľad popraská na kusy a rieka len rastie a   rastie, už savylieva na cestu, tečie do dvorov a do izieb, ba už aj   domček pláva doluvodou… Ale tu už dievčatko zobudilo matku.
+       Dievčatko sa bálo. Mať pri ňom tuho spala a ono ju nechcelo   zobudiť. Ale tým viac v ňom rástol strach. Predstavilo si rieku, ako   sa naraz začne vzpínať, ako ľad popraská na kusy a rieka len rastie a   rastie, už sa vylieva na cestu, tečie do dvorov a do izieb, ba už aj   domček pláva dolu vodou… Ale tu už dievčatko zobudilo matku.
       </tei:p>
       <tei:p>
        — Čo ti je, Hanička moja? – nastráchala sa mať.
@@ -336,16 +344,16 @@
        — Bojím sa povodne, – požalovalo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Oj, toho sa ty nemusíš báť! Len pekne spi, teraz už   povodnenebývajú.
+       — Oj, toho sa ty nemusíš báť! Len pekne spi, teraz už povodne   nebývajú.
       </tei:p>
       <tei:p>
        — Nie? A prečo?
       </tei:p>
       <tei:p>
-       — Už dávno ľudia upravili brehy rieky. Veď vieš, aké sú vysoké!   Kdežeby sa ti cez ne voda preliala! Len spi spokojne!
+       — Už dávno ľudia upravili brehy rieky. Veď vieš, aké sú vysoké!   Kdeže by sa ti cez ne voda preliala! Len spi spokojne!
       </tei:p>
       <tei:p>
-       Dievčatko sa uspokojilo. Materine slová boli také bezpečné, že len   čo sapritislo k nej bližšie, ihneď zaspalo.
+       Dievčatko sa uspokojilo. Materine slová boli také bezpečné, že len   čo sa pritislo k nej bližšie, ihneď zaspalo.
       </tei:p>
       <tei:p>
        Keď sa ráno prebudilo, počulo nezvyčajné hučanie za oblokmi.
@@ -354,70 +362,70 @@
        — Ľady idú! – oznámila mu matka.
       </tei:p>
       <tei:p>
-       Dievčatko osmutnelo. Tak rado by bolo vybehlo na cestu ako iné   deti!Lebo len raz do roka možno vidieť, ako sa voda dvihne a ako   mohutnétably ľadu plávajú dolu rozpenenou riekou. Tu ich vlny nadnesú   dohora,tu klesnú dolu, narážajú jedny na druhé, lámu a trieštia sa a   sostrašným hukotom letia dolu vodou.
+       Dievčatko osmutnelo. Tak rado by bolo vybehlo na cestu ako iné   deti! Lebo len raz do roka možno vidieť, ako sa voda dvihne a ako   mohutné tably ľadu plávajú dolu rozpenenou riekou. Tu ich vlny   nadnesú dohora, tu klesnú dolu, narážajú jedny na druhé, lámu a   trieštia sa a so strašným hukotom letia dolu vodou.
       </tei:p>
       <tei:p>
-       Vyskočilo aspoň z postele, stalo si k obloku a nasilu otváralo   zalepenéoči.
+       Vyskočilo aspoň z postele, stalo si k obloku a nasilu otváralo   zalepené oči.
       </tei:p>
       <tei:p>
        Nevidelo nič… Ale vtom vošla do izby stará mať a povedala   láskavo:
       </tei:p>
       <tei:p>
-       — Ako dobre, že už ľady odchodia. Príde jar! A tebe sa oči zahoja.   Veďto vieš, že jarné slniečko všetky choroby vylieči.
+       — Ako dobre, že už ľady odchodia. Príde jar! A tebe sa oči zahoja.   Veď to vieš, že jarné slniečko všetky choroby vylieči.
       </tei:p>
       <tei:p>
-       Stará mať umyla vnučke oči, obliekla ju do kabanky, zaplietla   jejvrkôčiky a zaviazala ich tuho tkaničkou, aby sa nerozplietali.   Potomdoniesla teplého mlieka, a kým dievčatko jedlo, dívala sa do   obloka arozprávala mu, čo vidí:
+       Stará mať umyla vnučke oči, obliekla ju do kabanky, zaplietla jej   vrkôčiky a zaviazala ich tuho tkaničkou, aby sa nerozplietali. Potom   doniesla teplého mlieka, a kým dievčatko jedlo, dívala sa do obloka a   rozprávala mu, čo vidí:
       </tei:p>
       <tei:p>
-       — No, už ľady odišli… Už len kde-tu pláva kryha… Už aj   vodaopadáva… Teraz už naozaj tá jar príde…
+       — No, už ľady odišli… Už len kde-tu pláva kryha… Už aj voda   opadáva… Teraz už naozaj tá jar príde…
       </tei:p>
       <tei:p>
-       A keď si stará mať naostatok sadla k svojej obvyklej robote,   dievčatkosa usalašilo na starom ovčom kožuchu a hneď ju   poprosilo:
+       A keď si stará mať naostatok sadla k svojej obvyklej robote,   dievčatko sa usalašilo na starom ovčom kožuchu a hneď ju   poprosilo:
       </tei:p>
       <tei:p>
        — Stará mať, rozprávajte mi o povodni!
       </tei:p>
       <tei:p>
-       — Veru aj nám musela mať o nej rozprávať vždy, keď ľady   šli,– zasmiala sa stará mať. – A muselo to byť strašné, len   počúvaj!
+       — Veru aj nám musela mať o nej rozprávať vždy, keď ľady šli,   – zasmiala sa stará mať. – A muselo to byť strašné, len počúvaj!
       </tei:p>
       <tei:p>
-       Že to vraj bolo v lete a dlho predtým pršalo. Potom sa   rozvodnilipotoky. Z vrchov stekali plné jarky vody a odnášali so   sebou hlinu. Vodabola od nej žltá a mútna ako múľ. A rieka len rástla   a dvíhala sa. Ľudiachodili spávať nezoblečení. V dome cez noc vždy   jeden človek bdel, abynešťastie nezastihlo ľudí spiacich.
+       Že to vraj bolo v lete a dlho predtým pršalo. Potom sa rozvodnili   potoky. Z vrchov stekali plné jarky vody a odnášali so sebou hlinu.   Voda bola od nej žltá a mútna ako múľ. A rieka len rástla a dvíhala   sa. Ľudia chodili spávať nezoblečení. V dome cez noc vždy jeden   človek bdel, aby nešťastie nezastihlo ľudí spiacich.
       </tei:p>
       <tei:p>
-       A práve v tú noc sa to stalo, keď prestalo pršať a ľudia už   nestriehli!Voda sa vyliala nad ránom a odrazu, najprv na cestu a už   aj tiekla dodvorov. Naraz zaliala aj polia na záhumniach. Keď sa   ľudia poprebúdzali,už bola dedina vo vode. Ani do vrchov nemohli   utiecť. Museli vyjsť napôjdy a odtiaľ sa dívali, čo sa robí.
+       A práve v tú noc sa to stalo, keď prestalo pršať a ľudia už   nestriehli! Voda sa vyliala nad ránom a odrazu, najprv na cestu a už   aj tiekla do dvorov. Naraz zaliala aj polia na záhumniach. Keď sa   ľudia poprebúdzali, už bola dedina vo vode. Ani do vrchov nemohli   utiecť. Museli vyjsť na pôjdy a odtiaľ sa dívali, čo sa robí.
       </tei:p>
       <tei:p>
        Muselo to byť strašné, čo videli!
       </tei:p>
       <tei:p>
-       Voda sa s hukotom valila nadol a niesla so sebou drevá zo   zváľanýchmostov, stromy i s koreňmi vyvrátené zo zeme, vozy, dobytok…   Celéchalupy plávali dolu vodou. A na strechách stáli neboráci ľudia a   volalina našich:
+       Voda sa s hukotom valila nadol a niesla so sebou drevá zo   zváľaných mostov, stromy i s koreňmi vyvrátené zo zeme, vozy,   dobytok… Celé chalupy plávali dolu vodou. A na strechách stáli   neboráci ľudia a volali na našich:
       </tei:p>
       <tei:p>
-       „Zbohom sa tu majtéé! Už vás níííkdy neuvidíme!”
+       „Zbohom sa tu majtéé! Už vás níííkdy neuvidíme!“
       </tei:p>
       <tei:p>
-       Okolo poludnia začala voda opadávať. Už ani neniesla toľko   všeličoho sosebou. Ľudia poschádzali zo striech, stáli na prahoch   domov a dívali sa,ako voda ubúda zo dvorov. Keď už tiekla len po   ceste, tu naraz čonezbadali! Popri ceste plávala kolíska s malým   dieťatkom. Veľký pesplával popri nej. Len čo sa kolíska na niektorom   boku trochu naklonila,hneď priplával na tú stranu, a tak sa držal   vždy tesne pri nej, aby saneprevrátila!
+       Okolo poludnia začala voda opadávať. Už ani neniesla toľko   všeličoho so sebou. Ľudia poschádzali zo striech, stáli na prahoch   domov a dívali sa, ako voda ubúda zo dvorov. Keď už tiekla len po   ceste, tu naraz čo nezbadali! Popri ceste plávala kolíska s malým   dieťatkom. Veľký pes plával popri nej. Len čo sa kolíska na niektorom   boku trochu naklonila, hneď priplával na tú stranu, a tak sa držal   vždy tesne pri nej, aby sa neprevrátila!
       </tei:p>
       <tei:p>
-       Ktovie, ako dlho im to trvalo. Keď ich zachytili, pes bol už   celkomvysilený. Ale dieťatku sa v kolíske dobre spalo. Keď ho z nej   vytiahli,zobudilo sa, ale neplakalo. Smialo sa, lebo iste bolo   naspaté do vôle.Nevedelo, chúďa, čo sa s ním robilo!
+       Ktovie, ako dlho im to trvalo. Keď ich zachytili, pes bol už   celkom vysilený. Ale dieťatku sa v kolíske dobre spalo. Keď ho z nej   vytiahli, zobudilo sa, ale neplakalo. Smialo sa, lebo iste bolo   naspaté do vôle. Nevedelo, chúďa, čo sa s ním robilo!
       </tei:p>
       <tei:p>
-       A voda opadúvala stále a stále. Za niekoľko dní tiekla už rieka   pokojne,akoby sa nič nebolo stalo.
+       A voda opadúvala stále a stále. Za niekoľko dní tiekla už rieka   pokojne, akoby sa nič nebolo stalo.
       </tei:p>
       <tei:p>
-       — A čo sa potom stalo s tým dieťatkom? – opýtalo sa   užasnutédievčatko. Skoro by bolo neverilo, že sa toto všetko mohlo   stať.
+       — A čo sa potom stalo s tým dieťatkom? – opýtalo sa užasnuté   dievčatko. Skoro by bolo neverilo, že sa toto všetko mohlo stať.
       </tei:p>
       <tei:p>
-       — Nechali si ho tí ľudia, čo ho chytili s kolískou. Aj verného   psa, čoho zachránil. Ten sa od dieťaťa ani len nepohol! Tí ľudia sami   detinemali, nuž boli chytenému dieťatku veľmi radi. Opatrovali si ho   akosvoje vlastné.
+       — Nechali si ho tí ľudia, čo ho chytili s kolískou. Aj verného   psa, čo ho zachránil. Ten sa od dieťaťa ani len nepohol! Tí ľudia   sami deti nemali, nuž boli chytenému dieťatku veľmi radi. Opatrovali   si ho ako svoje vlastné.
       </tei:p>
       <tei:p>
        — A neprišiel si nikdy nik preň?
       </tei:p>
       <tei:p>
-       — Veru nie! Iste mu rodičia zahynuli v rozvodnenej rieke… Ale ja   somho poznala, – doloží o chvíľu stará mať, – lebo to bola moja   vlastnástará mať…
+       — Veru nie! Iste mu rodičia zahynuli v rozvodnenej rieke… Ale ja   som ho poznala, – doloží o chvíľu stará mať, – lebo to bola moja   vlastná stará mať…
       </tei:p>
       <tei:p>
-       Celý deň nemyslelo dievčatko na nič inšie. Ešte aj večer, keď   zaspávalo,malo pred očami kolísku s dieťatkom a verného psa pri ňom.   Zdalo sa muveľmi krásne, že sa vernému zvieraťu podarilo zachrániť   živé dieťatko. Abolo veľmi šťastné, že ľudia už vedia vymurovať brehy   rieky tak dobre,že sa nik nemusí báť povodne.
+       Celý deň nemyslelo dievčatko na nič inšie. Ešte aj večer, keď   zaspávalo, malo pred očami kolísku s dieťatkom a verného psa pri ňom.   Zdalo sa mu veľmi krásne, že sa vernému zvieraťu podarilo zachrániť   živé dieťatko. A bolo veľmi šťastné, že ľudia už vedia vymurovať   brehy rieky tak dobre, že sa nik nemusí báť povodne.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -431,7 +439,7 @@
        Že nemohlo tej zimy chodiť do školy.
       </tei:p>
       <tei:p>
-       Nezabudlo totiž na veľkú radosť, keď si v jeseni na starom   kamennom domena kraji dediny mohlo už samo prečítať čierny nápis,   napísaný vo výškečloveka čiernou farbou na samom prostriedku   murovanej steny:
+       Nezabudlo totiž na veľkú radosť, keď si v jeseni na starom   kamennom dome na kraji dediny mohlo už samo prečítať čierny nápis,   napísaný vo výške človeka čiernou farbou na samom prostriedku   murovanej steny:
       </tei:p>
       <tei:p>
        <tei:hi>
@@ -440,31 +448,31 @@
        <tei:ref target="#N1"/>
       </tei:p>
       <tei:p>
-       Ale až teraz, keď si na tento nápis spomenulo, celkom uverilo, že   starámať rozprávala o skutočnej udalosti.
+       Ale až teraz, keď si na tento nápis spomenulo, celkom uverilo, že   stará mať rozprávala o skutočnej udalosti.
       </tei:p>
       <tei:p>
-       Dievčatko bolo zvedavé, či aj stará mať chodila do školy. A raz,   keď samu s predstavou o povodni miešal v hlave aj nápis na múre,   umienilo si,že sa starej matere opýta, ako to bolo, keď ona chodila   do školy.
+       Dievčatko bolo zvedavé, či aj stará mať chodila do školy. A raz,   keď sa mu s predstavou o povodni miešal v hlave aj nápis na múre,   umienilo si, že sa starej matere opýta, ako to bolo, keď ona chodila   do školy.
       </tei:p>
       <tei:p>
        A ráno, len čo stará mať vošla do izby, hneď na ňu volalo:
       </tei:p>
       <tei:p>
-       — Budete mi rozprávať, stará mať, ako to bolo, keď ste vy chodili   doškoly?
+       — Budete mi rozprávať, stará mať, ako to bolo, keď ste vy chodili   do školy?
       </tei:p>
       <tei:p>
        — Pravdaže ti budem, – usmiala sa stará mať.
       </tei:p>
       <tei:p>
-       A keď už obe, vnučka so starou materou, sedeli pri peci, začala   starámať rozprávať.
+       A keď už obe, vnučka so starou materou, sedeli pri peci, začala   stará mať rozprávať.
       </tei:p>
       <tei:p>
-       — Len tri zimy som chodila do školy. Štvrtú zimu som sa aj učila,   ajsom slúžila u učiteľa.
+       — Len tri zimy som chodila do školy. Štvrtú zimu som sa aj učila,   aj som slúžila u učiteľa.
       </tei:p>
       <tei:p>
        — A to ste vtedy len v zime chodili do školy?
       </tei:p>
       <tei:p>
-       — Veru len, lebo na jar a v jeseni museli už deti pomáhať doma a   napoli.
+       — Veru len, lebo na jar a v jeseni museli už deti pomáhať doma a   na poli.
       </tei:p>
       <tei:p>
        — A ako ste sa to učili aj slúžili naraz?
@@ -476,10 +484,10 @@
        — A čo všetko ste robili?
       </tei:p>
       <tei:p>
-       — Mali tam malé dievčatko. To som opatrovala. Ráno som ho   obriadila anakŕmila. Až potom som sa sama najedla. Dávali mi na   raňajky múčnu kašus kyslým mliekom. Jedávala som na lavičke pri   ohnisku. Tam bývalo mojemiesto. Sadze z komína mi do mištičky padali   aj s mojimi slzami! Raz matam našla plakať mať i poprosila učiteľa,   aby mi inde dávali jesť.
+       — Mali tam malé dievčatko. To som opatrovala. Ráno som ho   obriadila a nakŕmila. Až potom som sa sama najedla. Dávali mi na   raňajky múčnu kašu s kyslým mliekom. Jedávala som na lavičke pri   ohnisku. Tam bývalo moje miesto. Sadze z komína mi do mištičky padali   aj s mojimi slzami! Raz ma tam našla plakať mať i poprosila učiteľa,   aby mi inde dávali jesť.
       </tei:p>
       <tei:p>
-       Potom som išla do školy. Ale keď bývali počty, schovala som sa   podlavicu. Násobilku som nevedela. A kto nevedel, ten dostal paličkou   poruke. Celé počty som tam presedela.
+       Potom som išla do školy. Ale keď bývali počty, schovala som sa pod   lavicu. Násobilku som nevedela. A kto nevedel, ten dostal paličkou po   ruke. Celé počty som tam presedela.
       </tei:p>
       <tei:p>
        — A učiteľ nevedel o vás, že ste tam schovaná?
@@ -488,61 +496,61 @@
        — Nevedel, lebo nás bolo v škole toľko, že sme sa ledva   pomestili.
       </tei:p>
       <tei:p>
-       Po obede som riad umývala, kuchyňu drhla, a keď sa dievčatko   prebudilo,obliekla som ho, obula a šla som s ním do záhrady. Vždy,   keď som hoobúvala, ma kopalo.
+       Po obede som riad umývala, kuchyňu drhla, a keď sa dievčatko   prebudilo, obliekla som ho, obula a šla som s ním do záhrady. Vždy,   keď som ho obúvala, ma kopalo.
       </tei:p>
       <tei:p>
-       Raz mi povedalo: „Toľký kus chleba zješ na obed, čo by nám bol   natýždeň!”
+       Raz mi povedalo: „Toľký kus chleba zješ na obed, čo by nám bol na   týždeň!“
       </tei:p>
       <tei:p>
-       Mne prišlo veľmi ľúto, lebo som vedela, že si jeho rodičia museli   o mnetak rozprávať. Ešte v ten večer som utiekla domov. A pretože sa   užzačala jar, nešla som viac do školy. Tak sa skončila moja   škola.
+       Mne prišlo veľmi ľúto, lebo som vedela, že si jeho rodičia museli   o mne tak rozprávať. Ešte v ten večer som utiekla domov. A pretože sa   už začala jar, nešla som viac do školy. Tak sa skončila moja   škola.
       </tei:p>
       <tei:p>
-       Ale doma nebolo čo jesť. A tak ma mať dala na jeseň k   najväčšiemuboháčovi v dedine. Mal štyri domy a menoval sa Jablonský.   Tam malimalého chlapca ešte vo vankúši a k tomu ma vzali za   varovkyňu. Uviazalimi ho do plachtičky na chrbát a tak som s ním   chodila po dvore celý deň.
+       Ale doma nebolo čo jesť. A tak ma mať dala na jeseň k najväčšiemu   boháčovi v dedine. Mal štyri domy a menoval sa Jablonský. Tam mali   malého chlapca ešte vo vankúši a k tomu ma vzali za varovkyňu.   Uviazali mi ho do plachtičky na chrbát a tak som s ním chodila po   dvore celý deň.
       </tei:p>
       <tei:p>
        ***
       </tei:p>
       <tei:p>
-       Mať toho chlapčeka pila pálenku. Jablonský sa veľmi na to hneval.   Bálsa, že chlapček bude hlúpy. A raz, keď ho mať pridájala, zas ju   našielopitú. Celý ofialovel od hnevu. Vyvliekol ju do humna aj s   dieťaťom vnáručí. Opitá ani nevedela, čo sa s ňou robí. Ale ja som   šípilazlé-nedobré a šla som za ňou.
+       Mať toho chlapčeka pila pálenku. Jablonský sa veľmi na to hneval.   Bál sa, že chlapček bude hlúpy. A raz, keď ho mať pridájala, zas ju   našiel opitú. Celý ofialovel od hnevu. Vyvliekol ju do humna aj s   dieťaťom v náručí. Opitá ani nevedela, čo sa s ňou robí. Ale ja som   šípila zlé-nedobré a šla som za ňou.
       </tei:p>
       <tei:p>
-       Jablonský jej kázal v humne ľahnúť si na rozviazanú otiepku   ovsa.Otiepku mal nachystanú na mlátenie. Jablonská iste netušila, čo   s ňouchce muž urobiť, i ľahla si aj s chlapcom na tú otiepku.
+       Jablonský jej kázal v humne ľahnúť si na rozviazanú otiepku ovsa.   Otiepku mal nachystanú na mlátenie. Jablonská iste netušila, čo s ňou   chce muž urobiť, i ľahla si aj s chlapcom na tú otiepku.
       </tei:p>
       <tei:p>
        A Jablonský pochytil cepy…
       </tei:p>
       <tei:p>
-       Ale ja som začala kričať na ratu a hodila som sa na chlapčeka a na   opitúženu… Jemu sa vari v tej chvíli rozum vrátil: len mrzko   zahrešil,hodil cepy do kúta a vyšiel z humna von… Žena mu ostala   ležať opitá natej otiepke a ja som aj s chlapcom utekala domov materi   sa vyžalovať.Povedala som jej, že čo len raz denne holý zemiak zjem,   ale do tohostrašného domu viac slúžiť nepôjdem! Mať vzala chlapca na   ruky, zanieslaho do Jablonských a vypovedala aj moju službu.
+       Ale ja som začala kričať na ratu a hodila som sa na chlapčeka a na   opitú ženu… Jemu sa vari v tej chvíli rozum vrátil: len mrzko   zahrešil, hodil cepy do kúta a vyšiel z humna von… Žena mu ostala   ležať opitá na tej otiepke a ja som aj s chlapcom utekala domov   materi sa vyžalovať. Povedala som jej, že čo len raz denne holý   zemiak zjem, ale do toho strašného domu viac slúžiť nepôjdem! Mať   vzala chlapca na ruky, zaniesla ho do Jablonských a vypovedala aj   moju službu.
       </tei:p>
       <tei:p>
-       — A nešli ste už viac nikde slúžiť, stará mať? – staralo sa   dievčatkoúzkostlivo.
+       — A nešli ste už viac nikde slúžiť, stará mať? – staralo sa   dievčatko úzkostlivo.
       </tei:p>
       <tei:p>
-       — Ach, horkýže tam nie! Veď doma nebolo pre mňa roboty a jesť mi   bolotreba…
+       — Ach, horkýže tam nie! Veď doma nebolo pre mňa roboty a jesť mi   bolo treba…
       </tei:p>
       <tei:p>
        — A kde ste potom išli?
       </tei:p>
       <tei:p>
-       — Mať ma zaviedla na druhú dedinu do krčmy. Vyšli sme z   dediny,– spomína stará mať, – a obe sme začali plakať. Ja preto, lebo   sa mizdalo, že to až na kraj sveta idem. A mať plakala nado mnou…
+       — Mať ma zaviedla na druhú dedinu do krčmy. Vyšli sme z dediny,   – spomína stará mať, – a obe sme začali plakať. Ja preto, lebo sa mi   zdalo, že to až na kraj sveta idem. A mať plakala nado mnou…
       </tei:p>
       <tei:p>
-       — A tam čo zas bolo, stará mať? – Dievčatko nečaká od   starejmateriných služieb už nič dobrého.
+       — A tam čo zas bolo, stará mať? – Dievčatko nečaká od starej   materiných služieb už nič dobrého.
       </tei:p>
       <tei:p>
-       — Mať ma zaviedla do kuchyne ku krčmárke. Tá mi hneď pred   ňoupovedala, aká bude moja robota. Oni boli aj mäsiari a ja som mala   jatkuumývať, krčmu rajbať, kuchyňu i izby riadiť. A v nedeľu pri   vareníkrčmárke pomáhať. Mať ma zjednala na jeden rok.
+       — Mať ma zaviedla do kuchyne ku krčmárke. Tá mi hneď pred ňou   povedala, aká bude moja robota. Oni boli aj mäsiari a ja som mala   jatku umývať, krčmu rajbať, kuchyňu i izby riadiť. A v nedeľu pri   varení krčmárke pomáhať. Mať ma zjednala na jeden rok.
       </tei:p>
       <tei:p>
-       Bolo tam veru na mňa mnoho roboty. Aj som sa naplakala, ale odísť   somnemohla.
+       Bolo tam veru na mňa mnoho roboty. Aj som sa naplakala, ale odísť   som nemohla.
       </tei:p>
       <tei:p>
-       Raz – bola nedeľa a vonku krásny deň. Mala som už všetko pekne a   čistooriadené. Slniečko mi svietilo do vydrhnutej kuchyne. Pomáhala   somčistiť zeleninu do polievky. Uviazala som si naškrobenú,   červenýmpretkávanú ľanovú zásterku, čo mi mať utkala, a tešila som   sa, že somaspoň raz do týždňa čisto oblečená.
+       Raz – bola nedeľa a vonku krásny deň. Mala som už všetko pekne a   čisto oriadené. Slniečko mi svietilo do vydrhnutej kuchyne. Pomáhala   som čistiť zeleninu do polievky. Uviazala som si naškrobenú, červeným   pretkávanú ľanovú zásterku, čo mi mať utkala, a tešila som sa, že som   aspoň raz do týždňa čisto oblečená.
       </tei:p>
       <tei:p>
-       Tu prišiel ktosi mäsa kúpiť. Krčmár len tak bez zástery odvážil   mäsa avošiel si do kuchyne ruky utrieť. Uteráka pri ruke nebolo, i   skočil kumne a utrel si zakrvavené ruky – do mojej zásterky!
+       Tu prišiel ktosi mäsa kúpiť. Krčmár len tak bez zástery odvážil   mäsa a vošiel si do kuchyne ruky utrieť. Uteráka pri ruke nebolo, i   skočil ku mne a utrel si zakrvavené ruky – do mojej zásterky!
       </tei:p>
       <tei:p>
-       Tak som sa rozplakala, že ma do samého obeda nemohli utíšiť. Oni   bolivždy špinaví, nuž im to bolo nič.
+       Tak som sa rozplakala, že ma do samého obeda nemohli utíšiť. Oni   boli vždy špinaví, nuž im to bolo nič.
       </tei:p>
       <tei:p>
        Krčmárka ma od tých čias iba maznou prezývala.
@@ -551,7 +559,7 @@
        Ledva som ten rok tam vydržala.
       </tei:p>
       <tei:p>
-       Dievčatko si vydýchlo. Veľmi ľutovalo starú mater, ako sa musela   trápiť,hoci bola ešte celkom mladá.
+       Dievčatko si vydýchlo. Veľmi ľutovalo starú mater, ako sa musela   trápiť, hoci bola ešte celkom mladá.
       </tei:p>
       <tei:p>
        — A potom vás mať odtiaľ vzala?
@@ -560,13 +568,13 @@
        — Hej, vzala, ale ma dala inde slúžiť.
       </tei:p>
       <tei:p>
-       — A tam vám zas ako bolo? – Dievčatko sa už skoro bojí počúvať   ostarej materiných službách.
+       — A tam vám zas ako bolo? – Dievčatko sa už skoro bojí počúvať o   starej materiných službách.
       </tei:p>
       <tei:p>
-       — Nový pán, čo som u neho slúžila, bol riaditeľom nad lesmi. Mal   kone,kravy a paholka pri nich. Mojou robotou bolo každé ráno ísť tým   kravámnažať trávy do poľa. Potom im vody nanosiť, sečky s paholkom   narezať,izby riadiť, v kuchyni kuchárke pomáhať, v záhrade plieť a   okopávať.
+       — Nový pán, čo som u neho slúžila, bol riaditeľom nad lesmi. Mal   kone, kravy a paholka pri nich. Mojou robotou bolo každé ráno ísť tým   kravám nažať trávy do poľa. Potom im vody nanosiť, sečky s paholkom   narezať, izby riadiť, v kuchyni kuchárke pomáhať, v záhrade plieť a   okopávať.
       </tei:p>
       <tei:p>
-       Keď som ráno vyšla do poľa a rozhliadla som sa po širokom svete,   až doplaču mi bolo – aké bolo to pole veľké a ja taká samotná v   ňom!
+       Keď som ráno vyšla do poľa a rozhliadla som sa po širokom svete,   až do plaču mi bolo – aké bolo to pole veľké a ja taká samotná v   ňom!
       </tei:p>
       <tei:p>
        Od clivoty som si začala spievať:
@@ -590,10 +598,10 @@
        #-POEZIA#
       </tei:p>
       <tei:p>
-       Spomenula som si, ako mi len bývalo dobre, keď som doma chodila   smaterou seno sušiť. Všetky pesničky, čo ma vtedy naučila, mi   poschodilina um. Začala som si ich spievať a čo som jednu zaspievala,   to mi boloľahšie na srdci.
+       Spomenula som si, ako mi len bývalo dobre, keď som doma chodila s   materou seno sušiť. Všetky pesničky, čo ma vtedy naučila, mi   poschodili na um. Začala som si ich spievať a čo som jednu   zaspievala, to mi bolo ľahšie na srdci.
       </tei:p>
       <tei:p>
-       — A ktoré ste si to ešte spievali, stará mať? – dozvedalo   sadievčatko. Stará mať mu často spieva. Má taký pekný hlas, že sa   ononeverí napočúvať, keď starej materi príde vôľa na spev.
+       — A ktoré ste si to ešte spievali, stará mať? – dozvedalo sa   dievčatko. Stará mať mu často spieva. Má taký pekný hlas, že sa ono   neverí napočúvať, keď starej materi príde vôľa na spev.
       </tei:p>
       <tei:p>
        — Najradšej som si spievala túto, – zanôtila stará mať ťahavo:
@@ -623,7 +631,7 @@
        #-POEZIA#
       </tei:p>
       <tei:p>
-       — Bolo dobre, – pokračovala stará mať, – keď som prišla s   batohomtrávy, kým ešte pani spala. Ej, ale ak už bola hore! Nebolo   toho mena,ktoré by mi nebola dala. Že som lenivá, že sa mi nechce   vstávať…
+       — Bolo dobre, – pokračovala stará mať, – keď som prišla s batohom   trávy, kým ešte pani spala. Ej, ale ak už bola hore! Nebolo toho   mena, ktoré by mi nebola dala. Že som lenivá, že sa mi nechce   vstávať…
       </tei:p>
       <tei:p>
        — A ona sama spala, stará mať, však!
@@ -632,70 +640,70 @@
        — Veď tak!
       </tei:p>
       <tei:p>
-       Potom som ešte včaššie vstávala a čo ma ako nohy v studenej   roseoziabali, na nič som nedbala, len som sa ponáhľala čím skôr trávy   nažať.
+       Potom som ešte včaššie vstávala a čo ma ako nohy v studenej rose   oziabali, na nič som nedbala, len som sa ponáhľala čím skôr trávy   nažať.
       </tei:p>
       <tei:p>
-       Ale čo som sa ako usilovala jej po vôli robiť, vždy len čosi   našla, začoma hrešila. Nikde som sa toľko nenaplakala ako tam. Ale   potom sa stalotaké niečo, čo ma odučilo plakávať.
+       Ale čo som sa ako usilovala jej po vôli robiť, vždy len čosi   našla, začo ma hrešila. Nikde som sa toľko nenaplakala ako tam. Ale   potom sa stalo také niečo, čo ma odučilo plakávať.
       </tei:p>
       <tei:p>
        — A čo to bolo, stará mať? – potešilo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Raz som riadila kuchyňu. Pani mi kázala vyložiť z police   všetkyveľké hrnce, čo sa v nich varievalo pri zakáľačke, a poutierať   ich odprachu. Robila som si robotu, keď tu naraz vošla pani do   kuchyne. Bolatučná, ťažko dýchala, sadla si na stoličku a dávala   pozor, ako to robím.
+       — Raz som riadila kuchyňu. Pani mi kázala vyložiť z police všetky   veľké hrnce, čo sa v nich varievalo pri zakáľačke, a poutierať ich od   prachu. Robila som si robotu, keď tu naraz vošla pani do kuchyne.   Bola tučná, ťažko dýchala, sadla si na stoličku a dávala pozor, ako   to robím.
       </tei:p>
       <tei:p>
-       Usilovala som sa robiť chytro, lebo nemala rada pomalú robotu. A   keď somuž posledný hrniec dávala na miesto, pani mi ho vychytila z   ruky aukázala mi na ňom kúsok zaprášeného miesta pri uchu. Bez slova   somhrniec znovu utrela. Ale ju zatiaľ zlosť tak rozpálila, že bola   červenáako paprika. Vyhádzala hrnce z police naprostred kuchyne a   musela somich nanovo utierať. Stála nado mnou, kým som to nespravila.   Potom si šlado izby ľahnúť na diván, aby ju hnev prešiel.
+       Usilovala som sa robiť chytro, lebo nemala rada pomalú robotu. A   keď som už posledný hrniec dávala na miesto, pani mi ho vychytila z   ruky a ukázala mi na ňom kúsok zaprášeného miesta pri uchu. Bez slova   som hrniec znovu utrela. Ale ju zatiaľ zlosť tak rozpálila, že bola   červená ako paprika. Vyhádzala hrnce z police naprostred kuchyne a   musela som ich nanovo utierať. Stála nado mnou, kým som to   nespravila. Potom si šla do izby ľahnúť na diván, aby ju hnev   prešiel.
       </tei:p>
       <tei:p>
        Ale mne už žiaľ v srdci pretiekol.
       </tei:p>
       <tei:p>
-       Bežala som do humna. Tam som sa hodila do sena plakať a nariekať.   Zdalosa mi, že v službe už do Všechsvätých nevydržím.
+       Bežala som do humna. Tam som sa hodila do sena plakať a nariekať.   Zdalo sa mi, že v službe už do Všechsvätých nevydržím.
       </tei:p>
       <tei:p>
        — A to ste museli toľko vydržať, stará mať?
       </tei:p>
       <tei:p>
-       — Veru musela! Vtedy sa slúžky zjednávali na celý rok, vždy   odVšechsvätých do Všechsvätých.
+       — Veru musela! Vtedy sa slúžky zjednávali na celý rok, vždy od   Všechsvätých do Všechsvätých.
       </tei:p>
       <tei:p>
-       Tak – a ako som v tom humne plakala a nariekala, prišiel ku   mnepaholok. Bol práve prišiel nový. Starý ochorel a musel odísť   domov. Tennový bol celkom mladý a veľmi veselý. Za tých pár dní, čo   tam bol, stáležarty vystrájal. No a ten ma tam našiel plakať.
+       Tak – a ako som v tom humne plakala a nariekala, prišiel ku mne   paholok. Bol práve prišiel nový. Starý ochorel a musel odísť domov.   Ten nový bol celkom mladý a veľmi veselý. Za tých pár dní, čo tam   bol, stále žarty vystrájal. No a ten ma tam našiel plakať.
       </tei:p>
       <tei:p>
        Opýtal sa ma, čo mi je. Vyžalovala som sa mu.
       </tei:p>
       <tei:p>
-       Najprv sa mi začal smiať. Ale ja som sa pustila ešte do väčšieho   plaču avravela som mu, že ja už v takej službe nevydržím.
+       Najprv sa mi začal smiať. Ale ja som sa pustila ešte do väčšieho   plaču a vravela som mu, že ja už v takej službe nevydržím.
       </tei:p>
       <tei:p>
-       Potom si ku mne sadol a začal mi vravieť, že nikdy netreba plakať,   aleradšej porozmýšľať, ako vec napraviť.
+       Potom si ku mne sadol a začal mi vravieť, že nikdy netreba plakať,   ale radšej porozmýšľať, ako vec napraviť.
       </tei:p>
       <tei:p>
-       A tak ma vtedy dlho prehováral a poučoval, až som sama prišla na   to, žesi z paninho hnevu a kriku nesmiem robiť ťažké srdce. A ešte mi   hovoril,že som urobila chybu, keď som aj utreté hrnce nanovo   utierala. A že sapanej nesmiem dať, keď mám pravdu, čo by sa ako   zlostila.
+       A tak ma vtedy dlho prehováral a poučoval, až som sama prišla na   to, že si z paninho hnevu a kriku nesmiem robiť ťažké srdce. A ešte   mi hovoril, že som urobila chybu, keď som aj utreté hrnce nanovo   utierala. A že sa panej nesmiem dať, keď mám pravdu, čo by sa ako   zlostila.
       </tei:p>
       <tei:p>
-       — A nedali ste sa, stará mať? – Dievčatko bolo teraz   veľminaradované, že sa predsa niekto našiel, kto starej materi   poradil, čo márobiť v takej prísnej službe.
+       — A nedali ste sa, stará mať? – Dievčatko bolo teraz veľmi   naradované, že sa predsa niekto našiel, kto starej materi poradil, čo   má robiť v takej prísnej službe.
       </tei:p>
       <tei:p>
-       — Nesmela som sa dať, lebo by sa mi bol ten paholok vysmieval, že   sombojko. A keď som videla, ako on len smiechy vystrája pánom za   chrbtom,hneď som aj ja ostala smelšia.
+       — Nesmela som sa dať, lebo by sa mi bol ten paholok vysmieval, že   som bojko. A keď som videla, ako on len smiechy vystrája pánom za   chrbtom, hneď som aj ja ostala smelšia.
       </tei:p>
       <tei:p>
-       Raz sme mali ísť na muziku, – zaspomínala stará mať, – a rezali   sme stým paholkom sečku pre statok. Bolo jej treba toľko, aby jej   bolo i nanedeľu, i na pondelok. Už sme ju rezali dosť dlho, aj ma už   ruky boleli,a sečky stále málo. Tu mi on povie:
+       Raz sme mali ísť na muziku, – zaspomínala stará mať, – a rezali   sme s tým paholkom sečku pre statok. Bolo jej treba toľko, aby jej   bolo i na nedeľu, i na pondelok. Už sme ju rezali dosť dlho, aj ma už   ruky boleli, a sečky stále málo. Tu mi on povie:
       </tei:p>
       <tei:p>
-       „Eh, musíme niečo vymyslieť, takto sa na muziku nedostaneme!”
+       „Eh, musíme niečo vymyslieť, takto sa na muziku nedostaneme!“
       </tei:p>
       <tei:p>
-       Len tu do toho kúta, kde bývala sečka, nakládol sena, našuchoril   ho anaň sme tú sečku nasypali.
+       Len tu do toho kúta, kde bývala sečka, nakládol sena, našuchoril   ho a naň sme tú sečku nasypali.
       </tei:p>
       <tei:p>
        Vyzeralo jej ako na týždeň!
       </tei:p>
       <tei:p>
-       Sotva sme to spravili, prišiel pán s paličkou v ruke do humna. Keď   videltoľkú hŕbu sečky, pochválil nás.
+       Sotva sme to spravili, prišiel pán s paličkou v ruke do humna. Keď   videl toľkú hŕbu sečky, pochválil nás.
       </tei:p>
       <tei:p>
-       Ale potom mu čosi zišlo na um, i podišiel k tej sečke a začal do   nejštuchať paličkou.
+       Ale potom mu čosi zišlo na um, i podišiel k tej sečke a začal do   nej štuchať paličkou.
       </tei:p>
       <tei:p>
        Iba keď tu vytiahne chlp sena!
@@ -707,13 +715,13 @@
        Začal milého paholka s paličkou po humne naháňať.
       </tei:p>
       <tei:p>
-       Ale ten, nelenivý, vybehol na hnojisko, čo sa parilo na dvore, a   odtiaľsa uškŕňal na pána. Myslel si: ‚Tu poď za mnou, ak chceš!’
+       Ale ten, nelenivý, vybehol na hnojisko, čo sa parilo na dvore, a   odtiaľ sa uškŕňal na pána. Myslel si: ‚Tu poď za mnou, ak chceš!‘
       </tei:p>
       <tei:p>
        Čo mal pán robiť? Odišiel nahnevaný do izieb.
       </tei:p>
       <tei:p>
-       Dva týždne s nami slova neprehovoril. Ale potom sa mu hnev z   hlavyvykúril, a keď si pomyslel na svoje vzácne kone, že mu ich nik   nevedeltak dobre opatrovať, zabudol na seno v sečke.
+       Dva týždne s nami slova neprehovoril. Ale potom sa mu hnev z hlavy   vykúril, a keď si pomyslel na svoje vzácne kone, že mu ich nik   nevedel tak dobre opatrovať, zabudol na seno v sečke.
       </tei:p>
       <tei:p>
        — A dlho ste tam potom ešte slúžili?
@@ -725,7 +733,7 @@
        — A čo ste potom robili?
       </tei:p>
       <tei:p>
-       — No, zobrali sme sa! A bol to tvoj vlastný starý otec,   – dokončilastará mať rozprávku o svojich mladých rokoch.
+       — No, zobrali sme sa! A bol to tvoj vlastný starý otec,   – dokončila stará mať rozprávku o svojich mladých rokoch.
       </tei:p>
       <tei:p>
        Dievčatko ľutuje len jedno: že si nikdy nepoznalo starého   otca!
@@ -734,7 +742,7 @@
        Aké to len muselo byť pekné, že bol vždy taký veselý!
       </tei:p>
       <tei:p>
-       A ako dobre, že sa stará mať zaňho vydala! Pri takom starom otcovi   užiste nikdy pre nič neplakala!
+       A ako dobre, že sa stará mať zaňho vydala! Pri takom starom otcovi   už iste nikdy pre nič neplakala!
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -742,85 +750,85 @@
        AKO CHODILA STARÁ MAŤ SO STARÝM OTCOM   NA ŠUŠKY
       </tei:head>
       <tei:p>
-       — Stará mať, rozprávajte mi o starom otcovi! – zvolalo dievčatko,   lenčo sa stará mať zjavila vo dverách.
+       — Stará mať, rozprávajte mi o starom otcovi! – zvolalo dievčatko,   len čo sa stará mať zjavila vo dverách.
       </tei:p>
       <tei:p>
        — Budem, Hanička moja, ale mi najprv ukáž, čo je s tvojimi   očami.
       </tei:p>
       <tei:p>
-       Dievčatko sedelo na lavici pod oblokom a pokúšalo sa písať   čosigriflíkom na bridlicovú tabuľku. Stará mať mu starostlivo   poprezeralazapálené oči.
+       Dievčatko sedelo na lavici pod oblokom a pokúšalo sa písať čosi   griflíkom na bridlicovú tabuľku. Stará mať mu starostlivo poprezerala   zapálené oči.
       </tei:p>
       <tei:p>
-       — Ráno som už ľahšie otvorila oči ako inokedy. Ale na tabuľku   eštedobre nevidím, – pochválilo i požalovalo sa dievčatko.
+       — Ráno som už ľahšie otvorila oči ako inokedy. Ale na tabuľku ešte   dobre nevidím, – pochválilo i požalovalo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Nesmieš písať, kým celkom dobre neuvidíš. Poď si ty len ku   mnesadnúť, budem ti rozprávať, ako sme so starým otcom chodili na   šušky,– povedala stará mať veselo. Aj jej sa videli oči dievčatka   menejzapálené ako inokedy.
+       — Nesmieš písať, kým celkom dobre neuvidíš. Poď si ty len ku mne   sadnúť, budem ti rozprávať, ako sme so starým otcom chodili na šušky,   – povedala stará mať veselo. Aj jej sa videli oči dievčatka menej   zapálené ako inokedy.
       </tei:p>
       <tei:p>
-       Dievčatko sa zošuchlo z lavice, sadlo si na kožuch, objalo si   chudékolienka rukami a usmievavo čakalo, kým stará mať začne   rozprávať.
+       Dievčatko sa zošuchlo z lavice, sadlo si na kožuch, objalo si   chudé kolienka rukami a usmievavo čakalo, kým stará mať začne   rozprávať.
       </tei:p>
       <tei:p>
-       — Nuž, keď sme sa so starým otcom vzali, mali sme veľkú starosť,   kdebudeme bývať. Matere už nemal a u mojej bolo nás ešte veľa.
+       — Nuž, keď sme sa so starým otcom vzali, mali sme veľkú starosť,   kde budeme bývať. Matere už nemal a u mojej bolo nás ešte veľa.
       </tei:p>
       <tei:p>
-       Keď bol malý, býval so svojou materou v zadnej izbe u   bohatéhoJablonského. Mať, kým žila, odrábala bývanie Jablonskému na   poli.
+       Keď bol malý, býval so svojou materou v zadnej izbe u bohatého   Jablonského. Mať, kým žila, odrábala bývanie Jablonskému na poli.
       </tei:p>
       <tei:p>
-       A do tej istej izby Jablonský prijal bývať aj nás. A tiež s   takoupodmienkou, že mu budeme odrábať ako nebohá mater.
+       A do tej istej izby Jablonský prijal bývať aj nás. A tiež s takou   podmienkou, že mu budeme odrábať ako nebohá mater.
       </tei:p>
       <tei:p>
-       Večer, keď sme v izbe ostali sami, všeličo mi starý otec rozprával   osebe. Vieš, že keď bol malý, nevedel ani, čo je chlieb?
+       Večer, keď sme v izbe ostali sami, všeličo mi starý otec rozprával   o sebe. Vieš, že keď bol malý, nevedel ani, čo je chlieb?
       </tei:p>
       <tei:p>
        — A prečo? – začudovalo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Preto, lebo jeho mať bola vdova a ledva mu zarobila na   ovsenýposúšik.
+       — Preto, lebo jeho mať bola vdova a ledva mu zarobila na ovsený   posúšik.
       </tei:p>
       <tei:p>
-       Raz pred Vianocami pomáhala chystať hostinu u Jablonských.   Napieklachleba a koláčov.
+       Raz pred Vianocami pomáhala chystať hostinu u Jablonských.   Napiekla chleba a koláčov.
       </tei:p>
       <tei:p>
-       Dali jej za to bochník chleba. Schovala ho, chudera, na samý   spodok dokasničky, že bude na Štedrý večer. Lenže on ho tam zavoňal!   A že bola nachlebe trocha odchlípená kôrka, vyrypol spod nej kúsok   striedky. Takásladká mu ostala v ústach ako cukrík.
+       Dali jej za to bochník chleba. Schovala ho, chudera, na samý   spodok do kasničky, že bude na Štedrý večer. Lenže on ho tam zavoňal!   A že bola na chlebe trocha odchlípená kôrka, vyrypol spod nej kúsok   striedky. Taká sladká mu ostala v ústach ako cukrík.
       </tei:p>
       <tei:p>
-       Od tej chvíle nemal pokoja. Čo ho raz mať nevidela, vše vyjedol   kúsokstriedky. Nakoniec ostala len spodná a vrchná kôrka.
+       Od tej chvíle nemal pokoja. Čo ho raz mať nevidela, vše vyjedol   kúsok striedky. Nakoniec ostala len spodná a vrchná kôrka.
       </tei:p>
       <tei:p>
-       Prišiel Štedrý večer. Mať nachystala večeru a potom šla do   kasničky pochlieb… Až potom si chlapec uvedomil, čo spravil… Jeho mať   bývalanaňho prísna. Čo povie teraz?
+       Prišiel Štedrý večer. Mať nachystala večeru a potom šla do   kasničky po chlieb… Až potom si chlapec uvedomil, čo spravil… Jeho   mať bývala naňho prísna. Čo povie teraz?
       </tei:p>
       <tei:p>
        Vyňala vyjedený chlieb. Pozrela na syna a povedala mu:
       </tei:p>
       <tei:p>
-       „To si ty urobil, však?”
+       „To si ty urobil, však?“
       </tei:p>
       <tei:p>
-       On prikývol a dal sa do plaču. Ani sa tak matere nebál, ako mu   prišloľúto, že spravil takú vec.
+       On prikývol a dal sa do plaču. Ani sa tak matere nebál, ako mu   prišlo ľúto, že spravil takú vec.
       </tei:p>
       <tei:p>
-       Ale mať sa nenahnevala. Uspokojila ho tým, že ten chlieb aj tak   lenpreňho schovávala… Celý večer bol zamĺknutý. Naostatok mu   maťpovedala:
+       Ale mať sa nenahnevala. Uspokojila ho tým, že ten chlieb aj tak   len preňho schovávala… Celý večer bol zamĺknutý. Naostatok mu mať   povedala:
       </tei:p>
       <tei:p>
-       „Po Novom roku pôjdeš si sám zarábať na chlieb!”
+       „Po Novom roku pôjdeš si sám zarábať na chlieb!“
       </tei:p>
       <tei:p>
-       Dala ho k tesárom šindle podávať. No po roku začal aj on   strechypobíjať. A potom už mala z čoho jeho mať chleba napiecť.
+       Dala ho k tesárom šindle podávať. No po roku začal aj on strechy   pobíjať. A potom už mala z čoho jeho mať chleba napiecť.
       </tei:p>
       <tei:p>
-       Ale raz prišla tesárom taká robota, že mali pobiť strechy na   Oravskomzámku.
+       Ale raz prišla tesárom taká robota, že mali pobiť strechy na   Oravskom zámku.
       </tei:p>
       <tei:p>
-       — Hí! – zhíklo dievčatko celé bez seba. Predstavilo si totiž   zámok,ktorý stál na vysokej skale, a skala bola holá a ešte sa aj   nakláňalanad riekou… Na najstrmšej strane bola zarastená smrekovou   horou.
+       — Hí! – zhíklo dievčatko celé bez seba. Predstavilo si totiž   zámok, ktorý stál na vysokej skale, a skala bola holá a ešte sa aj   nakláňala nad riekou… Na najstrmšej strane bola zarastená smrekovou   horou.
       </tei:p>
       <tei:p>
-       — Veď ten starý otec musel vyzerať na tej streche ako   mravec!– vydýchlo si zadivené dievčatko.
+       — Veď ten starý otec musel vyzerať na tej streche ako mravec!   – vydýchlo si zadivené dievčatko.
       </tei:p>
       <tei:p>
-       — Veru nie väčší, – prikývla hlavou stará mať. – Nebolo všetko   jednojeho materi, keď prišla za ním s obedom! Ale on, kujon, keď sa   dozvedel,prečo je taká nastráchaná, len sa smial…
+       — Veru nie väčší, – prikývla hlavou stará mať. – Nebolo všetko   jedno jeho materi, keď prišla za ním s obedom! Ale on, kujon, keď sa   dozvedel, prečo je taká nastráchaná, len sa smial…
       </tei:p>
       <tei:p>
-       A raz, vieš, čo urobil? Stavil sa s tesármi, že vyjde na zámok bez   toho,že by šiel nádvorím a po schodoch. Tesári sa veľmi ochotne   stavili ofľašu pálenky. Dobre vedeli, že sa na zámok nedá vyliezť ani   po skale,ani sa vyškriabať po hore.
+       A raz, vieš, čo urobil? Stavil sa s tesármi, že vyjde na zámok bez   toho, že by šiel nádvorím a po schodoch. Tesári sa veľmi ochotne   stavili o fľašu pálenky. Dobre vedeli, že sa na zámok nedá vyliezť   ani po skale, ani sa vyškriabať po hore.
       </tei:p>
       <tei:p>
        — A starý otec predsa vyšiel? – Dievčatku sa takmer zastavil   dych.
@@ -832,13 +840,13 @@
        — A ako? – tŕplo dievčatko.
       </tei:p>
       <tei:p>
-       — Raz, keď išli ráno do roboty, zastal starý otec pri hore, čo   rastiena jednej strane zámku. Tam odbočuje chodník z cesty k zámku.   Povedaltesárom, aby trochu počkali. Potom vyšiel na smrek až po samý   vrchovec,rozkýval ho a preskočil na druhý. A tak preskakoval zo   smreka na smrekako veverička, iba keď už bol hore.
+       — Raz, keď išli ráno do roboty, zastal starý otec pri hore, čo   rastie na jednej strane zámku. Tam odbočuje chodník z cesty k zámku.   Povedal tesárom, aby trochu počkali. Potom vyšiel na smrek až po samý   vrchovec, rozkýval ho a preskočil na druhý. A tak preskakoval zo   smreka na smrek ako veverička, iba keď už bol hore.
       </tei:p>
       <tei:p>
        Dievčatko od radosti zatlieskalo rúčkami.
       </tei:p>
       <tei:p>
-       — Hej, ale keď sa to mať dozvedela, poď ho rovno za tesármi!   Zvadilasa s nimi, že mali oni mať rozum, keď ho jej syn nemal.   Nahnevala sa nanich najmä pre tú pálenku… A hneď si syna od nich   vzala a dala ho zapaholka ku koňom.
+       — Hej, ale keď sa to mať dozvedela, poď ho rovno za tesármi!   Zvadila sa s nimi, že mali oni mať rozum, keď ho jej syn nemal.   Nahnevala sa na nich najmä pre tú pálenku… A hneď si syna od nich   vzala a dala ho za paholka ku koňom.
       </tei:p>
       <tei:p>
        — Tam, kde ste vy slúžili?
@@ -850,61 +858,61 @@
        — A keď ste sa vy zaňho vydali, ešte mu žila tá mať?
       </tei:p>
       <tei:p>
-       — Oj nie, umrela vtedy, keď sme spolu slúžili. A bolo mu veľmi   ľúto zaňou. Až keď umrela, poprichádzal na to, ako ho veľmi mala rada   a čo sapreň natrápila…
+       — Oj nie, umrela vtedy, keď sme spolu slúžili. A bolo mu veľmi   ľúto za ňou. Až keď umrela, poprichádzal na to, ako ho veľmi mala   rada a čo sa preň natrápila…
       </tei:p>
       <tei:p>
-       — Ale ako ste to na tie šušky chodili, to mi povedzte,   – dožadovalosa dievčatko starej materinho sľubu.
+       — Ale ako ste to na tie šušky chodili, to mi povedzte,   – dožadovalo sa dievčatko starej materinho sľubu.
       </tei:p>
       <tei:p>
-       — To v zime, keď nebolo inej roboty, vybrali sme sa zavše so   starýmotcom na šušky, – pokračovala ďalej stará mať. – Nebola to   veľmichýrna robota, ale že bolo ťažko o zárobok, ani takou ľudia   neopovrhli.
+       — To v zime, keď nebolo inej roboty, vybrali sme sa zavše so   starým otcom na šušky, – pokračovala ďalej stará mať. – Nebola to   veľmi chýrna robota, ale že bolo ťažko o zárobok, ani takou ľudia   neopovrhli.
       </tei:p>
       <tei:p>
        — A načo vám boli tie šušky?
       </tei:p>
       <tei:p>
-       — Šušky sa zbierali pre semená do lesnej škôlky. Horár ich zasial   dohriadok, ako my sejeme mrkvu alebo petržlen. A keď zo semien   vyrástlimladé smrečky, chlapci a dievčatá ich sadili do rúbanísk. Za   päťdesiatrokov vyrástla z nich nová smreková hora. Keď budeš väčšia,   pôjdeš aj tysmrečky sadiť.
+       — Šušky sa zbierali pre semená do lesnej škôlky. Horár ich zasial   do hriadok, ako my sejeme mrkvu alebo petržlen. A keď zo semien   vyrástli mladé smrečky, chlapci a dievčatá ich sadili do rúbanísk. Za   päťdesiat rokov vyrástla z nich nová smreková hora. Keď budeš väčšia,   pôjdeš aj ty smrečky sadiť.
       </tei:p>
       <tei:p>
-       Dievčatku sa to náramne páčilo. Po prvý raz počulo, že hora,   ktorúpočuje hučať za riekou, nenarástla sama, ale ju vysadili   ľudia.
+       Dievčatku sa to náramne páčilo. Po prvý raz počulo, že hora, ktorú   počuje hučať za riekou, nenarástla sama, ale ju vysadili ľudia.
       </tei:p>
       <tei:p>
        — Na šušky chodili sme so starým otcom.
       </tei:p>
       <tei:p>
-       U Jablonských mali psa. Veľmi prítulného a pekného, s bielou   kučeravousrsťou. Belkom ho volali.
+       U Jablonských mali psa. Veľmi prítulného a pekného, s bielou   kučeravou srsťou. Belkom ho volali.
       </tei:p>
       <tei:p>
-       Starý otec ani neprešiel popri ňom, aby ho po tej peknej   srstinepohladkal a neprihovoril sa mu: „Na, Belko, na!” Veru nebol   naň takýzlý ako starý Jablonský. Ten, čo mu aj nič nespravil, keď bol   nahnevanýna niečo, hneď do psíka kopol čižmou, ak sa mu priplietol   medzi nohy.Nemal srdca k človeku, akože ho mohol mať k zvieraťu,   – vzdychla sistará mať.
+       Starý otec ani neprešiel popri ňom, aby ho po tej peknej srsti   nepohladkal a neprihovoril sa mu: „Na, Belko, na!“ Veru nebol naň   taký zlý ako starý Jablonský. Ten, čo mu aj nič nespravil, keď bol   nahnevaný na niečo, hneď do psíka kopol čižmou, ak sa mu priplietol   medzi nohy. Nemal srdca k človeku, akože ho mohol mať k zvieraťu,   – vzdychla si stará mať.
       </tei:p>
       <tei:p>
-       — Belko mal veľmi rád starého otca a vždy šiel s nami na tie   šušky. Zacelý čas, kým sme ich zo smrekov oberali, sedel pod stromom   a strieholnám batôžtek s chlebom a slaninou.
+       — Belko mal veľmi rád starého otca a vždy šiel s nami na tie   šušky. Za celý čas, kým sme ich zo smrekov oberali, sedel pod stromom   a striehol nám batôžtek s chlebom a slaninou.
       </tei:p>
       <tei:p>
-       — Stará mať, a ako ste tie šušky oberali? – bolo zvedavé   dievčatko,lebo si dobre zapamätalo, aké sú smreky vysoké a že najviac   šušiek bývana nich pod samým vrchovcom.
+       — Stará mať, a ako ste tie šušky oberali? – bolo zvedavé   dievčatko, lebo si dobre zapamätalo, aké sú smreky vysoké a že   najviac šušiek býva na nich pod samým vrchovcom.
       </tei:p>
       <tei:p>
-       — Nuž tak, že sa starý otec vyškriabal na smrek, nahádzal mi   šušiekdolu a ja som ich pozbierala do vreca. A celkom tak ako vtedy,   keď naten zámok vyšiel, rozkýval vrchovec smreka, preskočil na druhý   a zdruhého na tretí a vždy zhádzal šušky dolu. Sprvoti som sa nemohla   na toani dívať, tak som sa bála o starého otca, že spadne a zabije   sa. Alesom si navykla na to.
+       — Nuž tak, že sa starý otec vyškriabal na smrek, nahádzal mi   šušiek dolu a ja som ich pozbierala do vreca. A celkom tak ako vtedy,   keď na ten zámok vyšiel, rozkýval vrchovec smreka, preskočil na druhý   a z druhého na tretí a vždy zhádzal šušky dolu. Sprvoti som sa   nemohla na to ani dívať, tak som sa bála o starého otca, že spadne a   zabije sa. Ale som si navykla na to.
       </tei:p>
       <tei:p>
-       Raz sme zašli veľmi ďaleko do hory. Vtedy sme akosi veľmi dlho   zbierali.Už sa celkom zotmelo, keď starý otec zišiel z posledného   smreka. Chodilisme po hore a hľadali miesto, kde sme nechali Belka   pri batôžku. Ale aniBelka, ani batôžka nikde.
+       Raz sme zašli veľmi ďaleko do hory. Vtedy sme akosi veľmi dlho   zbierali. Už sa celkom zotmelo, keď starý otec zišiel z posledného   smreka. Chodili sme po hore a hľadali miesto, kde sme nechali Belka   pri batôžku. Ale ani Belka, ani batôžka nikde.
       </tei:p>
       <tei:p>
-       Pobrali sme sa domov. Mysleli sme si, že múdry psík pochytil   batôžtek abežal s ním domov. Ale doma Belka nebolo! Ani sme nespali,   čo nám hobolo tak ľúto.
+       Pobrali sme sa domov. Mysleli sme si, že múdry psík pochytil   batôžtek a bežal s ním domov. Ale doma Belka nebolo! Ani sme nespali,   čo nám ho bolo tak ľúto.
       </tei:p>
       <tei:p>
-       Na druhé ráno vybrali sme sa zase na šušky. Prídeme na kraj hory a   čonevidíme? Pod smrekom, kde sme včera položili batôžtek, stojí Belko   astráži ho! Ani sa ho nedotkol… A len čo nás zočil, veselo zabrechal   azačal naradovaný obskakovať okolo starého otca.
+       Na druhé ráno vybrali sme sa zase na šušky. Prídeme na kraj hory a   čo nevidíme? Pod smrekom, kde sme včera položili batôžtek, stojí   Belko a stráži ho! Ani sa ho nedotkol… A len čo nás zočil, veselo   zabrechal a začal naradovaný obskakovať okolo starého otca.
       </tei:p>
       <tei:p>
        — A ako, že ste ho večer nenašli? – čudovalo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Bolo už tma. A potme sa v hore dobre nevyznáš. Belko možno   ajbrechal, ale smreková hora hučí, nuž sme ho nepočuli…
+       — Bolo už tma. A potme sa v hore dobre nevyznáš. Belko možno aj   brechal, ale smreková hora hučí, nuž sme ho nepočuli…
       </tei:p>
       <tei:p>
-       — A dali ste mu chleba a slaniny? – staralo sa dievčatko. Skoro   sabálo, že si stará mať dosť nevážila vernej služby toho psa.
+       — A dali ste mu chleba a slaniny? – staralo sa dievčatko. Skoro sa   bálo, že si stará mať dosť nevážila vernej služby toho psa.
       </tei:p>
       <tei:p>
-       — To bolo prvé, čo sme urobili. Veru sme ho nakŕmili i   popohládzali pochrbte a poťapkali po hlave. Veď mnohokrát ani ľudia   nevedia byť takíverní, aký sa ukázal tento psík.
+       — To bolo prvé, čo sme urobili. Veru sme ho nakŕmili i   popohládzali po chrbte a poťapkali po hlave. Veď mnohokrát ani ľudia   nevedia byť takí verní, aký sa ukázal tento psík.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -915,25 +923,25 @@
        Raz sa dievčatku sníval krásny sen.
       </tei:p>
       <tei:p>
-       Stálo pri brehu rieky a šibalo prútikom vodu. Tu zbadalo dolu   vodou čositenúť. Chytro vošlo do vody a zachytilo – krásnu bábiku!   Mala belaséočká, červené šatočky a ozajstné vlásky. Utekalo s ňou   domov. Doma sapotklo na prahu a – zobudilo sa.
+       Stálo pri brehu rieky a šibalo prútikom vodu. Tu zbadalo dolu   vodou čosi tenúť. Chytro vošlo do vody a zachytilo – krásnu bábiku!   Mala belasé očká, červené šatočky a ozajstné vlásky. Utekalo s ňou   domov. Doma sa potklo na prahu a – zobudilo sa.
       </tei:p>
       <tei:p>
-       Pustilo sa na posteli do usedavého plaču. Matka ho nijako   nevedelautíšiť. Ani sa nemala kedy s ním zabávať, lebo ako každé   ráno, i vtedysa náhlila do roboty.
+       Pustilo sa na posteli do usedavého plaču. Matka ho nijako nevedela   utíšiť. Ani sa nemala kedy s ním zabávať, lebo ako každé ráno, i   vtedy sa náhlila do roboty.
       </tei:p>
       <tei:p>
        Zo zadnej izby vykukla stará mať.
       </tei:p>
       <tei:p>
-       — Čože sa ti stalo, Hanička moja? – prihovorila sa vnučke   láskavýmhlasom a utrela jej slzičky čistým ručníčkom.
+       — Čože sa ti stalo, Hanička moja? – prihovorila sa vnučke láskavým   hlasom a utrela jej slzičky čistým ručníčkom.
       </tei:p>
       <tei:p>
-       — Snívalo sa mi, – zafikalo dievčatko žalostne, – že dolu   riekoutenula bábika. A taká bola krásna! Chytila som si ju, a keď som   saprebudila, vidím, že sa mi to len snívalo…
+       — Snívalo sa mi, – zafikalo dievčatko žalostne, – že dolu riekou   tenula bábika. A taká bola krásna! Chytila som si ju, a keď som sa   prebudila, vidím, že sa mi to len snívalo…
       </tei:p>
       <tei:p>
-       — Ale ja som ti ešte nerozprávala, ako som sa topila na   pltnici,– zahovárala stará mať vnučkin sen.
+       — Ale ja som ti ešte nerozprávala, ako som sa topila na pltnici,   – zahovárala stará mať vnučkin sen.
       </tei:p>
       <tei:p>
-       Dievčatko sa utíšilo. Chytro sa dalo matke umyť a obliecť. Keď   odišla doroboty a stará mať mu zapletala vrkôčiky, zaprosilo:
+       Dievčatko sa utíšilo. Chytro sa dalo matke umyť a obliecť. Keď   odišla do roboty a stará mať mu zapletala vrkôčiky, zaprosilo:
       </tei:p>
       <tei:p>
        — Veď mi už rozprávajte, stará mať!
@@ -942,25 +950,25 @@
        — Hneď, len čo si donesiem robotu.
       </tei:p>
       <tei:p>
-       Dievčatko za ten čas celkom zabudlo na plač, a keď stará mať vošla   sopálkou vlny, ktorú čuchrala cudzím ľuďom, už sedelo na kožuchu   ačakalo.
+       Dievčatko za ten čas celkom zabudlo na plač, a keď stará mať vošla   s opálkou vlny, ktorú čuchrala cudzím ľuďom, už sedelo na kožuchu a   čakalo.
       </tei:p>
       <tei:p>
-       — Raz sme sa vybrali, – začala stará mať, – so starým otcom   napltnicu. Na pltnicu sa mohlo chodiť, len keď bola veľká voda. Len   vtedysa dalo drevo po vode splaviť. Bola to nebezpečná robota, ale   dobre saza ňu platilo.
+       — Raz sme sa vybrali, – začala stará mať, – so starým otcom na   pltnicu. Na pltnicu sa mohlo chodiť, len keď bola veľká voda. Len   vtedy sa dalo drevo po vode splaviť. Bola to nebezpečná robota, ale   dobre sa za ňu platilo.
       </tei:p>
       <tei:p>
-       Večer sme si prichystali všetko, čo si vezmeme na cestu. Keď som   pieklaposúšik a starý otec ostril sekeru, rozprával mi, ako bol on na   prvejpltnici.
+       Večer sme si prichystali všetko, čo si vezmeme na cestu. Keď som   piekla posúšik a starý otec ostril sekeru, rozprával mi, ako bol on   na prvej pltnici.
       </tei:p>
       <tei:p>
-       Keď plával s plťou cez dedinu, jeho mať ho už očakávala na ceste,   aby muzahodila čerstvo upečený posúšik na plť. Tak to robili všetky   ženy vnašej dedine. Zakrútili do obrúska teplý posúšik so slaninkou a   zahodilina plť. Premrznutým pltníkom to dobre padlo.
+       Keď plával s plťou cez dedinu, jeho mať ho už očakávala na ceste,   aby mu zahodila čerstvo upečený posúšik na plť. Tak to robili všetky   ženy v našej dedine. Zakrútili do obrúska teplý posúšik so slaninkou   a zahodili na plť. Premrznutým pltníkom to dobre padlo.
       </tei:p>
       <tei:p>
-       Ale ona bola už stará a v rukách nemala toľko sily ako mladé ženy…   Inedohodila na plť, batôžtek odtenul dolu vodou…
+       Ale ona bola už stará a v rukách nemala toľko sily ako mladé ženy…   I nedohodila na plť, batôžtek odtenul dolu vodou…
       </tei:p>
       <tei:p>
-       Tak ako tam stála, rozplakala sa. Aj za batôžkom, aj nad chlapcom,   žebude celý deň hladný.
+       Tak ako tam stála, rozplakala sa. Aj za batôžkom, aj nad chlapcom,   že bude celý deň hladný.
       </tei:p>
       <tei:p>
-       Ale starý otec zišiel šťastlivo. A keď sa vracal z pltnice   domov,zastavil sa v meste a za všetky peniaze, čo zarobil, kúpil jej   teplývlniak na zimu. Keď jej ho dával, až plakala od radosti.
+       Ale starý otec zišiel šťastlivo. A keď sa vracal z pltnice domov,   zastavil sa v meste a za všetky peniaze, čo zarobil, kúpil jej teplý   vlniak na zimu. Keď jej ho dával, až plakala od radosti.
       </tei:p>
       <tei:p>
        — Ale ju mal rád ten starý otec, však, stará mať!
@@ -975,16 +983,16 @@
        — Veď práve to ti chcem rozprávať, len počúvaj!
       </tei:p>
       <tei:p>
-       Zavčas rána sme sa so starým otcom vybrali na príboj, kde sa   zbíjaliplte. Cestou sa k nám pridali aj iní pltníci, nuž nám bolo   veselo.
+       Zavčas rána sme sa so starým otcom vybrali na príboj, kde sa   zbíjali plte. Cestou sa k nám pridali aj iní pltníci, nuž nám bolo   veselo.
       </tei:p>
       <tei:p>
-       Starý otec prvý zbil plť. Zakvačil veslá, ukázal mi, ako mám s   mojímnarábať. Ja som mala byť pri zadnom vesle a on si stal k   prednému. Tamto bolo najhlavnejšie.
+       Starý otec prvý zbil plť. Zakvačil veslá, ukázal mi, ako mám s   mojím narábať. Ja som mala byť pri zadnom vesle a on si stal k   prednému. Tam to bolo najhlavnejšie.
       </tei:p>
       <tei:p>
        Pustili sme sa s plťou dolu riekou. Za nami šli ostatní.
       </tei:p>
       <tei:p>
-       Starý otec kedy-tedy zavesloval a ja vždy za ním. Trochu som sa aj   bála,ale po chvíli som si zvykla. Dívala som sa, ako nechávame za   sebou poliaa dediny. Chvíľami sa mi zdalo, že plť stojí a všetko   ostatné okolo násuteká. Iba keď sme sa blížili k mostu, zľakla som   sa, či nenarazíme. Alestarý otec len veslom zatiahol a už sme sa   prešmykli ako cez uličku.
+       Starý otec kedy-tedy zavesloval a ja vždy za ním. Trochu som sa aj   bála, ale po chvíli som si zvykla. Dívala som sa, ako nechávame za   sebou polia a dediny. Chvíľami sa mi zdalo, že plť stojí a všetko   ostatné okolo nás uteká. Iba keď sme sa blížili k mostu, zľakla som   sa, či nenarazíme. Ale starý otec len veslom zatiahol a už sme sa   prešmykli ako cez uličku.
       </tei:p>
       <tei:p>
        Už aj slniečko vyšlo, ale nám bolo chladno. Starý otec nakládol   ohňa…
@@ -993,10 +1001,10 @@
        — A tak, na plti? – zdesilo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Pravdaže, na plti! Starý otec hneď, keď ju zbil, doniesol na   ňuveľkú ťapatú skalu na ohnisko. A stružlín a kresanie bolo dosť,   keďrobil veslá.
+       — Pravdaže, na plti! Starý otec hneď, keď ju zbil, doniesol na ňu   veľkú ťapatú skalu na ohnisko. A stružlín a kresanie bolo dosť, keď   robil veslá.
       </tei:p>
       <tei:p>
-       Zohriali sme sa, zajedli si posúšika so slaninou a hneď mi   boloveselšie. Dívala som sa po poli a myslela som si, aký je len ten   svetutešený okolo nás!
+       Zohriali sme sa, zajedli si posúšika so slaninou a hneď mi bolo   veselšie. Dívala som sa po poli a myslela som si, aký je len ten svet   utešený okolo nás!
       </tei:p>
       <tei:p>
        Starý otec mi aj zaspieval pesničku:
@@ -1020,7 +1028,7 @@
        #-POEZIA#
       </tei:p>
       <tei:p>
-       Keď sme plávali popri dedinách, z domov vybehúvali malé deti.   Kývali nanás a veselo volali:
+       Keď sme plávali popri dedinách, z domov vybehúvali malé deti.   Kývali na nás a veselo volali:
       </tei:p>
       <tei:p>
        #POEZIA#
@@ -1041,7 +1049,7 @@
        Aj ja som im veselo zakývala.
       </tei:p>
       <tei:p>
-       Ale niekde sa zhrčilo zopár šarvancov na ceste a tí začali na   náspokrikovať:
+       Ale niekde sa zhrčilo zopár šarvancov na ceste a tí začali na nás   pokrikovať:
       </tei:p>
       <tei:p>
        #POEZIA#
@@ -1071,43 +1079,43 @@
        #-POEZIA#
       </tei:p>
       <tei:p>
-       Starý otec si ani toho nevšimol, ale mne hneď bolo ťažšie pri   srdci. Čo,ak sa nám predsa niečo stane? Veď koľko len pltníkov   zahynulo, keď implť udrela na skalu a rozsypala sa?!
+       Starý otec si ani toho nevšimol, ale mne hneď bolo ťažšie pri   srdci. Čo, ak sa nám predsa niečo stane? Veď koľko len pltníkov   zahynulo, keď im plť udrela na skalu a rozsypala sa?!
       </tei:p>
       <tei:p>
-       A veď sme už aj plávali do nebezpečných zákrut. Starý otec   obratnekeroval. Bol on skúseným pltníkom. Vše zavolal na mňa, na   ktorú stranumám zaveslovať. Ostávalo nám najnebezpečnejšie   miesto.
+       A veď sme už aj plávali do nebezpečných zákrut. Starý otec obratne   keroval. Bol on skúseným pltníkom. Vše zavolal na mňa, na ktorú   stranu mám zaveslovať. Ostávalo nám najnebezpečnejšie miesto.
       </tei:p>
       <tei:p>
-       Tam, kde vysoká a veľká skala vyčnievala skoro do pol rieky. Tú   bolotreba obísť úzkym a ešte aj skrúteným korytom. Voda pri skale len   takhučala a narážala na ňu spenená.
+       Tam, kde vysoká a veľká skala vyčnievala skoro do pol rieky. Tú   bolo treba obísť úzkym a ešte aj skrúteným korytom. Voda pri skale   len tak hučala a narážala na ňu spenená.
       </tei:p>
       <tei:p>
-       Slnko už stálo vysoko. Aj horúco mi bolo. Ale už som si nemala   kedykožuštek vyzliecť. Zdalo sa mi, že nás prúd ženie rovno na   skalu.
+       Slnko už stálo vysoko. Aj horúco mi bolo. Ale už som si nemala   kedy kožuštek vyzliecť. Zdalo sa mi, že nás prúd ženie rovno na   skalu.
       </tei:p>
       <tei:p>
-       Starý otec zavolal na mňa, aby som nič s veslom nerobila, aby som   ho lentuho vo vzduchu držala, že on už vykeruje. Bál sa, že keď   zlezaveslujem, narobím nešťastie.
+       Starý otec zavolal na mňa, aby som nič s veslom nerobila, aby som   ho len tuho vo vzduchu držala, že on už vykeruje. Bál sa, že keď zle   zaveslujem, narobím nešťastie.
       </tei:p>
       <tei:p>
-       Spravila som tak, ako mi kázal. Aj tak by som nebola vedela, ako   mámveslovať. Starý otec sa zaprel nohami o brvno a mocne, čo mu len   silystačili, odťahoval veslom plť od skaly. Ja som už len trnula od   strachua čakala, kedy nás prúd na ňu vyhodí.
+       Spravila som tak, ako mi kázal. Aj tak by som nebola vedela, ako   mám veslovať. Starý otec sa zaprel nohami o brvno a mocne, čo mu len   sily stačili, odťahoval veslom plť od skaly. Ja som už len trnula od   strachu a čakala, kedy nás prúd na ňu vyhodí.
       </tei:p>
       <tei:p>
        Už sme sa skrúcali okolo nej…
       </tei:p>
       <tei:p>
-       Pozrela som na starého otca a tu vidím, ako sa vlny prevalili na   plť cezneho! Tak som sa zľakla, že mi veslo z rúk vypadlo. A len čo   narazilo navodu, rukoväť búšila do mňa a zhodila ma do vody.
+       Pozrela som na starého otca a tu vidím, ako sa vlny prevalili na   plť cez neho! Tak som sa zľakla, že mi veslo z rúk vypadlo. A len čo   narazilo na vodu, rukoväť búšila do mňa a zhodila ma do vody.
       </tei:p>
       <tei:p>
-       ‚Už je po mne!’ pomyslela som si.
+       ‚Už je po mne!‘ pomyslela som si.
       </tei:p>
       <tei:p>
-       Ale som sa neutopila. Kožuštek a dlhé sukne niesli ma pekne za   plťou. Az druhej plte počujem mocný krik chlapov:
+       Ale som sa neutopila. Kožuštek a dlhé sukne niesli ma pekne za   plťou. A z druhej plte počujem mocný krik chlapov:
       </tei:p>
       <tei:p>
-       „Varúúúj! Žena sa ti topííí!”
+       „Varúúúj! Žena sa ti topííí!“
       </tei:p>
       <tei:p>
-       Starý otec hneď zakvačil veslo a pribehol chytro na druhý koniec   plte.Hodil mi liňu a ja som sa za ňu pritiahla a so starého otcovou   pomocouvyškriabala som sa na plť. To bolo už v tých miestach, kde sa   korytorieky rozširovalo a voda tiekla pokojnejšie.
+       Starý otec hneď zakvačil veslo a pribehol chytro na druhý koniec   plte. Hodil mi liňu a ja som sa za ňu pritiahla a so starého otcovou   pomocou vyškriabala som sa na plť. To bolo už v tých miestach, kde sa   koryto rieky rozširovalo a voda tiekla pokojnejšie.
       </tei:p>
       <tei:p>
-       Starý otec nakládol ohňa. Sadla som si k ohnisku. Zobliekol mi   kožušteka prehodil na mňa svoju halenu, aby som sa zohriala.
+       Starý otec nakládol ohňa. Sadla som si k ohnisku. Zobliekol mi   kožuštek a prehodil na mňa svoju halenu, aby som sa zohriala.
       </tei:p>
       <tei:p>
        Prvý raz v živote som ho videla prestráchaného.
@@ -1116,16 +1124,16 @@
        Ja som sa upokojila len vtedy, keď som zišla z plte na pevnú   zem.
       </tei:p>
       <tei:p>
-       — A boli ste ešte potom niekedy na pltnici, stará mať?   – vypytovalosa dievčatko tiež celé prestrašené.
+       — A boli ste ešte potom niekedy na pltnici, stará mať?   – vypytovalo sa dievčatko tiež celé prestrašené.
       </tei:p>
       <tei:p>
-       — Veru nie! Starý otec ma už nechcel vziať so sebou. Ale nebola by   somani šla. Veď ešte aj teraz sa mi niekedy sníva, že sa topím…
+       — Veru nie! Starý otec ma už nechcel vziať so sebou. Ale nebola by   som ani šla. Veď ešte aj teraz sa mi niekedy sníva, že sa topím…
       </tei:p>
       <tei:p>
        Dievčatko už celkom zabudlo na raňajší sen.
       </tei:p>
       <tei:p>
-       Aj sa trochu hnevalo na starú mater, že neposlúchla starého otca   anedržala veslo tak tuho, ako jej kázal. Ako ľahko sa mohla utopiť na   tomnebezpečnom mieste.
+       Aj sa trochu hnevalo na starú mater, že neposlúchla starého otca a   nedržala veslo tak tuho, ako jej kázal. Ako ľahko sa mohla utopiť na   tom nebezpečnom mieste.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -1139,10 +1147,10 @@
        Nevládalo.
       </tei:p>
       <tei:p>
-       Ležalo nehybne so zavretými očami a počúvalo, ako čľapoce voda   podoblokmi a hučí hora za riekou.
+       Ležalo nehybne so zavretými očami a počúvalo, ako čľapoce voda pod   oblokmi a hučí hora za riekou.
       </tei:p>
       <tei:p>
-       Čoskoro budú v hore kvitnúť prvé sasanky s jemnými bielymi   lístkami. Alečo, ak neozdravie do tých čias? Druhé deti pôjdu na   kvietky, a ono budechoré… Úzkosť ho zaliala. Zavolalo na matku, ale   tá už skoro ránoodišla do roboty…
+       Čoskoro budú v hore kvitnúť prvé sasanky s jemnými bielymi   lístkami. Ale čo, ak neozdravie do tých čias? Druhé deti pôjdu na   kvietky, a ono bude choré… Úzkosť ho zaliala. Zavolalo na matku, ale   tá už skoro ráno odišla do roboty…
       </tei:p>
       <tei:p>
        No zato vošla do izby stará mať.
@@ -1154,25 +1162,25 @@
        — A čo mi to nesiete? – rozveselilo sa dievčatko.
       </tei:p>
       <tei:p>
-       — Moja nebohá mať vravievala, že surová kapusta o takomto čase   predjarou prinavracia ľuďom zdravie. Doniesla som ti do hŕstky na   mištičke.
+       — Moja nebohá mať vravievala, že surová kapusta o takomto čase   pred jarou prinavracia ľuďom zdravie. Doniesla som ti do hŕstky na   mištičke.
       </tei:p>
       <tei:p>
-       Dievčatko vzalo misku a viac po pamäti bralo a dávalo si do úst   kapustnéstrapce. Jedlo hltavo. Aj kapustnicu zo dna mištičky pozorne   vypilo.
+       Dievčatko vzalo misku a viac po pamäti bralo a dávalo si do úst   kapustné strapce. Jedlo hltavo. Aj kapustnicu zo dna mištičky pozorne   vypilo.
       </tei:p>
       <tei:p>
        Medzitým stará mať stála nad vnučkou a usmievala sa.
       </tei:p>
       <tei:p>
-       — A budete mi ešte rozprávať? – povedalo dievčatko, keď   vrátiloprázdnu misku.
+       — A budete mi ešte rozprávať? – povedalo dievčatko, keď vrátilo   prázdnu misku.
       </tei:p>
       <tei:p>
-       — Budem, dieťa moje! Do tých čias ti budem rozprávať, kým ti   chorobaneprejde.
+       — Budem, dieťa moje! Do tých čias ti budem rozprávať, kým ti   choroba neprejde.
       </tei:p>
       <tei:p>
-       Dievčatko v ten deň nezliezlo z postele, ale posadilo sa na nej   ačakalo.
+       Dievčatko v ten deň nezliezlo z postele, ale posadilo sa na nej a   čakalo.
       </tei:p>
       <tei:p>
-       — Len o čom ti to mám dnes rozprávať? – dozvedala sa stará   mať.Vnučka sa jej toho rána akosi nevidela.
+       — Len o čom ti to mám dnes rozprávať? – dozvedala sa stará mať.   Vnučka sa jej toho rána akosi nevidela.
       </tei:p>
       <tei:p>
        — O starom otcovi!
@@ -1190,37 +1198,37 @@
        Dievčatko sa blažene usmialo a zoplo si ruky za hlavou.
       </tei:p>
       <tei:p>
-       — Robili sme u starého Jablonského žatvu. Odrábali sme si na ten   rokbývanie u neho.
+       — Robili sme u starého Jablonského žatvu. Odrábali sme si na ten   rok bývanie u neho.
       </tei:p>
       <tei:p>
-       Bol už večer. Nosila som kravám vodu a starý otec vynášal hnoj   zmaštale.
+       Bol už večer. Nosila som kravám vodu a starý otec vynášal hnoj z   maštale.
       </tei:p>
       <tei:p>
-       Starý Jablonský vyviedol z maštale mocného býka. Alebo bol býk   smädný,alebo Jablonský nemal už vlády v rukách, len sa mu zver   vytrhol avyrútil sa na mňa – pošiel do mňa rohami a zvalil ma na   zem.
+       Starý Jablonský vyviedol z maštale mocného býka. Alebo bol býk   smädný, alebo Jablonský nemal už vlády v rukách, len sa mu zver   vytrhol a vyrútil sa na mňa – pošiel do mňa rohami a zvalil ma na   zem.
       </tei:p>
       <tei:p>
-       Od strachu som omdlela. Prebrala som sa až v izbietke, keď   prišiellekár. Ten ma ošetril, obviazal a nariadil mi ležať. Veru som   celú jeseňu svojej matere preležala!
+       Od strachu som omdlela. Prebrala som sa až v izbietke, keď prišiel   lekár. Ten ma ošetril, obviazal a nariadil mi ležať. Veru som celú   jeseň u svojej matere preležala!
       </tei:p>
       <tei:p>
-       V ten večer mi starý otec rozpovedal, čo sa všetko stalo. Starý   otecskočil k býkovi, zdrapil ho za retiazku, ktorá mu visela z   nozdier, avoviedol ho do maštale. Keď ho uviazal, povedal   Jablonskému:
+       V ten večer mi starý otec rozpovedal, čo sa všetko stalo. Starý   otec skočil k býkovi, zdrapil ho za retiazku, ktorá mu visela z   nozdier, a voviedol ho do maštale. Keď ho uviazal, povedal   Jablonskému:
       </tei:p>
       <tei:p>
-       „Treba mi ísť na koňoch po lekára.”
+       „Treba mi ísť na koňoch po lekára.“
       </tei:p>
       <tei:p>
-       „Ale ja kone nedám!” odsekol mu Jablonský tvrdo.
+       „Ale ja kone nedám!“ odsekol mu Jablonský tvrdo.
       </tei:p>
       <tei:p>
        Starý otec pochytil vidly a zreval na boháča:
       </tei:p>
       <tei:p>
-       „Dáte, alebo nedáte!?”
+       „Dáte, alebo nedáte!?“
       </tei:p>
       <tei:p>
-       Jablonský sa naľakal, že ho starý otec prekole, a kone dal. Ale   kýmlekár prišiel, všetko zlé sa mu v hlave rozležalo. A keď   odišiel,povedal, že nás už nechce v dome ani vidieť, aby sme sa zaraz   pratali zjeho izby von.
+       Jablonský sa naľakal, že ho starý otec prekole, a kone dal. Ale   kým lekár prišiel, všetko zlé sa mu v hlave rozležalo. A keď odišiel,   povedal, že nás už nechce v dome ani vidieť, aby sme sa zaraz pratali   z jeho izby von.
       </tei:p>
       <tei:p>
-       My sme vedeli, prečo nás vyhnal. On potreboval ženu do roboty, a   nie abysom mu v izbe ležala. A tak sme si v tú noc rozmysleli, že   starý otecodíde do Ameriky a ja, keď doma u matere vyzdraviem, pôjdem   zase slúžiť.A keď si našetríme peňazí, postavíme si vlastný domček. A   nebudeme užodkázaní na bývanie u nemilosrdného Jablonského.
+       My sme vedeli, prečo nás vyhnal. On potreboval ženu do roboty, a   nie aby som mu v izbe ležala. A tak sme si v tú noc rozmysleli, že   starý otec odíde do Ameriky a ja, keď doma u matere vyzdraviem,   pôjdem zase slúžiť. A keď si našetríme peňazí, postavíme si vlastný   domček. A nebudeme už odkázaní na bývanie u nemilosrdného   Jablonského.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -1228,7 +1236,7 @@
        AKO BOL STARÝ OTEC V AMERIKE
       </tei:head>
       <tei:p>
-       Všetko, čo doteraz stará mať o starom otcovi rozprávala, vedelo   sidievčatko veľmi živo predstaviť.
+       Všetko, čo doteraz stará mať o starom otcovi rozprávala, vedelo si   dievčatko veľmi živo predstaviť.
       </tei:p>
       <tei:p>
        Ale čo si počal starý otec v Amerike?
@@ -1237,43 +1245,43 @@
        Dievčatko už čosi počulo o Amerike.
       </tei:p>
       <tei:p>
-       Je tam vraj aj také mesto, čo v ňom býva toľko ľudí, koľko tu doma   vovšetkých mestách dohromady. A tí ľudia rozprávajú ešte aj inou   rečou.
+       Je tam vraj aj také mesto, čo v ňom býva toľko ľudí, koľko tu doma   vo všetkých mestách dohromady. A tí ľudia rozprávajú ešte aj inou   rečou.
       </tei:p>
       <tei:p>
        Ako sa s nimi starý otec dohovoril?
       </tei:p>
       <tei:p>
-       Dievčatko sa v tom nijako nevyznalo a poprosilo starú mater, aby   mu hneďteraz rozprávala, ako sa vodilo starému otcovi v Amerike.
+       Dievčatko sa v tom nijako nevyznalo a poprosilo starú mater, aby   mu hneď teraz rozprávala, ako sa vodilo starému otcovi v Amerike.
       </tei:p>
       <tei:p>
-       — Jaj, dieťa moje, – pokývala stará mať hlavou, – veru mu   neboloľahko.
+       — Jaj, dieťa moje, – pokývala stará mať hlavou, – veru mu nebolo   ľahko.
       </tei:p>
       <tei:p>
-       Na cestu si vzal všetky peniaze, čo sme mali, ešte sme si aj   požičali.Išli z našej dediny dvaja: on a ešte jeden, čo už išiel po   druhý raz.
+       Na cestu si vzal všetky peniaze, čo sme mali, ešte sme si aj   požičali. Išli z našej dediny dvaja: on a ešte jeden, čo už išiel po   druhý raz.
       </tei:p>
       <tei:p>
        Zo tri krajiny precestovali vlakom, kým sa dostali k moru.
       </tei:p>
       <tei:p>
-       Ale vlakom to nebolo nič zvláštne. Krajina ako krajina: niekde je   viacvrchov, niekde zase roviny.
+       Ale vlakom to nebolo nič zvláštne. Krajina ako krajina: niekde je   viac vrchov, niekde zase roviny.
       </tei:p>
       <tei:p>
        Ale potom, keď vystúpili na loď!
       </tei:p>
       <tei:p>
-       Čo bol starý otec aký smelý a nebojácny, predsa mu bolo všelijako,   keďsa loď odtrhla od zeme a vyšla na šíre more.
+       Čo bol starý otec aký smelý a nebojácny, predsa mu bolo všelijako,   keď sa loď odtrhla od zeme a vyšla na šíre more.
       </tei:p>
       <tei:p>
        Dva týždne nevideli nič inšie len vodu a vodu.
       </tei:p>
       <tei:p>
-       Aj búrku na mori zažili. Vlny hádzali loďou, ako keď pustíš   škrupinku zorecha dolu potokom.
+       Aj búrku na mori zažili. Vlny hádzali loďou, ako keď pustíš   škrupinku z orecha dolu potokom.
       </tei:p>
       <tei:p>
-       Ale za tri dni sa more utíšilo a oni sa už potom pekne doplavili   doAmeriky.
+       Ale za tri dni sa more utíšilo a oni sa už potom pekne doplavili   do Ameriky.
       </tei:p>
       <tei:p>
-       Dobre bolo, že ten druhý tam už raz bol. Ten zaviedol starého otca   kostatným krajanom.
+       Dobre bolo, že ten druhý tam už raz bol. Ten zaviedol starého otca   k ostatným krajanom.
       </tei:p>
       <tei:p>
        Všetci kopali uhlie v bani.
@@ -1282,13 +1290,13 @@
        Na túto robotu prihlásil sa aj starý otec.
       </tei:p>
       <tei:p>
-       V americkej bani sa veľmi ťažko kopalo. Baníci museli poležiačky   celýdeň zatínať čakanom do čierneho skália. Koľko vozíkov uhlia   nakopali, zatoľko im zaplatili.
+       V americkej bani sa veľmi ťažko kopalo. Baníci museli poležiačky   celý deň zatínať čakanom do čierneho skália. Koľko vozíkov uhlia   nakopali, za toľko im zaplatili.
       </tei:p>
       <tei:p>
        Ale že bol starý otec veselý, zvykol si aj na túto robotu.
       </tei:p>
       <tei:p>
-       Vždy si myslel len na to, ako sa vráti domov, ako si postaví   vlastnúchalupu. Z tej ho už boháč Jablonský nevyženie!
+       Vždy si myslel len na to, ako sa vráti domov, ako si postaví   vlastnú chalupu. Z tej ho už boháč Jablonský nevyženie!
       </tei:p>
       <tei:p>
        A keď si na toto pomyslel, hneď sa mu veselšie kopalo.
@@ -1297,40 +1305,40 @@
        Len v nedeľu mu bývalo smutno.
       </tei:p>
       <tei:p>
-       Krajania si vždy kúpili súdok piva a popíjali celý deň. Ale to   sastarému otcovi nepáčilo. Radšej si kúpil bicykel a každú nedeľu si   naňom zašiel do iného mesta. Ale nič sa mu v tých cudzích   mestáchnevidelo, len ešte tuhšie si spomínal na rodnú dedinu.
+       Krajania si vždy kúpili súdok piva a popíjali celý deň. Ale to sa   starému otcovi nepáčilo. Radšej si kúpil bicykel a každú nedeľu si na   ňom zašiel do iného mesta. Ale nič sa mu v tých cudzích mestách   nevidelo, len ešte tuhšie si spomínal na rodnú dedinu.
       </tei:p>
       <tei:p>
-       A potom ešte usilovnejšie kopal uhlie, len aby sa čím prv mohol   vrátiťdomov.
+       A potom ešte usilovnejšie kopal uhlie, len aby sa čím prv mohol   vrátiť domov.
       </tei:p>
       <tei:p>
-       — A vy ste čo zatiaľ robili, stará mať? – prerušilo dievčatko   starúmater.
+       — A vy ste čo zatiaľ robili, stará mať? – prerušilo dievčatko   starú mater.
       </tei:p>
       <tei:p>
-       — Veď som ti už povedala, že som išla slúžiť, – vysvetlila   vnučkestará mať. – Len čo som vyzdravela, robila som v službe od rána   dovečera, aby som aj ja niečo ušetrila na domček.
+       — Veď som ti už povedala, že som išla slúžiť, – vysvetlila vnučke   stará mať. – Len čo som vyzdravela, robila som v službe od rána do   večera, aby som aj ja niečo ušetrila na domček.
       </tei:p>
       <tei:p>
-       Iba v noci, keď mesiačik svietil, vyšla som na prah a takto som sa   muprivrávala:
+       Iba v noci, keď mesiačik svietil, vyšla som na prah a takto som sa   mu privrávala:
       </tei:p>
       <tei:p>
-       „Ej, mesiačik, mesiačik, ty svietiš aj na môjho muža v Amerike,   nože hotam pozdrav!”
+       „Ej, mesiačik, mesiačik, ty svietiš aj na môjho muža v Amerike,   nože ho tam pozdrav!“
       </tei:p>
       <tei:p>
-       A trochu som sa potešila, keď som si pomyslela, že možno aj starý   otecpozrie v noci na mesiačik a spomenie si aj on na mňa.
+       A trochu som sa potešila, keď som si pomyslela, že možno aj starý   otec pozrie v noci na mesiačik a spomenie si aj on na mňa.
       </tei:p>
       <tei:p>
        — A vám napísal starý otec z Ameriky?
       </tei:p>
       <tei:p>
-       Dievčatko veľmi ľutovalo starého otca aj starú mater, že sa tak   muselitrápiť každý na inom konci sveta.
+       Dievčatko veľmi ľutovalo starého otca aj starú mater, že sa tak   museli trápiť každý na inom konci sveta.
       </tei:p>
       <tei:p>
-       — Oj, veru napísal! Vždy, keď posielal peniaze, napísal aj list.   Alenikdy nič o tej ťažkej robote. Vždy len čosi veselého. Raz mi   napísal,že si kúpil hodinky. A tie mu tak veselo tikajú nad hlavou,   keď sazobúdza, akoby som ja štebotala pri ňom.
+       — Oj, veru napísal! Vždy, keď posielal peniaze, napísal aj list.   Ale nikdy nič o tej ťažkej robote. Vždy len čosi veselého. Raz mi   napísal, že si kúpil hodinky. A tie mu tak veselo tikajú nad hlavou,   keď sa zobúdza, akoby som ja štebotala pri ňom.
       </tei:p>
       <tei:p>
-       Dievčatko sa veľmi potešilo. Aké je to pekné, že starý otec   neprestalbyť veselý ani vtedy, keď mu nijako veselo nebolo.
+       Dievčatko sa veľmi potešilo. Aké je to pekné, že starý otec   neprestal byť veselý ani vtedy, keď mu nijako veselo nebolo.
       </tei:p>
       <tei:p>
-       — Tak sa nám akosi minuli dva roky, – pokračovala ďalej stará   mať.– V jednu nedeľu prišla som domov k materi. Mala som u nej truhlu   sošatami a chcela som si niečo vziať. Slúžila som vtedy na tretej   dedine.
+       — Tak sa nám akosi minuli dva roky, – pokračovala ďalej stará mať.   – V jednu nedeľu prišla som domov k materi. Mala som u nej truhlu so   šatami a chcela som si niečo vziať. Slúžila som vtedy na tretej   dedine.
       </tei:p>
       <tei:p>
        Mrkalo sa a ja som sedela na prahu a spomínala na starého   otca.
@@ -1339,52 +1347,52 @@
        Čo len robí v tej Amerike? Kedy príde? Dlho ešte budem naňho   čakať?
       </tei:p>
       <tei:p>
-       Do dvora vošiel akýsi vandrovník v čiernych šatách. Bol zarastený,   malbradu a veľké fúzy. Opýtal sa ma hrubým hlasom:
+       Do dvora vošiel akýsi vandrovník v čiernych šatách. Bol zarastený,   mal bradu a veľké fúzy. Opýtal sa ma hrubým hlasom:
       </tei:p>
       <tei:p>
-       „Ale by ste ma neprenocovali?”
+       „Ale by ste ma neprenocovali?“
       </tei:p>
       <tei:p>
-       „Veru nie! Nás tu býva veľa v jednej izbe. Choďte si k richtárovi   pýtaťnocľah, nech vám dá tam, kde je menej ľudí. Jeho starosť je   starať sa opocestných.”
+       „Veru nie! Nás tu býva veľa v jednej izbe. Choďte si k richtárovi   pýtať nocľah, nech vám dá tam, kde je menej ľudí. Jeho starosť je   starať sa o pocestných.“
       </tei:p>
       <tei:p>
-       „Oj, aká ste zlá,” povedal mi ešte hrubším hlasom. „Možno, že   vnútribudú lepší,” a pobral sa dnu.
+       „Oj, aká ste zlá,“ povedal mi ešte hrubším hlasom. „Možno, že   vnútri budú lepší,“ a pobral sa dnu.
       </tei:p>
       <tei:p>
-       ‚Ech, veď mu mať povie svoje!’ pomyslela som si a ostala som   sedieť naprahu.
+       ‚Ech, veď mu mať povie svoje!‘ pomyslela som si a ostala som   sedieť na prahu.
       </tei:p>
       <tei:p>
        Sedím tak chvíľu, zrazu vyjde z dverí moja mať a vraví mi:
       </tei:p>
       <tei:p>
-       „Poďže do izby! Veď ti ten vandrovník doniesol odkaz z   Ameriky…”
+       „Poďže do izby! Veď ti ten vandrovník doniesol odkaz z   Ameriky…“
       </tei:p>
       <tei:p>
-       Chytro som vstala a vbehla dnu. Nad stolom už horela petrolejová   lampa.Ten s tými fúzmi sedel za stolom a odrazu mi povie:
+       Chytro som vstala a vbehla dnu. Nad stolom už horela petrolejová   lampa. Ten s tými fúzmi sedel za stolom a odrazu mi povie:
       </tei:p>
       <tei:p>
-       „A to ma ty ozaj nepoznáš?”
+       „A to ma ty ozaj nepoznáš?“
       </tei:p>
       <tei:p>
-       ‚Veď je to celkom môjho mužov hlas,’ pomyslela som si   prekvapená.Pozriem naňho a…
+       ‚Veď je to celkom môjho mužov hlas,‘ pomyslela som si prekvapená.   Pozriem naňho a…
       </tei:p>
       <tei:p>
-       — … a bol to ozaj starý otec? – pretrhlo dievčatko nedočkavo   starejmaterino rozprávanie.
+       — … a bol to ozaj starý otec? – pretrhlo dievčatko nedočkavo   starej materino rozprávanie.
       </tei:p>
       <tei:p>
-       — Veru nik iný to nebol, iba on! Kufrík si nechal v krčme, aby   násmohol lepšie prekvapiť. A hlas si premenil na taký hrubý, aby sme   honepoznali.
+       — Veru nik iný to nebol, iba on! Kufrík si nechal v krčme, aby nás   mohol lepšie prekvapiť. A hlas si premenil na taký hrubý, aby sme ho   nepoznali.
       </tei:p>
       <tei:p>
        Ale akože som ho mohla aj poznať?
       </tei:p>
       <tei:p>
-       Keď išiel do Ameriky, mal líca ako ruža, nosil červený kožuštek,   bielukošeľu, a teraz sa vrátil taký černokňažník!
+       Keď išiel do Ameriky, mal líca ako ruža, nosil červený kožuštek,   bielu košeľu, a teraz sa vrátil taký černokňažník!
       </tei:p>
       <tei:p>
        Iba keď sa preobliekol a oholil – vyzeral trocha ako predtým.
       </tei:p>
       <tei:p>
-       Dievčatku sa náramne páčil návrat starého otca. Aké to bolo pekné,   ženezabudol žartovať aj po tom všetkom, čo prežil za dva roky v   Amerike.
+       Dievčatku sa náramne páčil návrat starého otca. Aké to bolo pekné,   že nezabudol žartovať aj po tom všetkom, čo prežil za dva roky v   Amerike.
       </tei:p>
       <tei:p>
        — A postavili ste si potom domček, stará mať?
@@ -1396,7 +1404,7 @@
        Dievčatko zvážnelo.
       </tei:p>
       <tei:p>
-       Od tej chvíle sa celkom ináč dívalo na drevenú chalúpku, v ktorej   smatkou a starou materou bývalo. Zdala sa mu oveľa vzácnejšia, odkedy   sadozvedelo, ako ďaleko musel starý otec ísť a čo všetko musel   prežiť, abymal so starou materou kde bývať.
+       Od tej chvíle sa celkom ináč dívalo na drevenú chalúpku, v ktorej   s matkou a starou materou bývalo. Zdala sa mu oveľa vzácnejšia,   odkedy sa dozvedelo, ako ďaleko musel starý otec ísť a čo všetko   musel prežiť, aby mal so starou materou kde bývať.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -1410,13 +1418,13 @@
        Bol to ostrý hvizd rušňa, keď vlak vychádzal spoza zákruty.
       </tei:p>
       <tei:p>
-       Hneď za riekou išla totiž železnica. Chodili po nej osobné a   nákladnévlaky. Nákladné boli dlhočizné. Vozili najmä drevo z hôr.   Ľudia užnechodili na pltnicu, a keď ešte niekedy išli, nemuseli sa   vracať peši.Dolu vodou sa splavili na plti, naspäť prišli osobným   vlakom.
+       Hneď za riekou išla totiž železnica. Chodili po nej osobné a   nákladné vlaky. Nákladné boli dlhočizné. Vozili najmä drevo z hôr.   Ľudia už nechodili na pltnicu, a keď ešte niekedy išli, nemuseli sa   vracať peši. Dolu vodou sa splavili na plti, naspäť prišli osobným   vlakom.
       </tei:p>
       <tei:p>
-       Dievčatko sa ešte neviezlo na vlaku. A veľmi túžilo po tom. Keď sa   vlakhnal po násype za riekou, podobal sa veľkej hračke. Bolo iste   neobyčajnezábavné viezť sa na ňom.
+       Dievčatko sa ešte neviezlo na vlaku. A veľmi túžilo po tom. Keď sa   vlak hnal po násype za riekou, podobal sa veľkej hračke. Bolo iste   neobyčajne zábavné viezť sa na ňom.
       </tei:p>
       <tei:p>
-       — Kedy ste šli po prvý raz na vlaku? – opýtalo sa dievčatko   starejmatere. Myslelo si, že aj ono pôjde vtedy, keď bude mať toľko   rokov,koľko mala vtedy stará mať.
+       — Kedy ste šli po prvý raz na vlaku? – opýtalo sa dievčatko starej   matere. Myslelo si, že aj ono pôjde vtedy, keď bude mať toľko rokov,   koľko mala vtedy stará mať.
       </tei:p>
       <tei:p>
        — Ja som išla, dieťa moje, keď mi bolo vyše tridsať rokov.
@@ -1425,31 +1433,31 @@
        — A prečo až tak neskoro? – zosmutnelo dievčatko.
       </tei:p>
       <tei:p>
-       — Lebo do tých čias vlak tadiaľto nechodil! Železnicu začali   stavať,až keď prišiel starý otec z Ameriky. Aj on ju staval,   – usmievala sastará mať.
+       — Lebo do tých čias vlak tadiaľto nechodil! Železnicu začali   stavať, až keď prišiel starý otec z Ameriky. Aj on ju staval,   – usmievala sa stará mať.
       </tei:p>
       <tei:p>
-       — Aj starý otec? – podivilo sa dievčatko. – Taká robota sa mu   isteveľmi páčila, – povedalo a hneď sa aj domáhalo od starej matere,   aby muchytro rozprávala, ako tú železnicu stavali.
+       — Aj starý otec? – podivilo sa dievčatko. – Taká robota sa mu iste   veľmi páčila, – povedalo a hneď sa aj domáhalo od starej matere, aby   mu chytro rozprávala, ako tú železnicu stavali.
       </tei:p>
       <tei:p>
-       — Jaj, dieťa moje, to je dlhá rozprávka. Rozpoviem ti ju, len čo   sirobotu donesiem.
+       — Jaj, dieťa moje, to je dlhá rozprávka. Rozpoviem ti ju, len čo   si robotu donesiem.
       </tei:p>
       <tei:p>
        Stará mať vyšla z izby a o chvíľu si doniesla zvyšok vlny v   opálke.
       </tei:p>
       <tei:p>
-       — Už ostatnú vlnu dočuchrávam. Za čuchranie dostanem kus súkna   nakapčeky pre teba…
+       — Už ostatnú vlnu dočuchrávam. Za čuchranie dostanem kus súkna na   kapčeky pre teba…
       </tei:p>
       <tei:p>
-       Ale dievčatko ani kapčeky nezaujímali, len železnica. Opýtalo sa   celérozrušené:
+       Ale dievčatko ani kapčeky nezaujímali, len železnica. Opýtalo sa   celé rozrušené:
       </tei:p>
       <tei:p>
        — Ako to bolo, stará mať?
       </tei:p>
       <tei:p>
-       — Najprv prišiel do dediny len chýr, že ju budú stavať,   – odpovedalastará mať, keď sa už bola dala do roboty. – Jaj, to bolo   vtedy rečí!
+       — Najprv prišiel do dediny len chýr, že ju budú stavať,   – odpovedala stará mať, keď sa už bola dala do roboty. – Jaj, to bolo   vtedy rečí!
       </tei:p>
       <tei:p>
-       Niektorí ľudia vraveli, že železnica je dobrá vec. Vlak lacno   doveziesoľ, múku, cukor. Tieto veci nebudú už také ukrutne drahé, ako   keď ichvozili furmani na vozoch. Ani ľudia nebudú už chodiť peši do   mesta a najarmok, ale si pôjdu pekne vlakom a budú tam za chvíľu.
+       Niektorí ľudia vraveli, že železnica je dobrá vec. Vlak lacno   dovezie soľ, múku, cukor. Tieto veci nebudú už také ukrutne drahé,   ako keď ich vozili furmani na vozoch. Ani ľudia nebudú už chodiť peši   do mesta a na jarmok, ale si pôjdu pekne vlakom a budú tam za   chvíľu.
       </tei:p>
       <tei:p>
        — To dobre hovorili, stará mať, však?
@@ -1458,10 +1466,10 @@
        — Veru dobre.
       </tei:p>
       <tei:p>
-       Ale našli sa aj takí, čo boli proti tomu. Tí vraveli, že pod   železnicusa vezmú najkrajšie kusy poľa. Málo sa urodí potom a bude   hlad. A s týmvozením sa na vlaku – to vraj tiež nebude také ľahké,   ako si ľudiamyslia. Od veľkej rýchlosti zakrúti sa im hlava, takže sa   nevydržia dlhoviezť.
+       Ale našli sa aj takí, čo boli proti tomu. Tí vraveli, že pod   železnicu sa vezmú najkrajšie kusy poľa. Málo sa urodí potom a bude   hlad. A s tým vozením sa na vlaku – to vraj tiež nebude také ľahké,   ako si ľudia myslia. Od veľkej rýchlosti zakrúti sa im hlava, takže   sa nevydržia dlho viezť.
       </tei:p>
       <tei:p>
-       Starý otec sa na tých hlúpych rečiach len smial. Naviezol sa on   dosť povlaku, keď išiel do Ameriky a keď sa z nej vracal. A hlava sa   munezakrútila! Vedel, že tieto reči nik iný nemôže rozširovať, iba   bohatýJablonský. Železnica mala ísť cez jeho najkrajšie role v rovni   za vodou,a hoci mal rolí dosť, nevidelo sa mu ani jednu prepustiť. A   vedel ešteaj to, že si už nikdy toľko nezarobí, ako keď vozil na   koňoch všetoktovar z mesta.
+       Starý otec sa na tých hlúpych rečiach len smial. Naviezol sa on   dosť po vlaku, keď išiel do Ameriky a keď sa z nej vracal. A hlava sa   mu nezakrútila! Vedel, že tieto reči nik iný nemôže rozširovať, iba   bohatý Jablonský. Železnica mala ísť cez jeho najkrajšie role v rovni   za vodou, a hoci mal rolí dosť, nevidelo sa mu ani jednu prepustiť. A   vedel ešte aj to, že si už nikdy toľko nezarobí, ako keď vozil na   koňoch všetok tovar z mesta.
       </tei:p>
       <tei:p>
        Ale ľudia prišli na to, prečo sa Jablonskému železnica nepáči.
@@ -1473,34 +1481,34 @@
        Medzi robotníkov, čo stavali železnicu, prihlásil sa aj starý   otec.
       </tei:p>
       <tei:p>
-       — Ale ja by som len chcela vedieť, ako ju to stavali, stará   mať?– vyzvedalo sa dievčatko.
+       — Ale ja by som len chcela vedieť, ako ju to stavali, stará mať?   – vyzvedalo sa dievčatko.
       </tei:p>
       <tei:p>
        — Jaj, Hanička, to ti bola ťažká robota!
       </tei:p>
       <tei:p>
-       Len v takom kameňolome čo museli kameňa natrhať dynamitom! Koľko   som lennaprosila starého otca, aby si dával pozor pritom! A on mi ten   dynamitešte aj do pivnice v debničke na noc schovával! Večne som   tŕpla, či námdom nevyhodí do povetria…
+       Len v takom kameňolome čo museli kameňa natrhať dynamitom! Koľko   som len naprosila starého otca, aby si dával pozor pritom! A on mi   ten dynamit ešte aj do pivnice v debničke na noc schovával! Večne som   tŕpla, či nám dom nevyhodí do povetria…
       </tei:p>
       <tei:p>
-       Kamenia bolo treba veľa. Aj brehy rieky museli vydláždiť, aj   mostypostaviť, aj násypy miestami podmurovať.
+       Kamenia bolo treba veľa. Aj brehy rieky museli vydláždiť, aj mosty   postaviť, aj násypy miestami podmurovať.
       </tei:p>
       <tei:p>
-       Teraz už dievčatko vie, prečo je vo vrchu za železnicou vysekaná   takáobrovská jama. A vie si už trochu aj predstaviť, čo to dalo   robotyvylámať všetko kamenie a ešte ho aj rozdrviť.
+       Teraz už dievčatko vie, prečo je vo vrchu za železnicou vysekaná   taká obrovská jama. A vie si už trochu aj predstaviť, čo to dalo   roboty vylámať všetko kamenie a ešte ho aj rozdrviť.
       </tei:p>
       <tei:p>
-       — Tam, kde rieka tiekla popri samom vrchu, museli železnicu   vysekaťrovno do skaly. Ľudia ani veriť nechceli, že by tadiaľ mohol   isť vlak.
+       — Tam, kde rieka tiekla popri samom vrchu, museli železnicu   vysekať rovno do skaly. Ľudia ani veriť nechceli, že by tadiaľ mohol   isť vlak.
       </tei:p>
       <tei:p>
        Keď sa stavali mosty, starý otec ani doma nespával.
       </tei:p>
       <tei:p>
-       Až raz pôjdeš vlakom, dobre pozri na tie mosty, – pripomenula   starámať, – lebo pri všetkých robil tvoj starý otec!
+       Až raz pôjdeš vlakom, dobre pozri na tie mosty, – pripomenula   stará mať, – lebo pri všetkých robil tvoj starý otec!
       </tei:p>
       <tei:p>
-       Dievčatko mlčalo, ale v srdci tuho cítilo radosť, že starý otec   mal takýdôležitý podiel pri stavbe železnice.
+       Dievčatko mlčalo, ale v srdci tuho cítilo radosť, že starý otec   mal taký dôležitý podiel pri stavbe železnice.
       </tei:p>
       <tei:p>
-       — A keď už všetky mosty boli postavené a po násype sa ťahali   dvačierne pásy železných koľajníc, jedného dňa sa rozchýrilo po   dedine, žepôjde prvý vlak. Veď si len pomysli, ako na to ľudia   čakali, keď do týchčias okrem chlapov, čo boli v Amerike, nik ešte   vlak nevidel!
+       — A keď už všetky mosty boli postavené a po násype sa ťahali dva   čierne pásy železných koľajníc, jedného dňa sa rozchýrilo po dedine,   že pôjde prvý vlak. Veď si len pomysli, ako na to ľudia čakali, keď   do tých čias okrem chlapov, čo boli v Amerike, nik ešte vlak   nevidel!
       </tei:p>
       <tei:p>
        — Ale ste sa tešili, stará mať!
@@ -1509,19 +1517,19 @@
        — Veru hej!
       </tei:p>
       <tei:p>
-       Len čo sme počuli zapískanie rušňa na zákrute, z celej dediny   ľudiavybehli na cestu sa dívať.
+       Len čo sme počuli zapískanie rušňa na zákrute, z celej dediny   ľudia vybehli na cestu sa dívať.
       </tei:p>
       <tei:p>
        Nič takého dovtedy nevideli!
       </tei:p>
       <tei:p>
-       Rušeň bol ozdobený kvetmi a pomaly ťahal za sebou vozne s ľuďmi.   Oblokmidívali sa robotníci, čo postavili železnicu, a kývali na nás.   Dobre sompoznala starého otca medzi nimi!
+       Rušeň bol ozdobený kvetmi a pomaly ťahal za sebou vozne s ľuďmi.   Oblokmi dívali sa robotníci, čo postavili železnicu, a kývali na nás.   Dobre som poznala starého otca medzi nimi!
       </tei:p>
       <tei:p>
-       A ľudia z dediny tiež kývali a veselo kričali na nich. Deti len   stáli svyvalenými očami a dívali sa na vlak ako na nejaké čudo. Veď   aj vyzeralako had s okáľmi vpredu! A odfukoval dym tak, akoby sa na   niečo pajedil!
+       A ľudia z dediny tiež kývali a veselo kričali na nich. Deti len   stáli s vyvalenými očami a dívali sa na vlak ako na nejaké čudo. Veď   aj vyzeral ako had s okáľmi vpredu! A odfukoval dym tak, akoby sa na   niečo pajedil!
       </tei:p>
       <tei:p>
-       Len bohatý Jablonský nevyšiel na cestu. Iba spod ciene pozeral.   Hnevaloho, že ľuďom bude lepšie a že on už nebude môcť toľme zarábať   nafurmankách.
+       Len bohatý Jablonský nevyšiel na cestu. Iba spod ciene pozeral.   Hnevalo ho, že ľuďom bude lepšie a že on už nebude môcť toľme zarábať   na furmankách.
       </tei:p>
       <tei:p>
        — Ale bol zlý ten Jablonský! Však, stará mať?
@@ -1530,16 +1538,16 @@
        — Veru zlý!
       </tei:p>
       <tei:p>
-       No, a ja som vtedy po prvý raz na Vianoce navarila kávy a upiekla   koláč.Cukor do kávy a múku na koláče už doviezol vlak.
+       No, a ja som vtedy po prvý raz na Vianoce navarila kávy a upiekla   koláč. Cukor do kávy a múku na koláče už doviezol vlak.
       </tei:p>
       <tei:p>
-       Starý otec ostal robiť pri železnici. Opravoval mosty, keď sa na   nichniečo pokazilo. Až teraz sa mu zišlo, čo sa za mladi pri   tesárochnaučil…
+       Starý otec ostal robiť pri železnici. Opravoval mosty, keď sa na   nich niečo pokazilo. Až teraz sa mu zišlo, čo sa za mladi pri   tesároch naučil…
       </tei:p>
       <tei:p>
        ***
       </tei:p>
       <tei:p>
-       O veľa rokov neskoršie prechádzalo raz dievčatko cez železničný   most.Dívalo sa na jeho múdru konštrukciu a myslelo si: „Aké je to   pekné, žehoci starého otca už dávno niet, robota po ňom ostala.”   Zazdalo sa mutotiž, že všetky nity a skrutky na moste volajú a kričia   naň: „Nás tutvoj starý otec povkladal a našrauboval!”
+       O veľa rokov neskoršie prechádzalo raz dievčatko cez železničný   most. Dívalo sa na jeho múdru konštrukciu a myslelo si: „Aké je to   pekné, že hoci starého otca už dávno niet, robota po ňom ostala.“   Zazdalo sa mu totiž, že všetky nity a skrutky na moste volajú a   kričia naň: „Nás tu tvoj starý otec povkladal a našrauboval!“
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -1547,37 +1555,37 @@
        STARÁ MAŤ ROZPRÁVA O DIVÝCH   HUSIACH
       </tei:head>
       <tei:p>
-       Očná choroba sa dievčatku zo dňa na deň zhoršovala. Jedného rána   sazobudilo a nemohlo už ani oči otvoriť. Malo ich také boľavé a   zlepené,že ani harmančekový odvar nerozmočil prischnutý hnis na   mihalniciach anezmiernil pichľavú bolesť.
+       Očná choroba sa dievčatku zo dňa na deň zhoršovala. Jedného rána   sa zobudilo a nemohlo už ani oči otvoriť. Malo ich také boľavé a   zlepené, že ani harmančekový odvar nerozmočil prischnutý hnis na   mihalniciach a nezmiernil pichľavú bolesť.
       </tei:p>
       <tei:p>
        A vonku sa začínala jar!
       </tei:p>
       <tei:p>
-       Dievčatko ju poznalo z tisícerých vtáčích hlasov, čo sa zavčas   ozývali zhája za vodou. Znelo to tak, akoby vtáčatá chceli prekričať   jedno druhé.
+       Dievčatko ju poznalo z tisícerých vtáčích hlasov, čo sa zavčas   ozývali z hája za vodou. Znelo to tak, akoby vtáčatá chceli prekričať   jedno druhé.
       </tei:p>
       <tei:p>
        Stará mať vyviedla dievčatko každé ráno na teplé podstenie.
       </tei:p>
       <tei:p>
-       Ale nadarmo ho ta vyvádzala, lebo jarné slniečko pálilo dievčatko   naočiach. Skláňalo si pred ním hlavičku, aby ho oči tak neboleli.
+       Ale nadarmo ho ta vyvádzala, lebo jarné slniečko pálilo dievčatko   na očiach. Skláňalo si pred ním hlavičku, aby ho oči tak   neboleli.
       </tei:p>
       <tei:p>
-       — Aha, už aj lastovičky prileteli z teplých krajov, – povedala   starámať.
+       — Aha, už aj lastovičky prileteli z teplých krajov, – povedala   stará mať.
       </tei:p>
       <tei:p>
-       — A vidíte ich, stará mať? Dobre ich vidíte? – opýtalo sa   smutnedievčatko, lebo ono lastovičky nevidelo.
+       — A vidíte ich, stará mať? Dobre ich vidíte? – opýtalo sa smutne   dievčatko, lebo ono lastovičky nevidelo.
       </tei:p>
       <tei:p>
-       — Vidím, dieťa moje. Sú to tie isté, čo tu bývali vlani. Poprávajú   sipod strechou staré hniezdo.
+       — Vidím, dieťa moje. Sú to tie isté, čo tu bývali vlani. Poprávajú   si pod strechou staré hniezdo.
       </tei:p>
       <tei:p>
        — A ako viete, stará mať, že sú to tie isté?
       </tei:p>
       <tei:p>
-       — Viem, lebo lastovičky sa vždy vrátia do toho istého hniezda,   zktorého na jeseň vyleteli. To už ony majú taký cit v sebe, čo ich   tiahneta, kde sa vyliahli.
+       — Viem, lebo lastovičky sa vždy vrátia do toho istého hniezda, z   ktorého na jeseň vyleteli. To už ony majú taký cit v sebe, čo ich   tiahne ta, kde sa vyliahli.
       </tei:p>
       <tei:p>
-       „Aké je to pekné,” myslelo si dievčatko, „že lastovičky nezabudnú   nasvoj dom.” Opýtalo sa:
+       „Aké je to pekné,“ myslelo si dievčatko, „že lastovičky nezabudnú   na svoj dom.“ Opýtalo sa:
       </tei:p>
       <tei:p>
        — A všetci vtáci, čo odletia na zimu do teplých krajov, sú   takí?
@@ -1586,16 +1594,16 @@
        — Veru všetci! A ešte aj letia ta i odtiaľ tou istou cestou!
       </tei:p>
       <tei:p>
-       Raz, – zaspomínala si stará mať, – bolo to v jeseni. Bývali sme už   vtomto dome. Vtedy stál celkom na kraji dediny a za nami bolo už   pole.Tvoja mať nám dorastala. Chovala som hodný kŕdeľ husí, lebo mi   bolotreba nachystať peria do perín. To aby mala hotové, keď sa bude   vydávať.
+       Raz, – zaspomínala si stará mať, – bolo to v jeseni. Bývali sme už   v tomto dome. Vtedy stál celkom na kraji dediny a za nami bolo už   pole. Tvoja mať nám dorastala. Chovala som hodný kŕdeľ husí, lebo mi   bolo treba nachystať peria do perín. To aby mala hotové, keď sa bude   vydávať.
       </tei:p>
       <tei:p>
        Raz som tie husi zatvárala na noc do chlieva.
       </tei:p>
       <tei:p>
-       Tu zrazu začujem gágať divé husi. Stála som pri otvorenom chlievci   adívala som sa, kadiaľ letia. Leteli celkom nízko. Ostala som   akoočarovaná. Taká vec sa stane zriedkavo, aby divé husi leteli nad   samýmistrechami.
+       Tu zrazu začujem gágať divé husi. Stála som pri otvorenom chlievci   a dívala som sa, kadiaľ letia. Leteli celkom nízko. Ostala som ako   očarovaná. Taká vec sa stane zriedkavo, aby divé husi leteli nad   samými strechami.
       </tei:p>
       <tei:p>
-       Aj gágali vtedy inakšie, ako keď sa vo svojej husej reči lúčia s   rodnýmkrajom a volajú:
+       Aj gágali vtedy inakšie, ako keď sa vo svojej husej reči lúčia s   rodným krajom a volajú:
       </tei:p>
       <tei:p>
        #POEZIA#
@@ -1613,7 +1621,7 @@
        #-POEZIA#
       </tei:p>
       <tei:p>
-       Ich gagot musela začuť v chlievci aj naša stará hus, lebo aj   onazgagotala, ako len vládala.
+       Ich gagot musela začuť v chlievci aj naša stará hus, lebo aj ona   zgagotala, ako len vládala.
       </tei:p>
       <tei:p>
        A tu čo sa nestalo?!
@@ -1625,76 +1633,76 @@
        — A vy ste čo urobili, stará mať?
       </tei:p>
       <tei:p>
-       Dievčatko sa to opýtalo celkom ticho, akoby sa divé husi práve   terazboli zniesli na dvor a ono sa ich bálo vyplašiť.
+       Dievčatko sa to opýtalo celkom ticho, akoby sa divé husi práve   teraz boli zniesli na dvor a ono sa ich bálo vyplašiť.
       </tei:p>
       <tei:p>
-       — Nevedela som od prekvapenia, čo si počať. Len som stála   akoprimrznutá a ani som sa nehla od otvorených dveriec chlievca.   Husikráčali ku mne za hlasom našej husi. A tak pekne-krásne celý   tentmavopopolavý kŕdeľ vošiel do chlievca k našim husiam.
+       — Nevedela som od prekvapenia, čo si počať. Len som stála ako   primrznutá a ani som sa nehla od otvorených dveriec chlievca. Husi   kráčali ku mne za hlasom našej husi. A tak pekne-krásne celý ten   tmavopopolavý kŕdeľ vošiel do chlievca k našim husiam.
       </tei:p>
       <tei:p>
-       Ja, ešte stále ako vo sne, zavrela som dvercia na závoru a odišla   somchystať večeru. Nikomu som o husiach nič nepovedala, ale ustavične   sa mimotali po ume. Ešte aj v noci sa mi o nich snívalo.
+       Ja, ešte stále ako vo sne, zavrela som dvercia na závoru a odišla   som chystať večeru. Nikomu som o husiach nič nepovedala, ale   ustavične sa mi motali po ume. Ešte aj v noci sa mi o nich   snívalo.
       </tei:p>
       <tei:p>
-       — A ráno čo bolo? Ostali u vás? – spýtalo sa dievčatko   netrpezlivýmhlasom.
+       — A ráno čo bolo? Ostali u vás? – spýtalo sa dievčatko   netrpezlivým hlasom.
       </tei:p>
       <tei:p>
        — Počkaj, nepredbiehaj! Všetko ti rozpoviem.
       </tei:p>
       <tei:p>
-       Ráno, hneď ako som sa zobudila, utekala som k chlievcu. Odchýlila   somdvercia a pozerala som, čo tam robia.
+       Ráno, hneď ako som sa zobudila, utekala som k chlievcu. Odchýlila   som dvercia a pozerala som, čo tam robia.
       </tei:p>
       <tei:p>
-       Ale v chlievci bolo tma, odchýlila som dvercia trochu viac, a tu   čo sanestalo?
+       Ale v chlievci bolo tma, odchýlila som dvercia trochu viac, a tu   čo sa nestalo?
       </tei:p>
       <tei:p>
-       Naraz len čosi zašumelo a sivý kŕdeľ divých husí vyletel s krikom   nadvor a sotva som sa stačila obzrieť, už sa aj vznášal ponad   strechy.
+       Naraz len čosi zašumelo a sivý kŕdeľ divých husí vyletel s krikom   na dvor a sotva som sa stačila obzrieť, už sa aj vznášal ponad   strechy.
       </tei:p>
       <tei:p>
        Bolo po mojej radosti!
       </tei:p>
       <tei:p>
-       Smutne som pozerala po našich husiach, ako vychodia z chlievca.   Iba tučo nevidím?
+       Smutne som pozerala po našich husiach, ako vychodia z chlievca.   Iba tu čo nevidím?
       </tei:p>
       <tei:p>
        Jedna divá hus ostala!
       </tei:p>
       <tei:p>
-       Bola to stará, veľmi popolavá hus. Jedno krídlo mala ovisnuté,   poranené.Hneď som porozumela, prečo ostala. Veď aj strepotala   krídlami, alemárne. Nevládala letieť s mladými do ďalekých   krajov.
+       Bola to stará, veľmi popolavá hus. Jedno krídlo mala ovisnuté,   poranené. Hneď som porozumela, prečo ostala. Veď aj strepotala   krídlami, ale márne. Nevládala letieť s mladými do ďalekých   krajov.
       </tei:p>
       <tei:p>
        — A čo sa s ňou potom stalo, stará mať?
       </tei:p>
       <tei:p>
-       — Chodila celú zimu s našou starou husou po dvore. Vyzerali ako   dveverné kamarátky.
+       — Chodila celú zimu s našou starou husou po dvore. Vyzerali ako   dve verné kamarátky.
       </tei:p>
       <tei:p>
-       Pred jarou obe husi naniesli vajec. Podsypala som ich a nechala   sedieťna vajciach. Len čo sa zazelenala prvá trávička, vyviedli   obidve pokŕdliku malých húsat. Húsatká divej husi boli popolavé, len   na hlave apod bruškom boli biele. Naše húsatká, ako vždy, boli   žltučké ako púpava.A tento strakatý kŕdeľ chodil pekne spolu a zobkal   žihľavu a zrno zjedného válovčeka.
+       Pred jarou obe husi naniesli vajec. Podsypala som ich a nechala   sedieť na vajciach. Len čo sa zazelenala prvá trávička, vyviedli   obidve po kŕdliku malých húsat. Húsatká divej husi boli popolavé, len   na hlave a pod bruškom boli biele. Naše húsatká, ako vždy, boli   žltučké ako púpava. A tento strakatý kŕdeľ chodil pekne spolu a   zobkal žihľavu a zrno z jedného válovčeka.
       </tei:p>
       <tei:p>
        Po celé leto som sa nevedela prenatešiť nad ním.
       </tei:p>
       <tei:p>
-       Ale na jeseň začal sa ten sivý kŕdeľ znepokojovať. Oddelil sa od   bielehoa ťažko sa dal navečer spolu nahnať do chlievca.
+       Ale na jeseň začal sa ten sivý kŕdeľ znepokojovať. Oddelil sa od   bieleho a ťažko sa dal navečer spolu nahnať do chlievca.
       </tei:p>
       <tei:p>
-       Raz večer chcela som husi zatvoriť. Vtom som začula vysoko nad   hlavougágať divé husi. Dívam sa, kadiaľ letia. Tu naše divé husi   strepotalikrídlami a naraz sa vzniesli do povetria a uleteli!
+       Raz večer chcela som husi zatvoriť. Vtom som začula vysoko nad   hlavou gágať divé husi. Dívam sa, kadiaľ letia. Tu naše divé husi   strepotali krídlami a naraz sa vzniesli do povetria a uleteli!
       </tei:p>
       <tei:p>
        To mi vykázali. Nadarmo som sa toľko trápila s nimi.
       </tei:p>
       <tei:p>
-       Ale stará divá hus zase ostala. Bola už stará a ťažká. Iste   nevládalatak vysoko vyletieť.
+       Ale stará divá hus zase ostala. Bola už stará a ťažká. Iste   nevládala tak vysoko vyletieť.
       </tei:p>
       <tei:p>
        — A potom zase vysedela húsatká?
       </tei:p>
       <tei:p>
-       — Zase! Ale som už dala na ne lepší pozor. Dobre som ich   podšklbala,aby nemohli uletieť. Však aj máte v perinách sivé perie   pomiešané sbielym.
+       — Zase! Ale som už dala na ne lepší pozor. Dobre som ich   podšklbala, aby nemohli uletieť. Však aj máte v perinách sivé perie   pomiešané s bielym.
       </tei:p>
       <tei:p>
        Stará mať skončila rozprávanie.
       </tei:p>
       <tei:p>
-       Ale dievčatko sa netešilo ako inokedy. Neusmievalo sa. Myslelo si,   akéje krásne byť divou húskou a voľne si letieť ponad vrchy a doliny   voveselom kŕdli do neznámeho sveta…
+       Ale dievčatko sa netešilo ako inokedy. Neusmievalo sa. Myslelo si,   aké je krásne byť divou húskou a voľne si letieť ponad vrchy a doliny   vo veselom kŕdli do neznámeho sveta…
       </tei:p>
       <tei:p>
        Naostatok sa opýtalo:
@@ -1703,10 +1711,10 @@
        — Stará mať, a vyzdraviem? Budem vidieť, keď sa nám vyliahnu   húsatká?
       </tei:p>
       <tei:p>
-       Stará mať pozrela na dievčatko celá preľaknutá. Zbadala veľmi   smutnútváričku. Bola to tvárička s výrazom slepého dieťaťa. Prejal ju   strach.Až teraz si uvedomila, ako ďaleko pokročila očná choroba.   Zhrozila sa,že dievčatko by mohlo úplne oslepnúť.
+       Stará mať pozrela na dievčatko celá preľaknutá. Zbadala veľmi   smutnú tváričku. Bola to tvárička s výrazom slepého dieťaťa. Prejal   ju strach. Až teraz si uvedomila, ako ďaleko pokročila očná choroba.   Zhrozila sa, že dievčatko by mohlo úplne oslepnúť.
       </tei:p>
       <tei:p>
-       — Prečo nič nehovoríte, stará mať? – pohladkalo dievčatko starú   materrúčkami po lícach a našlo ich mokré od sĺz. Rozplakalo sa aj   ono.
+       — Prečo nič nehovoríte, stará mať? – pohladkalo dievčatko starú   mater rúčkami po lícach a našlo ich mokré od sĺz. Rozplakalo sa aj   ono.
       </tei:p>
       <tei:p>
        A tu v starej materi dozrelo rozhodnutie.
@@ -1721,7 +1729,7 @@
        — Iste ti ich vylieči!
       </tei:p>
       <tei:p>
-       Dievčatko sa uspokojilo. V starej materiných slovách našlo toľko   pevnejviery a istoty, že sa im nedalo neuveriť.
+       Dievčatko sa uspokojilo. V starej materiných slovách našlo toľko   pevnej viery a istoty, že sa im nedalo neuveriť.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -1729,7 +1737,7 @@
        STARÁ MAŤ BOLA S DIEVČATKOM U   LEKÁRA
       </tei:head>
       <tei:p>
-       Bol to najzvláštnejší deň, aký dievčatko doteraz vo svojom   životeprežilo.
+       Bol to najzvláštnejší deň, aký dievčatko doteraz vo svojom živote   prežilo.
       </tei:p>
       <tei:p>
        Keď sa ráno zobudilo, počulo už starú mater chodiť po izbe.
@@ -1741,19 +1749,19 @@
        — Obliekam si sviatočné šaty. Ideme k lekárovi.
       </tei:p>
       <tei:p>
-       Stará mať ešte nebola u lekára. Nebola nikdy chorá. Iba vtedy, keď   jubýk poklal, prišiel lekár k nej. Ale to už bolo strašne dávno…   Keďdeti prechladli alebo si pokazili žalúdok, liečili ich   bylinkami.Verila, že aj vnučkine oči sa zahoja harmančekovým   odvarom.
+       Stará mať ešte nebola u lekára. Nebola nikdy chorá. Iba vtedy, keď   ju býk poklal, prišiel lekár k nej. Ale to už bolo strašne dávno… Keď   deti prechladli alebo si pokazili žalúdok, liečili ich bylinkami.   Verila, že aj vnučkine oči sa zahoja harmančekovým odvarom.
       </tei:p>
       <tei:p>
-       Ale včera prišla na to, že na vnučkinu chorobu jej lieky   nestačia.Dievčatko sa ihneď zošuchlo z postele. Nechalo sa obliecť do   sviatočnýchšiat ako stará mať.
+       Ale včera prišla na to, že na vnučkinu chorobu jej lieky nestačia.   Dievčatko sa ihneď zošuchlo z postele. Nechalo sa obliecť do   sviatočných šiat ako stará mať.
       </tei:p>
       <tei:p>
-       A keď sa obe prichystali, pojala stará mať dievčatko za ruku a   vyšli zdomu.
+       A keď sa obe prichystali, pojala stará mať dievčatko za ruku a   vyšli z domu.
       </tei:p>
       <tei:p>
        Lekár býval v druhej dedine.
       </tei:p>
       <tei:p>
-       Kým išli cez dedinu, kde-kto sa spytoval starej matere, kde idú.   Každémuvážne odpovedala:
+       Kým išli cez dedinu, kde-kto sa spytoval starej matere, kde idú.   Každému vážne odpovedala:
       </tei:p>
       <tei:p>
        — Idem tuto s dievčatkom k lekárovi.
@@ -1765,61 +1773,61 @@
        — Touto cestou ste išli, keď vás mať viedla do služby?
       </tei:p>
       <tei:p>
-       — Veru tou istou! A nebola som skoro väčšia ako ty. Ale to ešte   nebolonajhoršie.
+       — Veru tou istou! A nebola som skoro väčšia ako ty. Ale to ešte   nebolo najhoršie.
       </tei:p>
       <tei:p>
        — A čo bolo najhoršie?
       </tei:p>
       <tei:p>
-       — Najhoršie bolo, keď som tadiaľto chodievala v noci a sama.   Ukrutnesom sa bála!
+       — Najhoršie bolo, keď som tadiaľto chodievala v noci a sama.   Ukrutne som sa bála!
       </tei:p>
       <tei:p>
        — A čoho ste sa báli?
       </tei:p>
       <tei:p>
-       — Všeličoho! Len počúvaj, ako tu voda hučí! To ideme okolo   Markovejskaly, kde sa už toľko ľudí utopilo. Starí ľudia rozprávali,   že vhlbočine pod skalou býva vodný muž. Ten vraj v noci pri   mesiačikuvychodí na skalu a tam striehne na ľudí. Koho môže, toho   stiahne dohlbočiny.
+       — Všeličoho! Len počúvaj, ako tu voda hučí! To ideme okolo   Markovej skaly, kde sa už toľko ľudí utopilo. Starí ľudia rozprávali,   že v hlbočine pod skalou býva vodný muž. Ten vraj v noci pri   mesiačiku vychodí na skalu a tam striehne na ľudí. Koho môže, toho   stiahne do hlbočiny.
       </tei:p>
       <tei:p>
        — A vy ste si mysleli, že je to pravda?
       </tei:p>
       <tei:p>
-       — To nie, ale keď som tade v noci šla a svietil mesiačik a vrbiny   saknísali vo vode a vietor v nich šušťal, vždy som si pomyslela: ‚Čo   bysom si počala, keby tak naozaj vyšiel vodný muž na skalu…’ Len   tátomyšlienka toľký strach pustila na mňa, že som sa dala do behu a   utekalasom až po samú dedinu.
+       — To nie, ale keď som tade v noci šla a svietil mesiačik a vrbiny   sa knísali vo vode a vietor v nich šušťal, vždy som si pomyslela: ‚Čo   by som si počala, keby tak naozaj vyšiel vodný muž na skalu…‘ Len   táto myšlienka toľký strach pustila na mňa, že som sa dala do behu a   utekala som až po samú dedinu.
       </tei:p>
       <tei:p>
-       — A ešte ste sa niečoho báli, keď ste tadiaľto išli, stará   mať?– Dievčatko už mátohám neverí, a preto je mu smiešne, že stará   mať saich mohla báť, keď ich nebolo.
+       — A ešte ste sa niečoho báli, keď ste tadiaľto išli, stará mať?   – Dievčatko už mátohám neverí, a preto je mu smiešne, že stará mať sa   ich mohla báť, keď ich nebolo.
       </tei:p>
       <tei:p>
-       — Starí ľudia ešte rozprávali, že v húštinách povyše cesty   bývajúbohynky.
+       — Starí ľudia ešte rozprávali, že v húštinách povyše cesty bývajú   bohynky.
       </tei:p>
       <tei:p>
        — Bohynky? A kto to boli?
       </tei:p>
       <tei:p>
-       — To vraj boli divé ženy. Keď sa v niektorom dome narodilo   dieťatko,prišli v noci pod oblok a striehli naň. A keby bola mať od   dieťatka lenna chvíľu odišla, boli by vbehli dnu, vyňali jej dieťa z   kolísky a svojetam podhodili. Také podhodenča bývalo veľmi zlé, celý   deň revalo anebolo mu rady. Preto aj volajú zlé deti odmenčatá!
+       — To vraj boli divé ženy. Keď sa v niektorom dome narodilo   dieťatko, prišli v noci pod oblok a striehli naň. A keby bola mať od   dieťatka len na chvíľu odišla, boli by vbehli dnu, vyňali jej dieťa z   kolísky a svoje tam podhodili. Také podhodenča bývalo veľmi zlé, celý   deň revalo a nebolo mu rady. Preto aj volajú zlé deti odmenčatá!
       </tei:p>
       <tei:p>
-       Keď som už tak bežala, zase sa mi zdalo, že bohynky utekajú za   mnou,chcú ma chytiť za vrkoč a stiahnuť do húštiny.
+       Keď som už tak bežala, zase sa mi zdalo, že bohynky utekajú za   mnou, chcú ma chytiť za vrkoč a stiahnuť do húštiny.
       </tei:p>
       <tei:p>
        — Veď ste vedeli, že ich niet!
       </tei:p>
       <tei:p>
-       — Vedela som. Ale v nočnej hodine si všeličo človek namyslí, z   čoho saza bieleho dňa smeje.
+       — Vedela som. Ale v nočnej hodine si všeličo človek namyslí, z   čoho sa za bieleho dňa smeje.
       </tei:p>
       <tei:p>
        — Stará mať, a prečo si ľudia vymysleli vodných mužov a   bohynky?
       </tei:p>
       <tei:p>
-       — Starý otec mi povedal, že voľakedy ľudia nevedeli, od čoho má   vodnývír pod Markovou skalou takú silu, že môže stiahnuť človeka do   hlbočiny.Nuž mysleli, že to robí vodný muž. A tie deti, čo im nebolo   rady, boliiste choré. Lekárov vtedy nebolo, nuž nevedeli ľudia, od   čoho sú takézlé. A vysvetľovali si to tak, že bohynky dobré deti berú   a svoje divépodhadzujú.
+       — Starý otec mi povedal, že voľakedy ľudia nevedeli, od čoho má   vodný vír pod Markovou skalou takú silu, že môže stiahnuť človeka do   hlbočiny. Nuž mysleli, že to robí vodný muž. A tie deti, čo im nebolo   rady, boli iste choré. Lekárov vtedy nebolo, nuž nevedeli ľudia, od   čoho sú také zlé. A vysvetľovali si to tak, že bohynky dobré deti   berú a svoje divé podhadzujú.
       </tei:p>
       <tei:p>
-       Ako sa len dievčatko potešilo, že teraz už lekári sú. A aj ony idú   kjednému. Celkom už verilo, že mu vylieči očnú chorobu.
+       Ako sa len dievčatko potešilo, že teraz už lekári sú. A aj ony idú   k jednému. Celkom už verilo, že mu vylieči očnú chorobu.
       </tei:p>
       <tei:p>
        U lekára nebolo ešte nikoho.
       </tei:p>
       <tei:p>
-       Ovzdušie v predsieni bolo presiaknuté zvláštnym pachom od liekov.   Starámať a dievčatko sadli si na lavičku a čakali. Ono ovzdušie   pôsobilo nane tak, že sa skoro báli prehovoriť.
+       Ovzdušie v predsieni bolo presiaknuté zvláštnym pachom od liekov.   Stará mať a dievčatko sadli si na lavičku a čakali. Ono ovzdušie   pôsobilo na ne tak, že sa skoro báli prehovoriť.
       </tei:p>
       <tei:p>
        Odrazu vrzli dvere a spoza nich sa ozval hrubý hlas:
@@ -1828,22 +1836,22 @@
        — Poďte ďalej!
       </tei:p>
       <tei:p>
-       Dievčatko nemohlo vidieť, že lekár je už starý a šedivý. Ani   tonevidelo, ako sa mu prísne zvraštilo čelo, keď mu pozrel do tváre.   Alepočulo jeho hlas. A hlas mal veľmi nahnevaný.
+       Dievčatko nemohlo vidieť, že lekár je už starý a šedivý. Ani to   nevidelo, ako sa mu prísne zvraštilo čelo, keď mu pozrel do tváre.   Ale počulo jeho hlas. A hlas mal veľmi nahnevaný.
       </tei:p>
       <tei:p>
        — Čo je tomu dievčaťu?
       </tei:p>
       <tei:p>
-       Stará mať začala pekne od začiatku rozprávať, ako sa dievčatku v   zimeoči len trochu zapálili, ako mu ich umývala harmančekovým   odvarom, akomu bolo už aj lepšie na ne, ale ako teraz pred jarou sa   mu očná chorobazhoršila tak, že už nevidí…
+       Stará mať začala pekne od začiatku rozprávať, ako sa dievčatku v   zime oči len trochu zapálili, ako mu ich umývala harmančekovým   odvarom, ako mu bolo už aj lepšie na ne, ale ako teraz pred jarou sa   mu očná choroba zhoršila tak, že už nevidí…
       </tei:p>
       <tei:p>
-       — A prečo ste hneď neprišli? Prečo ste nechali dievča trápiť?   Chcete,aby osleplo? – počulo dievčatko nahnevaný hlas a vycítilo z   neho, že salekár veľmi hnevá na starú mater.
+       — A prečo ste hneď neprišli? Prečo ste nechali dievča trápiť?   Chcete, aby osleplo? – počulo dievčatko nahnevaný hlas a vycítilo z   neho, že sa lekár veľmi hnevá na starú mater.
       </tei:p>
       <tei:p>
        A to mu dodalo smelosti.
       </tei:p>
       <tei:p>
-       Nemohlo predsa dopustiť, aby lekár krivdil starej materi, ktorá sa   takveľmi oň starala.
+       Nemohlo predsa dopustiť, aby lekár krivdil starej materi, ktorá sa   tak veľmi oň starala.
       </tei:p>
       <tei:p>
        — Stará mať ma nenechala trápiť. Ona mi celú zimu rozprávala…
@@ -1855,10 +1863,10 @@
        — Aha, veď dievča je smelé a nebojí sa, – zasmial sa lekár.
       </tei:p>
       <tei:p>
-       — Stará mať mi povedala, že vy mi istotne vyliečite oči,   – doložilodievčatko ešte smelšie.
+       — Stará mať mi povedala, že vy mi istotne vyliečite oči,   – doložilo dievčatko ešte smelšie.
       </tei:p>
       <tei:p>
-       — No tak ti ich teda musím vyliečiť, – povedal lekár a v jeho   hlasebolo už menej hnevu.
+       — No tak ti ich teda musím vyliečiť, – povedal lekár a v jeho   hlase bolo už menej hnevu.
       </tei:p>
       <tei:p>
        Potom si vzal dievčatko pred seba a opatrne mu poprezeral oči.
@@ -1876,22 +1884,22 @@
        — A čím, ich kŕmite, keď sú maličké?
       </tei:p>
       <tei:p>
-       — Stará mať im poseká na drobno vajíčko so žihľavou. Idú sa pobiť   natom.
+       — Stará mať im poseká na drobno vajíčko so žihľavou. Idú sa pobiť   na tom.
       </tei:p>
       <tei:p>
-       — Tak ma dobre počúvaj. Aj tvoja stará mať nech počúva. Tvoja   chorobaje od toho, že si veľmi slabá, že neješ také jedlá, od ktorých   by sizmocnela. Vieš, čo ti treba jesť? To, čo jedia húsatká! Vajíčko   azeleninu, čo vám narastie v záhradke: mrkvu, špenát, kaleráb,   hrášok…A v zime kyslú kapustu zo suda…
+       — Tak ma dobre počúvaj. Aj tvoja stará mať nech počúva. Tvoja   choroba je od toho, že si veľmi slabá, že neješ také jedlá, od   ktorých by si zmocnela. Vieš, čo ti treba jesť? To, čo jedia húsatká!   Vajíčko a zeleninu, čo vám narastie v záhradke: mrkvu, špenát,   kaleráb, hrášok… A v zime kyslú kapustu zo suda…
       </tei:p>
       <tei:p>
        — Veď tú mi stará mať dávala!
       </tei:p>
       <tei:p>
-       — To robila dobre. A teraz mi povedz, čo robia húsatká, keď ich   starámať nakŕmi.
+       — To robila dobre. A teraz mi povedz, čo robia húsatká, keď ich   stará mať nakŕmi.
       </tei:p>
       <tei:p>
        — Nuž chodia po dvore, zobú trávičku a vyhrievajú sa na   slniečku.
       </tei:p>
       <tei:p>
-       — Aj ty musíš chodiť celý deň po slniečku. A v lete zbierať   jahody,maliny, čučoriedky, lieskovce, trnky… V nich sú zázračné   lieky.Začarovalo ich tam slnko, keď na ne celý rok svietilo. A práve   tiepotrebuješ, aby si bola zdravá.
+       — Aj ty musíš chodiť celý deň po slniečku. A v lete zbierať   jahody, maliny, čučoriedky, lieskovce, trnky… V nich sú zázračné   lieky. Začarovalo ich tam slnko, keď na ne celý rok svietilo. A práve   tie potrebuješ, aby si bola zdravá.
       </tei:p>
       <tei:p>
        Dievčatko pozorne počúvalo.
@@ -1903,22 +1911,22 @@
        — Lipovým čajom.
       </tei:p>
       <tei:p>
-       — No vidíš, aj do lipového kvetu začarovalo slnko liek. To vedia   ajvčeličky. Keď lipy kvitnú, zbierajú na nich med. Ale vy medu   nemáte,však nie?
+       — No vidíš, aj do lipového kvetu začarovalo slnko liek. To vedia   aj včeličky. Keď lipy kvitnú, zbierajú na nich med. Ale vy medu   nemáte, však nie?
       </tei:p>
       <tei:p>
-       — Nemáme, – ozvala sa smutne stará mať. – U nás majú včelín   lenbohatí Jablonskí, a tí veru nikomu medu nedajú. Celú zimu som im   vlnu zoviec čuchrala – a iba kúsok súkna na kapčeky pre dievča mi za   todali…
+       — Nemáme, – ozvala sa smutne stará mať. – U nás majú včelín len   bohatí Jablonskí, a tí veru nikomu medu nedajú. Celú zimu som im vlnu   z oviec čuchrala – a iba kúsok súkna na kapčeky pre dievča mi za to   dali…
       </tei:p>
       <tei:p>
        Lekár chvíľu mlčal, ale potom veselo zahovoril:
       </tei:p>
       <tei:p>
-       — No nič preto. Kus chleba s maslom a s medom by síce z vašej   vnučkyspravil dievku ako buk, ale aj samé slnko urobí zázraky… Len si   jubrávajte so sebou húsky pásť… Nič tak nelieči choré oči ako   zelenáfarba jarnej trávičky… A aspoň jej posúšik natierajte   maslom…
+       — No nič preto. Kus chleba s maslom a s medom by síce z vašej   vnučky spravil dievku ako buk, ale aj samé slnko urobí zázraky… Len   si ju brávajte so sebou húsky pásť… Nič tak nelieči choré oči ako   zelená farba jarnej trávičky… A aspoň jej posúšik natierajte   maslom…
       </tei:p>
       <tei:p>
-       Potom zložil lekár dievčatko z kolien, predpísal lieky na oči a   prikázalstarej materi, ako mu ich má dávať.
+       Potom zložil lekár dievčatko z kolien, predpísal lieky na oči a   prikázal starej materi, ako mu ich má dávať.
       </tei:p>
       <tei:p>
-       Keď vyšli so starou materou od lekára von, bolo im tak ľahko   akovtáčatám. A celou cestou naspäť si dievčatko myslelo, že keby   verilo vpovery, istotne by si lekára predstavovalo ako mocného   čarodejníka,ktorý vie prečarovať choré oči na zdravé.
+       Keď vyšli so starou materou od lekára von, bolo im tak ľahko ako   vtáčatám. A celou cestou naspäť si dievčatko myslelo, že keby verilo   v povery, istotne by si lekára predstavovalo ako mocného čarodejníka,   ktorý vie prečarovať choré oči na zdravé.
       </tei:p>
      </tei:div>
      <tei:div type="chapter">
@@ -1929,7 +1937,7 @@
        Raz ráno sa dievčatko prebúdzalo.
       </tei:p>
       <tei:p>
-       V polosne počulo, ako hučí pod oblokmi rieka. Hučí a čľapoce   akoinokedy. Do čľapotu rieky mieša sa prenikavý vtáčí spev. Z hája   zariekou ozýva sa volanie žlny a hrkútanie hrdličky.
+       V polosne počulo, ako hučí pod oblokmi rieka. Hučí a čľapoce ako   inokedy. Do čľapotu rieky mieša sa prenikavý vtáčí spev. Z hája za   riekou ozýva sa volanie žlny a hrkútanie hrdličky.
       </tei:p>
       <tei:p>
        Dievčatko najprv načúvalo.
@@ -1938,19 +1946,19 @@
        Potom sa pokúsilo otvoriť oči.
       </tei:p>
       <tei:p>
-       Mihalnice sa otvorili ľahko, len čo si ich troška pretrelo. A hľa:   veďono – vidí…
+       Mihalnice sa otvorili ľahko, len čo si ich troška pretrelo. A hľa:   veď ono – vidí…
       </tei:p>
       <tei:p>
        Vidí!
       </tei:p>
       <tei:p>
-       Oči mu začudovane prebehli izbou a zastavili sa v obloku. V   oblokukvitol muškát. Ako ho zazrelo, srdce mu zaliala radosť, akej   doteraznepoznalo.
+       Oči mu začudovane prebehli izbou a zastavili sa v obloku. V obloku   kvitol muškát. Ako ho zazrelo, srdce mu zaliala radosť, akej doteraz   nepoznalo.
       </tei:p>
       <tei:p>
        Rýchle vstalo z postele a bežalo k obloku.
       </tei:p>
       <tei:p>
-       Muškátové kvietky boli červené ako krv a hebké ako najjemnejší   zamat.Zľahka sa ich prstom dotklo.
+       Muškátové kvietky boli červené ako krv a hebké ako najjemnejší   zamat. Zľahka sa ich prstom dotklo.
       </tei:p>
       <tei:p>
        Vrzli dvere a do izby vošla stará mať.
@@ -1971,28 +1979,28 @@
        — Tak predsa si mi ozdravela, Hanička moja!
       </tei:p>
       <tei:p>
-       Dievčatko si chytro oblieklo kabanku a vybehlo bosé na podstenie.   Zempod nohami bola príjemne teplá od slnka. Po dvore chodila   starostliváhus s húsatkami. Boli žlté a páperovo hebké. Usilovne   zobali jarnútrávičku. Keby sa dievčatko nebálo ostražitej starej   husi, hneď by sivzalo jedno do rúk a pritislo si ho k líčkam. Z   podstenia odbehlodievčatko na cestu.
+       Dievčatko si chytro oblieklo kabanku a vybehlo bosé na podstenie.   Zem pod nohami bola príjemne teplá od slnka. Po dvore chodila   starostlivá hus s húsatkami. Boli žlté a páperovo hebké. Usilovne   zobali jarnú trávičku. Keby sa dievčatko nebálo ostražitej starej   husi, hneď by si vzalo jedno do rúk a pritislo si ho k líčkam. Z   podstenia odbehlo dievčatko na cestu.
       </tei:p>
       <tei:p>
-       Bola biela od prachu. Pod ňou za zábradlím tiekla rieka. Voda v   nej bolamodrá, až zelenkavá a tiekli po nej biele šupinky peny. Bola   takápriezračná, že dievčatko videlo aj biele zvariačiky na dne.
+       Bola biela od prachu. Pod ňou za zábradlím tiekla rieka. Voda v   nej bola modrá, až zelenkavá a tiekli po nej biele šupinky peny. Bola   taká priezračná, že dievčatko videlo aj biele zvariačiky na dne.
       </tei:p>
       <tei:p>
-       Za riekou sa ozval dlhý hvizd. Zo zákruty vyšiel vlak. Vyfukoval   komínomdym a nechával ho za sebou plnú dolinu. Z okien vlaku dívali   sa ľudia.Dievčatko im veselo zakývalo rukou.
+       Za riekou sa ozval dlhý hvizd. Zo zákruty vyšiel vlak. Vyfukoval   komínom dym a nechával ho za sebou plnú dolinu. Z okien vlaku dívali   sa ľudia. Dievčatko im veselo zakývalo rukou.
       </tei:p>
       <tei:p>
-       Stará mať vyšla s košíčkom na cestu. Na pravej ruke mala navlečenú   starúrukavicu. Na kraji cesty rástla mladá žihľava. Trhala ju do   košíka.
+       Stará mať vyšla s košíčkom na cestu. Na pravej ruke mala navlečenú   starú rukavicu. Na kraji cesty rástla mladá žihľava. Trhala ju do   košíka.
       </tei:p>
       <tei:p>
        — To pre húsatká, však?
       </tei:p>
       <tei:p>
-       — Veru pre ne. Treba ich nakŕmiť, nech rastú. Aj ty si choď   zjesťvajíčko, čo som ti nachystala!
+       — Veru pre ne. Treba ich nakŕmiť, nech rastú. Aj ty si choď zjesť   vajíčko, čo som ti nachystala!
       </tei:p>
       <tei:p>
        Dievčatko bežalo do kuchyne.
       </tei:p>
       <tei:p>
-       Bolo také naradované nad všetkým, čo videlo, že na rozprávky si už   aninepomyslelo.
+       Bolo také naradované nad všetkým, čo videlo, že na rozprávky si už   ani nepomyslelo.
       </tei:p>
       <tei:p>
        Možno zase v zime, keď celý kraj zapadne snehom.

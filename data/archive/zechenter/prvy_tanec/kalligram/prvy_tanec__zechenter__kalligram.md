@@ -1,6 +1,6 @@
 # Prvý tanec
 
-Rozpomienka starého vyslúžilca na zašlé časy*\
+# Rozpomienka starého vyslúžilca na zašlé časy*\
 \
 Motto: Nemo saltat sobrius*
 

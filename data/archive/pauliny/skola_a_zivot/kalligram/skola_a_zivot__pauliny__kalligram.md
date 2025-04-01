@@ -1,6 +1,4 @@
-Škola a život
-
-1\. Všeličo sa blyští
+# 1. Všeličo sa blyští
 
 „*My stojíme stále pevne ako múry hradné,*\
 *čierna zem pohltí toho, kto odstúpi zradne*."
@@ -183,7 +181,7 @@ Mladíci ním vychovaní osvojili si to požehnanie v živote, avšak,
 bohužiaľ, i takí boli, ktorým čas a okolnosti žitia vymazali z pamäti
 jeho prorocké slová.
 
-2\. Nie je všetko zlato, čo sa blyští
+# 2. Nie je všetko zlato, čo sa blyští
 
 Minulo osudných pätnásť rokov.
 
@@ -442,7 +440,7 @@ môj drahý, mýliš sa. Už tri roky u mňa nebol."
 
 „No bude dnes. Poďme."
 
-3\. Nie je všetko zlato, čo sa blyští, ale ani samá huspenina
+# 3. Nie je všetko zlato, čo sa blyští, ale ani samá huspenina
 
 Pán farár Dolanský sedel vo svojom včelíne, fajčil a dumal, keď naši
 neobyčajní hostia k nemu zavítali a svojou návštevou ho priviedli do

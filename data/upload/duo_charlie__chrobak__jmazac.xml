@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1937844" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Duo Charlie : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:13101099">
+     Chrobák, Dobroslav (1907 - 1951)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2983
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Chrobák, Dobroslav
+     </tei:author>
+     <tei:title>
+      Duo Charlie
+     </tei:title>
+     <tei:pubPlace>
+      Praha, Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      L. Mazáč
+     </tei:publisher>
+     <tei:date>
+      1937
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2024-11-22">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Duo Charlie
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Uvidel ju po dvadsiatich piatich rokoch istého pozdného letného   odpoludnia v kaviarni na Okružnej triede. Prišiel sem zo zvyku, lebo   mal toho dňa voľno, mohol sobliecť uniformu a cítiť sa aspoň raz do   týždňa človekom. Sedel pri svojom stolíku v kúte, aby sa mohol dívať   na ulicu. Fajčil jemnú cigaretu, ktorú dostal od ktoréhosi stáleho   hosťa hotela Esplanad. Cítil sa sviatočne a povznesene, hoci pre   meštiakov bol to obyčajný robotný deň.
+   </tei:p>
+   <tei:p>
+    Ona sedela o kúsok ďalej s fúzatým dôstojníkom. Bola dosiaľ pekná,   možno o trochu ťažšia, ale ešte útla, s nežným úsmevom na ústach.   Áno, dosiaľ to bola „pekná Karolína,“ hoci zrejme začínala mať   starosť s udržiavaním svojej štíhlej línie a s pestovaním panenského   pelu na lícach. No jednako pel tam bol dosiaľ. Díval sa pozorne,   zpočiatku nedôverčive, trošíčku sa chvejúc vzrušením, ale napokon   musel uznať: pel tam dosiaľ bol. Dôstojník (starý, plešivý dedko,   lalokatý, podnikal zrejme posledné beznádejné výboje v mene svojej   mužnosti) čítal nezúčastnene noviny. Mal všetky znaky podareného   paroháča. Ona si pozerala módy, žurnál za žurnálom, s dôkladnosťou   vedeckého pracovníka. Mohol si ľahko vyrátať, že strávila veľa a veľa   hodín v podobnom zamestnaní, kým sa rozhodla pre istý model. Bolo to   vidno i na šatách, v ktorých práve bola oblečená. Ako jej tie šaty   svedčily! Keby jej bol mohol kúpiť také šaty pred dvadsiatimi piatimi   rokmi, bolo by sa azda všetko obrátilo ináč. Keby bol býval vtedy   bohatý...
+   </tei:p>
+   <tei:p>
+    Pošuchal si čelo a vzdychol potajomky nad všetkým, čo premeškal a   nedohonil. Privrel oči a na pozadí mramorovej dosky kaviarenského   stola zjavila sa mu jej priezračná, útla figúra. Štíhle nôžky v   baletnom postoji, ružové črievičky a ružová, naberaná suknička. Nahé   bruško a hlávka šibalsky vyvrátená na stranu. Pravá ruka je koketne   odchýlená od tela, dlaňou obrátená k zemi, ľavou posiela mu bozk.   Zavrel oči a znova vzdychol.
+   </tei:p>
+   <tei:p>
+    Áno. No, áno, lenže čo teraz? Môže tu sedieť niekoľko krokov od   nej, nevstať, nejsť k nej a nepovedať jej, čo jej zabudol povedať   pred dvadsiatimi piatimi rokmi?
+   </tei:p>
+   <tei:p>
+    Vstal.
+   </tei:p>
+   <tei:p>
+    Vtom sa ona obrátila, priložila si voľným pohybom k očiam lorgnon   a nezúčastnene, chladne ho premerala.
+   </tei:p>
+   <tei:p>
+    Chcel čosi povedať, oprel sa prstmi o stôl, nemotorne sa nahol   vopred, ako by sa jej chcel ukloniť, ale vtedy sa ona odvrátila a on   sa v rozpakoch začervenal a pomaly, sklamane klesol na stoličku.
+   </tei:p>
+   <tei:p>
+    Nie je to teda ona. Ťažko uveriť, že by ten pohľad, ktorým ho   premerala, patril jej, peknej Karolíne.
+   </tei:p>
+   <tei:p>
+    Bol veľmi rozrušený, prsty sa mu chvely a musel sa z celej sily   ovládať, aby vydržal dívať sa pokojne stranou, na ulicu, kde chodili   ľudia, kde v oblokoch naproti slávnostne doháraly ostatné lúče   zapadajúceho slnka, kde všetko bolo obyčajné a isté v svojom cieli.   Kútikom oka videl, že dôstojník medzitým vstáva, odoberá sa a   odchádza. A potom nevydržal a znova pozrel na ňu. Ale teraz s   rozhodnutím a s pevným predsavzatím zvedieť naisto, či je to ona   alebo nie. Obrátila sa k nemu, a tu videl na jej ľavom líci   materinské znamienko. Náhle ho naplnila divoká, plesajúca radosť.   Tvár sa mu rozžiarila, odstrčil výbojné stoličku, zastal pred ňou a   bozkáva jej gavaliersky, s veselým úsmevom ruku.
+   </tei:p>
+   <tei:p>
+    Díva sa na neho nechápavo veľkými, belasými očami. A on sa na ňu   usmieva — usmieva sa s prižmúrenými očami a so zaseknutými   perami.
+   </tei:p>
+   <tei:p>
+    — Karol!
+   </tei:p>
+   <tei:p>
+    — Karolína!
+   </tei:p>
+   <tei:p>
+    — Podľa toho úsmevu... podľa toho, ako sa smeješ, so zaseknutými   perami a s prižmúrenými očami, ťa poznávam.
+   </tei:p>
+   <tei:p>
+    — A ja podľa toho tu, — ukazuje šetrne na jej materinské   znamienko. — Ale chytro dokladá: — A, pravda, i podľa toho, že si   dosiaľ driečna, celá útla a nežná, ako pred dvadsiatimi piatimi   rokmi. — Potom sklopí oči a povie: — Videl som ťa pred chvíľou v   krinolínke okolo bokov, v baletnom postoji, na prsiach s dvoma ružami   namiesto živôtika...
+   </tei:p>
+   <tei:p>
+    — Choď ty, — robí sa zahanbenou. — Už pol storočia nemala som na   sebe nič podobného. A potom... — díva sa rozpačite na svoje prsia...   - dnes by už dve rudé ruže boly...
+   </tei:p>
+   <tei:p>
+    Skáče jej do reči:
+   </tei:p>
+   <tei:p>
+    — Pamätáš ? — a ticho zanôti: „Dve rudé ruže...“
+   </tei:p>
+   <tei:p>
+    Obaja sa rozosmejú, ako by to bolo len včera, keď ona na parkete   dancingu spievala túto pieseň. Hovoria potom dve na tri,   predchytávajú si myšlienky, smejú sa a ona mu kladie dôverne ruku na   plece. On objednáva koňak. Najprv len pre seba, potom dostane chuť i   ona a povie mu to s takou rozkošnou srdečnosťou, že sa musí až   zavrtieť na stoličke od samého šťastia. Vypína hruď (najradšej by   priam kikiríkal od nashromaždenej mužskej hrdosti) a objednáva ponad   celý lokál:
+   </tei:p>
+   <tei:p>
+    — Pán hlavný, koňak! Jeden koňak!
+   </tei:p>
+   <tei:p>
+    A potom ešte jeden a ešte jeden.
+   </tei:p>
+   <tei:p>
+    — Chichichi, už som opitá, — smeje a chichoce sa Karolína, nakláňa   sa nad stôl, vyvracia koketne hlavu a usmieva sa na neho šelmovsky. —   Pamätáš sa, ako nás vtedy volali?
+   </tei:p>
+   <tei:p>
+    — Duo Charlie.
+   </tei:p>
+   <tei:p>
+    A ona kladie dlane k ústam a oznamuje pomedzi ne, ako cez trúbu,   celej kaviarni:
+   </tei:p>
+   <tei:p>
+    — Duo Charlie tančí Danse acrobatique.
+   </tei:p>
+   <tei:p>
+    Takto to robil kapelník, keď oznamoval ich číslo.
+   </tei:p>
+   <tei:p>
+    — Hahaha, hahaha. Danse acrobatique! Duo Charlie tančí Danse   acrobatique. Duo Charlie tanzt Danse acrobatique. Hahaha, hahaha!
+   </tei:p>
+   <tei:p>
+    Potom náhle obaja zvážnejú a pozrú skúmave na seba. Je to pravda,   že oni dvaja...
+   </tei:p>
+   <tei:p>
+    — Je to pravda, že my dvaja sme tančili kedysi tento tanec? —   opytuje sa on hlasom podivne skleslým a nedôverčivým.
+   </tei:p>
+   <tei:p>
+    A ona koketne vzdychá a prevracia hlavu k povale:
+   </tei:p>
+   <tei:p>
+    — Ach, jaj, je to pravda?
+   </tei:p>
+   <tei:p>
+    — Je to pravda? — opytuje sa on ešte raz vážne a upiera na ňu   skúmave oči, ako by naozaj pochyboval, že je to pravda.
+   </tei:p>
+   <tei:p>
+    A ju nepríjemne zamrazí, cíti v jeho hlase výčitku a obvinenie, že   všetko to, čomu sa práve smejú, nie je naozaj pravda, lebo to, čomu   sa smejú, nie je ani zďaleka to, čím vtedy žili, pred čím sa chveli a   čo zostalo nevypovedaným, naveky zamlčaným.
+   </tei:p>
+   <tei:p>
+    — Teba vtedy odobrali, musel si na vojnu, — hovorí skrúšene, ako   by sa mu ospravedlňovala, ľutovala i seba i jeho, a odprosovala ho. —   A bol si tam štyri roky.
+   </tei:p>
+   <tei:p>
+    — Päť.
+   </tei:p>
+   <tei:p>
+    — Ostatný lístok dostala som o štyri roky po tvojom   narukovaní.
+   </tei:p>
+   <tei:p>
+    — A potom... a ty?
+   </tei:p>
+   <tei:p>
+    — Ja?
+   </tei:p>
+   <tei:p>
+    Bola to dlhá pauza. Prežil v nej celé tie štyri roky. Ona sama...   Cez vojnu... keď „mravy boly uvoľnené...“ on jej zriedka písal...
+   </tei:p>
+   <tei:p>
+    — Ja?... Ja som sa vydala.
+   </tei:p>
+   <tei:p>
+    Čmáral prstom po stole čudné háčky a zákruty, slučky minulosti.   Potom to všetko rozhodným pohybom sotrel, prevalil sa na stoličke a   uprel zrak do povaly.
+   </tei:p>
+   <tei:p>
+    — A ty? — spýtala sa nesmelo.
+   </tei:p>
+   <tei:p>
+    — Ja... ja som vrátnikom v hoteli Esplanad.
+   </tei:p>
+   <tei:p>
+    Čeľusť mu bezmocne odvisla, ako by sa bola uvoľnila v pántoch, a   jazyk mu zaliezol niekam do hrdla.
+   </tei:p>
+   <tei:p>
+    — Vrátnikom v hoteli Esplanad? Chudáčik.
+   </tei:p>
+   <tei:p>
+    Nahla sa k nemu a pohladila ho mäkkou dlaňou po vlasoch.
+   </tei:p>
+   <tei:p>
+    Strmo sa prevalil nazad:
+   </tei:p>
+   <tei:p>
+    — Nie... veď je toto sentimentálna história. Obyčajná   sentimentálna história. Nie sme viac deti... Ale chcel by som s tebou   stráviť jeden večer.
+   </tei:p>
+   <tei:p>
+    Prekvapene na neho pozrela.
+   </tei:p>
+   <tei:p>
+    — Máš pravdu, je to sentimentálna história. Ale jeden   večer?...
+   </tei:p>
+   <tei:p>
+    — Jeden večer, dnešný večer.
+   </tei:p>
+   <tei:p>
+    Prečo váha? Nie je to prirodzené, že chce s ňou stráviť večer?
+   </tei:p>
+   <tei:p>
+    — Šli by sme vedno na večeru a potom niekam, kde sa tancuje, hoci   do toho lokálu, čo sme v ňom pred rokmi vystupovali.
+   </tei:p>
+   <tei:p>
+    — Ach, môj milý, toho už niet.
+   </tei:p>
+   <tei:p>
+    — Že niet? — Ako ho môže nebyť? Či sa už naozaj v svete toľko   zmenilo, že zmizol i lokál, v ktorom sa ľudia vedeli tak veselo   zabávať?
+   </tei:p>
+   <tei:p>
+    — Totiž, aby si vedel, ten lokál ešte existuje, ale nie je viac   tým, čím býval. Dnes je to obyčajná krčma s jedným muzikantom a s   jedným čiernym kocúrom.
+   </tei:p>
+   <tei:p>
+    — S jedným muzikantom a s jedným... Výborne, moja milá, práve ta   pôjdeme; budeme sami.
+   </tei:p>
+   <tei:p>
+    — Sami s čiernym kocúrom a so slepým muzikantom.
+   </tei:p>
+   <tei:p>
+    — Slepým? Je naozaj slepý? Tým lepšie. Teším sa na to, moja   milá.
+   </tei:p>
+   <tei:p>
+    Krčma bola prázdna. Čierny kocúr naozaj ležal pri peci a muzikant   bol naozaj slepý. Udrel na klávesy, keď zbadal, že vstupujú hostia, a   zabrnkal na rozladenom, staručkom piane predvojnový marš. Potom čakal   chvíľu na ozvenu, čudne nehybný, s neprirodzeným držaním tela, s   rukami
+   </tei:p>
+   <tei:p>
+    podzvihnutými nad klávesmi. Zdalo sa, že sa namáha vytušiť náladu   hostí a poznať, ktorá pesnička bola by im milá. A potom nesmelo,   zľahúčka, ako by si netrúfal, dotkol sa klávesov.
+   </tei:p>
+   <tei:p>
+    Ozval sa jemný, sentimentálny valčík.
+   </tei:p>
+   <tei:p>
+    Piano, napodiv, znelo teraz súladne. Ako by sa bolo vzchopilo,   narovnalo staručké údy pod známymi, dávnymi údermi. Melódia bola   čistá, svieža, ako uplakaná tvár slúžtičky, ktorá si v nedeľné   odpoludnie vyšla za Dunaj, kde ju mal čakať fešácky vojak. No,   pravdaže, práve o tomto vojakovi bola v pesničke reč. O tom istom   vojakovi, čo zradil svoju milú, malú viedenskú slúžtičku a potom   padol vo vojne na rovinách rusko-poľských.
+   </tei:p>
+   <tei:p>
+    Pritúlili sa k sebe. Objal ju okolo pása. Cítil pod dlaňou kyprosť   jej bokov. Za tých dvadsaťpäť rokov nasbieralo sa na nich trochu   tuku. Ale nepocítil sklamania; naopak, neha smierlivého pochopenia   hriala ho v žalúdku. Vítal tento nový pocit, znak usadlých rokov,   láskavo, skoro s radosťou. Bol to pocit oveľa menej vzrušujúci, ako   ten, čo sa bol v ňom kedysi ozýval.
+   </tei:p>
+   <tei:p>
+    A ona sa k nemu pritúlila, vzala jeho dlaň do svojich, nežne a s   dôverou. Obrátila k nemu tvár s ústami dôverčive pootvorenými.
+   </tei:p>
+   <tei:p>
+    Bozkal ju mäkko a zľahka.
+   </tei:p>
+   <tei:p>
+    — Je to... môj prvý bozk. — Chcela povedať: „Náš prvý bozk,“ ale   potom sa zháčila a povedala: „Je to môj prvý bozk.“
+   </tei:p>
+   <tei:p>
+    A doložila na vysvetlenie:
+   </tei:p>
+   <tei:p>
+    — Čo bolo predtým, bolo len závdavkom na tento prvý bozk.
+   </tei:p>
+   <tei:p>
+    — Áno, máš pravdu. A toto je náš druhý bozk. — A bozkávali sa v   opustenej krčme nežne, vrúcne, ale bez náruživosti, čisto, ako by ona   mala osemnásť a on pätnásť rokov.
+   </tei:p>
+   <tei:p>
+    — Poznáš toto?
+   </tei:p>
+   <tei:p>
+    Vytiahol z náprsnej tašky obrázok s polámanými, obšuchanými rohmi.   Bola to reklamná pohľadnica podniku, kde kedysi vystupovali. Dolu   bolo vytlačené: „Duo Charlie“ a nad tým obrázok: on a ona zachytení   pri vrcholnom výkone svojho parádneho čísla. Práve na tomto mieste   ozval sa v sále zakaždým búrlivý potlesk. Hudba zahrala vtedy tuš a   oni, trochu zadychčaní, ale s príjemnou maskou úsmevu na tvárach,   ukláňali sa vpravo i vľavo a sbierali ovácie obecenstva.
+   </tei:p>
+   <tei:p>
+    — Koľko ti dalo roboty, kým si ma to naučil. Čo som sa natrápila.   Býval si hrozne mrzutým partnerom.
+   </tei:p>
+   <tei:p>
+    A pritúlila sa k nemu bližšie.
+   </tei:p>
+   <tei:p>
+    Držali obrázok každý v jednom rohu a dlho sa naň dívali. Ostatný   raz tančili toto číslo v deň mobilizácie. Podnik bol nabitý ako nikdy   predtým. Šampanské tieklo prúdom. Každú chvíľu vyletela zátka s   dunivým výbuchom, ako zlá — ale vtedy sa im zdalo, ako veselá   predzvesť výbuchov, ktoré ich o niekoľko dní maly privítať na   frontoch. Toho večera mali so svojím akrobatickým tancom úspech   mimoriadny. Za ich vystúpenia vyvrcholila zábava v lokále. Dva razy   museli opakovať svoje číslo. A potom i oni pili šampanské s hosťmi,   najprv z pohárov, potom z jej črievičiek. Boh vie, kto všetko ju v   ten večer objímal a bozkával. Ale nebola opitá. Keby bola bývala   opitá, bola by musela usnúť, keď si potom ľahla v šatni na diván.
+   </tei:p>
+   <tei:p>
+    No neusnula. Čakala. Čakala od štvrtej až do bieleho rána.   Zpočiatku so vzrušujúcou istotou a s troškou strachu z toho, čo   verila, že malo prísť, potom s pochybnosťami, potom s urazenou   hrdosťou a napokon v zúfalstve, s mučivou bolesťou, v slzách. Čakala   až do rána, ležiac nesoblečená na diváni a hryzúc do vreckovky celkom   mokrej od sĺz. Ráno sa umyla, upravila si zovňajšok a vošla do   lokálu. Lokál bol prázdny.
+   </tei:p>
+   <tei:p>
+    A toho dňa narukoval on s prvými rovno na front.
+   </tei:p>
+   <tei:p>
+    Potom jej, pravda, písal, a ona jemu, ale nikdy o tom, čo sa   nestalo tej noci. On jej dával v listoch múdre rady, a ona mu   posielala balíčky z nasporených peňazí. V prvý čas dlho bola bez   miesta, lebo sa jej nezdalo možným starať sa o miesto. Potom ju na to   donútila bieda. A potom všetko išlo v koľajniciach, ktoré našla   vymerané, ako sa jej zdalo, od stvorenia sveta. Najťažšie bolo začať,   potom už všetko bolo ako naučená úloha. Nakoniec prišiel tento   generál, čo sa práve vrátil s frontu, chromý na jednu nohu. Možno sa   mu zdalo, že sa už dosť napovaľoval po starých, vyzbíjaných,   nepohodlných rusko-poľských kaštieľoch: zatúžil po manželskej   pohode.
+   </tei:p>
+   <tei:p>
+    — A tak si ma našiel s ním popoludní v kaviarni na Okružnej   triede. Je to dobrák, nemôžem sa žalovať.
+   </tei:p>
+   <tei:p>
+    Vyrozprávala mu všetko vážne, ako by mu bola tak povinná, do   najmenších podrobností, nevynechávajúc a nezamlčujúc celkom nič.   Trochu sa čudoval, že ho jej úprimnosť nepohoršuje, ani že mu je nie   trápna; naopak, že sa cíti očistený i on sám.
+   </tei:p>
+   <tei:p>
+    Obrázok dosiaľ ležal na stole. Dívali sa naň chvíľami, ako by v   ňom hľadali povzbudenie a ospravedlnenie toho, čo práve cítili.   Neboli si blízki? Nebola medzi nimi dávno táto dôvera? Ako mohla   nebyť? Hľa, obrázok je dôkazom. Vtedy, keď tancovali toto číslo,   stačil chybný pohyb, oneskorený alebo predčasný hmat, a ona by mu   bola ležala s rozlámanými údmi pri nohách. Musela mu už vtedy   dôverovať tak, ako dnes. A on jej tiež. Inak by sa nikdy neboli   opovážili na tento krkolomný tanec.
+   </tei:p>
+   <tei:p>
+    — Čo myslíš, vedeli by sme to ešte dnes ? — opýtal sa jej s   pochybovačným, zasneným úsmevom.
+   </tei:p>
+   <tei:p>
+    Pozrela na neho vážne a potom odvetila s hlbokým presvedčením:
+   </tei:p>
+   <tei:p>
+    — Ak by si ty vedel, ja áno, môj milý.
+   </tei:p>
+   <tei:p>
+    A predstavila si, ako leží po tanci, ustatá, trochu zadychčaná, v   šatni na diváni.
+   </tei:p>
+   <tei:p>
+    Opakovala:
+   </tei:p>
+   <tei:p>
+    — Ja áno.
+   </tei:p>
+   <tei:p>
+    — A ja tiež, — povedal s náhlou istotou, ktorej sa v zápätí obaja   zľakli.
+   </tei:p>
+   <tei:p>
+    A tu, muzikant, ako by naozaj bol poznal tajomným čutím slepca ich   ľúbostné rozochvenie, vzal do rúk husle a spustil tuš. Ten tuš, čo   ich vždy volal vystupovať.
+   </tei:p>
+   <tei:p>
+    A potom sa ozvala melódia. Tá istá, pri ktorej tančievali svoje   zvláštne, senzačné číslo.
+   </tei:p>
+   <tei:p>
+    A potom — teraz už naozaj stratili sebavládu a smysel pre všetko   dookola — počuli celkom zreteľne známy hlas, ktorý vznikne, keď sa   priložia dlane k ústam a ktorý oznamoval:
+   </tei:p>
+   <tei:p>
+    — Duo Charlie — Danse acrobatique.
+   </tei:p>
+   <tei:p>
+    Ako zhypnotizovaní vstali oba naraz, uklonili sa, a groteskným,   tanečným krokom vstúpili na parket. Na ich tvárach zjavily sa   dvadsaťpäťročné masky úsmevu. Svaly samé od seba stiahly sa tak, ako   boly vytrénované kedysi: on sa usmieval s gambami, zaseknutými medzi   zuby, a s prižmúrenými očami, ona odhalila tie isté biele zuby   nehybným našpúlením perí. Pamätali sa na každý pohyb: najprv tančili   drobnými krôčkami proti sebe, lúskajúc pritom do taktu prstmi. Potom   sa jemu prišlo zohnúť a ona spravila kotrmelec na jeho chrbte. To bol   len malý úvod, navnadenie obecenstva na to, čo malo prísť. A potom   zas drobčili proti sebe. Zľahka, bez námahy, usmievajúc sa a lúskajúc   prstmi. Jej prsia triasly sa mu pred očami (trochu viac ako kedysi) a   jej nohy boly rovnako pružné, a keď si ich odhalila nad kolená, zdaly   sa dokonca i rovnako štíhle, ako pred rokmi. Ani na chvíľu   neuvedomili si grotesknosť situácie. Oba vedeli presne, čo v   nasledujúcom momente spraví druhý i na čo práve myslí druhý, oba boli   nielen pohybmi svojich tiel, ale i chvením svojich nervov práve tam,   kde sa naposledy videli pred dvadsiatimi piatimi rokmi.
+   </tei:p>
+   <tei:p>
+    Muzikant hral.
+   </tei:p>
+   <tei:p>
+    Prišlo číslo, kde ju on vyzdvihne nad hlavu, drží ju vysoko v   povetrí a krúti sa s ňou do taktu, kým ona posiela bozky obecenstvu.   Ani na bozky nezabudli. On sa pri tomto výkone zadychčal väčšmi ako   čakal a ona si roztrhla parádnu sukňu nad kolenom.
+   </tei:p>
+   <tei:p>
+    Ale muzikant hral.
+   </tei:p>
+   <tei:p>
+    Potom prišlo číslo, keď ju on zručným pohybom má prehodiť pred   seba tak, aby urobila nebezpečným sa zdajúci, ale v celku nevinný   premet. Pochlapil sa, presne vystihol čas a ona padla šťastlivo pred   ním na nohy, bez toho, aby zmizol čo len na chvíľočku úsmev s jej   tvári. Ba videl celkom zreteľne cez vírivé mreže čoraz prudkejších   pohybov jej nôh, že práve od tejto chvíle stal sa jej úsmev   vyzývavejším, mnohosľubujúcim, skutočným úsmevom pre neho, pre neho   samého, nie maskovaným úsmevom pre obecenstvo. Jej oči svietily,   hralo v nich odrazu tisíc veselých, roztopašných ohníkov, kým jej   žiariaca tvár mu stále unikala šelmovskými dráždivými pohybmi so   strany na stranu. Celá sa mu dávala a zároveň mu unikala drobnými,   ľahučkými skokmi. Krúžila okolo neho, pozorujúc jeho čoraz   upriamenejšiu tvár. Tým istým tempom, ktorým stúpalo jeho očarovanie   ňou, vyjasňovala sa mu pred očami groteskná situácia. Želal si čoraz   nástojčivejšie, aby sa už všetko skončilo, aby ju už mohol sovrieť   prostým, netanečným pohybom do náručia.
+   </tei:p>
+   <tei:p>
+    No muzikant ešte vždy hral.
+   </tei:p>
+   <tei:p>
+    Uvedomil si, že musí splnenie svojej túžby vykúpiť, že toto má byť   trestom za onú noc, keď ju nechal na diváni daromne čakať do rána.   Musí teda vydržať.
+   </tei:p>
+   <tei:p>
+    Muzikant ešte vždy hral.
+   </tei:p>
+   <tei:p>
+    Konečne prišlo posledné číslo. Vyvrcholenie celého výkonu. To, pri   ktorom boli odfotografovaní.
+   </tei:p>
+   <tei:p>
+    Presne, ako pred rokmi, skočila mu do náručia. „Je trochu ťažšia,“   uvedomuje si a odhaduje presné kilá: „Pribrala aspoň osem kíl.“ V   skutočnosti len štyri; štyri chýbaly jemu. Teraz sa zohol a prehodil   si ju z náručia na chrbát. A teraz spustila hudba to šialené tempo:   bystrými pohybmi oboch rúk má si ju podávať na chrbte tak, aby   krúžila veľmi prudko, ale graciózne, aby obecenstvo nezbadalo na nich   najmenšej námahy. A teraz zrazu pocítil v pravej lopatke, kde mu   zostala trčať ruská guľka, ostrú bolesť. Pokúsil sa ešte nadstaviť   chrbát tak, aby zachytil — alebo aspoň zmiernil jej pád. Ale prudkým   pohybom spravil pravý opak: odhodil ju ďaleko od seba hlavou rovno na   hranu stola.
+   </tei:p>
+   <tei:p>
+    V tú chvíľu prestal muzikant hrať.
+   </tei:p>
+   <tei:p>
+    A on si najprv utrel pot s čela a potom sa pokúsil rozhľadieť sa.   Hlava sa mu zatočila, nevidel pre pot a nával krvi do mozgu nič.   Dotackal sa k nej a podarilo sa mu zachytiť niekoľko slov, z ktorých   rozumel vetu: „... s tebou som chcela byť.“ Potom sa mu zahmlilo v   očiach, stratil na chvíľku záujem o svet a v zápätí pukla mu v mozgu   prekrvená a zvápenatená cieva.
+   </tei:p>
+   <tei:p>
+    Tak skončilo Duo Charlie svoj Danse acrobatique. Muzikant na pódiu   hľadel chvíľu do tmy, ktorá ho okružovala, a keď nepočul ozveny,   zvolal do prázdnej sály:
+   </tei:p>
+   <tei:p>
+    — Karol, Karolína, poznal som vás a chcel som vás potešiť vaším   Danse acrobatique.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

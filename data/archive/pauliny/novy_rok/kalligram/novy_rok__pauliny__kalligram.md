@@ -1,4 +1,4 @@
-# Nový rok
+1.  Nový rok
 
 Do hrobu sklonil sa už udalostí plný, pre Slováka pamätný rok 1863, sťa
 starček sivovlasý, no nie do hrobu smrti a zabudnutia, lež iba do
