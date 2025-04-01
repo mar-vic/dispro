@@ -1,0 +1,3070 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1893261" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Dies irae : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     25164
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Dies irae
+     </tei:title>
+     <tei:pubPlace>
+      Turčiansky sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      Vydanie kníhkupecko-nakladateľského spolku
+     </tei:publisher>
+     <tei:date>
+      1893
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T3"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-29">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     DIES IRAE
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p/>
+   <tei:div type="chapter">
+    <tei:head>
+     I.
+    </tei:head>
+    <tei:p>
+     Pandúr Števko Straka ide vojenským krokom hore dedinou. Klobúk do   tyla, rozepätá mentieka; veru nie blázon ísť z mesta do Lomnice v   takom úpeku. S čela sa cedí znoj cícerkom; vôbec cíti sa, ako by bol   v horúcom kúpeli. Vydýchol si, zazrúc nový, úhľadný sedliacky domec s   nápisom: »Rychtár obce Lomnica«. Vošiel rovno do priestranného dvora.   Vráta sú otvorené do korán, akoby hosťovi na počesť. Dvere do domu sú   zatvorené, zato na humne rozzävené sú predné i zadné vráta. Bolo by   humnom vidno hen do súsedného chotára, keby výhľad nebol zaclonený   vozom, s ktorého, ako vidno, práve shadzujú žito. Paholok prehadzuje   vidlicami snop za snopom do záčina.
+    </tei:p>
+    <tei:p>
+     »Pán Boh pomáhaj!« volá Števko zpod vrát.
+    </tei:p>
+    <tei:p>
+     »Pán Boh uslyš,« ďakuje paholok, zastanúc v práci.
+    </tei:p>
+    <tei:p>
+     Nad prielazom nachýlila sa žena v najlepších rokoch, skoro   sviatočne oblečená. Nuž je žatva, ženičky sa rady vyobliekajú. Biely,   vykrochmálený čepec pekne sa odráža od ohorenej, červenej tváre. Pri   žene vyšinul sa i muž, zdravý, červený, utierajúc tvár širokým   rukávom. Zpod ťažkej čiapky visia celé pradená hustých, tmavých   vlasov, padajúc skoro na plecia. Medzi nimi vôste a steblá slamy.
+    </tei:p>
+    <tei:p>
+     »Vitajte, Števko!« volá chlap na prielaze. »Čo ste nám   doniesli?«
+    </tei:p>
+    <tei:p>
+     »Tuto písmo od služnovstva,« i podáva ho gazdovi.
+    </tei:p>
+    <tei:p>
+     »A čo dobrého?« pýta sa tento, nepozrúc ani, čo v písme stojí.   Kladie ho za prám čapice, kde je už fajka i kresivo.
+    </tei:p>
+    <tei:p>
+     »Ja, nič takého,« odpovedá Števko, utierajúc si tvár. »Druhý deň,   čo chodím po obciach: všade písma. Ide vraj cholera, nuž nato je to   písmo.«
+    </tei:p>
+    <tei:p>
+     »Cholera!« zvolala žena.
+    </tei:p>
+    <tei:p>
+     »Veru cholera, rychtárka moja. Kdesi z Tureckej sa vybrala a ide   vraj do nás. Ak ju mráz neobarí, ameň — iba testament robiť.«
+    </tei:p>
+    <tei:p>
+     Rychtárova bezstarostná tvár zvážnela. Predsa vyňal písmo zpoza   prámu a číta, čo je v ňom. Ostatní hladia naň, čo povie. Prečítal,   složil ho a položil, kde bolo.
+    </tei:p>
+    <tei:p>
+     »No, ešte je tu nie« — vraví bezstarostne. »Ľudia narobia viac,   ako čo je pravda.« S tým sa obrátil ku Števkovi s úsmevom, ako dobrý   známy k známemu: »A teraz kdeže?«
+    </tei:p>
+    <tei:p>
+     »Do Žabian,« odpovedá Števko ako nasilu. »I ta nesiem písmo.«
+    </tei:p>
+    <tei:p>
+     »No len, no!« A rychtár sa chutne rozosmial a ostatní tiež.
+    </tei:p>
+    <tei:p>
+     »No, čože! Pozrite, tu je!« A dvíha nad hlavu papier, ako by ho   chcel podať rychtárovi.
+    </tei:p>
+    <tei:p>
+     »Akože sa má vaša?« pýta sa rychtár teraz už vážne.
+    </tei:p>
+    <tei:p>
+     »A ja sám neviem.«
+    </tei:p>
+    <tei:p>
+     »Ale choďteže, choďte,« zamiešala sa rychtárka.
+    </tei:p>
+    <tei:p>
+     »Tak vy ozajst i týždeň sa s ňou nevidíte?«
+    </tei:p>
+    <tei:p>
+     »Veru, ako príde. Čo je žatva, ona okolo poľa, ja zas v meste a po   obciach. Darmo je,« povzdychol si, »už je raz tak a inakšie   nebude.«
+    </tei:p>
+    <tei:p>
+     Nuž Števko znáša svoj tvrdý los. Nesťažuje sa, že služba vyžaduje   od neho takú obeť: odlúčene žiť od ženy. Veď je to vec nevyhnutná a   osožná. Žena gazduje v Žabanoch, on v meste ťahá plácu: dôchodky   duplované. Nedáva znať, ako slúži vrecku toto rozdelené hospodárstvo,   ale ľudia predsa šuškajú o uložených peniazoch.
+    </tei:p>
+    <tei:p>
+     Rychtárka hľadí nedôverčive na Števka a jeho podivnú chladnosť.   Zdá sa jej, že muž má žiť so ženou a nedať sa odlúčiť od nej len rylu   a motyke. »Nebodaj vo vojne sa tak naučil« — myslí si. Proti   vyslúženým vojakom mala vždy predsudky. »Žiaden nepríde taký, ako keď   ta šiel.«
+    </tei:p>
+    <tei:p>
+     Prišla rychtárova dcéra Evka. Ešte nemá dvadsať rokov, je v plnom   kvete. Oblečená je tiež sviatočne, lenže s tou nedbalosťou, ktorú   taká horúčosť vyžaduje. Doniesla v krčahu vody.
+    </tei:p>
+    <tei:p>
+     »Daj ju sem, daj!« hlási sa Števko a, pijúc, pozerá živo do   Evkinej tváre. »Ako sa máš — ha? Bude už raz to veselie?« pýta sa,   žmurkajúc šelmovsky. »Eh, škoda, že mám ženu, škoda! Na môj’ hriešnu,   neviem, čo by sa urobilo... No ale ma zavoláš aspoň za   starejšieho!«
+    </tei:p>
+    <tei:p>
+     »Kedyže to bude!« rozosmiala sa Evka. »Do tých čias bojsa,   ostariete.«
+    </tei:p>
+    <tei:p>
+     »Veď ju len poraďte dakomu, keď toľko pomedzi svet chodíte,«   žartuje mať, berúc krčah od dcéry.
+    </tei:p>
+    <tei:p>
+     »No, nebude treba, nebude. Dobrô sa samo chváli.
+    </tei:p>
+    <tei:p>
+     I biť sa budú. Ej, keby ja bol svobodný!«
+    </tei:p>
+    <tei:p>
+     »A vtedy vám neprišlo na um!« vyčíta mu Evka so smiešnou   vážnosťou. »Teraz by už nosila zlatý čepec so stužkami na dlaň šíre.   A takto nič.«
+    </tei:p>
+    <tei:p>
+     »Čerti sa nazdali, že takto vyrastieš. Bolo si ako päsť.« Ale   Števko zase zvážnel a doložil: »No, ja už pôjdem, nebudem vás   zabávať. Prešla ma s plným, azda sa mi bude dobre vodiť.«
+    </tei:p>
+    <tei:p>
+     I rychtárovci dali sa do roboty. Rychtár dumá, čo všetko zas   nakázali zo slúžnovstva: čo za nové ťažkosti a výdavky. Žena mu   podhadzuje snopy a myslí o Evke. Veď už dorástla, je v tých rokoch,   kde mať sa neraz, zamysli, ba i v noci prebudí od starosti. Ktože iný   sa stará o to? Dievka nemá tej zkúsenosti, otec zas času a často ani   vôle. Ona sama hľadá tie pokrívené, zarastené chodníčky, čo vedú ku   šťastiu dcérinmu.
+    </tei:p>
+    <tei:p>
+     Voz prázdny vysotili na cestu a zapriahajú voly. Evka zavesila   hrable na lievč. Tu na zákrute zjavil sa vozisko pod pavúzom. Len sa   tak hojdá, toľko na ňom žita. Popri voloch kráča mládenec urastený, s   tvárou neobyčajne bielou. Plieska bičom nad volmi, ktoré sa lenivo   vlečú.
+    </tei:p>
+    <tei:p>
+     Rychtárovci všetci zastali, ani paholok sa nehýbe, bárs voly sú už   zapriahnuté. Voz došiel pred nich a zastal.
+    </tei:p>
+    <tei:p>
+     »Ešte po žito?« prihovára sa mládenec.
+    </tei:p>
+    <tei:p>
+     »Radi by sme ho mať v záčine. Keby ešte dneska. Kto vie, či sa čas   nepremení,« odpovedá rychtár.
+    </tei:p>
+    <tei:p>
+     »Máte ešte mnoho?«
+    </tei:p>
+    <tei:p>
+     »Na dva razy. Neviem, či obchodíme. Ale i na mrkaní sa môže. Ak   bude rosa, uschne vo vrstve.«
+    </tei:p>
+    <tei:p>
+     »A kdeže idete?«
+    </tei:p>
+    <tei:p>
+     »Pod Jamku a potom medzi Skalky.«
+    </tei:p>
+    <tei:p>
+     »A ty čo robíš?« obrátil sa k Evke. Bude v tom, istá schválnosť,   že najprv sa shováral s otcom.
+    </tei:p>
+    <tei:p>
+     »Ako teraz. Boli sme pri jačmeni,« odpovedá rychtárka za ňu. »Už   tiež dochodí.«
+    </tei:p>
+    <tei:p>
+     »Veru, veru,« vraví on a pokračuje, obráťac sa k Evke: » Videl som   vás na horekoncovej.«
+    </tei:p>
+    <tei:p>
+     »Hej?« podivila sa Evka a úsmev preletel jej tvárou. Videla ho ver   i ona, ale iba ukradomky. Na súsednom záhone hrabala stryna Dora;   musela sa mať na pozore pred ňou, aby ju neohovorila.
+    </tei:p>
+    <tei:p>
+     »No len šťastlive!« vinšuje mládenec rychtárovcom.
+    </tei:p>
+    <tei:p>
+     Plný voz hnul sa dolu dedinou, rychtárov prázdny v protivnú   stranu. Vysadol doň sám rychtár s paholkom. Rychtárka vbehla do domu   a Evka zostala na ceste, hľadiac dolu dedinou. Mládenec zaostal za   vozom; vidno, obzerá sa, či snop sa nevymkol zpod pavúza a nepadne.   Obzrel sa i k rychtárskemu domu, usmial sa a v odpoveď dostal tiež   úsmev od Evky.
+    </tei:p>
+    <tei:p>
+     Už sa to nedá zatajiť. Pošuškáva si o tom celý vidiek: Sýkorov   Jurko pozerá tuho za našou Evou. Neraz si postáli, keď sa náhodou   stretli; neraz vbehol i k rychtárovi, najdúc vše výhovorku. Teraz už   chodieva bez výhovoriek. Starý Sýkora mlčí, rychtár mlčí. A pod týmto   mlčaním rástla ľúbosť medzi nimi. Ľudia myslia, že hádam už v jaseni   alebo o fašiangoch bude veselie. Jurko je svobodný od vojny, môže sa   ženiť a starý Sýkora bude vari tiež rád; neraz povedal, že v dome zle   bez ženy.
+    </tei:p>
+    <tei:p>
+     Rychtárka Katrena je najradšej. To je jej myšlienka. I ťažkostí   bolo dosť. Starý Sýkora je odľud, človek neprístupný; v dedine ho   nenávidia, bárs je vicerychtárom. Pozerá veľmi na groš. S takým   človekom ťažko nadviazať priateľstvo, aby z toho vykvitla svadba.   Keby aspoň Sýkorka žila! Ale tá je už dávno, dávno v zemi.
+    </tei:p>
+    <tei:p>
+     Slnce už zachodilo, keď sa rychtár vrátil so žitom. Dali sa hneď   do práce, len aby sa šlo čím skôr medzi Skalky. Ale sotva bol   drabinovec prázdny, keď pred domom ozval sa pleskot biča.
+    </tei:p>
+    <tei:p>
+     To je Jurko.
+    </tei:p>
+    <tei:p>
+     »Ja som už tu!« oznamuje rychtárovi. »Vsoťte voz dakde do ciene,   čo vtiahnem do humna.«
+    </tei:p>
+    <tei:p>
+     »Nuž ale si sám!« diví sa rychtárka, »Keď si sa tak trápil!« A   tvár je vyjasnená, šťastná. »Aký hodný človek, tento Juro,« myslí si.   »Kto by sa doň nazdal, že sa takto učlovečí.« Ale nemá kedy mnoho   uvažovať, beží do kuchyne a už sa vrtí okolo ohniska.
+    </tei:p>
+    <tei:p>
+     Rychtár je tiež uveličený. Jurko je tiež rád, že nezaháľal. Voly   beztoho nemaly čo robiť a medzi Skalky nebolo toľké svety. A hľa, aká   je natešená jeho Eva. Sama vypriaha voly a nesie im plný kôš voňavej   trojky. Radosť sa dívať na jej pohyby. »Budeže to gazdina!« dumá   Jurko, podhadzujúc rychtárovi snopy. »Nikdy iná, ako táto — nikdy,   nikdy!« Neriekol si to teraz prvý raz. Ale dnes mu tak prichodí, ako   keby to už nemohlo byť ináč. Radosť a spokojnosť usalašila sa v ňom.   »Čo mi ešte chybí — nič na svete, keď sa to raz stane...«
+    </tei:p>
+    <tei:p>
+     Jurko chcel zapriahnuť a pobrať sa domov. »Nie, poď ty do nás;   toto už Mišo zariadi. Zavez voz k nim,« rozkazuje rychtár paholkovi —   »voly zašikuj s našimi na pašu. A vicerychtárovi povedz« — doložil to   už tichším hlasom — »aby prišiel do nás. Ale iste!«
+    </tei:p>
+    <tei:p>
+     Jurko sa spieral, ale vybehla i rychtárka a vyhrešila ho   nesmierne. Že by to bolo pekne, že takto a takto... Poddal sa   nutnosti a vošiel do svetlice. A tá nutnosť mu lahodí. V tejto   svetlej, čistej izbici mu je tak, ako by vstúpil do iného sveta. Duša   ožije, ťarchy s nej sa váľajú. Je mu tu voľno; cíti na sebe putá, ale   tie sú sladké... Z každého kúta usmieva sa čistota a poriadok. Všade   stopy jej sporej, príčinlivej ruky. Nie, iba v tejto svetlici kvitne   jemu šťastie, uspokojenie. Iba tu je ozajst doma. Keď výnde z nej, už   mu je clivo, sťa keby bol preč z domu, v cudzom svete. »Prečo je to?«   pýtal sa neraz sám seba. »Prečo mi je doma nie takto?« Doma, doma!   Neraz si predstavoval, ako to bude doma, keď si Evku ta dovedie... A   vždy mu je to divno. Ju si vie predstaviť iba v tejto izbe   rychtárskej, svetlej, čistej. V ich nízkej, tmavej, so začadenou   povalou, nemožno, aby ona privykla.
+    </tei:p>
+    <tei:p>
+     Neraz myslel na takéto veci, i na iné. A ešte keď ho otec začal už   nie zvŕtať, ale naozaj trápiť. Prišlo mu neraz ľúto, a otcov dom,   zapustený, poloprepadnutý bol mu ako cudzí. Čosi ho vyháňalo z neho,   i trpelivosť neraz prašťala. Ale vždy prišlo mu na um, že to iba do   času. Tušil, že nastane premena: všetko sa prevráti — ale kedy, ako,   čím, to sám nevie. Vie, že takto nemôže byť naveky.
+    </tei:p>
+    <tei:p>
+     Starý Sýkora prišiel a zasadol za stôl. Moc nehovorí; ani veľmi   nepočúva, čo hovoria druhí. Jeho sivé oči slieďa po izbe, ako by dačo   hľadaly. Hlava je nachýlená, k prsiam, zpod čiapky visia šedivé   nepodstrižené vlasy.
+    </tei:p>
+    <tei:p>
+     Rychtárka nesie, čo prihotovila napochytre, praženice. Boh vie,   ako to narafičila, ale všetky škvarky sú pred starým. Do ruky mu   vložila i vidličky; tie isté, ktorými rychtár na Vianoce jedáva. Ako   ich chytil, ruka sa mu zatriasla a praženica skotúľala sa; no nie na   zem, ale na ľavú dlaň, ktorú podložil.
+    </tei:p>
+    <tei:p>
+     »Eh — sedliakovi lyžka!« riekol mrzute, položiac vidličky k mise.   »Ruky sa trasú, nenaučené na také výmysly.« Dali mu lyžku a naozaj   zručnejšie mu s ňou ide.
+    </tei:p>
+    <tei:p>
+     Keď sa misa vyprázdnila a Sýkora posbieral odrobinky a v štipke   vniesol do bezzubých úst, celú starosť venovali fľaši s hriatou.   Jurko si sadol ku kozubu, neďaleko neho Evka. Mlčia a pozerajú k   stolu. Naraz obrátil sa rychtár k Sýkorovi: »Viete, že cholera   ide?«
+    </tei:p>
+    <tei:p>
+     »Ja nie. Dosť máš iného trápenia. Umrieť sťa kedy, smrť i tak   neobíde nikoho. Po ľuďoch chodí a nie po horách.«
+    </tei:p>
+    <tei:p>
+     »Veď už tak,« odpovedá rychtár trochu zahanbený. »Ja tiež poviem,   proti smrti niet lekára. Ale úrady!«
+    </tei:p>
+    <tei:p>
+     »A čo zase?« A uprel oko na rychtára. »Zas vymysleli dačo? Tí iba   vymýšľať.«
+    </tei:p>
+    <tei:p>
+     »Tu je písmo. Predstavenstvu sa nakladá, pod osobnou   zodpovednosťou, zaopatriť dom pre špitál, vystaviť komoru pre   mrtvých. Tak stojí tuná.«
+    </tei:p>
+    <tei:p>
+     »Povedám, vymýšľať!« zasmial sa potupne. »Špitál, hehehe... Treba   nám špitálov! Umreť má každý kde, na to netreba domov. Ja mám kde   umreť!«
+    </tei:p>
+    <tei:p>
+     »Ale čo nemajú domu!«
+    </tei:p>
+    <tei:p>
+     »A kdeže sú? Každý býva, kde býva. Ktože mu pôjde do toho   špitála?«
+    </tei:p>
+    <tei:p>
+     »I pocestného, keď choroba pristihne...«
+    </tei:p>
+    <tei:p>
+     »Nech sedí doma; nech sa nevláči, keď je cholera. Veru to — cudzím   špitále stavať! Nemáme dosť svojich žobrákov! Radšej umrime naraz,   ako takto nič po nič keľčíky. Keď prídem o všetko, načo som na svete?   Zavadzať svetu a sebe. Pánom dobre! Ale tu kde vziať, odkiaľ? Čo   neporadia?«
+    </tei:p>
+    <tei:p>
+     Oči mu sršia zlosťou a strely z nich letia i do rychtára. Rychtár   sklonil tvár a zasmútil. Rád by dačo povedať, ale je splašený   prevahou Sýkorovou.
+    </tei:p>
+    <tei:p>
+     »A čo urobíme?« pýta sa rychtár.
+    </tei:p>
+    <tei:p>
+     »Nič,« odpovedá Sýkora.
+    </tei:p>
+    <tei:p>
+     »Ale tu je rozkaz!«
+    </tei:p>
+    <tei:p>
+     »Nech si robia sami. Keď chcú mať špitále, nech si postavia. Ale   zo svojho!« Podvihol pravý prst, ktorý sa ešte ligoce od masti. »Obec   nemá peňazí, prednovka bola tvrdá.«
+    </tei:p>
+    <tei:p>
+     »Keby sa to mohlo!« vzdychol rychtár. »Ale povedzte im, čo vám   urobia. Budú vás preháňať, i pokutovať.« Mal iné reči na jazyku.   Chcel povedať, že ani chudobe nemožno dať zahynúť; že bohatší musia   na chudobu doplácať. I rozložiť, čo je povinnosť kresťanská. Ale   ponechal to u seba. Nechce sa mu hrach na stenu hádzať.
+    </tei:p>
+    <tei:p>
+     »Robte si ako chcete,« a z jeho slov vyznieva výsmech. »Viem ja,   čo vy: nechcete vôľu rušiť pánom. Nuž robte, mňa to boleť nebude. A   ani obec, lebo tá nemá nič. Peniaze sa požičajú, lebo stavať nikto   nebude za darmo. Na mne to neprischne. A od dediny? Len si   vystíhajte, čo vám povie...«
+    </tei:p>
+    <tei:p>
+     Rychtár mlčí zahrúžený v trudných myšlienkach. »Darmo je, požičiam   zo svojho.«
+    </tei:p>
+    <tei:p>
+     »Povedám, robte ako chcete. Ja by ani babky — nie! Lebo, čo je   obec? Obec je každý, keď treba piť, brať, habať. Ale keď príde   platiť, každý sa odhodí. Ja už viem, čo je obec; naučil som sa na   druhých. Uvidíte, vás tiež naučí; uvidíte.«
+    </tei:p>
+    <tei:p>
+     »Ale darmo je — obci tiež musíme poslúžiť,« nadhodil rychtár.   Všeličo by bol ešte podotknul, že človek nežije iba sebe, ale i   druhým: ale okúňal sa s tým vystúpiť.
+    </tei:p>
+    <tei:p>
+     Sýkora sa usmial a neodpovedal ani slova.
+    </tei:p>
+    <tei:p>
+     »A musí byť ten špitál?« pýta sa rychtárka.
+    </tei:p>
+    <tei:p>
+     »Ach ba,« odpovedá Sýkora. »To len páni. Ale písemko odhodiť, ako   by nebolo prišlo. Páni zabudnú. Len neukázať hneď, že si hotový do   všetkého.«
+    </tei:p>
+    <tei:p>
+     Jurko a Evka počúvajú chtive, čo otcovia hovoria. Každé slovo   Sýkorovo ako by rezalo do srdca. Jurkovi ťažko nevyskočiť a   nezahriaknuť otca. I rychtár badá, čo sa s mládencom robí, pozre   často naň, ako by hľadal uňho súhlas, čo hneď iba nemý. Sýkora sa   veľmi neobzerá o syna.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     II.
+    </tei:head>
+    <tei:p>
+     Nad dedinou rozložila noc svoje čierne krýdla, pokoj a ticho   rozhostilo sa v stavaniach. Mesiac vyskočil zpoza hôr a zaháňa tmu do   húštin a do kútov. Sýkorovci sa pohli, i fľaša je už prázdna. Rychtár   vyprevadil ich predo dvere, zazíval a vrátil sa do izby. Rychtárka   šla za nimi na ulicu, že zavre vráta.
+    </tei:p>
+    <tei:p>
+     Sýkorovci idú, neprerečúc slova. O čom by hovorili? Jurko myslí na   Evku, jej pevné, tvrdé ruky, zručné pohyby a krásu tváre i duše. Čo z   toho povedať starému? Starý zas myslí na svoje turáky: či sú ozaj v   stajni pod žľabom bezpečné. Keby ho bol vystriehol dáky zlodej! So   strachom zaberá k svojmu domu — ešte teraz pôjde do stajne.
+    </tei:p>
+    <tei:p>
+     Rychtárka pozerá za nima. »Bude to život — nebožiatka!« Myslí na   svoje deti, obavy zahrúžily srdce. Dnes zase videla, čo je Sýkora.   Ako mu sveriť dievku? Či tá znesie jeho tyranstvo? Prečo ju pochovať   do takého pekla? Veď iných domov dosť, i v jej dome dosť miesta   prístupníkovi. Prečo by nevzala k dievke poriadneho prístupníka?
+    </tei:p>
+    <tei:p>
+     Ale tu vidí Jurka. Veď jeho by potrestala, nie starého; jeho, i   vlastnú dievku. A srdce nedopustí. K srdcu už priveľmi prirástli   oba.
+    </tei:p>
+    <tei:p>
+     Z dolného konca dolieha spev, ale nie veselý. »Vychodí slniečko   zpoza lesy, už ma v tej Lomnici nič neteší...« O chvíľu zjavili sa   dvaja mládenci, oblapení okolo hrdla. »Neboráci, chodia ako na mukách   — už nebudete dlho takto chodiť.« Sú to lomnickí rekrúti.
+    </tei:p>
+    <tei:p>
+     Spev zanikol kdesi za domami, psi zatíchli, zase tichosť. Chcela   sa vrátiť do domu, keď zazrela, že sa blíži akási žena. »Ktože si?   Durduľa veru, Durduľa... Čože sháňa zase?«
+    </tei:p>
+    <tei:p>
+     Žena zastala, má šatku hlboko, skoro na samom nose. »Ale už   odišli?« šepká rychtárke.
+    </tei:p>
+    <tei:p>
+     »Kto?« pýta sa táto.
+    </tei:p>
+    <tei:p>
+     »Sýkorovci — ktože by!« vraví s výčitkou.
+    </tei:p>
+    <tei:p>
+     »A ako viete?«
+    </tei:p>
+    <tei:p>
+     »No, Bože môj? Viezol vám žito, videla som: nuž tak. Držte sa ich,   stvora moja, držte. Nebudete banovať!« dokladá skoro šepky. »Tam je   všetkých vecí dostatok. Skývraží, zo sečky súka motúzy — taký gazda!   Tam najdete predlanskú pšenicu v štoku, omasty, a — groša! Pomyslite   si: s Mojžišom sa spriahol. Mojžiš rozpožičiava jeho peniaze... A syn   nepokazí. Vari je bujan, ako by bol druhý? Tichý, i potrizní   si...«
+    </tei:p>
+    <tei:p>
+     »A kdeže ste boli?«
+    </tei:p>
+    <tei:p>
+     »U Koreňov. Zavolala ma, že husi podskubať. Prvý raz! Iné už budú   druhý raz zanedlho... Neskoro sa vykotúlily. Ja, husi treba chovať,   pohadzovať, opatriť. Kdežeby tá — gazdina je ona nie. Vlani sa jej   dvanástoro vajec zastudilo: samý záväzok! Ale keď neopatríš, choďže,   choď...«
+    </tei:p>
+    <tei:p>
+     Na všetky steny by nepopísal, čo Durduľa napletie, keď sa jej   jazyk rozviaže. Ona vie všetko. Je chudobná, i stará, i do roboty   nesúca. Keby nie jazyk, zomrela by od hladu. Ten ju živí. Ženy sa jej   boja — podplácajú ju. Iné zas ľúbia klebety — odmeňujú sa jej.   Jediné, čo vie ešte robiť, je, že podskúba husi; a tak vandruje z   domu do domu.
+    </tei:p>
+    <tei:p>
+     Rychtárka s ňou nikdy neplietla ploty. Rada je, keď ju nevidí. I   teraz by najradšej šla domov. Ale Durduľa ju drží za ruku.
+    </tei:p>
+    <tei:p>
+     »Čo vám ja poviem,« vraví skoro šepky, držiac jej ruku: »ale sa   nikomu nezjavte! Váš bol v nedeľu po večierni v meste.«
+    </tei:p>
+    <tei:p>
+     »Mal robotu, bol,« odpovedá rychtárka znepokojená. »Nuž?« pýta sa   chladno.
+    </tei:p>
+    <tei:p>
+     »Vodil sa s Masliačkou. Bola vyobliekaná — všetko šušťalo na nej.«   Mlčí a čaká, čo tá na to. Teší ju, keď môže ovaliť dakoho tu po   hlave, tu bodnúť rovno do srdca. Rychtárka sa ani nehnula. Vari ani   nepočúva. »Vošli do regála. V bočnej, vraj, sedeli do tvrdej   tmy...«
+    </tei:p>
+    <tei:p>
+     Rychtárke trhlo obe ruky. Vytrhla ich z Durduliných a napráva si   šatku. Trasú sa, habkajú sem i tam. Ale mlčí — len sama sebe myslí:   »Iste boli, iste — nehovorila by...« A všeličo vidí teraz, čo pred   chvíľou nevidela. Muž je už nie, čo býval. Čosi kuje. Hľa, od dávna   badá, že sa premenil. Nevedela zkade, ako, prečo. Už vie. »Pre ňu —   pre ňu!« bola by zaplakala, zalomila rukami — ale premohla sa. Nesmie   sa prezradiť. Keď sa trochu sosbierala, riekla tichým hlasom: »Ľudia   zlí vymýšľajú...«
+    </tei:p>
+    <tei:p>
+     Durduľa vie, čo sa s ňou robí. Čuje, ako bôľ a strach zavieva z   jej reči a bytosti. A srdce sa jej kúpe v rozkoši. »Ja tiež   povedám...«
+    </tei:p>
+    <tei:p>
+     »No nie?« ozvala sa rychtárka skoro s jasotom. Srdce sa jej   utíšilo, objala by Durduľu. »Veď môj je už v rokoch. Má rozum — veď   ho už naučilo.«
+    </tei:p>
+    <tei:p>
+     »Ale čo vám nepoviem: ja som ho videla na vlastné oči...«
+    </tei:p>
+    <tei:p>
+     »Kde — kde ste ho videli?«
+    </tei:p>
+    <tei:p>
+     »U nej, u Masliačky. V utorok večer, prv, ako o tomto čase. Šla   som po záhumní — on šiel sadmi. Pekne vyšiel z vášho humna; mesačno   bolo, po chôdzi som ho poznala. Prišiel k humnu a do dvora. Ešte sa   poobzeral, či ho dakto nestrežie. Pritisla som sa k plotu, lebo som   sa bála. A pekne som počula dvere pitvorné — u Masliačky veľmi   vŕzgajú...«
+    </tei:p>
+    <tei:p>
+     »To nebol môj!«
+    </tei:p>
+    <tei:p>
+     »A kto? keď sa naňho ponášal.«
+    </tei:p>
+    <tei:p>
+     »Ak paholok!«
+    </tei:p>
+    <tei:p>
+     »Kdeže paholok! Ten je menší. No počkajte: bol váš v utorok   doma?«
+    </tei:p>
+    <tei:p>
+     »Bol!« riekla odhodlane, bárs čelo je mokré od studeného potu.   Vie, že prišiel, keď ona už spala.
+    </tei:p>
+    <tei:p>
+     »Celý večer?«
+    </tei:p>
+    <tei:p>
+     »Celý.«
+    </tei:p>
+    <tei:p>
+     Durduľa sa nedá prekabátiť. Vie, že Katrena cigáni. No vie i   mlčať, kedy načim.
+    </tei:p>
+    <tei:p>
+     »A mne sa všetko tak, že to on. No, chvalabohu! Ale tej, tej — iba   ju ostrihať do hola, to! Len si pomyslite, stvora moja, takúto,   takúto nezdobu! Len, prosím vás, nezjavte sa nikomu...«
+    </tei:p>
+    <tei:p>
+     Rychtárka už nečuje. Prichlopila dvere a vošla do izby.
+    </tei:p>
+    <tei:p>
+     Ešte sa svieti; pri stole kľačí muž; ako vidno, modlí sa. »Že sa   nebojí Pána Boha!« mysí si ona. »Ešte sa modlí! Nebojí sa, že ho   zahrúži, že sa zem otvorí pod ním...« A skutočne, kľačí a nepozoruje,   čo sa dookola robí. Tvár zakrytá rukami, iba hlboké, ťažké vzdychy sa   ohlášajú. Ako by sa ronily z najhlbšej hlbiny srdca, ako by chcely   preboriť nebesá. Tak sa modlia hriešnici, ktorých tlačí ťažká   vina...
+    </tei:p>
+    <tei:p>
+     Načo tu dôkazy? Videli ho — ostatok vyznávajú tieto vzdychy.
+    </tei:p>
+    <tei:p>
+     Vstal od stola akýsi veselší. Možno sa mu uľahčilo. Hádam sa len   pretvaruje. Vidno, ako sa premáha, aby čosi utajil. Hľa, ani do očí   jej nepozre, ani sa neprihovorí.
+    </tei:p>
+    <tei:p>
+     Ona tiež kľaká na to isté miesto, hľadá potechu, uspokojenie. Ale   kde tu modlitba, keď myšlienky sa naháňajú, krúžia divoko v hlave. I   jej ronia sa ťažké vzdychy — ale každý sadá na dušu, tlačí olovenou   ťarchou. Aspoň trochu sa utíšila. Snaží sa obetovať svoj bôľ Bohu,   naňho sa spustiť... Ale čo bude s Evkou, ak je toto pravda? Čo —   čo!
+    </tei:p>
+    <tei:p>
+     »Nie, to je nie otec. Nehoden toho mena! Dcéra odrastená, a on jej   vije taký venec!« Srdce sa jej trasie strachom i hnevom. »A ak je to   nie pravda?« Vidí, že takto nemôže byť. Musí mať istotu, čo akú.   Takto by zahynula.
+    </tei:p>
+    <tei:p>
+     »So starým si nič nehovoril?« pýta sa ho pokojne. Veľa ju to stojí   premáhania.
+    </tei:p>
+    <tei:p>
+     »A o čom?«
+    </tei:p>
+    <tei:p>
+     »Veď na tom sa zostalo, že v jaseň bude veselie. Nič ste   nehovorili?«
+    </tei:p>
+    <tei:p>
+     »Tam si bola. Načo budeš? Keby nie on, mohlo sa to už o fašiangoch   odšiplať.« Tu sa mu vykradol vzdych. »Ale kdeže starý: taký   skupáň.«
+    </tei:p>
+    <tei:p>
+     »Pol roka sem, lebo tam,« vraví ona chladno. »Nemusíme sa   náhliť.«
+    </tei:p>
+    <tei:p>
+     »Ba nie tak!« ozval sa neobyčajne živo. »Keby bolo po svadbe, bol   by pokoj. Nebolo by starosti.«
+    </tei:p>
+    <tei:p>
+     »Vari ti zavadzia?«
+    </tei:p>
+    <tei:p>
+     »Mne nie. Ale jej najlepšie, keď má muža. Len tak je bezpečná.   Nech príde, čo chce: má sa čoho chytiť,. A otcovi je to balvan — samá   starosť.«
+    </tei:p>
+    <tei:p>
+     Slová tie sú jej jasné. Už niet v nich nič záhadného. Kľúč má od   Durdule. Vie, prečo mu zavadzia dcéra, akých premien sa bojí. Že   výnde na javo, čo otec robí a to zničí i dievku. Hľa, preto ju chce   vydať, kým je všetko pod pokrývkou.
+    </tei:p>
+    <tei:p>
+     »Čo budeme robiť?« dolieha na ňu otázka. »Všetko ztratené.« I   vidí, čo všetko ztratila. Krásna minulosť, kde si? Prepadlo sa   všetko, šťastie, pokoj, krása, mladosť — zostal kríž a bôľ.
+    </tei:p>
+    <tei:p>
+     Nemôže sa premôcť, pristúpila k nemu a pýta sa: »Jano, čo sa to s   tebou robí? Ty si sa veľmi premenil.«
+    </tei:p>
+    <tei:p>
+     »Ja?« A sklopil oči. Nemôže zniesť jej pohľad, ktorým visela na   ňom, vyzvedala, skúmala. »Ja nič. Ale tebe sa robí čosi. Pletieš do   sveta a vystíhaš odo mňa čosi...«
+    </tei:p>
+    <tei:p>
+     »Ty ma už nerád!« zvolala nevdojak. Zahanbila sa, že vypustila   také slovo.
+    </tei:p>
+    <tei:p>
+     »To je slovo! To už hej!« kýva hlavou. »Rozum nadobývať na staré   dni, nie takéto márnosti. To nech sa tvoja dievka spýta svojho   frajera.«
+    </tei:p>
+    <tei:p>
+     Krv jej udrela do tváre. Sú na nej vrásky, ostarela — ale čo   urobil on! Veď on tiež má svoje roky: a ju karhá. »A si mi   neprisahal?« rozhorlila sa, chytiac ho za ruku.
+    </tei:p>
+    <tei:p>
+     »A môžeš sa žalovať? Vieš dačo na mňa?«
+    </tei:p>
+    <tei:p>
+     »A Masliačka?«
+    </tei:p>
+    <tei:p>
+     Hľa, prenáhlila sa. Zabudla, že to má utajiť, kým sa nepresvedčí.   Slovo bolo von — pôsobilo ukrutne. Zbľadol a odvrátil sa.
+    </tei:p>
+    <tei:p>
+     »Ako to vieš?« pýta sa jej skoro pokorne. Darmo sa snaží ututlať   pohnutie.
+    </tei:p>
+    <tei:p>
+     »Bože môj, Bože!« zaplakala a zakryla si tvár. »Načo som to ja   dožila!«
+    </tei:p>
+    <tei:p>
+     Muž celý rozparený vyšiel na dvor. Hľadí do neba, mesiac sa mu   uškŕňa, hviezdy padajú do hlbokej tmy. »Tak poletíš, tak« — myslí si   a žiaľ mu sťahuje hrdlo. »Alebo už letím...«
+    </tei:p>
+    <tei:p>
+     Vyšiel na šop, hodil sa na seno. Tuhá vôňa ho omamuje, divné   obrazy mu predchádzajú — a on nevie, ako sa ich sprostiť.
+    </tei:p>
+    <tei:p/>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     III.
+    </tei:head>
+    <tei:p>
+     »Môj muž a Masliačka!« Tou novinou ju pozdravil úsvit nového   dňa.
+    </tei:p>
+    <tei:p>
+     Bolo by dobre, keby dáka veliká starosť doľahla na ňu. Tá by azda   zahnala aspoň na čas všetky mátohy od nej. Ale kde vziať starosť takú   ohromnú? Takej vari niet. Tie, čo boly, ustúpily, soschly sa. A   myšlienka jediná kraľuje všemocne: »On a Masliačka!« Prečo odišiel,   prečo sa dnes ešte neukázal?
+    </tei:p>
+    <tei:p>
+     Pred poludním ho zazrela. Ako bez duše tmolil sa po dvore. »Aký je   ešte mladý!« podivila sa. »Neznať na ňom rokov.«
+    </tei:p>
+    <tei:p>
+     Šla popred zrkadlo, vidí sa v ňom. Oči vyplakané, červené, vôkol   nich drobné vrásky. I na vlasoch vidno sledy rokov. Veľa medzi nimi   šedivých. Hádam v noci ošedively, včera ich nepobadala. Ona nikdy   vari nepozrela tak dokonale do zrkadla. On už iste dávno sčítal tie   vrásky, oj, jemu to neušlo. A nechal ju!
+    </tei:p>
+    <tei:p>
+     Čím zaslúžila tieto muky? Vari tým, že vydala sa za mladšieho?   Vtedy ona nečítala roky. Šla zaň, lebo sa jej ľúbil. Čo ona vedela,   že päť rokov spraví toľký prevrat? »A nevedel on, že som staršia?«   Áno, zabudlo sa vtedy na všeličo. On jej roky a ona tiež mala mu čo   prehliadnuť... Ona, bohatá jedináčka, urobila jeho, hofierskeho   synka, majetným gazdom. Mala rada mládenca vrstovníka, ale ten zomrel   — vydala sa po rokoch za Jana Zimu. Vzala ho na prístupky, bárs ju   prehovárali, aby to nerobila. I otec jej bránil. Zima už nebol   svobodný. Mal známosť s Katrenou Sklenárovie. Známosť sa skončila nie   veselím, ale krštením. Katrena sa potom vydala za Masliaka, a dosť   skoro ovdovela. Hľa, takého si ho ona vzala!
+    </tei:p>
+    <tei:p>
+     »Načo som to robila — načo; kde bol môj rozum! Má ju v srdci   dodnes — rád videl iba ju! A teraz už pred celým svetom.«
+    </tei:p>
+    <tei:p>
+     Složila hlavu na stôl, dumá ticho. Tak ju našla dcéra.
+    </tei:p>
+    <tei:p>
+     »Čo vám je, mamo?«
+    </tei:p>
+    <tei:p>
+     Mať hľadí do jej čistého oka. V ňom sa odráža láska, prítulnosť.   Tisne ju k srdcu náružive, i jej je akosi ľahšie.
+    </tei:p>
+    <tei:p>
+     »Čo plačete, čo vám je?«
+    </tei:p>
+    <tei:p>
+     »Ako ti mám povedať? Ty to ešte nevieš... Kadečo mi poschodilo na   um: mladý vek, a všetko...«
+    </tei:p>
+    <tei:p>
+     »Neplačte, mamo, preto.«
+    </tei:p>
+    <tei:p>
+     »Veď už nie. To tak príde dakedy. Bodaj by na teba nikdy, dieťa   moje, nikdy! Lebo je to ťažko.«
+    </tei:p>
+    <tei:p>
+     »Ja by neplakala,« ozvala sa Evka. »Iba keď vás vidím, i mne potom   ide...«
+    </tei:p>
+    <tei:p>
+     »A keby ťa nechal?«
+    </tei:p>
+    <tei:p>
+     »Kto?«
+    </tei:p>
+    <tei:p>
+     »Jurko.«
+    </tei:p>
+    <tei:p>
+     »Oj, ten nie.« Zasmiala sa radostne. »A koho by si vzal? Možno by   ho druhá nechcela. Sám povedá, že nevie...«
+    </tei:p>
+    <tei:p>
+     Mať sa rozveselila. Dievka rozohnala všetky chmáry.
+    </tei:p>
+    <tei:p>
+     Rychtár bol celé odpoludnie doma. V pitvore sa stretol s dcérou a   obzrel si ju. Čosi mu nedalo, pohladil ju po líci, ako pred rokami,   keď ju nadhadzúval na kolene a volal: »Hop, hop!« Jej usmievavé oči   uprely sa mu do tváre a ona pritúlila sa k nemu. Sama je prekvapená,   kde sa to v nej berie.
+    </tei:p>
+    <tei:p>
+     »Ty mazna — ty!« pľasol ju po líci a i on sa usmieva.
+    </tei:p>
+    <tei:p>
+     Evka nikdy tak jasne a určite necítila, že otca rada, ako teraz.   Dušu by položila zaňho. Vskutku bol vždy dobrý na ňu. Ešte zalanským   jej nosieval koláče z mesta. Ale potom srdce inam prirástlo. Na otca   sa zabudlo, i otec zostal inakší akýsi. Iba dnes ešte ho nadišla   stará vôľa. A ona tiež tak nežne túli sa k nemu, i tak úprimne.
+    </tei:p>
+    <tei:p>
+     »A čo je materi?« pýta sa ho razom. Čosi jej šušká, že otec bude   znať príčinu. »Dnes ráno plakala.«
+    </tei:p>
+    <tei:p>
+     Otec ju vypustil z náručia, veselosť uletela.
+    </tei:p>
+    <tei:p>
+     »Nebude už dlho plakať. Ja zariadim všetko. Po žobraní nepôjde —   nech sa nebojí!«
+    </tei:p>
+    <tei:p>
+     Dcéra nerozumie, čo to všetko značí, ale zdôverila sa materi. Tá   neriekla nič. Tiež nevie, čo tie reči znamenajú. Ostatne pomaly   zabúda na svoje nešťastie. Prístupná je i iným starostiam. A je ich   dosť.
+    </tei:p>
+    <tei:p>
+     Takéto reči čuť v dedine:
+    </tei:p>
+    <tei:p>
+     »Ej, zlý hosť je chorela.«
+    </tei:p>
+    <tei:p>
+     »Mne zomrel na ňu otec.«
+    </tei:p>
+    <tei:p>
+     »Mne brat.«
+    </tei:p>
+    <tei:p>
+     »A mne brat i sestra.«
+    </tei:p>
+    <tei:p>
+     »My zas, koľko nás bolo v dome, všetci sme ležali. Nemal kto vody   podať.«
+    </tei:p>
+    <tei:p>
+     To boli všetko pamätníci prvej, velikej cholery.
+    </tei:p>
+    <tei:p>
+     Chýry chodia všakové, ale neurčité. A strach je tiež taký   neurčitý. Človek nevie, čoho sa bojí, a predsa sa bojí.
+    </tei:p>
+    <tei:p>
+     Ale i určitejšie chýry počuť.
+    </tei:p>
+    <tei:p>
+     Vo Sv. Kríži nebolo jarmoku. Zakázali ho pre choleru.«
+    </tei:p>
+    <tei:p>
+     »V Ondrašovej už vraj dvaja umreli.«
+    </tei:p>
+    <tei:p>
+     Gazda Hubka šiel do Rimasieča za junci. Ale darmo chodil, tiež   nebolo jarmoku. A celou cestou iba zvonenie, plač. Prišiel zjašený   domov a zapustený. V dome sa bál nocovať, spával pod holým nebom. A   keď prišiel do zdravého kraja, tam ho držali, vykiadzali a kropili   akousi vodkou. Zapáchal na strelenie, ženy sa chytaly za nos, keď ho   maly stretnúť. Vychytili naň, že páchne cholerou a prezývajú ho   »Chorela«.
+    </tei:p>
+    <tei:p>
+     Sám slúžnodvorský prišiel do Lomnice, prikrútil občanom a   nadovšetko rychtárovi. Komoru pre mrtvých nariadil hneď a zaraz   stavať. Ľudia sa týchto príprav hrozne naľakali. Boli už istí, že   cholera príde, keď sa tak na ňu zastrájajú.
+    </tei:p>
+    <tei:p>
+     »Ktože bude v nej prvý?« zadávajú si otázky. »Ja azda nie,« myslí   každý sám sebe.
+    </tei:p>
+    <tei:p>
+     Cholera je už v meste! Zomrel starý kušnier Medveď, čo to   Lomničanom kožušky plátaval.
+    </tei:p>
+    <tei:p>
+     »Nepúšťať nikoho do mesta!« volajú občania. »A kto pôjde, nech si   tam zostane.«
+    </tei:p>
+    <tei:p>
+     Ale ako zavreť dedinu? Hľa, do rychtára doviedli zas asi dvadsať   ľudí. Pred Veľkou nocou šli do Pešti so spevom, harmonikou — vracajú   sa šupasom, otrhaní, smutní. Rychtár ich odpravil čím skôr, aby z   batohov nenatrúsili cholery.
+    </tei:p>
+    <tei:p>
+     Na cmiteri belie sa srub. Tesári pilne robotujú. Buchot tešlíc a   toporov ide do taktu, ale neznie tak veselo, ako indy. Len majstri sú   veselí.
+    </tei:p>
+    <tei:p>
+     Mišo drží šnúru a namáča ju do rozrobených sadzí. Žmurkne na Paľa,   hotového vždy do pestva. Chytili sa šnúry a okrútili ju okolo Ďura,   lomnického hrobára. Prišiel pozreť, ako sa búdka stavia.
+    </tei:p>
+    <tei:p>
+     »Chodte, čerti! Košeľu mi zafúľate!«
+    </tei:p>
+    <tei:p>
+     »To je príučnô.«
+    </tei:p>
+    <tei:p>
+     »Bodaj ťa! Počkaj, ťa ony fígle prejdú, keď ťa chorela   pripučí.«
+    </tei:p>
+    <tei:p>
+     »Ja sa nedám,« smeje sa Paľo.
+    </tei:p>
+    <tei:p>
+     »Keby si sa radšej nerúhal!« karhá ho Ďuro.
+    </tei:p>
+    <tei:p>
+     »A už vy nezarobíte na mne,« posmeškuje i Mišo. »Najprv my   zarobíme na vás.«
+    </tei:p>
+    <tei:p>
+     »Nuž!«
+    </tei:p>
+    <tei:p>
+     »Truhlu vám spravíme.«
+    </tei:p>
+    <tei:p>
+     »Ja mám ženu, deti drobné. Mňa tu treba. Ale vy — vy loptoši!«
+    </tei:p>
+    <tei:p>
+     »Už ste ich dosť zahrabali — už môžu i vás.«
+    </tei:p>
+    <tei:p>
+     »Viete čo,« vraví Paľo. »Truhlu vám môžme spraviť i zaraz. Umrete   aspoň na hotovô.«
+    </tei:p>
+    <tei:p>
+     »A užijete s nami oldomáš.«
+    </tei:p>
+    <tei:p>
+     »Eh, dietky — nehodno posmeškovať, nehodno. Ja viem, čo je   chorela!« A Ďuro sa zamyslel, i roztopašným tesárom nejde tak veľmi   do smiechu. Divné, neveselé myšlienky prikrádajú sa k nim, a hľadia   ich dosť rozháňať.
+    </tei:p>
+    <tei:p>
+     Pred večerom sbehla sa celá dedina k rychtárovi. Z mesta prišlo   pol vreca akejsi zelenej, mrzkej soli a dva paky drobných fľaštičiek.   Znalci rozsúdili, že soľ je koprvas. Varieva sa v nej kôra osiková   pri barvení súkna na čierno. Rychtárka musela prepustiť diežu, a tam   namočili tú soľ. »Tá soľ vyhryzie chorelu, čo by tá kde bola,«   vysvetľuje hajtman občianstvu. »Lebo to je just tak, ako keď, nehodno   primeriavať, majú voly vošky. Na vošky len kolomaže, alebo petriolu,   nuž ich vonkoncom vyhryzie.« Občanom sa to veľmi páči, iba rychtárka   hromží: »Ja do tej dieže nikdy nedám šiat — nikdy!«
+    </tei:p>
+    <tei:p>
+     Rychtár rozdelil fľašky s kvapkami boženíkom, tí ich roznosili po   raliach. No občianstvo nedrží sa tak prísne inštrukcie. Kvapky ešte   ten večer boly užité.
+    </tei:p>
+    <tei:p>
+     O dva dni zomrel starý Ondráš Hôrka.
+    </tei:p>
+    <tei:p>
+     »Ešte si včera na poludnie zajedol s chuťou mladej švábočky s   bryndzou. Tak si pochvaľoval ešte. A ráno na doske! Len veliký bôľ na   ňom a hneď hynul a hynul.« Tak rozpráva stará Žofia každému, s kým sa   sníme. »Ach, môj muž dobrý! Čo si ma, čo tak náhle opustil!«
+    </tei:p>
+    <tei:p>
+     V obci zdesenie. Naštiepený umieračik nikdy tak smutne   nezvonil.
+    </tei:p>
+    <tei:p>
+     »Dej, ať ráno v zdraví vstanú a čest vzdávám tobě Pánu...« Tak si   spievajú večer v každom dome. Chápu dobre, čo za smysel majú tieto   slová,
+    </tei:p>
+    <tei:p>
+     Rychtár oznámil všetko do slúžnovstva. Doviezlo sa mnoho pánov s   písmami a všakovými škatuľkami.
+    </tei:p>
+    <tei:p>
+     Stolár práve rozrábal kyndrus, že natre Ondrášovu truhlu na   čierno. Učeň vystrihoval z pozlátky veliký kríž, že bude na vrcheň:   tu pribehne rychtár s hajtmanom. Vzali truhlu, ako bola: nemaľovanú,   zhruba ohoblovanú. Nevhodili do nej ani hrsť stružlín — tak bolo   náhlo.
+    </tei:p>
+    <tei:p>
+     Mrtvé telo v truhle vyviezli do novej búdky. Tam bol dlhý stôl, za   ním sa kedysi učili donát lomnickí šuhajci. I lavicu kdesi pochytili.   Nádob tiež jest hodne. Okolo stola zostali sami páni. Okolo búdy celá   dedina. Hôrkuľa zalamuje rukama, ženy jej pomáhajú, lebo veľmi pekne   vykladá. Menovite ich preniklo, keď povedala: »Ej, veru si sa, veru   nenazdal, že výndeš na takýto posmech ľudský — moja potecha, môj muž   radostný! Ej, nenazdal, že ani po smrti nebudeš mať   odpočinutia...«
+    </tei:p>
+    <tei:p>
+     Čo smelší hľadia špárami, čo sa v búde robí. Na stole porozkladané   nožíky, pílka, dláta. Sviatočné šaty Ondrášove v kúte — na stole sa   černie mrtvé telo.
+    </tei:p>
+    <tei:p>
+     »Ona je — chorela je« — šepkajú si chlapi. »Pustila farbu.«
+    </tei:p>
+    <tei:p>
+     »Ľaľa, hlavu mu lúpi,« šepká súsed a ustupuje od špáry. »Ba čo mu   nedajú pokoja! Dušu Bohu — telo zemi. Taký je zákon.«
+    </tei:p>
+    <tei:p>
+     Prisviedčajú mu všetci. Keby mali takú moc, iste by to   nedopustili.
+    </tei:p>
+    <tei:p>
+     Z búdy čuť, ako keď sa pílka zažerie do bútľavého dreva.
+    </tei:p>
+    <tei:p>
+     »Hlavu mu pília!« žasnú občania.
+    </tei:p>
+    <tei:p>
+     Tu sa ohlásil hlas pevný, hlboký: »Hľadajú chorelu, ale tá je nie   v hlave.« To je starý hájnik Bučan. »Ja som ju tiež mal; ale tá   nebola v hlave. Behá po celom tele, ako živá. Tu do nôh, tu po   chrbáte a zas do ľadví. A valí sa v takých gundžiach, ako päsť, popod   kožu. Tú len roztierať a nedať sa. Ak sa dáš, už ťa berie. Ja som sa   s ňou pasoval tri dni. Kto má slabú náturu, toho berie. Ako keď   pierko sfúkneš. Ale chorely tam už nenajde, na mrtvom nie. Môžeš tú   už hľadať: kde je tá!«
+    </tei:p>
+    <tei:p>
+     Pevný, neohrozený hlas, istota, s akou hovoril, dodávajú smelosti   i ostatným. Všetci mu závidia, že vie, čo je cholera, i že sa jej   nebojí.
+    </tei:p>
+    <tei:p>
+     Chlapec, belko asi osemročný, vyštveral sa na stenu a hľadí špárou   do búdky. Vidí ľudí so zakrvavenými rukami a čosi červenať sa na   misách. Nechápe, čo je to, ale predsa ide naň strach. V tom lapila ho   čiasi ruka za plece a strhla na zem. »Pakuješ domov, pačrev!« hromží   zostrašená mať. »A strhávaj sa mi zo sna, ale ťa vyšmarím predo   dvere!« Bitkou ho vyprevádza až domov.
+    </tei:p>
+    <tei:p>
+     Konečne vyšli páni s písmami a škatuľami. Rozkaz je Ondráša   naskutku pochovať. Ďuro mal pomoc, jama je už vykopaná.
+    </tei:p>
+    <tei:p>
+     Pohrab bol veľmi krátky, ale zato dojemný. Kňaz povedal krátku   reč, zaspievala sa pieseň a truhla sa pustila do jamy. Ľudia šomrali   nad takým náhlením, ale najväčšmi pán učiteľ. Mal držať valedikciu,   ale tá ešte není hotová. Improvisovať nemožno. Čože kázeň! Ale   sosbierať samopašné rýmy a poskladať pekne z príkladu. Dáku staršiu   na Ondráša pristrihnúť — to tiež ťažko. Ženy vracajú sa sklamané.   Ufaly sa valedikcii, gazdovaly slzy, a tie zostaly nepreliate.   Nebodaj sa ešte zídu...
+    </tei:p>
+    <tei:p>
+     »Ktože pôjde za ním?« rozjímajú nazad idúc.
+    </tei:p>
+    <tei:p>
+     »Len nepadnite,« napomína ich mlynárka. »Kto padne, ten pôjde samý   prvý.«
+    </tei:p>
+    <tei:p>
+     Strach drží dedinu ako v železných kliešťach. Len do jednoho kúta   nemôže sa pretisnúť. To je komôrka rychtárovej Evky.
+    </tei:p>
+    <tei:p>
+     Sedí na truhle, pri nej Jurko. Hľadí do zeme, je akýsi smutný.
+    </tei:p>
+    <tei:p>
+     »A čo je tebe?« pýta sa ho ona. »Čo sa ti stalo?«
+    </tei:p>
+    <tei:p>
+     »Má mne čo byť. Mám sa ženiť — ako ťa ta zavediem? Ty neprivykneš   u nás. Bude sa ti cnieť za otcom, materou. A môj — ten ti odšacuje   každú lyžku, čo vložíš do úst. Sám sa nenajem, čo sa ho bojím. Ako   ty?
+    </tei:p>
+    <tei:p>
+     »Ja strpím všetko. Veď sa on udobrí,« dokladá veselo.
+    </tei:p>
+    <tei:p>
+     On neodpovedá, iba krúti hlavou.
+    </tei:p>
+    <tei:p>
+     »Zas ti povedal dačo?«
+    </tei:p>
+    <tei:p>
+     »Veď vieš. Ani nepovie, a horšie, ako by povedal. Taký mi je, ako   pastorkovi. Či ukázal kedy lásku? Nemá citu, nemá!« Siahol do pazuchy   a predkladá jej pokrčený papier. »Vidíš — to je list od nášho Jana. O   Veľkej noci ho dostal, ale mne ho neukázal. Iba čo som ho našiel pod   povalou.«
+    </tei:p>
+    <tei:p>
+     »Od Jana — čo píše?«
+    </tei:p>
+    <tei:p>
+     »Len čítaj!«
+    </tei:p>
+    <tei:p>
+     »A kde je teraz? Vo vojne?«
+    </tei:p>
+    <tei:p>
+     »Už vyše troch rokov, čo ho pustili. Šiel do Aradu.«
+    </tei:p>
+    <tei:p>
+     »Toľké svety!«
+    </tei:p>
+    <tei:p>
+     »Tam je financom. Neborák, prosí otca, aby sa nehneval, aby mu   odpísal.«
+    </tei:p>
+    <tei:p>
+     »A otec?«
+    </tei:p>
+    <tei:p>
+     »Ako skala. Ak’ zbojník, tak zbojník — iného mena mu nedá.«
+    </tei:p>
+    <tei:p>
+     »Ty,« obrátila sa dôverne akosi, »prečo ho dal ostrihať?«
+    </tei:p>
+    <tei:p>
+     »Že mu vraj peniaze pokradol. Pováž si len — vlastný syn!«
+    </tei:p>
+    <tei:p>
+     »A čo píše?«
+    </tei:p>
+    <tei:p>
+     Podal jej papier, ona ho rozbalila a číta: »Pozdravujem vás na   stotisíc krát...«
+    </tei:p>
+    <tei:p>
+     »Počkaj, odtiaľto.«
+    </tei:p>
+    <tei:p>
+     Eva číta: »Nebojte sa, že sa vám vodvorím do domu a budem na   ťarchu. Ja len chcem, aby Vaše srdce obrátilo sa ku mne, ako ku   synovi, lebo bez viny ste ma vyhnali. Vašich peňazí nikdy som sa   netýkal — ani som nevedel, že ich dakde pokrývate. Nech je toľko ráz   zatratená moja duša, koľko som Vám krajciarov ukradol! Ja som ich   nikdy nevidel, nieto aby ich vzal. Načo by bolo dedinskému mládencovi   tri stovky? Čo by kúpil za ne? Že ste ma dali ostrihať, to som   zaslúžil a bolo mi k dobrému. Horšie som zaslúžil, keď som zdvihol   ruku na vlastného otca! Odpusťte mi to, sám neviem, ako sa to stalo.   Vtedy som už nevedel, čo robím...«
+    </tei:p>
+    <tei:p>
+     »Ako to bolo?« pýta sa Evka.
+    </tei:p>
+    <tei:p>
+     »Pobili sa. Hanba!« A vidno mu, že s odporom rozpráva. »Otec   naskočil naň pre peniaze. Z reči do reči. Otec mal v ruke cepík —   chcel Jana búšiť. Ten mu ho vykrútil a prehodil ponad humno. A tak sa   potom bili... Utiekol z domu, viac sa neukázal. Keď bola asentírka,   otec ho dal do vojny. Toto je prvý list od neho.«
+    </tei:p>
+    <tei:p>
+     Eva číta ďalej: »Aspoň po obci rozhláste, že som nie zlodej. Keby   aspoň raz mohol dedinu videť! Ak Vám tie peniaze chybujú, nahradím   Vám ich. Ale to sú moje! Vďačne ich dám, len aby už to nebolo na mne.   Ja by Vás do smrti spomínal...«
+    </tei:p>
+    <tei:p>
+     »Už nečítaj!« prosí ju on. »Daj sem. Nemohol by mu do očí pozreť.   Videl by, že sa naň hnevám.«
+    </tei:p>
+    <tei:p>
+     Eva je pobúrená. Dom Sýkorov zjavil sa jej v novom spôsobe. Takto   si to nepredstavovala. Vidí celú nízkosť Sýkorovu. Akási triezvosť   nadchodí na ňu, socia ju preč od Jurka.
+    </tei:p>
+    <tei:p>
+     »Ako ta pôjdeš, čo si počneš?« Taká otázka sa jej natíska. »Aký   bude na teba, keď na syna je takýto? A tu doma ako je dohre. Sťa   vtáčaťu v teplom hniezde. Stály pokoj, nikdy nič takého, ako u   Sýkorov. »A ak i on bude taký, ak chytí stranu otcovi?« Sedí so   sklonenou hlavou, odvracia sa, hádam plače. »Nie, nebude taký — on je   inakší,« vraví jej vlastný cit. Veď sám sa desí, čo sa u nich robí.   Uteká z domu. Nie, on je už nie Sýkora — on už nasiakol Zimovským   duchom.
+    </tei:p>
+    <tei:p>
+     »Vidíš, takí sme my, takí!« zvolal náružive. »Len či sa i mňa   nebojíš?«
+    </tei:p>
+    <tei:p>
+     Odpovedala mu pohľadom, z ktorého vyčítal oddanosť. »Netráp sa   toľko. A vieš čo?« blesla jej nová myšlienka. »Poď na prístupky! Ako   to bude dobre!«
+    </tei:p>
+    <tei:p>
+     I jeho tvár prezradzuje milé prekvapenie. Tak sa rozuzlí všetko   prirodzene.
+    </tei:p>
+    <tei:p>
+     »A tvoj otec?«
+    </tei:p>
+    <tei:p>
+     »Pristane — oj, bude rád!«
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IV.
+    </tei:head>
+    <tei:p>
+     Rychtárka sa utíšila. Srdce otupelo, žiaľ ho toľme nerozjedá. Ale   aký to pokoj! Mrtvý! Vymrelo, čo bolelo najväčšmi. Život je zas v   starej koľaji. Nebadať na vonok, čo sa prihodilo. Žijú pred ľuďmi ako   predtým.
+    </tei:p>
+    <tei:p>
+     Ale muža strežie. Bojí sa, že príde do rečí. Nestalo sa nič   nového, ale ju to už neupokojuje. Tuší, že sa muž premáha,   pretvaruje; strežie na seba. Celý deň sedáva nad lajstrami, vypisuje   z nich čosi. O poľnú robotu málo sa stará. Je smutný, zamyslený.   Konečne sobral papiere, zaniesol do mesta. A vrátil sa k obvyklým   prácam. Bez toho ich je veľa.
+    </tei:p>
+    <tei:p>
+     Starý Ondráš Hôrka je všetkému vina. Páni predsa našli v ňom   choleru. Lomnicu sotili medzi obce nakazené. Každý deň prirajtuje   švárny pán »cholera-komisár«. A čo robí? Vypisuje, kto ochorel, kto   umrel. A že nemá koho vpisovať, robí krásne čiary v rubrikách svojho   »cholera-denníka«. Nezabudne poprosiť pani rychtárku, aby mu uvarila   dve-tri vajíčka. On zato jej nakvapká čohosi na handričku, čo vraj   zaháňa choleru. A zaháňa nielen choleru, ale i chuť do jedenia.   Rychtár zas pohodí jeho tátošovi chĺpok sena, alebo do meričky ovsa.   Evke tiež venuje pozornosť. Deň po deň jej skúma líčka, či nepobľadly   od cholery. I štípe ju po nich. Zahľadí sa jej i do očí — čo, ak   dakde na dne učupená je cholera! Raz ju vzal do náručia, tuho, tuho   stisol. Možno vyháňal choleru. Tiež objavil, že cholera sa vkráda   ústami — treba ich teda zamknúť. Bozkáva ju na ústa a verá sa, že   cholere porobil. Sám on si oblizuje gamby po takej porobenine.
+    </tei:p>
+    <tei:p>
+     Evke sa to všetko nepáči a najradšej ujde, keď čuje   cholera-komisára. Ale i občania šomrú.
+    </tei:p>
+    <tei:p>
+     »Pánovi i cholera na osoh. Zarába na nej, ako ty na koňoch.   Sedliak, plať, ak chceš chorieť.«
+    </tei:p>
+    <tei:p>
+     No úrady robia predsa, čo môžu. Pravda, iba čo môžu. Tu je už nová   zásielka soli, bárs stará mokne dosiaľ v rychtárkinej dieži. I kurča   sa v nej utopilo. Túto už nemočí, hodil ju pod posteľ. Prišiel nový   pak skleničiek. Leží v obecnej truhlici, zamknutý. Hajtman sa k nim   už dobíjal, kvapky sú vraj tuhšie od pálenky, tedy i lepšie. Každý   skoro týždeň príde slúžnodvorský s pandúrom, či je všetko dľa   predpisu. Najal i dvoch opatrovníkov, čo budú chorých liečiť, mrtvých   obliekať.
+    </tei:p>
+    <tei:p>
+     Ťažko ich bolo nájsť, bárs plat bol veliký. Ale konečne sa dali   naviesť Jano Lukáč a Ondro Hnátik. Oba moc pijú, moc fajčia, žujú   močku a pracujú okolo dubu. Aby choleru ešte väčšmi prestrašili   vôňou, akú rozširujú, strovia každé ráno po hlávke cesnaku.
+    </tei:p>
+    <tei:p>
+     Raz sa doviezol do dediny sám pán fysikus a s ním páni v   okuliaroch i bez okuliarov. Samí doktori! Prezerajú dvory a v nich   všetky kúty — vari hľadajú, kde cholera čupí. Pán fysikus je hrozne   prísny, k tomu má palicu v ruke. Sťa by hovoril: »Poď len, poď — však   ťa ja vyplatím!«
+    </tei:p>
+    <tei:p>
+     A cholery v Lomnici nemáš. Naľakala sa buď slúžnodvorského,   vlastne pandúra s flintou, buď Lukáča a Hnátika, vlastne vône, čo sa   vláči za nima, buď pána fysikusa a ostatných prísnych pánov, buď   konečne pána komisára, vlastne paus, čo tak šikovne zanáša do   lajstra.
+    </tei:p>
+    <tei:p>
+     Prvý strach prešiel, ľud sa spamätal, robí si žarty. V okolitých   dedinách hlahol zvonov. Ako dobre v Lomnici! Ako v inom, veselom   dákom svete. Jediný pán učiteľ je nedôverčivý. Nedá sa už cholere   prekabátiť! Pripravuje sa k jej vhodnému uvítaniu: robí verše   anticipando; kto umre, umre na hotovô. On to už tak šípi, kto tak asi   najskôr pôjde.
+    </tei:p>
+    <tei:p>
+     A razom prestalo sa o cholere hovoriť, na ňu mysleť. Prišiel od   stolice úradník, dal svolať boženíkov a predložil im účty rychtárove   z minulých piatich rokov.
+    </tei:p>
+    <tei:p>
+     Veru tak! Zima je už druhý turnus rychtárom. Účty zavisly. Nenašlo   sa v dedine človeka, čo by bol na ne natískal. Vedelo sa, že obci   príde doplácať — nik nebol na ne zvedavý. A u Zimu bolo ešte horšie.   Štedré oldomáše, reparácia mlynov, školy, jazov, ciest — to všetko sa   nevie, kto a kedy zaplatil.
+    </tei:p>
+    <tei:p>
+     Prísažný riekol slovo, ktoré šlo všetkým zo srdca. »Poctivá obec!   My vieme, náš rychtár gazdoval rúče. Kohože iného budeme voliť, ak   nie jeho, keď ho všetci radi vidíme! I tie počty môžu ešte ten rok   počkať a na rok ich prijmeme: aspoň budú na šesť rokov, do páru. Lebo   vieme, že sú spravedlivé.«
+    </tei:p>
+    <tei:p>
+     Vicerychtár Sýkora odpľul si zlostne. »Maly by sa odobrať, maly «   riekol určite. »Kamaráti buďme a dlhy si plaťme.«
+    </tei:p>
+    <tei:p>
+     »Ale keď máme v rychtárovi dôveru!« ozval sa ktosi od pece.
+    </tei:p>
+    <tei:p>
+     Zima je ako stena. To je každý rychtár, keď predkladá na stôl   účty. Rozčervená až potom, keď sa číta punkt za punktom a boženíci   začnú híkať, hlavou krútiť, odpľúvať.
+    </tei:p>
+    <tei:p>
+     »Slávna obec!« začína rychtár rozochveným hlasom. »Zreď dum tvuj,   nebo umreš! Tak vraví prorok Izaiáš králi Ezechiášovi. Ja sa toho   držím, lebo neviem, či zajtra budeme žiť. Vidíme najlepšie, čo sa v   okolitých obciach robí, a netrúfam, že by nás obišlo. Kto vie, či na   takto rok budeme spolu? A ja chcem vydať počet zo svojho šafárstva   pred vami; vy ste vedomí, či je tak alebo nie tak, ako v počtoch   stojí. Ja mám ženu a dieťa,« — tu vtiahol dych pomedzi zuby a hľadí   ku kuchyňským dverám, či sú nie odchýlené a nepočúva dakto za nimi, —   »tiež som človek smrteľný, tak by moja žena i dievka prišla do   velikej škody, ak by sa ja vyvalil. Kto by potom zastupoval vdovu   pred obcou?«
+    </tei:p>
+    <tei:p>
+     Boženíkom ovisly hlavy. Predsa teda ich to neminie! Bojuje s ním   kráľ Ezechiáš — a to je mocný kráľ. Nemáš v Písme miesta, čo by kráľa   Ezechiáša odzbrojilo. Veď ani testament neobíde sa bez neho. Hneď za   Trojicou svätou nasleduje: »Majíce pred očima krále Ezechiáše a   proroka Izaiáše, který praví: Zreď dum svuj, nebo umreš! nejináče i   naši vlastnú smrtedlnosť a pominutedlnosť, činím túto poslední   vůli...«
+    </tei:p>
+    <tei:p>
+     A hľa, predsa jest bohatier, čo sa ešte nebojí: bývalý rychtár   Záruba. Vytriasol popol z fajky, hodil klobúk do tyla, utrel ústa,   aby z nich šla reč čistá a spravedlivá, a začal:
+    </tei:p>
+    <tei:p>
+     »Ja tiež mám ženu a deti. Jeden syn slúži cisárovi!« — tu sa   buchol päsťou do hrudi, — »na tých tiež musíte mať oko, ešte skôr,   ako na dievku. Dievka sa vydá, ak je len nie krivá, alebo ak sa   nepotkne. I vaša, rychtár môj drahý, sa vydá, lebo už má hodného a   statočného frajera, ako to všetci vieme, nakoľko i vicerychtár, ako   otec, sedí medzi nami vo vašom poctivom príbytku. Ten nech sa   osvedčí, či vravím pravdu alebo nepravdu, lebo nerád vypustím márno   slovo z úst, ako sa hovorí, že vtáka poznáš po perí a človeka po   reči.« Tu sa Sýkora zahniezdil, ako by mu bolo tesno a hodil čiapku   na druhé ucho. »Nech jej len Pán Boh pomáha, ja to vinšujem a žiadam,   lebo je dievka hodná a kaľavná i poriadne si vedie, že nik nič nevie   do nej. A preto ja povedám, že prvej treba na príklad odobrať moje   počty, lebo ja som za tie tri roky škodoval vyše ôsmich stovák   a...«
+    </tei:p>
+    <tei:p>
+     »Ba kebys’ necigánil!« zahriakol ho ktosi od pece.
+    </tei:p>
+    <tei:p>
+     »Len si počkaj ešte — počkaj!«
+    </tei:p>
+    <tei:p>
+     »Berko — kotlošiť za naše mozole!«
+    </tei:p>
+    <tei:p>
+     Nesmierna haravara. Päste nad hlavami, hrozia Zárubovi. Ten stojí,   odpľúva si a čaká. Myslí si: »Veď kedysi zatíchnete!« A naozaj   boženíci zatíchli a sadli na miesta.
+    </tei:p>
+    <tei:p>
+     »...a povedám,« pokračuje Záruba, »nevidím dodnes šajnového groša   od obce. A tak ja pýtam, čo je moje, a keď mi dáte, potom musíte   prisúdiť i rychtárovi, lebo my nemôžeme škodovať, čo na obec   išlo.«
+    </tei:p>
+    <tei:p>
+     »Nám, ľaľa, minca bije!«
+    </tei:p>
+    <tei:p>
+     »Bolo si vtedy vystíhať!«
+    </tei:p>
+    <tei:p>
+     »Ani babky! Chlapi, poďme!«
+    </tei:p>
+    <tei:p>
+     O počtoch sa už nehovorí. Chlapi sa vytratili a za nimi i stoličný   pán. V izbe zostal sám rychtár so Sýkorom. Ale Sýkorovi tiež je akosi   náhlo, berie sa domov.
+    </tei:p>
+    <tei:p>
+     »Ale už idete?« pýta sa ho. Čosi iného chcel povedať, ale zaviazlo   mu to v hrdle.
+    </tei:p>
+    <tei:p>
+     »A načo som?« hodil hlavu medzi plecia, kosom hľadí k peci.   Nepozrel by za svet rychtárovi priamo do očí.
+    </tei:p>
+    <tei:p>
+     »Takto neuznať. Veď sú to moje peniaze. Sedem stovák skoro!«
+    </tei:p>
+    <tei:p>
+     »Sedem stovák!« A ihrá mu výsmech na tvári. »Sedem groší nedám za   ne. Sedem groší!«
+    </tei:p>
+    <tei:p>
+     »A čo — budem ich ja škodovať?«
+    </tei:p>
+    <tei:p>
+     »Hm,« rozhodil ruky a naklonil hlavu. »Teraz už neviem. Radilo sa:   gazdovať, nereparovať, nevydať ani babky zo svojho, rok s rokom robiť   komput. Neslúchlo sa — teraz už neviem...«
+    </tei:p>
+    <tei:p>
+     »A vy sa hneváte!« dohovára mu Zima.
+    </tei:p>
+    <tei:p>
+     »Ja? Nebude moja škoda.« A položil ruku na kľučku.
+    </tei:p>
+    <tei:p>
+     »A naše deti?« Vyriekol konečne, čo mal na jazyku.
+    </tei:p>
+    <tei:p>
+     »To je iná vec. Čo som podpísal, zaplatím. To hej. Ale cudzie dlhy   — coky!« otvoril prudko dvere a odišiel.
+    </tei:p>
+    <tei:p>
+     Zostal sám, ako palec. Na rukách ho nosili, natískali sa mu, kým   čuli dačo uňho. I Sýkora nikdy nevylial, keď sa mu nalialo. A tu   uskočia všetci, vytiahnu sa zpod zodpovednosti. Hľa, on slúžil obci   úprimne a za to má trpký nevďak. Zažialil nad mrzkosťou ľudskou, nad   sebectvom hrubým — zažialil i nad svojou ochotou k obeťam. Tu prvý   raz sa sklamal v tom, čo pevne veril — v priazni sveta. Sadol k stolu   a zahrabal hlavu medzi dlane.
+    </tei:p>
+    <tei:p>
+     Žena netuší, čo za starosti doľahly naň. Vie, že Sýkora odišiel   namrzený. Rada by vedieť, prečo; či vari by Sýkora už vedel, čo ona   vie?
+    </tei:p>
+    <tei:p>
+     Zdá sa jej, že muž na čomsi sa ustálil. Badá na ňom nepokoj. Ó,   vidí, že má čosi za lubom; nespúšťa ho s očí.
+    </tei:p>
+    <tei:p>
+     Keď umývala riad, začula, že ide ktosi z izby. Srdce jej   zabúchalo. Pálčivú bolesť cíti v prsiach, tá rozlieva sa celým telom,   kolená sa trasú. »Teraz sa to stane — teraz!« hovorí jej   predtucha.
+    </tei:p>
+    <tei:p>
+     Vrzly na humne vráta, bárs opatrne otvárané. Už i ona sa berie, do   humna, do sadu. Nad ňou sa kníšu konáre, obťažkané ovocím, pod nimi   tma černejšia, než inde. Všetko ako by žilo, tie stromy dýchaly, ako   by si šepkaly tajomstvo, to isté, čo ju dlávi, kruší.
+    </tei:p>
+    <tei:p>
+     Utrela pot s líca, načúva. Čuť kroky. To on. Vyšiel na miesto,   osvietené mesiacom. Ako ide, ako sa zakráda! Prečo nejde záhumním,   chodníkom; prečo presadzuje ploty? Či to môže byť spravedlivá   cesta?
+    </tei:p>
+    <tei:p>
+     Koľko preskočila plotov, koľko ju šiblo tŕňov a šípov, sama nevie.   Humnom sa vkráda do dvora — už ho tam niet. Letí k domku, váha, či   vojsť, či nevojsť. »Nie, ešte nie — potom...«
+    </tei:p>
+    <tei:p>
+     Stala si pod oblok, hľadí do izby. Izba veľmi pekná, čistá. Milo   posedeť v nej! On sedí pri stole, pred ním stojí vysoká, urastená   žena. »Aká je pekná!« soznáva sama. »Pozri, aká mladá ešte, ako sa   nosí! A ty sa chceš s ňou merať!« Naozaj nemyslela, že Masliačka je   taká pekná. A tá červená šatôčka okolo hrdla, tie nadudané rukávy na   oplecku! Švárna ženská!
+    </tei:p>
+    <tei:p>
+     Díva sa na ňu, trpí veľké muky. »Tu nič nepočuť, a predsa treba   počuť...« Zakráda sa do pitvora, chúli sa k dverám, ktoré sú nie   privreté. Čuť každé slovo.
+    </tei:p>
+    <tei:p>
+     »Keby rychtárka vedela,« čuť Masliačku z izby, »keby   vedela...«
+    </tei:p>
+    <tei:p>
+     »Čida viem! Viem, chvalabohu, viem.«
+    </tei:p>
+    <tei:p>
+     »Tú by porazilo od jedu...«
+    </tei:p>
+    <tei:p>
+     »Bodaj by teba, teba!«
+    </tei:p>
+    <tei:p>
+     »Toto je just tak, ako keď sa chodievalo do Sklenárov. No nie?«   Samopašne sa rozosmiala. »To boly časy! Iba že starý Sklenár bránil   bláznivej Katrene mať spolky so Zimovie Janom. A na jeho vyšlo, tak   ako prorokoval. Šiel do Kubišov — dostal bohatstvo a ja opustená v   kúte...«
+    </tei:p>
+    <tei:p>
+     Nastalo ticho. Rychtárka odchýlila dvere a pozerá. Ona stojí pred   ním, on sedí so sklonenou hlavou.
+    </tei:p>
+    <tei:p>
+     »Takto ste vy nesedávali!« hovorí ona zas veselo. »Ako ste sa   vedeli zaliečať a sľubovať, božiť sa! Kto by nebol uveril? A ešte   taká bláznivá Kata, ako ja! Potom som zmudrela — potom. Keď už bolo   neskoro.« Nevidno na nej všetečnosti. Hovorí z nej hnev. »A svoje   dieťa odtajiť — svaliť všetku vinu na mňa. Či vám nebolo ľúto?«
+    </tei:p>
+    <tei:p>
+     On sedí, ako by bol skamenel. Kto vie, čo sa v ňom robí, čo cíti.   Tvár ovisnutá je v tôni; nevidno; čo za hra na nej.
+    </tei:p>
+    <tei:p>
+     »Pán Boh vás našiel. Za moju krivdu. Učí vás, čo je hanba: ale čo   je to za hanba proti mojej! A čo by ste šli po žobraní — i to by   nebolo nič...«
+    </tei:p>
+    <tei:p>
+     On bubnuje prstami na stole. Podvihol tvár, je bľadá. »Nuž,   neočíšťam sa,« vraví hlasom pohnutým. »Darmo je — zaslúžil som. Ale   prečo si mi to dávno nepovedala? Prečo si mlčala, iba dnes   takto...«
+    </tei:p>
+    <tei:p>
+     »Preto, lebo by ste ma neboli počúvali. Oj, dávno som ja chcela   toto povedať a ešte iné. Ale som čakala, kým príde tvŕdza na vás,   najhoršia. Človek bohatý pustí uchom dnu, druhým von: ale v kríži   uzná skorej, čo porobil. Preto som mlčala.«
+    </tei:p>
+    <tei:p>
+     »Nuž dobre, ja uznávam. Ja som hotový i do kríža — zaslúžim. Ale   mám ženu, dieťa — na tie maj zreteľ. Moja dievka — čo ti urobila? Ak   budeš žalovať, hanba padne na ňu. Príde o šťastie, Sýkora sa odhodí.   Pomysli si, čo z toho bude.« Hovoril tak pokorne, ako ho žena ešte   nepočula. Je ako by putá padly s nej. Vydýchla a so slzami počúva,   ako on prosí i za ňu. Nenazdala sa, že on je takýto.
+    </tei:p>
+    <tei:p>
+     »To ju ja budem vydávať!« okríkla ho Masliačka. »Mater má boháčku.   Nech už pohne tie staré rynštiaky! Má ich vraj pol miery, či koľko.   Veď si ona i vedie! Nuž spravedlivá, sťa ten fariseus. Ani v kostole   sa mi nepomkla: kdeže, ona svätá, a ja... Môj syn umrel bez otca, ja   šla bez party pred oltár: a ja jej dievku vtisnúť do teplého hniezda!   Sem musí prísť, prosiť, na kolenách...«
+    </tei:p>
+    <tei:p>
+     Rychtár vstal a riekol: »Moja nebola nikdy taká. To je nie pravda.   Kebys’ vedela, nerobila bys’ toto. Poshovej aspoň do takto roka, ja   vyplatím všetko. Ako ti to srdce dopustí...«
+    </tei:p>
+    <tei:p>
+     Rychtárka vstala. Je veselá, bez starosti. Ako ju on môže tak   prosiť? Ako sa tak súžiť — pre peniaze!
+    </tei:p>
+    <tei:p>
+     Vstúpila do izby. Masliačka očervenela, ale nehľadí na ňu.
+    </tei:p>
+    <tei:p>
+     »Čo tu hľadáš?!« osopil sa muž. Je v zlom položení, v akom ešte   nebol. Prvý raz sú obe zoči-voči, on medzi nima. Ako by padol s neho   závoj, čo všetko ukrýval: a on stál pred prísnym súdom. Hriech stojí   pred ním celý, nahý, jeduje sa sám na seba, a jed prenáša na   ženu.
+    </tei:p>
+    <tei:p>
+     »Ale starý, poď. Poďme domov,« vraví mu ona dôverne, milo. Čo sa   to s ňou robí? Takto ju od rokov nevidel. »Poď domov, poradíme   sa.«
+    </tei:p>
+    <tei:p>
+     »A vieš, v čom sme?« pýta sa jej, červený od studu.
+    </tei:p>
+    <tei:p>
+     »Veď si ty len blázon!« zvolala veselo.
+    </tei:p>
+    <tei:p>
+     »Akú ja mám ženu,« myslí si on, hľadiac na ňu. Srdce jej skáče pod   tým pohľadom. Už ho zase má, podmanila si ho, kúpila jeho dôveru. A   jemu tiež padá ťarcha so srdca. Ako by už bol osvobodený,   spasený.
+    </tei:p>
+    <tei:p>
+     »Prosiť sa kadekde!« vytýka mu dôverne, žiariac blahom.
+    </tei:p>
+    <tei:p>
+     Masliačka chápe, čo sa tu odohralo. Prehrala. Chcela srútiť   rychtársky dom, a pod srúcaniny pochovať blaho domu. A hľa, zo   srúcanín vyrastá nové blaho, jasnejšie.
+    </tei:p>
+    <tei:p>
+     »A kde ti pomôžu?« pýta sa jej muž.
+    </tei:p>
+    <tei:p>
+     »Tu nie — tu nie!« volá ona víťazne. »Tu nemáš čo hľadať.«
+    </tei:p>
+    <tei:p>
+     Masliačku to bolí. Tá hrdosť ju uráža, raní. »Nie, ešte sa my   vidíme, ešte!« volá za nimi do pitvora.
+    </tei:p>
+    <tei:p>
+     »Kedykoľvek!« odpovedá jej rychtárka.
+    </tei:p>
+    <tei:p>
+     Masliačka ostala sama. Rychtár vykračuje si ľahko popri žene.   Polovicu starosti složil žene na plecia.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V.
+    </tei:head>
+    <tei:p>
+     U rychtárov je pokoj, tichá, skromná radosť. Srdce sa pritúlilo k   srdcu — hotové do boja a k obetiam. Na vonok je tak, ako bývalo, ale   dnuka — tam je obnova. Len po velikých otrasoch srdce je schopné   takých radostí.
+    </tei:p>
+    <tei:p>
+     »A koľko sme jej dlžni?« pýta sa rychtárka o dakoľko dní. Dosiaľ o   tom mlčala.
+    </tei:p>
+    <tei:p>
+     »Chcel som ti už dávno rozpovedať, ale sa odkladalo. Bolo ťažko, i   hanba. Trúfal som, že uvediem to sám do poriadku, že ty ani nezvieš.   Ale vieš, čo obec: počty mi zostaly na hlave, ja som zaviazol.«   Zamlčal sa, ťažko sa mu premôcť. »To je trest od Boha: a to dá i na   vás. Grunt bol čistý, máš na ňom machuľu. Pravdu mal tvoj otec —   vieš, ako bránil!«
+    </tei:p>
+    <tei:p>
+     »Veď dlhy majú i iní...«
+    </tei:p>
+    <tei:p>
+     »Ale nás mohly minúť, mohly. Moja ľahkomyseľnosť — nič iné.   Požičiaval som, obci dával.«
+    </tei:p>
+    <tei:p>
+     »Ja len: prečo od nej?«
+    </tei:p>
+    <tei:p>
+     »To je ten trest. Tri roky na Jozefa minulo, keď som padol do   toho. Šiel som z jarmoku, predal som voly. V kapse bolo vyše dvoch   stovák. Stavili sme sa na mýte. Ako, ako nie, peňazí som už nemal.   Rozhlásiť, že mi zhynuly — hanbil som sa. Tak na nešťastie stretol   som ju. Rozum zatemnený, zdôveril som sa — požičala.«
+    </tei:p>
+    <tei:p>
+     »A mne si tajil!«
+    </tei:p>
+    <tei:p>
+     »Takveru. Dakedy sa sveriť radšej cudziemu. Povedám, od Boha!   Potom som už vynášal stovku za stovkou, keď bolo treba. Iba keď toto   prišlo.«
+    </tei:p>
+    <tei:p>
+     Zamyslel sa, díva sa na minulosť tú dávnu. Obracia tú knihu   stránku za stránkou. Na jednej veliká machuľa. Nemožno ju sotreť. A   tak dlho zabúdal na ňu! Bol celkom ubezpečený, že machuľa je   zahrobená.
+    </tei:p>
+    <tei:p>
+     »A je to moc?« pýta sa nesmelo.
+    </tei:p>
+    <tei:p>
+     »Vyše päťsto.«
+    </tei:p>
+    <tei:p>
+     »Ja že viac!« zvolala ako mile prekvapená. A ono nečakala toľkú   summu. »To ešte zdolieme...« On sa chytil za hlavu, ako by chcel z   nej vyhnať, čo ho súži. »Neber si to tak k srdcu. Naše gazdovstvo   unesie...«
+    </tei:p>
+    <tei:p>
+     »Ale hanba, to! Pošle exekúciu. Ja ako ja, ale dievka! Na nej sa   to spráši. Sýkora zvie — oj, ten nemá citu!«
+    </tei:p>
+    <tei:p>
+     Ona sama tiež stŕpa, ale sa premáha. »Veď i tebe sú dlžní. Peniaze   šly na obec, a tá uzná. Nuž nie je to toľká hanba. A dievča« — tu jej   chcel zlyhať hlas, ale ona mu nedovolila — »to, ak mu je súdenô,   poručeno Bohu. I druhé sa nevydaly. Ale ešte je nie tak: povedz,   koľko sa vydalo chudobnejších.«
+    </tei:p>
+    <tei:p>
+     V ten istý večer prišiel Jurko a s ním Eva, veľmi vyplakaná.
+    </tei:p>
+    <tei:p>
+     »Jurovi zakázali chodiť do nás.« Viac už nemôže preriecť.
+    </tei:p>
+    <tei:p>
+     Rychtár sedí zronený, hľadí na ženu, ako by vravel: »Vidíš, či som   nepovedal?« Uspokojuje ho akosi, že sa nesklamal v Sýkorovi starom.   Ona je skľúčená. Predsa to prišlo trochu náhlo. Bolí ju, keď vidí   deti svoje, ktoré tak miluje, v takom kríži.
+    </tei:p>
+    <tei:p>
+     »Otec už vie?« pýta sa rychtár, okúňajúc sa mu pozreť rovno do   očí.
+    </tei:p>
+    <tei:p>
+     »Dnes popoludní bola Masliačka u nás. Ja som ani počúvať nemohol,   čo rozprávala. Šiel som do dvora. Bola dosť dlho. Potom otec mi   zakázal, že vraj...« trhol sa a zamlčal vzdorné.
+    </tei:p>
+    <tei:p>
+     »A tys’ prišiel!« zvolal rychtár.
+    </tei:p>
+    <tei:p>
+     »Kto mi rozkáže?!« zvolal prudko a oči mu zasvietily. »Dva roky   nemali nič proti tomu, iba teraz naraz... A ja musím slúchnuť? Radšej   pôjdem do služby, do najhoršej. To je nie dom — to je peklo!« Hlas mu   zaskočil, oči zvlhly slzami. Eva hľadí naň s akýmsi obdivom. On ju   vidí cez slzy a krv sa mu pení, že ho chcú od nej odtrhnúť. »Všetko   pre peniaze! Jana vyhnali pre peniaze, teraz mne takto... A abych si   vraj vzal ju — Masliačku! Nech čert vezme všetky, do krajciara. Nie   sú hodny!«
+    </tei:p>
+    <tei:p>
+     »Azda sa dá ešte nakriatnuť,« tíši ho rychtárka.
+    </tei:p>
+    <tei:p>
+     »Skôr tento stôl — keď už mám hrešiť. Ten má viac citu!«
+    </tei:p>
+    <tei:p>
+     »Musíš mať trpelivosť.«
+    </tei:p>
+    <tei:p>
+     »Kto jej má viac? I na anjela moc. Nie — ja tam nebudem!«,
+    </tei:p>
+    <tei:p>
+     »Veď ti je otec.«
+    </tei:p>
+    <tei:p>
+     »Keď mi neuznáte! Co sa ja nazjedám. Všetko dusím v sebe, hanbím   sa požalovať. Nik nevie — nik! Iba jemu príde kedysi na um — ej, dá   Pán Boh!«
+    </tei:p>
+    <tei:p>
+     Rychtár zatína päsť. Ach, keby tak mal peniaze, či by ich   zahanbil. Ako by sa skrúcal pred ním, sťa prišliapnutá zmija. Ale kde   sú peniaze? Hanba, sám si odhodil jedinú zbraň, nemá čím bojovať.
+    </tei:p>
+    <tei:p>
+     Jeho žena je zamyslená; kto vie, čo tá zase varí.
+    </tei:p>
+    <tei:p>
+     Počuť búchať na oblok. Všetci sa splašili.
+    </tei:p>
+    <tei:p>
+     »Rychtár, a ste doma?« čuť zpod obloka trasľavý hlas. »Bože, náš   Juro leží. Duša na jazyku!«
+    </tei:p>
+    <tei:p>
+     »Ktože si?« volá rychtár strmo.
+    </tei:p>
+    <tei:p>
+     »A ma nepoznáte? Ja.« V obloku sa černie dlhá rada a svieti pára   čiernych očí.
+    </tei:p>
+    <tei:p>
+     »Mojžiš!« diví sa rychtár a otvára oblok. »Čo nejdete dnu?«
+    </tei:p>
+    <tei:p>
+     »Nemôžem. Idem od cholery. A náš Juro je vystretý. Pásol kone a   večer nechodil. Šli ta — kone v trojke — veliká škoda! Trojku vypásly   a náš Juro umreť ide!«
+    </tei:p>
+    <tei:p>
+     »A kde leží?«
+    </tei:p>
+    <tei:p>
+     »Na posteli, v stajni.«
+    </tei:p>
+    <tei:p>
+     »Nie mu je zima?«
+    </tei:p>
+    <tei:p>
+     »Statok nadýcha. Tam je i horúce.»
+    </tei:p>
+    <tei:p>
+     »Dajte ho do perín. Trieť ho treba a kvapák na cukor. I tam z   dieže si naberte do hrnca.«
+    </tei:p>
+    <tei:p>
+     »A to bude moc koštovať?« pýta sa dôverne. »Ak trafí umreť! Plácu   vybral — do ’ších svätých zaplatenô. A ešte iba Vavrinca! A čo ja bez   Jura? Jednoho ovsa v záčine — bohuprisám, všetko na koreni a na   radku! Kosiť, hrabať — ajaj! A ak umre, ten nesmie ležať u mňa.«
+    </tei:p>
+    <tei:p>
+     »Ešte vari neumrel.«
+    </tei:p>
+    <tei:p>
+     »Ale pôjde! Do gruntu dobrý sedliak bol. Ja ho nemôžem riadiť. Ja   mám deti...«
+    </tei:p>
+    <tei:p>
+     »Choďte si po Lukáča a Hnátika.«
+    </tei:p>
+    <tei:p>
+     Mojžišova tvár zmizla z okna. Po ňom zostalo iba zdesenie.
+    </tei:p>
+    <tei:p>
+     Na druhý deň po obede rychtárka vybrala sa k Sýkorovi. Nepovedala   nič nikomu.
+    </tei:p>
+    <tei:p>
+     S velikou nechuťou ide k nemu. Nikdy ho nemala rada, vždy sa   musela tuho premáhať, aby ho trpela. Každé slovo od neho ju urážalo.   Ale mať za deti postúpi i smrť. Jej i táto obeť je ľahká.
+    </tei:p>
+    <tei:p>
+     Na ten dom nik by nepovedal, že býva v ňom najbohatší gazda. Ani   hofier by v ňom neobstál. Štít ako by sa noril do zeme, i na bok je   hodne naklonený. Dvor je veliký dosť, ale tônistý. Zdá sa tesný —   zaprataný je drievím a ráždím. Dolu ním tečie jarok a rozširuje   zápach na všetky strany. Zarastený je teraz koňským štiavom a   lopušinou. Z jari kvitne na ňom záružlie. Rychtárka sa veľmi   neobzerá. Ide rovno do pitvora. Búšil ju do nosa zápach   príkro-sladkastý, smiešaný s potuchlinou. Ťažko jej je nezutekať.
+    </tei:p>
+    <tei:p>
+     Tu vyšiel Sýkora z izby a postavil sa pred ňu. Z neho ide tiež ten   divný zápach. Zdá sa, že na vlasoch je to nie srieň staroby, ale tiež   plesnina. Usmial sa, aspoň hľadel sa usmiať.
+    </tei:p>
+    <tei:p>
+     »Čože nám nesiete?« pýta sa. Ako by ozaj striehol, že rychtárka   vytiahne dačo zpod vizitky. »Dnuka vás ani nevolám. Ešte sme   nevyriadili.«
+    </tei:p>
+    <tei:p>
+     »Ako to len môžte!« zvolala rozhorčená. Zabudla sa premôcť.
+    </tei:p>
+    <tei:p>
+     »Už sa privyklo. Vdovec — a slúžku držať, to ti nedochodí. Trápiš   sa, ako môžeš. Sami len — ja v gazdovstve, Juro okolo domu.«
+    </tei:p>
+    <tei:p>
+     Kuchyňskými dvermi valí sa hustý dym, ťahá sa rovno na pôjd.
+    </tei:p>
+    <tei:p>
+     »Vari pečiete?« zvolala rychtárka zvedavo.
+    </tei:p>
+    <tei:p>
+     »Prirobil som dneska ráno. Neviem, či sa vydarí. A v izbe sušíme   kože.«
+    </tei:p>
+    <tei:p>
+     »Čo za kože?«
+    </tei:p>
+    <tei:p>
+     »Mojžiš ma pýtal. Čo urobíš, keď ťa prosí? Ja som taký blázon! A   smrad ide z nich, sadá na pľúca.«
+    </tei:p>
+    <tei:p>
+     Ona mlčí. Nesmierne sa jej to hnusí všetko. A sem má vydať svoju   dievku? Jedináčku, vychovanú v čistote a pohodlí. Ako tá vydrží   pozerať na toto, počúvať takéto reči! Aká to priepasť medzi nimi a   týmto človekom! Nie, sem nemôže ísť jej dieťa. Skôr vytrhnúť i Jurka   z tohto pekla.
+    </tei:p>
+    <tei:p>
+     Sýkora možno šípi, aké muky znáša jeho hosť. Vyviedol ju pod   cieňu. Cieňa predsa nie je tak strašná, bárs je zaprataná   drievím.
+    </tei:p>
+    <tei:p>
+     »Ja som sa prišla spýtať, prečo bránite synovi chodiť do nás,«   začala hneď, ako sadla na brvno. Je červená. »Včera prišiel celý   premenený. Ledva sme ho utíšili.«
+    </tei:p>
+    <tei:p>
+     Sýkora odhodil prívetivosť. Iba mu zavadzala. Jeho sivé oči   posmešne obrátily sa na rychtárku. »Len tak,« odsekol, pohodiac   hlavou. »Čo má tam chodiť!«
+    </tei:p>
+    <tei:p>
+     »Hádam sa naučí neporiadku, nečistote!« zvolala rozhorčená. A   obzerá sa s výsmechom dookola. »A či ho búrime proti vám?«
+    </tei:p>
+    <tei:p>
+     »U vás sa nemá čo učiť. Pansky žiť, dlhy robiť — nám to netreba.   My sme chudobní, žijeme, ako môžme. Ale vždy na svojom, to je   pravda!« Doložil to povýšeným hlasom.
+    </tei:p>
+    <tei:p>
+     »Keby nebolo dlžníkov, nebolo by ani úžery.«
+    </tei:p>
+    <tei:p>
+     Sýkora sa usmial potupne a mrdol plecom.
+    </tei:p>
+    <tei:p>
+     »A vy nebudete naše dlhy platiť.«
+    </tei:p>
+    <tei:p>
+     »Ani sa nenúkam.« A rozosmial sa. »Kdeže ja! Ale platil by mladý,   keby starého čerti vzali. Potom už hej. Zabudlo by sa, že peniažky sú   z úžery.«
+    </tei:p>
+    <tei:p>
+     Rychtárka vstala. Tak jej je, ako by jej napľuli do tváre.
+    </tei:p>
+    <tei:p>
+     »Veru zabudlo — hehehe! A povstal i on. »Viem ja už tie   chodníčky.«
+    </tei:p>
+    <tei:p>
+     »A teraz vám už poviem do prosta. Váš syn bude chodiť do nás.«   Trasie sa na celom tele. Ani nie tak reči, ako posunky starého ju   rozjedovaly. A k tomu vedomie slabosti.
+    </tei:p>
+    <tei:p>
+     »Ako chce. Jedna cesta hore, druhá dolu. Ale sem nech nekročí ani   nohou!«
+    </tei:p>
+    <tei:p>
+     »Bolo by mu veru škoda. Tu nech býva jeho otec hlavný a Mojžišove   kože.«
+    </tei:p>
+    <tei:p>
+     »O mňa ako o mňa,* odpovedá on, keď už vyšli zo dvora, »o mňa sa   vy netrápte. Ale dievku si strežte!«
+    </tei:p>
+    <tei:p>
+     »Čo vás do mojej dievky!« A zastala pred ním, rozhnevaná.
+    </tei:p>
+    <tei:p>
+     »Nech sa jej to nepridá, čo Masliačke. Je z takej krve...«
+    </tei:p>
+    <tei:p>
+     Rychtárka pobľadla, ako by ju bol búšil do hlavy. »To vám nikdy   nezabudnem — toto už nie!« Oči sa jej zalialy slzami.
+    </tei:p>
+    <tei:p>
+     »Ono, veľká starosť!« A začapil dvere.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VI.
+    </tei:head>
+    <tei:p>
+     Darmo nosil kvapky náš Mojžiš, darmo núkal Jura polievkou, ktorú   sama pani Karolína varila; darmo lial doňho veľkonočnú borovičku;   darmo ho obdaril mäkkou hlavnicou; všetko darmo.
+    </tei:p>
+    <tei:p>
+     Juro nepomyslel, že veľa ovsa i jačmeňa jest na koreni, že   Mojžišovi spraví daromné trovy, ba že mu preriedi požehnanú famíliu.   Juro ako vždy, myslel i v chorobe hrozne málo a teraz už prestal   načisto. Ako vyšla hviezda a Mojžiš zasadol so svojimi k šabesnému   stolu, Juro bez rozmyslu odpratal sa na iný svet. Mojžiš iba zdupnel,   keď nad ránom našiel osinuté mrtvé telo. Lukáč a Hnátik zmizli,   nemajúc tu čo hľadať. Mojžiš beží k rychtárovi, beží kto vie ku komu   — nikto nechce mrtvé telo nikam presťahovať. Tam ležalo, kým Mišo a   Paľo shlobili truhlu.
+    </tei:p>
+    <tei:p>
+     Keď bola hotová, sám Mojžiš kládol do nej Jura. Lukáč a Hnátik sa   prekryli kamsi. Divákov dosť, ale ani jeden nemá sa k ničomu. Ba so   škodoradosťou hľadia, ako žid kladie do truhly kresťana.
+    </tei:p>
+    <tei:p>
+     »Ste vy kresťani!» karhá ich Mojžiš. »Kresťana si neratujú, musí   žid — takí kresťania!«
+    </tei:p>
+    <tei:p>
+     Bolí ho, že vymrel súcit zo srdca ľudu. Cíti sa opusteným, ozaj   cudzím. »Ja si ho obriadim, sám, ja — židisko!« kričí na ľud, čo sa   prišiel dívať. »Ja ukážem, že mám srdce, nie kameň...« Ani toto   nepreniklo nikoho. Sám musel Jura prenášať, iba Mišo čo mu ho pomohol   za nohy. I kone zapriahol a vyviezol truhlu do búdy na cmiteri. Viac   mrtvý, ako živý vrátil sa domov.
+    </tei:p>
+    <tei:p>
+     Táto smrť nezdesila tak veľmi. Juro bol z cudzej dediny — udalosť   sa nedotkla nikoho bližšie. Ale hneď sa rozhlásilo, že u Mojžiša zas   ktosi ochorel. Sám rychtár poslal k nemu Lukáča a Hnátika. Do krčmy   viac nikto nevstúpil. Ani sa nevedelo určite, čo sa tam robí. Iba vše   bolo počuť, že zas umrelo Mojžišovi dieťa a zase... Bolo ich veľa,   jedno ako druhé. Na pohrab sa im nechodilo. Sám Mojžiš odvážal si ich   nočnou hodinou do mesta, na cmiter vyvolených. Ale onedlho prišiel   zákaz, že sa to nesmie stať viac. To ho zabolelo, ako každého Israela   bolí, keď ho hatia plniť ako svedčí zákon. Vo vlastnej záhrade dal   kopať hroby a tie sa množily. Kto teraz videl Mojžiša, každý ho   poľutoval.
+    </tei:p>
+    <tei:p>
+     Choroba zapratala sa i do dediny. Vystúpila prudko, ukrutne. Lukáč   a Hnátik už nestačia všade. Do nakazených domov nejde nikto. A čo tam   hľadať? Skoro každý chorý umre. Rodinné sväzky sa uvoľnily. Každý   myslí na seba, modlí sa o seba. Ja, egoismus je to hrozný, kde beží o   život!
+    </tei:p>
+    <tei:p>
+     I v Lomnici sa už vyzváňa skoro celý deň. Cholera-komisár dochádza   každé ráno, je veselý a jarý. Iba nejedáva už vajíčka a nezanáša púhe   pausy do svojho denníka, ale naozajstné mená. Rychtár je celý deň na   nohách, nesmie sa ničoho štítiť. Roznáša kvapky, vodí doktorov po   domoch. Práca ostatná zaviazla. Kopa nevybavených listín zapaduje   prachom za rychtárskym zrkadlom.
+    </tei:p>
+    <tei:p>
+     Ľudia by ani nevedeli, čo sa robí u súsedov, lebo každý sedí doma   a čaká, čaká... Ale Durduľa udržuje styky medzi domami. Chodí od domu   k domu, lenže nesklbe husi. Kde gazdina leží, tam riadi kuchyňu a   sypáreň. Varí, smaží, škvarí sťa o fašiangoch — a najviac sama to i   poje. Časy má zlaté. Kde sa zjaví, s radosťou ju vítajú. Je ona živý,   pohyblivý pomník lepších časov, kde ľudia nebáli sa ľudí. Pritom sa   choroby nebojí, ani smrti. Jej zmužilosť dáva i iným odvahy.
+    </tei:p>
+    <tei:p>
+     Pribehla i do rychtárov.
+    </tei:p>
+    <tei:p>
+     »A ste zdraví, všetci? Toto je pád, toto je pád!« A vyratuje, kto   ochorel v noci, kto umrel, i kto umre. Vie i to! »Toto už ako by sa   blížil súdny deň. Bože Hospodine, v tom sme ešte neboli! A ešte sme   nie dobrí. Včera bol Svorčík u Sýkoru. Mal dva pohraby a i žena leží   a tiež pôjde. Pýtal si dvadsať striebra. Či mu ich dal? Ani babky —   nič! Musel mu jalovicu došikovať za ne. Hodna bola štyridsať: ale kde   ju predáš, keď sú jarmoky zapreté. Jalovica ako lasica — a dvadsať   striebra. To je úžerník! Stehlíčka šla si požičať mieru jačmeňa. On   ho má ešte lanský. Mentieku dievkinu musela mu doniesť do zálohu a na   Všechsvätých vrátiť dve miery. Povedzte: má ten Boha pri sebe?«
+    </tei:p>
+    <tei:p>
+     Rychtárka neodpovedá.
+    </tei:p>
+    <tei:p>
+     »Boh i jeho nájde,« pokračuje Durduľa. »Oj, nemysli — nájde! A   viete, že chodí k Masliačke?« Nahla sa jej k uchu, bárs nikto ich   nemohol počuť. »Ako prestal váš, začal on. Deň po deň! Sobrať sa vraj   idú. Ona sa vraj i sľúbila — pomyslite si! Nie je to hriech v takomto   navštívení?«
+    </tei:p>
+    <tei:p>
+     Rychtárka sa musí smiať, voľky-nevoľky. Už jej neverí. Zkúsila, že   Durduľa často primálo vie, často zas priveľa.
+    </tei:p>
+    <tei:p>
+     Ale prišiel Jurko a ten všetko potvrdil.
+    </tei:p>
+    <tei:p>
+     »Ja som už nadobre odišiel. I tak by ma to už nebolo minulo. Alebo   vraj vziať Masliačku, alebo ísť. ‚Pakuj mi z domu a povedz im, nech   richtujú Masliačke peniaze.‘ Tak som tu.«
+    </tei:p>
+    <tei:p>
+     »Ako ťa môže nútiť k Masliačke?« diví sa rychtárka.
+    </tei:p>
+    <tei:p>
+     »Rozmyslel si on. To len aby ma vyprášil z domu. Poradili sa, ako   ma preháňať. Keď som nepristal, hneď mi vedel povedať, že on sa ide   oženiť. Vidno, že sa radili o tom.«
+    </tei:p>
+    <tei:p>
+     Zasadla porada. Zostali na tom, že Jurko bude u nich, aspoň kým   cholera minie.
+    </tei:p>
+    <tei:p>
+     »Ale čo urobíte, keď príde platiť? Bolo by u dakoho požičať.«
+    </tei:p>
+    <tei:p>
+     »Neviem, neviem, kto by ma teraz ratoval,« krúti rychtár   hlavou.
+    </tei:p>
+    <tei:p>
+     »A tí vás chcú načiať. Odpredať odpoly darmo všetko. Ako to   dopustíme?«
+    </tei:p>
+    <tei:p>
+     Rychtár napína rozum. Nejednu noc takto prerozmýšľal. Cesty   zasekané. Na grunte je intabullácia, ťažko sa hýbať. Žirovať dakto? V   časoch, kde život visí na vlásku? Koho osloví na takú vec? Dačo   odpredať? kde, keď nieto jarmoku? »Poručeno Bohu,« vzdychá, »ja viem,   že on to tak chce...«
+    </tei:p>
+    <tei:p>
+     Jeho zúfalosť zronila všetkých. Iba Evka šepla čosi Jurkovi. Jurko   sa pľasol do čela. »To je pravda — a ja som nepomyslel na to.«
+    </tei:p>
+    <tei:p>
+     Zasadol si za stôl, kde obyčajne notáriuš sedáva, a napísal Janovi   do Aradu nesmierny list. Mnoho roboty ho stojí ukladať literu ku   litere. I ruka bolí, i litery sú poprehadzované, sťa radky nezručného   kosca. Ale čo ako, z listu sa dá vybrať, že Jano má požičať   rychtárovi, vlastne Jurkovi šesťsto zlatých. Stálo v ňom všetko, čo   sa ide stať.
+    </tei:p>
+    <tei:p>
+     »Len či bude mať toľko!« stará sa rychtárka.
+    </tei:p>
+    <tei:p>
+     »Ten pošle, čo i nemá.«
+    </tei:p>
+    <tei:p>
+     Nová nádej povstala. List zapečatili. Sám Jurko odniesol ho na   poštu.
+    </tei:p>
+    <tei:p>
+     Neminulo päť dní, rychtár dostal doručenie. Už sa ho toľme   nezľakol. Verí, že peniaze iste prídu.
+    </tei:p>
+    <tei:p>
+     Medzitým hrobár Ďuro vykopal nejeden hrob. Sám nestačí, pomáha   žena i deti. Tie, čo menšie, zabávajú sa v cmiteri na čerstvých   hroboch. Zanedlho žena vystala. Je doma pri chorom dieťati. Ďuro len   kope, chorí nečakajú, kým sa hrobár vyplače. Keď zomrelo prvé, sám   šiel k tesárom kroz truhličky.
+    </tei:p>
+    <tei:p>
+     »Janko zomrel, maličký celkom. Nuž lepšie mu tam, ako nám   tuná.«
+    </tei:p>
+    <tei:p>
+     »No, chlapca škoda,« hovorí Paľo. Prechádzajú ho i smiechoty.   »Chlapec sa sám pretlčie: nie ako dievča, sedeť za pecou.«
+    </tei:p>
+    <tei:p>
+     »Mám ich ešte päť, chlapcov. Ani jeden! A dievčatá iba dve. A   darmo si budeš vyberať. Za dievčaťom tak ľúto, ako za chlapcom.«
+    </tei:p>
+    <tei:p>
+     »Ten nám dá roboty!« vzdychol Paľo, keď Juro odišiel. »Cholera sa   nevyprace tak chytro od nich.«
+    </tei:p>
+    <tei:p>
+     A mal pravdu. Ďuro bol ešte tri razy u nich, čím ďalej smutnejší.   A už viac neprišiel. Zato dostavila sa ona. Ďuro bol na doske.   Rychtár nevie si rady. Nieto hrobárov! Chodí s pandúrom dom od domu,   vyháňa chlapov z poriadky.
+    </tei:p>
+    <tei:p>
+     Pohrab Ďurov nebol nič slávnejši od iných. Pieseň, krátka modlitba   — a už hrmia hrudy na truhle. Tu tichý, usedavý plač, tam nemý bôľ,   vyschnuté oči, zas rozbúrené zúfalstvo — to je všetko. Aký zástup   prevádzal by ho iným časom do hrobu! Dnes je tu, kto musí byť. Farár   a učiteľ klonia hlavy k tichej modlitbe. Je im clivejšie ako indy.   Pohrab Ďurov učí ich, že ani slúžobníci obecní a cirkevní nie sú   vyňatí zpod zákona.
+    </tei:p>
+    <tei:p>
+     Pán učiteľ zvlášte bude zle spať. Prepásol krásnu valedikciu. Aké   utešené tema! Či nebol Ďuro druhý Tobiáš? Tento pochovával v mor,   Ďuro v choleru. Krásne by sa to dalo rozviesť. Ženy by plakaly a   naveky spomínaly krásny carmen Ďurov. Ale kde teraz valedikcia!   Pohrab krátky, ľudu hŕstka. Krásne tema padlo s Ďurom do hrobu a pán   učiteľ sotva sa s ním sníme.
+    </tei:p>
+    <tei:p>
+     I pán farár je smutný, hoc mu je to proti náture. Humor je udusený   cholerou, iba tu i tu blysne iskrička zpod popola. Idúc dolu   cmiterom, vraví pánu učiteľovi: »Zle gazdujeme, pán brat, zle.«
+    </tei:p>
+    <tei:p>
+     »Ej, zle!« prisviedča učiteľ. »Ono berieme tie štoly, ako berieme:   ale to je groš neužitočný. Ako gazda, keď pomele zrno, čo bolo na   siaťa.«
+    </tei:p>
+    <tei:p>
+     »Veru tak. Krst, vádzky, sobáš — to je u mňa štola. Ale   toto...«
+    </tei:p>
+    <tei:p>
+     »A plat od detí a ohlášky — to hej,« doplňuje pán učiteľ. »Ale   všetkých pochovať — kto pochová nás?«
+    </tei:p>
+    <tei:p>
+     »Hm, ak takto pôjdeme,« nemôže pán farár zamlčať dobrý nápad, »ak   takto pôjdeme, vygazdujeme ako ten cigáň. Ploty pálil a popol   predával.«
+    </tei:p>
+    <tei:p>
+     V dedine tiež nečuť len vzdychy. Iba u rychtára majú záujem o   bežné veci. Starosť, nebezpečie — to zahlušuje všetku inú biedu. A   starosť je naliehavá. Osem dní minulo, čo list šiel do Aradu a   odpoveď nechodí.
+    </tei:p>
+    <tei:p>
+     Evka sa obrátila na cholera-komisára, koľko dní treba, aby sa   listy vymenily medzi Lomnicou a Aradom.
+    </tei:p>
+    <tei:p>
+     »Osem-desať,« odpovedá komisár a usmieva sa. »Komuže tam?   Frajerovi, čo?«
+    </tei:p>
+    <tei:p>
+     »Veru to!«
+    </tei:p>
+    <tei:p>
+     »Ej ty, ty! Jednoho ti málo — čo? Ak by jeden umrel, aby bol   druhý!«
+    </tei:p>
+    <tei:p>
+     Rychtárka nástojí dakde v okolí pohľadať peniaze. Bojí sa, že Arad   ich nevytrhne. »I s fiškálmi sa znáš, nemohol bys’ oprobovať?«
+    </tei:p>
+    <tei:p>
+     »Iba akby Berg — ale i ten ťažko. Nuž zajtra pôjdem.«
+    </tei:p>
+    <tei:p>
+     »A ja s vami,« hlási sa Jurko.
+    </tei:p>
+    <tei:p>
+     Zapriahli kone a vezú sa dolu dedinou. Tu sa rychtár ohlási:   »Ohlásme sa u Mojžiša — akby ten. Býva pri groši, interess berie   veliký: ale na čas by pomohol.«
+    </tei:p>
+    <tei:p>
+     »Na toho sa nedržte. Peniaze má, ale drží s otcom. Všetko sa mi   vidí, že gazdujú na jednu ruku. Možno, on má otcove peniaze.«
+    </tei:p>
+    <tei:p>
+     Ale predsa sa ohlásili. Mojžiš je smutný a bľadý. Zahraly mu slzy   v očiach, ako ich videl. »Keď ste ma prišli navštíviť!« Vidno, že   teší ho to naozaj. »Každý nás obchodí. Ja som choleru zaplatil. Moje   deti...« A zakryl si tvár.
+    </tei:p>
+    <tei:p>
+     »Mojžiš, ja som prišiel k vám,« začína rychtár bez úvodu, »či by   ste ma neratovali?«
+    </tei:p>
+    <tei:p>
+     Mojžiš pootvoril ústa, oči slieďa po izbe. Tu i tu zasiahnu   rychtára. »Karolín!« volá na ženu, ktorá sa tmolí v druhej izbe. »Tu   je pán rychtár, dones veľkonočnej!« Povedal to slovensky.
+    </tei:p>
+    <tei:p>
+     Vyšla židovka tučná a dosť pekná. Vlasy rozsypaly by sa jej po   pleciach, zaodely by ju celú, keby ich nedržal vedno sieťkovaný   čepec. »Pekne vítam,« vraví hosťom a ide za mrežky.
+    </tei:p>
+    <tei:p>
+     »Zratovať?« vraví Mojžiš. »Ako by vás nezratoval? Ja dám za vás i   toto.« Poskubol sa za kabát, teraz s golierom oddrapeným. »Ostatnú   košeľu, rychtárko!«
+    </tei:p>
+    <tei:p>
+     »Potreboval bych dáky groš, tak o týždeň...«
+    </tei:p>
+    <tei:p>
+     »Dievku vydať?« A s úsmevom hľadí na Jurka. »Takého zaťa — to bude   pár, bohuprisám!« Tľapká ho po pleci. »I ja by bol mal zaťov, ale   moje deti...« Zamlčal a ukážuc na mrežky, doložil šepky: »Pred ňou   ani spomenúť. Plače furt... Dobre sa sišli. On hodný mládenec, ona   chýrna robotnica.«
+    </tei:p>
+    <tei:p>
+     »Horký vydaj!« pretrhol mu reč rychtár. »Mám zaplatiť dlh. Okolo   šesťsto.«
+    </tei:p>
+    <tei:p>
+     Mojžiš šibe očima sem tam. Žena vyšla s fľašou i kališkami. On jej   vzal všetko z ruky, žmurkol, aby šla preč.
+    </tei:p>
+    <tei:p>
+     »No, vypime si, ak sa vám nehudí. To je nie cholera — nebojte sa.   No — však dobrá? Trúnok veľmi poriadny. Švagor mi ju poslal z   Trenčianskej. Ale šesť stovák, toľko nemám. Zo srdca vykrojiť,   vďačne; ale toto...« Gamby sa mu kyvocú, ako by si dačo šepkal. »A   komu to platiť? Kto vás sužuje?«
+    </tei:p>
+    <tei:p>
+     »Masliačka.«
+    </tei:p>
+    <tei:p>
+     »Tá osoba neporiadna!« vraví s opovržením. »Môže rada byť, že   toto... A veľmi pýta?«
+    </tei:p>
+    <tei:p>
+     »Ide byť exekúcia.«
+    </tei:p>
+    <tei:p>
+     »Ajaj! To je osoba nemóresná — rychtára takto. Ja som ju nikdy   neuctil, lebo je neporiadna osoba. Ale toľko nemám. Teraz som   vytrovený. Moje deti...«
+    </tei:p>
+    <tei:p>
+     »No len pohľadajte. U vás sa vždy nájde,« zamiešal sa Jurko.
+    </tei:p>
+    <tei:p>
+     »A kde? V takéto časy! Toľko pohrabov! A kšeft stojí — krajciara   som už nevidel. Odkiaľ? Ale vy dostanete — ojej, každý vďačne.   Poriadny človek najde kredit.«
+    </tei:p>
+    <tei:p>
+     »Darmo je,« vzdychol rychtár. »Jurko, poďme!«
+    </tei:p>
+    <tei:p>
+     »Ešte vypite! Prečo nechcete? Vari vás otrovím, vari   neprajem?«
+    </tei:p>
+    <tei:p>
+     »Nie preto, ale ...«
+    </tei:p>
+    <tei:p>
+     »To sa hneváte? Už vidím, že sa hneváte. Na moj’ dušu nemôžem.   Nemám babky. No vypite po jednom. Rozohreje vás... A tá stvora je   mrzká, čo pýta v takýto čas!«
+    </tei:p>
+    <tei:p>
+     Rychtár a Jurko si vysadli. »Vidíte, ako ho otec naučil. Nepovedal   som? Nebodaj obchodil už všetkých židov, i v meste.«
+    </tei:p>
+    <tei:p>
+     Rychtár je zronený, nádej klesá, nečaká nič dobrého.
+    </tei:p>
+    <tei:p>
+     Keď zatiahli pod regál, na druhej strane zazreli Sýkoru. Šibol za   bránu.
+    </tei:p>
+    <tei:p>
+     »Povedám, že zasekal cestu u všetkých židov,« vraví Jurko.
+    </tei:p>
+    <tei:p>
+     Ale predsa len šli na tú púť. Berg bol vľúdny, ale peňazí nemá.   Nech idú do sporiteľne, on sa vytrovil. A všade počuli tú istú nôtu.   Mlčky idú po ryngu, nemajú čo hovoriť. Prišli pred poštu.
+    </tei:p>
+    <tei:p>
+     »Napíš ty ešte jeden list do toho Aradu. Môžeš ho v regáli   napísať.« V tom mu ktosi zastrel dlaňou, oči. »Ktože si?« pýta sa   dosť nechutne.
+    </tei:p>
+    <tei:p>
+     »A čo tu robíte?« Stál pred ním pandúr Števko. »Ja idem do Žabian,   poďte. Do polovice pôjdeme pešky a potom na nohách.«
+    </tei:p>
+    <tei:p>
+     »To vás my odvezieme, voz je v regáli. Vysadneme, len list čo   Jurko napíše.«
+    </tei:p>
+    <tei:p>
+     »Idem i ja. Vypijeme si, akby nás tá cholera napopáckala.«
+    </tei:p>
+    <tei:p>
+     Jurko písal list a rychtár so Števkom sedeli v druhom kúte. A   rychtár zdôveril sa Števkovi i popýtal, či by on nie. Už viac z   obyčaja, nádeje nemal.
+    </tei:p>
+    <tei:p>
+     »A čo by nie!« ozval sa Števko. »Bárs i o polnoci. Príďte si, mám   ich na knižku.« Tu sa trochu zaokúňal. »Rychtárko, moja by trafila   hundrať. Ono ona moc nerozkáže, ale aby sa jej zapchaly ústa: dajte   jej záhon pod štvrtník ľanu. Keď počuje o ľane — za ľan sa dá i   obesiť.«
+    </tei:p>
+    <tei:p>
+     »No!« súhlasí rychtár a stíska mu ruku i slzy sa mu tisnú do očí.   »Jurko, peniaze máme! Števko, ako sa vám odslúžim!«
+    </tei:p>
+    <tei:p>
+     »Ale čo! Vy ste človek statočný a starý Sýkora je kľuk. Tu pred   synom to poviem. I do očí mu poviem, lebo je kľuk.«
+    </tei:p>
+    <tei:p>
+     Jurko mlčí.
+    </tei:p>
+    <tei:p>
+     Spiatočná cesta bola veľmi veselá. Rychtár puká bičom, kone letia.   Vyše mesta dohonili chlapa o čugani. Dlhé riedke vlasy poletujú pod   klobúkom.
+    </tei:p>
+    <tei:p>
+     Jurko sa úporne díva na bok, do stráne zarastenej hlôžím a   lieštinou. Poznal otca. Ten zastal pri samom garáde, opiera sa o   čugaňu, čakajúc, že voz prebehne popri ňom. Rychtár stiahol liace,   kone zastaly. Jurko nechápe, čo to má byť.
+    </tei:p>
+    <tei:p>
+     »Sadnite si, švagre,« zve ho rychtár. A v tvári nieto stopy hnevu,   ani rozhorčenia. Zabudol na krivdu, je šťastný — vybozkával by celý   svet. »Sadnite si, miesta, ľaľa, dosť.«
+    </tei:p>
+    <tei:p>
+     Jurko hľadí si pod nohy, aby sa nestretol s očima otca. Bojí sa   ich i nenávidí ich. Ale rychtára ľúbi. Do ohňa by skočil zaňho.
+    </tei:p>
+    <tei:p>
+     »Ja zajdem i pešky.« A plný nenávisti hľadí na voz. »Ja sa   nevozievam. Nemusím sa ani teraz.«
+    </tei:p>
+    <tei:p>
+     »A čo som vám urobil?« vyčituje mu rychtár. Je i zahanbený i ľúto   mu je.
+    </tei:p>
+    <tei:p>
+     »Vozte sa s ním. So mnou už nikdy!« zodvihol ruku s čugaňou a   hľadí na syna. A Jurko už neklopí zrak. Smelo, priamo sa merá s   otcom. Krv mu búšila do tváre a divoká radosť dvíha mu prse.
+    </tei:p>
+    <tei:p>
+     »Rychtár, pohnite,« vraví Števko. »Keď je mladý zať, nech vládze.   Ja mladým zaťom dom bych bol preskočil.«
+    </tei:p>
+    <tei:p>
+     Sýkora pokýval hlavou. »Ja neskáčem, ale chodiť vládzem. Len sa   vozte, budete i pešky...« Ešte volá čosi za nimi, ale voz prehlušil   jeho hlas.
+    </tei:p>
+    <tei:p>
+     Jurkovi je zas voľnejšie. Čosi ho vábi obzreť sa. Nemôže odolať.   Hodil krátky pohľad za voz — popri ceste kráča nahrbený starec,   opierajúc sa o čugaňu. Z pŕs sa mu vyrval ťažký vzdych. Oči   zavlhly.
+    </tei:p>
+    <tei:p>
+     U rychtára bola veliká radosť po takej novine. Ale i rychtárka má   novinu. Masliačka so Sýkorom boli vraj večer vo fare. Chceli sa   sobrať bez ohlášok. Ale pán farár ich vraj vyctil. Jurko mlčal, je   smutný, bárs nebezpečie minulo.
+    </tei:p>
+    <tei:p>
+     Nemohol sa zdržať, vyšiel na humno a oprel sa o stenu. Tam mu bolo   tak sladko vyplakať sa.
+    </tei:p>
+    <tei:p>
+     »Čo ti je?« čuje pri sebe známy hlas.
+    </tei:p>
+    <tei:p>
+     »Nič,« odpovedá a chytá ju za ruku.
+    </tei:p>
+    <tei:p>
+     »Nepáči sa ti u nás?«
+    </tei:p>
+    <tei:p>
+     »Oj, keby nie vy, prišlo by mi zahynúť. Iného už nemám na   svete...«
+    </tei:p>
+    <tei:p>
+     »Ti je ľúto?«
+    </tei:p>
+    <tei:p>
+     »Komu by nebolo? Ani dobre mi nežičí.«
+    </tei:p>
+    <tei:p>
+     Vošla do dvora slúžka Mojžišova a obzerá sa.
+    </tei:p>
+    <tei:p>
+     »Čo je?« volá na ňu Evka z humna.
+    </tei:p>
+    <tei:p>
+     »Ach, mladý pán ochoreli. Prišlo naponáhle na nich, nemáme   nikoho.«
+    </tei:p>
+    <tei:p>
+     Rychtára a Jurka ohromila táto zvesť. Kto je bezpečný ešte, keď i   takí ochorejú! Rychtár hneď šiel po Lukáča alebo po Hnátika.
+    </tei:p>
+    <tei:p>
+     Večer im zabúchal ktosi. Bol to Hnátik.
+    </tei:p>
+    <tei:p>
+     »Poďte k Mojžišovi. Zle je!«
+    </tei:p>
+    <tei:p>
+     »A čo, pre Boha!«
+    </tei:p>
+    <tei:p>
+     »Sýkora prišiel, kričí a kľaje. Vystíha akési peniaze.«
+    </tei:p>
+    <tei:p>
+     »Čo ja pomôžem?« odvráva rychtár. »Miešať sa medzi nich!«
+    </tei:p>
+    <tei:p>
+     »Nechoď, starý,« odhovára ho žena. »Pán Boh vie, čo majú medzi   sebou. Nech sa tam sporiadajú, ako vedia.« Je rád, že i ona je tej   mienky. Trudno mu ísť, ešte raz byť so starým. A konečne, vie, že tam   nič dobrého nečaká naň. Iste nová omrzlosť.
+    </tei:p>
+    <tei:p>
+     »Ešte sa zle porobí,« dohovára Hnátik. »Ja zdravý a chlap, a bojím   sa ho.«
+    </tei:p>
+    <tei:p>
+     Rychtár predsa ide. Keby sa dačo pritrafilo, by padla   zodpovednosť. Ohlásil i hajtmana, aby bola pomoc. Boli ešte len v   pijarni, už čuli Sýkoru vykrikovať. Bol skoro zachrípnutý.
+    </tei:p>
+    <tei:p>
+     »Žide, daj mi peniaze! Kde sú moje peniaze?«
+    </tei:p>
+    <tei:p>
+     »Čo je to tu?« pýta sa rychtár.
+    </tei:p>
+    <tei:p>
+     »Ratujte nás, rychtárko!« prosí krčmárka. »Môj umiera — a tento   takto! Idem zhynúť od ľaku.«
+    </tei:p>
+    <tei:p>
+     »Prekryl moje peniaze — schoval!« kričí zas Sýkora. Hádam ani   nevie, kto prišiel. Taký je rozčúlený. Z úst mu fŕkajú sliny, gamby   sa potrhávajú. »Tuto mám obligátory. Osemnásť stovák si požičal. A to   sú moje peniaze!« Šuští chumáčom nových i žltých papierov,   rozhadzujúc rukama. Obrátil sa zas k chorému, ktorý leží horeznačky a   díva sa do povaly. »Povedzte, Mojžiš, povedzte na spasenú dušu:   nebolo ich toľko?« Čaká, čo odpovie, no Mojžiš ako by mal oči pribité   o poval. »Nečuješ, ty prekliaty, čo nepovieš...«
+    </tei:p>
+    <tei:p>
+     »Nerobte taký div!« dohovára mu rychtár, držiac ho za ruku a   odťahujúc od postele.
+    </tei:p>
+    <tei:p>
+     »Tak ho, rychtárko! Aj tak ho on zmárnil. Ach, môj muž...«
+    </tei:p>
+    <tei:p>
+     »Čo to robíte?« vytýka rychtár Sýkorovi.
+    </tei:p>
+    <tei:p>
+     Ten vari len teraz vidí, koho má pred sebou. Nevie, ako rychtár   prišiel; čo tu hľadá. Zas mu zastupuje cestu. Iste ho chce zas   ukrátiť. Prichodí mu na um, čo sa stalo medzi nima.
+    </tei:p>
+    <tei:p>
+     »A vy čo!« stavia sa mu spurne. »Ja moje peniaze. Dom zrevidovať —   i posteľ...«
+    </tei:p>
+    <tei:p>
+     »Ukradol ich?«
+    </tei:p>
+    <tei:p>
+     »Požičal som, požičal. Prosil ma,« kričí so slzami. »Ako sa   vláčil, ako vystíhal. Tu sú písma. Nabral, koľko mohol. A dnes —   dnes... V gruntbuchu všetko na nej — na tejto... Všetko prepísal a on   nemá nič — ja na ľade... Čo mi je z nich?« A drme papier a hádže   rukami. »Načo sú mi, keď nemá nič? Peniaze — rychtár, prosím vás,   peniaze!«
+    </tei:p>
+    <tei:p>
+     Hlas mu zlyhal, zalialy ho slzy.
+    </tei:p>
+    <tei:p>
+     Rychtár už chápe, čo sa porobilo. Jurko tedy šípil dobre. Mojžiš   úžerníčil na Sýkorových peniazoch. A keď nabral hodne na kredit, dal   všetko prepísať na ženu. Nuž nič nového — bežná špekulácia. »Tak vám   treba, za vašu pýchu!« chcel povedať starému. Čosi ho podkušiava, aby   si šuchal ruky. Ale sa premohol, beztoho Sýkora by to nepochopil. Je   zúfalý, zabudol na všetko iné.
+    </tei:p>
+    <tei:p>
+     »Čo som sa nautískal, naskyvražil!« narieka sťa dieťa, žaluje sa,   nevie sám komu. Pozerá, či postriehne uňho iskru súcitu a hotovosť k   činu. Rychtár hľadí do zeme a mlčí. Jemu je to tak cudzie, ani si   nevie vysvetliť bôľ Sýkorov.
+    </tei:p>
+    <tei:p>
+     »Poďme domov, dajme mu pokoj,« ukazuje na chorého. »Ja neviem, čo   máte medzi sebou. Dajte sa na súd.«
+    </tei:p>
+    <tei:p>
+     »Ach, rychtárko môj!« stíska mu ruky Karolína.
+    </tei:p>
+    <tei:p>
+     »Na súd!« zvolal Sýkora divoko. »A ten umre — nezostane nič. Čo mi   zo súdu?«
+    </tei:p>
+    <tei:p>
+     Rychtár pokrčil plecom. »Ja inej rady neviem.«
+    </tei:p>
+    <tei:p>
+     »Tak?« zmeral ho Sýkora okom plným nenávisti. »Vy sa vyvŕšiť   chcete — mňa znivočiť. Vás podplatili!«
+    </tei:p>
+    <tei:p>
+     Rychtár ho schvátil poza päste, trhnutím srazil ho, že kľakol na   kolená. Žily mu navrely na čele. Držal ho pevne, že starý nemôže sa   hnúť.
+    </tei:p>
+    <tei:p>
+     »Ak poviete slovo — na muškách pôjdete pred súd!«
+    </tei:p>
+    <tei:p>
+     Sýkora nevidel ešte rychtára takto. Čosi mu mäkne v prsiach,   rozlieva sa a chce ho zadusiť. Konečne slzy vstúpily do očí.
+    </tei:p>
+    <tei:p>
+     »Už som žobrák, vezmite i toto — všetko!« A shadzuje so seba starú   halenu, vyriedenú, že je ako sito.
+    </tei:p>
+    <tei:p>
+     »Hajtman, vyšikujte ho. Nech ide domov.«
+    </tei:p>
+    <tei:p>
+     Sýkora zlomený, vysilený vytackal sa z izby.
+    </tei:p>
+    <tei:p>
+     Rychtár hľadel chvíľku oblokom do tmavej noci. Uvažuje, čo sa   všetko stalo. Cíti uspokojenie. Koľko utrpel od neho — len preto, že   nehabal peniaze. A hľa, vymohol sa mu z moci, i srezal hodný rováš.   Obzerá sa i na chorého a je ešte spokojnejší. Vykonal predsa len   skutok dobrý, nech bola pohnútka akákoľvek: osvobodil chorého.   Pristúpil k nemu a kladie mu ruku na prse. »Akože vám je,   Mojžiš?«
+    </tei:p>
+    <tei:p>
+     Mojžiš mlčí, iba čo pochytil ruku rychtárovu a stíska mu ju vrele.   I jeho živé, čierne oči sú upreté naň, ako by mu ďakovaly, alebo sa s   ním lúčily...
+    </tei:p>
+    <tei:p>
+     »Čo ako, hodný bol žid,« usudzuje rychtár, odchádzajúc. »Bol —   bol; len či ešte bude!«
+    </tei:p>
+    <tei:p>
+     Druhý deň o tomto čase dostal i na tú otázku odpoveď. Mojžiš je   pridelený k otcom...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VII.
+    </tei:head>
+    <tei:p>
+     Rychtárka sa veľmi zadivila, že sa Jurko tak včas vracia z oračky.   Ani nešiel popri koňoch, sedí na ornom vozíku. Kone ešte vypriahol,   ale nedolie už zaviesť ich do stajne. Pustil ich do dvora. Je veľmi   slabý. Ako vstúpil do izby, hodil sa na lavicu. Údy ako olovo —   dopadol na ňu sťa snop.
+    </tei:p>
+    <tei:p>
+     »Ja som chorý,« ozval sa hlasom, ako by sa ozýval zpod zeme. I   brada sa mu kýva, zuby hrkotajú. Eva sa desí. Veď ledva ho poznáva.   Rychtárka mu kladie ruku na čelo — je studené, vlhké, sťa mramor.   Mlčí, slová jej primrzly na ústach.
+    </tei:p>
+    <tei:p>
+     »Bože, predsa nás to neobišlo!« vzdychá sama sebe.
+    </tei:p>
+    <tei:p>
+     »Čo mu je?« pýta sa Eva, dotískajúc sa k nej. Čaká odpoveď s   divokou zvedavosťou.
+    </tei:p>
+    <tei:p>
+     »Nič!« odsekla jej mať surovo. »Nemusíš hneď mysleť boh vie čo.   Všetko bude dobre.«
+    </tei:p>
+    <tei:p>
+     Dobre padne také surové slovo, i prísny pohľad, kde srdce zmiera   úzkosťou. Zalomila rukami a ide k stolu.
+    </tei:p>
+    <tei:p>
+     Rychtárka nezaháľa, uložila ho do postele. Aký je zmenený! Pery   belasé, oči vpadnuté, nik by neriekol, že to on.
+    </tei:p>
+    <tei:p>
+     Rychtár sa zhrozil. Videl moc chorých, všetko takto vyzerali. Evka   z otcovej tváre sa presvedčila, že ju neklamala predtucha. On   pristúpil k posteli, vložil ruku chorému na čelo a s pohnutím pozerá   mu do tváre. Chcel by povedať dačo, ale prse ako by obruč stiahla, a   tlačila. »A ti je nie lepšie?« pýta sa hlasom akýmsi hlbokým.
+    </tei:p>
+    <tei:p>
+     »Horký!« hodil rukou, ktorá klesla nevládne na perinu. »Veľká   ťarcha okolo srdca — a zima!«
+    </tei:p>
+    <tei:p>
+     Šiel k stolu a pristúpil k Evke. Zodvihol jej hlavu zpomedzi dlaní   a hľadí jej vážne do tváre. »Nie — neplač... Je mu ešte horšie, keď   ťa vidí plakať.«
+    </tei:p>
+    <tei:p>
+     »Bože, Bože, čo budeme robiť!« vzdychá pred ženou v kuchyni. »Kto   by sa bol nazdal...«
+    </tei:p>
+    <tei:p>
+     »Poručeno Bohu,« odpovedá ona. Už sa spamätala. Parí ovos a   obkladá ho, dáva mu kvapky. Vie, čo treba robiť a robota chráni ju od   zúfania.
+    </tei:p>
+    <tei:p>
+     Choroba vypukla celou silou. Ťažko pozerať na chorého. Dýchal tak   ťažko, ako by centy ležaly na ňom.
+    </tei:p>
+    <tei:p>
+     »Ja umrem,« vzdychá, »ja umrem!«
+    </tei:p>
+    <tei:p>
+     »Ach, ba!« vysmieva ho rychtárka. »Trochu si prechladol. Najtiaž   sa zohriať.«
+    </tei:p>
+    <tei:p>
+     Eva je v komore. Nemôže sa dívať na to, čo sa v izbe robí. »Ako to   len mohlo prísť!« vzdychá, hodiac sa tvárou na periny. »I na nás, i   na nás!« Naučila sa dúfať, že ich obíde. »Ako sa máme radi — ale   takto sa skončí naša láska? Ako to môže byť?« Jej sa vôbec zdá, že   láska sa nedá roztrhať. Načo je svet, ak ich láska má minúť! Ako on   môže zomreť, kým ho ona rada? Načo je v nej ten mohutný cit, keď ten   by mohol zhynúť, na ktorého je pripútaný? Zdá sa jej hriechom mysleť   na jeho smrť. Čo všetci pomrú, on nie.
+    </tei:p>
+    <tei:p>
+     Prišla noc tichá, ale tmavá. Rychtárka pradie nad chorým, aby ju   sen nezašiel. Od kozuba sa ozýva chrápanie. Rychtár sa vyvalil na   lavicu, že po polnoci vstane a zamení ženu. Chorý leží nepohnute, už   sa rozohrial. Iba si čosi šepce. Pozerá na ňu očima vpadnutýma.
+    </tei:p>
+    <tei:p>
+     »Neumre,« teší sa rychtárka. »Ešte dosť veselo hľadí.« Sklonila sa   k nemu a pýta sa: »Ako ti je?«
+    </tei:p>
+    <tei:p>
+     »Dobre u vás — dobre,« odpovedá. »A nejdete spať?«
+    </tei:p>
+    <tei:p>
+     »Ale my?« usmieva sa ona. »Ako by sme šli? Len sa utíš, azda   zdriemneš.«
+    </tei:p>
+    <tei:p>
+     Chorý sa obzerá po izbe. »A kde je otec? A vie, v čom som?«
+    </tei:p>
+    <tei:p>
+     »Odkázali sme mu, ale neprišiel.«
+    </tei:p>
+    <tei:p>
+     »A kde je?«
+    </tei:p>
+    <tei:p>
+     »Šiel vraj kdesi. Ešte neprišiel.«
+    </tei:p>
+    <tei:p>
+     Chorý sa odvrátil a zakryl si tvár. Čuť, že plače. »Zase peniaze.   Zas len peniaze!«
+    </tei:p>
+    <tei:p>
+     »Ale — to si len myslíš. Príde zajtra...«
+    </tei:p>
+    <tei:p>
+     »Nepríde. Ja viem.«
+    </tei:p>
+    <tei:p>
+     Utíšil sa; rychtárka sa nazdáva, že zaspal.
+    </tei:p>
+    <tei:p>
+     »A Eva?« pýta sa po dlhej chvíli.
+    </tei:p>
+    <tei:p>
+     »V komore je. Ísť po ňu?«
+    </tei:p>
+    <tei:p>
+     »Keď spí.«
+    </tei:p>
+    <tei:p>
+     »Nespí ešte — oj nie.« Rychtárka cigáni. Sama ju vyhnala spať a   teraz ju beží zobudiť. Ale budiť ju netreba. Eva nespala.
+    </tei:p>
+    <tei:p>
+     Chytro sa obliekla a pristúpila k posteli. On hľadí na ňu pozorne.   Kýva hlavou, ako by chcel prisvedčiť na dačo. »Neplač — nie,« vraví   vľúdne. »Podaj mi ruku — tak. A neplač.«
+    </tei:p>
+    <tei:p>
+     Jeho zlomené oko, studená ruka svedčia, že života tu na mále.   Zakryla si tvár zásterou, ale neplače. Nazerá do akéhosi iného sveta,   druhého, ako ktorému žila a ktorý sa pred ňou otvára. Niet v ňom   miesta jej snom, ani jej nádejam... Letiaci čas ako by ju ovieval   peruťami. Pred ňou obraz, na aký nebola pripravená. Zdá sa jej, že   blíži sa čosi neuprosného... Ešte nie je rozhodnuté, ale teraz sa ide   zvrátiť osud, na tú stranu, alebo na inú. Ako sa zvráti? Akí boli len   včera istí! A dnes už celá veliká budúcnosť kníše sa na ostrí ihly.   Ak sa srúti tá veľkolepá budova? Veď trámy už praštia, steny pukajú.   Vydrží, zostane — shrmí a nezostane nič, iba stĺp prachu?
+    </tei:p>
+    <tei:p>
+     Zaplakala náruživo a zaryla tvár na jeho prsia.
+    </tei:p>
+    <tei:p>
+     »Nie, nie,« hladí ju nežne po hlave. »Ak musí byť — darmo. Dobre i   tam.«
+    </tei:p>
+    <tei:p>
+     »Ako to len môžeš, Jurko!« vykríkla premožená bôľom. Ako len môžeš   tak hovoriť!«
+    </tei:p>
+    <tei:p>
+     Nevládze sa opanovať, uteká do komory. Plače usedavo, nie nad ním,   ale nad jeho rečou. Či by povedal, že i »tam« je dobre, keby ju mal   rád? Už ju nemá rád!
+    </tei:p>
+    <tei:p>
+     V trapiech pominula noc. Tam v izbe zápasil mladý život so smrťou.   Každú chvíľu mohla zhasnúť iskierka — veď už iba iskierka tleje v tej   hrudi. No mladé telo bojuje udatne, ako vojak. O každú piaď ide tuhý   zápas. A v komore zápas podobný. Eva plače nad láskou zničenou. Veď v   ňom láska podľahla prv, ako telo. Zabudol na ňu, na všetko, čo bolo.   Či spomenul lásku len slovom? Jej cit sa spiera takej dobrovoľnej   smrti; chce žiť, rozrastať sa, veľadiť. Netušila veru, že láska má i   také hlbočiny a na ich dne toľko múk. Čo choroba! Ona nedala by sa   zlomiť. Keby to prišlo na ňu a videla jeho pri sebe — nikdy by   neuznala, že láska je skončená. Držala by sa jej, zvíťazila by s   ňou.
+    </tei:p>
+    <tei:p>
+     A on! Púšťa ju pri prvom náraze a naťahuje ruku za čímsi novým.   Oj, uňho nieto tej lásky, čo u nej. Nebolo nikdy!
+    </tei:p>
+    <tei:p>
+     S pomútenou hlavou vstala ráno a tmolí sa po dome. Do izby   nenazre. Nie, že sa choroby bojí, nie — veď čoho sa ešte môže báť?   Bojí sa pozreť naňho, na trosky svojich snov a nádejí.
+    </tei:p>
+    <tei:p>
+     Mať netuší, čo sa robí s dcérou. Do kuchyne prišiel k nim i   rychtár.
+    </tei:p>
+    <tei:p>
+     »Čo si mi dala zaspať?« vytýka jej. »Mal som vstať po polnoci, a   spím do vidna.«
+    </tei:p>
+    <tei:p>
+     »Spal skoro celú noc, i ja som driemala. Ale nad ránom ho   pochytilo. Neborák — vieš, čo bolo prvé slovo?«
+    </tei:p>
+    <tei:p>
+     »Nuž!«
+    </tei:p>
+    <tei:p>
+     Eva čaká chtive. Keby ona! To slovo rozhodne nad jej osudom. Ak   spomenul ju, vie, čo to značí...
+    </tei:p>
+    <tei:p>
+     »Či je nie tu otec,« odpovedá rychtárka.
+    </tei:p>
+    <tei:p>
+     Eva sa oprela o dvercia a rozpáleným zrakom díva sa na mater.
+    </tei:p>
+    <tei:p>
+     »Toho darmo čaká,« vzdychol rychtár. »Ten oplakáva peniaze, čo u   Mojžiša prepadly. Od hajtmana odkázal, že nepríde, čo cestu dukátami   vyložím.«
+    </tei:p>
+    <tei:p>
+     »A toho volá! To mu je prvá žiadosť,« myslí si Evka. »Mňa potom   nevolal?« pýta sa matere.
+    </tei:p>
+    <tei:p>
+     »Iné ten má starosti,« odvrkla jej s výčitkou. »Včera si nad ním   plakala, chorí to neradi. Chorým len veselú tvár; keď vidí plakať,   iba sa zľakne, že je zle.«
+    </tei:p>
+    <tei:p>
+     »Otca volal — otca!« zúfa v komore »Ten mu je prednejší. Na mňa   nepomyslí. A ako hovorieval, čo som mu ja...«
+    </tei:p>
+    <tei:p>
+     Hnátik prišiel do rychtárov, lebo s chorým je zle a zle. Eva   zabudla na vlastný bôľ, čuje z izby ťažké stony chorého. Veliká   ťažoba od žalúdka — a sotva sa žalúdok sprostí ťarchy, zase smäd   neuhasiteľný. Nemá chvíľky spokojnej, i skladať ho treba každú   chvíľu. Eva nosí čerstvú vodu a žasne, keď je zas krčah prázdny.   Hnátik a Lukáč udomácnili sa úplne. I dom už páchne od nich cesnakom,   borovičkou a tabakom. A čo divné, Eva sa im nevyhýba. Rada pozerá do   ich tvárí, z ktorých sa nedala zahnať veselosť a smelosť ani takýmto   úžasom. Nieto v tom rúhania — je to skôr zmužilosť a čistota   svedomia.
+    </tei:p>
+    <tei:p>
+     Pán cholera-komisár je už inakší. Vstúpil ako obyčajne do izby a   hľadí prekvapený na chorého. Prikladá fľašku k nosu a vťahuje   zdravonosnú vôňu. Tá tvár medzi poduškami! To už hotový obraz smrti!   Vysilenie. Spísal protokoll, nedal ani koňa počastovať ovsom. Ani na   Evku nepozrel — vyšvihol sa do sedla a letí o dedinu ďalej.
+    </tei:p>
+    <tei:p>
+     »Ba či ho zastihnem zajtra,« myslí si, zapaľujúc cigaru, lebo mu   prišlo zle akosi. »Veru sotva. Čo bude robiť tá černooká? Hm, ale   zajtra nepôjdem do izby. Protokoll spíšem hockde vo dvore.«
+    </tei:p>
+    <tei:p>
+     Pred večerom Evka vošla s vodou do izby. Chce ho videť ešte, ako   vyzerá, akby ho už nevidela.
+    </tei:p>
+    <tei:p>
+     »Budeš vody?« pýta sa ho.
+    </tei:p>
+    <tei:p>
+     Prikývol.
+    </tei:p>
+    <tei:p>
+     Zabudla na všetko, čo ju mučí. Zabudla i na to, že to on, jej   Juro. Vidí iba človeka, zničeného, zabitého. »A na toho sa ja hnevám!   Kde ten môže mysleť na mňa — veď ten nemôže už mysleť...« Keď sa   napil, pozrel na ňu okom plným vďaky. Už i oko je zlomené, výraz   nekonečnej slabosti zatisol všetko, čo mu kedysi dávalo ohňa, života.   Ju i vďaka už blaží.
+    </tei:p>
+    <tei:p>
+     »Co by sa ti tak žiadalo?«
+    </tei:p>
+    <tei:p>
+     »Choď preč...«
+    </tei:p>
+    <tei:p>
+     Odtíska ju od seba, čo slabá ruka stačí. Ostrý bôľ prerazil jej   hruďou, sťa by jej srdce pukalo.
+    </tei:p>
+    <tei:p>
+     »Už ma nechceš ani videť! Toľme som ti protivná!«
+    </tei:p>
+    <tei:p>
+     vyčituje mu so slzami.
+    </tei:p>
+    <tei:p>
+     Jeho tvárou ako by bola mihla myšlienka. Pozerá na ňu, pohľad, ako   býval kedysi... Poznala v ňom svojho Jura, jeho lásku. Srdce   zaplesalo.
+    </tei:p>
+    <tei:p>
+     »Preč!« hovorí ešte raz, odtískajúc ju. »Choroba mrzká — ja sa   okúňam... Budem sa ti hnusiť.«
+    </tei:p>
+    <tei:p>
+     Hľa, na čo stihne mysleť! Či to nie dôkaz nežnosti? Hanbí sa pred   ňou; bojí sa, že sa jej zhnusí. Preto ju odháňa.
+    </tei:p>
+    <tei:p>
+     »Nie protivná!« doložil tichým hlasom a krúti hlavou. I ruku   položil na jej. »Ale otec — otca treba...«
+    </tei:p>
+    <tei:p>
+     Eva vyšla rozčúlená, nevediac, čo robí. »Otca volá, otca! Ako ho   doviesť? Prosí, a ja — ja neviem, ako... Bože, daj mi vnuknutia a   neber mi ho — neber!«
+    </tei:p>
+    <tei:p>
+     A medzitým on, za kým syn tak túži, nemyslí na syna. Je tiež   chorý. Zožiera sa nad ztratou.
+    </tei:p>
+    <tei:p>
+     Ešte za mladi si vzal do hlavy, že zbohatne. Videl, ako dobre   boháčovi. Boháč má všetko. Bohatstvo, vládu, múdrosť, česť i pravdu a   právo. Všetko za peniaze! Mal ciele: čo všetko vykoná, keď zbohatne.   A čo s nimi? Padly, keď zbohatol. Shŕňa peniaze k vôli peniazom.   Peniaze sú cieľom... »Len päťtisíc mať!« zatúžil najprv. A mal ich.   »Len desaťtisíc...« A tak potískal métu žiadosti vyššie a vyššie.   Lakomosť rástla s bohatstvom, i prerastala ho. Iba závisti sa bál.   Aby ju oddialil od seba, aby netušil nikto, čo je za boháč,   nepožičiaval na svoje meno. Mal agentov, tí narábali s jeho grošom.   Ináč opatrný, spustil sa slepo na túto chasu. Menovite na Mojžiša,   ten bol najšikovnejší. Zarábal mu pekný groš, uspokojujúc sa s   oročkami. A hľa, práve ten ho previedol. Nie osemnásť stovák — omnoho   viac tratí pri ňom. Sám sa okúňa povedať pravdu; bojí sa upozorniť   ľud na svoje bohatstvo; i hanbí sa, že sa dal toľme podviesť.
+    </tei:p>
+    <tei:p>
+     Aký bol zničený, keď sa vrátil od neho. Neztratil iba peniaze,   ztratil i vieru v ľudí.
+    </tei:p>
+    <tei:p>
+     Bojí sa už všetkého. Ľaká sa každého šuchotu, že to zbojníci.   Každý pozor mu je podozrivý. Veď je v dome sám a sám. Kto ho zastane?   Ako ho mohol podopreť rychtár — a nie, ešte ho zamočil!
+    </tei:p>
+    <tei:p>
+     Nenávidí ho väčšmi, než predtým. Protiví sa mu všetkým: životom,   zásadami, nadovšetko ľahkomyseľnosťou pri peniazoch. A ten človek už   siaha na jeho peniaze, keď svoje rozhádzal. Prečo pre iné odvábil mu   syna? Chce ich vziať, rozsýpať plnou hrsťou. Jeho bohatstvo   rozdrobiť, rozmrviť na kúsočky, odrobinky, z ktorých vyrástlo po   toľkej práci! A keď nachádza odpor, aspoň sa pridá k jeho   nepriateľom; dovoľuje, aby ho zbíjali bez pokuty...
+    </tei:p>
+    <tei:p>
+     A čo synovia? Nieto v nich potechy, sú proti nemu. Ani jeden   neudal sa naňho. Sotva dorástli, už sa stavajú proti jeho zámerom.   Staršieho vyhnal, urobil tulákom — dal mu pocítiť svoj hnev.   Mladšieho tiež vyhnal, tiež ho chcel spraviť tulákom — rychtár ho   zastienil pred hnevom jeho... Zato chcel rychtára potrestať, zničiť,   vyhnať z gazdovstva. Vyplietol sa z jeho ruky a víťazí nad ním. Ach,   ako ho nenávidí!
+    </tei:p>
+    <tei:p>
+     Tu čuje, že syn leží na choleru.
+    </tei:p>
+    <tei:p>
+     »Pán Boh ho tresce!« zvolal v presvedčení. A nemyslí viac naň. Čo   ho doň? Spastorčil sa, zhavranel — nechce kráčať v jeho koľaji. Načo   mu je?
+    </tei:p>
+    <tei:p>
+     On má iné starosti, iné nádeje. Chce sa stať mužom Masliačkiným.   Ona nenávidí rychtárovcov, to ju ženie k nemu. Trúfa si väčšmi škodiť   rychtárovcom, keď bude Sýkorovou ženou. Na nešťastie museli svadbu   odložiť na jaseň. Musí za ňou chodiť; bojí sa, že ju iná vôľa nadíde   a nechá ho na ľade. Prikladá polienko za polienkom, aby hnev u nej   nevyhasol.
+    </tei:p>
+    <tei:p>
+     I teraz je u nej. Sedia bez svetla, potme.
+    </tei:p>
+    <tei:p>
+     »Dáme im pokoj, beztoho je chorý a nevieme, ako sa choroba   zvrtne.«
+    </tei:p>
+    <tei:p>
+     »Čo im vykonáte?« rozosmiala sa zlostne. »Vyplatili, čo boli   dlžní, majú pokoj. Oj, majú tí ešte zástupcov!«
+    </tei:p>
+    <tei:p>
+     »Kúpim obligátor od Straku. Čo dám tisícku — ale ich nevypustím!   Kúpim...«
+    </tei:p>
+    <tei:p>
+     »Nič im nespravíte. Čo budete čo robiť, od nej sa vám nedá   odpúdiť. Už ho držia. I dobre im bude na svete, ak výnde.« Nemôže   utajiť vzdych pri tých slovách. »Dobre, lebo sa majú radi. A to je   nadovšetko.« Tu sa zamyslela a konečne končí: »Na dakoho letí samá   bieda — iný vie iba o šťastí. Povedzte, kedy prišlo na tých dačo? No   teraz, teraz sa ukazovalo — a vyplietli sa!«
+    </tei:p>
+    <tei:p>
+     Nad dedinou zjavila sa žiara, vnikla oblokmi a hádže červenú   záplavu na steny; sťa keď sa zore zapália.
+    </tei:p>
+    <tei:p>
+     »Čo je to?« zvolal Sýkora. A za chvíľu dostal odpoveď.
+    </tei:p>
+    <tei:p>
+     »Horí — horí!« čuť z ulice.
+    </tei:p>
+    <tei:p>
+     »To padne kdesi okolo vás,« vraví ona dosť chladne.
+    </tei:p>
+    <tei:p>
+     »Môj dom — môj dom!« Chytá sa za hlavu — nevidí, nečuje, beží ako   bez ducha. Zimomriavky naskočily naň, zuby hrkocú. Strach dodáva   nohám sily. Strach o peniaze. Ukrýva ich pred zlodejmi — nie v   truhlách a armariách, ani v knižkách a biblii. Také schovánky zná už   každý zlodej. On ich má na miestach, kde nikto by nehľadal peňazí. Na   pôjde za rohami a latami v začadených handričkách.
+    </tei:p>
+    <tei:p>
+     »Podpálili ma, podpálili!« bedáka utekajúc. »Chcú ma o všetko   pripraviť.«
+    </tei:p>
+    <tei:p>
+     Vydýchol si. Chalupu našiel tichú, zahrúženú vo tme. No nemá   pokoja. Zaberá na pôjd sťa šuhaj osemnásťročný. Skrýše zná i potme.   Zpoza lát a rohov vyťahuje handričky. Je ich plný klobúk. Sišiel s   pôjda, ide pred dom. Hľadá, kde je žiara — nevidno nič. Dedina je   zase tmavá.
+    </tei:p>
+    <tei:p>
+     »Ach, ako som sa zľakol!« Srdce mu bije silne. Musí sa presvedčiť,   že poklad je tu; celý, nedotknutý. Zapálil sviecu a vtiahol sa do   tmavej komory. Rozkladá bankovky na hŕby. Iba teraz vidí, aký je   ukonaný, ako ho strach načal. Kolená sa mu trasú, i ruky.   »Chvalabohu!« složil ruky k vrelej modlitbe. »Nechýba nič, všetko tu   — peniaze i obligátory...«
+    </tei:p>
+    <tei:p>
+     »Kde by ich dal — kde. Na také dáke miesto... Na pôjd už nie, oj   nie! Príde zlý človek, podpáli. Ani do izby nikde...« Pozdáva sa mu,   že sypáreň je najlepší úkryt. »Ak zhorí, zhorí iba strecha, cez   sklepenie neprehorí. A je medzi stromovím. Zlodeji? Ozaj, tí môžu —   nie je na očiach. Ach, čo vystojíš, ak máš dačo! Ale nie... Na   dverách sú dva bľachy, železné futro...«
+    </tei:p>
+    <tei:p>
+     Rozvážil chladne všetky okolnosti, rozhodol sa za sypáreň. Našiel   miešok, vpratal doň: peniaze na spodok, obligátory na vrch.
+    </tei:p>
+    <tei:p>
+     »Tak!« obzerá si miešok, poťažkáva, nadhadzuje na dlani. Odomkol   oba bľachy, dvere zavrčaly, ako by sa vysmievaly zlodejom. Do nosa   bije vôňa dobre opatreného zbožia, ktorého sú plné skrine,   rozostavené popri stenách.
+    </tei:p>
+    <tei:p>
+     Zaboril sa rukami do vlaňajšej pšenice. Obzrel sa, ako zlodej, no   sypáreň zavretá, nik ho nevidí... Vzal miešok a zaboril hlboko do   pšenice.
+    </tei:p>
+    <tei:p>
+     »Tak!« oddýchol si, chytiac sviecu do ruky. Svieti po kútoch, či   niet nič podozrivého. Ťažké brvná, z ktorých je srub i sklepenie, sú   celé, nedotknuté. A železné futro na dverách odolá každému náporu.   Ostatne nazre tu i tu, či sa dakto nebude dobíjať, miešok tiež   nenechá, vždy na tom istom mieste. Zhasil svetlo, zamkol zámky, ťažké   kľúče zavesil na remeň. Už ich viac beztoho nepopustí.
+    </tei:p>
+    <tei:p>
+     Vyšiel ešte pozavierať vráta. Popred dom ide akási žena.
+    </tei:p>
+    <tei:p>
+     »Kde to horelo?« pýta sa jej.
+    </tei:p>
+    <tei:p>
+     »Nikde. To Kubíkovci pálili slamu vyše dediny.«
+    </tei:p>
+    <tei:p>
+     »Čo za slamu?«
+    </tei:p>
+    <tei:p>
+     »Umrel starý, nuž zpod neho.«
+    </tei:p>
+    <tei:p>
+     »A načo?«
+    </tei:p>
+    <tei:p>
+     »Aby sa chorela spálila. Rychtár, že slamu spáliť zakaždým.«
+    </tei:p>
+    <tei:p>
+     »Čo nevymyslia!«
+    </tei:p>
+    <tei:p>
+     »Veď hej. Aspoň keby to na osoh: ale čím ďalej, tým horšie.«
+    </tei:p>
+    <tei:p>
+     »I to bolo dobre. Aspoň som si ich zariadil. Môžem, už spať   bezpečne,« myslí si, vchádzajúc do izby tmavej, studenej.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     VIII.
+    </tei:head>
+    <tei:p>
+     Eva strávila zase noc bez sna, prehadzujúc sa na posteli. Dorážaly   k nej stony a výkriky chorého, ktorý mal noc ešte horšiu, ako minulá.   Aké to pre ňu muky! Ako by s každým stonom bola vyletela duša z tela   uboleného. Nad ránom sa stíšil. Vyskočila z postele, ide do izby. Oči   má zavreté, bojí sa prejsť tmavým pitvorom s očima otvorenýma; zdá sa   jej, že duchovia nadzemskí sa v ňom tmolia. Vstúpila do izby, dych   jej sekol...
+    </tei:p>
+    <tei:p>
+     Na posteli on, horeznačky s očima zatvorenýma. Dve tmavé jamy   škeria sa na ňu, sťa by boly vypité. Ruky popri tele, každá žilka   označená belasým pásom. Obraz, skutočný obraz smrti. Mať sedí na   lavici, má prisadnutú kúdeľ, ale nepradie. Opretá o stenu drieme s   naklonenou hlavou. Eva hľadí na posteľ — hľadí, či nepostihne dáky   pohyb, ktorý by svedčil o živote. Slzy jej zakrývajú zrak obláčkom. V   tej tichosti hrobovej čosi puklo. Čajsi stôl.
+    </tei:p>
+    <tei:p>
+     Pristúpila k nemu, strežie, bo zdá sa jej, že teraz-teraz sa   rozhodne... Predsa sa hruď ešte hýbe, nevyhasol z nej život. Mať sa   navážila na bok; len-len že neztratila rovnováhu a nespadla. Strhne   sa, oči spaním zmámené upiera na dcéru. Biela postava konča postele,   vysoká, štíhla, bľadá: tak si predstavuje dedinská povera smrť, že si   chodí po chorých.
+    </tei:p>
+    <tei:p>
+     »Choď!« kýva jej mať. »Spí — choď spať!«
+    </tei:p>
+    <tei:p>
+     Chorý otvoril oči, nespúšťa ich s nej. Nepoznáva ju.
+    </tei:p>
+    <tei:p>
+     »Otec?« šepce viac sebe.
+    </tei:p>
+    <tei:p>
+     »A ma neznáš?« naklonila sa mu skoro nad tvár.
+    </tei:p>
+    <tei:p>
+     Oči blúďa po jej tvári s akýmsi obdivom, sťa by chodily na   nepovedomých miestach. Zastavujú sa na každom záhybe. Začínajú sa   upamätúvať, sú trochu živšie.
+    </tei:p>
+    <tei:p>
+     »Eva!« zašepkaly pery. »Choď spať.«
+    </tei:p>
+    <tei:p>
+     Schvátila mu ruku, biednu a studenú. On zavrel oči. Vrátila sa do   komory.
+    </tei:p>
+    <tei:p>
+     Ráno, keď jej slnce zasvietilo do komory, akási nová ufnosť   zobudila sa v nej. Chorý leží bezvládny. Dopytuje sa tuho na otca.   Nemyslela veru, že on otca tak ľúbi. Tak málo prezradzoval k nemu   lásky a konečne i úcty.
+    </tei:p>
+    <tei:p>
+     »Dovediem ho, dovediem — a čo bych život dala za to.« Húta,   vymýšľa spôsoby, ako by ho prehovorila najskôr. Vie, ako mať   pochodila, keď bola uňho. Ona pôjde cestou inou — dlhšou,   obtížnejšou, ale istou...
+    </tei:p>
+    <tei:p>
+     Nepozorovane sa vytratila. Nesverila sa ani materi. Tá by jej iste   nedovolila. Možno i nahnevala by sa. A ona je istá, že ak dačo,   príchod otcov chorého uzdraví. Plán má odvážlivý, ale cieľ je hoden i   takých obetí.
+    </tei:p>
+    <tei:p>
+     Masliačka žasla, keď videla vchádzať do dvora rychtárovu   dcéru.
+    </tei:p>
+    <tei:p>
+     Ešte nikdy neboly spolu, ich chodníčky sa nikdy nekrižovaly.   Stranily sa jedna druhej. Bočily od seba, ale viac z predsudku. Eva   sa jej bojí: pred Zimovou dcérou nešiel veru nikto Masliačku   vychvaľovať; čula na ňu samú hanu. Doma jej vôbec nespomínali, až do   nedávna. Krem toho, keď sa náhodou stretly, Masliačka nepozrela na ňu   dáko vľúdne, tak že Eva sa jej naozaj bojí.
+    </tei:p>
+    <tei:p>
+     I teraz ju víta pohľadom spurným. Ale predsa sa len mierni, sama   nevie, prečo. Snáď že vidí takú plachosť u hosťa, neistotu a   nesmelosť. Nevidno ver’ na Zimovej dcére, že by prišla sem s   nenávisťou, alebo opovržením. Takto sa nedrží, kto chce urážať.
+    </tei:p>
+    <tei:p>
+     »Čo si nám doniesla?« pýta sa jej prívetivo, ako len môže. »Akože   ťa volajú — Zuzka?«
+    </tei:p>
+    <tei:p>
+     »Eva...«
+    </tei:p>
+    <tei:p>
+     »Aha — Eva! Veď som zabudla. A ty si ešte nebola u nás. Mala bych   ti darovať vajce.« I usmiala sa, len aby rozohnala rozpaky u Evy.
+    </tei:p>
+    <tei:p>
+     »Ešte som nebola,« odpovedá Evka hlasom stiesneným. »Nebolo tak   počo...«
+    </tei:p>
+    <tei:p>
+     »Veru! I zakazovali možno,« nato Masliačka, hodiac na ňu okom.
+    </tei:p>
+    <tei:p>
+     »Mne nie. A kto?«
+    </tei:p>
+    <tei:p>
+     Masliačkino podozrenie odpadlo. Jej pohľad i hlas svedčil o úplnej   úprimnosti.
+    </tei:p>
+    <tei:p>
+     »Hej, nebolo počo. Máš pravdu, nebolo. Ba čo ťa sem teraz   donieslo? Viem, že nie pletka.«
+    </tei:p>
+    <tei:p>
+     «Prišla som vás prosiť...«
+    </tei:p>
+    <tei:p>
+     »Prosiť!« Toho slova nečakala. »A čo prosiť? Dlžní ste už nie;   vyplatili ste, čo bolo. Už vás nemám v moci.«
+    </tei:p>
+    <tei:p>
+     »Oj, vy máte veľa v moci, keby to ja!« Hľadí na ňu s obdivom i   úctou. »Keď vy poviete starému... Keď poviete strýkovi Sýkorovie, aby   šiel do nás, pozreť, čo sa mu so synom robí: ja viem, že vďačne   slúchne.«
+    </tei:p>
+    <tei:p>
+     Masliačka sa zamyslela. Musí sa posbierať, je prekvapená rečou i   spôsobom jeho dcéry. Treba si pevne zastať, bo zdá sa, že pôda, na   ktorej stála, začína sa otriasať. Ani nevie, čo odpovedať   nanáhlo.
+    </tei:p>
+    <tei:p>
+     »A načo by tam bol?« pýta sa po chvíli.
+    </tei:p>
+    <tei:p>
+     »Veď je to jeho syn!« zvolala Eva a hľadí jej úprimne do očí.   Bázeň i okúňavosť zmizly. »Srdce to rodičovi káže. Tam mu leží; ani   sem, ani tam — čaká otca. Ako by sa potešil, keby ho zazrel! I   vyzdravel by možno od radosti. A akby i nevyzdravel,« doložila   tichším hlasom, «aspoň by spokojnejšie umrel...«
+    </tei:p>
+    <tei:p>
+     »Hm,« diví sa Masliačka, pokyvujúc hlavou. »To za otcom toľme! A   prečo odišiel od neho?«
+    </tei:p>
+    <tei:p>
+     »Ako by neodišiel, keď otec...« Nie, s tejto strany nemožno, začne   hneď s druhej. »Keby ste vedeli, aký je to kríž, keď idú vernú lásku   trhať! Odišiel preto od neho, keď otec tak... Akože lásku roztrhneš —   iba ak i srdce vydrapíš! A strýk tak chcel... Ale sme my vina? Veď   možno i nám by bolo lepšie, keby sme sa neboli sňali. Mohlo nás minúť   toto. Išla by, za koho by sa trafilo. Ale my už tak nemôžeme. A tu   nás trhajú. Oj, keby ste vedeli!«
+    </tei:p>
+    <tei:p>
+     Masliačka sa díva v prekvapení na ňu. Ona, že to naduté dievča,   horenos: a tu také úprimné. V rečiach i pohľade má čosi, čo ju veľmi   dojíma.
+    </tei:p>
+    <tei:p>
+     »Viem, moja dievka — viem!« odpovedá jej tichým hlasom. Ani tvár   už nie je chladná, i oči pozerajú na Evku súcitne. »Oj, viem, ako je   to — viem ja ešte viac. Kebys’ to zas vedela ty! Vás iba druhí čo   trhajú, ale vy sa nedáte. Ale pováž si, keby sa on dal odtrhnúť,   alebo keby zo svojej nauky... Nuž, keby si tak naraz vzal inú za   ženu!« Sňala oči s Evky a trochu sa odvrátila, i hlas sa zavlnil.   »Inú by si vzal, teba by nechal: ale už nie takú, ako ťa našiel — ale   bez venca. Rozumieš, čo je to? Bez poctivosti dievka! Ľudia ukazujú   na teba, vysmievajú sa, nik nepoľutuje, každý zneváži... Ty sa   ukrývaš, a len ako ukradomky prebehneš po ulici. Ani do kostola   nejdeš — nemáš čo dať na hlavu. Venec ti sňal, čepca ti nedal. To   kebys’ vedela — to!«
+    </tei:p>
+    <tei:p>
+     Sklonila hlavu a mädlí si zásteru. Na hlase poznať, že city sú   vzbúrené. Eva je ohlušená, vie, na koho Masliačka cieli. Nemôže   preriecť slova, akási tieseň padá na ňu.
+    </tei:p>
+    <tei:p>
+     »A ešte ti poviem čosi,« pokračuje Masliačka, šuchnúc si zásterou   po tvári. »To tiež nevieš ešte. Ty na potupu sveta sa ukrývaš a on   oddatý je s druhou. Chodí si pyšno, má všade úctu, lebo priženil sa   na bohatstvo. On je poctivý, iba ty, iba ty... Ani nepozre na teba,   keď ťa stretne; možno, keď ho nevidíš, spraví si posmech. Alebo ťa   obíde, len aby ťa nevidel a zabudol na teba.« Tu zase schýlila hlavu   a mlčí. »A ona — ona!« zvolala, pozrúc na Evku tým dávnym spôsobom.   »Ako sa pýši, že je lepšia, že je poriadnejšia! V kostole si sadne do   prvej lavice. Alebo ako uskočí, keď si máš ty sadnúť k nej!«
+    </tei:p>
+    <tei:p>
+     Eva hľadí na ňu s obdivom; vidno, že ozaj nechápe všetko, čo tu   čuje. Je to tak nové! Vidí iba to, že každé slovo je pravda, že každé   sa zrodilo v ťažkom kríži.
+    </tei:p>
+    <tei:p>
+     »Ty to nevieš, nevieš!« A pozerá skúmavo na ňu. Chce ju snáď   prezreť — roztvoriť každý záhyb duše. A po dlhom mlčaní doložila:   »Nech ťa Boh chráni, abys’ to kedy zvedela!« I hľadí na ňu okom   zaroseným, vľúdnym.
+    </tei:p>
+    <tei:p>
+     Eva je otrasená nielen týmto, ale i tým, čo v tieto dni zažila. Je   vnímavejšou. Toto zakončenie hlboko ju dojalo. Sila neodolateľná núti   ju vyplakať sa na prsiach tejto navštívenej ženy. Složiť na ňu svoje   stesky, žiale. Vrhla sa k nej náruživo a schvátila ju okolo   hrdla.
+    </tei:p>
+    <tei:p>
+     »Čo ti je, dievča? Čo sa ti stalo?«
+    </tei:p>
+    <tei:p>
+     »Keď je mne tak ľúto, tak...«
+    </tei:p>
+    <tei:p>
+     Masliačka nemôže odolať. Vinie k prsiam rozbúreným Zimovo dieťa...   Toto sa jej nikdy neprisnilo. A akosi jej je i voľno, ale i žiaľ.   Prišly jej na um dávne roky, keď tiež bola takáto: nezkúsená i čistá.   Tiež hotová plakať za pletku, lebo nebolo velikých príčin. A túli k   sebe ten svoj obraz z dávnych rokov, čistý, nedotknutý.
+    </tei:p>
+    <tei:p>
+     »Keď som ťa vídala, vždy mi prišiel na um môj Janko, i všetko,   všetko. Neraz mi šlo srdce puknúť, neraz som bola rozsrdená. Bála si   sa ma — čo?«
+    </tei:p>
+    <tei:p>
+     »Keď ste vše tak pozreli!«
+    </tei:p>
+    <tei:p>
+     »Mať ťa nestrašila so mnou?«
+    </tei:p>
+    <tei:p>
+     »Tá nikdy nespomnela. Keby mať vedela! Vy ste ako ona. Ja vás obe,   obe...« A pritisla svoje uslzené líce k Masliačkinmu.
+    </tei:p>
+    <tei:p>
+     Sedely dlho bez slova. Sladko im takto vypočinúť si...
+    </tei:p>
+    <tei:p>
+     »No, a teraz, dievča, choď domov. Sýkoru pošlem; len neviem, či ma   ešte slúchne. Ak neprijde, mne vinu nedávaj. Ja ho pošlem. Tak!«   Stisla jej tvár medzi obe dlane. »Veru som sa nenazdala, že sa takto   poteším. Ako mi je ľahko!« Keď ju vyprevadila na ulicu, ešte sa jej   spýtala: »A prijdeš ešte?«
+    </tei:p>
+    <tei:p>
+     »Oj, ja prijdem.«
+    </tei:p>
+    <tei:p>
+     Keď zachodila za uhol súsedovie domu, musela sa obozreť. Veselý,   jasný pohľad hodila k Masliačkiným vrátam. V nich stojí ona s tvárou   červenou a utiera si oči. Usmialy sa jedna druhej.
+    </tei:p>
+    <tei:p>
+     Eva pozabudla na všetko, i na Jurka. Takej spokojnosti dávno   necítila. Je akoby okúzlená.
+    </tei:p>
+    <tei:p>
+     Pred vrátmi sa zastavila. Prichodí jej na um, čo sa dnes všetko   stalo. Už nie je tá, čo odchodila z domu... Zdá sa jej, že medzi   dnešným ránom a týmto okamihom leží dlhý vek, plný udalostí veselých   i smutných; najviac smutných. Koľko prežila! Ako pozre na otca? Či   bude môcť tak, ako hľadievala? Pane Bože — ako ozaj pozre naň? Či jej   nevyčíta hneď z očí, čo ona všetko vie?
+    </tei:p>
+    <tei:p>
+     Vstúpila do dvora s velikým strachom. On je tam — reparuje čosi na   pluhu.
+    </tei:p>
+    <tei:p>
+     »Kde si bola?« volá na ňu od práce.
+    </tei:p>
+    <tei:p>
+     Ona klopí oči — za svet by ich naň neuprela. Umrela by v tú   minútu.
+    </tei:p>
+    <tei:p>
+     »No — čože to máš za chodníky?« žartuje on, pristúpiac k nej.   Chcel by ju rozveseliť. Ľúto mu jej, že toľko znáša pre Jurka. »Čože   nepovieš? Ha?« Drží ju za ruku a druhou rukou nadvihuje jej tvár.   Hlboká červeň rozlieva sa po nej a horúčosť. Srdce zamiera strachom.   »Ľaľa, ako sa zapálila. Kdeže si ozaj bola?«
+    </tei:p>
+    <tei:p>
+     »U Masliakov,« šepla a z oka jej vypadla slza.
+    </tei:p>
+    <tei:p>
+     »U — u...« Nedopovedal. Stojí bľadý pred ňou. Pustil ju zaraz,   vysadol mu pot na čelo.
+    </tei:p>
+    <tei:p>
+     »Naníčko, nehnevajte sa. Ja som šla...«
+    </tei:p>
+    <tei:p>
+     »Dobre. Choď k materi.«
+    </tei:p>
+    <tei:p>
+     Odvrátil sa. Nezazrela mu tváre. Splašená vbehla do kuchyne.
+    </tei:p>
+    <tei:p>
+     »Mamo, ja som bola u Masliakov!« A pritúlila sa tesno ku nej.
+    </tei:p>
+    <tei:p>
+     »Čo si to zmyslela! keby zvedel otec!«
+    </tei:p>
+    <tei:p>
+     »Už vie.«
+    </tei:p>
+    <tei:p>
+     »I toto ešte — i toto!« zhrozila sa mať.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     IX.
+    </tei:head>
+    <tei:p>
+     Rychtár sa vybral siať oziminu. Prvý raz odchodí, do poľa, čo   cholera panuje.
+    </tei:p>
+    <tei:p>
+     Treba, aby odišiel z domu. Nechce sa stretnúť s dcérou po   včerajšom výstupe. Nechce ju ešte raz uraziť, donútiť, aby sa   červenala do krve. I ona ukrýva sa pred ním; uteká, ako by bol iste   utiekol syn Noachov, spatriv hanbu otcovu, keby ho otec sám nebol   odpúdil od tváre svojej.
+    </tei:p>
+    <tei:p>
+     Zvony vyzváňajú, on kráča pri ornom vozíku. Piskot koliesok mieša   sa s posvätným hlasom zvonov; tak hľa sa miešava slávnostné so   všedným. Ide popri dome, skoro novom ešte. Pred ním sedí dvoje detí,   neumytých, neučesaných. Vypekajú sa na slniečku a nevinne pozerajú na   svet. Dojímajú ho veľmi.
+    </tei:p>
+    <tei:p>
+     »Kde sa to vrhne vo svete — čo si to počne?« húta, pozerajúc na   detváky.
+    </tei:p>
+    <tei:p>
+     »Kto vám je doma?« prihovára sa im, zastaviac kone.
+    </tei:p>
+    <tei:p>
+     »Tetka je sama,« odpovedá chlapec, čosi väčší.
+    </tei:p>
+    <tei:p>
+     Otvoreným oblokom vyšinulo sa poprsie našej Durdule. Vtiahla do   Rehákovského vymretého domu. Riadi, gazduje, rozkazuje, i poslúcha do   dobrej vôle. Ľudia sa nepýtajú, akým právom rozpiera sa v cudzom   dome; ani ju neohovárajú. Vychvaľujú dobrý skutok, že sa zaujala   opustených detí.
+    </tei:p>
+    <tei:p>
+     «A kde ti je otec?« pýta sa rychtár, hladiac chlapca po hlave.
+    </tei:p>
+    <tei:p>
+     »Povedz, Janíčko, strýkovi — povedz, môj syn drahý!« posmeľuje ho   Durduľa.
+    </tei:p>
+    <tei:p>
+     »Tam!« ukazuje dieťa do neba. »A večer sa díva do izby...«
+    </tei:p>
+    <tei:p>
+     Totka mu ukázala na nebo, že tam je otec. Chlapec videl mesiac —   na ten si myslí, že je to otec.
+    </tei:p>
+    <tei:p>
+     »A mať?« pýta sa dojatý.
+    </tei:p>
+    <tei:p>
+     »Mať búva!« zvolalo dievčatko, menšie od chlapca. »Takto!«   Priložilo dlaň na líce a naklonilo hlavu.
+    </tei:p>
+    <tei:p>
+     »Ach, Bože drahý!« ozvala sa Durduľa polo k nim, polo k   rychtárovi. »Dobre vám je do tých čias, kým nezviete, čo vás   zašlo...«
+    </tei:p>
+    <tei:p>
+     »Veru, veru!« prikývol rychtár. »Len ich opatrujte, Katrena.   Nenechajte ich opustené.«
+    </tei:p>
+    <tei:p>
+     »Ale by mi dalo moje srdce?« vykríkla, udrúc sa v prse. »Veď by ma   Boh skáral, časne i večne! A trochu sme i v rodine, i deti sťa   anjeli. Ani raz že by ma nahnevalo. Ach, šťastie, že to aspoň nevie,   čo sa robí. Ale keď podrastú!«
+    </tei:p>
+    <tei:p>
+     Rychtár šibol kone a kráča ďalej.
+    </tei:p>
+    <tei:p>
+     »Veru šťastie, kým ste malé! I moja nevedela, kým bola malá... Čo   si myslela, keď som sa jej spytoval! Čo si myslí teraz — a čo si bude   mysleť, keď ma zas vidí...«
+    </tei:p>
+    <tei:p>
+     Z myšlienok ho vytrhol bača, ktorého stretol vyše dediny.   Chlapisko zdravý, červený; ruky i tvár vybelené. Najradšej by ho bol   obišiel, keby mohol. Nemá vôle do reči — a ešte s bačom, vždy   veselým.
+    </tei:p>
+    <tei:p>
+     »Ktože umrel včera cez deň?« pýta sa bača hlasom stiesneným. Čaká   dychtive; bojí sa, že čuje meno, ktoré mu je drahé. Rychtár mu   menoval jednoho mŕtveho.
+    </tei:p>
+    <tei:p>
+     »A neochorel dakto?«
+    </tei:p>
+    <tei:p>
+     »lba jeden. V noci neviem, či dakto.« I menoval mu chorého. Bača   cíti uľahčenie.
+    </tei:p>
+    <tei:p>
+     »Azda prestane — predsa je už nie toľko... A ten váš, či   Sýkorov?«
+    </tei:p>
+    <tei:p>
+     »Akosi len rovnako. Azda výnde,« odpovedá rychtár.
+    </tei:p>
+    <tei:p>
+     »Ale ja bych nedbal « — poškrabal sa za uchom medzi vlasmi,   vymastenými — »viete, máme na salaši vlka...«
+    </tei:p>
+    <tei:p>
+     »Čo zase?«
+    </tei:p>
+    <tei:p>
+     »Takého o dvoch nohách. Ozajstný chvatne od kraja, dojku-nedojku:   takýto najradšej jarky. Dve skapaly predvčerajšej noci. Prepasť sa   neprepadly — z nášho salaša nikto; z druhého daktorho — ani tam,   nečuť, že by boli takí vtáci. Ktosi z dediny nás navštívil. Len že   nás psi nezobudili!«
+    </tei:p>
+    <tei:p>
+     »No, o tom sme tiež neslýchali u nás. A na koho myslíte?«
+    </tei:p>
+    <tei:p>
+     »Nuž my sme hneď skrúcali sito...«
+    </tei:p>
+    <tei:p>
+     »Ale choďte s vaším sitom! To vám už povie!« zvolal so   smiechom.
+    </tei:p>
+    <tei:p>
+     »Ej, bysťu bohu, hej! Svätý Peter, svätý Ján, povedz... Ani sa   nehýbalo, iba kdesi na desiatom mene. Na Paráka sa trhlo, že nám   vypadlo z ruky. Pamätajte, u Paráka bude aspoň koža.«
+    </tei:p>
+    <tei:p>
+     »Ak bude koža — bude i jarka! Ale povedáte, predvčerajšej noci.   Cez včerajšok a zavčerajšok kdeže budú jarky! Čo ste neprišli   zaraz?«
+    </tei:p>
+    <tei:p>
+     »Ej ba nie, rychtár. Taký vták za horúca prekryje. Zavčerom by ste   ho boli našli košinky pliesť a v celom dome nič. Zakopal ich dakde v   hore a sedel doma ako prikutý. Včera možno varil už pľúcka. A dnes   pošlem mu Durduľu do kuchyne, ohňa požičať. Ak ich zajal, už iste   bude mäso v hrnci. Len sa obráťte — večer vás možno bude treba. A   možno mu sám hnáty polámem.«
+    </tei:p>
+    <tei:p>
+     Rychtára toto vytrhlo z ťažkých dúm. Rozmýšľa nad týmto zvláštnym   prípadom.
+    </tei:p>
+    <tei:p>
+     Je istý, že krádež nespáchal Lomničan. Jarku zajať, to nie. Krádež   taká je v Lomnici nie v móde. Darmo je — i krádež podlieha móde. V   jednej obci sa kradne statok rovno zo stajne — tam najviac kravy,   inde kone, alebo voly. Inde zas pľundrujú sa záhrady a sady, sotva sa   ovocie zaviaže; lámu sa mladé štepy. Inde zas milujú včely — vec   veľmi bravúrna. Lomničania sú veľmi zbabelí. Tí kradnú iba v poli.   Podhrabe sa v noci záhon švábky, alebo sa kradnú snopy z krížov — i   to tak, aby gazda hneď nezbadal, že mu v krížoch iní gazdovali. A   všetci bez rozdielu obkrádajú obec — lebo vraj »to je naše,« menovite   hory. Starý Sýkora vedel by o tom viac povedať. Sťať jedľu, odviezť   ju a složiť na píle — všetko cez noc: to je ešte nie tak veliký   fígeľ. Ale na salaši jarky — nie, to je nie Lomničanova robota!
+    </tei:p>
+    <tei:p>
+     Rychtár vynechal iba jednu vec. Tú, že mimoriadne časy učia   človeka mimoriadnym veciam. V takom zmätku, aký narobila cholera,   ľahko sa najdú, čo koristia z rozstrojenia spoločnosti. Ostatne vec   ho veľmi nezaníma. Má on na čo mysleť — má!
+    </tei:p>
+    <tei:p>
+     »Ako dávno sa to stalo,« húta za pluhom — »človek by myslel, že je   už pokoj, a tu naraz pokuta!«
+    </tei:p>
+    <tei:p>
+     Naučil sa považovať Masliačkinu vec za odbavenú, zabudnutú. On   aspoň už zabudol. Hriech sa stal, ale predsa sa napravil. Veď   nezostala tak, vydala sa za Masliaka. Ona možno nezabudla, ale svet   zabudol a on tiež si namyslel, že má právo zabudnúť. Pomstu čakal   dávno a pomsta nevystala. Veď prečo mu požičala peniaze? Koľké časy   ho držala v strachu o dom, gazdovstvo i o postavenie v obci. Či to   nie dobrá pomsta? I vyhnať ho chcela z gazdovstva: a bola by, nech sa   nezachráni... Nuž môže byť spokojná, dosť sa ho napreháňala. Keď sa   vysvobodil, bol by už zavýskal — ale sa bál výskať: časy sú neisté,   trasieš sa nad najdrahším, čo máš — nad životom. Tu choroba hodila mu   Jurka, jeho pýchu... A tu sa striasol. Šípil, že i to pomsta — ale už   nie od nej. Inú ruku tam videl.
+    </tei:p>
+    <tei:p>
+     Či v tom nebolo vidno tiež pokutu, keď Sýkora zakázal synovi mať   známosť s Evkou? A to preto isté, prečo on opustil Masliačku — pre   chudobu. Áno, jeho dcére hrozila taká chudoba, ako Masliačke, kým   bola u otca. Hľa, i v tom bola tá mocná, tajomná ruka... Videl ju,   cítil ju — odtiaľ tá zronenosť. No i to minulo. Jurko dokázal väčšiu   stálosť, ako on u svojej prvej milenky.
+    </tei:p>
+    <tei:p>
+     Nuž dosť vytrpel strachu, a strach je krutá pokuta! Začal sa ufať,   že na tom prestane. Zmýlil sa. Pokuta prišla, keď ju nečakal, s tej   strany, odkiaľ nemyslel. I väčšia, ako si predstavoval. Nad jeho   hriechom pýri sa jeho dieťa! Už to je dosť. Ale z toho nasleduje zase   nový trest: musí sa jej vyhýbať. Nesmie už nazreť do jej očí, z   ktorých mu žiarila detinská láska. I dôvera podkosená náhlym   uvedomením. Dôvera, ktorá medzi otcom a dieťaťom je nezbytná.   Doterajší pomer je srútený — čo bude nasledovať?
+    </tei:p>
+    <tei:p>
+     A nový hriech má na svedomí. Duša dieťaťa nie je tá, čo bola.   Ofľuskol ju brudom svojho hriechu. Duša tá vyhnatá je navždy z raja   nevinnosti — okúsila so stromu vedomia... Vedomie jeho hriechu   sotrelo s nej pel nevinnosti.
+    </tei:p>
+    <tei:p>
+     A kto môže povedať, čo za muky znáša jeho dcéra? Veď i ona túži za   pohľadom otcovým — ona tiež vari túži za starou dôverou. A nesmie sa   privinúť k nemu, musí ututlať v sebe mocný hlas srdca.
+    </tei:p>
+    <tei:p>
+     To všetko cíti, robiac brázdu za brázdou. Áno, precítil veci,   ktoré pero nepoloží nikdy na papier. Bolo by mu uľahčením, keby sa   mohol sveriť dakomu, keby smel prosiť od dcéry odpustenia. Ale či sa   jej smie zdôveriť, smie ju prosiť? Veď tým vtiahol by ju ešte hlbšie   do mláky.
+    </tei:p>
+    <tei:p>
+     »Čo robiť? Kde sa hodiť?« pýta sa sám seba. »Ako by bolo dobre,   keby ma nebolo na svete.« A to sa mu zdá skutočne jediným východom.   »Keby tak cholera! Veď koľko ľudí pomrelo — užitočnejších na   svete...«
+    </tei:p>
+    <tei:p>
+     »V čom som ja užitočný?« predkladá si otázku. Hľadá tú postať,   ktorú zaplnil. V rodine? Hľa, kam priviedol rodinu. Je pohoršením   dcére. Rozmnožil snáď majetok? Nie, ešte ho načal. Len, len že ho   nerozhádzal.
+    </tei:p>
+    <tei:p>
+     V čom tedy, v čom? V obci.
+    </tei:p>
+    <tei:p>
+     Áno, veľa si zakladal na tom kedysi. Držia ho za prvého rychtára v   okrese. A čo vykonal? Zveľadil majetok obce? Ono je pravda, šanoval   občanov. Len preto reparoval mlyny za svoje peniaze. Ale čo dosiahol?   Práve opak toho. Seba zamočil do dlhov a teraz obec musí mu splatiť   na raz, čo by bola po čiastkach. Nuž, to je tá chýrna dobrota?
+    </tei:p>
+    <tei:p>
+     Alebo ju snáď mravne podvihol? Sú občania snáď menší egoisti,   menší korheli, menší zlodeji?
+    </tei:p>
+    <tei:p>
+     »V ničom, v ničom« — hrmí mu mohutný hlas v duši. »V ničom si nie   užitočný...«
+    </tei:p>
+    <tei:p>
+     »Ale si ho vezmem sám, ten život? Sám?«
+    </tei:p>
+    <tei:p>
+     Zhrozil sa takej otázky. Akú hanbu by uvalil na seba a nadovšetko   — na dieťa. »Nie — nie...«
+    </tei:p>
+    <tei:p>
+     A tu sa ozval uňho iný hlas.
+    </tei:p>
+    <tei:p>
+     »Druhí tiež tak porobili, ako ty: a majú pokoj. Žijú si, ako by   boli celkom spravedliví. I šťastní sú na svete. Ani raz nevzdychnú:   ,A odpusť nám naše viny...‘ Ani len raz nehne sa svedomie...«
+    </tei:p>
+    <tei:p>
+     »To spí« — odpovedá si sám. »Spí, ako spalo moje. Ale sa   prebudilo, a už nedá sa utíšiť — nedá.«
+    </tei:p>
+    <tei:p>
+     »Ale prečo trpí i dieťa? Ja môžem — zaslúžim. Prečo trpí i   nevinnosť?«
+    </tei:p>
+    <tei:p>
+     Tu už nenachádza inej odpovede, ako známu zo starého Zákona: »Do   tretieho i štvrtého pokolenia...«
+    </tei:p>
+    <tei:p>
+     Tak hľa s neho prešla hniloba na rodinu, na obec, na všetko, s čím   prišiel do styku. Sám sebe sa hnusí, sám na seba jeduje. A hnev   prenáša na koho môže — na Masliačku.
+    </tei:p>
+    <tei:p>
+     »Prečo to urobila? Čo sa previnilo moje dieťa? Čo ho vábila, čo to   nastrojila?«
+    </tei:p>
+    <tei:p>
+     Krv mu zovrela, bol by hotový krvavo sa pomstiť. Ani už nemá   pokoja, zem nechal zemou a berie sa do domu.
+    </tei:p>
+    <tei:p>
+     Žena sa podivila, že sa už vrátil. I zľakla sa, lebo vidno, i zrno   doviezol domov.
+    </tei:p>
+    <tei:p>
+     »Nie si chorý?«
+    </tei:p>
+    <tei:p>
+     »Ej, chorý, chorý,« dumá on. »Keby to bola choroba, ako si   myslí!«
+    </tei:p>
+    <tei:p>
+     Šiel rovnou cestou k Masliačke.
+    </tei:p>
+    <tei:p>
+     »Čo chcete ešte?« zvolala, vidiac ho zdiveného. Naľakala sa, takto   ho ešte nevidela.
+    </tei:p>
+    <tei:p>
+     »Čo chcem! Spytuj sa ešte, čo chcem. Nevieš, čo si urobila? Čo si   mi skynožila dieťa!«
+    </tei:p>
+    <tei:p>
+     »Ja? Ja som jej nič... Čo sa jej stalo?« Pýta sa s takou účasťou,   s takým strachom, že rychtár sa diví, kde sa to u nej berie. »Vari   ochorela?«
+    </tei:p>
+    <tei:p>
+     »Čo si jej povedala? Povedz! Čo si jej povedala!« zvolal, zalomiac   rukami.
+    </tei:p>
+    <tei:p>
+     »A čo? To už dávno vie... To už mohla vedieť dieťaťom. No ešte   dieťaťu sa zatají, ale tu odrastenému! Ak i nevedela, kedysi musela   by zvedieť.«
+    </tei:p>
+    <tei:p>
+     »Ale prečo teraz, prečo tak náhle? Aspoň dakoľko dni ešte... A tu   hneď. Oj, ty nevieš, aký je to hriech!«
+    </tei:p>
+    <tei:p>
+     Prešly ho všetky úmysly na pomstu. Zostal v ňom nekonečný   žiaľ.
+    </tei:p>
+    <tei:p>
+     »Čo si chcela? Mňa poraniť — vyvŕšiť si sa chcela! A na ňu sa   sviezlo, na ňu...«
+    </tei:p>
+    <tei:p>
+     Masliačka prvý raz hľadí naň so súcitom. Chápe jeho nešťastie.   »Nie — u mňa pomsta zastydla. Čo tu bola ona — ja som zabudla na   všetko, i na tú krivdu. Ale keď sme boli zoči-voči, nadišlo ma tak. —   Nuž, vytúžila som sa jej; bolo mi hneď ľahšie. A tak sme sa vyplakaly   obe...«
+    </tei:p>
+    <tei:p>
+     »Načo si to robila — načo!« A chytá si hlavu, lebo mu v nej hučí.   »Či si ju nemohla ušanovať od tej, od tej hanby! Nevieš, že jej pri   mne bude ako na mukách? Čo si to robila!«
+    </tei:p>
+    <tei:p>
+     Nehľadá už výhovoriek, nevytýka mu, nevyhadzuje na oči. Ľutuje, že   je vinná toľkého súženia. Neprosí — mlčí. Tak sedia zase, obťažení   bôľom i trudnými rozpomienkami. Oba veru, oba nesú svoj podiel —   každému sa dostalo.
+    </tei:p>
+    <tei:p>
+     Na rychtára zasadla akási tuposť. Ľahostajnosť by to bola, keby   srdce sa netriaslo ešte pod rozjatrenou ranou. Ale hneď precítil.   Vrzly dvere, pri nich stojí Eva, bľadá, smutná...
+    </tei:p>
+    <tei:p>
+     Dal by všetko svoje, keby ho toto bolo obišlo.
+    </tei:p>
+    <tei:p>
+     I Eve zamrelo slovo na ústach. Tu je otec, zničený nešťastím.   Hodila by sa mu k nohám, prosila by ho, sklonila hlavu na jeho prsia   — ale ako môže? Veď by ho urazila, keby ho začala odprosovať. Nevie,   nevie, ako by sa to dalo napraviť. Život by dala, keby sa mohlo   odstať, čo sa stalo...
+    </tei:p>
+    <tei:p>
+     On vidí iba svoj hriech a jej nešťastie. Nevládze už niesť tú   ťarchu samotný. Neuprosný zákon ho núti hľadať dušu, ktorá prevezme   diel ťarchy. A tá duša môže byť iba ona... Vstal, urobil krok — ten   ho stál viac, než smrť sama. No ona pobadala, čo otec chce. Už stojí   pri ňom a kladie jeho ruku k svojim ústam.
+    </tei:p>
+    <tei:p>
+     »Dievka moja — nehneváš sa?« V tom bolo i vyznanie viny, i   odprosenie. Takej polahody nezažil nikdy. Okriala duša pot tými   divotvornými slovami.
+    </tei:p>
+    <tei:p>
+     »Ale ja — ja bych sa hnevala?« A kryje tvár na jeho prsiach a   plače náruživo. Jej slzy ako by i jemu s duše smývaly všetku tú   trosku i brud — duša ako by bola čistejšia, prepálená...
+    </tei:p>
+    <tei:p>
+     A keď mu je tak voľno, nemôže si odopreť, aby nepozrel do tých   očí, z ktorých hľadievala naň duša čistá. Podvihol jej tvár — ona už   neklopí oči, nezalieva sa rumencom. Divno — už sa prestala báť jeho   pohľadu...
+    </tei:p>
+    <tei:p>
+     A on hľadá ten pohľad, hľadá. No to sú už nie tie oči. To je už   nie ten pohľad devy.
+    </tei:p>
+    <tei:p>
+     Zabolelo ho, že on sám ho zahnal kamsi...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     X.
+    </tei:head>
+    <tei:p>
+     Čo hľadala Eva u Masliačky?
+    </tei:p>
+    <tei:p>
+     To, čo prvý raz. Jurko tak túžil za otcom, každú chvíľu ho   občakával, pri každom šuchote myslel, že to on a rozčúlený načúval,   dvíhal sa a zas padal do perín a ľútostive vzdychal: že Eva nemohla   sa už na to dívať a šla ešte raz k Masliačke upomenúť ju na sľub.
+    </tei:p>
+    <tei:p>
+     Rychtár teraz už zvedel od dcéry, že Masliačka nenie na vine.
+    </tei:p>
+    <tei:p>
+     »Stalo sa, už sa neodstane. Ináč sa bez toho nemohlo stať.«   Upokojuje sa ako každý, kto sa upokojiť musí.
+    </tei:p>
+    <tei:p>
+     I teraz sa pýta chorý Evky: »kde je otec?«
+    </tei:p>
+    <tei:p>
+     »Išiel siať — nemôže prísť. Bojí sa, že padnú suchá; tak sa   ponáhľa.« Takýmito výhovorkami ho musí častovať. Učí sa pomaly   cigániť. Zprvu vymýšľala jednoduché výhovorky — teraz sa už chytá i   složitejších. Lebo zprvu ešte uveril, uspokojil sa i hlúpou   výhovorkou — teraz je už nedôverčivý. Musí byť výhovorka veľmi súca,   aby sa dal podviesť. A pritom všade jej podkladá zlé úmysly, vo   všetkom ju upodozrieva.
+    </tei:p>
+    <tei:p>
+     »Hej, išiel!« odpovedá celkom ako rozmaznané decko, so zvláštnym   nosovým prízvukom. Lebo ja neviem, že náš otec nesejava oziminu!«
+    </tei:p>
+    <tei:p>
+     »A ako by bol bez oziminy?« pýta sa Evka. »Veď musí siať.«
+    </tei:p>
+    <tei:p>
+     »Ale iba z polovice. Do svojich zemí seje jarinu.«
+    </tei:p>
+    <tei:p>
+     Ozaj divné, že vzdor chlapectvu v daktorých veciach pamätá i   takéto podrobnosti. Často prezradí veliký bystrozrak.
+    </tei:p>
+    <tei:p>
+     Hľadí naň bokom, v čom sa tak zmenil, či choroba nepostupuje. No   on zbadal tento pohľad. Už ju upodozrieva, že mu čosi zatajila.
+    </tei:p>
+    <tei:p>
+     »Vy ma cigánite!« zvolal prudko. »Nikdy pravdu, iba cigánstvo. Vy   si mívate, že ja som blázon. Že ja uverím... Otcovi ste ani   neodkázali. Nechcete ho pustiť — a ja na posteli... A kto ma to drží?   Ideš! A to žíďa s kopýtkami zase si bradu olizuje. Poď sem, poď — ja   ti soženiem muchu...«
+    </tei:p>
+    <tei:p>
+     Trápne sú jej jeho blúznenia, ale ešte trápnejšie, keď sa   dostavuje čisté vedomie. Hneď o otcovi. I v blúznení ho spomína. Eva   už nenávidí starého pre toľkú ľahostajnosť.
+    </tei:p>
+    <tei:p>
+     A aké prekvapenie! Starý Sýkora ide k nim...
+    </tei:p>
+    <tei:p>
+     »Predsa je nie taký. Predsa má ešte citu!« Beží proti nemu pod   stenu. »Ľaľa, neborák, aký je zmenený!«
+    </tei:p>
+    <tei:p>
+     A ozaj je zmenený, a nešťastný! Čo by sa vedel vytúžiť, čo myslí —   koľko srdu, i bôľu, i zúfalstva! No ústa sú nemé, len tvár a   oči...
+    </tei:p>
+    <tei:p>
+     »Ach, keď ste len prišli!« volá mu Evka. »My vás tak ťažko čakáme.   Každú hodinu vás spomenieme desať ráz. Už sme si, že neprijdete. A   ono — chvalabohu!«
+    </tei:p>
+    <tei:p>
+     »Čo chvalabohu — čerta chvalabohu!« zvolal divoko. »Vy ma čakáte?«   usmial sa zlostne.
+    </tei:p>
+    <tei:p>
+     »Od troch dní už na isto.«
+    </tei:p>
+    <tei:p>
+     »Čo — od troch dní!« A tu sa zamyslel a oč mu zablysly. »Od troch   dní. — Ako od zavčerajška večer — ha?« A s celou duševnou silou   sbiera myšlienky.
+    </tei:p>
+    <tei:p>
+     Ťažko ich posbierať. Rozprchly sa, ako keď výstrel shrmí nad   kŕdľom poľných vrabcov. Málo chybí, že nerozprchnú sa na veky. Že   neroztratily sa i s rozumom, i smyslami, i životom... Ťažký úder   dopadol naň, razom, nečakane. Zavčerom večer ešte všetky peniaze boly   v jačmeni — do jačmeňa ich bol preložil — a teraz ani jačmeňa, ani   peňazí. Neveril by sám sebe, keby z fundamentu nebola vyvalená skala.   Zlodeji sa vkopali do sypárne. Vynosili jačmeň, s jačmeňom vzali i   poklad. Iba dnes zvedel, včera ani pri sypárni nebol. Prvý raz   zameškal svoj poklad navštíviť. Snáď už včera bol odvlečený.
+    </tei:p>
+    <tei:p>
+     Vybral sa k rychtárovi. »Keď si rychtárom, tak hľadaj,« pomyslel   si. Bežal bez rozváženia, ako stroj. Zabudol na syna, i všetko. Ale   keď Eva vybehla proti nemu, uradovaná, že prišiel, zvláštne myšlienky   zkrsly v pomýlenej hlave.
+    </tei:p>
+    <tei:p>
+     »Spomínali ma, čakajú ma tri dni — prečo?«
+    </tei:p>
+    <tei:p>
+     Prišlo mu na um, čo všetko sa medzi nimi stalo. Syna mu odvábili,   Mojžiša zastali, Masliačku odhovorili od neho — vo všetkom mu   škodili. Ukázali mu, že sa nedajú, že ho pozavracajú. Mívali si, že   pozlotky prijme syna do domu i s nevestou. Dali ho volať. A keď   neprišiel, kto vie, či ho neprobovali prinútiť.
+    </tei:p>
+    <tei:p>
+     Drží sa tej myšlienky, ako sa chytá stebla, kto sa už topí. Verí,   že peniaze najde ukryté v armarii rychtárskej.
+    </tei:p>
+    <tei:p>
+     »Nuž čakali ste ma, čakali.«
+    </tei:p>
+    <tei:p>
+     »Kdeže nie!« zvolala Evka.
+    </tei:p>
+    <tei:p>
+     »A rychtár je doma?«
+    </tei:p>
+    <tei:p>
+     »Teraz vyšiel kdesi.«
+    </tei:p>
+    <tei:p>
+     »A včera bol doma. A zavčerom?«
+    </tei:p>
+    <tei:p>
+     »Ja neviem.« Má pravdu. Otca nevidela od zavčerom rána. »Dnes   oral.«
+    </tei:p>
+    <tei:p>
+     »Oral?« pýta sa starý. »A kde?«
+    </tei:p>
+    <tei:p>
+     »Medzi jarky. Na horekoncovej.«
+    </tei:p>
+    <tei:p>
+     »Nuž niet ho doma. No — prebehni, dievča, poň, prebehni. Ja ho   dočkám.« A sadá si na prah u dverí.
+    </tei:p>
+    <tei:p>
+     Evka nevie, či ona blaznie, a či starý.
+    </tei:p>
+    <tei:p>
+     »A nepôjdete do izby? Ten vás čaká. Toľme vás spomína!«
+    </tei:p>
+    <tei:p>
+     »Nuž bárs i do izby. Len utekaj. Zavolaj ho, zavolaj!«
+    </tei:p>
+    <tei:p>
+     Vošiel do izby. Bola v nej rychtárka, ale ako ho zazrela,   nepozrela naň. Bez slova odišla do kuchyne.
+    </tei:p>
+    <tei:p>
+     Obzerá sa po izbe, či by nevidel dačo. Dačo, čo by viedlo na   stopu... Čo len kus plátenka z mieška, alebo dačo. No izba je ako   indy. Ba nie. Posteľ je odpravená, na nej leží...
+    </tei:p>
+    <tei:p>
+     Prizerá sa mu tuho. Pohľad ten zahnal na chvíľu iné starosti. Veru   sotva by ho poznal, keby ho videl takto inde.
+    </tei:p>
+    <tei:p>
+     »Chorý je — predsa je chorý,« dumá. »Ja že len tak   odkazujú...«
+    </tei:p>
+    <tei:p>
+     »A ste prišli, ňaňo?« zvolal Juro, zodvihnúc hlavu, šťastný úsmev   na tvári. »Keď ste len prišli! Ja že neprijdete... Sadnite si tuto,   ku posteli, sadnite. V očiach sa mi mení.«
+    </tei:p>
+    <tei:p>
+     Otec slúchol. Sadol si na dlhú stolicu s operadlom, priloženú k   posteli, aby chorý nevypadol.
+    </tei:p>
+    <tei:p>
+     »Ja som tak rád — lebo vidíte, mne bolo veľmi ťažko. Bolo mi neraz   v noci, že už nedožijem do rána: taká slabosť! Ale ja len vždy: ešte   si otca nevidel. Veru ťažko by bolo zomreť...«
+    </tei:p>
+    <tei:p>
+     »Vidíš, synku, vidíš!« vytýka starý. »A slúchať nechceš.«
+    </tei:p>
+    <tei:p>
+     »Veď by ja slúchal vo všetkom: ale ako som mohol! A keď ste mi   lásku nepreukázali. Načo ste ma silili do takej veci?«
+    </tei:p>
+    <tei:p>
+     »Nuž rob si, ako vieš.« I zmizlo mu s tváre, čo sa bolo usadilo na   ňu. Čosi takého, čo Juro nikdy ešte nepobadal. Akoby nežnosť. Teraz   obyčajná tvár — zachmúrená, starosťami zaujatá. Starosťami, ktoré   ďaleko, ďaleko stoja od syna. »Ja som chcel dobre. Bol by si   opatrený. A takto nič — žobrák na veky.«
+    </tei:p>
+    <tei:p>
+     »Ja radšej pri chudobe. Keby sme boli chudobní, bolo by   lepšie.«
+    </tei:p>
+    <tei:p>
+     »Čo?« diví sa starý. Takého slova ešte nepočul. »Čo je nad   peniaze? Komu zavadzajú?«
+    </tei:p>
+    <tei:p>
+     »A nám hádam nie?« Jurko hovorí ticho, ale s presvedčením. Veci,   na ktoré myslel sto ráz, ale otcovi ešte nepovedal. »Keby sme boli v   chudobe, neboli by sme žili tak... Veď viete, ako sme žili. Sťa   cudzí! Vina boly peniaze. A z domu som musel vystúpiť — tiež, len pre   peniaze. Čo je na nich dobrého, keď toľko, toľko sa trpí pre ne! Ja   si myslím, že peniaze sú vec vonkoncom nanič. Pre ne sa porobí   najviac zlého na svete.«
+    </tei:p>
+    <tei:p>
+     »Načo by to povedal, takú vec!« zavracia ho otec. Ináč by mu   povedal, keby ho nevidel chorého. Takto predsa má ohľad. »Bez peňazí   nič nemôžeš robiť, ani pohnúť. Čo krok — už peniaze. S peniazmi   zajdeš kraj sveta a bude tvoje, čo sa ti zažiada. Ani do kostola   nemôžeš ísť, ak nemáš krajciar na oferu. A kde by bol kostol i s   farárom, keby nebolo peňazí? Zavýjali by sme ako vlci v horách, keby   nie peniaze. Za ne ťa uctí každý. Dajú sa ti do známosti i takí, čo   si ich nikdy nevidel. Každý ti dožičí, čo si zažiadaš, lebo sa ťa   bojí. To je nie vec nanič, ale veľmi dobrá. Ja som nikoho nepočul,   aby bol povedal: nechcem peňazí, nate ich, spáľte, alebo zakopte.   Každý povie: keby ich len bolo! Všetko baží za nimi, boháč i   chudobný. Oj, čo sa nabiedime, nautískame, len aby ich bolo...«
+    </tei:p>
+    <tei:p>
+     Sklonil hlavu a zamlčal sa. Nemožno mu utlačiť pohnutie. Prišiel   razom o to, o čom tak oduševnene hovorí. Hodil rukou a doložil: »Keď   ti len peniaze zavadzaly, už ti nebudú. Nemám ani babky...«
+    </tei:p>
+    <tei:p>
+     »A?« Chorý nemohol sa viac pýtať od prekvapenia.
+    </tei:p>
+    <tei:p>
+     »Ja — všetko šlo, všetko — ako keď vietor sfúkne. Ako páper, ako   tráva v poli...« Sklonil hlavu na operadlo. Celé telo sa skube, sťa   by páraly cezeň elektrické údery. Chorý dobíja doň otázkami, no on ho   už nečuje. Len tu i tu vykradne sa ťažký vzdych zo stiesnenej   hrudi.
+    </tei:p>
+    <tei:p>
+     Rychtár sa skoro vrátil. Celý dom sa vzbúril, keď počuli, čo sa   stalo. Rychtár je premenený. Rychtárka skočila k posteli, chorý   plače, skube si vlasy.
+    </tei:p>
+    <tei:p>
+     Starý zabudol na svoj kríž, synovo držanie ho prekvapuje.
+    </tei:p>
+    <tei:p>
+     »Vidíš!« posmieva sa mu. »Prvej zle-nedobre na ne — teraz zase   takto, že skapaly.«
+    </tei:p>
+    <tei:p>
+     »Ja nie preto — oj, načo sú mi! Ale to, že zas len peniaze. Neboli   by ste prišli, aby nie peniaze. Ja som vás toľme čakal a vy — pre   peniaze!«
+    </tei:p>
+    <tei:p>
+     Starý hľadí naň spurne, nahnevaný.
+    </tei:p>
+    <tei:p>
+     Eva hľadí naň s výčitkou. »Ani do izby nechcel vojsť.« Ale   neopováži sa chorého ešte väčšmi rozbúriť.
+    </tei:p>
+    <tei:p>
+     »Na koho si myslíte?« pýta sa rychtár. »Nečujete nič?«
+    </tei:p>
+    <tei:p>
+     »Na koho? A ja viem? Každý vezme, keď stihne. Z dom na dom sa   pôjde, nik sa neobíde. Ja ich musím najsť, musím...«
+    </tei:p>
+    <tei:p>
+     »To svoláme boženíkov. Každý v svojej ralej bude prezerať. Dievča,   choď k hajtmanovi, nech ich soženie. A kým prijdú, choďte:   prezerajte, poprehŕňajte všetko. Keď z dom na dom — začnime u   rychtára. Od hlavy ryba smrdí.«
+    </tei:p>
+    <tei:p>
+     Rychtár chcel Sýkoru takto zavrátiť: netušil, že ten má   podozrenie. A ten pochytil kľúče, duluje po truhliach, armariách,   prehadzuje v izbe, kuchyni i komorách všetko. Ani pôjda nevynechal.   Práve sa vrátil zo sypárne, keď sa boženíci poschodili.
+    </tei:p>
+    <tei:p>
+     »No našli ste dačo?« pýta sa ho rychtár trpko.
+    </tei:p>
+    <tei:p>
+     »Hanba, posmech! keby čo nešianala... Choďte mi ho z domu!« kričí   rychtárka.
+    </tei:p>
+    <tei:p>
+     Sýkora dal na javo podozrenie proti rychtárovi veľmi určite.   Rychtár rozložil vec boženíkom, prinútil ich, aby oni ešte raz   predulovali celý dom. Rychtár čaká v izbe na výsledok, Eva plače v   komore a rychtárka nadáva v kuchyni. Prehliadka skončila sa bez   výsledku.
+    </tei:p>
+    <tei:p>
+     Keď vyšli na dvor, rychtár pristúpil k Sýkorovi.
+    </tei:p>
+    <tei:p>
+     »Za toto sa budete zodpovedať!« A päsť mu zodvihol nad hlavu.
+    </tei:p>
+    <tei:p>
+     »Ja som nepovedal na nikoho.«
+    </tei:p>
+    <tei:p>
+     »Ale viem, na koho padalo!«
+    </tei:p>
+    <tei:p>
+     Do tvrdej noci chodili po dedine. Nenašli nič podozrivého. I ťažko   nájsť. Sýkorov jačmeň je len taký, ako čí druhý. A u rychtára vôbec   jačmeňa nenašli. Podozrenie zostalo zase len na všetkých a na   nikom.
+    </tei:p>
+    <tei:p>
+     Sýkoru už opustila i nádej, jediné, čo ho držalo. Čo má čakať?   Krádež je oznámená i v slúžnovstve — ale čo bude za výsledok? Kde   hľadať peniaze, keď sú jedny ako druhé a dajú sa prekryť?
+    </tei:p>
+    <tei:p>
+     Vošiel do domu tmavého, studeného.
+    </tei:p>
+    <tei:p>
+     »A čo teraz?« pýta sa sám seba. Čo budem robiť?«
+    </tei:p>
+    <tei:p>
+     Ťažko odpovedať. Húta, rozvažuje — no nevidí nič, čo by bolo   robiť. Dosiaľ bola robota jediná: opatrovať peniaze. »Čo budeš   opatrovať, keď ich nemáš? Všetko skapalo — všetko!« Trhá si vlasy v   zúfaní. »Všetky starosti, všetka moja práca, moje mozole...«
+    </tei:p>
+    <tei:p>
+     »Iba tvoje — naozaj tvoje? Cudzích nebolo?« pýta sa ho taký hlas,   ktorého ešte nikdy nepočul prehovoriť. »Bola to práca, ozaj práca, čo   si ty robil? Ozajstné mozole?«
+    </tei:p>
+    <tei:p>
+     Obzerá ruku, maká, hladí — skutočne mozole. Jeho práca teda; nie   cudzia. On priložil k nej ruku.
+    </tei:p>
+    <tei:p>
+     »A u iných mozoľov niet? A nie sú ešte tvrdšie? A predsa neshrnuli   toľko bohatstva. Kde si ho vzal — kde?»
+    </tei:p>
+    <tei:p>
+     »Šťastie,« teší sa on. »Mne slúžilo, iným nie...«
+    </tei:p>
+    <tei:p>
+     Ale taký hlas nedá sa umlčať, utíšiť, ani podkúpiť. Ukazuje mu, v   čom záležala jeho »práca«. Úskoky, lesť, obchádzanie zákona, využitie   slabostí ľudských, vykoristenie cudzieho nešťastia, zapredanie cti,   statočnosti i viery — to je tá práca. Koľko sĺz sa ronilo preňho,   koľko kliatby ho sprevádzalo, koľko nešťastia sa zrodilo, koľko   úpadkov zkrslo — všetko jeho prácou... Aby on mohol povedať, že má o   päť, o desať tisíc viac.
+    </tei:p>
+    <tei:p>
+     »Čo robiť teraz už, keď nemáš nič, keď si starý!«
+    </tei:p>
+    <tei:p>
+     »Začať znovu?«
+    </tei:p>
+    <tei:p>
+     Predstavil sa mu Sýkora mladý, plný sily, plný snov o bohatstve a   šťastí. Robí, hrdlačí, utíska, skyvraží, po troške sa vzmáha. Priúča   sa remeslu — dorábať peniaze. Kupčí, klame, šudí, požičiava z úžery,   berie úroky, i prísevok, i úrodu. Kupuje voly, dáva ich gazdom   chudobným na príchovok a delí sa o prírastok. Shŕňa summy bez námahy.   Šacuje každého, pozerá mu do vrecka, v nešťastí mu pomáha a potom už   ho drží, derie z deviatej kože, cicia z neho krv a špiky. Načúva   prosbám, hrozbám i kliatbam s úsmevom potupným, chladným, bez   milosrdia a bázne. Čuje sa vystatovať: »Rozlejte sa na kolomaž,   blázni! Ja sa netrápim, mám peniaze...«
+    </tei:p>
+    <tei:p>
+     »Jesto ešte sily začať znovu — prejsť touto školou ešte raz?
+    </tei:p>
+    <tei:p>
+     »Kde sú tvoje peniaze — kde sú?« posmieva sa mu ten istý hlas. »Čo   počneš — čo?«
+    </tei:p>
+    <tei:p>
+     Sedí, hlava pochovaná v dlaniach. Začať znovu? V údoch slabosť,   staroba vkradla sa do nich. »Nie — nie!« odpovedá si sám. »Začínať   znovu už pozde. Keby bol mladší, aspoň štyridsaťročný — ja by ukázal!   Len dvadsať rokov mladší...«
+    </tei:p>
+    <tei:p>
+     »Čo tedy?« súri odpoveď ten neuprosný hlas. »Akej roboty sa chytíš   zajtra, pozajtre — keď už nie robiť peniaze?«
+    </tei:p>
+    <tei:p>
+     Nevie sám. Nemá smeru, nemá cieľa. Čo bol jeho cieľ? Peniaze. Toho   sa zrieka — čo mu bude cieľom? Nevie, nevidí, čoho sa chytiť.
+    </tei:p>
+    <tei:p>
+     »Načo si tu, načo!« kričí v ňom čosi hromovým hlasom. »Nemáš tu čo   robiť. Nezostalo z tvojej práce nič, iba slzy a kliatby. Tá ťa už   bude sprevádzať.«
+    </tei:p>
+    <tei:p>
+     Prežil noc takú, ktorá nemá konca; takú, že človek volá: »Svitaj,   Bože, svitaj!« Takej noci ešte nemal. Býval i chorý, nemohol tiež   spať, ale od bolesti. Čo je taká bolesť proti tomu, čo ho teraz morí?   Hračka. I také noci boly, že pri zdraví nemohol usnúť: ale vtedy sa   premýšľalo, koho zapliesť do sieti, ako dorábať peniaze. Alebo duch   lietal po nivách a živil sa nádejami. Ale dnešná noc — tá je iná.
+    </tei:p>
+    <tei:p>
+     Tu chorie duša, umiera. Nemá z čoho žiť a čomu žiť. Niet nádeje,   niet cieľa...
+    </tei:p>
+    <tei:p>
+     Na svitaní vytratil sa z domu. Pustý je, mrzký, odporný ten dom —   mučiareň! A vôbec svet čo je? Pustota, prázdnota. Alebo hniloba pod   škrupinou. »Ako je hrozne na tom svete — načo som ja tu?«
+    </tei:p>
+    <tei:p>
+     Ide za humná, dedina sa mu bridí. Za humny vidí aspoň pole,   hory-doly — tie nikomu neublížily ešte. »Ľudia sú zbojníci, zlodeji,«   hovorieval už dávno, a hľa, mal svätú pravdu.
+    </tei:p>
+    <tei:p>
+     Oproti kráča ženská, pod pazuchou motyku, na chrbáte košík. Iste   ide nakopať švábky na ráno. Na každé jedenie jej minie za ten košík:   obsypaná je deťmi. I teraz vedie jedno za ruku, druhému celembá hlava   z košíka. To je Stehlíčka. Sýkora ju dobre zná, len nedávno zratoval   ju jačmeňom... Vidno, bojí sa ho; nedbala by ho obísť, ale už   nemôže.
+    </tei:p>
+    <tei:p>
+     »Pane Bože,« myslí si on — »načo je i toto na svete? Nebolo by jej   lepšie, keby jej nebolo? Robí, hrdlačí a nemá nič; iba tú pätoru v   dome. Dakedy nemá čo do úst položiť!«
+    </tei:p>
+    <tei:p>
+     Keď došla k nemu, prihovoril sa jej. Bola prekvapená, že sa jej   prihovára — a ešte otázka podivná:
+    </tei:p>
+    <tei:p>
+     »Povedz mi, ty, Zuza, načo si ty na svete?«
+    </tei:p>
+    <tei:p>
+     Zastala, díva sa naň a myslí: »Pane Bože, ten sa zblaznel. Pre tie   peniaze možno. Dobre — tak mu treba! Ale oči má takto ešte čisté,   neponáša sa na blázna.«
+    </tei:p>
+    <tei:p>
+     »Len povedz: ani neužiješ, ani peňazí nemáš. Načo si na   svete?«
+    </tei:p>
+    <tei:p>
+     »A vy, Ondráš — vy mi povedzte.«
+    </tei:p>
+    <tei:p>
+     »Ja by povedal, keby vedel. Ale neviem od včerajška,« hovorí akosi   hrdo. »Preto sa spytujem, že azda ty mi povieš.«
+    </tei:p>
+    <tei:p>
+     Pustila motyku k nohám a rozhŕňa skalky, nahádzané pri   chodníku.
+    </tei:p>
+    <tei:p>
+     »Viete, ja som si neraz pomyslela, načo som. I tak mi bolo, že by   mi var bolo lepšie, keby ma nebolo. A neraz som i zhrešila, čo ma už   radšej čert nevezme, že by už mala raz pokoj... Ale predsa je to nie   tak, ako si mívame. Keď prišla táto chorela a Reháčka umrela na ňu a   ostalo tých dvoje detí — taký drobizg, nebožiatka! — ja som sa   preľakla. Kľakla som na kolená a Boha prosila, aby mi neskrátil   života. Ja mám kŕdeľ detí. Kdeže by sa podely bezo mňa? Nuž nato som   ja na svete, tieto deti riadiť.«
+    </tei:p>
+    <tei:p>
+     »No, máš pekné deti. Tak si len choď a nakop tej švábočky. Ty by   si zaslúžila duplovanú úrodu.« A pobral sa chodníkom ďalej.
+    </tei:p>
+    <tei:p>
+     Žena postála a myslí si: »Aký je nesvoj akýsi, tento Ondráš. Ešte   sa mu stane dačo.«
+    </tei:p>
+    <tei:p>
+     »Nuž tak,« húta Sýkora. »Tá vie, prečo je tu. Tá má deti...«
+    </tei:p>
+    <tei:p>
+     »Veď i ja ich mám!«
+    </tei:p>
+    <tei:p>
+     »Ľaľa, ako som zabudol na ne!« smeje sa srdito. »Čo mi je z nich?   Riadiť ich už netreba. Pustily sa na vlastné krýdla. Ako chytro sa to   stalo! Ani neviem, kedy vyrástly, ako...«
+    </tei:p>
+    <tei:p>
+     A blysla mu hlavou divná rozpomienka. Starší syn sa narodil. Žena   zostala v dome, bola práve oračka, nemala čo robiť na poli. Tak okolo   domu sa tmolila. A večer, keď vypriahol voly a vošiel do pitvora,   začul detský plač. Aký to bol divný pocit! Taká radosť akási. Ako by   bol dostal poklad. I žena mu akosi k srdcu väčšmi prirástla. Ako sa   blaznel, keď ho vzal prvý raz na ruky!
+    </tei:p>
+    <tei:p>
+     Ale ďalej nepamätá nič zvláštneho. Nepamätá, že by bol fafrnka   vysadil na kolená a nadhadzoval: hop, hop! Že by mu bol uplietol bič,   že by ho bol učil slabikovať v zamastenom šlabikári. Mal iných   starostí!
+    </tei:p>
+    <tei:p>
+     »A čo mám z nich? Vari potechu?«
+    </tei:p>
+    <tei:p>
+     Vyhnal ich z domu, sú nepodarenci. Nechceli sa podrobiť; nechceli   vážiť, uctiť jeho cieľ, ktorému život venoval. Ešte sa spierali,   robili napriek, spriahli sa s jeho nepriateľmi.
+    </tei:p>
+    <tei:p>
+     »A dieťa má slúchať otca i mater.«
+    </tei:p>
+    <tei:p>
+     »Čo si chcel z nich vychovať?« pýta sa ho hlas neuprosný. »Takých,   ako ty. Aby slúžili mamonu a nevedeli na konci života, načo sú na   svete. Žičíš im taký život? A nadovšetko: žičíš im takú noc, ako   dnešná?«
+    </tei:p>
+    <tei:p>
+     Prisvedčiť nemá odvahy. Predvčerom bol by prisvedčil — ale po   dnešnej noci...
+    </tei:p>
+    <tei:p>
+     »Ako si sa ukrivdil! Zabudnúť, že máš deti — neužiť radosti z   nich! Nečuť ich prvé ľaľotanie, nepomáhať pri prvom kroku, nebaviť sa   s ním, nešalieť s ním! Nevideť, ako zázračne sa ten rozumček rozvíja.   Koľko si ty prepásol!«
+    </tei:p>
+    <tei:p>
+     »Už je darmo — stalo sa.«
+    </tei:p>
+    <tei:p>
+     To jediné mu už zbýva k poteche i k ospravedlneniu. Žiaľ mu za   tými časmi; žiaľ, že sa nevráťa. »Keby sa to vrátilo — keby!«   vzdychá, a predstavuje si, ako by to bolo. Vychovával by ich už,   nedal im rásť, ako stromom v pralese.
+    </tei:p>
+    <tei:p>
+     A ešte sa sťažoval, že sa neudali naň, že nerozumeli jeho snahám.   »Ako?« diví sa teraz, »ako mohli, keď som ich neviedol k ničomu,   nepoučil, nepovzbudil... Vari sami od seba? A za to som ich vyhnal z   domu: za to, čo som sám zameškal...«
+    </tei:p>
+    <tei:p>
+     Tuší on síce, že to bolo Božie riadenie. To nedopustilo mu deti   uviesť na cestu, na ktorú on zablúdil. To im dalo výchovu, akej by im   otec nebol dal. A je to riadenie dobré. Čo by mal teraz zo synov,   keby boli lakomí, keby nehľadeli iba na groš? Odhodili by sa ho, keby   z neho nekynul osoh. Kdežto takto predsa snáď, predsa...
+    </tei:p>
+    <tei:p>
+     Áno, robil deťom osoh, že ich zanedbal. Ale čo by bol mohol z nich   vychovať, keby ich bol viedol sám po pravej ceste! Aké schopnosti   mohly v nich zakrpatieť, keď nemal ich kto rozvíjať...
+    </tei:p>
+    <tei:p>
+     No starý Sýkora mal by poľahčenie, keby zvedel, že nie iba on bol   taký. Čo on zameškal, zameškáva tisíc a tisíc otcov. Lenže uňho to   malo výsledok prajný, a u týchto opačne. Sýkorových synov vychovala   dedina; vnukla im svoje staré názory o živote, Bohu a prírode:   primitívne, ale sedliakovi dosť zodpovedajúce. Tisíc iných synov   vychováva široký, cudzí svet; vnukáva im názory celkom prevrátené i   nebezpečné. A otcovia to nechápu, neuznajú — dobrovoľne prenášajú   svoju povinnosť i právo na púhu náhodu, prajnú alebo neprajnú. Sháknu   sa až vtedy, keď sa ukáže, že syn nemá nič spoločného s otcom: že   nasiakol celkom odchodnými zásadami.
+    </tei:p>
+    <tei:p>
+     »Kde sa to v ňom vzalo — veď ja som nebol taký!« rozmýšľa otec.   »Kde sa to priučil?« A dodáva s rozhorčením: »Nezdarený syn, prašivá   ovca!« S tým vec drží za vybavenú, ba drží sa za akéhosi mučedlníka.   Akoby sa svetu vystatoval: »Pozrite, ja som statočný, ale syna mám   lumpa. Vidíte, ja som nie vina...« A svet ochotne prisvedčí:
+    </tei:p>
+    <tei:p>
+     »Pomery — pomery! Pravdu má — pomery sú také!«
+    </tei:p>
+    <tei:p>
+     Veru pomery, strašné pomery! Ale tie nie sú tam, kde sa hľadajú.   Tie »pomery« sú v rodine...
+    </tei:p>
+    <tei:p>
+     »Čo v rodine!« kričí tamten otec. »Moja rodina je príkladná. Od   rána do večera sa trápim, abych ju živil čestne. Dá Boh, po smrti   nebude ma rodina zle spomínať: zabezpečil som jej hmotný   blahobyt...«
+    </tei:p>
+    <tei:p>
+     A práve v tom názore je chyba. Honba za majetkom pripravuje otcov   o čas, ktorý by mali venovať deťom. To je úkaz veľmi smutný. Urobia   synov dedičmi domov, panstiev, kapitálov: a zabudli ich spraviť   dedičmi ideí, presvedčenia, ktoré prechovávali.
+    </tei:p>
+    <tei:p>
+     »Eh, čo — chlapec to vcicia do seba s mliekom materským,« tak hája   svoju nedbalosť. »Dobro pochádza z neba — samo sebou sa šíri, samo si   nájde i zastancov. Ono samo si podmaní srdce našich detí...« Veru z   neba, a z neba medzi iným dobrom pochádza i dobrá výchova...
+    </tei:p>
+    <tei:p>
+     Čo zanedbal otec, to už nahradí mamička. Neborka si myslí, že jej   synátor je: múdrosť, krása, dobrota v jednej osobe. Dieťa otvorí iba   ústa, už mamička omdlieva: čo to za hlboká múdrosť! Tak mamičky   nevychovávajú z nás ľudí, ale polobohov. Samá geniálnosť v detskej   izbe! A v živote?
+    </tei:p>
+    <tei:p>
+     Tedy nie vždy filipiku mladým. I starí zaslúža — i starí...
+    </tei:p>
+    <tei:p>
+     »Keby boli ešte raz malí, keby!« vzdychá Sýkora.
+    </tei:p>
+    <tei:p>
+     »Oj, v deťoch je potecha vždy,« šeptá mu kýsi hlas, »i v   odrastených. Aká radosť, keď syn urobí prvý krok samostatný! A keď   šťastlive! Sťa keď vtáča púšťa prvý raz svoje mladé na krýdla. A keď   je už mužom celým, stará sa o ženu a deti! Aká radosť: brať jeho deti   na kolená, zažívať s tými tie isté rozkoše, čo s ich rodičmi. Čo nad   to krajšieho?«
+    </tei:p>
+    <tei:p>
+     Oj, už by ich opatroval, vychovával, keby to teraz prišlo. Ale   prepásol. Čo teraz?
+    </tei:p>
+    <tei:p>
+     »A ten, čo leží na smrteľnej posteli, čo tak túži za tebou. Ako   včera sa tešil, kým nezvedel, žes’ neprišiel k vôli nemu. Čo nejdeš k   nemu, keď túži za srdcom rodičovským?«
+    </tei:p>
+    <tei:p>
+     »Keby vari šiel k nemu,« prisviedča si sám. I hreje ho čosi vo   vychladnutom srdci. Skoro tak mu je, ako vtedy, keď sa vrátil z   oračky a našiel syna narodeného... Srdce túži napiť sa ešte raz tej   potechy. Volá, plače, núti; výhovorky netrpí. A on ho slúcha, berie   sa k domu rychtárovmu.
+    </tei:p>
+    <tei:p>
+     Ale naraz zastal — nohy nechcú ďalej. »Čo som to urobil!« bedáka a   chytá sa za hlavu. »Ja ta nemôžem ísť. Zas si bude mysleť, že k vôli   peniazom. Čo sa naodkazovali — a ja... A včera čo som vykonal! Či mi   ešte uverí?«
+    </tei:p>
+    <tei:p>
+     A to ho mrzí a bolí práve tak, ako ztrata pokladu. Ba väčšmi ho   trápi. Lebo teraz ostatná nádej, ostatné steblo sa mu vymykáva z   ruky.
+    </tei:p>
+    <tei:p>
+     »Čo som ta šiel včera? A čo som nešiel zaraz, keď ochorel? Dnes by   sedel pri ňom, netúlal by sa takto...«
+    </tei:p>
+    <tei:p>
+     »Choď k nemu, choď — ešte ťa čaká. Možno, viac ho už nevidíš.«
+    </tei:p>
+    <tei:p>
+     »Bože, ak mi zomrel! Ak ho nenajdem živého! Čo ja budem   robiť?«
+    </tei:p>
+    <tei:p>
+     Zachvátil ho väčší strach, ako vtedy, keď sa zľakol ohňa. Beží k   rychtárovi, presvedčiť sa, či syn žije, ukázať mu srdce otcovské. Na   nikoho sa neobzerá, ide rovno do izby.
+    </tei:p>
+    <tei:p>
+     Syn leží, pri ňom sedí rychtárka.
+    </tei:p>
+    <tei:p>
+     »Jurko, a žiješ ešte?« pýta sa ho so strachom kloniac sa nad   neho.
+    </tei:p>
+    <tei:p>
+     Rychtárka sa díva z kuchyňských dvier. Diví sa, Sýkora je celý   inakší. »Ten človek sa premenil! Ba či je pri rozume ešte?«
+    </tei:p>
+    <tei:p>
+     Syn sa díva do tej tváre citom obmäkčenej. Nepoznáva ho. Taký žil   iba v jeho túžbach od tých čias, čo počal chodiť do rychtárov. Taký   žil v obrazoch, ktoré mu choroba predvádzala. V skutočnosti ho takého   nikdy nevidel.
+    </tei:p>
+    <tei:p>
+     »A ste to vy? pýta sa hlasom stiesneným.
+    </tei:p>
+    <tei:p>
+     »Ja. Prišiel som ťa pozreť. Ako ti je, či ti je lepšie...«
+    </tei:p>
+    <tei:p>
+     »Podajte mi ruku. I sníva sa mi dakedy takto — a ja vše neviem, čo   je pravda a čo sen.« Vzal jeho ruku do svojej a drží ju. Tvár sa mu   vyjasnila. »To sa našly tie peniaze?«
+    </tei:p>
+    <tei:p>
+     »Tie sa už nenajdú!«
+    </tei:p>
+    <tei:p>
+     »Nebanujte. Ono ste sa natrápili — ale nebanujte. I peniaze   budú!«
+    </tei:p>
+    <tei:p>
+     »Ja nebanujem — ale to, čo som včera urobil! Keby sa rychtár   nehneval!«
+    </tei:p>
+    <tei:p>
+     »Tak ste vy prišli ku mne! Veď som ja povedal, že prijdete. Už mi   je akosi lepšie — teraz už vyzdraviem.«
+    </tei:p>
+    <tei:p>
+     »A čo, keby sme my spolu!« prihovára sa synovi. »Už peňazí nemám,   ale chcel by s vami, deťmi... Ty si už tu, pri rychtárovi — nuž   dobre; ja už len Jana. Nech gazduje na otcovskom, keď je starší. Má   vraj peniaze, nech si prestaví dom. Ja si vyriadim komoru. Tak som si   rozvážil...«
+    </tei:p>
+    <tei:p>
+     Jurko sa díva na otca, pýta sa svojho rozumu, kde sa toto vzalo,   takáto premena, také požehnanie. Chcel by mu vyčítať z tváre, koľko   boja i múk stoja ho takéto slová. I bojí sa, že to iba sen, alebo   klam.
+    </tei:p>
+    <tei:p>
+     Rychtárka vyšla do dvora k mužovi, za ňou i Evka. »Choď pozreť do   izby, ten starý zase je tam. Akýsi je divný. Dačo mu nahudie, zas   budeme mať s ním kríž, ako včera večer. Plakal celú noc. Ešte ho do   hrobu donesie. Ja by šla, ale ja by videla radšej toho s rožkami, ako   jeho...«
+    </tei:p>
+    <tei:p>
+     »No ak ja ta pôjdem — bohuprisám neviem... Aby nie ten chorý,   včera by sa bolo zle porobilo. A už sa mi žlč dvíha...«
+    </tei:p>
+    <tei:p>
+     »Prosím vás, nerobte!« prosí ho Evka, vešajúc sa mu na plece.
+    </tei:p>
+    <tei:p>
+     Hladí na ňu; pamätá, čo preň trpela, ako sa prehrešil. »Toto mi   bude pokuta,« myslí si a ide do izby. Kráča odhodlane, i v tvári taká   odhodlanosť. Eva sa bojí, že sa dačo tam stane; kráča za ním do izby.   Rychtárka sa postavila do kuchynských dverí.
+    </tei:p>
+    <tei:p>
+     Sýkora zbľadol, keď zazrel rychtára. Nadišla ho nová myšlienka.   »Už som i ja chudobný: či ozaj teraz on pristane? Ak šiel iba za   grošom! Ak ma vyženie i so synom!«
+    </tei:p>
+    <tei:p>
+     Trasie sa od strachu. Veď on nevie, že v inom človeku zazvučí   kedy-tedy i struna jemnejšia. On u každého hľadá to, čo bolo jeho   hriechom.
+    </tei:p>
+    <tei:p>
+     A väčší strach cíti pre včerajšok. Musí ho odprosiť. Ako ťažko   stúpiť na tú cestu!
+    </tei:p>
+    <tei:p>
+     »Švagre,« povstal ťažko pred rychtárom a gamby sa mu trasú. »Ja   som vám moc zlého... Od počiatku, i včera...«
+    </tei:p>
+    <tei:p>
+     Rychtár pozerá udivený naňho a zase na Jurka. Jurko mu prisviedča   hlavou.
+    </tei:p>
+    <tei:p>
+     »I mrzí ma,« pokračuje starý — »i hanba mi je. A vaša žena tiež —   keď som ju tak zaťal...«
+    </tei:p>
+    <tei:p>
+     Rychtár mu podal ruku.
+    </tei:p>
+    <tei:p>
+     »Keď je tak, nuž ja zase poviem: ako by sa nebolo stalo. Nech nám   Pán Boh pomáha!«
+    </tei:p>
+    <tei:p>
+     »A budeme rodina?« pýta sa Sýkora pokorne.
+    </tei:p>
+    <tei:p>
+     »Ako Pán Boh dá — a títo tu« — ukázal na Jurka a Evku — »ako si tí   zariaďa.«
+    </tei:p>
+    <tei:p>
+     A u rychtára je už pokoj zovňajší, ale nadovšetko ten, ktorý nikto   neodníme.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Traja s neba",
+        "publisher": "Matica slovenská",
+        "pub_place": "Turčiansky Sv. Martin",
+        "pub_date": "1957"
+    },
+    "firsted": {
+        "pub_date": "1950"
+    },
+    "authors": [
+        {
+            "first_name": "Katarína",
+            "last_name": "Lazarová",
+            "birth_date": "1914",
+            "death_date": "1995",
+            "ref": "viaf:20699883"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

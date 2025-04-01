@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Život včiel",
+        "publisher": "Tranoscius",
+        "pub_place": "Liptovský svätý Mikuláš",
+        "pub_date": "1943"
+    },
+    "authors": [
+        {
+            "first_name": "Ján",
+            "last_name": "Natšin",
+            "birth_date": "1886",
+            "death_date": "1954",
+            "ref": "viaf:203156563602223242085"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Malka",
+        "publisher": "Slovenské vydavateľstvo krásnej literatúry",
+        "pub_place": "Bratislava",
+        "pub_date": "1965"
+    },
+    "firsted": {
+        "pub_date": "1942"
+    },
+    "authors": [
+        {
+            "first_name": "František",
+            "last_name": "Švantner",
+            "birth_date": "1912",
+            "death_date": "1950",
+            "ref": "viaf:18121520"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

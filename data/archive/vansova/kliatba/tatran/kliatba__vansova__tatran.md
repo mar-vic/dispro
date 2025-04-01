@@ -1,0 +1,6336 @@
+# Zvolenské rozpomienky
+
+*Nad mestom Zvolenom zavisli snehové mraky. Silueta starého zámku na
+miernom návrší prezerá cez drobný sniežik ako veľká kamenná príšera
+panujúca nad mestom, rozprestierajúcim sa pri jej nohách. Nad tým malým,
+nepatrným mestom s neveľkými múrami, baštami a bránami, ospievanými
+ľudovou piesňou, že „pekne maľovanými". Široké námestie, odkiaľ po
+krutom ohni v predošlom osemnástom storočí zmizol rad nízkych domov, je
+opustené, iba kde-tu vidno ponáhľajúcu sa postavu prejsť hradskou alebo
+popred domy. Len chodníky a hradská cesta, ktorá pretína námestie na dve
+nerovné časti, odráža sa v bielom snehu v tmavšom odtienku.*
+
+*V rade domov, ktorý je ďalej od hradskej cesty, teda viac na juhozápad,
+medzi prvými je väčšia budova, evanjelický kostol. Vtedy ešte tento
+chrám nemal vežu, budova, ktorá slúžila za svätyňu, bola pôvodne
+privátnym domom. Od kostola ďalej je rad nízkych domov. Potom je
+mestský, čiže radný dom, ešte vyššie asi päť poschodových domov a ešte
+ďalej na sever výstavnejšie domy zvolenských mešťanov. Na vyšnom konci
+námestia stojí starý kostol, teraz rímsko-katolícky, so svojimi
+kaplnkami. Okolo neho sa kedysi rozprestieral cintorín, ale jeho ohrada,
+nízky múrik, bol ešte nie dávno odnesený.*
+
+*Popred domy sú malé záhradky a popred ne vedú chodníky do domov a
+smerom k hradskej. V záhradkách vtedy dochovávali pilné zvolenské panie
+rozličnú priesadku, ktorú potom presádzali na ostredky „za múrami" alebo
+do poľa. Zvolenské panie boli známe milovníčky záhrad, a v nich
+rozličných kvetov.*
+
+*Medzi týmito menšími domami, vtedy označený číslom 17, stál dom
+Bánikovský.*
+
+*Tu sa narodil Ďuro Bánik, verný rodoľub slovenský a v
+šesťdesiatych-osemdesiatych rokoch notár slávneho kráľovského mesta
+Zvolena.*
+
+*Zaslúžil si, aby sme ho aj osobitne spomenuli. Ale dosiaľ nebolo vari
+času na to, ani príležitosti oceniť zásluhy i tých skromných, v tichosti
+pracujúcich ľudí, ktorí slúžili svojmu národu i v skromných pomeroch,
+drobnou, tým záslužnejšou prácou, neutuchajúcou láskou k ľudu a národu
+slovenskému vôbec.*
+
+*Spomenieme ho aspoň na tomto mieste. On sám nič nemá do činenia s
+udalosťami, ktoré sa tu majú opisovať, lebo sa odohrali desať rokov pred
+jeho narodením a asi pätnásť-šestnásť rokov skorej, ako bola rozprava o
+nich za toho tichého zasneženého adventného večera.*
+
+*Ďurko Bánik len pomohol, aby sa na tie deje nezabudlo. V listoch, ktoré
+už sám starý a chorý písal svojmu mladému, ale ťažko chorému priateľovi
+Dr. Š. M.... rozvíja látku, ktorú si zachoval, keď „maminka
+rozprávala".*
+
+*Tu už ako starec, rozpomínajúc sa na dojmy ktoré mal z toho
+rozprávania, písal, že ďakuje Pánu Bohu, že žijeme časy pokojné, v
+ktorých sú podobné ukrutnosti nemožné.*
+
+*Písal to tridsať rokov pred svetovou vojnou a preto nemohol vedieť, že
+v divosti a krvilačnosti jednotlivcov ako i celých skupín, nič alebo
+málo sa zmenilo, keď raz naskytne sa príležitosť, aby sa spiaca beštia v
+človeku zobudila.*
+
+*Toho zimného večera pred samými Vianocami mali u Bánikov hostí --- a
+priadky. Bol to predvečer vianočného jarmoku, ktorý odjakživa označovali
+ako jarmok: „na mak a na med" (21. decembra).*
+
+*Z Brezna prišiel farbiar Lopušný, dávny známy a priateľ Bánikov i so
+svojou paňou. Ich voz je vo dvore i s veľkými ládami plnými tovaru.*
+
+*Z Ľubietovej prišiel „kapčiar" Heinrich, tiež so svojou ženou a po
+starodávnej známosti prišli do Bánikov na noc. Ako prišli, pohostili ich
+teplým pokrmom --- a po včasnej večeri sedeli pri stole s domácim pánom
+a tešili sa, že sú už na mieste a v suchom.*
+
+*Zo samého mesta prišlo niekoľko bližších i ďalších susediek. Bývali tu
+nablízko rodiny: Fontánovská, Alitisovská, Molitórisovská, bývali blízko
+i Rothovci a Langovci. V ten večer prišiel i bývalý slovutný učiteľ,
+čiže rechtor Ferenczy, už starý pán, ktorý zanechajúc učiteľský úrad,
+stal sa senátorom mesta. Okrem týchto boli ešte iné panie a boli tu
+niekoľké pekné dievčinky so svojou ručnou prácou, s vyšívaním vianočných
+darov. Staršie panie priadli. Všetky sedeli vo veľkom kruhu, aby mali
+pre svoje vretienka dosť miesta. Kolovrátky na ten čas tu neboli známe.*
+
+*Ženské, ktoré mali šitie alebo pletenie v rukách, sedeli bližšie stola
+alebo i pri ňom. Na stole stála lampa, opatrená zeleným plechovým
+tienidlom, repcovým olejom živený plamienok blkotal zakaždým, keď sa
+otvorili dvere. Okrem lampy boli rozžaté na počesť hostí i dve hrubé
+lojové sviece vo vysokých a ťažkých mosadzných svietnikoch. Ich
+plamienky naprávať, čistiť a obhorené knôtiky zostrihávať bola v ten
+večer práca domáceho pána, Pavla Bánika. Sedel za stolom a prehŕňal sa v
+kalendári na rok 1826. Poslal mu ho Filip Machold z Banskej Bystrice,
+ktorý sa už tiež dostavil na zajtrajší jarmok. Z tejto dôležitej knihy
+Bánik oznamoval prítomným, aký bude nastávajúci rok, ktorá planéta bude
+panujúcou, ako padnú pohyblivé sviatky a koľké zatmenia budú u nás
+viditeľné. Vedľa kalendára bola malá cínová mištička, na ktorej ležal
+malý, dnešnému pokoleniu neznámy nástroj: puclík, alebo, ako ho kedysi
+furták pomenoval: kratiknôt. Pravdepodobne, ba istotne používali tieto
+nožničky len páni, lebo náš ľud pre ne nemá názov. Jedno za to, že si
+svieti najviac suchými fakličkami na kozúbku alebo kahanci, druhé však
+to, čo konal puclík, vykonali i dva prsty: ukazováčik a palec. Keď
+odštipli obhorený knôt, hodili ho na zem a utreli prsty o nejakú šatu,
+ktorú mali na sebe. Preto tieto nožničky ostanú i naďalej „puclíkami",
+kýmkoľvek ich budú ukazovať v múzeách alebo v domácich zbierkach. V
+panských rodinách bol puclík zo striebra a tácnička k nemu tiež z toho
+istého kovu.*
+
+*Izba, v ktorej sedela spoločnosť, bola veľká, priestranná. Povala bola
+zrejme nová, steny biele, čisté, náradie solídne a masívne. Veľká
+kachľová pec, ktorá sa kúrila zvonku, bola posunutá dosť ďaleko do izby.
+Za ňou bol teplý a akoby skrytý múrik. Na ňom v ten večer boli cínové a
+hlinené misky, ba boli už i porcelánové rozličnej veľkosti s pečenými
+lahôdkami a koláčmi. Pri nich stála veľká fľaša nejakej červenkavej
+tekutiny. To bolo prichystané na chvíľu, keď panie ustanú v práci a
+povedzme si pravdu, i v besedovaní, aby sa občerstvili.*
+
+*Bližšie ku kachliam sedeli staršie panie, matróny to napospol ctihodné,
+veľavážené --- a vyťahovali zo svojich kúdeliek len hrubšie nitky, alebo
+také, ako sa hovorí „na jednom mieste ako vlas, na druhom ako klas".
+Hja, zo zrebí sa nedá tenko priasť --- a staré, robotou, prípadne i
+lámkou pokrčené prsty, nemôžu také tenučké nitky vyťahovať, ktorých celé
+pradienko, tridsaťpásmové, dalo sa pretiahnuť cez prsteň. To možno len z
+ľanu, ktorý sa rovná hodvábu. Taká priadza bol vrchol pradenia a naše
+prastaré mamičky, čo si samé priadli priadzu na obrusy a plátno,
+usilovali sa tento rekord dosiahnuť.*
+
+*Sprvu bolo v izbe obstojné ticho. Bolo počuť len to, čo Bánik rozprával
+a vrčanie vretienok, keď pri zasukovaní zletelo na zem a tam sa vrtelo,
+kým ho za nitku zakosílenú na vreteni, zručná priadka nevytiahla, aby
+dlhú nitku na vretienko obkrútila.*
+
+*Všetky pracovali akoby opreteky, len tie dve cudzie panie sedeli, ako
+sa hosťom patrí, bez práce. Veď si to doma vynahradia. Pozorne ešte s
+mysľou nerozptýlenou počúvali a sledovali výklady z kalendára. Zavše sa
+niektorá obrátila s otázkou na domáceho pána. Dievčence si zavše niečo
+pošepkali, pri tom sa ale hneď placho obzreli na staré panie, či ich
+nesleduje tu alebo tam káravý pohľad.*
+
+*Nebolo ešte neskoro, ale tma vonku bola úplná.*
+
+*Už boli asi všetky panie a dievčatá, ktoré sem chodievali, pospolu, keď
+prišla stará, do chudobného rúcha odetá žena. Na ruke doniesla ušitú
+bielizeň.*
+
+*Keď uvidela toľkú spoločnosť, cúvla, trošku sa zahanbila a ukazovala sa
+veľmi prekvapenou. Ale panie, čo ju poznali, boli tej mienky, že si táto
+úbohá žena dobre vybrala čas pre svoj príchod. Poznali ju už, že sa rada
+priplichtí, kde sa niečomu môže úfať. Príchodzia ponížene pozdravila.*
+
+*Domáca pani, statná a pekná žena vstala od svojej práce a privítala
+starú ženu.*
+
+*--- Vítajte, Mamojčíčka, čo ste nám priniesli?*
+
+*--- Nuž, hľa, doniesla som šitie, Zuzka posiela.*
+
+*--- A --- ako sa jej vodí? --- opytuje sa pani.*
+
+*Stará si vzdychla.*
+
+*--- Ako najhoršie, veď vedia už, čo sa jej, psote, prihodilo.*
+
+*--- Viem, viem, --- odpovedala pani, odobrala ušitú bielizeň a zaviedla
+starú k peci. Tam ju obdarila koláčom a pohárikom vareného vína.
+Mamojčíčka sa tomuto poucteniu zrejme potešila, zavinšujúc dobrého a
+stáleho zdravia, vypila víno, koláč ukryla, povedala svoju „dobrú noc" a
+odišla.*
+
+*Ako zatvorila za sebou dvere, začali tie, čo boli bližšie k peci, tie
+mnohovážne matróny, šuškať medzi sebou. Štyri, či päť očepčených hlávok
+stúlilo sa dovedna a jedna druhej oznamovali zaujímavú novinku. Zuzke
+Mamojčíčke narodil sa zdravý, mocný chlapec. Samo v sebe je podobná
+udalosť všedná, každodenná, ale tu boli isté, zarážajúce okolnosti.
+Prvá, že Zuzka bola nevydatá, potom, že bola staršia, ba že patrila už
+do počtu starých dievok, ale najviac prekvapila okolnosť, že Zuzka bola
+mrzáčik od narodenia, „kriplík" bez nôh a nevedela sa pohybovať inak,
+len tak ako malé deti, keď sa na bedričkách zahadzujú po zemi. Nikto by
+to nebol pomyslel, že táto biedna osoba stane sa matkou.*
+
+*Otcom tohto dieťaťa údajne bol akýsi vandrovník, ktorý sa istý čas
+zdržiaval v meste a nešťastnú Zuzku pobalamutil, sľubujúc jej, že si ju
+vezme za ženu. Ale ako taký odkundes onedlho zmizol z mesta a viac sa
+neukázal.*
+
+*Zuzka mala podiel aj v tých dejoch, ktoré sa stali začiatkom
+devätnásteho storočia a o ktorých v tejto knihe bude reč.*
+
+*Kým si panie oznamovali náhľady o Zuzke --- vymieňali poznámky,
+dievčatá a mladé ženy pozerali úkosom k tomuto krúžku. Rady by boli i
+ony počuli niečo, ale nesmeli ukázať svoju zvedavosť. Konečne už i
+matróny vyčerpali látku a chytili do rúk praslice a vretienka. A Bánik
+zaviedol rozhovor na všeobecné pole.*
+
+*Veď čo sa za takého dlhého zimného večera dá porozprávať! Ešte nebolo
+viac ako šesť hodín, noc bola už úplná --- a ešte tak do deviatej,
+desiatej sa všeličoho naspomína!*
+
+*Na tento čas bola najzaujímavejšia, lebo i nová téma, o tom veľkom
+ohni, ktorý, práve v októbri minuli dva roky, zúril vo Zvolene. K tomuto
+predmetu doviedla Bánika otázka Lopušného, keď pozrúc na hrady, opýtal
+sa, či mnoho pohorelo?*
+
+*Malý sedemročný Bánikov synček, žiačik Ďurko, ktorý už pred chvíľou
+pribehol z čeľadnej izby a plietol sa po izbe, ozval sa a povedal:*
+
+*--- Ja viem, keď u nás horelo; jeden vojak nám pomáhal vynášať riad. A
+potom ani ten nemohol, lebo už dom horel.*
+
+*--- Pravdu má chlapec, vojaci, uláni, ktorí boli vtedy tu ubytovaní,
+pomáhali hasiť a ratovať, čo sa ratovať dalo, --- potvrdil otec, s
+pochvalou pohladiac hlávku synovu. --- Vtedy zhorelo vo Zvolene 117
+domov, s bočnými budovami i so všetkou úrodou. Ale ešte skorej asi 30 až
+40 rokov pred týmto bol podobný požiar, ktorý zničil i ten rad domov
+naprostred mesta vystavaných. Domy, zväčša drevené, zbĺkli do gruntu. Po
+tomto už nedovolil magistrát, aby na tom istom mieste stavali nové domy,
+ale pohorelcom vyplatil za grunty bezmála tri tisíc zlatých a vykázal im
+miesto na budovanie nových domov von z mesta --- v Smrtnej, teraz
+Hrnčiarskej ulici.*
+
+*Ferenczy, ktorý dosiaľ viac počúval, potvrdil Bánikove slová. Vedel, že
+Bánik rád rozoberá staré záznamy, má mnohé i zapísané v starých knihách
+a kalendároch.*
+
+*--- Boh sám zná, --- pokračoval Bánik, --- prečo naše mesto tak často
+navštevovali všakové pohromy. Iste, muselo byť niekedy slávne, keď ešte
+náš Pustý Hrad nebol pustý, ale keď zo svojho pyšného vrchu panoval
+veľkej Zvolenskej župe.*
+
+*--- Áno, --- doložil Ferenczy, --- panoval, lebo z jeho veže bolo vidno
+na ďaleko-široko. Na juh, na sever i východ a západ. Na východ na
+Slatinu k výbežkom Poľany a ďalej na cestu ku Novohradu. Na juh k
+Dobronivskému zámku, mestečkami vtedy slobodnými až k Hontu, na západ
+doluhroním k Svätému Krížu do Tekova a ďalej a na sever k Banskej
+Bystrici a hore Hronom k breznianskym holiam --- a ku Krížnej a
+Prašivej.*
+
+*--- Preto mladá Banská Bystrica, chránená Zvolenom, pracovala nerušene
+a rástla, --- poznamenal Bánik a pokračoval, keď si vzal z kasne staré
+zápisníčky: --- Naše mesto pôvodne sa prestieralo na Krivej púti na
+ľavom brehu riečky Slatiny. Veľký a slávny bol ten náš hrad, ako vidno
+ešte zo základov a rozmerov jeho múrov; a nebodaj bolo tam celé mesto,
+lebo priestoru na vrchu je dosť. Neďaleko hradu musel byť aj druhý,
+menší, o ktorom už niet inej pamiatky len jeho meno: Matčín hrad.*
+
+*--- Tam, --- zamiešal sa Ferenczy do reči, --- mohol byť menší hrádok
+pre niektorú kňažnú-matku, vystavaný.*
+
+*--- Ale na našu krajinu prišla pohroma, prihnali sa divé hordy Tatárov
+a vyplienili mesto, zborili Hrad, niekedy slávny a nedobytný, ---
+rozprával zasa Bánik ďalej.*
+
+*--- Presile v ustavičnom boji a plienení zbehlých Aziatov nemohol
+odolať ani taký mocný hrad. Čo nezmohli divým nábehom, to zmohli pomocou
+ohnivých striel, ktoré hádzali do Hradu a kde strela padla do dreva,
+vznikol požiar, ktorý sa nedal uhasiť ani udatným obrancom.*
+
+*Bánik sa rozhovoril. Ako človek umný, nadaný, ale v každodennej práci,
+zamestnaný remeslom, nemá možnosť uplatniť svoje myšlienky, chápe sa
+prvej príležitosti, aby rozvinul svoje náhľady. Miloval rodné mesto a
+žialil, že sa nemôže povzniesť z úpadku, do ktorého ho vsotila stáročná
+nepriazeň osudu. Pri prestávke pozrel na panie a dievčatá, čo blízko
+neho sedeli --- a pozrel i na svoju ženu, Zuzannu, ktorá s úprimným
+porozumením sledovala jeho reči. Jej bystré oči boli upreté na jeho
+tvár. Nebadateľne sa usmial, akoby posmelený výrazom jej očú
+pokračoval:*
+
+*--- A potom sa začalo mesto znova stavať. Preriedené obyvateľstvo,
+skrývajúc sa dovtedy po horách a v jaskyniach, sa vrátilo, zaplakať na
+zboreniskách svojich príbytkov.*
+
+*Ale dlho nenariekali, chytili sa do roboty, vystavali si svoje mesto,
+ten starý, ale už nie taký slávny Zvolen. Neskoršie postavili i nový
+zámok, ten, ktorý i teraz stojí. --- Údajne z kvádrov tohto spustošeného
+hradu, ktoré dolu spúšťali a vozili na pravý breh Slatiny --- podotkol
+Ferenczy.*
+
+*--- A potom stavalo sa pri zármutku i mesto. Povesť hovorí, že oba
+hrady spájala podzemná chodba, kto zná, čo je na tom pravdy, ale našlo
+sa niekoľko zasypaných vchodov do zemi, ako do pivníc. Za starých čias
+také chodby neboli zriedkavé. Azda budúci skúmatelia starých vecí prídu
+i na tie chodby.*
+
+*--- Ak skutočne boli, --- dotušil zasa starý senátor.*
+
+*Bánik, ktorého samého tá vec zaujímala, pokračoval ďalej, keď si pozrel
+do dedových zápiskov, ako mesto Zvolen nemalo dlho pokoj a času pre
+prácu, lebo nedlho zatým, ako nový zámok stál --- a mesto sa započalo
+zveľaďovať, prišiel Jiskra so svojím vojskom. A pri tej príležitosti
+zasa Hunyadovci vypálili nešťastné mesto. Lebo to tak býva, že keď sa
+veľkí páni medzi sebou bijú, vytrpí ľud, v tomto prípade zvolenskí
+mešťania. Po odchode Jiskru na krátky čas mal Zvolen pokoj. Potom, keď
+kráľ Matiáš prišiel na trón, bavieval sa rád vo Zvolene, i jeho
+manželka, kráľovná Beatrica, ktorá sama darovala zámockému kostolíku na
+oltár zlatom vyšívaný vankúš. Ešte i dnes sa tam starostlivo opatruje
+táto
+pamiatka.\[[6](../Local%20Settings/AppData/Local/Temp/vansova-terezia_kliatba_txt.html#ftn.id2506610)\]
+Tieto kráľovské návštevy, hoci boli pre Zvolen dôležité, padli samému
+mestu veľmi draho, lebo pohostinné mesto dodávalo veľké množstvo
+potravín kráľovskému dvoru, i vína dobrého a rýb z Hrona a z rybníkov,
+ktoré malo mesto v svojom chotári.*
+
+*A zvere divej i krotkej, zvolenské hory poskytovali v hojnom počte
+diviny. Jágri a honci, praobyvatelia dediny Môťovej, mali dosť práce,
+aby vyhovovali spotrebe bujnej kráľovskej tabuli. Preto mali Môťovania
+isté výsady a práva, ktoré si aj oproti mestu húževnate bránili.
+Chlúbili sa Matiášovou priazňou.*
+
+*O tomto ľudovom kráľovi kolujú vo Zvolene ešte i teraz mnohé povesti a
+piesne. Matiáš bol veľkým milovníkom pekných žien. Všetky, čo tu teraz
+sedeli, najmä ale staršie, vedeli tých piesní a povestí viac. Napríklad
+pieseň:*
+
+*Ej, bol jeden kráľ uhorský,*
+
+*ten podvoditeľ panenský,*
+
+*všetky panenky podviedol*
+
+*len richtárovu nemohol...*
+
+*Ako to počula Lopušná z Brezna, zasmiala sa a povedala:*
+
+*--- Čo by len to, ale ešte i u nás, najmä „na Hrone" sú živé niektoré
+rozpomienky na tohto kráľa. Mala som slúžku zo Šumiaca; jej matka často
+sa u nás bavila. A raz jej poviem: vy bývate pod samou Kráľovou Hoľou,
+či viete, že na Kráľovej Holi poľoval sám kráľ Matiáš? A ona sa zasmiala
+a povedala: „Ja to znám, lebo raz zablúdil a nevedel kam. Náš dom stál
+na kraji a oheň na ohnisku horel a oblôčkami sa svietilo, tak on do
+našeho domu „vľoz". Búchal na dvere --- a naša pramati, vtedy ešte
+mladá, mu otvorila. A ako vošiel a obzrel sa na ňu, tak jej povedal: aká
+ty šumná žena! Od tých čias sa do nás volá do Matiašov."*
+
+*Všetci sa tejto historke zasmiali. Bánik podotkol:*
+
+*--- Takým pánom je všetko dovolené, stoja nad zákonmi. To tak bolo
+oddávna, a bude azda naveky, lebo takí budú, čo moc na seba stiahnu a
+žiť budú na úkor iných.*
+
+*--- Za týmto dobrodružným kráľom, ktorý sa v našej stolici --- tak v
+Bystrici, ako i vo Zvolene, rád bavieval, čoskoro prišli smutné časy.
+Dohnala sa zasa nová pliaga na kresťanský ľud, Turci a tí veru nešetrili
+práva ľudu. Plienili a rabovali okolité dediny a mestá, kým sa im
+nepoddali a neodvádzali vyrúbené poplatky. Zo svojich obsadených sídel
+robili výpady na náš vidiek, ako o tom svedčia mnohé piesne a povesti. I
+do Zvolena sa dobýjali nejeden raz.*
+
+*--- I o tom je pieseň, --- ale nie jedna, i viac, no, novšia, tá o
+zvolenskej richtárke, čo jej Turci dve deti zajali, --- poznamenala
+Bánička.*
+
+*A hneď bola hotová recitovať pieseň:*
+
+*Rabovali Turci tie zvolenské zámky,*
+
+*zajali dve deti zvolenskej richtárky.*
+
+*Šúri Katarínu do hintova vzali ---*
+
+*Ľúdi Tomáša pod voz uviazali.*
+
+*A keď oni prišli do tureckej zemi,*
+
+*Šúri Katarinku do svetlice dali;*
+
+*Šúri Katarinku do vrchnej svetlice ---*
+
+*a Ľúdi Tomáša do spodnej temnice.*
+
+*Šúri Katarinka, sestra moja drahá,*
+
+*ak ti bude dobre, nezabudni na mňa.*
+
+*Šúri Katarinka v striebre, zlate žila,*
+
+*od veľkej dobroty na brata zabudla...*
+
+*Bánik pokračoval:*
+
+*--- Možno si domyslieť, že v časoch takého nepokoja, strachu a neistoty
+mestá nemohli prekvitať, že práca nešla od ruky ani na odbyt. Len tie
+mestá mohli pokojne pracovať a sa zveľaďovať, ktoré boli svojou polohou
+aj ináč chránené, ako napríklad Bystrica a Kremnica. Naše mesto bolo
+akoby večne na stráži, vždy pohotové brániť sa do ostatnej kvapky krvi
+nielen za seba, ale i za iných. V taký čas priemysel a iná práca
+neprekvitala.*
+
+*--- Mali sme i bane, našli sa i stopy po zlate, a to podľa povesti o
+tom „samorastlom". V starých rozprávkach sa spomína, že sa našlo steblo
+raže, ktoré bolo ovinuté tenkým zlatým vláknom. Aj na iných miestach
+bolo, údajne, zlato. Ale ono, po čom tak mnohí ľudia túžia, uviedlo
+nejedného človeka do pokušenia a odňalo mu i rozum. Hľa, ešte nie tak
+dávno, žil tu v meste, v dome, kde teraz býva pán Lange, istý starý
+človek, ktorý sa zaoberal výrobou zlata zo sprostých kovov, napríklad z
+olova.*
+
+*--- Alchymista, --- poznamenal Ferenczy a pokýval hlavou. --- A to je
+smutné, že ten človek prišiel o všetko a zomrel opustený v chudobe.*
+
+*--- Nuž zlato nás nespasí, ani Zvolenu zlato nepomohlo, lebo ho niet.
+Bane zanikli, len jedna diera sa volá* Nahaj Baňa. *A tak sa obyvatelia
+Zvolena museli boriť so všelijakými neprajnými živlami. Ešte sa turecké
+panstvo sotva pominulo, už sa začali nepokoje a vojny rákoczyovské a
+iné. Ľud a meštianstvo trpelo tak od priateľa ako od nepriateľa, lebo i
+jedni, i druhí pálili, drancovali, rabovali. Oj, i tu by sa dalo veľa
+rozprávať, čo ľud vytrpel, len div, že sa udržal.*
+
+*--- I zdalo sa, že ľud, najmä zvolenské meštianstvo, vyničí do zniku.
+Čo nechali vojny a ohne, ľudské životy, to znivočil mor, toto strašné
+božie dopustenie. Roku Pána 1645 umrelo len v samom Zvolene meste 1168
+ľudí, okrem dvoch i všetci radní páni spolu s richtárom padli tejto
+hroznej smrti za obeť. A čudná vec: odjakživa sa povráva, že kedykoľvek
+prišla do Zvolena podobná záhuba alebo mor, prišla vždy fortňou vedľa
+mestského domu, ani jeden z tých strašných hostí neprišiel niektorou z
+tých brán mesta, o ktorých sa spomína, že sú pekne maľované. Vždy si
+bral mor svoje prvé obete tu, blízko fortni, ktorá vedie „za múry"
+smerom, ako stojí Pustý hrad.*
+
+*Medzi priadkami sedela i pani Alitiska, už nie celkom mladá pani --- a
+tá sa toho Bánikovho tvrdenia náramne naľakala. Alitisovská família mala
+svoj dom pri samej spomínanej fortni, kde je blízko i radný dom. Ale sa
+potešila, že tie časy hrôzy, vojen a moru sa pominuli a ako i jej
+manžel, bývalý mestský notár hovorieval, nastúpilo storočie osvietené a
+staré hriechy sa pominuli, svet je ovanutý slobodomyseľným duchom a
+preto sa potešila, nemysliac, že sa o sedem rokov dostaví nie mor, ale
+jeho nie menej zlobná sestra, cholera.*
+
+*Pustol takto Zvolen, i remeslá klesali, i bohatstvo, ktoré dosiaľ
+vydávala zem, nehovoriac ani o tom, čo sa niekedy z útrob zeme vynášalo.
+Do upadajúceho mesta nasťahovali sa v čase domácich vojen a nepokojov,
+ako i potom, početné zemianske rodiny i so svojou čeľaďou a zaujímali
+pre seba výhody a práva, aké by boli prislúchali len starým zvolenským
+rodinám. Celé staré famílie úplne vymreli; do radostného domu, do
+magistrátu dostali sa noví ľudia. A okolití mocní zemani, páni najmä
+Eszterházyovci, ktorí vlastnili už i Zvolenský zámok, zaberali vždy viac
+a viac pôdy a utláčali poddaný ľud. Ľud trpel od Turkov, ktorí mu aspoň
+to právo nechali, aby vyznával Pána Boha po svojom spôsobe vo viere,
+ktorú poznal za pravú. Za otročenie odmeňoval sa ľud tak, že zanevrel na
+pánov, pokladajúc ich za svojich úhlavných nepriateľov a pri vhodnej
+príležitosti odmenil sa im odbojom, ba i zbojstvom.*
+
+*Ako páni obchodili zákony, alebo stavali sa nad zákony, tak konal i
+poddaný ľud. Čím vyšší páni, tým väčšie neprávosti, čím biednejší
+sedliak, tým skorej sa sprotivil. A preto bol tu súd, súd „siedmich",
+ktorý nemilosrdne súdil, a bol tu aj neúprosný vykonávateľ rozsudku,
+kat. A boli tu, hľa, na Vígľašskom vrchu pohotové šibenice. Ale na
+šibenici umrel len úbohý, čo i hriešny bedár a kat stínal hlavy len
+nešťastným zvedeným dievkam z ľudu, ktoré v zúfalstve zaškrtili svoj
+vlastný plod.*
+
+*--- Ako Madlena z Bacúrova, --- podotkla Bánička.*
+
+*--- Pre pánov bol zákon iný, pre pána neplatil zákon: Oko za oko, zub
+za zub. Najviac, keď už bol zločin taký veľký, že sa sami zemani
+pohoršili nad ním, odsúdili vinníka na galeje.*
+
+*--- Ako Feketeho, --- ozvala sa zasa Bánička.*
+
+*--- Kto boli tí, čo spáchali a kto ich žaloval a súdil? --- opytujú sa
+cudzie panie, Lopušná a Heinrichová.*
+
+*--- Rozprávajte nám o tom, --- žiadal i Lopušný, --- lebo naše ženy by
+ani spať nevedeli.*
+
+*--- Neviem, či im práve toto neodoberie spánok.*
+
+*--- Ale, veď ešte máme dosť času, rozprávajte, --- prosili panie. Ony o
+tých veciach nevedeli, čo vo Zvolene vedelo každé dieťa a nielen vtedy,
+ale ešte dlho potom, ešte i dodnes...*
+
+*Malý Ďurko, ktorý dosiaľ stál pri otcovi, pritiahol sa k matke a sadol
+si na malý stolček po jej pravej strane, pritisol sa k nej a tíško
+počúval.*
+
+*Bánik povedal:*
+
+*--- Rozprávaj teda ty, žena, ty to vieš najlepšie, ako naspamäť.*
+
+*Vedeli to i iné, ale si plietli udalosti a tak si nezachovali všetko
+dopodrobna. Bánik to už vedel.*
+
+*Bánička pozrela na hodiny s ťažkými pondusmi a pristala:*
+
+*--- Dobre, lepšie teraz ako pred samým spaním. Ešte je nie neskoro.
+Bola som malá dievčička. Chodila som po tretiu zimu do školy, keď sa to
+stalo. Pritom som bola taká všetečná, že mi povedali: všadebol a nikde
+neobstál. Náš vzácny priateľ, pán senátor, to vie najlepšie.*
+
+*Senátor sa dobrosrdečne usmial a povedal:*
+
+*--- Preto vy, keď už raz treba, vyrozprávate to najlepšie.*
+
+*--- Mne sa všetko, dej i ľudia, zachovali v pamäti, ako by to bolo
+včera, nuž začnem.*
+
+*A Bánička rozprávala. A podľa toho, čo ona rozprávala, staré listiny a
+listy potvrdili, ešte i ústne podania doložili, doplnila a rozšírila
+autorka toto dielo svojím vlastným umom a poznaním.*
+
+# Vznešení hostia
+
+Leto roku 1806 bolo suché a horúce. Vtedy panoval v našej stolici hlad a
+vzmáhajúca sa suchota začínala byť nebezpečná poľným úrodám. Hospodári s
+obavami hľadeli do budúcnosti. Ak skoro nespŕchne výdatný dážď, hlad sa
+neumenší, ale zväčší.
+
+Júlové slnko praží na vyschnutú, miestami dopukanú zem. Tráva schne i
+žltne, lístie stromov vädne a je zaprášené; všetko v prírode žízni a
+túži po občerstvení.
+
+Ulice mesta, ináč rušné, sú onoho predpoludnia temer opustené. Každý je
+pri práci, pri remesle i na poli.
+
+Hronskou bránou vošiel do mesta hrdý, veľkopanský koč. Ťahala ho pekná
+štvorka bujných koní, hrkoce a dvíha oblaky prachu. Koč je krytý,
+takzvaný batár. Na kozlíku vedľa kočiša sedí vyšnurovaný pyšný hajdúch v
+uniforme vicišpánskeho sluhu. Má vykrútené fúzy, bez ktorých sa hajdúch
+ani myslieť nedá --- a díva sa so založenými rukami dolu na tých
+nemnohých, čo v tomto sparnom dni pešo musia chodiť, doslovne zvysoka.
+Keď sa mimoidúci ponížene pokloní, hajdúch hrdo kývne hlavou, akoby to
+jemu patrilo.
+
+V koči sedí vicišpán slávnej Zvolenskej stolice, vznešený pán Jur
+Radvanský z Radvane. Pri ňom je uvelebená jeho manželka pani Zuzanna,
+rodená Grünblattová. Oproti nim na malom sedadle sedia dve krásne mladé
+dievčinky: jedna je vnučka Radvanského, Klárika, druhá Františka
+Veselovská.
+
+Obe sa usmievajú bezstarostným úsmevom, ako mladé dievčatá, ktorým je
+úskalie života ešte neznáme. A keď pozrú na seba, zasvietia im oči
+šťastným porozumením a v rozpomienke na milé dni, prežité v poslednom
+čase. Obe strávili spolu niekoľko týždňov v Liptove, v panskom sídle
+Svätojanskovcov --- a sčiastky i vo famílii Pongrácovcov z Mikuláša. Tam
+sa zabávali v kruhu seberovných slečiniek a mladých pánov, medzi ktorými
+boli aj opravdiví obdivovatelia neobyčajnej krásy a pôvabu Františky
+Veselovskej.
+
+Z Liptova priviezla pani Radvanská Františku do Radvane, kde pobudla
+ešte niekoľko dní. Teraz ju vezú domov.
+
+Koč ide hradskou cestou dolu asi doprostred námestia. Okolo koča sa
+dvíha a kundolí prach. Darmo je, cestovanie vtedy bolo spojené s týmto
+nezbytným prachom.
+
+Naľavo od hradskej, keď sa ide od Bystrice, stojí niekoľko veľkých
+domov. Sú to domy bohatých rodín. Na jednom z nich boli vyduté mreže z
+kovaného železa, nielen ozdobne spracované, ale i silné. Istotne tieto
+mreže neboli zo striebra --- a len na vrchu zatreté železnou farbou, ako
+bývali niekedy na bohatých domoch, ale v inom, zámožnom meste. Keď
+potomci tých rodín schudobneli, spomenuli si, alebo náhodou prišli na
+to, že tie masívne mreže im pomôžu z núdze --- a pomohli.
+
+Tu, vo Zvolene boli mreže len zo skutočného solídneho železa a nie pre
+pýchu, ale na obranu i ochranu domu. Bezpečnosť majetku, ba i životov
+nebola v ten čas ešte pevná. Ľud sa často búril a hoci ho vždy kruto
+potrestali, páni sa ho báli. Oni boli násilní a ľud bol odbojný. Nato
+boli na Vígľašskom vrchu šibenice a bolo ich dobre vidno z hradskej
+cesty, vedúcej od Slatiny k Vígľašskému zámku.
+
+Kde bola príčina mravného úpadku ľudu a spoločnosti ľudskej vôbec? Lebo
+ten úpadok bol zrejmý a išiel zhora nadol. V ten čas bolo vyhlásené
+stanné právo a keď hriešnika prichytili a usvedčili, po krátkom práve ho
+aj odpravili.
+
+Ale i vtedy mohol dobrý obhajca mnoho, ba všetko vykonať. Za dobrý plat
+bolo možno podplatiť i sudcu, i fiškála. A nebolo treba inšieho, len
+tajiť: „non quam, ad animam, ja, nie, ja som to namojdušu nespravil",
+ako vidíme neskoršie pri pravote Jakuba Schwarza, pliešovského baču.
+
+Hrdý veľkopanský koč vošiel do otvoreného dvora pekného domu. Bol to dom
+pána Pavla Veselovského, stoličného úradského a zapisovateľa zvolenského
+magistrátu. Predkovia tejto rodiny prišli do Zvolena v družine palatína
+Thurzu, ktorého dom stojí ešte i dnes na druhej strane, blízko
+rímskokatolíckeho chrámu. V tom dome je ešte nad dvermi Thurzovský erb.
+
+Pavel Veselovský mal medzi úradníkmi stolice veľký vplyv. Bol všeobecne
+vážený a ctený pán. Pritom bol i majetný. Panstvo, majetky nemal, bol
+viac takzvaný armalista. Jeho zemianstvo potvrdili na sneme roku 1790. K
+zdedenému bohatstvu rád prikladal, obzvlášť k zásobe zlata a striebra,
+najmä striebro, ktoré miloval tým viac, čím ho v tie dni bolo menej v
+obehu.
+
+Ale hoci miloval peniaze a dobrobyt vo všetkom, bol dobromyseľný a
+naklonený biednemu ľudu. Duch, ktorý zavial z Francúzska a dal vznik
+Martinovičovskému sprisahaniu, neprešiel celkom bez stopy ani v našom
+zákutí, ba, dotkol sa i ducha Veselovského. On sa nebál smelo vystúpiť
+oproti pánom a zastával sa práv ľudu, ako sa v ten čas zastal
+Dobrodincov oproti hrabivým Eszterházyovcom. Kde mohol, tam prízvukoval
+svoju zásadu a v tom zmysle písal i list stolici, v ktorom píše medzi
+iným: „Dajme ľudu ľudské práva, dokážme mu svoju lásku a dobrobrajnosť a
+on nám daruje svoju dôveru."
+
+S Jurajom Radvanským, vtedy prvým vicišpánom Zvolenskej stolice bol
+Veselovský v dobrom pomere, lebo Veselovský vždy stál na strane
+Radvanského. Najmä pri voľbách dokázal Veselovský svoju taktickú múdrosť
+a oddanosť voči prvému vicišpánovi.
+
+Teraz Radvanský, idúc na Ostrú Lúku, kde sa mala zísť família
+Ostrolúckovcov, zastavil sa na obed u Veselovskovcov. Radvanského dcéra
+Jozefa bola vydatá za Štefana Ostrolúckeho. Juraj mal len jedného syna,
+Imricha, a ten umrel ešte veľmi mladý.
+
+Pri tejto príležitosti priviezli so sebou jedinú Veselovského dcéru,
+krásnu Faniku.
+
+U Veselovskovcov boli na túto návštevu už pripravení. Veselovský,
+statný, asi päťdesiatpäťročný pán, privítal vzácnych hostí v bráne, pani
+Veselovská pri dverách domu. Privítanie oboch famílií bolo veľmi
+srdečné, zo strany pani Radvanskej i hlučné, zo strany Veselovskovcov
+okázale úctivé.
+
+Jeho milosti, pánu Radvanskému museli tak domáci, ako aj hajdúch pomáhať
+z koča. Troška i zastonal, lebo už bol starší, tak asi šesťdesiatnik a
+chorľavý. Konečne sa dostal na pevnú pôdu brány a vedený starostlivým
+domácim pánom, nasledovaný hajdúchom, kráčal do domu a hore schodmi do
+hosťovských izieb.
+
+Pani Radvanská, rovnako už nie mladá, ale dosť svieža, ešte z koča
+začala rozprávať, sotva sa privítala s Veselovskou, ako sa Fanika dobre
+zabávala všade, kde sa ukázala.
+
+--- Namojdušu, meine liebe Frau von Veselovský, das Mädel hat Eroberung
+gemacht, môžem povedať, že sa páčila. Überhaupt, ona je ein herziges
+Kind.
+
+Veselovská žiarila radosťou tým viac, že jej túto pochvalu povedala z
+najprvších dám v celej stolici. Nežne si pobozkala dcéru i Kláriku. Obe
+dievčatá zľahka zoskočili z koča, chytili sa za ruky a smejúc sa, vbehli
+do domu, odtiaľ zase do dvora, do záhrady, lebo Fanika chcela všetko
+vidieť, všade sa ukázať.
+
+Bolo síce horúce, ale panstvo malo v koči hodne kepeňov, plášťov a šálov
+okolo seba.
+
+Pani Radvanská mala na hlave veľký klobúk, viac ešte bol to čepiec,
+alebo „kápka", umele zostavená podľa najnovšej módy. Keď toto umelé
+dielo mala na hlave, sadlo jej na lokne a kudrlinky, ktoré mala okolo
+uší a nad čelom také, akoby i ony patrili k úprave klobúka a s ním mali
+ísť dolu. Na čele mala ešte dve-tri vyčnievajúce kudrlinky, takzvané
+huncútky. To bolo veľmi „nóbl" a dodávalo tvári interesantnosť. I tie
+boli také, ako by s tými „šľupfňami", mašňami, čipkami a perami tvorili
+celok. Veru, taký nádherný klobúk v tie časy nemohla mať každá pani,
+azda ani pani osvietená Baloghová, manželka najvyššieho župana Petra
+Balogha z Oče a z Romháni. Nie to, že by nemohla mať nároky napríklad i
+pani Veselovská, čo je i bohatá. O bystrických paniach nehovoríme, lebo
+medzi tými pyšnými patricijskými paničkami nejedna sa rovnala najprvším
+zemiankam. Lenže vtedy jestvovali isté hrádze medzi meštianstvom, hoci
+aj bystrickým a zemianstvom, tak isto, ako medzi správou mesta a správou
+župy. Každý žil svojím spôsobom a podľa ustanovení zákona, viac ešte
+podľa tradície, ktoré sú mocnejšie ako samé zákony, vydávané na sneme.
+
+Pani vicišpánka mala šaty zo sivého hodvábu s krátkym živôtikom, s
+krátkymi rukávmi, spod ktorých jej vynikali jej ramená belostnou
+okrúhlosťou. Ruky boli len nedostatočne ukryté v hodvábnych
+polorukaviciach. Cez živôtik mala preloženú čiernu čipkovú šatku podľa
+vtedajšej módy. Na hrdle neveľmi obnaženom v matnom lesku skveli sa
+neveľké, ale cenné perly.
+
+Bol to oblek veľmi starostlivo zostavený, ale solídny a nekrikľavý.
+
+Františka bola od radosti, že je zasa doma, skoro bez seba. Hneď
+pribehla k matke a pritúlila sa k nej, hneď zasa ponáhľala sa do kuchyne
+a čeľaďníka, ukázať sa čeľadi. Radosť matkina bola nie menej srdečná,
+ale pani Veselovská sa premáhala, aby pred hosťami neukázala príliš
+svoju veľkú lásku k tomuto drahému dieťaťu.
+
+Mala sa čomu tešiť a tešila sa nielen ona, ale i jej muž, veď Fanika
+bola nielen ich jedinou dcérou, drahým pokladom, ale bola milá každému
+pre svoju spanilú krásu, pre dobrotu, ktorá jej svietila z očú. Jej
+zovňajšok bol očarujúci pôvabom mladosti, ale viac ešte účinkovala istá
+čarovnosť jej duše, ktorá žiarila z celého jej zjavu, ako i zo zvonivého
+hlasu.
+
+Faninkina priateľka Klárika bola tiež pekná, mladá, ale bolo v nej viac
+veľkopanského sebavedomia, ktoré jej pohybom i reči dodávalo istej
+hrdosti a napätosti. A to bolo na úkor dievčenského pôvabu mladej
+aristokratky. Bola so svojimi úsmevmi skúpa, jej tmavé oči si skorej
+dobre obzreli, na koho upreli svoj pohľad a len potom usúdil rozum, či
+je hodno venovať patričnému pozornosť a úsmev.
+
+Františka už pozrela i záhrady, odtrhla si oneskorenú ružu z tých
+stolistých, ktoré tak bohato kvitli vo zvolenských záhradách. Mimochodom
+rečeno, zvolenské panie samé si pripravovali z týchto ruží olejček a
+ružovú vodu.
+
+Dievčatko prebehlo dvorom, vbehlo do veľkej priestrannej kuchyne, kde
+pri ozrutnom ohnisku --- vo Zvolene povedali „hiarte" --- stála obstarná
+kuchárka Bibiana, obyčajne Bibkou zvaná. Na ohnisku horel poriadny oheň,
+na boku bola vyhrnutá pahreba a tá dávala toľko žiarivej teploty, že sa
+pri nej piekol poriadny mladý moriak, stoknutý na ražni. Ražeň krútil
+chlapec, na to vycvičený, dozerala ešte i Marka, aby kedy-tedy poliala
+škvrčiacu pečienku.
+
+Bibkina tvár svietila a červenala sa nielen účinkom ohňa, ale i
+radosťou, že vidí svoju drahú „kišasonku". Všetci sa jej radovali, i
+kočiš Gažko, i šumná chyžná Zuzka. Lebo kade Františka šla, akoby
+zasvietilo slniečko.
+
+U Veselovskovcov nemali kuchára, lebo pani Veselovská mala skúsenosť, že
+si kuchár nedá povedať, ale robí všetko, varí a pečie podľa svojho
+úsudku. Ona sama bola dobrou kuchárkou, dozerala všade, lebo vedela, čo
+jej manžel má rád a ako to chce mať pripravené. Veselovský bol totiž
+milovníkom i dobrých pokrmov, najmä pečienok, ktoré boli vyberané, a čo
+hlavné, prvé v príslušnom čase. Preto kuchyňa Veselovskovcov bola vždy
+bohato zásobená, tu veru nebolo poznať, že v okolí je hlad a nedostatok
+--- a ani taká vzácna návšteva, ako pána vicišpána a jeho manželky,
+nepriviedla Veselovskú a jej zručnú Bibianu do rozpakov. Bola tu vždy
+hojnosť dobrého jedenia a nápojov, i najväčší lakotníci by sa mohli do
+sýtosti nielen nasýtiť, ale i uspokojiť.
+
+Páni obedovali teraz, keď prišli hostia, vo veľkej sklepenej izbe na
+poschodí. Náradie tejto izby bolo vzácne, umele vypracované a solídne.
+Nebolo tu, pravda, toľko nádhery a umeleckých vecí ako u Radvanskovcov,
+najmä v tom druhom kaštieli, kde sú sály a salóny preplnené zriedkavými
+vecami, i gobelíny, ale i u Veselovskovcov bolo badať na každom
+predmete, že tu prebýva dobrobyt, keď aj nie prepych.
+
+Úprava stola bola bezchybná, jemný porcelán, sklo brúsené a kryštálové
+na snehobielom obruse --- svietilo sa a lesklo v svojej čistote.
+Striebro bolo i staré, zdedené, ale boli i nové kusy, zhotovené
+povestnými bystrickými zlatníckymi majstrami. Niektoré kusy boli pravé
+umelecké diela.
+
+Okolo stola obsluhoval hajdúch, mladý Martinko zo Slatiny, ktorý okrem
+tejto služby bol i záhradníkom. Pomáhala mu pekná Zunka, zvolenská
+rodáčka.
+
+Sem, do tejto peknej izby uviedol Veselovský svojho vzácneho hosťa,
+ktorý po schodoch troška sa i zadychčal a stonal, lebo bol neduživý. Ale
+pri výdatnej pomoci, poskytnutej z jednej strany domácim pánom, z druhej
+strany vicišpánskym hajdúchom, dostal sa tento pán šťastlivo do
+„parádnej" izby. Veselovský zaviedol svojho hosťa najprv k obloku, pri
+ktorom stál pohodlný stolec. Tam si pán vicišpán sadol a pozeral dolu na
+námestie, na rad domov naproti, na kostol, akoby to všetko ešte nebol
+videl. Veselovský vidiac, že sa starý pán zaujíma o veci zvolenské,
+vysvetľoval mu jedno-druhé a na otázku, kto býva vo výstavnejších
+domoch, podal mu hneď vysvetlenie. Tamten, v úzadí katolíckeho kostola,
+je Thurzovský dom, teraz ho má meštianska rodina; ďalej dolu tiež mešťan
+kúpil ten poschodový dom. Nasledujúci dom bol donedávna opustený; pred
+rokom býval v ňom človek-čudák, o ktorom sa hovorilo, že robí zlato z
+olova. Ale zlato nikto nevidel a starý čudák i umrel v chudobe. Po jeho
+smrti ten dom nik nechcel ani kúpiť, ani prenajať, lebo v ňom straší.
+Pred niekoľkými rokmi kúpil ho mladý kupec Lange. A hneď ten vedľajší;
+to je kúria Feketovská.
+
+--- Viem, poznám, família je z Hontu, Fekete de Nyék. Prisťahovali sa
+sem ešte v predošlom storočí. Starého Jána som poznal, bol zasmušilý,
+ale vraj dobrý úradník.
+
+--- Starý zomrel, bol síce čudák, ako vraj všetci Feketovci, ale ináče
+dosť slušný človek. Zanechal dvoch synov a tri dcéry. Najstarší má úrad
+v Honte, mladší, Ľudovít, ako počuť, má prísť domov. Od mladosti bol v
+cudzine. My sa s nimi neschodíme, stará pani je nevľúdna a má prapodivné
+náhľady. Dcéry, najmä Klára, nemajú dobrú povesť.
+
+Veselovský vedel, že Radvanského zaujíma všetko, čo je zemianske, rodiny
+meštianskeho pôvodu neboli pre aristokrata zaujímavé.
+
+Medzitým prišli i panie a obidve dievčatá; panstvo sa usadilo za stôl a
+štíhla, usmievavá Zunka doniesla polievku.
+
+Pri obede páni besedovali najviac v latinskej reči, ktorá, ako sa
+vyslovili znalci latiny, nebola práve klasická. Miešalo sa, najmä v
+rozhovoroch, hodne slovenčiny. Už sa začala natískať i maďarčina. Veď už
+v ten istý rok na dištriktuálnom konvente žiadali páni a hlavný župan
+Peter Balogh --- očanský bol medzi nimi, aby volili len takých učiteľov,
+ktorí vedia po maďarsky hovoriť i písať. Ináče pri voľnom besedovaní a
+pri vínku chytro bolo po latine, najmä keď predmet vyžadoval presné
+vyjadrenie, pomáhali si svojou milou, materinskou rečou. Že našim pánom
+zemanom bola slovenská reč skutočne materinskou rečou, je dokázané. V
+ten čas sa v našich rodinách ani inakšie nehovorilo a staršie panie i
+vtedy, keď nemčina vyvodila, aspoň sa modlili po slovensky. Ešte i matka
+prvého baróna Radvanského, Antona, hoci už vedela po maďarsky, mala
+modlitebnú knihu a spevník slovenský. Takže i Antonova sestra, barónka
+Kochová, neprestala sa modliť po slovensky ani vtedy, keď maďarčinu
+uviedli do kruhov panských ako reč konverzačnú.
+
+Naše panie a dievčence rozprávali si vo svojej bystrickej nemčine, ktorá
+je špikovaná slovenčinou. Maďarsky vedeli len tie šľachtičné, ktorých
+famílie sídlili na území obývanom Maďarmi. Ešte i tam dávali panie aj
+aristokratických rodín prednosť reči nemeckej a francúzskej. Medzi tými
+veľkými paniami vynikali niektoré i veľkou učenosťou, ktorú vyzdvihli i
+niektorí vynikajúci učenci. Ale väčšina obmedzovala sa len na domáci
+kruh. Boli slečny a panie, ktoré si písali kuchárske predpisy do toho
+istého zošitu, do ktorého francúzske alebo nemecké verše. Keď sa
+naskytla príležitosť, i ony spáchali nejaký veršík, ako sa zachovala
+pamiatka o istej mladej komtese, ktorá na počesť hosťa, vysokého
+cirkevného hodnostára, improvizovala túto klapanciu:
+
+*\<lang DE*\>*Die grosse Eminenz grüsst die kleine Excellenz.*\</lang\>
+
+Predmetom rozhovoru medzi pánmi boli v prvom rade veci slávnej
+Zvolenskej stolice, v druhom vysoká politika.
+
+Veľmi naliehavá bola v ten čas vec klasifikovania pozemkov a spísania
+daní od majetku podľa toho, do ktorej triedy patrí pôda patričného
+majiteľa. A to bol tvrdý oriešok, ktorý dala vláda na rozlúštenie;
+zemianstvo sa neochotne púšťalo do toho. Veď odjakživa bola to istá
+skúsenosť, ktorá vyriekla vetu, že zeman radšej berie, ako dáva. Vláda
+naložila prísne, ako to bolo možné v tom čase, aby sa tá vec riešila do
+budúcej reštaurácie a to už je blízko, lebo reštaurácia mala byť už v
+marci r. 1808. Nebolo sa možno tomu vyhnúť: raz sa muselo prikročiť k
+spravodlivejšiemu riešeniu agrárnej otázky --- a ešte sa do diela ani
+neprichytili.
+
+Radvanský sa aj ponosoval, že proces s famíliou Roth-Telekiovskou pre
+sporné pozemky v chotároch radvanskom a eliašskom sa vlečie a nemožno ho
+skončiť, ako dôverne oznámil Veselovskému, ktorého pokladal za svojho
+úprimného prívrženca, čo mu odoberá pokoj a zapríčiňuje mnoho starostí.
+I s Ghéczyovcami je znepriatelený, i táto família požaduje akési staré
+práva na majetky Radvanskovcov. Preto je pomer s pánom hlavným županom
+troška napätý, keďže Baloghova dcéra Karolína je vydatá za Štefanom
+Ghéczym. Naoko je síce pán hlavný župan priateľský k Radvanskému, ale
+istú chladnosť, on, Radvanský vybadal z hlavného župana. Nuž, mal i
+tento pán svojho moriaka, ktorý ho trápil i v súkromí, nie dosť, že s
+úradnými prácami má dosť a dosť omrzlostí. I to mu bolo trošku
+pokorujúce, že jedného z titulárnych notárov, príbuzného Radvanského,
+pán župan prepustil z úradu.
+
+--- Nuž, keď sa tak vezme, to je jeho právo, ale títo úradníci sú pod
+mojou správou. Je to teda akoby frčka, ktorú mi pán župan hodil ako
+prvému vicišpánovi, --- ponosoval sa Radvanský, ktorému dobre padlo
+uľahčiť si v starostiach a omrzlosti pred človekom umným, jemu
+nakloneným a dobrým juristom.
+
+Ale ani pri svojom žiali nedal sa pán vicišpán dlho núkať a ani tieto
+„fatality" mu neodobrali chuť pri tak okázalom stolovaní. Lebo bolo tu
+všetko tak výborne pripravené a nastolené pokrmy, počnúc od delikatesnej
+rakovej polievky, drobných kysnutých kapustníčkov, podávaných na
+assietle, vyberaných pečienok až po jemné pečivá a torty, z ktorých bola
+vtedy obľúbená grilážová, ovocie tunajšie a dovezené z cudziny, až po
+voňavú čiernu kávu, podávanú v drobných kvietkovaných šáločkách --- to
+všetko bolo také dokonalé, že by mohlo uspokojiť i najrozmanitejšieho
+labužníka. Pravdaže nechýbali ani dobré vína, naostatok ani tokajčina.
+
+Medzitým prešli páni v rozhovore na vysokú politiku. Politika bola vtedy
+veľmi zložitá a zamestnávala mysle veľkých pánov podľa toho, nakoľko sa
+týkala ich existencií. V našej stolici páni zemani neboli priamo
+dotknutí svetovými udalosťami, lebo sa ešte nepožadovali od nich
+direktne ani životy ani ovos. Vojny, ktoré sa vtedy prevaľovali, cítil
+len ľud a to i v následkoch. Páni sa len prizerali, tak zďaleka, nakoľko
+dostali často oneskorené zvesti. Ale taký vysoký úradník, ako bol
+Radvanský, bol predsa dobre informovaný.
+
+Vtedy Napoleon stúpal rapídne na výšku svetovej moci a slávy. Rakúsko
+bol pokoril, veľkú armádu predošlej jesene obkľúčil a zajal. Vrchný
+generál Mack svojou neuveriteľnou krátkozrakosťou a zaslepenosťou
+ostával i so svojím vojskom v ulmskej pevnosti, kým sa nepriateľ vždy
+ďalej a ďalej rozťahoval. Stalo sa, čo sa stať muselo, čomu sa však
+nikto z Rakúšanov nenazdal. Mack, odrezaný od pomocného vojska,
+nepriateľom obkľúčený, nevediac si rady, začal s nepriateľom vyjednávať
+a následok bol kapitulácia Ulmu.
+
+--- Rogo, --- povedal Radvanský, --- to bola pre cisára veľká porážka.
+Nech si len pomyslia, zajali dvadsaťtritisíc mužov, osemnásť generálov!
+A to poníženie si môžeme predstaviť, keď títo všetci zahanbení,
+premožení, museli defilovať popred víťazného Bonaparta, ktorý sa na nich
+hrdo díval zo svojho sedla.
+
+Veselovský podal svojmu hosťovi čibuk, naplnený voňavým dohánom a
+povedal:
+
+--- Prosím, domine illustrissime, --- tento titul vicišpánovi síce
+neprislúchal, ale Veselovský ho dobromyseľne upotrebil. --- Prosím,
+teraz bola Viedeň náležite pokorená. Nie že by som necítil i ja túto
+pohanu, ale vaša milosť, Viedeň vždy prenasledovala samostatne
+mysliacich ľudí a šliapala každý slobodomyseľný prejav a voľnosť. Len
+prostredne nadaných a slepo poslušných ľudí protežovala a tak, hľa,
+generál Mack, ktorý nemal ani toľko Filipa, ako niektorý z jeho
+podriadených oficierov, priviedol na našu armádu posmech a hanbu,
+asekuro, vaša milosť, medzi nami rečeno, Viedeň si to zaslúžila!
+
+--- Hm, vravia čosi, rogo, Viedni neveriť. Veď i slávny náš dedo, Jura
+Radvanský, ktorý umrel na prešovských jatkách, stal sa obeťou
+viedenských pletích a udavačstva a zanechal nám, potomkom, poručenstvo,
+aby ani jeden Radvanský neslúžil Viedni, ba, aby jej neveril a aby ostal
+verným luteránom.
+
+Tomuto poslednému bodu ostali Radvanskovci verní až dosiaľ. V bohatom
+múzeu Radvanskovcov je ešte aj železný kôl, na ktorý nastokli hlavu
+spomínaného Radvanského a na múroch Prešova vyložili. Knižnica v Radvani
+prechováva mnohé vzácne diela z čias Husových.
+
+--- A tých dvadsaťtritisíc, vaša milosť, odviedli do Francúzska.
+Asecuro, domine illustrissime, z tých sa veru máloktorý vráti domov, ako
+napríklad i ten takzvaný Micalito, alias Mikuláš, rodák zvolenský,
+dostal sa podobným spôsobom do Španielska a v službe španielskeho kráľa
+nadobudol veľké bohatstvo, ktoré pred svojou smrťou poručil mestu
+Trenčínu. Pre akú príčinu práve Trenčínu, to nevie nikto.
+
+--- Tak, rogo, túto vec pertraktuje i slávna stolica, ako vedia, lebo
+keď je patričný testátor rodák zvolenský, patrí jeho pozostalosť
+Zvolenskej stolici.
+
+Veselovský sa temer nebadateľne usmial. Už i ako dobrý syn mesta
+Zvolena, z lokálpatriotizmu, aj ako dobrý fiškál usúdil, že by
+pozostalosť zvolenského rodáka v prvom rade patriť mala rodnému mestu;
+no Radvanský, ako zástupca župy, bol ochotný vydobývať kdejaké výhody
+svojej slávnej Zvolenskej stolici. Keď sa tento pán pustil do vysokej
+politiky, tak túto tému, najmä po dobrom obede, tak ľahko nezanechal.
+Ani odchod panej, dievčat i hostiteľky, ktoré si chceli zasa o inšom
+pobesedovať, ho nevyrušil. Keď dievčatá s obvyklou poklonou povedali
+svoje „Wünsch wohl gespeist zu haben", blahosklonne, ale i troška
+roztržito kývol hlavou a pokračoval.
+
+--- Neviem, ako sa náš cisár cíti, keď mu francúzsky cisár, ako nejaký
+pán sveta, zo Schönbrunnu diktuje podmienky prímeria, prípadne pokoja.
+Nielen, že sa mu dostalo takého neslýchaného poníženia, ale musí sa
+spriateliť i so stratou talianskych provincií a Dalmácie.
+
+Vtedy sa utiahol dvor a za ním vysoká aristokracia do Prešporku a keď sa
+blížil Napoleon k hraniciam Uhorska, necítili sa uhorskí magnáti
+bezpeční ani v Prešporku, ale sa presídlili i s famíliami do Košíc.
+Príchodom veľkopanských rodín a ich družiny, mesto Košice nemálo získalo
+a potom sa tak vzmáhalo úpravou i bohatstvom, že dostalo názov: malá
+Pešť.
+
+Čo sa v Rakúsku dialo, to našich zvolenských pánov, ktorí boli ďaleko od
+tej horúcej pôdy, tak veľmi nebolelo. Radvanskovci boli dosť mocní i bez
+Viedne. Osvietenejší duchovia tých čias i v našom kraji úfali, že keď
+Napoleonovci zlomia moc Rakúska, Uhorsko bude ľahšie dýchať, ale sa
+sklamali; cítili to sami, ako sa Napoleon dostal k moci, prestal byť tým
+legendárnym hrdinom, za akého ho pokladali horkokrvní uhorskí patrioti.
+
+Veselovský bol katolík, ale vedel si uctiť i ľudí iného náboženstva,
+najmä Radvanskovcov a ich tradície. I v samom meste dokazoval svojím
+spôsobom zhovievavosť oproti evanjelickej cirkvi. Zo strany jeho cirkvi
+ho upodozrievali, že je slobodným murárom a že tajne navštevuje schôdzky
+lóže slobodných murárov v Banskej Bystrici; k slobodným murárom patrili
+aj niekoľkí luteránski páni, ba tvorili väčšinu tejto spoločnosti.
+
+Iní ľudia ho pokladali za pokrokového, slobodomyseľného človeka.
+
+I teraz povedal pred Radvanským, že Viedeň neprestáva dusiť duchov,
+ktorí chcú žiť životom slobody a práva.
+
+--- Ja myslím, --- pokračoval Veselovský, ba mám i oprávnenú príčinu
+tomu veriť, že viedenský dvor má mnoho tajných agentov po vidieku, možno
+i po našom. Z mnohých strán som počul, ako umných a vynikajúcich ľudí
+špehujú a pozorujú. Zavše ide to tak ďaleko, že i súkromné listy
+prezerajú, takrečeno každý kúsok papiera.
+
+Radvanský o tom pochyboval.
+
+--- To som ešte v našej stolici nezbadal, ja myslím, že ešte i vo Viedni
+veľmi dobre vedia, že my, ako zvolenskí zemani, sme napospol spoľahliví
+a pokojní ľudia. Dôvera jeho veličenstva v nás je celkom oprávnená.
+
+Veselovský sa usmial.
+
+--- Dosiaľ áno, domine illustrissime, u nás ešte nebolo ani odbojných
+duchov, ani špehúňa, ale ak by sa vyskytla nejaká slobodnejšia myšlienka
+alebo prejav samostatného zmýšľania, assecuro, bude tu i zradca.
+
+--- Nemyslím, --- odpovedal Radvanský. --- Majú tam hore dosť iných
+starostí a práce. Ostatne rád by som vedel, z čoho uzatvárate na tento,
+pre nás, uhorských zemanov, ponižujúci stav?
+
+Veselovský naoko zdielny a úprimný, predsa bol natoľko opatrný, že
+neprezrádzal otvorene svoje myšlienky ani pred týmto, ináče spoľahlivým
+pánom. Dal troška vyhýbavú odpoveď, keď prehovoril:
+
+--- Pri povahe plnej dôvery a podozrievania, ktorú má jeho veličenstvo
+pán cisár, dá sa myslieť, že povstali isté inštitúcie, o ktorých sa
+domnieva, že chránia nielen jeho osobu, ale i túžbu po absolútnej, a to
+trvácej moci. Jemu slepo oddaní radcovia a úradníci dvora udržujú ho
+nielen v domnení, že má zvrchovanú moc a právo, ale iste pomáhajú
+udržiavať túto moc tým, že z tajnej kancelárie vysielajú svojich
+úradníkov ta, kde šípia, že sa niečo hýbe.
+
+Veselovský mal pravdu: jestvovala takrečená tajná „talianska"
+kancelária, ktorá rozprestierala svoje siete naširoko, ale mal pravdu i
+Radvanský, keď tvrdil, že vo Zvolenskej župe dosiaľ nebolo badať tajných
+agentov z tej jednoduchej príčiny, že zvolenskí zemani neznamenali
+mnoho; spokojní so svojím osudom, nezaoberali sa vysokou politikou,
+nezasiahli do dejín --- a tak neboli Viedni nebezpeční.
+
+--- Nuž, rogo, --- pokračoval Radvanský, --- nám tieto inštitúcie škodiť
+nemôžu --- a neverím, že by sa našiel uhorský zeman, ktorý by pre ten
+„Čierny kabinet" pracoval a konal špicľovskú službu. Dosť, že nás
+zemanov dvor i teraz obťažuje a ešte ktovie, či nebude žiadať od nás
+také obete ako za čias Márie Terézie.
+
+--- Ale, vaša milosť, mnohí magnáti sa pridali k dvoru, hľadajúc
+priazeň, vysoké postavenie a iné výhody pre seba a svoje famílie. Menším
+ľuďom, ako nám zemanom, je ťažko sa dostať čo len s malou prosbou pred
+cisára, lebo sa už hovorí: kráľ nestojí nad stranami, --- tvrdil
+Veselovský.
+
+--- To by bola smutná vec, rogo, no, ako vidím, pustili sme sa už ďaleko
+do týchto vecí. Ale ostane to medzi nami, --- vstávajúc povedal
+Radvanský.
+
+Veselovský prisvedčil:
+
+--- Nemáme ešte špicľov medzi sebou, vaša milosť. A v tom prípade sa
+nazdávam, že by som len ja bol podozrivý.
+
+Radvanský sa prechádzal po izbe a vystieral údy. Na Veselovského slová
+nič nepovedal, ale zakašlal a zastal pri obloku, pozeral na opustený
+priestor, kde niekedy stál rad nízkych domov.
+
+Veselovský vzal z jeho ruky vyhasnutý čibuk, aby ho odložil. Vedel, že
+si už viac nežiada.
+
+Panie, keď vstali od stola, prešli do susednej izby. Táto bola tiež
+priestranná, pekne zariadená. Vidno, že je to pre hostí, v prípade, čo
+sa v tie časy najčastejšie prihodilo, že by i na dlhšie ostali. V tejto
+izbe boli skrine i kasne čierno politúrované s lesklým kovaním. Aj
+vysoké postele boli v tom štýle zhotovené. Stôl bol okrúhly, na jednej
+nohe, so širokým podstavcom. Všetko len tak svietilo čistotou.
+
+Radvanská, spokojná s obedom a obsluhou, chválila Faninku a rozprávala,
+že kamkoľvek prišla, urobila „furore" svojím milým, sympatickým zjavom.
+Pritom dôverne oznámila šťastnej Veselovskej, že sa gavalieri z „našej
+spoločnosti" interesujú o Faninku a že mamička takej krásnej dcérušky
+musí byť pripravená, že jej skoro uletí, lebo taká dobrá partia neostane
+dlho „v parte".
+
+A tu sa obe panie dostali k predmetu, ktorý je pre matky dorastajúcich
+dcér taký zaujímavý --- a to je --- starosť o výbavu. Vtedy sa ešte
+výbavy chystali na chýr, najmä v majetných rodinách. Počítali sa
+niektoré veci na tucty, ale tak od prvého tuctu po dvanásť tuctov
+servítok a inej bielizne. Ešte i teraz v istej zemianskej famílii sú v
+úžitku obrusy a servítky z výbavy starej matky dnešného pána.
+
+Nie div, že pani vicišpánku zaujímala otázka, či Veselovská mnoho a
+akých vecí nachystala pre Faninku, „für das liebe herzige Kind".
+
+A to Veselovskej nemálo lichotilo. V tejto peknej izbe boli i staršie
+truhly, pomaľované, i novšie vyrezávané a tie otvárala Františkina
+matka, aby ukázala uschované zásoby. Pani Radvanská znaleckým okom
+prezerala kus po kuse a poznamenávala:
+
+--- Ach, meine Liebe, veď to je všetko veľmi fajné a toto šitie,
+wunderbar. Napríklad toto tu, nech len pozrú, tie štichy, akoby len
+drobnulinké koralky boli nastýkané. To je wirklich flajsovná práca. Mne
+šijú prvé ševkyne bystrické, ale skoro ani jedna tak akurátne, ako je
+toto šité. Už i pri stole som bewundrovala pekné šapúdle a manžetne u
+pána Veselovského, prosím ich, sagen sie mir, kto im to šije?
+
+Veselovská sa usmiala s veľkým uspokojením a povedala:
+
+--- Keby, Euer Gnaden, ráčila vedieť, aký kriplík šije tieto veci, ani
+by mi neuverili. Nech si predstavia dievča, ktoré nemá nôh, lebo bez nôh
+sa narodilo.
+
+--- Was sie nicht sagen, bez nôh, --- ale má aspoň ruky?!
+
+--- Tie má a aké šikovné, --- chválila Veselovská.
+
+--- A či je to možné? Akože existuje bez nôh? Vermutlich len od kolien?
+
+--- Ach nie, Euer Gnaden, má miesto nôh len akési kýptiky, na ktorých
+môže sedieť. Ináč pohybovať sa môže len tak, ako malé deti, keď sa po
+zemi šmýkajú a zahadzujú, ale ako šikovne to robí!
+
+--- Zum Staunen, skoro, skoro nicht zum Glauben --- a ostatné telo? ---
+opytuje sa pani Radvanská.
+
+--- Ostatné telo je riadne vyvinuté, ako u iných dievčeniec toho veku.
+Je trochu mladšia od mojej Fančiky a Fančika ju má veľmi rada.
+
+\<lang DE\>--- Aber --- vermutlich aus dem Volke?\</lang\>
+
+--- Áno, jej otec bol u nás parádnym kočišom. Toto dieťa sa narodilo v
+našom dvore, ráčia vedieť, vaša milosť, mali sme a máme ohľad na úbohú
+Zuzku. Kým on, Mamojčík, žil, dovtedy bývali v našom dvore, ale keď
+umrel a prišiel druhý kočiš, odišla mať s dieťaťom bývať inde. Bývajú,
+hľa, naproti, u Langov.
+
+--- Rozumiem, ich verstehe, že sa preto o ňu interesujú. Veď je to
+pravda, náš povýšený stav ukladá nám i mnohé Verpflichtungy, povinnosti
+voči nižším a biednym, ako sa povie: noblesse oblige, --- dokončila
+Radvanská, aby ukázala, že ešte nezabudla všetko, čomu ju kedysi
+guvernantka naučila.
+
+Veselovská pokračovala:
+
+--- Ale tam, kde sú, im je dobre. Domáci pán im všemožne pomáha. Stará
+sa aj šitím živila, ale onedlho sa dievča chopilo šitia, tak ďaleko
+prevýšilo matku. Kupec Langa každému, kto u neho kupuje matériu, hneď i
+ševkyňu odporúča, lebo šije pritom lacno a na pravý čas.
+
+--- To je eine wirkliche Kuriosität, meine liebe Frau von Veselovský, a
+už i za to verzeihlich, keď sa s ňou zaoberajú, predsa je len z nízkeho
+rodu.
+
+--- Ale keby ju, Euer Gnaden, počuli rozprávať. Tá má rozum a smelosť,
+každému sa postaví a povie smelo, čo si myslí.
+
+--- Aj, aj, tak nejaký rebellischer Geist, preto je to nie pre Faninku;
+meiner Seel', my nepotrebujeme Freigeista v kytliach, čo by to hneď bol
+aj kriplík.
+
+--- Ach, --- zasmiala sa Veselovská dobromyseľne, --- Zuzka je tak
+nepatrná stvora, že od nej nemôže nikomu hroziť nebezpečenstvo.
+
+Vošla Zuzka s odkazom pána vicišpána, že už dali priahať, aby sa pani
+osvietenej páčilo ísť dolu, lebo že do Ostrej Lúky je ešte ďaleko a
+cesta od Budče hore, planá.
+
+Radvanská sa strhla:
+
+--- Herjé, ja som zabudla, že je už čas, tak milo sme sa distrahovali,
+že ani neviem, koľko je hodín.
+
+--- Pol trach, osvietená pani, --- odpovedala Zunka tak po zvolensky ---
+a uklonila sa pôvabne.
+
+Na pánov rozkaz čosi-kamsi sa zapriahlo. Kočiš i hajdúch dobre opatrení
+usmievali sa spokojne, ale i zdržanlivo, aby nenarušili slušnosť, ktorou
+sú povinní panstvu.
+
+Pomocou Veselovskej, Kláriky a Zunky pristrojili pani vicišpánku.
+Hovorila, že si svoju Žanku nevzala so sebou, lebo že na Ostrej Lúke
+majú služobných dievčeniec viac, ktoré jej pri obliekaní pomáhajú, keď
+sa tam baví. Treba podotknúť, že pani Radvanská i šnupala, ale pri obede
+a po ňom si nemohla šnupnúť, no teraz sa hneď obzrela, v ktorom bajtlíku
+má svoju tabačnicu. Na obvyklý kopfputz, ktorý pri cestovaní zastupoval
+obyčajnú „kápku", založili jej zasa ten klobúk a starostlivo uviedli do
+súladu s účesom a čo k tomu patrí. Mantilu z čierneho atlasu mala
+starostlivo založenú na pleciach a tak si pani konečne sadla do koča.
+Podobne obslúžili i pána vicišpána, a to nielen jeho hajdúch, ale aj
+Veselovský a po mnohom stonaní vpratali ho k boku jeho ženy. Slečna
+Klárika si vymenila s Faninkou sľub, že si budú písať a že sa nikdy,
+nikdy nezabudnú. Potom i ona zaujala miestečko oproti svojim príbuzným.
+
+Pri všeobecných a obvyklých poklonách a obapolnom ďakovaní tu za
+priateľské prijatie, tam za vzácnu návštevu, pohol sa koč z brány na
+ulicu a ťahaný odpočinutými koňmi hrkotal hradskou smerom k Hronskej
+bráne, odkiaľ viedla naľavo, vedľa Stráži cesta na Budču a odtiaľ na
+vysokú planinu, kde je obec Ostrá Lúka, so sídlom pánov Ostrolúckovcov.
+
+# V tom zvolenskom cintoríne
+
+Horúčosť bola neznesiteľná. Dusné sparno ťažilo ľudí i celú prírodu.
+Povetrie bolo v tom pálčivom priestore vedľa hradskej husté a ťažké, a
+keď sa zdvihol prach, rozhýbaný chôdzou ľudí alebo kolesami voza, hneď
+klesal k zemi.
+
+Veselovskovci sa utiahli do domu. Veselovská vyprevadila svojich hostí s
+veľkým obľahčením. Rada bola, že sa táto veľmi zriedkavá návšteva
+skončila. Bola spokojná, ale unavená, preto pozatvárajúc kasne a
+priečinky tam hore, zišla dolu, aby si v obývacej izbe odpočinula.
+Faninke naložila, aby pomocou Zunky a Bibky pozberala zo stola, uložila
+všetko na miesto, aby bol zasa poriadok.
+
+Faninka to všetko vďačne vykonala, čosi-kamsi bolo všetko v poriadku.
+Potom pozamykajúc dvere parádnych izieb, zišla dolu i ona a utiahla sa
+do hlbokého výklenku obloka. Priniesla si rám na vyšívanie so začatou
+prácou. Mal to byť povlak na skladaciu stoličku pre pána otca. Na
+bielej, silnej, ale drobnotkanej kanave perličkovým, alebo gobelinovým
+stehom povstával obraz ušľachtilého poľovníckeho psa, ktorého krásna
+hlávka bola už hotová. Výraz verných očí bol podivný, sama práca veľmi
+akurátna, z čoho sa dalo uzatvárať, že tá, čo to tvorí, pracuje s láskou
+a porozumením na svojom diele.
+
+V tento deň však rodine Veselovskovcov nedožičili odpočinok. Pán sa
+hneď, ako hostia odišli, utiahol do svojej kancelárie, kde jeho pomocník
+pracoval a pohrúžil sa do každodenných, naliehavých prác.
+
+Už o polhodinu, len čo si Faninka sadla, prišla Zunka a oznámila
+návštevu. Najprv prišla pani Huszághová, potom panie Streženická,
+Wachotová, pani Strakonická a pani Alitiska.
+
+Dozvedeli sa, že u Veselovskovcov mali vznešenú návštevu z Radvane a
+táto udalosť, ako i nové príhody v meste a okolí, donútili panie, aby
+prišli nielen počuť niečo nového zo sveta, ale aby i ony oznámili
+zaujímavé novinky.
+
+Veď v ten nepokojný a kritický čas, aký vraj býva začiatkom každého
+storočia, najmä keď je vo svete vojna a nepokoje, prichodia nebývalé
+udalosti a rozčúlia mysle občanov i tichých miest ako je Zvolen.
+Začiatok XIX. storočia nebol lepší ako začiatok predošlého, úpadok
+mravov bol veľmi citeľný, a to nielen úpadok u pospolitého ľudu, ale i u
+pánov. Nejednu záhadnú, ba i príšernú vec, ktorá sa stala pánom, keď ju
+nemohli jednoducho umlčať, pomenovali aspoň „nepríjemnou aférou".
+Obyčajne to boli „aféry" ľúbostné, keď „nóbl pasie" mladých i starších
+pánov, vymáhané i násilím a ukrutnosťou, viedli k tragickému zakončeniu.
+Tragika bola len na jednej strane, páni si zo všetkého spravili iba
+komédiu a ako takú skoro i zabudli. Takrečené tajné a nedovolené
+chodníčky pánov v tom čase neodstrašovali, skôr ich vábili na nové.
+
+Práve v tie dni na Vígľašskom zámku našli kdesi v tmavom kúte pohodenú
+mŕtvolu nemluvniatka. Panská čeľaď vedela i nie, vlastne vedieť
+nechcela, kde sa to nešťastné stvoreniatko tu vzalo, kto ho sem odhodil,
+ale všetci domáci usúdili, že v tej veci je pán, lebo sa trestné
+oznámenie, ba ani vyšetrovanie nezačalo a tak sa o veci viac nehovorilo,
+nepátralo. Nebolo žalobcu, nebolo ani súdu, smutná príhoda sa ututlala,
+ale celkom neumlčala. O nej sa hovorilo s rozličnými komentármi v
+sedliackych chalupách i v panských izbách, hádali, kto bol pri smrti, ba
+i kto bol otcom úbohej obete, ale konečne, raz sa táto udalosť prestane
+pretriasať, veď vtedy sa niečo podobné častejšie pridalo.
+
+Pravdepodobne i toto bolo medzi tými senzačnými novinkami, ktoré
+spomenuté panie a slečna doniesli vo svojich bajtlíkoch a košíčkoch na
+štrikerájky. Lebo „štrikerájka" je nie vždy „špilerájka", to nech sa
+nikto nenazdá. Veď to nebolo len vo Zvolene, ale všade vo zvyku, keď sa
+panie zišli, najmä staršie, vyťahovali so štrikerájkou i rozličné
+novinky, ktorých nitky sa zo zdanlive nevyčerpateľných prameňov snujú,
+ako nitky z klbka.
+
+Veselovská, premáhajúc únavu, milo prijala návštevu a pousádzala panie
+podľa veku a hodnosti na rokokovú kanapu a na také isté stoličky.
+
+Kým sa usádzali, vyslovili všetky jednomyseľne svoj úprimný podiv, ako
+sa Faninka od krátkeho času vyvinula a aká je súca! Potešili sa, že je
+zasa doma, že ju budú vídať či v kostole, či inde, i v spoločnosti
+zvolenských dievčeniec.
+
+Potom horiac nedočkavosťou, vypytovali sa, čo nového v Bystrici, v
+Radvani, a ako sa podal v Bystrici bál. Veselovská mnoho nevedela, lebo
+nebolo ani tak času, ale zato na všeobecnú žiadosť opísala dopodrobna
+oblek panej Radvanskej, ako i to, kam idú, načo idú a kto všetko bude v
+ten čas na Ostrej Lúke. A keď sa už vyčerpali náhľady, ako nažívajú
+členovia famílie vo všetkých troch radvanských kaštieľoch, nastala
+prestávka. Panie sa popozerali na seba a významne na ticho pracujúcu
+Faninku. Ten pokyn zbadala Veselovská a vycítila, že dnešný rozhovor
+bude sa asi pohybovať okolo takých vecí, o ktorých Faninka nemá ani
+tušenia a dlho by nemala o nich vedieť. Veď ju matka dosiaľ chránila,
+aby jej čistú, nevinnú dušu neznepokojila mrzkými udalosťami, ktoré,
+žiaľbohu, život prináša. Sama však bola zvedavá, čo vlastne priniesli
+panie, čo nového zasa príde na pretras?
+
+Preto pristúpila k Faninke a pohladiac jej hlávku, šeptom jej prikázala,
+aby šla Bibianke povedať, že treba uvariť čerstvú kávu a pripraviť dobrú
+smotanu na olovrant. „Prichystajte i pečivo, koláče a ovocie," doložila.
+
+Dievčatko poslušne vstalo, šatôčkou prikrylo rám a vyšlo plniť mamičkin
+rozkaz. Dobre Faninka vedela, prečo ju posielajú von; túto taktiku
+naivných mamičiek skorej alebo neskoršie rozoznajú i menej vtipné
+dievčatká, ako bola Faninka a pomyslela si: dobre, dobre, veď to, čo si
+vy tam šepkáte, zviem; alebo, a to je aspoň dnes veľmi pravdepodobné, že
+si pomyslia: „to ja už viem!" Faninka vedela, že sa tieto tajnosti časom
+dozvie alebo od Zunky alebo ešte skorej od Zuzky Mamojčíčky.
+
+Ako Faninka zmizla za dvermi, už sa to začalo. Najprv prišla na pretras
+tá strašná udalosť, ktorej dejiskom bolo Vígľašský zámok. Tam teraz
+sídlili zväčša len Eszterházyovskí úradníci, alebo často boli tu i
+hostia pánov, vyšší i nižší aristokrati. Aj zo Zvolenského zámku mnohých
+presídlili na Vígľaš, a tí boli vo Zvolene dobre známi po dobrom, ale
+viac po zlom. Zvolenský zámok v ten čase už patril štátu. Kým tu bývali
+Eszterházyovci, stalo sa tiež všeličo nepokojné, do nepeknej aféry
+zapletené boli i niektoré zemianske rodiny.
+
+Na Vígľašskom vrchu, ako už bolo spomenuté, blízko hradskej, stáli
+šibenice, ale tam odvádzali a odpravovali len tých, čo kradli a zbíjali,
+to jest tých smelých chlapov z ľudu, ktorým sa znepáčil otrocký život a
+pustili sa na zboj. Páni sa tých šibeníc nebáli, veď oni nepatrili pod
+ten istý zákon ako poddaný ľud, táto mizerná holota, na nich sa
+nevzťahoval zákon: oko za oko, zub za zub...
+
+Vyhlásilo sa stanné právo, ale tiež len pre „sprostý ľud" --- a i krádež
+sa trestala smrťou ako vražda. Páni sa báli, lebo im ten smelý, bujný a
+svojrázny detviansky a okolitý ľud svojou elementárnou silou začal
+imponovať, preto pustili naň hrôzu: šibenice. Ale ani tento pozostatok
+stredoveku už tak ľud nedesil, on cítil v sebe svoju divú silu. A keď
+podľahol jednotlivec, celok nepodľahol. Ľud je taký blízky prírode, s
+ktorou je akoby zrastený, v ktorej žije i umiera, že zdá sa, tvorí s ňou
+celok, vzdorujúci skaze. Príroda je sama v sebe často drsná, neúprosná,
+necitná, preto je večná. Tak i náš ľud, drsný naoko, často ukrutný, ale
+v jadre dobrý, ... ľud „špatnokrásny". Kultúrny človek cíti, ba stáva sa
+precitliveným a preto podlieha v boji a umiera. Nejedna pieseň zbojnícka
+viaže sa práve na tento kraj a povstala vtedy, keď na Vígľašskom zámku
+bývali páni a keď odtiaľ dúbravami niesol vietor hlas zvona... *„Na
+Vígľašskom zámku zvony vyzváňajú".*
+
+Ale túto zbojnícku romantiku neponímali páni v tomto zmysle, ani
+nevystihli ináče ako odboj, neposlušnosť a trestuhodný čin. A ten
+stíhali nemilosrdne všetci, počnúc od slúžneho a jeho drábov a
+hajdúchov, až po najvyšších sudcov, tých siedmich, ktorí súdili „raba"
+najviac tak, keď hlasovali jednomyseľne: „ego sum pro morte".
+
+Faninka pomocou Bibkinou a Zunkinou pripravila olovrant.
+
+Z úryvkov, ktoré zachytila pri otváraní dvier, súdila, že sa panie už o
+inšom zhovárajú. Najprv počula spomínať Vígľaš, ale potom vybadala, že
+panie spomínajú kohosi, kto prišiel z ďalekej cesty a Alitiska povedala:
+„a doniesol vraj mnoho drahých vecí z Talianska, ba i z Turecka,
+koberce, zbrane, šperky a klenoty."
+
+Pri káve prišli zasa na obvyklú tému, totiž o výbornej káve, ktorú „len
+u Veselovskovcov vedia tak pripraviť". Len odkiaľ ju pani Veselovská má,
+opytovali sa milovníčky kávy, hoci to dobre vedeli. Kávu dávali v malých
+jemných šáločkách, ktoré sa podľa potreby dopĺňali zo strieborného
+„íbrika" a takej rajničky na troch nohách. Koláče, pečivo a ovocie tiež
+náležite ocenili a pochválili.
+
+Po káve sama Faninka zatúžila vzdialiť sa z izby; bolo tu dusno a jej sa
+chcelo ísť na čerstvý vzduch. Čosi, čo tie panie rozprávali, ju
+znepokojovalo a spôsobovalo jej nevoľnosť.
+
+--- Mamička, smiem sa ísť trošku prejsť?
+
+--- Vari Lacko hrušiek doniesol? --- usmiala sa matka, žartujúc, --- a
+ukázala na Faninkin rám.
+
+--- Ach, nie, ale cítim únavu --- i hodváb sa mi minul.
+
+Veselovská nežne pozrela na dcéru a povedala:
+
+--- Choď, prejdi sa trošku, ale nebuď dlho, dnes iste bude búrka.
+
+--- Sotva, --- ozvala sa istá pani, --- možno len na noc.
+
+Faninka spravila poklonu, povedala svoje „kistihand" a vyšla. Zašla si
+dolu radom vedľa domov, až prišla k ceste, ktorá vedie z Môťovskej ulice
+na rínok. Odtiaľ sa obzrela, váhala, či sa nemá vrátiť, akoby nemala
+celkom čisté svedomie. Mamičke povedala, že sa ide trošku prejsť a ona,
+hľa, má úmysel okľukami zájsť k Zuzke Mamojčíčke. V kapsičke jej nesie i
+cukrovinky, ktoré Zuzka rada chrumká.
+
+Obzrela sa. Videla, že od zámku ide mladý človek. Je ešte celkom mladý;
+na prvý pohľad vidno na ňom, že je študent.
+
+Faninka sa zľakla. Poznala ho, veď je to druh jej detských rokov.
+Donedávna ešte chodila Faninka spolu s Libušou Duchoňovou k cirkevnému
+kantorovi na spev a hudbu. Prichádzal ta so sestrou i Mikuláš Duchoň, už
+študent štiavnického lýcea, keď býval doma. Rodičom Faninkiným to nebolo
+po vôli a zakázali jej pestovať akúkoľvek známosť s Duchoňom a jeho
+sestrou. S touto svojou vrstovníčkou sa Faninka už i tak navždy rozišla,
+lebo Libuška umrela na suchoty, na ktoré zdedila náchylnosť po otcovi.
+
+Po dlhšom čase vidí teraz Mikuláša Duchoňa. Vidí, má čiernu stužku na
+ruke, na znak smútku.
+
+Faninka sa zľakla, cítila, že jej krv udrela do tváre, i srdce jej
+prudko bilo. Len keby sa mohla vrátiť, len keby mohla bežať, utekať
+domov, domov.
+
+Ale zabočila napravo k evanjelickému kostolu a odtiaľ hore radom k
+Zuzke.
+
+Myslela si, že ju Mikuláš ani nevidel. Chcela sa uspokojiť, ale čosi
+neznáme sa ozvalo v jej duši a znepokojovalo ju. Prečo jej rodičia
+zakázali známosť s Mikulášom? Veď sa dosiaľ neprevinil oproti nej, ani
+oproti slušnosti.
+
+Keď už bola na druhej strane v tôni domov, zastala a vydýchla. Či je to
+tá spárňava na príčine, že sa jej tak ťažko dýcha, že je taká
+nespokojná? Veď posledné časy bola taká veselá, bezstarostná, bola
+šťastná; kde sa berie v jej duši nepokoj, či je to preto, že bez
+matkinho dovolenia ide teraz sem? Ale čo je v tom? I predtým chodila k
+Zuzke a mamička jej nebránila. Mohla sa ešte i teraz vrátiť, mohla
+najkratšou cestou, cez rínok prebehnúť domov, veď hľa, ich dom v svetle
+zapadajúceho slnka sa belie a vábi ju do svojich útulných priestorov.
+Keby len bola išla! Ale ona, keď už raz bola tak blízko, popošla ďalej a
+prešla popred mestský dom i popred niekoľko domov za ním. Tu hľa, je už
+obchod --- v tom býva Zuzka.
+
+Srdce mladého dievčaťa prudko bilo, keď vošlo do dvora. Zdalo sa jej, že
+ju niekto pozoruje, že ju stíha, že videla nejakú strašnú tvár,
+prenikavé oči a to zo susedného domu... Na dvore bolo ticho, všade
+poriadok a čistota. Ako išla ďalej, začula tichý spev. Ach, to spieva
+Zuzka, iste sú jej mati nie doma. A táto prostá melódia Zuzkinej piesne
+len zvýšila tieseň mladého, zastrašeného dievčaťa.
+
+Povetrie bolo ešte vždy ťažké a dusné. Slnko zapadlo už za Pustý hrad, a
+akési žltkavé svetlo oblievalo domy, ulice, napĺňalo všetky priestory.
+
+Vo dvore, v čistej komôrke, ktorá bola teraz pretvorená na izbu, sedela
+pri stole spomínaná Zuzka. Izbička bola čistá a dosť vidná.
+Starostlivosťou domového pána bol oblok do dvora dosť veľký a prúdilo
+ním svetlo do izby, v ktorej mladá ševkyňa celé dni sedela a šila. Pri
+obloku bol neveľký stôl, z dvoch strán bola lavica a na nej, pri samom
+obloku, sedela Zuzka i teraz a šila. Na stole mala rozložené plátno a
+začatú prácu, ktorú si pripínala o vankúšik zdnuky zaťažený tehlou; v
+ten čas nezbytná pomôcka pri šití, pomenovaná bystricko-zvolenským
+nárečím „nekišom".
+
+Keď toto mladušké, sotva sedemnásťročné dievča sedelo na lavici a dlhé
+sukne malo spustené, nikto by nebol povedal, že nemá nohy. Keď sa na
+veľký žiaľ a ustrnutie rodičov narodila, úfala sa jej matka, že takýto
+mrzáčik nebude dlho žiť a vďačne by ju bola už vtedy prepustila, hoci
+svoje dieťa úprimne milovala. Ale keď si pomyslela, že malá Zuzka bude
+navždy žobrákom, na posmech a podiv svetu, oplakávala ju, ako bude také
+dievča žiť. Zuzka však neumrela, naopak, bola veľmi bystrá, a rástla ako
+iné deti. Keď prišla do veku, keď sa iné deti púšťajú na nohy, ona sa
+len šmýkala a zahadzovala po zemi s takou bystrosťou, že keby tú prácu
+bola vykonala jednou čiarou, hodne ďaleko by zašla. Rozumie sa, nikam
+nechodila sama.
+
+Zuzka mala peknú tváričku, bielu, pravidelnú. Oči sivé, čisté ako hôrne
+jazierko a prenikavé. Pozerala každému smelo do očí. Keď hovorila, alebo
+sa smiala, beleli sa jej biele zdravé zuby. Ruky mala riadne vyvinuté, i
+celý driek podobal sa drieku mladých, ešte nevyvinutých dievčeniec.
+
+Zuzka si spievala. Spievala si nie silným, ale príjemným hlasom jednu z
+tých dojemných zvolenských pesničiek, ktoré niekedy, dávno, akiste mali
+pôvod v nejakej smutnej udalosti.
+
+*V tom zvolenskom cintoríne,*
+
+*leží šuhaj v rozmaríne.*
+
+*Leží, leží zabitý,*
+
+*rozmarínom prikrytý.*
+
+Pri počutí tejto tesklivej piesne Faninku zamrazilo. Počula ju často i
+doma, keď ju slúžky spievali, ale nikdy nepocítila toľký žiaľ ako teraz.
+Prečo práve teraz urobila táto pieseň ten čudný dojem? Čo to bolo, čo
+opäť zvýšilo tlkot jej srdiečka, čo sa ozvalo pri počutí tejto prostej
+piesne? A prečo si predstavovala šuhaja v cintoríne, ktorý jej bol taký
+známy, taký milý, akoby to bol práve študent Mikuláš Duchoň? Už tak
+dávno ho nevidela, len dnes ho zazrela letkom v diaľke. Vo veselej
+spoločnosti posledných týždňov ani nepomyslela na neho a teraz prichodia
+jej na um šťastné chvíle detstva, spomína na hry a na učenie s milou
+Libuškou, ktorá teraz už tiež odpočíva neďaleko otca, tam „na Harajchu".
+
+Všetky tieto myšlienky letkom prebleskli dušou mladej dievčiny a uviedli
+ju do akýchsi unylých rozpakov.
+
+Vkročila do izby. Zuzka prestala spievať a privítala radostne svoju
+mladú, panskú priateľku.
+
+--- Joj, či som ich už dávno nevidela, moja drahá, drahá Františka ---
+kišasonka --- či nezabudli už celkom na nás? --- Schytila Faninke ruky a
+bozkávala ich srdečne.
+
+--- Nezabudla, Zuzka; vidíš, ešte som len dnes prišla a už som pri tebe,
+mamička ani nevedia, možno, že sa budú i mrzieť.
+
+--- Ej, prečo by sa mali mrzieť, veď tento dom je nie plané miesto, ---
+prehodila Zuzka a oči jej stemneli.
+
+--- Nuž, nie že by niečo mali proti tomuto domu alebo oproti vám, len
+tak myslím, ani neviem, čo mi je, len mi je tak smutno, tak do plaču;
+Zuzka, tá tvoja pesnička ma tak divno dojala, že by som sa naraz
+rozplakala.
+
+Naozaj sa jej oči zarosili slzami a okolo úst sa jej začalo sťahovať
+čosi ako deťom, keď sa im chce plakať.
+
+Zuzka pozerá s úprimnou sústrasťou, ale nie s porozumením na Františku;
+ponúkla ju, aby si sadla.
+
+--- A kde sú tvoja mama? --- opytuje sa Faninka, premáhajúc pohnutie.
+Sadla si za stôl, vybrala z kapsičky v papieri zakrútené cukrovinky a
+koláč a položila na stôl pred Zuzku.
+
+--- Moja mať? --- opätuje Zuzka. Išli len tu do susedov, do Feketov. ---
+A to mne, moja kišasonka? Ďakujem --- a už berie chrupkavé cukrovinky,
+kladie do úst medzi biele zúbky.
+
+--- A načo ta šli? --- opytuje sa Faninka.
+
+--- Ale veľká novina; iste o tom ešte nepočuli. Vrátil sa mladý pán,
+vedia, ten mladší Ľudovít, ale ani ten už nie je mladý --- že vraj,
+zďaleka, že hen až dakde z Turecka, čo je ešte za Viedňou. Ale istotu
+nikto nevie, lebo minulo už hodne rokov, ako nebol doma, ani nepísal.
+Stará pani Feketyčka poslali po moju mamu, aby prišli, že mi dajú šitia.
+
+Františka počúva, tak toto je ten, o ktorom hovorili panie pri káve a
+pani Alitiska, čo tu pri fortni býva, povedala, že priniesol hŕbu
+drahých a nevídaných vecí. Pritom sa Faninka prizerá na Zuzkine tenké
+prsty, ako obratne narábajú tenuškou ihličkou. Ihlička sa v jej bielych
+prstoch len tak mihá a cvernička, tenká ako pavučinka, lieta sem i tam a
+na jemnom plátne povstávajú drobulinké stehy, ako rad perličiek. Zuzka
+pokračovala:
+
+--- Dosiaľ u Feketovcov šili všetko len samé kišasone, najmä Klára, čo
+ju tu ľudia v reč vzali, lebo sa rada túla a preto sa posmievajú, že „v
+noci šije, vo dne pára", --- zasmiala sa mladá posmešnica zľahka. --- A
+keby vedeli, čo zasa na ňu zložili! Ja neviem, prečo, prečo nie, len
+teraz tak spievajú, ako keď vojaci večer trúbia: trára --- tak si to
+skladne zložili: Klára Feketyho Klára --- trará, trará.
+
+Malá všetečníčka napodobňovala vojenský „zapfenstreich" --- a potom sa
+rozosmiala. I Faninka sa zasmiala, ale nútene. Čosi ju nepokojilo, už by
+radšej bola doma, ale nemala dosť sily vzchopiť sa a ísť domov. Ešte
+chcela vedieť, čo sa na Vígľaši stalo.
+
+Ej, nevedela, že zvedavosť je nebezpečná, veľmi nebezpečná a že od
+Evinho pádu zvedavosť poškodila mnohým ženám a priviedla k pádu nejednu
+neskúsenú, ale zvedavú dievčičku.
+
+Zuzka, dieťa ľudu, pred ktorým sa nič netají, vedela o všetkom. K jej
+materi chodia ženy i z vidieka i zo samého mesta a tu sa pretrasie každá
+udalosť. Vedela Zuzka, že pred Faninkou doma nerozprávajú také veci, ale
+ona nevedela zatajiť nič, čo raz zvedela od ľudí. Vyrozprávala teda
+príšernú históriu hriešnej lásky a jej nevinnej obeti. Pritom
+prízvukovala svoju mienku, že páni sú omnoho horší ako ľud na dedine,
+lebo páni sa Boha neboja, ľudí nehanbia, veď akoby sa a načo by sa báli,
+keď sa im nič nestane?
+
+Faninka sa zhrozila. Nevedela pochopiť, ako môžu byť ľudia takí zvrhlí,
+takí hriešni a to ešte v tých uhladených panských kruhoch, v ktorých sa
+i ona pohybuje.
+
+Počutými podrobnosťami sa jej tieseň len zväčšila, ani nezbadala, že sa
+v izbe zotmieva, iba keď Zuzka poznamenala:
+
+--- Mračí sa, iste príde búrka --- a už idú i mati.
+
+Do izby vkročila nie ešte stará, hodná žena, v náručí niesla už
+postrihané plátno, ktoré položila na stôl. Tvár mala červenú a svietila
+jej radosťou, uspokojením a --- účinkom požitej, dobrej domášskej
+slivovice, ktorou ju pani, ináč skúpa Feketička, ponúkla. Zápach, idúci
+od Mamojčíčky, ju dostatočne prezradil.
+
+--- Čo ste priniesli, mamka? --- opytuje sa Zuzka a prezerá plátno.
+
+--- Nuž, šitia, dievka moja, a akô hrdô! A pozri to plátno, samé čisté
+rumburské, akého sme dosiaľ vo Zvolene ani nevideli! --- Obrátila sa k
+Faninke a úctivo ju privítala.
+
+--- Len by nie, --- odpovedala malá ševkyňa. --- Ujde, ale také už má i
+pán v sklepe. I pánu veľkomožnému do Veselovských som už šila takéto, ba
+ešte fajnejšie košele. A čo ste tam počuli?
+
+--- Všakovô. Mladý pán Ľudovít prišli už predvčerom na hrdej štvorke.
+Ale teraz odišli ešte na Budču oproti vozom, čo im vezú ostatnú bagážiu.
+Že vraj doviezli veľa drahých vecí z Viedne a z Turecka. Stará Mara
+vravela, že videla medzi inými vecami aj takú krivú šabľu, čo ňou Turci
+kresťanom hlavy stínajú a že pošva tej šable je z čistého zlata a drahé
+kamene sa ligocú na nej ako hviezdičky na nebi. A že už teraz ten pán tu
+ostanú, lebo sa im už zunovalo slúžiť vo vojsku, s ktorým vraj boli
+ďaleko v Tureckej a či ešte ďalej.
+
+--- A akýže je ten pán, či len taký pochábeľ ako bol?
+
+--- Jaj, ako to ty vravíš, čože ty vieš, aký bol. Keď bol mladý, neviem
+ani, či si už bola na svete, keď odišiel do škôl. Stará Mara vraví, že
+je pekný, čierny, zarastený a že čo ho aj poznala, keď bola mladá,
+teraz, že sa ho skoro --- bojí.
+
+--- Ja by sa ho tiež bála, ak sa nepolepšil. Veď ľudia rozprávali, že už
+vtedy, keď tu chodil do školy, behal za dievčatmi, chytal ich za vrkoče
+a ktorú dochytil, šteklil, vraj, o dušu, že sa každá mala zájsť od
+smiechu --- a od strachu.
+
+Stará skladala zo seba šatku i kabát a sadla si k peci. Dudrala, že čo
+by Zuzka vedela, ale už sa jej i jazyk plietol.
+
+A tam na dvore prebehli slúžky z domu, zháňali hydinu a domáce zvieratá
+a volali do obloka:
+
+--- Búrka ide, zatvorte oblok!
+
+Faninka sa schytila naľakaná.
+
+--- Bože môj, ide búrka, a ja som ešte tu! Mamička sa bude o mňa báť,
+ani nevie, kde som, --- zvolala nastrašená a beží k dverám.
+
+--- Mamo, --- volá Zuzka, --- nenechajte ju ísť samu, odprevaďte ju!
+
+Stará sa zdvihla, ale hneď aj sadla, lebo sa jej začala hlava krútiť.
+
+--- Nie, nie, ostaňte, veď ja prebehnem i sama, budem sa ponáhľať, ---
+bránila sa Faninka už zo dvora. --- Dobrú noc, --- zavolala ešte a už
+vybehla smerom na ulicu.
+
+Zrazu sa zotmelo, potom ostrý blesk osvietil dvor, i múry susedného domu
+a o chvíľu hrmelo. Búrka sa blížila náhle, neústupne, ba už sa v celej
+veľkolepej nádhere rozvinula. Schytil sa vietor a bolo počuť ako kdesi u
+niektorých susedov pleslo oblokom a zrinčalo sklo.
+
+Faninka vybehnúc na ulicu, bojazlivo sa obzrela k domu Feketovcov.
+Začala sa báť, ale si uvedomila, že stará povedala, že Fekete nie je
+doma.
+
+Obzrela sa do Langeho obchodu a videla, ako učeň priťahuje železné dvere
+a okenice. Keby bola videla niekoho zo starších ľudí, bola by ich
+poprosila, aby ju odprevadili, tak sa bála búrky. Urobila niekoľko
+krokov napred. Vietor sa zachytával do jej ľahkých šatočiek, nasýpal jej
+prach do očú z lístia, ktoré chytal a kmásal zo stromov na námestí.
+Musela zastať. A vtedy už stála pri nej postava mladého mužského, ktorý
+ju chytil za ruku. Počula nežné, milé slovo: „Faninka!"
+
+Zľakla sa ešte väčšmi, mimovoľne vykríkla, ale pritlmeno. Pred ňou stál
+ten, na ktorého myslela, ktorého si predstavovala, že leží vo zvolenskom
+cintoríne a je prikrytý rozmarínom a ona ho prikýva a bozkáva na „dobrú
+noc".
+
+--- Konečne som sa vás dočkal, --- povedal Mikuláš blízko pri nej. ---
+Bál som sa, že musím odísť a ani sa nerozlúčim s tou, ktorú teraz na
+celom svete jedinú milujem. Neviem, či viete, že som už i matku
+pochoval, nepovedali vám, neboli ste doma. Či smiem ešte takto s vami
+hovoriť? Ale ja musím, musím. Zajtra odchodím za vychovávateľa a potom
+idem ďalej študovať na akadémiu.
+
+Hovoril náhlivo a za ruku ju viedol naľavo, kde ich polozborený múrik
+cintorína niečo chránil pred vetrom.
+
+--- Jaj, nie, len rovno domov, bojím sa! --- prosila Faninka.
+
+--- Nebojte sa, drahá, nebudem vás dlho obťažovať. Len rozlúčiť som sa
+chcel, len to povedať, že chcem sa stať hodným mojej prvej a jedinej
+lásky. Chcem študovať, učiť sa, vystúpiť tak vysoko, aby som mohol
+dosiahnuť, po čom túžim: vašu lásku, vašu ruku. Nebojte sa, drahá,
+nežiadam sľub, ale ja na tomto posvätnom mieste, kde sme sa niekedy
+spolu i s našou zvečnenou Libuškou hrávali, sľubujem, že okrem vás
+nebudem milovať ani jednu ženu na svete.
+
+Stáli na pôde pradávneho cintorína.
+
+Faninka sa chvela strachom, ale i tým zvláštnym povedomím, že ju tento
+ideálny mladík miluje. Dôverovala mu, ale pritom už tušila, že je pre ňu
+Mikuláš stratený a ona pre neho. Jej by otec nikdy nedovolil vydať sa za
+nemajetného mešťana a okrem toho ešte za --- luterána.
+
+Boli už na tom mieste, kde sa hrávali ako deti. Veď deti tak rady
+vyhľadávajú miesta, kde spia večný spánok tí, čo pred nimi žili a kedysi
+tiež boli deťmi. Tu bol ešte vtedy viditeľný kameň, vetrom a dažďom
+opráskaný a na ňom poloošúchaný nápis:
+
+*„Tu leží panna, Zimáni Anna, v najkrajšom veku, v sedemnástom roku, v
+tanci umrela."*
+
+Faninka si spomenula: hľa, i ona je sedemnásťročná, keby tak mala umrieť
+a netušila, ako blízko je smrti.
+
+--- Prosím vás, pusťte ma, ja musím ísť domov, je tma, búrka, doma
+nevedia, kde som.
+
+Teraz sa opäť zablyslo od Pustého hradu, zasa zarachotil hrom. Faninka
+sa vytrhla, odbehla od Mikuláša a zdesene vykríkla. Pred ňou, akoby bol
+zo zeme vyrástol, stál mužský, ktorého sa zľakla. Blesk osvietil jeho
+hlavu, pokrytú akýmsi klobúkom, spod ktorého bolo vidno bledú tvár a
+tmavé oči. Zdvihla ruky, ako na obranu, ale on ju už chytil a chcel ju
+pritiahnuť k sebe. Ale ona sa mu vytrhla a slepo utekala smerom k domu.
+Odrazu počula hlas Zunky a Marky. Ešte pobehla tým smerom, odkiaľ sa
+hlasy niesli a vrhla sa do náručia Zunkinho. Vtedy sa zasa zablyslo a
+zápäť zatým strašne zadunelo. A vtom sa spustil i dážď.
+
+Zunka a Marka sa prežehnali, lebo prestrašené mysleli, že je koniec
+sveta.
+
+Obe dievčatá odvliekli poloomdletú Františku domov. V bráne už čakala
+nastrašená Veselovská v sprievode Bibiany a ostatnej čeľade. Verná Bibka
+držala v trasúcej sa ruke veľký lampáš. Vietor, ktorý ťahal krížom
+otvorenou bránou, usiloval sa zahasiť slabo blkotajúcu sviečku. Naľakaná
+Veselovská chcela svoju neposlušnú dcérušku vyhrešiť, ale keď ju videla
+bledú, premoknutú a poloomdletú, premohla ju ľútosť a objímajúc si
+dieťa, spytovala sa, čo ju tak nastrašilo.
+
+Faninka prišla hneď k sebe a trošku sa na matku usmiala, aby ju
+uspokojila, vrele bozkala matkinu ruku a keď sa k nej pritúlila,
+uvedomila si, že je už teraz všetok strach zahnaný a ona zasa šťastná.
+Vzdychla zhlboka a pritom sa striasla, akoby ju bolo zasa niečo
+predesilo.
+
+Veselovský zahrúžený do práce ani nevedel, že Faninka nebola doma, len
+teraz zišiel dolu a dozvediac sa, čo sa stalo, zvážnel. Potom sa všetci
+odobrali hore, len naložili Bibiane dozrieť, žeby brána bola poriadne
+zatvorená.
+
+Znepokojená matka uložila dcérušku do postele a dala variť lipový kvet,
+aby sa zohriala a zháňala nejaké kvapky.
+
+Na otázky, kde bola a čo sa jej prihodilo, lebo žeby len od samého
+hrmenia bola taká nastrašená, nešlo rodičom do hlavy, Faninka váhavo
+povedala, že bola pri Zuzke, že jej zaniesla cukrovinky, že sa
+zahovorila a nezbadala, len keď začalo hrmieť.
+
+--- Ale že ťa tá stará neodprevadila, alebo niekto od Langov, ---
+hnevala sa Veselovská.
+
+--- Ona chcela, mamička, ale bola taká ospanlivá akási --- a ja som
+nechcela, veď som si myslela, že je to nie tak ďaleko, len potom som sa
+zľakla...
+
+--- Čoho si sa zľakla, anjel môj? --- opytuje sa matka.
+
+--- Keď tak veľmi zahrmelo... a blesk osvietil cestu, videla som ---
+videla som nejakého mužského, ktorý ma chytil za ruku... --- rozprávala
+Faninka, kryjúc hlavu do podušiek. Cítila, že nehovorí celú pravdu, ale
+sa vyznať, čo jej povedal Mikuláš. To si umienila zachovať pre seba ---
+navždy pochovať v svojom srdci.
+
+--- Prepánaboha! --- zvolala matka.
+
+--- Kto to bol ten človek? --- spytuje sa prísne otec.
+
+--- Neviem, nebol sedliak, ani vojak, ale cítila som z neho hrôzu a
+vtedy som vykríkla a bežala smerom, kde je náš dom --- a potom som
+počula Zunkin hlas...
+
+Obe dievčatá prisvedčili, že len vo chvíli, keď sa tak veľmi zablyslo,
+videli ako v hmle postavu, ale potom ostali v takej tme, že nebolo
+vidieť ani na piaď, hneď nato zahrmelo tak strašne, akoby bol celkom
+blízko udrel hrom, alebo akoby bol z pištole vystrelil. Vtedy už bola
+Faninka pri nich.
+
+Lipový kvet neosožil, Faninku ešte viac ráz schytil akýsi zimničný
+záchvat a keď zadriemla, začala si v polospánku nôtiť: *V tom zvolenskom
+cintoríne...*
+
+*Dokiaľkoľvek živá budem*
+
+*čierne šaty nosiť budem.*
+
+*Čiernu stužku na ruku,*
+
+*za tú lásku velikú.*
+
+# Ľudovít Fekete
+
+Celým mestom zachvel výkrik zdesenia. Ráno po tej veľkej búrke našli
+ľudia, prechádzajúci cestou vedľa polozborenej bránky, vedúcej do
+cintorína, mŕtveho človeka. Ležal hlavou na múre rozbitou prudkým
+úderom. Keď ľudia mŕtveho zdvihli, poznali v ňom študenta Mikuláša
+Duchoňa.
+
+Ako sa to stalo, čo sa prihodilo s týmto mladým, pekným človekom? Tieto
+otázky dával si každý, kto o tom počul. Tí, ktorí ho bližšie poznali,
+vedeli o ňom len toľko, že prišiel na matkin pohreb a mal zasa
+odcestovať, pokračovať v štúdiách. Ešte bližšie oboznámení aj to vedeli,
+že mal už i voz objednaný, ktorý by ho odviezol na Budču, ďalej Tekovom
+k Vacovu, aby sa preplavil do Pešti. V Peštianskej župe mal zabezpečené
+miesto vychovávateľa u istej veľkopanskej rodiny.
+
+Nebolo človeka, čo by nebol poľutoval snaživého mladíka. A nikto nevedel
+vysvetliť jeho záhadnú smrť.
+
+Oficieri vojenskej posádky, ktorá v ten čas bola v meste, obzreli
+mŕtvolu a vyslovili sa, že smrť mladého človeka zapríčinila strelná
+rana, ale nemožno zistiť, či ju zapríčinila cudzia ruka, či jeho
+vlastná. To isté konštatoval mestský fyzikus Fontani. Okrem toho prudkým
+nárazom na ostré kamene zboreného múru bola hlava na viacerých miestach
+prebitá. Tento posledný objav svedčil, že musel tu byť druhý, zločinec,
+ktorý mal neobyčajnú silu, keď hodil mladíka o múr. Prudký dážď, ktorý
+sa lial celú noc, zmyl každú stopu; vrchnosť s ustrnutím zaviedla
+vyšetrovanie, fyzikus povedal to, čo povedali dôstojníci --- a potom
+spísali zápisnicu.
+
+V celom Zvolene nebolo človeka, na ktorého by mohlo padnúť podozrenie z
+tejto strašnej vraždy. Mikuláš Duchoň žil utiahnuto, bol skromný a nemal
+nijakých iných nárokov, len učením dostať sa na výslnie života... Chodil
+do škôl, preto v posledné roky býval málo doma; i cez veľké prázdniny
+chodieval albizovať, ako v tie časy všetci chudobní študenti, aby si
+takto zaopatril prostriedky na ďalšie štúdium. Medzi jeho knihami našli
+sa albá s podpismi štedrých darcov a slovutných ľudí.
+
+Jediná osoba by vedela niečo vyzradiť, čo by viedlo na stopu vraha a to
+bola Faninka, dcéra hrdého zemana Veselovského. Ale ona mlčala. Ani
+matke sa nezdôverila, že sa s Mikulášom zišla, lebo vedela, že by ju tým
+pohoršila. I pri veľkej láske rodičov k dcére a poslušnosti dcéry k
+rodičom, nebolo medzi nimi opravdivej dôvery a preto si Faninka umienila
+nezradiť nič, čo jej povedal Mikuláš.
+
+Viac, ako to, nevedela ani sama, ale keby sa bola dozvedela o
+Mikulášovej smrti, mohla si domyslieť, ako sa to stalo, hoci vraha
+nepoznala ani ona.
+
+Celú noc bola Františka nepokojná a blúznila.
+
+Znepokojení rodičia usúdili, že dcérku odvezú do Bystrice a poradia sa
+so stoličným fyzikusom.
+
+Veselovský mal dom, nie veľký, ale pohodlný, i v tom meste a to v Dolnej
+ulici, býval tam vždy, keď jeho prítomnosť bola pri stoličných radách
+žiadúca. O to lepší bude odchod Veselovskovcov do Bystrice, lebo
+Veselovský, ako sa dozvedel o skone Mikuláša Duchoňa, tušil, že by
+Faninka mohla o tom vedieť viac, ako udáva. Ale nechcel, aby také mladé
+a slabé dievča zatiahli do tejto mrzkej veci, radšej nech nevie o tom
+ani ona --- a matka tiež nie. Svoje domnienky si podržal, len si
+umienil, že čo by sa vec akokoľvek vyvinula, nedovolí, aby sa jeho meno
+dostalo do súvisu s vraždou. Týmto odcestovaním tomu predíde.
+
+Všetci domáci dostali prísny rozkaz, aby sa o Mikulášovej smrti
+nezmienili, ani o tom medzi sebou nehovorili.
+
+Faninka netušila, keď predpoludním toho dňa zahlaholili zvony, komu
+vyzváňajú, jej myseľ, ešte vždy neutíšená, si opakovala slohy piesne:
+
+*Zvoňte, zvony, na vše strany, umrelo mi potešení.*
+
+*Odpadol mi z ruže kvet, zarmútený celý svet.*
+
+Práve v tú chvíľu sadali Veselovskovci do koča. Bolo to ako útek, lebo
+teraz nasledoval hneď za panským kočom i voz, naložený batožinou, na
+ktorom sedeli Bibianka a Zunka.
+
+Už viac ako týždeň bývali Veselovskovci v Bystrici, keď jedného rána
+zastal pred ich domom krásny koč. Tento povoz rovnal sa svojou skvostnou
+úpravou najhrdšiemu hintovu vo dvore Radvanskovcov. Postroje, liace na
+koňoch, bola to štvorka bujných koni, boli striebrom vybíjané. Na koči
+bol pripravený i zemiansky címer: Štít vo dve polovice predelený,
+napravo v belasom poli lev s dvoma chvostami v labách drží meč, vľavo v
+červenom poli tri rieky. Okrasa vľavo červeno-strieborná, vpravo
+belaso-strieborná. Všetko na koči i na koňoch bolo celkom nové, tým bol
+zvýšený i lesk a neobyčajná nádhera. Ešte i v Bystrici, ktorá videla
+každodenne prebehnúť panské koče, upútala štvorka dosiaľ neznámeho pána.
+Ako bolo na koči všetko nové, tak i kočišova a sluhova livrej boli také.
+
+V koči sedel mladý pán, oblečený do uhorskej gály. Mal na sebe oblek z
+čierneho zamatu so zlatými gombíkmi, mentieka bola spojená zlatou
+retiazkou. Klobúk, čiže kalpak ozdobený perom, pripevneným jemne
+opracovanou agrafou, ozdobenou veľkým rubínom. Pri boku mal šabľu, ktorá
+bola umeleckým dielom.
+
+Zjav skutočne skvelý, obraz svižného, bujarého zemana.
+
+Pred Veselovského domom zišiel z koča a ponáhľal sa do brány. V bráne
+stál hajdúch Martinko a ako videl vchádzať takého vznešeného pána, vzdal
+mu poctu, ako sa na slušného mládenca panského domu patrí. Prichádzajúci
+len kývol hlavou a vedený Martinkom, ponáhľal sa hore schodmi. Ako
+kráčal, zvonila mu šabľa o stupne schodov a ostrohy na ligotajúcich sa
+čižmičkách štrngali.
+
+Hosť si žiadal, aby ho uviedli k jeho milosti pánu Veselovskému.
+Martinko otvoril dvere na veľkej izbe, ktorej obloky hľadeli na ulicu.
+Táto izba bola i obývacia i pracovňa Veselovského. Kanceláriu mal vo
+Zvolene, tu v Bystrici pracoval len výnimočne. Do Zvolena chodil každý
+druhý, tretí deň.
+
+Prichádzajúci sa predstavil ako Ľudovít Fekete de Nyék, zvolenský
+statkár.
+
+Veselovský, ktorý už počul o návrate tohto Ľudovíta, bol prekvapený.
+Jeho vystúpenie bolo bezchybné, ba imponujúce. Pohyboval sa celkom
+nenútene, z každého pohybu zračilo sa sebavedomie zemana, a to zemana
+bohatého.
+
+No, hoci Fekete bol skvelý zjav, Veselovský cítil nedôveru k osobe
+tohoto, z dávnejších čias známeho krajana. Bolo to však len na chvíľu,
+pozdejšie tôňa nedôvery zmizla. Niečo v hosťovej tvári upomínalo na
+chlapčenskú samopaš, biela, trošku akoby nadutá, okolo nej bujná čierna
+brada, starostlivo opatrovaná, také isté bajúzy, upravené podľa módy.
+Nad čelom kaderili sa husté, čierne vlasy. Nos pravidelný, len nozdry
+rozšírené a pohyblivé, oči čierne, viac vpadnuté, obyčajne zastreté
+viečkami, mihalnicami tiež čiernymi a dlhými. Obrvy husté, hrubé a nad
+nosom zrastené v silnom uzle. Keď zvraštil čelo, obrvy tvorili hustú,
+temer rovnú čiaru medzi čelom a ostatnou tvárou. Tento kontrast bledosti
+tváre s tmavými vlasmi dodával celému zjavu mladého šľachtica niečo
+pútavé, zaujímavé, ale zavše i odstrašujúce.
+
+Jeho poklona i konverzácia dokazovali, že tento človek pohyboval sa vo
+veľkopanských kruhoch. Hneď po prvých slovách, ktorými sa uviedol, bolo
+znať, že je vzdelaný, ba učený. Rozprával plynne po latinsky, potom i po
+nemecky a maďarsky. Slovenčine, ako sa vyhováral, odvykol, a preto
+nehovorí ňou plynne.
+
+Veselovský, ktorý dobre poznal famíliu Feketovcov, spytoval sa sám seba,
+kde sa vzal tento mladý človek svetového uhladeného zjavu a neobyčajných
+známostí v jednoduchej malozemianskej rodine? Dobre poznal otca Jána
+Feketeho, ktorý bol istý čas i senátorom mesta Zvolena. Jánova manželka
+bola Zvolenčianka, Mária Peťková, ktorej rodný dom v tom čase stál tesne
+pri múre, obtáčajúcom vnútorné mesto.
+
+Bola tam hneď i mestská bašta a oproti Peťkovskému domu veľká záhrada,
+prislúchajúca tejto rodine. Veselovský poznal i pôvod tejto rodiny,
+prisťahovala sa z Hontu, keď sa iní zemani usádzali v ohradených mestách
+a zakupovali si domy i pole po vymretých írečitých obyvateľoch mesta.
+Veď i jeho Veselovského predkovia, prišli s povestným a bohatým
+komorským grófom a palatínom Thurzom, ktorého bývalý dom stojí neďaleko
+rímskokatolíckeho kostola.
+
+Feketovci nadobudli časom majetky, patrili im Nerecina, Bakova Jama a
+okrem svojej veľkej kúrie prostred mesta mali dom i v Smrtnej ulici.
+Mimo toho i majetok v Bacúrove, malej dedinke neďaleko Zvolena.
+
+V posledné časy však majetkové pomery Feketovskej rodiny neboli veľmi
+skvelé. Starý, čudácky Ján umrel, pani nevľúdna, vždy zachmúrená, viedla
+rozsiahle hospodárstvo sama s čeľaďou a s dvoma najmladšími dcérami
+Klárou a Teréziou. Najstarší syn, neženatý, tiež čudák ako otec, býval v
+Šahách.
+
+O Ľudovítovi sa v posledné časy vedelo málo. Kým bol doma, mávali
+Feketovci pri toľkých deťoch aj inštruktorov a Ľudovít býval samopašný a
+dával príčinu mnohým žalobám. Na ulici bol pravým uličníkom, bil sa so
+spolužiakmi, ba i s učňami a dievčence utekali pred ním, chytajúc si
+svoje vrkôčiky, aby ich za ne nenaťahoval, alebo im ich neodrezal, lebo
+s nožíkom v ruke bežal za nimi.
+
+Učil sa však dobre, mal výbornú pamäť, v učení a ambícii nemal
+seberovného. Ako študent v Štiavnici a v Prešporku mnoho trovil, dlžôb
+narobil, až odrazu prestal domov písať. Rodičia vedeli o ňom málo; to,
+čo vedeli, azda nechceli povedať iným. Bolo počuť, že sa zverboval,
+dostal sa k vojsku, kde svojou smelosťou a odvahou vynikol, v čom, o tom
+doleteli do Zvolena len kusé zvesti. S vojenskými, neskoršie s
+diplomatickými výpravami dostal sa i do cudziny, bol v Taliansku, na
+Balkáne, najmä v Turecku.
+
+Naostatok zdržiaval sa vo Viedni ako zamestnanec istej talianskej
+kancelárie. O tomto poslednom Ľudovítovom pôsobení nevedel Veselovský
+nič istého, ale to, že sa tento mladý, schopný človek dlhšie roky
+zdržiaval vo Viedni, to zarážalo.
+
+Fekete musel mať veľké dôchodky, musel si i mnoho odložiť, lebo už jeho
+skvelé vystúpenie, potom povesť o tých krásnych a zriedkavých veciach,
+ktoré so sebou doniesol, nebola pravdepodobne zveličovaná.
+
+I oblek, ktorý mal na sebe hneď pri prvej návšteve, dokazoval, že jeho
+majiteľ nemá len dobrý vkus, ale i peniaze. Nádheru obleku zvyšovali i
+prstene, ktoré mal na bielych prstoch, veľmi vzácne, cudzozemské práce.
+
+Veselovský usadil hosťa oproti sebe a ponúkol ho čibukom. Fekete
+ďakoval, že fajčí len doma, kde má turecké čibuky a pravý turecký tabak.
+
+Čím viac hovoril Fekete svojím lichotivým, mäkkým, trošku pritlmeným
+hlasom, čím ďalej upieral pohľad svojich záhadných očú na domáceho pána,
+tým viac upadal domáci pán do čarovného kruhu mladého, temer už známeho
+človeka.
+
+Medzi rečou sa Fekete opýtal, či je milosťpani, pani Veselovská a panna
+dcéra doma, že by im rád urobiť poklonu.
+
+Veselovský trošku premýšľal. Faninka sa síce už zotavila, ale je akási
+zamĺkla. Naostatok, ukázať by sa mohla. S úmyslom, že privedie paniu i
+dcéru, vstal a odišiel do susednej izby.
+
+Ľudovít Fekete sa načiahol k stolu, obzrel sa po izbe, potom so záujmom
+prezeral papiere, písma a knihy na stole. Urobil tak bleskurýchle, bez
+viditeľných rozpakov. Ale azda preto, že nenašiel nič, čo by zasluhovalo
+pozornosť, nechal všetko tak, ako bolo, vstal, prešiel k obloku a zasa
+naspäť k stoličke, na ktorej pred chvíľkou sedel. Pozrel i oblokom na
+ulicu, pohľad mal tvrdý, zlý, celkom zmenil jeho peknú tvár.
+
+S Veselovským prišla len pani Veselovská. Fekete, ako pani vošla, vstal,
+veľmi dvorne sa uklonil a pobozkal jej ruku. Potom svojím lichotivým
+hlasom, vyberanými slovami, ale plynnou rečou sa prihováral o jej
+priazeň a o priazeň panny Františky, ktorú nemá šťastie ešte poznať,
+lebo on, po toľkom túlaní sa svetom, zatúžil po tichom, spokojnom
+domácom živote.
+
+Veselovská bola zovňajškom mladého gavaliera veľmi prekvapená. Aby
+vyhovorila Faninku, povedala, že jej dcérka nedávno, keď prehrmela tá
+strašná búrka ponad Zvolen, bola v meste, zmokla a prechladla. Ešte ani
+dnes nie je celkom zdravá.
+
+--- Bolo to skutočne strašné, --- poznamenal Fekete. --- Ja som bol
+práve na ceste. Na Budči sme s batožinou zaviazli. Na prednom voze, kde
+boli moje najcennejšie veci, zlomila sa oska. Museli sme to tam
+naprávať. Kone sa plašili, už sme nevedeli, či sa máme vrátiť, či len
+ísť. Konečne sme došli zmoknutí asi pred polnocou domov. Preto rozumiem,
+hoci ľutujem, že pannu Františku búrka prekvapila tak, že utrpelo jej
+vzácne zdravie.
+
+Veselovská pozorne načúvala jeho rečiam, nie ten obsah, ale spôsob, akým
+hovoril, ju očarúval. Sprvu sa ho temer zľakla, ale čím dlhšie sa s ním
+zhovárala, tým väčšmi upadala i ona do čarovného kruhu jeho osobnosti.
+Ale uprel na ňu svoje čierne, blýskavé oči, cítila, akoby ju uspával
+svojím pohľadom, a akoby ju neviditeľné ruky hladkali a nejaká čudná
+melódia uspávala. Usmiala sa, ako vždy, svojím dobrosrdečným úsmevom a
+nebránila sa onej čudnej moci, ktorá z neho vychádzala. Videla v ňom
+dokonalého gavaliera, ktorému sa ani jeden z mladých pánov, ktorých
+dosiaľ poznala v rodinách okolitých zemanov, nemôže rovnať.
+
+Potom Fekete spomenul, že idúc nazad, zastaví sa aj u pána prvého
+vicišpána Radvanského. Zajtra má pred sebou cestu do Novohradu. Chce sa
+predstaviť i pánu hlavnému županovi Petrovi Baloghovi-očanskému, ktorý,
+ako počul, je na svojom panstve v Romháni.
+
+--- Áno, jeho osvietenosť je chorľavý pán a na našu starosť strojí sa zo
+svojho úradu poďakovať. Práve pre chorobu, --- poznamenal Veselovský.
+
+Keď sa Fekete odporúčal, zanechal po sebe najpriaznivejší dojem.
+Veselovská celkom uveličene povedala:
+
+--- Ale aký je to podivný človek, aké má uhladené maniere, dokonalý
+gavalier. Len kde sa tak edukoval, veď my, ešte vtedy mladí, pamätáme
+sa, aký bol nezbedný uličník.
+
+Veselovský prešiel niekoľko ráz po izbe a po dlhšom uvažovaní
+poznamenal:
+
+--- I na mňa urobil dojem dokonalého aristokrata. Ale je pri ňom čosi,
+neviem to bližšie označiť, čo ma znepokojuje. Kde nadobudol toľko
+známostí a skúsenstí, kde sa naučil toľkým rečiam? Veď ten človek
+perfektne hovorí po latinsky, nemecky, maďarsky a ako som vyrozumel z
+jeho reči, i po taliansky, francúzsky a turecky. Zo všetkého vysvitá, že
+pochodil mnoho sveta, všeličo prežil.
+
+Veselovská stála pri obloku, pozerala na ulicu, dívala sa, ako Fekete
+sadol do koča a potom svojím záhadným úsmevom pozrel hore, zdvihol
+kalpak a pozdravil paniu. Cítila sa trošku zahanbenou, že zbadal jej
+zvedavosť. Potom sa obrátila k mužovi a podotkla:
+
+--- Wunderbar, takýto človek, s týmito schopnosťami, ten to ešte, drahý
+manžel môj, môže ďaleko doviesť. Má pred sebou kariéru, má skvelú
+Zukunft.
+
+--- Hm, vederemo, čo sa z neho vykľuje. A čo je s tým dievčaťom,
+nevyznám sa v nej, --- opýtal sa zrazu Veselovský, zastanúc pred paňou.
+
+--- Je zdravá, ale čosi ju trápi, neviem, čo to môže byť, nechce
+povedať, --- odpovedala Veselovská.
+
+--- Nesúvisí to s tým študentom? --- opytuje sa pritlmeným hlasom
+starostlivý otec.
+
+--- Ale kdeže by, veď ani nebolo kedy. A potom, ona je taká rozumná,
+poslušná dcéra, tak verständig, že by sa nikdy naším príkazom
+nesprotivila.
+
+--- Predsa musí niečo byť vo veci, musel byť vtedy tam, videla ho,
+naľakala sa, skríkla. Bez príčiny by sa nebola tak predesila. Celá vec s
+Duchoňom mi je záhadná --- a nielen to, ale ma i nepokojí. Rád by som
+vedel, ako umrel, ale pre zachovanie nášho bezúhonného mena nesmiem
+pátrať po príčine smrti toho ináč statočného šuhaja. Viem, keby som na
+našu dcéru dotieral, povedala by mi, ale súčasne by som ju upozornil na
+jeho smutný skon. Ona by sa dozvedela, prípadne i prezradila, a tak by
+prišla do nemilej situácie a my s ňou. Kalkulujem, že v celom Zvolene
+niet človeka, ktorý by bol mal záujem, aby mladého Duchoňa odpratal. Nám
+teraz záleží na tom, aby sa o smutnej histórii najmenej hovorilo a
+najmä, aby Faninka nič nezvedela. Nebolo múdre od teba, drahá moja pani,
+že si pred Feketem spomínala, že dievča bolo v búrke v meste, kto zná,
+čo si bude myslieť o nás, že si dcéru pustíme samú do mesta.
+
+--- Ale, mein Lieber, veď vlastne ešte bol deň, sotva viac ako sedem
+hodín, --- bránila sa pani. Pritom ale v duchu sa už častejšie
+obviňovala, že si práve v ten čas pustila dcérku samotnú do mesta. V jej
+duši sa striedali výčitky pre slabosť a nedbanlivosť s výhovorkami, že
+veď bol deň. Zvolen je ani nie také veľké mesto, aby nemohlo samé dievča
+prejsť na druhú stranu. Veď to aj iné robia a nič sa im nestane. Naše
+mesto bolo vždy také pokojné, tiché, bezpečné, ktože mohol vedieť, že sa
+náhle strhne taká pohroma?
+
+Svoje myšlienky oznámila i pánovi a potom prešla do druhej izby, kde
+sedela Faninka pri svojej peknej ručnej práci. Na vyšívaní mnoho
+nepribudlo, čo znamená, že dievčatko nepracovalo tak radostne ako zo
+začiatku. Faninka zamyslene hľadela na domy naproti stojace, na nebo,
+ktoré sa nad mestom vo svojej velebnej kráse klenulo, ale pravdepodobne
+nevidela ani jedno, ani druhé. Myslela na Mikuláša, na jeho vrelé slová,
+ktoré svojou vrúcnosťou zobudili v jej srdci niečo nového, dosiaľ
+neznámeho, ako hlas, ozvenu dosiaľ driemajúcu. Nevedela, čo cíti, čo
+myslí. Chcela by sa niekomu zdôveriť, ale komu? Mamičku by len
+znepokojila a tá by jej nerozumela. V svojich myšlienkach sprevádzala
+Mikuláša na ceste, o ktorej jej rozprával a žiadal si, aby čoskoro
+dostala o ňom zvesť. Ale minú mesiace, ba minie rok a ona sotva dostane
+zvesť o ňom. Vzdychla si --- a čo sa do roka môže stať!
+
+Málokedy takto sedela sama a dumala. Rodičia ju vždy zamestnávali,
+priateľky volali, ony zasa s ňou chodili na návštevy k okolitým známym.
+Nemala teda mnoho času na trudné premýšľanie. Ale v srdiečku upevnila sa
+predstava, že kedy-tedy stretne sa s tým drahým šuhajom, že bude čakať,
+kým nedosiahne cieľa a potom predstúpi pred jej otca a požiada ho o
+Faninkinu ruku. Sladká istota jeho čistej, pritom ale i ohnivej lásky
+naplnila jej bytosť a dala výraz a unylý pôvab i tak spanilej devuške!
+
+Za prvou návštevou Feketeho nasledovala o krátky čas druhá. Teraz
+priniesol prípis od hlavného župana Balogha, adresovaný Veselovskému.
+Hlavný župan odporúča v liste mladého zemana priazni Veselovského, lebo
+ho mocou svojho úradu vymenoval za titulárneho sudcu, či prefekta
+slávnej Župy zvolenskej a to na miesto toho, ktorého nedávno z úradu
+prepustili. Pritom podotkol, že takto konal nielen z priazne, ale i
+podľa odporúčajúcej listiny, ktorú dostal z dvornej kancelárie
+viedenskej.
+
+Teraz sa Fekete predstavil i Faninke.
+
+Keď ho Faninka videla, zľakla sa. Zbledla, triasla sa, akoby ju mráz
+prešiel. Držala sa matkinej ruky, akoby u nej hľadala ochranu. Matka to
+zbadala a pritiahla ju bližšie, aby jej neušla.
+
+Sám Fekete bol prekvapený. Počul, že je Veselovského dcéra krásna a aj
+bohatá, ale takú nežnú, takú dojímavo krásnu si ju nevedel predstaviť.
+Dal tomu i výraz nielen slovami, ale i v nelíčenom obdive. Veľmi pozorne
+pobozkal zdráhajúcej sa Faninke ruku a povedal jej, ako vysoko si cení
+šťastie poznať prvú krásavicu slávnej Zvolenskej stolice a ľutoval, že
+nemá príležitosť predstaviť ju v kruhu vysokej aristokracie v Prešporku
+a v Košiciach.
+
+Do Faninkinej zblednutej tváričky vrátila sa ružová zora a nevdojak sa
+usmiala hosťovým lichotivým slovám. V prvej chvíli mala dojem, akoby
+tohoto človeka už bola niekde videla, ale neskoršie, keď hovoril svojím
+mäkkým, do srdca sa vkrádajúcim hlasom, keď poznala v ňom človeka vysoko
+vzdelaného, skúseného, ktorý sa vyzná vo všetkom, čo sa verejného života
+týka, ktorý svojou neobyčajnou znalosťou spoločnosti a súčasných dejov
+ovláda každú náhodilú tému, zabudla na prvý nepriaznivý dojem a ako
+očarovaná načúvala jeho slovám. A keď uprel na ňu prenikavý pohľad
+svojich čudesne hlbokých očú, cítila i nevoľnosť, ale i ochabnutosť v
+úsudku a v myslení.
+
+Áno, tento človek si vedel získať každého, o ktorom súdil, že je toho
+hoden.
+
+U Veselovskovcov bola čarom Feketeho zjavu najskôr ovládaná pani. Bola
+to dobrá žena, nežná matka a ako domáca pani, požívala najlepšiu povesť,
+ale duchom bola slabá, nesamostatná. Preto si ju Feketeho zjav, reč i
+lichotenie úplne podmanili. A on to vycítil a získal si ju hneď na
+začiatku. Nie tak Veselovského. Hoci Veselovský obdivoval skvelé dary
+Feketovho ducha a zaujala ho i jeho nevšedná výrečnosť a myšlienková
+pohotovosť, nebol týmto všetkým príliš nadšený. V jednom rozhovore
+vycítil, že je Fekete nie priateľ ľudu, naopak, že je rovno nepriateľom
+každej demokratickej myšlienky. Samostatne mysliaci človek, ako bol
+Veselovský, usudzoval z toho, že v tomto bode sa s Feketem nikdy
+nezhodnú. Fekete hneď vybadal, že Veselovský je už naklonený názorom,
+ktoré budil duch francúzskej revolúcie a idey Martinovičovej a jeho
+spolupriateľov. Preto si v rečiach dával pozor, aby nedôveru, ktorú
+vzbudil vo Veselovskom, čím najskôr zaplašil. Vedel, že Veselovský je
+veľmi populárny a pre svoju otvorenosť a úprimnosť vo Zvolenskej stolici
+veľmi obľúbený a vplyvný. Záležalo mu teda na tom, aby si Veselovského
+priazeň udržal.
+
+Ostatnú časť leta família Veselovskovcov už zasa strávila vo Zvolene. Tu
+mali svoje veľké hospodárstvo, záhrady a Veselovský svoju kanceláriu, v
+ktorej pracoval i mladý jurasor.
+
+Fekete bol u Veselovskovcov temer každodenným hosťom. Privykli už na
+neho všetci. Časom prinášal rozličné drobnosti, zdanlivo bezcenné, ale
+zriedkavé a pritom značnej umeleckej hodnoty. Raz to boli šáločky na
+kávu z jemného porcelánu, hrebienky, tabatierky, taštičky, peňaženky a
+iné maličkosti. Týmito sa najväčšmi zavďačil domácej panej.
+
+Faninka mala teraz málo voľnej chvíle. Vždy mala pri sebe niektorú
+priateľku zblízka i zďaleka. K Zuzke sa jej nedostalo ísť --- a keď šla,
+mamička hneď poslala za ňou Zunku. Ba, dobrá matka šla i sama s ňou, keď
+dali Zuzke zasa veľkú zásobu šitia. Pani Veselovská nakúpila i v
+Bystrici mnoho látok, čipôk a plátna, ale najviac utŕžila kupcovi
+Langemu, lebo ten jej priamo z Prešporka objednával látky, aké boli
+práve v móde. Boli to v ten čas hodváby čierne, biele i perlovej farby,
+menivé, potom kvetavé i so zlatými kvetmi, atlasy, tafóny, levantíny,
+mórové tkaniny, potom kašmírové látky, kalander, koncent, angíny, veles,
+patelat, kamertuch, krásne plátna a okrem toho i zamaty, stužky,
+antaláše, nemecké i domáce čipky, stuhle, talianske obšívky a iné krásne
+veci. Z nich bol veľký výber najmä v Bystrici.
+
+Zuzka už dávno pošila veci do susedov, čiže do Feketovcov. Teraz ju zasa
+vyhľadávala pani Veselovská, ktorá jej priniesla jemnušké plátno a Zuzka
+to vedela náležite oceniť. Hneď sa chytila do šitia, veď to má byť pre
+jej drahú Františku. Tak rada by ju bola videla, keby prišla sama, aby
+sa mohli nenútene zhovárať. Faninka sama nemohla nikdy prísť, nedovolili
+jej a raz sa mamička vyslovila o Zuzke nepriaznivo. Nazvala ju malou
+jazyčnicou, ktorá sa stará do takých vecí, ktoré sa jej netýkajú a to je
+ani Faninke nie na osoh. Skutočne Zuzka vedela o všetkom, čo sa vo
+Zvolene a v okolí robí. K starej Mamojčíčke chodili známe i príbuzné
+ženy z okolitých dedín i z mesta a sama Mamojčíčka nadonášala zvestí
+dosť i pre celú kroniku.
+
+Mikulášova smrť Zuzku náramne predesila a dojala. Osobne ho ani
+nepoznala, ale ho úprimne oplakala. Len jeho pohreb videla, lebo ju
+matka musela vyniesť na také miesto, odkiaľ videla sprievod a opustenú
+rakev. Mnoho o tom premýšľala a nevedela pochopiť, ako je možné že úrady
+nestopovali vraha, prečo ho nenašli, prečo tak skoro „trávou zarástla"
+celá tá smutná história. V svojej samote dumala o tejto záhade. Niekomu
+záležalo, aby mladý študent zahynul. Ale kto to mohol byť? Bol azda z
+tých oficierov, čo tu bývajú, ale pre akú príčinu? Tunajší nebol, to je
+isté. A odkiaľ prišiel, čo tu hľadal, kde sa podel?
+
+V tú noc, keď sa tá strašná búrka prehnala, bola Zuzka znepokojená
+ohľadom Faninky, hnevala sa na matku, že mladú, drahú dušu nešla
+odprevadiť a potom nemohla zaspať. Matka od slivovice spala ako
+zarezaná, ba i chrápala. Zuzka sa na svojej postieľke nepokojne
+prehadzovala a počúvala, či z diaľky od námestia nepočuje aspoň hlásnika
+trúbiť. Ale nebolo počuť inšie ako dunenie hromov, hneď silnejšie, hneď
+slabšie. Chvíľami sa zdalo, že sa búrka utíši, ale elektriny už bolo
+toľko v ťažkých mrakoch, že sa blesky neprestajne križovali a rachotenie
+hromu otriasalo domami a budilo ozveny v úzkych vysokých múroch starých
+domov. Neskoro v noci, možno už išlo na jedenástu hodinu, počula, že do
+susedov, do Feketovcov popod bránu hrmotili vozy, naložené debnami a
+kuframi a počula i veliteľský hlas, jej dosiaľ neznámy, istotne to bol
+sám Fekete ako rozkazoval, kde čo majú zložiť, kde odniesť. Pritom
+počula, ako častejšie zahrešil, až zemi bolo ťažko a Zuzka sa
+prežehnala, lebo sa jej zdalo, že tento človek sa rúha Pánu Bohu.
+
+Ráno to rozprávala matke a ona sa šla presvedčiť k starej Mariši, čo
+doviezli a prečo prišli vozy tak neskoro. A Mariša, jediná dôverníčka
+panej, rozprávala, že medzi Budčou a mestom zlomila sa na voze oska a
+kým sa našiel iný voz, na ktorý prekladali veci, prišla búrka a preto
+vozy tak neskoro poprichodili. Pán vraj prišiel celý premoknutý,
+nahnevaný a z kepeňa mu potôčkom voda tiekla.
+
+Odkedy bol Fekete doma, verejnosť sa zaoberala všetkým, čo konal a
+podnikal. Vždy niečím prekvapil tiché, na pokoj navyknuté meštianstvo.
+Nebolo dňa, aby nebol odišiel z domu. Ráno si dal obyčajne osedlať
+čierneho koňa, menom Ali, vyšvihol sa do sedla a pekný koník vyletel zo
+dvora ako povestný tátoš a cválal alebo smerom k zámku, odtiaľ
+Neresnicou na Dobronivú a do Pliešoviec, alebo sa vybral na východ k
+Slatine a na Vígľašský zámok. Zavše zasa odišiel na koči a nevrátil sa
+len na druhý, tretí deň. A vtedy bolo počuť o hlučných zábavách v
+niektorom zemianskom dvorci, o lumpačkách, kde sa pri cigánskej hudbe,
+kartách a pri víne zabávali páni až do bieleho rána.
+
+Chodieval často i do Lučenca, kde častejšie býval Štefan Gyürky, s
+ktorým sa Fekete veľmi skoro spriatelil. Gyürky bol zaťom hlavného
+župana a mal na svojho tesťa veľký vplyv. Druhá dcéra, Karolína, bola
+vydatá za Štefana Ghéczyho, ktorého família mala dlhú pravotu s famíliou
+Radvanskovcov. Preto boli Radvanskovci v napätom pomere so všetkými
+týmito rodinami.
+
+Keď hlavný župan, Peter Balogh, vymenoval Feketeho za titulárneho sudcu
+Zvolenskej stolice, odôvodnil to dodatočne tým, že toto vymenovanie je
+platné až po reštauráciu, ktorá má byť v marci roku 1808. Vtedy Feketeho
+zvolia za riadneho notára, alebo sudcu.
+
+Na to poznamenala Veselovská s istým uspokojením:
+
+--- Tak, už sa začína jeho kariéra, aj, ja viem, že on to môže ešte
+ďaleko doviesť!
+
+Tejto dobrej, ale ako uvidíme krátkozrakej panej, imponovalo všetko, čo
+Fekete podujímal. Priazeň okolitých rodín, priateľstvo vyšších, ako
+napríklad Baloghova a vyvinutá nádhera vo vystupovaní jej akosi
+lichotila --- oslnila ju. Teraz už mal prístup do všetkých zemianskych
+rodín, priatelil sa i s Ostrolúckovcami, hlavne ale s očovským Holecom a
+s radvanským Bielikom. Oni mu boli slepo oddaní. V samom Zvolene
+spriatelil sa, najčastejšie pri víne a pri kartách, s vojenskými
+oficiermi; boli to kyrasíri. S nimi podnikal Fekete koňmo i vychádzky do
+okolia a u týchto ľudí vzbudil obdiv svojimi bravúrnymi kúskami na koni,
+v narábaní so zbraňou, či sečnou alebo strelnou.
+
+I medzi mešťanmi, hlavne ale medzi tými, ktorí alebo boli sami
+armalisti, alebo aspoň s rodinami zemianskymi v príbuznosti a mohli mať
+i nejaký vplyv, našiel priateľov, s niekoľkými si aj potykal. Vedel si
+získať každého, koho chcel, ale vedel ukázať i svoje opovrženie naproti
+tým, ktorých neuznal za hodných svojej priazne a kde si nesľuboval
+nijaký zisk.
+
+To všetko bolo Veselovskej po vôli a len zvýšilo jej nadšenie, ale, že
+začal chodiť i do Streženickovcov, ktorí bývali v susedstve, to ju
+znepokojovalo. Skôr vycítila, ako by sa bola dopočula, že pani
+Streženická hľadí na mladého človeka ako na dobrú partiu. Lebo aj u
+Streženickovcov mali dcéru, málo staršiu od Faninky. A Streženický bol
+tiež zámožný pán. Istý čas sa naozaj i v samom meste pretriasalo, či si
+Fekete nevezme peknú, veselú Aninku Streženickú.
+
+Takto začala už i Veselovská pozerať na Feketeho ako na „veľmi dobrú
+partiu".
+
+Veď Faninka je už súca na vydaj, mudrovala v duchu, čo je i zdanlivo
+ešte nedospelá, a akokoľvek sa vec vezme, ona sa raz vydať musí. Ako by
+rodičom, a najmä matke, bolo smutno, keby sa mala vydať ďaleko! Tu by
+ostala doma... a časom, tak dumala starostlivá matka, mohla by Faninka
+bývať v tomto milom, otcovskom dome...
+
+Nateraz dobrá pani o tom nehovorila, len ak zavše v narážkach. Nechcela
+predbehnúť udalosti, ani Faninku ešte väčšmi naplašiť, ako je dosiaľ,
+veď je taká plachá oproti mladým pánom, najmä oproti Feketemu, že je to
+až urážlivé a do očí bijúce.
+
+Františka sa úplne zotavila. Bola zasa pekná a zdravá, ba zdalo sa,
+akoby v poslednom čase bola narástla a hodne sa vyvinula.
+
+Teraz bývala málokedy sama. Mamička volala častejšie do domu dievčence,
+vekom i rodom jej rovné, alebo Faninku viedla do spoločnosti známych
+rodín, kde boli dievčence. I do Streženickovcov...
+
+Ale zato Faninka neprestala myslieť na Mikuláša. Táto jej tajnosť
+nadobúdala u nej čosi posvätné. Jej milý druh mladosti stal sa teraz
+predmetom akéhosi rojčivého kultu. Pritom s tichou blaženosťou
+sväto-sväte verila, že on ani písať nebude, len sa naraz zjaví, príde,
+hej, príde.
+
+Nevedela, netušila, že Mikuláš viac prísť nemôže. Domácim sa podarilo
+zatajiť jej to a v spoločnosti, kde chodila, Mikuláš bol tak málo známy,
+že sa na jeho tragickú smrť skoro zabudlo.
+
+Spytovať sa nechcela, aby sa neprezradila, ba myslela si, že by tým
+svoju čistú, vzdušnú náklonnosť len znesvätila. Odchod Mikulášov bol pre
+spoločnosť, kde sa Františka pohybovala, len udalosťou, ktorá hladinu
+každodenného života nadlho nezvíri, lebo Mikuláš Duchoň bol len
+meštianskym synom, nuž ho nepočítali medzi mladých pánov, z ktorých sa
+vyberajú ženísi pre dcérky zemianskych rodín.
+
+Čoskoro sa Veselovská mohla uspokojiť, Fekete už zjavne začal Františke
+dvoriť. Tento rutinovaný sveták vedel, ako najskôr prísť k cieľu,
+vynaložil všetku pozornosť, ba svoju výrečnosť, aby si mamičku naklonil.
+Veselovská podľahla čaru jeho osobnosti. Stalo sa to nielen prvý raz,
+ale žiaľbohu, i viac ráz, že si ju jeho lichotivé slová, jeho
+krasorečníctvo podmanili.
+
+Sprvu Faninke ani nevenoval toľko času a pozornosti --- a dievčatko bolo
+tomu rado. Ale pritom všetkom bola znepokojená, keď prichádzal čím
+ďalej, tým častejšie. Dlho sa správal k nej ako k malému dievčatku,
+ktorému sa prepáči i nejaký rozmar alebo i zjavný odpor. Ona sama si
+namyslela, že jeho rastúca pozornosť je akousi priazňou ujca alebo
+domáceho priateľa. Len keď sa stával jeho pohľad ohnivejší, jeho
+pozornosť výrečnejšia, pocítila odpor i strach. Tento posledný cit sa
+jej zmocňoval najmä vtedy, keď sa zbadala, že ho počúva, že ju čosi k
+nemu vábi a púta. Vedel on nájsť cestu i k srdiečku toho čistého
+dievčatka, vidno, mal už svoje skúsenosti. I s malými, neskoršie cennými
+darmi usiloval sa zavďačiť, priniesol nejaké drobnôstky, sprvu len ako
+na ukážku, ale pravidelne ich tam nechal, kde im na stolíku, alebo na
+kasni našiel miesto. Boli medzi nimi i drobné turecké, zlatom vyšívané
+papučky, „nanule" zvané, aké nosili mladušké odalisky v háremoch
+bohatých pašov.
+
+Jeho návštevy sa častejšie predlžovali. Priniesol si husle, ktoré si
+zadovážil kdesi v Taliansku. A hral s veľkou zručnosťou a náruživosťou
+skladby talianskych hudobníkov, i piesne nemecké a iné. A jeho husle,
+podobne ako jeho oči, očarúvali poslucháčov i nežné poslucháčky. Tóny,
+ktoré vyludzoval svojím sláčikom, vkrádali sa do srdca, najmä takého
+nestreženého, a pôsobili v ňom poplach a nepokoj.
+
+To pocítila nielen Františka, ale i nejedna z jej priateliek, keď boli
+na takej zábave. Boli také očarené, že by ich tento panský
+cigán-muzikant, bol mohol zaviesť kam chcel.
+
+V otcovskom dome ukázal sa Fekete hneď ako pán, ktorý rozkazuje a netrpí
+protirečenie. Matka bola, pravdaže, na syna hrdá a preto mu vo všetkom
+povolila. Povahou bola nezdieľna, nedôverčivá a šomravá. Často sa
+ponosovala na bolenie hlavy a na iné neduhy. Sama na návštevy nechodila,
+preto ani neprijímala hostí. Celé poschodie domu so starým, solídnym
+náradím, stálo neobývané.
+
+Teraz ju znepokojila zvesť, že jej syn chodí do Veselovskovcov.
+Uvedomila si, že musí prísť čas, keď sa Ľudovít ožení a ona, mať, musí
+svoj dom otvoriť mladej panej, a uspokojiť sa s podriadeným postavením v
+dome, v ktorom dosiaľ sama panovala.
+
+Jedného dňa prekvapil ju syn žiadosťou, ktorá sa rovnala rozkazu, aby sa
+zobrala aj s dcérami, že pôjdu do Veselovskovcov na návštevu.
+
+Protirečiť sa neopovážila a tak sa podrobila. V dome nastal poplach.
+Obidve dcéry, Klára a Terka, chodili, behali hore-dolu, schodami a
+izbami, otvárali kasne a truhly, zhľadávali hodvábne šaty, šály, čepce a
+rukavice. Ale šaty starodávneho strihu odpočinkom v kasniach utrpeli na
+zovňajšej úprave, hlavne ale nerástli, kdežto ich majiteľka pribrala
+rokmi na objeme, najmä do šírky.
+
+Na nové šaty nebolo možno myslieť, už i pre krátkosť času, preto sa šaty
+museli prispôsobiť objemu starej urodzenej panej a nakoniec to predsa
+len šlo. I panny Feketovské sa pristrojili do svojich najkrajších šiat,
+ktoré im síce dodali niečo sviežosti, ale krásu, ktorú im príroda
+odoprela, nahradiť nemohli. Klára bola ešte dosť driečna, ale mala
+nepekný, vyzývavý výraz. Ani povesť nemala najlepšiu. Terka bola špatná,
+mala odudlavenú tvár s výrazom tuposti.
+
+V ostatnej chvíli, keď už mali sadať do koča, vyniesol Fekete tri šály,
+ktoré boli vtedy veľmi obľúbené, ale také drahé a vzácne, že ich nosili
+len vo veľkopanských rodinách a pri panovníckych dvoroch. Najkrajší
+zavesil Ľudovít na plecia matke, ľahšie, menej cenné, hodil do náručia
+sestrám. Sám bol oblečený v gále.
+
+Takto vystrojená matka a dcéry posadali do parádneho koča a Fekete si
+sadol k nim.
+
+Do Veselovskovcov, ako už vieme, nebola ďaleká cesta, ale koč musel ísť
+dolu až k ústiu Môťovskej ulice a potom hradskou zasa hore.
+
+Veselovskovci boli prekvapení zriedkavou návštevou starej panej. Dávno
+sa neschádzali. Nebolo sympatií, ani priateľstva medzi týmito rodinami.
+Len ak zavše starší členovia oboch rodín pestovali spoločenské styky. A
+ako starý Fekete umrel, prestal sa i Veselovský zaujímať o túto rodinu.
+
+Návšteva, taká okázalá, urobila u Veselovskovcov očakávaný dojem. Týmto
+sa potvrdilo tušenie rodičov, že Fekete má vážne úmysly. Už ani
+Veselovský neodporoval myšlienke vydaju svojej jedináčky za človeka,
+ktorému donedávno ešte málo dôveroval.
+
+Fekete síce vedel krásne rozprávať, úchvatne líčiť krajiny a deje, ktoré
+zažil, ale to všetko nemohlo zaručiť charakter a zaplašiť otcovu
+nedôveru.
+
+Ale zasa mnoho bolo, čo hovorilo za tento sobáš. Najprv to, že im
+Faninka bude tu, takrečeno u susedov alebo i doma. Nestratia ju, len
+prejde z jednej strany mesta na druhú... A Veselovská sa už do toho
+celkom vžila.
+
+Iba Faninka sa zdráhala.
+
+--- Pomysli si, dcérka naša, --- hovorila pani Veselovská, ostaneš pri
+nás. Budeš veľkou paňou, bohatou a krásnou... všade, ako dosiaľ, ale
+ešte viac, budú ťa vítať i v najprednejších domoch. Ľudovít, ako vidíš,
+má skvelú budúcnosť, možno, pri reštaurácii stane sa nielen prefektom
+alebo slúžnym, ale azda aj vicišpánom...
+
+Veselovský, ktorý to počul, sa zamiešal a povedal:
+
+--- A to už nie, maminka. Asekuro, oboch vicišpánov máme súcich a tí sú
+pevní v sedle. Ľudovít nech sa uskromní so slúžnovským úradom so sídlom
+v našom meste alebo v Slatine; na začiatok je to pre neho dosť.
+Neskoršie, vederemo.
+
+Faninka smutne počúvala a potom povedala ticho, akoby sa bála, že ju
+niekto počuje:
+
+--- Ale, mamička, ja --- ja sa ho --- bojím.
+
+--- Pletky, dieťa moje, čoho sa máš báť? Veď máš príležitosť vidieť ho
+každý deň, aký je milý a nežný i k tebe, ktorá od neho bočíš. Iný by sa
+obrátil a nechal takú divošku, alebo by išiel inde, hľa, i do susedov.
+
+Faninka sa usmiala:
+
+--- Tomu by sa nikto tak netešil ako ja, --- povedala.
+
+Ale Fekete sa Faninkinho zdráhania nezľakol.
+
+Jedného dňa prišiel zasa v sviatočnom odeve a slávnostne Faninku
+vypýtal.
+
+Prišli s ním i jeho osobní priatelia, očovský Karol Holec a lučenský
+Štefan Gyürky. Hoci sa dievča nijako nemohlo rozhodnúť, pokladali títo
+urodzení páni vec za vybavenú. Ostáva len, aby si Fekete snúbenicu
+získal a dosiahol jej súhlas.
+
+Faninka žila ako ťažkým snom sputnaná. Bojovala sama so sebou. V srdci
+ešte vždy sídlila tá krásna prvá láska, ale ako slabý, neživený
+plamienok, len živorila, kto zná, kedy príde Mikuláš, či ju otec dá, či
+privolí na to?
+
+A bála sa zjaviť túto už-už slabnúcu lásku. Milý, za ktorým by šla kraj
+sveta, je ďaleko, ktovie, či ešte myslí na ňu --- --- a tu, pri nej
+druhý, šeptajúci jej ohnivé slová lásky, hľadí na ňu tým divným,
+predivným čarom hlbokých očú.
+
+Bola s ním samotná, iste to maminka naschvál tak nastrojila, aby boli
+sami --- a on, ktorého sa bála, bol blízko pri nej.
+
+Fekete držal jej útlu ruku vo svojej mäkkej, vlhkej dlani. Časom ju
+podniesol k ústam a ľúbal prštek za prštekom, všetky, i dlaň. A naklonil
+sa k slabému dievčatku, šeptal jej slová, ktoré nikdy nepočula a ktoré
+padali do jej nevinnej duše ako kvapky jedu, osladené náruživou láskou.
+A vyznával jej, že ju ľúbi, jedinú, že tak, ako ju, dosiaľ ešte nikoho
+nemiloval. Ľúbi ju od prvej chvíle, keď ju uvidel vtedy... vtedy...
+
+--- V Bystrici? --- opýtala sa naivne Františka, keď nedopovedal, kedy
+ju videl po prvý raz.
+
+--- Áno, v Bystrici, --- odpovedal s úsmevom, ktorý bol taký záhadný,
+ako celá jeho osobnosť.
+
+Čím ďalej jej hovoril, tým väčšmi sa poddávala. Konečne si ju pritiahol
+k sebe, aby ju, ako svoju mladuchu, pobozkal. A vtedy ona, akousi
+strašnou hrôzou preniknutá, vytrhla sa mu z rúk, ktoré vystrela proti
+nemu... ako na obranu. Čo to bolo? Pozrela na neho s otázkou v očiach, s
+bledou tvárou.
+
+To bol jej posledný odpor.
+
+Akoby ani nebol zbadal, Fekete ju teraz už skutočne pritiahol k sebe,
+bozkával kde mohol.
+
+A keď prišla Veselovská, predstavili sa ako skutočne šťastní verenci.
+
+Sám Veselovský sa už tiež uspokojil a hneď aj slávili zasnúbenie a
+rokovali o svadbe.
+
+*Spi už, ty milý, peknoduchý mládenec slovenský v tichom zvolenskom
+cintoríne. Už nemáš čo hľadať, čomu sa tešiť, po čom túžiť: tvoja
+jediná, prvá, krásna láska je pre teba i posledná, odpočívaj teda v
+pokoji!*
+
+S nemalým sebazaprením oddala sa stará Feketyčka úprave a oprave domu,
+aby mladá pani a veliteľka mohla vojsť do obnoveného. Matka si vymienila
+väčšiu izbu napravo od brány. Táto izba mala, ako predtým podobné izby,
+i alkovňu, menšiu izbu, kde sa spávalo. Odtiaľ sa vychodilo do malej
+predsiene a potom do kuchyne i na dvor.
+
+Priestranný dvor, ako i dobre zachované hospodárske miestnosti
+ukazovali, že Feketovci mali hodný majetok, a že niekedy boli tieto
+budovy plné statku a zbožia.
+
+Na uholnom kameni murovanej stodoly je ešte do skaly vykresaný nápis v
+rámci: D. JOANNE FEKETE D, REX ITE ILLI. Feketovci museli byť veľmi
+sebavedomí ľudia.
+
+Zľava od brány bola užšia, ale dlhá izba a v tej ostal bývať sám Fekete
+a bývala tam, sprvu dočasne, potom stále, i budúca pani. Tu mal Fekete
+svoje bohaté zbierky zbraní, povešané po stenách, i kasne krásnej práce,
+naplnené rozličnými cudzokrajovými --- drahými vecami. Po kasniach a
+konzoloch i hodiny, potom turecké maličkosti, kávové náčinie, čibuky a
+iné zriedkavosti. V jednom kúte bola veľká, zelená kachľová pec, pri nej
+kozub ešte zo starých čias. Tento kútik bol taký útulný, keď večer blčal
+v kozube oheň a zelená pec šírila príjemné teplo po peknej klenutej
+izbe.
+
+Izby na poschodí boli priestranné, ale studené a neobývané. Len v lete,
+alebo pri návštevách zriedkavých hostí, ich otvárali a vetrali. Hostia
+do Feketovcov nechodili a tak prvé poschodie ostalo zväčša neobývané.
+Stará pani nemilovala spoločnosť, jej najmilšou zábavou bolo počúvať
+zvesti, ktoré stará Mariša z mesta alebo z čeľadníka donášala.
+
+Fekete chcel mať svadbu začiatkom októbra. U Veselovskovcov však narazil
+na odpor. Sama Faninka sa zdesila, že by sa mala tak skoro stať Feketeho
+ženou. Chcelo sa jej ísť k Zuzke a zdôveriť sa jej, ale dlho nemohla.
+Raz predsa vystihla chvíľu, keď mamička odišla do Bystrice a slúžky mali
+veľké pranie.
+
+Zuzka sedela smutná a bledá pri svojej práci. Oči sa jej takrečeno v
+slzách kúpali, keď videla Františku vchádzať do izby. Zalomila rukami a
+zvolala:
+
+--- Tak je to predsa pravda, moja drahá, milá kišasonka, že sa oni
+vydajú za toho, --- za tohto, --- pána --- tu za pána Feketyho.
+
+Faninka smutne kývla hlavou a ticho povedala:
+
+--- Pravda je, Zuzka.
+
+--- Oj, joj, oj, joj, --- zabedovala Zuzka a skryla si tvár do dlaní.
+
+--- Jej, len sa nerob takou, --- okríkla ju mať. --- Čo radšej nečušíš,
+ako máš také veci tárať? Radšej sa poteš, že kišasonka budú bývať u
+susedov. Najlepšie, nestar sa do toho.
+
+--- Veď tak, veď tak, --- zaplakala Zuzka. --- A keby som túto drahú
+paničku nemala rada, tak by som povedala, dobre tak, ale že ich zo srdca
+milujem, tak mi je ľúto, že musím plakať.
+
+--- Eh, čože ich máš vopred oplakávať, páni sú páni, a medzi sebou sú
+inakší, ako proti nám sprostým, biednym poddaným, --- šomrala stará.
+
+--- Veď tak, veď tak, páni sa medzi sebou neškrtia, len to ma ešte
+uspokojuje, --- dotušila Zuzka s istou trpkosťou a utrela si oči. ---
+Oni škrtia, dusia len takých bedárov, ako sme my, čo nesmieme ani slova
+povedať.
+
+--- Preboha, Zuzka, kto škrtí, kto dusí, veď povedz! --- zvolala
+Františka.
+
+--- Či ho čušíš, ty potvora! --- kričí rozhnevaná mať. Či chceš, aby som
+prišla do temnice pre tvoj jazyk? Čo ťa to ohára?
+
+--- Veď mi len povedzte, čo sa zasa stalo? Prečo to nemám vedieť? Či
+zasa niečo, ako vtedy na Vígľašskom zámku?
+
+--- Nuž tak, tak, --- zahovorila stará, premáhajúc hnev a strach
+zároveň. --- Nech to neberú tak vážne, to len ona, --- mrkla na Zuzku
+hrozive, --- tak preháňa. Darmo je, to sa stáva a len to, čo je každému
+súdené, --- chlácholila Faninku a zagánila na Zuzku, ktorú ináče nežne
+milovala.
+
+Zuzka sa premohla a povedala vrúcne:
+
+--- Keby som im, drahá moja Faninka, mohla vykúpiť šťastie a požehnanie
+pre budúcnosť od milého Pána Boha, vďačne by som oferovala tento svoj
+biedny život. Veď inšieho ani nemám. --- Pri tých slovách jej povážlivo
+trhalo okolo úst: len, len sa rozplakať a slzy sa kotúľali dolu bledými
+líčkami na plátno, ktoré držala v ruke.
+
+Faninka tiež premáhala plač --- a vzdychla:
+
+--- Ach, Zuzka moja, ty si práve taká potrebná na svete ako ja. Teba Pán
+Boh stvoril sám. On zná na čo a vymeral ti cestu života, ako vymeral mne
+a my sa nemôžeme protiviť, musíme ísť, kde nás vedie jeho ruka.
+
+--- To vravím i ja, --- ohlásila sa chytro Mamojčíčka. --- Čo nám je
+súdené, bude nám i dané.
+
+Zuzka, aby mater zmierila a zahladila dojem, ktorý vyvolala u Faninky
+výbuchom svojho žiaľu, pokračovala:
+
+--- Lenže to nášmu ľudskému, krátkozrakému rozumu ťažko padne pochopiť.
+My by sme radšej išli cestou, ktorá sa nám vidí lepšia, ale ruka božia
+nás všade nájde. I naša domová pani by rada žiť, je mladá, pekná, má
+dobrého pána, ktorý ju úprimne miluje a predsa nemôže zastaviť život,
+ktorý sa tak chytro blíži ku koncu, neviem, či dožije nového roku.
+
+Zuzka pozrela na Faninku, ktorá s účasťou počúvala jej slová. Vedela, že
+pani Langička je ťažko chorá, preto jej Zuzka nič nového nepovedala.
+Zuzka vzdychla zhlboka, schytila Faninkinu rúčku a vrúcne ju hladkajúc i
+bozkávajúc, povedala:
+
+--- Pán Boh ich ochraňuj a všetci svätí od všetkého zlého a daj im
+zdravia, šťastia a hojného požehnania. --- To všetko vyslovila tak,
+akoby odriekala naučenú lekciu.
+
+Faninka zasa len znepokojená odišla. Už na pol ceste stretla sa so
+Zunkou, ktorá išla po Faninku, lebo už prišli hostia...
+
+Cestou sa Faninka spýtala:
+
+--- Povedz mi, Zunka, čo sa zasa stalo?
+
+Zunka udiveno pozrela na opytujúcu sa.
+
+--- Čo sa stalo, kde, ja neviem.
+
+--- Ty len nechceš povedať, zasa také niečo ako vtedy na Vígľaši ---
+ktosi niekoho škrtil, uškrtil.
+
+--- Azda zastrelil? --- povedala Zunka a pozrela na múrik pri starom
+cintoríne, ale hneď sa spamätala.
+
+--- Namojveru, neviem o tom.
+
+Ale už boli blízko domu a z obloka veľkej izby Faninku vyzerali Feketeho
+sestry a on sám. Feketovci prišli zasa na koči. Kto videl tučnú paniu
+sedieť na koči, usmial sa, lebo sedela tam ako kvočka na hniezde. Ľudia
+sa pozastavovali, že diaľka medzi oboma domami nie je taká veľká, ale
+starú paniu bolia nohy a má ich stále napuchnuté.
+
+Zunka povedala pravdu, keď sa božila, že nevie nič o škrtení. Onedlho
+ale zvedela i ona a všetci v čeľadníku. A o tom sa báli dievčatá i pred
+paňou hovoriť.
+
+Niekde za Vígľašom, ba ešte za pustatinou Pstrušov na malej lúčke pod
+horou hrabala mladá žena pozdnú otavu. Aspoň ju tam videli ľudia, ktorí
+prechádzali cestou. Krajom lúčky mala kolísku, aké sú v tom kraji v
+každom dome, na ktorej v previazanej plachte ležalo nemluvniatko. Pri
+kolíske sedel chlapček a kolísal. Tak ich videli ešte pred hodinou.
+
+Neskorší chodci i furmani, vracajúci sa s mládzou, už s ustrnutím
+zbadali, ako sa lúčka zmenila. Na jej kraji sedel chlapček, plakal, ba
+už plakať ani nevládal. V tráve sa malé nemluvňa tiež zachodilo od
+plaču. Ďalej, pod hôrkou, ležala mladá žena mŕtva. Oči mala široko
+roztvorené, výraz zdesenia a hrôzy sa zračil z nich a z celej už
+stuhnutej tvári. Malý chlapec plakal, ale ako videl ľudí, hneď sa utíšil
+a vždy ešte fikajúc, rozprával:
+
+--- Mamka hrabali a kládli seno na petrenec, potom plakal Ďurík a mamka
+prišli a vzali ho do ruky a dali mu papať a pekne sa s nami zhovárali. A
+potom prišiel pán na koni a koňa uviazal a skočil k nám, potom chytili
+mamku, Ďuríka odhodili a mamka kričali; ale pán ich začali štekliť a
+smiali sa, mamka sa smiala, ale aj kričali a prosili, aby ich nechal...
+a ja som sa bál a kričal som a skryl som sa do potôčka. Keď pán odišiel,
+tak som volal mamku, ale oni ma nepočuli. Ležali, ani sa nepohli, ani
+vtedy, keď som ich trhal za ruky a volal --- ani sa viac neprebudili.
+
+Ľudia, čo pracovali ďalej v poli, tiež videli jazdca na čiernom koni,
+ako uháňal, akoby ani človekom nebol, ale ten zlý z pekla. Niektoré
+ženičky, čo ho videli, prežehnávali sa, aby zahnali zlých duchov, ktorí
+ešte i teraz v ľudskej podobe chodia medzi úbohý ľud a roznášajú
+nešťastie a smrť.
+
+Toto bolo to, čo Zuzka chcela povedať Faninke, lebo si v svojej prostote
+myslela, že to povedať musí, ale mať jej v tom bránila. Zuzka mala svoje
+myšlienky, mala kedy nad nimi hútať, lebo jej mechanická práca v tom
+neprekážala. A pritom si zrovnávala a uprávala všetko, čo počula. V
+tomto poslednom desnom prípade vedela, vedeli i druhí, kto bol jazdec,
+ktorého „kôň bol taký čierny, ako jeho pán". A tento človek má dostať
+toto krásne dievča, ten nežný kvietok? Len to ešte aspoň čiastočne
+uspokojilo Zuzku, že sa páni medzi sebou nedusia, neškrtia. A tu prišla
+zasa i na tú dávno snovanú myšlienku, ako vlastne umrel Mikuláš? Kde sa
+tam vzala tá smrtonosná guľka, čia ruka, čia pištoľ ju vystrelila? Kto
+bol ten človek? A kde sa tam vzal? Veď ona dobre počula, ako do
+Feketovcov prišli vozy, ako pán klial kočišov, aké bohorúhavé reči
+hovoril, až sa triasla hrôzou a v modlitbe obrátila sa k Pánu Bohu, aby
+odvrátil všetko zlé od tohto domu, lebo sa bála, že boží blesk udrie do
+neho a spáli všetko spolu, ako to býva, zničí i nevinných, tých, ktorí
+bývajú tu napredku, tí dobrí, bohabojní páni Langovie. A ťažké
+podozrenie skrslo v Zuzkinej duši: Fekete --- vrah.
+
+Stará Mamojčíčka, chudobná na zemské veci, ale tým bohatšia na životné
+skúsenosti, napomínala svojho mrzáčika, aby preboha nič nepovedala, čo
+by mohlo pre nich byť nebezpečné. Páni sú páni, oni sa nedajú a čo nás
+do nich?
+
+Svadba u Veselovskovcov mala byť až v októbri, ale ešte koncom septembra
+prišiel Fekete, priniesol hotovú dišpenzáciu a žiadal, aby sa svadba
+oslávila v najkratšom čase. Všetci protestovali, ale on vedel vykonať
+svoj úmysel a namiesto veľkej, okázalej svadby, bola len menšia, pri
+menej hosťoch, ale pri panskej hostine. Faninka mala šaty už hotové,
+inšie, ako tvrdil mladý zať, nájde sa i potom.
+
+A tak bola Františka Veselovská oddaná v rímskokatolíckom chráme vo
+Zvolene slávnostne, ako sa patrí na dcéru takého váženého pána, ako bol
+Veselovský. Ľudu sa natislo do chrámu mnoho, väčšinou prišli zvedavci,
+ale boli i takí, ktorí mladej, krásnej neveste z úprimného srdca želali,
+aby bola šťastná. Medzi tými bola aj Zuzka. Ona musela, musela vidieť
+svoju drahú Fanušku a to zblízka, keď pôjde od sobáša. Mať ju musela
+odniesť, hoci Zuzka bola na jej slabé ruky ťažká.
+
+Zuzke tiekli slzy po tvári, keď videla drahú Faninku a --- jej muža.
+Dosiaľ ho takto do tvári nevidela, keď náhodou na ňu pozrel, i ona sa
+striasla. Bol krásny, aspoň tak si šepkali ženy, teraz mal tmavofialové
+šaty z hodvábneho zamatu, so zlatými gombičkami a utešenými šperkami.
+Mentieku s retiazkou, na ktorej sa v slnečnom svetle trblietali drahé
+kamienky. Keď kráčal kostolom, v ľavej ruke si niesol kalpak s perom a
+veľkou, hviezde podobnou ozdobou. Vedľa neho kráčala Faninka, bledá ani
+ľalia, teraz už nerozlučne spojená s mužom, ktorý bol jej srdcu dosť
+ďaleký, ďaleký. Kráčala, akoby vo sne, ako námesačnica. Mala na sebe
+nebové šaty, podľa vtedajšej módy bývali svadobné šaty bledých farieb;
+drahocenné perly ovinuté okolo hrdla, dar mladého zaťa, ktorý si žiadal,
+aby ich mala pri sobáši. Na hlave mala venček, závoje v takom rozmere,
+ako dnes, vtedy vo zvyku neboli, len na šatách bolo mnoho drahej čipky.
+Zuzka to všetko uspela vidieť, ale ona chcela vidieť toho, kto si
+odvedie túto čistú bytosť do svojho domu. Jej oči hľadali jeho tvár,
+chceli z nej vyčítať, čo je, aký je v duši. Či nie je jeho duša taká
+čierna, ako jeho vlasy alebo čierna brada? On tiež pozrel v tú stranu a
+ako sa jeho oči stretli so Zuzkinými, stiahol obočie, tvár sa mu
+zachmúrila. Pod jeho pohľadom sa obyčajne sklopilo každé oko. Zuzkine
+oči vydržali jeho nevraživý pohľad. Zatisol zuby, obrátil sa k svojej
+mladej žene a s najnežnejšou láskou prehovoril k nej niekoľko slov.
+
+I Zuzkina mať zbadala, že sa pán veľkomožný zaškaredil a ako mohla, tak
+chytro sa stratila v zástupe.
+
+Po svadobnej hostine vstúpili novomanželia do koča a krásne kone, už
+netrpezlivé, vybehli bránou, smerom k zámku.
+
+Mali ísť do rodného kraja, do Hontu, do Šiah a dočkať oberačky, pri
+ktorých sa páni tak dobre zabávajú. Ako Fekete Veselovskému tvrdil, mal
+tam ešte i rodinné, dedičné veci pokonávať. Preto sa tak náhlil...
+
+Odišli. Smutný ostal veľký dom Veselovskovcov. Plakala Veselovská i
+dievčence, i Zuzka. Veselovský chodil smutný a zamyslený po izbe, i jemu
+sa zdalo, že z jeho domu zmizlo slniečko, to zlaté, hrejivé, milované
+svetlo jeho očú.
+
+# Madlena
+
+Začiatkom marca roku 1807 otvárala sa už skorá jar. Snehy na sever sa
+vypínajúcich vrchov sa topili, stráne kopneli. Hron niesol svoje kalné
+vlny nadol k Pustému hradu a odtiaľ zatáčkou k Breznici a ďalej k
+Svätému Krížu. Posledné kruhy ľadu sa lámali na železom obitých
+mníchoch, ktoré povyše hronského mosta stoja vo vode a chránia most od
+nárazov ľadových balvanov. Vlny šplechotali o breh, kde bol nižší.
+Naľavo od cesty i naľavo od Hrona, stáli vtedy ešte menšie domy, i
+záhradky a pred nimi neveľký, trošku vyvýšený priestor. Tento priestor
+bol od dávnych časov miestom --- popravným.
+
+Toho dňa, začiatkom marca zasvietilo slniečko tak milo a teplo, že
+budilo v dušiach ľudí, najmä tých usilovných, novú chuť do roboty,
+radosť zo života. Kade zasvietilo, všetko ožívalo, jasalo a úfalo sa
+novým radostiam, novému životu.
+
+„Za múrom", tam, kde sú mestské múry obrátené k Pustému hradu, opiera sa
+slniečko takou silou, že tam najskorej vypučí trávička, zazelená sa
+každá byľka a rozvíja sa množstvo voňavých fialiek. Nevedno ani, odkiaľ
+sem prišli, kto ich sadil, isté je, že boli tu vždy tak zavčasu a vo
+veľkom množstve. Keď rozkvitli, belaseli sa celé plochy a svojou sladkou
+vôňou nasycovali vždy čerstvý vzduch.
+
+Onoho krásneho rána šiel cestou od Neresnice popod zámok, potom bránou
+dnu do mesta čudný húfik ľudí. Ako šiel cestou, pribúdalo mu na počte.
+Veru, veru, bol to smutný sprievod, skôr sa rovnal pohrebu ako
+čomukoľvek inému.
+
+Medzi surovými drábmi, vedená akousi babou, vliekla sa dievka, viac
+mŕtva ako živá. Tvár jej bola osinená ako tvár mŕtvoly. Oči vpadnuté,
+sklopené, zastrené peknými mihalnicami. Vlasy, pôvodne krásne, rusé,
+viseli jej neporiadne do čela a po sluchách, kde nesiahla nedbalo
+uviazaná šatka. Na tej, teraz zmučenej, strhanej tvári vidno stopy
+neobyčajnej krásy, ťahy tváre ešte nestratili pôvodný peľ mladosti, len
+veľké utrpenie, bolesť a žalosť ich skrivila, zohavila.
+
+Za ňou šiel sedliak, človek nie veľkej postavy, nie ešte starý, ale
+akoby podlomený. Jeho postava očividne klesala; potkýnal sa a tackal ako
+podnapitý. Ruky mal zopäté, hneď nimi v bolesti zalamoval, hneď ich
+spustil dolu. Tvár upieral raz na pred ním kráčajúcu dievku, raz do
+zeme, ktorú nevidel. Bol to otec zúboženej dievky, Ondrej Skubík,
+obyvateľ bacúrovský.
+
+Za ním šlo niekoľko žien a chlapov. Bola sobota a bol i trh. Ľudia,
+prichádzajúci z dedín pripojili sa k tomuto smutnému sprievodu,
+zastavili sa, aby ukojili svoju zvedavosť. Niektorí poľutovali, iní, a
+tých bolo viac, nemilosrdne odsúdili mladú hriešnicu.
+
+Veru, veru, tento sprievod by sa bol skôr podobal pohrebnému sprievodu,
+lenže tu viedli živú, odsúdenú na smrť. A v tomto sprievode nebolo ani
+posvätnej tichosti. Zo zástupu, ktorý príchodom do mesta rástol, ozývali
+sa zlovestné hlasy:
+
+--- Hľa, krásna Madlena! Bola hrdá, našich mládencov nemala za nič, nuž,
+hľa, kde ju jej pýcha doviedla?!
+
+Zo zvedavcov, čo sa novšie pripojili, opýtal sa ktosi:
+
+--- Čo spáchala tá biedna stvora?
+
+--- Nuž čo, zadrhla si dieťa, veru, nešťastnica, len čo hanbu doniesla
+na otca, ba i na celú našu dedinu! --- kričala zlostná baba.
+
+--- Slamený veniec jej na hlavu, --- škrečala iná, a zasmiala sa
+zlostne. Bohužiaľ, i tu sa dokázalo, že nad padlou ženou najkrutejšie
+súdia samé ženy.
+
+--- A smolou jej zaliať tie vlasy, čo ich tak pyšne nosila vo vrkoči
+stuhľami okrášlenom!
+
+--- Taká nestatočnica, hanba, fuj!
+
+Pri každom takom zlostnom výkriku zachvel sa nešťastný otec, akoby to
+slovo bolo úderom, namiereným na jeho biednu hlavu. Zakaždým sa strhol,
+akoby mal klesnúť smrteľne ranený na zem. Sama dievka bola apatická,
+akoby ani nepočula. Len ťažko dýchala a nevládne, mechanicky vliekla
+nohy za sebou.
+
+Keď prichodili na cestu vedúcu od Môťovej, ozval sa dupot koňa. Ľud ho
+sprvu nepočul, len keď kôň bol už tak blízko, že ho museli násilne
+držať, aby nevletel medzi ľudí, obzreli sa a ustrnutí odskočili nabok.
+Na koni sedel pán v jazdeckom obleku, zahalený do kepeňa s niekoľkými
+goliermi. Kepeň splýval ešte i na chrbát koňa a kôň fŕkal, trhal hlavou
+a prednými kopytami snažil sa ihravo pustiť do ľudí.
+
+Jazdec bol Fekete. Mrzký výraz zohyzdil jeho bielu, teraz nadutú tvár.
+Obrvy sa hrozivo stiahli, nad nosom sa zjavila zlovestná vráska. Oči
+sršali planým ohňom. Bol zlej vôle, lebo prehajdákal noc v divej
+lumpačke medzi úradníkmi Eszterházyovského panstva. Hral v karty a teraz
+ho jeho povestné šťastie opustilo.
+
+Ľud sa odstúpil, i drábi stáli so svojou zajatou stranou. Ako sa kôň a
+jazdec zjavili, dievka Madlena obrátila tvár k jazdcovi. A pozrela na
+neho smutnými očami. A z tých očú sa chvela ako prosba o zmilovanie, ale
+záblesk úpenlivej prosby skoro zhasol, tvár sa zasa sklonila k zemi a na
+nej znova sa rozhostil výraz zúfalej rezignácie. Smrteľná bledosť
+prechodila do sinavosti a nešťastnica by bola klesla, keby ju neboli
+zadržali silné ramená ženy a drábov.
+
+Fekete vrhol opovržlivý pohľad na úbohú hriešnicu a na celý zástup,
+švihol bičíkom a povedal:
+
+--- Bagáž! Avanti, Ali!
+
+Kôň len to čakal, skočil a v chvíli precválal priestor, vedúci k
+evanjelickému kostolu a odtiaľ radom domov.
+
+Tým smerom uberal sa i zástup až k mestskému domu. Tam drábi oddali
+biednu Madlenu vrchnosti, ktorá rozkázala žalárnikovi, aby ju odviedli
+do temnice.
+
+Až po železné dvere žalára vo dvore rozsiahleho radného domu, odprevadil
+otec svoju dcéru. Ďalej ho nepustili, šla s ňou len žena, babka, ktorá
+ju sprevádzala, aby jej aspoň koľko-toľko poslúžila, v chorobe ju
+opatrila.
+
+Strápený otec ostal sám na priestrannom dvore. Váhavým krokom prešiel
+pod bránu, zastal a rozmýšľal. Tak rád by bol s dcérou zdieľal i tú
+studenú tmavú komoru, ako zdieľal s ňou všetky biedy a starosti dosiaľ,
+ale i tie nemnohé radosti, ktoré má chudobný človek, keď miluje a ho
+úprimne milujú. Ale za drahou dcérou zatvorili sa ťažké dvere väzenia,
+zarmútený otec ostal sám a sám.
+
+Zimou sa triasol, i hladný bol, lebo v tak veľkom trápení, kto by myslel
+na jedenie? Vyšiel bránou. Pred radným domom stála lavička a na nej
+sedeli a vyhrievali sa v rannom slnečnom teple niekoľkí radní páni. Bola
+to ich každodenná obyčaj, keď to dovolilo počasie.
+
+Ondrej Skubík pozdravil ponížene pánov a vliekol sa ďalej. Páni
+ďakovali, nevšímali si viac biedneho sedliaka, ale pretriasali udalosti
+minulého večera...
+
+Ľudia prechodili v náhlivosti popred domy, kde teraz znova začali
+obrábať záhradky. Tieto záhradky boli zvláštne špeciality starého
+Zvolena. Zavčas na jar ich obrábali, pokopali a do nich si domáce panie
+nasiali semená zelenín a kvetov. V jeseni všetko odstránili a úrodná zem
+lepila sa na obuv prechádzajúcich až kým nezamrzla.
+
+Ondrej prechodí pomedzi pracujúcich i do poľa sa poberajúcich ľudí.
+Nevidí temer nikoho. Slniečko tak milo svieti, kde siahajú jeho lúče už
+je teplo, ale biednemu otcovi je zima, je tma, lebo to, čo ho hrialo,
+uniká mu do neznámej, strašnej diaľavy. Vidí sa mu, že všetko, čo je
+okolo neho, sa mu vysmieva, ukazuje mu jeho biedu, že pod slncom, pod
+nebom nieto takého zármutku, akým je jeho žiaľ. Ktože by bol na to
+pomyslel, že jeho krásna Madlena, jeho milé dieťa, príde na tento
+posmech a hanbu!
+
+Váhavým krokom prešiel Ondrej na druhú stranu námestia. Pozeral na domy,
+akoby sa bol chcel dobre rozhľadieť, kde je to, kde býva ten dobrý pán,
+čo sa už mnoho ráz zastal chudoby. I Dobronivcov sa on zastával pred
+panstvom, keď lakomí Eszterházyovci chceli odoberať hory, pastviny a
+role statočným občanom dobronivským. Ej, on dobre pozná pána
+Veselovského a pán Veselovský jeho. Veď mu neraz vozil i pílil drevo, i
+v inších prácach poslúžil, a pán Veselovský sa pritom i pozhovárali ako
+--- nerečeno --- so sebe rovným.
+
+Vošiel do brány. Ťažké dvere sa vzpierali jeho zoslabeným rukám, akoby
+mu i tu prekážka hatila cestu.
+
+Premohol svoju ostýchavosť, zaklopal na dvere a vošiel.
+
+Veselovský sedel pri veľkom stole, ktorý bol pokrytý písmami a papiermi.
+Bol akýsi vážny, čelo zachmúrené.
+
+Pri obloku bol menší stolík a pri tom písal ešte mladý pisár ---
+jurasor.
+
+Veselovský pozrel na prichádzajúceho a na jeho ponížený pozdrav povedal
+dosť priateľsky:
+
+--- Vítaj, Ondrej, čo si nám doniesol?
+
+Oslovený týmto privítaním posmelený začal:
+
+--- Nuž, ich milosť, pán veľkomožný, prišiel som prosiť o radu a o pomoc
+v mojom veľkom súžení.
+
+--- Čože sa ti stalo, Ondrej, či si vyhorel, --- a či čo?
+
+--- Ach, čo by len to, ich milosť, vďačne, oj vďačne by som to prijal od
+Pána Boha, ale to, čo ma postihlo, je tisíc ráz horšie, moja dievka, ---
+prestal, pozrel bokom na pisára.
+
+--- Čože je s ňou, hovor, pred týmto mladým pánom môžeš hovoriť, on už
+tiež všakové veci počul i zažil, tak, čo je?
+
+Mladý človek, dotknutý jeho poznámkou, sa začervenal.
+
+--- Nuž, ich milosť, ani neviem, ako to mám povedať, lebo som toho času
+nemal na to ani pomyslenia, joj, ona, moja Madlena, ja neviem ako s kým,
+prišla do pádu --- a ja som nič na nej nezbadal, len predvčerom našli ju
+ženy v stodole, omdletú, polomŕtvu a pri nej mŕtve dievčatko, že vraj
+zadrhnuté. A ja som o ničom nevedel, tak, ako je Boh na nebi, neviem ani
+teraz, ani kto, len čo ženy vravia, že dieťatko bolo drobulinké, akoby
+ani nie na ľudský parsún --- a že ani na čase nebolo.
+
+--- Hja, Ondro, to je zle. Na čase alebo nie, to je vražda. Ono už žilo
+a tak malo právo na život. Vieš aký je na to trest? --- opýtal sa
+Veselovský prísne.
+
+--- Viem, ach, viem, pán veľkomožný, ja nešťastný človek, ale ja viem,
+že býva aj pardon. A čo by ju i na viac rokov odsúdili do temnice, len
+aby som vedel, že mi žije, že mi ju kat nesprevadil zo sveta. Moje
+dieťa, moje nešťastné dieťa! --- zahorekoval Ondrej.
+
+--- Hm, asekuro amice, neviem, či jej je možná pomoc. Musíš vedieť, že
+dnes je štatárium, náhly súd, také prečiny trescú chytro, bez procesu a
+nieto ani času na obranu, --- hovoril Veselovský, sám znepokojený.
+
+--- Viem, ich milosť, ale viem, že môže prísť aj pardon. Milosť, milosť
+pán veľkomožný! Prosím ponížene, nech sa jej zastanú, nech jej vykonajú
+pardon, všetko, čo mám, položím, len aby som drahú hlavičku nevidel
+zrazenú katom. Pán veľkomožný!
+
+Ondrej sa zohol v kolenách, zopäl ruky a prosil ďalej:
+
+--- Keby ich milosť vedela, aké to bolo dieťa, --- jediná moja potecha,
+krásna, milá, samý spev a smiech. Mal som len tú jednu, mať jej umrela,
+z nej som sa tešil, pre ňu som robotoval, pre ňu odkladal a pre ňu, pre
+tú drahú hlávku, dám všetko, čo mám!
+
+Za reči vytiahol z kabanice šatôčku, hodný uzlík strieborných peňazí.
+
+Veselovský už skôr vstal od stola a chodil nepokojný po izbe ako vždy,
+keď ho niečo trápilo, alebo dojalo. Ondrejove slová dotkli sa istej
+struny jeho srdca. I on má dcéru, aj on miluje svoje dieťa. Čudno, že i
+taký prostý človek vie tak milovať ako otec z panského rodu? Či je i on
+schopný tejto veľkej svätej rodičovskej lásky?
+
+Ondrej rozviazal uzlík. V šatôčke leskli sa veľké „tvrdé" toliare i
+mariáše, dvadsiatniky a jeden dukát.
+
+--- Toto, pán veľkomožný, som od rokov krvácne zarobil, nastískal,
+odkladal, len aby som mal pre ňu, že ak sa vydá a my budeme spolu
+nažívať v bázni a láske božej. A hľa, stalo sa, čoho som sa ani vo sne
+nenazdal.
+
+Veselovský, vidiac peniaze, vstal, rozmýšľal. Sám pokladal Madleninu vec
+za stratenú. Veď pri stave súdnych sporov, najmä kde išlo o prečin
+človeka poddaného, nebolo milosti a pardonu, o tom nemohlo byť reči. Je
+štatárium... niet kedy poslať kuriéra do Budína k palatínovi ako pri
+iných pravotách. A veď by jej, nešťastnici, rád pomohol, azda by sa dalo
+--- ---
+
+Zasa prešiel niekoľko ráz po izbe. Pozrel na peniaze, ktoré Ondrej
+vyložil na stôl. Veselovský vedel, že je to slušná sumička v tomto čase.
+Striebro bolo vzácne, schovávali ho a ešte zlato! Medzi ľudom kolovali
+najviac medené peniaze a bezcenné bankovky. Veselovský mal záľubu v
+týchto krásnych, lesklých peniazoch. Ukladal si ich do peknej truhličky,
+umele zhotovenej, ťažkej, z dubového dreva a s pevným zámčekom. Toto
+bola jeho slabosť, okrem toho mal rád dobré, vyberané pokrmy... a ohnivé
+vína.
+
+Zastal pred Ondrejom.
+
+--- No, počkaj, Ondrej, budem o veci premýšľať. Vieš, rád pomôžem, kde
+sa dá. Pokúsim sa, ale netajím, že to pôjde ťažko. Isté je, budeme
+musieť písať aj samému palatínovi do Budína, a na to treba času --- ---
+a...
+
+--- Groše, --- doložil Ondrej nato a záblesk nádeje svitol v jeho
+očiach. --- Toto, prosím ponížene, nech tu ostane a čo ešte mám, všetko
+donesiem. Mám domček, mám i kravičku a kus poľa, čo o všetko prídem, len
+nech mi ona žije, moja Madlena, moje potešenie.
+
+Veselovský nervózne odkašlával, nepokojne prechádzal po malom priestore
+izby.
+
+--- Asekuro, amice, daj už pokoj. I ja som otec, viem, čo je otcovská
+láska, preto by som ti rád pomohol, maj strpenie, čo bude možné, urobím.
+Choď svojou cestou, spánombohom, a príď o niekoľko dní, potom ti poviem,
+čo sme vykonali.
+
+Ondreja potešili Veselovského slová, začal znova ožívať, a aby čím skôr
+mohol potešiť i tú biednicu v žalári, ponáhľal sa von.
+
+V bráne sa stretol s mladou, krásnou, ale bleduškou paňou. Ustúpil,
+zastal a díval sa za ňou dlhým, skúmavým pohľadom. Aj ona zastala a
+pozrela prívetive na sedliaka, čudujúc sa zároveň, prečo sa tak uprene
+za ňou díva.
+
+Ondrej sa poklonil a Faninka, lebo to bola ona, vošla do veľkej izby.
+
+Celým domom čosi voňalo tak podivne, ako vôňa celej lúky a pri tom i
+niečoho praženého. Ondrej si neuvedomil, čo to môže byť, ale mimovoľne
+to vdychoval; potom sa vzchopil a vychádzajúc bránou, šepkal si: „Jeho
+dcéra, ako moja Madlena, nie ako je teraz, aj veď nebola vždy taká,
+nebola. A túto tiež čosi trápi."
+
+Faninka našla mamičku v kuchyni pri veľkej práci, zavárala jarné, voňavé
+fialky do cukru a do medu a niekoľko zväzočkov i vypražila v čerstvej
+masti, to sú lahôdky, ktoré milujú otec i dcéra a ktorými ich chce
+začerstva počastovať.
+
+Fekete prišiel domov nanajvýš rozmrzený. V izbe pri pani matke čakali ho
+raňajky. Pýtal si hodne tuhej čiernej kávy. Vypil ju bez slova a odišiel
+do izby naľavo, kde Faninka upratúvala svoje veci a sotva ju pozdravil,
+zhodil len vrchné šaty zo seba a vrhol sa na posteľ. O chvíľu zaspal a
+chrápal. Šiel od neho zápach nápoja a tabaku, Faninka pozrela smutne na
+neho, striasla sa a odvrátila hlavu. Stiahla záclony na oblokoch, vzala
+na seba šatku a tíško opustila izbu. Vedela, že teraz bude spať do
+poludnia, ale beda, ak by ju, prebudiac sa, nenašiel v izbe. Odišla k
+matke, veď to bola jej najmilšia vychádzka.
+
+Keď sa Feketovci, to jest on a Faninka, vrátili zo svadobnej cesty,
+každý zbadal, že sa mladá pani veľmi premenila. Bola i bledá, ale väčšmi
+zádumčivá a vážna. Premáhala sa, a najmä v spoločnosti svojho muža stala
+sa i veselou a zhovorčivou, akoby to išlo na rozkaz. Ale matka vycítila,
+že Faninka nie je šťastná a niečo ju pichalo do srdca. Akoby si
+pripamätala, že i ona je príčina. Ale mladá žena sa neponosovala,
+naopak, na priamy dotaz matkin povedala, že jej je veľmi dobre, že má
+všetko, čo treba, muž je pozorný, dobrý, síce trošku žiarli, ale pritom
+všetkom, sa ho zavše --- bojí.
+
+Toto povedala matke šeptom, akoby sa bála, že ju niekto počuje.
+
+Keď s rodičmi sedela pri stole vo veľkej izbe a matka doniesla zákusky,
+aké mala rada aj Faninka aj otec, mladá žena sa opýtala, čo chcel ten
+úbohý sedliak, ktorého stretla v bráne. Videl sa jej taký utrápený a
+hľadel na ňu tak čudne, akoby sa mu na niekoho podobala.
+
+Veselovský sa teraz dcére zdôveril, ale povedal jej len najpotrebnejšie:
+
+--- Je to smutná história a neviem, neviem, či sa jej dá pomôcť.
+
+--- Ach, tatuško môj drahý, nech pomôžu, prosím, prosím... --- modlikala
+dobrá Faninka.
+
+--- Veď by som ja rád pomohol, ale je to ťažká vec, práve teraz; nálada
+medzi pánmi bratmi, najmä medzi sudcami, je ľudu nepriaznivá. Boja sa ho
+a chcú ho držať na uzde, --- hovoril a potom sa opytoval, čo robí
+Ľudovít.
+
+--- Nie som s ním spokojný, --- pokračoval, --- nesplnil naše
+očakávania, nenapravil sa, ba, práve ukazuje mrzké ťahy charakteru.
+
+Faninka sklonila hlávku a vzdychla. Potom sa zobrala domov. Ale idúc
+popred dom, kde bývala Zuzka, neodolala pokušeniu, aby nevkročila k nej.
+Túto zimu bola pri Zuzke častejšie, ale, tak sa jej zdalo, že je Zuzka
+premenená. Mať sa ponosovala, že sa Zuzka „pochabí" za tancom, že ju
+musela niekoľko ráz odniesť na „tanec", kde ona síce len sedela,
+prizerala sa, rukami tlieskala i rozhadzovala, ako muzika hrala a pritom
+si spievala, len sa tak ozývalo.
+
+Teraz Zuzka bola vážna, veď bol svätý pôst a už ani nebola taká
+zdržanlivá, aby nepovedala, čo ju rozčuľuje.
+
+Faninka sa spýtala:
+
+--- A čo myslíš, Zuzka, odsúdia ju?
+
+--- Sám Pán Boh vie, ale ak áno, iste ju zotnú.
+
+Faninka vykríkla:
+
+--- Smrť! To je hrozné, taká mladá --- a smrť katovou rukou!...
+
+--- Veru áno, to je strašné. Ale zákon je zákon --- i to len pre
+mizerného sedliaka: oko za oko, zub za zub, smrť za smrť. Ej, veď keby
+biedna Madlena bola zo zemianskeho rodu, veru by sa jej nič nestalo. Ako
+vlani, keď súdili tú kišasonku z Radvane, tú súdili ako načim. A že bola
+pekná a že bola z rodu, tak jej dali pardon. Starí páni, čo súdili,
+každý povedal: ja som za to, aby umrela, a čo boli mladí, tí povedali,
+že by jej bola škoda, aby jej dali milosť. Nuž a mladých bolo viac, tak
+jej nič neurobili.
+
+Pravdu mala táto prostá dievčina. V ten čas súdili siedmi a jeden z tých
+sudcov, starší už pán, zásadne hlasoval za smrť. U neho neplatila nijaká
+poľahčujúca okolnosť.
+
+I v zápiskoch maďarského spisovateľa sa nájde anekdota o sudcovi, ktorý
+pri zasadnutí driemal a nepočul, o čom sa rokuje, ale ako sa zobudil,
+zavolal: „Ego sum pro morte!"
+
+Veselovský chcel pomôcť nešťastnému otcovi. Rozumel jeho nesmiernemu
+žiaľu, ale vžiť sa do toho nemohol. Kdežeby, on, člen spoločnosti,
+vyvýšený nad pospolitý, poddaný, nevedomý ľud! Jemu sa nič podobného
+nemôže stať, jeho dcére nehrozí nijaké nebezpečenstvo, je zaopatrená,
+chránená pred podobným nešťastím.
+
+A predsa sa ťažko chytal do toho. Dobrá vôľa bola, ale po uplynutí
+niekoľkých hodín sa účinok Ondrejových slov začal tratiť. Chytil sa
+písať peknú ochrannú listinu. Veď on cíti, že i v našej stolici sú
+ľudia, najmä medzi mladšími, otvorené hlavy, prístupné pokrokovému
+zmýšľaniu, že i tu už cítiť vánok demokratických myšlienok a tak si
+myslí, pomocou týchto a svojím vlastným, tak často osvedčeným vplyvom,
+svojím mužným vystúpením nakloní sudcov ľudsky zmýšľať a ľudsky súdiť.
+
+Že by do Budína mal písať, kuriéra vystrojiť, to pokladal za nepotrebný
+krok. Sám žalobca, Andrej Bendík je jeho osobným priateľom, hoci ako
+verejný fiškus, musí svoju povinnosť konať, hlavné je, aby vtedy, ak by
+hlasovanie vyznelo na prospech obžalovanej, neapeloval.
+
+--- Dobre bude, --- myslel si Veselovský, --- najprv sudcov informovať.
+Nešťastná dievka Madlena, ako obyvateľka dediny Bacúrova, patrila pod
+právomoc Zvolena. Mali ju súdiť zvolenskí sudcovia, toho práva sa
+magistrát dobrovoľne vzdal len v zriedkavých prípadoch, ako bol ten,
+ktorý prišiel už v budúcom roku.
+
+Predsedom zvolenského súdu bol nateraz Alexander Wachet. Medzi
+prísediacimi bol i Streženský, Palugyai a Strakonický, všetci už starší
+páni.
+
+Ale pri súdení ťažkých prípadov bývali privolaní i sudcovia zvolení
+stolicou pre súd „nižších tried" a medzi týmito boli páni Ján Nándory,
+L. Zolnay, očovský L. Holec, Jankovich, Rakšáni --- a ako titulárny,
+nedávno županom vymenovaný, Ľ. Fekete.
+
+Veselovský nevedel ani sám, ktorí z týchto budú tvoriť súd siedmich
+pánov, preto si umienil ponavštevovať nielen tunajších, ako napríklad
+suseda Streženického, ale aj na okolí bývajúcich. Z týchto pánov
+navštívil najsamprv Jána Nándoryho, statkára a stoličného
+exaktora,\[[38](../Local%20Settings/AppData/Local/Temp/vansova-terezia_kliatba_txt.html#ftn.id2582988)\]
+bývajúceho v Sásy. Tento pán bol človek dobrého srdca, ale náramne
+prchký. Ináče statočný človek a pohostinský pán a rozumný, svedomitý
+úradník.
+
+Cesta do Sásy v marci vždy bola a i teraz je vždy nebezpečná. Jarné vody
+elementárnou silou púšťajú sa strmými stranami do doliny Neresnica, už i
+meno nelákavé, ktorá je zaplavená dravým prúdom. Krížom cesty tečie voda
+ako dravá rieka, strháva mosty, vytrháva diery a podoberá vozy, ktoré sa
+chcú dostať na druhý, bezpečnejší breh. Furmani podujímajú túto cestu
+len vtedy, keď majú mocné kone a vo vlastných rukách tiež silu a ---
+zdravý rozum, obyčajne volia túto cestu len vtedy, keď ich je viac
+pospolu.
+
+Takúto nebezpečnú cestu podujal Veselovský a nemálo si na tom zakladal.
+I jeho známi sa pozastavili, že životom váži pre jednu sedliacku dievku!
+
+A keď vykonal podobnú cestu i do Očovej k Holecovi a do Zolnej k
+Zolnayovi, uspokojil svoje svedomie, že viac nemohol, na tento čas,
+vykonať. Že sa všade dobre zabavil, že všade bol vítaný a pohostený, ako
+sa patrí, je zrejmé. I pánov bratov si naklonil natoľko, že mu sľúbili
+hlasovať podľa vedomia a „ľudskosti".
+
+Dni sa míňali, jar kráčala pomaly, ale mnohosľubne. Južný vietor vysúšal
+chodníky, i bezodné cesty, stráne a polia a nielen obyvatelia dedín, ale
+i zvolenskí mešťania, ktorí popri svojich remeslách mali i hospodárstvo,
+pomýšľali na jarné práce, opravovali pluhy a brány, aby mohli orať a
+siať.
+
+Len jeden už na to nemyslel, lebo už nemal ani čo orať, ani čo siať. Ale
+ani na to nepomyslel. Ondrej Skubík predal všetko, čo mal, a odniesol do
+Zvolena utŕžené peniaze.
+
+Myslel, treba na trovy, treba písať na inštancie, pred pánov, pred
+palatína, ba azda i pred samého cisára pána. Treba poslovi do Budína, aj
+iné výdavky sa vyskytnú, čože on vie, čo všetko na to treba, len to vie,
+že je pán cisár ďaleko a že je ťažká vec, dostať sa k nemu v týchto
+nepokojných časoch. A zadarmo ani sliepka nehrabe, nieto ešte, aby
+človek zadarmo sa ustával.
+
+Nedbal už Ondrej, že prišiel temer o všetko. Už nemá inšie, len domček
+kraj dediny, do ktorého celý deň svieti slniečko. A v tom svetle i teple
+bol taký útulný, kým dievča v ňom bývalo.
+
+Čo ho je po všetkom, preživí sa, len keď bude mať svoju predrahú dcérku,
+čo i hriechom pošpinenú, len nech mu žije, žije!
+
+Veselovský, keď Ondrej prišiel a doniesol peniaze, nemohol odolať,
+prijal ich. Sám seba ospravedlňoval, že ešte nevie, aké bude mať výdavky
+a tak utíšil hlas svedomia. Rád dobre žil a to povedomie, že má svoj
+istý kapitálik uložený v zlate a striebre na bezpečnom mieste, ho veľmi
+blažil. Beztak sa ten kapitálik Faninkiným vydajom povážlivo stenčil a i
+zať potrebuje viac, akoby sa kto nazdal.
+
+Ondrej prišiel o niekoľko dní zasa. Teraz veľmi nastráchaný, rozžialený
+a znova úpenlivo prosil:
+
+--- Pán veľkomožný, ich milosť, nech robia niečo na zachránenie
+dievčaťa! Nech pomáhajú, lebo ak mi ju zabijú, ja neviem, neviem, čo
+zrobím --- a čo sa so mnou stane?!
+
+Stisol kŕčovite ruky, v očiach mu zasvietila veľká zúfalosť, odhodlaná
+spáchať i zločin --- ---
+
+--- Eh, Ondrej, neopúšťaj sa. Asekuro, amice, oni ti ju neodsúdia. Sám
+som bol pri tých pánoch a to s odvážením vlastného života. Nie, ani nie
+sú takí, a vidíš, toto písmo som napísal na jej obranu. Rád by ju
+zachránil, to mi môžeš veriť. Veď sme ešte nie tak ďaleko a naostatok i
+tak býva, že ešte i po súde príde pardon, niekedy i v poslednú hodinu
+--- ---
+
+Veselovský sa vyhováral a držal dokument --- obranu, v ruke.
+
+--- Tak, tak, --- prisvedčil Ondrej, ale nie bez trpkosti. --- Ako pri
+Jánošíkovi!
+
+--- Eh, hm, čože ty máš, Ondrej, spomínať takého zbojníka, --- odsekol
+Veselovský mrzuto. --- A naostatok, keď by aj tak bolo, že by bola
+odsúdená --- a nepáčilo by sa ani pánu hlavnému županovi, ani pánu
+cisárovi udeliť pardon --- nuž nebola by prvá, ani posledná, čo ich
+sťali. Stalo sa to aj inakším osobám, boli králi a páni veľkí, boli
+kniežatá, kráľovné a panie z najvyššieho rodu a aj ich korunované hlavy
+padli.
+
+--- Veď, veď, počul som, ale ja nemôžem zato, ja do ostatnej chvíle
+neustanem, či už bude tak alebo tak, ale --- a tu ten ponížený sedliak
+zaťal päste, narovnal sa, akoby bol narástol --- a z očú mu vyšľahol
+blesk tvrdej odhodlanosti.
+
+Veselovský rozľúteného otca ešte raz uspokojil. Sľúbil mu, že ešte pôjde
+k hlavnému županovi a ten ako predseda súdu siedmich pánov rozhodne na
+stránku Madleninu, alebo dá pardon.
+
+Utíšený Veselovského slovami, uspokojený Ondrej začal zasa úfať. V túžbe
+a súžbe čakal a celé dni presedel v bráne radného domu, čakajúc na
+chvíľku, keď ho pustia k nešťastnici, potešiť ju.
+
+--- Neboj sa, --- hovoril, --- neboj, dievka moja, neodsúdia ťa a keby
+ťa aj odsúdili, príde pardon, prísť musí, musí, ja si ťa nedám, nedám
+ťa! --- A zasa zalomcovala vetchým sedliakovým telom zimnica zúfania.
+
+Madlena, sediac na biednom lôžku, smutne zavrtela hlavou a pozrela na
+otca takým beznádejným pohľadom, že sa jeho srdce triaslo neskonalým
+zármutkom.
+
+Medzitým bol Fekete málokedy doma. Františka sa tomu v duchu tešila,
+lebo vtedy sa pokojne oddala práci. Cítila sa byť matkou. Nevýslovná
+blaženosť naplnila jej srdce. Kvôli očakávanému dieťatku všetko pretrpí,
+všetko, o čom nikto nevie na svete len Boh a ona. Tešila sa práci pre
+svoje milé, prvorodené dieťa a budovala plány do budúcnosti, ako si ho
+bude vychovávať.
+
+Dni sa míňali, termín Madleninho súdu ustálili na 27. marca. Zo
+stoličných pánov boli na súd povolaní len Nándory a Holec.
+
+Veselovský si vypracoval obrannú reč. Bol istý, že jeho reč neostane bez
+účinku, že všetci páni, možno, okrem Holeca, budú hlasovať v prospech
+Madleny.
+
+V predvečer toho súdu doviedol Fekete niekoľkých hostí do
+Veselovskovcov. Fekete bol ostatné časy veľmi milý, pokorný a veselý. S
+Veselovským sa nepúšťal do dišputy a o Madlene akoby vôbec ani nevedel.
+Keď prišla reč na túto pravotu, tváril sa ako celkom nestranný, skôr
+ešte dobromyseľný človek. V ten večer sa jeho výrečnosť brilantne
+dokázala. Ešte i Streženický, blízky sused Veselovského, bol uchvátený
+jeho skvelou osobnosťou. U Streženickovcov --- ako viem --- mali tiež
+dcérku, troška staršiu ako Faninka, a tá by sa vďačne bola vydala za
+Feketeho. I rodičia boli nato pomýšľali. Preto sa v poslednom roku
+zahniezdila u Streženických akási chladnosť a nevraživosť oproti
+Veselovskovie rodine. Ale v ten večer na osobitné povolanie prišiel
+Streženický a úprimne ho privítali.
+
+Fekete sa krútil okolo Veselovskej, lichotil jej a prosil, aby
+prichystali, ako obyčajne, dobrú večeru. Pritom pani svokre ohnivo
+bozkal ruku. Veselovská potešená lichotivými slovami usilovala sa, aby
+hostina bola skutočne skvelá. Páni sa rozjarili. Po večeri pili ťažké
+vína a pili hojne. Fekete, aby zvýšil náladu, doniesol si husle a znovu
+ukázal, čo vie, aký je on muzikant. Pri husliach si páni i zaspievali,
+hoci pani Veselovská s tým hlučným priebehom hostiny nebola spokojná.
+Veď bol pôst a Veľký piatok blízko... S obavou pozerala aj na muža, ináč
+v pití mierneho, ako si dovolil nalievať ochotným zaťom ťažké víno. Ale
+o tom nevedela, že do vína nepozorovane nasypali akýsi prášok.
+
+A onedlho začal Veselovský driemať. A bol čas, aby sa páni rozišli, aby
+pokračovali v zábave u Streženickovcov, lebo rozjarený Streženický,
+objímajúc Feketeho, volal ho k nim a s ním i ostatných.
+
+Ráno o ôsmej zasadal na radnom dome súd siedmich pánov. Boli už všetci
+prítomní, domáci páni sudcovia ešte trošku nevyspatí, cezpoľní, ako
+Nándory, Holec a Bendík sa zavčasu pohli z domu, aby boli na termín vo
+Zvolene.
+
+Len Veselovský neprišiel. Fekete povedal pánom, aby počkali, že ide sám
+po tesťa. U Veselovcov však bolo ešte ticho. Veselovská tiež nevyspatá,
+ani nevedela pochopiť, že jej pán manžel, ináč ranostaj, nevstáva. I
+budila ho, ale k rozumu ho nemohla priviesť.
+
+--- Nič to, maminka, len nech mi dajú písma, čo napísal pán otec, ja za
+neho vybavím vec tak, ako by on sám bol prítomný. --- Veselovská ochotne
+ukázala na stôl, kde mal Veselovský svoje písma a Fekete si vzal, čo mu
+bolo treba.
+
+Keď Fekete prišiel medzi pánov, Bendík bol jediný, ktorého neprítomnosť
+Veselovského znepokojila. Veď on mal byť žalobcom, preto si žiadal, aby
+obrancovu reč prečítal nestranný človek. A tak ju prečítal notár Alitis
+hneď zatým, ako predniesol žalobca svoju reč.
+
+Veselovský vo svojej starostlivo vypracovanej reči apeluje na srdcia
+sudcov. Prizvukuje medziiným aj to, že mnoho ráz povedal i písal
+stoličným pánom, „dajme ľudu ľudské práva a ukážme mu svoju lásku. On,
+keď vidí našu dobroprajnosť, bude vďačný a daruje nám svoju dôveru.
+Nešťastná dievka, ktorá je obžalovaná z vraždy dieťaťa, je sama vlastne
+ešte dieťa, nedospelá, nepovedomá svojho strašného činu. Okrem toho
+dôverčivá --- a páni moji, posúďme, že ten, čo ju zviedol, má väčší
+hriech --- a že je pravdepodobne z našich kruhov."
+
+Medzi sudcami ozvali sa hlasy nevôle. Fekete sa potupne zasmial a tým
+bola obhajovacia reč pretrhnutá. Lebo Holec hneď povedal:
+
+--- Prečo ho hneď aj nepomenuje, ak vie, kto to bol? Ale to sú sedliacke
+fígle, lebo sedliaci každú vinu radi zvaľujú na pánov.
+
+--- Treba ju donútiť, aby povedala meno, --- povedal Nándory.
+
+--- O to tu nejde, faktum je, že spáchala vraždu, --- navrhol Holec.
+
+Alitis čítal ďalej:
+
+--- A kto sa môže vpraviť do toho žalostného duševného stavu takej
+oklamanej dievky? Padla, to je isté, čiou vinou, to nevieme, ale prosím
+vaše milosti, buďte spravodliví. Povážte, to dieťa, možno, bolo
+mŕtvonarodené.
+
+--- Svedkovia, prítomní i neprítomní, ako i lekár tvrdia, že žilo, tak
+stojí v zápisnici vyšetrujúceho sudcu, --- ohlásil sa zasa Holec.
+
+Ešte sa prihlásil Remenius:
+
+--- Ale i to stojí, že nebolo načas.
+
+--- Všetko jedno, žilo a malo právo na život. Vražda je vražda a tá sa
+musí exemplárne potrestať.
+
+Bendík zbadal, že on, ako žalobca, je predstihnutý tými, čo nemajú
+obviňovať, ale súdiť. S nedorozumením hľadí na pánov. Vstane, odvoláva
+sa na zákonité pokračovanie, ale nikto ho nepočúva.
+
+Fekete vstal tiež a všetko, čo stálo v reči Veselovského, dokonale
+podvrátil. Dokazoval, že ľud, v svojej zaťatosti a nenávisti oproti
+pánom dvíha hlavu, že idea lásky a zhovievavosti naproti ľudu nemá
+miesta, že také zásady sú viac na škodu, ako na osoh, ba priamo ohrozujú
+existenciu povýšených stavov. Keby sa ľudu dali práva, zmohutnel by a
+ako mnohohlavá hydra podryl by doterajšie, stáročnými zákonmi
+zabezpečené ustanovizne. Ľudu treba nie práva, ale položiť nohu na šiju,
+aby pocítil nadvládu tých, ktorí z milosti božej nad ním panujú.
+
+Keď Fekete spomenul „milosť božiu", Bendík sa trpko usmial, ale mlčal.
+Keby nebol fiškusom, bol by obrancom. Len dal Alitisovi pokyn, aby čítal
+ďalej.
+
+Alitis sa ešte raz chytil do čítania:
+
+--- Opätovne apelujem páni, na vaše po ľudsky cítiace srdcia a na milosť
+jeho osvietenosti nášho najvyššieho pána župana, ako najvyššieho
+stoličného predsedu súdu, ktorý je pre chorobu nie prítomný, aby ste
+súdili spravodlivo a s ohľadom na mladosť a nevedomosť biednej dievky,
+oslobodili ju spod trestu smrti.
+
+Sudcovia sa utiahli a hlasovali. Štyria vyniesli to strašné slovo: smrť,
+len traja, Wachot, Remenius a Nándory hlasovali za mierny trest a práve
+títo boli už starší ľudia.
+
+Bendík a títo posledne menovaní páni ustrnuli nad nečakaným výsledkom
+hlasovania, tým viac, že sa tu neobalene postavil zať proti tesťovi.
+Bendík sa hneď zobral a šiel k Veselovskému. Veselovský práve vstával a
+keď si uvedomil, čo zameškal, nedal sa uspokojiť. Bendík mu s
+poľutovaním oznámil výsledok súdu.
+
+--- Tak predsa, predsa ju odsúdili, --- zvolal Veselovský a chytil sa za
+hlavu. Bolela ho veľmi, ako ešte nikdy a Veselovská už aj poslala po
+fyzikusa v obave, že pán ochorie. Bendík radil, že ak Veselovskému
+záleží na oslobodení úbohej dievky, hneď nech uteká k županovi o
+udelenie milosti, alebo aspoň aby dovolil pretiahnuť výkon popravy, kým
+by sa na vyššie miesto mohlo apelovať. Veselovský nebol schopný napísať
+list. Napísal ho teda Bendík, Veselovský sa len podpísal a hneď
+vypravili obaja páni mladého jurásora Hudobu do Romháne.
+
+A vtom už prišiel i Ondrej. Nedal sa zadržať, vtisol sa do izby, kde
+polooblečený Veselovský sedel na posteli.
+
+--- Pán veľkomožný, ako je možné, že mi ju odsúdili?
+
+Veselovský zastonal:
+
+--- Nemyslel som, Ondro, asekuro, nemyslel som, že to tak dopadne. Ale
+vidíš, ešte nie je všetko stratené, teraz už, hľa, odišiel Hudoba na
+koni do Novohradu k pánu hlavnému županovi, on podpíše dekrét o milosti,
+pardon príde, ej, príde...
+
+Ale utrápený otec neveril. Sklonil hlavu, jeho zbiedeným telom
+zalomcovala zimnica. Už je po všetkom, už nemá čo stratiť, už nemá len
+ak tú slabú iskričku nádeje, ktorú mu tento pán podáva. I tá je na samom
+zhasnutí.
+
+A Ondrejom zasa zalomcovala zúfalosť. Zalomil ruky a zohol kolená pred
+pánom:
+
+--- Pán veľkomožný, pre Kristove rany, ak sa dá niečo vykonať,
+nemeškajte, zachráňte mi ju a my sa budeme za vás modliť, i ona, kým žiť
+bude. I vaša milosť má dcéru, videl som ju, je krásna, ale i ju čosi
+trápi, nie je šťastná.
+
+--- Ej, Ondro, čo ty mne máš spomínať moju dcéru, --- zvolal Veselovský
+s nevoľou, ale i s nepokojom.
+
+--- Viem, viem nemôže sa moja dievka prirovnávať ich krásnej pani dcére,
+ale aj ich milosť má srdce otcovské a naostatok: nad nami je jeden
+zákon, jeden zákon pre všetkých...
+
+To už zvolal ako vo vytržení.
+
+--- Ondrej, daj si pozor na reči, --- skríkol Veselovský.
+
+Jeho pani priskočila a tíšila ho, ale i na Ondreja zavolala:
+
+--- Choďte už, dobrý človek, vidíte, pán sú chorý.
+
+--- Veď ja nič, --- hovoril už zasa pokojne zúfalý otec a obrátil sa k
+dverám. --- Len to som chcel povedať, že jedna ako druhá podrobená sú
+zákonu smrti a smrť nájde svoju obeť i medzi pánmi.
+
+--- Ad animam, Ondro, nadužívaš moju dobrotu, --- zahrmel Veselovský.
+--- Reči, ktoré táraš, sú urážlivé. Nemôže moja dievka prísť do toho, v
+čom je tvoja biedna dievka, --- hovoril Veselovský v najvyššom
+rozčúlení. Myšlienka, že by jeho Faninku mohol niekedy podobný osud
+stihnúť, bola jemu ako milujúcemu otcovi neznesiteľná.
+
+Prišiel privolaný fyzikus a starostlivo prezrel pacienta a --- sekol mu
+žilu. To bol jeden z jeho troch univerzálnych liekov.
+
+Bendík prišiel k pánom so zvesťou, že jurasora Hudobu vypravil na koni
+do Romháne. No nevedeli, že sotva sa skončil súd, ba temer Fekete ani
+nečakal koniec, odišiel domov, dal si osedlať koňa a uháňal smerom k
+Slatine a ďalej k Novohradu. Prišiel domov len nad samým ránom, kôň bol
+vysilený, spotený a kočiš ho musel šúchať a liečiť. Fekete, ako prišiel,
+tak si hneď ľahol spať. Uplakaná Faninka sa ani nespýtala, kde bol.
+Nemohla teda vedieť, že posol pána otca, mladý Hudoba, ešte vždy leží v
+tuhom spánku v hostinci pod Vígľašským zámkom, v ktorom sa zastavil na
+pohárik vína. „Náhodou" natrafil tam na Holeca a z jedného pohárika bolo
+i viac --- až dobrému mladému pánovi klesla hlava na prsia a ani
+nevedel, ako ho uložili na posteľ.
+
+Faninka bola veľmi smutná, ale ešte vždy úfala, že príde posol s
+omilosťujúcou listinou a úbohá Madlena bude zachránená. Išla k rodičom,
+aby videla otca, teraz oslabeného --- a ostala tam do večera. Veselovský
+sa smutne díval na dcéru, ale rozhodne sa vyslovil, aby mu ten „lotor"
+na oči nechodil.
+
+Obe panie vedeli, koho pán otec myslí.
+
+Ten „lotor" sám pokladal za dobré, aby v ten deň pána otca zbytočne
+nerozčuľoval, veď mal už i tak dosť, lebo poslaný „kuriér" nechodil.
+Prišiel len podvečer. Zdrvujúci bol odkaz, ktorý doniesol. Pán hlavný
+župan podpísal ortieľ smrti skôr, než prišiel mladý Hudoba so žiadosťou
+o milosť.
+
+Pred samým večerom rozkázal Veselovský, aby zapriahli koč, naložil panej
+a dcére, aby sa chytro schystali, že idú do Bystrice.
+
+O hodinu uháňal koč s famíliou Veselovskovcov Hronskou ulicou a bránou
+do Bystrice. Za kočom šiel voz naložený batožinou, pri ktorej sedeli obe
+verné duše, Bibianka a Zunka.
+
+Bolo to ako útek.
+
+V tú istú noc doviezol sa bystrický kat do mesta Zvolena. Mesto malo
+síce právo meča, ale kata práve nemali. Ešte istý čas požičiavala
+Bystrica svojich katov okolitým mestám.
+
+V časoch, keď boli strigônske pravoty, pýtalo si mesto Krupina požičať
+bystrického kata. Bystrický magistrát pôžičku odoprel s odôvodnením, že
+na strigy neverí --- a na popravu nevinných ľudí kata nepožičia.
+
+Nasledujúceho rána, ako blesk sa rozniesol chýr po meste, že idú stínať.
+
+Zástupy rozčúleného ľudu sa valili Hronskou ulicou k mostu. Most bol
+vtedy ešte ten starý, ktorý chránený, či bránený mníchami, vzdoroval
+nárazu ľadových balvanov a prudkých vĺn rieky.
+
+Ako roj včiel ponáhľali sa ľudia, aby videli strašné divadlo, ostatné
+dejstvo tragédie oklamanej dievčiny.
+
+Naľavo od cesty, trochu nižšie pri brehu nebolo ešte vtedy to miesto
+úplne zastavené. Na tom mieste bolo napochytro vystavané nevysoké
+lešenie a na ňom klát. Pri ňom stál silný mužský, s vysúkanými rukávmi,
+v ruke široký meč --- bol to bystrický kat.
+
+Bubon zahučal. Bandúri vliekli dievča, viac mŕtve ako živé. Za ňou šiel
+mladý kaplán, bledý ako stena. V ruke držal kríž, ktorý častejšie
+podával odsúdenej. Ale ona o tom nevedela. Oči dievčaťa boli hlboko
+vpadnuté, bez výrazu, bez znaku života. V tvári a na ústach nebolo badať
+ani tieň životnej rumeni. Vlasy mala ostrihané, už i preto, že bola
+„nepoctivá", i preto, aby sa katovi obľahčila „práca". Hneď za ňou
+kráčal teraz už celkom zlomený zúfalý starec, starec nie rokmi, ale
+utrpením. Nezalamoval rukami, nekričal, len ústa sa mu pohybovali,
+zopäté ruky sa mu triasli. Oči mal upreté do zeme, do prázdna, potkýnal
+sa a tackal ako opitý.
+
+Keď zasvišťal v povetrí meč a padla hlava mladej devy, niekedy takej
+krásnej, spanilej, samý smiech a spev --- bola úplná tichosť. Ľud
+naplnený hrôzou v tú chvíľu ani nedýchal. Akoby srdcia, tieto pramene
+súcitu a lásky boli stisnuté do železných okovov.
+
+A tú desnú tichosť prerval ostrý, chrapľavý výkrik. Za ním nasledovali
+slová, aké diktovať môže len veľká zúfalosť, keď nesmierny žiaľ
+zalomcuje stýraným srdcom človeka:
+
+--- Bodaj sa do takto roka tvojmu dieťaťu toto isté stalo!
+
+Ľudia vzrušení z ustrnutia hľadeli v tú stranu, odkiaľ zaznela táto
+strašná kliatba. Nad trupom svojej dcéry, túliac oddelenú hlavu k sebe,
+kľačal starec-žobrák; hlava obrátená k nebu, pravá ruka zdvihnutá na
+kliatbu --- ako starodávny zaklínajúci žrec.
+
+Nikto v zástupe nepochyboval, komu tá kliatba platila, hoci nebola
+zaslúžená. Ale každý sa zhrozil i len myšlienky, aby Faninka, tá krásna
+pani, podobným spôsobom umrela. To nebolo možno veriť.
+
+A v nasledujúcej chvíli prefrčal skvostný panský záprah hradskou a
+mestom. Údery kopýt o most sa ozývali, akoby odveta na desné starcove
+slová. V koči sedel Fekete, vyzývavo a spupne hľadiac na šomrajúci
+zástup.
+
+# Františkin zármutok
+
+Žalostný skon nešťastnej Madleny z Bacúrova vzružil zvolenský ľud a
+zanechal hlboký a trvácny dojem medzi obyvateľstvom Zvolena i celého
+okolia.
+
+Boli v tom čase mnohí, a to i z poddaného ľudu, ktorí pokladali trest
+smrti za vraždu dieťaťa ako oprávnený a zaslúžený, ale väčšina cítila
+veľkú krivdu, spáchanú na mladej dievčine, a mnohí tú krivdu cítili ako
+osobnú urážku. Preto vo svojej nevôli žehral ľud na pánov a nenávisť
+oproti vládnúcej triede za každým podobným skutkom rástla. A že ľud
+nemal inej zbrane --- utiekal sa ku kliatbe. Preklínať sa naučil, veď
+toto jediné netrestali šibenicou a mečom a tak si uľahčil biedny
+nevoľník, keď použil túto nebezpečnú zbraň na hlavu znenávideného
+človeka.
+
+Ondrej Skubík pevne veril, že je Veselovský taký mocný pán, že môže
+zachrániť dievča od smrti. Jeho domnienku zdieľali i druhí a utvrdzovali
+ho v rozhorčení, keď videli, že chudobný sedliak všetko, čo mal,
+obetoval na záchranu svojho dieťaťa. A že Veselovský tú obeť prijímal a
+sľuboval, konečne však nevykonal, čo sľúbil, rozľútilo krotkého Ondreja
+a vo svojom nesmiernom žiali utiekal sa ku kliatbe. Bol to výron
+rozhorčenia nielen jeho samého, ale i celej triedy, ku ktorej patril. A
+všetci, čo počuli tú desnú kliatbu, zhrozili sa strašných slov, lebo
+verili, že kliatbu Boh počuje.
+
+Pravdepodobne mesto Zvolen nepoužilo už po tomto stínaní viac svoje
+právo, právo meča. Niet o tom záznamov, ani povestí. Od tých čias, ako
+tento na dlaň široký, na oboch stranách ostrý meč zrazil hlavu
+nešťastnej devy, odpočíval v tmavej komore medzi inými mučiarskymi
+nástrojmi až do revolúcie, keď ho cisárski vojaci odniesli do Viedne.
+
+Už nasledujúceho roku súdili sudcovia omnoho miernejšie. Či preto, že
+nebolo medzi sudcami zloducha, ktorý by svojím démonským vplyvom
+našepkával svoje vlastné, ukrutné názory, alebo či účinkom ľudskejšieho
+ponímania a trošku spravodlivosti oproti zotročenému ľudu, to nemožno
+vedieť.
+
+Už sa sudcovia nepridržiavali tak meravo starozákonného zvyku: oko za
+oko, zub za zub, hoci ešte i vtedy súdnictvo nebolo na výške ľudskosti.
+
+V tomto roku --- 1808 --- súdili tiež siedmi páni istú Dorotu Novákovú z
+Radvane pre taký istý prečin, čo spáchala Madlena.
+
+Pravotu proti Dorote viedol fiškál Bendík, tiež radvanský obyvateľ,
+„armalista", jeho família tu mala neveľkú kúriu.
+
+Dorotu Novákovú odsúdili na dvanásť rokov trestnice, lebo „spáchala
+hanbu na svojej ľudskosti".
+
+Roku 1809 Anna Struhárska nabila istého Kalauza bakuľou a pri tomto
+skutku zlomila Kalauzovi rebro.
+
+Pravdepodobne zlomila i bakuľu, ale o tej kronika mlčí.
+
+Pred súdom sa sama bránila a musela mať výrečnosť aspoň takú pádnu, ako
+pohotovosť do bitky, lebo sudcovia ju oslobodili. Iste mala na tento
+telesný trest závažnú príčinu.
+
+Čím ďalej, tým menej bolo sudcov, ktorí nedbajúc na poľahčujúce
+okolnosti, urputne pridržiavali sa zásady, že pri každej pravote, kde
+išlo o poddaného, hlasovali za smrť --- pro morte.
+
+Koncom XVIII. storočia ešte žil istý sudca, ktorý sa pred biskupom N.
+chválil: „Milostivý pane, dnes sme odsúdili jedného raba na sto rokov."
+
+Na toto poznamenal maďarský spisovateľ Kazinczy v svojich zápiskoch:
+„Pane, či ste sa neobzreli na delikventa, nezačudovali sa nad tým a
+nepomysleli si, že sa tým pánom rozum čistí?"
+
+Dary prijímať nezdráhal sa v ten čas ani jeden sudca. Dokázalo sa, že zo
+sto sudcov deväťdesiatdeväť prijímalo dary a dalo sa podplatiť. Oni to
+nepokladali za urážku, ani ich svet za to nesúdil, to vtedy menovali
+sudcovskou informáciou.
+
+Mária Terézia sa údajne spýtala istého sudcu, či je pravda, že prijíma
+dary.
+
+--- Áno, --- priznal sa sudca, --- lenže dary oboch stránok zmiznú v
+jednom vrecku a tak nikdy neviem, ktorá koľko dala.
+
+Za panovania cisára Jozefa II. sa súdnictvo hodne napravilo, ale po jeho
+smrti zasa upadlo. V istom latinskom distichu žaluje sa pôvodca, „ako
+umrel cisár Jozef II. upadli sme do súdnych zmätkov", v ktorých pre
+neprestajné vojny ešte vždy väzíme.
+
+Ako vidno, súdnictvo sa tak skoro nezdokonalilo, ani začiatkom
+devätnásteho, takzvaného osvietenského storočia. Šibenice na Vígľašskom
+vrchu stáli až do roku 1826. Keď ich odstránili, postavili tak stĺp na
+pamiatku --- a azda i na výstrahu. Popravy neboli také časté, ale
+telesný trest nezrušili. Na to tu bol dereš. Ešte i po revolúcii, ba
+ešte i v šesťdesiatych rokoch stával dereš pod sieňou slúžnovského dvora
+v Slatine. A keď pandúri prikročili k súdnej exekúcii, ozvalo sa: už
+zasa bijú! Prenikavé výkriky palicovaných previnilcov rozrážali vzduch a
+postrašili nás, deti, v susednom farskom dvore. „Jááj, mamička moja!"
+ozval sa žalostný výkrik. Vtedy my, deti, ale i starší, utekali sme
+zdesene do izieb, aby sme nepočuli. Plakali sme, triasli sa súcitom nad
+nešťastným človekom. Braček Ďurko, veľmi ľútostivý, utiekal sa k
+mamičke, kryl sa do jej šiat a plakal: „Mamička, mamička, zasa bijú."
+
+Otca, nášho apíka, tieto tresty veľmi rozrušili. Kde len mohol, zastával
+sa úbohých, a keď mohol, tak svojím vplyvom zmiernil krutý trest. Zavše
+sa mu to i podarilo; len neskôr dereš menej používali a o niekoľko rokov
+za úradovania našich mladších úradníkov, prestal byť dereš tým, čím bol
+predtým: mučiarskym nástrojom a upotrebúvali ho len ako jednoduchú
+lavicu.
+
+Priateľstvo famílie Radvanskovcov k Veselovskovcom hodne ochablo.
+Radvanský zazlieval Veselovskému, že dal jedinú dcéru, takú mladú a
+krásnu, za človeka pochybného charakteru. Nepovedal to Veselovskému
+rovno do očú, ale on sa o tom dozvedel a ťažko niesol vicišpánov úsudok,
+tým viac, že si to isté už často i sám uvedomil. I Radvanská bola
+Františkiným vydajom rozladená, lebo ona vyhliadla už iného ženícha pre
+„das herzige Kind".
+
+Pri istej príležitosti Radvanský oznámil s nevôľou Veselovskému, že od
+istého času pozoruje, že ktosi o všetkom, čo sa v našej stolici robí,
+referuje do dvornej kancelárie. Odtiaľ dostáva hlavný župan Balogh také
+pokyny, ktoré tohto vznešeného pána rozčuľujú. Balogh je pre svoju
+chorobu, ktorá je ani nie taká vážna, ako skôr namyslená, stále na
+svojom sídle v Romháni, pritom však má vedomosť o všetkom, o každom
+najmenšom pohybe, ba aj o privátnych veciach našich rodín. Radvanský si
+to nevie vysvetliť, veď ako on tak často prízvukoval, zvolenskí zemani
+sú napospol ľudia spoľahliví a lojálni.
+
+Taktiež nemálo starostí zapríčinilo pánu vicišpánovi nariadenie snemu,
+aby ako všetky iné, aj Zvolenská župa klasifikovala pozemky, podľa čoho
+má sa rozvrhnúť spravodlivá daň. Zeme sa mali rozdeliť do štyroch tried.
+Od prvej triedy, do ktorej patria pozemky žírne a úrodné, treba platiť
+štyri zlaté floriny od jutra. Od druhej triedy dva zlaté, od tretej
+jeden zlatý päťdesiat denárov, od štvrtej jeden zlatý. Do tejto triedy
+patrí už zem skalnatá a sterilná.
+
+Rozumie sa, zeme, ktoré nesporne patria do prvej triedy, majú páni a
+podľa toho by mali platiť i dane. Vtedy sa však vedelo --- a vie sa i
+teraz --- že páni radšej berú, ako dávajú. Nuž, je vysvetliteľná
+neochota, s ktorou sa páni úradníci chytali, či nechytali do tejto
+práce.
+
+A termín je krátky, veď na rok, totiž roku 1808 má byť reštaurácia a pri
+tej príležitosti mali by sa riešiť aj iné úlohy, nielen táto najťažšia
+zo všetkých.
+
+V ten istý deň mali byť aj nové voľby stoličných úradníkov.
+
+Veselovského znepokojili Radvanského reči. Vycítil, že Radvanský z
+udavačstva podozrieva Feketeho, o ktorom sa už i to súdilo, že donáša
+rozopre i do samých rodín a že seje semeno nedôvery a zášti medzi dosiaľ
+spriatelenými rodinami.
+
+Veselovský už o všetkých zlých zaťových skutkoch vedel a nemálo trpel
+vedomím, že Františka, to anjelské dieťa, dostala muža takej nebezpečnej
+povahy. Veselovský častejšie dohováral zaťovi, ale on, ako každý luhár,
+vedel sa vždy vykrútiť a neraz vyrazil svokrovi, ako sa hovorí, zbraň z
+ruky. A dosť často musel Veselovský ustúpiť. Zavše aj chcel veriť, že
+Feketeho výčiny sú podobné tým, ktoré pášu i druhí mladí mužskí. Netreba
+zúfať, snáď sa napraví, ako sa napravili iní, keď sa stali usadlejšími.
+A potom, pre domáci pokoj, pre ušetrenie mladej ženy často premohol
+svoju nevôľu a nechal vec padnúť. Aj keď všetko uvážil, nebol spokojný,
+lebo zaťovo počínanie ho často uviedlo do úžasu, nepochopil ducha, a to
+skutočné „ja" Feketeho.
+
+Vyčítal mu i to, že sa ujal zastávať istého vraha, ktorému nemohli
+vraždu dokázať, ale tá kričala z jeho tvári, z jeho reči, z jeho očú ---
+nehovoriac o tom, čo dokazovali ľudia.
+
+Tento vrah sa menoval Jakub Švarc a bol rodom z Turčeka pri Kremnici. Od
+svojej mladosti sa zdržiaval v okolí Zvolena, slúžil ako bača i v
+Pliešovciach, potom vo Zvolene u bohatého statkára.
+
+Jakuba Švarca obvinili z vraždy zámožného gazdu zo Senohradze v
+Hontianskej župe, istého Macku. Martin Macko vracal sa z Pliešoviec
+domov, mal pri sebe hodnú sumu peňazí za predané voly a našli ho
+zabitého na ceste vedúcej do Hontu. Na tej istej ceste videli Jakuba
+Švarca dvaja senohradskí obyvatelia, ako i krčmár Štefan Ritz z
+Pliešoviec. Potom však, aby nemusel ísť cez Pliešovce, zabočil Švarc
+chodníkom cez horu na Zábavu a na Polomku. Tu ho chytili, poviazali a
+ako podozrivého odviedli do Zvolena. Mal pri sebe tristo zlatých, o
+ktorých tvrdil, že si ich požičal u niektorých gazdov v Honte, kde
+kedysi slúžil. Dokázalo sa, že nedostal ani sedem zlatých. A keď sa ho
+opýtali, prečo nešiel rovnou cestou, to jest do Pliešoviec, povedal, že
+zablúdil. Vo Zvolene pri vyšetrovaní tajil do duše a tvrdil: „Ja som
+nie, namojdušu --- non quam, adanimam".
+
+Tohto človeka sa ujal Fekete a s horlivosťou, ktorá by pristala lepšie
+ku šľachetnej veci, bránil chlapa, ktorému nič dobrého z očú nevyzeralo.
+Každý, kto ho videl, i sami sudcovia, boli náchylní veriť, že je Švarc
+skutočným vrahom, ale pri skutku ho nikto nevidel a on tajil do duše.
+
+Veselovský nevedel pochopiť, ako mohol Fekete prevziať obranu tohto
+človeka. I povedal mu to:
+
+--- Ja tebe, ako som už viac ráz povedal, pán zať, neverím a
+nedôverujem. Konáš všetko, čo iní ľudia zavrhujú. Pri pravote nešťastnej
+dievky si mi skrižoval plány, tu zasa brániš človeka nedobrého,
+zločinca, ktorému z tváre vražda priam kričí.
+
+Fekete sa zasmial svojím príšerným smiechom.
+
+--- Práve preto, že všetko proti nemu svedčí, i jeho visáž, jeho oči,
+jeho chýr i pliešovský notár a iní svedkovia, práve preto ho chcem
+brániť a uvidíte, že ho skvele umyjem, --- povedal Fekete s akousi
+pekelnou ambíciou.
+
+--- Ale prečo to robíš? Je to bravúra? Veď je to, amice, proti svedomiu,
+proti zákonu. Kto zlého zastáva, ten škodí dobrému. Kde je morálka, kde
+etika a humanita?
+
+--- Há-há... etika, morálka, zákony --- a vaša freimaurerská humanita?!
+Čo ma po krásnych heslách, hlavné je, aby človek nášho povýšeného stavu
+a rozumu koristil, kde sa dá, aby sme sa mali dobre a užívali života,
+--- hovoril teraz neobalene to, čo si myslel.
+
+Z teba, asekuro, ide hrôza: Či si ty kresťan, že prechovávaš také
+bohaprázdne náhľady? Či ťa to vo Viedni takto učili ponímať život?
+
+--- A vy vo svojej lóži, ako príslušník tajnej spoločnosti, čo
+dokazujete? Nežijete si tiež po veľkopansky, čo vám naskrze nezazlievam.
+
+--- Eh, asekuro, do toho sa ty nerozumieš. Zásady slobodného murárstva
+sú vznešené a vychovávajú v ľuďoch zmierlivého ducha, pestujú humanitu a
+zhodu medzi spolublížnymi. Zásady slobodného murárstva sa neprotivia
+zákonom božím... --- bránil Veselovský svoje zoznanie.
+
+--- A prečože vás všemohúca cirkev napáda? --- škľabil sa Fekete. ---
+Vy, ako dobrý katolík, musíte to vedieť.
+
+--- Vie to každý, kto ako-tak nazrel do života. Pritom som ja, ako si
+povedal, vždy dobrý katolík a úd svätej cirkve, ale ty, ty si neznaboh a
+nie div, že sa ťa ľudia boja, a keď ťa majú stretnúť, prežehnávajú sa
+krížom, --- povedal Veselovský.
+
+--- Boja sa ma? --- zvolal Fekete a vyceril svoje biele zuby, akoby sa
+zasmial. --- Oj, ešte sa ma len budú báť, keď dosiahnem to, po čom
+túžim. Vy, pán otec, mi v tom prekážať nebudete! --- a Feketeho tmavé
+oči pozreli skúmavo, ale i so zrejmou hrozbou na tesťa.
+
+--- Dotiaľ, kým sa to, čo chceš, zrovnáva s mojím svedomím a neprekáža
+záujmom nášho stavu, najmä ale neohrozuje reputáciu našej stolice,
+prekážať ti nebudem. Naostatok, to je privátna vec. Lenže tvoje náhľady
+na svet, aký je teraz, nezrovnávajú sa s duchom času. S tvojimi náhľadmi
+ideš nazad do stredoveku, kde mali zemani práva nad životmi ľudu, ktorý
+pomenovali misera contribuens plebs. Teraz vanie iný duch a rozumný
+človek, viac ešte, statočný človek, nesmie sa pred ním uzatvárať a
+fumigovať všetko, čo sa mu nehodí; kto nejde napred, zaostáva.
+
+--- A čo myslíte, že chce ten takýto „duch času"? Práva pre ľud! Či
+nevidíte nebezpečenstvo pre náš privilegovaný stav? Neviete, že keď dav,
+plebs, dosiaľ neuvedomený, dostane práva, bude všetko pokladať za jedno,
+zlé i dobré, a namiesto jedného tyrana bude ich v každom jednotlivcovi
+aj päť. Ľudu nie práva, ale knuta a nohu položiť na šiju, nech pocíti,
+že je nevoľníkom a nech nezatúži po rebélii, --- tvrdil Fekete a jeho
+tvár dostala výraz krutého sebectva.
+
+--- Eh, amice, kalkulujem, že tvoje náhľady poslúžia k pádu a nielen
+tebe, bojím sa, že i nám všetkým. Je hrozné, počúvať tvoje sentencie.
+
+--- A čo sa nazdáte, keď povolíte sedliakovi, že vám bude vďačný?
+Neobráti svoju zbraň oproti vám a tým, čo mu chceli dobre. To bolo tak a
+bude tak naveky. A kto bude zemanovi robotovať? Zemani nie sú na to, aby
+tvrdo pracovali, ani sa tomu nenaučia, --- nuž, či nebude nasledovať, že
+zemianske rodiny upadnú a celé rodiny vyhynú?
+
+--- To bude znamením, že sú nie schopné žiť, --- dotušil Veselovský. ---
+Ale nahliadam, že my dvaja sa v tejto veci nedorozumieme, --- povedal
+Veselovský, ktorý už ustával proti nebezpečnému rečníkovi a chcel mať od
+neho pokoj, čo i za cenu zrejmého --- ústupu.
+
+--- Preto, pán otec, nechajte vy mne moje náhľady a nemiešajte sa do
+mojich privátnych vecí, lebo len tak môže byť medzi nami dobre --- a vo
+famílii pokoj. Radšej mi pomáhajte! --- hovoril Fekete teraz už cele
+iným tónom, i lichotivým i prosebným, pričom v súzvuku s rečami svietili
+aj jeho oči a usmievala sa mu tvár.
+
+Veselovský teda ustúpil aj teraz a uspokojil sa, že úmysly Feketeho sú
+nie také nebezpečné, ako sa zdajú byť.
+
+Leto pokročilo.
+
+Faninka zaujatá svojím materstvom, radostne pracovala na malej výbave
+pre očakávané dieťatko a pritom zabúdala na mnohé prežité strasti a
+sklamania.
+
+Tu i tam zjavil sa jej obraz minulosti, jej šťastného detstva, ale obraz
+--- prchavý, ako opravdivý sen, ustupoval pred oblažujúcou budúcnosťou.
+I hry z detských časov jej zavše zišli na um a s nimi spojená postava
+milého druha a kamaráta Mikuláša. A tu si spomenula, prečo už tak dávno
+o ňom nepočula? Kde je ozaj ten ideálne zmýšľajúci mladík, čo robí, ako
+sa má?
+
+Že nepíše, to Faninka uznala za celkom správne; iste už počul, že sa
+vydala, že sú pre seba navždy stratení a že sa musí vpraviť do toho, čo
+sa zmeniť nedá. Preto nepíše, aby ju svojím listom neznepokojil, nieto
+ešte príchodom.
+
+Ale že tak nikto o ňom nehovorí, nikto ho nespomína, akoby ho už ani
+nebolo! Aké je to čudné! Ale keď dlhšie na to myslela, uvedomila si, že
+ona sa neopytuje a iní z jej kruhov nemyslia na to, že jej bol aspoň
+krátky čas taký milý, taký drahý, kým sa inému nezadala, kým pred svätým
+oltárom nezložila sľub vernosti mužovi, ktorého vlastne ani nemilovala,
+ale i tak chce mu byť verná nielen v skutočnosti, ale aj v myšlienkach.
+Áno, musí zapudiť z mysle pamiatku na toho, ktorému, čo len na krátky
+čas, patrilo jej srdce, po ktorom túžila v prvej nevinnej ľúbosti! Ach,
+krátko to trvalo a pominulo sa navždy!
+
+Málokedy sa stalo, že chodila, alebo sa viezla v tú stranu, kde stál
+Mikulášov rodný dom. Ale keď tade prešla, videla ho vždy zavretý, pustý
+a vysvetlila si to tým, keď je on, jediný majiteľ domu, nie doma, nebýva
+tam nikto --- azda až do návratu dediča.
+
+Ale raz... keď išla v sprievode švagrinej Kláry do Peťkovskej záhrady,
+všimla si, že sú obloky na dome otvorené a že i dokorán otvorené dvere
+prepúšťajú ľudí, prechádzajúcich sa von a dnu, ktorí vynášajú kusy
+domáceho náradia.
+
+Feketovská záhrada, zvaná „Na jame", ležala blízko bašty, ktorá viedla
+do Môťovskej ulice. Pre túto úzku a tesnú baštu bolo v tej ulici zjari
+samé bahno, lebo voda nemala odtoku a v lete zasa bolo v nej prachu a
+skál, ktoré prechádzajúci statok mrvil a miesil. Priechod, čiže brána,
+vedúca popod baštu, bola úzka, a keď išlo mnoho ľudí, najmä v jarmočný
+čas, i so statkom, priechod bol často zahataný. Ale baštu, ako pamiatku
+z búrlivých tureckých nájazdov, meštianstvo chránilo ako vzácny
+pozostatok z minulosti a len o päťdesiat rokov bolo ju možno zbúrať.
+
+Klára bola zvedavá. Vždy vedela, čo sa v meste robí a mala nepeknú
+povesť, že sa rada túla i po nociach. Nie darmo to o nej spievali
+zvolenské dievky --- a slúžky posmešne: „Klára, v noci šije, vo dne
+pára". A napodobňovali spomínané vojenské trúbenie.
+
+Klára nebola pekná, ale ešte vždy krajšia, ako jej sestra Zia, ako ju
+nazval brat Fekete. Mala všetky príznaky nejakej zdedenej choroby. Nos
+nadurený, po hrdle hľúzy a švíky a časté vyrážky po tele.
+
+Zvedavá Klára zastala pred Duchoňovským domom a dívala sa, ako ľudia
+vynášajú kasne a stoly. Zaujímalo ju to a preto sa neokúňala stáť a
+pozerať na ten živý a hrmotný ruch v dome.
+
+--- Tu je licitácia, --- povedala Faninke, ako na ospravedlnenie.
+
+--- Ako? Čo tu nikto nebýva? --- opýtala sa Faninka.
+
+--- Odvtedy, ako posledný Duchoň umrel, nikto. Teraz je jeho vec
+skončená, dedičia sa budú deliť a čo si nechcú podržať, to vypredávajú.
+
+--- Kto zomrel? --- opytuje sa Faninka až srdce sa jej začína nepokojne
+trepotať.
+
+--- Či ty nevieš, alebo si zabudla? Pravda, myslím, že si nebola ani
+doma. Nuž, Mikuláš umrel. Vlani ho našli zastreleného v cintoríne pri
+samom múriku, --- hovorí Klára a hľadí, ako chlapi nesú krásnu kasňu,
+umele spracovanú s mosadznými okrasami.
+
+--- Bože môj! --- zúpela Františka a pred očami sa jej zatmelo. Rukami
+sa zachytila Klárinho ramena. Klára sa obzrie, vidí, že Faninka klesá.
+Zachytila ju.
+
+--- Čože sa ti stalo? Zle si stúpila? To zato, že máš také fajnové
+črievičky, tie nie sú do týchto skál. --- A pozrela na svoju vlastnú
+hrubú obuv z mocného remeňa.
+
+Faninka sa premohla a povedala:
+
+--- Áno, iste som zle stúpila, ale myslím, že to prejde, len ešte bolí,
+bolí --- ---
+
+Ale nebola to nôžka, čo ju bolela. Slzy jej vstúpili do očú, ale sa
+statne premohla.
+
+A doma, keď bola sama, zaplakala. Tak on umrel a ona nevedela!
+Predstavila si ten výjav, ako ho videla pred sebou v búrke --- a potom,
+potom, ako utekala od neho, a to bez rozlúčky, ani len zbohom mu nedala!
+A vtedy ju ktosi chytil, ten pocit strachu a hrôzy cíti aj teraz, keď si
+vec sprítomní. Kto to bol? Keď ho nevidela, nemohla vedieť. A potom ---
+---? Áno, to iste tak bolo, Mikuláš počul jej výkrik, skočil jej na
+pomoc a tak sa stalo, že pre ňu padol. Ona, ona bola príčinou jeho
+smrti. Aké je len strašné povedomie zaviniť smrť takému drahému človeku!
+Veru sa naplnil obsah tej smutnej piesenky o zvolenskom cintoríne. Ale
+toho šuhaja tam dávno, dávno oplakávala milá, i ružičku mu dala na dobrú
+noc, i rozmarínkom ho prikryla kázala zvonom zvoniť na všetky strany ---
+a odiala sa do rúcha čierneho, i *„čiernu stužku na ruku, za tú lásku
+velikú".*
+
+A tento milý, drahý leží „nad harajchom nikým neoplakaný, neosmútený"!
+Že sa o tom nedozvedela, že sa to podarilo ľuďom pred ňou utajiť!
+
+Ako sa prvý hlboký žiaľ utíšil, zjavili sa výčitky jemného, čistého
+svedomia. Veď ona už nesmie myslieť na neho ani teraz, čo je aj nebohý.
+Veď jej Pán Boh vymeral cestu, po ktorej musí kráčať, čo bude aj
+tŕnistá. Ale bude mať vedľa seba anjela, svoje malé, milé dieťatko. Ak
+bude syn, bude jej náhradou za strateného Mikuláša.
+
+Utrela si slzy, pomodlila sa za dušu nešťastného Mikuláša a umienila si,
+že bude žiť verne svojmu povolaniu, ako manželka a matka.
+
+Nežiadala si vedieť, kto zabil Mikuláša a predsa to raz zvedieť musela.
+
+Toho leta sa Fekete mnoho bavieval mimo domu. Nikto nevedel, kam chodil,
+len jeho kočiš, ale ani toho sa nikto nespytoval.
+
+Istého večera vrátil sa neočakávane domov a nenašiel Faninku doma.
+Povedali mu, že je pri mamičke u Veselovskovcov. Feketeho čelo sa
+zatiahlo, ale nepovedal nič, len šiel do Veselovskovcov.
+
+Keď prišiel do izby, našiel rodinku spolu v najväčšej zhode, ako bývala
+vždy, keď bola doma Faninka. Fekete milo vkročil medzi nich a čo
+najsrdečnejšie všetkých pozdravil. Rodičia ho dávno takého nevideli, i
+Faninka málokedy. Usmievala sa mu i pohladkala ho, veď si zaumienila, že
+mu bude dobrou a láskavou ženou --- kvôli tomu, čo má prísť. Ohľadom
+Mikuláša sa už uspokojila, pochovala ho i so svojimi detskými
+rozpomienkami. Chce žiť budúcnosti a to druhé je už --- minulosť.
+
+Už sa hodne zvečerilo, keď sa mladí manželia pobrali domov. Nebo bolo
+zastreté mrákavami a povetrie dusné, niečo upomínalo na predošlé leto,
+keď bolo tak dusno a keď prišla tá búrka.
+
+Keď kráčali krížom cez námestie, povedal Fekete, držiac Faninku za
+rúčku: --- Tamto som ťa videl po prvý raz, --- a pritom sa usmial svojím
+diabolským úsmevom.
+
+--- Kedy? --- opytuje sa mladá žena.
+
+--- Bola búrka --- a ty si tam stála s nejakým mužským. Faninka zbledla.
+
+--- Odskočila si od neho, neviem, čo chcel od teba a vletela si mi rovno
+do rúk. Hehe, nemyslela si si, že hľadáš ochranu u svojho budúceho muža.
+
+--- Ale, ale, veď ty si ešte nebol doma, --- hovorí Faninka predesená,
+--- veď si ty prišiel neskoro v noci domov.
+
+--- V tej chvíli som bol tu, musel som prísť pre kováča, ktorý naprával
+voz, zaviaznutý na ceste z Budče. Vtedy som chcel ísť domov a zastavil
+som sa pri tomto famóznom dobrodružstve.
+
+--- Ty, ty?! --- --- opytuje sa Faninka.
+
+--- Ja, ako vidíš. A ako si sa ty, nerozumná stvora vytrhla a tak
+vykríkla, vrhlo sa na mňa akési chlapčisko; blázon, chcel robiť rytiera
+urazenej nevinnosti...
+
+--- A ty?!
+
+--- Môžeš si domyslieť. Nebolo mu veľa treba, bol slabý, hodil som ho o
+múr. Ja som sa len bránil!
+
+--- Tak ty si ho zabil, vrah, ty, ty! --- vykríkla Faninka bez seba,
+vytrhla sa mu z ruky a obrátila sa naspäť smerom k rodičovskému domu.
+Ale Fekete ju chytil a škrípajúc zubami vliekol ju domov. Pritom použil
+do krvi urážajúcich slov.
+
+--- Tak ty si ho ľúbila, viďme, nevinnosť. Ostatne viem, že ma neudáš,
+som si istý.
+
+Premohol sa, keď videl, aká je slabá a v akom je stave. Ale nasledujúce
+dni ju nepustil z domu, ani on sa nepohol z izby. Mal vždy nejakú prácu,
+raz so spisovaním zápisníka z ciest, raz s prezeraním rozličných
+drobných predmetov, ktoré si priniesol z ďalekých krajín.
+
+Raz, iste ho to stálo premáhanie, prisadol si k Faninke, nič nedbal na
+jej slabý odpor a pekne lichotivo jej povedal:
+
+--- Nemusíš to brať tak tragicky, dušička. V našich kruhoch sa všeličo
+stáva. Pomysli si, že to bol súboj a v súboji musí zvíťaziť mocnejší.
+Tak je to na tom svete, tak je to aj v prírode.
+
+Faninka sa konečne utíšila. Len sa čudovala, že to už skôr nevycítila,
+že na to sama od seba neprišla. Teraz si vedela vysvetliť príčinu, prečo
+ju zamrazilo, keď videla po prvý raz u nich Feketeho.
+
+I myslela si, že ešte i toto odpustí svojmu manželovi, veď je otcom jej
+dieťaťa a tomuto kvôli bude sa snažiť zabudnúť na onen strašný večer.
+
+S tichou rezignáciou, ktorú ožiarovala len posvätná radosť z očakávania
+potomka, čakala malého člena rodiny.
+
+A on prišiel. Prišiel žiadaný syn. Ale prišiel slabý, neduživý. Obe
+rodiny sa dedičovi potešili. Veselovský, nemajúc syna, úfal sa vnukovi,
+a Veselovská, ako stará mať, veľmi sa radovala.
+
+Pre slabosť maličkého synka museli sa ponáhľať s krstom. Pri svätom
+krste dostal malý Fekete tri mená a to hrdé, cudzie: Hilarius,
+Mauritius, Ludovicus. Ale hoci bol krst okázalý, hoci bol krásne
+vystrojený, --- malý Hilár mal čepček a kabátim zlatom a drobnými
+perličkami vyšívaný --- necítil sa tento drobný tvor na tomto svete
+dobre. Ani láska mladej mamičky, ani nádej starého otca a radosť starej
+matky ho tu nemohli udržať. Aj keď ho najstarostlivejšie opatrovali,
+malý Hilár žil len štrnásť dní.
+
+Františka bola veľmi zarmútená a dlho sa nedala ani potešiť, ani
+prehovoriť. K jej chorobnému stavu pridružilo sa akési náboženské
+hnutie. Namyslela si, že svojou náklonnosťou k Mikulášovi zhrešila a za
+to jej bol odňatý prvorodený syn, ktorému sa tak veľmi tešila. A keď sa
+trochu zotavila, ponáhľala sa do chrámu, aby sa zo svojho domnelého
+hriechu vyspovedala a za dušičku svojho miláčika pomodlila. Ešte i
+teraz, ba práve teraz, keď si namyslela, že zhrešila, nezdôverila sa
+matke, nechcela ju znepokojiť.
+
+K Zuzke, hoci jej bolo prejsť len do susedov, málo chodila. Ako sa
+Faninka vydala, zdalo sa jej, že sa vzďaľuje od všetkého, čo ju za
+dievčaťa tešilo. Medzi ňou a Zuzkou zjavila sa medzera, ktorá rástla
+každou smutnou Františkinou skúsenosťou.
+
+Aby mladá pani ozdravela, rozveselila sa a trúchlivých myšlienok sa
+zbavila, usilovali sa rodičia dostať ju do iného ovzdušia. Veď doma jej
+všetko pripomínalo stratu, ktorú utrpela --- nielen tú, o ktorej vedeli
+všetci, ale i tú, ktorú pochovala v svojom srdci a o ktorej nevie nikto
+na svete...
+
+Fekete súhlasil s rodičmi, ale naliehal, aby sa Františka zúčastnila na
+jeho výletoch do okolia a chodila s ním na zábavy a na návštevy s tým
+spojené. Ale útlej žene skoro sa sprotivili také pohuľanky, keď ju
+miesto do ctihodných rodín zaviedol ta, kde páni do neskorej noci
+holdovali hre v karty a vínu, kde sa ozýval spustlý spev a hlasitá
+cigánska hudba a preto sa zdráhala na podobné návštevy chodiť s mužom,
+ktorý potom pustou chladnou nocou urážal ju svojimi bohaprázdnymi
+rečami, alebo trápil výčitkami, že sa na toho alebo iného pekne
+pozrela...
+
+Preto vďačne prijala matkin návrh, aby sa znova presťahovala do
+Bystrice. Fekete pristal, bol rád, že na čas bude zasa voľný a oddá sa
+svojim starodávnym zvykom. Zato však často chodil za Faninkou, a to tak,
+že zavítal hocikedy, keď jeho príchod nikto nečakal. Pritom striehol,
+špehoval, či sa k Faninke nikto nepriblížil.
+
+Z Bystrice na radu stoličného fyzikusa odviezla Veselovská slabú
+Františku na Sliač.
+
+Sliač, toto krásne liečebné miesto, nebol vtedy ešte tým, čím sa stal
+neskoršie, alebo je teraz, kúpeľami, vyhovujúcimi nielen požiadavkám
+hygieny, ale i komfortu.
+
+Vtedy tam stálo len niekoľko domov a ciene pre panské koče --- a stajne
+pre hrdé kone.
+
+Primitívna budova chránila „pleso" bazén, od vonkajších vplyvov. Voda v
+bazéne kochlovala, železitá para vystupovala už vtedy, ako i dnes, v
+hojnej miere, preto už aj vtedy museli dievčatá a ženy paru preháňať,
+aby nezapríčinila kúpajúcim sa ťažobu a mdlobu.
+
+Ako pred rokmi, keď voda ešte nebola „chytená", kotlinu z ktorej
+vyvieral prameň, napínali otravné plyny a vtáčiky, ktoré nízko
+prelietali, padali otrávené na zem.
+
+Učení ľudia a doktori poznali už dávnejšie liečivú silu sliačskych
+prameňov, medzi nimi aj niektorí bystrickí páni. Preto lekári posielali
+svoje pacientky, najmä tie, ktoré mali možnosť sa tam domácne ubytovať,
+užívať vodu i kúpeľ a v horách vdychovať pľúca a otrasené nervy.
+
+Ale Sliač nevyhľadávali len choré panie, naopak, skoro sa toto miesto
+stalo vychádzkovým a zábavným miestečkom.
+
+Boli to najmä nedele a sviatky, keď sem chodili okolití páni a panie ---
+na svojich panských kočoch alebo i skromnejších vozíkoch, ktoré naložili
+pravidelne pečienkami, koláčmi a vínom každého druhu.
+
+Tie nedele boli potom sviatkom okolitého panstva a rodiny zámožných i
+nezámožných zemanov i bystrických patricijov, tešili sa na ne celý
+týždeň. Potom tu bolo zábav, bolo i tanca pri cigánskej hudbe, ktorá
+oživovala spoločnosť a ohlášala sa krásnym krajom. Pri bielych stoloch
+bývali tu i mnohé dôverné porady, časové, týkajúce sa aj ohlásenej
+reštaurácie. Tu sa nadväzovali známosti medzi mladými ľuďmi a
+slečinkami, tu povstávali i mnohé klebietky, týkajúce sa známych i
+neznámych ľudí.
+
+V ten čas sa tu cítila panská spoločnosť ako doma, takrečeno „entre
+nous". Nebolo ešte cudzieho živlu. Čo bolo z meštianskeho rodu, to veľkí
+páni jednoducho „fumigovali". Len niektoré bystrické rodiny mali
+prednosť, že ich blahosklonne vyznamenali. Veď mali zlata, ktorým by sa
+nejedna zemianska, ba aj obšúchaná barónska korunka mohla pozlátiť.
+
+Len omnoho neskoršie začínala sa na Sliači rozťahovať iná, tiež mocná
+spoločnosť; peňažná aristokracia. A pred touto výbojnou --- tá pravá
+aristokracia sa vyslovila, že dotieravou --- spoločnosťou uťahovala sa
+rodová aristokracia do Tatier.
+
+Ale vtedy, nezaveľa od čias, v ktorých sa odohráva tento príbeh, za
+panovania tej prvej aristokracie, bavil sa jedno leto na Sliači (starý
+Bánik mu priložil i názov vznešený) palatín
+Jozef.\[[43](../Local%20Settings/AppData/Local/Temp/vansova-terezia_kliatba_txt.html#ftn.id2585309)\]
+Bolo to už po viedenskom kongrese; v krajine bol obstojný pokoj a preto
+sa i tento mocný pán mohol oddať oddychu v utešenom horskom zátiší.
+
+Pri príležitosti jeho pobytu v blízkosti Zvolena poslalo mesto svojich
+vyslancov na Sliač, aby vznešenému pánovi vzdalo počesť a pozdravilo ho
+v našom kraji. Alitis, hlavný mestský notár, predniesol reč, v ktorej
+akoby ponosne podotkol, že naše mesto veľmi často obťažujú ubytovaním
+vojska. Na to palatín povedal: --- Ubi populus, ibi obolus.
+
+Faninku často povolávali aj do spoločnosti okolitých rodín, kde ju
+vďačne prijali a aj ľutovali. Jej muž chodil často za ňou a užíval plným
+dúškom rozkoše, ktoré sa mu naskytli aj v tomto okolí. Všade chcel
+vývodiť, všetko zažiť. Hojné zábavy, hostiny, ba aj nočné lumpačky v
+odľahlých domoch alebo v hájnických a rybárskych krčmách. Veľkí páni
+nebývajú preberaví v lokáloch, len keď im poskytnú zábavu, akej niet v
+slušných miestnostiach. A tu sa neraz stalo, že z tých nočných lokálov
+dostalo sa všeličo i na verejnosť, z čoho bol aj pohoršujúci škandál,
+ale taká vznešená spoločnosť prižmúri jedno oko, alebo aj obidve, keď
+ide o niektorého z jej údov.
+
+Fekete okrem toho o dušu dvoril všetkým mladým paniam a slečnám. Ale tu
+si dal pozor, lebo aspoň do volieb si nechcel znepriateliť rodiny pánov
+bratov, ktoré mu môžu byť potrebné. Jeho správanie bolo ohnivé a
+nápadné, ale len dovtedy, kým nezbadal, že patričná slečna upadla do
+jeho krážov, potom sa zvrtol a svoju pozornosť venoval druhej. Boli z
+toho i slzy, i klebietky, boli medzi mladými dámami i hnevy, ale Fekete
+si zo všetkého nič nerobil. Faninkina prítomnosť predsa ako-tak
+zdržiavala bujného, samopašného chlapa od hrubších výtržností.
+
+Boli tu i jemnocitné panie, opravdivé šľachtičné duchom i srdcom, ktoré
+sa ujali Faninky, potešovali ju, i rozveseľovali, keď bolo treba.
+Františka sa v láskavej spoločnosti týchto dám zotavovala, ale
+nepremeškala chodiť každé ráno do malého dedinského kostolíka v
+Hájnikoch, kde sa vždy skrúšene modlila.
+
+Spomenuté panie boli pani Benická, Radvanská a Feješová. Feješovci
+prišli z Nižného Skálnika v Gemermalohontskej župe. Ján Feješ bol
+všeobecne uznávaný a ctený ako učený pán a literát. Vtedy bol
+úradníkom-notárom slávnej gemerskej stolice, bol inšpektorom niekoľkých
+cirkevných ev. a v. sborov a predsedom učenej spoločnosti malohontskej.
+Táto spoločnosť mala každý rok v mesiaci marci svoje hlavné zhromaždenie
+u Feješovcov v Skálniku a v štyroch rečiach vydávala svoje letopisy pod
+menom Solennia.
+
+Feješovci mali dcérku Liboriu, trošku útlu a slabú dievčinku a preto
+prišli, aby sa zotavila.
+
+Benickovci mali syna Tomáša, študenta, a nebolo divu, že tu rodiny
+osnovali plány pre budúcnosť svojich detí.
+
+Keď iné panie vychvaľovali Feketeho blýskavé vlastnosti, chválili ho ako
+dokonale elegantného gavaliera, jeho skvelú výrečnosť, jeho neobyčajnú
+vzdelanosť a pútavosť, skrývajúcu sa v jeho zjave, za ten čas pani
+Benická, a s ňou niektoré iné, rozhodne boli proti tomuto „gavalierovi".
+
+--- Jeho krása? --- povedala pani Benická. --- V čom je tá krása? V jeho
+bledej pleti --- a v očiach? (Benickovci boli blondíni.) Jeho krása je
+takrečeno démonická.
+
+--- Preto je taká podmaňujúca, --- nadhodila istá mladá dáma.
+
+--- Túto krásu nazvali Francúzi skutočne diabolskou krásou, „la beauté
+de diable". A čo je naozaj z takej krásy, v ktorej niet ani stopy duše,
+dobroty a lásky? A jeho vzdelanie? To je skôr nebezpečné, ako osožné. Ak
+nepostavíme svoje vedomosti do služby lásky, neuplatníme ich v snahe
+konať dobro pre iných, tak všetka múdrosť nemá ceny. A kto svojich
+sedem, alebo, ako sa vraví jedenásť rečí používa, aby zakryl svoje
+myšlienky a v skrytosti vykonával nepekné skutky, --- tie reči nie sú
+toľko hodné, ako tá jedna reč, reč materinská, ktorú nám dal sám
+Stvoriteľ, keď v nej vzývame s úprimným srdcom jeho samého a láskavo sa
+v nej zhovárame so svojím blížnym.
+
+Rozumie sa, tento úsudok o Feketem nepovedali v prítomnosti
+Františkinej, lebo ju všetky, čo bližšie poznali tento nerovný manželský
+pár, ľutovali.
+
+# Reštaurácia
+
+Banská Bystrica, táto „pekná mladšia sestra" starého, zanedbaného
+Zvolena, sa vždy rada okrášľovala a v tomto jej pretekaní sa, s
+upadnutým bratom podporovala ju vláda i mocní páni.
+
+V tú istú jar, keď v Bystrici mala byť reštaurácia, prestavovala
+Bystrica svoj zámok. Tam, kde je teraz „promenáda", kde si mládež veselo
+poskakuje, kde v tôni bujných stromov oddychujú si starí páni a malé
+detičky vo vozíčkoch i bez nich, užívajú čerstvý vzduch, tam v tom čase
+boli šiance a priekopy zavše plné stojacej vody. Pri prestavovaní sa
+dbalo však i na to, aby sa pôvodné tvary hradieb a krajšie čiastky, ako
+niektoré bašty, zachovali na pamiatku pre budúce pokolenia. Z tých
+pekných, starých hradieb vyniká zvláštna päťposchodová bašta, v ktorej
+je umiestené vzorne spravované múzeum. Za touto baštou na dosť strmom
+návrší rozprestiera sa katolícky cintorín.
+
+Bystrica mala vždy horlivých a vzdelaných richtárov a mešťanostov, ktorí
+veľmi starostlivo bdeli, aby sa mesto udržiavalo vždy vo svojej kráse.
+Žiarlivo si chránili staré pamiatky a nadobúdali nové. Potom malo toto
+mesto mecénov v kruhoch patricijských --- a neskoršie i zemianskych. Ale
+tieto kruhy si dlho boli cudzie; hrdé a sebestačné meštianstvo nemiešalo
+sa do kruhov zemianskych, ale i mesto samo, čiže magistrát, úzkostlivo
+chránil a bránil svoje práva voči stolici a jej úradníkom.
+
+Nie div, že Bystricu pomenovali nielen peknou, ale i pyšnou. Podľa toho
+i obyvateľov prezývali pyšnými Bystričanmi. Ináč ľudový humor, neznajúci
+ušetriť ani také slávne mesto ako je Bystrica, poctil posmešným menom i
+Bystricu, tak ako Brezno, Ľupču a Ľubietovú.
+
+Moštenicu, malú dedinku, neďaleko Ľupče, prezývajú od nepamäti:
+Moštenica bum, preto sa hnevá na každého, kto to zavolá a rada sa
+odpláca iným obciam rovnakým spôsobom.
+
+Bystrica má aj svoje zaujímavé dejiny, má mnohé pamiatky, ktoré si tým
+skorej mohla zachrániť, že ju ušetrili od mnohých nepriateľských vpádov,
+nevidela v svojej blízkosti ani jedného Turka, kým Zvolen a okolité obce
+sa museli veľmi často s tureckými zbojníckymi tlupami potýkať. Ona
+nebojovala, len pracovala, vzmáhala sa a --- okrášľovala.
+
+O bystrických pamiatkach písať na tomto mieste je nemožné. Vykonali to
+inde skúsenejší, povolanejší ľudia --- a boh dá --- ešte i vykonajú.
+
+V ten čas už i sídlo župy boli preniesli do Bystrice.
+
+Ešte skôr, keď zámok vo Zvolene upadal, smerodajné kruhy sa uzniesli, že
+sídlo župy bude v Banskej Bystrici. Tu postavili roku 1740 terajší
+stoličný dom a to nielen veľkým nákladom, ale i s neobyčajným
+porozumením. I dnes je to pozoruhodná budova, ktorá zodpovedala cieľu,
+pre ktorý ju postavili.
+
+V ten čas mal župný dom dve brány. Pravdepodobne tou prvou vchádzalo sa
+priamo do oddelenia, kde sú kancelárie, ako i k schodom, ktoré viedli do
+veľkej radnej siene a do rozličných úradov. Druhá brána viedla do
+rozsiahleho dvora, tu iste bývali koniarne --- a ciene pre koče pánov,
+ktorí tu bývali, alebo sa tu len istý čas zdržiavali.
+
+V župnom dome je aj kaplnka, kde sa za onoho času páni pred voľbami
+schádzali, aby si vyprosili „dar Ducha svätého a rozumu dobrého" pre
+konanie prác, ktoré práve mali pred sebou. V tomto župnom dome je aj
+stoličný archív, umiestený i chránený vo vnútornom dvore. Okolo na
+prízemí i na poschodí, sú úradné miestnosti. Župný dom mal i svoje
+žaláre, v tých sú pravdepodobne dnes pivnice, práčovne, drevárne a iné
+nevinné miestnosti.
+
+Župan mal tu svoje, na ten čas, nádherné bývanie, z ktorého mohol
+bezprostredne vojsť do zasadacej dvorany.
+
+Dvadsiateho prvého marca roku 1808 schádzalo sa panstvo zo všetkých
+strán stolice do Banskej Bystrice a pred stoličný dom. V bránach stáli
+župní hajdúsi v svojej originálnej uniforme, podobajúcej sa dávnemu
+vojenskému vystrojeniu. Pri bokoch mali svoje starobylé kapsy v
+žlto-belasých farbách.
+
+Páni prichádzali na kočoch na túto príležitosť zvlášť hrdých, ale i na
+menej okázalých vozíkoch. Niektorí doviezli sa i na štvorke, veď v ten
+čas ešte mali z čoho aj menší zemani. Jedni, tí, čo mali úrady v samom
+župnom dome, zatiahli s kočmi do dvora, iní poschádzali pred bránou a
+poslali koče do mesta, alebo do veľkého dvora hostinca U raka, alebo do
+dvorov spriatelených zemianskych rodín.
+
+Všetci títo páni boli odetí do gály, akú v ten čas nosili uhorskí
+zemani. Boli tu šaty z čo najjemnejšieho čierneho súkna, aj zo zamatu,
+ale aj farby fialovej, tmavočervenej, takrečenej farby červeného vína, i
+belasej. Mentieky lemované drahou kožušinou. Retiazky masívne zlaté,
+posiate drahokamami. Šable ligotavé, ktorých rukoväte okrášľovala vzácna
+tepaná práca a ozdobovali drahokamy. Šable cvendžali, ostrôžky na
+čižmičkách štrngali, keď páni kráčali sklepenou bránou a schodmi do
+siene. Kalpaky i kučmy, ešte bolo chladno, ozdobené mali perami,
+pripevnenými v nádherných agrafách.
+
+Duchovenstvo sa dostavilo so svojimi odznakmi, s červenými i lilavými
+pásmi a krížom. Biskup Zerdahelyi prišiel len neskoršie.
+
+Prišlo panstvo i z okolitých stolíc, ale väčšina prišla až v samý deň
+volieb. Pre postup deja pripomenieme pánov už na tomto mieste.
+
+Z Turca prišiel Ladislav Prónay a Jozef Benický --- rozumie sa, de
+eadem. Z Novohradu Ľudovít Ambrózy, podžupan, z Gemera Gabriel Serényi,
+z Oravy Andrej Kubíny, z Hontu Jozef Zmeškal, z Liptova Alexander
+Rakovský a František Platthy.
+
+Všetko prítomné panstvo vošlo do zasadacej siene. Do tejto peknej
+miestnosti viedli široké schody osobitným vchodom. Vo dvorane bol obraz
+Márie Terézie, Jozefa II. --- a podarený obraz hlavného župana Petra
+Balogha-Očanského (de Ocza).
+
+V tento deň sa skladali úrady doterajších úradníkov a oddávali sa
+odznaky úradnej moci a hodnosti týchto pánov. Prvý podžupan Jur
+Radvanský, oddal ako odznak pečať stolice, potom zaujal predsednícky
+stolec v neprítomnosti hlavného župana a začal svoju slávnostnú reč,
+ktorá v duchu toho času a štýle znela asi takto:
+
+*Vážené stavy a páni!*
+
+*Zatým, čo sa zo srdca radujem a teším, že vás vidím v tak značnom počte
+zhromaždených, ochotne síce, ale v skutočnosti nie bez bolesti ponáhľam
+sa vec vybaviť, lebo to, čo sa vlúdilo do bežných spisov, bude patrne
+bez významu, a prítomné zasadnutie nebude sa teda musieť odbavovať za
+predsedníctva našej najmilostivejšej vrchnosti, lebo jeho osvietenosť
+bola už skorej chorobou postihnutá, preto dostalo sa nám --- mne, tej
+cti ju zastupovať. Je ale nádej, že sa náš milovaný najvyšší pán župan
+skoro uzdraví, čoho si úprimne žiadam a dúfam, že to bude o dva dni.*
+
+*Okolnosť túto bude možno každému zoznať bližšie a podrobnejšie z
+milostivých listov do 17. t. m., predovšetkým uverejnenia zasluhujúcich.
+Vážené stavy a hodnosti, ťažká práca na nás čaká. Máme rokovať o
+výsledkoch posledného krajinského snemu. Jeho osvietenosť v pripojenom
+liste láskave a s dôverou nás k tomu povzbudzuje a oprávňuje.*
+
+Po tejto reči, „plnej nadšenia" --- tak znie zápisnica --- hoci im
+spôsobila bolesť zpráva o jeho osvietenosti, stavy to pochopili, sadli
+na svoje miesta a začali rokovať.
+
+Najprv prečítali milostivý list pána hlavného župana, adresovaný celému
+zhromaždeniu, datovaný 17. t. m. z Romháne, sviedčiaci o chorobe
+vznešeného pána a určujúci poriadok vecí, o ktorých treba rokovať.
+
+List „vážne" prečítali a „úctyplne" vypočuli. Panstvá dali výraz svojmu
+poľutovaniu, keď povstali a zvolali: „Vivat, náš najmilostivejší pán
+župan!"
+
+Nato si opäť posadali na svoje miesta.
+
+Potom poverili pánov Daniela Urbányiho a Ľudovíta Ostrolúckeho,
+predniesť už vypracované referáty.
+
+Najstaršieho, i čo sa rokov týka, i čo stoličnej služby, hlavného
+stoličného notára Daniela Urbányiho vždy vtedy poverili prezidovať, keď
+boli voľby. Zaujal teda svoje miesto a hovoril:
+
+*Vážené spojené stavy! Neexkuzujeme sa, že sme všetky funkcie, ktoré nám
+naša česť rozkazovala vykonať, vykonali, ale mnoho ťažkostí sa nám
+postavilo do cesty, mnoho, čo sme sľúbili, ostalo nevykonané, ale to, čo
+sme urobili, s tým sa môžeme pochváliť.*
+
+*Zabezpečili sme verejné blaho a bezpečnosť osoby i majetku je obstojne
+dobrá. Ťarchy, ktoré nám zadáva vojsko, podelili sme systematicky, takže
+ani ľud, plebs, ani mešťania nepociťujú prílišnú jeho ťarchu, lebo sme
+na základe zákona vymohli pre naše légie dvestotisíc zlatých. Tieto
+légie boli takto podelené: Milícia kyrysariálna: Zvolen, Pliešovce,
+Veľká Slatina, Očová, Badín, Medzibrod po jednom cúgu. Pre prvé štyri
+obe I. centuria, pre ostatné II. centuria. ---*
+
+Toto sa pripomína preto, lebo vo Zvolene bolo vtedy vojsko ináč i
+krysármi menované. Holeca poverili umiestením tohto vojska. (Legionis
+equestris Kienmajeriana.) Urbányi pokračuje:
+
+*Čo sme nevykonali, je to, že od snemu nariadili zostaviť popis
+jednotlivých majetkov podľa stavu a zemí, ale keďže lehota bola taká
+krátka --- a ťažkosti také veľké, s tou vecou sme sa opozdili, ale
+program sme pripravili a len vyplnenie ostáva budúcnosti.*
+
+Pán notár Urbányi začal tým, že sa neexkuzujú --- a predsa len
+vyhovárajú.
+
+Po vybavení ďalších iných vecí sa zhromaždenie rozišlo.
+
+Na druhý deň sa zišli porobiť ešte prípravy na voľby a tu Radvanský
+povedal reč, v ktorej sa poďakúva a skladá svoj úrad, želajúc si, aby
+vážené stavy volili si mladšieho a lepším zdravím obdareného, lebo on
+cíti na pleciach ťarchu rokov a je i neduživý.
+
+Jeho reč vyznela už veľmi vlastenecky (fidei pro patria). Túto reč
+všetci prítomní prijali s nadšením.
+
+Toto bol začiatok reštaurácie. Od toho dňa pracovali len tí, ktorí mali
+vybaviť niektoré naliehavé otázky, druhí páni, tak domáci, ako i
+cezpoľní, sa zabávali, dávali hostiny, chodili na hostiny, tance, zábavy
+a iné kratochvíle.
+
+A pritom sa i kortešovalo. Fekete sa tešil, že Radvanský zaďakoval. Len
+si žiadal, aby sa nenašli ľudia, ktorí by Radvanského presviedčali, že
+je ešte súci i ďalej mať úrad vicišpána a mu takrečeno ten úrad nanútiť.
+Teraz len získať vplyvných ľudí a vyšvihnúť sa na predné miesto stolice!
+
+Po všetky tie dni Fekete temer nebol doma.
+
+Na každej hostine, na každom večierku bol prítomný, okrem toho ešte s
+rozpustenými kompánmi trávil noci po kaviarňach a vykričaných krčmách a
+pustom hýrení.
+
+Vicišpán Radvanský povolal všetkých pánov a panie na slávnostný banket.
+Na žiadosť svojich blízkych príbuzných Antona a Jána dal sa nakloniť,
+aby hostina bola v kaštieli týchto dvoch pánov. Lebo kaštieľ Jura
+Radvanského bol pomerne dosť malý, hostil v ten čas už početných cudzích
+hostí a nebolo by v ňom toľko miesta, aby sa všetci pozvaní do neho
+spratali. Radvanský totiž obýval kaštieľ prostredný, ktorý je od
+hradskej pre silnú ohradu temer neviditeľný. Na bráne tohoto paláca je
+nápis:
+
+\<lang LAT\>CELSA SADUNT VITIIS CRESCUNT
+
+VIRTUTE TENELLA
+
+TURRIS LAXA JACET
+
+PONDERE PRESSA SUO.\</lang\>
+
+*Veľké veci padajú hriechom,*
+
+*útle veci rastú cnosťou.*
+
+*Krehká veža leží spadnutá,*
+
+*tlačená svojou váhou.*
+
+Starobylý kaštieľ Radvanskovcov, ktorý stojí prostred parku, je stavaný
+na spôsob pevnosti. Pri samej hradskej ceste stojí ešte jedna bašta, už
+sa rozpadávajúca. V tomto zámku, stavanom do štvorhranu na poschodie, sú
+krásne miestnosti a veľké dvorany. V jednej z tých veľkých komnát býval
+kedysi i Rákóczy, keď sa ukrýval pred svojimi nepriateľmi. Z jednej z
+prízemných izieb vedie tajný východ a úzke schody do tej miestnosti, kde
+sa zdržiaval Rákóczy. Touto cestou chodili k nemu jeho dôverníci a
+priatelia a tadiaľto dostával potravu. Boli tu istý čas aj Rákóczyho
+synovia, a to dlhší čas --- nikto o nich nevedel. Veľká sála sa odvtedy
+až podnes menuje Rákóczyho sálou. Teraz sú tam, ako i v susedných
+izbách, uložené cenné zbierky, starožitnosti, údajne i z Rákóczyho
+pozostalosti. Rodinná obrazáreň je tiež tu, knižnica je bohatá, sú v nej
+veľmi cenné diela aj z husitských čias.
+
+V prízemnej veľkej dvorane, ktorá bývala pri rodinných a iných
+slávnostiach jedálňou, je krb, čiže kozub, do ktorého sa sprace odrazu
+za voz dreva --- dnes by sme povedali dva metre --- a to vo veľkých
+polenách. A práve vtedy dobre horí, keď je ho toľko. Muselo to byť
+príjemné, keď tam praskal oheň a vrhal svoje svetlo i šíril teplotu do
+veľkej panskej izby, plnej panstva v starodávnych úboroch, šperkoch, v
+hodvábe a zamate. Statní páni a krásne panie pri hostine, hudbe a speve.
+
+I v ten čas sa poschodilo panstvo ako už rečeno z celej župy a ešte i z
+druhých stolíc. Niektorí páni doviedli i svoje panie a dcéry, ale i bez
+nich bolo v slávnej stolici dosť mladých krásavíc, ktoré vynikali nad
+mnohé iné. Medzi nimi bola mladušká Radvanská, ktorá o niekoľko rokov
+vzbudila obdiv svojou krásou, duchom a pôvabnosťou i na viedenskom
+kongrese, kde, ako vieme, zišlo sa panstva z najvyšších kruhov a z celej
+Európy.
+
+Fekete i tu dvoril smele, zvŕtal sa tak ako na Sliači a chcel uplatniť
+svoje vynikajúce vlastnosti. A iste by bol postúpil v hodnosti, keby
+nebol príliš vysoko siahal.
+
+Veselovský s nevôľou pozoroval nebezpečnú, hazardnú zaťovu hru. Sľúbil
+mu pomoc pri dosiahnutí stupňa, ktorý by na ten čas zodpovedal aj inému,
+nielen ešte mladému Feketemu. Mal to byť úrad stoličného fiškála.
+Veselovský dôvodil pred zaťom, že aj iní veľkí páni postupovali len z
+kroka na krok. Sám hlavný župan, Peter Balogh, bol najsamprv slúžnym.
+Ale Fekete chcel byť vicišpánom stoj, čo stoj a preskočiť od seba
+staršieho Benického.
+
+Veselovský, keď mu úrad zapisovateľa, za ktorého ho pri voľbách
+vymenovali, dovoľoval, odišiel do Zvolena, aby navštívil svoju rodinku.
+Vtedy musela Františka byť doma, lebo zasa bola v požehnanom stave a
+rodičia ju chránili pred úrazom a inými dojmami. Aj Fekete jej naložil,
+aby sa zdržiavala doma, no, nie pre iné, len aby sa on mohol voľnejšie
+pohybovať.
+
+Bývala teda mladá žena doma a uspokojila sa, že jej miesto nebohého
+anjelika Pán Boh daruje iného. Dobrá Veselovská si dcérku buď k sebe
+povolala, buď pri nej sedávala.
+
+Konečne sa minuli veselé dni príprav, kortešačiek a hlučných zábav.
+
+Dvadsiateho ôsmeho marca roku 1808 schádzali sa zasa páni, a to v
+hojnejšom počte ako pred týždňom, do župného domu. Prišli všetci, domáci
+i cezpoľní vo svojich hrdých šatách a ozdobách. Niektorí mali i rady a
+znaky hodností.
+
+Okrem menovaných pánov z iných stolíc boli tu zástupcovia miest, rodín a
+korporácii. Za mesto Banskú Bystricu boli členovia magistrátu a
+mešťanosta.
+
+Eszterházyovské panstvo zastupoval fiškál Schurman z Vígľaša, prefekt
+Tóth a mnohí iní páni a veľmoži.
+
+Zástupcovia ľudu, plebs, boli Alexander Kardoš a Samuel Kalauz z Hájnik.
+
+Z kňažstva bol biskup Zerdahelyi, Ján Nepomuk Miller, predstavený
+slávnej kapituly, František Molnár, kanonik a Ján Lux, miestny farár.
+
+Keď sa všetci zhromaždili vo veľkej zasadacej sieni župného domu, vítal
+ich Jur Radvanský a vyzval prítomných, aby sa išli spolu s ním pomodliť
+do domácej kaplnky na vzývanie Ducha Svätého.
+
+Pobožnosť odbavoval miestny farár pri asistencii iných kňazov a
+titulárny kanonik dôstojný Ján Lux.
+
+Keď sa služby božie v prítomnosti magistrátu a veľkej väčšiny panstva,
+nakoľko ich pomerne malá miestnosť prijať mohla, skončili a keď sa
+všetci vrátili do zasadacej siene, Jur Radvanský navrhol vyslať
+deputáciu k najvyššiemu pánu županovi do jeho obydlia a pozvať ho na
+dnešné slávnostné zasadnutie.
+
+Zároveň oslovili aj osvieteného pána Gabriela Zerdahelyiho, nateraz
+biskupa diecézy, aby deputáciu k pánu županovi viedol. V deputácii boli:
+najdôstojnejší pán Ján Nepomuk Miller, predstavený kapituly, František
+Molnár, kanonik; z magnátov Ladislav Prónay, turčiansky Jozef Benický,
+Ľudovít Ambrózy, Gabriel Serényi, Ondrej Kubíny, Alexander Rakovský,
+František Platthy, Jozef Ostrolúcky, staručký Daniel Urbányi a sudca
+Karol Holec. Ján Miller vo svojej pilne naštudovanej reči povolal
+hlavného župana a deputácia sa vrátila do sály, oznamujúc zhromaždeným,
+že jeho excelencia o krátky čas príde.
+
+Onedlho skutočne prišiel hlavný župan Balogh, starší už pán, váženého
+zovňajšku, odený do čierneho odevu.
+
+Prítomní ho privítali postojačky hlasitým volaním: Vivat!
+
+Pán župan zaujal svoje kreslo, po jeho pravici pán biskup Gabriel
+Zerdahelyi a tak podľa stavu a hodností iní hodnostári a stavy.
+
+Ctihodný starec Daniel Urbányi, už mnoho rokov hlavný župný notár, vstal
+a menom všetkých hlavného župana privítal.
+
+Aby sme mali potuchy, ako sa vtedy rečnilo a pánom lichotilo, prinášame
+Urbányiho reč aspoň vo výťahu a skrátenú:
+
+*Najjasnejší, najvzácnejší Domine aktualis --- a najvyšší župan!*
+
+*Keď si, najvyšší, zotaviac sa, vstúpil medzi nás, ktorí sme sa tu
+zhromaždili, aby sme vykonali to prenesnadné dielo, ktoré vyžaduje
+naplnenie predpísaných zákonov a ktorí sme sa ohliadali po tvojej múdrej
+rade a po tvojej obozretnej a láskavej pomoci, ktorú rád poskytuješ i v
+najväčších tvŕdzach mimo našu nádej len obzvláštnym darom božím úplne
+zdravý, nemohol si nečítať na našich čelách a nevidieť na našich tvárach
+už zbavených starostí a úzkostlivosti a znepokojenia o tvoje zdravie,
+záblesky spoločnej radosti, ktorá šťastne obveseľuje naše duše, dôkaz to
+nežnej lásky nás všetkých k tebe. Pre nás je totiž zvrchovanou rozkošou
+tak účasť pod vznešeným predsedníctvom po tvojom boku, ako i poslušnosť,
+ba dokonca najdôvernejší styk s tebou. V dnešný deň, ktorý si chcel mať
+slávnostným, vzhľadom na tú úlohu volebného zasadnutia celého kraja,
+zvereného tvojmu rozmyslu a dôvtipu. Tie ušľachtilé pocity úcty,
+oddanosti a lásky k tebe sú napodiv v nás zjednotené, no jednak nás
+roznecuješ, jednak my hlboko cítime a pokladáme za zvrchovane záslužný
+skutok znova si tak slávnostne uctiť, nášho najvyššieho pána na tomto
+poprednom mieste najvyššej pocty a hodnosti a toto nás povznášalo do
+radostných pocitov najvyššej blaženosti. Nechceme ťa dlho zdržiavať od
+chválitebného volebného obradu našich predkov, tohto znamenitého
+zariadenia zdedeného po otcoch, ktoré si podľa svojej vlastnej vôle a
+našej rady milostivo určil na tomto mieste slávnostne prerokovať. O to
+ale prosíme tvojho jemného a múdrostiplného ducha čo najpokornejšie:
+dokiaľ vykonáš správu tohoto starobylého úradu, buď mu milostivý a
+priaznivý, ako veľmi zaslúžilému o štát. A keď budeš sčitovať naše hlasy
+pri voľbe nového úradu, ráč spolupôsobiť k spoločnému dobru vlasti s
+nami, ktorí máme ten istý cieľ. A teraz opakujeme svoje všeobecné
+želanie a z hlbín srdca svojho voláme, aby si bol celému kráľovstvu čo
+najdlhšie zachovaný zdravý a neporušený. Nech žije náš najvyšší pán!
+Vivat!*
+
+Na toto srdečné volanie všetci prítomní povstali a nadšene volali:
+Vivat! Vivat!
+
+A keď sa volanie utíšilo, Urbányi pokračoval a zakončil svoju reč:
+
+*Nech žijú naši vznešení hostia!*
+
+Potom vstal hlavný župan a otvárajúc volebný akt, predniesol svoju reč.
+
+*Slávne stavy a hodnosti! V kráľovstve, ktorého sme šťastnými občanmi,
+je zvykom a platnými zákonmi ustáleno, aby sa župné úrady volili každý
+tretí rok. Toto nariadenie sa svojou užitočnosťou tak osvedčilo, že kým
+v ostatných veciach duch času radil k mnohým zmenám, túto slobodu pri
+voľbe úradu slobodného národa otcovia naši zachovali nám nedotknutú, ako
+najbezpečnejšieho strážcu našej veľkej slobody. Ale spôsob vedenia
+modernej správy s množstvom práce líši sa hodne od pôvodnej
+jednoduchosti --- a preto sa treba dôkladne učiť, lebo terajšia správa
+vyžaduje viac času. A tak stavy a páni kráľovstva si žiadali na sneme,
+slávnostne konanom roku 1790, aby jednotlivé úrady boli spravované v
+obciach šesť rokov. Pritom sa nijako neobmedzila sloboda pri voľbe
+úradu, ani sa neporušil záväzok zachovať oddávna potvrdené zákony.
+Dosiaľ je v pamäti zákon, ktorý prináša povinnosť najvyššiemu úradníkovi
+zvolávať volebné zhromaždenia v ustanovených lehotách a stavom a pánom
+užiť práva slobodnej voľby. Som tu na to, aby som túto svoju povinnosť
+svedomite vyplnil, o niečo neskoršie, ako by som si to želal a ako
+nadišla zákonitá doba. Ale myslím, že toto predĺženie nemôže sa mi
+pričítať za vinu a ak nespôsobilo zlo, zaslúži ospravedlnenie.*
+
+*Je tomu práve šesť rokov, čo som z milosti cisárskej namiesto inej
+prijal túto župu, došiel som voľby a z úradnej moci upevnil som úrad.
+Keď obdobie troch rokov uplynulo, blížili sa voľby, hrozili žalostné
+pomery, ktoré velili, aby sa obsadenie úradov predĺžilo. Voľby z
+predošlých rokov ma povolali, osvietené stavy a páni, do verejného úradu
+kráľovstva a k starosti o štát. Keď som všetky tieto veci štastne
+dokončil som tu na tomto mieste, aby som svedomite naplnil povinnosť,
+ktorú mi zákon a kráľ pridelili voľbou verejného úradu. Som tu a na
+prahu preťažkej našej úlohy. Prosím pokorne toho, od ktorého všetko
+dobré pochodí, aby dielo, ktoré začíname, ráčil obrátiť svojou mocnou
+otcovskou pravicou k sláve svojho zvrchovaného mena a na prospech pána a
+kráľa nášho najmilostivejšieho a na všeobecný vzrast blaha. Kým sa
+pripravím pre dnešné dielo, osvietení páni a stavy, ráčte usúdiť, či
+všetko to, čo od posledných volieb tento úrad v časoch tvrdých a
+neistých vykonal, pochodí z duše poctivej a vám priaznivej.*
+
+Na túto obsažnú reč povstal zasa Urbányi a vo svojej podobne rozsiahlej
+reči prosil pána hlavného župana, aby menom celého zhromaždenia prijal
+výraz hlbokej dôvery a lásky a aby ďalej pokračoval v svojom vznešenom a
+bohumilom konaní.
+
+Nato všetky stavy zvolali hlasité: Vivat!
+
+Potom prikročili k voľbe.
+
+Kvôli vlastnému deju musíme už na tomto mieste v krátkosti oznámiť
+výsledok volieb do župných úradov.
+
+Hlavný župan Peter Balogh de Ocsa už vymenovaný vládou ostal naďalej v
+svojom úrade. Prvý vicišpán Jur Radvanský. Druhý vicišpán Ladislav
+Benický.
+
+Sudcovia pre pravoty vyšších: Anton Radvanský, Tomáš Rakovský, Andrej
+Bendík, Ján Radvanský, L. Ostrolúcky a J. Gyürky.
+
+Pre pravoty nižších: Ludvik Zolnaj, Ján Nándory, Ľudovít Fekete, Karol
+Holec, Ján Remenius, Raksanyi a Jankovič.
+
+Radvanský síce zložil svoj úrad a poďakoval sa z tejto hodnosti, dajúc
+na vedomie, že by si už rád odpočinul, ale ubezpečený priateľmi, medzi
+ktorými vyznačoval sa najmä Veselovský, že je ešte so svojimi
+skúsenosťami v župnej správe prepotrebný, prestal sa zdráhať a keď ho
+pri hlasovaní veľkou väčšinou zvolili, tak úrad prijal.
+
+Fekete a jeho priatelia boli sklamaní. Mali už pripravený plán, ako sa
+dostanú k cieľu, keď Radvanský padne. Fekete zaškrípal zubami a z očú mu
+sršali blesky. Pozrel v tú stranu, kde sedel jeho zachmúrený tesť,
+pohrúžený do svojej práce. Fekete bol presvedčený, že Veselovský bol
+tiež medzi tými, ktorí Radvanského prehovorili a ktorí mu pomohli
+zvíťaziť. Ale ešte poraziť i druhého, to je už ťažšie.
+
+Protikandidátom Radvanského bol Benický a po voľbe prvého podžupana
+kandidovali Benického na úrad druhého vicišpána. Tu boli ešte viacerí
+kandidáti, a to Karol Holec, Anton Radvanský a --- Ľudovít Fekete.
+
+Pri vypočutí mien kandidátov ozvali sa nespokojné hlasy a pri
+odovzdávaní hlasov na druhého vicišpána strhla sa taká vrava a
+trma-vrma, že hlasy nebolo možno sčítať a „pre neurčitosť výkrikov",
+tlačenice a nespokojnosti nebolo možno prísť k výsledku. Medzi skupinami
+bolo počuť nespokojné a zlovestné výkriky a nadávky, ktorými sa páni
+navzájom poctili. Z výkrikov bolo rozoznať Holecov a Feketeho hlas. Títo
+rovno žiadali nové voľby prvého podžupana.
+
+Konečne sa hlavnému županovi po opätovnom vyzvaní podarilo natoľko
+utíšiť revoltujúcich pánov, že vypočuli návrh hlavného župana. Radil,
+iste v podobných veciach už skúsený, aby sa prikročilo k výnimočnému
+stavu, pre ktorý je vymenovaná komisia, skladajúca sa z nestranných
+ľudí, aby oni, vzdialení od huku, v užšom kruhu zvolili druhého
+vicišpána.
+
+V komisii boli títo páni: Fraňo, kanonik Molnár, Ján Radvanský, Teofil
+Geramb, Ludvik Ambrózy, Gabriel Justh, G. Šerényi, Ladislav Šembery,
+Jozef Meško, Karol Bogdányi, Ladislav Tóth --- a ako zapisovateľ Pavol
+Veselovský.
+
+Vymenovaní páni sa utiahli do susednej izby a tu vyvolili veľkou
+väčšinou hlasov za druhého vicišpána Ladislava Benického.
+
+Keď sa páni vrátili do dvorany, predstúpil Veselovský, prečítal hlasy a
+oznámil zhromaždeným výsledok voľby.
+
+Stál neďaleko dvier, vážny, akoby sa ho to ani netýkalo, ako zosobnený
+úradník, plniaci svoje povinnosti, neochvejne, neobzerajúc sa ani
+napravo, ani naľavo.
+
+Pred ním skupina nespokojencov a na ich čele Fekete. Stál zachmúrený,
+zosobnená hrozba. Keď doznel Veselovského hlas, ozval sa Fekete a za ním
+jeho priatelia:
+
+--- Hanba, to je výsledok intríg a vyčínania kliky. To nie sú slobodné
+voľby slobodných zemanov!
+
+Veselovský, ešte vždy držal v ruke papier, nevedel sa zdržať a
+nezahriaknuť zaťa, dal sa strhnúť hnevom a rozhorčene zvolal:
+
+--- Mlč, nepodarené, samopašné chlapčisko! Ty si chcel byť vicišpánom,
+ale ani za najposlednejšieho hajdúcha si nie súci!!
+
+V sále bolo hrobové ticho. Každý, i ďaleko sediaci počuli túto
+rozhorčenú urážku, tento výkrik rozhnevaného úradníka, ktorý bráni práva
+celého zhromaždenia.
+
+Fekete sa vypäl a rukou hodil na šabľu. Ale ruka, trasúca sa, ostala na
+rukoväti... Ústa sa mu chveli, tvár, i tak bledá, osinela, oči sršali
+blesky na tesťa, ktorému stál zoči-voči. Chcel niečo povedať, ale
+rozmyslel si, zaťal zuby, zaškrípal a hodil zúrivý pohľad na
+Veselovského. Potom sa zvrtol a odišiel.
+
+Prítomní si vydýchli, ale Veselovský sa zľakol. Nie kvôli sebe, osobne
+sa ho nebál, ale ako videl zúrivca, hneď pomyslel na svoju nešťastnú
+dcéru, ktorá je vydaná tomuto hroznému človekovi na milosť a nemilosť.
+Ó, keby sa ten biednik radšej vrhol na neho!!
+
+Spamätal sa, pristúpil k stolu, vzal z najbližšieho kalamára pero,
+namočil ho a na lístok, ktorý si tiež vzal zo stola, napísal:
+
+*Drahá moja pani! Hneď, ako tento list dostaneš, ponáhľaj sa k našej
+dcére, priveď ju domov a na nijaký pád ju nepusť do Feketeho domu, lebo
+jej ten zúrivec ublíži. Ja ešte musím do zajtra ostať. Paulus V.*
+
+Potom zavolal hajdúcha, čo stál pri dverách a rozkázal privolať hajdúcha
+Martina zo Zvolena. Ten bol tiež v bráne v spoločnosti početných
+panských sluhov, hajdúchov, kočišov a inej čeľade. Na zavolanie vkročil
+do sály, salutoval a postavil sa do pozitúry. Veselovský mu podal lístok
+a rozkázal:
+
+--- Osedlaj si koňa --- a ako len chytro môžeš uháňaj do Zvolena. Túto
+kartičku dáš panej a povedz, žeby vykonali, čo im píšem. Ponáhľaj sa,
+aby ťa pán Fekete nepredbehol.
+
+Martinko vzal kartičku, salutoval a odišiel.
+
+Veselovský, vždy úradník, uspokojený, že vykonal, čo pre svoju rodinu
+mohol, sadol si na svoje miesto, aby vo svojom úrade vytrval až do
+konca.
+
+Veselovský vedel, že Fekete pôjde teraz rovno domov a ako sa dá podľa
+jeho zúrivosti predpokladať, môže sa pomstiť na nevinnej žene. Tomu
+chcel listom čeliť a bol presvedčený, že všetko vykonal, čo mohol.
+
+Po tomto búrlivom výstupe všetko išlo hladko.
+
+Radvanský predniesol svoju slávnostnú, miestami až tuho vlasteneckú reč
+a skončil ju asi v tomto znení:
+
+*Dnešným dňom teda beriem zasa na seba ťarchu, veľmi dobre oboznámený so
+svojimi povinnosťami. Ďakujem za dôveru, ktorú mi preukázali stavy a
+beriem si to ako kalkulus ocenenia mojej práce v minulosti. Tých, ktorí
+ma v tento deň svojimi hlasmi poctili, prosím, aby i v budúcnosti mali v
+pamäti, koho obdarovali svojou dôverou, aby mi, a to pripomínam vážne, i
+v budúcnosti preukázali tú istú dôveru, aby ona priniesla ovocie.*
+
+Zápisnica hovorí, že Radvanského vyvolili jednohlasne, ale sám v svojej
+reči prízvukuje, že to nebolo celkom tak, mal protivníkov, a dobre ich
+poznal.
+
+Radvanský pokračuje:
+
+*Mne je tento úrad známy a starý. Poznám jeho česť a jeho slávu, ale mňa
+ani jedno ani druhé nevábi, lebo pred mojimi očami stojí vždy povinnosť,
+ktorú som prevzal na seba, aby som odstránil ťarchy stránok. Konečne
+prosím všetkých, aby múdrou svojou radou radili, aby lásku a dôveru
+svoju vždy ku mne nestrojene prechovávali a myšlienky svoje mi otvorene
+zdieľali a ja sľubujem, že čo bude možné, všetko vykonám. A tých, ktorí
+pre neprajné zmýšľanie, alebo pre iné príčiny odopreli mi svoje hlasy,
+uisťujem pred celým týmto vyvoleným úradom a slávnymi stavmi, že im
+preukážem svoju dobrú vôľu a priazeň.*
+
+Keď Radvanský skončil, všetci skríkli, lebo odporci sa už vzdialili,
+svoje: Vivat --- a Omnes vivant!
+
+Na druhý deň mali ešte vybaviť niektoré veci, preto pozvali prítomných,
+aby sa ešte k záverečným prácam dostavili.
+
+Ostal ešte i Veselovský, na svoje a svojich veľké nešťastie.
+
+Hajdúch Martinko uháňal na koni cestou do Zvolena, ale ani nádherná
+štvorka Feketeho nelenila. Lebo ako Fekete odišiel zo zasadacej siene,
+odobral sa na svoj byt, rozkázal priahať a ponáhľal sa do Zvolena.
+
+Aj keď sa pekné koníky usilovali, predsa nevládali tak chytro ťahať
+ťažký koč a tak uháňať, ako unášal Martinkov koník mladého šuhaja.
+
+Prišiel teda Martinko hodne skôr do Zvolena a oddal panej lístok.
+
+# Obeť
+
+Faninka prišla domov. Vlastne ona ten dom ani nepokladala za svoj
+opravdivý domov. Ten jej bol ešte vždy u Veselovskovcov.
+
+Od matky prišla s úmyslom, že si ľahne, lebo sa veľmi zle cítila. Bola
+prechladnutá, bolela ju hlava i zuby. I dušu mala chorú a smutnú --- až
+na smrť.
+
+Ale sotva vošla do izby, prišla za ňou matka, pani Veselovská. Bolo na
+nej badať, že je prestrašená čo ako sa chcela premôcť, aby dcéru
+nenaľakala. Pozorne jej oznámila obsah otcovho listu a ani jej nedala
+času nad tým rozmýšľať, už ju obliekla do hodvábneho pláštika a hlavu
+obkrútila šálom. Obe takto prišli do Veselovskovcov.
+
+Tu, doma, sa mladá žena cítila pokojnejšia, iba túžila po oddychu, po
+tichom odpočinku.
+
+Veselovská bola rada, že si dcéru tak ľahko a bez prekážky dopravila
+domov. Ale dlho sa netešila.
+
+Fekete prišiel domov, kone boli ako vyzvárané, ustaté nohy sa im
+triasli. Teraz Fekete na kone nič nedbal, ako zastal koč, skočil z neho
+a rovno do izby.
+
+Pri rachotení koča vyšli na chodbu i Feketeho sestry a matka. Keď Fekete
+našiel izbu prázdnu, surovo zahrešil. Vyšiel von a opýtal sa, kde mu je
+žena?
+
+--- Od rána bola u Veselovskovcov, --- odpovedala nevrlo matka, ---
+potom prišla, a zasa odišla.
+
+--- Prišla po ňu Veselovská, --- referovala Klára. --- Videla som ju cez
+oblok. --- Klára vždy sedela pri obloku a pozorovala okoloidúcich.
+
+--- Dobre! --- odsekol Fekete a tak, ako bol, vyšiel bránou a pobral sa
+cez námestie do Veselovskovcov.
+
+Matka a sestry sa neopovážili opýtať, čo je, čo sa stalo, len sa
+poobzerali na seba a vošli do svojej izby.
+
+Faninka sa práve chcela odstrojiť, keď vošiel. Zľakla sa ho a zľakla sa
+i Veselovská.
+
+Bol milý, usmievavý a láskavý, akoby to ani nebol ten istý človek, čo
+pred niekoľko hodinami vnukol Veselovskému ťažké obavy.
+
+--- Čo to vidím? --- zvolal svojím vábnym, teraz lichotivým hlasom. ---
+Moja žena tu? A vari sa tu chceš i na noc uložiť, há? --- A pri týchto,
+položartom, nežnou výčitkou pohodených slovách vzal nemocnú ženu do
+náručia, bozkával jej čelo, ústa, ruky.
+
+Chvela sa ako slabý prútik v jeho mocných rukách. Jeho láskavosťou bola
+prekvapená a predsa sa ho bála. Pozrela na neho s pokornou prosbou.
+
+--- Ach, muž môj, nehnevaj sa, bola som taká chorá, smutná a slabá,
+mamička ma chcú liečiť, bolia ma zuby, --- hovorí mladá žena.
+
+--- Áno, --- prízvukovala matka. --- Pomysli si, pán zať, taká je slabá,
+veľmi chorá; tejto noci potrebuje starostlivú opateru. Veď azda nič
+nebudeš mať proti tomu, keď túto noc ostane tu? Ráno ti ju privediem
+zdravú, čerstvú, --- dokladá Veselovská, pomýlená zaťovou neobyčajnou
+láskavosťou.
+
+--- Áno, muž môj, cítim, že tu vyzdraviem, --- hovorí chorá. --- A ráno
+mi už bude lepšie. Prosím, nechaj ma tu, len na túto jednu noc!
+
+--- Ale, ale, dušička, čo si myslíš? Akoby som mohol dopustiť, aby si tu
+spala? Kdeže sa podejem bez teba, či som ti ničím? --- hovorí a opytuje
+sa tým naj nežnejším tónom a s jemnou výčitkou.
+
+Faninka hľadí na neho s nepokojom a úžasom. Aký je milý, aký nežný,
+láskavý, už dávno taký nebol.
+
+Fekete vzal Faninkinu ruku, pritiahol ju k pohovke, sadol si a vzal
+svoju mladú ženu tak nežne a pozorne na kolená, akoby bola krehká
+porcelánová figúrka, ktorá by sa mu mohla pri strmšom dotknutí rozsypať.
+Pritom jej hladkal rozpálené líčko, bozkával ruky a kolísal ju ako malé
+dieťa.
+
+Veselovská bola bezradná, ale i ustrnutá a keď pristúpila k dcére, aby
+jej napravila čepček a vlásky, Fekete vzal i jej ruku a bozkával ju
+temer vrúcne.
+
+--- Táto mamička, táto! Aká je starostlivá, či nie, moja maličká? ---
+Fekete pozeral z jednej na druhú svojimi záhadnými očami a lichotil
+ďalej.
+
+--- Ale, mamička mi moju maličkú ženičku kazí, ona nám doma nechce ani
+jesť, a tu jej všetko lepšie chutí, --- obviňoval Fekete testinú ešte
+vždy žartom.
+
+--- Nieže, nie, pán syn, teraz jej vôbec nič nechutí. I kávičku mi pred
+chvíľou nechala a to je predsa jej najmilšie. Nuž a to je prirodzené, že
+každá matka chce ulahodiť svojmu dieťaťu, --- vyhovárala sa Veselovská,
+dobrá matka. Pravda bola, že u Feketovcov nevarili dobre. Varila tam
+stará Marka, a čo navarila, to muselo byť dobré. Tak usúdila stará pani,
+ktorú i syn musel počúvať.
+
+--- Moja, moja biela holubička, --- lichotil Fekete a pozeral Faninke do
+očú.
+
+Oblokami zasvietilo ešte zapadajúce slniečko. Faninka hľadela s
+nevýslovným pocitom bázne, strachu, ale i veľkej únavy na svojho muža.
+Tichúčko zastenala a hľadela sa vyslobodiť z jeho objatia.
+
+Tak i Veselovská stŕpla a nevedela, či má veriť svojim vlastným očiam a
+sluchu, keď videla veľkú nežnosť a láskavosť, keď počula to neobyčajné
+lichotenie a hlas, čo sa vkráda do srdca. Ako sa toto všetko zrovnáva s
+mužovým listom? Či mu azda cestou z Bystrice do Zvolena prešiel hnev a
+zlosť? Nevedela, čo si má o veci myslieť.
+
+--- Len ju nechaj, pán syn, keď je už raz tu. Nechže si odpočinie, je
+slabá a zmorená, veď vidíš, v akom je stave a taká žena potrebuje
+zvláštnej opatery, --- dokladá Veselovská --- potrebuje odpočinok,
+pokojný spánok.
+
+--- Veď to môže mať i doma, však áno, srdce moje? Moja matka sa do nás
+nestará a sestry ani tak, ale keby bolo treba, všetky sú hotové Faninke
+pomáhať. A ja nemám na celom svete inej radosti a potechy, len ju... Nuž
+dožičím jej toľko pohodlia, koľko len sama chce. Tak pôjdeme!
+
+Vstal a nežne ju postavil na nohy.
+
+Mladá žena sa trošku potočila, ale matka ju zachytila. Pozrela prosebne
+na neho a hladkala ho po ruke. V jej očiach zjavili sa slzy a ústa sa
+jej triasli.
+
+--- Bojím sa, --- šepkala.
+
+--- Čoho sa máš báť, keď som pri tebe, blázonko? --- odpovedal muž,
+pritisol ju ľavou rukou k sebe a pravou ju začal štekliť.
+
+Zasmiala sa, ale kŕčovite a z úst sa vydral bolestný vzdych, skorej
+ston. Začala sa brániť, chytajúc mu ruky...
+
+Veselovská sa zľakla, chcela Faninku brániť, ale Fekete sa už i spamätal
+a namiesto šteklenia hladkal svoju ženu nežne, láskavo a hovoril:
+
+--- Pomysli si len, dušička moja, čo by povedali ľudia, keby počuli, že
+mladá Feketyčka nenocovala doma? Rozprávali by, že sme sa vadili, alebo
+že som ti chcel ublížiť. No, pravda, či sa my vadievame?
+
+Fekete pozrel na Faninku a ona ako stroj odpovedala:
+
+--- Ach, nie, my sa nevadíme.
+
+Nevadili sa, lebo Faninka sa neopovážila povedať mu niečo napriek.
+
+Veselovská azda aby zaťa predsa len obmäkčila, doniesla napochytro
+pripravenú večeru a víno. Fekete, držiac stále svoju ženu ľavou rukou
+pri sebe, s chuťou si zajedol lebo už bol hladný. Vypil na dúšok
+niekoľko pohárov vína, ba nútil, aby i Faninka pila z jeho pohára a
+potom vstal.
+
+Na stoličke bol prehodený Faninkin pláštik a šál. Vzal šál a ukrúcal do
+neho mladú ženu. Pritom hľadel úporne na ňu a usmieval sa stále, maznal
+sa s ňou a bozkával ju, kde len mohol. Faninka to trpela, ale ešte vždy
+hľadela na neho s pokornou prosbou.
+
+Veselovská, zachytiac šál za druhý koniec, prosila:
+
+--- Nechaj ju tu, pán syn, už je rozohriata, znova prechladne, bude
+horšie bolieť zúbok. Nechaj ju tu, len túto jedinú noc. Ani nebudem mať
+pokoj, ach, ostaň, dieťa moje.
+
+--- Mamička! --- zvolala Faninka a chcela sa k matke pritúliť.
+
+--- Ale mamička, čoho sa bojíte? --- opýtal sa Fekete a ruku, ktorou
+držala šál, chytil a bozkával dlhými bozkami. Veselovská si odťahovala
+ruku, ale on ju držal svojou mäkkou, vlhkou dlaňou a pokračoval:
+
+--- Ale keď si mamička myslia, že bude lepšie, ak Faninku sami
+odprevadia, nech sa páči s nami; presvedčia sa, že maličkú dobre
+opatríme. Ona sa skôr uspokojí, zaspí a v spaní prejde každá bolesť i
+žalosť.
+
+Veselovskú to nepresvedčilo. Mužove slová jej nedali pokoja. Musel mať
+príčinu, nadarmo by nebol písal ---
+
+Fekete akoby bol uhádol jej myšlienky a nepokoj, povedal:
+
+--- Apuško prídu len zajtra. Museli ostať, bez nich by si páni nevedeli
+rady, --- povedal s prízvukom trpkosti.
+
+--- Mňa nechali padnúť... --- pri tých slovách sa zasmial a v tom
+smiechu znelo už čosi z toho pravdivého človeka, ale pokračoval zasa
+žartom:
+
+--- Ale to nič, veď to oni ešte obanujú, všakver, srdiečko moje. Ideme?
+
+Veselovská zastala im cestu k dverám:
+
+--- Nechoďte. Nechaj mi ju tu, bojím sa o ňu, veď uznaj, pán syn, nikto
+ju tak nechráni, ak matka.
+
+--- Mamička! --- zvolal Fekete, násilne premáhajúc rozčúlenie i hnev.
+--- Faninka je moja. Dali ste mi ju, ak sa nemýlim, dobrovoľne.
+
+Veselovská sklopila oči. Ach, dala mu ju dobrovoľne, to je isté,
+nevydržala Feketeho pošmúrny pohľad, cítila nevoľnosť a žiaľ. Ale Fekete
+pokračoval:
+
+--- A potom, kdeže má byť žena bezpečnejšia ako pri vlastnom mužovi? Či
+nie on je jej prirodzený ochranca, jej zákonitý muž?! Žena prislúcha
+mužovi, on má na ňu právo.
+
+Ostatné slová zneli už ako hrozba, akokoľvek sa ešte usmieval a miernil
+v hlase v slovách. Aby potvrdil svoje ostatné slová, pokračoval:
+
+--- Ona je moja, a nikto nemá práva ju odo mňa odtrhnúť.
+
+Veselovskú tieto slová predesili, zložila ruky a kŕčovite ich lomila. I
+Faninka sa zľakla, ale ani jedna z týchto slabých žien nemala odvahy
+vzoprieť sa násilníkovi. Jedine tak by to bolo bývalo možné, keby bola
+Faninka rozhodne povedala: Nikdy viac k tebe nepôjdem!
+
+Ale mladá žena pozrela len s nevýslovným smútkom na matku a keď ju muž
+zasa nežne a láskavo privinul k sebe, keď ju bozkával na čelo a rúčky,
+sama rozhodla:
+
+--- Nuž, tak poďme, mamička. Veď on je dobrý, hľa, mamička, aký je milý,
+láskavý --- a pohladkala si muža nežne po tvári.
+
+Veselovská vzdychla. Bola premožená. On má právo na ňu, nie ona. Dala mu
+ju dobrovoľne, veru áno, dobrovoľne, ba temer s radosťou... Ach, keby
+len bol doma otec! Len prečo, prečo všetko tam nenechal a neprišiel ---
+ona, matka, nevie si poradiť...
+
+--- Tak mamička vidí, že Faninka má rozum, ona ma veľmi, veľmi miluje,
+--- chlúbil sa úškľabkom.
+
+Čo ako nechcel, predsa bolo v tých slovách i niečo irónie.
+
+Faninka sklonila hlávku a zbledla. Vedela, ako jej muž nemôže odpustiť,
+že poľutovala úbohého Mikuláša.
+
+Fekete znova ovinul šál okolo Faninky a matka jej pomáhala ešte i
+pláštik založiť. I na seba prehodila Veselovská veľkú šatku a pobrala sa
+za mladým párom. Bolo jej smutno, veľmi smutno, hoci si v duchu
+opakovala: nemožno, aby jej ublížil, veď aký je milý, láskavý, nežný a
+potom, veď vie, čo Faninku čaká...
+
+Celou nedlhou cestou cez námestie bol zhovorčivý a sľuboval Faninke, že
+na jar pôjdu cestovať. Ale ona s hanblivým úsmevom vravela:
+
+--- Ach nie, ja vtedy nebudem môcť cestovať, mňa tu bude držať náš malý
+anjelik.
+
+A pri pomyslení na to, čo ju očakáva, utíšila a uspokojila sa. Verila,
+že jej toto dieťatko už bude žiť a posvätí mu svoj život.
+
+Blaženým úsmevom pozrela aj na muža aj na matku. V tej chvíli podobala
+sa Madonne, aké maľujú nadšení maliari. Veselovská videla v svojej dcére
+vždy novú krásu a srdce sa jej chvelo radosťou i žiaľom a pozerajúc na
+chrám, čo bol opodiaľ, vzdychla si: Svätá Matka Božia, chráň moje dieťa!
+A prežehnala sa svätým krížom.
+
+Keď vošli do brány Feketovie domu, pocítili silný zápach harmančekového
+odvaru a akejsi silice. V bráne stretli sa s najmladšou Feketeho
+sestrou, so Ziou, ktorá ich vítala a jej úbohá, nepekná tvár skrivila sa
+úsmevom, ktorý mal byť milý.
+
+--- Ktože je chorý? --- opýtala sa Veselovská.
+
+--- Maminka majú kŕče a bolí ich hlava, --- povedala Zia nedbale.
+
+--- Iste si pokazili žalúdok, --- poznamenal Fekete posmešne. A už
+otváral dvere naľavo, vedúce do izby, v ktorej s Faninkou bývali. Teraz
+mali len tieto izby, tamtie na poschodí boli cez zimu neobývané. Stará
+pani nedovolila, aby sa tam kúrilo.
+
+Izba, nie veľmi široká, skôr dlhá, bola pekná, sklepená. Obloky na ulicu
+zamrežované, ako v tom čase všade. Teraz už boli v nich kvety v pukoch,
+medzi nimi i malý kriačik rozmarínu.
+
+Zdnuky viseli biele vyšívané záclony.
+
+Náradie vzácne, ale nie jedného slohu. Bolo toho tu toľko, koľko sa len
+spratalo a všetko potrebné veci. Na jednej stene povešané staré,
+cudzozemské zbrane, i tunajšie nové. Na kasni hodiny cudzej práce a iné
+pamiatky z Feketeho ciest. Na druhej strane, na tej od brány, bola veľká
+kachľová pec, ktorá sa zvonku kúrila a pri nej starý, azda už
+dvestoročný kozub. Pri kozube lavička peknej práce. V kozube horel oheň,
+pec bola teplá. Okrem niekoľko kasní boli tu dve postele, na prostriedku
+okrúhly stôl a na ňom porozkladané písma a knihy. Kníh a písem nesmel sa
+nikto dotknúť.
+
+Faninka vkročila do izby, ale hoci v nej bolo teplo, zamrazilo ju. Bolo
+tu troška dusno a vlhko. Fekete ako vkročil zhodil čiapku a potom
+dolomán na posteľ. Odpásal si šabľu a položil ju na stôl na písma.
+
+--- No tak, hrdlička moja, teraz sme už doma. Vidíš, tu je teplúško, tu
+je dobre, hneď si môžeš ľahnúť do svojej bielej postieľky a keď zaspíš,
+prestane všetka bolesť. Hľaďže, mamička ti pomôžu a sestry ťa obslúžia.
+
+Zia ešte vždy stála pri dverách a dívala sa na brata, akoby ho teraz po
+prvý raz videla. Takého ho nepoznala, veď v dome nemal pre nikoho
+nežného a láskavého slova. A teraz, ako sa rozplýva v ľúbezných slovách!
+Veru, táto i tak nie pekná deva, bola v tom nemom údive rovno špatná a
+akoby hlúpa. A jej údiv sa stupňoval, keď videla ako brat otvoril tašku,
+ktorú kočiš doniesol z koča, vyňal z nej cukrovinky, u Feketovcov
+nevídané a po jednom ich pchal trpezlivej Faninke do úst. Tu úbohá
+sestra nevedela, či sa jej to sníva a či sa jej ináč vždy spurný brat
+tak premenil?
+
+--- No, čo tu stojíš, a dívaš sa, ako...?! --- osopil sa na ňu brat, keď
+sa obrátil k sestre a videl ju tu stáť, ako zosobnený úžas. Jeho tvár sa
+razom premenila, keď rozkazoval:
+
+--- Nestoj tu! --- povedal miernejšie, lebo si uvedomil, že Veselovská a
+Faninka hľadia na neho. --- Choď do kuchyne, pripravte horúci punč s
+citrónom a s rumom, ponáhľaj sa! --- povedal a zaškaredil sa na ňu.
+
+Dievča vybehlo z izby, ani nevedelo ako. V kuchyni rozprávala Kláre, čo
+skúsila v Lajošovej izbe.
+
+Faninku uložili do postele a Veselovská si prisadla k nej, držala jej
+ruku v svojej. Ako rada by presedela takto pri svojom dieťati celú noc.
+
+Fekete otvoril zásuvku kasne a prehŕňal sa v rozličných väčších-menších
+skrinkách. Našiel, čo hľadal. Bol to prsteň s pekným opálom. Pritom vždy
+hovoril tu žartovne, tu veselo a lichotil žene i matke. Prsteň priniesol
+k Veselovskej a ukázal jej ho. Veselovská obdivovala krásny opál. Fekete
+zažal hrubú vysokú sviecu v striebornom svietniku a pri jej svetle spolu
+obdivovali hru farieb, ktorú vyvolal mihotavý plameň sviece.
+
+Potom položili sviecu na stôl, a keď mu Veselovská podávala prsteň, vzal
+ho a chytiac Veselovskej ruku, natiahol ho na jej prst.
+
+--- Maminka má krásne ruky, len trošku zrobené. Nepristane ten prsteň na
+mamičkinu ruku? --- opytoval sa Faninky, ktorá už-už zatvárala očká. A
+pritom opätovne bozkal Veselovskej jednu i druhú ruku.
+
+--- Ach, opál, --- povedala Veselovská prekvapená, ale i nemilo
+dotknutá. --- Opál prináša ženám žiaľ a bolesť, vezmi si ho, pán syn,
+opál nemám rada.
+
+Ale Fekete prsteň už neprijal.
+
+--- To bude na pamiatku dnešného večera, --- povedal.
+
+Prišli obe sestry a priniesli na tácni poháre s horúcim punčom i
+piškóty. Fekete ako domáci pán veselo častoval matku i dcéru. Faninka
+hneď začala driemať, ako malé dieťa, uspokojila sa a tichým úsmevom
+zaspala.
+
+Veselovská sa zohla nad ňu, šepkala vrúcnu modlitbu a bozkala ju.
+Faninka ešte raz pozrela a v polospaní povedala:
+
+--- Mamička, nech ma prežehnajú. --- Matka to i urobila a hľadiac na
+dcéru, stála tu, nemohla sa od nej odtrhnúť.
+
+Fekete už držal veľkú šatku, aby ju založil testinej na plecia. Zbadala,
+že si žiada, aby už odišla. Myslela si, že je ustatý, iste mnoho skúsil
+tento deň, chce si odpočinúť. Nemožno, aby Faninke ublížil.
+
+Pozrela na neho i na spiacu dcéru. Čo videla, ju uspokojilo. On,
+dokonalý gavalier, nežný a láskavý manžel, nie, nemožno, aby tejto
+svätici ublížil.
+
+Pošla k dverám, ale ešte odtiaľ sa vrátila pobozkať ružovú tváričku
+milovaného dieťaťa. Aká bola Faninka v tú chvíľu krásna!
+
+Ale už tu stál Fekete a čakal, kedy pani matka odíde. Ako Veselovská
+vyšla, vyšiel i zať a zamkol za sebou dvere. Ešte ju ponúkol, aby šla
+pozrieť matku.
+
+Stará pani už ležala v alkovni. V izbe bolo svetlo, svieca na stole a
+pri stole sedeli obe dcéry.
+
+Z alkovne ozval sa hlas starej ženy:
+
+--- Ktože je?
+
+--- Ja som to, pani matka. Odprevadila som Faninku a teraz idem domov.
+Len som prišla kuknúť, ako sa majú? --- hovorí Veselovská, pokročiac k
+dverám alkovne.
+
+--- Nuž, akože by som sa mala? Zle sa mám, --- odpovedala stará pani.
+--- Zasa ma tá kolika trápi, som len nešťastná osoba! --- žalovala sa
+chorá. --- A oni čo, pani matka?
+
+--- Prišla som s Faninkou, chudinka, je akási slabá, --- hovorí
+Veselovská.
+
+--- Ach, čože tam slabá, rozmaznaná je, nech prepáčia, pani matka, ale
+čo je pravda, je pravda, rozmaznali si ju. Pravda, jedináčka, veď by oni
+vychovali deti, keby ich bolo zo šesť, ako som ja, psota, mala.
+
+--- No, nejdem ich už dlho unúvať, dobrú noc, pani matka! --- povedala
+Veselovská a šla k dverám.
+
+--- Dobrú noc, --- ozvalo sa z perín...
+
+Veselovská šla na ulicu. Až potiaľ ju vyprevadil zať. Ako odišiel,
+pribehla za ňou Klára a chytila Veselovskú za ruku.
+
+--- Odprevadím ich, --- povedala. --- Musím ísť k Mamojčíčke, ---
+vyhovárala sa. Veselovská dobre vedela, že Klára má niekde dostaveníčko,
+ale nepovedala nič.
+
+Bola už noc, keď Veselovská prišla domov. Radšej by sa ešte bola
+vrátila. Všade jej bolo pusto, prázdno. Ani po Františkinom vydaji
+necítila tak jej neprítomnosť ako teraz. Uvedomila si všetko, čo sa dnes
+prihodilo. Nemala ju pustiť od seba... Len keby už bolo ráno, aby
+videla, že sa minulo nebezpečenstvo, ktorého sa otec bál. Veselovská si
+ľahla a po dlhom bdení konečne zaspala.
+
+Ulice i tak prázdne, boli pusté. Drobný dáždik sa púšťal, zem voňala
+jarou. Noc bola tichá a tmavá.
+
+Vojenská stráž, ako vždy, chodila popred rady domov.
+
+Jeden vojak vo svojom ťažkom vyzbrojení kyrasíra strážil rad, kde stál
+radný dom. Jeho krok ani nebolo počuť po nedláždenej zablatenej ceste,
+povedľa záhradiek, ktoré si mešťania znova opravili a obrobili.
+
+Okolo jedenástej, prechádzajúc popred Feketovie dom, počul krik a plač
+rozlievať sa z domu. Potom bolo počuť akoby padanie akýchsi ťažkých
+predmetov a buchot na dvere. „Rata, ľudia!" ozval sa zúfalý ženský
+výkrik. Vojak zastal, načúval. Mal rozkaz pri podozrivom huku vojsť do
+domu obyčajného mešťana. Zemiansky príbytok bol spopod toho rozkazu
+vylúčený. No, mal právo i tu násilne vymáhať si vstup do domu, keď
+počuje tri razy zavolať: rata, alebo: pomoc. Načúval. Krik neustával a
+ešte počul: rata!
+
+Potom nasledovalo ešte buchnutie, ako keď sa niekto vráža do dverí.
+Vojak zabúchal na vráta a zavolal: „Otvorte!" Ale z domu sa neozval
+nikto. Čakal, počul, že ktosi prebehol bránou, i jedny dvere vrzli,
+počul i bosé nohy capkať po skalách, ale nikto mu nešiel otvoriť. Postál
+ešte chvíľku, a keď sa po tretie neozval výkrik, volajúci pomoc, šiel
+ďalej. Myslel si, vadili sa, teraz sa už pomerili... Oblokmi nevidel
+nič, len tak, akoby kdesi vo dvore prebehlo svetlo; videl to cez škáru v
+bráne.
+
+Ale na druhom boku zablyslo sa malé svetielko. To už bola stará Marka,
+keď prišla so sviečkou z kuchyne do paninej izby.
+
+Zia sa už skorej zobudila a volala v tme:
+
+--- Maminka, maminka, či nepočujú, Faninka plače a volá.
+
+--- Čože má plakať? Iste ju bolia tie zuby, veď to tak býva, --- dudre
+stará.
+
+Z dvora prišla i Klára. Domov sa dostala dvermi v múre, ktoré viedli zo
+záhrady do poľa „za múry". I tá hovorí:
+
+--- Ale, maminka, Faninka veľmi kričí, treba ísť pozrieť, čo jej je.
+
+--- Nestaraj sa, ľahni si, kde si sa zasa túlala? --- šomre stará. Stará
+Marka a obe dievčatá stoja pri dverách a načúvajú: Mariša hovorí:
+
+--- Musí zle byť, darmo by tak mladá pani nekričali. A ešte: rata!
+
+--- Už je ticho, --- povie Klára.
+
+--- Ľa, už je ticho. Mazne sa, keby jej tu hneď mamička bola a boľavé
+miesto fúkala, --- šomre stará. --- Iste sa povadili, Lajo prišiel domov
+namrzený a niečo jej povedal, nuž a ona hneď do plaču. Viem to zo
+skúsenosti. Ale medzi manželov sa netreba miešať, lebo muž so ženou, ako
+deti pod stenou. A teraz spať. Zasa sa mi noc pokazila.
+
+Mariša odchádza zasmušená do kuchyne, dievčatá uzimené, keď sa
+presvedčili, že na druhej strane všetko stíchlo, vošli do svojich
+postelí.
+
+Ráno stará pani dlhšie spala, ani dievčaťom sa nechcelo vstať, len
+Mariša chodila znepokojená po dome. Proti obyčaji sa Fekete nehlásil,
+nebolo ho počuť ani v izbe, ani na dvore hrešiť sluhov a obzerať kone.
+
+Osmelila sa, klopala na zamknuté dvere, ale z izby sa jej nikto
+neohlásil. Vojde k panej a ku slečnám.
+
+--- Tí mladí akosi dlho spia, pani urodzená! --- hovorí verná slúžka s
+istou starosťou.
+
+--- Nuž, keď spia, tak ich nechaj spať, --- odvrkla stará pani, ktorá
+bola obyčajne za rána zlej vôle.
+
+--- Ale to je proti ich zvyku, --- dôvodí Mariša.
+
+--- Nuž, zaklop im na dvere, --- radí pani.
+
+--- Už som urobila, keby ešte pani urodzená oprobovali.
+
+Pani sa dvíha a stone:
+
+--- Ešte toto mi chýbalo, nemám dosť trápenia a ešte nejaká nepríjemnosť
+ma čaká.
+
+Šomrajúc sa obliekla, ide k dverám, Mariša a dcéry za ňou, klope na
+dvere a volá:
+
+--- Lajoš, Lajoš, či ešte spíte? Čože nevstávaš? Počuješ? Ohlás sa.
+
+Z izby nič. Teraz chápe, že je tam čosi v neporiadku. I ľudia sa
+zastavujú na ulici.
+
+--- Pani urodzená, zavolám pána Langeho, pána suseda.
+
+A už beží. Medzitým, ako na zavolanie, zastavil sa tu i sused Róth,
+zeman, a podľa toho bol s Feketovci spriatelený. A prišiel aj Samuel
+Huszágh.
+
+Títo páni spolu s kupcom Karolom Langom, najprv búchali na dvere a keď
+to ostalo bez výsledku, vypáčili dvere násilím.
+
+Medzitým ktosi zavolal i mestský úrad a oficierov.
+
+Dvere boli zdnu zabarikádované. Keď sa pánom podarilo odtisnúť prekážku,
+zhrozili sa nad tým, čo hneď pri dverách videli. Pri samých dverách kopa
+perín a v perinách v krvi ležala zakutaná mŕtva Faninka Veselovská. Mala
+veľa rán od šable, ruky, ktoré sa chytali šable, aby odrazili údery,
+boli dorezané a ako sa ešte bránila a utekala k dverám, chytala sa dvier
+a steny, tade bolo poznať dlaň i prsty úbohej, do smrti umučenej ženy.
+Desný to bol pohľad na mladú ženu a matku. Život mala rozpáraný a zo
+strašnej rany vyzerala malinká rúčka dieťaťa...
+
+Na stole, na rozložených písmach, bola dokrvavená šabľa. Divnou náhodou
+bol práve na tom istom mieste dokument, listina z pravoty Jakuba Švarca.
+Tu bola i listina, kde stálo: \<lang LAT\>„Deliberatus est".\</lang\>
+
+Tieto listiny s uschnutou krvou na nich sú zachované v stoličnom
+archíve.
+
+Stoličky boli porozhadzované, aj iné náradie v neporiadku, všade stopy
+zúfalého zápasu.
+
+Lange a Huszágh boli prví, ktorí vkročili do izby, za nimi vošli
+oficieri, úrad a potom i nepovolaní svedkovia tejto hroznej tragédie.
+Páni hľadali vraha. Sedel v kúte pri kozube na lavičke. Bol
+polooblečený, vidno, že ani nespal. Len kabát, atilu, mal vyzlečený, ale
+nohavice, čižmy a na nich strieborné ostrohy, mal ešte na sebe. Rukávy
+na košeli vysúkané, ruky i košeľa zakrvavená. Vlasy mu viseli v
+neporiadku do bledej a nadúchanej tvári. Oči pozerali pred seba s
+otupeným výrazom. Ani sval sa nepohol na jeho nabubrenej tvári.
+
+Lange, ako videl, zvolal:
+
+--- Človeče, čo si to urobil!
+
+--- Keď si zeman, čo si už i seba nepreklal tou šabľou? --- povedal
+Huszágh.
+
+Vtedy Fekete si s nožnicami na papier pichal poza nechty a povedal
+hlasom tupým, neprirodzeným:
+
+--- Ja nie! --- a na slová Huszághove: ---
+
+--- Keď to bolí.
+
+Od dvier sa ozval akýsi hlas:
+
+--- A túto to nebolelo, ty mordár, jaj, vyvliecť ho, obesiť ho!
+
+Richtár Vachot predstúpil:
+
+--- Ticho, tu má právo hovoriť len úrad.
+
+Ale brána sa naplnila ľudom, ktorý hrozivými slovami dobíjal sa dnu.
+Oficieri zastali pri dverách a bránili prístup do izby.
+
+--- Nabok, povedal jeden z nich. Na kamennej dlažbe bolo počuť ťažké
+kroky vojakov. Jeden z nich komandoval, aby obstúpili a chránili vraha.
+
+Už to bolo veľmi potrebné, lebo rozhorčený ľud kričal:
+
+--- Dajte ho sem, bezbožníka, diabla, vyvlečte ho, zabite ho ako psa!
+
+Iní zasa:
+
+--- Obesiť ho, hoci je zeman!
+
+Lange, ktorý bol medzi ľudom obľúbený, pokúsil sa krotiť rozľútený dav.
+
+--- Ticho, ľudia boží, nechajte súdiť tých, ktorým súd patrí. Nebojte
+sa, aj jeho budú súdiť! Aj na neho je zákon!
+
+--- Zákon?! --- kričí jeden z chudobnejších mešťanov. --- Pamätajte,
+tomu sa nič nestane! Lotor, zbojník, ale my, my bedári, musíme smrť
+smrťou zaplatiť!
+
+Vtom počuť nárek, a pomedzi ľud sa prediera Veselovská, nasledovaná
+svojimi služobnými.
+
+Prostovlasá, ako bláznivá, s krikom a plačom vbehla do brány. Ľudia, čo
+ju poznajú, ustupujú, niektoré ženy hlasným nárekom vítajú nešťastnú
+matku a vykrikujú kliatby na hlavu vrahovu.
+
+Nešťastná mať hodila sa na bezduché, dorúbané telo dcérino. Kričí v
+sebaobviňovaní:
+
+--- Dieťa moje, ja som ti príčina: Oh, že som ťa dala tomu zbojníkovi,
+aha, a ešte mi, ako na posmech, dal opál, že na pamiatku. Tu ho máš ---
+a zahodila v tú stranu, kde stál Fekete, prsteň...
+
+Pristupujú k nej panie, jej známe, s úprimnou sústrasťou a hľadia ju
+potešiť.
+
+--- Beda, jaj beda mi, nešťastnej, čo povie otec, veď si nám ty bola
+jediným potešením, svetlom našich duší!
+
+Všetci s ustrnutím hľadia na úbohú matku. Jediný Fekete, obklopený
+vojakmi, chránený oficiermi a radnými pánmi, stál bez pohnutia,
+ľahostajný, akoby sa ho celá táto vec ani netýkala.
+
+Prišiel i mestský fyzikus, obzrieť mŕtvolu. Nebolo ťažko odhadnúť
+príčinu ani spôsob smrti... Rozkázal previesť mŕtvolu do rodičovského
+domu.
+
+Radní páni prezreli ešte izbu. Vzali zo stola šabľu a rozhádzané písma.
+Pre nebezpečenstvo, žeby nemali dosť moci odviesť vraha do mestského
+domu, prijali návrh dôstojníkov, že ho odvedú pod vojenskou strážou do
+zámku. Vtedy zámok už nepatril privátnej rodine, ale korune.
+
+Dôstojník komandoval:
+
+--- Zviažte ho, a odveďte do zámku!
+
+Kapitán holou šabľou kliesnil cestu. Ľud ustupoval ako skrotená šelma,
+hotová hodiť sa na korisť. Ľud nenávidel vraha i vtedy, kým sa vozil na
+štvorke a nenávidel ho i teraz.
+
+Za vrahom niesol poddôstojník zakrvavenú šabľu.
+
+Za nimi ešte vždy rozčúlený zástup, ktorý cestou do zámku rástol.
+
+--- Hľa, ešte mu dajú aj telesnú stráž, aby mu nikto neublížil!
+
+--- Hej, veď na neho neplatí zákon: oko za oko, zub za zub!
+
+--- Oni nás smú hanobiť, naše dcéry a ženy prenasledovať, oni smú
+zabíjať, vraždiť.
+
+--- Ticho, vedú ho do zámku!
+
+--- Ej, veď náš starý zámok, ako stojí, nemal ešte takého väzňa, ako je
+tento. A ten už videl národa, čo sa v ňom premlel, všakového.
+
+--- Ale taký lotor ešte v ňom nebol.
+
+--- Nabok, ide pohreb, --- zvolali prední zo zástupu.
+
+Pohrebný sprievod šiel práve proti tomuto nie menej smutnému sprievodu.
+A ako sa oba sprievody stretli, a tí, čo niesli rakev, troška zastali,
+vyskočil Fekete, vytrhol sa z rúk vojakov, kopol do jedného z nosičov.
+Chcel do rakvy, ale ju nezasiahol...
+
+A teraz sa zástup hodil na vraha. Málo chýbalo, že ho nedostali do rúk,
+len veľkému úsiliu vojenskej moci sa podarilo obrániť ho pred rozzúreným
+ľudom. Ináč by ho boli lynčovali.
+
+Konečne sa dostali do zámku. Keď sprievod prešiel prvou bránou,
+zatvorili ju, ľud ostal vonku a vraha odviedli do väzenia.
+
+V dome nešťastia radní páni čo tam ostali, bránili prístup do izby.
+Medzi tými, čo sa ešte predrali dnu, bola Mamojčíčka, na chrbte so
+Zuzkou. Zuzka sa spustila na zem a ľahla si k Faninke, skrčiac sa ako
+verný psík. Pri tom kvílila spevavým hlasom, nariekala a rozprávala, že
+ona to vedela, že ten, čo škrtí a kántri cudzie ženy, raz zabije i svoju
+vlastnú.
+
+Veselovská už ani plakať nevládala. Bola ako umučená. Len kedy-tedy
+vykríkla v zúfalom žiali, potom upadla do kŕčov. Ťažko skúšanú matku
+obstáli panie, potom ju odviezli na koči domov. Fyzikus jej dal nejaký
+liek a tak sa dala odviesť.
+
+Kým písali zápisnicu, panie sa postarali, aby Faninkinu mŕtvolu
+previezli do rodičovského domu. Vyložili ju na Feketovie koč, ostatný
+raz ju odviezli kone, teraz už vysilené a skazené.
+
+Radní páni na čele s richtárom Vachotom, Dušekom a inými, ako aj s
+prvými svedkami odhalenej vraždy, prezreli izbu, kázali vyniesť, čo
+súviselo s Faninkinou smrťou a potom ju zatvorili, dvere zapečatili.
+
+Stará Feketová po prvom ohromení a niekoľkorakom výbuchu žiaľu nad
+svojím nešťastím, sa skoro spamätala. Ako videla, že radní páni idú izbu
+úradne zatvoriť, požadovala si veci, ktoré údajne patria jej. Niečo si
+hneď pobrala, ale iné úrad nedovolil odniesť. Bolo v tej izbe mnoho
+vzácnych vecí, o ktorých sa napísal inventár. Podľa neho vidno, že vrah
+mal veľmi cenné, z cudziny pochádzajúce predmety, najmä zbrane.
+
+Na pohreb Františky Feketovej dostavilo sa panstvo z celej Zvolenskej
+stolice a nakoľko bolo možné pre krátkosť času, prišli aj páni z
+blízkych stolíc. Pohreb bol na tretí deň po smrti úbohej mladej
+panej, 1. apríla roku 1808.
+
+Veselovská ležala chorá v ťažkej horúčke. Chvíľkami bola pri povedomí a
+vtedy jej plač a nárek bol srdcervúci. Ináč blúznila a v tých bludných
+predstavách videla svoju dcéru v rozličných podobách a veku. Zavše z
+kŕčovitého plaču upadla do kŕčovitého smiechu. A to bol vždy najvyšší
+stupeň choroby, ktorého sa i lekár i domáci obávali.
+
+Pohrebný sprievod bol taký veľký, že obyvatelia Zvolena, ani tí
+najstarší, o takom návale ľudstva neslýchali a ešte mnohé roky spomínali
+aj detné deti na tento smutný sprievod.
+
+Pri hlavnom vchode do rímskokatolíckeho chrámu musel sprievod zastať,
+kým rakvu, ozdobenú kvetmi a vencami vniesli páni zemani vo svojich
+smútočných, ale i tak nádherných úboroch do kostola. Stisk bol veľký a
+aby sa sprievod mohol obrátiť, hneď pri dverách smerom ku kaplnke, do
+krypty ktorej mali rakvu uložiť, zastali tí, ktorí šli za rakvou.
+
+Pri samých dverách tesne opretý o stenu stál starý, biedny, šedivý a
+otrhaný žobrák. Ako sprievod zastal, Veselovský bol rovno vedľa žobráka.
+
+--- Pán veľkomožný, ich milosť --- prehovoril žobrák.
+
+Veselovský ako z ťažkého sna zobudený, pozrel na žobráka.
+
+--- Teraz sme si rovní, --- pokračoval žobrák a smutne potriasol hlavou.
+
+--- Áno, Ondro, rovní v ťažkom zármutku.
+
+--- A, pán veľkomožný, tak, ako je Boh na nebi, tak je to istá pravda,
+že ruka, ktorá vašu prekrásnu dcéru pripravila o život, skazila i moju.
+
+--- Ale, amice, mňa darmo obviňuješ, ja som jej nie na vine, urobil som,
+čo som mohol --- ale tá istá ruka ---
+
+Ostatné slová sa už stratili v šume, ktorý povstal v zástupe.
+
+Za rakvou kráčal poviazaný vrah. Za pokutu nedovolili mu ani sa
+preobliecť, ani umyť. Jednu ruku mal uviazanú za chrbtom, druhú o šabľu,
+ktorú musel niesť na pleci. Šiel tak, ako ho našli v to ráno v izbe,
+uhorské spodky, čižmy s ostrohami, jemnú košeľu, ale roztrhanú, s
+rukávmi vysúkanými. Ako bol neumytý, neučesaný, vzbudil u každého odpor
+a pocit hrôzy. Lebo to, čo bolo pri ňom pútavé a milé, to bolo len
+strojené, naučené, jeho opravdivé ego ukázalo sa teraz v celej svojej
+úbohosti a zvrhlosti.
+
+Keď sa zástup preriedil, vystúpil i Ondrej-žobrák zo svojho kútika a
+hovoril sám sebe:
+
+--- Tak, tak, rovní --- a nerovní. Túto pochovajú so všetkou jej
+príslušnou slávou, a moju zahrabali kdesi v kúte nad harajchom. Túto
+vložia do krypty, a moja leží na mieste, kde nájdu miesto len pohanení,
+nepoctiví. Tejto zahučí organ, zazvonia zvony a nábožný spev rozlieha sa
+chrámom, nad hrobom môjho dieťaťa len meluzína zaskučí, vietor zaveje a
+ak kedy-tedy zaspieva bludné vtáčatko. Tu vence a kvety, tam len bodľač
+a hložina. Padajúce lístie zakryje hrob, o ktorom onedlho nebude ani
+chýru, ani slychu.
+
+Obzrel sa ešte na chrám, odkiaľ odznievali ostatné akordy organa. Ľudia
+začali vychádzať a Ondrej pomaly, ďalej si šepkajúc svoje dojmy, poberal
+sa von z mesta, do svojej rodnej dediny.
+
+Tichý jarný dáždik spúšťal sa na zem. Jar sa zasa dostavila, práve ako
+teraz rok, stromy pučia, trávička rastie, všetko sa zasa berie do nového
+života. Bolo chladno, vetrno, ako vo Zvolene v tento čas býva a Ondrej
+sa triasol zimou, utrpením a možno aj hladom.
+
+Nasledujúcu noc občanov malej dedinky Bacúrova vzbudila žiara ohňa. Kraj
+dedinky stála chalupa, vlastne donedávna čistý domček, v ktorom kedysi
+panovala zhoda a láska. Teraz opustená chalupa horela ako svieca v
+tmavej noci a na hasenie sa nedalo myslieť.
+
+Na druhý deň medzi dymiacimi hradami našli zuhoľnatené pozostatky
+Ondreja Skubíka. Hlavu mal položenú na pravý bok, pod ňou ruku a v
+zaťatej ruke kusy šatôčky, presiaknuté Madlenkinou krvou.
+
+# Súd
+
+Ťažká úloha pripadla zvolenským pánom, súdiť vraha vlastnej ženy, o to
+ťažšia, že vrah bol zo zemianstva, z tých, ktorí mali osobitné práva v
+živote i pri smrti. Keby šlo o človeka z inej triedy ľudí, čo hneď o
+mešťana, o poddanom ani nehovoriac, siedmim pánom sudcom nebolo by ťažko
+vyniesť výrok smrti. Ale pri tomto vrahovi stáli veci celkom ináč. Tu
+treba uvážiť všetko, čo sa prihodilo skôr a treba uvážiť duševný stav
+človeka, ktorý bol schopný vykonať taký ukrutný, diabolský čin.
+
+Páni boli bezradní. Nevedeli, ako a z ktorého konca začať. Radili sa
+zvolenskí páni, radili sa i stoliční a zasa sa radili spolu. A uradili
+sa, že ho pošlú pod silnou vojenskou eskortou do Budína k samému
+palatínovi, ako najvyššiemu sudcovi v krajine. Ale tento vysoký pán, keď
+dal preskúmať všetky akty, poslal delikventa zasa pod takou istou
+eskortou nazad, aby ho súdila najprv stolica, kde patrí. Potom ho
+poslali do Hontianskej župy, aby ho, ako príslušníka tejto stolice,
+súdili tam. Ale slávna Hontianska župa odoprela súdiť tohto človeka,
+dôvodiac, že do Hontu nepatrí.
+
+Veselovský dostal mnoho prípisov sústrasti od veľkej väčšiny pánov
+zemanov, lebo bol všeobecne vážený a ctený. Začiatkom apríla písal mu
+list aj Leopold Bendík, plný vrelej sústrasti a ponúka Veselovskému
+svoju pomoc pri zastupovaní v pravote proti vrahovi.
+
+Bendík napísal adresu Veselovského v celom znení a kvôli pochopeniu tých
+čias podávame ju tiež v úplnom znení:
+
+\<lang LAT\>*Spectabili ac perillustri dom. Paulo Veselovský,
+sacratissimae Caesareo-Regiae ab Opp. Majestatis Ord. Dominiorum Regio
+Montanorum Zólyom et Dobroniva Fiscali Procuratori Consiliarii Cottum
+kor. Judicis Assesori Domino Comitatu.*\</lang\>
+
+Za Feketeho obhajcu ponúkal sa lučenský Ján Gyürky, zať Petra Balogha.
+Gyürky sa všemožne usiloval, aby Feketeho oslobodili. Vyhováral ho, že
+ťažko urazený pred celým slávnym stoličným zhromaždením, pohnevaný,
+rozhorčený, bol nepríčetný a preto nie je zodpovedný za skutok, spáchaný
+v nepríčetnom stave.
+
+K tomuto poslednému argumentu by sa mohla pripojiť i mienka hodnoverných
+ľudí, ktorí prví vnikli do izby, kde bola vražda spáchaná. Slávna
+stolica predvolala týchto pánov, aby pod prísahou vypovedali, čo videli
+a v akom duševnom stave bol vrah v momente, keď otvorili izbu. Títo
+mužovia: Karol Lange, ako najbližší sused a Samuel Huszágh, zvolenskí
+obyvatelia, vypovedali, čo vedeli, ale i tak sa vec nepohla, lebo ako
+vidíme z výťahu jedného dokumentu jeden súd podával pravotu druhému.
+
+Začiatkom októbra roku 1808, teda pol roka po vražde, dochodí
+Veselovského otázka v akom štádiu je táto pravota. Veselovský nežiadal
+nič z pozostalosti svojej dcéry, ba podrobil sa aj zaťa vydržiavať.
+Akokoľvek by mu už bol odpustil, no bál sa ho, ako nebezpečného človeka.
+
+Na kongregácii spomenutého dňa prečítali kráľovský prípis vo veci
+Feketeho a z neho vyzdvihli otázky onoho „milostivého dekrétu", a to:
+
+a\) Aký je vecný podklad prípadu Ľudovíta Feketeho?
+
+b\) Čo sa spravilo s delikventom?
+
+c\) Či sa začal proces proti nemu a kedy?
+
+d\) Čo je hlavným jadrom tejto pravoty --- a konečne
+
+e\) v akom je štádiu?
+
+V tom istom písme ako odpoveď na predošlé otázky je stručný výťah celého
+procesu, poťažne zo súdnych aktov, pod menom Acta Feketiana. Podávame ho
+tu v úryvkoch:
+
+*Prefekt, urodzený pán Ľudovít Fekete, zať prítomného ur. pána P.
+Veselovského, obviňuje sa zo zrejmého zločinu vraždy svojej ženy,
+ktorúžto vraždu spáchal v noci na deň 29. marca t. r. v svojom otcovskom
+dome v slobodnom a kráľovskom meste Zvolene.*
+
+*K činu, ktorý by sa vzťahoval na urážku majestátu, ako mu pričítal
+občiansky zvolenský magistrát hneď od samého počiatku zlapania a
+uväznenia, po uvážení jednotlivých dokumentov, nieto dostatočného
+podkladu. Jeho jasnosti cis. a kráľ. pán palatín a predseda kráľovského
+súdneho dvora po vypočutí dilekventa usúdil, ako je podané v reškripte,
+tu pripojenom.*
+
+*Vinník bol 29. marca v ranných hodinách zatvorený vo svojom bývaní s
+bezduchou mŕtvolou svojej ženy a s vražednými nástrojmi a na mieste
+zločinu prichytený miestnym magistrátom, keď sa pri vstúpení ľudí márne
+snažil zaklať nožnicami.*
+
+*Keď ho viedli a dávali do pút, spôsobil taký huk, a to práve keď
+prechádzal pohrebný sprievod, že tým zavdal príčinu k rozhorčeniu
+obecenstva. Potom ho súdny dvor so všetkými knihami a sekvestrovanými
+písmami a listami, pod bezpečnou vojenskou strážou zo žalára vyviedol a
+do Budína dopravil. Odtiaľto, ako už známo, priviedli ho v máji naspäť.
+Na tomto mieste, ako prítomný vyšetrujúci sudca svedčí, na základe
+uznesenia z 19. júna bol prepustený, potom 25. júna opäť vypočutý; tu
+odmietol pred deputáciou vypovedať a na žiadosť jeho obhajcu, Jána
+Gyürkyho, dovolil sa mu oddych až do 4. októbra, aby si mohol opatriť
+pre proces všetky potrebné doklady*
+
+Vlastne to bolo tak, že keď si ani zvolenský magistrát, ani stolica
+nevedeli rady, a keď vraha i sám palatín poslal naspäť, páni, ako už
+vieme, sa uzniesli, že ho pošlú do Hontu, odkiaľ Feketeho família
+pochodí. Ale Hontianska župa s opovržením odmietla túto vec a na inom
+mieste sa rozhodne vyslovila, že tento zločinec do Hontu nepatrí.
+
+*Keď nadchodil termín, obhajca vinníka, ktorý bol na voľnej nohe v
+Honte, podal prostredníctvom a skrze súdneho žalobcu pamätný spis v
+štyroch zväzkoch, opierajúci sa na rozsiahle a dôkladné vyšetrovanie vo
+veci pravoty a hneď zatým i súdny žalobca prichystal svoju odpoveď v
+troch zväzkoch a pripojil k spisu č. 25.*
+
+*V týchto dňoch dopravili obžalovaného Feketeho z jeho rodinného sídla,
+aby sa podrobil novému vypočúvaniu.*
+
+Uvedené slová dávajú teda odpoveď na otázku, čo je pravdy na tom, že
+vinník Fekete je nie vo väzení a kedy magistrátny súd začal proces?
+Zostáva nám podať zprávu o opatreniach, ktoré urobil náš súd ohľadom
+delikventovej väzby.
+
+*Vinníka hneď vtedy, ako ho dodali najvyššiemu súdu v B. Bystrici,
+sputnali (po trojmesačnej slobode!) na oboch nohách a držali v oddelenej
+cele, priestrannej a solídne stavanej, opatrenej hore v rohu oblokom,
+potom kľakátkom a väzenskou posteľou. V hodinách predpoludňajších a
+popoludní, aby striasol zo seba vlhkosť a zimu, otvoria sa dvere cely a
+dovolia mu vyjsť až po susednú väzenskú celu. Na noc ho žalárnik zavčasu
+zatvorí a nedovolí mu ináč na boží vzduch vyjsť, len na omšu do domácej
+kaplnky, kam chodia i ostatní trestanci a odkiaľ po službách božích sa
+zasa vracia do svojej cely. A konečne nikto nemá k nemu prístup a nesmie
+s ním hovoriť, len v prítomnosti žalárnikovej.*
+
+*Vinníkov tesť, prítomný pán Pavol Veselovský, nevedno akým strachom,
+podozrením, či starosťou zmietaný, písomne prejavil úmysel, že na svoj
+náklad bude stravovať väzňa. Ale súd uznal, že je táto žiadosť
+neodôvodnená a svojím rozhodnutím to odmietol.*
+
+*Čo sa ale toho týče, či bol delikvent pri čine, z ktorého je obvinený,
+nepríčetný, ako sa on sám vyhovára, alebo pri zdravom rozume, konajúc zo
+zlosti a s rozmyslenou zlomyseľnosťou, nech o tom rozhodne jemu
+prikázaný sudca, ako i tento súd po revízii pravoty. Ale je potrebné,
+aby sa vinníkovi dostalo dostatočného vypočutia.*
+
+*No, potrebné je i to, aby súdny žalobca mal dostatočný čas, lebo
+obhajovací spis je taký zvláštny, komplikovaný a rozsiahly, musí teda
+vynaložiť všetku pilnosť a pozornosť na preštudovanie a dokázanie
+strašného zločinu.*
+
+*Kým sa toto bude robiť, vinníka budú strážiť so všetkou možnou
+bedlivosťou a bezpečnosťou, ale nie tak, aby sa s ním zaobchodilo, ako
+už s odsúdeným.*
+
+*(Výťah kráľovskej uhorskej kancelárie pre oznámenie prítomných vecí ur.
+p. V. Veselovskému.)*
+
+Dodatok: *Z akýchkoľvek pohnútok a dôvodov menovaný Ľudovít Fekete svoju
+ženu zavraždil, čiže zločinu toho sa tak nerozmyslene dopustil,
+odvolávajúc sa na jeho milosť kráľovskú, rekurz sme odložili a vinníka
+ako ľudskej spoločnosti nebezpečného pozorne strážiť sa rozhodli.*
+
+Toľko zo zachovaných dokumentov Acta Feketiana. Sám župan Balogh
+nariaďuje vymenovať komisiu na preštudovanie uvedených dokumentov.
+
+Všetky tieto písma sú preložené inam, pravdepodobne ku Kráľovskej
+uhorskej súdnej tabuli v Budíne, kde Feketeho o niekoľko rokov znova
+súdili.
+
+Pravota sa ťahala ešte do mája roku 1809. Vtedy konečne Feketeho
+odsúdili na 10 rokov na galeje do Segedína.
+
+Bol to krutý trest, ale zodpovedal nielen zločinu, ale i dobe, v ktorej
+výrok vyniesli.
+
+Ešte ani vtedy Ján Gyürky nepristával, ale žiadal ešte raz revíziu celej
+pravoty. No, bol jediný, ktorý sa toho domáhal. Nevedno prečo, z akých
+príčin a pohnútok bol tento pán tak veľmi oddaný svojmu bývalému
+priateľovi. Veď ho už všetci opustili, všetci sa s odporom od neho
+odvrátili, ešte i Holec, ktorý mu bol najoddanejší zo všetkých.
+
+Kým Fekete nosil masku poriadneho, statočného zemana, v spoločnosti
+pánov ho vítali a uctievali, ale ako spadla náličnica a surovec ostal vo
+svojej podlosti, odvrátili sa i diví kompani, s ktorými hýril celé noci
+v obskúrnych krčmách alebo hostincoch, kde mali páni svoj dobre chránený
+brloh.
+
+Veselovský statne premohol svoj žiaľ, statnejšie ako Ondrej Skubík. Ale
+i pri podobnosti zármutku bol medzi nimi veľký rozdiel.
+
+Veselovský sa teraz celkom oddal službe, svoj smútok nikdy neprevládal,
+ale nedal sa ani ním premôcť.
+
+Jeho žena vyzdravela, ale bola zádumčivá, najmilšie jej bolo chodiť do
+kostola a do krypty, kde boli pozostatky nešťastnej Františky.
+
+Kým Feketeho neodsúdili, Veselovskovci tŕpli, že sa ešte bude pokúšať
+ublížiť i rodičom, akoby im už nebol dosť ublížil, ale keď ho odviezli,
+zbavili sa aspoň tohto strachu.
+
+Lenivo sa vlečú žltkavokalné vlny rieky Tisy žírnymi rovinami Dolnej
+zeme k Segedínu a potom ďalej k Dunaju, s ktorým sa spájajú.
+
+Brehy sú nízke, miestami ešte bahnité; také je skraja a miestami aj celé
+koryto rieky.
+
+Na vlnách kolembajú sa primitívne lode, loďky a člny. Lode sú naložené
+ťažkou zlatožltou kukuricou a červenkastou pšenicou. Na týchto lodiach
+niet vesiel, niet kolies, ani vrtule, ktorá by pohybovala loď, o pare sa
+ešte nikomu nesnívalo. Len ak by vytiahli na pomoc plachty, aby sa o ne
+nárazy vetra zachytávali a pomáhali hnať loď.
+
+Lode sa pohybujú pomocou ľudskej energie, ľudské sily hýbu nimi a ťahajú
+ich brehom rieky hore prúdom.
+
+K lodi sú pripriahnutí ľudia, z biednych najbiednejší, z nešťastných
+najnešťastnejší. Sú to trestanci, dočasní a nedobrovoľní obyvatelia
+trestnice, ktorá v meste dominuje celému okoliu.
+
+Zle živení, na úmor ustatí, uťahaní ľudia, nie ľudia, len tône ľudí,
+vlečú nemotorný dopravný prostriedok proti prúdu a pritom sa brodia kde
+po pás, kde po plecia, ba i po hrdlo vo vode. Ich postup je tým ťažší,
+čím bahnitejši je spodok rieky. Svaly pŕs, nôh i pliec sa napínajú,
+pľúca ťažko pracujú. V studenej vode, najmä na jar, tŕpnu im nohy i celé
+telo, pritom sa potia a pot, vyrážajúci na tvárach, chladne a štípe.
+
+Na loďke stojí dozorca s korbáčom --- pokrikujúc kľaje a hreší. Ale na
+strhaných tvárach už zdivených rabov nepoznať zmeny. Ťahajú, kým vládzu.
+Šťastný, ktorého opúšťajú sily, lebo jeho vyslobodenie je už blízko.
+Taký bedár prestane ťahať, len jeho vlečú. Ako iní zbadajú, že už
+vypriaha, zastavia loďku. Z omdletého snímu okovy a vyhodia ho, kam
+patrí. Namiesto neho zapriahnu iného, ktorý slúžil na lodi. Ak patričný
+len omdlel a je nádej, že ho vzkriesia, tak ho dajú tak, ako je, v
+mokrých šatách na dno loďky, aby im neušiel, cvočkami a povrazmi ho
+pripevnia o podlahu. Ale ak úbohý umrel, vyhodia ho na breh a po
+niekoľkých hodinách zahrabú na mieste, kam ho vyhodili. A číslo, ktoré
+nosil namiesto svojho mena, pretrie sa v knihe, v kancelárii trestnice a
+vlny života prevalia sa cez neho, o jedného nešťastného je menej na
+svete. Také boli galeje!
+
+Trestnicu túto navštívili i cisári a páni, Jozef II. a roku 1790 i
+Leopold II. Leopold údajne ťahanie lodí ľuďmi zakázal, ale jeho rozkaz
+nevyplnili, lebo do tejto kolónie sa ešte dostal i náš známy Ľudovít
+Fekete a tu si niekoľko rokov odpykal trest.
+
+V lete roku 1809 doviezli ho v sprievode vojakov a strážnikov na toto
+smutné miesto.
+
+Pri všetkom strážení mal isté výhody. Vystupoval ako pán a ako šľachtic
+dal sa oznámiť direktorovi trestnice. Dovolili mu obliecť sa do
+vlastných šiat. Keď vstúpil do kancelárie, málo mu chýbalo do zovňajšku
+opravdivého gavaliera. Nebol v uhorskej gále, ale v nemeckých
+pantalónoch a v šosatom kabáte. Ale jeho zovňajšok bol zasa panský,
+podľa vtedajšej módy. Nie ako trestanec, ale ako pán k seberovnému
+prišiel k direktorovi. S ním prišli síce aj vojaci, jeho sprievod, i
+žalárnik s kľúčami, ale Fekete sa správal tak, akoby tí páni nepatrili k
+nemu a on k nim.
+
+Bezchybne sa poklonil a predstavil sa v latinskej reči. A keď zbadal, že
+direktor dokonale túto reč neovláda, alebo ju behom času už na tomto
+mieste zabudol, prešiel Fekete na maďarčinu, ale neskoršie, keď sa
+ukázalo, že je direktor vlastne Rakušiak, teda Nemec, s jemu vlastnou
+ľahkosťou začal sa Fekete zhovárať po nemecky.
+
+Direktor bol nemálo prekvapený zjavom svojho najnovšieho „klienta".
+Odobral od sprievodu písma a po náležitom preštudovaní zapísal Feketeho
+do zoznamu trestancov, ako urodzeného pána. Takéhoto väzňa veru ešte
+nemal. Len keď zapisoval prečin, pre ktorý ho odsúdili, so zdesením a
+pátravo pozrel na elegantného trestanca. Ale Fekete stál tu ako veľký
+pán. neprístupný a povýšený nad slabosť, ktorým slovom označil akýkoľvek
+prejav citu a zdieľnosti. V jeho tvári nebolo ani stopy po ľútosti alebo
+smútku.
+
+Direktor, vidiac pred sebou inteligentného človeka, nevedel si
+predstaviť, akoby tento pán mohol ťahať lode, alebo konať inú hrubú
+robotu na lodiach. Telesnej sily mohol mať i za troch takých bedárov,
+akých má ešte v trestnici v rezerve, ale predsa, kam ho zaradiť?
+
+Pridelil ho na loď za dozorcu, kde sa skoro vyznal a rozkazoval všetkým
+ostatným. Direktor ho častejšie pozval i do kancelárie, kde s ním
+pobesedoval a tešil sa, že má takého neobyčajne vzdelaného spoločníka, s
+ktorým sa môže vo svojej materinskej reči pozhovárať.
+
+Pod titulom pisára a tajomníka prijal tento pán Feketeho do kancelárskej
+služby, kde mu svojou znalosťou rečí veľmi dobre vypomáhal.
+
+Neskoršie predstavil ho i svojej rodine. Fekete, akoby nikdy nebol býval
+vyrazený z koľaje veľkopanského života, kde sú mravy uhladené a kde sú
+podlé priestupky nemožné, kde panuje len ušľachtilé dvorenie a zhoda,
+láska a dôvera...
+
+Svojím sebavedomým vystúpením a veľkopanským zovňajškom imponoval úzkemu
+kruhu direktorovmu, jeho rodinke a známym, ako ozajstný zeman.
+
+Aby mohol tak vystupovať, posielal mu Ján Gyürky peniaze z Feketovského
+majetku, želajúc mu, aby tam dlho neostal. A posielal mu i bývalý tesť,
+želajúc si vrúcne, aby len čím dlhšie ostal tam, kde je.
+
+V direktorovej domácnosti blýskal sa Fekete svojimi známosťami a keď mu
+zaopatrili husle, hral tak, že nielen obveseľoval celú famíliu, ale
+priviedol všetkých, čo ho počuli, do vytrženia.
+
+Pani bola Maďarka, i domácnosť mali maďarskú. Mali štyri deti, troch
+chlapcov a jedno dievčatko.
+
+Dievčatko, pekná brunetka, bola najstaršia, ale tiež veľmi mladá. Mala
+príjemný hlas a tešila sa ako dieťa, že môže pri sprievode husieľ
+spievať maďarské piesne. Volala sa Piroška, bola miláčikom celej rodiny,
+najmä matky. Chlapci obklopili Feketeho, on sa s nimi hral a všeličomu
+ich učil.
+
+V tomto svojom novom postavení cítil sa Fekete veľmi dobre, veď ho temer
+ani neväznili, bol slobodný a mohol i do mesta sám vychodiť.
+
+Po niekoľkých rokoch sa Fekete tak udomácnil v direktorovej rodine,
+akoby bol jej členom.
+
+Všetci boli očarovaní. Direktor mal výdatnú a lacnú pomoc v kancelárii,
+pani sa mohla popýšiť vzdelaným spoločníkom a deti mali príjemného
+učiteľa, lebo Fekete učil nielen chlapcov, ale i Pirošku cudzím rečiam,
+ju práve francúzštinu.
+
+Dievčatko chytro upadlo do neblahého čarovného kruhu zvolenského démona.
+
+Piroška začala chradnúť, bola smutná, už nespievala ako vtáčatko a
+istého dňa ju mamička našla v postieľke mŕtvu.
+
+Zaviedlo sa vyšetrovanie a tým prišli na stopu diabolského zločinu.
+Dievčatko bolo zvedené a zvodca ju otrávil. Fekete otrávil údajne malú
+Pirošku zelinkami, ktoré nazbieral na poli.
+
+Zúfalí rodičia len vtedy zbadali, koho si zamilovali.
+
+Feketeho teraz už súdili tu a potom aj v Budíne. A po nedlhom procese,
+lebo teraz nemal výrečného priateľa Gyürkyho, odsúdili ho na galeje ešte
+na nových 15 rokov.
+
+Teraz už aj on ťahal lode, a po zrušení ťahania lodí, pracoval na lodi,
+kde si navykol klátivo chodiť. Ostatné roky trestu odsedel si vo Viedni,
+ba i vo väzenskom blázinci. Po 25 rokoch prišiel do Zvolena.
+
+# Záver
+
+*Nad mesto Zvolen zaľahli snehové mraky. Matiašov zámok stojí tak, ako
+stál pred rokmi, keď v jeho múroch sedel vrah vlastnej ženy, Fekete.*
+
+*Zámok je ten istý, len pošmúrnejší. Letné búrky a zimné víchrice
+preleteli ponad jeho múry a zanechali svoje stopy. Tu rozmrvili hrany
+pekného cimburia, tu zmyli okrasy z brán „pekne maľovaných".*
+
+*I zvolenské múry, bašty a brány sú ešte na svojich miestach, len aj ony
+sú ošarpanejšie a opustené. Stojí ešte brána, v ktorej odpočíva obrovský
+pluh, ktorým vraj kedysi dávno orali koryto Hrona. Ale povesť hovorí, že
+na ňom v dávnom veku obri orali. Stojí ešte i tá úzka brána pod baštou,
+ako sa ide na hradskú a do Môťovej.*
+
+*Zdalo by sa, akoby starý Zvolen skutočne bol zaspal. Za celé desaťročie
+sa tu nič nepremenilo. I domy vedľa radného domu sú tie isté, len
+staršie, a evanjelický kostol je ešte vždy bez veže.*
+
+*Radní páni s fyzikusom tvrdili, že uplynie mnoho času, kým sa Zvolen
+preberie z tej letargie. Či skutočne len vojenný hurhaj zatrasie týmto
+ospalým mestom? A predsa, bolo niečo, čo zobudilo aspoň niekoľkých, hoci
+len na čas.*
+
+*Bola to mládež, ktorá doniesla zvonku nového ducha, začala kriesiť
+zdanlivo mŕtvych a obnovila život. Niekoľkí študenti, ktorí študovali v
+Prešporku, v terajšej Bratislave a tam poznali Štúra, stali sa jeho
+nadšenými ctiteľmi a stúpencami. Bol to vtedy najmä zvolenský rodák
+Ľudovít Lange, ktorý svojou ohnivou letorou, nadchnutý ideami Štúrovými,
+priniesol z Prešporka nové názory rodolásky a vrelú snahu po národnej
+práci. K nemu sa pridali nie menej nadaní, horliví vrstovníci zvolenskí
+a z blízkeho okolia, z ktorých, žiaľbohu, zachovali sa národu
+slovenskému vernými len niekoľkí. Vtedy boli oduševnení menovite títo
+šuhajci: Ľudovít Lange, Karol Breuer, Július Plošic, Ďurko Bánik a ešte
+vtedy mladý, ale najvýznamnejší, Mikuláš Ferienčík.*
+
+*Tí starší poznali sa v Bratislave i s Chorvátmi, čo tam študovali a
+doniesli do Zvolena rozpomienky i na deň, keď vyprevádzali bratov
+Chorvátov na loď. A zvolenské dievčence, mladšia sestrička Ľudovítova a
+staršia sestrička Ferienčíkova, Marinka, nespievali si už len tie dumné
+pesničky, ako je: „V tom zvolenskom cintoríne", ale s bratmi spievali:*
+
+Nad nami sa krútia sokoli,
+
+nie im je ten Dunaj po vôli.
+
+Chorváti, junáci,
+
+na srdci vás nosia Slováci!
+
+*U Bánikov sú zasa priadky.*
+
+*Tu akoby sa skutočne nič nebolo zmenilo, len všetko stratilo nádych
+novoty. I ľudia sú tí istí, nakoľko ich ešte tu nechala smrť. Bánik
+trošku ostarel, vlasy mu zredli a miestami šedivejú. I postavu má trošku
+naklonenú. Jeho žena je ešte svieža a pekná, len stopy mnohej práce a
+starosti sú na ťahoch príjemnej tváre a na pracovitých rukách.*
+
+*Teraz sú tu zase niekoľké panie zo susedstva. Je tu Rótka, vravná,
+okrúhla pani v najlepšom veku, i Molitoriska tiež ešte nie stará. Ďalej
+je tu i Fružika Langička, tretia žena Karola Langeho a matka Ľudovítova.
+A pri stole sedí už obstarná pani malej postavy. Hlavu má naklonenú nad
+pletenie, ktoré má v rukách a sliepňa do neho, neborka je už skoro
+slepá. Je to Anna Breuerová, po zvolensky Breuerka, vdova po
+evanjelickom učiteľovi.*
+
+*Teraz je tichá, ale málokedy býva taká. Musíme o nej niečo viac
+napísať, ako o tých druhých, mala život veľmi zaujímavý.*
+
+*Ako malé dievča, sirota, dostala sa do Feješov na Nižnom Skálniku. Tu
+rástla s malou Libuškou, a keď sa Libuška vydala za Benického, Anna
+vtedy už dospelá, prišla domov do Radvane. Jej macocha bola chorá a
+žiadala si ju domov, aby Anna pracovala i za ňu. Vtedy ju už i tu, i u
+Feješov pre jej krásu volali: Anna, Anna, krásna panna. Ale že bola
+chudobná, nik po ňu nechodil. Len raz ako áno, ako nie, išiel dolnou
+Radvaňou mladý človek, zvolenský učiteľ. Kráčal ulicou vedľa nízkych
+domov a nízkych oblokov. Tie obloky boli také nízke, že mohol prekročiť
+rám a hupnúť do izby. A tu pozrel do jedného z nich. Bol otvorený, lebo
+bolo leto a slniečko svietilo a hrialo až milá vec. A to, čo videl, ho
+tak milo prekvapilo, že ostal stáť a díval sa na ten ľúbezný zjav. Na
+dlážke izby kľačalo dievčatko a drhlo dlážku. Ale to dievčatko bolo
+krásne i pri tej nadmieru prozaickej práci. Bolo bosé, sukničky malo
+vykasané, rukáviky vysúkané. Na hlávke previazanú šatku, ale tá
+nebránila záplave zlatolesklých vlasov, aby nezahrnuli čelo i hrdlo
+peknej dievčiny. Hlavu mala sklonenú pri horlivej práci, len keď sa jej
+zdalo, že sa v izbe akosi stmieva, pozrela hore, a vtedy ten pri obloku
+videl, že dievčatko má aj tvár peknú bielu a ružovú. A oči, také modré,
+teraz naľakané! Chytro vstala, napravila si sukienky na bosé nohy a tvár
+sa jej pokryla červeňou. Zahanbila sa, že ju cudzí človek videl takú
+„pouberanú"! A keby vedela, ako sa dakedy o sto a niekoľko rokov budú
+dievčence obliekať, a že nielen doma, ba i na ulici a na zábavách
+ukazujú kolienka, pardón, nie holé, ale priezračnými pančuškami
+obtiahnuté, možno, skorej by sa bola uspokojila.*
+
+*Ten pri obloku sa poklonil, predstavil, niečo sa opýtal, ba, tuším,
+pýtal si vody, lebo bol smädný --- i neskoršie si na smäd potrpel --- a
+to bol začiatok známosti, ktorá sa skončila svadbou.*
+
+*Ale Breuer nežil dlho, nechal svojej Anne len syna a inšie nič. Máličko
+dostala po macoche a z toho, ale aj z práce rúk sa živila a vychovávala
+aj syna.*
+
+*Breuerka vášnivo rada čítala. Tomuto sa musela naučiť u Feješov, kde sa
+literatúra pestovala i podporovala, kde bola bohatá knižnica. Prečítala
+v tom čase všetky známe diela české, sčiastky i maďarské a nemecké.
+Veľmi rada čítala Chalupkove veselohry, ale najväčší pôžitok mala z
+Mészárosovho románu Kartigan, čili Kristina, turecká panna, slečna
+kišasonka, ktorý z maďarskej reči preložil ev. farár Semian. Tento
+„prenikavý" román bol u vtedajších žien veľmi obľúbený a niektoré si ho
+prečítali i niekoľko ráz. Breuerka sa niektoré časti naučila naspamäť, a
+to je už veľa, lebo sloh tohoto románu je taký ťažký, že čítať ho, na to
+treba hodnej dávky trpezlivosti. A či sme to už len my takí rozmaznaní?
+Obzvlášť páčila sa čitateľkám tých čias tá ukrutne krásna pieseň, ktorú
+si vznešená panna, slečna kišasonka spievala, keď po stroskotaní lode,
+alebo šífu, čiže korábu, našla sa na skale na samom prostriedku mora. Tá
+pieseň sa začína: „Prostřed mořských hlubokostí" a túto pieseň vedela
+Breuerka, neskoršie „pani matka", celú celučičkú naspamäť, a keď bola
+dobre naladená, recitovala ju vnukom i nám, čo sme do Breuerovcov
+chodili. Ale my, nevďačné deti, nezachovali sme si nič, iba začiatok, a
+to, že pieseň bola strašne dlhá, a čo hlavné, že pre slečnu kišasonku
+prišiel koráb a vyslobodil ju z morských hlbokostí.*
+
+*Pani matka mala ešte jednu slabosť --- naprávať hodiny. Ale to len kým
+videla. Bývala vo Zvolene a často chodila do Róthovcov. Tu mali hodiny
+zvláštne, starobylé, rodinnú pamiatku. Tieto hodiny boli vzácne a ako
+znalci hovorili, majstrovská práca. Veď i museli byť, lebo família
+Róthovská bola stará šľachtická rodina z Rothenfelsu a tak i veci, ktoré
+si zachovala zo skorších čias, mali svoju cenu. Ale to už tak býva na
+svete, keď príde staroba, i kolieska sa ošúchajú, nie div, že sa v
+stroji niečo pohubí a chyba je hotová. I Róthovské hodiny kedy-tedy
+preskakovali, raz bili málo, inokedy viac a niekedy vôbec nič, alebo
+zastali. Breuerka nemala milšie, ako ich pozorovať, naprávať a
+naťahovať.*
+
+*Istého dňa prišla táto dobrovoľná hodinárka k Róthovcom. V prízemí mali
+skliepok, obchod, kde predávali tovar, farbené plátno a šatky. Hneď
+vedľa obchodu bola veľká, obývacia izba a v nej nad starým divánom
+spomenuté hodiny.*
+
+*Róthovci mali pekný dom, ako vieme, v susedstve Feketovského, ale
+bývali len dolu na prízemí.*
+
+*V ten deň bola pani Róthová v obchode. Mala plno žien z Môťovej, z
+Lieskovca a neviem ešte skade, ktoré sú známe, že sa za grajciar budú
+jednať i dve hodiny. Pritom vyvíjajú krik, že sotva slovo rozumieť, ale
+u Róthovcov natrafili na paniu, ktorá mala zdravé pľúca a vedela ako s
+takými kunčaftmi zachádzať. Bolo teda v obchode tak hlasno, že nebolo
+počuť, čo sa v izbe stalo.*
+
+*Breuerka sedela sama v izbe, plietla a počúvala. Ale hoci bol krik, jej
+jemný sluch zbadal, že hodiny stoja. „Čože im je zasa?" myslí si pani
+Anna a doloží: „Musím ich napraviť."*
+
+*Položila prácu na stôl, vystúpila na pohovku, načiahla sa, a začala
+hodiny „naprávať". Svojimi tenkými prstíkmi siahla medzi kolieska, pohla
+bakinkou, mykla sem, mykla tam a ešte raz mykne a vtedy sa hodiny
+navážili a už letia dolu na opierky pohovky a to im ešte nebolo dosť,
+hybaj i na zem. Ešte dobre, že nestrhli aj ju, lebo len-len že si
+udržala rovnováhu. Málo chýbalo, že jej nezleteli na hlavu, ale i tak je
+to preveľká udalosť.*
+
+*Zľakla sa, chudina, a opatrne zliezla, aby neletela dolu hlavou za
+hodinami.*
+
+*Nikto nevidel, ani nepočul. Tie sa tam ešte nedojednali a nemôžu vidieť
+do izby, lebo na dverkách je zelená záclonka.*
+
+*Breuerka pozbierala hodiny, ktoré mali toľko rozumu, že sa nerozsypali
+a zasa vyliezla s nimi na pohovku a naťahujúc svoju neveľkú postavu,
+zavesila ich na miesto. Ešte ich aj pohla, aby štrkotali aspoň dovtedy,
+kým sa ona vyprace a potichu, tichúčko zliezla dolu, oprášila diván, aby
+nebolo vidno prípadnú stopu jej črievičky, potom zobrala prácu, vytiahla
+sa dverami do brány a na ulicu.*
+
+*Odvtedy minuli asi dva týždne.*
+
+*Teraz sa zišli u Bánikov susedia a Breuerka so zlým svedomím čuší a
+čaká, kedy niekto od Róthovcov zahrmí.*
+
+*Do izby medzi priadky prišiel syn domáceho pána, Ďurko Bánik, mladík
+štíhlej postavy, príjemnej, usmievavej tváre, otvorených, úprimných
+očú.*
+
+*Privítal hostí, pozdravil rodičov a sadnúc si k otcovi, rozprával, kde
+bol a čo robil. Bol u Ferienčíkov, pri Mikulášovi, ktorý oduševnený a
+zapálený rodoláskou priťahuje zvolenskú mládež, ktorá s rovnakým, ale
+nie stálym zápalom ujala sa myšlienky spolčovania a pracovania na
+prospech národa. Preto si títo mladíci zaumienili usporiadať prednášky a
+ak bude možné i divadelné predstavenie. Ďurko bol celkom zaujatý a
+odhodlaný utvoriť samovzdelávajúci krúžok vo Zvolene a oznámil to aj
+otcovi.*
+
+*--- Či bol aj môj Karol medzi vami? --- ozval sa Breuerkin hlas.*
+
+*--- Áno, aj on bol, --- odpovedal Ďurko.*
+
+*--- Ozaj, pani sestra, čo im ja poviem, --- ozvala sa z čista jasna
+pani suseda Róthka, obrátiac sa k Breuerke.*
+
+*--- Čože takého? --- opýtala sa táto úbohá, zlým svedomím trápená žena.
+Oh, ako je zle, keď má človek zlé svedomie. I najmenšieho šuchotu sa
+naľaká. I v Breuerke hrklo, ako v starých hodinách, keď majú biť. Veď
+nečakala inšie, len to, čo zasa porobila tým hodinám.*
+
+*Ale Róthka sa nedala pomýliť a hovorí:*
+
+*--- Čakala som, že sami prídu k nám, ba, už som im chcela ísť sama
+povedať, čo sa s našimi hodinami porobilo...*
+
+*Breuerka zamiera strachom a myslí si: Amen, už je to tu, už je oheň na
+streche.*
+
+*--- ...nech si len pomyslia aký zázrak, naše hodiny od dvoch týždňov
+idú ako treba a ešte ani raz nezastali.*
+
+*Breuerka hodila pletenie na stôl, zasmiala sa a do očí sa jej drali
+slzy. Zdalo sa jej, že balvan spadol z duše.*
+
+*Domáci pán napravil a utrel knôt sviec, ktoré ešte vždy boli
+nenahraditeľné, hoci sa už aj olejové lampy zdokonalili.*
+
+*Spoločnosť sa po chvíli rozmnožila ešte o niekoľko členov, rozhovor bol
+živší a všeobecný.*
+
+*--- Ba, ozaj, aký nám bude budúci rok, 1840? --- opýtala sa Breuerka
+Bánika.*
+
+*--- Či nebudeme mať zasa nejakú chorobu, alebo či nepríde na nás dajaké
+iné božie dopustenie? --- vzdychá vždy ustaraná pani Molitóriska.*
+
+*--- Ktože by to mohol vopred vedieť? To všetko je u Boha, --- hovorí
+Langička, dcéra toho Nándoryho, ktorý bol medzi sudcami nešťastnej
+Madleny z Bacúrova.*
+
+*--- Veru, to ani storočný prorok nemôže navlas povedať, --- usmial sa
+Bánik. --- Hľa, ktože by sa bol nazdal pred ôsmimi rokmi, čo v
+nasledujúci rok príde na nás?*
+
+*--- Cholera! --- zvolala jedna z tých starších. --- Bože nás chráň od
+takého hosťa!*
+
+*--- A pamätáte sa, kadiaľ aj teraz prišla do mesta? Ako oddávna títo
+strašliví hostia, i teraz prišla fortňou. A tí, čo sa jej najviac báli,
+najskorej jej padli za obeť. Boli to Alitisovci. V meste ešte ani nebolo
+počuť o cholere, len čo po dedinách vystupovala, Alitisovci sa už
+zatvárali a keď slúžka išla do mesta a vracala sa, nepustili ju dnu, kým
+ju náležite neokadili borievkami, octom a neviem ešte čím. A pri tom
+všetkom boli prví, čo na ňu ochoreli... a umrela pani i dcéra, jedna za
+druhou.*
+
+*--- Hovorí sa, že cholera toľkých nepoberie, ako ich poberie strach,
+--- poznamenala Róthka.*
+
+*--- A ten učník od Goldhamerov, ani sa chudáčik nebál a vyniesli ho do
+cintorína.*
+
+*--- Vtedy pochovávali v Neresnici umretých na choleru. Nerobili veľké
+ceremónie, ale ako kto ostatný raz vydýchol, už ho niesli na cintorín a
+položili do búdy na máre. Tak i toho učníka, myslím, volal sa Šimka. To
+bolo večer a v noci bola zima, ako vo Zvolene niekedy býva i v lete. A
+tu sa náš milý učník začne hýbať a žiť. Zima ho prebrala, otvorí oči,
+lebo nebol mŕtvy, pozerá, hľadí, kde je, čo sa s ním robí. I zbadá, kde
+je, postaví sa na nohy a ako vládal, tak utekal do mesta. Strach a zima
+ho poháňali a kým prišiel do Hronskej ulice, sa aj zahrial. A tu príde k
+majstrovmu domu. Dom bol zamknutý, chlapec búcha a volá:*
+
+*--- Pán majster, pán majster!*
+
+*Majster sa ohlási:*
+
+*--- Kto je to, čo chce?*
+
+*--- Ja som, pán majster, --- hlási sa tenký hlas učníka.*
+
+*--- Aj ja som ja, --- odpovedá majster, ale pri tom vtipe sa mu ježia
+vlasy, lebo hlas sa mu pozdáva známy. I prišlo mu na rozum, že veru
+učník nemal sa u neho najlepšie, že ho aj zauškoval, aj šticoval, i
+buchnáty mu rozdával. A teraz, keď sa blíži polnoc, sa pánu majstrovi
+zobudilo svedomie.*
+
+*--- Pán majster, pán majster, nechže otvoria, zima mi je a som slabý.*
+
+*--- No, to je už iste on, mŕtvy chlapec, a pán majster, hoci dobrý
+evanjelik, začne zažehnávať duchov.*
+
+*Vtedy sa zobudí i pani majstrová a volá:*
+
+*--- Čože je to, čo sa robí? --- Ani ona nemá najlepšie svedomie, ale
+zato učníka poľutovala, keď ho vyniesli, lebo jej bol pri deťoch na
+dobrej pomoci.*
+
+*A učník pod oblokom sa trasie, plače a volá:*
+
+*--- Pani majstrová, prosím ponížene, nech mi otvoria...*
+
+*--- No to už veru nehovorí duch, ale človek a majstrová, preniknutá
+akýmsi neznámym citom zmilovania, ponáhľa sa otvoriť. Chlapec jej vletí
+do rúk, omdlie, ale pani majstrová ho kriesi, nalieva mu mlieka, zohreje
+a zachová životu.*
+
+*Čo sa to všeličo pospomína v taký dlhý, zimný večer. Ešte nie je ani
+tak neskoro, ale tma tam von je veľká a sneh sa sype, takže chodiaci
+nevidia ani na krok pred seba.*
+
+*Dobre je tým, čo sú v teplej izbe, kde veľká, zelená pec hreje celú
+izbu, kde sa priateľskí ľudia príjemne v rozhovore zabávajú a kde po
+besede čaká, hľa, za pecou uložené občerstvenie.*
+
+*Ale tam von v tej metelici, ponáhľa sa ešte zakuklená ženská postava do
+Bánikov. Musí byť mladá, je štíhla a nesie sa pekne ako v tanci. Už
+prichádza pred Bánikov dom, zrazu cíti, že ju niekto chytil za ruku.
+Nevidela v tom snehu nič, tým väčšmi sa zľakla. Pozrie hore, vidí pred
+sebou postavu človeka a tvár, jój, tvár, hroznú, ako tvár netvora, alebo
+diabla. Tvár nadutá, oslnená, oči pod dlhými mihalnicami a pod hustým
+obočím hlboko vpadnuté, čierne a či aké oči, bodavé, ako dýky. Dlhá,
+šedivá brada visí mu až do pása a husté, tiež šedivé rozstrapatené vlasy
+vejú mu vo vetre. A tá strašná tvár sa škľabí, otvorené ústa rozťahuje a
+z úst vyčnieva, niekoľko klováňom podobných zubov. Mladá žena cíti jeho
+dýchanie, odporný zápach po tabaku a nečistote ju zavial, a netvor ju
+ťahá k sebe a škľabí sa ešte väčšmi.*
+
+*Ale ona je mocná a mladá, vychytí sa mu z rúk, sotí ho nabok, že on,
+slabý a nemotorný, hneď sa sprplil v snehu. Mladica vbehne do Bánikovie
+dvora, stade do domu a do izby. Nedbá, že jej kápka zliezla z hlavy,
+otvorí strmo dvere --- len že je už medzi ľuďmi.*
+
+*--- Jaj, či som sa zľakla! --- zvolá zadychčaná a kladie praslicu a
+vretienka na najbližšiu stoličku.*
+
+*Všetci prítomní sa predesili. Paniam vypadla práca z rúk, mladý Ďurko a
+jeho matka sa ponáhľali k príchodiacej a zobrali z nej krišpinu a šatku.
+Ďurko hneď aj vody priniesol, aby sa napila.*
+
+*--- Jaj, to bolo strašné, --- vzdychla ešte raz zhlboka, napila sa
+vody, hoci nevyzerala, akoby išla omdlieť, a sadla si na ponúkané miesto
+pri stole.*
+
+*--- Čoho si sa zľakla, Zinka moja? --- opytovala sa Bánička
+starostlivo.*
+
+*Oslovená, ešte veľmi mladá ženička, obzrela sa k dverám, akoby čakala,
+že ten hrozný zjav postaví sa jej do dvier. Potom vyrozprávala, čo sa
+jej prihodilo práve pred oblokmi domu.*
+
+*--- Fekete! --- zvolali niektoré panie.*
+
+*--- Fekety, --- ohlásila sa jedna zo starších, ktoré sedeli pri peci.
+Takto ho pomenoval ľud, ešte i po dedinách a to na dlhé časy. Na
+Dobronivej ešte donedávna matky strašievali svoje nezbedné deti hrozbou:
+„Len nečuš, príde Fekety po teba".*
+
+*Pani Malitóriska sa ozvala:*
+
+*--- Čože, vari Zinka nepozná Feketyho?*
+
+*--- Nepozná ho, a kiež by ho viac nevidela! --- hovorí domáca pani. Nie
+je tak dávno vo Zvolene, hľa, len na Ondreja mala svadbu a v Ľupči o tom
+nepočula.*
+
+*--- A my sa nazdáme, že o tom vie celá Zvolenská stolica, a ešte i
+ďalej, --- ohlásila sa pani Róthová.*
+
+*Zinka bola Báničkina príbuzná, vydala sa do Gráfikov.*
+
+*--- Čože ťa tí tvoji domáci pustili samu? --- opytuje sa Bánik.*
+
+*--- Ani som im dobre nepovedala, že idem, --- priznala sa Zinka. ---
+Len mužovi som povedala a on mi sľúbil, že keď si skončí prácu, príde po
+mňa. A či som ja vedela?*
+
+*--- Veď tak, to si nemohla vedieť. V tomto čase ten nešťastník ani
+nechodí po uliciach, ale čuší v svojom brlohu.*
+
+*--- Ale, ktože je? --- opytuje sa Zinka.*
+
+*--- Diabol v ľudskom tele, --- súdi Molitóriska. --- Násilník a vrah.*
+
+*--- Postrach zvolenských žien a detí, --- poznamenala Breuerka.*
+
+*--- Ani si nežiadaj viac o ňom vedieť, --- povedal Bánik vážne. ---
+Kedysi bol veľkým pánom, teraz je vyvrheľom sveta. Človek, ktorý sa za
+mladi vozil na štvorke, teraz sa kníše na svojich kuľhavých nohách do
+hory a odtiaľ si nosí drevo na ohrev. Teraz zbiera po ulici koštiale, na
+ktorých sa i psi ruvali a varí si z nich polievku, vraj, výbornú, ako si
+sám pochvaľuje.*
+
+*--- I fizolne si varí, --- zamiešala sa tá od peci, --- navarí si ich
+na celý týždeň, a splesnejú mu. Chlapci behajú za ním po ulici a volajú:
+„Fekety, Fekety, splesneté fizolne". Ale keď sa Fekete obráti a zahrozí
+palicou, alebo sa zohne po skalu, chlapci začnú škrečať a výskať a
+čosi-kamsi sú za rohom.*
+
+*Bánik, aby predišiel rozličným poznámkam, aspoň nakoľko sa dalo,
+spomenul v hlavných črtách príhody nešťastníka od toho času, ako si
+odpykal trest a prišiel domov.*
+
+*Kým bol Fekete vo väzení, zatiaľ jeho majetky stáli väčšinou ladom,
+hoci mal brata a sestry v Honte. Kúria, dom, boli zavreté. Matka s
+dcérami sa vysťahovali, nevedieť, kam odišli. Ten dom každý obchádzal
+ako nejaký prekliaty príbytok, ba ešte aj to sa o ňom bájilo, že v ňom
+straší. Preto sa nikto neopovážil bývať v ňom a tak dom pustol a černal.
+V izbe, kde sa stala vražda, dlho, dlho boli krvavé stopy na stene i na
+dverách. Veselovský nevzal z domu ani to, čo patrilo mladej panej, ba
+radšej ešte posielal zaťovi pomoc, aby čím dlhšie ostal tam, kam ho
+odviedli.*
+
+*Minuli sa roky jeho zvýšeného trestu. Hriech je zhubca národov i
+jednotlivcov a aj na tomto človekovi vykonal hriech svoje zhubné dielo.
+Vypršal čas jeho zemského trestu, ale väčší ešte mu nadchádza. Prišiel
+ako zlomený starec, s dlhou šedivou bradou, ako františkán s dlhými,
+zapustenými vlasmi. Jeho odev pozostával z trestaneckého rúcha, aké
+nosil v kriminálnom blázinci vo Viedni. Lebo v posledných rokoch páni
+usúdili, že je blázon. Na väzenskom kabáte namiesto pása mal opásanú
+žinku a keď sa tá zodrala, teraz už opáše sa aj povrieslom. A to ten,
+ten istý, čo pred 31 rokmi nosil gálu uhorského zemana, zamatové šaty,
+tu so striebornými, tu so zlatými gombičkami. Vošiel do svojej pustej
+kúrie. Dlho nevychodil, len keď si musel ísť niečo kúpiť, napríklad
+sviečku alebo tabak. Dlho nemohol pozdvihnúť oči hore, lebo oči mu
+odvykli dennému svetlu. Chodil rozkročeno, ako sa naučil pri ťažkej
+práci na lodi. Keď sa raz osmelil a začal chodiť von, obchádzal mesto,
+chodil poza múry do úbočia Pustého hradu, tam sa zdržiaval, a v lete sa
+aj teraz zdržiava. Nasprostastý a zajakavý Koláčik pridružil sa k nemu a
+istý čas spolu kopali „poklady" v sklepených chodbách Pustého hradu.
+Ktosi sa opýtal Koláčika: „Čo ste tam našli?" Na to ten hlúpy človek
+odpovedal: „Bum, bum", ako že našli tam rozbitý bubon a zahrdzavenú
+šabľu.*
+
+*Keď býva v úbočiach Pustého hradu, a keď tade vidí ísť ženičky od
+Ostrej Lúky alebo do hory na raždie, volá ich, aby sa zastavili, že by
+sa rád s nimi pozhovárať. Ale ženy sa s ním nechcú zhovárať, naopak,
+prežehnajú sa a ponáhľajú sa ďalej. Teraz sa ho tak neboja, lebo
+nevládze ani chodiť, nie to ešte pobehnúť...*
+
+*--- Ale nebohá Šulička umrela od strachu a hrôzy, keď znezrady spod
+Pustého hradu vyskočil a smejúc sa, chytil ju za ruku a začal ju
+štekliť. Podarilo sa jej ujsť, ale domov prišla ako bez duše a na tretí
+deň bola nebohá, --- dosviedčala jedna z priadok.*
+
+*--- Jaj, veď si je človek nie istý pred ním ani vo dne ani v noci...
+--- vzdychne pani Molitórisová, ktorá mala práve najmenej príčiny
+žalovať sa na toho nešťastného človeka, lebo sa ešte ani raz s ním
+nezišla.*
+
+*--- Odvtedy sa udržala domnienka, že Fekete šteklením napáda bezbranné
+ženy... To by bola už teraz jediná zbraň, ktorá mu ostala. Čaro jeho
+osobnosti a jeho vzdelania sa pominulo s jeho mladosťou, hoci ešte
+donedávna boli ľudia, ktorí obdivovali jeho neobyčajnú vzdelanosť, ba ho
+aj ospravedlňovali. Spočiatku začal bývalých pánov bratov navštevovať,
+ako napríklad Ostrolúckovcov, ale keď raz, azda „omylom", --- Bánik sa
+usmial, --- vopchal niekoľko strieborných lyžíc do kapsy, zakázali mu
+prístup. I do Lenštachov v Zolnej chodil, a do Slatiny a inde. A na
+Sliač tiež. Tam, keď videl, že niektorý hosť má pred sebou pivo,
+prišiel, vzal pohár s pivom a vypil ho do kvapky. Potom povedal gratias
+a šiel ďalej.*
+
+*--- Nemožno, aby to robil človek s dobrým rozumom, --- zostarela sa
+Bánička.*
+
+*Bánik pokrútil hlavou.*
+
+*--- To je otázka, ktorú ani múdri páni, jeho sudcovia nevedeli riešiť.
+Veď v niektorých veciach dokazoval práve prenikavý rozum a vedel, vraj,
+sedem rečí ---*
+
+*--- Ba že jedenásť, --- ozvala sa Róthová.*
+
+*--- Čože mu pomohli, keď svoje vedomosti zle užíval. Lepšie je vedieť
+jednu reč, reč materinskú a v tej žiť ako Pán Boh prikázal.*
+
+*--- Môjho muža a pána Huszágha citovali častejšie do Bystrice, aby
+vypovedali, v akom stave ho našli v to ráno, keď vnikli do izby, ---
+hovorí Langička. --- A málo chybelo, že ho neoslobodili, hoci usúdili,
+že je ľudskej spoločnosti nebezpečný. Veď ho ani palatín, ani Hontianska
+stolica nechceli súdiť, stolica preto, lebo sa hontianski páni hanbili
+za svojho „pána brata".*
+
+*--- A nedávno, keď bol v meste, --- hovorí Róthová, postál na ceste a
+spieval:*
+
+Tá zvolenská veža, pekne maľovaná,
+
+Pod ňou leží moja žena, celá dorúbaná.
+
+Ktože ju dorúbal, sama sa zabila,
+
+Keď namiesto muža, druhého ľúbila.
+
+*--- Blázon? Hriešnik? Ani teraz sa neprizná, ani teraz sa nekajá zo
+svojho preťažkého hriechu, ako sa nepriznal za celý čas svojho trestu.
+Hľa, obraz mravne upadnutého človeka, člena zaťaženej rodiny. Tento
+nešťastník je smutným, ale istým dôkazom, že hriechom padajú veľké
+veci.*
+
+*--- Začiatok nápisu na bráne kaštieľa Radvanskovcov, --- poznamenal
+jurista Ďurko a citoval celý distichon:*
+
+\<lang LAT\>
+
+Celsa cadunt vitiis crescunt
+
+virtute tenella.
+
+Turris laxa jacet
+
+pondere pressa suo.\</lang\>
+
+*--- Cnosťou dvíhajú sa malé veci... --- doložil otec Bánik.*
+
+*Fekete už potom klesal duševne i telesne. Celé bájky vznikali o jeho
+pobyte na Pustom hrade a v jaskyniach. V úbočí vedľa Hrona chodil človek
+s konskou hlavou a zasa kôň s hlavou mnícha a rehotal sa a budil ozvenu
+a ľakal ľudí...*
+
+*Presťahoval sa a býval, najmä v zime, v záhradnom domku na Jame, kde je
+teraz krásna budova Tatra banky. Onedlho sa zrútil i tento chatrný domec
+a Fekete sa utiahol do pivnice. Tu žil biedne a umrel tiež tak. Keď ho
+už dlhšie nebolo vidieť v meste, úradne vnikli do pivnice a našli sedieť
+starca na hŕbe slamy a handár. Bol už viac dní mŕtvy. Studená mŕtva ruka
+držala listinu --- testament. Svoje imanie poručil zvolenskej
+rímskokatolíckej cirkvi, ona ho ponechala v správe mesta.*
+
+*Umrel 29. decembra roku 1852, sedemdesiatšesťročný.*
+
+*(1927)*

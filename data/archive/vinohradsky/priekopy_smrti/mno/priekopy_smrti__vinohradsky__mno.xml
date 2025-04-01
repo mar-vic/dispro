@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1945388" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Priekopy smrti : ELTeC edícia
+    </tei:title>
+    <tei:author>
+     Vinohradský,  ( - )
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2409
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Vinohradský,
+     </tei:author>
+     <tei:title>
+      Priekopy smrti
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Hlavná správa osvety a výchovy MNO
+     </tei:publisher>
+     <tei:date>
+      1945
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-11">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Priekopy smrti
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Ideme do Banskej Bystrice. Je to cesta nedávnym bojišťom. Už prvé   obce za Košicami nesú stopy ťažkých bojov. Tu lámala hrdinská Červená   armáda zbesilý odpor Nemcov. Niektoré obce sú takmer zni­čené, aj   niektoré kostoly, na ktorých Nemci umiestili svoje pozorovateľne, sú   rozstrieľané. Pôda okolo cesty je rozrytá trhlinami po výbuchu   granátov a zákopmi. Krvou oslobodzovali bratia červenoarmejci našu   krajinu a skromné červené náhrobky na hroboch padlých hrdinov takmer   v každej obci sú večnou pamiatkou a záväzkom vďačnosti k tým, ktorí   pri­niesli slobodu slovenskému národu.
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     V srdci slovenského povstania
+    </tei:head>
+    <tei:p>
+     Prechádzame Moldavou, Rožňavou a Jelšavou. Začína sa partizánsky   kraj. Každý kameň, každý les pripomína hrdinský boj slovenského ľudu   proti cudzím votrelcom. Tu v ústi údolia Slovenského rudohoria   odrážali čs. vojaci a partizáni nápor mnohonásobnej presily vybraných   nemeckých jedno­tiek. Tadiaľ tisli červenoarmejci nemecké hordy, aby   znovu priniesli voľnosť srdcu slovenskej slobody.
+    </tei:p>
+    <tei:p>
+     Nemci spustošil kraj pri svojom ústupe. Všetky mosty sú vyhodené   do povetria, je zničený veľký železničný viadukt, koľajnice vytrhané,   dokonca aj stromy pozdĺž cesty podťaté. Mŕtvo stoja železiarne v   Podbrezovej. Nemci zničili mnoho strojov a celú továreň   zamínovali.
+    </tei:p>
+    <tei:p>
+     Blížime sa k Banskej Bystrici. Meno každej obce je menom bojišťa.   Na uliciach dedín a mestečiek je veľa ľudí. Vidíme mužov v   uniformách, milíciu s puškami. Všetci sú radostne vzrušení. Po 5   mesiacoch útrap nemeckej okupácie dýchajú zasa slobodne. Z hôr   neprestajne prichádzajú partizáni a členovia ná­rodných výborov.   Odstraňujú sa spustošenia, všade začínajú pracovať orgány ľudovej   vlády.
+    </tei:p>
+    <tei:p>
+     Vchádzame do Banskej Bystrice. Pochodujúce vojská, výbuchy   granátov a mín, ktoré ešte stále dopadajú do mesta, to všetko   pripomína, že Banská Bystrica je len niekoľko dní slobodná, že front   je ešte blízko.
+    </tei:p>
+    <tei:p>
+     Ulice sú ozdobené československými a sovietsky­mi zástavami a ani   škody a obete, ktoré spôsobuje nemecká paľba, nemôžu zakaliť radosť   Bystričanov.
+    </tei:p>
+    <tei:p>
+     Radostne uvítali občania vládneho delegáta, pred­staviteľa SNR a   novinárov. A vtedy sme sa dozvedeli podrobnosti o zúrení Nemcov v   tomto kraji.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Robotník rozpráva
+    </tei:head>
+    <tei:p>
+     Zriadenec mesta Viliam Š. rozpráva: Po osud­ných októbrových dňoch,   keď nemecká presila udusila v krvi boj nášho ľudu, vtrhli do mesta   prví Nemci. Tí len kradli, opíjali sa a plienili. Potom prišli SD,   gestapo a ich verní pomocníci — gardisti. Začaly sa dni, na ktoré   spomíname všetci s hrôzou.
+    </tei:p>
+    <tei:p>
+     Gardisti udávali, Nemci zatýkali a vraždili. Naj­horšími udavačmi a   pomocníkmi Nemcov boli istý Lajoš Hudec, zamestnanec Krajského súdu v   Banskej Bystrici, Štrba, šofér Riaditeľstva štátnych lesov a majetkov   Ulbrich, npor. HG Hora a hlavný tajomník Hlinkovej strany Andrejides,   ktorý nielen udával, ale pred svojimi gardistami sám podnikal výpravy   proti slovenským vlastencom a vraždil. Neďaleko obce Poniky je   hromadný hrob obetí, ktoré tento zradca s 15 gardistami postrieľal. V   obci Šajbe našli Nemci v jednom domčeku telefon. Zabudla ho tam iná   nemecká jednotka. Traja bratia, ktorí v tom domčeku bývali, boli   zatknutí a obesení pre spolu­prácu s partizánmi. Zároveň s nimi viedli   na po­pravu čatára, príslušníka 2. čs. brigády. Čatár sa dal na útek a   bol zastrelený.
+    </tei:p>
+    <tei:p>
+     V Slovenskej Ľupči boli dvaja dedinčania pri­stihnutí Nemcami, keď   prechádzali trať. Boli chytení a ako podozrelí verejne na námestí   obesení. Tiež vo Sv. Ondreji obesili Nemci 4 miestnych občanov.
+    </tei:p>
+    <tei:p>
+     Pred mesiacom sa stal takýto prípad: V Banskej Bystrici žila   občianka Karamanová, matka dvoj­ročného chlapčeka. Nemci jej vykradli   byt a nábytok odviezli. Karamanová myslela, že sa azda dovolá u   Nemcov spravodlivosti. Išla prosiť na nemecké veli­teľstvo, aby jej   vrátili nábytok. Nemci sľúbili. Večer zavolali Karamanovú na   veliteľstvo SD. Potom ju už nikto neuvidel živú. Vie sa len, že bola   na SD celú noc. Ráno našli jej mŕtvolu pri moste. Kto boli tí, ktorí   vraždili? Boli to Nemci z Ríše. Boli to aj slovenskí Nemci. Tak   napríklad Fero Wünsch a Alexander Lechnitzky pri slovenskom povstaní   utiekli. Vrátili sa potom s nemeckou soldateskou ako feldvébli.   Poznali dobre miestne pomery. Jeden pracoval u Ortskomanda a druhý u   Gestapa. Po­máhal im odrodilý Slovák, policajný strážmajster, Vojtech   Ondrejko. Desiatky nevinných ľudí pripra­vili títo zločinci o   život.
+    </tei:p>
+    <tei:p>
+     Ak idete od Ban. Bystrice smerom na Brezno, rozpráva Viliam Š.   ďalej, uvidíte po pravej strane cesty, medzi Nemeckou a Svätým   Ondrejom, pri obci Ráztoky guľaté stavby. Je to vápenka. Na tomto   mieste povraždili Nemci od 8. do 12. januára asi 800 ľudí. Nakládli   vo vápenke oheň, cez jamu položili drevo, na ktoré musela každá obeť   vykročiť. Potom nešťastníka zastrelili a mŕtvola, niekedy i len   ranený človek, padol s priečky rovno do ohňa. Popol spále­ných mŕtvol   potom Nemci rozhádzali po okolí. Po­máhali im pri tom gardisti Kohút a   Palánka z Trnavy. Hľadali a lúpili, zatiaľ čo Nemci vraždili.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Posledné dni Nemcov v Bystrici
+    </tei:head>
+    <tei:p>
+     Keď Nemci videli, že mesto neudržia, snažili sa odvliecť   obyvateľstvo. Nariadili najprv dobrovoľnú evakuáciu. Ale dobrovoľne   sa prihlásilo iba 7 osôb. Tiež všetky ostatné výzvy nemaly úspechu.   Na to začali Nemci prehliadať domy a mužov násilne odvliekať.   Podarilo sa im sohnať z celého mesta asi 150 mužov, odvliekli ich   však len 80. Ostatní ušli.
+    </tei:p>
+    <tei:p>
+     Tiež z okolia Banskej Bystrice pokúšali sa Nemci o evakuáciu   mužov. Podarilo sa im odvliecť celkom 4000 ľudí, ktorých naložili na   vagóny a odviezli. Ale aj z tých sa už mnohí vrátili.
+    </tei:p>
+    <tei:p>
+     Pred ústupom z Banskej Bystrice odmontovali a odviezli Nemci   hlavný stroj z továrne na zápalky. Vyrabovali a odviezli stroje z   textilných tovární. Od­viezli vysielačku a strhli stožiare, vyhodili   do po­vetria stanicu, položili pod koľajnice míny a roztrhali ich na   4000 miestach. Iba elektráreň zachránili duchaprítomní robotníci. V   poslednej chvíli postrieľali Nemci kone a kravy, ktoré už nemohli   vziať so sebou. Tak otcovi 11 detí, robotníkovi Mazuchovi, zastrelili   dva kone, robotníkovi Hermanovi, otcovi 7 detí, dve kravy. Podpálili   veľkostatok Dr. Hrica, zavreli maštale a stajne, aby dobytok nemohol   ujsť. Zhorelo tam 200 oviec, 6 párov koní a 14 kráv.
+    </tei:p>
+    <tei:p>
+     Na toto plienenie, na toto vraždenie, na krv ne­vinných mužov, žien   a detí prišiel Tiso, aby v potupenom a krvou zaliatom meste vzdal   vďaku ne­meckým osloboditeľom a v mrazivom opovrhnutí celého   obyvateľstva slúžil v chráme Te Deum. Obyvateľstvo Banskej Bystrice   ignorovalo s opovrh­nutím tento hnusný čin bratislavského zradcu,   ktorý bol ironickým výsmechom nad utrpením slovenského ľudu.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Nemci povraždili anglo-americkú   misiu
+    </tei:head>
+    <tei:p>
+     Tiež členovia anglo-americkej misie, ktorú vyslali spojenci na   Slovensko a ktorá bola Nemcami zajatá, boli povraždení. Hitlerovci,   ktorí pošliapali všetky zákony ľudské i božie, ktorí ignorovali   vyhlásenie spojeneckých mocností o priznaní Charakteru boju­júcej   strany československej armáde na Slovensku, nerešpektovali ani   uniformu britskej a americkej armády. Členovia misie kapitán Green,   major Sehner, kpt. Morton, Tibor Kesthey, Michael Joney, Gil Horváth   a ostatní, celkom 18 osôb, boli najprv väznení v Banskej Bystrici a   potom povraždení. Tisov Slovák napísal, že boli chytení   anglo-americkí špióni v civili. Stovky občanov Banskej Bystrice,   ktorí videli zajatých Angličanov a Američanov v uniformách svedčia   proti lži hitlerových nádenníkov.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Slovenský Majdánek
+    </tei:head>
+    <tei:p>
+     Asi 4 km na juh od Banskej Bystrice, na ceste do Zvolena, leží   obec Kremnička. Jej meno vojde do dejín po boku tých tisícov mien,   ktoré sa staly zná­mymi hromadnými vraždami, spáchanými Nemcami v   Európe. Ani naša vlasť nezostala ušetrená od hro­madných vrážd. K   Lidiciam a Ležákom pristupuje nový zločin, ešte hroznejší — vraždy   pri Kremničke.
+    </tei:p>
+    <tei:p>
+     Asi 250 m na juh od Kremničky pretína pole široká protitanková   priekopa, vykopaná za povstania.
+    </tei:p>
+    <tei:p>
+     Prebieha od cesty k zalesnenej stráni. Toto miesto sa nazýva podľa   neďalekého evanjelického cintorína Pod cintorínom.
+    </tei:p>
+    <tei:p>
+     29. marca, teda krátko po oslobodení Banskej Bystrice, začali   občania z okolitých dedín, pod ve­dením vyšetrujúcej komisie kopať v   zavalenom úseku cintorína pod stráňou. Pod tenkou vrstvou hliny boly   nájdené mŕtvoly.
+    </tei:p>
+    <tei:p>
+     Citujeme z protokolu, ktorý bol spísaný komisiou o počiatku   exhumačných prác: Ako prvý bol vy­kopaný Móric Spitzer, narodený 17.   II. 1876. Primár Dr. Petelen konštatuje, že bol strelený do ľavého   spánku. Strela vnikla do mozgu. Nasledujúca mŕtvola je Alžbeta   Englová, rod. Binková. Leží nad svojím malým synkom Jurajom. Tretia   mŕtvola, ktorá mohla byť poznaná, je Samuel Jensel, nar. r. 1876. Bol   zabitý výstrelom do temena. Ostatné obete boly strieľané do tyla,   spánku alebo do temena. Vykopávanie po­kračuje a zjavujú sa tesne   jedna na druhej po­hádzané mŕtvoly. Hrob, v ktorom ležia, je dlhý 92   krokov, 9 krokov široký a asi 3 alebo 3 a pol metra hlboký.
+    </tei:p>
+    <tei:p>
+     Hromadný hrob pod cintorínom nie je jediný a komisia zisťuje, že   podobné hroby sú tiež pri Vyš­nom Potoku. Pod stráňou na lúke pri obci   Dlhá.
+    </tei:p>
+    <tei:p>
+     Podľa výpovedí občanov možno usudzovať, že v týchto hromadných   hroboch je pochovaných asi 4000 ľudí. Dozorca väznice v Banskej   Bystrici, Švec, tvrdí, že z väznice v Banskej Bystrici bolo   po­vraždených asi 650 osôb. Občania Kremničky vyhlasujú, že Nemci na   týchto miestach zabíjali nielen obete privlečené z Banskej Bystrice,   ale tiež z hôr a tie, ktoré boly privedené po ceste do Zvolena. Na   základe týchto výpovedí usudzuje komisia, že podľa veľkosti a hĺbky   hrobu prevyšuje počet zavraždených oveľa počet, uvedený Švecom a je   otázkou budúcnosti, keď budú skončené exhumáčné práce, aby bol   stanovený presný počet obetí.
+    </tei:p>
+    <tei:p>
+     O spôsobe, ako Nemci vraždili, hovorí občan Kremničky Samuel   Krnáč: 20. novembra 1944 som pásol na lúke krávy. Videl som, ako   nemecké vojsko uzavrelo úsek cesty od Banskej Bystrice smerom na   Zvolen na mieste zvanom Pod cintorínom. Za krátky čas na to prišlo   asi 6 nákladných aut, ktoré boly zakryté a Nemci z nich vyháňali   ľudí. V kaž­dom aute bolo asi 30 mužov, žien a detí. Nemci zriadili   ľudí pri protitankovej priekope a hnali ich Pod cintorín. Tam ich   postavili po 10 do radu a strieľali ľahkým guľometom. Medzi živými sa   ozýval plač a kvílenie. Deti objímaly matky, ženy si trhaly vlasy. Ja   som sám plakal ako dieťa. Videl som potom, ako Nemec pristupuje ku   každému ranenému a padlému a dobíja ho ranou z pištole.
+    </tei:p>
+    <tei:p>
+     Ján Kučera, predseda NV z Kremničky, hovorí podobne ako Samuel   Krnáč a dodáva: Videl som, ako si obete musely uložiť na jedno miesto   všetko čo maly vo vreckách a tiež batožiny, čo Nemci potom niečim   poliali a zapálili.
+    </tei:p>
+    <tei:p>
+     Komisia našla miesto, na ktorom Nemci tieto veci pálili. Boly   nájdené zvyšky okuliarov, ohorené handry, kľúčiky, nožíky, pinzeta a   iné drobnosti. Medzi zločincami, ktorí sa tohto vraždenia aktívne   zúčastnili, sa uvádzajú: Hauptman Krüger, Obersturmführer Raumhart a   šofér Müller, SS-man, na­rodený na Slovensku.
+    </tei:p>
+    <tei:p>
+     V závere protokolu sa hovorí: Je shodou okol­ností, že tam kde   nemecký Übermensch vraždil nevinných, na tom istom evanjelickom   cintoríne pre­liali za slobodu nášho národa svojho národa dvaja vojaci   Červenej armády ml. lejtenant Viktor Lvovič Schönfeld a seržant Vasil   Grigirievič Isákov.
+    </tei:p>
+    <tei:p>
+     Protokol komisie končí sa slovami Jána Kollára zo Slávy dcéry:
+    </tei:p>
+    <tei:p>
+     Zardi se závistná Teutonie sousedky Slávy,
+    </tei:p>
+    <tei:p>
+     tvé ruce spáchaly zločinů těchto počet,
+    </tei:p>
+    <tei:p>
+     neb nikdy tolik krve nevylil černidla, že žádny
+    </tei:p>
+    <tei:p>
+     nepřítel,
+    </tei:p>
+    <tei:p>
+     co vylil k záhubě Slávy Němec.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Nad otvoreným hrobom
+    </tei:head>
+    <tei:p>
+     Keď prišiel na miesto vládny delegát s novinármi, bolo vykopaných   47 mŕtvol. Z nich 28 žien a dvoje detí, jedno asi 4-ročné, druhé   7-ročné. Medzi za­vraždenými mužmi leží vojak v uniforme slovenskej   armády. Podľa tvrdenia predsedu Národného výboru v Kremničke, npor.   zdravotnej služby, na dne prie­kopy leží polozasypaná ďalšia vrstva   mŕtvol. Vidíme mužské i ženské nohy v hrubých sedliackych a   vo­jenských topánkach, z hliny bezmocne vyčnieva detská rúčka, inde   nôžka dievčatka v krátkych sukničkách. Mŕtvoly sú do seba zapletené,   tak ako padali mŕtvi alebo ranení do priekopy na seba. Podľa tvrdenia   občanov Kremničky Jána Kučeru, Jána Knopku a Emila Virága, bolo   niekoľko obetí, najmä detí, zakopaných za živa.
+    </tei:p>
+    <tei:p>
+     Ideme k mŕtvolám, ktoré sú složené na okraji lesa. Strašný zápach   z rozkladajúcich sa mŕtvol otra­vuje vzduch. Ťažko sa dýcha a s   najväčším sebazaprením môže človek prejsť radmi zohavených ľudských   tiel. V prvom rade leží muž stredného veku. Na veste, pod rozopätým   kabátom, je pri­pevnená žltá židovská hviezda. Vedľa neho leží stará   žena s bielymi vlasmi pokropenými krvou. Jej tvár je znetvorená k   nepoznaniu. Tretia žena je v sedliac­kych šatách s plstenými topánkami   na nohách. Tro­cha ďalej leží mladá žena, ktorej nemecký automat pred   smrťou rozstrieskal holennú kosť, inde leží mladé dievča v gumových   čižmách. Ako uzlíček kostí sú schúlené zavraždené deti.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Tisíce zavraždených
+    </tei:head>
+    <tei:p>
+     Komandant mesta st. lejtenant Golobukov je na podobné pohľady   navyknutý. Prešiel bojišťom v Sovietskom sväze, ktoré nemeckí kati   premenili v obrovský cintorín zavraždených. Nehovorí o sebe, ale   ukazuje na červenoarmejca, ktorý ho sprevádza a díva sa prísnymi   očima na hrôzu okolo a dodáva: Aj tomu tu zavraždili Nemci na   Ukrajine ženu a dieťa.
+    </tei:p>
+    <tei:p>
+     Na náš dopyt odpovedá komandant, že odhaduje počet pochovaných v   protitankovej priekope na 1200. Asi 100 m ďalej pri lese je druhý   hromadný hrob. V ňom je pochovaných asi 1000 obetí. Tretí hrob je nad   evanjelickým cintorínom. Počet mŕtvol na tomto mieste nebol ani   odhadnutý.
+    </tei:p>
+    <tei:p>
+     Medzi Kremničkou a tehelňou pri Kráľovej je po­chovaných 119 obetí.   Nemci ich postrieľali v zime a zahádzali snehom. Na jar, keď sa sneh   začal topiť, stiekala voda presiaknutá mŕtvolným zápachom do   Kremničky. Starosta šiel na nemecké veliteľstvo a žiadal o dovolenie   zakopať mŕtvoly. Na druhý deň prišli do obce dvaja žandárski   feldvébiovia, Nemec a Maďar. Cynicky sa pýtali, kde je tá hromada   mŕtvol, povraždených partizánmi. Pod ich dozorom potom obyvatelia   Kremničky obete pochovali.
+    </tei:p>
+    <tei:p>
+     Strašný prípad rozpráva predseda MNV v Krem­ničke Ján Kučera: Elena   Fischerová, manželka ob­chodníka z Banskej Bystrice, bola pri   hromadnom vraždení ťažko ranená, ale zostala pri živote. Nemci ju   pokladali za mŕtvu a odišli. Fischerová prišla k sebe a volala o   pomoc. 24 hodín ležala medzi mŕtvolami, medzi ktorými bol aj jej muž   a syn. Potom sa o tom dozvedeli Nemci a dobili ju.
+    </tei:p>
+    <tei:p>
+     Pri hromadných hroboch sa odohrávajú srdce­rvúce scény, keď   obyvatelia Banskej Bystrice a oko­litých obcí prichádzajú hľadať   svojich drahých. Aranka Šebeková hľadá svojho muža. Iný hľadá svoju   ženu, svoje deti. 12-ročné cigánske dievčatko poznalo medzi   vykopanými mŕtvolami svoju matku.
+    </tei:p>
+    <tei:p>
+     Koho Nemci vraždili? Slovákov, Čechov, Židov, partizánov, vojakov,   Cigánov, obyvateľov Banskej Bystrice, sedliakov z okolitých dedín.   Stačilo po­šepkané udanie. Vraždenie začalo sa koncom no­vembra   minulého roku a trvalo do oslobodenia Ban. Bystrice.
+    </tei:p>
+    <tei:p>
+     Podobný obraz vidíme vo Zvolene. Z hromadného hrobu na židovskom   cintoríne bolo zatiaľ vykopaných 96 mŕtvol, medzi nimi Slovák Vojtech   Mantuano, člen MNV vo Zvolene. I v tomto hrobe sú malé deti. Iný   hromadný hrob obetí nemeckého zúrenia pri Zvolene je v obci   Kováčová.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Nemecké zločiny musia byť   potrestané
+    </tei:head>
+    <tei:p>
+     K vyšetreniu zločinov v okolí Banskej Bystrice bola ustanovená   komisia. Jej predsedom je sudca Dr. Juraj Šujan, členmi sú biskup   Dr. Jozef Škrábik, primár Dr. Daniel Petelen, lekár Dr. Nabielek,   člen ONV v Banskej Bystrici Ondrej Mojžiš a predseda MNV Ján   Kučera.
+    </tei:p>
+    <tei:p>
+     Niet a nemôže byť dosť prísneho trestu pre ne­meckých vrahov. Nič   nemôže ospravedlniť smrť nevinných žien, matiek a detí. Pred   hromadnými hrobmi pri Kremničke by maly prejsť všetky nemec­ké ženy a   deti, aby už nikdy v živote nezabudly na hrôzu, ktorú páchali   nacistickí lotri. Tam by mala prejsť aj lady Gibb a všetci tí   pseudohumanisti, ktorí ešte dnes prelievajú kdesi krokodilie slzy nad   úbohým Nemeckom.
+    </tei:p>
+    <tei:p>
+     Kto poznal Nemca, ten nezabudne, neodpustí. My sme ich poznali vo   vlastnej krajine, povraždili našich rodičov, sestry, deti.   Nezabudneme a neod­pustíme ani vtedy, keď z Nemecka nezostane ani   kameň na kameni.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

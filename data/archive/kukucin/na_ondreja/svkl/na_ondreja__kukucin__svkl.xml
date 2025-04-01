@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk195729" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Na Ondreja : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:19713382">
+     Kukučín, Martin (1860 - 1928)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     3923
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+      Na Ondreja
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      SVKL
+     </tei:publisher>
+     <tei:date>
+      1957
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Kukučín, Martin
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1924
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-06">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Na Ondreja
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Dnes, sotvaže sa zvečerilo, Vrtielka sadol si k peci na lavičku.   „Hja, teplá pec, a to ešte v zime, nenie na zavrhnutie,” rieknete vy,   všední ľudia. No gazda Vrtielka tu nedrží s vami. Ak by v zime gazda   sedel vždy len pri peci, to by ale krásne pochodil! Cez celý deň dosť   sa navrtí na dvore: tu mlátiť, tu riadiť statok, i nedostane sa   hriešnemu gazdovi sadnúť len práve na ten obed k božiemu stolu. No   večer, keď tamvon mlynári sa bijú, i on rád utiahne sa k teplej peci,   aby sa zohrial a podriemal si; lebo keď sa najedený sedliak zohreje   pri peci, ihneď zadrieme; to jeho druhá nátura. Ale načo mu hriať sa   aj vo dne, keď musí zhodiť zo seba i kožuch pri cepoch od   horúčosti?
+   </tei:p>
+   <tei:p>
+    Náš Vrtielka neoddychuje ani večer, ako snáď iní chlapi; on i   teraz chce byť užitočným, preto jeho žena ešte pred večerom nadela mu   kúdeľ hrubými zrebami, z ktorých on snaží sa ukrútiť nití. No, sú to   za nite! Budú z nich papuče psíkovi. Sú hrubé, nemotorné sťa tie   prsty neobyčajnej priadky. Nadeté na kúdeli zrebe sú mocne zviazané,   lebo inak ten nesvorný, nezmestný tovar roztriasol by sa. Preto, hľa,   Vrtielka poťahuje vlákna celou silou mohutnej ľavice. Biedna, slabá   ženská iste by o ruky prišla v takejto práci, veď i sám silný   Vrtielka až potí sa prílišným namáhaním. Poťahuje on tie zrebe silne,   až praštia; i vynorujú sa hrubé nite z objemnej kúdele. Ale vlákna   nechcú ísť hladko: niekedy tratí sa súvis medzi nimi, inokedy zas až   príliš ochotne sa núkajú v podobe veľkej hľuzy. No Vrtielka nenechá   tieto nerozriešené, lež keď ani ruky nedostačujú, zdravé zuby jeho   zasiahnu do diela. Jak hladko plynie vlákno hebkého ľanu k prstom   priadky, jak rovná niť tvorí sa z neho! Plynie jak strojné myšlienky   poetu. Ale práca Vrtielkova ťažká, hrudovitá, sťa hlboké bádania   filozofa. Koľko ráz divné problémy zastavia niť trudov učenca, a tie   ťažšie riešiť než Vrtielkovi zrebné hľuzy.
+   </tei:p>
+   <tei:p>
+    Dosť na tom dostihli sme Vrtielku pod kúdeľou. Hrozné, mužský a —   priasť!
+   </tei:p>
+   <tei:p>
+    Vrtielka, Vrtielka, čo to len robíte! Veď vás vytrú z obecného   výboru, veď stratíte autoritu v obci. Ó, iste, iste všetci občania   zlomia palicu nad vami. Viem, že všetci tí, ktorých ženy prinútia   sadnúť pod kúdeľ, len na vás budú vzdychať, že váš zhubný príklad   priniesol ich o pokoj večerných hodín. Veď ste sa vy zbabili, úplne   zbabili, odhodiac svoj klobúk a siahnuc po ženinom čepci.
+   </tei:p>
+   <tei:p>
+    Ľudia boží, Vrtielkovi poctivosť! On sa ani nezbabil, ani nezadal   výbornícku česť. A že vraj pradie! To len v tom umení nezbehlý laik   môže tvrdiť. Veď on nepradie, ale
+    <tei:emph>
+     drugá
+    </tei:emph>
+    . Pozrite na jeho   kúdeľ, či je ženská, rezbársky tak ozdobná a obitá olovom, aké   mládenci darúvajú dievkam? Nie. Ona je bez všetkej okrasy, i bez   kotúľky. A načo Vrtielkovi kotúľka, patriaca len vretenu? On nemá v   ruke vreteno, ale príručný kolovrátok. No a medzi príručným   kolovrátkom a vretenom je asi taký rozdiel, ako medzi klobúkom a   čepcom. Ovšem, ak by si tak vretenom zasukoval, mohli by ho právne   napadnúť v obecnom výbore, ale o príručný kolovrátok rozdrtí sa každý   nápad utrhačného sveta.
+   </tei:p>
+   <tei:p>
+    Na kozúbku práska si veselý ohník. To praskot nie mocný, veštiaci   zvadu v dome; to praskot milý, pochodiaci z nakálaných, presušených   triesok a smoliarov. Z kozuba svetločervená žiara rozlieva sa po   všetkých kútoch priestrannej chyže, mocne sa odrážajúc od radu   bielych mís a tanierov, povešaných na dlhočiznom starožitnom ráme,   ktorý visí na štítnej stene pod samou povalou. Vo vyšnom rade sú o   rámovú latku opreté plytké biele misky, v druhom cifrované krčiažky   visia na drevených storočných klincoch. Krčiažky sú medzi sebou   rovné, akoby jeden druhému bol z oka vypadol. Riad tento nemá   pamätníka. Prežil i toho, kto ho kupoval, i dlhý rad potomkov jeho.   Ale ani nie div, že tak dlho trvá; veď Vrtielka ešte nikdy nejedol z   tých misiek, ani nepil z tých cifrovaných krčiažkov. Len žena jeho,   keď má niesť radostník na svadbu alebo krštenie, sníme z rámu   primeraný počet misiek a krčiažkov. Riad, ako aj chyža, je čistučký,   mohol by si sa nazrieť doňho, akoby bol len dnes vyšiel z hrnčiarovej   ruky; poznať, že tu majú aj dievčence. A skutočne, sú tu dve.
+   </tei:p>
+   <tei:p>
+    Pri kozúbku v izbenom kúte odkrytá posteľ. Z nej ťažké stony   ozývajú sa chvíľkami. Tam leží Vrtielkova mať. Jej vráskovitá tvár   javí už síce zošlý vek; no živé, po izbe stále blúdiace oko hlása, že   ešte nevyrovnala účet so životom. Jak jej divno chorieť; jej, ktorú   ani len zub nikdy nezabolel. Ešte po obede bola zdravá ako orech, a   teraz… Či to ozaj už smrteľná nemoc? Ach, nie, veď nevesta má ešte   toľko ľanu! Ktože to všetko popradie? Čo budú mať dievčence na vydaj,   ak nebude v truhle nič plátna? Stará si vzdychla, ťažko vzdychla.   Predstavila si, ako by nemohli obísť sa tu bez nej, ako by plakala za   ňou nevesta s vnučkami. Veď i ona sama jak ľútostive vykladala nad   rakvou nebožkej testinej — (Pán Boh jej daj slávu večnú)!
+   </tei:p>
+   <tei:p>
+    Ale čo sa stalo tej Vrtielkovej tak naponáhle? Nuž o polvečier   schytilo ju zívanie a veľká ťažoba šla jej na srdce. Jedným slovom,   prišlo jej z očú. Lekári-teoretici radi by ignorovať túto chorobu, no   nejde to. Napríklad už Vrtielkovci a s nimi valná väčšina smrteľníkov   veria v ňu; nuž či by Vrtielková chorela, keby tej choroby nebolo?   Lekári, teda poďte do Vrtielkov, viďte a — verte! Čo sa vzniknutia   tejto choroby týka, je to už celkom vyskúmané. Divní ľudia sú na   svete; medzi nimi i takí, ktorých obočia sú ponad nos zrastené. Tých   sa chráň každá kresťanská duša! Ten len pozrie na teba, a už ti príde   z očú. Symptómy tejto nemoce sú tak neobyčajné — teda zívanie a   ťažkosť na srdci — že ľahko ju konštatovať. I stará Vrtielková   poznala ju hneď; no nebola ešte načistom, kde a od koho ju dostala,   čo zvedieť je nevyhnutne potrebné, jestli chceme liečiť radikálne.   Konečne po dlhom rozmýšľaní zišlo jej to na um. Pred večerom totiž   šla dolu cestou po vodu, stretla Jožka Rúbanovie. Šuhaj ako kus   chleba, no majiteľ inkriminovaných obočí. Prihovoril sa jej, pozrel   na ňu, a ona hneď striasla sa pred ním, vidiac jeho chybné obočie.   Snáď z hnevu, že ho s prázdnym prešla, snáď nechtiac, chudák,   zapríčinil jej z očú. Domáce konzílium po takomto preskúmaní nemoci a   s ňou súvisiacich okolností chytro sa dohodlo ohľadom liekov.
+   </tei:p>
+   <tei:p>
+    Mariena, Vrtielkova žena, práve vchodí s nimi do chyže. Na jej   hlave zahodená belasá šatka posiata je páperím kyprého, mladého   snehu. Otrasúc ho v kúte, zavesila šatku na žŕdku.
+   </tei:p>
+   <tei:p>
+    „Mara, doniesla si všetko, čo treba?” pýta sa starostlivý   manžel.
+   </tei:p>
+   <tei:p>
+    „Áno, lieky sú tu, bohdaj by sa viac ráz nezišli. Jožko nevie nič   o ničom. Ani som nevošla do izby, aby to nezbadal; len v kuchyni   rozpovedala som všetko materi jeho. Tá vošla dnu, ale ja čakala som   ju pod stenou, pozerajúc oblokom, čo sa bude robiť v izbe. Jožko   práve sedel pred kozubom na stolčeku a plietol opálku, keď jeho mať   odstrihla mu chlp vlasov i kúsok galúna z košele. Vyniesla mi to von,   a ja som šla domov, vytiahnuc z ich strechy aj tieto tri slamky.   Lieky budú osožné, keď Jožko nevie o ničom.”
+   </tei:p>
+   <tei:p>
+    „Veď aj božechráň, aby šípil niečo. Načo by nám boli?”
+   </tei:p>
+   <tei:p>
+    I sama chorá obzerala donesené lieky, oprúc šedivú hlavu o lakeť.   Mladá chcela ich položiť na stôl, no svokra ju okríkla:
+   </tei:p>
+   <tei:p>
+    „Mara, neklaď to na stôl! Preboha, ešte nevieš, že lieky sa ta   nedávajú?”
+   </tei:p>
+   <tei:p>
+    Mariena zľakla sa; až teraz jej napadlo, že lieky stratia svoju   moc, sotva prídu na stôl. Ona nebola ešte dostatočne zbehlá v domácom   hospodárstve, keďže dosiaľ viedla tú rubriku svokra, v celom okolí   hľadaná vedomkyňa. Nevesta teraz už želie, že sa od nej nenaučila   tomu umeniu: kto bude liečiť chorých, keď zo svokry duša vypadne?
+   </tei:p>
+   <tei:p>
+    Vrtielka, bojac sa, že jeho Mariena urobí zas nejakú chybu, sám   prevzal liečenie. Vyhľadal negliedený čriepok, vložil naň päť   žeravých uhľov, sňal z trámu v papieri zakrútené odpadky z vianočného   stola: kúsok opekanca, piroha, cesnaku, k tomu omrvinu oblátky. Tieto   od Vianoc už náležite vyschlé relikvie dal na uhlíky, priložil k nim   aj od Rúbanov prinesené a mocne to rozdúchal, až zápach z toho šíril   sa po celej izbe. Stará nadchýlila hlavu nad ten liečivý dym a   vťahovala ho silne do seba. Nad hlavou rozostreli jej široký obrus,   aby sa dym neroztratil. Keď už všetko stlelo, obviazali jej hlavu tým   obrusom. Vrtielka vyniesol čriepok von. Keď vstúpil do izby, stará   ešte raz podvihla hlavu:
+   </tei:p>
+   <tei:p>
+    „Kde je popol a čriepok? Vysypal si to na krížne cesty? Ale si mu   dal!”
+   </tei:p>
+   <tei:p>
+    „Nie, mamo, už je to v potoku.”
+   </tei:p>
+   <tei:p>
+    „No, dobre. Aby sa niekto tým neokaličil. S takými vecami   pozor.”
+   </tei:p>
+   <tei:p>
+    Iba potom, keď už bola uspokojená dotyčne popola, poprikrývala a   utíšila sa, a hneď i zaspala, ukolíbaná pevnou nádejou, že zajtra   povstane celkom zdravá.
+   </tei:p>
+   <tei:p>
+    Ťažko presvedčiť ľud, a to ešte starších, o prednostiach riadneho   liečenia. Povie ti: proti smrti niet lekára, berúc to doslovne.   Ochorejúc, radšej sa obráti na dedinských vedomcov, ktorých lieky sú   mystické, s čarami a poverami spojené, než na riadnych lekárov. A keď   týchto aj pozve, je už neskoro liečiť, no ešte dosť času dať posledné   pomazanie. Takýto lekárom nezavinený nezdar slúži za dôvod, aby ich   nevolali. Už tam zle vyzerá, kam vezú lekára. On je viac už nie   darcom zdravia, ale kuvikom, predzvestujúcim smrť. No, nedivme sa   tomu. To plynie celkom prirodzene z povahy nášho ľudu, ešte vždy k   čarám ľnúceho. Veď aký je kontrast medzi moderne oblečeným lekárom a   mlčanlivou vedomkyňou, radiacou sa v začadenej izbe so svojím čiernym   kocúrom! Tá nedrží za hodné ustávať sa k chorému, lež dľa opisu   choroby pošle svoje zelinky. Veď lekár je len jednoduchý človek, či   ten môže znať niečo zvláštneho; veď ten hovorí riadne ako aj iní   ľudia, kdežto vedomkyňa alebo mlčí, alebo prehodí len pár   nesúvislých, tajom čarov a povier páchnucich slov, tým uchvátiac   klienta svojho. Sedliak chce hojiť zlé zlým, preto jemu horké lieky   čarodejnice skôr zodpovedajú než slabé prášky lekárove. Liek, aby   osožil, mienkou nášho človeka má byť silný a vo veľkom množstve   užívaný. Preto nejeden chorý s opovržením usmeje sa nad práškami,   ktoré má užívať len hodinami. Len šesť mizerných práškov, a toľko   komédie s nimi! Ech, čo, vsypme a vypime to razom, nech sa to skrátka   odbaví. Takto snáď skôr osoží.
+   </tei:p>
+   <tei:p>
+    Keď stará už olympsky chrápala, vrava sa ozvala na dvore. Do chyže   vošlo razom mnoho dievčat. Izba až preplnila sa nimi; už nenie svetlá   a vidná ako predtým, lež stemnela od mnoho čiernych šatiek. Ktorým sa   dostalo, posadali si; ostatné šli si na dvor po stolce, aby nimi celú   izbu zabarikádili. Vrtielka zadusil oheň na kozúbku, lebo dievčatá už   zapálili spoločnú lampu. Vrtielka pozhrebal žeravé uhlíky do malej   hromádky a prihrnul ich popolom, aby zážeh vytrval na nich až do   rána. Každé dievča rozkrútilo šatku, vyjmúc z nej kužeľ, česaným   ľanom nadetý. Doma dali všetkým po dve prázdne vretená, ktoré majú   byť tohto večera zaplnené. Na to každý otec prísne dozerá. Každá   dievka musí doručiť zajtra ráno dve plné vretená svojmu otcovi, aby   to zmotal na pradeno. Ak jedno chybí, alebo ak priadza je nečistá, na   vreteno slabo skrútená, otec to neodpustí, ale tvrdo karhá nesporú   priadku. Ba jeho bezohľadnosť siaha až tak ďaleko, že očierni ju,   áno, ju, vlastnú svoju dcéru, pred mládenci, čo lenivú priadku. Keby   tak mamička viedla dozor nad dcérinou prácou, iste by prižmúrila očko   nad jej slabosťou; no takto obmedzuje sa len na odrážanie silných   útokov mužových, namierených proti dievčaťu. Ach, nejedna mamička   vzdychne nad kamenným srdcom svojho muža, čujúc, ako tento svoju   dcéru hreší alebo ohovára pred mládenci. Či potom div, že oni obídu   jej dcéru na fašiangy, nechajúc ju čakať za čepcom tristo   šesťdesiatpäť dní a tých niekoľko hodín a minút.
+   </tei:p>
+   <tei:p>
+    Ale darmo je, nutno nám vyznať, že táto tvrdosť otcovská aj osoží.   Keby nie ona, pýtam sa: či by tieto dievčatá u Vrtielkov sedeli tak   ticho a priadli tak pilne? Pochybujem. Tu nečuť len hvizd zasúknutých   vretien a šum voľného poťahovania vláken. Celý dom je ako vymretý,   akoby víly priadli zlaté nitky v ňom. Poďte sem, barbarskí otcovia,   viďte pilnosť svojich dievčat a netrápte ich viac svojou tvrdosťou!   Hľa, už aj kotúľky sú zbytočné, lebo miesto nich tenká ľanová priadza   ťaží vretenu. Odňaté z vretien visia už na kúdeliach. Menších dievčat   sú z olova, starších z mosadze. Tie olovené otcovia kúpili, mosadzné   ktosi iný… Hej, mamička netrpezlivo čaká, kedy mosadzná kotúľka už   odvisne na dcérinej kúdeli. Ach, a keď sa to stalo, podrastie o dve   hlavy nad muža.
+   </tei:p>
+   <tei:p>
+    Gazda Vrtielka smiešne sa vyníma medzi tou mladou čeliadkou, no   smiešnejší ešte jeho kolovrátok medzi vretenami. Tieto sa vrtia   rovno, súmerne a ticho, jeho kolovrátok drgá, hádže sa a vŕzga na   poľutovanie. Kým on krvopotne ukrúti krátku, hrubú niť, dievča hravo   usúka tenkú, siahodlhú cvernu. No i jeho kolovrátku už priťažieva,   zapríčiňuje to povážlivá hrubosť priadze jeho. Beh vretena podobá sa   rýchlosti parného rušňa, druganie kolovrátka vlečeniu sa vrzgotavej   žobráckej taligy. No Vrtielkovi nie náhlo. On stačí nadrugať cez zimu   na tých pár povrazov. Teda nie na plátno, lež na povrazy potrebuje   svoje nite. Nuž nehovorte mu, že sa zbabil, keď koná výlučne mužskú   prácu.
+   </tei:p>
+   <tei:p>
+    Dievčatá už odkladajú po plnom vretene. Každá bedlivo obzrie si ho   a poťažká na dlani. Sú s prácou spokojné. Ale tamto Katra už má dve   plné, ba i Zuzka — i všetky. To sa neprace do Vrtielkovej hlavy, hoci   je dosť hodná. Veď i on drugá pilne, ako Pán Boh prikázal, a iba   teraz je kolovrátok plný. No, sú v tom akési čary! Začína sa i   ostýchať pred chytrými dievčatami pre svoju nezručnosť. Ale my   nesmejme sa na chudákovi! Dievčatá tiež len po jednom napriadli, po   druhom dostali ešte doma od mamičiek. Bože môj, je to tak hriešno?   Dnes je Ondreja, dievča sa zabaví, nenapradie len jedno vreteno, a   otec bude zas zajtra hrešiť. Ó, ten neuzná ako mať! Ale takto úskočná   ženička aspoň mu nasype piesku do zasleplých očí. Mužovia, myslíte,   že prevediete ženské? Ó, nenamáhajte sa!
+   </tei:p>
+   <tei:p>
+    A tak svedomitá práca už pri konci. Dievčatá, poopierajúc kúdele o   stenu, zastanú naprostred izby a vyťahujú sa. Stolce sú už vynesené   na dvor. Predtým tak tichá izba obživla; začal sa smiech a živé   besedovanie. Jak dobre cítil sa Vrtielka v tej tichosti, jak protivný   mu tento štebot! Už sa zberá, že ide preč, no zíde mu na um, že   prevrátia mu dom naruby v jeho neprítomnosti. Voľky-nevoľky pochytil   opäť prázdny kolovrátok. Jak ľutoval, že prijal priadky do svojho   domu. Ale čo mal robiť? Každý rok u iného dievčaťa priadky sa držia.   Toho roku prišiel rad na jeho dievky, či sa mohol starým obyčajam   sprotiviť? On sa podrobil starým poriadkom. Radšej vynáša každé ráno   stolce, ktoré dievčatá potrebovali; radšej nech jeho dcéry umývajú   každú sobotu do týždňa zablatenú dlažbu, než aby sa on, výborník   Vrtielka, stal rušiteľom tak krásnych ustanovizní. Ale on by zniesol   všetky tieto nepríjemnosti, vďaka jeho i náš ľud charakterizujúcej   stoickej rezignácii, no teraz vie, že dnes treba ňou ozbrojiť sa mu,   lebo Katra rozkladá už na kozúbku ohník. Ľúto je Vrtielkovi tej   krásne zariadenej pahreby, ktorú rozhrebla po ohnisku. Slabý,   modrastý plamienok kmitá sa už na žeravých uhľoch, ktorý Katra   obživuje fakľami a smoliarmi, Vrtielkovou rukou, ale nie k tomuto   cieľu pripravenými. Triesky kladie na oheň spakruky: teda čary!
+   </tei:p>
+   <tei:p>
+    Plamienok veselo tancuje na kozúbku, paralyzujúc, ba až zatieniac   matné svetlo začadenej lampy. Tiene sem-tam chodiacich dievčat   zaľudňujú protejšiu stenu nemými postavami, konverzujúcimi mimikou.   Katra drží v ruke olovo; hodný ho je síce kus, no stratil už lesk   kovu. Poznať, že poneviera sa oddávna. Prvotne bolo ho ešte viac, za   pár liet stopil sa až na toľkoto. Veď koľkoráz už zvestoval budúcnosť   Katre a jej družkám. Biedne olovo! Iným máš odhaliť závoj skrytej   budúcnosti, ale samo za tú cenu spokojiť sa istotou hynutia! Ale:   načo meníš v každom ohni svoju podobu? Načo sa tak chabo roztápaš už   v slabom plamienku? Načo zahaľuješ sa šedým plášťom hrdze už na   obyčajnom povetrí? Dobre, aspoň v ohni ukáž pravú farbu, prirodzený   lesk!
+   </tei:p>
+   <tei:p>
+    Nebádajme to, ako prišla k nemu Katra; tá história končí sa v   prečine, ktorého meno: krádež. Dievčatá môžu na Ondreja upotrebiť len   ukradené olovo; preto mladšie starostlivo skryli kotúľky, aby nestali   sa cenou, za ktorú majú obdržať slamené proroctvo.
+   </tei:p>
+   <tei:p>
+    Tu je, hľa, i cínová lyžica. Už nevidíš na nej cínu: zvonku   občadená dymom, dnu krytá troskou olova. Dievčatá zdedili ju od   babičiek svojich, ktoré tiež na nej topievali ondrejské olovo.
+   </tei:p>
+   <tei:p>
+    Olovo sa už topí, čistí. Hrdza i kal a všetko, čo ho bridilo,   čmýri sa na povrchu ťažkej roztopenej masy. Myslel by si, že na   lyžici je len samá troska; no to je len povrch, na dne je   bieloskvúci, čistý kov. Dobrý je predsa ten oheň, keď tak zná čistiť!   Hrdza, brud nepatrí k čistej mase, preto v ohni zradne opúšťa ju. No   ty, kov, nezúfaj! Len sa čisť; nech ťa je radšej menej čistého než   mnoho zabrideného! Čo stratíš na objeme, stonásobne vyhráš na cene.   Top sa, top, ty nedvižná masa, nech ťa aspoň oheň vytrhne z lenivej   nečinnosti! Vri, zovri, nech oheň vzpruží tvoju spiacu silu!
+   </tei:p>
+   <tei:p>
+    Roztopené olovo rezko sa húpa na lyžici, držanej trasúcou sa rukou   Katry. Po izbe tancujúce dievčatá nebadajú to rozčúlenie, ktoré   zmohlo sa tejto ich družky. Ona cíti hlboký význam prítomného   okamženia: veď má prorokovať najprv sebe. Bože, ak uleje sa jej niečo   smiešneho. Či ozaj Miško Skrútava príde z vojny? Ak ho tam zastrelia,   ak pozabudne na sľuby a vrátiac sa domov, niektorú z mladších si   vyberie? Mráz jej prešiel telom.
+   </tei:p>
+   <tei:p>
+    „Vylej, Katra, už sa roztopilo,” volali netrpezlivo čakajúce   družky.
+   </tei:p>
+   <tei:p>
+    „Sem vodu a kľúč!” volala Katra, snímajúc lyžicu z plameňa.
+   </tei:p>
+   <tei:p>
+    Žiadané veci sú už na lavici. Katra, držiac ľavou rukou kľúč,   vliala cezeň olovo do vody. Kov jasajúc zobliekol kepienok stariny a   cudzoty, sám bielučký živosťou ortute čľupnúc do vody. V dievčencoch   zatajil sa dych v napätom očakávaní. Ba nečuť ani len stereotypný   vrzgot gazdovho kolovrátka. Vrtielka pozabudol trochu na výbornícku   autoritu; spustil ruky do lona, zierajúc tiež, premožený zvedavosťou,   na Katrino dielo. Z mládeneckých časov jedna pozostalá spomienka   kmitla mu hlavou, totiž ako i on držal svojej Mariene kľúč nad vodou.   A iste by odtajil túto vtedajšiu slabosť svoju, keby ju nehlásal   veľký švík na jeho ľavej ruke. On držal ten kľúč, jeho Mariene práve   zviezol sa vrkoč ponad plece, prekážajúc im v diele. On chcel jej ho   dobrodušne napraviť pravicou, no Mariena, nečakajúc nič dobrého od   Vrtielku, trhla sa, i poď milé olovo po jeho ruke. Od tých čias silno   zanevrel na ondrejský večer.
+   </tei:p>
+   <tei:p>
+    Katra vyníma z hrnka stuhnutý, prečistený kov. Farbou a leskom   podobá sa striebru. No premena farby je vedľajšia, keď treba spytovať   podobu. Ostatné dievčence naťahujú hrdlá ponad jej plecia, túžiac už   raz vidieť, čo sa jej ulialo. Jedny zvolali:
+   </tei:p>
+   <tei:p>
+    „Kladivko! Pozrite, i nákova. Bude kováč!”
+   </tei:p>
+   <tei:p>
+    „Čo, kováč?” odporovala Katra.
+   </tei:p>
+   <tei:p>
+    Proroctvo sa jej nezdalo. Podala kov iným.
+   </tei:p>
+   <tei:p>
+    „Horký kováč! To je švec. Kladivko i šidlo je tu! Či nie?”   opytovali sa Katry.
+   </tei:p>
+   <tei:p>
+    No tej ani tento výklad nepáčil sa. Veď Skrútava nenie ani kováč,   ani švec. Napadlo jej, že dievčatá chcú ju len prekárať s takými,   akých ona nechce. I podala olovo najvyššiemu fóru, Vrtielkovej žene,   sediacej pod pecou. Táto znaleckým okom skúmala nevdojaký útvar   olova. Ani nezabudla pozrieť na Katru a videla, ako srdce úbohej   zmieta sa trápnou neistotou pre Miška Skrútavu. Vezmúc do ohľadu i   túto okolnosť, s múdrou, vážnou tvárou vyniesla nález:
+   </tei:p>
+   <tei:p>
+    „Dietky, verte mi, to bude gazda. Že je to kladivko? Ó, nie, to je   svoreň. Šidlo znamená, že bude konníkom, lebo ním bude obšívať   chomúty pre kone. A toto má byť nákova? Vidíte, že to ostré; to je   čerieslo. A pamätajte moje reči, že bude tak.”
+   </tei:p>
+   <tei:p>
+    Katre sa poľahčilo. Jej túžba dostala pečať istoty.
+   </tei:p>
+   <tei:p>
+    Olovo je zase na ohni. Roztopilo sa v okamžení. Katra podala   lyžicu vrstovnici Žofke, lebo rad bol na nej. Konečne žblnklo olovo   do hrnčeka. Hľa, zas nový tvar.
+   </tei:p>
+   <tei:p>
+    „Súdok i pobíjačka. Bude debnár!” rozhodli napochytre   dievčatá.
+   </tei:p>
+   <tei:p>
+    „Nie, to je súdok i merťuk. Bude krčmár. Debnár má i oberučný nôž,   a ten vám je tu?” okríkli ich druhé.
+   </tei:p>
+   <tei:p>
+    „A oberučného noža niet!” splesala Žofka, lebo nechce debnára.
+   </tei:p>
+   <tei:p>
+    Predo dvermi dupot. To budú mládenci. Olovo vbehlo do Katrinej   kešene. Dievčatá rozbehli sa od ohniska ku kúdeliam. Hrnok prevalil   sa v tej trme-vrme a jeho obsah podlial Vrtielku, sediaceho pod   kúdeľou. Zacítil vlhkosť, bol by zahrešil silne, ale slovo prischlo   mu kdesi v hrdle, vidiac čosi čudného vchodiť do izby. Dievčatá   vykríkli úžasom, odhadzovali kúdele, vyskakujúc na lavice. Niektoré   hľadali záštitu u dobrého Vrtielku, utiahnuc sa zaňho ku kozúbku.   Katra i objala ho mocným ramenom, trasúc sa od strachu.
+   </tei:p>
+   <tei:p>
+    Naprostred izby postava, o akých už len fantázia ľudu blúzni.   Kryje ju biely plášť, ktorého krídla desno odvisnú k zemi, keď   postava rozovrie náruč. Tvár bledá, zohyzdená dlhými zubmi, až sa pod   pery nepracú, vyškierajúc sa na zdesené dievčatá. Kostnaté prsty na   pol rífa dlhé. Jedným slovom, smrť prišla. I ohromný baran doknísal   sa za ňou. Tiež zastal si naprostred izby, obzeral sa, tu i tu   povedome kývajúc rohatou hlavou. Rozovrúc širokú papuľu, vypustil z   nej protivný, bľakotu podobný hlas, až celá izba zvrela od neho. Tu i   tu poklepal ďasnami ako bocian. Smrť ešte vždy nepohnute stojí, akoby   rozmýšľala, ktorú má prv uchytiť. Baran šiel až k stolu a postaviac   sa na zadné behy, zabľačal na dievčatá, utiahnuvšie sa do kúta za   stôl, k samej almarijke. Keď baran prišiel až k nim, prebehli izbou a   už boli na širokej Vrtielkovej peci. Tento prečin bojazlivých dievčat   priviedol i Vrtielku k rezolútnosti.
+   </tei:p>
+   <tei:p>
+    Nahneval sa na ne, že mu chcú pec zvaliť; jeho vlastnú pec, čo mu   je tak milá.
+   </tei:p>
+   <tei:p>
+    Chytil Katru, ktorá ho už bola pustila, a vliekol ju rovno k   smrti. Keď táto vytrčila na ňu dlhé pazúry, Katra vymkla sa šmahom   Vrtielkovi z rúk a utiekla na mocnú hradbu, pec. Rohatý baran konečne   prišiel i sem. Dievčatá mleli sa dolu prípeckom ako z pytľa a stali   si za chrbát Vrtielkov, cítiac sa tam najbezpečnejšie. Keď pec takto   oslobodená bola od povážlivej ťarchy, i Vrtielkovi prišlo srdce na   miesto a celý výjav začal ho už baviť.
+   </tei:p>
+   <tei:p>
+    Dievčatá boli preľaknuté len práve v momente zjavenia sa mátoh;   pozdejšie prišli k sebe, poznajúc v nich mládencov. Ony ľahko mohli   objaviť na mátohách, kto sú, lebo mátohy sú len dve, kdežto dievčat   mnoho. No pravidlá dedinskej slušnosti nakladajú, aby sa dievča bálo   mátoh, a čo by hneď znalo, že sú to len preoblečení mládenci. Preto   každá i teraz vkúzľuje na tvár výraz najväčšej bázne, len aby ju   neohovárali potom čo prismelú. Bolo by to nešťastie pre ňu. A   skutočne, tak svedčí im bázeň!
+   </tei:p>
+   <tei:p>
+    Katra sa konečne odhodlala jednať úprimne, strhnúc papierové   palúchy z rúk strašnej smrti, práve keď nimi zas chcela siahnuť na   ňu. Čierna, vyrobená mládencova ruka objavila sa spod odtrhnutých   palúchov. Keď Katra za družky vytiahla z pahreby horúce gaštany, i   iné dievčatá popustili tak dlho na uzde držanú smelosť, chytiac   barana za rohy, strhli mu ich dolu i s kožou, vlastne naruby   obrátenou čiapkou. Tu stojí bezrohý baran: holohlavý, uchlpený   mládenec. Na ústach má dosiaľ motúzikmi priviazané doštičky, ktorými   len nedávno tak hrozive klepal. Všetky sa smiali nad jeho   prestrojením, ba i on sám usmieval sa v rozpakoch. V smrti poznali   tiež dobre známeho mládenca, keď mu z tváre odotreli múku a z úst   vyrazili dlhé, z hlúba vyrezané zuby. Poznané a vyzradené strašidlá   zobrali sa a odišli i k dospelým ženám na priadky, aby aj tie akomak   postrašili.
+   </tei:p>
+   <tei:p>
+    Sotva mátohy vyšli z izby, miesto nich vhrnula sa metelica   mládencov. Títo oblokom pozerajúc za celý ten čas, videli, aký strach   dostali dievčatá pred ich kamarátmi. Dievčatá posadali si znova pod   kúdele, lebo pred mládenci ostýchali sa pokračovať v ondrejskom   prorokovaní. Chytili sa i do tretieho vretena; ale stavím sa, že tá   priadza neprevážila kotúľku.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

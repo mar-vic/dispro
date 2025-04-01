@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Plechové srdiečka",
+        "publisher": "SVKL",
+        "pub_place": "Slovenské nakladateľstvo detskej knihy",
+        "pub_date": "1953"
+    },
+    "authors": [
+        {
+            "first_name": "Božena",
+            "last_name": "Mačingová",
+            "birth_date": "1922",
+            "death_date": "2017",
+            "ref": "viaf:85308949"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

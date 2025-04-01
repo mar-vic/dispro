@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Valgatha - Historická povesť z dejov uhorských XV. storočia",
+        "publisher": "Slovenské vydavateľstvo krásnej literatúry",
+        "pub_place": "Bratislava",
+        "pub_date": "1956"
+    },
+    "firsted": {
+        "pub_date": "1872"
+    },
+    "authors": [
+        {
+            "first_name": "Ľudovít",
+            "last_name": "Kubáni",
+            "birth_date": "1830",
+            "death_date": "1869",
+            "ref": "viaf:19713382"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

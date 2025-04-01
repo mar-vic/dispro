@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Explózia",
+        "publisher": "Maldé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1963"
+    },
+    "firsted": {
+        "pub_date": "1951"
+    },
+    "authors": [
+        {
+            "first_name": "Rudo",
+            "last_name": "Moric",
+            "birth_date": "1921",
+            "death_date": "1985",
+            "ref": "viaf:27565344"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

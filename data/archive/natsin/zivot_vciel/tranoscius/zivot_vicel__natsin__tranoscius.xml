@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1943921" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Život včiel : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:203156563602223242085">
+     Natšin, Ján (1886 - 1954)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     26487
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Natšin, Ján
+     </tei:author>
+     <tei:title>
+      Život včiel
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský svätý Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1943
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-07">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     ŽIVOT VČIEL
+    </tei:head>
+    <tei:head>
+     Zábavno-poučná rozprávka pre mladých a starých
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Vzkriesenie.
+    </tei:head>
+    <tei:p>
+     Zem na nekonečnej púti cesty Všehomírom vkročila do pásma Života.   Ona, stará pútnica, predierajúc sa cez púšte Zimy a Smrti,   nashromaždila na svojej vráskovitej kôre veľké bremeno ľadu a   snehu.
+    </tei:p>
+    <tei:p>
+     Láskavý vládca pásma Života — Slnko, radostne privítal známu   pútničku, ktorá pod ťarchou útrap boľastne vzdychala. Jeho ohnivý   zrak dal jej sily, aby striasla so seba okovy, ukuté jej ukrutným   vládcom Zimou.
+    </tei:p>
+    <tei:p>
+     Ligotavý sneh, sťa najzručnejšie vybrúsený kryštal, strácal nielen   na lesklosti, ale i na sile. Tratil sa v podobe špinavej vody, ktorá   sa ukrývala pod jeho bielym plášťom.
+    </tei:p>
+    <tei:p>
+     Úbohá starena, pod láskavým zrakom Slnka, ako odčarovaná za­čala   mladnúť.
+    </tei:p>
+    <tei:p>
+     Nestačila sa ani celkom očistiť od stôp prežitých útrap, už   pomýšľala na okrasu tela. Hľa, ženský rod sa nezatají ani u nej!
+    </tei:p>
+    <tei:p>
+     Zpočiatku ozdobila sa len bielymi kvetinkami, aby kontrasty snehu   a jej hnedého, miestami holého tela, neprezradily predčasne jej   márnotratné ženské chúťky.
+    </tei:p>
+    <tei:p>
+     Dlho sa však nevedela opanovať. Opojená príjemným teplom Slnka,   začala vešať na seba bez ladu a skladu okrasy najrozmanitejších   farieb.
+    </tei:p>
+    <tei:p>
+     Nový život začal neudržateľnou silou prúdiť každým kúskom jej   ohromného tela. Začala dýchať zdravý, voňavý a teplý vzduch a tým   všetko, čo z jej síl sa živilo, tiež ožilo k novému životu.
+    </tei:p>
+    <tei:p>
+     Ľahký, teplý vánok zavítal i k včielkam. Tohto posla jari včielky   privítaly s radosťou. Klbo včiel cez zimu pevne somknuté v hustý   chu­máč sa uvoľnilo a včielky sa rozliezly po rámikoch, aby sa   posilnily na zásobách, ktoré maly uskladnené blízo miesta svojho   zimného odpočinku.
+    </tei:p>
+    <tei:p>
+     Štyri mesiace tuhej zimy veruže zriedily ich rady. Na dne úľa   ležaly stovky mŕtvoliek, ktorých hniloba naplňovala nepríjemným   zápa­chom včeliu pevnosť. Pod kŕčovite zohnutými tielkami mŕtvych   včiel ukrývala sa hromada neviditelných nepriateľov, aby vo vhodnej   chvíli zasadili zákerný a smrteľný úder ostavším včielkam.
+    </tei:p>
+    <tei:p>
+     „Ratujme sa!“ — zaznel poplašný povel sebaobrany umučených tvorov   včelej rodiny.
+    </tei:p>
+    <tei:p>
+     „Von s mŕtvolami, von s hnilobou!“ — ozývaly sa zúfalé výkriky s   každej strany.
+    </tei:p>
+    <tei:p>
+     Netrvalo dlho a tisíce usilovných robotníčok vykonalo rozkaz.   Mŕtvolky boly vynesené, dno úľa očistené a zdravé jadro čeľade bolo   zachránené. K novému, veselému životu vzkriesené včielky s radosťou   pustily sa do roboty.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Boj o skyvu chleba.
+    </tei:head>
+    <tei:p>
+     Sotva sa zachránily včielky pred záhubou od nepriateľa,   ukrýva­júceho sa pod nehybnými tielkami mŕtvoliek, ozvaly sa zas nové   vý­kriky zúfalstva:
+    </tei:p>
+    <tei:p>
+     „Niet chleba!“
+    </tei:p>
+    <tei:p>
+     Poplašná zvesť naplnila hrôzou usilovné tvory prírody. Hľadať   chlieb, „prášok kvetov,“ teraz, keď Matka-Zem po zimných útrapách   nemala času pripraviť tento drahý pokrm pre svoje dietky.
+    </tei:p>
+    <tei:p>
+     V zúfalom položení sa rozpŕchly usilovné robotníčky na všetky   strany prebúdzajúcej sa prírody, do skazonosného počasia, hľadať   pokrm pre seba a pre svoje deti.
+    </tei:p>
+    <tei:p>
+     Zákerný „severák“ nemal prístup k úľu. Cestu mu zastaly vy­soké   domy a hustý plot. Drsnú ruku nemilosrdného nepriateľa pocítily   včielky len vo výške, kde sa mu v cestu nestavaly prekážky a mohol   voľne rozdávať údery v podobe mrazivého chladu.
+    </tei:p>
+    <tei:p>
+     Vo veľkom spechu za chlebom uháňajúce včielky nepocítily blízke   nebezpečenstvo. Ich telo zoslabnuté zimným strádaním pocítilo skoro   únavu a beda tej, ktorá si v dosahu studeného vetra sadla odpočinúť.   Tá sa už k svojim drahým sestričkám viac nevrátila.
+    </tei:p>
+    <tei:p>
+     Ela, mladá všetečnica, ani nie tak z usilovnosti, ako zo   zveda­vosti, vyletela tiež za družkami hľadať drahocenný pokrm. Jej   mladé krí­dla skoro pociťovaly únavu. Bojovala však statočne s   nepriateľom, ktorý mrazivým dychom ochladzoval jej krv, aby ju obral   o posledné sily.
+    </tei:p>
+    <tei:p>
+     Slniečko zpoza hustých mračien súcitne pozeralo na nerovný boj Ely   s ukrutným nepriateľom. Ľutovalo toto veselé a statočné stvorenie,   tak ťažko zápasiace o život. Nepostačilo však ani vyslať svoje   posilujúce lúče na záchranu mladého života, lebo zrazu sa mu stratila   z obzoru, ako by ju bola zem pohltila.
+    </tei:p>
+    <tei:p>
+     Aby lepšie mohlo stopovať po zmiznutej včielke, vystrčilo svoju   jas­nú tvár zpoza mračien a prekutáva každý kútik zeme, nad ktorou   videlo zúfalý boj nešťastnice. S hrôzou zastaví sa jeho zrak na dvore   píly. Vidí tam ležať v prachu kŕčovite zohnuté, nehybné tielko svojho   miláčka.
+    </tei:p>
+    <tei:p>
+     „Chúďa, najveselší tvor roboty nesmie takto biedne zahynúť,“   vzdychlo si Slniečko a hneď vyslalo svojich najlepších poslov života   k umierajúcej Ele.
+    </tei:p>
+    <tei:p>
+     Sotva sa dotkly skrahlého tielka nešťastnice ohniví poslovia   Slnka, začala sa preberať z mrákot. Keď precitla natoľko, že mohla si   uvedomiť svoje položenie, poznala okolie, ktoré stalo sa jej skoro   osudným, a zistila, že neodletela ďaleko od sestričiek a radosťou   zaplesalo jej srdiečko, že sa s nimi skoro uvidí.
+    </tei:p>
+    <tei:p>
+     Pri myšlienke na sestry, obnovily sa v jej horúčkou ovládanom   sluchu zúfalé výkriky: „Niet chleba, niet chleba!...“
+    </tei:p>
+    <tei:p>
+     Niet chleba, niet z čoho pripraviť kasičku pre mlaď, posilujúci   pokrm pre matku a nás všetkých. S hrôzou myslela na ukrutnú   sku­točnosť, na pomalé vymieranie jej najmilších. Umienila si,   nevrátiť sa domov, čo by ju to malo i život stáť, kým nenájde chleba,   bez ktorého je ich život nemysliteľný.
+    </tei:p>
+    <tei:p>
+     Keď sa odhodlala pustiť zas do zápasu s potmehúdskym vetrom,   zbadala, že pod jej nohami na hromade leží zlatožltý prášok.
+    </tei:p>
+    <tei:p>
+     „Moje najdrahšie nemajú chleba a ja po ňom depcem.“ Radost­ne   zaplesala a chvatne začala šúľať z jemného prášku guľôčky. Guľôčky si   ukladala do košíčkov holene zadných nôh. Sliny dobre lepily a preto   si mohla z neho nabrať hodné bremeno.
+    </tei:p>
+    <tei:p>
+     Uradostená Elka upevnila si po oboch stranách dvojité krídelká v   jednotný celok, vymrštila telo pružnými nôžkami od zeme a uháňala   domov. Letelo sa jej dobre, lebo vetrík, ktorý prv staval sa jej do   cesty, teraz bežal s ňou o preteky a slniečko neschovalo ani na   chvíľočku svo­ju jasnú tvár za závoj mračien.
+    </tei:p>
+    <tei:p>
+     Tešila sa, že nesie záchranu sestričkám tak, ako bársktorá stará,   skúsená lietavka.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Elin omyl.
+    </tei:head>
+    <tei:p>
+     Ale Elina radosť netrvala dlho, zmenila sa v horké sklamanie.   Miesto povďačnosti a pochvaly dostalo sa jej od sestier výsmechu.
+    </tei:p>
+    <tei:p>
+     Už v bráne pevnosti zbadala, že strážnu službu konajúce kama­rátky   podozrivo pozerajú na jej bremená, obnôžky. Povšimla si tiež ich   úškľabkov, ktoré ju odprevádzaly do úľa. Kade ide, všade vyvoláva   smiech zástupov robotníčok. Poponáhľa sa preto doprostred hniezda,   aby vo vyčistených bunkách, ako v zrkadle podívala sa, čo ju robí   smiešnou. Sotva urobí niekoľko krokov, počúva poznámku známej   figliarky úľa: „Ela si nesie hodnú nošu, len aby nedostala čemer.“   Nevedela pochopiť zlomyseľné, pichľavé slová nevďačnice, veď nie pre   seba, ale pre vše­tky, i tým, čo robia z nej posmech nesie záchranu.   Jej sklamanie bolo také zdrcujúce, že v svojom zúfalstve jej len plač   poskytol úľavu. Jej veľké oči natoľko sa zalialy slzami, že ani   ne­videla, keď pristúpila k nej vážna matróna v ošúchanom kožúšku a s   ošarpanými krídlami. Zbadala ju len vtedy, keď pohladila rozhorče­nú   Elu jemne láskavým dotykom tykadiel a počula jej káravý, ale sr­dečný   a dobromyseľný hlas:
+    </tei:p>
+    <tei:p>
+     „Ela, ty si ako malé dieťa. Nájdeš, čo sa dá uložiť do košíčkov,   prinesieš to domov ako pyľ kvetov. I dieťa, keď dostane hračku, pchá   ju do úst, myslí, že všetko, čo môže chytiť do rúk, sa dá zjesť.“
+    </tei:p>
+    <tei:p>
+     Ela kukla do košíčkov a zrazu si uvedomila svoj omyl. Miesto   kvetového pyľu, priniesla piliny, ktoré boly na dvore píly   rozsypané.
+    </tei:p>
+    <tei:p>
+     „Nerob si z toho nič,“ uspokojovala ju stará, „pritrafí sa to i   skúsenejším ako si ty a to práve teraz, keď je ešte len málo kvetov a   pyľu niet. A či nevidíš, ako musíme vyhadzovať z úľa nielen piliny,   ale i múku, papriku a všelijaké drobizgy podobné pyľu. — Zapamätaj   si, Eluška,“ pokračovala stará, „len z pyľového prášku môžeme   pripraviť dobrú a výživnú kasičku pre naše deti.“
+    </tei:p>
+    <tei:p>
+     Láskyplné slová starenky uspokojily Elu a už i sama sa smiala   svojej pochabosti.
+    </tei:p>
+    <tei:p>
+     Ela pri svojej živej povahe neuspokojila sa nikdy len s tým,   vše­tko vidieť, ale chcela byť o všetkom poučená. Opýtala sa preto   starenky: „Či máme nejaké zákony, podľa ktorých máme sbierať   pyľ?“
+    </tei:p>
+    <tei:p>
+     „Pravdaže máme,“ odvetila jej stará a pokračovala v poučovaní Ely.   „Do košíčkov nesmieme miešať pyľ kvetov rôznych rastlín. Neuvi­díš   preto nikdy ani jednu robotníčku, k jednému miestu pripútaných našich   sestier, súčasne pyľovať na rôznych kvetoch. Keď začne poletovať po   kvetoch jablone, kvetov hrušiek, slivák, alebo iných rastlín si ani   len nevšimne.“
+    </tei:p>
+    <tei:p>
+     „A to prečo?“ opytuje sa Ela.
+    </tei:p>
+    <tei:p>
+     „Naším cieľom nie je sbierať med, on je len prostriedkom, aby sme   sa udržaly pri živote, ale našou povinnosťou je oplodňovať kvety   stromov a rastlín, aby mal človek ovocie a semeno, aby sa rod   rastlin­stva udržal. Ak by sme poletovaly s jedného druhu na druhý,   nasbieraly by sme síce viacej pyľu, ale neslúžily by sme tým svojmu   účelu. — Tak je to milá Ela, naše poslanie je veľmi vážne a preto ho   musí­me aj statočne plniť,“ dokončila Elino poučovanie stará   robotníčka.
+    </tei:p>
+    <tei:p>
+     Ela vďačným pohľadom odobrala sa od starenky a zamiešala sa medzi   včielky, ktoré boly zamestnané konzervovaním pyľu. Tu našla len   mladé, ktorých krídelká neboly ešte také silné, aby mohly vykonať   dl­hú cestu s ťažkým nákladom pyľu, alebo nektáru. Lietavky, staršie   včely, prinášaly im čerstvý pyľ priamo do hniezda preto, aby bol   poruke k príprave kašičky pre mlaď.
+    </tei:p>
+    <tei:p>
+     Eliným bystrým očiam nebolo už nápadné, keď videla, že každá   lietavka prinášala len jednofarebný pyľ, Uvedomila si, že keď pyľ   jednej rastliny je len jednej farby, pochádza on skutočne z kvetín   jedného druhu.
+    </tei:p>
+    <tei:p>
+     Lietavky, prinášajúce pyľ, vstrčia zadné nôžky, naložené pyľom do   bunky plásta a ostrôžkami stredných nôh oslobodzujú košíčky pyľové od   obnôžok. Ďalšiu prácu s jeho ukladaním a konzervovaním ne­chávajú pre   mladé včielky, ktorých býva v úli vždy až trikrát viacej ako   starých.
+    </tei:p>
+    <tei:p>
+     Ela sa tiež pustila do tejto roboty. Ako jej rovesnice, aj ona   udeptávala šťavnatý pyľ v komôrkach plásta. Nebola to ľahká práca,   veď bolo treba hlavou silne pritláčať pyľové hrudky, aby zpomedzi   drobulinkých zrniek pyľu bolo vytlačené všetko povetrie.
+    </tei:p>
+    <tei:p>
+     Bola to pre ňu tuhá a vysilujúca robota. Hlavička a krčné svaly   odniesly následky namáhavej práce. Ostré bolesti hlavy a krku Elu   sko­ro pozbavily smyslov. Nie div, veď hlavičkou musela vždy pevnejšie   pritláčať a otáčať ňou na všetky strany.
+    </tei:p>
+    <tei:p>
+     Drapčeky a kefky predných nôh maly tiež plno práce, nestačily ani   očisťovať čelo a na ňom tri malé očká, ktoré práve pri tejto jej   ro­bote konaly vážnu, kontrolnú službu. Tieto očká sú síce malé, ale   nepostrádateľné včielke pri jej robote v bezprostrednej blízkosti. Sú   ony ako zväčšujúce sklá a dajú možnosť nazrieť do najmenších   podrobností práce.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Zázračný pokrm.
+    </tei:head>
+    <tei:p>
+     O Ele by nebolo možno tvrdiť, že by bola maškrtná. Nevedela si len   odriecť, aby neochutnala každý pyľ, ktorý jej pod jazýček prišiel.   Možno, že jej ubližujeme. Ochutnávanie rôznych druhov pyľa azda sama   robota vyžadovala od nej, aby v jednej bunke smiešala rozličné druhy   a tak docielila strednú akosť lepších i horších pyľov.
+    </tei:p>
+    <tei:p>
+     Následky mlsania zázračného pokrmu začaly sa u nej čoskoro   prejavovať. Ústa, ako by slinami, začaly sa jej naplňovať bielou   tekuti­nou, mliečkom, ktoré prýštilo zo žliaz, nachodiacich sa v jej   hlave. Mliečko toto má päťkrát toľko bielkovín a jeden a pol krát   toľko tuku ako mlieko kravské.
+    </tei:p>
+    <tei:p>
+     Toto zázračné mliečko riadi všetky prejavy včelej rodiny. Matka   len jeho pričinením produkuje za 24 hodín toľko vajíčok, že ich váha   je jeden a pol krát väčšia, ako váha tela matky, ktorá ich   sniesla.
+    </tei:p>
+    <tei:p>
+     Bez neho je výchova plodu nemožná a silu trubcov tiež len toto   mliečko udržuje. V dievčenskom boji dostávajú trubci prvý, ale   naj­účinnejší úder práve tým, že včielky odoprú ich prikrmovať   mlieč­kom.
+    </tei:p>
+    <tei:p>
+     Na samotnú včelu má tiež rozhodujúci vplyv. Oživuje v nej pudy,   ktoré ju nútia chovať plod, sbierať nektár, potiť vosk, stavať plásty   a ko­nečne privádza ju do horúčkovitého stavu rojenia.
+    </tei:p>
+    <tei:p>
+     Ela, hnaná neodolateľnou silou, išla do prostriedku hniezda, aby   mliečkom, ktoré sa jej sbehlo v ústach, pokŕmila plod.
+    </tei:p>
+    <tei:p>
+     Teraz mala prvú príležitosť dôkladne sa oboznámiť s vývojom svojho   rodu.
+    </tei:p>
+    <tei:p>
+     Z malého vajíčka, veľkosti vajca červeného mravca, tri dni po   snesení vyliezol malý červík, húsenka. Ela sa zhrozila, keď zazrela   špat­ného chrobáka a ani vo sne by jej nebolo prišlo na um, že z   takého mrzkého tvora sama pochádza.
+    </tei:p>
+    <tei:p>
+     Trvalo to chvíľu, kým sa rozhodla dať mu trocha mliečka do jeho   kolísky. Sotva sa však obrátila, mliečko už bolo preč. Mať takých   pažravcov mnoho, vyžraly by nás skoro, pomyslela si a po­dala larve   druhú dávku. Hltavosť larvy nemala miery. Kaž­dé dve hodiny musela ju   kŕmiť.
+    </tei:p>
+    <tei:p>
+     Záživný pokrm bol lar­ve na úžitok. Rástla skoro na vidomoči. Z   malého, sko­ro neviditeľného črviačka sta­la sa po troch dňoch taká   veľká larva, že bolo jej už tesno na dne bunky a preto pri­nútená bola   ťahať sa nahor pozdĺž kolísky. V ďalších dva a pol dňoch pripravovala   larve už pokrm podľa iného jedálne­ho lístka. Prv kŕmila len čistým   mliečkom, teraz primiešala do neho trocha medu a niečo pohryzených   zrniek pyľu a vo­dy. Po piatich dňoch vývoj larvy sa skončil. Ela   prestala ju prikrmovať a kolísku pri­kryla tenkou platničkou vos­ku, do   ktorého zamiešala niekoľko zrniek pyľu, aby viečko bolo   priedušné.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Ela pri kolíske svojej   chovanice.
+    </tei:head>
+    <tei:p>
+     Keď Ela prikryla kolísku svojej chovanice, začalo jej byť clivo.   Myšlienkami bola stále so sestričkou, ktorú vychovala. Dlhých dvanásť   dní musí čakať, aby ju zas smela uvidieť a rozprávať sa s ňou. Za   ten­to čas prekonáva jej chovanica ohromné zmeny. Z podlhovastého   biele­ho chrobáčka, larvy, stáva sa kukla, aby napokon ostala z nej   ozajstná včela. Áno, včela celkom taká, aká je ona, uisťovala sa Ela,   a robila si plány do budúcnosti...
+    </tei:p>
+    <tei:p>
+     Často prichádzala ku kolíske počúvať, čo robí jej miláčik. Prvé   dni očula sotva počuteľný šelest, podobný zvuku kolovrátka. Pradie,   pomyslela si. Zamotáva sa jemnými vlákenkami, pod ktorými dostáva   podobu múmie. Za osem-deväť dní prekonáva premeny, kým sa nestane   skutočnou včelou.
+    </tei:p>
+    <tei:p>
+     Ela si vie živo predstaviť všetky čiastky vývoja svojej   chovanice.
+    </tei:p>
+    <tei:p>
+     Vidí jej tielko zpočiatku pokryté len mäkkou kostrou chitinu   bielej far­by. Celé jej telo, očká, hlavička, trup i bruko sú biele   ako svadobný šat nevesty. Bie­la farba postupne premieňa sa na farbu   hnedú, ktorá tiež postupom času stáva sa vždy temnejšou.
+    </tei:p>
+    <tei:p>
+     „Keď bude mať rúcho takej farby, ako mám ja, vyjde z komôrky a   budem jej mamičkou, učiteľkou...“ Takto netrpezlive čakala Ela na   príchod mladej včielky.
+    </tei:p>
+    <tei:p>
+     Najviac starostí jej robilo meno, kto­ré by mala dať svojmu   miláčkovi. Ani jedno, ktoré jej prišlo na um, nezdalo sa jej dosť   pekným. Konečne sa rozhodla, že ju pomenuje Juckou.
+    </tei:p>
+    <tei:p>
+     Toto meno mala jej priateľka, ktorú mala veľmi rada. Posledný raz   videly sa v osudný deň včasnej jari, keď len na vlásku visel jej   život. I vtedy spolu letely hľadať chleba... Ona vtedy tiež padla a   možno na miesto, kde ju slniečko, najvernejší priateľ vče­ličiek,   nájsť nemohlo, alebo padla na cestu a hrubá noha nejakého bezcitného   človeka vyhasila jej život.
+    </tei:p>
+    <tei:p>
+     „Juckou, áno Juckou sa bude volať,“ bola rozhodnutá.
+    </tei:p>
+    <tei:p>
+     Túžobne čakala jej príchod. Presne v dvadsiaty deň, počítajúc odo   dňa, keď ako vajíčko prišla na svet, nenechala jej kolísku ani na   chvíľku o samote.
+    </tei:p>
+    <tei:p>
+     Neprestajne počúvala tupé zvuky šramotu, ozývajúce sa zo   zadeb­nenej komôrky. Jej srdce sa radosťou zachvelo, keď počula   chrupkanie krajov viečka pod ostrými dlátkami Juckiných kúsadiel.   Opanoval ju ra­dostný záchvat, keď zazrela uprostred viečka malinký   otvor, cez ktorý vystrko­vala Jucka jazýček. Ela skočila, aby ho   zachytila a podala jej trocha mliečka na posilnenie, ale jazýček sa   prepadol zpät a ona musela sa bezmocne dívať, ako napína Jucka svoje   mladé sily, aby sa vyslobodila zo svojho väzenia.
+    </tei:p>
+    <tei:p>
+     Dlho však nemusela čakať. Vieč­ko sa začalo pomaly dvíhať, objavily   sa driapky predného páru nôh na okraji bunky a za nimi dve veľké   vyjavené oči, medzi ktorými žmurkaly tri malinké očká, postavené v   podobe uhlov trojuholníka. S hlavičkou vystrčila Jucka i jazýček.   Bola hladná a vysilená. Ela uchopila svojím jazýčkom Juckin jazýček a   prikŕmila ju mliečkom, ktoré len kvôli nej držala celý deň v   ústach.
+    </tei:p>
+    <tei:p>
+     Jucka, posilená chutnou lahôdkou, vydriapala sa z úkrytu. Ela bola   nadšená jej nemotorným tielkom, ktorého chĺpky, prilepené súc k telu,   dávaly jej šedú farbu. Juckine nesmelé pohyby neprezradzovaly len   slabosť, ale aj nezvyklosť v novom životnom postavení.
+    </tei:p>
+    <tei:p>
+     Ela odviedla Jucku k medu, aby sa napila moku, ktorý dáva sily a   zdravia všetkému tvorstvu.
+    </tei:p>
+    <tei:p>
+     Jucka, posilnená medom, stala sa bystrejšou. Cítila sa dobre pod   ochranou tety, ako ona Elu nazývala a naplnená bola sladkým pocitom,   že všetky jej sestričky rovnako preukazujú jej lásku, oddanosť a   prítul­nosť. Cítila, že je nepatrným zlomkom celku, ktorý sa menuje   čeľad alebo včelstvo. Uvedomila si, že samotná neznamená nič, ale ako   sú­čiastka jedného tela má pre celok neobyčajný význam.
+    </tei:p>
+    <tei:p>
+     Ela zistila, že jej chovanica už v prvý deň svojho života má sa k   svetu. Je a pije, ako by za jeden deň chcela vynahradiť 12-dňový   pôst, čo bola v ko­líske zadebnená. Aj jej pohyby sa stávaly istejšími   a obratnejšími. Vlásky jej chlpatého tielka, zohnuté stenami tesnej   komôrky sa vyrovnaly a tak dostala vzhľad ostatných včiel. Odlišoval   ju od starých len nový kožuštek, ktorý bol sviežej sivej farby a   mierna, dobromyseľná povaha.
+    </tei:p>
+    <tei:p>
+     Hoci bola pod Elinou ochranou, neodvážila sa prejsť do susednej   ulič­ky hniezda Ostala len v tej, v ktorej zazrela prvý raz svetlo   rušného života.
+    </tei:p>
+    <tei:p>
+     Prvé tri dni sbierala silu, aby sa pripravila na vysilujúcu   robotu, ktorá ju v blízkej budúcnosti očakáva. Teraz sa len moce po   bunkách plásta, zohrieva svojím telom plod, odkukáva prácu včiel   ošetrujúcich plod a čistí bunky plástov.
+    </tei:p>
+    <tei:p>
+     V šiesty deň svojho veku sa už púšťa do vážnej roboty. Začína s   kuchárčením. Preto, že nemá ešte dosť mliečka, pripravuje kašičku pre   starší plod, ktorý má žalúdok natoľko otužilý, že už môže stráviť   pyľ. Pohryzie niekoľko pyľových zrniek, pomieša ich s medom a vodou a   po­lepší ho trocha mliečkom a jedlo má hotové.
+    </tei:p>
+    <tei:p>
+     Jucka od tohto dňa mala vždy, vo dne i v noci, plné ruky práce.   Nemala času poobzerať sa, či neprichodí navštíviť ju teta, ktorá   akiste musí mať tiež mnoho roboty, keď už druhý deň sa u nej   neukazuje.
+    </tei:p>
+    <tei:p>
+     Chcela sa jej opýtať na všeličo, čo počula od svojich rovesníc,   zamest­naných v takej robote, do akej aj ona bola zapriahnutá. Nemohla   si ukojiť zvedavosť, lebo medzi ne sotva kedy prišla stará   robotníčka. Ale čo by tam hľadala, veď staré včely majú celkom iné   starosti, ako chovať plod a starať sa o domácnosť. Ony len prinášajú   drahé plody prírody do úľa a o iné sa nestarajú.
+    </tei:p>
+    <tei:p>
+     Ela patrila tiež do triedy starších a preto prevažnú časť dňa   prežila mimo úľa. Konala úlohu poslíka lásky kvetinkám, ktoré sa jej   odmeňovaly božským nápojom, nektárom. Preto Jucka márne čakala svoju   tetu.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Jucka v službách kráľovnej.
+    </tei:head>
+    <tei:p>
+     Ela, vystrojená vyletieť do poľa, zistila na doske letáča, že   oblo­ha je zatiahnutá hustým závojom mračien. Ľutovala, že nemôže   preletovať po kvietkoch a byť sprostredkovateľkou ich vzájomných   odkazov. Vrátila sa preto do úľa. Na zpiatočnej ceste si spomenula na   Jucku. Zatúžila za ňou; i rozhodla sa, že ju navštívi, veď i tak nemá   nič na práci.
+    </tei:p>
+    <tei:p>
+     Cesta ju viedla priamo do uličky, v ktorej bola Jucka zamest­naná   ošetrovaním plodu. Zastihla ju práve pri miešaní kašičky. Jucka, v   milom prekvapení, nemala ani času oblízať si jazýček od lepkavej   ka­šičky, ktorú práve dávala jednému zo svojich ošetrovancov.   Priskočila k tete a na privítanie pohladila ju tykadlami.
+    </tei:p>
+    <tei:p>
+     „Radujem sa, že vás zase vidím, teta, bolo mi veľmi clivo bez   vás.“
+    </tei:p>
+    <tei:p>
+     „I ja som myslela na teba, milá Jucka, ale uznáš, že my lietavky   musíme využiť každú minútu príhodného času k návšteve našich   sestričiek, pripútaných k zemi. Dnes leje, ako by sa z vreca cedilo,   nemôžem ísť von, preto som prišla za tebou, aby sme si urobily malý   výlet po našej ríši.“
+    </tei:p>
+    <tei:p>
+     „Rada pôjdem,“ vykríkla uradostená Jucka, „len dám papať nie­koľkým   tým škreklúnom.“
+    </tei:p>
+    <tei:p>
+     Keď sa po ukončení práce vrátila, hovorí tete: „Chcela by som   vidieť našu milú kráľovnú. Počula som od kamarátiek, že je tu   neďale­ko nás so sprievodom.“
+    </tei:p>
+    <tei:p>
+     Predstavovala si ju, ako sedí na zlatom, diamantami ozdobenom   tróne, s ligotavou korunkou na hlave, zpod ktorej žiaria prísne, ale   do­brotivé oči, spravujúce ich veľký štát.
+    </tei:p>
+    <tei:p>
+     Po ceste videla na všetkých stranách tisíce kolísiek plodu, ktorý   neochabujúcou usilovnosťou ošetrovaly mladušky. Vidiac veľký počet   plodu, prišlo jej na um, že keď sa ten vyliahne, bude im tesno v úli,   veď je už i teraz dosť zaplnený.
+    </tei:p>
+    <tei:p>
+     „Teta, keď sa budeme takto rozmnožovať, tak sa podusíme,“ ozvala   sa Jucka po dlhšej prestávke.
+    </tei:p>
+    <tei:p>
+     „Toho sa neboj,“ odpovedala jej teta. „Náš život je krátky, sotva   ktorá dožijeme sa šesť týždňov veku. Zodierame sa robotou, nepohoda,   krupobitie, studené vetry riedia naše rady a okrem toho máme veľmi   mnoho nepriateľov, ktorí vyhasínajú naše životy, len čo prvý raz   vyjde­me z úľa. Ak by nás nezastihla nijaká nehoda a staly sme sa   silnými, že by sme si pri robote zavadzaly, potom polovica z nás   odíde si hľadať nový domov, vyrojíme sa.“
+    </tei:p>
+    <tei:p>
+     Jucku znepokojovaly tetine slová o vyrojení. Premýšľala o tom,   ktorá polovica musí ísť do neistoty, či bude medzi nimi teta, alebo   ona...
+    </tei:p>
+    <tei:p>
+     Osud roja nemohol ju dlho zamestnávať, lebo práve vkročily do   uličky, v ktorej mala byť kráľovná. Všetku svoju pozornosť venovala   teraz len okoliu, aby uvidela čím skorej tú, ktorá opanovala všetky   jej city a o ktorej už počula tak mnoho od svojich rovesníc. Ale ani   v tejto uličke nezbadala nič zvláštneho; i tu pracovaly kojničky tak   usilovno ako v iných. Nápadné jej bolo len to, že v bunkách tejto   uličky bolo mno­ho vajíček kolmo stojacich na dnách buniek, boly to   všetko čerstvo snesené vajíčka.
+    </tei:p>
+    <tei:p>
+     Darmo pozerala na všetky strany, aby zazrela lesk a pompu, ktorá   obklopuje kráľovnú. Pretože nevidela nič takého, myslela si, že už   azda prešla do susednej uličky. Nedočkavosťou popudzovaná, zrýchlila   svoje kroky. Teta ju však náhle zastavila, ukazujúc na druhú stranu   uličky, tichým hlasom jej hovorí:
+    </tei:p>
+    <tei:p>
+     „Tam, hľa, je naša mamička.“
+    </tei:p>
+    <tei:p>
+     Jucka v prvom prekvapení myslela, že jej ukazuje kráľovnú, ale keď   nevidela ani zlatý trón, ani koruny, uspokojila sa, že vidí mamičku,   o ktorej doteraz ešte nič nepočula. Vyprávaly jej v rozprávkach len o   kráľovnej. Ona tým rozprávkam pevne verila, mysliac, že sú   pravdivé.
+    </tei:p>
+    <tei:p>
+     „A kdeže je kráľovná?“ opytuje sa nesmelo.
+    </tei:p>
+    <tei:p>
+     „My žiadnu kráľovnú nemáme,“ odpovedala jej teta, „to len de­ťom sa   rozprávajú o nej bájky.“
+    </tei:p>
+    <tei:p>
+     Juckino sklamanie bolo veľké. Hnevala sa, že už v útlom veku   živily jej ducha klamstvami. Miesto toho, aby ju boly poučovaly   skutoč­nými vedomosťami, počúvala hlúpe rozprávky o bosorkách a   podobných dušu otravujúcich nesmysloch.
+    </tei:p>
+    <tei:p>
+     Pozerá na matku a premýšľa... Kto nám rozkazuje, kto nás vedie,   keď nemáme kráľovnej, nemáme veliteľa...
+    </tei:p>
+    <tei:p>
+     Ela vycítila Juckine myšlienky a odpovedala na otázky, ktorými sa   ona zaoberala len v duchu.
+    </tei:p>
+    <tei:p>
+     „U nás panuje duch celého nášho tela. Všetky sme, i ty Jucka si,   kráľovnou, lebo to sa u nás koná, čo ty, ja a my všetky chceme, čo   prospieva nám všetkým. My práve preto nepotrebujeme zvláštneho   vládcu, lebo bez rozdielu všetky plníme svoje povinnosti, ktoré   vyžaduje od nás naše na státisíce rozdrobené telo, tvoriace jednotný   celok. Tak ako každá bunka iného tvora vykonáva svoju prácu v   prospech tela, ktorého je súčiastkou, tak konáme i my svoje práce v   prospech našej rodiny, nášho tela.“
+    </tei:p>
+    <tei:p>
+     Jucka pochopila tetine slová a tešila sa, že ich život je tak   vzorne usporiadaný, že nepotrebujú žiadne oslňujúce osobnosti na   vedenie svojich životných záujmov.
+    </tei:p>
+    <tei:p>
+     Jucka sa znovu zahľadela na matku a opýtala sa tety:
+    </tei:p>
+    <tei:p>
+     „A prečo ju všetky voláme matkou?“
+    </tei:p>
+    <tei:p>
+     „Lebo ona nás všetky prináša na svet v podobe malého vajíčka,“   odpovedala Ela.
+    </tei:p>
+    <tei:p>
+     „Nuž a všetky vajíčka snáša len ona, veď je ich veľmi mnoho?“ pýta   sa ďalej Jucka.
+    </tei:p>
+    <tei:p>
+     „Áno, všetky. Nakladá ich vo dne i v noci. Odpočíva len   chvíľočkami, keď je celkom vysilená. Po 10 až 15 minútovom spánku zas   sa púšťa do roboty a takto to robí neprestajne cez celý ži­vot, za tri   roky. Za deň nanesie až 1500 vajíčok a tie majú ta­kú váhu, že ju   prevá­žia jeden a polkrát. Takýto výkon práce z nás ani jedna nemôže   dokázať.“
+    </tei:p>
+    <tei:p>
+     „Tak teda ona pracuje z nás najviac,“ hovorí Jucka, „ona je   vlastne otrokom nás všetkých, veď nemá času ani poihrať sa s lúčami   slnka, ako to my robievame.“
+    </tei:p>
+    <tei:p>
+     Jucka nesmierne ľutovala úbohú matku za túto sebažertvujúcu obeť a   nekonečná vďačnosť spojená s úprimnou láskou sa uhostila v jej dobrom   srdiečku. Vzdychla si: „Áno, naša drahá mamička je skutočnou   kráľovnou, korunovanou dobrými skutkami a nekonečným radom odriekania   v prospech svojich detí.“
+    </tei:p>
+    <tei:p>
+     „Je ona skutočne naším najdrahším klenotom,“ potvrdzuje Ela, „a   preto preukazujeme jej všetky bez výnimky neobmedzenú prítulnosť a   oddanosť. Staráme sa o ňu, ona dostáva i v najväčšej biede posledné   zbytky pokrmu a preto je ona posledná, ktorá podlieha smrti   hladom.“
+    </tei:p>
+    <tei:p>
+     „Vidíš ten dvor včeličiek, ktorý ju obklopuje?“
+    </tei:p>
+    <tei:p>
+     „Vidím,“ odpovedá Jucka a zahľadela sa na kruh včeličiek, kto­ré   hlavičkami obrátené k matke, tvorily jej sprievod. Obklúčiac ju,   pôsobily dojmom, ako jej telesná stráž.
+    </tei:p>
+    <tei:p>
+     Včielky, ktoré tvoria kruh sprievodu od hlavy matky, vystrkujú   sosáčiky a veľmi často ju prikrmujú, a tie, čo tvoria sprievod s   bokov a od zadu, pohladkávajú ju tykadlami, čo sa vidí, ako by ju   prosily, aby im nakládla čím viac vajíčok.
+    </tei:p>
+    <tei:p>
+     Jucka cítila, že veľmi miluje svoju mamičku a bola by   najšťastlivejším tvorom, keby sa mohla dostať do jej služieb a bola   pri nej, ako tie, ktoré ju obsluhujú. Ustrašeným a zároveň   nádejeplným zrakom po­zerá na tetu, od nej čaká posilu na splnenie   svojej túžby.
+    </tei:p>
+    <tei:p>
+     „Tetuška,“ ozvala sa trasľavým hlasom, „mohla by som sa dostať do   služieb našej drahej mamičky?“
+    </tei:p>
+    <tei:p>
+     Ela spozorovala už prv, čo sa odohráva v Juckinej duši a práve jej   chcela poradiť, aby vstúpila do sprievodu, ale Jucka ju svojou   otáz­kou predbehla.
+    </tei:p>
+    <tei:p>
+     „Pravdaže sa môžeš dostať, veď práve si v tom veku, keď máš   najviac mliečka a môžeš sa v sprievode matky dobre uplatniť. Postav   sa len do kruhu dvora. Vidíš, ako sa zamieňajú hostiteľky? Tá, ktorá   vy­kŕmi mliečko, prepúšťa svoje miesto druhej a tak uvoľnia miesto aj   te­be. Len ty chodď i mamička bude mať z teba radosť,“ posmeľovala ju   teta.
+    </tei:p>
+    <tei:p>
+     Skromná a ostýchavá Jucka odhodlala sa podľa tetinej rady za­miešať   sa do sprievodu. Odobrala sa od tety a chvejúc sa úzkosťou, vstúpila   do kruhu.
+    </tei:p>
+    <tei:p>
+     Hneď, ako pristúpila do radu sprievodu, ustúpila jej tá, čo prá­ve   prikrmovala matku. Takto bez čakania prišla na rad. Vedomie, že sa   môže dotknúť a konať službu zbožňovanej matke, že jej tým môže   pre­ukázať svoju nekonečnú lásku a oddanosť, ju tak rozrušovalo, že sa   chvela na celom tele, takže nemohla vyrovnať sosáčik, aby uhostila   matičku. V zúfalej nemohúcnosti jej oči, žiariace nekonečným šťastím,   zalialy sa slzami.
+    </tei:p>
+    <tei:p>
+     Matka vidiac jej zmätok, posmelila ju láskavým pohľadom a   vy­strčila sosáčik, aby prijala pokrm. Milý pohľad matky dodal Jucke   od­vahy. Podarilo sa jej vyrovnať jazýček, spojila ho s jazýčkom matky   a odovzdala jej všetko mliečko, ktoré mala v ústach   nashromaždené.
+    </tei:p>
+    <tei:p>
+     Keď prepúšťala svoje miesto inej, srdce jej plesalo radosťou a   ke­by sa to nebolo protivilo slušnosti, hneď by sa bola rozbehla za   svojimi kamarátkami, aby sa im pochválila, akej cti sa jej dostalo.   Ostala však pri matke nielen zo slušnosti, ale najmä preto, že ju   mala veľmi rada a v matkinej blízkosti bola veľmi šťastná. Postavila   sa medzi tie, ktoré sprevádzaly matku od bokov a bola rada, keď sa   jej mohla dotknúť ty­kadlami.
+    </tei:p>
+    <tei:p>
+     Obdivovala dôslednú a presnú prácu matky. Prv sa pozrie, či je   bunka, do ktorej chce sniesť vajíčko prázdna a čistá. Potom potiahne   svoje telo trocha dopredu tak, aby koniec zadočka došiel nad bunku,   do ktorej chce položiť vajíčko. Posunie potom telo vzad tak, že   bruško vopchá do bunky, do ktorej pustí po žihadle vajíčko presne do   prostriedka dna bunky. Aby vajíčko stálo pevne, spúšťa zároveň s ním   trochu jedu, ktorý obsahuje v sebe lepiacu látku a tou prilepuje   vajíčko.
+    </tei:p>
+    <tei:p>
+     Túto jednotvárnu robotu vykonáva matka ako stroj po celý život,   tri a nieke­dy až päť rokov.
+    </tei:p>
+    <tei:p>
+     „Úbohá matka,“ vzdychla si Jucka, „o koľko veselší je náš život.   Zamieňame si prácu a veselo obletujeme kvety, ktoré dychtivo čakajú   na naše návštevy.“
+    </tei:p>
+    <tei:p>
+     Celý sprievod, ako na nejaký tajný povel, ťahal sa ku kraju   plásta, k veľkým, trúdovým kolískam. Sprievod nebol na tom­to   rozhodnutí ushovorený, prišlo to, ako samo-sebou sa rozumiace. Duch   celku to bol, viedla sprievod k tým bunkám, z ktorých sa liahnu   trúdy.
+    </tei:p>
+    <tei:p>
+     Jucka sa presvedčila, že matka slepo, bez všetkého odporu plní   vôľu sprievodu, ovládaného duchom celku a uznávala tetine slová, že   mamička je vlastne otrokom svojich detí.
+    </tei:p>
+    <tei:p>
+     Na kraji plásta, pri trúdových bunkách zbadala Jucka okrúhly   zá­klad nejakej stavby, ktorá, z príčin jej neznámych, nebola   dohotovená. Aby ukojila svoju zvedavosť, oslovila jednu robotníčku,   ktorá práve oko­lo týchto základov bola zamestnaná čistením   buniek.
+    </tei:p>
+    <tei:p>
+     „Čo sa vlastne bude stavať na týchto základoch, sestrička?“
+    </tei:p>
+    <tei:p>
+     „Sú to základy veľkých buniek pre budúce matky. Ľudia im ho­voria,   že sú to matečníky,“ odpovedala jej robotníčka.
+    </tei:p>
+    <tei:p>
+     „Škoda, že nie sú dohotovené, mohla by nám mamička vložiť do   jednej z nich vajíčko a maly by sme dve matky,“ rozumkovala   Jucka.
+    </tei:p>
+    <tei:p>
+     „Tie dohotovíme, len keď nám do mišti­čiek základov položí ma­mička   vajíčko. Potom bu­deme naraz stavať zámok i kŕmiť zárodok mladej   matky,“ ochotne ju poučovala shovorčivá sestra.
+    </tei:p>
+    <tei:p>
+     „Ale to musí byť veľké vajíčko, veď matka je tiež skoro trikrát   taká veľká ako sme my,“ mu­drovala Jucka.
+    </tei:p>
+    <tei:p>
+     „Mýliš sa sestra,“ odpovedala jej, „naša ma­mička má len dvojaké   vajíčka, z jedných sa mô­žu vyliahnuť len včielky, ako sme my a z   druhých, zas len trúdy. Matka sa vyliahne z takého vajíč­ka, z akého   sa liahneme my.“
+    </tei:p>
+    <tei:p>
+     „Nuž, akože sa môže z takého obyčajného vajíčka vyliahnuť veľká   matka?“
+    </tei:p>
+    <tei:p>
+     „To je v moci mladých včiel, kojičiek.“
+    </tei:p>
+    <tei:p>
+     „Ako?“ Jucka neporozumela robotníčku.
+    </tei:p>
+    <tei:p>
+     „Celkom jednoducho,“ znela odpoveď, „keď zárodku ženského pohlavia   dajú kojičky najlepší pokrm, a dajú ho vždy toľko, že ostávajú mu   prebytky, rastie silnejšie a vyvinie sa mu každý ústroj tela   dokonale. Pre­to z takého zárodku stáva sa úplne vyvinutá samička, po   našom: matka.“
+    </tei:p>
+    <tei:p>
+     „Rozumiem,“ hovorí Jucka „my sme zakrpatelé a matka je úplne   vyvinutá samička.“
+    </tei:p>
+    <tei:p>
+     Jucka videla, že rozpráva so vzdelanou sestrou a preto vyzve­dá sa   ďalej. Zaujímaly ju vajíčka, ktoré práve matka snášala do veľkých   trúdových buniek.
+    </tei:p>
+    <tei:p>
+     „Hovoríš, sestra, že naša mamička nosí v sebe len dvojaké vajíčka,   samičie a samčie. Akože ona môže vedieť, ktoré z nich práve púšťa do   bunky?“
+    </tei:p>
+    <tei:p>
+     „Stvoriteľ vyznamenal našu mamičku tým,“ odpovedá robotníčka, „že   môže podľa ľúbosti sniesť vajíčko dievčatka alebo chlapčeka. Všetky   zárodky vajíčok sú mužského pohlavia. Keď matka taký zárodok pri   snášaní v svojom brušku oplodní, premení sa na ženský rod. Vyzerá to   tak, ako sa hovorí o dúhe, že na jednom konci vypije chlapca a na   druhom konci ho vydá ako dievča.“
+    </tei:p>
+    <tei:p>
+     „A každá matka si môže vyberať v chlapcoch alebo dievčatách?“ —   pýta sa Jucka.
+    </tei:p>
+    <tei:p>
+     „Nie každá, len tá to môže robiť, ktorá je plodná a má v sebe k   oplodneniu vajíčok potrebné trúdové semienka.“
+    </tei:p>
+    <tei:p>
+     „Taká mamička, ktorá nie je oplodnená, nemá semienok a preto snáša   len trúdie vajíčka,“ dodáva Jucka, ako na potvrdenie, že poroz­umela   voľnému výberu matky medzi chlapcami a dievčatami.
+    </tei:p>
+    <tei:p>
+     „Neplodná matka je nešťastím rodiny, lebo nesie so sebou skazu   rodu, prináša na svet len darmožráčov trúdov, ktorí si zvykli živiť   sa z roboty iných a keď vymrú v rodine robotnice hynú aj oni hladom,   lebo nie sú schopní sami sa vyživiť.“
+    </tei:p>
+    <tei:p>
+     „Nuž a prečo ich chováme, keď sú vyžierači nášho rodu?“ — pýta sa   Jucka.
+    </tei:p>
+    <tei:p>
+     „Z tisícich trúdov potrebuje náš rod len jedného, aby oplodnil   matku raz na celý jej život. Aby bol výber, chováme ich až   márnotratne mnoho,“ — dokončila robotníčka vysvetľovanie.
+    </tei:p>
+    <tei:p>
+     Za tých pár dní čo bola Jucka v službách matky, skúsila i naučila   sa mnoho. Ľutovala, že musí sa rozlúčiť so sprievodom matky, lebo   cítila, že žľazy, vylučujúce mliečko jej vysýchajú a nemôže už ďalej   službu túto plne zastávať. Uspokojilo ju vedomie, že keď aj odchádza,   pri mamičke ostanú jej sestry, ktoré jednako, ako ona, oddané sú jej   nekonečnou láskou.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Strach má veľké oči.
+    </tei:head>
+    <tei:p>
+     Jucka vybrala sa hľadať robotu, ktorá by najlepšie zodpovedala jej   vlohám. Cesta ju viedla okolo letáča, cez ktorý predieral sa svieži,   teplý vánok, vznášaný na pestrých lúčoch ohnivého slnka.
+    </tei:p>
+    <tei:p>
+     Za týždeň života mnoho skúsila, jednako ju lúče slnka priviedly do   pomykova. Prudké svetlo oslepovalo jej oči, navyknuté na pološero,   panujúce v úli.
+    </tei:p>
+    <tei:p>
+     Podráždená ostrým svetlom a zároveň nepríjemným tlakom v bruš­ku,   cítila sa vo veľmi nepríjemnom položení. Za sedem dní života   shromaždilo sa jej v črievkach toľko nestrávených pozostatkov jedla,   že je prinútená oslobodiť sa od nepríjemného tlaku. Ale kde, keď ich   prísne predpisy o čistote nedovoľujú urobiť tak v úle a jas slnka   naplňoval ju zase hrôzou.
+    </tei:p>
+    <tei:p>
+     V zúfalom položení, ozvala sa jej za chrbtom teta Ela.
+    </tei:p>
+    <tei:p>
+     „Pre Boha, čo je s tebou, Jucka?
+    </tei:p>
+    <tei:p>
+     „Zle je, teta, mám ohromné kŕče a do žiary slnka sa bojím   vyletieť.“
+    </tei:p>
+    <tei:p>
+     „Blázonko, toho sa báť nemusíš, veď ono je náš najlepší priateľ a   náš ochránca. Nebyť slniečka, bola by som bývala už dávno nebohá,“   rozpomenula sa Ela na osudný deň včasnej jari.
+    </tei:p>
+    <tei:p>
+     „Poď so mnou,“ posmeľovala teta Jucku.
+    </tei:p>
+    <tei:p>
+     Jucka vypúlila svoje veľké, ustrašené oči a len za tetou sa   osme­lila podísť bližšie k bráne úľa. Na doske letáča pozorne   sledovala kaž­dý pohyb tety, aby svoj prvý let vykonala bez chyby.   Nevšimla si preto tisícok včiel, vyletujúcich von do jagavého svetla   za tým istým účelom, ktorý i ju nútil von.
+    </tei:p>
+    <tei:p>
+     Teta sa zastavila skoro na samom kraji letáčovej dosky, kefočkou   polokruhového výrezu prvého páru nožičiek pretiahla si tykadlá, potom   prvý pár nožičiek si skrížila, ako by sa prežehnávala, dvojité krídla   po oboch stranách spojila háčikami v jednotné krídla, rozkročila sa a   ľahkým skokom odrazila sa od dosky.
+    </tei:p>
+    <tei:p>
+     Jucka bola veľmi vnímavá, mala veľmi bystrý postreh a preto   napodobila tento složitý telesný tetin výkon vo všetkých   podrobnostiach.
+    </tei:p>
+    <tei:p>
+     Hneď, ako sa dostala do vzduchu, oslobodila sa od tlaku bruška,   potom vrátila sa na dosku, kde ju už čakala usmievajúca sa teta.
+    </tei:p>
+    <tei:p>
+     „Ukáž, či ti ten ohnivý „bobo“ nespálil fúzy?“ — zažartovala   Ela.
+    </tei:p>
+    <tei:p>
+     Jucka, rozjarená radosťou, žiarila šťastím. Tešila sa nielen   preto, že sa zbavila nepríjemného tlaku bruška, ani preto, že sa jej   skvele po­daril prvý let, ale preto, že odteraz môže lietať, kam sa   jej zachce, môže sa ihrať s najpestrejšími farbami slnečných lúčov,   môže navštevovať kvety, ktoré len kvôli nej obliekajú si najskvelejší   šat a ča­kajú na ňu s bohato prikrytým stolom sladkého nek­táru a   chutného chleba. Jej prvý let otvoril jej raj nového šťastia.
+    </tei:p>
+    <tei:p>
+     Teta nechala Jucku na pokoji, nech sa vy­blázni, veď i ona zažila   kúzlo tejto blaženej chvíle. Mládež vidí všetko v ružových farbách a   tak je to dobre. Načo podlamovať vzlet a predčasne pochová­vať   nádeje.
+    </tei:p>
+    <tei:p>
+     Ela, pohrúžená do svojich myšlienok, radova­la sa zo šťastia svojej   chovanice.
+    </tei:p>
+    <tei:p>
+     „Je to skutočne dobrý bobo“ — ozvala sa po malom uspokojení Jucka.   „Chcem žiť len v jeho teplom náručí, lietať vysoko a rozsievať plody   našich úbohých sestier, kvetov, ktoré nemajú krídla a pri­nútené sú   čakať na nás. Úbohé, mnohé z nich po márnom čakaní uvädnú a odpadnú   bez toho, žeby uskutočnily svoj životný cieľ.“
+    </tei:p>
+    <tei:p>
+     Rozradostené Juckino srdce rozplývalo sa lás­kou k všetkému čo   videla a poznala za svoj krátky život. Chcela by prežiť sto svojich   životov, aby mohla pomáhať všade, kde jej pomoc by mohla krutému   osudu zlomiť ostrie...
+    </tei:p>
+    <tei:p>
+     „Ešte si pooblietam, teta,“ hovorí Jucka, ako by si pýtala od nej   dovolenie.
+    </tei:p>
+    <tei:p>
+     „Áno, potrebuješ to. Práve som ťa chcela upozorniť, aby si si ešte   pooblietala a zapamätala si miesto našej brány. Teraz, keď slniečko   je nad našimi hlavami, keď hreje najteplejšie, ako vidíš, vyletujú   všetky tvoje vrstovnice, aby sa naučily poznať miesto, na ktorom   bývajú. I ty musíš prekonať túto školu.“
+    </tei:p>
+    <tei:p>
+     „Do takej školy by som chodila bárs aj do smrti. Je taká vese­lá,   príjemná... “ Ani nedohovorila a už bola preč, v húfe obletujúcich   mladušiek. Po malom okružnom lete, sadla na letáč a hneď sa pustila   do opisovania väčšieho kruhu. Priletovala a odletovala. Smer jej letu   bol už natoľko istý, že by aj so zažmúrenými očami celkom určite   tra­fila na dosku letáča, ktorej miesto vštepovala si do pamäti.
+    </tei:p>
+    <tei:p>
+     Za tohto bezstarostného letu zažila malé dobrodružstvo. Jeden   ve­selý šuhaj, možno, že naschvál, alebo len zo zjašenosti narazil na   Juckine krídielka, takže pre nečakaný náraz len-len vyrovnala   rovnováhu tela, aby nespadla na zem.
+    </tei:p>
+    <tei:p>
+     Bláznivý mládenec chutne sa smial, že podarilo sa mu urobiť tento   nevinný žartík. Šialená, veselá nálada mládenca opanovala i Jucku a   začala teraz už aj ona dorážať na nezbedného šuhajka. Naháňali sa,   kým im dych stačil.
+    </tei:p>
+    <tei:p>
+     U Jucky, ako vždy, aj teraz, zvíťazila ženská zvedavosť a začala   rozhovor so švárnym šuhajom.
+    </tei:p>
+    <tei:p>
+     „Kto si a odkiaľ prichádzaš sem k nášmu úľu?“
+    </tei:p>
+    <tei:p>
+     „Bývam tu vo vašom susedstve a volajú ma bláznivým Paľkom. Mám sa   dobre, nič nerobím, o nič sa nestarám, len jem a pijem, koľko sa do   mňa vmestí. Čo ešte chceš o mne vedieť? Čo celé dni robievam? Nič,   celkom nič, len si hoviem, ako vyšší tvor nášho rodu. Cez polud­nie,   keď je pekný a teplý čas, vyletím si s kamarátmi poihrať sa a   poštekliť také dievčatká, ako si ty!“ Paľko sa chutne zasmial a hneď   sa pustil do nóty: „My sme muzikanti...“
+    </tei:p>
+    <tei:p>
+     „Neviem pochopiť, ako sa môžeš mať dobre, keď nemáš žiadnej   roboty, žiadneho pocitu šťastia, že si vykonal niečo, čo pomohlo   iným. Ako môžeš byť blažený, keď vieš, že len z milosti iných žiješ   ako žo­brák alebo zlodej,“ robí Jucka výčitky ľahkomyseľnému   Paíkovi.
+    </tei:p>
+    <tei:p>
+     „Nemôžem zato, ver mi. Tak ma vychovali. Vštepili do mňa, že som   práve preto na svete, aby som žil z cudzích mozoľov a na úkor iných.   Veď koľko je nás takých, ako som ja aj medzi iným tvorstvom, i medzi   ľuďmi, ktorí vedome zotročujú svojich blížnych, aby sa mali dobre,“   ospravedlňoval sa Paľko.
+    </tei:p>
+    <tei:p>
+     Jucka zbadala, že je už dlhší čas vonku a preto zakývala   tykadielkom Paľkovi a poponáhľala sa k tete.
+    </tei:p>
+    <tei:p>
+     O všetkom, čo videla, porozprávala tete. Videla kvety jasnej   ružovej farby, ktoré na ňu vábivo žmurkaly šibalskými očkami, videla   vznášať sa ma­jestátnu postavu mladej matky, za ktorou letel kŕdel   driečnych mládencov. Boly to preteky plné spevu a kriku a vôňa, ktorá   označovala matkinu cestu bola taká prenikavá, príjemná, že nás   všetky, nadovšetko však trúdov očarovala. Nezabudla pripomenúť ani   svoje dobrodružstvo s Paľkom.
+    </tei:p>
+    <tei:p>
+     „Poznám toho nezbedníka,“ hovorí teta. „Často sa sráža okolo nášho   úľa. Je trochu prostodušný, ale zato príjemný spoločník.“
+    </tei:p>
+    <tei:p>
+     „Teta, už i so zatvorenými očami by som trafila do nášho letáča,“   pochválila sa Jucka. „Len to neviem pochopiť, prečo je to také   dôležité. Veď keby som poblúdila, išla by som prenocovať k susedom,   čo majú Paľka.“
+    </tei:p>
+    <tei:p>
+     „Neviem, či by ťa ta vpustili. Či by ťa strážcovia ich úľa už na   letáči neroztrhali na kusy.“
+    </tei:p>
+    <tei:p>
+     „A čo, je to taká zlá rodina?“ — pýta sa Jucka, ktorá   zapochy­bovala o úprimnosti tetiných slov a myslela, že ju len   straší.
+    </tei:p>
+    <tei:p>
+     Teta zbadala, že Jucka berie jej výstrahu ako žart a preto ob­šírne   vysvetľuje príčiny nevraživého pomeru a zlých vzájomných vzťahov   cudzích rodín.
+    </tei:p>
+    <tei:p>
+     „To i sama vidíš, že sháňame sa po bohatstve a často ani   ne­vyberáme prostriedky, ako sa k nemu dostaneme. Bohatstvom rastie i   naša sila, odolnosť a výbojnosť. Žiaľbohu, veľmi často, keď na poli   nenachádzame nektár, dopúšťame sa krádeží. Zbojstva dopúšťajú sa   práve bohaté a silné rodiny. Olupujú slabšie, chorľavé čeľade o ich   posledné zbytky zásob. Zdravie, sila a bohatstvo vedie nás k   lakomstvu, čo nám nijako neslúži ku cti. Dobre poznáme túto špatnú   stránku svojej povahy a preto staviame stráže na letáče úľov, aby sme   špehúňom znemožnily prístup do nich.“
+    </tei:p>
+    <tei:p>
+     „Teta, však my sme všetky jednaké a je nás v jednej rodine veľmi   mnoho, 90- až 100-tisíc včiel, akože poznajú strážkyne, ktorá je ich   a ktorá je cudzia včela?“ — prerušila Jucka tetinu reč.
+    </tei:p>
+    <tei:p>
+     „My sa nepoznávame podľa zovňajšku, ako ľudia, ale podľa vône.   Každá rodina má svoju zvláštnu vôňu, ktorá ako zďaleka rozpoznáva­júce   znamenie upozorňuje stráž na príchod vlastného člena alebo na   prísluš­níka cudzieho rodu. A práve preto je ťažko dostať sa do úľa   cudzej rodiny.“
+    </tei:p>
+    <tei:p>
+     Po týchto tetiných slovách zmizly Juckine nádeje, žeby mohla   navštíviť Paľka v jeho domove. Rada by sa bola poobzerala i po iných   domácnostiach, nielen zo zvedavosti, ale aby nadobudla aj nové   skúsenosti.
+    </tei:p>
+    <tei:p>
+     Ale Jucka nestrácala svoju nádej celkom a preto novou otázkou   vyzvedala od tety, akým spôsobom by sa predsa mohla dostať do   cu­dzieho úľa, aby ju od letáča neodohnali alebo nedajbože zabili.
+    </tei:p>
+    <tei:p>
+     „Hovoríte, že ťažko je dostať sa do cudzieho úľa,“ poznamenáva   Jucka, pri čom zvláštny dôraz kládla na slovo ťažko, lebo ono dávalo   jej malú iskierku nádeje, že jej túžba sa môže uskutočniť.
+    </tei:p>
+    <tei:p>
+     „Keď máš dosť duchaprítomnosti a odvážlivosti, dostaneš sa do   hradu Paľkovho rodu.“ Rozdúchajúc týmto iskierku nádeje na plamie­nok   dosiahnuteľných túžob, uspokojila dobrá teta svojho miláčka.
+    </tei:p>
+    <tei:p>
+     „Si mladá a máš ešte dosť mliečka, aby si sa ním zalichotila   stráži. Keď ju v bráne ich hradu uhostíš, určite ťa pustí dnu.“
+    </tei:p>
+    <tei:p>
+     Jucka nedôverive pozrela na tetu, ako by pochybovala o možnosti   dostať sa takýmto spôsobom k Paľkovej rodine.
+    </tei:p>
+    <tei:p>
+     „Chápem ťa, Jucka,“ hovorí Ela, „si mladá a málo skúsená. Obá­vaš   sa, že sa ti nepodarí tvoj úmysel. Podívaj sa len niekedy na náš   letáč, koľko cudzích mladých sestier prichádza k nám. My ich vďačne   pri­jímame, lebo sme presvedčené, že neprichádzajú k nám so zlým   úmy­slom. Zablúdily a ostanú navždy našimi obyvateľkami.“
+    </tei:p>
+    <tei:p>
+     „Teta, ty by si sa nemohla tiež vybrať so mnou pozrieť Paľka?“
+    </tei:p>
+    <tei:p>
+     „Mňa, starú lietavku, by stráž zďaleka poznala a takéto   dobro­družstvo znamenalo by pre mňa smrť.“ Aby však ukázala svoju   šikovnosť, vynájsť sa v každej situácií usmiala sa a doložila: „Keď   by som sa pred strážou ukázala s plným volátkom medu, pustily by ma,   tak ako teba s mliečkom.“
+    </tei:p>
+    <tei:p>
+     „Ani by som nebola myslela, že ten náš rod je tak opatrný a   prefíkaný pri výbere cudzích návštevníkov,“ poznamenala Jucka.
+    </tei:p>
+    <tei:p>
+     „Tak je to v poriadku. Musíme dať veľký pozor, aby sa nám   nedostala do úľa špiónka, ktorá by vysliedila naše slabosti a   zavolala tlupu zbojníkov proti nám.“
+    </tei:p>
+    <tei:p>
+     „Nuž, ale je už načase, aby sme nechaly rečičky a išly každá za   svojou prácou, pomáhať sestričkám. Dnes, zajtra zakvitne agát a   nemáme ešte vystavené, ba ani vyčistené už hotové súdočky na lahodný   med bielych strapcov jeho kvetu, doložila teta a stratila sa v   pološere úľa.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Prípravy k žatve.
+    </tei:head>
+    <tei:p>
+     Jucka, voľky-nevoľky, vošla tiež za tetou do úľa, aby sa dala do   roboty, ktorú jej vymeril čas, — druhý týždeň veku. Radšej by bola   ostala hoc aj strážkyňou, aby mala vždy pred očami krásnu, všetkými   farbami dúhy okrášlenú prírodu, ktorej vôňa omamuje sladkým snom   spokojnosti. Cit povinnosti káže jej však podrobiť sa potrebám celku   a preto sa po­slušne podrobuje veliteľskému hlasu svojho kmeňa.
+    </tei:p>
+    <tei:p>
+     Tichý šumot tisícich robotníc a ostrou vôňou preplnené výpary úľa   pôsobia tiesnivo na jej city a uvedomuje si, že nohy sa jej   podla­mujú. Všeobecná únava je predzvesťou horúčkovitého stavu jej   tela, kto­ré je pripravené vydať svoj cenný výplod, vosk.
+    </tei:p>
+    <tei:p>
+     Cíti, ako sa vypínajú dolné krúžky jej bruška pod tlakom durmení   voskových žliaz. Cíti, že nezadržiteľne prýšti z nich tekutina, ktorá   je mastná, ale nie je to ani tuk, ani olej. Tekutina táto v styku so   vzduchom ztuhne v malé, jasno-biele šupinky.
+    </tei:p>
+    <tei:p>
+     Jucka už vie, že včely týmto horúčkovitým stavom ovládané, sú na   jednom mieste úľa v chumáči a pri zvýšenej teplote potia vosk.
+    </tei:p>
+    <tei:p>
+     Uberá sa cestou, ktorá vedie k týmto včelám. Cesta sa jej míňa   pomaly, lebo sily ju opúšťajú. Horko-ťažko sa dotiahla do   naj­vzdialenejšieho kúta úľa, kde sa konečne mohla pridružiť k   sestrám, zamestnaným pri stavbe plástov. Predrala sa do srdca hrozna   včiel, kde bolo najteplejšie a dala sa hneď do roboty.
+    </tei:p>
+    <tei:p>
+     Pazúrikom zadnej nožičky vybrala si zpod krúžkov dolnej strany   zadočka šupinku vosku, dala si ju medzi kúsadlá a pomiešajúc ju s   niekoľkými zrnkami pyľu, pripravila ju ku stavbe. Nalepovala šupinku   ku šupinke, kým nevystavila šesťboký pravidelný hranol, t. j.   bunku.
+    </tei:p>
+    <tei:p>
+     Jucka dokázala vrchol staviteľského umenia, lebo postavila ná­dobku   na med, alebo kolísku pre mlaď, upotrebením najmenšieho množ­stva   staviva. Previedla stavbu, ktorá odolala i najväčšiemu tlaku, pri   do­konalej geometrickej presnosti. Dlho sa však pri tejto robote   nezdržala, lebo stavebná hmota sa jej cez 6—8 hodín minula, žľazy   spľasly a pre­pustila svoje miesto inej robotníčke.
+    </tei:p>
+    <tei:p>
+     Keď sa Jucka oslobodila od ťarchy voskových platničiek, vrátila sa   jej zas predošlá pružnosť a veselá nálada. Cestou uchopila kúsadlami   na dne úľa ležiaci kúsok splesnivelej voštiny a vybehla s ním von.   Počasie nebolo práve príhodné na obletovanie a preto sa hneď vrátila   zpäť. Vyletovaly z úľa len vonkajšie robotníčky, prinášajúce nektár,   pyľ a vodu a niekoľko takých, ktoré vynášaly smeti.
+    </tei:p>
+    <tei:p>
+     Počasie sa stále zhoršovalo a celkom prerušilo vonkajšiu prácu.   Staré včielky, medzi nimi aj Ela, zavesily sa v retiazkach pod rámiky   a odpočívaly.
+    </tei:p>
+    <tei:p>
+     Juckina zpiatočná cesta viedla okolo odpočívajúcich včiel. Ela ju   spozorovala už zďaleka a zavolala na ňu:
+    </tei:p>
+    <tei:p>
+     „Kadeže sa túlaš, Jucka? Už si domurárčila?“
+    </tei:p>
+    <tei:p>
+     „Minulý sa mi tehly a preto hľadám inú robotu,“ odpovedala Jucka a   bola rada, že sa s tetou stretla, lebo dúfala, že bude mať   spoločnicu. Nemýlila sa. Ela nemohla ísť do poľa a pre­to pridružila   sa k Jucke. Vybraly sa do hĺbky úľa na rámiky za hniezdom, ktoré   pripravovaly mladušky na uskladňovanie medu. Zastavily sa pri   robotníč­kach, ktoré už svojím zo­vňajškom prezradzovaly, že ich robota   nie je závidenia hodná. Čistily komôrky. Väčšina z nich hlavičkami   ponorenými do buniek vyrypovaly kúsadlami pri­schnutú škváru, pretkanú   jedovatými pliesňami na dne a na bokoch komôrok. Kde-tu prinútené   boly odpratať odporne páchnuce výkaly chorých sestier. Ale ani jedna   robota nie je taká jedno­tvárna, aby sa pri dobrej nálade nedala   spestriť.
+    </tei:p>
+    <tei:p>
+     Aj pri tejto robote, azda najodpornejšej v úle, ozýva sa často   smiech a veselý krik. Poľovačka na húsenice motýľa zavijača voskového   vie i staré včely rozohniť.
+    </tei:p>
+    <tei:p>
+     „Teta, poďme sa podívať, na čo strežú tie sestry, čo pozerajú do   komôrok a pripravené sú každú chvíľu chytiť niečo medzi kúsadlá.“
+    </tei:p>
+    <tei:p>
+     „Majú v robote odporného chrobáka, záškodníka našej práce, kto­rý   nám zožiera vosk a tak ničí naše úsilie.“
+    </tei:p>
+    <tei:p>
+     „A akože sa sem dostal? Prečo ho pustila naša stráž k nám?“
+    </tei:p>
+    <tei:p>
+     „On sa v našom úle vyliahol, sniesla ho tu jeho matka, vo for­me   malého vajíčka a ponechala jeho vychovanie na nás.“
+    </tei:p>
+    <tei:p>
+     „To je veru zlá matka, keď prinesie dieťa na svet a nestará sa   oň,“ pohoršila sa Jucka. „Do dobrých rúk ho sverila.“
+    </tei:p>
+    <tei:p>
+     „Keď aj ho matka opus­tila, vie si ono chrániť svoj život,“   vysvetľuje Ela. „Schováva sa pred nami do naj­temnejších kútov úľa, a   keď vyrastie tak, že ho môžeme ľahšie zbadať, opradie si cestu   vláknami, ako pavučinou, aby sme sa nemohly k nemu dos­tať. To vieš,   že pavučina je proti nám najnebezpečnejšia zbraň, lebo keď sa naše   chl­paté telo s najrôznejšími vý­rastkami dostane do vlákien pavučiny,   sme bezmocné. Čím väčšmi sa chceme z nich vyslobodiť, tým väčšmi sa   zamotávame. Preto čakajú tamtie robotníčky, kým pažravec vylezie z   vlákien, tam si už budú vedieť s ním poradiť.“
+    </tei:p>
+    <tei:p>
+     „Tam, hľa,“ ukazuje Jucka, „niektoré sestry trhajú vlákienka   pavuči­ny kúsadlami a vyhryzujú steny buniek, aby sa mohly dostať   bližšie k nemu.“
+    </tei:p>
+    <tei:p>
+     „Ony ho zaženú až na kraj opradenej cesty a potom ho prinútia, aby   vyšiel na povrch plášťa a takto ho potom dostanú.“
+    </tei:p>
+    <tei:p>
+     Sotva dopovedala Ela spôsob poľovačky, už sa dostala húsenica   zavijača do kúsadiel poľovníčok. Naťahujú sa s jej mäkkým, bielym,   nefo­remným telom, ako deti s povrazom, kým ju nepretrhnú. Potom   pochytí mŕtve telo jedna z poľovníčok a vynesie ho von.
+    </tei:p>
+    <tei:p>
+     Jucka nepovažovala toho nemotorného chrobáka za nebezpečného   nepriateľa a preto nevedela pochopiť nenávisť, ktorú mu preukazovaly   jeho prenasledovateľky.
+    </tei:p>
+    <tei:p>
+     Ela zlostne a s opovržením pozrela na mŕtvolu húsenice a   ne­ovládala sa, aby neprejavila uspokojenie nad víťazstvom svojich   družiek.
+    </tei:p>
+    <tei:p>
+     „Zas o jedného záškodníka menej. Je to pliaga, ktorá sa množí, ako   huby po daždi a stačí nás za krátky čas zničiť.“
+    </tei:p>
+    <tei:p>
+     „Dobre, že sme zdravé a nemáme mnoho plástov, inak by sme sa tým   potvorám nemohly ubrániť,“ poznamenala jedna robotníčka, ktorá sršala   nenávisťou proti odpornému tvoru.
+    </tei:p>
+    <tei:p>
+     „Keby sme ich maly mnoho, nestačily by sme opravovať stavbu, veď   koľko dier nám narobila len jedna táto potvora v komôrkach plásta,“   dodala Ela a obrátiac sa k Jucke povedala:
+    </tei:p>
+    <tei:p>
+     „Dajme sa do roboty.“
+    </tei:p>
+    <tei:p>
+     Robota šla veselo od ruky. Kúsadlami vyhryzovaly rozcapartené   výčnelky voštiny, jej pevnejšie čiastky vyrovnaly a spojovaly podľa   po­treby. Tam, kde bolo treba trhliny vyplniť voskom, upotrebily na to   vosk, kde ho našly hrubšie naložený. Inde Jucka doplňovala stavebnú   hmotu zo svojich skromných zásob, tvoriacich sa vo voskových   žliazach.
+    </tei:p>
+    <tei:p>
+     Jucka s tetou boly tak zahrúžené do roboty, že ani nezbadaly, ako   pracujú pri nich mnohé robotníčky s rovnakou usilovnosťou až k   vyčerpaniu posledných síl. Blíži sa čas najradostnejšej, ale i   najúmornejšej roboty, preto je ten shon v práci bez oddychu.
+    </tei:p>
+    <tei:p>
+     Včielky sú deti prírody. Tak tesne sú spojené so svojou matkou, že   pocítia každý jej záchvev a preto sa včas pripravujú na využitie jej   darov.
+    </tei:p>
+    <tei:p>
+     Bezsenné dni a noci umorily Jucku natoľko, že sa stala   prácene­schopnou. Mdlými očami pozerala na tetu, a vzdychla si.
+    </tei:p>
+    <tei:p>
+     „Teta, som na smrť ustatá!“
+    </tei:p>
+    <tei:p>
+     „Vojdi do prázdnej bunky a zdriemni si, doporučovala jej Ela.
+    </tei:p>
+    <tei:p>
+     Kým Jucka odpočívala, Ela zdvojnásobnila svoje sily, aby nahra­dila   robotu, ktorá bola zameškaná tým, že jej miláčik odpočíval.
+    </tei:p>
+    <tei:p>
+     Po krátkom, asi štvrťhodinovom odpočinku, púšťa sa Jucka zas do   roboty ako znovuzrodená. Pri návrate medzi svoje družky si všimla, že   najväčšia časť starej voštiny sa leskla ako krištál a biele pláste   pa­nenskej novostavby visely v rámikoch zavesené, ako ťažké   drapérie.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Žatva.
+    </tei:head>
+    <tei:p>
+     V usilovnej robote vyrušuje včielky spev výzvedkyne, ktorá pri­náša   svojim družkám radostnú novinu, že našla bohatú pašu.
+    </tei:p>
+    <tei:p>
+     Zvedavšie robotníčky, najmä mladšie a medzi nimi aj Jucka s te­tou   poponáhľajú sa k zástupu, od ktorého sa k nim ozýva spev šťastnej   sestry:
+    </tei:p>
+    <tei:p>
+     Prinášam vám zvesť radostnú,
+    </tei:p>
+    <tei:p>
+     pestré kvety jari kvitnú,
+    </tei:p>
+    <tei:p>
+     Sviatočný šat si obliekly,
+    </tei:p>
+    <tei:p>
+     svoje stvoly ozdobily.
+    </tei:p>
+    <tei:p>
+     Rozsievajú prášok zlatý,
+    </tei:p>
+    <tei:p>
+     by robotný tvor vábily,
+    </tei:p>
+    <tei:p>
+     Vôňu ich som vám doniesla,
+    </tei:p>
+    <tei:p>
+     v žľaze svojej uschovala.
+    </tei:p>
+    <tei:p>
+     Smer cesty vám určí ona,
+    </tei:p>
+    <tei:p>
+     kde čaká náš rod hostina.
+    </tei:p>
+    <tei:p>
+     Vetru fúzy ver pretreme,
+    </tei:p>
+    <tei:p>
+     predbehnúť sa mu nedáme.
+    </tei:p>
+    <tei:p>
+     Jucka nevedela si uvedomiť, či melodický spev a či pôvabný ta­nec   spievajúcej sestry sa jej lepšie páčil.
+    </tei:p>
+    <tei:p>
+     „Jaj, ako pekne tancuje!“ — skríkla Jucka. Sotva badať, že hýbe   nohami a predsa natriasa celé telo a ako šibalsky si ,zalomila’   hlavičku, podvihuje zadočok a točí sa majestátne doprava.“
+    </tei:p>
+    <tei:p>
+     Jucka začarovaná spevom a tancom, precitla na zvláštnu vôňu, ktorá   sa roznášala od tancujúcej po zástupu a po okolí. Jásavá radosť   prenášala sa na okolostojace robotníčky. V prvom prekvapení počúvaly   spev a neskoršie sa aj ony pustily do nôtenia svojej najmilšej   piesne.
+    </tei:p>
+    <tei:p>
+     „Odkiaľ má naša sestra tú príjemnú vôňu, veď my takej nemá­me,“   opytuje sa Jucka tety.
+    </tei:p>
+    <tei:p>
+     „To je vôňa kvetu, na ktorom našla veľké bohatstvo nektáru,“   vysvetľuje jej Ela.
+    </tei:p>
+    <tei:p>
+     Jucka venuje teraz väčšiu pozornosť spevu chóru a sama tiež za­čína   spievať so spievajúcimi sestrami, stojacimi nehybne so zrakom upre­tým   na prvú zvestovateľku radostnej noviny.
+    </tei:p>
+    <tei:p>
+     Poďme, leťme už na hody,
+    </tei:p>
+    <tei:p>
+     nektáru sú plné stoly,
+    </tei:p>
+    <tei:p>
+     Budeme mať plné hrnce
+    </tei:p>
+    <tei:p>
+     pre nás i pre deťúrence.
+    </tei:p>
+    <tei:p>
+     Spev chóru ozýva sa vždy silnejšie a vyvrcholil najmohutnejšie,   keď objaviteľka paše sa pohla smerom k letáču, aby ukázala svojim   ses­trám cestu k bohatému pastvisku. Za ňou sa pohol zástup mladých   vče­ličiek, ktoré práve dospely pre vonkajšiu prácu. Kde-tu bola medzi   mladými zamiešaná i stará robotníčka.
+    </tei:p>
+    <tei:p>
+     Pri znení posledných akordov piesne, videla Jucka vyletovať svo­je   družky z úľa do objatia prírody, dýchajúcej vlažný, sotva sa hýbajúci   vzduch a oplývajúcej nespočetným množstvom plodov jej mladistvého   života.
+    </tei:p>
+    <tei:p>
+     I ona by sa chcela vznášať v pestrých lúčoch slnka do krajov,   bohatých na sladký nektár, na utešené nivy prekrásnych hôr, ale jej   krýdla sú ešte slabé, nedoniesly by ju zpätťs nákladom božského   nápoja. Vrátila sa preto do pre­došlej roboty.
+    </tei:p>
+    <tei:p>
+     Sotva chvíľku pracovala, už sa ozýva nový spev, ale teraz už z   viacerých miest úľa. Priletela aj teta Ela so svojím nákladom   nek­táru. Jej tanec a spev — tak sa zdalo Jucke, — bol omnoho   ma­lebnejší, ako spev a tanec všetkých ostatných, ktoré doteraz počula   a videla.
+    </tei:p>
+    <tei:p>
+     Ela dokončiac svoj spev a tanec, odovzdala Jucke prinesený nektár.   Jucka spojila svoj sosáčik so sosáčikom tety a tak prelialy nektár z   tetinho volátka do volátka Juckinho. Jucka nedostala nektár v   pôvodnom stave, lebo teta ho už po ceste domov čiastočne odparila z   vody a pridala mu potrebné látky k rozloženiu cukru na jeho základné   složky.
+    </tei:p>
+    <tei:p>
+     Jucka dokončovala tetkino dielo. Zhustila nektár na taký obsah   cukru, aby nemohol kysnúť a previedla tak ďalšie rozloženie cukru.   Takto prepracovaný nektár vliala do bunky a keď nasal do seba   potrebné množstvo mravenčej kyseliny, konzervačnej to látky, plnú   bunku zadeb­nila tenkým voskovým vekom. Takýmto spôsobom vyrobila z   nektáru med.
+    </tei:p>
+    <tei:p>
+     Touto robotou sa zamestnávalo mnoho Juckiných vrstovníc a tie ani   nestačily spracovávať prinesený nektár, lebo húfne sa vracaly domov   lietavky s preplnenými volátkami sladkej šťavy.
+    </tei:p>
+    <tei:p>
+     Všetky mladušky, ktoré maly na starosti prerábať nektár na med,   maly plné volátka nektáru a preto lietavky, aby sa nezdržovaly v   robote, len čiastočne prepracovaný nektár ukladaly do buniek   posledných rámi­kov. Cez noc sa tento nektár prepracoval na med. Preto   nemaly včielky pokoja ani vo dne ani v noci, pracovalo sa bez   prestania ako vo fabrike.
+    </tei:p>
+    <tei:p>
+     Včielky využívajú všemožne dobu hlavnej snášky a nezameškajú ani   sekundy času. Každá sa usiluje pri svojej robote. Najmladšie chovajú   plod, od nich staršie stavajú pláste, pripravujú komôrky na med,   prerá­bajú nektár na med, konzervujú ho a zavíčkovávajú. Okrem toho   starajú sa o vetranie úfa a konajú strážnu službu na letáči. Staré   včely, lietavky, zas prinášajú do úľa nové dodávky nektáru a pyľu. V   tomto shone ne­majú času obletovať cudzie úle, aby si mohly nabrať z   cudzieho majetku, ba nemajú času ani na to, aby od svojich úľov   odohnaly nepriateľov, ktorí číhajú na ich bohatstvo. V dobrej snáške   zanecháva rod včeličiek nepekné vlastnosti, nezbíja a je   shovievavejší aj proti nepriateľom.
+    </tei:p>
+    <tei:p>
+     Vo veľkej robote zabúdajú na všetko, čo by ich vyrušilo. Oddávajú   sa celou svojou bytosťou jedine tomu, aby nashromaždily čím viac   sladkého bohatstva.
+    </tei:p>
+    <tei:p>
+     Večer po západe slnka uchyľujú sa lietavky na zaslúžený odpočinok,   prav­da, keď majú dosť mladušiek na vyko­nanie potrebných domácich   prác. Keď je teplá noc, vysadnú si pred letáč úľa a na ňom čakajú   prvé záblesky budú­ceho dňa, aby sa pustily do novej roboty.
+    </tei:p>
+    <tei:p>
+     Ela pribehla s poslednou nôžkou k Jucke, aby sa s ňou po­rozprávala   o denných udalostiach a o svojich zážitkoch.
+    </tei:p>
+    <tei:p>
+     „Maly sme dnes veľmi požehnaný deň,“ začala Ela. „Sestričky naše   nás štedre hostily.“
+    </tei:p>
+    <tei:p>
+     „Nasnášaly ste nám toho toľko, že sme ani nemaly miesta na   ukladanie nektáru. Boly sme, veru, prinútené dávať med do komôrok,   ktoré sme maly pripravené pre plod a pritom sme musely stavať nové   pláste. Robily sme to len tak po kúskoch, kde sme našly v našom   tes­nom úle trochu prázdneho miesta.“
+    </tei:p>
+    <tei:p>
+     Veľkú robotu sme maly, teta! A to teplo, ako v parnom kúpeli. Od   veľkej horúčavy mäkly nám pláste a povoľovaly pod ťarchou medu, preto   sme z nich musely vybrať med a držať ho vo volátkach vonku pred   letáčom. Keby sme tak neboly urobily, bol by nás zalial. Veľmi mnoho   mladušiek muselo preto zanechať iné, veľmi súrne práce. A vyhá­ňanie   horúčavy z úľa zamestnalo tiež mnoho sestier. Nediv sa preto tomu, že   sme sa s prácou oneskorily a musíme nahrádzať deň nocou. Pravdu majú   sestry, keď tvrdia, že nemáme vhodný úľ.
+    </tei:p>
+    <tei:p>
+     „Veru, Jucka, náš úľ nezodpovedá našim terajším pomerom. Je tesný   a ťažko sa dá vetrať. Škoda, že sa človek pletie do našej roboty a   nesnaží sa ani poznať naše potreby, aby nám pomáhal pri našej práci a   neškodil nám svojou nevedomosťou.“
+    </tei:p>
+    <tei:p>
+     „Musím sa vám pochváliť, teta, že som dnes na chvíľku vypo­máhala   pri vetraní. Bolo nás pri tejto robote veľmi mnoho a to všetko také   vetroplachy, ako som ja. Postavily sme sa pekne do radov na po­vale a   na prednej strane úľa. Naše rady boly ako nejaká kolóna vojska, dobrá   hromádka nás bola pokope. Hlavičkami sme boly obrátené do vnútra úľa,   zadočky sme trocha podvihly a trepotaly sme krídelkami, ako by sme   chcely uletieť.“
+    </tei:p>
+    <tei:p>
+     „Dobre poznám tú robotu,“ prikývla Ela. „Bolo ti tam aspoň   chladnejšie, ako dolu, v tej pekelnej horúčave. A bolo ti tam aj   veselo.“
+    </tei:p>
+    <tei:p>
+     „Pravdu máte, teta. Veselá spoločnosť sa tam schádza. Samý smiech   a rečiam niet konca-kraja. Počula som tam, že mnohé naše sestry sú   nespokoj­né, lebo sa, vraj, nemôžu celkom uplatniť v robote. Niektoré   majú mnoho mliečka a nemajú ho komu dávať. Iné zas sú prinútené   tratiť voskové platnič­ky, lebo nemajú miesto, kde by mohly stavať.   Všetka energia, pochádzajúca zo zázračného pokrmu, ostáva v nás a   naše pomery nám nedovoľujú, aby sme ju mohly uplatniť. Vážne sa   hovorí, že náš rod bude sa musieť rozdeliť a založiť novú čeľaď.“
+    </tei:p>
+    <tei:p>
+     „To som už dávno vedela,“ prisviedča jej Ela. „Nemáme inej   mož­nosti vybŕdnuť z tohto položenia, ako že sa vyrojíme. Dnes sa to   definitívne rozhodlo. Matka totižto položila niekoľko vajíčok do   mištičiek matečníkov.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Príprava na rojenie.
+    </tei:head>
+    <tei:p>
+     Osud rodiny je rozhodnutý. Chýr o vajíčkach, snesených do   miš­tičiek (základov) matečníkov sa bleskurýchle rozniesol po celej   včelej ríši. Hoci toto rozhodnutie sprevádzala všeobecná túžba   prevážnej väčšiny ro­botného obyvateľstva, predsa vzrušilo mysle tak   starých ako i mladých.
+    </tei:p>
+    <tei:p>
+     Mladé, neskúsené, plesaly radosťou, že nadchádza čas, kedy budú   mať možnosť uvoľniť energiu svojich tiel, nashromaždenú v nich   požíva­ním zázračného pokrmu, ktorú doteraz nemohly vybiť pre veľký   počet mladušiek (krmičiek) pri chove plodu a pre nedostatok miesta v   úli pri stavbe plástov.
+    </tei:p>
+    <tei:p>
+     Staré prijímaly zvesť chladnokrvným uvažovaním o budúcnosti roja.   Zriecť sa bohatstva, nashromaždeného ťažkými žertvami drahých životov   najstatočnejších tvorov prírody a pustiť sa do neistoty, do neznámeho   kraja, kde nielen že si musia vybudovať nový domov od   najjednoduch­ších základov, ale treba si tiež nashromaždiť zásoby pre   zimný odpoči­nok. Sú to vážne starosti pre skúsenejšie robotníčky   vonkajších robôt.
+    </tei:p>
+    <tei:p>
+     Palácová revolúcia najťažšie dolieha na matku. Ona má urobiť prvý   krok k prielomu tradície. Má narušiť súladnú a ničím nehatenú,   usilov­nú prácu svojho nešťastného národa. Ona, snesením prvého   vajíčka do komôrky matečníka, vypovedá proti sebe ortiel vyhnanstva.   Ťažko sa jej rozhoduje, či má splodiť zárodok svojej sokyne,   požadovaný neúprosným zákonom prírody a tak vydať seba i svoje deti   na milosť a nemilosť neistej budúcnosti.
+    </tei:p>
+    <tei:p>
+     Iba trúdi prijímajú túto zprávu ľahostajne. Oni myslia len na   svoje záujmy a preto nemajú nič spoločného so starosťami svojho rodu.   Je ich až nápadne mnoho. Pletú sa popod nohy robotniciam, vracajúcim   sa s ťažkými bremenami darov požehnanej prírody. Ťarbavým túlaním v   uličkách plástov prekážajú čiperným amazonkám v robote a tým len   zhoršujú neznesiteľné pomery čeľade.
+    </tei:p>
+    <tei:p>
+     Jucka, ako tŕňom posedlá behá po uličkách za tetou, aby si u nej   overila najnovšiu novinku, ktorú práve počula od svojej mladšej   kamarátky Loly, zamestnenej pri základoch matečníkov.
+    </tei:p>
+    <tei:p>
+     Našla ju v zástupe starých robotníčiek, ktoré, ako vidieť z   váž­nych tvárí shromaždených, majú poradu o veľmi významných   veciach.
+    </tei:p>
+    <tei:p>
+     Keď Ela zbadala Jucku, obzerajúcu sa po všetkých stranách, ve­dela,   že hľadá ju a preto šla za ňou. Jucka zbadala Elu len vtedy, keď ju   táto oslovila.
+    </tei:p>
+    <tei:p>
+     „Čo tu hľadáš, Jucka?“
+    </tei:p>
+    <tei:p>
+     „Vás, teta, Chcem sa vás na niečo opýtať.“ Jucka nevedela ako   začať. Veď chcela prezradiť tajnosť, o ktorej nemala pred nikým   hovoriť. K tete ju však pútaly tak dôverné styky, že nemohla pred ňou   nič za­mlčať a preto začala:
+    </tei:p>
+    <tei:p>
+     „Dnes som sa veľmi dôverne dozvedela, že do jednej mištičky   matečníkov, kade má ísť matka, zašantročila jedna šikovná robotníčka   obyčajné vajíčko z malej komôrky do kolísky matky. Urobila to, vraj,   preto, aby dodala matke odvahu sniesť vajíčka do ostatných   komôrok.“
+    </tei:p>
+    <tei:p>
+     „Nie je to nič nemožného,“ odpovedá Ela. „Veď je známe, že našej   matke, zvyknutej na jednotvárny život, nechce sa púšťať do po­chybných   dobrodružstiev, tým menej vtedy, keď cíti, že jej ťažké telo odvyklo   od lietania.“
+    </tei:p>
+    <tei:p>
+     „Je to možné teta, aby duch nášho rodu dal podnet i k takýmto   podvodom?“ búri sa cit statočnej Jucky.
+    </tei:p>
+    <tei:p>
+     „To nie je podvod, Jucka, ale len znamenie nezmeniteľného   roz­hodnutia nás všetkých, dať život novej rodine a rozmnožiť tak náš   rod o ďalší celok. Keď matka zbadá, že v jednom matečníku je už   vajíčko, neodporuje ďalej požiadavkám celku a sama zanesie 10—20,   niekedy i viac matečníkov vajíčkami. Veď ona dobre vie, že jednej   sokyni bez­tak musí prepustiť svoje miesto.“
+    </tei:p>
+    <tei:p>
+     Odo dňa, odkedy sa objavilo prvé vajíčko v mištičke matečníka,   usilovný národ akoby očarovaný podlieha veľkej zmene. U jednej   čiastky včiel, posadlých revolučným duchom, javí sa nervozita,   splašenosť. Lietavky upúšťajú od príslovečnej usilovnosti, behajú po   uličkách, v ktorých sa za riadnych pomerov neobjavujú. Niektoré z   nich naplnia si medové volátko medom a vysedujú tak celé dni pod   rámikami a keď je tam veľká horúčava, vychádzajú von pred letáč.   Takto čakajú už od prvého dňa zárodku mladej matky na povel k odletu   do neznámych končín sveta.
+    </tei:p>
+    <tei:p>
+     Mladé, preplnené životnou silou, so žliazami prekypujúcimi   mlieč­kom a s voskom preplnenými bruškami behajú po úli, aby našly   mies­to kde by uľavily fyzickému tlaku svojho tela.
+    </tei:p>
+    <tei:p>
+     V terajšej pohnujej dobe nemá Ela chuti na dlhé reči, preto   od­chádza od Jucky, aby sa inde dozvedela niečo o blížiacich sa   udalostiach, najmä o vyslaní výzvedkýň na hľadanie nového domova.
+    </tei:p>
+    <tei:p>
+     Jucka, keď osamela, rozbehla sa do hniezda, aby sa podívala na   vajíčka mladých matiek. Kade šla, všade videla neobvykle veľké   množ­stvo vajíčok vo včelných i trúdových bunkách. Prekvapil ju najmä   veľký počet odkrytého a zaviečkovaného trúdieho plodu. V blízkosti   plodu trú­dov našla niekoľko prázdnych mištičiek matečníkov. Dúfala,   že cieľ svo­jej cesty nájde uprostred hniezda, kde tepna života rodu   bije najprudšie a preto zamierila tam.
+    </tei:p>
+    <tei:p>
+     Nemýlila sa. Našla tu nielen jednu, alebo dve mištičky mateční­kov,   zanesených vajíčkami budúcich matiek, bolo ich tu mnoho. Na dnách   belely sa jednoduché vajíčka, záruka to omladenia ich okrídleného   rodu. Len tomu sa divila, že ich je tak mnoho, keď potrebujú len   jednu.
+    </tei:p>
+    <tei:p>
+     „Vítaj, Jucka!“ oslovila ju Lolka, priateľka od matečníkov.   „Istot­ne ťa k nám prihnala zvedavosť. Však?“
+    </tei:p>
+    <tei:p>
+     „Áno,“ odvetila Jucka. „Chcela som vidieť zárodky našich budú­cich   matiek.“
+    </tei:p>
+    <tei:p>
+     „Ako to hovoríš, že našich? Či ty nechceš odletieť s rojom?   Ne­chala by si starú matku, ktorú zbožňuješ, odletieť bez tvojho   doprovodu?“ dohovára jej Lolka.
+    </tei:p>
+    <tei:p>
+     „To som nevedela, že stará matka odletí a dobre zásobený do­mov   prenechá svojim dcéram. Ďakujem ti, sestra, za poučenie. Svoju   matičku neopustím.“
+    </tei:p>
+    <tei:p>
+     „Žiaľbohu, ja musím ostať doma, veď niekto sa musí venovať deťom,   ktoré dorastajú a aj zásoby bude treba doplňovať,“ vzdychla si   rezignovane Lolka.
+    </tei:p>
+    <tei:p>
+     Jucka videla, že vajíčko budúcej matky je celkom také, ako   va­jíčko, z ktorého sa vyklubuje robotná včela. Pritom jej prišly na   um poučné slová vzdelanej sestry, ktoré počula od nej ešte v časoch,   keď bola v službách matky.
+    </tei:p>
+    <tei:p>
+     „Lolka, budeme sa teda lúčiť. Ty zostaneš tu a ja poletím do   neznámeho kraja, do neistej budúcnosti.“ Nestačila ani dopovedať, čo   mala na mysli, lebo priateľka skočila jej do reči:
+    </tei:p>
+    <tei:p>
+     „Na lúčenie máme ešte dosť času. Osem dní pre náš krátky ži­vot   znamená pätinu života a preto nemáme sa čo ponáhľať. Stretneme sa   ešte mnohokrát a keď nezabudneš na nás, priletíš sa podívať na svoje   priateľky. Dúfam, že nebudete ďaleko a že sa vám nebude tak zle   vodiť, aby si nemohla k nám zaskočiť,“ potešuje ju Lolka.
+    </tei:p>
+    <tei:p>
+     Jucke, po týchto slovách dobrej kamarátky, otvoril sa naraz nový   kruh nádeje, že bude môcť navštíviť priateľky, ktoré jej tak veľmi   prirástly k srdcu. Uisťovala sa vedomím, že jej zámer môže sa   uskutočniť, veď o spoločenských formách, ako sa má objaviť a chovať   pri návšteve cudzej rodiny pred hradnou strážou, poučila ju teta   Ela.
+    </tei:p>
+    <tei:p>
+     Jucka pozrela ešte raz na zárodky mladých matiek, odobrala sa od   Lolky a šla zpät za tetou, aby jej oznámila svoje rozhodnutie.
+    </tei:p>
+    <tei:p>
+     Ela sa práve vracala z vážnej porady lietaviek na svoje obvyklé   miesto, pod rámiky medových skladov a tak sa stretly.
+    </tei:p>
+    <tei:p>
+     „Teta, viem, že aj ty, aj naša mamička idete s rojom, preto som sa   i ja rozhodla, pripojiť sa k vám.“ Bez bársakého úvodu vyrukovala   Jucka so svojím úmyslom pred tetu Elu.
+    </tei:p>
+    <tei:p>
+     „Pekne od teba, Jucka, že nás nechceš opustiť, ale musím ťa   upozorniť, že odchádzame do neistej budúcnosti, všetko bohatstvo   zane­chávame našim sestrám, vezmeme si len toľko potravy, aby sme   vydržaly tri dni a nasťahujeme sa do celkom prázdneho domova. Ba ešte   aj tento musíme si od základov vystavať. Ďalej, musíme si nasbierať   toľko medu, aby sme v zime nezomrely hladom. Je to veľmi vážny krok a   preto si to dobre rozmysli,“ usiluje sa Ela odhovoriť Jucku od   úmyslu, ktorý by pre ňu mohol znamenať skazu.
+    </tei:p>
+    <tei:p>
+     Jucka dobre vycítila kam teta mieri týmito varovnými slovami. Keď   si však pomyslela, že by mala zostať doma, cítila, ako jej bolesť   srdce sviera. Ona, mladá, plná životnej sily, mala by zbabele   ponechať osudu svoje najmilšie? Keď jej drahá mamička a dobrá teta   púšťajú sa odhodlane do neznáma a dávajú svoje životy v sádzku, mala   by ona zostať v blahobyte, obkľúčená bohatstvom, ktoré ony opúšťajú   len kvôli svojmu pokoleniu? Nie, nikdy! Jucka sa rozhodla s konečnou   platnosťou, že aj ona pôjde s rojom.
+    </tei:p>
+    <tei:p>
+     „Nemôžem tu ostať bez vás, milá teta a bez našej drahej mamič­ky a   preto, nech sa stane čokoľvek, pôjdem s vami.“
+    </tei:p>
+    <tei:p>
+     Ele sa veľmi zapáčily Juckine odhodlané slová a keďže videla, že   by bolo zbytočné ďalej ju odhovárať, pokývla hlavou a hovorí jej:
+    </tei:p>
+    <tei:p>
+     „Poď, nedbám. Musím ťa však ešte upozorniť, že naša cesta bude   dlhá. Našla som na svojej výzvednej ceste, na ktorú ma vypravila   star­šina rodu, ďaleko v horách veľký strom s veľkou dierou. Dobrý by   bol pre náš domov. Kedysi, veľmi dávno, poskytol už ten strom   prístrešie niektorému kmeňu našich predkov, lebo vidieť v ňom ešte   stopy po moľami zožranej stavbe. Teraz tam bývajú mravce.“
+    </tei:p>
+    <tei:p>
+     „Veď ony nás tam nepustia,“ namieta Jucka.
+    </tei:p>
+    <tei:p>
+     „Postaráme sa o to, aby sa utiahly v dolnej čiastke stromu, alebo   budeme ich dotiaľ preháňať, kým ich to nezunuje a odsťahujú sa od   nás.
+    </tei:p>
+    <tei:p>
+     „Nie je dobre, bývať pod jednou strechou s takými zlodejmi,“   hovorí Jucka a pokračuje: „Najlepšie predsa len bude, zbaviť sa ich,   ináč by sme maly s nimi stále opletačky.“
+    </tei:p>
+    <tei:p>
+     „Sme my len prostomyseľné,“ zasmiala sa Ela. „Nie sme ešte ani tam   a už vyháňame obyvateľov z ich vlastného hniezda.“
+    </tei:p>
+    <tei:p>
+     „Kedy len svitne deň nášho veľkého sviatku, deň zrodenia no­vého   člena nášho rodu? Veď, teta, my sa nerozmnožujeme jednotlivými   včielkami, ale len rojením. Lebo, keď náš rod tvorí jednu bytosť,   pozo­stávajúcu z tisícov okrídlených buniek a ten sa rozdvojí, rodí sa   vlastne nový člen,“ múdruje Jucka.
+    </tei:p>
+    <tei:p>
+     „Tak je to!“ prisviedča jej teta a vedie ďalej rozhovor o   ďalekosiahajúcich príčinách rojenia. „Táto veľmi vážna udalosť sa v   našom rode už dávno pripravuje. Ty si ešte ani nebola na svete, keď   sme sa rozhodly. Maly sme vtedy mnoho chleba, ale medu sa nám   dostávalo len po kvapkách a preto jedly sme viac chleba, ako medu. To   už si môžeš sama domyslieť, ako nám počaroval ten zázračný prášok.   Maly sme mno­ho mliečka a aby sme ho vypotrebovaly, chovaly sme mnoho   plodu Plýtvaly sme ním pri chove trúdov, lebo nielen ich plodu ho   dávame, ale prikrmujeme ním aj dospelých trúdov. Nepomohlo nám ani   to, lebo liahlo sa stále viac mladušiek a matka nemohla nám dať toľko   plodu, aby mladušky boly plne zamestnané kŕmením. Ostávaly preto   prebytky zázračného pokrmu v nás. Dokiaľ sme maly miesto, vybíjaly   sme naše sily v stavbe plástov a krotily našu výbojnosť prácou bez   oddychu. Všetka táto snaha zbaviť sa životného elánu stroskotala.   Nezostáva nám iné východisko dostať sa von zo začarovanej sily   kvetových práškov, ako pustiť sa do budovania nového domova.
+    </tei:p>
+    <tei:p>
+     Týždeň pred tým, ako mala matka dať život prvej dcére, bolo jej už   naše rozhodnutie známe a preto nakládla v ten týždeň mnoho plodu. A   keď sniesla prvé vajíčka mladých matiek, obmedzila svoju plodnosť,   aby bezprostredne pred vyletením roja vyprázdnila obsah va­ječníka a   tým uľahčila váhu svojho tela.
+    </tei:p>
+    <tei:p>
+     Dnes, pod vlivom všeobecnej vôle rodu, položila vajíčka i do   začiatkov matečníkov. Z týchto vyliahnu sa za tri dni larvy, ktoré   päť dní sa budú kŕmiť kráľovským pokrmom a zároveň sa budú stavať aj   matečníky. Po ôsmich dňoch ukončí sa chov lariev mladých matiek a   po­tom sa prikryjú matečníky vypuklým viečkom.
+    </tei:p>
+    <tei:p>
+     Prvý zaviečkovaný matečník je znamením, že všetky práce pre odlet   roja sú hotové a čaká sa len na povel, aby sa roj dal slávnostne na   pochod do novej vlasti.“
+    </tei:p>
+    <tei:p>
+     Jucke bolo teraz už jasné, že ich pochod do neznáma dal by sa len   tak odvrátiť, keby nejaká nadprirodzená sila im odobrala tú čiastku   robotníc, ktorá sa nemôže uplatniť v robote, alebo keby im bola daná   príležitosť využiť svoju energiu vo vlastnej domácnosti.
+    </tei:p>
+    <tei:p>
+     Predstavovala si to takto: Ak by matka prestala klásť plod,   nerodily by sa mladušky a potom mohly by sa uplatniť nespokojné   krmičky, ktoré si teraz nevedia rady s mliečkom, alebo ak by sa   zväčšil ich domov a bolo by takto miesto pre nové stavby. A konečne   našly by plné zamestnanie mnohé nespokojnice aj vtedy, keby zmizly   veľké zá­soby medu z bohatých skladov.
+    </tei:p>
+    <tei:p>
+     Tieto myšlienky prišly Jucke na um len tak mimochodom po výklade   tety o príčinách rojenia a aby zastrela prúd svojho múdrovania,   nadviazala na tetine slová:
+    </tei:p>
+    <tei:p>
+     „Prečo čakáme, dokiaľ nebude prvý matečník zaviečkovaný?“
+    </tei:p>
+    <tei:p>
+     „Preto, lebo matička nevyjde prv z úľa, kým nevidí, že jej so­kyňa   je zaopatrená. Keď vidí, že prvý matečník je zaviečkovaný, opanováva   ju strach a preto sa musí včas vzdialiť, aby nedala príležitosť   svo­jim deťom, mladým matkám, dopustiť sa matkovraždy.“
+    </tei:p>
+    <tei:p>
+     „Nuž a boly by tieto nevďačnice schopné takejto podlosti?“ opytuje   sa Jucka.
+    </tei:p>
+    <tei:p>
+     „Žiaľbohu je to tak. Sú nás tu desiatky tisícov a žijeme v súlade,   ako jedno telo, vo vzájomnej láske. Matky však nesú v sebe akúsi   kliatbu, ktorá ich núti do sestrovražedného boja. Matka neznesie pod   svojou strechou inú matku, hoci by aj pokrvné príbuzné boly. Preto sa   tak ťažko odhodláva sniesť prvé vajíčko do mištičky matečníka, lebo   do­bre vie, že táto jej práca bude mať ťažké následky. Zbadala si už   zaiste, že teraz, keď jej sokyňa, pravda, ešte len v podobe   nepatrného vajíčka, ju straší, je nespokojná a neistá.“
+    </tei:p>
+    <tei:p>
+     Osem dní v živote včely je mnoho. Za tento čas pripravujú sa   včielky na cestu. Do roboty lietajú väčšinou len tie, ktoré nemajú v   úmy­sle rojiť sa. Tie, ktoré sú rozhodnuté vydať sa na cestu, zdržujú   sa v prevažnej čiastke dňa doma s hrvolčekom, naplneným medom, aby   boly pripravené, až zaznie povel k odletu.
+    </tei:p>
+    <tei:p>
+     V posledný deň letia do poľa už len niektoré lietavky, aby si   nasbieraly pyľového prášku, lebo zásoby pyľu v úli nechávajú   nedotknuté.
+    </tei:p>
+    <tei:p>
+     Nespokojnosť matky vyvrchoľuje v ôsmy deň od zaviečkovania prvého   matečníka. Za celých týchto osem dní nebrala toľko pokrmu ako v   normálnych dňoch, preto sa tvorenie vajíčok u nej spomalilo. Keď v   posledný deň vyprázdni vaječník, bruško sa jej stáva štíhle, sama sa   stáva ľahkou a preto niet obavy, žeby ju neodniesly jej veľké krídla   tam, kam ju roj zavedie.
+    </tei:p>
+    <tei:p>
+     Jucka je už tiež celkom splašená. Už tri dni za sebou si napl­ňuje   hrvolček medom, aby bola pripravená na cestu. Dobre vie, že z   čista-jasna ozve sa povel a že každá musí byť dobre pripravená na   cestu. Jej teta je tiež hotová. Má nalepené na zadných nožičkách, v   ko­šíčkoch holene, také veľké batôžky propolisu, (vosk, smiešaný so   smolou) že by ich Jucka sotva vládala uniesť.
+    </tei:p>
+    <tei:p>
+     Statočnému a usilovnému národu praje aj príroda. Je príjemnný,   teplý deň. Ani obláčka niet na blankytnom kryte nekonečného sveta.   Len jemný vetrík pohráva sa s poddajným lístkom striebornej   osiky.
+    </tei:p>
+    <tei:p>
+     Jucka sa stále zdržuje okolo tety, lebo cestu do neznámej krajiny   chce prekonať v jej spoločnosti.
+    </tei:p>
+    <tei:p>
+     Slniečko vystupuje na vrcholný bod svojej cesty a včielky čakajú   práve na túto chvíľu, aby sa vydaly na cestu, ktorú im určil   osud.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Roj odchádza.
+    </tei:head>
+    <tei:p>
+     V dobe, keď u všetkých kmeňov, robotných a statočných detí slnka,   mládež prekonáva orientačnú školu, ozývajú sa fanfáry pochodu   bohatierskeho rodu, zvestujúce splnenie prísneho zákona prírody — dať   život novému pokoleniu.
+    </tei:p>
+    <tei:p>
+     Blažený pocit radosti z vykonanej povinnosti vyvoláva akordy   hymny, vyjadrujúcej spokojnosť. V tejto radostnej, no jednako vážnej   chvíli, nepočuť bojovné hlasy výbojných amazoniek, ani nariekavé   hlasy skleslosti a žiaľu. Všetky sú šťastné a preto zmizol ich   bojovný duch. Sú povoľnejšie a k nepoznaniu krotké.
+    </tei:p>
+    <tei:p>
+     Nebyť presvedčivých znakov spokojného blaha, zrkadliaceho sa na   včelách, čulo behajúcich po všetkých, nápadne oživených uličkách úľa,   mohol by sa niekto domnievať, že tento, zmätku sa podobajúci ruch   vyvolala nejaká katastrofa.
+    </tei:p>
+    <tei:p>
+     Zvuky veselej piesne radosti nesú sa nad hustým prúdom včiel, cez   úzky letáč, neudržateľne von, na voľné priestranstvo, aby privábily   do svojho sprievodu aj nespokojnice cudzích kmeňov.
+    </tei:p>
+    <tei:p>
+     Ťažko je lúčiť sa s vlasťou. Každá včielka, púšťajúca sa do   dobrovoľného vyhnanstva, zažila tu najblaženejšie časy svojho života.   Malý okružný let okolo letáča, brány svojej vlasti, je dojímavým   zážitkom kaž­dej, ktorá navždy odchádza zo svojho domova.
+    </tei:p>
+    <tei:p>
+     Po tomto srdečnom lúčení, pripojujú sa ku krúžiacemu a na ďalekú   cestu pripravenému zástupu oneskorené pútničky. Jasnými lúčami slnka   osvetlené, okrídlené bodky poletujúcich včeličiek, podobajú sa   ti­sícim trblietajúcim sa hviezdičkám, ktoré sa hneď srážajú do   neprehľadného mračna a hneď zas sa rozletujú v priesvitný závoj.
+    </tei:p>
+    <tei:p>
+     Ela a Jucka sú stále pohromade. Hľadajú matku, aby na ceste do   novej vlasti strážily jej bezpečnosť. Nenachádzajú však ani stopy po   jej zvláštnej vôni a preto vracajú sa do úľa, aby ju tam   vyhľadaly.
+    </tei:p>
+    <tei:p>
+     Sprievod matky využíva všetky možné nenásilné prostriedky, aby ju   dostal medzi jej ľud, čakajúci na ňu vonku. Matka sa, veru, veľmi   ťažko lúči so svojím domovom, v ktorom zanecháva tisíce nedospelých   detí a všetko to, čo jej pripomína mnohé ťažké dni a bezsenné   noci.
+    </tei:p>
+    <tei:p>
+     Vychádza posledná za svojím sprievodom.
+    </tei:p>
+    <tei:p>
+     Poletujúce mračno včiel ju hneď zbadá, lebo vôňa jej tela je taká   prenikavá, že ju zďaleka pocítia všetky, čo boly na ňu navyknuté.
+    </tei:p>
+    <tei:p>
+     Do príletu matky boly včielky roztratené po celom okolí, ale jej   príletom prestáva bezhlavosť a okraje poletujúceho celku dostávajú   jas­nejšie obrysy.
+    </tei:p>
+    <tei:p>
+     K radostnému zástupu pripojujú sa aj niektoré včielky a trúdy   cudzích kmeňov, lebo nemôžu sa dočkať podobnej chvíle u vlastného   rodu.
+    </tei:p>
+    <tei:p>
+     Takto sa do sprievodu dostal aj Paľko.
+    </tei:p>
+    <tei:p>
+     Do melodického chorálu vysťahovalcov miešajú sa nesúzvučné zvuky   zvončeka a ostré, chraptivé rinčanie kosy. To človek, ktorý pri tejto   príležitosti odel si sviatočný šat nezvyklého strihu. V neobyčajnom   úbore, omotaný handrami po celom tele, vyzerá ako múmia. Svojím   od­porným zápachom potu, disharmonickými zvukmi primitívnych nástrojov   a hlavne vodou, ktorú vystrekuje včielkam priamo na brušká, vyrušuje   majestátne vznášajúci sa zástup pútnikov, ktorý spieva žalmy o   večnosti svojho rodu.
+    </tei:p>
+    <tei:p>
+     Tak sa zdá, že práve toto nerozumné zasahovanie človeka do   sviatočnej nálady včiel, núti ich, aby sa dvíhaly do výšky, kam ruka   človeka nedosiahne.
+    </tei:p>
+    <tei:p>
+     Podľa starých zvykov, soskupuje sa zástup vyvandrovalcov v   blíz­kosti starého domova v jednom husto obsadenom chumáči. Táto   rodová tradícia začína sa usadzovaním malých hlúčkov predných vojov   roja na vrcholci stromu, aby vábily k sebe matku a s ňou aj celý jej   sprievod.
+    </tei:p>
+    <tei:p>
+     Matka prisadá k jednému neveľkému hlúčku skúsených lietaviek,   medzi ktorými je aj Ela. Tým, že sa matka pridala k tejto malej   sku­pinke včiel, hrnie sa k nej celý zástup sprievodu — 40 až 50 tisíc   vče­ličiek sadá na jednu hromadu, ktorá sa podobá veľkému strapcu   hrozna.
+    </tei:p>
+    <tei:p>
+     Veľké veci sa musia odohrávať v tábore tesne somknutých   vysťahovalkýň. Kľud vyrušuje len niektorá oneskorená včielka, ktorá z   radosti, že našla svoje družky, trepoce krídielkami a hľadá si miesto   na nehybne visiacom živom strapci svojich sestier.
+    </tei:p>
+    <tei:p>
+     V chumáči sa koná veľmi vážny akt. Včely, usadnuté v roji   pri­čleňujú sa do sväzku nového kmeňa. Inštalácia členov koná sa   pozna­menávaním každej včielky, somknutej v roji, vôňou matky. Keď   niektorá včielka, ktorá sa zúčastnila tohto vážneho obradu, prinútená   je z nejakých príčin vrátiť sa na svoje staré miesto, už ako cudzinka   musí sa vžobrávať do úľa, ktorý predtým nazývala svojím.
+    </tei:p>
+    <tei:p>
+     Jucka, ktorá sa ešte za letu stretla s Paľkom, zároveň s matkou   prisadla k Ele.
+    </tei:p>
+    <tei:p>
+     „Teta, vediem si Paľka,“ ukázala na neho a šelmovsky sa za­smiala.   „Bude nám s ním veselšie,“ doložila a čakala, čo na to povie   teta.
+    </tei:p>
+    <tei:p>
+     „Nám, možno, bude veselšie, ale ako sa u nás bude cítiť Paľko, to   neviem. My máme teraz len žobrácku palicu, nebudeme môcť vyho­vieť   jeho vyberavým chúťkam,“ odpovedala Ela.
+    </tei:p>
+    <tei:p>
+     „Nemajte o mňa strach, teta,“ uspokojoval Paľko seba aj tetu. „Už   sa len nejako uživím. U vás je ešte mnoho takých, čo majú pre­bytky   mliečka a za istý čas nebudú vedieť, čo s ním robiť. Tak sa ob­živím   niekoľko dní a potom ako taký tulák vyhľadám si nové, vyhovu­júce   miesto.“
+    </tei:p>
+    <tei:p>
+     „A prečo si odišiel z domu?“ pýta sa ho Jucka.
+    </tei:p>
+    <tei:p>
+     „Lebo doma sa nás už nabažily. Odkedy majú mladú matku, nechcú o   nás ani počuť. Moria nás hladom a preto sme sa rozpŕchli po   svete.“
+    </tei:p>
+    <tei:p>
+     „Nezúfaj, Paľko,“ potešuje ho teta. „Nejako to len bude. Ale,   deti, teraz už musím odísť na poradu. Máme sa dohodnúť, kam odtiaľto   poletíme.“ Ela zakývala tykadlami na rozlúčku a pustila sa hustým   zástupom včiel na shromaždenie starších.
+    </tei:p>
+    <tei:p>
+     Jucka a Paľko pozerali na človeka, ktorý ešte stále behal pod ich   stromom. Teraz však zanechal nemelodické koncertovanie a aj vodou   striekať prestal, ale zato ťahal za sebou dlhý rebrík.
+    </tei:p>
+    <tei:p>
+     „Istotne si nás chce sobrať,“ prerušila Jucka krátke ticho.
+    </tei:p>
+    <tei:p>
+     „Zdá sa, že sa mu to nepodarí. Vyhnal nás vysoko a ako som počul,   je už vyhľadaný nový domov a preto nebudeme tuná dlho sedieť,“   povedal Paľko, ktorý už bol v takýchto veciach skúsený.
+    </tei:p>
+    <tei:p>
+     Ela sa ťážko predierala cez husto na seba zavesené včielky a preto   jej trvalo dosť dlho, kým sa dostala k porade svojich družiek. Sotva   sa ukázala známym sestrám, oslovila ju najstaršia, zaiste predsedkyňa   porady.
+    </tei:p>
+    <tei:p>
+     „Čakáme ťa už netrpezlivo, Ela, dobre že ideš. Musíme sa   poponáhľať, aby sme zmarily úmysle človeka, ktorý nám len vtedy   preuka­zuje svoju pozornosť, keď máme sklady riadne naplnené medom.   Aby sme daromne netratily čas, povedz nám, sestra, čo si na svojich   výzved­ných cestách zistila,“
+    </tei:p>
+    <tei:p>
+     Ela sklonila svoje tykadlá až k pätám nožičiek, vyjadrujúc takto   svoju úctu poradnému sboru a začala svoju zprávu:
+    </tei:p>
+    <tei:p>
+     „Našla som v blízkom lese, asi na štvrť hodiny cesty od nás strom,   v ktorom je dostatočne veľká dutina, aby sme sa v nej mohly utiahnuť.   Vchod do dutiny vydlabal pravdepodobne ďateľ, lebo je pekne do   okrúhla vysekaný. Strom je zdnuky spráchnivelý a preto budeme si môcť   v prípade potreby naše bývanie zväčšiť.“
+    </tei:p>
+    <tei:p>
+     Elu prerušila v reči jedna so sboru starších:
+    </tei:p>
+    <tei:p>
+     „Hovoríš, sestra, že na štvrť hodiny letu, teda podľa rýchlosti   nášich krídiel stojí ten strom na necelých šesť kilometrov od nás.   Nie je to ďaleko. A pozrela si tiež, či v blízkosti našej budúcej   domoviny je mnoho kvetov, ktorým budeme konať služby?“
+    </tei:p>
+    <tei:p>
+     „Lietavala som už dávno do tých krajov a vždy ma vábily   najutešenejšie krásky kraja. Videla som, ako vädnú túžbou po nás a   ako vysychajú ich bohato prikryté stoly. Umienila som si vtedy, že im   po­môžem a teraz mám k tomu príležitosť. Som presvedčená, sestry, že   môj návrh prijmete, lebo lepšie miesto nenájdeme nikde.“ Ela   dokon­čila svoju zprávu a čakala na rozhodnutie poradného sboru.
+    </tei:p>
+    <tei:p>
+     Predsedkyňa videla, že zprávu Ely vypočuly prítomné s plným   súhlasom, poďakovala Ele za jej dobré služby, ktoré vykonala pre svoj   rod a požiadala ju, aby členky poradného sboru odviedla na dodatočný   výskum.
+    </tei:p>
+    <tei:p>
+     Sotva stačila predsedkyňa ukončiť svoju reč, už začal celý sbor   krúžiť popri roji a s Elou v čele vybral sa na prehliadku nového   domova.
+    </tei:p>
+    <tei:p>
+     Kým výzvedný sbor bol na ceste k novej vlasti, bleskurýchle sa   rozniesol chýr o rozhodnutí rady starších medzi vysťahovalkyňami.   Netr­pezlive čakaly na výsledok obhliadky.
+    </tei:p>
+    <tei:p>
+     Po necelej pol hodine priniesla výzvedná čata veľmi uspokojivé   zprávy. Po jej rozšírení, doteraz nehybne visiaci chumáč začal sa   mrviť. Včielky z jeho stredu vyskakovaly a pobehávaly po hlavičkách   ostatných, ešte v chumáči prilepených sestier.
+    </tei:p>
+    <tei:p>
+     Ela bežala za matkou, aby ju pojala so sebou. Teraz sa už   nespierala. Vystrela svoje veľké krídla a pustila sa za Elou. Ony dve   viedly celý veľký zástup. Vôňa matky rozširovala sa ďaleko po ceste   roja a ako maják ukazovala cestu do raja šťastia, spokojnosti a   blahobytu.
+    </tei:p>
+    <tei:p>
+     Pod stromom ostal stáť len človek, utierajúci si pot s tvári.   Teraz už nemá príčinu si ju zahaľovať. Pozerá za rojom, ktorý ako na   pohádkovom koberci sa vznáša istým smerom k lesu, za neďaleký kopec.   Zbytočné by mu už bolo teraz za ním bežať. Roj má bystrejšie krídla,   ako on nohy.
+    </tei:p>
+    <tei:p>
+     Neusiloval sa nikdy poznať ušľachtilé zvyky a prísne zákony   sta­točných robotníčiek rodných nív. Urážal preto vždy ich   najsvätejšie city, keď neumelou rukou siahol do svätyne ich šťastného   blaha.
+    </tei:p>
+    <tei:p>
+     Ostal preto sám, s rebríkom opretým o strom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     U bohatých dedičiek
+    </tei:head>
+    <tei:p>
+     Dobre sa gazduje, keď sú plné sklady najjemnejších druhov jar­ného   medu, najvyberanejších múčok chlebovín a keď je stavba dedin­ky   statočných detí slnka ukončená.
+    </tei:p>
+    <tei:p>
+     Všetko toto bohatstvo zostalo včielkam materskej rodiny ako veno   od starších sestier, ktoré sa z vlastného domova odsťahovaly niekam   do neznámeho kraja, nesúc so sebou len pevnú vieru vo víťazstvo   vlastnej usilovnosti.
+    </tei:p>
+    <tei:p>
+     Asi na polovicu zmenšený počet robotníc v materskom úle je teraz   už úplne zamestnaný. Sedem až osemtisíc hladných hrdiel čaká v   šesťhranných kolískach na časté dávky jedla. Ďalších nie celkom   päť­tisíc chystá sa vykľuvať z bielej blanky vajíčka a dať sa   obsluhovať krmičkami a asi osemnásťtisíc prekonáva prekuklovanie v   zasklepených komôrkach.
+    </tei:p>
+    <tei:p>
+     Tridsaťtisícová armáda robotníčiek čaká na čas vzkriesenia vo   voskových úkrytoch, aby doplnila rady sestier, padlých v borbe o kus   chleba a za udržanie rodu.
+    </tei:p>
+    <tei:p>
+     Lolka je zamestnaná na okraji plásta. Vo veľkých, trúdových   bunkách opatruje plod ťarbavých mládencov, trúdov. Pri nich sú   vysta­vané aj majestátne zámky mladých matiek. Ich stavba je odlišná   od buniek včiel alebo trúdov. Voskové púzdra kolísok mladých matiek   nie sú šesťhranné, ale oblé. Podobajú sa žaluďom, prilepeným hrubším   kon­com na kraji plásta. Vnútro matečníka je hladké. Jeho vonkajšia   strana je pobrázdená nepatrnými výčnelkami nepravidelných   šesťuholníkov, kto­rých obrysy sa tratia ku koncu matečníka.
+    </tei:p>
+    <tei:p>
+     Okolo plodu trúdov, najmä však okolo matečníkov je obzvlášť čulý   život. Tu sa odohrávajú najvážnejšie momenty života včiel. Tu, v   matečníkoch je ukrytá všetka nádej na život rodiny.
+    </tei:p>
+    <tei:p>
+     K Lolke pristupuje práve robotníčka od stráže zámkov matiek a   vychvaľuje sa so svojím zamestnaním:
+    </tei:p>
+    <tei:p>
+     Zastávam veľmi zodpovedné miesto pri ošetrovaní jednej z našich   budúcich matiek. Starám sa, aby mladá princezná mala stále 34—35   stupňov tepla, preto jej kolíska musí byť neprestajne obsadená a   zohrievaná sestrami. Doteraz sa nám práca dobre darí a dúfam, že ani   v budúc­nosti nebudeme mať príčiny ponosovať sa. Po troch dňoch blanka   vajíč­ka matky pukla a vyšla z neho drobulinká larvička. Povolaly sme   k nej najlepšie kuchárky úľa, ktoré sa svedomite starajú, aby ich   chovanica dostávala najvýživnejšie jedlá a ešte aj teraz jej dávajú   také veľké dávky, že až v nich pláva. Dnes, po piatich dňoch,   vypovedala už službu ku­chárkam; nechce jesť. Zasklepily sme jej   zámok, aby za ďalších osem dní prekonávala svoj prerod z húsenice na   kuklu a potom na matku.“
+    </tei:p>
+    <tei:p>
+     Lolku zaujímajú sebavedomé slová priateľky, lebo o vývoji matky   ešte doteraz nebola poučená. Teší sa, že patrí do spoločnosti, ktorej   kaž­dý člen pracuje v záujme dobra všetkých a bola pyšná, že pojem   sebec­kosti je v jej rode neznámy. Aby zdôraznila veľký význam práce   robot­níčky zalichotí jej:
+    </tei:p>
+    <tei:p>
+     „Od vašej práce závisí budúcnosť rodu. Keby ste urobily chybu vo   výchove matiek, odniesly by sme následky vašej chyby my všetky i jej   pokolenie. Preto je veľmi správne, že chovu matiek venujete takú   úzkostlivú starostlivosť.“
+    </tei:p>
+    <tei:p>
+     „Ani vaša robota nie je menej cenná,“ usiluje sa skromná   ro­botníčka Lolke odporovať. „Staráte sa, aby ste dochovaly zdatných   trú­dov, ktorí sú jednako potrební na zabezpečenie rodu. Nebyť ich,   nebolo by nás!“ dokončuje svoje slová robotníčka.
+    </tei:p>
+    <tei:p>
+     „To máš pravdu, milá sestra,“ poznamenáva Lolka. „Konáme však tiež   len svoju povinnosť A môžem ti prezradiť, že pri chove trúdov   zanechávame našu príslovečnú šporivosť, ba stávame sa priamo   hýriacimi márnotratnicami.“
+    </tei:p>
+    <tei:p>
+     „Nečuduj sa, Lolka, veď i my sme živé tvory a máme tiež právo na   lásku. A keď sa ona prejavuje len čisto citove, je tým pevnejšia a   vyžaduje od nás väčšie hmotné obete.“
+    </tei:p>
+    <tei:p>
+     „Máš pravdu, sestra. Tí naši junáci nás mnoho stoja. Ich vajíč­ka   musíme zohrievať ako ktorékoľvek iné vajíčko, ale ich larve sme už   prinútené dávať štyrikrát tak výživnú potravu, akú dávame zárodkom   robotníc. Larve matky stačí päť dní, nám päť aj pol až šesť dní, ale   pá­ni dajú sa obsluhovať dokonca šesť aj pol, ba až sedem dní,   vysvetľuje robotníčka.
+    </tei:p>
+    <tei:p>
+     „Aj preporod z larvy na dospelého trvá dlhšie u trúda ako u   os­tatných. Matka potrebuje najviac 9 dní, robotnica 13 a on potrebuje   až 15 dní, aby dostal svoju opravdivú podobu po opätovnom zakuklení,“   doplňuje Lolka priateľkino vysvetlenie.
+    </tei:p>
+    <tei:p>
+     „Len čo je pravda, ťažkopádni sú tí naši mládenci aj vo vývoji k   dospelosti. Potrebujú nielen najdlhší čas na vývoj — až 25 dní — ale   len dva týždne po vyliahnutí stávajú sa vyspelými mužmi a potom, po   ďalších štyroch týždňoch stávajú sa nepotrebnými starcami,“ pokra­čuje   robotníčka v zisťovaní veľkých výdavkov, ktoré má ich rod s   vydr­žiavaním lenivých trúdov.
+    </tei:p>
+    <tei:p>
+     „Prečo, sestra, chováte až pätnásť matiek, keď len jedna je   po­trebná?“ opytuje sa Lolka.
+    </tei:p>
+    <tei:p>
+     „Tak isto sa môžem spýtať ja teba, prečo chováte tisíce trúdov,   keď len jeden je potrebný, aby bol ženíchom mladej matky?“
+    </tei:p>
+    <tei:p>
+     „Pre istotu,“ odpovedá Lolka, „aby matka pri svadobnom výlete sa s   niektorým stretla a aby si mohla vybrať z nich najzdatnejšieho   ju­náka.“
+    </tei:p>
+    <tei:p>
+     „My zase preto chováme viac matiek, aby v prípade, že by nie­ktorá   pre hocakú telesnú chybu nezodpovedá, bola nahradená zdravou matkou a   tiež preto, ak by sa chcel náš rod rojiť, aby sme ich niekoľ­ko roju   prepustily.“
+    </tei:p>
+    <tei:p>
+     „Videla som dve mištičky matečníkov s vajíčkami, o ktoré sa nikto   nestará, nezohrievajú ich. Prečo sú také opustené?“ pýta sa   Lolka.
+    </tei:p>
+    <tei:p>
+     „Predvídavosť nám káže, aby sme sa zaistily aj pre tie najhoriše   prípady,“ odpovedá robotníčka a pokračuje: „Môže sa stať, že mladú   matku postihne na svadobnom výlete katastrofa. Povedzme, že padne za   obeť nejakému pažravcovi a keďže pred svadobným výletom povraždí   všetky dospelé matky a zničí i tie, ktoré sa nachodia v   zaviečkovaných matečníkoch, ostal by rod bez matky, keby sme nemaly   zárodky matiek v otvorených matečníkoch, ktoré necháva na   pokoji.“
+    </tei:p>
+    <tei:p>
+     „Už chápem múdru predvídavosť pestúniek mladých matiek,“ hovorí   Lolka. „Aby sme maly v tom čase, keď matka vyletuje na snub­ný výlet,   v otvorených kolískach mladé matky, necháme niekoľko vají­čok bez   ohrievania, aby nezrely a nevykluvaly sa v primeranom čase — troch   dňov, — ale aby zostaly toľko dní vajíčkami, koľko my uzná­me za   dobré.“
+    </tei:p>
+    <tei:p>
+     „Tak je to, Lolka. Čím viac dní budú vajíčka utajené, tým   ne­skoršie sa z nich budú liahnuť larvy a teda aj matky.“
+    </tei:p>
+    <tei:p>
+     „Človek hovorí o nás, že sme len pudami otupené zvieratá,“   rozhorčuje sa Lolka. „Jeho namyslená povýšenosť mu nedovoľuje, aby   porozumel veľmi složitým prejavom nášho života. Či naša dobre   premysle­ná predvídavosť a dômyselná opatrnosť nedokazujú naše duševné   schopnosti?“
+    </tei:p>
+    <tei:p>
+     „Nechajme to, Lolka. On posudzuje nás a my zase jeho. Je snáď   dobre, že nevie ako my zvieratá pozeráme na človeka, zvaného rozum­ným   tvorom,“ poznamenáva robotníčka.
+    </tei:p>
+    <tei:p>
+     Vážne besedovanie dvoch robotných tvorov vyrušil veselý hlúčok   mládencov, vetroplachov, prichádzajúcich s veľkým krikom do svätyne   práce, v ktorej sa rodily najcennejšie členky včelieho rodu.
+    </tei:p>
+    <tei:p>
+     Pohoršlivé chovanie lenivých krikľúňov nevyrušilo od usilovnej   roboty pohrúžené robotníčky. Vyhýbajú sa im z cesty a keď sú o to   požiadané, preukazujú im aj služby hostiteliek. Aby vo vážnych   staros­tiach neboly vyrušované bezočivými darmožráčmi, sú povoľnejšie   a po­tom, vyžadujú toto chovanie od nich i rodové pomery, ktoré ich   nútia, aby zabezpečily liahnucim sa matkám dostatočný počet vhodných   ženíchov.
+    </tei:p>
+    <tei:p>
+     Lolka sa odvrátila od bezočivých nemotorov a neutajila ani   po­horšenie nad ich hlučným príchodom. „Odkiaľže privial k nám zlý   vietor týchto nevychovaných krikľúňov?“ hovorí robotníčke.
+    </tei:p>
+    <tei:p>
+     Staršia robotníčka ako skúsenejšia, bola iného názoru. Jej sa ľúbi   prá­ve bezočivosť a sebavedomé vystupovanie mládencov a preto ich   chráni.
+    </tei:p>
+    <tei:p>
+     „Sú to celkom švárni šuhaji, trochu zjašení síce, ale   dobrosrdeční. Prichádzajú k nám zo súsedného kmeňa.“
+    </tei:p>
+    <tei:p>
+     „Prečo nezostali doma, veď my máme dosť svojich,“ búri sa   Lolka.
+    </tei:p>
+    <tei:p>
+     „Lebo ich už nepotrebujú,“ odpovedá jej priateľka a dodáva: „Majú   mladú matku už po svadobnom výlete a preto ich vyhnaly. U nás im je   dobre, máme mnoho mladých včiel, ktoré si nevedia rady s mliečkom a k   tomu pri­budne poldruha tisíca včiel, ktoré sa denne liahnu a keďže   matku tiež nebu­deme mať skoro oplodnenú, budeme mať veľký prebytok   mliečka.“
+    </tei:p>
+    <tei:p>
+     Lolka videla, že je to vlastne východisko z núdze a povedala:   „Uznávam, že sú nám potrebné. Sú odberatelia mliečka a tým krotia   vášne krmičiek.“
+    </tei:p>
+    <tei:p>
+     „Áno. Všetko konáme pre úžitok celku,“ odpovedá robotníčka.
+    </tei:p>
+    <tei:p>
+     „Veľké bohatstvo, zanechané nám ulietnuvšími sestrami, nedáva nám   pokoja. Ono nás núti, aby sme sa ďalej drobily a zakladaly nové   kolónie po­chybnej budúcnosti.“ Takto dáva Lolka najavo svoje obavy   pred rojením.
+    </tei:p>
+    <tei:p>
+     „Tak je tomu, Lolka,“ prisviedča jej robotníčka. „Aj u nás sa už   osihotujú jednotlivé skupinky a medzi nimi je akási nevľúdnosť. Z   toho vidieť, že na náš rod čaká ďalšia skúška drobenia síl a   oslabovania rodu.“
+    </tei:p>
+    <tei:p>
+     Skutočne, celý beh života vyrojeného včelstva smeroval k tomu, aby   zakladal nové kmene na udržovanie a zošľachťovanie plodín matky   zeme.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Nový domov.
+    </tei:head>
+    <tei:p>
+     Orientačná schopnosť včiel je zázračná. Tisícový zástup roja,   ve­dený niekoľkými výzvednými včielkami spúšťa sa s veľkej výšky na   určitý priestor lesa, v ktorom starý strom čaká na nových   obyvateľov.
+    </tei:p>
+    <tei:p>
+     Tisíce očí žiari radosťou pri pohľade na čarokrásny kraj.
+    </tei:p>
+    <tei:p>
+     Utešená dolinka, vôkol obrúbená neveľkými kopcami, vyzerá ako   kotol, vymaľovaný najpestrejšími farbami divokej krásy. Tmavá farba   le­sov preplietaná je živými farbami rúbanísk, posiatych   najrozmanitejšími kráskami voľne žijúcich plodín čiernej lesnatej   pôdy, presiaknutej osvie­žujúcou vlhkosťou životodárnej vody.
+    </tei:p>
+    <tei:p>
+     Po úbočí soskakuje s kameňa na kameň potôčik, aby spolu so svojimi   druhmi naplnil koryto potoka, v ktorom bystré pstruhy odrážajú svojím   lesklým brnením lúče slnka a ktorý odnáša pozdravy krásnych nív do   ďalekých končín sveta.
+    </tei:p>
+    <tei:p>
+     Bohatstvo kraja privábilo a pripútalo k sebe miliardy drobných   okrídlených i neokrídlených tvorov. Príroda tu hýri nielen svojou   divo­kou krásou, ale i plným životom. Melodický spev vtákov vyrušuje   kvákavý krik vrany alebo škrekavý výskot sojky. Prekrásnym kvetom   naj­rôznejšieho druhu robia dekoratívu pestre zafarbené motýle,   ihrajúce sa v objatí teplých lúčov slnka.
+    </tei:p>
+    <tei:p>
+     Jucka a Paľko nevedia sa nabažiť krásy, ktorá sa im ukazuje vždy   jasnejšie, čím bližšie sa snášajú k požehnanej zemi.
+    </tei:p>
+    <tei:p>
+     „Už sme doma,“ hovorí Jucka.
+    </tei:p>
+    <tei:p>
+     „Veru, už. Rýchlosť letu sa spomaľuje, máme byť pri cieli,“   prisviedča jej Paľko.
+    </tei:p>
+    <tei:p>
+     „Poponáhľajme sa k tete, aby sme boli medzi prvými, čo ob­sadia   novú vlasť.“ Sotva toto dopovedala, už ako strela rútila sa vpred a   Paľko za ňou, ako by letel o preteky. Doletely k tete práve, keď   sa­dala spolu s matkou na starý dub v blízkosti diery, vydlabanej   zruč­ným ďatľom, cez ktorú sa teraz dívala v strome schovaná tma do   jas­ného dňa.
+    </tei:p>
+    <tei:p>
+     K malému hlúčku predného voja prisedáva celý roj na prah no­vej   vlasti. Včielka býva vždy opatrná. Ani teraz sa nerúti bezhlave na   skupinu práve usadnutých sestier, ale obletuje skupinku, hľadá   výhodné miesto v tábore, aby sa umiestila na tom, ktoré jej najlepšie   zodpovedá.
+    </tei:p>
+    <tei:p>
+     Tu, okolo oka tmy, vchodu to do pustého domova roja, usadzuje sa   zas hustý chumáč včiel do hroznovitej podoby. Teraz však už nevisí,   ako pred odletom zo starej vlasti, ale prilepuje sa k hnedej,   vráskovitej kôre starého stromu.
+    </tei:p>
+    <tei:p>
+     V pevne somknutom tábore vysťahovalkýň konajú sa zase vážne   porady. Pripravuje sa plán výstavby nového domova. Rozdeľujú sa   ro­botné sily špeciálnych robotníčiek.
+    </tei:p>
+    <tei:p>
+     Ako prvé tiahnu v nepretržitých radoch do nového bytu tesárky a   nosičky tmelu (propolis, vosk smiešaný so smolou, sbieraný z pupeňov   kvetov). Pološero dutiny stromu pozvoľna pohlcuje nekonečné rady   od­borných pracovničiek.
+    </tei:p>
+    <tei:p>
+     „Bohatý kraj privábil k sebe mnoho statočných a usilovných   ro­botníčok, aby zveľaďovaly jeho drahocenné plody, ale žiaľbohu   usadilo sa tu i mnoho darmožráčov a príživníkov,“ začína Ela   rozhovor.
+    </tei:p>
+    <tei:p>
+     Jucka pritom myslí na svoj rod, ktorý prináša len požehnanie pre   každého tvora zeme. Stará sa, aby rastlinstvo žilo, zveľaďovalo sa a   otužovalo. Ovocie i semená najrozmanitejších druhov sú výsledkom ich   práce a preto nemôže pochopiť, prečo práve ony sú tak nemilosrdne   prenasledované a ničené.
+    </tei:p>
+    <tei:p>
+     „Niet spravodlivosti na svete, teta! Za dobré sa odpláca zlým!“ —   vzdychá si Jucka. — „Človek nás okráda aj o posledné zbytky na­šej   krvopotnej práce. Šliape svojou ťarbavou nohou naše ustaté tielka,   keď si v jeho ceste oddychujeme. Vtáctvo nás požiera a chrobač   pre­padáva. Prečo sme tak krute prenasledované? Azda preto, že každému   z našich nepriateľov robíme len dobre a že verne slúžime matke   prírode?“
+    </tei:p>
+    <tei:p>
+     „Uspokoj sa, Jucka,“ potešuje ju Ela. „Náš rod trpí z mnohých   strán, ale trpí len pre hlúposť svojich záškodníkov, ktorí nechápu   naše dôležité poslanie v ríši rastlinstva. Tým, že ničia nás, ničia   vlastne seba.“
+    </tei:p>
+    <tei:p>
+     „Šťastie, že ani jeden člen nášho rodu nestane sa zradcom svoj­ho   rodu, ba naopak, zostáva vždy jeho verným ochráncom. I keď mimo   domova bývame prepadávané, doma pod ochranou našich statočných   bojovničiek sme v bezpečí.“ Jucke sa po týchto slovách uľavilo a   smieruje sa osudom. Pomyslela si na hrdinky, ktoré sa v smrteľných   mukách vracajú z boja bez zbrane. Vidí ich, ako sa trápia v smrteľnom   zápase, vlečúc za sebou roztrhané črevá, ktoré sa z nich vytrhly pri   strate obá­vanej zbrane.
+    </tei:p>
+    <tei:p>
+     Paľko pozorne počúva smutný rozhovor svojich spoločníc a ko­nečne   sa aj on ozýva: „Čo mám povedať ja, bezbranný úbožiak. Žijem len so   dňa na deň a preto sa usilujem využiť každú príležitosť, ktorá sa mi   vyskytne. Práve táto neistota robí z nás sebcov a márnotratníkov.   Pred vaším žihadlom majú sa na pozore mnohí nepriatelia, ale nás   po­hlcujú bez obáv.“
+    </tei:p>
+    <tei:p>
+     „Máš pravdu, Paľko,“ potvrdzuje jeho slová Ela, „voči našej zbra­ni   sú naši nepriatelia opatrnejší. Žlny, datle, ťuhíci, slávici a   lastovičky pasú najmä po vás, nás napádajú len z neopatrnosti, ale   včelojed so svo­jím zohnutým zobákom ničí nás práve tak ako vás. Je   taký prefíkaný, že prv vytrhne svojej obeti žihadlo a len potom ju   prehltne.“
+    </tei:p>
+    <tei:p>
+     „Žabám a rybám naše žihadlo neškodí a preto neberú naň žia­den   ohľad. U nich sme ako obete v rovnakom položení ako vy, Paľko,“   hovorí Jucka.
+    </tei:p>
+    <tei:p>
+     „Nechoďte k vode a zachránite si životy, ako to robíme my,“ radí   jej prostomyseľný Paíko.
+    </tei:p>
+    <tei:p>
+     „To by bolo najmúdrejšie. Čo by sme si však počaly bez vody, veď   my ju tiež, ako ostatné tvorstvo, potre­bujeme, najmä pri výrobe   kašičky pre naše najmladšie,“ vysvetľuje mu Jucka.
+    </tei:p>
+    <tei:p>
+     Kým priateľská trojica uvažuje o svojich starostiach, nekonečný   rad prvotriednych robotničiek, trepotajúc krídelkami, pozvoľna ťahá   sa do tmy nového domova.
+    </tei:p>
+    <tei:p>
+     Vnútri, v strome uvoľňuje sa stále väčší priestor pod ostrými   kúsadlami tesáriek, pre robotníčky, ktoré majú rozšíriť vnútro   dutiny, znečistené prachom a pavučinou, včielkam sa tak veľmi   protiviacou. Na povale, i po bokoch, visia ostré úlomky polozhnitého   dreva, zpomedzi ktorých sype sa prach zo spráchnivelého dreva na   robotníčky, pohrúžené do práce. Sú preto nútené, aby väčšiu čiastku   času venovaly čisteniu seba, ako úprave miesta, ktoré má slúžiť za   základ stavby plástov.
+    </tei:p>
+    <tei:p>
+     Na včielky, vychované v úli človekom zhotoveným, pripadá zvlášť   ťažká úloha pri úprave domova v dutine stromu. Ich vytrvalosť a   šikov­nosť prejavuje sa práve, keď prichádzajú do pomerov, ktoré sú   krajne nesnadné a na ktoré neboly navyknuté. No, včielky sa vedia   veľmi dobre prispôsobovať daným pomerom, čoho dôkazom je, že každý   ich výkon pri práci je istý a cieľuvedomý.
+    </tei:p>
+    <tei:p>
+     Pod pevnými dlátkami kúsadiel popredných robotničiek, padajú na   dno dutiny odpadky spráchnivelého dreva. Priestor nového domova sa   navidomoči rozširuje a jeho steny sa vyhladzujú. Keď povrch povaly je   vyrovnaný a odstránené sú všetky slabo držiace výčnelky dreva,   na­stupujú do roboty včielky—tmelárky. Zamazujú škáry, poťahujú   očistené miesto tenkým povlakom tmelu, aby znemožnily vnikanie   vlhkosti do vnútra hniezda.
+    </tei:p>
+    <tei:p>
+     Ela sa podívala na pochod krídelkami trepotajúcich robotníc,   tia­hnucich voľným tempom do dutiny stromu a zistila, že prevážna časť   pochodujúcich sú mladušky, dvanásť až osemnásť dní staré.
+    </tei:p>
+    <tei:p>
+     „Už nastupujú do roboty staviteľky,“ hovorí Ela. „Nemyslela som,   že naše sestry tak chytro prekonajú najťažšiu robotu a že tak skoro   sa môžeme pustiť do stavby hniezda.“
+    </tei:p>
+    <tei:p>
+     Jucka je zvedavá, v akej polohe budú postavené plásty. Zo sta­rej   vlasti mala zlé skúsenosti. Človek postavil im plásty hranami k   letáču a preto im studený vietor prefukoval uličkami hniezda. Bála   sa, že aj tu budú musieť tielkami zatarasovať letáč, aby dorast   chránily pred zimou.
+    </tei:p>
+    <tei:p>
+     „Obávam sa, teta, že naše staviteľky, naučené zo starého domova na   studenú stavbu, vystavia pláste hranami kolmo na letáč,“ hovorí   Jucka.
+    </tei:p>
+    <tei:p>
+     Paľko mal tiež svoje skúsenosti zo svojho prvého domova a preto sa   ozval: „Horšie by bolo, keby ich postavily plošnou stranou k letáču.   V lete, vo veľkých horúčavách, maly by ste doma hotové peklo. Pamä­tám   sa, koľko trampôt maly s vetraním robotníčky u nás. A málo im   pomáhalo aj vetranie, lebo pri letáči visiaci plást stál vzduchu v   ceste. Od veľkej horúčavy mäknul vosk a preto boly včely prinútené   vysedávať s medom pred letáčom, aby mäkký vosk sa nepotrhal a   nepochoval ich zaživa. Bolo to bedákania, až hej! Najviac ich mrzelo   to, keď bola naj­lepšia paša, musely vysedávať pred letáčom a robiť   medu živé súdky.“
+    </tei:p>
+    <tei:p>
+     „My si zariadime svoju domácnosť lak, ako nám to bude naj­lepšie   vyhovovať, lebo tu sa nám nebude do roboty miešať človek. Pláste   nášho hniezda nebudú obrátené k letáču ani hranami, ani plošnou   stra­nou, ale budú k nemu smerovať kosmo. Naša stavba preto nebude ani   teplá, ani studená,“ dokončila Ela rozhovor o zariadení nového   domova.
+    </tei:p>
+    <tei:p>
+     Zdá sa, že matku unavila dlhá cesta. Oddychuje si. Jej krídla nie   sú navyknuté na lietanie, lebo v svojom živote vyletela do voľného   priestranstva po tretíkrát. Prvýkrát konala orientačný let pred   snubným výletom a druhýkrát vydala sa na svadobnú cestu. To bolo hneď   po orien­tačnom lete. Odvtedy už dva roky žila nepretržite v pološere   úľa, zveľaďujúc svoj rod vo dne i v noci kladením vajíčok.
+    </tei:p>
+    <tei:p>
+     Ela vedela, že vo vnútri ich nového domova je už toľko uprave­ného   miesta, že sa tam môžu umiestiť, obrátila sa preto k matke a   po­žiadala ju, aby išla za ňou. Jucka a Paľko sa tiež pobrali za   nimi.
+    </tei:p>
+    <tei:p>
+     Keď včielky videly, že matka sa pohla do nového domova, ra­dosťou   rozrušené opúšťajú chumáč a v hustých radoch hrnú sa za ňou. Mierne   podvihnuté zadočky a trepot krídeliek prezrádza ich radosť a   spokojnosť. Len matka si kráča bez zvláštnych znakov vzrušenia v   stre­de svojho sprievodu. Ona si je vedomá svojej dôležitosti v rode a   preto sa nedá strhnúť deťmi, opojenými šťastím. Vie, že ona je   životom i smr­ťou statočných bohatierok roboty a sebazapierania, preto   si kráča spokojne do svojho nového kráľovstva, aby dala život novým   stotisícom dietok prírody.
+    </tei:p>
+    <tei:p>
+     Neveľký otvor vchodu do pološera stromu nestačí prepustiť naraz   pred ním shluknuté široké rady do vnútra sa poberajúcich včiel. Na   prahu vchodu nastáva tlačenica a mno­hé nedočkavé všetečnice prebehujú   dnu po chrbtoch svojich družiek.
+    </tei:p>
+    <tei:p>
+     Vnútri, v strome, sa rady zase rozširujú a včely pokračujú už   voľným krokom po stene už upravenej dutiny, na povalu, ktorá je už   celkom pripra­vená na zavesenie stavby plástov a na usadenie chumáča   včiel.
+    </tei:p>
+    <tei:p>
+     Prvá včielka zavesuje sa pevne prvým párom nožičiek do vytmeleného   hrbolka povaly a jej zadného páru nožičiek prichytáva sa druhá, tej   tretia a tak sa ďalej vešajú jedna na dru­hú, kým nevisí dlhá, živá   retiazka včeličiek až na dno dutiny stromu. Na inom mieste, v   blízkosti prvej, zakladá sa druhá, potom tretia a ďal­šie. Ku koncu   premieňajú sa včielky roja na husté rady medzi sebou pozaplietaných   retiazok, tvoriacich hustý chumáč.
+    </tei:p>
+    <tei:p>
+     Matka so sprievodom usadzuje sa na strapci pokojne visiaceho roja.   Jej prítomnosť pôsobí na všetky uspokojive a tvorovia, zakladajúci si   nový domov, majú istotu, že prekonajú všetky ťažkosti, vyplývajúce zo   složitosti práce. Včielka, keď cíti vo svojej blízkosti matku,   neklesá ni­kdy na mysli a nestráca nádeje ani v prípadoch   najkrajnejších ťažkostí. Jej prispôsobovacia vlastnosť v borbe o   život, ďaleko predstihuje človeka.
+    </tei:p>
+    <tei:p>
+     Včielky—staviteľky prevádzajú teraz najťažšie a najsložitejšie   úkony svojho staviteľského umenia. Nie je jednoduchá robota zavesiť   plásty, kto­ré majú udržať váhu niekoľkých kilogramov medu (5—10 kg),   na skoro hladkú povalu. Je tiež nutné, aby bunky o jednej výške a   základni boly svojimi dnami tak spojované, že odolajú i najväčšiemu   tlaku. Ďalej, mu­sí výška buniek zodpovedať výške včelých kuklí (10—12   mm) a aj trúdových (13—16 mm). Hrúbka plásta musí byť dostatočná   (24—25 mm). Tiež uličky musia byť také, aby dve včielky mohly popri   sebe prejsť. A pri tom všetkom musia ešte dbať, aby stavba plásta   bola uspôsobená k otvoru hniezda v takom smere, ktorý zabezpečuje   pravidelné vetranie a súčasne zabráni studeným vetrom prefukovať   uličkami hniezda.
+    </tei:p>
+    <tei:p>
+     Prevážna čiastka včiel zamestnáva sa riešením týchto otázok a len   zlomok včiel, zrejme starších, neberie účasť na tichom zunení   chumáča, produkujúceho teplotu (35 °C), potrebnú k poteniu vosku.
+    </tei:p>
+    <tei:p>
+     Táto čiastka včiel zamestnáva sa čistením stien, zatmeľovaním špár   a vynášaním smetí. Niet, vari, čistejšieho tvora od včely. Kým je   zdravá a má matku, nestrpí ani najmenšiu špinu v úli. I za počasia,   ktoré jej život ohrožuje, vyletuje z úľa vyprázdniť si bruško. Len   trúdy sú ľahostajné na poriadok a čistotu. Vyšpiňujú sa v úli a   včielky sú prinútené po nich upratovať.
+    </tei:p>
+    <tei:p>
+     Jucka s Elou pozerajú na svoje mladšie sestry, ako kladú zákla­dy   prvého plásta. Ela, navyknutá poúčať Jucku, i teraz ju upozorňuje na   robotu, ktorá je Jucke aj tak už známa.
+    </tei:p>
+    <tei:p>
+     „Vidíš, Jucka, ako naše najšikovnejšie staviteľky vyznačujú   drob­nými výčnelkami voskových hrudiek smer prvého plásta?“
+    </tei:p>
+    <tei:p>
+     „Vidím,“ odpovedá jej Jucka. „A teraz si už viem predstaviť, ako   budú stavané ďalšie, rovnobežné plásty. Jeden z týchto, bude hranou   tvoriť 45° uhol s letáčom a takto bude celé naše hniezdo v polohe,   kto­rá nám najlepšie zodpovie.“
+    </tei:p>
+    <tei:p>
+     „Áno,“ prisviedča Ela. „Tak staviame my, keď sa do našej ro­boty   nepletie človek. My pamätáme pri stavbe na zimu i na vetranie.“
+    </tei:p>
+    <tei:p>
+     Jucke, ktorá už prekonala staviteľské práce v starej vlasti,   nebolo nové, že základy buniek tvoria pravidelné šesťuholníky, ktoré   k stredu bunky, smerom k styčnému bodu hrán troch kosoštvorcov,   rozdeľujúcich šesťuholník na tri rovnaké čiastky sú trocha prehĺbené.   Nebolo jej no­vinkou ani to, že dno bunky jednej strany plásta tvorí   na protiľahlej strane čiastky základov troch buniek. Takto viazaná   stavba je nielen naj­lacnejšia, ale vzhľadom na stavebnú hmotu i   najpevnejšia a najodolnejšia.
+    </tei:p>
+    <tei:p>
+     Jucka zbadala, že matka je nedočka­vá pri stavbe plástov a preto   hovorí Ele: „Matička by už iste rada kládla vajíčka a nemá ešte   hotovú ani jednu bunku...“
+    </tei:p>
+    <tei:p>
+     Ela pozrela na matku a hovorí: „Dlho trvaly prípravné práce k   stavbe, oneskorily sme sa. Ale už skoro si bude môcť matič­ka uľahčiť   od vajíčok, ktoré sa jej tisnú, lebo teraz pôjde robota ako po masle.   Dú­fam, že za tento krátky čas ich mnoho nepotratí.“
+    </tei:p>
+    <tei:p>
+     Staviteľky, cítiac vážne položenie matky, zdvojnásobňujú   usilovnosť. Drobné platničky priezračných šupiniek vosku tisnú sa   zpomedzi dolných krajov krúžkov, dolnej čiastky bruška. Tá, ktorá ich   už má vypo­tených väčšie množstvo, prediera sa cez hustý zástup   družiek k miestu, na ktorom sa sta­vajú základy prvého plásta. Tam   ukladá platničku ku platničke, formuje ich kúsadlami v šesťhranné dná   a v tenké steny buniek.
+    </tei:p>
+    <tei:p>
+     Tú istú prácu na tom samom dne robí iná robotníčka na druhej   strane plásta. Šikovnosť a presnosť včiel pri tejto práci je   obdivuhodná, lebo dokážu stavať stenu presných rozmerov zároveň s   oboch strán. Ste­na táto ich súčasne oddeľuje, takže nemôžu si   navzájom porovnávať svoju prácu. Obdivuhodné je aj to, že pri stavbe   jednej bunky i pri čas­tých smenách robotníčiek nenájde sa nepresnosť,   alebo pokazená robota.
+    </tei:p>
+    <tei:p>
+     Keď jedna včielka spotrebovala všetky svoje zásoby voskových   šupiniek, prepúšťa miesto inej a tak pokračuje práca až do vystavania   celého hniezda. Na zhotovenie jednej včelej bunky upotrebia včely 13   mg vosku (50 kusov šupiniek), a na trúdovú 29 mg.
+    </tei:p>
+    <tei:p>
+     Po vystavaní stredného plásta do dĺžky 5—10 cm, zakladajú sa po   oboch jeho stranách dva a pri tých zase ďalšie po jednom z oboch   bokov a tak pokračuje práca, kým nie sú vystavané všetky plásty,   zod­povedajúce sile včelstva. Stavba prevádza sa súčasne do hĺbky i do   šírky, následkom čoho stredný plást ostáva najdlhší a dĺžka bočných   plástov sa ku kraju stavby postupne zmenšuje. Vystavané hniezdo   dostáva tým­to srdcovú podobu.
+    </tei:p>
+    <tei:p>
+     Cez noc pokročila stavba natoľko, že na druhý deň mohla matka   klásť vajíčka a včielky mohly vyletovať do kvetinového eldoráda   svojej novej vlasti.
+    </tei:p>
+    <tei:p>
+     Objavením sa vajíčok na dnách panensky bielych buniek v   no­vopostavených plástoch, je budúcnosť rodu zabezpečená. Včielky sa   teraz púšťajú ešte s väčšou chuťou do roboty. Každá, čo vyprázdnila   zásoby voskových žliaz, opúšťa skupinu staviteliek a po krátkom   orientačnom lete pred letáčom, púšťa sa do úslnia malebnej, kvetami   pestre zfarbenej kotliny.
+    </tei:p>
+    <tei:p>
+     Bohatstvo požehnaného kraja najlepšie sa odráža v zprávach   sberateliek, vracajúcich sa s veľkým nákladom pokladov. Jedna   ospevuje nevyčerpateľné zásoby nektáru purpurového kvetu vrbiny a   tancom vábi na ne sestry. Druhá chváli maliny, tretia jahody, štvrtá   ružovo zfarbenú tolitu, prekypujúcu medom, iné zase chvália černice,   agát a podobné zdroje bohatej paše.
+    </tei:p>
+    <tei:p>
+     Každá kvetinka privábi k sebe svojím spôsobom niekoľko návštevníc,   ktoré potom doma, medzi svojimi, organizujú čaty na roznášanie prášku   príslušnej kvetiny. Za tieto posluhy odmeňujú sa svojim dobrodejkám   najvzácnejším výtvorom svojho mladistvého tela. Pripravujú pre ne   posilujúci a liečivý nápoj, aký by človek ani najdômyselnejším   spô­sobom nemohol z nich dostať.
+    </tei:p>
+    <tei:p>
+     Ela už nie je súca na sbieranie pyľu, lebo chĺpky z tela jej už   povypadaly a na jej čiernom, hladkom tele sa preto nezachycujú zrnká   kvetového prášku. Venuje sa teraz už len snášaniu nektáru, ktorého je   tu mnoho.
+    </tei:p>
+    <tei:p>
+     Jucka pracuje ako upratovačka a pri tom vyletuje po vodu.
+    </tei:p>
+    <tei:p>
+     Paľko žije bezstarostne. Vychutnáva najjemnejšie druhy medu a cez   poludnie vyletuje na svoj pravidelný oblet. Ani Jucka, ani Ela nemajú   času s ním sa zapodievať. Uchyľuje sa preto k mladuškám, kde od   niektorej sa mu podarí dostať trochu mliečka, aby si udržal silu.   Cíti, že to s ním ide akosi s kopca. Čím viac plodu je v rodine, tým   ťažšie mu krmičky podávajú pokrm.
+    </tei:p>
+    <tei:p>
+     Stavba plástov pokračuje neuveriteľne rýchle. Len neprestajnou   robo­tou a vystupňovanou usilovnosťou vládzu staviteľky vystavať toľko   buniek, aby kryly potrebu nádob pre uskladnenie medu a potrebu   kolísok pre dorast.
+    </tei:p>
+    <tei:p>
+     Všetky nádeje usilovných vysťahovalkýň sa uskutočňujú. Zariadily   si útulný domov, ktorého bohatstvo každým dňom vzrastá. Môžu sa   preto, po prekonaní všetkých ťažkostí tvrdého boja o život, spokojne   dívať do budúcnosti.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Krvilačnivec.
+    </tei:head>
+    <tei:p>
+     Neďaleko tichej osady pilných vysťahovalkýň beží bystrý potôčik s   veselým žblnkotom dolu, do dolinky, aby tam pomáhal svojim druhom   poháňať koleso chatrného mlyna, kde sa zlaté zrno drobí na sneho­bielu   múčku.
+    </tei:p>
+    <tei:p>
+     Jeho kryštalovo-čistá vlaha dáva tisícom veľkým i malým domo­rodcom   občerstvenie. Aj Jucka prichádza k nemu denne stokrát načrieť svieži   nápoj pre najmladšie sestry, ktoré sa v kolískach pripravujú na   služby matke prírode.
+    </tei:p>
+    <tei:p>
+     Táto jednotvárna robota nezlostí Jucku. Je rada, že pološero úľa   môže zameniť jasom slnečného svetla a že sa môže kochať v utešenej   kráse prírody. Skoro ráno sbiera drobné diamanty rosy, ktoré sú   usadnuté na sviežich listoch bylín. Len keď lúče slnka olúpia lístky   o trblie­tavý lesk drobných kvapiek, zaletuje Jucka na potôčik, ktorý   v svojom dosahu rozsieva dary najúbohejším tvorom prírody —   rastlinkám pripú­taným k hrude zeme.
+    </tei:p>
+    <tei:p>
+     Večer, keď slnko sa uloží na odpočinok, Jucka s tetou v   spoloč­nosti mnohých robotníčiek, pracujúcich vonku, vysadnú si pred   letáč. Nie, azda, preto, aby počúvaly nočný koncert najrôznejších   árií žabieho národa, pretkávaného piskľavým a jednotvárnym tónom   opakujúceho sa spevu svrčka, alebo serenády príjemného hlasu slávika,   ale preto, aby obsadily vchod brány a zatarasily ho telami pred   labužníkom medu, odporným zlode­jom, smrtihlavom. Len malý otvor   nechávajú medzi svojimi tielkami, aby ska­zený vzduch, vyháňaný   vetrajúcimi včielkami mohol sa cezeň dostať von.
+    </tei:p>
+    <tei:p>
+     Sberateľky, soskupené vonku okolo letáča za teplej noci, uvoľňujú   si k odpočinku len svaly krídel, ináč, bdejúc čakajú na prvé zore   nového dňa, aby hneď zrána vyhľadaly krásky nív a robily im poslíkov   lásky, prenášaním ich prášku s jedného na druhý.
+    </tei:p>
+    <tei:p>
+     Tichý šumot reči živej brány letáča, prispôsobuje sa k tajuplnému   šepotu v noci oživeného ducha lesov. Pološeptom ozývajúce sa reči   zo­silnenej nočnej stráže letáča hovoria o smutných osudoch statočných   členov svojho rodu.
+    </tei:p>
+    <tei:p>
+     Jucka napína sluch, aby vypočula všetky reči starších sestier,   kto­ré sa rozhovorily o nebezpečných chvíľach svojho života.
+    </tei:p>
+    <tei:p>
+     „Jednako nás prepadávajú, či tu, alebo tam v rovine,“ hovorí jedna   z mnohých, ktorým sa podarilo uniknúť ohavnej smrti z pazúrov   pažravcov.
+    </tei:p>
+    <tei:p>
+     „Nie je to jedno,“ odpovedá jej druhá. „Tu sa stretávame s   nepriateľmi častejšie a sú nebezpečnejší, ako v sta­rej vlasti. Tu   čihá na naše životy nie­len viac operených vrahov, ale aj viac   lúpežníkov a zákerných vrahov z ríše chrobače.“
+    </tei:p>
+    <tei:p>
+     „Tak je,“ prisviedča jedna z uču­pených na boku chumáča. „Tu sliedi   na nás prefíkaný kvetoľúb na kvetoch, keď konáme svoju najsvätejšiu   povinnosť. Svojím žihadlom nás omámi, aby naše telo ostalo dlhší čas   bez rozkladu a jeho deti maly svieži pokrm. Dlhokrídle a tenké   sklenáre (vážky) chytajú nás za letu, ako lastovičky. O pavúkoch ani   nehovorím, veď tu na každom konáriku stromu a kríčka, všade, sú   vystreté ich siete, aby nás pochytaly. Zbabelci!“
+    </tei:p>
+    <tei:p>
+     „Sestry,“ prehovorí Ela, „nepozostáva nám nič iné, ako smieriť sa   s osudom a prispôsobiť sa k novým pomerom. Musíme sa stať takými, akí   sú naši nepriatelia, lebo len tak si zabezpečíme vážnosť. Len ako   nebezpečné a odhodlané bojovníčky sa proti kaž­dému nepriateľovi   ubránime.“
+    </tei:p>
+    <tei:p>
+     Jedna, ktorá mala zlé skúsenosti s larva­mi májky dúhovej, drobným   príživníkom včiel, sot­va 1,6 až 2 mm veľkým, zamiešala sa do   reči:
+    </tei:p>
+    <tei:p>
+     „Proti veľkým nepriateľom máme dobrú zbraň, ale voči drobným   vysavačom našej krvi sme bezmocné, na tých naše žihadlo neplatí.“
+    </tei:p>
+    <tei:p>
+     Jej susedka sa rozpamätala na krásny má­jový deň, keď videla ako   tú, čo sa ozvala, obalily drobné potvory a ona s veľkým nárekom   priletela domov.
+    </tei:p>
+    <tei:p>
+     „Myslíš sestra na drobných cudzopasní­kov, ktorí ťa raz napadli a   my sme ťa od nich čistily?“
+    </tei:p>
+    <tei:p>
+     „Áno,“ odpovedá jej a pokračuje: „Hrozné muky mi zapríčinily   ostrými pazúrami a kliešťovými kúsadlami, keď sa dostaly na tenkú a   veľmi citlivú blanku, spojujúcu tvrdé chitonové obrnenie tela. Tie   ste mi už nemohly ani vybrať, tak sa zaryly do tela. Pamätám sa, ako   by som dnes prežívala tie hrozné muky. Vyletela som pred úľ a tam som   skákala ako smyslov zbavená. A koľko bolo mne podobných nešťastníc!   Od veľkých bolestí behaly sme ako besné. Niekto by si mohol myslieť,   že zo zábavy robíme akrobatické skoky. Keby však pozrel na nás   lepšie, videl by do nášho tela zahryznuté potvory...“
+    </tei:p>
+    <tei:p>
+     Ela dobre poznala toho cudzopasníka a preto aj ona dokladá svo­ju   poznámku: „Tento netvor objavuje sa v mesiaci máji a najradšej sa   ukrýva v lupeňoch púpavy, z ktorej ich sestry prinášajú domov. Treba   ich zabíjať a nie živé hádzať na dno, ako to robíme, lebo medzi   smeťami dna zachránia si život a pri najbližšej príležitosti sa vrhnú   na inú našu sestru.“
+    </tei:p>
+    <tei:p>
+     Jucka počúva pozorne všetky reči o tomto záškodníkovi a je   zve­davá, ako sa dostane na telo včely a preto sa opytuje:
+    </tei:p>
+    <tei:p>
+     „Teta, kde žijú tie potvory a ako sa dostanú na naše telo?“
+    </tei:p>
+    <tei:p>
+     „Ich matka, celkom poriadny chrobák, je 10 až 15 krát taká veľká   ako jej deti. Do jamky, vyhrabanej v zemi, snesie až 10.000 vajíčok.   Keď sa po 4- až 6-ich týždňoch vyliahnu z vajíčok larvy, vydriapu sa   do kvetov rastlín, nachádzajúcich sa v blízkosti ich brlohu. Aby maly   nohy a kúsadlá voľné, prilepia sa zadočkom na lupeň kvetu a dobre sa   ukryjú. Keď niečo na kvete zašramotí vymrštia svoje telá, zachycujú   sa tela ná­vštevníka kvetu a dávajú sa ním odniesť do jeho domu.“
+    </tei:p>
+    <tei:p>
+     „Teta, nie je tá potvora niečo také, ako včelomorka bezoká?“
+    </tei:p>
+    <tei:p>
+     „Nie, dcéra moja,“ vysvetľuje jej Ela. „Včelomorka nezapríčiňuje   nám bolesť, lebo ona nesaje krv, ale živí sa len mliečkom, ktoré nám   kradne priamo z úst. Na matke sa im najlepšie darí, lebo ona je stále   prikrmovaná a preto ju najviac včelomorky obsadzujú. Keď je ich na   nej mnoho, olupujú ju o pokrm, následkom čoho slabne, až konečne   vysilením umiera.
+    </tei:p>
+    <tei:p>
+     „Aj ony sa liahnu v zemi?“ pýta sa Jucka ďalej.
+    </tei:p>
+    <tei:p>
+     „Nie. Ony sa liahnu z vajíčka sneseného ich matkou vo viečku,   alebo medzi viečkami padnutými na dne úľa.“
+    </tei:p>
+    <tei:p>
+     „A nevieme sa od nich oslobodiť?“
+    </tei:p>
+    <tei:p>
+     „Sú veľmi šikovné a k tomu veľmi malé. Vedia sa preto dobre   ukrývať medzi chĺpkami a v záhyboch nášho tela, takže sa ich nemôžeme   striasť. Keď však budeme držať svoj domov v čistote, nebudú sa   rozmno­žovať a tým aspoň čiastočne snížime ich počet. Okrem toho, máme   na ich hubenie dobrého pomocníka — štúra knihového. On je naším   naj­lepším priateľom a preto ho rady vidíme u nás.“
+    </tei:p>
+    <tei:p>
+     Mračná tmavých myšlienok podarí sa občas niektorej bodrej včielke   rozohnať rozprá­vaním veselých príhod z vlastného života i zo zážitkov   svojich družiek. Nálada, nočnou tmou zahalenej spoločnosti sa takto   často mení a čas nepozorovane uteká.
+    </tei:p>
+    <tei:p>
+     Prvé záblesky rannej zorničky nachádzajú už len smiech a veselú   myseľ tvorov, tešiacich sa na nový deň.
+    </tei:p>
+    <tei:p>
+     Keď sa vynorily zpoza kopca purpurové lúče prebúdzajúceho sa dňa,   začaly sa rozchádzať včielky, túžiace po spoločnosti svojich pestrých   sestier. Prvé odletujú tie, ktorým kvety v otvorených čašách podávajú   božský nápoj. Hodne neskôr za tými, letia za povinnosťou tie včielky,   čo poletujú po kvetoch, ktoré chránia pripravenú hostinu pestrým   rúchom pred lúčami slnka a proti vetrom U kvetov je po celý deň   prikrytý stôl a najviac dobrôt býva na ňom v čase, keď slniečko   prekračuje najvyšší bod oblúku svojej cesty nekonečným svetom.
+    </tei:p>
+    <tei:p>
+     Keď slniečko vykuklo zpoza kopcov, našlo už len Jucku poleto­vať po   sviežich listoch rastlín v blízkosti domu. Sbierala drobné kvapky   rosy pre svoje najmladšie sestry. Musela sa ponáhľať, aby nanosila   čím viac týchto perál domov svojim, kým ostré lúče slnka neprebudia   vetrík z jeho tvrdého spánku.
+    </tei:p>
+    <tei:p>
+     Spokojným spánkom odpočinutý vetrík začína hneď zrána svoje   šibalstvá, na nemalú zlosť šikovných tkáčov — pavúkov, ktorým   roztrháva starostlivo utkané siete. Pomstí sa aj slnečným lúčom za   to, že ho tak neskoro zobudily tým, že im posráža, všet­ky kryštálové   zrnká rosy, v ktorých sa ony tak rady kúpavajú. Jeho nezbednosť   prinútila i Juc­ku, aby letela po vodu na potôčik, ktorý svo­jím   veselým žblnkotom privoláva k sebe všet­kých smädných obyvateľov   kraja.
+    </tei:p>
+    <tei:p>
+     Okrem poctivých robotníkov shromaždujú sa tu aj tlupy zákerných   lúpežníkov a vrahov.
+    </tei:p>
+    <tei:p>
+     Najväčšmi je tu zastúpený na pohľad nevinný sklenár. Jeho štíhla   postava neprezrádza vražedné sklony svojho rodu. Vie sa neobyčajne   rýchle a obratne pohybovať na silných, ako by z jemného plechu   vytvorených, priezračných krídlach.
+    </tei:p>
+    <tei:p>
+     Jucka dobre vie, že sa z postriežky vrhá na letiacu korisť, že je   šikovný letec a preto sa pred ním má na pozore.
+    </tei:p>
+    <tei:p>
+     Obťažená primeraným množstvom vody, vylieta do výšky, aby priamym   smerom, teda najkratšou cestou dostala sa zpät domov. Neza­držala však   smer svojho letu, lebo na vrcholci jednej rákosiny zableskly sa oči   nehybne čakajúceho nepriateľa, pred ktorým zrazu zmenila smer.
+    </tei:p>
+    <tei:p>
+     Jucke, vďaka jej bystrým očiam, podarilo sa uniknúť z objatia   smrti. Na druhom konci kríčka čakala na ňu najnebezpečnejšia pasca.   Sotva sa totiž predrala krížom-krážom húštinou popreplietaných   konárov, narazila na jemne utkanú sieť pavúka.
+    </tei:p>
+    <tei:p>
+     Príliš dôverovala svojim ústrojom, kontrolujúcim tlak vzduchu.   Tieto ju, ani jej sestry, nikdy nesklamaly, vždy ju včas upozornily   na sklo, aby naň nenarazila. Ale teraz, keď vzduch voľne prúdi medzi   očkami siete, neuvedomily ju o prekážke. Ani jej päť očí ju   nevarovalo pred nebezpečím. Ona sa aj tak na svoje oči veľmi   nespoliehala a riadila sa viac veľkým počtom smyslových orgánov,   roz­ložených po celom tele.
+    </tei:p>
+    <tei:p>
+     Pred chvíľou prežitý strach a uniknutie istej smrti oslabily jej   opatrnosť a preto sa dostala do nešťastia.
+    </tei:p>
+    <tei:p>
+     Telom narazila na hebkú sieť. Jemné vlákna omotaly sa jej okolo   hlavy a spútaly jej nohy. V zúfalom položení objavovaly sa jej pred   slzami a krvou zaliatimi očami všetky útrapy a hrôzy nešťastníc, o   ktorých prá­ve minulej noci počula rozprávať.
+    </tei:p>
+    <tei:p>
+     Rozpamätala sa celkom jasne na slová jednej, ktorá hovorila o   osude včielky, lapenej do sieti krvilačného pavúka. Marným svíjaním   chytená obeť sa lepšie zamotá a vysilí. Keď pavúk vidí, že jeho obeť   je už celkom omotaná a umorená a že sa už nemôže brániť, opriada ju   ďalej. Nakoniec zahryzne ostrými kúsadlami do tela svojej obeti a do   rany pustí jedovaté sliny, aby nimi rozpustil vnútornosti a potom ich   vysal.
+    </tei:p>
+    <tei:p>
+     „Tento smutný a potupný koniec čaká aj na mňa,“ pomyslela si Jucka   a strácala nádej na vyslobodenie z pút ohavného nepriateľa. Po­myslela   si na malé sestričky, ktoré s hrdielkami, vysušenými smädom, čakajú   na jej návrat. Myslí na tetu EIu, ktorá už je istotne znepokojená pre   jej oneskorenie, myslí na svoju dobrú matičku, na Paľka, na Lolku a   na všetky svoje sestričky, ktoré boly vždy k nej také láskavé a   dobré. Ťažko jej padlo lúčiť sa s mladým životom, v ktorom ešte   nezažila ra­dosti sberateliek, neprenášala ešte odkazy lásky utešených   krásiek nív a nečerpala plným dúškom ich rozkošný nápoj....
+    </tei:p>
+    <tei:p>
+     „Nie, nedám sa, budem sa biť o svoj život!“ A začala vyťahovať   nôžky z pút pavučiny. Nemala však pevný podklad, na ktorom by sa   mohla zachytiť a tak vyviaznuť z nebezpečných osídiel, ba, zamotávala   sa čím ďalej, tým viac. Zdesená svojím beznádejným položením, cíti,   že už len zázrak by ju mohol zachrániť a pozerá, či sa neblíži nejaký   osloboditeľ, ktorý by sa nad ňou zmiloval.
+    </tei:p>
+    <tei:p>
+     Miesto anjela spásy, zazrela ošklivého diabla, skrytého v dvoch do   seba stočených lístkoch, ktorý vypúlenými očima ceril na ňu svoj   ošklivý pysk tak, až sa jeho vypasené, plešivé brucho natriasalo.
+    </tei:p>
+    <tei:p>
+     Jucka, pri pohľade na ukrutnú potvoru, stratila takmär smysly a   len z pudu po sebazáchove začala kričať: „Pomoc, pomoóóc...“
+    </tei:p>
+    <tei:p>
+     Odpoveďou na jej zúfalé volanie bol ošklivý smiech ohavy,   vyšklebujúcej sa z bezpečného úkrytu.
+    </tei:p>
+    <tei:p>
+     „Poď na čestný boj, ty biedny krvilačnivec a nečakaj, kým tvo­jou   zbabelosťou a lesťou stratím všetku silu!“
+    </tei:p>
+    <tei:p>
+     Zbojník, vo svojej povýšenosti nadtvora, odpovedá na Juckino   zúfalé volanie iba odporným rehotom.
+    </tei:p>
+    <tei:p>
+     Jucka videla, že od tohto netvora nemôže čakať nijaké zľutovanie a   že len kým bude pri sile, udrží ukrutného kata v úctyhodnej   vzdiale­nosti. Začala preto šetriť silami usudzujúc, že kým sa celkom   nezhrúti, môže byť nejakým zázrakom zachránená.
+    </tei:p>
+    <tei:p>
+     Na doteraz jasnej oblohe objavuje sa — ako by prísľub Juckinej   zá­chrany — tmavé mračno, vznášajúce sa na krídlach silného vetra   ponad jej hlavu. Oslňujúci blesk a za ním nasledujúci hrmot zahnal   zbabe­lého povýšenca hlbšie do jeho brloha. Láskavá matka príroda   zastala sa svojho miláčka. Ľadovými zrnkami svojich striel a pomocou   vetra roztrhala vlákna siete a tak umožnila Jucke, aby sa zachytila   lístka a na ňom, ako na pevnom podklade, oslobodila sa od pút.
+    </tei:p>
+    <tei:p>
+     Keď hnev prírody pominul a slniečko sa zase usmievalo nad   kra­jinou, mala Jucka omotané na chlpatých pazúrkovitých nožičkách už   len niekoľko malých vláken, ktoré jej však celkove neprekážaly v   pohybe.
+    </tei:p>
+    <tei:p>
+     Pokým sa úplne neočistila z vláken pavučiny, bola ukrytá pod   lístkom, ktorý ju súčasne chránil pred dáždom. Keď slniečko   zasvietilo, vydriapala sa na vrch lístočka a očistila so seba všetku   nečistotu. V tep­lom objatí slnečných lúčov celkom okriala a zase sa   začala dívať radost­ne na svet, naplnená vďakou za svoje oslobodenie   vôči matke prírode.
+    </tei:p>
+    <tei:p>
+     Chvíľočku trepoce krídelkami, aby si naplnila priedušnice čerst­vým   vzduchom, uľahčila si tak na váhe tela a odraziac sa, odlieta z   miesta svojich útrap domov.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     V starej vlasti.
+    </tei:head>
+    <tei:p>
+     Jucka, po zázračnom vyslobodení z pazúrov krvilačnej potvory,   vstupuje do skupiny včiel, ktoré sú služobníčkami rastlín. Ochotne a   s ra­dosťou vybavuje ich odkazy a vzdychy, posielané k nej teplým   vánkom v podobe jemnej vône.
+    </tei:p>
+    <tei:p>
+     Od svitu do súmraku poletuje po pestro sfarbených kvetoch a od­náša   si z nich sladký nektár a chutnú lahôdku — pyľový prášok.
+    </tei:p>
+    <tei:p>
+     Rastliny sú vďačné, odmeňujú sa za dobré dobrým. Dávajú tak   príklad aj korune tvorstva, človekovi.
+    </tei:p>
+    <tei:p>
+     Sberateľky vzácnych darov prírody po úmornej dennej robote, v   hlúčkoch soskupené, rušia bzučivým šelestom hrobové ticho tmavej   noci. Je to, vari, ich reč, ktorej tajné tóny nie je nám dovolené   porozumieť?
+    </tei:p>
+    <tei:p>
+     Odkedy sa Jucka stala vonkajšou robotníčkou, je stále v blízkosti   tety Ely. S ňou trávi v jednom hlúčku celé noci, ktoré v porovnaní s   krátkym životom včiel a spánkom, trvajúcim iba niekoľko minút, zdajú   sa byť nekonečnými.
+    </tei:p>
+    <tei:p>
+     Tieto chvíle čakania na vábivý hlas kvetov, dávajú im príležitosť,   aby si pohovorily o svojich radostiach i starostiach.
+    </tei:p>
+    <tei:p>
+     Jucka nezabúda na starý domov, ani na Lolku, ktorej dala sľub, že   ju navštívi. Zapriadla preto rozhovor o dávnych časoch svojej   mla­dosti, prežitej v spoločnom starom domove.
+    </tei:p>
+    <tei:p>
+     „Dnes je tomu práve osem dní, čo sme sa rozlúčily s našimi, v   bývalom našom domove.“
+    </tei:p>
+    <tei:p>
+     „Ani som si neuvedomila, že minul už taký dlhý čas od tých rušných   dní,“ hovorí Ela.
+    </tei:p>
+    <tei:p>
+     „My sme už všetko prekonaly, ale ony žijú odvtedy v stálom   vzrušení a napätí, ktoré dosahuje vrcholu práve dnes, keď sa liahnu   mladé matky... Zaletím k nim, veď i Lolka čaká na mňa.“ Jucka za reči   uprene pozerá na tetu, aby zistila, aký ohlas v nej vyvolá toto   rozhodnutie.
+    </tei:p>
+    <tei:p>
+     Ela vedela o Juckinom sľube a tiež o vzťahoch, ktoré ju pútaly k   mladej priateľke a preto sa ani nepokúša odhovoriť ju od tohto   nebezpečného kroku. Dobre poznala Jucku a verila, že je dosť rozumná   a statočná, aby sa jej zámer vydaril.
+    </tei:p>
+    <tei:p>
+     „Sľub treba splniť,“ hovorí Ela po krátkom uvažovaní. Musím ťa   však upozorniť, že v tvojom rodisku ťa už nepoznajú a budú ťa   po­važovať za vyzvedačku alebo za zlodejku. Musíš byť preto veľmi   opatrná.“
+    </tei:p>
+    <tei:p>
+     „Pamätám sa ešte dobre na tvoje poučenie, teta, ako si mám   po­čínať, keď sa chcem dostať zpäť k našim. Budem sa riadiť podľa toho   a dúfam, že v skúške šťastlive obstojím,“ — sebavedome uisťuje   Jucka.
+    </tei:p>
+    <tei:p>
+     Za brieždenia ranných zôr sa hlúčky potných robotníčiek rozletujú   a keď slnko svojimi lúčami ohrieva vzduch, sú už ďaleko od domova a   prenášajú prášok rastlín s kveta na kvet.
+    </tei:p>
+    <tei:p>
+     Paľko a jeho pohodlní druhovia, utiahnutí do najteplejšieho kúta   úľa čakajú, kým im krmičky prinesú chutné mliečko, bez ktorého tratia   silu i bujnosť. Dnes sa však rozliezajú bez toho, žeby si ich   niektorá z inokedy ochotných posluhovačiek povšimla. Sú preto mrzutí   a krotkí. Aj Paľko chodí s ovisnutou hlavou a je na nepoznanie   premenený. V ta­kejto zlej nálade stretáva sa s Juckou, ktorá sa už   niekoľkokrát vracia s poľa obložená ťažkými bremenami výživnej múčky   a s plným hrvolčekom nektáru.
+    </tei:p>
+    <tei:p>
+     „Čo je s tebou Paíko? Si chorý, alebo ťa niečo trápi, že sa s   ovisnutou hlavou vlečieš ako úbožiak?“ opytuje sa ho Jucka.
+    </tei:p>
+    <tei:p>
+     Namrzený Paíko nemá vôľu púšťať sa do dlhých rečí a nakrátko   odsekuje: „Som lačný!“
+    </tei:p>
+    <tei:p>
+     „Prečo si nepochutnáš na mede voňavej lipy a nezakúsneš   zlatožltého chleba lieskovej múčky? Veď sklady sú plné,“ uspokojuje   ho Jucka.
+    </tei:p>
+    <tei:p>
+     „To sama dobre vieš, že med nám nedáva silu a prášok kvetov, ktorý   vám i nám dáva životnú silu nenaučili sme sa tráviť a preto sme   odkázaní na vás, aby ste nám ho pripravily a dávaly v podobe mliečka.   Zrazu ste však všetky lakomé a neuznanlivé. Nestaráte sa o nás, hoci   by sme aj pomreli hladom,“ vytýka Paľko ľahostajnosť, ktorú voči nemu   a jeho druhom prejavujú krmičky.
+    </tei:p>
+    <tei:p>
+     „Každej pesničke býva raz koniec,“ — smeje sa Jucka a potom vážne   pokračuje: „Doteraz sme maly mnoho mliečka a preto sa vám ušlo, ale   teraz ho musíme dávať dorastu. Vidíš Paľko, akí ste vy nevďačníci,   kým sme vás poriadne kŕmily, chovali ste sa drzo. Mysleli ste, že   ho­dy budú trvať naveky a my sme len nato stvorené, aby sme na vás   otročily.“
+    </tei:p>
+    <tei:p>
+     Paľko uznal, že neposlúžil rodu ničím ani on, ani kamaráti. Žili   si bezstarostným a veselým životom na účet pracujúcej spoločnosti.   Preto nemá práva robiť výčitky a skúša si vynútiť mliečko   vydieraním.
+    </tei:p>
+    <tei:p>
+     „Nemám tu čo hľadať, nechám ťa tu Jucka a vrátim sa zpäť do starej   vlasti. Tam si ma budú vedieť viac vážiť. Nemajú tam teraz plodu a   preto tam budem mať zlaté časy.“
+    </tei:p>
+    <tei:p>
+     Jucka vedela, že sa Paľko nestratí, lebo vie využiť každú   príle­žitosť, keď sa jedná o jeho záujem. Už ho i ľutovala, ale pomôcť   mu ne­mohla, lebo mliečka, o ktoré žobral, nemala. Aby ho aspoň   potešila, prezradila mu, že aj ona sa vráti zpäť.
+    </tei:p>
+    <tei:p>
+     „Ty si zlatá duša, Jucka!“ — lichotí jej Paľko natešený, že bude   mať spoločnicu.
+    </tei:p>
+    <tei:p>
+     „Zajtra, keď bude slniečko na najvyššom bode svojej cesty,   po­letíme domov“ — hovorí Jucka.
+    </tei:p>
+    <tei:p>
+     Paľko v nádeji, že bude sa mať zas dobre na cudzí účet, dostal zas   dobrú náladu a od radosti zmohol sa na jediné slovo: „Dobre!“
+    </tei:p>
+    <tei:p>
+     Na druhý deň v dohovorený čas, Jucka bola pripravená na cestu.   Medový hrvolček mala naplnený najjemnejším medom a košíčky holení   zadných nôh mala natlačené najvyberanejším práškom divokých krások   jej kraja. Paľko, nenavyknutý nosiť bremená, nebral so sebou nič a   preto bol pripravený hoci-kedy odletieť.
+    </tei:p>
+    <tei:p>
+     Jucka dala povel na odlet. Vyleteli hodne vysoko, aby sa dostali   nad obrubu kopcov a potom sa púšťajú priamym smerom k cieľu. Cesta im   netrvala dlho, lebo ich terajšia vlasť susedila s okruhom, ktorý   obletovaly včely ich rodiska.
+    </tei:p>
+    <tei:p>
+     Jucka nemala chuti zapodievať sa s prázdnymi rečami Paľkovými,   ktorý v nádeji na skorý blahobyt bol zase bodrej mysli. Uvažovala o   spô­soboch, ktoré by jej najlepšie zaistily bezpečný návrat domov.
+    </tei:p>
+    <tei:p>
+     Nad cieľom sa ich let spomaľuje a Jucka opatrne sadá na okraj   letáčovej dosky, priamo pred skúmavé oči strážkyň. Nestačila si ani   od­dýchnuť a už priskočia k nej prísne varovkyne hradnej brány.
+    </tei:p>
+    <tei:p>
+     „Vyzvedačka, zlodejka!“ doliehajú na ňu výkriky, vždy silnejšie sa   opakujúce a veštiace jej záhubu.
+    </tei:p>
+    <tei:p>
+     No, Jucka ani v tomto nebezpečnom položení nestráca   duchaprí­tomnosť a spokojným hlasom prihovára sa k zlovestnému   zástupu:
+    </tei:p>
+    <tei:p>
+     „Mýlite sa, drahé sestry. Nie som ani vyzvedačka, ani nepriateľka.   Som vaša sestra. Tu, v tomto hrade rozprestrela som po prvý raz svoje   krídla, aby som rozsievala plody prírody. Či nevidíte, že vám   pri­nášam pozdravy vašich sestier, ktoré si tu neďaleko založily nový   kmeň?“ Pritom ukazovala na svoje cenné bremená. Všetku pozornosť   strážkyň upútaly teraz dary, z ktorých každá usilovala sa vybrať si   svoju čiastku. Hrozivá nálada a bojový postoj stráže zmenil sa na   ohľaduplné priateľstvo. Cesta sa Jucke uvoľňuje a ona sa poberá za   Paľkom, ktorý sa hneď pri prílete hnal rovno do úľa. Vrazil   bezohľadne medzi stráž, niekoľko strážkyň povalil a po ich chrbtoch   ponáhľal sa ukojiť svoj hlad po mliečku.
+    </tei:p>
+    <tei:p>
+     Naňho, ako na privilegovaného člena rodu, neplatia žiadne   pred­pisy, má preto voľný prístup ku každej rodine, ktorá nevypovedala   boj jeho rodu.
+    </tei:p>
+    <tei:p>
+     Jucka bežala priamo k miestu matečníkov, odkiaľ k nej doliehaly   hrúzostrašné hlasy mladých matiek, odhodlaných bojovať na život a na   smrť. Zreteľne počula, že jedna kričí: „—tí..tí..tí...“ a ostatné,   kto­rých bolo viac, vykrikujú tupým, skoro dunivým hlasom: „Kua..   kua.. kua..“
+    </tei:p>
+    <tei:p>
+     Spev mladých matiek, myslí si a dumá. Smutný to spev. Je on skorej   poplachom predchádzajúcej srážky, alebo zúfalým výkrikom vola­júcim do   zbrane.
+    </tei:p>
+    <tei:p>
+     Sotva urobila niekoľko krokov, vpred, objavuje sa pred ňou statná   postava poľakanej matky. Je to matka, ktorá prvá opúšťa kolísku a po   malom občerstvení chutným medom je na výzvednej ceste za svojimi   so­kyňami. Práve zazrela pod pohybujúcim sa viečkom jedného matečníka   výbojné oči nepriateľky a preto sa učupila k plástu a tí.. tí..   hlasom svoláva k sebe svoje prívrženky.
+    </tei:p>
+    <tei:p>
+     Hned, ako sa ozvú bojové hlasy prvorodenej matky, hlásia sa i tie   ktoré sú doteraz utiahnuté v matečníkoch. Nevychádzajú z nich, lebo   ony ich chránia proti žihadlu vyliahnutej matky.
+    </tei:p>
+    <tei:p>
+     Ich hlas, tlmený viečkom matečníka znie ako kua.. kua.., a zdá sa,   ako by prichádzal z podsvetia.
+    </tei:p>
+    <tei:p>
+     Včelári tieto zvuky smrteľnej úzkosti mladých matiek nazývajú   spevom matiek. Ťažko nám uveriť, žeby pri takýchto dramatických   uda­lostiach mohlo sa hovoriť o nejakom speve.
+    </tei:p>
+    <tei:p>
+     Jucka po prvý raz prežíva tento smrteľný zápas úbohých matiek a   preto sa rozčuľuje aj ona, ako všetky ostatné, ktoré miesto roboty   pobehúvajú po plástoch.
+    </tei:p>
+    <tei:p>
+     Číročistou náhodou dostáva sa k Lolke a to so zástupom, ktorý ju   vzal so sebou na okraj jedného plásta, na ktorom stál skoro opustený   matečník.
+    </tei:p>
+    <tei:p>
+     Jeho obyvateľka práve začala ohryzovať viečko, aby uzrela svet, od   ktorého nemala čakať nič dobrého. Na tomto matečníku stála Lolka, ako   bohatier na slabo chránenej barikáde.
+    </tei:p>
+    <tei:p>
+     „Sestry, keď nevymrel z vás cit statočného rodu včiel, poďte sem   chrániť mladý život, ktorý sa práve ďube na svet!“ Na jej výkriky   húfom sa hrnuly k nej ochotné ochránkyne slabého tvora, medzi ktorými   do­stala sa k nej i Jucka.
+    </tei:p>
+    <tei:p>
+     „Statočná si Lolka, mám z teba radosť!“
+    </tei:p>
+    <tei:p>
+     „Konám len svoju povinnosť, ako by ju bola konala bársktorá z nás   na mojom mieste.“ Takto sa privítaly priateľky z detských čias.
+    </tei:p>
+    <tei:p>
+     „Ako vidíš, je to teraz u nás horšie, ako keď ste sa vy vyberaly   na cestu do neznáma. Hrozne počaroval nášmu rodu ten zázračný prá­šok.   Núti nás, aby sme sa delily ďalej a obohacovaly matku prírodu   opyľovateľkami rastlinstva,“ ponosuje sa Lolka.
+    </tei:p>
+    <tei:p>
+     „Zbadala som hneď podľa toho, že nedovoľujete prvorodenej matke   prístup k matečníkom, že máte v úmysle rojiť sa,“ hovorí Jucka.
+    </tei:p>
+    <tei:p>
+     Mladá matka medzitým behá ako smyslov zbavená, nielen po plástoch   a vnútorných stenách úľa, ale vychádza aj von z neho. Všade, kde sa   objaví, verbuje pre seba ochranu a pre roj zástup. Práca sa jej dobre   darí, lebo v úle niet už otvoreného plodu, ktorý by nadbytočnou   produkciou mliečka vyvolanú nespokojnosť krotil a trúdy sú voči   náporu nashromaždenej energie takmer bezmocné. A to tým menej vtedy,   keď príroda ostáva k svojim deťom i naďalej štedrá.
+    </tei:p>
+    <tei:p>
+     Na druhý deň, po Juckinom príchode do rodného hradu, padlo vážne   rozhodnutie. Včielky už od skorého rána čakajú s naplnenými   hrvolčekami — potravou to na tri dni — na matku, aby sa vydaly na   cestu za novým, neznámym domovom.
+    </tei:p>
+    <tei:p>
+     Keď matka videla, že jej ľud je pripravený na cestu, nečaká kým sa   slniečko vydriape vysoko na svojej ceste, ale vyletí prvá a za ňou sa   hrnie zástup. V úle nastáva zmätok, v ktorom strácajú hlavy aj   ostatné matky, utiahnuté doteraz v matečníkoch. V úplnej bezradnosti   opúšťajú svoje úkryty a letia za rojom.
+    </tei:p>
+    <tei:p>
+     Jucku a Lolku tiež zachycuje duch roja. Napochytre naplnia si   hrvolčeky a ponáhľajú sa za ostatnými.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Človek — priateľ.
+    </tei:head>
+    <tei:p>
+     Okolo úľa zas nastáva nevídaný ruch. Zástup statočných robotníc   starých i mladých vyberá sa na ďalekú cestu, do neznámeho kraja.
+    </tei:p>
+    <tei:p>
+     Tak, ako pred ôsmimi dňami boly zachvátené ich rodné sestry túžbou   dať život novej rodine, i ony vyberajú sa plniť tento zákon prí­rody.   Zas znejú fanfáry radostnej piesne roja, vyjadrujúce nezlomnú vôľu,   sebadôveru a nádej v lepšiu budúcnosť.
+    </tei:p>
+    <tei:p>
+     Nastáva lúčenie, ktoré je tiež také srdečné a dojímavé, aké bolo u   prvoroja. Asi tridsaťtisíc dobrovoľných vysťahovalkýň krúži nad   svojím domovom, ktorému dáva navždy s Bohom.
+    </tei:p>
+    <tei:p>
+     Po týchto dojímavých chvíľach citového prejavu soskupuje sa zá­stup   v husté mračno v blízkosti svojej vlasti. Mračno včiel púšťa sa raz   na jednu a raz na druhú stranu. Pôsobí dojmom, akoby váhalo, ktorým   smerom sa má pustiť na osudnú cestu.
+    </tei:p>
+    <tei:p>
+     Zmätok tento zapríčiňujú mladé matky, z ktorých raz jedna a raz   druhá získava si priazeň roja a podľa smeru letu víťaznej matky mení   sa i smer celého zástupu.
+    </tei:p>
+    <tei:p>
+     Počas váhavých pohybov v zmätku poletujúcich včiel, objavuje sa   pod rojom človek.
+    </tei:p>
+    <tei:p>
+     Jucka a Paľko nepoznávajú v ňom bývalého, handrami omotaného   strašiaka. Tento neruší súzvučné akordy piesne radosti klepaním kosy,   ani cengotom zvončeka. Z jeho pokojného chovania vidieť že srástol so   svojimi miláčkami. Je ich priateľom a dobrým pomocníkom. Nebojí sa   žihadiel, lebo pozná včielky a dobre vie, že v tejto sviatočnej   nálade sú veľmi dobromyseľné a krotké. Neberie preto na hlavu drôtené   obrnenie a ruky má tiež holé.
+    </tei:p>
+    <tei:p>
+     Lolka poznáva v ňom šetrného ochráncu rodu: „To je náš človek.   Chodieval v poslednom čase k nám, choval sa vždy slušne a šetril   najmä naše životy.“
+    </tei:p>
+    <tei:p>
+     Keď sa mladým matkám nepodarilo strhnúť za sebou zástup za letu,   skúšajú uplatniť svoje vábivé schopnosti tým, že sadajú na lístky   stromov a lákajú tábor k sebe prisadnúť. Ak sa niektorej podarí takto   získať väčšinu zástupu, opúšťajú svoje miesta i tie matky, ktorým sa   po­kusy o získanie priazne včiel nezdarily a preletujú i s malou   skupinou svojich verných k matke, ktorá je v roji najviac   obľúbená.
+    </tei:p>
+    <tei:p>
+     „Zástup už zasadá k porade, ponáhľajme sa,“ hovorí Paíko.
+    </tei:p>
+    <tei:p>
+     Jucka, ktorá už prežila riadne organizovanú púť prvoroja, zbadala,   že terajší odlet je bezhlavý a preto poznamenáva: „Obávam sa, že sa   ženieme do záhuby. Vyrútily sme sa hneď zrána za splašenou mladou   matkou a neuvažovaly sme ani, či budeme mať na dlhej ceste dobré   počasie. Zástup nemá vodkyne a preto sa motáme sem a tam.“
+    </tei:p>
+    <tei:p>
+     Lolka ju prerušuje: „Máme, a práve to je chyba, že ich máme mnoho   a všetky sú splašené!“
+    </tei:p>
+    <tei:p>
+     Jucka na ňu nedbá a pokračuje: „Mám zlé tušenie, že roj nemá ešte   ani vyhľadané miesto, kde sa usadí.“
+    </tei:p>
+    <tei:p>
+     Nemýlila sa, lebo keď prisadly k roju, zo všetkých strán ozývajú   sa otázky: „Kam poletí­me? Vyľadala už niektorá z vyzvedačiek miesto,   kde si založíme novú vlasť?“
+    </tei:p>
+    <tei:p>
+     Otázky odznely beztoho, žeby sa na ne dostalo odpovede.
+    </tei:p>
+    <tei:p>
+     Jucka a Lolka usadily sa uprostred roja. Na ne sadaly iné a preto   musely sa pevne zachytiť lístočka stromu a uvoľniť zadné nôžky, aby   sa za ne mohly zachy­tiť priletujúce družky. Takto tvorily sa   hustejšie rady a očividne rástol hustý chumáč včiel, podob­ný strapcu   hrozna, visiacemu na halúzke stromu.
+    </tei:p>
+    <tei:p>
+     Paľko, ako vždy, aj teraz sa vyzul z roboty. Sadol si na vrch   chumáča, aby mal pokoj a nemusel zo svojho chrbta robiť pešník pre   robotníčky.
+    </tei:p>
+    <tei:p>
+     Sotva sa však nič netušiace včielky usadily, už dostaly sprchu,   ktorá ochladila mysle všetkým, najmä mladým matkám, ktoré sa práve   pripravovaly na boj proti svojim sokyniam.
+    </tei:p>
+    <tei:p>
+     Tentoraz sa pohodlný Paíko zmýlil, lebo miesto očakávaného   po­hodlia dostal sa mu nepríjemný, studený kúpeľ.
+    </tei:p>
+    <tei:p>
+     Po prvej sprche prichádza druhá, tretia a ďalšie...
+    </tei:p>
+    <tei:p>
+     Človek, ktorý sa ešte pred chvíľou tváril nevinne, pripravil im   toto nepríjemné prekvapenie.
+    </tei:p>
+    <tei:p>
+     Jucke i Lolke, hoci boly uprostred klbka, dostalo sa tiež tro­cha   občerstvenia.
+    </tei:p>
+    <tei:p>
+     „Nášmu odletu už odzvonily“ hovorí Jucka.
+    </tei:p>
+    <tei:p>
+     „Dočkáme kým neuschneme, lebo s veľkou ťarchou a s mokrými   krídlami by sme sa ďaleko nedostaly,“ prisvedčuje Lolka.
+    </tei:p>
+    <tei:p>
+     Nemusely dlho čakať. Človek, ktorý ochladil mysle niektorých až   veľmi horkokrvných, vydriapal sa až k hroznu a ráznym myknutím ha­luze   striasol roj do truhličky, ktorú pod ním držal.
+    </tei:p>
+    <tei:p>
+     Mokré včielky sa ani nepokúšaly ujsť. Nevládaly. Okrem toho   za­páčila sa im i truhlička za ich nový domov tým skorej, keď   vyzvedačky sklamaly a v truhličke našly hotový plást a celý rad   voskových listov so základmi buniek, zarezaných do rámikov.
+    </tei:p>
+    <tei:p>
+     Tento náhly obrat v zmätenej situácii, bol príjemným prekvapením   nielen pre Jucku a Lolku, ale i pre všetky ostatné, ktoré tratily   nádej, že nájdu primerané miesto pre nový domov, „Maly sme starosti,   kde sa utiahneme a hľa, tvoj človek nám dáva príjemné prístre­šie,“   hovorí Jucka.
+    </tei:p>
+    <tei:p>
+     „Rozumie nám a preto vie s nami zaobchádzať. Pozná naše potreby.“   Lolka sa pritom sebavedome usmiala, ako by mala dôkaz, že pozná   svojho človeka. Ale stavi­teľky ostaly na chvíľočku zarazené, keď   zbadaly, že už majú základy buniek hotové. Krútily hlavičkami a   niektoré si aj zašomraly.
+    </tei:p>
+    <tei:p>
+     „Nepresná robota, plýtvanie materiá­lom... Čo to za kmeň zhotovil   takéto nedokonalé dielo?“
+    </tei:p>
+    <tei:p>
+     Pri všetkých výčitkách boly rady, že ušetria vlastný materiál a že   im robota pôj­de lepšie od ruky, keďže majú vyhotoviť len povrchovú   stavbu buniek.
+    </tei:p>
+    <tei:p>
+     Vždy pohotová prispôsobovacia vlastnosť včiel prejavuje sa   ob­zvlášť v spletitých prípadoch, s ktorými sa po prvý raz stretávajú   pri zariaďovaní svojho domova.
+    </tei:p>
+    <tei:p>
+     Tlsté obruby šesťhranných výčnelkov — základov to buniek —   stenčujú, a dvíhajú tým celý základ do výšky. Kde sa nedostáva   staviva na dostavanie bunky, dokladajú voskové platničky z vlastných   zásob.
+    </tei:p>
+    <tei:p>
+     Lolka pomáha staviteľkám. Jucka sa len kde-tu podíva na postup   práce a porovnáva počiatočné ťažkosti, zažité s prvorojom v dutine   stro­mu s terajšou ľahkou a príjemnou prácou, ktorú im človek   usnadnil.
+    </tei:p>
+    <tei:p>
+     Včielky sa s chuťou púšťajú do výstavby domoviny a mladé mat­ky sa   chystajú do krutého boja na život a na smrť.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Sestrovražedný boj.
+    </tei:head>
+    <tei:p>
+     „Vražda! Sestra sestru zabíja!“ vykrikuje Jucka a v zúfalej   ne­mohúcnosti behá po úle, aby hľadala pomoc k zabráneniu potupy,   ktorá nemilosrdne padá na rod. Jej rozčúlenie je opodstatnené, lebo   do­teraz poznala len jednu matku, ktorú zbožňovala a ktorá svojimi   ctnosťami upevnila v nej navždy ideál matky.
+    </tei:p>
+    <tei:p>
+     Zastaví sa pri robotníčkach, ktoré si nevšímajú hrozné udalosti a   pracujú, ako by neboly svedkami nijakých mimoriadnych udalostí. V   záchvate veľkej bolesti, že nenachádza pomoc na odvrátenie hanby a   potupy, vybuchuje jej precitlivelá duša vo výčitkách:
+    </tei:p>
+    <tei:p>
+     „Vy bezcitné! Nechávate si vraždiť matky, ktoré ste tak   starost­livo vychovaly a na ktoré ste obetovaly všetko, čo ste maly   najlepšie a najdrahšie! Počujte! Matky sú v nebezpečenstve! Rozumiete   ma: mat­ky!!!“ Tu jej zlyhal hlas a úbohá Jucka našla úľavu len v   usedavom plači.
+    </tei:p>
+    <tei:p>
+     Lolka veľmi ľutovala priatelku. Ide k nej a usiluje sa ju   uspokojiť.
+    </tei:p>
+    <tei:p>
+     „To nie je naša vec. Veď vidíš, že len matky bojujú a že včely sa   do ich boja vôbec nemiešajú.“
+    </tei:p>
+    <tei:p>
+     „Neospravedlňuj seba a nás všetky. Nazabrániť vražde je tiež   vraž­da. Vraždíme ich, keď aj nie žihadlom, tak iným, potupnejším   spôsobom.“
+    </tei:p>
+    <tei:p>
+     „To je pravda,“ potvrdzuje Lolka jej tvrdenie o žihadle. „My   ne­smieme za žiadnych okolností vytasiť žihadlá proti matke, či už je   mladá, alebo stará, či je naša, alebo cudzia. Toto právo má len   matka. Ale ona ho zase smie upotrebiť len proti matkám a nikdy proti   niekomu inému. Ona, jediná ktorá v sebe nosí budúcnosť rodu, môže byť   zodpovedná za život, ktorý v sebe ukrýva celé pokolenie.“
+    </tei:p>
+    <tei:p>
+     Aby presvedčila Jucku o pravdivosti svojich slov, pokračuje:
+    </tei:p>
+    <tei:p>
+     „To vieš, milá priateľka, že keď sa náhodou k nám dostane cu­dzia   matka, my ju len obkolesíme, aby našej matke neublížila. Tým brá­nime   len vlastnú matku. Keď sa votrelkyňa v našom zajatí zadusí, alebo po   dlhom zatvorení zomrie hladom, nie je to naša vina. My sme po­vinné   brániť svoju matku.“
+    </tei:p>
+    <tei:p>
+     „Darmo sa snažíš nás ospravedlniť“ odporuje jej Jucka. „Úmy­selne   sa vraždí aj v tomto prípade. A je to krutejší spôsob vraždy, ako   pichnutie žihadlom, lebo je zdĺhavý a tým aj bezohľadnejší.“
+    </tei:p>
+    <tei:p>
+     „Nesmieš to brať tak, ako by naším zákrokom zomieraly cudzie   matky. Tento krajne zriedkavý prípad nastáva len vtedy, keď naša   mat­ka nepreukazuje pohotovosť k boju. Keď je ochotná pustiť sa do   zápasu s cudzinkou, otvárame žalár a prepúšťame ju do otvoreného   boja. Znova ju však zatvárame vtedy, keď po dlhšom zápasení nepodarí   sa ani jed­nej vraziť svoje žihadlo súperke do tenkej blany, ktorá   spojuje krúžky bruška. Zápasiace matky vtedy zanechávajú marný boj a   odskočia od seba.“
+    </tei:p>
+    <tei:p>
+     „Neokrášľuj nás,“ hovorí Jucka. „Nie sme v tomto boji nestranné.   Svoju matku uzavierame síce tiež, ale to je objatie milujúcich   dietok. Môže voľne dýchať a dostáva posilujúci pokrm. Cudziu však   uzavierame tak, že stráca dych a nedostáva jesť. Obe vypúšťame len   vtedy, keď na­ša matka je pripravená k pokračovaniu v boji. V tomto   zápase je už po­tom domácej matke ľahko skoliť cudziu.“
+    </tei:p>
+    <tei:p>
+     Pri posledných slovách objavuje sa bezprostredne pred ňou prí­šerný   obraz boja dvoch mladých amazoniek. Obe sú obrnené pancierom   chitonovej kostry, proti ktorej je žihadlo neúčinná zbraň, nakoľko   ono je zhotovené z tej istej hmoty. Zraniteľné miesta nachádzajú sa   jedine medzi krúžkami obrnenia bruška. Nesmieriteľné bojovníčky   vrhajú sa prudko proti sebe a každá z nich usiluje sa zasadiť svoju   zbraň na kri­tické miesto svojej protivníčky. Keď poloha oboch   zápasiacich je taká, že obe môžu naraz zasadiť usmrťujúce pichnutie,   schovajú zbrane a od­skočia rýchle od seba. Čestný boj im káže, aby v   zápase len jedna zo­mrela. Po krátkej prestávke pokračuje sa v boji,   ktorý trvá, kým jedna z nich nepodľahne presile, alebo šikovnosti   druhej.
+    </tei:p>
+    <tei:p>
+     Na Jucku tak doľahly denné udalosti, že sa stáva zádumčivou a už   si len vzdychá.
+    </tei:p>
+    <tei:p>
+     „Prečo tá ukrutnosť?“ vydierajú sa z nej tiché slová zúfalstva.   Lolka po­čuje jej smutný vzdych a nemá iný prostriedok na utíšenie jej   rozbúreného ducha, ako vzbudiť v nej vedomie, že všetko to, čoho sú   svedkami, deje sa v záujme životaschopnosti rodu.“
+    </tei:p>
+    <tei:p>
+     „Matka príroda má prísne a kruté zákony na udržanie a   zdokonaľovanie svojho diela. Všetko, čo je neduživé a nedokonalé musí   zaniknúť a prepus­tiť svoje miesto dokonalejšiemu a   životaschopnejšiemu tvoru.“
+    </tei:p>
+    <tei:p>
+     „Tak je to,“ uznáva Jucka. „I my včielky podliehame tomuto zákonu   prírody. Aj naše rady podliehajú osudu slabších a preto nezostáva nám   iné, ako skloniť hlavu pred nezmeniteľným riadením nám vymeraného   osudu.“
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Svadobný výlet matky.
+    </tei:head>
+    <tei:p>
+     Tvorivá sila prírody vybrala si z desiatky mladých matiek jednu,   do ktorej sa jej podarilo vložiť najviac vyberaných vlastností.
+    </tei:p>
+    <tei:p>
+     Víťazná matka, prírodou bohato obdarená vynikajúcimi schopnos­ťami,   po ochladení vražednej zúrivosti v krvi vlastných sestier, stáva sa   pokojnou a prechádza sa spokojne po novostavbe svojej budúcej ríše,   ako by nič nemala na svedomí.
+    </tei:p>
+    <tei:p>
+     Včielky však ani po jej veľkom víťazstve nie sú jej priateľskejšie   naklonené. Chovajú sa k nej tak, ako k ostatným mladým robotníčkam.   Sebecká vypočítavosť včiel chce od nej viac, ako je víťazstvo nad   soky­ňami. Chce, aby dala život novej, státisícovej armáde   robotníčiek, pre ktoré chvatne stavajú kolísky a nádoby na   uskladnenie potravy. Starajú sa o ňu, aby čím skorej dospela a stala   sa súcou na vykonávanie svoj­ho povolania. Predbežne sa jej však   nedostáva tá úcta, ktorá prináleží matkám.
+    </tei:p>
+    <tei:p>
+     Jucka a Lolka pozorujú každú zmenu jej vývoja. Lolka je prvá,   ktorej sa podarí zistiť dospelosť ich budúcej matky.
+    </tei:p>
+    <tei:p>
+     „Podívaj sa, Jucka, už dozrieva. Ešte včera nosila bruško ohnuté   dohora a bolo prehnuté ako sedlo. Dnes už ho má oblé a vlečie ho po   plásti.“
+    </tei:p>
+    <tei:p>
+     „Skutočne, má sa k svetu,“ poznamenáva Jucka. „Sú tomu sotva dva   dni, čo sa vyliahla, hneď na to pobila svoje sokyne a už sa chystá   rozpaľovať mládencom srdcia ako mladucha.“
+    </tei:p>
+    <tei:p>
+     Keď prišla reč na mladuchu a mládencov, prichádza Lolke na um   Paľko. „Paľka by si mala vybrať za ženícha, veď ten, myslím, je už   tiež dospelý.“
+    </tei:p>
+    <tei:p>
+     Jucka, ktorá ho pozná od detstva, vysvetľuje: „Už je určite dva   týždne starý, teda podľa veku by bol dospelý. Ale náhle prekročí   šiesty týždeň svojho veku, nemá nádej na úspech, lebo pre ženbu bol   by už starý.“
+    </tei:p>
+    <tei:p>
+     „O kom sa rečie, ten sa vlečie!“ ozývajú sa obe naraz.
+    </tei:p>
+    <tei:p>
+     Paľko sa sebavedome usmial, lebo mu lichotilo, že sa o ňom   hovorí.
+    </tei:p>
+    <tei:p>
+     „Čože máte so mnou, azda vám nechýbam?“
+    </tei:p>
+    <tei:p>
+     „Nebuď domýšľavý, máme my iné starosti, ako s vami, darmožráčmi,   sa zaobreať,“ odsekuje Jucka, pričom sa však potmehúdsky usmieva.
+    </tei:p>
+    <tei:p>
+     „Nuž a keď sme takí neužitoční, prečože tak obskakujete okolo   nás?“ bráni sa Paľko.
+    </tei:p>
+    <tei:p>
+     „Ako všade, aj pri vašom panstve plníme len rozkazy prírody a nič   viac. Musíme sa starať, aby sme matke vychovaly zdatných žení­chov.   Toto je všetko, Paľko, aby si si nenamýšľal, že to robíme kvôli vašim   pekným očiam,“ naberá ho ďalej.
+    </tei:p>
+    <tei:p>
+     „Musíš sa oženiť, Paľko,“ podpichuje ho Lolka. „Pozri, aká je   krásna, tie jej veľké krídla tiahnu sa za jej majestátnou postavou,   ako nejakej princeznej dlhé vlečky. Musel by si byť z dreva, aby sa   ti nepáčila.“
+    </tei:p>
+    <tei:p>
+     „Z tej múky nebude koláč. Keď nás chce mať, nech nás obchá­dza. My   máme celkom iné záujmy, ako sú vznešené ideály o láske, z ktorej sa   nenajeme.“
+    </tei:p>
+    <tei:p>
+     „Či ste len protivní mládenci! Keď máte misu pred sebou, ne­zaujíma   vás nič na svete,“ vysmieva sa mu Lolka.
+    </tei:p>
+    <tei:p>
+     „Len ho nechaj,“ hovorí Jucka. „Zajtra, keď mladucha rozprestrie   svoje nádherné krídla a bude sa vznášať do výšin nebies, zabudnú ony   na všetko, len nie na ňu!“
+    </tei:p>
+    <tei:p>
+     „Tak ako matka príroda dokázala prinútiť rodné sestry vzájomne sa   zabíjať, bude aj vedieť prinútiť teraz ľahostajné trúdy, aby konaly   to, na čo ich určila.“
+    </tei:p>
+    <tei:p>
+     „Zvláštna a nevyspytateľná je príroda,“ hovorí Lolka. „Márnotrat­ná   je tam, kde jej ide o rozmnožovanie plodov, tam rozsieva svoje dary   plnou hrsťou. Ale tam, kde sa treba starať o záchranu ľahkomyseľne   stvo­reného života, tam je skúpa a necháva diela svojho tvorenia ťažko   boriť sa o život.“
+    </tei:p>
+    <tei:p>
+     „Pravdu máš, sestra,“ prisviedča jej Jucka. „Tisíce trúdov sa   na­rodí, hoci jedna matka po celý svoj život len raz vyberie si z nich   jed­ného a ostatné bez toho, žeby vykonaly svoju životnú povinnosť,   bez úžitku hynú. Nám, ktoré sa boríme so životom, pracujeme v   pološere úľa, vyhľadávame každodenný chlieb na veľkých   priestranstvách poľa, dala oči len s päť tisíc zorničkami, trúdom,   ako vyvolencom lásky do­priala ich o tri tisíc viac.“
+    </tei:p>
+    <tei:p>
+     „Podobné je to aj s tykadlami,“ hovorí Lolka. „Najpotrebnejší   ústroj nášho tela, na ktorom je umiestené najviac smyslových ústrojov   je u nás len dvanásťčlánkový. Trúdy aj tu majú výhodu, majú tykadlá o   jeden článok dlhšie. Keby sme boly my tie vyvolené a maly by sme také   dlhé tykadlá, ako majú trúdy, maly by sme okrem iného aj viac   čuchových orgánov, ktoré by nám veľmi poslúžily pri vyhľadávaní paše.   Nuž ale, čo robiť, my sme deti roboty a preto je k nám mat­ka príroda   skúpa.“
+    </tei:p>
+    <tei:p>
+     Po malej prestávke Juc­ka pokračuje v rozumkovaní: „Cítime sa   prírodou ukrátené, ale keď si lepšie všímame jej počiny, vidíme, že   keď je lás­ke prajná, dáva tým možnosť ďalšiemu behu života. Veď, ke­by   nebola dala kvetom nadby­tok pyľového prášku, nemohly by sme žiť a   keby nebola már­notratná pri rozmnožovaní se­mena a plodov, nemohol by   sa život udržať, keďže tento jestvuje len z nadbytkov jej darov.“
+    </tei:p>
+    <tei:p>
+     „No, nechajme to mudrovanie,“ pokračuje Lolka, „poďme radšej za   tým, k čomu nás príroda určila — za robotou. Rečami aj tak nič na   veci nezmeníme.“
+    </tei:p>
+    <tei:p>
+     Na druhý deň, kým sa ešte leskly diamantové očká rosy na svie­žich   lístkoch materinej dúšky a prvé lúče slnka pozrely do veľkých,   tma­vých očí matky, vyletela táto von, aby prekonala školu mladých —   orien­tačnú školu. Tento čas je najvýhodnejší pre odlet mladuchy, lebo   ju nevyrušujú trúdy a zároveň zistí, či bude mať priaznivé počasie k   vážnej udalosti svojho života.
+    </tei:p>
+    <tei:p>
+     Deň a čas svojej svadby určuje si sama.
+    </tei:p>
+    <tei:p>
+     Keď azúrový blankyt nebies nie je zastretý záclonou šedohnedej   farby a keď slniečko, ktoré si len kde-tu zastrie svoju tvár ľahkým   zá­vojom, je na vrcholnom bode svojej púti, vyberá sa mladucha na   ces­tu, na ktorej má zažiť svoje najkrajšie chvíle.
+    </tei:p>
+    <tei:p>
+     Po rannej vychádzke sa vracia, aby sa pripravila na cestu, ktorá   ju zavedie do raja nekonečného blaha, do pohádkových svetov radostí a   rozkoše. Netrpezlive čaká na toto vrcholné šťastie svojho života.   Nepo­kojne chodí medzi svojimi, z ktorých si ju ani teraz nikto   nevšíma. Ne­venujú jej pozornosť ani robotnice, zamestnané chvatným   stavaním kolísok pre plod, ktorý ona má do nich naklásť, a ani trúdy,   ktoré nemajú nič na práci. Teraz ešte netušia, že o krátky čas budú   sa boriť do neko­nečných výšin za tou, ktorú majú teraz na dosah.
+    </tei:p>
+    <tei:p>
+     Bezprostredne pred odletom na svadobnú cestu, berie na seba vá­bivé   rúcho mladúch, vône tureckej melisy a naplní si vzduchové vaky   štíhleho tela vzduchom, aby sa mohla vzniesť hodne vy­soko do výšin   nekonečnej samoty pod blankyt oblohy. Tieto prípravy ukončuje v čase,   keď mladušky začínajú orientačnú školu a trúdy poludňajší oblet.   Vtedy vybehne na letáčovú dosku, ľahkým skokom sa od nej od­razí a keď   urobí krátky okruhový let okolo letača, vznesie sa bystro do výšky,   vždy vyššie a vyššie. Na krídlach teplého vetríka rozvlňuje sa ďaleko   prenikavá vôňa jej svadobného závoja...
+    </tei:p>
+    <tei:p>
+     Paľko a všetci jeho druhovia, ktorí sa dostá­vajú do čarovného   okruhu vône, sľubujúcej blaho a šťas­tie, srážajú sa v šíky a uháňajú   za ňou.
+    </tei:p>
+    <tei:p>
+     Mrzáci a slaboši vypadávajú z boja o prvenstvo. Nakoniec zostáva   len malý hlúčok vytrvalých vyvolen­cov prírody, z ktorých jeden, ňou   najbohatšie požeh­naný silou a zdatnosťou, po prudkom skoku padá do   otvorenej náruče svojej snúbenky.
+    </tei:p>
+    <tei:p>
+     Vyvolencom šťastnej chvíle stal sa Paľko. Opojený čarovným ná­pojom   šťastia, zomiera v náručí bohyne lásky.
+    </tei:p>
+    <tei:p>
+     Dal prírode to, na čo ho ona ustanovila. Splnil svoje poslanie,   zaistil jestvovanie nového života a sám odchádza tam, odkiaľ niet   návratu.
+    </tei:p>
+    <tei:p>
+     Zvodná nevesta sa oslobodzuje z objatia mŕtveho ženícha a snášajúc   sa s výšin, zabúda na tragické zážitky, aby konala v kruhu svojho   rodu najvážnejšiu a najzodpovednejšiu robotu.
+    </tei:p>
+    <tei:p>
+     Zo svojho domova sa už nikdy nevyberie do voľného priestranstva,   zaliateho slnečnou žiarou, iba, ak ju prinúti rod, aby ho odviedla do   ne­známych končín založiť nový domov.
+    </tei:p>
+    <tei:p>
+     Doma, na letáči, čakajú na jej návrat jej najbližšie priateľky. A   keďže k nim prichádza so znamienkom oplodneného života, prijímajú ju   s veľkou radosťou. Ako oplodnená matka získava rýchle priazeň a lásku   všetkých robotníčiek. A keď asi po dvoch dňoch, po svojom návrate z   triumfálnej cesty, začína klásť vajíčka, stáva sa skutočnou matkou   rodinky, je zahrňovaná láskou všetkých a prítulnosťou vďačných   detí.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Palácová revolúcia.
+    </tei:head>
+    <tei:p>
+     Mladá matka sa len pozvoľna zapracováva do riadneho behu prá­ce. Je   neobratná, ako bývajú všetky mladé gazdinky — začiatočníčky. Netreba   sa preto čudovať, keď do jednej kolísky položí miesto jedného dve   deťúrence, alebo keď do dievčenskej postieľky uloží chlapčeka. Nad   výčinmi takej mladej nevesty treba niekedy oči zažmúriť.
+    </tei:p>
+    <tei:p>
+     Lolka však nie je náchylná tak urobiť. Má obavy, že si zle vybraly   a zdôveruje sa so svojimi obavami Jucke. Ona, ako skúsenejšia,   neberie Lolkine reči vážne a smeje sa im.
+    </tei:p>
+    <tei:p>
+     „Učený ešte nikto nespadol s neba. Nediv sa preto, že jej práca   nejde od ruky, veď je mladá a neskúsená. Až si zvykne, uvidíš, aký   po­riadok tu zavedie. Viem zo skúsenosti, že práve jej podobné sestry   sa veľmi dobre osvedčily.“
+    </tei:p>
+    <tei:p>
+     Lolka však zo svojho nepopúšťa. „Robí nám zbytočnú robotu. Do   malých buniek vkladá vajíčka trúdov, ktoré z nich vyrastajú a my sme   prinútené ich komôrky predlžovať. Taká robota potom vyzerá ako hroby   na cintoríne, taká hrbolatá.“ Bola by možno pokračovala v ohováraní   mladej matky, keby ju nebol sotil jeden vypasený trúd, ktorý sa   bezohľadne hnal k zásobám medu.
+    </tei:p>
+    <tei:p>
+     „Odporní sú títo naničsúci pôžitkári. Vovalia sa nám do   najlep­šieho medu, slopú ho, ako by potokmi tiekol a aby svoju   bezočivosť dovŕšily, hneď sa pri ňom aj vyšpinia. Hnusná háveď!“   rozhorčuje sa Lolka.
+    </tei:p>
+    <tei:p>
+     „Nechaj ich. Nebudú sa dlho rozťahovať. Ich dni sú spočítané,“   utišuje Jucka priateľku.
+    </tei:p>
+    <tei:p>
+     Skutočne začal sa ozývať veliteľský duch rodu, volajúci po   vyky­nožení vykorisťovacej tlupy záškodníkov, kaziacich dielo   usilovných robotníčiek prírody.
+    </tei:p>
+    <tei:p>
+     Otupený rozum trúdov nechápe však blížiace sa nebezpečenstvo a   vedie ich ďalej po cestách bezohľadného a sebeckého života.
+    </tei:p>
+    <tei:p>
+     Robia sa nepostrádateľnými, hoci niet z nich žiadneho úžitku. Po   krátkom poludňajšom oblete ženú sa o zlomkrk k zásobám. Cestou   vrážajú do stráže a do robotníčiek, vracajúcich sa z roboty s ťažkými   bre­menami. Keď sa nasýtia, uťahujú sa do pohodlia v najteplejšom kúte   úľa.
+    </tei:p>
+    <tei:p>
+     Namyslené a nafúkané chovanie týchto darebákov vyvoláva čím diaľ,   tým väčšie opovrženie u všetkých robotníčiek.
+    </tei:p>
+    <tei:p>
+     Medzi krmičkami nenájde sa už ani jedna, ktorá by podľahla   po­kryteckému hlasu trúda, žobrajúceho o mliečko. Nedostávajú ani   kvapky pokrmu, ktorý im dáva silu a životnú pružnosť. Klesajú na   sile. Zo se­bavedomých povýšencov stávajú sa úbohí pokorenci, slaboši   a zbabelci. Stačí vypraviť malú čatu trestajúcej spravodlivosti, aby   zahnala do kúta úľa bývalých vydieračov a pôžitkárov, držala ich tam   o hlade a smäde a potom ich odtiaľ po jednom, s polámanými údami a   potrhanými krí­dlami povyhadzovala.
+    </tei:p>
+    <tei:p>
+     Len niekoľkým, duševne nie celkom zakrpatelým jedincom sa po­darí   včas uniknúť zaslúženému trestu tým, že utečú ku kmeňu, ktorý má   neplodnú matku a je preto odkázaný na trúdov.
+    </tei:p>
+    <tei:p>
+     Jucka sa nezúčastnila na hromadnom vraždení. Jej jemné srdce   poznalo len lásku a nežnosť, preto nemohla chápať, že sa jej rod,   uzná­vaný za najstatočnejší, dopúšťa takýchto nízkych pokleskov. Jej   vzrušenie, zažité počas sestrovražedného boja mladých matiek sa   stupňuje a za­necháva v nej horký pocit vedomia, že aj ona patrí k   rodu, ktorý v se­beckej vypočítavosti neštíti sa vrhnúť na bezbranné   obete. V boji diev­čat, ozbrojených žihadlom, proti neozbrojeným   mužom, nevidí smelosť a rytierskosť, ale iba obyčajnú zbabelosť a   nízkosť.
+    </tei:p>
+    <tei:p>
+     Lolka pozoruje duševnú skleslosť svojej priateľky a preto usiluje   sa ju uspokojiť: „Nesužuj sa, Jucka. Blíži sa zima, nekonečne dlhá   noc, na ktorú sa musíme náležite pripraviť. Musíme sa náležite   prichystať tak, aby sme mohly čeliť všetkým nástrahám, ktoré cez dlhý   zimný čas na nás čakajú. Veliteľský duch rodu nám preto káže, aby sme   sa oslobodily od všetkého, čo nám je nepotrebné, alebo dokonca   škodlivé. A to, že trúdy sú nám nielen nepotrebné, ale boly by nám v   čase dlhého zim­ného odpočinku na škodu, vieš sama veľmi dobre.“
+    </tei:p>
+    <tei:p>
+     Po krátkom mlčaní ozýva sa Jucka: „Nemilosrdná je matka prí­roda a   má veľmi prísne a kruté zákony. Ľahkomyseľne tvorí životy a ešte   ľahkomyseľnejšie ich ničí. Koľko životov je utratených z jej   nevyspytateľných rozmarov?... Tam, v horách, práve keď som odlietala   sem, začal sa boj proti trúdom. Myslela som, že sa tejto samotupe   ro­du vyhnem a hľa, zmýlila som sa, lebo tu som zažila všetky potupné   neresti, ktorých sa môj rod dopúšťa.“
+    </tei:p>
+    <tei:p>
+     „Veliteľský duch rodu vykonáva teraz u všetkých kmeňov svoje   prísne rozkazy,“ prerušuje ju Lolka v reči. „Všetky rodiny, ktoré sú   zabezpečené na zimu plodnou matkou, nemilosrdne ničia trúdov. Len tie   rodiny si ich nechávajú, ktoré majú choré, veľmi staré, alebo   ne­plodné matky. Držia ich ale tiež len z čírej vypočítavosti, aby   maly do­statočný výber ženíchov, pre prípad, že dostanú mladú   matku.“
+    </tei:p>
+    <tei:p>
+     „Závidím ti, Lolka, že na všetko, čo sa robí v záujme všeobec­ného   dobra, pozeráš rozumove a nie citove,“ vzdychá Jucka.
+    </tei:p>
+    <tei:p>
+     „Myslím, že je to dobre tak. Sme prislabé na to, aby sme mohly   zmeniť zákony osudu a preto je lepšie pokloniť sa pred jeho   nezmeniteľnou vôľou.“ Tak zakľučuje Lolka rozhovor o temnej stránke   života včiel.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Príprava na zimný odpočinok.
+    </tei:head>
+    <tei:p>
+     Kým príroda hýrila tvorivou silou a jej životná energia prúdila v   krehkých steblách rastlín a v mohutných telách široko rozvetvených   stromov, žily včeličky radostným a bezstarostným životom.
+    </tei:p>
+    <tei:p>
+     Obdobie ich veselého života začalo hneď, ako pominul zimný chlad a   teplý vánok, spolu s prvými posolkyňami jari, priniesly k nim zprávy,   že matka Zem otvára svoje štedré ruky.
+    </tei:p>
+    <tei:p>
+     So štedrosťou zeme rástol aj blahobyt včiel. Zimou a chladom   včasnej jari zoslabené rodinky doplňovaly rýchle svoje pracovné sily   a ne­únavne snášaly dary požehnanej jari. Takto rástly veľmi rýchle na   sile i na bohatstve.
+    </tei:p>
+    <tei:p>
+     V dobe svojho najväčšieho rozkvetu, rojením rozsievajú svoje plemä   po všetkých kútoch zeme, aby zabezpečily zúrodňovanie plodov   prírody.
+    </tei:p>
+    <tei:p>
+     Po rojení nastáva čas pokojnej práce. S prírodou sa i včielky   pri­pravujú na zimný odpočinok. Slávnosti a radovánky bezstarostných   časov ukončujú vypovedaním vojny trúdom.
+    </tei:p>
+    <tei:p>
+     V Juckinej jemnej duši obnovujú sa všetky radosti a strasti   preži­tého života a úzkostlive pozerá do budúcnosti. Svoje obavy   netají pred Lolkou.
+    </tei:p>
+    <tei:p>
+     „Čo nám je platné, že pomocou tvojho človeka máme vystavaný domov,   keď zemi chýba vlaha a naše úbohé sestry smädom umorené klesajú k jej   popráskanej kôre. Niet nádeje, že si zaobstaráme potrebné zásoby na   zimu a zachránime si tak život.“
+    </tei:p>
+    <tei:p>
+     „Netreba zúfať. Ešte je dlhá doba do príchodu nekonečne dlhej a   studenej noci a dovtedy môže sa na nás usmiať šťastie, “uspokojuje ju   Lolka.
+    </tei:p>
+    <tei:p>
+     „Hovoríš: šťastie. Áno, len ono môže nám pomôcť,“ prízvukuje   Jucka. „Od prírody nemôžeme už nič očakávať. Dáva nám to cítiť denne   tvrdšie a dôraznejšie. Studené noci, ranné hmly a cez deň pálčivá   žiara slnka neveštia nič dobrého do budúcnosti. Nerozmyslene sme sa   daly uchvátiť poplašenými matkami a tie nás voviedly do záhuby.
+    </tei:p>
+    <tei:p>
+     „Včielka nesmie takto hovoriť,“ napomína ju Lolka. „Kto tratí   nádej, tratí všetko. Hynie vlastným pričinením!“
+    </tei:p>
+    <tei:p>
+     „Máš pravdu, Lolka. Tam, ďaleko v horách, boly sme v krajne   zúfalom položení a predsa sme prekonaly všetky ťažkosti. Azda   vyviazneme i z tohto ťažkého položenia.“ Jej myseľ zalieta do   utešenej krajinky za šťastnými sestrami a ako by zo sna hovorí: „Ony   sú dobre pripravené na zimu... Majú medu, že im vystačí do nového   vzkrie­senia a majú ho uložený tak, že bude ob­klopovať ich zimné   hniezdo a nebudú sa mu­sieť sťahovať za ním v najtuhšej zime...“
+    </tei:p>
+    <tei:p>
+     „Škoda, že sa my nemôžeme takto pochváliť,“ hovorí Lolka. „Nám k   tomu mno­ho chýba. Nemáme ani to najnutnejšie množ­stvo medu pre zimnú   dobu — jeden a pol kilogramu na každom rámiku, na ktorom budeme   sedieť. Keby sme si toto množstvo aj nejako zadovážily, čo si počneme   skoro na jar, než matka Zem precitne k životu? Aspoň dvanásť   kilogramov zásob by sme potrebovaly, aby nás od terajších starostí   oslobodily. Potom mohly by sme dúfať, že sa dožijeme novej jari.“
+    </tei:p>
+    <tei:p>
+     „Kde ich však vziať, keď príroda je pod slnečnou žiarou vyprahlá a   kvety smä­dom umierajú,“ vzdychá Jucka.
+    </tei:p>
+    <tei:p>
+     „Nepozostáva nám nič iného, ako zmocniť sa zásob slabého, pomaly   umierajúceho kmeňa, ktorý je bez matky, alebo má matku chorú a   nedožije mu do jari.“
+    </tei:p>
+    <tei:p>
+     „Si bezcitná, Lolka,“ vytýka jej Juc­ka. „Nestačia nám doterajšie   vraždy, máme ešte hlbšie padnúť a dať sa na lúpež a tým zničiť celú   rodinu? Nemyslela som, že my, statočné včielky boly by sme schopné   takej podlosti!“
+    </tei:p>
+    <tei:p>
+     „Zle ma chápeš, Jucka. Keď aj od­nesieme zásoby cudzej rodiny,   nedopustíme sa žiadnej nízkosti, ba práve naopak, zachránime životy   tých sestier, ktoré by zahynuly nie síce hladom, ale žiaľom a   nespokojným zimovaním. Keby sa i so zásobami presťahovaly k nám,   pomohlo by sa aj nám, aj im.“
+    </tei:p>
+    <tei:p>
+     Jucka sa týmto vysvetlením trochu uspokojuje, má však predsa len   obavy: „Čo si počneme, keď takýto kmeň nenájdeme?“
+    </tei:p>
+    <tei:p>
+     Lolka, vďaka svojej bystrej mysli neprichádza do rozpakov a má   od­poveď pripravenú: „Ten, kto nám dal prístrešie, postará sa tiež o   to, aby sme nezomrely hladom.“
+    </tei:p>
+    <tei:p>
+     Lolka sa naozaj nemýlila. Keď boly všetky bunky vyprázdnené do   poslednej kvapky, keď nemaly čím kŕmiť plod, prichádza k nim ich   dobrodinec.
+    </tei:p>
+    <tei:p>
+     Tíško otvára úľ a ako svoju návštivenku púšťa malý kotúčik dy­mu.   Nedôverivé včielky rozpŕchajú sa po plástoch, aby zachránily, čo sa   dá. Nebolo však čo chrániť, lebo všetky bunky boly prázdne.
+    </tei:p>
+    <tei:p>
+     Človek pozorne poprezeral všetky rámiky a odobral také, ktoré boly   celkom prázdne a neboly ani celkom vystavané.
+    </tei:p>
+    <tei:p>
+     Jucku a Lolku nemilo prekvapil tento nečakaný obrat. Ľúto im bolo   stavby, ktorú tak starostlivo vyhotovily.
+    </tei:p>
+    <tei:p>
+     Ich sklamanie sa premenilo v radosť, keď po malej chvíli vložil im   do úľa toľko rámikov, naplnených medom, koľko prázdnych plástov   vybral.
+    </tei:p>
+    <tei:p>
+     „Podeľuje nás,“ hovorí Lolka. „Berie prebytky tým, ktorým šťastie   prialo a dáva ich tým, ktoré sa bez vlastnej viny nachádzajú v biede.   Predsa len je dobrý a spravodlivý!“
+    </tei:p>
+    <tei:p>
+     Včielky chvatne sa púšťajú do darov, aby hladom umierajúcemu plodu   pripravily kašičku. Zbytok poprenášajú do buniek okolo hniezda.
+    </tei:p>
+    <tei:p>
+     Od toho dňa každý večer po západe slnka čakajú včielky pri   krmítku, do ktorého im vlieva ich človek cukor rozpustený vo vode.   Cez noc vyberajú sladkú vodu, prerábajú ju na potravu, vhodnú pre   uskladnenie a potom napĺňajú ňou bunky, pri ktorých si zariaďujú   zimo­visko. Cez deň, keď je priaznivé počasie vyletujú do poľa, aby si   nasbieraly na zimu trochu pyľového prášku.
+    </tei:p>
+    <tei:p>
+     V tejto jednotvárnej robote míňajú sa dni a blíži sa nekonečne   dlhá noc, plná útrap a neprestajných bojov o záchranu života detí   ro­boty, stmelených v jedno telo.
+    </tei:p>
+    <tei:p>
+     Keď slniečko opúšťajú ohnivé blesky jeho neskrotnej sily a vládu   nad zemou preberá chlad a pustota, prichádza človek k svojim   miláčkom. Utesní hniezdo, zúži ho a zabezpečí letáč proti nevítaným   votrelcom, aby tak zaistil spokojný odpočinok tým, ktoré prinášajú   ľudstvu nesmierne hodnoty.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Pod pokrývkou snehu.
+    </tei:head>
+    <tei:p>
+     Je zima. Kde len oko zahliadne, všetko je prikryté bielym snehom,   vytvoreným z nekonečného počtu lesknúcich sa hviezdičiek,   vyformo­vaných najzručnejším umelcom — mrazom.
+    </tei:p>
+    <tei:p>
+     Slniečko stratilo svoju moc. Jeho jasná tvár nemá už silu   roz­prúdiť kolobeh životných štiav rastlín.
+    </tei:p>
+    <tei:p>
+     Všetko, čomu jeho životadárne lúče dodávajú životnú silu, po­norilo   sa do nehybnej strnulosti. Drobné tvory blanokrídleho sveta utiahnuté   v skulinách starobou zošlých stromov, čakajú, pohrúžené do tuhého   spánku, na príchod nového života.
+    </tei:p>
+    <tei:p>
+     Včielky driemu tíško. Soskupené sú okolo svojej matičky a tvo­ria   hustý chumáč v uličkách plástov. Asi 20—30 tisíc krehkých tielok   tisne sa k sebe, aby sa vzájomne zohrievaly.
+    </tei:p>
+    <tei:p>
+     Kedysi tak živé okolie, kde sa stále ozýval veselý bzukot   usi­lovných tvorov, neúnavne poletujúcich za robotou, utíchlo. Len   mrazivý severák skučí a preháňa sa, ako by chcel všetkému tvorstvu   pripomenúť, že on je tu teraz pánom.
+    </tei:p>
+    <tei:p>
+     Z polootvorenej brány bývalého šťastného domova odtiahla stráž   doprostred hniezda, aby tam svojím dychom zohrievala matku. Cez úzky   otvor letáča vychádza teraz do umĺknutej prírody len tichý šelest,   kto­rý hlási, že v pustatine ničivej zimy je pod ochranou buniek   plástov ukrytý život, zahrievajúci sa oteplenými košieľkami   vyliahnutého plodu včeličiek.
+    </tei:p>
+    <tei:p>
+     Tam, kde sa naposledy liahol plod, utiahla sa matka a okolo nej   soskupily sa jej deti. Utesňujú svojimi tielkami nielen tú uličku, v   ktorej je chránená matka, ale i susedné, obklopujúce jej ochranný   sbor. Takto sa utvorila živá guľa, popretínaná tenkou stenou prázdnej   voštiny. V jej bunkách utiahnuté sú včielky. V bezprostrednej   blízkosti rodinky, utiahnutej na zimný odpočinok, sú zásoby. Včielky   si berú z nich iba toľko, aby vyhovely minimálnym podmienkam, ktoré   vyža­duje ich jestvovanie.
+    </tei:p>
+    <tei:p>
+     Hniezdo samotné, i keď je najpečlivejšie utesnené, neposkytuje   včelám také teplo, aké potrebujú. Prinútené sú preto vykúzliť z medu   všetku silu slnečných lúčov, ktoré sa cez horúce letné dni do neho   uschovaly. Teraz im je zdrojom tepla.
+    </tei:p>
+    <tei:p>
+     Med im dáva silu, udržuje všetky ich telesné ústroje v činnosti a   prácou týchto ústrojov vyvíja sa aj teplo. Okolo matky, uprostred   gule, je teplota najväčšia, udržuje sa vo výške plus 25° C. Čím ďalej   k povrchu chumáča, ubúda teploty až na plus 10° C. Keď včielky,   usa­dené na povrchu gule cítia, že pre život bezpodmienečne potrebný   stu­peň teploty sa snižuje, stiahnu sa ešte v hustejšie klbko a   naberajú kurivo (med). Naproti tomu, keď teplota chumáča dosahuje   väčšiu výšku, než aká má byť, klbko včiel sa uvoľňuje a prebytočné   teplo uniká na plásty, obklopujúce guľu včiel a na nich sráža vodné   pary vzduchu. Touto rosou hasia si zimujúce včielky smäd.
+    </tei:p>
+    <tei:p>
+     Tieto stále sa zamieňajúce pohyby celého hniezda sú pretkávané   mrvením sa jednotlivých včiel k okraju hniezda za potravou. Či už je   to zvláštna krmička, ktorá roznáša potravu, alebo včielka, starajúca   sa o seba zvlášť, vždy dochádza k samostatným pohybom včiel. Tieto   pohyby jednotlivých včeličiek, konajú sa v uličkách, ktoré dotyčné   včielky obsadily.
+    </tei:p>
+    <tei:p>
+     Do susedných uličiek prechádzajú iba vtedy, keď sa celá rodinka   posunuje na susedné rámiky za zásobami. Toto sťahovanie je len vtedy   možné, keď je teplota vonkajšieho vzduchu primeraná, (plus 9° C v   tôni).
+    </tei:p>
+    <tei:p>
+     Včielka, ktorá pri nízkej teplote opúšťa hniezdo a stráca tým styk   s chumáčom včiel, umiera. Jej krv ochladne a údy vypovedávajú   službu.
+    </tei:p>
+    <tei:p>
+     Množstvo spotreby zásob je odvislé od spôsobu zimovania. Zdravé,   silné a pokojne sediace včelstvo minie pomerne menej, ako včelstvo   slabé, choré, bezmatečné a znepokojované.
+    </tei:p>
+    <tei:p>
+     Za tuhej zimy spotrebuje sa viac potravy, ako za zimy miernej,   alebo ako u včiel zimujúcich v podzemných úkrytoch.
+    </tei:p>
+    <tei:p>
+     Včelstvo strednej sily spotrebuje do konca januára priemerne 3—4   kg medu. Počnúc februárom, stúpa spotreba každým dňom, hlavne v dobe,   keď matka začína klásť plod, teda asi do polovice toho mesiaca.   Mesačná spotreba medu zvyšuje sa od jedného do štyroch   kilogramov.
+    </tei:p>
+    <tei:p>
+     Spokojné zimovanie včeličiek v krutej zime zabezpečuje len   pod­zemný úkryt, upravený na zimovanie včiel. Nevyrušuje ich v ňom ani   tuhý mráz až 30 — 40 stupňov silný, ani prílišná teplota. Rovnomer­ná   temperatúra, obklopujúca hniezdo, — asi 4—6 stupňov nad nulou —   zabezpečuje im zdravie a silu. Včielky dožívajú sa vzkriesenia   prírody v plnej svojej sile a za poskytnutú pomoc odmeňujú sa bohato   svojmu ochrancovi, ako aj prírode, ktorá je včasné z jari veľmi   chudobná na drobných rozsievačov jej plodov.
+    </tei:p>
+    <tei:p>
+     Ťažký zápas o život, včeličiek zimujúcich vonku, zväčšuje ten   včelár, ktorý sa naučil brať a nič nedávať!
+    </tei:p>
+    <tei:p>
+     Niekedy i zima pohliadne milostivým okom na včielky, trasúce sa   chladom. Omotá ich bohato svojím bielym kožúškom snehu, aby za­medzila   k nim prístup mrazom a nedovolila teplu zbytočne rozťahovať chumáč,   ponorený do tichého bdenia.
+    </tei:p>
+    <tei:p>
+     Pod snehovou prikrývkou je včeličkám dobre, lebo sú chránené   nielen od tepelných rozmarov vzduchu, ale sú schované i pred divým   severákom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     DOSLOV
+    </tei:head>
+    <tei:p>
+     Vynájdením rozberného diela včiel a sostrojenim mikroskopu, razí   si vče­lárska veda rýchlym tempom cestu vpred. Ešte nie je tomu tak   veľmi dávno, (pred jeden a pol storočím) čo sa verilo, že matka je   jediným samčekom a veliteľom včelej rodinky, že trúdy snášajú   vajíčka, že z pylového prášku robia si včielky med a mnoho iných   bludných názorov o živote včiel bolo rozšírených aj medzi   pokro­čilejšími včelármi dávnejších dôb.
+    </tei:p>
+    <tei:p>
+     Vedecký pokrok prináša svoje ovocie i vo včelárskom obore. Včelár   sa obo­znamuje s povahou, so zvykami a so skutočným životom včiel.   Veda mu umožňuje stať sa pánom situácie. Slučuje nepriateľské čeľade,   zamieňa matky, prinucuje včely chovať matky na tom plode, ktorý im   sám určí, obmedzuje matku v nakla­daní plodu, alebo ju povzbudzuje k   väčšiemu výkonu, vymedzuje včelám miesto pre plod a osobitné miesto   pre uskladňovanie medu, určuje, koľko trúdov majú chovať, prinucuje   včely vyhľadávať tie kvety, ktoré im on vyznačí a v mnohých iných   prípadoch vedie včely svojím umom, v svoj prospech, bez toho, aby   včelám uškodil.
+    </tei:p>
+    <tei:p>
+     Každý, kto chce byť skutočným pánom svojich včiel, musí poznať   včelu, aká ona je v skutočnosti, lebo len keď sa úplne vžije do   složitého spôsobu včelieho života, bude vedieť so včelami   zaobchádzať.
+    </tei:p>
+    <tei:p>
+     Cieľom tejto knihy je, dať príležitosť nazrieť do tajností života   včiel a to nielen včelárom, ale i tým, ktorí sa radi zaujímajú o   život hmyzu.
+    </tei:p>
+    <tei:p>
+     Z tejto práce nenaučí sa nikto včeláriť, ale slúži k nadobudnutiu   vedomostí o najvážnejších momentoch života včiel, bez ktorých by   prospešné včelárenie bolo nemožné.
+    </tei:p>
+    <tei:p>
+     Zábavný spôsob podania volil som preto, aby som obišiel nudnú   náučnú formu a prispôsobil tým knihu í mládeži, o ktorú sa mi zvlášť   jedná. Chcem jej totiž venovať knihu, ktorá miesto strašidelných a   často nesmyselných rozprávok, dáva jej možnosť rozšíriť svoje   vedomosti, budiť v nej lásku k prírode a k včielke, ktorá koná   nesmierne veľkú úlohu pri zveľaďovaní poľnohospodárstva.
+    </tei:p>
+    <tei:p>
+     Do pojednania som vzal len tie výňatky zo života včiel, ktoré sú   toho času všeobecne uznávané a zodpovedajú skutočnému stavu.
+    </tei:p>
+    <tei:p>
+     Cítim, že primerane k svojim skromným vedomostiam, podujal som sa   ťaž­kej úlohy. Prosím preto, aby prípadné nedostatky v tejto práci   boly mi omlúvené tým, že usiloval som sa prispieť i ja malou hrivnou   v prospech všeobecného dobra.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

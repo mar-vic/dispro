@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Šukar čajori",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1972"
+    },
+    "firsted": {
+        "pub_date": "1945"
+    },
+    "authors": [
+        {
+            "first_name": "František",
+            "last_name": "Kuník",
+            "birth_date": "1911",
+            "death_date": "1974",
+            "ref": "viaf:8881083"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Márnosť všetkého",
+        "publisher": "Kníhtlačiarsky účastinársky spolok",
+        "pub_place": "Turčiansky Sv. Martin",
+        "pub_date": "1908"
+    },
+    "authors": [
+        {
+            "first_name": "Božena",
+            "last_name": "Slančíkova-Timrava",
+            "birth_date": "1867",
+            "death_date": "1951",
+            "ref": "viaf:14806974"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

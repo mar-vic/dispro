@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Danko a Janko",
+        "publisher": "Tlačou Neografie",
+        "pub_place": "Turčiansky Sv. Martin",
+        "pub_date": "1943"
+    },
+    "firsted": {
+        "pub_date": "1905"
+    },
+    "authors": [
+        {
+            "first_name": "Terézia",
+            "last_name": "Vansová",
+            "birth_date": "1857",
+            "death_date": "1942",
+            "ref": "viaf:15567322"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

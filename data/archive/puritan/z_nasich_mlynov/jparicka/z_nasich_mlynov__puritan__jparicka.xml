@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1915281" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Z našich mlynov : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:84107165">
+     , Puritán (1887 - )
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     20441
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      , Puritán
+     </tei:author>
+     <tei:title>
+      Z našich mlynov
+     </tei:title>
+     <tei:pubPlace>
+      Ružomberok
+     </tei:pubPlace>
+     <tei:publisher>
+      Ján Párička
+     </tei:publisher>
+     <tei:date>
+      1915
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-08">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Z našich mlynov.
+    </tei:head>
+    <tei:head>
+     Humoresky
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Predslov.
+    </tei:head>
+    <tei:p>
+     Prinášam na ukážku skromné prvotiny z ovzdušia u nás dosiaľ   zanedbávaného: z našich mlynov. V nich bolo a je i teraz skryté mnoho   poezie, romantiky, látky pre pero spisovateľovo, len načim to všetko   povynášať na svetlo a zvečniť tie rozmanité deje, príhody, menovite   ale — a čo je so stanoviska filologického (rečového) najvzácnejšie —   tie všelijaké názvy, výrazy, príslovia a oby­čaje mlynárske, ktorým   škoda by bolo zahynúť. Zachovať pôvodný ráz, ten pel, ktorý dodáva   toho milého pôvabu tomu rýdzemu, moderným vírom nepokalenému živôtu v   našich mlynoch slovenských, po väčšine vzdialených od hluku   svetského, od výdobytkov modernej kultúry v zátiší riek a hôrnych   potokov. Pomaly nám síce aj z nich ubýva, lebo ich v novšom čase   vytískajú tu valcové mlyny, tam zas iné továrne, ktoré potrebujú   vodnú silu.
+    </tei:p>
+    <tei:p>
+     Milú poeziu a romantiku našich mlynov, týchto útul­kov uprostred   svetského víru, dobre vybadala i sama ľudová pieseň a mame mnoho   takých piesní, v ktorých je spomienka o mlyne a jeho okolí, o   mlynárovi, o mlynárke, atď. Ktože by na pr. neznal tú peknú   pieseň:
+    </tei:p>
+    <tei:p>
+     „Kázala mi mati biele húsky hnati
+    </tei:p>
+    <tei:p>
+     ta dolu, ta dolu k mlynárovej hati...“
+    </tei:p>
+    <tei:p>
+     A v našich prísloviach a porekadlách koľko ráz sú spomínané mlyny:   po staršom do mlyna; ženie mu vodu na mlyn; kto prv príde, prv mele;   Božie mlyny pomaly, ale iste meľú, atď.
+    </tei:p>
+    <tei:p>
+     Nejdem sa o tomto rozpisovať, ale i z tohoto je patrný význam,   ktorý musíme pripísať našim mlynom po stránke spoločenského života.   Boly ony od jakživa akýmsi stre­diskom, spojivom všelijakých tried,   ktoré chodievaly ta či už kúpať sa, či pri inej príležitosti. Vo   mlyne je každý vítaným hosťom. Znal som mlynárov, ktorí predplácali   takmer všetky naše časopisy, a ich príbytky boly quasi kasínom pre   navštevovateľov. A zrejmá vec je, že kde sa viac ľudí schádza, tam sa   potom všelijaké otázky pretriasajú.
+    </tei:p>
+    <tei:p>
+     Poezia a romantika mlynov a ich príťažlivosť, ktorú javia ako   žriedla zdravého, srdečného humoru, našly svoje miesto v literatúrach   mnohých narodov. Aby som nešiel ďaleko, tam znamenite dielo českého   humoristu Karola Tůmu „Z českých mlýnů“ v 7. objemných sväzkoch. Z   týchto niektoré došly už V. vydania, taký úspech maly Tůmove   humoresky. Na javišti toho zvláštneho, vždy ve­selého sveta, v   „šalande“ českého mlyna schádza sa tá garda či „povedena chasa“:   stárek (starší tovaryš), mladek (mladší tovaryš), prášek (mlynarsky   učeň), sekernik (tesar vo mlyne), stupař (stupár) a vecne vandrujúci   „krajanek“. Nechybí tam ani „pan otec“ s „paní mamin­kou“ a tu potom   kujú sa alebo vyvádzajú tie všakové šibalstvá, alebo rozpráva sa o   nich pri pive.
+    </tei:p>
+    <tei:p>
+     Ja vybral som si osoby našich mlynov akoby typy, a to pana   majstra, pani majstrovu, tovaryša a niektoré s nimi častejšie do   potyku prichodiace osoby z kruhu navštevovateľov mlyna. Pomýšľal som   už dávnejšie na to, že zasiahnem do tohoto prostredia, no z piety   oproti ži­júcim ešte osobám váhal som s tým a odkladal, až teraz   odhodlal som sa k tomu hlavne z obavy, aby mi to niekto iný   nepredchytil.
+    </tei:p>
+    <tei:p>
+     Môž’ byť, že sa budú preto na mňa hnevať niektorí z našich pánov   mlynárov, ktorí v jednej-druhej osobe z mojich typov poznajú samých   seba. Prosím ich teda, aby mi v záujme dobrého humoru odpustili, že   píšem a oživujem také „staré hriechy“, na ktoré oni sami azda už   davno zabudli. Oni najlepšie budú vedeť posúdiť, koľko je v mojich   rozprávkach skutočnosti a koľko poezie. Im venujem túto prácičku v   tej úfnosti, že ju vďačne prijmú. Však menovite v terajších krušných   časoch dobre padne obrátiť myseľ na jasnejšie, veselšie stránky   života.
+    </tei:p>
+    <tei:p>
+     Ružomberok, v lete 1915.
+    </tei:p>
+    <tei:p>
+     Pôvodca.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     O mlyne „na Tureckom“ a o   „kúpačkách“.
+    </tei:head>
+    <tei:p>
+     „Okolo mlyna, hustá vrbina...“ Nár. pieseň.
+    </tei:p>
+    <tei:p>
+     Latinské príslovie hovorí: „Tempora mutantur et nos mutamur in   illis“, po slovensky: „Časy sa menia a my s nimi“. Mnohí ale tvrdia,   že časy sa nemenia, len my ľudia meníme sa s našimi skutkami,   tvorbami, náhľadmi a cieľami. Nech je tomu tak lebo ináč, jedno je   isté: mnoho zmenilo sa vôkol nás od toho času, čo sme sa zrodili a vo   svojom ľudskom veku prežili.
+    </tei:p>
+    <tei:p>
+     Míňajú sa časy a s nimi hynie pomaly ro­mantika našich krajov.   Miznú, vyhýňajú nielen staré pekné zvyky a obyčaje, ale i útulky, v   kto­rých ony žily a kde kedysi, za nedávnych časov odohrávaly sa a   miestami odohrávajú sa i teraz deje mnohých veselých a príjemných   chvíľ pri priadkach, besiedkach, žartoch a kratochvíľach. Mizne ten   nenútený, patriarchálny život všade, kde zahniezdi sa móda, pýcha,   kde nové, panské zvyky vytiskajú staré mravy. Menovite badať to tam,   kde stavajú sa fabriky, tieto novoveké údiarne, ktoré vyúdia naše   lesy a hory, kynožia vôkol seba predtým neporušenú prírodu, odháňajúc   vtáctvo a odpudzujúc iné živočíchy na ďaleko.
+    </tei:p>
+    <tei:p>
+     Taký osud stihol aj mlyn na „Tureckom“, ktorý kedysi, ešte ani tak   dávno, klepotal tam u rieky vo dne v noci usilovne a býval javišťom   tých veselých, dobrých chvíľ, aké možno zažiť len v ovzduší našich   mlynov. Bývaly i v ňom priadky, hostiny, zabíjačky, muziky, no bývaly   — ako všade — i smutné prípady, plynul tam život striedavo, až kým   nezavadila oň novodobá industria, ktorá ho potom nadobro odstránila z   povrchu zeme. Na jeho mieste stojí teraz fabrika na papier a kde prv   pnely sa štihlé topole okolo rieky a staré, vysoké vŕby a jelše   skláňaly sa nad vodou, tam teraz chrlia svoj dym fabrické komíny. Po   dakedajšom mlyne nezostalo ani len stopy, ani pa­miatky, tak dobre   zmiznul, postúpiac miesto industrii. Ba i tá rozsiahla „Sihoť“,   nachodivšia sa hneď za ním, tá naša malá ríša, po ktorej sme kedysi   ako malí chlapci za pekných letných dní tak radi hore-dolu brúsili a   sliedili za vtákmi, motýľmi, chrobákmi, rybami, kvietkami, jahodami a   ovocím, zmenila úplne svoju tvárnosť. Nenajdeš tam viacej bujnej   trávy, hustej vrbiny, veselého spevu vtáctva, vône kvietkov a tône   štihlého stro­movia; to všetko vyhladila neúprosná moc industrie.   Miesto toho našiel by si veľké hromady kamenia, odpadkov a všelijakej   neplechy, na ktorej ani len burina nenarastie; miesto príjemného,   vonného vzduchu smradľavé výpary a dym, miesto čistej, priezračnej   vody rieku, pretvorenú na špinavé, otrávené kloaky, v ktorých sa ani   ryba nezdržuje. Miesto spevu vtáctva, klepotu mlyna a kriku „kupačov“   hukot turbíny a všelijakých strojov. Nie div potom, že v takom okolí   i tie stromky, ktoré ruka ľudská tam na okrasu nasadila, za­krpatejú a   vyhynú. S Bohom, milá romantika mlynského ovzdušia; s Bohom, milé   staré časy! K vám sa už len v rozpomienkach vracať môžeme.
+    </tei:p>
+    <tei:p>
+     Veru celkom ináč to tu vyzeralo vtedy, keď stál ešte mlyn a v ňom   gazdoval mlynár Korec so svojou famíliou. Vtedy prichodili do mlyna   nielen pospolití ľudia, lež navštevovali ho v letnej dobe všemožné   vrstvy obyvateľstva z mesta k vôli kúpaniu na okolí mlyna a nejeden z   panských „kupačov“ vnišiel do mlyna k pánu majstrovi na pohár kyslého   mlieka s chutným čiernym mlynár­skym chlebíkom.
+    </tei:p>
+    <tei:p>
+     Bývalo veru hlučno okolo mlyna, keď nastala sezóna kúpania.   Navôkol ozýval sa krik „kupačov“ od obeda do pozdného večera a k tomu   klepotal mlyn neprestajne. Hneď poniže mlyna, za dverami z mlynice   bola menšia záhrada, ohradená vysokým pleteným plotom, siahajúcim   jednou stranou až po rieku. Boly v nej ovocné stromy a na prostriedku   dlhá lavica pre „kupačov“, — ako ich mlynár Korec nazýval, — ktorí sa   tam vyzliekali. Obľúbeným miestom na kúpanie bola hlboká voda pod   „úpustom“, kam tiekla voda štyrmi žlebami, keď boly „zástavnice“   otvorené. Plávalo sa tam výborne vo vlnách, ktoré takmer samé unášaly   človeka nadol. Bolo tam kriku, šplechotania, keď tak kúpajúci sa   skákali strmhlav jedno za druhým sťa barani so žlebov do vody. Tu   jeden pľaštil sa na brucho, hneď za ním druhý dolu hlavou alebo v   povetrí duba prevaliac a zase plávali nazad ku žlebom. Slnko hrialo   príjemne, v zá­hrade pod stromami bol zase chládok. Časť kupačov   vyzliekala sa na „Sihoti“, tam ale nebol taký pohodlný sostup do   vody, ako na piesočnatej strane od záhrady.
+    </tei:p>
+    <tei:p>
+     Majster Korec nedal si zadarmo šliapať zá­hradu, ani trávu na   „Sihoti“, lež vyberal pravi­delne od „kzpačov“ vstupné a či   „ajntritt“, ako on hovorieval. Každý dal krajciar-dva, ba i päták,   podľa toho, ako ho majster Korec šacoval Tento obchodil dosť často   okolo vody, vyberajúc vstupné, ktoré donieslo tiež niečo na kuchyňu.   Keď bol pekný, horúci deň, sosbieralo sa aj pár šestákov. Zato pravda   mlynárovi v záhrade a na Sihoti „kupači“ ovocie objedli, trávu   dogniavili, ba i plot dolámali takí hostia, ktorí radi platievali   pätami, keď mlynár obchodil na kontrolu. Vše poslal tovaryša Petra,   ten ale málo získal, lebo ako dobrák nechcel sa dohadovať, keď mu   hostia platiť odopreli. Preto mlynár najradšej inkasoval sám,   nakričiac dobre takým, čo neradi platili, ba ich aj ponaháňal, tak že   sotva stačili šaty uchytiť, aby ušli cez vodu s jednoho brehu na   druhý.
+    </tei:p>
+    <tei:p>
+     Menej navštevované boly v obvode „Sihote“ kúpeľné miesta „malé   hate“ a „veľké hate“, miesta to pre mužských. S mlynom spolu zahynuly   i tieto názvy. Ženské pohlavie malo inde, povyše mlyna, takzvané   „ženské hate“. Mlynár Korec bol natoľko galantný, že vybudoval tam u   brehu neveľkú dre­venú búdu so schodíkami do vody a tu sa potom dámy   kúpať schádzavaly. S vyberaním mal tu menej práce pán majster, lebo   nežné pohlavie platilo riadne, prechodiac cez dvor mlyna, kde   obyčajne tovaryš Peter prijímal vstupné s „ošivkou“ v ruke, klaňajúc   sa dámam, so svojou večne usmiatou tvárou.
+    </tei:p>
+    <tei:p>
+     Raz v nedeľu dotrepal sa do mlyna nezvaný hosť: akýsi kunštár s   dreveným stojanom na spôsob „ostrmu“, na ktorom boly nastokýňané   rôzne nožíky. Za šesták mohol človek hádzať malé obruče z istej   vzdialenosti na nožíky, a keď mu niektorá zostala viseť, vyhral   nožík. Bolo to dosť kunštovné, no obratný človek s istou rukou to   ľahko docielil. I postavil si tento človek bez vedomia mlynárovho, —   ktorý meškal práve v meste, — svoj krám uprostred záhrady a začal   „kupačov“ zamestnávať. Netrvalo dlho, prišiel mlynár domov a keď   zbadal, čo sa robí v jeho záhrade, zprvu prizeral sa na zábavku   zvedave oknom z mlynice, potom ale priblížil sa k tlupe, narobil krik   a vy­kázal milého špekulanta z územia svojho mlyna. On vraj nechce mať   tu žiadne shonby a komédie, lebo ak by to ztrpel, čochvíľa by mu sem   aj panorámu alebo cirkus privliekli.
+    </tei:p>
+    <tei:p>
+     Kúpeľné miesto pod úpustom stalo sa takmer osudným pre jednoho z   kupačov, ktorý, neznajúc plávať, odvážil sa nerozmyslene ta, kde len   dobrí plavci mali čo hľadať. Ktosi mu nahovoril, že treba len smelo   skočiť zo žleba dolu a ostatne sveriť na vodu, vlny už vraj zanesú   človeka až na plytkú vodu. I skutočne, urobil tak. Vyliezol po   žleboch k miestu, kde ostatní dolu skákali, a s veľkým skokom octnul   sa vo vode, zanoriac sa do nej. No tie vlny ho akosi nechcely nadol   niesť, lež naopak, ťahaly ho kamsi pod žleby. Začal sa teda   vyhadzovať a plávať „ani sekera“ na dno vody. V tom jeden z kupačov,   stojaci na brehu „Sihote“, skočil do vody a doplávajúc k milému   kandidá­tovi vodnej smrti, pochytil ho za nohu a či za pačesy a   dotiahol k brehu, kde potom viacerí vodu z neho vypumpovali,   pochytiac ho za nohy a dolu hlavou ním potriasajúc, až poloutopeného   priviedli k sebe. Chodil on potom za viacej dní ani zabitý a dosť   dlho prezývali ho „utopeným“.
+    </tei:p>
+    <tei:p>
+     Keď sa to dozvedel mlynár Korec, bol veľmi nahnevaný. Pri jeho   mlyne sa jakživ ešte nikto neutopil, chvála Bohu, a tuto taký chmuľo,   čo nevie plávať, chcel by svojím nerozumom takú hanu na mlyn uvaliť.   Nielen že by mu lepší kupači vystali, ale by sa aj mlynu mohlo   počariť, keď by tam niekde utopenca z vody vytiahli. Aj mátať by   chodil, aj mlynské náradie by mohlo zkazu vziať. Môžeme si teda   predstaviť, ako bol rád, že milého chlapa od utopenia oratovali.   Potom ale dobre dozeral na kupačov, aby sa medzi nich plávať   neznajúci nezatáral, a ktorý mu bol podozrivým, toho podrobil najprv   zkúške po­niže krajného žleba, a keď sa dokázalo, že plávať nevie,   marš! Viacej sa pri mlyne nesmel ukázať. Taký bol háklivý mlynár na   chýr svojho mlyna!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Ako poľoval mlynár Korec na —   krokodíla.
+    </tei:head>
+    <tei:p>
+     Jednoho leta stalo sa, že za viacej sparných, horúcich dní   neprišiel takmer nik ku mlynu okú­pať sa. Okolie mlyna bolo pusté, bez   kriku, ani len práčky neprišly, mimo klepotu mlyna nebolo čuť iného   zvuku navôkol. I bolo to mlynárovi záhadné, no nevedel si vysvetliť   príčinu, prečo tak odrazu uprostred najväčšej kánikuly vystali   „kupači“. Až tu, vyberúc sa do mesta na vozíku rozvážať noše s   namletou múkou, dozvedel sa tam senzačnú novinu, že vraj z menažerie,   meškavšej práve v meste, ušiel krokodíl, ktorý dostal sa do rieky na   okolí mlyna „na Tureckom“. Našli sa mnohí, ktorí tvrdili, že ho   videli tam lebo inde, ako plával hore vodou, ako lapal ryby do   pažeráka, ako poplašil práčky a jednej z nich skoro nohu odhryzol.   Raz zbadali ho vo „veľkých ha­tiach“, ako sa na piesku vysúšal,   inokedy zas povyše mlyna zarovno garbiarne, ako hlavu z vody von   vytrčil, atď. Nášho mlynára to zarazilo: čo, reku, aby sa tak   usalašil niekde pri jeho mlyne a odtiaľ robil poľovky na hydinu,   alebo keby sa tak vyškriabal pomedzi hriadle na kolesách do mlynice a   tu keby tak zdrapil pána majstra za nohu pri nasýpaní alebo niekde na   samom dvore! Mráz mu prešiel chrbtom pri samej myšlienke na to. Nemal   síce jasného pochopu o veľkosti tohoto zvieraťa-obojživelníka, ale   predsa pamätal sa na čosi, čomu sa bol učil kedysi ako malý chlapec v   škole o krokodílovi. Že to má byť akési krvelačné, ukrutné zviera na   výzor ohromnej jašterice s veľkou tlamou a dlhým chvostom, no   netrúfal by si ani zo zvedavosti stretnúť sa s ním.
+    </tei:p>
+    <tei:p>
+     Celý predesený náhlil sa domov, aby oznámil svojim domácim strašnú   zvesť. Nezameškal ale zastaviť sa v Biaľošovej ulici v krčme „pod   vie­chou“ na kvaterku, aby sa potúžil a nabral kurážu pre ten prípad,   keď by mu tak ten krokodíl niekde pri mlyne cestu zastúpil a koňovi   Pejovi do nohy zahryzol. Však by ho on už bičom odohnal! Zdalo sa mu,   že sa i kôň akosi trasie, sťa by tušil tiež nejaké nebezpečie. Aby ho   teda prebral zo strachu, šľuhnul po ňom bičiskom a pobádal ho k   bystrejšej jazde, čo Pejovi, na ovsi nebárs chovanému, nie veľmi   išlo.
+    </tei:p>
+    <tei:p>
+     I bolo potom dosť nepokoja vo mlyne; náhle sa dopočuli, čo za   nebezpečie číha na nich vše­tkých, a bolo po pokoji, ktorý dosiaľ   sídlil vo mlyne. Menovite tovaryš Peter dostal strach, lebo nemal ani   najmenšej vôle príjsť do bližšej zná­mosti s vychýreným krokodílom.   Pán majster, aby ukázal pred ním svoju smelosť, vadil sa s ním, keď   večer bál sa odvážiť samotný do mlynice z obavy pred krokodílom,   ktorý v jeho obrazo­tvornosti tam číhal kdesi pod kolesami. Keď v noci   Peter začul nejaký zvláštny zvuk z mlynice, škripot kolesa lebo   nejaký hvizd, ležiac na kozube zakrútený po uši prežehnával sa,   želajúc si v duchu, aby krokodílovi tam niekde koleso hnáty polá­malo,   žeby ho ráno našiel visiaceho pod kolesom. Ale by sa potešil a pozrel   na neho škodoradostne! Pán majster by zaiste povedal: „Hľa, už mu   čunty polámalo, načo pchala potvora laby ta, kde ne­treba!“ Ba čo by   si potom počali s tým krokokodílom? Kožu s neho dali by vyrobiť v   blízkej garbiarni na okrasu mlynskej izby a mäso hodili by do vody   rybám a rakom.
+    </tei:p>
+    <tei:p>
+     Často vídaval potom Peter lovcov z mesta, obchodiacich s flintou v   ruke okolo vody na okolí mlyna a číhajúcich na milého krokodíla.   Preto bol mu krokodíl neustále na ume a v myšlienkach vždy sa s ním   zaoberal.
+    </tei:p>
+    <tei:p>
+     Ba ešte ani v noci na spaní nemal od neho pokoja. Prisnilo sa mu,   že ho postretol na dvore, mrštil po ňom ošivkou a hybaj v nohy! V   strachu ale miesto do mlynice vybehol na „lavice“ a odtiaľ do   „Sihote“. Krokodíl všade za ním v zápätí, prenasledujúc ho. On celý   zadychčaný duril, čo mu para stačila, no pomaly ustával a krokodíl   chytal ho už za nohu. Skríkol a v tom prebudil sa na kozube celý   zdesený a zpotený. Bol rád, že to bol len sen a nie skutočnosť.
+    </tei:p>
+    <tei:p>
+     Tak prešly asi dva týždne v neustálom strachu a neistote, že   obyvatelia mlyna neodvážili sa ani na „Sihoť“, až tu v jedno   popoludnie pribehne do mlyna udychčaný parobok so zvesťou, že vraj   videl krokodíla v rieke, aby išiel pán majster hneď s ním k „ženským   hatiam“, že ho tam iste nájdu. Mlynár zprvu neveril, no keď v zápätí   za parobkom dohrnul sa do mlyna celý zástup ľudí, pastieri, garbiari   a robotníci z fabriky a tí všetci jednomyseľne tvrdili, že áno,   videli krokodíla na tom istom mieste na vlastné oči, dal si povedať.   A keď sa ešte dokyvkal do mlyna starý Hruška, ktorému od pitia   svietil sa nos ani červený lampáš, a aj ten prisvedčil, že videl tú   „ohavu“ vo vode, keď išiel na pole do Fornigova zemiaky pozerať, na   čo vraj môže prisahať, mlynár síce ustrnul pri myšlienke, že by mal   ísť na honbu za takým dravým zverom, no pred toľkým zástupom dodal si   zmužilosti, chtiac sa ukázať srdnatým a na všetko odhodla­ným, i   zavolal na Petra do mlynice
+    </tei:p>
+    <tei:p>
+     „Peter! vezmi dva háky, jeden mne, druhý tebe, ideme na   krokodíla!“
+    </tei:p>
+    <tei:p>
+     Peter sa tiež zarazil, skoro mu — ako sa hovorí — ušla smelosť za   sáru, ale nechtiac sa zahanbiť pred pánom majstrom, rozbehol sa pod   kôlňu pre háky a kráčal potom s nimi za mlyná­rom. Tento pochytil   jeden z hákov a šiel popredku, za ním Peter ozbrojený druhým hákom a   na koniec celý kŕdeľ zvedavcov, odhalivších krokodíla, medzi nimi i   pani majstrová.
+    </tei:p>
+    <tei:p>
+     Tak došiel pochod k „ženským hatiam“, kde potom vystúpil z tlupy   ten, čo prišiel prvý do mlyna, a privolajúc všetkým „pst“ pustil sa   pomaly smerom k ohromnej jelši, ktorej konáre skláňaly sa tam nad   vodou, zatieňujúc ju na široko. Ostatní stúpali za ním opatrne, aby   ani nešuchli a nevyplašili krokodíla. Ktosi šeptom poznamenal:
+    </tei:p>
+    <tei:p>
+     „Čože, keby tak teraz vyskočil z vody a roz­behol sa medzi nás! Ale   by sme sa rozutekali! Ja by som utekal sem a ta, nie do rovna, lebo   krokodíl sa nevie zvŕtať. Len aby nás nezbadal!“
+    </tei:p>
+    <tei:p>
+     Iný zas narádzal priniesť flintu a streliť na neho, no ostatní ho   zahriakli.
+    </tei:p>
+    <tei:p>
+     Boli už všetci celkom pri jelši. Pán majster oblapil ju ľavou   rukou, v pravej držal hák napohotove. Za ním kukal Peter bojazlive na   hladinu vody, ktorá plynula pokojne ďalej. Príjemný chládok vanul od   vody; nad ňou rojily sa mušky a komáre, obďaleč klepotal mlyn,   vetvami stromov, tiahnúcich sa po obidvoch brehoch rieky, vše pohýbal   vetrík. Tu zrazu zvolal mlynár polohlasom:
+    </tei:p>
+    <tei:p>
+     „Aha, už ho vidím, tam leží na dne roztiah­nutý. Zaiste je nažratý,   keď sa nehýbe ohava. Peter, pozor s tým hákom, keď ja pichnem mu do   hlavy, vtedy aj ty bodni do neho!“
+    </tei:p>
+    <tei:p>
+     A skutočne, tam pod koreňami jelše vo vode, hlbokej asi po pás,   černelo sa čosi. Malo to končitý chvost, ktorým hýbalo sem a ta vo   vode. No keďže bolo to tam v tôni pod stromom, ne­dalo sa to ani dobre   rozoznať. Predsa nebolo pochybnosti, musel to byť ten krokodíl a nič   iného. No natoľko nesiahaly prírodopisné vedomosti na­šich   „krokodílolovcov“, že by boli nahliadli, že krokodílovi na jeho   tvrdom, obrnenom chrbte s hákom nič neurobia.
+    </tei:p>
+    <tei:p>
+     Sotva stačili zistiť prítomnosť krokodílovu, aby im v poslednej   chvíli neufujazdil, mlynár Korec rozohnal sa s hákom a štúril celou   silou do toho čierneho ta, kde tušil hlavu. Peter, čo sa priam   triasol na celom tele sťa osika, za príkladom pána majstrovým pichol   poniže do chrbta kroko­dílovi. Chasa na brehu zajasala. Začali kričať   všetci:
+    </tei:p>
+    <tei:p>
+     „Už je náš! Už nám neujde! Len ho pre­pichnúť naskrz a sem s ním na   breh! Nebude ten viacej ryby sožierať! Dostal sa do klepca!“
+    </tei:p>
+    <tei:p>
+     Mlynár s tovaryšom pochlapili sa a začali ťahať víťazoslávne   domnelého krokodíla von z vody. Už vídať, ako sa svíja od bôľu, ako   myká s hákom, trepe chvostom, až sa voda múti, no nič nepomáha. Už ho   ťahajú pomaly na povrch, už je von z vody, tu hrôza! zdreveneli   všetci, lebo to na­pichnuté čierne nebol krokodíl, ale kus zhnilého   dreva, na ktorom visela mrcina odratého psa, priplávavšia sem z   garbiarne povyše sa nacho­diacej a zachytivšia sa na dreve, ktoré   ležalo tu Boh vie odkedy.
+    </tei:p>
+    <tei:p>
+     Tak skončila sa poľovačka na krokodíla v stred­nej Europe koncom   XIX. stoletia. Honci sa roz­utekali, nečakajúc, kým ich pán majster   poženie s hákom za to, že si takého blázna z neho spravili.
+    </tei:p>
+    <tei:p>
+     Bolo po hrúzovláde krokodílovej. Po tej veci nik viac neveril v   neho, tým menej, lebo sa rozchýrilo o niekoľko dní, že krokodíla,   ušlého z menažerie, našli v neďalekej hrádzi od hladu zdochnutého,   lebo chudák — zle chovaný — ďalej zaliezť nevládal, nie to ešte aby   spravil výlet do rieky.
+    </tei:p>
+    <tei:p>
+     Okolie mlyna ožilo. Začaly prehodiť práčky a znovu ozýval sa tlkot   piestov od rána do večera. Kupači prichodili zase v plnom počte a pán   majster nestačil mýto vyberať, čo priam sa aj hanbil trocha za tú   historiu s krokodílom, keď mu ju kupači pripomínali, lebo sa to hneď   všade rozchýrilo. Tým viac mrzelo to Petra, ktorý, keď začul slovo   „krokodíl“, už mal dosť. Hneď utekal do humna no ani tam nemal pokoja   od nezbedných chlapcov ktorí behali poza humno a pospevovali:
+    </tei:p>
+    <tei:p>
+     „Vo mlyne, na kline, odratý pes visí,
+    </tei:p>
+    <tei:p>
+     kto slovo prerečie, ten ho vyniesť musí.“
+    </tei:p>
+    <tei:p>
+     Peter z počiatku čušal, nepreriekol ani slova, no keď chlapci   neprestali ho domŕzať, napálený vy­behol von s lopatou a rozohnal ich   na všetky strany.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Ako sa Francúz v zime kúpal.
+    </tei:head>
+    <tei:p>
+     Medzi „kupačov“, navštevovavších mlyn na „Tureckom“, patril aj   profesor z mesta, rodom Francúz, ktorý mal tú zvláštnu náruživosť, že   sa kúpaval v lete v zime takmer neprestajne a preto býval vo mlyne   skoro každodenným hosťom. Bol už natoľko otúžený, že zdržal kúpeľ v   najsurovej-šom počasí. Na mieste neďaleko mlyna, zvlášť pre neho   ustrojenom, v malej búdke na brehu vy­zliekol sa bleskurýchle, skočil   do vody, zanoril sa celý v nej a trocha poumýval, potom vybehol   chytro von z vody, vydrhol plachtou celé telo, v okamihu obliekol sa   a utekal do mlyna zohriať sa. Túto jeho náruživosť v mlyne zprvu   nepochopovali, potom ale na jeho podivínstvo pomaly úplne   privykli.
+    </tei:p>
+    <tei:p>
+     Pán Alfred Van Mons — tak menoval sa náš profesor — bol starým   mládencom a i v svojom ostatnom spôsobe žitia podivínom. Bol   strednej, na výzor nie silnej postavy, no zato svalnatý, zdravý   človek. Mal osmahlú, oholenú tvár bez fúzov, spovedal sa každý deň,   hovoril — ako všetci jeho rodáci — nosovým prízvukom rýchlo   francúzsky, znal niečo nemecky a maďarsky. Šatil sa jednoducho, žil   striedmo, utiahnuto od spoloč­nosti, nosil stále ľahký, tmavý oblek a   taký istý dlhý svrchník s golierom, v ktorom veľmi upamätúval na   grófa Monte Christo, hrdinu v románe Alexandra Dumasa st.
+    </tei:p>
+    <tei:p>
+     Vo mlyne boli už tak privyknutí na neho, že sa tam mohol cítiť ani   doma. Hoci mu ne­rozumeli, predsa sa shovárali s ním. On proboval i   francúzsky i po maďarsky sa dohovoriť, no pán majster — ako sa sám   vyslovil — rozumel fran­cúzsky tak ako sviňa po latinsky a maďarsky   zase tak ako po francúzsky, nuž sa zväčša len posunkami shovárali   alebo každý vo svojej reči.
+    </tei:p>
+    <tei:p>
+     „Bon jour, monsieur le meunier“ (dobrý deň, pán mlynár),   pozdravoval obyčajne pán profesor, prichodiac do mlyna, na čo majster   Korec odvetil: „Mončúr, mončúr, pán profesor, nech sa páči   ďalej!“
+    </tei:p>
+    <tei:p>
+     A keď vnišiel do izby, usadili ho na drevenú kanapu za stolom pri   okne, obzreli ho pozorne, či sa cez mlynicu idúc nezamúčil, a ponúkli   ho kyslým mliekom, čo on veľmi obľuboval, nechá­vajúc si ho ale vždy   po kúpeli, lebo vtedy mu lepšie chutilo. Pochutnával si i na čiernom   mly­nárskom chlebíku s maslom, zapíjajúc ho cmarom, pri čom mrmlal si   popod nos francúzske slová, ktorým pravda nik vo mlyne nerozumel, ani   sama mlynárova dcéra, hoci chodila už do meštianskej školy. Nie div   potom, že keď raz pána profesora ponúkli mimoriadne praženicou, čo on   zo zdvorilosti neodmietol, utierajúc si ústa po nej, prehodil   klaňajúc sa smerom k pani majstrovej:
+    </tei:p>
+    <tei:p>
+     „Vous m’avez obligé beaucoup“ (som vám veľmi povďačný), táto slovu   vďaky „obližé“ zle porozumela a uchytiac tanier zpred neho,   povedala:
+    </tei:p>
+    <tei:p>
+     „Oj, nemusíte to oblízať, pán profesor, veď si ja to umyjem.“ A   potom nazdávala sa, že u Francúzov je zvykom po jedení taniere miesto   umývania oblízať.
+    </tei:p>
+    <tei:p>
+     Pán majster si veru neraz zasadol k stolu proti nemu a besedoval s   ním po svojom. Myslel si, že keď pán profesor na dôkaz súhlasu   poky­vuje hlavou na všetko so slovami „oui, oui“ (áno, áno), že tomu   aj rozumie. Tak mu rozprával, ako sa on kedysi za malého chlapca v   škole v časoch hneď po revolúcii učil latinskú gramatiku a táto že sa   ešte kdesi povaruje v truhle medzi starými písmami. Aj z nemčiny že   sa všeličomu podučil, čo ale už teraz na staré kolená pozabúdal. Že   učil sa aj o Napoleonovi, o tom chýrnom fran­cúzskom cisárovi, čo   toľké vojny viedol. Pán profesor rozumel zo všetkého len slovu   „revolúcia“ a pri spomenutí mena Napoleonovho s úsmevom poznamenal:   „C’était, il y a longtemps“ (to bolo dávno). Potom vstal a urobiac   koniec tomuto čudnému rozhovoru, poberal sa preč, potrasúc mlynárovou   rukou so slovami poďakovania za pohostinstvo: „Merci, je vous   remercie bien“ (ďa­kujem pekne). Po jeho odchode ale prehodil mlynár   za každým k svojej žene príslovie:
+    </tei:p>
+    <tei:p>
+     „Recže mu, rec, keď je Nemec, ba ešte horší od Nemca, lebo s tým   by som sa skôr dohovoril ako tak, keď by som mu povedal: „Was ist das   a was willst du? Brod? Milch, Putter? Entweder, oder!“ Ale tento ti   len začne fufňať nosom ani moriak a nič z toho nevieš. Parom ho tam   rozumie.“
+    </tei:p>
+    <tei:p>
+     Vše ponúkol ho aj s čerstvým hriatym, ho­voriac, že ho to po kúpeli   zohreje, no pán pro­fesor odmietol zakaždým so záporným posunkom a   slovami, z čoho pán majster rozumel len slovu „l’alcool“, na čo   odpľujúc a posunúc zamúčenú baranicu na ľavé ucho, trocha urazene   poznamenal k žene:
+    </tei:p>
+    <tei:p>
+     „Kdeže ti taký veľký pán bude piť naše slo­venské hriato, keď ti je   on len na dobré vína naučený a my tu vína nemáme. Poď sem, Peter,   vypi ty za neho,“ zavolal na tovaryša, „a zavinšuj mu na zdravie,“ čo   Petrík nelenivý aj urobil, vyprázdniac pohárik na dúšok. Francúza mal   rád, lebo mu tento pri odchode vždy šesták-dva alebo cigarku strčil   do hrsti za nejakú malú službu.
+    </tei:p>
+    <tei:p>
+     V jedno zimné odpoludnie pred Vianocmi kráčal pán profesor zase do   mlyna, aby sa vo vode oplákol. Bola veru dosť tuhá zima, hoci od   obeda uľavilo. Cestou k mlynu belel sa všade sňah a keď pán profesor   dochodil k rieke, videl, že je táto z kraja na mnohých miestach   zamrznutá Vo mlyne panovalo ticho, lebo kolesá, obrnené ľadovým   pancierom, stály. Ľad leskol sa na slabom zimnom slnku, až oči   zaslepoval. Len tam kdesi pod ľadom v hlbine bolo čuť vodu hučať. I   „Sihoť“ belela sa celá pod sňahovým rúchom, stromy na nej boly sťa   kvietim obsypané, biele od srieňu. Sňah len tak vržďal pod   nohami.
+    </tei:p>
+    <tei:p>
+     Pán majster nebol síce prekvapený touto návštevou o takomto čase,   no predsa povážlive krútil hlavou nad tým, že môže niekomu prijsť na   um i v takej zime liezť do vody, veď i pes Zahraj, ktorý inokedy vždy   bežal hosťovi naproti a vyskakujúc ošmietal sa okolo neho, teraz   ležal niekde v mlynici medzi vrecami, keď ho z izby vyhnali. Peter   ale s vyštípanými od zimv na čer­veno lícami trel si ruky s úsmevom,   chtiac tým dať na javo Francúzovi, že je ozajstná zima.
+    </tei:p>
+    <tei:p>
+     Tento ale nerobil si z toho nič, lež vošiel pokojne do izby   zohriať sa trocha, prechodiac hore-dolu, potom sobral sa do svojho   „kabinetu“ za kôlňou, kde mu Peter napochytre vyrúbal dieru do ľadu   na kúpanie Z vody sa len tak parilo, on ale v okamžení poshadzoval so   seba odev, obuv a skočil do vody...
+    </tei:p>
+    <tei:p>
+     Mlynár Korec medzitým vyšiel do mlynice a povedal Petrovi:
+    </tei:p>
+    <tei:p>
+     „Nože daj pozor na toho Francúza, aby ten dnes nejak nezamrzol v   tej vode, keď je taká psia zima!“
+    </tei:p>
+    <tei:p>
+     No čosi nedalo mu pokoja a sám vyšiel o chvíľu na „lavice“ pozreť,   či už Francúz vyšiel z vody. Bolo to neďaleko odtiaľ a tu vidí   Fran­cúza ešte vo vode, len hlava mu trčí z nej von. Bezpochyby sedel,   ale sa nič nehýbal, len sa opieral o ľad hlavou. To bolo pánu   majstrovi podozrivým i zavolal na neho, no ten sa ani nehnul a   odpovede nedal. Chytro sbehol dolu a zavolal na Petra do mlynice:
+    </tei:p>
+    <tei:p>
+     „Peter, hybaj chytro, veď ti ten Francúz za­mrzol. Len hlava mu   trčí von z vody!“
+    </tei:p>
+    <tei:p>
+     I rozbehli sa obidvaja k búde za kôlňou. Tam potom skočil mlynár   na ľad, ktorý bol dosť pevný k tomu, aby ho udržal, pochytil milého   Francúza za hlavu a ťahal z vody von. Potom chytili ho oba s Petrom a   zaniesli chytro do blízkej komory vedľa kôlne. Nebol ťažký, lebo   nemal moc tela na sebe, ale bol svalnatý, kost­natý. Tam uložili ho na   lýčnu posteľ a pochytiac uteráky, začali treť po celom tele, až tak   červenel, ani varený rak. Prevracali ho sem a ta, raz na brucho, raz   horeznačky ani kus dreva. Pán majster stačil ešte odbehnúť do izbice   za mlynicou, kde vytiahol zo skryne fľašu s trocha páleným, miesto   koňaku aj to bolo dobré, nalial z neho Francúzovi do úst, ktoré mu   Peter otvoril, lebo ich mal pevne stisnuté. Potom treli milého chlapa   ďalej I netrvalo dlho a otvoril oči, vzdychol, potom zašomral čosi a   začal sa hýbať.
+    </tei:p>
+    <tei:p>
+     Keď prišiel k sebe, zaniesli ho do izby a tam uložiac do postele,   opatrovali ani decko. Tu ujala sa ho aj pani majstrová, ktorá dosiaľ   ani neve­dela, čo sa robí, hoci sediac pri kolovrate zhliadla oknom,   keď ho niesli, no myslela, že niečo iného vlečú.
+    </tei:p>
+    <tei:p>
+     Tak potom odležal pán profesor do druhého rána vo mlyne. Chcel   síce, čo priam slabý, hneď odísť, no pán majster ho nepustil a   vyčítal mu takú kázeň za jeho ľahkomyseľnosť, že jej pán profesor   bezpochyby musel porozumeť. Navaril mu „zeliniek“ na potenie, nútil   ho piť horúci čaj, potiť sa, ba v svojej ošetrovateľskej horlivosti   chcel mu priložiť aj pijavice, ktoré nikdy nechybely na okne vo   fľaši, žeby mu vraj tú mrazom seknutú zlú krv trocha preriedily. No   pani majstrová ho vysmiala, hovoriac, že škoda teraz každej kvapky   krve.
+    </tei:p>
+    <tei:p>
+     „Predsa len psia nátura, keď tak vydržal,“ poznamenal pán majster.   „Veď sa už srieň chytal na vode okolo neho. Nech prídeme s Petrom o   minútku neskoršie, už by bol teraz boží. Ešte by nás bol chodil   mátavať, keby bol tak odkapal. Mňa by už bol parom vzal na takej   zime, už by som bol na druhom svete u svätého Petra mlynáril.“
+    </tei:p>
+    <tei:p>
+     Peter sa usmial, keď počul spomínať svojho nebeskeho patrona, na   ktorého bol hrdý, lebo si myslel, že po smrti bude v nejakom nebeskom   mlyne aj on na pána majstra povýšený, keď sa toho tu na zemi   nedožije.
+    </tei:p>
+    <tei:p>
+     Na druhý deň zima značne uľavila a pán majster zaviezol hosťa   dobre zakrúteného do svojho kožucha a obutého do kapcov na vozíku do   mesta. Kto vie, ako sa cítil pán profesor tam medzi nošami, keď   tiahli popred školy na jeho kvartieľ. Stiahol si mlynárovu baranicu   dobre na oči a uši, aby ho nik nepoznal, menovite z jeho žiakov, lebo   by bolo po jeho auktorite.
+    </tei:p>
+    <tei:p>
+     Doma potom zavďačil sa pánu majstrovi fľašou dobrého vína a chcel   mu darovať svoje pekné husle, čo ale tento — hoci bol muzikantom —   neprijal. Pán profesor nestačil opakovať pánu majstrovi neprestajne:   „Pourtant vous avez sauvé ma vie, mon cher ami“ (predsa ste mi život   za­chránili, drahý priateľu).
+    </tei:p>
+    <tei:p>
+     No jeho návštevy vo mlyne vystaly a do leta sa tam neukázal.
+    </tei:p>
+    <tei:p/>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     O Petríkovi.
+    </tei:head>
+    <tei:p>
+     Spomínali sme už Petra, tovaryša vo mlyne na „Tureckom“, no   nepoznáme ho ešte bližšie. A veru jeho osoba zaslúži, aby sme sa s   ňou oboznámili. Preto rozpovieme si jeho životopis.
+    </tei:p>
+    <tei:p>
+     Menoval sa vlastne Peter Eliáš a pochodil z vlasti drotárov, z   Trenčianskej. Že ako dostal sa do mlyna v Turci on, rodený Trenčan,   túto záhadu rozlúštiť je ľahká vec. Keď totiž majster Korec vybral sa   raz za mladších liet bravov ku­povať na chýrny svinský trh do Varína,   priviezol odtiaľ nielen brava, ale aj Petríka, ako malého   chlapca-sirotu, ktorého mu tam za učňa ponúkli. Hoci bol chlapec   drobný, zakrpatený, vzal ho so sebou. Že by bol býval Petrík — ako sa   hovorí — „sirota nevoľná, ale sebevoľná“, to sa na ňom veľmi   nedokázalo, lebo bol krotkej, poslušnej povahy.
+    </tei:p>
+    <tei:p>
+     Tak potom vyrástol vo mlyne, vlastne máločo vyrástol, lebo súc od   mala zakrnelý, rástol skôr do šírky, nežli do výšky. Zprvu nazývali   ho Petríkom, potom Peterom. Ako malé deti volali sme ho vždy len   Petríkom a keď sme ho spomínali: Petrom mlynáre, Petrom zo mlyna.   Každý mu tykal, či mladý či starý, vari najviac preto, že bol takej   nízkej zakrpatenej postavy. Predstavte si ho: malý, zavalitý chlapák   s okrúhlou, skoro vždy vysmiatou, vyholenou tvárou, na nej fúziky,   sťa jarná tráva, zakrpatené ako on sám. No nebol on zato špatný   chlap!
+    </tei:p>
+    <tei:p>
+     Majster Korec nám ako malým deťom na otázku, že prečo Petrík   väčším nenarástol, odpo­vedal, že ho rodičia za mala pálenkou   napájali, lebo vraj aj ten pes, ktorému dávajú ľudia chliebs   pálenkou, nenarastie, ale zakrpatie. Zato ale nemyslime si, že by bol   Petrík vo svojom staršom veku azda korheľom býval. Bože chráň! On   pravda vypil si kedy-tedy s pánom majstrom pohárik pálenky hriatej   alebo varenej, tohoto „slovenského likéru ale pod spôsobom, nikdy sa   neopil, čo priam aký oldomáš bol, nepozabudol sa ani za svet, hoci ho   pán majster vše pred hosťami naberal, že si tej „samožitnej“ rád   vypije a že mu skrze to aj nos začína červeneť. Pohárik, ktorý mu   nabídli, neodmietol, lebo nechcel nikoho uraziť.
+    </tei:p>
+    <tei:p>
+     Pri tom všetkom prihodil sa mu raz ten malér, že keď ukonaný, po   namáhavej práci zatúžil za občerstvením, sliediac po kozube za   nejakým ná­pojom, pochytil tam v pološere sklenicu a vypil jej obsah   dychtive na dúšok. Až potom, keď ho to začalo žreť v hrdle, zbadal,   že vypil smradľavý špiritus na pálenie. Inokedy zas hladný našiel na   kozube akúsi rajnicu s niečim a domnievajúc sa, že to pani majstrová   pre neho večeru nachystala, zjedol s dobrým apetítom obsah rajnice,   potom ale s pokojným svedomím vyšiel ďalej nasýpať do mlynice. Až tu   potom večer, keď pani maj­strová zasadla ku krosnám a chcela tkanivo   mastiť so „šlichtou“ /footnote{Šlichta (Weberschlichte) je kaša z   múky, zhoto­vená z mlynárskych „omelkov“, ktorou sa pomocou dvoch   kartáčov od spodku a od vrchu osnova na krosnách natiera (túži), žeby   sa nestrapkala.)}, videla, že je nádoba prázdna. Podozrenie padlo   ovšem hneď na Petra a ten sa veru zkrúšene priznal, že nevedomky on   bol tým maškrtníkom. Omyl tento prischol potom Petríkovi navždy.   Neraz zutekal zahanbený z izby do mly­nice, keď ho pán majster začal s   tým prekárať pred hosťami.
+    </tei:p>
+    <tei:p>
+     To bola pravda maličkosť, ktorú si Petrík tak veľmi k srdcu   nepripúšťal. Tým viac ale bo­lelo ho, keď pán majster, ktorý nerád   maznal sa s nikým, prišiel niekedy v zlej nálade z mesta domov alebo   keď sa pre niečo nahneval, lebo vtedy sa jeho hnev obyčajne na hlavu   úbohého Petríka zviezol a ten vyhrmel potom, keď sa majster Korec   nemal na kom vyvŕšiť. Pre malú záhalku alebo keď Petrík niečo   pochybil, už sypalo sa na neho: „ľaľa, aký veľký pán, daj sa mi za   pána, pán koberec“ a ešte inými titulmi ho častoval pán majster,   tieto ale tlač neznesie. Trafilo sa neraz, že keď vybrali sa na   vozíku spolu do mesta, Petrík vrátil sa z pol cesty domov, lebo sa   pán majster pre niečo s ním povadil a shodiac ho z vozíka, poslal ho   domov. A keď tak pán majster aj bičiskom šľuhol po ňom alebo mu   baranicu hodil do hlavy v návale hnevu, vtedy Petrík, hoci už bol   starým mládencom, si veru nejednu slzu utrel. No hnev pána majstrov   netrval dlho, lebo sa čochvíľa udobril a ponúkol Petríka z pohárika,   štrngnúc si s ním, že vraj aby sa lepšie usiloval.
+    </tei:p>
+    <tei:p>
+     Kto poznal Petríka, ten by ani nebol veril, že sa mohol niekto   naňho aj rozhnevať. Veď bolo treba len pozreť na jeho večne usmiatu   tvár, vždy zamúčenú, sťa by sa bol pudroval, na jeho nízku, no udatnú   postavu, počuť jeho srdečný smiech a trocha šišlavý, vše chripľavý,   no predsa príjemný hlas a musel si získať navždy našu sympatiu. Keď   tak prichádzali sme do mlyna, obyčajne zastihli sme ho buďto na dvore   alebo vo mlynici s „ošivkou“ alebo s mierou v ruke, v lete v zime bez   kabáta, s obnaženou hlavou, a tu vítal nás so svojou večne usmievavou   tvárou, ktorá len v čas potreby nabývala vážnosti, ku pr. keď sa   Petrík modlil.
+    </tei:p>
+    <tei:p>
+     Bol totiž nábožným kresťanom a táto jeho ctnosť vynikala nad   všetky iné jeho dobré vlastnosti. Bol bohabojným človekom a   navštevoval kostol pilne každú nedeľu. Menovite ale litánie málokedy   vymeškal. Jeho modlitebná knižočka povaľovala sa vždy na okne od   mlynice pri ko­zube a my ako malé deti radi sme sa s jeho pri­volením v   nej prehrabovali, prezerajúc obrázky o živote a umučení   Kristovom.
+    </tei:p>
+    <tei:p>
+     A keď tak o Vianociach na Štedrý deň bolo už dávno po večeri a   dávno odznel spev posled­ného speváka, keď čakajúc na utiereň driemali   sme posediačky pri teplej peci alebo hrali v karty, tu zrazu tak   okolo jedenástej zavznela pod oknom zprvu tichšie, potom vždy   vrúcnejšie a jasnejšie pieseň: „Narodil sa Kristus Pán...“ známym   hlasom Petríkovým, prichodiacim zo mlyna za­spievať, za čo sme ho   potom počastovali. Po spie­vaní obišiel celú rodinu pána majstrovu v   meste, iným spievať by bol považoval za nedôstojné pre seba. Potom   ale ani za svet nebol by vymeškal utiereň, ktorej sa tak vopred   tešieval. V kostole zastal si na samom predku blízo oltára a tak   vrúcne spieval za chorom tie jeho obľúbené piesne: „Čože to má byť,   čo je to za zvyk v Betleme“, alebo: „Ležal bača na salaši, prišli k   nemu traja valasi“. A keď potom po zakončení utierne kráčal domov do   mlyna — vzdialeného od mesta dobrú štvrťhodinu chôdze — pri svite   mesiaca zasňaženou cestou v takej sviatočno-vianočnej nálade, i vtedy   ešte zunely mu v ušiach zvuky organa s husľami a sloky známej piesne:   „Mesiačik vysoko ešte stojí, ľud sladko spočíva na pokoji..“
+    </tei:p>
+    <tei:p>
+     Na druhý deň, t. j. na Božie narodzenie pri­chádzal Petrík zase   sviatočne oblečený zavinšovať šťastlivé sviatky a oznámiť príchod   Spasiteľa, nie ale takým spôsobom, ako ostatní vinšovníci: hlás­nici,   hrobári alebo Mišo cigáň, ktorí prichádzali hneď z rána jeden druhému   kľučku podávajúc, lež popoludní okolo 3. hodiny, lebo to tak držal za   slušné a primerané pre seba. Ani nevinšoval tak ako ostatní:   „Vinšujem im tieto sviatky via­nočné (alebo šťastlivý nový rok), aby   im dal Pán Boh hojného svojho požehnania, na statečku rozmnoženia a   na dietkach potešenia, na dvore príchod, na poli úrod a všetko hojné   božské po­žehnanie,“ to bolo pre neho prijednoduché. On prednášal   svoje zvláštne obšírne vinše, ktorým naučil sa Boh vie kde.
+    </tei:p>
+    <tei:p>
+     Tak isto prichádzal aj na nový rok zavinšovať a na Tri krále   začínal takto:
+    </tei:p>
+    <tei:p>
+     „Išli traja králi od východu,
+    </tei:p>
+    <tei:p>
+     klaňali sa oni pánu Bohu...“
+    </tei:p>
+    <tei:p>
+     no a samo sebou sa rozumie, že aj na posledné fašiangy, pravda nie   s ražňom ako druhí, a začal: „Fašiangy, Turíce, Folkušová, Dulice, v   Necpaloch a Pravne, tam pražia krapne, pre starých ľudí, čo nemajú   zuby, len také hlúby“, na čo počasto­vali sme ho tými krapňami a jeho   obľúbeným hriatym, pri ktorom ale vedel vždy mieru držať, aby sa   potom večer po fašangovaní nazad idúc do mlyna niekam do hrádze   nevyvrátil, inokedy zas prišiel zvestovať, že sa vo mlyne jalovica   otelila alebo mašica oprasila, alebo že bude za­bíjačka, a doniesol   pozvanie na hoscinu, po za­bíjačke ale roznášal zo zakáľania   „zajedanec“.
+    </tei:p>
+    <tei:p>
+     Pri svojej nábožnosti býval Petrík mnohoráz aj figliarom, keď sa   tak zaliečal švárnym mlečkam, že ho tieto vše aj poškriabaly po   tvári, tak že keď videl ho pán majster takého poškriabaného,   hovorieval: „hľa, každá šelma značná! hľaď mu potom na driemoty, keď   je on taký potmehúdol.“ Aby sme nezabudli, Petrík bol ešte vždy   starým mládencom, hoci ťahal už k štyridsiatke, a keď ho starší ľudia   naberali, že prečo sa nežení, radiac mu zo žartu tú lebo inú, aby sa   už ovrabčil, že je už dosť starý, zasmial sa svojou plnou okrúhlou   tvárou, sťa by sa bolo slniečko na teba usmialo, a odpovedal, že má k   tomu ešte dosť času. Ktože by vraj chcel takú sirotu, ako je on, že   on ženy nepotrebuje, atď.
+    </tei:p>
+    <tei:p>
+     Raz bol vypukol v noci väčší požiar v naše ulici a tu pribehol   čosi kamsi Petrík zo mlyna vzal nás dvoch malých chlapcov, brata na   ruku mňa na chrbát a niesol na bezpečné miesto do mlyna. My ale   rozospatí chlapci rozplakali sme sa mu na pol ceste a Petrík darmo   nás tíšil. I položil nás na chodník a odtiaľ dívali sme sa na požiar,   ktorý pomaly prestával. Potom nás Petrík zase vzal a zaniesol pekne   domov.
+    </tei:p>
+    <tei:p>
+     Inokedy zas zatárala sa do nášho mesta v pozdný jasenný čas   menažeria, kde mali i hod­ného slona, ktorému dali spraviť kapce na   nohy, aby mu v čas mrazov nepoziably. Keď viedli slona takto obutého   cez mesto, náhodou meškal tam i náš Petrík a díval sa tiež na pochod   s „elefantom“, ako ho on menoval. Keď potom vo mlyne vyprával o tom,   čo videl v meste, pán majster opýtal sa ho: „Teda elefanta si videl,   a slona nie?“ „Slona veru nie, len elefanta,“ od­vetil Petrík, ktorý   si pod slonom niečo iného predstavoval.
+    </tei:p>
+    <tei:p>
+     Jedenkrát bol Petrík odišiel do mesta a práve vtedy stalo sa, že   tam jednomu väčšiemu pánovi z fabriky ušiel z klietky papagáj, na   ktorého potom usporiadalo honbu robotníctvo fabriky po záhra­dách, kde   sa po stromoch skrýval. Trvalo to dosť dlho, kým ho lapili, lebo   preletoval z jednej zá­hrady do druhej a bolo pol mesta na nohách, keď   chodili za ním lovci s dlhými rebríkami po dvoroch a záhradách.   Petrík síce tajil, že by bol pri tom býval, no majster Korec dopočul   sa pred jeho návratom od „kupačov“ o tom, čo sa v meste robí, a keď   došiel Petrík trocha pozdejšie domov, privítal ho so slovami: „Vari   si aj ty pomáhal chytať toho pagagája, keď si bol tam toľké časy? Ty   papagáj!“ A dosť dlho prezýval ho potom papagájom, kým na vec   nezabudol.
+    </tei:p>
+    <tei:p>
+     Ako sa stalo, ako nie, prišiel čas, že sa Petrík rozlúčil s mlynom   navždy. Pohneval sa čosi viacej s pánom majstrom a v návale ťažkosti   rozhodol sa opustiť mlyn, kde vyslúžil asi dve „kapitulácie“, t. j.   24 rokov, dať „s Bohom“ mlynárskemu životu I presťahoval sa do mesta,   kde zjednal sa do služieb mäsiara Lastovičku a pomáhal mu okolo   remesla, ktorému sa ako-tak už vo mlyne pri zabíjačkách priučil. Cez   leto ale pásaval kŕdeľ oviec a chodieval s nimi ta do voľnej prírody.   I stalo sa raz, že idúc do poľa, uvidel na ceste kus tlačeného   papieru. Sohnul sa a zodvihol ho. Bol to list z nejakej náboženskej   knihy, a bolo tam opísané, že roku Páne toho a toho za času toho a   toho rímskeho otca v ktoromsi meste spadol s neba ohnivý kameň   (najskôr to bol meteor!) a na tomto bolo napísané ohnivými písmenami,   že vraj „ľudia majte sa k pokániu, lebo deň súdu sa blíži,“ atď. Pri   pasení oviec si to potom stále prečitoval a poneváč mal „dobrú   hlavu“, naučil sa to nazpamäť. I začal to potom prednášať najprv len   v takom užšom krúžku, potom keď sa to rozchýrilo, osmelil sa s tým   pred ve­rejnosť a prednášal kdekoľvek na ulici, či pred kostolom alebo   pri zvonici, keď tam bola pano­ráma alebo nejaká iná komédia. Neraz   veru odtiahol odtiaľ celé publikum, ktoré ho dychtive poslúchalo ani   nejakého proroka alebo generála „armády spásy“. Keď už tak shŕklo sa   vôkol neho viacej obecenstva z tej nižšej triedy, ako učnia,   tovaryšia, robotníci a slúžky, a požiadal ho niekto o prednášku, tu   Petrík spravil vážnu tvár, složil klobúk dolu a prežehnajúc sa začal   pomaly odriekávať svoju reč o tom kameni ohnivom, čo spadnul s neba.   Trvalo to dosť dlho a musela byť pri tom tichosť, lebo ak zbadal, že   niektorý z poslucháčov robí posmešky alebo pochybuje o pravdivosti   jeho slov, hneď pretrhol prednášku a s pohoršením osopil sa na   patričného, potom ale chcel odísť. Bolo treba ho prehovárať a prosiť,   aby sa odhodlal v prednáške pokračovať. Potom ho už ale nesmel nik   viacej vytrhovať. Pamätám sa, raz v zimnom čase v čakálni železničnej   sta­nice chytil sa bol do takej prednášky uprostred hodného   obecenstva, no čo chvíľa príchod vlaku koniec urobil prednáške.
+    </tei:p>
+    <tei:p>
+     Mysleli by ste azda, že to robil vari zo ziskuchtivosti alebo   ctibažnosti. Bože chráň! Peniaze by nebol prijal za svoju reč ani za   svet. Ak ho niekto obdaril cigarkou, to prijal vďačne, hoci sám   málokedy fajčil, inšie ale nie. Neraz hovorievali mu známi: „Petrík,   Petrík, ty si mal byť kňazom, keď vieš tak pekne kázať a máš takú   dobrú pamäť a k tomu taký nábožný a bohabojný človek z teba.“ Čo veru   aj nemálo lichotilo Petríkovi, no vyho­váral sa, že on taký chudák a   sirota by nebol mal k tomu prostriedkov a jeho ujec v Žiline o neho   moc nestál.
+    </tei:p>
+    <tei:p>
+     No nielen o kameni vedel Petrík prednášať, ale aj iné veci. Keď ho   na pr. niekto požiadal, aby recitoval niečo po nemecky, tu začal   remzať s nenapodobiteľnou rýchlosťou jedno za druhým mená miestnych   židov: Schlesinger, Grossmann, Fischer, Glücksthal, Scheinberger,   Schönwald, Goldberger, Herz, Waldmann, Immerblum, Vogel. . atď. Nuž   taká to bola „nemčina“, že by sa ani Goethe nebol v nej vyznal.
+    </tei:p>
+    <tei:p>
+     Keď Petrík dostal sa do mesta, začala sa nielen nová kapitola v   jeho živote, ale musel k svojmu zklamaniu zkúsiť a podstúpiť i mnohé   trpkosti. Kým nachodil sa vo mlyne, zriedka kedy chodieval do mesta,   obyčajne na vozíku s pánom majstrom múku rozvážať alebo do kostola a   v meste si ho málo všímali. Ako ale osadil sa v meste, pre svoju   nízku, zakrpatenú postavu stal sa terčom posmeškov a prezývok   mestskej nezbednej chasy, ktorá nazvala ho „brmboľom“, „batohom“ a   pre­zývala ho tak pri každej možnej príležitosti. Petrík sa zprvu dosť   nazlobil, dosť sa nanaháňal za po­smešnými chlapci a beda bolo tomu,   ktorého dochytil a potrestal. No zato prezývali ho ďalej a nič   nedbali na to, že on proti tomu protestoval, keď mu takýmto spôsobom   život otravovali. Nahliadol ale, že čím viac sa hnevá, tým je horšie,   a preto sa viacej nezrel o posmešníkov, pomysliac si, že „aká sviňa,   taký kvik, aký človek, taký krik“, a šiel za svojou prácou.
+    </tei:p>
+    <tei:p>
+     Po niekoľkých rokoch služby u mäsiara La­stovičku, keď sa tento z   mesta preč vysťahoval, prešiel Petrík už ako štyridsiatnik do   kondície k farbiarovi židovi v súsedstve a tam sotrval pár rokov až   do svojej smrti.
+    </tei:p>
+    <tei:p>
+     Pýtate sa azda, že akou smrťou skončil náš Petrík svoj strastiplný   mládenecký život? Nuž veru, žiaľbohu, nie prirodzenou. Prišiel do   mesta v letnej dobe cirkus, v ktorom odbývaly sa aj zápasy, a tu   zachvátila zápasnícka horúčka mnohých z prostredia Petríkovho.   Menovite bol to istý Cimbalník, pekársky tovaryš a rodom Čech, malý,   nepatrný človek, ktorý preslávil sa tým, že v cirkuse prevládal   atletu-černocha, položiac ho „na lopatky“, a tento potom založil   školu zápasníkov. Kdekade poza humná na pažitiach bolo vídať večerami   cvičiť sa garbiarov a všakových tovaryšov v zá­pasoch pod dozorom   Cimbalníkovým. Nahovorili i Petríka a tento oddal sa tiež kdesi na   pažiti do zápasu s nejakým kolegom. V horúčke paso­vania potom už   nedbali pravidiel „francúzskych zápasov“, ale dali sa vážne do   vlasov, a tu pro­tivník v zúrivosti tak dokopal milého Petríka do   brucha, že tento dostal „miserere“ a na druhý deň v hrozných   boľastiach dokonal. Pohrab mal pekný. Odprevadili ho na poslednej   púti i jeho bývalí šéfovia: mlynár Korec, mäsiar Lastovička, ktorý   náhodou meškal v meste, a žid-farbiar. Tento posledný vystrojil   Petríkovi z jeho usporených groší slušný pohrab, na ktorom sa mu ešte   aj dva vence dostali od kohosi.
+    </tei:p>
+    <tei:p>
+     Teraz si už tam spočíva na cmiteri náš Petrík po kariére,   započatej vo mlyne, zabudnutý tak, ako bol aj za živa osiralý a na   seba zanechaný.
+    </tei:p>
+    <tei:p>
+     No ale ho ešte vzkriesime v našich rozpo­mienkach, lebo ho v našich   rozprávkach častejšie spomínať budeme.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     O zabíjačke vo mlyne a o Lenčovi s   jeho čarodejstvami.
+    </tei:head>
+    <tei:p>
+     Je zimný čas vo fašiangoch. Vo mlyne na „Tureckom“ je živo,   zaklali dvoch bravov a preto je roboty dosť, každý má sa čím   zamestnávať. Veď kdeže by aj nie, dvoch bravov obriadiť, po­sekať je   na jeden deň priam dosť.
+    </tei:p>
+    <tei:p>
+     Keď k večeru roboty ubudlo, poprichodili hostia, ktorých doviezol   na korbe Peter z mesta. Boli to traja švagrovia pána majstrovi so   svojimi rodinami, jeden z nich tiež mlynárskeho náboženstva, z   dolného mlyna pod pivovárom, ktorý prišiel so ženou na svojich   saniach. Ako hovoril, dávno nebolo takej sanice, aká je teraz.
+    </tei:p>
+    <tei:p>
+     V izbe nad stolom visí lampa, osvetľujúc usadivších sa hostí, v   kuchyni na ohništi varia sa v kotle jaternice, klbásy, štekliace   svojou vôňou nosy uzimených hostí. Na stole „kotlovina“, obar,   hriato, čerstvé krapne a čochvíľa priniesli aj do­varené „hurky“ a   klobásy. Netreba veľmi núkať nikoho, každý zajedá si i upíja s   chuťou, iba mlynár Vodný z dolného mlyna dá sa núkať do pitia, na čo   mlynár Korec, ktorý sa práve chválil, že koľko vážily jeho bravy,   štrngnúc si so všetkými, povie:
+    </tei:p>
+    <tei:p>
+     „Hja, ten vám je už pyšný na hriato, keď ma pod nosom pivovár.   Teraz súka len pivo, veď aj poznať na ňom, tučnie na vidomoči. Mal si   aj sem priniesť z neho aspoň malý súdok. Choďte ale k nemu na   hostinu, nuž vás ponúkne s pe­čenou kukuricou na riečici.“
+    </tei:p>
+    <tei:p>
+     „No, no švagre, neuznávaj ma za takého skupáňa“, protestuje   urazený Vodný. „Na dnes týždeň budem ja zakáľať a vtedy príďte všetci   ku mne, aby ste sa presvedčili, že vás budem hostiť aspoň takto, ako   tu, ak nie lepšie. Aj toho piva sa napijete u mňa.“
+    </tei:p>
+    <tei:p>
+     No je tu medzi hosťami i jedna, do rodiny nepatriaca osoba,   zavítavšia sem ešte za rána, s ktorou musíme sa bližšie   oboznámiť.
+    </tei:p>
+    <tei:p>
+     Je to Lenčo zo Sučian, bývalý šefraník, chlap medzi štyridsiatkou   a päťdesiatkou, ktorý sťa taký večitý „krajánek“ putoval od mlyna k   mlynu, zja­vujúc sa vo mlyne „na Tureckom“ dva-tri razy do roka. Teraz   práve naďabil v taký dobrý čas, ani čo by bol uhádol, že i pán   majster povedal:
+    </tei:p>
+    <tei:p>
+     „Vari zavoňal kujon z ďaleka, že budeme zakáľať, alebo mu to   nejaký zmak pošepol, keď práve dnes k nám dotiahol.“
+    </tei:p>
+    <tei:p>
+     Ale ho aj pritiahli — ako inokedy — hneď pomáhať a musel z rána tu   brava za ucho držať, tu pri obáraní a obriadení asistovať alebo   nasýpať na kôš, keď Peter nestihnul odbehnúť. Vždy mali preňho nejakú   robotu, aby sa len tak na nich nedíval a daromne nepostával.
+    </tei:p>
+    <tei:p>
+     Teraz si už aj on oddychuje po štrapáciach zabíjačky a sediac za   stolom pri okne rozpráva o svojich kúskoch a zkúsenostiach v Rusku,   kde kedysi za mladších liet šefraníčil a olejkáril.
+    </tei:p>
+    <tei:p>
+     Pán majster, ktorý už zunoval počúvať jeho šibalstvá, nadal mu do   šarlatánov, žeby už prestal tie staré hriechy spomínať. Potom nalejúc   do po­hárikov, kázal mu, aby rozprával radšej, čo no­vého naslýchal od   toho času, čo nebol vo mlyne, keď sa vláči sem a tam po mlynoch a   kdekade inde, i počuje, zkúsi všade niečo, kdežto k nim do mlyna   málokedy zaveje vietor nejakú novinu.
+    </tei:p>
+    <tei:p>
+     „Hm,“ odvetil Lenčo a vytrúsiac pohárik do dna so svojím   príslovím: „hopsa duša, utopíš sa“, začal:
+    </tei:p>
+    <tei:p>
+     „Nuž dobre, rozpoviem vám, čo sa prihodilo toť nedávno hore   vidiekom, mlynárovi na Čeremošnom, o ktorom aj vy tu chyrujete.   Prišiel vám k nemu v jaseni pozde večer akýsi človek, čo chodil s   medveďom, teda taký medvediar a pýtal si nocľah od neho. Mlynár sa   zprvu zdráhal, lebo neznámemu človekovi nedôveroval, konečne ale dal   sa uprosiť a dovolil milému medvediarovi prenocovať v mlynici. Čo ale   s medveďom? Aj tomu našli nocľah. Mal mlynár prázdny svinský chliev,   odkiaľ bol brava deň pred tým predal, i uložili ta medveďa na slamu.   Išli spať. Tu zrazu okolo polnoci vyburcuje ich zo spania nehorázny   krik a rev, ktorý sa strhol na dvore. Mlynár pre­budí sa a myslí si,   že to jeho nocľažník vystrája tam niečo s medveďom. Chytro sa   oblečie, zahodí na seba kožuch, zobudí tovaryša a soberúc flintu, idú   s lampášom na dvor. V ten čas vybehol z mlynice i medvediar a tu   vidia na dvore pred chlievom, že medveď je von a kohosi tam na zemi   gniavi a zauchuje, až milá vec. Ten ktosi pod ním kričí z celého   hrdla na ratu, medveď reve a mumle, až tu jeho gazda priskočí a   do­chytí ho za reťaz, aby oslobodil podriapaného človeka. Bol to   zlodej, čo prišiel mlynárovho pre­daného brava ukradnúť. Keď ale   otvoril dvercia na chlieve a hmatal tam za bravom, vyrútil sa na neho   medveď a bol by ho vari roztrhal, keby ho neboli obránili.“
+    </tei:p>
+    <tei:p>
+     Tu zamiešal sa do reči pán majster, hovoriac: „Veru sme aj my tu   museli dávať pozor na statok, lebo tu sa najdú tiež takí zlodeji.   Hľa, lanského leta ukradli Podkoníčania z fabriky u Haftíkov v   Priehrade teľa a upiekli ho tu na starom riečišti vo vrbinách. Potom   zase akísi Taliani z tehelne kradli prasce, mačky, psov, čo prišlo   pod ruky a piekli vraj pri pálení tehly. Mali sme strachu dosť, no   chvála Bohu, nezkapalo nám posiaľ nič“
+    </tei:p>
+    <tei:p>
+     „Nuž a to viete vari,“ ozval sa Lenčo, „keď sme už pri medveďovi,   že medveď pochodí z mly­nára!“
+    </tei:p>
+    <tei:p>
+     „Ba ešte čo,“ zhrozil sa pán majster. „Choďte, vy táradlo   voľáke!“
+    </tei:p>
+    <tei:p>
+     „Ba veru som to ja tak počul, že keď Pán Kristus ešte po svete   chodil, chcel ho raz jeden mlynár nastrašiť a schoval sa pod most,   kadiaľ išiel Kristus. Odtiaľ potom mumlal na neho, na čo Kristus   premenil ho z pokuty na medveďa, z bie­leho na čierneho. Celkom tak,   ako toho žida, čo sa skryl pod koryto, na sviňu.
+    </tei:p>
+    <tei:p>
+     „A to zase ako?“ tázali sa všetci.
+    </tei:p>
+    <tei:p>
+     „Nuž a či ste ešte o tom nepočuli? Chceli vraj židia zkúšať   Krista, či je ozaj taký vševedúci, i kázali mu hádať, že čo je pod   korytom, kam vopred jednoho žida skryli. Na to Kristus odpo­vedal, že   vraj sviňa. Židia sa tešili, že ho dostali, no stŕpli, keď podvihli   koryto a odtiaľ vyšla skutočne sviňa krochkajúc. Kristus totiž   premenil toho žida z trestu na sviňu. Tak mu bolo treba, načo liezol   ta, kam ozaj len sviňa patrí, pod koryto. Od toho času nejedia židia   sviňského mäsa. My ale nie sme takí blázni, my si to veru s chuťou   zajeme, nošak, pán majster,“ doložil Lenčo, kladúc do úst hodný kus   klbásy.
+    </tei:p>
+    <tei:p>
+     „Čo to všetko vie táto draň,“ pokrútil hlavou pán majster,   nalievajúc do prázdnych pohárov. „No, na zdravie! Nech nás pán Boh   živí, aby sme ešte moc takých bravov pochovať mohli — v našich   ža­lúdkoch.“ Slovám „šarlatán“ a „draň“ naučil sa od Lenču, ktorý ich   ako bývalý šefraník často užíval.
+    </tei:p>
+    <tei:p>
+     Také historky vedel vyprávať zakaždým náš Lenčo a pobavil s nimi   prítomných. Vždy mal o čom rozprávať. O všelijakých novinkách, čo sa   tam a tam stalo, čo v tom lebo onom mlyne nového, kde bola a bude   muzika, ako mlynár na Lipovci nedávno dcéru vydával, atď. Čo sa robí   vo svete, v poli­tike, lebo aj noviny čítaval, a o všeličom inom.
+    </tei:p>
+    <tei:p>
+     Keď skončil Lenčo, jeden z hostí chytil sa do rozprávky o tom   bohatom mlynárovi, čo išiel za kmotra chudobnému učiteľovi a ako ho   tento potom musel po smrti mlynárovej dľa jeho žia­dosti tri noci   strážiť, dve noci vo mlyne, tretiu na cmiteri. Táto rozprávka   nejednomu menovite z tých mladších nahnala husiu kožku na telo, keď   bola reč o tých troch čiernych psoch, čo prišli lakomého mlynára z   hrobu vyhrabať, a o trojkráľovej kriede, tak že boli radi, keď ktosi   po zakončení rozprávky zvolal:
+    </tei:p>
+    <tei:p>
+     „Nech nám teraz ukáže Lenčo tie čarodejstvá s jeho tajomnými   vinšami.“
+    </tei:p>
+    <tei:p>
+     Lenčo sa ani najmenej nezdráhal, ale vstal a zamieril k svojej   kapse, na peci složenej. Vytiahol z nej neveľkú, dobre zazatkovanú   sklenicu a postaviac ju na stôl, spýtal sa, že kto chce mať vinš.   Najprv pán majster, ako hostiteľ, vytiahol šestáčik a podajúc ho   Lenčovi, pýtal si vinš. Na to Lenčo vyňal z kapsy kopu svitých   papierikov, ukázal ich hosťom, že sú všetky čisté a že je na nich nič   nie popísané, potom otvoril pozorne fľašu, vložil do nej chytro jeden   papierik a zapchal zase. O chvíľu vytiahol „recept“ von a podal ho   pánu majstrovi. A hľa, na papieri bolo vídať jasne peknými,   cifrovanými písmenami ľubozvučný vinš o tom, aby pán majster ešte   mnohé a mnohé roky mohol ľudí múkou zaopatrovať a pri tom čím   častejšie také hostinky, ako je dnešná, pri stálom a dobrom zdraví   svojim hosťom pripravovať.
+    </tei:p>
+    <tei:p>
+     Každý sa čudoval a krútil hlavou, ako je to vraj možné také   čarodejstvo: na čistom papieri vykúzliť taký pekný vinš. I brali ho   radom všetci do ruky a čítali fialkovým atramentom písané litery.   Potom dali si aj ostatní ťahať vinše a hľa, na každom bolo niečo   iného, lichotivého napísané. Lenčo sa len usmieval a fabrikoval vinše   usilovne, že sa mu len tak šestáky kopily vo vrecku. Pán majster,   zvedavý, žiadal už teraz, aby mu dal nazreť do tej fľaše, či je reku   tam nie skryty voľáky „Paprika Janči“, čo tie vinše píše. Keď nazrel   do nej a privoňal, zmrštil nosom a odpľúval:
+    </tei:p>
+    <tei:p>
+     „Fuj, bouprisám, veď vám to smrdí ani záp.... ani zosmradené   vajcia. Kieho beťaha že to tam máte, Lenčo, vari voľáky „Salzgeist“?   Nie div potom, že ten smrad vyžerie tam tie litery, ale ako, či to   čaríte voľajakým spôsobom?“
+    </tei:p>
+    <tei:p>
+     Po dlhšom naliehaní priznal sa konečne Lenčo a vyjavil svoje   tajomstvo. Že totiž na ceduľky vopred doma popíše citronovou šťavou   svoje vinše a tieto potom pod vlivom plynu, vo fľaši uzavreného,   očernejú. Že z akých chemikálií povstáva tento plyn, to už nechcel   vyzradiť. To bolo celé jeho čarodejstvo, čomu sa od ktoréhosi   apatekára naučil a s čím sa už toľko ráz tu produkoval, na čo ale   dosiaľ nikto neprišiel.
+    </tei:p>
+    <tei:p>
+     Teraz, keď už ten jeho „kunšt“ v očiach pána majstrových nebol   viacej ničím zvláštnym, ozval sa tento:
+    </tei:p>
+    <tei:p>
+     „Hm, ale také kunšty by ste mali vedieť, ako ten mlynársky   tovaryš, čo s tým mechom chodil po mlynoch a hádal, kde je čo   uschované.“
+    </tei:p>
+    <tei:p>
+     Lenčo, ako taký starý vrabec, už dávno v pä­tách zodral túto   rozprávku, ale k vôli ostatným rozpovedal pán majster, ako sa traja   bratia po smrti otcovej o dedictvo delili a najmladšieho s kožou z   vola vyplatili. Tento potom zašil do nej muchy a hybaj s ňou na   vandry. Prišiel do mlyna, kde nebolo pána majstra doma, len mlynárku   zastihol, ako práve hostila frajera vínom, pečienkou a koláčmi.   Pocestného len tak odbyla a poslala na poval nocovať. Tento potom v   noci cez škáru všetko vy­striehol, aj to, že kde skryla mlynárka dobré   veci aj milenca, keď pán majster nenadále dotiahol domov. Tento potom   zavolal pocestného z pôjdu dolu a chcel ho niečim skromne počastovať.   Po­cestný ale povedal, že on so svojím mechom pričaruje lepšie veci na   večeru. Potriasol s kožou a priložil ucho, muchy zahučaly a on   rad-radom od­halil na podiv mlynárov, že kde je skryté víno, pečienka   aj koláče a naposled, keď sa už s mly­nárom dobre najedli a mlynárku   čert bral od zlosti, vyjavil so svojím mechom aj to, že kde je skrytý   frajer mlynárkin. Tohoto potom vytiahli z komory a dobre potrestali,   aby mu odišla chuť od záletov.
+    </tei:p>
+    <tei:p>
+     „Nuž tu veru netreba robiť také kunšty, lebo tu je všetko na stole   hotové a niet vari nič skry­tého. A keď by aj bolo, už by som to bol   od rána vypátral, keď som na poludnie odbehol potajomky do izbice   vinše pre celý večer popísať,“ poznamenal Lenčo, keď pán majster   skončil rozprávku, na čo mu tento pohrozil prstom, hovoriac:
+    </tei:p>
+    <tei:p>
+     „Neviem, či ste aj vy tam niekde v Ruskej ne­chodili po takých   záletoch, ako ten frajer v tom mlyne, keď tak často spomínate to   šefranícke porekadlo, že vraj najlepšie veci sú tri: „hus pečená,   fľaša vína a pekná žena.“ No ale dopime si a zajedzme niečím, lebo   človeku pri rozprávaní aj gágor vyschne.“
+    </tei:p>
+    <tei:p>
+     Mlyn medzitým ustavične rapotal, lebo zima trocha uľavila a vody   pribudlo natoľko, že dalo sa mleť na jedno koleso. Peter musel vše   odbehnúť do mlynice nasýpať, až zrazu, keď prišiel dnu, obrátil sa na   neho Lenčo s otázkou:
+    </tei:p>
+    <tei:p>
+     „Nuž, Petrík, a či si už videl „hastrmana“?
+    </tei:p>
+    <tei:p>
+     Peter odvetil, že veru nie.
+    </tei:p>
+    <tei:p>
+     „No, si mi ty za neho, to si ty teda ešte málo zkúsil. Daj si ale   pozor, to ti hovorím, lebo hastrman teraz v zime, keď voda zamrzne a   pod ľadom mu je dlhý čas, vychodí zpod kolies do mlynice a tam sa   učupí do kúta alebo drieme medzi vrecami. Aby si tam niekde nezavadil   o neho, lebo by mohol všeličo s tebou postvárať.“
+    </tei:p>
+    <tei:p>
+     „Nože ho nestrašte,“ ozval sa pán majster, „lebo mi potom večer   ani do mlynice nevýnde. Tak ako vtedy pre toho krokodíla, čo mu toľko   strachu nahnal.“
+    </tei:p>
+    <tei:p>
+     Všetci sa hlučne zasmiali, i Lenčo, ktorý vedel tiež o historii s   krokodílom, tak že Petrik vybehol od hanby von do mlynice, už   nedbajúc, či ho tam niekde ten „hastrman“ za nohu nechytí.
+    </tei:p>
+    <tei:p>
+     „Však ste vy, pán majster, boli pri tej poľovačke na krokodíla   „oberjágerom“,“ ozval sa zas Lenčo pri všeobecnej veselosti, na čo   zas pán majster prišiel do rozpakov a štrngnul si radšej s   hosťami.
+    </tei:p>
+    <tei:p>
+     „Mali ste radšej usporiadať poľovku na takéhoto zvera, čo ľuďom   pohánky sožiera, ako kdesi boli urobili,“ poznamenal ešte Lenčo,   krá­jajúc si jaternicu na tanieri.
+    </tei:p>
+    <tei:p>
+     Čas míňal sa chytro, blížila sa už jedenásta hodina, hostia začali   sa sberať domov. Mlynár poslal Petra zapriahať do obidvoch saní a   vediac, že si Peter počas večera uhnul z viacerých po­hárikov,   nezabudol ho napomenúť:
+    </tei:p>
+    <tei:p>
+     „Nože, Peter, pozor pri priahaní, aby si ne­pochodil tak, ako sa   kdesi bolo stalo po hostine, že kočiš miesto hlavy podvihol koňovi   chvost a zakričal: „zube! kde si?“
+    </tei:p>
+    <tei:p>
+     Keď vonku odznel cengot saní, hostí odváža­júcich, domáci pobrali   sa na odpočinok a z hosti pozostavší Lenčo po dennej práci unavený   tiež roztiahol sa na lavici pri kozube, kde mal postlané a uprostred   príjemného klepotu mlyna zaspal čo chvíľa snom spravodlivých...
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     O mlynárskych remeslách a o   muzikách.
+    </tei:head>
+    <tei:p>
+     Ešte sme sa nezmienili o tom, že akí viac­násobní majstri boli a sú   aj teraz naši páni mly­nári, lebo mimo svojho poctivého mlynárskeho   remesla vyznali sa oni a vyznajú aj v iných re­meslách, súvisiacich   viac-menej s ich hlavným zamestnaním.
+    </tei:p>
+    <tei:p>
+     Nehovoriac u rybárstve, ktoré je predsa hračkou každému mlynárovi,   vládnúcemu viacerými sakmi, dražiakmi alebo i sieťou, a mimochodom   spomenúc i poľovníctvo, lebo mlynári, bývajúci blízo hory, zapoľujú   si s flintou — keď aj nie na krokodíla, ako majster Korec — ale na   divinu našich lesov, rozumeli sa v prvom rade dobre mäsiarstvu, lebo   brava zaklať alebo rožný statok popraviť, obriadiť a posekať bolo im   tiež hračkou, keď aj nie kaž­dému, no našlo sa moc takých majstrov   medzi nimi. Majster Korec síce nepestoval toto remeslo, ale jeho   mladší brat v zimnej dobe nestačil chodiť po meste za týmto   zamestnaním, ako začaly sa zabíjačky.
+    </tei:p>
+    <tei:p>
+     Potom nasleduje druhé, o moc vážnejšie ich remeslo, totiž   tesárstvo a či „crmománčina“, ako ho oni napospol nazývajú. Toto už   skôr súvisí s mlynárstvom, nežli mäsiarstvo. Každý, na dačo súci   mlynár musí vedeť obratne narábať s tesárskymi nástrojmi, ako   sekerou, toporom, dlátom, nebožiecom a „meracou šnôrou“, lebo je   znalosť tohoto remesla mlynárovi veľmi na osoh. Keď bolo vo mlyne na   „Tureckom“ treba nejakú dre­venú stavbu vyhotoviť, plot spraviť,   mlynárske zariadenie opraviť, „palce vysekať“, hate do poriadku   priviesť a čo iného zreparovať, vtedy len tak ozýval sa dvor mlynský   od úderov sekerami, toporami, pílenia, vŕtania a sekania, len tak   lietaly triesky sem a tam, až sa široko-ďaleko ozývalo. V taký čas   personál mlyna rozmnožil sa o „sekerníka“ a či „crmomáňa“, ako oni   hovorievali, ktorý nielen že vypomáhal našim mlynárskym tesárom, ale   zdržoval sa tam i po skončení takejto práce, po­máhajúc i pri iných   robotách, pri kosbe, svážaní, oraní, atď. Takým pomocníkom býval vo   mlyne Korcovom „Jano crmomáň“, o ktorom si ešte po­hovoríme. V čas   potreby, keď išlo o väčšiu stavbu alebo prácu a domáci vo mlyne k   tomu nestačili, najali aj dvoch-troch tesárov.
+    </tei:p>
+    <tei:p>
+     Konečne štvrtým a to azda najpríjemnejším zamestnaním bolo   muzikantstvo, ktoré ako by boli naši „bieli“ hudcovia predchytili   svojim „čiernym“ súperom, potomkom Faraonovým. Hoci našli sa mnohí,   čo im už aj vzhľadom na tie zprvu spomenuté mlynárske zaujatia   vytýkali, že vraj „sto rybárov, sto jágrov a sto muzikantov je   dovedna tristo žobrákov“, oni si z toho nič nerobili a hrali veselo   ďalej. V každom mlyne viselo na stene alebo pod hradou 2 — 3. huslí,   v kúte barbora alebo basa, niekde i trúba alebo klarinét. Na trúbe   hrával majster Korec, za čo sa mu potom po­smievali, že vraj takto hrá   na nej: „číru, múky do kapusty, fr, fr, fr!“
+    </tei:p>
+    <tei:p>
+     Tak potom tvorili medzi sebou spoločné sbory, muzikantské bandy,   mlynári z horných mlynov s mlynármi z dolných mlynov a vodcom,   primášom nad nimi býval starý Vodný, ktorý chodieval až so 4 synmi   hrávať. Keď začaly sa na jaseň „hostiny“ (posviacky) a cez fašiangy   muziky (zá­bavy) a svadby na bližšom i ďalšom okolí, vtedy bývali naši   muzikanti takmer každú nedeľu a vo sviatok vždy inde zamestnaní,   vyhrávajúc do skoku i do kola, až sa hory zelenaly, a to do samého   bieleho rána, až sa im käčky parily. Často, keď boly v jeden deň na   viacerých miestach muziky, podelily sa na dva i na tri sbory,   podeliac si pri tom aj úlohy, že kto bude tam a tam primášom, kto   kontrášom, kto basistom alebo barborášom, atď.
+    </tei:p>
+    <tei:p>
+     Nekončili oni žiadne konservatorium, ani „ne­brali hodiny“ od   cigáňov-muzikantov, lež hrali ako naturalisti, a bol by im krivdil   ten, kto by bol vyhlásil ich hudbu za „Katzenmusik“. Zahrali oni   čokoľvek: tak „caprpolku“ ako čardáše, hopspolku, ručníčkový a   kožuškový tanec, ba i valcer a krakoviak.
+    </tei:p>
+    <tei:p>
+     Boiy to časy a nejeden pán majster vzdychne si za nimi! Jedenia,   pitia dostalo sa im do sý­tosti, no a peňazí tiež. Nebolo im treba   vyberať na tanier — ako to robievajú ich čierni kolegovia — lebo im   tanečníci hádzali do husieľ a do basy turáky, groše, dvagrošníky,   toliare, šestáky, dvadsiatniky, rynštiaky ani kostolníkovi do   zvončeka, ba vše vkĺzla i papierová piatočka od väčšieho pána. A keď   tak potom na druhý deň došli domov unavení a nevyspatí a začali na   prostred izby vo mlyne vysýpať obsah huslí a barbory, to sa len tak   rozkotúľalo na všetky strany po kútoch, že ešte aj po týždňoch pri   vymetaní izby vychodily na javo peniaze.
+    </tei:p>
+    <tei:p>
+     Pri takýchto príležitostiach prihodilo sa im všeličo. Nestalo sa   im síce nikdy nič takého, ako tým muzikantom v rozprávke, čo   postretli vlkov a museli týmto vyhrávať, kým sa im všetky struny   nepotrhaly.
+    </tei:p>
+    <tei:p>
+     Raz bolo sa im prihodilo kdesi na muzike, že uprostred najtuhšieho   hrania „caprpoľky“ od­razu, ani čo by odsekol, prestali hrať. Keď   taneč­níci zadivení začali sa dopytovať po príčine, prečo tak urobili,   vstal starý Vodný ako primáš a po­dvihnúc sláčik do vysoka exkusoval   sa nasledovne: „Prosíme za odpustenie ctenú spoločnosť, ale kontráš   nám zmýlil! Musíme začať znova!“ Potom ale, akoby nič, pokračovali   ďalej.
+    </tei:p>
+    <tei:p>
+     Inokedy zas, keď primáš Vodný pojal so sebou hrať aj svojho   najmladšieho syna, tento ako za­čiatočník ešte nebárs chýrne narábal   so sláčikom a preto pán primáš uprostred hrania klepol mu na hlavu   sláčikom a zahriakol ho slovami: „Chlapče, nože mi ho poriadne hraj,   lebo ma bouprisám zkonfrontuješl“
+    </tei:p>
+    <tei:p>
+     Na svadbe v ktoromsi mlyne boli svedkami nasledovného výjavu:   Prišiel na svadbu nejaký sváko z dediny, nachodiacej sa niekde „pánu   Bohu za chrbtom“, a tento nielen že sa nasýtil ani „sedliak na   Vianoce“, lež chcel zo svadobnej ho­stiny odložiť niečo aj pre svojich   doma ponecha­ných. Naplnil si teda priestranné vrecká svojho kabáta   tak koláčmi, ako aj pečienkami celkom bez ostiechania a napokon ako   „raritu“ naviazal si do svojej červenej šatky i rýžového nákypu. Toto   vprešoval už na samý vrch, lebo vrecká, bárs hlboké, boly už   preplnené. Prišiel čas tancu. Náš sváko nelenivý tiež vykrúcal radom   družice a nevesty, až tu zo šatky, zle uviazanej a na vrchu vrecka   sediacej, následkom jeho tuhých pohybov začal sa obsah sypať pomaly   von. Sváko rozgurážený to nezbadal a len veselo krepčil ďalej. Keď sa   potom celá svadobná družina dala do hrozného smiechu, sváko myslel,   že sa to jeho výstrednému tancu smejú, a preto tým väčšmi začal   vyskakovať, natriasať sa, že len tak hučalo. Z vrecka sa to ale tým   väčšmi sypalo, že už skákal po tom, ani kedysi Jánošík po hrachu.   Páni muzi­kanti, hoci sa tiež pukali smiechom, rezali tým tuhšie, a   keď sa milý tanečník spamätal na troskách svojej „výslužky“, spustili   „tuš“, na čo sváko ohmatal si vrecká, potisnúc ďalej pečienky, lebo   mu už aj tie začaly z vrecák vykukovať. Dlho spomínali potom naši   muzikanti tento veselý kúsok, akému podobné sa počas ich praxe dosť   často prihodily.
+    </tei:p>
+    <tei:p>
+     A keď tak pán primáš zazrel na muzike ne­jakú švárnu dievčinu alebo   nevestu „petržel pre­dávať“, prišla aj jemu chuť do tanca a to   neodo­lateľnou silou. Odhodiac husle a sláčik, nedbal, nech už hrali   ostatní, ako chceli, pochytil milú ta­nečnicu do kola a šatočkou nad   hlavou natriasajúc dropčil, že sa len tak prášilo, ani čo by už nebol   mal piaty krížik na chrbte, ale len dvadsať rokov, zaspieval si tak   pri čardáši tú svoju domácu:
+    </tei:p>
+    <tei:p>
+     „Na strništi, na vičišti žena muža pásla,
+    </tei:p>
+    <tei:p>
+     A ty mužu, na moj dušu, ty si moje prasa!“
+    </tei:p>
+    <tei:p>
+     Keď to ale videl majster Korec, ani on sa nezdržal, hodil trúbu a   pochytiac tiež tanečnicu, ta sa s ňou do kola! Za ním potom jeho   brat, švagor Vodný, Rafaj, tak že zostali len kontráš s basistom a   tanečníci museli proti tomu prote­stovať, zaženúc milých muzikantov   nazad k inštru­mentom.
+    </tei:p>
+    <tei:p>
+     Potom už k ránu, hoci ledva držali sláky v rukách, predsa s chuťou   rezali posledným taneč­níkom na rozchodnú Rákóciho alebo Radeckého   marš a konečne naložiac svoje inštrumenty do vozíkov alebo saní,   ťahali aj oni domov na zaslú­žený odpočinok. Pri takom návrate raz v   zimnom čase bezmála boli by prišli o barboráša, lebo tento odbočiac   domov na dedinu v Z. ... v chumelici zmýlil cestu a trocha i   potrúndžený dosť dlho blúdil po poli, kým sa horko-ťažko domov   dostal, aj to len pomocou barbory. Začal totiž na nej vŕzgať, na čo   potom ozvali sa z diaľky psi a on idúc za ich štekotom natrafil   šťastne do svojej dediny.
+    </tei:p>
+    <tei:p>
+     A kto by to všetko vyrozprával, čo oni zažili na tých muzikách, o   ktorých sa potom spievavalo:
+    </tei:p>
+    <tei:p>
+     „Bol som včera na muzike, celý deň,
+    </tei:p>
+    <tei:p>
+     Nevidel som mojej milej, nevidel,
+    </tei:p>
+    <tei:p>
+     Ona stala za dverami, plakala.
+    </tei:p>
+    <tei:p>
+     Že jej vzali kacabajku, zlodeja.“
+    </tei:p>
+    <tei:p>
+     Menovite dobré časy mali raz pri jednom švihákovi, ktorý vrátil sa   z Ameriky dobre ope­rený grošom. Keď tomuto vyhrávali, banknoty len   tak lietaly, lebo peniazmi rozsýpal ani magnáš, kýmkoľvek trvaly. Ba   čo viac, od primáša kúpil husle a dal mu za ne päťdesiatku, čo vtedy   bol veľký peniaz a pre pána majstra dobrý zárobok, lebo husle mal   hneď druhé za lacné peniaze.
+    </tei:p>
+    <tei:p>
+     Ako každej pesničke býva koniec, tak i muzikantstvu pánov mlynárov   raz odzvonili. Prišla ne­vítaná konkurencia so strany cigáňskych   sborov, ktoré sa utvorily nielen po mestách, ale i po dedinách, a   páni mlynári ako múdrejší ustúpili. Časom vyšli úplne „z módy“, ako   sa hovorí, a vzdali sa tohoto ich vedľajšieho zamestnania, po­nechajúc   ho potomkom Faraonovým. Husle, trúby a ostatné inštrumenty prišly do   starého haraburdia, Korcova trúba prišla tiež do výslužby a zamĺkla   navždy. Z tých starých, zlatých časov muzikantských zostaly pánom   majstrom len rozpomienky...
+    </tei:p>
+    <tei:p>
+     Z tých dakedajších sborov udržal sa vari iba jeden, a to vo V....   I to sú už starí, vyslúžili muzikanti, invalídi svojho remesla,   ktorých po­smievajú, že vraj „piati majú jedno oko“, lebo sú skoro   všetci oslepnutí. Tí nám, mladým chasníkom, rezali ešte pred 10 rokmi   do skoku.
+    </tei:p>
+    <tei:p>
+     No s týmto srne reč o muzikách ešte ne­skončili, lebo si o nich   ešte pohovoríme.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Ako prišiel starý karabín do potyku   so VII. božím prikázaním.
+    </tei:head>
+    <tei:p>
+     Je toto historka, v ktorej mala účasť i moja maličkosť, že s akými   úmyslami a výsledkom, to hneď uvidíme.
+    </tei:p>
+    <tei:p>
+     Predovšetkým musím vyzradil milým čitateľom, že následkom blízkeho   príbuzenstva s obyvateľmi mlyna „na Tureckom“ je mi možné vedieť tam   odohravšie sa mnohé príhody a deje, ktoré hľa nešetrným spôsobom   verejnosti predkladám. Ná­sledkom toho príbuzenstva mal som prístup do   tejto malej, bohužiaľ už viac nejestvujúcej ríše a tak poznal som   každý kút a každý predmet vo mlyne, kde môj ujec, totiž majster Korec   s jeho bratom, mojím druhým ujcom, kedysi mlynárili.
+    </tei:p>
+    <tei:p>
+     Boli sme tam s bratom ako malí chlapci, menovite v letnej dobe,   každodennými hosťami, veď mlyn bol naším druhým domovom, takrečeno   naším letoviskom. A keď piekol sa tam čerstvý chlieb, vtedy čo priam   z najodľahlejšieho kúta „Sihote“ prilákala nás sťa sysľov vôňa   teplých, mastných „podplamenníkov“, na ktorých sme si pochutnávali,   kolísajúc sa na mincieri, vo mlynici na hrade upevnenom. Škoda vás   milých, bezsta­rostných dní chlapectva!
+    </tei:p>
+    <tei:p>
+     Ako taký dobrý znalec celého mlyna vypátral som, že medzi   všelijakým haraburdím vo mlyne nachodí sa jedna vec, ktorá siala sa   potom pred­metom mojich túžob a snov. Bol to starý karabín, pochodiaci   ešte z kuruckých časov, aspoň dľa tvrdenia ujcovho bolo tomu tak,   ktorý nezabudol pripomenúť zakaždým, že vraj:
+    </tei:p>
+    <tei:p>
+     Keď Kuruci cholili po uhorskej zemi,
+    </tei:p>
+    <tei:p>
+     Také čižmy nosili, ako teraz ženy.“
+    </tei:p>
+    <tei:p>
+     Bol to karabín pekne striebrom vykladaný, s pek­ným kohútikom,   vôbec bola to zaujímavá a pre nás chlapcov príťažlivá starožitnosť.   Vedeli sme o nej už ako malí 7—8-roční chlapci, keď ujcov syn a náš   bratranec nebohý Lajoš (Pán Boh ho tam osláv!) ako 18-ročný šuhaj   streľaval z nej po „Sihoti“ na vrabcov a ďatľov, na vrany a vše i na   potkanov, pod žlebami sa zdržovavších. Oa tých čias ale prešlo pár   rokov a my sme časom na flintu zabudli.
+    </tei:p>
+    <tei:p>
+     Až tu ako 13 —14-ročných žiakov v meštianke odrazu nadišla nás   túžba za nejakým strelivom a to v podobe peknej flobertky. I   rozpomenuli sme sa na karabín vo mlyne, ktorý ožil v našej fantázii   ako pekná, ľahká flobertka, a preto umienili sme si ho stoj čo stoj   zadovážiť. Ale ako? To bola ťažká úloha Vídali sme síce flintu   kedysi, kým nás ešte nezaujímala, viseť na stene vo mlyne, kde ju   ujec i proti zlodejom napohotove držiaval. No časom zmizla ona z   nášho obzoru. Keď začali sme za ňou sliediť po mlyne, nebolo jej   nikde, bola už dobre skrytá niekde. Konečne, keď naše pátranie za ňou   nemalo výsledku, odhodlali sme sa vyrukovať s našou žiadosťou pekným   spôsobom pred ujca. Tento ale odbyl nás na krátko a o vydaní flinty   nechcel ani počuť. Že vraj načo je nám nezkúseným šuhajcom streľná   zbraň ako nebez­pečná vec do ruky, môžeme sa vraj posrieľať, pokaličiť   s ňou, čo by len on mal na svedomí. Že je flinta beztak pokazená, nie   k upotrebeniu a že on ani sám nevie, kde sa teraz nachodí.
+    </tei:p>
+    <tei:p>
+     Čo priam zklamaní, nedali sme sa takýmito rečmi odstrašiť od   svojho predsavzatia i umienili sme si inakším spôsobom k cieľu dôjsť.   Keď nie ináč, neštítili sme sa ani krádežou dôjsť k vyplneniu našej   spoločnej túžby.
+    </tei:p>
+    <tei:p>
+     Keď sme sa už k tomu rozhodli, vybrali sme sa v taký deň, keď   obidvaja ujcovia meškali v meste, do mlyna a využijúc ich   neprítomnosť, podrobili sme mlyn dôkladnej revízii. Peter nám v tom   nemohol prekážať, lebo ho už tam nebolo, vtedy už bol vytretý z   mlynárskeho cechu a pásol niekde na „Hore“ ovce mäsiara   Lastovičku.
+    </tei:p>
+    <tei:p>
+     Najprv prehliadli sme komoru, potom kôlňu, humno, záčinok, povaly,   maštaľ. Nikde nič. Potom hybaj do mlynice! Tam vyšli sme scnodami   hore nad mlynicu a na povale sliedili sme po všetkých kútoch, po   truhliciach za milou flintou, pri čom naďabili sme nenadále na hodnú   zásobu sušených hrušiek a slivák a tieto sme kapitálne podežmovali,   lebo veru pri tom hľadaní sme aj vyhladli. Dobre nám padlo teda   pochutnať si na lahôdke a naplniť si s ňou vrecká. No naše úsilie   predsa neviedlo k ničomu, lebo po flinte nebolo ani stopy.
+    </tei:p>
+    <tei:p>
+     Vtedy odhodlali sme sa zasvätiť do našej veci študenta Kalmana,   bývajúceho vo mlyne ako ďalšia rodina ujcova. Sľubujúc mu   jedno-druhé, prosili sme ho, aby nám dopomohol k flinte. Zprvu   zdráhal sa, nechcel vyjaviť, hoci vedel o nej, bojac sa ujcovho   hnevu, no konečne sdelil nám pud sľubom, že ho nevyzradíme, že flinta   nachodí sa vo mlynici — pod štokom! Toľké časy ju hľadať a na to   nepríjsť! Ako šialení vyrútili sme sa von z izby a v okamihu kľačali   sme obidvaja pred štokom. Zpod neho konečne vyšťúrali sme dávno   hľadaný predmet našich túžob. Ani sme sa mu moc neprizerali, len sme   ho chytro zabalili trasúcimi sa rukami do nejakého vreca, čo sme tam   pochytili, a hajde s ním v nohy! Vyšli sme bočnými dverami mlynice do   záhrady, odtiaľ cez plot, aby nás niekto z okna nezazrel, a potom   cestou do mesta. Z obavy, že by nás mohol postretnúť niektorý z ujcov   a spýtať sa nás, čo vlečieme v tom vreci, udreli sme všade poľom.   Bolo už beztak na mraku a tak prepašovali sme flintu šťastlive   domov.
+    </tei:p>
+    <tei:p>
+     Tu vybalili sme ju dychtive a vzali lepšie pod prehliadku. Ale aké   bolo naše zklamanie, keď sme zistili: po I. že flinta nebola   flobertkou, ako sme si ju dosiaľ predstavovali, lež starý ka­rabín,   mušketa z časov Napoleonových alebo aspoň z časov uhorskej revolúcie.   Bola už hodne stará a ošumelá. Po II. že bola pre nás priťažkou, to   sme už zkúsili, keď sme ju niesli cestou. Po III. kohútik bol   zkazený. takmer celý chyboval a ko­nečne po IV. k nášmu najväčšiemu   zklamaniu flinta nabíjala sa nie od zadu za kohútikom, ale do cievy   fujtášom.
+    </tei:p>
+    <tei:p>
+     Naše plány rozplynuly sa ani hmla. Ešte nedávno, keď videli sme sa   v duchu šťastnými majiteľmi flinty, predstavovali sme si, ako budeme   kráčať na „postriežku“ do záhrady na vrabcov alebo do poľa na ušiaka.   Také sme my mali plány a to teraz všetko bolo fuč!
+    </tei:p>
+    <tei:p>
+     Čože teraz počať s ňou? Zaniesť ju nazad do mlyna a položiť na to   miesto, kde bola, zdalo sa nám zahanbujúcim a odvážlivým kúskom.   Mohol by nás pri tom dochytiť ujec a iste by sa nám uliezlo niečo na   chrbát. Dat ju do reparácie a tak priviesť do upotrebiteľného stavu?   To videlo sa nám zase nebezpečným a s výdavkami spojeným pod­ujatím, k   čomu naše finančné prostriedky nedostačovaly. Čo teda s ňou? To bol   oriešok, na ktorom sme si potom hlavu lámali a nemohli preň v noci   spať. Karabín sme ale dobre ukryli, aby nášmu tajomstvu nikto z   domácich na stopu neprišiel.
+    </tei:p>
+    <tei:p>
+     Z našich rozpakov pomohol nám na druhý deň sám ujec, ktorý dohrmel   k nám nebárs dobre naladený. Ako sme sa pozdejšie dozvedeli, vyzradil   mu študent Kalman, že sme flintu pojali, celkom tak, ako nám   vyzradil, kde sa flinta nachodí. Sotva zbadali sme ujca na prieddomí,   že tam s vozíkom zastal a že zlostne šomrúc šľahá bičom, flintu   spomínajúc, nečakali sme, kým vníde dnu, ale už sme boli oba dobre   skrytí na pôjde za komínom. Ujec vnišiel dnu, narobil krik, pobudnúc   tam za chvíľu, potom vyšiel von, sprevádzaný otcom, ktorý ho tíšil a   nás vyhováral. No on ešte vždy nadával na nás, že aby sme sa mu do   mlyna neukázali, lebo že nás do vody pohádže (toho sme sa ako dobrí   plavci nezľakli), alebo že nás bičiskom vyšváce (toho sme sa už skôr   báli, pred jeho bičom mal každý „rešpekt“). My smiali sme sa v sebe,   vediac dobre, že sú to len prázdne vy­hrážky a že on to tak zle   nemieni. I vykukli sme z povaly nadol na ulicu a tu videli sme, ako   ujec kladie na voz vo vreci zabalenú flintu, nami v izbe napochytre   podstrčenú, ako sadá na voz a šľuhnúc po koňovi uháňa preč. S   obľahčeným srdcom sišli sme dolu z povaly na spoveď k otcovi, ktorý   nás síce vyhrešil, hovoriac, že sme nepekne urobili, dopustiac sa   krádeže, čo vraj nesvedčí sa na ta­kých nedávnych konfirmandov. No keď   predniesli sme obľahčujúce okolnosti: poľovnícku náruživosť,   nerozmyslenosť a cieľ nášho predsavzatia: zastreliť tchora,   chodiaceho do kurínca, bolo nám odpustené.
+    </tei:p>
+    <tei:p>
+     Tým ťažšie bolo by bývalo udobril ujca. Tomu vyhýbali sme dosť   dlhý čas, neukazujúc sa na okolí mlyna, kým neprišla vec trocha do   zabudnutia. Túžba za idyllickým ovzduším mlyna a „Sihote“ konečne   premohla v nás bázeň a v jedno pekné letné ráno odhodlali sme sa   predstúpiť pred tvár ujcovu. Zmraštil čelo, ani čo by si bol na niečo   vzpomenul, potom pohrozil nám prstom, aby sme druhý raz dali flinte   pokoj, lebo vraj „čo ťa ne­páli, nehas“ a s tým bola vec i s jeho   strany vybavená. Nám nebolo treba flintu zapovedať, lebo nám odišla   chuť od nej navždy. Nebola hodna toho zklamania, ktoré nám   pripravila.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Kapitola o žabách.
+    </tei:head>
+    <tei:p>
+     „Čo je to len za chuť a passia sháňaf sa za takou žabäcou   pečienkou, ako by nebolo rýb dosť,“ durdieval sa mlyrár Korec, keď   videl tiahnuť kŕdle Podkoníčanov z fabriky na lov do blízkych   mo­čiarov, na starom riečišti povyše mlyna sa nachodivších. Náhle   pučala sa v pôstnej dobe sezona na žabie stehienka, to len tak   hemžili sa tam lovci, vystrojení košíkami a ozbrojení vidličkami,   ktorými potom korisť z vody vyťahovali. Majster Korec odpľul   zakaždým, keď pomyslel na to, že môžu obľubovať ľudia niečo takého a   pochutnávať si na tomto „pôstnom jedle“. Brr! Ani keď by hladom   umieral, nedotkol by sa takej pečienky. No a keby bol videl to   barbarstvo, páchané pri takom love žiab, keď lovci, napichnúc žabu a   „žabykláčom“ odrežúc jej obidve zadné nôžky, nechali trup ďalej   živoriť na lúke! Bolože to za mäsiarenie a pán majster bol by zaiste   dobre vyobšíval bičiskom účastníkov takého vandalizmu. Nepomyslel   ovšem na zástoj, aký maly žabie stehienka vo vede fyzickej, keď   Galvani kedysi na nich pozoroval účinok elektriny.
+    </tei:p>
+    <tei:p>
+     Ešte keby bol býval katolíkom, bol by sa azda spriatelil s touto   vecou, ale ako luterán na­skrze ju odsudzoval. Menovite preto, že sa s   tým zaoberalo zväčša nežné pohlavie: mladé Podkoníčanky, ktoré s   vykasanými sukňami brodievaly sa sem a ta po močiaroch.
+    </tei:p>
+    <tei:p>
+     „Ak užnemajú čo jesť, vďačne by som im podhodil trocha tej múky,   keď by si pýtaly. Nech by si navarily „džgancov“ a nech by sa   najedly, radšej ako tej hnusnej žabäciny!“ hovorieval pán majster,   ktorý rád naslúchal koncertu žiab dolie­hajúcemu za pekných jarných   večerov až ku mlynu. No obyčajne netrvalo dlho a žaby umĺkly, z čoho   súdil pán majster, že ich tí nenasýtnici dobre preriedili.
+    </tei:p>
+    <tei:p>
+     A že v našom slávnom meste neďaleko mlyna „na Tureckom“ bolo   nadostač tejto lahôdky, toho najlepším dôkazom je i to, že jedna   ulica nazývala sa „Žabiarskou“, a síce preto, že v nej nachodily sa   hodné močiare a v týchto bydlily celé hajná žiab. Tieto síce cez deň   dosť vytrpely od nezbedných chlapcov, zato ale večerami nikým   neznepokojované uspávaly obyvateľov ulice svojím monotónnym brekotom   do sladkého spánku po denných trampotách
+    </tei:p>
+    <tei:p>
+     Majster Korec neveril ovšem takým povedačkám, že by žaba mohla   niekomu „zuby prečítať“, alebo že strygy a bosorky chodievajú medzi   ľudí v podobe žiab a ropuchnačiek, ako sa vraj kdesi bolo stalo, keď   paholok odťal žabe na kláte prednú labku a na druhý deň suseda,   vykričaná stryga, čo ve­dela kravám čariť, chodila s kyptavou,   poviazanou rukou. Čítal bol ale ako chlapec knižku, čo sa ešte i   teraz povaľovala vo mlyne kdesi na poličke pod hradou medzi inými   knižkami a mala nápis „Žabokráľ alebo kráľovskej dcéry zlaté jablko a   s obručovým srdcom sluha“ a myslel si, že kedysi za dávnych čias sa i   také veci prihodily. Veď keby to nebola pravda, akože by to mohli v   knižke opisovať? Keď si na túto rozprávku vzpomenul, nie, ani za svet   nebol by sa dotknul žabej pečienky.
+    </tei:p>
+    <tei:p>
+     Raz ale prihodilo sa predsa, že aj pán majster okúsil túto   nenávidenú pečienku a pochutnal si na nej! Pravda nenazdajky, čo   narafičil ten kujon Roháček, obuvník z mesta, ktorý do mlyna často   chodieval a vedel dobre o tom, v akej láske prechováva pán majster   delikatessu pod menom žabích stehienok, ktorej on, Roháček, bol   veľkým milovníkom. I umienil si, že potraktuje s ňou i pána majstra,   čo sa mu aj podarilo s fígľom. Za to sa ale potom nesmel do roka vo   mlyne ukázať, kým sa pán majster neudobril, lebo by ho bol do vody   hodil.
+    </tei:p>
+    <tei:p>
+     Roháček býval častým hosťom vo mlyne a všeličo nového už ta   priniesol na „koštovanie“. Keď prišla do „módy“ káva a vo mlyne o nej   ešte ani nechyrovali, on bol prvý, čo ju ta doniesol a nechal tam z   nej, mysliac si, že pani majstrová už bude vedieť ju pripraviť. Táto   ale nezkúsená uvarila kávu takú, aká bola, surovú, nepraženú na   spôsob fazule, a keď potom takú tvrdú na zobky ochutnávali, nešlo im   nijak do hlavy, ako môžu ľudia niečo takého užívať Mysleli si, že   bude niečo lepšieho, keď im doniesol Roháček druhý raz zase ruského   čaju, ktorý v tom čase tiež prišiel na našich stranách do úžitku, a   nechal im ho zase bez návodu, čo s nim urobiť. Čaj uvarili a odvar   vylejúc, začali lístky žuvať. Ani to im nechutilo, až tu naďabil sa   ta šefraník Lenčo a ten ich poučil, ako to majú pripraviť. Nuž veď   kedysi so zemiakmi ľudia tiež nepochodili ináč: dľa rozprávky v   Europe po prvý raz na akejsi hostine nastolili zemiakové bobule a o   zemské plody sa ani nezreli, kým ich voľáky záhradník v pahrebe   náhodou neupiekol.
+    </tei:p>
+    <tei:p>
+     No ale teraz je reč o žabách a o žabích stehienkach a my sme až ku   zemiakom odbočili. Predsa treba nám vyrozprávať to, že akým spô­sobom   navnadil sa mlynár Korec na tú ním opovrženú pečienku.
+    </tei:p>
+    <tei:p>
+     Raz vybral sa totiž na vozíku do mesta múku rozvážať a zatiahol i   na „Riadok“ k svojmu pria­teľovi Rohačkovi. Mal pre neho robotu v   podobe čižiem, ktoré bolo načim podraziť.
+    </tei:p>
+    <tei:p>
+     Vníduc do kuchyne, zarazila ho akási príjemná, nos štekliaca vôňa   škvariacej sa pečienky, a že bolo už pred obedom, pánu majstrovi veru   začaly sa sliny sbiehať v ústach. Keď potom v dielni oddal Roháčkovi   čižmy do ďalšej manipulácie a zasadol si ku verpánku na nabídnutú mu   trojnohu, nezdržal sa otázky:
+    </tei:p>
+    <tei:p>
+     „Čože to takého dobrého kuchtíte dnes v ku­chyni, veď vám celý dvor   od toho rozvoniava?“ Na čo Roháček mrknúc očami na tovaryša a učňov,   aby vec nepokazili odpovedal s úsmevom:
+    </tei:p>
+    <tei:p>
+     „Averu mladých vrabcov vybrali kdesi z hniezda títo moji šarvanci   a dali si ich usmažiť. Bolo ich hodne, no a to viete, že taká   vrabčacina je deli­kátna vec “
+    </tei:p>
+    <tei:p>
+     To počul už aj pán majster, že to má byť dobrá pochúťka, ale zo   zkúsenosti ešte nevedel, hoci ako malý chlapec tiež rád vrabce   vyberával. Preto nezdráhal sa ani najmenej, keď ho Roháček hneď aj   invitoval na tú pečienku, vyduriac jednoho z učňov pre litrík vína,   aby to vraj išlo hladšie dolu hrdlom.
+    </tei:p>
+    <tei:p>
+     V izbe posadil pána majstra za stôl a odbehol do kuchyne, aby   zasvätil do veci aj svoju polo­vičku. Keď potom tato priniesla na   prikrytý stôl s usmievavou tvárou na tanieri pariacu sa lahôdku,   nebolo treba núkať pána majstra ani najmenej. Hneď oddal sa s dobrým   apetítom do jedla. Boly to na vajíčkach vyprážané kúsky drobného,   výborného mäska, ktoré sa len tak rozplývalo pod zubami. Roháček   nalial vínka do pohárov a štrngol si s pánom majstrom na zdravie.
+    </tei:p>
+    <tei:p>
+     I díval sa, ako nenútene strovil pán majster celý obsah dobre   naloženého taniera, zajedajúc chlebíkom a zalievajúc vínkom, a keď už   prehltol posledný kúsok, spýtal sa ho s úsmevom:
+    </tei:p>
+    <tei:p>
+     „Nuž akože vám chutilo, pán majster?“
+    </tei:p>
+    <tei:p>
+     „A veru bolo to veľmi dobré! Len to mi je čudné, že bolo to také   chrumkavé a nemalo žiad­nych koštialikov.“
+    </tei:p>
+    <tei:p>
+     „To je preto, pán majster,“ vysvetľoval Roháček, „lebo také   vrabčatá majú ešte veľmi slabé kosti.“
+    </tei:p>
+    <tei:p>
+     „Hm, to je pravda, veru také mladé vtáčatá nemôžu mať kosti ako   starý vrabec,“ prisvedčil pán majster.
+    </tei:p>
+    <tei:p>
+     V tom vnišla dnu domáca pani a pán majster držal si za povinnosť   poďakovať sa jej za pohostenie a spolu pochváliť jej kuchárske   umenie. Tu zrazu obráti sa na neho Roháček s nečakanou otázkou:
+    </tei:p>
+    <tei:p>
+     „A dali by ste sa takto aj so žabäcou pečien­kou počastovať? Však   ver by ste ňou nepohrdli!“
+    </tei:p>
+    <tei:p>
+     Pán majster zvraštil tvár a s opovržením odvetil:
+    </tei:p>
+    <tei:p>
+     „Ja som to nikdy nejedol a ani za celý svet by som to do úst   nevložil, čo by boly priam na aký spôsob pripravené. Veď ja mam rýb   dosť, keď chcem, a keď aj to nie, nuž radšej kutle a či pacale   zjem.“
+    </tei:p>
+    <tei:p>
+     „No a čo by ste mi tak povedali, keby som vám miesto vrabčaciny   predložil žabie stehienka na vajíčkach vyprážané? Nošak by ste sa   nena­hnevali!“
+    </tei:p>
+    <tei:p>
+     Pánu majstrovi začala byť vec už podozrivou, no ešte vždy neveril,   že by mohol byť vo veci fígeľ, až tu, keď sa Roháček rozrehotal a   vykríkol:
+    </tei:p>
+    <tei:p>
+     „Pán majster, či vám tie vrabce nečvirikajú v žalúdku takto:   brekeke-krk?“ a keď sa aj domáca dala do smiechu, uhádol, koľko bije,   a začal sa hniezdiť a cítiť všeliako. Keby bol hrom vedľa neho udrel,   ani vtedy by nebol tak stŕpol, ako teraz, a darmo ho núkal Roháček,   aby si vraj dopil, že však je nie nič na tom, aby si z toho nič   nerobil, človek nevie, čo mu na úžitok padne, aby nebanoval za tým,   čo s chuťou zjedol, pán majster takto ošudený odišiel nahnevaný preč.   Sadnúc do vozíka, pošibal zlostne Šimľu po chrbte a mal sto chuti —   Dávida žalmy spievať.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     „Sen noci svätojánskej.“
+    </tei:head>
+    <tei:p>
+     Bolyže to za časy kedysi, keď pálievaly sa ohne v predvečer dňa   Jána Krstiteľa. Teraz už len málokde udržal sa tento pekný zvyk,   miesty zanikol úplne, vyhynul spolu s inými obyčajmi.
+    </tei:p>
+    <tei:p>
+     Deň Jána je veľavýznamným dňom v roku pre náš pospolitý ľud a v   gazdovskom kalendári patrí mu vynikajúce miesto. V tom čase je v   prúde kosba sena; polia, lúky a nivy len tak ozývajú sa od veselých   piesní hrabačiek. Vtedy sú najdlhšie dni v roku, dozrievajú jahody a   mnohé liečivé byliny (ako na pr. materina dúška) dľa viery ľudu majú   len do tohoto dňa svoj účinok, pozdejšie sbierané ho už vraj   nemajú.
+    </tei:p>
+    <tei:p>
+     Býval to významný deň i vo mlyne „na Tu­reckom“. Ako malí chlapci   ledva sme sa dočkali v predvečer Jána, aby sa sotmilo, žeby sme sa   mohli ísť podívať do mlyna na „illumináciu“, pri­pravovanú každoročne   Korcovým nebohým synov­com Lajošom (nech mu je zem ľahká!) Ten totiž   prichystal na „malom moste“ hŕbu suchej čečiny a keď shromaždilo sa   hodne divákov, zapálil ju, podnesúc do výšky na žrď upevnenú ohromnú   horiacu viechu, ktorá ožiarila svojim plameňom celé okolie mlyna, aby   bolo oheň aj z mesta videť. S takými horiacimi viechami chodili sme   potom okolo mlyna a vedľa vody, čo z diaľky vyzeralo akiste, sťa by   sa tam buly svetlonosy hore-dolu pohybovaly. Že pri tom bolo   zachovávané i pra­vidlo „opatrujte svetlo, oheň, aby nebol ľuďom   škoden,“ nemusím snáď dokladať, a nestalo sa nikdy nešťastie.
+    </tei:p>
+    <tei:p>
+     Inokedy zas zaopatrili sme si niekoľko fakieľ zo zásoby,   nachodivšej sa po nejakom fakľovom pochode v drevárni štátnych škôl,   a so zapálenými fakľami pri sprievode starších ľudí vymašírovali sme   na vŕšky za mlynom. Tam stanúc si do radu, svietili sme pozde do   noci. Raz zišlo komusi na um i „rachétle“ púšťať z „veľkého   mostu“.
+    </tei:p>
+    <tei:p>
+     No nielen pri mlyne, ale i po okolitých a vzdialenejších kopcoch,   na vyvýšených miestach bolo vídať ohne, ba i na „hoľach“ a po horách   blčaly kde-tu vo výške vatry pastierov. Pekná obyčaj táto — bohužiaľ   — v novšom čase v tých stranách už zaniká a len kde-tu zazreš na Jána   za chvíľku plápolajúci ohník, akoby posledný záblesk niekdajších   svätojánskych ohňov, odobierku od minulosti.
+    </tei:p>
+    <tei:p>
+     V taký predvečer svätojánskej noci došiel bol tovaryš Petrík v   ružovej nálade domov do mlyna z mesta, kde bol kupovať struny pre   pána majstra. Tento sberal sa totiž na druhý deň — Jána padlo vtedy   na nedeľu — hrať s kapellou Vodný  Comp. na blízku dedinu, kde   býval každoročne na Jána majáles a či juniáles.
+    </tei:p>
+    <tei:p>
+     Petríka nezaujímal veľmi „ohňostroj“ Lajošov, lebo on mal iné   plány pre dnešný večer. Počul on rozprávať čosi o tom tajomnom   „svätojánskom kvietku“, ktorý kvitne vraj len jediný deň v roku, a to   v predvečer Jána, a ktorý ukáže všetky pod zemou skryté poklady tomu,   kto ho do moci do­stane. I umienil si, že stoj čo stoj vyhľadá ten   kvietok. Veď azda nájde sa i na „Sihoti“, kde rástly všelijaké   kvietky, že bola úľuba pohliadnuť na ten pestrý koberec kvietkov, keď   vyšiel Petrík vše na „lavice“. Sihoť bola ešte neskosená, stro­jili sa   ju len na tretí deň, v pondelok, kosiť.
+    </tei:p>
+    <tei:p>
+     Sotva veril dočkať, aby sa paráda s ohňami skončila, a bol celý   večer ani na tŕňoch, želajúc si, žeby sa čím skôr rozišlo všetko   preč, lebo bolo vo mlyne a navôkol dosť živo. So svojím úmyslom   nesdôveril sa ovšem nikomu a nechcel do toho zasvätiť nikoho. Chcel   to len sám na svoju päsť podujať.
+    </tei:p>
+    <tei:p>
+     Keď sa vôkol mlyna všetko utíšilo, bolo už blízo jedenásť hodín a   čas ísť na odpočinok Petrík ale ani nepomýšľal spať. Nasypal hodne do   koša a poobzeral sa dôkladne po mlynici, či je všetko v poriadku. Keď   presvedčil sa, že si vo mlyne už všetci políhali, sobral sa potichu   cez „lavice“ na Sihoť. Nebola úplná tma a Petrík mal dobrý, bystrý   zrak, preto trúfal si ten čarovný kvietok i potme vynájsť. Aby ale   nepochodil tak, ako ten valach, ktorému sa ten kvietok náhodou za   re­mienok na krpci zachytil, tak že kým ho tam nosil, videl pred sebou   všetky poklady v zemi zakopané, keď ale išiel baču a honelníkov   zavolať, ztratil kvietok a pokladov viacej nevidel, Petrík vybral sa   k vôli istote bosý. Však bol naučený bez obuvi chodievať a po tráve   na Sihoti sa to tak mäkko stúpalo, ani po tých najlepších   kobercoch.
+    </tei:p>
+    <tei:p>
+     Bola pekná, teplá noc, hore na nebi trblietaly sa hviezdičky, dolu   zas svietily tu i tam sväto­jánske mušky v tráve a po krovinách, keď   Petrík sohnutý sliedil za kvietkom. Nevedel síce, ako vyzerá, ale   tušil, že to musí byť nejaký neobyčajný, zvláštny kvietok, ktorý nedá   sa len tak prepásť. Najskôr bude biely, myslel si, a ak by bol   inakšej barvy, červený lebo žltý, i tak ho zbadá, veď on poznal dobre   všetky obyčajné kvietky Sihote.
+    </tei:p>
+    <tei:p>
+     Dosť nahľadal sa Petrík všade po Sihoti, i okolo vody pomedzi   nezábudku, i pomedzi krovie, kde sa miesty i popŕhlil na žihľave a   poškriabal na tŕňoch a šípoch. Na to ale nedbal nič, lebo k vôli   kvietku všetko ztrpel. No kvietka kde nič tu nič. Všade belely sa len   králiky, kde-tu bola žltá kozica, ktorú Petrík schrúmal, pochutnajúc   si na nej. Vše zase odtrhol a zažuval si kyslého štialu alebo   rasce.
+    </tei:p>
+    <tei:p>
+     Navôkol bolo ticho, len rieka plieskala o brehy, vše vymrštila sa   z nej veľká ryba, na strome alebo v kroví zašveholil naľakaný vtáčik,   poplašený Petríkovým hľadaním. Tam za vrbinami ozýval sa klepot mlyna   sťa nejaká uspávajúca pieseň. Vatry, ktoré bolo vídať pomedzi   stromovie na diaľnych vŕškoch, pomaly pozhasínaly a nastala číra   noc.
+    </tei:p>
+    <tei:p>
+     Bola už asi polnoc, keď Petrík zunoval hľa­dať a namrzený odbehol   do mlynice nasypať. Potom ale vrátil sa zase nazad, lebo mu ten   kvietok nedal pokoja. Prešiel ešte raz celú Sihoť sem a ta, nazrel   bystrým okom i pod žleby, ku hatiam. Nikde nič. Báť sa nebál ničoho,   veď bol tu i o samote v noci tak bezpečný a spokojný, ani v mlynici   alebo na kozube.
+    </tei:p>
+    <tei:p>
+     Práve zastal pod vysokou višňou, hore ktorou tak radi lazievali   chlapci višne oberať, že ich majster Korec musel s hákom sháňať   odtiaľ dolu. Pod višňou bola mäkká, útla pažiť a Petrík unavený,   utrmácaný usadil sa na ňu. Pár krokov od neho pod vysokým brehom   hučal prúd vody, poniže šplechotala rieka, príjemne lahodiac sluchu,   tak že Petrík počal cítiť sa ospanlivým. Ľahol si horeznačky do   trávy, kde bolo mu pohodlnejšie, nežli vo mlyne na tvrdom kozube a   zahľadiac sa na temné klenutie, ktoré tvorily stromy nad ním, aby   zahnal driemoty, zanôtil si potichu:
+    </tei:p>
+    <tei:p>
+     „Dolina, dolina, dolina,
+    </tei:p>
+    <tei:p>
+     Po nej sa prechodí má milá,
+    </tei:p>
+    <tei:p>
+     Hore dolinečkú, sbiera zelinečku
+    </tei:p>
+    <tei:p>
+     Na moju boľavú nožičku.“
+    </tei:p>
+    <tei:p>
+     A veru nepredarmo si tak spieval, lebo mal ozaj boľavú nožičku.   Pri tom motaní sa hore-dolu vrazil mu tŕň do nohy a začalo ho to   pobolievať. Bola by sa teda zišla nejaká zelinka.
+    </tei:p>
+    <tei:p>
+     No pocit tejto malej boľasti čochvíľa ustúpil únave, ktorá   zmocnila sa Petríka natoľko, že mu víčka na očiach boly ani olovené,   a začal mu „slepý závdavok dávať“. I netrvalo dlho, a tak ho to   prevládalo, že zaspal pekne krásne ani v oleji.
+    </tei:p>
+    <tei:p>
+     Keď Petrík nemohol vynájsť kvietok v sku­točnosti, našiel ho vo   sne. A veru mal závidenia­hodný sen, nie taký ako vtedy, keď sa mu s   tým prekliatym krokodílom bolo prisnilo. Teraz snívalo sa mu, že   prišiel ta pod višňu k nemu nejaký starý, bradatý človiečik, taký   malý, že bol samému Petríkovi iba po pazuchu. Mal na sebe prevesenú   hodnú kapsu, v ruke bakuľu, sťa nejaký vandrovný človek, hlavu šedivú   a obnaženú. Nepovedal nič, len kývnul hlavou Petríkovi na znak, aby   ho na­sledoval. Petrík sa ani najmenej nezdráhal, vstal bez slova a   šiel za ním, nespytujúc sa, kam. Starík viedol ho nejakým úzkym   chodníkom po krásnych kvetnatých lúkach, osvetlených mesač­ným jasom,   po vysokých vrchoch, kde všade na­vôkol bolo hojne všelijakých   utešených, Petríkom nikda nevidených kvietkov. Jemu zapáčil sa vedľa   chodníka akýsi veľký biely kvet so zvončekovou hlávkou a mysliac si,   že je to ten túžobne hľa­daný svätojánsky kvietok, lebo si ho asi tak   pred­stavoval, chcel ho odtrhnúť. No ledva stačil sa sohnúť, kvietok   zmizol a starec pred ním kráča­júc pohrozil mu prstom, ešte vždy   ničoho neho­voriac. Petrík stúpal ďalej za ním a tu zrazu došli k   nejakej ohromnej skale v úzkej, horami obklo­penej doline. Starec   chytil Petríka za ruku a ukázal mu nahor. Tam vo výške na skalnej   stene bolo vídať kvietok neobyčajnej podoby: steblo mal zlaté, hlávku   ohnivú a trblietal sa a jagal tak, že až oči oslepovalo. Petrík   tušil, že to bude ten žiadaný svätojánsky kvietok a pozrel tázave na   starca. Ten kývnul na znak súhlasu hlavou a Petrík posmelený začal sa   načahovať za kvietkom. No nebol vstave nijak ho dosiahnuť. Pokúsil sa   i driapať za ním, no nešlo to, bol privysoko a Petrík skĺzol sa zo   skaly zakaždým. Pozrel zase na starca, stojaceho tam nehybne, a ten   len na­čiahol rukou a dosiahnuc kvietok odtrhol ho. Potom pošibal ním   skalu a tu div divúci! skala otvorila sa a pred nimi bola ohromná   jaskyňa, tmavá ani noc. No kvietok svietil sťa meru sviečok a starec   držiac ho v hrsti a osvetliac ním jaskyňu, vstúpil dnu Petrík pravda   za ním v za­pätí I videl, že steny jaskyne boly z číreho zlata, pod   nohami lesknul sa mramor, s vrchu visely všelijaké strieborné a zlaté   inštrumenty: husle, trúby, fujary a vydávaly zo seba také utešené a   príjemné zvuky, že bolo radosť počúvať, hoci nik nehral na nich. „To   najskôr vietor veje tam hore a zahráva na nich,“ pomyslel si Petrík,   naslúchajúc milej hudbe a kráčajúc za staríkom.
+    </tei:p>
+    <tei:p>
+     Po úzkej chodbe došli do akejsi ohromnej siene a tu zastali.   Navôkol bolo vídať samé samučičké vrecia a v nich samé zlato,   striebroi drahokamy. To všetko bolo vídať cez vrecia a ten lesk tak   prenikal zovnútra, že sa sotva hľadeť dalo Starík teraz podal ohnivý   kvietok Petríkov, a prvý raz otvoriac ústa, naložil mu temným,   slávnostným hlasom: „dobre drž a nepopusť z ruky, čo by sa čo robilo,   lebo ináče staneš sa pred­metom hnevu!“ Potom sohnul sa a rozviazal   jedno z vriec, z ktorého vysypaly sa zrnká zlatej pše­nice. Znovu ho   zaviazal a vyložil Petríkovi na plece. Tomu zdalo sa vrece zprvu   ľahkým, potom ale čím diaľ, tým väčšmi začalo ho tiažiť, že ho ledva   udržal Kvietok v ruke ale začal ho tak páliť, že nevydržal a pustil   ho na zem. Sotva tak urobil, zmizlo všetko navôkol a v jaskyni   nastala tma. Steny staly sa strašnými a z nich začala stekať studená   voda dolu šijou a na prsia Petríkovi. Starec kričal a klial od hnevu   takým hromovým hlasom, že Petríka až strach prechodil. Chcel sa   rozhľadeť lepšie v tej tme, otvoril väčšmi oči, pretrel si ich,   pozrel vôkol seba a zadivil sa. Bolo už ránu, na svitaní, a pred ním   nestál starec, lež majster Korec, ktorý kričal na neho s hnevom:
+    </tei:p>
+    <tei:p>
+     „Vstávaj hore, ty ľajdák! Nuž či tebe bolo treba sa až sem zatúlať   a tu zadrichnať? Ja ho hľadám už koľký čas všade po mlyne, po dvore,   po celej Sihoti, a on darebák si tu vylihuje ani turecký baša. Akiste   prišiel si včera z mesta na­pitý a zašiel sa sem vydrichnať. Vodu si   nezastavil, zástavnice nespustil, mlyn ide už od polnoci na prázdno,   neviem, čo bude s kameňom! Ta sa ber preč odtiaľto, ty loptoš, sto   striel sa ti do matere!“
+    </tei:p>
+    <tei:p>
+     To všetku sypalo sa tak na hlavu úbohého Petríka, ani ten dážď, čo   padal s neba, že sa len po chvíli spamätal, čo je vlastne s ním. Bol   celý premoknutý, lebo kým hľadal kvietok, nahor ne­pozerajúc, nebo sa   pomaly zachmúrilo a do rána spustil sa hojný, letný dážď, pred ktorým   ho ani višňa neochránila, lebo stekalo to na neho cez riedke konáre   ani cez škáry na žleboch. Skočil na nohy ani jeleň a kriväjúc od   včerajšieho tŕňa stúpal teraz už nie za starcom, ale za nahnevaným   pánom majstrom, ktorý ustavične nadával, držiac v ruke nie   svätojánsky kvietok, ale bičisko. Málo chybelo, že ním Petríka   nevyšľuhal, taký bol na­hnevaný, nielen pre žernov, ale i pre počasie,   ktoré zkazilo mu majáles, lebo pre dážď nemohlo byť ani reči o   muzike.
+    </tei:p>
+    <tei:p>
+     Aký pekný bol Petríkov sen, taká škaredá bola skutočnosť. Keď ho   pán majster šikoval cez lavice a pani majstrová, idúc po dvore,   zazrela ho takého kriväjúceho, rozmočeného, bosého a s rozcuchanými   vlasmi, skoro spadla s nôh, lebo si nebodaj myslela, že to jej starý   šikuje „hastrmana“, čo vytiahol zpod žlebov.
+    </tei:p>
+    <tei:p>
+     Na toľko sa ale splnil Petríkov „sen noci svätojánskej“, že stal   sa na celý deň predmetom hnevu a to pána majstrovho, ktorý sa pre   poka­zený majáles najviac na ňom vyvŕšil.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Mlynár Korec na divadle.
+    </tei:head>
+    <tei:p>
+     Musím pripomenúť, že historka tato udala sa už vtedy, keď mlynár   Korec vysťahoval sa zo mlyna „na Tureckom“ a prišiel bývať do mlyna   na „Potočnom“, kde predtým jeho švagor Vodný mlynáril.
+    </tei:p>
+    <tei:p>
+     Je deň Všech Svätých. Vo mlyne „na Potoč­nom“ je ticho. Svätia   tiež. Pán majster Korec pri­šiel s pani majstrovou práve z cmitera. Je   už ve­čer a dosť temno.
+    </tei:p>
+    <tei:p>
+     Pán majster po večeri začal sa zrazu obliekať k odchodu. Kdeže sa   sberá o takomto čase? A veru ide do mesta na divadlo, vari prvý raz v   svojom živote. Že sa k tomu odhodlal, toho príčinou je jeho známy z   mesta, obuvník Roháček, známy horec-dilettant, ktorý často   navštevoval mlyn a i pred dvoma týždňami prišiel si požičať od pána   majstra kožuch, že vraj na divadlo, lebo bude mať úlohu mlynára v   divadelnej hre pod menom „Mlynár a jeho dieťa“, ktorá hráva sa   každoročne na Všech Svätých. Pán majster zprvu nechcel ani počuť o   tom, že by mal svoj sviatočný, cifrovaný kožuch niekomu na obdiv   sveta požičať, aby druhý v ňom „komediu hral“, no keď ho priateľ   Roháček veľmi prosil o to, mu to konečne po vôli urobil. Ba čo viac,   dal sa nahovoriť aj na divadlo. Za jeho mladších čias divadlá tak   nebývaly a teraz na staré kolená sa mu veru ťažilo ta ísť. Roháček mu   sľúbil, že ho to nebude nič stáť, len aby sa na neho odvolával, keď   príde na to divadlo a že ho pustia tam bez všetkého dnu. Že teda i   jeho kožuch bol tam zainteresovaný a že išlo o takú „mlynársku hru“,   pristal konečne pán majster a sľúbil sa na to divadlo, lebo ho aj   pani majstrová — jeho druhá žena — k tomu mala, hovoriac:
+    </tei:p>
+    <tei:p>
+     „Čože by si nešiel si to pozreť, veď si ty taký pán ako druhý.   Prečo že by si nemal ísť svetu sa ukázať, aby videli, že aj mlynár je   súci do spoločnosti. Len ty choď, aspoň mi budeš rozprávať potom, čo   si tam videl. Ja by som sama šla, ale také staré baby nemajú tam čo   hľadať.“
+    </tei:p>
+    <tei:p>
+     Keď sa pán majster pekne umyl, vyčesal, vy­obliekal do sviatočných   šiat, na krk uviazal si ši­rokú, čiernú mašľu, na nohy natiahol nové,   sťa zrkadlo lesknúce sa čižmy, na hlavu postavil astrachánovú čiapku,   lebo bolo dosť chladno a potom stojac pred zrkadlom, pani majstrová   naprávala mu jedno-druhé, odstraňujúc každý páper na ša­toch, aby sa   vraj pred tými pánmi tam na divadle nezahanbil.
+    </tei:p>
+    <tei:p>
+     Potom obliekol si ešte svoj druhý, jednodu­chý kožuch, vzal do ruky   pre istotu palicu a lam­páš, lebo bolo temno, pojal so sebou psa   Zahraja, aby mu bolo veselšie a sľúbiac žene, že vráti sa okolo   jedenástej, nastúpil cestu do mesta, dobrú štvrťhodinu od mlyna   vzdialeného. Prijdúc do „Priehrady“, kde už tu i tu svietila lampa   petro­lejová, stavil sa u švagra Vodného a nechal si u neho lampáš i   psa, aby nemal s nimi oštaru na divadle. Potom už kráčal sviatočne   naladený ďalej mestom smerom k „Ľudovému domu“, kde sa malo to   divadlo hrať.
+    </tei:p>
+    <tei:p>
+     Pri vchode do budovy uvidel už mnoho ľudí, sem a ta sa motajúcich.   Prichodili pekne oble­čení páni, mladí i starí s paniami i dievčatmi,   pešo i na kočoch. Bolo asi 8 hodín, keď sem do­razil a musel sa   ponáhľať, aby nezameškal, lebo čo chvíľa mal byť začiatok, ako ho   priateľ Rohá­ček vopred upozornil. Ba nechal mu i akýsi „program“, čo   ale on doma zabudol. Beztak ho celé divadlo nezaujímalo, on bol   zvedavý len na Roháčeka, ako si bude v jeho kožuchu počínať a ako to   bude mlynáriť. Či to ozaj uhádne, veď síce sa nachodí dosť k nemu do   mlyna a mohol sa všeličomu podučiť.
+    </tei:p>
+    <tei:p>
+     Pán majster, keď našiel sa za vchodom na ne­jakom „gangu“, bol v   rozpakoch, lebo nevedel, kam teraz zamieriť. Nikdy tu predtým nebol,   múku sem nevozieval a inej roboty tu tiež nemal. Videl tu prechodiť   sem a ta moc ľudí, všetko pekne oblečených, vychodiacich jednymi   dvermi von a druhými zase niekam dnu. Nik sa o neho nezrel, ani   nepýtal, kam chce ísť. Kto že by si tu všímal jednoduchého mlynára,   každý myslel len na seba. Vše prebrnknul vedľa neho i kelner, nesúc v   rukách hromadu pohárov s pivom a pánu majstro­vi veru aj prišla chuť   naň, lebo si na večeru klobásy zajedol, po ktorej ho teraz smädilo. I   umienil si, že potom, až bude divadlu koniec, pôjde aj on niekam na   pivo.
+    </tei:p>
+    <tei:p>
+     Prv ale bolo treba dostať sa na predstavenie. I spýtal sa akéhosi   mladého šviháka, že kadiaľ sa ide na to divadlo a ten mu ukázal na   akýsi oblok, že vraj tam pri „kasse“ dostane biletu za korunu na   státie. Na takú radu sa pán majster nahneval, hovoriac:
+    </tei:p>
+    <tei:p>
+     „Nuž ale ja mám ešte aj platiť? Ja, čo som kožuch na divadlo   požičal, za to ja mám ešte platiť? A k tomu ešte korunu, že vraj na   státie! Veď ani keď mi tam zaplatia za to, aby som stál, ja starý   človek, ani vtedy nepôjdem. Zaplatiť a ešte stáť, no to je špás!   Ktože to kedy slýchal?!“
+    </tei:p>
+    <tei:p>
+     I obzeral sa za nejakým známym a tu na šťastie zazrel tam pri   dveroch známeho mu mestské­ho drába Vranu, ktorý tam poriadok udržoval   a dotieravých učňov a parobkov trstenicou od dverí odháňal. Obrátil   sa teda hneď k nemu s otázkou, či by ho nemohol zaviesť k jeho   priateľovi Roháčekovi, ktorému on kožuch na divadlo požičal a ktorý   mu za to sľúbil bezplatný vstup na predsta­venie. Vrana mu na to   odvetil, že je Roháček v „galderobe“ za „bínou“, odkiaľ vraj nemôže   odísť, lebo sa divadlo hneď začne, kázal ale pánu majstrovi počkať,   že on odbehne k nemu spýtať sa, kam má pána majstra zašikovať.   Netrvalo dlho a prišiel nazad so zvesťou, že vraj Roháček kázal   zaviesť pána majstra na galeriu. Tam vraj si môže aj sadnuť na lavicu   a bude mu pohodlnejšie, nežli dolu na prízemí.
+    </tei:p>
+    <tei:p>
+     „Nuž veď je mne jedno, kdekoľvek“, povedal pan majster, „len aby   som mohol sedeť Lebo mi tu akýsi panák povedal, že vraj musím dať   koru­nu a že budem stáť. Veď som vari nepojedol bláznivé huby, aby som   platil a potom stál. Ja veru ani svätému, radšej sa hneď domov   vrátim.“
+    </tei:p>
+    <tei:p>
+     Vrana ho uspokojil a vyviedol hore nejakými schodami ku dverom,   kde stál na „varte“ jeho príbuzný, kostolník z „nižnieho konca“. Pán   maj­ster si podal s nim pekne ruku, keď ale tamten pýtal od neho   „vstupenku“, okríkol sa na neho:
+    </tei:p>
+    <tei:p>
+     „Nuž ale ešte aj ty chceš odomňa biletu? Veď som kožuch na divadlo   požičal a tu človeka vyšikujú hore na akési „pánty“ a či povalu a   nechcú ťa dnu pustiť.“
+    </tei:p>
+    <tei:p>
+     Heslo „Roháček kázal pustiť“, povedané Vra­nom, účinkovalo sťa   čarovný prút a nebolo ďaľšej prekážky. Príbuzný kostolník potľapkal   pána maj­stra s úsmevom po pleci a pustil dnu so slovami:
+    </tei:p>
+    <tei:p>
+     „No len choďte dnu strýco a sadnite si tu hneď naproti, tam je   ešte prázdne miesto.“
+    </tei:p>
+    <tei:p>
+     Majster Korec vnišiel dnu a poobzeral sa. Videl tam pred sebou na   galerii a kdesi dolu v hĺbke hrúzu „sveta“, že by cezeň ani jablko   ne­bolo prepadlo i bolo mu divné, že je predsa tak ticho. Stúpal smelo   ďalej i videl, že sa mnohí na­vôkol na neho pozerajú. Pomyslel si:   treba sa pozdraviť. I zosňal úctive baranicu z hlavy a za­volal: Pán   Boh daj dobrý večer! Tu ale, nástojte len, začne každý na neho kývať,   že vraj „pst, pst, potichu!“
+    </tei:p>
+    <tei:p>
+     „Nuž ale som ja niečo zlého povedal, hľaďte že, veď som sa len   pozdravil, ako sa patrí na po­riadneho človeka, keď niekam medzi ľudí   prijde. Hm, hm!“ mrmlal si pod fúzy pán majster, po­zerajúc na   voľakeho chasníka, vedľa ktorého sa na lavicu usadzoval.
+    </tei:p>
+    <tei:p>
+     V tom zbadal, že tam kdesi hodne na predku v nejakej otvorenej   izbe shovárajú sa ľudia, zaiste tí, čo to divadlo hrali, no o čom   hovorili, nebolo počuť, lebo dolu na prízemí trval akýsi šum, pri   vieranie dvier a šepot. Predstavenie sa totiž len pred chvíľou začalo   a ľudia sa so šuchotom usadzúvali. Mlynár Korec teda nenaslúchal hre,   lež pozeral s údivom vôkol seba.
+    </tei:p>
+    <tei:p>
+     „Hm, hm“, hútal v sebe, „ako je to tu všetko čudne zariadené.   Skoro ani v kostole. Celkom také lustre so sviečkami, len organa a   oltára niet. Kanceľ by bol, a to až dva“, myslel si, keď uvidel dve   proti sebe nachádzajúce sa lóže vo výške galerií. „No a aké pekné   paničky sú tu naproti a dolu tiež“, dumal v sebe ďalej, „Hej, keby ma   tak teraz videla moja stará, ako si na ne poku­kávam, hoci nemám ani   „rešpektíra“, ako ten pán tam dolu, čo pozerá s ním sem nahor. Veru   ne­viem, čo by povedala.“
+    </tei:p>
+    <tei:p>
+     Netrvalo dlho a nad tou izbou tam na predku — ako pán majster   potom doma rozprával — spustila sa akási veľká maľovaná plachta, tak   že nebolo viac nič vídať. Hneď povstala medzi obe­censtvom vrava,   šuchot. No čo chvíľa tá plachta tam na predku sa znovu zdvihla a   hovor utíchol. Každý uprel zrak ta na predok a tak urobil i pán   majster. Dlho ale netrvalo a hra zase skončila, pri čom ktosi na   flaute vyhrával, ale kto a odkiaľ, to pán majster nemohol vypátrať,   hoci obzeral sa dobre na všetky strany.
+    </tei:p>
+    <tei:p>
+     Keď ta plachta spadla, podajedni ľudia začali sa hrnuť dvermi von,   premávať sa sem a ta, až taký šramot povstal, že nebolo vlastnej reči   počuť. Tu zrazu začul pán majster z jeho vlastnej praxe dobre mu   povedomé „štimovanie“ huslí, potom začala hrať kdesi hudba a pán   majster mal si oči vyočiť, kým odhalil tam poniže tej izby   cigáňov-muzikantov, vyhrávajúcich nejakú smutnú, všech-svätovú   melodiu.
+    </tei:p>
+    <tei:p>
+     Po dlhšej cnvíli kdesi zazvonili, muzika razom zatíchla, vrava   prestala a plachta sa zodvihla. Bolo vídať na javisku zase inakšiu   izbu, v ktorej shováraly sa dve ženské a toľko toho nadrkotaly, že   bolo pánu majstrovi až zunované. V tom zrazu vnide dnu človek, v   ktorom po hlase poznal hneď Roháčeka. Držal v ruke nejakého   zastreleného vtáka a na sebe mal oblečený pána majstrov o­pravdivý,   cifrovaný kožuch. Ako ho zazrel pán majster a videl svoj kožuch   vystavený na obdiv toľkého sveta, nemohol sa zdržať, aby   nevykríkol:
+    </tei:p>
+    <tei:p>
+     „Ľaľa, môj kožuch!“
+    </tei:p>
+    <tei:p>
+     No v tom ho už šťuchol do boka jeho sused a všetci ľudia navôkol   začali pozerať na neho. Bolo čuť samé „pst, pst“, sťa by bolo tisíc   hadov sypelo, ba i z prízemia začali nahor pozerať. No pána majstra   to moc nemýlilo i osopil sa na svojho suseda:
+    </tei:p>
+    <tei:p>
+     „Nuž a čo že ma tu šťucháte? Kto že som ja, váš kamarát? A či sa   ja nesmiem ohlásiť, veď je to predsa môj vlastný kožuch, čo som   požičal...“
+    </tei:p>
+    <tei:p>
+     Nedopovedal, lebo v tom chytil ho za plece jeho príbuzný —   kostolník tam odo dverí a začal ho tíšiť, šeptajúc mu do ucha, aby   nič nehovoril, lebo tu musí každý ticho sedeť Pán majster i zatíchol,   nehovoriac viac ani slova, len sa hniezdil dosť dlho na mieste.   Mrzelo ho, že ho tak hatia vo vyjavení jeho citov.
+    </tei:p>
+    <tei:p>
+     I zahľadel sa na Roháčeka, ako tam chodil po javisku. Nuž to mal   byť teda ten mlynár! Veru bol tak premenený, že keby nie jeho hlasu,   ani by ho nebol poznal. Mal šedivé vlasy i bradu a pán majster len   krútil hlavou, nepochopujúc, ako to mohol tak zarásť za tie dva   týždne, čo sa ne­videli. Shováral sa práve s nejakým človekom čo mal   byť podľa reči hrobárom a tomu sľúbil vrece múky
+    </tei:p>
+    <tei:p>
+     „Hm“, pomyslel si pán majster, „vrece múky ide darovať. Ako by to   bolo len tak! A odkiaľ že ho vezme, keď sám nemá. Veď tam ani vriec   nevídať, ba ani to nevyzerá ako mlyn. Ešte môj kožuch čo je   mlynársky, ostatnie ani len nepáchne mlynom.“
+    </tei:p>
+    <tei:p>
+     Opona, totiž tá plachta spadla a zdvihla sa ešte raz a vtedy, keď   ten mladý tam na javišti hodil flautu o zem, opona spustila sa zase a   medzi obecenstvom bolo badať väčší ruch, nežli do­siaľ. Skoro všetko   začalo sa sypať von. Pán majster myslel si, že už treba ísť Zamieril   teda ku dverom a poloziac čapicu na hlavu, ťahal preč. V tom   pri­stavil ho príbuzný kostolník s otázkou, že kam ide.
+    </tei:p>
+    <tei:p>
+     „Nuž reku domov. Veď vari nebudem tu no­covať. Žena bude už čakať   na mňa.“
+    </tei:p>
+    <tei:p>
+     Kostolník sa usmial a povedal pánu majstro­vi, že divadlo sa ešte   neskončilo a že ešte budú dve dejstvá.
+    </tei:p>
+    <tei:p>
+     „Čo za detstvá? A čo že sú to tie detstvá, ha? Či to budú pivo   deliť? Lebo ja by som si veru vypil!“
+    </tei:p>
+    <tei:p>
+     Kostolník mu vysvetlil, čo sú to tie dejstvá a uspokojil ho, že by   ešte poshovel a nikam neodchodil, kým sa divadlo neukončí, bo mu vraj   miesto zasadnú. Pán majster ponáhľal sa teda chytro nazad a tu   zbadal, že po II. dejstve pri­budlo akosi moc divákov a že začína byť   stisk a tesno. Horko-ťažko podarilo sa mu dobyť ku svojmu miestu, kde   si potom i kožuch vyzliekol, lebo začínalo byť nejak sparno.
+    </tei:p>
+    <tei:p>
+     „A či tu niet nejakého klinca, čo by som si tento kabát zavesil“,   hovoril, obzerajúc sa, „mal som si ho nechať dolu v tej „galderobe“,   čo ten Vrana spomínal.“
+    </tei:p>
+    <tei:p>
+     Napokon sadol si naň, čo mu aj dobre padlo, lebo lavica bola   tvrdá, nie taká mäkká, „zama­tová“, ako bolo vídať tam dolu na   prízemí. No ale to bolo len pre veľkých pánov, čo sú naučení na   mäkkom sedávať.
+    </tei:p>
+    <tei:p>
+     Keď sa po cenganí opona znovu zodvihla, bolo vídať akúsi krčmu.   Mlynská izba i s mlynárom kamsi zmizla. A tí, čo boli v tej krčme,   za­čali sa shovárať o nejakých duchoch a či máto­hách. „Len aby sa   nezjavily, keď ich toľko spo­mínajú, lebo spomínaj vlka a ten na   záhumní,“ tŕpol pán majster a skutočne, keď opona spadla a zas sa   zodvihla, bolo vídať cmiter s krížami a čochvíľa začaly chodiť po ňom   akési mátohy v bielych plachtách zahalené. Pri tom padal sňah, ale   odkiaľ? Ved hore nebolo neba vídať a vonku vari o takomto čase ešte   nesňaží. Predsa, bolo jasno, hviezdy na nebi, keď pán majster z domu   išiel. Veru si vydýchol, keď tie strašidlá zmizly, a prestal skučať   vietor tam po cintoríne. Bolo to ozaj strašné a bude sa mu zaiste o   tom snívať. Len aby potom na ceste do mlyna niektorú z tých mátoh   nestretol.
+    </tei:p>
+    <tei:p>
+     Potom nasledovaly ešte viaceré „dejstvá“, hoci mu kostolník len   dve povedal, lebo o pre­menách sa mu nezmienil. Pán majster videl   potom, ako mlynár v jeho kožuch odetý poklad zakopával a ako spadol   vedľa neho. Zaiste sa veľmi udrel chudák Roháček, lebo nemohol vstať,   a ani len felčiara k nemu nezavolali.
+    </tei:p>
+    <tei:p>
+     Ku koncu bolo ešte videť poznovu krčmu a potom zase izbu vo mlyne,   kde umierala mlynárova dcéra, lebo vraj veľmi ochorela a nebolo jej   pomoci Ten mladý, čo bol bezpochyby jej mi­lencom, jej zase na flaute   vyhrával.
+    </tei:p>
+    <tei:p>
+     Majster Korec bol rád, keď konečne skončilo sa to všetko a mohol   pobrať sa preč Pravda, trvalo to dosť dlho, kým sa v tom stisku   domotal nadol. Tu radšej počkal, aby ho niekde nerozgniavili. Ako tak   stojí v kúte, zrazu udre mu ktosi na plece. Obzre sa a tu vidí   priateľa Roháčeka už nie viac v kožuchu ako mlynára, ale oblečeného   po pansky, bez brady a šedivých vlasov Zaiste sa dal chytro oholiť,   pomyslel si pán maj­ster. Roháček sa usmial, a potrasúc rukou pánu   majstrovi, vzal ho pod pazuchu a zaviedol do akéhosi „kasína“, že   vraj na pivo. Pán majster sa dosť vzpieral, že musí ísť domov, bo je   už neskoro, no Roháček ho nepustil. I usadil ho tam dnu za stôl,   kázal mu složiť čiapku, vyzliekol mu nasilu kožuch a dal doniesť   piva. Bolo tam hlučno, ľudí plno, dymu tiež dosť. Roháček štrngol si   s pánom majstrom na zdravie a tomuto po toľkej žízni veru dobre padlo   občerstvenie. Roháček rozkázal i po druhý raz piva a ponúkol pána   majstra cigarkou. Tento sa dosť zdráhal, lebo doma nefajčieval, no   keď Roháček naliehal a videl, že dovôkola všetko fajčí, pripálil si   aj on. Roháček priviedol ku stolu viacerých známych mešťanov, medzi   nimi aj toho, čo na divadle krčmára pred­stavoval, a títo všetci   začali sa potom vypytovať pána majstra, že ako sa mu páčilo   divadlo.
+    </tei:p>
+    <tei:p>
+     „Nuž reku, aby som vám pravdu povedal, nebolo mi to všetko po   vôli,“ vyrukoval so svojou mienkou pán majster. „Nerobili ste to   všetko dobre, tak ako ste mali. Veď keď ste už mlynskú izbu aj   mlynára predstavili, mali ste ukázať aj mlyn, na koľko kolies a čo   namele. Na to som bol tiež zvedavý. A tu ani len klepotu nebolo čuť a   o vre­ciach so zbožím a múkou ani chýru. A potom prečože ste dali tej   dievčici umreť? Škoda jej veru, taká pekná bola. Mohla ešte žiť. Mali   ste k nej zavolať dochtora, veď ich tu v meste máte dosť, alebo aspoň   felčiara, čo by ju bol vykuroval. A tuto nechajú ju nič po nič   dokonať. Veru ste to nedobre robili, páni moji. Druhý raz to lepšie   spravte. A nebolo hodno to celé divadlo toho, aby som naň prišiel,“   pokračoval pán majster s trpkosťou „Veď ma tam na tej galerii, či ako   to voláte, tak usocali, ugniavili, že si ľadvie sotva cítim. Taký   stisk bol tam až hrozné! Málo chybelo, že nejakého chlapca tam   neďaleko mňa ne rozgniavili, len čo som ho ja oratoval, keď sa   rozplakalo úbohé chlapä.“
+    </tei:p>
+    <tei:p>
+     Roháček a ostatní sa potuteľne usmievali a sľúbili pánu majstrovi,   že na budúce to lepšie zariadia, len aby prišiel aj druhý raz.
+    </tei:p>
+    <tei:p>
+     Pánu majstrovi ale to pivo, štvrtý a či piaty pohár, čo tak s   chuťou vypil, začalo pomaly v hlave krútiť, ani keď sa jeho koleso vo   mlyne točí, a ten hovor, šum navôkol splýval v jeho ušiach dovedna,   sťa klepot mlyna, keď žernov ide na prázdno. I ten dohánový dym ho   akosi omamoval, tak že sa začal nedobre cítiť, lebo nebol ani na   pivo, ani na fajčenie navyknutý. Keď teda hostia pri jeho stole   začali sa tratiť po jednom do bočnej izby, kde bavili sa s „bielymi   guľami na zelenom stole“, a keď začal cigáň Roháčekovi okolo ucha   vyhrávať, pán majster zo strachu, aby neprišiel aj na neho rad,   hľadel sa preč dostať.
+    </tei:p>
+    <tei:p>
+     „Tu by som ja veru chytro peria pustil,“ pomyslel si. I využil   príležitosť, keď Roháček odišiel kamsi ku kellnerovi, sosňal chytro s   vešiaka svoj kožuch a čiapku a ponáhľal sa von bez platenia. Však   Roháček zaplatí, keď vedel rozka­zovať. Chôdza jeho bola akási neistá   a ledva natrafil ku dverom. Chytro vyšiel na chodbu a odtiaľ na   ulicu. Tu ovial ho čerstvý vzduch a on vdychoval ho do seba plnými   pľúcami. Bola tmavá, všechsvätová noc a temno tak, že bolo sotva čo   rozoznať.
+    </tei:p>
+    <tei:p>
+     Kdeže sa teraz obrátiť, hriešny človeče? Zájsť k švagrovi do   Priehrady pre lampáš a psa, sa mu nevidelo. Kdeže bude teraz o   polnoci ľudí búriť, veď by ho ani dnu nevpustili, takého nočného   tuláka. Opierajúc sa teda o bakuľu, ktorá mu ešte zostala, umiernil   si udreť kratšou cestou smerom k stanici a potom po záhumní medzi   mosty a tak domov. Veď sa to dalo umieniť, ale úmysel previesť išlo   ťažko. Hlava ťažká, sťa merica, navôkol tma ani v rohu a nikde ani   svetla, ani človiečika. Nazad sa už štítil vrátiť a domov chcel sa   dostať čím najskôr.
+    </tei:p>
+    <tei:p>
+     Ako tak habká dolu ulicou, zrazu čuje biť na kostolnej veži   dvanástu hodinu. Huj, až tak zatriaslo ním a mráz prebehol mu po   chrbte. Veď kdeže by aj nie, či sa patrí statočnej duši teraz o takom   čase po vonku tĺcť, v takú hodinu, keď duchy chodia? „Noc má svoju   moc,“ pomyslel si a keď vzpomenul si na tých bielych duchov a či   mátohy tam na divadle, hrúza ho prechodila. Keby sa mu teraz tak   zjavily tie strašidlá, čože by si počal? Alebo keby taký potrundžený   v tejto tme zblúdil a zašiel niekam do Smrtnej ulice a odtiaľ na   cmiter, veď by tam zkapal od strachu. Stisol bakuľu v hrsti a kráčal   odhodlane, na všetko pripravený ďalej.
+    </tei:p>
+    <tei:p>
+     Pomaly došiel k nejakým humnám. „No predsa som len na dobrej   ceste,“ pomyslel si, „len aby to tak išlo ďalej.“ V tom ale zrazu   potkol sa na niečom a aký bol dlhý, taký sa vystrel na bruchu v   nejakej hrádzi.
+    </tei:p>
+    <tei:p>
+     „Bodaj by vás parom uchytil s vašimi diva­dlami, aj s tým, čo ich   vymyslel,“ vyhŕklo to z pána majstra, „keď sa človek musí potom túlať   po noci ani pes bez gazdu.“ Horko-ťažko sa posbieral, ohmatal si údy   a stúpal ďalej. Z nejakej chalupy tam u cesty sa ešte svietilo, a   preto za­mieril tým smerom. Za čas mu to dobre šlo, len tam z   ktoréhosi dvora vyrútilo sa na neho psisko s brechotom, že sa mu   ledva ubránil s palicou.
+    </tei:p>
+    <tei:p>
+     Keď vyšiel do Priehrady a odtiaľ k strážnici na trati, oddýchol   si. Rampa bola otvorená, prešiel bez prekážky. Ale potom, musel   ostražite napre­dovať, aby nevhabal do nejakej bariny alebo do   „Rybníka“. Veď by sa tam zamárnil na večné veky a viac by odtiaľ živý   nevyšiel. Stúpal teda veľmi opatrne, habkajúc pred seba s bakuľou, a   držal sa pevno na nohách, hoci sa mu v hlave točilo ani na zvrtli.   Tak dostal sa šťastlive cez dva mosty a mal nasledovať tretí. Že sa   medzitým trirazy prevrhol, z toho si už nič nerobil. Cítil chládež   rieky a čul jej hukot za sebou, z čoho súdil, že je na dobrej ceste.   I uzrel pred sebou v diaľke nejaké svetielko kmitať sa. Myslel si, že   je to akiste jeho mlyn a že jeho stará, chuderka nedočkavá svieti   ešte a čaká na neho Udrel teda tým smerom a šiel poľom dosť dlho i   cez nejaký mostík, no zblížiť sa k tomu svetlu nijak nemohol. „Len   aby to nebol ten svetlonos, čo ľudí po mo­čiaroch vodieva,“ napadlo mu   Odrazu, ako tak hľadí uprene na to svetielce, zabudol šmátrať ba­kuľou   vopred seba a v tom čľups! už bol v ne­jakej barine dolu bruchom.
+    </tei:p>
+    <tei:p>
+     „Kdeže sa to ja motám, veď vari nemám otruby v hlave,“ zašomral,   keď sa celý zamočený a zamazaný zviechal z bariny, ktorá na šťastie   bola plytká, len taká kaluž. Zbadal, že nejde do­brým smerom, že   pochybil cestu, miesto do mlyna že ide v bok do poľa, kde býva o   samote statkár Kúdeľa. Chcel sa teda vrátiť, no nemohol sa akosi   vymotať odtiaľ, videlo sa mu, že sa krúti vždy na jednom mieste, až   konečne po dlhom blúdení poľom našiel sa zrazu nenazdajky pred svojím   mlynom, ktorého klepot zdal sa mu teraz hudbou anjelskou
+    </tei:p>
+    <tei:p>
+     Bolo už hodne nad ránom, už sa aj kohúti ozývali, keď pán majster   zabúchal na okno vo mlyne Dosť dlho váhal, rozmýšľajúc, či má   za­klepať a ženu budiť a či má ísť radšej na šopu do sena nocovať Tam   by ale do rána nevydržal, lebo by ho zima preberala, ba taký   netriezvy mohol by aj zamrznúť, zaspať na večné veky V izbe bola tma,   pani majstrová už dávno spala Keď počula búchať na okne, chytro   zahodila niečo na seba a vyšla so svetlom mužovi dvere otvoriť.
+    </tei:p>
+    <tei:p>
+     Keď ho uzrela vo dveroch pred sebou takého zamazaného, namočeného   a zavoňala na ňom dohánový dym a zápach piva, skoro jej kahanec z   ruky vypadol. I spustila na neho, sťa by hrachom sypala:
+    </tei:p>
+    <tei:p>
+     „Nuž ty mátoha a kdeže sa ty túlaš? Ty ľump voľajaký, takto si sa   mi doriadil v tom meste! Nuž či sa to svedčí na poriadneho človeka   takto po noci sa túlať do rána ani sova? Pakuj sa mi dnu oriadiť   sa!“
+    </tei:p>
+    <tei:p>
+     Pán majster vnišiel zkrúšene dnu, vyzliekol sa a zvalil na posteľ.   Dlho nenaslúchal kázni pani majstrovej, lebo utrmácaný a premožený   štrapáciami a ochmelením v hlave čochvíľa chrápal, ani čo by bol   vahany strúhal...
+    </tei:p>
+    <tei:p>
+     Keď na tretí deň doniesol Roháček kožuch s poďakovaním a s úsmevom   začal dohovárať pánu majstrovi, že kam sa ztratil zavčerom, keď   zmizol ani gáfor bez odobierky, pán majster mu len tak cez zuby   odsekol:
+    </tei:p>
+    <tei:p>
+     „Prvý aj posledný raz som bol na tej komedii, čo vy divadlom   zoviete. Nech si chodí naň kto chce, ale mňa ta viacej nedostanete,“   a ne­chajúc Roháčeka tak, išiel nasýpať do koša.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

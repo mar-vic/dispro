@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Škola a život",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "pub_date": "1862"
+    },
+    "authors": [
+        {
+            "first_name": "Viliam",
+            "last_name": "Pauliny-Tóth",
+            "birth_date": "1826",
+            "death_date": "1877",
+            "ref": "viaf:31554767"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

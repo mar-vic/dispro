@@ -1,0 +1,1578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1963138" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Rozprávky z hôr : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:18104875">
+     Ľudo, Ondrejov (1901 - 1962)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     16812
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Ľudo, Ondrejov
+     </tei:author>
+     <tei:title>
+      Rozprávky z hôr
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Mladé letá
+     </tei:publisher>
+     <tei:date>
+      1963
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Ľudo, Ondrejov
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1932
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-07">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Rozprávky z hôr
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      ROZPRÁVKY SPOD PAVELCOVA
+     </tei:hi>
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Keď slnko zapadalo
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Slnko zapadalo za Ostrým vrchom. Dívali sme sa na jeho červenkavé   lúče, ako sa prebíjajú vetvami stromov v našej záhrade. Moja sestra   Anna sedela v tráve a robila si dlhú reťaz zo stopiek púpavy.
+     </tei:p>
+     <tei:p>
+      — Anna, — opýtal som sa jej,— čo je tam, kde slnko zapadá?
+     </tei:p>
+     <tei:p>
+      — Tam je koniec sveta, — odpovedala vážne.
+     </tei:p>
+     <tei:p>
+      Koniec sveta... Musí to byť ďaleko, lebo i stará mať, keď som bol   kedysi rozbil oblok, vyhrážali sa mi, že ma musia zmlátiť, čo by som   i na koniec sveta utekal.
+     </tei:p>
+     <tei:p>
+      Predstavil som si široký priestor zeme; to že je náš svet. Jeho   okraje sú odrezané a za nimi nekonečná prázdna hlbina. Kto by prišiel   celkom na kraj sveta, mohla by sa mu pokĺznuť noha a spadol by do tej   prázdnoty. Kto vie, kde by sa zastavil!
+     </tei:p>
+     <tei:p>
+      — Anna, — ozval som sa znova, — za Ostrým vrchom už iste bude   koniec sveta.
+     </tei:p>
+     <tei:p>
+      Anna povedala, že môže byť, a ja som sa zadíval na končiar Ostrého   vrchu, ktorý som poznal len z videnia a z rozprávok koscov z dediny.   Ujo Sľúka každý rok chodieval kosiť na Ostrý vrch. Zavše večerom   prišiel k nášmu starému otcovi. Sadli si na lavičku na posiedku a   zapálili si do fajok. Ujo Sľúka rozprával:
+     </tei:p>
+     <tei:p>
+      — Tak sme ti večer, keď sa stmilo, nakládli ohňa pod horou, pod   veľkým bukom. Polievky s mäsom sme sa napáckali poriadne a ľahli si   spať, všetci okolo ohňa. Ja, reku, kosu nechám poruke; čert ho vie,   čo sa môže v noci prihodiť.
+     </tei:p>
+     <tei:p>
+      Ďuro Šajga mal prikladať na oheň do polnoci, aby oheň nevyhasol,   lebo keď padne rosa, budú ti zuby od zimy klepotať, ak nemáš   pahreby.
+     </tei:p>
+     <tei:p>
+      Zapálim si a ľahnem. A ešte poviem Šajgovi: „Ďurko, o polnoci ma   zobuď, ja budem potom prikladať až do svitu.“ A zaspal som.
+     </tei:p>
+     <tei:p>
+      Tu odrazu myká ma Ďuro Šajga za nohu: „Ondrej, Ondrej,   preboha!“
+     </tei:p>
+     <tei:p>
+      Vyskočím a schytím kosu, ako mi visela nad hlavou, zavesená na   konári.
+     </tei:p>
+     <tei:p>
+      Šajga sa celý trasie a ukazuje do tmy.
+     </tei:p>
+     <tei:p>
+      Ký čert to môže byť?! Blýskajú sa tam okále, velikánske ako   taniere.
+     </tei:p>
+     <tei:p>
+      ‚Ej, pánboh s nami,‘ pomyslel som si a len ma tak mráz   poprechodil.
+     </tei:p>
+     <tei:p>
+      „Chlapi, berte kosy! Zle je s nami!“
+     </tei:p>
+     <tei:p>
+      Chlapi povyskakovali, ale kosy boli práve blízko toho miesta, kde   sa blýskali veľké oči akýchsi dravcov.
+     </tei:p>
+     <tei:p>
+      Vtom zavolal starý Kochuľa: „Medvede! Medvede! Hádžte raždie na   oheň a kričte, ako len vládzete, lebo nás pošpintujú!“
+     </tei:p>
+     <tei:p>
+      Tu sme začali hádzať na oheň suché raždie a kričali, ako kto   vládal a čo mu na um prišlo: „Bi ho! Hej, otca ti naháňam! Zabi ho!   Juj! Jajajáj!“
+     </tei:p>
+     <tei:p>
+      Oheň vzbĺkol vysoko a vtom medvede začali utekať, postrašené naším   krikom a ohňom. Ale to svet neslýchal, aké to boli opachy. No,   bohuprisahám, ani o mak neboli menšie od dvojročnej jalovice!...
+     </tei:p>
+     <tei:p>
+      Tieto rozprávky uja Sľúku vždy mi boli na rozume, keď som pozeral   na Ostrý vrch. A mal som veľkú vôľu vytratiť sa raz z domu a ísť   smerom na Ostrý vrch — až na kraj sveta. Ak by som stretol medveďa,   budem utekať, ako mi nohy vystačia. Bežať viem iste lepšie ako taký   obyčajný medveď, lebo ani jeden chlapec v dedine nemôže ma dohoniť,   keď sa hráme o loptu.
+     </tei:p>
+     <tei:p>
+      A ako slnko zapadalo, slabý vetrík prevalil sa záhradou, povedal   som Anne:
+     </tei:p>
+     <tei:p>
+      — Zoberme sa na koniec sveta! Poďme ta, kde slnko zapadá. Neboj   sa, ja sa ani medveďov nezľaknem! Vezmem si tú malú sekerku, čo starý   otec nabrúsili, a keď príde medveď, budem sa oháňať, aby ku mne   nepristúpil.
+     </tei:p>
+     <tei:p>
+      Anna chvíľu rozmýšľala a potom vstala, dala mi jednu reťaz zo   stopiek púpavy, ktorú som si povesil na hrdlo. Aj ona si nechala   jednu. Zaskočil som po sekerku a hybaj. Vybrali sme sa hore, na   Kopanice, cez Dolinku, len hore, kde slnko zapadalo.
+     </tei:p>
+     <tei:p>
+      Za Dolinkou sme ešte nikdy neboli. Bola to krajina celkom neznáma.   Cesta hlboko vybrázdená od vozov, vyjarčená od povodní, keď zavše   príval zahučal nad našou dolinou. A všade samá skala, samý pichliač,   len sme tak podlamovali nohy v kolenách a sipeli cez zuby pri každom   kroku, lebo sme boli bosí.
+     </tei:p>
+     <tei:p>
+      Ideme hore a hore a tu proti nám veľký kŕdeľ oviec, pred nimi   starý valach, okolo neho ohromní bieli psi dlhej srsti a za ovcami   malý honelník. Psi, ako sa blížili k nám, zaštekali. Sestra sa   zľakla.
+     </tei:p>
+     <tei:p>
+      — Utekajme! — zvolala na mňa a dala sa do behu.
+     </tei:p>
+     <tei:p>
+      Naľakala i mňa, tiež som začal uháňať, ako som vládal. Necítil som   už, že sa mi ostré skalky vrážajú do podošiev, len som zaskakoval   nadol ako divý.
+     </tei:p>
+     <tei:p>
+      Tu začne starý valach vykrikovať:
+     </tei:p>
+     <tei:p>
+      — Kdeže ta ide?! Či ideš sem! Ja tvoje ďahe!
+     </tei:p>
+     <tei:p>
+      Sestra zastala a začala plakať. Musíme sa vraj vrátiť k valachovi,   lebo na nás kričí a ide nás zajať.
+     </tei:p>
+     <tei:p>
+      — Ujdime! — zvolal som a chytil som ju za ruku.
+     </tei:p>
+     <tei:p>
+      Pustili sme sa ako vietor. Keď sme odbehli ďaleko od oviec, odrazu   sestra veľmi zasipela od bolesti a sadla si. Veľký tŕň ju pichol do   päty. Nevládala ho vybrať, lebo bol zalomený, nuž vytiahol som chytro   z vrecka nožík a obratne som tŕň vytrhol, lebo som už dobre rozumel   takýmto veciam.
+     </tei:p>
+     <tei:p>
+      A ako sme sedeli ustarostení na zemi, počuli sme zďaleka valachovo   volanie:
+     </tei:p>
+     <tei:p>
+      — Či ideš sem? Kdeže ta ide? Ja tvoje ďahe!
+     </tei:p>
+     <tei:p>
+      Pozreli sme na seba a zasmiali sme sa.
+     </tei:p>
+     <tei:p>
+      — To je smiešne! — zvolala sestra. — Valach kričal na ovce, a my   sme sa nazdali, že to na nás!
+     </tei:p>
+     <tei:p>
+      Stmievalo sa, keď sme sa vracali domov. Nezradili sme ani slovom,   čo sa nám stalo, lebo starý otec by sa nám bol vysmieval.
+     </tei:p>
+     <tei:p>
+      Nikdy nebola večera taká dobrá a chutná ako vtedy. A po večeri   sladká únava zatvárala oči.
+     </tei:p>
+     <tei:p>
+      Snívalo sa mi, že chodím s Annou na samom konci sveta a pozerám   cez okraj dolu, do nekonečných hlbín. Ligocú sa tam hviezdičky   všakových svetiel a preletujú veľké čierne vtáky.
+     </tei:p>
+     <tei:p>
+      I ľúto mi bolo v spánku, že som odišiel z domu a opustil svoju   mamičku...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       O vtáčkoch
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Sedeli sme pri peci. Lampa nebola ešte zažatá, len fajka starého   otca trochu svetielkovala; bolo mu vidieť dlhé, do klinca zakrútené   fúzy a predĺžený tenký nos. I z pece sa cez mriežky trochu svietilo,   a keď zavše sprašťalo horiace drevo, vyleteli iskry do popolníka.
+     </tei:p>
+     <tei:p>
+      Ej, dobre mi bolo pri starom otcovi, ako sme sedeli spolu na   lavici, pokiaľ von skučal zimný severný vietor a zasypal nám obloky   drobným snehom.
+     </tei:p>
+     <tei:p>
+      — Zaspievajte mi, starý otec! — povedal som, pritúliac sa mu k   brade.
+     </tei:p>
+     <tei:p>
+      A starý otec, chytiac fajku do ruky, zaspieval mi tichým hlasom a   pritom čižmou poklepkával:
+     </tei:p>
+     <tei:p>
+      Kukulienka, kde si bola,
+     </tei:p>
+     <tei:p>
+      keď tá tuhá zima bola?
+     </tei:p>
+     <tei:p>
+      — Tu-tu-tu, pod dubom,
+     </tei:p>
+     <tei:p>
+      sedela som s holubom!
+     </tei:p>
+     <tei:p>
+      — Ešte raz, starý otec!
+     </tei:p>
+     <tei:p>
+      Zaspieval mi ešte raz a zatiaľ mu vyhaslo vo fajke. Otvoril   dvercia na peci, vybral malý žeravý uhlík a prehadzujúc ho na dlani   sem a ta, položil ho obratne do fajky. Potom už nechcel spievať, aby   mu zase vo fajke nevyhaslo.
+     </tei:p>
+     <tei:p>
+      Páčil sa mi starý otec, ako tak sedel pri peci a pofajčieval.
+     </tei:p>
+     <tei:p>
+      — I ja si kúpim fajku, keď budem veľký!
+     </tei:p>
+     <tei:p>
+      — Hej, — prisviedčal starý otec, — na leto, keď narastú gaštany,   spravím ti peknú fajku.
+     </tei:p>
+     <tei:p>
+      Potom sme dlho mlčali. Ja som rozmýšľal o tej kukučke a holubovi,   kde asi môžu nocovať, keď je taká tuhá zima. A obaja sme na lavici   zadriemali.
+     </tei:p>
+     <tei:p>
+      Prišla jar. Sneh sa spúšťal a sýkorky prilietali každé ráno k   našim oblokom. Spievali a šantili po záhrade a zas odleteli.
+     </tei:p>
+     <tei:p>
+      Vzal som si kapsičku s knihami a šiel som do školy — až na druhú   dedinu, lebo u nás školy nebolo. Čižmy som mal dobré, voda sa do nich   nedostala, nuž brodil som sa s priateľmi po mlákach a preskakoval s   nimi jarky povedľa cesty.
+     </tei:p>
+     <tei:p>
+      Naša dolinka je úzka a objímajú ju strmé vrchy. Voda z   rozpusteného snehu valí sa jarkami dolu po úbočiach, a keď už sneh   celkom zmizne a vsiakne do zeme, vybúši voda i zo samej úboče a valí   sa nadol hučiacim čistým potokom. V taký čas narobili sme si loďky a   pohadzujúc ich na vodu, utekali sme povedľa jarku za nimi. Čia loďka   najdlhšie vydržala a neprevalila sa, toho sme pochválili.
+     </tei:p>
+     <tei:p>
+      V prvom dome v susednej dedine mali čierneho drozda. Každé ráno ho   zavesili s klietkou na podstienok a on spieval, spieval všakové   pesničky. Mal krásne čierne perie a žltý zobáčik. Keď nás zazrel, ako   kráčame hore cestou, hneď sa obrátil k nám a zapískal nám vojenský   pochod.
+     </tei:p>
+     <tei:p>
+      „Nedá mi pokoja ten vtáčik,“ hovoril som si. I bol by som išiel   bližšie a dal mu kus chleba, ktorý mi mať vstrčila do kapsy, ale vo   dvore bol veľký chlpatý pes a ten sa vždy mrzko na mňa díval. Preto   som ostal iba na ceste a pískal som spolu s drozdom. I novým   pesničkám som ho učil a bol som veľmi natešený, keď drozd zapískal   kúsok novej pesničky za mnou.
+     </tei:p>
+     <tei:p>
+      Na priateľov som zabudol; nechali ma, dávno boli v škole, keď som   sa spamätal, že som sám.
+     </tei:p>
+     <tei:p>
+      A neraz som prišiel neskoro do školy pre pekného drozda.
+     </tei:p>
+     <tei:p>
+      — Ja ti dám drozda! — hrozil mi staručký pán učiteľ, keď som sa   vyhováral, prečo som sa omeškal.
+     </tei:p>
+     <tei:p>
+      Chlapci často spomínali, že na Pušínove sa drozdy rady nosia. Tak   tomu hovorili, keď si drozdy robili hniezdo. Zaumienil som si, že   pôjdem drozdy hľadať, jedného si chytím a vychovám. Potom ho naučím   pekne pískať.
+     </tei:p>
+     <tei:p>
+      Od tých čias, keď nebolo treba ísť do školy, chodil som po   kružinách krížom-krážom a konečne som našiel hniezdo, z ktorého   vyletel drozd so žltým zobáčikom. Boli v ňom štyri zelenkasté   vajíčka.
+     </tei:p>
+     <tei:p>
+      Chodieval som k hniezdu veľmi často a cestou domov vždy som si   vyumýval čižmy v jarku, aby ma doma nevytrepali.
+     </tei:p>
+     <tei:p>
+      Mláďatká sa vyliahli; boli celkom holé. O pár dní porástli   bavlnkou, neskoršie vyrástli im na tielkach púčky peria. Nemohol som   sa dočkať: vzal som si dve najväčšie a pobral som sa s nimi domov, čo   ako za mnou poletoval starý drozd, pištiac a volajúc, akoby mi bol   vyčítal krádež svojich detí.
+     </tei:p>
+     <tei:p>
+      Doma ma vyhrešili a vyhnali, aby som vtáčatká zaniesol späť do   hniezda. Plakal som dlho pri cintoríne, držiac vtákov v klobúku.   Potom som sa vrátil domov, že nemôžem hniezdo nájsť.
+     </tei:p>
+     <tei:p>
+      Vyhrešili ma znova, ale mal som drozdy. U susedov mi požičali   klietku. Priatelia ma poučili, čím ich mám chovať.
+     </tei:p>
+     <tei:p>
+      Kŕmil som ich často, namáčajúc biely chlieb v mlieku, alebo   pokrájajúc surovú pečeň na kúsky, ak sa mi podarilo usporiť si päť   grajciarov a kúpiť si ju u mäsiara.
+     </tei:p>
+     <tei:p>
+      Celé hodiny som sedával pri klietke a díval som sa na vtáčkov.   Zapískal jeden, zase druhý, znova a znova. Ako sa večerilo, stúlili   sa moje dve vtáčatká do kútika, skryli nôžky pod seba a prižmúriac   očká, ohlášali sa k povale obráteným pyštekom. Zdalo sa mi, že im je   pusto, lebo sa zvečerieva, a že volajú svoju matku.
+     </tei:p>
+     <tei:p>
+      Dlho som nemohol zaspať. Ľúto mi bolo a smutno.
+     </tei:p>
+     <tei:p>
+      Prišla noc a mne sa snívalo, že priletela k obloku matka mladých   drozdov a spievala, aby som jej vrátil odvlečené deti...
+     </tei:p>
+     <tei:p>
+      Ráno som sa prebudil veľmi neveselý, vzal som vtáčkov a išiel som   hľadať hniezdo, že ich materi vrátim. Ale hniezdo už bolo prázdne a   nikde nablízku nevidel som ani staré, ani mladé drozdy. Čo robiť?   Zahynuli by moje vtáčatká, keby som ich bol nechal tam, lebo sa ešte   nevedeli samy uživiť. Musel som sa s nimi vrátiť a znova ich dať do   klietky.
+     </tei:p>
+     <tei:p>
+      Raz v predvečer, nachovajúc vtáčkov, díval som sa ako obyčajne,   ako budú usínať. A tu menší z nich ohlášal sa len slabým hláskom,   vždy slabšie a slabšie, prižmúril očká a klonil hlávku. Tak stíchol   celkom a hlávku viac nezdvihol.
+     </tei:p>
+     <tei:p>
+      Vzal som ho do ruky a rozplakal som sa, lebo vtáčik bol mŕtvy.
+     </tei:p>
+     <tei:p>
+      Niesol som ho do záhrady, že ho pochovám. Stretol som starého   otca.
+     </tei:p>
+     <tei:p>
+      — Vidíš, vidíš, — povedal mi, — ako si zhrešil!
+     </tei:p>
+     <tei:p>
+      Nemohol som nič povedať, tak mi bolo úzko. A kopajúc jamku do   piesku, myslel som na to, že som usmrtil nevinného vtáčka a už ani   starý otec ma nemá rád, lebo od tých čias, ako som vtáčkov doniesol,   ani raz ma nezavolal k sebe na lavičku a ani raz mi nezaspieval.
+     </tei:p>
+     <tei:p>
+      A pochoval som vtáčka za jarného večera, pri svite bledého   mesiaca. Hrobček som ovenčil strapatou púpavkou a odišiel som, len   keď mamka zavolala na mňa z dverí kuchyne:
+     </tei:p>
+     <tei:p>
+      — Belo, kdeže ty zháňaš? Poď už večerať!
+     </tei:p>
+     <tei:p>
+      Prišlo leto. Druhý vtáčik bol už odrastený, veľký, s pekným dlhým   chvostom. Nazobkal sa, najedol sa do chuti sám a nebolo ho treba   chovať ako predtým. Len pyštek nemal žltý. Chlapci hovorievali, že mu   ožltne v zime, ale len potom, keď bude starší.
+     </tei:p>
+     <tei:p>
+      Ako som sa usiloval naučiť ho svoje obľúbené pesničky! Pískal som   včasráno, cez poludnie i v podvečer, ale on celé dni piskotal iba   svojím spôsobom a hľadieval na zelené stromy do záhrady.
+     </tei:p>
+     <tei:p>
+      Z času na čas priletel krásny drozd a zasadol na jabloni pred   naším domom. Hneď ho spozoroval a metal sa k drôtom svojej klietky,   pískajúc vzrušene, akoby bol chcel vyletieť za ním.
+     </tei:p>
+     <tei:p>
+      Prišla mi na um myšlienka: „Čo keby som ho tak pustil? Ako by sa   zaradoval uväznený vtáčik! A vedel by sa už sám uživiť, veď vie jesť   a netreba ho už kŕmiť.“
+     </tei:p>
+     <tei:p>
+      Schytil som klietku a utekal s ňou do záhrady. Tam som ju položil   do trávy a otvoril dvercia. Ľahol som si a pozoroval drozda.
+     </tei:p>
+     <tei:p>
+      Poobzeral sa. O chvíľu zoskočil z paličky a kukol von dvercami.   Zasa sa poobzeral a konečne vybehol do trávy, pomáhajúc si krídlami v   úteku. Pritom ani len raz nezapískal.
+     </tei:p>
+     <tei:p>
+      Očakával som, že sa vznesie na krídla a poletí vozvysok medzi   oblaky, odtiaľ že si vyhliadne najkrajšiu horu a spustí sa k nej s   víťazným spevom. A keď príde daždivá jeseň, bude hľadať svoju   stratenú rodinku, aby mu nebolo pusto a chladno.
+     </tei:p>
+     <tei:p>
+      Ale vtáčik nevládal vzlietnuť od zeme. Krídelká mu v klietke   oslabli a zmeraveli. Zatrepotal nimi, zasa sa zavŕtal do trávy a   blúdil záhradou sem a ta.
+     </tei:p>
+     <tei:p>
+      Stalo sa, ležal som v tráve a on za svojej potulky prišiel rovno   ku mne, zastal, zahľadel sa na mňa a prihováral sa mi   zapísknutím.
+     </tei:p>
+     <tei:p>
+      Stmievalo sa a bál som sa oň, aby ho v noci nechytila mačka, preto   som ho znova položil do klietky a zavesil na podstienok.
+     </tei:p>
+     <tei:p>
+      Vtáčik sa chvatne najedol a hneď i zaspal. Tak sa zdalo, že   prechádzka mu bola na úžitok.
+     </tei:p>
+     <tei:p>
+      Trvalo to niekoľko dní: môj drozd od rána do večera predieral sa   trávou a hľadal si obživu. Večierkom vrátil sa vždy do klietky na   nocľah. Neskoršie už kúskami i poletúval, až napokon nemal som oň   obavy: lietal ako všetky ostatné vtáčky. Klietka visela na podstení a   jej dvercia boli vždy otvorené. On sa do nej každý večer vrátil. A ja   som nezameškal pripraviť mu vždy nejakú večeru.
+     </tei:p>
+     <tei:p>
+      V jedno pekné ráno priletel do záhrady krásny čierny drozd,   zasadol na košatý orech a volal kohosi dlhým pískaním. Vtom priletel   k nemu môj, a keď chvíľu vedľa seba posedeli, vzniesli sa nad stromy   a obrátili sa na juh, na Kosálovo.
+     </tei:p>
+     <tei:p>
+      Od tých čias som už nevidel svojho vtáčka. Ale bol som spokojný,   že sa mi podarilo vrátiť ho prírode tak, ako som jej ho bol odňal.   Doma mi všetko odpustili, znova ma mali radi. A starý otec mi zasa   spieval pesničku o kukulienke, alebo rozprával o Laktibrade a   Lomidrevovi do neskorého večera.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       O sladičovom   koreni
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      V našej dedine žil mocný chlapík, ktorého volali nemým Jožom. Ale   Jožo nebol nemý, ibaže hovorieval trhane a viac posunkami rúk, pričom   krútil a prevracal očami. Zato sily mal za býka, a keď zahodil   päťkilový kameň, ten zahvižďal v povetrí ako strela a kam dopadol,   zaryl sa hlboko do zeme.
+     </tei:p>
+     <tei:p>
+      V každý robotný deň musel doniesť nošu dreva. Jeho rodičia boli   chudobní, bývali v drevenej chalupe a on, Jozef, musel nanosiť toľko   dreva, že vystačilo i na tuhú zimu.
+     </tei:p>
+     <tei:p>
+      Nemému Jožovi v hore vyhýbal sa každý, lebo sa hovorilo o ňom, že   kdekoho ozbíja o vreckový nôž. Nožíkov, čo nazbíjal od ľudí, že má   celé tucty. Preto chodci po horách neradi brali so sebou pekné   nožíky, iba obyčajné zahrdzavené žabikláče.
+     </tei:p>
+     <tei:p>
+      Jožo mal naozaj rád nožíky. Mal z nich celú zbierku a nosieval ich   vždy zviazané remencom do skrutky. Biele i zelené, červené i žlté;   farby menili sa na nich ani dúha. Večer pred spaním si ich vždy znova   a znova prepočítal, zviazal remencom a položil pod hlavu. To bol jeho   najdrahší poklad, to bolo jeho šťastie. Ráno ich zasa prepočítal,   zviazal remencom, zastrčil za opasok a pobral sa hore vrchom so   žinkou v jednej a s valaškou v druhej ruke.
+     </tei:p>
+     <tei:p>
+      O jeho valaške rozprávali pastieri divy. Hodí ju vraj na pol   kilometra a trafí každého zajaca, čo mu pred oči príde.
+     </tei:p>
+     <tei:p>
+      Bolo jarné popoludnie, keď sme šli hľadať koreň sladiča, šiesti   chlapci-šarvanci, jeden lepší ako druhý. Ktorýsi z nás tvrdil, že   sladič je koreň medovej chuti a rastie v tmavých horách. Kto požuje   jeho koreň, zadrieme sladkým snom. Bude sa mu snívať, že lieta ponad   hory a háje. A keď sa prebudí, pocíti ohromnú silu vo svojom tele a   nebude sa báť nikoho na svete.
+     </tei:p>
+     <tei:p>
+      Kráčali sme Pinpiargami, zhovárajúc sa o zázračnom koreni sladiča.   Ani jeden z nás nevedel, aká môže byť táto rastlina, a preto sme boli   namrzení, že ťažko nám bude koreň hľadať.
+     </tei:p>
+     <tei:p>
+      Prešli sme Búčím, Lúčkami, cez Dlžiny, Niklovú a konečne boli sme   pri hustej jedľovej hore.
+     </tei:p>
+     <tei:p>
+      — Pánboh s nami! — povedal významne najstarší z nás a podvihol   klobúk.
+     </tei:p>
+     <tei:p>
+      — Pánboh s nami! — opakovali sme za ním sborom.
+     </tei:p>
+     <tei:p>
+      Z hory sa ťahal voňavý chlad, v nej ležalo zelenkavé pološero a   nebolo počuť ani vtáčka-preletáčka.
+     </tei:p>
+     <tei:p>
+      Bojazlivo, jeden za druhým vkĺzli sme do hory, obzerajúc sa   splašene na všetky strany. Išli sme dlho bez jediného slova. Už sa   nám zdalo, že sa musíme vrátiť bez sladiča, keď sa zjavili pred nami   skaliská, vedľa nich hlboký jarok, husto porastený bujným papradím a   všakovou inou zelinou.
+     </tei:p>
+     <tei:p>
+      Pozreli sme druh na druha a usmiali sme sa.
+     </tei:p>
+     <tei:p>
+      — To musí byť sladič! — ozval sa najstarší a ukázal na listy   papradia.
+     </tei:p>
+     <tei:p>
+      Vrhli sme sa na zeliny a povytrhávajúc ich opatrne zo zeme,   posadali sme si. Chvíľku sme váhali, konečne, s tvárami plnými taju,   začali sme pomaly prežúvať zablatené korene. A prežúvali sme.
+     </tei:p>
+     <tei:p>
+      Iste sa každý divil, že koreň nie je sladký, no ani jeden to   nepovedal.
+     </tei:p>
+     <tei:p>
+      Nikto nezadriemal, nikto sa nezdal silnejším, ako bol predtým.
+     </tei:p>
+     <tei:p>
+      — To nie je sladič! — ozval som sa, odhodiac korene a odpľúvajúc   po trpkej chuti.
+     </tei:p>
+     <tei:p>
+      Priatelia mrzuto pozahadzovali zeliny a poobzerali sa, či by   nebolo dobre okúsiť ešte korene iných zelín. Ale ticho v hore stávalo   sa strašným. Jednému z nás prešiel mráz po chrbte, hneď sme sa všetci   otriasli od zimy a bezo slova, mimovoľne, poberali sme sa rýchlym   krokom z hory.
+     </tei:p>
+     <tei:p>
+      Len čo sme vykročili na čistinu, vyskočil z húštiny smrekov   ozrutný chlap.
+     </tei:p>
+     <tei:p>
+      — Stoj! — zakričal, až sa v hore ozvalo. Pristúpil k nám, držiac   valašku nad hlavou. — Ukáž nožík — ale už!
+     </tei:p>
+     <tei:p>
+      Všetci sme povyťahovali nožíky a predložili mu ich. Kolená sa nám   triasli od strachu a ani jeden sa neodvážil vzoprieť.
+     </tei:p>
+     <tei:p>
+      Chlap si vybral zo šiestich nožíkov tri kostené. Tri boli   žabikláče; tie nám vrátil a rozkázal, aby sme sa už aj brali   domov.
+     </tei:p>
+     <tei:p>
+      Počúvli sme ho vďačne a len na Dlžinách sme sa opovážili obzrieť,   lebo sme vedeli, že je to mocný Jožo, ktorého nahnevať nie je   radno...
+     </tei:p>
+     <tei:p>
+      To bolo naše prvé a posledné stretnutie s ním, lebo o krátky čas   umrel náhlou smrťou. Tetky po pohrebe hovorili, že jeho mať položila   mu všetky nožíky do truhly, lebo keď umieral, stískal ich kŕčovite v   rukách.
+     </tei:p>
+     <tei:p>
+      Tam bol i môj pekný penálik, s ktorým som sa v mysli lúčil a   daroval ho nebohému Jožovi na poslednú cestu...
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Búrka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Tie vzácne vtáky, ktoré nazývame morkami a ktorých mäso možno vraj   pripraviť na devätoraký spôsob, posadol veľký nepokoj. Chodili   strápené hore-dolu po dvore, otvárali zobáky, pozerali vozvysok a   pišťali splašene ako na poplach. Nepokoj zmocnil sa hneď i kačiek.   Stúlili sa do kôpky, tárali medzi sebou nezvyčajne smiešne a pozerali   do neba. Hneď husi zagagotali, kotkodákali sliepky a poberali sa do   kurínov. Iba svine behali bezstarostne po dvore, prehadzovali   nemotorné kačky svojimi rypákmi, prevracali im misky s vodou a rýpali   sa v čiernej, kyprej zemi okolo kurínov.
+     </tei:p>
+     <tei:p>
+      Pišťanie moriek stávalo sa veľmi úzkostlivým, preto som si   zaumienil, že sa musím dozvedieť, čoho sa hydina tak desí. Pozeral   som spolu s morkami do neba, ale nič mimoriadne som tam nevidel. Nebo   čistučké, ďaleké vrchy posypané ružovým peľom zapadajúceho slnka a na   blízkych starých vŕbach, ktoré stáli pri Bystrickej vode, prevaľoval   sa slabučký vetrík, taký teplý ako dych mladého teliatka.
+     </tei:p>
+     <tei:p>
+      — Príde búrka! — zvolal starý otec na priedomí, keď sa bol   poobzeral po splašenom operenom národe. — Pozatváraj svine a   hydinu!
+     </tei:p>
+     <tei:p>
+      Schytil som prútenú metlu a zahnal som všetko do chlievov a   kurínov. Potom som ostal na dvore pod širokou jabloňou, ktorá sa   skláňala ponad chlievy, a nepokojne som počúval rozhovory kačiek a   moriek.
+     </tei:p>
+     <tei:p>
+      Stmilo sa. Hydina odrazu stíchla, iba svine zavše zakvičali;   istotne sa borili o kúsok najsuchšieho miesta v chlieve, na ktorom si   chceli všetky tri poležať. V diaľke sa ozval dutý úder hromu a južný   vietor zadul hrozitánskou silou. Hydina v kurínoch zapišťala.
+     </tei:p>
+     <tei:p>
+      Starý otec vyšiel a zavolal na mňa:
+     </tei:p>
+     <tei:p>
+      — Či ho ideš dnuká?! Čože tam postávaš, prediva akási!
+     </tei:p>
+     <tei:p>
+      Počúvol som. Vošli sme do izby a zasadli sme si pri obloku. Stará   mať prichystala hromničnú sviecu. Ak vraj bude veľká búrka, zapáli   sviecu a nič sa nám nestane. Ale starý otec sviecu nechcel, že on   svetlo nepotrebuje, on sa chce dívať na búrku, lebo on má búrku rád.   Nuž stará mať odišla do druhej izby a vzala sviečku so sebou. V izbe   sme ostali sami so starým otcom.
+     </tei:p>
+     <tei:p>
+      Ešte chvíľu bolo ticho, i vietor sa bol utíšil, ale hneď nato   začali sa ozývať hromy bližšie, vietor sa znova rozzúril a na   šindľovú strechu nášho domu zatrepotali veľké kvapky dažďa.
+     </tei:p>
+     <tei:p>
+      — Už je tu! — zvolal starý otec.
+     </tei:p>
+     <tei:p>
+      A v tej chvíli sa tichá dolina premenila na strašné bojište   rozpútaných živlov. Hromy trieskali tak husto, že ich nebolo možno   spočítať; zem sa otriasala, dolina sa mihotala v žiare hustých   bleskov a kusy dreva sa odrážali na našej streche, padajúc do dvora.   To drevo ešte pred chvíľou rástlo na brehu Bystrickej vody a teraz,   roztrieskané hromom, rozlietalo sa na všetky strany.
+     </tei:p>
+     <tei:p>
+      V druhej izbe horela hromničná svieca a pri stole kľačala stará   mať a modlila sa.
+     </tei:p>
+     <tei:p>
+      Aká prudká bola búrka, tak chytro sa i pominula. Preletela ako   šarkan a odvlečúc oblaky, dovolila mesiacu pozlátiť našu uzučkú   dolinu.
+     </tei:p>
+     <tei:p>
+      Zasvietil mesiac na pomoknuté stromy a úbočia a jeho strieborné   lúče odrazili sa na každom lístočku navlhnutých bylín. Zdalo sa, že   to nie je krajina z tohto sveta, ale že je to obraz z rozprávky o   zakliatej krajine.
+     </tei:p>
+     <tei:p>
+      Na ožiarenej jelši zjavil sa malý vtáčik a v tichu najkrajšej noci   začal svoju horúcu pieseň, ktorá trilkujúc a šveholiac, poletúvala z   kríčka na kríček a zatíchala v ďalekých chotároch Bystrickej   doliny.
+     </tei:p>
+     <tei:p>
+      Bol to jediný slávik našej doliny, ktorý spieval zo všetkých   slávikov, čo som kedy počul, najkrajšie.
+     </tei:p>
+     <tei:p>
+      Zaspali sme a slávik ďalej vrúcne spieval tichej mesačnej   noci.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Ako sme boli po vianočný   stromček vo Vlčej
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Keď si sa chcel dostať do Vlčej doliny, bolo treba prejsť najprv   Roháčovom. A Roháčovo je kopček, porastený z poludňajšej strany   húštinou drieňa, liesok a všakového iného krovia. Nad ním sa   rozprestiera dlhá rovina Žaltana s tisícami roztratených kriakov   borievok, ktoré sú za letného podvečera ako roztúlané a pastierom   zabudnuté čierne ovce. Po ľavej strane Žaltana ťahá sa úzka a hlboká   Vlčia dolina, ňou pretekajú bystré vody a rozprávajú hukotom svojich   vĺn medzi vrchovcami stromov. Rozumieť ich hovoru bolo by vzácnou   vecou. Dozvedeli by sme sa, prečo sa dolina volá Vlčou, koľké svorky   vlkov v nej žili voľakedy a ako kruto bojovali s ľuďmi za starých   časov. Po pravej strane je dolina Šašovská, ktorá sa ťahá na Banskú   Bystricu.
+     </tei:p>
+     <tei:p>
+      Niekoľko dní pred Vianocami v ohromnom snehu, siahajúcom skoro po   pás, brodili sme sa hore Roháčovom dvaja: Edo Kosorkin a ja. Nohavice   naspodku zviazané špagátom, vo vrecku po kuse chleba a klobásy a pri   chlebe ostrý končiar ako britva. A na čo sme boli najviac hrdí, bola   stará puška, ktorú niesol Edo prevesenú za remeň na pleci. Odvliekol   ju z domu bez vedomia otca, ktorý bol kedysi poľovníkom. Mal do nej i   tri náboje a úfal sa, že zastrelí niečo vzácneho a daruje to na   Vianoce otcovi, ktorý pre starobu už nemohol chodievať na   poľovačku.
+     </tei:p>
+     <tei:p>
+      — Ej, toto ti je filigránsky čas! — ozval sa Edo, húpajúc snehom   do pása. Líca mal červené ako kalina, čiapku stiahnutú hlboko na oči   a ruky po lakte vo vreckách kabáta.
+     </tei:p>
+     <tei:p>
+      Neodpovedal som mu, lebo preziabnutými ústami nebolo možno pohnúť,   a ak som ich otvoril, tuhý vietor nasypal mi snehu na jazyk, preto   som len zasipel ako had a znova zavrel ústa.
+     </tei:p>
+     <tei:p>
+      Prejdúc Žaltanom, vošli sme do Vlčej doliny. Nebolo tam ani   najmenšieho vánku. Sladká tichosť blúdila v zasnežených smrekoch.   Nikde nebolo badať živej duše.
+     </tei:p>
+     <tei:p>
+      Hľadali sme stromček a mali sme šťastie: v hustej skupine mladých   stromov rástla pekná svrčinka, konáriky mala krásne rozdelené a pekný   vrcholček. Svrčinku sme zoťali.
+     </tei:p>
+     <tei:p>
+      Potom sme sa prikrčili k veľkým svrčinám a prežreli sme klobásu i   chlieb s náležitou chuťou. I pohovorili sme si o tom, koľko krásnych   vecí bude navešaných na tomto našom stromčeku.
+     </tei:p>
+     <tei:p>
+      Od chrbta nás začalo mraziť, nuž obrátili sme sa tou istou cestou,   kade sme prišli. Škoda by bolo pustiť sa prebrodeného chodníčka.
+     </tei:p>
+     <tei:p>
+      Na pokraji hory privítal nás slabý vetrík. Zdalo sa, že v celej   doline niet okrem nás živého tvora. Ale keď sme vykročili z hory, na   svahu Vlčej doliny, obrátenom proti nám, zazreli sme povedľa kriaka   čosi ako tieň, ktorý akoby sem a ta pohybovala neviditeľná ruka.   Popolavý súmrak oslepil nám oči a nemohli sme dovidieť, čo je to. Ale   Edo, ktorý bol chodieval s otcom na poľovačky, hneď usúdil, že je to   líška a že hľadá myši pod kriakmi.
+     </tei:p>
+     <tei:p>
+      Zapichli sme teda stromček do snehu, kľakli sme si zaň ako   opravdiví poľovníci a Edo vystrelil na tieň jednu guľu.
+     </tei:p>
+     <tei:p>
+      Tieň sa pohol a divne zatancoval.
+     </tei:p>
+     <tei:p>
+      Edo vystrelil druhú guľu.
+     </tei:p>
+     <tei:p>
+      Tieň akoby bol podskočil a prudko sa zakyvotal. Podľa toho bolo   možno usúdiť, že je ranený...
+     </tei:p>
+     <tei:p>
+      Edo sa stal veľmi nepokojným a nabil pušku treťou guľou. Mieril   úzkostlivo a — tresk! Tieň naposledy podskočil a padol. Edo sa   vystrel a zakričal:
+     </tei:p>
+     <tei:p>
+      — Dolu je!
+     </tei:p>
+     <tei:p>
+      Ani sami sme nevedeli, ako letíme dolu svahom, ako sa štvornožky   štveráme na druhý breh Vlčej doliny, rovno k zastrelenej líške.   Trápili sme sa myšlienkami, čo urobíme s peniazmi, ktoré za líšku   dostaneme. Či si máme kúpiť pekné nožíky, či korčule, alebo knižky na   čítanie?
+     </tei:p>
+     <tei:p>
+      A keď sme už horko-ťažko dobehli na miesto, zastali sme obidvaja   ako nemí: miesto líšky ležala tam stará, roztrhaná handra. Kto ju   vie, ako sa ta dostala. Možno, že si ju kedysi niekto na čižmu bol   okrútil, aby ho neoziabalo, keď išiel do Vlčej na drevo. Možno, že sa   mu z čižmy odmotala a šmaril ju do vetra; zachytila sa na kríku,   vetrík sa ňou pohrával, aby vyvábil z Edovej búchačky posledné tri   náboje...
+     </tei:p>
+     <tei:p>
+      Pozreli sme s Edom smutne na handru a ešte smutnejšie na seba,   potom do súmraku smerom nášho domova a pomaly, z nohy na nohu,   rozlúčili sme sa s Vlčou dolinou.
+     </tei:p>
+     <tei:p>
+      Ďaleko pod Urpínom svetielkovali žiarivé lampy mesta ako hviezdy   na nebesiach. Kráčali sme mlčiaci, len sneh chrúpal a šušťal pod   našimi húpavými krokmi. V našej dedinke udreli na zvon a on mäkučko   ukladal svoje tenušké hlasy po zasnežených poliach. Boli sme na   rázcestí a podali sme si ruky...
+     </tei:p>
+     <tei:p>
+      Bol Dohviezdny večer. Sedeli sme u Kosorkinov pod stromkom z Vlčej   hory, ovešaným trblietavou krásou, a rozprávali vždy znova a znova   starému Kosorkinovi, ako sme strieľali do líšky vo Vlčej doline.
+     </tei:p>
+     <tei:p>
+      On sedel vo veľkom starom kresle, pofajčieval z fajky na dlhej   trúbeli a dobrácky sa nám usmieval.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Poľovačka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Ďaleko od miest, v stolici Zvolenskej, leží neveľká dedina. Je to   obec Hrochoť. Utešené hory rozťahujú sa okolo nej široko-ďaleko. Tam   na juhozápadnej strane vypína sa končitý vrch Chochuľka a na východe   drieme si známa detvianska Poľana.
+     </tei:p>
+     <tei:p>
+      Na Hrochoti mal som známeho gazdu menom Martin Pleva, ktorý mi raz   takýto list napísal:
+     </tei:p>
+     <tei:p>
+      „Milý Ondrej!
+     </tei:p>
+     <tei:p>
+      Dávam ti vedieť, že ovce dobre doja a žinčica je dosť dobrá. Príď   si zapiť, a keď si zapiješ, pôjdeme diviaky ponaháňať, lebo mi ovos   hubia. Veľkú skazu mi už narobili. Príď v sobotu večer pod Jelšovskú   dolinu, tam ťa budem s koňmi čakať.
+     </tei:p>
+     <tei:p>
+      Inšie ti nemám čo písať, len ťa ešte pozdravujem.
+     </tei:p>
+     <tei:p>
+      Tvoj gazda Martin Pleva.“
+     </tei:p>
+     <tei:p>
+      Prišla sobota i vybral som sa krížom cez vrchy. Prídem pod   Jelšovskú dolinu a tam sa dva kone pasú...
+     </tei:p>
+     <tei:p>
+      — Hop-hoóp! — zakričal som z plného hrdla, až sa dvanásť ráz v   dolinách ozvalo.
+     </tei:p>
+     <tei:p>
+      — Hop-hop-hoóp! — ozval sa Martin Pleva neďaleko. Tam si hovel v   tráve a pofajčieval z fajky.
+     </tei:p>
+     <tei:p>
+      Sadli sme na kone a pohli sme sa.
+     </tei:p>
+     <tei:p>
+      Plevova žena ma veľmi vľúdne privítala. Naliala žinčice, položila   na stôl hrudu syra i chlieb dobrušký, ražný. Doniesla kusisko domácej   slaniny — no, tak som sa cítil ako v nebi!
+     </tei:p>
+     <tei:p>
+      Pojedli, popili a vykročili sme. Martin Pleva, chlapisko, rodený   Hrochoťan, mal oči ani sova. On ma viedol. Videl, kade kráča; ja som   len tak za ním a neraz som sa potkol na hrboľatej ceste.
+     </tei:p>
+     <tei:p>
+      — Kdeže to, nešťastný Pleva, kärujete? — pýtal som sa ho, keď   zabočil do hlbokej doliny, tmavej ani čierna káva.
+     </tei:p>
+     <tei:p>
+      — Len ty nič nevrav, — odpovedá on. — Prejdeme Hrochoťskou dolinou   a už sme na svojom.
+     </tei:p>
+     <tei:p>
+      Išli sme popri neveľkom potoku. Pleva rozprával, že potok ten je   Hučava, lebo rád si zahučí, keď len trocha dažďa spŕchne. Onedlho   zabočili sme naľavo, vyšli sme hore úbočím, pomedzi hustú bučinu, a   zrazu pred nami veľká tabla ovsa.
+     </tei:p>
+     <tei:p>
+      — Tak, — hovorí Pleva, — môžeš si vydýchnuť.
+     </tei:p>
+     <tei:p>
+      Na chvíľu sa vzdialil a vrátil sa s hrdzavou starou búchačkou. Ani   muchu by z nej nezastrelil.
+     </tei:p>
+     <tei:p>
+      — Či by si ty takto vedel streliť? — pýta sa ma Pleva.
+     </tei:p>
+     <tei:p>
+      — Ako by nie! — odpovedám. — Aj nedávno hen na Ostrom vrchu   zacielil som si na zajaca, ale len tak palicou, lebo pušky som   nemal.
+     </tei:p>
+     <tei:p>
+      Pleva pokrútil hlavou a hovorí:
+     </tei:p>
+     <tei:p>
+      — Dajsamisvete, palicou strieľať. Streľ si z pušky, ako sa patrí,   a skoľ mi diviaka, potom budeš chlap! Ja nemôžem, na moj dušu nie!   Ruky sa mi trasú ani trasorítka...
+     </tei:p>
+     <tei:p>
+      A ja mu vravím:
+     </tei:p>
+     <tei:p>
+      — Diviaka? To už hej! Dajte pušku a zaveďte ma k nemu!
+     </tei:p>
+     <tei:p>
+      Dal mi Pleva pušku a viedol ma po okraji hory. Neprestajne pozeral   na stromy a šomral si čosi popod nos. A keď sme prišli k veľkému   bukovému sucháru, zahvizdol od radosti a vyštveral sa naň. Bol to   víchricou od poly odlomený strom, už povážlivo nahnitý.
+     </tei:p>
+     <tei:p>
+      Vyškriabal som sa za Plevom a tam sme sa vysoko nad zemou na   okyptených konároch dosť pohodlne usadili.
+     </tei:p>
+     <tei:p>
+      — Počkáme, — šepká mi Pleva. — Čochvíľa vyjde mesiac, potom sa   budeš dívať: ovos sa ti bude len tak kolísať, diviakov ani hmly. Len   ti budú vytŕčať hlavy — zavše jeden, zasa druhý. Potom pomaličky   namieriš a daj mu, čo mu patrí! Na moj dušu, ak ho trafíš, dám ti   barana!
+     </tei:p>
+     <tei:p>
+      — A veruže ho trafím, — šepcem zasa ja gazdovi Plevovi. — Len o to   ide, ako ho domov odvlečieme...
+     </tei:p>
+     <tei:p>
+      Pleva hodil rukou:
+     </tei:p>
+     <tei:p>
+      — Bagateľ!
+     </tei:p>
+     <tei:p>
+      Potom sme už čušali, akoby nám ústa zapchal. Ja som sa neopovážil   ani poriadne dýchať, len tak bojazlivo som vypúšťal paru.
+     </tei:p>
+     <tei:p>
+      Čakáme — nič. Ešte čakáme — mesiac ako pozlátený postruhník   vykukol na nás spoza hory. A vidíme: hýbe sa ovos, ani keby vetry po   ňom tancovali...
+     </tei:p>
+     <tei:p>
+      — Tu sú, tu sú! — šepoce mi Martin Pleva.
+     </tei:p>
+     <tei:p>
+      Dvíham pušku k oku a čakám, kedy vystrčí diviak svoju strašnú   hlavu z ovsa. Pleva sa netrpezlivo hniezdi. A tu, akoby hrom udrel,   zapraští náš suchár a my — hybaj! Len nás tak vyťalo dolu na   pažiť.
+     </tei:p>
+     <tei:p>
+      Udrel som sa na chrbát a nemohol som dýchať. Dvíha ma Martin Pleva   a hreší:
+     </tei:p>
+     <tei:p>
+      — Ťaj, bodaj ho čerti drali! Diviak ti je ta-tam! A ako som sa len   udrel, rovno na mastný koštiaľ...
+     </tei:p>
+     <tei:p>
+      Oprobujeme, či máme kosti v poriadku, a poď domov, smutní a   nevádzaní.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Medveď spod   Pavelcova
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Kade sa obzrieš, všade len hora a hora. Mladá dorastá na tom   mieste, kde kedysi storočné stromy stáli. Prišli harmanskí rubači,   postínali ich a ženičky nasadili tam malé stromky z horárskej škôlky.   Nasadili ich husto, aby nebolo veľa prázdnych priestorov, keby sa   niektoré z nich neujali. Ale čierna horská zem, hnojená ihličím a   padnutými haluzami stromov, dožičí obživy každej jedlici, svrčine i   borovici. Preto hustá je sihlina, taká hustá, ani by si sa ňou   nepreštveral.
+     </tei:p>
+     <tei:p>
+      Pred Vianocami prídu chlapi od mesta, povytínajú niektoré stromce   a odvezú ich. Tam v meste, na rínku, budú ich predávať mešťanom, aby   si ich ovešali okrasami. Horička takto preriedená porastie, rozpne sa   a zmohutnie.
+     </tei:p>
+     <tei:p>
+      Povedľa mladiny tíško si drieme stará hora. Vysoké jedle zo   severnej strany porástli machom. Mach nemiluje slnko a skrýva sa v   zápačí, na tej strane stromov, na ktorú slnko najmenej pozerá.   Machnatá vrstvička na jedli je ako bundička. Hreje jedľu od severu,   aby mohla v zime pokojne spať.
+     </tei:p>
+     <tei:p>
+      Stará hora čaká, kedy prídu rubači, ktorí postínajú a rozkálajú   jej ozrutné jedle a splavia ich do mesta dolu Bystrickou vodou, aby   mešťania cez zimu nepomrzli.
+     </tei:p>
+     <tei:p>
+      Opodiaľ stojí zasa hora buková, stará buková hora. I ju čaká ten   istý osud ako jej sestru, tmavú jedľovú horu...
+     </tei:p>
+     <tei:p>
+      Raz v predjeseni, keď už slivky začínali tmavieť a rodením ustaté   stromy spúšťali konáre až k zemi, zjavili sa štyridsiati rubači na   úpätí jedľovej hory. Mišo Strmeň, vysoký a mocný chlap, rozkázal   stavať kolibu a hneď sa chytil i sám do roboty. Postínali tenšie   stromce, okliesnili a poroztínali ich. Potom podkopali briežok a na   urovnanom štvorci postavili mocnú kolibu. V nej budú bývať, kým horu   nezotnú a nezavíta biela zima.
+     </tei:p>
+     <tei:p>
+      Prvý deň prešiel potíšku, keď sa bol okúpal v zlatej žiare slnka a   — stmilo sa. Chlapi založili v kolibe oheň, navarili   štiarcu\footnote{Jedlo z múky a zemiakov.} a večerali. Potom si   políhali okolo ohniska. Ako usínal oheň, usínali aj oni, ustatí po   namáhavej dennej robote.
+     </tei:p>
+     <tei:p>
+      Okolo polnoci dovliekol sa do koliby človek a zvolal:
+     </tei:p>
+     <tei:p>
+      — Rubači, ratujte ma, lebo zahyniem!...
+     </tei:p>
+     <tei:p>
+      Poskákali rubači na rovné nohy, hodili triesok na oheň a tak   posvietili hosťovi do tváre. A vtedy videli, že je to rubač Ondrej   Jašík, o ktorom ani nevedeli, že ho v kolibe niet. On to bol, Jašík z   Harmanskej doliny. Mal poškriabanú a zakrvavenú tvár.
+     </tei:p>
+     <tei:p>
+      Poumývali ho a obviazali, aby nekrvácal. Uložili ho na priči, aby   si odpočinul a rozpovedal, čo sa mu prihodilo.
+     </tei:p>
+     <tei:p>
+      — Takto vám to bolo, — začal Jašík. — Vybral som sa ešte pred   večerom, že vybehnem pohľadať pod Pavelcovo tisinku\footnote{Vzácny   ihličnatý strom. Rastie vo vysokých polohách na skalnatej pôde. Hojne   sa vyskytuje v horách Veľkej Fatry. Jeho drevo je ťažké, hutné,   červenkavé a v priereze krásne pruhované. Vyrábajú z neho ozdobné   predmety.}. A keď som došiel k húštine kosodreviny nad Čertovým   vrchom, slnko práve zapadalo. V hustej kosodrevine nemáte chodníka.   Sú tam iba nízke, dlhočizné a pokrútené tunely, vyšliapané medveďmi.   ‚Len aby som ho takto nestretol...‘ myslím si. Veď som mal pri sebe   iba malú sekerku. A len čo urobím štvornožky niekoľko krokov, tu sa   mi zjaví ozruta pred očami: medvedica ako chalupa! Chcel som sa   vrátiť, ale už nebolo kedy... Postavila sa na zadné nohy, zarevala   ako diabol a — bác ma labou po hlave! Čo bolo potom, nepamätám sa.   Iba toľko viem, že som sa precítil, keď mi rosa sadla na tvár. Ešte   dobre, že som mal na hlave baranicu, inak by ma bola zadrapila do   kosti! Veru tak, kamaráti; toľko krvi som stratil, že som sa ledva   sem dovliekol... Rubači sa smiali a dopaľovali Jašíka:
+     </tei:p>
+     <tei:p>
+      — Prečo si sa jej nepozdravil? Dobre ti tak!
+     </tei:p>
+     <tei:p>
+      — Bola to, ako hovorím, samica, ktorá tam má istotne mláďatá.   Preto sa tak nasrdila, že sa tade potĺkam, — povedal Jašík.
+     </tei:p>
+     <tei:p>
+      Na to sa ohlásil Strmeň:
+     </tei:p>
+     <tei:p>
+      — Ak je tak, môžeme sa vybrať navštíviť ich...
+     </tei:p>
+     <tei:p>
+      — Pôjdeme, pôjdeme! — prisviedčali chlapi a líhali si každý na   svoje miesto.
+     </tei:p>
+     <tei:p>
+      O chvíľu bolo počuť už iba pravidelné dýchanie hôrnych chlapov a   hukotanie potoka poniže koliby.
+     </tei:p>
+     <tei:p>
+      Medveď vraj patrí hore, a nie človeku. Ani oni, rubači, nemyslia   na to. Idú, idú po chodníku a dlhé žŕdky nesú. Každý z nich má na   opasku ešte aj ostrú sekeru...
+     </tei:p>
+     <tei:p>
+      Okolo kosodreviny sa rozpŕchli a Strmeň zvolal:
+     </tei:p>
+     <tei:p>
+      — Kto si ho chytí, toho bude!
+     </tei:p>
+     <tei:p>
+      Potom pokrikovali, štúrali žŕdkami do kosodreviny. Takto chceli   vyplašiť medvede z hustého krovia.
+     </tei:p>
+     <tei:p>
+      Chvíľku sa tak zdalo, že v kosodrevine ničoho niet. Ticho bolo,   nič sa nehýbalo. Ale keď Mišo Strmeň odrazu odhodil svoju žrď a   skočil do húštiny, z krovia sa ozvalo ako nariekanie starého človeka   a na to radostné Strmeňovo mrmlanie.
+     </tei:p>
+     <tei:p>
+      Všetci stíchli a striehli, čo teraz bude... Tu vyskočil Mišo   Strmeň na lúčinu s malým, bucľatým medvedíkom v náručí. Stískal ho   ako malé dieťa a volal na rubačov:
+     </tei:p>
+     <tei:p>
+      — Do radu sa, husto do radu a pracme sa odtiaľto! Musíte ma kryť,   lebo zle pochodíme, ak sa vráti stará... Istotne si šla pohľadať   niečo pod zuby. Mali sme veľké šťastie...
+     </tei:p>
+     <tei:p>
+      Rubači utvorili okolo Strmeňa obruč a spúšťali sa s ním dolu   vrchom.
+     </tei:p>
+     <tei:p>
+      — Je tam ešte jedno, trochu väčšie ako toto, — rozprával Strmeň,   ukazujúc medvedíka, — ale mi ušlo a skrylo sa v húšťave. Necháme ho   na pokoji, lebo nehodno sa pri takýchto veciach dlho zabávať... Môže   sa ti natrafiť samica a potom by sme sa museli len postaviť chrbtami   dokopy a odrážať ju žŕdkami. No a keby bolo treba, potom ju aj   sekerou začiahnuť... To vám je nie do smiechu, keď sa taká samica   nasrdí. Pamätám sa, bolo to pred rokmi v kremnických horách: odňali   sme medvedici mláďatá, ale nemohli sme sa od nej oslobodiť.   Vytrhávala zo zeme skaly, až sa gúľali na nás dolu vrchom; vyvaľovala   suché pne, ba chvíľami doskočila i k nám a zubami drvila konce našich   žŕdok. Ledva sme sa dostali do koliby pri dobrom zdraví...
+     </tei:p>
+     <tei:p>
+      A Jašík, ktorý bol ešte nahnevaný, že ho medvedica onehdy tak   zaškrabla, len zavše prerušil Strmeňa:
+     </tei:p>
+     <tei:p>
+      — Ba škoda, že sme ju nestretli! Bol by som jej odplatil, čo mi   nedávno požičala...
+     </tei:p>
+     <tei:p>
+      Pri takýchto rozhovoroch dostali sa šťastlivo ku kolibe a že bola   nedeľa, pozaväzovali svoje batohy a spustili sa povedľa potoka do   dediny. Strmeň zakrútil medvedíka do kabanice a celou cestou sa mu   tíško prihováral.
+     </tei:p>
+     <tei:p>
+      Keď sa medvedica vrátila, slnko už stálo vysoko na nebi. Akoby   bola tušila, čo sa stalo: zastala na pokraji kosodreviny, naježila   srsť a načúvala. Všade cítila pach človeka, najdravšieho nepriateľa   hôr. Všade boli stopy po krpcoch harmanských rubačov. Medvedica   zamumlala. A keď sa v kosodrevine pohli a zašelestili halúzky a   sprašťali tenké konáriky pod labkami jej mláďaťa, skočila k nemu   radostne, oňuchala ho a láskavo otierala oň svoju chlpatú hlavu.
+     </tei:p>
+     <tei:p>
+      Ale i tam bol pach človeka, i tam boli šľapaje, stopy po   Strmeňových krpcoch. Oňuchala ich, poobzerala sa po húštine a pohla   sa hľadať svoje druhé mláďa. Hľadala a hľadala a malé medvieďa   motkalo sa za ňou. Presliedila každý ker. Vyšliapala nové chodníky v   hustej spleti kosodreviny, a keď ho nenašla, vrátila sa s druhým   mláďaťom do hniezda, ktoré si bola vystlala vlastnou srsťou. Tam si   ľahli a stúlili sa k sebe.
+     </tei:p>
+     <tei:p>
+      Takto preležali do večera, kým prišiel k nim odrastený mladý   medveď gaštanovej farby. Bol tiež jej mláďaťom, len ešte nie celkom   dospelým, preto sa pridŕžal svojej matky. A keď sa stmilo, vyšli   spoločne z húštiny kosodreviny a pustili sa po stopách.
+     </tei:p>
+     <tei:p>
+      Noc bola veľmi tmavá, spali stromy i vtáčatá. Medvede spúšťali sa   ku kolibe harmanských rubačov.
+     </tei:p>
+     <tei:p>
+      Poobzerali kolibu, oňuchali a zasa šli ďalej po stopách, ktoré   viedli k dedine.
+     </tei:p>
+     <tei:p>
+      Tak asi o polnoci priblížili sa k malému domu na pokraji dediny.   Chlpatý pes, uviazaný na reťazi, stiahol sa do búdy a začal bláznivo   štekať a nariekať v predtuche veľkého nebezpečenstva.
+     </tei:p>
+     <tei:p>
+      Mladý medveď sa nasrdil, skočil na psiu búdu a jediným úderom ju   roztrieskal. Kudloš sa veľmi naľakal, vyskočil z búdy, odtrhol sa z   reťaze a šialene ďavkajúc, ozlomkrky zutekal do sveta.
+     </tei:p>
+     <tei:p>
+      Medvede preňuchali dvor, akoby hľadali na ňom pach ukradnutého   mláďaťa. Ale okrem psieho a ľudského pachu iného tam badať nebolo.   Pobrali sa o dom ďalej.
+     </tei:p>
+     <tei:p>
+      Obopínala ho veľká záhrada, v nej plno stromov obťažkaných ovocím   čakalo na ruky hospodára, ktorý by ich zbavil tejto sladkej   ťarchy.
+     </tei:p>
+     <tei:p>
+      Medveď, mrcha hospodár, vyštveral sa na slivku, rozkolísal sa a   zlomil celú korunu, aby mohla ovocie obhrýzať celá rodina pohodlne zo   zeme. Takto tam zahubili tri mladé slivky, z ktorých už nikdy stromy   nebudú.
+     </tei:p>
+     <tei:p>
+      Keď sa takto občerstvili, zasa preňuchali dvor. Nijaký iný, iba   človečí a kozí pach rozprestieral sa po ňom...
+     </tei:p>
+     <tei:p>
+      Odrazu kdesi zamékalo kozľa v smrteľnej úzkosti. Akiste zacítilo   zápach, ktorý mu nič dobrého neveštil. Mekot zaznieval od stajne.
+     </tei:p>
+     <tei:p>
+      Medveď skočil na dvere stajne, vyvalil ich a kozľa naposledy   zajačalo... O chvíľu ho už v zuboch odnášal záhradou.
+     </tei:p>
+     <tei:p>
+      Ešte by — možno — boli šli aj po iných dvoroch a boli by hľadali   medvieďa, ale Kudloš z prvého domu, ktorý sa bol odtrhol z reťaze a   tak ušiel istej smrti, pobehúval celou dedinou a štekal na poplach   plným hrtanom. Temer zo všetkých dvorov povybehúvali psi, veľkí i   malí. Hneď ich bolo šesť, hneď desať, dvanásť, štrnásť a celá táto   svorka schytila sa za splašeným Kudlošom.
+     </tei:p>
+     <tei:p>
+      Najprv utekali k domu jeho gazdu, a potom po stopách medveďov do   záhrady druhého domu.
+     </tei:p>
+     <tei:p>
+      Dobehli práve, keď medvedia rodina opúšťala záhradu a poberala sa   k tretiemu domu.
+     </tei:p>
+     <tei:p>
+      Zaštekala svorka psov, obkľúčila medvediu rodinu a dojedala do   nej. Niektorý smelší pes odskočil k medveďom od chrbta celkom blízko,   vycieral zuby a hrozivo vrčal. Ale keď sa medvedica alebo mladý   medveď obrátili, pes odskočil ako strela a nebolo ho.
+     </tei:p>
+     <tei:p>
+      Medveď sa rozzúril a bol by chcel ovaliť labou aspoň jedného z   nich, ale pes zakaždým obratne odskočil a medveď udrel labou do   povetria. Niekoľko ráz položil i kozľa na zem, skočil za psami to   napravo, to naľavo, ale ani to nepomáhalo. Psi v tej chvíli utvorili   väčšiu obruč, aby ju hneď zasa zúžili. Preto bolo celkom na mieste,   že medvedica, ktorá sa obávala o svoje mláďa, chytila ho opatrne   zubami za kožu a zamierila k horám. Medveď s ukoristeným kozľaťom   hompáľal sa za ňou a len chvíľami sa obrátil, keď ho bezočiví psi   šteklili už na labe.
+     </tei:p>
+     <tei:p>
+      Mrcha to bolo cestovanie. Psi vyprevádzali medvede až do tretieho   chotára a len vtedy sa vrátili, keď im prišlo putovať na strmý   skalnatý breh, z ktorého sa začali gúľať priamo medzi psov skaly,   uvoľnené labami medveďov.
+     </tei:p>
+     <tei:p>
+      Bola to prvá a ostatná výprava starej medvedice do dediny   Harmančanov. Od tých čias nebolo o nej ani slychu; odsťahovala sa do   iného kraja, do tmavších a pokojnejších hôr.
+     </tei:p>
+     <tei:p>
+      Kým medvedík dorastal, opŕchali listy stromov a šuchotavá jeseň   prechádzala dolinami. A keď už len bučky a hraby pokyvovali svojím   lístím v hučiacom jesennom vetre a rozplakalo sa nebo desaťdňovým   dažďom nad spustnutým krajom, utiahli sa rubači do svojej dediny.   Potom zamrzla zem a zosypal sa prvý sniežik.
+     </tei:p>
+     <tei:p>
+      Mišo Strmeň sedel vo svojej izbe na drevenom koníku a oberučným   nožom vyrezával šindle. To bola jeho zvyčajná robota cez zimu. A   mladý medveď, ktorého pomenoval Matejom, váľal sa pri peci na starom   kožuchu a ťažko odfukoval. Gazdiná, Strmeňova žena, ho dobre   nachovala. Od lenivosti ledva sa dotiahol k peci, prevalil sa, zaspal   a viacej sa o svet nestaral.
+     </tei:p>
+     <tei:p>
+      Ale keď odchádzala Strmeňova žena do dediny a otvorila dvere,   prešmykol sa nimi do izby neveľký pes hladkej, čierno-bielej srsti.   Bol to Strmeňovie Taro, múdry a dobromyseľný strážca domu. Bol to   pes, ktorý strážil všetko, čo bolo v dome a k domu patrilo, iba   cudzincov nemal rád. I teraz figliarsky kukol na Mateja. S ním sa   hneď vtedy bol spriatelil, keď ho gazda Strmeň doniesol z hory.   Žmurkol naň, vyplazil jazyk a bolo vidieť, že sa usmieva. Potom   zastrihal ušami, žartovne zavrčal a skočil na Mateja.
+     </tei:p>
+     <tei:p>
+      Matej sa naľakal. Iste sa mu niečo strašné snívalo. Vyhodil sa z   kožucha, akoby ho boli vystrelili, a utekal pod posteľ. Tara to   očividne rozveselilo; prilepil sa k zemi, špehoval, čo Matej pod   posteľou robí, veselo zaštekal a plazil sa po bruchu k posteli. A   Matej, keď sa zo spánku precítil a videl pred sebou veselého Tara,   hneď bol hotový šantiť s ním po izbe. Najprv vystrčil spod postele   labu a žartovne zadrapil Tara po ňucháči; Taro sa prevalil na chrbát   a tiež ho labkami oflinkoval. Hneď sa vychytili po izbe, behali sem a   ta — raz Matej pred Tarom, zase Taro pred Matejom. Až keď Matej,   nedívajúc sa pred seba, búšil sa do gazdovho sedadla a gazdu   prevalil, bolo po šantení. Strmeň odpásal remeň, po jednej im   prisolil a dvaja priatelia stiahli sa do hŕbky pod posteľou a odtiaľ   kukali na gazdu, či sa ešte hnevá.
+     </tei:p>
+     <tei:p>
+      Takto žili Matej a Taro cez celú zimu, kým Strmeň premýšľal, čo s   Matejom urobiť. Matej potrebuje jedla za troch chlapov; z čoho ho on,   chudobný drevorubač, bude živiť? Akokoľvek ho rád mal, jednako   ľutoval, že ho odňal materi a nenechal v hore. I rozhodol sa, že ho   ešte do leta pochová, a potom, ak sa netrafí dobrý kupec, podaruje ho   niektorému polesnému v meste.
+     </tei:p>
+     <tei:p>
+      Ešte niekoľko viazaníc šindľov vystrúhal Mišo Strmeň a bol koniec   zimy. Slnko zastalo vyššie na nebi a tenké potôčky čurčali po strmých   brehoch do doliny. Zjavili sa kde-tu i kopnaté briežky a prvé fialky   zadýchali vôňou.
+     </tei:p>
+     <tei:p>
+      Čurčali potôčiky, padali do nížin a strácali sa v skalnatom koryte   Bystrickej vody. Potok za potôčikom väčší a väčší, čistý i mútny. A   keď už vrchy celkom okopneli, spievala Bystrická voda o zlatej jari.   Spievala o tom, že zima netrvá večne. Preletia oblaky krajom a slnko   zasvieti. Usmeje sa na bielu tvár zimy a tak ju odvábi.
+     </tei:p>
+     <tei:p>
+      Čurčali potôčiky, spievala Bystrická voda, a keď už v nesmiernej   radosti vybehnúť chcela z brehov, pohli sa harmanskí rubači k horám.   Štyridsať rubačov a Mišo Strmeň medzi nimi.
+     </tei:p>
+     <tei:p>
+      Zastali pod horou, ohňa si nakládli a dlhé žľaby stavali. A keď   jarný podvečer na tenkých vetvičkách jedličiek zaklopal, keď sa   červená žiara zjavila nad horou a slnko zapadlo, žľab bol hotový.   Ťahal sa od Bystrickej vody na vysoký vrch.
+     </tei:p>
+     <tei:p>
+      A ráno mali zas inakšiu robotu: potôčik, čo sa dolu vrchom   ponáhľal, narazili do žľabu. Postavili sa do radu medzi žľabom a   siahovicou, pekne poukladanou, ktorú predošlého roku boli nachystali,   a začali si podávať polená z ruky do ruky. Chlap, čo stál pri žľabe,   ukladal ich doň, vodička ich strhávala a rýchlosťou strely niesla   nadol. Dolný koniec žľabu bol nahor zahnutý, preto polená veľkým   oblúkom skákali do Bystrickej vody.
+     </tei:p>
+     <tei:p>
+      Pozdĺž Bystrickej vody staručkí rubači postávali s hákmi v rukách.   Pohýnali drevo, ktoré sa miestami na kameňoch zachytilo. Kedysi aj   oni boli mladí, aj oni stínali hory a splavovali drevo dolu žľabom.   Ale teraz nemôžu do vrchov; niet sily a prsia ťažko dýchajú...
+     </tei:p>
+     <tei:p>
+      A mnoho bolo starých rubačov pozdĺž vody. Blyšťali sa jedľové   polená na vode bielym leskom a rýchlo plávali. Medzi nimi bukové,   tmavožlté a matné, plávali pomalšie. Keď sa niekde zastavili na   koreni stromu, o ktorý narážal prúd, zvolávali sa starí rubači dlhým   zahvizdnutím, aby spoločnými silami preborili hrádzu z polien. Vtedy   sa polená s veľkým hrmotom pohli ďalej a uvoľnili cestu tým, čo voda   niesla za nimi.
+     </tei:p>
+     <tei:p>
+      Miestami, kde sa Bystrická voda rozdvojovala, postavené boli   hrable z mocných kolov a na každých hrabliach bol chlap s hákom,   ktorý ich z času na čas očisťoval od veľkého návalu dreva.
+     </tei:p>
+     <tei:p>
+      Takto sa plavilo drevo až k samému mestu. Tam ho už čakala iná   skupina harmanských rubačov, ktorí predošlého roku tiež kdesi v   horách drevo chystali. Teraz niektorí odrážali vodu s drevom do   úzkeho kanála, ktorý viedol cez ploché lúčky a zapravený bol   hrabľami. Bolo tam viac dreva ako vody. Iní zas krátkymi hákmi   vyťahovali polená z kanála, vyhadzovali ich na lúčku; iní ich   odvážali na kárach a ostatní ukladali.
+     </tei:p>
+     <tei:p>
+      Takto sa splavilo drevo ľahko a lacno. Nebolo treba platiť   furmanku a nebolo treba najímať mnoho ľudí. Voda, mocná a večne   tečúca voda, vykonala prácu za stotisíce konských síl...
+     </tei:p>
+     <tei:p>
+      Stalo sa, že prišiel do blízkeho mesta cirkus, čo mal ťavy i   slony, levy i medvede. Keď sa cirkusníci dozvedeli, že drevorubač   Mišo Strmeň má mladého medveďa, sadli na koč, pošibali kone a uháňali   do Harmanskej doliny. Za nimi šli traja chlapi s vozom, na ktorom   bola veľká železná klietka. Darmo ich Taro nechcel vpustiť do   Strmeňovie dvora, pošibali ho bičom, zahnali ku kurínom, kde on v   planej predtuche nepokojne obskakoval a hromžil na dotieravcov svojou   psou rečou.
+     </tei:p>
+     <tei:p>
+      Vošli cirkusníci aj traja chlapi do izby a netrvalo dlho,   vyvliekli Mateja na dvor, hneď zasa na voz a vsotili ho tam do veľkej   železnej klietky. A na stole u Strmeňov ležalo novučičkých sto   zlatých, ktoré Strmeňovej žene vyplatili za Mateja.
+     </tei:p>
+     <tei:p>
+      Rozčertil sa Taro, keď pochopil, čo sa tu stalo. Nedbal už na to,   že ho zatínajú bičmi pomedzi oči, tlčú poriskami, rútil sa na nich   ako slepý. Darmo ho utišovala i jeho gazdiná, Strmeňová, ktorá práve   vyšla z izby; on nič nepočul ani nevidel. Videl iba neznámych   zlodejov, čo odnášajú Mateja.
+     </tei:p>
+     <tei:p>
+      Poskákali cirkusníci na voz a pohli sa. Za nimi pohol sa i voz s   Matejom. A Taro utekal, ako mu nohy stačili, za nimi, ďaleko dolu   dolinou. Necítil ani, že mu chlapi ďasná dokrvavili, ako ho chvíľami   zasiahli bičom, len utekal, utekal, hoci už ani štekať nevládal.
+     </tei:p>
+     <tei:p>
+      V susednej dedine vyskočili z dvorov veľkí psi, zastali Tarovi   cestu a vysileného, ustatého pohrýzli ho na šiji a na ušiach. Padol   Taro do jarku a ťažko oddychoval. V blízkej zákrute zmizol voz s   Matejom a nepriateľskí psi, keď videli, že sa Taro proti nim nebráni,   vrátili sa do svojich dvorov. Taro sa vyštveral z jarku a pomaly, ako   chorý tvor, vybral sa na spiatočnú cestu domov.
+     </tei:p>
+     <tei:p>
+      Po Bystrickej vode, povedľa ktorej viedla jeho cesta, plávali žlté   i biele polená ako inokedy a okolo nej starí drevorubači postávali.   Volali na Tara, prihovárali sa mu, lebo ho poznali. Ale on ani   chvostom nezakýval, ani sa neusmial, ako to mal v obyčaji, len hľadel   pred seba a vliekol sa z nohy na nohu ďalej. Tak sa rozlúčil s   Matejom.
+     </tei:p>
+     <tei:p>
+      Za pekných nocí, mesačných a tichých, všetci psi v dedine alebo   pokojne spali, alebo veselo šantili, iba Taro zavýjal raz na hviezdy,   raz na mesiac. Chvíľami i zaspal. Možno sa mu snívalo, že šantí s   Matejom po dvore, že šklbe Mateja za ucho, púšťa sa dvorom do behu a   nešikovný Matej za ním. Taro križľuje zboka nabok, obehúva veľké   kolo, obráti sa, Mateja preskočí a tak mu vždy ujde, keď mu Matej   chce labkou po ňucháči pretiahnuť. Sliepky a kačky cválajú pred nimi   ako najaté, len im tak perie fŕka; trepocú krídlami a zdesene   škrečia. A teraz zahrkocú vozy... Taro vyskočí. Zdá sa mu, že   prichádzajú chlapi so železnou klietkou... Poobzerá sa, vidí, že je   sám... Zdvihne nos dohora, zadíva sa na mesiac, zdĺhavo zavýja...
+     </tei:p>
+     <tei:p>
+      Doviezli Mateja do mesta. Postáva tam mnoho ľudí, hmýria sa po   uliciach a naň sa obzerajú. Chodia tam i psi, všakoví, veľkí ako on,   i malí ako mačiatka, hladkí ako Taro, i chlpatí ako starý kožuch, na   ktorom u Strmeňov pri peci bol spával, ale Tara nikde nevidieť.
+     </tei:p>
+     <tei:p>
+      Prebehnú mestom, zastanú pri veľkom stane. To je cirkus, na jeho   prostriedku je veľké ohradené kolo, arénou nazvané, mäkkou rezinou   vysypané. Okolo kola mnoho, mnoho stoličiek a lavíc až po samé   plachty stanu. Po večierkoch schádzajú sa sem ľudia, posadajú si   okolo arény a čakajú na predstavenie. Na arénu vystupujú ľudia, ktorí   ukazujú svetu svoju obratnosť a silu.
+     </tei:p>
+     <tei:p>
+      Pri cirkuse je zverinec, v ňom je mnoho zverov zo všetkých krajov   sveta. Týchto zas krotitelia vyvádzajú na arénu a predstavujú   obecenstvu, ako ich ľudská ruka skrotila a pokorila.
+     </tei:p>
+     <tei:p>
+      Schytia chlapi Mateja i s klietkou, zavlečú ho do zverinca a   uložia ho povedľa klietok veľmi divných a strašných tvorov. Matej je   iste rád, že je v klietke, lebo srsť sa mu ježí od strachu, keď zvery   v susedných klietkach zarevú. Nikdy on také zvery nevidel. Majú   ohromné hlavy, svietiace oči, strašné zubiská, mocné a ostré driapy   ako nože a husté hrivy na šijách. Nebodaj, keby sa tak k nemu   dostali, iste by z neho nič nezostalo... A veru zle by bolo s   Matejom, lebo jeho susedmi boli levy, ktoré by si možno vedeli   poradiť i so starým medveďom.
+     </tei:p>
+     <tei:p>
+      Doniesli chlapi Matejovi večeru: kúsok mäsa a misu vody, a vari mu   i chuť prešla, keď videl, čo sa robí v susedných klietkach. Chlapi   pohodili levom po kuse mäsa a tie so strašným vrčaním a revom   pochytili mäso do zubov, drancovali, trhali a prehltávali ho zúrivo,   až sa Matej mohol obávať, že i naň príde rad, že i jeho takto   rozdrancujú. Zavše zaprašťala kosť v zuboch niektorého leva a Matej   sa naľakal, či lev už neláme svoju klietku a nepoberá sa k nemu.
+     </tei:p>
+     <tei:p>
+      Keď sa levy nasýtili, políhali si a driemkajúc odpočívali. Vtedy   sa Matej uspokojil, spratal svoju večeru, zachlipkal si vody a učupil   sa v rohu klietky na nočný odpočinok.
+     </tei:p>
+     <tei:p>
+      Na druhý deň prišiel krotiteľ, aby vychoval z Mateja poslušného   tvora, ktorý bude tancovať na aréne cirkusu, fajku bude omáľať v   zuboch, aby divákov rozosmial.
+     </tei:p>
+     <tei:p>
+      Vyvliekol ho krotiteľ z klietky, natiahol mu na laby hrubé remenné   rukavice a mocný kantár na hlavu. Takto sa zaistil proti jeho zubom a   driapom. Potom dostal Matej obojok, na ktorý uviazal krotiteľ dlhý   povraz, visiaci z povaly a pretiahnutý cez škripec. Hneď prišiel   jeden z chlapov, ktorí ho boli od Strmeňa odviezli, a ťahal Mateja na   povraze, kým sa postavil na zadné nohy. Vzal krotiteľ dlhý remenný   bič, švihal Mateja po zadných labkách a tak ho učil tancovať. Matej   pri každom šibnutí od bolesti podskočil.
+     </tei:p>
+     <tei:p>
+      Výcvik nemal konca-kraja. Takto zaobchádzali s ním každé ráno a   on, ukonaný a ubitý, poddával sa a poslúchal.
+     </tei:p>
+     <tei:p>
+      Netrvalo dlho a Matej, len čo zazrel krotiteľa, už vopred začal   tancovať, aby sa mu nedostalo bičom a aby ho neškrtili na škripci.   Neskoršie mu i fajku vnútili do zubov, ba o krátky čas už tancoval s   ňou i na aréne. Okolo divo tlieskalo a veselo sa smialo mnoho   ľudí.
+     </tei:p>
+     <tei:p>
+      Kým Matej takto tancoval, Bystrická voda večne spievala, že nič tu   netrvá večne. Každá hra i tanec sa raz skončí, a tak i Matejovo   mučenie sa raz skončiť musí.
+     </tei:p>
+     <tei:p>
+      Začala sa vojna. A všetci chlapi, mocní i slabí, museli počúvať   jej rozkazy a odísť v ďaleké svety.
+     </tei:p>
+     <tei:p>
+      Odišli rubači a odišel i krotiteľ. Odišli chlapi, čo boli Mateja   na voze doviezli. A ľudia z cirkusu, keď i na nich prišiel rad,   rozpredali všetko, čo bolo v cirkuse. Veľké a dravé zvieratá predali   do ozajstného, veľkého zverinca, ktorý bol v neďalekom veľkom meste;   Mateja kúpila chudobná Cigánka za dvesto zlatých. Odkladala groš ku   grošu, niečo si pripožičala a teraz sa rozhodla, že si kúpi Mateja,   bude s ním vandrovať svetom, na jeho tanci zarábať a tak sa   živiť.
+     </tei:p>
+     <tei:p>
+      Chytila ho na retiazku a odvádzala za mesto. Tam na pokraji dediny   stálo niekoľko drevených búd. K nim viedla Cigánka Mateja. Kŕdeľ detí   im vybehol naproti, vybehli i starí a s krikom vítali Mateja. Jeden   mal v ruke palicu, decká mali biče a chudák Matej z obavy, že ho budú   zase po labkách zatínať, začal hneď z príchodu dovysoka   vyskakovať.
+     </tei:p>
+     <tei:p>
+      Toto Cigánov trochu poľakalo. Nazdávali sa, že Matej chce na nich   skočiť, preto všetci, koľkí boli, schytili nohy na plecia a zmizli.   Starí sa vtiahli do kolíb a deti sa rozpŕchli kade-tade po poli. Ale   Matejova nová gazdiná sa iba smiala a vykrikovala, že Matej nikomu   neublíži, že iba žartuje. Potom vošla s ním do jednej z kolíb. Nebolo   tam nikoho a ničoho, iba zadymené štyri steny, v kúte niekoľko   hrncov, v druhom hŕba handár a na prostriedku koliby vyhasnuté   ohnisko.
+     </tei:p>
+     <tei:p>
+      Uviazala medveďa na mocný hák, ktorý trčal zo steny, pohladkala   ho, prihovárala sa mu a hneď začala rozkladať oheň, aby navarila   niečo pod zuby pre seba i pre Mateja.
+     </tei:p>
+     <tei:p>
+      Nasledujúceho dňa sa pohli svetom. Cigánka kúpila v meste malý   bubon a potom vandrovala s Matejom z dediny do dediny. Chodili z   dvora do dvora, Matej tancoval a Cigánka, klopkajúc na bubne do   taktu, takto spievala:
+     </tei:p>
+     <tei:p>
+      Tancuj, tancuj, vykrúcaj,
+     </tei:p>
+     <tei:p>
+      len mi piecku nezrúcaj!
+     </tei:p>
+     <tei:p>
+      Dobrá piecka na zimu, na zimu,
+     </tei:p>
+     <tei:p>
+      nemá každý perinu!
+     </tei:p>
+     <tei:p>
+      A ona vám doma nijakej piecky nemala!...
+     </tei:p>
+     <tei:p>
+      Ak sa stalo, že Matej nemal vôle do skoku, nahnevala sa a   pretiahla ho palicou, kade zachytila. Vtedy Matej dlho nerozmýšľal a   pustil sa do skoku.
+     </tei:p>
+     <tei:p>
+      Z domov vybehúvali s veľkým štekotom nastrašení psi, deti, ba i   chlapi, smiali sa Matejovmu tancu a dávali jeho majiteľke po šestáku.   Dobrí ľudia dali Matejovi i zajesť a on veru nepohŕdal, lebo pri   takomto putovaní bol viac hladný ako najedený.
+     </tei:p>
+     <tei:p>
+      Ale čo sa stalo! Po dlhých potulkách zavítala Cigánka s Matejom do   dediny rubačov. Peňazí mala už plný mešec: dva razy toľko, ako za   Mateja bola zaplatila, a nebolo jej treba ešte i sem sa vláčiť. No   čím viac sa jej šestáky zhŕňali, tým väčšmi si ich žiadala, a to sa   jej vypomstilo.
+     </tei:p>
+     <tei:p>
+      Chodiac z domu do domu, zašla i do Strmeňovie dvora. Ukonaný Matej   si ani nevšimol, že je v tom dvore, kde sa kedysi povaľoval, len   nijako sa mu do tanca nechcelo. A práve vtedy, keď ho Cigánka okädila   palicou, spoza kurínov vykukol Taro, zaiskril očami a ušami   zastrihal. Bezpochyby poznal svojho priateľa, lebo pribehol k nemu   niekoľkými skokmi a radostne zaštekal.
+     </tei:p>
+     <tei:p>
+      Matej sa len díval naň, poobzeral sa po dvore, potom zamumlal. A   dvaja starí priatelia kukali zboka na seba.
+     </tei:p>
+     <tei:p>
+      Udivená Cigánka len trhla reťazou, na ktorej bol Matej uviazaný a   dlhou palicou ho ovalila po hlave. A vtedy sa Matej prvý raz na ňu   nahneval. Postavil sa na zadné nohy a ovalil Cigánku labou. Odletela   ani mucha. A ešte to nebolo dosť, lebo i Taro sa nahneval, skočil za   ňou, roztrhol jej sukňu a vyhnal ju na cestu...
+     </tei:p>
+     <tei:p>
+      Matej, akoby ho neznáma sila bola schytila do zajatia, poobzeral   sa, obrátil sa k vysočizným vrchom, ktoré dookola vyčkávali, a   pomaly, z nohy na nohu, kráčal a kráčal, von z dvora, z dediny, preč,   rovno k horám. A Taro, zasa usmiaty a veselý, poskakoval vedľa neho,   kyvkal chvostom a radostne vrčal. Keď došli k prvým jedliam, ktoré   stáli na stráži na pokraji hory, zachytila sa Matejova reťaz na   mocnom, okyptenom konári stromu. To akoby ho tie strážne stromy na   pokraji hory boh náročky zachytili za reťaz a pošepli mu:
+     </tei:p>
+     <tei:p>
+      „Nesmieš medzi nás s týmto znakom otroctva! Lebo náš svet je   svetom slobody a len slobodný tvor sa doň uchýliť môže...“
+     </tei:p>
+     <tei:p>
+      Trhol Matej reťazou — akoby bol porozumel tajnej reči strážnych   stromov — a tam ostala reťaz i s obojkom, zachytená na strome.
+     </tei:p>
+     <tei:p>
+      Pokročil, zašiel, pohltila ho húština.
+     </tei:p>
+     <tei:p>
+      A Taro čože si mal počať? Chvíľu postál bezradný a pomaly,   obzerajúc sa k hustej hore, vracal sa po vlastných stopách domov.
+     </tei:p>
+     <tei:p>
+      Po rokoch vrátili sa chlapi z vojny domov. Ale koľkí sa vrátili:   zo štyridsiatich rubačov piati prišli zdraví a štyria dokaličení.   Ostatní rubači ostali tam, v ďalekom svete, a nikdy viac sa   nevrátia...
+     </tei:p>
+     <tei:p>
+      Mišo Strmeň prišiel zdravý, iba trochu prihrbený a ostarený. Na   dvore privítal ho Taro nepriateľským štekotom. Dlho sa musel Mišo s   ním dohovárať, kým sa Taro spamätal, že človek vo vyšedivených a   ošúchaných vojenských handrách je jeho gazda. Ale o krátky čas sa   zdalo, akoby z Harmanskej doliny nikto nechýbal; zasa prechádzali ňou   rubači v krpcoch a halenách, chystali sa do hôr ako predtým. To už   boli dorastení synovia tých rubačov, čo sa z vojny nevrátili.
+     </tei:p>
+     <tei:p>
+      Po dedine sa rozprávalo, že kedysi ta bola prišla Cigánka s   medveďom, ktorý jej ušiel. Rozprávalo sa, že to bol ten istý medveď,   ktorého bol Strmeň ako mláďa z hory priniesol. A teraz vraj v jeseni   skapala jedna ovca na paši, vlani vraj veľká jalovica, a nikto nevie,   kde sa podeli...
+     </tei:p>
+     <tei:p>
+      A kým sa takto rozprávalo, vytučený Matej si pokojne spal svojím   zimným spánkom v teplej jaskyni, ktorú pod Pavelcovom objavil.
+     </tei:p>
+     <tei:p>
+      Horšie to bolo s Tarom. Ľudia za vojny i dlho po nej nemali čo   jesť, preto i psi museli s nimi hladovať. Taro bol chudý a   vyhladovaný, túlal sa po celom chotári, hľadajúc kúsok obživy.
+     </tei:p>
+     <tei:p>
+      Nikde nič nenašiel, dedinskí psi presliedili všetko už pred ním a   kde akú kosť našli, hneď ju i spratali. Zašiel teda ďalej od dediny,   že si azda tam niečo pohľadá.
+     </tei:p>
+     <tei:p>
+      V úbočí vrchu našiel ľudské stopy a okolo nich porozhadzované   kúsky mäsa. Nevedel Taro, že je to strychnínom otrávené mäso, ktoré   poľovníci pohadzujú, aby skántrili líšky a zmocnili sa takto drahej   líščej kožušiny. Poprehĺtal mäso a akoby posilnený a veselší utekal   domov. No neutekal ďaleko. Na kraji dediny padol a metal sa po zemi v   strašných bolestiach. Ešte raz sa pozbieral a dobehol na mostík pred   dvorom svojho gazdu. Tam skonal. Keď vyšiel Mišo Strmeň z izby,   našiel tam svojho dobrého Tara vystretého, s očami podbehnutými   krvou...
+     </tei:p>
+     <tei:p>
+      Zosmutnel Mišo Strmeň nad smrťou svojho dobrého Tara, vzal ho do   plachty a šiel ho pochovať na okraj hory, po ktorej sa Taro toľko   túlaval.
+     </tei:p>
+     <tei:p>
+      Aj on bol obeťou vojny, jej smrtiaceho hladu...
+     </tei:p>
+     <tei:p>
+      Kopal Strmeň jamu do zamrznutej zeme, vetrík podúval a osuheľou   ovinuté vetvy stromov, zvonkajúc, o seba klopkali... Tak sa s dobrým   Tarom lúčili...
+     </tei:p>
+     <tei:p>
+      Keď sa budúceho leta znova zjavili rubači na úpätí hôr, aby   stínali stromy, premnoho ujúkali a lomozili. Mateja to znepokojovalo,   ale vyčkal ešte do noci a pod jej tmavým plášťom vybral sa do sveta,   aby navždy odišiel spod Pavelcova, z kraja, kde sa bol utiahol.   Zamieril do hlbokých lesov Rudohoria a nikdy viac o ňom ľudia   nepočuli.
+     </tei:p>
+     <tei:p>
+      Dnes je už možno starým medveďom, s ktorým by nebolo radno   stretnúť sa v kosodrevine. Alebo sa stretol s nepriateľským človekom   a mihom sa vystrel na zemi, prevŕtaný cez srdce ohnivou guľou pušky.   A dnes niekde v teplej izbe hovejú si poľovníkove deti na jeho teplom   gaštanovom kožuchu.
+     </tei:p>
+    </tei:div>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      ROZPRÁVKY Z VEĽKEJ   DOLINY
+     </tei:hi>
+    </tei:head>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Prvá rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Veľká dolina vlastne ani nie je veľká. Idem si hore ňou tri-štyri   hodiny a už mám pred sebou strmú hoľu. A predsa ju starí ľudia takto   nazvali.
+     </tei:p>
+     <tei:p>
+      Každá dolina vraj skrýva v sebe nejakú rozprávku. Akúže rozprávku   skrýva v sebe Veľká dolina?
+     </tei:p>
+     <tei:p>
+      Tečie ňou ľadová bystrina, miestami skáče po bralách, krúti sa v   kamenných kotliskách, akoby ju tam prevárali na bielu penu a miešali   neviditeľnou varechou. A potom, keď sa vymoce z doliny, hladko sa   ponáhľa ďalej do údolia.
+     </tei:p>
+     <tei:p>
+      Voľakedy dávno obchádzali ju hľadači zlata a na jej horných   končinách zakopali sa do skaly.
+     </tei:p>
+     <tei:p>
+      Potom zmizli s ťažkými batohmi a viac sa nevrátili. Šachta, ktorú   vykopali, zarástla krovím a burinou a nikto ju nemôže nájsť.
+     </tei:p>
+     <tei:p>
+      Našiel ju iba jediný chlapík, čo pásol jalový statok na vrchoch.   Stratila sa mu jalovička, on ju hľadal najprv po holiach, potom pod   hoľami a tam kdesi naďabil na skalu, do ktorej sa boli zarúbali   zlatokopi. Vošiel do nej a čo videl: nie jalovičku, ale jagavé   cencúle visieť zhora nadol. (A kedyže visia cencúle zdola nahor?)
+     </tei:p>
+     <tei:p>
+      Odlomil pekný cencúľ, pichol si ho za klobúk a bral sa ďalej. Jeho   gazda — bol to vraj chýrny lakomec — keď prišiel pozrieť svoju lichvu   na hole, uchytil mu cencúľ spoza klobúka a hneď ho ťahal ukázať, kde   k tomu zázraku prišiel. Lebo cencúľ bol zlatý. (Ak bol cencúľ zlatý a   zlato je dvadsaťkrát ťažšie od vody, ako ho len udržal na hlave?)
+     </tei:p>
+     <tei:p>
+      Mládenec sa darmo namáhal, do skaly viac nepotrafil. Pre túto   zábudlivosť gazda ho hneď aj prepustil. Tak sa končí prvá   rozprávka.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Druhá rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Pred rokmi ktorýsi gróf vlastnil všetky lesy, obrastajúce dolinu.   A sú to krásne lesy. Stromy sa v nich pretekajú, ktorý z nich   vyrastie vyššie, a tieto preteky trvajú niekedy aj vyše sto rokov.   Nemožno sa potom diviť, že jedle, duby a buky z okolia Veľkej doliny   sú také vysoké, že sa na nich priam zachytávajú oblaky.
+     </tei:p>
+     <tei:p>
+      Tento gróf, pretože vedel znamenite míňať peniaze a veľmi často mu   i chýbali, rozhodol sa, že zasiahne do života týchto storočných   stromov. Poslal ta horára i rubačov a o krátky čas ležalo na úbočiach   Veľkej doliny dvadsaťtisíc priestorových metrov dreva. Rubači   spravili aj veľmi drahé žľaby, pospájali ich dolu Veľkou dolinou a   narazili do nich tú divú, čistú a ľadovú bystrinu. Metrovica by bola   lietala po žľaboch ako drevené hromobitie, keby nebol prišiel príval,   ktorý žľaby potrhal a temer všetky odplavil do neznáma. Metrovica   zhnila na úbočiach doliny a gróf sa musel zrieknuť všelijakých   veselostí, ktoré chcel pripraviť svojej grófskej urodzenosti a svojim   grófskym hosťom za toto drevo.
+     </tei:p>
+     <tei:p>
+      Dnes sa už zase pretekajú vysoké stromy na úbočiach Veľkej doliny   v raste do výšky a prístupu k nim nijakovsky niet.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Tretia rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Ešte za čias, keď pánom bolo dobre, zašli sme si s priateľom Edom   Kosorkinom do mesta a zlostne sme pozerali cez ploty do všelijakých   záhrad a reštaurácií, ako jedia a zabávajú sa vyobliekaní páni pri   trúbach, bubnoch a klarinetoch. Páni letovali.
+     </tei:p>
+     <tei:p>
+      Tancovali, jedli a zase tancovali. My sme ešte nikdy neletovali a   teraz sme sa rozhodli, že tiež pôjdeme letovať, a to — priamo do   Veľkej doliny.
+     </tei:p>
+     <tei:p>
+      Pobrali sme batohy a šli. V podvečer toho dňa utáborili sme sa v   doline pod vysokou skalou pri ľadovej bystrine a nahotoviac dreva na   celú noc, založili sme oheň.
+     </tei:p>
+     <tei:p>
+      V noci niekoľkokrát zahrmelo, na to sa spustil celkom bezhlavý   lejak, ktorý zahasil oheň. Tma bola taká, že nebolo možno ani kročiť,   ani pohnúť sa od skalnej steny. Z horných končín doliny privalila sa   riava, sfučala, zhučala a schytila nás dolu jarkom. Odniesla nám   batohy a pootĺkala nás zhnitými žľabmi, ktoré sa zasekli kade-tade po   doline ešte za oných čias, keď ich potrhala povodeň.
+     </tei:p>
+     <tei:p>
+      — Takto letujú chudobní ľudia, — vraveli sme si, keď nás sem-tam   udrel do boku taký rozbesnený žľab. Lebo sme viseli zachytení do   konárov a do podmytých koreňov.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Štvrtá rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Poniže tejto vysokej skaly zazrel som raz zmiju zvláštnej   tmavočervenej farby. Chytil som ju do špagátovej slučky, aby sa jej   krásne tielko nijako nepoškodilo, a utekal som k bystrine, aby sa   dlho netrápila. Tam som uviazal slučku o kameň a spustil som hadíka   do vody na tichom, prehĺbenom mieste. Potom som vyjedol všetky   koláče, ktoré mi zabalila mamka do lepenkovej škatule, a na škatuľu   som napísal: „Zmija neslýchanej červenej farby. Chytená na kraji   Veľkej doliny dňa 27. júla 1931, popoludní o druhej hodine. Darujem   ju múzeu, len prosím konzervovať ju tak, aby nestratila krásnu   farbu.“ Nato som vytiahol hadíka z vody, odkosílil mu slučku a vložil   ho do škatule.
+     </tei:p>
+     <tei:p>
+      Večer som odpočíval pri ohníku, počúval, ako hučí voda, a usiloval   som sa porozumieť, čo spieva. Odrazu kdesi pri mne zasyčala   zmija.
+     </tei:p>
+     <tei:p>
+      Tá istá to bola. Vyliezla zo škatule, zdvihla sa a zalomila krček.   Poznávala ma.
+     </tei:p>
+     <tei:p>
+      Hľadela mi do očú oceľovými očami, akoby bola chcela povedať: „No,   ty mňa neutopíš!“
+     </tei:p>
+     <tei:p>
+      Skočil som bokom a znova som ju chytil na tú istú slučku. A utopil   som ju, chuderku, ale musel som sedieť pri ohni ešte veľmi dlho, kým   ponad ňu, úbohú, pretekala voda. Ako som to len mohol vykonať? Nuž   chcel som byť zberateľom a srdce zberateľa musí byť niekedy   neľútostné!...
+     </tei:p>
+     <tei:p>
+      Bola noc. Konzervátor múzea bol práve v meste na kolkárni, keď som   ho našiel a zmiju mu odovzdal. A pokiaľ vyhádzal všetky gule, ktoré   mu predpisovala hra, zmija ušla zo škatule druhý raz.
+     </tei:p>
+     <tei:p>
+      Ak nezahynula, zmenila i farbu, lebo okolie kolkárne bolo belavo   štrkovité, a zmija sa prispôsobuje farbou svojmu okoliu.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Piata rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Zvláštna je Veľká dolina, neobyčajne zvláštna. V najlepších dňoch   leta prekvapí človeka najprv horúcim žiarením, aké býva len na   výšinách, a hneď povyše zas osviežujúcim jesenným chladom. Studený   svet doliny od teplého delí práve tá vysoká skala, pod ktorou sme   kedysi s Edom Kosorkinom táborili.
+     </tei:p>
+     <tei:p>
+      Bolo by treba prejsť celú dolinu s kompasom v ruke, aby sme si   vysvetlili jej dvojakosť. Ale pokúsime sa o to i bez kompasu:
+     </tei:p>
+     <tei:p>
+      Od vysokej skaly nadol sa rozširuje a otvára ako priateľské   náručie rovnou čiarou proti východu. A len čo slnko vyskočí tam   naproti nad horami, už zachytáva prvé, ešte ružové jeho lúče. A ono   jej ich sype potom celý deň, až do podvečera.
+     </tei:p>
+     <tei:p>
+      V ohnivých lúčoch slnka, v rose, ktorá večne padá, tvoriac sa z   rozprášenej vody, čo skáče a rozbíja sa po skalách, rastú obrovské   lopúchy. Obrovské ako starodávne dedinské dáždniky.
+     </tei:p>
+     <tei:p>
+      Neradno vystlať si nimi ležisko a ľahnúť si na ne proti noci. Lebo   lopúchy v noci dýchajú a vydychujú omam. Ráno, po strašných snoch,   prebudí sa človek s ťažkou, boľavou hlavou a krásny lopúch z Veľkej   doliny mu už nikdy nebude voňať kvetom.
+     </tei:p>
+     <tei:p>
+      Okolo lopúchov kvitne tráva a storaká burina, na úbočí červenie sa   chabzda, pod ňou voňajú maliny i lesné jahody a svieti štedrá   černuška.
+     </tei:p>
+     <tei:p>
+      V tejto bohatosti, nikým nerušený, poletuje a pári sa hmyz. Sršne,   krídlaté mravce i komáre sú neobyčajne veľké, motýle najväčšie a   krásne zmaľované.
+     </tei:p>
+     <tei:p>
+      Inak je to za skalou. Tam sa dolina lomí, schyľuje. Od   severozápadu si našla cestu ku skale. Je úzka, so skalnými stenami a   strmými úbočami, zatarasená húštinou stromov. Slnko do nej nezasvieti   a ľadová bystrina ju chladí. Nefarebný lesný hmyz poletuje nad vodou,   v ktorej sa švihajú tmavé hôrne pstruhy.
+     </tei:p>
+     <tei:p>
+      V štrbine pod jednou naklonenou skalou, bokom od cestičky, pod   hromadou suchého raždia zablčali dve zvieracie oči. Zablikali mdlým,   zelenkavým, zhasínajúcim svetlom, ako to býva u zvieraťa, ktoré práve   dokonáva. Vplazil som sa do tmavého tunela raždia a rozoznal som v   polotme psíča, ktoré cvaká proti mne zubami. Psíča nevrčalo, lebo   nevládalo. Chytil som ho poza ušká, aby ma neuhryzlo, a plaziačky   spätkujúc, vyvliekol som ho na cestičku.
+     </tei:p>
+     <tei:p>
+      Staviam ho na nohy — neudrží sa, klesá. Hýbať sa nevládze.   Naťahuje krk, aby zlizlo a prehltlo drobnú, uschnutú jahodu. Psíča   umiera hladom.
+     </tei:p>
+     <tei:p>
+      Chcel som ho zachrániť, preto som mu najprv nazbieral za   priehrštie jahôd. Potom som ho vzal na ruky a odniesol domov.
+     </tei:p>
+     <tei:p>
+      „Ako sa len dostalo do Veľkej doliny?“ rozmýšľal som. Neskôr som   sa dozvedel, že ho tam nechal neznámy poľovník, lebo vraj zistil, že   psíča nemá stopársku poľovnícku krv.
+     </tei:p>
+     <tei:p>
+      Psík sa zotavil a zmocnel, ale hneď nato ochorel, lebo ho doma   prekŕmili mäsom. Mučilo ho svrbenie, driasal si kožu zubami i labami   a na chorých miestach vypĺzla mu srsť. — Zastreliť, — povedal šarha,   — alebo nájsť ker, na ktorom rastú kvety ako drobné biskupské   čiapočky. Kvety usušiť, podrviť, pomiešať s masťou a natrieť na choré   miesta. Psa treba obviazať tak, aby sa nedostal k ranám ani zubami,   ani labami.
+     </tei:p>
+     <tei:p>
+      Povedal som si: Psa do choroby uvrhli ľudia a ľudia ho musia i   zachrániť...
+     </tei:p>
+     <tei:p>
+      A vybral som sa hore Veľkou dolinou, pod hoľou odrazil som sa   vpravo hore strminou a poniže starého padnutého stromu našiel som   rozrastený vysoký ker s kvetom tehlovej farby, navlas podobným   biskupskej čiapke.
+     </tei:p>
+     <tei:p>
+      Pripravil som masť, ako mi radil šarha, a pes sa naozaj   vyliečil.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Šiesta rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Ktože to obchádza za tmavej noci okolo horárne? Horáreň leží vo   Veľkej doline, hlboko v lesoch. Je teplá jar, kdesi pod dolinou   kvitnú stromy a lúky zakvitajú hlávkami púpavy. Mal by svietiť   mesiac, ale nebo je zaoblačené a podchvíľou sa spúšťa hustý dážď. Keď   utíchne, rozhučí sa bystrina.
+     </tei:p>
+     <tei:p>
+      Horáreň obchádzajú zvery. Raz je to srna, ktorá prebehne okolo do   lesa naproti. Pes Buro, uviazaný na reťazi, zašteká žiadostivo za   ňou. Potom preskáče zajac. Pes Buro zabrechá tenkým hlasom a v tom   hlase badať veľkú chuť na zajačinu. Až okolo polnoci obchádza horáreň   čosi tajomné. Kradne sa obďaleč ako tieň, nečujne a opatrne. Z   krôčika na krôčik, akoby malo naveky času dosť. Pes Buro zaskučí a   zúrivo sa rozšteká. Trhá reťazou a hádže sa ako bes. V jeho štekote   tají sa odveká nenávisť...
+     </tei:p>
+     <tei:p>
+      Bokom od horárne prešla líška-bystruška. Presvedčila sa, či je   zúrivec ešte na reťazi a či náhodou nenocuje mimo dvora nejaká   zabudnutá kačka alebo hus, a potom zmizla, nevedno kam.
+     </tei:p>
+     <tei:p>
+      Buro sa utíši a spí. Možno sníva o zasnežených planinách severu,   lebo je to pes, ktorý sa nehodí do našich krajov. Je mocný a veľký a   má veľmi teplý kožuch bielo-čiernej farby. Jeho bratia ťahajú kdesi   na severe sane, s vlkmi sa bijú za dlhých polárnych nocí...
+     </tei:p>
+     <tei:p>
+      Líška-bystruška mu je dobre známa. Minulej jari, pokým on lomcoval   reťazou, odvliekla spoza dvora sedem jarabých sliepok. Potom prišla   aj s mláďatami a za chvíľu zmizlo z potoka deväť mladých kačíc. O   niekoľko dní poodnášala bezo stopy až pätnásť húsat. A nato — v   podjeseň, odvážila sa až do dvora a pred jeho očami uchytila hus.
+     </tei:p>
+     <tei:p>
+      Horár vybehol z horárne, odopäl Bura a poslal ho za zlodejkou.   Buro sa vrátil bez líšky, iba s husou, ktorá mala prehryznutý   zátylok.
+     </tei:p>
+     <tei:p>
+      Líšku-bystrušku poznajú aj drevorubači, ktorí pracujú v susednej   doline. Rozprávajú, že minulej zimy, keď bolo primnoho snehu, srny a   jelene nemohli sa pohybovať a hynuli hladom. Poobhrýzali mládniky a   kôru mladiny, v ktorej ich zavalil sneh. Do mladiny naproti nevládali   sa prebrodiť. A tu líška-bystruška napadla a usmrtila vysilenú srnku.   Potom sa spolčila ešte s troma líškami, aby jej pomohli takým istým   spôsobom usmrtiť veľkú vysilenú jelenicu.
+     </tei:p>
+     <tei:p>
+      A napokon — práve dnes, len čo sa zvečerilo, padla jej za obeť   tučná, veľmi poslušná mačka Líza, ktorá striehla pod horou pri   myšacej diere.
+     </tei:p>
+     <tei:p>
+      Pre tieto skutky líšku-bystrušku vyhlásili ľudia za škodlivú zver   a nechráni ju ani zákon na ochranu zveriny.
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Siedma rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      Na úbočí Veľkej doliny stál starý dub. Dub mal kdesi zhora dieru,   lebo každej jari vylietali z neho mladé vtáčatá. Niekedy to boli   krakle. Inokedy škorce. Stalo sa, že i ďatle sa rozleteli z jeho   konárov do blízkeho lesa. Ba raz sa zahniezdil v ňom i naparádený   dudok a podarilo sa mu šťastne vyviesť svoj drobizg do sveta. Taký   opatrovník bol náš starý dub.
+     </tei:p>
+     <tei:p>
+      V čase, keď medzi ľuďmi bola ešte vojna, svietilo si jarné slnko   veselo ako vždy. Nestaralo sa o ľudskú hlúposť. Pousmievalo sa vtákom   a stromom, roztopilo sneh a oslobodilo potoky a rieky spod ľadu.   Vtáčatá si našušorili perie a vyhrievali sa. Potom sa im zažiadalo   vyletieť k oblakom a putovať do kraja, kde žil starý dub. Zasadli na   lúkach, po stromoch i kroviskách, spievali opreteky a chystali sa na   svadbu. Toľko svadieb bolo vtedy v doline, že sa nedali ani   porátať.
+     </tei:p>
+     <tei:p>
+      Na starý dub priletel krakeľ s krakľou. Šiel si rovno k diere, že   si ju poobzerá a spraví si v nej hniezdo, ako sa mu to podarilo pred   dvoma rokmi. No len čo nakukol jedným okom do diery, ozvalo sa zdnuka   zlostné zasyčanie.
+     </tei:p>
+     <tei:p>
+      Krakeľ sa naľakal a odletel i so svojou nevestou.
+     </tei:p>
+     <tei:p>
+      — Nehodno, — pošepol jej, — púšťať sa do bitky s hadom!
+     </tei:p>
+     <tei:p>
+      Za krakľom zasadne si pri diere dudok, ktorý v nej hniezdil   minulej jari. Ani on nebol sám. Popri ňom si zasadla jeho pani   manželka a čosi také švitorila, aby už konečne prestal domŕzať a   postaral sa o poriadne hniezdo.
+     </tei:p>
+     <tei:p>
+      Nazrie dudok do diery, chystá sa spustiť do nej po hlave, a tu:   si-si-sí! ozýva sa sykot z diery. Dudok iba poskočil, koruna na hlave   sa mu naježila a už aj bol na krídlach. A aby zakryl hanbu pred   manželkou, vyhováral sa jej ešte v povetrí, že v dube je taký veľký   had, akého on v živote ešte nevidel.
+     </tei:p>
+     <tei:p>
+      Toho istého dňa priletel k diere i škorec so svojou krásnou   mladuchou. Zasadol si na konár, zaspieval si ako naozajstný spevák   takúto pesničku:
+     </tei:p>
+     <tei:p>
+      — Dobre je, dobre! Mám tu svoju dieru, v ktorej som pred troma   rokmi vychoval kŕdeľ detí. Potom ma žena nahovorila bývať v inej   doline, v tom starom bútľavom strome. Strom v zime odvliekli ľudia a   spálili ho. Čo som si mal počať, ja úbohý škorec? Vrátil som sa do   svojho starého duba, kde som sa vždy tak dobre cítil! Cho-cho-cho! —   a už aj vstrčil hlavu do diery. Lenže z diery zasyčalo a milý škorec   i so svojou mladuchou schytili sa na krídla a už ich nebolo.
+     </tei:p>
+     <tei:p>
+      Ale v podvečer zasadol na dube divý holub. Holubica, krotká a   tichá, iba mu ponúkla svoj zobáčik a on jej ho chytil do svojho a   jemne pomykal. Vtom zasyčalo z diery. Holub nadul svoj hrvoľ a   zahrkútal:
+     </tei:p>
+     <tei:p>
+      — Had sem, had tam! Z diery musíš von! Moja manželka potrebuje   strechu nad hlavou! — Tieto vety opakoval do zunovania a prechádzal   sa zlostne okolo diery.
+     </tei:p>
+     <tei:p>
+      A tu z diery vykĺzol — nie had, ale veľký zelený ďateľ. Perie na   hrdle zježené a zobák ako šabľa. Sekol holuba raz, dva razy do   pazúrkov a hnal ho od diery preč.
+     </tei:p>
+     <tei:p>
+      — Kto skorej príde, skôr melie! — piskotal ďateľ a tuho zobal   holuba do pazúrkov.
+     </tei:p>
+     <tei:p>
+      — Ďateľ sem, ďateľ tam! — hrkútal holub zúrivo a mlátil ďatľa   krídlami poza uši. — Z diery musíš von! Moja manželka potrebuje   strechu nad hlavou!
+     </tei:p>
+     <tei:p>
+      Sila bola na oboch stranách rovnaká. Ešte šťastie, že sa   nezamiešala do bitky pani holubová, lebo by bol ďateľ iste bitku   prehral. Ale ona iba postávala bokom a divila sa, aký je ten ďateľ   nezdvorilý, že jej svoj útulok neprepustí dobrovoľne.
+     </tei:p>
+     <tei:p>
+      Kde sa vzal, tam sa vzal, zastal si pod dubom starý lesník   Kočálka. Pušku mal na pleci a bakulu v ruke. Zadíval sa na bitkárov,   ale pušku z pleca nesňal. Poriadny človek nestrieľa na božie tvory,   ktoré majú svadbu. Iba bakuľou zabúchal po starom dube.
+     </tei:p>
+     <tei:p>
+      Hneď bolo po bitke. Holub s holubicou strepotali krídlami a šibli   do blízkeho lesa. Ďateľ, trochu osprostený, lebo ho holub stále   mlátil krídlami po hlave, vkĺzol do svojej diery. Starý Kočálka ho   videl. Sadol si pod dubom a napchávajúc si fajku, rozvravel sa:
+     </tei:p>
+     <tei:p>
+      — Tak je to správne! V dube pred holubom má právo bývať ďateľ!   Lebo on je rozsievačom dubových žaluďov, a nie holub-daromník!
+     </tei:p>
+     <tei:p>
+      Poobzeral sa po úbočí. Na všetky strany vyrastali menšie i väčšie   duby, ktoré nemohol zasiať vietor. Lebo vietor odnesie semiačko   borovice, smreka i jedlice a zaseje ho po úbočiach. Odnesie semiačko   klena i javora, ktoré má bezpečnejší padák, ako ho vymysleli ľudia.   Vrtí sa v povetrí a putuje, aby našlo dobrú zem, do ktorej vyklíči a   zapustí korene. Ale žaluď nijaký vietor neodnesie. Je oválny a ťažký   a nijaký padák nemá. Tu musí prísť zelený ďateľ, sojka alebo   veverička a zamaškrtiť si na žaluďoch. Uchytiť si z nich a odnášať   cez úbočie. A keď niektoré cestou stratí a padnú na dobrú zem,   vyrastie z nich dubina. V dube pred holubom má právo bývať ďateľ!
+     </tei:p>
+    </tei:div>
+    <tei:div type="chapter">
+     <tei:head>
+      <tei:emph>
+       Osma a posledná   rozprávka
+      </tei:emph>
+     </tei:head>
+     <tei:p>
+      <tei:emph>
+       (Medveď z Veľkej doliny)
+      </tei:emph>
+     </tei:p>
+     <tei:p>
+      Na vysokých-vysočizných vrchoch nad Veľkou dolinou, ďaleko od   miest a dedín, rastie bujná zelená tráva, ktorú nikdy nikto nekosí.   Ťažko by ju bolo zvážať do hlbokých dolín po príkrych a skalnatých   cestičkách. Preto čo lepší gazdovia vyšikúvali veľké kŕdle oviec a   čriedy rožného statku na tieto vysočiny, aby sa tam od jari až do   jesene na okrúhlo vytučili.
+     </tei:p>
+     <tei:p>
+      Náhle sa tu roztopí sneh a zazelenajú sa lúky i stromy v dolinách,   postupuje jar vyššie a vyššie hore úbočami na vrchy. Zelený pás   rozvitých stromov ide si pomaly hore-hore, až na končiare vrchov, kde   už stromov niet, len kosodrevina, podobná obrovskému machu, zapletá   sa tam do hustých chumáčov. Ak sa kde-tu i nájde osamotený smrek, je   to úbohý bedár, vydedenec z krajiny stromov, dokaličený búrkami,   dokmásaný víchricami. Je napolo vyschnutý. Pozrite na jeho okyptené   konáre: málo ich má a všetky sú na jednej strane. Vystierajú sa proti   juhu, odkiaľ sa na ne slnko zlatom usmieva. Z druhej strany mu   severák všetky konáre okmásal.
+     </tei:p>
+     <tei:p>
+      Na týchto vrchoch pásol Pavko Dorociak voly. Dvesto volov   najbohatšieho gazdu v okolí. Dvesto volov bielych i strakatých,   krotkých i divých, a on s nimi samučičký-sám.
+     </tei:p>
+     <tei:p>
+      Ale Pavko Dorociak nebál sa ničoho. Mal nabrúsenú valašku, mal   ostrý nôž za opaskom, mal kolibu, kde nocúval, dobrú ohradu pre voly.   Nebál sa Pavko Dorociak ani divých zverov, ani samoty.
+     </tei:p>
+     <tei:p>
+      Raz do týždňa navštevovala ho staručká služobná. Prichádzala po   skalnatých chodníčkoch, hore strminami, cez husté a tiché hory, čo   kryli úboče pod hoľami. Bola to jeho teta Anka Darovná, ktorá slúžila   tiež u jeho pána a prinášala mu obživu na celý týždeň. V taký čas mu   vyrozprávala, čo je nového na gazdovstve, ako sa majú jeho druhovia   tam dolu, ako ho spomínajú, a zase odišla. Tak sa živil náš Pavko   Dorociak, mladý pastierik bez otca a matky.
+     </tei:p>
+     <tei:p>
+      Bola práve sobota a chýlilo sa k večeru. Pavko Dorociak sedel na   okraji hory, načúval a pozeral do nej, či neuvidí starenku, ako sa   vlečie hore chodníkom s bielym batôžkom na chrbte. Tentoraz mu bolo   akosi neveselo. Akoby sa mu bolo žiadalo vidieť niekoho zo svojich   druhov, počuť jeho hlas a porozprávať sa s ním o sebe i o ľuďoch tam   dolu, o tých ľuďoch, ktorí po rovných cestách chodia, teplé jedlá   pojedajú a niekedy si naň azda aj pomyslia. Áno, pomyslia si na Pavka   Dorociaka, ktorý sa už na teplé jedlo skoro ani nepamätá, väčšinou   iba suchým chlebom sa živí. Chcel sa niekomu vyrozprávať, ako mu býva   niekedy, keď sa ťažké hmly zavalia na hory a husto ovinú jeho kolibu.   Potom sa z hlbokých dolín tichučko prikradne noc. Zaklope svojimi   čiernymi prstami na strechu koliby a zasadne si s Pavkom k ohnisku.   Vietor zaveje, voly v ohrade desivo zaručia, oboria sa na drevené   stĺpy, akoby ich chceli rozmetať. Vtedy Pavko Dorociak vie, že je   kdesi nablízku medveď, že obchádza ohradu a na tom si láme hlavu, ako   by sa dostal niektorému z volov na kožu a poriadne sa uhostil. Veď   čože má, neborák, robiť? Lesných plodín po horách a báňoch je už   málo, ľudia ich ešte za leta pooberali; je hladný a vychudnutý. Bude   sa prebúdzať zo zimného spánku, bude sa potĺkať po zasnežených   horách, a nikde nič pod zuby nenájde. Napokon sa vráti vysilený, s   preliačeným bruchom, do svojho zimoviska, zavŕta sa do raždia, aby   pokračoval v spánku.
+     </tei:p>
+     <tei:p>
+      Ale Pavko Dorociak nemohol mu pomôcť. Nemohol mu vola darovať, čo   by ho ako bol poľutoval. Pastier musí svoje voly chrániť pred každým   nebezpečenstvom, lebo by ho v jeseni vyhnali zo služby, plácu by mu   nedali, keby sa mu niektorý z volov stratil.
+     </tei:p>
+     <tei:p>
+      Preto musel byť nepriateľom hladného medveďa, musel sa s ním   púšťať do boja na život a na smrť.
+     </tei:p>
+     <tei:p>
+      Ak sa medveď priblížil, Pavko vyšiel pred kolibu, založil oheň a   pritom tuho vykrikoval do noci. A keď sa rozblčali smolnaté konáre,   ktoré na oheň prikladal, obchádzal s nimi ohradu a medveďa zaháňal.   Takto to robil i za poslednej tmavej noci, keď voly desivo   ručali.
+     </tei:p>
+     <tei:p>
+      O tom chcel rozprávať starenke Darovnej, ale akosi neprichádzala.   Preto mu bolo clivo.
+     </tei:p>
+     <tei:p>
+      Príde, či nepríde? Čochvíľa už zase bude noc, znova sa musí   utiahnuť do koliby, oheň rozložiť a nocovať osamote na opustenom   vrchu.
+     </tei:p>
+     <tei:p>
+      Zahľadel sa na vysoký strom, ktorý stál samotný na poľane. Strom   bol ošarpaný vetrom a Pavkovi sa zdalo, že vidí na ňom akýsi tmavý   tieň, ktorý tam predtým nebol. Čo to len môže byť?
+     </tei:p>
+     <tei:p>
+      Črieda volov belela sa na hrebeni. Pavko sa chvíľami poobzeral, či   sa voly pokojne pasú, ale nepohol sa z miesta. Pozoroval tmavý tieň   na strome, či sa aspoň o poznanie pohybe.
+     </tei:p>
+     <tei:p>
+      Tieň sa nepohol, ležal tam, akoby bol prirastený k stromu. Pavko   sa už zberal, že podíde k nemu s valaškou v ruke a presvedčí sa, čo   je to, keď vtom slabučko zapraskotalo raždie, aj ihličie zašuchotalo   na pokraji hory a štíhly srnec vyšvihol sa na poľanu. Poobzeral sa   placho, nozdry rozšíril, zachytával slabé prúdenie vzduchu, čo sa   spúšťal od hrebeňa k hore. Ešte chvíľu postál a pobehol k osamotenému   stromu.
+     </tei:p>
+     <tei:p>
+      Vtom akoby sa tieň na strome trochu bol pohol. Potom sa razom od   stromu odpojil a v nasledujúcej chvíli sa už zachytil na šiji   podeseného srnca. Nasledovalo zaryčanie napadnutého zvieraťa, metanie   sa po zemi, divý zápas o život, ktorý však netrval dlho. Srnec   zatíchol a zaľahol nehybne.
+     </tei:p>
+     <tei:p>
+      Pavko chvíľu sedel ako omráčený a díval sa na dravca, ako si   hoduje na srncovi, ale hneď sa aj spamätal. Vyskočil, prebehol   poľanou a priblížil sa so svojou ostrou valaškou v ruke k osamotenému   stromu.
+     </tei:p>
+     <tei:p>
+      Azda by bol dravca aj zasiahol, alebo — možno — aj ulovil, ale ten   sa začal srdnato brániť. Vycieral zubiská, pazúrmi švihal do   povetria, akoby bol chcel zachytiť valašku, ktorou sa Pavko oháňal.   Nechcel sa vzdať svojej koristi. Ale Pavko Dorociak pristupoval k   nemu vždy bližšie a bližšie, a keď ho klepol, potvoru, obuškom poza   uši, dravec si to rozmyslel: niekoľkými skokmi sa preniesol poľanou a   stratil sa v blízkej hore.
+     </tei:p>
+     <tei:p>
+      Pavko si obzrel srnca: bol naozaj mŕtvy. A šelma, ktorá ho   usmrtila, podobala sa mačke, ibaže bola veľká — azda ako desať   mačiek. Uši mala končisté s ostrými štetôčkami, chvost mala krátky a   labky rozšírené. Nevedel Pavko Dorociak, čo to bolo za podivné   zviera.
+     </tei:p>
+     <tei:p>
+      V prvej chvíli by rád bol zachránil srnca pri živote, ale keď si   pomyslel, že si ho môže vziať do koliby a pripekať si ho po kúsku na   ražni, potešil sa tomuto daru. Veď už dávno teplé jedlo ani   nechutnal.
+     </tei:p>
+     <tei:p>
+      Vzal srnca za zadné nohy a ťahajúc ho za sebou, poberal sa s ním   hore vrchom ku kolibe. Vtedy už súmrak sadal na hole, čo sa na   hrebeňoch vrchov stáva o hodnú chvíľu potom, keď na dolinách leží už   polotma.
+     </tei:p>
+     <tei:p>
+      Pred kolibou zablkotal oheň a Pavko Dorociak pripravil si srnčie   stehno na ražeň, aby si ho pripiekol na ohni. Mäso rozvoniavalo okolo   koliby, švarcovalo sa i blkotalo, horúca masť hustými kvapkami   stekala do pahreby.
+     </tei:p>
+     <tei:p>
+      Voly v ohrade si už boli políhali a pokojne prežúvali trávu, ktorú   si nazbierali do zásoby a uložili vo svojich záhybovitých žalúdkoch   za bieleho dňa. Prižmurovali oči a pokyvovali hlavami. Kedy-tedy   zaručal usínajúci vôl. Okolo ohrady a koliby zapriadal sa tichý   večer. Pavko Dorociak si s chuťou zavečeral, vtiahol sa do koliby,   prevalil sa na priči, ktorú si bol vystlal suchou trávou, a poručil   sa spánku.
+     </tei:p>
+     <tei:p>
+      Potom priletela tichá noc. Čierne oblaky plávali nebom a strácali   sa nad západnými horami. A hladný medveď, ktorý tak často   znepokojoval ohradu, vybral sa i tejto noci k nej. Vyšiel z   najhustejšej húštiny Veľkej doliny a kolísavo, s ovesenou hlavou,   valil sa tým smerom, kde stála ohrada.
+     </tei:p>
+     <tei:p>
+      Neďaleko koliby zastal, zdvihol hlavu a ňuchal. Akoby bol chcel   zaňuchať, či je Pavko v kolibe, či spí, alebo striehne na svojho   štvornohého nepriateľa, či ho nebude zase naháňať akousi podivnou   vecou, ktorá svieti, že až oči oslepuje, pritom práska a nepríjemne   zapácha. Medveď sa tejto správy akurátne bojí.
+     </tei:p>
+     <tei:p>
+      Ako tak ňuchá, odrazu sa strhne, akoby ho boli podstrelili. Srsť   sa mu naježí, zafučí a namrzený spustí sa dolu poľanou, aby sa   vtiahol do najbližšej hory.
+     </tei:p>
+     <tei:p>
+      O chvíľu sa ukázalo, čoho sa medveď naľakal. Na chodníčku, z   druhej strany lesa, zjavila sa postava mládenca s valaškou v ruke a s   bielym batôžkom na chrbte.
+     </tei:p>
+     <tei:p>
+      Mládenec zamieril ku kolibe, zavolal na spiaceho Pavka Dorociaka a   hneď sa radostne s ním zvítal.
+     </tei:p>
+     <tei:p>
+      Bol to valašík Ďurko Sojka, Pavkov dobrý druh, ktorý tiež slúžil u   toho istého gazdu. Poslali ho k Pavkovi, aby spolu pásli čriedu   volov, až kým nepadnú mrazy a vytucený statok bude treba zohnať do   doliny. Vyprosila ho tetka Darovná, ktorá vyrozprávala gazdovi, že   Pavka obchádzajú medvede a pusto mu je na vrchoch osamote.
+     </tei:p>
+     <tei:p>
+      Ďurko Sojka priniesol Pavkovi Dorociakovi novučičký barančí   kožuch, aby Pavko, keď prídu mrazy a vetry studené zavejú, netrpel   zimou. I obživu mu priniesol: chleba i kúsok slaniny a vyrozprával mu   všetko, čo je nové dolu v doline, ako sa majú Pavkovi priatelia, ako   často — a vždy len po dobrom ho spomínajú.
+     </tei:p>
+     <tei:p>
+      A Pavko Dorociak mu zase, aký je rád, že zostanú na holiach spolu.   Rozprával mu o medveďovi, čo sa prikráda za tmavých nocí a na voly si   ostrí zuby. Pavko ho ohňom a krikom zaháňa. Rozpovedal mu, čo sa mu   prihodilo dnes večer, keď márne čakal na tetku Darovnú, tam dolu pri   hore. Akási veľká potvora, trochu mačke podobná, ulovila srnca. Pavko   jej srnca odňal a potvoru zahnal do hory. Ponúkol Ďurka Sojku pečeným   mäsom a pýtal sa ho, aké to len mohlo byť zviera, čo srnca   ulovilo?
+     </tei:p>
+     <tei:p>
+      — Rys to bol, — odpovedal mu Ďurko Sojka, ktorý bol starší a   skúsenejší a poznal toto zviera, ktoré sa v tých časoch v našich   hornatých krajoch veľmi často vyskytovalo.
+     </tei:p>
+     <tei:p>
+      Blížila sa polnoc a voly sa zase znepokojili. Zaručali výstražne,   akoby boh chceli upozorniť všetko, čo je živé, že sa vo tme noci   skrýva nebezpečenstvo, a oborili sa na stĺpy ohrady, akoby ich boli   chceli vyvaliť, rútiť sa do tmy s natiahnutými krkmi, s rohami   dopredu vystrčenými, aby zahnali obludu, ktorá ich po nociach   znepokojuje a na životy im siaha. Lebo vôl — to vám je nie ako krava,   ktorá — keď zacíti medveďa, pustí sa bezhlavo na útek. Vôl je   zvieratko naoko veľmi krotké, trpezlivé a neškodné, ale — najmä keď   je v čriede — veru sa postaví aj proti medveďovi. Keď ho zacíti, iba   zaručí a zúrivo sa vyrúti na dravca. Najprv ho napadne rohami. A ak   sa mu podarilo zvaliť ho na zem, pritláča ho hlavou a pošliape   nohami. Lenže sa to málokedy tak skončí, lebo medveď je silný a   omnoho obratnejší. Obyčajne odskočí, aby ho rohy vola nezasiahli,   potom skočí na roháňa zboku, labami ho ovalí a omráči. Zaútočí mu na   väzy a vôl vtedy už obyčajne dobojoval.
+     </tei:p>
+     <tei:p>
+      Tentoraz sa Pavko Dorociak ani trochu nenaľakal, akokoľvek sa voly   rozbúrili a rozručali. Mal pri sebe svojho druha Ďurka Sojku, smelého   a mocného, ako bol aj on sám, a obaja mali ostré valašky. Vyšli pred   kolibu, rozvatrili oheň a s horiacimi konármi i s ostrými valaškami v   rukách pustili sa okolo ohrady.
+     </tei:p>
+     <tei:p>
+      A medveď, ktorý práve obchádzal ohradu vo vzdialenosti niekoľkých   krokov, utiahol sa o kúsok ďalej do tmy a odtiaľ zvedavo pozeral, ako   sa mládenci mocú popri ohrade, ako sa svetielka horiacich konárov   kmitajú okolo nich, ako keď sa za tmavej noci svätojánske mušky   rozlietajú okolo potôčkov po tmavej utíšenej hore.
+     </tei:p>
+     <tei:p>
+      — Bi ho, zabi hoó! — pokrikovali mládenci, a ono, medvedisko, iba   zaostrovalo uši, obšmietalo sa vo veľkom kruhu a po očku pokukávalo   na nich.
+     </tei:p>
+     <tei:p>
+      V predošlej noci, keď Pavko Dorociak sám vybehúval z koliby a   horiace drevo zahadzoval za ním, medveď sa naozaj naľakal a hneď sa   pobral od ohrady čo naj ďalej. Prepletal nohami, knísal sa zboka   nabok a smiešne opálal svojou ťažkou hlavou. Ale teraz, napodiv,   prestával sa báť kriku a ohňa. Zvykal si na to svietiace strašidlo,   oňuchával ho z diaľky a nijako nemal chuti vziať laby na plecia. Ba   približoval sa k ohrade krok za krokom, opatrne, aby ho mládenci   nezbadali.
+     </tei:p>
+     <tei:p>
+      Ale voly sa začali vždy väčšmi a väčšmi vzpínať. Ručali hrozivo,   krútili sa po ohrade, zbíjali sa dokopy a prechádzali z kúta do kúta   ako pojašené.
+     </tei:p>
+     <tei:p>
+      Mládenci vedeli, čo to znamená: medveď nechce odísť, kdesi   nablízku sa poneviera a striehne na vhodnú chvíľu, kedy by mohol voly   napadnúť. Preto sa mládenci rozhodli, že založia oheň pri ohrade — na   opačnej strane od koliby — a tam budú nocovať.
+     </tei:p>
+     <tei:p>
+      Preniesli oheň spred koliby na druhú stranu ohrady, nanosili   dreva, ktoré Pavko bol nachystal, nahadzovali ho na oheň a   vyčkávali.
+     </tei:p>
+     <tei:p>
+      Zdalo sa, že medveď odišiel, lebo voly sa utíšili, políhali si a   znova začali pokojne prežúvať. Pavko Dorociak a Ďurko Sojka si ľahli   k ohňu a zadriemali.
+     </tei:p>
+     <tei:p>
+      Vtedy už oheň pred kolibou dohasínal. Uhlíky sa jeden po druhom   strácali v nočnej tme, ako ich pokrývala vždy hustejšia vrstva   popola. Napokon už ani jeden nezasvietil, zhasla i posledná   iskierka.
+     </tei:p>
+     <tei:p>
+      Medveď ustúpil od miesta, kde mládenci založili oheň, ale začal sa   tentoraz obšmietať okolo koliby. Vietor zavieval od volov k nemu,   voly ho nemohli zaňuchať. A čoraz vetrík zavial, vždy znova a znova   udrela mu do nozdier vôňa čerstvého mäsa a dráždila mu žalúdok. Podal   sa teda za vôňou cez popol vyhasnutého ohňa, rovno do koliby. Tam nad   ohniskom viselo mäso zo srnca, ktoré Pavko Dorociak pekne očistil a   prichystal na zaúdenie. Chcel si ho zaúdiť dymom voňavých borievok,   ktoré rástli na nižších poľanách. Ráno si ich donesie plnú náruč —   myslel si — a bude ich pomaly prikladať pod mäso na oheň.
+     </tei:p>
+     <tei:p>
+      Medveď iba podskočil, srnca strhol a odniesol si ho na okraj hory.   Tam sa na ňom s chuťou uhostil. A akoby mu ešte nebolo dosť, vrátil   sa do koliby, rozmetal batôžky mládencov a všetku obživu, ktorú tam   našiel, spustil si do brucha. Zjedol chlebík i všetku slaninku. Potom   sa vytratil z koliby ako rozjarený zlodej, ktorému sa zlodejčina   dobre vydarila, poskakujúc veselo na troch nohách. Zabočil k   studničke, ktorá spod samého hrebeňa vysočiny posielala svoju   chladnú, zurčiacu vodu do hlbín, a keď sa dobre napil, spokojne sa   vracal do Veľkej doliny, kde mal svoj teplý, pred vetrom a ľudskými   zrakmi ukrytý brloh.
+     </tei:p>
+     <tei:p>
+      Nič netušiaci mládenci sa vtedy obrátili na druhý bok a spali,   akoby ich za to platili. V ohrade bolo pokojne a ticho.
+     </tei:p>
+     <tei:p>
+      Na druhý deň, len čo slnko vykuklo spoza Východných vrchov, divili   sa mládenci neveľkým medvedím stopám, ktoré im ten chlpatý nočný hosť   povytláčal v kolibe na pamiatku. Horekovali nad rozmetanými hrnčekmi   a obrúskami, ktoré zlodej veľmi poctivo vyprázdnil. Zmizlo im všetko,   čo bolo na jedenie, ani čo by sa bolo prepadlo. Zostalo im iba trochu   kukuričnej kaše vo vrecúšku, aj tá bola zafúľaná. Museli si ju   očistiť, popreberať, len tak si ju mohli uvariť na raňajky.
+     </tei:p>
+     <tei:p>
+      Pavko Dorociak vypustil voly na pašu, kým Ďurko Sojka pobral sa do   dediny ku gazdovi. Išiel sa požalovať, čo sa im v noci prihodilo, a   vypýtať si od gazdu novú obživu. Čochvíľa zmizol na chodníku, ktorý   sa skrúcal medzi stromy.
+     </tei:p>
+     <tei:p>
+      Pavko sa vrátil do koliby usporiadať si rozmetané veci. O voly sa   nebál, lebo medveď ich cez deň neobchádzal. Mohli sa pokojne pásť po   celom hrebeni až na okraj hory, ktorá pokrývala južnú stranu   vysočiny.
+     </tei:p>
+     <tei:p>
+      Dorociak vymietol kolibu omelom z kosodreviny, oprášil obrúsky, na   priče ich prevesil, i lôžko si upravil a sadnúc si na prah koliby,   prehodil si cez kolená nový kožuch, čo mu jeho druh Ďurko bol   priniesol. Obzeral si ho zo všetkých strán a zlostil sa, že i ten mu   medveď umágal a pošliapal. Oprášil a očistil si ho trávou, nakoľko sa   dalo, a tešil sa mu, ako sa tešievajú mladí ľudia múdremu daru. Hneď   si ho chcel aj oprobovať. A keďže prihrievalo slnko — aby mu nebolo   prihorúce, obrátil ho na ruby a tak si ho obliekol.
+     </tei:p>
+     <tei:p>
+      Práve sa zberal za čriedou, keď spoza rohu koliby vykukla naň   čudná chlpatá hlava s drobnými šelmovskými očkami.
+     </tei:p>
+     <tei:p>
+      Pavko Dorociak chcel skočiť do koliby a ozbrojiť sa valaškou, ale   akoby mu údy boli zdreveneli, nevládal sa pohnúť z miesta, nevládal   vypustiť jediný hlas, iba čo sa mu ústa doširoka otvorili.
+     </tei:p>
+     <tei:p>
+      Po hlave ukázal sa krk, hneď predné laby neveľkého medveďa, čo na   Pavka Dorociaka tak divne pokukával, akoby si bol chcel s ním   zašantiť. Čistý ružový jazyk visel mu z papule, prestupoval na jednom   mieste z labky na labku a pritom sa smiešne knísal zboka nabok.
+     </tei:p>
+     <tei:p>
+      Bol to ten istý medveď, ktorý po nociach obchádzal ohradu volov a   za poslednej noci vykradol mládencom všetku obživu z koliby. Bol ešte   mladý, asi dvojročný, hravý a žartovný, ako bývajú medvede v tom   veku. Veď od mala živia sa iba ovocím, v čas núdze i chrobáčikmi   alebo nejakou tou myškou, a len keď dovršujú druhý rok svojho života,   stávajú sa dravcami. Lebo v horách, kde medvede žijú, niet toľko   plodín, že by sa i dospelý medveď mohol nimi uživiť. Preto len čo   medveď dorastie, začína obchádzať ohrady, napádať kŕdle oviec, ba i   čriedy veľkého statku.
+     </tei:p>
+     <tei:p>
+      Medveď z Veľkej doliny bol práve jeden z tých, ktorí sú na   prechode od hravého mláďaťa k dospelému dravcovi. Keď ho trápil hlad,   odvážil sa znepokojovať i rohaté voly, ale teraz, keď sa mu podarilo   za noci tak zlodejsky sa nasýtiť, zažiadalo sa mu znova si zájsť ku   kolibe, kde sa mu v noci tak dobre povodilo.
+     </tei:p>
+     <tei:p>
+      Pavko Dorociak, keď sa z prvého ľaknutia spamätal, skočil do   koliby, zastal si povedľa priče a vzal do ruky svoju valašku. Medveď   nato zmizol. Pustil sa k hore a tam sa stratil medzi stromami. Pavko   v kožúšku, obrátenom naopak, pobral sa za volmi.
+     </tei:p>
+     <tei:p>
+      Keď sa priblížil k čriede na dohodenie kameňom, zrazu spozoroval,   že voly, funiace a rozzúrené, bežia rovno proti nemu. Bleskmi sršiace   oči zvierat upierali sa naňho a veľmi rýchle sa blížili. V   nasledujúcej chvíli ho i nabrali na rohy, presotili a celá črieda ako   divý víchor prehnala sa cez neho.
+     </tei:p>
+     <tei:p>
+      Pavko ležal pošliapaný, nevládal sa zdvihnúť. Niekoľkokrát zavolal   o pomoc, ale jeho hlas bol prislabý na to, aby ho počuli ľudia až   kdesi pod vrchmi. Pavko prižmúril oči a stratil vedomie.
+     </tei:p>
+     <tei:p>
+      Rozzúrená črieda volov ešte dlho sliedila po hrebeni vysočiny.
+     </tei:p>
+     <tei:p>
+      Pavko Dorociak bol húževnatý pastiersky parobok, ktorého nemožno   len tak ľahko položiť. Ani do tisíc by ste neboli narátali, už sa   zdvihol, po vystieral si údy, pohľadal si svoj vybíjaný klobúčik,   ktorý sa mu zgúľal dolu svahom, a poobzeral sa po holiach. Keď zazrel   svoju čriedu, ako sa preháňa po hrebeni, zahromžil si, ako to   pastieri v takej chvíli robievajú, pohrozil jej päsťou a dal sa   skúmať svoj nový kožuštek, či mu ho voly paprčkami nepotrhali. Nie,   nič sa mu nestalo. Trochu bol zablatený, ale to si Pavko dlaňou   očistil a kožuch bol zase ako nový.
+     </tei:p>
+     <tei:p>
+      Potom sa vychytil za čriedou, nadbehol ju, s krikom sa vrútil   medzi voly a kdektorého pohladil po rebrách poriskom svojej valašky.   Takto ich zoznamoval so svojím novým kožuchom, aby sa druhý raz   nezmýlili a nepošliapali ho miesto medveďa.
+     </tei:p>
+     <tei:p>
+      Voly si ho najprv len obzerali, upierali naň svoje nevinné, krotké   oči. Potom sa upokojili a znova sa začali pásť, akoby sa nič nebolo   stalo.
+     </tei:p>
+     <tei:p>
+      Premýšľal Pavko Dorociak, ako sa mohlo stať, že ho voly napadli.   Všetko to zavinil ten nešťastný medveď. Pri zlodejčení v kolibe   pootieral sa o jeho nový kožuch, ktorý si Pavko nechal na priči.   Kožuch sa nabral medvedím pachom a voly, keď zacítili zápach,   vychytili sa pošliapať nepriateľa, ktorý ich znepokojuje po nociach.   Tak sa im dostal Pavko Dorociak pod rohy miesto toho zlodejského   medveďa.
+     </tei:p>
+     <tei:p>
+      V podvečer sa vrátil valašík Ďurko Sojka s novou obživou. Skúpy   gazda tentoraz už poslal iba kukuričnú kašu a kúsok chleba, na   slaninu celkom zabudol.
+     </tei:p>
+     <tei:p>
+      Mládenci si z opatrnosti poukrývali obživu poza hrady pod strechou   koliby a potom, ako obyčajne, zahnali voly do ohrady. Pred kolibou   zase založili oheň a prevalili sa na priče. Napodiv, tej noci ani   jeden vôl nezaručal, ani oči medveďa nezasvietili blízo ohrady.
+     </tei:p>
+     <tei:p>
+      V nasledujúci deň, keď valašík Sojka zaháňal čriedu na južný   koniec hrebeňa, Pavko Dorociak zostal v kolibe, aby pripravil   raňajky. Navaril kukuričnej kaše, omastil ju lojom a hrubou soľou   posýpal i na povrchu. A tu znova zazrel medveďa, ako sa obšmieta   okolo koliby, akoby mal sto chutí ísť si do nej zamaškrtiť. Pavko ho   znova zahnal krikom a valaškou proti hore. Od tých čias maškrtný   medveď často obchádzal kolibu, ale voly už neznepokojoval.
+     </tei:p>
+     <tei:p>
+      Iba raz sa mu ešte podarilo zamaškrtiť si na obžive mládencov, a   to práve vtedy, keď ich navštívila teta Darovná. Uložila obživu do   koliby a išla pohľadať mládencov po hrebeni. A preto, že chlapci boli   priďaleko, rozhodla sa, že sa vráti do koliby a tam si na nich   počká.
+     </tei:p>
+     <tei:p>
+      Zastala teta na prahu koliby a div, že od strachu nezblaznela: v   kolibe zazrela medveďa, ako sa oblizuje po syre a slanine, ktorú   doniesla pre mládencov. Zalomila teta Darovná rukami a taký krik   porobila, že sa jej medveď naľakal väčšmi ako ona jeho. Vyhodil sa z   koliby a dal sa preberať nohami proti Veľkej doline tak rýchle, že by   ho ani desať volov nebolo dohonilo. Pavko Dorociak a Ďurko Sojka, keď   na veľký krik pribehli ku kolibe, mali veľkú robotu kriesiť a   utišovať podesenú tetku Darovnú.
+     </tei:p>
+     <tei:p>
+      Na krajinu padli prvé jesenné mrazy, postriebrili hustú trávu   vysočiny a od severu zaskučal zlostný vietor. Po vetre začali   prelietať nebom čierňavy, husté á mokré hmly opriadli pohorie;   človek, ktorý sa vtedy obrátil hore na vrchoch, nedovidel ďalej od   nosa.
+     </tei:p>
+     <tei:p>
+      Dorociak a Sojka dostali od gazdu rozkaz, aby hneď zohnali čriedu   z vrchov. A tak v jedno ráno spočítali voly, prehnali ich hrebeňom k   južnému svahu, kde sa skalnatá, vyjarčená cestička spúšťala k   nížinám, a s hlasným pokrikovaním zaháňali čriedu do doliny.
+     </tei:p>
+     <tei:p>
+      Za cestou si spomenuli i na medveďa, ktorý chodil k nim na   maškrty: čo si len počne, neborák, v pustej, studenej krajine, keď si   už nebude mať kde zamaškrtiť?
+     </tei:p>
+     <tei:p>
+      A sotva mládenci odišli, chlpáň sa už aj zjavil v kolibe. A keď   tam všetko preňuchal a nič nenašiel, pohol sa po stupajach štyroch   krpcov, čo dvaja mládenci povytláčali za volmi, a oňuchával ich až po   vysokú skalu na južnom sedle vysočiny. Tam sa začínala skalnatá   cesta, po ktorej mládenci s volmi odišli. Medveď stál dlho na skale,   vetril a načúval, ako sa zdola nesie krik pastierov a hrkoce skálčie   pod raticami vzďaľujúcej sa čriedy. Nato sa maškrtník vrátil do   Veľkej doliny a tam, v najhustejšej húštine, zahrabal sa do svojho   brloha.
+     </tei:p>
+     <tei:p>
+      Na sklonku budúcej jari si pastieri v kraji mnoho povrávali, že na   vysočine žije akýsi podivný medveď, ktorý veľmi prefíkane vykráda   pastierske koliby. Najmä rád má vraj batôžky, ktoré ľudia prinášajú z   dolín. Hľa, aj nedávno čo sa stalo starému sklenárovi Krkoškovi,   ktorý, aby si skrátil cestu, pobral sa z jednej stolice do druhej cez   vrchy: sklenár Krkoška si na vysočine trochu zdriemol, a keď sa   prebudil, zazrel medveďa, ktorý práve odnášal jeho batôžok s obživou.   Starý Krkoška, nezvyknutý na takéto zaobchádzanie, tak sa pustil   utekať na opačnú stranu, že sa mu všetko sklo v krošni na prach   rozdrvilo.
+     </tei:p>
+     <tei:p>
+      Od tých čias, ako sa táto udalosť odohrala, prešlo mnoho rokov.   Pastierik Pavko Dorociak a Ďurko Sojka už dávno prestali pásť a   prišlo im potĺkať sa svetom ako bezvládnym ustatým starcom, ktorí cez   celý svoj život iba iným slúžili, a nič si nevyslúžili. Napokon, keď   už robiť nevládali, ich staré nohy už nestačili pobehúvať za čriedami   statku, vyhnali ich gazdovia zo služby. Chodili Pavko a Ďurko od domu   k domu a hľadali dobrých ľudí, ktorí by ich obdarovali kúskom chleba.   Ale takých sa našlo veľmi málo. Z mnohých domov ich vyhnali, ba ešte   i psov na nich nahuckali.
+     </tei:p>
+     <tei:p>
+      Takých pastierov, ako bol Sojka a Dorociak, bolo za starých čias   mnoho. Keby ste boli žili s nimi zároveň a oni na svojej púti by boli   zavítali k vám, či by ste ich boli pustili ďalej bez podania pomocnej   ruky? Staručkých, zhrbených, chodiacich ťažkým, neistým krokom?   Čierne vlasy im už ošediveli, tváre mali dobrácke, ťažkým životom   zvráskavené, ale krásne, usmievavé a statočné... Nie, nepustili by   ste ich, iste by ste im boli pomohli v biede.
+     </tei:p>
+     <tei:p>
+      Či sú to už všetky rozprávky, čo tají v sebe Veľká dolina? Ó nie,   lebo Veľká dolina tají v sebe ešte mnoho, veľmi mnoho rozprávok!
+     </tei:p>
+    </tei:div>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

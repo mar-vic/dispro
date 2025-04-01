@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Cestovanie na vakácie",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "pub_date": "2009"
+    },
+    "firsted": {
+        "pub_date": "1861"
+    },
+    "authors": [
+        {
+            "first_name": "Gustáv Kazimír",
+            "last_name": "Zechenter-Laskomerský",
+            "birth_date": "1824",
+            "death_date": "1908",
+            "ref": "viaf:49245103"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

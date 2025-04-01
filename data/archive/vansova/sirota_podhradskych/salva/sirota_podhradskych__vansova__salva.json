@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Sirota podhradských",
+        "publisher": "Tlačou a nákladom Karola Salvu",
+        "pub_place": "Ružomberok",
+        "pub_date": "1889"
+    },
+    "authors": [
+        {
+            "first_name": "Terézia",
+            "last_name": "Vansová",
+            "birth_date": "1857",
+            "death_date": "1942",
+            "ref": "viaf:15567322"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

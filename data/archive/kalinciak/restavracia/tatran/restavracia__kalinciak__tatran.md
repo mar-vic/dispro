@@ -1,0 +1,3777 @@
+# Obrazy z nedávnych čias
+
+#I#Dulce est desipere in loco.#POZ#1;(lat.) Sladko je pošalieť si v
+príhodnom čase. Citát z Horatia.#-POZ##-I#
+
+HORATIUS#POZ#2;Quintus Flaccus (65 pred n. l. --- 8 n. 1.), slávny
+rímsky lyrik z čias cisára Augusta.#-POZ#
+
+# I
+
+„Hej, na môj hriešnu dušu bude!"
+
+„Hej, na môj hriešnu dušu nebude!"
+
+A čo sa vy všetci na hlavu postavíte, nuž z vašich ľahtikárskych,
+neuvarených, neosolených, neomastených frčkárov nič nebude, čo len
+papuľovať vedia a ani tu nič, ani tam nič; my si vám do kaše dúchať
+nedáme, bo chceme mať človeka, ktorý má dačo pod klobúkom, tuto, vidíš,
+kmotor," hovoril pán Matiáš Bešeňovský, ukazujúc prstom na čelo, „a
+tuto," dlaňou tľapkajúc bočný vačok.
+
+„Aha, veď zato nebude," odpovedal horlivo pán Peter Barina, „že má i
+tuto, to jest v hlave fígle; bo je huncút klincami vybíjaný, je taký
+cigo rigo kapsa, predal koňa za psa, že prevedie statočného človeka cez
+lavičku akoby nič --- a má tuto, to jest vo vačku, bo už dosť nazbíjal z
+mozoľov statočných ľudí, bodaj mu Cigáni zuby kovali!"
+
+„Hm, teda tak?" hovorí pán Matiáš, „prevedie statočného človeka cez
+lavičku? --- Nuž a či nevieš, že keď ti treba zemana zastať, hoc aj
+pravdu nemá, či je to nie sám vicišpán, jeho milosť pán Adam Bešeňovský
+--- pýcha našej slávnej famílie? --- Vivat!#POZ#3;(lat.) Nech
+žije!#-POZ# Keď vaši potrimiskovia, čo sa sotva z vajca vykľuvali, chcú
+celý svet naruby obrátiť a hovoria, aby vraj zeman platil porciu a mýto,
+kto sa im vzoprie, kto im prejde cez rozum, či nie pán vicišpán Adam
+Bešeňovský? --- Vivat! A keď nemáš doma ani múky, ani soli, kto ti
+pomôže, keď nie pán Adam Bešeňovský? --- Vivat!"
+
+„Pomôže ten --- pokiaľ je nie po reštavrácii,#POZ#4;(z lat.) Stoličné
+voľby v starom Uhorsku.#-POZ# áno; ale potom? --- Potom sa nafúka,
+naduje ako moriak, keď mu zahvízdajú a ty, keď si chudobný zeman a
+povieš mu po starom: ,Domine spectabilis#POZ#5;(lat.) Ctihodný
+pane.#-POZ# pán brat,\' nuž skriví nosom, mrdne obstrihaným fúzom,
+zafučí, naježí sa ako jež a pyšne odsekne: ,Pán brat sem, pán brat tam,
+kdeže som ja s vami húsence pásol?\' --- že sa až ziskrí statočnému
+zemanovi v očiach."
+
+„No, vidíš, kmotor, to je zasa nie pravda," odpovie Matiáš Bešeňovský,
+„bo pán vicišpán o húsencoch nikdy nehovorí, už len má natoľko rozumu
+alebo fígľov, keď to chceš mať, všaks\' to sám povedal."
+
+„Nuž nech je, ako chce; ale počuješ, kmotor, keď to bolo pred
+reštavráciou, vtedy som bol ak pán brat, tak pán brat úprimný, drahý ---
+a tak obskakoval okolo mňa ako mačka okolo myši, i tľapkal ma i objímal
+--- a čo viac, vybozkával i moju starú, čo je taká ako na jar mrkva. Ale
+keď bolo po reštavrácii --- a vieš, keď za rok človek nič robiť nemusí a
+žije si ako v raji, nuž mu to potom ťažko padne zapriahnuť sa ako
+hoviadko --- tu bys\' ho bol videl, keď si k nemu prišiel, ako o tom
+všetkom predošlom vicišpán povedal, že ,niks tajč\'.#POZ#6;(z nem.
+nichts deutsch) Nerozumiem po nemecky.#-POZ# Nuž ale čo potom? V dome
+bola bieda, lebo som sa ja veru za celý rok o hospodárstvo nestaral;
+prišla sejba, a zrna kde nič tu nič. Nuž čože robiť? Išiel som k
+vicišpánovi po starej známosti a prosil som ho, aby mi požičal pár
+meríčiek. Nuž ale či vieš, čo odpovedal --- .bodaj mu psi na kare
+trúbili --- či vieš?" --- a v rozhorčení nad nemilou spomienkou chytil
+Matiáša za plece a triasol ho, akoby mu chcel dušu vytriasť, „povedal mi
+--- no pomysli si len: ,Veď ja poznám také šášky, ako ste aj vy, čo
+vtedy dlhy odvádzajú, keď pánboh hudcom platí.\'" Pritom si oddýchol
+Barina, akoby mu bol ťažký kameň spadol, a pozeral na kmotra so
+zvedavosťou, či mu nad takým bohaprázdnym zachádzaním so zemanskou
+osobou vlasy dupkom nevstanú.
+
+Ale Matiáš vedel, čo robí a hovorí, a tak skrútil len očami, akoby
+primeranú odpoveď z mozgu chcel vytiahnuť, odkašlal si raz, dva razy,
+aby získal čas, a potom s veľkým začudovaním povedal: „Kmotor, to ťa
+iste nepoznal, lebo vidíš, toľko sa ta ľudí vláči a každý chce dačo
+odniesť, každý ho drapká, takže potom nevie, čo s celým svetom počať.
+Nuž a čis\' mu povedal, kto vlastne si?"
+
+„Povedal, kmotor, povedal!" horlivo vyvolal Barina.
+
+„Nuž vidíš, kmotor!" odpovie Matiáš, „kôň má štyri nohy a potkne sa; a
+potom vieš tiež, že meno na meno sa pridá, a tak ťa hádam predsa len za
+druhého držal. Teraz ale," pokračujúc ďalej hovorí, „poď, kmotor, so
+mnou, pôjdeme k nemu, uvidíš, že je to dobrý pán a dá, čo len žiadať
+budeš, keď mu povieš, žes\' to ty a nie druhý, a pomysli si pritom, že
+reči sa vravia a chlieb sa je."
+
+„Hm," nedôverčivo zamĺkne pán Peter, „kto do mlyna chodí, ľahko sa
+zamúči. Čo by ja ta chodil! A čo by mi moji priatelia povedali, keby som
+sa dostal medzi kohútie perá!"
+
+„Hja," skočí mu do rečí Matiáš, „čo tam po reči, keď niet v nej veci!
+Nech si tí hovoria, čo chcú, keď ti nič nedajú --- ale pán vicišpán,
+hľaďže, vyčíta ti také žlté ako vosk --- "
+
+,,Ej, čo!" pretrhne ho s nevôľou Barina, „neprosil sa čert babe, ani ja
+takej ..."
+
+„No, no, no! Však sa prosiť nemusíš, ale vidíš: Kto sa radí, nezavadí. A
+tak sa dnes páni z celej stolice zídu u vicišpána, aby si pohovorili, či
+by sa po priateľsky obe stránky spojiť nedali --- bude tam i váš
+chýrečný Potocký, čo by chcel nášho dobrého pána Adama vytisnúť a myslí
+si, ako do vetra človek, že hubou ľudí odpraví, lebo nevie že chudobný
+zeman vždy myslí: Dobre je, keď sa huba obleje; a keď ľudí peknými
+slovami obchádza, nuž sa nazdá, že každý hneď a hneď po jeho nôte pískať
+bude --- ale také veci nejdú bez turáčika!"#POZ#7;Turák, drobný peniaz v
+starom Uhorsku.#-POZ# A potom chytil ľavicou pravicu i pána Petra,
+pravou dlaňou mu do nej tľapol a ani neočakávajúc odpoveď, vyvolal:
+,,No, kmotor, budeme my dobrí priatelia!"
+
+„Ja síce, pokiaľ bude nitka na mne," odpovie pán Peter neprekonaný
+výhľadmi na zisk, „nikdy s vami držať nebudem, ale abys\' nemyslel, že
+sa vás bojím, teda ti to kvôli urobím a pôjdem s tebou, už aspoň, aby
+som len videl toho chýrečného vicišpána, ako sa zas bude krútiť okolo
+nás, keby nás potreboval."
+
+# II
+
+Pán Matiáš Bešeňovský si kráčal povoľným krokom so svojím kmotrom Petrom
+Barinom k Radošovciam, dedinke malej, nepatrnej, ale preto chýrečnej v
+Záhorskej stolici, bo tu býval pán Adam Bešeňovský od pätnásť rokov prvý
+vicišpán a tak hlava všetkého, čokoľvek sa v stolici od toľko rokov
+robilo. Ale poviete mi, čo prejdeš celú Uhorskú krajinu a nohy až po
+kolená zoderieš, predsa Záhorskú stolicu nenájdeš, hoc je v nej stolíc
+ako do roka týždňov. Hja, nechajte to tak, však v Uhorskej krajine
+vyzerá jedna stolica akoby druhej z oka vypadla, a zemianstvo je v nej
+také dôverné ako v druhej, vie halaškovať, kortešovať v jednej ako
+druhej a v každej bez rozdielu má to povedomie, že takých dobrých
+kamarátov nenájdeš na celom svete ako v Uhorskej krajine. Bolo to teda v
+Záhorskej stolici, v dedinke Radošovciach, kam páni bratia Matiáš a
+Peter pospiechali. I zvadili sa i pomerili sa v jednom a v tom istom
+okamihu, bo jeden i druhý si myslel, že má pravdu, hoc vlastne ani
+nevedel, čo a prečo on to alebo to chce, a len tak ako vo snách sa mu
+zdalo, že je jeho svätou povinnosťou na to nepristať, čo druhý chce. Keď
+to ináč vždy tak bývalo, pred reštavráciou ani inakšie byť nemohlo.
+
+Príduc do širokého dvora, uzreli kopu vozov, batárov,#POZ#8;Krytý
+cestovný koč.#-POZ# kočov a okolo nich sa tmoliacich paholkov; pred
+samým vchodom do domu potkýnal sa hajdúch o hajdúcha a každý z nich si
+tak vykračoval, akoby od neho záviselo dobro stolice, a tak si brnkal
+ostrohami, že taraje sa zdali kričať celému svetu: Pozerajte na mňa, aký
+som pekný v novom, svetlom, žlto vyšnurovanom dolománe, vykystkovaných
+čižmách, s vymasteným fúzom!
+
+Ale zo svojej slávy skoro boli vytrhnutí, bo na prahu sa objavil pán
+slúžny Štefan Levický, šuhaj mladý, ale vrtký a švárny, a k tomu taký
+prívetivý, že nebolo zemianky v stolici, čo by mužovi, otcovi alebo
+bratovi nebola kládla na srdce, kedykoľvek len o tom reč bola, aby na
+pána Levického nezabúdal, keď príde vec na hlasovanie. Ale on aj bol
+dušou domu pána vicišpána Adama Bešeňovského; jeho vlastnej sestry syn,
+vychovaný takrečeno v jeho dome, bol obzvlášť v posledných rokoch
+pokladaný za úda jeho rodiny, ba čo viac, zlý svet mrnkal, že stolicu
+nie pán Adam, ale jeho sestrenec spravuje, a všetky múdre slová, čo pán
+Adam prednáša, vykľuvali sa v hlave pána Štefana, bo že má tento viac v
+päte ako onen v hlave. Dnes pri veľkej hostine príjma pán Štefan hostí,
+on viedol poriadok v dome, keď medzitým pán vicišpán pri tabuli hostí
+zabával. A tak i teraz vyšiel von dávať rozkazy. Hajdúsi sa rozstúpili a
+postavili do radu z oboch strán. Vtom prišli sem pán Matiáš s pánom
+Petrom a prvší dlbnúc lakťom svojho kmotra do boka, vypovie: „Či vidíš,
+kmotor, ako vítajú v dome pána vicišpána statočných zemanov? Či som ti
+nepovedal, či som ti nepovedal?" s radosťou opakuje Matiáš.
+
+Pán Peter sa iste nazdal, že sa to všetko jemu ku cti stalo, a ku
+kmotrovi len tak pod fúzom zamrnkol: „No, no, nechže ti je, ja nedbám,
+však človeku do smrti hockde zabaviť sa a človek privykne i na
+šibenici." Ale uhliadnuc na prahu slúžneho, ktorý im ruky podával i
+hovoril, že už len oni dvaja páni bratia chybovali, musel si pán Peter
+srdcu obľahčiť i povedal s horlivosťou: „Ej, škoda vás, vaša milosť pán
+brat, že nedržíte s nami! Ináčej by nikto iný nebol --- no ale, vaša
+milosť, ja vás rád vidím."
+
+Štefan mu stisol ruku a prehodil: „Čo sa vlečie, neutečie. Nech sa vám
+len páči dnu." Potom vzal oboch príchodzích popod ruku, voviedol ich do
+paloty, kde páni pri dvoch dlhých stoloch sedeli.
+
+A bola to veľká hostina, akej v stolici už dávno nebývalo; bo pán
+vicišpán chcel ukázať ako svoje bohatstvo, tak aj svoju pohostinnosť, a
+to najviac odpornej stránke, ktorej pohlavárov povolal k sebe Ale svet,
+čo i v bielej farbe čierne baky hľadá, si to zas len ináč vysvetľoval.
+Svet si myslel, že pán Adam chce svoj skvost ukázať mladému grófovi
+Želinskému, ktorý, majiteľ statkov v susedstve, teraz do stolice
+prišiel, aby sa tiež o úrad uchádzal a obrátil sa pritom okolo jedinej
+dcéričky Adamovej, panny Anny, akožto bohatej dedičky. Ale ako bolo, tak
+bolo, gróf Želinský bol tu, i Potocký, druhý vicišpán, odporník Adamov
+bol tu i s mnohými svojej stránky.
+
+Za vrchstolom sedela pani Adamová, vážna pani, po pravej ruke Želinský,
+po ľavej Potocký, a tak ďalej páni podľa hodnosti a veku. Pri druhej
+tabuli, kde sedelo nižšie zemianstvo, predsedal pán Adam a zabával sa s
+pánmi bratmi.
+
+Keď Štefan voviedol dnu Matiáša a Petra, vicišpán vstal a išiel mu v
+ústrety, podal im ruku a vyriekol: „Akože ma teší, páni bratia, že ste
+poctili môj príbytok --- no nechže sa vám páči sadnúť --- a odpustite,
+že sa vám viac ujsť nemôže, len čo ste našli --- ale sami ste sa tak
+neskorým príchodom pokárali, lebo kto neskoro chodí, sám sebe škodí, a
+aj mňa, že ste ma o vašu milú prítomnosť pripravili."
+
+Matiáš sa poklonil, Peter pozeral, pozeral do sveta, lebo nevedel, čo
+odpovedať, bo hocaké sladké boli vicišpánove slová, predsa sa mu
+neľúbili, ale premýšľať nemal kedy, bo pán Janko Streleň, človek jeho
+stránky, čo sa sem tiež, ani nevedel ako, zatáral, od stola k nemu
+polohlasne prehodil: „Aha, švagor, zišli sme sa ako líšky u blanára!"
+
+„Ale bez chvosta!" prehodí potichu Barina.
+
+Panna Anna, sediaca po boku grófa Želinského, použila príležitosť, keď
+sa tento s jej matkou zhováral, vstala a ako srnka bežala k príchodzím,
+ktorých pán Štefan usadzoval a im jedlá dávať rozkazoval, vína im
+nalieval; chytila toho oboma rukami za rameno, okolo lakťa sa naň
+opierajúc, i preriekla usmievavým hlasom: „Števko, tys\' múdry, všetko
+sám chceš vykonať, a mne nedožičíš radosť, aby som mohla ich milosti
+obslúžiť --- a potom, vidíš, oni len tebe na zdravie pripíjať musia a
+mne sa nič nedostane."
+
+„Načo tebe naše pripíjanie, keď máš okolo seba dosť cukrových vecí,"
+odpovedal tiež s úsmevom Štefan, „a nedožičíš tu chudobným zemanom ani
+jedno cukrové grófske pozdravenie."
+
+„Hľaďže ti ho, ešte mi bude naostatok závidieť, že grófi za mnou
+pozerajú! Ale skáč, len skáč --- doskáčeš."
+
+„Ba veru, vaša milosť," pretrhne reč Barina,
+
+,,už akokoľvek, ale vám dvom by to najlepšie svedčalo; pán slúžny švárny
+ako panenka, a vaše čierne očká --- nech som dobrý, keby som bol mladý
+---"
+
+#POEZIA##I#„Sivé oči sivé, to sú spravodlivé,#-I#
+
+#I#čierne oči panské, ale sú cigánske,"#-I##-POEZIA#
+
+prehodí Štefan, obrátiac sa k Anne a pretrhnúc tak Barinove reči.
+
+,.A vy urobte päť štvrtí do roka, pán brat," so smiechom prehovorí
+Anuľka Štefanovi, „a potom budete múdry!"
+
+Ale vtom vstane hore gróf Želinský s pohárom v ruke a pripíja: „Na
+zdravie domáceho pána, aby mohol za mnohé roky slúžiť k ozdobe nielen
+Záhorskej stolice, ale celej Krajiny uhorskej!"
+
+„Na zdravie, na zdravie!" ozve sa celá spoločnosť a brnká pohárikmi.
+
+Potom pokračuje Želinský: „Na zdravie celej rodine pána Adamovej, jej
+milosti panej a jej milosti panne!" --- a obrátiac sa k miestu, kde
+Anuľka sedela, i nenájduc ju tu, zastavil sa v reči a preriekol hlasom,
+ktorý sa s vážnym prípitkovým hlasom celkom nezrovnával --- „ale kdeže
+sa panna podela?"
+
+„Mali ste si na to, pán gróf, pozor dávať," prerečie z druhej strany
+Potocký, ktorému ako odporcovi Adamovmu, s ktorým sa chcel gróf spojiť a
+jeho z úradu vytisnúť, toto pretrhnutie prišlo vhod, „pán slúžny Levický
+je hodný šuhaj a panna Anna, vidíte, musela sa veľmi skormútiť, že kým
+ste jej milosti pani matke dvorili, ona od vás nedostala ani len jeden
+pekný pohľad."
+
+Pán Adam vidiac, čo sa robí, pozrel prísnym okom na dcéru a potom
+vyhladil tvár a povedal grófovi: „Vaša osvietenosť, ja vám poviem, čo je
+vo veci. Môj sestrenec Štefan Levický vyrástol od mladi v mojom dome a
+potom som zas obe deti vychoval, aby vysluhovali mojich hostí, čo Štefan
+i ako patvarista,#POZ#9;Právnický praktikant.#-POZ# i ako prísažný, i
+teraz ako slúžny robí --- a moja dcéra sa nazdáva, že je vždy len decko
+a robí, k čomu za mladi privykla ---" „Odpustite, vaša milosť," trpko
+prerečie Želinský, „ja som nevedel, že panna Anna už za mladi privykla
+---"
+
+„Nie tak, vaša osvietenosť," pretrhne reč pán Adam, aby nemilým hádam
+slovám predišiel, „ale každý zeman je hoden, aby ho moja dcéra
+vyslúžila, a tak i môj pokrvný Matiáš, i pán Peter."
+
+A Peter sa vzchopil v povedomí svojej dôležitosti, a rečou pána
+vicišpána ešte viacej na koňa posadený vyriekol: „Pravdu máte, vaša
+milosť pán vicišpán, a každý zeman je hoden uchádzať sa o vašu dcéru,
+nech teda pánboh živí pána Štefana Levického i pannu Annu, však im to
+beztoho tak svedčí, že by si celá stolica poplakala, keby svoji neboli,
+a ja ich tak rád mám obidvoch, že by mi srdce puklo, keby sa to
+nestalo."
+
+Ale ani grófovi, ani Adamovi neboli tieto reči po srsti, a preto
+poslednejší povedal: „Pán brat, vy sa ďaleko púšťate a nepomyslíte, že
+pri tom i ja, i moja dcéra máme slovo."
+
+Ale mu v tom do reči skočil Ondrej Levický, vlastný brat otca slúžneho
+Levického, a tak tohto strýc, pán už obstarný, nedbajúc na svoju
+zovnútornosť, ktorý si práve preto fúzy až po kútiky obstrihúval a len
+tam také chvostíky nechával, kde tieto prestávali; a potom nosil
+kaput,#POZ#10;Mužský vrchný odev, kabát.#-POZ# čo si ešte za
+jurátstva#POZ#11;(z lat.) Ako študent práv.#-POZ# kúpil, s dlhými
+krídlami, krátkym driekom a dvoma malými gombíkmi, prišitými jeden popri
+druhom skoro pod samými lopatkami, tam, kde sa driek s krídlami spájal:
+Ba veru, vaša milosť pán švagor, by ste už mali celej histórii koniec
+urobiť, bo celý svet hovorí, že to už ináč byť nemôže; a to vidíme
+všetci, i celá stolica si o tom rozpráva, že sa tí mladí ľudia radi
+vidia, a bez ruchu a šuchu nič sa nehne -- a tak, pán švagor, musíte
+predsa raz urobiť poriadok."
+
+Pritom si pán Ondrej, ako obyčajne, zakašlal, lebo svet hovoril, že má
+dva razy do roka kašeľ, od Jura do Michala a od Michala do Jura, on si
+ale zas myslel, že to najviac do smrti trvá a potom hocijako prestane.
+
+Nad touto rečou zarazil sa pán Adam, bo mu jej obrat nebol milý; ale čo
+mal robiť? Ako domáci pán musel všetko zniesť, pred reštavráciou každé
+slobodné slovo i najchudobnejšieho zemana so sladkou tvárou prijať,
+vediac tiež dobre, že si i Peter i Ondrej len preto teraz dovolili
+miešať sa do jeho rodinných vecí, lebo chudobný zeman oproti veľkým
+pánom nikdy taký smelý nebýval, ako pred reštavráciou. A tak zložil tvár
+do úsmevu, i hovoril obrátený k Ondrejovi Levickému: „Vidieť, že ste
+rodina, pán švagor, keď sa tak staráte o tých mladých ľudí; ale moja
+dcéra má ešte dosť času, a Štefan sa môže ženiť, keď bude --
+vicišpánom."
+
+„Teda dobre, pán švagor," odvetí Ondrej, „viete, pre nás starých je už
+len najlepšia sklenička, bochnička a teplý kútik; odstúpte vy vaše
+miesto Štefanovi, dajte mu Anuľku, a všetko len v rodine zostane."
+
+Keď to počul vicišpán, bolo mu teplo, až sa mu zuby potili, a nevedel,
+čo odpovedať, hoci býval chýrečný advokát a naučil sa biele robiť z
+čierneho; teraz ale keď počul, čo mu bolo najmenej po srsti, zarazil sa
+a len po chvíľke odvetil: „Nie tak, nie, pán švagor, ešte by bolo pre
+obidve stránky privčas, a Štefan sa ešte musí mnohému priučiť, pokým
+---"
+
+„Hja," skočí do reči za Štefana zaujatý Barina, „komu dá boh úrad, tomu
+dá aj rozum!" A potom prosebným hlasom pokračuje: „Ale nebuďteže horší
+ako cudzí, vaša milosť --- ešte by si aj ja rád zaskočiť na tej svadbe."
+
+„No, keď bude vicišpánom, veď som vám povedal," odpovie Adam.
+
+„Sľuby sa sľubujú, blázni sa radujú, a reči sa vravia a chlieb sa je,
+myslíte si, pán švagor; ale nech som dobrý, môžete sa aj sklamať, lebo
+čo komu súdené, to ho neminie; koho majú obesiť, ten sa neutopí, koho má
+raz nešťastie postihnúť, ten mu neujde," prerečie starý Ondrej Levický.
+
+Vicišpán bol rád, že sa mu podarilo priviesť švagra na rozumovanie, čoho
+on bol taký veľký priateľ. Adam vedel, že sa tentoraz do všeobecných
+prôpovedí zahrúži, ľahko zabúda i na vec, z ktorej povstali. Okrem toho
+bol presvedčený, že Štefan vicišpánom byť nemôže pre svoju mladosť ,a
+chudobu, lebo psota nemá vôle, a to sa už raz tak vodí na svete, že kto
+je ku grajciaru stvorený, ten ku grošu nikdy nepríde. Medzitým ale jeho
+dobre vychovanej a na slovo rodičov dbajúcej dcére sa sto ráz mohla
+zavdať príležitosť rodičovské rady poslúchať. Preto teda ani nepodbal
+ďalej na slová, keď vyriekol: „Ale, pán švagor, veď som vám už povedal,
+že keď Štefan bude vicišpánom, potom dostane Anuľku," ale pomyslel si:
+Na svätého Vida, čo nebude nikda.
+
+Čím ďalej, tým viacej bola rozprávka zaujímavejšia, takže sa i páni od
+druhého stola do nej miešať začali, pravda, každý s iným výrazom mysle.
+Ale to najviacej tešilo druhého vicišpána Potockého, bo videl, že sa pán
+Adam čím ďalej, tým väčšmi odštepuje od najvernejších svojich
+prívržencov, vedel, že Adam Štefanovo vicišpánstvo prísne neberie. Ale
+práve preto si umienil železo kovať, kým bolo horúce, a Adama ešte tým
+väčšmi naháňať do saku, a tak preriekol, k tomu obrátený, s ľahučkým
+úsmevom na tvári, odkiaľ vidieť bolo, že sa ho utlačiť usiloval:
+„Rozmyslite si, vaša milosť, dobre, čo vravíte, lebo vola lapajú za rohy
+a človeka za slovo."
+
+Týmito pár slovami bol Adam ešte viac popchnutý než rečami pokrvných a
+drobných zemanov, bo si myslel, že odporca pochybuje o pravdivosti jeho
+slov a že ho k tomu popudzuje, aby vyhol, čo on pre svoje meno pred tak
+početnými zemanmi urobiť nemohol, aby sa nezdalo, že od svojho odporcu
+prijíma naučenia; a tak vážnym hlasom, istý svojej veci, povedal: „Už po
+tretí raz hovorím, keď Štefan bude vicišpánom, moju dcéru dám mu za
+ženu." A pritom hodil hlavou nazad akoby na znak, že o tejto veci ďalej
+hovoriť nechce; mimo toho slovo „dcéru" s takým prízvukom vyslovil, že
+každý z toho vyrozumel, ako mnoho drží na seba a na svoju rodinu.
+
+Len starý Ondrej Levický sa nedal prekonať, lebo to teraz bolo jeho
+obyčajou neuspokojiť sa, pokiaľ nemal rybku na suchom, vediac zo svojej
+dlhej advokátskej skúsenosti, že je číkovi nikdy nie ľahké vykĺznuť z
+ruky, než kým je ešte vo vode; a tak preriekol: „Počuli ste, vaše
+milosti! a ste svedkovia, že len čo bude Štefan Levický vicišpánom,
+dcéru pána Adama Bešeňovského dostane --- no ale, pravda, s
+dišpenzáciou," pridaj k tomu, aby dal na vedomie, že veru aj on má právo
+starať sa ako o svojho synovca, tak aj o dievča. „A aj vy, pán gróf,"
+obrátiac sa k Želinskému, hovoril ďalej, „akožto najväčšia osoba v tomto
+zhromaždení, ste svedkom výroku jeho milosti pána Adama."
+
+Ale celý rozhovor nikomu z prítomných nebol taký odporný ako Želinskému,
+bo videl, že i bohatá nevesta, i jeho vicišpánstvo v stolici stojí na
+slabých nohách, a tak v nevrlosti štipľavým hlasom odpovedal: „Podľa
+mojej mienky by to najlepšie vypadlo, keby ste sa vy dali vyvoliť za
+vicišpána, bolo by to pekné prezídium --- pravda, domine
+praestantissime?"#POZ#12;(lat.) Prevzácny pane.#-POZ#
+
+Sotva však boli tieto reči vypovedané, tu sa dala celá spoločnosť do
+hlasitého smiechu, bo si jeden mimovoľky myslel, ako by to asi svedčal
+Ondrejov kaput na predsedníckom stolci; druhý pozeral na jeho fúzy a rád
+by bol videl, ako by si ich vykrúcal; tretiemu bolo zas najmilšie, že
+Želinský Ondreja držal za pána rechtora, a bol by ho rád videl s
+práchennou čapicou na hlave, s okuliarmi na nose, brezovcom alebo
+feruľou v jednej a šlabikárom v druhej ruke, deťom vážnym a dôležitým
+hlasom predriekať: a b, ab --- e b, eb --- i b, ib --- o b, ob --- u b,
+ub.
+
+Len Ondrej skamenel sčiastky nad rečami grófa, tým ale viac nad smiechom
+spoločnosti. Pomaly začala biť krv do jeho bledej tváre, obrvy sa mu
+začali sťahovať, pysk mrdať, až sa jeho stará postava pomaly vztýčila
+dohora a vážnym hlasom po latinsky vyriekol:
+
+„Protestor! --- Ego sum tabulae judiciariae assessor"#POZ#13;(lat.)
+Protestujem! Som členom súdnej tabuly!#-POZ# -- Potom zas ďalej hovoril:
+„Páni bratia, chudoba smiech, to ja dobre viem --- ale zato by bola
+hanba uhorskému zemanovi nevedieť, že on to isté byť môže, čo hocktorý
+gróf, a tak prečo ja alebo môj bratanec Štefan alebo hocktorý z vás nie
+vicišpánom? Či je to komu taká čudná vec? Či sa nehanbíte smiať sa na
+také reči? Či neviete, že tým vysmievate sami seba a svoje práva? Či
+neviete, že k vicišpánstvu len šťastia treba? --- A pánboh vládze
+šťastím a mačka myšami? A prečo by Štefan nemohol byť vicišpánom, hoc je
+i chudobný? Lepšia známosť než hotový peniaz, a lepšia hrsť priateľstva
+než voz dukátov --- a tak ,čo my chceme, to bude. Vy ste pán gróf, došli
+do stolice, aby ste si nás získali, ale ja vám hovorím, že zdravá kočka,
+čo sa toho dočká, kým vy budete vicišpánom. --- A vy, páni bratia, hore
+sa! Nedajme sa tupiť zato, že sme chudobní -- ukážme mu, že je jeden
+zeman ako druhý!"
+
+Mnohým z pánov bratov to bola voda na mlyn, obzvlášť tým z Potockého
+strany. Tu jeden vyvolal: „Ja pán, ty pán!" Druhý zas: „Kakus, Motúz,
+Szentiványi, všetci traja rovní páni!" A tretí zas: „Čert a diabol jeden
+Gábor!"
+
+Nato Želinský s potupným pohľadom vypovedal tak akoby pre seba: „Malí
+páni, malý hnev."
+
+Ale tí nedbali viac na to, čo hovorí, povstali od stola a brali si
+klobúky a čiapky, hoc ich pán Adam ako chcel uchlácholiť a zadržať. A
+išlo to všetko spánombohom.
+
+# III
+
+Pánu Adamovi celý ten žart nebol po vôli; na dobrej vôli zemianstva, a
+obzvlášť rodín Bešeňovskovcov a Levickovcov, ako najsilnejších z celej
+stolice, mu veľmi mnoho záležalo, bo z každej osady, keď chceli dačo
+uskutočniť, zobrať sa mohlo do stolice vždy do štyristo hláv na
+hlasovanie. Vedel dobre, že jeho postavenie v stolici obzvlášť preto sa
+tak dlho udržalo, lebo on sám súc Bešeňovský, sestru mal za Levickým
+vydatú, a tak i jedna i druhá família si mnoho na tom zakladala, že v
+rodine stojí s hlavou stolice. Preto aj Štefan Levický, len čo patváriu
+u ujca odbavil a v Pešti v lehotách na to ustanovených po jurátsky
+šabličkou postrkoval, kým vyžiadaný diplom obdržal, stal sa hneď
+prísažným a o rok nato slúžnym na veľkú protiveň mnohých starších pánov,
+ktorí už od rokov na slúžnovský úrad ako židia na mesiáša čakali a
+pritom sa statočne vytrovili a zadĺžili, keď to Štefana ani turák
+nestálo. Ale Adamovi celý koniec histórie aj preto nebol po vôli, že mu
+mnoho záležalo tiež na dobrej vôli grófa Želinského, bo ako teraz veci v
+stolici stáli, stránka Potockého, doterajšieho druhého vicišpána, dala
+si veľmi na tom záležať, aby k veslu prísť mohla, a bola, nikto nevedel
+odkiaľ, podporovaná; a tak chtiac sa udržať, musel pán Adam tiež hlbšie
+siahnuť do vrecka ---bo čo mal chudobný zeman robiť, keď peniaz
+zabrnčal? To sa mu, pravda, nechcelo, lebo on ešte radšej, ako druhí
+ľudia, ruku otváral na prijímanie než na vydávanie; a keď sa mu raz
+šupáky do nej dostali, to mu boli lepom na prsty prilepené a ani zmyť
+ani otriasť sa tak ľahko nedali. Mladý gróf teda mal niesť väčšiu
+čiastku nákladov, chtiac k dačomu prísť, takže by Adama celá reštavrácia
+nestála viac než obyčajne, čo si ale s dobrými úrokmi na židoch, svojich
+najlepších priateľoch, dohnať trúfal, lebo tí najlepšie vedia, kde je
+sadlo, tam je snadno. K tomu sa Adamovi veľmi páčilo, že mladý gróf po
+jeho dcéruške očami hádzal a čo viac, aj vyslovil pred ním, za akého
+šťastlivého človeka by sa držal, keby mohol vstúpiť do bližšieho
+priateľstva s ním. Adam o úprimnosti týchto slov ani málo nepochyboval,
+bo jeho jediné dieťa bolo švihlé ako ľalia, krásne ako ruža a k tomu
+jeho majetok prirovnal sa grófovmu. Jediné, čo mu pritom pochlebovalo,
+ako obyčajne chudobným ľuďom, čo sa v košeli narodili, to jest zvláštnym
+šťastím k veľkej hodnosti a majetku prišli, že by prišiel do pokrvenstva
+s rodinami, ktoré mali nad neho vyššie postavenie.
+
+Adam Bešeňovský bol totiž dieťa chudobných zemianskych rodičov, poslali
+ho do školy ta, kde učenie najmenej stálo, bo jeho otec najviac jednu
+zemičku mohol každoročne založiť, aby bol vstave synáčka do školy
+vystrojiť; keď ale dorástol, to sa obrátil sám k majetnejším ľuďom a
+poprosil ich o podporu. Naďabilo sa mu raz, keď sa uchádzal o pomoc,
+prísť ku bohatej vdove Karáčovskej, ktorá na šuhajcovi našla zaľúbenie,
+podporovala ho v školách, poslala do Pešti, a keď sa odtiaľto s
+advokátskym diplomom navrátil, vzala si ho k sebe na prístupky; ona
+dostala hodného muža a on bohatú ženu, takže sa to jedno s druhým, na
+spokojnosť obidvoch, vyrovnalo. Ale Adam Bešeňovský súc i napotom
+pamätlivý dobrého naučenia svojich rodičov, nikdy nezabúdal, že babka k
+babce, budú kapce i nohavice; potom, kto počtuje, ten gazduje, a zas,
+každé hrable . k sebe hrabú, a k tomu, blázon dáva a múdry berie: pri
+ktorých pekných a užitočných zásadách narobil si peňazí ako čert železa,
+bo mu rástli ako vlkovi pečienka. Tak sa stal veľmi majetným človekom,
+bo ho spočiatku advokátstvo, potom slúžnovstvo a naostatok vicišpánstvo
+ešte väčšmi na nohy postavilo, takže zlý, závistlivý svet o ňom hovoril,
+že čert svojim ľuďom pomáha a že drel ako pastier.
+
+Preto bol Adam o čistote grófových úmyslov istý, bo by jeho dieťa ani s
+prázdnou rukou k nemu nebolo prišlo, ani nemalo tváre, čo čert na nej
+mlátil.
+
+Ustanovil si teda pán Adam, keď si všetko až na vlas premyslel, najprv
+ako múdry vodca bližšie sa prezvedieť, ako jeho veci stoja i u grófa, i
+u jeho dieťaťa, i u Štefana, i u zemanov, a podľa toho potom usporiadať
+svoje ďalšie pokračovanie; lebo pred reštavráciou to bolo najmúdrejšie,
+keď bol človek i s pánombohom zadobre, i s čertom nie zazle.
+
+Gróf Želinský nebol v najlepšej vôli. Ako sa s Adamom zišiel, poklonil
+sa, ale tak, že mu bolo na konci nosa čítať, že pod vážnym, velikánskym
+výrazom tváre ukrýva rozhorčenosť nad nepodarením svojich túžob a spolu
+chce ukázať svoju vyvýšenosť nad druhým, nižším od seba rodom. Ale Adam
+bol starý praktikus a nedal sa odstrašiť tvárou hosťa, a preto, ako len
+mohol, krútil reč od najľahostajnejších vecí až na včerajší výjav, keď
+sa hosť jeho spočiatku usmechoval, akoby sa to všetko jeho netýkalo,
+potom sa vždy viac púšťal do rozhovoru, takže naostatok z horlivosti
+jeho vysvitalo, ako mu to všetko nebolo po srsti a ako ho to mrzí.
+
+„Vaša osvietenosť," hovoril Adam, ,,čo som vám povedal o Bešeňovskovcoch
+a Levickovcoch, netreba najmenej pochybovať, tí sú naši."
+
+„Videl som to včera," odpovedal gróf s úštipkom, „že jeden rechtor je
+vstave všetko prevrátiť, a pán vicišpán je spokojný, keď môže sľuby
+dávať ľuďom, ktorí nemajú povolanie miešať sa do jeho záležitostí, bo sa
+bezpochyby strachuje hnevu pánov v kaputoch, aké svet za Kakana kráľa
+nosil."
+
+Adam cítil celý sebe do očí povedaný posmech, ale už sťa advokát naučil
+sa nepočúvať, čo nechcel dopočuť, a reč zakrútiť na veci, ktoré k
+rozhovorke svedčali ako päsť na oko, a tak sa i teraz len usmial i
+odpovedal: „Hja, pán gróf, viete, to s týmito ľuďmi ináč nejde, vy ste
+ešte mladý a neviete vyhýbnuť vtedy, keď si takíto ľudia dačo do hlavy
+vezmú; keď sa ochladia, hľadia po starej obyčají potom na to, čo sa
+zrovnáva alebo s ich dávnym zvykom alebo s ich úžitkom. Čo sa ale hnevu
+týka, toho sa ja nemám čo báť, lebo veľké snehy, malé vody; a potom sa
+tí páni troška počastujú a poprosia, a čo pán prosí, to byť musí --- nuž
+bude po všetkom."
+
+„Ale vaša milosť," odvetí gróf nedôverčivo, „ako je to, že na slovo
+týchto ľudí i vaše dieťa zakladáte ich priazni a vôli?"
+
+„Nechajte to tak, pán gróf," hovorí Adam, „to mu ľahká pomoc, bo Štefan
+Levický bude robiť, čo ja chcem, a bude vicišpánom, keď bude v stave za
+to aj niečo vynaložiť."
+
+„Ale mne sa zdá, že si vaša dcéra s Levickým rozumie a ja som myslel, že
+---"
+
+„To je, pán gróf, naša rodinná blízkosť na príčine; a len hádam nebudete
+myslieť, že by Štefan bol v stave tak vysoko rúbať? A potom
+nebezpečenstva niet sa čo báť, pošlem dievča na pár týždňov k tete do
+Prešporka a svet umĺkne o krátky čas, i nebude nás znepokojovať a nám v
+dačom prekážať,"
+
+Tak by sa bol gróf uspokojil. Teraz prišiel rad na Anuľku, povolanú o
+chvíľku k otcovi. Jediné svoje dieťa mal Adam veľmi rád a bol viac naň
+pyšný ako na všetko iné na svete; preto tiež, hoc ináč zvyknutý vždy
+podľa okolností svoje konanie tak usporadúvať, aby k cieľu či tak, či
+tak prísť mohol, bol so svojím dieťaťom vždy úprimný, vždy k nemu dobrý,
+milujúci otec, a tak sa pred ním nikdy ináč ani neukazoval, než ako s
+ním vskutku myslel. Tak i teraz začal: „Anuľka, dieťa moje, chcel som s
+tebou len v náhlosti pár slov zoči---voči prehovoriť. Gróf Želinský sa o
+teba uchádza, a pomysli si, aká by to bola i pre mňa i pre matku radosť,
+keby naše jediné dieťa nielen do grófskej rodiny prišlo, ale i takého
+pekného a hodného muža dostalo."
+
+„I mamka to hovorila," odpovedá Anuľka, „ale keď ho ani ešte neznám, nuž
+sa mi hádam preto ani jedno z obidvoch nepáči."
+
+„Čo nie je, stať sa môže; ale teraz niet o tom reči," prehodí vicišpán.
+„Vieš, dieťa moje, čo sa
+
+tu včera v mojom dome stalo, že by ťa totižto naša rodina po dedinách
+rada vydať za Štefana."
+
+„Ale prepánaboha, však ste ma sami dobrovoľne sľúbili Štefanovi,"
+prehodí Anuľka, šelmovsky rukami zalomiac a rozosmejúc sa, „keď bude
+vicišpánom, a viete, keď pánboh dopustí, aj motyka spustí; a potom, keby
+som už len tou grófkou byť mala, čože by môj drahý apko počal, keby
+nemal čím záloh vymeniť, lebo, apko, založili ste slovo a s ním i vašu
+rozpustilú a premaznanú dcéričku." Vtom sa zvrtla a bozkala otca na
+tvár, ktorý ju na svoje prsia nežne pritúlil a hladkal.
+
+„Nuž akokoľvek, dieťa moje," hovoril ďalej, ,,ale teraz bude o tom celá
+stolica hovoriť, a malo by to zlé následky pre tvojho otca, keby si sa
+teraz sama tak alebo tak odhodlala, a tak som si umienil poslať ťa k
+tetke do Prešporka."
+
+Hoc sa predtým dievčaťu šelmovstvo vyrážalo na čele, to sa mu teraz tvár
+na chvíľku zamračila, prehodilo nakríž okom, pritúlilo sa k otcovi a
+povedalo bezžartným hlasom: „Dobre, keď tak rozkážete, apko, pôjdem; ale
+ak vám vtáčik vyletí i bez grófa i bez vicišpána, to si potom pripíšte
+sami sebe."
+
+„No, no, však to hádam u teba tak zle nevyzerá," odpovedá otec, „lebo
+ináč by hádam lepšie bolo, kebys\' doma zostala."
+
+„Ale urobte to, apko!" upadnúc zasa do predošlého spôsobu, odvetí
+dievča, „ja by aspoň jeden deň rada kortešovať, a uvideli by ste, že by
+Štefan predsa musel byť vicišpánom."
+
+,,Ty bláznivé dieťa," usmejúc sa prehodí Adam, „keď ti toľko záleží na
+tom, teda kortešuj, ja ti dávam k tomu úplnú slobodu."
+
+,,No, teda bude Štefan vicišpánom," odpovedala, zvrtla sa a odišla.
+
+Jej otec potom zavolal k sebe Štefana, ktorého, ako sme už povedali, v
+posledných časoch pokladali za člena rodiny. Pán Adam bol dobrý latinár
+a poznal v Horácovi každý riadok, a keď prišla reč o
+Cicerovi,#POZ#14;Marcus Tulius (106---43 pred n. 1.), slávny rímsky
+štátnik, rečník, autor filozofických, politických a právnických
+spisov.#-POZ# to len tak z rukáva sypal jeho pekné výpovede, až to bola
+milá vec počúvať. Ale v posledných časoch, keď maďarčinu do verejného
+života uvádzali, a on z nej len toľko vedel, koľko sa pred štyridsiatimi
+rokmi v Ožďanoch#POZ#15;Obec v Gemeri, kam sa chodievali Slováci učiť
+maďarčinu.#-POZ# bol naučil a čo ešte i z toho mála nezabudol: krušne sa
+mu zdalo vystaviť sa nebezpečenstvu obzvlášť pred mládežou, čo veľmi
+hore nosom dierky nosila len preto, že sa okrem maďarčiny v školách nič
+nenaučila a vystrájala si posmech zo starších pánov, nevediacich sa v
+tejto reči tak hybko vysloviť ako ona. Adam cítil, že ho táto maličkosť
+môže o pár rôčkov pozbaviť celého vplyvu v stolici; zdôveriť sa zas
+nemal komu, a tak keď prišiel Štefan z Pešti, prijal ho hneď do svojho
+domu, a od tých čias pracoval spolu s ním k obapolnej spokojnosti, lebo
+Adam sa mnohému podučil a bol istý pred každým nápadom svojich odporcov.
+Štefan ale pri ujcovi nielenže sa vycvičil v úradných veciach, ale i
+skoro a bez očakávania stal sa slúžnym --- a hádam aj pár očiek, do
+ktorých sa každý deň mohol voľne nadívať, neveľmi ho vyháňalo z domu.
+Ostatne bol Štefan usilovný človek, no bieda je najlepší majster, a
+tejto užil za mladi až do sýtosti. Jeho otec bol zámožný zeman v
+Leviciach, dedine v Záhorskej stolici, ale súc k tomu dobrý kamarát,
+hovorieval: „Medzi ľuďmi ľudsky, v dome psota vždycky!" Potom sa rád pre
+piaď zeme až do smrti pravotil; naostatok ale mal čudné porekadlo, o
+ktorého pravdivosti nikdy nepochyboval a od ktorého ho ani plač ženy,
+ani narodenie synáčika, ani celá rodina odviesť nemohli. Každý deň si
+ako najväčšiu múdrosť opakoval: Čo zjem, to viem, čo vypijem, to užijem,
+a čo po mne zostane, pánbohvie, kto dostane; lebo kňazský majetok a
+židovskú dušu, všetko jeden čert berie," a nepomyslel si, že ani jeho
+majetok kňazský, ani duša židovská nebola.
+
+Spočiatku začal tu i tu gazdovať, ale to bolo vždy tak, že muchy lapal a
+voly púšťal; potom ale, keď sa majetok míňal a jeho zemičky jedna za
+druhou vandrovali do zálohu, to sa radšej díval do pohárika a u žida pod
+stolom spával --- ale nie od vody. Štefan mal asi rok, keď ostal sirota;
+lebo pánboh má všetkého dosť, len nie sirôt. Jeho matka sa ale z toho
+viac tešila, než kormútila; bo muž práve umrel, keď už všetok majetok
+zmizol a dlhov viac než šúp na streche po sebe zanechal, úbohá vdova
+chodila dosť k svojmu bratovi Adamovi Bešeňovskému, plakala, prosila,
+pýtala ho, aby sa aspoň za dlžoby zaručil, kým si s pomocou božou dačo
+zhospodári a aspoň najhlavnejšie dlhy splatí; ale ten, hoci boháč a
+slúžny, ktorého jediné slovo by jej bolo spomohlo, vždy len odpovedal:
+„Kto sa ručí, ten sa muži," takže neborka vždy bez potechy odchádzala. Z
+tých rozpakov ju vytrhol švagor Ondrej Levický, brat nebožkého, ktorý
+si, súc starý mládenec a za úradmi sa nezháňajúci, nazhromaždil z
+advokátstva malý, ale obstojný majetok. Pokonal sa s veriteľmi, povedal
+im, že v prázdnom nič nebýva a kde niet, tam ani smrť neberie, dal im
+asi polovicu z dlhu tam, kde sa odškriepiť nemohlo, druhým ukázal straku
+na kole a tretích tak dlho pravotil, až sa im veľké náklady zunovali a
+nechali radšej celú vec tak. Starý Ondrej súc z takého rodu, kde všetko
+prekrútia čím hore tým dolu, odslúžil sa i tým, že procesy skoro všetkým
+za krátky čas povyhrával, takže sa každý tešil nad takýmto výplatkom. A
+tak sa uhovelo i vdove i veriteľom, tej obzvlášť preto, že zostala v
+dome, mala lúčku a pár zemičiek, čo sa z nich biedne vyživiť a jedného
+paholka, dva volky a kravičku držať mohla; a dobrá krava ako matka, a
+otec ako vôl. Tak sa pomaly vdova uspokojila a jej celý zreteľ sa
+obrátil na synáčika, bo sa vždy nazdala, že pôjde k Abrahámovi morčence
+pásť, lebo vraj dobré dieťa sa nevychová, a ono, chúďatko, bolo také
+dobré, že keď spalo, ani jesť nepýtalo; ale sa zasa uspokojila, keď si
+pomyslela, že zlá zelina nevyhynie a dobrý pes sa vylíže, a okrem toho
+by bol ešte hlúpy medzi svätých. A tak pozerajúc si naňho, zakvitlo jej
+oko, keď mu mohla povedať: „Synáčik máčik, môj jedináčik," alebo mu,
+kolíšúc ho na kolenách, zaspievala:
+
+#POEZIA#
+
+#I#Išli panie na hrušky,#-I#
+
+#I#podriapali kožušky,#-I#
+
+#I#povešali na vráta,#-I#
+
+#I#popadali, popadali, popadali do do do blata.#-I#
+
+#-POEZIA#
+
+A tak chlap rástol ako z vody, bol zdravý ako lipa, čerstvý ako ryba a
+mocný ako buk; lebo mu zdravie dušu naháňalo, mamka mu navarila kaše,
+krivý Janko, paholok, vzal mladého pána na lono a dával mu ju drevenou
+lyžicou z vahančeka, objímajúc ho jednou rukou, aby dolu nespadol, a
+chlapina sa pritom usmievala, až to bola radosť. Ale sotva bol väčší na
+piaď od zeme, už sa na ňom splnilo, že sirota nevoľná, ale sebevoľná,
+lebo bol chlapec malý, ale huncút zralý; matka ho obyčajne kárala ---
+leda čert za zlé nemal, strýc Ondrej krútil hlavou i mrnkal pod nosom:
+
+#POEZIA#
+
+#I#Zahýbaj ma, mamko, dokiaľ som ja Janko,#-I#
+
+#I#keď ja budem Jano, nezohneš ma, mamo.#-I#
+
+#-POEZIA#
+
+Druhí ľudia zas, na otca mysliac, hovorili: Nebude zo psa slanina, ani z
+vlka baranina a aká matka, taká Katka, aký otec, taký syn, aké drevo,
+taký klin, aký mlynár, taký mlyn; ale otec a mať hotový Cigán, tak si aj
+táto pomyslela, že lepšie, keď víno za mladi vykysne ako na starosť, a
+poručila všetko milému pánubohu. Keď chlapec dorastal, postavil si i pán
+Ondrej, i jeho švagriná okuliare na nos, sadli si, skrížili ruky na lono
+a radili sa, čo s chlapcom začať, až sa po dlhej rade uradili poslať ho
+do Gemera do školy, lebo od mladi sa tŕň ostrí a tá maďarčina bola vraj
+najprv treba. Chuderka Štefanova matka šla k bratovi, už teraz
+vicišpánovi, a pýtala ho o pomoc, už či na šatočkách, či na peniazoch,
+ale zas len skúsila, že darmodaj umrel, narodil sa kúpsi; iba keď
+prišiel Štefko sa odobrať a pánu ujčekovi dať na rozlúčku packu, to
+siahol tento do vrecka, tak pomaly, ako čo by sa mu nechcelo, vytiahol z
+neho dvadsiatnik biely ako srieň, držal ho dlho medzi dvoma prstami,
+akoby sa s najväčším miláčikom mal rozlúčiť, držal pritom Štefanovi dlhú
+kázeň, ako si má ten dvadsiatnik šanovať, a kázal mu aspoň päť ráz naň
+pozrieť ako sa blyští --- práve ako ten neborák chudobný rechtor, ktorý
+nemajúc čo dať na večeru hladným deťom vzal kremeň a ocieľku a kresal im
+volajúc: „Ži, ži, ži!" až chúďatká pozaspávali. --- Aj teraz musel dať
+strýc Ondrej, čo bolo potrebné; pravdaže, pritom všetko najprv ofrflal,
+ohundral, ale keď si tak troška srdcu obľahčil, dal, neborák, vďačne
+peniaze i požehnanie, i dlhú komendáciu#POZ#16;(z lat.) Odporúčanie,
+odporúčajúci list.#-POZ# pánu profesorovi.
+
+Vychodil chlap školy i v Gemeri i v Kežmarku; čo sa tam naučil alebo
+nenaučil, na to sa málokto pýtal, dosť na tom, vychodil ich. Bolo treba
+patvaria, zasa sa len išlo k ujcovi vicišpánovi, ale tomuto bolo ako
+slimákovi v chrene a holému v tŕní, keď mu rodina na krk prišla,
+zamrnkol zasa len popod nos: „Vari vás všetci čerti toľko vláčia" --- a
+chcel sa striasť starostí o svojho sestrenca; ale tu sa Ondrej Levický
+postavil na všetky štyri nohy a držal vicišpánovi kázeň o jeho skúposti
+a o svojich zásluhách o Štefana, vypočítal na grajciar, čo kedy za
+bratanca vydal, a zasa zrátal každý dvadsiatnik, čo Adam každoročne
+dával na papier svojmu sestrencovi, takže zahanbený nevedel ako z
+konopí, lebo toho bolo toľko, ako za necht blata. Ondrej hovoril: „Ale
+vidíte, vaša milosť pán švagor, statočná ho mati mala, poctivo ho
+vychovala, a to vaša sestra. Vy ste ju nenapomáhali ničím, a predsa vás
+pánboh obohatil veľkým majetkom."
+
+„Dajte vy tomu pokoj, pán švagor." odvetil Adam, „dat Deus cui vult
+Franciscus Koháry."#POZ#17;(lat.) Boh dáva, komu chce František Kóháry.
+Heslo na erbe šľachtickej rodiny Koháryovskej.#-POZ#
+
+„Dajte vy tiež pokoj, vaša milosť," prehodil Ondrej, „accipit cui vult
+Nicolaus Bercsényi;#POZ#18;(lat.) Berie komu chce Mikuláš
+Bercsényi.#-POZ##POZ#19;Mikuláš Bercsényi --- (1665---1743), uhorský
+šľachtic, veliteľ kuruckého vojska Františka II. Rákocziho. Po porážke
+kurucov r. 1711 odišiel spolu s Rákoczim do tureckého vyhnanstva.#-POZ#
+a vy tiež ešte neviete, kde sa to všetko podeje."
+
+„Hja, toho sa ja nebojím."
+
+„No veď," zas len hovorí Ondrej, „Cigán sa tiež hromničky nebojí a
+nevie, či je žena, či je chlap, a nešťastie nechodí po horách, ale po
+ľuďoch."
+
+„Už, pán švagor, akokoľvek," prehodí Adam, ale viete, že nielen každý
+zeman ku mne chodí požičiavať, lež i toľká rodina..."
+
+„Hja," pretrhne Ondrej jeho slová, „do dobrej zeme, čo sa zaseje, všetko
+býva dobré."
+
+A tak, či chcel, či nechcel, vicišpán musel pristať na Ondrejove
+žiadosti, a bol čert diablovi po vôli, keď sa nevedel vykrútiť. Bol teda
+Štefan patvaristom u vicišpána, svojho ujca, ale i tu ho nepokladali ako
+druhých mladých pánov z bohatých domov, čo s ním patvarizovali, lebo
+nesedával ako títo pri stole, ale musel obyčajne obsluhovať, čo mu
+medzitým milšie bolo, že Anuľka tiež vždy vstala a pomáhala mu; keď ale
+vicišpána doma nebolo, to si sadla rozpustilá Anuľka nadol k nemu,
+zdvihla rúčku, miešala mu po hlave vlasy, pokiaľ sa nerozstrapatili, že
+ich potom musel asi pol hodiny česať, trhala ho za mladé fúziky,
+prekárala ho, robila mu nesnádky, že sa všetci rozosmiali, on ale bol
+tomu radšej, než čo by mu hneď boli slúžnovstvo dávali. Tak bývalo
+obyčajne dobre myšiam, keď nebolo mačky doma, až tak sa rok pominul.
+
+Tu sa Ondrej vybral k vicišpánovi, zakašľal si ako obyčajne a pýtal sa
+ho o radu, čo teraz začať so Štefanom. Vicišpán nevedel rady, ale Ondrej
+to tak navliekol, že onen prisľúbil dať Štefanovi uhorské šaty, tento
+peniaze a vypraviť mladoňa do Pešti, aby si tam vyzískal diplom.
+Vicišpán vyňal pritom dakde z kúta zaprášenú širokú, remeňovou pošvou
+obkrytú a žltým plechom obitú škrablicu ešte z Rákócziho čias; potom sa
+dal do spytovania starožitností, vytiahol z kasne starý dolománik, čo ho
+ešte za študentstva v Kežmarku nosil, nohavice, čo jeho žene ešte po
+prvom mužovi ostali, a tento bol našťastie taký tučný, že by traja
+Štefanovci mohli vliezť do nich, naostatok ale kučmu#POZ#20;Kožušinová
+čiapka#-POZ# z líšky, skoro na ríf dlhú, z ktorej visel nad líščou kožou
+červený, už celkom oblednutý mešec ako nos nad moriakovým zobákom, Adam
+povedal, že sú toto pekné, krásne šaty pre Štefana. Ondrej si pomyslel:
+No, nech sa ti basy s gajdami odslúžia, nehovoril ani slovo, bo sa
+darovanému koňovi nehľadí na zuby, poklonil sa a odišiel preč. Potom
+vstúpila dnu Anuľka a vidiac to pekné šatstvo, zavolala Štefana, ktorý
+nevediac, čo sa robí, musel v bočnej izbe obliecť nohavice, potom
+dolomán, a tak do izby k Anuľke vstúpiť, ktorá mu najprv sto poklôn
+urobila, smiala sa, že to bolo až do susedov počuť, vzala chýrečnú
+šabľu, opásala mu ju okolo kĺbov, vzala kučmu, postavila mu ju na hlavu,
+zalomila rukami a zavolala: „Apko! Mamka! Ľudia! Poďte pozerať Filipa z
+konopí!" A vskutku prišli všetci dnu, Adam sa tiež usmiechal, ale
+mrdajúc fúzom, povedal, že mu to dobre svedčí; mať kliala dcéru, načo
+robí blázna zo Štefana, druhí patvaristi nevedeli, čo od smiechu začať,
+bo im len tak oči prechádzali, Anuľka ale volala na hajdúcha: „Pavko, či
+nemáte ešte v maku strašiaka? Poďte, poďte, vezmite si tu, a dostanete
+iste proces od slávnej famílie vrabcov!"
+
+Štefanovi nato vypadli slzy z očí, cítil po prvý raz, že chudoba smiech;
+sňal pokorne čapicu z hlavy, odložil šabľu, popozeral smutne po
+prítomných, odišiel do bočnej izby, preobliekol sa a zanechajúc tak
+ujcov dom, odobral sa smutný ku svojej mamičke. Ale len čo sa doma
+zohrial, priletela na kočiari Anuľka celá splašená, pozrela na Štefana
+nedôverčivo okom, akoby sa chcela vyzvedieť, či ho svojou rozpustilosťou
+urazila, či nie; potom ho chytila za ruku a pozerajúc mu do očí svojím
+čistým zrakom, povedala: „Števko, prišla som ťa hore vodou hrabľami
+hľadať, však sa nehneváš? Vidíš: „Ide pavúk po stene, kým sa Števko
+zasmeje!" --- A bozkala ho na líce. Rozveselil sa šuhaj a dievča pľasnúc
+ho nato pozvoľna rúčkou po líci, vyšlo von a hľadalo tetku. Tejto dala
+peniaze, hovoriac, že poslal apko Štefanovi na šaty, čo úbohú vdovu
+odrazu tak potešilo, že si vzdychla, akoby jej veľký kameň bol spadol zo
+srdca, slzy jej z očí vypadli, bo cítila v srdci svojom, že brata dosiaľ
+za skupáňa držala a rada bola, že vlastný, vlastnučičký brat predsa nie
+je taký, .za akého ho mala. Len Ondrej, dozvediac sa neskôr o tom,
+krútil hlavou a mrmlal popod nos: „No nech som dobrý, to Adamovi nikdy
+nenapadlo, to bola Anuľka sama. a tá bude Štefanovou ženou, takže sa to
+všetko vyrovná." Anuľka sa rozlúčila s tetkou, pohladkala Štefana po
+líci, hovoriac mu: „Ty môj roztomilý, preutešený Filípok z konopí," a
+zmizla ako strela, posledné slová predsa nemôžuc v sebe udusiť, keď" si
+spomenula na vysokú kučmu a odratú remennú šabľu; lebo mladosť, radosť a
+pochabosť. Tak sa dostal Štefan do Pešti, a keď tam svoj čas vybavil,
+prišiel domov, kde by mu mamička bola miesto ofúkala nazdajúc sa, že na
+šírom svete niet človeka ani krajšieho, ani múdrejšieho, než jej
+synáčik, na ktorého so zaľúbením dlho---dlho pozerala, zložiac ruky na
+lono, nehovoriac ani slovo a len sa tak v pohľade naň kochajúc. Ale
+teraz ho jej brat, prečo videli sme, potreboval, a tak ho mamička
+prepustila, dajúc mu požehnanie a nazdajúc sa, že hneď ostane veľkým
+pánom, keď len vicišpán naňho pohliadne.
+
+Pán Adam Bešeňovský odbavil teda grófa i Anuľku a teraz dal k sebe
+zavolať Štefana. Ten prišiel.
+
+„Mi fili,"#POZ#21;(lat.) Syn môj.#-POZ# začal vicišpán po latinsky,
+,,tys\' bol sirota, tvoja matka nemala ničoho, ja som ťa musel
+napomáhať, čomu som tým radšej teraz, bo vidím, že sa stal z teba
+statočný, poriadny človek, ktorý celej famílii len ku cti slúžiť bude."
+Pritom pozrel na Štefana, akoby chcel čítať v jeho vnútornostiach.
+
+Ten nevedel, čo ujec chce.
+
+„Teraz," pokračuje Adam ďalej, „nastáva reštavrácia; ako strany stoja,
+vieš --- treba nám teda zasa dačo robiť, aby sme sa udržali, lebo ty
+stojíš a padáš so mnou, ale vieš, čo sa včera stalo. Strýc Ondrej je
+tvrdá hlava a môže mnoho pokaziť pre nás, a Potockému mnoho nahnať, do
+saku. Pôjdeš teda do Levíc a upokojíš celú rodinu a povieš jej, aby
+všetko len pri tom zostalo."
+
+„Ale, pán ujček," odvetí Štefan, „lepšie bolo, keby ste sa sami tam
+ukázali, bo vaše slovo viac platí, než mojich sto."
+
+„Nechaj to tak, Števko," prehodí vicišpán. ,,ja v tomto okamihu nič
+urobiť nemôžem; Potocký bude kovať, kým je železo teplé, a nie ja, ale
+len ty ho môžeš ochladiť. Povieš, že sa porúčaš do priateľstva pánov
+bratov i naďalej a vieš --- udrž sa teraz pár rokov slúžnym ---
+vicišpánstvo ti beztoho neutečie pri našej rodine --- a mojej pomoci.
+Kebys\' bol len o desať rokov starší, nuž by sme to hneď teraz
+prelomili; ale vidíš, kde fúzy tam rozum, a tak čakaj času ako hus klasu
+a všetko bude dobre."
+
+Pekne obišiel Adam Štefana, ale tomu sa to dákosi páčiť nechcelo, myslel
+si, chudák: Nech psom tráva rastie, keď kone podochnú --- bo si pomyslel
+na Anuľku.
+
+„Čas tratí, čas platí," pokračoval zas Adam, „musíš teda čím skôr, a to
+ešte dnes ísť do Levíc, bo teraz nevoľno ani hodinku premeškať. Navečer
+prídeš domov a tu i potom spolu posedíme --- bo sa musíme na pár týždňov
+rozlúčiť s Anuľkou." A pritom, tak mu medové motúzky cez ústa
+prevliekajúc, upäl zraky na Štefana; ten ale svoje zvesil dolu, a dostal
+rozkazy, neveľmi potešený tým, že ujec s farbou von vyšiel, to jest jemu
+slúžnovstvo obecal a Anuľku preč posielal, z čoho bolo vidieť, ako chce
+pretrhnúť známosť obidvoch ľudí.
+
+Ako Štefan, ani sám nevedel prečo, pomútený do svojej izby došiel,
+obliekol sa, dal zapriahať, a kým sa to stalo, išiel do záhrady, kde mu
+Anuľka oproti prišla bez toho, že by ju bol pozoroval a skoro popri nej
+prešiel, ani na ňu nepohliadnuc.
+
+„A peknýs\' ty človek," prehodí dievča, najprv mu rukami oproti tvári
+bežiac, akoby ho prestrašiť chcelo, „ja ho hľadám ako stratenú ihlu, a
+on ti, hľaďže ho, na mňa ani nepozrie! --- Ej, ale vidím, vidím,"
+posmešne pokračuje, „to tvoje srdiečko ti za mnou sem do záhrady ubehlo,
+bo vie, kde ma má hľadať, a odohnalo oči preč, aby nevideli, kde vidieť
+majú, bo im závidí, že by i ony účasť mali na takej znamenitej osobe,
+ako som ja."
+
+Ale Štefanovi nebolo do smiechu; stal si pred Anuľku, pozeral dlhým
+zrakom na ňu a vyriekol: „Ale povedzže mi, ty božia stvora, kedy už len
+nabudeš rozumu?"
+
+„Načože mne rozum, keď ho ty máš dosť? A vidíš, Števko, včera tí páni
+povedali, že by nám to vraj svedčalo; nuž potom bys\' ty vládol rozumom
+a ja pletkami --- ale do týchto bys\' sa miešať nesmel --- lebo beda
+ti!"
+
+„Načo to hovoríš teraz?" spýta sa Štefan.
+
+„Nato, že sa mi to tak páči; lebo vieš, musím od teba preč a to viem, že
+ma rád máš, a chcela by ti prihotoviť mastičku na tvoje úbohé srdiečko."
+
+,,A odkiaľ vieš, že ťa mám rád?"
+
+Dievča sa rozosmialo a zalomilo rukami: „Nuž ale či sa ozaj nazdáš, že
+ja to neviem? Tvár neni lhárka, a keď ju ku mne len obrátiť môžeš, nuž
+si uradovaný; eštes\' len bol patvaristom a ja deckom, už si vtedy, keď
+si chodil s miskou okolo stola, zrakom, hlaďže, vidíš, takto ---" a
+ukázala prstom kruh dokola, „veslovals\', abys\' tú milú, premilenú
+Anuľku z očí nestratil."
+
+,,A ona sa mi za to pekne vysmieva; či je nie pravda?" odpovie Štefan.
+,,Nač to všetko spomínaš, keď si ešte nezrelé decko a nikoho nie si
+vstave rada mať --- tým menej ale mňa."
+
+„Ach, rada ťa, rada ťa ako mačka vtáčka a strelec zajačka, ty moje
+potešenie, srdce z kalerábu a duša z lopúša!" A spojila ruky, akoby ho
+na prsia pritisnúť chcela, pritom ale tak vážnosmiešnu tvár urobila, že
+Štefan nevedel, čo na to v okamihu odpovedať, lebo to za holý posmech
+vziať nechcel vediac, že dievča všetko, i tam, kde jej najhlbšie
+pohnutie citu vyraziť chcelo, na ľahký spôsob prednášať zvyklo; za vážne
+slová zas celú reč držať nemohol, bo bola tak posmešne vyslovená, že by
+si ju ani jeden človek pre seba dobre nevykladal.
+
+Anuľka pokračovala s núteným plačom: „Vidíš, Števko, tys\' ma urobil
+nešťastlivou osobou!"
+
+Štefan sa zasmial, až ho bolo ďaleko počuť, a vyriekol: „Ty šialená
+dievka, bezpochyby nemáš všetkých doma, že sa ti chce také reči tárať.
+Ale povedz mi, čo vlastne chceš?"
+
+„Teba, Števko, teba!"
+
+„Mňa?"
+
+„Nuž áno!" so začudovaním vyriekla Anuľka, akoby urazená, že jej Štefan
+nechce rozumieť. „Avšak je pravda, žes\' ma nešťastlivou urobil, lebo,
+vidíš, teraz musím byť grófkou, či sa mi chce, či nechce, čo by sa
+nebolo stalo, keby sa môj otec nebál o nás dvoch; a budem sa ti na
+šiestich paripách voziť, budem si v koči vysedávať ako páva,
+fulajtári#POZ#22;(z nem.) Panský služobník, kuriér, jazdec na prvom páre
+koni.#-POZ# budú len tak obskakovať --- a keď stretnem pána Štefana
+Levického, odvracajúceho sa odo mňa, aby ma nevidel a srdce mu nepuklo
+-- či nebudem musieť byť nešťastlivá? Lebo, vidíš, ja som velice dobrá,
+a dobré samo sa chváli" „Ale, počuješ, kebys\' ma vskutku rada mala --
+nuž by ťa jedno slovo otcovi dané od grófa priviedlo k Štefanovi a
+miesto grófa posadilo by Štefana do koča."
+
+„Aha, keby som ja bola taký tenký súkenník, ako si ty. Ale ja si myslím,
+čo je lacné, neni vzácne, a ty si ma musíš zaslúžiť."
+
+„Povedz mi len, ty pochabé dievča, ako?" odvetí Štefan.
+
+„Ty máš aj krátke vlasy, aj krátky rozum," skočí mu do reči Anuľka, „že
+to nerozumieš. Nuž staň sa vicišpánom, postav sa pred môjho otca, vezmi
+si strýca Ondreja so sebou, daj vyčítať, od Adama počnúc všetko, čo sa
+kedy pri svadbách až dodnes stalo --- potom --- a tak ďalej."
+
+„Vicišpán, vicišpán! ľahko ti to povedať, ale ľahšie by ti bolo otcovi
+--- alebo mu to ja poviem," pretrhol Štefan vlastnú reč, „aby sa nám i
+bez vicišpánstva zobrať dovolili."
+
+;,Nie, nie, nie, ja k tomu neprivolím!" vyvolá Anuľka, „ja chcem raz byť
+vicišpánkou --- a koniec reči." Pritom vzdorne dupla nohou a pohodila
+rukou.
+
+„Ale povedz mi len, ako to mám urobiť? I mladý som, i chudobný som, a
+psota sa vždy zle mala."
+
+„Tys\' tiež múdra hlava, že kdes\' sám, tam nikto nad teba, a predsa si
+nevieš rady. Už vidím, že nemáš smelosti ani za grajciar; bo komu sa
+nelení, tomu sa zelení. Ak by ale slovo takého bláznivého dievčaťa, aké
+som ja, u teba podľa vlastných tvojich rečí, dačo platilo, teda ti
+hovorím: Nechytaj vláčky na udicu a ryby na lep, ale stoj čo stoj, i čo
+by sekery z neba padali, rob, kým je čas, a urob si všetko dobre na
+mieste, nebude sa ti treba baviť na ceste." --- Potom ale priskočila k
+nemu, hladkala ho po líci, hľadela mu do očí tak prenikavo, že ju Štefan
+chcel objať, ale ona sa mu vyšmykla, poklonila sa a vážne vyslovila
+usmievavo:
+
+#POEZIA#
+
+#I#Šuhajko, biela hus, dávala by ti z úst,#-I#
+
+#I#ale mamka nedá, že by bola bledá.#-I#
+
+#-POEZIA#
+
+A pritom hlavou i rukami posunkujúc, ubehla ako srnka.
+
+Štefan sa za ňou díval i vyriekol: „No počkaj, ty striga!"
+
+Anuľka to dopočula, obrátila a poklonila sa hlboko i vypovedala:
+„Spánombohom, pán vicišpán. spánombohom, a pomyslite si, že kto má mrcha
+ženu, netreba mu chrenu. Teraz ale robte, čo sa vám páči, a nech sa vám
+ľúbi kapusta alebo hlúby." I zmizla.
+
+# IV
+
+Slúžny Štefan Levický si sadol do voza a zamyslený išiel do Levíc.
+Snovalo, rojilo sa mu v hlave, že nebol vstave myšlienku ani len na
+chvíľu tak pevne udržať, žeby ju druhá nová hneď nebola vytisla.
+
+Paholok zastavil voz, hajdúch skočil dolu, otvoril pánovi dvierca na
+kočiari, a tento sa len díval, akoby nechcel veriť, že kočiar už stojí
+pred strýcovým domom, alebo radšej sám nevedel, čo vlastne tu chce.
+Zobral sa a vstúpil dnu.
+
+Pán Ondrej Levický sa práve obliekal a naťahoval si čižmy na nohy, ktoré
+sa mu neveľmi poddávali, zastavujúc sa na nových uhorských nohaviciach;
+lebo pán Ondrej nemohol vystáť novoty, a tak ani široké galoty, nosil
+teda, ako vždy od svojej mladosti, vyšnurované nohavice na remeň. Ako
+Štefan dnu vstúpil, pozdvihol strýc hlavu, klepol pätou na zem, oddýchol
+si, akoby mu bol príchod niekoho na oddýchnutie vítaný, i povedal:
+„Vitaj Števko! Ja o vlku a vlk za humny!"
+
+„Dobrý deň, strýčko! Prečo?" spýta sa Štefan.
+
+„Ale vidíš, dieťa moje ---" odpovedá Ondrej, „jaj --- ale ma tá čižma
+tak tlačí --- teda, vidíš, ja idem k Potockému do Rašova a chcem, aby
+--- no, však vieš --- zo včerajšej rozprávky dačo bolo."
+
+„Čo myslíte, strýčko?"
+
+Ondrej sa ale rozhneval, roztvoril oči v začudovaní, klepol zas pätou
+neobutej čižmy na zem, zložil ruky na prsia i prehovoril, dívajúc sa
+upretým zrakom na bratanca: „Nuž a ty to nevieš, holobradý múdry pán
+slúžny? Nuž a či sa nazdáš, že mne na našej famílii nič nezáleží? Nuž a
+či Levickovci vždy len Bešeňovskovcom slúžiť majú, a títo ich na večné
+veky za nosom vodiť musia? --- A tak teda počuj! Či chceš, či nechceš --
+no však si mladý, a tak ti odpúšťam, že ani toľko nemáš pod klobúkom, že
+bys\' ma pochopil --- ty musíš byť vicišpánom, a to len zato, že sa
+Adam, tvoj chýrečný ujec, nazdáva, že to Levickému ani z očí nevyzerá, a
+ja mu chcem, chcem, chcem," a tu zloženou päsťou v povetrí šermoval,
+„preukázať, že to tak byť musí. Ty ale obráť sa okolo Anuľky, a všetko
+bude dobré!"
+
+„Hja, neučte vy, strýčko, vlka do chrasti, však on ta sám cestu zná."
+
+„No, ale nezná," odpovedal Ondrej, „ako z chrasti von," a tu mrnkal, ako
+čo by sám so sebou hovoril, naťahoval čižmy, až sa mu ich podarilo
+celkom obuť, vzdychol si, stal si pred Štefana, vystrel sa ako sviečka,
+skrížil ruky za chrbtom a hovoril ďalej: „Teda vidíš, Števko -- tak je
+to -- a nie ináč; panská láska na zajačom chvoste, tak sa ty tiež nemáš
+čo na ujca spoliehať, lebo ten len vtedy vraví pravdu, keď sa potkne, a
+ty ani len na vlastnom chlebe nie si, kým si uňho. Moja starosť je ---
+no, však som ťa vychoval --- na teba myslieť; a tak ty musíš raz i bez
+ujca stať sa dačím, i od neho sa rozlúčiť, aby si nemyslel, že si ty
+uňho len piate koleso a trinásty apoštol. Preto teda idem k Potockému,
+hoc jeho novoty mám v žalúdku ako svoje hriechy, či by sa nedalo
+docieliť spojenie medzi ním a Levickovcami, ale, pravda, na dobrý
+spôsob. Vidíš, syn môj, takto je to," pokračoval Ondrej, ruky založené
+rozhodiac a prstom pravice na prstoch ľavice vyčitujúc, „celý svet
+pojedol šialené huby a celá krajina chce, aby vraj zeman mýto platil,
+aby vraj zeman porciu platil, aby vraj zeman na cesty chodil, aby vraj
+sedliak v kongregácii#POZ#23;(z lat.) Stoličné zhromaždenie zemianstva v
+starom Uhorsku#-POZ# sedel --- a všetky susedné stolice sa už vyslovili
+v tomto zmysle --- len naša nie, bohu buď chvála! Teda, vidíš, syn môj,
+takto je to: Adam sa dlho udržať nemôže, lebo naši holobradí mlaďosi
+vžďy na to ďotierajú, čo sa inde stáva, a hania nás starých tak, že o
+krátky čas prehrať musíme, bo nás zošklivia v očiach zemianstva, že sa
+nás tak bude báť, ako čert svätenice. Takto je to teda," a tu znovu
+vyčitoval na prstoch, „za jedno, už je darmo, či sa mi páči, či nepáči,
+musíš sa s týmito ľuďmi spriateliť, aby si nezostal na holom, čo sa ti o
+pár rôčkov s ujcom stať môže; po druhé, keď bude dakto z nás s
+Potockovcami, nuž musia i na to pozerať, čo my chceme, bo keď máš
+nepriateľa, obes sa mu na nohy, aby skalu do teba uhodiť a bez teba ísť
+nemohol --- potom pošleme Potockého na diétu, a my budeme predsa len
+páni v stolici. Po tretie, Adam ti pred nami sľúbil Anuľku, ak budeš
+vicišpánom --- a ten gróf sa mi nepáči --- nuž a vieš, nesmieme šťastiu
+zapchať každú dierku, aby dnu vliezť nemohlo, a vidíš, ako pekne by to
+bolo, keby sa raz Levický na vlastných štyroch koňoch voziť mohol ---
+však ich Adamovi už beztoho netreba." A tu si oddýchol ako po päťdňovej
+práci.
+
+„Ale, strýčik," prevraví Štefan, „však ste ešte ani nepočuli, prečo k
+vám prichádzam."
+
+„Hm, neviem? Čo by som nevedel? --- Adam ťa posiela, aby sme sa
+zmierili; však ja poznám jeho chodníčky. Dal mi odkázať, že Ondro
+neondej, hoc i druhými slovy, a myslí si, že ja z jeho praktiky nič
+nerozumiem --- ale oklame sa; on sa viacej po mne vláčiť nebude, a čo by
+si sto grófov vzal na pomoc, bo mu päty ukážem prv, kým mi bude môcť
+povedať, že ma i nabije i plakať mi nedá. Hm, rozumieme, rozumieme,"
+doložil pán Ondrej k svojim rečiam, prstom si na čelo ukazujúc, „a dobre
+je to, keď sa čertovi sviečka zažne."
+
+„Ale, strýčik," prevraví Štefan, „ťažko nám bude spojiť sa s
+Potockovcami, bo nám ani veriť, ani nás chcieť nebudú: a potom sa mi to
+nevidí, ujca len tak bez každej príčiny zanechať, bo tak s mojou svadbou
+ešte horšie, a potom by to bolo troška i nestatočné, k tomu zas ja sám
+neviem, čo začať, čo robiť."
+
+„Hm, tak je to," odvetí Ondrej, „keď sa mladí ľudia na starých len tak
+dívajú, akoby sami celú múdrosť boli pojedli! --- Či nevieš, ty
+holobradý, že Potockovci doteraz za seba ani tretinu zemianstva nemajú,
+a tak že im musí byť vítané takú famíliu, ako je naša, za každú cenu
+tiahnuť k sebe. Potom zas, čo sa ujca týka, zato by si ja nikdy prsty
+nepohrýzol, ani vlasom nedal ošedivieť, bo len ten príde k dačomu, čo sa
+chytí rozumu. A keď nevieš, čo začať, teda ti poviem ja, pamätaj si to a
+nehnevaj ma, teda takto: Ja budem všetko robiť, ty nič; ty budeš s ujcom
+držať, ja proti nemu. Teda počuj! Ty sa takto budeš držať: Čo nehorí,
+nezalievaj, čo ťa nepáli, nehas; nepchaj prsty medzi dvere, lebo kto
+stojí u dverí, každý ho uderí, neklaď drevo na oheň, lebo môže so suchým
+i mokré zhorieť, ale drž s Adamom, aby sme vedeli, čo sa i tu i tam robí
+až do konca, kde potom všetko i bez toho vyjde na svetlo, a aby si bol i
+z jednej i z druhej strany zakrytý. Len jedno mi musíš sľúbiť, Števko!"
+
+„Čo je to, strýčik?" usmievajúc sa spýtal Štefan, „už vidím, že vás
+nikto neprevedie."
+
+„To jedno, že pred voľbou odvedieš pár hlasov Adamovi --- no, ale
+pomysli si ---" a tu sa popod fúzom usmiechal, „Anuľka stojí v hre, a
+keby ja bol mladý, päť zubov by si s radosťou dal vytrhnúť za ňu"
+
+„Nuž dobre, ale, strýčik, počujte! Pán ujček vám dal odkázať, aby to len
+všetko zostalo po starom."
+
+„Hm, hm, ty, ty, ty --- babrák, či nevieš, čo je to?" prehodí jedným
+dúškom Ondrej. „To je toľko: Ty nebudeš vicišpánom, Anuľka nebude tvoja,
+nebudeš sa na štyroch voziť; majetok pripadne grófovi, a ty Števko si
+vytri zuby a zostaň žobrákom; lebo čo Adama do toho. --- Ale počuj,
+chlapče!" zakričí hnevlivo Ondrej. „Ja mu ukážem, že aký pánboh daj,
+taký bodaj zdrav. A teraz iď, iď a povedz tvojmu vicišpánovi, keď čo
+chce so mnou mať, aby sám sem prišiel; lebo ja pán, ty pán, kto bude
+svine pásť?"
+
+Štefan zvesil hlavu a spýtal sa strýca: „Nuž ale keď prepadneme, čo
+potom?"
+
+„Neboj sa, chlapče!" zvolal Ondrej. „Potom ti odstúpim môj domec i so
+všetkým, čo mám, a budeme alegovať#POZ#24;(z lat.) Oháňať sa právnickými
+argumentmi.#-POZ# spolu, až to bude prašťať, a uvidíš, že sa nám bude
+celá stolica klaňať."
+
+Štefan sa odobral a mrmlal si pod nosom: „Pri Nebojsi i Galanta
+vyhorela," ale pomysliac si na Anuľku a na jej slová, bol by skoro
+strýca len zato objal, že sa jeho reči s Anuľkinými zrovnávali.
+
+Ondrej ale obliekol kaput s dlhými krídlami, vzal trstenicu, navrchu i
+na tretine striebrom obíjanú, do ruky i kráčal, snujúc v hlave všelijaké
+veci, do Rašova, kde Ján Potocký, druhý viciš---pán stolice, prebýval.
+
+V Rašove to vyzeralo ako v raji. Okolo kaštieľa, bydliska Potockého,
+bola pekná záhrada, ktorej cesty sa okolo trávnikov a kvetinových hriad
+krútili ako had okolo kameňa, ktorý ho v letnom čase chladí. Po
+krútiacich sa cestách boli rozostavené stoly, na ktorých sklenice,
+poháriky a misky ešte od včerajška stáli znakom, že alebo sluhovia
+nemali doteraz času všetko zobrať, alebo že hostia hodovali až do rána,
+čo bolo pravdepodobnejšie, bo i nejeden zeman v kurtke#POZ#25;Krátky
+zelený kabátec s červenými ozdobami.#-POZ# alebo gubke#POZ#26;Vrchný
+súkenný kabát.#-POZ# alebo šubke, alebo len jednoducho oblečený sa po
+záhrade tmolil nevediac, že je už poludnie, a zabudnúc, že slnce svieti
+a sparno nastalo na chládok nočný. Ale nehaň zemanov, chudákov; však to
+boli samí chudobní neboráci, čo sa im miesta k nocľahu viac v kaštieli
+nedostalo, a tak sa museli sami o seba starať, keď sa pán Potocký, za čo
+mu oni vďační boli, aspoň o hlavy postaral. Teraz im ale oživli mušky,
+pochytili sa po troch, po štyroch okolo krkov, prechádzali sa a spievali
+si:
+
+#POEZIA#
+
+#I#Ráno nad Rašovom slniečko vychodí,#-I#
+
+#I#tu sa po záhrade Janíčko prechodí,#-I#
+
+#I#Janíčko prechodí, a tak sebe myslí:#-I#
+
+#I#Na čo sme zemania, na čo sme my vyšli?#-I#
+
+#I#Na to sme my vyšli: Niet pravdy v stolici,#-I#
+
+#I#kto z koho, ten z toho, právo o palici.#-I#
+
+#I#Hore sa, Janíčko, hore zdvihni čelo,#-I#
+
+#I#neboj sa Adama, pozri naňho smelo!#-I#
+
+#I#Pozri naňho smelo s dnešným pekným ránom:#-I#
+
+#I#Ty budeš stolice našej vicišpánom!#-I#
+
+#I#A dolu s Adamom, nech si zlomí väzy,#-I#
+
+#I#právo, spravodlivosť nech u nás zvíťazí.#-I#
+
+#I#A ty svieť, slniečko, od zory do rána,#-I#
+
+#I#privítaj Janíčka, nášho vicišpána!#-I#
+
+#-POEZIA#
+
+„Vivat, vivat!" ozvalo sa zo všetkých strán a z každého kúta sa pár hláv
+objavilo medzi krovím. Medzi nimi náš Peter Barina, verný straník
+Potockého, viedol za sebou ospanlivého barboráša, za ktorým liezlo ako
+vo snách šesť nevyspatých, od včerajšieho hulákania ešte nevytriezvených
+Cigánov; bo hoc včera pána Potockého ani doma nebolo, jeho dom bol
+predsa celému svetu otvorený, a páni bratia zemania si rozkazovali ako
+doma a Cigán nesmel sláčik odložiť, pokiaľ sa ktorému z hostí páčilo či
+jeho hudbou počúvať, či si daktorú nôtu vyhrávať. Po záhrade roztratení
+páni bratia sa teda zhŕkli okolo Petra Barinu i zastali si pod oknom
+kaštieľa. Tu zaštikol primáš husle pod bradu, až zajačali, akoby ich
+tisnutie sláčika bolelo, barbora zahundrala a celý húf zemianstva si
+začal v sprievode hudby vyspevovať:
+
+#POEZIA#
+
+#I#Ráno pod Rašovom slniečko vychodí#-I# atď.
+
+#-POEZIA#
+
+a keď prišli ku koncu
+
+#POEZIA#
+
+#I#A ty svieť, slniečko, od zory do rána,
+
+privítaj Janíčka, nášho vicišpána!#-I#
+
+#-POEZIA#
+
+tu sa rozleteli okná a pán Ján Potocký sa objavil, ďakoval peknými
+slovami pánom bratom za ich priazeň a náklonnosť; títo ale tri razy
+zakričali: „Vivat, vivat!" až to bola radosť.
+
+Vtom práve oproti nim sa objavila postava, na tomto mieste od dávnych
+čias nevídaná, všetkým, čo ju zazreli, tak sa pozdávalo, akoby to bol
+starý Ondrej Levický, bo kaputom zametal cestu a pokašlával, že ho bolo
+odďaleka počuť; ale nechceli vlastným očiam veriť, vediac, že býval
+Ondrej vždy, najmä pre jeho rozšírené zväzky rodinné a potom, že nemal
+prázdno pod klobúkom, najpevnejším stĺpom odpornej stránky. Jeden medzi
+hosťami zvolá: „Nezvaných hosťov pod stôl sádzajú!" A druhý zas: „Hm,
+mešter, kôň, vlk!" Pán Potocký kázal, aby bolo ticho, a všetci umĺkli
+ako Nemci pri mäse.
+
+Bol to vskutku Ondrej, ktorý príduc k zhromaždeným a zhliadnuc
+Potockého, strhol klobúk, poklonil sa pekne, práve tak ako vedel, a
+povedal: „Humillimus servus, domine spectabilis vicecomes!#POZ#27;(lat.)
+Najponíženejší služobník, osvietený pán vicišpán!#-POZ# Dobré ráno, páni
+bratia!" a oddýchol si, ako čo by z duba spadol, bo mu bolo úzko,
+zbadajúc sa na takom cudzom mieste a spozorujúc, ako krivo zazerá na
+neho celé zhromaždenie.
+
+Ale pán Potocký bol hladný človek a zachádzal i so svojimi odporníkmi
+vždy zdvorilo, dobre vediac, že najmenší krivý pohľad na zemana pred
+reštavráciou roznáša sa po stolici, ako čo by pušný prach zapálil, a
+často človeku i sto ľudí len samý chýr odviesť môže; a tak i teraz
+bozkal Ondreja na obidve líca a privítal ho srdečne, akoby bol jeho
+najlepším priateľom, i opýtajúc sa ho, čomu má tak veľké šťastie ďakovať
+jeho príchodu?
+
+„Vaša milosť pán vicišpán, boli ste včera u jeho milosti môjho pána
+švagra Adama Bešeňovského ku mne, k môjmu bratancovi a k celej našej
+famílii taký láskavý, že som si za povinnosť držal poďakovať sa vám za
+to." Potocký nevedel síce, ale šípil, čo Ondrej chce. Peter Barina,
+ktorému milé bolo, že sa Ondrej a s ním Levickovci zbližujú jeho
+stránke, zvolal: „Hja, pán brat, len bez okolkov hovorte, prišli ste
+spolu s nami zvolať: Vivat Potocký, prvý vicišpán!"
+
+Celé zemianstvo zakričalo „vivat" ako z povinnosti, počujúc meno svojho
+vyvolenca; ale Ondrej pokrútil hlavou i vyriekol: „Hm, viete, páni
+bratia, že som ja nikdy nebol buch do sveta a radšej som konal, než
+kričal."
+
+Páni bratia sa na to nahnevali, rozpŕlili, bo sa im tak pozdávalo, že im
+chce lekciu držať. Jeden medzi nimi zdržať sa nemohol i vyvolal: „Teraz
+musíte s nami volať, lebo kto príde medzi vrany, musí kvákať ako ony."
+
+„Hm," odpovie Ondrej pokojne, „a prečo chcete, aby som tak volal ako
+vy?"
+
+„Preto," odvetí predošlý, „že aký človek, taká reč a vtáka poznať po
+perí a človeka po reči, tak je to."
+
+Ondrej ale obrátiac sa k Potockému, povedal: „Nemohla by mi vaša milosť
+oferovať pár okamihov?"
+
+„Veľmi vďačne, veľmi vďačne," odvetil tento, poprosil pánov bratov, aby
+málo pozhoveli, vzal Ondreja pod pazuchu a kráčal s ním do kaštieľa.
+
+Páni bratia sa dívali za nimi nevediac, čo o tom myslieť, ale veselí ako
+na Havla, tak na Pavla, nemysleli ďalej o tom, keď im Peter Barina
+vyložil, že pán vicišpán vie, čo robí, že to neškodí pozhovárať sa i s
+protivníkom; lebo vraj čo hlava, to rozum a koľko hláv, toľko klobúkov,
+že vicišpán iste nezanedbá vyzvedieť sa, ako stojí odporná strana, a že
+sa Ondrej iste dá, raz sem príduc, na pokánie ako čert na milosť.
+
+Ale Ondrejovi sa o protivnej stránke ani nesnívalo. Len čo ho Potocký
+usadil, začal, poobzerajúc sa po izbe, či ho nik nepočúva, hovoriť:
+„Vaša milosť, ja som sa prišiel k vám poradiť, či by sa nedalo uzavrieť
+spojenie slávnostnej famílie levickovskej s vašou stránkou."
+
+Potocký vstal hore, díval sa akoby so začudovaním na hosťa, vzchopil sa.
+dal mu pravicu a vyvolal horúce: „Akože by ma to tešilo, vaša milosť pán
+brat, keby sa to stať mohlo."
+
+„Stať sa môže, vaša milosť," odpovie Ondrej, „len ak vy chcete."
+
+„Ja by som si to iste za šťastie pokladal."
+
+„Nie tak, nie, pán vicišpán," odvetí Ondrej, „my by sme boli šťastliví,
+keby z nás dačo bolo; ale nevieme, čo poviete na naše výmienky."
+
+„Všetky sú z mojej stránky popredku vyplnené!" prudko odpovie Potocký.
+
+„Nie tak, vaša milosť, nie tak. Musíme všetko premyslieť, aby sme
+vedeli, na čom stojíme, a musíme si zrejme povedať, čo chceme. --- Nuž
+teda takto: Že sa môj švagor Bešeňovský tak dlho udržal, bol som vlastne
+ja na príčine; teraz ale. keď on viac na svojich, seberovných nehľadí,
+ale sa za grófmi zháňa a deti v stolici zrodené a vychované viac do
+ohľadu neberie, tak som si umienil od neho odstúpiť."
+
+„Pravdu máte, čistú pravdu, pán brat," skočí mu horlivo do reči Potocký
+a dá mu ruku, „to som si ja už tiež dávno myslel."
+
+„A tak teda som si pomyslel," nedajúc sa pretrhovať, pokračuje jedným a
+tým istým hlasom Ondrej, „žeby sme sa s vami spojili a vás požiadali,
+aby ste nášho Števka urobili druhým vicišpánom."
+
+Potocký sa zarazil, ustúpil dva kroky nazad a díval sa na Ondreja zrakom
+dlhým, prenikavým i povedal: „Vy mnoho žiadate, pán brat."
+
+„Nie mnoho, vaša milosť, nie mnoho, lebo vidíte, švagor Bešeňovský
+sľúbil, no však ste aj vy pri tom boli, svoju dcérečku Štefanovi, ak
+bude vicišpánom; keď sa to ale teraz nestane, nuž sa nikdy nestane."
+
+„Ale pán Štefan môže ešte dlhšie čakať; on je nie starý a dievča je
+mladé."
+
+„Hm," premrnkne Ondrej, „lepší vrabec v hrsti ako zajac v chrasti."
+
+„A potom," hovorí Potocký, „pán Štefan by bol za vicišpána ešte
+primladý!"
+
+„Hm," pokračuje v predošlom spôsobe Ondrej, „májová zelina každá býva
+dobrá, a jedno leto lepšie ako sto zím; lebo keď sa raz žobrák na koňa
+dostane, ani čert ho nedohoní."
+
+,,A potom akokoľvek," prehodí Potocký, „veľmi ľutujem, že som sa vám
+zaviazal, pán brat, každú i žiadosť vyplniť; všetko vďačne, len to nie,
+lebo som už pánu Kňazičovi sľúbil."
+
+„To nič nerobí," skočí mu do reči Ondrej, „urobíme ho notárikom a
+sľúbime mu, že ho pošleme na diétu,#POZ#28;(z lat.) Do r. 1848 názov
+snemu v starom Uhorsku.#-POZ# však beztoho za tým velice pachtí."
+
+„Už akokoľvek, ale to predsa nepôjde!"
+
+Ondreja prešla trpezlivosť, vstal teda vidiac, že jeho úmysly i u
+Potockého vyšli na poctivý smiech, postavil sa zrovna pred tohto,
+založil ruky na chrbte i začal: „Teda z nás nič byť nemôže --- ja som si
+myslel, že to pôjde z rúčky do rúčky po priateľsky, lebo ruka ruku
+umýva; odpustite teda, pán vicišpán, že som sa k vám v dôvere obrátil,
+aby ste mi to ale odpustili, poviem vám, ako som k tomu prišiel, a
+uvidíte, že som si to dobre rozvážil. Nuž teda takto je to: V našej j
+stolici je asi dvetisíc päťsto zemianskych hlasov. Vy máte osemsto,
+Bešeňovský tisíc sedemsto. Vy musíte teda prepadnúť, lebo bez nás pre
+vaše novoty sa ani len dušička neprihlási, a nebudete ani druhým
+vicišpánom, bo za tým už gróf čiaha ako čert za dušou. Myslel som si
+teda takto: Keď sa Levickovských štyristo hlasov pridá k pánu Potockému,
+bude ich mať dvanásťsto, a Bešeňovský len trinásťsto, takže by sme skoro
+rovní boli; ale keď Levickovci ešte k tomu po menších dedinách asi sto
+zemanov získajú a tomu zas asi tristo zemanov k hlasovaniu nepripustia,
+nuž bude mať pán Potocký najmieň dve tretiny za seba --- a víťazstvo je
+hotové. --- Ale nechcete, vaša milosť --- teda dobre, lebo dačo za dačo,
+a nič za nič. Však som sa, vaša milosť, dobre učil v škole rátať. Ale
+teraz humillimus servus." I chytal klobúk.
+
+Potocký nemohol ani na tvári, ani v pohyboch svojich zatajiť, že sa mu
+počty Ondrejove začínajú v hlave rozliehať, a nepripravený na tieto
+posledné dôvody, chytil starého za ruku a vyvolal: „No, veď sa
+nerozídeme ako nepriatelia alebo ako „cudzí. Počkajte len, pán brat ---
+musím si tú vec rozmyslieť a poradiť sa napred s mojou stranou."
+
+,Nie tak, pán vicišpán," odvetí Ondrej,, „k tomu už nieto času. Teraz už
+treba konať, a tak či pristávate, a či nie?"
+
+Potocký pokrčil plecami a vypovedal: „Pristávam."
+
+Ondrej odložil klobúk a sadol si, pomaly zasa hovoriac: „Odpustite, vaša
+milosť, ale ustal som, a teraz keď sme spolu, počujte, či sa vám moja
+rada ľúbiť bude. Nehovorte ani slova, že sa so Štefanom rozumiete, bo
+nám je tento v dome Adama treba. Potom na každý možný spôsob hľaďte
+Matiáša Bešeňovského preplatiť, bo to je figliar klincami vybíjaný a ten
+jediný je vstave nám svojou papuľou všetko pokrižlikovať, bo má oči ako
+jazvec, vidí, i kde by vidieť nemal, a drobní zemania radi s ním dujú do
+jednej trúby. Ale s prázdnou rukou neustávajte sa k nemu, bo uňho platí
+turák, a slúžiť bude za groš i čertovi i pánubohu. S odvedením zemanov
+na deň reštavrácie spoľahnite sa na mňa.
+
+Potocký sa zasmial: „No, no, však to dávno vieme, že ste nadarmo
+nechodili do školy."
+
+„Hm, teda zostaneme pri tom, vaša milosť," povedal, vstal a vzal klobúk
+Ondrej Levický.
+
+Vicišpán mu stisol ruku a vybozkával ho, ako sa svedčí na statočného
+zemana.
+
+Šli, ruka v ruke, do záhrady. Poludnie už dávno prešlo, a páni bratia
+posadali si okolo rozostavených stolov po chodníkoch a tu si jedli a
+pili pri hudbe Cigánov, až to bola milá vec --- lebo bolo všetko
+zadarmo. I ten najmenší medzi nimi rozkazoval si ako doma, sluhovia boli
+prinútení každému „vaša milosť" povedať a obslúžiť ho vo všetkom, ba i v
+tom, čo mu len z očí vidieť bolo. Ale tu len svitlo zemanovi v hlave, čo
+je on za dôležitá osoba! Tu videl a poznal, čo je a čo na ňom vo svete
+záleží! --- A tak bolo každému dobre okolo srdca, každému tvár
+rozkvitla, klobúk alebo čiapka sa na jeden bok hlavy vtisla, fúz sa
+vysúkal a nos dohora vyzdvihol, takže každému už z parsúnu#POZ#29;Výzor,
+podoba.#-POZ# vyzeralo zemianstvo.
+
+Cigán sa zvrátil z nôty a zahral tú Potockému na znak, že pán vicišpán
+prichádza. Spev, rozhovor, džavot prestal a zaznelo jednohlasné „vivat",
+a všetkých oči zvrátili sa v tú stranu, odkiaľ vítaný prichádzal. Ale
+zas to len zarazilo pánov bratov, že Potocký prichádza ešte v
+dôvernejšom rozhovore s Ondrejom. Pán Mihalko poškrabal sa za uši, mykol
+si klobúk na oči a premrnkol: „Pri --- pri samej vode mlyn, veď si sa
+poradil." Pán Lubina zas vyvolal: „Tak mu to medzi nami svedčí, ako
+psovi piata noha." Pán Orieška zas: „Ba načo sa také strašidlo vláči
+medzi statočných ľudí, čo nevie ani jesť ani piť!" --- ..Ale to musí
+predsa čertom páchnuť," ozve sa pri druhom stole pán Hradský, ,,že sa
+starý Ondrej sem odvážil a radšej do cudzieho než do vlastného hrnca nos
+strká."
+
+Nato mu ale Peter Barina odpovedal: „Mlčteže, mlčte, pán brat, vy sa do
+toho rozumiete ako hus do piva; lebo vidíte: Kto čo nemá, to hľadá, a
+tak bohzná, čo z toho dobrého vykvitne. Pán Potocký má tiež tuto,"
+ukazujúc na čelo pokračoval, „a nie je tiež mechom udretý." Vtom vstal a
+akoby svojmu najbližšiemu susedovi ukázať chcel, že má pravdu, šiel
+rovno k príchodzím a oslovil Ondreja Levického: „Však je pravda, pán
+brat, budete naším?"
+
+Ondrej neodpovedal, a Barina sa bez okolkov obrátil k Hradskému a
+vypovedal: „Vidíte, kto mlčí, ten svedčí."
+
+„A kto svedčí, ten pes väčší," doložil Ondrej po svojom spôsobe, „viete,
+že tvrdé drevo, tvrdý klin; a tak i Levický len pri svojom zostáva i
+vtedy, keď sa do vášho priateľstva porúča, humillimus servus." S tým sa
+poklonil a odišiel, nedbajúc na zdržovanie Potockého, domov.
+
+Potocký ale poprosil Barinu a Oriešku, aby sa im páčilo hore k nemu na
+maličkú poradu. Zvedavý Orieška bol rád, že sa hádam dačo dozvie o
+prítomnosti Ondreja Levického, a tak vstal a išiel; Barina ale povedal:
+„Hja, vaša milosť, pán vicišpán, čo sa porady týka, tej sa ja
+nerozumiem; kto je v rade, ten nech pradie, ale ja nie!"
+
+Ale na prosbu vicišpána dal sa pohnúť a po malej chvíli, bez toho, že by
+boli čo druhým povedali, vybrali sa Barina a Orieška do Bešeňovej k pánu
+Matiášovi Bešeňovskému.
+
+# V
+
+Bešeňová bola veľká dedina, v ktorej vyše tisíc, a to temer samých
+zemianskych duší prebývalo; bola rozdelená na tri časti: hornú, dolnú a
+prostrednú Bešeňovú. Iného človeka ako zemana tu temer ani vídať nebolo,
+len keď sa hádam nevedomky alebo po práci a službe sem zatáral. Ale
+dedinskí páni aj dobre vedeli upotrebiť svoju moc, aby sa sem nijaký
+cudzí neusadil okrem žida. ktorý, po prvé, od otrhaných krčiem hroznú
+árendu platil a po druhé, v dome svojom na vieru, na dobré slovo a
+rozkaz dával, do domu ale na ceduľky víno, pálenku a mäso posielal. Keď
+sa ktorý sluha v dedine natoľko zmohol, že mohol i bez služby v hospode
+bývať a živiť sa ďalšou pracou svojich rúk, to sa mu u direktora
+predpísalo, že smie len jednu ošípanú, tri sliepky s kohútom a štyri
+husi držať; inačej, keďže bol celý grunt kuriálny,#POZ#30;Zemepanský,
+zemiansky pozemok, majetok.#-POZ# všetko, čo mal navyše, slobodne bolo
+každému zabiť alebo rovno len vziať si, lebo by vraj hanba bola pre celú
+slávnu famíliu; keby sa kedy mala len i tá najchudobnejšia zemianka na
+tom nahnevať, že má v dedine sedliak viac kureniec ako ona.
+
+Páni Bešeňovskovci ale aj žili ako malí králi alebo pri ceste žobráci,
+bo boli najsilnejšou famíliou v stolici, takže sa len Levickovci s nimi
+merať mohli; a preto im každý pochleboval, každý ich lásku hľadal, každý
+ich hladkal vediac, že oni vždy spolu držia a v rozhodnom čase znamenitú
+záťaž na vážkach dať môžu. Ale pri tomto povedomí svojej dôležitosti
+začali chudobnieť, najmä od tých čias, čo i menší zemania k reštavráciám
+a voľbám dietálnych vyslancov húfne povolávaní boli: lebo sa odučili ---
+halaškujúc i za pol roka --- orať, a priučili sa poháriky dolu a hore
+prevracať. To ich ale naskrze nehnietlo, bo kým čas k tomu neprišiel,
+tešievali sa na príchod reštavrácie vediac, že vtedy má každý zeman, hoc
+by ináč ako grošom smrdel, všetkého dostatok; a potom užili času, lebo
+vraj i v pekle raz hody bývajú, hoc je už aj dávno starými hrncami
+zahádzané.
+
+Najchýrnejšia osoba v dedine bol pán Matiáš Bešeňovský, známy ako vábnik
+pri reštavráciách, človek veľmi obozretný a výrečný, čo nielen vedel k
+svojej stránke privábiť zemanov, ale ich i spolu udržať. Preto páni
+hľadali jeho priazeň, bo on viac mohol ako hockto druhý v stolici; on sa
+ale nikomu neklaňal, nikomu sa neprosil, bo vedel, že dobré kone i v
+stajni kupca nájdu. To mu, pravda, všetko nejeden turáčik dohnalo, ale
+sa mu to aj cez prsty prešmyklo ako voda cez riečicu. Tak vždy
+potreboval peniaze, a hoci lakomý nebol, predsa bol vždy z potreby taký,
+akého ho chcel mať človek, ktorý s prázdnou rukou neprišiel, lebo kto sa
+topí, i britvy sa lapá.
+
+Teraz sedel za stolom, v prámovej čapici na hlave; pred ním stál človek,
+sedliak zo susednej dediny, ktorý prišiel vymáhať vrátenie peňazí pánu
+urodzenému už pred šesť rokmi požičaných. Matiáš sa na to nadurdil a
+vyčitoval sedliakovi jeho nevďačnosť, lebo vraj si tie peniaze už pred
+pätnástimi rokmi zaslúžil, keď mu v čase lapačky dvoch synov za paholkov
+prijať ráčil. Pri lapačkách totiž sa nik nesmel k zemianskemu príbytku
+zblížiť; a keďže deň lapačky bol neistý, to si každý zeman i troch
+paholkov, synov bohatších sedliakov najímal, hoc ani volkom ani koníčkom
+nevládal, a čo viac --- nie pán sluhovi, ale sluha pánovi platil.
+
+Že bol pán Matiáš nahnevaný, bola príčina i tá, že sa pri peknom dni v
+jeho širokom dvore detí asi z pol dediny zhrnulo a tu vrešťalo, až bola
+milá vec. Najmladší z budúcich zákonodarcov krajiny si posadali v
+košieľkach a zapletených nad čelom vrkôčikoch na poddomie a spievali si:
+
+#POEZIA#
+
+#I#Neprš neprš, dešť,#-I#
+
+#I#povezeme rež#-I#
+
+#I#na pagáčky, na koláčky,#-I#
+
+#I#tebe dáme tiež.#-I#
+
+#-POEZIA#
+
+Druhí kričali:
+
+#POEZIA#
+
+#I#Píšem, píšem, pisáričko,#-I#
+
+#I#napíšem ti šestnásť;#-I#
+
+#I#kto neverí, nech počíta,#-I#
+
+#I#či ich neni šestnásť.#-I#
+
+#-POEZIA#
+
+Alebo chytiac sa dvaja a dvaja štipkou za kožu vrchnej ruky, razom
+vyhovárali:
+
+#POEZIA#
+
+#I#Kva, kva, kvačica,#-I#
+
+#I#čiernu, biela slepica;#-I#
+
+#I#pod stolom sú drobce,#-I#
+
+#I#kura vodu slopce.#-I#
+
+#-POEZIA#
+
+Iní zas, cvičiaci pamäť a vzdelávajúci sa v rečníctve, odriekali:
+„Jedenko, dvanko, trinko, štyrinko, penko, lako, sekman, dekman, evera,
+babka, blysk." A zas: Ededen, bededen, čínom, bínom, karabínom, baba,
+blysk."
+
+Školskí chlapci sa aspoň tu vyvŕšiť chceli na svojom učiteľovi a
+odriekali:
+
+#POEZIA#
+
+#I#Domine, domine!#-I#
+
+#I#Sedí rechtor v komíne,#-I#
+
+#I#a rechtorka za pecou#-I#
+
+#I#bije deti palicou.#-I##-POEZIA#
+
+Iní chlapci sa zas prezývali; jeden volal na druhého:
+
+#POEZIA#
+
+#I#Daniel,#-I#
+
+#I#štyri kočky zadrhel,#-I#
+
+#I#a tú piatu nemohol,#-I#
+
+#I#prišiel kocúr, pomohol.#-I#
+
+#-POEZIA#
+
+Tam zas dievčatko prekáralo svojho brata:
+
+#POEZIA#
+
+#I#Anduš, kdes\'?#-I#
+
+#I#Ty si starý pes,#-I#
+
+#I#a ja mladá veverička,#-I#
+
+#I#a ty za mnou bež.#-I#
+
+#-POEZIA#
+
+Ale najväčší krik robili deti, hrajúce sa na Kožehubu, Kolembabu a
+Koklesa. Jedny volali:
+
+#POEZIA#
+
+#I#Sedí ryba pri potoce#-I#
+
+#I#a hovorí dyč,#-I#
+
+#I#na koho to slovo príde,#-I#
+
+#I#ten nech ide pryč.#-I#
+
+#-POEZIA#
+
+Druhé odpovedali:
+
+#POEZIA#
+
+#I#Kokles,#-I#
+
+#I#čo chceš?#-I#
+
+#I#Zadného!#-I#
+
+#I#Chyť si ho, keď môžeš.#-I#
+
+#-POEZIA#
+
+Najtichšie sa držali tí, čo sa v piesku hrali na pimparapac, a tak svoje
+matematické vlohy vyvinovali; a dievčatká sa hrali na zlaté prasa a
+hovorili:
+
+#POEZIA#
+
+#I#Hádala by, hádala,#-I#
+
+#I#u koho by hľadala,#-I#
+
+#I#u Marasa,#-I#
+
+#I#u Karasa,#-I#
+
+#I#donesiem vám zlaté prasa.#-I##-POEZIA#
+
+Matiášovi sa už hlava krútila od kriku na dvore, vystrčil teda hlavu von
+oknom a zahromžil na deti: „Nuž ale mlčíte, vy fagani, strela jasná
+kopasná! Však vás ja naučím po kostole hvízdať; bodaj vás porantalo!"
+Vtom ale zahliadne dvoch známych pánov bratov, Petra Barinu a Pavla
+Oriešku do dvora vchádzať a si cez háveď detí cestu kliesniť,
+rozradovaný nad týmto prípadom obrátil sa nazad do izby i prudko
+preriekol svojej návšteve: „Počujte, Martinko, vidíte, tu prichádzajú ku
+mne páni, bezpochyby majú so mnou vážne veci vyjednávať, a tak choďte
+domov, teraz nemám čas --- a dlh zaplatím, ako len možno bude
+najskorej."
+
+Martin sa smutne obrátil, poškrabal sa za uchom --- i odišiel.
+
+Tak odbavil Matiáš nachytro veriteľa a tým viacej sa zaradoval nad
+príchodom známych.
+
+Títo sa poklonili, podali mu ruku a spytovali sa, ako sa má.
+
+„Hjaj, páni bratia, len si pomyslite; či ste to kedy slýchali? Sedliak
+božie stvorenie, ale huncút od narodenia; len si pomyslite, prišiel odo
+mňa dlh pýtať, a zabudol, že som mu dvoch synov oslobodil od lapačky, a
+nazdáva sa, že si to všetko poldruharočnou oračkou odrobil --- veď je
+nato na svete, aby robil, a to i vtedy, keď zeman ani krížom slamy
+nepreloží."
+
+„To je, pravda, bezočivosť," odpovie Orieška, „ale nerobte si z toho
+nič, pán brat, stáva sa to i druhým statočným ľuďom --- a pánboh je
+dobrý, on to zas všetko na dobrú cestu obráti."
+
+„Hjaj, vidíte, páni bratia," zas prevezme reč Matiáš, „chudobnému i z
+hrnca vykypí, a tak čo by aj chcel dač zhospodáriť, nuž nie je vstave.
+Mne je síce práca ako modlitba, a predsa nemôžem prísť k ničomu; a ten
+sedliak mi chodí na krky od rokov --- a neuhovel bys\' mu, čo bys\' mu
+šípom chrbát lízal. Ale tak je to, pre svoju dobrotu vyjdeš na psotu. Ja
+som sa vždy nazdával, že: púšťaj svoj chlieb po vode a po nečase ho zas
+nájdeš --- ale teraz vidím, že už niet vďačnosti na svete."
+
+„Ej, nie tak, pán brat," ozve sa Orieška, „hádam ste sa vždy k nepravým
+ľuďom obracali --- ja by som to aspoň povedať nemohol."
+
+„Nevďačnosť, nič iné, ba nevďačnosť vládne svetom; človek sa môže za
+druhého potrhať, a predsa mu nič nedajú a vždy ostane holý ako prst."
+
+„Tak je to, pán brat," odvetí Orieška, „trápenie korenie, a škoda vás,
+že so skupáňom držíte, čo nevie odmeniť vaše služby."
+
+Matiáš spozoroval, na čo Orieška naráža, i vyriekol: „Hja, pán brat, ja
+o koze a vy o voze."
+
+„Už či tak, či tak," bola odpoveď, „ale na môj hriešnu dušu je pravda.
+Keby som vedel, že moje celé postavenie v stolici od jedného človeka
+závisí, to by som ho iste nedal trápiť od sedliakov."
+
+„A ja viem zas," prevezme slovo Barina, ,,že čím ťa ten chýrečný Adam
+napomáha, je taká pletka, že to ani za reč nestojí a že je to tak pod
+spôsobom až hanba."
+
+„Vidíte, páni bratia," odvetí Matiáš, „len tak v dôvere vám poviem:
+Človek chudobný robí, čo môže, aby sa vykýchal. Dlžôbky rastú, veritelia
+pýtajú svoje, a viete, kde nič nieto, tam ani smrť neberie; tak čo
+robiť? Neukradnem, nebudem mať; a kde niet kostí, nieto sily! Keď mi
+teda tu alebo tam dačo kvapne, nuž to nestojí zato! --- Ale, páni
+bratia," odrazu sa spamätajúc, pokračuje Matiáš, „prišli ste sem
+zďaleka, a v zemianskom dome ani občerstvenie nenachádzate. Mojej starej
+niet doma, a tak aspoň kus chleba a pohár vína, lebo chudobní ľudia s
+vodou varievajú." A tu zavolal oknom na chlapca, sadol si ku stolu
+židovi písať ceduľku.
+
+„Čo to robíte, pán brat?" ozve sa Orieška. „Ja som myslel, že u vás
+všetkého dostatok."
+
+„Nie je všetko zlato, čo sa blyští; ale vás do toho nič."
+
+„No, kmotor," prerečie Barina, ,,keby ja bol tebou, nepísal by som
+cedule."
+
+„A čo bys\' robil?"
+
+„Hm, keby bol tebou," pokračuje Barina, „to by som si muzikanta držal,
+za mnou by sa musel i Adam i Potocký driapať!"
+
+„Múdri sme dosť, ale peňazí nemáme," odvetí Matiáš, „a tak čo je potom?"
+
+„Peniaze sem, peniaze tam," hovorí Barina, „len jedno slovo, a máš ich
+ako pliev. --- Ale povedz mi ozaj, kmotor, tak v dôvere --- no však sme
+kmotrovci, hoc i s rozličnými stránkami držíme --- čo ti Adam dáva za
+každú reštavráciu?"
+
+,,Tys\', kmotor, tiež šošovičný prokurátor, čo sa do všetkého mieša,
+bodaj bys\' čerta zjedol!" usmial sa Matiáš a ďalej vravel: „Keď ti ale
+čo na tom záleží, teda ti poviem, že jeho milosť pán vicišpán potrhal
+chartabianku#POZ#31;(z lat.) Obligácia, dlžobný úpis.#-POZ# na päťsto
+zlatých, čo som mu ju bol pred pár rokmi vvstavil."
+
+„A nič viac?" hovorí Barina. „To je toľko, ako psovi mucha. Hej, kebys\'
+ty vedel, ako teba pán Potocký rád vidí a ako na teba drží!"
+
+„Hja," nevrlo odvetí Matiáš, „s tým si ja kapustu neomastím, a viem, že
+ma rád má ako soľ v očiach alebo ako koza nôž." .
+
+„Nazdáš sa?" spýta sa Barina. „No však je síce pravda, žes\' jeho
+najväčším nepriateľom, ale kebys\' chcel zaňho tak robiť ako za Adama,
+nuž bys\' uvidel, že by sa ti vedel odslúžiť."
+
+„Každý Cigán svojho koňa a každá líška svoj chvost chváli," odpovedal
+Matiáš, „a predsa viem, že aj vy, okrem trošky toho mäsa a trošky vína,
+nič nemáte."
+
+„Bodaj ťa hus kopla, kmotor, aký si ty múdry," zasmeje sa Barina, strčí
+ruku do vrecka, vytiahne za hrsť dukátov hovoriac: „Nuž, kmotor, a toto
+je čo? Či sú to staré, zaprášené chartabianky? Či je to vosk, he?"
+
+Matiášovi sa oči zaiskrili, vlasy sa mu naježili, spodná gamba odvisla,
+a to všetko nad videním toľko žltého peňazstva, koľko odrazu vo svojom
+živote nikdy nevidel.
+
+Barina zbadal kmotrovu premenu a svoju prevahu nad ním, i poznamenal:
+„Hja, ale čo, či budeme o takých veciach hovoriť triezvi ako blázni? ---
+No to na môj dušu nestojí zato!" Prikročil k obloku a zavolal: „Janko,
+krstný, poď sem!" Keď chlapec vstúpil, dal mu dukát a povedal: „Choď k
+Icíkovi, aby poslal, ale hneď, za polovicu vína a za polovicu aby
+škvaril a pražil, čo len má v dome --- sto striel sa do jeho židovskej
+matere!"
+
+Matiáš ale dupol nohou a oboril sa na chlapca: „Nuž, ty mamľas, či
+neznáš dať páčku pánu krstnému a tuto báčikovi?"
+
+Chlapec urobil, ako mu otec kázal, tento ale ešte nebol spokojný i
+spytoval sa ho: „Nuž a čo si nohavice neoblečieš?"
+
+„Nuž ktoré?" plačlivo sa spýta chlapec.
+
+„Nuž tie červené!"
+
+„Nuž keď ich nemám."
+
+„Ty blázon, ale budeš mať." Pri tomto múdrom otcovskom napomenutí
+chlapec zmizol za dverami ako strela.
+
+Za chvíľu bolo tu víno v krčahoch, ale spolu sa objavil aj zvedavý židák
+v okne a opretý lakťami na okno, hlavu strkal dnuká, očami veslujúc po
+prítomných: „Dobrý deň, pán urodzenký, dobrý deň, vaša milosť, máte
+hostí, mnoho hostí, veľkých pánov, bohatých pánov, čo zlatom platia ---
+to ani pán vicišpán neplatí ---"
+
+Bol by žid i ďalej hovoril, ale tu Matiáš dupol nohou i skríkol: „Ideš
+žide, odkiaľs\' prišiel, sto striel sa ti v materi, lebo ťa zastrelím
+ako vrabca."
+
+Sotva počul Icík o streľbe a uzrel, ako Matiáš na stenu za puškou čiaha,
+odletel od strachu na päť siah, ukázal päty a prášil, akoby ho hnal.
+
+Páni bratia sa rozosmiali, až to bola milá vec; Matiáš hovoril, že ho
+nemôže naviesť, aby si na koňa sadol, ale že mu musí za jeho bezočivosť
+nos utrieť --- i nalieval do pohárikov, ale Barina poznamenal: „Daj mu
+ty pokoj, kmotríčko, čo on môže zato, že mu z očí prišlo, keď zahliadol
+dukát; nuž ale teraz na zdravie, Matiáško!" i pozeral tomuto pekne do
+očí, hladkal ho po brade, mal sa okolo neho ako okolo milej, vypil
+pohárik dúškom i pokračoval: „Vidíš, Matiáško, však sme starí kamaráti a
+takých, na môj hriešnu dušu, nikdy viac nebude --- a dám ti sto dukátov,
+len so mnou zavolaj: „Vivat Potocký, prvý vicišpán!" ---a potom, hja,
+nech sa potom so svetom robí, čo sa mu len páči!"
+
+Matiáš pozeral zvedavo na kmotra, tento ale nečakal odpoveď, čiahol do
+vačku, vyčítal na stôl sto dukátov, vzal zas pohár do ruky i vyvolal:
+„Kmotríčko môj drahý, toto všetko tvoje, vivat Potocký!"
+
+Všetci traja zavolali „Vivat Potocký!" a podali si ruky. Domáci pán
+zhrnul dukáty a položil ich do almárie, potom odišiel von, ako hovoril,
+čeliadku obzrieť --- medzitým ale naskočil k židovi skvostnejšiu večeru
+rozkázať.
+
+Orieška, nie súc v takých blízkych zväzkoch s Matiášom, najviac mlčal
+pri poslednom vyjednávaní, teraz ale krútil hlavou i hovoril: „Čudné,
+ako sa to skoro zvrtlo! Už nepochybujem, že vyhráme, len by som rád
+vedel, v čej hlave sa to vyrojilo?"
+
+„Pán brat, ja tiež neviem," odpovedá Barina, „ale sa mi to všetko tak
+zdá, že to starý Ondrej Levický vyvaril! To vám je, prosím vás,
+prefíkaná hlava, má za ušami a dobre vie, že keď nemáš penez, pred
+muziku nelez --- no však je starý advokát."
+
+Bola teda večera, akú len bolo možno v chudobnej zemianskej dedine
+nachytro zhotoviť; bo sa uhorský zeman nerád dá zahanbiť, a hoc je
+chudobný, ale priateľ dobrý, Matiáš povedal, že nie peniazom kvôli
+pristupuje k Potockého strane, lebo že si za tie dušu nepredá, ale že sa
+Adam spojil s grófom, ktorý ani za hodné nedrží uponížiť sa do jeho
+chudobného príbytku, bojac sa, že by hádam jeho starej „pani sestra"
+povedať musel. --- Dobrá výhovorka stojí groš. Barina ho vybozkával,
+vystískal i povedal: „Len teraz je naše kmotrovstvo zavŕšené, teraz sme,
+chvalabohu, vo všetkom spolu a nič nás nerozlúči, len smrť. Teraz ešte
+Matiáško takto: Keď sa nám podarí zvíťaziť, bude ti Potocký i po
+reštavrácii; uznalý a dá ti ešte raz toľko; abys\' ale mal s čím
+zachádzať, tu máš dvesto zlatých k napomoženiu chudobnejších, čo k nám
+pristanú, dvesto zlatých zas, abys\' ich mohol tu i tu počastovať. No
+ale nač ti hovoriť? Však si ty starý vrabec a rozumieš tomu lepšie ako
+ja."
+
+S tým sa rozišli.
+
+Na druhý deň išlo do úst ako pušný prach po dedine, že boli tu
+potockovci a nesmierne sumy zložili u Matiáša na prekúpenie
+bešeňovskovcov; židák Icík, chtiac sa pánom zalíškať a ich k sebe
+privábiť, stál, čapicu na hlave, fajku v ústach, celý deň pred hostincom
+a zastavil každého okolo idúceho hovoriac: „A viete, páni urodzení, čo
+sa tu včera stalo? Velkí páni, bohatí páni, tu boli u pána Matiáša,
+zlatom platili -- moja Rífka bude z toho tiež mať pekné náušnice."
+
+Najviac sa nad touto správou zastavovali zemianky hnevajúc sa, že
+Icíkova žena, ani nevie ako, príde k zlatým náušniciam; a preto
+vypravovali mužom celú udalosť tak horlivo, že vyrástla pomaly na
+veľkého velikána, a vyhadzovali im na oči, že ich chudoba len odtiaľ
+pochádza, že sa dajú skúpemu Adamovi za nosom vodiť, kdežto pri Potockom
+až hen židovky prichádzajú k zlatým náušniciam. Z toho sa, pravda, v
+nejednom dome obnovila domáca vojna a nejeden muž skočil dupkom na rovné
+nohy, zahrozil päsťou i zavolal: „Nedudriže, lebo vidíš, nech som dobrý,
+dostaneš --- ty sa tomu rozumieš ako koza petržlenu --- a teda mlč!"
+buchol dvermi, vyšiel z príbytku a šiel hľadať spoločníkov.
+
+Pred pánom Danielom Bešeňovským sa to všetko schádzalo. Tu si páni
+posadali na preddomie, zapálili fajky a hovorili --- o čom? --- o
+včerajšej udalosti i krútili hlavami.
+
+Vtom príde Matiáš, a Daniel naňho zďaleka volá: „Pod sem, Matiáško, pod
+a povedz nám, čo to za dukáty lietajú z tvojho domu po dedine?" „Veď len
+počkajte, kým si človek aspoň oddýchne," odpovedá Matiáš, „nuž či je to
+čo zlého, keď si kmotor kmotra navštívi? Nuž a či je to hriech, keď
+kmotor kmotra učastuje?"
+
+„Len povedz, Matiáško," znova prevezme reč Daniel, „čo ste to spolu
+figľovali? Čo chcú potockovci v Bešeňovej?"
+
+„Či by to čo také čudné bolo, keby nás potockovci na svoju stránku
+získať chceli?" odpovedá Matiáš. „Či je to čo nového? Či my to tiež
+nerobíme, a to jeden každý, kde môžeme?"
+
+Daniel zakrútil hlavou, odkašľal i povedal: „Matiáš, Matiáš, tys\' pohol
+rozumom ako krava chvostom; ty, ako vidím, s potockovcami do jedného
+mecha duješ --- to sa mi nepáči."
+
+„No, no, no, však je to nie toľko vo veci, ako si myslíš," odpovedá
+Matiáš, „ale predsa by ma to tešilo, už len zo zvedavosti, kebys\' takto
+zvolal: Vivat Potocký!"
+
+„Ja to zavolať?" vyskočiac povedal Daniel „Radšej by si dal jazyk von
+tylom vytiahnuť, akoby som mal také hriešne slovo niekedy vypovedať."
+
+„Ale nože, no, zavolaj, prosím ťa Danielko," hovoril so smiechom Matiáš,
+„dáme ten okamih, v ktorom si sa tak premohol, uhľom do komína zapísať."
+
+„Ba nehnevaj ho," vypovie Jonáš Bešeňovský, „lebo nás máš všetkých na
+krku."
+
+„Ale, Jonáško, braček," povie tomuto Matiáš, „odmeň ho ty a vyvolaj to
+ty zaňho!"
+
+„Ja ani za celý svet! --- A ty, kmotra líška, mlč," odpovie Jonáš. „Ja
+zavolať vivat Potocký? Ja? Ale ja? Nuž a za čože ma ty držíš?"
+Podopretými rukami na kĺby pokračuje: „Nuž a ja Potockému? Nuž ale ja?
+--- No to je už do zbláznenia! Ja človeku, čo je pýcha na ulici a handry
+v truhlici; ja človeku, čo má hore nosom dierky a vrabce pod klobúkom?
+Či sa ti ten pozhovára s chudobným človekom, ako napríklad náš pán Adam,
+čo sa nikdy nezabúda spýtať, ako sa máva moja stará a ju nikdy nezabudne
+pozdravovať i s celou famíliou. To je chlebový pán, takých ja rád
+vidím."
+
+„A potom," prevezme reč Daniel, ,,už len také žarty sú hriech oproti
+vlastnej krvi, to je proditio sanguinis#POZ#32;(lat.) Zrada na krvi,
+rode.#-POZ# -- vieš, Matiáš -- a neúcta i pánu Adamovi, i celej famílii
+preukázaná.
+
+Komu česť, tomu česť, pastierovi trúba; a čo psovi, to psovi," prerečie
+Matiáš, „ja tiež ani slovíčkom neubližujem pánu Adamovi; ale v tom mi
+dáte všetci za pravdu, že to ani pre nás, ani pre stolicu nie je dobré
+pridŕžať sa dakoho len preto, že sa Bešeňovským volá. Sám pánboh zložil
+všetku moc do rúk zemianstva, aby sa staralo o dobro krajiny, a hľa, pre
+samé meno nedajbože napred!"
+
+„Matiáš, ty čertom páchneš," zavolá, zmraštiac čelo Daniel, „a iste
+vyjdeš na psí tridsiatok s takými bohaprázdnymi úmyslami! Keď ti tam
+zasmažili, nech ti to na duši zhorí --- ja ti to nezávidím, nech ťa čert
+vezme --- ale aspoň sa nedriap ako koza na šíp, zvádzať našu slávnu
+famíliu, lebo tu vyhráš z koláča dieru. --- A teraz iď nám z očí!" Vtom
+sa obrátil a všetci prítomní zavolali: „Vivat Daniel!" v ktorých slovách
+bolo obsiahnuté celé zmýšľanie Bešeňovskovcov
+
+Matiáš sa potichu utiahol, mrdol plecom, a ani jediný vlas mu preto
+neošedivel. V nasledujúcich dňoch chodil po menších dedinách vediac, že
+uhlie na jednej hromade skoro neuhasne, ale skôr tam, kde je roztratené,
+a darilo sa mu jeho remesielce podľa najlepšej vôle.
+
+# VI
+
+Ale nie tak, ako v Bešeňovej, vodilo sa pánu Adamovi. Štefan Levický mu
+povedal, že mu strýc Ondrej na jeho slová odpovedal, aby si pán vicišpán
+svoje veci v Leviciach sám usporiadal. Dal teda do kočiara zapriahnuť
+štyri vrané kone, ku kočišovi si sadol hajdúch jeden, za kočiarom stál
+druhý s červeným čákovom a kohútím forgovom na hlave, majúc novú
+vyšnurovanú mentiečku na chrbte, dolu dolománom šabľu pri boku, ostrohy
+na čižmách a taršulu visiacu po päty. Do kočiara si sadol pán vicišpán
+Adam Bešeňovský a pán slúžny Štefan Levický.
+
+Bolo to pekne---krásne v Uhorskej krajine. Keď .sa na vozíku viezol pán
+prísažný, to každý vyhýbal z cesty, keď dva ako šarkany bystré kone
+kočiar ťahali a hajdúch pri kočišovi sedel --- to ľudia zďaleka snímali
+klobúky, bo to bol pán slúžno---dvorský; keď ale kopytami zadupotali
+štyri kone na ulici, prskajúc, krky zalamujúc, letiac ako vietor, a
+hajdúch vystrojený ako panenka sedel na baku alebo i druhý za kočiarom
+stál --- to vybiehali matky z domov a ukazovali prstom dietkam svojim:
+„Vidíš, dieťa moje? To sú pán vicišpán!"
+
+V takej sláve sa viezol i pán Adam Bešeňovský do Levíc.
+
+V Leviciach bola dnes celá slávna família na nohách. Chýrečný advokát
+pán Ondrej Levický nebol síce direktorom slávnej famílie Levickovcov,
+lebo advokát vraj si nesmie dať úradmi ruky zaviazať, ale bol predsa
+hlavou famílie, ktorou sa každý pýšil vediac, čo si ten do hlavy vezme,
+to i urobiť musí. Celá família sa pred jeho múdrosťou klonila, a tak i
+dnes sa páni bratia uňho zhromaždili.
+
+Rokovalo sa tu o nastávajúcej reštavrácii. Ondrej si postavil okuliare
+na nos a zhováral sa s čelnejšími členmi famílie, i vysvetľoval im, do
+akého zlého chýru upadla ich celá família po celej Uhorskej krajine len
+zato, že drží s Adamom Bešeňovským, i skončil svoje reči takto: „Viete,
+že som nikdy nepachtil za nijakým úradom, a ani teraz ho mať nechcem
+.--- lebo načo zo seba na staré dni robiť blázna? Ale viete, mne všetko
+záleží na našej slávnej famílii, lebo ma to predsa len mrzí, keď sotva
+povieš, žes\' Levický, už ľudia na teba prstom ukazujú. A viete tiež, čo
+sa mi onehdy u Bešeňovského stalo."
+
+„Vieme, pán brat, vieme," zvolali smutne všetci prítomní.
+
+„Nuž teda vidíte, povedal mi ten Adamov gróf, že som ja vraj rechtor." I
+zvesil hlavu.
+
+Pri týchto slovách boli prítomní ako hromom omámení a hrôzou preniknutí
+nad touto, ich najlepšej hlave a ich pýche urobenou potupou.
+
+Jeden zavolal: „Ale veď vám je ten nie hoden ani do šľapaje vstúpiť."
+
+„Páni bratia," pokračoval Ondrej, „ja nepotupujem nijaký stav a vážim si
+nášho rechtora veľmi, lebo je statočný človek; a čože by bolo z našich
+dietok, keby sme ho nemali? --- A potom ten premilený gróf ani nevie,
+koľko zemianskych duší sa v tom vážnom stave nachádza, nevie, že v
+stolici traja Levickovci dietky vyučujú; a tak keď urazí rechtora, urazí
+i Levického, keď potupí rechtora, potupí i Levického."
+
+„Tak je, tak, pán brat," vykríkli prítomní, „a dostane od nás fiškálsku
+akciu!"#POZ#33;Právnický protest.#-POZ#
+
+,,Myslím teda," hovoril ďalej Ondrej, ,,aby sme povedali Adamovi, že len
+tak s ním budeme držať, ak upustí od grófa, keď ale nie, že to budeme
+pokladať za urazenie našej cti a našej famílie."
+
+„Tak je, tak," zvolali zas prítomní, „nech nedrží s ľuďmi, čo si z
+Levickovcov nič nerobia!"
+
+„A tak, páni bratia," dokončieval Ondrej, „povedzte i druhým, ako sa
+držať majú --- i pani sestrám; lebo kde muž dôjsť nemôže, tam dôjde žena
+--- no však rozumiete."
+
+Keď pán vicišpán Adam Bešeňovský došiel do Levíc, už bola celá dedina
+plná, ako si on Levickovcov neváži, ako s nimi zaobchádza sťa s planými
+hruškami a ako sa z toho teší, keď kto pánu Ondrejovi ani jeho titul
+nedá. To boli, pravda, hrozné veci a pomútili hlavy malých i veľkých,
+starých i mladých.
+
+V dedine nik nevychádzal naproti predtým takému vzácnemu hosťovi.
+
+I zastal kočiar pred Ondrejovým domom; hajdúch skočil, otvoril dvercia
+na kočiari a pomáhal pánom dolu. Ondrej bol teraz kohút na svojom
+smetisku a tak vyšiel von privítať hostí. Pán Adam ho bozkal, usmieval
+sa mu do očí a príduc do izby, posadil sa i hovoril: ..Všade dobre, doma
+najlepšie, a u vás som predsa ako doma, pán švagor!"
+
+„Teší ma, vaša milosť, teší," odpovie Ondrej, „že ste sa predsa raz
+uponížili do môjho chudobného príbytku."
+
+„Čo hovoríte o uponížení, pán švagor?" prerečie Adam, „však sme rodina
+najbližšia na svete a k tomu viete, že sme len my ešte udržali stolicu
+od prevratov, a verím, že pokiaľ Bešeňovskovci s Levickovcami držať
+budú, zostaneme páni v stolici."
+
+„Pravdu máte, vaša milosť," odhovorí Ondrej, „pokým sa nám do stolice
+moľ nezaliahne, čo chudobných zemanov bez britvy oholí. Pokiaľ zostaneme
+medzi sebou a cudzích vysokých pánov si do košiara nepustíme ako vlkov,
+bude nám vždy dobre."
+
+Pomaly sa začali páni bratia schádzať, že ich tam naostatok bolo ako
+myší. Pán Adam pri príchode každého vstal, objal a bozkal na obe strany
+a spytoval sa, ako sa pán brat máva i s pani sestrou i s domácimi.
+Nejeden začal hovoriť o svojej biede, o chorobe ženy a ako predošlej
+zimy už mal utratiť synáčika, ale ako pánboh predsa pomohol z núdze.
+
+„Chválapánubohu," odpovedal na také reči pán Adam, „škoda by to bola,
+lebo čo je dobré, nech sa chová, a ja úfam, že keď dorastie, bude i mne
+takým dobrým priateľom ako dosiaľ celá slávna família Levickovcov, do
+ktorej ďalšej lásky sa teraz spolu i s grófom Želinským porúčam a
+rekomandujem."#POZ#34;(z lat.) Odporúčať, porúčať sa#-POZ# Tu urobil
+hlbokú poklonu a zatočil rukou dookola, aby si ani jeden z pánov bratov
+nemyslel, že ho nespozoroval.
+
+Levickovci však mlčali a pozerali na Ondreja, ktorý rukami na prsiach
+zloženými sa usmiechol, čo bolo znakom, že z celej rekomandácie nič byť
+nemá. A tak sa osmelil pán Martin Levický i vypovedal: „Vaša milosť pán
+vicišpán, všetko by to bolo dobre, ale nám sa ten váš gróf nepáči, čo
+prišiel po prvý raz do stolice, aby našim deťom chlieb odnímal."
+
+Pán Adam vytreštil na to oči, lebo na taký odpor nebol pripravený a
+vedel tiež, že mu už od spojenia s grófom odstúpiť viac nemožno; ale čo
+mal robiť? Bol prinútený ukázať sa tak, aby z toho urazenie ani pre
+grófa, ani pre Levickovcov nevyzeralo, a tak, skoro sa spamätajúc,
+povedal: „No, to bola múdra hlava, čo to tak navliekla! Ale by som nebol
+myslel, ako by pri tom Levickovci mohli zabudnúť, že v grófovi Želinskom
+nájdu len dobrého priateľa."
+
+„Dobrého priateľa?" zavolal zas pán Martin. „A či on nenadával pánu
+Ondrejovi do rechtorov? A či neurazil celú famíliu Levickovcov, z ktorej
+sú traja rechtori v stolici, keď na rechtoroch mlátil, akoby to bola
+Csákyho slama; a či sú tí nie tak zemania ako on? Keď vaša milosť nie,
+tak sa my sami musíme zastávať."
+
+„Nie je to tak, nie, páni bratia!" zvolal pán Adam. „Tak by ste nemali
+hovoriť, lebo ak ja i s grófom prepadnem, tak prepadnete i vy, Štefan
+tiež a Levickovci neprídu do úradu."
+
+„Spravodlivý sa vždy chleba naje," ohlásil sa :pán Ondrej, „odstúpim mu
+svoju chalupu, lebo i vo Viedni ľudia biedni. Teraz ale, vaša milosť pán
+vicišpán, urobme rečiam koniec. Ak odstúpite od grófa, máte Levickovcov
+za seba, ak nie --- potom vám za nič nestojím."
+
+Pán Adam zmŕštil tvár, pozrel po Ondrejovi milým okom i povedal:
+„Poradili ste sa rozumu, pán švagor, keď ste si to tak premysleli; lebo
+dobre viete, že mne viac od grófa odstúpiť nemožno. Ďakujem vám pekne za
+vaše priateľstvo! --- Vy ale, páni bratia, nedajte sa mýliť daromným
+rečiam, položte ruku na srdce a rozpamätajte sa, či je to spravodlivé,
+čo ste od toľko rokov zastávali; či ste sa vtedy mýlili a či sa teraz v
+jednom okamihu mýlite."
+
+Ondrej však už predtým dobre obrobil pánov bratov a upozornil ich na to,
+že všetko v stolici od nich závisí, a tak teraz jedenkrát z nich dva
+razy dýchal, tri razy naťahoval tvárou, aby z nej sama múdrosť, sama
+vzácnosť vyzerala; i zastal si teda pán Martin Levický napredok,
+pokrútil fúzom a odpovedal vicišpánovi:
+
+„Vaša milosť dobre vie, že Levickovci vždy na seba držali a každého z
+ich rodiny zastávali, lebo prvšia košeľa ako kabát; tak sme boli vždy s
+vašou milosťou, zato sme našu mienku ani nezapredali, ani vám
+neprisahali, čo vaša milosť chce, už či sa nám to páči, či nepáči, že
+vždy nasledovať budeme. A tak pokiaľ to stálo, postaviť sa za vás vždy
+sme boli hotoví; ale keď od nás žiadate, aby sme si sami bič plietli na
+vlastný chrbát a volili do úradov ľudí, ktorých ani nepoznáme, ani sa s
+nimi tak dôverne po našsky pozhovárať nemôžeme, tak pôjdeme ta, kde
+neodvrhujú našich synov, našu krv, naše priateľstvo, čo sa v našej
+stolici zrodilo, pod našimi očima vychovalo. Čo nás teda po grófovi? A
+keď ho nasilu mať chcete, teda --- vivat Potocký!"
+
+A celé zhromaždenie zavolalo: „Vivat Potocký!"
+
+Pán vicišpán bol odrazu i bledý ako smrť, i zelený ako túz, i svetlý ako
+šata; lebo to bolo neslýchané pohanenie v jeho prítomnosti zvolať na
+zdravie protivníka. Zobral sa však skoro, nepovediac ani slova, vzal
+klobúk, poklonil sa a mrmlajúc medzi zubami: „Proti jedu neni medu,"
+vyšiel von, sadol si so Štefanom Levickým, ktorého temer ani
+nepozoroval, na kočiar a uháňal von z dediny.
+
+Ale ako to už na svete býva, keď máš škodu, o posmech sa nestaraj, tak
+sa to stalo i pánu Adamovi. Sotva vychádzal z dediny, tu sa muzikanti na
+cestu postavili, hrajúc pred Adamovým kočiarom Potockého nôtu, a pani
+sestry z dediny s metlami a ohrablami vybiehali za kočiarom k veľkej
+radosti a kratochvíli mladého pokolenia, so smiechom sa za matkami
+hrnúceho; lebo iné je to, keď sa niečo nepríjemné prihodí chudobnému
+človeku, a zas iné, keď sa to isté stane vysokopostavenému.
+
+Pán Ondrej Levický však s veľkým uspokojením pozeral ponad okuliare na
+pánov bratov, ich hostil i hovoril: „Dobre to bolo, Martin! Koľko
+krajov, toľko obyčajov; a u Levickovcov taká obyčaj, že si nedajú nikomu
+brnkať popod nos. Nech zeman drží so zemanmi a nech sa s ľuďmi nevodí,
+čo sú mu nie rovní; a tak i Adam vyjde na mindžiare, bo koho boh chce
+potrestať, potresce ho na rozume." Medzitým čo Martin touto pochvalou na
+koňa posadený, očami ľúbo žmurkajúci, odpovedal: „Ako vedel, tak
+povedal!" ---vtedy pán Adam Bešeňovský, vo svojich citoch rozbúrený
+kázal kočišovi obrátiť k Bešeňovej.
+
+V Bešeňovej to zas ináč vyzeralo. Z okna prvého domu dediny bola
+vystavená biela zástava a na nej veľkými písmenami napísané: Vivat Adam
+Bešeňovský! Naproti ale druhá s nápisom: Bešeňová verná sama sebe. Ako
+to pán Adam uvidel a rozpamätal sa na Levice, slzy mu z očí vypadli, i
+povedal sám pre seba: „Krv je krv," a zosadol vo svojom dome. Ale
+sotvaže to zhliadli na konci dediny páni bratia, kričali: „Vivat Adam!"
+Po celej dedine i na dolnom i na hornom konci, i na dolnej i na hornej i
+v prostrednej Bešeňovej ozývalo sa z úst len jedno slovo „vivat Adam", a
+každý, kto to slovo vyvolal, postrčil si čapicu alebo klobúk z jedného
+ucha na druhé, vzdychol si a prsia sa mu rozšírili v povedomí, že
+vyvolal pravdivé slovo a že on je ten, čo pravdu a dobro stolice bráni.
+Pritom sa celá slávna família hýbala k pánu Adamovi a Cigán tisol husle
+bradou, až jačali, že sa to len tak rozliehalo, a barbora hundrala,
+akoby to nielen ľudí, ale aj skaly malo pohnúť k účastenstvu.
+
+A keď sa tak páni bratia pred Adamovým domom zišli, tu zarezal Cigán
+Bešeňovskovcov nôtu a celé zhromaždenie zaspievalo:
+
+#POEZIA#
+
+#I#Dávno Bešeňová, dávno si snívala,#-I#
+
+#I#koho vicišpána by si voliť mala.#-I#
+
+#I#Načo tebe snívať? --- Hoc bys\' bola sama,#-I#
+
+#I#vyvoliť si môžeš, vyvoľ si Adama.#-I#
+
+#I#Adam je dobrý pán, on pred krivdou bráni,#-I#
+
+#I#rád ho vidí zeman, radi ho i páni.#-I#
+
+#I#Ty čo chceš, P otočky? Chceš ho zrútiť dolu?#-I#
+
+#I#Vytri si len zuby --- však sme my pospolu!#-I#
+
+#I#Neboj sa, Adamko, nič sa ti nestratí,#-I#
+
+#I#lebo komu pánboh, tomu všetci svätí.#-I#
+
+#-POEZIA#
+
+A pán Adam uradovaný vystúpil na okno. počúval celú nôtu, pozeral, ako
+mladé i staré vyhadzuje čiapky i klobúky dohora, poklonil sa i
+vypovedal: „Ďakujem, páni bratia, ďakujem!"
+
+Ohromné „vivat" ozvalo sa a celé zhromaždenie išlo dnu privítať pána
+vicišpána. Ten odpovedal pár priateľskými slovami, vybozkával každého po
+poriadku, ponúkal pánov bratov do bočných izieb, kde sa už popredku
+pripravené pečene kúrili na stole, sklenicami s vínom takmer celkom
+obsypanom, že sa až tak zhýbal pod nimi.
+
+Pán vicišpán sa však odrazu zastavil, pozeral po zhromaždených, hľadel,
+hľadel a dohľadieť sa nemohol. Odrazu sa spýtal: „A Matiáš, pán Matiáš
+kde?" Daniel sa poškrabal za uchom i odpovedal: „Či ho čert vie, kde ho
+psi jedia?"
+
+„Nič to zato," zavolá vtom Gašpar, „však príde na psa mráz a dožijeme
+sa, že ako robil, tak sa mal; čertu slúžil, čert ho vzal! Zato ale
+Bešeňovania dajú i život za vás, a bez jednej lastovičky bude leto."
+
+„Ale veď tu v mojom mene vás mal Matiáš prijímať," prehovoril so
+začudovaním vicišpán.
+
+„No pekný to vtáčik," odvetil Daniel, „a vy ste, vaša milosť, zverili na
+psa slaninu a dali ste vašu vec čertovi na budzogáň."
+
+„Ej, bolo by to, páni bratia," zakrútiac hlavou, prerečie vicišpán, „to
+nemôže tak byť, ako vravíte, už či tak, či tak, Gašparko, zájdite len
+preňho, však uvidíme, na čom stojíme." A vtom sprevádzal pánov bratov do
+druhej izby k naloženým stolom.
+
+Matiáš sa práve, príduc z výletu do susedných dedín domov, preobliekol,
+vypočul Gašpara, pozrel naň bokom, zamrmlal popod nos: ,,Keď mu čert na
+jazyku sedí, vtedy po mňa posiela," a vstanúc, kázal sa posadiť
+príchodziemu, sám však obliekal najlepšiu, akú mal kurtku, zatisol
+okrúhly klobúk na čelo a premýšľal, čo asi Adam povie, uberal sa v takom
+dobrom rozmare akoby sa nič medzi nim a vicišpánom nebolo prihodilo, do
+zhromaždenia slávnej famílie, lebo si dobre uvedomoval, že Adam vie
+oceniť i jeho náchylnosť i nepriateľstvo.
+
+U pána Adama bolo veselo. Páni bratia jedli, pili, kričali, verili sa,
+že sa skôr nebo na zem zrúti, ako oni od svojej vlastnej krvi odstúpia;
+Cigán húdol, hajdúsi a mládenci brnkali miskami a sklenicami a pán
+vicišpán bol ako živé striebro, chodiac od jedného k druhému, stískal
+ruky, bozkával novopríchodzích, najmä zo susedných dedín, a mal sa okolo
+každého, už či to bol pán, čo sa na štyroch vozil, a či chudák, čo sa od
+reštavrácie do reštavrácie postiť musel.
+
+Vtom vstúpil Matiáš. Pán Adam sa usmial oproti nemu, poklonil sa,
+pobozkal ho i vyriekol: „No, len vy ste ešte, pán brat, tu chýbali; teší
+ma, že sme vás predsa doma zastihli a že ste predsa prišli."
+
+„Hja, vaša milosť," odvetí Matiáš, „kde sa dobre vodí, ta sa rado
+chodí."
+
+„No, teší ma," prerečie vicišpán, „ale mal by som sa čosi pozhovárať s
+vami --- odpustite, páni bratia, na chvíľku sa musím odstrániť."
+
+„Neverte mu, vaša milosť," vstanúc do ucha mu povie polohlasne duseným
+hlasom Daniel, „ten je čertom podšitý!"
+
+Vicišpán sa poklonil a odišiel s Matiášom do bočnej izby.
+
+Páni bratia krútili hlavami, lebo im nešlo do hlavy, že vicišpán viac
+dôveruje tomu, čo nezaslúžil, než im, až si pán Daniel obľahčil prsia,
+čo na nich ako centy ležalo, v slovách: „To mi už do hlavy nejde! Ja som
+sa nazdal, že sa mu dostane -- a teraz? -- Nie -- to nestojí zato byť
+statočným človekom."
+
+„No," povie na to rozdráždený pán Miško, „uvidíte, že sa ešte spolu
+skmotria, lebo šelma všade dobre prejde."
+
+,,Veď ja už nedbám," odpovie Daniel, „keby aspoň len vicišpán pomyslel,
+že viacej ľudí viacej vidí."
+
+Ale vicišpán lepšie poznal svojich ľudí a chtiac protivníkov získať,
+nikdy nenarážal na ich skutky; lebo taký je raz človek, že sa cíti byť
+zaviazaný i svoje nepravé kroky zastávať, keď mu ich druhý na oči
+vyhadzuje. Tak i teraz, ale celkom tichým priateľským hlasom, ruku
+hosťovi na plece položiac, hovoril: ,,Matiáško, čo vás k tomu priviedlo,
+aby ste odo mňa bočili?"
+
+„Nuž, vaša milosť, keď vy so mnou," odpovie Matiáš, „tak dôverne
+hovoríte, odpoviem vám aj ja dôverne. Viete, že sa hlad šibenice nebojí,
+a u mňa, už neviem prečo, všetko vychádzalo na mizinu. Myslel som si, že
+kto ráno vstáva, tomu pánboh dáva, vstával som, robil som, a predsa mi
+to všetko išlo ako v lete na saniach; a viete zas, že nešťastiu málo
+treba, tak i mne tu vyhorela stodola, tu sa mi vlámali zlodeji do
+komory, tu mi voda pole pobrala, takže dlžôbka za dlžôbkou rástla, a
+pomyslite si --- práve ma sedliak trápil, aby som mu vrátil dlžné, keď
+prišli ku mne ľudia z Potockého stránky a zachovali ma od hanby. Nuž
+pomyslel som si: Sťa ako nič nemať --- nuž veru som pomoc prijal, lebo
+dobrý je chlieb, keď niet koláčov."
+
+„Ale, prepánaboha, čo ste mi to nepovedali?" horlivo vyvolá vicišpán.
+„Ja som sa vždy nazdal, že vám je veľmi dobre na svete."
+
+„Hja, tomu je dobre, koho niet!"
+
+,,A potom som sa nazdal, že som vám dosť dal, keď som vašu obligáciu
+potrhal," pokračuje vicišpán.
+
+„Hja, vaša milosť, dosť je, keď bijú."
+
+„Ale povedzte mi len tak dôverne, Matiáško," pokračuje vicišpán, „čo vám
+asi dali potockovci, keď ste so mnou neboli spokojný?"
+
+„Hja, vaša milosť," bola odpoveď, „nestojí to tiež zato. Nuž sto dukátov
+a po reštavrácii zas toľko, ak Potocký zvíťazí, a to je toľko ako psovi
+mucha."
+
+Vicišpán si vzdychol, bolo mu ťažko na srdci, keď o dukátoch počul, a k
+tomu taký ľahký spôsob o nich hovorenia, akoby ich ľudia na ceste alebo
+na deravom moste nachádzali, z čoho tiež, a to veľmi rozumne uzavieral,
+že Matiáša, ak ho chce zas na svoju stranu získať, hocakou špetou
+neodbaví. Ale čo bolo robiť? Držanie sa Levickovcov zadalo mu hrozný
+úder, odpadnutie Matiášovo vzbudilo v ňom zas tušenie, že najvýbornejší
+vábnici, kolompoši, čo vedia spolu držať celú stránku, od neho
+odstupujú, a že sa kolesá rozsypú, ak sa nenamastia. Či chcel teda, či
+nie, musel s farbou von a ešte väčšmi s turáčikmi! Pomädlil si teda
+čelo, čiahol do vačku a vyriekol: „Dobre teda, Matiáško, keď ste taký
+potrebný --- no, však ani ja nemám srdce zo skaly --- ja síce pri sebe
+dukáty nemám --- ale tu máte tisícku, čo práve toľko stojí ako dvesto
+dukátov, a ja ani nečakám, či vyhráme, či nie --- však kde je
+Bešeňovský, tam je víťazstvo isté!"
+
+Ako Matiáš prvý raz v živote tisícku uhliadol, vyceril zuby ak vlk,
+vytreštil oči ako jazvec, bo ani vlastným očiam neveril, že naňho odrazu
+zo všetkých strán tak prší požehnanie, vidiaci však, že vicišpán
+nežartuje a tisícku len ďalej podáva, čiahol po nej i zvolal: „Tak si,
+vaša milosť, i dom pokryjem, i stodolu vystavím, i dačo dlžôb splatím
+--- a len vás o dvoje prosím: Po prvé, aby ste mi to na drobné
+premenili! a potom sám pred slávnou famíliou vyriekli, že som ja na vaše
+slovo zbližoval potockovcom, aby som skúsil, kto je verný, kto nie; lebo
+by mi ináčej páni bratia neverili, hoc by som im sto ráz povedal, že
+chyba nič neplatí."
+
+„Dobre, Matiáško," odpovedal usmejúc sa vicišpán, „urobím vám všetko
+kvôli, ale sa bojím, že vás potockovci prenasledovať budú, ak sa
+dozvedia, že ste si z nich len bláznov robili za ich vlastné peniaze."
+
+„Hja, vaša milosť, nechajte vy vodu bežať a kamene ležať, lebo vidíte
+--- kto sa hnevá, nech sa o zem hodí. Z toho si ja nič nerobím, hnevu sa
+nebojím, o lásku nestojím, a kto sa chce biť, musí tam byť."
+
+Vicišpán mu stisol ruku a odišiel s ním medzi druhých hostí usmievajúc
+sa.
+
+Tu bolo veľmi živo. Vravot, brnk pohárikov, vivaty, pesničky; lebo si to
+u nás každý myslí, keď do dobrej vôle príde, čo je v piesni, nech sa
+kliesni. A tak práve dokončili tú pesničku:
+
+#POEZIA#
+
+#I#Sedí káčer na doline,#-I#
+
+#I#šije boty Kataríne atď.,#-I#
+
+#-POEZIA#
+
+po ktorej nasledovala zas tá pekná roztomilá nôta:
+
+#POEZIA#
+
+#I#Dážď pršal, mrholilo,#-I#
+
+#I#cigánča sa narodilo,#-I#
+
+#I#Cigáni sa radovali,#-I#
+
+#I#že bol chlapec kučeravý.#-I#
+
+#-POEZIA#
+
+Že medzi každou „Dávno Bešeňová" ozývať sa musela, rozumie sa samo
+sebou. Len čo však vstúpil do izby vicišpán, tu sa zdvihlo sto rúk
+dohora, pravda, nie prázdnych, poháriky v nich zaštrngali a ohromné
+„vivat" sa ozvalo. Potom však skočilo pár zemanov, vyzdvihlo pána
+vicišpána dohora, a tu bys\' len bol videl tie kvitnúce tváre, čo sa mu
+oproti usmievali, tie ruky, čo sa po ňom, akoby na objatie načahovali;
+tu bys\' len bol počul, ako to slovo „vivat" znie, keď sa, zo srdca
+idúc, zo sto hrdiel ozýva. Pán vicišpán ďakoval napravo i naľavo, dal sa
+nosiť po izbe, ba i po dvore, kde sa zabávali a hostili iní páni,
+nemajúci už v dome miesta.
+
+Len pán Daniel krútil hlavou a bol ako na uhlí, kým vicišpán dolu
+nezostúpil; lebo videl, ako ho Matiáš všadiaľ nosí a ustavične vyvoláva
+„vivat Adam", i priplichtil sa k vicišpánovi a vypovedal: „Ale, vaša
+milosť domine spectabilis, čo to robíte? Teda vás Matiáš musí dvíhať?
+--- Nemáte statočných ľudí? --- Však je ten až po krky v saku Potockého
+zapletený --- veru vám ten olovo preleje."
+
+„Nič to zato, že je blato, príde vietor, vyfúka to," odpovie vicišpán,
+„lebo na konci býva kyjak, a vidíte, páni bratia, chytrosť nie sú čary;
+pán Matiáš na svoje slovo hovoril tak s vami --- však viete, ako sa
+Levickovci zadržali --- a aj tí sú naša krv, chcel som sa teda skrz neho
+dozvedieť, či Levickovci i medzi nami negalamutia, a tak mám len čo
+ďakovať Matiášovi, a moje srdce večne vám, krvi mojej, rodine mojej
+drahej úprimnej prináleží." I vybozkával, slzy v očiach, Daniela. Tak sa
+to všetko Matiášovi prepieklo.
+
+# VII
+
+Ale ľudia darmo hovoria, že hriech na Uhriech a pokuta v Poľskej. Matiáš
+teraz vyvodil chýrečnejšie, kortešoval úsilnejšie než predtým, a celá
+família Bešeňovskovcov nevedela sa načudovať nad jeho rozumom; nik si
+nemohol odpustiť, že kedy len najmenším slovom hovoril oproti nemu.
+
+Ale sa predsa husté oblaky sťahovali nad Matiášovou hlavou. Ondrej
+Levický bol celý bez seba, nemôžuc sa dosť namrzieť, že jeho rada
+Potockému daná tak zle vypálila. Ani nejedol, ani nepil a o spaní ani
+reči nebolo, a len sedel, sedel zadumaný, zahrúžený sám v sebe, s hlavou
+o dlaň podopretou a rozmýšľal, ako chybu napraviť a svoje meno u
+Potockého očistiť.
+
+Keď za viac dní premýšľal a počul, ako Matiáš po dedinách s prospechom
+za Adama kortešuje, ba čo viac, až na hodinu cesty od Levíc zbližovať sa
+osmeľuje, tu vyskočil dohora, položil podlžkom prst na čelo, kýval
+hlavou, zamrmlal sám pre seba „dobre to bude", obliekol dlhý kaput,
+vtisol klobúk na hlavu, vzal palicu -- a nikomu ani slova nepovediac,
+išiel pešky rovno k pánu slúžnemu Jankovi Mikovigovi, čo bol pravou
+rukou Potockého a okrem toho človek mladý, veselý, ku každej
+kratochvíli, každému fígľu hotový.
+
+Pán slúžny bol našťastie doma a privítal príchodzieho s veľkou úctou,
+hoc sa mu ako nechcelo tvár v hromade držať, keď pozrel na chýrečný
+kaput a chýrečnejší klobúk. Ale Ondrej nemal čas pozorovať všetko, čo sa
+okolo neho dialo, a tak začal hneď po privítaní o svojom príchode
+vykladať.
+
+„Teda, domine spectabilis, takto je to. Zlé časy nastávajú na svete, už
+ani zeman zemanovi slovo nedrží, šiali ho, kde môže, vezme peniaze od
+statočných ľudí a --- ukáže im straku na kole; ba čo viac, pomyslite si,
+domine spectabilis, ešte sa im do očí vysmeje. ---
+Horrendum!#POZ#35;(lat.) Hrôza, hrozné!#-POZ# Horrendum!"
+
+„Aha, už viem, na čo narážate," skočí mu do reči slúžny, „ten Matiáš vás
+tak pomútil, ale pomyslite si, že u diabla ryby a koniec veci."
+
+Ondrej naňho pozrel zvedavým zrakom, pokrútil hlavou i povedal: „Za takú
+radu som ja k vám, domine spectabilis, neprišiel, to by som si bol mohol
+i doma domyslieť; ale pred reštavráciou netreba žartovať, už máme len
+desať dní času a Matiáš nám iste narobí šarapaty, že sa z nej
+nevykýchame, ak ho neškodným neurobíme. A tak, domine spectabilis, ja by
+som myslel takto..." pokračoval ďalej, ale ohliadnuc sa a vidiac, že
+ľudia popod oknom chodia, prestal hovoriť a len potichu pripomenul:
+„Neľúbilo by sa vám, domine spectabilis, do záhrady? Ja o takých veciach
+nerád hovorím, keby ma dakto mohol počuť -- a na slobodnom povetrí sa i
+lepšie dýcha, i lepšie vidí, kto prichádza, kto nie?"
+
+Odišli teda do záhrady. Domáci videli zďaleka, ako Ondrej rukami
+rozkladá a ako sa slúžny smeje a klobúk hneď z hlavy sníma, hneď ho na
+ňu kladie.
+
+Vtom prišli noví hostia, bol to Peter Barina so svojimi priateľmi, ktorý
+dobre vedel, že hosť a ryba na tretí deň smrdí, a tak nikde dlhšie u
+pánov svojej strany nezostával, ale po poriadku chodil od jedného k
+druhému; lebo by to hriech bol býval pred reštavráciou žiť na vlastný
+nakládok, a pánboh beztoho bohatším preto požehnal viac, aby sa
+chudobnejší u nich obživili. A práve dochádzal k slúžnemu a Ondrejovi,
+keď onen s hrozným smiechom vyvoláva: „Dobre, pán brat, dobre, výborne!
+--- múdra hlava ste, spoľahnite sa na mňa --- ja to všetko urobím."
+
+Privítal slúžny Barinu, ale hneď prvé jeho slovo bolo: „Či neviete, pán
+brat, kedy sa Matiáš Bešeňovský povezie cestou medzi Kalovom k
+Ropiciam?"
+
+„Ej, veru ma vítate, vaša milosť!" odpovie s nevrlosťou Barina, „zuby mi
+trhajte, dobre, len mi to meno nepripomínajte."
+
+„Teraz ale, Peterko, pán brat," pokračuje slúžny, „musíte počúvať.
+Dozveďte sa, kedy tou cestou pôjde Matiáš, odkážte mi to, vezmite si čím
+najsilnejších pánov bratov so sebou, rozožeňte druhých z Bešeňovského
+strany, a Matiáša nepustite z miesta ani za svet. Ale musíte mlčať ..."
+
+Minuli sa tri dni. Na ceste od Kalová do Ropíc vidieť pohybovať sa dlhý
+voz. Napredku visí veľká široká zástava a na nej nápis „Vivat Adam
+Bešeňovský!", vo voze asi desať ľudí, ktorým nohy viseli z voza po
+jednej čizme, a z ich hrdiel ozývala sa pesnička „Dávno Bešeňová, dávno
+si snívala" atď. a vivat jedno za druhým. Z druhej strany zas, od Ropíc,
+pohyboval sa druhý voz, celkom rovný prvému, ako čo by mu z oka vypadol,
+len s tým rozdielom, že na zástave bolo napísané „Vivat Potocký!" a
+ľudia na voze sediaci spievali: „Ráno nad Rašovom slniečko vychodí" atď.
+Zo všetkého toho vidieť, že to boli korteši Bešeňovského a Potockého, bo
+sa okrem toho aj tým označovali, že tamtí mali kohútie perá, títo zelené
+chvojky za klobúkom.
+
+Leteli vozy, zhliadnuc jeden druhého, oproti sebe, a ako tak ku sebe
+prišli, že oja temer kone poprepchýnali, zostali stáť a jeden z
+potockovcov zavolal: „Vystúp, sto striel ti v materi!"
+
+„Rozkáž si a urob si sám! Ebatta zaňát,#POZ#36;(maď.) Mater tvoju;
+zahrešenie.#-POZ# kapustu šalát, vystúp ty!" bola odpoveď z odpornej
+strany.
+
+„Vivat Potocký! Volaj: Vivat Potocký, lebo ti ináčej hnáty namastím, ty
+cifra plachta zástava!" volal zas z potockovcov tak horlivo, akoby svet
+od toho slova závisel.
+
+„Ja pán, ty pán; kto bude svine pásť? Ipse#POZ#37;(lat.) Sám.#-POZ# vtip
+se, za nos chyť se! Volaj ty: Vivat Bešeňovský!" bola odpoveď, „lebo az
+ebatta ---"
+
+„Vopchaj nos do blata," zavolal zas prvý z Potockého strany --- a začal
+obľúbenú pesničku, pričom celý zbor pomáhal:
+
+#POEZIA#
+
+#I#Bešeňovských hlava#-I#
+
+#I#s židom sa bozkáva,#-I#
+
+#I#keď mu židák do ruky#-I#
+
+#I#polgrajciar podáva#-I#
+
+#I#Čo židák poprosí,#-I#
+
+#I#v stolici byť mosí;#-I#
+
+#I#vicišpán židovi#-I#
+
+#I#za groš kožky nosí!#-I#
+
+#-POEZIA#
+
+Na tú pieseň hneď odpovedali bešeňovskovci druhou:
+
+#POEZIA#
+
+#I#Potocký je chasa,#-I#
+
+#I#nemá na funt mäsa,#-I#
+
+#I#so svojimi sváky#-I#
+
+#I#škrabe si zemiaky.#-I#
+
+#I#Preto muchy mláti#-I#
+
+#I#a pitve im hnáty;#-I#
+
+#I#a náš Adam veľký pán,#-I#
+
+#I#ten číta dukáty!#-I#
+
+#-POEZIA#
+
+Ale ako predný z potockovcov vstal, na sedadle sa vyzdvihol, vytrčil
+ľavú dlaň, stisol prsty pravice dovedna, akoby na lavicu peniaze
+vyčitoval a spieval „ten číta dukáty!" --- lež k tomu spevavo dodal:
+
+#POEZIA#
+
+#I#Vicišpán židovi#-I#
+
+#I#za groš kožky nosí --#-I#
+
+#-POEZIA#
+
+tak sa naježil a rozpálil rečník bešeňovskovcov, že vyvolal: „Prilož
+tomu bláznovi, prilož, ale po kotrbe, aby nekríval!"
+
+„Však ti ja priložím, ty mamľas s pekárskou papuľou, sto striel sa ti v
+materi!" odpovedal potockovec.
+
+„Psí hlas nejde do neba --- dolu s ním, dolu s ním; však lepší od neho
+už visia na šibenici!"
+
+„Ba keby som ja mohol z vás každého páru dvoch obesiť, to by som
+najradšej urobil," zvolá zas potockovec.
+
+Oči sa blýskali, ruky sa potrhovali pánom bratom, i z jednej i z druhej
+strany hore vstávajúcim; a keď potockovský zavolal „Dolu s ním, strhnite
+ho a zapíšte mu na kožu, aby nezabudol, že nemá popod nos brnkať!" tu sa
+zdvihla na zadnom sedadle postava Matiáša Bešeňovského, ako náčelníka,
+chtiaceho z výšiny prehliadnuť postavenie svojho i nepriateľského
+vojska. Vtom sa ale i na druhom voze vztýčila postava Petra Barinu,
+pozerajúceho, ako ďaleko už veci prišli.
+
+Ako Matiáš Barinu zočil, bolo mu nebárs\' okolo srdca, ale akokoľvek
+zavolal: „Kmotor, dobre žes\' tu, vrana vrane oko nevykole. Povedz
+svojim ľuďom, aby sa sušili, kde zmokli; lebo daromnica je to, keď kotol
+hrniec karhá --- a raz darmo je: I pes psu brat."
+
+„Kmotor lebo lotor," zavolá hnevlivo Barina, „kto spáva v peci, nazdá
+sa, že všetci. Nuž a ty mňa ešte chceš kmotrom prezývať? Ty kujon, ty
+lotor, čos\' Kristu Pánu ocot vylogal?" A tu päsťou zahroziac, vyvolal:
+„Chlapci, od hlavy ryba smrdí --- dolu s ním!" I poskákali z voza
+potockovci fokošmi ozbrojení, a udreli na bešeňovskovcov, ktorí, nemajúc
+nič v rukách, odpínali klanice z voza. Šimko Levický vyskočil na voz
+bešeňovských, strhol dolu zástavu, rozlámal pod kolesami jej tyčku,
+rozdriapal ju na franforce i rozhádzal do všetkých vetrov; Macko
+Hrabina, človek územčistý, s Barinom chytili Matiáša a stiahli ho z
+voza; druhí tĺkli ostatných bešeňovskovcov, až to bola radosť, pričom,
+pravda, dostal aj paholok, ktorý zanechal voz a utiekol i bokom volal:
+„No, nemaj s pány ako so psy!"
+
+l zvada i bitka nastala v jednom okamihu, pričom ale ku chvále
+bešeňovskovcov buď rečeno, ani jeden za celý svet nevyvolal „vivat
+Potocký," hoc by ho odporník bol zabil.
+
+Vtom v úplnom cvale blížil sa koč s hajdúchom pri kočišovi a s druhým
+zas nazadku, od Ropíc a na ňom pán slúžny Mikovič, ktorý zhliadnuc
+pranicu, rozkázal zastať i vyvolal: „Ticho, páni! Hanba biť sa zemanom,
+čo by mali tak ako bratia žiť medzi sebou!"
+
+„Pravdu máte, vaša milosť," zavolal Miško Bešeňovský, „však nás to vaši
+ľudia prepadli ako zbojníci!"
+
+„Teda rozkazujem mocou svojho úradu, aby sa všetky zelené perá
+odstránili."
+
+Potockovci poskákali na voz a odstránili sa, ako čo by prášil.
+
+,,A aby sa vám ďalej nič nestalo," pokračoval slúžny, teda vás sám
+odvediem do Kalova." Bešeňovskovci posadali na voz a ubiehali i so
+slúžnym ku Kalovu. --- A všetko zmizlo, akoby sa tu nič nebolo stalo.
+
+Medzitým ale ani jedna, ani druhá strana nespozorovala, že jej náčelníci
+chýbali; tak ich celý ten výjav do ohňa priviedol, alebo radšej príchod
+slúžneho odrazu ochladil. Toto sa ale aj nevedomky stať mohlo, lebo
+Barina s Mackom Hrabinom, vidiac prichádzajúceho slúžneho, Matiáša do
+priekopy zvalili; a tak mu prsty hrdlo stiahli, že ani ceknúť nemohol a
+popustili mu ho, keď bol slúžny i s celou perepúťou pánbohvie v ktorom
+kúte sveta.
+
+Sotva sa však z priekopy dvíhať začali, tu znova zadupotali kone a
+tiahnu za sebou kočiar z bočnej cesty a cvalom leteli oproti nim s
+vetrom o preteky.
+
+Čudný to bol kočiar! I paholok, i pri ňom sediaci človek bol oblečený v
+takých šatách, ako hajdúsi nosia, lenže boli z nich šnúrky poodtrhávané,
+tvár mal čiernu, akoby ju uhľom zamaľovali alebo akoby černochovi
+prislúchala, na hlave ale miesto klobúka alebo čiapky sedel mu červený
+ručník, okolo slúch po žensky uviazaný. V zakrytom koči sedeli práve tak
+pripravení dvaja muži, každý s puškou---dupľovkou pri boku a pištoľou v
+ruke. Príduc k vstávajúcim z priekopy nepriateľom, zavolal ten, čo pri
+kočišovi sedel: „Stojte a poddajte sa!"
+
+A nečakajúc odpoveď, poskákali všetci dolu, zaviazali ručníkom Matiášovi
+i Petrovi oči, vhodili ich do kočiara, sadli si proti nim, natiahli
+kohútiky pištole a povedali: „Ak sa ty, alebo ty pohneš, hneď si syn
+smrti." Hrabinovi však kočiš privolal: „Ty choď domov a nevychádzaj z
+izby do bieleho rána, lebo ináčej ani nezvieš, kde sa podeješ."
+
+Hrabina vzal nohy na plecia a nezastavil sa iba doma, kde na druhý deň
+na začudovanie svojho domu a celej dediny rozprával, že na vlastné oči
+videl, ako Matiáša i s Barinom čerti za živa uchvátili. Ale Matiáš a
+Barina sa utiahli do kúta koča, obapolne pozor dávali, čo sa okolo nich
+robí, ale neosmelili sa šatku z očí strhnúť. Nevideli nič, nepočuli nič,
+len dych svojich sprievodcov, a po hýbaní koča zbadali, že nie sú na
+ceste, ale že, idú sčiastky po pašienkach, sčiastky po strniskách, bo
+kolesá viazli a nijaký rachot nevydávali; okrem toho sa voz musel často
+okolo krútiť, bo im vietor z rozličných strán dúchal do tváre.
+
+I keď sa tak asi dve hodiny vozili, odrazu kočiar zastal. Muži
+sprievodcovia poskákali dolu; jeden z nich zavolal: „Sem sa z baku!
+Držte pištole natiahnuté. Ak ktorý z nich len cekne, vrazte mu guľu do
+čela!" --- Matiáš pocítil, že to nie žart, ale tým väčšmi sa zatriasol,
+keď ho ten istý, príduc k nemu, za rameno lapil a z koča strhol,
+nakrátko povediac „dolu!", čo sa, pravda, i s Barinom stalo; potom ale
+ho viedol dolu schodmi do akejsi neznámej priepasti, zaklopal tri razy
+na dvere, ktoré sa na tento znak otvorili, a mykol ním, akoby ho chcel
+do zeme zasadiť. Potom bez každého slova mu strhol šatku z očí a
+vystúpil von dverami.
+
+Matiášovi mráz prechádzal po kostiach, keď sa dookola pohliadal. Bol v
+podzemnej, čiernou látkou poobťahovanej palote, muži čierno odetí
+svietili pohrebnými fakľami; uprostred siene bol dlhý stôl čiernym
+súknom obtiahnutý, na ňom biblia a pri tejto kríž, pred ktorým umrlčia
+hlava a z oboch oblokov po jednej sviečke stálo. Za stolom sedel muž
+čierno oblečený na vysokom stolci; okolo stola na stoliciach z každej
+strany čierni muži s čiernymi tvárami. Napravo od predsedajúceho stál
+človek v čiernom kňazskom rúchu, naľavo druhý v červenom, o široký meč
+opretý, onen tvárou na čierno, tamten na červeno zafarbenou. Peter
+Barina stál pri Matiášovom boku, ale so zaviazanými očami.
+
+Dlho bolo ticho a Matiáš sa rozhľadel, ale čím viacej hľadel a čím viac
+druhí mlčali, tým viac sa mu začali kolená zalamovať, bo tušil
+nebezpečenstvo hádam aj života. Škoda ťa, Matiáško, že si tak vliezol do
+klepca!
+
+Naostatok po dlhom mlčaní vezme slovo predsedajúci, slovo, čo tak duto
+znelo ako z hrobu: „Matiáš Bešeňovský, stojíš pred súdom smrti z
+krivoprísažníctva obžalovaný, pred súdom, ktorý síce záleží z ľudí, ale
+ktorých najmilšie slovo je smrť. Matiáš Bešeňovský, či sa priznávaš ku
+krivoprísažníctvu?"
+
+„Nikdy som krivo neprisahal!" odpovedal utrápený Matiáš.
+
+„Ale si obžalovaný, žes\' viac ráz vieru zlomil," odpovedal predseda
+vážnym hlasom," a tak si vierolomca, čo je toľko ako krivoprísažník.
+Povedz na svedomie, koľko ráz si zrušil slovo --- ale nakrátko --- bo sú
+okamihy života tvojho zrátané!"
+
+„Raz som odstúpil od Bešeňovského k Potockému, a zas od tohoto k onomu,"
+bola odpoveď.
+
+„Teda sa sám priznávaš k svojej vine. Sudcovia, my sme tiež ľudia
+hriešni, pomodlime sa, aby nám boh hriechy odpustil --- a potom súďte,
+čo zaslúžil Matiáš Bešeňovský za previnenie svoje!"
+
+Sudcovia dlho mlčali, premýšľajúc sami v sebe a spytujúc svoje svedomie,
+až naostatok predsedník zavolal: „Sudcovia, čo zaslúži Matiáš Bešeňovský
+za svoje vierolomstvo?"
+
+A vážnym, dlhým, dutým hlasom ozvalo sa z pŕs zhromaždených: „Smrť!" ---
+„Matiáš Bešeňovský," zas sa ozve slovo predsedu, „počul si slovo smrť?
+Priprav dušu svoju na dlhú púť do večnosti! ---"
+
+Matiáš nevoľne padol na kolená a človek v kňazskom rúchu pristúpil k
+nemu a pomodlil sa s ním otčenáš. Predseda povedal: „Dali sme dušu bohu
+a telo prislúcha katovi."
+
+Zacengal.
+
+Sprievodca vstúpil do dverí a šatkou viazal oči Matiášovi, keď medzitým
+kat, takže to Matiáš zazrieť mohol, okolo jeho hrdla mečom brnkal. Tu
+zavolal Matiáš prenikavo: „Deti moje, deti moje!" smrteľným strachom
+predesený; lebo ako ľudia hovoria, strach je zlý.
+
+Tu prevzal slovo predseda: „Veľká je milosť u boha, zľutuje sa i nad
+tebou, Matiáš Bešeňovský, a obmäkčí srdce človekovo, ktoré si spomenie
+na tvoje úbohé dietky, a zmiluje sa tiež i nad tebou; ale tys\' človek
+zatvrdilý, si hriešnik veľký, ani z božích, ani z ľudských zákonov si
+nič nerobíš, a tak ti nemožno veriť. Teda či jesto dušičky na svete, čo
+by za teba dobre stála, čo by za teba prosila?"
+
+„Moje deti, moje deti vás prosia!" potiaci sa Matiáš zavolal.
+
+„Ja prosím zaňho! Však je môj kmotor a jeho deti sú moje deti," prerečie
+Barina, ktorý počul, hoc nevidel, čo sa robí, „ale len ak bude prisahať,
+že oproti potockovcom nikdy nič ani slovom ani skutkom nepodnikne, lebo
+ja, na môj hriešnu dušu, nikdy za inšieho nebudem, a nech toho parom
+vezme, kto je proti Potockému --- vivat!" doložil Barina, bo mu bolo
+slovo „vivat", keď vypovedal meno Potockého, na jazyk prirastené a jedno
+bez druhého sa ani myslieť nedalo.
+
+„Teda prijímaš návrh tohto človeka, čo za teba prosí, ktorého my
+nepoznáme a ktorého bez nášho rozkazu sem s tebou doviezli?"
+
+„Prijímam!" zavolal Matiáš a prisahal.
+
+„Ale pokuta za hriech: Tak tys\', Matiáš Bešeňovský, zhanobil česť
+zemiansku: čo zaslúži za to sudcovia?"
+
+Sudcovia zavolali jednohlasne: „Sto palíc! predsedník zazvonil; zo dverí
+vstúpili sprievodcovia Matiášovi, zrútili ho na zem a prikladali mu
+palicu jednu za druhou.
+
+Keď jedenásta padla, zavolal predsedník „dosť!" a začal hovoriť: „Tým ti
+je, Matiáš Bešeňovský, tiež zemianska česť odňatá! Že o tom rozprávať
+nebudeš, vieme; ale ak bys\' kedy prísahu danú zrušil, pamätaj, že pred
+súd náš prídeš, ani nebudeš vedieť kedy, a potom buď ti sám pánboh
+milostivý. Ty však, neznámy človeče," obrátiac sa k Barinovi, pokračuje
+predsedajúci, ,,čos\' zaňho dobre stál, nasleduj šľaky jeho, a keď len
+myšlienkou čo oproti svojej prísahe začne, zavolaj mu ,vykričím!\', nech
+ho tak to slovo na dnešný deň upomína a ho prenasleduje až do smrti."
+Vtom kývol a sprievodcovia zodvihli Matiáša zo zeme, zatiahli mu spolu i
+s Barinom, ktorý chudák nevedel, čo sa tu robí, ešte lepšie šatku na
+očiach, zakosílili ju, pritisli im klobúky na hlavu, vyviedli ich hore
+schodmi, vsadili ich do koča a uháňali s nimi napravo i naľavo, dovôkola
+i rovno, až tak čušky sa voziac, prišli na cestu a na miesto, kde sa
+ruvačka bešeňovskovcov s potockovcami stala, zosadili obidvoch dolu,
+odviazali im oči, poskákali do kočiara a bežali cvalom pánbohvie na
+ktorú stranu.
+
+Utrápenému Matiášovi nenapadlo ani najmenej vadiť sa s kmotrom a Barina
+pudom vlastným vedený, bez toho, že by vedel prečo, nespomínal ani
+slovom predošlú svoju trpkosť a kmotrovo pohanenie, ale vzal ho popod
+ruku a podporoval ho verne a spravodlivo, ako sa na statočných
+kmotrovcov svedčí, až kým nestretli prvý voz, čo sa im prípadkom naďabil
+a našťastie prislúchal Šimkovi Levickému, ktorý Barinu poslal hľadať.
+Barina si posadil kmotra pekne---rúče na voz, objal ho rukou okolo krku
+a rozprával mu celou cestou, ako to bolo, keď spolu na vohľady chodili,
+a to buď k jeho pochvale rečené, že toto len z dobrého srdca robil, aby
+kmotrove myšlienky na inú cestu obrátil.
+
+A tak Matiáš prikvitol domov, že sa nikto o jeho príchode nedozvedel.
+
+# VIII
+
+Ako to už na tom božom svete býva, tak bolo aj pred reštavráciou; deň za
+dňom sa míňal, ako čo by bičom plesol. Obe stránky robili, čo mohli,
+verbovali, hostili, platili, nadávali, ruvali sa a naostatok sa
+zhromažďovali, takže nič nové nebolo vidieť, tlupy po sto a sto ľudí
+premávať sa z dediny do dediny.
+
+Bolo to práve v deň pred reštavráciou, a celá stolica na nohách. I jedna
+i druhá stránka zhromažďovala svojich, po obďalečných dedinách
+bývajúcich ľudí, ktorí so zástavami a s Cigánmi na vozíkoch došli a v
+hlavnom meste stolice Svätom Jakube sčiastky po krčmách, najviac ale v
+šiatroch okolo mesta rozložení boli. Tu očakávali deň budúci spievajúc,
+tancujúc, hodujúc.
+
+Nie tak bolo s pánmi bratmi bližšie bývajúcimi Aby sa usporili náklady a
+páni bratia sa mohli lepšie uhostiť, zostali po svojich dedinách s tým
+úmyslom, že zajtra ráno hocako aj dva razy do Svätého Jakuba dôjdu. A tu
+len človek videl, ako bolo voľno, ako bolo dobre zemanovi. Jesť a piť
+mal až do najlepšej vôle, i deti z dediny sa obživili, i pani sestry sa
+teraz tu objavili; a ich muži im tu i celú misu pečene do zástery
+hodili, i do krhly vína naliali, aby si to vzali na cestu, lebo vraj
+lepší kus chleba na ceste ako pero za klobúkom. Domáci, uhliadnuc to,
+ešte k tomu pridali, uctili ich okrem toho, i vybozkávali a prepustili s
+prosbou, aby sa aj druhý raz prísť páčilo.
+
+Ako to bolo v Leviciach, na Stráni v Humnom, tak to ináč i v Bešeňovej
+byť nemohlo. Pán Adam sa dostaviť nemohol, lebo ako hlava stolice musel
+prijať grófa Gáboryho, hlavného župana stolice, i s celým sprievodom;
+poslali teda do Bešeňovej pána slúžneho Štefana Levického, ktorý hneď
+dal na známosť pánom bratom, aby sa zobrali tak, ako na reštavráciu
+pôjdu, prenocovali v dome vicišpánovom a tak sa odtiaľ spolu na vozoch
+do Svätého Jakuba pohli; lebo že sa on sám o hlavy postará, o iné aby sa
+starali sami. Tak sa tu, pravda, všetko do nohy zhromaždilo a začalo
+halaškovať, žartovať, prekárať sa, že nielen celý dom, ale aj celá
+záhrada, po ktorej boli stoly rozostavené a lampášmi osvetlené, len sa
+tak ozývala a Cigáni húdli, poháriky brnkali a vivatom nebolo ani konca.
+
+Keď sa tak páni podkovali a žilky v nich hrať začali, vstal pán Daniel,
+držal asi za pol hodiny reč zhromaždeným; aby ukázal svoju múdrosť,
+vyčitoval celý pôvod a genealógiu slávnej famílie Bešeňovských a ich
+pokrvnosť i s grófmi i s barónmi, až prišiel na pána Adama, pýchu
+famílie, a vyslovil, aby ho pánboh živil, udržoval a opatroval.
+
+„Vivat!" zavolali zhromaždení.
+
+„Vivat a vivat, kde budeme bývať?" ozvalo sa z druhého boku záhrady.
+Cigán zašramotil na husliach, pritisol barboru, až zajačala, cimbal
+zarinčal a celé okolie sa ozývalo. Vtom zavolá ktosi z druhej strany:
+„Vivat Peťko, vypil všetko!"
+
+Od tretieho stola sa zas ozval hlas: „Ale z plného!"
+
+„Pravdu máš, Lacko," ozve sa Jonáš, „lebo huba, ryba, dyňa, sviňa
+potrebuje pohár vína; a ty, Paľo, kde si?" zavolá na hajdúcha. „Sto
+striel sa ti v materi, či tak obsluhuješ pánov? Či nevidíš, že sú poháre
+prázdne, až je hanba?"
+
+„Dobre vám je, pán urodzenký, hovoriť," odpovie Paľo, „ale to by si
+musel človek nohy až po kolená zodrať a ruky až po lakte vytočiť, keby
+chcel každému uhovieť, veď to všetko mizne, ako čo by pálil."
+
+„Basorka morka, suchá homôlka, mlč," zavolal Jonáš Bešeňovský, „a
+nalievaj!"
+
+„No, veď ja nedbám, zmokni ako myš, keď sa ti tak páči," premrnkne
+hajdúch, „ale potom nestojím za tvoju zemiansku dušičku."
+
+To dopočul prichádzajúci slúžny Levický i zavrátil hajdúcha: „Čo to
+trepeš, Paľo? Drž hubu, nalievaj a ponúkaj, však si na to tu, a povedz
+Ištvánovi, že zajtra každý pat zlatých dostanete, ak budú páni s vami
+spokojní."
+
+Paľo teraz letel ako strela, nalieval, ponúkal, takže mu daktorí od
+samej spokojnosti aj „pán brat" povedali; Jonáš však, vidiac
+starostlivosť „pána slúžneho", vstal, objal ho okolo krku ľavicou,
+pravicou si klobúk na hlave popravil, i zaspieval si:
+
+#POEZIA#
+
+#I#Komuže je lepšie ako pánom v pekle,#-I#
+
+#I#dajú si zakúriť, sedia sebe v teple.#-I#
+
+#-POEZIA#
+
+A ozvali sa páni pri stole:
+
+#POEZIA#
+
+#I#Na konci bývame, predsa nič nemáme,#-I#
+
+#I#všetko nám zobrali, keď sme nič nemali.#-I#
+
+#-POEZIA#
+
+A až na treťom stole odpovedali:
+
+#POEZIA#
+
+#I#Bože môj, otče môj, akú ja starosť mám,#-I#
+
+#I#bol som ochudobnel, a teraz nič nemám.#-I#
+
+#-POEZIA#
+
+Ale keď sa u nás raz páni do spevu dajú, to už ani konca---kraja mať
+nemôže. Pán Lajoš Bešeňovský sa zodvihol, začal s pohárom v hrstí
+krepčiť, ruku si na vrchhlavy položiac, nohami dupotajúc, i spieval:
+
+#POEZIA#
+
+#I#Nepi, šuhaj, nepi,#-I#
+
+#I#stodola ti letí.#-I#
+
+#I#Ej, keď letí, nech letí,#-I#
+
+#I#nemám ženy, detí.#-I#
+
+#-POEZIA#
+
+„Dobre máš, Lajoško," zavolá starý Tomáš Bešeňovský, „i ja som ináče
+nerobieval, kým som bol mladý; ale teraz čo? Na staré dni si musí každý
+pomyslieť, že pri peci sú dobré vecí, hoc sa mu nechce."
+
+„Hej, apko Tomáško," odpovie Lajoš, „nebojte sa nič, ešte ste vy krepký
+chlap, starý, ale jarý, zatancujte si so mnou ---"
+
+„Ba nebuď blázon," odpovie Tomáš, „a nerob si posmech zo starých ľudí;
+ale aby som ti predsa dač kvôli urobil, teda --- napime sa --- však sa
+po smrti nenapiješ --- vivat!"
+
+„Nie, pán brat," zavolá Lajoš, „aspoň zaspievať si musíte,"
+
+„Keď už ináčej nejde, teda ti to kvôli urobím, a bezpochyby sa ti to
+páčiť bude," i začal:
+
+#POEZIA#
+
+#I#Víno, víno budem piti,#-I#
+
+#I#pokiaľ na tom svete budem žiti;#-I#
+
+#I#To údy napraví,#-I#
+
+#I#dá aj rozum zdravý;#-I#
+
+#I#len ho pime,#-I#
+
+#I#pokiaľ na tom svete panujeme.#-I#
+
+#I#Vodu, vodu nechcem piti,#-I#
+
+#I#nechcem si žalúdok pokaziti;#-I#
+
+#I#vo vode sú žaby,#-I#
+
+#I#nájdu sa aj hady.#-I#
+
+#I#Nechcem ja ju,#-I#
+
+#I#nech sa v nej kačeny umývajú.#-I#
+
+#-POEZIA#
+
+„Vivat Tomáš!" ozvala sa celá záhrada a každý, na najväčšie Tomášovo
+uspokojenie, dúškom vypil pohár. Tomáš zaďakoval, každý znova vypil
+pohár až na dno, a pán Lajoš Bešeňovský, čo ho aj Jalošom volali, znova
+začal:
+
+#POEZIA#
+
+#I#Umrel nám žid pod poličku,#-I#
+
+#I#pojedol nám šošovičku;#-I#
+
+#I#nedáme mu zvoniť,#-I#
+
+#I#až nás bude honiť.#-I#
+
+#I#Hoň, žide, hoň,#-I#
+
+#I#až si krky zlom!#-I#
+
+#-POEZIA#
+
+„Stoj!" zavolal starý Tomáš, „to si falošne spieval. Či nevieš, že žid
+neumrie, ale zgrgne!"
+
+„Hej, Tomáško apko, vy tiež máte v rožku, keď sa nazdávate, že žid nie
+je taký človek ako vy; a predsa som videl, že ste mu skoro ruky
+bozkávali, aby vás len nedal pod exekúciu, tu sa vám je ľahko
+vystatovať, keď vám nedohára."
+
+„Len by si to ty, Lajoš, také zelené reči netáral," ozve sa Tomáš, „ale
+nechže ti bude, však ja viem, že vínko hreje, vínko páli, vínko múdre
+hlavy šiali, a na tom dosť; keď sa ti ale nepáči, teda ti radšej
+zaspievam:
+
+#POEZIA#
+
+#I#Napi sa, Lajoško, z plného pohára;#-I#
+
+#I#každý človek huncút, čo ťa ohovára."#-I#
+
+#-POEZIA#
+
+„Vivat apko!" zavolá Lajoš, a keď si rad---radom poháriky poštrngali a
+vypili, tu vyvolal znovu Lajoš: ,,Hm, však som ja dobre vedel, že to nik
+za golier nevyleje, a tak:
+
+#POEZIA#
+
+#I#Preblahoslavený človek,#-I#
+
+#I#ktorý prepil, čo mal koľvek:#-I#
+
+#I#spí bezpečne na lavici#-I#
+
+#I#v otrhanej kabanici."#-I##-POEZIA#
+
+A to vyspievajúc, obrátil sa zas len k Tomášovi, začal ho hladkať,
+bozkávať i hovoril: „Ale, vy môj milý roztomilý apko, nože nám o tej
+vašej halapartni dač rozprávajte!"
+
+„O halapartni, o halapartni!" zavolalo celé zhromaždenie
+
+„Nuž, teda nedbám," povedal Tomáš, „hoc ste to sto ráz počuli, ale, no
+--- už si len prevedzte na mne --- však ja nedbám. Teda vidíte, vy ste
+mladí, neviete, čo je to --- ale my sme boli na insurekcii#POZ#38;(z
+lat.) Povstanie zemianstva na obranu krajiny vo feudálnom Uhorsku.#-POZ#
+a bojovali sme znamenite, lebo sme si pomysleli: Kde je nepriateľ, tam
+cúfneme, a kde ho niet, hurtom naňho. Nuž ale, hriešny človeče, čo si aj
+počneš? Dali ti nám pušky bez pagnéta,#POZ#39;Bajonet, bodák.#-POZ# a
+keď sme chceli strieľať --- tu ti na nej kohútika nebolo. Nuž veru sme
+sa my nahnevali, ,pušky sme pozahadzovali a kapitánovi povedali, aby bol
+vojakom, kto chce, že my ním nebudeme. Nuž ale čo robiť? Francúz ti už
+bol na krku; utekať nemáš kde, tak sme si zas pomysleli, že sa je to
+predsa len najlepšie brániť, keď nevieš ako z konopí. Nuž veru tam na
+konci dediny býval kováč; išli sme k nemu a dali sme si halapartne
+porobiť, že sme s nimi vyzerali ako hlásnici. Teraz ale už nech príde
+Francúz, sme si pomysleli! Ale čo naplat, len si pomyslite, čo si náš
+kapitán nevymyslel? Že vraj musíme ísť na stratenú vartu, a pomyslite
+si, koho ta poslal, že vraj aby som ja ta išiel. Dobre, pomyslím si, len
+si pošli, však si vyvartuješ, a postavím sa pekne---krásne na cestu.
+Hľadím, hľadím, z ktorej strany to ten nepriateľ ide, ale nikde nevídať
+ani vtáčika ani letáčika; nuž si ja veru pomyslím, že však on i bez toho
+nepríde, a utiahnem sa do raži, ľahnem si a zaspím. Odrazu nastane
+neďaleko mňa krik a dakto volá: ,Tomáš, Tomáš, kde si?\' Videlo sa mi
+to, že sú to naši ľudia, a nazdal som sa, že ma to varta prichádza
+premeniť; ale zas mi napadlo, že čert nespí a že to i také môže byť ako
+tí Tatári, čo --- ako moja stará mať rozprávala --- každého po mene
+volali, a keď prišiel, ukrutne zamordovali. Vari čert pošepol
+Francúzovi, že sa Tomášom volám, pomyslel som si, a tiahol som sa
+štvornožky hore ražou, a tie hlasy ustali. Tu som si odfúkol, pol som si
+utrel z čela, vstal som na rovné nohy a ďakoval som pánubohu, že ma z
+takého hrozného nebezpečenstva vyslobodil. Hííí, ale pomyslite si, ako
+som stŕpol, keď pred sebou, hoc bola tma ako v rohu, o siahu vyššieho
+Francúza ako som ja ale zhliadnem! Čo som mal robiť? Osmelím sa.
+natiahnem halapartňu a zavolám: ,Či si živé, či mŕtve, stoj!\' a to moje
+najväčšie podivenie len stálo, stálo, ani sa nepohlo. Hííí, tu mi začali
+vlasy dupkom vstávať, ale pomôž si, človeče, na svete! Tak som vám stál,
+halapartňu v ruke natiahnutú, až do bieleho rána. Keď sa rozbrieždovať
+začalo, hľadím na Francúza --- a pomyslite si, čo to bolo? Vyvolal som:
+,Ľaľa, veď je to taký svätý Janko, ako u nás naprostred dediny, vari ho
+sem za hajčieho#POZ#40;Hájnik, strážca.#-POZ# postavili.\' A keď som sa
+už tak rozhliadol, premýšľal som, kde teraz. Nuž ale tam bola asi na
+tridsať krokov hradská, teda som išiel ta a pomyslite si, na moju
+najväčšiu radosť, ležal na zemi kaškét#POZ#41;(z fran.) Starý druh
+prilby, čákov.#-POZ# taký, akoby zvon naopak obrátil. No, pomyslel som
+si, to je dobre; zdvihol som ho, prevracal som ho naopak i na líce, ale
+keď som na ňom žiadnych šnôr nevidel, lebo bol z papiera vikslámontom
+obtiahnutý, a tak nevediac, či ho našli, či nepriatelia stratili, stýkol
+som ho krížom cez halapartňu: a hybaj cez raž prosto k našim. ,Nuž
+odkiaľže ty ideš, hriešny človeče?\' zavolajú už dvaja moji kamaráti, čo
+na stratenej varte stáli. My sme sa nazdali, že ťa už dávno Francúz na
+večeru zjedol!\' Ja som im odpovedal: ,Hm, zjedol---\' a otrčil som im
+halapartňu i s kaškétom. ,Ale či nevieš, že ťa za to zastrelia,
+Tomáško?\' povedal kamarát. Ja som, pravda, nad tým bohaprázdnym slovom
+zdrevenel, ale som nič nepovedal, len: ,Zastrelia? Hm!\' a strčil som mu
+halapartňa pod nos i s kaškétom. ,Ale čo to ty máš za stračie hniezdo na
+tvojej chýrečnej halapartni?\' --- ,Stračie hniezdo?\' odpovedal som a
+strčil som ešte lepšie pod nos halapartňu i s kaškétom; ale sa ten
+nahneval a povedal: ,Ty, Gregor, zostaneš tu, a ja musím podľa rozkazu
+nášho delikventa k pánu kapitánovi doviesť --- Napred!\' zakričal na
+mňa, akoby ani kvapky zemianskej krvi v mojich žilách nekolovalo.
+Hľaďže, hľaď, pomyslel som si, aký ti je toto kokoš, a že vraj
+delikvent! Však som nikoho nezabil, boh ma vidí, hoci som vojak --- však
+som spal, a kto spí, nehreší. To som ešte nepočul, že by bola kedy
+slávna sedria#POZ#42;(lat.) Vyšší (krajský) súd.#-POZ# moju starú ako
+delikventku pred súd postavila, že v noci chrápe, ako čo by dosky pílil,
+a na to ani nemyslí, že som sa päť rokov trápil, kým som na to privykol.
+No dobre, mal som čisté svedomie a tak som sa čerta nebál, a pánboh ma
+zas opustiť nemohol; tak som s ním išiel, až ma zaviedol k pánu
+kaprálovi. Pán kaprál sa so mnou začal vadiť, a ja som len vždy nevedel
+začo, hovoril, že ma vraj obesia, zastrelia a tým podobné hnusné reči.
+Ja som, pravda, na to vyvalil oči ako plánky a pomyslel som si: I čo to
+len bude z toho božieho sveta, keď všetkých statočných ľudí vyvešajú a
+vystrieľajú? Ale nato vyšiel kapitán von a uhliadnuc ma, hneď dal
+zavolať k pánu kaprálovi i lajdimonta#POZ#43;(z nem.) Poručík.#-POZ# i
+audítora,#POZ#44;(z lat.) Vyšetrujúci sudca.#-POZ# a že vraj budú nado
+mnou vojenský súd držať. Híííí, pomyslel som si, čo to bude s tebou? To
+slovo som nikdy nepočul, však u nás druhých súdov niet ako sedria, kde
+nie lajdimonti a kapráli, ale páni asesori#POZ#45;(lat.) Prísediaci člen
+súdu#-POZ# sedia, pán vicišpán ale preziduje; potom panské stolice, kde
+pán slúžny tak sedliakov pokutúva, ako sa to gruntovnému pánovi páči, a
+zas súdy, kde sa my u pána dilektora zídeme --- ký parom to teda za súd?
+O tom súde ja nič neviem, a keby ma odsúdil, to by som protestoval, a
+hoc by to k samému konzíliu#POZ#47;(z lat.) Vyšší súd vo federálnom
+Uhorsku.#-POZ# alebo až hen k septemvirálskej tabuli#POZ#46;Vyšší súd v
+starom Uhorsku so sídlom v Budíne.#-POZ# ísť malo. A potom zas že
+audítor! No, pravda, to slovo som počul: môj sváko, však ste ho znali,
+Antál Matiašovie, nám koľko ráz vyprával, že keď chodil v Kežmarku do
+školy. kde sa takí veľkí chlapci učia, čo im už fúzy pod nosom rastú, čo
+už za devčaty chodia a v Ľubici kymlicu pijú, rechtor im vždy audítor
+hovorieval --- a tak som sa nazdal, že myslí kapitán, že som sprostý a
+že ma chce dať do školy. No veru si sa poradil, myslím si, len sa mi
+opováž len jednu feruľu dať, však ju zaplatíš; ale pomyslite si. ako som
+oči vyvalil, keď prišiel ten chýrečný audítor. Hľaďže, hľaď, však je to
+ten malý Ferko Ondrášovie, čo má z každého boku pod nosom po pol piata
+vlasa a tieto vždy vysukuje, ako čo by bol mrena; bodaj ho porantalo,
+keď sa mu to len ešte chce na staré dni do školy chodiť Ale pomyslite
+si, čo tento zas nevykázal? Ani nepozrel na mňa, ako čo by som nebol
+zeman, nadul sa, posadil sa, odkašlal i kýval sa na stolici a odrazu
+vypovedal: ,Si ty Tomáš Bešeňovský?\' Ach, sto striel sa v tebe v
+materi, pomyslel som si, nuž ty, žaba, ešte sa opovážia tykať statočnému
+zemanovi? No počkaj, však keď bude reštavrácia, nebudeš ty viac
+titularius, honoratarius, extraordinarius, supernumerarius,
+vicenotarius;#POZ#48;Latinské tituly stoličných úradníkov.#-POZ# a
+zahrozil som mu, ale len tak počušky, päsťou, a odpovedal som mu
+nasrdený: ,Som!\' ,Bol si včera o ôsmej hodine postavený na stratenú
+vartu?\' --- ,Bol som,\' odpovedám. ,Ale o jedenástej ťa tam viacej
+nenašli?\' zas sa pýta. .Nenašli,\' odpovedám. ,A kde si bol?\' pýta sa
+kapitán. Tu som si stal, pravda, do gliedy,#POZ#49;Šík, rad (stáť v
+gliede --- stáť v pozore).#-POZ# hoc som len sám bol halapartňu i s
+kaškétom pustiac k čižme, i povedal som: ,Na stratenej varte!\' --- ,Ale
+ťa tam nenašli, však si sám povedal ---píšte, pán audítor,\' povedal
+Ferkovi; ja som sa ale nahneval i odpovedal som: ,Nuž, pravda, ma.
+nenašli, akože by ma boli našli, keď som tam nebol.\' --- ,A prečo si
+nebol?\' spýtal sa kapitán. ,Nuž preto,\' odpovedal som, ,keď ste ma
+dali na stratenú vartu, nuž som sa stratil, ako by to bol každý statočný
+človek urobil; však si hádam nedám ako kura od Francúza hrdlo odrezať,
+hoci som vojak, však som vari nie blázon, a tak teda ste ma mohli na
+inakšiu vartu postaviť, nuž by som sa nebol stratil.\' Ako vám to ale
+počul i kapitán, i lajdimont, í strážamešter, i pán kaprál, i Jožko
+Antalovie, viete, ten s dlhým nosom, i Ferko Ondrášovie, čo sa teraz
+stal audítorom, otvorili všetci ústa, keď som hovoril, že si vari nedám
+ako kura od Francúza hrdlo odrezať ---i pozerali na moju halapartňu i s
+kaškétom; ja som si ale tým lepšie zastal, vystrel som sa a zatriasol
+som halapartňou i s kaškétom. Kapitán sa opýtal: ,Teda si videl
+Francúza?\' --- ,Videl,\' odpovedal som. Tu všetkých hrúza prenikla, a
+kapitám, vyskočiac, s dychtivosťou povedal: ,Teda ste videli Francúza,
+pán brat Tomáško?\' Ja som ale nič neodpovedal, len som zatriasol
+halapartňou i s kaškétom. Tu by ste boli videli, ako všetci na mňa
+pozerali, a čím som viac mlčal --- lebo, pravda, v raži sa mi dobre
+spalo --- tým sa viacej nazdali, že som ja sám celý svet oslobodil, a
+tak som si pomyslel, že čo fígeľ, to groš; obzvlášte keď ma vraj, akoby
+to nič zastreliť chcú i rozprával som im nasledujúcu históriu, čo sa mi
+v tej noci prihodila: ,So stratenými vartami, páni bratia, nežartujte;
+to je zlý žart, a keď sa vám páči, teda iďte ta sami a neposielajte ta
+ľudí, čo majú doma ženu a deti, a k tomu sú doma potrební pri
+reštavráciách a voľbách do diéty. Nuž teda ako ste ma na tú stratenú
+vartu postavili, pozerám, ale tu Francúza nikde! Pravda, pritom som
+pomyslel, že chválapánubohu, ale sotva som si to pomyslel, tuliby sa ti
+mi naďabí človek, čo mal dva chvostíky z kabáta visiace, kaškét na hlave
+ako krov na našej veži a fúziská, že bys\' mohol z nich motúzy súkať.
+Hííí, toto je Francúz, pomyslím si .a zavolám „Stoj!" Ten vám zastal a
+povedal mi, že vraj „bulebús".#POZ#50;(skom. fran. voulez---vous?) Čo
+chcete?#-POZ# No, čo som mal robiť, hriešny človek, nuž som mu ja veru
+tiež povedal „bulebús", aby si nemyslel, že uhorský
+
+zeman ani len po francúzsky nezná. Nuž a viete, čo mi ten na to
+odpovedal? „Bulebús" mi odpovedal, vytrčil pravicu a prsty zložil, akoby
+mi chcel dať frčku. Hej, sto striel sa tebe v materi, pomyslel som si,
+nuž či ty nevieš, že každé dotknutie zemianskeho tela päť zlatých stojí?
+A nastrčil som mu halapartňu, takže sa skoro na ňu stokol, ale našťastie
+sa rozpamätal, že by to bol zlý žart, i hybaj ten v nohy. Nuž ale viete,
+aký som ja ukrutný, keď sa nahnevám, tak ja tiež hybaj za ním a hnal som
+ho cez celú raž, hľa až tam za hradskú; a keď sme ta prišli, nuž sa mi
+začal môj milý Francúz vysmievať, že vraj ,,hopsa, Janko, s motykou, čo
+stratil čapicu", a to, pomyslite si, tak dobre po slovensky, ako čo by
+hrachom sypal, hoci bol Francúz. Jaj, bodaj teba šliak divný porazil,
+však ti ja dám čapice, pomyslel som si, natiahol som halapartňu a hybaj
+s ňou do Francúza. Ale to vám bol celý figliar. Keď videl, že mu tá moja
+halapartňa pekne medzi rebrá beží, nuž sa vám uhne, ako čo by
+hajduchoval, a moja milá halapartňa hybaj do jeho kaškéta. Tu skočí
+Francúz celý ustrašený a práši, akoby chcel zo sveta utiecť; ja som sa
+ale do raži utiahol, lebo tam celú noc okolo Francúzi ako včely brnkali,
+že vraj musia svojho kamaráta pomstiť, ktorého som ja na smrť poranil.\'
+--- Tak som teda rozprával, a kapitán pozrel na mňa, či mi to ozaj
+všetko z očí vyzerá. Ja som sa ale ešte lepšie vystrel a moju halapartňu
+k boku pritisol; tú mi ale hneď odňali, sňali z nej kaškét a začali
+premýšľať, čo je to za kaškét, pokrútili hlavami, povedali, že veru po
+francúzsky nevyzerá, a že tadiaľto naše, nie ale francúzske vojsko v
+noci išlo. Ale tu povedal kaprál, že to musel byť špehúň, lebo že sa
+títo vždy do cudzích šiat prestrojujú, a tak že som ja celú krajinu od
+záhuby oslobodil. Na tom by bol celý súd prestal, len ten Ferko sa sám
+hádzal, že ako on to vraj napísať môže, a verte mi, nepísal --- no, však
+aj ja veru písať viem a treba mi temer pol hodiny, kým si meno podpíšem
+--- len vám tak čarbal; až sa naostatok Jožko Antalovie nahnevá a
+vypovie: Ja, pán brat Ferko, ja neviem, čo ste taký krvižíznivý, ako čo
+by krv bola voda; a keď vám raz zeman povie, že to bol Francúz, nuž bol
+Francúz a potom punktum.\' --- ,Čo, Ferko? Pán audítor musíte povedať a
+nezabúdať, že ste vy len sprostý,\' ozval sa nahnevane Ferko. Jožko sa
+ale zasmial a povedal: .Audítor sem, audítor tam --- hlaďže ti ho, hľaď,
+akoby sme ho neznali, dajtimibože za pána! Nuž Ferko Ondrášovie tam z
+dolného konca, čo by sa pri jedle roztopil a pri práci zmrzol,\' a
+pritom mrdol plecom. Dobre, Jožko, dobre, pomyslel som si, ale vediac,
+že povedz pravdu, prebiješ hlavu, bol by som ho vybozkával, keď zas
+začal: Ja neviem, načo sa to len prtošíte; lebo vidíte, ak Tomášovi len
+vlas na hlave pohnete, nuž potom viac do stolice nechoďte!\' --- To
+pohlo i kapitánom, i lajdimontom, i strážameštrom, i pánom kaprálom, a
+tak povedali, že veru má pravdu, a Ferko musel mlčať. Tak dobre, sto
+striel sa ti v materi, pomyslel som si, však si ja to za uši zapíšem.
+Poslali ma potom von, a keď ma zas dnu zavolali, vyhlásili ma za
+nevinného a kapitán mi povedal, že mám velké šťastie, lebo že by som bol
+syn smrti býval, keby som žiadne korpus delikti nebol doniesol. Tu som
+vybozkával moju milú halapartňu, čo mi život zachránila; ale ako som sa
+začudoval, keď mi kapitán povie, že musím halapartňu s paličkou
+premeniť, lebo že ma urobí za generála."
+
+„Ba hádam za kaprála," pretrhne reč Tomášovu Lajoš Bešeňovský.
+
+„Hja, nechaj ty to, synak, tak," odpovie Tomáš, však je to jedno,
+obidvoje sa končí na ,rál\'. Ja som ale odpovedal kapitánovi: ,Domine
+spectabilis, nerobte mi to! Ja sa s mojou halapartňou až do smrti
+rozlúčiť nechcem; keď je ale vôľa božia, že len predsa bojovať musím,
+keď som zeman a porciu zaplatím, teda mi dovoľte, aby sa smel na teľcoch
+voziť, lebo sa mi už tento vojenský chlieb prejedol. Ťažký to stav!\'
+--- Kapitán mi to dovolil, a pomyslite si, aký som bol šťastlivý človek!
+Vozil som sa ako pán na mäkkých teľcoch a vydával som jesť a piť celej
+kompánii, kde som, pravda, najlepšie prišiel, lebo veru prvšia košeľa
+než kabát. Len jedno ma pritom mrzelo i tešilo: Volali ma
+frflégom#POZ#51;(skom. z nem. verpflegen --- obstarávať) Hospodár,
+zásobovateľ vo vojsku.#-POZ# --- nie tak --- frflég oficierom. Slovo
+oficier sa mi, pravda, páčilo,, keď som si pomyslel,; ako to bude, keď
+sa, domov príduc, pred moju starú postavím i poviem jej: ,Žena, ty máš
+muža, ktorý je oficierom,\' a zapálil som sa už pri samej myšlienke až
+po uši; len s tým frflégom som si nevedel rady, to som nikdy nepočul,
+prečo ma tak prezývajú. Boh ma vidí, že som nikdy nefrflal, a keby boli
+tak moju starú nazvali, nuž by to bolo ináčej. --- Ale som to až podnes
+nikomu nepovedal, ani len mojej starej, že ma tak prezývali. --- Keď sme
+sa potom domov navrátili, schoval som halapartňu, ktorá mi život
+ratovala, a až podnes tam za almáriou vo vážnosti stojí, v testamente ju
+ale poručím svojim potomkom, aby ju dali pozlátiť, ak sa z nich dakto
+grófom alebo barónom stane."
+
+Oddýchol si Tomáš, potichu počúvajúci zemania odrazu začali poznovu
+hemžiť sa ako včely v úli za rána i volali: ,,Vivat, apko, vivat
+halapartňa!" Vyzdvihli Tomáša dohora, ktorý chvostíky šedivých, popod
+nos poobstrihávaných fúzov ľavicou vykrúcal, hlavou pokyvujúc, ďakoval a
+podaný pohár vína na zdravie pánov bratov vypil.
+
+„Paľo!" zavolal pán Gašpar na hajdúcha, „či nevidíš, že jeho milosti
+pánu. Tomášovi gágor vyschol? --- Nalievaj --- lebo „ináčej bude zle s
+tebou."
+
+Paľo nalieval a páni pili a rozprávali ďalej o insurekcii, kde, pravda,
+Tomáš bol hlavnou osobou ako najskúsenejšia hlava. Gašpar ho teda
+prosil: „Ale rozprávajteže, ako to bolo pri tom Rábe?"
+
+,,To ty hádam lepšie vieš," odpovedal uštipačne, ,,však tam bol tvoj
+otec a tam krvácal za vlasť, krvácal, páni bratia, verte, strašlivo,
+lebo si zaštikol prst kohútikom, že sa mu krv z neho liala ako voda."
+
+„Rozprávaj, Gašpar, rozprávaj!" zavolali druhí.
+
+„Hja, čo vám narozprávať?" odvrkol Gašpar. „To je krátka história: Nuž
+išli insurgenti k Rábu a prišli k rozkvitnutej pohánke. Tu zakričal
+prvý, že nemôžu ísť ďalej, bo že už prišli až k Červenému moru. Zosadli
+teda z koní, pouväzovali si ich na nohy, aby im neutiekli, a plávali na
+bruchu po pohánke až na druhú stranu. Tu ale zhliadli nepriateľa v
+gliede postaveného, i začali naňho ukrutne páliť, že z toho hrozné
+krvipreliatie povstalo; keď im tento neodpovedal, nuž hnali naňho
+šturmom i sekali doňho, až mu hlavy ako makovice odfrkovali, a boli by
+ho docela navnivoč obrátili a zničili, keby im kone chceli ďalej ísť,
+ale tie si tam začali pekne---rúče hryzkať a pásť sa, hoc páni na nich
+sedeli, lebo to nebol Francúz --- ale bola kukurica."
+
+."Ty sprepadená papuľa!" zavolá Tomáš, vyskočiac zo sedadla, „nuž ale ty
+sa opovážiš z insurgentov vysmievať? Keď to má byť pravda, čos\' tam
+rozprával o Rábe, tak si dám nos odrezať -- hoc sa to mňa netýka, lebo
+som ja slúžil pri pechúroch ---"
+
+„Ba pri teľcoch!" --- vpadol mu Lajoš posmešne do reči. Keď sa raz v
+prsiach tichého a dobromyseľného človeka, aký bol Tomáš, hnev vzbúri, to
+aj to, čo by ináčej ani nepozoroval, so sebou zachytí. Tak sa teraz
+oboril na Lajoša: „No však chodíš už veru ako teľa po ľade!"
+
+„Čo? Ale ja? A vy sa nazdáte, že som opitý?" ozve sa Lajoš.
+
+„Veru si ako čík," odpovie Tomáš, „a dám ti dva grajciare, ak tamto k
+tej jabloni potrafíš." „Nie za vaše dva grajciare, však hádam beztoho
+viac nemáte; ale aby celý svet videl, že mňa pár pohárikov nezroní, teda
+to urobím." I postavil sa na rovné nohy, pozrel odhodlane na ukázanú
+jabloň i začal vykračovať, ale tak bystro ako olovený vták, lebo musel
+pri každom kroku rozmýšľať, ako má stúpiť, potom mu bola cesta úzka, pri
+každej vŕbe sa klaňal, až naostatok zablúdil celkom na odpornú stranu od
+jablone. Tu, pravda, povstal hrozný smiech, ale predsa pri všetkom tom
+nezabudli páni, že má všetko svoju mieru; lebo hoc si náš zeman
+pohalaškuje, hoci si požartuje, hoc si tu i tu uchlipne, je predsa vždy
+dobrý, priateľský, dobrosrdečný. Nehaňte mi teda ani toho, ani toho,
+však niet človeka pod slncom, čo by bol bez škvrny! A tak i teraz
+zavolal Šándor na hajdúcha: „Paľo, hybaj ta za jeho milosťou pánom
+Lajošom a polož ho do trávy, nech sa v nej vyspí."
+
+I chytil hajdúch za ruku Lajoša a položil ho do trávy, kde najprv
+zafučal, potom sa začal trhať, keď mu hajdúch chcel údy popraviť, i
+plával po tráve ako sekera po vode, i hovoril: ,,Hoc ma lížeš, hoc ma
+nelížeš, predsa nebudeš vicišpánom," lebo čo triezvy myslí, to opitý
+povie, i zaspal ako zarezaný a snívalo sa mu o tom, kto bude vicišpánom.
+
+Druhí páni ešte chceli pokračovať v kratochvíli, ale im to už išlo ako v
+lete na saniach. pán Gregor predložil, aby podľa starej obyčaje
+jedenkaždý vyliezol na stôl, po pohárikoch a skleniciach si potancoval,
+svoju nôtu zaspieval, aby sa tak dačo i Cigánovi do barbory dostalo; ale
+nik viac nechcel na to pristať, lebo že je už neskoro, a tak že si
+trocha oddýchnuť treba, pán Tomáš však, ako najstaršia hlava, vec
+rozsúdil, povediac: „Dobre teda, páni bratia, zvalíme sa trochu pod
+strom, však toho i tak mnoho nebude, ale aby sme nešli triezvi spať ako
+blázni, teda napime sa a povedzme všetci spoločne: Zbohom, rozume,
+zajtra ráno sa vidíme."
+
+Ako povedal, tak sa stalo. Napili sa, povedali si „spánombohom" i
+políhali si, kde ktorý najlepšie miestečko nájsť mohol.
+
+Ale sotva si za pol hodiny podriemkali, tuliby pán slúžny Štefan Levický
+s hajdúchmi Paľom a Ištvánom, i začali volať: „Vstávajte, páni,
+vstávajte, už je šesť hodín!" ale živá duša sa im neozvala. „Vstávajte!"
+zavolali znova, a tu si začali páni oči pretierať, až naostatok jeden
+druhého pobudili a povstávali hore na rovné nohy hovoriac: „Čo to tak
+voláte, domine spectabilis, však hádam ešte nie je súdny deň."
+
+„Súdny deň nie, ale šesť hodín," bola odpoveď slúžneho, „a tak či sa nám
+chce, či nechce, musíme ďalej, len aby ani jeden nechýbal. --- A teraz,
+páni, podkujme sa na cestu," povedal a podával plné poháre pánom bratom.
+Ale tí nechceli i hovorili: „Dajte pokoj, domine spectabilis, nemožno,
+nemožno!"
+
+„Ej, čo klin klinom, domine perillustris,#POZ#52;(lat.) Osvietený
+pane.#-POZ# a okrem toho by ste sa mohli prechladiť, a kto by potom za
+vaše zdravie zodpovedal, keď nie ja, bo mi pán vicišpán prísne naložil
+na vás pozor dávať, aby ani duši nič nechýbalo."
+
+Medzitým sa hajdúch Ištván priplichtil k voziarom naboku stojacim, čo
+mali pánov viezť do stolice, podávajúc im po vínovom pohári pálenky, od
+ktorej sa každý zmrštil, zatriasol hlavou i povedal: „Ááh, to až tak v
+hlave vŕta; nie je to ani terkelica, ani slivovica, ani borovica --- len
+je to také tuhé, ako najlepšia na svete pálenka."
+
+„Ale, počuješ, Jano?" povie dôverne Ištván najstaršiemu, „choďte
+pomaličky, aby sa páni neudrgali, a nebojte sa, nič sa vám nestane;
+každý dostane dvadsať zlatých a náhradu za škodu na vozoch alebo na
+statočku."
+
+„No, už ja neviem, ako to vypadne," povedal Jano, „ale sa aspoň radujem,
+že tu týmto pijaviciam, čo sa teraz tak nadúvajú, ako čo by bol celý
+svet ich, cez rozum prejsť môžeme. Ale ešte jedno, Ištvánko! Povedzže mi
+len, prečo sa to ti naši páni špektábulis a perilistris nazývaju?"
+
+„Hľaďže, vidíš, Janko, to je takto," odpovedal Ištván, „perilistris sú
+takí malí páni, čo troška po latinsky vedia; špektábulis ale už musí byť
+pán do koreňa; a tvoj syn môže byť grófom i barónom, to on, na môj
+hriešnu dušu špektábulis nikdy nebude, to ten len vždy huncút sedliak
+zostane." Vtom sa zvrtol a nalieval rum pánom do vínových pohárov.
+
+Páni nasadali na vozy, zástavy prišli na každý a povievali v raňajšom
+vetríku, akoby celému svetu zašumieť chceli o sláve a moci
+Bešeňovskovcov. Pán slúžny sadol tiež do batára, poklonil sa pánom
+bratom a ubiehal spolu i s hajdúchmi ako vietor k Svätému Jakubu.
+
+Páni si začali prespevovať: „Dávno Bešeňová," ale im to dákosi nešlo,
+lebo človek nie je zo železa, a tak prv, ako by ju boli dokončili, sotva
+si na celom rade vozov dvoch ľudí našiel, čo by hlavami neboli jeden
+druhého tĺkli.
+
+Tak nikto z pánov bratov nespozoroval, že idú do Svätého Jakuba práve
+odpornou cestou, než pán slúžny Štefan Levický.
+
+# IX
+
+Začalo slnce vychádzať nad Svätým Jakubom práve na deň Michala,
+pozlacovať hrebene vrchov Záhorskú stolicu otočujúcich, i meniť sa,
+ligotať a zhliadať sa v kryštáloch srieňového mrazu, ktorý ako
+strieborná plachta pokryl lúky i polia; ale ako celkom vyšlo, tu
+zhliadlo nové, nie každodenné divadlo. Okolo mestečka stoličného sídla,
+i vpravo i vľavo rozprestierali sa široké šiatre a pred nimi do zeme
+zasadené zástavy zvestovali, že tu bešeňovskovci, tam potockovci svoje
+stránky rozostavovali. Pomaly začalo tu i tam bzučať a zo šiatrov
+vychádzať kopa nevyspatých zemanov jeden za druhým. Tak sa hneď i živšie
+všetko začalo hýbať, a poháriky, ktoré od pár dní pánom zemanom ani z
+ruky nevychádzali, znova dookola prechádzali z ruky do ruky.
+
+Odrazu zaznie: „Vivat Bešeňovský!" A z druhej strany sa ohlási: „Vivat
+Potocký!" --- Na to heslo zaškrípe Cigán i z jednej i z druhej strany na
+husliach, zástavy sa zo zeme povytrhávajú a obidva zbory sa začnú hýbať
+k mestečku, kde z rozličných strán vtiahli.
+
+Pred vchodom stoličného domu stoja v rade hajdúsi a na ich čele si pán
+kastelán,#POZ#53;Správca panského majetku, zámku.#-POZ# inde porkoláb
+menovaný, vykračuje. Z okien stoličného domu vystrkujú hlavy páni
+úradskí, hneď napravo na kohútie perá, hneď naľavo na zelené chvoje
+hľadiac a tak skúseným okom špehujúc, na ktorú asi stranu sa víťazstvo
+pri voľbách môže obrátiť. Pomaly i páni prichádzajú v
+atilách,#POZ#55;Krátky mužský kabát, zdobený šnúrami.#-POZ# s
+mentiečkami na pleciach, s kalpakmi, na ktorých sa alebo biele vysoké
+perá dolu zhýbajú, alebo orlie perá sa pyšne dohora dvíhajú, na hlavách
+a so šabľami pri boku. Nejeden, príduc medzi svojich, kýva rukou,
+usmieva sa i volá: „Len držte, páni bratia, len pospolu, neroztrácajte
+sa; ale kdeže je Matiáš Bešeňovský? --- Ten tomu rozumie." --- „Tuším už
+skoro dôjde, vaša milosť," bola odpoveď. Pán zmizol, klaňajúc sa v
+stoličnom dome. Z druhej strany prišli iní páni a medzi nimi starý
+Ondrej Levický, i klaňali sa ako prví, i usmievali sa i hovorili: „Len
+sa držte, páni bratia!" --- „Hm, veď sa my, na môj hriešnu dušu,
+budeme," odpovedal Barina; Ondrej však pozeral a meral očami obe stránky
+i potichu slúžnemu Mikovičovi povedal: „Levice sú nám za patämi, a keď
+prídu, iste nás bude do trinásťsto; a len Ištván aby vec svoju vykonal
+--- nič ste nepočuli o ňom?" --- „Hneď musí ísť i s Levickým," odpovedal
+slúžny i stratil sa v stoličnom dome.
+
+Naostatok bolo počuť od konca mestečka mažiare páliť, a tu sa začali
+páni zemania mrviť ako mravenisko za letného času i robiť z oboch strán
+ulicu. Po chvíli vidieť kočiar pekný, maľovaný naboku pri kočišovi
+stoličný hajdúch, za kočom ale dvaja stojaci husári. Štyri sivky tiahli
+kočiar, zalamovali krkom, prskali nozdrami a preberali tenkými nôžkami,
+až to bola radosť. V koči sedel pán hlavný župan gróf Gábory, opierajúc
+sa ľavicou na zlatú, drahými kameňmi vykladanú šabľu, v pravici držiac
+od drahého kamenia ligotajúci sa kalpak. Pri jeho boku sedel pán
+vicišpán Adam Bešeňovský a až sa tak blyšťal od samého zlata. Za nimi sa
+viezol druhý vicišpán Ján Potocký s grófom Želinským, a za tými viacej
+pánov. Ako do mesta došli, rozostúpila sa kopa zemanov na dve stránky a
+ohromné „Vivat hlavný išpán gróf Gábory!" ozvalo sa sprava i zľava; ale
+sotvaže sa tento i napravo i naľavo poklonil, zahučalo z jednej strany
+„Vivat Bešeňovský!" a z druhej zas „Vivat Potocký!" Obidvaja páni sa
+poklonili na tú stranu, odkiaľ hlasy ich strany prichádzali --- a koče
+zmizli v stoličnom dome.
+
+Ale na ulici to nie veľmi pokojne vyzeralo Sotva sa koče oddialili, tu
+začal pán Jastrabský: „Či ste videli, páni bratia, toho Adama, ako sa mu
+líškal?" --- „To je hanba," odpovedal pán Lubina, „že sa hlavný išpán dá
+takým ľuďom šialiť; ale toho všetkého sú na príčine tu tieto kukučky s
+kohútím perom -- a tak dolu s nimi!" I začal hroziť bešeňovskovcom. Títo
+ale tiež neboli od toho, i blýskali očami, akoby si chcel každý svojho
+protivníka vyvoliť, ktorému by alebo fokošom buchnát zasadiť, alebo
+prstami gágor posťahovať mohol. Medzitým zišli obidvaja vicišpáni dolu,
+a tu ich schytili dohora ich prívrženci a nosili ich na pleciach i
+volali: „Vivat, vivat!" Ale potockovcom sa to všetko málo zdalo a
+počujúc, ako sa família Levickovcov s muzikou pod zástavami hrnie do
+Svätého Jakuba, zavolal pán Martin Moždický: „Dolu s Adamom!" a zachytil
+sa s najbližšími priateľmi, i hybaj do bešeňovskovcov, sácajúc ich
+lakťami. Predrali sa tak až k Adamovi a ťahali ho dolu; bešeňovskovci sa
+ale nahnevali i chytali nepriateľov za vlasy i bili im päsťami a
+palicami do hlavy, takže odvážlivci chci---nechci sa uťahovať museli,
+pričom ale Antal Zimonič nezabudol vicíšpánovi aspoň krídlo z kabáta
+oddrapiť, i prebíjali sa cez kopu nepriateľov, z ktorých i päťdesiat
+padlo --- ala zasa vstali.
+
+Sotva sa páni vicišpáni odstránili, tu povstal nový hluk, bubnovanie a
+vykrikovanie. To sa komedianti schválne hrnuli okolo zhromaždených aby
+im nalákali divákov, a sypali sa s opicami a inými vecami za stoličný
+dom, kde mali vykázané miesto. Tu sa priplichtí pán Jožko Levický k
+pánom Medziborskovcom, bývajúcim dakde, pánubohu za chrbtom medzi
+horami, a ukazuje im, ako si to tá opička pekne orech hryzká. To sa,
+pravda, nejednému páčilo, najmä ale zlato a striebro na šatách
+komediantov; keď ale zhliadli zelenú chvojku na Jožkovom klobúku,
+vzchopili sa a zavolali: „Ideš, sto striel sa ti v materi, ty odkundes,
+čos\' i s celou tvojou perepúťou dušu zapredal."
+
+„Boh ma vidí, že o tom nič neviem," odpovedal Jožko, „ale keď si myslíte
+hádam, že Levickovci s Potockým držia, to dolu so zelenou chvojkou,"
+hodil chvojku o zem, „a zato, že som Levický, hádam len nepotrháte staré
+priateľstvo; však viete, že je i slúžny Levický pána vičišpána pravá
+ruka, a tak čo by som i ja nemohol s vami držať? Dajte sem vaše pero!" A
+nevinní Medziborskovci sa chytili za klobúky, radi, že hlas získajú, i
+nadávali mu kohútieho pera, že si mohol ním hlavnice vypchať. Jožko s
+tým nebol spokojný, ale im ustavične popod nos potieral krásu
+komediantov a prisahal sa, že taký div, ako mala byť tá komédia, nikdy
+živá duša v stolici nevidela; a keď páni Medziborskovci túžobnými zrakmi
+za stoličný dom pozerať začali, obzvlášť keď sa voľba jak preťahovala,
+tak preťahovala, to Jožko schytil najprvšieho z nich i zavolal: „Čo tu
+budeme stáť ako blázni? Poďme sa my radšej podívať na tú komédiu, však
+beztoho k voľbe dosť prídeme." A páni Medziborskovci sa pobrali s ním,
+ba i druhých zachytili, ku komédii, kde ich Jožko zabával a ich oči vždy
+na fígle opíc a pletky pajácove obracal, na čom sa tak smiali, plávajúc
+v samej rozkoši, že im slzy z očí kvapkali, i sťažovali si len, že škoda
+ich žien a detí, že ich tu niet. Jožko dal pomaly vína nalievať --- i
+povstala taká veselosť, že viacej na voľbu ani nepomysleli.
+
+Medzitým však ako celý úrad u hlavného išpána urobil poklonu, odobrali
+sa všetci do paloty a posadali si za zelený stôl podľa hodnosti a veku.
+Zrazu dal vicišpán otvoriť dvere, a zemianstvo sa hrnulo dnu. Po chvíli
+prišiel do paloty pán hlavný išpán gróf Gábory, poklonil sa napravo i
+naľavo, poobzeral sa bystrým zrakom po zhromaždení i sadol si na
+predsednícky stolec, keď medzitým páni okolo stola sediaci povstávali a
+dookola zaznelo ohromné „vivat". Pán hlavný išpán sa poklonil, kývol
+rukou, a zvuk vivatov pomaly prestával. Tu začal hovoriť: „Slávne stavy,
+slávne zemianstvo! Tri roky sa minuli, čo som vás mal šťastie okolo seba
+k voľbe stoličných úradov zhromaždiť i spolu zakúsiť, že môžem byť
+pyšným hlavným išpánom Záhorskej stolice, kde sa poriadok pri voľbách
+nikdy neporušil a kde si každý zeman za povinnosť pokladal, nie podľa
+straníctva, ale podľa svedomia úrady voliť."
+
+Tu zaznelo ohromné „vivat" a hlavný išpán ďalej pokračoval: „Keď ale
+toto hovorím, presvedčený som, že duch ten, ktorý ste vtedy ukázali, až
+podnes v stolici trvá a že slávne zemianstvo, voliac si úrad nový, len
+sebe, len svojej stolici, a tak i celej našej peknej Uhorskej krajine
+budúcnosť a šťastie chystá, keď sa i teraz len svojho svedomia opytovať
+a držať bude."
+
+Hlavný išpán skončil, poklonil sa a zhromaždenie zavolalo „vivat". Potom
+sa starý úrad poďakoval za dôveru zemianstva a porúčal sa i naďalej.
+Nato sa volil výbor na spisovanie hlasov a potom hlavný išpán zas
+prehovoril: „Myslím, páni, že vám bude milé, keď pánov Adama
+Bešeňovského, Jána Potockého a grófa Želinského do kandidácie za prvého
+vicišpána predložím." --- „Vivat!" ozvalo sa a pristúpilo sa, po
+odstúpení všetkých troch menovaných pánov k voľbe. Zemianstvo hrnulo sa
+podľa obcí a rodín do paloty i vychádzalo dvermi do vchodu, ktorý viedol
+do vnútorného, od druhej čiastky oddeleného dvora. Najprv to išlo
+Bešeňovský za Bešeňovským, takže tu pri vchode úradovaní Matiáš i Daniel
+ustavične do bočnej izby, kde sa všetci traja kandidáti nachádzali,
+vchádzali, čosi pánu Adamovi do ucha šeptajúc, na čo on s veselou tvárou
+len vždy pokývol; keď ale sedemsto hlasov odhlasovalo a tu jedno za
+druhým Potocký, Potocký sa ozývalo, takže už asi sedemsto hlasov byť
+mohlo, tu sa vtiahli obidvaja potichu do izby, i jeden za druhým
+šeptali: „Vaša milosť, zle je! Už má Potocký o sto hlasov viac, a o
+Bešeňovských, o Kadičoch a o Medziborských ani chýru ani slychu!" To sa
+nepáčilo Adamovi, ale čo bolo naplat? Poslal teda Matiáša, aby dal hneď
+do koča zapriahnuť i cvalom bežal oproti Bešeňovským a aby hajdúchov
+rozposlal hľadať a zhromaždiť Kadišov a Medziborských. Matiáš počúvol,
+ale sotvaže sa vo dverách paloty objavil, tu už stál ako na stráži Peter
+Barina, dívajúci sa sčiastky na dvere, sčiastky na pána Ondreja,
+sediaceho pri stole medzi asesormi, majúcimi len naostatok hlasy dávať,
+i vidiac Ondrejovo mrknutie, zhŕždil tvár a priduseným hlasom šepol
+Matiášovi: „Vykričím, kmotor, vykričím!" --- A pri týchto pár slovíčkach
+sa Matiášovi podlomili nohy, ako čo by ho bol had uhryzol, i temer
+omdlel; ale prúd zemanov hrnúcich sa hlasovať ho zachytil na druhú
+stranu, a tak sa skrútil za chrbtom hlavného išpána i vystúpil na pavlač
+stoličného domu. Tu nič nevidiac okrem niekoľko zelených chvojok, išiel
+k Adamovi i povedal mu, čo skúsil; ten sa začal červenať i rozdráždený
+povedal: „Išiel posol, prišiel osol. -- Hýbajte na každý pád dolu a
+zoberte aspoň roztratených, za Bešeňovskými pošlite ale hajdúchov ---
+skoro!" Matiáš sa obrátil, ale tu zas stál ako zlý duch Barina i volal
+predošlým spôsobom: „Vykričím, kmotor, vykričím!" Matiáš ale povedal:
+„Neboj sa nič, kmotor, vykričím!" Matiáš ale povedal: „Neboj sa nič,
+oslov." --- Adam, nič ďalej nevediac, čo sa robí, poslal Daniela, aby
+išiel Bešeňovským za Matiášom naproti, ale išiel Jakub pre Jóba, zostali
+tam oba, lebo ho zas na Ondrejovo pokynutie Barina na schodoch dolapil a
+zavliekol ho s druhým Levickým vedľa do susedného domu.
+
+Pomaly sa odhlasovalo a hlasy zrátali, odkiaľ vysvitlo, že mal
+Bešeňovský sedem --- Potocký však dvanásťsto hlasov. Tu ale pozdvihol
+hlas hlavný išpán: „Kto ešte má hlasovať, nech sa hlási!" ale nik viac
+neodpovedal. Hlavný išpán sa to isté druhý i tretí raz spýtal, a keď
+páni i do pitvora i z pavlače na rínok pozreli a tam nikoho nezhliadli,
+tu dal hlavný išpán najprv troch kandidátov do paloty zavolať a
+zemianstvu dvere otvoriť, i vyriekol: „Ja, akožto hlavný išpán tejto
+Záhorskej stolice, vyhlasujem mocou úradu môjho, vôľou zemianstva, pred
+ktorou sa ja klaniam, dvanásť--- oproti sedemsto hlasmi vyvoleného pána
+Jána Potockého za prvého vicišpána slávnej Záhorskej stolice."
+
+A tu povstal súdny deň, tu povstala trma---vrma; ako blesk udreli tieto
+slová do žíl každého. Potocký zdvihol usmievavé hlavu i s pánmi svojej
+strany; Adam Bešeňovský sa i červenal, i bledol, i žltol, i belasel a
+páni jeho strany zvesili hlavy, lebo všetko už bolo het! Zemania zas z
+jednej strany dvíhali ruky dohora i volali: „Vivat Janlko, Janko
+vyhral!" Z druhej zas blýskali očami, hŕdžali čelom, stískali päsťou a
+ako skamenení hrnuli sa dolu, i baz slova uchádzali spolu s pánmi svojej
+strany domov; za nimi zas potockovci, ale prv ešte nového vicišpána na
+pavlač vyvolali, čo keď sa stalo, ten sa poklonil a nekonečné „vivaty"
+sa rozliehali. Potom sa pristúpilo k ďalšej voľbe.
+
+Ale čo ďalej o tejto rozprávať? Adama Bešeňovského položili temer
+polomŕtveho do koča i poslali ho do Radošoviec domov, jeho celá stránka
+sa rozpŕchla, a ostatné --- o tom známe, ako to išlo v Uhorskej krajine.
+I jedna i druhá stránka si popredku vyvolila celý úrad, a kto zostal
+prvým vicišpánom --- lebo tento úrad bol uzlom, podľa ktorého sa vec
+rozhodovala --- ten predložil vždy troch hlavnému išpánovi na ten alebo
+ten úrad, a prítomní vždy vyvolali, viacej nehlasujúc, na prvom mieste
+predloženého.
+
+Tak sa stal Štefan Levický druhým vicišpánom, a tu bys\' len bol videl
+radosť jeho celej famílie! Ondrej sa pritom zdvihol zo stolice a
+poklonil sa hlavnému išpánovi, akoby Štefan ešte i teraz stál pod jeho
+feruľou a jeho povinnosťou bolo zaňho poďakovať; druhí Levickovci sa
+začali objímať, bozkávať i vyvolávať: „Pán brat môj drahý, Levický
+vicišpán, Levický, Levický!" --- Bo to prvý vicišpán z famílie
+Levickovoov.
+
+Ale keď voľba prešla i cez prvého notáriuša a prišla ku slúžnym; tu
+nastal hrozný krik pred stoličným domom. --- Bešeňovskí sa prihrnuli
+rozpálení v kopách, i chceli ísť nasilu hlasovať do stoličného domu, kde
+im najprv Martin Levický usmievavo odpovedal: „Sero post festa
+cantare,#POZ#56;(lat.) Vo význame: Už je pozde, milý drozde!#-POZ# kto
+zodral opätky, nech chodí na sáre." Ale zas stretli Daniela
+Bešeňovského, ktorý chudák plakal ako dieťa i hovoril k pánom bratom:
+„Už je všetkému koniec! Už je tam sláva našej famílie! Teraz sa už len
+položme do hrobu! Však ste vy mne za ľudia! Však ste vy vykázali!" Ale
+týmito predvržkami si troška odľahčiac, začal divo na príchodzích
+zazerať i spytovať sa, kde ich psi jedli. Tu začal Gašpar Bešeňovský
+vypravovať: „Jedli sme, pili sme, zabávali sme sa celú noc; ráno sme si
+sadli na vozy, keď sme sa terkelicou, čo len tak v nose vŕtala, znova
+potúžili a pozaspávali sme do jedného. Mňa dali na prvý voz. Odrazu sa
+mi tak zdalo, že stojíme, a tak myknem suseda i poviem mu: ,Jano,
+ďalej!\' --- ,Dobre, dobre, hneď,\' odpovie sused, ale zas mi to len ako
+vo snách prichádzalo, že stojíme. Tu myknem suseda lakťom, že skoro z
+voza sfŕkol, i zavolám: ,Hybaj, lebo ti hneď bude fokoš po hlave
+tancovať, ty kujon!\' Ale tu mi sused odpovie: ,Hrom sa ti v duši, tak
+ťa ovalím, ak mi nedáš pokoj, že budeš mať dosť!\' No pomyslite si,
+nebol to Janov, ale Lajošov hlas. Ja schytím, pretriem si oči, pozerám a
+hľa, hľa, nebol ti to Jano, ale bol Lajoš, čo sa stavil, že k jabloni
+potrafí a nepotrafil. Tu ma strach pojal i premýšľal som, kde sme.
+Obzriem sa --- a vidím, že sme nie v Jakube, ale v hore. Tu mi vstávali
+vlasy dupkom, a keď vidím, že sú zo všetkých vozov kone vypriahnuté a
+milí paholci ich tam ďaleko v tráve pasú, a vozy stoja a páni bratia
+spia, zavolám: ,Zrada, zrada!\' Tu sa ti každý otriasol, vytrel a
+vytreštil oči i zavolal: ,Kde sme?\' --- ,V hore!\' odpovedal som. Tu
+zavolám: ,Jano, čo robíš?\' --- ,Kone pasiem, vaša milosť,\' odpovedal
+Jano. Tu ma mal šliak trafiť i zavolám: ,Sto striel sa ti v materi, ty
+kujon, ako si nás sem doviezol?\' --- ,Nuž tak, vaša milosť,\' odpovie
+Jano, .zaspal som ako vy všetci, a hoviadko je raz naučené do hory
+chodiť, nuž zašlo ta, kde najviac chodieva.\' Bol by mu za tú odpoveď
+najradšej kotrbu prerazil, ale času nebolo, a tak som zavolal: ,Teda
+zapriahaj čím skorej a nazad!\' Ten sa mi ale zasmial i povedal:
+,Nemožno, vaša milosť, ja zato nemôžem, že vás na každý voz nasádzali
+ako za groš maku a ako červených myší; kone nemôžu ďalej, tak ich musíme
+troška popásť, lebo či nevidíte, že sme pri Opuchlej skale?\' --- ,Ha,
+vy sprepadené mršiny!\' vyvolal som vediac, že Opuchlá skala tri hodiny
+od našej dediny leží, že sme teda tri hodiny išli, tri hodiny nazad
+domov treba a tri hodiny do jakuba, i zavolal som: ,Do nich, páni
+bratia!\' A tu sme začali klanice odtrhovať, rebriny lámať, skálím
+hádzať, ale huncút sedliak už bol na všetko pripravený, bo štverne boli
+na jedného koňa naložené, na druhého si sadol a utekal, až sa tak za ním
+prášilo. Tu sme len videli, že je všetko uhovorená zrada, a pomysleli
+sme si, že teraz bude najlepšie čím skorej do stolice utekať, i bežali
+sme, až sme prišli; lebo darmo je. Kto nemá v hlave, musí mať v nohách."
+Na to ale Daniel, trpko sa usmievajúc, odpovedal: „Ba veru o vás to
+naopak platiť môže: Kto má v hlave, ten má i v nohách." Z toho by bola
+bezpochyby zvada povstala, ale na to nebolo času, lebo Medziborskovci i
+so svojimi kamarátmi prikvitli volajúc: „K voľbe, voľbe!" --- „Ale
+povedzte mi, hriešne duše k akej?" ozve sa Martin Levický. „No však sme
+len teraz odtiaľto odišli," povedal jeden z nich, „tu, hľa, s Jožkom, čo
+prešiel na našu stranu." „Vy starí blázni," zas sa ozve Martin, „keď ste
+išli ku komédii bolo deväť hodín, a teraz sú tri popoludní." Nechceli
+Medziborskovci veriť, že je to pravda, a tým menej, že je už po voľbe
+vicišpána; lebo ich tak dal Jožko od komediantov všelijaké kotrbance
+predvádzajúcich zabávať, že sa smiali, až sa im srdce usedalo, a len
+potom sa uspokojili, keď Mackovi Medziborskému komediant prisľúbil, že
+mu pošle na plemeno mladé od tej opice, ktorá sa mu tak veľmi páčila, bo
+mu skákala po pleciach, oflimkovala ho i vo vlasoch mu preberala ako
+jeho stará v nedeľu popoludní. Jožko Levický povedal Medziborskovcom,
+aby oni teraz pozahadzovali kohútie perá, lebo že už beztoho, keď je
+Potocký vicišpánom, nič nestoja, a aby išli s ním hodovať, lebo že
+beztoho nikomu neublížili. I nedali si to dva razy povedať.
+
+Ale s tým ešte nebol histórii koniec, lebo z tej strany od Levíc sa
+hrnula kopa zadychčaných Kadičov, volajúcich zďaleka: „K voľbe, k
+voľbe!" --- „Už je pozde, milý drozde!" odpovie Martin Levický. „No bol
+by to čert," odpovedal Samko Kadič, „a ty, chvoja, hybaj, z cesty, lebo
+ťa tak ovalím, že ma budeš pamätovať až do smrti." --- „Ba načo voš
+kašle, keď nemá pľúc, a ty hrozíš, keď nemáš pary," odpovie ľahko
+Martin, keď Daniel Bešeňovský zas trpkými slovami napadol Kadičov i
+zasypal ich temer predvržkami. Tu začal Samko Kadič, počujúc, že je
+všetko prehraté, na svoje ospravedlnenie vyprávať: „Viete, že bývame pod
+horami a že nás od Levíc len rieka Bystrá delí. My sa poobliekame
+mysliac, že hocako pešky za tri hodiny do stolice prídeme, a ideme k
+Bystrej. Hľadáme člny, ale člnov niet. Chodíme po brehu sem---tam, ale
+ani v jednom kroví člna nikde. Začneme volať: ,Prevezte!\' ale nikde
+odpovede. Obrátime sa teda, aby sme čas daromne nepremeškali, nahnevaní
+domov, aby sme ale skorej prísť mohli, dali sme zapriahnuť --- lenže
+kone boli na paši, nuž sme sa zas viac ako hodinu zdržali. Potom dáme
+hnať kone, a to až k Náhlovciam na most, ale pomyslite si len, čo sa nám
+to nestane? --- Vyjde Mojžiš pred zátvoru i zavolá: ,Stoj!\' --- ,Čo
+nového, žide?\' spýtame sa. ,Mýto!\' odpovie Mojžiš, ten starý s dlhou
+bradou. Jaj, môžete si pomyslieť, že hrom do nás udrel, ako sme len to
+slovo počuli; lebo načože som zeman, keď mám mýto platiť? Nuž my tu na
+Mojžiša, či nevie, kto sme my. ,Viem, páni veľkomožní,\' bola odpoveď,
+čo sa nám pravda, páčilo, keď nám „veľkomožný" povedal, ako ešte nikdy
+nikto Kadičovi; ale keď začal: ,Veľkí páni, veľkí páni, to ja dobre
+viem, ale škoda len, že sa nevozia na svojich kočoch a koňoch, ale na
+sedliackych mitrhách, a sedliak musí mýto platiť --- vy nie, vaše
+milosti, páni veľkomožní, veľkí páni, boh ma zachovaj také slovo len cez
+ústa prepustiť!\' --- ,Hrom sa ti do matere, žide!\' zavolám. ,Čo teba
+do toho, aké ja kone mám --- ty, kočiš, hybaj!" Sotva ale paholok kone
+pošvihol, tu ti milý Mojžiš váhu spustí, že mala môjmu lyskovi chrápy
+odraziť, zamkne ju, i zatiahne takým reťaziskom, že som vo svojom živote
+nevidel, obesil naň zámku ako hlava i zakričal: ,Buďte milosrdní, páni
+veľkomožní, neodnímajte mi chlieb a vozte sa na vlastných koňoch, a na
+svojom koči!\' --- ,Však ti ja dám milosrdenstva,\' zavolám, ,však ti ja
+dám koča; nuž, ty kujon, či ty nevieš, kto som, čo som?\' A teraz dolu,
+páni bratia, vyrobte mu troška kožku na chrbte, ale tak milosrdne, aby
+mu zostala ako papier!\' Títo si to, pravda, nedali dva razy povedať,
+ale Mojžiš v päty! Nuž čo bolo robiť? Začneme hľadať sekeru, ale sekery
+nikde; začneme reťaz tĺcť skalami, ale tá sa nehla, ako čo by bola
+privarená bývala, a s vozmi do Bystrej poskákať sme nemohli. Nuž hoď sa
+o zem, alebo vykríkni, ako sa ti len páči, všetko ti je jedno! Keď sme
+sa tak asi hodinu navadili, ukvantovali, čo bolo robiť? Museli sme vziať
+nohy na plecia --- a tu sme. Ale počkaj, Mojžiš, neukáž sa mi na oči!" A
+tu hrozil päsťou.
+
+Tak sa musela Bešeňovského stránka i o hlade i o smäde rozísť, v duši
+pomstu variac.
+
+Potockovcom to lepšie išlo. Jedli, pili, veselili sa, tancovali,
+spievali, vivatovali, dvíhali pánov vicišpánov i slúžnych dohora --- a
+bolo tam tak pekne, tak sladko, tak milo, že by si človek ani po smrti
+lepšie nežiadal: Pán vicišpán Potocký sa ale len na chvíľku ukázal a tu
+sa hlavne obracal okolo Ondreja Levického, a tisol ho na prsia, i díval
+sa mu do očí i nevedel, čo s ním začať, až sa ho naostatok spýtal: „Ale
+povedzte mi len, pán brat, kde ste vy toľko fígľov nabrali?"
+
+„Hm, vaša milosť," uškŕňajúc sa odpovedal Ondrej Levický, „vari ma hádam
+pánboh nadarmo nestvoril za advokáta!"
+
+„Ale kto to len bol, čo to Bešeňovských a Kadičov tak pekne obriadil?"
+spytoval sa ďalej Potocký. „Mne sa vidí, že ste mi to popredku povedali,
+ale som predsa nemyslel, že to tak smiešne vypadne."
+
+Ticho, vaša milosť! Musíte i Ištvánovi i Mojžišovi zaplatiť za
+ustávanie, a predsa nesmiete o tom ani slova hovoriť, bo budete ešte nad
+nimi súdiť. Čo dáte Jožkovi, že Medziborských odviedol, to je vaša vec,
+ale tamtým dáte, čo som ja im sľúbil."
+
+Potocký sa usmial i odpovedal: „Všetko dobre, čo chcete, stane sa; len
+škoda veru, že sme sa prv bližšie nepoznali."
+
+„Po rade bývajú páni múdrejší," odpovedal Ondrej, „a vaša milosť sa veru
+nazdáva, že to všetko vám kvôli; keby bol kto z Levických súci býval za
+prvého vicišpána --- neviem, či by ste vy boli hlavou stolice."
+
+Potocký ho bozkal, zahrozil mu prstom i povedal: „Vy ste, pán brat,
+potme húdli a po vidne tancovali."
+
+# X
+
+Tak to ide na tom božom svete, čo malo začiatok, musí mať i koniec.
+
+Po reštavrácii sa stolica naruby obrátila. Nový úrad začal svoje
+úradovanie so samými procesmi. Najprv Bešeňovskovci contra sedliakom z
+Preclova, že namiesto do stolice pánov za času reštavrácie zaviezli do
+hory. Tí sa obrátili na pána Ondreja Levického, a on im všetky písma
+napísal, a okrem toho súc asesorom, pri súde sedel i myslel, keď sami
+zemania, keď im ich vlastné záujmy najviac v hre stáli, rad---radom, a
+do tristo --- do štyristo hláv pozaspávali, že nik nemôže žiadať od
+päťadvadsiatich sedliakov, ktorí ani nevedeli, prečo vezú a prečo
+nevezú, aby zaspali, keď sen na nich príde; za hoviadko ale že nik dobre
+stáť nemôže, keď je samo zanechané a naučilo sa od mladi do hory chodiť.
+Bešeňovskovci prehrali.
+
+Potom došli Kadičovci contra Mojžišovi Goldschimmerovi, že od nich pýtal
+mýto. Mojžiš chodil každý deň Ondrejovi na krk, aby ho, prepánaboha,
+ratoval, každý deň mu okrem toho list písal a ešte okrem toho každý deň
+svoju dcérušku Rebeku k nemu posielal, aby sa zmiloval nad ním
+utrápeným, na mizinu vyšlým človekom. Ondrej porobil písma, a súc
+asesorom pri sédrii vykonal, že sa Mojžišovi nielen nič nestalo, lebo
+vraj koňovi na čele napísané nestojí, či zemanovi prislúcha, či nie; ale
+ešte Kadičovci museli zaplatiť Mojžišovi náhradu za škodu na dverách,
+náradí a oknách urobenú.
+
+Najhoršie to vyzeralo s Adamom Bešeňovským. O Štefanovi Levickom a jeho
+matke, svojej sestre, nechcel počuť ani slova. Štefanovi odstúpil strýc
+Ondrej svoj domec i s celým majetkom, ale žil pri ňom, vraj na penzii, a
+miešal sa mu do každej maličkosti. Levickovskí boli pyšní na vicišpána
+zo svojho rodu, takže už pred domom, kde býval, klobúky snímali, lebo v
+tom vraj len svoju famíliu a tak sami seba ctili; Štefanova mať ale ani
+nevedela, čo sa s ňou robí, lebo sa mal okolo nej celý svet, a tí
+najviac, čo jej dakedy o jej chlapcovi hovorievali, že nebude zo psa
+slanina, ani z vlka baranina.
+
+Ale čudne, že teraz najviac platil u Adama Bešeňovského Peter Barina,
+ktorý ho skoro každý deň navštevoval a mu noviny z celej stolice
+donášal, pričom mu ale nikdy nezabudol dohovárať, prečo teraz podľa
+sľubu Anuľku nedá Štefanovi. Adam o tom nič počuť nechcel, pričom ale
+Barina nikdy ducha nestratil, a keď mu Adam povedal, že už preňho
+potešenia niet, tu odpovedal: „Uverte len tomu! Dajte, vaša milosť,
+Anuľku Štefanovi a bude potešenia dosť, lebo ---" a tu zhŕdžil čelo, ako
+keď pri reštavrácii „vykričím" privolával, a do ucha Adamovi uduseným
+tajomstva plným hlasom hovoril: „Do roka proroka." Ale so svojím
+prihováraním nič vyviesť nemohol.
+
+Raz zahrčala v Radošovciach kopa kočov a z nich vystúpil celý stoličný
+úrad s niekoľko asesormi, medzi nimi Ondrej Levický pýtajúc sa k pánu
+Adamovi. Ten nechcel ani počuť, slyšiac, že chce dnu Potocký a Štefan i
+Ondrej Levický; ale keď mu zas povedali, že sú všetci pod šabľami a
+mentiečky pod zlatom majú, tu nevedel, čo o tej veci myslieť. Ale kým
+myslel, už boli páni tu, pekne sa poklonili a pán vicišpán Potocký začne
+reč držať i vypovie: „Domine magnifice!"#POZ#57;(lat.) Veľkomožný
+pane!#-POZ#
+
+Ako to Adam počul, strhol sa a nevedel, čo sa mu robí, keď ho jeho
+najväčší nepriateľ „domine magnifice" volá; a predsa súc úradná osoba,
+komédie predvádzať nemôže. A tak stál i počúval, čo to bude. Keď ale pán
+vicíšpán vytiahol zapečatené písmo i vypovedal, že jeho kráľovská
+jasnosť ráčila ho vyvoliť za konsiliára a povoláva ho do Budína,
+stoličný úrad teda, že si za česť pokladá jemu teraz môcť poklonu
+urobiť, tu Adam omladol, okrialo mu srdce, podal ruky protivníkom,
+pobozkal ich --- a nepriateľstvu bol koniec, bo bol teraz väčší od nich
+a jeho krok mohli len za blahosklonnosť pokladať. Len Ondrejovi naholo
+dosť na tom, vystúpil hneď napred a pýtal „suam
+magnifecentiam"#POZ#58;(lat.) Jeho veľkomožnosí.#-POZ# o ruku jeho dcéry
+pre vicišpána Štefana Levického. Adam sa sprvu zdráhal, ale keď ho
+všetci prosili a Ondrej mu na otázku, nakoľko ho Štefan pri reštavrácii
+oklamal, odpovedal, že celých tých vecí, bez vedomia Štefanovho, len on
+sám bol pôvodcom, a onen že nič k tomu nedopomohol, okrem že sa o hlavy
+Bešeňovskovcov postaral, tu Adam privolil k všetkému, nakoľko jeho dcéra
+tiež k všetkému privolí. Táto prišla dnu a tak, ako predtým, usmievavo,
+bezprostredne, rozpustilo povedala, že by síce proti tomu nič nemala,
+ale čo si pomôže, keď ju Štefan nechce. Keď ju ale ten oslovil, že však
+vie, čo sa i teraz v posledných dňoch otcovi za chrbtom robí, tu sa
+nahnevala, pohrozila mu prstom i povedala: „No počkaj! Ožeň sa,
+doskáčeš!" A bol histórii koniec, lenže ešte Anuľka Štefanovi zašeptala:
+„V parte anjel, a čert v čepci!"
+
+Po svadbe odišiel pán Adam Bešeňovský na miesto svojho nového pôsobenia,
+oddajúc pritom celý rozsiahly majetok zaťovi, ktorý si po boku dobrej a
+k tomu vždy veselej ženy prežíval ako v raji, a skoro sa stal prvým
+vicišpánom stolice, bo pána Potockého tiež povolali do Pešti k
+septemvirálnej tabuli. Ondreja i s matkou vzal Štefan k sebe; tamten mu
+až do smrti popod uši húdol, táto bola celá šťastlivá, keď mohla len
+zďaleka so založenými rukami na svojho syna pozerať a vnúčatá pestovať
+
+Bešeňovskovci sa s Levickovcami zmierili, lebo pán Adam obidve famílie
+na svadbu povolal a hostil ich za tri dni, že im nič nechýbalo, len
+vtáčie mlieko; a nik im zas v stolici odolať nemohol, takže na nich sa
+spustiac, mohol Štefan robiť, čo sa mu len zapáčilo.
+
+Ešte sa musíme zmieniť o našich dvoch najstarších priateľoch a známych
+--- Matiášovi Bešeňovskom a Petrovi Barinovi. Na Matiášovi sa splnilo,
+aký život, taká smrť. Od všetkých a všetkého opustený oddal sa celkom
+pitiu a umrel v chudobe. Peter Barina zas temer každý deň chodieval do
+Radošoviec a rozprával Štefanovi i jeho žene, ako ich rád vidí. Zato si
+ho ale i títo ctili a náchylnosť svoju k nemu dokázali tým, že i dom
+otcovský Štefanov i strýca Ondreja darovali jeho dvom synom vediac, že
+sami majú majetku nazvyš, a vidiac, že pánboh Barinu až priveľmi obsypal
+dietkami. Chudák Barina si nad tým poplakal, ale zato keď mali dozrievať
+čerešne, hrušky alebo slivky, tu ich striehol ako oči v hlave, obtrhal
+ich a putoval s nimi do Radošoviec, rozdal ich dietkam Štefanovým a
+rozprával im, ako to bolo, keď ich otca za vicišpána volili, a vždy
+dokonával: „Hej, deti moje, to boli časy! Takých na môj hriešnu dušu
+nikdy viacej nebude!" i dusil sa, chudák, až do smrti, ako čo by mu v
+Geceli duše kovali.

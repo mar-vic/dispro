@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1918293" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Striga a Doviedol somára miesto kravy. : ELTeCedícia
+    </tei:title>
+    <tei:author ref="viaf:3600159477710827990005">
+     Somolický,  (1863 - 1918)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     2781
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Somolický,
+     </tei:author>
+     <tei:title>
+      Striga a Doviedol somára miesto kravy.
+     </tei:title>
+     <tei:pubPlace>
+      Turč. Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      J. Gašparík
+     </tei:publisher>
+     <tei:date>
+      1918
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Somolický,
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1909
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-08">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Striga a Doviedol somára miesto kravy.
+    </tei:head>
+    <tei:head>
+     Dve rozprávky zo života.
+    </tei:head>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     Striga.
+    </tei:head>
+    <tei:p>
+     Tie časy už dávno uletely, keď ešte ve­rili ľudia, že sú na svete   strigy a že vedia porobiť. Dnes ti už nikto neuverí, že je tá alebo   tá stará žena čarodejnica. Mohla by ťa uriekať, mohla by ti dať hoci   odvarok mačieho chvostika s mliekom od čiernej kravy, ty jej už   neveríš. Povieš: čary — nepodary a zasmeješ sa, lebo vieš, že niet   stríg, ani takých nápojov, ktoré mohly by ťa zkaziť.
+    </tei:p>
+    <tei:p>
+     A predsa sú také stridžie odvarky, ktoré ťa môžu otráviť, ba môžu   zkaziť, na vnivoč priviesť celú tvoju rodinu. — „Teda žijú ešte   strigy, čo majú usmrcujúce nápoje?“ pýtaš sa.
+    </tei:p>
+    <tei:p>
+     Oj, áno. I dnes ešte žijú strigy, len že majú iné mená; terajšie   strigy volajú sa: krčmy. A čože robia? Nespytuj sa, dobre vieš, že   ích nápoj, ktorý hubí svet, volá sa pálenkou.
+    </tei:p>
+    <tei:p>
+     Ak sa nechrániš týchto ježibáb, krčiem, veľmi ľahko navykneš na   ten odvarok z čer­tovských kopýt a si ztratený.
+    </tei:p>
+    <tei:p>
+     Dokážem ti to. Videl som to na vlastné oči v jednej dedine. Len to   mi odpusť, že pri tejto smutnej historii nevyzradím ti opravdivé mená   tých, o ktorých budem rozprávať.
+    </tei:p>
+    <tei:p>
+     Jozef Brdár a Ondrej Sytár boli najlepší a najporiadnejší gazdovia   v dedine. Svet im závidel a kdeby aj nie, veď mali vždy najlepšiu   úrodu a najkrajší statok na vidieku. Pravda, ani nevysedávali v   krčme, ako mnohí iní, ale keď mali svobodný čas, čítavali noviny   alebo knižky. Tí, čo tŕžili v krčme, vysmievali ich, že sú   pecúchovia, že si nedoprajú ani toho obveselenia v nevoňavej Icíkovej   krčme, ale Jozef a Ondrej vysmievali tiež logajov, čo mozoľujú a   prepíjajú ovocie svojej práce.
+    </tei:p>
+    <tei:p>
+     Brdár mal syna a Sytár jedinú dcéru. Pán Boh nepožehnal im viac   detí. Oba vychovávali v bázni Božej svojich jedináčkov. Pravda, ako   to rodičia často nerozumne robia, trošku i maznali svoje deti, ale to   nebolo by ešte tak škodilo, keby u Brdára nebolo sa stalo „keby.“
+    </tei:p>
+    <tei:p>
+     Jozef Brdár bol raz na trhu a vracajúc sa, vzal na voz krčmára   Icíka. Krčmári, ako viete, majú sladký jazyk. Ktože by im inak tú   nešťastnú pálenku píjal? Icík za láskavosť zavolal Brdára na rozóliš.   „Ved je už večer, pán Brdár, čože zameškajú?“ Brdár sa z počiatku   vyhováral, ale ko­nečne odopäl koňom pobočky a vošiel do krčmy. (Brdár   býval na hornom konci de­diny, preto nechcelo sa mu kone domov   zaviesť; ale ani žena nebola by ho už po­tom pustila.)
+    </tei:p>
+    <tei:p>
+     Rozóliš bol sladký, tiekol dolu hrdlom ani po masle. Icík   vychvaľoval Brdára, nalieval, pochleboval mu a rozóliš bol tým   sladší. Keď mu už začala hlava horeť a zbadal, že podpití občania   potuteľne sa usmievajú, sobral sa domov. Ale pred krčmou koní ne­bolo.   Mysliac, že kone našly si cestu domov, išiel spokojný za nimi. Ale   koní ani doma nebolo. Zobudil paholka a šli hľadať kone. Dlho   hľadali, kričali, až ich našli v úpuste i s dolámaným vozom. Voz ako   voz, ale tie krásne kone boly — zatopené.
+    </tei:p>
+    <tei:p>
+     Z toho povstal u Brdára prvý hriech, Brdárka dozvedela sa, že kone   ušly, kým gazda pil. Hromžila, plakala, že len tak hučalo. Brdárovi   bolo tiež všeliako okolo srdca za krásnymi koňmi, ktoré stály   otcu-materi štyristo zlatých, ale sa premáhal.
+    </tei:p>
+    <tei:p>
+     Zrazu stretol sa s Icíkom na dedine a ponosoval sa mu, čo sa mu   stalo pre ten nešťastný rozóliš.
+    </tei:p>
+    <tei:p>
+     „Susedko, nerobte si z toho nič a ženský jazyk nepočúvajte. Dám   vám dobrú radu. Poďte počastujem vás. Keď prídete domov, budete   veselý. Ak žena bude krik robiť, nahneváte sa, spravíte krik, zlomíte   stoličku a budete mať od ženy svätý pokoj. A kone boly i budú.
+    </tei:p>
+    <tei:p>
+     Brdár zase pil rozóliš a tak sa opil, že ho Icíkov paholok musel   domov zaviesť. Žena zase hromžila; Brdár, poslúchnúc Icíka, začal   rozhadzovať stolce, v kuchyni rozbil niekoľko krncov a nastalo ticho.   Žena a syn ušli do komory. A ďalej? Čert vie, čo ten Icík namiešal do   toho rozólišu: od toho času Brdár deň i noc vysedával v krčme. Zprvu   pil rozóliš, potom pálenku, neskôr mu bol i špiritus slabý.
+    </tei:p>
+    <tei:p/>
+    <tei:p>
+     Brdárovo gazdovstvo stálo už na veľmi slabých nohách, keď syn   Jozef odberal sa k vojsku. Otec nešiel ani len odprevadiť syna: sedel   v krčme a pil. Odprevadila ho matka a Sytárova dcéra Zuzka. Smutné to   bolo lúčenie, i od matky, i od Zuzky, ktorú mal tak veľmi rád!
+    </tei:p>
+    <tei:p>
+     „Zuzka, len sa nevydaj. Tie tri roky chytro sa minú a potom sa   soberieme,“ prosil Jožko svoju holubičku. Ona namiesto odpovede   objala ho a plakala. Nepotreboval jej slov, rozumel, čo ten plač   znamená. Vlak odletel a Jožkova matka so Zuzkou od žiaľu ani   nevedely, ako sa dostaly domov.
+    </tei:p>
+    <tei:p/>
+    <tei:p>
+     Minul rok, čo mladý Brdár odišiel k vojsku; ďaleko ho poslali, do   Dalmácie. U Brdárov nastaly krušné časy. Gazdiná ťažko ochorela a   exekútor bol u nich skoro každodenným hosťom. Brdár býval už zväčša v   krčme a keď prišiel neskoro v noci domov, trýznil svoju chorú ženu.   Konečne dotrpela. Jeden deň ju pochovali a na druhý predali na   licitácii Brdárovský majetok. Chcel ho kúpiť Icík, ale Zuzka   Sytárovie do tých čias prosila otca, kým tento neodhodlal sa kúpiť   ho. O niekoľko dní našli starého Brdára v jarku zatopeného. Idúcky z   krčmy padol do jarku a zadusil sa vo vode, ktorá je iba po   členky.
+    </tei:p>
+    <tei:p>
+     Zuzka písala o nešťastí Jožkovi, ale ho prosila, aby nezúfal, že   však gazdovstvo kúpil jej otec a to je len preňho, lebo „keď my   budeme svoji, i to bude naše. Som ti verná až do tvojej a mojej   smrti. Zuzka.“
+    </tei:p>
+    <tei:p/>
+    <tei:p>
+     Ale Zuzka mýlila sa veľmi. Syn najbo­hatšieho gazdu zo súsednej   dediny hlásil sa do Sytárov za zaťa. Sytárovi zapáčil sa mládenec.   Zuzka plakala, vyhrážala sa, že sa zmárni, ale starý Sytár   nepopustil.
+    </tei:p>
+    <tei:p>
+     „Vari za Brdára chcela by si sa vydať? To by mi ešte bolo treba!   Aký otec, taký syn. Otec bol korheľ, ani syn nebude lepší. Radšej   mŕtvu nech ťa vidím, ale za toho nikdy nepôjdeš!“ vykrikoval   Sytár.
+    </tei:p>
+    <tei:p>
+     A Zuzka poddala sa otcovej vôli. Bľadá na smrť kráčala pred oltár.   Šeptom povedala slovo „milujem“ a zamdlela.
+    </tei:p>
+    <tei:p>
+     Uletelo desať rokov. V dedine premenilo sa všeličo. Začnem s   Icíkom. Tento už ne­býva v drevenej krčme, lebo zhorela. Bola vraj   vysoko poistená. Súsedia, ktorí nedali si poistiť majetky, ale   prepíjali posledný groš, vyhoreli tiež a sú polovičatí žobráci. Zeman   Čučorinský do tých čias požičiaval si od Icíka, kým ho nezpredali.   Zemiansku kúriu kúpil Icík a v kaštieli predáva pálenku — otravu.   Stučnel a vozieva sa na koči, na ktorom prevážala sa Čučorinského   rodina. Krčma je v kaštieli, ale škola vyzerá ako maštaľ. Už nemajú   ani učiteľa, lebo ho nemajú odkiaľ platiť. Deti nemajú si čo obliecť,   kdeby to ešte učiteľa platiť!
+    </tei:p>
+    <tei:p>
+     Ani u Sytárov nie je veselo. Je po večeri. Stará Sytárka už   odpočíva v hrobe, Sytár leží na posteli. Nie je starý, ale veľmi   slabý. Zuzka, ešte vždy pekná, ale usužovaná, čosi vyšíva za stolom.   A kde je jej muž?
+    </tei:p>
+    <tei:p>
+     Ten už tiež odpočíva v hrobe. Sklamal sa v ňom starý Svtár. Icíkov   rozóliš zviedol ho, pomaly klesal, podpisoval zmenky a strhol do   dlžôb i tesťa. Stal sa korheľom a raz, keď bola pračka v krčme, tak   nešťastne padol, že sa zabil. — Hovorilo sa, že ho kamaráti ohlušili,   ale kto vie? Dosť na tom, že pre to nešťastie dvaja ženáči a dvaja   mládenci v Iľave sedia.
+    </tei:p>
+    <tei:p>
+     „Zuzka,“ prehovoril Sytár, „či si nič ne­počula o Brdárovi?“
+    </tei:p>
+    <tei:p>
+     „Nič, ňanka,“ odpovedala Zuzka a slzy jej vypadly. Od mojej svadby   ani chýru, ani slychu o ňom. Vtedy mi písal, že nikdy viac nepríde do   našej dediny.“ Vzdychla si.
+    </tei:p>
+    <tei:p>
+     „A to je moja vina. Viem, Zuzka, že si nešťastná, ale uznaj mi, tá   striga, čo tú otravu varí...“
+    </tei:p>
+    <tei:p>
+     „Aká striga?“
+    </tei:p>
+    <tei:p>
+     „Nuž krčma; bál som sa, že i jemu po­robí, ako jeho otcovi. Ale mi   odpusť, Zuzka; vieš, že ti už nebudem dlho na oštaru...“
+    </tei:p>
+    <tei:p>
+     „Nie, ňanka, tak nehovorte,“ vstanúc a prikročiac k posteli,   hovorila prosebným hlasom. „Ved čo bych si počala na svete bez   vás?“
+    </tei:p>
+    <tei:p>
+     „Boh ťa neopustí a možno...“
+    </tei:p>
+    <tei:p>
+     „Čo chcete povedať?“
+    </tei:p>
+    <tei:p>
+     „Možno, že ešte i Jožka pošle ti Pán Boh.“
+    </tei:p>
+    <tei:p>
+     Zuzka beznádejne zaplakala. V tom ktosi zaklopal na okno, išla mu   otvoriť. Dnu vstúpil neznámy bradatý pán.
+    </tei:p>
+    <tei:p>
+     „Prosím vás, ľudia dobrí, či by ste mi nedali prenocovať? Do krčmy   nechcem ísť a povedali ľudia, že vy máte viac izieb.“
+    </tei:p>
+    <tei:p>
+     Zuzka pozrela na otca; tento pokýval hlavou: „Prečo nie? Veď je to   svätá povinnosť pocestných pritúliť. A odkiaľ cestujete?“
+    </tei:p>
+    <tei:p>
+     „Z Ameriky,“ odpovedal cudzinec.
+    </tei:p>
+    <tei:p>
+     Zuzka sa strhla, lebo veď počula, že i jej Jožko po vyslúžení   vojenčiny vyvandroval do Ameriky.
+    </tei:p>
+    <tei:p>
+     „A nevideli ste tam dakde istého Jozefa Brdára?“ spýtala sa.
+    </tei:p>
+    <tei:p>
+     „Veru videl a dal vás i pekne pozdraviť.“
+    </tei:p>
+    <tei:p>
+     Zuzka pristúpila k cudzincovi a chytila ho za ruku: „Povedzte mi,   pre Boha, ako sa má, či je zdravý a či je nie...“
+    </tei:p>
+    <tei:p>
+     „Chcete povedať, či je nie ženatý? Nie je, ale sa ožení, ak vraj   pôjdete zaňho.
+    </tei:p>
+    <tei:p>
+     Čože mu odkážete? pôjdete zaňho?“
+    </tei:p>
+    <tei:p>
+     Zuzka očervenela a začala sa triasť na celom tele.
+    </tei:p>
+    <tei:p>
+     „Zuzka a nepoznáš ma?“ zavolal zrazu cudzinec.
+    </tei:p>
+    <tei:p>
+     „Jožko môj!“ vykríkla Zuzka v nasledu­júcom okamihu a plakala na   cudzincových prsiach.
+    </tei:p>
+    <tei:p>
+     Netreba vám ani hovoriť, že cudzinec, ktorý prišiel z Ameriky, je   náš Jožko Brdár. Onedlho bola svadba. Po svadbe spytovali sa občania   Brdára, čo ho vyhnalo tak ďaleko, až do Ameriky.
+    </tei:p>
+    <tei:p>
+     „Striga, priatelia moji, ktorá i vás čosi kamsi vyženie z dediny,   ak jej nebudete vyhybovať,“ odpovedal Jožko.
+    </tei:p>
+    <tei:p>
+     „Aká striga, keď už stríg niet?“
+    </tei:p>
+    <tei:p>
+     „A krčma je čo, ktorá zahubila môjho otca i mať, jedu namiešala do   môjho kalicha a i vás neprestajne otravuje?“
+    </tei:p>
+    <tei:p>
+     Na túto otázku nikto neodpovedal. Kto mlčí, ten svedčí.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Doviedol somára miesto kravy.
+    </tei:head>
+    <tei:p>
+     Ďurko Púpava z Čemeroviec dedil po otcovi niekoľko jutár rolí, dve   veľké lúky, pekný kus hory, dva páry volov, dve kravy atď. No bolo i   pár zlatých na zálohoch. Dnes už nemá ani hory, ani lúk, ani volov,   vôbec má už len chalupu, niekoľko dlžobami ob­ťažených brázd a v   maštali ušiaka, ale ne­myslite, že zajaca, oj nie, to jeho zviera je   väčšie, je to — somár.
+    </tei:p>
+    <tei:p>
+     Vy sa začudujete, keď vám poviem, že je Duro Púpava celkom   poriadny človek, a predsa natoľko zbiednel. Musím vám vy­zradiť, že on   bol v svojej mladosti pracovitý človek, keď ho smädilo, pil vodu   alebo mlie­ko, ale vtedy nebolo v dedine krčmy. Ľu­dia pili mlieko a   vodu a mali sa dobre. Ale krčmár v súsednej dedine — volal sa Móric   Diamant — mal štyroch synov a všetci štyria naučili sa pálenku merať.   Nemohli teda na hŕbe zostať, rozbehli sa svetom, to jest, každý vzal   za krčah špiritusu a išiel do blízkych obcí napájať smädných ľudí.   Kto by vždy vodu a mlieko pil?
+    </tei:p>
+    <tei:p>
+     Do Čemeroviec dostal sa Jakub Diamant; najal si hospodu a začal   gazdov vábiť. Zprvu ho vysmievali, ale neskôr skoro celé Čemerovce   dostaly čemer od tuhej pálenky Jakubovej.
+    </tei:p>
+    <tei:p>
+     Tak sa stalo, že i Ďuro Púpava častejšie dostával čemer od pálenky   a dnes, keď mu už exekútor poriadne pretrel čemer, odpre­dajúc mu na   licitácii posledné prasa, vrátil sa už ani nie k mlieku, ale len k   vode a zase je celkom poriadny človek. Už od roka nepije nič. Je   pilný a chcel by si už i stisnúť ten groš, ale to ťažko ide, lebo,   ako viete, zárobkov niet a keď kde-tu najde nejakú prácu, zárobček   sotva stačí na splácanie úrokov a na soľ.
+    </tei:p>
+    <tei:p>
+     Ako hovorím, od roka Púpava neoblizol pálenčiska a žena i deti hoc   i cítily nú­dzu, nereptaly na svoju chudobu, lebo veď videly, že ích   otec napravil sa a znovu stará sa o nich. Veď keď je pokoj v dome, i   chu­doba ľahko sa znáša.
+    </tei:p>
+    <tei:p>
+     Ale tí kamaráti z mokrej štvrti! Hej, keby tí nesvádzali na zlé   chodníky! Majú sladké reči, ako med, no a Púpava má mäkké srdce, ako   maslo. Toto bolo aj jeho nešťastím. Mäkké srdce je na vine, že v   maštali stojí chudý somár miesto kravy.
+    </tei:p>
+    <tei:p>
+     Stalo sa to takto. Jednoho dňa prišla Púpavka od brata a položila   na stôl štyridsať zlatých. Púpava vyvalil oči.
+    </tei:p>
+    <tei:p>
+     „To mi dal brat výplatok,“ hovorila. „Po­trebujeme živnosť.   Pozajtre je v Bystrici trh, chod kravičku kúpiť.“
+    </tei:p>
+    <tei:p>
+     Púpava vyskočil od radosti a chcel objať ženu. I deti to počuly a   hneď išly oznámiť kamarátom, že budú mať kravu.
+    </tei:p>
+    <tei:p>
+     Púpava na druhý deň vybral sa na trh. Žena ho vyprevádzala a pre   Boha prosila, aby sa nedal sviesť kamarátom, aby za­držal sľub, aby   nepil pálenky.
+    </tei:p>
+    <tei:p>
+     „Veď som jej nemal v ústach od roka a teraz by som mal piť?“   hovoril s výčitkou Púpava. „Neboj sa, stará moja, už ma naučila bieda   — nikdy ja neokúsim pálenky, ktorá nás na vnivoč doniesla.“
+    </tei:p>
+    <tei:p>
+     Púpavka prežehnala muža a vrátila sa spokojná do izby.
+    </tei:p>
+    <tei:p>
+     Kúpa na trhu v Bystrici podarila sa. Púpava kúpil za 35 zlatých   kravičku a veselo kráčal s ňou domov. Už dávno nebolo mu tak sladko   na duši, ako teraz. Čiže budú mať žena a deti radosť! Po ceste zjedol   pa­gáč, čo mu žena na cestu dala a rozmýšľal o tom, ako teraz pomaly   zmáhať sa bude. Krava sa otelí, bude mať jalovičku, táto na­rastie a   tiež sa otelí, potom starú predá a kúpi si junčeky. O dva tri roky   dožije sa volov.
+    </tei:p>
+    <tei:p>
+     V takýchto myšlienkach dohonil vyše Horného Hermanca neznámych   gazdov, ktorí tiež hnali statok s trhu. Dali sa do reči hore   vrchom.
+    </tei:p>
+    <tei:p>
+     „Hej, ale je za zima!“
+    </tei:p>
+    <tei:p>
+     „Až uši horia človeku.“
+    </tei:p>
+    <tei:p>
+     „A ešte je ďaleko na Bartošku, tam sa sohrejeme v krčme.“
+    </tei:p>
+    <tei:p>
+     „Ja nechodím do krčmy.“
+    </tei:p>
+    <tei:p>
+     „Nuž a prečo nie?“
+    </tei:p>
+    <tei:p>
+     Púpava hanbil sa povedať, že premárnil majetok v krčme. Odpovedal   len na krátko, že nepije.
+    </tei:p>
+    <tei:p>
+     Gazdovia dali sa do smiechu a začali Pú­pavu premŕzať.
+    </tei:p>
+    <tei:p>
+     „Veď keď aj nepijete v lete, ale v takejto zime zaslúži ten   žalúdok voľačo, čo ho rozo­hreje,“ poznamenal jeden medzi   premŕzaním.
+    </tei:p>
+    <tei:p>
+     Ako dochádzali ku krčme na Bartoške, Púpava začal sa klátiť vo   svojom predsavzatí. „Veru,“ myslel si, „v takejto zime ne­zaškodilo by   niekoľko kvapák do žalúdka. Ešte mám aj tak kus cesty do Čemeroviec,   zišlo by sa posilniť.“
+    </tei:p>
+    <tei:p>
+     Mrkalo, keď prišli ku krčme.
+    </tei:p>
+    <tei:p>
+     „A vy, svätý človek, nejdete dnu?“ spy­tovali sa gazdovia Púpavu.   Ale Púpava už bol zmäknutý, ako maslo a uväzoval už kravičku na stĺp   pod kôlňou.
+    </tei:p>
+    <tei:p>
+     Vošli všetci. Neznámy gazdovia dali si naliať liter, Púpava dva   deci. V lačnom žalúdku počala pálenka pracovať. „Ach, ako hreje!“   myslel si Púpava. „Ale to už bude dosť, len si posedím, kým sa tí   pohnú.“ Ale neboráka v tej izbe tak rozohriala čertova medicína, že   skoro nepovedome ukázal na fľašku, aby krčmár ešte nalial. Vylial do   seba i druhé dva deci. Opanovala ho akási sladkosť, bol by chcel   každého objímať. A neznámi gazdovia cítili sa tiež dobre, lebo   ponúkli Púpavu skleničkou. Vypil a nalial ďalej. Ale móres je móres,   keď bola fľaša prázdna, rozkázal i on liter. Kto vie, koľký to už bol   liter, keď mu odkvicla hlava na stôl: Púpava zaspal.
+    </tei:p>
+    <tei:p>
+     Asi o štvrť hodiny zobudí ho krčmár; „Hej, tam von mrzne, choďte   si dať aspoň kravu do maštale. Vaši kamaráti vás už odišli.“
+    </tei:p>
+    <tei:p>
+     „Nech odišli, ja idem domov,“ zamrmlal Púpava, keď sa poobzeral,   kde je.
+    </tei:p>
+    <tei:p>
+     „Nechoďte v takej tme, veď ste i tak opilý, môže sa vám dačo   stať,“ odhováral ho krčmár.
+    </tei:p>
+    <tei:p>
+     „A čo mi rozkazuješ? Ja idem, žena ma čaká. Čo som dlžen?“
+    </tei:p>
+    <tei:p>
+     „Už vaši kamaráti zaplatili.“
+    </tei:p>
+    <tei:p>
+     Púpava vytackal sa von. Pod kôľnou nahmatal kravu, odviazal ju a   vyšiel na cestu.
+    </tei:p>
+    <tei:p>
+     „Hm, to by bolo, tu nocovať. Čo by žena povedala? Aký mudrc!“   šomral si, ťahajúc svoje hovädo. „Deti chcú mlieko a už ráno budú ho   mať. Mudrc, chce, abych tu nocoval. Hohó, Žide, to tak nejde! A žena   — jój, tá bude rada. Dobrá kúpa, lacná kúpa. Len veselo, Rysuľka   moja. Oj, dobre ti bude u mňa!“
+    </tei:p>
+    <tei:p>
+     Za hodinu bol v Čemerovciach, ale ešte nevytrezvel. Len tak ako   iskra preletelo mu hlavou, že žena hnevať sa bude, keď nepríde   triezvy domov. „Ale,“ myslel si, „dobrá kúpa všetko zahojí. Ale je   akási menšia táto Rysuľka, ako bola. No, to sa mi len tak zdá v   noci.“
+    </tei:p>
+    <tei:p>
+     Už je doma. Otvoril maštaľ a uväzuje kravu. Búcha na dvere.   Púpavka otvorila.
+    </tei:p>
+    <tei:p>
+     „Kúpil si?“
+    </tei:p>
+    <tei:p>
+     „Kúpil.“
+    </tei:p>
+    <tei:p>
+     Púpavka vrátila sa pre lampáš a o chvíľu oba otvárajú maštaľ.
+    </tei:p>
+    <tei:p>
+     „Pre Boha, veď je to — somár!“ vykríkla Púpavka. On podišiel k   hlave a chytá somára za uši, či sú to nie rohy. Začal odrazu   vytrezvievať.
+    </tei:p>
+    <tei:p>
+     „Ale krava to musí byť, veď viem, čo som kúpil. Len teraz, keď som   ju uväzoval, mala rohy. Nože sa lepšie prizri!“
+    </tei:p>
+    <tei:p>
+     Ale Púpavka nemusela sa prizerať, ho­viadko samo vysvetlilo, čo je,   vydajúc zo seba známy hlas: „i—á!“
+    </tei:p>
+    <tei:p>
+     Ďalej mám rozprávať, čo sa robilo? Načo! Neznámi gazdovia v krčme   na Bartoške, a Boh vie, čo vlastne boli, vidiac opitého Púpavu,   pojali sebou kravu a na stĺp priviazali somára, ktorý je sotva piatku   hoden. Žandári ich hľadajú, ale akiste márne, lebo nikto nevie,   odkiaľ sú.
+    </tei:p>
+    <tei:p>
+     Púpava sa zaprisahal, že už nikdy nebude piť. Zase je poriadny,   pilný človek a je nádej, že takým zostane navždy. Ale nech sa nikto   nečuduje, že obdržal nové priezvisko; teraz ho už volajú Ďuro Púpava   — Somár. A to meno zostane i jeho detným deťom — príde i do pozemnej   knihy.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Editino očko",
+        "publisher": "Leopold Mazáč, Sväz slovenského študentstva",
+        "pub_place": "Bratislava",
+        "pub_date": "1925"
+    },
+    "authors": [
+        {
+            "first_name": "Gejza",
+            "last_name": "Vámoš",
+            "birth_date": "1901",
+            "death_date": "1956",
+            "ref": "viaf:88126800"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

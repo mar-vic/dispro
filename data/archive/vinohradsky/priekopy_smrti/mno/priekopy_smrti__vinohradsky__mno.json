@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Priekopy smrti",
+        "publisher": "Hlavná správa osvety a výchovy MNO",
+        "pub_place": "Bratislava",
+        "pub_date": "1945"
+    },
+    "authors": [
+        {
+            "first_name": "",
+            "last_name": "Vinohradský",
+            "birth_date": "",
+            "death_date": "",
+            "ref": ""
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

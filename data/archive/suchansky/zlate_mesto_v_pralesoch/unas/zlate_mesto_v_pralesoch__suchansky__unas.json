@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Zlaté mesto v pralesoch",
+        "publisher": "Kníhtlačiarsky Sv. Martin",
+        "pub_place": "Učiteľské nakladateľstvo slovenské 'U NÁS'",
+        "pub_date": "1934"
+    },
+    "authors": [
+        {
+            "first_name": "Peter",
+            "last_name": "Suchánsky",
+            "birth_date": "1897",
+            "death_date": "1979",
+            "ref": "viaf:4486073"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

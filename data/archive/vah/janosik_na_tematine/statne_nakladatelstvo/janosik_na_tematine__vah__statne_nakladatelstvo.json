@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Jánošík na Tematíne",
+        "publisher": "Štátne nakladateľstvo",
+        "pub_place": "Bratislava",
+        "pub_date": "1949"
+    },
+    "authors": [
+        {
+            "first_name": "Jozef",
+            "last_name": "Váh",
+            "birth_date": "",
+            "death_date": "",
+            "ref": ""
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

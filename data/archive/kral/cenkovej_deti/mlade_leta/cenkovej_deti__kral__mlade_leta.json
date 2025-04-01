@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Čenkovej deti",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1980"
+    },
+    "firsted": {
+        "pub_date": "1932"
+    },
+    "authors": [
+        {
+            "first_name": "Fraňo",
+            "last_name": "Kráľ",
+            "birth_date": "1903",
+            "death_date": "1955",
+            "ref": "viaf:40174340"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

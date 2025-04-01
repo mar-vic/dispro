@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Čo nebolo v novinách",
+        "publisher": "Slovenské vydavateľstvo politickej literatúry",
+        "pub_place": "Bratislava",
+        "pub_date": "1958"
+    },
+    "authors": [
+        {
+            "first_name": "Vladimír",
+            "last_name": "Mináč",
+            "birth_date": "1922",
+            "death_date": "1996",
+            "ref": "viaf:68942772"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

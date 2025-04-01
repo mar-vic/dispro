@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Cez šesťdesiatjeden končiarov",
+        "publisher": "Slovenské nakladateľstvo detskej knihy",
+        "pub_place": "Bratislava",
+        "pub_date": "1956"
+    },
+    "authors": [
+        {
+            "first_name": "Rudo",
+            "last_name": "Moric",
+            "birth_date": "1921",
+            "death_date": "1985",
+            "ref": "viaf:27565344"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

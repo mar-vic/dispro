@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Sivá húska",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1959"
+    },
+    "firsted": {
+        "pub_date": "1959"
+    },
+    "authors": [
+        {
+            "first_name": "Hana",
+            "last_name": "Zelinová",
+            "birth_date": "1914",
+            "death_date": "2004",
+            "ref": "viaf:93739997"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "F",
+    "canonicity": "unspecified"
+}

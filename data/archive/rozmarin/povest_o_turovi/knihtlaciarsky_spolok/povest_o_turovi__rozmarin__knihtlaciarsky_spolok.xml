@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1899848" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Povesť o Turovi : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:3046160909248012870006">
+     Rozmarín, Marek (1826 - 1877)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     5063
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rozmarín, Marek
+     </tei:author>
+     <tei:title>
+      Povesť o Turovi
+     </tei:title>
+     <tei:pubPlace>
+      Turč. Sv. Martin
+     </tei:pubPlace>
+     <tei:publisher>
+      kníhtlačiarsko-účastinársky spolok
+     </tei:publisher>
+     <tei:date>
+      1899
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Rozmarín, Marek
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1873
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T2"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-08">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Povesť o Turovi.
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Dávno to bolo, tak že to už ludia ani nepamä­tajú, bol raz jeden   kniaho, ktorý mal jediného syna. Otec menoval sa Nito bánom, a jeho   syn Turom, lebo v tých časoch, keď za ľudí nehanbili sa bohovia   spasy, ľudia ešte radi mali a radi nosili božské mená.
+   </tei:p>
+   <tei:p>
+    Nito, alebo ako ho národ — iste pre jeho velikú otcovskú dobrotu —   nazýval, Nianko bán, býval na peknom zámku, ktorý jeho drievny, tiež   Nitom menovaný pradedo vystavil bol na vysokej, z vôd strmo čumiacej   skale, na nejžto predtým mo­hutná socha Svorboha stávala; dľa tohto,   naším ľudom v drievnej starobylosti vôbec Tatom abo Nitom zvaného   belboha, i kopec jeho soche posvätný, nazý­vaný bol Nit-horou.
+   </tei:p>
+   <tei:p>
+    Nito bán nebol bohatý, ako iní kniahovia, ale tým majúcejší bol   jeho ľud; on nedržal na kadejaké panské zbytky a parády, ale tým viac   dal na sväté príkazy bohov spasy, na zákon a knihu vedy, a naj­viac   dal na pravdu, dobré mravy a šľachetnosť duše; a Nito bán nenútil   tisíce svojich poddaných k usta­vičnému vojovaniu, lebo, ač bol   statným bohatýrom, predsa po válke a koristi nebažil; ale keď vlasti   zahrozilo nebezpečie, on prvý stal si v šík, a na vy­tasenie krvavého   meča celý národ državia uchopil sa zbrane a ochotne pospiechal pod   víťazné zástavy Nito bána.
+   </tei:p>
+   <tei:p>
+    Nito bán i svojho jediného syna Tura veľmi jednoducho, ale múdre a   dobre vychovával; vyučil ho čiaram písma, aby, keď raz bude kniahom,   tiež rozumel knihám vedy a zákona; vyučil ho umstvám toho času   bežným; vyučil bohatýrskym zručnosťam a cnosťam, a čo hlavná vec,   navykol ho ku skrom­nosti a pokore, ktoré vlastnosti mladému   kniahovičovi Turovi všade rýchle naklonily ľudské duše a srdcia.
+   </tei:p>
+   <tei:p>
+    Jednoho dňa, pri príležitosti výročitej, na hrade Nit-hore   odbývanej porady starešiny, boženíkov a vladíkov, predvolať dal Nito   bán i svojho syna Tura do vieči (porady, snemu), a takto k nemu   preho­voril:
+   </tei:p>
+   <tei:p>
+    „Môj drahý Turko! môj milý jediný syn! Ľúbil som ťa a vyopatroval   som ťa, ako svedčí sa na ver­ného otca, ktorý svoje dieťa úprimne   miluje. Vy­choval som ťa tak, aby si sa užitočným stať mohol vlasti a   národu; no, dľa mojej mienky, potrebuješ k tomu všetkému ešte i   väčších zkúseností, nežli jich máš dosiaľ, aby si mohol byť národu   tým, čím bych ťa ja rád videl. Znáš moje državie; nie je ono príliš   bohaté, znáš moje tri hrady, niet v nich zlata, ani daromných zbytkov   sveta; no, ja predsa, z vôle bohov spasy, blažene žijem a môj ľud je   spokojný, lebo i ja zkúsil som sveta v mojom mladom veku, a tuhý   zápas som viedol s neresťami a biedami černobohov, ktoré tak prečasto   vychovávajú veľkých a šľachetných mužov. Nasledovne, je to moja   snažná žiadosť, aby si ty — a síce nie so skvostným po­hodlím panského   rozmazlenca, ani nie ako náš kniahovič, lež iba ako skromný občan,   obdarený na púť zdravým telom a zdravým rozumom, dobrým vtipom a   mohutným ramenom, tiež sa vybral z otcovského hradu na diaľnu cestu,   zkúsiť kus sveta a jeho ľudí, potom po troch rokoch, obohatený   mnohými známosťami a zkúsenosťami, navrátil sa domov, aby si to, čo   si sa vo svete dobrého a pekného naučil, časom i pre vlastnú krajinu   a národ, ako budúci kniaho a bán zuzitkovať mohol. To hľa môj náhľad   a moja žiadosť; otázka je teraz, čo na to ty, môj synu? čo naša   vieča? a čo bohovia spasy? Teda rozmysli si vec a potom   odpovedaj!“
+   </tei:p>
+   <tei:p>
+    No, kniahovič Tur nerozmýšľal dlho a, prudko zarumeniac sa studom   mládeneckosti, čo najmožnejšie smele odpovedať usiloval sa:   „Víťazoslávny knieža a báne, môj milý otče, a ctená viečo! s   usku­točnením vašej žiadosti zároveň oskutočnená bude jedna z mojich   najvrelších túžob, a preto ja s naj­väčšou radosťou podvoľujem sa   nastúpeniu toho, u nás od dávna povšechne obvyklého trojročného   cesto­vania.“
+   </tei:p>
+   <tei:p>
+    „Takúto odvetu — prejal slovo starý Nito bán — som od môjho syna   očakával; no my dvaja ešte vec nerozhodujeme; vyslovte sa o nej i vy,   ctení boženíci a vladíči.“
+   </tei:p>
+   <tei:p>
+    I povstal jeden zo starešiny a riekol, že poneváč to drievna   obyčaj tak mať žiada, aby synovia bánov a kniahov napred zkúsili   sveta, a teprv potom prejímali barlu vlády a prestol panovníckej   dôstoj­nosti: on schvaľuje i spravedlivú žiadosť kniaha i po­chvalnú   odhodlanosť kniahoviča a želá k tej púti mnoho šťastia a nebies   požehnania.
+   </tei:p>
+   <tei:p>
+    „Tak je!“ jednosvorne ozvali sa ostatní členovia vieče.
+   </tei:p>
+   <tei:p>
+    „Tri mienky shodujú sa teda: moja, jeho a vaša; otázka teraz: čo   povie tá najvážnejšia, totiž rada bohov spasy? a preto, ctení   boženíci, vedári, divári a všetci, skrúšene modlime sa, spievajme a   prosme dobrých belbohov, aby dali nám spasonosné znamenie svojej   svätej vôle. Páni, do bohyšťa!“
+   </tei:p>
+   <tei:p>
+    Vstal Nito bán z kresla a za ním všetci bože­níci a vladíci, potom   dlhými chodbami hradu poberali sa, traja a traja idúc, do bieleho   chrámu, ktorý stál nad hlavnou bránou zámku Nit-hory.
+   </tei:p>
+   <tei:p>
+    Bohyšte bolo štvorhranné, majúce jedny dvere a tri okná. Pri   vchode u okna na pravo stála stará kamenná socha Svorboha, proti nej   u ľavého okna drevená modla „maty“ Zelibohby, a oproti dverám u   stredného okna mohutná bronzová socha veľboha Svativíta.
+   </tei:p>
+   <tei:p>
+    Socha Svorboha predstavovala starého dedka, s dlhou bielou bradou,   v jasno-modrom plášti; v pra­vici držal slnce, v lavici mesiac, a   plášť posiaty mal hviezdami. Modla Zelibohby čili Svor-maty, manželky   Svurboha, bola tiež čistá pekná starena; stála na velikom žabacom   korýtku; na pravom ramene mala nemluvňa, v hrsti čašu s mliekom; u   nôh povrhnutá, mažiaru podobná nádoba, z ktorej sypalo sa zbožie.   Socha Svativíta predstavovala obrovskú, jarú turú postavu, so štyrmi   celkom holými hlavami, hladiacimi v štyri strany sveta; v pravici mal   „božiu čašu“, v lavici bielu zástavu, na nej slnce s dvanásti   hvie­zdami, a na vŕšku žrdi stál zlatý orol.
+   </tei:p>
+   <tei:p>
+    V prostriedku bohyšťa, medzi troma modlami, stálo malé žertvište,   k žertvovaniu bylín alebo semien; u nôh každej sochy nachodil sa malý   bukový stolíček. Na stolíku Tata Svorboha ležala stará kniha zákonov,   na stolíku Svativíta drievna kniha vedy, jejžto drevené listy poryté   boly svätými čiarvami (literami), a na stolíku Zelibohby ležaly   hadule, t. j. 40 k vešťbám upotrebovaných, na plochej bielej strane   tiež rytými čiarami posiatych dreviec, a iné prístroje k vyzvedaniu   svätej vôle bohov spásy.
+   </tei:p>
+   <tei:p>
+    Keď sprievod vieče (snemu) širokým chodbišťom dorazil pred   priestranný vchod bohyšťa, jeden z boženíkov otvoril dvere a kniaho s   dvoma vedármi, dvoma divármi a dvoma vešťcami vstúpil do chrámu,   potom opät zatvorily sa dvere. Ostatná starešina postavila sa v   polkruhu okolo vchodu a tíško modlila sa. Naraz ozval sa z nútra   nábožný spev, sprevádzaný dumným hlasom gájd, a hneď na to obe krýdla   širokých dvier do korán otvorily sa; u sochy Svativíta pokorne stál   kniaho Nit, odiaty v biele rúcho naj­vyššieho čiarvo-vedca, a okolo   žertvišťa, na ňomž malá vatra horela, stálo šesť boženíkov,   spievajúcich a kúštičky blenu prikladajúcich na vatru.
+   </tei:p>
+   <tei:p>
+    Keď dokonané boly prípravné obrady, pristúpili šiesti boženíci k   stolíku Zelibohby a najstarší z nich, vezmúc z kopy dreviec štyri   hadule medzi dve dlane, pri skrúšenej modlitbe jich za chvíľu mrvil a   ko­nečne vrhnul na stolík. — Nastalo hlboké ticho, bo s napnutím   očakávané bolo sväté znamenie božej vôle. Boženíci užšie obstúpili   stolík, na ktorom ležaly vrhnuté hadule, a skúmavým zrakom prizerali   sa polohe dreviec a čiaram na jejich bielej plochej strane   vyrytým.
+   </tei:p>
+   <tei:p>
+    No toto trapné napnutie dosť skoro ustúpilo všeobecnej radosti a   plesaniu, lebo tri hadule obrá­tené boly na stolíku hore značky, na   jichžto bielej hladine červeňaly sa spasosľubné čiary Svativíta,   Radhosťa a Lady, a iba jedna hadula ležala dolu znaky, ukazujúc   veštcom svoj okrúhly tmavý chrbát a skrývajúc jejich očiam bielu   hladinu plochej strany, na nejžto vyryté čiary znamenaly nepochybné   víťaz­stvo planej Moreny
+   </tei:p>
+   <tei:p>
+    Výrok veštcov, sostavený dľa položenia hadúľ, znel doslovne   takto:
+   </tei:p>
+   <tei:p>
+    „Sveta ísť zkúsiť Turovi je dobre; lstivá Mo­rena čihá síce, ale   Svativít je mocný, Radhosť dobrý a Lada ľúbezná; oni pripravia mu   šťastlivý návrat.“
+   </tei:p>
+   <tei:p>
+    Zaplesal Nito bán i starešina, keď tento výrok veštcov vyhlásený   bol v bohyšti, lebo zpráva, že po­
+   </tei:p>
+   <tei:p>
+    svätné hadule zveftujú Turovi priazeň belbohov a šťastlivú púť,   všetky duše naplnila veľkou radosťou; na čo Nito bán, čo najvyšší   kniaho a čiarvovedca, roztvoriac knihu vedy tri razy, dľa drievneho   zvyku vyčítal z nej pre Tura nasledujúce tri naučenia: „Nové cesty   plané; opatrný jich len vtedy volí, keď na starých nieto lávky,   mostu.“
+   </tei:p>
+   <tei:p>
+    „Múdry človek nehľadá silu a moc, kde miesto nich môže mať   lásku.“
+   </tei:p>
+   <tei:p>
+    „Keď boženík hlása pobožnosť a pravdu, dobrý človek zastane a   počúva ho.“
+   </tei:p>
+   <tei:p>
+    „Nuž, synu môj, — vravel Nito bán, zavrúc knihu vedy po prečítaní   týchto riadkov, — aj, hľa, to ti bohami spásy na cestu dané tri   naučenia; buďže na tvojej púti pamätlivým na ne, a buď istý, že dokým   jich verne zachovávať budeš, priazeň belbohov vždy bude po tvojej   strane. Dajže to mocný Svativíte!“
+   </tei:p>
+   <tei:p>
+    Dajže to Svativíte!“ jednohlasne volali boženíci, potom, vrhnuvše   opät blenu do vatry, voľným krokom krúťac sa okolo nej, aby on   uslyšal jejich prosby, k jeho úcte skrúšene spievali:
+   </tei:p>
+   <tei:p>
+    Sláva, sláva Svativítu,
+   </tei:p>
+   <tei:p>
+    Nekonečná sláva jemu,
+   </tei:p>
+   <tei:p>
+    Otcu svetla, pánu slnca,
+   </tei:p>
+   <tei:p>
+    Víťazovi mohutnému.
+   </tei:p>
+   <tei:p>
+    On nám polia zúrodňuje,
+   </tei:p>
+   <tei:p>
+    On nás verne obraňuje;
+   </tei:p>
+   <tei:p>
+    Nekonečná sláva jemu —
+   </tei:p>
+   <tei:p>
+    Večná sláva Svativítu!
+   </tei:p>
+   <tei:p>
+    Sláva, sláva Svativítu,
+   </tei:p>
+   <tei:p>
+    Všetkých pánov veľpánovi,
+   </tei:p>
+   <tei:p>
+    Zeme, neba všetvorcovi,
+   </tei:p>
+   <tei:p>
+    Ďasov, Besov víťazovi.
+   </tei:p>
+   <tei:p>
+    On svoj milý ľud si bráni,
+   </tei:p>
+   <tei:p>
+    Nepriateľov od nich stráni;
+   </tei:p>
+   <tei:p>
+    Sláva, sláva veľpánovi,
+   </tei:p>
+   <tei:p>
+    Večná sláva Svativítu!
+   </tei:p>
+   <tei:p>
+    Sláva, sláva Svativítu,
+   </tei:p>
+   <tei:p>
+    Svietistému sveta svitu,
+   </tei:p>
+   <tei:p>
+    Bohu svetla, pravdy, práva,
+   </tei:p>
+   <tei:p>
+    Čo svoj milý ľud zastáva,
+   </tei:p>
+   <tei:p>
+    Bohu veštby, bohu vedy,
+   </tei:p>
+   <tei:p>
+    Bohu lásky a úrody;
+   </tei:p>
+   <tei:p>
+    Sláva bohov veľbohovi,
+   </tei:p>
+   <tei:p>
+    Večná sláva Svativítu! —
+   </tei:p>
+   <tei:p>
+    Na náhradí zámku ale u žertvišta bielej sochy Radhosťa, belboha   pútnikov a pohostinstva, vykoná­vali žretci svuje obrady pri žehaní mu   zápaľnej obeti, aby šťastlivou bola cesta mladého kniahoviča   Tura.
+   </tei:p>
+   <tei:p>
+    Druhý deň nato bol dňom príprav a tretí deň dňom trapného lúčenia   — a odchodu.
+   </tei:p>
+   <tei:p>
+    Kniaho Nit, vrele obejmúc a ešte raz pobozkajúc svojho milého   syna, s požehnaním dobrého otca pre­pustil ho na diaľnu cestu, na   nejžto sprevádzaly ho pobožné otcovské modlitby. I jedna bolastná   slza sperlila sa bola v oku starého otca Nit bána, no utlumil ju   kniaho, lebo v tých časoch nebárs vídavané boly slzy v očiach   bohatýrov; kniahovič Tur ale vyplakal sa do dobrej vôle, lebo mladosť   i vtedy mávala rovné právo k radosti i k žalosti.
+   </tei:p>
+   <tei:p>
+    Keď mladý kniahovič opustil otcovský zámok na Nit-hore, obrátil sa   na severo-východ, a mostom prejdúc cez rieku, rezko klsal hore   malebnou doli­nou, po ľavej strane rieky.
+   </tei:p>
+   <tei:p>
+    Kým viedla ho jeho puť vidiekami otcovho bánstva, cítil sa veľmi   dobre; no kus clivo počalo mu byť, keď na štvrtý deň prekročil   hranice Nitovho kniežatstva; vidiac medzitým, že i tu býva zas len   ten istý slovenský, dobrý a pohostinný národ: bol dobrej vôle a ľavým   brehom rieky poberal sa ďalej. Pomaly ale stal sa z rieky potok, z   potoka bystrica, a o krátky čas i z bystrice len jarčok; ba v šiesty   deň svojho voľného putovania došiel i ku studienke, z ktorej ten   jarčok vytekal. Boly tu veliké hory a lesy, milé to sídloviská   černobohov, a chodníčok cez hory úzky, tak že miestami ledvy predral   sa ním Turo na svojom vrankovi.
+   </tei:p>
+   <tei:p>
+    Pri studienke si odpočinul; občerstvil koňa pa­šou, sebe syrom a   chlebom a chladným nápojom, po­tom hútal a rozhutoval, čo robiť, kam   kroky zamerit? A jako tak myslí a rozmýšľa mysľou, tu naraz vyletí   neďaleko neho z kriaku divý holub, ktorý, urobiac letmo tri veľké   kolá ponad Turom, obrátil sa na východ. Toto považoval Tur za znak   bohov spásy, a preto rezko soberúc sa, bral sa smerom, ktorý mu sivý   holub bol ukázal.
+   </tei:p>
+   <tei:p>
+    Asi za hodinu kráčal náš pútnik proti strmej hore, až dostal sa   konečne na temeno vrchu, z jehožto plešivej výšavy rozvinul sa pred   zrakmi Tura utešený výhľad.
+   </tei:p>
+   <tei:p>
+    Bola to hlboká, okrúhla dolina, obohnatá zôkol-vôkol strážnymi   vrchami a hoľami, na jejichžto troch nižších končiaroch, akoby vo   trojhrane, stály tri mo­hutné hrady, a v prostriedku tejto roztomilej   kra­jinky kolembalo sa dlhé Biele jazero, ktoré na severe podmývalo   ozrutné opachy Tatier.
+   </tei:p>
+   <tei:p>
+    Mladý Tur, aby sa v tomto krásnom výhľade lepšie nakochať mohol,   pustil koníka na pašu, sám ale, vydriapuc sa na balvan vysokej skaly,   dôstoj­nému to sedalisku belbohov, s pocitom akéhosi bla­ženého tušenia   zahľadel sa do milých krás nezná­meho vidieku. Už klonilo sa slnce k   západu, keď prebudil sa Tur zo sladkých myšlienok, potom rýchle   pojmúc koňa, pešky kráčal dolu strmým vrchom, do tichej dedinky,   ktorú so skaly zhliadnul bol u päty vrchov, v hlbokej doline.
+   </tei:p>
+   <tei:p>
+    Práve zapadlo už slnce, keď dorazil Tur do tichej dedinôčky; pri   vkročení do nej nerozmýšľal sa mnoho, zatočil do prvého dvora, kde   chudobným roľníkom dľa najlepšej možnosti pohostinne prijatý bol.   Ostatne Tur ani neveľa dbal na pohostinstvo, on tešil sa len tomu, že   tu bol zas medzi svojím národom, ctiteľom bohov spásy.
+   </tei:p>
+   <tei:p>
+    „Hohó! mladý pánko, — riekol mu starý gazda, keď Tur nad touto   okolnosťou prejavil bol svoju velikú radosť, — toho sa nebojte, že by   ste tak skoro medzi cudzí národ prišli; nás Slovénov je ako na nebi   hviezd, ako v mori piesku. Povedzte mi, koľko dní tomu, čo ste z domu   vyšli?“
+   </tei:p>
+   <tei:p>
+    „Dnes šiesty deň; len že som si voľne išiel, a kde tu, kde sa mi   páčilo, sa i trochu pobavil; lebo veď mi, reku, nie náhlo; za tri   roky mám dosť času.“
+   </tei:p>
+   <tei:p>
+    „No, mladý pánko, a ja vám hovorím, že keby na pr. tento náš   Bielijazerský vidiek, ako to vedbári tvrdia, skutočne bol   prostriedkom nášho slo­venského národa, môžete ísť z tadiaľto tristo   dní, a to nie v jednu, lež vo štyri sveta strany: a ešte voždy budete   medzi rodinou, čo ctí našich bohov spásy a hovorí aj jejich reč.“
+   </tei:p>
+   <tei:p>
+    „A ktože bánom Bielijazeria?“
+   </tei:p>
+   <tei:p>
+    „Bánom a kniahom Bielijazerského državia je Maran. Tri zámky,   ktoré videli ste s vrchu, sú jeho majetkom. Maran bán je slávny   lovec, ktorému sotvy bude páru na svete.“
+   </tei:p>
+   <tei:p>
+    Na druhý deň, úctive poďakujúc sa Tur svojmu gazdovi za pohostinné   prijatie, poberal sa ďalej; zprvu držal sa k juhu, potom k východu,   až konečne prišiel k rieke, ktorá tento pekný vidiek ešte väčšmi   krášlila, a dolu nižšie, na severu, do Bieleho jazera vtekala.
+   </tei:p>
+   <tei:p>
+    Tur pustil sa ľavým brehom rieky k severu na dol, až konečne   prišiel i ku jej vtoku do jazera. — Tu sosadnul s koňa, pustil ho na   pašu, a on sadnul na starý klát, čo čumel u brehu jazera z bieleho   homoku, aby si vraj ešte raz rozmyslel, v ktorú stranu obrátiť sa z   tadiaľto.
+   </tei:p>
+   <tei:p>
+    Vidiek sa mu veľmi páčil; no bol on i vskutku utešený, a tie tri   mocné a pekné hrady ešte značne veľatily jeho krásu; prvý z nich stál   na východe, a bol — ako mu minulý večer bol gazda rozprával — zo   všetkých najstarším, na ktorom nachodil sa, vraj, drievnymi pradedami   Maran bána skvostne vybudo­vaný chrám belbohyne Slávy, a v ňom i jej   velikolepá modla z rydzieho zlata; od tejto slávnej sochy, ako gazda   ujisťoval, dostal meno i sám zámok, „Slavinou“ nazývaný. Druhý hrad   stál na juhu; bol menej pevný, ale chýrečný svojím pekným chrámom   dobrej „maty“ Zelibohby, ktorú pozdní potomci Zlatibabou nazvali.   Tretí hrad, zo všetkých najmocnejší, stál na západnej strane   Bielijazeria; v tomto zámku, ako pohostinský roľník Turovi rozprával,   za drievnych časov bol pekný chrám mocného belboha pastierov   Veles-Tura, po ňomž vraj i sám zámok Turihradom nazývaný, svoje meno   zdedil; no predkovia Maran bána vraj, keď budovali na Slavine chrám   belbohyni Sláve, do chrámu Veles-Tura na Turihrade, na miesto sochy   Veles-Tura postavili modlu manžela belbohyne Slávy, obrovskú to sochu   svätého a bieleho Víta, podľa ktorej potom Turihrad často prezývaný   bol i Bielihradom, ktorého mena zámkov vtedy veliký počet bol na   území pobožného Slavian-národa.
+   </tei:p>
+   <tei:p>
+    Kniahovič Tur, obdivujúc za čas krásu vidieka a prírody, po dlhšej   dobe, akoby presýtenosťou zna­vený, sklopil hlavu a načúval sladkému   šumeniu vĺn Bielijazera, ktoré krásne víly rozkolembaly svojimi   rozkošnými ihrami, a v tejto tichej zadumenosti so svojou valaškou   ihrajúc sa, čiaral v bielom homoku, a ani nemysliac, čo robí,   načiaral ňou v piesku slová: „Kto druhému peklo žiada, sám doňho   upadá.“
+   </tei:p>
+   <tei:p>
+    Po chvíli prebudiac sa Tur z hlbokých myšlie­nok vstal a umienil si   ta ísť na biely Turihrad, na ktorom sídlil mohutný Maran bán, kniaho   krásneho Bieli-jazerského dŕžavia. Sadnul teda na koňa a ľavým brehom   jazera poberal sa ďalej.
+   </tei:p>
+   <tei:p>
+    No sotvy šiel sto krokov, tu naraz počuje za sebou dupot kopýt, a   obzrúc sa, vidí skvostne odiateho, staršieho už, ale ešte vždy   mohutného rytiera na vranom koni, ktorý zrejme za ním pádi. Bol to   sám kniaho Bieli-jazerského dŕžavia, Maran bán, ktorý, idúc tiež   chodníkom popri jazere, zbadal bol slová Turom do piesku načiarané, a   veľmi čudoval sa nad správnosťou písma a nad krásou jeho čiarv   (litier), lebo i sám, ako kniaho dŕžavia, bol dosť sbehlým   čiarvo-vedcom.
+   </tei:p>
+   <tei:p>
+    „Či si to ty — pýtal sa Tura, — čo tú poslovicu tam do piesku   načiaral?“
+   </tei:p>
+   <tei:p>
+    „Áno, ja som to, báne,“ smele a zdvorile od­vetil Tur.
+   </tei:p>
+   <tei:p>
+    „Ach, prosím ťa, dobrý človeče, urob mi to k vôli, napíš ešte   dačo; ja bych ťa rád píšuceho videť.“
+   </tei:p>
+   <tei:p>
+    „Veľmi vďačne,“ povedal Tur a, skočiac s koňa, práve tak správne a   pekne, ako predtým, napísal do piesku nasledujúce slová:   „Najspoľahlivejším kaha­nom človeka je rozum.“
+   </tei:p>
+   <tei:p>
+    Bánovi Bielijazeria sa to veľmi páčilo. „A kam putuješ?“ pýtal sa   po chvíli Tura.
+   </tei:p>
+   <tei:p>
+    „Idem sveta zkúsiť — vetil Tur, — bo tak to chce mať môj dobrý   otec.“
+   </tei:p>
+   <tei:p>
+    „Prst boží doviedol ťa ku mne! — zvolal Maran bán. — Od dávna   hľadám takého múdreho a zruč­ného muža, ako si ty, ktorý by moju   domácnosť a moje statky spravoval, abych sa ja častejšie lovom baviť   mohol. Nuž či chceš vstúpiť do mojej služby?“
+   </tei:p>
+   <tei:p>
+    Tur rozmýšľal.
+   </tei:p>
+   <tei:p>
+    „Dostaneš za to takú odmenu, akú si sám žiadať budeš.“
+   </tei:p>
+   <tei:p>
+    „Dobre, — riekol konečne Tur, — jestli my­slíte, že ma s úspechom   potrebovať môžte, vstúpim do vašej služby.“
+   </tei:p>
+   <tei:p>
+    „A čo za plácu žiadaš?“
+   </tei:p>
+   <tei:p>
+    „Plácu žiadam takú, akej ma rozšafní, múdri a spravedliví ľudia za   hodného uznajú.“
+   </tei:p>
+   <tei:p>
+    „Dobre; vidím, že si svedomec, lebo nepočul som dosiaľ ešte   správnejšej smluvy, ako je táto.“
+   </tei:p>
+   <tei:p>
+    A s tým, bodnúc koňa, dal Turovi znamenie, aby šiel za ním. Tur,   rýchle vyšvihnúc sa na koňa, pádil za Maranom. Ked prišli k jednomu   vŕšku, pod kto­rým kolembalo sa jazero, zatočili sa v pravo, a   briežkami a dolinami jazdiac, asi o hodinu dorazili do úzkej doliny,   nad ktorou na vysokom brale čumel mohutný Turihrad. — Prijdúc do   zámku, ustanovil Maran bán mladého Tura za správcu svojej domác­nosti   a svojich statkov, vymenujúc ho za svojho huľašníka a krčiašnika, t.   j. úradníka, jehož povinnosťou je nielen statky spravovať, ale   pečovať aj o potrebný pokrm a nápoj pri bánskom dvore.
+   </tei:p>
+   <tei:p>
+    Statočný a múdry Tur, ako takýto úradník u Ma­ran bána, veľmi   rozšafne konal svoje povinnosti, a všetkým nárokom svojho pána tak   svedomite zodpo­vedal, že tento bol s ním úplne spokojný; ba i všetci   ľudia, s ktorými prívetivý a spravedlivý Tur do styku prišiel, si ho   vážili, vysoko ctili a ho úprimne milovali.
+   </tei:p>
+   <tei:p>
+    Maran bán ale, vzdor všetkému tomu, mal ešte akési tajomstvo pred   svojím verným Turom.
+   </tei:p>
+   <tei:p>
+    Na západnej strane bieleho zámku stála vysoká veža, do ktorej,   okrem samého Maran bána, žiadna živá duša vkročiť nesmela. Z tejto   veže počuť bolo v tichých nociach kúzelné znenie lútny a niekedy aj   prenikavý ženský spev; niekedy zas bôľne vzdychy, ako by nočný vetor   šumel v škárach opustených hradieb.
+   </tei:p>
+   <tei:p>
+    Kto to tam spieval, kto to tam vzdychal: to nikto nevedel, lebo do   tej veže nikto prístupu nemal. Služobníctvo len toľko znalo, že asi   pred piatimi rokami raz zavčas rána navrátil sa Maran bán s početným   komonstvom z dlhšej cesty domov, a že s týmže sprievodom dovedený bol   i jeden zakuklenec, ktorému sám Maran bán pomáhal s koňa, sám   za­viedol bo do nútra, a nikto ho viac odísť nevidel z hradu; ale   Maran bán každý večer navštevoval domnelého zajatca a sám donášal mu   každý večer pokrm a nápoj na celý nasledujúci deň. Keď ale raz — asi   o pol roka po osudnej noci — zavznel z veže úpenlivý spev, poznalo v   ňom služobníctvo ženský hlas a iba tušilo, že to nejaká, násilným   únosom sem dodaná krásavica, ktorú Maran bán, pre jej spuru, tresce   dlhým väzením.
+   </tei:p>
+   <tei:p>
+    Obozretný Tur, ačpráve toto všetko od služobníctva podrobne   dopočul, predsa nikdy nepokúsil sa odhaliť rúšku bánovho tajomstva a   vtierať sa mu do týchto jeho rodinných záležitostí. A to hlavne bolo   to, čím si časom získal neohraničenú Maranovu dôveru.
+   </tei:p>
+   <tei:p>
+    Ked takto prvý rok prešiel, svolal Maran bán svojich vladíkov a   boženíkov vedárov, a vyzval jich, aby svedomite určili odmenu, ktorú   si múdry Tur za svoje verné jednoročné služby od bána zaslúžil.   Štyria vedári a traja vladíci vyslovili sa, že Tur za­slúži toľko   platu, koľko oni siedmi do roka majú; ale velikodušný bán svojmu   vernému úradníkovi ešte i tento veliký plat zdvojnásobil.
+   </tei:p>
+   <tei:p>
+    Na počiatku druhého roku zavolal Maran bán raz Tura k sebe a   povedal mu toto: „Viem, že si múdry človek, a viem že si mi verným   sluhom; no ja ťa za tvoju múdrosť povýšil i postavením i platom nad   všetkých mojich sluhov, a tvoju vernosť odmeniť ti hodlám sverením ti   môjho najväčšieho tajomstva. Vieš, že veľmi rád poľujem, a predsa   nemôžem sa radostiam lovu oddať tak, ako bych si to želal, bo každý   večer musím sa vrátiť domov, abych obyvateľa „znejúcej veže“, ako ju   ľud pomenoval, navštívil, po­tešil a potrebným pokrmom a nápojom   opatril; vieš, že som nie zbabelcom, a predsa, keď súsedný bán plieni   moje statky na hranici, trpím to pokojne, lebo nemožno sa mi na dlhší   čas vzdialiť z domu pre môjho mileného zajatca, manželku to moju. No,   vyzkúsiI som tvoju vernosť, a teraz to už iste ináč bude. Tu máš ty   jeden kľúč od osudnej veže, a keď ma doma nebude, ty opatri mi tam   moju milú ženu.“
+   </tei:p>
+   <tei:p>
+    A jako Maran bán povedal, tak bolo. Hneď na druhý deň vybral sa   bán na medvediu poľovku a vystal celé tri dni; a Tur, každý večer,   naplniac košík potravou a krčahy medovcom a vodou, vyniesol jich hore   na „znejúcu vežu“, a položil tam do vnútrajšieho, hrubými mrežami   opatreného obloka, ktorý z chodbišťa do izby zajatej krásavice   viedol. Železné dvere tejže izby ale pevne boly zamknuté a od týchto   mu Maran bán nebol sveril kľúče. Tura mrzelo to trochu, že pri   ukazovaní tolikej dôvery k nemu, predsa ešte nepožíval u Maran bána   úplnej dôvery. Avšak nakoľko len možno bolo, udusil v sebe tento   trpký cit bôľa.
+   </tei:p>
+   <tei:p>
+    Pri druhej-tretej návšteve vedel už Tur z úst nešťastnej ženy, že   bán Bielijazeria pred piatimi rokmi násilne uniesol švárnu   šesťnásťročnú Libtu z hradu Hôravského bana Miliča, jehož jedinou   dcérou a po­techou bola, a že ju tu uväznenú drží a držať bude,   dokýmkoľvek krásna Libta ku sňatku s ňou zamýšľa­nému neprivolí; no   ona, hovorila, že sto ráz radšej volí smrť, nežli Maran bána za   manžela.
+   </tei:p>
+   <tei:p>
+    Tur srdečne ľutoval nešťastnú devu, a ačpráve by v duši veľmi rád   prispel bol ku jej pomoci, predsa — viazaný smluvou a daným slovom —   tak sa choval, ako svedčí sa na verného sluhu.
+   </tei:p>
+   <tei:p>
+    Tak hľa minul i rok druhý.
+   </tei:p>
+   <tei:p>
+    A vždy viac a viac zrostala Turova sláva, jak pre jeho velikú   múdrosť, tak pre jeho svedomitú spravedlivosť a šľachetnosť, a   menovite preto, že voždy pamätal na sväté, bohami spásy mu z kniny   vedy dané napomenutie, ktoré mu radilo nehľadať silu a moc tam, kde   miesto nej lásku mať môže; no a túto veru všade v hojnej miere   nachodil, jak svo­jimi dobrými radami, tak ochotnou pomocou, pri čom   mu veľmi vhod boly jeho neobyčajné vedomosti a jeho všeobecná   zručnosť.
+   </tei:p>
+   <tei:p>
+    Kniano Bielijazeria, Maran bán, stál síce v chýre muža rozumného a   spravedlivého, ale keď každý boží deň počúvať musel tie ustavičné   chvály, ktoré so všetkých strán neprestajne sypaly sa na Tura, počalo   ho to predsa trochu mrzeť, a jakási tajná závisť ho znepokojovala;   menovite ale, tak sa videlo, že on od sverenia svedomitému Turovi   svojho tajomstva o „zne­júcej veži“, volajakýsi obrat v chovaní sa   švárnej Libty očakával; no a v tomto ohľade nezbadal Maran bán   naskrze žiadnej premeny, lebo Libta, ako dosiaľ, tak i teraz   tvrdošijne vzpierala sa žiadosti Maran bána, stať sa jeho manželkou.   — Toto všetko rozmrzelo Maran bána proti Turovi, a vznikla v ňom   túžba, sprostiť sa ho čo skorej, a síce, možno-li, da­jakým, verného   sluhu zahanbujúcim spôsobom. I naviedol teda raz úplatkom troch   úradníkov, z nichžto jeden vystúpil s obžalobou, že je Tur v tajnom   spo­jení s Hôravským Milič bánom, starým to otcom uväznenej Libty, že   zradu kuje proti Maran bánovi, a druhí dvaja ako svedkovia ztvrdiť   mali tieto klamné udania tamtoho. No vtedy nesedela ešte, tak ako   dnes, krivda za stolom, a pravda nežobrala, tak ako teraz, u dvier,   lež svedomití boženíci belboha Pravena, dľa drievnych zákonov a dla   svätých predpisov Knihy vedy, prisluhovali pravdu a spravedlivosť. I   Tur ochotne dostavil sa pred jich súd do sväto-hája Pra­vena, ktorý   asi dobrú hodinu cesty od zámku na juh stál — neďaleko od toho   miesta, kde sa Maran a Tur prvý raz stretli — na kopci medzi   posvätnými lipami a bukami, brestami a dubami, a obratne pred­nesúc   tam svoju obranu, pokojne očakával výrok spravediivych sudcov ludu.   No tento raz nebolo treba radiť sa boženíkom, ani „pravdovestného   ohňa“, ani „svätocudnej vody“, lebo sudcovia s úplným presvedčením   vyslovili nad Turom výrok neviny, ná­sledkom čoho — samo sebou rozumie   sa — lstivý žalobuík, spolu i s najatými svedkami, ešte v ten deň   odvisnul tam na šibenici.
+   </tei:p>
+   <tei:p>
+    Táto neočakávaná udalosť ešte väčšmi rozsŕdila Maran bána, tak že   si pevne zaumienil, že Tura čo najskôr o život pripraviť musí.
+   </tei:p>
+   <tei:p>
+    V krásnej úzkej doline, na západ za Turihradom, mal kráľ svoje   pece, v ktorých mu jeho ľudia práve vtedy vápno pálili. Na tretí deň   ráno, po výroku boženíkov belboha Pravena, tašiel Maran bán ku   vápenníkom a povedal jim:
+   </tei:p>
+   <tei:p>
+    „Počujte, dobrí ľudia, je u mňa vo službe istý cudzinec, ktorý by   kniaha Hôravy, Miliča, rád urobiť pánom nášho Bielijazerského   dŕžavia, aby ste sa vy všetci stali jeho poplatnými poddanými a   sluhami, a mňa aby zajal a zavraždil. A to predsa všetci dobre viete,   že vás ľúbim a že vám dobre chcem. Nuz či želáte si ratovať mne život   a sebe svobodu?“
+   </tei:p>
+   <tei:p>
+    „Želáme!“ zvolali vápenníci jednosvorne.
+   </tei:p>
+   <tei:p>
+    „Nuž teda, jestli si to želáte, vrhnite toho vlastizradného oplana   do vápennej pece, a všetci ratovaní budeme. Či to urobíte?“
+   </tei:p>
+   <tei:p>
+    „Urobíme!“
+   </tei:p>
+   <tei:p>
+    „Ale ako ho sem dostať?“ tázal sa najstarší z vápenníkov.
+   </tei:p>
+   <tei:p>
+    „To je moja starosť! — odvetil Maran bán. — Ja teraz odídem   ztadiaľto touto novšou cestou, a prvého, kto po mne k vám tou istou   cestou prijde a vám dary donesie, lapte a vrhnite ho do pece.   Pozdejšie potom i ja prijdem a udelím vám za to kráľovskej   odmeny.“
+   </tei:p>
+   <tei:p>
+    S tým zanechal Maran bán vápenníkov a tašiel na hrad, potom,   zavolajúc k sebe Tura, takto k nemu prehovoril: „Môj milý nádvorníku!   Tam dolu v do­line na západ, na konci tej novšej cesty, mám pri peci   zamestknaných vápenníkov; choďže k nim, a tu máš, vyplať jim tu hľa   tým zlatom, čo jim na celý týždeň prichodí; ba daj jim i viac, nežli   pýtať budú, celkom dľa dobrej vôle tvojej, vždy veľkodušnej mysle a   šľachetného srdca; a daj jim aj koláčov i medovca, koľko len žiadať   budú, lebo zaslúža toho za svoju ťažkú prácu. Choďže a ponáhľaj sa;   touto novšou cestou tam najskorej prijdeš.“
+   </tei:p>
+   <tei:p>
+    Tur mlčal a jakosi nedôverive pozrel bánovi do tvári. Čo z nej   vyčítal, čo nie — ktože to vie? no isté je, že mu v tom okamihu na um   prišly bohami spásy mu z knihy vedy dané sväté napomenutia. Medzitým   sobral zlato, vzal karman s koláčami a krčah s medovcom a — tašiel,   no nie novou cestou, lež tou starou, ako mu v naučení, bohami spásy   mu da­nom, prikázané bolo. Zíduc zo zámku dolu, tam v podhradí u cesty   stál jeden osamelý domček, a pri domčeku stál starý boženík, ktorý   obyvateľom domku, starým i mladým, hlásal pravdu bohov z knihy vedy.   Zastal teda i Tur a za dobrú chvíľu načúval kúzel­ným slovám boženíka,   z jehož výrečných úst milo prúdily sa hlasy večnej pravdy, múdrosti a   zbožnosti.
+   </tei:p>
+   <tei:p>
+    Maran bán medzitým myslel, že jeho nádvorník Tur už dávno na uhoľ   zhorel vo vápennej peci; vy­bral sa teda k vápenníkom, že presvedčí sa   o veci, ako zakončilo sa to s nenávideným Turom, a jako jim bol   prislúbil, i hodne darov vzal sebou k rozdaniu medzi vápenníkov.   Avšak doraziac k peci, pri nejž práve akísi neznámi paholci   zaneprázdnení boli, — lebo vápenníci po odbavených raňajkách ešte   polihovali kde-kade v chládku pod stromami — a tíže paholci,   nepoznavše bána, z naloženia vápenníkov, aby prvého, kto novou cestou   k nim s darmi prijde, honili do pece: vrhli sa na Maran bána,   odobrali mu dary, poviazali mu nohy a ruky, a vzdor jeho kriku, vzdor   prosieb i hrozieb, hodili ho do horúcej pece, kde v okamihu biedne   zahynul a už o chvíľu na uhoľ zhorel.
+   </tei:p>
+   <tei:p>
+    O nezaveľa na to prišiel i Tur ku peci, a teraz ešte len z rečí   vápenníkov vyrozumel, aké úklady mu Maran bánom pripravené boly. I   tešil sa veľmi, že, pamätlivý súc napomenutia bohami spásy mu z knihy   vedy daného, šťastlive vybrednul z hrozného nebezpečia.
+   </tei:p>
+   <tei:p>
+    Na to vrátil sa na zámok; prvé, čo urobil, bolo: vysvobodiť Libtu   z jej dlhého väzenia a povedať jej, čo dávno hlboko cítil, ale dosiaľ   neprejavil, totiž, že ju vrele a úprimne miluje a želá si ju mať za   svoju vernú a milú manželku. Švárna Libta s radosťou pri­volila k   tomu, a keď na to do vieči povolaní a shromaždení starešíni, kmeti,   vladíci a boženíci, vyroz­umejúc z úst Tura a početných svedkov pravý   stav veci, jednosvorne jeho vyvolili za svojho bána a kniaha; pri tej   istej príležitosti slávená bola na Turihrade i veliká svadba krásnej   Libty s mladým bánom Bielojazeria, ku nejžto dostavili sa i jejich   otcovia, Nito bán z Nit-hory a Milič bán z Hôravy; i bola tam radosť   veliká a plesanie všeobecné.
+   </tei:p>
+   <tei:p>
+    Turo bán dlho a šťastlive panoval, a po smrti svojho otca a   svokra, sjednotiac pod svojou barlou bánstva Nit-hory a Hôravy (ku   tomuto patrilo vtedy aj horné Považie až po Strečno) hranice svojho   dŕžavia zčiastky týmto dedičtvom, zčiastky dajednými šťast­livými   výbojami, k nimžto vlastne len nepokojnými súsedmi donútený bol,   značne rozšíril.
+   </tei:p>
+   <tei:p>
+    Krásna Libta, boľastnými sedemročnými utrpeniami upomínaná na   svoje turihradské neresti, nerada bý­vala na tomto zámku, a preto   vystavil jej Turo bán nový hrad na hornom Považí, vo vidieku milom a   krásnom, ktorý zámok zdedil meno po dobrej a milej Libte; ba   neskoršie, keď podarilo sa Turo bánovi rozkáľaním ozrutných skál na   severu, pri velikán­skych vodopádoch rieky Váhu, vtedy Vlahy   meno­vanej, spustiť vody a vysušiť velikú časť Bieleho jazera,   vystavil na juhu ešte i veliké a pekné mesto, ktoré dľa svojho mena   Turovom pomenoval.
+   </tei:p>
+   <tei:p>
+    Turo bán nemal syna, iba jednu dcéru, Zorenu, jejžto srdce i ruka   dostaly sa bánovi Zlatoňovi, ktorý po Turovi tiež asi tridsať rokov   slávne kniahoval a bánoval nad Liptovom, Turihradom, Nit-horou i   Hôravou; ale Turihrad, jehož neblahá pamiatka ešte svieže utkvetá   bola v duši bánskej rodiny, stál vtedy zväčša opustený a len banským   nádvorníkom obý­vaný; ba dobrý slovenský ľud, ktorý zatracuje všelikú   neprávosť a hurúcu sútrpnosť má s každým ukrivdeným, aby zvečnil   pamiatku hrozných sedem­ročných utrpení krásnej Libty vo znejúcej   veži, prestal biely zámok menovať Turihradom, lež pre­zýval ho   jednoducho iba Znievom, ktoré meno mu potom aj navždy zostalo.
+   </tei:p>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

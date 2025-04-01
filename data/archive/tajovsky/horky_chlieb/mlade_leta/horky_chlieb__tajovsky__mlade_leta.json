@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Horký chlieb",
+        "publisher": "Maldé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1990"
+    },
+    "firsted": {
+        "pub_date": "1909"
+    },
+    "authors": [
+        {
+            "first_name": "Jozef-Gregor",
+            "last_name": "Tajovský",
+            "birth_date": "1874",
+            "death_date": "1940",
+            "ref": "viaf:34587416"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

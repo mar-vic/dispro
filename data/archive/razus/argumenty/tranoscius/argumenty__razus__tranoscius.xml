@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk1993741" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Argumenty : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:56641816">
+     Rázus, Martin (1888 - 1937)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     22215
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+      Argumenty
+     </tei:title>
+     <tei:pubPlace>
+      Liptovský Mikuláš
+     </tei:pubPlace>
+     <tei:publisher>
+      Tranoscius
+     </tei:publisher>
+     <tei:date>
+      1993
+     </tei:date>
+    </tei:bibl>
+    <tei:bibl type="firstEdition">
+     <tei:author>
+      Rázus, Martin
+     </tei:author>
+     <tei:title>
+     </tei:title>
+     <tei:pubPlace>
+     </tei:pubPlace>
+     <tei:publisher>
+     </tei:publisher>
+     <tei:date>
+      1932
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-02-08">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     Argumenty
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Svit
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Narodiť sa, môj milý, nie je šťastím, ani nešťastím. To je proste   fakt, ako je faktom svit. Keď sú všetky podmienky rána ― svitá. Nik   sa tomu nediví, ani preň nevyčíta. Vieme, za tým faktom stojí   poriadok a nesmierna sila prírody. Robiť pre to niekoho zodpovedným,   nemyslím, že by bolo rozumné. Reťaz života vinie sa pred naším zrakom   z nekonečna, ohnivo pojí sa k ohnivu. Nevidíme začiatku, nedovidíme   konca. Príčina stáva sa výsledkom, výsledok príčinou, kým len   neochabne vôľa žiť. Pri pohľade na ohromnú rieku otázky prečo? načo?   ― stávajú sa zbytočnými. Ak nás sovre v svoje ramená, neostáva len   pustiť sa po nej, alebo zahynúť. A prečo zahynúť, keď je večnosť bez   konca a trochu časnosti je jednako len zaujímavým intermezzom? Človek   po tvrdom sne otvára oči, keď svitá, lebo vie ― nastáva deň, i keď   deň práce a borby. Necítil si nikdy neodolateľný úsmev rána? Tak   spomínaj i na deň, keď si prvý raz uzrel svetlo tohoto sveta a   rozpoznával oči, čo žiarily na teba rodičovskou láskou! Táto láska   diktuje mi i tieto myšlienky, pri nich hľadím na teba, i na tisíce a   státisíce tvojich vrstovníkov a vrstovníc, plaviacich sa dnes medzi   Scyllou a Charibdis. Čítam otázky z tvojich očí a z očú ich. Odpoviem   ti na ne proste, ako som si ich rozriešil pre seba. Nazri so mnou,   môj milý, do tvári života i smrti!
+    </tei:p>
+    <tei:p>
+     1. Obstavajú ťa pochybnosti a otázky pichajú ťa svojím kovovým   zrakom kdesi až pri srdci? Nemysli, že si unikum! Slová o kríze práve   terajšej mladej generácie šuchoria nevážnosťou frázy. Ktoten stavia z   toho nové problémy, netušiac, akou smiešnou figúrkou sa stáva v   očiach skúsených ľudí, ktorí vedia, čo bolo. Nad svitom vždy sa   zamýšľal človek, ako nad tisíc záhadami, ktoré z neho plynú až po mrk   večera a po noc. Pochybnosti sú hosťami ľudských duší, odkedy si len   postavily svoj svet. Otázky životné nelomcujú len generáciami, ale   vekom a to najmä tým, v ňom si ty. Tie pochybnosti známe sú i mne,   ktorý som ťa predišiel. Boly však známe dávnym ― pradávnym, lebo   nikdy nebol svet bez mysle kritickej, čo si vždy žiadala svoj pokrm,   ako i dnes. Na otázky života museli si ľudia vždy odpovedať. Musel   som si i ja. A nebolo to ľahko! Čím je myseľ človeka prenikavejšia a   ostrejšia v bádajú, tým je to ťažšie. U terajšej mladej generácie   tedy nie to je nové, že si musí otázky rozriešiť, iba ―
+     <tei:emph>
+      že si   ich musí rozriešiť pre seba a sama!
+     </tei:emph>
+     Tak to bolo však i prv, i   pred stáletiami.
+     <tei:emph>
+      Kto má zuby, tomu netreba pokrm požuvať, kto   má myseľ, má ju na to
+     </tei:emph>
+     ―
+     <tei:emph>
+      vystihnúť smysel života. V tom   je práve kúzlo, bez čoho putovalo by sa nám týmto svetom veľmi   jednotvárne.
+     </tei:emph>
+     A keby tá púť i nebola bez utrpenia, čo na tom?   Prekonali sme to i my, ktorých myseľ bola na vlas podobná búrlivej   mysli dnešných mladých pochybovačov. To je cenné v živote, čo sa   takto vydobyje!
+    </tei:p>
+    <tei:p>
+     2. Boj o pravý náhľad na život je tedy tvojou úlohou. Čo je však   tá pravosť náhľadu a čím môžu osožiť v určení tohto predošlé   generácie? Človek ako najrozumnejší tvor na zemi ženie sa za   absolútnou pravdou odjakživa a rádby ju obsiahnúť všetkými svojimi   schopnosťami. Rozriešiť záhady pôvodu, cieľa, i budúcnosti našej ―   nedá pokoja a rozpaľuje ducha viac, než najsilnejšia vášeň.
+     <tei:emph>
+      Lenže schopnosti relatívnych hodnôt vedú iba k relatívnej   pravde, čo sa zablysne pred našim zrakom z pomeru vecí a zjavov k nám   samým.
+     </tei:emph>
+     Pre kritickú myseľ, ženúcu sa za absolútnym poznaním,   ostáva i dnes Pilátovo: čo je pravda? Myseľ je však iste nie jediný   prostriedok poznania. Neraz v istých veciach vycítime viac, než   dosiahneme svojimi piatimi smyslami a logikou kritickej mysle. A svet   citu nie je pre nás menšej ceny, než svet rozumu. Naopak! Poznania   rozumové môžu byť pevne, ale v konečných dôsledkoch tvoria len jeden   pilier mostu, ktorý, ak ho nepodoprie cit, ostáva visieť v povetrí.   Preto nám ľuďom, ak chceme prejsť cez veľrieku života a neutonúť,   neostáva, len stavať na oboch pilieroch. Pravdy, bádaním získané,   doniesť do pomeru s citovým svetom v nás, s našou vôľou, i s vôľou   miliónov ― žiť a šťastne žiť.
+     <tei:emph>
+      Ak si máme voliť z relatívnych   právd, ostáva i pre kritickú myseľ rozumné, voliť si nie tú, čo   zabíja, ale čo dodáva chuti žiť a víťaziť nad životom. Účelnosť,   myslím
+     </tei:emph>
+     ―
+     <tei:emph>
+      je charakteristikou pravosti, keď ide o určenie   životnej pravdy.
+     </tei:emph>
+     A táto účelnosť je už v dosahu našich   smyslov, môžeme sa o nej celkom reálne presvedčiť. Preto jedine na   tom môže sa zakladať pravosť náhľadu na život. Pri tvorení tohto v   mladej duši úloha predošlých generácií nie je auktoritatívna, iba   poradná. Ani ja, môj milý, nenárokujem si viac voči tebe, hoci si mi   taký blízky. Tým menej odvážim sa nárokovať si voči tvojim   rovesníkom. Ale pravda životná, práve pre jej relatívnu cenu, musí   vždy dozrieť, ako víno, keď má presvedčiť pravosťou farby, vône i   chuti. Pravda sa stáva životnou nie jej odhalením, ale pečaťou   vyskúsenia, čo môžu udrieť nie tí, čo žiť počínajú, ale tí, čo už   žili, alebo aspoň dosť prežili.
+     <tei:emph>
+      Životná múdrosť nie je majetkom   generácie, ale generácií, tvorí sa, ako ľudová pranostika o   Medardovej kvapke.
+     </tei:emph>
+     Nová generácia môže z nej odložiť, môže ju   doplniť, ale trhnúť ňou, prečiarnuť ju a nahradiť novou ― znamená   započať od A. so všetkým rizikom v znamení slov: i navráti sa pes k   vývratku svojmu. Pri tvorení náhľadu na život dobre je mať rozum, ale   ešte lepšie mať ho a vedieť využiť i spoločný majetok generácií,   overený životom. Možno chodiť tak, či inak, ale nemožno chodiť na   hlave. Pri posudzovaní duchovného fondu, práce a vôbec života   predošlých generácií nesmieš vyjsť zo zlých ľudí, akí vždy boli i   budú, ale z tých, čo boli soľou spoločenstva. Inak by si, hladný,   siahol po skale miesto vonného, sladkého chleba.
+    </tei:p>
+    <tei:p>
+     3. A teraz už zahľaď sa do hĺbky svitu, čo objíma a vášnivé   bozkáva hory-doly, širokú-diaľnu zem, i teba samého. Dovoľ mi stáť   vedľa, keď sa spytuješ, odkiaľ si vzišiel sám. Ak sa zadívaš do   plameňov slnka, zdvíhajúceho sa nad hory, oslepí ťa iste a čo máš z   toho? Tvoje otázky sú odôvodnené, ale nezajdeš s nimi ďalej, ako tí,   čo išli pred tebou a norili svoj zrak do záhad pôvodu celkom tak, ako   ty. Len jediná veda pomohla by ti o krok ďalej, ak i nie k tvojmu   osohu: chemia! Keby si vedel sostaviť vajce z chemických látok,   podložiť ním kvočku a vyliahnuť tak kurčiatko ― iste by si zatriasol   náhľadom o všemohúcnosti nesmiernej sily, čo srdce ľudské tušilo za   vesmírom a tuší. Alebo aspoň amoebu sformovať, najprostejšiu amoebu,   čo by vedela žiť a rozmnožovať sa. Ty to však nevieš vytvoriť a   nevedia ani múdrejší od teba! A bez toho čokoľvek si pomyslíš, je to   len ― čo ohlodala ľudská myseľ so všetkých strán tisícorakým   spôsobom. Ak poctíš dôverou svoj citový smysel, čo ťa prenesie za   hranice dosahu tvojich piatich smyslov, staneš pred chrámom a   pokloníš sa vo viere pred majestátom Boha stvoriteľa, ktorý sformoval   človeka na svoj obraz. Ak zastaneš na polceste, ostane ti príroda,   ako tajomná matka všetkých vecí a ty octneš sa v rade múdrych, ktorí   ― ako kedysi alchymisti ― miešajú vo svojich retortách hmotu, jej   zákonitosť a náhodu, z čoho má byť život. A alchymisti nemiešali   bezpodstatne, dnes už ich moderní nasledovníci vedia vytvoriť zrnká   zlata z hliny a vykryštalizovať z kamenného uhlia diamantový prášok.
+     <tei:emph>
+      Kam dojdú alchymisti života, kto to vie dnes? Ich   prírodovedecký náhľad na svet má svoje trhliny, ktoré vyplnia   hypotézou, alebo lepšie vierou, čo sa podstatne nelíši od viery,   ktorá kladie vesmír, i s jeho životom, k nohám nepochopiteľnej a   všetko tvoriacej, všetkým hýbajúcej, najrozumnejšej absolútnej   bytosti.
+     </tei:emph>
+     Prvá trhlina je medzi neživotným anorganickým svetom   a medzi prvou bunkou, schopnou žiť, množiť sa a tým tvoriť nový   organizmus. Druhá trhlina, dosiaľ nijako nepreklenutá, je medzi   tvorstvom zeme a medzi tvorom zvaným ― homo sapiens. Shon po   deformovaných kostrách a stlačených lebkách v starých vrstvách zeme   nemá čím zaimponovať. Strom života, ak rodil kedysi podľa týchto   predstáv, mal by iste rodiť i dnes. A tak i ovocie jeho, čo sa hľadá   pod zemou, malo by byť
+     <tei:emph>
+      na nej
+     </tei:emph>
+     viditeľné.
+     <tei:emph>
+      Alebo je   niečo veda, alebo hypotéza a vtedy z dvoch hypotéz má si vždy človek   právo vybrať tú, ktorá ho uspokojuje.
+     </tei:emph>
+     Ja som našiel svoje   uspokojenie v hypotéze, čo predpokladá všemúdru, absolútnu bytosť,   lebo mi vyplní ohromnú prázdnotu vo všehomíre. A keby to hneď bola   len monumentálna báseň, i tak má z toho viac môj duch, keď si ju   recituje, alebo jej naslúcha, než zo zajakavých slov, ktoré chcú   spraviť človeka bohom a vysotia ho vlastne ako žobráka v oblasti   priestoru a času. Ty si vyber pri pohľade na svit a jeho zore to, čo   uznáš za dobré, ale srovnávaj dobre a neober seba! Neradím ti zatajiť   to zverské, čo je v nás. I ja myslím, v pokolení ľudskom túla sa   množstvo bezchvostých opíc, lebo človek počína sa vlastne s   uvedomením ľudskej dôstojnosti, toho obrazu božieho. Chcem ťa len   upozorniť na vzácne hodnoty našich psychických vlastností, ktoré   človeka stavajú nad rozumného zvera a určujú mu v symfónii všehomíra   primeraný zástoj, i cieľ.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Domov
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Vták má svoje hniezdo, líška dieru a človek svoj domov. Myslím   predne ten tichý kút, kde zlatá žiara svitu zasvieti mu prvý raz do   tvári. To je niekde palác, niekde len chalupa, ktorá má však vždy   svoje podivné kúzlo. Rozhliadame sa svetom a zdá sa nám, celý by mal   patriť nám a my jemu. Celá zem mala by byť naším domovom! Lenže je   život iný, celkom iný! I sťahovavý vták, ktorý má dva domovy, vracia   sa pravidelne na svoje staré miesta, kde sa živí, ako vie a teší   životu. Kto je doma všade, ten nemá nikde domova. Kto sa domnieva, že   mu je vlasťou celý svet, vskutku je bez vlasti. Preto má rodná zem   svoju chuť i vôňu a človek nevdojak vracia sa k nej znovu, povoľný   jej tajomnej sile.
+     <tei:emph>
+      Iný hovor má rieka i hora, iný úsmev obloha   nebeská okolo domova, i keď je to nie kaštieľ, ani poriadny rodinný   domec, ale len rozheganá chalupa. Nezabudni, môj milý, na toto   kúzlo!
+     </tei:emph>
+     Ak sa ho zriekneš, o toľko budeš chudobnejší. Teba   však, viem, trápi iné pri pomyšlienke na domov. Spytuješ sa ― prečo   je nie domov, ako domov? Máš pravdu, každá rodina mala by mať domec a   v ňom obedovňu, spálňu, kúpeľ a čo k tomu náleží. Bude to niekdy, či   nebude ― neviem! Nemožné je to nie. Ak raz národy odzbroja, majú už z   dobrej časti prostriedky na takéto produktívne investície.   Zreorganizovaním práce a jej výsledkov našlo by sa ostatné, čomu ja   všetkému prajem zo srdca. Kým to však nebude, ostáva pochopiť dary i   najskromnejšieho domova a byť za ne vďačným.
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Tvoj domov je dom náš, byt tvojich rodičov. Máš v   ňom pohodlie i hojnosť ― nejeden z kamarátov mohol by ti i závidieť.   Máš i nás, čo ťa máme radi. Nie div, keď počítaš dni pred   prázdninami, kedy pôjdeš domov! Ozaj, počítal by si ich i keby sme   bývali všetci v jedinej chyžke a boli chudobnučkí, ako mnohí iní?   Myslím ― áno!
+     <tei:emph>
+      Sladkosť domova nie je v pohodlí, ani v hojnosti,   ale v tej tajomnej hudbe sŕdc, čo náležia sebe.
+     </tei:emph>
+     Ty vieš, nikde   ti tak neprajú v šírom svete dobrého, ako tvoji doma. Ak prechorieš,   nikde sa tak nechvejú o tvoje zdravie. Hrozí ti nebezpečie? Nikde tak   netrnú o tvoju budúcnosť! Máš úspech a radosť? Nikde sa netešia   úprimnejšie goalu, čo sa ti podarilo vrhnúť životu do bránky. Popri   tej istote, čo srdce precíti, to je jeden zo vzácnych darov domova.   Jeden ― nie jediný; tých darov je viac! Skromný, biedny domov zdá sa   krivdou, hotovým trestom vydedeného, ale nie vždy je tým. Ani palác   nemusí byť nijakým šťastím pre dušu mladú, tvoriacu si svoj svet s   ružami i tŕnim.
+     <tei:emph>
+      Kto začne nízko a dobýva si svet stupeň po   stupni, má istejšiu cestu než ten, kto začne vysoko a mdlého, núti ho   život sostupovať nadol.
+     </tei:emph>
+     Kto dostane všetko hotové už tým, že   sa narodil v kaštieli, ten môže mať hojnosť, jednako cíti neraz, ako   by nemal nič ― lebo je nič nie vskutku jeho. Bieda, najmä na počiatku   života, je nie vždy trest, ale ten najvhodnejší trenér k pravému   oceneniu toho, čo sa vydobyje a pomocníkom k najvyšším métam života.   Videl som syna boháča, ktorý z lásky otcovej prešiel už celý svet do   svojho šestnásteho roku. Bol z neho vrak ― nič ho už nezaujímalo. A   skúsil som sám, ktorý som vyšiel z biedy, aký sladký je rozdiel medzi   tým, čo dal včerajšok a čím dnešok obdaril. I chuť života a ambícia   tvorí sa primerane pomerom, ktoré premáhame.
+     <tei:emph>
+      Kto nevie,
+     </tei:emph>
+     <tei:emph>
+      čo je tŕň biedy, nikdy neprecíti a nevychutná, čo je med   dostatku. Len človek, prebíjajúci sa od zlého k lepšiemu, vie si   oceniť dary života v pravej hodnote.
+     </tei:emph>
+     Kto má všetko zásluhou   svojho rodu, nemá sa za čím hnať, ale nemá mu čo ani radosť robiť.   Preto myslím, chudoba dá snaživému a zdravému decku krajší sľub do   kolísky, ako hojnosť. Pravda, decko sa ho musí chopiť a za skvelým   príkladom najlepších, čo sa dostali na najvyššie miesta ― sľub sa   stane skutkom. Jest zaujímavejšieho športu, než je tento, môj   milý?
+    </tei:p>
+    <tei:p>
+     2. Sú dary, čo majú patriť každému, i najskromnejšiemu domovu. To   je právo na chlieb, na odev, na zdravú vodu, čerstvý vzduch,   životadárne slnko. Ako vidíš, nie sú to hodnoty, predpokladajúce   bohatstvá, len tie minimálne dary, bez nich je ťažko žiť. V práve na   chlieb a na odev rozumiem príležitosť k práci, čo opatrí ostatné. To   právo uplatniť, uznám, je vážnou, ba najvážnejšou úlohou našej doby.   Ide o vhodné organizovanie výroby a odbytu, čo zas predpokladá vhodnú   deľbu svetového kapitálu, ako hnacej sily výroby, i spotreby vo   všetkých kútoch sveta a nemusí byť človeka bez domova, ani domov bez   chleba a odevi. Vykonať to nediktujú nijaké izmy, diktuje to záujem   ľudského spoločenstva a diktuje zdravý rozum.
+     <tei:emph>
+      Národy sveta i   bez komunizmu majú možnosti ovládať kapitál a z draka spraviť krotké,   užitočné domáce zviera. Ostatné vytvorí priliehavá hospodárska   organizácia a rodina bude mať domov, ak ho nemá, alebo stráca   dnes.
+     </tei:emph>
+     Zdravá voda, čerstvý vzduch, životadárne slnko ― sú už   prevážne prístupnejšie, len treba v nich rozpoznať to, čo znamenajú   pre náš život.
+     <tei:emph>
+      Čoho máme v hojnosti, nevážime si. Hodnotu toho   chápeme najčastejšie, keď ho niet. I pri týchto daroch sme   tak.
+     </tei:emph>
+     Či je nie šťastie, že sú prístupné až na niektoré   zamestnania skoro každému človeku? Že chudobní i bohatí môžu si   rovným spôsobom načrieť zo studienky, nadýchať sa v hore, alebo v   poli čerstvého vzduchu, slniť sa na brehu rieky, a hoc vedľa cesty na   pažiti? Zdá sa nám ― nič je to! A je to veľa! Bez bohatstva môžme   žiť, bez vody, vzduchu a slnka ― nie! Rád som, že si vážiš týchto   darov. Ony dvíhajú hodnotu domova, udržujú zdravie, budia radosť. Ale   nie sú ešte podmienkou vrcholného citu, čo srdce ľudské rozžiaruje   šťastím. A tento cit je tiež darom domova. Aspoň do vysokej miery je   ním!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     Už sme skúmali, v čom je vlastne kúzlo domova. A   tu od prírody ― obráťme sa k ľuďom. Ľudia sú iste všelijakí. Mnohí sú   zlí už od prírody, práve preto v túhe nájsť z nich radosť ― nemožno   sa blížiť k všetkým. Similis simili gaudet ― podobný podobnému sa   teší ― hovorili už starí Rimania.
+     <tei:emph>
+      To však nevyvráti tú pravdu,   že najvzácnejší pocit vyvolá v nás pomer k dušiam, čo rezonujú na   hlas nášho vnútra.
+     </tei:emph>
+     Bez tej hudby príbuzných sŕdc mohli by sme   sa tešiť hojnosti, nádhere prírody, sviežim, ramenným farbám východu   atp., ale táto naša radosť bola by prichladná. Prichladná je i radosť   medzi cudzími ľuďmi, lepšie ― nie je to nijaká radosť. Viem pochopiť   Francúzku, ktorú vraj na smrteľnej posteli tešil istý abbé slovami:   nebojte sa, madame, v nebi stretnete sa s mnohými slávnymi ľuďmi...   Čo z toho ― odpovedala mu rezignovane ― keď ja z nich nepoznám   nikoho! Človek musí znať človeka, musí mu byť blízky, ak ich pomer má   byť prameňom vzájomnej potechy, prípadne i šťastia. V tom je ten   najvzácnejší účel domova. Pod jeho krovom žijú si rodičia a deti.   Rozbiť tento pomer, hoci hneď s odôvodnením, že sme všetci ľudia   rodina, myslím, bola by vždy len nenahraditeľná strata. Podobne je s   pomerom bratov, sestár a príbuzenstva vôbec, keď i ostáva pravdou ―   lepší dobrý priateľ, ako zlá rodina.
+     <tei:emph>
+      Rodina bola od pradávna   prirodzenou oporou človeka v existenčnom boji.
+     </tei:emph>
+     Z
+     <tei:emph>
+      nej   vyrástol kmeň, i národ, čo prevzaly túto
+     </tei:emph>
+     <tei:emph>
+      úlohu na širšom   základe.
+     </tei:emph>
+     Na pôde dobrej rodiny vykvitnú kvety najčistejších a   najväčších radostí odmenou za starosť o túto ustanovizeň.   Najdokonalejšie prejaví sa to vo vhodnom pomere muža a ženy, ako   základu rodinného života. Radosť jedného srdca stáva sa radosťou i   druhého a naopak. Tu je zjavné, ako srdce môže okriať pri zdravej   vode, čerstvom vzduchu a na jasavom slnku opatrené najpotrebnejšími   prostriedkami žiť, čo ho však preniká najintenzívnejšou radosťou, to   je oheň, ktorým horí i srdce súzvučné v púti za jednotným cieľom.
+     <tei:emph>
+      Mohli by sme mať všetko, čo zem môže poskytnúť
+     </tei:emph>
+     ―
+     <tei:emph>
+      bez radosti z ľudí, alebo aspoň z hŕstky najbližších a keď i   len z druha, alebo družky života, chybovalo by tej radosti na farbe,   teple i omamnej vôni. Tento pocit iste nevzbudí nikdy v duši pomer,   ktorého jediným cieľom ostáva živočíšne ukojenie zžieravých telesných   vášní. Ten pomer musí byť duchovný a vysoko etický.
+     </tei:emph>
+     Podrývať   tento pomer, alebo ho rozbiť ― znamená ako aj v pomere rodičov a detí   oberať ľudí na údolí nerestí i o tých niekoľko kvietkov, čo si našli   medzi tŕnim a bodliačím. Zničiť dôstojný pomer muža a ženy, rozsypať   rodinu pre vzbudenie lásky k rodine celého ľudstva môže pekne znieť,   prakticky je to však žiadať nemožné. Kto nezodvihne v rukách   päťdesiatkilovec, ako by zodvihol štyri-päť metrov? Kto nevie   zahorieť láskou k najbližším, s ktorými ho spája krv i kosť, ako   zahorí k miliónom, ktoré ani nepozná? Cez rodinu ide sa ku vrstve a   kmeňu, cez kmeň k národu a cez národ k celému ľudstvu. Duch, čo ľnie   láskou k celému človečenstvu, vždy bude vedieť zaujať správne   stanovisko voči rodine, čo ako najvhodnejšia složka spoločenstva   poskytuje dobrým srdciam i kvety čistých radostí pod krovom domova.   Týmto sme, môj milý, preskúmali najvážnejšie dary domova. Postav si   proti tomuto človeka, kaviarenského tvora s jeho sebectvom, radosťami   i cieľom životným a uvidíš rozdiel. I tu si vyber, čo uznáš za dobré.   Isté je, ako príroda so svojimi darmi, tak i domov a rodina sú len   zastávky na ceste k duševnej rovnováhe, k spokojnosti a k šťastiu.   Povedzme, to je najvhodnejšie prostredie, najvhodnejšia pôda, kde   zázračný kvet ľudského blaha môže vykvitnúť. Ale blaho rodí sa hlboko   v duši a nik nám ho nevykúzli. Každý človek musí si ho vybojovať sám   v sebe.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Studňa
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Psychické vnútro človeka je studňa, neraz až bezodná studňa. Už   starí Gréci pokladali za vrchol múdrosti ― poznať a ovládať seba.   Pravda, poznať studňu nesmiernej hĺbky ― ťažká vec! Ťažká, azda   najťažšia vtedy, keď je tá studňa naša, sme ňou my, a či ― ja!   Jednako bez sebapoznania mohla by nás len náhoda postaviť do takého   pomeru so svetom, z ktorého by skvitlo šťastie. Na náhodu sa škoda   spoliehať. Neostáva len pozorne nazrieť do studne, na jej dne   shliadame svoju tvár. Sísť do otvorenej hĺbky, preskúmať ju, i   vyčistiť, nech by vydala vodu čerstvú, priezračnú a zdravú. To je   pripraviť svoje ― ja ― i dôstojne vystrojiť na všetky nárazy života.   Ak kde, tu ide o teba, môj milý. Márne budeš mať svoj domov so   všetkými darmi, ak neovládneš pevnou rukou kormidlo ― loď tvoja na   búrnych vlnách dopustení ľahko narazí na skalu a stroskoce sa. Zdravá   voda ťa neobčerství, čistý vzduch neotúži, jasavé slnko svojimi   ultrafialovými lúčami nespraví z teba hrdinu, akým máš byť, ak   nechceš podľahnúť nárazom. Ani chvejúce sa ruky otca, matky ―   príbuzných, priateľov, ba ani výkrik družky života neochráni ťa pred   pádom, jestli sa dáš životu dotisnúť nad priepasť, z ktorej hľadí   smrť.
+     <tei:emph>
+      Preto je rozumné poznať svet, ešte rozumnejšie
+     </tei:emph>
+     ―
+     <tei:emph>
+      seba, a najrozumnejšie postaviť sa s poznaným svetom do takého   pomeru, v ktorom si vždy na vrchu ty, lebo blesky jeho nevyrušia   rovnováhu, čo máš v duši.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Poznať svet, ten mimo nás, to je prvé, čo sa   učíme, odkedy sme otvorili oči. To nás učia aj iní. Nahromadiť   množstvo poznaní je zaujímavá vec. Poznať svet v časovej hĺbke ― je   história, ktorá vie byť i dobrou učiteľkou pre život. Poznať svet v   jeho hmotnom rozsahu, s vlastnosťami zjavov, i so zákonami, ktoré ich   vysvetľujú ― to sú pyramídy vedy. Zastať pod nimi môže ťa zachvátiť   obdiv, i úžas, ale môžeš ľahko zbadať i púšť, čo sa žltie okolo nich   do nekonečna, zapadá kdesi za horizontom a bytosť tvoju napĺňa miesto   hrdosti, clivosťou.
+     <tei:emph>
+      Poznania hromadiť je len pol práce, druhú,   myslím, o mnoho vážnejšia je utriediť ich. Všetko môžeš vedieť, môj   milý, ale nie všetko sa ťa týka, a rovnako týka!
+     </tei:emph>
+     Známosti o   tropických, alebo arktických krajoch môžu ťa zaujímať, ak však ta   nevkročí tvoja noha, čo z toho? I povrchné známosti o svete mimo nás   sosústredňujú sa prakticky okolo bodu, na ňom stojíme my. Preto je   dobre mať známosti o celom svete, pokiaľ možno, o celej zemi, ale   nevyhnutné je poznať svoju obec. Dobre je poznať históriu národov,   ale nevyhnutné je poznať minulosť a ciele vlastného národa. Dobré je   mať vedomosť o zákonoch prírody, alebo i ľudského spoločenstva, čo sú   predmetom rozličných povolaní, ale nevyhnutné je poznať zákony a   učenie, na ktorom je založený úzky kruh tvojej pôsobnosti. Sú ľudia,   ktorí nosia v hlavách celé encyklopédie, jednako sú nie k ničomu.   Všetko vedia, čo im netreba, ale pri tom, čo im je treba a to hneď,   prichodia do zmätku, alebo robia omyly. Márne posadíš dobrého letúna,   alebo šoféra na voz poháňať, hoc len tiché voly, i neučený gazda hneď   vidí, že sa ten múdry pán chytá čohosi, do čoho sa nerozumie, i keď   je to ľahšie, ako spravovať auto, alebo práve aeroplán.
+     <tei:emph>
+      Všetko   je dobre vedieť, ale najlepšie to, čo poskytuje podmienky vlastného   života.
+     </tei:emph>
+     V praktickom povolaní vedie to k odborníctvu, čo dnes   už zaujíma svoje miesto na všetkých stranách v našom spoločenstve.   Kto sa chce uplatniť a dobre uplatniť, musí byť dobrým odborníkom, či   je gazda, či robotník, či úradník, umelec, alebo práve spisovateľ. Čo   je to však iné, ako triedenie vedomostí na prvo-druho-treťostupňové   pri ich nadobúdaní? Inženier môže stavať domy, mosty, stroje i bez   dokonalej známosti o rytmike verša. Maliar môže výborne klásť farby   na plátno i bez známosti o Platónovej, alebo Aristotelovej filozofii   atp. Takéto utrieďovanie je pre poriadok v našej mysli a najmä na to,   aby sme vždy mali po ruke ten priečinok, ktorý najviac potrebujeme.   Tento poriadok je však nielen pre povolanie, alebo nadobudnúť pevnú   bázu všeobecnej vzdelanosti ― potrebný.
+     <tei:emph>
+      Je nevyhnutnou   podmienkou i keď ide, ako vybudovať v duši pevnú kostru, vydobyť si   vhodný náhľad na svet a na život, postaviť sa na taký rozhľadný bod,   s neho nevidieť len chaos, ale zákonitosť života, čo rozsýpa nielen   trpkosť, ale i radosti a určuje ti i cieľ.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      2.
+     </tei:emph>
+     Vybudovať si pevný náhľad, a dokladám ― vhodný   náhľad na život, je prijať všetky dojmy vonkajšieho sveta, spracovať   ich v sebe, utriediť a ovládať. Samozrejme nedá sa to bez   sebapoznania. Keď poznáš, aké sily hýbu morom, môžeš sa zamýšľať, ako   sostrojiť najvhodnejšiu loď plaviť sa na ňom. Keď poznáš klima svojho   kraja, vieš, ako sa obliecť, aby si neprestydnul, ani nezahorel. Keď   ti je známo, a má ti byť, čo všetko hýbe vnútrom ľudí i len tých, s   ktorými máš šťastie v živote, vieš si zachovať svoj zástoj medzi   nimi.
+     <tei:emph>
+      Preto, keď poznávaš svet mimo seba, nezabudni na ľudí, z   nich je každý človek vlastne svetom pre seba
+     </tei:emph>
+     ―
+     <tei:emph>
+      osobitným   svetom. Len tak budeš vedieť vyhnúť nárazom, prv než ťa zasiahnu a   nebudeš sa rozčuľovať na tom, čo skúsiš.
+     </tei:emph>
+     Keď ťa kopne kôň,   nepovedieš ho k rychtárovi a neupadneš do pokušenia nanucovať svoju   pravdu miesto človeku ― bezchvostnej opici. Už som ti poznamenal, že   v spoločenstve ľudskom potuluje sa ich mnoho.
+     <tei:emph>
+      Človek nezačína   sa kolískou, ba ani dobytím doktorátov, ale chvíľou, keď sa rozkvitne   v ňom poznanie a cit ľudskosti.
+     </tei:emph>
+     Mnoho som vytrpel, kým som   prišiel na to, ale môžem úprimne vyznať, dnes ma to veľmi uspokojuje.   Kedysi trápila ma mienka ľudí, dnes ma netrápi, keď mi nevyčíta   svedomie. Predtým, keď som poznal pravdu, čosi ma hnalo v duši   presvedčiť všetkých, dnes viem, presvedčiť o pravde nezávisí len od   tejto, ale i od iných podmienok.
+     <tei:emph>
+      Ako sú ľudia, slepí pre farby,   hluchí pre zvuky, tak sú povahy, čo majú svoje, skrivené základy   smýšľania a svoju logiku. Dohodovať sa s nimi je márne, oni povolia   pravde, ak vôbec povolia, vtedy
+     </tei:emph>
+     ―
+     <tei:emph>
+      keď musia pod tlakom   záujmu, alebo verejnosti.
+     </tei:emph>
+     Inak húdli by si svoje do skonania   sveta. A tak je to nielen s prvkami a spôsobom poznania, tak je to i   s prvkami mravného založenia. Sú rodení efialtovia, herostratovia,   brutovia a iné typy najrozličnejších zločincov, ktorých spoločenstvo   môže ovlivňovať i prevychovať, ale príležitosť môže vždy vyvolať z   nich i to, čo sú. Všetko toto poznať môže byť smutné, náhľad o   dôstojnosti ľudskej a božskom pôvode človeka hodne skreslí, ale bez   toho nie je možný správny pomer jednotlivca so spoločenstvom, ktorého   je členom.
+     <tei:emph>
+      Ľudstvo má svoju tvár a svoj tieň, svojich svätcov,   i svojich zločincov a neraz ťažko ich je rozoznať od seba. Vliv ich   križuje sa neraz a musíš mať dobré oči, vystihnúť, či máš pred sebou   apoštola dokonalejšieho života a či proste piráta, zaobaleného do   apoštolského rúcha, s gesty a heslami, primeranými dobre štylizovanej   maske na lotrovskom obličaji.
+     </tei:emph>
+     A takýchto je veľa, keď sú i   rozličného stupňa, ale jest ich všade. Všade snažia sa uplatniť a   ľudstvo, ak sa pohlo dobrým smerom, alebo využiť, alebo infikovať   nemocou, čo im rozožiera vnútro. Preto je veľkým umením, ako odolať   ľuďom, tak i vybrať si ľudí, aby sa človek nestal zajatcom, alebo   práve papagájom duchov, reprezentujúcich kaz a smrť na živom strome   človečenstva. Sú maniaci až po perverzitu a musí byť duša človeka   dobre usporiadaná i vystrojená ― odolať im.
+     <tei:emph>
+      Človek je z dobrej   časti dielom prostredia, v ktorom sa pohybuje, preto je zlá   spoločnosť vždy veľkým rizikom.
+     </tei:emph>
+     Ukáž mi svojho priateľa a ja   ti poviem, kto si! ― hovorili za dávnych časov a uznáš, môj milý, je   v tom veľa pravdy.
+    </tei:p>
+    <tei:p>
+     3. Vonkajšie dojmy odrážajú sa v nás koniec-koncov v precítení, čo   je vlastne miera najintímnejšieho styku ľudskej bytosti so svetom   mimo nej. Táto miera hodnotí svet poznania pre nás, vyvoláva v nás   pocit radosti, či žiaľu ― záchvevy šťastia, alebo otrasy nešťastia.
+     <tei:emph>
+      Cesta k šťastiu, ak sa nepodáva náhodou sama a musí sa hľadať,   vedie cez správne poznanie k správnemu precíteniu toho, čo život dá.   A tu je veľmi vážne vedieť, že chuť zažitia je vždy relatívnej ceny a   tak sa i tvorí, i vzniká v našom povedomí.
+     </tei:emph>
+     Dotkni sa teplej   ruky studenou, zdá sa ti horúcou, zohrej na kachliach a dotkni sa   ruky, teplej ― ako predošlé, máš pocit, že je chladná. Okús riadnu   vodu po horkej a cítiš, je sladká. Pri mori zdajú sa i nízke vŕšky   vysokými, pod nebotyčnými končiarmi i vysoké vrchy robia dojem   kopcov, na ktoré sa vyjde raz-dva. Hluk v tichu zarazí, pri rachote   mizne, alebo sa stáva tupým bzukom mušky.
+     <tei:emph>
+      To je znak, že náš   citový aparát, vyrábajúc pocity pre naše povedomie, vždy   porovnáva.
+     </tei:emph>
+     Chudobné deti majú väčší pocit radosti pri malých   daroch, ako bohaté a jednostaj obsypané ― pri veľkých.
+     <tei:emph>
+      A   vyzdvihujem, čo je skutočná hodnota pre nás, tá je v duši
+     </tei:emph>
+     ― v
+     <tei:emph>
+      cite! Tu sa rodí šťastie, alebo nešťastie človeka, čo sa   zakladá nielen na rade dojmov, ale azda viac na tom, ako sú tieto vo   vnútri ukladané, triedené, porovnávané a tým i chápané.
+     </tei:emph>
+     Náročivosť pripravuje o pocit radosti, keď je dar života nikdy nie   dosť. Preto je viac šťastia v chudobe, než v hojnosti a naše   pokolenie, ak chce bližšie k nemu, musí si složitý a náročivý život   zjednodušiť, v malých úspechoch nájsť radosť, aby ona vzrástla, až   prídu väčšie. Na školách učíš sa mnohému, môj milý, ale to   najhlavnejšie ― ako nájsť spokojnosť a šťastie, nikto ti neodhalí.
+     <tei:emph>
+      Málo, máličko uč sa čakať od života. Ak ti nedá viac,   neprekvapí ťa, ak ťa obohatí, rozmnoží sa tvoja radosť a budeš   bližšie stavu, čo menujú šťastím. Najmä však trénuj sa vydržať údery.   Keď sa pocvičíš, nebudú ťa bolieť. Poznaním seba i stavaj
+     </tei:emph>
+     v
+     <tei:emph>
+      sebe, nech tvoje pevné ja panuje nad dojmami sveta, dobrými i   zlými, nad radosťou i bôľom.
+     </tei:emph>
+     A hoc by ľudia hovorili o tvojom   nešťastí, ty ostaň v rovnováhe a upri na nich svoj zrak s úsmevom na   perách, ako i v srdci!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Dielo
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Dielo je práca a práca je program života. Kto ho nemá, zunuje   napokon všetko, hoc by mohol žiť bezstarostne a chodiť v záhrade,   podobnej stratenému raju. Označovať prácu za trest, alebo za ťarchu   života, nie je správne. Aspoň na naše pokolenie nehodí sa nijak, keď   je práve práca nielen predmetom ambície, ale i prameňom radostí, bez   nich boli by sme hodne chudobnejší. Pravda, je i práca, čo je   trestom. Takým bola práca otrokov, nameraná a nanútená rozkazom   silného. Tým je však i každá robota, ku ktorej nemá človek etického   vzťahu a nekoná ju z chuti a ambíciou.
+     <tei:emph>
+      Práca nasilu tlačí   svojou váhou, absorbuje sily, práca z chuti dá zabúdať načas na   bolesti a sklamania, vyplňuje život i vtedy, keď nás on v skúposti   svojej nezbadal u dvier dvorany, kde rozdáva dary.
+     </tei:emph>
+     Prácou, ak   je tvorivá, zapneme sa do ohromného procesu prozreteľnosti, a ak   chceš ― pracovnej prírody, stávame sa spolutvorcami sveta, čo sa   neustále rumí i buduje. Ktoten si myslí, toľko sme, ako motor, čo   reže drevo, teše skaly, alebo píli železo, potrebné na stavbu. Človek   je však viac, lebo ― ťo robí, koná povedome, i precíti to.
+     <tei:emph>
+      Preto je vážné hneď za mladi nielen pochopiť, čo je práca, ale   si i vybrať úlohu, čo zabezpečí človeka v existenčnom boji a najmä   poskytne program, k vôli ktorému hodno je žiť.
+     </tei:emph>
+     Toto má znať   mladé pokolenie ešte pred rozbehom do života a máš to precítiť i ty,   môj milý!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Iste badáš, ako to všetko hlboko zasahuje do tak   zv. povolania, čo je nič nie iné, len ustálený pre človeka životný   program, ktorý má vykonať. Práce je veľmi veľa na svete, práve preto   sú povolania také rôznorodé, z nich si máš vybrať to „svoje“ pre   seba. Ktoré povolanie je najťažšie? ― vykladal som raz svojim   poslucháčom a videl som v ich očiach nielen zvedavosť, ale i to   presvedčenie, ako všetci myslia na svoje. Čakali, azda sa im   zalichotím a prisvedčím, najťažšie je povolanie vaše, roľníci, alebo   robotníci! Ale nie. Najťažšie je to povolanie ― vykladal som ― do   čoho sa človek nerozumie a tak ho ani nerobí z chuti.
+     <tei:emph>
+      Ľahké je   každé povolanie, do ktorého sa človek rozumie a má k nemu i etický   vzťah.
+     </tei:emph>
+     Nie je to ťažko chápať. Vrecia dvíhať nie je ľahko, ani   silnému chlapovi, ale keď vystihne spôsob, naučí sa tomu, až sa   zadívaš. Tak je pri rúbaní dreva, štiepaní, skaly, pri kosbe na roli,   pri strojoch v továrni, i pri hŕbach papieru v úrade. Všade! Človek   koná i úžasné veci, ale pomáha si tréningom, i dômyslom, ako baletka   na vytiahnutom povraze. Všetko je ľahké, čo človek vie a všetko   tiahne, k čomu má ambíciu.
+     <tei:emph>
+      Niet smutnejších postáv ako sú tie,   čo pomýlily povolanie a k svojmu nemajú ani schopnosti, ani etického   vzťahu. To je ako nošu dreva prenášať s miesta na miesto pre kus   chleba. Preto je voľba dráhy životnej nesmierne vážnou, pri čom   kriterion je schopnosť a vôľa.
+     </tei:emph>
+     Dnes už máme psychotechnické   ústavy, kde mládencovi po preskúmaní povedia, k čomu by sa hodil. Sú   poradne pre výber povolania, ale myslím ― najistejšie je počúvať na   vnútorný hlas, čo sa ozve v duši. Dobre je, uvažovať o tom prv, než   nadíde tá chvíľa: kam teraz? Lapať sa sedmoro remesiel, je hotové   žobráctvo. Prechodiť od odboru k odboru, je najčastejšie predznak   neúspechu v tragédii života. Iné je, keď sa borí s biedou nadanie a   žhavá ambícia. Tu vyrastie z kováčskeho učňa profesor, z predavača   novín prezident USA. Iné je zas preberať a necítiť vôľu k ničomu.   Taký človek, ak je neskoršie lekár, stáva sa katom iných i seba. Ak   je inženier, letia mu stavby na hlavu. Ak je roľník, necháva role   úhorom, i keď by ich mohol lepšie využiť. Ak je remeslník, sám si   vyháňa ľudí zo závodu. To sú ľudia predurčení robiť prevraty, lebo   vinia spoločenstvo pre prípadný svoj neúspech, hoc sú si príčinou   vlastne sami. Preto nepreberať v povolaniach, ale vybrať si. Uvažuj
+     <tei:emph>
+      o
+     </tei:emph>
+     tom, môj milý, veď čas dozrieva. Z
+     <tei:emph>
+      tisíce   poctivých povolaní, ku ktorému cítiš schopnosť a ťa priťahuje
+     </tei:emph>
+     ―
+     <tei:emph>
+      to je pre teba!
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      2.
+     </tei:emph>
+     Pri voľbe povolania mnoho sa myslí na to, či je   ono polahodné, alebo nie. Tiež či je dobrým prostriedkom k hojnosti a   vôbec k uplatneniu. V tomto je, myslím, mnoho márnosti ľudskej, o čom   som ti už hovoril. Ak mu človek dobre rozumie, polahodné je   ktorékoľvek povolanie,
+     <tei:emph>
+      ba nejaká výnimečná ťažkosť zdravého   ducha ešte viacej dráždi.
+     </tei:emph>
+     Tu je na pr. letúnstvo! Čo tu všetko   riskujú odvážlivci a po páde jedného, druhý sadá na stroj ― bojovať   so vzduchom. Ty však povieš, ten letún má príležitosť dokázať niečo   nového, nebývalého a to je príčinou tej dráždivosti. Tak je,
+     <tei:emph>
+      ale odokrývať nové možnosti nie je vylúčené pri nijakom   povolaní.
+     </tei:emph>
+     Človek si proste musí uvedomiť ― či na roli, či vo   fabrike, či v obchode, či v úradnej, alebo súkromnej pracovni, že je   nielen nádenníkom, ale i dobyvateľom. A čo sa týka bohatstva ―   najžiadúcnejším povolaním bolo by vylamovať kasy a tresory, čo má   však svoje nevýhody, pri ktorých bankovky menia sa na plevy.   Bohatstvo nie je ešte spokojnosť, ani šťastie. Naopak, kto sa dá   unášať v svojej práci len tuhe po imaní, nikdy ho nemá dosť. Ľudia   robia neraz ťažké prechmaty voči svojim spoluobčanom povolaním, ktoré   zneužívajú na vydieranie, ale obohacovať sa, hoci v znamení práva a   spravodlivosti, nie vždy sa vyplatí. Preto ak by si si i vybral   skromnejšie povolanie, nemysli, že si sa tým pomknul ďalej od   možnosti ― byť šťastným. Možno práve to potisne ťa bližšie k nej.   Kedysi závidelo sa tým, čo nemali práce, dnes vieme, to je najväčšie   nešťastie, už či je ono z pohodlia a či pre nezamestnanosť. Máme tedy   byť vďační i príležitosti k poctivej práci, čo nám vyplní prázdnotu   dní a zabezpečí nám, i našim milým kúsok chleba. Nie je toho tak   mnoho, čo nevyhnutne treba človeku k životu. Kto je malému nie   vďačný, veľkého nie je hodný.
+     <tei:emph>
+      Akže by ti
+     </tei:emph>
+     <tei:emph>
+      tedy bolo   údelom v povolaní to málo, nezáviď tým, čo sa zdajú mať viac, možno   závidel by si im nešťastie.
+     </tei:emph>
+     I tým malom vyplň si svoj svet a   černejší chlieb pri správnom pochopení života bude ti sladším, než   ten najbelší, čím sa veľkí chamtivci spoločenstva presycujú!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     S dielom, čo je práca, má byť človek v etickom   pomere a tak robiť z chuti. Ako sa však dostať k tomu. Zapodievať sa   s tým, k čomu máš vlohy? Iste! To je však ešte nie dosť.
+     <tei:emph>
+      Svoje   dielo musíš zapiať do veľdiela celého nášho spoločenstva a tak vidieť   účelnosť jeho i svoju.
+     </tei:emph>
+     Nenamýšľaj si, ako to všeobecne robia   tvoji vrstovníci, že čo máš v zručnosti a vedomosti ― nadobudol si si   sám. To ti dalo z ohromnej časti spoločenstvo, ktorého si členom. Ono   ti dalo školy, i všetky možnosti, čo vypestovaly už či tvoje ruky, či   tvoju myseľ a ducha. Preto nie ono, ale ty mu ostávaš dlžníkom. A čím   ti dalo viac, tým väčším dlžníkom.
+     <tei:emph>
+      Ten dlh svoj máš mu   príležitosť splatiť vo svojej svedomitej, poctivej práci, čím sa   stávaš užitočným nielen sebe, ale i samému spoločenstvu.
+     </tei:emph>
+     Preto   ti prichodí študovať, či tvoje snaženia a každý tvoj čin, z čoho   pozostáva tvoje povolanie, vpadá harmonicky do veľdiela, čím sa   udržiava a obohacuje celá tvoja rodina, národ i celé ľudstvo,   zveľaďujúc tým úroveň blahobytu. Ak nie, žiješ ďalej na účet   spoločenstva a tvoja práca, ak je i nie zločinná, jednako nie je ani   produktívna.
+     <tei:emph>
+      Česť patrí práci, ale len takej,
+     </tei:emph>
+     v
+     <tei:emph>
+      ktorej pracovník tvoriac reálne hodnoty pre všetkých ľudí, robí   tým i pre seba. Tak sa spláca dlžoba spoločenstvu poctivým,   svedomitým
+     </tei:emph>
+     dielom. A toto povedomie dobre je mať nielen pri   hodnotení roboty a svojho povolania, ale i svojej osoby. Ako ti príde   na myseľ, odkiaľ si prišiel na tento svet, tak sa ti vynorí i tvrdá,   azda ešte tvrdšia otázka ― načo si tu? A nevhodná odpoveď ― zlý   život! Nejeden človek nevediac si rozriešiť túto otázku, našiel svoj   hrob. A tu nebolo by správne nadiktovať ti, že je jediným cieľom   tvojho bytia na tejto zemi ― práca.
+     <tei:emph>
+      Cieľom tým si si sám vo   vyššej dokonalosti, spokojnosti a šťastí, práca je k tomu jedným z   prostriedkov.
+     </tei:emph>
+     Všimni si svedomitého roľníka, keď sváža po   žatve. Ruky mu špejú, ale oči žiara spokojnosťou a radosťou.   Pohnútkou k tomu nie je len ukojený záujem, ale zdar z poctivej   práce, ten podvedomý cit, že nepracoval ― nežije nadarmo a ovocie   jeho práce zveľaďuje, hoci hneď len snopom, životný fond, bohatstvo   celej zeme. Toto vedieť a cítiť znamená dostať sa do etického pomeru   so svojím dielom a dielo samé zapiať harmonicky, doplňujúco do   svetového veľdiela. Spomeň si na to, môj milý, keď sa ti príde   rozhodnúť o primeranej dráhe životnej, na ktorej chceš si nájsť   nielen kus chleba, výživy, ale i spokojnosti a šťastia. Ak sa naučíš   pracovať poctive a s radosťou, ujde nuda, ale ujdú i mračné myšlienky   s tvojho čela. Slnko zapadne a ty túžobne vyčkávať ho budeš, kým   vyjde zas, lebo zacítiš v sebe živelnú vôľu žiť a byť spolutvorcom   sveta. Nebudeš nájomníkom, čo čaká úder hodín, kedy odhodiť čakan.   Budeš spolupracovníkom večnej tvorivej sily a tá uchvátiac ťa, uľahčí   ti bremeno života, pod ktorým iní krčia sa bezvládne, alebo i   tragicky padajú.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Prúdy života a zmaru
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Sily sú tvorivé, i rozkladné, môžeme ich smelo pomenovať prúdmi   života a zmaru. Ich práca a jej následky dajú sa sledovať v svete   neživotnom, ako i v živom organizme ― až po psychické vnútro človeka   a más, čo označujeme dušou. Rozkladná sila rozomiela skaly, tvorí   organizmus rastlín i živočíšstva. Ak sa i vykonaním deštruktívnej   úlohy mení na tvorivú, to nemení na veci. I jedy umárajú bunky a   dávajú materiál novému životu. Život a zmar chápeme tedy vzhľadom na   jednu a tú istú vec, alebo osobu.
+     <tei:emph>
+      Tieto prúdy života a zmaru   neobchádzajú ani náš ľudský organizmus a ovlivňujú i životnú vôľu,   náhľady, celý obsah psychického vnútra, ktorým si svet i bytie svoje   vlastné uvedomujeme.
+     </tei:emph>
+     Preto je radné rozpoznať ich, vysvetlia   mnohý zjav a kto zvie, čo je jed ― môže sa ho chrániť. Tvorivé sily   zas majú svoj elán, kto ich rozpozná i v sebe a oprie sa na ne,   vynesú ho, ako plavca bystré vlny rieky. Všímaj si tedy i týchto, môj   milý, ich pomer rozhoduje o budúcnosti sveta, národa, vrstvy ľudského   spoločenstva. Od pomeru týchto prúdov, ak chceš i látok, závisí tvoje   zdravie, tvoj pokoj i to, čo menuješ šťastím.
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Mnoho podivného deje sa v svete, čo si nevieme   hneď vysvetliť. A jednako riešenie složitých zjavov má svoj taj, ako   vynálezy vôbec, najčastejšie veľmi prostý. Príroda so stránky   biologickej je dosť pilne študovaná, pomerne dosť málo je však   človek, najmä v svojich masách, podrobených tým istým duševným a   životným zákonom. Deje človečenstva vieme si podeliť na veky, deje   národov na obdobia vzrastu, rozkvetu, úpadku, deje jednotlivých   stavov podobne, ale vysvetlenie tohto procesu vždy nám rozmaže nejaká   neurčitá fráza (o pokroku atp.). Nám totiž, čo sme na konci histórie,   neraz lichotí povedomie, že sme na stupni, odkiaľ môžeme zmerať   minulosť a to zvysoka. Čo bol na pr. temný stredovek k osvietenému   dvadsiatemu stoletiu? Čo právny a kultúrny cit národov kedysi a dnes?   Aký rozdiel medzi zapadlým feudalizmom, zapadajúcim liberalizmom a   nastupujúcim socializmom, lepšie komunizmom! Treba však len   nepredpojatejšie skúmať rozličné rámce života v minulosti a   prítomnosti, srovnávať ich a hlavne ― postaviť do ich stredu človeka,   ako rozumného tvora, hľadajúceho to najhlavnejšie ― prostriedky k   životu, spokojnosť, blaho a vidíme, na čom sme.
+     <tei:emph>
+      Panoráma   histórie mení svoj tvar, ale priemerný človek i po krvavých a   víťazných revolučných otrasoch stojí v novom prostredí zoči-voči s   najťažšími problémami života, a po schladnutí horúčky stojí s hlavou   svesenou. Vzostup
+     </tei:emph>
+     ―
+     <tei:emph>
+      vrchol
+     </tei:emph>
+     ―
+     <tei:emph>
+      pád to je   charakteristická čiara večného vlnenia, čo sa nám zdá vzostupnou pre   naše namýšľavé lipnutie na vonkajších formách a je vlastne
+     </tei:emph>
+     ―
+     <tei:emph>
+      optický klam.
+     </tei:emph>
+     A príčiny tohto stavu? To sú prúdy života   a zmaru, čo hľadajú i vynášajú nové hodnoty, i formy, zdokonaľujú   ich, ale i rozložia a deformujú. Biologický proces rastliny,   živočícha prenáša sa i na človeka a ľudstvo, na jeho telesný   organizmus i duševný fond, najmä však na formy, v ktorých plynie jeho   život. I v prírode je to jednostajné, nechcem povedať ― večné rodenie   sa a odumieranie, za čím stojí, ako hnacia impulzívna sila ohromná   tuha za novými formami, už či sa ony podaria, alebo nie. Tak je i u   nás a v celom ľudskom spoločenstve.
+     <tei:emph>
+      Nie sme a nebudeme spokojní   s tým, čo sme a máme, hladíme na budúcnosť, ako na závoj, za ktorým   je uskutočnený sen duše našej a keď ten závoj odhalíme, krátka chvíľa   a zas nás núti čosi alebo spomínať, alebo hnať sa do predu
+     </tei:emph>
+     ―
+     <tei:emph>
+      ďalej, ďalej!
+     </tei:emph>
+     Vzostup a vrchol ― potiaľ sa uplatňuje i v   nás tvorivý prúd života, pomaly však nastáva vyžitosť, rozklad, keď   prúd zmaru uplatňuje celkom určite svoju mŕtviacu moc.
+    </tei:p>
+    <tei:p>
+     2. V svetle tohto náhľadu zaujímavé je skúmať vývoj a pád   jednotlivých národov i tried, ako sa to odráža v ich vôli žiť a aj v   ich smýšľaní. Tedy nielen v živote telesnom, ale duchovnom i mravnom.   Gréci, Rimania a iné slávne národy dávneho veku, započali svoju dráhu   pri všetkom primitivizme v prostote zvykov a v prísnosti mravov,   alebo ctností.
+     <tei:emph>
+      Prúd života, tá prasila, čo núti mladý strom   pučiť a kvitnúť, unášala ich boriť sa so svetom, tvoriť hodnoty   hospodárske, kultúrne, i etické
+     </tei:emph>
+     ―
+     <tei:emph>
+      spoločenské a   národné.
+     </tei:emph>
+     Tá sila spravila veľkými Athény, Spartu i Korinth, tá   zdvihla Rím, Karthago, i starú Veneciu. V tejto dobe našli by sme tam   pravý typ mužov i žien, zdravých telesne, zdravých v smýšľaní,   dobývaní ― i v požívaní života a jeho darov. Za tejto vzostupnej doby   musel tu horieť v dušiach zápal nadšenia za prácu, krásu, boj atď.   Lenže ako má vymeraný svoj vek rastlina, či živočích ― má, myslím, i   rodina a národ. Keď ten prejde, počnú účinkovať prúdy zmaru.   Organizmus národa môže sa im brániť, umele i dlho brániť, ako bráni   život jednotlivca rozumná hygiena,
+     <tei:emph>
+      ak je však prúd života   prevážený vo svojej intenzite prúdom zmaru, nastáva pomalý, alebo   rýchlejší rozklad a to je počiatok cesty ku pádu.
+     </tei:emph>
+     Po veľkých   hmotných, duševných i sociálnych úspechoch Grékov, Rimanov, i iných   národov ― nastalo v blahobyte akési duševné sčemerenie, skepsa a   pusté zažívanie darov života, pri čom stalo sa skutkom ― kto   neshromažďuje ― rozptyľuje!
+     <tei:emph>
+      Na miesto svedomitého pracovníka,   chrabrého vojaka, vodcu tvrdého charakteru nastúpil občan zmäklý,   lenivý, chabý
+     </tei:emph>
+     ―
+     <tei:emph>
+      ale tým väčší mudrlant a pôžitkár. Ten   iste tiež tak prestavoval svet, nevážiac si minulosti, peknej   tradície, plný skepsy a neistoty
+     </tei:emph>
+     ―
+     <tei:emph>
+      pri všelijakom   hodovaní, ako to robí vyžívajúci sa človek dvadsiateho stoletia v   baroch, alebo v inakších brlohoch.
+     </tei:emph>
+     Porovnať typ Rimana, alebo   Rimanky, Gréka, alebo Grékyne z doby rozkvetu a z doby národného   úpadku a máme pred sebou celkom iných ľudí. Inak žijúcich, inak   veriacich, inak pracujúcich, inak i smýšľajúcich. V tamtých,   unášaných a silnených prúdmi života, je vôľa žiť, tvoriť i boriť   sa... v týchto je vôľa požívať, vyžiť sa, lebo ― post mortem nulla   voluntas ― po smrti nijakej žiadosti! Tamtí tvoria svoju spoločenskú,   národnú a štátnu tradíciu, i držia sa jej ― títo, stŕhaní prúdmi   zmaru, netvoria už nič, trovia duševný i hmotný fond, čo predkovia   nahromadili. Tradíciu, jej spoločenské i náboženské formy nemajú vo   vážnosti, vysmievajú ju a žijú radostiam, sebeckým radostiam tela i   ducha.
+     <tei:emph>
+      A uver, môj milý, títo poslední, hoc tragikum vlieklo sa   im v pätách, mysleli si na svojich predkov iste zvysoka ako na ľudí,   ktorí nevedeli, čo je život a ako žiť!
+     </tei:emph>
+     Vzostup ― vrchol ― pád!   Celkom tak možno sa zamýšľať o histórii niektorej, lepšie každej   triedy ― na pr. zemianstva. Tohto sa dotýkam preto, keď si ono svoju   úlohu dohralo. Zakladatelia starých zemianskych rodín neboli ľudia   poslední, ako sa o tomto stave dnes rado hovorí ― to boly osoby   zpravidla vynikajúce alebo odvahou, alebo umom. V tom čase a v tých   pomeroch takto sa prejavovalo v našej dobe nietzscheizmom   vyzdvihované právo na uplatňovanie sa silných indivíduí. A kým   zemianstvo unášal prúd života, vedelo tvoriť, pracovať, boriť sa s   nepriateľom vlasti i s ťažkosťami dňa, vážiť si tradíciu, i stavať   ju, obetovať ― a zatiaľ i kvitlo. Keď ho strhol prúd zmaru v túhach   po zažívaní, ľahtikárení, rozkošiach, nastal rozklad, prežilo sa a   muselo padnúť. Pravda, vývojom hospodárskych pomerov dostalo silného   konkurenta v meštianstve, ktorého kapitálové dobre založená časť   vystúpila podstatne, keď i nie formálne, so zemianstvom na jednu   linaj, a nielen rozkvetu ― i úpadku. Práve prežívame dobu, kde sa   toto javí veľmi názorne. Prúdy zmaru podmyly zemianstvo, podmývajú   dnes už i meštiansku triedu, i sedmoslivkárov, ale i kapitalistické   magnátstvo. Z tohoto dôvodu postavili v Rusku proti diktatúre   kapitalizmu, diktatúru proletariátu. Pravda, i to je len slovo.
+     <tei:emph>
+      Diktujúci proletariát, zúčastnený vo výhodách života voči   ostatným spoluobčanom je podstatne nič nie iné, ako oživenie   zemianstva, a hoc kapitálom vládnucej buržoázie. Či je ten využívaný   kapitál súkromným a či štátnym, ako
+     </tei:emph>
+     v
+     <tei:emph>
+      komunizme
+     </tei:emph>
+     ―
+     <tei:emph>
+      nemení na veci.
+     </tei:emph>
+     I tu platí to latinské ― habent sua fata   ― majú svoj osud! Vzostup ― vrchol ― pád!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     Biologický proces národov, i jednotlivých tried   odráža sa jasne v histórii. Odráža sa však i v myšlienkovom fonde   toho ktorého veku, ako i našej doby. Ba odráža sa veľmi určite i v   umení a v literatúre. Čo bol dekadentizmus obsahové iného, ako   vyvrcholenie prúdov zmaru nad prúdmi života? Ak sa to i vyjadrovalo v   dokonalej umeleckej forme, jedno! Samozrejme tomuto procesu podrobený   je i jednotlivec. Neraz sa stretáš, môj milý, s ľuďmi, ktorým je   všetko nič, všetko skonané, prežité. Môžeš to zbadať i z rečí   profesorov, i v rozhovore so spolužiakmi. Títo ľudia nevedia sa   zapiať do našej národnej tradície, svoj obdiv, ak je v nich aký,   obracajú do cudziny, alebo fantazírujú o veľkosti budúcich svetov,   ako si ich predstavujú oni, alebo neraz zabručia, kývnu rukou a   vyhrkne z nich ― že je hlúposť všetko.
+     <tei:emph>
+      Takéto smýšlanie nie je   podmienené vzdelanosťou, ale biologickým procesom, vlívajúcim na   patričného jednotlivca a tak dispozíciou jeho povahy. Ľudia, unášaní   prúdom zmaru, majú tomu primerane i svoje náhľady na svet a na život,   za ktoré môžu veľmi málo.
+     </tei:emph>
+     Zvláštne je, že sú oni o svojej   pravde presvedčení ani tuberkulotik o istote svojho uzdravenia. Radi   by ju naimputovať i tebe, lebo duševná prázdnota má tiež svoj   fanatizmus ― až po výsmech a prenasledovanie. Keď však počuješ ich   dôvody, pomysli si, ako inak hľadí na slnko, hoci i zapadajúce ―   strom zdravý, plný kvetu a nádeje ― a inak strom prehnilý a schnúci   so svojím predčasne zrejúcim a červivým ovocím. Ako si chrániš   zdravie tela rozumným športom, vylučujúc tým jedy zo svojho telesného   organizmu ― tak sa snaž poznať a využiť prúdy života v zdravom   duševnom fonde, ktorý si máš štúdiami opatriť.
+     <tei:emph>
+      Keď nám je dané   raz žiť, prečo by to malo byť v úpadku ku zmaru? Prečo nie vzostupne   k vrcholu radostne tvorivých síl?
+     </tei:emph>
+     Prúdy zmaru i tak uplatnia   svoju silu, keď sme svoj život dôstojne prežili. Vtedy, keď nás   schytia ― bude to už čas ich a nie náš!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Dve kamenné dosky
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Prúdy života a zmaru majú podivného regulátora, je to tak zv.   mravný zákon. Človek vo svojej premúdrenosti môže popierať ducha,   môže si svet vysvetľovať materielne z hmoty, čo je vo večnom pohybe,   ale so svojím učením o tvorivej náhode potkne sa do mohutnej   priehrady, pri ktorej jednako len musí zastať a zamyslieť sa. Čo je   to za poriadok, čo sa vpisuje do toho mŕtveho kameňa neviditeľným   prstom, vpisuje podmienky života do rastlinnej bunky, do krvi a   kosti? V svete mimo nás, ľudí možno ešte hovoriť o slepom zákone   prírody, ale i tu narazí tento náhľad na skutočnosť oddelovania   dokonalejších druhov.
+     <tei:emph>
+      Podmienky života a borby s ním i tu sú   nie práve náhodilé, ale pevne postavené. Ktorý druh týmto podmienkam   nevie vyhovieť, ten sa stráca a zaniká. Čo je to iného ako skrytý   zákon bytia, čo sa vo vývoji tvorstva očividne uplatňuje? Tento zákon   o mnoho všestrannejšie zasahuje i nás a to nielen biologicky, ale i   duchovne a morálne.
+     </tei:emph>
+     Človek svojím intelektom vie si voči   tomuto zákonu zaistiť viac slobody, keď je jeho ja i nie   najšťastnejšie vybudované, postaví si svoju vôľu a povie ― robím, čo   chcem! Takáto reč môže však byť len fráza, veď sme z prevažnej časti   plodom svojho prostredia, zdedených schopností a náklonností. Jednako   môže byť i taký prípad, keď sa človek povedome postaví proti mravnému   zákonu, postaví vrstva i celý národ, ktoré organizmy a bytosti majú   tiež svoje slabé chvíle ― povedal bych ― chvíle sosutenia a   paroxizmu.
+     <tei:emph>
+      Vyplatí sa táto revolta proti zákonu, obsahujúcemu   určité podmienky života?
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Z pomeru prúdov života a zmaru museli ľudia už v   ďalekých vekoch vybadať istúsi zákonitosť, čo zaisťuje napredovanie a   úspech v borbe o bytie. Táto zákonitosť ustálila sa v ľudskom   povedomí na základe nesmierneho počtu a druhu skúseností viacmenej   sama. Také dve kamenné dosky, čo dal Mojžiš pod Sinaim židovskému   národu ― sú vlastne len určitým vypovedaním toho, v podobe prikázaní,   čo ten národ tušil už i sám.
+     <tei:emph>
+      Mnohé pravdy žijú v ľudskom   spoločenstve a dozrievajú veky, až sa objaví niekto, čo im dá určitú   formu a výraz. Veľkí ľudia predne absorbujú pravdu, čo dozrieva v ich   spoločenstve, preto sa hovorí, že prichodia v plnosti času.
+     </tei:emph>
+     Dajú i zo svojho nevšedného duševného fondu, ale najhlavnejším je ten   určitý výraz, ktorý ― keď ide o mravný zákon ― stáva sa prikázaním,   rozkazom! Určite vyjadrený mravný zákon malý aj iné národy. Mali ho   už v dávnej minulosti Číňania, Indovia v budhizme, mali i Gréci a   Rimania, keď i všetci iným spôsobom, primerane k svojim psychickým   vlastnostiam. Ich filozofi, učitelia, alebo ― ak tak ― proroci dobre   vystihli boj dvoch princípov ― života a zmaru, i tú zákonitosť, čo sa   stáva podmienkou obstáť v ich zápolení. Mojžišove dve kamenné dosky,   hoc by sme i odhliadli od akéhokoľvek nadprirodzeného ich pôvodu ―   prekvapujú svojou presnosťou a určitosťou. Desatero prikázaní, či ich   uznáme božími, či len ľudskými, obsahové sú tak priliehavé rady pre   život jednotlivca a ľudské spoločenstvo, že i dnešné zákonodarstvo   pravidelne na nich, ako na základe buduje svoje paragrafy. Ochrana   duchovného, náboženského presvedčenia a slobody ― kde sa ešte   neexperimentuje inak ― právo rodiny, istoty života, cti, majetku,   rozumné užívanie života ― všetko je tu obsažené. A tá sankcia   nariadení, obsažená v XX. kap. II. knihy Mojžišovej! Ja som Hospodin   Boh tvoj, Boh silný, horlivý, navštevujúci neprávosť otcov na synoch   do tretieho i štvrtého pokolenia tých, ktorí nenávidia mňa ― a   činiaci milosrdenstvo nad tisícami tých, ktorí ma milujú a   zachovávajú prikázania moje! Táto tvrdá sankcia je ňou i pre človeka,   ktorý nechce počuť o Bohu. Ona je naozaj spečatená skúsenosťami   života.
+     <tei:emph>
+      Nevšímať si mravného zákona a jednotlivec, vrstva, či   národ a celé spoločenstvo stráca na životnej sile. Poklesky a omyly   otcov skutočne sa pomstia na synoch a dcérach zdravotne aj inak až do   štvrtého pokolenia, t. j. i ďalej, kým len nenastane smrtiaci   rozklad, alebo otrávenú krv a ducha oheň života neprečistí. Ľudia   nemali zákona, proti ktorému neboli by sa búrili. Búrili sa vždy i   proti mravnému zákonu
+     </tei:emph>
+     ―
+     <tei:emph>
+      tajne i zjavne. A keď sa dnes v   súvise so socializmom a komunizmom hovorí o prehodnotení mravných   náhľadov, rozumný človek vyčká, ako bude na všetko to reagovať sám   prírodný a mravný zákon, napísaný vlastne nie na papier, ani na   kamenné dosky, ale vznačený do nášho telesného organizmu a   psychického i ľudského vnútra.
+     </tei:emph>
+     Skúsenosti posledných rokov   práve pri ohromnom experimente komunistickom v Rusku dosvedčujú jasne   ― i hospodárskym fondom a systémom z minulosti ťažko je trhnúť, akoby   odťal, stonásobne ťažšie je iste s fondom mravným, ktorý je pokladom   vekov a miliónov sŕdc. Rozbiť dá sa mnoho, negovať všetko, ale ako   človek nedonúti rieky tiecť od delty k vyvieraniu, tak svojím   negovaním a vzdorom nezmení ani mravný zákon, ktorý je vlastne   najistejšou silou a oporou ľudského pokroku.
+     <tei:emph>
+      Zvrátiť mravný   zákon je vlastne zločin, ale tento zločin vykonať do posledných   dôsledkov, na to je
+     </tei:emph>
+     ―
+     <tei:emph>
+      podľa mojej skromnej mienky i   najsilnejší človek, alebo stav pri všetkej namýšľavosti a   fanatizme
+     </tei:emph>
+     ―
+     <tei:emph>
+      primalý.
+     </tei:emph>
+     Keď sa totiž zazdá ― už je   to, ozve sa prasila života, transformátory zmiznú a prúd snáh povalí   sa svojím prirodzeným tokom za cieľom nie zhniť, ale žiť.
+    </tei:p>
+    <tei:p>
+     2. Mravný zákon nie je dosť poznať, ten má preniknúť celú bytosť   jednotlivca a či celku. Človek nemusí príkazy a axiomy jeho jednostaj   omáľať, ale ak je nie otrávený výchovou a zvrhlý ― má inštinktívne   cítiť, čo môže i smie a čo nie.
+     <tei:emph>
+      Z
+     </tei:emph>
+     <tei:emph>
+      tohto citového   povedomia rodí sa mravná zodpovednosť. Túto zodpovednosť, čo je nič   nie iné, ako prirovnávame svojho počínania k odkazom mravného zákona,   pocíti normálny jednotlivec, pocíti i organický celok, vrstva, národ,   či celé spoločenstvo. A dobre je, kým pocíti, lebo to hýbe bezpečne   kompasom psychického vnútra, čo sa menuje svedomím.
+     </tei:emph>
+     Zatiaľ sa   vie pozastaviť jednotlivec i verejnosť, áno i vzbúriť pri pohľade na   zločin, čo je kopnutie do mravného zákona. Dnes, pravda, vidieť aj   iné zjavy, ktoré sú priamym popieraním ako mravného zákona, tak i   mravnej zodpovednosti a vôbec svedomia. Prežívame chaotickú dobu   úpadku, keď sa miesto slobodnej vôle stavia do popredia zvôľa a za   ideál miesto svätca zločinec, neraz ― hotový pirát, vysmievajúci sa z   mravnej zodpovednosti a zo svedomia. Stavia sa nový zákon z nemravu a   nezodpovednosti, čo nás už i u nás dosť citeľne infikuje. To je   nemoc, čo má svoje obete vo vyžitých, najčastejšie perverzných   intelektuáloch, horlivé prenášajúcich svoju hroznú infekciu na široké   masy.
+     <tei:emph>
+      Indivídua bez mravnej zodpovednosti nenávidia mrav,   kdekoľvek zbadajú jeho stopy
+     </tei:emph>
+     ― v
+     <tei:emph>
+      spoločenskom organizme,   ako u jednotlivcov, vo verejných inštitúciách, v umení, či v   literatúre, všade! Majú svoj pohrdlivý úsmev povýšených na všetko a   ak sa zmocnia vlády, vykonajú všetko
+     </tei:emph>
+     ―
+     <tei:emph>
+      pretvoriť svet na   svoj vlastný obraz. To je čosi z pudu besného psa, ktorý hryzie, čo   mu príde v cestu a infikuje to. Takí duchovia môžu byť povestní   búrači, ale veľmi zlí stavitelia.
+     </tei:emph>
+     Ich naj silnejšou pohnútkou   je bezmezdná nenávisť k tomu, čo je a cieľom, ak sa vždy dá o tom   hovoriť, vybuduvať hocičo iné miesto toho. Ale práve po   nezodpovedných činoch tejto ľudskej perverzity precíti jednotlivec a   presvedčí sa i ľudské spoločenstvo o pravej, tvorivej hodnote ako   mravného zákona, tak i mravnej zodpovednosti, čo sa vie ohlásiť v   svedomí. Čas ukáže všetko i vyskúša, v jeho peci odlúči sa od seba   zlato i olovo a nebude treba zvláštnych očú rozpoznať kov od kovu, i   kov od bezcennej trosky!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     A teraz už zamysli sa nad všetkým tým vo svojom   záujme, môj milý! Si mladý, ako i tvoji vrstovníci ― cítiš svoje   právo vyberať si z toho, čo poznáš podľa svojich dôvodov. Možno,   cítiš istú zaviazanosť k nám, rodine svojej, možno i k národu, možno   i k celému ľudskému spoločenstvu. Zle by bolo, ak by si to necítil!   To by bol znak, že prúd zmaru podmýva i základy mladej duše tvojej.
+     <tei:emph>
+      Ak však cítiš tú zaviazanosť a ja o tom nechcem pochybovať,   naslúchaj na mravný zákon, cit mravnú zodpovednosť a to tvoje   neuspaté svedomie diktovať ti bude vždy, čím by si dlh svoj splatil   najistejšie. Keby si však i necítil zaviazanosť voči spoločenstvu,   ani národu, ba ani nám
+     </tei:emph>
+     ―
+     <tei:emph>
+      svojim rodičom, ktorí   vynaložíme ochotne všetko možné, aby si šťastne obstál v životnom   boji
+     </tei:emph>
+     ―
+     <tei:emph>
+      cíť tú zaviazanosť aspoň voči samému sebe pre   svoju budúcnosť!
+     </tei:emph>
+     Uváž i s tými, ktorí rastú spolu s tebou, či   vám je lepšie na brvne, a či na motorovom člne brázdiť sa zbúrenými   vlnami, čo otvárajú tlamu pohltiť vás. Ja som si vybral ten čln a keď   si i nezakladám na ňom, jednako mi je len ľahšie obstáť nad hladinou   ― a bolo by i tebe ― ako bez neho!
+     <tei:emph>
+      Ja tak vidím, a ty skús: ten   zákon na dve kamenné dosky nepísal prst Smrti, ale prst   Života!
+     </tei:emph>
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Rozmarín
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Bez kvetov v okne mohli by sme byť, ale bolo by pustejšie. Žiť by   sa dalo i bez ozdôb, ale bolo by clivo. Spraviť život možným, to má   mravný zákon a to poriadkom a prácou. Spraviť život príjemným a   ozdobiť ho, i prehĺbiť a zduchovniť ― má umenie. Oživujúca sila   ľudského ducha vo forme umenia prejavovala sa od nepamäti. Už   jaskynný človek vyrýval svoje predstavy o vonkajšom svete do   kamenných stien a poznal i zvečnil ladnosť línají, čo ho zaujaly.   Hudba, skulptúra, maľba, stavba ― siahajú do dávnych vekov. Pieseň   bola počiatkom hudby, i literatúry ― s ňou súčasne vznikaly rytmika a   tanec. Iný počiatočný prameň literatúry je iste báj a mýth. Všetky   tieto druhy, vyjadrujúce svojím spôsobom predstavy a idey ľudského   ducha, vyrastaly a volily si svoje formy prirodzene, ako prirodzene   vyviera prameň zpod skaly a z neho žblnkoce potôčik. Umelectvo učené   dostalo sa k slovu len postupom vzdelania, ináč všetky druhy umenia   majú svoj počiatok a vzor v umení prostonárodnom.
+     <tei:emph>
+      Civilizácia   stavia umenie na predné miesto nášho duševného prejavenia, robí ho   známkou duševnej vyspelosti jednotlivca, i celých národov a pokolení   ľudstva.
+     </tei:emph>
+     Preto sa stretáš s ním, a s rozličnými názormi naň v   škole i ty, môj milý. Počuješ o ňom slová lichotivé, i menej   lichotivé, ako o úžitku, ako o riešiteľovi a neúnavnom riešiteľovi   nových a nových problémov. Ak sa o to viac zaujímaš, zbadáš i veľký   chaos v náhľadoch, či ide o formálnu stránku, či o cieľ umenia a   literatúry. Čo je jednému veku umením, druhému je to nie. Čo jeden   znateľ vyzdvihuje, druhý neraz haní. Nebude tedy od veci, keď ti   poviem, ako na to všetko hľadím ja, starší od teba.
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Umenie je ako náboženstvo: má svojich kňazov,   ktorí sa viac menej podľa smerov a konfesií vytvárajú z kráľovstva   božieho. Preto ak chceš mať nejaký jednotný pochop o ňom,   vyzdvihujúci to najhlavnejšie, čo sa v ňom odráža, dobre je hľadieť   naň z istej si perspektívy a nie v blízkosti jeho majstrov, ešte   menej kritikov.
+     <tei:emph>
+      Umenie je esteticky vyjadriť hmotou, zvukom,   alebo slovom odraz vonkajšieho sveta mimo nás, i psychického sveta v   nás samých. Spôsob vyjadrenia je ten najrozličnejší, tvorí celé   vývojové fázy, školy, vyznávajúce už či manifestačné, či i bez toho,   svoje umelecké krédo.
+     </tei:emph>
+     Iste ti udrely o sluch izmy, ktorých je   pekný rad, ako ― romantizmus, naturalizmus, impresionizmus, kubizmus,   futurizmus, a rad iných. Ozaj čo ti prišlo pri tom na myseľ? Či nie,   čo je to za impulzívna sila, čo nedala zastať pri Rafaelovi,   Murillovi, či Rubensovi ― maliarom? Čo pobáda ďalej sochárov i od   Rodina? Čo hudobníkov i od klasikov hudby, Chopina, Mozarta, Wagnera   a Beethovena? Čo to robí prevrat v inštrumentácii nástrojov, až po   uvádzanie a improvizáciu hudby divých kmeňov, čo slúžily týmto   spôsobom svojim bohom, radovánkam a orgiam za mesačných nocí? Čo   ženie od celých a poltónov ku štyrťtónom, ktoré ucho Európana dnes   ešte veľmi ťažko vníma a rozlišuje? Ako sa to všetko javí i v   literatúre, v novelistike, dramate, ale najmä vo verši? Čo je hybnou   silou tej žhavej snahy, ktorá opúšťa vychutnané, hľadaním hľadá vo   formách nové smery vyjadrenia a stavia si problémy vyriešiť?
+     <tei:emph>
+      Myslím, je to pratúha prírody, čo je sama tým najväčším umelcom   a množí druhy kvetín, stromov atp.
+     </tei:emph>
+     Nespokojnosť s formami, čo   sú a sháňanie sa po formách nových, akési obohacovanie sveta   estetickými tvarmi a hodnotami, na ktorých by sa pokochaly smysly a   duša by mohla spočinúť. Všetko má, pravda, svoje hranice, ako i   vynájdenie nových dielov zeme, keď sú už všetky odhalené. Hrmot nie   je hudba, packanina nie je maľba, hádzanie slov bez ladu a skladu nie   je verš, a táranie dve na tri nie je a nebude filozofiou, len pre   ľudí bláznivých, alebo nenormálnych.
+     <tei:emph>
+      Ale to je ten impulz, čo   ženie stavať a riešiť problémy, nielen tuha po novom objave, ale i   akýsi strach pred starým, opotrebovaným a zovšednelým.
+     </tei:emph>
+     Výstrednosť v tomto smere ide vždy na účet nadania i výsledku, najmä   však trvácnosti umeleckých hodnôt. Ale bez tohto duševného impulzu   ťažko by bolo pochopiť všetku tú vydobývačnosť umeleckého ducha, čo   je jednako len oprávnená a ostal by nám len shon a nevysvetliteľný   chaos.
+    </tei:p>
+    <tei:p>
+     2. Po pohnútke k novým obzorom umenia ― iste ťa zaujme otázka: čo   je jeho skutočný smysel? Či len baviť svojou výraznou ozdobnosťou,   alebo viac?
+    </tei:p>
+    <tei:p>
+     To viac vidím vo vnášaní estetických hodnôt do ľudských duší   umením a ešte viacej ― v prevýchove ľudskej duše, povahy a v   prestavbe celého spoločenstva v znamení tých najvyšších   zušľachťujúcich, vyrovnávajúcich životných noriem a foriem.
+     <tei:emph>
+      A   tu sme už pri konkrétnej otázke
+     </tei:emph>
+     ―
+     <tei:emph>
+      je umenie pre   umenie
+     </tei:emph>
+     ―
+     <tei:emph>
+      l art pour l art
+     </tei:emph>
+     ―
+     <tei:emph>
+      a či   je pre praktické potreby života, ako roľníctvo, priemysel   atp.?
+     </tei:emph>
+     Hádky o tomto sú pochopiteľné a vynáša ich nielen doba   sama, ale i to isté opotrebovanie a tuha, nájsť nový výraz, nové   formy, a prakticky to i využiť. Takto došlo sa od slovných hier vo   verši k heslovitým a agitačným prácam nacionálnym, i sociálnym. V   maľbe od madonn ― kubistických a futuristických farieb a tvarov po ―   plakát. V hudbe od klasických skladieb po šlágry, čo v rádiu z Moskvy   prekvapí ťa nijako nie duchaplným, ale výrazným spevom tohto druhu ―   o piatiletke.
+     <tei:emph>
+      Podľa mojej skromnej mienky umeniu smery presne   nemožno predpísať
+     </tei:emph>
+     ―
+     <tei:emph>
+      ono je rôznorodé, ako rôznorodá je   nielen povaha, ale i schopnosť ľudská vnímať i vyjadrovať sa.   Vypovedať
+     </tei:emph>
+     ―
+     <tei:emph>
+      umenie len pre umenie dohráva už v našom   praktickom svete svoju úlohu
+     </tei:emph>
+     ―
+     <tei:emph>
+      nemožno. To by   znamenalo
+     </tei:emph>
+     ―
+     <tei:emph>
+      vyhubiť v duši smysel pre krásu, ak sa   nemožno z nej najesť.
+     </tei:emph>
+     Pekný tvar prekvapia upúta pozornosť   vnímavej mysle, i keď je to len hviezdica, vykreslená mrazom na okno.   Naplní srdce i pôžitkom, čo je konečne tiež istá praktická hodnota.   Pravda, ani honba za vyjadrovaním krásy pre krásu nesmie byť   bezduchým formalizmom, lepšie rečeno ― nesmyslom bez ladu a skladu!   Pri snahe umenie a najmä literatúru využiť prakticky zas treba dbať   základných vlastností umeleckého výrazu, čo už samo označí hranice,   pokiaľ možno ísť a odkiaľ nie ďalej.
+     <tei:emph>
+      Vyznavači umenia pre   umenie, myslím, budú vždy a ich úlohou bude chrániť, a zadržiavať,   aby praktický smysel nespravil z neho paškvil, či vo forme a spôsobe   výrazu a či v samej myšlienke.
+     </tei:emph>
+     Mňa samého ženie sklon   spraktizovať umenie pre život, ale vždy cítim úctu k snahe, udržať   umenie v jeho čistote, čím priznávam, že praktická snaha, keď je i v   záujme nacionálnom, sociálnom atp. odôvodnená, jednako len musí mať i   svoje hranice.
+     <tei:emph>
+      Umenie pre život, akéhokoľvek by bolo druhu,   potrebuje vedia seba i l’ art pour l’ art, keď pre iné nie, tak   preto
+     </tei:emph>
+     ―
+     <tei:emph>
+      aby sa ako umenie nestratilo samému   sebe.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3. Umenie, ako i iné prejavy našich duševných potencií, musí   byť samozrejme pevne vpravené do jednotného rámca najvyšších ľudských   snáh, príčiniacich sa o výstavbu dokonalého sveta.
+     </tei:emph>
+     Toto je   moje zásadné stanovisko, čím však nemyslím násilníčiť v nijakom   smere. Umenie je zdravé a môže byť ozdobným a osožnými čo sa týka   pokroku v ľudstve, len nech sa vyhýba dvom krajnostiam: vyhľadávaniu   nesmyslu a perverzite. Ostatné sa mu má prepáčiť i vtedy, keď nám   osobne jeho výplod nezodpovie, už či so stránky obsahu, alebo   podania. Všetky kvety nemôžu sa nám páčiť. A iste sa nám nepáčia   rovnako.
+     <tei:emph>
+      Kritérium hodnoty nie je v názore stranníckeho, alebo   vyhraneného kritika, či chváli, či haní
+     </tei:emph>
+     ―
+     <tei:emph>
+      ale v obsahu a   sile dojmu, čo sa vrýva pri uvedomení a pochopení do duší zdravých   ľudí u más.
+     </tei:emph>
+     V umení ― zdá sa mi ― sú dva hlavné faktory ako v   rádiu, vysielačka a prijímač. Umelec vysiela svoje dielo. Môže ono   byť to najdokonalejšie, bez zodpovedného prijímača nemožno jeho   hodnotu zvalorizovať.
+     <tei:emph>
+      Táto valorizácia umeleckého diela deje sa   v duši vhodne vychovaného, chápavého obecenstva, ktoré   prostredníctvom dobrého umenia prijíma dojmy a vlivy, formujúce popri   iných jeho osobnosť i charakter.
+     </tei:emph>
+     V láske k umeniu je vo   všeobecnosti iste veľa farizejstva ― zaujímať sa o umenie je módou a   znakom vzdelanosti.
+     <tei:emph>
+      Ale ako láska ku kvetom, výšivkám, piesňam   atp. zošľachťujúco vplýva na dušu ľudskú, tak pravé umenie   necháva
+     </tei:emph>
+     v
+     <tei:emph>
+      dušiach estetické i mravné hodnoty, čo sa   stanú súčiastkou človeka, národa, pokolenia, ba Ľudstva. Takto   hodnoty, umeleckým výkonom podané, oddelia sa od pominuteľného diela   a zaisťujú sa
+     </tei:emph>
+     ―
+     <tei:emph>
+      aspoň v ľudskom smysle slova
+     </tei:emph>
+     ―
+     <tei:emph>
+      pre večnosť.
+     </tei:emph>
+     A tu som pri tom, čo chcem vyzdvihnúť i pre   teba a tvojich vrstovníkov, môj milý. Plody umenia, sochy kamenné i   bronzy, stavby i maliarske plátna, hudobné skladby i literárne diela   atď. sú len dočasné, lebo hmota, čím sa vyjadrujú, je pominuteľná.   Pri pomyslení na to, uznám, prejme ťa úzkosť. Ale spomeň na diela   antického sveta, z ktorých niektoré objavili a mnohé-premnohé   stratily sa navždy. Uváž na pr., že z klasickej doby gréckej neostalo   nám jednej maľby, hoci vieme o tom, že tam bol i taký maliar, čo   pomýlil svojím hroznom í vtáctvo nebeské. A to je osud všetkej hmoty   na zemi, keď sa veky nepočítajú na prstoch. Umenie ostáva v dojmoch,   vysielaných dojmoch a ukladaných, konzervovaných v psychickom vnútri   človeka i ľudstva.
+     <tei:emph>
+      To je, čo v skutočnosti ostáva z umenia a   keď je ono kladne zošľachťujúcim, dôstojne sa stavia i slobodné do   služby jednotlivca, národa i celého človečenstva, zduchovňuje ho a   prevychováva k vyšším formám, ba k najvyššej forme života.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      4.
+     </tei:emph>
+     Na záver ešte o našom slovenskom umení a   literatúre. Človek môže obdivovať cudzie, svoje ―
+     <tei:emph>
+      keď je reč o   umení
+     </tei:emph>
+     ―
+     <tei:emph>
+      ak i nemá zvelebovať,
+     </tei:emph>
+     má si vždy uctiť,   lebo v tej forme vyjadruje sa jeho rodná potencia a život. My,   Slováci, máme tiež svoj a to ohromný umelecký fond v duši nášho   slovenského ľudu, v piesni, verši, výšivkách, kresbe atď. Len to   treba využiť a keď sa najdú geniovia, môžu prekvapiť svet. I
+     <tei:emph>
+      dosiaľ máme už vážne diela, v ktorých je iste nie to cenné, kde   sa cudzí duch napodobňuje, ale to, čo je v umení naše a len   naše
+     </tei:emph>
+     ―
+     <tei:emph>
+      slovenské. Diela malého národa, pravda, majú svoj   osud
+     </tei:emph>
+     ―
+     <tei:emph>
+      ostávajú v tôni.
+     </tei:emph>
+     Najviac tône na slovenskú   tvorbu, myslím, hádže duch cudzoty našich vlastných ľudí, z ktorých   mnohí pre obdiv cudzieho, nevedia sa postaviť na správne stanovisko ―   hodnotiť svoje, a či ― naše. Nestaň si, prosím, medzi nich!
+     <tei:emph>
+      Alpy sú vyššie, ako Tatry, Himalája majestátnejšia, ako Alpy,   ale tie Tatry sú naše, slovenské a majú svoje kúzlo, čo nenajsť nikde   inde.
+     </tei:emph>
+     S tohto stanoviska oceňuj i umenie svojho malého národa,   ktorý keď i skromne, jednako povedome stáva si do radu   najkultúrnejších národov sveta i v tvorbe umeleckej. Spomeň, čím by   bol Hviezdoslav a čím aj iní slovenskí básnici a umelci, nech sú   Angličanmi, Francúzmi atp.? Čo by bolo z prostonárodného slovenského   umenia, nech to má niektorý veliký, mocný národ?
+     <tei:emph>
+      A keby to hneď   bolo i čo skromnejšie
+     </tei:emph>
+     ―
+     <tei:emph>
+      je výrazom nášho života, našej   duše, je
+     </tei:emph>
+     ―
+     <tei:emph>
+      naše!
+     </tei:emph>
+     Musíme mať kamélie, kaktusy a čo   všetko v svojich oknách? Pekný je i rozmarín, ba azda najvhodnejší do   našich chalúp ― i keď ide ozdobiť ich, i keď príde okvietiť mladého   zaťa, vedúceho si nevestu k oltáru.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Chlieb
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Uvažovali sme o povolaní, čo je prostriedkom vydobyť si kus   chleba, ale nie je ešte chlebom samým. Práve v terajších, hospodársky   kritických časoch, je očividné, ako človek môže mať povolanie a   nemusí mať ešte chleba. Ako a kde sa rodí chlieb? Bez správnej   odpovedi na túto otázku iste možno zablúdiť v labyrinte omylov, čo   nespasia svet a nevyhovejú ani tebe, môj milý. Ak niet chleba pre   jednotlivé vrstvy ľudstva, uvaliť vinu na kapitál môže byť oprávnené,   ale neobjasňuje dosť problém.
+     <tei:emph>
+      Kapitál je účinná značka   hospodárskej hodnoty, či je to kov, či bankovka a bankový obeh výroby   a spotreby, z neho tvorí sa chlieb.
+     </tei:emph>
+     Kapitál je tedy ničomu nie   na vine, ani dobrému, ani zlému, lebo je len vhodným prostriedkom   výmeny v rukách človeka. Dobre je ho prirovnať k umelému hnojivu.   Čilský liadok je na pr. prvotriedne hnojivo, ak ho však nechá   hospodárna sklade a nepotrúsi role, neosoží. Ak ho rozoseje len na   časť hospodárstva, podľa toho ukáže sa i úžitok ― na pohnojenej časti   dobrý, na obídenej nedostatočný.
+     <tei:emph>
+      Tak je to i s kapitálom, čo v   rukách rozumných a rozhľadených ľudí môže byt prameňom blahobytu,   pokoja a šťastia
+     </tei:emph>
+     ― v
+     <tei:emph>
+      rukách nesvedomitých vlastníkov,   ľudí sobeckých nerozhľadených, môže sa stať príčinou biedy pre   milióny, môže vyvolať nepokoje, revolty a skazu
+     </tei:emph>
+     i samého seba.   Jestli kapitál v ústrojnosti svetového hospodárstva dobre funguje,   blížime sa k blahobytu, čo sa vyjadruje konkrétne v hojnosti chleba a   zvýšení životnej úrovne všetkých ― ak zle, dostávame sa do biedy, keď   životná úroveň upadá, zamestnania a chleba je vždy menej, až ho niet.   V poslednom prípade nastáva hlad. Zamyslime sa už teraz spolu ― či   chlieb možno vyrábať pre svet i bez kapitálu? Aké sú zákony výroby a   odbytu, či spotreby a čo všetko závisí od ich normálneho chodu? Či   možno svet opatriť chlebom i bez sociálnych revolúcií a ako?
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Kapitál, ako značka výmeny a hýbna sila   hospodárskeho života, povstal len na vyššom vývojovom stupni ľudského   spoločenstva. Primitívna výmena diala sa bez neho v znamení ― dačo za   dačo. Tento spôsob mal svoj prirodzený nedostatok, že keď potreboval   človek teľa a mal zbytočného koňa, dal koňa za teľa. Nejaké   striktnejšie hodnotenie nebolo možné a náhodilá potreba určovala   patričnej veci cenu, ktorá sa jednostaj kolísala. Obchod na základe   výmeny hospodárskych produktov bez kapitálu ― tak zv. rekompenzačný ―   deje sa i dnes medzi jednotlivými krajinami, lenže je presne   prepočítavaný podľa hodnôt, čo sa i kapitálom dajú vyjadriť. Jeden   štát na pr. vyváža priemyselné výrobky do susedného štátu, tento mu   to nevypláca v kapitálových hodnotách, ale povedzme v ošípaných, vo   zboží, v rozličných surovinách. Diferencia sa vypočíta a ak je aká,   vyrovnáva sa, či už ďalším vymieňaním tovarov a hospodárskych hodnôt   a či kapitálom. I život vo vnútri štátu možno si predstaviť zariadený   na základe výmeny, ešte i keď ide o mzdu za vykonanú prácu. Tak sa   robily a robia pokusy v sovietskom Rusku, kde robotníci nedostávali   hotový groš, ale knižky na životné potreby, ktoré sa delily na   základe poznačenej a vykonanej práce.
+     <tei:emph>
+      Možno teda povedať,   kapitál
+     </tei:emph>
+     ―
+     <tei:emph>
+      ako účinná značka hospodárskej hodnoty
+     </tei:emph>
+     ―
+     <tei:emph>
+      nie je bezpodmienečne potrebný. Možno si predstaviť svet i   bez peňazí, ktoré nahrádzajú prepočítacie knižky a lajstre. Ale sám   uznáš, môj milý, takto gazdovať a vymieňať
+     </tei:emph>
+     ―
+     <tei:emph>
+      predávať a   kupovať je nesmierne obťažné.
+     </tei:emph>
+     Kapitál, ako značka hodnoty a   hýbna sila vkladá sa medzi prácu a jej ovocie, lebo takto sa výmena i   medzi prácou a jej produktom, i výmena medzi jednotlivými druhmi   práce a ich výrobkov veľmi spresní, ako i zjednoduší. Kapitál s tejto   stránky, keď i nemyslíme práve na súhrn hospodárskych cenností   (továrne, role, statky), ale na poskytovanú značku výmeny (zlato,   bankovka, šek atp.), je nesmierne praktický prostriedok hospodárskej   výroby i spotreby. Tieň výmenného kapitálu je v tom, že je nie   rovnomerne podelený. Potom v špekulácii, ktorá kapitál odťahuje,   hromadí v niekoľkých rukách a na niekoľkých miestach. Rozumné je to   nie, ba neraz je neľudské a zverské.
+     <tei:emph>
+      Veď ak je zdravá výroba a   spotreba podmienkou chleba a tým i života a kapitál je hýbadlom tohto   procesu, tak patrí právom života a vôle pracovať
+     </tei:emph>
+     ―
+     <tei:emph>
+      celému ľudstvu, ako vzduch, voda a slnko.
+     </tei:emph>
+     Týmto ešte   nevynášam výrok nad súkromným kapitálom, veď ― ako skutočnosť svedčí   ― zle spravovaný štátny kapitál celkom tak je bezmocný dvíhať   blahobyt verejnosti, ako nedobre riadený kapitál súkromný. Rovnako   pripravuje svetu sedem biednych rokov. Vhodné rozdelenie, tá tak zv.   investičná distribúcia, ako i dôkladné organizovanie práce, výroby i   spotreby ― sú problémom pre kapitál každého druhu. Bez správneho   riešenia tohto nemôže byť štát socialistický celkom tak, ako štát   kapitalistický.
+    </tei:p>
+    <tei:p>
+     2. A tu sme už teraz pri výrobe a spotrebe, čo sú podrobené ― ako   celý hospodársky život sveta ― veľmi prísnym a citlivým zákonom.   Kedysi bolo heslom ― vyrábať čím viac, čím lacnejšie a svetu bude   lepšie. Ručnú prácu zamenily stroje, nastúpila racionalizácia práce a   výsledok? Tovaru a všelijakých hospodárskych produktov sa nahromadí,   keď ich však nemá kto kupovať ― ostávajú na ťarchu producentovi.   Zjaví sa nezamestnanosť na jednej strane, kým na druhej ― ak ochabla   kúpna sila, bieda. Iste sa pozastavíš na tom a spýtaš sa, čo s tým?   Veď tak dostáva sa hospodárstvo sveta do slepej uličky! Áno, bez   zdravého pomeru medzi kapitálom výrobným a spotrebným ― vždy sa   dostane ta. Tento zdravý pomer dá sa však vytvoriť. Keď ja mám   kapitál a k tomu továreň na látky, blízko nej je dedina, ktorá   potrebuje kapitál na zveľadenie svojho hospodárstva a tak i kúpnej   sily, požičiam jej prebytok svojho kapitálu a stane sa mi pre moje   látky odbytišťom.
+     <tei:emph>
+      Kapitál si musí svoje odbytištia nielen   hľadať, ale keď treba i tvoriť. Ľudský nárok na blahobyt s možnosťami   stúpa
+     </tei:emph>
+     ― v
+     <tei:emph>
+      strave, v odeve, v bytových a iných   požiadavkách. Tento nárok ukojiť, spotrebu zaokryť
+     </tei:emph>
+     ―
+     <tei:emph>
+      a   je i dnes dosť práce pre celý svet.
+     </tei:emph>
+     Pravda, kde niet možností   opatriť sa ― nárok klesá. Človek sa uskrovní a v tej skromnosti je   neraz viac nebezpečia pre verejnosť, než v trovení, najmä kým jest z   čoho. Preto je pri dnešnom nesriadenom stave kapitálu nesmysel hnevať   sa na bohatých ľudí, že sú ― ale že veľa trovia. Všetci majú len po   jednom žalúdku a keď trovia, poskytujú pomoc výrobe. Prestaly u dám   dlhé vlasy, prestala výroba falošných vložiek, parochní atp. a   niekoľko fabrík zastalo a ich chudobné robotníctvo stratilo   zamestnanie. Pri posúdení týchto zjavov i keď by si prial rovnako   všetkým ľuďom z výhod zeme, jednako si spomeň, že i najdrahšie šaty   dámy tohto sveta, i potreby na najskvelejšie hostiny ― všetko to dáva   príležitosť sto a sto iným ľuďom vyrobiť si kus chleba pre seba a   svoje rodiny. Ak má kto kapitál, čo obracia a investuje sám, napomáha   beh hospodárskeho života. Ak ho má uložený v banke, táto ― keď ho   chce zúžitkovať ― robí to miesto neho. Pri terajších pomeroch, kým sú   jednotlivé štáty osobitné hospodárske telesá, hodnotou platobnej   jednotky oddelené, škodu robí majiteľ kapitálu patričnému štátu, ak   mu kapitál vyváža. Tomu však zas, kam ho vyvezie ― pravidelne osoží.   Najviac škody narobí verejnému blahu tak zv. thezaurácia kapitálu,   odtiahnutie ho od výroby i spotreby, ako to robia pospolití ľudia,   keď uložia peniaze pod kameň, do penky, alebo do slamníka na posteli.   Z
+     <tei:emph>
+      tohto je jasné, že zákony výroby a spotreby
+     </tei:emph>
+     ―
+     <tei:emph>
+      ak   má byť zdravý hospodársky život krajiny, i celého sveta, musia byť v   rovnováhe.
+     </tei:emph>
+     Ak je spotreba väčšia než výroba, má táto   konjunktúru, budúcnosť, ak je však spotreba menšia, alebo nijaká ―   nastáva prebytok tovarov, nezamestnanosť. Všetky tie tak zv. sociálne   a revolučné heslá, čo sa ozývajú i dnes svetom, majú vzhľadom na   blahobyt všetkých vrství a tried len toľko oprávnenia, koľko vládzu   vykonať za zdravé rozdelenie kapitálu, za upevnenie výrobnej i kúpnej   sily a tým za normalizovanie výroby a spotreby. Len ak majú i   najširšie vrstvy ľudstva komu pracovať a za čo kupovať, je   hospodársky obeh zdravý.
+     <tei:emph>
+      Ináč hospodárska ústrojnosť sveta je   jemnejšia, než je stroj nejmenších dámskych hodiniek, čo nepovolaný   istotne pokazí. Preto je vlastne otázka chleba pre národy a celý   svet, otázkou sama pre seba, ktorej pravidlá a zákony sa nemenia, i   keď sa zmenia štáty, alebo i vnútorné sriadenie ľudského   spoločenstva.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     3. Neurovnanosť kapitálu a tým viaznutie výroby či spotreby ―   vyvoláva v spoločenstve ľudskom prirodzenú nespokojnosť v radoch   tých, čo hynú bez chleba.
+     <tei:emph>
+      Musí to byť sociálna revolta, čo   vykoná spasonosné dielo vyrovnania a tým i deľbu chleba?   Nemyslím!
+     </tei:emph>
+     Za feudalizmu trpela časť ľudstva, za   kapitalistického liberalizmu trpí tiež a za komunistického   hospodárenia podobne ― jedni sa opatria, či sú bližšie kapitálu a   moci, ostatní hľadia i pri jasavých heslách do očú biede, ktorá je   vždy a všade rovnaká. Potom revolučné otrasy sú vždy, ako oheň, ktorý   najprv všetko spáli, keď sa chce zmeniť na životodarné slnko pre šíre   nivy a ľudnaté mestá, ženúc ich do novej, činorodej práce zachrániť   život a tým i seba. Ináč ostáva pravdou: z ohňa sa nikto nenajedol.
+     <tei:emph>
+      Kapitál je pre pracujúcu triedu jednako kapitálom, či je on v   súkromných rukách a či v štátnych, svoje vlastnosti zachová, i zlé a   koristne, vlastnosti. Štátny, či súkromný kapitál?
+     </tei:emph>
+     ―
+     <tei:emph>
+      to   je ešte vždy problém ľudskej povahy.
+     </tei:emph>
+     U nás máme príležitosť   skúmať oba druhy ― vidíme, ako sa dokazujú, rentujú i vzhľadom na   produkciu, i vzhľadom na pracujúcich a ich opatrenie. Na oko sa zdá,   pomer štátneho kapitálu k robotníctvu musí byť lepší, ako súkromného.
+     <tei:emph>
+      V skutočnosti je to preň jedno, či ho vykorisťuje Nátan   Silberstein ako súkromný kapitalista a či Nátan Silberstein, ako   predstavený trustu v socialistickom štáte a spoločenstve.
+     </tei:emph>
+     Rozdiel je len ten, že kým proti Nátanovi Silbersteinovi, ako   súkromnému kapitalistovi ― môže sa robotníctvo brániť štrajkom a   zatiahnuť do svojho boja i štát na pomoc, zatiaľ Nátan Silberstein,   ako predstaviteľ trustu v socialistickom sriadení ― je súčasne   predstaviteľom i samej štátnej moci. Revolúcia tedy, keď ide   zabezpečiť spravodlivý kus chleba najširším vrstvám národov ― nie je   ten hlavný, a ešte menej ― istý spôsob.
+     <tei:emph>
+      Hospodárska otázka   vývojom produkcie a ňou živených vrstiev prerastá hranice štátov i   rámec osobnej, či kolektívnej výroby a stáva sa otázkou svetovou,   ktorú možno rozriešil len vytvorením jednotnej hospodárskej   oblasti výrobnej i spotrebnej na zemi.
+     </tei:emph>
+     A myslím, touto cestou   sa i pôjde pri revolúciách, či bez nich. Na svete je dosť kapitálu a   vedúce hlavy sveta musia raz uznať, že sa ten musí tak rozdeliť ― už   či v podobe odpustenia dlžôb, či nových sanačných pôžičiek ― aby i   ruinované štáty mohly prísť k hospodárskej výrobnej, i konzumnej   sile.
+     <tei:emph>
+      Pravda, tým musí prestať hospodársky liberalizmus štátov,   čo dnes chcú byť sebestačnými, zabúdajúc na to, že hospodárska   budúcnosť sveta založená je od stáročí na vzájomnom hospodárskom   spotrebnom i výrobnom súročenstve.
+     </tei:emph>
+     Zásady tieto môžu sa   uplatniť i bez revolúcií ― ale vtedy vystaviť i len jednu fabriku v   ktoromkoľvek štáte nebude slobodno, ako dnes, ale bude podriadené   rozhodnutiu hospodárskej rady pri Spoločnosti národov. Táto jednotná   hospodárska rada povolí výrobu len vtedy, keď je aj odbyt zaistený.   Svetové regulovaná výroba a spotreba zaistí pracujúcim triedam   živobytie, chlieb. Poukazujem ti na to, môj milý, keď nechcem ― aby   si posudzoval otázku chleba a existencie povrchne. Tiež aby si vedel,   ako a kde sa rodí chlieb, z ktorého žije i náš národ a máš žiť, s   tvojimi vrstovníkmi, aj ty.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Hlas krvi
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Krv má svoj šum a svoju rež, ktorá spája tisíce sŕdc,   vyjadrujúcich sa jedným jazykom, spája ich v ohromnú rodinu.
+     <tei:emph>
+      Tá   rodina je národ!
+     </tei:emph>
+     Kedysi za bývalého Uhorska chodili sme,   slovenskí študenti, po terajšej Bratislave. Keď sme vo víre cudzích   rečí začuli neznámych ľudí slovensky hovoriť, zablyslo nám v očiach,   šli sme za nimi, snažili sme sa vyzvedieť ― kto sú, čo sú. Ak bolo   možno, nadviazali sme s nimi styky a tešili sme sa, že nás je zas   niečo viac. Čo nás k tomu pohlo? Hlas krvi! Tento hlas ozýva sa najmä   v cudzine. V roku 1912 kráčali sme londýnskymi ulicami, vracajúc sa   so štúdia v Škótsku, môj priateľ a ja. Hovorili sme slovensky. Sotva   sme prišli do svojho hospicu, oznámili mi, že ma čaká v prijímacej   izbe akýsi pán. Kto to len môže byť? ― myslím si a ponáhľam. ― Tedy   si to ozaj ty? ― víta ma čakajúci a ja s podivom poznávam v ňom   rodného priateľa, študujúceho v Londýne. ― Počul som slovenský hovor   kdesi na Picadilly, ― vysvetľuje mi. ― Nechcel som vlastným ušiam   veriť, ani očiam. Kdeže by aj ― medzi osem milionami obyvateľstva?!   Šiel som za vami až sem do hospicu a spýtal som sa, či tu bývaš...   Prirodzene, mali sme radosti!
+     <tei:emph>
+      Ale už vtedy mi napadlo v tom   ohromnom vlnení ľudstva, že krv hovorí, pozná sa a sdružuje jednej   matky deti. Tento hovor je vlastne pestúnom intímneho rodinného   cítenia a národ nie je nie iného, než príbuzenstvo, krvné   príbuzenstvo v širšom smysle
+     </tei:emph>
+     ―
+     <tei:emph>
+      rodina.
+     </tei:emph>
+     V našej   dobe však hovor krvi akosi zovšednieva. Ozývajú sa hlásatelia náuk,   ktorí hlas ten snažia sa prekričať a ohlušiť svojimi zásadami nového   spoločenstva. Rodina je im už prežitou ustanovizňou, jej miesto   zaujíma trieda. Tak sa im stáva prežitým i cit širšieho príbuzenstva   a jeho predmet ― národ, miesto čoho má zaujať celé človečenstvo. Ty   sám, môj milý, cítiš nárazy týchto náuk na svojej mladej duši, tajne,   či zjavne ― veď prúdy zmaru nehlivejú. Čuješ i to neraz, ako všetko   padá, čo nemá životnej oprávnenosti. Akú oprávnenosť má tedy cit   národný? Mohli by sme obstáť v existenčnej borbe bez neho? Čo je jeho   vonkajšou formou u nás a prečo?
+    </tei:p>
+    <tei:p>
+     1. Národný cit má svoj pôvod v cite rodinnom. Jeho obsahom je   povedomie spolupatričnosti pre vzájomnú výpomoc v existenčnom boji.   Pri terajšej složitosti našich životných pomerov ― možno ― nevidieť   to dosť jasne. Treba si však zájsť do dávnejšej minulosti, keď sa z   rodín tvoril kmeň, čo bol ďalšou vývojovou etapou k národu.   Primitívny človek nielen že sa vyžíval, ale sa i bránil proti divej   zveri, ako i ľudským nepriateľom pomocou svojej rodiny, najmä jej   mužských príslušníkov. Táto úloha prešla neskôr na súhrn rodín ― na   kmeň a ešte neskoršie na súhrn kmeňov ― na národ. Korene citu   spolupatričnosti dobre sa dajú sledovať i dnes. Probuj mať na príklad   niečo s Cigánom. Ak je nablízku viac Cigánov ― máš pravdu, či nemáš ―   všetci sa pustia do teba za svojho príslušníka.
+     <tei:emph>
+      Keď sa   primitívny národ pohnul z nevhodného kraja hľadať si novú vlasť, cit   spolupatričnosti na obranu i na výboj bol tým citom, čo ich spájal a   vytýčil im, všetkým rodinám a kmeňom, jednotný
+     </tei:emph>
+     ―
+     <tei:emph>
+      národný   ciel. Vonkajšou formou tohto masového sväzku a súručenstva bol hlas   krvi, prejavený v jednotnom charaktere a v reči. Tak sa prebudil   národný cit a povstal národ.
+     </tei:emph>
+     O oprávnenosti a praktickej   potrebe tohto citu tedy niet pochyby. Uplatňoval sa tým   najprirodzenejším spôsobom v znamení hesla viribus unitis ― spojenými   silami, hesla ― ktoré prv, než sa stalo okrídleným slovom, tam bolo   hlboko vpísané do krvi a kosti. Tak povstaly národy, malé, veľké i   najväčšie, zaujaly si a vybudovaly svoje sídla, založili vlasť a   rozvinuly svoju národnú kultúru, v ktorej prejavujú sa nielen   schopnosti patričného celku, ale vždy i jeho charakter.
+     <tei:emph>
+      Národný   cit je tedy vlastne sdružujúcou a impulzívnou silou, ktorá si našla   svoje najvhodnejšie formy.
+     </tei:emph>
+     Vytvorila klasické národy, grécky i   rímsky, uspôsobila ich založiť svoje štáty a rozviť všetky svoje   mravné i duchovné hodnoty. Mohutná sila národného citu povzniesla   Spartu i Athény, i slávny Rím, s jeho na ten čas ohromnou ríšou. Keď   raz ochabla a vyžila sa, rímsky národ podľahol barbarom. Tento cit   bol tmelom a hýbadlom Frankov, Germánov, i Slovanov, postupujúcich na   západ. Je pravda, že v samých týchto, kedysi iste jednotných masách,   nastal aj istý proces drobenia. Stalo sa to vlivom vonkajších   životných pomerov a navtedy neprekonateľných diaľok. Ale i pri tom   procese národný cit uplatňoval sa podľa svojho označeného charakteru   a za cieľom ― zabezpečiť rečové jednotnej a príbuzenstvom, tedy   hlasom krvi spiatej mase budúcnosť v ťažkom existenčnom boji.
+     <tei:emph>
+      Týmto citom ovládané obstály a stoja i terajšie, moderné   národy, i keď rozvlažované a rozkladané všelijakými náukami a smermi   negácie tohto. Čím prv sa ktorý národ prebudil na povedomie svojho   národného bytia i životného cieľa, tým istejšie i zosilnel a dokázal   veľké veci. Náš slovenský národ zbudil sa k tomuto povedomiu pomerne   neskoro, ale bez citu kmeňovej a národnej spolupatričnosti jakživ   nevyformuje svoju národnú osobnosť a stane sa i v svojich masách   doplnkom susedných povedomých národov. Prakticky to znamená: prehrať   životný boj a stať sa sluhom silných a panujúcich.
+     </tei:emph>
+     Národný cit   však ozval sa i v našich predkoch, najlepší z rodu stali sa jeho   apoštolmi, stali sme sa i my, deti terajšieho pokolenia. Tak sme v   príhodnej chvíli zlomili rámec, v ktorom sa nám nedalo voľne žiť a   dostali sme sa na úslnie nových možností v duchu slov: pre iných sme   mreli ― dnes žiť, pre seba žiť chceme!
+    </tei:p>
+    <tei:p>
+     2. Národný cit, povedomie spolupatričnosti i vonkajšia forma tohto   ― národ ― majú svoju oprávnenosť. Keď sa to však dnes často berie v   pochybnosť, postavme si otázku takto: mohli by sme, my, Slováci,   existovať i bez národného povedomia? Na to by sme si mohli krátko   odpovedať otázkou: mohol by topoľ existovať i bez koreňov? Ten topoľ   svoje korene nemusí vidieť, nemusí ich ani cítiť, ale živné látky   jednako len tými ssaje zo zeme. A nech mu ich tak odtne niekto,   pocíti to nielen na výžive, ale pri najtichšom vetre vyvráti sa a   padne na hromadu. Nuž mohli by sme, my, Slováci existovať bez   národného povedomia?
+     <tei:emph>
+      Ak sa len trochu obzreme vôkol seba,   vidíme vysoko šľahať oheň národného povedomia u inakších národov, ako   sme my.
+     </tei:emph>
+     Angličania, Nemci, Taliani ― keď iných ani nespomniem   ― majú svoj nacionalizmus v krvi a kosti. Prežili ho, preto nemusia   mať jeho heslá jednostaj na ústach. Ale probuj sa dotknúť ich   národných záujmov, či ti nezaznie z ich konzervatívnych i z tých   najpokrokovejších kruhov rozhodné: Hands ― off!
+     <tei:emph>
+      Najnázornejšie   vidieť na Nemcoch a bolo vidieť za vojny, že môžu byť akéhokoľvek   smeru i socialisti a komunisti, ale v prvom rade sú a ostanú Nemcami!   Ešte len i ruský komunizmus, čo sa snaží rozomleť akýkoľvek   separatizmus, musí mať ohľad na prasilu kolektívnych etnografických   celkov
+     </tei:emph>
+     ―
+     <tei:emph>
+      na povedomie spolupatričnosti v rámci   jednotlivých národov.
+     </tei:emph>
+     Nuž, mohli by sme, my, Slováci, národ   maličký, medzi týmito tvrdými mlynskými kolesami obstáť a vôbec žiť i   bez vyhraneného národného povedomia? Nikdy! Milióny ľudí, jednotných   rečou i charakterom, somkýnajú sa k sebe a za svojím národným, alebo   rasovým ideálom ― zo životných, tedy veľmi reálnych príčin. Pri tomto   tvrdení ― možno ― príde ti, i tvojím rovesníkom na myseľ, ako sa   jednotlivec, Slovák, odtrhnutý i od svojho národa a vrhnutý do šíreho   sveta báječné vedel uplatniť v lone cudzieho národa. To sa stáva,   lebo niet pravidla bez výnimky. Ale šli by ste vy, mladí Slováci,   počtom aspoň niekoľko tisíc uplatniť sa do Francie, Talianska,   Nemecka, a hoci do sovietskeho Ruska, či by sa vás nespýtali, kto ste   a čo tu chcete?
+     <tei:emph>
+      A keby sa vás i nespýtali, za krátky čas museli   by ste okúsiť horký chlieb cudzinca, ktorý keď sa i nevyženie
+     </tei:emph>
+     ―
+     <tei:emph>
+      ale sa na ňom pri všetkých zásadách o humanite a ľudských   právach, ba i o svetoobčianstve, orie bezohľadne, či obstojí, alebo   zahynie. Rozriedovať národné povedomie najmä v malom a nevyspelom   etnografickom celku znamená oslabovať ho v životnej sile, pripraviť   mu rozklad a pád, jeho masám duševné i fyzické utrpenie.
+     </tei:emph>
+     A u   nás sa toto rozrieďovanie, nivočenie národného povedomia deje, hoci   sme my ešte neprežili etapu slovenského nacionalizmu. Preto sme i   premúdrení a pritom rozviazaní, ako snop. Miesto charakternej,   povedomej, je tu dnes ešte len beztvárna masa, z ktorej si zakúpiš   ľudí a postavíš proti ostatným Slovákom, áno i proti samému národu   ľudí ― koľko chceš. Povedomie spolupatričnosti je u nás ešte náramne   slabé. Sme ako kurčatá, ktorým gazdina hodí niekoľko zŕn a môže si   bezpečne vybrať z nich, ktoré chce na zárez. To je znak, že národné   povedomie ― a povedomie spolupatričnosti ― neprešlo nám ešte do krvi.
+     <tei:emph>
+      A kto nás od toho odvádza, či to robí socializmom, či náukami o   svetoobčianstve a čímkoľvek
+     </tei:emph>
+     ―
+     <tei:emph>
+      má iste záujem na tom, aby   sme my svoj nacionalizmus slovenský nikdy neprežili a vnútornej   rezistenčnej, tvorivej, i dobyvačnej sily nenadobudli si   jakživ.
+     </tei:emph>
+     Ak je to premúdrený náš človek, ktorý nás má na to, je   on duchom zmaru, akých má dosť každý slabý etnografický celok. Uvažuj   so svojimi druhmi, aké stanovisko zaujať voči nim. Podľa mojej   skromnej mienky my sa bez určitého slovenského národného citu a   povedomia rozpadneme, život nás zomele a nijaké slobody nevytrhnú nás   a naše masy i sociálnej záhube. Preto volám rozhodne týmto rozkladným   duchom do tvárí: Hands-off!
+    </tei:p>
+    <tei:p>
+     3. Vonkajšia forma slovenského národného povedomia je slovenský   národ. Založiť naširšie tento pochop v smysle slovanskej   spolupatričnosti dnes ešte nemožno pre toto: a) my sme si svoj   nacionalizmus v jeho pôvodnej a naj oprávnenejšej forme ešte   neprežili, b) umelé tvorenie vyšších národných celkov predpokladá   rovnakú hospodársku, kultúrnu i politickú vyspelosť, c) doterajšie   experimenty i v Juhoslávii, i u nás, vyvolávajú len zbytočné   odcudzenie najbližších, kým bez nich zákony prirodzeného spolužitia   vykonaly by viac. Spájať i len kmene nerovných hospodárskych a   kultúrnych potencií pod tlakom politiky bez zvláštnej ochrany   slabšieho ― to vedie k bolestnému využitiu tohoto a k asimilácii.
+     <tei:emph>
+      Preto my, Slováci, keď naslúchame na hlas krvi, počujeme i jej   žaloby a nemôžeme vrhnúť svoj národ ako hlinu pre namýšľavých   hrnčiarov, keď, tu ide o ľudské srdcia, majúce právo na život. Chceme   sa vyžiť predne ako slovenský národ, silnieť v povedomí slovenskej   spolupatričnosti, budovať si svoj slovensko-národný charakter,   kultivovať a brániť si svoju slovenčinu, ktorá je a ostane zjavným   symbolom existenčných záujmov našej fajty a našich životných práv.   Forma slovenského národa je u nás oprávnená tradíciou, rečou,   odlišným charakterom a je pre nás formou tou najpravejšou i   najprimeranejšou. Čokoľvek stihne nás v neistej budúcnosti, ak   povedomie slovenskej národnej spolupatričnosti podarí sa utvrdiť,   vždy sa budeme vedieť v nebezpečí svinúť
+     </tei:emph>
+     ―
+     <tei:emph>
+      ako jež s   pichliačmi na všetky strany. Nejde však len o biologický   proces
+     </tei:emph>
+     ―
+     <tei:emph>
+      i o sociálny. Národ je
+     </tei:emph>
+     ―
+     <tei:emph>
+      ako   prízvukujem
+     </tei:emph>
+     ―
+     <tei:emph>
+      pre mňa i pochop vysoko etický. Národ je   rodina, ktorá má povinnosť postarať sa o žitie a bytie všetkých   svojich údov. Táto starosť začína sa predne u tých, ktorí hynú, tedy   u sociálne najslabších.
+     </tei:emph>
+     Z tohto dôsledne nasleduje, že náš
+     <tei:emph>
+      národný duch,
+     </tei:emph>
+     nacionalizmus slovenský, nie je púhym   hejslováčením, ale má svoj sociálny obsah, čo sa vyrovná akýmkoľvek   moderným izmom. Ruskinovo sociálne heslo: i najposlednejšiemu toľko,   čo tebe ― je heslom jeho. Výhodou nacionalizmu proti socializmu a   komunizmu je najmä to, že je konštruktívne produktívnejší a bráni   teritórium svojho národa pred vykoristením, aby mal svojim čo   zabezpečiť i rozdeliť. K všetkému tomu pobáda nás tichý šumot našej   rodnej krvi. Naslúchaš mu niekdy, môj milý? Započúvaj sa a pochop, čo   ti vraví! A ak máš vyššie ambície a vábi ťa šíry svet so svojím   svetoobčianstvom, vedz: cez rodinu je cesta k národu, cez národ k   celému ľudstvu, ktoré nájde svoj mier i blahobyt, až ho najdú tie   složky, z ktorých pozostáva. A jednou takouto složkou celého ľudstva   je i tvoj slovenský národ!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Reťaz všetkých rúk
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Ukovať reťaz všetkých rúk, to je iste najvyšší ideál našej ľudskej   sriadenosti.
+     <tei:emph>
+      Túto reťaz predstaviť si, ako ktorúkoľvek z   terajších internationál, bolo by mýlne.
+     </tei:emph>
+     Tieto organizácie sú   predovšetkým triedne, tedy len čiastočné, hoci prechodia slobodne cez   nacionálne hranice a prevažne ich i negujú.
+     <tei:emph>
+      Ich cieľ je   sociálno politický, ale triedny. Zabezpečiť blahobyt a mier celému   ľudstvu
+     </tei:emph>
+     ―
+     <tei:emph>
+      zapadá v hmlistej budúcnosti.
+     </tei:emph>
+     Diktatúra   zemianstva za feudalizmu podelila ľudstvo na panujúci stav a na   poddaných. Liberalizmus meštiactva, vyjadrený v súkromnom vlastníctve   a kapitalizme, rozdelil spoločenstvo na majiteľov a proletárov.   Internationála, uskutočňovaná diktatúrou proletariátu, delí   občianstvo obrátene, ale v podstate podobne, na výsadných komunistov   a bezprávnych buržujov, recte ― chudákov. Na tomto fakte nemení   ničoho to tvrdenie, že je to len dočasné, kým sa premiesi mentalita a   nadobudne sa kolektívnou prácou hospodárskych hodnôt, čo postačia   hojne pre všetkých. To isté môže sľubovať i kapitalistický   liberalizmus, ktorý v normálnom čase, ako skúsenosť dokázala a   dokazuje, zabezpečí svojím rozkvetom a zabezpečuje i dnes v   jednotlivých štátoch i samému bezmajetnému pracovnému proletariátu ―   vyššiu životnú úroveň. Prosím, srovnať túto životnú úroveň a vôbec   nároky amerického, anglického, francúzskeho, nemeckého, a hoci len   zamoravského robotníka s naším slovenským!
+     <tei:emph>
+      Príčina rozdielu nie   je v nejakej ubitosti nášho robotníctva, ale predne
+     </tei:emph>
+     ― v
+     <tei:emph>
+      rozdiele kapitálovej sily patričných krajín voči krajine   našej.
+     </tei:emph>
+     Chudobný roľník, keď všetko dá svojim deťom, nebude im   môcť zabezpečiť blahobyt, ako vidieť v dome bohatého fabrikanta. Tak   je to i s krajinami a štátmi. Slovom ― k reťazi všetkých rúk a   dokladám sŕdc ― majú ešte ďaleko aj samé internacionály. Uvažujme ―   pri akých podmienkach mohol by sa sen o svetoobčianstve realizovať?   Aké následky malo by realizovanie toho dnes? Čoho sa nám prichodí   držať, ak chceme žiť?
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Podmienky univerzálnej internacionály ľudstva,   myslím, sú tieto: aspoň približne rovnaká hospodárska a kultúrna   vyspelosť národov a aspoň približne rovnaká vyspelosť charakteru,   húževnatosť ich pracujúcich tried. Myšlienku a ― uznám ― vábivú   myšlienku o odstránení tých tak zv. klietok národných i štátnych   vnucuje nám, odhliadnuc od krehkostí a vypočítavých ambícií ľudských   ― súcit s hynúcimi a nádej v lepšie opatrenie celého ľudstva. Byť   členom jednej rodiny, vyžívať sa v rámci tejto ― môže byť zaujímavé.   Rozhodne je zaujímavejšie vyžívať sa ako občan v rámci starostí a   životných snáh jedného národa. Ale i nad to musí byť zaujímavejšie   dvíhať hodnotu človeka, svetoobčana, vyžívajúceho sa a splynuvšieho s   najvyššími cieľami celého ľudstva.
+     <tei:emph>
+      Odstrániť všetok   separatizmus, národný, rasový, štátny, spraviť, všetko   spoločným
+     </tei:emph>
+     ―
+     <tei:emph>
+      majetok, povinnosť práce i účasť v   radostiach života
+     </tei:emph>
+     ―
+     <tei:emph>
+      to znamená vytvoriť univerzálny typ   nového človeka a sväz národov priblížiť k predstave o kráľovstve   božom na zemi.
+     </tei:emph>
+     Ale čo bez tých vyššie označených podmienok?   Neostane to len utópiou a násilné zasahovanie do vývoja svetových   pomerov nezvrhne sa v púhe mordovisko s vrodenou povahou človeka a s   ukladaním celých ― nie stavov ― ale národov sveta na Prokrustovu   posteľ, kde sa nemilosrdne naťahujú údy a odtína sa, čo vyčnieva z   nich? Ignorovať, to je nerozum, oduševňovať sa za to, ako sa robí z   dôvodov, že veľké dielo hodné je veľkých obetí ― je, najmä keď ide o   iných ― odporná ľudská nemoc:
+     <tei:emph>
+      sadizmus.
+     </tei:emph>
+     Človek má právo   obetovať iba seba. Sľubovaná náhrada za utrpenie miliónov pre   komunizmus je slabou kópiou práve komunizmom dravo zavrhovanej odmeny   veriacich za časné utrpenie po smrti ― v kráľovstve božom. Ľudia nie   sú rovnakí ani schopnosťou, ani charakterom. Je v nich poznať celý   zverínec, ovce i vlkov, hadov i medveďov a tygrov, ako i kŕdle oviec   a gagotavých husí. A nie je inak ani s národami.
+     <tei:emph>
+      Odstrániť už   dnes revolučne všetky rámce, v nich sa jednotlivé národy   vyvinujú
+     </tei:emph>
+     ―
+     <tei:emph>
+      to je vydať ich na milosť a nemilosť   silnejším a vyspelejším fajtám.
+     </tei:emph>
+     Kde je potom za konkurencie,   čo má svoje večné zákony, kde ostane ― nie láska, to je viac len   slovo ― ale sústrasť s tým sociálne a aj inak slabším, keď je práve   odstránením hraníc a rozdielov vydaný silnejšiemu na pospas?
+     <tei:emph>
+      Lebo všetko sa môže zuniformovať, ale vnútro človeka, jeho   psychické vlastnosti
+     </tei:emph>
+     ―
+     <tei:emph>
+      tie ostanú i za falanstru a toho   najprísnejšieho diktátu.
+     </tei:emph>
+     A osobnosť človeka je vlastne   predobrazom i osobnosti národa. A tu sú nedostatky, i nebezpečie   všetkých snáh, ktoré by nedbalý strmhlav do náručia myšlienky o   univerzálnej internationále ani nie dnes, ale hneď. Predstava, čím   ideálnejšia, tým je ďalej od skutočnosti. Tu hľa je ľudská povaha ―   vraj prevychová sa z egocentrickej na kolektívnu. Nuž, v Rusku to   probujú a ako z kompromisov, vynútených pre vlastnícke právo, vidieť,   i tam dvíha hlavu proti všetkému nátlaku pravda, ktorú už Rimania   vystihli v slovách: naturam expellas furca, tamen usque recurret, t.   j. povahu vyženieš palicou a zas sa ti vráti! A čo s pomerom   národných celkov, pripravených nerovno pre normálny existenčný boj?   To je veľmi jasný problém hlavátok a drobných rýb, žijúcich voľne v   spoločnom rybníku.
+     <tei:emph>
+      Bez označených podmienok dojsť k   univerzálnemu štátu len hrozným okypťovaním, nemilosrdným obetovaním   slabších
+     </tei:emph>
+     ―
+     <tei:emph>
+      ak totiž vôbec dojsť. Preto neostáva, ako   spriateliť sa miesto revolúcie s evolúciou, ktorá keď raz pripraví   podmienky, že sa môže ukuť reťaz všetkých rúk, tak sa i   ukuje.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      2.
+     </tei:emph>
+     Aké následky malo by realizovanie veľkého sna   dnes, to bližšie vidieť na ohromnom experimente komunizmu v Rusku.   Priznám sa ti, môj milý, ja som zo srdca prial tomuto experimentu ―   dokázať svetu väčšie a lepšie možnosti života. Ozaj nemôžem za to,   keď v pätnástom roku sovietskeho nového poriadku, nového mravu,   nových náhľadov na svet i na život, nových pracovných i distribučných   metód ― uteká sedliactvo pred ruským blahobytom a rudoarmejci   strieľajú na úbožiakov, ako na zver, hoc sú to i deti a ženy ― na   Dniestri a vôbec pozdĺž hraníc. Komu to nepostačí, nech sa informuje   u odchádzajúcich nemeckých, predtým dobre v dolároch platených   inženierov a dozvie sa o bezhlavej vivisekcii na vyše   stošesťdesiatmilionovej mase ľudstva. Rusko je dnes ríšou ohromných   barnumských hesiel a celkom takých sklamaní, hoci tie milióny   ľudstva, poháňané nútenou prácou, jednako len tvoria a zoštátnený   kapitál má nesmierne možnosti uplatniť sa a budovať nový hospodársky   a sociálny život. Prečo je to všetko? Azda je Rusko, zahrňujúce celú   šestinu zeme, nevhodné na tento experiment? Nie, Rusko je ― naopak ―   tým najvhodnejším miestom, vyskúšať zásady komunizmu. Kultúra Ruska,   živiaca tie milióny občianstva, je i dnes t. zv. prízemná, ― veď   ohromná časť obyvateľstva žije priamo zo zeme a industrializácia je i   dnes proti ohromným roľníckym masám len kvapka do mora.
+     <tei:emph>
+      Chyba   je
+     </tei:emph>
+     v
+     <tei:emph>
+      systéme samom, ktorý sa stavia do boja s vrodenými   vlastnosťami ľudskej povahy. To je vlastne boj všetkých proti   všetkým, ba i proti sebe, nevynímajúc z toho ani tých najvedúcejších   činiteľov.
+     </tei:emph>
+     Školským príkladom ― čo z toho ― je iste Cabetov   experiment s jeho 300 Francúzmi v polovici XIX. storočia. Títo   presvedčení komunisti, opatrení odborníkmi, zemou i strojami,   založili v Amerike komúnu, ktorá sa v krátkom čase rozpadla. Je veľmi   neprirodzené čakať, že sa uskutoční vo veľkom, čo pri najvýhodnejších   podmienkach neuskutočnilo sa v malom. Tatranské slnné úbočia neurodia   hrozna a boj so základnými, ináč konštruktívnymi sklonmi ľudskej   povahy ― je už prehratý vopred.
+     <tei:emph>
+      Druhá chyba je vo vodcoch,   ktorí
+     </tei:emph>
+     ―
+     <tei:emph>
+      počnúc Leninom samým
+     </tei:emph>
+     ―
+     <tei:emph>
+      nemali   dostatočného rozhľadu a negáciou duševnej stránky človeka, postavili   sa na stanovisko krajného materializmu.
+     </tei:emph>
+     Títo ľudia,   filozoficky a hlavne socialisticky dobre vzdelaní, s evanjeliumom   Marxa v ruke zabudli na to, že rozumový svet tvorí len polovicu   ľudského vzdelania a citový svet, s idealizmom a náboženstvom je   vlastne tvorcom charakteru, potrebného najmä tam, kde sa chce prejsť   s egocentrizmu v smýšľaní i pri práci na kolektívny altruizmus. Takto   systém, rozpoltený sám v sebe, rozpoltený i v ľudskom materiále, pri   všetkej vypočítavosti a bezohľadnosti svojich veriacich, nemá výhľadu   na úspech a jeho kompromisné prispôsobenie, alebo zrovna pád ― je len   otázkou času. A keď je takto v Rusku pri jeho prízemnej existenčnej   kultúre, ako by bolo v Nemecku, Francii, Anglicku a hoci i u nás? Tu   je kultúra ľudských existencií založená do vysokých poschodí. Na   roľníctve a priemysle veží sa
+     <tei:emph>
+      x
+     </tei:emph>
+     životných možností ―   odvetvie živnosti žije z druhého odvetvia skoro do nekonečna.
+     <tei:emph>
+      Čo by tu znamenal prechod so súkromného vlastníctva na spoločné   a so súkromnej práce na kolektívnu? Nedostatok, akého svet ešte   nezažil a krach tej celej t. zv. poschodovej existenčnej kultúry, v   jej rumoch našlo by v Európe svoj hrob hladom do päťdesiat miliónov   ľudí.
+     </tei:emph>
+     A nemyslím tu obete občianskej vojny a revolučného   zdivočenia ― nie, len tých, čo by zahynuli, nemajúc čo jesť, do čoho   sa obliecť atp. V štátoch vysokozindustrializovaných bol by prechod   so súkromného podnikania na kolektívne o mnoho ťažší, než v Rusku,   ktoré nech je podobne vysokozindustrializované, európskemu   proletariátu nevypomôže, lebo mu je prirodzeným konkurentom.
+     <tei:emph>
+      Jediný spôsob prechodu bez katastrofálnych otrasov a škôd našla   by Európa v bohatom komunistickom Rusku, oplývajúcom prebytkami   hospodárskych hodnôt, potrebných k životu. Toto Rusko muselo by hrať   zástoj bohatého strýca a veriteľa, aby prestavba bola možná prv, než   ľudia vymrú hladom. Kde je však produktívna výroba ruského komunizmu   od toho! Komu by z európskych štátov mohol pomôcť, keď sa i pri   ohromujúcich heslách zmieta v nesnádzach i sám a nevie opatriť   stravou a odevom, bytom a životnými náležitosťami ani milióny, na   nich robí pokus, ktorý keď sa nepodarí bude iste najhroznejším a   najnesvedomitejším zločinom histórie človečenstva?
+     </tei:emph>
+     Keby ten   pokus mal kladné výsledky v pozdvihnutí všeobecnej životnej úrovne,   svet by i bez nákladnej zahraničnej propagandy ― kapituloval pred   ním. Ako však kapitulovať pred biedou, lístkami na pokrm i odev,   nútenou prácou más a krvavým terorom G. P. U.? Preto je potrebné, môj   milý, aby si i ty i tvoji vrstovníci hľadeli na tento experiment,   bolestný experiment, veľmi kriticky. Nemožno jednou rukou zabíjať   mrav a druhou vykúzliť výsledky najdokonalejšieho a najvyššieho   mravu, ako nemožno porozbíjať vajcia a s triezvou, normálnou mysľou   sľubovať kŕdle vyliahnutých kurčiat. Metódami nenávisti svet sa   zrumí, i s jeho civilizáciou, ale neprestaví.
+     <tei:emph>
+      Materializmus   môže
+     </tei:emph>
+     v ľ
+     <tei:emph>
+      udských mysliach detronizovať Bolia, ale Lenin   na tomto tróne dokáže pre vývoj ľudstva iste menej. Ak nevládal a   nevládze rozriešiť problémy života dokonale homo sapiens, alebo dieťa   božie
+     </tei:emph>
+     ―
+     <tei:emph>
+      tým menej rozrieši ich bezchvostá opica, čo je   prostým nástrojom systému, ktorým hýbu podobné tvory, popierajúce   existenciu svedomia.
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     Čoho sa máme držať v ideovom zmätku dneška, my,   Slováci, keď chceme ― žiť? Náš problém je problém malého, charakterom   nevyvretého a neustáleného národa, ktorý ― ako nezatvrdlá láva ―   rozlieva sa na pravo ― na ľavo. Slabé a malé etnografické organizmy,   ich societa, inteligencia a najmä mládež ― majú svoje nemoce. Bájka o   závodení vtákov ― orla a králika ― často sa tu prejavuje.
+     <tei:emph>
+      Imitačná ochota robí z intelektuálov veľmi ľahko apoštolov,   životom najčastejšie neoverenej cudzoty, náuk výstredných, čo   organizmus silných národných celkov stroví, ale na čo organizmus   malého, nevyspelého národa, i s jeho societou môže odkapať.
+     </tei:emph>
+     Tak je i so svetoobčianstvom a pokusom komunizmu. Čo by sme si mohli   sľubovať od toho? Jeho priekopníkmi nemôžeme byť, i keby mal v Rusku   kladné výsledky, lebo by nás, Slovákov i Čechov kapitalistický západ   vydal na pospas našim nepriateľom, čo by si nás proste rozdelili.
+     <tei:emph>
+      Ale i na pád víťazstva komunizmu my by sme boli
+     </tei:emph>
+     v
+     <tei:emph>
+      uvoľnených vodách tie malé ryby, čo by žraloky strovily.
+     </tei:emph>
+     Evanjelium o beznacionálnom svetoobčianstve je omamným plynom, veľmi   vhodným vrhnúť v korisť nevyspelé etnografické celky silným národom.
+     <tei:emph>
+      Aké tedy šťastie?
+     </tei:emph>
+     Reťaz všetkých rúk môže byť vábnym   cieľom, veď to má i kresťanstvo vo svojom programe, ale dnes je to   len slovom a bude ešte prázdnym zvukom, kým sa existenčné možnosti   národov a rás vhodne neupravia. To je nie otázka vôle, ale práce a   času, čo je nevyhnutne treba i k výchove nového človeka.
+     <tei:emph>
+      Vhodné   upravenie existenčných možností bude tým prostredím, kde sa môže   vyformovať pravá mentalita na ozajstné súručenstvo ľudstva, ktoré si   nájde svoje vhodné formy ďalšieho života.
+     </tei:emph>
+     Nebude to, myslím,   ani komunizmus, ani terajší kapitalizmus, ale životaschopný   kompromis. I to sotva pôjde od vrchu prv, než sa uplatnia aspoň v   rozhodujúcej miere na počiatku tejto úvahy spomínané podmienky   hospodárske i psychologické, pri ktorých by bolo dúfať, že reťaz   všetkých rúk a dokladám i sŕdc nebude demagogickým heslom,   mesianizmom ľahkoverných duší. Kým sa to nestane, nám malým ostáva a   to i pre mládež, to známe: drž sa toho, čo máš, aby nik nevzal tvojej   koruny!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Kríž
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Kríž, symbol potupy ― stal sa uplatnením kresťanskej kultúry   symbolom utrpenia, znakom i všetkých ťažkostí, čo nakladá život na   väzy smrteľníka. Obísť tento symbol, keď uvažujem s tebou, môj milý,   o živote i smrti, bolo by iste nedostatkom. Práve ty a generácia, v   ktorej rastieš, potrebuje nazrieť odmerane do tvári života, i keď   črty vyjadrujú trpký bôľ a storaké sklamanie. Nám, pokoleniu vašich   otcov ― matiek, žilo sa ťažko. Na zvrate dejín boli sme svedkami   katastrôf, jednako i radostí. Obávam sa, že kritická doba, ktorej sme   boli a sme svedkami my, nie je ešte u konca. Neraz ma chytí   predtucha, že vás, deti naše, čaká azda ešte väčšie vyprobovanie. Tej   istoty hospodárskej a sociálnej, čo sme my cítili pred svetovou   vojnou, nebadať dnes. Politický stav, ktorý v mierových smluvách   odčinil naše národné krivdy, podrývaný je a napádaný. Triedna   rozbitosť pri sociálnych nedostatkoch vyvrchoľuje v nenávisť. Samý   kvas a vrenie a uprostred toho, vy ― i ty, môj milý! Musíte sa vopred   dokonale obrniť i proti bolesti a sklamaniu, keď vás kríž života nemá   zlomiť a pritlačiť k zemi. Život, ktorý má svoj úsmev, ale má i svoj   a neraz veľmi tmavý tieň ― vynasnaží sa zvíťaziť nad vami a bolo by   zle, keby ste vy nevládali odbiť jeho nápad a zvíťaziť nad ním.
+     <tei:emph>
+      K víťazstvu nad nepriateľom potrebujete
+     </tei:emph>
+     ―
+     <tei:emph>
+      poznať   ho. K víťazstvu nad bolesťou
+     </tei:emph>
+     ―
+     <tei:emph>
+      neostáva
+     </tei:emph>
+     ―
+     <tei:emph>
+      len poznať, čo je bolesť.
+     </tei:emph>
+     Len tak možno potom už   rozmýšľať o prostriedkoch zdolať ju a miesto zúfalstva, azda i   odvrátenia sa od samého života a opovrhnutia ním ― vydržať a zvíťaziť   i v tom najťažšom zápase. Nuž rozmýšľajme!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Bolesť je pocit relatívnej pôsobivosti a patrí k   životu, ako tôňa k predmetu, osvietenému slnkom. Niet srdca, ktoré by   bolesť neprenikla, veď i na svet prichodíme plačúc.
+     <tei:emph>
+      Bolesť je,   ako vášeň: čím sa jej kto viac dá ovládať,
+     </tei:emph>
+     ―
+     <tei:emph>
+      tým väčšmi   rastie.
+     </tei:emph>
+     Z toho by nasledovalo: čím sa jej kto dá menej   ovládať, tým viac upadá.
+     <tei:emph>
+      Všimnime si telesnej bolesti. Táto je   nie vlastne ničím iným, ako zprávou nervového systému, podávanou   centrále našej bytosti, existenčnému vedomiu o nebezpečí, čo hrozí   našej telesnej sústave.
+     </tei:emph>
+     Úder, rana atp. ― všetko sa   odtelegrafuje a to v okamžení, niekdy i po čase. Nebyť nervového   vedenia, nebolo by bolesti. Po dokonalom umŕtvení nervu necítiť   bolesť pri trhaní zubov. Bez nervov nebolo by inak s celým našim   telesným organizmom. Zprávy nervov môžu byť verné, môžu však byť i   prehnané. Preto decko jačí, i keď sa mu skoro nič, alebo vôbec nič   nestalo.
+     <tei:emph>
+      Relatívnosť bolesti umožňuje nám ju viacmenej   zvládať.
+     </tei:emph>
+     Černohorec, keď mu po boji odoberali nohu, díval sa   na to a fajčil. Nie, že by nemal nervov, ani ako by mu tieto nedaly   znať každý rez, ale proste on to nevzal na vedomie. Mal toľko sily ―   nevziať to! Indický fakír vie vystupňovať silu svojej vôle nad vôľu   nervového systému, ba i krvného obehu a pichá si do tela ihlice, ani   do špongie. Hľadíme na to učudovaní, cítiac i pri púhom pohľade niečo   z tej bolesti, čo by predstavujúci mal cítiť a necíti.
+     <tei:emph>
+      Ako   vidieť, i náš telesný organizmus pri presne vymeranej funkcii svojich   orgánov dá sa, ak ide o bolesť, ovládať. To je, pravda, všetko   otázkou dispozície, ale najmä vôle a cviku.
+     </tei:emph>
+     Lenže nás nemoria   len bolesti telesné ― nárazy na naše psychické vnútro vynucujú tiež   bolesť a neraz húževnatejšiu, i nebezpečnejšiu, než je bolesť   telesná. Táto bolesť, ak ju človek nezdolá, vyrazí mu dušu z   rovnováhy, zatieni i celý životný názor a ženie, často i vženie svoju   obeť nielen do rozporu so životom, ale i opovrhnúť ním. V našich   časoch jest príkladov na hotové katastrofy, pochodiace z psychickej   rozorvanosti a bôľu i medzi študentstvom hockoľko. Povie sa ― je to   chabosť pred ťažkosťami života! Čo sa však tým povedalo a vysvetlilo?   Nič! Ten študent, ako i my ostatní ľudia, je v svojich schopnostiach   obstáť v boji, i v sklamaní, i v odolávaní bolesti vrodenými sklonmi,   i výchovou a vôbec prostredím hodne determinovaný. Učí sa tisíc vecí,   či mu však kto povie, čo je bolesť, hoc ona obstáva naše   spoločenstvo, i jeho so všetkých strán? Zdolať telesnú bolesť, alebo   aspoň ľahšie ju prenášať ― na to má cvik v športe. Duševné bolesti,   pochodiace zo sklamaní, dopustení, z myšlienkového vrenia a   nevyrovnanosti so životom ― tie ostávajú, ako tajné choroby každému,   nech si ich lieči, ako chce. I výučba náboženstva a hodiny filozofie   vyčerpajú sa najviac v hromadení všelijakých poznatkov, ale myslím ―   zriedka zasiahnu do otázky ― čo má z toho všetkého ten žiak mať pre   život, ktorý ho čaká so všetkými možnými skúškami. Prílišná citlivosť   ľudského psyché je hotová nemoc. Čo všetko zahrá na strunách srdca   bolestnou piesňou nešťastia! Je bolesť hypochondriálna, ako telesne,   tak i duševne. Je bolesť, vyvolaná nárazmi v kruhu súkromných   pomerov, je bolesť, čo vyvolávajú veci verejného života. Gróf   Széchényi, veľký maďarský národovec, nevedel hľadieť na   katastrofalizmus svojho národa a pri všetkých hmotných, i   spoločenských výhodách ― siahol si na život.
+     <tei:emph>
+      Môj milý, duševná   bolesť je ako tyger, s ktorým sa stretneš v púšti života, alebo ju   zabiješ ty, alebo ona zožerie teba!
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      2.
+     </tei:emph>
+     Katastrofy, vznikajúce z rozporu s vôľou žiť,   zasluhujú osobitnú kapitolu. Tak ich je veľa a zasahujú medzi stárež,   ako i mládež, ba sú pády i medzi útlymi deťmi.
+     <tei:emph>
+      Keď je bolesť   väčšia
+     </tei:emph>
+     v
+     <tei:emph>
+      svojich účinkoch na psychickom vnútri človeka,   než rezistenčná sila
+     </tei:emph>
+     ―
+     <tei:emph>
+      nastávajú kritické chvíle.   Príčinou nepomeru môže byť i dedičná zaťaženosť keď sa rodina vyžíva,   ako strom, ktorý už priniesol svoje ovocie a vyplnil svoje   poslanie.
+     </tei:emph>
+     Takýto pád je však zriedkavejší, prejavuje sa v   psychických poruchách, v bolestivosti a v únave zo života. Tento zjav   možno zaradiť medzi nemoce, ako ktorýkoľvek telesný neduh, veď jeho   pôvod musí mať svoje korene v ochabujúcej funkcii telesných orgánov.   Únavu zo života cítia neraz i ľudia, ktorí ináč hľadia na svet   pozitívne, až optimisticky. Býva to v chvíľach vyčerpania prácou, či   ťažkým bojom života, keď prúdy života v duši počínajú podtekať prúdy   zmaru. Tu je liekom oddych, dobrá správa života, zmena v práci na   čas, šport atp. Životná sila vráti sa pravidelne sama, ako po čase   natečie i vody do vyčerpaného prameňa.
+     <tei:emph>
+      Zaujímavé je však všímať   si tragédií a katastrôf, akých je najviac v živote. Veľká časť z nich   má dôvody celkom malicherné, nedomyslené.
+     </tei:emph>
+     Trochu času a   utíšenia, azda i pravého slova a dobrej rady, a človek by sa vrátil s   pokraja priepasti, do ktorej sa už rozbehol skočiť. Prenáhlenosť v   tragickom konaní, odhliadnuc od organických nervových porúch, má na   svedomí vo veľmi vysokej miere dnešné prostredie a výchova, vlastne   nevychová.
+     <tei:emph>
+      Bolo by iste zaujímavé preskúmať najmä stredoškolské   učivo, koľko ono má pozitívnych prvkov, z ktorých by tá mladá duša   vedela si vybudovať vhodný životný názor, čo by sa jej stal oporou v   ťažkých skúškach života.
+     </tei:emph>
+     Náhľady o samom človeku, o jeho   pôvode, cieli, mravnosti, mravnej zodpovednosti križujú sa vo   verejnom živote, v knihách, v tlači, škola nie je tiež pred týmto   zmätkom imúnna. Niet rozhodnosti v triedení duševných a tak i   mravných hodnôt, niet jednoliatosti. Ak sama učebnica, alebo niekoľko   z nich neuvedú mladú dušu do zmätku, spraví to jeden druhý nerozvážny   učiteľ, ktorý nevie, čo berie dieťaťu, keď sa chce zablýskať svojou   múdrosťou, o jej tézach konečne dalo by sa iste i dišputovať. Takáto   výchova ako by všetko nechala rozhodnúť vrodeným silám patričného   individua, jeho náklonnostiam a krvi. A tak je to aj inde, kde skaza   a smrť kosí mladé kvety, čo by i malý, i mohly kvitnúť na strome   života a priniesť ovocie sladké, i pekné. K tomu pripočítať   prostredie s jeho shonom, tvrdosťou ― neraz ukrutnou. Veď či jest   väčšej tvrdosti, ako keď sa mladý človek snaží vyučiť sa, zdokonaliť   a príduc do života, vidí, ako sú mu neraz všetky brány k uplatneniu   zavreté? Vyjsť tu z rovnováhy nie je div! A jednako i pri všetkých   týchto biedach dokazuje sa, že človek dobre pripravený pre život,   vždy nájde spôsob zvládať ho i jeho bolesť a nezamárniť seba.
+    </tei:p>
+    <tei:p>
+     3. Ako sa chystať ovládať bolesť a zvíťaziť nad životom? Tu ti   môžem dať sopár rád, ostatné záleží na tebe.
+     <tei:emph>
+      Keď ti nikto   neukazuje pozitívne prvky v učive a v živote vôbec, pokús sa ich   rozpoznať sám. Takýmto prvkom je každú známosť, vecná či mravná, čo   ti dodáva chuti k životu a každý názor, čo ti vyplní prázdnotu   všebytia, v ktorom si ty bludicou, hľadajúcou svojho cieľa.
+     </tei:emph>
+     Zdravý inštinkt bude ti v tom na dobrej pomoci. Prijímaj kriticky i   negatívne náhľady na život a jeho zjavy, veď sa v týchto tiež možno   pomýliť. Nijaká auktorita nech ťa nezmätie, veď mozog všetkých ľudí   je viacmenej nedokonalý aparát. A prečo by si si práve ty mal dať   vypchať hlavu komukoľvek bez kritiky, keď o hodnotách života máš   právo, ba povinnosť uvažovať i sám? Nenaimputuj si ani optimizmus,   ani pesimizmus, lebo život je dravý, márne ho budeš chváliť, či   haniť, musíš s ním zmerať svoje sily ― a to je práve to   najzaujímavejšie.
+     <tei:emph>
+      Život je ako boxer, zadáva ti údery a smeje   sa ti pri tom do očí, nemajúc s tebou nijakej sútrpnosti. Smej sa mu   i ty a usiluj sa vyraziť mu zuby spodným hákom.
+     </tei:emph>
+     Ovládať   telesnú bolesť, videli sme, k tomu treba training. Tak je to i s   bolesťou duševnou, najmä ak si od prírody pricitlivý a neodbíjajú sa   blesky od tvojho srdca, ako od skaly.
+     <tei:emph>
+      Bojuj o pozitívny náhľad   na svet i na život a potom sa cvič, človek týmto spôsobom naučí sa   nárazy na ducha odrážať
+     </tei:emph>
+     až po virtuozitu. I keď ti predíde, že   je život komédia, nezabudni, že je zo všetkého toho, čo si videl ―   najzaujímavejšia. Hráš v nej i ty svoju úlohu, prečo by si ju tedy   nedohral?
+     <tei:emph>
+      Nikdy nerozhoduj urýchlene, čím ťažšia je otázka, ak   nemôžeš na ňu zabudnúť, odlož si ju
+     </tei:emph>
+     ―
+     <tei:emph>
+      aspoň na sedem   dní. Nemysli, že len ty máš bolesť
+     </tei:emph>
+     ― v
+     <tei:emph>
+      svete je   nesmierne mnoho bolesti a kým tejto bude, budú mať ľudia zaujímavý   program
+     </tei:emph>
+     ―
+     <tei:emph>
+      odstrániť ju. Čo si však potom počnú bez   nej
+     </tei:emph>
+     ―
+     <tei:emph>
+      ozaj neviem! Ak ťa nadídu tmavé myšlienky, neostaň   sám, ale nevyhľadávej spoločnosť ľudí, čo sú chorí, ako ty.
+     </tei:emph>
+     Vyjdi si radšej do prírody, tá vie hojiť, keď sa dá. Tvojím heslom   nech je ― nedať sa životu a nedáš sa! Zvíťazíš nad ním i nad jeho   krížom! Zadovážiš si dostatok síl ― pekne žiť a keď na to príde i   pekne rozlúčiť sa s týmto svetom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Chrám
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Každý pokrm nemá jednaký počet vitamínov ― ani každé učenie nemá   rovnaké množstvo pozitívnych prvkov. Sama filozofia je i pozitívna i   negatívna, môžeš sa ňou držať na povrchu vôd, môžeš i klesnúť pod   hladinu a utopiť sa. Ešte najviac pozitívnych prvkov obsahuje v sebe   náboženstvo, ako výtvor citovej schopnosti človeka. Kultúra tak   rozumová, označená hranicou empírie, t. j. priamej skúsenosti ― tvorí   vlastne len polovicu ľudského poznania a to azda práve tú menšiu   polovicu. Vrodený náš inštinkt a tým i duševná potreba ženie nás od   praveku i za hranice empirickej známosti ― v oblasti metafyziky,   ktorá je s prírodou, zasiahnuteľnou našimi smyslami asi v takom   pomere, ako vesmír k našej malej zemi.
+     <tei:emph>
+      Pre túto ohromnosť   nepoznaného rozumné je, myslím, neobísť chrám a to ani vtedy, keď ide   len o to
+     </tei:emph>
+     ―
+     <tei:emph>
+      poznať, čo je to vlastne v ňom a čomu slúži   všetko to, čo sa tam zvestuje.
+     </tei:emph>
+     Jednostranná rozumová   vzdelanosť, aká sa i u nás dnes vyzdvihuje do vysokej miery, meravo   oddeľuje. Preto je však i také množstvo ľudí múdrych, ale jednako len   polovičatých, alebo polovzdelaných, keď pochop ten vezmeme podľa   obsahu a rozpätia, kam a na aké polia všetko myseľ siaha.
+     <tei:emph>
+      Následky tejto polovičatosti, a či jednostrannosti sú potom   názory meravé, pre život nevhodné, amputujúce ho veľmi boľavo.
+     </tei:emph>
+     Pripomenul som ti to pri vodcoch ruského komunizmu, ktorí miesto   konštruktívneho využitia všetkých síl, dobrú časť svojej energie   strovia bojom proti chrámu, hoc je ten pre nich ― ako neobjavená   polárna krajina. Toto pustošenie je tým tragickejšie, keď miesto Boha   stavia sa hneď Lenin, miesto Ježiša zas Marx s jeho materialistickým   evanjeliumom, miesto dogmat náboženských, lepšie kresťanských,   podávajú a zvestujú sa život vykupujúce dogmatá novej, komunistickej   viery, ktoré majú tiež svojich orthodoxov i neologov, pravoverných i   heretikov, stojacich kruto proti sebe.
+     <tei:emph>
+      Čo je to? Miesto   náboženstva nové náboženstvo
+     </tei:emph>
+     ―
+     <tei:emph>
+      miesto vážnej hry
+     </tei:emph>
+     ―
+     <tei:emph>
+      fraška. Ako vidíš, človek si s tým citovým svetom nedá   rady.
+     </tei:emph>
+     Preto bude dobre i pre teba ― poznať ho, vyvážiť jeho   hodnoty i v cirkvi, a podľa možnosti ich aj zúžitkovať.
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      1.
+     </tei:emph>
+     Prostriedkami nášho takzv. Vedeckého poznania sú ―   päť ľudských smyslov a logika, ktorá z daných a overených poznatkov   robí závery. Lenže naše ľudské psyché má i vlastnosti, které   nevpadajú v dosah piatich smyslov. Taká je na pr. telepatia.
+     <tei:emph>
+      Preto sa hovorí i o šiestom a to duševnom smysle človeka,   ktorý
+     </tei:emph>
+     ―
+     <tei:emph>
+      ako roentgenové lúče cez hmotu
+     </tei:emph>
+     ―
+     <tei:emph>
+      prechodí cez empiricky dosiahnuteľný kruh do sveta   metafyziky.
+     </tei:emph>
+     Tento svet je vábnym pre nás ľudí z dvoch príčin:   jedno ― je to z dobrej časti terra incognita, čo je pre ľudskú   zvedavosť nesmierne dráždivé ― druhé ― máme viac, či menej vyvinutý   psychický orgán, ktorému je svet tento prístupným. Kto by myslel, že   sa poznaním dá cit upravovať, ten by sa veľmi zmýlil, ako sa zmýlila   i grécka filozofia, keď predpokladala, že vedieť čo je dobré ―   znamená i robiť to. Neznamená, alebo aspoň nie vždy znamená. Ľudia   najčastejšie i vedia, čo je dobré, mohli by to konať a nekonajú, lebo   od poznania k precíteniu potreby toho je dobrá diaľka. Naopak, cit   vplýva až veľmi intenzívne na predstavy mysle a na ich formovanie.   Pri revoltách voči starým formám ľudského života hrá na pr. veľký   zástoj nielen fanatické nadšenie, ale negatívna stránka tohto ―   nenávisť. Spoločenské pravdy prv sa zrodia v cite, než v hlave a len   potom formujú sa rečou, alebo písmom. Týmto chcem len
+     <tei:emph>
+      na to   upozorniť, že nesmierny citový svet, neprebádaný, nezmapovaný je   svetom sám pre seba, ktorý nemožno negovať. Ako neznáma zem v oceáne,   ani tento svet nedá ľudskej bádavej povahe pokoja a nedá ani vtedy,   keď sa rozišla s chrámom a cirkvou.
+     </tei:emph>
+     Odkedy isté filozofické   smery, i sám triedny socializmus pridaly sa k materializmu a objavily   v človeku len rozumného zvera, boj proti chrámu nabral väčšej   intenzity a zasahuje nielen jeho múry, ale i široké vrstvy a masy   tisícimi prostriedky. Kde sa však i podarilo náboženský názor zrumiť,   nepodarilo sa, alebo málokde sa podarilo odtiahnuť myseľ od bádania v   neznámych končinách citového sveta, alebo metafyziky.
+     <tei:emph>
+      Miesto   sriadených chrámov a cirkví povstávajú na ich rumoch, či vedia   nich
+     </tei:emph>
+     ―
+     <tei:emph>
+      tie najrozličnejšie sekty, v ktorých sa citový   život vybíja nesriadene, bezkontrolne, ako zbahnatie a zosmradne   naftový kraj bez riadne vyvŕtaných a opatrovaných studní. Miesto   hlásaného pokroku ľudia, hnaní nezdolnou vnútornou tuhou po neznámom,   klesnú na úroveň animizmu, duševných i telesných výstredností, až po   bláznivé orgie.
+     </tei:emph>
+     Okultizmus a špiritizmus sú tiež len náhradou   za chrám, keď tieto smery neraz vmestia sa kde tu i v rámci cirkvi.   Niekde príslušníci týchto smerov navštevujú i chrám, ale i svoje   seanse, nevidiac v tom nič nemožného a protichodného.
+     <tei:emph>
+      Voči   týmto hodnota a účel sriadených cirkví je kontrolovať a upravovať   náklady v metafyzickom svete, kam citový smysel ženie zvedavosť,   ktoré náhľady môžu byť zdravé, život zdvíhajúce, môžu však byť i   chorobné, spoločenstvu i jednotlivcom nebezpečné domnienky, vedúce k   rozkladu.
+     </tei:emph>
+     Preto ja i pri všetkých nedostatkoch cirkevných   organizácií potrebu týchto nemôžem nekonštatovať a ich kontrolnú   činnosť nad náhľadmi, prýštiacimi sa z citových prameňov ľudského   psyché, pokladám za potrebnú i osožnú.
+    </tei:p>
+    <tei:p>
+     2. Kritický človek zastane neraz pred chrámom v neporozumení, keď   je chrámov veľa a učenie, v nich hlásané, je alebo odlišné, alebo sa   delí a stavia proti sebe i keď vzniklo z totožného prameňa. Najviac   iste zarazí ― presvedčenie o jedinečnej pravosti, zdôrazňované   všetkými denomináciami voči ostatným. To je však nie to hlavné, čo by   som ti odporúčal povšimnúť si. To je ― povedal by som ― len škrupina,   z ktorej možno vylúskať si jadro. Tá škrupina je niekde hrubšia,   niekde tenšia, podľa povahy národov ― jadro je tiež niekde maličké,   až nepatrné, inde vyvinuté a hodné uváženia. Že najdávnejšia minulosť   náboženstva zapadá do primitívneho formalizmu a animizmu, niet sa čo   diviť ― i minulosť filozofie a ľudskej kultúry vôbec vychodí z veľmi   primitívnych počiatkov. Podstatné je však náboženstvo stálym hľadaním   absolútnej pravdy, i čo sa týka vzniku sveta a jeho udržovania, i čo   sa týka smyslu ľudského života a duševných podmienok prežiť ho   spokojne a blažene. V tejto svojej úlohe má svojho konkurenta vo vede   a je isté, že cit nemôže mať inú pravdu, ako rozum. Lenže kde je tá   absolútna vedecká pravda, keď sme nie zvedaví na fyzické zákony, ani   na matematické čísla, ale na pôvod, cieľ a najmä na smysel celého   nášho ľudského života? Čo nám dá veda, keď ide o tie pozitívne   životné prvky ― o vitamíny ― z ktorých máme žiť vyrovnane so svetom,   všehomírom i so sebou?
+     <tei:emph>
+      Naproti tomu všetky vyspelejšie   náboženstvá snažia sa svojím spôsobom prevychovať človeka a spraviť z   neho, zaťaženého tými najrozličnejšími zverskými neresťami,   kultúrneho tvora, keď pod kultúrou nerozumieme pýchu známostí, neraz   veľmi povrchných a daromných, ale dobrotu a jemnosť, slovom
+     </tei:emph>
+     ―
+     <tei:emph>
+      dokonalosť duše.
+     </tei:emph>
+     I budhizmus so svojou snahou mŕtviť   životnú vôľu a dostať sa do nirvány, stavu to, v ktorom si človek už   nič nežiada, po ničom netúži, lebo má ten najvyšší pokoj, i tento   budhizmus vedie smrteľníka k sústrasti a súcitu voči bližným, ba i   voči ostatnému tvorstvu. Kresťanstvo, ktoré pre jeho kladný pomer k   životu pokladáme za vrchol vo vývoji náboženských foriem, robí to   isté, hlásajúc duševnú čistotu a lásku k Bohu, dokazovanú láskou k   bližným. Ani jedna kresťanská denominácia, pri všetkých svojich   nedostatkoch, nevyhýba sa tomuto obsahu, vyjmúc niektoré extrémne   sekty. Porovnávaním pozitívnych hodnôt v náboženstvách povstala   theozofia, jej srovnávacie textové knihy sú zaujímavým dôkazom, ako   sa v behu časov prebíjala a dozrievala známosť o dokonalom mravnom   zákone, ktorý dal vlastne obsah ľudskému svedomiu, ako i známosť o   záhadnej sile a osobnosti, ktorá za ním stojí a je počiatkom i koncom   všetkých vecí.
+     <tei:emph>
+      V samom kresťanstve prejavil sa mravný zákon v   svojej dokonalej forme, o čom sa ľudstvo presvedčí najmä v dobe, keď   sa ho v chorobnej vášni sebazmarenia zriekne na čas.
+     </tei:emph>
+     Pozitívne   hodnoty, obsažené v Ježišovom evanjeliu, alebo ešte určitejšie ― tie   vitamíny pre psychický i telesný, súkromný i verejný náš život nie sú   len v príkazoch a pravdách, ale i v sile, ktorú viera v Krista vnáša   do slabých ľudských duší.
+     <tei:emph>
+      Tieto duchovné vitamíny sú reálnou   skutočnosťou, čo nenahradí nijaká filozofická morálka, ani to takzv.   etické náboženstvo, lebo vitamíny tieto rastú na svojej pôsobivosti   práve podľa stupňa toho pomeru, v ktorom je veriaci kresťan s Bohom   svojím.
+     </tei:emph>
+     Len ľudia, čo žili v tomto najintímnejšom pomere, šli   za svoju pravdu s úsmevom i na popravište a len takým ľuďom bolo   možno pomôcť slovami: viera tvoja ťa uzdravila!
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     Pripomínam ti to, keď ťa chcem upozorniť na zjavy   citového sveta, čo ti je azda nie taký prístupný ako mne, ktorý som v   jeho službe. Nemysli si, že som učenia tohto druhu prijal bez   kritiky. Naopak, prežil som ťažkú krízu pochybovania a boly časy, keď   som bol so svojou dušou na 0. I ja som sa hodil do náručia filozofie,   hľadajúc tu odpovede na najpálčivejšie otázky, životné otázky mladej   duše. I mne imponovaly, veľmi imponovaly systémy ― múdrosti tohoto   sveta, ako nasledujú od Thalesa, Anaximandra, Anaximenesa až po   materialistov, Nietzscheho a moderných sociológov. Keď som však   videl, ako sa tieto učenia vzájomne porážajú, prestal som sa   pozastavovať na nesmieriteľnosti konfesií, lebo som chápal ― je to   vec presvedčenia a vec ľudská! V Škótsku a Anglii skúsil som na   vlastné oči, čo znamená kresťanstvo a dobrá cirkev pre verejný život,   pre všetky vrstvy ľudu a pre národ i štát. Kým tu u nás zadŕhajú sa   vzdelanejšie vrstvy mudrlantstvom a snobizmom, tam je biblia skoro v   každej domácnosti na stole v prijímacej izbe, i v domácnostiach   profesorov. Kým je u nás každý moderný smer, privlastňujúci si   epiteton ― pokrokový, zaostrený, protikresťansky, socializmus zrovna   materialisticky, rozumní Angličania a Škóti, pri svojej vysokej   vzdelanosti a praktickom chápaní i úlohy cirkvi, vedeli a vedia, že   sa materializmom, náukou to vo filozofii dávno odbavenou, ani pokrok   ani životná úroveň širokých vrstiev národa a ľudstva nepohne. Naopak!
+     <tei:emph>
+      Preto sa i socializmus, i iné moderné smery javia tam v inej,   oveľa zduchovnelejšej forme, než u nás. Ale v tom je i to tajomstvo,   prečo sme my mudrlantskí chudáci, kým tamtí vládnou nad polsvetom.   Srovnávaním pomerov
+     </tei:emph>
+     na to som prišiel v Anglicku. Doma potom   dostal som sa medzi ľud. Videl som ho za svetovej vojny biedny a   opustený. Čo dávalo tým osiralým ženám a matkám, ktorým som bol   vychovávateľom a tešiteľom, čo im dávalo sily preniesť hrôzy dňa, kým   ich mužovia hynuli na bojištiach, to bolo náboženstvo! Tie vitamíny,   ktoré som im odokrýval a predkladal, ako mi bolo povinnosťou.
+     <tei:emph>
+      Čo by som si bol tu počal s akoukoľvek filozofiou? Čo s náukou   o evolučnom vývoji človeka? Hladného nemožno chovať stružlinami, i   keď by sa ony akokoľvek majstrovsky nastružlikaly.
+     </tei:emph>
+     Dostal som   sa pri svojej vzdelanosti do stavu, ako niekdy Tolstoj, ktorý   zazávidel svojmu mužíkovi tú detinskú vieru, čo on ― práve pre   nepokojnú kritickosť svojej mysle ― nevedel už tak intenzívne   precítiť.
+     <tei:emph>
+      Videl som jasať oči veriacich duší, kým vzdelanec bol   by prinajmenej nadával, trápil seba a aj iných, prípadne zúfal a   siahol si na život. Potreboval som ešte nejaký silnejší dôvod, aby   pochopil ducha, ktorému som už prestával rozumieť i keď som sa   zadíval do sivých očú svojej matere, tvojej starej matky?   Uznáš
+     </tei:emph>
+     ―
+     <tei:emph>
+      nie?
+     </tei:emph>
+     Nezabudol som tým ani na nedostatky   cirkví, čo ma predtým znepokojovaly. Len som pochopil, že je odtlač   ľudských prstov na všetkom, čo človek chytí do ruky. Tedy v cirkvi   nie viac, než v socializme, komunizme a hocikde inde! Pripomínam ti   to, keď nechcem, aby si v chaose učiva zabudol, alebo nedošiel k   oblasti citového sveta, ktorého skryté sily formujú nás a tak z   dobrej časti i našu budúcnosť viac, než celá rozumová kultúra. Svoj   pomer ku chrámu musel som ti objasniť v dobe, keď sa chrámy i   zatvárajú, i vyhadzujú dynamitom do povetria, aby si ma ― ak možno i   s tvojimi kamarátmi a vrstovníkmi pochopil a aby som ti neostal   cudzí. Vyber si z toho to najlepšie i pre seba: všetko skús a čo je   dobré ― toho sa drž!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     <tei:hi>
+      Mrk
+     </tei:hi>
+    </tei:head>
+    <tei:p>
+     Zapadajúci deň a červené, hasnúce zore súmraku vrhajú nám do   zahľadených tvárí otázku ― kam? Čo bude z nás? Chladný, večerný vánok   šepce o pominuteľnosti nielen nás, ale i všetkého, čo je tu na zemi   žijúce a cítiace. A keď sa rozloží noc, obstavajú nás myšlienky o   smrti. Iste obstaly už i teba neraz a obstanú ťa ešte. Na niektorých   ľudí pôsobia ony nepríjemným, až strašným dojmom. Sú povahy, ktoré   pri myšlienke o smrti pustia sa do plaču, iné prijímajú zvesť o mrku   života a o jeho západe s trpkou rezignáciou. I sama biblia označuje   smrť, ako odplatu za hriech. Aký tedy div, keď pomyšlienka na ňu javí   sa najčastejšie, ako kvapka blenu do radostí tohto života. Sú však aj   iné povahy, najmä medzi pospolitým ľudom, ktorého údelom je ťažký   život. Tu sa smrť pokladá za želateľnú premenu, za vyslobodenie z   trápenia a trudov zemského bytia. Skoro by sa mohlo tvrdiť,
+     <tei:emph>
+      vzdelanejšie vrstvy, zúčastnené vo výhodách života, hľadia na   smrť ako na stratu, pospolitejší ľud, odhliadnuc i od jeho viery vo   večný život, hladí na ňu
+     </tei:emph>
+     ―
+     <tei:emph>
+      ako na výhru a spravodlivé   vyriešenie konca pre všetkých ľudí.
+     </tei:emph>
+     V priebehu týchto úvah   hľadeli sme spolu životu v tvár ― teraz zahlaďme sa do obličaja   smrti, môj milý!
+     <tei:emph>
+      Lebo ako je veľká výhoda pre človeka vedieť   pekne žiť, tak je ešte väčšia
+     </tei:emph>
+     ―
+     <tei:emph>
+      keď dôjde tomu   čas
+     </tei:emph>
+     ―
+     <tei:emph>
+      dôstojne a pekne i rozlúčiť sa s týmto   svetom.
+     </tei:emph>
+     K mohyle vedie napokon cesta všetkých nás. Nuž   zamyslime sa tu spolu za hasnúcej žiari súmraku ― o zvedavých očiach,   čo chcú nazrieť za hrob, o smysle ľudského snaženia a ďalšej   budúcnosti!
+    </tei:p>
+    <tei:p>
+     1. I myseľ najstarších národov usilovala sa preniknúť tajomstvo   hrobu a podujať i boj za ďalšiu existenciu. Starí Egypťania dali sa   balzamovať v domnienke ďalšieho života. Pochovávali sa so svojím   bohatstvom a rozličným náčiním, aby ― až im bude treba ― mali to zas   všetko po ruke. Číňania verili a veria v ďalšiu existenciu svojich   odumrevších predkov, s nimi usilujú sa žiť v stálom styku. Fantázia   Grékov vybájila si celé podsvetie, Hádes, s čiernou riekou Styx a s   nevľúdnym prievozníkom duší, Cháronom. Židia pred príchodom Ježišovým   mali akúsi predstavu o podsvetí v šöol-e, hoci v knihe Kazateľovej   (III. kap. verš. 19) i čítať: osud synov ľudských a osud hoviad je   jednaký. Ako umiera ono, tak umiera i on a oba majú jednaký dych...   Oboje to kráča k jednému miestu, oboje je z prachu a oboje zas vráti   sa do prachu. Kto to zná, že duch synov ľudských vystupuje nahor a   duch hoviad sostupuje pod zem? Podobne hlásali i Rimania za doby   úpadku: post mortem nulla voluntas ― po smrti nijakej žiadosti! U   Židov nacionálna myšlienka bola taká silná, že i ďalší ― posmrtný   život jednotlivca chápal sa vlastne v národe, ktorý žije večne. Keď   však nadišly i pre Izraela národné katastroľy, babylonské zajatie a   podobné, pozornosť obracala sa vždy určitejšie k duševnej   nepominuteľnosti jednotlivca.
+     <tei:emph>
+      Najurčitejší
+     </tei:emph>
+     a najplnší   výraz myšlienke vzkriesenia a večného
+     <tei:emph>
+      duševného života dal iste   Ježiš, ktorý dľa svedectva evanjelií, i sám zvíťazil nad smrťou. Pod   vlivom jeho zvesti o nesmrteľnosti duše vyrývali neskoršie už i   Rimania na hroby v katakombách: Lidia, tu vivis! ― ty žiješ!
+     </tei:emph>
+     Už i z týchto nepatrných ukážok vidíš, môj milý, nielen dva smery, čo   sa akosi od tisícročí stavajú proti sebe, tak ako i dnes,
+     <tei:emph>
+      ale   môže ti napadnúť, ako je myšlienka o pokračovaní života za hrobom   skoro univerzálna.
+     </tei:emph>
+     Jej najprimitívnejšia forma je v   pochovávaní bojovníkov so zbraňou, aby ju mali po ruke, až ju budú   potrebovať... v opatrení zosnulých jedlom, čo sa vynášalo na hroby...   a najdokonalejšia forma je zas v Ježišovom: Ja som živý, i vy živí   budete! Otázku ďalšieho života materializmus dnešnej doby iste   vytvára, ale materializmus nie je jediný názor na svet a ani svojich   vlastných veriacich neuchráni vždy pred tvrdou otázkou ― čo potom?
+     <tei:emph>
+      Tie oči ľudského psyché sú len zvedavé! Márne im poviete, keď   sa rádiový prijímač, tedy stroj, raz zoderie, prestane fungovať a je!   Ony nadhodia a to celkom oprávnene, že stroj, ten prijímač môže sa   zodrať a rozpadnúť, ale vlny elektrónov ostávajú i ďalej.
+     </tei:emph>
+     Tie   oči vo svojej dráždivej a neukojiteľnej zvedavosti, ak sa i odvrátia   od kresťanstva, hodia sa na špiritizmus a okultizmus, ktorý kult   platí človek a neraz veľmi draho svojimi nervami a zdravím. Proti   týmto posledným chráni ma otázka: prečo by som sa nadrapoval do   okienka druhého sveta, keď za chvíľu i tak vojdem ta dvermi a zemský   život má i svoje zaujímavosti, čo mi môžu ukojiť zvedavosť, i svoje   povinnosti, čo ma vyčerpávajú? Ak si tento názor osvojíš i ty,   vykonáš veľa dobrého pre svoje zdravie. O záhrobnej existencii   človeka myslím náhle si ju chceme predstaviť, znetvoríme ju a   znemožníme antropomorfizmom t. j. poľudštením. Ale odhliadnuc i od   auktoritatívnych učení náboženských, i zaujímavých tvrdení   špiritistov, opierajúc sa len na svoju kritickú myseľ, nikdy by som   sa neodvážil tvrdiť, že hrob znamená koniec psychických potencií   človeka, v smysle rímskeho post mortem nulla voluntas. I sám prírodný   zákon o sotrvačnosti energie na k tomu núti. A to najhlavnejšie:
+     <tei:emph>
+      bez predpokladu o záhrobnom, duševnom živote, neviem pochopiť   smysel ani mravného zákona, ani Ľudského snaženia, čo všetko jednako   len nemôže byť náhodilé a bez smyslu!
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     2. Všetko ľudské snaženie v svetle pominuteľnosti prestáva mať   smyslu. Akže hrob uzatvára jestvovanie človeka, tak je všetko len   márnosť a trápenie ducha ako píše Kazateľ. I najmonumentálnejšie   tvorby ľudského ducha dojdú konca a i tie najpodivuhodnejšie kultúry   rozsypú sa v popol a prach. Takýmto činom vonkajšie formy a prejavy   života (národ, vlasť, či štát, umenie, mravný zákon, spoločenský   poriadok) stanú sa konečným cieľom pre seba, hoci inak malý by byť   prostriedkom k zdokonaleniu života, preformovaniu ľudského psyché na   ten najvyšší stupeň. Načo však formovať to, čo nemá ďalšieho cieľa? A   načo prenášať tomu k vôli všetky ťarchy života, v ktorom si každú   radosť musí človek zaplatiť prácou, odriekaním, alebo utrpením. Lebo   tak sa mi zdá, že sotva jest ľudí, ktorí keby položili vedľa seba   životné plus i mínus neostalo by im napokon ― nul. Niet bohatstva,   moci, ani slávy, niet nijakých výhod života, ktoré by neprevážily   aspoň po rovnováhu i nevýhody, trápenia a starosť. Preto   materialistický názor na svet a život nevie dať iné, ako animálne   zažitia a to i v tej najšťastnejšej forme. Auktoritou pre mravný   zákon, keď nieto svedomia, ako nieto duše, je hrozba a bodák.
+     <tei:emph>
+      Ale práve preto, že človek pre svoje najvznešenejšie a   najčistejšie ciele musí vytrpieť tak mnoho, uzatváram, že   Prozreteľnosť má s ním iný konečný cieľ, než je hrob.
+     </tei:emph>
+     Všetky   naše zažitia na tomto svete ponášajú sa na los pšeničného zrna medzi   mlynskými kameňmi. Pod ostrím výhod i nevýhod života, chudoby, či   bohatstva, mdloby, či moci, všednosti či slávy... pod tlakom úspechu,   i neúspechu, trpkostí a bolestí a či radostí sbiera naše psyché   hodnoty, čo majú odolať i telesnej pominuteľnosti a tvoriť   vlastníctvo nášho ja i za hrobom. Kohezívna sila, účinkujúca mimo   telesného organizmu, je proste faktom, čo sa materializmom nedá   vysvetliť. Pri psychických poruchách, nevyvolaných fyzicky, niet   vonkajších známok na mozgu a nenajsť ich ani drobnohľadom.
+     <tei:emph>
+      Telesný organizmus je tedy neporušený, porušené je čosi iné, čo   práve týmto podáva dôkaz o svojom nezvratnom bytí.
+     </tei:emph>
+     Prostým   strojom jednako len nie sme, je v nás i čosi mimo tých kolies, vzprúh   a pák, čo nieto v nijakom stroji na svete. A to niečo je podľa mojej   skromnej mienky ako diamant, čo priložený k brusu zasipí bolesťou,   ale kryštál jeho nie je už viac tá beztvárna forma, ale určitá,   rozsýpajúca farby na slnku.
+     <tei:emph>
+      Tak si predstavujem, že všetkými   formami pozemského života nášho, duch náš leští sa pre   večnosť.
+     </tei:emph>
+     Tento náhľad nenechám však nikdy na pospas fantázii,   či už ona hrozí a či teší. Nestraším ním nikoho, veď si každý človek   za svoje premeškania i tu na svete vytrpí mnoho.
+     <tei:emph>
+      Názor tento je   mi tým oporným bodom, polárnou hviezdou pre všetko ostatné. S   predpokladom prípravy dokonalejšie žiť za hrobom viem pochopiť všetko   snaženie ľudské, i časné formy života i vtedy, keď mi prídu na myseľ   Ninive i Babylon, i Atlantis, utonuvšia v mori.
+     </tei:emph>
+     Všetko môže sa   zdať márnosťou a trápením ducha, ale nie je márnosťou spomienka na   chvíle čistej radosti a nemôže byť márnosťou tá koncentrujúca   psychická energia, ktorú pospolito menujeme dušou nesmrteľnou.
+    </tei:p>
+    <tei:p>
+     <tei:emph>
+      3.
+     </tei:emph>
+     Keď ma zajdú za hasnúceho mrku myšlienky o   pominuteľnosti, prijímam ich s pokojom. Mám rád tento svet, teším sa   jeho kvetom, ale viem, nevedel by som sa im tešiť večne. Život je ako   deň, ktorý má svoj svit, svoje poludnie, i svoj večer, keď človek   túži odpočinúť si od všetkého, dobrého i zlého rovnako. A tak je to   správne. Život za hrobom nepredchodí mi jakživ ako trest, skôr ako   vyrovnanie a odmena, po krátkej epizóde časnej púti. Utkvely mi v   mysli slová istého môjho profesora, ktorý hovorieval: keď mám viny sú   konečné a nekonečný trest za konečné premeškania vo večnosti nebol by   nijak spravodlivým. Ako vidíš, môj milý, hľadím na hrob pokojne.
+     <tei:emph>
+      Ak by sa ma kto spýtal, čo by som si prial po smrti, povedal by   mu: mohamedánsky raj rozhodne nie, ani antropomorfizmom zmaľovanú   večnosť, ale predovšetkým pokoj, ako po ťažkej a svedomitej práci ten   pokoj, ktorý prevyšuje všetok rozum ľudský!
+     </tei:emph>
+     Na tento pokoj   neprichystá zúrivý ľudský vzdor, sýtiaci sa negáciou už či mravného   zákona, alebo samej Prozreteľnosti. Nie!
+     <tei:emph>
+      K tomuto pokoju   najskôr privedie statočné a svedomité využitie toho krátkeho času, čo   nám je k dispozícii od svitu až po tichý súmrak života. A   najvhodnejšie využiť ho poznaním sveta i seba a uvaľovaním bolesti   iných, všetkých, a tým i ― svojej!
+     </tei:emph>
+    </tei:p>
+    <tei:p>
+     Končím ― veď sme už ďaleko od svitu. Podíval si sa so mnou, môj   milý, do tvári života i smrti. Zjavil som ti, i tvojim vrstovníkom,   čo mám v duši najcennejšieho pre seba, ak by sa to zišlo i pre vás,   novú generáciu, idúcu za nami. Ako tebe, svojmu synovi, tak i všetkým   vám želám za doby ideových zmätkov dostať sa a obstáť medzi Scyllou a   Charibdis na prúdoch tvorivého, spokojného a šťastného života. Majte   sa dobre! A keď sa zamyslíte na mojich radách, precíťte, že i   najlepší môže vám len toľko dať, koľko má on sám!!
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

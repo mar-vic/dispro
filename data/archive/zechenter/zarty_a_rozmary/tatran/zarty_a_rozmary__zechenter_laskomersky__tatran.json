@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Žarty a rozmary",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1988"
+    },
+    "firsted": {
+        "pub_date": "18677"
+    },
+    "authors": [
+        {
+            "first_name": "Gustáv Kazimír",
+            "last_name": "Zechenter-Laskomerský",
+            "birth_date": "1824",
+            "death_date": "1908",
+            "ref": "viaf:49245103"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,1491 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tei:TEI xml:id="slk195060" xml:lang="slk" xmlns="http://www.tei-c.org/ns/1.0" xmlns:eltec="http://distantreading.net/eltec/ns" xmlns:tei="http://www.tei-c.org/ns/1.0">
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     S nami a proti nám : ELTeC edícia
+    </tei:title>
+    <tei:author ref="viaf:17354331">
+     Karvaš, Peter (1920 - 1999)
+    </tei:author>
+    <tei:respStmt>
+     <tei:resp>
+      editor
+     </tei:resp>
+     <tei:name>
+      Marek Vician
+     </tei:name>
+    </tei:respStmt>
+   </tei:titleStmt>
+   <tei:extent>
+    <tei:measure unit="words">
+     22928
+    </tei:measure>
+   </tei:extent>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Karvaš, Peter
+     </tei:author>
+     <tei:title>
+      S nami a proti nám
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Pravda
+     </tei:publisher>
+     <tei:date>
+      1950
+     </tei:date>
+    </tei:bibl>
+   </tei:sourceDesc>
+  </tei:fileDesc>
+  <tei:encodingDesc n="eltec-1">
+   <tei:p/>
+  </tei:encodingDesc>
+  <tei:profileDesc xmlns:eltec="http://distantreading.net/eltec/ns">
+   <tei:langUsage>
+    <tei:language ident="slk"/>
+   </tei:langUsage>
+   <tei:textDesc>
+    <eltec:authorGender key="M"/>
+    <eltec:size key="short"/>
+    <eltec:canonicity key="unspecified"/>
+    <eltec:timeSlot key="T4"/>
+   </tei:textDesc>
+  </tei:profileDesc>
+  <tei:revisionDesc>
+   <tei:change when="2025-01-28">
+    Initially created as an ELTeC file
+   </tei:change>
+  </tei:revisionDesc>
+ </tei:teiHeader>
+ <tei:text>
+  <tei:front>
+   <tei:div type="titlepage">
+    <tei:head>
+     S nami a proti nám
+    </tei:head>
+    <tei:head/>
+   </tei:div>
+  </tei:front>
+  <tei:body>
+   <tei:p>
+    Hneď som vravel: Toho večera veru bolo celkom zbytočné postaviť   stráže. Strážili sme ostatne všetci. Nikto nespal a iba dvaja-traja   sa vyzuli. Videlo sa nám, že budeme takto na tŕni do svätého nigdala.   Bodaj by sme všetcia boli niekde v Sklabini, alebo v hornej Nitre,   mali by sme veci z prvej ruky. Čo sme takto? Chvostík. Ani prijímača   niet ani ničoho.
+   </tei:p>
+   <tei:p>
+    Už štvrtý deň sme neboli dolu pri trati. Keď sme počuli pískať   rušeň z údolia, dívali sme sa na seba vyčítavo a podráždene — a potom   všetci na Čagina. Ale bol rozkaz a hotovo. Čakali sme do nekonečna,   Čagin čušal celé hodiny, už ani na otázky neodpovedal. Ako by ho v   nečinnosti hrdza bola prikrývala.
+   </tei:p>
+   <tei:p>
+    Stál som na varte ako vždy. Díval som sa tadolu. Vpravo bolo   niekoľko svetiel, možno Gašparovo, kúsok ďalej mohlo byť Bujakovo,   ale to som iba tak tušil. A nad ním naša hájovňa. Niekedy som si   namýšľal, že vidím oblôčik. Vždy som si to namýšľal, keď som stál na   varte, hoci som dobre vedel, že to nie je možné, pre vzdialenosť, pre   jedlinu.
+   </tei:p>
+   <tei:p>
+    V obvyklý čas priletelo lietadlo, ako by sa nič mimoriadneho   nedialo. Červená bodka sa posúvala po oblohe a krútila sa, alebo sa   obloha krútila okolo červenej bodky ako vystretý dáždnik okolo svojho   špica. Hukotala. Čagin vystrelil raketu akosi hnevlivo. Biele   padáčiky začaly šustivo sadať na konáre. Chlapci sa rozbehli oberať.   Snášali ich na čistinku.
+   </tei:p>
+   <tei:p>
+    Poslali strelivo, čokoládu a noviny. Trochu ma zamrzelo, že sme   nie dôležitejšia skupina. Chcelo sa mi byť u Morozova ako Imro. Vždy   si najlepšie vedel zariadiť život zpomedzi všetkých bratov. Lietadlo   odletelo a ja som stál v tej voňavej tme a vymýšľal som si veci.
+   </tei:p>
+   <tei:p>
+    Ako sa z tmy vynorí otec s duplovkou a vraví: Rusi prešli cez   Karpaty. Prišiel rozkaz udrieť odzadu, všetky jednotky na Margecany.   Alebo: Nemci obsadzujú Slovensko! Všetky trate do vzduchu. Hovoria,   že v auguste padajú hviezdy, a ja som veru ešte nikdy nevidel hviezdu   spadnúť. A tak som si len vymýšľal divé veci v tej teplej   tichosti.
+   </tei:p>
+   <tei:p>
+    Že odrazu vidím, ako zblčala hájovňa. A po chvíli dievčatko v   bielej košeli — hore brehom.
+   </tei:p>
+   <tei:p>
+    — Stoj! — hučím. — Heslo!
+   </tei:p>
+   <tei:p>
+    A dievčisko len hore úbočím rovno ku mne: A ja zasa: — Stoj, lebo   strelím.
+   </tei:p>
+   <tei:p>
+    No už viem, že je to naša Mila, ale bez koša s proviantom. Mila   vždy všetko pomúti. — Spálili, — narieka, — odvliekli, zahubili. —   Prekrásna noc je všade, a ja si tu vymýšľam takéto hrôzostrašné   hlúposti. Obzriem sa, načúvam, ako ukladajú debničky s granátmi a   pásy so strelivom, čo vybalili zo slamy.
+   </tei:p>
+   <tei:p>
+    Odrazu za mnou veliteľ. — Súdruh Čagin, — vravím, — skoro začneme?   Lebo tu už všetko omína.
+   </tei:p>
+   <tei:p>
+    Čagin, pravda, nič. Iba stojí s papiroskou v ústach, ani neviem,   či je naozaj tu, alebo či som si ho tiež nevymyslel ako hájovňu a   sestru strapatú v košeli.
+   </tei:p>
+   <tei:p>
+    A odrazu už vôbec neviem, čo je naozaj a čo nie, iba to viem, že   dookola široko-ďaleko je nepriateľ a že to môže byť o mnoho dní, ale   aj hneď, o málo minút, a sbalíme sa a pôjdeme hlava-nehlava až do   samého Berlína, aby sa Imro mohol vrátiť do valcovne a Mila do školy   a Čagin aby mohol ísť opatrovať paradajky a aby to všetko malo nejaký   smysel.
+   </tei:p>
+   <tei:p>
+    Čagin síce čuší, ale hmká pesničku a odrazu mi je strašne smiešne   pri pomyslení, že by sa musel zohnúť k paradajke poobtŕhať suché   lístky takto po zuby ozbrojený — a že by nemohol pre samé granáty,   guľometné pásy a patróntašky.
+   </tei:p>
+   <tei:p>
+    — Súdruh Čagin, — vravím, — onedlho pôjdeš zasa záhradníčiť. Len   čo toto všetko vystrieľaš.
+   </tei:p>
+   <tei:p>
+    A pretože Čagin zas čušal, vymyslel som si, že povedal:
+   </tei:p>
+   <tei:p>
+    — Ničevo, o chvíľu je po všetkom.
+   </tei:p>
+   <tei:p>
+    Možno práve to som chcel počuť tejto noci, hoci sme všetci dobre   vedeli, že bude dlhý, ako kremeň tvrdý boj.
+   </tei:p>
+   <tei:div type="chapter">
+    <tei:head>
+     Banská Bystrica, 28. augusta 1944.
+    </tei:head>
+    <tei:p>
+     Keď som odcestoval z Bratislavy, pieklo slnce. Keď som došiel do   Bystrice, lialo sa. Legitimovali ma v Leopoldove, v Trnave a,   prirodzene, vo Zvolene. V Trnave dvaja gardisti a dvaja FS. Cestovať   v poštárskej rovnošate a na ročný lístok sa osvedčilo. Blahorečil som   Samovi za myšlienku. Zakaždým sa nazdávali, že idem do služby   neďaleko, alebo že sa z nej vraciam. Iba raz som musel zmeniť vagón.   Nastúpili kolegovia. Aj iní poštári cestujú po svete.
+    </tei:p>
+    <tei:p>
+     Celou cestou som si opakoval odkaz. Mal som odjakživa slabú pamäť   na súvislé texty, celá Grafia to o mne vedela; hoci sadzač vlastne po   celý život ani iné nerobí iba texty číta a sádže. Vo vozni si   mysleli, že sa potichu modlím. Kufra sa nedotkli, hoci v Trnave   prekutali celý vlak. Čo môže mať poštár v kufre? Bol som v   službe.
+    </tei:p>
+    <tei:p>
+     Nepríjemnosti sa začaly v Bystrici. Oravec nebol doma. Stalo sa to   po prvý raz. Bolo to trojnásobné nešťastie. Chatu na Panskom diele   som poznal iba približne. Z hlásení a s mapy. Teraz bolo nepochybné,   že ta musím zájsť sám. A potom, Oravec mal pre mňa šaty. V poštárskom   som sa predsa nemohol vybrať do Španej Doliny. V Bystrici môže byť na   desať poštárov. Istotne všetkých poznajú po okolí. Preklial som   Samovu myšlienku.
+    </tei:p>
+    <tei:p>
+     Zháňal som Oravca a stratil som pol dňa. Večer hovoril Mach v   rozhlase. Obidve stanice boly dôkladne obsadené a prekutávali. Vybral   som sa peši. Strácal som sa v tme pre tmavobelasé šaty a Sama som   úprimne chválil.
+    </tei:p>
+    <tei:p>
+     Na mýte pred medeným hámrom stála silná stráž, väčšinou v   uniformách PS. Poštára si nevšímali, poštár roznáša poštu. Masíroval   som pokojne na Kostiviarsku. Tam čakali dvaja vojaci rovno pod lampou   a za ušami sa im blyšťaly bodáky. Keď ma zavolali, išiel som ako by   nič a zanastrážoval som, len tak dunelo. Tejto chyby sme sa často   dopúšťali.
+    </tei:p>
+    <tei:p>
+     — Dobrý večer, — oni. — A kdeže, pán Longauer, tak neskoro. — Boli   miestni, patrolovali. Potom zistili, že nie som ich pán Longauer.   Chceli legitimáciu. Potom chceli vedieť, kam idem a prečo, a prečo   práve teraz, až z Bratislavy.
+    </tei:p>
+    <tei:p>
+     Po hradskej prešlo niekoľko ťažko naložených aut. Na nákladoch   sedely postavy. Stráž hľadela za autiakmi.
+    </tei:p>
+    <tei:p>
+     Išiel som do Dolného Harmanca, mal som tam robotu. Presne: Išiel   som navštíviť Mateja Hrica. (Matej Hric bol od jari v Ilave, ale bol   tam ako František Zeman.)
+    </tei:p>
+    <tei:p>
+     — Aha, — povedali vojaci. A potom: — No tak teda poďme.
+    </tei:p>
+    <tei:p>
+     Jeden z nich zostal na hradskej. Druhý ma viedol hore dedinou na   Svätý Jakub. Netušil som, že vojakov takto nasadili do strážnej   služby.
+    </tei:p>
+    <tei:p>
+     Rozhodol som sa, že sa teraz v nijakých okolnostiach nebude   strieľať. Išli sme ustavične medzi domami a plotmi. Lampy boli husto.   Priam cvendžaly o bajonet sprievodcu.
+    </tei:p>
+    <tei:p>
+     Keď sme vyšli z dediny, pozrel som na vojaka a bajonet poskočil. —   Toho Hrica dobre poznáte, čo? V Harmanci sa vyznáte, čo? A Antona   Michníka poznáte? Hricov sused. Čo? — prisviedčal som ostošesť a   potom som sa zahanbil, keď sa mládenec usmial. Nikdy som ho nevidel,   ale bol to nepochybne Anton Michník...
+    </tei:p>
+    <tei:p>
+     Išli sme hradskou bez slova. Raz som siahol do vrecka a on len   povedal: — Nebláznite, netreba. — Ale vyťahoval som vreckovku. Omotal   som si rukoviatku kufríka. Zadierala sa mi do dlane. Keď sme vyšli na   asfaltovú, povedal: — Dajte sem ten kufrík. — Pred nami stála hradba   gardistov a FS.
+    </tei:p>
+    <tei:p>
+     Môj vojak zavolal: — Nič nového?
+    </tei:p>
+    <tei:p>
+     A jeden z gardistov: — Čo to máte? Spojku?
+    </tei:p>
+    <tei:p>
+     A môj vojak: — No ba, spojku! Horkýže: Do Bystrice vláčil plný   kufor masla. Tak ho dám žandárom na ulmanskej strážnici, nech si naň   posvietia. On je od nás, z Harmanca, Maco Hric, nepoznáte? A mňa už   aj tak mrle žraly pri Kostiviarskej.
+    </tei:p>
+    <tei:p>
+     Pochodovali sme veľmi rýchle, kufrík sme niesli striedavo. Pred   polnocou sme došli k ulmanskému viaduktu. Tu odbočuje strmá   serpentína na Španiu Dolinu.
+    </tei:p>
+    <tei:p>
+     — Toľko ľudí chodí za tým našim Hricom, už tam musí byť hotový   hotel. V tom kufre máte Ideixku?
+    </tei:p>
+    <tei:p>
+     Mal som šedivú, krátkovlnnú, armádnu.
+    </tei:p>
+    <tei:p>
+     — Beťárska, — obzeral si červené prsty a dlaň. A potom ticho: —   Hrica zabili, v júli.
+    </tei:p>
+    <tei:p>
+     A ďalej: — Idete neskoro. Hovoril Mach. Už budú všetci v dedinke.   Na Panský sa neobťažujte.
+    </tei:p>
+    <tei:p>
+     Povedal som: — Dovidenia!
+    </tei:p>
+    <tei:p>
+     A on povedal: — Česť!
+    </tei:p>
+    <tei:p>
+     Na úsvite som bol hore. Našiel som Oravca i ostatných. Hovorili,   že som zaspal storočie. Kým som bol na ceste, musely zmeniť   dispozície. Ráno som videl, že celá dedina je ako kasáreň. Iba ja som   tu trčal v zmoknutom belasom poštárskom: Strane som v duchu vynadal   Samovi.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Zvolen, 30. augusta 1944.
+    </tei:head>
+    <tei:p>
+     Už keď som preberal motorový vlak, išiel som z kože vyskočiť, taký   som bol nervózny. Všetko ma jedovalo a bol som ako na ihlách. Mali   sme meškanie, chystalo sa na búrku, ženu a chlapca som mal v Žiline   pri sestre a všetko ako by viselo na vlásku. Rozkaz som už mal, ale   súpravu som predsa nemohol iba tak nechať stáť a hybaj.
+    </tei:p>
+    <tei:p>
+     A teraz ešte toto: Dva tucty Nemcov vo vagóne, dva tucty   vyglancovaných oficierov od generála nadol, štáb a či misia a či čo.   Rusi vás ženu z Rumunska, čo; chvost vám posolili a vy kadeľahšie do   Berlína, hm?
+    </tei:p>
+    <tei:p>
+     Od Tomášoviec po Zvolen sa nestalo nič. Iba som tŕpol a hútal   celou cestou, čo urobím. Lebo rozumelo sa akosi samo od seba, že čosi   treba urobiť. Stál som v kabíne sám, počúval som, ako pracuje stroj,   a díval som sa na koľajnice pred seba. Vedel som, že dnes nenarazíme   ma nálož, túto trať čochvíľa budeme potrebovať. Díval som sa na   koľajnice, ale videl som nemeckých oficierov, bodaj ich, ako sa vezú   v mojej motorke a dúfajú, že zajtra budú doma.
+    </tei:p>
+    <tei:p>
+     Nuž to bolo v každom prípade trochu priveľa. Ak ich doveziem, do   smrti si o mne budú myslieť, že som rozum potratil, a vnúčatá sa na   mne budú zabávať ako my na ujovi Vendelovi, čo bujaka kúpili na   detvianskom jarmoku a vola si doviedli na lazy.
+    </tei:p>
+    <tei:p>
+     Vo Zvolene som sa pýtal sprievodcu, čo robia. Povedal, že nič, že   sa radia. Raďte sa, myslím si, raďte sa, frajeriská; bol jeden a ten   sa veľa radil. Ale som ešte stále nevedel, čo s nimi: Iba som vedel,   že ich nesmiem doviezť na Vrútky, ani keby šidlá padaly.
+    </tei:p>
+    <tei:p>
+     Keby ešte sedeli v druhom vozni: Čo tak — spustiť ho dolu   harmanskými tunelmi. Ale — plná motorka civilov a koľko našich ľudí   medzi nimi! Raz som si želal: už aby som bol v Žiline pri svojich, a   raz zasa: bodaj sme zaviazli dakde v horách a nemohli s fľaku. Tí by   vyvádzali.
+    </tei:p>
+    <tei:p>
+     A tak sme len jachali od Zvolena do Bystrice a nič mi zaboha na um   nesišlo. V Bystrici sme už o šesť minút dlhšie stáli, ako sme mali.   Povedal som sprievodcovi: — Čo, tak sa stratiť, hm? — Zakýval hlavou.   Na hodinku majú vraj Tri duby. — A nevieš, koho vezieš. — Myslel tým   ostatných. Všade statočne hlásil, koho vezieme.
+    </tei:p>
+    <tei:p>
+     Cestou na Diviaky sa zasa nič zvláštneho nestalo. Iba odrazu pri   Štubni: Ani jediného hákového kríža nad dedinou. To už bolo aj   zvláštne.
+    </tei:p>
+    <tei:p>
+     Naproti tomu v Štubnianskych Tepliciach vialy dve československé a   dve červené zástavy. Ej, bysťu!
+    </tei:p>
+    <tei:p>
+     Počúval som, ako hrajú kolesá. Videli? Nevideli?
+    </tei:p>
+    <tei:p>
+     Za mnou cvakly dvierka. — Videl si zástavy? Ak ich zazreli tamtí,   šípia, že sa dačo robí. Čuješ? — hovorím hlasnejšie, lebo sme zašli   do údolia a hučalo.
+    </tei:p>
+    <tei:p>
+     Za všetky tie roky nenaučil som sa rozoznávať nemecké šarže. Tento   mohol byť poručíkom. Mladý bol, sopliak, a červenovlasý. Po celý   život mi červenovlasí šli na nervy. Je o tom také porekadlo,   tuším.
+    </tei:p>
+    <tei:p>
+     Stál rozkročený v rajtkách, iste sa chcel kolembať odpredu-dozadu,   ale vozeň ho hádzal, ako chcel, nuž sa mu nepodarilo. Díval sa mi na   prsty. Zpočiatku som sa dal robiť všelijaké pohyby, ktoré nemohol   rozumieť, páčok som sa dotýkal, hore-dolu omaciaval všetko možné, aj   teplomer a hodinky, aby som ho poplietol, reku, čo ma tu budeš   kontrolovať. Zbadal, že sa mu vysmievam. No jeho zaujímalo zrejme iba   jediné: Aby som nehamoval, nezastavoval v tomto kraji, kde visia   partizánske zástavy. Pre toto mi ho poslali na krk, frajeríka   zeleného.
+    </tei:p>
+    <tei:p>
+     Dnes viem, že o takýchto pánikov nešlo. Moji kamaráti na Vrútkach   vtedy už dobývali Sláviu, v ktorej sa opevnili feldžandarmi. Francúzi   sa cez Martin hrnuli na Strečno a spievali tú svoju marsejézu.   Jegorovovci sostupovali na Brezno a sklabinskí obsadzovali Turiec.   Môj fičúr a ja sme v tej chvíli boli boční — konečne popravde som už   mal byť v jednotke.
+    </tei:p>
+    <tei:p>
+     Jednako: Ako by mi po všetky roky bol ubližoval práve tento   ulízaný červenovlasý poručík, ako by mi od tridsiateho deviateho   práve tento panský ukrutnícky ksicht bol pil krv, ako by práve proti   nemu boly vychádzaly naše noviny na Vrútkach, ako by ma práve on bol   dal zháňať a šikanovať špicľami a ako by on bol dal všetky rozkazy na   popravy v posledných rokoch. A napokon — všelijako sa ma   naotravovali, ale tento bol prvý, čo chcel dozerať na mňa, keď stojím   pri stroji, a dívať sa mi na prsty. Všetko má medze! Dostal som   nehoráznu chuť obrátiť sa a nabúrať mu ten jeho ušľachtilý nos. V   Príbovciach bola tá chuť toľká ako ospanlivosť po   osemaštyridsaťhodinovej službe. Ako sa človek vtedy díva na posteľ,   tak som sa díval naňho. Nedalo sa odolať, päť rokov človek smädil za   touto chvíľou.
+    </tei:p>
+    <tei:p>
+     Na jednej strane: Dá sa do vresku, pribehnú ostatní. Alebo prosto   vytiahne revolver a budem mu musieť dolámať kosti. Na druhej strane:   O chvíľočku ich budeme mastiť húfne. A konečne: V Žiline čakala Dora   a chlapec a ešte som sa pre všetky prípady chcel rozlúčiť.
+    </tei:p>
+    <tei:p>
+     Svrbelo ma celé telo, keď sme vchádzali do Martina. Tak mocne som   zahamoval od hnevu a od ľútosti, že hitlerčíka pričapilo o prednú   stenu ako muchu o sklo.
+    </tei:p>
+    <tei:p>
+     — Nicht bremsen! Weiterfahren!
+    </tei:p>
+    <tei:p>
+     Ako som ho zacítil v blízkosti, naparfumovaného, napomádovaného,   zabudol som razom na všetko. Vajterfárn, miláčik, ták, vajterfárn.   Päť rokov mi rozkazujete, že ani neviem, čí som, ale tu, tu som   svojím pánom. Rozumieš, ty vajterfárn?!
+    </tei:p>
+    <tei:p>
+     Ani som sa veľmi nerozohnal. Odletel ako panák na strunách a   smiešne sa učupil v kúte. Pretože súprava zastala, zostalo odrazu   tichučko. Na niekoľko sekúnd mi bolo, ako by som bol urobil hlúpy   krok, keď po robote hrám v šachy s Beňovským z výhrevne.
+    </tei:p>
+    <tei:p>
+     A tu v tom tichu vidím, ako z vozňa vystupuje generál, za ním   ostatní oficieri až po pucákov. Pred vlakom ich víta dôstojník a už   ich aj odvádzajú všetkých. Náš dôstojník! Vypučil som oči. Ale vtedy   som poznal Cyrila, Fera a ostatných a videl som na peróne ďalších s   automatmi. Svitlo mi, že ich odvádzajú pokojnou cestou. Správne.   Zatriasol som mládencom, len tak v ňom zahrkalo. — Vystupovať!   Vajterfárn! — Ale ležal tam ako kôpka rôsolu.
+    </tei:p>
+    <tei:p>
+     Pre niekoho sa začalo povstanie, keď ho vyhlásili v Bystrici. Pre   niekoho, keď vyhlásili Republiku a vylepili vyhlášky. Pre mňa sa   začalo, keď som ovalil toho chlapca. Pravda, mohol som si pre prvý   úder obstarať výdatnejšieho chlapa. Ale človek často nemá kedy   vyberať.
+    </tei:p>
+    <tei:p>
+     Hlavná vec, že som v Martine hamoval.
+    </tei:p>
+    <tei:p>
+     Potom išlo všetko, povedal by som, bez hámov. Vlak už nepustili na   Vrútky, ráno sa vrátil do Bystrice. Čatloš ohlásil, že nás obsadzujú   Nemci. Z Bystrice začali vysielať výzvu. Tunely pod Strečnom sme   zatarasili. Držali sme celé stredné Slovensko. Začaly sa akcie. S   Dorou sa uvidíme až po tom všetkom.
+    </tei:p>
+    <tei:p>
+     Dvadsiateho ôsmeho ráno bolo z kasárenského dvora počuť salvu.   Myslel som na toho červenovlasého. Veľmi pyšne sa rozkračoval v   rajtkách. I blondíni, černovlasí a gaštanoví.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Magurka, 8. septembra 1944.
+    </tei:head>
+    <tei:p>
+     Keď sme vyfasovali náboje, prišiel ku mne čatár. Díval sa na mňa   chvíľu a potom sa opýtal, ako sa volám, odkiaľ som, koľko mám rokov a   čo robím takto, keď nie je povstanie. Povedal som mu, že Fraňo   Čambal, že chodím na priemyslovku v Bystrici, hoci som z Mikuláša, a   že šestnásť. Trochu ho to prekvapilo. Ešte sa opýtal, či som sa   prihlásil dobrovoľne. Napokon sa ma veľmi vážne opýtal, či viem, o čo   ide. Povedal som: Viem. Potom sme nastúpili na dvore, so deviati.
+    </tei:p>
+    <tei:p>
+     V noci sme na autiakoch viezli tridsiatich dvoch do Nemeckej   Ľupče. Sedeli sme ticho a v rukách som mal pušku. Jeden z nich   povedal: Páni, dajte pozor s tými puškami, lebo tu ešte niekoho   poraníte. Ja sa vám zaručujem, že nikto neujde.
+    </tei:p>
+    <tei:p>
+     V Nemeckej Ľupči sme ich zavreli na mestskom dome. Čatár mi   rozkázal strážiť a povedal, že zastrelia mňa, ak ujdú. Celú noc   chodili na záchod. Kým som bol s tým na záchode, mohli ujsť tí, čo   ostali, a keby som bol zostal pri nich, mohol mi ujsť ten na tom   záchode.
+    </tei:p>
+    <tei:p>
+     Ráno sme ich viedli proti potoku hore do údolia a vtedy som si   odrazu spomenul na mamu a na to, že som v popravčej čate.
+    </tei:p>
+    <tei:p>
+     Čatár sa ma opýtal, či viem, o čo ide, a ja som vedel. Ale akosi   som nerátal s mamou.
+    </tei:p>
+    <tei:p>
+     Napredku išiel čatár a za ním tridsiati dvaja. Celkom ticho išli a   ja som vedel, že teraz už aj oni vedia, že ich zastrelíme. Ale sme   kráčali ako na výlete, iba ako by sme už boli trošku ustatí.
+    </tei:p>
+    <tei:p>
+     Začal som si opakovať maminým hlasom a maminými slovami, že môj   syn je v popravčej čate. Potom som si hovoril: Chytili ich pred   Teplou, s guľometom a granátmi. Strieľali na našich zo zálohy. Bol   súd a je vojna. Je revolúcia. Len ako to povedať mame, aby   rozumela.
+    </tei:p>
+    <tei:p>
+     Tridsaťdva ľudí, vraví, a môj syn!
+    </tei:p>
+    <tei:p>
+     Tridsiati dvaja Nemci šli predo mnou. Automat ma obletoval na   remeni, tak som sa bol tešil, ako si z neho parádne zastrieľam. I ja   som si nevdojak začal vravieť: Tridsaťdva ľudí. Hoci som čatárovi   povedal, že viem, o čo ide, a hoci som i vedel.
+    </tei:p>
+    <tei:p>
+     Včera som im pre tmu nevidel do tváre, teraz boli chrbtom. No   predsa som začal rozoznávať, ktorý je ktorý. Predo mnou išiel   inžinier Berger z Goering Werke, vysoký, vo svetri, so šildovkou, to   on dal dvesto štyridsať chlapov naložiť na nákladné autá a odviezť do   sliezskych baní, vraj chceli štrajkovať. Vedľa neho išiel pán   profesor Schweitzer, veľmi jemný a citlivý pán, sto šesťdesiat kníh   spálil v peci ústredného kúrenia gymnázia. Vedľa neho išiel ten z   textilky, akože sa volá, každý o ňom vedel, že zadržuje dievkam   platy, musely si po ne k nemu chodiť na byt. Pred ním išiel Werner   Brandt, v uniforme, taká nervózna palička, v rajchu študoval, na   počiatku prázdnin sa chvastal, že v prvom semestri pitval živého   človeka, pečienku vybral zdravému chlapovi, aby sa pocvičil, teraz   preberá prstami vo vzduchu, ako by na fujare hral; počkaj, dohráš.   Vedľa neho Weiss, SS alebo SD alebo čo bol, bol na východnom fronte,   kántriť ľudí, u Folprechta o tom rozprával pri víne, vraj   himlfártkomando, najprv veľkú jamu, potom privezú ľudí, tých pekne do   naha, šaty pekne na kôpku, sem topánky, sem kravaty, tisíc topánok,   tristo kravát a potom na dno jamy telo k telu a Weiss: ratatata. A na   mŕtvych a polomŕtvych vrstva živých a Weiss znova: ratatata, a na   nich ďalšia vrstva naháčov a tak až po okraj jamy. A teraz tu ide a   kríva. A vedľa neho Alfréd Schuschke. To je pokojný civil. Nikdy   nikomu neublížil, obchoduje s obrazmi. Iba raz ukazoval úhľadnú   aktovku, ktorú dostal od švagra, vraj, z jemnej ľudskej kože,   siahnite si. Vedľa neho — toho nepoznám. Ani toho pred ním   nepoznám.
+    </tei:p>
+    <tei:p>
+     Nepoznám? Kristepane, mamka, veď raz by aj z teba boli spravili   aktovku.
+    </tei:p>
+    <tei:p>
+     A tu sa odrazu Weiss rozbehne a rovno do lesa. So päť automatov sa   ozvalo naraz. Ale ja viem, že moje guľky ho zosiahly prvé. Úplne som   cítil, ako sa mu, beštii, zarývaly do zadku.
+    </tei:p>
+    <tei:p>
+     Ako Weiss utekal, utekal priamo proti mame. Tento automat — ten je   na maminu obranu.
+    </tei:p>
+    <tei:p>
+     Čatár kričal, aby sme išli ďalej. Automat sa mi už nehojdal sem i   ta. Držal som ho silne ako v kliešťach. Išli sme ďalej pod horu nad   Nemeckou Ľupčou.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Priestor Oberwagtaal, 9. septembra   1944.
+    </tei:head>
+    <tei:p>
+     To, čo nám vyviedli títo Slováci, je prosto najhanebnejšia zrada a   ja v takýchto prípadoch poznám jedinú odpoveď: likvidovať do   posledného muža. Celá tá stupídna rozprávočka o spojenectve a   vernosti Slovákov bol nebezpečný výmysel a mohol nám prísť draho.   Teraz je, pravda, neskoro hádzať s lietadiel namiesto bômb   slabomyseľné letáky, aby sa vrátili a vzdali. Nenávidia nás a našu   brannú moc ako Rusi, Česi a všetka tá háveď. Nie je bez istej   zábavnosti dobývať meter za metrom zem, nad ktorou veje naša zástava   a ktorá je v podstate naša.
+    </tei:p>
+    <tei:p>
+     Príšerný národ. V priestore Schtrba pripojila sa k nám jednotka   „slovenskej armády“, vraj proti partizánom. Nesveril by som im ani   signalizačnú pištoľu, a mali ťažké guľomety. Keď sme na trati   Oderberg-Kaschau narazili na rebelov, začali do nás páliť odzadu,   takže sme sa museli stiahnuť skoro úplne bez zbraní. V priestore   Kesmark priletelo naše M-110 a keď sme mu narýchlo chceli upraviť   pristávaciu plochu, zasypalo nás ručnými granátmi a štyrmi   päťdesiatkilovými bombami. Tri z nich nevybuchly, iste boly vyrobené   v protektoráte alebo v generálnom gubernáte a odsabotované, jednako   mi poškodily kamióny, pancierové auto a tiež mnoho mužstva. Od tej   chvíle ich odstreľujem, kde ich stretnem, a vydal som v tom smysle   rozkaz. Strieľame do okien v dobytých dedinách a kde vidíme ľudí na   poli, spúšťame paľbu. I na ženy a deti, ktoré vykopávajú zemiaky pri   Wage: O minútu neskôr by možno ony pálily na nás.
+    </tei:p>
+    <tei:p>
+     To sú zaiste drastické opatrenia, ale to je práve to jediné, čo   bolo mojou povinnosťou. Nemýľ sa, sme v nepriateľskej krajine. Ty si   bol na Kréte a Edgar stratil v Afrike sluch, jednako tvrdím, že si   neviete predstaviť, s čím sa tu stretám na každom kroku. Tu bojuje   všetko, front-nefront. Niekedy sa človek pýta, aká sila ich to drží   na nohách?! Možno to, že bojujú všetci. Raz som sa opýtal zajatca,   koľko ich je — povedal, že so sovietmi dvesto miliónov. Ja som   prívrženec totálnej vojny, no toto je niečo iné. Keď som sa pýtal   zajatca na polohu útvarov, povedal, že tu nebojujú útvary, že tu   bojuje ľud. To je, pravda, fráza a toho zajatca sme popravili, ale   musíme sa poučiť. Rozumieš mi?
+    </tei:p>
+    <tei:p>
+     V Afrike nastupoval nepriateľ do otvoreného útoku a Edgar ho videl   a pálil naň: Potom postupoval alebo ustupoval, podľa pomeru zbraní a   síl. Na Kréte si videl alebo tušil strelcov a vedel si, že ťa zabijú,   ak ich nezničíš. No obaja ste mali jasno, kto je s vami a kto proti   vám, a s tými prvými ste išli proti tým druhým. V tejto prekliatej   krajine každá dlaždica vybuchne a každá lávka sa pod tebou sosype.   Lekár, ktorý ťa obviaže, pokojne ťa zavraždí. Sprievodca, ktorého   dodá tunajší veliteľ, zavedie ťa do obkľúčenia, než ho dáš   zlikvidovať. Pre toto nemožno čakať, kým niečo urobia. Treba hneď   páliť, na stretnutie, takrečeno než otvoria ústa. A na všetkých. Pri   Königsfelde sme stretli starčeka-idiota s vozíkom, a dve moje motorky   vyletely do vzduchu! To sa Edgardovi v Afrike nemohlo stať.
+    </tei:p>
+    <tei:p>
+     Som ôsmy rok v zbrani a, ako vieš, stál som proti poschodovým   tankom i proti nórskym horám. Ale ešte som nestál proti diletantskej   armáde, ktorá sa ti vzbúrila v tyle, ešte som nestál proti prekrásnej   pokojnej jesennej krajine, v ktorej to priamo zapácha mojou smrťou.   Uprostred krajiny, o ktorej mi do ohlúpnutia navrávali, že je   priateľská a verná, a stovky kilometrov za frontom, na pol druha dňa   poštou od domova.
+    </tei:p>
+    <tei:p>
+     Aby som nezabudol, dostal som Hildin a Ernin list, povedz im, že   som mal veľkú radosť. A prosím ťa, vysvetli im vhodným spôsobom, že   je absolútne nemožné, aby som teraz zháňal výšivky a kožušteky. Možno   potom, až sa toto všetko skončí — len tak pre zábavu som si tu iste   nedal zdecimovať prápor, to ti nemusím zdôrazňovať. Ale nebude to do   budúcej soboty, ako som písal, hoci tí svinskí psi väčšinou ani   nemajú riadny vojenský výcvik.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Turč. Sv. Martin, 12. septembra   1944.
+    </tei:head>
+    <tei:p>
+     Tak si tu teda ležím v perinkách a slnce svieti oknom a myslím si,   že som sa zbytočne kajal. Ale človek je už taký, že sa niekedy hanbí   za veci, za ktoré sa vlastne ani nemá príčinu hanbiť. Myslel som si:   Septimán, a nerozumel by po francúzsky? A oni mi stále niečo vraveli,   keď sa dozvedeli, že som študent. A to poznáš: Človek prikyvuje, ako   by rozumel, a za nič na svete by sa nepriznal, že nerozumie vôbec   nič.
+    </tei:p>
+    <tei:p>
+     Prvý, Jacques, sa mi prihovoril, keď sme ležali vo vode pod   železničným mostíkom a keď sa po prvý raz zjavily tanky. Chytil ma za   rukáv a ukazoval mi ich. Ako krajinku, že si ju ide vyfotografovať   pre album. Nič som nerozumel, ale ako by bol vravel: Pozri, aký pekný   pohľad, utešený, čo? Počkaj, to si chytím do objektívu. A čakal a   gustíroval. Keď prišly bližšie, namieril pancerfausta a mne sa   videlo, že zaostruje, dobre že mi nepovedal, aby som sa ta išiel   postaviť ako popredie, aby reku obraz mal hĺbku. Keď sa tanky   obrátily a prášily preč, zas ma chytil za rameno a vravel dačo a   gustíroval horiaci tank. A zas ani za svet porozumieť, čo vraví, iba   som kýval.
+    </tei:p>
+    <tei:p>
+     Keď potom tanky prišly po tridsiaty raz, už ich nemal čím   fotografovať pre album. Už ma nevzal za ruku a nešeptal, kričal, lebo   tanky už boly celkom blízo. Keby som bol vedel, čo chce, bol by som   mu povedal, aby nešalel, ale on už bol vonku a niesol tanku tucet   odistených krupov ako buketu. Vybuchly pod húsenicou, z tanku sa   zadymilo a Jaques sa rozplynul ako by sme boli v kine a nie pod   Strečnom. Premýšľal som odušu, či sa v tom, čo mi povedal,   nevyskytovalo liberté alebo fraternité, aby som mohol povedať, že   pred smrťou volal to a to, a zas nie a nie sa rozpamätať.
+    </tei:p>
+    <tei:p>
+     Druhý bol Frangois a keď odpravil tretí tank, celé Strečno začalo   naňho vykrikovať: Fransoa, Fransoa! Mám taký dojem, že si podaktorí   mysleli, že François znamená Francúz, a nie František. Keď na chvíľu   prestaly chodiť tanky, François vyliezol zo zákopu a celému frontu   ukazoval nejakú ženskú, ktorú mal v pugilári. Keď potom prišly, bol   na niektorom inom úseku a popred zákopy utekal na svoje miesto. Ale   raz neprišly dlho a potom neprišly tanky, ale Štuky. Nikdy by som si   nebol myslel, aký rozdiel je medzi Štukou v Signáli a nad Strečnom. A   najmä s bombami je to celkom iné.
+    </tei:p>
+    <tei:p>
+     Keď to tak išlo druhý deň, ležali sme na úbočí a práve napršalo na   nás hliny, že nám nad hlavami mohli orať. A keď najhoršie cupkalo,   odrazu François vyskočí, reve čosi na mňa, prirodzene, zas neviem čo,   zas ani zaboha spomenúť, ako sa povie po francúzsky, aby nešalel, a   už stojí ako nejaké strašidlo a páli na tú Štuku z automatickej   pušky, čo mu shodili do Sklabine. A za ním všetci vstávajú zpod hliny   ako vlani na latine v Ovídiovi, i ja, a všetci pálime na Štuky, čo sa   rútia proti nám, všetci z takých úbohých flintičiek, a je to, ako by   sa táto prsť, sama táto zem bola najedovala na tie hučiace obludy tam   hore.
+    </tei:p>
+    <tei:p>
+     Nepamätám sa, ako padol François, myslím, že bol medzi tými, čo   vyskakovali na tanky, keď sme už mali iba revolvery, a cez strelné   škáry odpravovali bošov. Iba to viem, že na mňa často hulákal   nesrozumiteľné veci, o sebe, o nepriateľovi a o generáloch   (vyslovoval ich žénraltrétr). A takto by som mohol spomínať ešte   hodinu, ako na mňa vyrevúvali a ako som raz nevedel čo. Do hája s   celou našou stredoškolskou francúzštinou.
+    </tei:p>
+    <tei:p>
+     Iba o jednom ešte, volal sa Jacques, ako ten prvý. Akosi tichý bol   a ani sa veľmi napredku nevyskytoval, dlho som ani nevedel, že je   Francúz. Iba keď nás obišli a keď už prišiel rozkaz na ústup,   rozprával som sa s ním. On bol jediný, s ktorým som sa naozaj   rozprával.
+    </tei:p>
+    <tei:p>
+     Všetci sa už chystali na odchod, keď ma pri ňom složili. Lebo   vtedy ma už niesli. Naši mu čosi vraveli, ale nerozumel. Odhodlal som   sa a povedal som mu, že ideme na Vrútky. To vie svätá Terezka, ako   som mu to povedal, bolo mi, ako by som bol matúru složil z   francúzštiny. Ale rozumel. Díval sa na mňa, potom ta, odkiaľ chodili   bošovia, potom zas na mňa a iba jedno slovo mi povedal, jednu   slabiku. Nikdy som ju nepočul, ale tak ju povedal, že som hneď vedel,   čo znamená.
+    </tei:p>
+    <tei:p>
+     Ten Fransoa tam teda tiež zostal s puškou a granátmi. Neviem,   dokedy a či vôbec. Zrejme si nevedel predstaviť, že by bošovia smeli   prejsť pod Strečnom, kde zostali toľkí Jacquesovia a Françoisovia. A   Kubovia a Ferovia — nikto z nás si to vlastne nevedel predstaviť.
+    </tei:p>
+    <tei:p>
+     Mňa odšupovali sem do Martina do špitála a teraz mi nahovárajú, že   sme zas pri Strečne, hoci ja dobre viem, že sú už na Vrútkach či   kde.
+    </tei:p>
+    <tei:p>
+     Ako som tu teda ležal, rozumoval som, že pravdepodobne všetci mali   nejaký provensálsky alebo bretónsky prízvuk, ktorý nás v škole   neučili. Ale najmä som prišiel na to, že som vlastne všetko   rozumel.
+    </tei:p>
+    <tei:p>
+     Lebo tie dôležité veci, tie mi Jacques nepovedal vo vode pod   traťou, ale v tej chvíli, keď mu bukéta vybuchla v rukách. Keď   François vstal a pálil Šťukám do čiel. Keď ten druhý zostal na poste.   Keď išli proti pancierom dobre že nie gumipuškami. A bez bretónskeho   prízvuku.
+    </tei:p>
+    <tei:p>
+     Človek si odrazu uvedomí, že má už iba jednu nohu, a zúrivosť ho   pochytí, že tu musí vylihovať.
+    </tei:p>
+    <tei:p>
+     Nuž ale aspoň viem, aký som ja báječný francúzštinár. Treba to   povedať nášmu starému, aby mi to zarátal pri klasifikácii.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     RAF — BMM — Slovakia, 12. septembra   1944.
+    </tei:head>
+    <tei:p>
+     A pokiaľ ide o Čechov (či ako si tu hovoria, o „Slovákov“),   hovorím, vôbec nie sú takým divým kmeňom, ako mi navrávali chlapci   pred odletom. Naopak, mnohí fajčia naše cigarety, poznajú naše   filmové hviezdy, s poniektorými sa dohovorím i po anglicky a volajú   na mňa Hullo, ako by sme si boli bývali predstavení. Mnohí chodili   oveľa dlhšie do školy ako my, a to ma veľmi prekvapilo. Krajina je   tiež celkom mierna a vlastne civilizovaná, čosi ako náš Lancashire.   Mesto, v ktorom žijeme, je obyčajné malé nemecké mesto so starými aj   dosť novými domami, ale má všetko, tečúcu vodu, elektrinu, biografy a   dancingy. Clarc G. Horowitz, ktorý Ti doručí tento list (pristál asi   tridsať míľ odtiaľto, priviedol z Londýna niekoľko veľkých zvierat,   tuším, ministrov, pravda, nie našich, iba českých), slovom Clarc (je   zo 14. RAF-regimentu, po celú zimu lietal nad Berlínom, dostane asi   D. F. C. prvej triedy, môžeš byť k nemu milá, hovorím, po istú   hranicu), tento Clarc povedal, že by si tu človek vlastne ani   nemyslel, že je na Balkáne. V každom prípade je to tu iné, než to   bolo pri Tobruku a v štyridsiatom prvom v Grécku.
+    </tei:p>
+    <tei:p>
+     Predovšetkým — nie sú tu naši chlapci. Neviem, prečo nie sú tu,   keď tu bijú Fritzov, presnejšie povedané, neviem, prečo sme tu my,   keď oni nie sú tu. Pýtal som sa seržanta Barcalayho (poznáš ho, keď   som bol vlani na dovolenke, predstavil som Ti ho u Wooda v suteréne,   taký veľký a holohlavý a vždy kričí) a seržant Barcalay mi povedal,   že ma po tom nič, aby som si konal robotu.
+    </tei:p>
+    <tei:p>
+     Konám si robotu tri razy do dňa, po dvadsiatich minútach, máme tu   dobrý posluch, lepší, ako som mal v Bari, dorozumiem sa s našimi, ako   by sedeli v susednej izbe a pili čaj, iba že ešte ani raz neprijímal   Frank a nemohol som Ťa dať pozdravovať. Nemal by som to písať, ale   nepáči sa mi veľmi, čo vysielam. Okrem situačnej zprávy toho ich   veliteľstva, ktorú dávam raz denne, vysielam vlastne samé šifry a to   vieš, ako to človeka baví, ťukať do kľúča veci, ktoré nerozumie.
+    </tei:p>
+    <tei:p>
+     A potom aj iné veci sú trochu podivné. Niekedy ani neviem, na   ktorej strane sme vlastne. Po celú vojnu sme bojovali proti Fritzom,   a teraz sa už asi dva razy stalo, že naši nemali radosť alebo aspoň   nemali priveľkú radosť, že ich tunajší bijú, raz keď prišly zprávy od   Stratchno a raz od Talgaart. Pýtal som sa seržanta Barcalayho a   seržant Barcalay mi povedal, že nie je každý starosta, kto má   cylinder, a aby som konal svoju robotu. Neviem, čo mal na mysli, či   naše spojenectvo s týmito tu.
+    </tei:p>
+    <tei:p>
+     Hovorím, konaj svoju robotu: No niekedy sa stane, že dostaneme od   Čechov telegram a ten telegram uloží náš cap v zásuvke a vôbec ho   nepošlem. Alebo sa stane, že pošlem telegram a zapíšem si číslo ako   vždy a naši nepošlú odpoveď, a už asi na dvadsať telegramov nemám   odpoveď. Nemal by som Ti to všetko písať, ale kedykoľvek sa opýtam   seržanta Barcalayho, nikdy sa nič nedozviem a Clarc Ti tento list   osobne odovzdá a nikto ho neuvidí a Ty ho spáľ.
+    </tei:p>
+    <tei:p>
+     Trochu sa mi čnie za Brigstock a za Mill-Road a Corner-House a za   všetkým, hlavne za Tebou a dúfam, že s nikým nechodíš na večeru.   Najmä sa mi čnelo, keď som videl našich vo vzduchu. Leteli z   Talianska bombardovať poľské uhlie, asi päťdesiat ich bolo, lietajúce   pevnosti, báječné bezpečné a biele. Vtedy sa mi čnelo za našimi a   naraz som si pomyslel, prečo vlastne nepokropia Fritzov, aspoň   máličko, veď by ich to nič nestálo a týmto tu by sa uľavilo, veď   nemajú ani ťažšie kanóny ani útočnú vozbu; je vo hviezdach, čím   vlastne bojujú proti Fritzom. A naši každú chvíľu rozbijú nejakú   továreň na pančuchy, a tu sú fronty a lietajú nad nimi a — nič. Ale   to nie je moja vec a to vieš, seržantovi Barcalaymu o tom ani nejdem   vravieť.
+    </tei:p>
+    <tei:p>
+     Práve prišiel Clarc a povedal, aby som už dopísal, že ide na   letište, že chlapci sú už v autobuse. To som Ti zabudol napísať, že   Česi oslobodili niekoľko našich letcov z nemeckého zajatia, to je   šťastie, čo? Clarc ich teraz zavezie domov a oni budú zas lietať a   bombardovať pančuchárne, úplne im závidím. Ale cap povedal včera   seržantovi Barcalaymu, že to tu beztak dlho nevydrží a že Clarc alebo   niekto iný potom príde aj po nás. Do toho času Ťa bozkávam a dúfam,   že nepôjdeš s nikým. (Clarc je ženatý, hovorím.)
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Banská Bystrica, 13. septembra   1944.
+    </tei:head>
+    <tei:p>
+     Áno, Varja ma volajú, to už teda viete, tovariš redaktor. To, že   mi zabili dieťa a že som sa sem prišla pomstiť, to nie je pravda.   Ešte som nemala deti. Ani rodičov mi neodvliekli, bratov a muža   neumučili a malú sestričku nevzal nemecký vojak za nohy a nerozbil   jej hlavičku o telegrafný stĺp. Robily sa strašné veci — toto všetko   sa robilo; ale ja som ešte nemala muža, jedináčik som, maznáčik, a   rodičia mi umreli, mať v tridsiatom deviatom a otec v štyridsiatom, v   januári. Neprišla som sa pomstiť, prosto som prišla bojovať. Keby ste   chceli písať o každej, čo u nás bojuje, musely by vaše noviny   vychádzať na tisícich stranách.
+    </tei:p>
+    <tei:p>
+     Neviem, prečo chcú mať ľudia nasilu osobné tragédie. Nestačí vám,   že nám spustošili krajinu a že teraz pustošia vašu? Desať mesiacov   som partizánčila na Ukrajine, na Done, zacvičovala som sa: Keď prišli   naši, poslali ma prosto sem. Až nás oslobodia, myslím, že ma shodia   do Čiech alebo do Nemecka. Čo je na tom neobyčajné, tovariš? Či niet   tisíc takých, ako som ja?
+    </tei:p>
+    <tei:p>
+     Ja som vlastne klaviristka, no to asi počká. Náš kolchoz ma svojho   času poslal na štúdiá do Kijeva, po tridsiatom siedmom, vtedy sme   mali parádnu žatvu. Nateraz som sa im nevyplatila, pozrite na tie   prsty. Ale to sa napraví, dva-tri roky cviku a bude, ako bolo. Keď   vydržím dvadsaťštyri hodín v zákope, vydržím desať pri klavíri, či   nie?
+    </tei:p>
+    <tei:p>
+     Áno, počula som o tom: Vraj rada popravujem esesákov. Lož. Rada by   som hrala druhú Lisztovu. Rada by som tancovala na obžinkách. Nerada   popravujem. Nepopravujem. Bojujem. Ako všetci chlapi v odriade. O čo   som horšia od nich? Či sú azda moje guľky mäkšie od ich? Nechcem, aby   ľudia umierali. Chcem, aby ľudia spievali a skladali piesne. Ale na   to treba vyhrať, ako viete. Treba urobiť všetko tak, aby sme vyhrali.   Píšte tak, aby sme vyhrali, tovariš redaktor. Napíšte, že mi umučili   dieťa, bude to pravda, umučili ich mnoho. Že mi vyvraždili rodinu,   vyvraždili ich na tisíce. Napíšte to všetko, ak si myslíte, že potom   budú ľudia lepšie bojovať. Napíšte to, aby sa klaviristky mohly   vrátiť k etudám, tovariš redaktor.
+    </tei:p>
+    <tei:p>
+     Nepíšte, že by som chcela cvičiť Liszta. Do čerta s muzikou, keď   sa drancujú krajiny. Aj na tomto samopale sa dá hrať Druhá uhorská.   Počujete? Najprv na samopale, potom na klavíri. Najprv v horách,   potom na koncerte. Aby sme mohli spievať a tancovať, treba ostať   nažive. A všetkých treba zachrániť nažive, aby postavili továreň na   klavíre.
+    </tei:p>
+    <tei:p>
+     Mala som pianíno, čierne, peknučké, z orecha, deduško naň päť   rokov prekonával normu... Zakúrili. Ešte päť rokov treba prekonávať   normu, ale najprv treba poraziť nepriateľa.
+    </tei:p>
+    <tei:p>
+     Každá strela z môjho automatu — struna do môjho nového pianína.   Každá strela — skrutka do budúcich mašín, tehla na budúcu školu,   hračka pre moje dieťa, kvet do mojej vázy. A do vašej a všetkých.
+    </tei:p>
+    <tei:p>
+     Preto rada strieľam na nepriateľa.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Banská Bystrica, 14. septembra   1944.
+    </tei:head>
+    <tei:p>
+     Zastávajúc náhľad, že sa veci majú nazývať pravým menom, nemôžem   nespomenúť rad skutočností, ktoré sme — prekvapení, ba zarazení —   museli vziať na vedomie hneď po svojom prílete na územie tzv.   banskobystrického povstania, a upozorniť so všetkým dôrazom, že ide o   zjavy nezdravé, ak nie nebezpečné.
+    </tei:p>
+    <tei:p>
+     Predovšetkým sme museli konštatovať, že došlo k plánovitému a   uvedomelému vzkrieseniu slovenského separatizmu a šovinizmu,   presnejšie povedané, že komunistickí exponenti v tzv. Slovenskej   národnej rade, v úradoch, v armáde a inde bez zmeny prevzali   hlinkovskú a tisovskú myšlienku „slovenského národa“. Sdelil som   niekoľkým z nich, že naša vláda, ktorú tu zastupujem, odmieta takúto   politiku, ktorá smeruje k rozbíjačstvu Republiky, zdá sa však, že nás   bude stáť veľa námahy, mnoho dômyslu a taktiky, než presadíme   historicky jedine správnu a politicky jedine únosnú myšlienku   jednotného a nerozborného národa československého, ktorého vlasťou je   Československá republika.
+    </tei:p>
+    <tei:p>
+     Príznačný pre svojvoľný a diletantský charakter komunistickej   politiky na území banskobystrického povstania je spôsob, akým sa   správajú k našej strane. Opätovne som tlmočil našu žiadosť, aby   strana bola zastúpená v Národnej rade. Dostal som poľutovaniahodnú   odpoveď, že naša strana na Slovensku neexistuje, ba že sa podpisom   Žilinskej dohody stala priamou složkou Hlinkovej ľudovej strany,   ktorá v dnešnej situácii stojí po boku nepriateľa a nateraz proti   nám. Uplatňoval som námietku, že zastúpenie vo vládnom alebo   zákonadarnom sbore nemusí byť nevyhnutne závislé od zástupov voličov   a že konečne nie vždy ulica rozhoduje o tom, kto má vládnuť. S čím   som sa stretol, bol však výsmech. Nech sa tu dnes dejú akékoľvek   neodpustiteľné chyby a prechmaty, jedno je isté: Až prevezmeme veci   do vlastných rúk, budeme musieť energicky zúčtovať so zvyškami týchto   náhľadov. Zakorenily sa hlboko a ak sa toto povstalecké dobrodružstvo   rýchle neskončí, stanú sa do značnej miery verejnou mienkou, podobne   ako rozšírený náhľad, že sú to komunisti, ktorí vedú tento   „oslobodzovací boj“.
+    </tei:p>
+    <tei:p>
+     Na šťastie, dni tohto podniku sú spočítané. Spojenie s červenými   sa nepodarilo a tým aj pominulo pre nás hlavné nebezpečenstvo, že   totiž Rusi rýchle a naraz obsadia Slovensko. Podnik dostáva varšavský   charakter a s jeho likvidáciou budú zlikvidovaní podľa všetkého i   jeho pôvodcovia. Pokiaľ sa tak nestane, povoláme ich na zodpovednosť   po uzavretí prímeria s Nemcami, až prevezmeme riadenie vecí tejto   krajiny.
+    </tei:p>
+    <tei:p>
+     Nateraz však budeme musieť počítať s tým, že vývoj nepôjde celkom   smerom, ktorý sme predvídali. Je celkom nepravdepodobné, že by sa   partizáni podrobili nášmu veleniu. Naopak, úzko spolupracujú s Rusmi   a zhusta sa podriaďujú sovietskemu veleniu. Naše veliteľstvo naproti   tomu v niekoľkých prípadoch neprejavilo dostatočnú bojovú rozhodnosť   a energiu, takže sa jednak obávam, že zvíťazí návrh požiadať o   sovietskeho hlavného veliteľa, jednak utrpí vážnosť nekomunistického,   občianskeho krídla povstalcov, ktoré má v rukách armádu. S týmto   vedomím a podľa vašich inštrukcií podporujeme všemožne aspoň   politických predstaviteľov občianskeho bloku, reprezentovaných   demokratickým klubom. Pri nich je záruka budúcej spolupráce zrejme   najspoľahlivejšia a i vo veci „slovenského národa“ a o iných   výstrelkoch bude s nimi možné vyjednávať.
+    </tei:p>
+    <tei:p>
+     Je však treba výstražné pripomenúť, že našu pozíciu v mnohom smere   sťažujú isté nedopatrenia s našej strany. Znovu žiadam o jednoznačné   inštrukcie, ako vysvetliť, že Angličania bombardovali a zničili   rafinériu a skladište pohonných hmôt v Dubovej, jedinú zásobáreň   povstaleckej armády, a to navzdory telegramu, ktorým sa zavčasu   žiadalo šetriť Dubovú. Rovnako som nútený priznať, že jednorázová   dodávka ľahkých zbraní od vás je vedľa pravidelných masových dodávok   Sovietov prakticky bezvýznamná. Rozhodne prosím o zprávu, či v tomto   smere dôjde k nejakej zmene, pretože nejednotné stanovisko na našej   strane mohlo by viesť k bolestnej strate prestíže.
+    </tei:p>
+    <tei:p>
+     Ináč dúfam, že o všetkom tomto budem môcť v krátkom čase osobne   zreferovať. Prosím, aby bolo zavčasu postarané o môj návrat vo   chvíli, v ktorej sa povstanie zrúti.
+    </tei:p>
+    <tei:p>
+     Počítam s týždňom, najviac s desiatimi dňami.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Čertovica, 15. septembra 1944.
+    </tei:head>
+    <tei:p>
+     Nuž ako sa neprihlásiť, keď sa Dolinaj spytoval, kto je tu dobrý   strelec? Vari som už za starého pána grófa nebol, bez samochvály,   najlepším horárom medzi Breznom a Margecanami? A akože nejsť proti   Nemcom — či som tri roky nebol v Göringovom revíri? Viem ja, kto sú,   čo sú. Nuž, reku, len na nich, priatelia! či ako to dnes vravia:   súdruhovia.
+    </tei:p>
+    <tei:p>
+     Slovom, iba tridsať nás zostalo, to už tých dobrých strelcov, do   tých päťdesiatich dier, čo sme vykopali. A veru čertovsky sme ich   vykopali, akurát sa do nej človek zmestil, iba muška mu z nej trčala.   Susednú dieru mal vari na desať metrov.
+    </tei:p>
+    <tei:p>
+     Čakali sme i nečakali Nemcov. Hovorilo sa, že pôjdu rovno na   Považie. Nuž ale museli sme sa takto zakopať pod Tepličkou, keby sa   im tadeto zachcelo na Vápenicu. Aby sa, nedajbože, telgártskemu   frontu nejako nedostali do chrbta. Prídu-neprídu, jedno. Veď aj pri   Piave sme takto čakali vari päť mesiacov. A koľko som sa načakal na   zverinu alebo keď som vnuka Marcina uspával, sirotu strapatú po   dcére.
+    </tei:p>
+    <tei:p>
+     Podvečer sme sa usalašili v dierach. Napravo som mal samého   Dolinaja, naľavo Styka zo Šumiaca, učiteľa, skoro samí Pohrončania   sme tu boli. Stykovi dali tú novú pušku, tú protipancierovú, či ako   jej vravia, a Dolinaj mal guľomet, ale akosi inakší, než boly naše v   Taliansku v sedemnástom, tenší a dlhší. Ja som mal iba svoju   mauzerovku, ešte z tých starých, dobrých čias, no veru viacej škody s   ňou narobím, ak treba, ako všetky tie výmysly s páčkami a   šraubičkami.
+    </tei:p>
+    <tei:p>
+     Hodinu sme ležali bez slova. I stmilo sa už. Občas som sa díval na   hodinky, svietiace, na košickej výstave som ich kúpil, tuším, v   tridsiatom siedmom. Vtedy som začas robil na lesnom riaditeľstve. Kto   by vtedy bol povedal, že budem ešte raz rukovať na staré kolená a   vylihovať v zákopoch. Nuž ale kto vtedy vedel, že naozaj príde ten   fašizmus.
+    </tei:p>
+    <tei:p>
+     Vtedy sa ozval Dolinaj, vraj, ujo Dobrík, neozjaba ich? A už mi   čosi hodil, deku chlpatú, nedohodil, musel som sa načiahnuť. Reku, ty   sopliak, čo si ty myslíš, či som ja nie chlap, ako sa patrí? Ešte by   som ťa raz-dva na plecia obrátil. Hnevalo ma trochu, ale som sa   zakrútil do tej deky. Rapavá bola ako erárna. Pozeral som na   Dolinaja, ako sa stále väčšmi tmilo. Nehýbal sa, díval sa do malého   údolia.
+    </tei:p>
+    <tei:p>
+     Čudný chlapák tento Dolinaj. Štváč, burič od Podbrezovej po   Bujakovo vychýrený, stále ho pre čosi žandári chytali — neplechu   robil po fabrikách, vzburu. Bujná zelina, plevel, pŕhľava, ale   nedostali ho pražskí, nedostali bratislavskí a nedostanú ho ani   berlínski. A teraz pozrime — veliteľ! A vtedy zasa kričí, či vlastne   už šepce Dolinaj, boľševik, ujo Dobrík, a čo takto do Tepličky,   vyspať sa do rána, čo?
+    </tei:p>
+    <tei:p>
+     No ľaľa ti ho, mlieko má na brade, a mňa bude do postele posielať;   som ja nepriateľa hnal, keď si ty ešte na druhom svete huby sbieral!   Už som mu chcel zakričať, keď Styk zvolal, vraj, idú! Nuž keď idú,   tak idú. Zasa sme zostali ticho dobrú polhodinku. Styk iba plašil. Už   bolo celkom tma a také bolo ticho, ako by ani nebola bývala   revolúcia. Spomenul som si na Dolinaja a vravím, pán brat, aby reku   bolo jasno —. A vtedy sa odrazu ozvú motory, mohlo to byť na ceste,   na pársto metrov od nás. Ej, bysťu, teraz sú naozaj tu. Rapotaly so   desať minút, potom ticho. A odrazu svetlo ani vo dne. Svietili na   nebi bielymi rakétľami; ba či vedeli o nás, že sme tam na brehu   zasadení ani cibule v črepníkoch. My všetci hlavy pod zem, len sme   tak vykukovali, ale nedalo sa nič vidieť, iba tie biele slnká. A   zrazu znova tma a ticho. Už prešla nová polhodina, a — nič, stále som   sa díval na tie svoje slávne hodinky. Iba Styk občas, že: idú!   Zakusujem naň párkrát, čo tu bude znervózňovať. Tak sme čupeli potme   a potichu.
+    </tei:p>
+    <tei:p>
+     Odrazu Dolinaj sykoce, vraj, ujo Dobrík, keby sa priblížili, páliť   do posledného, potom po bokoch do hory. Tak sa mi vidí, že ich bude   viacej, na toľkých nestačíme. Dajte to ďalej! Dobre, sykocem teraz ja   na Styka, reku tak a tak rozkazuje Dolinaj, Styk, počuješ? Ale komuže   ja dám ďalej, keď Styk, sviniar, bol preč, iba tú pušku s páčkami   nechal pri diere. Vidíš, vravím, Dolinaj, toto ti starý vojak   nevyparatí.
+    </tei:p>
+    <tei:p>
+     Dolinaj ani slova nepovedal, vyliezol z diery a sem-ta sa chvíľku   po bruchu premával. Do Stykovej diery skočil Červeň z Polhory, robí   na píle. Tak sa mi videlo, bol trochu napitý, veľmi hlasno   vravel.
+    </tei:p>
+    <tei:p>
+     Potom, Boh vie ako, driemkal som vari trošku — či to kto kedy   slýchal, zaspať postojačky v takej jame. Ale keď som prišiel k sebe,   už zasa rapotaly motory a nad nami rakétle a svetlo ako na poludnie.   A Dolinaj nesykotal, ale kričal ako na jarmoku, vraj, ústup!   Stiahnite sa po bokoch do hory! Ale sa nehol a zostal v diere.
+    </tei:p>
+    <tei:p>
+     Ostatní povyskakovali a sťahovali sa do lesíka. Červeň posledný,   cestou stále pálil, hoci sme nevideli, do koho. Vtedy reve na mňa   Dolinaj, vraj, ujo Dobrík, čo čakajú, ta sa do lesa a na Tepličku, v   záseku ich zadržia! A sám len sedel a ohmatával guľomet, ako by mu   pozeral, či nemá horúčku. Nuž, vravím, a ty čo čakáš? Rozkaz vydávaš,   a sám ho neplníš. Asi ma nepočul, lebo motory sa blížily po ceste.   Kričím, reku, a ty čo? Čo sa nesťahuješ? A on, že: nestarajú sa a už   nech bežia! Vtedy motory stíchly.
+    </tei:p>
+    <tei:p>
+     No ba! Z frontu budem utekať na staré kolená! Aby o mne rozprávali   Marcinovi ako o posranovi! Ak zostane Dolinaj, zostanem aj ja, hádam   ho nenechám, zelenáča, samého proti motorom. Po bruchu som sa   presúkal ku Hricovej puške. Ako by som po celý život ani z inej nebol   strieľal, tak mi zasadla do rúk. Ešte som zazrel, ako sa Dolinaj   usmieva, potmehúd, a potom, vraj, pááľ! A už som ich vtedy videl, ako   sa vynárajú zpod brehu.
+    </tei:p>
+    <tei:p>
+     Strieľali sme. Možno polhodinku, možno iba pár sekúnd, kto ho vie.   Padali ako pred tridsiatimi rokmi na Piave. Potom sa motory zasa   ozvaly. Stále tichšie rapotaly, až dorapotaly dolu ku hradskej. Zas   bolo ticho a tma ani v kuríne.
+    </tei:p>
+    <tei:p>
+     A tu z tej tmy, vraj, ujo Dobrík, nažive sú? Nuž a nevidíš?   vravím, a ty? Žijem, hovorí. Vravím, a čo ty blázniš dobrých ľudí,   ustupovať kážeš a sám zostaneš a páliš. Myslel som, hovorí Dolinaj v   tej tme, že sú na pancierových autách, ale sa doviezli na obyčajných.   Aj sa na nich odviezli. Ale teraz ich, vraví, príde na nás viac,   musia do Tepličky, ujo, po posily. Možno aj na Čertovicu.
+    </tei:p>
+    <tei:p>
+     Hútam, zelina ten Dolinaj. Proti chlapom sa káže zakopať, proti   pancierom šetrí svojich a zostane sám, reku, čo budú daromne padať.   Tak som ešte vojnu viesť nevidel, len čo je pravda. A vtedy z tej tmy   zasa:
+    </tei:p>
+    <tei:p>
+     Súdruh Dobrík, čo už nejdeš.
+    </tei:p>
+    <tei:p>
+     Mne ešte nik tak nepovedal. Nuž — zo mňa boľševika už ťažko   spravíte, akýže som ja súdruh?
+    </tei:p>
+    <tei:p>
+     Ľaľa: Dolinaj si zapaľuje cigaretu, či ten chlapec má rozum? Tvár   sa mu usmieva.
+    </tei:p>
+    <tei:p>
+     Ale Marcin, vnuk-sirota, z toho ešte môže byť. Iba treba dať   pozor, aby nebol ako Styk. Aby bol ako tento Dolinaj.
+    </tei:p>
+    <tei:p>
+     Tam som ho nechal v diere. Dal som sa stúpať s odkazom pre   podplukovníka.
+    </tei:p>
+    <tei:p>
+     Zatiaľ ich udrží, aj čo by ich hneď milión prišlo, súdruh   Dolinaj.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Považský front, 17. septembra   1944.
+    </tei:head>
+    <tei:p>
+     Podívajte sa, pane, ja som si tiež po celý život myslel, že sa na   Slovensku ľudia alebo modlia, alebo tancujú. Ukazovali nám ich, ako   vychádzajú z kostolíka a slnce svieti ženičkám na čepce, alebo ako   ujúkajú a valaškami mávajú, čo Slováčisko, to Jánošík.
+    </tei:p>
+    <tei:p>
+     A od jesene tridsaťdeväť — čo Slovák, to ľudák. Nie?
+    </tei:p>
+    <tei:p>
+     Žili sme spolu v jednej domácnosti a stále nám čosi o vás   nahovárali. Ja som sa sem k vám akosi nikdy nedostal, ani na tramp —   bol som v jednom kuse v službe — ani úradne. Nebol som vlastne nikdy   dosť spoľahlivý, videli vo mne Ostraváka, hoci som z Postřelmova u   Zábřehu. A tak som si aj ja povedal ako toľkí: Slováci zradili, keď   bolo najhoršie. Povedzte, pane, môže mi to niekto zazlievať? Mal som   byť povýšený na hlavného strážmajstra, keď sa to všetko zrútilo,   musel sa nájsť vinník a bašta.
+    </tei:p>
+    <tei:p>
+     Pamätám sa, zhabali sme svojho času v Boleslavi niekoľko čísel   Rudého práva a jedno som si nechal, tam to bolo, pravda, ináč: že   Republika bude, spoločná, československá. I verili sme, pane, i ťažko   bolo v tých časoch. Kolegovia, ktorí vojenčili na Slovensku alebo   slúžili na východe, vraveli, že toto nie je posledné slovo, že sa   Slováci ešte ukážu. No mnohí si jednako len mysleli, že na Slovensko   sa chodí iba na výlety a na slivovicu, že sa naň dopláca a že ste tu   všetci ľudáci a hlinkovci.
+    </tei:p>
+    <tei:p>
+     Že tu máte fabriky, ktoré stoja, píly, tehelne, liehovary a nad   nimi brucháčov, ktorí na vás rajtujú ako preissovci na nás, kto na   to, pane, pomyslel? Že Jánošík alebo ženička pri kríži majú možno   hlad, pane? A už najmenej sme si vedeli predstaviť, že ste vzali   pušky a začali hnať nadľudí.
+    </tei:p>
+    <tei:p>
+     Aby som pravdu povedal, o jednom, o jednom som si to vedel   predstaviť. Volal sa Blahút alebo Blachút, v tridsiatom som ho   eskortoval z Vítkovíc na okresný súd, už ani neviem prečo, pre   hlúposť. Stále sa mi díval do očú, to viete, že sa mi prihovoril,   slievači, kováci a podobní vždy agitovali. Hovorí, nie je to   nehorázna sprostosť, že ma vedieš pod bodákom? A hneď vyzvedal, čím   mi bol otec, koľko mám gáže, a vraj, obaja sme rovnakí proletári. Bol   som vtedy nezrelý ako zelený egreš, ledva som mal prezenčnú za sebou.   Chcel som sa ženiť ako každý, čo vám budem, vykladať. Dodal som toho   Blahudu na okres a veľa som neuvažoval.
+    </tei:p>
+    <tei:p>
+     Iba keď ma v tridsiatom druhom poslali do Mostu, spomenul som si   na toho chlapa. A potom som naňho myslel, keď kolegovia rozprávali o   Duchcove a o Košutoch, krucifix. A keď mnohých odvelili na trať   Červená Skala — Margecany, tuším, v tridsiatom štvrtom. Bol by som sa   stavil, že ten Blahuta je tam.
+    </tei:p>
+    <tei:p>
+     Navyvádzali sme sa sprostostí od tých čias. Ale Hana neustále   čakala a ja som sa vždy úžasne tešil na malé. V biografe Slováci zase   len drobčili a kľačali pri kaplnke a trojhlasne vyspevovali nad   čipkami a na Tatrách boly snehové čiapky.
+    </tei:p>
+    <tei:p>
+     Blahutovcov bolo zrejme málo, nestačili.
+    </tei:p>
+    <tei:p>
+     Ale súčasne, veríte-neveríte, bol som akosi hrdý, že niektorých   týchto blahutovcov vyrobily stroje Vítkovíc a štôlne pod Ostravou a   od Chebu po Teplice. I keď som ich eskortoval na okres a čušal. Na   jeseň tridsaťdeväť myslel som si znovu: Blahutovci, kde ste? Potom   tma a nebolo ich.
+    </tei:p>
+    <tei:p>
+     Ale keď prišla Liským priesmykom zpráva, že ste začali, že ste to   boli vy, ktorí začali, vedel som, že začal on, pasák Blahut. Hana   zostala s malými a nás sadlo na autobus tridsať chlapov v plnej   poľnej, celá stráž, hranice zostaly prázdne, mohli ste ukradnúť celý   protektorát. Po Puchov sme boli ako sardinky. Ale na prilbiciach sme   už mali stužky, pane. Museli sme byť v Žiline pred Nemcami, kým sa   neutvoria fronty.
+    </tei:p>
+    <tei:p>
+     Od tých čias iba ustupujeme, ale to je jedno. Tu je republika,   Československá a bez nehoráznych hlúpostí. Možno podvedome stále   zháňam toho Blachouta, aby som mu to povedal, akosi som mu to vari   dlžen. Iste by mi neporozumel, bol asi po celý čas v horách, nikdy mu   nevysvetlím, čo je protektorát a čo znamenalo pre nás vidieť   československú zástavu na radnici a na kasárňach. Konečne, možno, mu   to povedal niekto iný, veď nás tu je. Možno mu ani nebolo treba nič   vravieť. Keď sme prišli, plný autobus, a keď nás hneď nasadili, nikto   sa vlastne nečudoval. Skoro by som povedal, pane, že nás tu čakali,   nie? Dobre, že nám nikto nepovedal: Tak čo je, čo je, mládenci,   meškáte dobrých pätnásť minút.
+    </tei:p>
+    <tei:p>
+     Napokon možno, že tu Blahuta niet. Pokúšal som sa v Žiline   vyzvedať a niekto povedal, že nejaký Blachút bol v Čechách a že je v   Terezine. To by mohol byť ten môj, prečo nie? Keď sme po prvý raz   pálili na esesákov — pane, tá chvíľa, po tých piatich rokoch, ja nie   som nijaký ukrutník, ale čo vám budem vykladať — vravel som si   potichu: Toto je za Frantu, čo ste ho dostali po heydrichiáde, toto   je za Jitku, o ktorej ani neviem, kde je, a toto je za Blahouta. A   keď som v zákope videl voľné miesto, ako by tam niekto mal stáť,   povedal som si, toto je Blahutovo, a stal som si ta. Viete, čo mám na   mysli, pane?
+    </tei:p>
+    <tei:p>
+     Až sa to začne u nás, a to viete, že sa to začne, a Blahut bude   nažive, on už bude vedieť, kde som mal stáť ja. On už vie, že ja   viem, že to eskortovanie bola nehorázna sprostosť a že sme na jednej   strane, on v Terezíne a ja tu, v jeho postavení, pane.
+    </tei:p>
+    <tei:p>
+     Zajtra nás zasa nasadzujú v línii. Zmydlíme ich, na to vezmite   jed, a potom zas ustúpime. Sme tam všetci devätnásti, tentoraz na   správnej strane.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Horná Nitra, 18. septembra   1944.
+    </tei:head>
+    <tei:p>
+     To je on, poznáš ho podľa hviezdy.
+    </tei:p>
+    <tei:p>
+     Tretina nás zostala pri Baťovanoch. Načo sme išli proti   mašingveru? Sloboda nám stúpla do hlavy, ale o to už teraz nejde.   Toľko je isté, že sa za posledné dni sbehlo viacej než v celom mojom   živote predtým. Bil som Nemcov, ja ich, osobne. A čo myslíš, o čom   premýšľam? O slobode? O víťazstve? O tom idiotskom hesle premýšľam.   Po dvadsať mesiacov, čo som bol v koncentráku, mi neprišlo na um.   Odrazu ho mám plnú hlavu. Idú tanky od Topoľčian a ja ležím v jarku.   Čo si myslím? To je on, myslím si, poznáš ho podľa hviezdy. A keď   okolo mňa padajú chlapci, s ktorými som dvadsať mesiacov šil spodky a   kopal garát, keď padá Paľko a Edo a Ďuro, myslím si ako blbec: To je   on. To je on. A krv im ide z úst alebo z rukávov a z nohavíc a vtedy   sa bojím, už nie esesákov alebo gardistov, ale seba samého. Čo zo mňa   spravili za tých dvadsať mesiacov.
+    </tei:p>
+    <tei:p>
+     Priznávam sa ti, že neviem, ako sa to všetko sbehlo, nemal som   potuchy, že sú veci tak ďaleko. Že v samotných Novákoch sme mali takú   silnú organizáciu a zbrane. A že sa vonku už išlo proti Nemcom. Že   vôbec možno ísť proti Nemcom! Že ja by som mohol ísť proti Nemcom.   Iba na to sa pamätám, že otvorili skrýše a debny a diery a že chlapci   začali rosdávať zbrane. Dali mi pušku, ktorú Rusi shodili na   Maguru.
+    </tei:p>
+    <tei:p>
+     Keď ma lapili na jeseň štyridsiateho druhého a priviezli do   Novákov, vtedy som iba tak tíško dúfal. Neviem, v čo som vlastne   dúfal, možno, aby som sa ráno zobudil a Rusi boli tu a všetko bolo   ako pred slovenským štátom. Keď mi starých naložili do vagóna, otec   mal práve šesťdesiatdeväť rokov, just na narodeniny mu to spravili, a   matka sa ledva vedela pohnúť pre to srdce, a keď ich odviezli do toho   Poľska, aj nádej mi akosi spľasla. Iba som tak mudroval v tej desnej   úzkosti, že raz nebudem myslieť na nič a vyskočím na dozorcu, alebo   keď príde vysoká návšteva z Bratislavy, možno nejaký beráter, a   skalou niektorého zabijem. Jedného berátera som chcel zabiť a teraz   mám pušku a v nej zásobník. A ešte dve plné patróntašky.
+    </tei:p>
+    <tei:p>
+     Keď vzali v štyridsiatom druhom v marci Magdu do Patrónky a potom   do Žiliny a nakoniec do Osviečima, povedal som si, že ak toto   prežijem, vezmem pušku a pôjdem ju hľadať a kde stretnem Nemca,   zabijem ho. Teraz by som to mohol urobiť. Ale to ešte stále nie je   ono.
+    </tei:p>
+    <tei:p>
+     Inokedy som si myslel, nikoho nezabijem, iba namierim pušku a   budem sa rozprávať, pekne, prívetivo, o všetkom strašnom. Ale nikdy   som akosi nemal kedy sa vzbúriť. Oberali nás obozretne, postupne.   Najprv von zo zamestnania, zo školy. Potom dávaj kožuch a prsteň,   potom svietnik a zátišie s jablkom, potom pumpky a baganče a stoličku   zpod zadku a všetko. A choď si pod falošnými papiermi do Bardejova. A   keď ťa chytia, do Novákov. Čím si? Účtovníkom? Do plynu. Ale ja som   povedal, že krajčír, krajčírov potrebovali. Keď ide o život, človek   vie aj šiť. Nedostal som sa k tomu, aby som na niekoho namieril a   rozprával sa s ním o svojom utrpení a potom sa zastrelil.
+    </tei:p>
+    <tei:p>
+     Ale o to nejde. Aj rodičia aj Magda a všetko prebolelo v tom   ustavičnom strachu a ja som iba dúfal, že sa niečo stane. Nedúfal   som, že niečo budem môcť spraviť.
+    </tei:p>
+    <tei:p>
+     Odrazu som mal v ruke pušku a bolo povstanie a sostavili z nás   jednotku proti Nemcom. Najmenej som dúfal, že budem môcť ísť proti   Nemcom, a idem.
+    </tei:p>
+    <tei:p>
+     Osem dní sme neprestajne boli v útoku. Len pri Baťovanoch nás   padlo desať z jednej čaty. Naraz. A nepadol hocikto, ale Edo, Paľko a   Ďuro a ostatní, to sú chlapci, o ktorých som vedel, kde majú   bradovice, ktorú zeleninu neradi, čo vedia z dejepisu, do koho boli   kedy zaľúbení a čo si myslia o čomkoľvek na svete, to bol Ďuro, Paľko   a Edo, s ktorými som bol v Novákoch dva roky a z ktorých každý mohol   ísť raz do týždňa do vagóna a do plynu. Tiekla im krv zovšadiaľ a ja   som si myslel ako stroj: To je on. To je on. Tak ako to stálo na tom   belaso-žltom plákate.
+    </tei:p>
+    <tei:p>
+     Už nás nie je ani polovica a zajtra môže tiecť krv zo mňa ako z   Paľka. Ale o to nejde. Keby som sa raz bol zobudil a boli by tu   bývali Rusi, bol by som si strašne oddýchol, strašne by som sa bol   najedol a bol by som išiel niekde do mesta. Účtovníkov vždy   potrebovali a nejaké menšie obchody s províziami nie sú problém.
+    </tei:p>
+    <tei:p>
+     Ale mňa neoslobodili. Mňa nielen oslobodili. Mne dali aj pušku a   choď si proti Nemcom, to je rozdiel. I ja sa oslobodzujem, chápeš   to?
+    </tei:p>
+    <tei:p>
+     Desiatich sme stratili z jednej čaty pri prvom útoku a ja sám   dobre neviem, či som zostal tam alebo či som nažive. Na   účtovníka-nevojaka to bolo trochu prekvapujúce. Ale o to nejde, ide o   to, že sa netreba vzbúriť a udrieť berátera kameňom, netreba namieriť   na gardistu a prihovoriť sa mu, treba sostaviť rotu a ísť proti   guľometu. Treba sa oslobodzovať — celkom jednoduchá vec.
+    </tei:p>
+    <tei:p>
+     A nielen o to ide. Ale vedľa našej roty útočila iná, z Baťovian, a   vedľa zasa iná a vedľa nej Rusi v Karpatoch. Treba sa spolu   oslobodzovať. Spolu povstávať. Edo a Ďuro a baťovianski učnia a Rusi   a Číňania. Za moju Magdu a za otca-jubilanta a za Nováky, Baťovany,   Bystricu a Krivoj Rog.
+    </tei:p>
+    <tei:p>
+     Možno už nebudem nažive ani týždeň, človek nevie. Ale v tento   týždeň som dúfal, a nie v ráno, keď bude odrazu všetko iné, cez noc.   Kto nedúfal v takýto týždeň, nevie vôbec, čo je nádej. Toto som ja,   podľa hviezdy a podľa skutkov, o to ide.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Čremošné, 23. septembra 1944.
+    </tei:head>
+    <tei:p>
+     Teraz zastavte dych, holúbkovia! Fašisti sú tu — hľa, pod úbočím.   Dívam sa na chlapcov: Vpravo Žakovič a Letko, vľavo Kiš so Žilom.   Čakajú na znamenie. Čakajte, bratia, ešte nedám. Vidíte ich, čertov,   akí sú opatrní? Až budú celkom blízo, potom —.
+    </tei:p>
+    <tei:p>
+     Áno. Dám príkaz: Oheň! Ale potom — potom bude treba dať príkaz na   ústup. Ech — od tej jarnej noci, čo som soskočil v tejto krajine,   nevydal som takýto príkaz. Čo poviete, bratia?
+    </tei:p>
+    <tei:p>
+     Ja viem, čo poviete. Na aprílové dni budete spomínať — ako ja. Keď   sa prvých dvanásť partizánov sišlo v Kantorskej doline. Na leto, v   ktorom prichádzali bojovníci, vznikal odriad za odriadom. Až naraz —   vojsko. To je kus života, priatelia, viem. Nemožno len tak vydať   Sklabiňu, nemožno.
+    </tei:p>
+    <tei:p>
+     Tovariši, poviem im, neposlali delostrelectvo. Musia vedieť, čo   robia — neposlali. Udržíme Bystricu! — Potom vydám príkaz: Ustúpiť.   Uveria, že to myslím seriózne? Neuveria.
+    </tei:p>
+    <tei:p>
+     V bezvetrí, tichu vystupujú fašisti po blatistom úbočí. Sú v   trojnásobnej presile, päťnásobnej. Od dvoch guľometov — Žakovič a   Kiš: Už, tovariš komandír?
+    </tei:p>
+    <tei:p>
+     I mne prišlo ľúto Sklabine v tejto chvíli. Čertovské dielo! Ale aj   chlapci museli vedieť, že tu iba zaisťujeme ústup piatej skupiny!   Spočítajte si len útočiacich nepriateľov, súdruhovia.
+    </tei:p>
+    <tei:p>
+     Už im vidieť do tvárí. Priamo proti mne bledý dôstojník s   okuliarmi bez obruby, s bledými perami. Kiš, vidíš ho? Obráť naňho   hlaveň. Tak. No ešte počkaj — nemnoho, pokojne.
+    </tei:p>
+    <tei:p>
+     Celá rovinka pod svahom sa pokrýva šedivozelenými uniformami. Nad   touto rovinkou krížily v auguste naše samolety. Na ňu ma svojho času   shodili. Vydržte, rybiata. Prichádzajú. Keď som odlietal z Kijeva,   letel som do cudzej krajiny. Aká je ona — ktovie? Dnes ju bránime ako   svoju. Úzka je, malá je, ale ako svoja. Ľudia sú svoji. K srdcu mi   prirástli, Žakovič, Kiš, Letko...
+    </tei:p>
+    <tei:p>
+     Šepcem: Holúbkovia, na fašistov... — a kričím: Oheň!
+    </tei:p>
+    <tei:p>
+     Napravo-naľavo zarachotia guľomety. A hneď Hiršov za uhlom stráne   a pušky pozdĺž celej výšinky.
+    </tei:p>
+    <tei:p>
+     Pod nami — známy pohľad: Ako by sa pod fašistami zem bola   zakyvotala, padajú, tackajú sa. Potom sa sťahujú, utekajú, po   vlastných mŕtvych, ranených.
+    </tei:p>
+    <tei:p>
+     Už je zas ticho a všetci vieme, čo nasleduje. Niekoľko minút pokoj   — kým postavia mínomety, zacielia, pripravia nový útok: Už vedia o   nás, i kde sme. Chytro prikazujem: Opustiť postavenia, zaujať nové na   okraji lesíka. Plazíme sa asi päťdesiat metrov, o chvíľu sme znovu   pripravení. Na prvšie zákopy dopadajú prvé míny: Pištia, vrždia,   vybuchujú. Zastrieľajte si, čerti, naprázdno.
+    </tei:p>
+    <tei:p>
+     Zas ticho a zas čakáme, kým sa zjavia. Dívam sa na svojich, všetci   sú.
+    </tei:p>
+    <tei:p>
+     K srdcu mi prirástli: Zbytočne som si myslel, že budem v cudzej   krajine. Letko je ako ja: Vojak. Rád má boj. V Leningrade som poznal   staršieho litinanta, tomu sa podobal. Hovoril: Strach? Keď je útok;   vypnem strach ako v kúpeľni svetlo nad umývadlom, Kiš je pekár. Chcel   by zas piecť biele chlebíky a maslové rožky. Bolo ho treba priúčať   vojne. Keď prišiel do Sklabinského Podzámku, bol civilom — na   zaplakanie.
+    </tei:p>
+    <tei:p>
+     Preto ma sem poslali: Kišovcov, Žakovičovcov vojne priúčať. A keď   sa zjavia fašisti, dať príkaz na oheň a hnať, hnať ich.
+    </tei:p>
+    <tei:p>
+     O príkazoch ustupovať nebola reč. Ani na štábe, ani v strane.
+    </tei:p>
+    <tei:p>
+     Hlavy sa zjavily nad zákopom. Čičíkal som guľometčíkov, keď   obsadzovali náš zákop. Zasa sa zjavil bezkrvný dôstojník s okuliarmi   bez obruby.
+    </tei:p>
+    <tei:p>
+     Keď som mal asi desať rokov, videl som pri Leningrade rybu-dravca.   Neviem, ako sa volala, pripomínal mi ju tento nemecký dôstojník.   Studenú, dravú, bezcitnú rybu, samé zuby.
+    </tei:p>
+    <tei:p>
+     Nekonečné sekundy — potom: Oheň!
+    </tei:p>
+    <tei:p>
+     A teraz sa musíme stiahnuť do lesa: O niekoľko minút pribzučia   míny. Zprava-zľava dívali sa na mňa moji chlapci.
+    </tei:p>
+    <tei:p>
+     Rybiata, šepol som.
+    </tei:p>
+    <tei:p>
+     Ale mňa sem neposlali ustupovať. Žila, tovariš, ty by si ustúpil?   Až sa vrátiš do lýcea či kde, budeš učiť mladých ľudí, ako žiť, a   budeš mať pritom spomienku na tento ústup? Kiš, aké chleby môže piecť   pre hladných ľudí, kto ustupoval?
+    </tei:p>
+    <tei:p>
+     Rybiata, pošepol som ešte raz.
+    </tei:p>
+    <tei:p>
+     Tovariši, zvolal som.
+    </tei:p>
+    <tei:p>
+     Vtedy priletela prvá mína ako čmeliak. Zabolelo ma pod pravou   lopatkou — črepina?
+    </tei:p>
+    <tei:p>
+     Šturm! zvolal som. Na nich! Smrť fašizmu!
+    </tei:p>
+    <tei:p>
+     Pod lesom zdvihla sa čierna čiara ustatých jasavých postáv.   Dôstojník-ryba odhodil automat.
+    </tei:p>
+    <tei:p>
+     Hnali sme sa po stráni k rovinke, na ktorú zjari shadzovaly   samolety semená a na ktorej do jesene sklíčilo vojsko svojich. A zem,   ako by moja rodná, znova sa zachvela pod nepriateľmi a oni padali,   padali.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Banská Bystrica, 26. septembra   1944.
+    </tei:head>
+    <tei:p>
+     Pozri, Vilko, daj si povedať, že niekedy robíš nemožné veci. Si   úplné decko. Ešte šťastie, že hmly a búrky v horách schladily už aj   horúcejšie hlavy ako je Tvoja.
+    </tei:p>
+    <tei:p>
+     Hoci som o slušných pár rokov starší od Teba, nechcem Ti radiť.   Aby si raz nepovedal, že som Ťa ovplyvňoval. Máš svoj rozum, rob, ako   myslíš. Ale sľúbil som vašim, že dám na Teba pozor, a chcem mať čisté   svedomie. Ver mi, že si ctím Tvoje vlastenecké city a Tvoje,   povedzme, nadšenie. Ale všetko má svoje medze, priateľu, všetko má   svoje medze!
+    </tei:p>
+    <tei:p>
+     I ja som nechal podnik podnikom a prišiel som na povstalecké   územie, keď som počul, že sa to začalo. Ale to ešte neznamená, že by   som musel robiť veci, ktoré mi prosto neprináležia. Nemôže byť   napokon každý partizánom, aj tu v Bystrici musí niekto sedieť a   dozerať, aby išlo všetko po poriadku.
+    </tei:p>
+    <tei:p>
+     Neviem, prečo by si nemohol prísť sem. Nikdy si nebol vojakom a   nie si bohvieakej silnej konštitúcie. Pán Jegorov sa veľmi dobre   obíde aj bez Teba, má tam schopnejších, čo už bojovali. Uznaj   konečne, že si sa trochu prenáhlil.
+    </tei:p>
+    <tei:p>
+     Neviem, či je všetko pravda, čo tu o Vás píšu a hovoria, ale aj   polovička by bola hotovým šialenstvom. Váľať sa celé týždne v blate a   v daždi, celé dni poriadne sa nenajesť a ešte k tomu ísť holými   rukami proti motorizovanej armáde, to je — prepáč — hlúposť. S tým sa   pred nikým nevyťahuj. Aspoň nie pred normálnymi ľuďmi.
+    </tei:p>
+    <tei:p>
+     Znova Ti opakujem, že pán S. môže okamžite zariadiť, aby ťa   zamestnali na Povereníctve pre výživu. Môžeš pracovať so mnou v   jednej kancelárii. Či toto tiež nie je užitočná práca pre povstanie?   Strieľať môže ísť každý, ale toto je odborná robota a tu si budú môcť   oblízať všetky prsty, ak dostanú človeka s Tvojou kvalifikáciou, veď   si skoro inžinier. Prosím Ťa, nerozmýšľaj dlho a poď sem, kým sa tu   nezaplnia všetky miesta alebo kým Ťa tam nebodaj neprizabijú. Držím   Ti toto miesto i stôl v kancelárii.
+    </tei:p>
+    <tei:p>
+     A potom, nezabudni jednu vec. Účasť na povstaní na takomto   exponovanom mieste, to je, ako vieš, dobrá legitimácia pre budúcnosť.   Už je viacej než zrejmé, že to Nemci prehrajú, a je priamo Tvojou   povinnosťou starať sa o svoju budúcnosť. A — o budúcnosť podniku...!   Kto o Tebe vie tam v horách? Nikto. Trafí Ťa guľka a ani pes po Tebe   neštekne. Tu si na očiach, to je jasné. Až dôjde na lámanie chleba,   ukáže sa, že to bola dobrá investícia. Daj si radiť od niekoho, kto   sa vyzná.
+    </tei:p>
+    <tei:p>
+     Ďalej. Ja mám síce nos, ale môže sa stať, že to tak chytro   nevyhráme. Povedzme, že páni Rusi majú iný plán než chytro dobýjať   Slovensko. Možno sa na nás vykašľú, nie? Čo urobíš potom? Budeš   sedieť v horách celú zimu? Čo budeš jesť? Čo si oblečieš? A ak   nedajbože dostaneš zápal slepého čreva? Čo potom? A mysli na svojich   rodičov!
+    </tei:p>
+    <tei:p>
+     Tu je to celkom iné. Ako som sa dostal z Trnavy sem, tak sa   dostanem odtiaľto do Trnavy, človek už musí čosi riskovať, keď ide o   budúcnosť. (To vieš, že som mal dosť filipa a neudal svoje pravé   meno. V Trnave zasa sú presvedčení, že preťahujem dovolenku.) Teda   ako vravím. Máš tu zaistené miesto. V meste je slušný život, dostať   všetko, úraduje sa normálne, iba že je v meste trochu živšie a že   vidieť viacej vojakov. Nálety boly, no ale ako vravím, každá   investícia je spojená s nejakým rizikom.
+    </tei:p>
+    <tei:p>
+     Neviem, či Ťa tento list nájde. Ak áno, rozhodni sa chytro. Dúfam,   že prídeš onedlho, mám tu pre Teba dôležitú a zodpovednú prácu.
+    </tei:p>
+    <tei:p>
+     No ak by si sa napriek všetkému rozhodol zostať na fronte, resp. v   horách, mám k Tebe prosbu. Príležitostne, nie dnes ani zajtra,   hovorím, príležitostne, spomeň ma tomu Jegorovovi alebo niektorému   inému hlaváčovi. Môžeš mu povedať, keby sa pýtal, že teraz bojujem na   niektorom inom fronte, pre mňa za mňa pri Telgárte. Človek napokon   nikdy nevie: Hádam sa veci vyvinú tak, že predsa bude treba ísť do   dôsledkov, aspoň na nejaký deň-dva. V tom prípade prídem za Tebou.   Koniec-koncov ani nejaké tie metále nie sú zlá vec, keď to musí   byť.
+    </tei:p>
+    <tei:p>
+     Dúfam, pravda, že k tomu nedôjde. Bola by to poriadna hlúposť   rukovať a eventuálne sa dostať aj do kaše — teraz, päť minút pred   koncom vojny. Sedem rokov sa ulievam z jednej rukovačky za druhou,   hoci sa ma v mojich, rokoch týkala každá vyhláška. A to vieš, akurát   preto som si na tom dal záležať, aby som potom išiel a dal sa trafiť   predposlednou guľkou. Tak ma poznáš?
+    </tei:p>
+    <tei:p>
+     Tak sa maj fest a nebláznej. Keby si niečo potreboval, len sa   obráť na mňa. Taká situácia ešte nebola, že by som si nebol vedel   rady.
+    </tei:p>
+    <tei:p>
+     P. S. Len príď pokojne, aj súkromne si tu i tam budeš môcť niečo   prizarobiť.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Korytnica, 6. októbra 1944.
+    </tei:head>
+    <tei:p>
+     Ja tiež nie som bohvieaký vojvodca, obyčajný čatár v zálohe, ale   taký kus truľa, ako je ten Mjartuš, som nevidel, čo som živý. Hovorím   mu: Anton, bodaj ťa, veď čože nejdeš dakde do hája do kancelárie   alebo kde. Čo sa tu budeš tentovať, prídu fašisti a je zle. A on len   pokojne: Nechaj tak, ja viem, čo treba, ja som komunista.
+    </tei:p>
+    <tei:p>
+     Nuž a čo? Aj ja som komunista, i keď ma iba teraz v Bystrici   prijali. Ale keby všetci komunisti boli ako ten Mjartuš, tak si hneď   môžeme sbaliť sedem slivák a ísť pekne domov. Keď si stal vedľa   Sergeja alebo aj vedľa nášho Vajcíka, ani po pupok im nebol a taký   bol ani trasorítka, otvoríš dvere a prievan ho vezme. Hovorím: Anton,   nešpacíruj sa, sober sa a hybaj do nejakej tlačiarne alebo niekde   agitovať, takých hľadajú. A on zasa pokojne, že nie, že prišiel čas   aktívneho boja.
+    </tei:p>
+    <tei:p>
+     Nuž Anton Mjartuš bol knihársky pomocník, akiste počítal všetko,   čo mu pod ruku prišlo, a teraz keď niekto povedal, že prší, tak na to   hneď citoval Marxa. O tom ani reči, vedel toho veľa a poznal každú   knihu, iba že bol, chudák, smiešny. Keď prišiel do výcvikového   táboru, začali mať chlapci z neho psinu. O chvíľu ho bol plný   Harmanec.
+    </tei:p>
+    <tei:p>
+     Keď som ich učil pochodovať, Anton musel ísť posledný a ja som   išiel vedľa neho a vravel som mu pekne: Ľavá, ľavá, ľavá. Celý bol   blažený, keď mu to vyšlo, ale obyčajne mu to nevychádzalo, len som sa   obrátil, a už išiel po svojom. Potom sa previnile usmieval. Že on sa   to naučí.
+    </tei:p>
+    <tei:p>
+     Špás nabok, chlapci mu tiež začali dohovárať, aby išiel robiť dačo   užitočného. Už nás mali nasadiť, a on ešte stále nevedel ani chodiť,   báli sa oňho a že budú mať s ním patálie. Ale Anton mudroval podľa   kníh, že v tejto fáze treba zbraňou a podobne. A hneď sa hlásil, že   pôjde strážiť každú noc.
+    </tei:p>
+    <tei:p>
+     Hovorím: Anton, veďže netáraj dve na tri, zacieliť nevieš na sto   metrov, nedovidíš. Okuliare mal hrubé ani šperplatne.
+    </tei:p>
+    <tei:p>
+     Nedovidím, hovorí. To je fakt. Ale ja ani vo dne nedovidím a v   noci je i tak tma, tak je to jedno. Aby ste zo mňa, reku, niečo   mali.
+    </tei:p>
+    <tei:p>
+     A tašiel strážiť s puškou, dobre že ho o zem nepridlávila. Ale   predtým po večeroch vykladal chlapcom v baraku, vtedy sa mu nesmiali,   počúvali a podaktorí vraveli, aby išiel do Bystrice do Pravdy alebo   do rozhlasu či kde. Márna sláva, myšlienky mal všelijaké, iba že   vojak bol celkom nanič, kasárnika mal každú chvíľu a viacej bol na   hajzltúre ako v baraku.
+    </tei:p>
+    <tei:p>
+     Keď nás potom nasadili v Turci, myslím si, no sbohom. Mjartuša tak   cestou ubúdalo, že sme si mysleli, že na front dôjdu z neho iba tie   baganče. A potom hneď do útoku.
+    </tei:p>
+    <tei:p>
+     Práve som chcel dať povel, keď prišiel: strápený, zmätený,   plachučký. Vraj: Nechce to hrať. Dívam sa. A kde máš zásobník?   Vyťahuje ho z vaku. Že ho plieskal po rebrách, tak že ho dal dolu.   Ako mu mal automat strieľať, somárovi, bez zásobníka?
+    </tei:p>
+    <tei:p>
+     Útočili sme po rovinke. Napred a k zemi a zas napred, čo vám budem   rozprávať, veď to poznáte. Iba keď vidím Mjartuška ďaleko napredku,   ako uteká. Guľomety do nás piekly, a on si cupká ako by nič. Strašne   som mu v duchu vynadal. A on len tahet behom, ako by ho platili.
+    </tei:p>
+    <tei:p>
+     Nepriateľ sa stiahol, obsadili sme zákop a tu vám príde Anton   Mjartuš a tvár mu žiari ako svätému Mikulášovi. Ale sme ich, vraj,   bili ani žito.
+    </tei:p>
+    <tei:p>
+     Veďže netrep do sveta, vravím, koho si ty, vravím, bil ani žito.   Zatvoriť ťa, až budeš čierny! Čo si sa nekryl, somár! V konečnej fáze   treba prejsť do otvoreného boja, hovorí nevinne. A ukazuje automat:   Ľaľa, zásobník mám nasadený!
+    </tei:p>
+    <tei:p>
+     Nuž čo s ním? Napokon, kde sa mal naučiť, keď mal v jednom kuse   kasíno. Ukázal som mu po neviemkoľký raz, ako sa vojak kryje, keď   útočí. Očividne sa radoval. Už si vraj myslel, že bude po povstaní, a   on si ani ako treba nezabojoval.
+    </tei:p>
+    <tei:p>
+     Ale vôbec nebolo po povstaní a o dva dni začaly cupkať míny na   Martin. Boli sme v protiútoku, šesť ráz denne, aj viac, pri Priekope.   Hovorím: Toto je inakšia robota ako knihy čítať, čo, Mjartuško? Ale   on nič. Vraj: Keď čítať, tak čítať. Ale teraz biť, ako sa dá. A   vylezie vám zo zákopu a paličkou ide štuchať do zeme, lebo nepriateľ   hneď zamínoval každý meter pôdy, ktorý dobyl.
+    </tei:p>
+    <tei:p>
+     Iba keď nás v protiútoku odrezali a s krídel vzali do klieští.   Bolo nás vari sedem. Hovorím: Holúbkovia, hybajme, kade ľahšie. Ustúp   do pôvodných pozícií.
+    </tei:p>
+    <tei:p>
+     A Anton zrazu vystrčí hlavu a začne sa rozkrikovať. Počúvam —   vydáva rozkazy. Komu rozkazuje? Práporu rozkazuje! Prvú rotu posiela   kamsi ku hradskej, druhú pod svah, štvrtú nad chalupu pred nami.   Vravím: Mjartuško, čo sa ti rozum pomútil? Pochabé huby si po jedol?   Čo sa rozkrikuješ, ani čo by nás tu bolo tristo?
+    </tei:p>
+    <tei:p>
+     Zarozkazoval si, automatom zalomozil — nepriateľ na krídlach sa   stiahol a z chalupy vyšli pätnásti s rukami nad hlavami ako kaktusy.   A tu som už ja rozkázal, čo bolo treba.
+    </tei:p>
+    <tei:p>
+     Mjartuško, vravím, keď bolo po všetkom, a to ťa kde naučili? Ale   on sa len pokojne usmieval, hanblivo trochu. V automate mal plno   piesku.
+    </tei:p>
+    <tei:p>
+     Poslal som ho do Martina s tými pätnástimi. Povedal, že ich dodá   do Stalingradu tehly podávať. A premýšľať, o imperializme a o vojne,   vravel. Aby vraj prišli k rozumu.
+    </tei:p>
+    <tei:p>
+     Toto všetko môžete povedať starej Mjartuške o Antonovi. Iba dve   veci jej nepovedzte. Že mu cestou z tých pätnástich dvaja ušli, lebo   zásobník mal zasa vo vrecku, čo ho tlačil do boka, a že sa z Martina   už nevrátil. Keď som ho bol pozrieť, mal už toľkú horúčku, že ma ani   nechceli k nemu pustiť. Doktor mi povedal, že to od prechladnutia, čo   v blate vylihoval, a že zajtra bude po ňom.
+    </tei:p>
+    <tei:p>
+     Hovorím mu: Mjartuško, veďže nebláznej zasa, toto je posledná   fáza, puškou treba na nich, nie maródiť, veď si komunista, nie?   Hovorím: Všetko robil ináč, ako treba. Keby tej noci nebol, chudák,   dokonal, tak pôjde na raport, len sa tak za ním popráši.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Lehota, 18. októbra 1944.
+    </tei:head>
+    <tei:p>
+     Ty vieš najlepšie, Ondrej, že som človek mierny, nepriečim sa   vrchnosti. Keď sa rukovalo proti Poliakom, dostal som lístok, išiel   som do Javoriny. Keď sa rukovalo proti Rusom, zasa som len dostal   lístok, išiel som, obsadzovali sme Rostov. A keď vyhlásili   mobilizáciu v Bystrici, tiež som len išiel, proti Nemcom. To Ti píšem   preto, aby si videl, že viem, čo je moja povinnosť, a vždy robím, čo   mi prikážu. Lebo Bohu, čo je božie, a cisárovi, čo je cisárovo.
+    </tei:p>
+    <tei:p>
+     Ani teraz som nevyhýbal povinnosti. Iba som odišiel od Hronského   Sv. Kríža, nie preto, že Nemci veľmi bili na nás, ale preto, že to   bolo proti Bohu.
+    </tei:p>
+    <tei:p>
+     Takto to bolo. Ležali sme v zákopoch nad Hliníkom s troma rotami a   čakali sme na Nemca od juhu. Stred držali československí parašutisti,   čo prišli pred pár dňami z Ruska. Vraveli, že pôjdu zasa dolu až po   Krupinu, ale sme vedeli, že sa iba tak chvascú. My sme ležali bokom,   na vyššom grúniku, na zaistenie ľavého krídla. A vtedy prišiel ten   Rásocha a vtedy sa všetko začalo.
+    </tei:p>
+    <tei:p>
+     Toho Rásochu som nikdy nevidel. Prišiel ku mne ustatý, nevyspatý,   v dokrčenej a zasvinenej uniforme a povedal, že je osvetový   dôstojník. Ja na to, kde máte, prosím, dištinkcie. On na to, že je   revolúcia a že dištinkcie-nedištinkcie, že prehovorí k vojakom. Ja na   to, že Nemci budú na nás biť o chvíľu. On, že hej, o chvíľu a v tej   chvíli že musí dačo povedať vojakom. Ja reku, veliteľom som tu teraz   ja. A on, že veliteľovi sláva, a už aj začal kričať na vojakov. Ja na   to potichu, že neviem, zkade prišiel, aby aspoň ukázal nejaké písmo,   aby som nemal opletačky. A on, že písmo nemá, že podľa toho, čo   povie, poznám, zkade prišiel. Ja, či ho posiela štáb, on na to, že   strana. Ja, že ktorá strana.
+    </tei:p>
+    <tei:p>
+     Ale vtedy už vravel. Nevedel som, čo robiť, pomyslel som si, že   sme aj tak na krídle a že Nemec pôjde hlavne proti Čechoslovákom, tak   som ho teda nechal. Veľmi bol akosi výbojný, hoci vyzeral zúbožené,   až strach, iste sa už niekoľko dní ponevieral po frontoch a kdekomu   rečnil. Keď sme boli na kurze, učili nás, že dôstojník musí byť pred   mužstvom, ako sa patrí. Povedal som si, že iste nerobí dobrý dojem na   vojakov takýto strhaný.
+    </tei:p>
+    <tei:p>
+     Úplne mi pomútil štelungy. Chlapi prišli a počúvali, aj ja som   počúval, zpočiatku celkom obyčajne vravel, aj tak, ako nám vraveli na   frontoch a v kurze, aj trochu ináč, potom odrazu celkom ináč a vtedy   som už videl, že je komunista a boľševik.
+    </tei:p>
+    <tei:p>
+     Keď som bol v štyridsiatom treťom doma na dovolenke z Ruska, bola   u nás tá výstava o boľševických zverstvách, čo chodila po Slovensku.   Nechcem povedať, že to bolo všetko pravda, ale Ty vieš, čo si myslím   o komunistoch, hoci som s nimi nikdy nič nemal. Tento ma jedoval, že   bol taký doriadený a nevyspatý, a pritom si rečnil ako nejaký   generál.
+    </tei:p>
+    <tei:p>
+     A zrazu vraj: Nielen preto bojujeme, súdruhovia, aby sme vyhnali   fašistov, ale aj preto, aby sme zajtra lepšie žili, aby človek   nevykorisťoval človeka, aby nebolo nezamestnaných a aby bol navždy   mier. Reku, počkaj. Zavolal som: Čo je to vykorisťovať. Chlapi boli   ani pena. A on: Vykorisťovať, to je, keď továrnik za jednu tehlu   dostane päť korún a robotníkovi dá päť halierov. Hej, reku, u nás   nieto ani továrnikov ani tehelní. On na to: U vás je vykorisťovať,   keď želiari chodia veľkému gazdovi na pole za dvadsať korún a trochu   zhnitých zemiakov.
+    </tei:p>
+    <tei:p>
+     Neviem, či ma ten Rásocha poznal a či tým myslel môjho otca. Ty   sám najlepšie vieš, že otec dávali aj dvadsaťpäť, aj tridsať, ak bolo   treba, a v naturáliách, čo mali a vždy čerstvé. Konečne, možno   nepoznal, iba tak hodil do vzduchu. Myslel som si, že medzi chlapmi   budú istotne takí, čo majú otcov gazdov. Pýtam sa: Tak vy ste proti   gazdom. Budete brať gazdovstvá! Iba sa tak usmial. Vraj: Nebudú   veľkostatkári a kulaci vysávať malého roľníka. A vtedy začali Nemci   útočiť.
+    </tei:p>
+    <tei:p>
+     Nevravím, že ma neprekvapilo, že išli tankami proti nám, proti   krídlu, hore brehom. Naisto som rátal, že pôjdu najsamprv proti   Čechoslovákom naprostriedku. Videl som, že sa musíme stiahnuť za   briežok, za skaly. A tu ten Rásocha, vraj: Čo? Stiahnuť? Na nich! A   aký bol, zhúžvaný, rozgajdaný ani z chlieva, a ledva videl na oči od   únavy, bez pušky, bez ničoho, začal revať a už aj bol vonku a hybaj   proti tamtým. A predstav si, Ondrej, chlapi za ním ani barani, len   som Ti odrazu bol v zákope sám.
+    </tei:p>
+    <tei:p>
+     Ty predsa vieš, že som bol vždy chlap na mieste. Ani teraz o   strachu ani reči, Boh mi svedkom. Iba som si naraz pomyslel: Za čo   pôjdem? Proti gazdom? Proti vlastnému otcovi pôjdem? Eva Ti iste   vyzradila, že sa chceme brať, len čo sa skončí vojna. Ako vieš, otec   mi dá hneď polovicu majetku, veď som sám, a ak Eva prinesie tých   tridsať jutár, ako sme sa dohovorili, tak sa z toho dá po pansky žiť,   bývať by sme mohli na malom majeri, iba chlievy by sa musely postaviť   nové.
+    </tei:p>
+    <tei:p>
+     Tak pôjdem proti Eve, proti Vašim, proti sebe samému? To by bolo   proti Bohu na nebi.
+    </tei:p>
+    <tei:p>
+     Nemci kosili našich ani proso. Prebehol som po zákope až k hore a   potom svrčinou na cestu do Kríža. Tetka Címerka mi dali civil po   Paľovi. Teraz som doma, maródim. Môžeš mi poslať odpoveď po Imrovi,   je spoľahlivý, slúži u nás dvanásť rokov. Napíš, čo je s Evou, prečo   mi neodpísala a či vám partizáni narobili veľa škody. U nás to bolo   dosť zlé, ale nemecký komandant vravel, že to štát hradí. Ale človek   nevie, komu má veriť.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Csierna Lehota, 19. októbra   1944.
+    </tei:head>
+    <tei:p>
+     Tyű azanyád mindenit, ale nás balamutili! Vraj: Tisícročné   nepriateľstvo! Ja som nie nijaký mudrc, iba desiatnik v zálohe, v   civile šofér v Budafoku, ale takú hovadinu som ešte v živote nepočul,   vážne.
+    </tei:p>
+    <tei:p>
+     Keď sme leteli s poštou od Losonczu do Poľska, povedal pán kapitán   Veresvári Márton: Toto je Horná zem, mládenci. Vravím, naozaj? a   letíme ďalej. Vraví Veresvári: A to sa všetko po vojne vráti k   Materskej krajine, rozumiete? Vravím, rozumiem. Vraví Veresvári, tak   ako Léva a Kassa a všetko. Teraz to ešte nesmú vedieť, aby nešli   proti nám. Vravím, dobre. Ja a zemepis, to je ako moja žena a pokoj v   dome. Vraví Veresvári, toto je Beszterczebánya, najkrajšie mesto   Fölvidéku. Vravím, isteže. Čo už môže povedať desiatnik v zálohe a   pucák v takomto rozhovore.
+    </tei:p>
+    <tei:p>
+     A vtedy, dívaj sa len, príde odrazu stíhačka. Vraví Sebes, pilot.   Pán kapitán, ten stíhač ide na nás. Vraví Veresvári, nerozprávaj   hovadiny, to je tunajší stroj, nevidíš kríž, a Tóti bojujú s Nemcami   ako aj my. A stíhačka, rozumie sa, už aj proti nám. Vraví Sebes, pán   kapitán, už aj útočí. A pán poručík Iványi, ktorý po celý čas spal,   odrazu sa prebudí a krváca z ramena. A hneď nato rup ho do vrtule.   Vraví Sebes, pán kapitán, musíme pristáť. Vraví Veresvári, zbláznil   si sa? pristáť? hovadina! A Sebes pristával. Pozriem, riadne kopčeky.   Myslím si, dopucákoval si. A vtom Veresvári revolverom na Sebesa: Leť   ďalej s jednou vrtuľou! Hovado!
+    </tei:p>
+    <tei:p>
+     Ešte nikdy od počiatku sveta nijaký maďarský kráľovský pucflek   netresol maďarskému kráľovskému domobraneckému kapitánovi po ruke.   Keď tak teraz o tom uvažujem, bol by som to vtedy asi urobil, hoci   neviem, kde by sa to vo mne bolo bralo. Keby sme s celým krámom   neboli narazili na kopec. Trochu nás to poprehádzalo a Veresvári hneď   kričí: Zbrane, hovadá! Zbrane! Ale už všetko zožral fras. Z údolia   utekali proti nám ale desiati s automatmi. Vraví Veresvári, to je   omyl, páni! Stále vravel, že je to omyl, keď nás viedli. A čudné, keď   nás viedli, ja som stále mal ten pocit, že Slováci a ja vedieme   Veresváriho a Iványiho.
+    </tei:p>
+    <tei:p>
+     Dnes, keď som v partizánskej skupine Petöfi pod veliteľom Adler   Sándorom, Maďarom od koreňa, ale československým nadporučíkom, ale   zato Maďarom, ale zato československým nadporučíkom, slovom dnes   viem, že vtedy, keď nás viedli, aj slovenskí chlapci cítili, že oni a   Sebes a ja vedieme tých dvoch našich pánov dôstojníkov.
+    </tei:p>
+    <tei:p>
+     Sebes strašne nadával, nie preto, že v nedeľu sa celá Bisztrica   prišla podívať na kopec Stiavnicsku, kde stál jeho eroplán, Sebes   strašne nadával, že my tam dole ešte nič nerobíme a že tuto Slováci   si povstanú. Keď mu potom Adler Sándor vysvetlil, že to závisí od   vojenskej situácie, Sebes zase len nadával, že by chcel doma bojovať   ako títo tu. Aj bojoval, aj tam zahryzol do maďarskej zeme, pri   druhom výpade cez hranice. Vtedy nás riadne zmastili a stiahli sme sa   až po Murány.
+    </tei:p>
+    <tei:p>
+     Občas som potom vozieval našich, kým bolo na čom. Niekedy ma aj   posielali sem-ta, bol som aj v Tiszovci a na Valjanszkého štábe.   Vtedy som veľmi na to myslel, že nebudú mať ku mne dôveru, ale mali.   Preto večer alebo keď pochodujeme alebo keď sa dívam do vatry, tak si   predstavujem, že pri najbližšom výpade domov stretnem desiatnika,   najlepšie tiež kapitánskeho pucáka, ani nemusí byť šofér, a práve   tomu poviem. Človeče, hovado, nerob sprostosti, či je nejaké   nepriateľstvo medzi pucákmi a šoférmi? Toto je, a nie nepriateľstvo!   To si vymyslel Veresvári a Iványi! Panské huncútstvo! Tak proti komu   bojuješ, somár? Proti Švábom bojuj a proti Veresvárimu a Iványimu!   Tak by som mu to všetko vyložil ako medzi šoférmi na autoštande v   Budafoku. Len ho stretnúť, azanyád.
+    </tei:p>
+    <tei:p>
+     Azanyád, ako ho nestretnúť? Veď je nás všade ani pliev! Veď je nás   viacej ako všetkých Veresváriovcov dokopy, i keď nie sme všetci   šoféri! A všetci idú s nami, nielen tí, čo sú z Budafoku! Či   nie?!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Banská Bystrica, 19, októbra   1944.
+    </tei:head>
+    <tei:p>
+     Čo, kopať zákopy? To ako — ja? Nie je to nejaký..., chcem povedať,   nie je to nejaký omyl..?
+    </tei:p>
+    <tei:p>
+     Ja, bohužiaľ, nemôžem, mám ploskú nohu. Viete, ešte stále si   myslím, že ste hľadali pána Zimániho, čo býva na... Mňa? Mňa,   nepovedzte. Tá ploská noha, to nie je to hlavné, páni. Ale uvážte. Vy   hovoríte kopať zákopy. V poriadku, kopať zákopy. Ale načo? To je to   hlavné, všakver. Načo. Vy hovoríte: Na obranu Bystrice. Dobre, na   obranu Bystrice, nič nenamietam. Ale ráčte sa na vec podívať, povedal   by som, zblízka. Dobre?
+    </tei:p>
+    <tei:p>
+     Fakt je, že ste prišli po mňa, aby som išiel kopať zákopy na   obranu mesta Banskej Bystrice. Je tak? Je tak. Nechajme stranou, že   som chorý človek, je vojna, je revolúcia, ja viem, že to nepadá na   váhu. Ale pýtam sa: Čo budete mať z toho, ak i ja pôjdem kopať?   Hovoríte, že tri a pol tisíca ľudí kope zákopy. Česť im. Lenže   povedzte, ruku na srdce, naozaj tak záleží na tom, aby ich bolo   tritisíc päťsto a jeden? Naozaj si myslíte, veľavážení, že ja tam   niečo zachránim? Že som chorý človek, je bočné, ale rozhoduje   jednotlivec pri tritisíc päťsto ľuďoch?
+    </tei:p>
+    <tei:p>
+     Ja nemudrujem, ja idem hneď s vami. Ale je predsa sloboda   presvedčenia a prejavu, dovoľte láskavo, aby som dohovoril. Hneď a   zaraz pôjdem kopať, hneď uvidíte, ako pracuje vlastenec, keď ide do   tuhého, o to nič. Iba tak zásadne dovoľte: Má to celé kopanie zákopov   vlastne nejaký smysel? Ja viem, že to rozhodly povolané hlavy, ja iba   tak teoreticky, veď je sloboda mienky. Zachránia vás..., zachránia   nás tie zákopy? Nie je skôr logické, že sa Nemci dostanú aj do   Bystrice, ak sa dostali k Bystrici? Ja som starý protifašista. Keby   ste vedeli, ako tých bezbožníkov nenávidím, v kostole vám složia   strelivo, v zuboch by som ich..., ale prepáčte, podľa mojej skromnej   mienky tie vaše zákopy nemajú veľa významu. Nehľadiac na to, že tí   barbari budú z lietadiel ostreľovať ľudí, čo kopú zákopy, a celkom   právom, prosím, veď je to vojenská činnosť. Ja som civil, páni, ale   nie to som chcel povedať. Chcel som povedať, s dovolením: Treba vôbec   brániť Bystricu?
+    </tei:p>
+    <tei:p>
+     Totižto... nepôjdete ďalej, páni? Na skleničku. Nie? Vskutku   nie...? No tak len v rýchlosti. Kde som to... Áno. Pozrite. Treba   rozvážne. To celé povstanie..., ja som s povstaním, ja som dodal   vojsku štyristo metrákov nulovej múky a za úradné ceny, ale čisto   principiálne: To celé povstanie..., nebolo to — nie, božechráň, nie   zbytočné, iba — eventuálne trochu predčasné. Nie? Alebo povedzme to   takto: Veď Nemci už skapínajú, to vidí aj slepý. Rusi ich bijú   hlava-nehlava, aj dnes hlásilo Oberkomando..., slovom, bijú ich. Nuž   teda: Museli sme sa do toho pchať? Nemohli sme čušať, prepytujem, ako   voš pod chrastou? Nemohli sme počkať, kým sa toto všetko preženie...?   Museli sme si páliť prsty? Nebolo nám dobre...? No povedzte, páni,   nebolo nám dobre...?
+    </tei:p>
+    <tei:p>
+     To je tak, keď si ľudia nevedia vážiť pokoj. Vravia, že vypálili   Skalku. Ja tomu síce neverím, ale je to možné, nie? Možno vypálili aj   hotel, od nich to vystane. Boli ste už na Skalke na víkende? No   vidíte, neviete, čo strácate, páni! Bol to nerozum! Ba čo viac,   nezodpovednosť to bola! Riskovať desaťtisíce ľudí! A koľko takých   hotelov ako na Skalke! Začo? Prečo? Ide o týždne! Čochvíľa Germáni   zgegnú a my sme nemuseli povedať ani bé!
+    </tei:p>
+    <tei:p>
+     Kopať zákopy! Pre koho?! Já vám poviem, pre koho! Pre Nemcov!   Bystricu dostanú tak či tak a v našich zákopoch sa potom budú brániť   proti bratom Rusom! Páni, uvážte! Idete s Nemcom proti rodnému   bratovi! Fuj!
+    </tei:p>
+    <tei:p>
+     O tomto ste ešte neráčili uvažovať, čo? Nuž tak uvažujte! Ja si   idem ľahnúť, ja som chorý človek. Ešte si niečo želáte?
+    </tei:p>
+    <tei:p>
+     Čože? Mňa? Ale mňa?! Ale akým právom, prosím? Je sloboda   presvedčenia! Pomoc! Pomoc! Pomoc!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Radvaň, 27. októbra 1944.
+    </tei:head>
+    <tei:p>
+     Aj by som klial, Uľka moja, aj mi je smutno. Či sa človeku   snívalo, že bude tri týždne doma, a že Ťa neuvidí a malého? Zajtra   ráno ideme ďalej do hôr a zasa sa to pretiahne. Hoci Rusi sú už   niekde pri Užhorode a nemôže to dlho trvať, onedlho sme doma. Môžeš   malému povedať, že ocko prídu do mesiaca. Dostala si môj prvý   lístok?
+    </tei:p>
+    <tei:p>
+     Len som ho napísal, už sme aj tašli na juh. Chlapci sa mi smiali,   lebo od samého Sanoku až po Tri duby som im vykladal iba o Tebe a o   malom a o tom, že Iliaš je od Troch dubov na skok, že Vás uvidím   hádam ešte tej noci. Celý som bol zachrípnutý, lebo človek musí   poriadne kríkať, ak chce dačo vyprávať v takom lietadle.
+    </tei:p>
+    <tei:p>
+     No len čo sme pristáli, odvelili nás, ledva sme si odpočinuli. A   už sme aj boli v ohni, dolu medzi Divínom a Mýtnou. Nemci sa tisli z   Maďarska a z Rumunska, Rusi ich hnali ani mačence. Hneď som videl, že   na tomto fronte bude všeličo, iba nie dovolenka. Človek priam závidel   Pražákom a Ostravákom. Iliaš bol na pár kilometrov, dobre že nás za   naším plotom nesložili, a figu som z toho mal.
+    </tei:p>
+    <tei:p>
+     Tak sme ležali tam dolu a strašne sa mi čnelo za vami. Nácikovia   sa pchali na Slatinu ako nechcem povedať kam. Chvíľu sme ich držali,   potom sme pomaličky curukovali na Zvolen. Vraj pekne zvoľna, medzitým   opevnia Bystricu a potom už ani na piaď, kým neprídu naši cez   Duklu.
+    </tei:p>
+    <tei:p>
+     Uľka, Ty neplač. Keď sme prebehli pri Rostove aj s celou stotinou   a keď Ti povedali, že je po mne, naplakala si sa do foroty. Teraz som   tu, i keď sme sa ešte nevideli. Na horách budeme do zimy, najdlhšie   do Mikuláša. Malému môžeš povedať, že ocko prídu na Vianoce a donesú   koníka. Keď sa mi pri Sokolove nič nestalo, tak už len hádam tu doma   nie, kde poznám každú borovicu.
+    </tei:p>
+    <tei:p>
+     A nácikovia len na ten Zvolen. Naši vraj, ani bohovi. Ale nás   šúľali hore údolím, pancierov mali ani po daždi hríbov a ak niekomu   tečie do topánok, tak je s ním ťažká reč. Keď sme ležali pri   Podkriváni, naši zasa, do Zvolena ani po smrti. Ale už sme aj boli na   Lieskovci. Hútam: Tanky sú tanky a je vás ani psov, ale keď nás   potisnete, budeme bližšie k Iliašu. Uľku uvidím.
+    </tei:p>
+    <tei:p>
+     A veru sme sa mali čo oháňať, ako keď ti klas za košeľu spadne. No   keď sme sa sťahovali, pomyslel som si zakaždým: Koľko sme od Iliaša?   So pätnásť. A na druhý deň: So jedenásť. Až som sa trápil, že to nie   je pekné takto sa utešovať, keď ustupujeme. Ale sme ustupovali k   Iliašu, to bolo raz pravda.
+    </tei:p>
+    <tei:p>
+     Chvíľu som sa Ti bál, že sa stiahneme rovno na Detvu, alebo na   Očovú. Pôjdeš do hôr, a ani ženu a decko si neuvidíš po dvoch rokoch?   Ale sme zostali dolu v údolí a ja som sa hotoval, že vás uvidím. A   nielen vás, aj na Groha som sa tešil. Ešte sa naparuje na stanici s   tou červenou čiapkou a s tou tabuľou na papeku? Veď mu zdvihneme   mandle, až sa vrátime z hôr, len nech ho Valent a Mišo podržia, aby   nefukol, povedz im. Má toho na rováši až-až, od volieb v tridsiatom   deviatom až po to jeho komisárovanie. A okrem Groha tešil som sa na   to miesto pri lipe, kde sme vtedy zakopali Murka, keď zdochol a kde   sme boli ten večer, keď som prišiel z Handlovej, veď vieš, čo myslím.   Parom ho vie, prečo iba o tom mieste hútam, a nie o izbe alebo o   inom, ale od Rostova mi chodilo po rozume aj s kocúrom.
+    </tei:p>
+    <tei:p>
+     A ak nás tisli, tak nás tisli, iba keď sa nám začalo vidieť, že to   nemá budúcnosť. A vtedy sa roznieslo, že medzi Hájnikmi a Bystricou   vykopali ohromný zákop a ten že budeme držať až do posledného. Myslím   si, medzi Hájnikmi a Bystricou, to by mohlo byť akurát pri Iliaši.   Nuž odtiaľ teda ani na cvol, naozaj. Len som sa potešil, začaly   chodiť rozkazy. A už sme aj fárali za Iliaš — na Badín.
+    </tei:p>
+    <tei:p>
+     Uľka moja, keď sme tej noci išli okolo Iliaša, povedať Ti neviem,   ako mi bolo. Ani lipku som nezazrel, vari ste ju soťali? Tak pršalo,   ako by celý svet chcelo zatopiť. Chlapci sa už nesmiali, keď som im   povedal, že tamhen za Grúnikovou je naša strecha s komínom, iba   zahovárali, že o pár dní aj tak budem doma.
+    </tei:p>
+    <tei:p>
+     Tak je, nuž buď pekne pokojná. Nácikovia melú z posledného a v   horách nebudeme dlho. Neviem, čo ma stále to miesto pri lipe máta,   kde sme Murka zakopali. Veď ta teraz strašne musí fúkať s Halajovie   brehu, istotne sa tam ani sedieť nedá. A do jari dávno budem doma.   Miesto si nájdem vo Zvolene vo výhrevni, do Handlovej sa nevrátim. S   chlapcom sa budem baviť, ba či vyrástol, beťár. Nič sa neboj, na   prvého mája taká bude veselica, akú svet nevidel. Keď sme si našli   cestu cez Don, cez Fatru už len dáko potrafím, ani sa nevyspíš. Iba   že človek po toľkých vrchoch musí pochodiť, aby si pod lipku zasadol   a bavil sa s chlapcom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Staré Hory, 29. októbra 1944.
+    </tei:head>
+    <tei:p>
+     Ráčte, prosím pochopiť: Čo má našinec s tankami? Ja sa rozumiem do   porcelánu a do fajansí, do Rosenthalu, do Sèvres a do Eschenbachu,   nie do tankov. I do skla sa rozumiem, ako iste ráčite vedieť, a preto   ma najväčšmi mrzí, že som vám rozbil všetky okná. Medzi bratmi vás   to, prosím pekne, bude stáť osemtisíc rovných.
+    </tei:p>
+    <tei:p>
+     No, ráčte posúdiť, mohol som urobiť dačo iného? Ako vravím, do   tanku sa nerozumiem. Ale, ak sa tak smiem vyjadriť, k srdcu mi   prirástol. Vozili sme sa na ňom hore-dolu od chvíle, čo sme ho dobyli   niže Krupiny, hneď na začiatku. Bojovali sme na ňom, aby som tak   povedal.
+    </tei:p>
+    <tei:p>
+     Priam som tŕpol, aby nám ho nechali. Filip ho viedol, mal vraj   taký výcvik, možno aj nemal, ale dlho chodil s dieslákom a nejaký   Figura bol strelcom, tokár, trochu sa zajakal, aj v Španielsku bol   kanonierom. V útoku som mu vždy držal palce, aby sa mu božechráň dačo   nestalo, lebo po ňom by som iste ja bol musel robiť strelca a to sám   ráčite vedieť, akýže som ja strelec, však áno. Porcelán, to je už   iné.
+    </tei:p>
+    <tei:p>
+     Jednako som len po celé povstanie chodil v tanku. Akosi nám ho   nechali, pozabudli, konečne bili sme sa. Dovoľte, aby som Vám to   vysvetlil. Za tie dva mesiace mi všeličo svitlo, prosím. Hlavne som   si, ráčte vziať na vedomie, dobre všimol, kto je na čej strane. To je   dôležité. Ale to najdôležitejšie je, prosím, že ja som bol na tej   správnej strane. To, ak dovolíte, vysvetlím príležitostne, dnes ide   iba o tie rozbité okná, aby som nezabudol. Len toľko, že na našej   strane bojovali všelijakí ľudia, ale všetci boli naši. Jedenásť rokov   som predával porcelán, ako ráčite vedieť, ale som nemal ani pochopu,   že našich je toľko. Keby som bol, sotva by ma nebohý Váš pán brat   boli za jedenásť rokov preháňali po magacínoch pre karlovarské   šerblíky po stovke kus.
+    </tei:p>
+    <tei:p>
+     Pokiaľ teda ide o to sklo. Na vine je ten rozkaz. Bol, neráčte   zazlievať, celkom hlúpy. Od Krupiny po Bystricu, to bola cesta,   prosím. Deň čo deň sme bojovali. Čo som ja, prosím? Obchodný   pomocník. Ale keby sa mňa boli pýtali, Bystricu by som, prosím, nebol   vydal. Mohli nám pri Kríži rozkázať, aby sme útočili na desať tankov   jedným. Mohli nám rozkázať, aby sme pol druhej hodiny kryli ústup   guľometom. Mohli nám rozkázať, dovoľte mi trochu prepínať, aby sme   išli rovno do Berlína. Ale nemôžu nám rozkázať, aby sme nechali stáť   svoj tank a len tak išli preč. I keď sa rozumiem iba do toho   porcelánu a keď som vlastne iba tŕpol, aby nedajbože nezabili Figuru.   Od Krupiny po Bystricu som akosi ožil, väčšmi, ako keby som ešte sto   rokov bol predával sošky a biele misky do záchodu. A to som robil   statočne, ako Vám iste povedal nebohý Váš pán brat.
+    </tei:p>
+    <tei:p>
+     Nemôžem za to, že nám zastal práve na Dolnom predmestí, pred Vaším   domom. Bol by som sa rá dostal až sem, aj ďalej. Keď som si   predstavil, že ho nájdu a prídu sem za mnou a že raz na mňa budú   cieliť z môjho tanku, taký horúci pocit som mal v žalúdku, ako keď   som si svojho času predstavoval, že mi v skladišti spadne na cement   pozlátený Rosenthal pre dvanásť osôb aj s čiernou kávou.
+    </tei:p>
+    <tei:p>
+     Filip a Figura povedali, že prinesú tie pohonné látky, a keď cez   noc neprišli, myslím si, prídu určite ráno. Nikto nemohol vedieť, že   medzitým vydajú ten, s dovolením, hlúpy rozkaz. Ráčte posúdiť, preto   som bojoval, aby som potom iba tak všetko nechal stáť a zaliezol? A   ja som bojoval, ak dovolíte, kým Vy ste sedeli na Dolnom predmestí a   tŕpli, kto vám čo rozbije.
+    </tei:p>
+    <tei:p>
+     Vaše okná, to mi ráčte veriť, som vôbec nemal na ume. Ale nemohol   som sa odtrhnúť od neho, i keď som len vtedy videl, že je akosi   celkom inakší než moje fajanse. Ozrutný bol odrazu, ako zaboha   nemohol s miesta. Keď sa Filip a Figura nevracali a keď sa paľba   blížila k Radvani, uznajte, nebolo inej pomoci.
+    </tei:p>
+    <tei:p>
+     Pravda, jedna nálož by bola celkom stačila, ale ako som to,   prosím, mohol vedieť? Porcelánový magacín za desať miliónov bol by   som zničil za minútku. Myslel som si, že na takú obludu ani desať   náloží nestačí, konečne, ešte nikdy som nevidel, čo taká nálož robí,   keď raz vybúši. A potom, ráčte si všimnúť, vláčil som práve šiestu   nálož, keď to vyletelo do vzduchu, ani som dobre nevidel, ako, veru   som si aj poplakal trochu, čo mi ho bolo ľúto. Keby odrazu nebolo   vyletelo, bol by som to vari musel podpáliť zápalkami, kto ho vie.   Niekto do toho asi strelil, neráčite myslieť? V obchode nebohého   Vášho pána brata sa nikdy podobná robota nevyskytovala.
+    </tei:p>
+    <tei:p>
+     I mňa poriadne pripučilo o múr, o to nič. Priznám, trochu ma   zarazilo, že široko-ďaleko vybilo všetky okná. To som nechcel, verte   mi. Ale čo robiť, pane? Mal som im ho nechať, aby ním išli proti nám,   keď už naši páni stratili rozum, neráčte zazlievať otvorenú reč, a   prikázali ustúpiť bez boja? V prvých dňoch povstania — prosím. Ale v   posledných — nie. Za ten čas sa mi, ako vravím, rozvidnilo.
+    </tei:p>
+    <tei:p>
+     Tak isto dúfam, že ste neráčili uveriť, že som Vášho pána brata,   tak povediac, úmyselne skántril, ako hlásili z Bratislavy, z pomsty   vraj, že ma preháňal s porcelánovými Panenkami Máriami a že bol   veliteľom gardy. Ako som spomenul, bol som v ten čas po nálož. Ani   som nevedel, že je u Vás. Akiste črepina ho zasiahla. Dovoľte mi   dodať, pred povstaním by to bolo bývalo strašné nešťastie. Ale po   ňom, prosím, či ste to neráčili očakávať? Pre samý front nebolo kedy   cieliť na takých, aký bol nebohý Váš pán brat, nuž aj črepina bola   dobrá. Neráčte si to vysvetľovať po zlom, ale aj proti takým sme si   dovolili ísť, aký bol nebohý Váš pán brat, čo sa práve dosť namučil   Filipa za tých pár stovák, ktoré od neho bral, a mne by bol dušu z   košele vysal, aby na vázičkách a kalíškoch zarobil netto o nejaké   percento viac. A aby som nezabudol, tak pokiaľ ide o tie okná.   Tabuľové sklo mal Váš pán brat ukryté v treťom sklade pod dlážkou.   Výborné sklo, z Nemecka, z Draždian, pán šéf ho tam boli kázali   složiť pre časy, až ho nebude a až ho poriadne budú preplácať. Teraz,   čo sme vyhodili aj mosty a čo toľko bombardovali, iste by sme ho boli   mohli predať aj za päťnásobnú cenu. Akosi sme všade použili prisilné   nálože. Tak je to, keď človek po celý život robí v porceláne, keď mu   potom odrazu otvoria oči a keď ide rozbíjať, čo chráni ľudí, ako bol   nebohý Váš pán brat. Čo sa dá robiť, prosím pekne, keď potom lietajú   črepiny.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Lučatín, 30. októbra 1944.
+    </tei:head>
+    <tei:p>
+     Veríš-neveríš, zahlušil som generála.
+    </tei:p>
+    <tei:p>
+     Sedel som v pivnici u Blahušiakov a hrešil som na doktora. Ruka ma   otravovala a krv mi premokala. Tí dvaja, Galanda a Argaláš, už boli   preč, Galandu odniesli a Argaláš mal iba to na tom čele, tak išiel   sám. Ja že pôjdem za nimi, iba že si obväz spravím. A len som si ho   pobabral, začalo premokať a celý som bol od krvi. A vtedy začaly tie   výbuchy. Prásk. Idem k obloku, reku začali na nás zasa mínami, ale na   kieho boha? Veď dedina bola voľná.
+    </tei:p>
+    <tei:p>
+     Plamene som vtedy ešte nevidel. Chvíľku som si myslel, že to naši   kryjú ústup. Reku, figliari. Ruka sem, ruka tam, bolo treba ísť. Ísť,   to sa povie. Vstanem, bolesť ani čert. A čo, keby reku predsa nejaké   Nemčisko. Ľavou toho veľa nenastrieľaš, to je raz sväté.
+    </tei:p>
+    <tei:p>
+     A vtedy som už videl aj plamene. Prasce, vyhadzujú a pália celý   Telgárt, dedinu partizánsku. To z pomsty, že sa sedem týždňov držala   ako malý Slatingrad! Ej, bysťu, myslím si, nohy na plecia. A vtedy už   stál na schodoch aj s debničkou v rukách.
+    </tei:p>
+    <tei:p>
+     Ja chytro bokom; aby nevidel obväz a nedostal guráž. Automat   natrčím a naň: Reku, polož tú debničku. V automate som mal vari ešte   štvrť kotúča.
+    </tei:p>
+    <tei:p>
+     Nemec bol obstarší. Okuliare mal, také na drôtiku. Nebol eses, iba   vojak a triasol sa ako myší chvost. Domy dookola blčaly, svetlo naňho   padalo, dobre som si poobzeral.
+    </tei:p>
+    <tei:p>
+     Flintu, vravím, polož tam na schodík, dobre? Ako ju kládol, sišlo   mi na um, že porozumel po slovensky. Ty prasa, vravím, ty si zkade,   zo Spiša? Né, vraví, z Liberce.
+    </tei:p>
+    <tei:p>
+     Aha, myslím si. Dookola už horely chalupy. Drličkova blčala ako   stoh, aj sýpku mu zapálili, somári, mohli sa najesť. Z Blaškovičovho   staviska som videl strechu, ešte stála, eternitová bola. Tak ma   nahnevalo, že len tak do sveta pália tento Telgárt, že som celkom   zabudol na maškaru. Celkom ma prekvapilo, keď sa ozvala.
+    </tei:p>
+    <tei:p>
+     Já sem totálne nasazen, šemoní, já sem musil. A zubami cvakal ani   smrtka. Reku, čo sa budeš s ním paprať, dávku doňho a hajde. Hajde   ako hajde. Lebo dookola už všetko horí.
+    </tei:p>
+    <tei:p>
+     A vtedy Nemec hybaj behom.
+    </tei:p>
+    <tei:p>
+     Stoj, vravím, strela ti do matere, kde tájdeš, veď tamvon všetko   horí. A už aj sa vracal so schodíka na schodík. Tam si, reku, sadni   na zadok. Tak som mudroval, že si podelili domy, tento sverili   tomuto, možno naň zabudnú.
+    </tei:p>
+    <tei:p>
+     Pane, zasa tamten, já za nic nemohu. Prosím, pusťte mne. To vieš,   myslím si. A vonku len horelo.
+    </tei:p>
+    <tei:p>
+     Z Liberca, vravím, tak čo tu chceš na staré kolená, truľo. Díval   sa mi na mušku. Skľúčene, až to bolo sprosté. Vravím, negáň,   starygáň, doma si mal sedieť za pecou. A zasa si myslím, dávku mu do   bachora, čo sa hráš, ale vonku začalo dohárať, nedajbože začujú   výstrel a prídu mi na krk. I tak raz zbadajú, že Blahušiak   nehorí.
+    </tei:p>
+    <tei:p>
+     A tu ten starý: Že bol strojmajstrom v textilke, že má   päťdesiatpäť rokov, a zas, že ho totálne nasadili. Nato ja, koľko má   detí. Povedal sedem, ale istotne mal len dvoje, napokon to ma vtedy   vôbec nezaujímalo, zaujímalo ma, že je strojmajstrom. Naraz som si   začal predstavovať našich strojmajstrov v Podbrezovej, Vendelína   Bučku a starého Říhu, krucifix, myslím si, strojmajstrom sa človek   nestane za týždeň, v tom sú roky a roky, a išiel by Bučko a Říha len   tak mne nič, tebe nič podpaľovať dediny, ktoré nikdy nevidel? Viem,   že textilka nie sú železiarne a že toto nie je Bučko, ale predsa:   Tomuto truľovi, tomuto strojmajstrovi niekto musel povedať: hotovo,   stroje necháš tak a hybaj páliť Telgárt; páliť Telgárt nie je dvakrát   príjemná zábava; sakramentsky mu to musel vytmaviť, hádam aj prinútiť   ho musel, lebo Říha by veru ťažko nechal stroje tak pre nejaký   Liberec. To je isté.
+    </tei:p>
+    <tei:p>
+     Tak dvoje detí máš, vravím, iba aby reč nestála, chcel som si to   rozmyslieť, anciáša mu, dedkovi. Sedem, prosím, vraj, ako by na tom   záležalo. A na čom záleží? Myslím si, dávku mu do pupka, čo sa tu s   ním diškuruješ, ale ja som takto rozväzoval: Na čom teda záleží?   Tohto prizabijem, o to nič. Ale čo s tým? Toho treba zahlušiť, čo   tomuto povedal, aby išiel páliť Telgárt. Lebo ten to môže povedať   ešte dvadsiatim a hneď prídu s debničkami.
+    </tei:p>
+    <tei:p>
+     Nechcem povedať, že tento Nemec bol taký samý proletár ako i ja.   Bol hlúpejší proletár a sám. Keď je proletár sám a hlúpy, páni mu   rozkazujú, ako chcú. Rozkazujú sem, rozkazujú tam a nakoniec kážu   vziať ekrazit a ísť na Telgárt.
+    </tei:p>
+    <tei:p>
+     Vtedy som zbadal, že už aj Blahušiak horí, začalo posmrdkávať a   išlo teplo a dym. Už sa mi akosi nechcelo vpárať mu dávku. Keď sme   pri Tisovci vyhadzovali nemecký vlak, tiež sme nevyhadzovali posledný   vagón. Najsamprv rušeň. Táto papuča, to je posledný vagón.
+    </tei:p>
+    <tei:p>
+     Ale ohromne sa mi zachcelo ísť na rušeň. Už priháralo a ja som si   tak umienil, že zaraz musím nájsť toho, čo strojmajstrovi v Liberci   povedal, že má nechať mašiny tak a ísť proti mne.
+    </tei:p>
+    <tei:p>
+     Starého som začapil v pivnici, nech sa s ním robí, čo sa chce,   potom hybaj hore po schodíkoch a hneď som ho i videl.
+    </tei:p>
+    <tei:p>
+     Išiel ešte s troma medzi plameňmi a zhoreniskami. A už aj doňho   automatom. Za Drličku, za Blaškoviča, za celý Telgárt. Podaktorí   zaľahli nosom do horúceho popola, iní znohovali a on ju dostal. Asi   si myslel, že je nás neviemkoľko, a ako anjelik som tiež nevyzeral,   celý od krvi a uprostred ohňa.
+    </tei:p>
+    <tei:p>
+     To vieš, že tú dávku po pravosti dostal ten s dubovým lístkom. Už   nijakého strojmajstra nikde nepošle. Ale tu v brigáde je chlapík.   Nejaký Marek, z Ruska prišiel, že je komisárom, a tomu som to   rozprával. Vraj, dobre, ale ten s tým dubovým listom je tiež iba   takým strojmajstrom, ktorému povedali. A Hitler, vraj, to je tiež iba   taký hlavný strojmajster. Reku, ako? Tak koho zahlušiť, aby bol   pokoj?
+    </tei:p>
+    <tei:p>
+     Usmieva sa, všetko po poriadku. Najprv tých, ktorým povedali a   ktorí išli ani sprostí, potom tých s listom, potom Hitlera a potom   tých, čo jemu povedali alebo už ako, čo jemu dovolili, aby išiel na   Telgárt. Vraj, neveľa ich a nás veľa. A že hádam ani nebude treba   automatom. Iba tak pri mašinách, ako Bučko a Říha.
+    </tei:p>
+    <tei:p>
+     Nuž, reku, uvidíme. Nateraz pôjdeme proti tým s dubovými lístkami.   Ráno sa stiahneme na Ďumbier. A tá koťuha, ten Marek mi musí vyložiť,   čo treba, aby si ľudia, potvory, čochvíľa jeden druhému nevypaľovali   nejaký Telgárt.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Zemljanka nad Železným, 12. novembra   1944.
+    </tei:head>
+    <tei:p>
+     Bola naozaj malá nádej, že zastihneme lyžiarsku patrolu ešte v   Kľačanoch alebo v Dúbrave. Jednako som nemal inej voľby: Museli sme   útočiť, od samého hladu i od zimy a nekonečného čakania tam hore.   Keby sme ich neboli zastihli na dvore školy, boli by sme istotne   prenikli až do Ľupče. Už štrnásty deň neprileteli naši. Raz prileteli   a nenašli nás pre počasie.
+    </tei:p>
+    <tei:p>
+     Celý výpad trval niekoľko minút. Vyčistili sme chalupy, sbalili   proviant, čo nám Janičinovci pripravili, a zajatca pre zprávy a   vracali sme sa na Železnô. Stretali sme furmanov, ktorí viezli drevo   do Hrádku. Cez deň spravili mosty, potom prišli, že sú hotové, a v   noci sme ich búrali. Púšťali sme furmanov do doliny, lebo Nemci   rátali s tým, že v miestach, odkiaľ chodia furmani, niet partizánov.   Furmani sa trochu čudovali, že si vedieme zajatca.
+    </tei:p>
+    <tei:p>
+     Ako sme kráčali po zamrznutom snehu, usmial sa na mňa.
+    </tei:p>
+    <tei:p>
+     Ak sa na človeka v tejto situácii usmeje Nemec, nuž ťažko si dačo   o tom myslieť. Pamätal som sa na dva úsmevy Nemcov, ktorí bojovali v   tejto krajine. Prvý bol úsmev kaprála, keď nás zajali pri Štubni,   druhý bol úsmev strážneho, keď sme ušli z ružomberskej stanice. Ani   ten živý úsmev, škodoradostný a studený ako sódovka, ani ten mŕtvy,   prekvapený, vyčítavý nepodobaly sa úsmevu tohto zajatca. Iba teraz   som si všimol, že bol bez kabáta, v sivom svetri a ruky mal   velikánske a holé a pokožku červenú od mrazu. Pomyslel som si, že to   azda nie je úsmev, iba kŕč: Tuho dulo a sneh poletoval. Aspoň bude   mäkkší pri vypočúvaní, povedal som si. — Teraz ma odpravíte vy, —   povedal odrazu po nemecky. — To je humorné.
+    </tei:p>
+    <tei:p>
+     Správal sa nenemecky. Usmieval sa vo fujavici. Už sme sa blížili k   zemljankám a stráž na nás volala: Heslo! — Sloboda! — Stalingrad! A   ako som sa tak díval na zajatca, pre ktorého bude humorné, ak ho   odpravíme, rozpamätal som sa náhle na chvíľku, keď som soskočil s   múrika na školský dvor a začal páliť. Ako to, že tento ostal nažive,   veď stál celkom nablízku pri stene?
+    </tei:p>
+    <tei:p>
+     Hneď som pochopil: Na koho páli vojak predovšetkým? Na   ozbrojených. Všetci na dvorčeku boli ozbrojení. Iba tento stál pri   stene, bez prilbice, bez kabáta, s veľkými rukami, rozožratými   mrazom.
+    </tei:p>
+    <tei:p>
+     Vypočúvali sme ho dlho. Vypovedal obšírne, všeličo vedel, bol   zpravodajcom. Čudná vec, i keď ide o život, pocíti človek s kolegom   akési skmotrenie. Nepočúval som, čo hovorí. Myslel som na to, že ho   vyviedli na dvorček a postavili k stene. Vravel pomaly, možno   získaval čas, aby sa zohrial. Červené ruky mu napúchaly. Konečne som   si všimol, že sa díva na mňa. Nebývalo u nás zvykom diškurovať so   zajatými nepriateľmi.
+    </tei:p>
+    <tei:p>
+     Vyšiel som za komisárom do suchej víchrice. — Vieš, že ho chceli   popraviť? — povedal som mu.
+    </tei:p>
+    <tei:p>
+     — Viem, videl som. — Díval sa chvíľku na mňa. Keď zjavne očakával,   že niečo poviem, povedal som: — To je humorné.
+    </tei:p>
+    <tei:p>
+     — Čo chceš? — povedal. — Strážiť ho, kŕmiť ho? Načo, na   semeno?
+    </tei:p>
+    <tei:p>
+     Nemohol som myslieť na iné ako na škôlku v Liptovskej Dúbrave, v   ktorej sa usalašil nemecký vojak, čo sedem rokov chodí v mundúre,   sedem rokov odstreľuje ľudí, čo chceli žiť v pokoji, sedem rokov   nenávidí, miesto raňajok nenávidí, miesto večere, miesto spávania s   frajerkou, namiesto všetkého nenávidí, a odrazu sa prebudí v dedinke   v týchto horách, ďaleko od Karlsruhe, kde vyrezával z dreva alebo   vyučoval tesnopis, odrazu si povie, veď toto všetko je strašná   sprostosť, veď nemožno nenávidieť každého človeka a treba s ním azda   aj ináč obcovať než iba strieľať na neho. A tento nemecký vojak   konečne, i keď neskoro, vidí, že ho podviedli, že do nekonečna bojuje   prehratý boj, že sa raz bude zodpovedať za to, čo zničil, že nemožno   poraziť celý svet, že napokon so svetom treba robiť aj iné veci než   ho stále porážať. A tohto nemeckého vojaka, ktorý stratil nervy,   šialenca, defetistu, vyvedú na dvor škôlky a chytro popravia.
+    </tei:p>
+    <tei:p>
+     Komisár povedal: Na semeno. Možno — na semeno! Veď aj táto vojna   sa raz skončí a či potom budeme ako tamtí?
+    </tei:p>
+    <tei:p>
+     — Prestalo snežiť, — povedal komisár. — Prídu po stopách. Trel som   Nemcovi omrzliny. Čakal, čo s ním urobíme. Neurobili sme s ním   nič.
+    </tei:p>
+    <tei:p>
+     Ale keď prišli lyžiari, bieli, zababušení, velikánska patrola,   videlo sa nám, že tentoraz prišli proti nemu, a nie proti nám. Kosili   sme ich z krytu.
+    </tei:p>
+    <tei:p>
+     Ale oni hľadali toho svojho. Neviem, ako ho objavili. Ale   sústredili naň všetku paľbu.
+    </tei:p>
+    <tei:p>
+     Nechceli nechať ľudí na semeno. Na časy, až sa prestaneme   nenávidieť miesto raňajok. Ale ja viem, že nejakí zostanú.
+    </tei:p>
+    <tei:p>
+     Prenasledovali sme ich až do Kľačian. Nemci mali so dvadsať   mŕtvych, my toho jediného. Večer zas opravili most. Pobral som sa s   piatimi chlapmi dolu ku hradskej.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Peklo nad Brusnom, 22. novembra   1944.
+    </tei:head>
+    <tei:p>
+     Najsamprv ho nakŕmia, pekne ich prosím; a dajú mu dačo na to   koleno. Potom mu vydajú ten balík, čo u nich nechali pre nás žandári   zo Sv. Ondreja, a ešte dačo, dajú mu obrázok Stalina. Ak nemajú doma,   nech idú za Ďurom Vertišom, dá im. Ak je nie doma, iste je zase v   Ilave či kde, tak nech idú do Babincov, aj keď sa od Anny   nerozprávajú s ujom. Milka im dá Stalina, ešte z jari mi ukazovala,   že má. Veľmi potrebujem Stalina pre Tatára. Keď sme sa ešte v auguste   stretli pod Ďumbierom, povedali nám, čo je Tatár. Že je nie Tatár,   ale sme si nezapamätali, čo je, tak ho voláme Tatár, lebo po tatársky   vyzerá. Ale sa dobre bije, aj pri Lopeji bol na samom predka a všade.   Fajčí od rána do večera, aj trávu v novinách, keby jej len bolo. Od   prepadu pri Lopeji má dva automaty, jeden svoj s tanierom a jeden   germánsky a nechce ho dať nikomu, ani nie veliteľovi. Tak toho   Stalina mi pošlú, veľmi sa bude radovať. Lebo náš Tatár a Stalin sú   ani rodní, z domu sa dobre poznajú, iste aj do nich chodili. Lebo   raz, ešte keď sme vyhadzovali telgártsky viadukt a Nemci išli hore   brehom aj s psami, reku, Tatár, v nohy. A Tatár, že, ba ešte čo,   tovariš Stalin by sa srdil. Ja mu na to, čo by sa srdil, čo ho po   tebe, či on vari vie o tebe? Ten sa im tak na mňa pozrel, ako by som   mu bol ublížil. A vtedy druzg ho aj s viaduktom, len sa tak rozsypal   ani zrno v rajtri. A čo, reku, Stalin nemá inšiu robotu ako s Tatármi   sa jedovať? A či on, vravím, vie, že si tu nad Telgártom a viadukt   vyhadzuješ? Zasa sa tak na mňa pozrel: Vraj, durak, to je ako somár,   durak, vraví, a mňa kto sem poslal? Tovariš Stalin ma poslal.   Povedal, choď a Nemcov bi. Tí sú zadobre, čo, takých známych mať. Ale   mi nedalo, reku, a keby sa ti tu nedajbože dačo pridalo, tovariš   Stalin by bol smutný? Díva sa im na mňa, Tatárisko, a potom vraj:   Hej, veľmi by bol smutný. Ale prikázal, aby sa nič neslúčilo. Po   pleci poklepal, ruku stisol a vraví, merkuj, molodec a Nemcov bi   tahet. Ale toto už klamal, až sa hory zelenaly. No od tých čias ako   by bol Stalin s nami bojoval. Keď sme chceli znohovať — čo na to   tovariš Stalin, srdiť sa nebude? Ale keď sme sa držali, zavolal   veľkých pánov ku karte, čo v Kremli visí, a povedal, že golubčíci,   dobre je, môj Tatár sa drží pod Ďumbierom a s ním je aj Imro   Fekiač-Lazišťan z Brusna. Treba im poslať dačo, že na nich myslíme. A   aj chodili v noci a shadzovali nám, iba nie vždycky to, čo sme akurát   potrebovali. Nemali sme šesťky, shadzovali nám čiapky. Nemali sme   baganče, shadzovali čukoládu. Nemali sme mäsa, shodili nám rakétlí.   Raz veľmi dlho neprišli a potom prišli vo dne, nemali sme čo žrať, a   oni nám shodili ešte dvoch chlapov, ešte jedného Tatára a jedného, čo   vravel po slovensky ako aj my, iba že bol z Ruska. A obaja sa poznali   s tovarišom Stalinom a obidvoch on poslal. Ja som nikdy nevidel   Masaryka ani Beneša, a tam sa so Stalinom každý kamaráti. A ešte nám   raz shodili máchorku a Pravdu. Máchorku veliteľ rozdal a Pravdu pekne   poskladal na osmičky a bodákom rozrezal. Ako rozdával papieriky,   môjmu Tatárovi dal taký, čo na ňom bol dopoly tovariš Stalin.   Narovnal ho pekne a za košeľu skryl. A kúriť, reku, nebudeš? A Tatár,   že nie, že nemá chuť. A my sme všetci piekli ani Podbrezová, a on   nič, iba chriakal hore-dolu, čo mu sliny tiekly. Keď som dobiedzal,   odrazu sa im dal do mňa: Neponímaješ, vraví, durak! A či ja, vraj,   musím fajčiť? Nenadá. A ja som veru ponímal. Tak mi, prosím ich,   pošlú toho Stalina, ak je Vertiš nie doma, dá im ho Milka od   Babincov. Lebo mi tu Tatár skape od nefajčenia, neborák. Teraz mi na   rozum sišlo, že mi mohli poslať aj dáke noviny na fajčenie, nuž ale   čo by Tatár nemal pekného Stalina, keď je s ním taký kamarát. Ten   jeho je už celý zaondený a zapotený.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Hronec, 4. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Kupec Matej, z Bukovca, štyridsaťročný, rubár a povozník. Popiera   akúkoľvek spojitosť s prípadom. Pripúšťa, že uňho v nepravidelných   prestávkach prespávali partizáni. Na otázku, kedy sa tak stalo   naposledy, odpovedá, že včera. Na otázku, prečo ich neudal veliteľovi   posádky, neodpovedá, usmieva sa. Pripúšťa, že zaviedol do lesa koňa a   vrátil sa bez neho. Na otázku, či vie, čo ho čaká, ak sa vrah   nenájde, neodpovedá. Odovzdaný SD.
+    </tei:p>
+    <tei:p>
+     Harvančík Filip, z Bukovca, dvadsaťdeväťročný, roľník. Odopiera   výpoveď. Použitý zostrený výsluch. Na otázku, či vie, čo sa s ním   stane, ak nebude vypovedať, odpovedá, že takých už bolo. Pokračovanie   zostreného výsluchu. Vypočúvaný sa priznáva, že bojoval pri Telgárte.   Poručíka Liedtkeho videl, ale nepamätá sa, kde. Okresného veliteľa   Hláča pozná, ale tvrdí, že ho nevidel od júla. Tvrdí, že v čase   vraždy bol doma, chorý. Odovzdaný SD.
+    </tei:p>
+    <tei:p>
+     Srieň Bartolomej, päťdesiatjedenročný, z Predajnej, správca   majera. Chce vypovedať dobrovoľne. V čase vraždy bol v Brezne n. Hr.   Ani por. Liedtkeho ani br. Hláča nepozná. Na otázku, kde je jeho syn   František Srieň, ktorý v čase puču bol kuričom vo Zvolene, odpovedá,   že syna vyhnal už v štyridsiatom roku a že o ňom nevie nič. Odovzdaný   SD.
+    </tei:p>
+    <tei:p>
+     Vitéz Michal, z Bystrej, tridsaťdvaročný, zamestnanec riaditeľstva   štátnych lesov. Ihneď použitý zostrený výsluh. Potvrdzuje, že   výstrely padly v blízkosti domov číslo 24 a 26. Vypočúvanie   prerušené.
+    </tei:p>
+    <tei:p>
+     Belák Anton z Bukovca, rubár a povozník, päťdesiatpäťročný.   Popiera spojitosť s vraždou. V čase vraždy večeral. Pokladá za   nemožné, aby sa niekto mohol dostať na jeho pôjd. Popiera, že by bol   pučistom vozil muníciu zo Slovenskej Ľupče do Balážov. Na otázku, kto   teda zastrelil por. Liedtkeho a br. Hláča, neodpovedá. Zostrený   výsluch. Zastrelený na úteku.
+    </tei:p>
+    <tei:p>
+     Belákova Jolana, z Bystrej, domáca, štyridsaťsedemročná. Shoduje   sa vo výpovediach s Antonom Belákom. Zastrelená na úteku.
+    </tei:p>
+    <tei:p>
+     Belák Anton, trinásťročný, z Bukovca, študent. Zastrelený na   úteku.
+    </tei:p>
+    <tei:p>
+     Pokračovanie vo výsluchu Vitéza Michala. Zostrený výsluch.   Zastrelený pre odpor.
+    </tei:p>
+    <tei:p>
+     Lauková Magdaléna, dvadsaťštyriročná, z Bukovca, pomocnica v   domácnosti. Nevie nič o vražde. Výsluch prerušený.
+    </tei:p>
+    <tei:p>
+     Lauková Emília, dvadsaťtriročná, z Bukovca, pomocnica v   domácnosti. Vypovedá, že ona a sestra zastrelily por. Liedtkeho a br.   Hláča s belákovského pôjdu. Na otázku, z akej zbrane boli zastrelení,   ako boli oblečení a kedy sa vražda stala, nevie odpovedať. Zastrelená   pre odpor.
+    </tei:p>
+    <tei:p>
+     Môcik Marián, z Bukovca, tridsaťsedemročný, strojník. Odopiera   výpoveď. Zostrený výsluch. Zastrelený na úteku.
+    </tei:p>
+    <tei:p>
+     Kupec Severín, sedemnásťročný, z Bukovca, študent. Zostrený   výsluch. Zastrelený na úteku.
+    </tei:p>
+    <tei:p>
+     Véber Ladislav, tridsaťročný, z Bukovca, stolársky pomocník.   Zastrelený na úteku.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Banská Bystrica, 6. decembra   1944.
+    </tei:head>
+    <tei:p>
+     Kriste Ježišu, Ty vieš, že toto som nechcel.
+    </tei:p>
+    <tei:p>
+     Chcel som iba, aby netiekla zbytočne krv. Aby nešiel brat proti   bratovi, aby niekoľko šialencov nezviedlo celý národ. Chcel som iba   menšie zlo, Pane Bože na nebesách.
+    </tei:p>
+    <tei:p>
+     Bože môj, Ty predsa najlepšie vieš, že nedržím s Nemcami. Keď mi   Vagač, tovariš, povedal, že vozia väzňov zo sédrie do Kremničky a tam   ich kántria a zakopávajú v protitankovom zákope, po celom tele som sa   triasol, ako som ich nenávidel. Ale prečo, Kriste Ježišu, mi to Vagač   vravel takto? Prečo sa tak na mňa díval...? A prečo ma prestal   zdraviť, i Jolánka a mladý Rychtárik, všetci...? Čo ja mám s tým   všetkým, Bože môj?
+    </tei:p>
+    <tei:p>
+     Pokorne kľačím pred Tebou, Spasiteľu náš, a moja duša je čistá.   Deň a noc myslím na chlapcov tam hore, na pomýlených, v snehu, o   hlade, vo fujavici, kým my tu dolu... Ale Ty predsa vieš, Bože, že na   tom nijakej viny nemám. Mám im poslať proviant? Mám dať peniaze, keď   na nich vyberajú? Pane, Ty predsa vieš, že mám ženu a dievčatko, či   sú mi nie bližší ako tí neznámi ľudia tam hore? Ako zodpoviem pred   Tebou, až ma zastrelia a až ich zastrelia a moju osemdesiatročnú   úbohú matku, pretože som pomáhal partizánom?
+    </tei:p>
+    <tei:p>
+     Áno, priznávam sa a kajam sa, chcel som, aby prišli Nemci. Myslel   som si, že zavedú poriadok. Pane Bože, veď poriadok — poriadok musí   byť, aby človek mohol byť živý, mal svoj chlieb vezdejší a služby   Božie navštevovať mohol, či niekto tušil, že Nemci budú páliť ľudí vo   vápne? Ak je to pravda, Pane Bože.
+    </tei:p>
+    <tei:p>
+     Kriste Ježišu, prečo sa ľudia so mnou nerozprávajú! Áno, bol som v   garde, ale kto nebol? Aj dôstojný pán Wagner bol v garde, Tvoj   služobník a človek bezúhonný. Museli sme, i dnes musíme. Alebo sa mám   dať zmámiť pre niekoľko neznámych ľudí?
+    </tei:p>
+    <tei:p>
+     A pokiaľ ide o ten nešťastlivý soznam. Kriste Pane, Ty predsa   musíš vedieť, že nie je pravda, ako by som ho bol zaniesol Nemcom! To   je ohavné klamstvo! Našiel ho u nás ten poručík, čo bol ubytovaný v   Evinej izbe, keď obsadili Bystricu. Našiel ho, sám ho našiel, medzi   nejakými papiermi, ešte som ho presviedčal, že soznam je zastaralý,   ešte zo štyridsiateho roku... Kriste milostivý, ja som ten soznam   predsa nesostavoval sám...! Konečne, mohli sme tušiť, že všetkých   odvlečú...? Oni sa vrátia, Pane Bože, daj, aby sa všetci zdraví   vrátili. Ja za to nemôžem, že ten Hernecke brlal v priečinku.
+    </tei:p>
+    <tei:p>
+     Prisahám pri všetkom, čo mi je sväté, že som sa ničím neprevinil,   ničím. Všetko, čo som spravil, spravil som iba preto, aby bol pokoj.   Chceme pokoj, Ježišu Kriste, prahneme po pokoji. Už nikdy nevstúpim   do nijakej strany a do nijakej gardy, chcem pokojne žiť a vychovať z   Evy dobrú a statočnú ženu pre dobrého a skromného človeka. Najlepšie   nech je tiež obchodník, prevezme krám, aby mi už prestali vyčítať, že   som arizoval. A ja sa vrátim do úradu. Bože drahý, či niekomu môže   ublížiť úradníček, ako som ja? Nič nechcem. Chcem sa dožiť   vnúčat.
+    </tei:p>
+    <tei:p>
+     Kriste Ježišu, Vykupiteľu náš, daj nám bez pohromy prežiť tieto   časy. Tak alebo onak, ale už nech je po všetkom. Odpusť nám naše viny   a odvráť od nás zlé.
+    </tei:p>
+    <tei:p>
+     Len pre toto, len pre toto som tomu Herneckovi povedal, že tí   ľudia ustúpili ku Kališťu a k Búlam, ako mi to povedal Vagač. Len pre   toto: aby som už nepočul výstrely a nevidel vojakov. Hernecke to iste   už beztak vedel. Ale toľko sa vypytoval, Pane Bože, toľko sa   vypytoval. Vyjedol nám celú komoru.
+    </tei:p>
+    <tei:p>
+     Ja nič nemám proti partizánom, Ty to vieš, Bože. Vidíš moju dušu a   moja duša je bez nenávisti. Aj to sú ľudia a mnoho trpia. Ja viem, čo   je utrpenie, vypracoval som sa z malých pomerov. Ale čo bude, ak   zvíťazia?
+    </tei:p>
+    <tei:p>
+     Nemci hrešili proti Desatoru a zabíjali a Ty ich preto zatrať na   večné veky, ak chceš. Ale sú korektní a kulantní, platia v hotovosti   a lojálnym ľuďom nesiahajú na majetok. Kriste, ale tí druhí...
+    </tei:p>
+    <tei:p>
+     Aj oni sú ľudia.
+    </tei:p>
+    <tei:p>
+     Neprevinil som sa proti nim.
+    </tei:p>
+    <tei:p>
+     Ale oni sú hladní a otrhaní. A raz sa vrátia a budú chcieť byť ako   my. Siahnu mi na obchod, siahnu mi na ženu, na všetko. I na Teba   siahnu, Kriste Pane. Tvoje chrámy zboria, Tvoje oltáre zneuctia a   Tvoje majetky na tejto zemi.
+    </tei:p>
+    <tei:p>
+     Kriste Pane, Ty by si to dovolil?!
+    </tei:p>
+    <tei:p>
+     Zatrať ich, Kriste Ježišu, Spasiteľu náš, pretože sú proti Tebe i   proti nám. Znič ich, zahub ich, pošli na nich hlad a choroby a   nedovoľ, aby sa vrátili a rozvrátili život a svet.
+    </tei:p>
+    <tei:p>
+     Staň sa vôla Tvoja, Otče náš, ktorý si na nebesách.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     10. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Včera sa profesor obesil. Neznášal, keď sa mu okuliare zarosily.   Hovoril, že je vtedy ako slepý. Možno preto sa obesil. Nikdy si   neťažkal. Bojoval mlčanlivo ako máloktorý. Hladoval potichu. Nikoho   neobťažoval bolesťami. Pochody znášal. Hoci už chodil ako tôňa. Keď   sme ustupovali na hrebene, museli sme ho siliť. Nechcel ustupovať.   Iba stále vravel: Okuliare sa mi zarosily. Zase sa mi zarosily.   Nevidím. Nerád, keď sa mi okuliare zarosia. Aj včera to povedal. Že   sa mu zase zarosily okuliare. Potom odišiel. Potom sme ho našli na   opasku. Asi už nevládal. Iste bol veľmi chorý. Bál sa, že nebude môcť   ďalej. Že ho budeme vláčiť so sebou. Že bude na ťarchu. Ale to   nespomínal. Iba okuliare spomínal. Že sa mu zarosily. A to on nemal   rád.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     12. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Celkom smiešna vec. Sníva sa mi o rezancoch s makom. Už tretiu   noc. Ja som mestský človek. Rezance s makom mávam zriedka. Nikdy som   ich vlastne nemal rád. Je to veľmi nudné jedlo. Ale naši spomínajú   rezance s makom, keď je hlad. A hlad je vždy. Možno to z čírej   solidarity sa mi nesníva o kurčati, ale o rezancoch s makom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     13. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Prešli sme z Pohronia do Liptova. Tri dni nám to trvalo aj s dvoma   malými bitkami. V Jasenskej doline nás nakŕmili. Keď sme stúpali ku   hrebeňu, hovorili sme o ženských. Aká bola, čo sme ju mali naposledy.   Nohy aké mala a boky. Rusi vraveli o ženách, čo majú za frontom. Na   hrebeni sme tiež vraveli o ženách. O tom, kde sme ich mali naposledy,   či v posteli. Či bolo riadne zakúrené v izbe a či to bolo v lese v   júli. Ja som myslel na radiátor doma. Visela na ňom nádoba s horúcou   vodou. Červenkavá, podlhovastá. Keď sme sostupovali, hovorilo sa o   ženských. Čo ktorá varila a piekla. Nikdy som nevedel, že poznám   toľko jedál. Rusi spomínali boršč. Bohvie, čo je to, či polievka a či   pečeňa. Ale je to najlepšie jedlo na svete. V Kľačanoch sme sa trochu   najedli a zohriali sme sa. Zase sme len o ženách hovorili, aké boly,   ako milovaly, aké malý boky, nohy.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     17. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Chystá sa zrejme posledná veľká ofenzíva. Dostali sme rozkaz   prejsť na Moravu. Už sme zas na pochode. Idem a mám pekelné bolesti.   Po celý čas myslím na vazelín. Najprv na biely valček. Taký   centimetrový. Vytlačený z tuby. Ako stojí na ukazováku a topí sa.   Hodiny som myslel na ten valček. Nedalo sa to vydržať. Potom som sa   rozpamätal na plechovicu. Stála tam, v martinskej nemocnici. Keď som   bol na preväze. Ešte v septembri. Plná vazelínu. Belasá plechovica s   bielym vazelínom. Hodiny sa mi vznášala nad hlavou ako mesiac. Potom   som už videl Turiec. Namiesto vody tiekol v ňom vazelín. Americký,   bórový. Bol by som skučal od bolestí. Tak som mal rozodrané miesto   medzi nohami. Dúfal som úpenlivo, že bude prepad. Že budeme ležať   nehybne. Desať minút nehybne. Ale išli sme stále. A nakoniec, večer   povedal veliteľ: Pokúsime sa zohnať kone. Ak toto prežijem, skúpim   všetok vazelín na svete. Ako sa kráľovné v mlieku kúpavaly, okúpem sa   vo vazelíne, americkom, bórovom.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     26. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Našli sme človiečika. Mína ho roztrhla asi na päť kusov, just na   Štedrý deň. Nič nechcel, iba aby sme mu nechali automat. Že vie, že   Nemci pôjdu tadeto. Veliteľ povedal, že tento hneď zomrie a že sa   automat nevyužije. Ale hneď sa obrátil a odišiel. Nemohol rozkázať   iné. Človiečik mal hneď tri automaty. Dva sme mu museli vziať.   Povedal, že ho tu nechali. Že tiež išli na Moravu. Ale mali iba pušky   a vysielač. Povedal som mu do videnia. Strašne mi to skazilo Vianoce.   Hoci on si to iste nevšimol.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     28. decembra 1944.
+    </tei:head>
+    <tei:p>
+     Vidí sa mi, že tento všivavý kalendárik predsa len musím niekde   zakopať. Hoci som vojenské akcie nezaznačoval a nikoho živého   nemenoval. Ale včera sa pýtal veliteľ: Koľkého sme prekročili Váh? A   stačilo zalistovať. Netreba nikoho podceňovať, každý vie   listovať.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     2. januára 1945.
+    </tei:head>
+    <tei:p>
+     Na Silvestra sme sišli do akejsi osady, ani meno jej neviem.   Špinaví, ustatí, hladní. Vítali nás, že Nemci sú na ceste, čochvíľa   budú tu. Idú čistiť hory. Veliteľ povolil dvadsať minút. Umyť,   odvšivaviť, napratať žalúdky. (Košeľu na prút, ako by si ju žmýkal.   Prút doprostred ohňa, nad teplom sa košeľa rozkrúti. Vtedy ju   schmatneš. Plameň spáli vši aj vajíčka. Umývať môžeš, koľko chceš,   vajíčka zostanú. Ale pozor, aby sa košeľa nechytila. S gaťami práve   tak.) Len sme skončili, zjavil sa veliteľ. Učesaný, vyholený ako na   zálety. Smeje sa: Chočeš briť sa, tovariš? Teda bystro, Germánci sú   tu o minútočku. Parykmacher je na krok. Keď som išiel, volal za mnou:   K tomu nechoď, k tomu druhému choď, tamdolu pri kostole. Ten má aj   odkolon!
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     6. januára 1945.
+    </tei:head>
+    <tei:p>
+     Nepriateľ ustupuje po všetkých schodných cestách. Údolia strážia   silné jednotky. Pochodujeme deviaty deň. Začiatkom decembra nás bolo   šestnásť. S. a D. zostali v pivnici spálenej turistickej chaty na R.   Mali obaja vysokú horúčku. B. zmizol predvčerom v noci. A. a V. išli   po proviant. Desať hodín sa nevracali. Nedalo sa už čakať. F.   prejavil malomyseľnosť. Dnes je nás teda desať.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     8. januára 1945.
+    </tei:head>
+    <tei:p>
+     Prišlo k nám žieňa v bielom kožuchu. Priniesla proviantu. Iba   vtedy sme videli, aké sme mátohy. Usmievala sa, červená od zimy.   Škoda, povedal veliteľ, že ju zastrelíme. Také poznám, posielali ich   občas za nami. Ešte nám povedala, že dolu všade sú Nemci, že sme   obkľúčení a že nás prevedie. Trela si ruky a dupkala, peknučká.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     19. januára 1945.
+    </tei:head>
+    <tei:p>
+     Začala sa posledná veľká ofenzíva. Stretli sme niekoľko skupín z   II. brigády. Sme stále na pochode, aby nás front nedobehol.
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Prešov, 1. februára 1945.
+    </tei:head>
+    <tei:p>
+     Vždy som sa nazdával, že budem myslieť na nebohú mamu, až pôjde   naozaj o život. Ale pomyslel som na Teba, Marta.
+    </tei:p>
+    <tei:p>
+     V tomto poslednom útoku išlo akosi celkom iným spôsobom o život   než po celé tie tri mesiace v horách. Práve že bol posledný: Už pre   nijaký ďalší útok sa nebolo treba zachovať nažive. To sme vedeli   všetci. A ja som okrem toho vedel: Potom, na druhej strane tohto   útoku, si Ty.
+    </tei:p>
+    <tei:p>
+     Od tej divej margecianskej akcie v decembri mi Ruchadze hrozieval   pred útokom revolverom: Ak ju vraj dostanem, dorazí ma vlastnou   rukou. Bolo nás skoro šesťdesiat, bývalých čapajevovcov, i   štefánikovcov a posbierancov z Pohronia i z východu, Ruchadze by s   nami najradšej sám bol rozštiepil nemecký tyl a ja som mu bol jediným   vračom pre toľkých, i keď nehotovým. Iba v tomto poslednom útoku som   už nebol vračom a Ruchadze sa mi nevyhrážal revolverom. Ako by sme   všetci šesťdesiati boli na čele všetkých.
+    </tei:p>
+    <tei:p>
+     Už sme neboli hladnými záškodníkmi, čo napádajú prísun, desantnou   jednotkou v akcii. Už sme neboli zdivenými, zvlčenými hastrošmi v   handrách, čo štvrť roka nevideli vaňu, zavšivavení, omrznutí,   osprostení vyčerpaním. Keď sa oni zjavili na hrebeňoch, keď začali   hnať celý front ako víchrica a keď sme sa zpod Smrekovice vyrútili   proti zdeseným Nemcom, aby sme im zapchali únik a zachránili mostík   na Toryse, už aj my sme k nim patrili, už aj my sme boli súčiastkou   Červenej armády. Ako sme leteli do údolia, myslel som na Teba, Marta,   a bolo mi, ako by som Ťa po toľkom čase už mal stretnúť tam na druhej   strane doliny za Torysou. A potom — uprostred tej strašnej bolesti a   uprostred toho strašného ticha celý som sa upial na Teba, dievča, a   vieš, mala si podobu tónu. Ako by si súvislé niekde znela, najskôr vo   mne.
+    </tei:p>
+    <tei:p>
+     A nakoniec si prestala znieť a povedala si: A tepier skarej etava,   ili on nam ističot krovju. Odrazu, mne nič, tebe nič začal som   myslieť na Lermontova, možno pre ten náš posledný večer, kým som   neušiel do Bystrice. Jasne sa pamätám, že som si lámal hlavu, ako sa   volal, či Alexander Sergejevič, ale som vedel, že to bol Puškin.   Možno sa mi to len dnes tak vidí, ale pomyslel som si, že onedlho   budeš učiť ruštinu na gymnáziu, ako si chcela. Lermontov sa mi   plietol hlavou a ty si povedala: Niet, v balnicu i sičasže na stôl,   skarej, tavariš, skarej.
+    </tei:p>
+    <tei:p>
+     Umienil som si, že otvorím oči. Zase si chvíľu znela ako zvon.   Potom som Ťa uvidel v uniforme a vedľa Teba stál sovietsky vojak.   Vymyslel som si, že sa volá Lermontov, prečo nie? Zasa strašne   zabolelo. Celkom blízo si povedala: Ničevo, prestanet baleť do   svaďby. Trochu som sa začudoval, ako vravíš, nikdy si také veci   nespomínala. Usiloval som sa dívať, ale bola noc.
+    </tei:p>
+    <tei:p>
+     Počul som ešte, ako sa pýtaš: Ot samova Stalin-grada sabiráju   takich ribiat. Skoľka ja jich jišto posbiraju, Baris. A Boris   odpovedal alebo ja som odpovedal Borisovým hlasom, lebo sám som mal   pery neživé: Uže nemnogo, dievočka, nemnogo.
+    </tei:p>
+    <tei:p>
+     V aute som znovu otvoril oči a videl som biely kruh a vedľa kruhu   bola hlava ruského dievčaťa od Stalingradu. Mala zatvorené oči a   pohybovala sa sem i ta. Pomyslel som si, že je ranená a že ju veziem   do nemocnice. No hoci ani veľmi nebolelo, zastenal som. Otvorila oči   a položila mi na čelo vlhkú handričku. Díval som sa na ňu. Pokojne   som myslel na Teba, tak ticho.
+    </tei:p>
+    <tei:p>
+     Iba na stole som celkom prišiel k sebe. Možno ma prebudily známe   vône antiseptík a reflektory. Dostal som lumbálku, paprali sa vo mne   pol druhej hodiny.
+    </tei:p>
+    <tei:p>
+     Hovoria, že tu nebudem dlhšie ako tri týždne. Totiž ako pacient.   Potom si ma asi ponechajú tu na chirurgickom, kým nedostanú pomoc.   Počítajú s tým, že budú mať do konca vojny ťažkú situáciu, niet ľudí   a z frontov prichádzajú transporty.
+    </tei:p>
+    <tei:p>
+     Ten rozpačitý chlapík, čo Ti prinesie lístok, je sám Ruchadze,   narukoval znovu ako starší litinant. Veľmi sa zmenil, čo sišiel s   hôr. Dobrý človek. Neviem, kedy sa dostane k Vám do Žiliny, pri   Hrádku nás trochu zdržali. Ale o to Ťa chcem poprosiť, čaju mu navar,   bez rumu a bez citrónu, iba s cukrom, a ak budeš mať z čoho, koláč mu   sprav, s hrozienkami. Tri mesiace mi iba o tom húdol, že mu sestra   navarí čaju a napečie koláča, až príde domov. Nech si myslí, že   prišiel domov. Na hrozienka nezabudni. A až Ťa pozve pomaranče   oberať, len prisľúb. Už pozval celý Prešov. To dievča zo sanitky sa   volalo Sima. Ani Ruchadze nevie, ako sa volal Lermontov vlastným   menom a po otcovi. On je v civile skôr elektrikár, na kolchoze. Mne   sa marí, že Michail. A po otcovi?
+    </tei:p>
+   </tei:div>
+   <tei:div type="chapter">
+    <tei:head>
+     Spišská Bela, 2. februára   1945.
+    </tei:head>
+    <tei:p>
+     Išli sme pomaličky od Ždiaru dolu ku Kotline, po hradskej,   míny-nemíny. Ľaľa, vraj išli, aké išli? Jano Siaheľ išiel a mňa   vláčil ani vrece kapusty. Vravím mu, Krišpín, tak sme volali Jana   Siahľa, že bol taký záprtok na piaď od zeme, Krišpínko, vravím,   vládzeš? Lebo ak nevládzeš, tak ma slož hen do garáta a hybaj po   sánky. Ale Krišpín iba zafučal, vraj čuš, vládzem, čo by som   nevládal, a mordoval sa so mnou tahet. Také kroky som robil ani čert   v bábkovom divadle, keď sa špagátiky zapletú. Za nami ešte bolo počuť   front, ako sa tískal tahore do Poľska, ale povozy už hodnú chvíľu   nechodily, čo sa bolo stmilo. Taká bola noc nad Príslopom ako na   Štedrý večer, samá hviezda a mráz. Iba že mi oči klipkaly od   ustatosti a dakedy mi bolo, ako by som sa slivovicou bol zrúbal.   Reku, Krišpínko, ďaleko ešte? Lebo ma i pobolieva i síl mám ako   vrabec. Ale Krišpín ma len postavil ako mech, pod košeľu zašiel,   pomacal, a veď Ti nekrváca, vraví, tak poď a čuš. A zas dolu cestou   ku Kotline ani ožrani.
+    </tei:p>
+    <tei:p>
+     Hovorím Krišpínovi, vieš, Krišpínko, čo urobím, až prídeme domov?   Nič, hovorím, keď iba zafučal, nič neurobím, do dielne nepôjdem,   ľahnem si a budem si pupok škrabkať, rozumieš? Či som sa dosť   nenarobil? Teraz budú iné časy. Len som si spomenul, ako som bol v   Giessingu na robote a potom v Poľsku a potom nad Bielou vodou v   horách s financi, zasa prišla na mňa ťažoba i brucho riadne zabolelo.   Keď sme vyšli z údolia, ostro zavialo a zasa som prišiel k sebe.   Krišpínko, hovorím, počúvaš? Tak počúvaj. Po pansky budem žiť, motoru   sa nedotknem, vykašlem sa. Teplého sa najem a s dievkami sa budem   baviť. Počúvaš ma, Krišpín? Alebo si myslíš, že som nadarmo bol proti   Nemcom v horách?
+    </tei:p>
+    <tei:p>
+     Odrazu Krišpín prestal fučať. A dívam sa, pred nami za zákrutou   biele svetlo. Reku, kto sa to tu jaší? Dáki zabudnutí Nemci, tak čo   svietia do sveta? Alebo naši, chcú, aby ich nemecký eroplán našiel a   narobil z nich fakličiek?
+    </tei:p>
+    <tei:p>
+     Vravím, Krišpínko, šibnime do svrčiniek. A Krišpín iba, šibni,   šibni, veď si ani drúk, a to bola napokon pravda. Nuž ale ani stáť   sme tu dlhšie nemohli, v tom svetle, lebo tamtí nás museli vidieť.   Reku — hybaj, čo sa dá robiť. A išli sme k tým dvom bielym svetlám,   jedno bolo nižšie, druhé vyššie a tak čudno šrégom svietily dohora,   na kus cesty a na kus hory na stráni. A vtedy:
+    </tei:p>
+    <tei:p>
+     Vraj, hej, vy.
+    </tei:p>
+    <tei:p>
+     Krišpín zasa postál a šepce: A sme v hajzli. Len pokoj, vravím, v   akom hajzli, ale išly na mňa mrákóty. Poďme, vravím, lebo si budú   myslieť, že chceme znohovať. A išli sme k tým svetlám a nevedeli sme,   kto je za nimi, či náš, či nenáš, lebo sme nič nevideli, iba tie   svetlá škuľavé.
+    </tei:p>
+    <tei:p>
+     Keď sme prišli bližšie, vystúpil zpoza svetla vojak.
+    </tei:p>
+    <tei:p>
+     V tú chvíľu som videl, že je to sovietsky vojak. To bol prvý   sovietsky vojak, ktorého som videl, čo som živý.
+    </tei:p>
+    <tei:p>
+     Hneď som ho poznal. Nie podľa mundúru. Podľa tváre.
+    </tei:p>
+    <tei:p>
+     Už so desať rokov som ho poznal. Po prvý raz som ho videl na   brošúrke, čo rozdával Sväz priateľov SSSR. Vtedy som robil v Ostrave,   v tridsiatom piatom. Potom som ho raz videl v jednej ruskej knihe,   ale vtedy bol v civile. Myslieval som naňho. Raz som ho zasa videl v   kine, ako ide po Moskve na prvého mája. Akosi mi zostal v hlave. V   Giessingu, keď bolo najhoršie, vždy som si predstavoval, že príde   akurát tento a vyslobodí nás. A nad Bielou vodou, keď sme počuli, ako   duní front, tak som si myslel, že onedlho budú tu a tento bude prvý.   Všetko ide po poriadku.
+    </tei:p>
+    <tei:p>
+     Davaj, vraví, nada jevo výťanuť iz jámy.
+    </tei:p>
+    <tei:p>
+     Krišpín zahovoril čosi, vraj, tento je chorý, ranený, do brucha ju   dostal, ledva mu ju vybrali, toho nechajte.
+    </tei:p>
+    <tei:p>
+     Ako sme prešli poza svetlá, videl som, čo sa stalo. Autiačik,   štvoruhlastý, drobný, menší ako érovka-päťdesiatka alebo   tatrička-hadimrška, hádam aj menší ako jávička-kabriolet, spadol im   do priekopy a zaviazol v snehu. Bolo ho treba na hradskú dostať.   Nikdy som taký autiačik nevidel a veru nevidel som ich málo.
+    </tei:p>
+    <tei:p>
+     Skarej, vraví môj Rus, my dolžni v Zakopanoje. Raz-dva! A čo   svietite Pánubohu do okien, vravím, aby vás lepšie trafili či čo? Da,   hovorí niekto, iba vtedy som si všimol, že sú dvaja, my jechali v   temnote, samo razažglos, kagda my zajechali v sugrob, i patom ni za   što nemagli zatušiť.
+    </tei:p>
+    <tei:p>
+     Nemagli, pravdaže, nemagli, kontakt sa im spravil pri náraze,   drôtiky sa im pomotaly a neboly dobre izolované. Dovoľte, vravím.
+    </tei:p>
+    <tei:p>
+     Sišiel som do priekopy. Krišpín za mnou dačo povedal, ale som   nepočúval. Autiačik bol prenáramný. Siahol som pod volant, doštičku s   poistkami mal na tom istom mieste ako naše vozy. Povyťahoval som   poistky, svetlá zhasly.
+    </tei:p>
+    <tei:p>
+     Potom sme sa zapreli do voza všetci štyria. Krišpín stále čosi   šomral, ale som ho nerozumel. Reku, čo hudieš stále? Musia sa dostať   do Zakopaného, iste vezú dačo dôležitého, rozkaz alebo čo, veď si   počul, že raz-dva. Možno rovno do Berlína sa povezú, treba im   autiačik vytiahnuť, no.
+    </tei:p>
+    <tei:p>
+     Ale robota to bola čertovská, neviem, či nie horšia ako v   Giessingu alebo v Poľsku. Mordovali sme sa dobrú hodinu, skál sme   nanosili pod kolesá, z jedličiek štipákov narobili, za dvierka   ťahali, polienka podkladali. Celí sme boli umorení.
+    </tei:p>
+    <tei:p>
+     Potom stál autačik na hradskej. Vojaci nasadli, a, rozumie sa,   nedajbože naštartovať. Preboha, šemoní Krišpín, maj rozum, nezdravý   si.
+    </tei:p>
+    <tei:p>
+     Hovorím, počkajte, bratia, pozrime mašinu, ja som z fachu. A hybaj   pod stroj, osky mal celé, kontakt bol, štartér zaberal. Sviečky som   povykrúcal a prečistil, kardany pozaťahoval, pobavili sme sa a za   polhodinku stroj zabral.
+    </tei:p>
+    <tei:p>
+     Že u nás zastavia, až pôjdu z Berlína domov.
+    </tei:p>
+    <tei:p>
+     Dívali sme sa za nimi a mne sa tak videlo, ako by som sa i ja s   nimi viezol do Zakopaného, odovzdával dôležitý rokaz, šturmoval   Berlín a vôbec slávne veci vyčíňal. A vtedy vravím Krišpínkovi,   Krišpín, zle je, idú na mňa mrákoty, podrž. Vieš, čo si, na to   Krišpín, simulant si. Obyčajný simulant. Ale som sa mu už vystrel na   snehu, bol som ani mucha. Vedľa nosa som mal mláku oleja,   kaukazského.
+    </tei:p>
+    <tei:p>
+     Krišpín, pravda, priskočil a vraví, vraj, čo bláznieš, veď ti   krváca, na nohách neobstojíš a potom sa nadrapuješ za piatich, kto to   vraj slýchal. A, vraj, vravel si, že sa roboty nedotkneš.
+    </tei:p>
+    <tei:p>
+     Vláčil ma tadolu ku Kotline a úžasne fučal. Stále som si myslel,   že sa s Rusmi veziem proti Berlínu, na autiačiku, ktorý som im   vytiahol. Ako ma ľadový vietor ovial, zasa som k sebe prišiel a   vravím Krišpínovi: Nedotknem, nedotknem...
+    </tei:p>
+    <tei:p>
+     Krišpínko, je robota a — robota!
+    </tei:p>
+    <tei:p>
+     Ako ma vliekol, hútal som, že si chytro odležím to brucho a   prihlásim sa do armády, do tej našej, za automechanika.
+    </tei:p>
+   </tei:div>
+  </tei:body>
+ </tei:text>
+</tei:TEI>

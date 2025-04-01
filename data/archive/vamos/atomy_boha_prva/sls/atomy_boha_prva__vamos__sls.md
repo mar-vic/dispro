@@ -1,0 +1,6123 @@
+# ÚVOD
+
+BRATSTVO ŽIVÝCH
+
+SPÁD
+
+*Kus stuhlej lávy, tvrdého kryštálu ležal kdesi hlboko pod zemou. Vrstvy
+sa nad ním hromadily, bo každé storočie prinášalo novú a novú, ale ten
+kryštál len ležal tam pokojne, nehybne. Nerástol, nezmenšoval sa, o nič
+sa nestaral, len ležal, ako ho náhoda kedysi uložila.*
+
+*Nekonečnú tichosť a pokoj anorganického sveta, kryštále kameňov a zeme
+neporuší ani súdny deň.*
+
+*Nad vrstvami vecného mieru, na povrchu zeme však pánoval božský rozmar.
+Ten Rozmar stvoril život a život je spád.*
+
+*Rozmar, nemajúc lepšej roboty, odpĽuvnul do vesmíru. Jeho spútum sa
+rozptýlilo v prach a každý atóm toho prachu bol živou bunkou. A tak sa
+zaplnil vesmír prachom života.*
+
+*Ten prach padá, lieta, nákaza života šíri sa na hviezdach, ako mor. Kde
+ešte hviezda vrie a žeravie, tam sa zničí, ale na vychladlých kôrach
+temných telies vesmírlých život sa uchytáva.*
+
+*Tak sa dostal i na zem. Panenský povrch vychladlej zemekôry naraz
+zasiahla nákaza.*
+
+*Atómy Rozmaru padaly do vody, padaly na zem a tá zmenila sa naraz v
+dejište spádu, boja a pominutia.*
+
+*Živá bunka sa usadila. Z jednej sa staly dve, štyri a vela miliónov.*
+
+*Rozmar však chcel niečo iného. V tejto forme ho život nebavil. Rozkázal
+tedy buňkám, aby stvorily klbká, aby zostaly pohromade v prapodivných
+útvaroch. Tak prišly na svet zvieratá nižšie a vyššie. Malý divné,
+nemožné tvary. A čím boly složitejšie, tým bol ich život ťažší.*
+
+*Rozmar sa kochal v mukách tých tvorov, ako zúfale sa snažily udržovať
+na žive. Ako sa trepaly sem-tam V boji o život. Na nohách behajúce, po
+zemi bez nôh sa plaziace, na krídlach lietajúce a vo vodách plávajúce
+žalúdky a rozmnožovacie ústroje, čo chcú byt stále naplnené a čo sa chcú
+stále množiť. A žerú i plodia húževnaté, ako keby to malo nejaký
+smysel.*
+
+*A nemilosrdný Boh kochá sa v mukách týchto bytostí, svojich výtvorov,
+ktorým dal nepatrnú iskierku svojej nesmrtelnej podstaty: život.*
+
+*A život je spád. Plameň, čo stále dohára, čo treba stále podporovať,
+oživovať, aby nezhasol. Úbohá snaha stebielka trávy, čo vylezie zpod
+zeme, korienkom svojím ssáva si vodu, anorganické sóle, prerába ich v
+hmotu organickú, pije slnečné svetlo a všetko, to všetko, tá námaha, tá
+húževnatá snaha, zápas s nepriazňou počasia a okolností, pre tú úbohú,
+naivne zbytočnú vec: žiť. Boj proti velkému vyrovnaniu, aby sa stalo
+všetko, ako kryštál nehybným a na veky pokojným.*
+
+*Všetko mohlo zostať v pokoji. Nech by tu boly bojovaly oheň a voda.
+Nech by bol drtil Boh hory a doly. Načo vytvoril medzi nimi život
+organický. Nebolo treba života, spádu, boja, rozkladu, smrti,
+beznádejného, zbytočného trepotania sa proti mohutnému a najsilnejšiemu
+zákonu vyrovnania. Boh však miluje paradoxon i stvoril tedy život.*
+
+*Do večného boja vody s ohňom, do hrmenia spadajúcej skaly, vodou
+rozrývanej, do úderu bleskov, do povodní, všetko unášajúcich,
+búrajúcich, do celého radu brutálnych, drtivých katastrôf vložil
+neodolné mäkké zvieracie telá, ktoré nič nevydržia, ktorým stačí slabé
+kopnutie, úder, aby ich rozmliaždil na kašu.*
+
+*Biedny plamienok života skapína, živorí, časom vzblkne, vytvára
+obrovské telá, strašlivé žijúce komplexy, obrovských jašterov,
+lietajúcich drakov, obludy štýlovejšie, hodiace sa viacej do brutálnych
+pomerov, potom ich zahladí a zamení ich plemä drobného hmyzu, ktoré, ako
+sa nesmyselne rozhojnilo, tak bez ohladu aj vymrie.*
+
+*A v úzadí osudu každého živého atómu, sústav životných jednotlivých,
+celých plemien i celého telesa vesmírového tam číha spád, pozvoľná
+skaza, rozklad, smrť. -- Aby potom vzplanul život zas inde na inom
+telese vesmíru a živoril, umieral pár momentov večnosti.*
+
+*Načo to všetko?*
+
+*Skúška? Vyššia kontrola dokonalosti živých tvorov? Tá by platila na
+človeka, ktorý si namýšla, že je korunou tvorstva a že má i gestá
+svojské, neodvislé.*
+
+*Čo však kontrolovať na ostatných živých tvoroch, ktoré sú vždy len
+práve také, akými ich Boh stvoril, ktoré všetko robia vždy len tak, ako
+Boh káže. Čože kontrolovať na psoch, na rybách, na vtákoch a na
+chrobákoch? Načo sdietajú s nami tí naši živí bratia mrzký náš osud:
+živorenie a spád?*
+
+*Lebo Boh miluje paradoxon. A Boh je krutý.*
+
+*Ustrašené sústavy atómov, ktorým dal iskierku svojej nesmrtelnej
+podstaty -- života, ho vyhlasujú milosrdným, dobrotivým a vecne
+milujúcim. Biedny ich život, tento nesmrtelný spád je im taký cenný,
+úbohá snaha udržovať si ho proti rozkladu žije v nich tak nesmyselne,
+húževnaté, že v otrockej podlízavosti svojej za milosť si pokladajú
+každý moment, ktorý ich ešte zo zeme nevyhladli. Každý nepatrný lúč
+slnca, ktorý ich biedne tela ohrieva a každý kus hniloby organickej,
+ktorý do seba napchajú, aby sa ešte pár chvíľ -- udržaly pri svojom
+živorení.*
+
+*A vo večnej tôni skazy a rozkladu, na večnom svahu svojho
+nezadržateľného spádu chrapľavým, ubiedeným hlasom za toto všetky hymny
+škuhrú Stvoriteľovi.*
+
+*Úbohí maličkí otroci svojho milovaného rozkladu, svojho nesmyselného
+spádu. Opájajúci sa naivnou vierou, že je tak všetko dobre a v tom
+svojom opojení zajdú si tak ďaleko, že čím viac ich drtí brutalita
+osudu, čím viac nimi krutosť nesúcich pomerov lomcuje, tým slastnejšou
+tvárou vedia vychvaľovať Stvoriteľa a jeho nekonečnú múdrosť, ktorá to
+všetko napraví.*
+
+*A na koniec vyjde u nich všetko najedno. Ak napravil, čiže lehota spádu
+sa o pár momentov oddialila a majú možnosť ešte pár kilogramov hniloby
+napchať do seba a ponechať za sebou niekoľko úbožiakov „dedičov Jeho
+večnej milosti", -- tu horný otvor črevného traktu im sotva stačí chrliť
+chválu nekonečnej dobrotivosti Hospodinovej.*
+
+*A, ak ich chňapol za krk a nepustí. Ak z nich vytrasie tisícerým
+rafinovaným spôsobom ich biedny život, naraz, i tak je dobre. I to je
+len znakom milosti Stvoriteľa. Tu vymýšľajú si na seba sto a sto
+hriechov. -- Isteže nedosť pochvál vychrlili na Neho. S obľubou si
+vyčítavajú, že veľa a nedovoleným spôsobom vykonávali akt rozmnožovací.
+Bili sa navzájom a črevá si párali. Jeden odlúdil druhému samičku a
+zožral jeho porciu hniloby.*
+
+*Takto sa obviňujú, keď ich už drží pominutie za krky. Za živa však k
+tým samým svojim hriechom neraz zvali Stvoriteľa na pomoc.*
+
+*Špinaví, miličkí otroci, úbožiaci opojení vlastnou obmedzenosťou, ktorá
+im nedá vidieť, že je život krutosť, že žitie je spád.*
+
+*A Boh nie je dobrotivý. Boh je krutý.*
+
+# BOJ
+
+*Boh rozsypal po zemi i po vodách svoje atómy. Rozhojnil organický
+život. Toto žitie bolo jednoduché. Potrava na mieste, pravá
+nesmrteľnosť, lebo živé atómy sa stále štepily a množily.*
+
+*Boh sa však nudil. Nebavil ho tento spôsob života. Prelo chcel boj.
+Naštval atómy proti sebe, aby sa ubíjaly. Ba nechal z nich utvoriť
+organizované, súdržné spolky. Spôsob boja u týchto klbiek i atómov bol
+už zaujímavejší. A Boh šiel ďalej. Naštval na tie klbká -- zvieratá,
+jednotné, rozsypané žijúce atómy, ale naštval i tie celky proti sebe.
+Zariadil ich život tak, že musely svojich živých druhov napádať a
+zožierať, aby sa samy pri živote udržaly. A tak podmienkou žitia jedného
+stala sa smrť druhého.*
+
+*Nad nehybnou lávou, nad mŕtvymi skalami rozpútal sa nekonečný, zúfalý
+boj živých, ktorých božský rozmar odsúdil. Všetko to hynulo, kapalo, ale
+ich spád bol preplietaný stálym divokým zápasom, až do poslednej chvíle.
+Nebolo živého tvora, či už jednobunečného, či už složitejšieho celku
+zvieraťa, ktorý sa mohol pokojne chýliť ku konečnému rozpadu. Zrala sa
+tráva, vyhrabávali sa červi, vychytaly sa ryby, prenasledovali sa vtáci
+a vraždily sa zvieratá.*
+
+*A tento boj stával sa stále a stále rafinovanejším. Boha tento
+chaotický, nesmyselný zápas svojich rozsypaných i soskupených atómov
+ešte vždy nebavil. Preto si vytvoril najkrutejší, najnásilnejší a
+najmazanejší typ bojovných klbiek: človeka.*
+
+*Kým jeho živým bratom spôsob zápasu obmedzil, kým boli oni len úbohými
+automatmi, zatiaĽ človeku dal široké možnosti. Boh dal človeku z klbku
+svojej nekonečnej chytrosti jedno vlákienko, uvolnil mu jednu cestičku,
+na ktorej mu dovolil poihrávať si, trepotať sa bezuzdné. V pomere k
+ostatným živým, tvorom dovolil mu všetko, najkrajnejšiu krutosť podrývať
+životy týchto bytostí.*
+
+*Všetko, k čomu len človeka pripustil, čo mu len do ruky dal, slúžilo
+vždy len k podmaneniu sveta, k rafinovaným a zdokonaleným spôsobom
+získania výživy a k chráneniu vlastného, biedneho, mäkkého neodolného
+tela.*
+
+*A človek všetkých živých tvorov zotročil. Žiadna forma života mu
+neodolala. Až na jednu.*
+
+*Boly to Atómy Boha neslúčené, rozsypané.*
+
+*A najväčším okamženíin v živote človeka, v celom jeho jestvovaní na
+zemi bolo to, ked mu Boh dal do ruky mikroskop, ked ľudské oko prvý raz
+uvidelo jednotný živý atóm. Ked mu prvý raz bolo dané na vedomie, že sám
+je složený z takýchto nesčíselných, podivuhodne chytré i
+poľutovaniahodné zbytočne soskupených živých Atómov Boha.*
+
+*A ten z ludí, ktorý prvý raz uvidel, ktorému prvý raz bolo dané
+nahliadnuť do mechanizmu života, tento najzaslúženejší človek sveta,
+ktorý objavil najväčšiu záhadu živých bytostí, -- ten je najskvelejším
+výkvetom Ľudského plemena, najväčší Jeho zasvätenec zo živých tvorov, --
+tento človek dívajúci sa do mikroskopu je: -- lekár.*
+
+*Vtedy sa splnilo poslanie človeka na zemi, vtedy našlo svoj smysel
+soskupenie atómov Boha v túto složitú, divnú formu. Vtedy dostal človek
+do ruky najväčšiu zbraň, k ovládaniu ostatných tvorov a ako konečnému
+účelu jeho poslania na zemi: zabávať krutého, nudiaceho sa Boha.*
+
+*Boh tým, že dal človeku uvidieť jednobunečnú podstatu života, urobil ho
+vládcom všetkých živých bytostí i rozsypaných atómov -- baktérií a
+korektorom vlastného složitého tela.*
+
+*Najneslýchanejší, najdokonalejší výkvet ľudskej kultúry -- lekár --
+však nie je ešte vládcom a korektorom dokonalým.*
+
+*Pritom, že je najrafinovanejším bojovníkom medzi živými, je aj
+najúbohejším a najviacej napádaným.*
+
+*Zato, že ho určili za vládcu živých, musí kruté splácať. Jeho
+veliteľský duch je uzavretý do biednej, smiešne bezmocnej masy.*
+
+*Celé, hlúpe a zbytočné telo človeka, bezúčelne pospájaná hromada živých
+Atómov pozostáva, tak ako telo zvieracie, z dvoch hlavných orgánov: z
+aparátu, ktorý žerie, aby sa uživil, a z aparátu, ktorým svoje plemä
+udržuje.*
+
+*U nižších zvierat je zažívací aparát len jednoduchá rúra. U človeka je
+to ukrutne dlhý, skrúteným chabý trakt črevný.*
+
+*Atómy sa množia štepením. U človeka tento jednoduchý mechanizmus
+vykonávajú dve celkom samostatné, nesúvislé telá, ktoré nemajú nič
+spoločného, ktoré okrem pohlavného pudu nič neviaže a medzi ktoré
+okolnosti života vkladajú hromadu prekážok.*
+
+*Ako tie dve hlavné, základné orgány životné, tak i tie ostatné prívesky
+sú vydané tým najrozličnejším nehodám.*
+
+*Človek musí trpieť pre svoju složitosť úrazmi takými, ktoré ostatné
+živé tvory vôbec nestíhajú, alebo len v obmedzenej miere.*
+
+*Okrem úrazov, ktoré mäkké, biedne Ľudské telo drtia a dlávia, popri
+nebezpečiach, do ktorých ho vrhá vlastná zbytočná složitosť tým, že sa
+najľahšie popletie a pokazí, najväčším nepriateľom človeka sú naštvané,
+divoké, bezohľadné atómy Boha: baktérie.*
+
+*Boh dal človeku ukrutný, dlhý, zmotaný trakt črevný, ktorý si stále
+pchá a živí, a pustil na ten trakt divého, bezohľadného bacila týfu,
+cholery, červienky, pre ktorých zapáli sa, opuchuje, zvredovatie,
+prederavie a vykrváca.*
+
+*Dal mu ústa a zuby a do nich kopu druhov baktérií, čo tam stále
+živoria. Zuby a aby ich žral, mrvil: -- kaz.*
+
+*Dal mu ruky a nohy, šikovných pomocníkov a do nich klby, do ktorých sa
+nasťahuje štafylokokk, až opuchnú, zrudnú, stanú sa prameňom
+neslýchaných bolestí, potom nastanú strasty a nehybnosť, zmrzačenie
+človeka.*
+
+*Dal mu srdce, nedokonalú pumpu s tenkými, ako papier chabými chlopňami,
+Tieto biedne papierky delia od seba komory a predsiene, zabraňujú
+zpätnému nárazu a toku krvi a majú odolávať tlaku, panujúcemu v obehu.
+To aj činia, pokiaľ sú zdravé, však naraz príde angína a vnikanie
+stafylokokku do krvi. Usadí sa v klboch a súčasne i na chlopniach
+srdečných. Tie nič iného ani nepotrebujú. Tlstnú, scvŕkajú sa, ako ich
+tento mikrób rozožiera. Budú z nich biedne, scvrklé oškvarky, ktoré už
+dávno neuzavierajú. Ťažká srdečná vada potom urobí koniec živoreniu
+obete. Aký to biedny vynález, že každý malilinký, milimetrový defekt, čo
+chlopne stíha, musí srdce do rovnováhy privádzať stlstením, zmohútnením
+sa svojho svalstva. Pre malé, nepatrné scvrknutie svojich záklopiek musí
+srdce v celku zväčšovať sa do nemožných rozmerov, ako srdce vola. Biedna
+chlopeň nikdy nenarastie a defekt v obehu, nastavší tým, že chlopeň
+neuzaviera, snaží sa srdce kompenzovať tým, že zmohutnelou, zväčšenou
+silou vrhá krv do obehu. Je to však biedna, jalová pomoc, ktorá za čas
+zlyhá úplne.*
+
+*Človeku Boh nedoprial ani len pevného obalu telesného, ako má chrúst vo
+svojom pancieri chitinovom. Mäkká jeho koža kdekoľvek utrpí úraz, čo len
+najmenší, ničomné škrabnutie už reaguje hnisaním, opuchnutím, nesmiernou
+bolestivosťou a kolko ráz celkovou otravou krvi. Kdejaký stafylo, či
+streptokok, či huba pliesňová nájde tu pôdu výbornú k svojej výžive.*
+
+*Boh dal človeku pľúca, aby nimi dýchal, a dal mu do nich bacila, pevnú,
+húževnatú, nezničiteľnú potvoru, pravého otužilého plebejca, ktorý je
+priamo nevykynožitelný a ktorý drží sa človeka verne, až do poslednej
+hodinky.*
+
+*Človek je tvorom jednobunečným, aspoň v okamžení spojenia ženského
+vajíčka so semenným zvieratkom. Je pravým bratom amoeb, infuzórií,
+bacilov. Boh však chcel, aby sa stal složitým tvorom, obrovským
+nemotorným klbkom buniek a na každú súčiastku jeho úbohého tela naštval
+zvláštne vybrané gardy tých šťastnejších, jednoduchších tvorov
+jednobunečných, gardy bacilov, svojich rozsypaných, útočných, živých
+Atómov.*
+
+*Nechcel ho však nechať úplne bezbranným. On chcel vidieť boj. Dovolil
+mu tedy istý spôsob sebaobrany. Divnú súhru týchto nemotorných mäkkých
+orgánov: rúk, nôh, oka, ucha a čuchu pod vedením mozgu. A človek bojuje.
+Organizovane, hrdinne a so zúfalou húževnatosťou. Bráni si svoje telo,
+svoje klbko buniek proti rozsypaným zbojníkom, proti svojim živým
+neorganizovaným bratom, ktorých božský rozmar proti nemu poštval.*
+
+*A vyvrcholením tohoto odvekého, divého boja medzi živými, najvyšším
+výkvetom, pyšným rezultátom vývoja sveta organického na zemi, cez haldy,
+húfy ostatného haraburdia ľudskej vynalezavosti, ktoré život len
+uľahčujú, vojvodom zápasiacim a víťaziacim, najvyšším vodcom živého
+tvorstva je človek, dívajúci sa do mikroskopu -- lekár.*
+
+# ZRADA
+
+*Najvyššia bojovná jednotka bola už hotová. Boh vytvoril si ju vo svojom
+laboratóriu a došiel k nej cez tisíce pokusov. Nechal padnúť tisíce
+foriem, nedokonalých variácií.*
+
+*Úbohé rastliny, lebo ich korene priviazaly k jednému miestu, z ktorého
+sa hnúť nemohly.*
+
+*Morské hviezdy a polorastlinné, polozvieracie bytosti morského dna,
+lebo pri svojej kotúčovitej podobe nevedely iba nemotorne skákať a vrtiť
+sa a nie správne napredovať.*
+
+*Zahodil pokusové formy biednych červov, k vode priviazaných rýb,
+pľúcami dýchajúcich nemotorných plazov a jašterov. Nie, tí boli ešte
+vždy len úbožiaci, tých korunou tvorstva nazývať nemohol.*
+
+*Boh experimentoval vo svojom laboratóriu ďalej. Vytváral, skúšal a
+odhadzoval vždy nové a nové typy. Z jašterov, ktorých potrebovať
+nemohol, prešiel ku vtákom, ale ani tí sa mu nepáčili, hoc im dal
+vzdušný oceán. To však, že vedeli lietať, stálo ich veľa. Stálo ich
+ruky, tie báječné, šikovné nástroje, bo tie sa im premenily v krídla,
+perím zarastené vesla, ktorými okrem lietania nič a nič dokázať
+nemohli.*
+
+*A tak sa dostal Boh k ssavcom a cez nich k človeku.*
+
+*Koruna tvorstva bola už hotová a Boh pozeral na svoje dielo uspokojené.
+-- Bol zpomedzi všetkých živých tvorov najúčelnejšie stvorený, aby si
+zem podmanil.*
+
+*Netancoval, hádzal a krútil sa ako morská hviezda, ani sa neplazil, ako
+biedni červi, ale niesol sa na dvoch šikovných nohách. Nemusel sa
+zľaknúť vody ani vzduchu, lebo Boh už chystal pre neho spôsoby, ako by
+ovládal i tieto ríše. Nemusel šikovnosť svojich zázračných rúk obetovať
+za plútve, či za krídla, čo sú schopné jedine len plávať, či lietať,
+nikdy však tvoriť, rezať, pilovať, ako zázračné ruky ľudské.*
+
+*Koruna tvorstva, človek, bol čulý, mal sa k životu. Boh mu dal do mozgu
+také centrá, aké nemalo nijaké zviera.*
+
+*Nič na sebe nemáš, ani domku slimačieho, kde by si býval, ani kožuchu
+psieho, čo by ťa chránil v zime, ale máš možnosť bývať v palácoch a
+odievať sa do najlepšieho tkaniva. Nemáš ostrých zubov, ani pazúrov, ako
+lev, a predsa môžeš mať zbrane, ktorým nijaký nepriateľ neodolá.*
+
+*Dám ti všetko na zemi, i mikroskop, ktorým môžeš nahliadnuť do sveta
+neviditelných nepriateľov i skúmať složenie vlastného tela.*
+
+*Morduj sa, bi sa, mláť sa, človek, so všetkými živými, bojuj, zotročuj
+a tvor, veď preto som ťa stvoril.*
+
+*Boh odpočinul si a bol spokojný. Kochal sa v svojom diele, v človeku.*
+
+*Bol neznášanlivý, ako krček. Pobil sa s každým živým tvorom a rval sa i
+medzi sebou.*
+
+*Bol to hotový clown, bol králom Augustov v cirku živých.*
+
+*Až veľa ti tej bojovnosti, si až velmi dobre sostavený. Ruveš sa s
+celým svetom, s tvormi viditeľnými a neviditeľnými, biješ sa i medzi
+sebou. Nuž počkajže, do tejto tvojej generálnej dravosti chybí ešte, aby
+sa i tvoje telo poruvalo samo so sebou.*
+
+*Telo človeka od nehôd a od chorôb nikdy nebolo šetrené. Bolo si
+nepriateľom vlastnou složitosťou a bolo napádané celými légiami
+zbojníkov, čo sa však vtedy stalo, je vrcholnou, najväčšou zradou v
+dejinách živých tvorov.*
+
+*Tento dar Boha, ktorý chcel, aby telo človeka, jeho vlastné bunky sa mu
+stoly úhlavným nepriateľom, je najväčším dôkazom, že Boh s človekom len
+kruto si zahráva.*
+
+*Nenapadla ľudské telo nová porucha, nie úraz, ani mikrób, cudzí
+zbojník, ale vlastná zdravá bunka, vlastný atóm, akých má ľudské telo na
+miliardy a ktoré ináče poslušne konajú svoju povinnosť.*
+
+*Na žalúdku, na delohe ženy, na koži, na jazyku, v ústach, v hrdle, na
+črevách, či kde inde naraz prihlási sa príšerný, potmehúdsky zradca.
+Vonku na koži, či na miestach prístupných aspoň ho človek zazrie v
+prvých počiatkoch a môže ho v koreňoch udusiť, vyrezať, na vnútorných
+skrytých orgánoch však ho zbadá ponajviacej až vtedy, keď je pozde.*
+
+*Zdravá bunka, poblanica týchto orgánov naraz zblaznie. Prepadne ju
+zradné šialenstvo. Nevie sa, prečo, začo, takáto bunka naraz sa začne
+množiť. Nie pravidelne, ako sa patrí a je užitočné, ale šialeným tempom.
+A tak naraz kdesi v tele urobí sa nový, autonómny útvar, štát v štáte,
+ktorý má vlastné zákony a nad ktorým ostatné riadenie telesné nijakej
+moci nemá.*
+
+*Povstane zlomyseľný nádor. Vznikne rakovina.*
+
+*Bláznivá, zradná bunka množí sa a množí, šíri sa do šírky a hĺbky,
+preniká svalstvom, cievami i nervmi, rozrúca, utláča okolo seba všetko,
+prerastie celý orgán, žalúdok, či črevá sieťou svojich skomolených
+buniek rakovinných, srastie s okolím, pretrhne do pečienky, preplieta,
+rozmrví v okolí všetko. -- Márne potom už zakročenie, nedá sa ani
+operovať, vyrezať, lebo museli by brať spolu všetko, celé skomolené,
+prerastie okolie so všetkými životu dôležitými, spoluzachvátenými
+orgánmi.*
+
+*A, ak sa táto prvá zradná bunka prihlási na mieste prístupnom, kde ju
+možno zbadať hneď v prvých počiatkoch a kde nemá čo skomoliť, prerásť a
+prekrúcať, tedy na pysku, na jazyku, či vonku kdesi na koži tvári?*
+
+*I tu beda, ak sa v prvých počiatkoch nezakročí a šialené ložisko
+čoskoro nevyreže. Bo za čas prúdom lymfy zanášajú sa odtrhnuté bunky
+nádoru a založia inde, v uzlinách krku, podpažia, v trísloch a kde-inde
+filiálne hniezda zradného, prvotného bujnenia. A všade v týchto
+filiálkach vykoná sa dielo skazy zrúcaním a prerastením okolia i
+vylučovaním jedovatých odmeškov nádoru, ktoré človeka i tak znivočeného
+pomáhajú priviesť do hrobu.*
+
+*Tak sa stane telo človeka semenišťom vražedných, pobláznených ložísk,
+zlomyseľných buniek vlastného tela, buniek, ktoré predtým pokojne
+počúvaly, a ktoré naraz rozkaz krutého Boha proti vlastným, krvným
+bratom poštval.*
+
+*Tak chová človek v tele zradcov, v podobe vlastných buniek.*
+
+*Pri plebejskom zbojníku, bacile tuberkulózy, najprísnejší nepriateľ
+ľudského plemena je jeho vlastná bunka, rozkazom Boha rakovinné zvrhlá.*
+
+*Bratovražda v ľudskom tele, vzbura vlastných, kedysi pokojných občanov,
+potmehúdska zrada zvrhlých zločinov.*
+
+*Vrcholný dôkaz, že dielo stvorenia organického života ovláda zásada
+krutosti a tuha Stvoriteľa po ruvačke živých.*
+
+*Hej, Ty Veľký, krutý Pane, čos zaplnil vesmír prachom života, čo
+zabíjaš živých, ked ich k životu vzkriesiš! Ty Otče spádu, skazy a
+rozkladu, -- inou že modlitbou obracať sa k Tebe, nie poníženým kvílením
+ustrašeného otroka!*
+
+*Nech by si zvedel, že tu, na tejto planéte, v tejto zapadlej sústave
+slnečnej, na tejto vychladlej iskierke Tvojho nesmrteľného ohňostroja,
+sprosté chválospevy, ktorými Ta organický život celého zbabelého vesmíru
+zahrňuje, prerušil, hľa, disharmonický škripot kliatby odboja ľudského
+plemena, ktoré Ta za tento zradný život, za toto hanebné bytie
+nenávidí.*
+
+# AMOR ZLOMENÝCH KRÍDIEL
+
+*U vyššie diferencovaných živých tvorov Bohu nestačilo, že z nich urobil
+složité a pre svoju složitosť mnohonásobne trpiace soskupeniny veľa
+miliardov buniek. Aby im život ešte ťažším robil a aby sa boj medzi nimi
+ešte viacej rozpútal, ústroje rozplemeňujúce zbytočne, neslýchané
+chytrácky, pritom však nemotorne skomplikoval a rozdelil ich do dvoch
+samostatných jedincov. Pohodlný akt rozštepenia, množenia sa
+jednobunečnej bytosti u človeka rozdelil do dvoch jedincov, nosiacich
+meno samca a samičky. Zvieratá i tu sú šetrené. Hoc neraz za cenu
+krutých bojov, predsa len lahšie sa najdú. Qve pohlavia, dvaja jedinci,
+doplňujúci sa v rozmnožujúci celok, najdú sa obyčajne pudové čistou
+jednoduchosťou. U človeka však v tom hladaní sa dvoch pohlaví stavia sa
+y cestu množstvo umelých, z neprostej, deformovanej povahy človeka
+vyplývajúcich prekážok.*
+
+*Prvky jednobunečnej bytosti, chystajúcej sa rozštepiť, u človeka
+rozdelené sú v plodidlách samca a y rodidlách samičky. A miesto
+pohodlného delenia jedinej bunky, prvky tieto musia sa spojiť, nájsť sa,
+aby mohly utvoriť novú bytosť jednobunečnú.*
+
+*Toto je pravá tvár človeka. Jeho životná fáza jednobunečná. Ďalšie
+delenie tejto jedinej bunky, jeho vývin v embryo, jeho prechod cez
+všetky tvárnosti živých bytostí až do trápneho pôrodu, potom dozrievanie
+v dospelého samičieho, či samčieho jedinca je všetko len pre ten ciel,
+aby dospelými jedincami boly produkované nové prvky samčie i samičie,
+ktoré, dostanúc sa dohromady, vytvoria novú bytosť.*
+
+*Toto je pravá tvárnosť človeka, jeho pravá základná forma, aká bola
+pred miliónmi rokov, keď panoval ešte všade život jednobunečný, kým
+božský rozmar nevydal rozkaz: deliť sa a soskupovať, zostať pohromade.*
+
+*Všetko, čo sa robí od okamženia spojenia mužského semenného zvieratka s
+vajíčkom ženským, všetok ten vývoj ďalej, výš a výš, je zbytočná
+divočina, ktorá svojím úbohým trepotaním, životným zápasom zabáva
+krutého Boha. Všetko to je celkom zbytočné a kto vie, kam ten krutý
+nápad zavedie za budúcich miliónov rokov nemilosrdný rozmar Stvoritela.*
+
+*Človek mohol zostať tým, čím je v chvíli oplodnenia: bytosťou
+jednobunečnou. Bolo by žilo na zemi velké bratstvo nižších tvorov. Boly
+by svoj život znášaly lepšie, bo zničenie; smrť, množenie, dialy by sa
+hravé v nesmiernych rozmeroch a nepomerne jednoduchšie, než biedne
+trepotanie sa vyšších tvorov.*
+
+*Boha však táto jednoduchá forma života nebavila. Jemu sa zachcelo po
+inom divadle.*
+
+*Pri vytváraní rozmnožovacích orgánov pohlavných jedincov v plnej miere
+sa uplatnila Jeho násilnícka chytrosť. Pri všetkej nemotornosti a
+prekážkach, ktoré bránia tým jedincom nájsť sa, zjavuje sa tu v tisícich
+formách jeho chytrosť, ktorá všade a vždy sleduje len jeden ciel:
+plodiť, rodiť nového jedinca za každú cenu.*
+
+*Rúra, ktorá odvádza odpadkovú, z hospodárstva ľudského tela vylučovanú
+a v mechúri sa hromadiacu tekutinu, táto močová rúra slúži zároveň u
+muža za injekčný systém, ktorou vniká semenné zvieratko k úkrytu
+ženského vajíčka. Z každého momentu tohoto nemotorného, nazdarboh
+usporiadaného aktu pohlavného zjavuje sa, priamo reve úžasná chytrosť,
+riadiaca cesty samičieho i samčieho prvku, k sebe vedúce.*
+
+*Dve pohlavia blížia sa k sebe hnané nútivou silou pudu pohlavného.*
+
+*Malý poslíček Nariaďujúceho Boha, Ámor, vystrelí svoj šíp do srdca muža
+i ženy.*
+
+*Myšlienky im zahaľuje do podivuhodnej, zázračnej hmly.*
+
+*Pudy človeka, ktoré ho inokedy vedú len do zápasu za výživou, riadi
+neodolateľnou, živelnou silou len k jednej, jedinej veci: k mechanizmu,
+k vykona niu vyššieho rozkazu, aby sa dva prvky nového jednobunečného
+tvora dostaly k sebe. • Daroval človeku, ako lákadlo, podivuhodný,
+smysel života vyplňujúci pocit.*
+
+*A tak, ako pri ostatných jeho daroch, ani tu ne-vystala Jeho krutosť.*
+
+*Ako dal človeku zuby a do nich kaz, končatiny a do nich reumatizmus,
+srdce a do neho chlopňovú vadu, oko a do neho slepotu, ucho, ktoré
+kde-kedy ohluchne, pátravý mozog, ktorý sa kde-kedy pomúti, celé ľudské,
+nešťastné, neodolné, biedne telo, ktoré dlávi tisíce mizérií, tak dal
+človeku ľúbosť a k nej pohlavné choroby.*
+
+*A malý Amor zlomených krídiel horko plače nad zmrzačeným darom, nad
+znivočenou krásou ľudského plemena.*
+
+*\* Hlas môj viazne, zrak sa mi kalí, prejde ma vlna hrúzy a v
+bezvládnej zbabelosti zrútim sa do seba.*
+
+*Čože pomôže odboj, načo sa búriť.*
+
+*Hroziť či prosiť, preklínať či zvelebovať, je to všetko tak jedno.*
+
+*My malé, úbohé klbká Atómov Boha.*
+
+*Dal nám iskierku svojej nekonečnej chytrosti, aby sme ju používali v
+boji života.*
+
+*Som jeho malým, nepatrným dedičom.*
+
+*Som bojujúcim soskupením Jeho Atómov, som lekár.*
+
+*Viem, Pane, že si bezohľadný, a vyjde na jedno, či Ťa chválim, či
+preklínam. A predsa nepreklínam Ťa už. Kliatba ma soslabuje, uberá mi
+pôdy pod nohami, zbavuje ma istoty. Stály pocit, že nenávidím a som
+štvaný, urobia ma bedárom, bezmocnou, chatrnou muchou vo víchrici
+pozdnej jesene.*
+
+*A ja chcem byť, Pane, silným a chcem bojovať.*
+
+*Chcem mať blažený pocit, krásny klam, že moja pokora mi prináša shora
+povzbudzujúce tľapkanie. Učím sa od svojho psa. Chcem cítiť nad sebou
+silnú, spravodlivú ruku, ktorá ma hladí a osmeľuje. Môj Pán ma chráni,
+preto čoho sa báť -- to chcem ja cítiť, Pane.*
+
+*Preto vrhám sa v prach pred Tebou.*
+
+*Nech nadíde ma blažený sebaklam, pocit istoty, čo v boji potrebujem,
+nech osvieti duch môj žiarivá iskierka Tvojej nekonečnej múdrosti.*
+
+*Keď si nám dovolil šarapatiť, trepať sa bezuzdné, dovoĽ mi to v
+svrchovanej miere.*
+
+*Dovoľ mi víťazne bojovať mne, malému, uvedomelému klbku Tvojich
+Atómov.*
+
+*Nežiadam veľa, Pane.*
+
+*Nechcem napraviť všetko, bo viem, že na to môj kratučký život nestačí.*
+
+*V budúcich formách Tvojej nesmrteľnej hračky, vo vytváraní nových a
+nových Atómov i klbiek, kto vie, kedy sa nájdem zasa takto pohromade,
+takto uvedomelé. Tvoja povoľnosť, Tvoj dar prichádza tak zriedka, toĽko
+času ubehne v našich malých životoch, toľké generácie sa vymieňajú, kým
+kedy-tedy pocítime, že si nám dovolil trosku napredovať.*
+
+*Dovol mi, Pane, aby som potisol dopredu vývoj vecí, čo len o trošičku.
+Nechcem a nemôžem napraviť všetko, tak tedy aspoň čiastku.*
+
+*Som odhodlaný, Pane, budem divý a neskrotný, neoľutuješ, budeš sa
+baviť.*
+
+*Daj mi britkosť umu, vynalezavosť a vtip len proti dvom-trom zbojníkom,
+len proti tým, čo spojenie dvoch jedincov ľudského plemena zmrzačia. Len
+proti tým Atomom-nepriateĽom, čo tam parazitujú, kde sa odohráva dielo
+stvorenia nového života.*
+
+*Chcem venovať svoj život boju len proti tým dvom-trom zbojníkom, čo
+Tvoj dar, lásku, mrzačia a pre ktorých plače malý Amor zlomených
+krídiel.*
+
+*Stačí na to len moment večnosti, čo si mi udelil?*
+
+*Stojí Ti zato môj život?*
+
+*Jak lekár-venerolog vrhám sa v prach, s vystretou rukou, s prosiacim
+hlasom k Tebe, Nekonečnému.*
+
+*Veľký Bože, Otče náš všemohúci, dovol mi zápasiť a daj mi sily v boji.*
+
+# TRAJA PSÍ
+
+Doktor Karol Zurian, hrdina tohoto príbehu, mal kedysi troch
+nepriateľov. Urputne zlomyseľných a nenapraviteľné nemilosrdných. Na
+tých je všetko darmo: dobré slovo, prosba, hrozba a nadávky. Tam číhajú
+na neho každý večer a zúrivým štekotom ho prenasledujú z mesta skoro až
+domov k Ružovému mlynu, kde býva. Traja psi, traja svedomití, zúriví
+úradníci. Šéf ich dobre musí platiť, lebo sú to prehorliví, oddaní
+šplhavci.
+
+Krásne sú večery v Zurianovej domovine. Dlhá poľná cesta, ktorou domov
+kráča, je osviežením, znovuzrodením. Okolo ticho, len Dubová žblnkoce v
+diaľke a tak krásne je rozmýšľať, snívať vo večernom tichu zelenej,
+opustenej pešinky.
+
+Prejde cez môstik Dubovej. Ešte kus cesty zeleným, živým plotom
+vrúbenej. Potom príde k prvému osamelému domu. Kamenársky majster tam
+býva, Talian. Jeho syn, černovlasý a černooký mladík, Luigi, je
+Zurianovým dobrým priateľom z detstva. Neraz ho učil nadávať vo svojej
+ľubozvučnej materčine, taliansky, lebo je známe, že chlapci vždy z
+každej cudzej reči najskôr sa naučia nadávkam.
+
+Tam stojí majstrov Tonittov dom pri potoku a ako ho Zurian skoro už
+minie, vyrúti sa na neho „Malý Fanatik". Táto strašlivá malá suka volá
+sa vlastne Pufi, ale Zurian musel dať meno priliehavejšie jej hroznej,
+neznášanlivej, zaslepenej povahe. Malý Fanatik tam stojí, číha pri plote
+v kúte. Stojí tam, mlčí a keď už cudzinec prešiel, naraz vyrúti sa s
+takým zúrivým hnevom a takým besným štekotom, že nie je to už vlastne
+ani štekanie, lež nesmyselný, bohapustý, ordinárny, vrieskavý rev. A
+vrčí k tomu, keď naberá si dychu, tak hrozive, že i najsmelšiemu
+chlapovi prebehne cez chrbát pred rozzúrenou malou beštiou vlna hrúzy.
+Lebo je malá tá chlpatá žltá potvora, lstivej potmehúdskej tvári. Hej,
+na tej jej nedobrej, kyslej, zdivočenej, psej tvári je napísané, že je
+ten psík fanatikom svojho povolania, zúrivým bezcitným štrébrom, ktorému
+je všetko jedno a ktorí razí si cestu k svojmu psiemu cieľu životnému
+cez mŕtvoly.
+
+Zuriana zalievala vlna zlosti, keď tú nevľúdnu, potmehúdsku zlú papuľu
+Malého Fanatika už len zďaleka zazrel. Neraz sa s ňou stretával na
+poliach, mimo domu, lebo Malý Fanatik nachádzal veľkú záľubu v cudzej
+hydine. Zurian pískal naňho, lákal ho k sebe, chcel sa s ním spriateliť,
+ale Pufi sa nikdy s ním nezastavila, len zavrčala hrozivým hlasom a
+bežala domov o zlomkrky. No, zrejme bolo na nej vidieť, že si je vedomá
+svojej neznášanlivej, mrzkej povahy a má nečisté svedomie.
+
+Veľa, veľa ráz sa pokúšal Zurian uzavrieť s tou malou potvorou
+priateľstvo, vonku i v dome, ale vonku vždy zbabele utiekla, a doma,
+kde, pravda, bola veľkým hrdinom, museli ju vždy držať na povrázku, aby
+Zuriana neroztrhala. I tak, až tak hučal celý dom jej neutíšiteľným,
+zúrivým štekotom.
+
+Zurian s bôľom v duši rozmýšľal o nej. Co robiť s tou potvorou, ako ju
+utíšiť, ako sa dostať k jej kamennému srdcu, ako prelomiť ľadovú kôru
+jej psej duše.
+
+Najprv len rozmýšľal, špekuloval, ale potom, čím ďalej, tým viacej ho
+uchvacovala zlosť a pocit vlastnej bezmocnosti. -- Ako vlastne ja k tomu
+prídem, aby si mi ty, naničhodná, malá potvora moju pokojnú radosť z
+tichého večera deň čo deň takto potmehúdsky a tvrdošijne znivočila? Čože
+som ti spravil, ty obluda malá, že ma tak nenávidíš? Veď už by som sa
+pred tebou vopchal do myšej diery, šiel bych už okolo po oráčine, v
+prachu a v blate, keby Dubová dovolila, len aby som sa tvojmu zúrivému,
+nesmyselnému hnevu vyhnul. Veď už ma chytá nervový šok, keď tvoj rev
+začujem. Neraz sa mi zadrapuješ aj do nohavíc, keď sa dozadu nedívam, a
+prečo to všetko, načo ten bezmierny hnev, och, Malý Fanatik?
+
+Takto sa zlostil doktor Zurian a nebolo pomoci. A tam ďalej pár sto
+krokov od Tonittov stál domček Jura Papuľu. Či mal tento mrzutý, starý
+mládenec aj nejaké statočnejšie meno, to zostane nevysvetliteľnou
+otázkou, lebo čo sa okolie pamätuje, každý a vždy nazýval tohoto
+osamelého, starého chlapíka Jurom Papuľom. Deti ho nenávidely, lebo on
+ich tiež nenávidel a bol schopný zúrivé bežať aj kilometer za malým
+šarvancom, čo mu slivku odtrhol cez plot so stromu. Zmlátil ho potom
+bakuľou tak nemilosrdne, že v plachte museli chlapíka odvážať
+nariekajúci súrodenci a kamaráti. Pre tú neľudskú lakomosť Papuľu každý
+nenávidel a väčšou obludou nablízku už naozaj nebol nik, iba jeho veľký,
+čierny pes, Dunčo. Tento netvor nebol úlisný a lstivý, ako Malý Fanatik.
+Neukrýval sa v kúte pri plote, aby v najväčšej tichosti naraz vyrazil,
+lež reval, štekal neustále celú noc a skoro celý deň. Lístoček sa nehnul
+na konári, cvrčok nezacvrlíkal v tráve, včela nezabzučala a tento Dunčo
+nebol lenivý tam stáť hodiny na ceste a hrčať, vrešťať, brechať v jednom
+ťahu. Štekal na vodu Dubovej, na divoké husi, čo nebom tiahly, a na
+svoju vlastnú tôňu. A hlas mal stále svieži, dunivý, nikdy nezachrípol.
+
+Zurian nenávidel toho mamľasa z celej duše. Bol podobnej neoblomnej,
+nepredajnej povahy, ako Pufi, lenže bez jej zchytralosti a zbabelosti.
+Tento Dunčo, keď sa dopálil, útočil na slepo. Nič ho nemohlo zadržať a
+Zurian prechádzal po ceste vždy s úžasným svieravým pocitom obavy, aby
+to len u Papuľov dobre vypálilo.
+
+Od Tonittov dolu bol koniec krásnej idylickej nálade a sladkému sneniu,
+tu sa už muselo bojovať o život, o nohavice a ľudskú dôstojnosť. Strašné
+obludy držaly ten kraj v moci a kdeže je pohádkový rytier, ktorý ich
+vykántri? Zurian cítil v duši, že to bude on, keď ho vrčivý brechot
+Dunčov až do Balúškov odprevádzal. Tam býval tretí drak, Jašo. Tento
+Jašo vôbec nebol chytrým, ba ani len charakterným. Bol len nesmierne
+hlúpym a v svojej obmedzenej horlivosti bol by obrechal vlastnú mater,
+kým by ho po pysku nepraštila. Štekal, lebo to počul od Dunča, štekal
+unudene so svetobôľom v hlase, bez presvedčenia. Dar prijal, slaninôčku,
+chleba sožral a keď prijal zo Zurianovej ruky aj poslednú omrvinku,
+hlúpo sa zadíval svojimi vodnatými, bezvýraznými očami a začal štekať
+znovu. Zurian by ho bol najradšej kopol v takejto chvíli, keby sa ho bol
+nebál. Necítil voči Jašovi nenávisti, lebo ním hlboko opovrhoval. Bol to
+slabomyseľný bastard, složený z kúskov vlčiaka, dakla, chrta a
+všelijakých sprostých, bezvýznamných predkov.
+
+Azda by si ho bol v celku Zurian ani nevšimol, ale pohoršený
+nacharakternosťou predošlých, videl v Jašovi tiež len jednu z oblúd,
+ktoré ho sužujú, siahajúc mu na nervy a na nohavice.
+
+Tak to chodilo dlhý čas a Zurian vo svojej núdzi uchýlil sa k všelijakým
+praktikám. Keď už dobrým slovom, podplácaním nevychádzal, kúpil si
+odstrašujúce, hlasne pufkajúce pištole, tie však práve toľko imponovaly,
+ako medveďovi jazdecká palička. Kúpil aj patentný gumový prak a mával
+vrecká plné brokov, ktoré chcel všetky zastrieľať do kožucha svojich
+prenasledovateľov. No, popudzoval ich tým k ešte väčším bezohľadnostiam.
+Postavoval všelijaké klepce, do ktorých však žiadna z tých oblúd
+nepadla.
+
+Časom bol už taký nervózny, ponížený a rozdráždený, že cítil, že to tak
+ďalej nepôjde. Tu sa muselo niečo stať. Bolo už teraz otázkou moci,
+prevahy a mravného víťazstva, aby s tými netvormi zúčtoval. Veľa tým
+nedosiahne, to vedel, lebo aj keby týchto vykynožil, prišli by na ich
+miesto noví, možno ešte komisnejšie. Tí však už mali toľko na rube, že
+sa to muselo s nimi vyrovnať. V Zurianovi dozrieval úmysel v rozhodnutie
+a rozhodnutie v čin.
+
+Prišla tedy pomsta. Prvé číslo Pufi, alias Malý Fanatik. Zurian ide po
+ceste a Pufi v kúte plotu čaká. Čaká si, vartuje, len sa mu oči blyštia
+z chlpatej zlomyseľnej papule. Roztrhané nohavice, poriadne hryznutie do
+lýtka, zúrivý tanec okolo nepriateľa jej chodia na ume a slina jej tečie
+pri tých svodných myšlienkach. Hrrr... baf, baf... nepriateľ už je tu,
+už aj prešiel. Pufi rýchle prelezie cez dieru pod plotom, čo si práve
+nedávno vyškrabala. Hnala by sa za Zurianom, lenže musí najprv preskočiť
+cez jarok, za plotom. Inokedy jej to nerobilo nijakých ťažkostí, lenže
+tej noci pršalo a jarok je plný vody. A ako sa Malý Fanatik za Zurianom
+rozrúti, jeho zrak, upretý na nepriateľa, nezbadá, že je v jarku voda.
+Len sa ženie smelo, ako obyčajne. Zurianove natešené oči vidia, ako
+spadne Pufi do jarku a ako sa okúpe v špinavej vode. No, zaraz jej
+prešla všetka bojachtívosť. Zahanbene si lezie von a nestačí kožuch
+natriasať, aby sa vody zbavila. Zurian sa cítil v tej chvíli, ako by ho
+lojom mastili. Och, aký to sladký pocit, kochať sa v hanebnej porážke
+nepriateľa.
+
+Zostal stáť na ceste. Vtom niekto volal: „Pufi!" -- a z dverí kuchyne
+hodili jej kus koštiaľa. Pufi zachytila koštiaľ, ale nepustila sa doňho,
+lež chvíľku rozmýšľala, potom rozvážnym krokom ho niesla k plotu a
+zahrabala.
+
+Zurianovi čosi kmitlo hlavou. Aha, tak ty máš pri plote skladište. Si
+lstivá potvora, Pufi, zákerne ma napádaš, si zbabelá a vedz, kto mečom
+napáda, nech mečom zhynie. Skapeš, Pufi, a tvoja smrť bude zákerná a
+nízka, aká si ty bývala k svetu. Dosť už tvojich hlúpych a zúrivých
+útokov. Teraz začínam útočiť ja a u všetkých čertov, viem, že mi
+neodoláš. -- Ešte jeden pohľad vrhol na miesto pri plote, kde ležalo
+Puŕino skíadište, a pomalým krokom odišiel domov. Pohliadnuc nazpäť,
+videl ešte, že Pufi ide s gazdinou do mesta. Oho, skladište zostane bez
+dozoru, lebo toľko rozumu tá obluda predsa len nemá, aby niektorého
+svojho suseda postavila k nemu na stráž. Zrýchlil si kroky a za pár
+minút už sa aj vrátil. Pri plote sa zastavil a akoby roztržité, obzeral
+sa. Nik tam nebol, domáci sa ešte nevrátili a na ceste sa tiež
+neukazoval nikto. „Tak rýchlo do práce", mrmlal si Zurian, preskočil
+jarok, prestrčil ruku cez plot a opatrne odhrabával zem zo skladišťa.
+Naotravovala si sa ma dosť, Pufi, teraz nech ťa trošku otrávim ja.
+Objavily sa poklady magazínu, nato Zurian vyňal z vrecka malú sklenenú
+skúmavku a obsah, akýsi biely prášok, opatrne vysypal do jamky. „No,
+stačilo by to na desať slonov, nie na jednu takú malú potvoru, aká si
+ty." Jamku rýchle zahrabal, zem urovnal a za chvíľku bol zasa na ceste.
+Išiel ďalej, akoby sa nič nestalo.
+
+Dobrý apetít k olovrantu, pomyslel si, keď stretol na ceste Pufi, ako sa
+vracala s gazdinou. Skrývala sa za paňou a odtiaľ vrčala na Zuriana
+zúrive.
+
+Zbabelcom, podliakom si bola vždy a taký bude aj tvoj koniec. Vrč si
+len, vrč! Však dlho nebudeš.
+
+Večer pri súmraku zvedavo sa pozeral za plot, čo tam nového. Nič. Pufi
+ho prijala s obvyklým uvítaním, lenže teraz už opatrne preskočila vodu v
+jarku a divoko tancujúc, chcela sa mu zadrapiť do nohavíc. „Tisíc hromov
+do teba, len sa bav, potvora, však sa bavíš naposledy."
+
+Toto tušenie Zuriana nesklamalo, lebo druhý deň našiel Malého Fanatika
+ďaleko za domom na poli. Ležala na chrbte, štyri nohy jej trčaly hore k
+Zurianovi, ako nemá žaloba. Ešte žila, ale bola v poslednom ťažení.
+
+Ech, dobre som prišiel, ešte sa ťa spýtam, ako sa mi cítiš. Tak čo,
+Pufi, a kopol do nej. Mohol kopať, koľko chcel. Pufi sa len dívala
+oloveným bezvýrazným zrakom, v ktorom nebolo po chápavosti ani stopy.
+Márne ju volal Zurian: Beštia, to som ja, nepoznávaš ma, tu som, tvoj
+nepriateľ, ktorého si tak nenávidela a ktorý ťa zo sveta vykynožil. --
+Pufi len pár ráz kŕčovite škubla sebou, potom sa dívala zasa bezvýrazne.
+
+No, vezmi ťa čert, keď s tebou niet nijakej reči. Zlostne sa obrátil a
+nechal ju tam.
+
+Bol nespokojný. Vedel, že je po Malom Fanatikovi, ale predsa necítil sa
+pomsteným. Nie, tu bola chyba. Tu sa stalo akosi viac, než bolo treba k
+pomste, a akosi menej, než by ho uspokojilo. Zurian krútil hlavou, ale
+už bolo pozde, lebo Malý Fanatik už nežil a pominul sa nelogicky, bez
+vedomia odplaty.
+
+Druhý raz musím byť šikovnejší a používať menej radikálnych, predsa
+rukolapnejších prostriedkov.
+
+Nasleduje Dunčo. Veľký, čierny pes Jura Papuľu. Si mrzká obluda, ako
+tvoj pán; nech ťa berie čert.
+
+Raz odpoludnia stretol sa Zurian s Dunčom na poli. Stretnutie bolo
+náhodné a nepredvídané. Pes naraz sa vynoril z vysokého žita práve pred
+Zurianom. Bol zadychčaný, vari práve honil zajaca. Na krku mal uviazaný
+povraz, ktorý vláčil za sebou. Akiste ho Papuľa priviazal k plotu, aby
+neušiel a strážil dom, ako to už zavše dopoludnia robieval, ale milému
+zvieraťu sa doma nepáčilo. Utrhol sa aj s povrazom, vydal sa na hon a
+teraz tam stojí pred Zurianom. Oba sa ustrnuli. Pes opatrne cúvnul pár
+krokov a zostal stáť. Zurian si pomyslel, no teraz ma zožerie, ale pes
+sa ani nehnul. Takto sa dívali na seba asi dve minúty. Potom Zurian,
+vidiac, že pes nejaví nepriateľských úmyslov, priblížil sa. Pomaly sa
+zohol a zdvihol koniec povrazu. Obzrel sa. Neďaleko opustenej poľnej
+cesty studňa so žeriavom. Pomaly zaťahal za koniec povrazu, pes šiel s
+ním bez odporu. Voľný koniec povrazu priviazal ku konci drúka so
+závažím, ktoré sa zdvíha pri čerpaní vody do výšky. Sám potom prišiel k
+druhému koncu drúka, kde sa putňa púšťa do studne.
+
+No tak, Dunčo, teraz ťa naučím móresu. Bol si vždy priamy, násilný a
+sprostý a umrieš takou istou smrťou. Celkom hrubo a úprimne ťa obesím,
+Dunčo. Tak. do toho!
+
+Než sa Dunčo spamätal, už bol vytiahnutý za krk do výšky. Povraz nebol
+uviazaný na slučku, neveľmi ho škrtil. Mal možnosť výdatne a dlho sa
+trepotať a chrčať. Keď už mu jazyk visel, oči sa mu obracaly a trhal
+sebou už len kŕčovite, bez vlastnej vôle, Zurianovi čosi prišlo na um.
+Počkaj, biedny červ, predtým, než sa posťahuješ do pekiel, kam patríš,
+spýtam sa ťa, ako sa ti páči, keď je niekto násilný a útočný. Vytiahol
+žeriav a druhý koniec drúka so psom klesol dolu. Zviera ležalo
+bezvládne, sotva dýchalo. Zurian uvoľnil mu povraz okolo krku a zvedavo
+naň pozeral. Potriasol psom, za chvíľu zviera oči otvorilo a kalným
+zrakom, skrvaveným belmom sa dívalo na Zuriana.
+
+Tak čo, ty beštia, aké je to, keď ťa niekto týra? Tak prečo teraz
+neštekáš, kde je tvoje hrdinstvo?
+
+Dunčo však len ťažko oddychoval a v jeho kalných očiach sa nejavila ani
+iskierka pochopenia. Hoci bol už väčšmi pri sebe a videl Zuriana, díval
+sa na neho tak tupo, že Zurianovi nevoľky sa vkrádal do mysli nápad,
+akási nepríjemná myšlienka, skoro taká, ako keď pozeral na zdochýňajúcu
+Pufi -- nie, to nie je to, čo som chcel. Zasa som to akosi skopal. Tu
+bude zasa kdesi chyba, zas som preskočil tú hranicu uvedomenia, že
+mstiteľom som ja. Mal som na tú obludu ísť inak, aby chápala, že som to
+ja, jeho nepriateľ, ktorý sa mu týmto odplácam, aby vtiahol do pekiel s
+plným vedomím svojej krutej porážky a môjho víťazstva.
+
+Kopol do psa, -- vstávaj, ty mizerák a poď skapať naozaj. Dunčo ani
+nezavyl ani nezavrčal na kopnutie, len ležal bezvládne a svoj tupý zrak
+mal stále upretý na Zuriana. Zurian zlostne mávnul rukou. Ech, čo s tou
+mrcinou, vezmi ťa čert, odnes si svoj biedny život, ak môžeš. Odrezal mu
+povzraz s krku úplne a zahodil do žita. Potom pomalým krokom odišiel.
+
+Dunčo sa zotavil. Tam stával zasa pred domom pri plote. Ale bez hlasu.
+Nikto, nikdy ho viacej nepočul zaštekať. Stával tam úplne otupelý. Mohla
+tiahnuť pred domom celá armáda, nikoho si viacej nevšímal. Mohli mu po
+chrbte drevo rúbať, ani nehlesol. V jeho zraku už sa nikdy nezjavila
+bojachtivosť, zloba či radosť. Stal sa slabomyseľným, bezmocným, trpným
+a z milosti trpeným tvorom, ktorého už nikdy nič nezaujímalo.
+
+A Zurian nemohol cítiť nijakej radosti, že tú nebezpečnú potvoru
+odzbrojil.
+
+Medzitým však dochádzal osud i na Jaša. Zurian sa rozhodol, že Jaša
+nezabije, len ho poriadne vymláti. Ten obmedzenec nezaslúžil vážnej
+zbrane. Na toho stačí aj bakuľa, hrubá, nemotorná sukovica, akoby symbol
+tuposti Jašovej. Lenže tak priamo ho Zurian mlátiť nemohol, lebo už
+akékoľvek bolo psisko hlúpe, toľko rozumu malo predsa, aby sa len tak
+urážať nedalo.
+
+Od toho dňa začal chodiť do Balúškov. Mali veľkú ovocnú záhradu. Zurian
+skoro každý deň kupoval tam niečo. So starou Balúškovou prechádzali sa
+po záhrade a pri každej tej príležitosti priniesol niečo Jašovi. Dlho sa
+s ním poihrával, vábil ho k sebe, hladkal ho a pes pomaly začal na neho
+hľadieť, ako na člena domu. Prijal ho s vľúdnym zabrechnutím, obskakoval
+ho a za dva týždne tak sa spriatelili, že Zurian mohol pristúpiť k
+uskutočneniu svojho plánu. Bystrejší pes by bol pobadal, vyciťoval, že
+tu niečo nebude v poriadku, lebo pes často veľmi dobre vie, kto mu je
+dobrým priateľom; a koho sa má obávať, lenže Jašo bol mamľas a Zurian aj
+pri prejavoch jeho najoddanejšej dôvery mal pre neho len opovržlivý
+úsmev a tuhu po odplate.
+
+Raz odpoludnia, keď u Balúškov nik nebol doma, vylákal psa za potok. Mal
+u seba poriadnu bakuľu. Bola by stačila na päť volov, nie na jedného
+Jaša.
+
+Tak čo, ty potvora, ty si zavše myslíš, že si na svete jediný, že okrem
+teba a tvojich psích záujmov nič nejestvuje. Ty a domáci. To je všetko a
+okoloidúci, ktorí si ťa ani nevšimli, sú len na to, aby si im život
+sužoval. Ty máš vždy pravdu a ešte nikdy ti neprišlo na myseľ, do tej
+tvojej hlúpej kotrby, že sú aj iné pravdy a záujmy, ktoré treba
+rešpektovať. Tak teraz trošku ti ponížim tvoju pánovitosť a spravím u
+teba trošku úcty pre svet.
+
+Takto filozofujúc, pretiahol nič netušiaceho psa bakuľou. Ale poriadne,
+až tak zdunelo. Bastard zavrčal a vyskočil od prekvapenia. Zurian sa
+rozzúril. -- Len poď, ty zbabelec, len poď. -- Naraz ho uchvátila
+šialená radosť boja. -- Tak, tak, len mi vzdoruj, len vrč na mňa, to ja
+práve chcem, aby ei vedel, že som to ja, ktorý ťa mláti. -- Jašo však
+nevzdoroval, len chvíľku sa hlúpo díval. V očiach sa mu zračila
+nechápavosť a strach. Potom naraz začal ohavné, zbabele zavýjať,
+prevrátil sa na chrbát, svoje nemotorné štyri pracky vystrel, ako by
+prosiac o milosť a ako ho Zurian ďalej mlátil, stále nariekajúc
+priplazil sa mu k nohám a začal mu lízať topánky.
+
+Fuj -- Zurian ho zaraz prestal biť. Ech, to som ja zasa nechcel. Čože
+kúpiť na biednom otrokovi, ktorý sa plazí v prachu. Toto je nie pomsta,
+to je týranie bedára, ktorý ani nevie, prečo ho mučia.
+
+Tak čo, Jašo. Pes sa plazil za ním po bruchu a pozeral na neho tak
+pokorne, s takou úctou a bojazlivou nádejou, že už bitý nebude, že
+Zurian sa musel zasmiať.
+
+Potom sa spamätal a zlostil zasa.
+
+Nie, toto nebolo dobré, pomsta musí byť iná.
+
+Veru, to nebolo dobré, ozval sa hlas za Zurianom. Prekvapene sa obrátil.
+Za ním stál starý chromý žobrák, ktorého neraz vídal sedávať pri potoku.
+
+Mladý pánko sa podujali vykynožiť všetkých psov z tejto ulice.
+
+Nie, strýko, ale všetci psi z tejto ulice sa podujali kynožiť mňa,
+otravovať mi život a ja sa tedy bránim. Bránim sa len, strýko, no a
+teraz som i trošku zaútočil.
+
+Mladý pán je veľkým hrdinom. Znamenite vie bojovať proti úbožiakom,
+ktorí na tomto svete nič nemajú, len ten svoj kožuch, čo ich chráni v
+zime a ten kus koštiaľa, čo im hodí gazda, ako odmenu, že mu chránia
+majetok. Mladý pán morduje bedárov, ktorým ten brechot, čo mladému
+pánkovi ucho uráža, je, ako mlynárovi kameň, kováčovi kladivo. Prečo
+nebije mladý pán pána R... z mesta, ktorý je bezohľadným gaunerom.
+Nemilosrdným sviniakom, topiacim sa vo vlastnej masti a blahobyte. Toho
+vypaseného parazita, toho prečo neučí mladý pán móresu? Na tom by mal čo
+mlátiť, nie ako na tých vychrtlých, úbohých otrokoch. Ale mladý pán je
+zbabelec, pán R... by ho strčil do vrecka, radšej mláti tedy
+slabomyseľných hladošov, ako sú títo psi, než vypasených tučniakov. Tak,
+veru tak.
+
+Učená reč na žobráka, ale máte pravdu, strýko. Zurian s ovisnutou hlavou
+sa vzdialil.
+
+# TRAJA DOKTORI
+
+V Chotkových sadoch, naproti Bašte Svätého Tomáša, pod hradom, tam, kde
+sa jednička strmým oblúkom škrabe na Hradčany, stojí nová, len pred pár
+rokmi vystavená moderná budova letenskej nemocnice. Letná, táto krásna a
+najzdravšia štvrť Prahy, je priamo predurčená za bydlište týcH, ktorí
+slnka božieho a dobrého vzduchu najviac potrebujú. Svojou vysokou
+polohou, parkmi, zeleňou preplietanou štvrťou vilovou a vpravo cez
+železničné koľaje stále rastúcou, čulou Bubenčou, stáva sa Letná budúcim
+strediskom Prahy.
+
+Utešená poloha Chotkových sadov s výhľadom s jednej strany na zelenú
+dedinu študentov, na kolóniu, na vilu majstra Bílka so sochou Husovou,
+shora na hrad a hneď trochu niže na smíchovské stráne, naplňuje zdravých
+radosťou a chorých nádejou.
+
+Doktor Zurian po skončení lekárskych štúdií bol prijatý do letenskej
+nemocnice na praxu. Po nepríjemných naťahovačkách okolo vybavenia
+žiadosti, dnes po prvý raz si oddýchol. Cez dopoludnie sa prisťahoval,
+veci si uložil a predobedňajšie chvíle použil nato, aby sa trochu po
+okolí poobzeral.
+
+S pocitom pýchy a spokojnosti chodieval po záhrade okolo veľkých, z
+červených tehál vystavených oddelení. -- Je tu, ako v pohádke, pomyslel
+si. Aké to mám šťastie. Zeleň domova, naša prebúdzajúca sa jar -- veď
+som nedávno bol doma na veľkonočných sviatkoch -- nemusím si zameniť za
+mrzké, neútulné kamenné kolosy veľkomesta. Prichádzam, hľa, tu zasa len
+do jari. Zelené aleje belasého orgovánu, dýchajte plnými pľúcami a vonný
+váš dych nech roznáša tichučký vánok. Slniečko, celu j zem ohnivým
+bozkom, čo života dáva, čo mŕtvych vzkriesi. Modré nebesia, vľúdny úsmev
+večného pokoja, hladkajte dušu maličkých, smutných detí tejto zeme.
+Nadchnite cvrčka, nech cvrliká pochod úfnosti, lastovičky nech krešú
+nežné, strieborné chichôtky. Bieli holubi, krúžte, krúžte. Pod modrou
+oblohou sťaby prívetivý Boh mával bielou zástavou večného smierenia.
+
+Zurian mal štyriadvadsať rokov. Šuhaj zdravý, ako buk, širokej, mäkkej,
+slovenskej tvári, belasých očú, plavých vlasov a svalnatej postavy.
+Pochádzal z Považia a doma medzi svojimi rád sa vracal k svojmu tvrdému,
+výraznému dialektu. Bol synom Váhu. Nebál ea tej rozmarnej rieky,
+miloval ju. Bol jej znalcom a v duchu neraz sa zaoberal smelým plánom.
+Počas povodne, keď drevené mosty a mlyny Váhu stenajú i strasú sa pod
+údermi rozzúrenej záplavy, pustiť sa tak v Novom Meste do vln a
+rýchlosťou vlaku sa unášať nad zatopeným krajom, až po Piešťany. Nevidel
+v tom nič nemožného, cítil v sebe pevné odhodlanie, myšlienka ho
+uchvátila a schladol iba vtedy, keď mu ktosi nadhodil: Hej veru, rútiť
+sa nad neznámym, zaplaveným krajom, bez koryta, nad pólami. A napichnúť
+sa rozmachom vlaku na konár vŕby, čo sa potmehúdsky skrýva pod vodou?
+
+To je veru pravda, škoda -- vzdal sa Zurian. Bolo mu ľúto skvelého
+plánu, no Váh zostal jednako milenkou jeho rozpálenej obrazotvornosti.
+
+Po maturite, v devätnástom, zašiel si Zurian do Metropolu. V tomto roku
+sa tam hlásila prvá väčšia výprava slovenských študentov. Zlatá Matička
+vtedy ešte nebola na študentskú záplavu nijako zariadená. Slováci
+ubytovali sa v kapucínskom kláštore na Hradčanoch a v bývalej
+donucovacej pracovni. Nebol to život vysokej úrovne, ale znášali ho s
+radosťou, lebo vedeli, že je na ceste zdokonaľovania a potom boli doma,
+boli medzi sebou. Mnohí sa vtedy poznali. Umelci a „veľkí duchovia" sa
+naraz skamarátili. V roku dvadsiatom, na jar sišli sa všetci v peknom
+Štefánikovom kolégiu pri letenskej vodární. Tu už tvorili ozaj jednu
+rodinu. Hneď ešte v zime ožil starý, slávny Detvan, spolok Kukučínov,
+Štefánikov, Šrobárov, Vlčkov, Daxnerov, Nádašiho a koľkých iných stĺpov
+predprevratového života slovenského. Teraz sa ta nasťahovali mladí a
+podľa programu mladosti prevracali v ňom svet na ruby. V rokoch dvadsať,
+jeden až triadvadsiatych panoval v Detvane čulý, rušný život. Život plný
+ušľachtilých, divokých i rozčuľujúcich chvíľ. Tu sa hlásili so svojimi
+prácami prví mladí básnici i prozaici. Infikovali mládež literatúrou.
+Ozývali sa však i právnici. Strúhali virtuózne kotrmelce, krútili
+stanovy okolo prstov, ani žongléri, roznietili oheň stranníckych i
+náboženských bojov a lovili v zmätku slávu a príležitosť ukazovať
+vlastný talent organizačný. Čo osobné priateľstvo, umenie, spoločnosť,
+zábava pospájaly, to rozbúchali právnici. Pre tých hádky a nesvornosť
+boly podmienkou života. Tu zažiarila ich hviezda.
+
+Prišli i ukrutne horliví študentskí pracovníci. Z úst im tiekla
+študentská práca, sypali zo seba programy, zakladali spolky a krúžky,
+šarapatili a v zbožnej túžbe, aby ich shora a z domu zbadali, boli by
+„poštudenčili" nielen časopis „Mladé Slovensko", ale i samotné Národné
+shromaždenie. Neskrotné šarapatenie týchto hlučných horlivcov odnieslo
+„Mladé Slovensko" niekoľkými jalovými, nestráviteľnými, zelenými
+článkami prepchanými „študentskými" číslami, ktorých ani čert nečítal a
+ktoré sú večným dokumentom, kam zavedie dobrú vec štréberská chamtivosť
+vôňou mastných hrncov rozdivočelých, po kariére roztúžených právničkov.
+Redaktor Ľudo Izák na týchto „poštuďenčujúcich" pokusoch vykrvácal.
+Nepochopil znak doby, že sa rodia v radoch študentských praví literáti,
+básnici a spisovatelia, ktorí tvorili pre budúcnosť, pre ďaleké-široké
+časy a že tí s hrúzou a odporom videli, ako sa stáva ich jediný časopis
+osobným orgánom malých, právnických nenasytníkov.
+
+Táto túžba literátov a umelcov potom vybuchla v zázračnej jari roku
+dvadsať a v jej plode i -- spolku a časopise „Svojeti".
+
+Literárne-umelecké hnutie „Svojeť" bolo najväčšie, ktoré sa kedysi v
+slovenskej mládeži vynorilo. Ani predtým, ani potom neprišlo nič
+podobného, čo by bolo vedelo mobilizovať také široké massy študentské,
+spojovať a spriateliť v záujme jednotného, ušľachtilého cieľa
+stranníckymi bojmi rozoštvané davy študentov, ako hnutie „Svojeti".
+
+Hučalo to, kvasilo, a vrelo to vtedy od Prahy až po Tvrdošín.
+Štefánikovo kolégium a Detvan boly, ako úľ pilných a cieľuvedomou prácou
+opojených včiel.
+
+Vtedy, v roku 1922 v „Svojeti" sa narodil a debutoval celý rad dnešných,
+uznaných a vyspelých básnikov i spisovateľov.
+
+„Svojeť" nebola ohraničenou, skupinovou, odbornou snahou umelcov, ale
+celkovou, všeobecnou radosťou celej mládeže. Vtedy každý písal básne,
+novely, či aspoň propagoval a rozširoval.
+
+„Svojeť" sa však neudržala, práve preto nie, že bola taká vzplanúca,
+mladistvým ohňom plápolajúca, bez reálnych základov, bez financií a
+hlavne bez publika. Vtedy ešte nebolo komu písať, nebolo porozumenia, ba
+ani záujmu a tak časopis „Svojeť", spojujúci celú slovenskú kultúrnu
+mládež, s dvesto preďplatiteľmi, z ktorých sotva polovica predplatila,
+-- za rok zanikol. Vodcovia sa uchýlili k štúdiám; lebo im život a
+pomery jasne dokazovaly, že je lepšie kupčiť dobytkom, než kultúru
+šíriť, a je výnosnejšie rafať o povznášaní národa v politickej strane,
+než ho skutočne povznášať.
+
+Prvé roky poprevratové boly plodné, plodnej šie, než ďalšie, od roku
+triadvadsať. Vtedy sa hlásil k životu celý rad umelcov, literátov a
+výtvarníkov. Neskoršie nastala stagnácia. Generácia, vychovaná na
+strednej škole poprevratovej, nevedela produkovať nič takého, čo by sa
+dalo srovnať s prácou detí rokov najskorších: Alexyho, Gašpara,
+Hrušovského, Urbana, Lukáča, Smreka, Poničana, Okáliho a Novomeského.
+
+Zurian sledoval vývoj vecí so zvýšenou pozornosťou. Žil v najlepšom
+priateľstve s umelcami. V inej spoločnosti sa dobre necítil. Túžil po
+dušiach farbistých a ubíjala ho kričiaca prázdnota spolkárskych
+chvastúňov.
+
+Nenadchol ho ani slovenský stôl v kaviarni u „Zlatej husi". Raz tam bol
+Zurian, ale cítil sa tak zle, že už ta nešiel nikdy viacej. Sedávala tam
+budúca slovenská šľachta. Nádejeplná junač, dobre živení, elegantne
+vyobliekaní synátori, synovcovia županov, ministrov, poslancov,
+továrnikov a iných bohov pozemských. Sediac na vysokom koni, dobre
+napapkaní, hľadeli do svojich zaistených budúcností sebavedome, ba
+ležérne.
+
+Zurian sa cítil medzi nimi malým, chudobným a hlúpym. Cítil, že mohol by
+robiť, čo chcel, postaviť sa na hlavu, žrať vedu a umenie na metre, mať
+snahu sniesť s neba hviezdy svojmu národu, hovoriť rečou anjelov, --
+zostal by pre týchto panákov vždy len Augustom, čudákom, nanajvýš
+podivínom. Tí odbavili všetko rehotom, blbým úškľabkom. Vážili si však
+ohromne tradície, pri nej zvážneli a slzy si utierali, pili na slávu
+predkov a úfali sa časom lepším. V prítomnosti ich nič nezaujímalo, iba
+fotbalové výsledky, šachy, tance a pohlavné problémy. Výnimečne sa
+staral kedy-ktorý i o divadlo či umenie a na každý pád výborne mu to
+slušalo k čerstvo hladeným nohaviciam, či k novému kožuchu. No, boli to
+pánkovia jemní, navoňaní a veľmi, strašne vlasteneckí, ktorí za boha by
+boli nechceli obdariť hladoša -- trhana -- študenta svojím, z módy
+vyšlým, odloženým kožuchom.
+
+Zurianovi bolo zle medzi nimi a už sa tam nikdy viacej neukázal.
+
+Najkrajšie chvíle jeho života boly tie, keď on, pražský študent a člen
+spoločnosti tam šarapatiacich „velikánov", dostal sa do styku s
+„kumštýrmi" Bratislavy. Stávalo sa to zavše na sviatkové prázdniny, keď
+cestou domov stavil sa na deň, na dva v Bratislave.
+
+Prvou jeho cestou bolo vyhľadať si Tida Gašpara vo vládnej budove. --
+Jožko môj, si tam a máš chvíľku času? -- spytoval sa ho najprv opatrne
+telefonicky. -- Hej, Karol, len príď, čakám ťa, -- znela Gašparova
+odpoveď. Gašpar mal tam celý deň spoločnosť. Stále bol niekto u neho.
+Bolo nemysliteľné, aby literát, cestujúci cez Bratislavu, nenavštívil
+Tida Gašpara. A Zurianovi náhoda vždy priala. Sišiel sa cez ten deň-dva
+s väčšinou v Bratislave žijúcich chlapcov-kumštýrov. Popoludnie
+presedávali v Bedute a večer si oslávili pod viechami. Zurian odnášal si
+z Bratislavy do Prahy svieže dojmy, vrelé priatelstvá a hrsť utešených,
+nových, neslýchaných, ľudových pesničiek, čo sa učil od Tida J. Gašpara.
+Kde ten ich nabral, zostáva záhadou. Znal však vždy nové a nové a Zurian
+po návšteve Bratislavy ešte veľa týždňov žil, ako omámený pod sladkou,
+trvalou spomienkou nových melódií.
+
+V roku triadvadsiatom a hlavne roku nasledujúceho silne zredly rady
+prvej študujúcej generácie. „Svojeť", opustená, stala sa sovjetom,
+chlapci sa uchýlili ku skúškam rigoróznym, alebo odchádzali domov a tak
+onemel i Detvan, bo mladá generácia nepriniesla so sebou osviežujúcich
+síl.
+
+V päťadvadsiatom bolo už všade úplné ticho a letargia. Činnosť Detvana
+sa vybíjala v usporiadaní výletov a tanečných večierkov.
+
+Zurian v tom roku promoval. Zo starých priateľov nezostali tam iba
+niekoľkí. Podal žiadosť o miesto externého lekára do letenskej
+nemocnice, kde ho aj prijali a tento prívetivý jarný deň bol termínom
+jeho triumfálneho vchodu do života, do praktickej, pravej, nemocničnej
+medicíny. Stretli sme ho vtedy, ako sa prechádza po nemocničnej záhrade
+s veselou mysľou. Medzi stromami, k zarazenému kolíku priviazané, pásly
+sa dve ovečky. Staršia a mladšia, akiste matka s dcérou. Zadívaly sa na
+Zuriana a občas vľúdne si zameekaly. Na, na, moja, na, volal ich Zurian.
+Priblížil sa k nim, nato však splašene utekaly. -- Prečo sa tak boja,
+čie sú tie ovečky? -- spytoval sa Zurian ošetrovateľky, čo šla práve
+okolo. -- To sú ovce z bakteriologie. Ich krv potrebujú k Wassermannovej
+reakcii. Každý týždeň im musíme trochu krvi odobrať a aby neboľy veľmi
+preťažené, sú dve a čapujeme ich striedavo. -- Chudiatka malé, ľutoval
+ich Zurian, -- tak preto sa tak boja. Aký to smutný osud pre ne, veď už
+musia byť celkom chudokrvné.
+
+Zastal pred hlavnou budovou a zadíval sa do parku, kade tiahol rad
+mladých doktorov v bielych plášťoch, na čele so starým, šedivým
+primárom, ktorý ich akiste viedol na vizitu do dolných pavilónov.
+
+Aha, kolegovia, pomyslel si Zurian, spolubojovníci. Nebudem sám, budem
+mať za sebou oporu v podobe kolegiálnych, srdečných a skúsených
+kamarátov, ktorí mi všetko objasnia, kým sa stanem im rovnocenným
+bojovníkom.
+
+Zurianovi ešte vtedy ani vo sne neprišlo na um, že čoskoro skúsi niečo
+takého, ako doma pri večernej prechádzke s troma zlomyseľnými psími
+obludami.
+
+Pár minút na to sa doktori vracali a, keďže bilo dvanástu, vošli do
+hlavnej budovy, kde bola jedáleň.
+
+Tam čakalo na Zuriana prvé sklamanie.
+
+Päť rokov žil skoro úplne osihotene medzi svojimi. Najlepší jeho
+priatelia boli Janko Alexy, nebohý Lacko Treskoň, obaja maliari. Žil
+neustále v spoločnosti umelcov a spisovateľov. Bol zvyklý na krajné
+duševné emócie a na sebaobetavé, nezištné priateľstvo znamenitých
+chlapcov, bohatých duší. S okolím sa stýkal málo. Slovenskí študenti
+žili v Prahe osamelí. Veľké mesto býva ľahostajne, trma-vrma denného
+života, zvýšený ruch, nedostatok času nedovolí ľuďom snívať a rozplývať
+sa v patriarchálnych zvykoch vidieku.
+
+A ani sa mu nechce. Tu neznajú pojem „žúrov", pozývať sa navzájom,
+chodiť si na návštevu. Tu ľudia sa nestýkajú, iba v kaviarni a na ulici.
+
+Je to šetrný národ. Načo by si dávali olovranty, hostiny, keď to nemusí
+byť? Načo by hostili? Nadbytočné miestnosti bytu radšej vydať do
+prenájmu, aby vynášaly peniaze. Rodina aj lepšieho úradníka sa utiahne v
+jednej izbe a v kuchyni a v ostatných bývajú podnájomníci.
+
+V Prahe neznajú, aká je to radosť, hostiť, dať, byť štedrým, gavalierom.
+Títo demokratickí, praktickí, sporovní ľudia nikdy nikomu nič nedajú a
+keďže galantnosti v sebe neveľmi mávajú, nemôže im ani chybieť.
+
+Tu ľudia si sadnú v hostinci ku stolu a nepobijú sa pri snahe zaplatiť
+jeden druhému. Tu každý si dá štvrťku zpančovaného „prírodného" vína a
+čiašnik hneď každému napíše na cedulku cenu požitých tekutín.
+
+Tu mládenec nezruinuje sa pre dievča, tu neprelumpuje s ňou „aj poslednú
+košeľu", ale dá si inzerátik do novín, kde „sympatický, mladý muž hľadá
+si spoločnicu na výlety a na zábavy pod heslom -- každý za své".
+
+Sporivý, praktický národ bez prehnaností hmotných i duševných. Nezná
+komplikovaných, prepychových jedál, ani po nich netúži, ale drží sa
+svojho dobrého, prostého „knedlíka se zelím" a buchát. -- Tu ľudia
+nevybuchujú, nekľajú, nezúria, nenenávidia, neveľmi milujú. Len tak
+pekne potichúčku si zaintrigujú, do očú zlého slova by za nič
+nepovedali, rozprávajú triezvo, proste, bez slovných hračiek, šťavnatých
+výrazov, či prirovnaní a vždy veľmi prakticky.
+
+Čeština, táto bohatá, kultúrna reč beží vždy po tých istých koľajach.
+Nedovoľuje, najmä v rozhovore nie, groteskných, slovných divočín, plných
+bizarnosti a prekvapujúceho humoru. Nedovoľuje vlastné slová tvoriť,
+divné, často zrôdné, často chutné skomoleniny a obraty.
+
+Triezvy, šetrný národ s uniformou šetrnosti a praktičnosti na duši.
+
+A tak tento deň bol vlastne prvý, keď Zurian octol sa mimo svojich, v
+spoločnosti neznámych kolegov.
+
+Prvý raz sa s nimi sišiel pri obede. Jedáleň bola pomerne malá miestnosť
+a bola v tú chvíľu nabitá. Po stenách visely veľké, zarámované
+fotografie. V kúte bolo umývadlo s tekúcou, horúcou vodou. Okrem dlhého
+stola iného nábytku tam ani nebolo. Zurianovi bolo nápadné, že všetci
+sedeli v bielych plášťoch, tak, ako práve prišli z oddelenia. Čudné
+zvyky, pomyslel si, niektorí majú na plášťoch hrdzavé škvrny krvi a
+hnisu a ani sa len nepreoblečú k obedu. -- Zrak mu zablúdil k dolnému
+koncu stola a skoro vykríkol od prekvapenia. Tam sedel učupený
+Sansculotte, či správnym menom Imro Gavora, Zurianov spolužiak a priateľ
+z fakulty. Naradostený pribehol, Gavora však ho prijal chladným
+pohľadom.
+
+Imriško, ty si tu?
+
+Hej, ako vidíš.
+
+A dávno už a akože si sa sem dostal?
+
+To by som sa mal pýtať radšej ja.
+
+Zurian sá zarazil.
+
+Čo to je, akýže to tón od Sansculotta? Potom naraz zvážnel. Začal už
+chápať a dušou mu prekmitlo čosi nepríjemného. Pred týždňom hovoril
+naposledy s Gavorom. Na otázku, čo bude robiť, Gavora zadusil sa, že
+nevie, nemá ani poňatie, ale rozhodne v Prahe nezostane. Prečo mu
+zatajoval, že sa sem chystá a má zadanú žiadosť? Sám Zurian ho ešte na
+letenskú nemocnicu upozorňoval, pobádal ho, aby sa sem uchádzal a nato
+on začal ten „špitál" haniť. Nešiel by sem ani za svet, ani by to nikomu
+neodporúčal, Zurianovi najmenej a -- hľa, milý Gavora je tu. Predstav
+ma, prosím ťa, kolegom. Nuž a či sa sám nevieš predstaviť? Máš pravdu,
+Sansculotte.
+
+Zurian obišiel kol-dokola a každému sa predstavil. Privítaly ho chladné
+pohľady, zamrmlané „teší ma", nijaká otázka, nijaký vľúdny úsmev. -- Na
+konci vzdychol a sadol si, kde ho sluha posadil.
+
+Sused sa o neho nezaujímal, rozhovor nadpriasť nechcel, nuž neostalo mu
+iné, iba načúvať.
+
+Starší sa hlučne bavili. Popravovali kohosi, či vlastne každého, kto do
+reči prišiel. Zurianov zmätok a prekvapenie rástly. Za celú polhodinu,
+ako tam sedel, nepadlo iné slovo, než kto, kedy a ako sa blamoval, s kým
+sa pohádal, aký bol špinavý a kedy ho odtiaľ vyrútia. Preberali špinavú
+bielizeň neprítomných ľudí, rozprávali hanebné intímnosti o ženách,
+kolegyniach, ktoré z prítomných každý znal a Zurian nevedel, ako sa má
+chovať. Nik si ho však nevšimol. Odísť snáď, či ich upozorniť, že je tam
+a nemali by pred nim takto hovoriť? Takto špiniť neprítomných ľudí, veď
+je to nemožné. Vstať azda a vytýkať im to. Načrieť do zla a vytrhnúť ho
+s koreňom. Nech by sa začala jeho príchodom éra nová. Zahanbiť ich, nech
+si to inokedy rozmyslia? Znepriatelil by ich, ale akiste nie všetkých.
+Veď väčšina mlčí. Nuž ale on, ako cudzí a mladší, ako by k tomu prišiel?
+Musel by svoju smelosť odpykať. -- Zuriana ovládla zbabelosť. -- Človek
+je nechutný, bezfarebný, slabý tvor. Hrdinom a originálnym býva len v
+svojich snoch, či v obrazotvornosti, kde to nik nevidí, nepočuje. A keď
+príde do tuhého, keď sa prihlási sám skutočný život, mlčí, čuší, skryje
+sa. Co by mu bolo robilo vtedy pri obede s nimi trošku tak zo srdca,
+úprimne prehovoriť. Po piatich minútach bol by ich odzbrojil, zbavil
+útoku na vždy.
+
+Jedáleň bola vtedy plná. Okolo stola sedeli skoro všetci doktori štátnej
+nemocnice. Chýbala iba doktor Vokurková. Táto mrzká malá zmija s každým
+sa porvala, každého uštipla a každý ju nenávidel. V špinavosti a
+denunciantstve bola nepremožiteľná. Intrigánstvo a škodoradosť tejto
+malej obludy sa nedá opísať. Nenávideli ju a vyhýbal sa jej každý, ako
+morovej rane.
+
+Neboli tu ani lekári z bakteriologie a z pitevne. Nepripustili ich do
+verejnej lekárskej jedálne, lebo od rána do večera kúpali sa až po krk v
+baktériách a v hnilobe. Boli nečistí, v najužšom slova smysle, v svojom
+obore znamenali pre ostatných živelné nebezpečie: tyf, choleru,
+dyzentériu, sepsis a všetky možné pliagy infekčné.
+
+A či už ten, či už druhý. Kto nebol prítomný, toho ohovárali. Ohavné,
+zbabelé a necharakterne. -- Zurianovi sa žalúdok prevracal, chcel vstať
+a skríknuť: -- Pánovia, dnes som prišiel, som tu nový, som mladší, než
+vy a myslel som, že tu nájdem dospelých ľudí a gentlemanov. Vy však nie
+ste dospelí, ba ani charakterní, lebo ohovárate, haníte neprítomných a
+keď sa tu objavia, lichotíte im a tvárite sa príjemne. -- Človek však je
+bezfarebný, slabý, kompromisný tvor. 2ivot je šedivý, zmrzačený a
+bezvýznamný, bez vzletu a odhodlanosti. A tak zostal sedieť a počúval
+ďalej. Díval sa na fotografie. Celá výborná „parta" tu bola zvečnená.
+Každý tu bol vyobrazený v akejsi charakteristickej svojej póze.
+Zurianovu pozornosť upútaly hlavne tri obrazy.
+
+Obraz doktora Pufi. -- Hej, načo sa okúňať. Takto ho nazval v duchu hneď
+pri prvom stretnutí.
+
+Tak tedy doktor Pufi. Obraz bol obstrihaný. Bolo ho vidieť len po pás a
+keď sa Zurian spytoval, prečo je fotografovaný v košeli a prečo sa tvári
+tak trápne a namáhavé, vysvetlili mu, že sa dal tento znamenitý muž
+fotografovať na záchode, ako sa práve namáhal.
+
+Zurian sa neraz zadíval na neho i neskoršie. Z jeho tvári a z celej jeho
+postavy trčala jeho duša. Tá duša bola zrôdna a zlomyseľná. Nikdy nikoho
+nepočul tak lichotiť, tak sa prispôsobovať, ako to vedel doktor Pufi,
+pravda, keď sa mu to vyplatilo. S doktorom Dunčom boli na jednom
+oddelení a úžasne sa nenávideli, Pufi ho však predsa stále okolo krku
+oblapával a zahrnoval lichôtkami.
+
+Metoda, ako vedel Pufi zachádzať s ľuďmi, bola obdivuhodná. Chlapík v
+chrbte ohnutý, neforemnej hlavy, krivého nosu, odstávajúcich uší, s
+cvikrom na nose a úlisnej, falošnej tvári, tedy zrejme antipatického
+zovňajšku, bol všade, kde on sám mal o to záujem, obľúbený.
+
+Bol miláčkom Starého Pána. Tento človek, vysoký úradník zdravotníctva,
+všemohúci pán nemocnie, mal v ňom najoddanejšieho otroka a udavača.
+Starý Pán bol šľachetným dobrodincom. Jeho dobrotivosť podobala sa
+milosrdenstvu sedliaka, ktorý v Banskej Bystrici na námestí mlátil
+bakuľou svojho psa. Dral ho, bil, až pes len tak vrešťal od žiaľu. -- Co
+robíte s tým psom, strýko? -- spytovali sa ho okoloidúci. -- Radosť mu
+pôsobím. -- A to akože? -- No, a či nebude mať radosť ten pes, až ho
+pustím?
+
+Takéto radosti spôsoboval Starý Pán svojim doktorom.
+
+Asistent chirurgického oddelenia Vonásek raz zúfale vtrhne do jedálne a
+oznamuje smútočnú zprávu, že ho Starý Pán výnosom z toho a toho dňa
+preložil v podobnej kvalifikácii kdesi do zapadlej dediny na
+Podkarpatskú Rus. S Bohom veľké mesto, s Bohom kultúrny život, s Bohom
+milá, žiali nešťastný asistent. Odoberá sa od každého, chodí, ako na
+smrt odsúdený. Zaoberá sa myšlienkou samovraždy, až v poslednom
+okamžení, keď už má shalené všetko, príde zpráva, že Starý Pán vydal
+nový výnos, ktorým sa Vonásek ponechá na starom mieste a za chrbát pána
+Boha, na Rusínsko pošlú niekoho iného z vidieka. Možno opísať radosť
+Vonáskovu? Aké hymny spieva o dobrotivosti Starého Pána?
+
+Pufimu však nikdy takéto nebezpečenstvo nehrozilo. On má tu pevné
+základy. On je pre Starého Pána nepostrádateľný. Referuje mu o každom
+kroku doktorov. Kto kedy chodí domov, kam chodieva, či na Starého
+nenadáva. Neraz prechádzajú sa spolu v záhrade aj hodinu. -- Aha, Pufi
+referuje, -- mrmlú ostatní a každý bledne závisťou, že nie on je na
+mieste Pufiho.
+
+Zurianov prvý rozhovor s Pufim bol ohromujúci. Stalo sa to druhý deň,
+ako bol v nemocnici. Ráno pred vizitou vnútorného oddelenia, kam bol
+predbežne zadelený, Pufi ho zastavil. Premeriaval ho od hlavy až k päte.
+V tvári sa mu zračila milá zvedavosť. Hm, hm, povedal a len sa díval na
+neho. Zurian cítil v tejto chvíli, že nemá k nemu tej úctivej cudzoty,
+ktorá delí dvoch ľudí, ktorí sa ešte neznali, že ho ovláda a drží „na
+dlani". Hľadá len formu, ako ho uvítať. A tú formu zaraz aj našiel.
+
+Usmial sa na Zuriana, našpúlil si ústa, priklonil sa k nemu, akoby ho
+chcel pobozkať, vzal mu tvár medzi dva prsty, až sa mu ústa od tlaku
+tiež našpúlily, ukazovákom mu stlačil nos a šišľavým, rozmaznaným
+hláskom mňaukal: -- Jejejej, aký to mladý, milý, peknučký chlapček!
+
+Okolostojaci sa hlasne rehotali a Zurian sa zapýril.
+
+Pufi ho hladkal ďalej. Akú má rumennú, sviežu tváričku, ako dievčatko.
+
+Jeho drzosť a opovážlivosť boly neodolateľné. Ten človek ním opovrhoval
+a svoju nelásku k nemu zabalil do irónie. Znevažoval ho s takou milou,
+bezočivou smelosťou, že Zurian bol odzbrojený.
+
+-- He-he-he. Vy ste protežantom Starého Pána, však? On vás má rád. Pekne
+o vás hovoril. Aj som vás videl s ním v jeho ordinácii.
+
+-- Známe sa už dávnejšie, -- odvetil Zurian, ani sám netušiac, ako
+šikovne.
+
+-- Hej! -- skríkol Pufi, a vrúcne ho objal. Tak vy ste starí kamaráti.
+Báječné, báječné. To ma teší nesmierne, ohromne.
+
+Zurian nevedel, čo ho má na tom tak tešiť, ale Pufi od tej chvíle
+rozplýval sa k nemu láskou.
+
+Zurian neraz sa zadíval na neho, ako skáče okolo postele chorých, ako sa
+poklonkuje, akým horlivým, úctou prekypujúcim hlasom referuje primárovi.
+Zachytil i závistivý obdiv ostatných. Ani jeden nevedel tak oddane, s
+toľkou úctou a tak presne referovať.
+
+Doktor Pufi sa stal predmetom Zurianovho štúdia. Nikdy ani predtým ani
+potom podobnej korektnosti a až do puntičkárstva zachádzajúcej presnosti
+u lekára nevidel. Bolo to až hnusné počúvať. Vzbudzoval v každom svojom
+kolegovi odpor: -- Fuj, takto by som s pacientom hovoriť nikdy nevedel.
+Takto sa robiť dôležitým, takto nafukovať každú samozrejmú hlúposť,
+takto rozoberať diétu, životosprávu, spôsob užívania lieku, ustálenie
+pokroku liečby, s toľkým štréberstvom by som dokázať nevedel. Hnusný bol
+Pufi so svojím puntičkárstvom, so svojím učeným, zbožne tichým,
+preochotným hláskom, ale Zurian videl, ako ho zbožňujú pacienti, ako ho
+poslúchajú, chvália a odporúčajú. A v sebe musel si priznať, ak by
+ochorel, potreboval by pomoc, nešiel by k nikomu inému, len k tomu
+štréberovi, k tomu predôkladnému, falošnému šplhúňovi.
+
+Vizita sa skončila a Pufi sa vrátil ku Zurianovi. -- Fuj, fuj, pozor,
+odpľúvnuť, -- skríkol naraz a ukazoval oknom na dvor na malú ženskú
+postavu, podľa bieleho plášťa súdiac, doktorku.
+
+Všetci sa ta dívali a všetci naraz odpľúvli.
+
+-- Kto je to? -- spytoval sa Zurian.
+
+-- Ja, to vy ešte neviete. To je doktor Vokurková.
+
+-- A prečo ju tak nenávidíte?
+
+Pufi sa vážne pozrel na neho. -- Počúvajte, chlapček! Vystríham vás pred
+ňou. Bola preložená od nás na našu žiadosť na susedné oddelenie, kde je
+sama. Radšej byť spolu pod jednou strechou s besnou sukou, so
+škorpionom, než s touto osobou. Vystríham vás pred ňou!
+
+-- Prosím, hovorte konkrétne!
+
+Doktor Dunčo skočil do rozhovoru.
+
+-- No tak predstavte si na príklad len toto. Maličkosť. Bolo to druhý
+deň, ako sa Vokurková sem do nemocnice dostala. Priviedol ju sem Starý
+Pán, ktorý bol spolužiakom jej otca. Bola tu u nás prvý deň. Pomer náš k
+nej bol najlepší, lebo hocijaká je hnusná, je predsa len ženou a ak sme
+aj neprekypovali k nej láskou, boli sme voči nej pozorní. Ona však sa
+hneď druhý deň prejavila. Večer ma Starý Pán dal zavolať. Bol v zúrivej
+nálade. Reval na mňa. Povedal, že nie som hodný jeho dôvery. Som lenivý,
+nedbalý a nemám v sebe ani iskierky citu k povinnosti. Včera som mal,
+vraj, službu, rad bol na mne, lebo sa všetci vystriedame, ale ja som
+službu neverne opustil. Celé odpoludnie bol som v meste. Nemocnica bola
+bez dozoru. A čo, keby sa to či ono stalo. Ak sa to ešte raz vyskytne...
+
+-- Hneď som poslal k nemu kolegu, ktorý ma v ten deň v službe
+zastupoval. Toto je totiž dovolené. Môžem sa vzdialiť i v službe, ale
+musím mať spoľahlivého zástupcu. Môj dôkaz Starého Pána presvedčil, ale
+ja som bol naozaj zvedavý, kto mu tak pekne zašpehoval, komu tak veľmi
+záležalo na tom, aby ma namočil. No, bola to milá slečna doktor
+Vokurková.
+
+-- A prečo udávala?
+
+-- Hja, to my nevieme. U nej je to absolútnou duševnou potrebou. Kým sme
+ju odtiaľto neodstránili, bolo to u nej na dennom poriadku. Jedného z
+nás udala, že ošetrovateľku poslal si pre cigarety, druhého, že
+nenapísal na čas akési hlásanie, tretieho, že s ktorousi doktorkou vždy
+veľmi intímne sa usmievajú, štvrtého, že používa úradného telefónu na
+svoje súkromné rozhovory, piateho, že mal tu na návšteve otca a ubytoval
+ho na jednu noc tu v nemocnici, šiesteho, že si dáva v kuchyni vždy
+večer variť čaj...
+
+-- Dosť už, dosť. A prečo ju Starý Pán s týmito hlúposťami nevyhodí?
+
+Odpoveďou bolo pokrčenie pliec.
+
+Dunčo pristúpil k Zurianovi. -- Nie len, že ju nevyhodí -- šeptal
+polohlasne -- ale veľmi rád všetky tie veci vypočúva. Starého nič tak
+nezaujíma, ako intímne veci jeho doktorov.
+
+No, do peknej spoločnosti som sa dostal, -- vzdychol Zurian. S hrúzou sa
+pozeral na doktor Vokurkovú, ako kráča po dvore. Božechráň, s touto
+obludou mať niečo do činenia. Najlepšie bude s chladnou zdvorilosťou sa
+jej predstaviť a potom držať sa od nej ďaleko.
+
+Doktor Dunčo. Synátor a bratanec mocných pánov. Hoci bol v medicíne
+úbohým ignorantom, ktorý o veciach mal iba povrchné, plytké vedomosti,
+bol predsa prvým pomocníkom primárovým na vnútornom oddelení. Pufi by ho
+bol ľahko strčil do vrecka, lenže Pufi nemal strýka v ministerstve. Bola
+vôbec obdivuhodná Pufiho prispôsoblivosť, ako znášal, že na vnútornom
+oddelení, kde on vedel najviac, ktoré on ovládal lepšie, než primár sám,
+rozkazoval a rozhadzoval sa Dunčo, ten povrchný ignorant. Pufi však
+svoju nenávisť hltal do seba. Dunča stále bozkával, oblápal, uisťoval o
+svojej vernosti a láske a s ním spolu ohovárali každého, kto okolo nich
+žil a pohyboval sa.
+
+V tomto sa tí dvaja „priatelia" výborne shodi. Intrigovať, podpichovať,
+očierňovať ostatných.
+
+Život týchto lekárov v nemocnici plynul v stálom boji, strachu a
+rozčúlení. Atmosféra bola stále naplnená napnutím, očakávaním niečoho
+nedobrého. -- Preložia ma do zapadlej Poruby, nepredlžia mi termín
+praktizovania, vyhodia ma od vypršania lehoty na ulicu. Dunčov strýk v
+ministerstve už iste vie, že som sa s kolegom povadil, iste má už v
+svojom zázname zapísané, že sa so sestrou na oddelení neznášam. Včera
+Pufi iste referoval o mne Starému Pánovi. Dnes môjho pozdravu ani
+neprijal. Som stratený, za čas sa mi iste pomstí.
+
+V tej dusivej, nenávistnej atmosfére cítili sa dobre len Pufi, Dunčo a
+Jašo. Pufi, lebo svojou farizejskou mazľavou povahou bol nezraniteľný.
+Kto by mlátil do kaluže, do bahna, čo sa lepí a fŕka na každého. Biť
+možno len to, čo vyvinuje odpor, čo má chrbtovú kosť a do čoho môžeš
+bakuľu napriahnuť. Pufi však bol každému tak blízko, lepil sa na každého
+tak intímne, že nebolo možné biť ho, aby človek nekaličil sám seba. Pufi
+nebol v ľahostajnom pomere s nikým. On znal len dva druhy ľudí: tých, čo
+sa ho báli a čo ho milovali. Tých prvých terorizoval, tým druhým sa
+podlizoval.
+
+Pán Boh a všetky nebeské mocnosti sotva mali väčšieho a cynickejšieho
+nepriateľa, než bol Pufi. Nad rúhaním a zvrhlým cynizmom tohoto človeka
+žasol by i ten nejzúrivejší ateista. Ľudská dôstojnosť nedovoľuje
+opisovať jeho výrazy, prirovnania a žarty, akými ostatných pri obede
+traktoval, keď prišla reč na náboženstvo. A predsa kaplnka nemocnice
+nemala horlivejšieho návštevníka a Velebná Matienka
+sestár-ošetrovateliek nikdy od nikoho sa vyšetriť nedala a ani sestrám
+nedovolila, len od Pufiho. Tá naivná radosť tých dobrých bytostí,
+sestár, s akou prijímavaly zprávu, že Pufi im v piatok od obeda zasa
+vrátil do kuchyne celú svoju porciu s odkazom, že mohli by už raz vziať
+konečne na známosť, že on v piatok mäsa neje! Pán Boh sa usmial v nebi,
+anjelíčkovia tlieskali a kotrmelce súkali na pažiti nebeskej od radosti,
+keď Pufi nejedol mäsa v piatok na poludnie. Bolo gaudium preveľké na
+zemi i na výsosti. Sestry pri ostatných doktoroch-nevercoch hľadely na
+Pufiho, ako na svätca, lebo nepočuly jeho rehot a oplzlé poznámky, keď
+im vracal svoj obed v piatok na poludnie.
+
+A pozoruhodné bolo to, že chlapčisko, ktorý vždy a stále špehoval,
+intrigoval, nikdy netrafil na človeka, ktorý by si bol dovolil voči nemu
+niečo podobného. On smel hovoriť o každom, posmievať sa, nadávať za
+chrbtom každého. Nikdy nik to nepovedal zpiatky. Zo strachu azda, alebo
+z akejsi sugestívnej zbabelosti?
+
+# DIPLOMOVANÍ KULÍCI
+
+Lekári tejto nemocnice bili sa o svoj holý život. O tých biednych pársto
+korún mesačne, ak ich dostávali vôbec, lebo časť ich okrem stravy a bytu
+nič nedostala. Mnohí nemali ani toto a boli radi, že mohli dochádzať
+denne praktikovať.
+
+Zadarmo pracovať.
+
+Dnes, keď zadarmo ti ani vody napiť nedajú, keď sa ti zadarmo
+odfotografovať nedá ani Mariša na dedine, oblečená do folklóru. Keď za
+každú malichernú taľafatku, za pár slov pýtanej informácie otŕča sa ti
+tucet dlaní, keď bývanie a jedenia, tieto samozrejmé mizérie ľudského
+života ti vyrastú v ohromný vrch strašidelných problémov, s ktorými sa
+davy bijú, zápasia celý život.
+
+Zadarmo pracovať, keď ti obuvník zadarmo ani gombík neprišije na
+topánky. Lekári, konajúci cennú, zodpovednú prácu, zastávajúci celého
+človeka, ba neraz viac ľudí, robiaci virtuózne zákroky, zachraňujúci
+životy a dávajúci v šans vlastný, -- pracujú zadarmo. Dvadsaťpäť,
+tridsaťroční mladí pracovníci, ktorí právs tak sú utisnutí na podporu z
+domu, akoby chodili do druhej triedy gymnázia. Veľké, štátom udržované
+ústavy prijímajú ich prácu a odmenu za ňu nedávajú. -- Nech sú vôbec
+radi, ak sa k práci dostanú.
+
+Ba na mnohých klinikách ani to nešlo. Dostať sa na pôrodnícke, či ženské
+kliniky, vôbec nebolo možné, lebo boly neslýchané preplnené dychtivými
+pracovníkmi a mnohí čakali už roky, aby sa uvoľnilo miestečko, aby sa
+vôbec k nejakej práci dostali -- zadarmo.
+
+Zurian raz, na radu svojho istého priateľa, Angličana, napísal jednej
+anglo-austrálskej lodnej spoločnosti, či by ho neprijali na loď za
+lekára. -- Nie, nie ste britským príslušníkom, neni možné.
+
+Napísal im ešte raz, vyložil im, že nechce zaujmuť miesto anglickému
+lekárovi, nepraje si plateného miesta, pracoval by zadarmo, chce sa len
+pozrieť do sveta, skúsiť, vidieť a akože si to má uskutočniť, ak nie ako
+lodný lekár, pracujúci hoc i zadarmo na oceánskom parníku.
+
+Povedali znovu: -- Nie, nemôžete. Britské zákony dovoľujú prijať len
+britských príslušníkov. Zadarmo pracovať tiež nemôžete, to u nás
+nejestvuje. U nás sa zaplatí za každú prácu. Na vašu však v nijakej
+forme nereflektujeme, lebo ste cudzinec.
+
+Takto v Anglii a zatiaľ tu mladý lekár mohol byť rád, ak tu i tam z
+dobrej vôle niektorého staršieho mohol sa dostať k nejakej injekcii, či
+byť prítomný pri vykonávaní niektorého vážnejšieho zákroku. Pufi nikdy
+neznášal, aby bol niekto prítomný, keď niečo robil, a vysvetľoval
+mladším niečo nepatrného len vtedy, keď sa blížil Starý Pán. Ten potom s
+úľubou pozeral na neho. -- Tak, tak, len poučujte mládež. Vidíte, --
+obracal sa na ostatných, -- ten je pravý lekár, nie je skúpy na svoje
+vedomosti. -- Ostatní sa usmiali, lebo vedeli, že náhle „Starec"
+vykročí, Pufi zaraz umlkne a vyhodí z laboratória každého.
+
+Primár vnútorného oddelenia na vizitách mlčal ako ryba, len tu i tam
+ironicky prehodil niečo. Mladšia generácia bola úplne na sebe zanechaná.
+Každú maličkosť, ktorej neznali, museli horko-ťažko vyhrabávať z hrubých
+foliantov. Sám Zurian ostával celé noci v laboratóriu, keď tam nik nebol
+a preberal všetko od základov, každú skúšku, reakciu, lebo nebolo
+nikoho, na koho by sa bol mohol s otázkou obrátiť.
+
+Mladí sa bili o svoj holý život, za samé úbohé, samozrejmé, ničomné
+hodnoty. O tú stravu dennú, ak im ju priznali. O tú svoju izbičku, kde
+ich stisli niekoľkých do hromady a zkadiaľ Pufi a Dunčo už dávno
+povymieňali každý lepší kus nábytku za svoje upotrebené haraburdie.
+
+Hja, bolo ich veľa. Hromada uchádzačov, ktorí sa uskromnili, ktorí boli
+radi, ak im dovolili čo len dochádzať. Keď niekto rebeloval alebo sa
+opovážil protestovať, nič nebolo ľahšieho, než ukázať mu dvere. Našla sa
+celá kopa poslušných, tichých kulíkov, odchovancov študentskej biedy,
+bledých, vyhladovelých, ukrutne pilných, šplhavých chlapíkov i
+doktoriek, ktorým stačila na deň hrsť ryže, aby vyžili, a ktorí boli
+povďační i za kopnutie, len keď im bola daná do ruky občas injekčná
+striekačka, alebo keď im dovolili ucho priložiť na prsia chorého.
+
+Niekoľko univerzít len tak chrlilo zo seba doktorov, dychtivú,
+štréberskú, povojennú, s biedou zápasiacu, beznádejnú, v bezohľadnom,
+mrzkom boji otužilú generáciu, ktorí s vytreštenými očami písávali svoje
+ponížené prosby na všetky strany, len aby sa niekde uchytili.
+
+Žiadny odbor vysokoškolského štúdia nebol tak profánne zaplavený, ako
+medicína. Profánne, lebo táto veda, táto klasická, intímna, vznešená,
+Pána Boha za nohy držiaca krása, lekárstvo, zaplavená bola davom
+štrébrov. Najvznešenejšie povolanie, ktoré by sa malo šíriť len ako
+božie tajomstvo -- povolaným a stokrát vyskúšaným -- táto veľkolepá,
+báječná vec, najsmelejšia korektúra diela božieho, stala sa
+remeselníckym povolaním tisícich a tisícich mamľasov, pilných
+šikovníkov, snaživých obmedzenoov, bez poňatia o etickej stránke a
+vznešenosti pojmu: liečiť, opravovať omyly Prírody.
+
+Nemocničný materiál, náplň, „pomocná sila" špitálov, akí boli azda okrem
+Pufiho všetci, viedla tu divý boj o život a o existenciu. Chránili v
+obave, s trasúcimi kolenami svoje maličké záujmy.
+
+Nevoľky prišly Zurianovi na um zvesti o lekároch, ktorí si na vidieku, v
+kúpeľoch nagazdovali kapitál, vystavili si sanatórium, dopisujú, stoja v
+spojení s cudzinou, s celým svetom, chodia široko-ďaleko na propagačné
+cesty, pacienti, boháči, neľutujúci výloh na svoje zdravie, sa k nim len
+tak hrnú, oni kupujú vilu.za vilou, ústav za ústavom. Hej, je hromada
+takýchto šťastných lekárov. Keď tí bojujú, robia to za nový lepší
+pozemok pre svoje nové ústavy. Keď tí intrigujú, zničia tým mocného
+súpera, ktorého zdrtenie znamená pre nich neslýchanjr rozmach a úžitok.
+
+A hľa, tu sa bojovalo zato, a pravda, márne sa bojovalo, prosilo,
+orodovalo, aby ich dali do inej izby bývať, lebo tá, kde teraz bývajú,
+je chliev. Je predsieň troch iných bezohľadných lekárov, ktorí chodia
+cez ňu, topánky si čistia a úmyselne robia obyvateľom život
+neznesiteľným.
+
+Hja, v nemocnici, v jednej z najväčších, kde ošetrujú veľa sto chorých,
+kde býva veľa desiatok úradníctva, personálu i sestár, niet bytu pre
+lekárov. Bývajte vonku, ak sa vám nepáči.
+
+Tu bol lekár posledným človekom. Tu bol každý väčším pánom, než on.
+Posledná slúžka mala viacej práv a väčšie slovo, než lekár. Tu lekár
+nerozkazoval, tu sa nikdy nestalo, že by bol smel niečo slúžobníctvu
+namietať, vytýkať a chcieť od nich zlepšenie. Sestry-mníšky boly sväté,
+nedotknuteľné. Nikdy nikomu nemohlo prísť ani vo sne na um pustiť sa s
+mníškou do boja. Ktorý z lekárov to dosiaľ skúsil, ten ešte vždy
+stroskotal. Utrpel hanebnú a biednu porážku a za krátky čas musel odísť
+z nemocnice, ako opovrhnutý zločinec. Z večera do rána stal sa ten
+nešťastník vyvrheľom. Nočný strážnik, ktorý včera pri otváraní brány
+ešte s okúnavou poníženosťou prijal jeho korunky, dnes s pohoršením
+hlásal všade a dosvedčoval, že pán doktor chodí domov každú noc na moľ
+opitý. Ošetrovateľky svetské, tieto ponížené služobnice mníšok, na
+vlastné oči videly, ako si vpašuje pán doktor pouličné dievky do bytu.
+Videly ich ráno od neho odchádzať. Nejedna slúžka bola ochotná dosvedčiť
+kdekoľvek pod prísahou, že jej pán doktor robí stále ohavné návrhy.
+Videly i to, ako prijíma od pacientov peniaze, hoc bolo to prísne
+zakázané. Tak sa stávalo, že od večera do rána zmenil sa pán doktor --
+včera ešte dobrácka, nikým nepovšimnutá nula -- v notorického opilca,
+smilníka, násilníka, nemravného, bohapustého, korupčného lotra. Ako
+príčina, stačilo vytýkať sestre neporiadok, upozorniť ju na chybu.
+Výsledok sa zjavil čoskoro. Direktor nemociúce zavolal pána doktora k
+sebe.
+
+Direktor. Suchý, zelený, chorľavý človiečik. Šedožltá, otrávená,
+predčasne zostarnutá tvár tohoto malého papriku robila dojem večnej
+špinavosti. Človek nevoľky skúmavo sa zahľadel do nej: Kedy si sa to
+naposledy umyl? Hovoril fňukavým, nepríjemným, nosovým hlasom, pri
+ktorom poslucháča svrbia dlane.
+
+Zuriana pri predstavení si premeriaval pán direktor od hlavy až k pätám.
+-- Aká to výhoda, -- fňukal mu svojím nosovým hláskom už po piaty raz,
+-- aká to výhoda pre vás. Takýto mladý, štyriadvadsaťročný chlapec a už
+dostane honorované miesto.
+
+-- Mal som ísť za šustra, či za portiera a nik by mi nič takéhoto
+nevyčítal, -- odpovedal mu Zurian v myšlienkach, ale neprehovoril.
+
+-- Aká to výhoda, aká to výhoda pre vás; ešte vám diplom neuschol a už
+ste prijatý v nemocnici a ešte i stravu, ba i byt dostanete.
+
+-- Mal som ísť s neuschlým diplomom do prakse, hneď ordinovať, učiť sa
+na ľuďoch, ako na pokusných králikoch, ako toľkí kolegovia a nik, ani ty
+by si mi nemohol nič vytýkať. -- Tak, kam som mal ísť so svojím ešte
+neuschlým diplomom, ak nie do nemocnice skúsiť a učiť sa? -- Boly to
+však tiché argumenty, Zurian vždy len takto dôvodil a navonok zostal
+vždy tichý a mlčanlivý.
+
+-- Takýto mladý človek, my ho tu prijmeme, dáme mu stravu, dáme mu byt,
+dávame mu možnost praktikovať a zatiaľ u nich tam ľudácka sarapata,
+besní maďaróni tam našich ľudí vyháňajú... a my, my vás tu prijímame a
+takúto výhodu vám poskytujeme.
+
+-- Pán direktor, -- vydralo sa zo Zuriana slovo zúfalstva a zahanbenia,
+-- ja nikoho nevyháňam, ja nikdy nikoho nevyháňam a neukracujem. Mám rád
+dobrých ľudí, žičím im a dal by som im všetko, to je celá moja životná
+politika.
+
+-- No tak, choďte, mladý človek, a povedzte tam doma tej peňazokazeckej
+hávedi, akú sme my vám poskytli výhodu.
+
+Zurian cítil jasne, ak by mal len iskierku cti v tele, nesmel by tam
+zostať ani minútu. Neprijať „takúto výhodu".
+
+Okolie ho však poplietlo. Videl všade zášť a závisť. Tu každý niekomu
+prekážal, tu každého ohovárali, každému vyčítali a závideli. A Zurian
+stratil pôdu pod nohami. -- Snáď to tak musí byť, azda to tu inak nejde,
+je to tu prijatým zvykom, nad ktorým sa nikto nepozastaví. Veď hľa, aj
+kolegovia, ktorým sa ponosoval, len rukou kývnu: -- Ani si starého
+blázna nevšímajte. Nechajte ho rafať.
+
+Direktora, tohoto zlomyseľného štrébra, každý nenávidel. Nemal ten nikdy
+ani jedného priateľa. Však tým viacej nepriateľov. Chceli ho už podlomiť
+tisíc ráz. Poruval sa s ľuďmi závažného slova práve tak hnusne, ako s
+neposlušnou umývačkou nádob z kuchyne. A tí pourážaní vlivní ľudia
+natiahli potom všetky struny v ministerstve, aby ho vyštúrali. Nešlo to.
+Tento neznesiteľný, zlomyseľný štréber mal vždy všetko v najlepšom
+poriadku. Hospodárstvo nemocnice za jeho direktorstva zrejme kvitlo, to
+musel uznať každý. Nebolo jediného bodu, nepatrnej maličkosti, čo by
+boli mohli proti nemu namietnuť. Co sporov, čo pračiek mal už za sebou.
+A vyhral vždy a všade. Nenávisť bola jeho živlom, v nej žil, v nej sa
+cítil dobre. Byť každému čo len možno nepríjemným, každú prosbu čo len
+možno odmietnuť, či aspoň zdržovať a zhatiť. Však sa ho aj báli, ako
+čert svätenej vody a predvolaný blížil sa k jeho kancelárii s pocitom
+zvieraťa, vlečeného na jatky. Ešte najviac slova maly u neho ctihodné
+sestry, lebo tie mu poslúžily najlepšími intrigami.
+
+Tie doktorské spory so sestrami! Žaloba u direktora. Pán doktor nech
+príde v okamžení do kancelárie! Škodoradostné pohľady kolegov. Vzdych
+predvolaného. -- Bude zasa masakrovanie -- šeptajú si úradníci pri
+takejto pozvánke a vytratia sa všetci z kancelárie i z predsiene,
+počúvajúc „len vonku, lebo vedeli, čo nasleduje a svedčiť pred súdom sa
+im nechcelo.
+
+V scéne, ktorá potom nasledovala, pán doktor musel poznať s celou
+určitosťou, čo predtým snáď len tušil, že je veľmi malou a mizernou
+kvapkou ľudského mora, a najmä tu v nemocnici nie je nijakou veličinou.
+Že jeho doktorátik ho práve tak zdobí, ako roztrhaný frak strašiaka na
+poli. Ak sníval o dôstojnom mieste v spoločnosti, on, diplomovaný
+človek, tak mu vlial pán direktor do týchto snov za džbán studenej vody,
+ktorá ho prebudí na holú skutočnosť: Človeče, ste vredom na tele tohoto
+ústavu, neznášate sa s personálom, ctihodné sestry pourážate, vyvádzate
+orgie, ste ožralý lump, prišly mi zprávy o vašich machľoch s pacientmi,
+ohrozujete dobré meno nemocnice. Ja vás tedy nevyhodím, ale dám vám
+možnosť zachrániť aspoň tu biedu vášho zneucteného doktorátu, že môžete
+zmiznúť sám, bez kopnutia do zadku a bez asistence policie. Maucta,
+bežte.
+
+Takýchto prípadov už bolo tu veľa.
+
+Tedy len nijaké revolty. Len pekne jemne so sestrami, i so slúžkami.
+
+Usmievať sa na ne. Zdraviť ich už z diaľky, chváliť ich na každom kroku.
+Pýtať niečo vždy len s okľukou, žartovne, nežne. Priama prosba zapácha
+snahou byť pánom, rozkazovať a to personál neznesie. Ak sa stane chyba
+niekde, len skrývať, ospravedlniť, retušovať -- nič to nič, maličkosť,
+no však sa to stáva.
+
+Lebo personál drží spolu, má svojich dôverníkov, ktorí majú hore
+rešpekt. Personál je potrebný, je v smluvnom stave, je organizovaný.
+Doktorík stojí sám, toho sa nik nezastane, ten nie je potrebný, lebo sa
+mu v pätách tlačí tristo iných, ponížených, uctivých, pilných a
+prispôsobUvých hladošov. To tu každý veľmi dobre vie.
+
+A pomoci niet. Ryba smrdí od hlavy. Starý pan u dáva zprávy donášať, so
+záujmom vypočuje všetko, každej nízkosti ľahko uverí bez dôkazov. A
+špinavý prúd udavačstva sa šíri, zmohutnie zhora od „Starca" dolu až k
+poslednému nosičovi odpadkov. V tomto kale utopil by sa každý, kto nevie
+v ňom plávať a kto dobre vie plávať, ten sa dotrepe proti tomuto prúdu
+kloaky hore, hore vysoko, až hen, do dôvery „Starca", z ktorého duše ta
+záplava vyviera. Dosiaľ mal rekord v tomto plávaní Pufi.
+
+Prúd tejto kloaky uchvátil aj Zuriana. Ani sám sa nenazdal, už bol v ňom
+
+# MEDÚZA
+
+Lúč vo tme otravných pomerov. V posledný čas bol skoro každodenným
+hosťom Medúziným. Medúza bývala pod Letnou, tam, ako sa dlhočizná, strmá
+Belcrediho trieda zatáča v ľavo, v tichej širokej ulici, neďaleko parku,
+Stromovky. Neraz sa prechádzali po nej Medúza a Zurian, bo sa mali radi.
+
+Medúza bola úžasne zaujímavá potvorka. Stihla, mohlo by sa povedať
+tenká, ako sirka, ale tam, kde sa patrí, bola všade krásne a nežne
+zaokrúhlená. Bola bledej, bielej tvári s malými červenými ústočkami,
+mala vysoké čelo a nad ním vlnité zlaté vlásky. Pre tie vlasy, ktoré sa
+rozbiehaly nad čelom ako bronzovo-zlatí hadici, nazýval ju Medúzou. A
+zaslúžila si to meno ešte aj ináče. Bola duševne zdivočela, nemožná.
+Každý deň hľadela na Zuriana, ako na cudzinca, musel si ju so dňa na deň
+znovu skrotiť, podrobovať. Ona neznala spôsobov zamilovaných žien,
+pritúliť sa k milému, objať ho, vlasy mu hladiť, hovoriť s ním nežným,
+láskyplným hlasom. Keď sa oni stretli, prvou ich vecou bolo, že sa
+ukrutne pohádali. Vždy našla nejakú príčinu. Vždy prišiel neskoro, alebo
+veľmi skoro. Keď sa už do toho nemohla zachytiť, skúmavo sa zahľadela na
+neho: -- Kto vám zapudroval nos?
+
+-- Ja sám.
+
+-- To nie je pravda, vy lužete, nikdy ste to nerobili..
+
+-- Čert luže, nie ja. Poznamenajte si, že ja nikdy nelužem. Ani tam
+nelužem, kde by som mal luhať. Ani to v rodine nemáme. Je mojou odvekou
+chybou, že som vždy, až škodlivé a hlúpo úprimný.
+
+-- Hi-hi-hi, -- smiala sa cynicky.
+
+-- Nesmejte sa mi, lebo sa dopálim.
+
+-- A komu ste chceli tým svojím krásnym a zušľachteným nosom imponovať?
+
+-- Vám, vy slnko môjho života. Leskol sa mi, az mi svietil vo tme, tak
+som si ho opatrne zaprášil miešaninou Talku a Oxydu zinečnatého. Chcete
+aj chemickú formulu, vy hviezda môjho neba, čo chcete vedieť ešte?
+
+Medúza sa divoko mračila.
+
+Zurian vyskočil so stolca a chcel pohladiť jej zlaté vlásky, ale sotva
+sa k nej priblížil, postavila sa do zápasníckej polohy, ešte krok k nej
+a dostal taký úder do nosa, že mu v ušiach zacvendžalo. Slzy mu tiekly
+po tvári, ale nič to. -- Toto vám neodpustím, Medúza! -- Chcel jej
+zachytiť ruky, aby ju odzbrojil, ale kým sa mu to podarilo, dostal ešte
+dva knock outy, soškrabla mu na päť nechtov kože s ľavej ruky a vytrhla
+mu kravatu. Po päťminútovom zápase ju odzbrojil a udýchané, vyčerpané
+zrútili sa obaja na dlážku.
+
+Vykrútil a postískal jej ruky, až vykríkla od bolesti. -- Karol, to
+bolí!
+
+-- Bolí? Hej? A či mňa nos nebolí? A či nebudem musieť zasa na ľavej
+ruke desať dní nosiť stále rukavice, aby som skrýval pred ľuďmi krvavé
+stopy vašich pazúrov?
+
+Uchvátila ho rozhorčenosť. -- Povedzte mi, Medúza, prečo mi to robíte?
+Zachádzate so mnou, ako so psom. A mne sa to nepáči, nie som nijakým
+mazochistom, som človekom viacej-menej skoro normálnym.
+
+-- Co je to mazochista?
+
+-- Do toho vám nič. Nemusíte všetko vedieť. Povedzte však, prečo so mnou
+tak zachádzate?
+
+-- Ja nemôžem za to, Karol, keď nie ste tu, mám vás rada, ale náhle vás
+zazriem, sama neviem prečo, nemôžem sa na vás ani podívať.
+
+-- Prečo, nepáčim sa vám?
+
+-- Viete dobre, tisíc ráz som vám povedala, že sa mi nepáčite.
+
+-- Tak ako je to možné predsa, že už toľké roky...
+
+-- To ja sama neviem.
+
+-- Karol, na niečo som prišla, -- prekvapila ho inokedy. Skoro každý deň
+prišla na niečo, čo ju dlho mučilo a čo si dala len veľmi ťažko
+vyhovoriť.
+
+-- No, načo ste prišli, Medúza?
+
+-- Karolko, už vás mám, už som vás prichytila, -- a oči sa jej lesklý,
+tvárila sa veľmi múdre, až humorne falošne, ako človek, ktorý prerástol
+svojmu súperovi cez rozum a nedá sa ním oklamať. Škodoradostne, ironicky
+sa usmievala, ale jej humor bol len zdanlivý, lebo bola pri tom zlostná,
+napajedena a blížiť sa k nej znamenalo ťažké ublíženie na tele.
+
+-- Karolko, včera večer boli ste tu, ale nenašli ste ma doma, lebo som
+bola čosi vybavovať. Čakali ste na mňa, vraj, vyše hodinu pred domom, na
+ulici a keďže dul studený severák, premrzli ste poriadne a ani ste potom
+nešetrili na mňa nadávkami. Medzi inými, pamätám sa dobre, takto ste
+nadávali, -- ja hlupák, ja poľutovaniahodný hlupák, nie, žeby som sa bol
+rovno obrátil a hajdy domov, nechať ju v čertoch, kde sa tára, ale ja
+osol, tu som mrznul hodinu na ulici, aby mi každá minúta väčšmi a väčšmi
+objasňovala, aký som otrok a slaboch. Takéto potvory budú zo mňa blázna
+robiť! Hľa, Karolko, tu je to, tu vás mám v tejto poslednej vete. Že ste
+hlupák, otrok a slaboch, to všetko nič, ale, -- a tvárila sa komicky
+triumfálne, -- ale, vraj, „potvory z vás robia blázna". Tak tedy
+potvory! Tak vy máte viac potvôr, čo si z vás blázna robia? Tak sa tedy
+majú veci!
+
+-- Nie, Medúza, vy ste moja jediná potvora, nemám ich viacej.
+
+Nie, nie, Medúza neverila a Karol musel celý večer dokazovať, že je ona
+jeho jedinou, jedinou potvorkou.
+
+-- Karol, -- napadla ho druhý deň. -- Máte vo vačku nejaké bonbóny. Aj
+mne ste ponúkli, hoc viete, že ich nerada. Ale, Karolko, všimla som si,
+že máte bonbóny vo vrecku každý deň a na papierovom vrecúšku stojí
+napísané vždy: Heda Smrčková, obchod cukrovím. Karol, prečo tam stojí
+napísané vždy Heda Smrčková, prečo nie kedy-tedy povedzme i -- Boleslav
+Vopička? -- Co vy máte, Karol, stále s tou Hedou? Co vy ta každý deň
+chodíte? Je mi to krajne podozrivé -- -- Mám ten obchod na ceste k vám,
+Medúza, a majiteľka, Heda Smrčková, je nesympatická, stará baba.
+
+-- Aha, len to som čakala, už ste v pasci! Tak vedzte tedy, Karol, že
+som vás dva razy pozorovala, ako ste išli k Hede Smrčkovej, šla som za
+vami a videla som, že vás obsluhuje akési mladé dievčatko. Aj som
+zbadala, ako sa na seba usmievate, toto je tedy tá stará baba Smrčková?
+
+-- Nie, Medúza, to iba jej učnica, veď viete, že v každom odbore treba
+vychovávať učňov, aby remeslo nevymrelo. Majiteľka, Heda, sama v ten čas
+asi niekde vzadu spí, preto ste ju nevideli.
+
+Oh, len toho bolo treba! Tu začala pravá patália.
+
+-- Tak ona spí a nechá vás o samote s takouto ľahkomyseľnou dievčinou?
+Vás, povestného Don Juana? Veď je to hrúza, veď je to Sodoma a Gomora!
+
+-- Tá dievčina je nie ľahkomyseľná. Je to vážne, dobré dievčatko, čo
+stojí na výši svojho povznášajúceho remesla. , -- Co vy iu ešte
+chválite? Vidieť, ako vam na nej záleží, i načo ste tedy sem prišli, čo
+ta za nou neidete, keď vám tak imponuje?
+
+Celý večer sa vadili a durdili. Proti Medúze a jej logike bola márna
+každá argumentácia Nepozostávalo mu nič iného, než ju uchlácholiť,
+hladkať, kým sa neupokojila, ale to bolo podujatie nebezpečne a spojené
+s mnohým rizikom.
+
+Medúza mu každý deň prekutávala vrecka všetko si prezrela, všetko si
+zapamätala a beda mu bolo, ak našľa niečo, čo sa jej zdalo podozrivým.
+Niekedy mlčala, skrývala svoj nález aj týždeň, shromažďovala ďalšie
+dôkazy, ktorými potom v príhodnej chvxh naraz zaútočila.
+
+A takto to bývalo medzi nimi každý den. Toto je asi schéma úvodu ich
+každodenných rozhovorov, rozdiel bol iba v tom, že niekedy miesto úderov
+päsťou, hodila mu hrnce do hlavy, alebo práve to, čo sa jej dostalo do
+ruky. Sto ráz sa na ňu rozhneval, odbehol zúrive a sto ráz sa vrátil.
+Neraz mu zastala cestu s nabitým revolverom v ruke. -- Zpiatky, lebo vás
+zastrelím. Najprv vás, potom seba. Viete, že mi na živote nič nezáleží.
+Preto ruky hore; jeden, dva, tri...
+
+Oči jej blýskaly, mala v tvári taký divý výraz, že hanba-nehanba, Zurian
+opanoval svoju zlosť a s vystretými rukami cúvnul pekne zpiatky a sadol
+si na diván.
+
+-- Tak, seďte tam pekne, buďte slušný a skromný, potom sa vám nič
+nestane a ešte vám aj čaju navarím.
+
+Rezignovane sedel na diváni a ani sám nezbadal, ako zaspal.
+
+Ľahký dotyk na perách ho vzbudil zo spánku. Medúza stála nad ním.
+Kľačala pri diváni, dívala sa mu do tvári. Tak skrúšene, s takou
+zbožňujúcou láskou sa dívala na neho, z jej očú sálalo naňho toľko
+teploty, horúcej nežnosti.
+
+Bol to pohľad nevysloviteľnej oddanosti a lásky.
+
+Karol díval sa na ňu zpod zpola zavretých viečok, potom otvoril oči. V
+tom okamžení sa zmenil výraz jej tvári.
+
+Nedívala sa už milujúca žena, ale chladná Medúza, s pohľadom bez duše, s
+pohľadom, pri ktorom jeho duša skamenela.
+
+Vyskočil z divánu: -- Medúza, vy ste ma pobozkali.
+
+Jej hlas bol studený, kovový: Nie, čosi sa vám asi snívalo. Len som si
+čosi zdvihla pri diváni. A potom, aj keby. Viete, že vás mám rada, len
+keď nie ste tu. A, keď spíte, tiež nie ste tu.
+
+Málokedy, snáď raz do mesiaca sa stávalo, ze Medúza prestala byť
+Medúzou, že sa prelomila ľadová kôra jej duše. Boly to krásne, horúce
+večery, ked i Zurian bol celkom zmenený. Atmosféra vtedy bola preplnená
+akýmsi napnutím, vo vzduchu sršaly elektrické iskierky akejsi vzácnej,
+Bohom danej inšpirácie Krásne horúce večery a vtedy Medúza nebola
+chladná nie, z jej pohľadu žiarila elementárna sila lásky, bola hovorná,
+plne sa rozvinul jej božský esprit, nadchla ho, priviedla do úžasu; nie,
+od ženy tolko ducha Zurian ešte nikdy neskúsil. Jej láska bola krásna a
+čistá, taká nesmierne zduchovnelá, ale pritom taká plne dokonalá, že
+Zurian myslel v týchto chvíľach: -- Po tomto večere koniec. Môžem ísť za
+ošetrovateľa na ostrov malomocných, aby som sa nikdy medzi ľudí
+nevrátil. Žil som dosť, prežil som vrchol všetkého, čo príde za týmto,
+to ma už nezaujíma. Medúza otrávila Karlov vkus v láske. Bol k nej
+priviazaný neviditeľnou reťazou vernosti a nevedel sa od nej odtrhnúť.
+
+Jej klasickú krásnu tvár, i tú jej štíhlu, mačkovitú bytosť by bol azda
+ešte zabudol, ale stal sa otrokom toho celku, ktorý jej zdivočelá,
+rozháraná duša s tou jej pozemskou podstatou tvorila.
+
+Koľko ráz vybehol, rozzúrený jej chladnosťou a bojovnou odmietavosťou,
+do letného večera.
+
+-- No, počkaj, Medúza, ja ti dám posmechu, ja ti dám odporu. Či v tej
+veľkej Prahe pre mňa viacej ruží nerastie?
+
+Rástlo ich dosť, lenže predsa, akoby nerástlo. Nepáčily sa mu. Obnovil
+si tu i tam niektorú zo svojich dávnych lások. Robil to s divým úmyslom,
+že sa Medúze pomstí, dokáže si, že nie je k nej viazaný, spáše neveru,
+potom druhý deň zájde si k nej a vysmeje sa jej do očú. Mal k tomu
+najpevnejšie úmysly, ale k činu nikdy nedospelo. Flirtoval o stopäť, ale
+darmo. Hovoril rečou anjelov, ale z jeho hlasu chýbala láska. A tak sa
+stal Karlov hlas veru len núteným krákorením havrana a nesmyselným
+škrekotaním žiab. A uviazol jeho hlas, ktorý cudzej žene lásku vyznať
+chcel, vynorila sa mu úžasná plytkosť a bezútešná márnivosť tejto snahy.
+Zarazil sa a utiekol. Cím viacej sa snažil oslobodiť sa zpod vplyvu
+Medúzy, tým sa mu stávalo jasnejším, že nemôže.
+
+A tak pri tej veľkej, úprimnej, zbožňujúcej láske k Medúze tam sa mu
+skrývala v duši i iskierka zloby, pocit zotročenia, bezmocnosti. A akási
+neurčitá otrocká nenávisť proti tej, ktorá mu toto spôsobila. Koľko ráz
+sa zbadal, že v bezmocnej zúrivosti nad novým dôkazom jej bojovnosti a
+komisnosti, na príklad nad nejakým rozkývaným zubom, jej mačkovitým,
+šikovným úderom skoro vyrazeným -- dodrÚzganý na tele i na duli -- v
+bezmocnej zúrivosti nad tými bolestnými vecmi prosí Boha, vrúcne prosí
+aby ho už zbavil toho ponižovania. Keby snáď Medúza nejako naraz zmizla
+-- ale hned zhrozil sa tej myšlienky -- veď by to neprežil, ved by
+zošalel.
+
+Karol zúfal nad tým, ale sa odtrhnúť od nej nevedel. Bol jej otrokom.
+Bol otrokom tej jej rozháranej duše. Tej duše, ktorá život nenávidela,
+ktorá sa stránila ľudskej spoločnosti. Nie, Medúza nikdy s nikým
+nehovorila. Medúza nikdy priateľov a priateliek nemala. Nemala záujmu o
+život. Nikdy ju nemohol naviesť, aby išla s ním do divadla, na koncert a
+do kaviarne. Pri jej úzkostlivom vkuse a vyberačnosti šaty a móda ju
+nezaujímaly. Jej odriekame a opovrhovanie životom boly nekonečne.
+
+Jeden jediný človek vedel o Medúze a to bol Eugen Korda.
+
+K tomuto chlapcovi viažu Zuriana nezapomenuteľné spomienky.
+
+Už asi rok ho nevidel. Mali prísť spolu do letenskei mestskej nemocnice,
+ale Eugen si vec rozmyslel, zašiel si domov a tam praktikoval kdesi vo
+vidieckej, menšej nemocnici.
+
+Tento Eugen Korda bol viac rokov Zurianovym spolubývajúcim a
+spolubojovníkom pri rigorozach lekárske fakulty. Sdieľal s ním romantiku
+studentských rokov. Keď si hocikedy na tohoto Eugena spomenul, usmial sa
+veľkou vnútornou radosťou a blaženosťou, lebo miloval pamiatku tohoto
+chlapca, ako miloval kedysi jeho čistú, tichú prítomnosť. Lebo čistý bol
+a tichý Eugenko, tie dve slová ho najlepšie charakterizujú. Zurian ho
+len tak volal, Eugenkom a on jeho len Karolkom.
+
+Chudý a bledý bol Eugen, bielej a nie celkom čistej, častými jazvičkami
+pokrytej tvári. Tie jazvičky pochádzaly z holenia. Holieval sa čudným
+aparátkom, na ktorý bol náramne hrdý, ktorým sa však dorezával tak
+nemilosrdne, že ho Zurian musel skoro zašívať a zastavovať mu krvácanie
+chirurgicky. Zamyslene krútil Eugen hlavou: -- Ej, zas som ho akosi
+nedobre vybrúsil. -- Odhoď to, Eugenko, do čerta -- pobádal ho Zurian,
+-- nehol sa už tým strojkom, veď raz, až nebudem prítomný, vykrvácaš.
+Preto si taký bledý a chudokrvný; od straty krvi. -- Ale Eugen len
+krútil hlavou, škrabal sa za uchom, hundral si zamyslene a nedal sa od
+tohoto preliatia vlastnej krvi odhovoriť.
+
+Eugen nemal tela. Kým Zuriana ono vždy zdolalo, Eugen svoje ovládal, ako
+len chcel. Zurian, keď ráno musel vstať, bol nemožný, otupelý. Chodil
+ako ochmelený, nemohol čítať, počítať, študovať a ani sa do ničoho
+nepustil. Väčšinu odpoludnia prespal a k večeru, keď sa zobudil, začal
+sa mu rozum čistiť. Večer už videl úplne jasne a v noci sa cítil priamo
+skvele. Ľudia, s ktorými sa stýkaval dopoludnia -- a boli to väčšinou
+študenti -- mali ho jednostranne. z tej stránky ospalej. Býval voči nim
+morózny a odmietavý. V noci by bol objal každého. V noci sa mu krásne
+pracovalo, písalo a študovalo. Až do bieleho rána. Od tohoto spôsobu
+života nemohol odvyknúť, lebo mu nič nenahradilo tichosť a intímnu krásu
+pokojných, plodných, nočných hodín. Lenže Eugen v noci spával a prácu,
+nadšenosť, či dosebapohrúženosť Zurianovu pri stole doprevádzalo jeho
+tiché oddychovanie v spánku.
+
+Lampu zaclonil, že padol len úzky pruh svetla na stôl, kde pracoval, len
+aby Eugenka nerušil.
+
+Ráno Eugen skoro vstával a pustil sa hneď do štúdia. A tam sedel pri
+knihe celý boží deň.
+
+Chodil okolo Zuriana ako čistý tieň. Nestalo sa nikdy, že by bol kedysi
+niečo pre seba kúpil. Od rána do obeda a od obeda do rána nič nepojedol,
+kým Zurian kupoval stále ovocie, čokoládu a podobné márnivosti. Eugen
+vždy mal peniaze, nikdy nikomu nebol dlžný a pre neho prvého, či
+deväťadvadsiateho bolo úplne jedno. Čistý tieň bez tela a telesných
+žiadostí. Vrodený asket bez prehnanosti. Eugenko po šesť rokov, čo s ním
+Zurian spolu býval, nikdy nijakej žene nedvoril. Nikdy nenadával,
+neviedol oplzlých rečí, medzi chlapcami obvyklých, a nerozprával
+dvojsmyselných anekdôt. Nikdy knižky na stole nenechával, vždy všetko za
+sebou odkladal a neznal pojmu neporiadku. Eugenko okrem medicínskych
+učebníc a Karia Maya nikdy nijakých kníh nečítal, nikdy nespieval,
+tancovával len tichý valčík, nikdy sa s nikým nehádal a nemal nikdy
+nepriateľov. Nikdy sa nikam nepchal, predsa sa dostal všade, kam bolo
+treba, lebo ho každý mal rád a nezabúdali na neho. Eugenko sa nikdy
+nikým nedal štvať. Ani Zurianom. Hoci s ním stále spolu býval, nebol mu
+o nič lepším priateľom, ako hocikomu inému, hoci cudzincovi. To, čo
+spravil Zurianovi, bol by spravil na prvé slovo komukoľvek. On neznal
+zlých ľudí, nepriateľov. Ľudstvo rozdeľoval nanajvýš len na tých, čo mu
+vypožičané peniaze vrátili a čo mu nevrátili. Ale nehneval sa ani na
+týchto, len si zamrmlal, keď na to prišlo:
+
+-- Ej, no, škoda, škoda... -- A nikdy nikoho nevyzval, aby mu vypožičané
+peniaze vrátil.
+
+Jeho neštvateľnosť neraz bolela. V tiché zimné večery pri teplých
+kachliach a pri čaji Zuriana neraz chytal svetobôľ, ponosoval sa
+Eugenkovi: Pozri sa, to a to sa mi stalo, vidíš, aký je ten a ten, no
+nie je to strašné? Smie sa to vyskytnúť v strednej Európe? Tak čo ty k
+tomu, Eugenko?
+
+Eugen len mlčal. Dobrácky, vážne pozeral pred seba. Aj sa ho snažil
+potešovať, ale nikdy Zurianovu zlosť proti druhému nesdieľal. Ako
+túžobne čakal niekedy Zurian: -- Ale, no, povedz už, Eugenko, no nie je
+to chumaj, nie je to zločinec, darebák, mamľas, potkan, idiot? -- Ale
+Eugenko len mlčal, ani brvou nehnul, nanajvýš ho utišoval: -- Ale, už sa
+len upokoj, Karolko, už sa len nezlosť.
+
+V biliarde ho mlátil ako psa, lebo hral, ako Alexander Veľký a keď
+Zurian dopálený stálou porážkou, išiel sa žiaľom zastreliť, na Eugenkovi
+bolo vidieť, ako robí úmyselné chyby, ako zbabre partiu, len aby ho
+potešil a vrátil mu životnú vôlu.
+
+Eugenko sám nijakých senzácií neprežíval, kým Zurian bol stále a stále
+zapletený do všelijakých divokých afér a vecí. Sotva absolvoval jednu a
+oddýchol si, už zapadol až po krk do druhej. A Eugena toto nikdy
+nezaujímalo. Mohol byť svedkom čohokoľvek. Jeho šľachetná, chladná,
+bledá tvár nikdy, nikdy sa ani nehla. Nikdy sa ho nespýtal, kde si bol,
+kam ideš, čo to máš, či si to robil? Keď bol svedkom začiatku niečoho,
+nikdy nebol zvedavý na pokračovanie. A nik sa od neho na Zuriana ničoho
+dozvedieť nemohol.
+
+Oh, Zurian rád mal pamiatku tohoto čistého, éterického tieňa, miloval
+veľmi svojho Eugenka.
+
+Ten bol a žiaľ, aký ho pojal, keď raz, prichádzajúc s párdenného výletu,
+našiel Eugenka v posteli v ťažkej horúčkovej angíne. Ako preklínal krutý
+osud, ktorý drtí vždy len dobrých a ušľachtilých, kým gaunerom sa nič
+nestane. Mlčky sedával pri posteli Eugenkovej a tajil svoje slzy. Mlčali
+obaja a mysleli na to, čo práve preberali z patologickej anatómie: pôvod
+všeobecného kĺbového reumatizmu z anginy. A so svieraním v duši mysleli
+na ďalší možný následok, na srdečnú vadu. Zurian snáď ešte nikdy
+nepocítil podobného ťažkého, osudného smútku, ako pri posteli
+Eugenkovej, keď ležal v ťažkej horúčke, zabalený v obkladoch.
+
+Za pár dní ozdravel, ale asi desať dní na to prišly kruté bolesti do
+všetkých klbov, opuchlých a zapálených.
+
+Eugen bral ohromné dózy salicylu a chorobu zdolal dosť šťastne. Ani na
+srdci nepočuli zmien, ale tento krutý dôkaz krehkosti ľudského života
+neveľmi podporoval Zurianov životný optimizmus.
+
+Potom Eugen bol raz svedkom Zurianovej bolesti.
+
+Deň predtým Zurian ukrutne sa povadil s Medúzou. Príčina, ako obyčajne,
+bola malicherná a smiešna. Posmievala sa mu tak cynicky, vyhadzovala mu
+na oči také nemožné hriechy, výplody svojej divokej fantázie, lámala
+logiku kolom, povykrúcajúc Zurianove slová tak nesmyselne, že skoro
+zbláznel v zúrivej bezmocnosti.
+
+No nie, to tak ďalej nejde, toto už neznesiem a už si nájdem možnosť,
+aby som vám dokázal, že ste mi nie podmienkou života a nemusím od vás
+prehltnúť všetko.
+
+Prv, než mu mohla vstúpiť do cesty, vybehol na ulicu.
+
+Hybaj cez námestie. -- Nech už príde hocičo, oddám sa osudu, nestarám sa
+o nič a viem len jedno: Medúze sa teraz pomstím za každú cenu.
+
+Prišiel pred mestské divadlo a náhoda mu priala. Na rohu srazil sa s
+dvoma dievčatmi. Bezduchým pohľadom sa díval cez ne, ale ony ho poznaly
+a s výkrikom radosti sa mu vrhly okolo krku.
+
+-- Karolko, Karolko, servus, kdeže sa ty tu berieš? -- Chytily ho s
+dvoch strán pod pazuchu a už ho nepustily.
+
+Zlaté, dobré dievčatká, sestry: Gréta a Micka. Prežil s nimi kedysi doma
+krásne leto. Boly dvojčatá a sotva rozoznateľné. Či je div, že ich mal
+kedysi rovnako rád?
+
+Lebo kedysi, predtým ešte, než Medúza otrávila Karlov vkus v láske, bol
+iným človekom.
+
+Načo tajiť? Po maturite v prvých rokoch vysokoškolského štúdia nebol
+Zurian o nič lepší, než jeho okolie, veselí, mladí „akademickí občania",
+ktorí dnes dvoria tu, zajtra tam. Z lásky robia šport a večer vyryjú
+novú čiarku na skriňu, či na posteľ, ako nový trofej triumfov v láske.
+Co bolo pre Zuriana zábavnejšieho, než naraz balancovať medzi päť-šesť
+ženami, ktoré o sebe nevedely a každá si myslela, že je jej jediným
+milencom. Prekliate sladké okolie a okolnosti jeho domova, kúpeľov,
+dávaly mu k tomuto športu tisíc príležitostí. Nosil v sebe akúsi naivnú
+hrdosť: jeho milenky boly vždy „vybrané" -- predajnou láskou, ktorú jeho
+priatelia tak pilne pestovali -- vždy hlboko opovrhoval. A mal ešte
+jednu ctnosť, na ktorú bol hrdý: nebol sdielny a nikdy o svojich veciach
+nerozprával. Dnes mu je to všetko smiešne, ale vtedy sa pre túto svoju
+vlastnosť náramne vážil.
+
+Ako vidieť, bol pekným vtáčkom a bol na svoje triumfy hrdý.
+
+Jednej veci sa však úzkostlivé vyhýbal. Za nič na svete nezačal
+flirtovať s krásnou ženou. Jeho lásky boly vždy akosi „šumné", povedzme
+„pekné", ale nikdy neboly krásne. Bál sa krásnych žien, že sa do nich
+opravdivé zamiluje a bude ich otrokom. Stratí hlavu, stratí svoju
+samostatnosť.
+
+Zurian musel byť vždy pánom situácie. V okruhu žien tohoto „šumného"
+typu bol ohľadom seba istý. Do tých sa nikdy nezaľubil, lásku im
+vyznával s ohromnou istotou, videl im do duše a vedel, že mu máloktorá
+odolá. Tam. kde cítil akýsi húževnatejší odpor a pritom bola viac než
+„šumná", stratil sa, ako gáfor, že niekedy ona sama tomu nerozumela. Bál
+sa stať otrokom krásy.
+
+Krásne ženy malý okolo seba vždy veľký dvor rytierov. Obklopovalo ich
+stádo mamľasov a Zurianovi sa nechcelo do toho stáda za ovcu. Načo tedy
+pestoval tento šport u toho druhého typu dievčat? Lebo nemohol žiť bez
+pocitu, že je milovaný. A potom ich oddanosť hladkala jeho zelenú
+ješitnosť.
+
+Bol bezcitným a stvrdlým vo svojej skazenosti, ale ako sa pritom
+sentimentálne poznamenáva, uschoval si v hĺbke svojej duše bielu ľaliu
+svojej úzkostlivé stráženej, prvej, opravdivej lásky. A tú nechcel
+darovať žiadnej. Ani jedna sa mu nezdala na to hodnou. K žene, ktorej
+ideál schovával si v duši, nesmelo sa približovať stádo povrchných
+mamľasov.
+
+Bol pritom voľným a šťastným, lebo bol pánom situácie. Z týchto čias
+pochádza jeho známosť s Grétou a Mickou.
+
+Vtedy v lete tvorili spolu zaujímavú, podivinskú, malú spoločnosť. O ich
+veciach nik nevedel, lebo sa verejne nikdy neukazovali. Skrývali sa pred
+ľuďmi, ako pred prašivými psami, škodlivou zverou, lebo znali ich mrzkú
+lačnosť, baviť sa na intímnostiach druhého. Jediný, kto tušil čosi, bol
+starý strýc dievčat, bývalý generál armády. Tento vysoký, šedivý, hrdý,
+starý pán Zuriana úžasne nenávidel, a odkázal mu raz, ak ho ešte raz s
+dievčatmi uvidí, zastrelí ho ako psa. Nemohol prísť nijako na to, kedy
+ho ten starec u nich videl, cítil však, že vec myslí vážne a musí dávať
+pred ním pozor na svoju vzácnu kožku. I neraz skočil cez okno do
+hlbokej, starej záhrady, keď počul jeho starecké, šúpavé kroky na
+chodbe.
+
+Zlaté krásne dievčatká, poklady Zurianovej študentskej mladosti. Koľko
+raz na ne spomínaval, keď na jeseň od nich odišiel ďaleko a len
+pohľadnice prinášaly o nich zprávu, že sú tam a tam a „myslíme na Teba,
+Karolko, Tvoje malé dievčatká (your little girls, takto písavaly), Mary
+a Gréta".
+
+Ich zlatá pamiatka však mu časom vybledla a za čias Medúziných už na ne
+celkom zabudol.
+
+A teraz, ako tak cvála pri divadle, naraz padne im do náručia.
+
+Toho vzájomného vítania, tej radosti! Nevedeli tejto chvíli odolať, city
+prekypovaly pri tomto prekvapujúcom stretnutí sa, dušu im naraz
+zaplavila tisícoraká, sladká pamiatka, vonný, mladistvý vánok tohoto
+utešeného leta pred rokmi a skoro v slzách sa tam na ulici vybozkávali.
+
+Najmä Karol slzil, lebo mu dusivou ťarchou zaľahla na dušu myšlienka:
+Ajhľa, Gréta a Micka, moje malé dievčatká, moje zlaté, milované detičky
+a zatiaľ ktosi zlý, taká pochmúrna potvora, akási rozháraná, divá,
+nesmyselná bytosť ma trápi, privádza deň čo deň do bezmocného zúfalstva
+a aj ma za čas akiste umučí.
+
+Sotva sa vyobjímali, na veselé pobúrenie okolochodiacich, tá spomenutá
+obluda už aj prikvitla.
+
+Bežala za Zurianom na celej ceste, skrývala sa pod brány a do tieňa a
+teraz sa zjavila. Zazrel ju, ako sa prechádza na druhej strane a s
+mrazivým pokojom, nevenujúc im ani pohľadu, zmizne za rohom.
+
+Krv mu zmrzla v žilách, a pojala ho taká divá predtucha, že zostal stáť
+na dlažbe a hladil si čelo, snažiac sa srovnať myšlienky. Dievčatká sa
+zadivily. Co je, Karolko, čo sa ti stalo? Ich hlas ho priviedol k sebe.
+Pozrel na ne a v budúcom okamžení ho uchvátila divá radosť.
+
+Hej, dobre to tak, tak to treba, detičky, lepšie sa to stať nemohlo! Nič
+mi nie je. Akási hlúpa myšlienka sa mi votrela na myseľ, ale nič to,
+netýka sa vás, nemáte s ňou nič spoločného.
+
+Uchvátený akýmsi triumfálnym pocitom, kráčal po boku svojich dvoch
+dievčat. Odmietol pozvanie k nim. Nie, pomyslel si, dosť toho, Medúze
+stačí, čo videla, viac k pomste netreba. Jej fantázia si už všetko
+doplní, už ničoho dodať nemusím.
+
+Zašli spolu do „Zlatej Kaplnky" a noc sa im minula v bezuzdnej
+veselosti.
+
+Chvíľami pociťoval strašný zármutok, priamo bolesť pri pomyslení, čo
+robí teraz Medúza? Ta myšlienka drala sa mu do mozgu cez hudbu, cez
+vresk, dym, víno, tanec, cez všetko. A vždy, keď mu prišla na um,
+spôsobila mu také neznesiteľné duševné trápenie, že si myslel: musím to
+tu okamžite všetko nechať a utiecť k Medúze. Chvíľami sa mu zdalo všetko
+tak strašne prázdne, tak neutešené, márnivé a nesmyselné. Potom pozrel
+na dievčatká, ktoré nič nespozorovaly, výborne sa cítily a bolo mu ich
+ľúto. -- Zlaté detičky moje, tie ozaj za nič nemôžu, o ničom nevedia,
+majú ma rady a nesmiem im radosť stretnutia pokaziť.
+
+A tak tedy vydržal, kolísajúc neustále medzi pocitom hlbokej ľútosti a
+tuhy po Medúze a divého, vzplanúceho vzdoru: -- Však ja ti ukážem!
+
+Prišlo ráno a dievčatká zaviedol do hotelu, kde bývaly. Sľúbil im, že
+ich odpoludnia vyhľadá.
+
+Chcelo sa mu hneď letieť k Medúze a len s krajným napnutím vôle odolal
+tomu pocitu. -- Nech sa hlási ona, počká na to rozhodne. Nebude slabý.
+Ani nešiel domov. Túlal sa celé dopoludnie po meste, po kaviarniach.
+Cítil dobre, že dievčatká nevyhľadá. Čože s nimi? Co by s nimi robil?
+Kto jestvuje, kto zaujíma ho na svete okrem Medúzy?
+
+Po obede zašiel vlakom štyri stanice za Prahu, aby pokúšaniu odolal ešte
+istejšie a túlal sa po lesoch a po lúkách, tlmiac v sebe bolestnú túhu
+po Medúze.
+
+Co len teraz robí, čo len robí? Hej, bolo mu otupno, neutešene smutne.
+
+Večer vrátil sa vlakom do mesta.
+
+Doma ho prijal Eugenko s vážnou tvárou.
+
+Toto tu, hľa, pre teba.
+
+Co je to? Telegram.
+
+Trasúcou rukou ho otvoril.
+
+Tak sa triasol, drkotal po celom tele, že sotva vedel čítať:
+
+Priateľka je mŕtva, nechoďte sem viac. Oľga.
+
+Zuríanovi sa v očiach zatmelo. Eugenko rýchle priskočil a zachytil ho,
+lebo sa zapotácal a bezvládne hľadal okolo seba oporu. Jeho mozog ťažko
+spracovával, drtil slová telegramu. Oľga hej, Oľga píše, Medúzina jediná
+priateľka, s ktorou sa občas stýkala a ktorej jedine dovolila, aby sa
+zaujímala o jej osud. A teraz akiste si ju zavolala a zanechala jej
+svoju poslednú vôľu: -- Podaj tento telegram. Zurian sa chytal za hlavu,
+zalamoval rukami a po tvári mu stekaly ťažké slzy. Vo svojej mučivej
+bezmocnosti nevedel, čo si počať. Eugen pozorne sa na neho díval.
+
+Eugen, Eugenko môj, už je tam, už je koniec -- a podal mu telegram.
+Eugenko, čo robiť, čo robiť?
+
+Eugen prečítal papier. -- Nič, nič nerobiť, varujú ťa, aby si ta nešiel,
+tak tedy zostaň doma. A čím menej sa budeš trápiť, tým lepšie pre teba.
+Veci sú nezmeniteľné, treba sa vžiť do situácie.
+
+Eugenko, Eugenko, vieš, kto to bol, vieš, čo pre mňa znamenala, vieš,
+koho som stratil a vieš prečo? Jeho slová sa vtopily v neutíšiteľný
+vzlykot.
+
+Neplač, Karolko, opanuj sa, veď si nie žena. Teraz choď spať a zajtra
+uvidíš, čo a ako.
+
+Nežným, ale energickým pohybom ho začal vyzliekať a uložil ho do
+postele, ako malé dieťa. Tak, teraz pekne zaspíš a do rána sa ti uľaví.
+
+Zurian prežil strašlivú noc. Dušu mu trhala, pálila hrozná bolesť, ktorá
+mu z očú urobila nevyčerpateľný prameň horkých slz.
+
+Medúza, Medúza, takto si ma tu nechala. Usínal, prepadol ho polospánok,
+za pár minút sa prebudil zasa, díval sa do tmy kalným, vyhorelým zrakom
+a usínal znova.
+
+Bol na návšteve u Medúzy a keďže bol ospalý, Medúza ho uložila na diván.
+Spite, Karolko, pospite si hodinku, ja vám zatiaľ prichystám čaj. Dobre?
+
+Dobre, Medúza.
+
+Položil sa na diván a díval sa na Medúzu, ako sa obracia okolo krbu, ako
+pripravuje olovrant. Moja tenká, bledá, mačkovitá Medúza, ako sa tam
+vrtí, -- pomyslel si. Nie je to čudné, Medúza varí. Robí niečo! Ja som
+si myslel vždy, že Medúza nič nevie, nevie hrniec ani do ruky chytiť, a
+teraz, hľa, ešte aj ohňa naložila. Nikdy nič takého on u Medúzy nevidel.
+Vlastne ani neviem, čo som videl u nej. Medúza a varenie. Smiešne! Ako
+by sa dostaly dohromady? A hľa, teraz tu máš.
+
+Karolko, čo sa sem dívate? Co si ma prezeráte? Odvráťte sa a spite.
+
+Hej, teraz už chápem, Medúza nikdy nezniesla, aby som sa na ňu uprene a
+stále díval. Hneď začala prskať, alebo utiekla. Hej, neznesie pátravého
+pohľadu. Hypochondria mojej Medúzy nezná hraníc. Musím sa obrátiť na
+druhú stranu, ináče nič nechce robiť. Moja divá, rozmarná Medúza. Karol
+sa obrátil na druhú stranu a prebudil sa.
+
+Skutočnosť ho bodla do duše. Jaj, jaj a teraz je po nej. Je po jedinej
+bytosti, ktorá ho viacej milovala, než svoj vlastný život a ktorej
+umrieť pre neho neznamenalo viacej, než sfúknuť dohárajúcu sviečku.
+
+Prúd sĺz mu kanul z očú a usínal znovu.
+
+S Medúzou išli po ulici, vracali sa z výletu.
+
+Medúza niesla kytičky poľných kvetín. Mala na sebe šedivé-belasé šaty.
+Tie šaty, ktoré nosila už tretí rok. Skoro jej jediné šaty. Načo mi
+druhé -- vravievala Karlovi. Tie mi stačia úplne. Ak vám to nestačí,
+choďte si k žene, ktorá sa bude obliekať podľa vášho vkusu. Bledá,
+štíhla Medúza, v svojich šedobelasých šatoch, s malým klobúčkom. Z jej
+bielej tvári svietia len malé, červené ústočká. Och, aký bol Karol
+šťastný, keď sa na Medúzu podíval. Ako miloval tú svoju bledú, štíhlu
+mačku.
+
+Šťastie v ňom prekypovalo a chcel ho sdieľať so svetom. Šli pred veľkou,
+prepychovou kaviarňou. Rezké akordy kapely ho nadchly ešte viac. --
+Medúza, poďte so mnou do kaviarne. Nech vidí celý svet, že som šťastný,
+že vás mám rád, že som na vás hrdý. Chodievam sem neraz a sedím tu vždy
+sám. Znám tam veľa ľudí. Novinárov, maliarov, lekárov, profesorov i
+študentov. Sedávajú tam aj veľké spoločnosti. Ženy i mužovia. Samý
+smiech, samý flirt všade. Sotva ktorý si tam sedí sám. Každý tam
+chodieva so svojou láskou. Niektorí sú sdieľni a pozývajú si ku stolu
+svojich priateľov, predstavujú ich svojim zbožňovaným a bavia sa tam
+spolu. Iní zasa sa utiahnu do kúta, nevľúdne a kysle kritizujú každého.
+K svojmu stolu by nepripustili nikoho, iba ak snáď cudzinca, ktorý sa o
+nich nestará. Ja tam chodím vždy sám. Som tam medzi toľkou blaženosťou a
+veselosťou i uzavretou, spokojnou intímnosťou malým, úbohým atómom
+kyslého podivínstva a neutešenej osirelosti. Keď tam vstupujem, vítajú
+ma spytujúce, posmešné pohľady: A ty zas ako? O teba nikdy nik nestojí?
+
+Medúza, doprajte mi tej radosti, príďte tam so mnou. Len raz tam poďme
+spolu. Nech odvetím tým tázavým, profánnym, posmievajúcim zrakom aspoň
+jediný raz: -- Nemyslite si, že som ja osirelý, že o mňa nik nestojí.
+Viďte, hľa. Tu je moja žena! Nie je taká, ako vy, nie je takou
+kaviarenskou hyenou, netreba jej „flancu", zábavy, vašej spoločenskej
+povrchnosti. Tej som ja všetko. Je iná, než vy. Nemôžete sa s ňou ani
+srovnať. Miluje len mňa. Všetko ostatné je pre ňu bezcenné. I teraz len
+preto som ju sem priniesol, aby som vám ju ukázal. Pozrite sa i na mňa.
+Nie som dnes znechutený, unudený, nepohrúžim sa do novín. Dnes žiari zo
+mňa radosť, a spokojnosť, vidíte, ako ju milujem, svoju ženu? Cítite
+dnes zo mňa, vy profánné tvory, vy koketné, povrchné babizne, aké ste mi
+mrzké, cítite, ako vami opovrhujem? Aká je mi smiešna vaša kaviarenská,
+necudná, každému vystavená, neintímna, nesvätá „láska". Len sa sem
+pozerajte, prezrite si nás dôkladne, obstojíme pred každou kritikou:
+Medúza v svojich jednoduchých belasých obnosených šatočkách, ale so
+svojou jedinečnou haďou, mačkovitou, štíhlou postavou, so zduchovnelou,
+bielou tvárou, pohádkovým zlatým vlasom nad ženiálnym čelom a rudými
+malinkými lístočkami, -- moja krásna, tenká, skvelá Medúza a ja, z
+ktorého tvári sála radosť a oddaná láska, posvätná úcta k nej, jedinej,
+milovanej Medúze.
+
+Prosil ju v extáze: Medúza, doprajte mi toho, len raz, jediný raz,
+tohoto triumfu.
+
+Bolo všetko márne.
+
+Medúza nikdy nikam nešla. Medúzu so Zurianom nikdy nikto nevidel. O tom,
+že ju miluje, nikto nevedel a Zurianovi nebolo dané nikdy zjaviť sa s
+ňou pred svetom s pocitom víťazstva a zadosťučinenia: -- Hľa, pozrite
+sa, nie som sám, nie som opustený. Milujem a som milovaný.
+
+Zurian so svojou osirelosťou a tým, že ho nikdy so ženou nevideli,
+vzbudzoval i naďalej dojem podivínstva a ľútosť a osud mu nedoprial, aby
+sa svetu vysmial do očú: -- Hlupáci, čo si vlastne myslíte?
+
+Medúza prskala a vyskakovala. -- Karolko, zbláznili ste sa? Ja že mám
+ísť do kaviarne? Umrela bych na mieste. Karolko, pre mňa ste kaviarňou
+vy a čo že vám to tak nie je dobre?
+
+Z jej očú sálala v tej chvíli vernosť a láska. Karlovi neostávalo nič
+iného, než doma bozkať jej okraj šiat a bojovať s ňou.
+
+Striasol sa v polospánku a prebudil sa na strašnú prázdnotu a bolesť a
+aby hlasne zavzlykal.
+
+Už je tam, už je tam, moja žena.
+
+Karolko, neplač, upokoj sa a spi, -- ozval sa vo tme Eugen a Zurian
+pritlačil si podušku na tvár, aby svoj vzlykot utlmil.
+
+Zasa videl Medúzu po tom osudnom večere, ako sa vráti domov. Precítil
+to, čo vtedy musela cítiť ona. Opustená, zradená, olúpená o smysel
+života. Medúza sama, sama doma, bez duše, bez Karla, osirelá. Videl, ako
+sedí pri stole, na ňom horí svieca, jediné svetlo v jej izbičke. Medúza
+skloní si hlavu do dlane a myslí na neho. Krása a láska toľkých rokov
+jej prebehne pred zrakom ako farebný prelud. Kdeže sa to všetko podelo?
+A teraz zradená, opustená, ďaleko od Karia.
+
+Medúza, vzdychol Zurian v polosne, ako si len mohla veriť, že by som ja
+bol schopný zrady? Ako si mohla pochybovať o mojej vernosti? Toľko rokov
+ti nestačilo, aby si sa presvedčila, že si mi všetko, že bez teba život
+nemá pre mňa nijakého smyslu?
+
+Medúza skloní hlavu na ruku. Svieca horí, horí, dohára a ako dohasína
+jej svetlo, tak mizne i duša Medúzina.
+
+Neraz vstane, ide ku skrini, tam v hornej zásuvke leží jej večný
+spojenec a posledné gesto, revolver. Zdvihne ho, s Bohom... a... Zurian
+upadol do bezvedomia.
+
+V nervovej horúčke táral celú noc. Eugenko tam sedel celú noc pri jeho
+posteli, držal v ruke jeho horúce nepokojné prsty, stieral mu pot s čela
+a dával pozor, aby si neublížil.
+
+Takto sa míňala ťažká, nekonečná noc, prišlo svitanie a ním prebúdzanie
+sa na kruté šialenstvo osudu.
+
+Zuriana ešte nič nepolámalo tak, ako táto noc. V posteli však predsa
+nevydržal. -- Chcem vidieť svoju ženu, chcem ju vidieť za každú cenu.
+
+Neradím ti, Karol, dnes ešte nie. Musíš sa rozptýliť a zaujímaj sa o vec
+až zajtra, pozajtra.
+
+Dopoludnia zostali doma a odpoludnia si zašli na fakultu na prednášky.
+Neodolateľným pudom hnané viedly kroky oboch k budove súdnej pitvy.
+Prednáška má byť od dvoch do tretej. Zurianovi pri vchode nohy
+vypovedaly službu. Triasol sa na celom tele. Eugenko, tu musí byť,
+cítim, že tu bude, choď ty ta hore a pozri sa, ja ťa tu počkám. Eugen
+vybehol na poschodie a za már minút sa vrátil. Bol v rozpakoch. --
+Neviem, Karol, leží tam niekoľko ľudí i mladých žien. Musíš sa podívať
+sám, ja nerozoznam, ktorá to bude. Opanuj sa, Karol, ak ju chceš
+naposledy vidieť. Buď v tejto chvíli len lekárom, ktorý sa mŕtvol
+nebojí.
+
+# STARÝ KAT
+
+Vyšli na poschodie a odovzdali sluhovi legitimácie. Do tohoto ústavu bol
+vstup pre nemedikov prísne zakázaný. Chodili ta ešte iba právnici, pre
+ktorých sa súdna pitva prednášala osobitne. Hrdinskí mladí učeníci
+lekárskej vedy však neraz ta viedli aj laikov, najmä svoje dámy, ktorým
+chceli zaimponovať a tak neraz sa tam prihodily ohavné scény. Dámička,
+nevediac zniesť pohľad na pártýždňovú rozkladajúcu sa mŕtvolu
+utopencovu, aká bola dlhá, tak sa pretiahla na podlahe. Laici tam s
+obľubou omdlievali, ba neraz sa im aj žalúdky nešľachetne obracaly. A
+tak profesor, tento Starý Kat, ako ho medici nazývali, zaviedol iný
+poriadok a každého nechal prísne kontrolovať.
+
+Zurian s divným pocitom počúval prednášky tohoto starého muža. -- Ten
+dostal päť rokov, no ten mal šťastie z pekla, ten nám unikol, oslobodili
+ho. Tomu som mohol uštedriť aj povraz, no, vyliezol z toho s desiatimi
+rokmi. Čože ten? V doživotnom žalári bude mať času skorigovať si svoje
+chybné názory o rozdiele medzi vraždou a samovraždou. Komu to chce
+takúto hlúposť nabaláchať. No, dostal, čo si hľadal.
+
+Päť rokov, desať rokov, doživotný žalár, povraz plynulý z úst tohoto
+chlapa neustále. Nič nebolo. Nebol svet, ani chaos, nad ktorým lieta
+duch Pána, ani svetlo, ani tma. Boly len mŕtvoly, ktoré on pitval a
+živí, ktorých privádzal do žalára a na šibenicu. Zlý pohľad mal tento
+starý muž. Každý mu bol podozrivý, kto žil a čo nežilo, predmety, ho
+zaujímaly len natoľko, či sú spôsobilé k vražde, či nie. Nikdy ten slova
+ospravedlnenia pre nikoho nemal, iba ak toľko, koľko zákon mu násilím
+vnucoval a pohoršoval sa najväčšmi, keď niektorý nešťastník unikol
+povrazu, čo mu on svojím posudkom pred sudcom prichystal, či keď dostal
+o pol roka menej žalára, než to on vypočítal.
+
+Na prednáškach Starého Kata vrah scvrkol sa na malého, úbohého,
+nešťastného potkana, ktorý v návale citov trhol kohútikom revolvera o
+pol centimetra. Tento malicherný pohyb mal, ako dôsledok, zabitie
+človeka. Teraz ho chytili, brúsia si na neho zuby. Celá armáda
+detektívov si sháňa dôkazy, päť dobre živených sudcov si shrňuje
+materiál, celá cvičená garda lapajov sťahuje mu slučku okolo krku.
+Nešťastníkovi, ktorý by dal všetko, keby nebol trhol kohútikom
+revolvera, keby ho pustili von. Slúžil by, drevo by rúbal celý život,
+keby mu len vrátili slobodu. Jeho utýraný mozog pracuje horúčkovo,
+zúfale hľadá škáru, kade von z toho, ale nejde, nejde. To trhnutie sa
+stalo, to sa nedá odčiniť a naivné zúfalé výhovorky stretnú sa s
+cynizmom dobre vyspinkaných, naraňajkovaných pánov sudcov, ktorých kožka
+je v bezpečí a ktorí preto smelo si môžu dovoliť útočiť na lapeného
+potkaníka v pasci. Paraziti Justície a zpravodajstva, advokáti a
+redaktori starajú sa, sú na pozore, aby vyťažili, vycucali „z tohoto
+senzačného prípadu", čo sa len dá.
+
+Štátny zástupca chrlí oheň a síru. Obviňuje, mračí sa, vlasy si trhá v
+úradnej horlivosti, je stelesneným symbolom urazenej bohyne Justície,
+ktorá sa nemohla väčšmi rozpajediť, ani keď našla švába v ambrozii na
+olympijskej hostine. Ten úradníček za tri mesiace má postúpiť do vyššej
+hodnostnej triedy, musí tedy „niečo dokázať".
+
+Žiada spravodlivosť, právo a poriadok pre štát, ani pre vlastného syna
+by ich horlivej šie žiadať nemohol. Vyzýva porotu k prísnosti, dobrí
+údenári, zachovalí šustri, poctiví klobučníci, vžite sa do prípadu,
+pochopte jeho psychológiu, buďte prísni a súďte.
+
+Obhajcovia ich zasa zmäkčujú, dojímajú, pohýnajú k slzám.
+
+Redaktori pilne si značia. Čo, ten zlotrilec podľa udania domovnice vraj
+už pred troma rokmi raz zaviedol si dievku v noci do bytu? Úžasné!
+Udržoval hriešny pomer s trafikantkou? Neslýchané. A ten človek ešte
+žije, ešte ho neobesili? Aj tu sa hlási spanilá dievčina „bývalá
+baletka", že jej obvinený dvoril a len vďaka jej opatrnosti, že ju
+nesviedol s cesty poctivosti. Hách, to bude niečo pre obecenstvo.
+
+Všetci tí úradníci mľaskajú od rozkoše, všetci tí pripravujú si kariéru,
+robia svoj obchod, budú peniažky, bude chlebíček, mäso, omáčka a to
+všetko z mŕtvoly tohoto umačganého, úbohého darebáka, toho lapeného
+potkaníka v pasci.
+
+Justícia sa mračí, zúri, prská, breše hubou, posunkami, hnevom i slzami
+týchto komediantov, -- zatiaľ v úzadí i v budúcnosti, príšerné vojny,
+vraždy massové, za ktoré sa nerozdávaly povraz a žalár, ale medály.
+
+Takto si zarábajú chlebíček títo ľudia, títo remeselníci Justície. Takto
+si zarábajú z úbohého umačganého života tohoto nešťastného darebáka.
+
+Potom ho okázale obesia. Pred zrakom celej zhovädilej verejnosti, ktorá
+so sadistickou rozkošou sa díva, alebo hlce noviny: -- Ako škubal sebou,
+ako zmodral v tvári, ako mu visel jazyk, ako sa doň zavesili katovi
+holomci, ako ustálil lekár okamženie smrti a ako sa dojímavé pomodlila
+celá znamenitá spoločnosť, aparát spravodlivosti za spásu jeho duše.
+Uchvatné okamženie.
+
+Od toho krajšie už len to mohlo byť, ako sa vyhnul Napoleonov generálny
+štáb, cválajúci cez hromady mŕtvol, zranenému vrabčíkovi, ktorý sa v
+prachu hradskej bezvládne trepotal.
+
+Túha Starého Kata, ako privádzal obviňovaných na šibenicu, jeho radosť
+nad „spechom", keď sa mu podarilo niekomu pritiahnuť ešte pár rokov --
+vyvolaly v poslucháčstve práve opačný účinok, než on očakával. Zurian
+mal možnosť shovárať sa s kolegami a mohol zbadať, že sa nik netešil
+„úspechom" Starého. Mnohí ho nazývali krvavým psom. Odsúdenca ľutovali.
+-- Ty úbohý, zablúdilý brat náš, ty nešťastný človek, nie vešať ťa za
+ten poklesok, ale dať ti najesť, aby si netrpel hladom, vložiť ťa do
+ľudských pomerov, liečiť ťa v ústavoch, vychovávať, dať ti možnosť
+nápravy -- a nie zhovädile sa škeriť a trieť si ruky, ako to robí ten
+tam, lebo sa mu podarilo premeniť tvoj doživotný žalár na šibenicu.
+
+Nie, poslucháči sa nenadchli, nesdieľali „ideály" Starého, ale
+znechucovali sa a odpľúvali. Väčšina myslela na to, že bieda a bolesť je
+naším spoločným údelom, Kristus na kríži, to sme my všetcia, dnes ja,
+zajtra ty. Na tom niet sa čo radovať, triumfovať, súdiť, lebo je v
+živote sto ráz súdený každý. Tu treba milosrdnej, všetko pochopujúcej a
+odpúšťajúcej lásky, liečiť a napravovať a nie bezcitnej, cynickej
+krutosti, hanebných komédií, hlúpeho divadla súdnych siení.
+
+Poslucháči mávali z prednášky Starého Kata o veľa drtivejší dojem, než z
+najzohavenejšej mŕtvoly.
+
+Eugen a Karol došli ku dverám pitevne. Dvere boly zavreté. -- Akože, veď
+som tu bol pred chvíľou a teraz už tu zavreli? Musíme ísť, Karolko,
+druhým vchodom, cez posluchárňu.
+
+Eugen chvíľku uvažoval a podíval sa na hodinky. -- Práve dve hodiny.
+Teraz má mať Starý prednášku. Bolo by zle, lebo by to znamenalo, že
+musíme počkať, kým neskončí. Skôr by sme sa do pitevne nedostali.
+
+A bolo to tak. Posluchárňa bola už plná a Starý už prednášal. Stával
+práve pred čiernou tabulou, vedľa dverí, čo viedly do pitevne. Nebolo
+možné prejsť a Karlovi s Eugenkom nezostalo nič iného, než počkať koniec
+prednášky.
+
+Tá však trvala pekelne dlho. Zurianovi chvíľami zdalo sa, že už to ďalej
+nevydrží. Musí vyskočiť, odsotiť Starého Kata a presvedčiť sa, urobiť
+koniec tej mučivej neistote. Jeho utýraný zrak mechanicky blúdil po
+stenách siene, počítal okenné tabule, lavice od predu do zadu i obrátene
+a mozaiku parketovej dlážky. Potom, keď zbadal, že jeho nepokojný, roz
+rušený pohľad začína byť nápadným, naklonil si hlavu do dlaní a snažil
+sa odpútať svoju pozornosť od sveta, aby zabudol na olovenú bezmocnosť
+kolesa času.
+
+Do uší mu udrel hlas, ktorý dosiaľ ani nepočul. Hlas prednášajúceho.
+Zadrapil sa do neho s celou pozornosťou, ako topiaci sa do záchranného
+povrazu, ktorý ho vytiahne z mora mučivej netrpelivosti, ktoré ho už --
+už pohltilo.
+
+Pozrel sa k tabuli. Starý kat tam stál, celkom vyjavený. Nadšene
+deklamoval; jeho malé, pichľavé, chytré očká veselo žmurkaly, prstom
+varovne kýval na poslucháčov, potom si ho oprel o čelo.
+
+-- Musíte byť chytrí a veľmi, veľmi pozorní! Musíte si obzrieť ohromne
+pozorne a všímať si každej maličkosti. Každá zdanlivá malichernosť môže
+mať obrovský význam. Medzi prvými povšimnite si krčku plodu.
+Matka-sedliačka vám tvrdí, že vtedy odpoludnia na poli bola úplne
+opustená, pri pôrode jej nik nepomáhal, musela si pomôcť sama. S plačom
+vám dosvedčuje, že pritom zúfalom, kŕčovitom namáhaní chcela plod za
+hlavu vyprostiť a len neskoršie, keď sa jej jasné vedomie vrátilo,
+zbadala, že plod svoj uškrtila. --? Pánovia, to môže byť rozprávka! Tomu
+veriť nemusíte. Môže to byť pravda a nemusí byť. Tu sa musíte
+presvedčiť, či si svoje dieťa neuškrtila úmyselne. Preto všímate si na
+krčku plodu stopy nechtov. Ak chcela, ako tvrdí, naozaj urýchliť
+mechanizmus pôrodu, róba to oboma rukami a tu stopy nechtov nájdete na
+oboch stranách krčku, a síce okrúhle hrany nechtov sú tu obrátené dolu.
+Pri tej nesmyselnej, kŕčovitej námahe mohla svoj plod nevoľky uškrtiť.
+-- Co nájdete však, ak ho škrtia úmyselne? Škrtí sa, pánovia, jednou
+rukou a to pravou, tedy stopy nechtov nájdete tu iba na jednej strane
+krku a tomu ešte okruhlosť končekov nechtových smeruje tu nie dolu, ale
+do vodorovnej čiary, ako si to ľahko predstavíte, keď valcovitý, mäkký
+predmet prstami pravej ruky si oblapíte. -- Tieto znaky môžu vám výborne
+poslúžiť, len nesmú ujsť vašej pozornosti.
+
+Starý Kat bol vo svojom živle. Hovoril ďalej o predčasne pretrhnutej
+pupečnej šnôre, s ktorej plod vykrvácal. Pretrhla si ju matka úmyselne,
+či stalo sa tak náhodným pádom plodu na zem, keďže matka pri pôrodu
+nijakej pomoci nemala. -- Tu si všimnite, či je pretrhnutá blízko pupku
+plodu. Ak je tomu tak, to môže mať žena pravdu, ale ak je ten pretrhnutý
+koniec ďalej od pupku, to už je náramne podozrivé, bo viete, že šnôra
+pupečná je klzká a matka pri úmyselnom roztrhnutí musela si ju pár raz
+okolo ruky okrútiť.
+
+Tedy len pozor, pánovia, na všetko pozor dávať!
+
+Najmä, ak vás volajú k nemocnej, ktorá nebezpečne krváca a po vyšetrení
+vysvitne, že bol na nej vykonaný zákrok zakázaný, vo smysle paragrofu
+144.
+
+Vypátrajte všetky okolnosti tohoto zločinu, bo musíte prípad udať. Ide o
+odohnanie plodu a preto napíšte si všetci formulár udania.
+
+Starý Kat diktoval a všetci medici písali:
+
+Z nálezu vyplýva potrat. Chybujú dôkazy, žeby bol býval samovoľný. Z
+doznania obvinenej vyplýva, že ide o umelé prerušenie tehotenstva.
+
+Nadiktoval im asi desať bodov, ktoré všetky nad slnce jasnejšie dokážu,
+že ide o trestuhodný zločin.
+
+Jeho odkrytie a správne udanie, pánovia, závisí vždy od vás, od vašej
+šikovnosti a ostrozrakosti.
+
+Sotva tie slová dopovedal, nastala neslýchaná vec. V zadnej lavici
+zaznel ukrutný psí brechot.
+
+Hau, hau, hau, hrrr... haf, haf.
+
+Tiahle psie vytie, kýmsi majstrovsky napodobené.
+
+Dychy sa zastavily, ústa sa otvorily, nechápavé sa pozeral každý do
+zadu.
+
+-- Co to, čo to? -- vydrala sa otázka zo Starého.
+
+V zadnej lavici ktosi vstal. Starší, ošúchaný, bledý chlap. Nikto ho
+nikdy na fakulte nevidel. Sedel neďaleko Zuriana, ktorý s vytreštenýrrii
+očami sa díval na neho. Šialenec, prebehlo mu mysľou.
+
+Cudzincovi líca vzplanuly. Prehovoril:
+
+Ja som to, ja, ostrozraký, šikovný, bystrouchý, čuchavý, pátravý
+poslucháč. Hľadám, vrčím, obzerám sa, hafkám, hrabem a stopujem vo
+smysle vašej znamenitej prednášky a teraz, prepáčte, city vo mne
+prekypovaly. Hrrrr... haf, haf, haf...
+
+Ináče sotva čakám už, aby som sa stal niekde, na vidieku lekárom. Och,
+to budú časy! Zájdem si do četníkov a do vrecák si napchám všetky možné
+formuláre udania. Pátravým zrakom premeriam ulice, vbehnem do každého
+domu, prehrabem od povaly po pivnicu všetko. Pozrem sa do hrncov, za
+kasne a pod periny. Občas si vytiahnem pár formulárov a napíšem udanie.
+Nebudem ja detektívom, lebo tí sú len ľudia a môžu mať chvíľky slabosti,
+keď nad prestupkom, spáchaným v biede, zažmúria oči. Nie, ja budem
+policajným psom, ktorému je všetko jedno, ktorý nezná milosrdenstva a
+podľa čuchu vypátra aj svoju vlastnú mater, čoby ju tým hneď aj na
+šibenicu priviedol.
+
+Akoby aj nie? Veď budem obvodným lekárom, bude to mojou povinnosťou.
+Dostanem na mesiac tisíc korún a zato predám súdu vlastnú starú mať,
+keby mala úmysel previniť sa proti paragrafu 144. Krvácaš, nekrvácaš, si
+polomŕtva? Najprv si sadnem na okraj postele, zistím si okolnosti
+zločinu, napíšem udanie, potom môže byť reč o lekárskej pomoci. K vôli
+istote sa však ešte pozriem do všetkých kútov izby, či tam nenájdem
+nejakú tú staršiu pupečnú šnôru, odtrhnutú od pupku nie päť, ale
+päťadvadsať centimetrov ďaleko, lebo tá je tiež nadmieru podozrivá a
+dáva mi možnosť zasa nového udania.
+
+Rvúca bieda na celej zemi. Stotisíce nezamestnaných v každom štáte.
+Vojny, kde povraždili milióny zdravých, dospelých, nevinných ľudí.
+Periférie miest, nalezince a dediny sa hemžia zbytočným, úbohým ľudským
+materiálom, ktorý prišiel na svet nevolane, či náhodou a ktorý je
+odsúdený, ak nie na smrť hladom, tedy na biedne živorenie. Však nič to!
+Ja sa zato rozbehnem za hnilým, odhodeným, trojmesačným embryom na
+smetišti dediny, zalarmujem četníkov, napíšem štrnásť formulárov presne
+podľa vášho návodu, udám, ohlásim na všetky strany a neuspokojím sa, kým
+zločinnú matku nevypátrali a neobesili.
+
+Pravda, ak príde bohatá, diskrétna pani, ktorá mi zaplatí pár tisíc
+korún, no tedy tú maličkosť -- podľa vzoru toľkých kolegov, lekárov --
+odbavíme, nech už je v mesiaci hociktorom. Pekne, ticho, diskrétne a
+čiste. Nebude krvácať, ako ta biedna robotníčka, ktorá sa obrátila za
+sto korún na babu, nebude infikovaná. No, spraví sa to. Za dva týždne
+môže začať znova.
+
+Cudzinec to všetko vychrlil zo seba na jeden dych. Na konci vzal si
+klobúk a prv, než by mu bol mohol hociktorý z omráčených poslucháčov
+cestu zastať, zmizol vo dverách. Nik ho už nikdy na fakulte nevidel.
+
+Bolo trápne ticho, potom sa každý vzrušene spytoval. Pravda, darmo.
+
+Profesor prerušil prednášku. Medici hrnuli sa von, dvere pitevne sa
+otvorily a Zurian s Eugenom vstúpili.
+
+Bola tam mŕtvola bez hlavy. No, to bol chlap. Potom druhá s hlavou
+rozbitou na nepoznanie. To bola stará baba. Bolo tam šesťmesačné,
+zahodené embryo, šedivý starec so strelnou ranou v srdci a mladá žena,
+otrávená svietiplynom. Medúza však tam nebola.
+
+Mohla by byť ešte dnes doma, keď prefekt policajný príbuzným z
+mimoriadnych príčin dovolil ponechať si ju doma.
+
+Hej, večer sa tam podívam.
+
+Nad mestom sa šírila tma, keď sa Zurian prikrádal do ulice, kde bývala
+Medúza. Srdce mu búšilo besne, klobúk zatiahol si hlboko do očú, aby ho
+nik nepoznal. Blíži sa roh ulice, ešte pár krokov a vynorí sa známy dom.
+Pred ním hŕba zvedavcov, rozčúlení obyvatelia i susedia, hromada detí,
+ktorým sa nezunuje čumieť na senzáciu celý deň, policajti, komisie,
+čierny automobil s bielym krížom.
+
+Za rohom vynoril sa dom. Zurianov dych sa zastavil.
+
+Nebolo tam nič.
+
+Pred domom -- nestál nik. Nik si brány nevšímal. -- Tak už by bola
+predsa len preč?
+
+Zuriana uchvátila mučivá tuha poznať pravdu. Zvedieť, čo a ako. Nech sa
+stane čokoľvek.
+
+S divou odhodlanosťou vkročil. Bez rozmýšľania vybehol na poschodie a
+zazvonil na dverách.
+
+Nič.
+
+Zazvonil ešte raz.
+
+Tiché kroky a dvere sa otvorily.
+
+Vstúpil, ale nevidel nikoho. Popošiel ďalej. Nikde nič.
+
+Zpoza dverí naraz zaznej e známy hlas: Karolko, načo ste prišli, čo tu
+chcete?
+
+Obrátil sa, ako uštipnutý hadom. Zpoza dverí vystúpila Medúza. -- Áno,
+ja samá som vám teíegrafovala, lebo som dúfala, že vás navždy odstraším
+a že sem už viacej neprídete.
+
+Zurian stál a díval sa. Stál tam a nemohol prehovoriť.
+
+Medúza sa usmiala. -- No, čo je, Karolko, hovorte niečo.
+
+Tu sa uz ďalej neopanoval. Vrhol sa na diván a celá horkosť, zúfalstvo a
+sklamanie, v ňom nahromadené, vybuchly v neutíšiteľnom, kŕčovitom
+vzlyku.
+
+-- Medúza, Medúza, čo ste to so mnou spravili?
+
+Ohavný je chlap, ktorý vzlyká. Smiešna, slabošská figúra. Zurian bol
+smiešny a slabý.
+
+Toto bol najohavnejší kúsok Medúzin. Neodpustiteľne mrzký, nepríčetný,
+akého bol schopný len tento divý, podivínsky tvor, Medúza.
+
+Tak sa stávala jej rozháraná, divná duša každodennou mučivou a predsa
+sladkou, vytúženou nevyhnuteľnosťou Zurianovho života.
+
+Tu v letenskej nemocnici bol úplne sám. Eugen kdesi ďaleko na vidieku.
+Len tu i tam píše pár riadkov. Medzi toľkou zášťou v nemocnici, so
+zarmútenou dušou uchyľoval sa Zurian deň čo deň k jedinému tvoru, ktorý
+ho miloval, podivínsky, čudácky, ale tým vábivejšie pre Zuriana, k
+Medúze.
+
+# VYVRHEĽ
+
+Sotva býval Zurian v letenskej nemocnici pár týždňov, už ho stihla
+pohroma. Už sa stal strediskom pozornosti a morovou ranou nemocnice. A
+to v spojení s tou osobou, ktorej sa tu najviac bál.
+
+Je chladná, jarná noc, bez mesiaca, iba hviezdy blikajú. Zurian vracia
+sa z mesta od Medúzy. Spokojne si premýšľa.
+
+-- Načo sa trepať cez bránu, búriť portiera, keď jeho oblok je na
+prízemí; nechal si ho otvorený. Je oveľa interesantnejšie dostať sa v
+noci domov cez oblok, než cez bránu, to iste uzná každý.
+
+ZURIAN: Len treba obísť pravé krídlo budovy a už som tam. Áno, nemýlim
+sa, je to štvrtý oblok od kraja, ako som si to poznamenal. Tedy len skok
+a za päť minút, dobrú noc, izbička moja, zaspím spánkom spravodlivých.
+Aha, tu pod tým oknom mám uložený diván, poďme k druhému oknu. *Prejde k
+druhému oknu a poriadnym rozmáchnutim sa skočí cez diván, na ktorom v
+nočnom župane leží slečna dr. Vokurková. Ohromný vresk. Vokurková sa
+vzpriami.*
+
+VOKURKOVÁ: Ježiš, Mária, pomoc, kto je to, čo chce? *Vyskočí a chytro
+rozsvieti elektrickú lampu. Zurian mrmle čosi a chce sa vyškriabal zpäť
+cez oblok, ale Vokurková ho chytá za kabát.* Oho, pane, ja vám dám, v
+noci obťažovať poriadne dámy. Poďte len sem ku svetlu a predstavte sa,
+však ja vám dám nočné vychádzky robiť.
+
+ZURIAN *skryje si tvár a zdrtene klesne na diván.* -- Slečna doktorka,
+prepáčte, na svoju hriešnu dušu vám hovorím, že som nemal v úmysle...
+
+VOKURKOVÁ *s radostným prekvapením*: Ach, to ste vy, pán kolega, no ste
+naozaj pekným vtáčkom! No, dívajme sa len na neho.
+
+ZURIAN *zúfale:* Slečna, pre Boha vás prosím, tichšie trochu, keby
+niekto to počul, bolo by strašné, a prosím vás opätovne, prepáčte mi, že
+som k vám skočil; uisťujem vás, že som sa...
+
+VOKURKOVÁ *pristúpi k nemu*: V akých rozpakoch je, ako sa namáha, aby
+svoju vinu ospravedlnil. Márne sa namáhate, všetko je daromné.
+
+ZURIAN: Slečna, prosím vás...!
+
+VOKURKOVÁ: Neproste nič, nič vám nedám, márne je vaše orodovanie! Vy
+neznáte doktor Vokurkovu! Mýlili ste sa, ak ste si myslili, že u mňa
+násilím niečo dosiahnete. Ja som nie, ako tie ostatné doktorky.
+*Pristúpi k nemu celkom blízko, hlavu mu vezme do dlaní a podvihne ju*.
+Ej, vy naničhodný malý, vy zlý beťárik, vy lump vylumpovaný, vy don
+Juanik prefíkaný, vy si myslíte, že to len tak ide s Vokurkovou? V noci
+vliezť do jej izby? A to vy aj pri druhých tak robievate, vy dobrý
+vtáčik! A či to nemá iný spôsob? Či sa to nedá aj ináčc vybaviť, čo?
+Hovorte, vy rafinovaný dobrodruh! Hovorte! Co ste chceli odo mňa?
+
+ZURIAN: Slečna, prosím vás, prosím vás, nie tak hlasno a verte mi, že...
+
+VOKURKOVÁ: Aha, aha, v akých je rozpakoch! Vy odvážlivý nočný motýľ!
+Vletíte slepo do žiariaceho plameňa, potom sa popálite a len trepete sa
+bezmocne, slova nenachádzate svoje city a myšlienky vyjadriť. No,
+upokojte sa, nebudem už tak hlasno hovoriť. Už vás nebudem strašiť.
+Vidím, že ste v hrozných rozpakoch. No, hovorte len pekne, pokojne, ja
+vám ešte pomôžem, lebo vidím, že ste ešte nesmelý.
+
+ZURIAN: Slečna, prepáčte, ale ja som obeťou nešťastného...
+
+VOKURKOVÁ: Hej, viem, nešťastného svojho mladistvého, nerozmysleného
+roztúženia. Tá krásna jarná noc vám spať nedá. V srdci vašom prebúdzajú
+sa tuhy, nepokojne sa prevaľujete na svojej mládeneckej posteli a celú
+noc strávite v trápneblaženom snení; o kom, no, o kom, no, hovorte! Vy
+zbabelý rytier, o kom?
+
+ZURIAN: Bože, to je strašné, to je strašné!
+
+VOKURKOVÁ: Ani nie také strašné, ako si myslíte. Hej, nesmelý ste, to je
+svätá pravda. Ja som to na vás už dávno zbadala. Zachytila som nejeden
+nesmelý vás pohľad. Bol však plný citu a ľutovala som vás, že ste taký
+zbabelý a veru ani si nezaslúžite toho, ale poviem vám predsa, že želala
+som vám v duchu, aby ste sa osmelili, aby ten veľký cit, ktorý vám srdce
+vyplňuje a ktorému neviete dať výraz, vás predsa len osmelil a priviedol
+ku mne. Tak, čo na to poviete, vy zlý zlodej naničhodný? *Sadne si k
+nemu*. Tak pekne nakloňte si hlavu ku mne a hovorte. Nič sa nebojte,
+sľubujem vám, že budem blahovoľná a môžete mať u mňa nádej. Počkajte!
+*Vstane a zhasne svetlo; polotma*. Tak, môžete sa prichýliť ku mne a
+hovorte.
+
+ZURIAN: Slečna, pre Boha, smilujte sa nado mnou, som v úžasnej situácii,
+ťažko mi vysvetliť, lebo nechcem vás nijako uraziť a potom len moja
+nešikovnosť celú vec zavinila...
+
+VOKURKOVÁ: Dosť už toho úbohého krákorenia. Poďte sem, vy zbabelec
+mizerný, ja vás naučím lásku vyznávať, lebo vy by ste si do súdneho dňa
+nevedeli rady. *Objíma ho a ťahá k sebe*.
+
+ZURIAN: Slečna, smilovanie, nechcite na mne, aby som...
+
+VOKURKOVÄ: Ani slova ďalej, bozkajte ma! Sem, na ústa!
+
+ZURIAN: Slečna, nechajte ma, ja som statočný chlapec, ja som ešte
+nikdy...
+
+VOKURKOVÄ: Ech, tak aspoň teraz sa naučíte. Co ma po vašej statočnosti,
+budete mojím, ja vám dokážem, že... *divo sa vrhá na neho*.
+
+ZURIAN *po zúfalom zápase vytrhne sa z jej objatia, priskočí k elektrike
+a rozsvieti, vlasy rozcuchané atd., je hrozný*: Budem kričať o pomoc, ak
+mi nedáte pokoj. Čo si vlastne o mne myslíte? Ja som sa sem dostal
+omylom, to je moja celá vina!
+
+VOKURKOVÄ *skoro bez seba*: Ja ti dám omylu, ty zbabelec. *Skočí za ním.
+Zurian sa uhne, chce vybehnúť, otvorí dvere, ale hneď uskočí nazpät.*
+
+ZURIAN: Pst, ani sa nehnite, sme stratení!
+
+VOKURKOVÄ: Čo je?
+
+ZURIAN *nervózne prejde pár ráz izbu sem-tam, potom chytá sa za hlavu a
+s najväčším zúfalstvom klesne na stolec*: Slečna doktorka, je zle.
+
+VOKURKOVÄ *vyskočí:* Čože je, človeče, hovorte, čo je tam vonku? *Chce
+otvoriť dvere, ale Zurian chytí jej ruku.*
+
+ZURIAN: Zostaňte, pre Boha. Tam sedí sedemhlavý drak, či niečo ešte
+horšieho. Tam na chodbe naproti na lavičke sedí portierova žena, úžasná
+babizňa. *Prežehná sa*. Skoro jej oči vyskočily, keď ma zazrela, tak sa
+dívala na mňa. Teraz si len predstavte, čo bude z toho. Pán doktor
+Zurian vychádza o polnoci z izby slečny doktor Vokurkovej.
+
+VOKURKOVÄ: Človeče, vy ste ma zničili. Som kompromitovaná na celý život.
+Zajtra sa dozvie celá nemocnica, že som vašou milenkou. Oh, to je
+strašné, to je strašné! *Omdlievajúc vrhne sa mu okolo krku.*
+
+ZURIAN *vymaní sa*: Možno však predsa...
+
+VOKURKOVÄ: Mlčte, človeče, ja som zničená! Boh vás za to trestaj, že ste
+mi zničili dobrú povesť. Oh, Bože, ľudia zajtra prstom budú na mňa
+ukazovať. Oh, už je tam moja česť. *Kŕčovite plače.*
+
+ZURIAN *ironicky*. Vaša česť. *Položí hlavu do dlaní, trápne, dlhé
+ticho*. *Vyskočí.* Slečna, tu treba rýchle niečo robiť. Vaša česť musí
+byť zachránená. Musí byť zachránená za každú cenu. Tú nešťastnú vec
+zapríčinila moja nešikovnosť, je tedy mojou povinnosťou, aby som našiel
+východisko.
+
+VOKURKOVÄ: Čo chcete urobiť, čo sa tu dá spraviť?
+
+ZURIAN: Ja teraz vyleziem oknom, obídem okolo, zazvoním na bráne a
+portierke zahrám túto komédiu. Povedzme, že vy ste ona. *Začína čosi
+pískať a opitými krokmi blíži sa k Vokurkovej*. Dobrý večer, pani
+portierová. Prepáčia mi, prosím ich, mrzko sa mi chodí. Vypil som
+trochu, čo by som si, reku, nevypil, keď sa mi piť chce a vedia, pani
+portierka, čo by som im nepovedal, ako tuná idem, popri obloku tejto
+slečny doktorky Vokurkovej, reku, čo, keby som ju tak navštívil. I
+vliezol som k nej, ale dala mi pár takých zaúch, že mi oči zaiskrily a
+vyhodila ma, zkadiaľ som prišiel, cez oblok. Čert by veril, že by takéto
+dievčatisko s človekom tak mrzko nakladalo. -- No tak, slečna doktorka,
+potom ju zavolajte a žalujte sa jej, nadávajte na mňa, že som hrubým
+násilníkom, a ledva ste ma vedeli vyhodiť...
+
+VOKURKOVÁ: Nie, to je strašne ordinárne. Hrozne sa blamujete. Nie,
+radšej nič.
+
+ZURIAN: Niet času na debatu, hlavná vec, aby sme to dobre sohrali, aby
+tomu uverila a *výrazne* -- aby vaša česť bola zachránená. Dobrú noc,
+slečna doktor! *Zmizne oblokom*.
+
+Na a zahrali to. A ako dokonale. Hlúpa portierka tomu uverila. Zurian,
+zvrhlík, v noci vliezol k Vokurkovej, chcel ju znásilniť a len
+neslýchanej energii tejto etnostnej bytnosti možno ďakovať, že ho
+poriadne vyzauškovala a vyhodila, zkadiaľ prišiel.
+
+Ona žiarila čistotou, Zurian sa topil v neresti. Druhý deň ráno už
+zbadal účinok. Po dvore, po záhrade, po chodbách zastavovaly sa skupinky
+sestár a ošetrovateliek, živo rokovaly, prstom ukazovaly na neho,
+temperamentnejšie odpľúvaly a počul i nejednu nenávistnú poznámku.
+
+Keby bol mal rozum, ešte ten deň by sa bol pobral odtiaľ preč. Človek je
+však ťažko pohyblivý, slabý, konzervatívny tvor. Shánka o prijatie,
+obava pred budúcnosťou, ak svoje miesto stratí, ho postrašily. Bál sa
+odísť, čo si počať v tej trme-vrme vonku? Tu je už ako-tak uhniezdený.
+Potom svedomie má pokojné. Mrzká náhoda ho síce umazala, ale nijaký
+zázrak netrvá na veky. Za pár dní zabudnú nato a bude všetko dobre. Bude
+pracovať a neobzrie sa ani naľavo, ani napravo.
+
+Pri obede v jedálni sišla sa celá spoločnosť. Boli všetci ako
+elektrizovaní. V očiach svietila im radosť nad vítanou senzáciou.
+
+Zurian sedel s ľahostajnou tvárou a počúval.
+
+Začal to Dunčo: -- Hm, mladá krv, bujná krv.
+
+Ružena Nemcova, vyschla, nechutná, potmehúdska, mrzká baba sa
+zachichotala: -- Na ja, na ja, hi-hi-hi.
+
+-- Ale počúvajte, -- obrátil sa na Zuriana naraz Jašo, tento zo všetkých
+najobmedzenejší, -- to ste boli tak veľmi opitý?
+
+Zurian podíval sa na neho bez slova.
+
+-- Hej, hej, -- prisviedčal Pufi, -- hocijako by som sa opil, Vokurková
+by ma vždy len odpudzovala. Veď je tá baba hotové anafrodiziakum.
+
+Zurian pokrčil plecom a mlčal ďalej.
+
+A nebolo múdre od neho mlčať, lebo ich fantázia zimnične pracovala. K
+večeru prišly mu do uší už také verzie, že mu vlasy vstávaly. Podrobne
+vedeli už, ako perverzne Vokurkovú napadol, čo všetko od nej chcel a ako
+ho musela od nej portierka odtrhnúť.
+
+Dokonca už pár dní predtým, vlastne od začiatku ju svojimi ľúbostnými
+návrhmi obťažoval.
+
+Večer ho zavolal k sebe Starý Pán. Usmieval sa.
+
+-- Fuj, aké vy máte gusto, -- škľabil sa, -- veď je tá baba, ako
+ropucha. I ja som bol mladý, ale na takúto obludu som nikdy ani
+nepozrel.
+
+-- Za svoju dôvernicu však ju prijímaš i teraz, -- kmitlo Zurianovi
+hlavou. -- Donáša ti, špehuje, udáva, na to ti nie je dosť veľkou
+ropuchou.
+
+No, slabý tvor je človek. Zurian mlčal zasa, veď ani nemal čo povedať.
+
+Či vlastne predsa?
+
+A čo, keby bol tam hneď pri prvom obede vstal a obrátiac sa k veľactenej
+spoločnosti, povedal nenúteným hlasom, veselo, ležérnym gestom, milo a
+bezprostredne toto:
+
+Veľavážená kanibalská spoločnosť!
+
+Milí domorodci!
+
+Prišiel som medzi vás, do čiernej Afriky, ja, člen britskej geografickej
+spoločnosti, ja, chlúba a hrdosť svojho národa, medzi vás, aby som tu
+študoval, skúsil a skúmal. Moji ma varovali. Vraveli mi, že vy,
+obyvatelia pralesov, čierni domorodci, ste nebezpeční. Kultúra sem
+nevnikla, najviac v podobe cylindra, čo nosí váš náčelník, čo zožral
+misionára. No, nedal som sa odstrašiť, veril som svojmu šťastiu, dušu mi
+hrial plameň vedychtivosti. Zajali ste ma, som vo vašej moci a viem, že
+ma čaká osud všetkých belochov, čo sa sem predomnou zatárali. Vidím vo
+vašich očiach tuhu, ako ma opačujete, ohmatávate, či som dobrý, tučný,
+či budem pre vás chutnou pečienkou. Brúsite si na mňa nože i zuby --
+chcete ma zožrať.
+
+A verte mi, milí kanibali, nerád sa stanem vašou pečienkou. Je mi
+úprimne ľúto samého seba. Toľko som mal plánov, toľko práce ma čaká
+doma, tak mám rád tých svojich, čo ma čakajú, tak túžim po nich.
+
+Rád by som vám vysvetlil niečo -- čomu však vy akiste ťažko budete
+rozumieť, lebo pre vás predovšetkým je dôležitá roštenka z belocha.
+Čam-čam, ňam-ňam, vidím, ako vám tečie slina, ako si hladíte bruchá, ako
+si ma vychvaľujete v nádeji chutnej hostiny.
+
+A rád by vás poprosil: nezožerte ma, moji milí. Pusťte ma svojou cestou,
+nech študírujem ďalej, nech odnesiem odtiaľto niečo pekného a
+užitočného. I keď ste kanibali, mám vás rád. Ste zaujímaví, ako takí,
+mám pre vás porozumenie. Hociktorý by prišiel ku mne, obdaril by som ho
+peknými sklenými perličkami a dômyselnými, štrngotajúcimi, hrkotajúcimi,
+farbistými hračičkami. Rád by vám každému poslúžil dobrými, peknými
+darčekmi, milým úsmevom. Vašim ženám strúhal by som ešte i komplimenty,
+len ma pusťte, nezožerte ma, nechajte ma študovať. Dušu mi páli plameň
+lásky k vede a telo mi zanedlho bude páliť, piecť na rožni vás ohník, čo
+ma nad ním krútiť budete, aby som sa upiekol pekne do zlata-barnava.
+
+Neni to hlúpe?
+
+Máte tu hovädá i bravov. Dosiaľ ste sa živili ich mäsom. Jedávali ste áj
+plody lesné a v časoch núdze vychytali ste i myšky a potkanov celého
+okolia. Ham-ham, čam-čam, to je vaše heslo, to je váš, životný cieľ,
+viem ja dobre, milí kanibali, ale živte sa vy len i naďalej hovädzím
+mäsom, žerte len samých seba, či svojich zajatých nepriateľov. V časoch
+núdze i myšky a hmyz, ale so mnou spravte výnimku! -- Či si vy musíte
+napchať do svojich otužilých žalúdkov, ktoré rovnako trávia všetko,
+práve mňa, chlúbu britskej učenej spoločnosti? Nebola by škoda, aby
+všetky moje krásne snahy, plány, lásku a všetko pochovaly vaše bruchá,
+zvyklé na kedajaké odpadky? Nechcem vás urážať, ale nechápem, odkedy
+majú sa kŕmiť prasatá pravými perlami.
+
+Keby ste len vedeli, z akého som sveta! Nás viaže tam k sebe cit.
+Koľkých mám priateľov a ako ich milujem. Maliarov, sochárov, hudobníkov,
+básnikov a spisovateľov. Viem, vy o tom všetkom nemáte ani poňatia a ja
+predsa slzy ľútosti roním nad svojím horkým osudom, že tu musím hynúť,
+ďaleko od svojich verných, milovaných, že zajtra, napozajtre, ja, ich
+spolubojovník za krásu, kultúru a lásku, -- obrátim sa v hnoj vo vašich
+cynických útrobách.
+
+Preto nežerte ma, malí domorodci, žerte i naďalej len samých seba,
+hovädá, potkanov, kobylky a ostatný hmyz. A mňa pusťte s Pánom Bohom.
+
+Oči Zurianove hovorily; díval sa na troch doktorov, na Pufiho, na Dunča
+i na Jaša, prosiacim pohľadom, no ústa jeho ostaly nemé. Sme malí a
+ničomní. Len sny naše bývavajú krásne a plné vzletu i rozmachu, život je
+chatrný, mrzký a okríknutý!
+
+V živote tak málokedy možno pekne vznešene a presvedčivé hovoriť. Zaraz
+preruší náš hlas, čo chce vysvetľovať, prosiť, poukazovať na stránky
+nepovšimnuté, dokazovať zdeptanú pravdu, -- preruší ho netrpelivé
+dupnutie, cynický rehot, zúrivý rev, čo netrpí ani slova dôkazu, alebo
+obrany. Preruší náš hlas vlastná zbabelosť, mrzká neodhodlanosť, neraz
+nedbalá pohodlnosť. A tak pre krásne, presvedčivé reči v živote miesta a
+času neostáva. Smelí, neodolateľní bývavame my, úbohé maličké detičky
+svojho špinavého, biedou umazaného storočia len vo snách a v
+obrazotvornosti.
+
+Tak mlčal i Zurian a páni kanibali žrali ho, žrali veselo, nenechali mu
+ani kožky na tvári, zožrali z neho všetko, mľaskali pri tom a brušká si
+hladkali traja doktori v jedálni: Pufi, Dunčo a Jašo.
+
+A čo si zachránil, to bola jeho úbohá kostra, bez svalov, bez sily, bez
+ozdoby.
+
+Nemohol sa už potom ani hnúť, prejsť cez dvor, že by sa mu nebol
+niektorý z nich, hlasne hafkajúc, do nohavíc nezadrapil.
+
+A Zurian mlčal.
+
+Mohol otráviť Pufiho strychninom. Nasypať mu jed ta, kde má skladište
+svojich statkov. Vyhľadávať Starého Pána, ktorý si ho koniec-koncov
+ako-tak vážil. Ten vedel o ňom, že má doma priateľov a preto ho akosi
+šetril. Mohol k nemu tiež chodievať. So dňa na deň zmäkčovať si ho,
+dvoriť mu, referovať, špehovať, zabávať ho. A opatrne nasypať mu jed
+zlosti proti Pufimu. Mohol to spraviť, no hnusilo sa mu. Musel myslieť
+vždy na Pufiho, na malého fanatika, ako sa váľa, zdochýňa na poli. Jeho
+skalený zrak ho nepoznáva, nevie, kto ho tak zákerne zničil.
+
+Mohol zahrdúsiť i Dunča. Mohlo stáť za ním aj päť strýkov v
+ministerstve, šibenici Zurianovej satiry nebol by sa vyhol. Bol by ho
+pôstískal za krk, až by bol všetky hviezdy videl v jasný deň, avšak
+musel si myslieť vždy na Obludu-Dunča, na snaživého otroka Jura Papuľu a
+pocit hnusu ho odzbrojil.
+
+Ani hlúpy doktor Jašo by sa nebol vyhol jeho bakule. V zmätkoch a
+neurovnaných pomeroch nemocnice bola by sa našla príležitosť zmlátiť ho,
+až by tak zdunelo, ale čože vziať na jeho tupej papuli.
+
+Ech, ktože by mal chuť mlátiť úbohých, malých hladošov, otrokov malého
+štýlu, poslušných úradníčkov, ktorí okrem svojej kože nemajú na tom
+šírom svete ničoho. Mlátiť ich, kdeže? -- Dať im k obedu ešte jednu
+fľašku pivka, aby radi boli, sohnať im kde-tu nejakého pacienta, čo by
+ho elektrizovať, mazať, nafukovať, vyprázdňovať, napchávať, škrabkať,
+injekciami dopichať mohli, čo by pár koruniek „prizarábali". -- Takto
+smýšľal o nich Zurian a mlčal, mlčal neustále. Za celý rok s nimi
+neprehovoril, len to najpotrebnejšie.
+
+Ako keby bol tušil, že tam v nemocnici čaká na neho boj s iným, horším a
+mocnejším nepriateľom. S nepriateľom ohromného významu -- parazitom.
+
+# RÔNTGENOVÁ POHROMA
+
+V nasledujúcich dňoch dostal Zurian definitívne zadelenie. Primár
+vnútorného oddelenia vidiac, že sa vyzná vo vyšetrovaní vnútorných
+orgánov, pridelil mu pavilóny pre tuberkulózu.
+
+Tento čas je z nemocničnej praxi najkrajšou jeho pamiatkou. Neraz si ho
+spomínal. Na stole mu stojí malý, čokoládový kohútik a kocúr, s dlhým,
+štíhlym krkom a s falošným úsmevom na tvári. Celú kopu takýchto vecí
+kúpili mu jeho pacienti na Veľkú noc. Mali ho radi, lebo bol k nim nežný
+a dobrý. Ako si spomína Zurian, defilujú mu v pamäti v poriadku, ako
+umierali. Lebo umreli všetci. Vymrel mu celý pavilón. Mužskí i ženské.
+Jeho predchodca nashromaždil tam strašný materiál. Prijímal každý zúfalý
+prípad -- takých sa hlási najviac -- samých nezachrániteľných úbožiakov,
+a tak sa stala z pavilónov, určených na liečenie tuberkulózy, --
+umierareň -- neutešený brloh smrti. S každej strany, z každého kútika
+kašľala na Zuriana smrť. Vo vzduchu len tak prášily sa v lúčoch slnca
+ohromné miliardy bacila tuberkulózy. Najprv ho to robilo nervóznym.
+Kázal sestre, bledému, starému, kyslému dievčaťu, aby ráno pred vizitou,
+keď ho čaká, všetky dvere i okná otvárala. Aby všetky siene dala
+čerstvým prievanom prefukovať. Nech je vzduch aspoň trošku čistejší. No,
+dlho to nerobil. Málo to pomohlo, lebo pacienti chrchľali mu priamo do
+tvári, do úst, do nosa, ako icn vyšetroval. Upokojil sa. Vezmi to čert.
+Co komu súdené, veru ho neminie.
+
+Zurianove krásne pavilóny boly neutešenou umierarňou na smrť odsúdených
+ľudí. Samé zničené, rozožrané pľúca. Samé prízvučné vlhké i suché
+rachoty. Samé kaverny, veľkosti pästi, jablka. Mohol z hudobných
+šelestov kavernóznych svojich pacientov sostaviť celý orchester.
+Väčšinou mladí ľudia. Veselí, bujní, často úplne zdravého zovňajšku.
+Ženy-chuderky, dúfajúce, samopašné, žartujúce. A tí všetci mali svoje
+dni spočítané. Všetkým chrčalo, hralo, pískalo a praskalov pľúcach.
+Strašný a nezraniteľný bacil žral týchto ľudí, búral im pľúca a oni
+umierali, ako muchy v jeseni.
+
+Každý týždeň jedného-dvoch pitval. Lebo bolo to jeho povinnosťou a musel
+to robiť i k vôli poučeniu. Od mnohých sa lúčil v slzách. Oni to
+nevideli, dúfali do poslednej chvíle. Už sa dusili, ležali v poslednej
+agónii, oči sa im už prevracaly, ale keď mali medzitým chvíľočku, v
+ktorej blikajúci plamienok života bol vzbĺkol, sotva počuteľné sa ho
+spytovali: Pán doktor, mám väčšiu horúčku, než včera? -- Ak bude zajtra
+pekne, dovolíte mi ľahnúť si von na terasu? -- Čudná nepochopiteľná
+nádej tuberkulotikov držala sa ich do poslednej chvíle. A tak mu mrely
+tie bytnosti, ktoré mu cez týždne prirástly svojou milou povahou k
+srdcu, nezadržateľne a Zurian nemohol nič robiť, lebo stáli všetci
+jednou nohou v hrobe a ľudská moc im pomôcť nemohla. Tešil ich do
+poslednej chvíle, nikdy nikoho z nich nezarmútil, ani jednému nepovedal
+pravdu a i v agónii šeptal im na otázku, keď im morfiom zmierňoval zápas
+smrteľný: Áno, bude dobre, bude lepšie, počkajte len, počkajte. Bolo im
+dobre. Dobrotivá smrť všetko urovná, sotrie bolesť, urobí koniec
+ľudskému utrpeniu.
+
+Anča Lednická mu dnes ráno potajomky vstrčila do ruky kus pogniaveného
+papieru. „Magda a Irena, čo včera skoro naraz umrely, ma prosily, aby
+som vám ich posledný odkaz odovzdala." Na cedulke stalo: -- S Bohom, náš
+pán doktor, my sme Vás veľmi rady maly. Dnes je to už s nami veľmi zle a
+Vy nie ste tu. Myslite niekedy na dve dievčatá, ktoré Vás už neuvidia.
+-- Magda. -- Irena.
+
+Za čas bol Zurian taký rezignovaný, že vstupoval na svoje oddelenie, ako
+na cintorín. Od prvej chvíle dával pozor a neprijal už nové, beznádejné
+prípady. Nemilosrdne ich odmietal. -- Nemám tu pre vás miesta. -- Ja tu
+chcem liečiť, zachraňovať a nie pochovávať.
+
+Za dva-tri mesiace mal pavilóny čisté. Pochoval všetky kaverny. Márne
+prišiel už potom k nemu kolega, že chcel by počuť nejaké kaverny.
+Nemohol mu vyhovieť, lebo ich proste nebolo. Mal už tam samé začiatočné
+prípady, s ktorými sa dá niečo začať, ktoré možno liečiť i vyliečiť.
+
+Potom už tam neumrel nikto, ale odchádzali polepšení i ozdravení. Ťažko
+chorých, čo sa u neho hlásili, odkazoval do hôr, do sanatorií. On tu hôr
+nemal, len dobrý vzduch, slnce, pokoj, hojnú, výživnú stravu, ale
+stačilo to a Zurianove pavilóny rozkvitaly.
+
+Bol by tak nažíval v peknej harmónii a spokojnosti ešte dlhý čas, keby
+nebol zalomcoval jeho duchom diabol ctižiadosti. Ale padol mu v obeť a
+musel zato pykať.
+
+Zrak jeho túžobne smeroval k rôntgenu. K tomuto zázračnému aparátu, pred
+ktorým nezostane skryté nič, ani fliačik, ani najmenšie zhustené ložisko
+v pľúcach a ktorý každé lekárske tápanie vo tmách osvieti prenikavým
+svetlom istoty a presvedčivosti.
+
+Veľmajstrom rôntgenu bol v letenskej nemocnici doktor Dunčo. Bol to
+ináče veselý chlapík, hereckého talentu a nevyčerpateľný anekdotár.
+Okrem toho majiteľ strýka v ministerstve, tedy obávaná a uznávaná
+lekárska kapacita. Zurian s ním bol v pomere dobrom. Kedy-vtedy aj
+zašiel k nemu a učil ho slovenským ľudovým pesničkám, ktoré mal rád.
+Primár Zuriana už dávnejšie pobádal, aby sa rôntgenom oboznámil, aby
+niektorého zo starších poprosil, nech ho zasvätí. Zašiel tedy raz k
+Dunčovi a predniesol mu svoju prosbu:
+
+-- Prichádzam k vám zčiastky poverením pána primára, zčiastky z vlastnej
+ambície, ako vedúci lekár tbc pavilónov, kde rôntgen potrebujem. Nie som
+už v tej veci úplne neskúsený. Videl som tu už mnoho prípadov, viem,
+čoho si mám všímať, jediné, čo neznám, to je stroj samotný a zachádzanie
+s ním. O toto by som vás prosil, ako známeho virtuóza aparátu. Naučte ma
+so strojom zachádzať, nech si viem svoje nálezy rôntgenom kontrolovať.
+Potrebujem toho, ako soli a bol by som vám nesmierne vďačný.
+
+Dunčo všetko ochotne prisľúbil. Zrejme mu lichotilo, že ho Zurian
+vyhľadal o radu, ako odborníka.
+
+-- Veľmi rád vás naučím. Pripomeňte mi to zajtra odpoludnia, aby som
+nezabudol.
+
+Zurian bol šťastný a celú noc sa mu snívalo o rôntgene.
+
+Hej, dosiaľ bol odkázaný pri vyšetrovaní na svoj sluch, teraz bude mať
+nad svojím nálezom mocnú kontrolu. Tú najmocnejšiu, čo dosiaľ jestvuje
+-- kontrolu zraku.
+
+Ledva vyčkal odpoludnie. I vyhľadal Dunča, ako mu povedal a prosil ho
+zasa.
+
+Bol tam aj Pufi. -- Co chce, čo to chce? -- spytoval sa zvedavo.
+
+-- Eh, naučím ho rôntgenu, -- odvetil mu na otázku Dunčo.
+
+-- Ty, počkaj, počkaj, -- zasyčal Pufi a ťahal ho nabok. Čosi mu šepkal
+rozčúlene a na srdce Zurianovo usadal chmúrny tieň skľúčenosti. Cítil,
+že je rôntgen v nebezpečenstve.
+
+A naozaj, Dunčo sa vrátil a s ľútostivým hlasom mu oznamoval, že,
+bohužiaľ, musí ísť do mesta, má súrnu prácu a že niektorý iný deň si to
+preberú.
+
+Poďakoval mu, ale v duchu tušil, že ho nikdy nenaučí. Preklínal svoju
+smolu, že tam bol Pufi. Iste mu to on zmaril.
+
+A nemýlil sa. Dunčo so dňa na deň ho odkladal. Stále mal niečo spraviť,
+stále mu bolo ľúto, a tak sa to ťahalo asi mesiac.
+
+Medzitým Zurianova rúha po rôntgene vzrástla v neutíšiteľnú pálčivosť,
+ktorú nemohly uhasiť len zelené, fosforeskujúce lúče tohoto tajomného
+aparátu tam v tej podzemnej izbičke.
+
+Zúrivé sa vrhol na učebnice. Prebral celú teóriu, hltal všetky odborné
+knihy o tomto prístroji. A tak ozbrojený teoretickými vedomosťami, s
+klopajúcim srdcom si raz odpoludnia vstrčil sväzok kľúčov z laboratoria
+do vrecka a keď tam nik nechodil, vlupal sa do svätyne.
+
+Na niečo sa i pamätal, lebo i vo tme sa snažil, čo len možno odkukať
+Dunčove manipulácie. Bol krajne opatrný. Zapäl prúd, pozapínal lampu, a
+kto by vedel opísať jeho blaženosť, keď lampa naraz zelenavo zažiarila a
+zjavily sa kostené kontúry Zurianovej ruky, pred štít položenej.
+Zosilňoval prúd a s rastúcou blaženosťou počúval hrkotanie motoru a
+sršanie lampy.
+
+Všetko šlo krásne. Pamätal sa presne na všetky Dunčove pohyby. Bol
+krajne opatrný a neprekročil hraníc prúdu, ktoré predtým vídaval na
+voltmetre.
+
+-- Zvíťazil som, -- vykríkol radostne s triumfálnym pocitom. -- Nasoľ
+si, Dunčo, svoje vedomosti!
+
+Na druhý deň ráno vzal si so sebou piatich pacientov a tretí deň ráno
+tam sa skvel už jeho nález skiaskopický medzi ostatným referátom.
+
+Účinok bol ohromujúci. Primár pri týždennej vizite, lebo chodil ho
+kontrolovať len raz do týždňa, spokojne sa usmieval. Dunča a Pufiho
+išiel šľak trafiť. Nález bol rozsiahly, pekný a odborný. Ohromil
+každého.
+
+Pufi po vizite s bledou tvárou, so stisnutými perami, ho zastavil:
+
+-- Kto vás učil rôntgenovať?
+
+-- Nikto, ja sám.
+
+-- Dajte si pozor. Dajte si dobrý pozor!
+
+Nechápavé sa díval za ním.
+
+A na druhý deň dole pod zemou pri aparáte stihla Zuriana prvá pohroma.
+Mal so sebou troch chorých, ktorých si chcel prezrieť. Zapäl prúd do
+motoru, potom zápal i do lampy. Lampa nezačala, ako obyčajne, sršať a
+nezažiarila svojím mäkkým, zelenkavým, fosforeskujúcim svetlom, ale
+miesto toho dnuká v spojovacej skrini nastala veľká trma-vrma. A ako
+kľukou krútil ďalej, naraz s boku, zo skrine dostal taký úder, že sa
+svalil so stolca na zem. Pacienti ho museli sobrať a doviesť hore do
+bytu. Triasol sa na celom tele. Prosil ich, aby o veci nikomu nič
+nepovedali. Stihla ho len chvíľková nevoľnosť. S aparátom to nemá nič
+spoločného. Však inokedy si ich prezrie.
+
+Cítil v úzadí prsty Pufiho, lenže ešte nič určitého nevedel. Neskoršie
+sa dozvedel, že takýto úder vysokonapätého prúdu menšie zviera by bol
+určite zahlušil a mal pekelné šťastie, že svoj kožuch tam nenechal.
+
+-- No, nič to. Nedám sa odstrašiť. Na druhý deň s anjelskou
+trpezlivosťou a úžasnou opatrnosťou našiel chybu a veselo si svojich
+pacientov odrôntgenoval.
+
+Po nasledujúcej vizite s primárom a po peknom rôntgenovom referáte
+Zuriana, prišiel k nemu Pufi. Pery sa mu triasly rozčúlením a bol bledý
+ako stena.
+
+-- Upozorňujem vás naposledy, dajte si s rôntgenom pozor, lebo zle
+pochodíte. Neviete s ním zachádzať, tak ho nechajte.
+
+-- Tak ma naučte, pane, -- prosil ho Zurian.
+
+Pufi neodpovedal, len divo ho zmeral a odišiel.
+
+Druhý deň ráno primár zastavil Zuriana:
+
+-- Počul som, že sa stále paprete s rôntgenom, hoci ho neznáte. Prosím
+vás, nechajte to. Taká lampa stojí tritisíc korún, chcete ju silou-mocou
+vypáliť?
+
+Chcel sa mu ponosovať, že ho nik nechce naučiť, ale nemohol, lebo sa mu
+hnusilo. Primárovi akiste poriadne nabaláchali.
+
+Či ísť k Starému Pánovi a poprosiť ho? Iste by hneď nariadil, aby ho
+naučili, ale či je možné takouto cestou kráčať?
+
+Na tretí deň skoro umieral tuhou po rôntgene. Neodolal, vzal si kľúče,
+zavrel dvere za sebou a zápal motor.
+
+-- Tisíc striel vám do matere! Robíte si z vedy tajnosť, ako stredovekí
+šarlatáni! A ja sa nedám odstrašiť!
+
+Motor hrkútal a Zurianovi srdce búšilo.
+
+Ako sa dotkol kľuky, aby prúd prepojil na lampu, lampa naraz maximálnym
+svetlom zažiarila, divý praskot, potom ticho. Smrteľné ticho, v ktorom
+nepočuť len divé klopkanie Zurianovho srdca. Vo vzduchu vôňa spáleného
+vosku.
+
+-- No, servus, teraz som si dal.
+
+Hlavu si nahol do dlaní a čakal, aby sa zem otvorila a zhltla ho. Ani
+nevie, ako dlho tak sedel. Vzbudil ho rachot kľúča. Vstúpili Pufi a
+Dunčo. Na prvý pohľad videli, čo sa stalo.
+
+-- Nešťastný človeče, čo ste to spravili, -- spytoval sa ho Dunčo
+farizejským, ľútostivým hlasom. -- Lampa je vyhorená.
+
+-- Počkajte, mládenče, to si vypijete, -- syčal Pufi.
+
+Zurian zasa pocítil jeho prsty v úzadí. Kto zapäl rôntgen na krátke
+spojenie? Akiste duchovia, či sám od seba sa tak zapäl.
+
+Odvliekol sa bez slova.
+
+Na druhý deň ho volal primár. Prijal ho vo svojej ordinačnej izbe.
+Zurian nerád si spomína na tu scénu medzi nimi. Náhrady prijať nechcel.
+Lampu zaplatiť nedovolil.
+
+-- Ech, úbohý, slabošský tvor je človek, -- pomyslel si Zurian
+neskoršie. -- Nemal tam ostať. Po rôntgenovej pohrome dvojnásobne nie.
+Mal odísť, odísť hrdo, s pozdvihnutou hlavou od týchto závistlivých,
+zlomyseľných ľudí. Ešte vždy bolo nejako. Aj s ním by už bolo nejako
+bývalo. Nemal tam zostať ani deň.
+
+Lenže človek je nehybný, nepružný, slabý tvor. Nerád sa pohne. Bojí sa.
+Drží sa i slamky kŕčovite. Bojí sa zmeny, neistej budúcnosti.
+
+Tak tam zostal Zurian na svoju hanbu a nešťastie.
+
+Tak sa stal nemožným na vnútornom oddelení.
+
+Keď bol dosiaľ z aféry s Vokurkovou len blamovaný, teraz bol už priamo
+štvaný a nenávidený.
+
+Neposlúchol rozkaz primára.
+
+Musel svoje pavilóny zanechať, musel z vnútorného oddelenia odísť.
+
+# POMSTA
+
+Zurian mal bezesnú noc. Uvažoval, čo robiť. Strávil si udalosti:
+
+-- Pufi a Dunčo, dvaja horliví dvojnožci, mám sa na vás hnevať? A keď
+áno, tak mám sa stále zlostiť? Prečo nemať aj chvíľu pochopenia, ktoré
+všetko zahladí, všetko urovná.
+
+Vy ste vlastne s tým rôntgenom mali pravdu. Ťažko začať kamarátiť sa s
+čínskym kulim a vy ste ma mali za kuliho. Veď som vždy mlčal. Čušal vždy
+a všade. Vy ste zo mňa nikdy súkromného slova nedostali, nemohli ste ma
+tedy poznať.
+
+Život váš bol krutý. Ako ťažko šlo Pufimu vydobyť si v nemocnici svojho
+pekného postavenia. Co mu príroda nedopriala, príjemného zovňajšku,
+musel nahradzovať, aby získaval dôveru svojich blížnych, ohromným
+prispôsobovaním sa. Slo to akiste len pomaly a namáhave.
+
+Aj Dunčo si vážil akiste veľmi svojho strýčka v ministerstve, lebo cítil
+dobre, že v záplave toľkých univerzít, v dave prebytočného doktorského
+materiálu, bol by býval stratený. So svojím medicínskym antitalentom a
+nenapraviteľnou povrchnosťou nebol by dostal miesta vôbec.
+
+A teraz predstavte si, že sa naraz zjaví v nemocnici neznámy, zelený
+mládenec, ktorému o pár týždňov primár pridelí tuberkulózne pavilóny,
+miesto a prácu, ktorú mával odjakživa vždy najstarší a najskúsenejší
+pomocník primárov. Videli ste, že miesto svoje tento mladíček zastáva
+dobre, že je primár s ním spokojný a sveruje na neho stále viac a viac
+samostatných úkolov. Pichlo vás to, to je samozrejmé. Ach, tu je kuli,
+pozor! Biely robotník, pozor na kuliho, ten nepotrebuje mäsa, tomu
+netreba odpočinku, ten vyžije z pár hrstí ryže a vyspí sa i na holej
+dlážke. Jeho húževnatosť a práceschopnosť sú nekonečné, je to odporná
+konkurencia, preto, biely robotník, pozor si daj!
+
+A kuli za pár mesiacov vás naozaj dohonil. Ani jeden z vás mu nikdy nič
+neukázal, jednako poznal všetko, čo potreboval, ba vedel viac, zaujímal
+sa o všetko a bral všetko od základov. Papral sa stále v mŕtvolách,
+pestoval baktérie, študoval chémiu, preliezol vo svojom voľnom čase
+všetky oddelenia letenskej nemocnice. Osvojil si úplne Pufiho pracovný
+štýl, ba prehlboval si ho svojrázne a doplňoval.
+
+Tak to bolo, čert vezmi skromnosť, ktorá by to zamlčala. Zurian si
+spomína na tie veci spokojne a sebavedome.
+
+Kuli je to, ozajstný, dokonalý kuli, preto pozor!
+
+A teraz chce sa naučiť rôntgen. Vec, ktorú okrem primára poznajú v
+nemocnici len dvaja: Pufi a Dunčo. Vec, ktorá ich vyzdvihuje zpomedzi
+ostatných, zahaľuje do rúcha triumfálneho, imponujúcej nezbytnosti a
+nepostrádateľnosti. Oh, veľkí boli tí dvaja, keď tak dopoludnia zasadli
+si k stroju, aby v prítomnosti primára a celého zástupu odrôntgenovali
+„materiál". O Dunčovi sa povrávalo, že vie nielen presviecovať a snímky
+robiť, ale dokonca i liečiť, ožiarovať povrchné kožné choroby.
+
+A teraz príde kuli a chce sa to naučiť.
+
+Počul už niekto niečo takého?
+
+Ba ešte čo?
+
+Aby ich zajtra, pozajtra z rôntgenu vytisol? Kto pozná jeho úmysly? Kto
+ručí za to, či by kuli za čas nepovolal do rôntgenu ostatných svojich
+spolukuliov a nenaučil by ich tomuto záhadnému remeslu, tejto
+povznášajúcej veci?
+
+Odio profanum vulgus.
+
+Pufi a Dunčo mali úplnú pravdu.
+
+Podzemné, čierne, intímne miestnosti im slúžily za hniezdečko
+dostaveníčok, potrebovali oni ta tretieho, či dokonca luzu?
+
+S neznámym cudzincom mali sa oni deliť o slávu?
+
+Zelenému, nesympatickému chlapíkovi mali oni poskytnúť dar na celý
+život, možnosť úplného, presvedčivého vyšetrenia vnútorných chorôb?
+
+Mali pravdu? Život je často divný a ľudia ešte divnejší. Koľko raz
+ohrievaš na svojich ňadrách zmiju, ktorá ťa pri prvej príležitosti
+štipne. Pusť nevďačníka do svojho domu, ani sa nenazdáš, už ťa vy tisol
+na ulicu a môžeš potom o hlade, o smäde, v slzách, opustený, otrhaný,
+preklínať svoju hlúpu dôveru a dobromyseľnosť. Nevďačník ťa ešte dokope
+tvojimi vlastnými topánkami, ktoré si mu daroval.
+
+Ako to mali tí dvaja vedieť, že som nie taký. Že ich nechcem vykynožiť,
+že chcem mať len jasno na svojom vlastnom oddelení, v pavilónoch
+svojich, že sa do nich nechcem starať. Ako mohli tušiť, že by ma boli
+zaviazali k nekonečnej vďačnosti, že by som ich bol do smrti spomínal,
+ako svojich učiteľov. Vo svete tak málo lásky, tak málo dobroty, a keď
+kvapne kdesi, predsa len to priamo omráči. Srdce naplňuje láskou a
+zbožnou úctou, do očí vyludzuje slzu pohnutia a oblažujúceho pocitu: --
+Hľa, sú dobrí ľudia na svete.
+
+Ja som však vždy mlčal, ako to mohli tí dvaja vedieť?
+
+Ej, ej, Pufi a Dunčo, nehnevám sa ja na vás. A keď vám tu aj mrzký
+pomník staviam, i s tým chcem len dobré.
+
+Lebo je tu ideál, na ktorý si zrak upieram.
+
+Akokoľvek, čokoľvek bude, vždy rád som poučoval, rád sdieľal s každým,
+čo som vedel. Morálke lekárskej neučil som sa od tých, čo mi odopreli,
+ale od tých, čo mi dali. Lebo boli aj takí a v tejto chvíli vzdávam česť
+ich jasnej pamiatke. Lebo dávať je krajší pocit, než prijímať, a
+rozdávať vedu, vedomosti je pocit vznešený, gesto ušľachtilé. Je
+posunkom duchov vyšších a ja si želám patriť medzi nich. A ako sú lakomí
+žgrloši, tak sú aj vášniví rozdávatelia statkov duševných.
+
+A preto poďte sem, malý Pufi a chlpatý Dunčo. Nehnevám sa ja už, nech
+vás pohladkám na znak smierenia. Nechcem ti už nasypať strychnin, Pufi,
+a neobesím ťa už, Dunčo. Rozíďme sa v pokoji. Nemám už s vami nič
+spoločného a keď má i uchváti ešte tu i tam zlosť a odpor proti vám,
+vedzte, že je to len okamžité, slabosť ľudská. Prejde, ako prišla a
+napokon vás jednako len pohladkám po srsti a hodím vám koštialik svojho
+porozumenia a lásky, čo všetko urovná a odpustí.
+
+Zurian dlho hľadel pred seba do tmy svojej izbičky.
+
+# NA NOVOM ODDELENÍ
+
+Starý Pán Zuriana zadelil na nové pôsobište. Na oddelenie kožných a
+pohlavných chorôb, vedľa doktora Jaša.
+
+Pomery boly tam iné. I primár bol iný. Bol to doktor Ditrich, šedivý,
+nesmierne vážny človek železnej energie. Málo hovoril, ale rád poučoval
+a v tom smere bol pravým opakom primára vnútorného oddelenia, ktorý sa
+pri vizitách len ironicky usmieval a mlčal ako ryba.
+
+Zurian na tomto oddelení za dva týždne naučil sa viac, ako na vnútornom
+za dva mesiace. Primár mu nedal pokoja ani na chvíľku. Čo je to? Čo o
+tom súdite? Ako by ste to liečili? Prečo sa to nesmie robiť takto? Aký
+to bude mať priebeh? Čítali ste už t o tom niečo? Sledujete najnovšiu
+literatúru? Ja vám tie sošity požičiam, ak chcete. Do zajtrajška spravte
+to a to. Chcem mať presný záznam a zprávu o tom a o tom. -- Nasolil
+Zurianovi toľko roboty, až sa mu hlava krútila. A vyhnutia nebolo, duch
+tohoto oddelenia bol taký prísny, poriadok taký dokonalý, že slovo
+primárovo bolo najvyšším zákonom a bola vylúčená možnosť, aby sa niečo z
+jeho nariadení nesplnilo.
+
+Zurian cítil nad sebou mocnú ruku. Tá ruka ho nemilosrdne poháňala,
+nedala mu ani oddýchnuť si, ale aj štedre rozdávala. Sypala plnou hrsťou
+poučenie dlhoročných, hlbokých skúseností.
+
+Tento šedivý pán prísnej, chladnej tvári nikdy sa neusmial, nikdy
+vľúdneho slova nepovedal, humor bol mu neznámy, ale jeho chladná tvár sa
+nadchla, keď začal vykladať o novom zaujímavom prípade.
+
+Dôstojným jeho asistentom bol doktor Jašo. Tešil sa najdokonalejšej
+dôvere primárovej, čo i zaslúžil. Tento človek žil a mrel na oddelení.
+Osobne bol práve taký neústupný, ako primár. Zurian cítil, že by bol s
+ním vychádzal celkom dobre, keby bol prišiel na oddelenie, ako neznámy,
+lenže Jašo ho už poznal z vypravovania pri obede, ako nebezpečného
+vydriducha a preto ho prijal s krajnou nedôverou.
+
+Jaso bol divný človek. Bol celý a úplný len v práci na oddelení.
+Spoločensky bol nemožný. Tučný chlap, úplne plešivý, s rozpľasklou,
+tučnou bledou tvárou, lenže bez obvyklej dobromyseľnosti tučných ľudí. V
+tlstom jeho tele býval duch Cassiov a Július Caesar by sa bol cítil v
+jeho prítomnosti iste nepokojne. Jašova bledá, bacuľatá tvár bola
+chladná, tupá, len akási rozpačitá, nervózna grimasa dodávala jej
+akéhosi nepríjemného, odpudzujúceho výrazu. Bola to tvár neurastenika,
+rozhorčeného podivína. Jeho úsudky, ktoré kedy-tedy pri obede prednášal,
+boly neslýchané primitívne. Ľahko sa urazil a vtedy hrubo nadal
+komukoľvek. Mal pozíciu pevnú, mal úplnú dôveru svojho primára, ktorý ho
+potreboval, preto mohol si to dovoliť.
+
+Doktor Sansculotte, o ktorom ešte bude reč, ktorý bol so Zurianom naraz
+prijatý do nemocnice a osud ktorého nebol práve ružový, počul raz Jaša,
+ako spieval časť z Rigoletta. Natešený oznamoval Zurianovi, a dlho sa
+dohadovali, či má byť Jašo naozaj takým hovädom božím, ako vyzerá a ako
+sa ukazuje, či azda predsa skrýva v sebe iskierku niečoho
+šľachetnejšieho.
+
+Zurian obdivoval jeho práceschopnosť a svedomitosť. V puntičkárstve mal
+veľa spoločného s Pufim, lenže nerobil to tak hlučne a afektovane.
+
+# DIVÉ ATÓMY BOHA
+
+Pri každej veci, s ktorou sa človek zaoberá, prvé dojmy sú tie
+najmohutnejšie. Tak sa stáva blázinec pre laika, ktorý tam bol iba raz,
+rozprávkovou senzáciou, kým je on pre lekára samozrejmou a neraz i
+unudenou povinnosťou.
+
+Prvé týždne na tomto oddelení boly senzáciou i pre Zuriana. Priamo hltal
+vnútornú filozofiu oddelenia a jeho chorôb. Tú stránku, čo Jašo už dávno
+necítil, ak ju kedysi vôbec cítil.
+
+V prvých časoch práca na oddelení pre Zuriana neznamenala púhy
+odbornícky výkon. Nie, ona bola plná vzťahov k životu. K tomuto
+každodennému životu, ktorý žije každý človek, i ty, čitateľ! Chorí na
+tomto oddelení mu neklesli ešte na úroveň nemocničného materiálu. Hľadel
+na nich, ako na ľudí, na svojich nešťastných bratov, ktorí všetci majú
+svoj osobný, zvláštny život, bolesti i radosti. Za každým prejavom
+choroby videl tam ruku mocného Boha, od ktorého všetko pochádza.
+
+Vzdelaný čitateľ, láskavej, pochopujúcej duše, milujúci člen bratstva
+živých na zemi, nože počúvaj: predstaví sa ti zbojník, pliaga ľudského
+plemena.
+
+V močovej rúre človeka i v normálnych pomeroch žije celá kopa baktérií.
+Sú to tyčinky, kokky, malým bodkám podobné, neviditeľné bytnosti a
+diplokokky, čiže dvojbodky, žijúce vždy po pároch pospolu. Žijú si tam
+pekne, sadávajú si na krycích bunkách rúry močovej a ssajú šťavy tam sa
+nachádzajúce. Zriedka sa stáva, že niektorý druh sa zblázni a nepokojne
+šarapatiac, spôsobí svojmu gazdovi nejaké ťažkosti a ani to nebýva nič
+vážnejšieho.
+
+Pasú sa len na povrchu krycích buniek. O vkuse sa nedá dišputovať,
+prajem im dobrý apetít, -- povieš nato, mierumilovný čitateľ, a máš
+úplnú pravdu. Veď i mikróby sú tvormi božími a Jeho nevyspytateľná
+múdrosť aj im určila cieľ života.
+
+Zurian sedí pri stole a pokojne díva sa do bieleho, kruhového, zorného
+poľa drobnohľadu. Jeho ľavé oko, od nepomerného namáhaniu krvou zaliate,
+červené, pokojne hladká tie maličké bytnosti.
+
+„Nazdar", kývne celej veľkej skupine kokov, „nazdar, vy beťári, vy ma
+nenastrašíte. Vy ste len nevinné saprofyty, strašte niekoho iného, lebo
+ja sa vás nezľaknem." A takto prekutáva jeho ľavé oko jedno zorné pole
+za druhým. Chystá sa práve prezrieť druhý preparát od druhého človeka a
+jeho posledný pohľad naraz sa zastaví.
+
+Zastaví sa veru, lebo zazrel čosi. Stáva sa nervóznym. To, čo teraz
+vidí, videl už veľa ráz a jednako sa ho zľakne, kedykoľvek ho zazrie.
+
+Je to on: Gonococcus.
+
+Čo je besný pes medzi nevinným a užitočným národom našich štvornohých
+priateľov, tým je gonococcus medzi pokojnými obyvateľmi močovej trubice.
+Stelesnená zloba samého arcidiabla Belzebúba.
+
+Nežije v nijakom živom tvore, jedine v človeku. Je to typický ľudský
+parazit, nie ako ostatné, ktoré vyžijú aj v tele zvierat, ba i na
+rastlinách.
+
+Toto je jeho divá, úžasná vlastnosť, že žije jedine v človeku.
+
+Je to dar pre korunu tvorstva a má základný vliv na vývin celej ľudskej
+morálky.
+
+Nebyť jeho, slovo „nemravnosť" hneď by stratilo zápach síry, ohnivého
+dažďa, pálčivosť plameňov pekla i heslo rozbúrania základu štátov a
+národov.
+
+Je on krutým bičom pomstychtivých nebies nad ľudskou mravnosťou. Je
+stelesnením tohoto metafyzického pojmu.
+
+Bo je viac, než divné, že prečo a zkadiaľ sa usadzuje tento divý Atóm
+jedine a jedine v pohlavných orgánoch človeka? Prečo sa nechytá na
+žiadne zviera, prečo nevyžije inde, keď ostatné baktérie sú tak ohromne
+prispôsoblivé. Prečo sa pletie stále do ľúbostného aktu človeka? Krutý
+bič morálky, ľudstva na zemi, ale bič nespravodlivý, bezohľadný, mylný.
+A ten, kto ním narába, je cynik.
+
+Kde sa usadí, tam sa zažerie do hĺbky a spôsobuje hnisanie. Privedie
+ohromne veľa hnisavých buniek, i krycie bunky močovej rúry sa olupujú, a
+to všetko sa zjaví v hojnom, žltavo-zelenkavom výtoku z rúry močovej.
+
+Ako ľahko k nemu prísť, tak ťažko ho vykynožiť. I v tom najlepšom
+prípade potrvá 6-8 týždňov, pri najsvedomitejšom liečení, ale pri
+komplikáciách môže trvať viac mesiacov a v zanedbaných prípadoch veľa
+rokov. Tvarom sa ani nelíši veľmi od niektorých nevinných diplokokov,
+ale povahou je medzi nimi vyvrheľom, Kainom, prekliatym zločincom.
+
+Sedí vždy po pároch. Ešte nik nevidel gonokoka samotného. Kedy-tedy, keď
+sa Zurianovi zdalo, že ho pristihol pri nevere k životu spoločnému,
+nakoniec vždy vysvitlo, že bol iba obrátený bokom k jeho oku; zakrýval
+len svojho priateľa, súc s ním kolmo v jednej rovine.
+
+V čerstvejších pôdoch rád sa zdržuje v skupine, ako vlci v zime.
+Zurianova zimničná fantázia neraz ich počúvala zavíjať:
+
+Hú, hú, sme my len pekná spoločnosť. Sme tí istí, čo sme boli i pred
+tisícimi rokmi. Z tradícií nášho plemena sme my nič nepopustili a sme
+veru len živou tradíciou ľudstva. Nevie a nemôže sa nás zbaviť.
+
+Aký krehký je náš život! Žijeme len pri 37 stupňoch Celsiových. Učenec,
+ktorý nás pestuje na umelých výživných pôdach, nech si dáva dobrý pozor,
+aby mu skriňka termostat, kde nás drží, nevychladla, alebo sa
+nepreteplila lebo pár stupňov nad 37° znamená, že do rána mu vyhynie
+celý náš kmeň a môže nás začať pestovať znova.
+
+Ale či nám treba ideálnejšieho bývania, ako je ľudské telo, kde je
+neustále okolo 37° stupňov a kde sa tak znamenite cítime, že ešte aj
+horúčku, o 2-3-stupňové zvýšenie teploty znesieme.
+
+Krehký je náš život. Žijeme len na vybraných pôdach. Ťažko a dlho
+zápasili vedci, kým nám prišli na chuť. Nám veru nestačí želatina, agar,
+mäsová polievka, zemiaky, mlieko, žič, ako bacilu tyfu a inej hávedi.
+Nás učenci vypestujú iba na krvnom sérume z človeka a aj na tom, ako
+ťažko! Ako ľahko sa môže stať, že nás prerastie nejaká primiešaná
+nečistá háveď, nejaké kokky či tyčinky, akísi lační proletári, ktorým je
+všetko dosť dobré, ktorí živoria aj na holej skale a my, aristokrati,
+pod ich dotieravosťou hynieme -- na veľkú zlosť učenca.
+
+Ale či nám treba lepšej pôdy, ako je močová trubica človeka? Veď je tam
+všetko, čoho nám treba k životu v najideálnejšom složení. Človek je pre
+nás výživnou pôdou, len preto ho stvoril Boh, aby nás choval, aby sme
+mali kde žiť.
+
+V inom zvierati žiť nemôžeme, len v človeku. Darmo nás učenci
+preštepovali na psa, na mačku a kto by vedel načo všetko ešte --
+neuchytili, neudržali sme sa, lebo pre nás je pôdou len človek. Preto
+žije, preto sa množí, aby nás choval.
+
+Obdivuhodná je múdrosť božia, ako sa postaral, aby sme nevyhynuli. Veď v
+tom istom jednotlivcovi nemôžeme naveky ostať. Ten by sa nás
+koniec-koncov nejako zbavil, alebo by umrel a cez jednu generáciu ľudskú
+bolo by po nás.
+
+Musíme si nájsť vždy nových a nových jednotlivcov. Musíme byť
+preštepovaní do novej a novej pôdy a Boh, vo svojej nesmiernej
+láskavosti a múdrosti, postaral sa i o to.
+
+Pichľavé plody bodľačia sa zachytávajú do šiat a do srsti zvierat, ktoré
+ich takto roznášajú a rozsievajú široko-ďaleko.
+
+A do čoho sa máme zachytávať my? Kto že nás roznosí, kto že nás rozseje?
+
+Ľahučké páperie púpavy rozletí sa na krídlach vetra široko-ďaleko.
+
+A na akých krídlach lietame my? Kto že je naším rozsievačom?
+
+Pohlavný pud človeka. Najsilnejší jeho pud, okolo ktorého sa mu otáča
+celý svet, najvznešenejší pud, ktorý ho pobáda pracovať, tvoriť, bez
+ktorého je eunuchom, poľutovaniahodným úbožiakom, bez chuti k životu a k
+tvoreniu, a tento pud mu dal Pán Boh iba preto, aby nás rozsieval,
+rozširoval.
+
+Veľká je múdrosť božia! Nielen že stvoril človeka, aby sme v ňom žili a
+dal mu pud zachovania plemena, aby seba a nás udržoval, ale vštepil mu
+do ducha ešte zvláštne zariadenie, ktoré nás chráni a umožňuje, aby nás
+človek skoro v neobmedzenej miere rozširoval.
+
+Pri posudzovaní spôsobov človeka, najlepším merítkom sú zvieratá. Zviera
+je čistým neskaleným zrkadlom vôle božej. Čo sa na zvierati ukazuje, to
+môže byť pre človeka správnym a spravodlivým merítkom, a to aspoň vždy v
+základoch, lebo zviera je nefalšovaný tvor, ktoré nevie luhať, klamať,
+pretvarovať sa. Robí vždy len to, čo sa mu shora nariadilo.
+
+Šimpanz, keď ho blchy štípu, škriabe sa, alebo, ak je ženatý, zájde si k
+žene, ľahne si jej do lona a tá ho poslušne a svedomité čistí, loviac po
+parazitoch zubami-nechtami.
+
+Mačka, padnuvšia so strechy, ak sa nezabila, olizuje sa.
+
+Pes, trpiaci zácpou, žerie trávu, a keď mu je veľmi horúco, zájde si k
+rieke a okúpe sa. Hroch si vraj vie pustiť žilu a sú vtáci, čo si vedia
+obviazať zlomenú nohu.
+
+Neveľká je chirurgia a lekárnictvo zvierat, ale podľa potreby vyčerpajú
+si ho vždy úplne a bez veľkých okolkov.
+
+Človek je nie taký. Na tom poli stojí hlboko pod zvieratmi. Človeku je
+každý nesmysel dôležitejší, než aby sa proti svojim chorobám
+zorganizoval.
+
+V jeho dejinách hlavným a vedúcim vláknom je, ktorý kráľ kedy panoval,
+koľko ľudí zavraždil, aké vojny mal a koľkých priviedol na jatky. Jeho
+deti to všetko presne musia v škole vedieť, ale o nás, o gonokokoch sa
+im nič nepovie. Je ich pýchou, že vedia, kedy bola bitka pri Waterloo,
+ale preto sa nik nehanbí, že nevie, kedy objavil učenec Neisser nás,
+gonokokov.
+
+Keď sa my gonokoci uhniezdime v človeku, ten sa so svojou chorobou
+neprihlási, ale ukryje sa. Nie aby narobil poplachu, ako ranený mrož a
+zavolal tých ostatných na pomoc, ale ukryje sa a keby umieral a spýtali
+by sa ho, čo mu je, luhal by a nepriznal by sa, že sme to my, čo ho
+moríme.
+
+A keď sa prihlási o pomoc, robí to v najväčšej tajnosti. Ich lekári majú
+pre nich osobitné vchody, aby sa ani nevideli, majú osobitný čas pre
+liečbu mužských i ženských. Chorí sa skrývajú.
+
+A tí druhí nie, aby im pomáhali, ako to robí každý statočný mrož, keď
+beží napadnutému druhoví na pomoc, ale vysmievajú sa im, robia z tých
+chorých krutý posmech, obťažujú im život, vyvrhnú ich zo spoločnosti.
+
+Či sme my gonokoci menej peknými a delikátnymi mikrobmi, ako povedzme,
+bacil tuberkulózy? Bacil najzhubnejšej a liečeniu najmenej prístupnej
+choroby?
+
+Keď sa tuberkulotik rozkašle a sype okolo seba do davu milióny bacilov,
+toho si sotva kto všíma, ale s hrúzou a vzrušene ukazujú na človeka, u
+ktorého tušia pohlavnú chorobu.
+
+Dáma s kameliami pokojne môže vykašľávať svoje pľúca na javisku, to je
+pekné a dojímavé, ale nech by k nej prišiel lekár a chcel by ju
+vyšetriť, či nemá infekčnú chorobu, spôsobenú gonokokmi, čo by
+obecenstvo robilo?
+
+Celé kultúrne ľudstvo je presiaknuté hysterickou zbabelosťou, nevie sa
+dívať na pohlavie zrakom jasným, a skrývajúc sa pred pohlavnou
+skutočnosťou, myslí si, že sa tým robí ctnostným a zatiaľ je len úbohé,
+mizerné, špinavé, pohlavne exaltované, vyznávateľom biblického Onana,
+ktorý druhých varuje a straší, zbabelcom, ktorý svojou „stydlivosťou"
+prezradzuje len svoju nečistotu a zlé svedomie.
+
+V Nitre, po bývalej zlopovestnej Párovej ulici chodieval istý
+degenerovaný Hebrej, menom Šlojmo. Jeho idiotské porekadlá, plné krytej
+i nekrytej sexuálnosti, uchvátily mládež nitriansku a hoci Šlojmo
+málokedy mal čo jest, hovorilo sa o ňom vždy, že je to výbojné veselý
+človek. Stará sa len o vtipy a žarty, slovom originálna papuľa. V
+gymnáziu, v meštianskej škole, v panských i chudobných domoch, všade sa
+opakovali jeho „originálne skvelé" výpovede a ten bol najšťastnejší, kto
+vedel Šlojmov pľúvavý, chrákavý, chrochtavý, spevavý, hrdelný žargón
+napodobňovať. Malí židáci, ktorým sa to najviac páčilo, nakazili aj
+ostatných a bol vyhlásený za pečenú trúbu každý, kto sa nelúčil od
+spolužiaka, či od priateľov slovom „obessa", obľúbenou frázou Šlojmovou.
+
+Gymnazisti vyšších ročníkov neraz dávali Šlojmovi šesták, aby pred nimi
+zahral ohavné divadlo s Betou, s druhou figúrou Párovej ulice, so
+strašlivou babizňou, idiotkou, která sa ináče živila prinášaním vody do
+panských domov a drela sa od rána do večera.
+
+Šlojmo a Beta boli symbolom duší obyvateľov Párovej ulice, až na
+starších ľudí a tých niekoľko slušnejších, ktorých to divadlo
+nezaujímalo.
+
+Stalo sa raz, že švárna dievčina, Mariša Sýkorová, ideál a prameň nákazy
+zlatej mládeže nitrianskej, nemajúc práve inej zábavy, sviedla Šlojma
+kdesi na poli, infikujúc ho pritom gonokokovou nákazou, čiže gonoreou,
+vulgárne kvapavkou, alebo triplom.
+
+Na druhý deň oznámila svojim frajerom, že Šlojmo bol kdesi lumpovať a má
+vraj dostať gonoreu. Rozčúlene čakali, kedy to na Šlojmovi vypukne. Na
+tretí deň sa choroba prihlásila v podobe hojného hnisavého výtoku z rúry
+močovej a stala sa zdrojom slušných príjmov pre Šlojma, ktorý za päták
+či za šesták ochotne ukazoval svoj chorý pohlavný úd zvedavým davom
+nitrianskej mládeže.
+
+V Nitre sa len posmievali dobrí občania, ale inde sa i pohoršujú. V
+istých slovenských novinách akýsi mravne založený chňup rozhorčene
+brojil proti postaveniu nemocnice pre pohlavne chorých. Je vraj znakom
+našej skazenej a znemravnelej doby, že tým zvrhlým vyvrheľom, tým chorým
+ľuďom zo štátnych peňazí chcú stavať nemocnicu.
+
+Ako vidieť, Boh sa postaral o našu ochranu dôkladne. Máme ju, my
+gonokoci, v hlúpych mozgoch ľudí, a keďže ľudská hlúposť a pretvárka sú
+večné, nemáme sa čo o svoj osud obávať.
+
+Takto filozofujú gonokoci v tichých nociach, keď sa na nich doktor
+Zurian díva a ich bezohľadná, divá reč ho nemálo znepokojuje.
+
+# KAPITÁN DIEVOK
+
+Jašo viedol oddelenie mužských a tak Zuriana zadelili na ženské
+oddelenie. Kožných prípadov mali pomerne málo. Tie dve ohromné siene
+boly preplnené väčšinou len pohlavne chorými ženami. A i tie boly
+rozdelené do dvoch skupín. V jednej boly tie lepšie, ktoré sa prihlásily
+na liečenie samy od seba. Boly to zväčša dievčatá z chudobnej triedy, u
+ktorých nutkavá núdza premohla hanblivosť. Služobné dievčatá, švadleny,
+úradníčky tu ležaly, potom „členky organizácie hostinského pomocníctva",
+a to čiašnice, kasírky, dámy barov a i tanečnice. Toto bolo nóbl
+oddelenie. Úroveň bola tu vysoká, už ako to samy choré tvrdievaly, nie
+ako tam „vedľa".
+
+Na tomto nóbl oddelení ležaly aj kožné pacientky. Hoci na tabulky nebolo
+nikde nič napísané, poznal ich človek skoro vždy na prvý pohľad. Najmä
+mladé ženy. So sebavedomým úsmevom ležaly na svojich posteliach,
+opovržlivými pohľadmi meriavaly svoje susedky. V prítomnosti lekára
+často volaľy ošetrovateľky a hlasne sa ponosovaly na ošklivé" reči a
+necudné poznámky „tých tam" okolo. Sestry však dosvedčovaly, že je to
+len pretvárka. Nevinné tieto slečinky vraj po pár dňoch, keď už privykly
+na pomery, výborne sa bavia v tomto „zamorenom okolí", nastavujú si
+ucho, aby im ani slovo neušlo, a s dievkami uzavierajú vrelé
+priateľstvá.
+
+A veru, kto ešte nepočul, neveril by, ako sú schopné ženy medzi sebou
+rozprávať. A to celkom verejne, pred celou sieňou a pred staršími
+vážnejšími ženami, i pred sestrami. A to nie obyvateľky „ordinárneho",
+ale „nóbl" sálu, čiže tie poloskazené, alebo celkom nevinné, ktoré vždy
+či keď sa ich spýtali, či i bez toho horlivé prízvukovaly, že nie sú
+„také", nech si nikto nemyslí.
+
+Ženská skazenosť je bizarná a prekvapujúca. Mužský jednako len nie je
+zvrhlý počúvať z nežných pier, vždy plných indignácie a divo
+odmietajúcich najmenšie podozrenie z akejsi nemravnosti -- nuž od tých
+nežných tvorov počúvať slová a poznámky, pri ktorých sa môžu skryť tie
+naj oplzlej šie anekdoty opilej mužskej spoločnosti.
+
+A nebolo treba ich tajne vypočúvať, lebo vykrikovaly tak hlasne, až sa
+to ozývalo po celej rozsiahlej budove.
+
+Zato však nežne sklopily oči a tvárily sa úplne nevinne, náhle niekto
+cudzí, najmä mužský vstúpil do siene.
+
+Zurian nikdy ani predtým nemal v obľube priateľstvo žien, ale tu naučil
+sa ho priamo nenávidieť. V úzadí ich priateľstva vždy nájdeš, ak šikovne
+hľadáš, ženskú skazenosť.
+
+Túto skúsenosť mu upevňovaly pozorovania na „nóbl" oddelení. Vedľa však
+bola ešte jedna sieň, plná pacientiek a bola to sieň, ako ju „nóbl" dámy
+nazývaly: ordinárna.
+
+Pacientky sa sem neprihlasovaly samy, ale boly sem nútene posielané, či
+policajne dopravované. Boly to typické dcéry ulice, akými sa veľké mesto
+večer len tak hemží. A keďže ony sa sem samy neprihlasovaly, ani
+liečenia si nevážily. Túžily po slobode, po zárobku, po pijatyke, po
+smilstve, po dobrodružstve, rozháranom živote a veru podľa toho sa i
+chovaly. Skúsenosti, ktorých si tu Zurian nadobudol, primaly ho, aby
+často pochyboval a uvažoval:
+
+Č i j e d i e v k a č l o v e k o m?
+
+Je veľa vážnych dôvodov tvrdiť, že nie. Hneď to vysvitne, prečo. Na
+tieto ženské oddelenia nešiel Zurian úplne neinformovaný. Čiastočne
+sestry, ale i sami doktori ho už vopred varovali. Ako príklad mu
+uvádzali fakt, že vo veľkej nemocnici sám prednosta kliniky, profesor
+Heller, prešedivelý, dôstojný, starý pán, svetová kapacita kožného
+lekárstva, ináče nechodieva na oddelenie, ako s býkovcom, či korbáčom v
+ruke. Doktor, keď tam vojde vykonať vizitu, naraz len zbadá, že mu
+hodily do hlavy starú, roztrepanú bačkoru. Dievky sú tam priamo zverské,
+neskrotné, neľudsky nehaneblivé.
+
+-- Nazdar, fešáku, -- kričia tam na doktora. -- Kde si bol v noci, že
+vyzeráš taký ospalý? Ak pôjdeš k nám, k „Starej Panej", alebo do
+„Zeleného Orla", pozdrav dievčatá.
+
+Vraj neskrotný rev, neslýchané poznámky a násilníctvo doprevádza tam
+každý krok lekára, ktorý tam radšej ani nechodí, len keď je absolútne
+potrebné. Ošetrovateľku tie tvory tam hocikedy vyzauškujú, keď sa im
+nepáči. A na všetky dohovárania vždy len jedna odpoveď:
+
+-- Pusťte nás von, psie duše, veď sme sa my sem nežiadaly.
+
+-- Veď hnijete za živa, dievčisko, musíme vás liečiť, veď nám nakazíte
+pol mesta, -- namietne im lekár.
+
+-- Do toho ťa nič, fešáku, nechoď so mnou, ak sa ti nepáčim, a ja sa tu
+pichať, vraždiť nedám. -- Odoprú sa dať preskúmať, odmietajú liečebné
+zákroky, je to s nimi ozajstný kríž. Dávajú im z trestu prázdnu diétu,
+len mlieko a chlieb, nič to, znesú i toto a priateľkyne im vypomáhajú.
+
+To sú nie ľudia. To sú zhovädilé, hrozné bytnosti a podľa toho s nimi i
+zachádzajú. Slovo normálné ony vôbec nepočujú, akoby pre nich vôbec
+neplatilo; treba na nich revať, i tie najmenšie veci dožadovať na nich
+takým tónom, ako bíreš, keď svoje lenivé voly chce z vody vyduriť.
+
+No, pekné veci. Zurianovi vlasy dúpkom vstávaly na hlave, keď si
+pomyslel, aká činnosť čaká naňho.
+
+A fantáziu Zurianovu ešte väčšmi len dráždili. Tu vraj na ženskom
+oddelení je pomerne veľmi slušný poriadok, vďaka železnej energii a
+neúprosnej prísnosti pána primára a jeho pravej ruky, doktora Jaša.
+
+Od neho sa vraj očakáva, že poriadok a disciplínu na oddelení zachová.
+-- Musíš byť ich velitelom, kapitánom, -- vraveli mu.
+
+Celú noc nemohol spať a rozmýšľal, aké stanovisko k dievkam zaujať.
+Ľudsky a slušne to nepôjde, to cítil, lebo má do roboty s tvormi, z
+ktorých tie veci dávno vyhynuly. Bude treba tedy byť prísnym, ako to
+robil doktor Jašo. Lenže, ako to robil? Spýtať sa ho nemohol, lebo od
+Jaša nemožno ľudskej, slušnej odpovedi očakávať. Ošetrovateľky by zas
+hovorily jedna tak, druhá inak. Nie sú nijakými psychológmi, potom ako
+to vyzeralo, aby on, šéf oddelenia, spytoval sa ošetrovateľky, ako má
+poriadok držať.
+
+Ako to len robil doktor Jašo? Reval na nich? Bil ich azda, keď to nikto
+nevidel? To je nemožné. Trápil ich, keď im dával injekcie, či hocičo
+iného? Z toho by bola bývala revolúcia.
+
+V ťažkých starostiach strávil Zurian celú noc. Ráno unavený a vyčerpaný
+pomyslel si: -- Nechajme to osudu. Však on mi ukáže správnu cestu. Mám
+zdravé jadro. Nie som nijakým ozembuchom, aby som v danej situácii
+pravej cesty nenašiel.
+
+A tak vtiahol odpoludnia sám na vizitu.
+
+„Nóbl" oddelenie ho prijalo veľmi rušne. Nemal chuť veľmi sa pozerať
+okolo seba, lebo mal poriadnu trému a bol rád, že nezakopol o vlastné
+nohy, keď chodil okolo postelí. Nebol dnešným chlapčekom v medicíne a
+mal svoju rutinu, lenže o týchto oddeleniach počul toľko zlého, že bol
+celkom pomätený.
+
+Toľko však zbadal, že „nóbl" dámy jeho nútený pokoj náramne baví. Ticho
+si šopkajú medzi sebou: -- Pozri sa, aký je zlatý. Pozri, ako sa
+začervenal. Oh, však je chutnô chlapča. ---- Také a podobné výroky mu
+prišly k ušiam.
+
+Pár ráz vykríkol:
+
+-- Ticho, prosím, -- ale jeho hlas znel tak úboho, oči mal sklopené, že
+dosiahol pravého opaku. Vybuchly všetky tie potvory v bujný smiech.
+
+Rýchlo zmizol zo siene. Bol plný pomstychtivej zúrivosti. No, počkajte!
+Budete ma znevažovať. Však ja vám zahrám, až z toho budete belasé!
+
+Predbežne nevedel, ako im má zahrať, len mal tisíc chutí urobiť ich
+bezočivej veselosti nejaký rázny koniec. Ukázať im, že sú v nemocnici,
+nie v bare, a že majú do roboty s doktorom a nie s nejakým frajerom.
+
+Na jeho veľké prekvapenie, ordinárne oddelenie držalo sa akosi
+statočnejšie. Či azda sám bol už akosi odhodlanejší a pokojnejší? Je
+však isté, že dievky pokojne ležaly, sotva mukly a ich pohľad
+prezradzoval viac akúsi dobromyseľnú zvedavosť, než bezočivosť, akú
+skúsil u „nóbl" dievok.
+
+-- Hej, vy potvory, vy „zachovalé dievčatá", „poblúdilé ovečky", „obete
+osudu", vy „nóbl cháska", -- zúril v sebe, -- vy mi chcete krv piť. Tie
+obludy tu, ktorých som sa najviac obával, sú celkom slušné a vy, samá
+úroveň, samá fráza, samý vzlyk nad krutým osudom, budete si so mnou
+zahrávať?
+
+A zbadal, že sú to najmä niektoré, ktoré poburujú aj ostatné, ktoré sa
+nezmestia do kože a ktorých drzosť nepozná hraníc. A rozhodol sa, že tie
+si dá postupne vyvolať a súkromne sa s nimi vyporiada.
+
+Hej, spraví to tak.
+
+# NEPEKNÉ SPÔSOBY TEĽACIEHO KOLENA
+
+-- Sestra, pošlite mi sem Teľacie Koleno!
+
+-- Kto je to?
+
+Poctivým menom Filomena Nykodémová. Osemnásťročná pokladníčka zábavného
+podniku „Astra". Asi pred týždňom ju prijal Zurian na oddelenie.
+Bacuľaté, ružovo biele, blond dievčisko. Okrúhle ako veľkonočné
+prasiatko, čulá a čiperná ako jašterica, neustále sa smeje, ako by ju
+pavím perom šteklili, a až na tú malú gonoreu, čo ju sem na oddelenie
+priviedla, teší sa výbornému zdraviu. Jej humor a bujnosť sú
+nezničiteľné.
+
+Každý ju nazýva „Teľacím Kolenom". Že prečo, to sa nevie, lebo nakoľko
+si Zurian všimol, mala kolená celkom normálne. Spytoval sa už sestár,
+prečo ju tak nazývajú. Je to vraj jej umelecké meno v bare „Astra" a
+ináče nevedia, odkiaľ pochádza. No, dobre, všetka česť. Podáva sa tu jej
+meno radšej len k vôli historickej vernosti.
+
+Jej prijatie na oddelenie bolo dojímavé. Je nariadenie, že okrem
+predchorobia treba pátrať i po okolnostiach ochorenia. Tedy je
+povinnosťou vyšetrujúceho lekára spytovať sa čo naj dôkladnejšie, kedy,
+ako a najmä kde a kto zapríčinil katastrofu, lebo polícia potrebuje tie
+údaje k vôli zosilnenému dozoru nad pochybnými hotelmi, odľahlými
+miestami veľkomesta. Je to celkom rozumné a je silnou oporou snahy štátu
+likvidovať pohlavné choroby, zničiť ich v zárodkoch tak, ako sa
+vykonožila povedzme cholera, ktorá sa zdala byť kedysi tiež strašnou a
+nepremožiteľnou. Lenže s pohlavnými chorobami je to oveľa ťažšie a
+komplikovanejšie. Snaha a úsilie však je tu a treba ich podporovať.
+Preto bolo treba sa dozvedať od pacientiek čo naj dôkladnejšie okolnosti
+ochorenia.
+
+Ťažká vec pre mladého človeka, ktorý bol naučený k diskrétnosti a
+gentlemanstvu. Človek však naučí sa všetkému a za pár dní už mu je úplne
+jedno a zovšednela, či tak, či onak.
+
+Zurian tu, pri tejto lekárskej tajnosti musel mať trpkú skúsenosť, ktorá
+ho nemálo znechutila.
+
+Denne od jedenástej do dvanástej prijímal primár Ditrich so svojimi
+lekármi ambulantných, dochádzajúcich pacientov. Boly to krásne a
+užitočné chvíle, lebo prišly ta denne nové a nové, nevídané prípady a za
+hodinu oboznámil sa tu Zurian s celou hromadou nových, dôležitých
+príznakov chorôb. Primár Ditrich ho tu zavše priamo skúšal a Zurian
+musel si napnúť krajne pozornosť a vynalezavosť, aby sa nezosmiešňoval.
+
+Medzi týmito ľahkými, doma a dochádzkami liečiteľnými pacientmi bolo aj
+dievča, banková úradníčka. Pred pol rokom sa nakazila syfilidou, z čoho
+si však táto veselá, ináče na pohľad zdravím kypiaca krásavica nič
+nerobila. Prerobila už jednu liečebnú túru, nemala nijakých príznakov
+choroby a nebola by ani prišla na ďalšiu túru liečebnú, keby ju nebola
+nemocnica cestou úradu donútila.
+
+Prichádzala so smiechom, žartovala, na upozornenia nič nedávala.
+Zvrieskla afektovanou bolesťou, keď ju pichli pri injekcii Salvarzanu a
+rozosielala na všetky strany okúzľujúce pohľady. Primár by ju bol
+najradšej donútil, aby cez túru ostala v nemocnici a nespravil to jedine
+k vôli jej úradu, aby sa tam o veci nedozvedeli. Boli by ju odtiaľ
+vyštvali. Mal však od nej sľub a podpísané vyhlásenie, že si je vedomá
+významu svojej choroby a zadrží všetky predpisy nemocnice.
+
+Zurian ju raz zazrel v parku na Námestí Slobody. Sedela na lavičke v
+spoločnosti istého mladého profesora gymnázia, ktorého Zurian dobre
+poznal. Dievča bolo veselé, hlučné, až sa tak ozýval celý park jej
+bezstarostným smiechom. Zurian sa zamračil a odbočil na opačnú cestu.
+Iná by sa utiahla, plakala by a modlila by sa, a tá sa tu rehoce, akoby
+ani nebola včera dostala do žily dôkladnú porciu Salvarzanu.
+
+Za tri dni, keď prechádzal sa cez park, majúc čosi v meste vybaviť,
+videl ich na tom istom mieste. Dievča bolo teraz tiché, držali sa oba za
+ruky a pozerali si dôverne, pritúlené do očú.
+
+Zuriana to pobúrilo. Toto je už viac, ako veľa. Tomuto chlapíkovi naozaj
+nič iného nechybí, než dôkladný lues. Tá nesvedomitá stvora mu to, zdá
+sa, rada uštedrí.
+
+Celý deň ho trápila táto myšlienka. Cítil, že musí nejako zakročiť, kým
+je nie skoro. Možno, ešte nebude.
+
+Na druhý deň po ošetrení zavolal dievča stranou.
+
+-- Slečna, nechcem sa s vami shovárať pred pánom primárom, rád by som
+vás však na niečo upozornil. Viete dobre, že ešte nie ste zdravá a že
+ste vlastne v najnákazlivejšom štádiu svojej choroby. My sme vám čo
+najprísnejšie zakázali akýkoľvek styk s mužskými...
+
+Dievča ho s urazenou tvárou, s hlasom pohoršenia prerušilo:
+
+-- A čože, čo? Čo som spravila? Kto sa opováži o mne niečo tvrdiť?
+
+-- Priniesli mi zprávu, slečna, že nie ste taká zdržanlivá, aká by ste
+mali byť. Nech vám to postačí a vyberte si z toho dôsledky.
+
+-- Ošklivá lož, mrzká pomluva, -- vybuchla a s hysterickým plačom
+odišla.
+
+-- No tak tedy, -- vzdychol Zurian, -- tak je to tedy vybavené.
+
+Kto by však vedel opísať jeho prekvapenie, keď o pár dní nato zasa
+zazrel túto Magdalénu na tej osudnej lavičke. Nik tade nechodil a oni sa
+veselo bozkávali.
+
+Zurianovi sa v očiach zatemnelo. Chcel ta pribehnúť a rozbiť ich, ale
+potom prišiel na smiešnosť svojho počínania. Veď on o ničom nevie. Čo by
+si pomyslel, poruval by sa s ním, ešte aj policajta zavolal a akože
+potom vec vysvetliť.
+
+Cítil oproti tejto nesvedomitej stvore úžasný odpor a nenávisť. Veď je
+to nie žart, čo sa tu robí. Veď je to vedomý, zločinný útok proti
+zdraviu i životu tohoto človeka.
+
+Rozhodol sa, že zajtra všetko ohlási primárovi. -- Ech, nato by zas
+nasledovalo nútené prijatie dievčaťa na oddelenie, a to by ju stálo
+existenciu. V úrade by sa o všetkom dozvedeli a nik viacej nesmyl by s
+nej hlúposťou laikov znetvorené meno syfilitika. Dievčisko nestydaté
+luže, prosbe a hrozbe je neprístupné, zatajila by všetko zasa a nanajvýš
+by sa zariadila obozretnejšie.
+
+Tisícimi obavami mučený zašiel si večer na byt toho profesora, svojho
+známeho.
+
+Bolo po siedmej, prijal ho s kyslou tvárou, pozeral každú chvíľku na
+hodinky, bolo vidieť, že niekoho čaká.
+
+Zurian bol v rozpakoch, nevedel, ako má začať. Bol odhodlaný, ak ináče
+nepôjde, povie mu celkom otvorene, o čo ide. Ľudský život je nadovšetko,
+ten sa musí zachrániť za každú cenu.
+
+-- Pane, -- začal, -- rád by som vás upozornil na jednu vec.
+
+-- No, nech sa len páči, som naozaj zvedavý, -- Profesôrik netrpezlivé
+pozrel na hodinky.
+
+-- Hm, je to tak trošku chúlostivé. Vy dvoríte slečne Svobodovej,
+bankovej úradníčke, videl som vás neraz a ja... ja...
+
+-- No, čože, čo -- odvrkol chlapík podráždene.
+
+Zurian bol v krutých rozpakoch. Utieral si spotené čelo.
+
+-- Ja, ja by som vás prosil, aby ste jej nedvorili.
+
+-- Prečo jej nemám dvoriť, -- rozčuľoval sa profesôrik s tvárou
+podozrivou a ľútostivou, vidiac Zurianove ukrutné rozpaky.
+
+-- Ahá, či azda nie ste tiež... no -- no -- hm...
+
+S posmešnou ľútostivosťou pozeral na Zuriana a potľapkal ho po pleci.
+
+-- No, doktorko, tak ťažko to z vás lezie, priznajte sa už, že ste do
+slečny zúfale a beznádejne zaľúbený a to vás sem priviedlo. No, uhádol
+som?
+
+-- Hej, -- prisvedčil Zurian zdrtene. -- Len vás prosím, veľmi prosím,
+nedvorte jej.
+
+-- Hm, -- profesôrik sa usmial víťazným kikiríkaním bojovného kohúta, --
+trošku divná prosba, to uznáte. No, a čo keď ma slečna miluje? A či ste
+do nej naozaj tak smrteľne zaľúbený?
+
+-- Áno, -- prisviedčal Zurian zroneným hlasom, -- úžasne. Prosím vás
+len, pane...
+
+-- No, tak, no... -- profesôrik skúmavé a ironicky hľadel na neho.
+Prešiel pár ráz izbou, potom napoleonským gestom sa zastavil. -- Priznám
+sa. Slečne som nadmieru sympatický. Mohol by som s ňou robiť, čo chcem.
+No, dosiaľ sa nič nestalo, potešte sa. Na druhej stránke je zas tiež
+pravda, že som zvyklý pri ženách na triumfy a pre mňa táto celá vec
+neznamená viac, ako malé, pikantné dobrodružstvo. Chcem však byť dobrým
+a vidiac vaše zúfalstvo, budem gavalierom, akých je akiste málo.
+Odstupujem, nechám vám pole voľné. Majte si ju, ale dajte si na ňu dobrý
+pozor, lebo slečna je huncút. Tu máte moju ruku, že ju ododneška neznám.
+
+-- Ďakujem vám, pane! -- Zurian so sklopenou hlavou vyšiel. Napoleon
+zavrel za ním dvere.
+
+V bráne srazil sa Zurian so slečinkou. Udychčané chcela vybehnúť na
+poschodie, ale Zurian ju zastavil:
+
+-- Márne tam idete. Neprijme vás.
+
+Dievča sotva pozrelo na neho, bežalo ďalej. Zurian počul, ako klope na
+dvere. Dvere sa neotvorily. Zurian si oddýchol.
+
+Dievča sa vrátilo. Vidiac Zuriana tam stáť, zúrivé ho napadlo:
+
+-- Hej, to ste vy spravili, viem dobre. Viem, ako ste to robili,
+povedali ste mu všetko. Fuj, hanbite sa, vy ste lekár?
+
+Na hlavu Zurianovu sa sosypala hromada najsprostejších nadávok. Stál
+tam, omráčený, rád by bol prehovoril, avšak k slovu sa nedostal. Dievča
+preklínajúc, v slzách odbehlo. Zurian ho nikdy viacej neuvidel.
+
+V duši mu ostal horký pocit trpkosti i upokojenia vykonanej povinnosti.
+Dobre tak, mrmlal si, aspoň jeden človek zachránený.
+
+Nemyslel na to, že je škoda energie a že nalieva vodu do sudu bez dna.
+
+Príchod Filomeny Nykodémovej Zuriana zachytil v prvých počiatkoch. A
+preto bol k nej pri spisovaní jej predchorobia úžasne jemný a krajne
+shovievavý. Hneď pri jeho prvej otázke: -- No, čože. sa stalo? --
+Filomena sa rozplakala. Len tak vzlykala sotva srozumiteľne. -- Keby pán
+doktor len vedel, aké je ona zachovalé a vysoko mravne založené dievča.
+Krutý osud však prenasleduje práve takéto úbohé, nevinné bytnosti a
+takouto obeťou je i ona. Ona vraj minulú nedeľu vo všetkej počestnosti a
+v plnom vedomí svojej mravnej povznešenosti nad ostatný svet vyšla vraj
+na prechádzku. A, ako tak ide, zaujatá vážnymi myšlienkami, okolo
+Vršovíc, počula zvuky verklíkov, trúb i veľkého bubna. Bola pohoršená,
+ale potom cítiac veľké opovrženie oproti tým veciam, pomyslela si, že je
+to jej všetko ako nič, ani si toho nepovšimne, tedy prečo by tade nešla.
+Tak sa dostala tedy do zábavného parku „Edenu", kde sa k nej pripojilo
+niekoľko vybrané oblečených a veľmi slušných mužských, ktorí ju veľmi
+príjemne zabávali. Liezli s ňou v otáčajúcich sa podzemných tuneloch,
+prechodili spolu zakliaty zámok, jazdili na malých trpasličích koníčkoch
+i na slonoch, obzreli si predstavenie pravých, čiernych, krvilačných
+sudánskych kanibalov a vozili sa s ňou po horskej dráhe. Keď sa jej z
+toho, vraj, žalúdok prevrátil, boli veľmi delikátni a ponúkli jej
+osvieženie v malej reštaurácii pri rezkých zvukoch znamenitého
+amerického jazz orchestru, ktorý, vraj, pri temperamentnejších akordoch
+mexického tanga i z revolvera strieľa.
+
+To všetko rozprávala Filomena cez svoje slzy s detskou naivnosťou a
+doktor Zurian, ktorý bol ešte vtedy dobrý a pochopujúci, trpelive
+počúval.
+
+Potom sa, vraj, už stmilo. Bol večer a príjemní spoločníci rýchlo a
+elegantne, ako na povel zmizli a ostali s ňou z nich iba dvaja, ktorí
+boli úžasne milí a galantní a len tak en passant, ponúkli jej malú,
+osviežujúcu prechádzku v okolí „Edenu" v divoromantických končinách
+Vršovíc.
+
+Nakoľko bola tá prechádzka osviežujúca, to nie je ťažko posúdiť, lebo
+dobrá a naivná Filomena je, hľa, tu na tomto oddelení, ktoré pred
+farizejmi a predpojatými nepostráda istej pikantnosti, ináče však je
+vážnym oddelením, ako všetky ostatné.
+
+Nejdem tu nie podrobne opisovať, jedno je však isté, a pán doktor môže
+byť presvedčený, že sa tam odohrala úžasná násilnícka scéna, kde dvaja
+zvrhlí mužskí zneužívali dôverivosti a osamelosti slabej a bezbrannej
+ženy.
+
+To sa vôbec nedá vysloviť, čo som ja od nich vytrpela.
+
+-- Bruhu-hu-hú! -- Filomena sa topila v slzách a Zurian dojatý až do
+hĺbky duše, slzil tiež. Potom sa však premohol.
+
+-- Nič to, dieťa, nič. Neplačte už, bude všetko dobre. Viem, viem,
+nemusíte to stále opakovať, viem ja, že i pokladníčka zábavnej
+miestnosti môže byť vysokej mravnej úrovne. Ostane a žiari v tom kale,
+ako svätojánska muška v tráve v noci, či povedzme, ako omylom vyhodená
+pravá perla na hnojišti. Chápem ja vás dokonale, precítim ja váš žiaľ.
+Však to zajtra ohlásim pánu primárovi a on už zavedie patričné
+vyšetrovanie. Nie, tým zvrhlým zločincom to neodpustím, však ich polícia
+na základe vašich údajov vypátra a príkladne potrestá.
+
+Utrite si slzy, slečna Nykodémová, a buďte už teraz pokojná. U nás ste
+na dobrom mieste. My vás vyliečime. Ale o jedno vás prosím. Mám tu na
+oddelení ťažkú prácu. Dievčatá sú hrozné, samopašné a neskrotné. Buďte
+mojou spolupracovníčkou. Pomôžte mi medzi nimi udržať poriadok. Vám,
+ktorá smýšlate tak úctyhodné a povznesené, pôjde to ľahko. Dohovárajte
+im. Vysvetlite im, že sú tu v nemocnici, že všetko, všetky svoje činy i
+myšlienky musia postaviť do služieb jedného spoločného cieľa, aby sa čím
+skorej vyliečily. Dbajte na nich, aby sa držaly vážne, vysvetlite im, že
+im škodí pohybovať sa a preto nesmú tancovať, keď sestry tam niet.
+Vyložte im, že im škodí zaoberať sa nemravnými myšlienkami a preto nech
+také reči nevedú a nech nešuškajú medzi sebou celý deň len o ošklivých
+veciach a miesto Casanových dobrodružství nech čítajú bibliu alebo
+nejaké cestopisy, či iné vážne a povznášajúce veci. Sľúbte mi to,
+slečna, že mi budete pomáhať udržovať úroveň siene a ja vám zasa sľúbim,
+že vynaložím všetku námahu, len aby som vás čím skorej vrátil zdraviu a
+vášmu peknému, dôstojnému životu, ktorý je tým úctyhodnejší, lebo ho
+vediete v takom zamorenom okolí.
+
+A Filomena sľúbila a už sa usmievala cez svoje slzy. A Zurian dojaté ju
+odovzdal sestre, ktorá jej ukázala miesto na oddelení.
+
+Na druhý deň ju predstavil pánu primárovi a referoval o tomto
+neslýchanom násilníckom prípade, aký môže zrobiť len bezmedzná zvrhlosť
+veľkomesta. Pán primár vypočul referát bez poznámky, len nakoniec
+zažmurkal významne na doktora Jaša, ktorý bol tiež prítomný.
+
+-- Prineste ten chorobopis po vizite do ambulatoria. -- Filomena
+vzlykala i za vizity, kým jej pribeh čítal a len sotva vedela odpovedať
+na primárove otázky.
+
+Zurian bol zvedavý, čo chce primár s jej chorobopisom. No, napokon sa
+dozvedel.
+
+-- Toto miesto, -- ukázal mu na riadky, kde písal o znásilnení Filomeny,
+-- musíte opraviť. Filomena je naša stará známa a niet ani najmenšieho
+dôvodu uveriť jej nejakú rozprávku, že ju museli dobývať násilím. A
+vôbec buďte opatrný pri počutí takýchto vecí, lebo dievky vám toho
+narozprávajú. Preto najlepšie bude, keď tú vec dôkladne opravíte a potom
+opíšete.
+
+-- Poďte so mnou, -- povedal mu doktor Jašo, keď primár odišiel. Nechal
+si Filomenu vyvolať. -- Tak čo, -- zreval na ňu, -- koľko vám platili tí
+fešáci pred týždňom za to znásilnenie? Ty líška zatratená, len tu táraj
+hlúposti, já ti dám doktorov balamutiť! Co si to natrepala pánu
+doktorovi?
+
+-- Keď je on taký zlatý, -- koktala Filomena cez slzy, -- tak som sa
+hanbila, nemohla som mu pravdu povedať.
+
+-- Tak bežte k čertu.
+
+-- No, vidíte, -- obrátil sa na Zuriana. -- Dievky sú také. Dávajú sa
+znásilňovať za sto korún, za päťdesiat i za päť, ba niekedy i zadarmo.
+
+Zurian bol blamovaný a Teľacie Koleno sa mu stalo veľmi odporným.
+
+Na druhý deň pri vizite ani sa nemohol na ňu podívať. A škoda veru, lebo
+by bol zbadal, ako milo a dôverne sa na neho usmieva. No však, čo mu
+nenapadlo dnes, zdalo sa mu už viditeľnejším zajtra.
+
+Sotva vkročil do siene, prvou vecou Filomeny bolo, že džugla do boka
+svoje susedky, aby dávaly pozor, čo teraz bude. Rýchlo vytiahla malé
+zrkadielko a napudrovala sa. Potom si vzala rúž a dlho a pečlive si
+trela pery, že svietily zďaleka, ani jahoda v tráve. Robila to pekne,
+pohodlne, za všeobecnej pozornosti ostatných a medzitým vysielala na
+doktora okúzľujúce pohľady.
+
+Vedel to všetko podrobne, lebo mu to spravila každý deň. Keď už bol pri
+jej posteli, všetko pomaly odkladala a dívala sa na neho neustále svojím
+najsladším úsmevom.
+
+-- Pán doktor, je to už lepšie so mnou? -- spýtala sa potom hláskom
+takým sladkým, až sa Zurianovi žalúdok prevrátil. Opanoval svoju zlosť a
+odpovedal hlasom, ako len mohol pokojným, hoci všetko vrelo v ňom nad
+jej bezočivosťou.
+
+A tak to znášal za dlhý čas, lebo nechcel sa oddať zlobe a stať sa ešte
+nápadnejším.
+
+Impertinencia tohoto dievčaťa však so dňa na deň rástla. Kládla mu so
+dňa na deň viacej otázok. Spytovala sa na všelijaké hlúposti a jedinou
+Zurianovou zbraňou proti nej bolo, že sa díval na ňu vždy zachmúrenej
+šie a odmietavej šie. Dával jej úsečné, krátke odpovede, alebo nič
+nepovedal, ale cítil vždy väčšiu a väčšiu zlosť, ktorá vyrástla v
+bezmocnú zúrivosť.
+
+Celá „nóbl" sieň už tak čakala na chvíľu, keď pristúpi k jej posteli,
+ako na najzaujímavejšiu scénu kabaretu. Len aplaus chybel, ale boly
+miesto neho neskrotné výbuchy násilne tlmeného rehotu.
+
+Cítil sa škandalózne biedne.
+
+„Teľacie Koleno" mu pije krv a zmrzačí mu život.
+
+# SIC ITUR „AD ASTRA"
+
+-- Hej, sestra, zavolajte mi sem Nykodémovú, alias Teľacie Koleno! -- Už
+to ďalej neznesie. Dnes praskla struna Zurianovej trpezlivosti. Sestra
+šla pre ňu a doktor Zurian ju čakal s akousi úzkosťou. Bál sa tej scény,
+bál sa vlastného hnevu, alebo toho, že neuhadne pravý tón a vo svojom
+hneve nebude celý, dokonalý. Nestačí, keď jej len nadá, musí získať nad
+ňou prevahu. Hej, absolútnu prevahu, aby so ho nielen bála, ale aby k
+nemu zľahostajnela a v ňom nič iného nevidela, len svojho lekára. Musí
+si získať nad ňou úplnú istotu, a to i pri práci, aby sa mu pri
+ošetrovaní neokúňala, neafektovala. Aby sa mu ruka netriasla od zlosti,
+keď ju ošetruje. Nech už čím skorej vylieči tú potvoru. Len ju vyduriť
+odtiaľ, nech ide už zpiatky do svojej „Astry". Zbaviť oddelenie
+rakoviny, ktorá mu ta vnáša anarchiu.
+
+A dobre robil, že cítil neistotu. Lebo tak to bývalo so Zurianom, že keď
+bol o niečom veľmi istý a o úspechu nemal ani najmenšej pochybnosti, tak
+akoby na truc od Lucifera sa mu tá vec alebo nevydarila, alebo akosi
+celkom krivo vypálila. A zasa, keď bol úplne neistý a trápilo ho tisíc
+pochybností úplne zbytočných, šlo všetko prekvapujúce krásne. Bol už
+celkom poverčivý a vlastne sa i tešil svojej neistote, lebo zo
+skúsenosti vedel, že z nej sa rodí v ňom akási dobrotivá, okamžite
+sostavená inšpirácia, ktorá celkom pudové vždy udrie ta, kam patrí.
+
+A neraz sa aj celkom chytrácky zariadil, nútiac sa akosi profylaktický
+do pochybností, k vôli tej dúfanej inšpirácii a bolo to dobré i preto,
+že v prípade nezdaru nespadol s takej výšky a plaziac sa už napred po
+všelijakých kútoch a podzemných dierach pochybností, stávalo sa, že
+nespadol vôbec.
+
+A Filomena už prichádzala, ale ako prichádzala. Jej chôdza bola
+kombinovaným umením mrndoľania a preťahovania sa lenivej mačičky a
+milého, lichotivého obšmietavania sa malého, hodvábneho psíčka okolo
+svojej panej. A k tomu jej oddaný, sladký úsmev, ktorý nezarazil a
+nezakríkol ani doktorov hrozivý postoj, ani jeho nevľúdny pohľad!
+
+A vidiac ju takto ísť, uchvátila ho akási vnútorná spokojnosť. Cítil, že
+prichádza inšpirácia, mal už po starosti. Len sa jej oddať. Teraz už
+myslieť nemusel. Bol už len hercom, ktorý len recituje akúsi rolu, ktorú
+mu našopkáva ktosi neviditeľný.
+
+-- Tu som, pán doktor, rozkážte, -- plynul med s „ružových" perí tejto
+sladkej bytnosti.
+
+-- Ďakujem vám, sladké dieťa, že ste sa obťažovali. Mám vám niečo
+povedať.
+
+Prekvapene pozrela na neho, potom sa začervenala. -- Rozkážte? --
+vykoktala.
+
+-- Hej, ale tu vám to nemôžem povedať, preto vyjdime azda na poschodie
+do malého laboratória, -- oznamoval jej hlasom tajomným, -- tam aspoň si
+môžeme byť istí, že náš rozhovor nik nepočuje.
+
+Dívala sa na neho s rastúcim obdivom i rozčúlením. Zurian cítil, že sa
+úlohy vymenily, a to ho len ešte väčšmi inšpirovalo.
+
+Zaviedol ju do tej spomenutej miestnosti a s ceremoniálnou zdvorilosťou
+ukázal jej miesto oproti sebe na plyšovom foteli pána primára.
+
+-- Ešte niečo, zlaté dieťa. Mal by som rád úplnú istotu, že sme tu úplne
+nerušení. -- Jeho hlas stíchol, až prešiel úplne do šepotu plného nehy.
+-- Preto by som vás prosil, slečna Filomena, vyjdite odtiaľto opatrne a
+veľmi šikovne sa rozhliadnite na chodbe a podívajte sa i na schody, či
+sem niekto za nami neprišiel, či sme tu celkom iste celkom sami.
+
+-- Hej, -- odpovedala ledva slyšateľne, -- presvedčím sa. -- S mačacou
+šikovnosťou sa vyplúžila na chodbu.
+
+O chvíľku prišla hlásiť, že tam nik neni. Teraz už bola bledá. V očiach
+jej svietily nádej a pochybnosť.
+
+„Psychické trauma", -- prebehlo Zurianovi hlavou, ako sa na ňu tak
+díval.
+
+-- Poďte sem bližšie, -- šoptal, -- a podajte mi ruku. -- Cítil, ako sa
+jej chveje ruka v jeho dlani, -- a sadnite si.
+
+Zurianova tvár obliekla si slávnostný výraz.
+
+-- Slečna Nykodémová, už dávno čakám na príležitosť, aby som vám mohol
+niečo oznámiť.
+
+Bola bledá a pery sa jej chvely. Zurianovu dušu naplnila divá radosť,
+ako sa tak na ňu díval.
+
+-- Slečno Nykodémová, ste si istá v tom, že tam vonku nikoho niet a že
+nás nik nemôže počuť?
+
+-- Hej, -- znela jej tichá odpoveď.
+
+-- Filomena, -- riekol tíško.
+
+Prestávka.
+
+„Psychické trauma," dralo sa mu zasa na myseľ, „dobre vypočítaný, tvrdý
+úder päsťou do duše, ktorá čaká hladkanie lásky. Ťažké duševné ublíženie
+bez trestajúceho paragrafu. Avšak poďme ďalej." Hlboko sa jej podíval do
+očú.
+
+-- Dieťa, vy sa mi vždy len smejete.
+
+-- Óh, -- vydralo sa jej z pŕs.
+
+Prenikavé sa na ňu díval. Chvela sa pod jeho pohľadom.
+
+„Pokojné jazero je moja duša," prebehlo mu hlavou akosi reflektívne.
+„Chcem však, aby sa rozbúrila. Nech zaduje vetrík; prvá vlnka. Jazero sa
+začína vlniť."
+
+-- Smejete sa mi, dieťa.
+
+Ďalšie vlnky jazera jeho duše:
+
+-- A don Juanove tri noci čítavate?
+
+Vietor silnejšie duje, vlny sa zosiľujú.
+
+-- Dieťa, -- riekol Zurian pološeptom, -- a vždy sa len pudrujete, keď
+ma zazriete. Viete, čo to znamená?
+
+-- A svoje malé pery rúžom farbíte. Viete, čo to je? -- Zurianov hlas
+stíchol vždy viac a viac. Hej, uprostred jazera pod krutým víchrom, pod
+čiernym nebom utvorí sa obrovský vodný stĺp...
+
+-- Celé oddelenie sa na vás díva, však, Filomena?
+
+Vodný stĺp uprostred jazera jeho duše stále rastie, už-už sa dotýka
+čierneho neba.
+
+-- A robíte mi také ťažké starosti. Priblížil sa k nej; chvela sa na
+celom tele.
+
+-- A prečo mi to robíte, dieťa, prečo? Zurianov hlas odumieral. V jazere
+jeho duše vodný stĺp sa dotkol nebies. Teraz vrazí do neho so všetkých
+strán obrovská záplava bleskov, ktoré ho roztrieskajú v ohnivé kvapky.
+Zem a nebo sa zatrasú pod výbuchom.
+
+Jeho päsť udrie plnou silou do stola, prerušiac tiesnivé ticho a zreve
+na ňu:
+
+-- Lebo si sviňa! Si ohavná obluda, si vredom ľudstva. Ty potvora mrzká,
+podívaj sa na mňa. Fuj, ako ťa nenávidím, aká si mi hnusná. Ty sa
+opovážiš na mňa usmievať, ty, dievka z ulice. Ty, ktorá nič nevieš, len
+toľko, ako každá suka, ktorá však je oproti tebe vrcholom mravnosti. Ty
+špinavá handra, ty sa opovážiš koketovať so mnou, znemožňuješ mi prácu,
+mne, ktorý len jej žijem, ktorý jej chcem venovať svoj život.
+Znemožňuješ mi preto, že to šteklí a dráždi tvoj zverský pohlavný pud.
+Tak a teraz môžeš ísť. Marš von!
+
+Vysotil ju zo dverí.
+
+Vzdychol. Nykodémová je odbavená.
+
+A nesklamal sa. Nikdy sa už viac ráz v jeho prítomnosti neusmiala, nikdy
+sa už na neho nepodívala, Priateľky z nej slova nedostaly.
+
+Po troch týždňoch bola prepustená, zdravá.
+
+Môže ísť do svojej „Astry" nakaziť sa čím skorej znova.
+
+Neprijal ju, keď mu od sestry dala ohlásiť, že chce sa mu poďakovať za
+liečenie.
+
+# JAŠOVA RÍŠA
+
+Venerologia, najmä liečenie gonorey-kvapavky, má niekoľko pravidiel,
+ktoré aj učebnice s väčšou-menšou presnosťou vyznačujú. Zachovávanie
+týchto pravidiel pripomínavajú pacientovi aj odborní lekári, a to hneď
+pri prvej porade. Tieto rady učebníc a lekárov sú takéto:
+
+Striedmosť v jedle, najmä pred spaním. Odporúča sa nepiť vôbec
+alkoholické nápoje, nanajvýš nejaký ten pohárik červeného vína. Nejesť
+príliš korenené, kyslé, či paprikované jedlá, starý syr, v octe
+nakladané šaláty, zeleninu, zverinu.
+
+Pohybovať sa čo najmenej, nijaký šport, tanec, úplná pohlavná
+zdržanlivosť.
+
+To sú asi hlavné pravidlá, v hrubých črtoch podané. Pacienti mimo
+nemocnice, v ošetrovaní súkromných lekárov ich ako-tak zachovávajú. To
+však neznamená, aby, idúc ráno do svojho zamestnania, nerútili sa za
+elektrikou ako diví tigri. Najmä keď prvé bolestivé príznaky prestanú.
+Majú dojem, že sú už skoro zdraví. No, nález mikroskopu ešte
+neuspokojuje, ale čože keď ich nie nebolí. Prečo by si trochu kedy-tedy
+nevypili, „solídne" nezatancovali, nepohybovali sa v ženskej
+spoločnosti, nedvorili?
+
+A takto zmrzačia prácu lekárovu. Lekár si z toho veľa nerobí. Je už
+dávno zvyklý na vleklý priebeh choroby. On sám je odchovancom
+skeptických nemocníc. Jeho vlastný učiteľ, u ktorého kedysi praktikoval,
+sám neveril vo vyliečiteľnosť tejto choroby. Ako by mohol to očakávať od
+ním vychovanej lekárskej generácie?
+
+Väčšina nemocníc vôbec tejto diéty nezachová. Pacienti dostávajú divé
+guláše, mäso a stále mäso, počínajú si na oddelení, ako sa im páči.
+Známi im prinášajú neraz aj liehoviny a likéry.
+
+Na tomto oddelení primára Ditricha a jeho sekundára doktora Jaša tieto
+lekárske predpisy oživly. Mŕtve slovo dostalo dušu a obsah. Stály sa
+smyslom života týchto ľudí. Žili v znamení týchto predpisov, ako žije
+vojak v kasárni.
+
+Tu pacient mäsa neuvidel, kým nebol „negatívny". A to niekedy týždne a
+týždne. Tu jedol len to, čo mu dali, lebo štyri svedomité sestry dávaly
+neustále pozor, aby si pacienti jedlá medzi sebou nevymieňali a aby im
+navštevujúci príbuzní nič neprinášali.
+
+Doktor Jašo svoj personál, sestry, priamo zterorizoval. Drtil ich a
+moril každú minútu dňa. Nikdy mu nič po vôli urobiť nemohly, nič sa mu
+nepáčilo, reval na ne, nadával im, ako psom:
+
+-- Ak sa vám nepáči, s Bohom. Ani minútu vás tu netrpím. Alebo sa
+prispôsobíte a budete držať na oddelení poriadok, alebo môžete ísť.
+
+Ošetrovateľky, nažívajúce v stálom nervovom napnutí, slepo ho poslúchaly
+a plnily jeho rozkazy.
+
+Tu nebolo, ako na iných oddeleniach, žeby sa sestry okúňaly, škľabily
+sa, robily na slová doktorove poznámky, lenošily, žvatľaly a klebetily.
+Tu boly ako svedomité stroje, lebo ich doktor Jašo naháňal a za jeho
+slovom stál vždy sám primár.
+
+A tak rozhorčenosť sestár, týchto štvaných otrokýň, sa vybíjala proti
+pacientom. Sliedily a špehovaly, čo kde môžu Jašovi hlásiť, aby jeho
+dobrú vôľu získavaly, vypátraly všetko, pacienti nemohli slova povedať,
+zapáliť si na cigaretu, prijať dary príbuzných, prejsť cez sieň, aby to
+sestry Jašovi neudaly.
+
+A Jašo bol krutý.
+
+-- Pane, tu ste v nemocnici a nie v bare, tu sa musíte prispôsobiť. Tu
+nesmiete jesť olejovky, rybyčky, čo vám milá prinesie. Tu sa musíte
+živiť tým, čo vám predpíšeme. Sestra, tento človek dva týždne nedostane
+návštevy. Zaznačiť!
+
+-- Pane, vy ste fajčili tu v sieni, hoci dobre viete, že je zakázané.
+Stalo sa to už po druhý raz. Ak si tu ešte raz zapálite, prepustím vás z
+oddelenia. Doliečte sa, kde chcete. Sestra, tento muž dostane sedem dní
+prvú diétu. -- Prvá diéta znamenala stravu, kde pacient dostáva len
+mlieko a čaj.
+
+Jašo vykonal ukrutné exekúcie. Jedného dňa mu sestry hlásily, že traja
+pacienti shovárajú sa s prostitútkami s poschodia, cez lift, kde sa z
+kuchyne jedlá spúšťajú. Jašo bol skoro bez seba a prepustil ich z
+oddelenia.
+
+Denne sa robila „literárna kontrola". Toto sveril na Zuriana. Jeho
+úlohou bolo zhabať od pacientov všetko, čo ich obrazotvornosť v
+pohlavnom smere dráždi. Smeli čítať len poučné veci, cestopisy v
+mravných krajinách, nijaké ľúbostné romány, nijakých Bocacciov a
+podobných spojencov a podporovateľov gonokokov.
+
+Nikdy sa nestalo, že by bol niekto dostal z pacientov dovolenku. V tej
+chvíli, ako bol prijatý, odňaly mu sestry šaty, dostal pruhovanú
+bielizeň nemocnice a nikdy ani na dvor ho nepustili. Mohla mu umierať
+matka, mohol mu horieť majetok, dva-tri mesiace, kým choroba trvala, bol
+väzňom oddelenia.
+
+V primárových, ale najmä v Jašových železných rukách, chabé, často
+zanedbané predpisy venerologie vyrástly v zákony, zmenily sa v
+náboženstvo, nad ktoré nebolo odvolania. A -- všetka česť -- bolo to tak
+správne, o tom sa Zurian zanedlho na vlastné oči presvedčil. Bolo toho
+treba, lebo len tak mohli dosiahnuť toho utešeného výsledku liečebného,
+ktorý toto oddelenie primára Ditricha preukázalo.
+
+Jašova krutá, neľudská povaha, jeho obmedzený despotizmus boly tu na
+mieste. Všetka česť.
+
+Pacienti sa tu necítili doma, nerozťahovali sa, nehašterili medzi sebou.
+Boli skromní, pri stálom vedomí, že sú v nemocnici a stoja pod dozorom,
+nemali tu iného cieľa životného, len ten, čo im Jašo sám vytýčil: čím
+skôr ozdravieť a ísť domov s Pánom Bohom.
+
+Čas trávili v tichom rozhovore. Jašo nemal rád ani toto, lebo, vraj, sa
+len zbytočne balamutia, ale tomu sa zabrániť nedalo.
+
+Zurian, ktorého primár Ditrich predbežne nezadelil, aby si najprv získal
+všeobecné poňatia o celom oddelení, o mužských i o ženských, zdržoval sa
+v ten čas naj viacej pri mužských.
+
+Raz odpoludnia nevolky stal sa svedkom ich rozhovoru. Sedeli všetci
+okolo postele nového pacienta Polanského, ktorý im, zdá sa, predsedal.
+
+Ani ho nezbadali, keď vošiel a súdiac, že čo dvadsať ľudí a dve
+ošetrovateľky počuť môžu, to nemôže byť veľkým tajomstvom, utiahol sa
+pekne-krásne do kúta a načúval rozhovoru.
+
+Ktosi práve skončil svoje vypravovanie a Polanský, ktorý bol asi
+predsedom tohoto sbromaždenia, prehovoril:
+
+-- Je na rade pán Čmuchal, četnícky strážmajster, nech nám povie, ako
+prišiel k tejto detskej chorobe.
+
+-- Nie som nijakým krásavcom, páni moji, -- začal Čmuchal, -- ale zato
+ženy ma vždy akosi milovaly. Nechcem hovoriť o svojich triumfoch. Tých
+má dosť každý na niečo súci chlap, ak je len nie zbabelcom. Chcem
+hovoriť o príčine svojej choroby a to tiež len celkom krátko. Asi štyri
+mesiace som chorý. Týždeň pred svojou svadbou som sa nakazil. Moja žena
+má sedemnásť rokov a bola mojím dávnym ideálom. Týždeň pred svadbou, ako
+to už býva, boli sme „lumpovať". Pilo sa až do prevrátenia žalúdkov a
+nechybely ani spoločnice. Nočné motylky, podozrivé dcérky barov a
+krčiem. Jedna z nich sa mi prilepila na krk a nemohol som sa jej zbaviť.
+Či azda, aby som úprimne povedal, ani som veľmi nechcel. Bol som o sebe
+istý. Moju dušu naplnila milovaná, živá pamiatka mojej lásky, mojej
+nastávajúcej ženy, čo však, myslel som si, nebráni mi v tom, aby ma
+tento nočný tvor tu, v tejto veselej chvíli trochu baviť nemohol.
+
+Však ma i bavila a stávala sa čím ďalej, tým dotieravejšou. Ja som však
+odporoval. Nato, mysliac asi, že som špinavým, lakomým človekom, začala
+ma tešiť; udala mi cenu svojej lásky, vychvaľujúc to, čo mi za túto
+miernu sumu poskytnúť môže. Podíval som sa na ňu s boku. „Ty potvora
+mrzká," pomyslel som si, „keby som sa s tebou stretol vo dne, ani by som
+so svoje zablatené čižmy do teba neutrel, nie veru, keby si mi zaplatila
+sto ráz toľko, koľko odo mňa žiadaš."
+
+Takto som si filozofoval a pritom spravil tú veľkú chybu, že som ju hneď
+od seba neodohnal. Lebo bola neúnavná vo svádzaní. Začala sa mi vešať na
+krk, a tu ma opustily sily. Nie preto, že som bol opitý. Znal som tú
+svoju vlastnosť ešte zo stavu triezveho. Je to moje prekliate dobré
+srdce, ktoré takejto svrchovanej, intímnej prosbe odolať nikdy nevedelo.
+Keď sa ma žena dotkne, som stratený. Krv, ako keby sa mi naraz zmenila v
+limonádu, opustia ma sily, stratím schopnosť reči a som hluchý a
+bezmocný, ako tokajuci tetrov. Hanbím sa priznať, páni moji, ja, ktorý
+som sa ako četník, toľko ruval, strieľal, mlátil, bojoval, pod dotykom
+ženskej ruky stávam sa, ako vrece múky, bezvládnym a upadnem úplne do
+moci tých krvilačných potvôr.
+
+Tak sa to stalo i vtedy v noci. Oči sa mi zavrely, ani neviem, čo a ako
+bolo ďalej.
+
+Ráno som sa okúpal, drhol som sa dlho a dôkladne, aby som smyl so seba
+dotyk tej cudzej ženskej a modlil som sa v duchu, aby mi Pán Boh
+odpustil ten mrzký hriech mojej slabosti a aby moja láska nikdy nebola
+takou necharakternou. Aj som sa na druhý deň už upokojil, zabudol na
+hanebnosť a myslel som, že je celá vec odbavená. Na tretí deň ráno však
+pozdravila ma hnisavá kvapôčka na konci močovej trubice. „Bon jour,"
+povedala mi. „Nazdar!" odvetil som. Srdce mi svierala rozhorčenosť,
+cítil som ruku osudu nad sebou a vedel som, že svoju hanebnosť musím
+odpykať. O štyri dni bola svadba a o týždeň opustil som svoju mladú
+ženu, ktorej som nikdy nepoznal, aby som vandroval od lekára k lekárovi.
+Jeden viacej skopal moju chorobu, než druhý. Svojej žene nahovoril som
+čosi: zápal stredného ucha, či slepého čreva, už sám neviem. Nuž a
+napokon zunujúc zhubné machinácie pánov špecialistov-fušerov, uchýlil
+som sa do nemocnice.
+
+-- Dobre, -- povedal Polanský, -- nasleduje pán Král, strojový zámočník,
+nech nám rozpovie, ako získal svoju populárnu chorobu.
+
+-- Ejha, -- žvatľal Král, chlapisko degenerovaného zovňajšku, -- ako som
+k tomu prišiel? Dobre! Za desať korún v istej uličke, v istom dome,
+ktorý mladíci dobre poznajú. Mal som u tej dievky protekciu, lebo iného
+to stojí aj vyše dvadsať korún. To bolo však, pánovia, už dávno, vari
+pred troma rokmi. Od tých čias raz som mal tú chorobu, raz nemal. Prešly
+niekedy i dva mesiace, čo mi zmizly všetky príznaky. Hnisavý výtok z
+močovej trubice prestal, nemal som ani najmenšieho nepríjemného pocitu.
+Pri prvej lumpačke však sa mi to všetko vrátilo a veru neviem, či som
+chytil gonoreu vždy znova a či sa mi vracala vždy tá stará. Lebo, akiste
+všetci viete, pánovia, ako je to. Neviem vám to tak učene vyložiť, ale
+cítim dobre, ako to asi bude. Následkom liečenia, avšak neporiadneho,
+behom času gonorea prejde do chronického, vleklého štádia. Hojnosť
+gonokokov z výtoku vymizne a oni sami väčšinou vykapú. Ostane v rúre
+močovej len ich starý ded, ten prvý, najstarší a má nanajvýš len
+niekoľko svojich druhov do rezervy. Dlhú šedivú bradu má tento starý
+gonokok, pokojne si sedí a zíva kdesi ukrytý v hĺbke krycích buniek
+močovej rúry. Nebúri sa už, nespôsobuje hmsanie, nechá svojho nositeľa
+na pokoji. Len leží tam a taroky hráva si so svojimi priateľmi. Náhle
+však ho niečo vyruší a býva to požitý alkohol, ktorý močovú rúru dráždi
+a pohlavné rozčúlenie, hneď vyskočí tento starec a rýchlo sa lúčiac so
+svojimi druhmi, ponáhľa sa, aby dosiahol novej pôdy výživnej, čo býva,
+ako známo, zasa len močová rúra a vôbec pohlavné ústroje ženy. Takto som
+vyplašil neraz tohoto starého deda v opojení alkoholu, alebo i bez toho.
+Tak, ako som ho ja dostal kedysi, tak som ho odovzdal nesčíselným ženám.
+Pomstil som sa za svoju nákazu. Keď ju ja môžem mať, môže ju mať aj iný.
+Prišla na mňa celá kopa policajných udaní od nakazených žien, ale vezmi
+čert. Odsedím to a náhle ma odtiaľto pustia, bude všetko po starom.
+
+-- Beštia, -- poznamenal ktosi z poslucháčov, ale Polanský skríkol:
+
+-- Ticho, nijaké poznámky. My tu teraz chceme počuť príbehy a nie
+kritizovať. To si vybavte, komu sa chce, medzi sebou. Nasleduje pán Igor
+Durana, absolvent konzervatória, umelec na husliach.
+
+Oslovený bol mladý chlapec, dievčenskej ružovej tvári a nežnej, jemnej
+povahy. Bol akoby pravým opakom predošlé hovoriaceho.
+
+Bol to Slovák, Zurianov krajan, ktorý vediac, že je Zurian v Prahe, v
+letenskej nemocnici, na venerickom oddelení, písomne ho prosil o radu.
+Ide vraj u neho o kvapavku, ktorú si darmo lieči už viacej mesiacov. Ako
+člen veľkého filharmonického orchestra je v krutej situácii, lebo svoje
+povolanie ďalej konať nemôže, je v nemožnom duševnom stave a týmto mu
+zas hrozí strata miesta. Prosí tedy, čo si má počať.
+
+Zurian mu hneď napísal, aby si vzal zdravotnú dovolenú a došiel na
+liečenie k nim do Prahy. Igor to i urobil. -- Bol to chlapec tichej,
+ostýchavej povahy, tým viacej Zuriana prekvapilo, že sa tu naraz tak
+rozhovoril.
+
+Načúval jeho rozprávaniu.
+
+# NAIVNÉ VYPRÁVANIE NEVINNÉHO IGORKA
+
+-- Ech, páni moji, akože mám začať? Keď som mal triadvadsať rokov,
+skončil som práve štúdiá a a tatko môj kúpil mi zlaté hodinky s
+vodotryskom. Hodinky mi kúpil môj tatuško zlatý, šatočky akoby na mňa
+uliate, topánky lakové, čo mi len tak klopkaly klip-klap, klip-klap a
+lesklý sa, že i lúč slnca padol na brucho, keď sa do nich zakopol. On
+sám zaviazal mi mašličku pekne, moderne a čistil kefou z predu i zo
+zadu. Si ako princ z rozprávky, -- riekol mi so sebavedomou pýchou a keď
+videl, že sa hanblivé pýrim, pobozkal ma na ľavé líce a nežne pohladil
+moje hodvábne vlásky.
+
+-- Len hore hlavu, dieťa moja. Veď je už hotovým človekom, môj syn
+maličký. Si sám sebe pánom, môžeš ísť do boja života, pripravil som ťa
+dostatočne. Nemám strach o teba, lebo viem, že obstojíš. Hocikde budeš,
+získaš si všade dôstojné miesto v spoločnosti ľudskej, lebo zaslúži to
+tvoja vzdelanosť a budeš mať sympatiu svojich blížnych, lebo má na to
+nárok tvoja čestná, priama a nežná povaha. Tu na tom poli nemám strach o
+teba. Inde čaká na teba nebezpečenstvo: so strany žien. Na tie si musíš
+pozor dávať. Veľa som ti už hovoril o tých bytnostiach, ktoré od malička
+sú vychované na boj proti tebe. Varoval, chránil som ťa pred nimi
+úzkostlivé, a len keby ti dal Pán Boh dosť sily i naďalej, aby si sa do
+ich pazúrov nedostal.
+
+Oči mi zablysly, vyskočil som so stoličky a s plamennou tvárou som
+povedal oteckovi: „Tatko môj zlatý, za takého slabocha ma pokladáš? A či
+ti je nie dostatočnou zárukou celý môj doterajší život, len vede a
+umeniu venovaný, aby si mi dôveroval do budúcnosti?" Slzy sa mi draly do
+oču od horkosti a žiaľu: môj otecko mi neverí!
+
+Ledva ma utíšil: „No, veď nie, nie, dieťa moje, už nebudem tak hovoriť,
+vidím, ako ti nemilo padne moja žiarlivá nedôvera. Áno, žiarlim na teba.
+Žiarlim na svojho syna, ktorého som vychoval pre vedu a pre nesmrteľné
+krásne veci, a mám strach z tých povrchných, krutých, sebeckých
+bytností, z dievčat. Ale nebudem už tak hovoriť. Nesmiem zabíjať v tebe
+sebadôveru. Ba práve naopak: zosilňovať ju musím a preto počuj, synáčku!
+Dnes pôjdeš von, do mesta sám, celkom sám, bez môjho gardovania. A môžeš
+tam byť, ako dlho chceš. Môžeš prísť domov i zajtra ráno. Tu máš
+peniaze, zariaď sa s nimi, ako chceš. Počkaj, nezabudni doma zrkadielko
+a čistú vreckovku. Tak, a teraz choď. Verím ti, dôverujem, viem, že
+všetko povieš svojmu tatíčkovi. Len choď, otužuj sa a ak si nevieš
+niekdy rady, spomeň si len na mňa, na moje slová."
+
+Ešte raz pohladil moje vlásky. „Daj si pozor na šatočky," riekol a
+pustil ma. Pobozkal som mu ruku a šiel von. Vo dverách ma zastavil a
+zavolal nazpäť. Sňal mi s kabáta dlhú, bielu nitku. -- Tak, a teraz
+môžeš ísť. Daj si pozor na elektriky, na vozy a na automobily, aby ťa
+nepovaliľy, blatom neofŕkaly. -- -- Áno, tatuško, budem si dávať pozor.
+Ruky bozkávam!
+
+-- Mám cieľ pred sebou, -- uvedomoval som si na ulici. Mám dokázať
+tatíčkovi, že som pevný, hodný jeho dôvery, oddaný len vede a kráse a
+nič ma od nich neodtrhne. Cieľ, ktorého sa neľakám, lebo som už riešil
+oveľa ťažšie problémy. Najlepšie bude pokračovať systematicky. Ale akože
+začať, ako dostať prvé vlákno do ruky? Dlho som však nemusel roz mýšľať.
+
+Bolo krásne, letné odpoludnie a po rovnej, stromami posadenej ceste, do
+parku vedúcej, išly proti mne dievčatá. Najprv som cudne sklopil zrak
+pred ich hltavým pohľadom, ale potom som sa osmelil. Nesmieš si z nich
+problém robiť, riekol som si, len sa dívať smelo a ľahostajne cez ne,
+akoby ani neboly, ako by si sa díval do vzduchu.
+
+Už som očí nesklopil a s rastúcim pocitom blaženosti som zistil, že
+celkom smelo znesiem ich nestydaté, smyselné pohľady, neruší ma, že sa
+za mnou obracajú, ba ani ich dotieravé poznámky ma nemôžu vytrhnúť z
+ľahostajnej pokojnosti.
+
+Len raz prišiel som do rozpakov. Šla oproti mne celá škola. Väčšie,
+odrastenejšie dievčatá, pod dozorom niekoľkých mníšok, ktoré ich viedly
+a za nimi nekonečný rad tých nebezpečných bytností.
+
+Mali ste počuť ten necudný smiech, ktorý zaznieval, keď som popri nich
+prešiel.
+
+Bol to nekonečný rad a ako vlci v zime, keď chodia v celých húfoch za
+korisťou, nebály sa, ba ani sa len neostýchaly.
+
+-- To je pekný chlapec! -- vykrikovaly na mňa. -- A, ako sa cudne díva
+dolu na zem. To je zbabelý rytier. -- Ale pekný, však, Anička, prijala
+by si ho za partnera na večerné prechádzky v parku. -- A chichotaly si
+tak nehaneblive, že sa mi z toho hlava krútila, a cítiac svoju slabosť
+pri toľkej nekrytej skazenosti, ani som nevedel, kam sa mám dívať, aby
+som unikol a vzdychol som si od blaženosti, keď som ich mal za sebou.
+Bojazlivé som sa obrátil a videl som, ako sa ešte dlho pozerajú za mnou
+a kývajú, volajú na mňa zdiaľky.
+
+Tak vyzývavo a s toľkým sebavedomím som ešte na ulici nechodil. Predtým
+som sa zavše len ponáhľal do konzervatória, skrýval sa pred ľuďmi, žil
+len profesorom, umeniu a oteckovi.
+
+Dnes som bol prvý raz vonku ako muž, ako mládenec, aby som dokázal
+svetu, že som samostatný, že zrak pred nikým nesklopím.
+
+Moju dušu naplňovaly akési neisté, neurčité pocity, keď som sa večer
+vrátil domov. Otecko ma starostlivé objal a musel som mu všetko
+dopodrobna vyrozprávať.
+
+Upokojoval ma: -- Nič to, nič to, môj maličký.
+
+Od toho času som už veľa skúsil a viem, že vy, pánovia, boli ste
+vychovaní ináč. Viem, že sa v duchu usmievate môjmu vypravovaniu, však
+nič to, budem hovoriť ďalej, ako sa to vlastne so mnou stalo.
+
+Prežil som v nasledujúcich dňoch niekoľko hrubých a nepríjemných
+dobrodružství. Bol som rád, že som z nich vybŕdol. Stalo sa to tak, že
+som prehovoril k dáme, ktorá sa na mňa v parku a či v divadle náramne
+viditeľne usmievala. Myslel som, že ma pozná, ale dokázalo sa, že to
+boly hrozne neznesiteľné hysterky, ktoré sa potom lepily na mňa s takou
+húževnatosťou a bezočivosťou, že som neraz chcel zavolať policajta, aby
+ma ich zbavil.
+
+Otecko, pod dojmom týchto nepríjemností, rozhodol sa, že ma zavedie do
+spoločnosti. Ja som najprv namietal, že mám výborných priateľov, knihy,
+nenechajú ma nudiť sa, netreba mi spoločnosti, ale potom na jeho dôvody
+dal som mu za pravdu.
+
+Na druhý deň predstavil ma známej rodine. Mali aj dcérku. Menovala sa
+Marta. Bolo to čiernooké, temperamentné dievčatko, asi o rok mladšie,
+ako ja. Hudba nás spájala. Ona hrala znamenite na klavír a nejeden
+prekrásny večer sme strávili takto spolu, oddaní sonátam a symfóniám.
+
+Mne to celkom stačilo, ale Marte nie. Neraz som zbadal, ako sa zadívala
+na mňa, ponosovala sa, že sa blíži jar a že sa cíti takou akousi
+osirelou.
+
+A ja som bol v hrozných rozpakoch. Začal som sa Marty báť. Prečo bola
+taká divná, prečo jej nestačila hudba ako pojítko nášho priateľstva. Ja
+som bol taký šťastný pri tejto forme kamarátstva a hľa, teraz z Marty sa
+vykľuje čosi nepekného. Prišly mi na um tie pažravé, mrzké potvory
+zvonku a bol som v hroznej neistote.
+
+Oh, v hudbe a teóriách bol som doma, ale v praktickom živote bol som
+veru veľmi nemotorný.
+
+Rozhodol som sa, že o tých Martiných nových spôsoboch posbováram sa s
+oteckom.
+
+-- No, vieš, -- povedal mi, -- Marta je do teba zaľúbená.
+
+-- A čože ja mám, pre Boha, robiť? -- spytoval som sa.
+
+Otecko sa záhadne usmieval: -- To už nechám teraz na teba. Poviem ti len
+toľko, že by som nič nenamietal proti tomu, keby si mal Martu rád. Je to
+dobré, nadané dievčatko, nič by som nenamietal, keby, keby...
+
+-- Keby som si ju vzal za ženu, -- dodal som odhodlane a otecko
+prikývol.
+
+Toto mi trošku vrátilo istotu. A nebol som už k Marte taký absolútne
+odmietavý.
+
+A potom s prvým jarným orgovánom rozkvitla i naša láska. Ale nežne a vo
+forme éterickej. Ja som bol, hoci som mal Martu rád, telesne chladný,
+chladný ako vietor pozdnej jesene, Marta však nie, veru nie.
+
+-- Až príde leto, -- povedal som jej, -- až dozrú slnečnice... -- pritom
+som sa však zľakol takého blízkeho termínu.
+
+Koncom mája presťahovali sme sa do kúpeľov. Boli sme tam s oteckom a
+bola tam celá Martina rodina.
+
+A tam v tých kúpeľoch sa splnil môj osud.
+
+Mali sme tam už veľa známych. Chodieval som do spoločnosti, ponajviacej
+s oteckom, alebo s Martou. Sám neviem, ako som k tomu prišiel,
+spoločnosť si ma obľúbila.
+
+Po jednom mojom koncerte, bolo to pätnásteho júna, dostal som veľmi
+podivný návrh.
+
+Večer v kaviarni, kde som práve sám sedel pri stole a čítal noviny,
+prisadol si ku mne akademický maliar L., ktorý so svojou krásnou mladou
+ženou už dlhší čas sa zdržoval v týchto kúpeľoch. Bol tiež veľkým
+teoretikom a neraz sme sa prechádzali po parku, pohrúžení do živej
+debaty.
+
+Vtedy večer, ako si ku mne prisadol, bol nejaký nepokojný. Bolo mu
+vidieť na tvári napnutosť a akúsi neistotu.
+
+-- Chcel by som s vami hovoriť, -- riekol, -- je to veľmi odvážne, čo
+chcem povedať, neviem, či neprekročím medzi rečou medze vašej
+trpelivosti a dobrej vôle a či ma nezarazí s vašej strany výbuch zlosti
+a nepochopenia.
+
+-- Vy ste diplomat, -- odpovedal som, -- ako dobre sa vyznáte v
+mechanizme debaty, ako dobre viete, že získanie dobrej vôle protivníka,
+ak chceme niečo dokázať, znamená často viac, než tisíc znamenitých
+argumentov, ktoré ľahko stroskotajú sa na skale nedobromyseľnosti. Ako
+dobre\* viete, že po tom vašom krásnom úvode nemôžem iné, ako sľúbiť, že
+vás trpelive vypočujem, nech je to už hocičo, čo mi chcete oznámiť.
+
+-- Ďakujem vám, -- povedal s výrazom uľahčenia v tvári, -- a prosím vás,
+keď som vám všetko vyložil, nemusíte mi hneď odpovedať. Je dosť času
+rozhodnúť sa. Najprv si len všetko dobre rozmyslite. Ja som päť rokov
+ženatý. Znáte moju ženu. Je krásna, vzdelaná a nesmierne jemná. Vzali
+sme sa z lásky. Naša láska bola pre nás celým svetom a celý náš svet
+vyvrcholil v horúcej túžbe po potomku. Nikto nikdy na svete si neželal
+vrúcnejšie dieťa, ak my dvaja. Medzi miliónmi ľudí, ktorí sa množia bez
+myšlienky, ako zviera, v nás dvoch priamo horel plameň uvedomelého
+smyslu nášho života: mať potomka. Naša láska bola taká zduchovnelá, duše
+naše sa tak nesmierne milovaly, že sme si nevedeli predstaviť život bez
+dieťaťa, bez nášho pokračovania.
+
+Avšak dieťa neprišlo. Roky sa minuly a neprišlo. A my sme trpeli, stali
+sme sa melancholikmi, že nebudeme mať stelesneného symbolu našej veľkej
+lásky.
+
+Ja som už behom času rezignoval. Upokojil som sa v nezmeniteľnej vôli
+osudu.
+
+Moja žena však nie. Tá trpí neustále a mám vážnu obavu, že dostane v tej
+svojej ustavičnej tuhe a v neutíšiteľnom žiali po dieťati nejakú
+psychózu, akúsi nenapraviteľnú duševnú poruchu.
+
+A tak cez dlhé bezsenné noci sme sa shovárali, rmútili a rady nevedeli.
+
+Až nedávno, asi pred pol rokom, boli sme u lekára, znamenitého
+odborníka. Pri mojej žene nenašiel nič odchylného a vyhlásil, že chyba
+je na mojej strane. Ja som ten, ktorý nemôže splodiť potomka.
+
+L. teraz umíkol a opatrne sa rozhliadol.
+
+Keby som bol mal vtedy ten mozog, čo mám teraz, bol by som sa ho hneď v
+tej chvíli spýtal: -- A z čohože súdil lekár, že nie ste schopný stať sa
+otcom?
+
+Ja som sa nič nespýtal a L. pokračoval: -- Po tejto porade s lekárom,
+hoci situácia naša bola jasnejšia, sám problém nášho potomka ostal i
+naďalej problémom. Nasledovaly potom ešte ďalšie, nekonečné, ducha i
+nervy moriace, zúfalé rozhovory a tápania v neistote, až sa v nás pomaly
+začal vykryštalizovať náhľad, ktorý už dnes je našou nezvratnou vierou i
+nádejou.
+
+Bol som to ja, ktorý som to navrhol a verte mi, nešlo to tak ľahko, tú
+vec sformovať.
+
+Príčinou spoločného nášho žiaľu, a beznádejného života som tedy ja, to
+je skutočnosť. Situácia v tejto forme je neudržateľná, lebo mi hrozí
+budúcnosť, že moja žena zošalie. Pomyslel som i na to, že adoptujem
+cudzie dieťa, a budeme ho mať ako vlastné, potom som však od toho plánu
+upustil. Nebolo by to riešením nášho problému, veď z nás, z našej lásky,
+z našej duše by v tom dieťati nič nebolo. A my sme chceli v ňom milovať
+samých seba, na čo sme mali právo. To cudzie dieťa by bolo bývalo len
+akýmsi domácim zvieratkom, ktorým si život spríjemňujeme a ktorému zato
+poskytneme primeranej lásky a domov. Nie, to nebolo to, po čom sme
+túžili.
+
+Povedal som tedy svojej žene, celkom otvorene a bez dlhých okolkov. Ak
+tedy nemôže byť to dieťa mojím a tvojím, nech máme v ňom tedy aspoň
+tvoju dušu. Nech je tedy to dieťa tvojím, a... a..., a ja ho budem
+milovať, ako svoje, veď bude v ňom časť tvojej zbožňovanej bytnosti, kus
+našej lásky.
+
+Moja žena bola ohromená. Nejdem vám hovoriť, čo a ako bolo, koľko a ako
+som ju musel tešiť, kým pochopila môj návrh, v ktorom najprv videla
+svätokrádež, zneuctenie našej lásky, potom ma však pochopila. Nemožno
+hovoriť o nejakom zneuctení našej lásky, lebo tá je taká veľká, že ju
+rozbúrať nemožno. Ide len o akési mechanické umožnenie, aby sme mali
+potomka, ide len o to, aby akýsi cudzí mužský, ktorého spolu vyvolíme,
+statočne a otvorene vyhľadáme, vzdelanec a aristokrat duše, akí sme my,
+ktosi, kto nás pochopí -- nuž ten aby nám umožnil mať smysel života, mať
+potomka.
+
+Tu nejde o pikantériu. Nech zmrzne úškľabok na tvári každého profánneho
+tvora, kto tu chce ňuchať škandálik, výstrednú myšlienku dvoch bláznov,
+cudzoložstvo. Je to naším najsvätejším a najčistejším i najuváženejším
+úmyslom a s odporom i opovržením odmietame každú škvrnu, ktorú by
+spoločenstvo hysterických báb, hypermravných onanistov a pohlavne
+precitlivelých svätuškárov na náš intímny plán a na jeho mechanizmus
+namazať chcelo.
+
+Je to plán dvoch aristokratov duše, je to potrebná, nevyhnutná operácia,
+nič iného a jej vykonaním bude poverený tiež len aristokrat, ten, kto
+nás pochopí a najmä ten, koho si my zvolíme. A... a tým človekom... -- a
+s nesmierne mäkkým, prosebným vzhľadom díval sa na mňa -- máte byť vy.
+
+Vyskočil som so stolca, ale chytil ma za obe ruky.
+
+-- Prosím, pamätajte si, čo ste mi sľúbili a nebuďte nápadným.
+
+Opanoval som sa. -- Pane, -- riekol som, -- neviem, kedy som vám dal
+podklad, ktorý vás oprávňuje, aby ste ma pokladali za plemenného býka?
+
+L. mlčal.
+
+-- Nuž, tedy hovorte, čo vám to zišlo na um?
+
+-- Poviem vám to, a prosím vás len o trpezlivosť, -- riekol L. tichým
+tónom. -- Nebola to náhoda, že sme si vyvolili práve vás. Mali sme veľa
+známych. Ale zasvätenci vedia, že medzi davom miliónov, medzi stotisícmi
+dobre oblečených, vzdelaných ľudí a medzi neveľa tisícmi
+vysokovzdelaných, na ktorých ti druhí hľadia ako na polobohov, len tu a
+tam sa nájde opravdivý duch. Tí druhí môžu byť skvelí odborníci svojho
+zamestnania, môžu byť i sčítaní, i duchaplní, môžu byť živým lexikónom,
+ale tých, čo hľadia na život sub specie aeternitatis, je len niekoľko.
+Tých, čo vidia do duší, vidia obzor nad hlavami svojho okolia, tých, čo
+vedia, kto sú, kde sú medzi ľuďmi a na zemi i vo vesmíre, tých je tak
+málo medzi davom širokým a ďalekým, že ich ľahko spočítate na svojich
+piatich prstoch. Ja vám tu lásku vyznávať nebudem. Nesluší sa to mužom.
+Avšak viem, kto ste, poznám vás a váš život dávnejšie, než by ste si
+mysleli. A tedy či už tak, či onak, ja a moja žena vyvolili sme si vás a
+vieme, čo robíme. Vieme, kto je hodný stať sa stvoriteľom nášho potomka.
+
+-- Ale, pane, -- riekol som, už nehľadiac na ostatné znemožňujúce
+okolnosti, akých je celá kopa, -- vedzte, že ja tiež milujem, mám tiež
+svoju vyvolenú, ktorej chcem patriť. Ako by som bol schopný nevery?
+
+-- Nežiadame od vás nevery. Ide len o jednoduchú operáciu, do ktorej
+vašim citom, vášmu srdcu nič neni. Rozumejte mi a nebuďte zbytočne
+sentimentálny. Veď preto som tú vec vyložil vám a nie nejakému
+filistrovi. Vy a moja žena úplne vedome sa podrobíte istému posvätnému,
+Bohom ustanovenému, prirodzenému výkonu, s ktorého čisté naše úmysly
+smyjú všetku „pikantnosť", ktorú luza naň namazala. Pre Boha, vyrvete sa
+z ich nízkeho myšlienkového okruhu, ktorý z prirodzeného kontaktu muža a
+ženy urobil „sladký hriech", -- „hriešnu vášeň", -- či ako ešte
+pomenovala tento výkon ich špinavá fantázia.
+
+Vám by som prial, pane, bez záujmu a bez chuti tento „posvätný úkon"
+vykonávať.
+
+Miesto záujmu, ktorý pokladám za nepotrebný, budete mať s nami súcit,
+krásny, ľudský súcit a miesto chuti, ktorej si s vašej strany vôbec
+neprajem, budete mať vznešenú odhodlanosť.
+
+-- Frázy, -- riekol som, -- fráza nad frázu, slovné hračky.
+
+-- Frázy, ktorým dodá obsahu vaše pochopenie.
+
+-- Ak dodá; ja neverím, že by dodala.
+
+-- Prečo neveríte?
+
+-- Pane, máte so mnou smolu. Verím, že by sa našlo veľa ľudí, ktorí by
+mali z vášho návrhu radosť. Tešili by sa tomuto zaujímavému
+dobrodružstvu, lichotila by ich márnomyseľnosti táto kandidácia. So mnou
+však máte smolu.
+
+Ja nie som márnomyseľný, ako vy. Ja si pokračovania, detí neprajem.
+Život je nie žart. Život je ťažký.
+
+Ja si prajem umrieť, pane, nie žiť. Som vyznávačom Nirvány a nie života,
+lebo v Nirváne je sladké zabudnutie a život je krutá, ošklivá
+skutočnosť. Smutný je osud nás živých, lebo sme otrokmi nesmyselného
+kolobehu, z ktorého niet vyslobodenia.
+
+Ja nesnívam o dieťati, moje sny sú divoké a zúfalé. Boh vie, kde sa
+prilepil na mňa ten sen, ktorý ma už toľko ráz utrápil?
+
+Na severnom póle som sedel a vyl som, dlho zavýjal do noci. Hú, húúú --
+zo snehovej pláne sršaly na nebesia v dlhých kotúčoch žltavé iskry. Nado
+mnou žiarila hviezda severu, blikala, kmitala, žmurkala neutešene, len
+som čakal, kedy ju odnesie divý, pochmúrny vietor severu.
+
+Zavyl som na ňu, ja, strhaný, zdivočelý vlčiak, hú, húúú.
+
+V bruchu mi kručalo, slzy mi mrzly v snehu, srdce mi svieralo zúfalstvo.
+Okolo len ľadové snehové roviny, pláne, nad ktorými sa časom zakrúti pär
+ráz chladná, červená guľa slnca a potom príde dlhá, nekonečná noc.
+
+Otče môj nebeský, ešte žijem, ešte som nezhynul; som kus organickej
+živej hmoty, nedaj mi zahynúť v tej samote krutej. Natiahol som si krk a
+vyl do noci.
+
+Že som teraz psom, to nič nerobí. Bol som už i človekom a aj budem ešte.
+Som živý tvor a každý živý je mojím bratom, každý je ja a ja som každý.
+Rozsypané kúsky, klbká účelne soskupených živých buniek.
+
+Akýsi božský rozmar ma teraz položil nižšie, či vyššie, neviem, tým, že
+mi dal podobu psa. Opusteného, zúfalého tvora, ktorý pochopil, že život
+je spád. Niečo, čo sa chýli neustále ku koncu, klzký svah, na ktorom
+živé tvory zúfale sa škriabu hore. Driapu sa, moria sa, ale napokon
+sklznú do priepasti, ale medzitým zanechali na tom svahu dosť
+nešťastníkov, ktorí sa po nich budú moriť až do nekonečnosti.
+
+A vyjem na nebesia divú, kvílivú pieseň odboja živých.
+
+Eh, divé sú moje sny. Obklopuje ma vždy samota a chlad.
+
+A hoci viem, že ja sám nič nezmením, jednako chcem svoje bytie svojou
+smrťou likvidovať.
+
+A nie som márnomyseľný, ako vy a nechcem pokračovania. Preto je moja
+odpoveď: nie. Vstal som a L. tiež.
+
+-- Ešte slovo, -- povedal mi. -- Ja ešte nestrácam nádej. Len, prosím
+vás, rozmyslite si ešte tú vec. Ja prídem za tri dni pre odpoveď. A ak
+by ste si tú vec rozmysleli v môj prospech, prosím vás, nech vás
+vlastné, dnešné vyhlásenie neviaže. Berte to tak, ako by ste nič neboli
+povedali. Predo mnou tiež neupadnete do „hriechu nelogičnosti", lebo ja
+dúfam a verím, že si tú vec rozmyslíte.
+
+-- No, len si dúfaj a ver, -- pomyslel som si.
+
+Bol som akosi rozrušený. Čítal som síce už i o nemožnejšiach veciach,
+ale že sa niečo takého môže prihodiť i mne, na to som nemyslel.
+
+Rozhodol som sa, že zajtra, bez ohľadu na diskrétnosť a gentlemanstvo,
+všetko rozpoviem oteckovi. Veď on je mojím najlepším priateľom, on to
+nikomu nepovie a aspoň mi dodá istoty a pokoja.
+
+Tej noci nemohol som spať. Neustále som sa musel zaoberať s tým čudným
+návrhom. O sebe som ani chvíľku nepochyboval. Ako by som ja mohol byť
+pôvodcom ľudského života, keď ja svoj vlastný nenávidím! Veď by to bolo
+najväčšie zaucho celej mojej životnej filozofii.
+
+Ale čert mi nedal pokoja. Obracal mi ten problém z ľavá napravo a
+nazpäť.
+
+-- Ajhľa, -- myslel som si, -- okolo tohoto problému panuje najväčšia
+anarchia. Splodiť nové životy je dovolené každému paholkovi. Je dovolené
+ešte i ľuďom hlúpym a života neschopným. Každý mamľas si môže dovoliť
+mať potomka, a to koľko chce.
+
+A tu som zasa ja, ktorý mám tie najlepšie podmienky mať potomka
+životaschopného. Som zdravý ako buk. Celý dlhý rad mojich predkov žil
+intenzívnym duševným životom, zanechávajúc na svojho potomka tú
+najlepšiu dispozíciu a schopnosť k neustálemu duševnému vývoju.
+
+A, hľa, so mnou sa tá krásna reťaz tvorivých intelektuálov pretrhne. Ja
+sa nebudem môcť kochať vo svojom pokračovaní, ako to činí môj otecko so
+mnou.
+
+A prečo nie? Či znamená niečo v poriadku, či vlastne neporiadku sveta to
+moje tvrdošijné rozhodnutie? Práve ja, ktorý podľa večného, prirodzeného
+výberu som priamo nútený zákonom vývoja mať potomka, práve ja sa mám
+toho práva vzdávať? To dieťa by žilo v dobrých sociálnych pomeroch, odo
+mňa i od svojej matky zdedilo by tie najlepšie vlohy. Prečo tedy nie?
+
+V tej chvíli naplnil ma nekonečný, blažený pocit budúceho otcovstva,
+akási divá pýcha: ajhľa, budem mať potomka a predsa nebudem mať. Nikto o
+ňom nikdy nebude vedieť. Bude mojím dieťaťom. Budem sa môcť kochať v
+ňom, sledovať jeho vývoj.
+
+Až dorastie do mojich rokov, i ja budem ešte mužom v najlepších rokoch.
+
+Och, Bože! Budem môcť s ním, so svojím synom obnoviť ten krásny,
+priateľský pomer, čo mám teraz so svojím oteckom.
+
+Uchvátila ma šialená radosť. Hej, budem otcom, budem mať syna!
+
+Potom som začal zasa pochybovať. Hľa, kukučkino mláďa v cudzom hniezde!
+Nehanbíš sa? Ty sa pokladáš za charakterného muža? Co sám na vlastný
+účet urobiť zbabelé váhaš, to spravíš na účet cudzích ľudí?
+
+No, hej, ale keď ich urobím pritom šťastnými. Keď im dodám tým smyslu
+života.
+
+No a čo Marta?
+
+Hej, veru, Marta. Na tú som ani nemyslel. A čo, keď tá dostane, až si ju
+vezmem, tiež takúto potomkovú horúčku?
+
+Bol som v krutých pochybnostiach a v rozpakoch, ale čert mi našeptával,
+že nebudem môcť odolať, a že nebudem mať toľko sily oznámiť tú vec
+oteckovi a Marte.
+
+Otecko môj, aký mi bude život bez teba, až mi ťa čas urve? Či je ešte
+niekde na svete taký krásny a intímny pomer medzi otcom a synom, aký ja
+mám. Ty nevieš, aká je to bolesť pre mňa vidieť, ako nezadržiteľne
+dodrúzga čas tvoju, kedysi takú krásnu, statnú postavu, a koľko vrások
+ti nashromažďuje na tvári. Spolu chodíme vždy, keď sa hneme hocikam von
+na ulicu, lebo mi je život bez teba prázdny. Tvoja myseľ je mladistvá a
+všetko pochopujúca, ako pred rokmi. Na ňu čas nemá sily. A vieš,
+pohladím ti tvár a urovnám ti vlasy, keď sa niekam chystáme, na koncert,
+alebo do divadla, a usmievam sa pritom. A spytuješ sa ma zavše, ako ti
+svedčí ten nový klobúk, či máš vlasy v poriadku, a či mi je nie veľmi
+nepríjemné, že ti nové topánky tak ukrutne vŕzgajú? Lebo márnomyseľný
+si, otecko môj, a sám o tom nevieš. Akosi ticho, nevinne a naivne
+bojuješ proti času, či aspoň chcel by si bojovať. A ja uspokojujem ťa a
+šikovne pochválim, aký si švárny v tom novom klobúku, až ti zažiari tvár
+tichou spokojnosťou, že, hľa, ako imponuješ svojmu synovi. A často
+usmievam sa pritom, keď ťa takto oduševňujem a chválim a ver mi, za ten
+úsmev skrývam svoju horkosť a svoje slzy. Akúsi strašlivú, čiernu vôľu
+cítim v pralese budúcich rokov, akási neúprosná beštia tam číha, čo ťa
+mi kedysi urve.
+
+A čože bude môj život bez teba, keď púhe pomyslenie, že ťa kedysi
+stratiť musím, privedie ma na okraj zúfalstva?
+
+Nie, ja sa ťa nevzdám, otecko. Keby som stratil naše priateľstvo,
+stratil by som smysel života. A nestratím ho. Bude žiť ďalej vo mne a v
+mojom synovi. Vymienim si s L.-om, že chcem vplývať na jeho výchovu, aby
+ma znal a miloval tak, ako som ja miloval svojho otecka. Vymienim si to,
+upravíme si to, už to len nejako pôjde. Ak Pán Boh dá, otecko sa dožije
+toho a uvidí, ako žije ďalej naša láska vo mne i v mojom synovi.
+
+Tento obraz ma zalial takou blaženosťou, že som myslel, že prídem o
+rozum.
+
+Hej, L. a jeho žena najdú v mojom potomkovi smysel svojho života a ja ho
+nájdem tiež.
+
+Pri tom svätom našom ideále zmizne všetka prekážka, čo by hlúpe mozgy
+tých úbohých červíkov do mojej cesty stavať mohly. Nik nebude o tom
+vedieť.
+
+Bol som odhodlaný. Nespomenul som nikomu nič. Obraz Marty scvrknul sa
+úplne. Ktože to bol? Akási dievčina, vzácnejšia, ako tie ostatné, ale
+mňa neviazal k nej nijaký hlbší pocit.
+
+Na druhý deň odpoludnia bol som pozvaný do L.-ov. Strašne ma tiesnil
+pocit budúcich udalostí, ale oni, vidiac to na mne, boli nesmierne
+jemní. Opanoval som sa, povedal som, že som si tú vec rozmyslel, že
+súhlasím a predniesol som svoje podmienky. Povedal som to L.-ovi, lebo
+jeho pani bola taká taktná, že nás nechala osamote. L. potom vyšiel za
+ňou, oznámil jej to, vrátili sa a už viacej sme o veci nehovorili.
+
+L. potom zmizol a tri dni sa ani neukázal.
+
+Ostal som, s mladou paňou sám. Chvíľku cudzo sme sa dívali jeden na
+druhého. Oba sme cítili, že priepasť cudzoty je medzi nami
+nepreklenuteľná. Lebo ja som ju neľúbil a ona mňa tiež nie. Spojila nás
+len vzájomná úcta, spoločný ideál a odhodlanosť uskutočniť ho.
+
+-- Oho, to tu začína ísť do tuhého! -- vpadol niekto z okolo sediacich
+Duranovi do reči. -- Máte vo zvyku veľa rozumkovať a to škodí. Mňa ste
+mali pustiť k tej mladej panej!
+
+-- Ticho, pán Král, -- skríkol na neho Polanský. -- Vás pustíme niekam,
+až budeme chcieť chovať pekné, veľké kusy dobytka. Zatiaľ sa len
+opanujte a nevyrušujte, lebo vás vyhodíme. Prosím vás, Durana, ani si ho
+nevšímajte a pokračujte.
+
+-- A tak to šlo dva dni. Myšlienky a slová nás potom sbližovaly. Najmä
+tu. Len tomu pričítam, že sa celá vec nezmarila, lebo ja som veru nemal
+vôbec nijakej iniciatívy. Prial by som si, aby boly vaše myšlienky v
+tejto chvíli také čisté, akí sme boli my a naše podujatie.
+
+Svet sa mi od tej chvíle celkom premenil. Rozhodol som sa, že s Martou
+preruším všetky styky. Načo sa mám oženiť, keď ja chcem žiť len umeniu a
+keď teraz už budem mať aj potomka, ktorý mi zaisťuje druhú veľkú túžbu,
+ideál môjho života: nehynúce priateľstvo môjho otecka.
+
+Lenže otcom budem už teraz ja.
+
+Vyhľadával som samotu a tam som sníval o svojom nekonečnom šťastí. Celé
+dni som preležal pri Váhu a díval sa do vody. Aký je osud dobrotivý, ako
+zázračne riešil problém môjho života.
+
+Som nesmrteľný nielen ako človek, ktorý žije ďalej v ostatných ľuďoch,
+svojich bratoch na zemi, ale i ako jednotlivec.
+
+Vŕba pri Váhu, na opustenom brehu, osamelý starý strom, a, hľa, tu okolo
+už celá divá vrbina, to všetko sú jej deti, čo vyrástly z jej rozsiatych
+semien. Tie isté listy, korene, konáre.
+
+Oh, blažený to bol čas, škoda len, že trval tak krátko.
+
+Lebo trval len tri dni. Na tretí deň som napísal krátky a úsečný list
+Marte, že k nim nepôjdem, že som rozrušený a vyčerpaný, potrebujem pokoj
+a preto sa utiahnem od sveta na dlhý čas.
+
+Ako by som bol vedel, že sa i tak, chcej-nechcej utiahnem.
+
+Lebo na štvrtý deň ráno už som mal k tomu závažnú príčinu.
+
+\* Ja som však sám nechcel veriť a vlastne ani som nevedel, o čo ide.
+Prvé príznaky ma nemálo postrašily a nútily, aby som vyhľadal lekára.
+
+-- Kto by sa z vas, panovia, -- obrátil sa Durana na svojich
+poslucháčov, -- nepamätal na tú chvíľu u lekára. Keď skielko chorobným
+produktom natrené, keď preparát položí do mikroskopu, namieri čočku a
+díva sa, díva.
+
+Čakáte odpoveď, ktorá vám visí nad hlavou, ako vážky. V jednej miske
+ligoce sa to krásne, zlé zdravie, ktoré si váži človek, len keď už ho
+stratil; v druhej černie útrapa toľkých týždňov, mesiacov, či aj rokov;
+zničený otrávený život.
+
+Uplynie pár sekúnd, neveľa, veď v takomto čerstvom, prudkom prípade
+netreba dlho hľadať, jednako uplynie pár sekúnd, myšlienky víria hlavou.
+Skúsenejší z vás, alebo tí, ktorí nemali svedomie práve čisté, prežívajú
+všetky múky striedajúcej sa nádeje i zúfalstva. Ja som však mal svedomie
+čisté a preto som stál úplne pokojne. Bolo by možné, aby môj osud, pri
+mojom smýšľaní a doterajšom živote rovnal sa osudu Don Juanov,
+dievkárov, fešáčkov a vagabundov? -- Nie, to je nemožné.
+
+Lekár sa podíval na mňa. -- Kedy ste boli v akejsi nehygienickej ženskej
+spoločnosti? -- spýtal sa ma ostrým a úsečným hlasom.
+
+-- Pane, -- skríkol som, -- to si...
+
+-- No dobre, dobre, -- prerušil ma, -- len preto som vám dal takúto
+nediskrétnu otázku, lebo máte...
+
+-- Lebo mám? -- kričal som.
+
+-- Gonoreu.
+
+L.-a a jeho ženu som už viacej nevidel. Ako som sa vypotácal od lekára,
+prvou mojou myšlienkou bolo, že hneď zájdem do L.-ov, poviem im, čo sa
+stalo, a budem prosiť vysvetlenie.
+
+Rozmyslel som si však. Nie, je to ťažký, závažný krok. Môj rozum je
+krátky premyslieť si všetky jeho následky. Musím sa poradiť s oteckom.
+
+Oh, otecko môj, takto mu prídem domov. Viete, aké je to, keď človeka
+život zdrtí do prachu? Keď sa chcel vzniesť do nebies a spadol do
+latríny?"
+
+Bola to cesta krížová, kým som sa domov dostal, k dverám oteckovým. „Len
+ďalej, poď, chlapče, poď," -- ozval sa znútra jeho vľúdny hlas.
+
+-- Prečo si taký bledý, čo ti je?
+
+-- Áno, je mi niečo, -- mrmlal som utrápené, -- neveril by si a
+neprišiel by si na to nikdy, čo mi je.
+
+-- Tak už viem. Sadni si. A odkiaľ?
+
+-- Hoj, odkiaľ, -- vzdychol som, -- je to dlhá história.
+
+-- Tak len von s ňou.
+
+-- Neodsudzuješ ma?
+
+-- Nie. Chcem ťa potešovať. Nehoda je tu, treba ju odstrániť.
+
+-- Oh, Bože, aký si dobrý, že ma neodsúdiš.
+
+-- Neodsudzujem ťa, -- riekol mi, keď som mu veci predniesol, -- len sa
+ti divím, ako si mohol na niečo takého pristúpiť. Veď si ty nebol nikdy
+nejak smyselne založený, ba práve naopak.
+
+Neodpovedal som, len v sebe som si myslel: Hej, keby otecko znal motív,
+čo ma k tomu činu priviedol, azda by ma viacej pochopil, ale mu to
+povedať nechcem, nemôžem.
+
+-- Prichádzam práve od lekára a chcel som hneď navštíviť L.-ov, len som
+chcel vyžiadať tvoju mienku, v akej forme ich mám na túto vec upozorniť.
+
+-- V nijakej, -- odpovedal otecko, -- len ostaň pekne doma. Ani už nikdy
+viacej ta nechoď.
+
+-- Veď tá vec potrebuje vysvetlenia a keď už nič iného, musím ich
+upozorniť na nebezpečenstvo ďalších pokusov.
+
+-- Vysvetlenie ti azda môžem podať i sám, a dúfam, že ti postačí. Tá vec
+nie je ani zďaleka taká záhadná, ako sa ti zdá. Stály sa už v dejinách
+ľudstva takéto veci neraz.
+
+Podľa tvojho líčenia príčinou bezdetnosti tohoto manželstva bol muž.
+Prečo? Netreba ísť za vysvetlením veľmi ďaleko.
+
+Tento pán L. akiste svoju mládeneckú gonoreu, chorobu, ktorú prerobí
+aspoň raz, keď už nie každý muž, tak aspoň 70-80 percentov, tedy L.
+svoju chorobu privliekol si do manželstva. Nemusíš žasnúť nad tým, takým
+častým zjavom spoločenským, akiste to neurobil úmyselne. Akiste, ako to
+už býva, nemajúc nijakých zvláštnejších príznakov, pokladal sa už za
+vyliečeného. Mohol mať peknú komplikovanú gonoreu, odtiaľ tá jeho
+neplodnosť. Pokladal sa tedy za vyliečeného, čo mu akiste nejakí
+nesvedomití špecialisti, -- ktorí sú radi, keď sa takých úporných
+prípadov zbavia, -- aj potvrdili.
+
+L. tedy s najpokojnejším svedomím vniesol svoju chorobu do manželstva.
+Nakazená žena sa akiste liečila, lenže tá vec, najmä u ženy, lieči sa
+dochádzkami k lekárovi veľmi ťažko, veľmi dlho a veľmi neisto. A do
+nemocnice, kde sa lieči o veľa úspešnejšie, ona ani nešla. A tak sa
+mohlo stať, že choroba ju učinila neplodnou. Či tak, či ináč, liečili
+sa, a jednako sa nevyliečili. Behom rokov potom akiste príznaky choroby
+u nich už dávno zmizly, zvykli si na gonokoky, lekár pri niekoľkých
+vyšetrovaniach a v takých zastaralých prípadoch akiste tiež nič
+nenašiel. Mohol im potvrdiť, že sú zdraví a i to, že príčinou
+bezdetnosti je len muž. A tak, načo oni už dávno zvykli, to si ty
+odniesol teraz čerstvou kvapavkou. Stávajú sa podobné prípady neraz,
+pravda, s menej ušľachtilou tendenciou pri nevere manželov-gonoroikov,
+na neveľkú radosť „neodolateľného" priateľa domu, alebo „slobodného
+démona", ktorý sa do takéhoto neviditeľné obrneného manželstva zapletie.
+
+A tak ostaň ty len pekne doma. Nebuď pomstivý, veď oni to nespravili
+úmyselne. Nič tým nestratíš, ba ušetríš si strašne nepríjemnú scénu. Ako
+jemný a vzdelaný človek, akiste im nechceš ísť škriekať, ako cigánka,
+alebo skúpy sedliak, ktorému ukradli prasa a teraz celú dedinu vzbúri
+mrzkým bedákaním.
+
+-- Máš pravdu, otecko.
+
+Načo sa pomstiť. Kto žije, ten je už i tak pomstený, lebo koniec-koncov,
+hriešny i nevinný, všetci sú odsúdení na smrť a sám život je spád, mrzký
+a nedôstojný zápas, úbohé trepotáme sa hladného žalúdka.
+
+Nebol som ja hrdým nikdy. Vždy som chápal svoju úbohosť vo vesmíre, ale
+nasledujúce dni ma priamo zlomily. Naučil som sa, že ničím nesmieme
+opovrhovať.
+
+Čudné zviera je človek. Nechápe nešťastie druhého, vysmieva sa mu.
+Neverí, nemôže pochopiť, že sa mu tiež môže niečo zlého prihodiť.
+Nepomôže mu ani dohovárame. Treba ho najprv praštiť po hlave, aby
+uveril, že môže dostať zaucho. A i potom ľahko zabúda a nešťastník,
+náhle vyliezol z vlastnej nehody, o pár dní už veselo sa vysmieva
+podobnej chybe druhého.
+
+Ja som bol vďačným žiakom života. V budúcich týždňoch precítil som
+všetku bolesť a mizériu celého sveta.
+
+Život je mrzký žart. Nesmieme na nič hľadieť zvysoka. Nesmieme si
+myslieť, že sme vo vesmíre výnimkou. Nie sme. Nesmie nám byť cudzí osud
+Jóba na smetišti, osud mačky, pouličnými deťmi utýranej, a osud mravca
+na dlažbe rozšliapaného. To sme všetko my, dnes ja, zajtra ty, je to
+spoločný osud všetkých živých tvorov.
+
+A ja som to všetko precítil a cítil som ruku osudu nad sebou.
+
+V tomto neutešenom, čiernom pochopení zlomila sa moja životná vôľa.
+Prispelo k tomu ešte toľké sklamanie, keď mizerní fušeri, lekári,
+vyhlásili ma za vyliečeného a za istý čas sa mi choroba zas vrátila.
+Napokon veril som, že je nevyliečiteľná.
+
+A žil som, ako vo sne. Otecko bol mojou jedinou potechou. On trpel so
+mnou. Úplne som sa uzavrel od sveta. Nesmel som veľa chodiť, namáhať sa,
+musel som držať prísnu diétu. Jednako raz nahovoril ma, aby sme si zašli
+spolu do kaviarne.
+
+Udivene som sa pozeral kol-dokola. Tam ktosi pivo pije. Bože, tak sú
+ešte ľudia, ktorí nerušene môžu piť alkohol? A je to možné, aby niekto
+beztrestne tak divo a výstredné tancoval? Tak sú ešte i zdraví ľudia na
+svete? Na druhej strane sedela Marta v kruhu svojich rodičov a známych.
+
+-- Choď k nej, toľko ráz sa spytovala na teba, -- pobádal ma otecko, --
+neopúšťaj sa, nemusí ti celý svet čítať na nose, že nie si zdravý.
+
+Priblížil som sa k nim.
+
+-- Počula som, že pracujete na veľkolepom diele, váš otecko to prezradil
+a, vraj, preto sa tak uzavierate od sveta.
+
+-- Hej, veru pracujem na veľkolepom diele.
+
+Díval som sa na ňu, ako vo sne.
+
+Bože, je to možné, že boly časy, keď som ja na toto dievčatko mohol
+hľadieť čistým, neskaleným zrakom a že mi mohla byť tak trošku i drahou?
+
+-- Vyčerpaný ste, vidieť to na vás, poďte, odoberme sa od nich a
+prejdime sa vonku, -- navrhla Marta, -- mám vám toľko čo povedať.
+
+Vstal som ako stroj a vyšiel s ňou. Zazrel som, ako ma doprevádza
+starostlivý oteckov pohľad.
+
+V opustenej, tichej kaviarenskej záhrade sadli sme si na lavičku.
+
+-- Igor, pozrite sa na mňa. Viete dobre, že som voľná a samostatná v
+náhľadoch a viete, že nikdy nikomu by som neodpustila také zanedbávanie
+a nevšímavosť, akú som skúsila od vás. Vy ste však umelec a blázon a
+potom tvoríte. Preto vám odpúšťam.
+
+Bez slov díval som na na ňu. Bože, ona hovorí so mnou ako s človekom. A
+ja som už dávno nie človekom, už sa ani nepamätám, či som bol ním kedysi
+vôbec, ja som už len úbohým, poľutovania hodným tieňom. Je to možné, že
+som ja kedysi s týmto dievčatkom sníval o budúcom šťastí. A teraz, hľa,
+nie som hoden, aby som sa dotkol okraja jej šiat.
+
+Hľa, uchýlil som sa na inú cestu. Chcel som si utvoriť pokračovanie pri
+cudzích ľudoch a darmo. L., ktorého som doma nikdy neprijal a listy
+vrátil nečítané, minule zaslal mi telegram, o ktorom som netušil, že je
+od neho a v ktorom stály tieto dve slová: -- Výsledok nula. -- Tak, hľa,
+škrabal som sa na „neschodné cesty nadľudí" a dostal som sa na
+vyšliapanú, mrzkú cestičku „frajerov a syčiakov".
+
+-- Igor, povedzte mi, myslíte ešte na mňa, máte ma ešte radi?
+
+-- Ach, Marta, ja som už nie ten, co som bol. Ja vás už nemám rád.
+Odpusťte mi, Marta...
+
+No, a koniec-koncov som tu, pánovia, medzi vami!
+
+-- Úbohé neviniatko, dostal kva-ha-pa-hav-ku, -- bolo počuť ironický,
+zlomyseľné ordinárny brekot Králov.
+
+-- Nasledujem ja, -- skočil mu do reči Zurian. -- Počul som vaše
+rozprávky a teší ma, že miesto večného hrania v kartách bavíte sa týmto
+rozhodne poučným spôsobom. Zajtra môžete pokračovať, na dnešok však
+dosť. Prosím pána predsedu Polanského, aby schôdzku zakľúčil. Dobrú noc!
+
+# BOJ PROTI NEVIDITEĽNÉMU
+
+Chodieval si ako dieťa kradnúť jablká do susedovej záhrady? Hej, akiste,
+veď to patrí do programu detských rokov.
+
+I Zurian chodieval kedysi. Nabral si jabĺk plné vrecká a potom, hybaj
+zpäť do dvora. Mrzký, čierny pes strážil susedovu záhradu a hoci sama
+táto obluda nemala rada jabĺk, jednako zúrive útočila na malých kmínov
+záhrady. Karol neraz musel ustáliť, keď plot preliezal: hej, chodil som
+na zakázanom území a svedomitý strážca ma zato teraz tresce. Veľmi
+muselo tomu zvieraťu na tých jablkách záležať, lebo odnesú to teraz moje
+nohavice a kus mojej vzácnej kožky.
+
+Odpoveďou na tento útok do záhrady susedovej bolo zúrivé hafkanie
+čierneho psa, ktorý Karlovi poriadne obstrihoval nohavice.
+
+Odvetou maličkých včiel na samopašné pokusy Karlove, ukradnúť im medu,
+bolo, že ho poriadne dopichaly.
+
+Za lenivosť v škole mu dlžnými nezostali: učiteľ s pätorkou a otec s
+vymlátením.
+
+Statkárov býk nenechával sa len tak beztrestne jedovať, dráždiť červenou
+šatkou Karlovou. Rozohnal sa za ním, že ledva stačil preskočiť drevenú
+ohradu.
+
+Bojovná kvočka skoro mu vyškriabala oči, keď sa chcel hrať s jej malými
+kuriatkami.
+
+A rozzúrený sused sľuboval mu, že ho zastrelí ako psa, keď ho ešte raz
+uvidí na dostaveníčku s jeho šumnou dcéruškou.
+
+Toto bolo všetko veľmi zrejmé, tomu sa Zurian vôbec nedivil. Rozpaprčení
+tatíci, býci, kvočky, včeličky, psici mlátia, kľajú, škrabú, pichajú a
+hryzú, keď ich rozjeduješ. Či je na tom niečo nejasného? Nie. Každý sa
+bráni proti dotieravosti a inzultu, ako len môže.
+
+Veci na svete i vo svojej zdanlivej složitosti, zdá sa, podliehajú
+niekoľkým večne a na všetko platným zákonom. Medzi nimi nie na poslednom
+mieste stojí veta: akcia zrodí reakciu. Vlúpať sa do cudzej záhrady, to
+je akcia, a zlosť čierneho psa je reakcia.
+
+Karol bol úplne voľne a reálne vychovaný. Zaujímal sa o metafyziku, ale
+ho netrápila. Hľadel na veci prirodzene, bral ich s pokojným,
+nepretínaným pesimizmom.
+
+Naraz sa však pomery zmenily a Karol nebol už ľahostajný. Stalo sa mu v
+živote čosi podobného, ako v susedovej záhrade. Naraz sa mu objavila
+akási nepochopiteľná, ale živá, neviditeľná, ale určitá reakcia. Ktosi
+ho začal naháňať. Ktosi ho začal prenasledovať. Cítil nad sebou
+strašlivú, železnú ruku, neviditeľnú moc.
+
+Tento Pán, tento Neviditeľný vybral si Zuriana na mušku. Vplietol sa mu
+do života a do snov, núkal sa mu do ruky, naháňal ho, utrápil,
+vyzauškoval a na každom krôčku sa mu predstavoval.
+
+Hoci Ho nevidel a nikdy o Nom nič určitého nepočul a počuť ani nemohol,
+-- jednako Ho cítil, uvedomoval si Ho všetkými smyslami. Najprv zdal sa
+mu byť len zaujímavým. Potom ho uchvátil, neskoršie ho ustrašil. Díval
+sa do Jeho tvári so široko otvorenými očami, bledý od hrôzy a chvejúci
+sa od strachu. Neviditeľný ho drtil, otrávil mu každú myšlienku -- a
+donútil ho kľaknúť si na kolená a vzývať Ho všetkými menami, čo mu len
+ľudstvo dalo a modliť sa k nemu všetkými modlitbami i vrúcou ustrašenou
+vlastnou modlitbou, cedenou zo svojho utýraného mozgu cez nekonečné
+noci.
+
+Sťa samopašné decko cez susedov plot, tak vliezol Zurian do akejsi
+cudzej, divnej záhrady. Chodil po nej smelo a, keďže ho nik nestrašil,
+cítil sa v nej celkom bezpečne. Neskoršie ho začalo čosi plašiť. Vidieť
+však nič nebolo a Zurian ešte vtedy si myslel, že je to len prelud,
+výtvor vlastnej fantázie. Neskoršie ho štvalo tisíc diablov. A vtedy si
+uvedomil, že bojuje s osobou, s mocným pánom, so skutočnou bytnosťou,
+ktorá svoju vôľu železnou rukou vykonáva.
+
+Bojovalo sa o ľudské životy.
+
+Lebo Zurian vstúpil do záhrady Neviditeľného.
+
+# MATIČKA MALÁ
+
+Raz večer prijala ho Medúza rozčúlene. Oči sa jej lesklý. Mala v tvári
+taký zvláštny výraz, zračila sa s nej taká krajná napnutosť, že Karol
+nestačil dohadovať, čo to má byť. Znak zloby, zúfalstva, akejsi nádeje,
+či nadľudskej radosti. Spýtať sa jej nemohol, lebo mu nikdy priamej
+odpovedi nedala, a keď sa veľa spytoval, nedostal z nej vôbec slova.
+Čakal tedy a tváril sa ľahostajne. Táto taktika nebola zlá. Dosiaľ sa
+vždy osvedčila. Veď sa vzdal nádeje už dávno, že by sa mohol s Medúzou
+len tak po ľudsky, normálne shovárať. Nakoľko ho to zlostilo kedysi, kým
+jej divným spôsobom nieprivykol, tým si viac vážil jej mlčanlivosti a
+nesdielnosti neskoršie, lebo patrily tie veci k jej povahe. Nevedel si
+ju už ináče predstaviť a vidiac pri iných ženách vždy len klebetnosť,
+zvedavosť a papuľnatosť, stala sa mu jej dosebauzavretosť vzácnou a
+drahou. Tak tedy nepozostávalo mu nič iného, ako čakať, čo sa vykľuje z
+jej napnutej nálady, a táto záhada pri tejto rozumnej diplomacii nedala
+dlho čakať na svoje riešenie.
+
+Medúza naraz pristúpila k nemu, hlavu sklonila k jeho tvári a červená
+ako rak mu šopkala:
+
+-- Taká som blažená.
+
+Nechápavé sa na ňu díval.
+
+-- Co sa stalo? Co vás mohlo urobiť takou blaženou?
+
+Neočakávane sa rozhovorila:
+
+-- Karol, keby ste vedeli. Splnil mi Boh moju najvrelejšiu túžbu. Po čom
+som toľko plakala, od čoho som spásu a smysel svojho života očakávala,
+to sa mi splnilo. Karol, keby ste vedeli, aká som šťastná. Chcelo by sa
+mi spievať, kričať, tancovať od radosti, vybehnúť na ulicu a zvestovať
+ľuďom, že sa splnil smysel môjho života. Mám už prečo žiť. A je koniec
+mojim zúfalým pochybnostiam. Karol, ste premožený, zvíťazila som nad
+vami. Oho, už mám pre vahu ja. Už nebude moje životné šťastie visieť na
+nitke, ako dosiaľ. Už sa nebudem musieť obávať, že celú moju budúcnosť,
+môj ružový sen zas odnesie nejaký bláznivý vietor, Karlov rozmar. Och,
+Karol, už nebudem vás nenávidieť a prosiť Boha, aby vás zahlušil, až ma
+už milovať nebudete. Už nebudem skákať do rieky, nejdem sa zabiť od
+zúfalstva, keď sa vám jeden deň zachce po svete, po dobrodružstvách.
+Och, ako som sa obávala, že čo budem robiť, až sa vo vás vzkriesi vaša
+bývalá ľahkomyseľnosť, až jeden deň prídete sem mrzutý, rozladený, až
+vám z očú budem čítať, že sa vám chce do sveta. Že chcete odo mňa preč,
+že sta zasa ten starý, nízky Don Juan, aký ste boli. Dáždik, čo vonku
+teraz poprchuje, nemá toľko kvapák, koľko slz som ja pre ten deň
+schovávala. Všetka bolesť a zármutok Danteho Inferna nevyrovná sa
+bolesti, akú mi chystal osud v ten deň, keď som mala zazrieť váš
+roztržitý obličaj, váš tekavý, blúdivý pohľad, ktorý už nepatrí mne, ale
+ohavnému, nízkemu svetu tam vonku, keď moje prosiace slovo k vám už
+nezaletí a moje vystreté ruky vás už nedosiahnu. Vedela som a viem, že
+príde raz deň, keď vy už nebudete tým, čo ste boli. A výhľad, že moje
+šťastie, môj celý život, ktorým je vaša láska ku mne, visí na slabej
+nitke vašej chúťky a rozmaru, bol pre mňa strašný a neznesiteľný. Koľko
+ráz som prosila Boha, aby ma zbavil života v ten deň, až vy už mojím
+nebudete, ale napred nech zahluší vás, nech vidím, že vy sa bezo mňa
+tešiť, radovať nebudete. Preklínala som vás napred na tento deň a trpela
+pri tom pre svoju kliatbu, veď vyvierala len z mojej lásky k vám.
+Neznala som východiska a zdalo sa mi, že ma každý deň privádza bližšie a
+bližšie k nešťastiu.
+
+Hej, Karol, teraz však už je tomu ináče. Už sa pomery zmenily. Boh mi
+poslal riešenie. Už môžete ísť, vy zlý, rozmarný Karol, však už ja za
+vami zúfať nebudem. Boh sa smiloval nado mnou a poslal mi vyslobodenie.
+
+S úžasom sa na ňu zadíval.
+
+-- Medúza, čo sa stalo? Už ma nemilujete?
+
+-- Milujem vás, Karol, ale už nie láskou divou, zúfalou, beznádejnou,
+ale láskou pokojnou a sebavedomou. Už mám nad vami prevahu, Boh sa
+postaral o to, aby ma mladistvý váš rozmar nezničil, aby som ho
+sebavedome a dôstojne zniesla a hrdo pretrpela.
+
+Srdce mi svierala bolesť, taká veľká bolesť, že sa mu až v očiach
+zatmelo. Co sa to robí? Kto mu berie jeho Medúzu?
+
+-- Medúza, prečo mi to hovoríte, prečo by vás už nemrzelo, keby ste ma
+stratili?
+
+Medúza sa podívala na neho. Jej pohľad horel plameňom, jasným plameňom
+nevysloviteľného vnútorného šťastia. Ani slova mu nepovedala. Nebolo
+toho ani treba. Ten jej pohľad hovoril, vysvetľoval, jasal o jej šťastí.
+
+Karol, Karol, už je koniec môjmu utrpeniu, môžem sa už na vás dívať
+zrakom jasným. Už mám prečo žiť. Môj život našiel svoj smysel. Už vás
+stratiť nemôžem. Už môžete ísť, Karol, keď sa vám zachce, Už vás
+preklínať nebudem. Nechali ste mi najväčší dar, za ktorým som túžila:
+budúcnosť, samého seba.
+
+Svet sa krútil okolo Karla. Musel si sadnúť, aby nepadol. Medúzine slová
+ho priamo ochromily. Ich význam naraz ani prehliadnuť nemohol. Len toľko
+cítil, že ide stratiť lásku Medúzy. Ona vraj našla smysel svojho života
+a on ho ide strácať.
+
+Neviditeľný Pán ho durí von, zlostne ho vyháňa zo svojej záhrady.
+
+Medúza sa v základoch zmenila. Už ani nebola Medúzou. Materstvo ju
+urobilo sebavedomou, šťastnou, zdravím a veselosťou kypiacou ženou a
+Karia uchvacoval žravý bôľ, keď sa na ňu podíval. Zbadala jeho
+zamračenosť, ale už ju to neznepokojovalo.
+
+-- Len sa mračte, Karol, mračte, -- domŕzala ho veselým hlasom. --
+Nechce sa vám von, na dostaveníčko, nemáte zasa plné vrecká cudzích
+listov? No, nič sa nebojte. Nejdem vám ich prekutávať. Pre mňa noste i
+čerta v kešeni. A môžete von, ak chcete.
+
+Jej slová ho mučily a pichaly do srdca.
+
+Nie, to už nebola jeho Medúza. Bola to pokojná, veselá žena; začína byť
+mrzkou, sebeckou kvočkou. A čo z nej bude ešte potom, až bude matkou?
+Dokonalá, ohavná, nafúkaná, obmedzená kvočka. Potom sa na neho už vôbec
+ani nepodíva.
+
+A ako takto so dňa na deň sledoval jej rastúcu ľahostajnosť a jej
+vnútornú, veľkú blaženosť a vieru v krásu budúcnosti i bez neho,
+uchvátila ho taká besná nenávisť, že si trhal vlasy pri pomyslení na
+budúcnosť.
+
+Márne tu všetko. Márne by ju prikoval k sebe, oceľovým lanom priviazal,
+jej by na ňom už ani tak nezáležalo. Našla si istejšiu lásku, než on.
+Miesto neho, rozmarného, neskrotného bude milovať a vychovávať na svoj
+obraz jeho potomka.
+
+Ale, čo sa to tu robí? Kto sa pchá do jeho vecí? Aký nevolaný zloduch sa
+opováži riadiť jeho pomer k Medúze? Do akých pazúrov sa dostala jeho
+láska?
+
+Cez dlhé noci prežíval celú škálu pocitov zdola od zúfalých, mäkkých
+mollov hore k rozbesneným dúrom, plným divej, neslýchanej disharmónie.
+Sprievod k tomuto divému koncertu jeho duše bolo škrípanie zubov.
+Zatínal päste v bezmocnej zúrivosti.
+
+Potom našiel svoj lepší rozum. Nie, to tak nebude dobre. Tu treba byť
+rozumným a mocným, a zlosť je slabosť. Dozrela v ňom myšlienka, že bude
+lstivým ako had a že sa nedá, nedá.
+
+-- Nie, Pán Neviditeľný. Mne sa vo vašej záhrade nesmierne zaľúbilo. A
+keď naštvete na mňa ešte desať oblúd, ja nepopustím. Vaša záhrada je
+ohromná. Tu je miesta dosť. Ze to dosiaľ tak nebývalo, že ste tam dosiaľ
+nikoho netrpeli? Tak tedy ja vám spravím novú módu. Budem tedy tou
+výnimkou, čo vaše pravidlo potvrdzuje.
+
+# ARGUMENT
+
+Na druhý deň odpoludnie zaklopal Karol na dvere Medúzy. Plánu nemal
+nijakého. Nemával vo zvyku plány robiť. Vždy sa prepúšťal okamžitému
+riešeniu situácie, svojej inšpirácii a šikovnosti. Vedel len jedno: tu
+má do roboty už nie s Medúzou. Jej hlasom tu hovorí už ktosi Iný.
+Myšlienky jej riadi ktosi Neviditeľný. Každé jeho slovo posudzuje teraz
+On, lebo má Medúzu vo svojej moci. A proti tomu Pánu násilie nepomôže.
+Toho musí zdolať jeho vlastnými zbraňami. On je Stvoriteľom života. Núka
+teraz Medúze nový život. A tento nový život, ktorý sa tu zrodí, nevyváži
+nijaká debata, nijaký argument, nijaká hrozba, prosba, slzy a úsmevy.
+Tento nový život vyváži jedine zasa len život ľudský, a ten bude jeho,
+Karlov. Ten hodí do druhej misky váhy, naproti tomu novému človeku a
+priloží ešte kus svojho Ducha, svojej lstivosti a vôle naproti lstivosti
+toho Neviditeľného. Hej, tu sa začína súboj na život a na smrť. Sme
+dvaja: ja a môj potomok. Jeho sekundantom je Neviditeľný; mojím môj
+esprit. On chce žiť a ja chcem svoju lásku. Smier je nemožný.
+
+Hej, ty malá bytnosť, ty dotieravý tvor, čo z jednobunečného stavu
+prerábaš všetky fázy vývoja a drzo nevolane sa derieš k vrcholu, k
+ľudstvu, hej, ty malá, nežiadaná rakovina ľudská, čo rastieš so dňa na
+deň nezadržateľne, ty dedič našej biedy na zemi, zarazže, zaraz! Buď ty
+amoebou v mori, kde je ich na miliardy, buď ty červom, čo ryje v zemi.
+Ostaň stáť dole, na tejto fáze. Neopúšťaj jej, nestaň sa rybou, vtákom,
+ssavcom a najmä nie mrňúkajúcim embryom ľudským, čo príde na svet s
+plačom. Neder sa, ty malý, nevolaný nádor, ty drzé malé klbko
+neslýchanej vitality, ty násilnícky tvor na život vyššie organizovaných
+bytností. Ostaň primitívnou amoebou, alebo radšej v Nirváne. A -- hlavne
+neder sa ty na život taký, pre ktorý by si musel ďakovať, či preklínať
+mňa, čo by ti dával nevoľky ja, ktorý, hľa, dospel som sám ku krajnému
+vrcholu všetkého ľudského rozumkovania: k popieraniu života. Kto sa želá
+von, von zo šialeného kolobehu živých odsúdencov. Kto miesto ubiedenej,
+zvieracej pokory hlása proti Nemu hrdý odboj.
+
+Nie, Neviditeľný Pane, ja zbabelé neutečiem, chcem s Tebou bojovať.
+
+Začnime tedy. Chráň sa, Neviditeľný! Začínam útočiť!
+
+\*
+
+-- Medúza, s Bohom!
+
+-- Ale veď ste teraz prišli a už bežíte? Či je vám tak náhlo?
+
+-- Áno, Medúza, mám ešte toľko práce. Teraz je večer, je deväť hodín, a
+ja mám ešte do rána taký široký program.
+
+Teraz Medúza dívala sa na neho nechápavé.
+
+-- No. nedivte sa, veď vám môžem vysvetliť, o čo ide. Vy ma už
+nemilujete tak, ako predtým, len tak uvedomelé a pokojne, tedy môžem s
+vami hovoriť bez obalu. Medúza, som strateným človekom, lebo som stratil
+vašu lásku. Mojím sokom je akýsi čudný, malý, desať centimetrov dlhý
+netvor, ktorý sa podobá rybe, nevyliahnutému kurčiatku, dnes narodenému
+potkaniemu mláďaťu či hocičomu inému viac, než človeku. A vaša láska,
+ktorá patrila mne, patrí tej malej bytnosti.
+
+Ja som tu, váš Karol, ktorý s vami prežívam večnosť, ktorého vaša láska
+povzniesla do nevídaných, neprístupných výšin a, hľa, teraz ma zbije
+akýsi nenarodený, malý tvor, o ktorom ani neviete, či bude mužom, alebo
+ženou. Ten tvor, ktorý má ešte pred sebou prerobiť všetky formy vývoja,
+aby sa z neforemného červíka vyvinul človek. Má sa ešte stať rybou, mať
+veľké žaberné oblúky, potom sa bude podobať vtáku, ssavcovi, až potom sa
+rozhodne o jeho pohlaví. A daj Boh, aby sa nezastavil na ktoromsi stupni
+vývoja. Hej, Medúza si je istá, že sa nezastaví, ona nepomyslí na
+možnosti a odsotí ťa, hľa, mňa, ktorý už som, už žijem, nie som
+hazardným sľubom, ale skutočnosťou, pre niečo neskutočného, o čom ešte
+nič vedieť nemôže. ‚ Medúza, nie Boh vám poslal smysel života, ale
+Lucifer vás uvrhol do paradoxonu. Slýchal už niekto niečo podobného: --
+Od strachu, aby ste ma nestratili, odhodíte ma od seba.
+
+Netešte sa tomuto sľubu budúcnosti. Nebude človekom, akým by mal byť. Od
+vás, od svojej matky zdedí vašu hypochondriu, vašu neživotaschopnosť,
+vašu prehnanú nenáročnosť a opovrhovanie životom. A odo mňa zdedí môj
+pesimizmus, moju hlúpu úprimnosť a môj pocit hnusu, vmiešať sa do
+špinavého boja života. Medúza, my obidvaja len živoríme. Nás udržuje už
+len naša láska. Vy ste stelesnená neskutočnosť a ja som symbolom
+nemohúcnosti brániť vlastné záujmy. A on, čo po nás príde, bude
+násobením, nešťastným vyvrcholením našich neužitočných pováh. My sa už
+azda ako-tak pretlčieme životom, ale neznám väčšieho hriechu, než tie
+naše nemožné životy preliať do nového človeka. Dať mu takéto dedictvo,
+aby sa stal hlúpym dobrákom, akými sme i my. Šliapať budú po ňom a on
+zauchu nastaví i svoju druhú tvár. Ten svet a budúcnosť patrí gaunerom,
+nemilosrdnému, zaslepenému potkaniemu plemenu, ktoré bude mať chuť
+mlátiť, biť sa v života hnusnom boji. A on bude nešťastným zjavom,
+živým, poľutovaniahodným anachronizmom v storočí drzákov a štréberov. My
+nesmieme mať potomka. Môj život nemá takejto ceny a ak to tedy musí byť,
+ak vy si toho tak želáte, dobre, ja odstúpim. A prisahám vám, Medúza, na
+všetko, čo je vám sväté, že deň jeho narodenia bude dňom mojej smrti.
+
+Medúza objala Karia a horko sa rozplakala.
+
+-- Neplačte, Medúza, a počúvajte ma:
+
+Ako nemal život pre vás ceny kedysi, -- tak nemá pre mňa teraz. Vy ste
+si získali smysel života, ale ja som ho s vašou láskou stratil. A do
+tých čias, kým on príde na svet, mám ešte niekoľko mesiacov. To je
+toľko, ako pretrpieť ten čas v najhorších mukách, v beznádeji, v tieni
+smrti a pri stálom vedomí, že som vás stratil. A ja to vedomie
+neznesiem, neznesiem ho ani chvíľku. Žiť však chcem až do toho dňa, kým
+vy mňa, svojho Karla, zabijete, kým ma zameníte za mrňúkajúci,
+nedokonalý, na hornom konci sa stále živiaci, cucľajúci a dole stále sa
+vyprázdňujúci trakt črevný, opatrený končetinami a hlavou, až ma
+vymeníte za tento ľúbezný kus živého čreva, za ten vrieskajúci životný
+komplex. Hej, kým táto krása sa objaví, mám žiť a budem žiť, ale ako.
+Stratíte ma, Medúza, už dnes, lebo nemôžem žiť ani chvíľku vo vedomí
+vašej zmeny ku mne, ale udusím v sebe vedomie svojho prekliateho života.
+Vy budete svedkom toho, Medúza, Uvidíte, ako si ubíjam v sebe ducha, ako
+sa budem držať v neustálej narkóze. A teraz už pôjdem. Sadnem si do
+najposlednejšieho lokálu, kde mi dovolia, aby som alkoholom zmožený
+prespal pod stolom, váľajúc sa vo vlastných exkrétoch. A čo nedosiahnem
+alkoholom, to dosiahnem morfiom. A vy budete svedkom toho, Medúza, čo
+urobila zo mňa vaša šialená myšlienka: odhodiť ma, aby ste ma
+nestratili. Pred vaším zrakom budem umierať až do toho dňa, kým do
+vresku ľudského embrya pod vaším oknom nezazneje výstrel dobrotivej
+zbrane, ktorá ma vyslobodí z môjho nesmyselného života, aby som
+prepustil miesto novému človeku, ktorého nešťastie, život, som ja
+spôsobil.
+
+Preto škoda ďalších rečí, vy to znesiete, Medúza, lebo ste zmenená, plná
+chuti k životu, a ja to znesiem tiež, však sa už postarám, ako.
+
+Pevným krokom mieril ku dverám. Medúza s výkrikom vrhla sa mu pred nohy
+a zastala mu cestu vlastným telom. Jej tvár smáčaly slzy. Sopäla ruky a
+tak ho prosila:
+
+-- Nesmiete, Karol, nedovolím. Nedopustím. Karol, sľúbte mi, že tam
+nepôjdete! Že sa nepôjdete opíjať, ani morfiom omámiť. Vysvetlím vám
+všetko, všetko, povieme si, čo nám leží na srdci. Urobíme, akiste
+urobíme shodu, kompromis. Iste vás presvedčím, Karol. Uznáte, že mám
+pravdu. Smierite sa s ňou a budete sa radovať spolu so mnou. Veď ja
+budem rada, keď ma neopustíte, ale tú poistku, tú jedinú vec, čo ma
+urobí človekom, ženou, matkou, dieťaťom Božím, tú mi neberte. Ako budeme
+šťastní, uvidíte. Ako sa budeme tešiť tomu novému človeku. Nebude
+ohavným, neforemným živým komplexom, ako ste to tvrdili vo svojej
+predpojatosti. Bude krásnym modrookým, zlatovlasým dieťatkom, s
+anjelským úsmevom na tváričke. Bude vrieskať a mrňúkať, ale bude žvatlať
+vaše a moje meno: -- Papa, mama. Oh, Karol, ako môžete vy, ako lekár
+vidieť špinu a nečistotu v prejavoch života?! Či môže byť nečisté dielo
+Stvoriteľa, ktoré vy v laboratóriu denne sto ráz analyzujete, s
+najväčšou láskou rozoberáte, meriate, farbíte, varíte, chemicky
+popremieňate. Veda vás naučila vidieť všade v každom atóme Boha a
+životný prejav vášho vlastného dieťaťa vás môže znechucovať? Karol,
+sľúbte mi, sľúbte, že mi ho necháte, keď vás o to na kolenách prosím. Že
+nebudete egoistom a podelíte moju lásku medzi sebou a ním. I uznáte, sám
+prídete na to, že vlastne jemu má patriť najväčšia časť mojej lásky,
+lebo ono je bezbranné, maličké, a ja budem jeho všetkým.
+
+Oh, Karol, predstavte si ten krásny obraz: my dvaja nad jeho kolískou.
+Načúvame jeho sladkému žvatlaniu, kocháme sa v jeho anjelskom úsmeve.
+Oh, budem človekom, ženou, matkou, dieťaťom Božím, budem mať smysel
+života; však mi to dáte, však mi to dovolíte, Karol, môj dobrý Karolko?
+
+Kľačala pred ním a držala ho za obe ruky, dívala sa na neho cez slzy, s
+bledým úsmevom nádeje a nadzemskou krásnou chtivosťou svojho materstva.
+Aká bola nevysloviteľne vznešená a krásna.
+
+Odvrátil hlavu. Nezniesol jej pohľad. Cítil sa premoženým jej živelným
+pudom po materstve. Jeho vôľa bola zlomená.
+
+-- Neviditeľný, vyhral si... Vzdávam sa.
+
+\*
+
+Noc ho umučila. Čierna noc sa mu vkrádala do duše a priniesla ta zpäť
+všetky jeho vymizlé pochybnosti. -- Tak, premohol ma? On, ten
+Neviditeľný. Proti môjmu rozumu a tisícim argumentom postavil pud, slepý
+pud matky, a ja som sa vzdal?
+
+A v budúce noci zasa vzkypela v ňom náruživá zloba.
+
+-- Nie, nikdy nedovolím, aby niekto vstúpil medzi mňa a Medúzu. Ona musí
+byť zasa moja, jedine a výlučne len moja a nedelím sa o jej lásku s
+nikým. Nedám ju umučiť, deformovať barbarským mechanizmom pôrodu, a
+vyssávať nenásytným ľudským červíkom. Ak chce, nech pracuje so mnou.
+Vytvoríme spolu pre ľudstvo niečo krásneho, nejaký nesmrteľný dar, ale
+nikdy nie život. Život nový, do toho beznádejného mora životov.
+
+A zasa sa odohrávaly medzi nimi úžasné scény. Nepomohlo presvedčovanie,
+nepomohlo nič, nič. Jediné, čo Medúzou pohlo, bol Karlov posledný
+argument: dobre, tedy jeho život za môj život. Tu sa zlomily jej sily,
+tu vyhasla božská, šialená žiar jej očú. Toto preskočiť nemohla.
+
+A cez dlhé týždne ju presvedčoval. Ako kvapka vody vyrýva do kameňa
+jamku, ako horský potôčik razí si cestu cez skaly, tak vrýval svoju vôľu
+do jej duše a lámal so dňa na deň zelené ratolesti jej nádeje.
+
+Boh mu odpusť za to. Robil to Karol z divého presvedčenia. Niet tej
+obeti na svete, čo by bol Medúze nepriniesol, ale on, živá skutočnosť,
+nechcel odstúpiť pred hazardným sľubom budúcnosti. A nemohol Medúzu
+vidieť takou sebavedomou, ľahostajnou.
+
+Však už nebola taká. Cítila už, že tu niet kompromisu. Každý deň jej
+viacej a viacej dodrúzgal nádeje a radosť zo života.
+
+Jej životná vôľa bola polámaná, lebo bolo všetko márne. Ako s výšky
+padajúca kvapka do kameňa jamku, tak jej vrýval Karol do mozgu svoju
+vôľu. A ona hlavu skláňala hlbšie a hlbšie.
+
+Rozmýšľal, čo a ako spraviť a raz odpoludnia mu priniesli od nej list:
+
+-- Karol, som Vaša. Nesmiem umrieť, lebo chcem byť Vašou. S Vaším
+obrazom v duši vstúpim na cestu a s Vaším obrazom sa Vrátim. Počkajte
+ma, Karol, však sa ja vrátim.
+
+Vaša Medúza.
+
+Zurian okamžite pochopil všetko. Hej, to je ona, Medúza, zvláštna,
+divná, podivínska mačka, čo chodí vždy po svojich cestách. Nikoho sa
+nespytuje, nijakej pomoci jej netreba, príde a odíde, kedy sa jej zachce
+a nik ju nedonúti, aby zo svojich skutkov zúčtovala. Zurian pocítil na
+moment akúsi smiešaninu úcty, dojatosti a hrdosti.
+
+Spomenul si na návštevu, ktorú mal pred pár týždňami, a musel sa usmiať.
+Krajan, úradník banky, mladý človek, ukrutne naplašený, ho navštívil.
+Prišiel práve z domu, hej, k nemu, o radu, čo spraviť, strašná situácia,
+nevyzná sa, doma to nemožno, hej, veď vie akiste, láska s nežiadaným
+ovocím, nemožné pomery, hroziaca spoločenská i hmotná skaza, musí sa to
+nejak riešiť, ale ako, ale ako. Je tu aj ona, hneď ju zavolá. Vstúpila,
+telnatá dedička Afrodity, plakala, fňukala, zúfala, vrešťala. Tiež
+úradníčka, zničili ju, sviedli, uvrhli do nešťastia, hej, a to všetko
+on, on jediná príčina jej nešťastia. Skoro ho uškrtila, preklínala,
+vyčítala mu dopodrobna všetko, líčila ho, ako najhoršieho zločinca. On
+len stál bledý, umučený. Zurian ho poľutoval. Chudák, ty si si dal. -- A
+prečo sa nepoberiete? -- spytoval sa sústrastne. No, nato nasledovalo to
+pravé. Že prečo, lebo je to lotor, sviedol ju a teraz miesto vedomia
+povinnosti sa len vyhovára, hrozí jej samovraždou.
+
+Zurian ju prerušil. Nemohol to už ďalej počúvať. Vyprevadil krajana.
+
+-- Je mi ľúto, priateľu, ale ja sa s takouto vecou nezaoberám, ani
+skúseností nemám. Musíš sa obrátiť inde, lebo ja ti neviem nič povedať.
+Ľutujem ťa však, to si si pekne vybral z nežných dcier Eviných.
+
+A tu, hľa, Medúza. Kým on rozmýšľal, plány robil, ona už i konala. Už i
+zmizla.
+
+Tu naraz pojal ho strach. Uvedomil si situáciu a prebehla mu cez chrbát
+zima. Kam len zmizla Medúza? Kto vie, kam sa obrátila, do akých rúk sa
+dostala?
+
+Teraz nahliadol do veci v celej hrozivej, pochybnej podstate. Hnaný
+najhoršími predtuchami vyskočil a bežal k Medúze. Cestou sa tešil. Iste
+to nebude tak zle. Nájdem ju, dozviem sa, čo je, nedovolím, aby sa jej
+ublížilo.
+
+Jej dvere boly zavreté a na klopanie sa nikto nehlásil. Iba domovník sa
+ozval. -- Nik je nie doma, ale tu máte list. Je to pre vás. -- Zurian
+pozrel na obálku. Hej, to je jej písmo. Zimnične otvoril list. Nič, ani
+riadok. V listovom papieri iba jedna červená ruža, polouschlá, ale pekne
+zachovalá. To je celý odkaz Medúzin a nič viac sa dozvedieť nemohol.
+
+Behal ako poloblázon celý deň. Pochodil najnemožnejšie miesta, ale
+nadarmo. Večer bol úplne vyčerpaný a krajne rezignovaný. Cítil, že ju
+nenájde, treba len čakať, čakať, kým ju osud navráti.
+
+Zurian sa stal precitlivelým oproti belasej farbe. Medúza nosila
+sivobelasé šaty a Zurian vzrušene hnal sa na uliciach za každou ženskou
+postavou, ktorá sa mu kmitla v diaľke, oblečená do tejto túžobne
+hľadanej farby. -- To by mohla byť ona, tá istá farba i strih šiat, len
+tá chôdza je nie jej. Kdeže by vzala Medúzine pružné, rychlé, graciózne
+pohyby! -- Hľa, tam zasa ktosi v belasých šatách! -- Takto sa klamal
+celý deň, omamoval sa bledou vzkrsnúcou nádejou, aby potom zas
+rezignoval. Postával pred obrazárňami i papiernickými obchodmi a hľadal
+Medúzinu tvár. Denne i desať ráz prešiel po Stefanskej ulici, lebo tam
+vo výklade objavil Madonu, ktorá mala črty Medúzine. Ten melancholický
+pohľad, tie malé, čerešňové ústočká, tá sladká biela tvár. Obraz bol
+veľký a drahý a Zurian bol zdrtený, že si ho nemohol kúpiť.
+
+A v tie dni pochopil Zurian, v čom nikdy neveril, k čomu sa staval vždy
+ironicky a nechápavé, ako je možné pre lásku umierať. Aké je to, keď
+láska vyplní celú dušu muža a pri nej scvrkne sa všetko, celý život na
+smiešnu, bezcennú malichernosť.
+
+Túlal sa po uliciach poloomráčený. Nebol schopný doma sedieť, svoju
+prácu na oddelení konal mechanicky, ako stroj. Knihu do ruky vziať
+nemohol, lebo mu Medúzina tvár zastrela písmená. Sto ráz sa obrátil v
+jej ulici a díval sa hore do jej okien, či sa tam ona za záclonami
+nezjaví, alebo večer naraz nerozsvieti. Celá jarná Praha bola plná jej
+pamiatky. Cestičky Stromovky, opustená lavička, tam kinematograf, kam ju
+raz násilím zavliekol. Po predstavení stratila rukavice. Všade vždy
+niečo stratila, všade zle pochodila, nikdy nič poriadne vybaviť
+nevedela. Podať odporúčaný list na pošte robilo jej tisíc starostí. --
+Bože, ako sa to len robí? -- Do úradu by nebola išla za nič na svete.
+Nech sa radšej stane, čo chce, čo by ona tam robila? Samé tázavé,
+cudzie, chladné tváre, samé odmietnutie: nemám času; to nám nepatrí;
+maly ste ísť ta a ta; to je nesprávne napísané; dnes sa neúraduje; chybí
+vám kolok -- samé príšerné, nepochopiteľné námietky, ktoré Medúzu
+privádzaly do zúfalstva, že napokon utiekla, nechajúc všetko nevybavené.
+
+Nech si podržia svoje milosti, svoje úradné hodiny, formuláre, ktoré im
+človek nikdy nevie po vôli vyplňovať, aj svoju ochotu, ktorú keď
+niektorý tu a tam preukáže, tak sa díva na človeka, ako keby čakal, kedy
+padne pred ním z vďačnosti na kolená. Odporní ľudia, ten celý svet vonku
+je odporný, neznesiteľný... brrr...
+
+Zurian sa musel smiať. Medúza prskala ako mačka, ktorú hladkajú proti
+srsti. Ani sa nepokúšal poučovať ju, jej odpor k ľuďom vyvieral z hĺbky
+duše, bol to rozháraný, v živote nemožný tvor, ale Zurian takto ju mal
+rád. Tvorila pre neho kontrast medzi ohavnými, praktickými kvočkami
+tohoto vonkajšieho sveta, čo on tiež nenávidel. Medúza proste nebola,
+nežila, Zurian mal stály dojem, keď ju videl a hovoril s ňou, že je to
+len akýsi nejasný, nepravdepodobný sen. Medúza bola pre neho
+skutočnosťou a pamiatkou naraz, ideálnou čistou pamiatkou, lebo nemala
+ani jediného slova, pohybu, činu, čo by bol Zurian na život a na hmotu
+pripomínal.
+
+A teraz bol chorý, duševne úplne rozvrátený v túžbeza ňou.
+
+Štrnásť dní ju nevidel. Márne ju hľadal ako pološialený. Nebolo jej
+nikde. Keď cez tých štrnásť dní od strachu o jej osud a túžbou po nej
+neprišiel o rozum, tak už ho nestratí nikdy.
+
+A po štrnástych dňoch raz večer tiché klopanie. Vstúpila Medúza. Jej
+tvár bola bledá, bledá ako stena a neistý jej krok. A na jej bledej,
+umučenej tvári jej starý, oddaný, zbožňujúci úsmev k nemu, k jej
+Karlovi.
+
+Oh, ako sa jej vrhol k nohám, bozkával ako šialený okraj jej šiat,
+siahol jej na ruky, na tvár, či je to ona, nijaký duch, nijaký klam, ale
+jeho navrátivšia sa Medúza. Ako ju zaplavil bozkami svojej nadzemskej
+extázy od hlavy až k päte, koktal nesrozumiteľné slová bláznivej
+radosti.
+
+-- Tak, vy ste to, Medúza, vy ste to, tu ste, vrátili ste sa ku mne?
+
+Medúza hladkala jeho vlasy.
+
+Zurianov hlas sa stal neistým:
+
+-- A... a... Medúza, už nik nestojí medzi nami?
+
+Sklonila hlavu a keď ju zdvihla, bola ešte bledšia. Slova nepovedala,
+len z očú jej hovorila jej životom opovrhujúca, nekonečná láska k nemu,
+Karlovi.
+
+Nadzemská láska svätice-ženy, v červivom živote, čo sa ti vyrovná? Kde
+je pero, čo ťa opíše, kde báseň, čo ťa ospieva, hrdinné mučeníctvo
+milujúcej ženy, nemilosrdným osudom odsúdenej trpieť pre milého. Trpieť
+bez slova výčitky, s bledým úsmevom na tvári, s planúcimi očami, v
+ktorých horí vernosť a oddanosť a sladká túžba, byť otrokom jeho,
+jediného, milovaného.
+
+Hej, bola to ona, jeho navrátivšia sa Medúza.
+
+-- Hej, Neviditeľný Pane, -- tento boj som vyhral ja.
+
+-- Ešte nie, -- odpovedal ktosi, -- ale Zurian to ešte vtedy nepočul.

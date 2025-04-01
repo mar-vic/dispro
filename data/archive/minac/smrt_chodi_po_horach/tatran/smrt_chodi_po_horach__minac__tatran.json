@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Smrť chodí po horách",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1950"
+    },
+    "firsted": {
+        "pub_date": "1947"
+    },
+    "authors": [
+        {
+            "first_name": "Vladimír",
+            "last_name": "Mináč",
+            "birth_date": "1922",
+            "death_date": "1996",
+            "ref": "viaf:68942772"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

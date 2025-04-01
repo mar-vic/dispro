@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Tatárska pohroma",
+        "publisher": "Východoslovenské vydavateľstvo",
+        "pub_place": "Košice",
+        "pub_date": "1970"
+    },
+    "firsted": {
+        "pub_date": "1943"
+    },
+    "authors": [
+        {
+            "first_name": "Matej",
+            "last_name": "Vojtáš",
+            "birth_date": "1904",
+            "death_date": "1968",
+            "ref": "viaf:84344365"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

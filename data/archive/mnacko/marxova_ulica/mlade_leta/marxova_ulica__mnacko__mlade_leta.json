@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Marxova ulica",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1957"
+    },
+    "authors": [
+        {
+            "first_name": "Ladislav",
+            "last_name": "Mňačko",
+            "birth_date": "1919",
+            "death_date": "1994",
+            "ref": "viaf:14822303"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

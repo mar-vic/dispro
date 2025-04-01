@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Zo Španielska. Zápisky cestovateľa.",
+        "publisher": "Kníhtlačiarsky Sv. Martin",
+        "pub_place": "Turčiansky Sv. Martin",
+        "pub_date": "1914"
+    },
+    "authors": [
+        {
+            "first_name": "Kornel",
+            "last_name": "Stodola",
+            "birth_date": "1866",
+            "death_date": "1946",
+            "ref": "viaf:38934028"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,255 @@
+Most z pevniny cez more do Benátok je ak nie najväčší, aspoň jeden z
+najväčších na svete. Táto sláva vytrvalosti a ľudského umu je 2 1/4 míle
+dlhá na 222 klenbách a na 180 menších a 36 väčších stĺpoch stojí v mori;
+pod mostom behajú lode. Od r. 1841 za päť rokov stál hotový. Okolo neho
+a ďalej napravo a ľavo vidno malé, v mori vystavané tvŕdze; vynímajú sa
+ako „Kugelhupfy#POZ#1;#I#„Kugelhupfy"#-I# - (z nem.) bábovky#-POZ#"
+špikované delami. Beh vlaku cez most trvá asi pol hodiny. Benátky, ktoré
+sa oku cestovateľa predstavujú zďaleka sťa jež, rastú vždy určitejšie z
+vody a picháče predstavujú sa ako početné veže tohto divotvorného, na
+vode a vo vode zakoreneného mesta. Krásne, veľké, ohromné sú
+kontinentálne mestá, ale Benátky sú svojou polohou zvláštne unikum.
+
+O jednej hodine a deviatich minútach zastali sme v stanici. Strakatý ľud
+valil sa vrátami. „Hotel Grand Italia!" zavolal som a našu batožinu bral
+sluha tohože hostinca. Zo stanice dolu schodmi zbehnúc, sadli sme do ---
+člnka (gondola). A dvaja plavci (gondolieri) veslovali nás veľkému S
+podobným prieplavom medzi impozantnými, prosto z vody vyrastenými
+palácmi, popod utešený, na jednej klenbe stojaci most Ponte di Rialto do
+hostinca Grand Italia. Pred nami a za nami knísalo sa viac člnkov toho a
+druhých všakových hostincov. Atmosféra bez prachu, ale rybací zápach,
+pohodlné hučkanie, melancholické volanie gondolierov, pľačkanie vesiel,
+vôbec nový, cudzí zjav okolo tých predmetov myseľ citného človeka uvedie
+do zvláštneho položenia. Treba to vidieť, opísať sa to nedá. Preto i
+toľkí putujú sem na obdiv.
+
+A čo všetko sme mali ešte vidieť! Už tretí raz vždy po desaťročí som
+navštívil Benátky#POZ#2;#I#Už tretí raz\... som navštívil Benátky#-I#
+Prvý raz tam bol r. 1856, druhý raz r. 1864, keď sa vydal na cestu 17.
+3. a vrátil sa 26. 4. Tretí raz bol so ženou a dcérou Mariškou. Pohli sa
+13. 8. a vrátili sa v polovici septembra 1887. (Všetko údaje vo Vlastnom
+životopise.)#-POZ#, ale bohzná, tak som tú vážnu matrónu obdivoval ako i
+prvý raz. Minulá sláva toho mesta, akoby sa smrteľník bál, že sa do mora
+zanorí, púta jeho zmysly, vzbudzuje jeho pozornosť.
+
+Pretože v celých Benátkach vozov, a teda ani záprahu niet, konajú službu
+člnky, a preto sme tie hýbadlá stretávali celou cestou, ako hore-dolu
+behali. Na rohu ulice, to jest kanálu, aby nebúšili jeden do druhého,
+zavolá gondolier „ajé!" a stojí a druhý vykarujúc mu odpovie slovami,
+čiže melancholickými zvukmi.
+
+Okrem Canala Grande majú Benátky, ktoré stoja na miliónoch kolov, do
+spodku lagún vbitých, a na 70 --- 80 ostrovkoch, asi 400 menších kanálov
+a 450 mostov. Medzi mostmi vyníma sa rozmermi most Ponte di Rialto, tak
+ako Canal Grande medzi druhými kanálmi. Opustiac Canal Grande pri Rio di
+St. Lucca cez Rio Barcaroli, zastali sme pri kamenných schodoch, kde nás
+i s batožinou vysypali von. V predsieni hemžilo sa služobníctvo hostinca
+„Grand Italia", lebo v ňom sme boli; keď jeden bruchatý, hlavný
+hostinský z polhárkového fermanu vyčítal číslo izby, pobrali nám veci a
+nás schodmi hore, schodmi dolu, chodiac naľavo, pravo, rovno, krivo,
+vodili priam ako v podzemných väzeniach potti#POZ#3;#I#V podzemných
+väzeniach potti#-I# - (tal.) chodieb#-POZ# dóžovho paláca; ked sme došli
+na našu chyžku, počala sa nám už hlava krútiť. Uveríte, že tomu tak, keď
+vám poviem, že pán Bauer; rodený Viedenčan --- teraz grand Talian ---
+prikúpil ku svojmu povestnému hotelu (Hotel Bauer) jedenásť
+väčších-menších domov. Bolo nám strach vyjsť z izby, že tri dni budeme
+habkať po chodbách, kým sa dostaneme do dákeho --- kanálu. Sám jeden bez
+nitky by sa nebol pustil, ináč by sa bol naplakal po ambitoch za týždeň.
+Vskutku nám povedala obsluha, ktorá strážila kľúče asi 56 --- 60 izieb v
+príslušnom pitvorku, že jeden pán, obývajúci susednú izbu za osem dní,
+bez pomoci nevedel potrafiť na ulicu. Výhľad našej ináč čistotnej chyže
+bol na starý susedný múr, čo stál tak blízo pri našich oknách, že ak by
+bol hlavu strmo von oknom vystrčil, bol by susedovi čelom stenu prebil.
+No ale však našou úlohou nebolo v izbe vysedúvať.
+
+Chytro sme sa teda pristrojili a dali sme sa vyviesť von. Grand Italia
+má asi päťsto bytov. Má bibliotéku, konverzačný salón, biliard atď.
+Skvelá jedáleň bola nádherne pokrytá. Boli by sme si i my sadli k
+obecnému (table d'hôtel#POZ#4;#I#Table d'hôte#-I# - (franc.) spoločný
+obed v hostinci#-POZ#) obedu, ale ten mal byť len o šiestej večer, a my
+lační pobrali sme sa teda do druhej otvorenej jedálne, kde sa obeduje
+veselšie, hoc menej aristokraticky a bez zaviazanosti. Obeduje sa vo
+troje: v priestore cele otvorenom, polootvorenom a v izbe. Mnoho tu
+hostí, najviac cudzích, a medzi nimi umelcov, maliarov a rezbárov,
+ktorých ako takých či nápadný zovňajšok či rozhovor dokazuje.
+
+Po obede šli sme na nevyrovnane pekné a zaujímavé námestie St. Marco.
+
+Námestie to nie je podľa našich všeobecných pochopov, lebo tam nevidieť
+ani koňa, ani voza, ani žiadneho zvera okrem človeka, psa a nesčíselných
+holubov. Dlhé je 175 m, široké 56 --- 82. Vykladané je trachytom a
+mramorom, čo v istej diaľke, napríklad ak to človek ráno, keď málo ľudu
+sa prechodí, obzerá, dobre sa vyníma a podobá sa obrovskému čalúnu. Toto
+námestie, podlhovastý štvorhran, lemované je z troch strán palácmi
+Procuratie Vecchie. Tieto mnohé paláce, bývania niekdajších prednejších
+republikánskych aristokratov, sú vlastne jedným palácom, lebo celé tri
+rady nerozoznávajú sa vonku ničím jeden od druhého a stoja spojené bez
+pretrhnutia. Pochodia zväčša z XV. storočia. Spodkom okolo tiahnu sa
+arkády, ktoré pár stupkami vyššie sú od námestia nesené rovnakými
+stĺpmi. Pod arkádami sú elegantné sklepy, zväčša zlatníci a kaviarne.
+Štvrtá časť Piazze končí sa chrámom sv. Marka a Piazzetta zadným krídlom
+Palazza Ducale. Zľava je Orologio, priechod na Mercerie. Piazzettou beží
+časť ohromného prelomeného palácového límca k prístavu Canala Grande, a
+v tom oddiele je Zeccha, to jest peňažnica (mincovňa). Pred čeľusťou
+Chiesa di San Marco stoja vysoké cédrové žŕdky, kde viali republikánske
+vlajky. Na Piazza di San Marco stojí ešte štvoruhlastá vysoká veža, pod
+ňou a o ňu opretá malá mramorová logetta. O tejto sa zmienim pozdejšie.
+
+Keď kráčaš obrátený tvárou proti chrámu sv. Marka a zvrtneš sa pri veži
+Campanilla pod rovným uhlom napravo, máš pred sebou Piazzettu, vlastne
+pokračovanie Piazza di San Marco, pravo vbok k brehu Canala Grande. Keď
+tu medzi Zecchou sprava a Palazzou Ducale poberáš sa k moru, príduc k
+brehu, k širokým k prístavu vedúcim schodom, pred čelom svetoznámeho
+Palazza Ducale na východ ťahá sa dlhý breh Riva degli Schiavoni
+(slaviansky), a ty stojíš medzi dvoma stĺpmi. Na ľavom stĺpe vysoko hore
+stojí lev sv. Marka (erb slobodnej benátskej obce), na druhom stĺpe
+oproti stojí sv. Teodor.
+
+Tieto nápadné stĺpy sú z mramoru; doniesol ich duca (knieža) Domenico
+Michieli, vracajúc sa zo Svätej zeme, ako víťaznú korisť z ostrova Naxos
+r. 1127. Boli určené do chrámu sv. Marka, ale tým Benátčania tak boli
+zaneprázdnení, že na stĺpy --- pozabudli! A tie zabudnuté ostali na
+Piazzette päťdesiat rokov v odpočinku. Keď si už dobre oddýchli, pribral
+sa a postavil ich hore koncom, hoci to v nedostatku vtedajšej mechaniky
+dosť tvrdo išlo, staviteľ Niccolo il Barattieri. Capitole im postavil
+preto, aby nemokli. Za vystavanie stĺpov pán Niccolo nežiadal peniaze,
+ale inšiu odmenu. Vtedy boli v Benátkach, tak ako teraz u nás, hazardné
+hry zakázané, on teda vypýtal si od dóžu povolenie vystavať medzi tými
+stĺpmi pre seba a potomkov herňu. Bolo to síce proti vôli kniežaťa, ale
+chcejúc zadržať dané slovo, povolil, a
+šantalkovalo#POZ#5;#I#šantalkovalo#-I# - hazardne hralo#-POZ# sa tam za
+štyristo rokov pre majiteľa a jeho potomkov s očakávaným dobrým
+výsledkom.
+
+Pozdejšie, ale v rozličných dobách, vystavali na červený stĺp sochu sv.
+Teodora, na sivý leva sv. Marka so sv. evanjeliom v dlabách. Pod
+kniežaťom Andreom Grittim#POZ#6;#I#Andrea Gritti#-I# - bol veliteľom
+benátskeho vojska a v r. 1523-1538 dóžom#-POZ# boli medzi týmito stĺpmi
+odpravovaní zločinci, čím aristokratickí hráči sa úplne odpudili z
+tohoto miesta, pretože to miesto stalo sa nečestným.
+
+Podľa povesti republika v nedostatku zločinov dávala na tom mieste
+zavesiť na prestrašenie ľudu mŕtvoly neznámych ľudí na znak toho, že
+právomocnosť prísne bdie. Čo ale, pravdaže, potrebuje potvrdenie.
+
+Popri Torre dell Crologio išli sme do Mercerií. Je to vlastne trhovište
+s tesnými uličkami, kde v sklepoch i vo dne, nech je kus zamračená
+obloha, musia horieť svetlá. Domy sú vysoké z oboch strán, ulice tesné a
+veľmi preplnené prechádzajúcim sa obecenstvom. Spodky domov sú preplnené
+sklepmi, kde človek, hoc i nič nekúpi, zabaví sa a nájde všeličoho dosť.
+Keď ideš dačo kúpiť, zvlášť cudzí človek, musíš sa mať na pozore, lebo
+solídnosť predavačov je nie nepochybná, a keď príde na jednanie,
+uspokojíš ho aj tretinou opovedanej ceny.
+
+Čas sme dobre použili a putovali sme bez prestávky, obzerajúc všetko, čo
+sa obzerať dalo, bez ustáleného na tento deň programu. Vydýchnutie
+záležalo v tom, že sme smädní veľkú žízeň hasili lacným sladoľadom alebo
+limonádou. Vodu, tak aká je, piť nemožno, tú lebo z pevniny dovážajú,
+alebo v cisternách lapenú filtrujú; ale je teplá, mäkká. Pije sa s kus
+ľadom, ktorý ti sklepník vloží do pohára.
+
+Ale najkrajší pôžitok je večer. Tisíce svetiel v nádherných sklepoch pod
+arkádami sa odráža a množí v blyštiacich nepočetných zlatníckych
+pokladoch, k tomu veľké plynové lampy na arkádových pilieroch. To spolu
+tvorilo báječné svetlo. Nebo bolo jasné, tiché a mesiac sa ligotal,
+akoby ho bol kriedou alebo škripom vyleštil. Benátsky pekný svet, ktorý
+vo dne doma čuší, večer elegantne pristrojení valí sa pod arkády a na
+námestie. Všetko plno, všetko sa hýbe. Pred kaviarňami, von až takmer
+doprostred námestia, vyložené sú stolíky a stolce, kde sa ľud hostí;
+naprostred námestia hrá vojenská hudba. Čeľusť velebného,
+prísno-krásneho chrámu sv. Marka útlo osvietená hľadí na meniace sa, od
+stá rokov prichodiace a odchodiace národy; pred Piazzettou čľapkajúce
+vlny Canala Grande, postriebrené mesiacom driapu sa raz hore schodmi,
+raz zase utekajú nazad. To je ten obraz: „Jeden večer v Benátkach" --- a
+takých večerov chválabohu, zažili sme viac.
+
+Keď sa hráva v divadlách --- v horúcich obdobiach roku nehrávajú ---
+večer o deviatej idú Benátčania do divadla a okolo polnoci domov.
+
+Verejný život Benátčanov odbýva sa večernou dobou, a to na námestí sv.
+Marka, ozaj skvelým spôsobom. A kto takéto večierky zažil, ten na ne
+istotne nikdy nezabudne.
+
+Keď sme napásli uši, oči --- len nos nie, lebo lagúny smrdia --- keď sme
+občerstvili žalúdok, uspokojili ducha, vrátili sme sa po odchode hudby i
+my na odpočinok. Za nami ešte dosť tam ostalo obecenstva. Však sa to tam
+dobre vysedúva, keď morský vetrík chladí; sedelo by sa tam trebárs do
+rána, čo, pravda, mnohý básnik, maliar a zaľúbenec istotne i urobí.
+Mnohí páni, menovite cudzinci, líhajú večer do gondolí (člnkov) a
+gondolieri šúchajú ich celú noc po kanáloch medzi starožitnými
+tajuplnými palácmi. Ráno, keď začne svitať, poberajú sa domov. Ráno pred
+východom slnka býva najchladnejšie, vtedy omdleté telo obživne a sa
+zotavuje.
+
+Keď sme prišli na hospodu, bolo nám ako v pekárskej peci. Cez deň boli
+síce obločnice --- ako to v Talianskej obyčajne v lete býva ---
+zatvorené a na noc otvorené, ale čože, keď steny boli horúce. Na
+širokej, dlhej, pohodlnej posteli talianskej človek takmer nezakrytý
+rozvalený ležíš a pot crká ti vodoskokmi z rozmoknutej kože. Ba čo viac,
+následkom potenia sa dostali sme po celom tele, ale najviac po prsiach,
+červený svrbľavý výsyp, takzvaný kalori. Je on nepríjemný síce, ale
+povedajú, že slúži na zdravie, a to možno, lebo pozdejšie, keď sme
+prišli medzi taurských velikánov, kde je temperatúra značne nižšia a kde
+sa kalori stratil, cítili sme sa veľmi dobre a boli sme zdraví.
+
+Druhý deň ráno sme vstali okolo šiestej. Voda na umývanie bola nám
+teplá, akoby ju bol hrial. Šli sme raňajkovať na námestie, kde bolo
+príjemne chladno. Ešte v hostinci sme si najali vodiča menom Olivier
+Ferrari. Zjednali sme sa s ním denne --- za tri osoby --- 18 frankov, čo
+je nie veľa, keď pomyslíme, že všetky diškrécie a gondoly on platí, čo
+je veľmi pohodlné, lebo sa človek o to ďalej starať nemusí.
+
+Pri raňajkách nás obklopil kŕdeľ sivých holubov, všetko jednofarebných.
+Tieto holuby bývajú kŕmené na útraty republiky v jednom uhle na prvom
+poschodí v obloku o druhej popoludní. Sú podobné husiam rímskeho
+Kapitolia a voľakedajším kremnickým pávom. V Ríme už husi pojedli a v
+Kremnici miesto pávov do módy prišli krivonosy, len Benátky zachovali
+svoju dávnu obyčaj.
+
+Táto čudná obyčaj má podľa povesti svoj základ v tom historickom deji,
+že keď admirál Dandolo v XIII. storočí obliehal
+Candiu#POZ#7;#I#Candiu#-I# - Krétu#-POZ#, bol z ostrova o nepriateľových
+úmysloch upovedomený listom, ktorý mu doniesol holub. Na to Candia padla
+a túto zvesť poslal Dandolo Benátčanom zase skrz holuba, listonoša.
+Títo, teraz, pravda, už zo služby vypadnutí poštárikovia ničomne
+vysedúvajú v dlhých radoch na kamenorezbách velebného chrámu sv. Marka
+alebo sa točia medzi pocestnými na Markusovom námestí.
+
+No ale dosť o holuboch. Po raňajkách vstúpili sme z Piazzetty do člnka.
+Gondoly (člnky) podľa starej obyčaje sú čierne, rovnaké. Prostriedok,
+kde sedia pasažieri, je pokrytý čiernou látkou v podobe pol suda.
+Sedliská sú nízke, ale sa v nich a v chládku dobre sedí; gondolieri,
+jeden spredu, druhý zozadu, veslujú a kormidlujú. Za časov staršej
+republiky začala sa v držaní gondol vyvinovať veľká nádhera, vláda teda
+ustanovila jednoduchú čiernu ozdobu pre všetky vrstvy. Teraz --- pod
+talianskou vládou --- už odstupujú i od farby, i od formy a gondolieri,
+predtým bosí, v krátkych nohaviciach po kolená, opásaní okolo pása
+červeným závojom, v košeli, na prsiach otvorenej, a s červenou alebo
+čiernou čiapkou na hlave --- starý malebný kroj už začínajú opúšťať a
+odievajú sa krojom obyčajných brodárov.
+
+Sedeli sme teda v takej ešte pôvodnej loďke, vyzerajúc bočnými oblokmi
+na predmety, všetko to nanajvýš interesantné.
+
+Viezli sme sa popri veľkej bielo-červenej anglickej lodi, ktorá prišla z
+Východnej Indie a mala ta zase odplaviť. Jej výsluha bola napospol z
+černochov záležajúca. Čierne tváre a bielo-červeno-modré živé farby
+odevu sa nápadne odrážali, lodný kuchár bol celý v bielom rúchu a z
+istej látky vyzeral ako straka. Mužstvo drhlilo, mastilo a leštilo loď;
+mastili kolesá do cesty.
+
+Ledva sme tú spustili z očí, stretli sme bagger-loď, poberajúcu sa s
+nákladom von do šíreho mora. Bagrová loď vyberá strojom podobným ružencu
+múľ z kanálov, ten múľ kydá do bočných bárok a keď sú plné, vezme ich
+pod pazuchy a ide von do mora, tam výkaly bárky vypustia von a poď zase
+nazad do roboty. Tieto výkaly slúžili by nám dobre do poľa, ale tam ho
+niet, nuž to púšťajú do hlbín tajného mora.
+
+Parníky, loďky, člnky behali okolo nás krížom-krážom.
+
+Preplaviac Canal Grande, stavili sme sa pri voľnom, širokom, pekne
+dláždenom námestí a pred nami stojí na schodoch povýšený jeden z
+najkrajších chrámov Chiesa St. Maria delia Salute#POZ#8;#i#Chiesa St.
+Maria delia Salute#-I# - (tal.) kostol Panny Márie Spásnej#-POZ#. Hrdo
+sa vznášajú jeho sudom podobné dutiny. --- Tento chrám vystavaný je na l
+200 000 do mora vbitých drevených pilieroch.

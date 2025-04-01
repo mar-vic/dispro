@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Striga a Doviedol somára miesto kravy.",
+        "publisher": "J. Gašparík",
+        "pub_place": "Turč. Sv. Martin",
+        "pub_date": "1918"
+    },
+    "firsted": {
+        "pub_date": "1909"
+    },
+    "authors": [
+        {
+            "first_name": "",
+            "last_name": "Somolický",
+            "birth_date": "1863",
+            "death_date": "1918",
+            "ref": "viaf:3600159477710827990005"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

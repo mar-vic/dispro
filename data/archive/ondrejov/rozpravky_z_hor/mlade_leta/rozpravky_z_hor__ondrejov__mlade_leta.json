@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Rozprávky z hôr",
+        "publisher": "Mladé letá",
+        "pub_place": "Bratislava",
+        "pub_date": "1963"
+    },
+    "firsted": {
+        "pub_date": "1932"
+    },
+    "authors": [
+        {
+            "first_name": "Ondrejov",
+            "last_name": "Ľudo",
+            "birth_date": "1901",
+            "death_date": "1962",
+            "ref": "viaf:18104875"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,244 @@
+[]{#anchor-5}Na jarmok!
+
+Čože sa robí tomu gazdovi Turákovie? Veď hlásnik ešte len toť pískal
+prvú, a on je už hore. Sedí si pri obielenom kozube, na ktorom kmitá sa
+slabé svetlo rozštiepaných triesok. Plamienok uhýba sa sem-tam sťa
+tanečnica; hneď zas poskakuje vozvysok, ani čo by túžil oddeliť sa od
+triesok, ktoré ho živia, a hore kozubom na pôjd vyletieť. Tu, hľa, so
+slabým ohníkom pohráva si víchrica, čo tamvon zúri. Silný oheň nedal by
+sa víchrici ani dvojnásobnej prevládať. Poznať, že ten mladý gazda,
+Turákovie Janko, iba teraz vyskočil z postele. Keď predrapil oči, skočil
+na rovné nohy, lebo sa zľakol, že už odbila štvrtá. Prežehnal sa len tak
+mimochodom, akoby z obyčaje, a spolovice oblečúc sa, chytil sa do
+rozkladania ohňa. Včera večer už o deviatej si bol ľahol, lebo dnes
+treba mu ísť do Teplej na jarmok. Mal úmysel, že hneď o polnoci vstane,
+veď ešte mnohé treba priprávať na cestu. Volky, ktoré ta vedie, si už
+včera dobre obriadil síce --- lebo tie sú prednejšie --- nasypal im do
+žľabu medzi sečku vzdor horlivým protestom svojej polovičky hojne ovsa.
+Áno, áno, on zo sypárne vzal čistého ovsa, ani čo by ho boli holuby
+naoberali, a dal ho svojim volom. Turák je dobrý gazda: keď sa na humne
+mláti, nesmie sa žiadne zrnko stratiť; keď niektoré vyfrkne pred vráta,
+on ho hneď a zaraz zdvihne a do humna hodí. Nevymlátený klas neťaží sa
+mu veru osobitne cepíkom raz-dva udrieť. Hej, a nech mu len ešte
+„gazdinej" husi do humna sa vkradnú a klas uchvátiac, oň vo dvore
+hašteria sa, tu pochytí metlu a durí bezočatých pažravcov, až iba niekde
+v potoku zastanú. Niekedy ale i vyhodí do nich metlou alebo iným.
+
+V domoch našich gazdov je medzi gazdom a jeho ženou prísne rozdelená
+práca; každý má svoj okruh účinkovania, ktorý jeden druhému
+neprekračujú. Drôbež patrí gazdinej, preto Turák, čo by aj všetky husi
+hladom pokapali, nedal by im hrsť niečoho. On husi nepovažuje ani za
+svoj majetok: to je „gazdinej". Niekedy, keď stojí so ženou na najlepšej
+nohe, teda v slabších chvíľach svojho života, alebo keď sa jej chce
+zaliečať, zažmúri oko nad husami, keď mu z humna chcú niečo uchytiť. To
+je najvyšší stupeň lásky oproti žene. Ale ak je medzi ženou a mužom len
+malá diferencia, vytrpí to hyd, lebo vtedy husi sa nesmú vo dvore ani
+len ukázať. Sliepky, tie už nahliadli bezvýslednosť svojich pokusov
+niečo z humna zdrapiť, preto sa tam ani len neukážu.
+
+Keď ale „stará" predá husi a sliepky, plátno a iné jej patriace veci,
+peniaze ani nepýta Turák od svojej ženy, a čo by aj pýtal --- nedostal
+by ani haliera. Tie sú už ktoviekde! Turák síce vídava v sypárni truhlu,
+ustavične zamknutú; ej, dobre on vie, že v jej priečinku by sa niečo
+našlo, ale je nie zvedavý. Vlani prišla tvŕdza naňho veľká, keď musel
+bratovi mnoho peňazí vyplatiť ako odstupnô z domu a majetku; všetky
+peniaze vydal, čo mal nahotove, a ešte vyše stovky mu chybovalo. Už
+chcel bratovi podpísať zmenku na svoj dlh, keď hodná jeho žena vyčítala
+hotové na stôl. Kde to ona vzala? Z domu jej mať nič nedala, lebo bola
+veľmi chudobná. Hja, to je z priečinka. Ešte by sa tam dosť hodne našlo,
+nuž ale Turák sa o to netrápi. Majú iba jedného chlapca, Janka. Keby mal
+i dievča, veruže by inakšie dozeral na priečin do truhly, aby ta
+primnoho nevchodilo, lebo mamičky už len najradšej dievkam svojim
+odkladajú; ale takto veľmi dobre vie, že čo koľko tam bude, to všetko
+„jeho" Jankovi zostane. Teda ešte aj deti medzi sebou rozdelia, jestli
+majú dvoje.
+
+Niekto by myslel, že takéto rozdelenie práce domácej je prameňom hnevu v
+rodinách našich. Avšak by sa veľmi mýlil. Práve to sú najporiadnejšie
+domy, kde takýto zvyk panuje. A to malé hašterenie, to je len dôkaz
+obapoľnej zhody a lásky u gazdov našich. Práve mladé páry manželské
+takto rady sa naťahujú, a to bez najmenšieho zlého následku.
+
+Turák má v maštali tri páry volov. Čo ešte okrem toho tam jest, o to
+pramálo sa stará; voly sú jeho radosť i potešenie. Keď ide na jarmok,
+srdce mu stisne úzkosťou, čo a ako budú tie ostatné bez neho. Čo by ich
+gazdiná ako riadila, predsa požiadavkám jeho nevyhovie. Vlasy mu dupkom
+vstanú, keď potom na ten neporiadok pozrie. A ako by aj nie?
+Tiesk^1^[^1] a vidly, ktoré majú byť v kúte opreté, pohodené sú na
+moste,^2^[^2] pavučín na povale hrúza, a v žľabe? Nevôľa sadne mu na
+čelo. Tam leží už päťdňová sečka, a to aká sečka! Veru nie krátka,
+pekná, rovná, akú on nareže, ale dlhá a nepravidelná a medzi ňou ani
+stebla ďateliny. Voly zdajú sa mu byť kostrami; uchlpené sú na posmech,
+lebo gazdiná ich ani len nečesala. Na toľkéto prehrešenie zo strany ženy
+nasleduje mužova spravodlivá pomsta. Vyhrnie starú uslinenú sečku zo
+žľabu do veľkého koša a vsype to krave.
+
+„Na, žer ty, čo tvoja chýrna gazdiná volom dala!"
+
+Až teraz mu na srdci odľahlo, keď takéto skvelé zadosťučinenie vzal si
+od svojej ženy.
+
+Dnes už hodil po prvý raz volom, dal im zas ovsa; teraz ale pri ohni
+hreje im vodu do pitia, aby od studenej nedostali kašeľ. Keď voly
+obriadil, sadol k ohnisku, aby si všetko prichystal na cestu.
+
+Turák má na kolenách krpce, ktoré strojí sa na cestu poplátať. Krpce ---
+obuv primitívna, chatrná to ochrana pred dažďom a snehom. V lete sa
+veľmi dobre hodia, lebo noha nepotí sa v nich; ale v zime hneď vody do
+nich najde, takže celá noha preziabne. Mladá vrstva pochytila teraz už
+črievice, ktoré švec z remeňa ušije. Tie si pripevnia remencami na nohu.
+To je už značný pokrok. Turák ale na takéto novoty nič nedá; nemohol by
+on ani spať, keby ešte i na obuv peniaze rozdával. On si kúpi remeňa, z
+neho si sám ušije krpce a ak sa poderú, popláta.
+
+Ach, ale aká to robota to plátanie! Gazda náš krčí sa pritom a naťahuje,
+až mu pot tečie z čela. Hrubé prsty Turákove nemôžu ihlu nijako do pysku
+na krpci dopraviť. Keď ale ihlu cez remeň prevlečie, s veľkým
+zadosťučinením naťahuje dratvu a zakaždým zastene až k poľutovaniu. Náš
+Turák si rád zastene; to jeho obyčaj.
+
+Práca je už, chvalabohu, skončená. Očistené a namastené remence už ležia
+pri ňom na lavici. Vykrpcoval sa on, ani čo by šiel na sobáš. Spomedzi
+remencov vídať tu i tu bielu ľanovú onucu vykukávať; lebo gazdiná stará
+sa o to, aby jej muž čisto medzi svetom chodil. Pri toľkom krčení upotil
+sa Turák až strach; horúco mu je ani v peci, ale zato on nezhodí
+kožúška. S tým vstáva i líha, v zime ako v lete; v zime ho hreje, v lete
+ale vraj chladí.
+
+Hlásnik už druhú pískal. Turák vstal z lavice, utrel pot z tváre širokým
+rukávom a kročil k obloku. Pozerá, či už niekde svietia, ale nikde nič.
+Ešte všetko spí; ale predsa oproti sused už musel vstať, lebo rozkladá
+oheň, už malé svetielko oblokom sa kmitá. Kročil teda Turák k posteli a
+položil dlaň na plece spiacej ešte tam ženy.
+
+Na slabé zakývanie na rovné nohy skočila ženská z postele. Tam si
+odfukuje ešte malý Janko, ktorému mamička pohladí dlaňou chlpatú
+hlavičku a prikryje ho ťažkou perinou.
+
+„Už je neskoro, Jano; čo si ma nezobudil zaraz, ako si ty vstal? Už mala
+byť misa na stole a ty na ceste. Oneskoríš sa!"
+
+„Nepleť nič po nič! Ešte sú len dve; ani len cengnúť som nepočul. Ale
+pôjdem ja prvý? Veď som var' nie blázon! Tamto Chujan si myslí, že zasa
+ja mu pôjdem cez záveje chodník prerábať; hoj, nech si to, oplan, von z
+hlavy vyhodí." (Chujan bol sused Turákov, ale sa neráčili spolu.)
+
+Žena, sotva sa obliekla, už k ohňu hrniec pristavila, aby v náhlosti
+niečo uvarila. U sedliakov sa včas raňajkuje, a to ešte keď sa ide na
+jarmok!
+
+Medzitým, čo gazdiná sadla pod kúdeľ, šepkajúc svoju rannú modlitbu a
+dlhé nite z ľanu zasukujúc, vzal Turák do ruky veľký lampáš a šiel svoje
+statky obriadiť. On nikdy darmo neposedel, ale sa vždy okolo niečoho
+krútil; podobne žena vždy robila. U nás v zime chlapi oddychujú, ale
+ženy večer i včasráno vstávajú a pradú, lebo len tak dá sa tu vyžiť a
+ešte pre toho strapatého parobka v posteli niečo usporiť.
+
+Gazda už voly si okrášlil. Rohy im maslom vymastil, na hrdlá ale
+spiežovce zavesil. Cvengot sa až do izby ozýval. To Turák veľmi rád
+počúva; bez spiežovcov by ani nechcel na jarmok ísť; myslel by si, že sú
+to nie jeho voly, ale že ich niekde ukradol.
+
+Vojdúc dnu, prisadol k stolu a raňajkoval z veľkej misy. Žena jeho ale
+sňala z klina tvrdú, širokú, ale tľapkavú kapsu a usiluje sa do nej
+vložiť mužovi niečo na cestu. Bez kapsy nepôjde náš Turák na jarmok,
+lebo ta kladie on za voly utŕžené peniaze. Hej, keby mal všetky, čo v
+tej kapse už boli! Ale by bol z neho hrubý gazda! Prihotovila mu aj
+kožuch s rukávmi a zo žŕdky sňala i čiernu halenu červeným saténom pekne
+vyšívanú, lenže šnúry už značne pobledli.
+
+Gazda zložil na stôl lyžku, prežehnal sa a odel si kožuch a na hrdlo
+popod pazuchu zavesil si kapsu. Preskúmal jej obsah, natiahol sa nad
+oblok a odtiaľ z poličky sňal malú knižočku, vpustiac ju do tvrdej
+kapsy. Do tejto si vloží utŕžené peniaze, lebo v kapse by sa mohli veľmi
+ľahko s inším vytrhnúť a stratiť. Tobolku ale dosiaľ si ešte nekúpil.
+Teraz na kožuch si ešte zahodil halenu, zapnúc si ju na prsiach o šnúrku
+na nej uviazanú.
+
+Mať kročí k posteli a zobudí tam spiaceho chlapčeka. Ten na posteľ
+sadne, pretiera oči, škrabe sa po hlave a nechutne sa vyťahuje a zíva.
+
+„Staňže, Janko, staň; chytro, lebo otec už ide preč!"
+
+Chlapec vyskočí, nie žeby sa od otca odobral; on chytí do ruky hrnček
+plný vody, ktorý mu mať podala, a naprostred izby stojaceho otca obíde s
+ňou do troch razov. To je prvá podmienka dobrého predaja. Ak by niekto v
+dedine Turáka s prázdnym prešiel, to by sa on neomylne nazad vrátil,
+vediac, že by sa mu veľmi zle tam vodilo. Preto teraz, kým ľudia do
+jarmoku idúci neprejdú celkom dedinu, žiadna dobrá žena nepôjde po vodu
+na potok, aby niekoho s prázdnym neprešla, lebo patričný by na ňu sa
+sťažoval aj do roka ako na príčinu zlej kúpy alebo predaja. Malý Janko
+je už poriadne zasvätený do týchto obyčají, preto tak ochotne berie sa s
+hrnčekom. Vie on, že otec jeho príduc domov, istotne mu donesie od kupca
+rohovô^3^[^3] (dva grajciare), aj v kapse biely koláč.
+
+Teraz sa už Turák pobral z izby von. Pri dverách sa ho pýta žena jeho:
+
+„Máš, Jano, pre šťastie?"
+
+„Dobre, žes' napomenula, bol by som to už zabudol," poškrabúc sa za
+uchom, odpovedá Turák a chce sa už do kasničky po groš vrátiť.
+
+Každý predavač ber sebou groš, grajciar daj žobrákovi, a istotne dobre
+predáš; druhý ale grajciar vydáš kupcovi z ujednanej sumy. Jestli by si
+tento grajciar nechcel mu vydať, zbadal by kupec hneď, že si ty neprajný
+človek, od ktorého kúpený statok pohodiť sa^4^[^4] nemôže. Preto teda
+Turák sa tak chytro po dva grajciare ku kasničke vracia.
+
+„Jaj, Jano, nevracajže sa, nevracaj, nebude sa ti veru dobre vodiť. Tu
+počkaj; hneď sama pohľadám ten groš. Druhý raz nezabúdaj na tak pilnú
+vec!" a s tým napomenutím hľadala Turáková vo svojich kešeniach a oddala
+tak žiadaný groš mužovi.
+
+Ešte jeden pohľad po izbe, potom druhý flegmatický na ženu a trochu
+útlejší na chlapca, a Turák poberá sa z izby von. Medzi dverami
+pozdvihne pobožne svoj širák a pošepne si: „Pane Bože, postretajže!" a
+žena tiež takým hlasom vzdychne: „Pane Bože, uslyš!" S tým opustí
+čeľadný otec svoju rodinu na dva dni. Odíde tak, že by si si myslel,
+akoby z omrzelosti šiel sa povyraziť, akoby ho doma netešilo, akoby pred
+domácnosťou svojou hľadel sa niekam ukryť. A predsa tento istý človek
+miluje svoj dom, svoju rodinu, on je hotový za ňu až do krajnosti
+pracovať a lopotiť sa. To je u nášho Slováka už taký zvyk. On je
+ideálny, ale nie sentimentalista. Pred svedky neobjíme svoju ženu za
+svet, a pobozkať ju! To by bolo prehrešenie sa proti dobrým zvykom. Tu
+panujú teda starorímske prísne mravy.
+
+Gazdiná položí lampáš na pitvorný prah a čaká muža, ktorý šiel do
+maštale po voly. Privedie ich k podsteniu pred svetlo, aby obzrel, či im
+niečo nechybí. Sú biele, závodia s padlým snehom, rohy sa im ligocú v
+svetle lojovej sviečky. Náš kupec pozrie najprv na rohy. Nech budú biele
+ako mlieko a dorovna čnejúce, a iste zaplatí dobre za ne, jestli nemajú
+nejakej veľkej chyby. Jestli sú voly mladé, s peknými údmi, rohy ale sú
+krivé, takým sa rohy naprávajú k tomu zhotoveným prístrojom, keď sa im
+vopred vriacimi hustými krúpami jačmennými dokonale zahriali. Toto
+remeslo výdatne i náš Turák prevádza, preto voly jeho majú krásne, rovné
+rohy.
+
+Voly si obzerá ešte raz náš gazda. Ale i radosť pozrieť na ne. Tučné sú,
+až sa im lýtka len tak trasú, keď ich gazda potľapká. Nakŕmené sú tiež
+dokonale, lebo na slabine niet žiadnej priehlbiny. Na šijach zavesené je
+jarmo, o ktoré je priviazaná vo vreci sečka. Remene spiežovcov čierne,
+vymastené, takže sa biela spiežová pracka milo od ich žúžoľa odráža. Ale
+vôdzka stará, špatná. Či im už nemohol uviazať vôdzku novú, konopnú? No,
+to by ste mu dali! Mal by sa ten nakupovať povrázkov! On keď voly predá,
+musí s nimi i vôdzku tadať, a to vďačne, bez všetkej nechuti. Hej, len
+by ukázal kyslú tvár kupcovi pre toho kus povrázka! Nechal by mu všetko
+tak; kto nedá vďačne vôdzku, ten nedá vďačne ani voly, a od takého sa
+kúpený statok „nešikuje".
+
+Voly stoja teda už pred domom. Gazda chytí krídlo halienky a utrie ním
+chrbát podsebného i náručného. Vôl uhne svoj objemný driek pod rukou
+svojho gazdu a pohodí hlavou, až zvonce zacengajú. Gazda i so ženou
+popľuje každého, aby im z očú neprišlo. Potom si gazdiná stane medzi ne
+a posype ich spakruky do troch razov soľou, aby ich gazda predať mohol
+ľahko ako slané žemličky.
+
+Gazda chytí vôdzku a skrúti voly do troch razov do kolesa. On to robí na
+to, aby tieto šťastlivo predal, ale aby ani bez druhých neprišiel. Tu v
+kolese tomto spadnú z nich všetky choroby a druhé neprídu na ne.
+
+Ešte raz podvihne klobúk, vzdychne k Bohu, a žena otvorí mu vráta. Volky
+veselo si harcujú, až spiežovce tak sa ozývajú. Gazdiná vyjde na môstok
+a pozerá za mužom, pripojivším sa už k dlhému radu idúcich na jarmok.
+Keď už zašiel za uhol ulice a jej spred očú sa stratil, zavrie vŕzgajúce
+vráta a zmizne v malej izbičke svojej.

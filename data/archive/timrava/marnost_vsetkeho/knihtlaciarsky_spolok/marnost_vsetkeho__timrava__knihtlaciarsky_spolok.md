@@ -1,0 +1,1251 @@
+# Márnosť všetko
+Povesť
+
+# I.
+
+„Veľkomožná" slúžka z fary založila si ruky a vystúpila z brány na
+ulicu. Tvár, na nejž kvitnú líca ako ruže, ač prešla Anča už šty­ridsiaty
+rok, skláňa trucovite akosi a krok jej je vážny, ako by ona bola
+najbohatšia ga­zdiná v dedine. Čierne lesknúce sa oči upiera na zem a
+okolo úst črta akejsi vyhrážky. Pred šiestimi rokmi bola Anča vo veľkej
+núdzi. Detí troje na hrdle, ani variť nemala čo a muž chorý. No chlapci
+jej podorastali a šli svetom po službe; jedno vzal k sebe Boh, a ona s
+mužom šla na faru tiež slúžiť. A čím viac slúži Anča, tým väčšou paňou
+sa cíti byť. Sebavedomie jej už počína prekra­čovať hranice. Keď vraví,
+to takým krikom rozpráva, že ju i do súsedov počuť, a smiech jej hlása
+dvorom, ako by tridsaťročná žena tade chodila.
+
+„Tak veľmi by mohla Anča i nekričať!" hovorili chlapi v dedine, krútiac
+nespokojne hlavami. „Ako sa vám to vysoko smeje; nedarmo ju veľkomožnou
+prezvali. A taký krik ani nesvedčí sa na fare robiť."
+
+Zuza Jamníkovie, ktorá karhala každú ne­právosť a žila životom prísnym od
+mladosti naveky, odsúdila ju tiež v jeden deň, keď Anča s krikom šla
+dedinou:
+
+„Vari nevieme, aká bola pred šiestimi rokmi? Ani čo obliecť, ani čo
+zjesť. Po kuse predávala stavanie --- pajtu sme my odkúpili sami, a
+teraz aká pani. Počula som, že si kúpila za 18 zl. kožuch, pôločku s
+hodvabnými franclami a na šatu čipky. Či jej to prislúcha, takej
+starej?"
+
+„Čože ešte to, tetka!" riekla na tom istom dvore bývajúca a hlučnú vravu
+Ančinu tiež počúvajúca Iľa Hučekovie, ktorú pre nakrívený chrbát Sáľou
+prezývali, „ale si vám kú­pila lilavú sukňu a belastou obšivkou ju dala
+obšiť, zpod obšivky zuby naprišívať, biele."
+
+„Ešte čo! No tá nemá rozumu!" zhrozily sa i druhé ženy, čo sa ku studni
+boly sišly s dreviankami. „A teraz, div sa svete, keď nám zbije pole.
+Taká stará! Že sa Boha ne­bojí a sveta nehanbí --- ešte zuby!"
+
+„Ja ani neverím, že by nemala niekoho, komu sa cifruje!" zasmiala sa
+Sáľa s krivým chrbtom.
+
+Veľkomožná vedela o všetkom tomto, a ako by napriek, tým väčšmi sa
+vypínala. Vie dobre, že jej ženy závidia ruže na lícach a bezstarostný
+život i pohodlný --- lebo Anča nepretŕha sa, hoci je v službe! V chôdzi
+sa kníše vážne, postáva, rozpráva veľa, a keď vraví, stojí vždy. Hnevá
+ženy i to, že ona, ktorá bola ponižovaná medzi nimi, viac je už nie, ale
+vyšvihla sa ešte nad mnohé. A aby v dedine bolo ešte viac závisti, Anča
+kúpila si atlasovú geceľu a šatu, akú iba hrdé ga­zdiné mávajú, i to nie
+každá.
+
+Teraz ako vyšla z brány a videla pri uhle fary Maru Kacovie, nízku, s
+ovisnutými ble­dými lícami ženu, ktorá dala ju vyvolať, usmiala sa veľmi
+zvláštne. Bola v tom i úľuba, i potuteľnosť, i vyhrážka akási.
+Nakrianila šiju trucovite a tak kráča k nej, oči iskriace uprúc do zeme.
+
+„No, čože je, Mara moja?" spýtala sa ča­kajúcej ju Kacovky, ako sa
+dokynášala svojím vážnym krokom, ač vie, čo chce.
+
+Mara Kacovka ovislých líc stavia dom a nemá dosť peňazí. Nie je toto
+prvý raz, čo ju takto vyvolajú, a Anču teší to veľmi. Odvolajú ju od
+roboty --- čas minie sa --- a žene dá čakať hodnú chvíľu. Lebo Anči
+neimponuje nič na svete. Čože je jej! Má vše­tkého, čo jej treba, a k
+tomu v skrini 300 zlatých skrytých.
+
+„Ale vrav, lebo ja mám roboty silu --- je sobota. To nie ako s druhým
+človekom. Tu čo by mal i desať rúk, ani tak by nepo­stačil. Ja nemám ani
+minúty pokoja, ani noci, ani dňa!" I zastane si pred ňu, pohodlne
+za­ložiac ruky.
+
+„Veď vám verím, tetka!" uznáva Ka­covka krotko a bokom pozre na jej
+rozlo­ženú postavu. „Nebudem vás dlho meškať, lebo je aj mne nie do
+postávania\... Ver' viem, že by to hocktorá nespravila, čo vy. Päť kráv
+dojíte, však?"
+
+„Ani jedna by nespravila, ani jedna --- ale ja spravím!" odpovie
+veľkomožná sebavedome a úsmev samolásky sadne jej na rty. „Päť kráv
+dojím tri razy dňa; ani jednej nedám starniakovi, čo sa páni i hnevajú.
+Piatim do­nesiem trávy\... nespraví ani jedna!" I hodí rukou s
+potupnosťou o druhých. „Tak, Mara moja\... ale vrav, čo chceš!"
+
+Mara Kacovie, ovislých líc, sama je ne­trpezlivá a čaká tvrdo ostatné
+slovo z úst Anči, aby predniesla svoju žiadosť.
+
+„Prišla som, tetka, aby ste nám požičali peniaze, ak máte."
+
+Tvár veľkomožnej zaliala sa úsmevom ra­dosti akejsi. Čierne iskriace oči
+zahorely a rty zavrely sa pevne na okamih. Hlavou mykla vzdorovite
+nazad, no hneď sklonila ju zas.
+
+„A načo sú ti, Mara moja?" spýtala sa po­tom vľúdnym hlasom.
+
+„Chystá sa gazda na škríbeľ, a nemá, koľko mu treba. Keď to už i
+nedochodí, tetka, na všetko, verte mi!" žaluje sa Kacovka úprimne.
+
+„A či už budete pokrývať?"
+
+„Už budeme. A verte mi, už sme len pe­ňazí strovili vyše 200 zl\... Tak,
+keby ste\..."
+
+„Nuž ale vám to bude dobre už teraz," pretrhne ju Anča, nedajúc jej
+dopovedať. „S jednej strany, ste už ani nemohli bývať toľkí v tej tesnej
+chyži."
+
+„Pravda, že nám bolo zle, tetka. Lenže sme sa vytrovili zo všetkého. Či
+peniaze, či poživeň\... To by ani nemyslel taký, čo nikdy nebol v tom,
+koľko to stojí. Ak by ste nám požičali\...
+
+„A či ste si len chyžu a pitvor dali po­staviť, či i komoru?"
+
+„Chyžu i dve komory\... Veď by sme vám my ich nechceli za veľa
+požívať\..."
+
+Veľkomožná pretrhla jej zase reč.
+
+„Počuješ, Mara, to je i dobre, že ste si dve komory dali spraviť. Keď sa
+vám chlapci po­delia, dobre im príde: jeden dostane jednu komoru, druhý
+druhú. Lebo viem, že sa roz­delia po vašej smrti."
+
+„Nuž ver' nebudú lepší, ako druhí!" prisviedča Mara bledých líc a čelo
+poleje sa jej starosťou, i prežrie slinu nevole, čože toľko budú tu
+trkotať po daromnici! „Ja nedbám, tetka, čo sa vám i vexeľ napíše\..."
+
+„Mara moja, počujže! A či bratom diel svoj v starej chyži daruješ;
+nedajú ti výplacky?\... Jano! však si nevyhnal šichníkov vápno hasiť?"
+zavolala v to na hlásnika, ktorý kráčal strmo niekam a po zavolaní
+Ančinom ešte rýchlejšie, aby čím skôr zmizol s obzoru. No odvetil jej
+predsa, nezdržiac sa, súc člo­vekom veľmi jazyčným:
+
+„Veď ste dosť mocná, ani Ivica, haste si sami!"
+
+Anča, veľkomožná, usmiala sa milo do­tknutá, že ju Ivicou pozval.
+
+„Veď viem, že i to na mňa čaká," riekla samoľúbe. „Všade len ja, všetko
+ja. Nič bezo mňa --- nič! Tak, reku, či ťa bratia nevy­platia z domu?"
+
+„Ja som im i vravela, že po pravde mali by ma vyplatiť," odpovie Mara
+Kacovie, netrpelivá ešte väčšmi pre rozhovor Ančin s hlásnikom, a čelo
+jej je už samý vrázik, „a oni mi na to, aby som si vzala jeden uhol z
+domu, ak chcem; ale že mi oni ani haliera nedajú, lebo že ma nevyháňajú
+z domu!"
+
+„Hahaha!" zasmiala sa s veľkou veselosťou Anča. „Vidíš, Mara moja,
+vidíš, ako ťa od­bavili. Tak si vezmi jeden uhol. Nebude ti ani tak
+tvŕdz; keď sa doň zapreš, srútiš ho, hahaha!"
+
+Ale Mare Kacovke je nie do smiechu, ani času nemá tu klebetiť s Ančou, i
+cíti sa ako na ihlách. Zakníše sa netrpelive a na tvár vysadne jej
+zazlenie. Ako veselo je veľko­možnej! Zabudla už, že i ona pred šiestimi
+rokmi behala za požičkami, hoci ani dom nestavala, len aby deti nakŕmila
+chlebom, a nepríde jej na um ani to, že jej domu strecha u Ripeľov
+prelomila sa v zime pod snehom a teraz pri každom spŕchnutí natečie vody
+do pitvora.
+
+„Za posmech majú človeka," rečie Mara o bratoch; „a keby mi dali čo len
+40 zl., i s tým by sa čo-to spomohlo\... Tak nám len požičajte, tetka,
+zajtra by sa napísal vexeľ."
+
+„Hahaha!" smeje sa Anča zase, mučiac Kacovku. „Mara moja, veď keď sa do
+tej chyže kaľavný chlap zapre, shŕkne priam!\... Kdeže ideš, Ančurka?"
+zavolala žartovne, pretrhnúc sa, na vysoké pekné dievča, ktoré ide
+cestou po druhej strane. Je to Anča Filekovie, najbohatšia dievka v
+dedine, ktorej stroja vziať prístavku na zimu. Anča prižmúri čierne oči,
+smejúce sa od dobrej vôle, aby ju lepšie videla proti slncu.
+
+„Nepočula, čo som zavolala," rečie, keď dievka len ide ďalej nevyrušeno.
+No Anča nespúšťa oka s nej. „Krásna dievka! Azda ani nieto takej na
+okolí\... ani jedľa, a tučná, záživná\..." vraví, ako by viac len pre
+seba, a na rty sadá jej kýsi úsmev. Umom Anči zrazu blysla jedna smelá
+myšlienka; no rýchle odtrhne oči od dievky, ako by sa sama za­hanbila
+toho, len čo jej úsmev potuteľný ostal na lícach. „Pekná, záživná
+dievka!"\...
+
+„Pekná," dosvedčí i Mara Kacovie ovislých líc, ale nehladí za ňou. Nemá
+času, ani ne­zaujíma ju tak veľmi. Má síce i ona dvoch synov, jedného by
+i ta dala od seba, lenže je dievka Filekovie pre nich, chudobných
+gazdov, vysoko. „Na jaseň by sme vám pe­niaze vrátili do krajciara.
+Chlapci pôjdu do hôr --- zarobia."
+
+„Veď je tak, veď je tak\... ale som už i zaveľa tu. Viem, že ma už i
+hľadajú, lebo ani za minútu nemôžu byť bezo mňa --- bezo mňa je nič!"
+vraví Anča, ale sa nehýbe, ani nezmení svojho pohodlného rozloženia a
+roz­práva ďalej: „I mojej chyži by sa zišla re­parácia. Keď prídu
+chlapci\... ale tí ani neprídu viac sem," odmieta potupne veľkomožná.
+„Môj Ondro ostane len na nižinách --- tam mu je dobre. Ľaľa, už šiesty
+rok, ako odi­šiel na Rákytie, a nebol tu odtiaľ ani raz, len čo ja k nemu
+chodím. Taký vyrástol tam, ako buk. Nepoznala by si ho, Mara moja. Každý
+iba híka, kto ho vidí\... I Jana ta dám, nech zmocnie i ten; môže tam
+Belajke kravy pásť\..." pomlčí a tvár vzdorovite nahne dolu i rečie, ako
+by všetkým napriek: „A ak sa nahnevám, pôjdeme i my dvaja ta!\... Ale
+horkým naše nižiny," rečie zase hneď vrtkavo; „do Ďura môžeme i pomreť!"
+I usmeje sa a čaká, že jej bude povedané, ako jej býva na tú reč: Ešte
+čo nevyhútaš, bláznivica, umreť, veď si ani ruža krásna!
+
+„Čože by ste umreli?" vetí Kacovka, o ruži však vynechajúc. Je už
+dokonca omrzlá i sotva vládze sa opanovať. Na ovislých lícach zja­vujú sa
+červené fľaky rozčúlenia. Ak veľko­možná nedá peniaze, treba jej inde sa
+obrátiť, a ona ju tu drží s jej hrdými rečmi na daromnicu. I povie
+strmšie: „Tak či požičiate, či nie, tetka? Povedzte; lebo ak nie ---
+inde idem!"
+
+Veľkomožná pozre jej do tvári a v očiach jej zablysne rozkoš kási, okolo
+úst úsmev vyhrážky. Teraz však prídu k nej, keď má peniaze! Ale dotiaľ
+každý sa jej stránil, ako mohol. Založila ruky odhodlane a tvár jej má
+výraz ukrutný.
+
+„Mara moja, ja nepožičiam peňazí, lebo nemám!"
+
+„Tetka, statočne vám ich prinavrátime; i úroky dáme, aké budete žiadať.
+Môžete sa nás nebáť; veď sme ľudia!" sľubuje Mara dychtivo.
+
+„Ja viem, Mara moja, no nič! Nemám peňazí; dala by, ale nemám. Služba sa
+míňa s rokom. I na mňa veľa treba. Čo vyslúžiš --- to zoderieš. Kúpila
+som si čižmy, kapce, atlasovú geceľu, plachtičku na hlavu damaškatovú,
+štrinfle do hrobu a čo iné. A čo sú ešte pe­niaze, tie držím za čiastku,
+keď prídu páni rabovať za remanencie."
+
+„Vrátime vám ich čo najskôr; predáme voly. A za remanencie staré dlhy že
+odpustia páni, som počula."
+
+„No nič, ani nevrav, Mara moja! Horký odpustia. Páni by odpustili
+sedliakovi?!\... To si len inde pohľadajte!"
+
+„Ja som sa ver' nazdala, že ma zachrá­nite!" vraví Kacovka hlasom nízkym
+od skla­mania a duseného hnevu. Či by bola tu čas marnila pri nej, keby
+bola vedela, že nedá peňazí? Čo nepovedala hneď! Veľkomožná, ako vidno,
+zabudla už, ako je to, keď klope a neotvoria, pýta a nedajú. Nevie už,
+že ľudia koľko ráz i zamkli dvere pred ňou, čo ich domŕzala o požičky. I
+odvráti sa roz­horčená a berie sa preč bez ďalšieho slova.
+
+Veľkomožná založila si ruky a postála tam ešte, i hľadí za ňou, ako
+odchodí. Potom odvráti sa i ona, nahnúc šiju vzdorovite.
+
+„Po kolená mala som si nohy zodrať, čo som chodila za požičkami. Deti
+maly mi hladom pomreť, nik ma nepoľutoval," šomre, idúc do brány zrazu
+rozľútená. „Nič! Ani haliera nepožičiam nikomu --- radšej ich
+premárnim."
+
+Pobrala sa do domu a začala vynášať dre­vený riad ku potoku niže fary, že
+ho bude pieskom šuchať tam, ako každú sobotu. Kráča s nahnutou šijou,
+ani nepozre po dedine, aby videla človeka, s nímž dala by sa do rozmluvy
+a minul by čas. Je rozrušená bez miery. Staré, i tak červené líca sú jej
+rozpálené, v čiernych očiach oheň. Kľaká na pažiť k dreviankam, a ide si
+pripomínať zašlé plané časy. Za mladi, pravda, kým jej mať žila, bolo
+jej dobre na lazoch, kde bývali. Do 15. roku iba ovce pásala. Narástla,
+zbujnela a zmocnela, ale ako matky nebolo, všetko dobré zmizlo za ňou
+tiež. Potom vydala sa za muža Paľa, vdovca o veľa staršieho, ako bola
+ona, a tu začína sa ešte len jej bieda. Muž ťuťmák, hluchý, nedvižný,
+ktorý tvrdo sa odhodlá čo len slovo prerieknuť, nie to spraviť niečo, na
+nehož kričať treba, túkať, a ona robiť na lazoch tiež sa nenaučila. Dosť
+ráz ani jesť nebolo čo. Neraz ľudia už i dvere zamkli pred ňou, čo ich
+trápila o požičky. Teraz, hľa, už neskryje sa nik pred ňou --- je
+hľadaná ona. Každý deň najde ju chudobný ľud --- dnes Kacovka!
+
+„Ja nepožičiam!" šomre s vyhrážkou v očiach, „a čo vám dom za tri roky
+nebude pokrytý, a čo sa mi peniaze tam splesnejú v skrini!"
+
+Ale teda čo robiť s peniazmi? Tá otázka vy­skytuje sa za každým takýmto
+pádom, aj ináče. Dosť sa i nahúta (tú jednu starosť má Anča --- nič
+viac!), niekedy ani zaspať nemôže. I v noci, keď sa zobudí, tá myšlienka
+priam ju pristihne. Ako peniaze najlepšie využiť? Či vymeniť zeme z
+dlhov, či ich má dať do banky, či predsa ľudu na požičku, a či dom
+posprávať u Ripeľov?
+
+„Dom poriadiť!" Anča zrazu nechá ro­botu a berie sa dolu chodníčkom, i
+zastane u konca záhrady farskej. Ztade vidno i na druhý rad dediny, kde
+nad spodnými Ripeľovci stojí ich dom v hornom rade. Ančine čierne oči
+uprely sa naň prenikavo. Dom je veľký, murovaný. Múry sú mocné --- keby
+dala väčšie okná vylámať a vrch pokryť škrydlou, bol by ako tuto škola,
+taký pekný. Ona by ta chodila, ako majúca gazdiná, riadila ho, čistila,
+ako tu faru naučila sa riadiť, že by jej chýr šiel. Toto je milá jej
+myšlienka už dávno. Lež čože, keď muž má tam brata bedára, ktorý nemá
+nič, len detí hŕbu a da­romnú ženu, zajikávajúcu sa tak veľmi, že jedno
+slovo ani za štvrť hodiny nevypovie, a kríž je počúvať ju. Toho je
+polovica. A či ona tomu má svojím vyslúženým grošom dom naprávať, ktorý
+nikdy nebol dobrý k nim? Anča skrútia sa od tej strany roz­hodnutá. Dom
+nedá prerobiť pre iného, nech sa hoci zváľa do zajtra. Synov dá na
+prí­stavky. Vie dobre, že Ondra vezmú kdekoľ­vek už teraz, ak ho vidia.
+Mládenec krásny vyrástol z neho. Nik by nepovedal, že je to ten jej
+chlapec ničomný, čo bol. Ani sama nebola by poverila, že taký bude
+niekedy. Veď plával po vode, ako žaba, čo bol ľahký, keď sa narodil a
+ženy daly ho do kúpeľa; teraz! Hocktorá by si ho mohla vziať---
+hocktorá\... A umom Anči zase blysla smelá myšlienka o dievke Filekovie
+záživnej. Usmiala sa príjemno, no hneď hodí rukou, ako by chcela odohnať
+to od seba, a povie slová, ktorých rada užívala:
+
+„Nikdy nedožijem; márnosť všetko!"
+
+Nechá i tie myšlienky, no neberie sa k riadu ešte, ale sa ide obzerať po
+dedine. Nikdy nebola jej obyčaj náhliť s prácou, ani keď sebe robila,
+nie to v službe. Teraz obzvlášte nie. Keď jej je dobre, bude si so silou
+gazdovať. Ani sa nepretrhne nikomu k vôli. No dedina je pustá; ľud je na
+poli pri sene, usiluje sa a náhli, ako včely pred dažďom --- je sobota.
+Veľkomožná musí len k riadu. A len čo kľakla na pažiť a vzala drevianky,
+prikváčila ju myšlienka o penia­zoch zase. Čo má s nimi spraviť, aby ich
+najlepšie vynaložila? Akú veľkú starosť má, hľa! Nevedela, že by i
+peniaze trápenie zadaly človeku.
+
+# II\.
+
+A „veľkomožná" so dňa na deň stáva sa neznesiteľnejšou. S ľudmi, čo ju
+prvej tupili, ani shovárať sa nechce; a keď ju vy­žiada niekto von na
+slovo, už ani nevynde. Nepoľutuje nikoho, ako by ona bola mala naveky
+chleba do sýta; vysmeje, zahanbuje, a dnes postavila sa už i proti
+vlastným pá­nom, v ichžto službe zbohatla. Teraz stojí Anča v staji so
+šechtárom v ruke, že ide dojiť päť kráv; no tvár blčí jej, ako by sa
+chytiť mala od plameňa. Totiž, ako posta­vila sa proti vlastným pánom
+svojim, pán na­hnevaný poklepal jej prstom po čele. To síce nebolelo tak
+veľmi, ale ju to páli tam, ako uhoľ žeravý, a srdce preplnené jej je
+zúrivo­sťou. Na ňu zdvihli ruku, čo nespravil dosiaľ nikto na svete, ani
+muž, ani brat, ba ani vlastná mať, čo ju vychovala. Ona, pravda, dosť
+ráz ublížila iným. Muža hluchého, kto­rého ona iba starniakom volá, neraz
+orútila čímkoľvek, čo jej do ruky prišlo. I švagri­nej, čo sa zajikáva a
+kríž je počúvať ju, dosť ráz strhla s hlavy čepec, keď sa vadily, ba i
+do súsediek oddala sa neraz, súc ducha bo­jovného, vyrastená v slobodnom
+na laze. A Škrepcovi, tomu, čo trpel na záduch --- ale je už pod zemou
+--- zahodila poleno do boku, že sa mu hneď rebro prelomilo na dvoje, keď
+si bol neľudsky úroky pýtať od nej, kým ešte ona bola dlžníčkou. Ale že
+by sa na ňu bol odvážil niekto ruku položiť, to sa ne­stalo nikdy, a
+teraz také potupenie na starosť, teraz, keď má 300 zlatých v skrini!
+Anča zaťala zub, hodila šechtár o zem a, vezmúc mu­žovu krivú palicu,
+začala radom biť chrbty kravám, na ichž dojení zakladá si tak veľmi.
+
+„Stojíš, Srnuľa! Hneď ti kosti domrvím, hneď ťa zabijem!\... A ty,
+starniak, trávy im dnes nedáš!" kričí s blčiacim zrakom mužovi, na nehož
+túkať treba. „Dobre sa nepretrh­nem, kým ju dovlečiem toľkým, a nevážia
+si človeka. A ruky si umývaj! I ty budeš dojiť. Ja im dojím päť kráv, a
+oni takto zaobchodia so mnou!"
+
+Paľo, starniak, chlap nízky, ale zavalitý, ktorý nikdy do ničoho sa
+nedohúta, postál na prostried konice a sleduje ju zrakom zadivený.
+
+„A tože prečo?" spýtal sa tichým hla­som, akým vravieval vždy k nej.
+
+„A čo je teba do toho? Rob, čo ti roz­kazujem; lebo hneď i teba opálim
+touto palicou!"
+
+V tú chvíľu vstúpila do staje slečna, matkou poslaná prizreť robotu
+čeľade, a veľko­možnú, zhliadnuc ju, zlosť popadla ešte väčšia.
+
+„Päť kráv dojiť, to je však nič!" volala vztekle. „A keby to boly kravy,
+ako druhé, ale také divé mechny. Keby moje boly, po­bila by ich do jednej
+na hŕbu!"
+
+Slečna neodvetila nič; ani nepozrela k nej, ale ohliadla sa za nejakým
+čistejším miestom, kde by si posedela a neumazala letné ľahké šaty.
+
+„Kto sem príde slúžiť, nech sa radšej zmárni, a oni sa nazdajú, že je tu
+radosť byť?" kričí Anča ďalej.
+
+Slečna sedela už na senínci, z nehož pá­chla vôňa čerstvo nažatej trávy a
+medzi kto­rou pestrely sa kvety rozličnej farby --- i pozerá za tými
+zaujato. Pravda, jej lepšie by sa páčilo sedeť v niektorej izbe fary,
+ichž okná sú na západ a teda teraz krásneod červených zôr večera, alebo
+chodiť po zá­hrade a spievať piesne, považujúc život za čosi krásneho:
+ale keď musí sem ísť, nuž ide a sedí tu. Ona sa vyrušiť z koľaje nedá
+takej Anči, ani ju nezavráti, no úplne ignoruje. To je i tak
+najmúdrejšie, čo môže spraviť ona. --- Že neodvetila slečna, srdce
+veľkomožnej zapálilo sa ešte väčším hnevom.
+
+„Nazdajú sa, že je tu slúžiť nejaká ra­dosť? Ani jedna žena v dedine
+nerobí toľko, čo ja. Ani jedna nedojí päť kráv; piatim nedonesie trávy.
+Veď by mi len okolo tých chodiť dosť bolo\... Tu čo by človek i sto rúk
+mal, ani tie by nevystačily!"
+
+Slečna, ktorá sedí tu síce, keď musí, ale radšej by bola v izbách, kde
+je veľa svetla zory, a spievala, neodpovie ani tak. Ignoro­vať --- to je
+najmúdrejšie, čo môže spraviť, a nejde si ver' dobrú vôľu hubiť a nebude
+sa zhrýzať s čeľadou, kým je dievčaťom. Nech vraví, čo chce, dämon
+jeden! I počne vybe­rať, nedbajúc o Anču, kvieťa čo krajšie, po­tom viaže
+dovedna, že si ho zastlkne za pás. A to vidiac Anča, že hýbe tú trávu,
+ktorú ona nažala, dovliekla, vzplanula hnevom ešte zúrivejším a osopila
+sa už zrovna na ňu:
+
+„A načo oni prišli sem?" zakričala, a oči dobre nevyskočia jej na tenkú
+postavu slečninu. „Ak chcem, vydojím dobre kravy; ak nechcem, nevydojím.
+Či oni sedia tam na tráve, vedia, ako ja tu robím? Preto môžu sedeť v
+hocktorej izbe na kanape!"
+
+Slečna zadiveno pozrela k nej a krv ofar­bila jej líca. Prestala kvety
+vyberať v okamihu a rty už otvárajú sa, aby ju zahriakla. No spamätala
+sa predsa. Nie, nebude sa za­podievať s fúriou, ani s nijakou slúžkou
+tohoto sveta. Dosť času, keď sa vydá --- alebo radšej sa ani nevydá\...
+
+„Všetko len na mňa čaká; nič bezo mňa, nič!" lká veľkomožná, sklamaná,
+že jej ani na to nebolo odpovedané, „a na mňa ešte ruku zdvihnúť!" i
+kladie stolček ku Srnuli a sadá k dojeniu. No tu ozval sa hlas slečnin
+nečakano.
+
+„Majte trpelivosť," vraví, á hlas zneje jej mierno, len čo si pery
+hryzie. „Do Ďura už len pretrpte, a potom bude vám dobre doma!"
+
+Anča zdvihla hlavu prekvapeno a pozrela na slečnu. Vysmieva sa jej, či
+čo? Veď každý vie, že jej všade lepšie bolo, ako doma. No na tvári
+slečny nebadať výsmechu, len čo je akási studená, nehladí na ňu a hryzie
+si pery. Nevie Anča, čo si má mysleť. Iba ak slečna cíti spolu s ňou,
+ako by ani nebola paňou, ale tiež človekom. Zvesila hlavu nad šechtár,
+oprúc čelo do boku Srnuli, a mlčí. Nečakané slová slečny odňaly jej reč,
+i nevie už teraz, ako, čo.
+
+„Len preto im vravím, že načo sú tu," riekla po chvíli zmeneným hlasom,
+vždy hľa­diac na spenené mlieko do šechtára, „že ich ľutujem, že je toto
+tu nie pre nich súci ďah."
+
+„Hm, sme zahanbení, ako vidno!" po­myslí si slečna, vidiac účinok.
+
+„Načože chodievajú, i keď napájam?" osopí sa zrazu Ančin muž Paľo,
+ktorého tisnúť treba do každej roboty, ináče nič ne­spraví. Že sa stal
+obrat, on, hluchý, nezbadal, a myslí si, že sa žena dosiaľ vadí so
+slečnou. „Či nenapojím dobre i bez nich?"
+
+„Ty čuš, starniak!" zavráti ho Anča, jemu nestrpiac nikdy nič i tak.
+„Ešte na týchto budeš túkať, ktorých najradšej mám? Lebo ak chceš!"\...
+
+Paľo, starniak, otvoril ústa i oči bez smyslu a tak pozerá na ňu. Potom
+obráti zrak k povale, kde rád hľadel, a začne roz­mýšľať, ako sa mohla tá
+premena stať zrazu. On si myslel, že jej povie po vôli.
+
+Nastalo ticho v staji; iba hučanie mlieka do šechtára a lomoz jediacich
+kráv čo neutíchol. Veľkomožnej zúrivosť zmizla a na tvári zjaví sa jej
+výraz zahanbenia, potom i oľuto­vania. Srdce skrotlo jej. Už necíti na
+čele ani stopy pánovej hánky, o ňomž bola si istá i tak hneď, že celou
+dlaňou mal ju začiahnuť dľa zásluhy. Na pery sadol jej úsmev
+rozpačitosti, ako by chcela prosiť od­pustenia. O chvíľu prihovorila sa
+slečne o peknom dni, potom spýtala sa, po čom bol ríf červených šiat, čo
+má na sebe, sú veľmi pekné --- ak nevy šedivejú --- a konečne začala
+vraveť o synovi Ondrovi, ako každý večer. Ako zbujnel, opeknel na
+nižine, že príde v niektorú nedeľu; vidia ho i kišasonka a budú sa sami
+diviť. Celý svet sa počuduje, taký je krásny --- na zvýšosť už ako ona
+veľký!
+
+„Ak je i duchom taký dämon, ako si ty, tak zbaví!" pomyslí si slečna,
+ktorá ľúbila žiť, no nič nepovie.
+
+„Tam ho dosť volajú i do troch ďahov na prístavky!" rozpráva Anča s
+chlúbou, a čierne oči lisknú sa jej od pýchy a rozkoše. „I tu by ho
+hocikde vzali, len by som ho dala." Usmeje sa potuteľne a v mysli
+utkvela jej dievka Filekovie bujnej postavy --- i tá by ho vzala. „Ani
+by sami neverili, kišasonka, kde. Eh!" dokončí zrazu so zamilovaným
+úsmevom, pretrhnúc si reč. „Márnosť; ja toho nedožijem, aby mala
+nevestu!"
+
+„Prečo by ste nedožili?" rečie slečna. Pre ňu síce môže i hneď ísť Anča,
+kde myslí; spytuje sa len tak od zunovania, hoci cíti radosť, že
+pokorila dämona. „Ste ani pivonia\... "
+
+„Nie!" pokrúca hlavou veľkomožná, a na tenké pery sadá jej úsmev
+samoľúbia. „Umrem\... Nuž ale i umreť môžem --- mám všetko, čo mi je
+treba. Háby mám hotové, pekné. Geceľu atlasovú, brusliak zama­tový,
+štrinfle som si kúpila čierne\... Ale ty, Paľo starniak, nemáš plachty
+na umretie!"
+
+„Nuž a?" zatúkol Paľo zhrozený a otvorí oči i ústa, pohliadnuc na ňu
+dlho.
+
+„Tak sa táto hotuje ta, ani do bálu!" myslí si slečna medzitým.
+
+Anča usmiala sa potuteľne a ide uspokojiť muža:
+
+„No, neboj sa, starniak; dám ti ja moju, a ty keď sa vyrútiš, ja sa
+vydám!"
+
+Paľo starniak, ktorý sa ťažko odváži, aby čo len slovo riekol, zagánil
+na ňu, nič neodvetiac na pochabú, jej už nepatriacu sa reč.
+
+„Hneď sa vydám!" opätuje ona napriek jeho zazeraniu, a úsmev pokúšavý
+nesíde jej s červených starých líc, „za Tehlára!"
+
+Paľo odtrhol svoj žiarlivý zrak s nej a nahneval sa. Pozrel do povaly a
+hotovil sa povedať slovo závažné.
+
+„Čo len Tehlár --- to je lahodný fial!" i vzdychol, trochu i s
+obľahčením.
+
+„Ale má kone; bude ma voziť na nich. Hej, či mi bude sveta! Len mri,
+starniak, mri!" pokúša Anča neskrotiteľne a smeje sa jeho žiarlivosti.
+„Starniak!" započne potom už inakším hlasom, ako by chcela zahladiť
+svoju bláznivosť, „radšej povedz, čo máme s čiastkou robiť --- idú ju
+vari pre­dávať. Či ju vykúpiť, či druhú vziať, lepšiu, potom na
+licitácii? Povedal kmotor Čipkár, že na jaseň i za päťdesiatku dajú
+jednu pol štvrtinu. Čože majú peniaze ležať bez osohu? Ale ty o nič sa
+neťuchneš; všetko je len na mojej hlave. Len ja čo sa trápim\...
+Trá­penie --- to ťa nikdy nechybí, či si v hoj­nosti, či v núdzi. Toho sa
+nezbavíš, kým žiješ, už vidím teraz. Ale ak sa nahnevám, popremieňam
+všetky na dukáty, keď príde notár hrnúť; aj tak mi srdce už len po zlate
+pachtí!"
+
+# III\.
+
+Minulo sa leto i jaseň, a veľkomožnej v skrini dosiaľ leží 300 zlatých
+nepohnuto --- a s ňou je už nie na vydržanie. Už teraz nielen že sa
+protiví tým, čo ju ponižovali, kým v biede bola, nielen že hľadí, kde
+môže pokúšať pánov svojich, na ichžto chlebe stala sa slávnou, ale i
+veľká pýcha sa jej chytila a nechce jesť, čo donesie deň. Na bôb ani
+hľadeť nemôže, hrach nenávidí, od kapusty jej je zle, rožný chlieb je
+čierny a krumple sú nie pre človeka. Len mäso, i to iba tučné --- a
+chodí s takou vzdorovite zohnutou šijou, ako by sa chcela v každom
+okamihu pustiť do boja. V stredu nejedla tiež, a ha­lušky varily.
+Zunovala už i tie, ale i že má veľkú starosť na hlave --- lebo starosti,
+tej sa nikdy nezbavíš, či si chudobná či boháčka\... Nie dosť, čo má o
+peniaze peč, ako ich najlepšie využiť, ale ešte i druhé ju prikváčilo.
+Ondro ju trápi. Sľúbil sa bol na jasenné spovede, a neprišiel. A ona už
+aké veľké veci sľubovala si od príchodu syna! Ako každý híkať bude,
+vidiac ho, ako jej budú závideť mamy, ktoré majú synov skrče­ných, ako ho
+vidí i dievka Filekovie záživná a nezdolejú ju rodičia, čo bude len jeho
+chceť, nikoho iného; ako ona s hrdou gazdinou Filekovie bude svatvica a
+dievka pekná bude ju volať mamou!
+
+„Len čo mu je, že neprišiel?" Táto my­šlienka ustavične ju nepokoji, čo
+je v akej robote. Šla by k nemu, ale či môže kedy­koľvek človek-sluha?
+Aspoň keby sa od iných dozvedela, ale nik nevie nič, hoci „nižiny"
+Rákytie sú len tri hodiny odtiaľto. Konečne v jeden večer počula, že
+Ondro preto neprišiel, lebo ochorel na nohu. Anči ako by kôl do srdca
+vrazil, tak sa zdesila. Celú noc nezažmúrila oka, a ráno, sotva že
+svitlo ako mak, šla do spodných Ripeľov pre Zuzu, rodinu po mužovi, aby
+šla za ňu na faru, lebo ona ide na Rákytie k synovi.
+
+„Azda dnes ideš?" zadivili sa domáci, keď povstávali a ona oznámila svoj
+úmysel. „A či nevidíš tej povíchrice?"
+
+Veľkomožná iba mykla hlavou vzdoro­vite. Vedela, že sa jej proti
+postavia, a doviedla za seba Zuzu, tak čo chcú?
+
+„Tetka, ver' je naozaj planá chvíľa," povie i Zuza Ripeľovie
+dobroprajným hla­som, tichým a pokojným, ako vždy vravela, súc osobou,
+ktorej vždy bola duša v rovnováhe. „Mohli by ste počkať, kým bude
+lepšie. Ľaľa, veď sme ledva prišly od nás!"
+
+„No nič! Ja idem dnes --- Ondro je chorý!" odpovie Anča, vzdorovite
+zohnúc šiju, nedojatá ani dobroprajnosťou Zuzy, hoci jej je rodina.
+
+„Čo ho len noha bolí, zato neumre, tetka, a vy môžete prechladnúť v
+takomto čase!" zdržuje vľúdnym hlasom Zuza pokojná zas. „Ani chlap by sa
+nedal na cestu teraz, iba ak by už dokonca musel, nie to žena!"
+
+„Tu mi ochorie!" povie pani rozhne­vane. „Nepôjdeš nikde dnes!"
+
+„Nič, pani farárčička, ja idem, ja sa ne­bojím, a vedia, aká je matka! Či
+by oni nešli, keby pán farár na Bilinkove boli chorí? I sedliak má
+dušu!"\...
+
+Pani mala úmysel Zuzu jednoducho odo­slať a ju nepustiť, no posledné
+slová Ančine ju urazily. Odvrátila sa od nej. Keď chce, nech ide! Anča,
+ako vidno, ide sa už i proti nebu postaviť, nie dosť, čo sa ľuďom
+stavia. Nech teda --- uvidí, čo vyhrá tým.
+
+„Veď ty to obanuješ!" riekla len, idúc z kuchyne preč.
+
+Veľkomožná usmiala sa víťazstvu. Že si popúdila paniu, to naveky poteší
+ju veľmi, a kde môže, hľadí ju nahnevať. --- Preobliekla sa rýchlo do
+čistejšieho rúcha, vzala kožuch na seba, čo ju stál 18 zlatých, a na
+hlavu teplý, bavlnený ručník. Odkrojila ešte okrušek chleba, aby sa jej
+šťastne vodilo, a vystú­pila z domu. Na ulicu vykročiac však, za­stala a
+sama zarazila sa chvíle. Víchrica ešte väčšia sa schytila, ako keď Zuzu
+viedla na faru, a hádže, mece sa na ňu vše s tej, vše s tej strany
+zúrive, ako by ju chcela roz­trhať, snehom zasypujúc jej tvár. Na oka­mih
+prevládla ňou myšlienka vrátiť sa zpät, no trucovitosť jej nedopustila
+spraviť dľa vôle druhých. Mykla hlavou odhodlane a po­brala sa dolu
+cestou.
+
+„Tú už rozum necháva!" vravela jej pani, hľadiac oknom za ňou,
+neuspokojená a nahnevaná. Anča už teda ani tam nechce slúchať, kde jej
+dobre radí. I myslí si pani, že ju nebude ďalej držať u seba, čo ako
+dobre a čistotne robí, len tento rok.
+
+„Tí sa už ničoho neboja!" vraví Zuza Ripeľovie, tiež hľadiac oknom, ako
+šklbe víchor háby na Anči, dobre ju nesrútiac na zem. „Veď sú i dopasení
+a krásni, ani dvadsaťročná nevesta!" Chváli Zuza, chtiac zalichotiť
+panej. Naveky je chlúba gazdinej, keď má čeľaď líčnu.
+
+Dlhšie občakávali ju, že sa vráti. No Anča nechodila --- ale, ako by
+chcela dokázať svoju nezlomnú silu, v tom istom čase, v ten istý deň
+večerom i prišla domov nazpäť z Rákytia. Domáci temer zdesili sa, keď
+vstúpila do izby s batôžkom na chrbte, s vyštípanými temer do krvi
+lícami.
+
+„Pre Pána, Anča, ty si sa už azda zošialila!" zvolala pani, nezdržiac
+sa, a po­zerá s jakousi hrôzou na ňu. Anča len mykla hlavou, nič
+neodpovediac, a shodila batôžtek na lavicu.
+
+„No a čože je s Ondrom; bolí ho noha?"
+
+„Už ho nebolí\..."
+
+„No vidíš! Či ti bola potreba ísť v taký čas? Len by si to i
+neobanovala!" kára ju pani, ale už nie tak celkom s hnevom, vi­diac, že
+je zamĺkla akási --- iste hodne prechladla.
+
+Anča nahla šiju vzdorovite. Vedela, že jej to povedia, a tu bola Zuza
+miesto nej --- či mali chybu? Pravda, ani jedna nespraví tak dokonale
+robotu, ako ona --- veď ju zato držia už šiesty rok. I začne pozerať po
+izbe, či badať na nej dnešnú jej neprítomnosť, a samej sa jej nepáči.
+Tam pod posteľou brn­čeky s oplakmi, šaflík, črepňa kvetová na stole
+zabudnutá, pásavá miska na druhom klinčeku, nie na svojom, zakvačená,
+uterák veľmi zatrepaný; iste Zuza neumývala v dobre teplej vode riad.
+Nijak je bez nej --- nič bez nej! No mlčí len a sadne ku stolu na roz­kaz
+panej, aby povečerala.
+
+„A starniak už jedol?" spýtala sa, vi­diac, že je ešte dosť. „I ten mal
+by sa o deti obzreť; ale iba ja čo sa trápim pre všetko\..." chcela ešte
+riecť, no nepovedala. Ved' by pani hneď myslela, že obanovala svoju
+cestu, a tak je, ako jej ona predpove­dala. Načrela jedlo lyžicou a
+počala jesť. Je i prelačnetá --- nejedla, ako ráno, keď šla z domu. Tam
+síce dávali jej rezance, ako kvet biele, s bryndzou a škvarkami ani
+palce veľ­kými, ale ona nevzala --- nahnevala sa na syna, a nemôže jesť
+ani teraz. Tretiu lyžicu už nedochlípla, a ako opustila pani kuchyňu,
+podoprela si hlavu o dlaň. Ver' dobre ju zima prejíma. Prechladla, musí
+uveriť sama, hodne. V sluchách ju pichá a štiepe i vrch temena. Ale to
+všetko by oželela ešte, keby nemala i na duši žiaľ. Plač jej je i teraz
+za zubami. Syn, Ondro totiž, o ktorom s takou pýchou ona rozpráva a
+sníva rozkošné sny, pre ktorého by ona ani cez oheň neváhala prejsť, keď
+ju zazrel vstupovať do domu, osopil sa na ňu tam pred všetkými, že čo sa
+moce toľko k nemu po daromnici, miesto aby dojatý bol jej preveľkou
+oddanosťou ma­terskou. Ani by sa nebola vrátila dnes, i zdržiavali ju, a
+nazpäť idúc celou cestou bola by plakala, keby nemala toľko vzdoru a
+sily. I teraz by zaplakala, ale páni vy­chodia zo svetlíc. No keď ľahla
+do postele a všetek dom stíchol i nastala tma v ku­chyni, nezdržiavala sa
+viac, ale rozplakala sa z celého srdca svojho. Ani zaspať nemohla a ráno
+prebudila sa s veľkým bolením hlavy. V údoch pritom prechodil ju mráz,
+no nič neriekla.
+
+„Veď to prejde!" myslela si, zohýnajúc šiju vzdorovite, a hneď by jej
+vyčítali: Však som ti povedala, že obanuješ!
+
+# IV\.
+
+Veľkomožná stojí pri potoku. Práve složila batoh na zmrznutý sneh --- má
+pranie. Hlava bolí ju ešte vždy, a už tretí deň minul od jej cesty --- a
+zima dobre jej nerozdrobí kosti. No dosiaľ nepovedala nikomu o tom, a
+keď spýtali sa jej doma páni pre zamĺklosť, nahnevala sa a riekla, že
+Ondro príde do losov i bojí sa, že ho vezmú za vojaka. --- Vyniesla šaty
+k vode, a teraz postáva dľa starej obyčaji --- lebo sa pretŕhať ne­bude
+ani sebe, nie to druhému. Poniže perie dievka Baľovie štihlej postavy,
+pekných, tma­vých očú, a má tam batožisko háb čiernych ako z komína. Kýva
+o dušu piestom na ne, dobre sa neroztrhá, a nechcú byť kraj­šie, ako sú.
+Anča založila si ruky a nehýbe sa. Po ceste idú tri ženy vedno, odeté v
+ko­žuchoch --- na tie upre svoj zrak. Jedna z nich je mať dievky
+Filekovie, o ktorej sníva ona, že jej bude svatvicou. Tú poznať po
+by­strej chôdzi, zvučnom hlase a bujnej postave, akú sa i patrí mať
+boháčke. Anči po osinutých lícach prejde úsmev úľuby. Pohýbe sa a chce
+prívetive čosi zavolať, no nechá tak. Bolí ju hlava, temeno, ako by to
+bola akási boľavá pokryvka, nemá chuti k vľúd­nostiam, i skláňa sa k
+svojej robote nad háby.
+
+„Zvárali ste?" spýtala sa dievčice Baľovie, ešte postojac kus. „Či ste,
+reku, zvárali?" opätovala, keď tá neodpovedala nič.
+
+„Zvárali, tetka!"
+
+„A mama nebude prať?\... Či mama ne­bude prať, sa ťa spytujem!" kričí
+Anča, keď tá opäť nepočula pre šumot vody a tresk piesta, čo sama robí.
+
+„Ba ver' budú!" kričí dievka nazpäť, „ale ešte majú robotu doma. Veď
+máme tri batohy."
+
+„A ja sama dva. Jeden s tarkavými mi je ešte v kuchyni. Na fare je
+naveky veľa prania, ani z desiatich ľudí. Tam je toľko roboty, že by i
+trom slúžkam dosť bola. Bár by si mal i desať rúk\... a keby ma aspoň
+hlava nebolela!"
+
+Dievka Baľovie, štihlej postavy a pekných očú, pozrela na jej batoh,
+potom na svoj, a videla, že veľkomožná i štyri kusy môže oprať, kým ona
+jeden. No nerečie nič --- dievke nesvedčí sa doháňať so ženami, a ešte s
+takou, čo má syna.
+
+„A čo sa tak náhliš?" spytuje sa Anča, keď nič neodvetila, len perie o
+dušu.
+
+A Anči je už na jazyku: Len sa usiluj; ve­zmem ťa za nevestu --- ako to
+už každej v de­dine sľúbila, s rozkošou mysliac na syna, no nechá teraz
+tak.
+
+„Ej, tetka, veď je zima!"
+
+„Haha! čo je i zima. Ja sa nebudem po­náhľať. Operiem do večera, a hlava
+ma bolí veľmi." I kníše sa ku perisku a berie piest zvoľna. Dnes nechce
+spraviť iné, iba toto pranie --- i to je dosť od nej, chorej. „Toto sa
+mi nepáči\... " začne vraveť ešte prvej, kým kývne piestom. „Hlava,
+Marka, hlava ma bolí už od troch dní. Bola som pri Ondrovi v tej veľkej
+fujavici. Ale doma ani nič nevravím, lebo by narobili kriku dosť ---
+nechceli ma pustiť."
+
+„Veď ste ani nemali ísť, tetka! Báčik Jano Poliak poziabli na nohy; boli
+vtedy s drevom v meste. Krpce a onice im iba strhali s nôh, čo im boly
+primrznuté. Teraz im tetka Zuza kapustné listy zakladajú na nohy\... A
+či Ondro bol chorý, že ste šli?" spytuje sa dievka pekných očú zvedavo,
+a tiež zastane na chvíľku. Už toľko chvál roztrubuje veľko­možná o ňom,
+že každého zaujíma.
+
+„Bolela ho noha, ale mu je už nič. Hej, keby si ho videla!"\... i chce
+rozprávať, aký narástol chlap plechatý, ani jeden z jeho vrstovníkov mu
+je nie roveň\... Počkaj, príde v niektorú nedeľu, ako sa i tebe zapáči..
+No nechá tak. Zle ju prijal ostatný raz, a tá hlava jej odoberá chuť ku
+všetkému --- i žartom. I začne prať konečne.
+
+„I tento deň nebude mi na osoh!" povie o chvíľu, prestanúc prať a
+narovnajúc sa. Ako bola zohnutá, krv zliala sa jej do hlavy a zaštiepalo
+ju v sluchách ešte ostrejšie. „Iba raz obľahnem, a budem ležať aspoň za
+tri týždne, ako poleno."
+
+Pozdejšie prišla i mať dievky Baľovie s dru­hým, ešte černejším batohom,
+a doniesla po­tom i tretí. Popraly všetky a odišly, ale Anča ešte i po
+nich plahočila sa vo vode, ako ka­čica. Večer potom bolenie hlavy
+zosilnelo jej, a keď ľahla do perín, vychytila ju horúčava, zatým opäť
+zima veľká. Nespala celú noc, len čo na svitaní zdriemla ako mak. Ráno
+bola zase horšie, no trucovala ešte a nepo­vedala nič, ačpráve krok
+stával sa jej i ne­istým a pred očima menilo sa jej, ako v hmlách.
+
+„Bojím sa o Ondra, že ho vezmú za vo­jaka!" odvrkla, keď sa jej spýtali,
+či jej je niečo, „a ja to neprežijem!"
+
+Pred večerom šla k rychtárovi, kde bol výbor, i pán notár prišli do
+dediny --- aby sa doptala, či bude licitácia pre remanencie a kedy.
+Potom nespala zase celú noc a na druhé ráno už nemohla ďalej tajiť svoju
+ne­moc. Sadla na posteľ a dala hlavu do dlaní, ani, sa nehnúc.
+
+„No čože ti je?" spýtala sa jej pani, pozrúc na jej pošmurnú tvár.
+
+„Hlava\... Toto sa mi nepáči; odtiaľ, ako sme prali, naveky ma bolí."
+
+„Ba, hádam, ako si bola pri Ondrovi!" po­vie pani, zavrátiac ju.
+
+„Nie!" pokrúca hlavou Anča a dämon už jej je v očiach. „Ako sme prali,
+odtiaľ! Bola šiat sila. Tu je naveky šiat ani z desiatich!" a doloží
+ešte, pokúšajúc: „Sluha za pánovu robotu i život musí položiť!"
+
+Pani sberala sa, že jej ide za liekami, ale jej odpoveď spravila ju
+tvrdou. Tak Anča len popudzovať bude naveky? A kto je vina, že prala
+háby za šesť hodín, čo mohla za dve oprať, akže vtedy prechladla?
+Nedbajúc o ňu, pani ide do svetlíc. Nie, nebude ju viac trpeť v dome,
+nech len prejde rok\... Veľkomožná usmiala sa víťazne, vidiac odchodiť
+nahnevanú paniu; potom prevalila sa na posteľ. Hlava len bolí ju vždy
+väčšmi a neprestáva --- temeno, ako boľavá pokryvka. Dnes bude le­žať
+celý deň --- je nedeľa, roboty nieto; azda prejde jej choroba, a zajtra
+vstane silná zas. No sotva ležala chvíľku, zabrechal pes na dvore.
+
+„Kohože už nesú paromy?" zašomrala a vstala s postele nahnevaná. Majú
+rozkaz, keď čujú psa štekať, hneď vyjsť von; ale ten star­niak nepohne sa
+z konice, aby obránil --- ona musí ísť všade. A vonku na zime bude jej
+ešte horšie. Mráz prenikne jej všetky kosti a na temeni, ako by všetky
+vlasy ožily, zje­žia sa, hýbu a pichajú hlavu, ako ihličky. Doknísala sa
+ku dverám šomrajúc a chcela ich otvoriť, keď niekto zaklopal na ne. Anča
+mi­movoľne postála --- to je pán nejaký\... Do chyže vstúpil mladý,
+vysoký chlap. Plecia sú mu široké, obličaj krotký a oči veľké, sivé,
+hľadiace mdle niekam do diaľky. Anča, uvi­diac ho, spľasla rukami. Tvár
+zmenila sa jej a oči zasvietily pýchou a rozkošou.
+
+„Ľaľa, môj Ondro!" zavolala, zabudnúc v okamihu na všetko, i že preň
+ochorela a on ju zle prijal na Rákytí. „Kto by sa bol ponazdal, že dnes
+prídeš! Veď si vravel, že len na druhú nedeľu," i bozkáva mu tvár.
+
+„Teraz ma poslali páni; oni na druhú nedeľu odídu z domu," odpovie
+prišlý, trpiac jej bozky, a hlas zneje mu akosi tupo, i všetek zdá sa
+akýmsi ospalým. Zastal tam blízo dverí a mädlí v prstoch klobúk
+maďarský, okrášlený štetočkou. Kabanice nemá, ale kabát z čier­neho
+súkna, i nohavice --- celý pán! Na no­hách čižmy veľké, ktoré vrzgocú
+hlasite pri každom jeho kroku. Ančine oči pasú sa na ňom s rozkošou, i
+nevie odtrhnúť zrak svoj nijako od neho.
+
+„Keď si len prišiel, Ondro môj; no keď si len tu!" kričí, zabudnúc od
+radosti na všetko, i boľavú hlavu, ale i aby dopočuli domáci v
+svet­liciach a šli sa podívať na jej syna. „Tak pô­jdeš na spoveď?"
+spytuje sa živo, ani nevediac mu najsť miesta. A hneď predstaví si
+kostol plný ľudu, kde bude i dievka Filekovie a všetci budú sa diviť
+Ondrovi.
+
+„Nuž a, veď som nato prišiel azda!" od­vetil on, a hlas zneje mu tupo,
+prezradzujúc i akúsi bezcitnosť.
+
+„No dobre, dobre!" povie Anča a pozre po izbe bežno, či nik nezbadá ten
+zle znejúci tón, či nieto tu nikoho. „Veď i ja pôjdem s tebou. Nejedla
+som ráno i tak, ani včera večer\... Sadni si, Ondrík Ustal si však, syn
+môj --- zle je ísť\... nejedla som\..."
+
+Ondro hľadí ospalými očami dookola po kuchynskej stene, kde navešané sú
+rozličné tanieriky kvetavé, ale nespýta sa materi, prečo nejedla, ač by
+sa bolo svedčilo. Anča zasekla peru za vylámané zuby.
+
+„Keď si len tu, či som rada!" zakričí hneď zas, zabudnúc i jeho
+nevšímavosť, a hádže pohľadom ku dverám svetlíc nedočkavo, že nejde nik.
+No o chvíľu zavznely jedny kroky a potom zjavila sa vo dverách pani.
+Počula veľmi hlučnú vravu Ančinu, i prišla pozreť, čo sa deje, ale i
+preto, že premohla svoj odpor k trucovitej slúžke --- pani v jed­nom
+okamihu sa hnevá, v druhom odpúšťa --- a nesie liek na jej boľavú hlavu.
+
+„Ľaľa, môj Ondro prišiel, pani farárčička!" zavolala Anča, von z koľaje
+od radosti, sotva že pani vkročila. „No, kto by sa bol po­nazdal?"
+
+Pani postála, pozrúc.
+
+„To je tvoj Ondro?" spýtala sa.
+
+„On, veru on!"
+
+Ondro sňal zrak s tanierikov navešaných po stene, poklonil sa a berie sa
+ťažkým kro­kom, vrzgotajúc hlasite veľkými čižmami, proti panej, aby jej
+bozkal ruku.
+
+„No, však by ho neboli poznali?!" kričí Anča v rozkoši a pasie oči na
+ňom, pozorujúc každý jeho pohyb. Ako pekne bozká ruku pani farárke,
+odpovie úctive a odíde opäť, vrzgota­júc čižmami, k lavici, kde si
+zastane skromne, a oči zdvihne opäť ku tanierikom.
+
+„Hodný šuhaj, naozaj!"
+
+O chvíľu prišla i slečna zvedavosťou hnaná a, podívajúc sa naň a
+usmievajúc sa, vychválila ho, ako vedela. V duchu nemohla sa však
+prediviť jeho tupým očiam a ako by nezobudenej tvári. Zatým vyšiel i pán
+farár do kuchyne na chvíľku a i tomu páčil sa Ondro --- Ondro tiež
+bozkal mu ruku slušne. Potom prišiel hlásnik, čo bol jazyčný a mal krivé
+oči, ako Japonci, i ten chválil Ondia, a naposledy kostolník Jano
+Kríčok. Tento chcel najprv len tak prejsť cez kuchyňu do svetlice,
+náhliac k pánu otcovi. Zaspal ráno --- opozdí sa, vie už! Večer strihal
+svákovi Kožkárovi nohavice z domášneho súkna, i pili potom trošku spolu.
+No zazrúc Ondra stáť pri matke, postál mimovoľne.
+
+„Veľkomožná, to tvoj syn?" spýtal sa, pokrúcajúc hlavou, ako by ani
+neveril celkom.
+
+„Môj Ondro!" odvetila pyšno ona, a očí blčia jej ohňom. Na bolenie hlavy
+už nedbá dokonca, i ako by ju bolo minulo. Schytí sa rýchlo a ide do
+druhej kuchyne, pekácej, kde má skriňu složenú, že sa oblečie, ač zima
+je tam. Vzala atlasovú geceľu čiernu, tú, aké iba hrdé gazdiné nosia,
+pôločku s hodvabnými francľami, kabát nový i sukňu obšitú modrou
+obšivkou, zpod nejž trčia dolu biele zuby.
+
+„Azda i ty ideš do kostola?" podivila sa pani, keď vyobliekaná prišla do
+kuchyne, vi­diac jej osinelé pery. „Veď si teraz stenala že si chorá?"
+
+„Nič, pani farárčička, ja idem! Keby Ondro nebol prišiel, nešla by. Ale
+takto ---" a pozre plamenným zrakom na syna, ktorý ticho sedel na lavici
+pri hlásnikovi krivookom. Kdeže by nešla tešiť sa z neho? Ľaľa, ako híka
+každý naň --- zazliť nemožno to materi!
+
+„Tak si aspoň kožuch vezmi."
+
+„Nie, kabát si vezmem, pani farárčička! Veď som si ho zato dala šiť, aby
+ho nosila!"
+
+„Povážte, Anna," zastane sa i slečna, čo žiť považovala za vec milú a
+ktorá ináč my­slela si, že má i duchovnej moci nad ňou, lebo pred ňou
+zamĺkla v onen večer v staji, i usiluje sa jej pravo k srdcu vraveť:
+„Sebe zle robíte, nie nám. Ste chorá, a v kabáte môžete ísť, keď bude
+teplejšie\..." Lebo Anča si myslí, že všetko, čo im napriek spraví, je
+dobre jej. Veľkomožná hodila rukou odmie­tavo.
+
+„Kým bude teplejšie, môžem i umreť!"
+
+„Ver' je teraz zdravo tamvon, a najmä ešte v našom kostole!" zastarie sa
+i hlásnik japonských očú, no doloží hneď: „Ale takej medvedici, ako ste
+vy, nič neškodí, ani cho­roba."
+
+Vtedy Ondro sňal oči s tanierikov, skrútol ospalú tvár a pozrel na mať.
+
+„A čo vám je?" spýtal sa konečne.
+
+„Hlava ma bolí; prali sme --- prechladla som!" I usmeje sa pokúšavo a
+pozre kradmo za paňou.
+
+O chvíľu nazváňali a kuchyňa sa vyprázd­nila. Anča, ako ostala na chvíľku
+sama so sy­nom, sladko usmievajúc sa pristúpila k nemu, chytila mu ospalú
+hlavu do dlaní a bozkala ho na obe líca.
+
+„Keď si len tu, Ondro môj!" teší sa len vždy. „Poshovárame sa i o tú
+čiastku; budú predávať vari i našu. Či ju máme vymeniť?"
+
+Tvár Ondrova ospalá nepremenila sa, len čo zacítil mrzutosť, že ho
+bozkáva, ako malé dieťa. Nič neriekol na jej slová.
+
+„Ale peniaze musel by si i ty dať!"
+
+„Ja?" tu Ondro tupé oči sňal s tanieri­kov a prilepil na jej tvár. „Ja
+nedám z mo­jich peňazí ani krajciara. Pre mňa môžu pre­dávať i desať
+ráz\... Ja by platil a polovica bola by Janovi?" a hlasom zneje mu i
+čosi surového.
+
+„Ej, nuž ver' by i Janovi bola!"
+
+„No, hľa! a tak ja mám ---"
+
+„No veď je nič!" pretrhne ho ona, čujúc zvuk odporný v jeho hlase, i
+hodí očima ku dverám svetlice. Potom zahladí jeho dobre namastené vlasy
+na sluchách a vraví o inom: „Ale si mi krásny; ale si mi narástol! Ako
+sa čuduje každý, kto ťa vidí. Nahľadiaže sa na teba ľudia v kostole!"
+
+Ondro neriekol nič, a nezobudené oči zdvihne zase k tanierikom.
+
+„Dobreže sa prizeraj i ty; najmä diev­čencom!" vraví ona potuteľne ďalej.
+„Tej Filekovie, Ondro môj!"
+
+„Ktorej, Anči?"
+
+„Tej! Prístavka jej vezmú!" rečie ona tajomne, viac šeptom, a hľadí mu
+tklivo do očú, usmievajúc sa.
+
+„A či je už taká veľká, že by sa i vydať mohla?" spytuje sa on, ale
+hľadí len ta, kde prvej --- na tanieriky.
+
+„Ver' taká, Ondro\... ale už odzvonili --- poďme."
+
+Vyšli na ulicu práve v dobrý čas. Sveta bolo už veľa pred kostolom, a i
+so všetkých strán hrnul sa ešte ľud. Veľkomožná, usmie­vajúc sa a akási
+zahanbená, kráča ticho za sy­nom. Hľadí dolu, zohýňajúc šiju, iba vše čo
+pozre hore, no hneď kloní ohnivé oko k zemi. Ľudia náhlia do kostola,
+ale zato každý pozre k nim, čo len na chvíľku, prizrúc sa Ondrovi.
+
+„Ale veď je to vari veľkomožnej syn, ten starší!" uhádol Sovela
+Bielkovie.
+
+„Čerta, ten!" odsekne prístavok Groš černovlasý. „Ten by bol taký pán?"
+
+Od hora prichodí v húfe druhých žien vy­soká gazdiná Filekovie, odetá
+pekne, v čier­nom rúchu. Na hlave má damaškátovú plachtičku, lisknúcu sa,
+akú si i Anča kúpila v jaseň. S ňou ide i dievka, červená ako ruža,
+tučná --- záživná. Tá je samý skvost, len sa tak jasá v slnci, a stužiek
+sila lieta vetrom okolo jej pliec\... Anča veľkomožná sklopila zrak k
+zemi a čaká ich oslovenie.
+
+„To je tvoj Ondro, Anča?" zavznel zvučný hlas gazdinej-boháčky, o nejž
+sníva Anča, že jej bude svatvicou.
+
+„Môj!" odpovie Anča a líca zapália sa jej. Kradmo pozre Ondra i dievku a
+okolo úst roz­leje sa jej sladký úsmev, v oku má tajomný lesk. I dievka
+zbadala Ondra a pozrela k nim. Oči sú jej veselé, líca bucľaté a ústa
+červené, ako čerešne.
+
+„A kedy si prišiel, Ondro?" prihovorila sa, ač náhli za materou ---
+dievka nie je pyšná.
+
+„Toto je Filekovie Anča!" štopla veľko­možná syna, keď tá unikla od nich.
+
+„Ktorá? Táto vysoká a či ktorá?" povie on ešte dosiaľ dobre nezobudený,
+a oči sú mu v diaľke.
+
+„Tá, čo sa ti prihovorila!"
+
+V kostole Anča sadla pod chór, medzi druhé staré ženy. Ztade nebolo
+vidno Ondra, ktorý bol na chóre, ale ona zato videla vždy len jeho a
+myslela na neho, porovnávajúc ho s dievkou Filekovie, ktorá stojí jej
+pred očima s druhými pred oltárom. Ani spievať nemôže, ani modliť sa,
+ani počúvať kázeň. Vždy len o nich húta. Áno, Ondro pôjde do Filekov na
+prístavky, vezmú ho, vie. On je najinakší zo svojich vrstovníkov ---
+azda i zo všetkých v dedine. Ver' pristane do toho bo­hatého dvora i čo
+sa schránlivosti týka. Ten nebude nikda taký bedár, ako mu bol otec. Už
+teraz má 150 zlatých odložených. Za svet by nič nestrovil, nekúpil by si
+čo len jednu cigaru, ako druhí mládenci, ani za čiastku, ľaľa, nechce
+dať z peňazí svojich, ba ešte nikdy nezavďačil sa ničím ani jej, čo ho
+vy­chovala. Kde by ho nevzali? --- i parsún krásny. Každý sa mu prizre,
+kto ho vidí. A, hľa, teraz ešte i gazdiná Kučerovie, čo pri nej sedí,
+nechá modlenie a kloní svoju hlavu k nej, vážená od každého človeka,
+ktorá ne­chodí do kostola, aby reči robila, ako druhé, ale slúži Bohu ---
+i šepká jej:
+
+„To je tvoj starší syn tu, Anča?"
+
+„On, Ondro!"
+
+„Počula som, že hodný vyrástol!"
+
+# V.
+
+Minul týždeň. Veľkomožná obľahla a leží už päť dní neprestajne. Hlava ju
+bolí, i kašeľ ju sužuje veľký, a od toho klanie do boku. A vždy upadúva
+do ťažkého sna --- vždy by len spala. No ten sen je nie občerstvujúci,
+len ustane od neho, slabne so dňa na deň a chudne navidomoči. Je ťažko
+chorá; ale čo aká veľká je jej nemoc, duch jej je v práci naveky. Ako
+zobudí sa z toho sna, vždy snuje plány o 300 zlatých v skrini
+odložených. Už teraz vie, čo robiť s nimi, len by ozdravela čím skôr.
+Zeme, nakúpi zeme, nech sa jej duša nasýti. Ondrovi jednu štvrtinu,
+Janovi druhú kúpi. Brata mužovho vyplatí z domu, nech jej tam nezavadzia
+--- dom je jej treba! Hádam nebude sa potĺkať do smrti po službe? Ondra
+dá na prístavky do Filekov --- vezmú ho, vie iste. Hľa, dievka pekne sa
+mu priho­vorila. A Jana prižení do domu. Najde i tomu z prednejších
+dievčeniec --- dorastú dotiaľ. A bude sa ešte volať k nim do bohatých
+Ripeľov, ako niekedy dávno že sa volávalo, spo­mína svet.
+
+„A ty čo neješ nič?" spytuje sa pani, keď míňajú sa dni, a ona ničoho
+nedotkne sa, čo by jej čo predložili --- len vodu pije.
+
+„Nechcem, nemôžem! Nech odložia, pani farárčička!" odmieta ona. Jesť
+nebude, kým neozdravie. Akúsi bázeň má a nedôveruje nikomu, pánom svojim
+najmenej, ktorých hneváva veľa. Kým neozdravie, i tak jej nechutí jedlo.
+Áno, nech len skoro minie ju tento kríž, hneď spraví poriadok so
+všetkým. Ondra dá na prístavky, ešte kým nepôjde pod losy. Čiastku mu
+kúpi na licitácii, aby mu Filekovci nemohli povedať, že nedoniesol nič,
+keď sa v rečiach stlknú, a Janovi stará ostane.
+
+„Nejie nič!" riekla pani v svetlici domá­cim, „iba spí naveky a vodu
+pije. Neviem, čo bude s ňou."
+
+„Rozkáž jej, nech zje aspoň polievky!"
+
+„Keby si ona dala rozkázať vo veciach, ktoré sa len jej týkajú?.. Ani ja
+tú viac držať nebudem, dávala som jej lieky, iba hla­vou myká. I teraz,
+keď je ťažko chorá, hľadí len popúdiť."
+
+„Idem ja k nej!" núka sa dcéra, ktorá pokladala život za vec krásnu a
+myslela si, že má kus moci nad vzdorovitým duchom Ančiným.
+
+„Iď!" súhlasili s nepatrným úsmevom. „Ty si jej i tak miláček!"
+
+Slečna vzala tanier a vyšla do kuchyne. Anča sedela dosiaľ na posteli so
+svesenou hlavou. Šaty sú jej dokrčené od ležania a biely čepec pošinutý
+na bok. Nohy drží ovisnuté dolu, bosé, a ich palce dotkýnajú sa zeme. Po
+pošmurnej tvári vidno jej, že trpí veľa a myseľ jej je smiešaná od
+bolesti a horúčky, líca horia jej. No zato i cez tú nejasnú myseľ
+preniká jej tá jediná myšlienka, čo bude ro­biť, keď vstane z choroby ---
+len nech skoro vstane!.. Keď prišla slečna, a ona videla v jej ruke
+tanier, hodila sa na vankúše a zavolala:
+
+„Nechcem, nechcem --- nech odložia!"
+
+„Povážte, Anna!" započne slečna čo naj­vážnejšie, „ak nebudete jesť, sebe
+zle robíte, nie nám. Lebo kto nejie, ztratí vládu, a kto nemá sily, ten
+nemoc ---"
+
+„Nebudem, nebudem; nech odložia!" pre­trhne ju Anča so strachom. Lebo
+neverí ni­komu a marí sa jej, že nik nemyslí po dobrom s ňou.
+
+„Veď je to len čistá, mäsitá polievka!"
+
+„Nie, nebudem, nebudem!" kričí Anča vždy prudkejšie.
+
+Slečna stojí v nedorozumení s tanierom v ruke a nevie, čo si počať. Je i
+zahanbená. Chlúbi sa, že vie krotiť dämona, a hľa! Tu však blyslo jej
+čosi umom, a ona podniesla lyžicu k ústam, ochutnajúc sama.
+
+„No, hľa\... " vraví, „ochladne celkom\... "
+
+A tu Anča zrazu zdvihla sa a otrčila ruku proti nej, i berie rýchle
+tanier od slečny, ktorá zapálila sa radosťou. Anča zjedla chva­tom všetku
+a pýta ešte i vody, takej citronovej, akej jej včera pani farárka tu v
+ku­chyni spravili. Slečna odbehla pre citron a cukor, a veľkomožná sadla
+opäť na kraj po­stele, bosými palci dotkýnajúc sa zeme.
+
+„Keď ozdraviem, hneď pôjdem do Filekov," myslí so zvesenou hlavou,
+čakajúc na slečnu. „Keď bude tam, azda ho ani za vo­jaka nevezmú. Kde by
+z takého gazdovstva i vzali? Také niečo musia uznať i páni, čo sú akí
+pohani. A keď Ondro ta pôjde, bude gazdovstvo ešte väčšie, lebo mu i ja
+kúpim zeme, aby mu Filekovci nemohli povedať, že je žobrák. Oj, kúpim
+mu, mám, chvalabohu, za čo\... Iba o to som v strachu, že licitáciu
+spravia, kým ja neozdraviem\... " Postála, nemohúc mysleť pre kašeľ, čo
+ju pochytil; ale akonáhle ju minul a klanie prestalo po ňom, myslí zas:
+
+„Ani ja slúžiť viac nebudem, iba do Ďura. Inde by nešla, a tu ma už
+nebudú držať, viem, keď im zle vravím. Kto vie, čo je to, že sa už nič
+nebojím, a potom mi je i ľúto\... Brata mužovho nechám v chyži ---
+vyhnať by sa mi i tak nedal; ale si dám chyžu zhoto­viť z komory. Okná
+dám vylámať veľké, ako na škole; na ne kúpim riedke záclony, ako tu
+jesto v svetliciach. Takú budem mať hospodu, že sa každý podíva\..."
+
+Do izby vrátila sa slečna s citronom v ruke. Pred jej očima ho
+rozkrojila, vytlačila do vody, ocukrila a ochutnala, či je dobré. Potom,
+mie­šajúc to lyžicou, pristúpila k nej, pozorne a jaksi zvedavo prizrúc
+sa zjavu Anči, ktorá zdala sa jej divnou i zaujímavou akousi pre svoju
+premenenú tvár a neporiadne zavitú hlavu do bieleho čepca, zpod nehož
+trčaly vyšklbané čierne, ako havran, vlasy. Veľko­možná zdvihla chorú
+hlavu a pozrela na slečnu tiež. Oči stretly sa im mimovoľne, ako boly
+celkom blízo jedna druhej, a v tej chvíli v očiach slečny zatriaslo sa
+zdesenie. Trhla sa, ako by chcela zpät od nej, no, spamä­tajúc sa, podáva
+jej pohár, so strahom klo­piac zrak pred jej očima, z ichžto hĺbky,
+premenenej, divnej, ako by volalo:
+
+„Ja som už nie tá, čo som bola; ani taká viac, ako vy druhí. Medzi nami
+povstáva čosi, čo delí mňa od vás, odtíska, niečo silného, rastúceho,
+neznámeho --- strašného.."
+
+„Toto vám bude dobré\..." Chce riecť slečna, no nepovie. Drží jej tam
+pohár v chvelej ruke so sklopenými očami. Anča vzala ná­poj k ústam, ale
+neodvracia prenikavého po­hľadu od zblednutej trári slečny. A, vidiac jej
+zdesenie, v okamihu pochopila, čo je s ňou a čo bude s ňou. Na tvári
+zjavil sa jej výraz strachu a zúfalstva. Odložila pohár prudkým
+posunkom, že scvengotal o stoličku, a padla zpät do vankúšov svojej
+postele, ako bez seba.
+
+„Anča neobstojí," vravel jej muž Paľo pánu otcovi, keď ten prechodil sa
+pod oblokmi pred večerom, a on práve vyšiel bol od Anči. „Psi jednostaj
+zavýjali i tej noci, čujú smrť. Takému chorému, pán farárko, kde psi v
+dome vyjú, môžeme sa neufať!"
+
+# VI\.
+
+U dolných Ripeľov po tieto časy nevyhášajú svetla celé noci. Pokojná
+Zuza síce by nemala príčiny olej páliť, ale k nej utiahla sa veľkomožná
+a leží v jej dome už štvrtý deň. Do mužovho domu, kde býva zajikávajúca
+sa švegeriná a kde jest hŕba vreštiacich detí, Anča nešla; ani na fare
+nechcela ďalej ostať, ako pochopila, čo bude s ňou. A je už cel­kom
+schudnutá. Tvár má upadlú a zmenenú úplne --- nemoc pokračuje v svojej
+robote. Vlády už nemá; na nohách neobstojí a sotva už i sedí: ale duch
+jej je nepremožený a búri sa. Horúčka ju už netrápi, ani neblúzni Anča;
+vždy je pri sebe, a vždy si je pove­domá toho, že nevstane viac. Toto je,
+čomu nemôže sa pokoriť, čomu sa spiera silou-mocou. Tak ona teraz, keď
+má všetkého dosť, keď vyšla na vrchol slávy svojej .. teraz má klesnúť a
+opustiť všetko. V biede koľko ráz i zlorečila, že je na svete!
+
+„Zuza, netkaj!" riekla večer štvrtého dňa, ako prišla do Ripeľov, hlasom
+bezvládnym. „Dosť sa natkáš cez deň; aspoň večer nechaj tak!" Zle jej je
+počúvať plesk bidiel; ale i všetko jej je zle strpeť už a nenávidí
+všetko, čo ju obkľučuje.
+
+„Veď by i netkala, tetka, ale ---" začne Zuza, no nechá tkanie predsa.
+Má dve diev­čence; tým bude treba plátna moc, a keď v zime neotká, na jar
+ho ani tak nie. Ale i veľa mešká, ako je tu Anča. Je ver' i nepríležitá,
+a ťažko je s ňou Zuze. Nespí celé noci --- Anča teraz už spať nemôže ---
+je hlavatá, zlostná a vymýšľavá. Vše to, zas to aby jej snášala, a keď
+donesie, musí ona vziať popredku do úst zo všetkého, i liekov, aby ju
+neotrávila. Pri doktorovi bola s ňou dva razy, nakúpila na jej rozkaz
+všelijakých dobrých vecí. Anča čím viac chce z peňazí stroviť pre seba,
+kým je tu --- a jesť nemôže už nič.
+
+„A ten starniak je tu ešte"? spytuje sa Anča o mužovi, ktorého nikdy
+nechcela, ale teraz ho už ani strpeť nemôže pri sebe. Tak ona mladšia,
+súcejšia musí preč, a on, na ktorého túkať treba, ostane s peniazmi pri
+živote!
+
+„Nie sú tu. Báčik Paľo odišli už chvíľka!"
+
+„No veď to!\... Akože sú sami bez slúžky?" vraví Anča o fare, s velikou
+láskou spomínajúc ju teraz vždy. Hej, keby ešte raz vstala, po­slúchala
+by ich vo všetkom a nehnevala by ich viac už nikdy --- keby vstala!
+
+Ku posteli k nej pristúpila Zuza, s lyži­čkou a fľaštičkami.
+
+„Čo chceš?" schytí sa Anča zrazu a so strachom otvára oči na ňu.
+
+„Z tejto fľaštičky ste ešte neužili, tetka!"
+
+„A nekoštúvaš\... chceš ma otráviť?" Anča prudko vyrazila lyžicu z ruky
+Zuzinej, udrúc i ju po tvári. Lebo všetci sú jej ne­priatelia, čo na žive
+ostanú; cíti to, a ča­kajú na jej odchod zato, lebo nikdy dobrá nebola
+nikomu. Zuza prekvapeno pozrela k nej veľkými očima a utrela si líce, i
+odstúpila urazená. Anča vysilená tým výbuchom, klesla na ľahu zpät.
+
+„Zuza!" ozvala sa po chvíli oslabnutým hlasom. No Zuza, ač má srdce
+citlivé a vľúd­nosť zachováva ku každému, teraz neohlási sa. Ona Anču
+prijala, hoci nemusela; trpí ju, opatruje, znáša jej vrtochy, a hľa\...
+„Zuzka moja!" opätuje Anča, vydychujúc ťažko, i driape sa hore a hľadá
+očima Zuzu. „Poď sem --- nehnevaj sa! Ja už neviem, ani čo robím!" Keď
+jej neodpovedala, schytí sa prudko a sadne na posteľ. Zúfalosť zračí sa
+z celého jej zjavu --- zúfalosť, že musí preč, a strach\... „Nejdeš,
+Zuzka?"
+
+„Tetka, ja som si toto nezaslúžila od vás!" započne Zuza a prichodí k
+nej. „Ja vás opatrujem, ako vlastnú matku\... A či som vám ja nadarmo v
+tej zime chodila pre lieky ? A čože by ja mala vás otráviť? Pre tie háby
+a vankúš, čo ste mi poručili?\... Veď ja bez toho i budem!"
+
+„Nehnevaj sa, Zuzka!" vraví Anča a hladí jej tvár. „Už ti nebudem tu
+dlho zavadzať... Sadni --- rozpoviem ti, čo máte robiť, keď umrem.
+Truhlu kúpte mi v meste peknú far­benú, nech aspoň to mám zo svojej
+dlhoroč­nej služby, i plachtu riedku, čiernu. Peniaze dajte do banky ---
+ak chcú chlapci, nech si kúpia zeme, ak nie --- nie. A háby dones mi
+sem, čo ma oblečiete\... Tú geceľu atlasovú, štrimfle, čepec a brusliak
+zamatový.."
+
+„Háby sú vám už tu prichystané, tetka!"
+
+„Kde?" zježí sa Anča opäť. „Preč ich, preč! Zato si ich doniesla, aby
+som skôr umrela? Preč i ty odo mňa!"
+
+Zuza odstúpila, a Anča, zavrúc oči, ľahla vysilená na vankúše. Po dlhšej
+chvíli ozvala sa však zas, ako premožená, a ako by sa bola spamätala.
+
+„Zuzka, vezmi knižku a spievaj pri mne."
+
+Zuza poslúchla; vynašla pesničku, o nejž myslela, že je dobrá pre ňu,
+ale sotva za­spievala jeden verš, v ňomž do vôle Božej oddáva sa človek,
+Anča vzbúrila sa zase.
+
+„Dosť; nechcem, nechcem!"
+
+„Vody daj, Zuzka, daj vody studenej, ľado­vej. Oheň ma páli --- a oblok
+otvor!"
+
+Zuza podala vody a šla k oknu, no sotva štrkol, už Anča skríkla
+nastráchaná:
+
+„Zavri! Tak by skôr prišli pre mňa; a zamkni i dvere!"
+
+„Tetka!" osloví Zuza pokojná, keď bola pozatvárala, vidiac jej muky,
+„mali by ste sa pomodliť za pokojné skončenie.."
+
+„Čo chceš?" schytí sa tá a široko roztvára oči. „Za skončenie? Už by si
+chcela, aby ma nebolo tu? Ty\... ach!"\... Anča nedokon­čila. Klesla
+zadychčaná a bezvládna od vý­buchu. Zuza odstúpila od nej ticho a sadla
+do kúta i pomodlila sa sama miesto nej za ňu. Po chvíli, keď zdvihla
+hlavu, videla, že Anča sedí na posteli a hľadí k nej vpadlýma očima, s
+tvárou zmenenou. A prizrúc sa jej, pokojná Zuza videla, že do rána
+nedožije.
+
+„Tetka, ja som vás dnes nečesala\..." rečie, idúc k nej. „Keď sedíte,
+mohla by vás teraz!"
+
+„Umrem už?" schytila sa Anča, a hľadí dychtivo na jej tvár, ako by z nej
+chcela vy­čítať svoj výrok. No Zuza je pokojná; vie panovať nad sebou ---
+tvári nezmení.
+
+„Čo by ste umreli? Môžete i obstáť. To len že na deň nestačím."
+
+„Pletieš! Ty ma už ta hotuješ!" riekla, no dovolila. Hlas Zuzin zneje
+tak nežne, že krotne mimovoľne od neho a nevie odolať.
+
+„Či ma i umyješ?"
+
+„Ak chcete, tetka," vraví Zuza. „Ale ste sa ráno umyli, a zajtra môžete
+sa zas!"
+
+A Zuza vraví tak mäkko, a také láskavé je jej zachodenie ---
+materské\... Anča, ako by pochopila toho príčinu, zrazu začala plakať.
+
+„Neplačte!" chlácholí Zuza; „všetko sa na dobré obráti. Ved ľudia i
+chorejú."
+
+Učesaná a umytá zatíchla a ľahla zpät. Oči privrela a dlho ležala tak
+nepohnute. Ne­čakane potom schytila sa, hľadiac ku dverám, a lesk oka bol
+jej už nalomený.
+
+„Zuza, vidíš, tamto moja mať?"
+
+„Kde?" Zuza skrútia hlavu, a opanoval ju samú, pokojnú, zvláštny cit.
+Zdesila sa. „Ja nič nevidím\... To sa vám azda pri­snilo\..."
+
+„Tam pri dverách; prišla pre mňa!" Kle­sla opäť bezvládne a ležala zas
+ticho, dlhú chvíľu. „Nemôžem umreť," riekla polohlasne, „nemôžem, Zuza,
+pre deti\..."
+
+„Nie pre deti\... tie už budú i bez vás!" vetí Zuza tým istým mäkkým
+hlasom, preplneným nežnosťou. „Tie nech vás nesužujú! Ľa, odkázali sme
+im, ako ste, a neprišiel ani jeden. Ale to manie tvrdo opúšťate, tie
+peniaze\... a vás tam čaká bohatstvo iné --- lepšie!"
+
+„Bohatstvo lepšie?"\... Anča šepce ledva slyšateľne. Na tvári má akúsi
+belosť a výraz, ako by všetko, čo ju sväzovalo s týmto živo­tom,
+opúšťala, a všetkého zlého, čo ju tu držalo a nepustilo, bola konečne
+sprostená\... O chvíľu ešte pýtala si vody, a že nemohla sa už
+zodvihnúť, Zuza podobrala ju rukou poza chrbát. Anča omočila ústa, a
+zrazu hlava jej skľoncla na plece Zuze a odvisla\...
+
+# VII\.
+
+„Tak naozaj umrela veľkomožná?" divili sa v dedine, keď prenikol chýr o
+Ančinej smrti, a zaujal mysle podivný cit. Taká udatná žena, a už jej
+niet! Či je veliká moc Božia predsa, keď človeka kedykoľvek smetie so
+zeme. Márnosť všetko, márnosť!
+
+„To s jednej strany Pán Boh už ani trpeť nemohli.." riekol jej muž Paľo,
+starniak, keď už bol dosť natrúchlil, i kar odstál. „Vypínala sa nad
+každého, úcty nehľadela nikomu, už ani v službe nebála sa nikoho. A mňa
+potlačovala za 24 roky spolužitia naveky. A, hľa, ona silná šla, a ja
+som tu\... Kto trpí, panuje!"

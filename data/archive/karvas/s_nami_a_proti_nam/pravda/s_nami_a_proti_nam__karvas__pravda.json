@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "S nami a proti nám",
+        "publisher": "Pravda",
+        "pub_place": "Bratislava",
+        "pub_date": "1950"
+    },
+    "authors": [
+        {
+            "first_name": "Peter",
+            "last_name": "Karvaš",
+            "birth_date": "1920",
+            "death_date": "1999",
+            "ref": "viaf:17354331"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

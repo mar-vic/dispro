@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Povesť o Turovi",
+        "publisher": "kníhtlačiarsko-účastinársky spolok",
+        "pub_place": "Turč. Sv. Martin",
+        "pub_date": "1899"
+    },
+    "firsted": {
+        "pub_date": "1873"
+    },
+    "authors": [
+        {
+            "first_name": "Marek",
+            "last_name": "Rozmarín",
+            "birth_date": "1826",
+            "death_date": "1877",
+            "ref": "viaf:3046160909248012870006"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Rýchlikom",
+        "publisher": "Kalligram",
+        "pub_place": "Bratislava",
+        "pub_date": "2012"
+    },
+    "firsted": {
+        "pub_date": "1886"
+    },
+    "authors": [
+        {
+            "first_name": "Gustáv",
+            "last_name": "Maršall-Petrovský",
+            "birth_date": "1862",
+            "death_date": "1916",
+            "ref": "viaf:42640171"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

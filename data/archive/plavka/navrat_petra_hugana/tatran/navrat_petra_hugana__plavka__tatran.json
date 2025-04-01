@@ -1,0 +1,26 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Návrat Petra Hugáňa",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1949"
+    },
+    "authors": [
+        {
+            "first_name": "Andrej",
+            "last_name": "Plávka",
+            "birth_date": "1907",
+            "death_date": "1982",
+            "ref": "viaf:14783227"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

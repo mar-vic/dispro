@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Adam Šangala",
+        "publisher": "Tatran",
+        "pub_place": "Bratislava",
+        "pub_date": "1970"
+    },
+    "firsted": {
+        "pub_date": "1923"
+    },
+    "authors": [
+        {
+            "first_name": "Ladislav",
+            "last_name": "Nádaši-Jégé",
+            "birth_date": "1866",
+            "death_date": "1940",
+            "ref": "viaf:45478401"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

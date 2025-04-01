@@ -1,0 +1,9337 @@
+# Malý omyl#-K#
+
+Bolo už pozde popoludní, keď ma zavolali ku chorému --- rozprával mi dr.
+Červienka, lekár dobrej vôle, postrebujúc si v chládku dobrého
+hericovského piva#POZ#1;Hericov pivovar a pivnice v Banskej Bystrici sú
+na široko---ďaleko vychýrené po výbornom tam varenom pive.#-POZ#.
+Opytujem sa paholka, čo vlastne chybí chorému, aby vedel, aké lieky a
+nástroje vziať so sebou. Paholok odpovedal, že veru chorého v ušiach
+šklbe tak náramne, že to až druhí počujú. Píska, vrieska vraj, skacká na
+jednej nohe, krúti sa dookola; čert vraj zná, či napokon nemá motolice.
+
+No to! --- Z toho som ja, pravda, nezmúdrel, ale som sa predsa
+koľko---toľko spamätal; vzal som teda najpotrebnejšie ručné ránhojičské
+nástroje a sadol som medzi rebriny. Milý paholok, stojac opretý o
+rebrinu, s opratou v ruke a so začmudenou zapekačkou v zuboch,
+vyklebetil mi cestou, že ten chorý je veľmi nezbedné, samopašné
+chlapčisko. Papľuh, hockedy si vraj strčí porisko z biča do ucha a letí
+s ním ako jednorožec za husami. Akože ho potom nemá v ušiach trhať?! Hm!
+--- dokončí, vyjme fajku z úst a crkne slinu štrbavým zubom.
+
+V susednej obci Lázny prikamarátil sa mi prísažný Dúha, prehodil cez
+plecia hunku a sčiastky zo zvedavosti a z dlhej chvíle, sčiastky, že mi
+bude pomáhať pri operácii, vyškriabal sa na voz.
+
+Jeho ťarbavé driapanie sa na voz, jeho ako klampiarova veža blyštiaci sa
+nos, zúžené žmurkavé očičká, zajakanie sa dostatočne prezradzovali, že
+je pán polgár v stave obleženia.
+
+Mútne oči mu ustavične slzili a slzy, kradnúc sa jedna za druhou dolu
+nosom, pri každom drgnutí voza cupkali mu do lona. Ale nebol to výsledok
+plaču, lež roztomilý destilačný aparát užitého špiritusu. A tak s touto,
+na veľmi slabých nohách stojacou pomocou, došli sme peknerúče do obce
+Bedárky.
+
+Zosadli sme pred domom, pri ktorom sa nemohlo zahádať, že „Sedí pani na
+dachu, kúri sebe tabaku" --- alebo „Sedí pán na streche, fajčí a
+nekreše", lebo tmavomodrý dym valil sa dvermi, oknami, a kde akú škáru
+našiel, len nie komínom. Aby mi oči nevyhrýzlo, zohol som sa a takmer
+štvornožky prešmýkal dverami do pitvora. Tu tma ako v rohu, kašeľ ma
+dobre nezadusil a takmer ako šunka zaúdený hapkal som za motúzom
+Ariadny, aby z labyrintu von vyviazol, to jest, hapkal som za motúzom
+záporovým na chyžných dverách. Aha, tu si!
+
+Chmatnem akýsi mastný vlhký motúz. Ťahám, ťahám do chuti. A tu len nič a
+nič. Hm---hmhm, --- lapím oboma rukami a vyzváňam ozaj netrpezlive. Vtom
+sa mi z výšin obklopujúcich ma oblakov ohlási patelátový ženský hlas:
+
+„Ej, pán doktor, hľadteže, vedže mi fiertušku neodväzujte, už mi hen
+letí." Akoby ma bol had uštipol, tak som odskočil. Namiesto dvier, chcel
+som otvoriť gazdinú. --- Upravila ma dobrá gazdiná k dverám, ktoré sa
+otvorili tak ľahko, keď som motúzok potiahol, že ma, čo som sa ich
+držal, až k samému stolu zastrčili.
+
+V chyži mračno, nerozhorený oheň na kozube len slabo, neisto osvecuje
+izbu a čo je v nej. Stojím na mieste prikutý a nevidím v prvom okamihu
+ničového nič. A čím menej roboty mali oči, tým viac jej mal nos. Okrem
+výparu onúc, sušených na peci, kvasnej kapusty páchol celý svet
+bryndzou. Len keď som sa už horko---ťažko rozhľadel, uzrel som hlavné
+žriedlo toho štipľavého zápachu, a to pred samým mojím nosom. Videl som
+okolo stola viac osôb sedieť a akúsi bielu kopu naprostred neho
+prehŕňať. Myslel som sprvu, že perie párajú. Nahnem sa a vidím bryndzu.
+Prizriem sa ešte pilnejšie, a čo vidím, že tá bryndza skáče, a že
+každého takého smelého úskoka o hlavu skrátili a s masou do gelety
+vtlačili. Šlo to ako na klavíri tichá hudba. Pomyslel som si, že to veru
+dosť nevinná a gustiózna zábava...
+
+„Nechže sa páči sadkať," --- povie stryná, vstala od bryndzového rákoša
+a začala mi slušné miesto priprávať. Utrela holou dlaňou čosi z lavice,
+čo malý Janík v nevinnosti bol tam stratil. Ostýchavo si sadnem, akoby
+som sa na žeravé uhlie mal spustiť; ale i tak bol môj odpočinok veľmi
+krátky. Tu ma čosi začalo za nohu štípať a z druhej strany za rukáv
+šklbať.
+
+Pomknem sa ďalej a pozerám, čo to za rebelanti. Pod lavicou sedela hus
+na vajciach, mňa uznala za cudzieho dotieravca, nuž sipela ako had a
+štípala ako kliešte. No a to druhé bolo teľa, ktoré ma v sivej halienke
+ukrúteného bezmála za svoju mamičku uznávalo a tak za rukáv mlgať
+začalo. Gazda sa vyhováral, že je choré. Keď som upozornil, že v okolí
+panuje dúl, aby reku do škody neupadol, naľakaný dal teľa vyniesť do
+záčinka...
+
+„Nuž ale," reku, „takto medzi besedou, nože mi už teraz ukážte toho
+vášho chorého synáčika."
+
+„Števo! Števo! --- Nuž ale kdeže si, ty šúplata nepodarená?!" zavolá
+gazda.
+
+„Hou!" ozve sa temný hlas spoza kachieľ.
+
+„Nuž ale ho ideš dolu! Aha, si ho ty za pecúch. Či pán doktor vari taký
+mamľas ako ty, nazdáš sa vari, že bude za tebou čakať!" Nato prikročí
+ňaňka k peci, a ťahá deti za pecou ako polená nakopené, jedno za druhým
+za nohy dolu. A bolože ti ich tam, bisťudade! Posledný, samý spodný bol
+Števo. Postavil ho na nohy pred kozub.
+
+„A terazže stoj, ty mumák."
+
+Malže ten Števo za kyjanicu! A uši, tie mu odstávali ako dva lopúchy.
+Môj spolucestovateľ polgár tvrdil, že to dobrá hlava. No, veľká bola
+dosť. Otec Ďuro svietil mu lúčivom do ucha. Ja chytím oba lopúchy,
+natiahnem ich náležite dolu, aby do nich mohol nazrieť. Tu potom vidím
+na ploche bubníka čosi zelenkavého. --- Čo je, to som rozoznať nemohol.
+Vytiahnem z vrecka svoje štipce. Prísažný, keď ich videl, povedá, že to
+veru škoda bolo so sebou vláčit, lebo že by vraj v takých ušiach i
+obyčajným kutáčom mohol šparchať.
+
+Kutám, ťahám, morím, usilujem sa, ale toho čerta z ucha vytiahnuť predsa
+nemôžem. Števo vreští ako nenamastené koleso na pluhu. Znoj sa mu z čela
+cedí ako srvátka z tvarožnej homôlky. Ale sa i ja hrejem. Nuž ale keď
+kumšt nevystačil, pomohla náhoda. Starostlivý otec priveľmi sa priblížil
+s lúčivom, to zrazu pukne, a fuk, milému Števovi žeravý uhlík na šňupák!
+
+Ten mykne hlavou, a ja držím v štipcoch vytiahnutý veľký svinský bôb. Už
+počal kľuvať, a preto tá zelená farba; ešte pár dní a bol by korene
+pustil, a ešte pár dní pozdejšie, bol by na teple za pecou kvitol. Otec,
+rozhorlený pohľadom na bôb, chmatne Števa za šticu a otriasa mu hlavu
+ako dohánový miešok. Ale čo sa stalo! Ako ho tak omáľa, začnú z uší
+pršať olovené gombičky, šošovica, hrach a tým podobné maličkosti.
+Učinilo to asi za hrsť a --- chlapec bol spasený.
+
+Rodičia, natešení nad šťastným výsledkom, čoho, pravda, polovicu
+energickej operácii otcovej treba pripísať, hotoví boli i svoju
+povďačnosť preukázať. --- I strčil mi gazda Ďuro namáhavou prácou dva
+oštiepky (malé syrce) do vačku. Matka však, utrúc si rúče nos do
+zásterky, povolala ma k večeri, a to k praženici a bryndzovým haluškám.
+No ale spomienka na bryndzu ma už nasýtila, i poďakoval som sa
+pekne---krásne za večeru, a pretože sa už hodne bolo zmrklo, pýtal som
+nocľah, a to pre čisté čerstvé povetrie na šope.
+
+Paholok ma viedol a ja som vyšiel rebrom na šopu, kde mi hneď pod nohami
+zašušťalo voňavé seno. Mojím príchodom splašené kury zakokorokali mi nad
+hlavou. Vyhrabem si v sene ležisko, uložím sa doň a prikryjem halienkou.
+Tu ma hneď na nose škrabala materina dúška, hneď zase ma do ucha pichal
+rojovník a po fúzoch mi mašíroval ucholak --- kým som konečne premohol
+všetky neresti, a pri melancholickom cenganí v stajni pokojne neusnul...
+
+Môj spolucestovateľ prísažný Dúha bol medzitým inej mienky ako ja, a
+ostal na mieste. Chutila mu praženica, chutili mu halušky a chutilo,
+znamenite chutilo mu to božie
+
+požehnanie, tá krumpľová fľúdrovica. Už si všetci políhali, iba on ešte
+sedel za stolom akurát tak, ako ho na obrázku vidíme. Dokonale dovŕšil
+doma započaté dielo. Keď už všetko vycedil a vyškrabal, keď okolo neho
+už všetko fučalo a chrápalo, namyslel sa, ale pozde v noci, tiež do
+odpočinku. Hja, ale sa mu nohy zapletali ako pletenec, a tvrdo ho bolo
+vypratať na dvor, ale ešte tvrdšie hore rebrom na šopu! Nebolo inej
+pomoci, ako vyredikať ho hore na vidlách.
+
+Vysadený horko---ťažko na šopu, postavil sa a klátil neistý ako otep
+slamy na vetre, pričom mu hneď hlava buchla o rohy, hneď rohy o hlavu,
+až sa naostatok, ukolembaný ako vlny morské, zvalil. Vtom ma začne moriť
+ťažký sen, že ma zbojníci hrdúsia. Nedalo mi dýchať. Prebudím sa. Tu
+leží čosi chlpatého na mne, akási krumpľovicou namočená handra. Či ma,
+reku, mora dlávi, a či ký beťah! Vrhnem rukou, a vskutku, tá ohava sa
+kotúľa, až zmizne a vtom počuť voľačo do stajne bacnúť. Prekliata mora,
+to jest pán prísažný Dúha, frkol do priečinka, kde pri býkovi ostal
+ležať, a nedbajúc na miesto a na kamarátstvo, spal ďalej ako to nevinné
+nemluvniatko v kolíske.
+
+Prešla noc, prišlo ráno. Zavčasu, ešte za šera, vstúpi do stajne
+rozospatý Martin a detto taká Zuzka, zívajú ako o stávku. Zuzka,
+rozťahujúc rukami, kladie statku za rebrinu. Martin preglguje lačné
+sliny a kydá triezvym srdcom hnoj.
+
+Zuza zívne: „Ho---hohó! Bodaj by bol zhorel i s polgárom, keď tak dlho
+paskaloval#POZ#2;Vyčíňal#-POZ#.
+
+A ešte som ti musela s ním spievať. ´Ej, tá Dora naša,´ --- a napokon ma
+chcel za to ešte vyklbčiť."
+
+Martin crkne slinu, štrbavým zubom. -- „Ech, čo ma tam po polgárovi.
+Podstav radšej to teľa pod kravu, ak ešte nezdochlo. Z toho, bodaj som
+skamenel, tiež nebude riavko!"
+
+„No nie," --- odpovie Zuza, poberajúc sa do priečinka.
+
+„Bodaj, a bodaj by aj bolo vykapalo, aké je ťažké! Hľaďteže, veď to už
+ani na nohách stáť nevládze."
+
+S tým ho teperí pod kravu. Ale to veru cecok brať nijako nechcelo.
+
+„Nuž kýchže ti je sto hrmených striel --- tento hlaváň hlavatý!"
+
+Martin nato: „A veru, hľaďže, Zuza, choď ty len po gazdu, nech ho radšej
+doreže; lebo ak sa doktor zobudí, dá mu ho Cigáňom. Vieš, že sa vraj dúl
+ukazuje."
+
+Kým Zuza s gazdom a tento s lampášom a ostrým nožom príde, zviazal
+starostlivý paholok potme, ako vedel, povrázkom teľaťu nohy a zavesil ho
+na klin. Vtom sa začne teľa metať a zvíjať --- a stobohovat, ba i
+teremtetovať#POZ#3;(maď.) Nadávať#-POZ#. --- Krik, strach a smiech...
+
+Pred pokračovaním rozprávky si pán doktor Červienka akurátne zapije
+čerstvo doneseného piva, utrie fúzy a pokračuje ďalej. Na ten krik sa
+prebudím, chcem oči otvoriť, tu oči zalepené. Po krátkom namáhaní ich
+vytriem a poberám sa chytro dolu rebrom a práve vbehnem do stajne, keď
+prísažného z klina zberali. Bola to skupina veľmi smiešna.
+
+Gazda sa škrabal za uchom, Martin krútil opaskom, Zuza si šatku do očí
+naťahovala, všetci traja prestrašení. A prísažný stál, stál s otvorenou
+papuľou, naozaj ako teľa.
+
+Keď Zuza pomútená vybľabotala, že prísažného miesto teľaťa zo záčinku
+pod kravu redikala, že ho Martinom na klin zaveseného gazda mal zarezať,
+musel som sa oprieť o dvere, aby som sa od smiechu na zem neskydol.
+
+„Škoda," reku, „že som takto o zadnú štvrtku teľaciny prišiel."
+
+„A ja o mechúr," ohlási sa od bôbu oslobodený Števo, namrzený nad tým,
+že ho očakávanie sklamalo.
+
+Keď som si nad tým „malým omylom" brucho potriasal, čiahnem po vlasoch,
+a tu celá kopa guána, ktoré natrúsili kury, čo mi nocovali nad hlavou.
+Len vtedy mi svitlo, prečo som mal zalepené oči...
+
+# Nohavice alebo pravda zvíťazí
+
+V jednej odľahlej obci P. breznianskeho okolia bol veľmi požehnaný rok
+na kapustu. Ako to na Dolnej zemi pri požehnanom vinobraní býva, i tu
+teraz nestačili sudy. Po pitvoroch, komorách, holohumniciach ležali celé
+hole nakopenej modrej kapusty. Nuž a v Krupine sme ešte
+sparorez#POZ#4;sparorez --- dielňa na sudy, ktorá zakrátko zanikla pre
+nesvedomitosť niektorých funkcionárov, ako i pre nedostatok solídneho
+odborného základu#-POZ# nemali. V každom kúte, na každom násype videl si
+sedieť zapískané deti hlúby chrúmať, až im močka dolu kútikami tiekla.
+
+U Vraniaka čistia, drobia a tlačia do sudov kapustu. Pri veľkom
+požehnaní málo bolo pomoci. Ženy na potoku preberali listy, vyhadzujúc
+húseničný trus a vtieravých slimákov.
+
+Cez nože rozkročený sedí mladý Vraniak, drobiac šajhalky; jeho matka
+prekrajuje krížalky na stole. Maco Lasica, starý, ale silný valach,
+miesi sa v sude zľava napravo i zase naopak. Keď mu kapustná polievka,
+premývajúc otlaky, počína čvrkať medzi prstami, pribehne s náramným,
+drobenou kapustou naplneným vahanom jeho ohybná žena Dora, vrhne kapustu
+do suda, rukami rozchráni, posype soľou, rascou, sem---tam strčí kus
+cvikly, ostrúhaných kapustných hlúbov a čerstvé plánky, jedinkého to
+reprezentanta šľachetnej ovociny, lahôdky dievok a ježať poctivej obce.
+Maco v barančinovej čiapke a s cedidlom oviazanými kečkami šliape sťa
+tyran tyranský po kapustných hlavách, uložených k budúcej kotlovine.
+
+Kapusta v sude rastie, s kapustou i postava Maca povýšená krúti sa
+ďaleko nad smrteľníkmi priestrannej chyže.
+
+Neprajným osudom, a či vari pričinením lucifera, viseli v susedstve Maca
+koncom žŕdky prehodené, vyše kolien bohato zamastené biele nohavice s
+remeňom a cifrovanou žltou prackou.
+
+Keď unavený Maco po dlhom drobčení, a temer do povaly hlavou dieru
+vyvŕtajúc, zamýšľal po doplnení suda z katedry dolu zostúpiť, začal
+domov prišlý gazda neslýchanú surmu. Vrátiac sa z úradu s palicou v ruke
+a v nových sviatočných hábach, chcejúc sa prezliecť, hľadá staré
+chološne. Ale tých na žŕdke nebolo. Hľadali ich všetci, a hľadali všade,
+nohavice však zmizli a boli fuč. Ale na tých Vraniakovi moc záležalo, on
+rástol v nich a s nimi; boli mu milé ako verný priateľ, a mastné k tomu,
+že by im stotridsať funtový stojak sotva bol chytil. Vraniak prosí,
+Vraniak volá, Vraniak hreší --- no nič sa nedá robiť. Chološne boli na
+žrdi, áno, a teraz ich už niet! Veru niet --- teda? No i menej
+predpojatý a do svojich
+
+nohavíc zaľúbený človek, ako náš Vraniak, bol by musel prísť na zlé
+myšlienky. Jeho podozrivé oko padlo prirodzene na nášho Maca a
+spoločnicu Doru. Hm! Náš energický vrchnák dal podozrivým myšlienkam
+drsný hlasitý výraz. Súc milovníkom krátkeho sumárneho pojednania, vzal
+Doru, na môj dušu, natvrdo.
+
+Hja, ale kosa udrela o kameň. Lora zaprela ramená o boky, vyzerajúc
+úpravno ako dvojušistý hrniec, mlela jazykom ani holender v
+papierni#POZ#5;holender v papierní --- stroj na mletie handier pri
+výrobe papiera#-POZ#, dušiac, božiac a prisahajúc sa, že ona so žiadnymi
+nohavicami, a nič do činenia nemala. Hlúpa výhovorka pána vrchnáka obce
+nadmieru napálila, a to potom šlo takto a takto, toľko a toľko bohov do
+matere jeden druhému napárali. Maco, obúvajúc si práve krpce na
+kapustnicou vymočené nohy, bol až do dna srdca bodnutý, ohradzujúc sa,
+aby Vraniak jeho ženu do svojich nohavíc nepomiešal. V prchkosti prasol
+gazdu --- tak ako kedysi Dávid Goliáša, návlakom okolo seba pokrútiac
+--- krpcom po čele.
+
+Keď Turka čibukom čo i dosť útle rezne, je väčšia urážka akoby ho ojom
+ovalil. Za takéto zneuctenie považoval i Vraniak krpcový prílepok
+valacha na svoje vrchnácke čelo.
+
+Akcia plodí reakciu, na vypovedanie vojny ihneď nasledovala odveta.
+Brevi manu, a manu propria#POZ#6;(lat.) Hneď a vlastnoručne#-POZ#
+odznakom úradnej moci --- lieskovou mohutnou berlou --- vymastil chrbáty
+manželského páru, a po týchto dokonalých pravotných ad
+captum#POZ#7;(lat.) Na pochopenie.#-POZ# kapitálnych obradoch vysotil
+ich na ulicu s takým ohňom, že nepratajúci sa párik bezmála i futro z
+dvier na pleciach von vyniesol. Ako ďalší následok týchto súdnych
+predprác zahrmeli: odsúdenie na zaplatenie ceny skapaných nohavíc,
+nevyplatenie za tlačenie kapusty, zhodenie z úradu obecného valacha a
+dvojhodinová klada stavu manželského. Všetky okolnosti svedčili proti
+nim, ľud, hotový vše veriť radšej zlé než dobré o svojom blížnom, ich
+odsúdil, takže chudáci, poľutovaní, na dobrom mene uškodení, prinútení
+boli z P. sa vysťahovať. Pobrali sa teda ta, kde ich oči zaniesli ---
+lebo koní nemali --- a to do najbližšieho mestečka F.
+
+A zase veľa vody pretieklo hutnou rimavskou dolinou, a rohoznou, a
+koleso osudov valilo sa neprestajne ponad svety, krajiny, národy, obce,
+ponad kapustné sudy a skapané nohavice. A takto prejdeme na druhú
+kapitolu tejto ostrej a ako kanustná polievka čistopravdivej rozprávky.
+
+V mestečku T. ten rok sa veľmi zle urodila kapusta, pažravé húsenice --
+blaufusskí Nemci#POZ#8;blaufusskí Nemci --- z okolia Kremnice. Dnešné
+meno Blaufusu sú Krahule#-POZ# nazývajú ich „súkenníci" --- husné
+hnúsenice, čiže hnusné húsenice, nádejeplnú kapustu v najlepšom bujarom
+zraste do útleho srdiečka vyžrali, zničiac všetku nádej na kapustné
+halušky a červené krížalky. A ledvaže Macom tlačená a Dorou nakladaná
+kapusta kysnúť začala, spravodlivá zlosť gazdova však tíšiť sa začala,
+prišiel kmotor Kaniak z T. na návštevu s tým cieľom, aby si mohol z
+bohatej kapustnej zásoby potrebnú koľkosť zadovážiť.
+
+A kúpa sa stala. A kapusta, plachtou oviazaná, na volkoch bola dopravená
+do nového príbytku T. k svojmu účelu.
+
+Asi štyri mesiace zatým Vraniak, cestujúci z Rima---Séču#POZ#9;Rima-Séču
+--- slov. Siač, malej obce v okrese Jesenské#-POZ# zavítal ku
+Kaniakovcom. Po dlhom obyčajnom ponúkaní zasadol si za stôl a po dlhom
+prosení dal sa konečne nakloniť stať sa ich hosťom pri obede, hoci za
+tým lačný žalúdok už dávno bol zatúžil; ale núkať a dať sa ponúkať patrí
+k móresom.
+
+Zručná územčistá pani kmotra znala si oceniť vážnu návštevu. S červenou,
+vyznojenou, upečenou tvárou pražila, smažila, čo dobrého a vzácneho
+jest. Zasolené baranie mäso s krúpami, potom praženica a ďalej kapusta s
+údeninou túžobne čakali na audienciu a pánov kmotrov. K tomu ako
+volontier#POZ#10;(franc.) Dobrovoľník.#-POZ# pridala sa krátkohrdlá a
+širokoplecnatá, štvoruhlastá sklenica s hriatym.
+
+Na lipe konopa, na konope zelina, na zeline sviňa. A tam v tom poriadku
+kúri sa dar boží pod nosom okolo stola sediacich.
+
+Bolo daru božieho, chvalabohu, dosť a nechybovalo ani ponúkačov, a tak
+mnohovzácny a veľalačný hosť mlátil odušu, hoci sa mu znoj cidlíkom z
+tváre lial, že by sa už skoro ani bez dáždnika nebol zaobišiel. Od neho
+kúpenú kapustu však mietol náležite, ako sa svedčí, nadovšetko z púhej
+úctivosti oproti sebe, kmotrovcom a na nej vylepenej údenine.
+
+Ako už ozaj hlboko na mise upadla, vyvliekol sa na svetlo akýsi dlhý
+zdrap, podobný známemu obrovskému Hejdrarchosovi. Kmotor Kaniak chce z
+neho kus odrezať, ale nešlo to tak jednoducho, celou silou mieril,
+pidlikoval, ocieľkou končiar poťahoval, kým krvopotne franforec z neho
+odšmikol. Zostyknúc pravým palcom z vidličky tento šklb veselo
+besedujúcemu Vraniakovi na mištičku, povie vľúdne: „Nože, pán kmotor,
+zúbky vytrieť."
+
+„Ďakujem za úctivosť," odvetí Vraniak glgnúc si hriateho.
+
+A potom ak ho myká, tak ho myká --- ten kúštik kundrlíka, chytí medzi
+obe ruky, druhý koniec zuby a nadŕľa ako mladý pes, keď starú črievu v
+pysku omáľa; ale to nešlo. A keď sa mu spomedzi zubov vyšmykol, a on
+búšil hlavou do steny, zavolal namrzený:
+
+„A kýho čerta, pán kmotor, to máte za traky v tej kapuste?"
+
+„Moja starká kožu zo slaninky strčila. Dobrá to býva
+komedencia#POZ#11;(z lat.) Tu pochúťka#-POZ#."
+
+„Ej, ale bodaj ma čerti brali, potrebuje dokonalé klovy --- tvrdá je ako
+vysušený krpec," doloží Vraniak...
+
+„Ešteže... No, to bude nedovarený krajčok, ak práve z hrnca trčal, snáď
+hlbšie bude mäkší." A s tým ťahá corpus delicti ďalej.
+
+„A bodaj ma pokrčilo!" vykríkne Vraniak. „Šak tam pracka na tom
+prišitá!"
+
+Kaniak sa zľakol, akoby bol hada chytil, hneď mu vidlička a príchodzej
+pani kmotre lyžička od úst odpadla.
+
+Vraniak však pozorným zrakom vytiahol celú tajnú históriu úplne na božie
+svetlo a jal sa ju skúmať So smiešnym zadivením vykladá: „Ľudia boží, to
+je úplný parsún remeňa mojich, v jeseni skapaných nohavíc!"
+
+Bez dohovoru, avšak jednou mysľou hnaní, pobrali sa všetci traja do
+komory, obstanúc osudný sud kapusty asi s takým citom, s akým obstali
+kedysi Jozefovi bratia studňu, keď jeho chudáka spustili do nej.
+
+Kmotra skladá skaly, dienca u randu a vykasanou rukou chamrí v kapuste,
+akoby raky lovila. A netrvalo dlho a zavolá hlasom ako mornár, keď za
+harpúnou veľrybu za sebou ťahá:
+
+„Tu je!" Zaprie sa nohami o sud, a tu po krátkej manipulácii v
+prítomnosti dvoch kmotrov a kmotry uzrú božie svetlo --- Vraniakove
+nohavice.
+
+Áno, ony, ony, --- tie isté konstatirované#POZ#12;(z lat.)
+Zistené#-POZ#, na dience šité, zeleným vyšívané. Jedno, čo im chýbalo,
+bolo, že čiernu mastnú, vyše kolien nalepenú kôru ostrá kapustná
+polievka načisto vyhrýzla. A ony sa skveli pred očami onemených,
+zadivených divákov v tej najčistejšej bielej farbe nevinnosti.
+
+Kaniak i Vraniak škrabali sa za uchom. Tento, od prírody ako májová
+bryndza mäkký, so srdcom teraz hriatym premoknutým, dal si hneď k sebe
+zavolať Maca i Doru.
+
+Kajúcne im predniesol vec tak, ako sa mala a diala v kapustnom sude,
+poukazujúc na prst boží, ktorý i v kapustnej polievke riadi. Podajúc im
+potom ruku, prosil o odpustenie, prijal ich do lásky a služby, obdaroval
+Maca vypacovanými nohavicami, ovesiac ich Dore miesto seba okolo krku. K
+tomu že bude nasledovať klobása i za sud kapusty.
+
+Nato nasledovalo slzy roniace, tri hodiny trvajúce prenikavé nemé
+tabló#POZ#13;(franc.) Výjav, skupinový obrázok.#-POZ# okolo kapustného
+suda.
+
+# Peniaze vyhárali
+
+Machuľa, mestský pisár, stonoha na čertovom kolese krútená, sedí s
+Chumajom v krčme pri pohári piva. Chumaj bol dobrý chlapík, tu i tu
+zaplatil pohár piva, ale rád veril, že je vzdelaný a že kráča s duchom
+času. Podľa remesla bol kotlárom, ale to nič k veci.
+
+Rozprávali sa o tých peniazoch, čo tam na kremnických horách nedávno
+našli, ako to bolo opísané v Národných novinách. A tak zhovor sa točil a
+prešiel na poklady, ako vyhárajú a ako ich možno dostať.
+
+„Ja síce všetkým tým blúzneniam o vyháraní peňazí neverím; nuž ale,
+ľudia vše len hudú tú starú nôtu, a blázni sa vše nájdu, čo tomu veria,"
+škrabúc sa jednou rukou v kudrnavých vlasoch, rozpráva ľahostajne
+Machuľa.
+
+„No, pravda, pletky! Ani ja tomu neverím," odpovie naoko ľahostajný
+Chumaj. Avšak oprúc obe ruky o hlavu, pomkne sa bližšie k Machuľovi.
+
+„Tárandy, tárandy, hlúpy ľud tomu verí. Ale len rozprávajte ďalej, čo
+ste o tom vyháraní počuli."
+
+„Nuž mne rozprávala chudera moja mati a moja tetka -- to nám bola celá
+biblia, lenže, pravda, s vytrhnutými kartami --- že ich starý otec mal
+akúsi kroniku, a v tej kronike že bolo --- že tam, ako sa ide zo Zábavy
+hore proti Cmarovému, naľavo od Kevického lúky, asi dvadsať krokov od
+čerešne..."
+
+„Oj, znám ju, znám, bol som na nej," skočí do reči Chumaj.
+
+„No teda tam, hneď nablízku, je veľký šíp a pod tým šípom..."
+
+„Je kotlinka, viem, viem," zase Chumaj. „Snáď ste tam už kop..."
+
+„Nie, nie, na moju vieru nie! --- Ale to do smiechu. Nuž a ten poklad?"
+
+„Ten poklad? Nuž ten poklad vraj tam vyhára." S vážnou tvárou a tichým
+hlasom dokladá Machuľa.
+
+„Veľa peňazí, prsteňov a zlatých reťazí. No má to tam byť celá
+strieborná fúra!"
+
+„Ale, ale, bláznivosť! Keď znajú, koľko tam a čo tam, prečože to už
+dávno nevybrali?" pýta sa dôkladne Chumaj.
+
+„Hľa, pán majster, na to je nie každý schopný. Po prvé, musí byť ten, čo
+poklad má zdvihnúť --- v nedeľu narodený."
+
+„Ach, ba kýho?! Ha---há, a ja som sa práve v nedeľu narodil, a vraj vo
+splne" odpovie Chumaj, skoro nemohúc utajiť borcujúcu v ňom radosť.
+
+„Potom, neznajú vraj ľudia zachodiť... no, ako treba zakliate poklady
+dvíhať.
+
+Neslobodno šramotiť, pri vyháraní treba čižmy vyzuť; aby miesto
+nechybel, aby ho prípadne i druhý raz nájsť vedel, musí na miesto, kde
+leží poklad, hodiť onucu, alebo, čo ešte lepšie --- prepytujem váš
+poctivý žalúdok --- lajno. Jaj, veru, keď je nie opatrný --- brng!
+Zhrknú do priepasti a hľadač má s čertom robotu."
+
+Zamyslený Chumaj prestal piť. „Kto to verí --- somár, a kto vykoná ---
+ešte väčší."
+
+„I ja tak myslím," povie Machuľa.
+
+Chumaj nemal pokoja. Pod zámienkou, že musí ešte kotol plátať, pobral sa
+preč.
+
+Machuľa sa potuteľne usmieval, dal si nalievať ďalej a nabral hodne
+machu. Medzitým, kým viedli rozhovor, sedel za dvermi takmer
+nepozorovaný hosť, žmurkajúc očami, akoby driemal, ale si každé počuté
+slovo pilne za uši zapisoval. Bol to Tadej, starý čižmársky tovariš,
+ktorý za svojho života mal viacej, oveľa viace smoly, ako mu na jeho
+dratvy bolo potrebné. Niet teda divu, že chudák často rozjímal, ako by
+on mohol ľahkým spôsobom k peniazom prísť a sebe bez starosti denne dve
+safalátky a jeden liter piva dopriať. Lutria a zakliate poklady bývali
+jeho nádejou. Načim pripomenúť, že Tadej bol ďaleká rodina Chumajova a
+za malú obsluhu čistenie a v zdravotnom stave udržanie Chumajovej obuvi
+mal u neho slobodné bývanie, spávajúc s Chumajom v jednej izbe, konča
+jeho postele, s hlavou jeden k obloku, druhý ku dverám. Chumaj,
+opustivší krčmu, uberal sa uličkami, bočnými cestami cez Zábavu na
+Cmarovo, na opísané miesto. Pilným vyhýbaním sa ľuďom ušiel zrakom ich
+pozornosti, a tak nikým nezbadaný, trochu zadychčaný, vyvalil sa pod
+významný šíp.
+
+Čakal, čakal na ten modrý plameň, akým zvykli vyhárať zakliate poklady,
+no ale tieto podľa tvrdenia skúsených ľudí pred polnocou zriedka
+vyhárajú. Bola mu dlhá chvíľa, a trebárs
+
+sa to pri vyháraní nebárs svedčí, nemohol sa premôcť. --- Aby konečne
+nezaspal, a vyháračku neprespal, zapálil si cigarku, čo veru tým väčším
+právom mohol urobiť, že grajciarová trafika navlas podobá sa čertovmu
+lajnu. A tak horeznačky ležiac a očakávajúc rozhodnú hodinu, s napnutou
+dušou v tichosti smudil...
+
+Tadej sa ešte pred Chumajovým odchodom vykradol z krčmy.
+
+Pošiel domov a potajmo, nikým nevidený, pojal motyku a lopatu. Na lopatu
+nabral podľa návodu čo najčerstvejšieho lajna. Tak vystrojený, kryjúc a
+krčiac sa popod ploty, ťahal sa na určené miesto tým istým smerom, kade
+sme už Chumaja videli kráčať.
+
+Bolo už pozde v noci, keď sa blížil k osudnému miestu. Potkýnajúc a
+búchajúc sa, kráčal pomaly z kroka na krok, ale motyku a lopatu so
+zvrchovaným nákladom opatroval ako oko. Asi dvadsať krokov od pokladu
+vyzul podľa pravidla, ako Turci pred mošejou#POZ#14;mošeja --- mešita (z
+arab.), mohamedánska modlitebnica#-POZ#, čižmy a bosý, s mačacím
+lezením, blížil sa ku kotlinke.
+
+V meste práve odbila dvanásta hodina, ťahavým hlasom po nočnom šere
+roznášal sa posledný cveng. Ľudia, vskutku! Pod šípkovým kríkom sa
+svieti. Hrúza prebehla mu chrbtom, radosť a strach lomcujú mu kosťami.
+
+Aj Chumajovi polnoční duchovia po mozgoch šarapatili. Zdalo sa mu, že sa
+čosi pri ňom kníše, rozdrapoval oči, ale vyhárať nevidel nič.
+
+„Chváľ každý duch Hospodina! Mám čisté svedomie," tešil sa, potiahol
+cigarku a zívne, ale dokonale zívne...
+
+Práve v tom okamihu Tadej hodí krížom po sebe, vzmuží sa, švihne
+mohutným šmahom lopatou s nakopenou plneninou a prask lajno akurátne a
+pravidelne na to miesto, kde sa bolo zasvietilo, a kde ho veru najmenej
+očakávali. A to sa mu tak zručne, tak chytro podarilo urobiť, že poklad
+ešte nikdy tak náležite nebol poznačený.
+
+Osamelý prvým vydareným pokusom, už chytal motyku. Avšak vtom začul
+strašný, udusený, podzemný hlas, desný chrapot a akási pekelná mamuna
+zvíjala sa po zemi.
+
+Tadeja opustila duchaprítomnosť, srdce zletelo mu hlboko---hlboko za
+sáru. Živého čerta s rožkami majúc pred sebou, nechal tam motyku,
+lopatu, čižmy a odporúčajúc dušu do rúk božích, cválal ako postrelený
+zver domov. Strachom pomätený hodil sa, miesto do svojej, do Chumajovej
+postele, a to nohami na hlavnice a hlavou tam, kde nohy bývajú. Zunovaný
+konečne zaspal.
+
+Nuž a Chumaj? --- Chumaj mal sa v prvom okamihu zadusiť, ale potom, keď
+najväčšiu porciu z hrtanu vykašľal, do špiku predesený, na nepoznanie
+zamazaný, s napuchnutou papuľou letel pred domnelým diablom, ktorý mu
+čertovým lajnom zuby tak ohavne vyšparchal, druhou stranou domov.
+
+Odpoly mŕtvy vpáli do izby a vrútil sa do postele. Neleží pol hodiny,
+súkne ho nohou čosi po prsiach.
+
+„Tadej, Tadej!" skríkne úzkostlive, netrúfajúc sa pohnúť. Pri mne
+voľakto leží!"
+
+Tadej sa precíti. „Aj pri mne."
+
+Posmelený Tadejovou prítomnosťou zavolá Chumaj:
+
+„Vyhoď ho von!"
+
+A tak sa stalo, a Chumaj ležal na zemi.
+
+„Mňa vyhodil, oplan... " , vyvolá Chumaj, a rozpálený chytí toho druhého
+a jedným šmahom vyšmarí ho z postele.
+
+Tadej zase rozčapený jačí: „Strýko, i mňa voľaký boľvan vyhodil!"
+
+Ako by sa táto zaujímavá licitácia vzájomného vyhadzovania bola
+skončila, neznať. Šťastie, že práve z krčmy domov mimoidúci Machuľa,
+šantou upozornený, do chyže vkročí a lampášikom tento komický výjav
+osvietil.
+
+Pohľad na Chumaja bol prenáramne smiešny.
+
+Keď sa mylné vyhadzovanie vyrovnalo, vysvetlili sa i výjavy, prihodivšie
+sa pri striehnutí pokladov.
+
+Chumaja to náramne mrzelo. Tadeja podkúpil diškréciou, aby jazyk držal
+za zubami, že mu ústa zalepil tým čertovským flajstrom, a prosil
+Machulu, aby to nevytrepal. Ale ten mi to predsa vyklebetil, a ja to
+vyklebetím vám, lebo viem, že to ďalej nepodáte.
+
+# Dávid Šťubrik
+
+#POEZIA#
+
+#I#Motto:#-I# Môj otec nebohý
+
+mal slamenie nohy,
+
+a hlavu dubovú,
+
+chvála pánu bohu...
+
+#I#Kollár, Národnie spievanky#-I#
+
+#-POEZIA#
+
+Nie zriedka nachodia sa medzi lekármi jednotlivci, ktorí v požívaní
+rozličných nápojov sebe zvereným chorým nie za nasledovaniahodný, lež
+radšej za odstrašujúci príklad slúžia. --- Či to robia z častého
+ponúkania, teda danej príležitosti a tak postupujúceho zvyku, či pre
+odpudenie nákazlivých nemocí, a či s cieľom dosiahnuť vyššiu lekársku
+dokonalosť, cestou rozdráždených, vínom premoknutých mozgov, a tak
+pijavicami sa stávajú --- toho psychologickú príčinu skúmať nejdeme.
+
+Podivné však pritom je to, že si obecenstvo s akousi presvedčenosťou a
+šúchajúc si dlane so zadosťučinením, báječné veci rozpráva, akoby tí a
+takí lekári, keď práve najväčšmi pod forgovom stoja, tie najťažšie kúry
+vykonávali, ba recepty „ab invisis"#POZ#15;(lat.) Dosl. bez videnia, bez
+prezretia pacientov#-POZ# s tým najlepším výsledkom predpisovali.
+
+Obecenstvo je už raz také; ono vše baží za drastickým, neobyčajným.
+Povšedné, bežné ho nezaujíma. A tak za neobyčajným sa ženúc, zázraky
+samo si nabásni, zveličí a uverí. Zrejmým toho príkladom sú šarlatáni,
+takrečení zázrační lekári ľudu. Kým sa ľud spamätá a od nich odvráti,
+oni s plným vačkom pokojne hľadia na zapadajúcu hviezdu svojej slávy.
+
+Dávid Šťubrik, úradný ránhojič v meste Tetrovej, bol tiež jeden z tých,
+čo požíval veľké množstvo hroznového čaju, šomrajúc pritom ustavične na
+svojich pacientov, že si „zúziky" len nesmiernym slopaním pokazili.
+
+Divnou on bol chlapinou. Keď sa vyvolaný do okolitých obcí k nemocnému
+vyredikal, a sotvaže do obce vstúpil, už traja---štyria chlapci, držiac
+si ľavou rukou gatky, pravou klobúk, trtúlia ku zvonici. „Kamže ste sa
+rozohnali, šarvanci?" pýta sa sused. „Pán dochtor idú, ideme umieráčikom
+vyzváňať!" znela odpoveď zadychčaných chlapcov.
+
+Raz ho viezli na zvlačiach ku chorému. Náš doktor vyššieho barbierstva,
+dokonale ocenganý, zadriemkal. Paholok ženie kone; vletí do dvora so
+saňami, ale zadnej čiastky zvlačí ani ránhojiča nebolo. Ten sa stratil.
+Tašli ho hľadať a našli ho skutočne naprostred cesty, v bunde
+okrúteného, cele spokojne búvať.
+
+Chlap on bol od hlavy až po päty dôkladný a ako on sám o sebe
+hovorieval, svojej veci cele istý. Sedel raz s niektorými pánmi z mokrej
+štvrti v obľúbenej miestnosti „Pod korunou" pri sklenici a dokazoval
+práve dôležitosť v lekárstve zaznaného podplamenníka a žltej spišskej
+borovičky, keď sa surmou dvere dokorán rozdrapia a hajdúch, vrútivší sa
+dnu, vletel až do lona samého prednášajúceho Šťubrika.
+
+No, ale naisto, nebol to žart: „Unížene a pokorne všetkým tu
+zhromaždeným pánom oznámiť sa opovažujem," blboce zadychčaný hajdúch,
+„že sa dnes ráno pochovaná hrnčiarska majstrová a vdova pani Barbora
+Facková v hrobe prebudila, tamže strašne mátoží, a pýta sa ---
+prepytujem pekne --- von!"
+
+Rozpálené tváre okolosediacich machom zbledli. Pánu
+kapitánovi#POZ#16;pánu kapitánovi --- náčelníkovi mestskej bezpečnostnej
+služby#-POZ# zuby o pohár sekali ako holender v papierni. Všetko stŕplo.
+Na ulici lomoz behajúceho ľudu; spoločnosť sa chystala do skoku, len
+ránhojič stál nepohnutý ako tá zápoľa v búrnom mori.
+
+Vstane hore, mrdne gambou, vydvihne obočie, pokiaľ mu len „Corrugator
+supercilii" (mršťavec obrvný) vystačil, pravú ruku vstrčí do náprsníka a
+takto, múdrou tvárou opatrený, hľadí nepodvratne na žltý bod na povale,
+z plucerového piva#POZ#17;Z plucerového piva --- z veľkého hlineného
+džbána na pivo, tekvicovitej formy#-POZ# pošlý, a sebavedomým hlasom
+nasledujúce slová prednesie:
+
+„Áno, istý som svojej veci, že klebetný jazyk Barbory Fackovej ---
+pánboh jej daj večnú slávu --- ešte päť hodín po smrti sa zvíjal, ale že
+by sa tá bola prebudila, hoc non stat#POZ#18;(lat.) To nemôže
+byť.#-POZ#. Uspokojte sa, páni, uspokojte národ, lebo tú som ja liečil;
+za to vám dobre stojím, tá sa do súdneho dňa už viacej nezdvihne!"
+
+Prestrašený pán richtár váži hlavou, že sa predsa také príklady
+postávali.
+
+„Pst!" položí mu prst na ústa Šťubrik: „Amen! Dixi!"
+
+Naľakaná rodina, kým sa výrok z trojnohy vyniesol#POZ#19;kým sa výrok z
+trojnohy vyniesol --- Šťubrik bol v tomto prípade takou najvyššou a
+„neomylnou" inštanciou, akou bývala v starogréckych Delfách veštkyňa
+Pýtia, sedávajúca na trojnožke#-POZ#, mŕtvolu predsa vykopala a našla ju
+ležať pekne hore končistým nosom, na očiach po šajnovom
+grajciari#POZ#20;po šajnovom grajciari --- grajciari z papierovej meny,
+menej hodnotnom, než bol grajciar zo striebornej meny#-POZ#, ruky
+pátrikami (ružencom) zaviazané, bez najmenšieho pomyknutia. Ani jazyk sa
+jej vraj už netriasol.
+
+Ale ten krik bez príčiny nebol... Počuli v hrobe skutočne šramot, a keď
+vrchnák truhly otvorili, vysadil z nej ohromný kocúr. Ľud bol
+preľaknutý; ale keď pri nohách mŕtvej našli polonahryznutý oštiepok, a
+čierneho kocúra siroty reklamovali, hneď sa vec vysvetlila. A to takto:
+stolársky majster Lepko, prácou zamestnaný, hodil nevdojak do truhly so
+stružlinami i hodný kus oštiepka, ostatok raňajok. Pred samým pohrebom
+Murko vtiahol sa pod plachtu, no vtom ho prekvapili, zaklincovali,
+vyniesli a pochovali. Keď už konečne videl, že to na žart nejde a dych
+mu vychodil, začal na konto nebožkej surmovať, kým podivným spôsobom z
+nebezpečenstva živého pochovania nevyviazol.
+
+Ale ľud bezpečnosť, dôkladnosť a neklamlivosť pána Šťubrika nevedel dosť
+naspomínať a nachváliť.
+
+Mimo týchto mal však pán Šťubrik ešte i inú, a veru peknú vlastnosť, a
+to osemnásťročnú dcéru, pri krste obdarenú lekárskym menom Leokádia.
+Územčistá černuška so žeravým okom rozpálila najhlbšie hlbiny srdca
+švárneho a veselého šuhaja, mestského notára Jozefa Furtína. Jeho
+nenútené obcovanie pri úhľadnom líci, vtip pri dobrosrdečnosti tak
+mohutne pôsobili na srdiečko Leokádie, že sa --- povieme to jednoducho,
+pretože román nepíšeme --- že sa jeden do druhého až po vyše hrdla, ak
+nie ďalej, buchli.
+
+Ani by ich šťastiu nič v ceste nebolo stálo, keby prúd poetickej žily
+--- ktorý nám Slovákom, najmä keď je satirou pretiahnutý, nesie nie
+priam príjemné ovocie --- nebol jeho nebo lásky a blaženstva zakalil.
+
+Čert --- ani nie dobré --- pošepol Furtínovi do nešťastného
+Černokňažníka#POZ#21;Černokňažník --- slovenský humoristický časopis
+(218621---64). Zechenter bol jeho plodným prispievateľom#-POZ#, ktorého
+pilnejšie čítali tí, čo ho nedržali, než tí, čo ho predplácali, pošepol
+mu, reku, čert doňho napísať veršíky o dákomsi doktorovi Lesebuchovi.
+Predmet básne bol, ako doktor Lesebuch jednému murárovi oko operuje. Mal
+mu z oka vybrať kus vpadnutej tehly, ale on mu vybral oko, a tehla mu
+ostala tamdnu.
+
+Pán Dávid Šťubrik, mnoho si zakladajúc na svojom chýre, dobrom mene,
+renomé, čiže reputácii, ako sme to už videli pri domnelom zmŕtvychvstaní
+Barbory Fackovej, originálny básnický výtvor --- a nie bez príčiny ---
+na seba vzťahoval a nemilo dojatý a urazený Jožkovi hneď a hneď dom a
+všetko obcovanie so svojou Leokádiou zakázal.
+
+A tak po smiechu nastal plač, nastalo kvílenie.
+
+Pravda je pravda, láska má tenký pysk, prenikne ako voda i tou najtenšou
+škárkou. Ale raz darmo, všetko fľochanie bolo len potajme, keď nemali
+privolenie obrazeného, neústupného otca, a tak sa len sem---tam motali
+ako zmokové kurčatá s pípeťom na jazyku a s ovisnutým kochlíkom.
+
+Leokádia prestala spievať, Furtín prestal veršíky písať. Ach, ktože by,
+útlym srdcom opatrený, nad nešťastným osudom našich zaľúbencov
+nezahorekoval!
+
+No, ale „čo sa vlečie, neutečie".
+
+Pred pár sto rokmi, keď ešte ľúty Turek nad čiernym i bielym Uhorskom
+vládol#POZ#22;Turek nad čiernym i bielym Uhorskom vládol --- ide o roky
+tureckej okupácie (225422-22699). Viliam Pauliny - Tóth a viacerí naši
+buditelia rozlišovali starú Panóniu (Zadunajsko), Biele Uhorsko
+(Slovensko) a Čierne Uhorsko (Sedmohradsko). Podobne, hoci s
+humoristickým nádychom, hovorí aj Zechenter o „bielom" a „čiernom"
+Uhorsku.#-POZ#, napadli jeho divé tlupy i mesto Tetrovú. Ono síce mužne,
+ale bez prospechu odporovalo. Nepriateľské vojsko prepadlo mesto, pálilo
+a plienilo všetko napospol. Ale nie dosť na tom, lež zlapalo i richtára
+s dvanástimi radnými a na náprotivnom kopci, Pečenice rečenom, na ražne
+napichlo, upieklo a do fundamentu zjedlo.
+
+Smutný tento príbeh obyvatelia pobožnej mysle každoročne na tom istom
+mieste majálesom oslavovali, pri ktorej príležitosti na večitú pamiatku
+jedného junca a dvanásť barancov piekli a strovili.
+
+Cinadrata bum---bum---bum! vyhrávali mestskí trubači, popravde turnermi
+nazvaní, po rínku, za nimi ujúkajúca mlaď s papierovými zástavami, potom
+mestská starešina, čierne s bielym pohlavím, ďalej vozy so žertvami
+určenými na ražeň, s rozličnými, zo spolkov miernosti vypuškovanými
+nápojmi, konečne sa tmolila všaková nepovolaná čvarga a odfukujúce
+dievky s košmi naplnenými tvarožníkmi, bosmanmi#POZ#23;vianočkami#-POZ#,
+pečeným hydom a tomu podobným rárožím. Tento ostatný tu pripomenutý boží
+darček bol obetovaný milosťpaniam ex privata diligentia#POZ#24;(lat.) zo
+súkromnej usilovnosti#-POZ#.
+
+No, ale poďme ďalej. Po jednohodinovej prechádzke došiel zástup cieľa;
+totiž na miesto k majálesom úplne príhodné. Nechýbal tieňavý les,
+nechýbala mäkkou trávičkou porastená rovinka, aby sa vyhovelo k zemi sa
+kloniacemu majálesníkovi a uchránili sa jeho údy pred úderom, a aby sa
+doprialo tajné miesto zaľúbeným šeptom.
+
+Chlpy dymu sa valia, rázsochy na ražne do zeme bijú, sudy chvojinou
+obkladajú; všetko sa rozkladá a vykladá, mažiare revú atď. Páni bez
+kabátov, ženské v opleckách, tváre veselé. Zábava v najlepšom rozmare a
+behu, jedlo sa, pilo, spievalo a tancovalo sa. Prípitky sa sypali ako
+dážď --- nad všetkých vynikal pán Šťubrik --- vtip na vtip, akoby ich
+bol z rukáva vytriasal. Páni padali od smiechu sťaby hniličky, panie
+dostávali kŕče; ako Šťubrik len ústa otvoril, už hrmeli mažiare ani pri
+obľahnutí Sevastopoľu#POZ#25;ani pri obľahnutí Sevastopoľu --- v
+krymskej vojne (25853 --- 56), ktorú viedli proti Rusku Turecko a jeho
+spojenci Anglicko, Francúzsko a Sardínia. Sevastopoľ, mesto a vojenský
+prístav na Kryme, dobyli spojenci len po 349-dňovom namáhavom
+obliehaní.#-POZ#.
+
+Furtín a Leokádia, chudiatka --- pánboh im daj časnej radosti ---
+nepriam veselí boli, a keď sa i zasmiali, nuž to bol len smiech hrnčiara
+nad črepmi svojich pobitých a --- notabene --- nepredaných hrncov. Ach,
+nebožiatka, len cez sklo med lízali.
+
+Ale starý pán sa cítil kapitálne. Po mnohých pripitých prípitkoch,
+rozopnúc si gombíky prekážajúceho náprsníka, s červeným nosom ako v
+najkrajšom kvete „kaktus speciosus", opretý o vyprázdnený kuľač vyvalí
+sa na zem a pozerá na bujarú, samopašnú, ozávod do cieľa strieľajúcu
+chasu. Jeho idylické položenie pretrhol jajkavý krik. Pani Feruľa,
+učiteľova pani, zalamujúc rukami a nohami pribehla, že jej synček je
+preč, že ho ústami, nosom, očami i pravým uchom --- a čo ja viem, kade
+ešte --- krv zaliala. Pomoc a pomoc! --- Pán Šťubrik, tu vám povolanie
+kynie! Vyšvihol sa na nohy, ale to nešlo tak ľahko, ako sa to snáď tu
+píše; najprv si musel solídnu bázu nájsť. Pri tom klátení šuchol hlavou
+o haluz, klobúk mu sfrkol na zem a kotúľal sa k nohám mladého Figluša,
+kupca s miešaným tovarom, oddaného priateľa Furtínovho. Figluš sa zohne
+a chytrý ako strela postaví si Šťubrikov klobúk na svoju, svoj však,
+Šťubrikovmu veľmi podobný širák, kým sa ten obrátil a ani to najmenšie
+nepobadal --- na jeho hlavu. Šťubrik, nebadajúc cudzí širák na hlave,
+poberal sa cikom---cakom na miesto pôsobenia. O krátku chvíľku, ovenčený
+novým vencom slávy, navrátil sa nazad; krvotok bol utíšený, chlapča
+spasené!
+
+Ale slepá Dora od Brngáčov prisahala sa pred dievkami, že ten chlapec
+veľa čučoriedok (jafury) požral, na to vína popil, a potom sa vraj
+podávil. Že to, a nič inšie nebolo jeho hádzanie krvou. Nuž ale, čo nás
+tam po tom; svet závidel slávu pánu Šťubrikovi, a preto krv na
+čučoriedky obracal.
+
+Navrátivší sa starý pán zaujal svoje staré miesto, skade pozoroval
+pohodlne a s mnohými vtipkami streľbu šuhajov.
+
+„Pán Hákybáky," obráti sa k mestskému fiškálovi, teraz so zmaďarčeným,
+predtým pod nemeckým menom Hackenbach známemu, „tá naša mládež z roka na
+rok väčšmi mľandravie. Ale to ani ináč byť nemôže. Či tí poslúchajú
+skúseného lekára? Áno, len vše slopať a slopať, telo prebrané trúnkom,
+nie div potom, keď sa im ruky trasú. --- Hľa, zase šiel jeden výstrel do
+vetra, a to tuto pánu Figlušovi. Ach, bola že by z vás za krajinská
+obrana!"
+
+„Pán ránhojič, puška je nie banka, ani síkačka," odvetí mimostojaci
+Figluš.
+
+„Pravdaže, pán Figluš, ale ani ríf. Kto má pevnú ruku k ránhojičským
+nástrojom, bude mať pevnú i k puške."
+
+„Tak?" zasmeje sa Figluš. „To by naša mestská baba mala byť prvším
+strelcom v okolí."
+
+„No vtipkujte si len. Ale vás uisťujem, že to, čo už mojou rukou padlo,
+nezjedli by ste amicenko, za deväť rokov," mrdne Šťubrik.
+
+„Ach, dopustím to, dopustím, lebo som nie kanibalom. To by bol musel i
+moju vlastnú matku a otca zjesť."
+
+„Ale urobte tej hádke koniec, pán ránhojič, a zahanbite týchto
+ohováračov," doložil fiškál.
+
+„No, dobre zahanbite!" A s tým mu tlačí Figluš pušku do ruky.
+
+„Babrák!"
+
+„Babrák sem, babrák tam. Strieľajte, ak ste chlap a svojej veci istý.
+Keď trafíte žilu seknúť, snáď uhádnete i môj klobúk. No?"
+
+K veselej živej rozopre sa vždy väčšie poslucháčstvo zhromažďovalo.
+
+„Keď som ja do školy chodil, vtedy ešte volala kura: ,Kot---kodák, štyri
+vajcia za turák.\' Vy sa so mnou, holobriadku, so mnou, čo mám pečať ako
+lopár na diplome, chcete dražiť? --- Sem ten širák, naučím vás móres!
+Ale nič zadarmo; o čo stávka, keď vám klobúk na strapy rozprášim, ha?"
+hodí hrdo Šťubrik.
+
+„O čo stávka, hovoríte? --- Keď vy môj vlastný klobúk na tridsať krokov
+zajačím brokom, akým je táto puška nabitá, trafíte, dám vám tú, tamto
+oproti v pasekách na Klepuši ležiacu lúku. Znáte dobre, že som ju len
+toť nedávno írečitým právom za stopäťdesiat zlatých kúpil; lúka to
+znamenitá, má seno ako rozmarín, nesmrdí ani haďacinou, ani čertom, ani
+diablom."
+
+„Ukážte pulz, Figluško, či sa nešaliete."
+
+„Nie, --- a uisťujem vás na svoju česť, že to, čo som povedal, stojí. Ba
+nech skameniem, chcem a žiadam, aby sa sadzba hneď písomne potvrdila. Z
+vašej stránky naproti tomu žiadam, aby ste v tomto prípade, že by ste
+netrafili môj vlastný klobúk, popustili ruku vašej dcérky Leokádie môjmu
+priateľovi Furtínovi."
+
+Oj, to pichlo do živého Šťubrika. „Oj, oj, či vás inšie neomína, mladý
+pán?" Nastalo utíšenie. Na to sa predsa obmýšľal pristať. Na dotieranie
+rozjarených druhov, na cti pošteklený, istý svojej veci, presvedčený o
+istom víťazstve, že klobúk, majúci dva a po stopy v priemere, trafí na
+tridsať krokov --- dal sa naviesť na kontrakt.
+
+Fiškál Hákybáky --- ad officia semper paratus,
+paratissimus#POZ#26;(lat.) Na povinnosti vždy pripravený,
+najpripravenejší.#-POZ# --- vytiahol z kaftana pero, papier, černidlo,
+vylepil si striebrom obrúbené okuliare na nos a naškrabal v okamihnutí
+zmluvu, dnes zo starej obyčaje --- z tureckých čias ---
+hatihumajum#POZ#27;hatihumajum --- vlastne Chatt-i Humájún (arab. ---
+tur.), sultánov kabinetný výnos (cisárske písmo), ktorý musel byť
+vykonaný bez otáľania#-POZ# nazvanú, všetkými klauzulami,
+kautelami#POZ#28;(lat.) Doložkami, právnymi výhradami z
+opatrnosti.#-POZ#, paragrafmi vyfintenú, opatrenú podpismi kontrahentov
+i svedkov. Zahol potom jeden roh hárku a vlepil pečať, v nedostatku
+vosku a oblátky navlaženú v podstrčenej tvarožnej štrúdli.
+
+Teraz dosiahol rozmar vysokého stupňa a po prečítaní kontraktu, keď sa
+prikročilo k činu, bola napnutosť a zvedavosť veľká.
+
+Ale tí, ktorých sa vec najviac týkala, netušiac vo svojej nevinnosti, že
+ide o ich kožu, použijúc dobrú príležitosť, milkovali sa pri ohni.
+Leokádia miešala zásmažku do kapusty, on fúkal pod rajnicu. Priemyselná
+láska všade si chrámy stavia.
+
+Náš hrdina s puškou prehodenou cez plece, obkľúčený poskakujúcim húfom,
+kráčal s úsmechom na určené miesto.
+
+Na pažitnej rovine zastanúc, odmerali svedomitých tridsať krokov a
+klobúk z Figlušovej hlavy zavesili červenou stužkou na bukovú haluz.
+
+Dávid Šťubrik, nabíjavši pušku, pustil plnú hrsť zajačieho broku do
+cievy. „Ale ti ho postrihám," zamrmle si pod nos. Skúma potom bubník a
+presvedčiac sa, že je dobre podsypaný, založí kapseľku, pritisne pušku k
+lícu a pokojne mieri. Pokoj, ani dychu nečuť, len v povetrí spieva
+škovran „Nesiem bohu sviecu" a na tŕpke pstŕňa „Valašťan, valašťan
+strýc". Kostolník, bývalý čipkár, čo kedysi veľa po Tureckej tovar
+roznášal, velil po turecky: „Jeden, dva, tri; biri! iči! üč!" --- Slnce,
+prosto očú Sťubrikovi stojace, pošteklí mu nosové čuvy, a on mohutne
+kýchne. Chlapi v domnení, že to už výstrel padol, jednohlasne s plným
+gágorom vykríkli: „Sláva!"
+
+Šťubrik stojí ako Alexander Veľký.
+
+Figluš skočí, zosníme prestrelený klobúk a nesie ho v sprievode celého
+húfu pred strelca, opretého o pušku. Odovzdávajúc ho, veľmi sa smeje. I
+tento včuľ zmení tvár, chytí sa za brucho a tak sa chichoce, akoby sa už
+z kože mal vytriasť.
+
+Jeden na druhého prstom ukazuje.
+
+„No, domine Figluš, klobúk fuč, lúka fuč."
+
+„Domine Šťubrik, klobúk fuč, lúka nie fuč."
+
+„Ľúto mi je vás, čeľadníček, ale ste sami tak chceli."
+
+„No, už ako bude, tak bude, poručeno pánu bohu, a to druhé na kostol.
+Nech nám pán fiškál láskavé hatihumajum prečítať ráči, a my stránky sa
+mu podrobiť musíme."
+
+„Tak je, pravdaže," doloží ránhojič.
+
+Hákybáky číta zmluvu; ako príde na odstavec „...keď pán Dávid Šťubrik,
+mestský ránhojič, vlastný klobúk pána Figluša, kupca s miešaným tovarom,
+na tridsať krokov z pušky trafí..." povie Šťubrik:
+
+„No, čeľadník, či je tak?"
+
+„Áno, tak je, môj vlastný klobúk keď trafíte. Ale ráčte sem kúsok
+nakuknúť a presvedčiť sa, či je to môj klobúk." Strčí mu ho pod nos a
+tam na remennej podšívke kartička, opatrená vlastnoručným písmom
+majiteľa Dávida Šťubrika --- bola prilepená.
+
+„Nuž, kých jazerných okovaných čertov že je toto?!" vyvalí oči, strhne z
+hlavy klobúk a vskutku tam vlastnoručne písané meno Figlušovo.
+
+„Hrmen bohov, nuž akože tento hríb na moje šediny prišiel? Či nám vari
+zlý duch tekvice popremieňal. --- Nie, toto je klam, lož, šudierstvo,
+oplanstvo; ja neprivolím k ničomu, lebo ste ma previedli. Dixi!" a udrel
+päsťou do povetria. Prihováranie, napomínanie neosožilo, Šťubrik sa stal
+slepým a hluchým ako slimák.
+
+Hákybáky, prebitý advokát, ktorý dôkladne i juridickú anatómiu rozumel,
+to jest ľuďom deviatu kožu sťahovať, rozkročí sa, hlavu skloní k zemi a
+asi takto prehovorí:
+
+„Nakoľko ja bystroumného, svojej veci vše istého, mesta nášho slávneho
+ránhojiča, pána Dávida Šťubrika znám, presvedčený som, že on jazvečím
+svojím okom fígeľ proti nemu namierený ihneď bol prenikol, ale nechtiac
+pokaziť žart, nedal na sebe poznať, že o všetkom poučený je, použil
+spolu príležitosť na ľahký spôsob rozopru medzi ním a Furtínom vyrovnať
+a šťastie dcéry Leokádie napomôcť. Slovom, stal sa samochtiac obeťou
+malého žartu."
+
+„To všetko tak môže byť, nedbám. Ale hatihumajum na platnosti nič
+netratí a ja nástojím na jeho uskutočnení," povie Figluš.
+
+Starý pán, vidiac nemožnosť vykĺznutia, udrel cestou Hákybákym
+narazenou. Aby bez posmechu z bahna vyviazol, zahryzol do kyslého
+jablka. Prisvedčil teda fiškálovi, že sa on veru schválne nevedomým
+staval. Ináč toho človeka nieto, čo by jeho prekabátil, bo predsa celý
+svet zná, že je on svojej veci istý.
+
+„No, teda sem ruku, nechže bude, keď musí byť," pľaskol do Figlušovej
+pravice.
+
+Ledva to z úst vypustil, už ženy vyvolávali: „Svadba, bude svadba!" Ale
+ledva to z úst vypustili, už otcovi dobruškavému, milému, drahému,
+utešenému a ešte bohvie akému dcéra odpredku a zaťko od chrbta okolo
+krku bambáľali. Bola mu hlava ako v husliech.
+
+„Keď ste vy tak veľkodušne popustili môjmu priateľovi dcéru, ja jej do
+vena popúšťam a darúvam tú lúku."
+
+Šťubrik si horko---ťažko po namáhaní, aby záškrtu vyhol, dvoch
+zaľúbencov z krku striasol a pohnutý podal jednu ruku Furtínovi, druhú
+Figlušovi.
+
+„No, majteže sa už teda spánombohom, ale to vám poviem, pán syn, žeby
+ste toto dakde v Černokňažníku neopísali."
+
+Pani richtárka, osoba vysokého vzrastu, dopočujúc, čo sa deje, beží,
+pokĺzne sa na rajskom jabĺčku a padne dolu hlavou do omáčky zo
+sviečkovice. Ale ani táto pomáda jej neprekážala byť svedkom veselého
+výjavu.
+
+Dva veľké, steblami poviazané klobúky museli nadneska zastávať miesto
+povestného rozstrieľaného klobúka.
+
+Ale i Šťubrik ta sa pobral, kam tí, ktorých on ta posielal. Leží,
+chudáčisko, pri nohách Barbory Fackovej. Od tých čias zvon „mortuos
+plango"#POZ#29;(lat.) Mŕtvych oplakávam (časť z nápisu na starých
+zvonoch)#-POZ# menej sa ozýva a štóla stenkla. A na hrobe Šťubrika
+rastie pilnou a milou rukou zasadená obrovská mačia mádra.
+
+# Stonoha v kúpeľoch
+
+Dve míle cesty od mesta Bryndzovej#POZ#30;od mesta Bryndzovej --- podľa
+ďalšieho autorovho textu vidieť, že sa tu myslí Brezno, kde dorábali
+výbornú bryndzu#-POZ# vzdialená, v dolinke učupená leží chatrná obec,
+menom Tichá.
+
+Nemal by som povedať, že leží, ale že sedí, lebo jedna jej čiastka hore
+kopcom, druhá rovinkou sa prestiera --- teda viac sedí ako leží.
+Zvláštnosťami sa nelíši od druhých obcí. Má dosť biedy, pritom zdravý
+vzduch a lačné žalúdky. Dobre sa tu troví, keď jesto čo pod zuby. Počet
+obyvateľov obnáša vyše šesťsto duší, z tých sotva šiesti železnicu
+videli. Keď si v obci, tak sa cítiš, akoby si o päťsto rokov skorej žil.
+Všetko staré, pôvodné. No toto je menšieho významu, k veci nepatriaca
+charakteristika.
+
+Vyznačuje sa predsa táto i menom i skutkom tichá obec voľačím, čo jej
+mnohý závidieť môže a čo sa jej náhodou, bez vlastnej zásluhy, štedrou,
+dobročinnou prírodou ako prídavok za podiel dostalo. Tento štedrý dar je
+kyslá voda, od štyroch do piatich stupňov chladná, ako diamant
+priezračná, perlistá a toľkú hojnosť uhlíka v sebe obsahuje, že pohár z
+nej jedným dúškom vypitý, na jazyku, v hrdle príjemné pichanie pôsobí a
+znamenite telo občerstvuje. V žalúdku vytvorený uhlík prúdi z vyglgnutej
+vody nosom a ústami, oči zabehnú slzami. Rezkosť, čerstvosť tejto vody
+nemá páru.
+
+Tento drahocenný poklad blboce asi štvrť hodiny cesty nad obcou, spod
+bielej studenej žabice pod strmými žulovými hoľami.
+
+Malá koliba, primitívny kúpeľ, značí to miesto, kde zdroj povstáva a kde
+sa v troch vaniach zohrieva. Žltý pás železnej usadliny ťahá sa trávou
+do potoka. Tento pod kúpeľom hučí a skáče, nekalený dolinou, zo skaly na
+skalu --- opravdivý divoch. Naproti tomu šumia dumné smreky, kníšu
+hlavami za durným šuhajcom. Lesom je ticho, len na okolí ďafkajúcimi
+krivonosmi odrážané šúľky, smutne ťahavé hlásenie ďatla a rozhovor detí
+roznášajúcich chodníkom kyslú vodu --- inšie nepočuješ.
+
+Rezká príroda!
+
+Keby tento chutný čerstvý tok dakde pri veľkom meste prýštil, koľko
+hluku a aké podniky by on vyvolal! Ale dobre, nech sa udržuje vo svojej
+pôvodine. Ak vpadne raz do víru špekulácie, koniec nevinným nekaleným
+krásam prírody! Akonáhle kultúra svojím hladkým jazykom začína lízať
+pestrú prírodu, zotrie sa jej jemný nádych a stane sa bledou, pozbavená
+je svojej pôvodnej nenahraditeľnej ozdoby i podobá sa motýľkovi, ktorému
+nezbedný chlapec zlatý prášok z krídel zotrel.
+
+Zvonček malého kostolíka, pýcha to obyvateľstva, práve dokončil večernú
+nôtu, tieň vrchov ďaleko sa rozťahoval, až konečne vo všeobecnom šere
+zanikol. Z hôľ došlý statok, poťahujúc z rebriny trávu, v stajniach
+pocengával a strážni psi sa ozývali.
+
+Pod časom tohoto krásneho idylického obrazu dedinského večera mladý
+Stonoha, postavený na úradnej ceste, zápach voňavých kvetín plnými
+pľúcami dýchajúc, s veselou tvárou o palici vpálil do obce.
+
+Pod vysokým krížom vprostred obce spievali dievky, v hŕbku zbité,
+pobožné piesne, zvedavým zrakom pozerajúc a krútiac hlavou za pútnikom.
+
+Pútnik zastavil sa u lesného.
+
+Lesný zahorúca oznámil príchodziemu novinu, že tam hore na Kyslej päť
+pani bytuje, a to pani Netto, Brutto, Šporka, Tára a Valúta.
+
+Boli to krásavice od osemnástich do štyriadvadsiatich rokov staré. Čo,
+staré? Mladé; veď všetky dohromady nepočítali vyše sto rokov.
+Neočakávaná zvesť nemálo potešila Stonohu, v dobrom rozmare vybral sa
+zaraz do sídelného miesta tatranských víl.
+
+Bolo by mu už bývalo trochu mračno, ale mesiac vykrúcal sa práve nad
+suchármi vysokých smrekov tam na tmavom grúni, nakúkajúc na chodník,
+posypaný bielymi žabicami. Za jarkom tratil sa chodník v močarine medzi
+jelšami, pretvorený na pohodlné lavice. Tu mesiac nemal prístupu; aby
+teda Stonoha nebol svetlonosom do bahna vtiahnutý, musel svoj náhly krok
+akomak stíšiť. Sem---tam svietilo sa hnilé drevo, kde to nie, iskrili sa
+jemné bobáky svätojánskych lienok, utiahnuté vo vlhkých svojich
+budunkoch. Chudiatka, pomáhali svojimi lampášikmi službu konať
+mesiačikovi.
+
+Stonoha kráča pozorne ďalej.
+
+Pred ním pohybuje, rastie a kráti sa červené svetlo, a to svetlo ---
+aha, tu je kúpeľ.
+
+Otvoreninou, osvetlenými haluzami stromov obrúbenou, videl pred kúpeľným
+domčekom kuchyňu.
+
+Do brehu vtisnutá kuchyňa stála na štyroch stĺpoch, spredku celkom
+otvorená. Na ohnisku blčí vatra, okolo vatry po laviciach prevaľujú sa v
+úplnej nedbalosti švárne panie, štebotajúc a pospevujúc si.
+
+Stonoha, druhý Akteon, odchráňoval zo závadia ratoliestky, kochajúc sa
+vo veselej skupenine.
+
+„Bol by to očistec!" pomyslel si.
+
+Stúpi niekoľko krokov napred, načúvajúc s rukami založenými nakríž
+veselé piesne a pasúc oči na neobyčajnom, malebnom obraze, ktorý sa na
+tomto mieste zjavoval.
+
+Stál Stonoha, stál opretý o valašku a pustil oči voľne --- na pašu. Bol
+by stál a vari na soľný stĺp sa premenil --- ale jedna, tá najkrajšia z
+krásnych, prehnúc sa ako had, čo Eve jablko kredencoval, začne si pri
+ohni z hlavy zosňatý velikánsky šiňon#POZ#31;(franc.) Vrkoč (z umelých
+vlasov)#-POZ# prezerať a naprávať.
+
+Stonoha zosníme pušku, prikradne sa k samej kuchyni a vystreliac skočí
+medzi na smrť prestrašené panie so slovami: „Daj bohu dušu a mne
+pyšťok!"
+
+Zvrešťali jednohlasne, vonkoncom neharmonickým hlasom.
+
+Nešťastný šiňon vypadol preľaknutej víle do ohňa, zoškvrkol, a kým sa
+spamätala, neostalo po ňom nič len smradľavý, nepoetický dym.
+
+No ale sa i nášmu „Jánošíkovi" zakúrilo a zablýskalo! Taká hrmavica
+spŕchla naň, že by sa v tom okamihnutí radšej bol videl tam hore na
+„Plieškach", kade mesiac po drzých zápoliach kráčal, ako tu v tom peknom
+Olympe. Trpezlivo počúval so sklopenými očami cifrovanú kázeň, a pretože
+všetko má svoj amen, úfal sa i tu, i prišlo --- no dosť pozde ---
+vyžiadané dokončenie; i umorený, vyzváraný, pani Táriným jazykom
+vypraný, sadol si pokorne do kútika.
+
+Intráda#POZ#32;(lat.) Začiatok, prvé vystúpenie#-POZ# to bola nebárs a
+beseda viazla ako bôty v hlbokom bahne tam dolu pri chodníku.
+
+Pani Tára uškodená na šiňone prvá začala veselšie štebotať. Podajúc
+Stonohovi bielu ním zdvorilé bozkanú ruku, začne:
+
+„Drahý pán Stonoha, neočakávaný váš príchod náramne nás teší, a tak, ak
+sa vás smiem pýtať, či ste nie lačný?"
+
+„Ó, vy potešenie lačných a žíznivých, akonáhle na vás pozriem, hneď mi
+apetít prejde. Jeden váš pohľad naplní mi srdce, a..."
+
+Tára sa zasmeje a skočí Stonohovi do reči:
+
+„A keď i dopustím, že vám pohľad môj srdce naplní, no na váš žalúdok ten
+vplyv mať nebude."
+
+„Nuž teda, keď ma tak násilne nútite na pole prózy, ustupujem vám a
+prosím vás aj o pokrm telesný."
+
+„Ach, mnohonásobne nám vítaný, pán Stonoha, so žiaľnym srdcom mi vyznať
+prichodí, že veru vašim telesným túžbam vyhovieť nemôžeme. Ráčte tamto
+svoj zrak obrátiť a uhliadnete vylízané taniere. Márne by boli vaše
+túžby a márne naše námahy. Miesto toho môžeme slúžiť dobrým nápojom?"
+
+„Víla kúpeľná! Ráčite nemilosrdne dráždiť moje rozjarené city..."
+
+„Rieknite --- a vyplní sa vám vôľa," ozve sa Brutto.
+
+„Nuž, keď ináč nie, prosím teda o ponúknutý mi nápoj."
+
+Švárna Siréna vzdialila sa ľahkým krokom do chyžky a pripravovala tam v
+spoločnosti kúpeľného sluhu posilňujúci nápoj.
+
+Za ten čas pokračovalo sa okolo osvieteného krbu vo vrave a striedavých
+žartoch.
+
+I netrvalo dlho a vrátila sa s veselou tvárou pani Tára nazad. Sluha za
+ňou nesie na dlapke v krásnom maľovanom pohári kúriaci sa nápoj. Stonoha
+hodí zrakom po pohári a po tvári sluhovej, i zdalo sa mu, akoby tento
+ústne kútiky rozťahoval a démonickým škerením tri ostatné svoje zuby
+vycieral.
+
+„Aké mala, také dala. Ráčte si popriať, pán Stonoha. Je to ostatok, ale
+na žiadosť jedným pohárom môžem ešte poslúžiť. Zajtra nanovo nás
+zásobia. Tu pohár, operte si jazyk, a tu postruheň, vytrite si zúbky."
+
+Aby zadosť učinil zdvorilosti pani Tárajkinej, prijme Stonoha chlieb a
+pohár...
+
+Chlipne --- polovica mu ušla, zakucká sa --- a druhú polovicu so
+zmraštenou tvárou vypľuje von...
+
+Ponúknutý čaj nebol nič inšie ako odvarok --- myšieho chvostíka s cukrom
+a slivovicou.
+
+Stonoha chce si napraviť chuť, zahryzne do chleba, odfaklí kus, ale i
+ten pošiel za nápojom.
+
+Bol to veľký starý hríb.
+
+Sluha vyceril všetky zuby, mal ich tri, panie vo všelijako modulovaných
+hlasoch sa chichotali.
+
+Stonoha kašlal, nešlo mu do smiechu, ale sa len smial, ako ten hrnčiar
+vo svojich pobitých hrncoch. Pozrel do mesiaca, ktorý jediný sa nesmial,
+pozrel na tri smrekové šúľky, čo sa mu pred bledým nosom holengali.
+
+„Ďakujem úctivo i za to, kým sa budem môcť odslúžiť."
+
+„Vďačne i druhý raz, pán Stonoha," odvetili Sirény.
+
+Po tomto občerstvení napcháva si Stonoha s pokojnou mysľou fajku i
+osloví bažlivo naň hľadiaceho starého sluhu Paľa, aby mu podal svoju
+zapekačku, že mu ju tiež napeľchá dobrým ľubietovským dohánom.
+
+Paľo, hotový, skočí a podá mu dubovku.
+
+Stonoha potmehúdsky napcháva fajku, vystrája žarty a dačo pozorne
+schováva.
+
+Naplnenú fajku podá Paľovi s tým doložením, aby ju nepripekal, lebo že
+to jeho dohán neznesie. Paľo nato poslúži ohromným odhoreným papekom ---
+najprv, ako sa svedčí, pánu Stonohovi a potom sebe pripálil. A čochvíľa
+púšťa chlpy a nemôže dosť nachváliť dobrotu dohánika. Opretý o stĺp puká
+a blahý nakúka škuľavým zrakom krížom nosa na ihravý dym fajočky,
+odcrknúc čas po čase štrbavým zubom na jazyku prúdiacu slinku.
+
+Stonoha zabáva sa s paniami.
+
+Sluha s obľubou načúva.
+
+Naraz vravor zaviazne.
+
+„Musí mať dakto nohy nakríž," povie pani Šporka.
+
+„Už bude pozde," povie Stonoha. „Chýli sa čas k odpočinku, už musí byť
+desať. Čo myslíte, Paľko, či bude už skoro?"
+
+„Ej, už bude."
+
+„Už bude?" pýta sa potuteľne Stonoha.
+
+„Už..."
+
+Prask!...
+
+Iskry pršali, kúr sa valil, fajka roztrepaná sa rozletela a --- Paľo na
+smrť preľaknutý, akoby z oblaku padol, frkol pani Nettovej do --- lona.
+
+Táto neprichystaná na vizitu toho druhu, vyhodí nohami, prekotí hrniec s
+vodou nad ohňom. Voda zahasí oheň a len mesiac, vyškierajúc sa,
+objasňuje tmu a nastalú trmu---vrmu.
+
+Stonoha chytro, ako plž použije zmätok, prehodí cez plece pušku a s
+chichotom sa poberá do dediny na nocľach.
+
+Tú tragikomédiu zapríčinil, keď do polovice Paľovej fajky nasypal tajne
+pušného prachu z patróny a na to napchal dohánu, koľko sa vmestilo.
+
+Cestou si píska i kráti si čas naháňaním netopierov.
+
+„Aha, kde si bola, Agna?" pýta sa Stonoha pani Tárinej slúžky.
+
+„Nuž bola som z naloženia panej posteľ poprávať."
+
+Nuž dobre.
+
+Stonoha dôjduc do svojej chyžky, vyzliekol sa a ľahol do postele.
+
+Ach, čiže mu bolo!
+
+Vystrie sa niekoľko ráz.
+
+„Ach, čiže mi je dobre po toľkých štrapáciách, akoby sa v tokajčine
+kúpal!"
+
+Chce zafúknuť sviecu.
+
+„Ale kýho jazerného diabla! Čože je to... do sto hrmených vozov!"
+
+Vyskočí z postele, akoby bol na škorpióna sadol...
+
+Žltá omáčka kvacká mu zo zadnej čiastky tela. Žltá omáčka vyviera i tam,
+kde najhlbšie ležal...
+
+Zmraštil škaredo tvár, ako malý chlapček, keď sa mu zle povodí.
+Ostýchavou rukou priťahuje a obzerá túto jednofarebnú fresko---maľovačku
+najprv na sebe, potom na plachte, až po bedlivom bádaní prišiel na ten
+podivný rezultát, že to nič viac, nič menej, ako číročistá ---
+praženica.
+
+Akási štedrá ruka podsypala Stonohu vajcami. Tie sa nevyliahli, lež
+rozliali ako láva cez Torro del Greco.
+
+Odstrániac pomocou vechťa prekážku, ľahol si poznovu a spal sen
+spravodlivých.
+
+Ráno spievali na krove lastovičky, kým sa druhé popred strechy preháňali
+čírom---čárom za muškami.
+
+Stonoha otvoril oči a zamrmlal:
+
+„Budem sa chcieť odslúžiť!"
+
+Príležitosť ho už čakala. Sadol a viezol sa het.
+
+Sedí so zavrznutými dlaňami medzi kolenami a rozmýšľa, myslí na ---
+pestvo.
+
+Netrvalo dlho, stretne vozík.
+
+Na vozíku sedí Šporkin muž s matkou, pospiecha si k nedeli manželku
+navštíviť. Nazadku vozíka je košinka fľašami vyplnená a muchy obletujú
+teľacie stehno.
+
+„Hoho, pán Stonoha, skadeže, z Tichého? Nuž, akože tá moja žienka, ako?"
+
+„Ach, vaša žienka by len bola, ale..."
+
+„Nuž, čo ale?" pýta sa pani matka.
+
+Stonoha pristúpil k vozu a hovorí potíšku:
+
+„Ale pani Tára nebárs sa cíti. Mrzutá je strašne. Má hrozný vred, nemôže
+ani sedieť od bolesti bojac sa, že sa jej prepustí. No ale prosím o
+diskrétnosť." A položí dva prsty na ústa.
+
+„Lebo," pokračuje ďalej, „hanbí sa dešperátne. Prosím, aby sa
+nevyzradilo."
+
+Pani matke blyslo v očiach, počula zakázanú novinu, tajomstvo.
+
+„No, poďme, Ondriško, poďme, lebo bude pozde," zavolá Stonoha na kočiša.
+
+Pán Šporko pokývne Stonohovi: „Servus!" A pripáliac si na fajku, vezie
+sa s pani matkou ďalej. „Ach, ach, že vred na onom," mrmle si pod nos.
+
+Po krátkom putovaní zazrie Stonoha vozík. I tu zo sena trčali
+živnostenské predmety: nohy z husí, kurčatá, chlieb, mlieko atď., akoby
+to šlo dáku cernirovanú pevnosť potravou zaopatriť. Na šúpiku slamy
+kvoká v košeli a slamenom klobúku, s kabátom prehodeným cez plecia ---
+pán Tára. Fajku má v zuboch, koštek v ruke.
+
+„Servus, Stonoha! Akože moja žena, či jej slúži kyslá?"
+
+„Ó, prevýborne! Stala sa ti už celkom sladkou; ale úbohá Šporka!"
+zakrúti Stonoha hlavou.
+
+„Nuž?"
+
+„Znáš, že chúďa trpí na bledú nemoc."
+
+„Znám, pravdaže, trpí."
+
+„Nuž hľa, vošla do kúpeľa. Ospanlivá, ako to už v takej chorobe býva,
+zaspala. Medzitým sa jej vyrazil kolok z vane a ona ostala bez vody ako
+hlaváč, kým ju kúpeľníčka nezobudila. Prechladla, dostala lámku a teraz
+takmer ohluchla."
+
+„Ach, ba kýho čerta!"
+
+„No tak. Ale, prosím ťa, nespomínaj nič, lebo ju to omína. No, zbohom
+choď a pozdrav tie panie."
+
+„Zbohom," odpovie pán Tára a uháňa do kúpeľa.
+
+Po chvíli práši sa zase hradskou. Ten istý pečienkový a vínový obraz sa
+zjaví. Pasažieri sú páni Netto a Brutto.
+
+„Hoho, Stonoha! Čože tam nového na kyslej. Čože naše dušičky?"
+
+„Kúpu sa."
+
+„Akože im slúži?"
+
+„Kvitnú všetky ako ruže. No jednu, pravda, musím vynímať, nuž ale..."
+
+„Nuž, čo ale. Kto je to, Stonoha, tá jedna?"
+
+„Valúta je mesačnicou!" hovorí Stonoha temným hlasom. „Keď mesiac
+svieti, vykradne sa z chyže a kráča po streche ako mačka. Ba Paľo
+kúpeľník sa dušil, že ju videl, ako po haluziach z jedného smreku na
+druhý preletúvala. V ústach vraj mala pléd zubami priseknutý, cez ruky
+roztiahnutý, k tomu krinolínu tiež rozšírenú a tak sa potom prehadzovala
+ako veverica."
+
+Netta a Brutta striaslo.
+
+„Ale nieže, nie! Bolo by to predsa hrozitánske."
+
+„Ináč nemáte. Len vás prosím, jazyk za zuby! Aby ani ona ani ja nebol
+kompromitovaný."
+
+Dvaja priatelia potriasli mu ruky a ľutujúc srdečne pani Valútu, že tak
+po haluziach musí skackať, pohli sa ďalej.
+
+Stonoha si drhlí ruky a usmieva sa, lebo rýchlo sa mu blíži vozík k pánu
+Valútovi. Čo tu naponáhle luhať, aby sa už každému dačo dostalo?
+
+„Servus humillimus, domine spectabilis#POZ#33;(lat.) Služobník ponížený,
+ctihodný pane#-POZ#, skadeže, skade?"
+
+„Z Tichého, domine respectabilis#POZ#34;(lat.) Dvojctihodný pane#-POZ#."
+
+„Poviete nám dačo nové, pekné, radostné, áno, čo tie naše polovičky tam
+vystrájajú."
+
+„Dobre sa im darí, spectabilis#POZ#35;(lat.) Ctihodnosť#-POZ#, veselé
+sú, ba pravda..."
+
+„Quid ergo, aká pravda?"
+
+„Veselosť na tento čas kus sa zachmúrila, bo zaviazla svornosť!"
+
+„Čože, však snáď nepo ---"
+
+„Ba ver sa poharkali. Netto a Brutto rovnováhu kúpeľného pokoja
+pobúrili."
+
+„Teda?"
+
+„Obe rady rajničky vylizujú. Uzniesli sa na tom poriadku, že jedno ráno
+pani Netto, druhé pani Brutto smotánkovú rajnicu vylizovala. Tu raz
+Netto po dve rána lízala, následkom čoho strhla sa zvada, končiac sa
+varechovým klepaním po hlave. Teraz zazerajú jedna na druhú ako
+Elizabeta na Máriu Štuartovú."
+
+„Ja, rogo humilime#POZ#36;(lat.) Prosím najponíženejšie#-POZ#, som to
+dávno predvídal, že sa tie dlho neznesú. Kde je, rogo, jedna ženská, už
+sa sama so sebou poharuší, nie to tam, kde ich je hen päť, hehehe. De
+caetero me commendo#POZ#37;(lat.) Napokon, porúčam sa#-POZ#."
+
+Rozišli sa, tamten šiel hore, Stonoha dolu.
+
+Po chvíľke, keď sa už boli kus vzdialili, káže Stonoha vozkovi, aby kone
+obrátil, že idú nazad. Zadivený kočiš tak učinil, ako pán kázal.
+
+Hostia podochodili jeden za druhým na Kyslú.
+
+Radosť nastala všeobecná.
+
+Prvú chvíľu zaujímalo skladanie proviantu, batôžkov, košov a košíkov. I
+posadali si v skupeninách podľa rodín, vedúc povrchný hovor o povšedných
+veciach.
+
+Každý novopríchodzí hosť mal pípeť na jazyku a čosi ho v čižme tlačilo.
+Pri danej príležitosti vladári sveta, to jest manželia, svojím sladkým,
+kyslou vodou zmytým rebrinkám tie, skrz Stonohu im idúcky diplomaticky
+oznámené, „sub rosa"#POZ#38;(lat.) Dôverne#-POZ# tajnosti vyklebetili.
+
+Zadivenie bolo veľké.
+
+Pretože v chyby blížneho tak radi veríme, nasledovalo všestranné a
+všespolné pozorovanie.
+
+Pomaly oznamovali si kúpeľné víly donesené novinky, vynechajúc vždy tú,
+o ktorej sa vravelo. I všetky vedeli chyby tej, o ktorej sa zhovárali a
+ktorá nič netušila. Každá pozerala na druhú s úsmevom a s dákou
+útrpnosťou.
+
+A tu skutočne pozorovali, že pani Tára akosi divno, len tak spolovice
+--- sedí. Na úbohú domnelú Šporku, podopierajúc si boky, kričali, akoby
+sedela tam za vodou na protiľahlom grúni. Ona chúďa len oči vyvaľovala,
+domnievajúc sa, že snáď z tých frišno dovezených miškovských tekutín
+dáko hlbšie načreli.
+
+Ich veľkú pozornosť vzbudila pani Valúta. Na nešťastie bola náhodou
+uškrabnutá na nose; no to sa jej vraj istotne stalo, keď pomedzi tie
+smrekové šúľky lietala. Ani ju nechceli pripustiť k vareniu s obavou,
+žeby im do hovädzej polievky nesfrkla.
+
+Zrejmé im už bolo, že ráno rajničky tak čisto bývali vyškrabané, a teraz
+pani Nettová a Bruttová tak chladno, ba škaredo, ak nie trucovito jedna
+na druhú fľochajú.
+
+Všetko to videli a badali, čo inokedy nikdy.
+
+Tak stáli veci a tak sa naše víly mali v podozrení.
+
+Neznať, ako dlho by tento stav obleženia bol trval. Pípeť paniam náramne
+rástol, až do puknutia --- no odpomohol tomu pán Brutto.
+
+Všetečnejší od čerta, povolal nabok starého Paľa a pýtal sa ho, aby mu
+vyrozprával, ako to vyzerá, keď tá pani Valúta tak po tých smrekových
+haluziach lieta.
+
+Paľo rozdrapil papuľu, priam mu pečený zemiak z nej vypadol.
+
+„Ach, ba kýho jazerného čerta! Nuž či je strigou, že také kumšty
+vyvádza?" zvolal Paľo po chvíli.
+
+Item, vyšlo najavo, že v tom všetkom ani iskričky pravdivého nieto. To
+šlo ďalej, lapalo sa ako pušný prach, a vyšlo navrch, že to samé číre
+vymysleniny Stonohove.
+
+No, bolože tam potom!
+
+Ani vlas neostal celý a dobrý na Stonohovi.
+
+Najskôr sa dobrili chlapi, panie sa utíšiť nemohli.
+
+Sadli k obedu a tu sa ešte len pretriasať začala denná udalosť a tu
+Stonoha padol pod cepy. Nieto toho slovníka na tie tituly a predikáty,
+čo sa tu chudákovi Stonohovi za podiel dostali. Neslýchanou rýchlosťou
+postupoval v titulatúrach.
+
+„Ten čudák, mamaj," povie pani Tára.
+
+„Ten cigáň," doloží pani Brutto.
+
+„Škraták," hudie pani Netto.
+
+„Oplan, loptoš," zanôti pani Valúta.
+
+„Odkundes, fuj," dovŕši pani Šporka.
+
+„Nechže sa nám na oči neukáže," vykríknu všetky.
+
+Ešte ostatné slovo neodznelo nad bryndzovými haluškami, vo dverách stojí
+v celej dĺžke Stonoha s rakytovou ratolesťou v ruke.
+
+„Pokoj s vami," zavolá slávnostne.
+
+Ktorá vidličkou, ktorá šunkovým koštiaľom, ktorá varechou a podobnými
+nástrojmi, čo pri ruke mali, napadli tieto rozsršené Amazonky pokojného
+Stonohu.
+
+„Akteon ego sum, dominum cognoscite vestrum!"#POZ#39;(lat.) Ja som
+Akteon, poznajte svojho pána#-POZ# zavolá Stonoha a oddá sa svojmu
+osudu. Kľakne na jedno koleno, zohne šiju a dodá: „Tu moja hlava, nech
+leží pri vašich nohách!"
+
+Chlapi sa smiali a udobrené krásavice prijali ho na milosť a k dobre
+obloženému stolu.
+
+Ipse fecit.#POZ#40;(lat.) Urobil to on sám#-POZ#
+
+# Upečený kocúr
+
+Doktor Terpentín bol divná chlapina. Čo pilný lekár a dobrého srdca
+človek bol predsa ako starý mládenec vždy mrzutý, dudravý --- opravdivé
+kyslé pivo; jedným slovom, mal svoje čudné zvláštnosti.
+
+Jeho výsluhy boli Bora a Dora. Tamtá s jedným okom, táto s jednou nohou.
+Bore frkol kamenček do oka; keď ho dr. Terpentín chcel odstrániť, vybral
+náhodou oko a kamenček ostal tamdnu.
+
+Dora prikuľhala sa už na svet len o jednej nohe.
+
+Jeho láska klonila sa k dvom živočíchom, týkajúcim sa srdca a žalúdka.
+Srdce svoje výhradne venoval starému kocúrovi Murovi; žalúdok však
+neobyčajnou tuhou vinul sa za pečenými čvíkotami.
+
+Muro tešil sa zvláštnej priazni svojho pána. Zaujímavé bolo vidieť, ako
+Muro chemriac prednými nohami, s vyzdvihnutým, na konci zohnutým
+chvostom, hlavu brúsiac o sáru, otáča sa okolo pánovej nohy. Medzitým
+šúcha ho pán ľavou rukou, pravou mu maznavo dáva hryzky do kávy
+namočenej žemle. A tá usmievavá tvár a tie sladké príhovory doktorove a
+brndžiaca odpoveď Murova svedčili o úprimnosti a vrelosti ich obapolnej
+útlej náklonnosti.
+
+Známe je zo skutočnosti, že bezdetní ľudia zvláštnou priazňou a
+starostlivosťou nesú sa oproti zverom, to šipsom, fešerlom, to mandom a
+cinám. Im je slobodno predeseným hosťom taniere pred nosom lízať alebo
+poletujúc príchodzím po hlavách guáno rozsievať.
+
+Už sme spomenuli, že pán doktor čvíkoty náruživo rád jedával, a preto v
+letný čas --- nie tak pre horúčosť, ako radšej „ex absentia turdi
+pilaris"#POZ#41;(lat.) Pre neprítomnosť čvíkot#-POZ#, to jest, že čvíkot
+nebolo --- býval unavený, kdežto v zimnú dobu, keď severní hostia
+doleteli, úplne oživel.
+
+Jeseň roku 1872 bola kromobyčajne teplá. Sezóna čvíkot nezapočala sa
+ešte dlho a dlho, náš doktor upadával do malomyseľnosti --- do choroby,
+rečenej „mania turdo pilaris"#POZ#42;(lat.) Čvíkotová mánia#-POZ#.
+
+Tak sa zdalo, že ten čas usnoval proti jeho žalúdku nepriateľský
+„szövetség"#POZ#43;(maď.) Spolčenie#-POZ#.
+
+Bora prezerala pilným okom pondelkové trhy, no márne snahy! Od žiaľu nad
+nezdarom skoro si svoje jedinké oko vyplakala.
+
+Úbohá Dora daromným behaním takmer si zodrala tú jednu nohu do kolena
+--- a všetko nadarmo!
+
+Konečne predsa raz doletel pár čvíkot na „hrbčok". Ako ich čierne
+čižmičky bedlivé oko Borkino zazrelo, ihneď dualistické čvíkoty strčila
+do koša --- a hnala s nimi domov.
+
+Vtiahnutím čvíkot do domu vtiahol i pokoj do duše doktorovej. Pacienti
+poznamenávali, že dr. Terpentín oddávna už tak útle nepriliepal
+fľajstre, tak nežne nepúšťal žily, ako dnes. Po dokonaných návštevách
+ponáhľal sa domov, kde už pohotove stál čistotne a riadne prikrytý stôl.
+
+Odhodí klobúk, palicu, poklepkúva si prstami ľadvie, a keď si takto
+krátky marš na lačnom bruchu odbubnoval, sadol si k stolu.
+
+Dora donáša z kuchyne jedlá. Bora obsluhuje okolo stola.
+
+Obed nebýval početný na jedlá, no bývali pripravené s obzvláštnou
+vyberanosťou.
+
+Prešla polievka, mäso, strova --- všetko to pri všednom pocite. Tento
+príjem zalial dobrým vínom.
+
+I očakáva posledné túžené jedlo --- čvíkoty.
+
+Mľaskaním jazyka dáva doktor najavo gastrologickú netrpezlivosť,
+klepajúc vidličkou po tanieri.
+
+Rozdrapia sa dvere.
+
+Dora vpáli.
+
+Pravou nohou zatvorí rozškľabené dvere i vrhne na stôl s veľkou
+rýchlosťou kúriacu sa misu.
+
+Istotne ju pálila.
+
+V ružovom rozmare vopchá si doktor servítku hlbšie pod bradu...
+
+„Jazerná strela! Kýže je to čert?" zakričí doktor, vyskočivší zo
+stoličky.
+
+Pred ním na mise leží akási opacha, čvíkotám ani zďaleka nepodobná.
+
+„Beda, ach, prebeda!" zalomí rukami Bora. „Veď je to chvostík z mačky."
+
+Doktor vyvaliac oči, pichne vidličkou do tej maštrancie a zvolá:
+
+„To je obojček môjho Mura!"
+
+Áno, pravdaže.
+
+Vyvalený leží pred ním upečený „mučedelník" --- Muro.
+
+„Čo to? Ako to...?"
+
+Bora vložila ošklbané, slaninkou obložené čvíkoty do rúry i podpálila do
+sporáka. Muro, podľa svojho pána vrúci milovník čvíkot --- a to mu
+napokon ani zazliť nemôžeme --- nezbadaný vtiahol sa do rúry a dal sa do
+chrúmania pečienky. Keď už Bora bola sporák podkúrila, nič zlého
+netušiac, zatvorila na rúre dvierka, odíduc nato po víno do pivnice.
+Dora pobrala sa na studňu po vodu. Muro teda nikým nemýlený a nič zlého
+netušiac, tešil sa osamote i bez prekážky oberal vtáčiky. Tu sa rúra
+hreje a počne ho na otlaky náramne inkomodovať#POZ#44;(lat.)
+Nepríjemnosť mu robiť#-POZ#; i prekladá nohami, ale to už horšie než v
+Sahare... Chce von na čerstvé povetrie, keď i tak už úlohu svoju plnou
+mierou dokončil. No, „stoj, noho!"... dvere boli zatvorené... Nastal
+zúfalý tanec. Márne pozdvihoval hlas všetkými škálami, tancoval a
+pískal, pískal a tancoval --- a kým sa slúžky vrátili nazad, on s
+pečienkou v žalúdku po hrozných trapiech sám ležal pečienkou, vystretý
+na panve.
+
+Pekný život, špatná smrť. --- Smrť taká, akou hynú úbohé hinduské vdovy,
+s tým jediným rozdielom, že sa tie „dobrovoľne" vrhajú do ohňa, nášmu
+Murkovi sa to však vonkoncom nechcelo.
+
+Čierny skutok ležal vo svojej oškvrknutej nahote pred zdesenými očami
+svedkov.
+
+S ťažkým srdcom oddal sa pán doktor do svojho remesla, do povinnosti
+pitvania. Výsledok pitvania bol
+
+„Nálezohľad".
+
+Muro, podľa zamestnania kocúr, najlepšieho veku, neženatý --- ak nie
+civilne --- následkom náhlej neprirodzenej smrti pitvaný a lekárskemu
+skúmaniu je podrobený. Telo má dobre vyvinuté, svalovité: všetky štyri
+nohy rozprestreté, chvostík čnie do výšky. Farba očí je neznáma, lebo je
+--- bezočivý, i farba kože nevedno aká bola, lebo pustil srsť.
+Pravdepodobne bola jedno--- lebo dvojfarbistá, pretože trojfarbistý
+kocúr nikdy nebýva. Na krku pozorovať obojček z mosadze s literou M., čo
+konštatuje jeho totožnosť s Murom. Mozog, krvou podbehnutý, vyplňujúc
+úplne črep, je hojný, dokazujúc vysoký kultúrny stupeň zosnulého kocúra.
+Ďalšie vnútornosti neposkytujú nič zvláštneho. Srdce je neobyčajne
+veľké. V žalúdku nachodili sa pozostatky vtákov, medzi tými dva celkom
+dobre zachované žalúdky, v ktorých sa už slobodným okom, tým
+zreteľnejšie ale mikroskopom dali vidieť zrnká borovky --- „baccae
+juniperi communis". Bola to teda posledná strava pod pitvou postaveného
+jednotlivca. Zo všetkého tohoto patrná je teda smrť následkom upečenia
+sa, a to bez predbežných urážok násilia, teda v zdravom živom stave.
+Pretože ani rodinné, ani iné domáce okolnosti toho spôsobu neboli, žeby
+Mura k samovražde boli hnali, ani žiadna a nikým, akéhokoľvek mena a
+pôvodu malomyseľnosť na ňom pozorovaná nebola --- s celou istotou
+uzatvárať sa dá, že smrť upečenia sa nestala samochtiac, ani vražedne,
+ale stala sa nešťastnou náhodou. Čo týmto atď...
+
+Dr. Terpentín.
+
+Dr. Terpentín vydýchol si hlboko.
+
+Nehoda neostala bez následkov na zdraví nášho doktora. Apetít ho opustil
+a kŕče lomcovali mu srdcom. Neustále námahy a prikladanie sympatetickej
+mačej mádry s mačacím blyskom na srdce zdvihli ho z postele.
+
+Navštívil som ho v kríži. A on mi povolil hrozitánsku tu históriu pustiť
+do verejnosti.
+
+Nazdar! (Sadzač.)
+
+# Slúčkove nehody
+
+Pán Slúček, polesný z Párnice, je nízky, ale širokého objemu chlapík.
+Šesť rokov je tomu, čo si bôty sám obzrieť nemôže; od štyroch rokov
+nevidel si už svoje nohy. Bruško tak sa mu zvýšilo ako Tatry medzi
+Uhorskom a Galíciou. Keď mu slniečko na poludnie nad temänom stáva,
+odráža sa mu pod nohami okrúhly tieň v priemere jedného metra.
+
+Trinásť rokov úraduje na jednej a tej istej stanici a v utešenom údolí,
+v ktorom stojí jeho obydlie, prúdi všade voda čistá, ľahká, chladná, na
+pitie znamenitá, ale náš milý Slúček neokúsil z nej za tých trinásť
+rokov. Voda je vraj dobrá na plavačku dreva a pre teľce, on s pletkami
+sa nezapodieval. Vodu ani v bôtach nechcel mať, tým menej v hrdle.
+Choroby sa bál, ale jedine vodnatieľky. A tak, keď človek už konečne
+predsa piť musí, pil víno a borovičku. Možno teda, že dačo i to prispelo
+k tomu, že sa mu nos pýril ako hole vo večernej žiare. Mal ho veru
+zdravej farby! A keď pán Slúček stál v otvorenom okne, chodili sa ľudia
+dívať a nazdávali sa, že u polesných v obloku kvitne krásny kvet ---
+Cactus speciosus.
+
+K tomu všetkému Slúček značne pokuľhával na pravú nohu, kedykoľvek kus
+pobehol --- čo sa, pravda, zriedka stávalo --- tak sa klonil jedným
+bokom, akoby bol sečku rezal. I nebola to pletka, ako sa to stalo.
+Poviem vám o tom, i prisvedčíte mi, že to bola dosť smutno---smiešna
+príhoda.
+
+Slúček bol ako praktikant štíhly šuhaj, že bys\' ho bol cez ucho šivačky
+pretiahol. I vybral sa jedného rána na jarabice. Sadne pod buka, vábi,
+vábi; jarabice ohluchli a neprišli. Slúček zberá sa domov, tu zrazu
+stojí pred ním ohromný medveď. Stŕpol. Čo robiť? Puška drobným brokom
+nabitá, medveď veľký, ozrutný. Nemal času na rozmýšľanie, alebo ---
+alebo! Pritisne pušku k lícu, skúri sa, pác, a --- medveď leží na pysku
+vystretý, akoby ho vymaľoval. No, to veru neočakával. Blízo mu bol, a
+tak mu celý nábitok, ešte neroznesený, vpálil do srdcovej komory. Keď sa
+Slúčkove myšlienky, rozlezené po lese, pomaly zase pod širákom
+usalašili, nastalo veľké plesanie. Slúček dostával vysoký pochop o
+svojej udatnosti. Neznajúc medze slušnosti a hranice radosti voči
+vystretému majestátnemu medveďovi, vykonal nezmysel. Obkročil macka a
+začal ho mykať nečestne za uši. Na to neslušné mykanie začali sa i
+medveďovi vypáchnuté myšlienky do „gigane" vracať. Zo sna vyplašený
+macko vydvihne sa hore i poberá sa trulkavým krokom ďalej. A pán Súček
+preľaknutý do špiku sedí na medveďovi a nohy sa mu holengajú. V strachu
+nezná, čo robiť, i drží sa ho za škundry nadurenej hrivy a
+voľky---nevoľky jazdí asi na dvadsať krokov na milom mackovi. Tu sa už
+potom chudákovi medveďovi ďalej nechcelo, i hodil sa kŕčovite o zem a
+vypustil s obligátnym ručaním ostatnú paru. Slúček bol pri tomto
+pomykove tak špatne zložený, hustou bundou macka prikrytý, že sa dlho
+ani len pohnúť nemohol. Keď sa konečne von vytiahol, bola mu noha v
+hrubom mäse prelomená. Biedne sa vliekol na rukách a nohách k neďalekým
+uhliarom, skade ho potom domov odniesli. Následkom polámanej kosti a
+následkom toho, že mu srdce za sáru zletelo, upadol do horúčky a ležal
+úplné tri mesiace chorý.
+
+Od tých čias kuľhal i správal sa oproti medveďom so zvláštnou úctou a na
+poľovačkách, týkajúcich sa akéhokoľvek druhu medveďov, nikdy viac účasť
+nebral.
+
+Navštívme pána Slúčka v jeho domácnosti.
+
+Je pekný zimný deň. Slnko neprestúpilo ešte poludnie.
+
+Slúček kníše sa s čistoúradnou tvárou otvorenými dvermi do kuchyne ako
+káčer, keď sa k Hronu poberá. V ruke drží otvorený list. Nemými, ale
+vážnymi posunkami oddáva list svojej manželke, ktorá tvárou i telesnou
+hmotou sa mu úplne podobala. Táto družka jeho života bývala mu v
+krušných úradných problémoch vzácnou radkyňou; ona pomáhala mu vždy pri
+štvrťročných účtoch hárky rastrovať#POZ#45;(z nem.) Linkovať#-POZ#.
+
+Kým pani čítala list, knísal sa pán Slúček sem---tam po izbe, držiac
+prsty zastrčené v náprsníku.
+
+„No, vidíš!" zakončila so sladkým úsmevom Rózka, bo tak sa manželka
+Slúčkova volala, čítanie listu.
+
+Bol to list od pani veľkomožnej, manželky pána lesného radcu. Vo forme
+obežníka bol upravený na všetkých lesných úradníkov. Obsah listu tvorila
+úctivá prosba, aby každý ráčil prispieť jednou kožušinou z líšky na
+bundu pani veľkomožnej. Žiadosť vysokomyseľnej panej bola hneď i
+rozkazom. Nesplnenie žiadosti bolo by hotovú nemilosť zapríčinilo, a to
+so všetkými nepríjemnými následkami. Koniec listu, ktorý bol upravený na
+rodinu Slúčkovskú, bol nadmier lichotivý, s vrúcnym bozkom panej
+polesnej a s tým priateľským dodatkom, že dávnej túžbe, aby mohla pani
+polesnú vidieť, čím najskôr návštevou vyhovie.
+
+Táto priazeň narobila mnoho hluku v Párnici. Sľúbená návšteva
+vysokopostavenej panej urobila náramný dojem na dve sokyne pani
+polesnej, na pani rechtorku a mlynárku.
+
+„Ba, čo tie povedia," šúchala si radostne ruky v myšlienkach pohrúžená
+Rózka.
+
+Slúček vystrojil sa hneď večer na postriežku. Zima je ostrá.
+
+Zľava visí Slúčkovi dvojka a torba, sprava mohutný kulač na remennom
+motúze, okolo krku na takomže motúze kožené rukavice. Pri nábitkoch v
+kapse uložený má chlieb a výborne údené klobásy. Tak ho vystrojila
+opatrná Rózka, že keby ho líšky na postriežke cez dva týždne boli
+obliehali, pred smrťou od hladu a smädu bol zachránený.
+
+Asi na štvrť hodiny povyše obce na brehu Hrona mal vystavenú postriežku.
+Za Hronom ležal zabitý pinčo, prichystaný na újesti.
+
+Netrvalo dlho, padne výstrel --- a pán Slúček blýskavým ľadom vlečie
+líšku do postriežky, i zavesí ju na klin. Na toľkú štrapáciu a na zdar
+dobrej veci napil sa z mohutného kulača, k tomu odpratal polovicu
+klobásky a primeraný kus chleba. Za touto namáhavou prácou natiahol
+rukavice, oprel sa chrbtom do kúta a --- zaspal.
+
+Sen je vraj pokoj. A to veru u Slúčka neplatilo! Jeho sen bol, aspoň pre
+druhých, nepokojom. Veď tak chrápal, ako keď mangľujú. Pri tomto
+chrápaní nebol by sa opovážil ani ten najlačnejší vlk alebo
+najdivokejšia hyena prísť na újesť.
+
+Ako sa takto náš Slúček na postriežke trápi, ide popri nej chodníkom
+domov z lesa nadpolesný Búchay. Pán Búchay je snúbencom Klotildy, dcéry
+pani radcovej, na ktorej bundu sa mali práve líšky strieľať. Nadpolesný
+býval naboku v susednej obci.
+
+Keď Búchay začul chrápanie, blížil sa tichým krokom k postriežke.
+
+„Ha, to je Slúček. Poznám ho. Tak nechrápe nikto iný v celom lesníckom
+úrade. On je pravým ,tambor---majorom\'#POZ#46;(franc.) Plukovný
+bubeník#-POZ# medzi chrápošmi!"
+
+Keď sa mesiac vyškeril na to, vliezol pozorne do postriežky.
+
+Slúček hudie ďalej sladko svoju nôtu.
+
+Búchay poobzeral všetko, v čom mu znamenite pomáhal mesiačik; no bez
+pomoci mesiaca dal sa do kulača a nacengal sa náležite. Čo mu nestačilo
+do hrdla, prelial do svojej prázdnej ľagvice. Chlieb strčil do kapsy i
+klobásu, ktorej však najprv zvliekol kožu. A tú kožu zavesil mu s veľkou
+pozornosťou na nos. Keď to všetko pekne---rúče vybavil, chcel sa pobrať
+ďalej.
+
+„Hop! Kým mesiac mne poslúži, poslúžim ešte i ja Slúčkovi."
+
+I poberie sa za Hron, pochytí pinča, zavlečie ho do postriežky, zavesí
+miesto líšky na klin; líšku však prehodí cez plece a berie sa domov.
+
+Slúček ešte za chvíľku píli; i začne zo sna rozprávať:
+
+„He---hé, pán bunda, zastrelil som radcu, to bude pre líšku."
+
+Vystiera sa, preberá, otvorí oči, siahne rukou za črevom na nose.
+
+„Aha, čo to za struk, ako z agáta!"
+
+Kukne na mesiac a podá sa za kulačom.
+
+„Kých jazerných bohov! Kdeže sa podelo? Veď ho bolo ešte do polovice.
+Ale že ťa strela pobila! Veď som v spaní nepil?"
+
+Chmáce za klobásou.
+
+„Ach, zrádnik ťa metal! Nuž koža tu --- a klobása včerty!"
+
+Hľadá ďalej.
+
+„Hrmen---meden okovaných striel, chlieb tiež fuč!"
+
+Vyzerá von okienkom a vytiera si oči.
+
+„No, nech tu skameniem, ale už raz neznám, či mám hlavu a či tekvicu
+medzi plecami!"
+
+Zašiel na miesto újesti a tam zase ani stopy, ani byľky, ani mrvy, ani
+koštialika z mrciny. Plesne sa po bruchu!
+
+„Petre, Petre! Tys\' v spaní jedol, a predsa si lačný! A tu ti za ten
+čas líšky újesť zmietli. Ďasa zmietli, odniesli ju vo vetre!"
+
+Obzerá po zemi.
+
+„Petre! Na moju vieru, ak to bol --- zlý duch? Bože, odpusť moje
+hriechy!"
+
+Prestrašený beží, akoby ho hnalo, do postriežky, pochytí zvera z klinca,
+prehodí naponáhlo cez plece a fujazdí, čo len stačí domov.
+
+Ponáhľa sa cestou.
+
+Črnk, črnk, črnk; i dohonia ho sánky pána lesného správcu. Slúček
+privíta pána správcu a prosí ho, pretože je už pozde a do mesta ďaleko,
+aby ráčil prenocovať u neho. Správca ďakujúc za ponúknutie pre súrne
+práce neprijal. Keď po krátkej zastávke mali sa lúčiť, požiadal úctive
+správcu, aby pred chvíľkou na postriežke zabitú líšku vzal so sebou a
+odovzdal ju pani radcovej. Správca prisľúbil to vďačne vykonať a Slúčok
+položil ju kočišovi pod sedisko. Rozišli sa a Slúček kynul správcovi
+klobúkom, kýmkoľvek sánky za jelše nezašli.
+
+Slúček sa zamyslel a o víne a klobáskach nezmienil sa nikomu.
+
+Správca, príduc domov, poslal domnelú líšku, ktorú sám nevidel, skrz
+kočiša dúškom pani veľkomožnej. Kočiš sa nebárs staral, čo nesie, i
+zavesil zvera v pitvore na rám a oznámil kuchárke, že pán správca
+posiela pani veľkomožnej veľkú líšku. Kuchárka zaraz oznámila heslo
+svojej panej a kočiš prepitným obdarený, vrátil sa do stajne.
+
+Pri večeri tešila sa pani radcová dobrému počiatku zdierania koží. Na
+ostatný fašiang mala mať Klotilda sobáš a na sobáši sľúbenú bundu. Táto
+prvá krásna líška bola určená za prám na krk.
+
+Klotilde sa snívalo o mladom zaťovi a o krásnej bunde.
+
+Za rána kýchlo sa pani veľkomožnej tri razy jedno po druhom. Pán radca
+pokýval jej z postele i rozprával jej o vzácnom dare.
+
+Radca vstane konečne hore. Pokým sa holí, pani radcová, prehodiac rannú
+ľahkú šatku cez seba, poberá sa do pitvora, aby dar obzrela; ale so
+škrekom vrazí po krátkej chvíli nazad.
+
+„Impertinentný posmech," kričí rozhnevaná pani --- „pozri si tú líšku!"
+
+A pochytiac polooholeného manžela za ruku, ťahá ho za sebou.
+
+Zarazený radca hľadí na psa zaveseného na kline.
+
+Všetečná kuchárka vytrčí hlavu z kuchyne a dlaňami dovedna plesknúc,
+cituje známu rozprávku: „Vo mlyne, na kline, červavý pes."
+
+Pán radca považoval tento dej ako schválne nastrojenú prostitúciu, čo
+pre patričných malo doniesť nemilé následky.
+
+Pán lesný radca od toho času správcovi vyhyboval, ako mohol, a v
+úradných, naň upravených listoch býval nadmier pichľavý. Keď nad týmto
+pokračovaním predivený a urazený správca na príčinu toho nehodného
+zachádzania osobne doliehal a pán radca mu s veľkou nevôľou urážku
+poslaním psa miesto líšky na oči vyhodil --- zmrzol správca na soľný
+stĺp a dokazujúc svoju nevinnosť, zvalil prirodzeným spôsobom všetku
+vinu na chudáka, nič zlého netušiaceho Slúčka.
+
+Na toho už potom, nevoľného polesného, zahrmela celá, na čas u správcu
+pristavená lavína úradných nemilostí, úradných mrzutostí. Všetky jeho
+správy, účty, návrhy ako chybné, ako nespôsobné padali pod karhajúcu
+kritiku predstavených. Pichali ho ihlami a štípali klieštikami, aké len
+v „bureauvach"#POZ#47;(franc.) Kanceláriách#-POZ# pod menom sekatúr môžu
+sa nachodiť. Náš prostosrdečný, pokojamilovný Slúček bol by sa už i so
+svojím obrovským bruškom radšej do myšacej dierky vopchal. Dosť mal už
+na svojom nehygroskopickom nose, a ešte dostával z kancelárie i nové a
+nové nosy a nosíky a doposlané dekréty s názvom: nespôsobný, nedbanlivý,
+nespoľahlivý a tomu podobné titulatúry. Tento stav nášmu Slúčkovi
+začínal byť už neznesiteľný, i vláčil sa okolo potratený ako zmok, kým
+sa predsa raz náhodou celá vec nevysvetlila, a tak trampotám bol koniec
+učinený.
+
+Ako nám známo, mladý Búchay, prehodiac ukradnutú líšku cez plece, pálil
+rýchlym krokom domov. Neprešiel ani na dve strelenia, uhryzne ho čosi.
+Preľaknutý vykríkne, pustí líšku dolu, a tá, cítiac sa slobodnou, s
+kúskom nohavíc, víťaznou to korisťou v pysku, išla kade ľahšie. Zatajená
+beštia sa prebrala a zanechajúc nadlesnému navštívenku v zadku, vrátila
+sa nazad k domácemu kozubu. A tak, čo súdené bolo Slúčkovi, dostalo sa
+Búchayovi.
+
+Búchay nepochválil sa s výsledkom svojho, na postriežke vykonaného vtipu
+pred nikým.
+
+Čušal i vtedy, keď známi naň dotierali, čo mu chybí, prečo len odpoly na
+stolici sedáva.
+
+Keď Búchay videl, ako sa nepríjemnosti a služobné omrzenosti Slúčkove
+kopia a v rozmeroch rastú, nepremeškal príležitostne, pri rozmarnej
+večeri u svojho nádejného svokra, vyrozprávať dobrodružstvo na
+postriežke i s jeho následkami.
+
+Vec bola vysvetlená i vzala iný, veselý obrat. Pri pohári vína a
+veselých rozprávkach dal sa svojimi druhmi konečne i Slúček ukojiť.
+
+Pokoj je nadovšetko!
+
+Aby sa všetky Slúčkom pretrpené neresti maslom a medom zastreli,
+ohlásila sa na blížiace Turíce celá radcova rodina so všetkým lesným
+zborom a k tomu s celým rodinným prídavkom na návštevu do Párnice.
+
+V dome Slúčkovskom nastal veľký zhon a nepokoj. Steny sa mazali, dlážky
+sa šúchali, náradie sa prášilo.
+
+Vráta pred dvorom ozdobovali sa zelenou čečinou a v nedostatku ružičiek
+vpletali do nej červenú cviklu.
+
+V turíčnu nedeľu všetko stálo pripravené. Po službách božích všetko, čo
+mohlo, pospiechalo pred byt polesného.
+
+Slúček bol oblečený v zelenej krátkej šubke, klobúk mal podperený, nohy
+v liskavých sárach, na rukách z postriežky nám známe rukavice. Ako
+vidno, skvel sa v úplnej paráde.
+
+Jeho pani v modrých hodvábnych šatách, zelenej šatke s červeným golierom
+a žltými stužkami vyfintenom, v čepci, sťa sito širokom --- podobala sa
+naoko šefraníckemu krámu.
+
+Pri tejto príležitosti pripomenúť nádobno i osobitnú vzácnosť.
+
+Pred dakoľko týždňami naprával istý nomadický#POZ#48;(gréc.)
+Kočovný#-POZ# maliar kostolné maľby v párnickej fare. Pod tým časom
+býval u Slúčka na hospode. Na znak vďaky za prívetivú opateru, ako i na
+pamiatku, zamaľoval im pred svojím odchodom lavicu, a to na plavo, a na
+to vymaľoval podobizeň manželov, pána Slúčka i s paňou. Ona držala v
+rukách čo starostlivá gazdiná košíček s kurencami, on srňacie rožky.
+Podpis bol nasledujúci:
+
+#POEZIA#
+
+To je pani a pán Slúček,
+
+to mi verte, isten utček!#POZ#49;(z maď. hovor. Isten úgy segéljen =
+nech tak boh pomáha), namojveru#-POZ#
+
+1866
+
+#-POEZIA#
+
+Umelecky vystrojená lavica spôsobila mnoho radosti a bola predmetom
+stáleho obdivovania. Ako taká, rozumie sa, nesmela chýbať pri
+nastávajúcej slávnosti; i vyniesli ju k slávnostnej bráne. Keď už došiel
+čas príchodu čakaných hostí, sadol si veľavážený párik s veľkým pátosom
+na opísanú lavicu.
+
+Slnko pripekalo afrikánsky; chudiatko mastný manželský pár stekal ako
+sviece a vylučoval toľkú silu znoja, že sa už---už k dáždnikom mal
+utiekať.
+
+Slnkom škvarení diváci otvárali zobáky ako vrany.
+
+No predsa raz! Pred Suchou dolinou zahrmí mažiar, zatým druhý, tretí,
+šiesty.
+
+„Prisahám hore dolinou, hrach so slaninou, ale sa už sypú," zavolá šuhaj
+v širokom klobúku.
+
+Čochvíľa dohrkotali a pred bránou zastali kočiare. Slúček pokývne rukou,
+lesný šuhaj vystrelí z pušky a zase hrmí šesť mažiarov za príbytkom
+polesného.
+
+Ale čert ani tu nechýbal. Ako pani veľkomožná zostupuje z koča, zanesie
+vietor vystrelený fujtáš na jej hlavu a šiňon, vystrojený všakovými
+robenými kvetinami, obalený závojom a asi na meter vysoký, chytí sa a
+začne blčať ako cárach vo vyrúbanisku.
+
+Slúček s manželkou zazrú požiar, zamýšľajú skočiť z lavice --- márne
+namáhanie! Horúčosťou roztopený firnajz prilepil ich o lavicu i lipeli
+na nej, akoby s ňou boli zrástli. Dosť kopali nohami, holengali rukami,
+mykali sem---tam, ale odtrhnúť sa z lavice nijak nemohli.
+
+No, jasná strela!
+
+Pani veľkomožná blčí pred nimi ako raždie!
+
+Dostali sa akosi na nohy, ale lavica len vše prilepená rukovala s nimi
+ako škrupina za slimákom; konečne sa oslobodili, ale do tých čias, kým
+sa to stalo, bola by pani radcová na uhoľ zhorela.
+
+Panej zhorela hlava a pán stratil hlavu. Našťastie sa chytil kočiš
+rozumu. Pochytil ponáhle vrece na ovos a stiahol ho, kým druhí
+priskočili, panej cez hlavu. Požiar bol udusený, len uhlíky padali
+radcovej z hlavy; ale tvár a plecia elegantnej panej boli zapudrované
+ovseným prachom. Mimo zbĺknutého šiňonu a strachu neutrpela pani radcová
+žiadnu škodu na tele.
+
+Medzitým dohrnuli sa všetci hostia i z tých pozdnejších kočíkov a teraz
+stal sa náš verný a v zlom i dobrom stály stav manželský predmetom
+všeobecného obdivovania a smiechu. Netrval ani tento výjav dlho.
+
+Vítanka bola krátka --- konfúzna. Tri dni rozmýšľal Slúček nad tou
+vítankou. Čo teraz povedal, tomu nerozumel nikto, ani on sám. Všetky
+jeho pekné koncepty rozišli sa mu po lavici.
+
+Pán radca ďakoval mu niekoľkými slovami. I ponúkol rameno domovej panej,
+Slúček pani radcovej a tak stúpali hrdým krokom popod slávnostnú bránu
+do domu a ostatní hostia radom za nimi.
+
+Razom strhne sa homérsky smiech. A čo bolo príčinou smiechu? Pani
+Slúčková mala Slúčkov, pán Slúček svojej panej „portrét" odtlačený. Ani
+podpis nechýbal. Pohľad to bol tak originálno---smiešny, že sa hostia
+takmer po zemi váľali. Na dreve, plátne, porceláne, skle atď. podobizne
+už videli, ale na takom materiáli a na tom mieste ešte sotvakto videl
+portréty vytlačené.
+
+Nevinní Slúčkovci zazerali na svojich hostí celkom seriózne, čo sa s
+nimi deje. Ktosi poukázal prstom na príčinu rehotania sa. Slúčkovci
+potom ešte len jeden druhého striedavo obzerali a v rozpakoch híkali.
+
+Keď videli nehodou stíhaní manželia dobrý rozmar zriedkavých svojich
+hostí, konečne sa uspokojili i udobrili.
+
+I nastala zábava a neviazaná veselosť.
+
+Od toho času žije pán Slúček so svojou manželkou veľmi blažene.
+
+# Žreb
+
+Sú ľudia, ktorých šťastie so zvláštnym zaľúbením prenasleduje, ale sú i
+takí, ktorým, čokoľvek podniknú, naopak sa deje. K týmto počítal sa i
+Pútec.
+
+V biede a na biedu zrodený chudák patril medzi tých, čo keď na chrbát
+padnú, nos si rozmlátia; keď cesto miesia, palec si vytknú. Od mladi vše
+mu šlo opakom. Ako študent bol schopný, usilovný, rozsudný --- a predsa
+menej sa mu darilo ako jeho ďaleko za ním zaostavším druhom. Nemal
+šťastia. --- Mnohý, plávajúc do prístavu šťastia, keď od svojho smeru
+odporným vetrom býva odsotený, zunuje život a namieša si mozog s ohňom.
+No Jožko Pútec, príkladný filozof, privykol k zlému. Ba ani neprivykol,
+nenachodíme ten výraz primeraným; lebo privykne k dačomu ten, kto
+odvykol prv od iného? K tomu teda neprivykol, v čom zrodený bol. On
+teda, mysliac, že to tak musí a ináč byť nemôže, v istom stupni
+fatalista, trpezlivo pokoril sa svojmu neprajnému osudu.
+
+Odbavil bohoslovecké štúdiá a obzeral sa po fare, povedomý súc si toho,
+že kňaz z oltára žije. Ale dlho sa musel obzerať, kým sa mu po mnohých
+nezdarených pokusoch konečne dostala fara. Ľahko, že i tá len preto, že
+sa nikto druhý o ňu neuchádzal. Lepšia mucha ako nič, i vtiahol bez
+streľby mažiarov pod slamený krov riedkou plachtičkou pokrytej fary. Z
+toho samého, že nikto z rozsievateľov evanjelia, mimo neho, necítil
+povolanie v sebe uchádzať sa o faru, možno uzatvárať, že obete, ktoré
+farár mal donášať, musia byť veľké, ale obete, čo fara jemu mala
+donášať, malé. Chudoba de Badín, psota de Garanseg. K biede farníkov,
+pochádzajúcej už zo samej polohy neúrodného poľa, patrilo i nesmierne
+pitie páleného. Páleným sa sedliak najedol, napil a stal sa za pár
+grajciarov zrazu múdrym a veľkým pánom.
+
+To by bola krátka charakteristika obce Tesná a jej cirkevníkov.
+
+Pútec mal chlieb, chlieb aký---taký. A kde jesto chlieb, nájde sa i nôž.
+Hľadal ženu a našiel; chvalabohu, že ten článok ešte i pre chudobných
+rastie. Tentokrát Fortúna zažmurkala mu prívetivo. Natrafil na dievča
+síce chudobné --- však by sa k bohatej ani nebol trúfal --- no ale bola
+z nej žienka dobrá, usilovná, a čo u ženskej cnosť kardinála --- bola
+poriadkumilovná. Primerane k svojej mäkkej povahe mala tú zvláštnu
+obyčaj, kde len možno, v deminutíve rozprávať. Ani ten mak jej nebol
+dosť drobný, ešte z neho spravila máčok, a hen máčiček --- kostolík,
+kostolíček. Len s ňou, pilnou ženičkou, mohol na tejto maličičkej
+faričke vyjsť.
+
+Čo na jednej strane dobrotivé nebo na ňom premeškalo, to mu inde hojne
+vynahradilo. V jeho tichom šestnásťročnom manželstve a úradovaní
+požehnalo mu nebo osem detí. Rozmnožoval, ako sám žartovne hovorieval,
+pilne panslavizmus. Podľa prvého kalkulu pripadlo na každé dva roky
+jedno decko a z nich štyria chlapci a toľko dievčat. Kalkul teda celkom
+úhľadný. Vtedy ešte metrické rátačky neboli v úžitku, ale v obyčaji
+stáli tucty, a tak nebesá znížili počet detí, zotretím dvoch, na
+poltucta. Dve z ôsmich teda exekvovala smrť...
+
+Videli ste hniezdo? Videli ste sýkorky? Čo to robí, ako to pysky dvíha,
+keď hladuje, a hladuje jednostajne; čviriká, riedkym páperom operenou
+hlávkou trasie ako Bismarck, žltý nepomerne veľký pysk rozdrapuje tak
+dlho, kým sa mu nasýtenému gágoľ bokom nevydúva. Rodičia lietajú,
+zhľadúvajú, donášajú od rána do večera, aby tým nekonečným črevám
+zadosťučinili. --- Také hniezdo predstavuje šesť nedospelých detí, z
+ktorých najstaršie je trinásť, najmladšie trojročné. A starostlivý rodič
+má starostí nazvyš, aby dostatočne zaodiate a s uspokojeným žalúdkom
+denné kričiaky mohli zatíchnuť večerom v postieľke.
+
+Dobrák farár mal starosť i na svoje cirkevné deti. So žiaľom vidiac
+nemierne pitie, zaujal sa ich, založiac spolok miernosti. Žid sa
+rozhadzoval, patrón fary, súc väčším patrónom krčmy, ktorý predtým
+nebárs sa o farára staral, začal mu odvčuľ venovať pozornosť --- štípal
+ho, kde mohol, a podtínal mu nohy, a ľud, ten, čo všetko sľuboval,
+poslúchal pána a vďačne sa vracal ku sklenke, s ktorou sa i tak len
+naoko bol rozlúčil, a to s tým ľahším svedomím, že mu páni dali
+rozhrešenie. Narobil si farár prekážok, narobil si omrzenosti bez
+prospechu a sedel, dumal opustený, dumal o nevďačnosti ľudu a o jeho
+nespoľahlivosti.
+
+K rozličným galibám pridružilo sa najväčšie rodinné trápenie --- nemoc.
+Jeho najkrajší, najbystrejší chlapček, Gustík, prechorel na nohu.
+Príčinu jej vypátrať nemohli, ako to vôbec vyskúmať tvrdo ide,
+pravdepodobne, že bujný šuhajík dakde prchko a zle skočil. Buď tomu
+akokoľvek, zapálil sa mu kĺb a zozbieralo bedro. Nemoc bola dlhá, rana
+sa konečne zahojila, ale pohyblivosť zhybu bola tam. Noha v kolene
+zohnutá bola kratšia, a len hupkajúc hačkal obyčajne s barlou z miesta
+na miesto. Ale ako zase prišiel k úplnej sile tela, so svojimi pedálmi
+pobehal viac ako druhých zdravých nôh dva páry. Čo by ešte táto
+žubrienka bol povykonával, keby mu čert nebol podstrelil nohu? S krivou
+nohou vláčil sa po dachu a púšťal dolu kochom matke chrústov do kapusty,
+s krivou nohou driapal sa po smrekoch, dozerajúc hniezda splašeným
+vranám. Sama príroda snažila sa ho ukrátiť, a predsa rodičia mali s ním
+práce viac ako so všetkými druhými...
+
+I v pekle bývajú raz hody.
+
+V Tesnej zomrela vdova po strážmajstrovi. Za pohrebné obrady poručila
+farárovi jeden zecchino, výdobytok z bitky pri Cuztatone, a potom jeden
+žreb, takrečenú lombardku. Ako k žrebu nebohý strážmajster prišiel, to
+nám nie je známo. Zecchino bol na fare, obzvlášť deťmi, veľmi
+obdivovaný, a právom, pretože sa také predmety na fare veľmi nemleli. O
+hodnote toho peniaza si deti rozprávali báječné veci. Mysle všetkých
+boli pobúrené. Menšiu pozornosť venovali pekne tlačenému papieru. Ba i
+sám pán farár, ktorý predsa významnosť žrebov dobre poznal, nebárs sa
+ohliadal oň. Chudák, toľko ráz v nádejach sklamaný, nepomýšľal ani
+zďaleka na možnosť výhry. Horká jeho bryndza! Zlatý peniaz pošiel do
+starej tabačnice, žreb však chladnokrvne odhodil na stolík. Prizrel sa
+ešte naň a číslo žrebu mechanicky napísal na dvere. S tým bola vec
+dokončená.
+
+Už aký bol chudobný --- a predsa možno práve zato, horlivo miloval svoj
+národ --- utiahnutý od sveta, rád čítaval spisy a slovenské časopisy. I
+ten zecchino tašiel ako predplatok na „Národnie noviny".
+
+Tamvon chumelí. V chyžke je teplo. Pútec sedí, držiac vyhorenú fajku v
+rukách, a hľadí na klbko hrajúcich sa detí. Kostolník vstúpi, vytiahnuc
+z torby noviny donesené z mesta. Farár sa radostne chytí do nich. Napchá
+fajku, zakreše do bukového práchna a rozleje sa po stolici.
+
+„No, cit, deti! --- Čože nám donesú?"
+
+Od samého nápisu všetko, ale všetko čítaval pilne až do konca po
+zodpovedného redaktora. Nepremeškal prejsť cez kože, špiritus, slaninu,
+lekvár a nevynechal ani burzové správy. Kdežeby nie, však bol majiteľom
+žrebu. --- No ale nie preto, ale zo samej úctivosti k „Národným
+novinám".
+
+Ako sa takto očami po burze prechádza, trhne sa, zvrtne hlavou k dverám,
+zakvičí čudným hlasom, potom preskočiac troje v ceste mu stojacich detí,
+zastaví sa pred dvermi s hlavou ohnutou napred, lakťami nazad
+vystrčenými. Zase sa nahne k novinám, zase k dverám. Po chvíľke rozháňa
+rukami v povetrí ako kapelník. --- Deti sa stiahli dovedna ani neceknúc,
+len prestrašeným zrakom obdivujú čudné kvinty otcove.
+
+Farárovi úplne zutekala flegma. Ale nie je dosť na tom, začne päsťami po
+dverách bubnovať a kričať, čo mu hrdlo dalo: „Milka! Milka! Skoro,
+Milka!"
+
+Na toto telefonické volanie Milka zrazu priskočila, pričom neopatrný
+farár zle pochodil. Dvere sa otvárali dnu, a pretože do špiku preľaknutá
+pani farárka celou silou vrazila do nich, prudkým otvorením dvier
+vylepila velebnému pánovi takú facku po nose, že sa ledva vedel udržať
+na nohách a v prvom prekvapení svojej milej manželke dačím podobným
+odslúžiť sa zamýšľal.
+
+„Či mi i tá radosť musí byť pokalená?" pýta sa farár utierajúc si slzy,
+ale, pravda, nie slzy radosti.
+
+V prvom okamihu bol všeobecný zmätok. Milka drží si dlane vyvrátené pred
+očami. Deti však vidiac otca, ako si drgnutý nos drží, zo súcitu držia
+si všetky svoje nošťúriky.
+
+Prvá chopila sa slova pani farárka a zvyklým deminutívom začala kojiť
+rozladeného manžela: „Udrela som ťa, mužík môj, troštíčku po nošteku.
+--- Ale čože tak búchaš, dušička, čože tak voláš?"
+
+Miesto odpovede ukáže prstom na dvere, zavolajúc hlasom víťaza Suvorova
+pri Prage: „Hurrá, vyhrali sme!" A padne žene okolo krku. Neborkej Milke
+vrelo pod čepcom. Prirovnajúc číslo novín s číslom dvier, doloží: „Náš
+žreb číslo 639 vyhral dvetisíc zlatých!"
+
+„Božíčku drahý na výsosti, vďaka ti, pár zlatíkov sa nám zíde," vzdychne
+Milka. Deti sa ukladajú okolo rodičov a matka kropí ich hlávky slzami
+radosti.
+
+Mnohý by za tú cenu ani nezamdlieval, ani slzy neronil, ani by si za ňu
+dvermi nos nedal rozmlátiť. No chudobnému, na deti bohatému, na odporný
+osud zvyklému človeku je to výhra veľká, šťastie nevšedné; lebo núdzneho
+skorej uspokojí Šťastena ako hojnosťou oplývajúceho maznáka.
+
+Keď sa z prvého radostného otrasu, povedal by radostného strachu
+prebrali, počali rozjímať, gustírovať, čo s tými peniazmi začnú, ako ich
+vynaložiť; či kúpiť za ne dačo, či ich do svätomartinskej sporiteľne na
+úroky uložiť majú, o tom sa živo debatovalo a bezmála sa ani načisto
+neuzniesli. Deti kupovali bábiky, sukne, sánky, kone, na čo im matka
+odsekla, že samé prvé otcovi nový župan kúpiť načim.
+
+Medzitým napadlo otcovi pohľadať žreb.
+
+Hľadajú, hľadajú. Hľadajú popoludní, hľadajú večer... --- nič. Strach,
+smútok a noc bez sna. Hľadajú ráno, hľadajú, dulujú celý deň a zase len
+nič a nič. Vyšetrujú slúžku, skusujú deti, márne všetko, žreb bol a je
+stratený. Zármutok vzrastal a úder väčší, omnoho väčší, ako keby sa im
+radšej dvere raja neboli otvorili. Nebožiatka, lízali med cez sklo, a
+teraz hľadeli okolo seba smutní ako oparené myši!
+
+Filozof Pútec utieral si ústa. Utiahnuc sa do svojej myšej diery, dumal
+a cvičil sa ďalej v opovrhovaní svetskou mamonou. Je to vskutku veľmi
+vďačné štúdium, keď k ničomu prísť nemôžeme, ale ktoré vďačne zase
+opúšťame, keď sa nám začína dariť.
+
+Minulo dakoľko týždňov, ako žreb pošol za durákom. Všeobecný rozhovor o
+ňom, rozličné klebety v Tesnom pomaly sa tratili. V tichej rezignácii
+znášal Pútec i toto navštívenie. Na pamiatku, že mu neprajný osud
+pretiahol cez ústa zlatý motúz, ponechal čísla žrebu napísané na
+dverách. Smutne zazeral tu i tu on na ne a ony naň.
+
+Bolo to v sobotu. Farár chystal si kázeň. Aby mohol pokojne pracovať,
+vypovedal deti von. Čím menej nohou, tým viac jazykom pohybujúci Gustík
+pýtal sa na korepetíciu k pánu učiteľovi, k čomu otec veľmi vďačne
+privolil s tou prísnou vyhrážkou, aby sa neopovážil ísť sánkovať, čerta
+pokúšať a ešte i tú druhú kvaku dolámať. Pokorne, skrúšene sľubujúc
+všetko dobré, vytiahol sa z chyže.
+
+Otec Pútec pripáli si héničku, vyloží trudovú čiapku na parochňu --- za
+starosťami a horúčkou pošli mu vlasy --- a v kvetnastostrakavom, na
+rukávoch umastenom župane začne sypať prúdiace sa myšlienky na papier.
+Zavše zakrúti perom, to zase hľadí von oblokom, aby pod trudovou čiapkou
+kopiace sa trudoviny do poriadku poukladal. --- Od obloka hore vznáša sa
+strmý kopec, farská záhrada. Sneh sa ligoce, slncom osvietený, tuhou
+kôrou pokrytý. Chlpatá osuheľ mení farby báječného opálu. Oči sa mu
+točia po tej skvelej ploche, a po nej zbiera trhané myšlienky na kázeň.
+
+Obrábal Jóba. Vysvetľujúc jeho neresti, rozochvený púšťal chlpy dymu ako
+z maše. Ono vhod mu prišlo i toto; myšlienky mu hrali ako iskry vo
+vyhni. Zahryzol sa do trópov a zubami do čútorky. Lejú sa mu myšlienky
+po papieri ako rozpustené maslo. Skáče z predmetu na predmet, viaže,
+skladá, prirovnáva. Zájde k Eliášovi, horúcimi slovami líči, ako prorok
+Eliáš, ten prvý pasažier, čo sa parovozom k nebeskej stanici na
+extravlaku odviezol, bez popálenia do výsosti sa vznášal. Signál zaznie,
+oheň sa zasvieti, kolesá sa točia, on letí...
+
+Črnk, brnk! --- tresk!
+
+Ale nie Eliáš. --- Obločný rám s krížom i so všetkým činom na zemi,
+tably rozmrvené blyštia sa po izbe. Farár holohlavý, parochňa nad
+osudnými číslami na klinci visí. Fajka vyrazená kúri sa v kútiku a farár
+ťahá paru jalovou cievkou. Trudová čiapka krúti sa nad posteľou. Čo ale
+najkrajšie, na stolíku pravé na Eliášovi --- sánky a na sánkach Gustík,
+jemu za chrbtom, držiac sa ho okolo krku rukami, kamarát Ďurík od
+rechtorov.
+
+Chlapci, na smrť preľaknutí, sedia, sedia na stole ako skamenení. Ej,
+korepetícia im zle vypadla. Tam povyše záhrady závozom korepetovali,
+sánky zle kerované vyskočili zo závozu a myk strmým vŕškom záhradou
+dolu. Nuž a tak neviniatka proti svojej vôli vpálili oblokom otcovi na
+vizitu.
+
+Asi za otčenáš ani nedýchol, ani sa nepohol nikto. Predesení boli
+všetci...
+
+Prvý potom zavolal Pútec: „Chváľ každý duch Hospodina!"
+
+Na hrmot pribehla mať a za ňou celý familiárny prídavok.
+
+„Ach, Gustíček môj, nuž čože ty tu robkáš?" pýta sa, zalomiac rukami
+maminka.
+
+„Nuž, hľa --- prišiel som tatu nazrieť," zajachce sa Gustík.
+
+„Pekelná saňa ťa sem poslala," zahrmí nahnevaný otec.
+
+„Nie, tata, saňa, ale sane," doloží Gustík.
+
+„Aha, čo tata má na hlave," zavolá malá Zuzka.
+
+A vskutku. Miesto zmiznutej čiapky a parochne vysadla mu na hlavu
+otiepka. Gustíkom zo strechy v strachu a v letku rukou zachytená a
+odtrhnutá.
+
+Otec precitol. Vojna je vypovedaná. Ľavou rukou siaha za otiepkou,
+pravou za linonárom v tom pevnom predsavzatí, Gustíka a potom Ďuríka čo
+možno najrovnejšími čiarami vylinierovať.
+
+Zložiac strechu z hlavy, dvíha už linonár do výšky, aby ho tým silnejšie
+spustil na zhrbený chrbát koristi, keď práve v príhodný, či nepríhodný
+čas opýta sa Milka: „Mužík môj, aha, čo to tu visí za kartička na
+slamke?"
+
+Rozkrúti karôtku, visiacu na nitke z otiepky ako dáky vrkôčik z
+parochne, a obaja vykríknu: „Lombardka!"
+
+A zase všetci stoja ako prikutí, ústa otvorené, obraz prekvapenia.
+
+Keď dakoľko ráz jedno po druhom sliny preglgol, skrútiac hlavu proti
+dverám, Pútec, nadmier pohnutý, plačlivo zavolá:
+
+„To je on, to je on!" Padne Milke okolo krku a deti im okolo nôh. A
+podobalo sa to navlas skupenine pravidelne ustrojenej uhliarskej míle.
+
+Stratená ovca sa našla.
+
+Sánkovníci, ešte vždy v neistote, sedeli na sánkach na stole ako dáky
+umelý stolový nástavok.
+
+Hádalo sa sem---tam, akým divotvorným spôsobom mohol stratený žreb prísť
+na túto otiepku. Po vyšetrovaní Gustík konečne vyzval, že on akýsi
+papierik z tatovho stolíka zošúľal a mačke na chvost uviazal. Keď ju
+potom mechúrom naháňal, mačka v úzkostiach vybehla na padláš, skade sa
+vrátila bez papierika nazad.
+
+Po vypočutí rozprávky siahol Pútec znovu za linonárom, aby pokračoval v
+trahovaní tam, kde bol zastal. Aby tým smelšie udrel, zažmúril oči a ---
+hop! zachytí mu anjel ruku.
+
+„Otecko, čo robíš, roztrepeš si atramentárik!" --- Otvorí oči, a tých,
+ktorých mienil udrieť, tu už viac nebolo. Opustiac nebezpečné miesto,
+presťahovali sa na bezpečnejšie --- pod stôl. Ak nie anjel --- Milka,
+nuž by bol najkrajšie náradie celej izby, porcelánový atramentár,
+vianočný dar Milkin, na kúsky rozmrvil.
+
+„I tá radosť musí byť zakalená," zamrmle Pútec.
+
+Spod stola sa však ohlásili dva detské hlasy: „A odpusť nám naše viny,
+ako i my odpúšťame našim vinníkom."
+
+„Amen, synček," doloží matka.
+
+A otec im odpustil. Jóba nechal na pokoji. Eliáša vytiahol spod sánok.
+Ale žreb viac neodniesla mačka na chvoste.
+
+# Verenice, dajte si pozor na prsteň!
+
+Tihamír a Gizela ľúbili sa až do zjedenia.
+
+Nechže sa nikto na tom výraze a spôsobe milovania nezastavuje; keď sa do
+veci anatomickým okom kus nazrie, nenájde v tom nič podivného. Srdce je
+v blízkom susedstve žalúdka. Keď náruživosť srdca búši do suseda, vzbudí
+v ňom lebo hlad, lebo pokazí mu apetít. --- Známe nám je, že keď
+zaľúbení jeden na druhého zazerajú, potratia apetít. Známe nám i to, že
+sa ľudia v láske často --- hryzú, tak telesne. A to len preto, všetko
+preto, že srdce stojí so žalúdkom v tuhom a diplomatickom spojení.
+Žalúdok je minister dvoch záležitostí, premávky a financií; no srdce
+minister kultu a vojny.
+
+Poďme ďalej. Obyčajne počujeme, že keď pospolitý človek pri dákej
+havránke pokazil si svojho konzumenta, ukáže dobre prstom na žalúdok a
+povie pritom: Bolí ma proti srdcu. Tu teda vidno prirodzenú nutnosť ---
+žalúdok zaznávať srdcom.
+
+Ešte i zo života hmyzu, tej biednej chrobače, môžem udať sem sa
+vzťahujúci dôvod. Keď sa totižto zdvorilý pavúk korí pavúčici, potom
+utekať musí, lebo ináč od rozjarenej dámy svojho srdca dohonený, od
+samičky na tele značne slabší, bol by nemilosrdne a či milosrdne z lásky
+ňou zožraný. Teda i tu máte lásku na zjedenie.
+
+Tihamír teda a Gizela sa ľúbili do zjedenia a prekážku vo vyvedení im
+nekládol nikto. On bol samostatný a jej rodičia hľadeli na to s
+uspokojením. A tak by vec bola dokonaná a nenasledovala len svadba s
+nevyhnutnými mrváňmi.
+
+Ale neplnia sa naše žiadosti a želania tak vymerane a hladko. Ba áno,
+človek tak je usporiadaný, že mu lepšie chutí, keď sa k cieľu len s
+istými prekážkami dostane; preto často tam si ich narobí, kde ich niet,
+lebo namáhavou prácou vydobytý pôžitok nám lepšie chutí ako hotové, do
+úst padnuvšie ovocie. Slovom, naši zaľúbenci nemali prísť bez pokušenia
+do prístavu manželstva; aj im zachované bolo okamihnutie, kde prekážky
+do cesty stavané treba bolo preskakovať, a tak čuvy dráždiť sa im mali
+strojenými prekážkami. A toto práve má nám slúžiť za jadro tu
+rozprávaného deja.
+
+Celý svet pozostáva z dvoch čiastok, zo živlov priateľských a živlov
+nepriateľských. Každá životná vláskovina dýcha nebezpečenstvom, ale hneď
+pri ňom ukrýva lístok hojivý protiliek. A tak je to všade a vo všetkom.
+To tá večná borba stavania a ničenia.
+
+Včuľ už zostúpime z chmár neobmedzeného filozofovania na postať makavých
+dejov, pridružiac sa k predmetu zaľúbencov.
+
+Tihamír zamyslený stúpa hore schodmi do príbytku Pleškovcov, nádejných
+svokrovcov, k obedu „na lyžičku polievky a na pohár vína". V myšlienkach
+zahrúžený, s palicou pod pazuchou kráča tvárou nachýlený k zemi.
+
+Minulú noc sa mu snívalo, že u Pleškov v komíne horelo, nebo svietilo
+krvavou farbou a ohnivú smolu metalo mu na hlavu. „Oheň znamená hriech,
+krv znamená víno --- čo by to z toho malo byť?" takto rozjímal Tihamír
+po ostatný schod.
+
+„Ach, keby mi už len pánboh pomohol z tohoto horúceho pekla!" zavolá
+obyčajnou túžbou a príslovím slúžok vyplakaná dievka, stojac pri studni.
+Fiká a slzy lejú sa jej do válova, kde sa tratia bezosožne v prúde
+kalnej vody, pričom vechťom trie železný hrniec, len to tak škripí.
+
+„Čo tak zavýjaš, Dorka?" pýta sa Tihamír. Tu ešte len pozdvihol zástavu
+hotových sĺz, a celá potopa slanej vody rútila sa jej na vymastené
+končité čižmy. „Huj! moja česť, huj! Slečna a pani..." Zaviazlo jej v
+hrdle, viacej nemohla vybrblať, a vecheť tou chytrosťou, ako predtým
+misku, utieral teraz slzy.
+
+„Aha, už sa kochom iskriť začne," pomyslel si Tihamír. A pretože nie je
+dobre všetko vedieť, tým menej dobre do cudzích pôtok sa miešať, vošiel
+bez ďalšej poznámky do domu.
+
+Tvárička peknej belohlavej Gizelky zatiahnutá akoby tenkým dymom.
+Tihamírovi, ktorý sa do jej modrých očí dôkladne zvykol prizerať a
+všetky ich možné zmeny a stupne ohňa poznal ako po notách, teraz akési
+sitko pozoroval v zorniciach.
+
+Vidieť --- vidíme veľa; načo a prečo, to málo vieme. Tak málo vyskúmaš
+príčinu, prečo a načo bolo dnes dievča toho a včera takého rozmaru.
+Hlbinu mora skorej prenikneš než ženskú myseľ. Nepýtal sa preto ani on
+na príčinu svojho pozorovania, lež úslužnou poklonou pojal Gizelinu ruku
+a pritisol vrelo k ústam raz, dva razy. A tá ruka bola taká biela, taká
+mäkká, opakoval teda ešte a ešte; koľko ráz, to ani počítať nechceme.
+Aby to s tým väčším citom a bez roztržitosti a s väčšou pobožnosťou
+vykonať mohol, zatvoril oči. Ale keď konečne predsa otvoril pekné,
+čierne, dlho rezané oči --- nevidel na jej prste pri vere daný prsteň.
+
+„Gizela, kdeže je prsteň?" pýta sa zadivený Tihamír.
+
+„Neznám," odvetí rozpačite Gizela; „musel mi ho dakto ukradnúť."
+
+„Ale z prsta," ukáže prstom na čelo Tihamír, „z prsta! --- Odpusť, to je
+nezmysel!"
+
+„Oho, prosím kus viacej zdvorilosti," zakrúti ústami Gizela; „dakde
+ostal ležať, nuž..."
+
+„Nuž ho straka odniesla," skočí jej Tihamír do reči.
+
+„Inší byť nemohol mimo domácich sluhov."
+
+„Aha, teda preto tak rumádzgala Dora," poznamená Tihamír.
+
+„Ale sa nechce priznať. A kmínov okolo seba trpieť nemôžeme," doloží
+Gizela.
+
+Tihamírovo čelo sa zmraští. „Keď nemáš presvedčenie, nuž to hriech
+vernosť dakoho upodozrievať."
+
+„Múdry pán, keby sme mali presvedčenie, tak by nám, pravda, zbytočné
+bolo upodozrievanie."
+
+„No, akokoľvek, ľúba Gizela, ale také veci bárskde nechať ležať je ---
+nemúdre. Znak lásky zašantročiť neznamená šetrnosť a opatrnosť."
+
+„Ľúby Tihamír, nepýtam, nežiadam ja od teba upozornenia."
+
+„Neporiadna ženská pozbavuje sa hlavnej podmienky opatrnej gazdinej."
+
+„Ten chlap, čo už za mládenectva šomre, podáva istú podmienku budúceho
+tyrana," odsekla patelátovým hláskom zapýrená Gizela.
+
+Tihamír zaškúlil škaredo na ňu a videl --- že je ona i v hneve predsa
+krásna.
+
+Ostré narážky hrozili prejsť do nemilých výčitiek, ak nie do zvady a
+vypovedania vojny. Ale v pravý čas vstúpil do chyže anjel pokoja, malý
+Julko, s radostným heslom: „Aby sa páčilo k obedu!"
+
+Julko sa príchodu Tihamírovmu zo srdca tešil, lebo i jeho srdce ležalo v
+blízkosti žalúdka. Ihneď pritúlil a zavesil sa hosťovi na rameno,
+drobčiac popri ňom do jedálne. Vec sa takto mala: Julko sa v kuchyni
+presvedčil o tom, že hosťovi kvôli akési neobyčajné, pravdaže, nie
+každodenné jedlá pripravujú. A tak teda jeho pohostinná radosť mala
+trochu i bočný materiálny smer.
+
+Hádka mladých ľudí zamĺkla, ale zato so spusteným nosom, ako dvaja
+moriaci, opravdiví bismoriaci #POZ#50;(lat.) Dvojnásobní moriaci.
+(Súčasne slovná hra: bismoriak --- Bismarck.)#-POZ#, kráčali k stolu.
+
+Sadli okolo stola. Rodičia zhovorčiví, zvlášte otec snažil sa byť
+dobrého rozmaru. Mládež sa fúkala --- no ale tá sa poharká, aby mala
+príčinu k zmiereniu. Gizela píše vidličkou po tanieri, Tihamír číta,
+šúľajúc prstami chlieb, číta muchy na povale. Zavše vzdychol on, zavše
+vzdychla ona.
+
+„Blázniví zaľúbenci, prestaňte sa smoliť! Počkajte, len nech prídu žaby,
+koniec sentimentálnosti," pomyslí si čeľadný otec, šúcha dlane,
+usmievajúc sa pod bajúz. A vskutku --- prišli vyprážané žaby, jeho milá
+lahôdka. Prívetivá domová pani vyrúti hneď pol tucta úbohých, drieku
+pozbavených žiab na tanier nadurdeného Tihamíra. On mechanicky pichne
+vidličkou do močiarneho obyvateľa, zapleteného nohami po turecky, a
+strčí mu hnáty medzi zuby. Ale ďasa! Zuby mal síce krásne ako žabica,
+silné ako stupy, ale nedajbože žabu pohrýzť. Nemalo to ani mäsa, ani
+kostí; omáľať, krútiť, žuvať to mohol, ako chcel, prehltnúť to koniec
+koncov nemohol. Ba keď sa pri nezdarenom ďalšom pokuse počal kapricovať
+a ju násilne do žalúdka vtrepať sa rozohnal, mal sa zájsť, a žaba celá,
+ani ten salamander na ohni, neporušená musela von. Počas tejto hrdelnej
+práce svojho zaťa oddal sa do vyžiadanej lahôdky i domový pán. No ten
+chudák sa príliš ponáhľal a len úderom veľkou varechou po chrbte ---
+ktorý mu ešte dosť zavčasu, ako v takých prípadoch domáci liek, opatrná
+pani prilepila --- vrátila sa žaba a zachovaný bol pánovi dych. Oči mu
+už stáli dupkom.
+
+Všetci stolujúci dali sa teraz do prísneho rozoberania záhadnej otázky,
+k čomu --- cieľom dôkladnejšieho vyšetrenia --- bola povolaná pred súd i
+rozžialená Dorka. Stála tu sťa Johanna, panna z Orleansu.
+
+Čudne veru sa vec vysvetlila, divný bol výsledok vyšetrovania. Dorke sa
+pred slzavými očami menilo, videla len ako cez sito, a tu nešťastnou
+náhodou miesto žiab pochytila a vrhla do roztrepaných vajcových žĺtkov,
+pováľala po rožkových omrvinkách a tak konečne hodila do horúcej masti a
+vypražila --- takrečené papilotne, bavlnou a drôtom plnené remenné
+šúľky, okolo ktorých si Gizela vlasy okrúcala, aby sa stali kučeravými.
+
+Kým zo strany pána Plešku a Tihamíra trvalo striedavé odpľúvanie, zo
+strany panej nasledovala hrmavica, na čo nešťastná Dorka odpovedala
+slzovým lejakom.
+
+Tihamíra i Plešku škrabalo v hrtane. A tohoto posledného bolel i chrbát,
+lebo jeho útlocitná rebrinka, dokonale použijúc vhodnú príležitosť,
+prilepila mu varechou nezábudku.
+
+Tihamír myslel na ohnivý sen.
+
+Sklamaná nádej žabacej hostiny a nadobudnutý buchnát zotrel ružový
+nádych pána otcovho rozmaru. Nie div, že sa rozhovor zase dotkol
+strateného prsteňa. Besedovanie stalo sa živým, všetci brali na ňom
+účasť a nadobúdalo čím diaľ tým viac pichľavosti.
+
+Tihamírom opakovane pripomenutá poznámka, že z neopatrnej ženskej dobrá
+hospodárka stať sa nemôže, rozbabralo celú rodinu, najmä otca, a keby
+nebol mal na zreteli zvyk dobrej spoločnosti a pravidlá pohostinstva,
+bol by býval vstave zväzok s Tihamírom naskutku pretrhnúť. Ale tento
+musel sa premáhať, aby pichľavú spoločnosť dúškom neopustil.
+
+Takto stáli veci, keď Dorka --- druhý to anjel, anjel trúchliaci ---
+práve dobehla s pečeným kapúnom. Príjemný zápach a škvrčanie masti
+ohlušili rozdráždené dohovorky.
+
+Medzitým čo Dorka premieňala taniere, vstal pán Pleško, naostril istou
+prevahou majstra pitvací nôž a chytil sa do rozoberania pečienky.
+
+Bol v tom chýrny znalec, preto každý pozeral s uznalosťou na jeho
+vypočítané, umele vedené pohyby noža. Najprv vylúštil z plecových
+záhybov pečienkou a zúzikom pod pazuchami obťažené krídla, zatým
+nasledovali bônce a ďalej stínanie hlavy. Ako tak v práci smelým machom
+odvrchu dolu oddelí prsnú kosť od chrbtovej, zablysne sa tam, kde býva
+umiestený majorán --- zlatý, diamantom opatrený prsteň. Všetci sa
+zodvihnú, vyvalia oči na neobyčajný zjav.
+
+„Prsteň Gizelin!" vykríkne pán otec, s vážnou tvárou vytiahne ho
+vidličkou a strčí Gizele ešte horúci na prst.
+
+Tihamír bol ohromený. Videl Boskovo chytráctvo, videl Hermanove
+čarodejstvá, videl fígle všakových šaškárov, ale stratený prsteň pod
+kapúnovým trtáčom, to nie, to ešte nevidel. Už začal veriť, že ukradnutý
+prsteň podhodila nastrašená Dorka.
+
+No ale vec sa vysvetlila, keď mu pani svokra začala hlavu bez mydla
+umývať.
+
+Dobre poskladanou rečou, tekúcou výrečnosťou --- cnosť to, ktorou ženské
+obyčajne dobre vládzu --- urodzená dcérina maminka, tak a tak, takto a
+takto začala Tihamírovi dohovárať do duše, ako náramne sa mýlil, keď čo
+len na okamih pochyboval o hospodárskom povolaní a schopnostiach
+Gizelkiných: no predsa tento pečený kapún je živým svedkom, že ona má
+tak vôľu ako i povolanie na vedenie hospodárstva. A s pátosom doložila
+rozbabraná maminka: „A tu, hľa, tento prsteň stratila pri prehliadke
+sliepok, a túto prácu predsa koná každá opatrná gazdiná."
+
+Satisfakcia to bola úplná a Gizelka prijala ju s malým rumencom.
+
+Dorka, ktorej sa na lícach ligotali pásy uschnutých sĺz, ako keď sa po
+šaláte slimák plazil, má tiež zadosťučinenie, že sa jej podrývaná
+nevinnosť dokázala tak podivným spôsobom.
+
+Zahanbený Tihamír pokorne načúval slová múdrosti, ako ľudia, ktorých bez
+dáždnika v poli prekvapí hodná leja:načúvajúc mletie skúsenej panej,
+privykal tak praxi budúceho stavu manželského.
+
+Už sám počal veriť, že Gizeline hospodárske schopnosti krivo posudzoval;
+v mysli robil si i výčitky. Ale tu zase čert mu šuškal do ucha
+pochybnosť, či dobrá gazdiná i --- pri kapúnoch vykonáva spomenutú
+prehliadku.
+
+Ale tu premôžuc sa, potešil sa tým, že však, keď sa vydá, priučí sa i
+tomu.
+
+A v nekalenom rozmare ďalej si štrngali k mieru.
+
+# Múdra rada
+
+Na švihlej lodi Tachys plavila sa okrem iných mnohých cestovateľov
+krásna a bohatá sirota Matilda. Všetkým cestovateľom sa páčila, ale
+pätorí mladí šuhajci zaľúbili sa do nej až po uši.
+
+Nemajúc nikoho na tom šírom mori, ku komu by sa mohla utiecť, obrátila
+sa, ináč tiež zápalistej látky dievča, k statočnému, prísnemu zvetralému
+kapitánovi lode.
+
+„Pane, čo tu robiť? Všetci piati ma ľúbia, všetkých však nemôžem, koho
+teda z nich voliť?"
+
+Kapitán už veľa búrok prešiel, vyhol už veľa smrtonosným zápoliam,
+prebŕdol cez končité klisúry, ale táto otázka väčšmi ho pomútila ako
+všetky tamtie prekážky.
+
+Hľadel na dievča, akoby mu zrazu ľadový balvan Baffinbajský pred nosom
+bol zastal.
+
+„Viete čo, slečna? Tak akoby náhodou pri dobrej príležitosti padnite z
+paluby do mora. Ja budem mať starosť, že sa vám nestane nič. Uvidíte, čo
+si počnú vaši dvoritelia."
+
+Dobre. Ticho bolo, pekne bolo a vodná hladina bola hladká.
+
+Matilda, nešťastná Matilda, stojac na palube, pretiahla svoju švihlú
+postavu priďaleko von cez operadlo. Čľump! --- už bola tam dolu. Ale
+čľump! Za ňou štyria šuhajci, ako žaby do mláky sa metali. Chytrí
+mornári nalovili plný člnok mládeže, mokrej ako pudel.
+
+Náhle preoblečená Matilda spechá ku kapitánovi.
+
+„Pane, koho vziať? Štyria skočili za mnou."
+
+„Toho, čo neskočil," kapitán pokojne, „ten jediný z nich má rozum."
+
+Matilda múdru radu skúseného kapitána poslúchla. A dobre tak.
+
+# Vianoce
+
+Vianoce boli už toľko ráz opísané, že veru za zbytočné pokladám k tomu
+dačo zo svojej hlavy doložiť.
+
+Ale je vec istá, že Vianoce vzbudzujú u nás zvláštne vznešené a radostné
+city. Či sa to má pripísať ich sviatočnej povahe, či nastávajúcemu
+návratu slnca a prekonaniu dlhých večerov, a či všetkému tomu spolu a
+ešte snáď i inému dačomu, neznám. Na mládež účinkujú nadovšetko makové
+opekance, betlehem, požehnaný stromček, prelievanie olova atď.
+
+My, ktorí už nedáme za opekance ani fajku tabaku, my, ktorým vianočný
+stromček už nerastie, my sa tešíme aspoň rozpomienkou na prežité časy,
+na Luciu, Mikuláša, Krampusa, vianočný stromček, betlehem a všetky
+ostatné vianočné radosti...
+
+My sme boli štyria bratia. Traja sme v banskobystrických školách
+vedomosti plným črpákom načierali a ten štvrtý, najstarší, bol komorským
+úradníkom pri železnom závode v Moštenici.
+
+Náš otec --- pánboh mu daj večnú radosť --- katolík tvrdý, zachovával
+pôsty veľmi prísne. V Štedrý deň dostali sme ráno po tanieriku
+špitálskej, to jest zapraženej polievky, a to takej riedkej, že by i
+najprísnejší teológ s ňou bol mohol krstiť. A to malo do večera
+vystačiť. Na tieto riedke raňajky dostali sme dvaja bratia otcovský
+rozkaz hneď a hneď stúpať do Moštenice a najstaršieho brata povolať k
+nám na Štedrý večer.
+
+A --- „Ráno, ráno, ránečko, už vychodí slniečko" --- my „valaškou
+opásaní a vreckom podopretí", vybrali sme sa na cestu.
+
+V noci predtým slzilo a nato pripadol mráz. Všetky byliny boli obrastené
+bielymi fúzmi a klzko bolo krkolomne. Mojej mladej fantázii predstavoval
+sa svet ako hnilé, splesnené jablko. --- Kráčali sme rezko, tri kroky
+napred a dva nazad. Ešte predsa pokrok. Prejdúc Ľupču, odrazili sme sa
+pod zámkom, nad kotlárovým domom, chodníkom cez malú dolinku. Biela
+Panna Mária, zmeravená, obrátila sa nám chrbtom. Hradská, mlyn a zápole
+vyše neho, kde pred päťdesiatimi rokmi čipkára stínali, ostali vpravo.
+
+Ukrátili sme si chodníkom cestu a dobrú štvrťhodinu, stúpajúc po samých
+peniažkoch, lenže tie peniažky už vyšli z obehu a skameneli. Pod nohami
+nám vŕzgalo, ale nám vŕzgalo i v žalúdkoch. Tie sa nám opálali ako
+prázdne kreptúchy#POZ#51;(nem.) Obročnice.#-POZ#, ale v predtuche
+bryndzových halušiek znášali sme s pokornou mysľou všetky neresti...
+
+Po trojhodinovej prechádzke dotiahli sme do Moštenice. Už sme reku tu v
+prístave egyptských hrncov. Odpľuli sme si. Ale „Stůj, noho"! Brata už
+nebolo doma. Dom zamknutý. Búchame, klopeme, voláme, konečne bľačíme;
+ale len taká prázdna ozvena ako v našom žalúdku --- a viacej nič. Jedna
+mimoidúca ženička povedala nám plecom mrdnúc, že náš brat pred
+polhodinou sa viezol do Banskej Bystrice. No, tie naše tváre! Chybili
+sme sa, keď sme išli chodníkom.
+
+Jaj, ale sme sa škrabali! Škrabali i tam, kde nás nehrýzlo; ale hrýzlo
+nás, a to najväčšmi pod srdcom. Srdce katolícke, ale žalúdok pohan. ---
+Opravdivý to lev revúci, hľadajúci, koho by zožral.
+
+Čo tu robiť? Pozreli sme sa ešte raz na vráta --- a s ovisnutým nosom
+vrátili sme sa naspäť.
+
+Morení myšlienkami o sklamaných ľudských nádejach ťapkali sme ďalej
+podľa taktu, ako nám práve celá Piťova banda v žalúdku trávnice
+vyhúdala. Tu sa našim zadiveným očiam zrazu predstavia zázraky Starého
+zákona: pred nami stojí ohnivý stĺp, ktorý viedol Židov cez púšť. Ťaháme
+sa za ním, a len keď sme sa k nemu už celkom priblížili, šípili sme, že
+ten ohnivý stĺp je --- šíp. Šípky viseli na ňom, červené ako koraly.
+
+Požiadavka prírody nás nútila, a my pustili sme sa mlčky do chrúmania.
+Ani možné nepríjemné následky pichľavého hečepeču nás v tom nemýlili. A
+keď sme na pochúťku tam hneď v blízkom susedstve vtrepali do seba ešte
+po dve hrste srieňomodrých tŕnok, pohli sme sa ďalej.
+
+Pre ukrátenie chvíle utierali sme si cestou rukávmi ústa.
+
+Už bolo pod samý večer, keď sme vypitvaní ako načim došli domov. Hľadaný
+brat, brat, s ktorým sme sa tak nešťastne minuli, už pohodlne sedel za
+stolom. Matka ako na postriežke čupela pred pecou, vsádzajúc dnu a
+vysadzujúc von lopárom koláče. Zápach, vychádzajúci čeľusťami, znamenite
+dorážal na naše, priateľskou prívetivosťou mu otvorené nosové dierky.
+
+Slúžka tieto teplé a voňavé poklady odnášala do chyže a ukladala ich do
+veľkej starootcovskej truhly. Jej spodok najsamprv vyštrkovala suchými
+opekancami, potom obmúrala koldokola steny tvarožníkmi a lekvárnikmi; do
+uhlov, ako spojivo, vkladala makovníky. Okrem toho nahádzaný bol, ako to
+už pri takých staviskách býva, i všakový iný staviteľský materiál.
+
+Na túto zaujímavú prácu obrátili sme my celú našu pozornosť, pričom nám
+slinky cídlikom tiekli. Bol vám to aj klasický súmer!
+
+Keď už boli múry po väzbu vytiahnuté a slúžku matka odvolala, nahovoria
+ma moji páni bratia, okrem najstaršieho, aby som vraj chytro skočil do
+toho pekného kaštieľa.
+
+Áno! --- No ale, pravda, čert nespí, a to ani na Vianoce.
+
+Bez rozvahy vyteperím sa na truhlu a natešený, usmiaty, so slovami
+„Hopsa puška, do teplúška" --- spustím sa do milého koláčového kaštieľa.
+
+Tresk! --- Vrchnák sa spustí, spinok skočí do zámku a --- zachlopí ma.
+
+Od strachu stratil som v prvom okamihu koncepty. Tma, dusné povetrie,
+zápach, ale nadovšetko horúce koláče odspodku mi ohrievali vošky, a k
+tomu mi ešte myseľ zaletela pred hrozivú matkinu tvár. --- Nebesá! ---
+Tu začnem strašne hurtovať. Kričím, jačím; trepem ako šialený a hádžem
+sa ako jašterica v ohni.
+
+Pánov bratov popadne strach; chcú mi chytro otvoriť --- tu nieto kľúča.
+
+V ten čas hýbanie sa stolov ešte nebolo v móde, ale truhla sa predsa
+hýbala a motala po chyži ako živá. Zbehnú sa otec, matka, najstarší brat
+a slúžka. Tí trepú zvonku, ja trepem zdnuka. Ach, veru mi tak bolo ako
+svätému Laurincovi na roštoch. Pekelná horúčosť mi spodok pripekala,
+šípky vo mne mohli sa bezpečne uvariť na lekvár.
+
+Počujem čapnúť --- nazdal som sa, že to kľúč v zámku, ale horkýže kľúč
+--- boli to obratné dva oflinky, ktoré sa mojim na smrť preľaknutým
+pánom bratom dostali od našej dobrej matky na odmenu.
+
+Naveľa---naveľa a po dlhých trapiech, keď som na lekvárnikoch už takmer
+dušu vypustil, našli kľúč a otvorili truhlu, z ktorej som vystúpil,
+vyzváraný ako Venuša z mora.
+
+Ale ako som vyzeral? Bolaže by to za fotografia! Okolo krku držal ma
+objatý tvarožník, po nohaviciach a po lajblíku na prst lekváru, na tom
+nalepené opekance. Vyzeral som ako v najväčších sypaniciach. Tvár som
+mal obsypanú makom a na nose mi sedeli tri hrozienka.
+
+Ako ma v tejto podobe videli vyťahovať sa von z truhly, preľakli sa
+všetci ako pred čertom. Slúžka sa zreteľne prežehnávala. Môj lekvárový
+zovňajšok bol môj pas, môj salvus conductus#POZ#52;(lat.) Ochranný
+list#-POZ#; netrúfal sa ma nikto dotknúť. A s tým kráľovským heslom
+„Quis audet extendere manum contra sanguinem regalis prosapiei" (po
+slovensky: Kto sa opováži ruku pozdvihnúť proti krvi kráľovského
+potomstva), prešiel som hrdý a nedotknutý popod matkine, k bubnovaniu po
+mojom chrbte nachystané päste.
+
+Staratil som sa v bočnej izbe za dverami. Moji dvaja sprisahanci za
+mnou, i jeden i druhý s pirohom na tvári, ale bez lekváru a bez tvarohu,
+len tak, ako im práve matka na cestu namazala suchou rukou.
+
+Po toľkých trapiech nasledovalo lízanie, ratujúc z koristi, čo sa
+ratovať dalo. Starostliví bratia mi lekvár z puliderov zoškrabovali, kým
+som sa ja častoval tým, čo som na krku a nose vyniesol. --- No, či to
+nie sladké rozpomienky?
+
+# Po siedme: Nepokradneš!
+
+Tak mu treba, maškrtníkovi!
+
+Obývali sme domček za mestom. Pri dome rozliehala sa priestranná,
+ovocným stromovím hodne vysadená záhrada. To bol môj svet. V lete som sa
+škrabal po stromoch, v zime som sa sánkoval a kĺzal; to bola vtedy naša
+gymnastika, v škole sme jej ešte nemali, len keď sme sa tu i tu, tak ex
+privata diligentia medzi sebou dokonale vyvaľkali.
+
+Detí nás bolo, a s tým i rodičovskej starosti, dosť, o čo som ja však
+málo dbal, žijúc nedbale ako vrabec v humne. Starostlivá matka, podobná
+výtoky znášavším myšiam, nakopila z jesene potravné zásoby pre nás
+žráčikov --- ako nás láskavo nazývať ráčila --- väčším dielom z veľkej
+záhrady. Poschovávala ich do skríň, bdejúc nad tými pokladmi ako uhorskí
+strážnici nad klenotmi svätého Štefana kráľa so slovenským nápisom.
+
+Vo dvore stála miestnosť, takrečená voziareň. Táto voziareň bola skladom
+potravných látok. Na jednom boku stáli „štoky" s hrachom, šošovicou,
+gerštňou, bôbom; na druhom boku stáli priečiny s lahôdkami: sušené
+slivy, plnené mandolami a bez mandôl, lieskovce, vlašské orechy,
+hruškové a jablčné sušienky, sušené čerešne a višne. Mimo toho stál
+jeden sud s lekvárom a druhý s múkou, oba pokryté ľahkými drevenými
+vrchnákmi.
+
+Keď ma matka vystrojeného s vahanom, do týchto tajných zámkom a záporom
+opatrených miestností so sebou pojala, tu mi veru pohľadom na tie slasti
+života jazyk v slinkách plával a túha po zakázanom ovocí mi srdcom
+preletúvala tak, že s Cicerom povedať môžem: „Vidi enim vidi, et illum
+hausi dolorem, vel acerbissimum in vitá..."#POZ#53;(lat.) Videl som
+totiž, videl, a cítil som ten bôľ, zaiste najtrpkejší v živote#-POZ# A
+to preto, že som sa do toho tak po chuti pustiť nemohol.
+
+Čert ma už držal za šticu, šeptajúc mi do ucha. No, práve tak ako
+nebožkej Eve, hľa. Jedna myšlienka tvorila druhú, z tej sa vyliahli
+idey, tie splodili plány a tie sa stali skutkom „et ex verbo caro facta
+est"#POZ#54;(lat.) A slovo sa stalo telom (novozákonný citát)#-POZ#, a
+keď nie čaro, nuž tedy vlašské orechy a slivky.
+
+Dobrá vec hodná je obetí; keď myšlienka obživne, šuhaj k činu letí. Tak
+sa stalo. Nad komorou, čiže voziarňou, ležalo seno, od toho sena
+rochdálsko---pionierskou prácou a vytrvanlivosťou vyhĺbil som „štôlňu"
+tak dlhú a širokú, aby som pohodlne mohol dosku na povale odmyknúť.
+Presvedčiac sa, že je môj podnik vydarený, uložiac dosku na miesto,
+vypotený, zaprášený, vytiahol som sa ako jazvec na bruchu z diery von.
+Založiac jej ústie senom až na nepoznanie, zišiel som nádejeplný dolu,
+tešiac sa netrpezlivo budúcemu dňu.
+
+Sny som mal sladké, kúpal som sa v --- lekvári. Na druhý deň, keď matka
+--- pánboh jej daj radosť večnú --- pri otvorenom ohnisku s vysoko
+vytiahnutými obočiami obed chystajúc, pod bielou rajnicou zásterkou žiar
+rozfukovala, pobral som sa do tej mojej „štôlne" fárať, aby som dáke
+jarce mohol „vyfedrovať". Darilo sa. Odmyknúc dosku, spustil som sa do
+voziarne. Zlezúc po rázštepoch v kúte opretých, stúpil som na lekvárový
+a múčny sud, no a stade na zem pred ovocný súsek. --- Keď som jeden
+vačok slivami a druhý vlašskými orechmi do rozpuknutia napeľhal,
+navrátil som sa zase širší ako dlhší tou istou čiarou nazad na výšku
+vyšších vedomých cieľov. Horšie to síce išlo hore ako dolu, nuž ale
+predsa len išlo.
+
+Celá mnou uctená škola sa mala dobre, ale nadovšetko môj „šedátor", toto
+vtedajšie školské porotníctvo. Kým sa mi darilo, darilo sa i škole
+dobre, a keď som dakedy i kus lekváru v škarnicli doniesol, mala celá
+trieda papuľu zatrepanú ako kolomažnicu.
+
+Ale tak dlho chodí krčah k vode, kým sa nezabije. Konečne bedlivé oko
+pani matkino pobadalo, že tie orechy et comp. akosi fatálne v tých
+priečinkoch zoschýnajú, čo zapríčinilo v dome veľký ruch.
+
+Hľadania, dopytovania, vyšetrovania na všetky strany. Najväčšmi
+rozhorlila srdce matkino tá okolnosť, že jedným dňom po prchkom daždi
+hrnúca sa voda medzi strechovým žlebom množstvo orechových škrupín na
+dvor dolu zviezla. Mimochodom rečeno, žleb na krove bola moja oficína,
+kde som pokojne orechy drvil a trovil, nemysliac pritom, pravda, že
+takýmto divným spôsobom bude moja privátna pasia zradená. Nuž ale
+„nichts ist so fein gesponnen, was nicht käme auf di Sonnen".
+#POZ#55;(nem.) Nič je nie tak jemne upradené, aby neprišlo na
+svetlo#-POZ# --- In prima linea #POZ#56;(lat.) V prvom rade,
+predovšetkým#-POZ# prišla do kriminálneho podozrenia čeľaď. Matka svoje
+zdravé pľúca a výtečný rečnícky orgán, navzdor prvému anglickému
+peerovi, pol druhej hodiny pustila do pohybu. Darmo sa slúžky božili,
+ohrádzali. Vpadnutý barometer v ovocných priečinkoch a kričiace škrupiny
+na dvore boli fakty, ktoré nedali sa ničím odškriepiť. A s vydvihnutým
+corpus jurisom #POZ#57;(lat.) Zákonníkom#-POZ#, to jest kutáčom v pravej
+ruke, vyhrážala sa, že ak vinného nevyvolajú, že bude prinútená riečicu
+krútiť. To, prisámjánu, nebol špás, išlo do živého. A ja pritom všetkom
+stál som ako svätý Alojz. Či to nie hrúza...?
+
+No ale na takéto veci nemôže sa pánboh dlho dívať. Ja som to sám cítil,
+že to už prasknúť musí, a preto som si umienil, raz ešte, ostatný raz,
+ale dokonalý atak urobiť na ten nešťastný „Studentenfutter" #POZ#58;(nem
+) Študentská strava#-POZ#.
+
+Medzi mojou skromnou toaletou nachodili sa i jedny otcove, ponosené, mne
+prisúdené nohavice. Pristrojila ich na moju postavu matka jednoducho
+tým, že od spodku z nich asi na dve piade odstrihla. Ale šírosť a druhé
+rozmery po tlstom otcovi zostali pôvodné. Vyzeral som ako Srbín,
+stratiac sa v nich sťaby myš v prázdnom kostole. K môjmu dnešnému účelu
+volil som si tieto nohavice. Opášem sa remeňom, nohavice strčím za sáry,
+a poď fárať na raziu...
+
+Nepchal som proviant ako obyčajne do vačkov, ale na tento čas vsýpal som
+materiál prosto do širokých nohavíc, kde sa --- od sár hore plniac ---
+ozaj hodne napratalo.
+
+Ako tak dve tretiny pulidier až po bedrá rozličnou ovocinou boli
+naplnené, počuť v zámke kľúčik hrkať. Hu---hú! Krv mi mrzne v žilách,
+dych mi sekne. Hlavu vtiahnem medzi plecia, ruky, prsty vystriem do
+vetra. Ratuj sa! --- Ako mornár po povrazoch švihám hore po rázštepoch.
+Vôľa je ľahká, lež telo je ťažké. Strach vraj dodáva sily. --- Hm,
+možno, ale pomúti i rozum. Vráta sa otvárajú --- len ešte okamih ---
+hore sa --- už som v škáre, ale čert... prihrubý som, nemôžem ďalej.
+Ach, bože, keby bol nitkou. Samiel, pomáhaj! Vrchná čiastka môjho
+biedneho „ja" čnie do raja, od pása dolu bombáľam v horúcom pekle. Na
+môj dušu, dešperátne položenie! Visím medzi nebom a zemou, ba radšej
+peklom. Napínam sily bez prospechu, trpím mučenie ako Laokoón hadmi
+mliaždený, a prečo? Preto, že oriešky a slivky rád vidím, a „Ist denn
+Liebe ein Verbrechen?" #POZ#59;(nem.) Čo je láska zločinom?#-POZ# ...
+Ach, či by bol rád rezignoval na svoje vysoké postavenie.
+
+Tak som ja myslel. Inakšie však matka. Netrvalo to dlho, ba veď ani dlho
+trvať nemohlo, a s náramným krikom prikvapila rozhorlená maminka na
+bojište, posielajúc mi hore všakové vinše, akých som si ja nikdy
+naprial. A ja som sa holengal ako srdce prvého zvona na svete, Ivana
+Veľkého. Po krátkom rečníckom adagio pochytí maminka rázštep a začne
+ráňať. Predmetom toho ráňania, rozumie sa, bol som ja, „Poznať vraj
+strom po ovocí", a prilepila mi pár bastonádov na podošvy snáď v
+predtuche, že ony po tridsiatich rokoch budú kráčať po bastonádovej
+vlasti. Táto ovácia dotkla sa ma čertovsky nemilo, a pod dobrými
+podmienkami bol by i kapituloval. Ale nebolo času. S veľkým chvatom
+začala zatým zadnú štvrtku mojej úzkostlivej bytosti polemizovať. Drvila
+mi orechy, že hotové jadrá z nohavíc von fŕkali a lekvár v nich sa
+rozlieval. A keď ma už s neunavenou pilnosťou na hotový „Klötzenbrod"
+#POZ#60;(nem.) Biskupský chlebíček#-POZ# namlátila, a ja predsa ako
+hnilá hruška dolu nepadol, chytila sa rozumu a druhého trojačistého
+rázštepu --- a široké, mnou nevyplnené, na zadnej čiastke v mnohých
+záhyboch visiace nohavice do rázštepu zakrútiac a vŕtajúc, zachytila ma
+a jedným mykom dolu strhla. Nohavice pod remeňom pukli a ja ako Jupiter
+Pluvius #POZ#61;(lat.) Jupiter dážďonosný#-POZ# v daždi orechoslivkovom
+letím s veľkým hrmotom dolu, do náručia matkinho --- ach, nie, prelomiac
+dienca do sudov, jednou nohou do lekváru a druhou do múky.
+
+Servus! --- Keď sa víla chce stať neviditeľnou, nuž zaobalí sa do
+oblakov. I okolo mňa vyfúkol oblak a moja dobrotivá matka zmizla mi na
+štvrťhodinku z očú. A bol by túto dobrotivú náhodu na svoju spásu
+upotrebil a uvrzol, ale noha v lekvári ako prikutá; sedel som ako glezg
+na lepe.
+
+Už, reku, poručeno pánubohu, a to druhé na kostol, ako bude, tak bude.
+Keď sa oblak rozišiel a zase sa vyjasnilo, videl som s hrúzou, že som za
+ten krátky čas celý ošedivel... od strachu? Nie, od múky. A divno, ešte
+i podnes nosím zrejmé toho znaky. Potom pristúpila Nemesis, moja
+maminka, a chytiac ma za obe uši, vytiahla ma z omáčky --- len mi tak v
+hlave pukalo.
+
+Potom ma za šticu vyviedla na dvor, ukazujúc čeľadi prstom: „Tu vidíte
+čierno na bielom, kto bol kmínom suchého ovocia." Kázala čeľadi, aby mi
+hrachovými palicami múku zo šiat --- ktorým som naturálnym rámom bol ---
+vyklopali, čo títo i s veľkou ochotou učinili.
+
+Nikdy viac som to neurobil --- ani neurobím.
+
+# Tri krále
+
+Roku 1862 na Tri krále bola zima trojnásobná. Obloha jasná, len čo práve
+zapadlo slnko za končité lesy a už vystrčil mesiac svoj ostrý rožok
+spoza kopca. Voda, od spodku mrznúc, kúrila sa dolinou --- znak toho, že
+od obkľučujúceho ju vzduchu je predsa ešte teplejšia. Komínový dym
+vznášal sa rovno do neba ako Ábelova obeť. Kyprý sneh vŕzgal pod nohami
+ako hýľ, keď si okolo Vianoc nôtiť započína.
+
+Stiahnuc hlavu medzi plecia, vrhol som sa sám do seba a zimou hnaný
+krájal som nahnutým temenom ostré povetrie, pričom mi na fúzoch a brade
+celé snežníky namrzli.
+
+V ústrety blížili sa mi tri osoby. Či to, reku, azda traja králi? ---
+Prvá kráčala dosť voľne, druhá už z utlačeného chodníka vyhybovala,
+tretia, ostatná, hadila sa sem---tam bez určitého smeru.
+
+„Hó!" Zastavíme sa. --- Prvý bol pán farár s kučmou na hlave, veľkou sťa
+riečica; ťažkou vlčúrou na pleciach zakuklený, bol ako bobák a
+naobliekaný ako cibuľa. Za ním nasledoval pán rechtor a za tým
+kostolník. Vracali sa práve z koledy.
+
+Nasledovalo objatie s pánom farárom a priateľský bozk. Ale čujte,
+nemohli sme sa rozlúčiť. Brada a fúzy primrzli mi o pána farára. Či to
+nie posmech, pri vrelom bozku pomrznúť? Ťaháme sa sem, ťaháme sa tam,
+krútime dookola ako kávový mlynček, ale to už raz nešlo bez pomoci.
+Obávajúc sa osudu siamskych bratov, volali sme ex profundis
+#POZ#62;(lat.) Z hlbín#-POZ# o pomoc. Pristúpili rechtor s kostolníkom
+na succurs#POZ#63;(z lat.) Na pomoc#-POZ#. Pľuli si do dlane, čo ---
+mimochodom rečeno --- i na nás začiahlo, a chceli nás --- ale nie na
+kusy --- roztrhať. No nič, na mojich fúzoch si mohol s korčuľami behať.
+Ale potom pohnú rozumom a dajú sa do odmrazovania. Dýchajú na nás z
+hlbín otrúb --- či mám povedať útrob svojich. Hriate pálené vyvinovalo
+teplé divy. Para sa valila z nich ako ex faucibus orci #POZ#64;(lat.) Z
+pažeráka pekla#-POZ#. Dýchali, fúkali chudiatka na nás blahodarne, ako
+ten osol a vôl na to prechladnuté pacholiatko v jasličkách. Ľady sa
+pustili --- prasklo, a my sme boli rozsobášení. Ja som letel do jednej,
+pán farár do druhej priekopy. Chĺpok mojich fúzov, veľký asi medzi tri
+prsty, odniesol pán farár na nose.
+
+„Nuž, a kamže ste sa rozohnali?" pýta sa ma zas na nohy postavený pán
+farár.
+
+„Tuto idem, hľa, do K. k Janovi Komovie. Zaviazol mu koštiaľ zo šunky v
+hrtane, idem mu ho potisnúť."
+
+„No, tam sa nebudete veľa trápiť, pán doktor, len ten má gágor, a to
+dokonale, ako sa svedčí, vypitý. Tým hrtanom vám prejde i poleno, nie to
+kus koštiaľa. Nože, po operácii prídite k nám na večeru!"
+
+„S dovolením prídem."
+
+Podali sme si ruky, ale sme sa nebozkali --- ako sa od tých čias v zime
+nikdy nebozkávam --- a každý šiel po svojom.
+
+Asi na jedno strelenie ďalej vŕzgajú volmi ťahané zvlače.
+
+Na nich sedia okrem paholka štyria miništranti v širočizných klobúkoch,
+bielych košeliach, s červeným golierom okolo krku a v červených, po
+kolená krátkych kamžiach. Dlhé, v bielych chološniach a krpcami zaodiate
+nohy bombáľami im zvoľna dolu. Títo štyria anjelikov predstavujúci
+kamasi mohli mať dovedna asi sto rokov.
+
+Jeden z nich držal turribulum #POZ#65;(lat.) Kadidelnicu#-POZ# s ohňom,
+druhý fúkal doň, tí ostatní dvaja, ohrievajúc si ruky, zapekali si v ňom
+fajky. Kotlík so zamrznutou vodou a aspergesom #POZ#66;(lat.)
+Kropenicou#-POZ# stál v pozadí. Nebesá! Bola to zima, keď už i sami
+anjelici mrzli. A na samom zadku doštenáka umiestený bol plný
+velikánsky, pevne a opatrne zaviazaný mech.
+
+Za zvlačami skučal kŕdeľ psov rozličného kalibru a pochádzajúci snáď z
+troch chotárov. Netušil som, čo tento potravný spolok tak pilne sánky
+nasleduje. A hoci už mrkalo, predsa bolo mi nápadné, že akonáhle sa
+jeden z tých havkáčov k osudnému mechu dostal, cvalom uháňal od cesty do
+snehu a videlo sa mi, akoby každý cigaru, či dačo tomu podobné, v pysku
+niesol, pričom natešený, hlavu hore držiac, prívetive krútil chvostíkom.
+
+Príduc k Janovi Komovie, našiel som ho pod pecou horeznak ležať. Papuľu
+mal otvorenú, že som mu pohodlne krumple v žalúdku mohol počítať. Z
+jedného boku mu brat brezovým lúčivom svietil, z druhej strany mu stará
+baba kutáčom v hrtane rýpala. Pán farár mal pravdu, lebo hrtan mal
+vymolený ako rezňu. Keď som mu pár ráz svojím ramárom zavážil, čľup,
+prepadol sa koštiaľ ta pomedzi krumple. Vytrúsil nato sklenku tej
+fľúdrovice a bol pokoj.
+
+Pán farár ma čakal. Rechtor klipkajúc očami kľuckal. Kostolník pod
+teplými kachľami sediac pílil dosky, len nos sa mu svietil ako hnilé
+drevo.
+
+Došli miništranti. Pán farár volá von dvermi:
+
+„Dzurou!"
+
+„Hou!"
+
+„Ej, čiže hrubo rozprávaš. --- Donesže dnu to vrece s koledou!"
+
+Vstúpi do izby veľká, v kamži vyrastená rázga s kučeravými vlasmi ani tá
+borievka. V pravej ruke držal voľačo, podobné maršalskej palici, cez
+ľavé rameno mal prehodený prázdny mech.
+
+„Dzuro, kde máš klobásy a jaternice?"
+
+„Prosím, vašu milosť, neráčte sa pohoršiť, ale tie pevne psy pojedli.
+Vyhrýzli do mechu dieru, aha, koľká, je," podá pánu farárovi vrece, „len
+táto jedinká jedna jaternica ostala ako sirôtka opustená na zvlačiach
+ležať." S tým pánu farárovi podá zamrznuté jelito.
+
+Ahá, už som si vedel psie kmotrovstvo vysvetliť.
+
+Čierne mračná zatiahli pána farárovu tvár, v očiach sa mu blýskalo,
+predzvestujúc hrmavicu, len aby, reku, neudrelo. --- Šmarí vrece do
+kúta, potom zdvihne ruku s jaternicou do výšky ako Jupiter fulminans
+#POZ#67;(lat.) Jupiter hromovník#-POZ#, alebo náš pri Hájnikoch vykopaný
+Perún, a tresk!
+
+Ďuro sa pokorne až k zemi uhne a jelito myk kostolníka po nose. Zakričí
+a nevediac, čo sa robí, letí s nosom, zapuchnutým ako Tranosciov
+kancionál, von dvermi.
+
+Jakub, keď sa z príjemného sna prebudil, polial poduškový kameň olejom,
+chudák kostolník to urobil krvavou polievkou. S kostolníkom zmizol i
+Ďuro.
+
+Keď sa zase pána farárova krv upokojila, oddal ako posekáň zamrznutú
+jaternicu Tereze, aby aspoň posledného mohykána upražila.
+
+Medzitým rechtor, sediac na kostolnej kase a bubnujúc prstami marš,
+očakával trpezlivo večeru, a ju i vyčkal. Pán farár ma vľúdne ponúka
+akousi hydinou. Ale pohľad na ňu nebol bárs vábivý. Farba jej bola
+načernastá, zle viksovanej čižme podobná, zápach nechutný. Obzerajúc ju
+nedôverivým okom, ponúkaný pánom farárom, pustím sa konečne ale
+ostýchavo do nej. Rástla mi v ústach ako tlačená špongia, omáľal som ju
+dlho, kým sa dolu šmykla.
+
+„Ale, povedzte mi, pán farár môj láskavý, čo je to za zvera. Dáko sa mi
+vzpiera."
+
+„Ach, vzácny hosť, vzácna úcta."
+
+Kaplán Ondrej, známa to škriepna Dora, odvetí:
+
+„To je chriašteľ, pán doktor, dneska som ho zastrelil."
+
+„Čo, že chriašteľ? Ale, čože myslíte, pán kaplán, veď chriašteľov v zime
+nestrieľajú. Akonáhle trávy skosia, hneď sa poberajú svetom, ta, kde loj
+kopú."
+
+„No, keď vám povedám, chriašteľ --- na vŕbe som ho zastrelil pri mlyne."
+
+„Lenže chriašteľ nesedáva na strome, ale behá v tráve."
+
+„Bol pekný čierny s dlhým chvostom."
+
+„No to veru ešte s dlhým chvostom, a chriašteľ. Hm, hm, to by bolo!"
+
+„A prečo nie," povie pán farár, „ani ľudia nemajú rovné veľké nosy,
+prečo by to s chvostmi u chriašteľov nemohlo byť?"
+
+Na svedectvo donesie kaplán krídlo a chvost z domnelého chriašteľa a
+preukázal sa byť opravdivým --- havranom.
+
+„Ahá, veru ľahko," doloží pán farár, „včera, hľaďteže, práve mlynárovi
+žriebä Cigáni zvliekli. No nerobte si nič z toho, človek nevie, z čoho
+stučnie."
+
+Povedá sa, že poľovníci to, čo strieľajú, neradi jedia, i pán kaplán sa
+svojho chriašteľa nedotkol, ale tým tuhšie rúbal do jaternice, naťahujúc
+ju ako mlynský pyteľ.
+
+Zrazu sa vystrie, otvoriac ústa dokorán, tvár mu osinie, len toľko, že
+ho neudusí. Zabehlo mu. Ale čo?
+
+Ja mu chcem pomôcť ramárom, ale vrtký pán farár mal už liek, a to bol
+--- svietnik; búši ho ním dva razy do chrbta, a zastavený dych sa
+vrátil. Z hrtana mu vyfrkne akousi zlou náhodou do jelitovej plneniny
+primiešaný --- náprstok!
+
+Nuž, tento bol zratovaný, ale keď buchnutím svieca odfrkla, použijúc
+tmu, hanblivý ináč rechtor, kým nezapálili sviecu, si dokonale hrtan
+prelieval. Až ti tu náhlosťou hnaný --- lebo nulla avaritia bona nisi
+temporis #POZ#68;(lat.) Nijaká chamtivosť nie je dobrá, ak sa nedeje v
+pravý čas#-POZ# --- pochytí pohár s tuhým, doma robeným octom, a na
+dúšok mu bol pod srdcom.
+
+Keď Tereza sviecu doniesla, už behal chudák ozaj so slzavými očami a
+kyslou tvárou po izbe volajúc: „Jaj, dieru mi vypálili do žalúdka,
+dieru, dieru, dieru!" Neprišlo to tak ďaleko. Za lyžicu Carbonas natri
+#POZ#69;(lat.) Sódy bikarbóny#-POZ# to prekazilo.
+
+„Na dobrý úžitok, pán rechtor," poviem. „Keď ste pána farára o dobrý
+ocot pripravili, nezabudniteže naň aspoň s octovou matkou."
+
+# Veľkonočná kúpačka
+
+Keď už za celých šesť mesiacov Jožko lekárskymi vedami hlavu, žalúdok
+však segedínskou tarhoňou a riedkotenkou dolnozemskou kapustou kŕmil ---
+túžiac po domovine, netrpezlivo čítal deň po dni, keď už zase na
+veľkonočné sviatky pôjde navštíviť svojich, svoje rodinné kraje a voňavé
+koláče. Už by ich bol nohami kopal tie zdĺhavé dni, len aby sa
+rýchlejšie poberali napred. Nuž ale prišli, ej, prišli tie očakávané
+sviatky s ich púzalkami, farebnými vajcami a svätenými kytami.
+
+Včuľ sa ľudia parou ženú, už či v podobe parovoza, či parolode, pričom,
+pravda, na svojej vlastnej pare veľa usporia. Prirodzene, že terajšia
+mládež je oveľa pohodlnejšia ako len asi pred dvadsiatimi rokmi. A prídu
+časy, kde každý „cettltroger" #POZ#70;(z nem.) Roznášač cedúľ,
+plagátov#-POZ# z dom do domu na rýchlonôžke a študenti do školy na
+dákych parných „ainšpeneroch" #POZ#71;(nem.) Drožkách#-POZ# budú fučať.
+
+Vtedy, keď sa dej našej rozprávky odohrával, nebolo tých maznačiek. Ba
+keby si bol Detvanovi povedal, že sa mu tam popod nos taká besná
+zapekačka bude motať a smradiť, bol by ťa osekancom ovalil. Nuž tak. A
+teraz? Píska mu dolinou parostroj, hoci sa valach do gruntu srdca hanbí.
+
+Oprúc sa teda o svoje vlastné nohy, priviazal sa náš cestovný Jožko o
+remennú výsahu, vzal do pravej ruky palicu, do ľavej blahej pamäti šesť
+dvadsiatnikov a pustil sa homokovým, Pešť otáčajúcim Rákošom do širokého
+sveta. Čo plavcom polnočná hviezda, bol Jožkovi tvarožník in spe
+#POZ#72;(lat.) Nádejný#-POZ#, a čo je tvarožníku cibébna, čiže
+hrozienko, to bola jeho vznešenou láskou prekypujúcemu srdiečku spanilá
+Tinka, už či to Kris--- či Leopol--- či Ernes--- a či veru Mar--- Tinka.
+To ponechávame každému na vôľu, lebo gusta sú rozličné, ale Tinka bola
+raz premilená dušička. To stojí.
+
+Keď si na tú Tinku pomyslel, tak mu nohy švargali ako cepy v štvorke, a
+pretože vše na ňu myslel, nuž mu brngali ako Oblidalovičovo mobile
+perpetuum in spe, čo ešte o poznanie dlhšie trvať má ako meno
+vynálezcovo. Keď nevystačil deň, pripriadol si noc, a pätnásť míľ
+prebŕdol bez úrazu a dobrodružstva, ani ho zbojníci nenapadli, ani ho
+býk nenaháňal, a tak s pár nadobudnutými pľuzgierikmi na nohách, ale bez
+podošiev, ktoré vo zvolenskom blate ponechal potomným archeológom s
+heslom „Amice care #POZ#73;(lat.) Milý priateľ#-POZ#, keď nemám
+podošiev, prídem na sáre", vrazil do náručia čakajúceho brata.
+
+A tu mu voľno, tu mu bolo sladko, akoby sa v tokajčine kúpal. Nemci však
+povedajú: „Thut man sich den Magen laben, will das Herzchen auch was
+haben." #POZ#74;(nem.) Ak sa chce žalúdok občerstviť, chce mať niečo aj
+srdiečko#-POZ# A v tom pravdu majú. I Jožko pri žalúdku nezabudol ani na
+srdce, čo mu tým ľahšie padlo, že srdce blízo žalúdka leží, a povedá sa
+celkom dôsledne: „Tak ťa rád mám, že by som ťa hneď zožral." Gustióznym
+predmetom jeho lačného srdca bola, ako nám všetkým vedomo, jeho Tinka
+--- plný, zdravý, okrúhly ako jabĺčko červený hryz. Okrem jedenia a
+spania celý čas trávil v spoločnosti svojej Tinky.
+
+Keď musíš drevo štiepať alebo si pri anatómii hlavu lámať, to sa ti ten
+čas vlečie, akoby v počnách chodil --- v spoločnosti Tinkinej letí ako
+okrídlený.
+
+Tak, hľa, pripálil i čas kúpačky.
+
+Natešený Jožko už dňom predtým nachystal kúpacej látky. Voňavú kolínsku
+namiešal s horkomandľovou vodkou do sklenky, zapustenej čiernou farbou,
+aby vlastnosti na svetle nezmenila, a uložil do armary napohotove.
+Chudák Jožko nesníval, že tam so skleničkou zloprajný čert čupí.
+
+Svitol deň, keď sa podľa udania svätého písma Nového zákona krajšia
+polovica vyznavačov Kristovho učenia má vodou oblievať a prútmi karhať.
+Čo sa obyčajne tak deje, že sa prvá časť tým bez čepca, druhá však tým
+pod čepcom na večitú pamiatku štebotavosti za údel dostáva. So svitnutím
+dňa svitlo i Jožkovi pod klobúkom. Vykefoval sa, vyklepal, vymastil
+podstať svojej bytnosti šuviksom, vrcholec však pomádou, až sa svietil
+ako dobre vymastené halušky. A tak spokojný so skúškou pred zrkadlom, i
+sám so sebou, strčiac čiernu sklenku do kabáta, viac tancom ako krokom
+mrvil ku svojej Tinke. Srdce mu radosťou skákalo ako žaba v mláke. Aby
+prekvapenie bolo väčšie, rozhodol sa svoju holubicu čakať v dupľovaných
+dverách. Pritiahol teda za sebou vonkajšie dvere a čušal potme.
+
+Tinka bývala s tetkou Trápelkou. Táto tetka nelíšila sa ničím zvláštnym
+od druhých tetiek, bola ako mnohé druhé kanonického veku, z pokušenia
+svetského vylúčená. Znalci starožitností povedali, že bola vraj kedysi
+pekná, ona zase čisto, hanblivým úsmevom spomínala, že mala pytačov na
+každý prst päť, ale všetkých zo zásady a opovrženia stavu manželského
+odpudila atď. No my jej vďačne i to z púhej šetrnosti oproti peknému
+pohlaviu budeme veriť, otobôž, že to i tak našej rozprávke ani mak
+nezaškodí. Vzrastu bola vysokého, tukom neobťaženého --- ako vidlička.
+Nos sa klonil v priateľskej sympatii k brade, skvela sa bradavička a na
+tej bradavičke krúžili sa svetochýrne tri vlasy bismarskej plešiny.
+
+Čuť kroky. Napnutý Jožko stojí hotový so sklenkou na postriežke.
+Odchýlia sa dvere a čľup! čľup! --- fŕka obsah čiernej sklenky. Vtom
+počuť prenikavý výkrik a plesnutie dvier. Jožko, spokojný s výsledkom,
+beží vonkajšími dverami preč.
+
+O hodinu pribehne slúžka, aby sa mladému pánovi ale naskutku páčilo ísť
+k pani tetke Trápelke. „Ahá!" pomyslí si usmiechaný Jožko a ponáhľa sa
+po farebné vajcia. Tinka mu ide v ústrety do prednej izby.
+
+„Nuž, Tinka, akože poslúžilo?" pýta sa natešený Jožko.
+
+„Ach, Pepko, tetka nám leží v petečnách#POZ#75;(z maď.)
+Osýpkach.#-POZ#," povie fikajúc Tinka; chytí Jožka za ruku a ťahá za
+sebou do zadnej izby.
+
+„Ba kýho čerta!" povie zadivene za ňou drobčiaci Jožko.
+
+Tetka Trápelka leží, stonajúc nešeredne, až po bradu veličiznou
+kadrilirovanou #POZ#76;(franc.) Štvorčekovou (dosl.
+štvorylkovanou)#-POZ# perinou zakrytá... v tvárí čiernymi bodkami
+posiata.
+
+„Ach, bože---prebože, už som sa ja stvora raz pod nešťastnou planétou
+zrodila! Koniec života sa mi blíži, smrť mi na jazyku sedí --- ach beda,
+neopúšťajte moju sirôtku Tinku!" Vystrčí spod periny, od Kráľovej hole
+máločo menšej, od lônika chudšie tri prsty --- Jožkovi do hrsti, aby jej
+pulz omakal.
+
+„Ale, prepánajána, čože sa vám stalo?" povie on.
+
+„Ach, voľáky oplan ma asi pred hodinou --- jaj, zle je --- asi pred
+hodinou tamto vo dverách oblial, snáď jedom, na čo som sa tak naľakala,
+že sa mi čosi---kamsi petéčne po tvári vyhodili. Už som tri findže
+#POZ#77;(maď.) Hrnčeky#-POZ# bazového kvetu s čistcom vypila, ale
+petéčne sa netratia, ach!"
+
+Jožkovo čelo sa zmraštilo, krídla nosové mu hrali ako chrústovi, keď je
+na odletku, tvár celá sa mu roztiahla, ako keď nazrie do octovej fľaše.
+Vytiahne z vačku biely ručník, zamočí ho do vody a potom trie čierne
+špľachy, ktoré pod ním miznú ako čert pred krížom.
+
+„Neráčte sa strachovať, tu, hľa, ako vidíte, to nie sú petéčne."
+
+„Nie!?" vykríknu obe. „Nuž, čože je to teda?"
+
+„To? --- Nuž ma ten oplan černidlom kúpal? Nuž či je to nie bezbožník
+naničhodný?"
+
+„Veru oplan, bezbožník," dosvedčuje v rozpakoch Jožko.
+
+„Somár somársky," dupľuje tetka.
+
+„Somár prvej klasy," dosvedčuje Jožko.
+
+„Mamľas neokrôchaný, hneď by mu oči vyškriabala," a nechtami brngá po
+perine strakavá tetka.
+
+„Ani by inšie nezaslúžil, nepodarený odkundes," doloží zas Jožko, utrúc
+jej bodku pod nosom, ale tá už nebola z černidla, ale brunastá z
+tabakového mokra.
+
+Ale dlhšie na tú maškaru mu už nebolo možno pokojne hľadieť, bojac sa
+teda, žeby nevybúšil, utekal domov Tinkou vyprevadený až pod preddomovú
+hrušku.
+
+Prvou robotou doma bolo nazrieť do armáry. Dočerta hrmeného, čierna
+sklenka s vodkou, prichystaná na kúpanie, stála tam neporušená, kdežto
+pri nej tiež stála sklenka z alizarínového
+
+černidla --- do dna vyprázdnená. Teraz už videl Jožko, skade petéčne
+pochodili.
+
+Ostalo to hlbokým tajomstvom, len teraz po dvadsiatich piatich rokoch,
+keď už tetka Trápelka je na večnosť pred petéčňami asekurovaná, rúško
+pred cteným obecenstvom odhaľujeme.
+
+Tinka s Černidlom sú na pokoji.
+
+# Svadba
+
+Pri slovenských svadbách odbývajú sa všakové národné hry.
+
+Medzi mnohými inými, ako zvlášť na túto historku vzťahujúcu sa hru,
+pripomenúť chcem tú, kde je reč o zabití hrnca alebo kohúta.
+
+Kohút sa priviaže na dáke vyvýšené stavisko alebo sa miesto neho hrniec
+ta postaví. Uchádzajúcim o vystavenú odmenu sa zaviažu oči. S papekom v
+ruke, krútia sa tri---štyri razy dookola a keď sa im pri tom hlava
+zakrúti, vrhnú sa s papekom na kohúta a či na hrniec --- čo sa im
+obyčajne nepodarí, lebo tackajú sa závratne celkom v inú stranu,
+máchajúc kyjom do povetria.
+
+No, a toto je krátky úvod k mojim dejinám.
+
+Bolo to na Michala; môj otec dostal povolanie na svadbu. Môj otec bol
+starý, ja mladý a pán --- teraz, pravda, som už taký, aký bol vtedy môj
+dobrý otec. Otcovi sa nechcelo do R., nuž preniesol tú česť na moje
+plecia a žalúdok. Bola regrácia, dobrá chvíľa, a tak padlo mi to na
+vôľu.
+
+Oddal som sa do vystrájania. Vyrastené pulidery so štrupňami, vyrastený
+kabát s vysokým mastným chomútom, sardelnovej farby rukavice a na krku
+vysoký, drsný, z konskej srsti pletený obojok niesol mi zavrznutú hlavu
+na otáznu svadbu.
+
+Bolo jasno, bolo teplo a s veselou mysľou pobral som sa zaprášenou
+cestou do obce R.
+
+Asi v polovici podlhovastej obce, v úzkej dolinke stál záhradou
+obklopený svadobný dom. Ukrytý pod čerešňami nebolo ho ešte vídať, ale
+hudbu som už počul. Hoj, veselo, tak rezali, až sa tými čerešňami hore
+kúrilo! Bolo to trio tej známej, obľúbenej mičinskej. Second ťahal:
+„Jurina, Jurina, nad tebou je slanina." Bas hučal: „Nak sa ono zmrkne,
+čak nám ona sfrkne." Prím náramne chytro výskal: „Bude ona, bude ona na
+Mičinej do dňa!"
+
+Komu by snáď táto nôta známou nebola, tomu poslúžim vďačne vysvetlením.
+Táto nôta, in praxi et theoria, vznikla na Mičinej. Cigáni, nemajúc pri
+svadbe miesta v izbe, sedeli a dudali v kuchyni na ohnisku; nad hlavou v
+kochu combáľala sa im slanina. Svoje túžby ihneď do nôt pokladúc, hudbou
+si svoje myšlienky telefonovali. A tak, akú partitúru zahrali, takú aj
+vyviedli: „Bola ona, bola ona na Mičinej do dňa." Škoda --- no ale darmo
+je --- že Mozart čo len aspoň z Môlče nepochodil, on by zaiste tú
+„Jurinovu túžbu" bol zvečnil.
+
+Ale nielen hudbu, lež voňal som už i pečienku, ktorej vôňa, vykrútiac sa
+von komínom, dolinou sa na široko---ďaleko rozprestierala. A tak šiel
+som rovno za uchom a za nosom.
+
+Okolo domu na pažiti v záhrade tmolilo sa mnoho povolaného a
+nepovolaného národa všakového kalibru. Z nepovolaných najviac bolo detí.
+Bosí chlapci držali si gatky v potrebnom poriadku motúzom, pretiahnutým
+cez zuby, alebo nedbalo držali sa im okolo bedier, a lačné bruchá,
+podobné pekárskym bochníkom, smelým čelom vyvaľovali sa na božie svetlo.
+Strkali sa, naháňali, fľochajúc na všetky strany, kde by dač\'
+pikantného zočiť alebo dákeho kus mrváňa mohli pochytiť. Jasné slnce
+odrážalo sa im od blýskavých preťahujúcich sa sviečočiek pod tupými
+nošťúrikmi. Dievčatká však s podopretými bedrami smrkali medzi nimi a
+krátke kýptiky malých vrkočov vypínali sa smelo hore do povetria. Tie
+hlávky s tými chvostíkmi, hľadiac odzadku, podobali sa celkom ale celkom
+zimným retkevkám.
+
+V snehobielych košeliach, sivých nohaviciach s červenými šnúrami a
+podperenými klobúkmi vyfintení mládenci, prekypujúc v žartoch, búchali
+päsťami rozpálené dievky po širokých chrbtoch, len tak dunelo. Keby to
+človek nebol videl, bol by musel súdiť, že múčne kysne prášia. A čím
+väčšie buchnáty, tým väčší smiech, väčší žart, a čo najpodivnejšie, tým
+väčšie vyznačenie pre to krásne slabé pohlavie.
+
+V pitvore a izbe sa to miesilo ako bryndza s kapustou. Čo nestačilo v
+izbe, drobčilo v pitvore. Z izby valil sa dym, prach a horúčosť, že sa
+mi na trakoch olovené pracky topiť začali.
+
+Na pitvore mladého pána --- ako diplomatického reprezentanta môjho otca
+--- s veľkou úctou prijali a voviedli ma do svätyne, do komory. Tam
+sedeli vyvolení honoratiores, pytač s bukrétou a dva sudy. Ten väčší
+fráter s páleným, ten menší s vínom. Starejší, ktorý nad týmto pokladom
+dozor viedol, bol jasného rozmaru, tvár sa mu pýrila sťa Kriváň v
+januári pri zapadajúcom slnci. On rozmeriaval nápoj medzi čakateľov; ten
+nápoj si však hostia museli platiť, výnimku robili honoratiores --- ako
+všade --- ktorí boli častovaní darmo. Hľa! Teda ani mýto platiť, a víno
+darmo piť. Čo pán, to pán!
+
+„Mladý pánko, nech sa páči," stlačili ma na novú, pestrými kvetmi
+farbenú nevestinu truhlu. Ledva som si ľapol a prach z čižiem odklepal,
+privítala ma nevesta a mladý zať, pekné slovenské postavy. Obaja mali
+veľmi lipkavé ruky, keď mi ich na uvítanie podali.
+
+Pri hostine mali sme veľa polievok a v nich veľa šafranu; dostal som od
+neho žltý pysk ani čierny drozd --- nuž ale to vraj tak už raz musí byť,
+povedala mi moja suseda, mlynárka z T. --- Zatým ťahali sa zaprávania
+--- kyslé, sladké, chlpaté, hladké --- ako karavány jedno za druhým. Už
+mi mach začal rásť na hlave. Žalúdok som mal tekutinami zaplavený sťa
+Segedín a Dunajská paroplavebná spoločnosť mohla si v ňom agentúru
+zariadiť. Konečne prišlo pečené prasa a pani Čunderlíčka --- ústami a
+telom rovnako pohyblivá bytnosť, obsluhovačka okolo stola a ponúkačka
+trinástej próby --- vzdor môjmu sviatočnému protestu štikla mi nechtom
+pravého palca kus prasaciny z vidličky dolu na tanier. A ten necheť bol
+dlhý, na štikanie stvorený, humusovým čiernym pásom značený. Ako mi ten
+kus pomocou nechta na tanier zosánkovala, zdalo sa mi, akoby čosi bolo
+čvrklo za nechtom. No omáčky mi viac nebolo treba.
+
+S nevyhnutným šafranom na žlto obveselené tvarožníky vo spolku s
+makovníkom zakončili dlhý a až na otlaky zunovaný obed.
+
+K ďalšiemu priebehu polievok nasledoval tanec. Mladý pán bol zase
+vyznačený. Šatkový tanec bol ten, čo ma do víru vtiahol. Pri zdĺhavej,
+na menuet upomínajúcej hudbe „traláála---trála", prihojdala sa ku mne
+nevesta s rozostretou, už dobre upotrebenou šatkou. Pokloní sa a
+prestrie ju predo mnou na zem. Ja som na to hľadel s dosť hlúpou tvárou,
+keď som ja to nikdy v quae moribusi#POZ#78;(lat.) „Čo o mravoch", v
+príručke dobrého správania#-POZ# nečítal. To bola pre mňa astronómia;
+škrabem sa a obzerám o pomoc. A tu anjel strážca pri mojom boku, čo mi
+nechtom štikal pečienku na tanier --- Čunderlíčka. Rýchle a dôkladne
+poučila a upravila ma k činu.
+
+Nuž teda kľakol som na lipkavú šatku, nevesta ma bozkala, len to tak
+lusklo, zdvihla ma k sebe a drobčili sme dookola. A skutočne, ten bozk
+chutil mi lepšie ako to zaprávanô zo starého kohúta. Tak ma, opica,
+vykrútila, že keď som si na miesto stal, tvár mi bola vyvrátená až na
+chrbát. S tým ešte vec skončená nebola. Čosi---kamsi prikvitli s
+tanierom a ja s tvárou napred prevrátenou, ale ovoľačo dlhšou, musel som
+siahnuť do vačku. A mňa chudáka nepriam pripravili doma na takéto
+prekvapujúce výjavy.
+
+Chcem von na čistô povetria, ale vtom predstúpi predo mňa Katra, so
+šatkou! --- No, prisámpánu, už je veru dobre. Táto Katra bola nevestinou
+tetkou, poctivá síce, ale nad všetok zbytok zrelá panna. Jej rapavá tvár
+podobala sa švajčiarskej mape; mala dve veľké, čierne oči, ale každé šlo
+svojou cestou. Ináč bola vysokej, silnej, kostnatej postavy a hlas mala
+ako tá trúba na viedenskej svetovej výstave. --- Čo robiť? Hja,
+zdvorilosť káže i to robiť, čo tvrdo padne. Kľakol som teda pred touto
+Lomnickou kopou a zažmúriac oči bozkal som tú moru.
+
+Keď som celú procedúru dokonal, prebil som sa ako podstrelený medveď cez
+divákov von na dvor...
+
+Na klátiku pod čerešňou odfukoval som si od prežitých štrapácií. Zapálil
+som si na fajku. Blízo mňa pri stolíku, chrbtom proti dvoru obrátený,
+sedel prísažný Čvrling. Pevne držiac v zuboch žltým plechom obíjanú
+zapekačku, spokojný sám so sebou, postrebúval boží dar --- hriatu
+pálenku. Blažené city žiarili mu tvárou. Čas po čase, neobzerajúc sa po
+márnom tomto svete, zakrochkal si potíšku popod nos, ako --- nehodno
+prísažného pripodobniť --- ako ošípaná pujšika, keď ju po chrbte škrabú.
+
+Práve som sa zahľadel do tohto tichého živobytia, vyrúti sa s hulákaním
+a jasotom hudbou vyprevádzaný veľký domový obsah von na pažiť.
+
+Zase, reku, nový obraz. Vyšli hrniec zabíjať.
+
+Oproti Čvrlingovi, ktorý sa ani mak nepohol, postavili na klát veľký
+dvojušatý hrniec. Prvá sa chytila do práce Zuzka od Bruchajov. Dali jej
+cepy do ruky, zaviedli doprostred pažite a zaviazali jej oči. Zatým,
+ohnutá napred, chytila si ľavou rukou pravé ucho, pravou rukou cepami
+oprela sa o zem. A tak tri razy ale chytro krútila sa okolo cepov, potom
+so zdvihnutým cepom točiac sa ako opitá hnala sa domnelé k hrncu --- ale
+čerta, kde tá vosvet trepala cepami, celkom inde. Diváci sa rechtali,
+zuby škľabili vôkol. Za nezdar musela na tanier pokutu platiť.
+
+A tak sa to opakovalo i pri druhých. Čvrling pritom sedel pevne ako múry
+hradné.
+
+Tu zjaví sa na bojišti Katra, moja tanečnica. Tu v slobodnom poli som
+ešte len videl celú tú ozrutu. Ej, keby táto Katra za Štefana kráľa bola
+žila, istotne by ako štvrtý vrch bola vkĺzla do uhorskej pečate: Tatra,
+Fatra, Matra a Katra.
+
+Chytí cepy do ruky, zaviažu jej rôznomyselné oči a krúti sa okolo cepov
+ako kôň v gepli --- dlhšie, ako jej bolo načim. Oj, Katra, quae te
+dementia#POZ#79;(lat.) Čo za šialenosť ťa zachvátila?#-POZ#, cepy že si
+chytila. Vyšvihne ich nad hlavu a točí sa ako loď Tegetthoff na búrnom
+mori. Huj, Žižka z Trocnova! Spustí smrtonosný mlatok. --- Joj! Ja chcem
+práve vykríknuť: „Nebi, nebi, boh na nebi," --- ale už bolo veru
+pozde...
+
+Chrop! --- „Ej, ale hrklo," zavolá natešená Katra, zdrapiac šatku z očí.
+
+Ale čo vidí! --- Čvrlinga pred svojimi nohami ležať. Opravdivý obraz
+chýrnej tirolskej Kathariny Maultasch.
+
+Chudák Čvrling bol jej pánom kmotrom. Ach, a rezla ho dokonale po dášku.
+On, tichá mucha, neprichystaný na tento atentát, podľahol tomu závažnému
+argumentum ad hominem#POZ#80;(lat.) Dôkazu na človeka#-POZ# svojej pani
+kmotry.
+
+Katra vidiac, čo navarila, stratiac koncepty, stratila sa i ona. Diváci
+hrnuli sa Čvrlinga kriesiť, čo sa im po tuhom namáhaní pomocou vody a
+hriateho podarilo.
+
+Medzitým všetečný mladý Matúš Brngáčovie zdvihol cepy, obzerajúc ich, či
+sú ťažké, a či na nich nelipne prísažného rozum. Vtom dobehnuvší chlapi
+z Čvrlingovej rodiny, vidiac Čvrlinga na zemi vystretého a Matúša s
+cepami v rukách, v domnení, že on Čvrlinga zoťal, bez vyšetrovania,
+ústneho pojednávania a vypovedania vojny, vrhli sa na Brngáča a začali
+ho všetkými príručnými inštrumentmi rebriť.
+
+Ale prispela mu pomocou jeho rodina. Klbko sa väčšilo. A čo by dlaňou
+plesol, duneli buchnáty, cvendžali zauchá. Jak, vresk! Chlpy vlasov,
+nohy zo stolov a iné podobné maličkosti brngali povetrím ani chrústy v
+máji. Tam máš Šipku.
+
+S veľkým namáhaním podarilo sa konečne potlčené stránky --- Montecchi a
+Capuletti --- zmierniť; a svadba snula sa obvyklým spôsobom ďalej.
+Smiešne, prebitých hláv dosť --- ale hrniec ostal nerozbitý.
+
+Pred súmrakom pobral som sa domov.
+
+Mišo, nevestin brat, doniesol nám ráno zvyčajný pošajdes: hriato, koláče
+a studenú prasacinu. Pravé oko mal bielym ručníkom zaviazané. Odhalím
+ho, vidím, mal narastené dve hodné bystrické slivy, jednu nad druhou pod
+okom, čo mu pri včerajšej šarvátke boli zaštepili. Ako ma uistil, bola
+tam hojná úroda tých bystrických. Aj uhorky vraj napuchli. Chválil sa,
+že sa včera kapitálne zabávali...
+
+„Či vieš, Mišo, čo je to suum cuique#POZ#81;(lat.) Každému, čo mu
+patrí#-POZ#?" poviem ja.
+
+S hrdým povedomím, že tomu rozumie, odpovie: „Sviňa kvíka."
+
+# Ozvena
+
+„Pôjdeme na salaš, pôjdeme, pôjdeme!" ozývali sa hlasy mladých ľudí v
+meste Lojnici. V turíčny sviatok, tichý, jasný deň poobede vybrala sa
+mladá chasa pod Ostrý vrch. Dievčatá v slamených klobúkoch, so širokými
+stužkami a v rukách pivónie; šuhajci v obligátnych bielych nohaviciach,
+štebotajúc kráčali hore dolinou. Tí, čo si zuby lepšie znali, šli po
+páre --- nestranní, ľahostajní a zanedbaní či už v húfoch, či jednotlive
+potratení, sťa nepravidelná armáda motali sa ďalej.
+
+I Miško Kostrnka bol takou stratenou ovcou --- popravde baranom. On, súc
+kupeckým tovarišom, bol vymastený švihák trinástej próby, ale macošská
+príroda nenadelila mu ani telesných, ani duševných predností nazvyš. Ako
+to u malých ľudí často býva, rád sa vyťahoval, túžiac vše viac vyzerať,
+ako čím skutočne bol. Aby sa stal nápadným, zaštipoval si nos veľkými,
+aby neušli, širokým motúzom priviazanými okuliarmi. Zrelý vek --- od
+dvadsiatich rokov vše na tej istej pudli ekvitoval#POZ#82;POZNAMKA#-POZ#
+--- malá postava, plešivá hlava, vytiahnutý krk, so všetkými módnymi
+výstrednosťami robili ho, pravdaže, nápadným, ale i smiešnym. Každý,
+ešte i ten najväčší hypochonder rád sa prizeral jeho otriasavým
+posunkom.
+
+Vzdor všetkým, do poľa pusteným galantériám a námahám nedokázal si ešte
+ženské srdce nakloniť. Ženská radšej tyrana znesie ako smiešneho
+človeka. On cítil horúcu potrebu lásky, ale jeho tropické túžby nenašli
+ozveny. A to nevoľníka zronilo; potratiac i posledné zvyšky zmužilosti,
+stal sa nenávistníkom ako staré dievky, keď sa túžobného cieľa opakovane
+minuli. S tým väčšou túhou zapodieval sa myšlienkou dačím takým sa
+vyznačiť, čo by mu aspoň dva tucty dievčenských, v plameni stojacich
+sŕdc k nohám ako hnilé hrušky naráňalo. Čím menší prospech, tým väčšia
+rástla v ňom samoláska.
+
+S výletníkmi putovala taktiež osamotená slečna Sidónia. Jej oblek farby
+zimnej fialky, a okrem tej i v tom jej podobná, že už tiež dlho kvitla.
+Kde sa dáky bočný chodník od cesty oddialil, ten nastúpila, zbierajúc
+lotač#POZ#83;Záružlie#-POZ#, zimozel --- ach, ale nikto ju nenasledoval.
+A predsa svojimi pohybmi a súmernosťou vzrastu prevyšovala všetky svoje
+družky. Stránila sa jej mládež pre jej neslýchane ostrý jazyk, ktorým
+medzi známymi vystrájala ako osie hniezdo. Štipľavosť vtlačená bola na
+jej tvári nepochybnými ťahmi. Veľké ústa s počerným páperovým náterom, v
+kútikoch nadol v polkruh zohnuté, podobali sa polmesiacu; od nosových
+krídel proti očiam vinuli sa tri subtílne vrásky ako stopy jesenného
+mrazu.
+
+Po dlhšom váhaní a chlapení sa osamelý Miško pribežká k nej, ponúknuc
+jej rameno. Odmerá si ho, a keď lepšieho nieto, podá sa. Vyzeral, akoby
+ona ho viedla, lebo sa jej pri boku opálal ako šabľa.
+
+Ale Miško Kostrnka rástol v potešení očividome a zabával svoju družicu
+všetkými prostriedkami, sám seba prevyšoval a sám seba obdivoval.
+
+Sidka bola spokojná, bo skutočne nič lepšieho nemohla očakávať.
+
+Pri salaši rozprestiera sa pekná zelená, tmavými smrekmi obrúbená
+poľana. Vľavo za húštinou vykukával salaš s košiarom, modrý dym ťahal sa
+z neho tichučko ponad červenasté, šúľkami obrodené končiare smutných
+smrekov. Napravo od poľany bol hlboký a strmý, jelšinou husto porastený
+jarok, za ním z druhej strany vypínali sa tmavé, hradu podobné,
+rozpukané bazaltové zápole. Medzi štrbinami podivných čadičových stien
+otriasali sa neposedné a ligotavé osikové listy.
+
+Na báječnej poľane hrala sa chasa s obrúčkami, zálohmi, spevom a tomu
+podobnými kratochvíľami. Miško, ktorému sa tak zdalo, že mu Sidka, keď
+jej dlhú zelenú húsenicu zosňal, ruku stisla, plný radosti, plný
+zdvorilosti odbehne do húštinky hľadať nezábudky, rastúce pri čerstvej
+vode.
+
+Vije veniec a zavije doň náhodou cviker visiaci mu na motúze. Ako sa
+odmotaním cvikera zamestnáva, pozoruje, že sa haraš, smiech a spev
+mladých ľudí z bazaltových strmín odráža. Ohlasovalo sa síce, ale slová
+rozoznať nebolo možno.
+
+Keď sa viedol so Sidóniou, za besedovania o prírodných krásach, s
+veľkým, ako lekvár mäkkým nadšením zmienila sa o ozvene. Tu Miškovi,
+slyšiacemu ozvenu zápolí, vliezla čudná myšlienka pod slamený klobúk.
+Akoby sa bál, že mu dakto ukradne šťastnú myšlienku, drobčil ku kolibe.
+Tam stál naširoko rozkročený --- krátku zapekačku v zuboch --- valach
+Siman. Obdaril ho dohánom a prepitným, poučiac ho o svojom vtipnom
+zámere, aby šiel a postavil sa pod tie skaly, a tam vyčkal, kým on, to
+jest Miško, nebude volať. Udal mu slová, ktoré bude volať, tie aby potom
+akoby ozvena zreteľne ohlásil. Siman rozdrapil oči, poškrabal sa za
+uchom, pokýval hlavou a zabral sa dúškom na vykázané miesto. Miško
+natešený ostril si dvoma prstami končitú briadku a vracia sa do
+spoločnosti, keď ona práve so spevom pochodovým krokom stúpa do koliby
+na žinčicu.
+
+Miško zastane, čaká Sidóniu, ktorá sťa krivá ovca z paše, nedbale, s
+ovisnutými kútikmi kráča za druhými.
+
+Podaný veniec prijala s úsmevom.
+
+Nevmestiac sa do koliby, v malebných skupeninách obľahli salaš. Bača,
+vidiac sa v stave obliehania, prišiel do rozpakov, lebo kdeže pre
+toľkých čakateľov dostatočnej žinčice! Pozlievajúc všetko, čo na zásobe
+bolo, nevynímajúc psiarku, poslúžil slečinkám i veselým šuhajom. Črpák
+za črpákom oddával bača v kolibe, lebo cez prah žinčica nikdy sa
+nepodáva --- od toho stratili by ovce mlieko. Všetci sa tisli okolo
+baču, Miško, boriac sa lakťami, predral sa dosť skoro a s plným črpákom
+sladkej žinčice, ako si to Sidka žiadala, bežal pred kolibu. Bača furták
+rozumel z jedného a toho istého kotla nalievať žinčicu sladkú i kyslú,
+ako komu ľúbo. V páse zohnutý Miško, tri prsty pravej strčené v
+cifrovanom uchu črpáka a dva prsty ľavej ruky na dne držiac, s milostným
+pohľadom a kúzelnými posunkami podáva teplý nápoj Sidónii. Ona bez
+veľkého silenia roztiahne ústočká, vopchá temer celú hlavu do otvoru
+črpáka a poetickým glgotom čurká jej žinčica dolu gágorom.
+
+Zrazu odmykne hlavou a čosi hadu podobného šúcha sa von črpákom. „Hí!"
+vykríkne úzkostlivo. Miško sa strhne, ale chytro sa zase vzchopiac,
+odpovie: „Ahá, to bude iste parenica." Sidónia chytí prštekmi parenicu,
+ťahá, ťahá --- až na konci parenice vykotúľa sa k nohám zdesenej Sidónie
+okrútený krpec.
+
+Sidka nato, sťaby divá mačka, myk jedným šmahom črpák --- mrštila
+Miškovi do krku. Kým si on sladkú žinčicu z kyslej tváre utieral,
+odobrala sa nešťastná Sidka do blízkej kroviny, kam ju i druhé
+spoločnice a spoločníci, žinčicoví účastníci nasledovali.
+
+Na baču tá nehoda bola bez zvláštneho vplyvu. Vyhováral sa jednoducho
+tým, že tá pletka z police, kde sa sušila, musela dolu padnúť, dobre len
+vraj, že je tu, že neskapal krpec. Žinčici že to naskrz neškodí, lebo je
+remeň teľací.
+
+Nie tak ľahko uspokojila sa spoločnosť. Pomaly vracali sa ubehlíci s
+kyslou tvárou nazad. Ale konečne predsa zase dobrá myseľ zvíťazila, z
+nehody vtipkovali a tak dobre sa na pažiti zabávali, že i zúfalý
+Kostrnka bol zase prijatý na milosť. Aby sa teda mohol v priazni
+Sidkinej upevniť a útlu niť ďalej mohol priasť, na pamäti majúc Sidkino
+rojčenie za zvučnou ozvenou, ukázal, kde sa ozvena úplne odráža a otázky
+neobyčajne čistým hlasom dá počuť.
+
+Týmto ponúknutím Sidka bola príjemne prekvapená a hneď sa pobrala s
+Kostrnkom nad označenú strminu.
+
+Miško Kostrnka sa hniezdi, opretý lakťom o skalu machom obrastenú,
+vyloží pravú nohu na kladu a pravú ruku vystrie oproti čadičovým bralám,
+a keď sa dobre poobzeral, vo svojom roztečeno poetickom položení zavolá
+kapúním hlasom: „Sidónia!" Čochvíľa zakrochká, ale v oveľa nižšom base,
+čosi takého, ako „Pivónia!"
+
+Sidka nastrkuje uši. Miškovi prebehne chrbtom mráz, ponáhľa sa rýchlo a
+hlasnejšie zavolal „Sidka!" a hrubým, ale zreteľným hlasom zaznie nazad
+„Sidka!"
+
+Sidka kvitla a založiac ramená krížom cez prsia, natiahnutým hrdlom
+načúva ďalej.
+
+Miško na to medovým hlasom zazvoní: „Môj --- anjel!" Nato čuť dačo,
+akoby ozvena bola zívla, ale odznelo zreteľne: „Môj --- anjel!" A ďalej
+zavolá „Ľúbim ťa!" a basedlový ohlas nasleduje: „Ľúbim ťa!"...
+
+Sidku tak príjemne okolo duše šteklilo, ako keď si do teplého kúpeľa
+sadáme. „To je opravdu utešené," šepoce ona. „Ó, dovoľte, idem sa i ja
+dačo pýtať."
+
+No tá žiadosť nebola Miškovi vonkoncom po chuti a nechcela sa mu pratať
+do uholnice. Jej milému pohľadu, jej prosbám nebolo by slušno, no ani mu
+nebolo možno vzdorovať. Škrabal sa v plešivú hlavu a v neblahej
+predtuche miesil nohami ako na mravenisku.
+
+Sidka vztýči sa ako víla a patelátovým hlasom nesie sa slovo „amor"
+ponad prepadlisko.
+
+Slovo amor vyhnalo Miškovi lipkavý znoj na čelo. Amor!... Hm, to bolo
+čosi neslýchaného valachovým ušiam, ani to nestálo v danej mu
+inštrukcii.
+
+A nasledovalo ticho. Ani vetrík nepohol listom.
+
+Sidka obráti sa k Miškovi a tvár jej stala sa otáznikom --- ?
+Domnievajúc sa, že dosť hlasne nevolala, plným hrdlom vykríkne: „Amor!"
+
+Kostrnka v mukách nápraskom na to vybúši: „A Sidónia!"
+
+Na to zareve pomoci neznajúca dešperátna ozvena: „Somár a pivónia!"
+
+Zreteľný, žiadnej pochyby netrpiaci ohlas ohromil Sidóniu ako horúci
+blesk. Na nešťastie k tomu celá spoločnosť, ktorá sa ukradomky za naším
+básnickým párom bola prisťahovala, pustila sa do neohraničeného rehotu,
+čo ich tým viac ešte zmútilo.
+
+Miškovi neborákovi, ktorý sa nie na soľný, ale na drevený stĺp premenil,
+odvisla hlava ako hnilá hruška na zvädnutej kostrnke.
+
+Sidónia, fúria, prebodla ho zrakom, ako keď študent motýľa ihlou
+prepichne. Za chvíľu stojí pred ním, trasúcim sa zajacom, ona rozhnevaná
+anakonda, potom so slovami: „Prvé meno vaše, druhé moje," obrátiac do
+prachu stlačenému Kostrnkovi chrbát, pálila domov...
+
+# Stratený kepeň
+
+Zatvoril som okno a upraviac červený rubáš, opretý o lakeť vyzeral som
+von. Vonku stála surma. Vietor, táto ináč len vo svojich skutkoch
+viditeľná bytosť, česala vŕzgajúce vetvy štíhleho jaseňa oproti obloku.
+Klonili sa, knísali a ukladali v jednu stranu ako napred česané riedke
+vlasy plechavej hlavy. A keď si vietor kus oddýchol, ony stavali sa
+nazad do prvotnej pokojnej polohy, akoby kašľom zmorený vydychujúci
+človek. Ale vietor zase fučí, a tým tuhšie, čím viac pary v oddychu
+nabral. --- Slabšie listy už opúšťajú strom, skákajúc v jednom smere po
+ometenej zemi.
+
+Prachové oblaky krútia sa po námestí a guľôčky suchého machu trúsia sa
+zo starých striech mimoidúcim na hlavy.
+
+Ako loď na rozbúrenom mori vesluje prostred námestím proti vetru pekná
+ženská postava. Šaty jej klepocú, prichyľujúc sa k telu, a na zohnutej
+hlave vlajú jej na letnom klobúku pripravené perá. Lakťami o driek
+pritisnutými usiluje sa preboriť si priechod; časom, prachovými oblakmi
+zaobalená, mizne celkom môjmu zraku. Päťdesiat krokov za ňou ponáhľa sa
+švihák. Raz sa krúti, raz stojí, raz zase ide, drží širák jednou rukou,
+keď tá nevystačí, pomáha si druhou. Vyvrátené červené futro sivého
+kabáta vyťahuje sa mu hore chrbtom. Vietor má svoje muchy a rád ľudí
+dráždi, oj, rád... Naduje sa a fuk, jedným šmahom mrští mu širák o zem,
+a ten, cítiac sa slobodným, poskakuje si natešený ako školiar, keď „pán
+rechtor prechoreli", a kotúľa sa parnou rýchlosťou oproti môjmu
+stanovisku. Švihák usiluje sa ho pristaviť palicou, a čo by ho priam
+preboriť mal, lež márna jeho námaha. S rozčuchranými vlasmi poskakuje i
+on. Klobúk, zunovaný, oprel o stenu práve pod mojím oknom a hľadí, za
+odpustenie prosiac, na svojho zadychčaného pána, ktorý ho zodvihne,
+hnevlivo potrasie a na moje pokynutie pristúpi s ním ku mne.
+
+Prvou jeho prácou bolo očistiť nový širák od všakových nepríjemných
+prílepkov a potom mi priateľ môj Ďurko vyprával, že sa práve ponáhľal za
+Nelkou, aby jej odovzdal povolanie na zajtrajší majáles. Ale nešťastný
+vietor prekazil mu vbehnúť do prístavu a zahnal ho do celkom cudzej
+zátoky.
+
+Touto príležitosťou pán podslúžny ako usporiadateľ povolal i mňa na ten
+majáles do zeleného hája. A keď si Ďurko Ferula pokrčený klobúk
+vyrovnal, pobral sa --- teraz iste s lepším prospechom --- za svojím
+ideálom.
+
+Druhého dňa vstúpil vietor do seba a prestal fúkať. Všetky okolnosti
+ukázali sa byť prajnými budúcemu majálesu. Pred príbytkami slečiniek a
+paní stáli rozličnej podoby, s rozličným záprahom, už či štverňami, či
+zinkami opatrené príležitosti. Útle pohlavie poskakuje hbite to
+stupkami, to zase lezie namáhavo bilnicou a váhou, podporované
+výslužnými šuhajmi, do pripravených, senom a slamou tapecírovaných
+rebrín. Silnejšie pohlavie, sem---tam už kus slivovicou páchnuce,
+zaujíma prednú časť vozidiel; strava v košoch, košíkoch, cedidlách,
+súdkoch zaujíma miesta okolo nôh, ale zväčša zadnú časť vozíkov. Celý
+zástup sa miesi, každý jeden dačo papre, či na sebe, či na inom
+predmete. Čas veru zvrchovaný a všetko sa ponáhľa hurtom, a ešte predsa
+jedno---druhé ostáva pokonať. Hľa, tamto pána farárova gazdiná v súrnej
+náhlivosti strčila si do vlasov miesto ihly kefku na čistenie zubov. Nuž
+ale to veci nič neškodí. Sedia už v dlhom rade pripravení k odchodu, ale
+tam nesie ešte slúžka zabudnutý pléd, tam sa pani Čvrlingová škriepi so
+svojím manželom, že sa miesto do ručníka vysiakal do jej nočného čepca.
+Tam zase zamenili izbový kľúčik vizikátorovým šúľkom. Pani mešťanostka
+vydáva z voza čeľadi prísne rozkazy. Naprávajú sedadlá a všakové príhody
+a pletky až po samý lônik zabávajú ohnivú, netrpezlivú mládež, kým
+predsa, no predsa raz pohol sa už celý povoz.
+
+Nerovné konské sily, odfrknutý lievč, odpadnutá podkova, stratený bič,
+ba i prekotený vozík boli príčinou nerovného času, v akom dobehli
+príležitosti na určené miesto. Ale predsa všetci prišli ta, kam mali
+prísť.
+
+Za ten čas poskytla sa nášmu Ďurkovi príležitosť preukázať sa
+zdvorilosťou. V najlepšom behu stratili lônik z vozíka, na ktorom sedeli
+Ďurko s Nelkou. Aby teda čas nemárnili, koleso a napokon seba nestratili
+--- napadlo mu hrdinstvo toho poddaného, čo keď jeho kráľ bol na úteku a
+lônik stratil, aby premeškaním času nebol chytený, skočil dolu, strčil
+miesto lônika do diery prst a bežal, bežal mimo kolesa, kým kráľ nebol
+zachránený, za čo potom obdarený bol zemanstvom a k tomu primeraným
+címerom --- povedám, to mu napadlo; ale zdalo sa mu byť dostatočným, keď
+miesto prsta strčil svoju peknú palicu, kým došli na majálesové miesto.
+
+Všetko išlo svojím behom, ako to na majálesoch býva. Jedni obstarávajú
+živnosť, točia sa okolo vatry, hrncov, potravných nádob, sudov atď.
+Druhí, ľudia praktického náhľadu, začali už hneď s príchodom zažívať
+materiálne veci. Tretí, kochajúc sa v krásach prírody, motali sa po
+nivách a lúkach, dievčatká vinuli a obkladali sa vencami, kladúc šuhajom
+do kabátových dierok kytky nezábudok.
+
+Nášmu Ďurkovi ako usporiadateľovi pripadla povinnosť nadzor viesť nad
+materiálnymi zásobami. Tu teda viazaný je o hmotu ten, ktorého srdce
+ťahá tam za čiernookou Nelkou do zeleného hája. Zelený háj a Nelka v
+zelenom obleku. Srdce mu puklo ako pečená kukurica. --- A on --- a on,
+práve keď Nelka tam kdesi pri bystrom potôčiku veniec vila, vykladal z
+papiera pečienky, zo sena vajcia, koláče a bryndzu. Ó, koľká próza! Ba
+hen, vytiahol tamto z koša tri rovnako krásne --- iste z jednej rodiny
+--- hladkou kožtičkou opatrené znamenité prasiatka.
+
+„Ba čo, ozaj, moja Nelka teraz robí?" pomyslí si. „Ale kdeže tieto
+sakramentské prasce odložím?" myslí ďalej a krúti hlavou. Oko uprie na
+susedný smrek, tam trčia tri haluze, akoby ich bola prozreteľnosť na to
+pristrojila.
+
+Použijúc príhody, zopchol prasiatka v poetickej polohe, sťaby egyptské
+sfingy, na hrdý smrek, ktorý jakživ ešte také ovocie nenosil.
+Jedno---druhé ešte urovnal, pohladil, naložil, a potom --- fuk! Zmizol
+za svojou Dianou.
+
+Každý robil, dumal, chodil, kade chcel, sloboda to krásna, neobmedzená
+--- rajská. Však ľudia preto tak radi po majálesoch chodia.
+
+Ale okolo dvanástej zďaleka a zblízka poprichodilo všetko bez toho, že
+by účastníci hodiny alebo beh slnca boli pozorovali.
+
+Istým, bezpečným vodidlom v tomto smere bol verný, dobre spravovaný ---
+lačný žalúdok. Starší, menovite páni, tí i tak od ohňa a či od sudov
+málo, i to len na krátky čas, vzdialení bývali, vyhovárajúc sa tým, že
+sa oni veru boja, že by sa v lese zatárali!
+
+Ale nielen naši sa schádzali, ale schádzali sa i hostia nepovolaní, a to
+boli osy. Čo chvíľa, to sa ich viac nahrnulo, takže sa hosťom už ozaj
+stali nepríležitostnými ani tie golombáčske muchy. Ruky, klobúky,
+chladidlá, varechy, čečina --- všade boli v pohybe. Medzitým kuchárky
+Ďurka upozornili, že by veru už čas bol i pre prasce, na ražeň ich
+zopchnúť.
+
+I poberá sa po ne... Hja, pane večný! Prasce so žltým akýmsi oblekom
+hýbali sa ako živé. Celé osie roje sedeli a traktovali sa na nich. Ale
+beda tomu, kto sa k nim opovážil priblížiť. Osy opanovali situáciu,
+vyvinujúc pozoruhodnú energiu na hájenie asimilovanej prasaciny.
+Všelijaké prostriedky a pomôcky boli vymyslené, aby sa korisť dravým
+osám mohla vyrvať, ale žum --- udreli útokom --- a šuhajci bezvýsledne
+sa rozbehali. Konečne predsa sám Ďurko opatrený dlhou žrďou prasce zo
+stromu pokušenia pozráňal. Padli, ale v akom spôsobe --- číročisté
+skelety! Mäso s takou anatomickou dôkladnosťou osy pooberali, že sa
+pozostatky ako kostry do osteologického múzea#POZ#84;(gréc.) Venovaného
+výskumu kostier#-POZ#, a nie na ražeň, hodili.
+
+Prasacina teda prepadla neúprosnému osudu, a veru táto pečienka počítaná
+býva medzi tie najlepšie lahôdky a má plným právom veľa milovníkov, a
+preto šomranie v nádeji sklamaných čakateľov bolo veľké, výčitky Ďurkovi
+najmä zo strany tých, čo prasce takrečeno pod srdcom nosili a či vozili,
+boli dotklivé. Ak ho dosiaľ ešte nepopichali osy, popichali ho teraz
+bodľavé poznámky lačných majálesantov.
+
+Vhod teda prišli misy s gulášom, čím sa hundranie hostí pomaly utíšilo.
+Ale lacným kostom navnadené osy bezočivo kolesili hostiacich sa
+majálesantov a beštie, akoby celú spoločnosť za kŕdeľ prasiec boli
+považovali, dotierali nehanebne do nich. Nebolo plnej do úst vezenej
+lyžice, na ktorej by sa žltočierne osy neboli viezli, a na mäsom
+obťažených vidličkách rady sa hojdali a vzdor opakovanému odháňaniu
+často sa stávalo, že s jedlom i ony do žalúdka boli osadené, skade
+naplašené darmo potom východ hľadali. Útlemu pokoleniu, keď ešte tu i tu
+pred preglgnutím z úst von vybrnkli, podobalo sa to, akoby iskry ústami
+soptili. Všetky tieto ťažkosti mali i svoju smiešnu stránku, a pri hneve
+hostí i zabávali. Nasledovali okrem toho ešte i halušky s bryndzou a
+mravcami a šalát s oškvarkami a húsenicami. Tieto svojou všetečnosťou o
+život privedené, prítomnosťou napomáhali rozmnožovať koľkosť jedál. Na
+majálesoch to všetko chutí.
+
+Zábava stávala sa čím diaľ tým hlučnejšou, prejdúc často do samopaše.
+Mladý Smida, pobadajúc, že jeden z mladých furtákov potajomky z pahreby
+pečených zemiakov do vačku napchal, pod zámienkou, že ho poťažká,
+podvihol ho hore, križujúc mu ruky cez vačky, a rozmiesil mu horúce
+zemiaky na fučku; popálený švihák lietal ako šialený po háji. Podnapitý
+starý pán usnul pod stromom. Vystretú pravú ruku priviazali mu o ucho
+naklonenej plnej kúpy, potom ho jeden spoza stromu dlhou slamkou popod
+nos šteklil. Starý pán zmraští nosom a chcejúc sa rukou poškrabať,
+prekotí plnú kupu na seba. Rechtorovi Kulifajovi, do každého dievčaťa,
+ale najviac do seba zaľúbenému švihákovi, natreli zadnú časť bielych
+pulidier medom. Kde ležal, sedel, či stál všade liezli po ňom v húfoch
+červené, biele i čierne, malé i veľké mravce; vždy musel mrviť nohami
+ako nasolená žaba. Čím vyššia bujarosť, tým viac minulo sa vína. A veru
+i tí stálejší klonili hlavy.
+
+Náš Ďurko, i tak citlivým srdcom obdarený, utratil hlavu, premeniac sa v
+jedno veličizné srdce. Celý svet by bol objal a bozkal. Jeho túžba
+vrcholila teraz len v tom --- stať sa osou, aby svoju Nelku mohol zjesť,
+tak ako tamtie prasce.
+
+No, nestal sa osou, ale sa stal tým, čo ony na skelet premenili, a to
+nie jednoduchým a sám, ale postupne, ako sa súdky prázdnili, s mnohými
+svojimi druhmi, a veru dokonalým.
+
+Nielen čaše sa míňali, ale míňal sa i čas a chladný večer nútil
+krasotinky k odchodu. A tá istá váhavosť a spozdilosť ako pri raňajšom
+odchode opakovala sa i teraz, s tým rozdielom, že ráno príčinou
+opozdenia boli ženské, teraz však mužskí. Dosť volali a karhali svojich
+na slabých nohách stojacich ochrancov; ktorý klobúk nájsť, ktorý zase na
+vozík potrafiť nemol. Ba i tí, čo už horko---ťažko boli vyliezli na voz,
+hlavami, opatrenými ťažkým nákladom, vracali sa nazad, do matky zeme.
+Taký tovar nakladať, ukladať nie je vec ľahká, požaduje mnoho času,
+práce a trpezlivosti.
+
+Pri fakliach a speve viezli sa domov, každý spieval, ako mu na jazyk
+sadlo, nestarajúc sa o druhého, a ženičky, nasršené na mužov, ťahali
+zase celkom druhú nôtu.
+
+A tak bez ďalšej nehody, zaprášení, sčiastky i zablatení došli domov.
+Usmievavý Ďurko, šťastný Ďurko, keď si dlho---dlho náprsníkové gombíky
+hľadal na chrbte, ľahol si s klobúkom na hlave do postele.
+
+Večer bol chladný, noc zimná, a ráno, trebárs na Turíce --- mráz. Na
+včerajší huj nasledoval fuj. Ďurko mal uši biele, oči červené a hlava sa
+mu točila sťa hrnčiarsky kruh. Nutno mu bolo ísť na prechádzku.
+Prechodilo mu kosti, ako keď smrť preskočí. Chceš si prehodiť kepeň, no
+nemáš ho, nikde nič, v celom dome či nahor či nadol. Na to sa predsa
+dobre pamätal, že ho včera mal so sebou na majálese. Nuž teda, kdeže je
+do diabla! Dovedúval sa u priateľov, paholkov --- ale bez výsledku.
+Ktorýsi sa rozpamätal, že v kepeni ukrútený vysadal na vozík, ale ďalej
+nevedel nič.
+
+Ďurko, ktorý v jednej osobe bol Ďurkom i podslúžnym, stante
+pede#POZ#85;(lat.) Hneď, bez odkladu#-POZ# použil svoje úradné
+postavenie, vyšvihol sa na vysokého podslúžnovského koňa, napísal ferman
+a v tú hodinu rozposlal na všetkých farárov obežník s tou úradnou
+prosbou, aby ten včera stratený kepeň z kancľov dolu obecenstvu podľa
+farby, podoby ohlásili, a to s tým dodatkom, že kto ho či mŕtveho či
+živého v dobrom stave prinavráti, dostane päťzlatovú odmenu. Ak by si ho
+však kto bol neprávnym spôsobom privlastnil a ho pod troma dňami
+nedoniesol, padne pod trest, vykázaný podľa hl. XXXIV. § 17, bod g
+ríšskeho zákonníka z r. 1856 --- a následky z toho vyplývajúce nech si
+potom pripíše sám.
+
+Druhý deň nato, keď ešte ráno Ďurko na posteli ležal, pripálil Gašpar,
+gazda a totum fac#POZ#86;(lat.} Pravá ruka#-POZ# u pána Príbella,
+Nelkinho otca, s batohom pod pazuchou.
+
+„Dobré ráno, vaša milosť. --- Či vy máte dva kepene?"
+
+„Nateraz práve žiaden," odpovie Ďurko.
+
+„Ale ste mali."
+
+„Jakživ len jeden," doloží zvedavý Ďurko.
+
+„Hm, divné," rozkrúca Gašpar batoh. „Nuž a toto nie ten stratený kepeň?"
+
+„To je on," zavolá radostne Ďurko.
+
+„Bá --- hm --- počúvam, načúvam v kostole, čo to, reku, čo, či sa, reku,
+mýlka nestala," škrabe sa Gašpar za uchom.
+
+„Nie, Gašpar, nie je to mýlka, to môj skutočný, predvčerom stratený
+kepeň."
+
+Gašpar sa smeje, utierajúc si spakruky nos. „I čerta že hrmeného
+stratený. Mali ste, vaša milosť, veľa machu v hlave. Škoda bolo kancle
+pobaláchať. Či sa rozpamätáte, že ste nazad idúc z toho majálesu pri mne
+sedeli, či je tak?"
+
+Ďurko rozmýšľa. „No, tuším, že áno --- no a ďalej."
+
+„Pýtali ste sa ma ustavične, či vás slečna Nelka ľúbi. A keď som vám už
+potom dosvedčil, že áno, áno, nuž ste ma chytili, chytili za obe líca a
+vystískali."
+
+„To nie je pravda," skočí mu Ďurko do reči.
+
+„Že nie --- ba pobozkali ste ma, nielen vystískali, len to tak fľaslo
+--- ani na to sa nerozpamätáte?"
+
+Ďuro v rozpakoch hľadí von oknom. „Nie, na to sa veru nerozpamätám."
+
+„Ba, že nie... No veru, škoda. Nikdy ma ani moja stará tak nepobozkala
+ako vy. Nuž a hľaďteže, vaša milosť, či sa ani na to nerozpamätáte, že
+ste mi v tej sume i tentohľa kepeň --- darovali?"
+
+„Ja --- čo ja...? Ej, na moju, ebatta, to nemôže byť!" Ďurko sa miesi
+ako na uhľoch.
+
+„No nech skameniem tu na tomto mieste, ak je to nie pravda. Ba keď som
+nechcel prijať, zavesili ste mi ho na krk, ak ho neberiem, že mi zaucho
+vylepíte, že mi to bude tri dni v uchu vyzváňať. Nuž, hriešny človeče,
+čo tu robiť?"
+
+„No dočerta --- to ver\' pekná história! --- A či o tom Nelka nič
+nevie?"
+
+„Ja, moja žena a vy; inší nikto. Dnes popoludní ho už chcela moja žena
+párať, ale dobre, že som bol pod kázňou."
+
+„Tu máte, Gašpar, päť zlatých nálezné a za druhých päť držte jazyk za
+zubami." Pohrozí mu.
+
+„Och, však sme naši," strčí mu desiatku za opasok.
+
+# Galiba za galibou
+
+Mal som kus prácičky v meste. Sanica bola výborná, moja žena dobrá, vzal
+som ju teda so sebou a viezli sme sa --- čihí, hota --- ako párik
+holubov.
+
+V meste Lojnici pokonal som si jedno---druhé, toto i ono. Mäsiar Ďuro
+Mechúr rád brával na bradu, no nerád platil. Lepšie vraj dať ako brať;
+ale uňho to naopak bolo. Vstúpili sme pred mesiacom, ako sa povedá, do
+rodiny; predal som mu totižto hodné, krásne teľa. Keď mi zaň i teraz
+ešte zaplatiť nechcel, či nemohol, vymohol som si od neho aspoň
+obligátor#POZ#87;(lat.) Dlžobný úpis#-POZ#. Obligátor bol chytro hotový,
+v nedostatku papiera vydrapil kartu z kalendára a napísal dlžobný úpis
+na pätnásť zlatých. No i tak dobre, keď ináč nie. Strčím úpis do vrecka
+a poberám sa ďalej.
+
+Moja dcéra Lenuška dostala na sviatky od tetky koláče. Chúďa, vpratalo
+naraz štyri celé lekvárniky do žumpy. To jej pomútilo knihy. Rozohnal
+som sa teda k felčiarovi, aby jej napísal dačo na ozdravu. On mi povie,
+že to musí von a predpísal jej na bľuvanie. Vezmem prázdnu skleničku,
+kde sme pre paholka pálenku držiavali a skočím do apatieky. Skleničku
+som potom opatril pod predným sedliskom v truhličke.
+
+Moja žena, opatrná žena, medzitým tiež nemámila čas nadarmo. Kúpila na
+hrbčeku kilu prosa, bo to vraj tuná o štyridsať grajciarov lacnejšie ako
+u nás v Bryndzovej. Paľovi to proso doprosta do hlavy nešlo, ale tým
+menej do sánok. Protestoval živo, protestoval mrmlavo, ale nič
+nepomohlo. Štyridsaťgrajciarový profit zvíťazil nad všetkými
+pochybnosťami a proso ako pasažier štvrtej triedy muselo ísť na piest,
+kde povrazmi poviazané tak vyzeralo, akoby sedel dakto ulepený s
+vypučeným chrbtom.
+
+Tieto maličkosti som pre ďalší vývin deja musel opísať; lebo i tak z
+iskričky povstáva vatra.
+
+Po vybavených takrečených komisiách pobrali sme sa v dobrom rozmare
+domov. Proso za nami.
+
+V Ondrašovej, ako v pol cesty, sme pohodili. Ja s mojou ženou vše jedna
+myseľ a dva žalúdky, odhodlali sme sa tiež dačo zakúsiť.
+
+A tu moja žena, múdra žena, nastolí šunku --- a mne medzi všetkými
+múčnymi jedlami šunka bývala najmilšou. K tomu pohár dobrého vína a
+cítil som sa dobre, ani ten grécky velikáš Periglesk --- či ako sa volal
+--- a to vtedy, keď bol na vrcholci svojej slávy.
+
+Keď je človek sám so sebou spokojný, náklonný je i k dobročinnosti, a
+pretože som ja sám so sebou bol úplne spokojný, čo som tichým úsmevom
+najavo dával, uzatvoril som v kútiku svojej duše i chudákovi Paľovi dačo
+z toho udeliť. A keď s tým predsavzatím i môj žalúdok súhlasil, venovali
+sme kosť a čiernu kožu s beľou tamvon vymrznutému Paľovi. --- Siahnem do
+vačku, podám žienke papier, aby doň pozostatky bývalej šunky ukrútiť a k
+ďalšiemu pokonávaniu na určité miesto odovzdať mohla.
+
+Po chvíli plieska Paľo bičom na znak, že je už šunka obriadená a kone
+zapriahnuté.
+
+Redikali sme sa do sánok. Ej, ráno to šlo ťažko, teraz po obede šlo to
+horko. Moja žena, akurátny špunt, oberučná, rozliala sa ako cesto po
+sánkach. --- Nehodno pripomenúť, ale pes sa tri razy okolo seba okrúti,
+kým si miesto nájde. I ja som sa točil, kým som sa zavŕtal do sena, ale
+potom sme i sedeli! --- Ramárom by nás bol musel vyťahovať.
+
+Sanica hladká ako maslo. I sám mesiac sa nám prišiel dívať. Tak sme sa
+mu páčili, že sa mu až tvár ligotala.
+
+Vezieme sa práve cez obec Lopár. Všetko ticho, na ulici okrem mesiaca
+inší nikto. Ľudia tisli sa okolo kozubov. Cez okná prebleskúval plameň
+brezových triesok a bukového lučiva.
+
+Tak som si dumal s básnikom, opisujúcim kľudný večer:
+
+Canes latrant ---
+
+Majoresque cadunt altis de montibus umbrae.#POZ#88;To jest po slovensky:
+Psi brechajú a väčšie hôr tône sa ťahajú.#-POZ#
+
+V tom idylickom dumaní zahučí za nami: „Tiiííí---ú hav, hav!" Podľa
+objemu brechu súdiac, ohromné psisko --- rovno za saňami.
+
+To, reku, psie básnenie, no robže si dobrú vôľu! Ale len neprestal pes
+pýtať, a keď mi toho už veľa bolo, zakríkol som mu „z Lojnice do
+Bryndzoviec", lebo povedajú, že keď sa psovi vývod cesty podá, on od
+ďalšieho požadovania pasu odstúpi. A vskutku začúchol, ale miesto brechu
+počuť bolo divné akési kýchanie.
+
+Divno. Obzriem sa. Pes kýcha, ale ach --- mech vychudnutý, upadnutý
+naraz akosi mizne. Visí síce, ale boky sa mu opálajú. Chmatnem rukou a
+zachytím dieru --- ale kaša naša cestou rozsypaná.
+
+Dunčo v tej myšlienke, že na pieste sedí dáky pasažier učupený, chcel ho
+schmatnúť za pulidery a --- vytrhol mu dieru. Nasýpalo sa mu prosa do
+nozdier, a preto to kýchanie, akoby bol smrkal žltý tabak.
+
+Žena bedákala nad spustou a ja zadivený obzeral som dlhý žltý pás za
+sánkami. Na nebi belela sa cesta mliečna, na zemi prosová a to spolu
+tvorilo „a Slovákom kašu s mliekom". Lenže, pravda, mlieko na nebi --- a
+kaša v pekle!
+
+Keď som celú situáciu prosového pása pretrasíroval merníckym okom, šiel
+som bubnovať po oknách susedných domkov: „Ľudia boží, pomáhajte!"
+
+Obyvatelia povybehúvali. A keď som ich ohnivou rečou, že sa až cmoky na
+strechách topiť začali, poučil o našej nehode, tu celý zástup, v okamihu
+na pomoc hotový, vyrukoval v pravej ruke s husacím krídlom, v ľavej s
+vahanom.
+
+Čochvíľa, a zametačka bola ukončená, a tu by ste boli videli zázrak! Keď
+proso zhrabané do mecha vsypali, bolo ho o dobrej pol kily viac ako
+predtým.
+
+Ale keď som sa tomuto neočakávanému, ani nevyžiadanému požehnaniu
+bližšie prizrel do očí, tu zbadal som, pravda, také prídavky, aké nikto
+v kaši nastolené mať nechce.
+
+Ale páchateľ všetkého zlého bez ďalšieho lúčenia šiel po svojom,
+zanechajúc mi len dieru na mechu miesto psej vizitkarty.
+
+„Ej, keby ťa mal, by ti ja chvost ozváral."
+
+Vybúrení zo svojho pohodlia, vhniezdili sme sa nazad do sánok ako
+Eskimák do svojho kajaku a hnali sme domov. My s ovisnutými hlavami; ale
+Paľo tým vyššie hore držal svoju gigaňu. Stalo sa mu po vôli. „Hm, či
+som nepovedal, že to proso tam čert s rožkami vezme? Hľa!"
+
+Táto impertinentná škodoradosť ma mrzela tým viac, že mal pravdu, ale
+--- čo sa vlečie, neutečie.
+
+Paľo kloní hlavu, odpľúva bokom; nastupuje zdýmanie a bedákanie. Opraty
+ovisnuté holengajú sa mu v rukách. Všetko to predzvestuje búrku.
+
+A ako keď sa úšust dolu Ďumbierom valí, tak sa mu naraz tisne
+rozdrapenou papuľou krútňava a pľuje nešeredne.
+
+„Čo ti je, ty bumbaj, ha --- či si hamovku prehltol?"
+
+„Ou, bodaj by si bol zhorel aj s rozólišom," odpľuje Paľo.
+
+„Čože, rozóliš? Aký rozóliš?"
+
+Chcel mi odpovedať, ale ho znovu krčilo a striekali z neho papršleky ako
+--- nehodno pripodobniť --- zo sopky Popokatepetl, tam kdesi v Trantárii
+mexikánskej.
+
+Po krátkom oddychu pokračuje uduseným hlasom ďalej: „Že aký rozóliš ---
+nuž, hľa, čo bol tuto podo mnou v truhličke."
+
+„Hrmen medených bohov, ty trubiroh, však si ty vyslopal manštranciu, čo
+bola pre Lenušku na vracanie."
+
+„Ba ešte kýho! --- Ja, reku, to rozóliš. Bolo mi zima, nuž som si drgol
+za tou šunkovinou. Fi, že ti do matere, ale ti ma vyzvárala! Škoda
+šunkoviny." Utieral si rukávom znoj z čela.
+
+I hnevať, i smiať som sa musel. A keď Paľo robil prípravy ešte k ďalším
+výbuchom, siahnem do kabáta, že mu dve---tri zrnká čierneho korenia
+medzi zuby strčím. Ale vtom pobádam, že mi obligátor, mäsiarom Mechúrom
+písaný, chybuje. Exekvujem všetky vačky, ale nič a nič.
+
+Tu mi blysne v mozgoch a tak mi blyslo, že to až snehom zasvietilo.
+
+„Paľo, nešťastný Paľo, kde je ten papier, čo v ňom bola šunkovina
+ukrútená?"
+
+„Ale ten papier? Nuž ten papier, hľaďteže, som --- prepytujem vašu
+poctivú hlávku i ten stolík, na ktorom božie dary bývajú --- ten papier
+som..."
+
+„Hrmen bohov, či si ho prehltol?"
+
+„Ej, bodaj ma čert kvintlíkom trhol --- nie veru, ale bol mastný a
+krčmárov pes, keď som šunku jedol, tak milosrdne hľadel na mňa, až som
+sa bál, že mi z očú príde, nuž som mu ho hodil, a ten chmat --- a už bol
+v žumpe, he---he---he!"
+
+„No, už si mi dal!"
+
+„Omne trinum perfectum#POZ#89;(lat.) Do tretice všetkého dobrého
+(ironicky)#-POZ#."
+
+# Roztržitosť
+
+Pri návale iných prác píšem dvom osobám dve dopisovanky rozličného
+obsahu. Najprv som napísal osnovu, keď tá hotová bola a dopisovanky už
+práve adresami opatriť chcem, tu vstúpia mi do svetlice naraz tri osoby,
+a to s rozličnými nárokmi.
+
+Všetky tri naraz začnú rozprávať.
+
+Moja dcéra: Tata, bruško ma bolí.
+
+Kolársky učeň: Tuto, pán majster posielajú konto.
+
+Baba: Pani Rozsypalka úctivo povoláva dnes na tretiu hodinu na krštenie.
+
+Sú vraj takí ľudia, čo znajú štyrom, piatim pisárom, a to o rôznych
+veciach naraz diktovať. No zo mňa takýto diktátor nevystane.
+
+Tri tieto rôzne a jednoznačné apeláty vyhodili ma úplne z duševnej
+rovnováhy. Chytil som sa za uši --- miesto toho, žeby sa bol rozumu
+chytil --- a pobaláchaný odvetím takto:
+
+Mojej dcére: Ďakujem, prídem ti na krštenie.
+
+Babe: Vyplatím za robotu. Práca dobrá. Nech sa len i ďalej tak usiluje.
+
+Kolárskemu učňovi: Nech si len prikladá teplý ovos na brucho.
+
+Mojim zadiveným vizitám odvisla spodná gamba. Ale ja quasi re bene
+gesta#POZ#90;(lat.) Akoby po dobre vykonanej práci#-POZ#, vysánkoval som
+ich von.
+
+Potom sadnem k dopisovankám, bez ďalšieho opátrania napíšem bona
+fide#POZ#91;(lat.) Dobromyseľne#-POZ# na ne adresy a pošlem na poštu.
+
+Bohatý statkár, vdovec Janko Babinský, sedí rozvalený na pohovke.
+Náprsník roztvorený, košeľa na krku rozopätá. Z čibuku sa mu kúri ako z
+maše. Číta dopisovanku.
+
+„Kdeže Vám myšlienky lietajú? Za Ľuďmilkou, však? --- No, za to však
+dostanete palice. Nech Vám to slúži druhý raz na výstrahu. Laskomerský."
+
+„Kýho čerta! Hm, --- písmo je jeho. Adresa na mňa. Tu pochybnosti niet.
+Škoda chlapa --- chudák, ten namojdušu vychodí z rozumu. Krem ak by sa s
+trungom... ale nie, pod klobúkom mu to máce."
+
+Sadne a píše telegram:
+
+„Pán Laskomerský, K. Nemeškaj, brachu, s Graefenbergom. Pečuj si hlavu
+zimnou vodou a popíjaj Deákforrás. Tvoj Janko."
+
+Vnadná mladucha, žienka pravotára Danka Fazola, sedí v kresle. Drží v
+hrsti zlostne pokrčenú dopisovanku a utiera si hojné a horúce slzy ako
+Lúčanské teplice.
+
+Danko usmiaty vstúpi do komnaty, chcejúc objať svoju peknú ženičku. Ona
+hodí opovržene rukou a odvrhne ho. „Stoj, Dano, kamkoli kráčiš, najprv
+tú karotku prečítať si ráčiš!"
+
+Zadivený Danko číta:
+
+„Tvoje deti prišli šťastlivo a zdravé ako jabĺčka. Môžeš sa veru tešiť z
+nich, sú podarené. Bol som im na stanici v ústrety. Tvoj Laskomerský."
+
+Fikajúca Ľudmilka, držiac mokrý ručník na očiach, sa ohlási. „A ešte
+dve. --- Ty falošnícky falošník. Fuj, hanba!"
+
+Danko, ako strelou ofúkaný, napálený sadne a telegrafuje:
+
+„Pán Laskomerský, K. Váš nestydatý žart namierený je proti pokoju môjho
+manželstva. Urážku odvolajte, zadosťučiňte, ináč Vás zastrelím ako...
+--- Fazola."
+
+Obidva telegramy som dostal po obede k čiernej káve. Jeden mi bol
+dekrétom dospelého bláznovstva a ten druhý ortieľom smrti pušným
+prachom.
+
+Situácia pre čeľadného otca ozaj povážlivá. A veru sa mi strovená
+horčicová omáčka dolu tisla. Toľko mi však ešte zbudlo zdravého
+rozsudku, trebárs bolo po obede, že som prišiel na tú zdravú myšlienku,
+že som pravdepodobne adresy na dopisovankách popremieňal! Slušná vec
+teda bola --- aby nemusel nastúpiť cestu do Graefenbergu, alebo podľa
+žiadosti pravotárskej na druhý svet --- oddať sa na vysvetľujúce
+pokánie.
+
+A tak zamieňal som s mojím Bismorjakom a Baistom nóty a dokázal
+diplomatické nedorozumenie. Pán pravotár totižto, cestujúci so mnou v
+jednom vozni, ako vystúpil, zabudol v ňom kúpené police, ktoré som ja,
+ďalej cestujúci, prejal.
+
+No a Jankove deti, dcéra a zaťko, boli u mňa na návšteve.
+
+Et hinc illae lachrymae.#POZ#92;(lat.) A preto tie slzy#-POZ#
+
+Teraz sa však ešte musím vyrovnať s kolárom a s pani Rozsypalkou.
+
+# Prmpulík
+
+Päťdesiat i šesť ružových papúľ sa otvára, toľko hlasov rozličnej výšky
+čviriká, k tomu frfoce dvoma motúzmi poviazaný, rukami obratne krútený
+kus drevka, uprostred izby však hučí poskakujúci, ako škurát veľký
+mumák. Tam sa dvaja chlapci pasujú, tam si traja nechtami vlasy
+čuchrajú, cez pána učiteľov stolík sa dvaja rovesníci za prsty ťahajú a
+druhí gombíky o stenu šmárajú. Z tohto povrchne kresleného obrázku každý
+ľahko uhádne, že sa tu dívame do obecnej dedinskej školy. Sú to bedliví
+chovanci vied, nádejeplní chovanci a snáď budúci ministri; keď nie to,
+aspoň odborní radcovia, čo len župani, a boh dobrotivý zná, akí ešte
+páni. Z tejto príčiny z ohľadu možnej ich budúcnosti, napríklad
+ablegátstva na sneme, budem sa chcieť usilovať o týchto malých veľkých
+pánoch čím najšetrnejšie slová šíriť. Ešte by sa mi dnes---zajtra mohli
+odslúžiť.
+
+Títo budúci velikáši vreštia v tej potuchnutej univerzite malej dedinky
+Polníky ako žaby v mláke, kým bocian zobákom, alebo pán rechtor feruľou
+na stôl nezaklope. Ale včuľ veru nezaklope, lebo ho niet, a kde niet
+rechtora, je na to miesto veľa kriku. Ale „silentium!"#POZ#93;(lat.)
+Ticho!#-POZ# --- nezbedníci, nenadúvajte sa, hneď vám pripáli krampus!
+Hľa, tamto feruľa a baculus ako sa vám vycierajú. Fuj, mladí
+chriašteľovia, ale či zatiahnete trasavé jazýčky za myšacie zuby! „Ej!
+canis vestra --- luridi, hirci!"#POZ#94;(lat.) Hej, psia vaša --- vy
+zelení jeleni!#-POZ# tak hrmí pán rechtor, stiahne obrvy, plesne
+hrachovou palicou na stôl a potom švargne ňou jedným machom celý šík
+prvej lavice po chrbte. Aha, tu je --- otvoria sa dokorán dvere a dnu
+vletí Karol, pobočník pána rechtorov, ošklbaný ako lipa, ktorý mu
+„škripty" z domu do školy a pálenku z krčmy do domu nosieval. Toto
+chlapčisko je prototyp lumpa, podľa tváre, posunkov, šiat, skutkov ---
+hodný predmet pre chýrečného maliara Murilla, ktorý tak rád trhanov
+maľoval. Ja som si vše žiadal, keby si ho mohol na pamiatku ako planú
+zelinu v herbári vytlačiť a usušiť. Jedným švihom vysadil sa na stolík,
+pelešiaca háveď malých krikľúňov zamĺkla. Karol pozdvihnúc si o jednom
+traku visiace pulidery, zavolá ako kedysi Suvorov --- „Hurrah! Praga
+padla!" --- „Hurrá, chlapci, chválapánubohu, pán rechtor sú chorý!"
+
+Túto, aspoň pre pána rechtora smutnú novinu prijala chasa so srdce
+prenikajúcim jasotom. Div, že Karolove dobre vyhnojené a nezúhorené bosé
+kvaky od radosti nebozkávali. Jedni plieskajú rukami, druhí od radosti
+knihy o zem hádžu, iní na jednej nohe dookola skáču, item, každý dáva
+najavo svoju spoluútrpnosť istým --- pre pána rechtora nie potešujúcim
+spôsobom. Deti i blázni hovoria pravdu.
+
+Čudujete sa terajšej mánii maďarizovania. Pletky; ľudia ani predtým
+neboli s tým spokojní, čo mali a čo boli, ale bažili ďalej, a keď i to
+dosiahli, driapali sa za druhým. Keď kto mal tisíc zlatých, žiadal si
+päť, a keď si tie nadobudol, ťahal na desaťtisíc atď. Baša keď už mal
+jeden konský chvost, žiadal si mať dva, a keď sa mu stalo po vôli,
+usiloval sa na tri. Ten čas, keď výchovoveda vrcholila v lopatke,
+palici, prúte, driapal sa každý, čo vedel kus čarbať, za latinčinou.
+Áno, i vychovávacie prostriedky museli sa preobliecť do linguam
+eruditorum#POZ#95;(lat.) Reči vzdelancov#-POZ# a volali sa múdro feruľa,
+baculus a virgas#POZ#96;(lat.) Prút, palica a korbáč#-POZ#. A pán
+rechtor, ktorý sa po otcovi volal a sa na meno „Káčer" obzrel,
+podpisoval sa „Franciscus Anastasius, docens et ľúty
+rechtor"#POZ#97;(miesto ludi rector, lat.) Učiteľ a kantor#-POZ#. Pán
+Anastasius docens rozumel účinky ferule vtipným spôsobom a znamenite
+zostriť. Keď sa jednému podarilo sviňu uliať, musel prsty pravej ruky
+„na hrušku" dovedna stiahnuť. Pravica zhrešila, pravica musí byť
+trestaná. Na to mu potom pán rechtor poriadnu facku vylepil, až mu
+nechty zhrkotali, čo neomylne ku krasopisu veľmi dopomohlo. Keď sa však
+vo zvlášť dobrom rozmare, napríklad po hojne užitej domárke vynachádzal,
+použil menšiu útlu ferulinku a do dierky, vprostred ferulinky vyvŕtanej,
+vpratal zlomok nožíka, ktorého ostrý koniec asi na dve linaje z plochy
+von trčal. Každým úderom po dlani delikventa pustil mu žilu, kým
+nevyzeral skatovaný ako svätý Šebastián.
+
+Prosím medzitým za odpustenie, že sa od veci tak ďaleko odchyľujem, ale
+nechcem, aby bol tento romantický opis našej sparťanskej výchovovedy so
+mnou pochovaný.
+
+Touto praktickou a ľudskou výchovou --- „erando discimus virgando
+crescimus"#POZ#98;(lat.) S chybami sa učíme, s palicami rastieme#-POZ#
+--- nielen skvelé pokroky vo vedách docielil, ale vzbudil i lásku
+zverených detí oproti sebe, ako sme boli toho svedkami pri zvestovaní
+smutnej noviny o jeho chorobe.
+
+Čím väčšmi je roztrhaný vojenský prápor guľami, tým väčšia pýcha toho
+pluku, ktorému prináleží. Vojak pri randavej zástave, štiavnický banský
+akademik v randavom kabáte, a študentík v domykanej obálke kníh, „theke"
+nazvanej, máva svoje potešenie. Nuž, slabosti!
+
+Keď rapavý a jednooký Karol --- jedno oko stratil pri vyberaní strák ---
+znamenitý chýr o chorobe pána rechtorovej zvestoval, odľahlo i mne ako
+Kolumbusovým mornárom, keď po dlhom plavení zase jednúc „zem, zem"
+uhliadli. Pobral som stenografickou chytrosťou svoju knihoveň do
+ošúchanej „štandáry theky", zvyšku to otcovho banského pozadného remeňa
+--- prehodiac remeň cez krk, pripevnil špagátom na nohavičný gombík a
+vyrútil som sa temenom vopred, s rykom ako divoška, s družinou na ulicu.
+Pred školou roztiekli sme sa ako láva výstredne na všetky strany,
+búchajúc a strkajúc sa krbáľali sme sa vo väčších---menších klbkách bez
+gymnastických zásad dolu kopcom, zaobalení do ťažkého uličného prachu
+havanovej farby. Z istej diaľky by každý do veci nezasvätený a
+nepredpojatý človek s istotou bol súdil, že sa tam ženie kŕdeľ
+„kvikompolerií" dolu kopcom; netušiac ani najmenej, že by veru v tom
+svinskom oblaku vystrájali budúce eminencie, excelencie, osvietenosti,
+veľkomožnosti.
+
+Hja, a predsa za mladi sa tŕň ostrí!
+
+A tu ťahá oproti rozpustilej nádejeplnej čriede chlap veľký s malým
+bubnom, a bubon veľký s malým chlapom. Epocha na Polnikách; to
+prmpulíkova komédia!
+
+No toho nám ešte bolo treba! V okamihu sme sa zošikovali za bubnami. Ja
+s papekom na pleci kráčam vopred, prvý za bubnom --- šťastný, že mne,
+synovi hlavy tejto obce, nikto sa priečiť nesmie, a kochám sa v
+budúcnosti, že večer bude „Doktor Faust s Mežulinou" potom ateľacie ---
+či atletické --- kunšty produkovať a opica chlapcom v hlave vši hľadať.
+Karol na to ihneď ponúkal pánu komediantovi svoj neočesaný revír.
+
+Keď som prišiel domov, s odvaleným okruchom chleba v ruke preunúval som
+matku bez prestania o prepustenie do komédie a o darovanie na to
+potrebných dvoch širokých groší.
+
+Po trojhodinovom smolení a neprestajnom prenasledovaní, do komory,
+kuchyne, stajne atď. namrzená matka po dvoch závdavkom udelených
+buchnátoch udelila mi s povolením do komédie tri groše, aby pre
+dozorstvo mohla ísť so mnou i slúžka Dora.
+
+Aby čas darmo nemárnil, pustil som sa so Štefanom Halbedinským do
+„pimparipipaxu" --- hry, skoro navlas podobnej šachu.
+
+Ďaleko pred určeným časom stál som u Kerešov. Pokladníkom bol sám
+komediant. Sediac v pitvore na kláte, krútil za chvost akéhosi
+bruchatého čerta uloženého na lone. Keď mu prstami šuchoril po črevách,
+vrešťalo to nemilobohu. Tento hudobný nástroj menovali savojardskou
+lýrou. Ku sekavým vysokým vreskom zapískal čas po čase akýmsi medzi
+zubami držaným plieškom. Bol to ďaleko znejúci vábec, čo mi uši napodiv
+urážalo. A šli, chudiatka, skromní, ale zvedaví obyvatelia za hlasom ako
+sojky na kuvika. Pred komediantom stál na maštaľnom stolčeku a červenom
+ručníku žltý hlinený tanier --- divadelná kasa. Tam kládli peňažné obete
+na oltár Tálie. Ach, ale nie každý bol vstave peniazmi sa vkúpiť, a takí
+donášali i naturálny deputát. Komediant mal i svojho koníčka a pol
+vozíčka. Kto teda nemal turáky, doniesol a prijalo sa mu ako
+relutum#POZ#99;(lat.) Výkupné#-POZ# viazanica sena, za vahan ovsa,
+zemiakov, oštiepkov, vajcia atď., a tieto dary in natura odkladali sa
+naľavo na zem ako mimoriadny príjem praktického umelca.
+
+Karol Veľký --- nie panovník, ale tento loptoš --- chcel bez vstupného
+vstúpiť, ale oko pána bdelo! Ako práve dnu dvermi chcel piznúť, fuk, už
+bol pitvornými na dvore. Neostalo pri tom. Pri druhom pokuse ho umelec
+priviedol do tak chytrého mimovoľného pohybu, že chmátajúc rukami v
+povetrí za dač\' pevným, beznádejne musel sa podľa gravitačného zákona
+hrubiansky uchýliť k matke zemi celou prednou plochou tela. „Amputa hoc
+caput et defer\' ad Antonium"#POZ#100;(lat.) Odrež túto hlavu a zanes ju
+Antoniovi#-POZ# povedal v úzkostiach postavený utekajúci Cicero svojim
+prenasledovateľom. I Karol svoju kostrbatú borievkovú kotrbu ponúkol
+bezcitnému Antoniovi, aby podľa vôle a iste nie bez prospechu opica mu v
+nej ískať mohla. Ale niks taič! Komediant mal srdce z kameňa. „Omne
+trinum perfectum," ale čerta z pekla horúceho perfectum. Len počúvajte.
+I tretí pokus nebol korunovaný prajnejším výsledkom. V práci neúnavný
+komediant, chytiac Karola tam, kde koruna býva a kde opica ískať mala,
+tak mohutne vyzváňal týmto skladom vedomostí, kýmkoľvek chudákovi
+zvedavému Karolkovi posýpka von ušami nefŕkala. Keď mu tak asi do pár
+medailónov vlasov v hrsti ostalo, s milostivým prízvukom a slovami „ter
+quater solve frater"#POZ#101;(lat.) Trikrát, štyrikrát, plať,
+bratku#-POZ# vysadil ho na slobodu. Opŕchnutý Karol sa striasol a
+zahladil nepovolaným komediantovým zakročením do neporiadku uvedenú
+frizúru. Lež šuhaj svojho charakteru, nedajúc sa maličkými prekážkami
+odstrašiť, posvätiac sa vede, vrátil sa nazad, ale nešiel viac hore
+koncom, lež uponížil sa medzi plazivcov, pošťastilo sa mu v dave
+hrnúcich sa divákov prešmyknúť do ozaj zaslúženého chrámu pristrojenej
+Tálie.
+
+„Počkaj, prekliaty komediant, ty hráš, ale ti zahrám i ja," rozpráva si
+do brucha hnevom prekypujúci Karol, pomiešajúc sa medzi divákov.
+
+V preplnenej dvorane hučal veselý vravor, raz tu, raz tam kvikom
+pretrhnutý. Utlačený bas volá: „Ej, bisťuvýdade, pusťteže i mňa
+dopredku!" Vysoký ženský hlas s chichotom zase: „No, Janko,
+nestískajteže ma tak..." Inde zase chlapčisko plačlivo: „Mamko, mamko,
+nedá mi dýchať." V kúte zasa varovkyňa lačné vreštiace dieťa kojí,
+štrngajúc plechovou hrkálkou.
+
+Vľavo od dvier pozdĺž steny dlhý stôl na dvoch nohách podoby X
+predstavuje vlastné divadelné dosky. Od povaly až po kraj stola visela
+všakovými drakmi maľovaná opona. Kútik vpravo od stola bol proscenium.
+Sprostred povaly visel luster, to jest dva nakríž preložené, lojovými
+sviecami opatrené šindle. Miesto pred stolom asi na tri šuchy bolo
+slobodné, prvú lavicu obsadili honoratiores, medzi nimi ja s Dorou, a
+tak sa postupne tratilo do pozadia. Okolo a na peci rozložená bola
+najlacnejšia, ale najviac smiechu a výskotu robiaca, k polnickej komúne
+patriaca čvarga. Všetko toto bolo zastreté rozpáleným hustým vzduchom, v
+ktorom zastúpené boli všetky chemické, z rozpadnutia zvieracieho ústroja
+pošlé čiastky --- ani dym banskobystrickej striebornej huty a zápach
+podlavických cibuľocesnakových sadov, takže v prirovnaní s tým výpar
+mydlárskej dielne môže sa pomenovať ružovou záhradou.
+
+Keď nám znojom vyzváraným kečka dolu sluchom a šaty po kožke lipieť
+začali, započalo sa „ateľatické" predstavenie. Prvý vystúpil bosý, v
+červených tesných nohavičkách zaodiaty chlapec. V úzkom predstolnom
+priestore skákal ako blcha v poháre, košúty váľal, plazil sa a prekrúcal
+ako had. Uviazal sa v okamihu i na tri uzle s hrčkou a zase sa rozpáral
+napoly ako staré nohavice. Híkanie na všetky strany. „Bože, chudiatko!"
+stenala suseda. „Ach, ach, to je strach; hľaďte len, hľaďte!" volala
+druhá a váľala kríže po sebe. Stará Valaška vykrikuje: „A bodaj by si
+bolo zhorelo, to je ani paštrnákový koreň hybké." Richtár Červenák inším
+nevedel svoje podivenie vynôtiť len častým opakovaním „i! i! i!" a
+šúchal si jednostajne nos o hánky. Oči všetkých lipeli na ňom,
+vyťahovali hrdlá ako špárgu#POZ#102;(maď.) Motúz#-POZ# a boli by im v
+náramnom podivení hlavy až do povaly vyrástli a podobu lopovov, známych
+tekvíc, na seba vzali, keby zázračnému vystúpeniu sám Bryndza Pál ---
+ako principála menovali --- koniec nebol urobil. Lež tu sa nám
+predstavuje on sám v kroji indiánskeho Kazíka, červenou hlinkou po tvári
+baumšaitismom tetovaný. Na hlave mal obrúčku z gelety, cez plece mu
+visela miesto tigra modrá gemerská huňatá guba s prišitou svinskou
+hlavou. --- Prvé čo bolo, zjedol jeden --- nôž. Nastrašené obecenstvo
+vydalo zo seba jedno a všeobecne trvanlivé „hí!". Mašiar Klementis
+všetok bez seba, hodiac baraniu čiapku o zem, zakričí: „Sto bohov mu do
+matere, nuž však ten i kutáč prehltne!" --- „Prehltne ten ver všetko i
+vidly z predpece, i kapustné nože," odvetí uhliar Maselník a fajka mu z
+úst odkvicne. --- Indián pokývnuc hlavou hrdým milostným zrakom odplatí
+rečníkov. Potom položí silný drevený, navrchu hladko vyhĺbený svietnik
+na zem. A šmyk, už je temä na svietniku a podošvy pod hradami. Ale ako
+strela vyskočí a so strašne zmraštenou tvárou a boľastným výkrikom
+vytiahne do kože vtlačený hrach z čela. Sprvu som myslel, že to patrí k
+celku, a veľmi som sa tešil, že mu hrach z hlavy bude vyrastať. Ale
+horká vaša bryndza! Indián veru tak bohoval po slovensky, loptošoval
+toho, čo mu hrach na svietnik podložil, len tak hrmelo. No prisahať by
+som na to nechcel, ale svoje mravné presvedčenie podnes mám, že pôvodcom
+toho inší nebol ako Karol. Po chvíľke sa búrka utíšila, zalepil si
+dierku lojom zo sviece a pokračoval ďalej. Poobzerajúc sa hrdo po
+obecenstve, ohlási: „Teraz sa bude predstavovať španielsky šalát!" ---
+Na to som zvedavý, čo to za šalát.
+
+Sadol si na zem a pchal do seba ženou na mištičke donesené zrebe. Líca
+mu už boli napuchnuté ako klenovské syrce. Ale on prevracajúc očami
+preglgával, akoby tie najchutnejšie pletence bol užíval. Hotový so
+zrebami, pritiahol najbližších dvoch chlapcov za uši vedľa seba, kázal
+im, aby mu do ušú fúkali. Na to im dal po jednom papečku bez dierky. A
+tímu papečkami do ušú fúkali, až boli červení ako pivónie.
+
+Vtom otvorí umelec papuľu, z ktorej sa valí dym ako Vezuv, keď mal
+Castell Graeco zasypať. Videl som vymaľované peklo v podobe zázračnej
+papule, ako neposlušné deti hlce --- a komediantove ústa práve tak
+vyzerali. Preto mi to bol pohľad strašný až do špiku. „Dúchajte lepšie,
+potvory!" Chlapci dúchali. Komediant stene, tlačí si boky --- a kdežeby
+i nie, prosím vás --- potisne, a tu vyfučia z neho okrem hustého dymu
+živučičké živé iskry.
+
+Ja som badal, že mi každý vlások rastie. Dora založí ruky pred oči, uhne
+hlavou nazad a zbledne. Naplašený, aby som videl dojem tohoto strašného
+výjavu v obecenstve, obzriem sa nazad. Za mnou vpravo pod lustrom sedel
+prísažný Kochelka, peknej, ale ako svätý Peter cele plešivej hlavy.
+Omámený zázrakom šeptal pod nos: „Je to vtip, je to vtip!" Hlbokú
+Kochelkovu pozornosť dokazuje najlepšie tá okolnosť, že mu z lustra
+pošlý lojový stalagmit na päť palcov zvýšky a štyri palce šírky na jeho
+poctivú plešinu nakvapkal bez toho, žeby si toho povedomým bol býval.
+Napnutosť bola toľká, že sa málokto i len dýchnuť opovážil.
+
+Keď mu už pekelné vráta dym a oheň soptiť prestali, pomiešal si na ríf
+dlhým papekom v hrtane, strčiac ho do žalúdka, ak nie ešte ďalej, a
+krútil ním, ako keď habarkou kyslé mlieko trepú. Zrazu vytiahne spomedzi
+zubov prstami stužku a tým istým papekom ťahá, ťahá to modrú, to bielu,
+to červenú, až radosť bolo na to hľadieť. Dore, pohľadom zadivenej,
+vykradne sa z hlbín srdca: „Ach, zbesnel si sa!" --- pri dverách ale
+vydýchne druhá: „Skamenel si!" --- tam kdesi pod pecou počuť hlas: „Mh,
+ťa pokrčilo, či ti vytiahol bandúra!"
+
+A to, páni moji, bol ten „španielsky šalát".
+
+Po krátkej prestávke a známej hudobnej produkcii s pridaným plechovým
+„ťuk, ťuk, ťuk" nasledovalo konečne divadelné predstavenie.
+
+Pomiesili sme sa na miestach, zotavovali z videných zázrakov a šúchajúc
+dlane očakávali sme s radosťou, čo to zase bude.
+
+Chcem jedno i druhé pripomenúť, ale celé divadelné predstavenie opisovať
+nie je mojou úlohou. --- Kráľ s kráľovnou, s komonstvom, maršali a dámy
+boli nádherne pristrojení. Čert menom „Pik" bol tmavomodrej farby, s
+dlhým, strašne klepajúcim pyskom a veľkými ušami.
+
+Strašnejší od tohoto bol Mefisto, čeľadník síce podoby človeka, ale mal
+uši tiež veľké ako lekvárový hrniec a celý bol červenej farby, akoby sa
+bol v kremnickej červenej hlinke močil. Keď títo dvaja rozprávali,
+sekali pyskami ani holendery, pred ktorými by sa bol i sám pôvodca
+„pekelného žalára" zdesil. Smrť ukázala sa tiež, ale len tak ostýchavo,
+„próterfurman", ako sa povedá, len zboku, a záležala celá z husacieho
+rozprestretého krídla. Originál musel dakde čert vziať, a tak sa mi
+zdalo, že to krídlo bolo len dočasným substitútom smrti. No ale my sme
+to spokojne vzali tak. Ale najväčšie interesy vzbudila osobnosť
+„prmpulíkova". Keď sa furták len ukázal, už bolo obecenstvu do
+popukania, klátilo sa smiechom hnuté v bedrách ako víchrom knísané
+smreky. „Bodaj by si bol zdochol, skamenel, zhorel, aby ťa metalo,
+hádzalo, skrčilo" atď. boli výkriky vďačného polnického obecenstva
+miesto aplauzu veľkomestských divadiel. Ako zvonica široká pani
+richtárka mala sa už od smiechu rozváľať ako rozsušená zvárka. „Prestaň,
+pumprl, lebo sa po---po---pu---", kričala bez seba. Dora rukami nohami
+bombáľala ako válkoveň, každý okamih som sa o ňu bál. Ale i mne bolo
+všakovak, no nie div, lebo furták furtácky, prmpulík, keď ústa otvoril,
+už to nebolo rovné a každý jeho posunok bol fígľom.
+
+Dačo na ukážku, len aby vám nezaškodilo: „No už je to pravda, už sa ja u
+toho môjho pána raz dobre mávam. V pondelok dostávam zemiaky, v utorok
+krumple, v stredu grule, vo štvrtok bramburky, v piatok švábky, v sobotu
+zemské jablká; v nedeľu ráno z múky, na obed z cesta a na večer
+halušky." No --- a potom sa nesmejte. Ba smiali sme sa za tých pár
+groší, až nás rebrá boleli a kuľajstra sa nám čelom i nosom cedila.
+
+Kým všetky tieto strašné, prepodivné a veselé výjavy našu obrazotvornosť
+a veselosť zabávali, zlosyn a „rotae diabolus" --- to by bolo po
+slovensky červený diabol --- Karol, neúnavnou pilnosťou vykyvoval a
+šťastlivo vykýval klin, ktorý nohy divadelného stola nakríž zložené
+spájal.
+
+V najlepšom ohni divadelného predstavenia, keď komediant za divadlom
+juchtovou nohou dupol na rozknísanom, k pádu prichystanom stole ---
+práve pri deji, v ktorom Pik s Mefistom doktora Fausta do pekla per šúb
+expedírujú#POZ#103;(lat., nem.) Postrkom odosielajú#-POZ# --- rozpadne
+sa stôl, divadlo, všetky krámy, a komediant z jeho podpovalného olympu
+musí sa znížiť k nám druhým zemských obyvateľom, ba ešte i kus nižšie. S
+veľkým praskotom a rinkotom, rozpľaštil sa na tom mieste, kde pred
+nedávnom v nepoškvrnenej nebeskej sláve španielsky šalát užíval a
+napriek hodvábnej húsenici hladké stužky zo seba vydával. A teraz? Teraz
+jeho sláva zakopaná leží.
+
+Pri veľkom zmätku padla jedna z lojových sviec štvoruhlastej richtárke
+na čepiec, ktorý hneď blčal ani stodola. Nebolo čím hasiť, v náhlosti
+postavili jej susedky pri ruke stojaci šochtár na hlavu. Karol, použijúc
+krásnu príležitosť pomsty, hodil sa ako divoch na svoju obeť, zavesiac
+sa jej na obe uši ako náušnice. Opica si bráni svojho Bryndza Pála a
+šklbe Karolovi škundry ako ženičky pastorné konope; komediantova žena,
+čierna ako šunka a červený chlapec usilovali sa Karola za nohy
+detronizovať, ale malá hŕba pýta viac, privalila sa rozpustená komúna z
+kachieľ a bola ich hneď kopa. Šťastie pre všetko polnické človečenstvo,
+že táto komúna v ten čas ešte hrozné účinky petrolejovej látky
+nepoznala.
+
+Vyhasili sviece, zmätok rástol, v tej miere množili sa i buchnáty. Tu
+potom richtár, ktorému sa kacheľ z pece do chrbta dostal, nadurdený
+pozdvihol palicu a „palica rúbaj". A padajú údery ako krúpy, nečítané,
+nemerané, ako sa komu dostali. Účinkovalo to blahonosne, delili sa múry
+nakopených bojovníkov ako bulvardy červeného mora pred faraónskymi
+bataliónmi. Ja som bol v hrozitánskom pomykove; okolo mňa fučala a
+pukala palica ako lieskové orechy, a ja som sa nemohol hnúť z miesta,
+ako vo sne --- dákysi čert ma držal za nohu. --- I Dore sa dostal
+poctivý úder na poli bitky, i mňa chraplo voľačo po čele a škrabalo na
+väzoch. Počal som plávať, veslovať rukami---nohami celou silou, až sa mi
+koniec---koncov podarilo s týmto pomotaným svetom sa rozuzliť a na dvor
+vybehnúť. Tam som už našiel viac utekajúcich a cez hnoj krbáľajúcich sa
+divákov.
+
+Sitkovie Zuza zronila rebrík zo šopy; ten padol Dore okolo krku a ona
+naplašená, v úzkostiach postavená, niesla ho na sebe chudera ako
+„španielsky grézlik" do čiernej noci.
+
+Aby sa nám z toho, čo tam štedrou rukou rozdávali, viacej ešte za podiel
+nedostalo, uchýlili sme sa záhradnými dvermi. Ale nás i tu Pik a Mefisto
+prenasledovali. Prvá zavadila Dora medzi hrachové palice rebríkom a
+trvalo chvíľu, kým sa toho jarma zbavila. Potom chcem čiernu mláku
+preskočiť a na bielu skalu skočiť, ale som sa zle---nedobre prerátal.
+Čierne bolo nie mláka, lež uhliarsky suchá zem a tú som udatným skokom
+presadil a rypol som miesto bielej skaly do --- vápennej jamy, fuk, až
+po samé plecia. No, servus, Gusto! Dora ma za uši ťahala, len tak
+lusklo, akoby bol do cesta padol, a vystúpil som biely ako premonštrát.
+
+Ach, malaže tá moja matka potom radosti! Prvé bolo, že ma vykečkovala a
+pri tej manipulácii mi vypadol Pik spoza goliera. Hrom mu do pečene, ten
+mi v tej trme---vrme frkol o čelo a potom sadol na väzy! Istotne jeho
+vinou som do tej vápenice zdrochol.
+
+Matka, pohroziac mi prstom, prepustila ma s tou anticipáciou, že „však
+sa zajtra porátame".
+
+Noc som mal nespokojnú, potil som sa ako povesná vo zvárke, ale „nocte
+pluit rota redeunt spectacula mane"#POZ#104;(lat.) Celú noc pršalo a až
+ráno prišlo predstavenie#-POZ#. Ráno musel som na rozkaz matkin vliezť
+do zavápenených šiat, potom sme vyšli na dvor a matka ich ---
+perse#POZ#105;(lat.) Pravdaže#-POZ#, na mne --- tak dlho klepala, kým
+ostatný prášok z nich nevystúpil.
+
+# Radvanský jarmok
+
+Kiachta, Novgorod, Lipsko a --- Radvaň sú vo svete známe trhoviská.
+Radvanský jarmok je a ostane dlho, dlho v porekadle a prežije ešte i
+proroctvo doktora Veselovského. Keď slovenský ľud dač kremobyčaje
+veľkého vysloviť chce, odvoláva sa hneď na radvanský jarmok. Po prvý raz
+Pešť, Viedeň a vôbec veľké mesto navštívivší Slovák, zalomí ruky nad
+davom ľudu a zadivený zvolá: „Bože, to je radvanský jarmok!"
+
+Keďže železničná sieť, ktorá sa už i do starokonzervatívneho Slovenska
+vkradla, i tomuto pôvodnému, povestnému národno---slovenskému trhovisku
+záhubou hrozí, hodláme týmito riadkami ako---tak zachovať jeho zaslúženú
+pamiatku.
+
+Ôsmeho septembra, keď si už zvolenské hole, menovite --- salva
+venia#POZ#106;(lat.)odpytujem#-POZ# --- Prašivá, obyčajne zimnú toaletu
+obliekli, keď štebotné, verné nám lastovičky do južných tajuplných
+krajov odletujú, a miesto nich pozdné smutnokrásne nezábudky, totiž
+jesienky --- colchicum autumnale --- sťa ostatný pruh, mdlý odlesk
+letný, lúky naše oživujú, vtedy býva vydržiavaný chýrečný trh v Radvani,
+mestečku s Banskou Bystricou nepretržite spojenom.
+
+Jarmok bez peňazí je takmer toľko ako hluchému hudba; ale peniaze
+nerastú ako huby po daždi. Peniaze si zaopatriť, k tomu vedú rozličné
+cesty; to dobre zná každý, kto šúľal groš medzi prstami.
+
+Montecchi a Capuletti, Guelfi a Gibellini, Horatii a Curiatii sa tak
+neruvali ako my, keď sme sa kamžami mlátili v sakristii po talentoch.
+Boj na smrť a život, ako hladom morené potkany, kým sa do ostatného,
+najsilnejšieho nezožerú. Koniec ruvačky a villafranský pokoj uviedol
+korbáč --- flagellum orbis#POZ#107;(lat.) Bič sveta#-POZ# ---
+džingischána, kostolníka Petráka, ktorý takto medze položil ďalšiemu
+krviprelievaniu na posvätnom mieste in ecclesia
+millitante#POZ#108;(lat.) V cirkvi bojujúcej#-POZ#. Štipľavý to síce,
+ale výsledkuplný žart.
+
+Ale spýtate sa, v akej súvislosti stoja tieto výjavy ľudskej krehkosti s
+radvanským jarmokom? Ab altari vivit sacerdos#POZ#109;(lat.) Kňaz žije z
+oltára#-POZ#. Miništrant slúži tiež za mzdu, už či sa on pri svieci,
+knihe, či pri turibule, a či pod krížom na pohreboch šipliká. A tieto,
+tak horko---ťažko pri pračkách, pobožnom vzdychaní a pri pohrebných
+slzách nadobudnuté grajciare sa cez mesiace odkladali a zbierali na
+radvanský jarmok.
+
+Raz som našiel na podvrchu jednej starej, ošarpanej šalandy ládu, podľa
+nápisu z roku 1727 pochádzajúcu, s veľa ukrytými priečinkami, a tam som
+odkladal svoje miništrantské zárobky s mravčou pilnosťou. A tak, hľa,
+nielen minister, ale i miništrant môže dačo --- odkladať.
+
+Keď sa už túžobne očakávaný 8. september dotiahol, pootváral som všetky
+priečinky a sortíroval mince. Ako teraz, tak i predtým s peniazmi vždy
+machľovali. Kolovali vtedy dvojgrošníky dačo menšie od lopaty, takrečené
+„šustertalery" s nápisom tridsať grajciarov, ale platili len šesť
+grajciarov šajnových. Potom s nápisom 3 gr. --- 2 gr. Tri strieborné
+dvadsiatniky, čistej opravdivej hodnoty, zaviazal som pevne do uzlíka,
+šesť grajciarov vstrčil som do jedného a dva grajciarniky do druhého
+vačku, čím dostali moje vrecká podobu zapuchnutých líc pri bolení zubov.
+Takto vystrojený a blažený vybral som sa na radvanský jarmok.
+
+Kde aká cesta alebo cestička, hradská, priesmyk, prť, chodník,
+chodníček, priechod, most a lavica, a či brod --- všetko bolo zaplnené
+jarmočníkmi, ťahajúcimi sústredene do Radvane. Tisíce starohorských
+pútnikov, spievajúc, kde---tu i trúbiac, akoby ozávod, obzerajúc a
+potkýnajúc sa o päty jeden druhého --- pospiechajú do radvanských
+bazárov. Časom pred procesiou nesený Kristus skloní sa dolu, aby ho
+mohli nadrapujúce sa deti pobozkať. Každý húf prespevuje síce tú istú
+nôtu, ale druhým hlasom. Predvoj vedú dakoľkí chlapi, za tými chlp tenko
+spievajúcich žien. Celý pochod končí sa do špicu, ktorý, obyčajne kus
+pretiahnutý, vychodí a pozostáva z kuľhavej, požehnaním obťaženej,
+zosušenej starej babky. Pozornosť pútnikov nie je výlučne spevu
+venovaná, týka sa ona i mimoležiacich predmetov. --- Krem týchto
+pútnikov pospiechajú i iní prozaicky, či už pešo, či na koňoch, na
+vozoch, hneď chytro, hneď pomaly za tým istým cieľom.
+
+Na dolnom banskobystrickom predmestí valiace sa masy nadurili prachu,
+ktorý vystúpil hore a obtiahol všetky predmety žltou farbou. Táto farba
+zmenila sa pri striebornej hute na tmavočiernu, takže ľudia, prejdúc
+tieto dve politické atmosféry, stali sa úplnými „švarcgelbami". K týmto
+rôznym dvom prachovým oblakom peknou štafážou boli stromami zelený
+Urpín, hučiaci bystrý Hron a modrastý kučeravý hutný dym.
+
+Tu od historických trosiek starodávnej striebornej huty počne sa malebná
+strakatina. Bohatý trh začína sa žobrotou. Ohlasuje sa tu z oboch strán
+cesty lamento, aké snáď bolo počuť len po prehratej bitke pri Hradci
+Králové. Tam žobrák, bohatý na deti, krúti vŕzgajúcu lýru savojskú a
+jeho početní nápadníci plazia sa po ňom ako húsenice po kapustnom
+koreni. Tam zase bedár holengá povetrím akýmisi kýptikmi miesto ramien,
+ktoré sa skorej safaládkam ako ramenám podobajú, na kýptiku však visí
+ovinutý ruženec. Postúpiš ďalej a tam ti pchá pod nos ranavé, muchami
+posiate nohy. Hentam sa váľa kus drieku bez nôh; onen krúti hlavou
+tik---tak, bez prestania deň i noc. Slepý Tobiáš reže sláčikom po
+husliach, upomínajúc nás na srbské gusle. Keď sme i toto početné
+kšeftujúce patologické múzeum prebehli, dorazíme k najstarším sveta
+tohoto remeselníkom, ktorí si skutočne a podľa udania Adama,
+najstaršieho nášho tatuška, za patróna vyvolili. Rozumiem tu hrnčiarov.
+
+Tu medzi pyramídami budúcich črepov, akými sa vše sláva a zväčša
+diplomacia tohoto sveta končí, prechádzajú sa starostlivé maminky a
+veliteľky kuchýň --- muštrujú prísnym zrakom a klopú vážne zohnutou
+hánkou po nádobe, aby podľa cvengu, ako kosec kosu, mohli vyskúmať jej
+vnútornú morálnu hodnotu. Význam týchto tajomných posunkov by nám snáď
+náš Pozdech mohol vysvetliť. Ja som to po mnohom bádaní vyskúmať
+nemohol, hoci in praxi moja dobrá mať, možno i to primálo, po mojej
+hlave hánkami klopajúc vyvolávala: „Darebák darebácky, z teba nebude
+nič!"
+
+Kto mastí, dobre sa vozí. Tam na náprotivnej strane dolnozemská, na
+vetre údená slanina má dobrý odbyt. Odnášajú ju paholci odpredku i zadku
+pôltami ovešaní, kráčajúc hrdo ako starí Gréci vo svojich tunikách.
+
+Čím diaľ, tým väčší huk a stisk. Tu už nastáva to milé---nemilé vítanie,
+pozdravovanie, objímanie a rúk stískanie, ba nazbyt i bozkávanie, kým
+nová starohorská lavína ústa už---už k bozku nakrivujúcich neroznesie.
+Tí, čo ich hory---doly cez roky a roky lúčili, tu sa zídu, tu sa vítajú.
+
+Ale poďme ďalej, aby sme medovnikárske šiatre neobišli. Či by si snáď
+kolísku, bábku, alebo obrázkom a pekným veršíkom ozdobené a cukrom
+obliate srdce alebo paklík mandľového marcipánu a čo len korenistý
+pusrlík pre tú alebo onú nekúpil? A voskovník na roráty? --- Čo sa tu
+minie s múkou namiešaného, prachom zapadnutého medu, to sa iste
+chudákovi svätému Jánovi v saharskej púšti nesnívalo pri kobylkovej
+pečienke.
+
+Trara, trara, bum---bum---bum!
+
+Aha, tamto veľká koliba z dosák zbitá. Nad vchodom strašné obrazy: diví
+ľudia jedia jeden druhého; --- lev s troma chvostmi, o jeden viac ako
+český, a orol s troma hlavami --- teda tiež o jednu viac, ako vôbec máva
+orol privilegovaný. Krásna potvora, po pás panenka, od pása dolu
+obyčajná podustva s chladidlom, to jest fecherom v rukách. Opitý Kysučan
+roztrepal žene hlavu pálenčenou sklenicou s nápisom „Jupiter fulminans".
+--- Tomu odolať nebolo v mojej sile, ani v mojom programe. A tak teda
+hodím komediantke v červenej tunike jeden šustertaler, to jest
+dvojgrošník, dverná opona sa odtiahne a ja s klopaním srdca vstúpim do
+svätyne. Obecenstvo bolo ako početné, tak vyberané. Podlavice, Riečka,
+Eliáš, Pršany, Malachovo boli zastúpené svojou elitou. Zápach cibuľový a
+cesnakový v najkrajšom kvete.
+
+Priestor bol dupkom naplnený, ako zápalky v škatuľke, a čo viac môj
+obzor úplne zatienil široký klobúk môjho suseda, paholka z Tajovej,
+predo mnou stál očovský prísažný s geletou na hlave úplne podobnou
+nedostavanej babylonskej veži. Terajšie ženské šiňony sa veľmi ponášajú
+na tú pokryvu. --- Týmito prekážkami bol mi síce výhľad prekazený, ale
+aspoň sluch nie. Počul som na dejište vystupujúce osoby: Meluzínu,
+doktora Fausta, čerta, Pika a --- pekelného premierministra Mefista,
+veselého Pimprlíka atď. Už keď tento posledný rozprával, to sme sa len
+tak krčili od smiechu; chlapi mu bohovali zle---nedobre, ženy vrešťali,
+papule rozdrapovali, štrbavé i biele zuby vyškierali, ba podajedny
+museli na chvíľočku i von utekať. A to všetko ten sakramentsky Pimprlík,
+hľa! --- No, môžem uistiť, obecenstvo bolo veľmi povďačné. Po tomto
+predstavení nasledovali olympijské hry. Či to nie dosť za šesť
+grajciarov? Nuž ale čože z toho, keď sa ten mažiar na očovskej kotrbe
+priezračným nestáva. Ale boh Jokus zmiloval sa nado mnou. Dáky nemotorný
+sused vyrazil mu zapekačku z úst a kým sa on ako ďalekohľad do seba
+pokrčený po zemi plazil, otvorilo sa mi na okamih nebo, a vidím zázraky
+sveta.
+
+Stvora v červenej sukničke sa po stole moce ako zasolená žaba, skáče ako
+kobylka a zase sa skrčí dovedna ako págeľ. --- Zatým prišiel žltý
+komediant. Bryndza Paľom ho menovali (možno bol principálom). Chytil
+dieťa za hlavu a krútil ním v povetrí, šmihal a plieskal ako bičom.
+Rukami pobožné dovedna zloženými tŕpnem nad pružnosťou stavcov tohoto
+divného stvorenia. Ale pri mne bezzubá Dora Babalovie --- tak ju
+menovali --- to tajomstvo dôkladne vysvetľovala svojim susedom, a keďže
+som blízo nej stál, ušlo sa i mne dačo: „Nuž, hľa, dajžemibože, takým
+deťom vám hneď v prvú hodinu po narodení pred krstom baba všetky kosti
+piestom nadrobno rozdrúzga, a preto sú potom také zhýbavé ako had a
+pružné ako kolomastika." (Chcela iste povedať gummi elasticum.)
+
+Potom vyviedol komediant koníka na uzde, pýtal sa ho, či žral ovos, on
+pokýval hlavou, že áno. Potom si pejko sadol, zakresal do fajky, fajčil,
+odpľúval, zuby si šparchal, a len toľko, že nám noviny nečítal. Nuž ale
+prv, akoby to bol urobil, komédia sa rozišla. Keď sme sa, a to veru ako
+načim, von tisli, čvirikalo nám nad dvermi žlté vtáčisko. Bolo na
+retiazke uviazané a chochol sa mu duril; ak sa nemýlim, volali ho
+Dukaka. Tam sa voľakde má liahnuť za zeleným morom. Ten zbojník mi
+odhryzol, ako sme sa tak pomaly von peľali, vrchný gombík z košele. Bol
+to gombík okrúhly, z kosti, nuž sa iste nazdal, že to hrach. Odhryznúc
+ho, vyletel na žŕdku, a bolo po mojom gombíku.
+
+Za medovnikárskymi šiatrami je most, kde býva najväčší stisk. Čože to
+bolo, keď sa Napoleon so svojou armádou cez berezinský most pytľal ---
+lárifári!
+
+Jeden prúd ľudu ťahá dolu, druhý hore, naprostred mosta vír ani pri
+považskej Margite.
+
+Šúľky, čo nimi husi kŕmia, robia medzi dlaňami, šúľajúc kus cesta
+sem---tam. No práve ako takýto šúľok, šúľali ľudia i mňa na spomenutom
+mostíku, raz sem, raz tam a dobre vyvaľkaného vydvihli ma potom vysoko
+nad okolité živé tekvice. Na povýšenom mieste cítil som i strach i
+šteklenie a okamžitú blaženosť vyvoleného a na pleciach vydvihnutého
+župana alebo snemového vyslanca. Po krátkom bavení sa vo vyšších sférach
+cítil som zase pevnú pôdu pod nohami. A tu som sa pozbieral na zvláštnom
+punkte radvanského jarmoku. Hovorí sa veľmi zhusta, a to vraj má byť i
+matematicky dokázaná pravda, že mesto Zvolen je strediskom celého sveta.
+Ako teda Zvolen vo svete, tak čierny dom a priestor pred ním, kde sa na
+„Orlíka" hrávajú, je strediskom celého radvanského jarmoku, je punkt,
+ktorý žiaden šarvanec bez pokušenia fortúny neobíde.
+
+No ale keďže sa i tak ešte sem navrátime, pôjdeme nateraz medzi šiatrami
+ďalej, kým neprídeme na --- radvanskú deltu. Jedno rameno beží na juh,
+na dolnú Radvaň; je voľačo kratšie a končí sa celkom tak ako Európa ---
+čižmou, pretože tam čižmári svoj tovar rozkladajú. Vôbec sú tam
+remeselníci, čo sa zdieraním koží zapodievajú: koželuh, remenár, grznár,
+švec, čižmár. Na samom konci však je mestská striekačka.
+
+Hneď od pazuchy horného ramena rozkladajú sa šafranníci so svojím
+tisícnásobným krehkým tovarom. Tu nadrapujú mendíci harmoniky, fúkajú do
+drevených hrušiek, tam malí chasníci s osihleným noštekom dúchajú do
+píšťaliek, zastupujúcich chvostíky drevených koníkov.
+
+Bočná ulička, vedúca ku hradskej ceste, založená je pyramídami ovocia.
+Karmanky, bystrické slivky, krupinské hrozno --- ak ho okúsiš, ihneď ti
+zavše jedno, zavše druhé oko kŕčovite žmurkne --- dyne, jablká, no,
+ovocia zblízka i zďaleka. Ale tu aj brnkajú osy a muchy i z troch
+stolíc. Mne samému pri tej príležitosti len tri osy s jednou karmankou
+do žalúdka vbehli, kde mi počas celého trhu škrabkali.
+
+Za šafranníkmi nasledujú šiatre všakového hrubého i tenkého strižného
+tovaru. Súkenníci, krajčíri, zlatníci, hrebenári, fajkári, gombári atď.
+Zvláštnu pozornosť zasluhujú sklady šiat Diamanta a Silbersteina ---
+obaja páni pôvodu semitského. Šaty ako pre krásne, tak pre špatné
+pohlavie. Najväčší kontigent kupcov posielajú sem z vidieka mäsiarky,
+mlynárky, krčmárky, rechtorky a lesníčky.
+
+Tá beluška sa tlačí do modrej kacabajky, lemovanej prámom divej mačky;
+štíhlulinká to duša na prehltnutie. Jej starulinkej maminke cidlíkajú po
+zvädlých, zvetraných lícach slzy radosti ako z mokrej handry nad svojím
+podareným dieťaťom. --- Tá oberučná černuša naťahuje havana---brunastú
+jubku. Chudera, prvý raz to má na sebe a trápi sa do rukáva natrafiť.
+--- Tam druhej pripínajú vycifrovanú serbianku a bleduša muštruje si
+pred zrkadlom čiernu vizitku. --- Tam v kúte zamyslené panie skúmajú,
+ani Archimedes svoje čiary, skúmajú a rozťahujú paletoty, beduíny,
+mantilky, tuniky a bohzná aké ešte šikymiky. --- V susednom šiatri
+naťahuje hornovidiecky pán rechtor na svoje šesťdesiatpäťročné
+koštialnaté pedále vypasamentované nohavice a jeho pán sused, mlynár,
+hrdo kráča v prevesenej, moľami popichanej bunde. --- Keby vás nešianal,
+mohol by vám do zunovania tomuto podobných výjavov narozprávať.
+
+Ešte za chvíľku trvá metelica, šumot, výkriky predávajúcich a
+kupujúcich, vyvolávanie sto a sto ráz sa stretajúcich a opakovanie
+pozdravujúcich sa známych a dávno snáď nevídaných priateľov a výkriky
+tých, ktorým otlaky pod mičinské lebo môlčanské podkovičky podbehli.
+
+Senectus ipsa est morbus. Čím viac sa blížiš k starému hypochondrickému
+radvanskému hradu, tým viac redne ľudská kaša, šumot tíchne, a keď
+vstúpiš do šíreho dvora nikým viac nestrkaný, končí sa trma---vrma a
+nasleduje veličizné --- nič.
+
+Po malom oddychu v priečelí rytierskeho hradu hodil som sa nazad do
+prúdu ľudskej tekutiny, plávajúc a veslujúc medzi košmi, košíkmi,
+kapsami a batohmi, prijímajúc vďačne a ešte vďačnejšie rozdávajúc
+buchnáty, po nohách stúpajúc a postúpaný, dostal som sa s dobitými
+rebrami --- contusio rebrorum#POZ#110;(prvé lat., druhé slovo slov. s
+lat. koncovkou, na smiech) Úraz rebier.#-POZ#, podľa Dávida Šťubrika ---
+pod známy nám už čierny dom.
+
+Na trudnej ceste ma však zastihla ešte i druhá nehoda. I tu, ako inde po
+jarmoku, pletú sa ambulatné kuchyne. Jedna takáto škamravá ambulantka
+strčí mi pod nos kvetastý tanier s čiernou, na slnci upálenou,
+murínskemu skalpu podobnou husacou pečienkou. Ja netušiac hroziacu mi
+husaciu pečienku, obrátim náhodou hlavu a ďub nosom do majoránu!
+Majorán, ako známo, pchajú pod trtáčik. Ale nepáchlo to viac majoránom,
+ale čímsi horším. Ja sa zmraštím a odmyknem, stratím však vtom rovnováhu
+a šmyks!
+
+Že sa tratím, to som badal, ale kam? --- Do čerta jazerného! Zletel som
+modistke pod šiator! Zdvihnem sa chytro ako strela na zadné nohy. Ale
+nešťastne som vtrielil medzi najháklivejší tovar, medzi kopfpuce a
+kapišóny. No, keď som sa tak --- akoby zo zeme vyrástol, s červenou
+koafírou na hlave a kus toho majoránu pod nosom --- pred modistkou
+zjavil, môžete si predstaviť predesenie tej chudery! V okamihu pochytila
+drevenú hlavu, čo na nej čepce vyťahuje, a poslala mi ju v ústrety; ja
+však nevyčkajúc jej príchod, šmykol som tou istou cestou naspäť, rozumie
+sa, bez koafíry; tú som jej pri reterírovaní zložil k nohám.
+
+Kto si robí nároky na vzdelanosť a zná henzla, farao, makao, kaláber,
+naševaše, čamboringo, par et impar a pimparimpipax, kto toto všetko a
+ešte viac ako toto zná, ale orlíka nezná, ten je v mojich očiach nie
+inteligentný človek, ten je fušer. Tým nešťastníkom teda, čo orlíka
+neznajú, chcem týmto posvietiť.
+
+Obyčajný stolík je obtiahnutý farbistým tmavým plátnom, v Radvani to
+tuším volajú bikslaivond. Na tomto bikslaivonde je namaľovaných šesť
+okrúhlych rozličných obrazov, jeden krajší od druhého, vo dvoch radoch.
+V jednom orlík --- de eadem --- koník a panna; v druhom sedliak, ruža a
+vtáčik. Medzi týmito radmi v prostriedku na vyšnom kraji stojí drevený
+kužeľ, asi na stopu vysoký, so špirálne krúteným schodom. K tomu patrí
+drevený pohár, z ktorého vrhne do schodu opálenú a tými istými, lež
+pravda, menšími obrázkami opatrenú kocku. Pri týchto nástrojoch stojí
+chlapina, čo mu už zďaleka na čele čítať môžeš: Ja som bankier!
+
+A veru je k tomu kšeftu ani nie každý človek stvorený. Vyhľadáva sa k
+tomu zvláštny talent, a to ľudí vábiť. S nevýslovnou precíznosťou vloží
+kocku do pohára, trepe ním o stôl, rozhadzuje sa, vtipkuje, vychvaľuje
+šťastie, volá, kričí: „Na orlíka, na paničku, páni moji, na orlíka,
+Ďurko, Janko, Zuzka! Ej, ej, Anička, noženo, sem sa, ešte orlík
+neobsadený! Ľala, tuto ruža bez muža. Panna bez pána! Miško Koválovie od
+Tutulov, na toho koníka, vybehá vám! Anka, strynká, vdovička ste, na
+sedliaka grajciar, má cepy, vidíte ho, vymláti vám --- alebo vás! ---
+Hoj, hoj, Števko, nože sa na tú pannu priberte, alebo na vtáčika, vtáčik
+marháčik." --- Konečne, keď je už každá figúra obsadená, vydvihne pohár
+s kockou, oči do nebies a zavolá: „Čo pánboh dá, to bude!" a vysype
+kocku do kužeľa. Glog---glog---glog, kocka sa vykrúti, zastane na
+plátne, výkrik radosti: „Sedliačik vymlátil!" A šťastná Anka zhŕňa
+trasavými rukami grajciare počtom päť do zásterky, šiesty grajciar
+pripadá bankierovi. Z druhej strany závisť, hromženie a pri neprestajnom
+strkaní hrešenie.
+
+No to je ten orlík, a takýchto orlíkov tu stojí asi desať. Môžete si
+predstaviť ten klepot, škrek, huk, volanie, smiech, preklínanie a zvadu.
+
+Túžiac za orlíkom, dotisol som sa k jednému najpohodlnejšiemu stolíku.
+Čochvíľa sme boli „drei Mann hoch"#POZ#111;(nem.) Všetci traja.#-POZ# a
+to: podo mnou stála o stolík ovalená územčistá šarkanica z Podkoníc, za
+mnou však paholok s päťprackovým opaskom z Kynceľovej.
+
+Tento šuhaj mi v roztomilom a pohodlnom vození po mne všetkých päť
+praciek na celý týždeň zreteľne na chrbte vytlačil. Aký vysoký nátlak,
+koľká hydraulická kolumna ešte mimo toho za mojím chrbtom tlačila, udať
+neviem, lebo na šindeľ stlačený, ako krokodíl, nebol som vstave ani
+hlavou zvrtnúť. A tak to vyzeralo okolo celého stola a pri každom
+orlíku. V perspektíve, z okien čierneho domu sa to asi tak vynímať mohlo
+ako palacinkový koch, plnený lekvárom.
+
+Ach, bolože ti mi v tejto zváračke desno! A niet divu --- podo mnou
+toľký sporák, široká Podlavičianka, nado mnou prackový preš. Napriek
+tomu sme však predsa hrali o dušu a kocka sa vrtela, akoby ju beťah
+metal. Najviac nás obťažoval istý fufnoš bez nosa, svinský pastier z
+Oraviec. On vše kládol akýsi zabryndzavený grajciar, ledva ho bolo zo
+stola zoškrabať, tak sa lipol, ebatta mu; a divné, na tomto lipkavom
+grajciari liplo i šťastie. --- Išlo to tak za dlhý čas, len ja raz zog!
+Reznem grajciar na pannu a poď! Ťahám kasu i s bryndzovým grajciarom.
+Boli by ste videli, aké okále na mňa ten sviniar vyvaľoval! S týmto
+talizmanom prešlo ku mne šťastie, šlo mi, akoby mi čerti boli podstlali.
+V tej miere ako moje vačky rástli, rástol i hnev a nenávisť mojich
+spoluhazardérov.
+
+Keď sa mi už šťastie zase dolu vrchom kloniť začalo, pohol som rozumom,
+vylúštil som sa po namáhavej práci skoro na handru roztlačený z prešu
+von.
+
+Po tlačovom priestupku, a či výstupku, šťastím navnadený pustím sa voľne
+prúdom, nesúcim ma k hustému kruhu; bola to hrádza do kolesa, ľudský
+živý plot.
+
+Vprostred tohoto plotu stál Arbaces, vysoký, suchý, červenovlasý,
+pehavý, navlas anglickému gentlemanovi podobný vážny
+cingisiar#POZ#112;(nem., skomol.) Cinár, ktorý vyrábal (predával) cínový
+riad.#-POZ#, pohrebný kurátor a Liegerhoffer --- per omnia tria
+genera#POZ#113;(lat.) Všetkými troma spôsobmi.#-POZ#, --- v jednej a tej
+istej osobe, a ešte i bankier k tomu! Hľadajúc dieročku, kde by mohol
+toto ľudskou húšťavou obtiahnuté tajomstvo preniknúť, behám ako kura v
+klonke, kolom dookola, ale nič. Medzi inými stojí zavalený, vypučený
+Bampelino, richtár z Nemeckej. Na zadku, cez hrubé mäso, mal nie bez
+koketérie kosom prepnutý pevný remeň z nohavíc. To by bolo --- pohnem
+rozumom, vyložím nohu do remeňa ako do strmeňa a vyšvihnúc sa hore,
+kukám do čarodejného kruhu. Tam vidím veľký okrúhly stôl čiarami a
+číslami poznačený, podobný tomu, čo cestovatelia obzerajú v Laxemburgu
+od doby Márie Terézie, vystavený v hrdelnej veži tam nad temnicou. Na
+číslach rozkladané sú rozličné veci: lyžice, piksle, nože, fajky i ---
+tri dukáty, ktoré však nikdy a nikto nevyhral, a tri kocky, ktoré
+spomenutý už dumný Arbaces rozhadzoval.
+
+A to bolo dobre. Lebo predtým, keď chudobný človek dukát aspoň vidieť
+chcel, šiel do Radvane, do toho chýrečného Monaka, šiel k stolu pána ---
+Liegerhoffera, a spasená mu bola duša, lebo jeho oči videli, a to tri
+dukáty in natura#POZ#114;(lat.) V skutočnosti.#-POZ#, a narobil si
+zadarmo slinky. Teraz? --- „Meghalt Liegerhoffer, oda van a
+dukát!"#POZ#115;(maď.) Umrel Liegerhoffer, už je po dukáte. (Narážka na
+maď. príslovie: Meghalt Mátyás király, oda az igazság = Umrel kráľ
+Matej, už je po pravde.)#-POZ# Teraz, vďaka, našim vládnym systémom,
+celé pokolenia vymrú bez toho, žeby boli videli dukát.
+
+Oči všetkých divákov tohoto kruhu vyvalené boli na dukáty. Pokoj, svätá
+napnutosť, len vzdychy --- „hihí, dukát!" --- šeptom vytisnuté bolo
+počuť. I mne začali tiecť slinky ako mäsiarskemu lapajovi. Keď však môj
+tátoš, namrzený nad neočakávanou chrbtovou akvizíciou, začal zadkom
+vyhadzovať, vypustil som opraty, to jest kečky, za ktoré som sa držal, a
+--- dukáty, Arbaces a všetky jeho poklady zmizli mi z očí.
+
+Zišiel som sa s dvoma spolužiakmi a tí ma volali k spomenutej už
+ovocine. Hľadeli sme kúpiť čím najviac a najlepšieho i najlacnejšieho
+ovocia. Išli sme rad---radom popri všetkých košoch, koštujúc všade a
+nekupujúc nikde. Už sme po tretí raz tú túru šťastlivo a s dobrým
+prospechom započali, išlo to dobre, až sme prišli k jednému krupinskému
+mešťanovi. My sme svoje plány, aby nás nerozumel, latinsky, lingua
+eruditorum, pretriasali. Pán Krupinčan, bývalý školár piaristov, načúva,
+ako sme si rozprávali: ego iam gustavi ter, et ego quater#POZ#116;(lat.)
+Ja som už trikrát ochutnal, a ja štyrikrát.#-POZ#, potom šmahne rukou
+ponad kôš, očistom akoby osy oháňal, a nášho kamaráta a furažierskeho
+veliteľa chmat za vlasy a vyzváňa, vyzváňa mu kotrbou akoby na
+nešporoch: „Ter? Quater? --- No salve, fráter."#POZ#117;(Iat.) Trikrát,
+štyrikrát? Nuž zaplať, bratku.#-POZ# My dvaja asistenti nedočkali sme
+rezultát tej kvaterky; vidiac, že mu parochňu dokonale cupká, stratili
+sme sa ako gáfor.
+
+I tu ma potom ešte osud znepokojoval. Ako sa popod čierny dom poberám,
+vyfrkol práve oblokom --- našťastie nie zvysoka --- barboráš i s
+barborou, táto vopred a on za ňou. Pri hraní zaspal, chudák, chcel sa
+oprieť o stenu, ale sedel pri okne a tak sfrkol na ulicu práve k mojim
+nohám. Nestalo sa mu nič, len čo hlavou basétlu prebil.
+
+Ešte som na ceste nakúpil pár farebných skleníc do daru domácim a kúpu
+popchal som do kaputa.
+
+A keď som už všetko videl a skúsil, pobral som sa umorený na tele,
+nadšený na duši domov. Najhoršie mi zase išlo na „ponte dei sospiri".
+Tak ma stisli, že zo mňa skoro mlieko tieklo. Keď som už prešiel
+hrnčiarov, išlo to potom ako po breznianskej bryndzi.
+
+Aby som vyhol prachu, podal som sa hore pri jezuitskej záhrade chodníkom
+cez šibeničný kopček. Vtedy tam ešte stáli znamenité, veľmi
+komfortable#POZ#118;(angl.)Pohodlné.#-POZ# šibenice o troch stĺpoch,
+všetko to solídna robota, ako to vravievali: „I pre naše detné deti."
+Traja mohli naraz na nich pohodlne visieť, bez toho, že by jeden druhého
+čo najmenej boli inkomodovali. Škoda --- ten pomník hrdúsenia už od tých
+čias pováľali. Šibenice zmizli, šibenci ostali!
+
+No ale kam sme prišli s našou rozprávkou? --- Pod šibenicu, veru pekne!
+--- Tuto, v tvári peknej prírody, lebo k väčším útrapám odsúdencov
+staviavali popravisko na najvýhľadnejších miestach, a tak v tvári
+velebnej prírody a v tvári znaku zákonnej prísnosti začnem prezerať
+jarmočné. Orlík voľačo doniesol, čo tým divnejšie, že ten dvojhlavý
+vtáčik obyčajne odnášal. Skúmam ďalej vačky. Sklenky domrvené na črepy.
+Na „ponte dei sospiri" mi ich dodrvili. A črepy, tam na viselniciach
+pochované, ležia podnes ako budúca hádka archeológom.
+
+A tak hodiac ešte raz okom na radvanskú agoru, poberal som sa ad
+lares#POZ#119;K otcom (domov).#-POZ#
+
+# Študentský majáles
+
+Môj priateľ Matej, plešivý ako koleno, keď už bol dobrej vôle, rád si
+spieval: „Der Mensch muss a\' Freud\' haben, und a\' Freud\' muss der
+Mensch haben, und wenn der Mensch ka\' Freud\' hat, so hat der Mensch
+ka\' Freud\'."#POZ#120;(nem.) Človek musí mať nejaké potešenie, a nejaké
+potešenie človek mať musí, a keď človek nemá potešenie, tak nemá človek
+potešenie.#-POZ#
+
+Čo aký človiečik, čo aký filozof, musí mať predsa v čom---tom svoju
+radosť. I Achilles mal svoje miesto, kde ho raniť mohli. Dievča sa
+raduje svadbe, nevesta krstu, lekár cholere, pravotár chlpeninám, vojak
+prusko---francúzskemu sporu a študenti vakáciám a majálesom. Ak vidíš po
+plotoch kriedou, po stenách uhľom vyteremtetované
+„Vacationes"#POZ#121;(lat.) Prázdniny.#-POZ#, často so smiešnymi
+ortografickými chybami, môžeš byť istý, že tá obec, to mestečko alebo
+mesto je sídlom dajakého učebného ústavu. Cez roky dávajú tieto výkriky
+svedectvá, sťa hieroglyfické známky na egyptských rumoch, o radostnom
+vyčkávaní vakacionálnych rozviazaností.
+
+Ale nie je nateraz našou úlohou opisovať vakácie; a preto vrátime sa
+nazad k predmetu, to jest k majálesu.
+
+Majáles sa preto volá majálesom, že sa vydržiava v máji alebo v
+bársktorom inom, na jedenie rakov priaznivom mesiaci. Veľkým pánom býva
+poludnie --- o šiestej večer. Náš bývalý strieborný zlatý bol dvojakým
+klamstvom; nebol ani zlatý, ani strieborný, ale papierový. A tak podľa
+toho ani majáles nie je majálesom. Kým zlatý striebra pozostával z troch
+cvendžavých šupákov, vtedy sa i majáles --- to dobre pamätám ---
+odbavoval v máji; teraz sa časy i z tohoto ohľadu zmenili, a tu si s
+mojím plešivým Matejom ďalej spievať môžeme: „Ist aber alles ni\'t
+wahr."#POZ#122;(nem.) Ale to všetko nie je pravda.#-POZ#
+
+Po tomto úvode pristúpime k opisu študentského majálesu. Deň majálesov
+bol nám tri týždne vopred z vyššieho miesta, to jest z katedry,
+ohlásený, pričom bola hneď aj daň na každú hlavu, popravde na každý
+žalúdok vyhodená, a to po jednom striebornom dvadsiatniku. Ten oznam už
+tri týždne vopred stal sa z dvoch múdrych príčin: po prvé, aby sa
+študenti o toľko dlhšie kochali radosťou, a po druhé, aby študenti tým
+ľahšie mohli mobilizovať svoje plytké verthajmky.
+
+Bože, tá radosť! Čo som pohodlne vybaviť mohol za hodinu, chystal som za
+celé tri týždne. Zháňal som kapsu po hámorníkoch, brúsil som valašku, že
+som už takmer obuch z nej zodral, škripom čistil cínový tanier a končiar
+so slivkovou, cínom vyliatou rukoväťou leštil som na štrbavej kachli za
+príkladom dobrej matky, ktorá tam nože a nožnice ostrievala.
+
+Ostatná noc pred majálesom bývala najpamätnejšou. Ten, čo je na smrť
+odsúdený, máva pokojnejšiu noc, ako bola pred majálesom --- pravda, z
+rozličných pohnútok. O druhej po polnoci som už bol na nohách, takže pre
+moje šramotenie nemali domáci pokoja. --- Cínový tanier, pohár,
+vidlička, lyžička, nôž a servítka fuk do kapsy, valaška do päste,
+podperený klobúk na hlave, a tak vystrojený okrídleným krokom pustil som
+sa do tmavého sveta. Domáci, zbavení rebelanta, šomrajúc zamkli za mnou
+vráta. Mesiac, natiahnuc končitú briadku, usmial sa, akoby ma chcel
+privítať: „Servus, blázon!" Slnce si ešte ďaleko, voľakde za Šalkovou,
+vytieralo škamry.
+
+Miesto schôdzky bolo na horných lúkách pri Banskej Bystrici, nazvaných
+už hen v XIII. storočí „pratum castrense"#POZ#123;(lat.) Hradná
+lúka.#-POZ#. Z čoho sa s matematickou istotou dá uzatvárať, že už i
+vtedy študenti vydržiavali majálesy. Okolo stĺpov, kde povrazníci žinky
+snúvali, sme sa zbierali. Prečo páni profesori práve toto povraznícke
+snovadlo na ten cieľ za príhodné držali, to neznám. Konečne vyholené
+slnce vykuklo spoza Pavelcového jedným očkom na veselú chasu. Za slncom
+pripálil hneď štvorpražný voz s vínom, pivom, mäsom a druhým rárožím,
+počítajúc v to i pánov profesorov a obsluhu.
+
+A tak sme sa v dlhých radoch vydali na cestu proti Dúbrave nad Príbojom.
+Teraz nastala revnivosť, každý chcel niesť jednu zo šiestich papierových
+zástav. Nie rozum, ale päsť, silné buchnáty rozhodovali. Starý, suchý
+--- podľa remesla krajčír, podľa hodnosti gymnaziálny kurátor --- pán
+Árvay, v dlhom modrom fraku s mosadznými gombíkmi viedol predok a my
+všetci --- „korak, korak za korakom"#POZ#124;(srbochorv.) Krok, krok za
+krokom (začiatok pochodovej piesne).#-POZ# --- išli sme za jeho frakom.
+Spievali sme striedavo „Joannes Kelemen, dux studiosorum"#POZ#125;(lat.)
+Ján Kelemen, vodca študentov.#-POZ#, zase „Maria Theresia hoc dedit
+mandatum, nullum studiosum amplius armatum"#POZ#126;(lat.) Mária Terézia
+vydala toto nariadenie: aby ani jeden študent nebol viac
+ozbrojený.#-POZ#, alebo „Dnes je svátek máje, pujdeme do háje" atď.
+Nohami kopaný prach kúril sa cestou v žltých oblakoch, na vlasy,
+mihalnice sadala sivá osuheľ, nosy rozdrapujúcich sa spevákov však
+obrúbil čierny pás ovlhnutého prachu. Nebožiatka! --- Ale čo to škodí,
+keď je len majáles!
+
+O hodinu vyzerali sme tak ako kurčatá, keď ich pred vyprážaním, žĺtkom
+oblepené, posypú rožkovými omrvinkami. --- Konečne vyhnúc z cesty,
+škriabuc sa hore pekným melafýrovým kopcom medzi sosnami a brezami,
+dorazili sme k cieľu. Tu stáli pohotovo dvaja lesníci, aby stromy pred
+nami --- lykožrútmi --- zachránili. Prvá starosť teda bola urobiť týchto
+cerberov neškodnými, to jest do stavu obleženia, rectius #POZ#127;(lat.)
+Presnejšie.#-POZ# --- položenia doniesť. Dobrým slovom dá sa veľa
+vyviesť, ale ešte viac sa dá vyviesť dobrou borovičkou. No dosť na tom,
+nezadlho po tom šľachetnom privítaní, ležali sme vystretí jeden pri
+druhom ako ryby v kalendári v tôni nimi starostlivo strážených stromov.
+--- A potom furdes, valaška, rúbaj! Breza, čo študentom i tak odjakživa
+na prekážke stojí, kláti sa a padá --- a ona, táto krutá zadovka, ktorá
+svojimi hybkými prútmi nejedného študenta už zohriala, vynesená teraz na
+kolibu, má im poskytnúť žiadaný chládok.
+
+Na pažiti medzi dubiskami blčí obetnica, prameň života, nietená suchou
+raždinou, a okolo nej krútia sa tri dobre akreditované bohyne v podobe
+kuchárok s nožmi a vareškami. Vážna úloha stojí im zreteľne vyjadrená na
+ožiarených tvárach, ktoré si tu i tu chránia pred žeravým uhlím spak
+vyvrátenou dlaňou. Kolosálne ženské sa už takmer varili, len toľko, že
+nekľochtalo v nich a že netiekla z nich srvátka. Ale bolo i prečo!
+Stopäťdesiat papúľ rozličného kalibru gulášom a národnými haluškami ---
+diftongi longi#POZ#128;(gréc. lat.) Dlhé dvojhlásky (študentský
+vtip)#-POZ# --- zapchať, je veru nie bagateľ!
+
+Tam oproti pod košatým bukom vydychuje chvojinou ovenčený, naširoko
+rozložený sud s pivom a pri ňom nemluvniatko, súdoček s vínom, opravdivý
+Ladislaus Posthumus, lenže sa nevolal Ladislav, ale Antalok. --- Lační
+sme boli ako šášky, a do obeda ešte hej! --- Pomohli sme si, ako sme
+vedeli. Chudobný rechtor, keď jeho deti chleba pýtali, a on ho nemal,
+chtiac myseľ detí odviesť, vynašiel tento hlbokomyseľný pedagogický
+vtip: kresal deťom iskry z kremeňa, kiš, kiš, kiš. Et salvavit animam
+suam.#POZ#129;(lat.) A zachoval svoju dušu#-POZ# No i my, aby sme za
+egyptskými hrncami a rajnicami nebažili, aby nám čas do obeda príjemne
+ubehol, hrali sme sa o zbojníkov, hru vše obľúbenú, kde sme hneď brúsili
+i vyššiu estetiku, napodobňujúc, čo len možno prirodzene, všetky fázy
+zbojníckeho života až po samú exekúciu.
+
+Každý príchod nových hostí, každá epocha pri dováraní, napríklad keď sa
+oškvarky na halušky vyliali, keď sa zemiaky do guláša vsypali, bola
+vítaná mažiarovou streľbou a hulákaním.
+
+Prišiel obed. Kto videl zverinec v čas kŕmenia, môže si predstaviť náš
+obed. Ticho, hrobové ticho. Okrem klepotu lyžičiek, sekania zubov a
+vrzgotu naťahovaného húžvatého mäsa, inšieho si tu, hriešny človeče,
+nepočul. Fí, stálože to práce a potu! --- Za tým nasledovalo napájanie.
+Pri sude nastal súdny deň. Frakovitý kurátor musel sa vzpierať
+rukami---nohami oproti návalu majálesantov, aby mu čap nevyrazili.
+Takátohľa bola jeho hodina!
+
+Ledvaže ostatný koštiaľový ohryzok z pokrmnice zmizol, nastalo
+stolovanie pánov profesorov, čo sa quo ad qualitatem, od študentského
+značne líšilo. Došlí hostia pekného pokolenia, obťažení vínom,
+pečienkami a štrúdľami --- po latinsky „circumdederunt" nazvanými ---
+hodovali s nimi viribus unitis#POZ#130;(lat.) Spojenými silami. (Zároveň
+politický vtip, lebo tie dve slová mal za heslo cisár František Jozef
+I.)#-POZ#.
+
+„Čo je z krvi, to sa mrví." --- Pivom rozjarená študentská chasa pri
+frfotaní turnérskej hudby pustila sa do tanca. V nedostatku ženskej
+pleti skákal jeden capo s druhým. A pretože v ten čas bola ešte tanečná
+gymnastika študentom, neznám z akých estetických a či mravných príčin,
+nedostupná, náš tanec bol trma---vrma, tlačenie otlakov, šteklenie
+rebier lakťami, výskanie a miesenie sa, sťa kapusta s bryndzou. Ten
+robil posunky, akoby sa učil plávať; tamtí sa zase dookola krútili ako
+kávový mlynček, a vôbec, na tom malom priestore boli zastúpené všetky
+tance vzdelaného sveta a indických divochov. --- Ale sic vos non vobis
+mellificatis boves#POZ#131;(lat.) Takto vy, voly, znášate med, ale nie
+pre seba. (Na vtip: boves miesto apes = včely. --- Vergilius.)#-POZ#;
+skoro sme museli odstúpiť z dejiska zdychavičného činu a museli druhým,
+pozdejšie príchodzím národom, ustúpiť miesto, práve tak ako tí Slováci.
+A nám už potom bolo „vix est in sentina locus"#POZ#132;(lat.) Sotva je
+miesto v podpalubí (na najhoršom mieste starovekých lodí)#-POZ#.
+
+Po našom odstúpení zvŕtali sa páni profesori. Dávid tancoval pred archou
+a Dávid bol rex reverendus#POZ#133;(lat.) Ctihodný kráľ#-POZ#, prečo by
+sa teda tiež reverendy v tanci zúčastňovať nemali?
+
+Na duši i tele zmorení vracali sme sa domov, práve keď slnce za
+kremnické hory zaskočilo, a to tým istým poriadkom a či neporiadkom, len
+nohami viac motajúc, vo veľkom pracovnom kudlovisku.
+
+V Mekke je kameň od tureckých pyštekov, ktorými svoje hriechy skladajú,
+čierny a vyhĺbený. V Aja Sofii v Carihrade videl som v mramorovom stĺpe
+prstami vyďubanú dierku, len z toho pošlú, čo si proti boleniu hlavy
+čelo potierajú vlhkosťou mramorom vypotenej rosy. No i pred starým
+gymnáziom v Banskej Bystrici na zámku --- vtedy ešte dookola múrom
+obohnanom --- pozorovať bolo pred vrátami v dlážke červenú, tvrdú,
+vyžľabenú žabicu, kresačkou nazvanú. Tu si každý študent, prv ako by bol
+do chrámu múz vkročil, podkovičky proboval, kým sa nezaiskrilo. Bol to
+kameň urážky, otcom na hriech a škodu, čižmárom ku zvláštnej
+úctivosti...
+
+Na druhý deň ráno po majálese zišli sme sa okolo toho kameňa; kresali
+sme ako obyčajne, pretriasajúc a rozkladajúc včera prežité
+dobrodružstvá. Potom sa šlo do kostola, po kostole ale len práve
+napospas do školy, lebo majálesový „kacenjammer" prekážal i poslucháčom,
+i prednášajúcim, ktorí veru tiež na infallibilitu#POZ#134;(lat.)
+Neomylnosť#-POZ# hlavy netrpeli, a tak o krátky čas rozpustení,
+prebumlovali sme celý deň ako ópium fajčiaci Číňania.
+
+Nuž ale, charissimi, tempora mutantur et nos mutamur in
+illis.#POZ#135;(lat.) Najmilší, časy sa menia a my sa meníme s
+nimi#-POZ# Teraz všetko, i majálesy idú rýchlosťou pary. Študenti teraz
+nechodia po majálesoch s valaškami a s kapsou, ale s cigarami v ústach a
+s cvikerom na nose. Veru za tridsaťosem rokov sa veľa zmení! Mnohým z
+mojich kamarátov zapchali sa ústa a nebudú nikdy viac jesť diftongos
+longos, nebudú viac circumdederunt --- čo im i tak na ďalekú cestu dali
+--- hrýzť, ale zahryzli do zeme. Z našich šiestich učbárov už len jeden
+tlačí zem, i to viac fotelom ako nohami. Vyskočiť na majálese by už ani
+na piaď nevedel.
+
+# Prvý tanec
+
+#I#Motto:#-I# Nemo saltat sobrius
+
+Akže je, páni moji, tu uvedené porekadlo, že „Nikto netancuje triezvy"
+--- ako to uvedené latinské porekadlo znamená --- pravdivé, tak veľká
+polovica sveta, zvlášť vo fašiangu, musela by byť opitá. V nekresťanskom
+svete i pri nábožných a iných slávnostiach mladí i starí drobčia. Hľaďme
+len na smiešnych Mevlevidervišov, pohanských Indov, čínskych obradníkov,
+ako sa tmolia a prekrúcajú na chválu boha. O našich slovanských predkoch
+tiež sa píše voľačo podobného, že každý hučal bohom slávu, hostil sa a
+na Jovana oheň preskakoval. Už ani spomenúť nechcem Dávida, ktorý pred
+stánkom úmluvy, ja síce neviem, či ceprlu, či odzeme, ale rezko krepčil,
+až mu to kráľovská Mikol --- iste historická dáma --- za zle mala; ale
+zato mu tým ochotnejšie židovský národ aplaudoval. Ešte by sme mnoho
+takýchto príkladov uviesť mohli; isté je, že tanec je ďalej rozšírený
+ako sám pochop náboženstva.
+
+Pravda, pánovia, i dnes ešte i nolens i volens #POZ#136; (lat.) Aj
+chtiac, aj nechtiac.#-POZ# tancujeme všetci, akú nám práve hrajú. A
+najmä my Slováci okrem spevu prejavujeme veľkú schopnosť k tancu, a ako
+ľahko privykli sme na valcer, tak privykáme na čardáš, ktorý i tak
+pôvodu slovenského, len názov maďarský prejal. Už aj celý život je len
+šanšírovanie a strkanie od kolísky po samý kraj hrobu. Ale z tohoto
+vyviesť chcel som len to, že tanec má čosi významného, starobylého, a
+tak že mu spolu so mnou venovať môžete maličkú pozornosť.
+
+Pre pozorovateľa poskytuje bál mnohé psychologické štúdium. Bál je ten
+despota, čo vrecká otcov, majúcich dospelé dcéry, drží v stave
+obliehania. Bál je trhovisko otrokýň, kde sa krasotinky, keď nie pre---,
+aspoň vy---dať majú. Tu sa tovar, vyprášený, vyfintený, v
+najprívetivejšom svetle obecenstvu vystavuje. Tovar miešaný ako všade,
+dobrý, planý, skaze veľmi podrobený, keď sa odležal, plesnie a zhorkne
+ako bryndza. Beda ti, otče, ak tieto bazáry cez päť---šesť rokov s istým
+tovarom navštevuješ, trhové darmo platíš a tovar naspäť vozíš! Nie je to
+tovar ako husle, víno, cigary, ktoré čím dlhšie odležia, tým väčšej ceny
+nabývajú --- oj nie, tvoj tovar lacnie in quadrato#POZ#137;(lat.)
+Geometrickým radom.#-POZ#.
+
+Poď, ctený čitateľ, so mnou na chór ku kučeravému Šándorovi, čo ako
+skamenelý husle pod bradou pritisnuté drží, spí, a predsa ani jeden ťah
+nezmýli; poď a pozeraj stade na ten trh. Povrchne to tak vyzerá, táto
+bielym i nebielym pohlavím naplnená dvorana, ako prekrojený obrovský
+matejko#POZ#138;Tlačenka.#-POZ#. Ženské značia slaninku, mužskí tú druhú
+plneninu.
+
+Nastala prestávka v tanci, odspodku zaznieva hore k nám chichot, huk
+podobný tomu, aký zo seba vydávajú muchy, keď sa na prvom jarnom slnci v
+oblokoch hemžia. Tamto niekoľko tých lesklých mušiek otočilo čiernu
+mužskú postavu; to sa tak vyníma ako chrúst medzi jarnými kvetinami.
+
+Jedni otcovia starostlivo hľadia po kútoch, kým druhí tanečníkom, ktorí
+ich dcéram službu preukázali, odmeňujú zásluhy čajom a punčom. Matky
+tešia sa podľa okolností, to smútia, to zase čakajú, či „príde hlúpy, čo
+ju kúpi". Staré panie, bezstarostné pozorovateľky, to jest čo nemajú
+dcéry na vydaj, kritizujú a vyberajú „furmy". Kde---tu medzi ne zamieša
+sa žiarlivá mamička.
+
+Dcérky žmurkajú, klipkajú, vzdychajú, vyškierajú zúbky, spúšťajú alebo
+vystrkujú hlavičky a noštek, tiež podľa okolnosti, akej ceny tovar a či
+veľa kupcov sa má okolo nich.
+
+Šuhajci --- hrdí, kráčajú ako pávy. Jedni jastria orlím zrakom po
+nevinných jahniatkach. Takých vidíš aj pod žiarou sviec vprostred
+dvorany, stojacich s rukami nakríž založenými, čo s filozofickým
+stoizmom zavrhujú tieto svetské pletichy. Že tak vskutku myslia, neznať,
+ale aspoň chcú, aby svet to o nich veril. A títo opovrženci by obyčajne
+najradšej hrali dáku pozornosť vzbudzujúcu úlohu. --- Sú zase takí, čo
+by sa radi do prúdu pustili, ale sú ostýchaví; veď ich prax naučí. ---
+Na verejných zábavách udomácnení gavalieri nenútene, s istou panskosťou
+púšťajú sa na krídla, pred radom pestro odených víl myrhou kadia a
+krásnymi, vtipnými slovami blažia vyvolenú dušičku. A tu, aby sa k nej
+neslušne obrátiť nemusel, s jej chladidlom v ruke a šálom na ramene
+račkuje s nevýslovnou gráciou a šikovnosťou, tak asi, ako keď strkajú
+voz ojom do pajty. Tento kúsok poukazuje na veľký vtip a sebavedomie; to
+sú takrečení králi bálu.
+
+Najzbehlejší gymnasti v tomto odbore bývajú svižní kupeckí pomocníci.
+Tamto tiež ráčkuje taký, prírodou zázračnými nožiskami obdarený šuhaj.
+Horizontálna čiastka tela s kolmou, to jest podošvy s nohami sú
+opravdivé latinské veľké L, a tento hák tiež kráča kopišľakom. Rad pred
+ním idúcich dievčat neprestáva sa chichotať na jeho blbotajúcich
+vtipoch. No však mu blbotalo...! Sklepník beží, nesúc tácňu so
+sladoľadom. L sa naň potkne, zletí na zem a sadne si na to, na čom
+obyčajne sedávame. V letku lapal sa --- nie síce britvy, ale --- tácne.
+Mohutnou päsťou rezol medzi šálky, a tutti---frutti chladil mu rozpálenú
+hlavu. Červený prúd valil sa mu čelom --- a L, od hanby a sladoľadu
+zamrznutý, bežal k cukrárovi. Čo lepšie striasol mu do putne, zvyšok
+zlízali mu chlapci. --- Slečinky povedali, že to človek veľmi
+„vicik"#POZ#139; (z nem.) Žartovný, dôvtipný.#-POZ#.
+
+Medzitým koniec prestávky. Štvorylka hrmí, farbistá plnenina dvorany sa
+delí, akoby ich chemik Liebig cez retortu prepúšťal, a krútia, vrtia sa
+ako infususorie#POZ#140; Nálevníky.#-POZ# v kvapke vody, obzerané cez
+mikroskop.
+
+No ale, dosť toho; i viac sme už povedali o bále, ako som sprvu za
+potrebné držal. A tak musím ráčkovať, kým sa zase nezabudnem, keď to už
+raz taká planá moja obyčaj --- to zagáganie sa.
+
+Kým som bol malým študentom, gymnazistom, tak do môjho pätnásteho roku,
+boli mi bály len z ulice známe; lebo študentovi na bál ísť bolo podľa
+vtedajších školských zákonov prísne zakázané, a ten, čo zákon prestúpil,
+stal sa účastným zločinu nie menšieho, akoby bol dedinu podpálil. Museli
+sme med lízať len cez sklo.
+
+Dvorana stoličného domu v Banskej Bystrici je skvele osvetlená, tiene
+tancujúcich prebehujú osvietenými oblokmi sťaby mátohy; hudba zaznieva
+na ulicu a preberá poslucháčom žilky --- a my chlapci stojíme na mraze s
+otvorenými ústami a hľadíme, hľadíme hore do okien ako kaňa na dážď a
+vyprávame si báječné veci o bále, o akých len v starých povestiach
+slýchať, o skvoste a nádhere zakliatych zámkov. Aby sme sa k veci nám
+nedovolenej, ale tým a otobôž zaujímavej čím lepšie priblížiť mohli,
+vydriapali sme sa na susedné drevené lampové stĺpy, tam sme si sadli a
+„Früchte, die verboten sind, die schmecken gar so gut, so
+gut"#POZ#141;(nem.) Zakázané ovocie chutí tak dobre, tak dobre.#-POZ#
+vytiahli sme z vačkov fajočky a fajčili sme --- orechové listy. Tak som
+najsamprv požíval bálové rozkoše.
+
+Dva---tri roky zatým vlúdil som sa raz vo V. na strelnici na bál; bol to
+bál, aký v Brezne „bursou" zvykli pomenovať. Hja, ale pre mňa to bolo
+voľačo velikánske. Panstvo, zrkadlá, kvety, záclony --- triasol som sa
+na celom tele ako osika vidom všetkých týchto krás. Prítomnosť
+niekoľkých známych dodala mi trochu smelosti: Janči, mládenec od susedov
+a môjho telesného ševca tovariš, ktorý mi ináč bôty plátaval, s
+cifrovaným šálom na krku, v hodvábnom náprsníku, s ťažkou, hamovke
+podobnou hodinkovou reťazou. --- Dvorana podlhovastá. Pritiahnem sa
+ostýchavo k dverám a sedím tam ako prilepený o stenu, pilno obzerajúc
+otáčajúce sa pohyblivé obrazy. --- Dlho ma nenechali v tom tichom
+odpočinku pozorovania. Temer každá tanečnica v najprchkejšom lete
+vletela mi do lona. Ja som tam doprosta určený bol zastupovať unovaným
+tanečniciam pohovku. To som už sám tušil, že za dlhú chvíľu toto
+stanovisko bez zapálenia brušnej kože neudržím, a tu sa mi zavalí do
+lona štvoruhlastá kuchárka sťa lavína, šudiaca sa dolu z chlmu Ďumbiera.
+Zastal mi dych, bol som zaživa pochovaný, girlandy rozčuchrených šiat
+preleteli mi cez hlavu a zmizol som zo sveta. Áno, bola by ma opacha na
+pagáč roztlačila, ale ju predsa omínal kupak z fajky, ktorú som držal v
+ruke, a roztočená cestová lavína ma opustila. Vrátil sa mi dych, vrátilo
+sa povedomie a moja najprvšia starosť bola dostať sa zase von na
+slobodu, čo sa mi, vďakabohu, s nepolámanými kosťami predsa pošťastilo.
+
+A zase dva roky po tejto udalosti. Bol som poslucháčom filozofie vo
+Vacove. Filozof, hm, koľký význam toto slovíčko v sebe ukrýva --- celý
+celučičký svet! Nemáš toho stavu, tej ústavy, ktorú by si mohol
+prirovnať k voľnému, neviazanému postaveniu študenta --- filozofa. Tento
+genus#POZ#142;(lat.) Druh.#-POZ# študentstva v terajšom učebnom aparáte,
+pravda, už celkom vymrel a patrí medzi zašlé bytnosti prírodopisu, tak
+ako napríklad mamuty alebo belemnity. Úplnú slobodu a blaženosť filozofa
+opísať nemožno. Probujeme podať aspoň slabý náčrt.
+
+Gymnazistu---bedára, pod brezou vyrasteného psotára, viažu a tlačia tie
+najprísnejšie zákony sveta, ktoré čo najmožnejšie zaobísť je najväčšou
+usilovnosťou študenta. Gymnazista je profesorovi „ty" a to slovíčko
+„ty", trebárs je aké krátke, s opovržením a mrdnutím profesorských úst
+vyslovené, zráňa malého žiaka. Filozof naproti tomu je, to jest bol,
+„Dominatio vestra"#POZ#143; Vaša milosť.#-POZ#, pričom profesor,
+vytiahnuc obočie až na temeno, tenže názov i v tomto najkratšom
+rozhovore aspoň desať ráz opakuje.
+
+Pre gymnazistu bály navštevovať je --- hrozný, do divadla chodiť ---
+ukrutný, s panenskými vrstovnicami si pobesedovať však --- kriminálny
+hriech. Cukrára, kaviareň navštíviť --- strašné; kúpať sa v rieke
+(okrem, ak ho nikto nevidí) --- žalára hodné previnenie. Kúriť? --- No,
+veď by tomu zakúril pán direktor! --- Palicu nosiť? --- No, veď by tomu
+kurátor prilepil palicu!
+
+Prírodpisné skúmky bývali prednášané práve hravým, ako i praktickým
+spôsobom. Z botaniky sa napríklad často experimentovala breza a lieska a
+učili sme sa, že breza už neznám či podľa Linného systému, ale
+pravdepodobne podľa Decandollovho, teda systému prirodzeného --- že
+breza patrí od klasy I. po III. a lieska od IV. po VI. klasu. Zo
+zoológie prednášali ad captum, že somár nie je animal quadrupes, ale
+bipes#POZ#144;(lat.) Štvornohé, ale dvojnohé zviera#-POZ#, teda patrí
+ta, kam kohút --- ale gymnazista, čo sa klasy týka, do všetkých šiestich
+klás. Somár podľa toho naučenia musí práve tak vyzerať ako on sám,
+totižto študent, a to preto, že pán profesor, summa auctoritas, to
+slovíčko „ty" zakaždým, keď mu niečo vyčíta, spojuje so slovom „somár",
+čo spolu zložené dáva „ty somár". No a to už musí byť pravda, keď to
+povie taká autorita ako pán profesor, ktorý medzi nami predsa bol
+najväčší.
+
+Nože, už teraz pozrime, či z gymnázia vyšlá „Dominatio vestra" --- ten,
+čo pred dvoma mesiacmi každodenne medzi známe trpezlivé štvornohé
+zvieratká vradený býval --- čo ten ako filozof, akú osobnosť
+predstavuje, ako si on vedie.
+
+Klobúk nestojí mu na hlave, ale radšej na pravom uchu, akoby na klinci
+visí; na ňom vypína sa hrdo pávie pero; šatka z hrdla voľne vo vetre
+vlaje, často krikľavo červenej farby. Driek tela vprataný je v
+špencli#POZ#145;(z nem.) Kabátiku#-POZ# rozličnej farby a rozličného
+strihu. Táto šata obyčajne ostáva ďaleko za mladým, v raste postaveným
+šuhajom. V zime, keď to mrazy požadujú, objíma pod špenclom vzácne
+tielce filozofovo takzvaný prusliak alebo náprsník, vyšperkovaný
+červeným súknom a nesčíselnými drobnými, hrachu podobnými gombíkmi. V
+letný čas náprsník ako zbytočný odev odkladá sa do lady alebo do ---
+záložnice. Nohavice v susedstve čižiem sú podbité remeňom, a na tom
+mieste, ktorým sa najviac po školských laviciach šúcha, vysadená je
+remenná palacinka. Čižmy s ostrohami, taraje ako staré --- blahej pamäti
+--- dvojgrošníky.
+
+Okrem týchto potrebných atribútov ozdobovali nášho filozofa ešte aj iné,
+nie menej charakteristické šperky: fajka --- alebo na veľmi krátkom,
+alebo na veľmi dlhom pipasári. V prvom prípade stojí nos fajkára v
+ustavičnej zvárke, v druhom však bez pomoci iného by pripálenie fajky
+vyvedené byť nemohlo. V súzvuku s tým turibulom stojí bezprostredne
+dohánový vačok. Sám vačok sedí vo vačku. „Sedí pani v komore, vlasy sú
+jej na dvore." I na dohánvačok pristane táto hádanka, lebo jeho ozdoby
+--- medúzine vlasy, ako pri polype --- visia von na slobodnom. Na týchto
+cafrangoch holengajú sa s nemalou koketériou pre fajkára dôležité veci:
+ocieľka, kremeň a šparcháč.
+
+Takto teda vyzeral filozof --- „Dominatio vestra". Nuž ale ako filozof
+ani ináč vyzerať nemohol. A verte, že si mnohí z nás Hegla, Kanta,
+Spinozu a iných tomu podobne predstavovali. Quod erat
+demonstrandum.#POZ#146;(lat.) Čo bolo dokázané#-POZ#
+
+Takémuto filozofickému prototypu nechýbalo nič, len vtáčie mlieko;
+pretože hmotou a svetskými vecami opovrhovať je hlavná filozofická
+cnosť, opovrhnutie mamony, čiže takrečených peňazí, nasledovalo z toho
+samo sebou. Keďže sa však takýto filozof len vtedy postí, keď musí, len
+vtedy sa odrieka sveta a jeho rozkoší, keď už ináč byť nemôže --- po
+gymnaziálnych pôstoch a odriekaniach zdalo sa mi byť slušnou túžbou
+zažiť doteraz zakázané zábavy. Tomuto môjmu chválitebnému predsavzatiu
+len dve malé prekážky stáli v ceste. Z jednej strany ten prekliaty
+opovrhnutý mamon --- lebo filozofia tak ďaleko ešte nepokročila a ľudí
+neprenikla, žeby i tí peniazmi opovrhovali, čo pristrájajú bály --- z
+druhej strany však úplná neznámosť tanca. Moja panensko---mládenecká
+noha do tých čias nikdy netancovala, vyjmúc vtedy, keď mi mamuška
+zahrala a tatuško paličkou takt dával; tí dvaja muzikanti doniesli ma
+okamžite do galopády.
+
+Ostatné fašiangy predo dvermi, peňazí niet a tancovať neznám! Akože teda
+tie slasti zakúsiť? To vyviesť --- vec ťažká, ale tým zaujímavejšia. S
+peniazmi, a k tomu kto zná tancovať, to vyvedie každý blázon. No,
+audaces fortuna juvat.#POZ#147;(lat.) Odvážnym šťastie praje#-POZ# Moji
+spolužiaci, najviac Slováci, boli rozmanití, na každé kopyto vybití
+šuhajci. Jedni mali talent v hlave, druhí v rukách, tretí v nohách.
+Talent brušný bol u všetkých rovnaký, veľký, len sme často nemali
+dostatočnej látky vyvinovať ho a nasýtiť. No dosť na tom, moji kamaráti,
+spozorujúc moju túžbu, ale zajedno i bálovú pochybnosť, hotoví boli hneď
+všetky moje bázne vyvrátiť. A prikročilo sa k činu. V rozličných tancoch
+zbehlí šuhajci učili ma cez desať dní v prázdnych hodinách valčík, polku
+a maďar---sólo. Čardáš v ten čas sa ešte nenarodil, len jeho otec, náš
+prastarý frišký, sa na Slovensku krútil. Pilnoval som o dušu a s celým
+telom; ešte v predostatný deň mi z oboch čižiem podošvy odfrkli. A
+lajdáci, moji najprísnejší a najvážnejší majstri ma uisťovali, že
+tancujem ako anjel, že mi nechytí ani Fanny Elser, a sľubovali mojim
+nohám veľkú budúcnosť. Líca sa mi zarumenili od radosti, že som taká
+šikovná potvora. Ach, však radi veríme --- keď sme hneď i filozofi ---
+tomu, čo sa nám páči, čo nám pochlebuje!
+
+Druhí ľudia len v tú noc, v ktorej sa bál vydržiava, nespia, ba nájdu sa
+i takí, čo i tam driemu; ale mňa sen už hen v tú noc pred bálom obišiel
+pre kopu myšlienok, ktoré mi okolo hlavy obletúvali. Ten deň pred bálom
+bol mi náramne dlhý, akoby sa všetkých sedem dní jedného týždňa bolo
+dovedna postískalo. Väčšiu jeho časť vybabral som toaletou. Pravdaže,
+každá dobrá vec potrebuje čas. Vlasy na troch miestach železom pálené,
+vlastne a lepšie povedané, hriate, a to hriate vo tri chumáče. Z istej
+diaľky vynímala sa mi hlava ako klenovský syrec, na temene ozdobený
+troma liptovskými oštiepkami. Na hrdle červený šál s ohromnými krídlami;
+s kolmou čiarou tela vyzeral som ako katastrálny kríž. Frak s krátkymi
+rukávmi, akoby mi ruky z neho utiecť mienili. V pravej gombíkovej dierke
+kytka, mojou domovou paňou darovaná: muškát, rozmarín, nechtíkový kvet a
+tuším zelerový list. Biele sťa sneh nohavice po kolená, ktorých snahu
+ďalšieho uťahovania sa mohli zmierniť jedine dlhé, ale silné štverne
+(štrupne). Na čižmách hrali ako hodinky brinkajúce ostrohy. Z fraku
+visel opísaný dohánvačok. Takto vyzeral vtedajší filozof, budúci mudrc
+vlasti a bálový švihák.
+
+S mojou figúrou úplne spokojní kamaráti pojali ma do hostinca na „Kúriu"
+na čižmársky bál. Dvorana, v ktorej sa tancovalo, bola v prvom poschodí
+a zodpovedala dokonale „kúrii", lebo bola akurátne už či dohánom, či
+deravými kachľami vykúrená. Najprv ma tam dolu prosto z pitvora uviedli
+do krčmy, do kavétly#POZ#148;Výčapu#-POZ#. Tu mi kázali čakať, kým sa
+nenavrátia. Sedím, sedím, ako glezg. Bola mi už dlhá chvíľa. Na
+zapudenie zimy a strachu vypil som pol holby vína. Počujem nad hlavou
+dupot a huk muziky a po chvíli sa mi zdalo, že poháre okolo skleníc
+poskakujú, ba videlo sa mi, že i zbojnícky orgazda na stene,
+Milfait#POZ#149;(maď.) Prechovávač. (Malá chybka, lebo Milfajt bol vodca
+zbojníkov.)#-POZ#, i hen pošmúrny krčmár šašíruje. Obrazotvornosť a víno
+všetko okolo mňa pohli do tanca.
+
+Moji majstri vkročia do kavétly: „No, Kazimír, teraz poď." Hm, poď! ---
+Ale ako ísť, ostatný halier vydal som na guráž, na polholbu. „Ako vojdem
+dnu bez peňazí?" --- „Ej, čo peniaze, filozof zaobíde sa i bez peňazí.
+Poď, to je naša starosť." S tým ma vytiahli z kavétly a viedli ako
+policajti väzňa sebou hore schodmi.
+
+Pripomenúť slušno, že vstupné bolo na ten čas zlatý šajnový --- asi
+našich štyridsať grajciarov r. č. --- a za to dostal každý jeden ešte
+priecnik a holbu vína. Istotneže, vstupné nebolo prehnané --- ale keď
+ani toho nebolo.
+
+Vstúpili sme do dlhej chyže, ako predsiene dvorany, konča nej nachodila
+sa kasa. Priepustné lístky, takrečené retourbiletky, dávať nebolo ---
+aspoň tam --- v obyčaji. A tak sme teda prikvitli ku kase. Každý jeden z
+nás utierali sme si pot z tvári, akoby sme bohzná ako v tanci boli
+robotovali, a najmä ja; no tak sme mali vyzerať, akoby sme sa unavení
+šli von ochladiť. Kasír síce --- prebitá chlapina --- vytiahol hrdlo ako
+morka a tvár roztiahol ako štrúdľové cesto, ale kamaráti mu v tom
+okamihu rypli medzi rebrá, a ja voľky---nevoľky vletel som --- akoby z
+buka padol --- doprostred sály a stratil som sa Cerberovmu oku tam pri
+kase ako kvapka vody v šírom oceáne.
+
+V prvom okamihu som stál ako skamenelý, ale o chvíľku som sa pozbieral.
+Priveľa toho už bolo, čo som videl. Kto prvý raz bol na bále s
+gardedámou, zná, ako je to, a ešte keď tak z buka padne ako ja! Pomaly,
+ostýchavo začnem predmety okolo seba obzerať a skúmať. Všetko dookola je
+veselé, všetko drobčí, skáče, krúti sa; vzduch razí lojom, potom a ---
+smolou. Ja jediný stojím nepohnutý ako somár medzi ovcami --- opustená
+sirota --- ľadový cmok. --- Kvap, odpadne mi na nos horúci loj zo
+sviece; ten ma hodne popálil, ale spolu mi i to dobrodenie preukázal, že
+ma z mojej zádumčivosti prebudil. --- Ak --- reku --- chcem byť
+človekom, musím so svetom kráčať, a nielen kráčať, ale i skákať, a keď
+som sa k tomu už toľkými predprácami pripravoval, musím raz --- ľad
+prelomiac --- vstúpiť do činného konania. Pomyslel som si: „Guráž platí,
+kocka hrá, hore sa, chlape!" Odhodlane kliesniac si lakťami cestu,
+predral som sa do prvého, predného radu, aby som si podľa vôle mohol
+vykutiť tanečnicu.
+
+Dievčence tancovali ozaj o dušu --- ako sa to, mimochodom rečeno, neraz
+už i skutočne prihodilo --- tancovali, len sa im tak z kečky kúrilo ---
+na „Kúrii".
+
+„Tá, čo tancuje, musí byť skúsená tanečnica. S tou tancovať, bolo by sa
+vystaviť ostrej kritike. Tá však, čo netancuje, tancovať nezná, a tá ani
+kritizovať, ani sa hnevať nebude, ba --- myslím --- rada bude, keď ju i
+menej zbehlý vychytí do tanca." Takto hlboko hútajúc, do hrady múdro
+filozofujúc, pristavím sa oproti jednému v obloku sediacemu, a veruže
+pevne sediacemu páriku. Bola to matka i dcéra; tamtá malá, mastná,
+červená, vyznojená, tak sa lialo z nej ako z tufovej jaskyne na Sliači.
+Dcérka bola chudá ako rebro, vysoká sťa žŕdka, s dlhou zmraštenou tvárou
+ako koža na prevarenom mlieku, keď už chladnúť začína. Jej kosti
+obtiahnuté a pokryté boli modrými šatami, v ten čas, chvalabohu, bez
+krinolíny. Na hlave rozprestierala sa celá záhrada. Neviem, či som dobre
+videl, bol to šalát a bobkový list. Obe tieto zeleniny ozdobúvajú, ako
+mi pamätné, i varenú teľaciu hlavu. Dlhý, dlhý čas som túto vyvolenú
+sviečku z oka nepustil, ale žiaden vysloboditeľ nechodil a nechodil,
+žiaden sa nepriblížil. Ona, pozorujúc moje, na ňu dupkom upravené okále,
+začala sa miesiť, akoby bola sedela na červených mravcoch, sklopiac oči
+k zemi, a zase stydlivo fľochnúc po mne. Počala i zúbky vyškierať ---
+zúbky? Kto dakedy videl horné hrable v Banskej Bystrici, kde breznianske
+drevo lapajú, má len malý pochop o tých zubákoch.
+
+„Kazimír, toto je tá, žiadna druhá! Hajdide!" Pri tom pomyslení
+rozbehnem sa proti nej, ale v tom okamihu zase sa utiahnem. Dosť sa
+povzbudzujem k činu, ale neosožilo to nič. Dobrú chvíľu som ešte
+pobehúval ako stolovina, zavše napred, zavše nazad. Tu konečne predsa
+stisnem zuby a s napnutím síl a s veľkým oželením, akoby som sa mal z
+dákej zápole do priepasti vrhnúť, rozoženiem sa, oblednem --- poklona
+--- „ké---rem!"#POZ#150;(maď.) Prosím (o tanec)#-POZ# --- a chcem vo
+veľkom zmätku ujsť. --- Ale pozde, milý drozde, už ti ma mala Putifárka
+za kepeň. Len čo som hlavou pokývol, ona skočiac z lavice, akoby bola na
+hadovi sedela --- ležala sťa zoťatá jedľa v mojom náručí.
+
+„Čože tu robiť, nešťastný Kazimír?!" --- vzdychnem o zmilovanie. Mal som
+tmu pred očami ani na prísnej skúške, keď mi profesor predložil otázku,
+na ktorú som odpovedať nemohol, či čierno, či bielo. Bolo mi clivo. V
+tom zmätku zmyslov som ani to nepohádal, či tancujú čardáš a či galop.
+Keď sa kto topí, i britvy sa lapá; a ja v zúfalstve už potom pochytím
+môjho dlhonohého pavúka a či pavúčicu ľavou rukou za plece, pravou okolo
+drieku, silne, pevne, aby sa mi nevyšmykla; ona ma zase dlhými chudými
+prstami objala ako pavúk stratenú, pískajúcu a trepotajúcu sa mušku.
+Zatisnem oči, aby ma nikto nevidel, skrútim ju, a čihí --- letíme okolo.
+
+Ona sa uhýnala, chtiac byť menšou odo mňa; z tej istej príčiny uhýnal
+som sa i ja. Neviem, kde som, neviem, čo som, necítim len jej dych pri
+mojom dychu, lomoz štyroch kolien, prásk a hrmot padajúcich stolcov;
+občul som raz moje nohy na cudzích, raz cudzie na mojich. Tu i tu, ako
+čoby ma bolo voľačo za frak potrhlo, a na to bohovanie, smiech a
+chichot. Jedným okom na chvíľku kuknúc, vidím, že kamkoľvek sa blížime,
+všetko všade hlavy uchyľuje, varuje sa a neveľmi vľúdnymi slovami nás
+víta. A tak to šlo vše tuhšie a tuhšie, ako parostroj s dvadsaťkonskou
+silou. Už i hudba prestala a my sa krútime ako kávový mlyn, hotový
+podvrátiť pochybnosť o perpetuum mobile. Znoj sa lial zo mňa cídlikom,
+na posmech všetkým bazovým čajom. Raz predsa pustíme pazúry --- ja
+tratím povedomie --- otvorím oči... Ó, nečase! Tu vidím moju drahú
+spoločnicu v šťastí a nešťastí, Euláliu v romantickom položení pod
+lavicou. Polomŕtva, ešte mi dožičila milý úsmev. Mňa však kamaráti za
+golier a krídla fraku držali a klobúkmi chladili mi rozpálenú hlavu.
+Dvaja rozkrvavení tanečníci, jeden s rozbitým nosom, druhý s hrčou na
+čele, dotierali do mňa.
+
+Zdesený pýtam sa druhov, čože to, čo sa robí. --- Vyprávali mi, že som
+kapitálne tancoval polku, hoci hrali „laššú"#POZ#151;(maď.) Tichý tanec,
+pomalý#-POZ#, a to s takým ohňom, že potom, keď už hudba umĺkla, nechali
+nás tancovať sólo. Na nešťastie visela mi z vačku ocieľka s kresivom na
+cafrangoch! To sa rozhadzovalo v povetrí a v strmom krute trieskalo po
+hlavách utekajúcich tanečníkov. Preto teda obecenstvo tak utekalo pred
+nami ako pred búrkou.
+
+Odprosiac a uspokojac poranených, oddal som prekážku, dohánový vačok i s
+aparátom vypotenej síce, ale natešenej maminke pod láskavú ochranu. A
+tak, keď už raz bol ľad prelomený, pojal som útlu Euláliu pod rameno,
+jej šál --- hodný to pokrovec --- ako švihákovi svedčí, na rameno,
+štebotal som s ňou a oškvarkové postruhníky, domácu lakotu, z jej
+pacičiek prijímal a potom, čo prišlo, či valčík či polku s tou najväčšou
+elegantnosťou tancoval.
+
+To bol teda môj prvý pokus tanca, a s akým strachom, s akou hrúzou som
+sa pustil do toho! Tým skvelejší bol výsledok. Mnohé matky, mnohé ich
+dcéry pozbavil som potom starosti predávania petržlenu.
+
+#POEZIA#
+
+#I#Hopsasa---rasasa, nôžky moje,
+
+išli by do tanca, neskoro je;
+
+za mladi vedeli hajduchovať,
+
+jedličky a bučky preskakovať.#-I#
+
+#-POEZIA#
+
+# Ostatné fašiangy
+
+Nazrime do študentskej izby v Pešti, a nenájdeme tam veľa zaujímavého.
+Steny zachádzajú z farby kaukazskej do etiópskej. Plechová pec,
+vŕzgajúce dve postele, stolce, stolík, kufríky --- a tuším sme už hotoví
+so študentským štafírungom.
+
+Ale jestvuje tu akési dačo, čo dýcha. Pri otvorenej piecke, na jednom z
+tých nebezpečných pohyblivých stolcov, ožiarený slabým uhľovým svetlom,
+sedí mladý šuhaj, majúc dlhé nohy opreté o posteľ, v ovisnutých rukách
+drží knihu; zdá sa, že sa mu myšlienky z knihy vyklzujú. „Už je darmo,
+nevidím, a čoby tie litery boli na dva palce veľké," zamrmle šuhaj,
+vstane hore, odloží fajku, odvrhne knihu a potom sa vystiera, akoby celý
+svet chcel objať. Chudák, predošlú noc oka nezažmúril, prísne lekárske
+skúšky, ktoré o týždeň mal skladať, ho príliš znepokojovali. I teraz by
+ešte v Hyrtlovej anatómii bol drhol, ale vyšlo mu svetlo a vyšli mu i
+peniaze. A kto nemá peňazí, tomu zaľahne polárna noc, a to noc bez
+severnej žiary. Hľadel smutným okom do piecky, ako uhlie doháralo. „Hľa,
+ľudský život! Tlie, tlie, pomaly vyhasne a len popol po ňom ostane; ba
+ani z toho nič nebude, i ten sa roztrasie ako ľudská pamiatka, keď
+zajtra druhý oheň naň nakladieme..."
+
+„Ak budeme mať drevo!" ozve sa zrazu niekto za jeho chrbtom a lapí
+osloveného za plece. „Čože sa zhováraš s tou pecou, ty popolválok?" ---
+Martin sa chytro obzrie: „Vitaj, Janko, si to ty?" --- Bol to jeho
+spoluobyvateľ, poslucháč práva, bystrý, veselý chlapík.
+
+„Či sú voziari tu? Či doniesli dačo?" dychtivo sa spytuje Martin. Ale
+Janko zdĺži tvár a krúti hlavou: „Voziari, voziari sú síce tu, ale ani
+lístok, ani --- " šúľa prstami, ako keď peniaze čítajú --- „ani sa vraj
+u nás nehlásili." Martinov tlakomer padol, čo bolo pozorovať na jeho
+spodnej pere, ktorá mu značne ovisla.
+
+„Nuž čože si my, nešťastníci, teraz už počneme? Voziari neprídu zase
+pred dvoma týždňami, a vačky na škandál prázdne! Na všetky strany
+potreby, a peňazí nič! No, veď sme v omáčke!"
+
+„Sme, sme veru... Ale ja som, hľaďže, Marci, pohol rozumom a dačo som už
+vyhútal, čo nás aspoň na čas z omáčky vytiahne, ak sa tomu podvolíš."
+
+„Oj, podvolím, ak sa ináč s poctivosťou zrovnáva --- čoby hneď
+prichodilo ísť do horúceho pekla."
+
+„A hej, tam by ti nebolo treba dreva kupovať. Ale neboj sa, bratu,
+nebude ti treba ísť do pekla; vyššie, vyššie, Marci --- na bál --- a to
+hrať!" doloží bystro.
+
+„Čooó?" odpovie Martin predivený, „že hrať? Ešteže kýho beťaha, ja a
+hrať! --- Preferans, duráka, oberlajden, to rozumiem, ale do muziky ani
+joty."
+
+„Nepleť, nie! Či neznáš tú nôtu: ,Náš pán gazda, dobrý gazda, dobré
+vínko máva\'; na husliach neznáš, há?"
+
+„No, tú áno, tú som sa naučil od Jana z Mičinej na jednej svadbe na
+Môlči, ale ani o vlas viac."
+
+„Netreba ti viac, ty len tú budeš húsť, i to len ak sa ti zachce, ináč
+ti len načim husle pritisnuté držať a sláčikom podľa svojej neobmedzenej
+vôle po strunách špacírovať. Len za toľko, aby plná a početná bola
+banda, a --- aby si i ty mal dáky zárobok. Neboj sa, veď nás tam ani
+Mozart ani Beethoven, ale ani Liszt kritizovať nebudú. A naši hostia
+nebudú veľa dbať, len nech im dačo brnčí. Pritom sa oni vyhádžu ako
+mlynské vrecia. Kamaráti sú už napohotove. Teda --- či ideš, či nie,
+lebo času máme málo."
+
+„Hahaha, to bude znamenitý žart. Ja, a muzikant! Ó, svätá Cecília! ---
+No, ja idem," a plesol do podanej ruky.
+
+Janko vytiahol spod kepeňa dvoje husieľ; jedny podal Martinovi. Bol to
+inštrument, akoby ho u šafraníka bol kúpil. „Nech som dobrý, však na
+týchto kremienkach..." --- „Kremonkách, ty fušer!" skočí mu do reči
+Janko. --- „No, teda kremonkách, len tri struny jesto." --- „Blázon, či
+neznáš, že Paganini len na jednej strune hrával? Ba i Bunkóva som tak
+počul hrať v Banskej Bystrici ,U rakov\'." --- „Nuž, poručeno pánubohu,
+či tak skapať, či tak skapať," doloží Martin. S tým vzal z klinca krátky
+kabátik.
+
+Kým sa doňho pripravil, neraz si znoj z čela stieral, lebo mu ruky vše
+lakťami von vybehúvali. Postavil si klobúk na hlavu, vysoký síce, ale čo
+sa podoby týka, nebol by ani Neumann, ani Pose vedel, do ktorého
+kryštálového systému ho vradiť. Ako klobúk z ruky vypustil, nezastavil
+sa mu prv než na väzoch. Prehodil na seba kepeň, vtisol husle pod
+pazuchu a poberal sa preč.
+
+„Počkaj," povie Janko, „počkaj, veď sa i ja musím pripraviť. Tuto na
+zadku, brat môj drahý, mám dve obločnice, vytrhané pulidery, či
+rozumieš? Krídla môjho fraku sa veľmi otvárajú, a kepeň tam zložiť
+musíme; aby teda na posmech nevyšiel, buď taký dobrý a priši mi krídla o
+nohavice." --- „Ale ak ti bude horúco a budeš si chcieť frak vyzliecť,
+čo potom?" --- „Na bále sa nesvedčí fraky vyzliekať," odpovie
+flegmaticky Janko.
+
+Nezostávalo Martinovi nič inšie, ako Jankovi nepríležitý výhľad
+frakovými krídlami zakryť a zašiť. Medzitým čo Martin šil, okrútil si
+Janko hárok papieru do čiernej šatky a na hrdlo priviazal tak, že by
+nebol býval vstave sa obzrieť, čoby mu hneď bol dakto od boku zaucho
+vylepil. Musel by sa v tú stranu krútiť celým telom ako krokodíl.
+
+Takto ozdobení a vycifrovaní vybrali sa na bál. Neďaleko, na uhle
+tretieho domu, čakali ich traja kamaráti. Jeden z nich mal pod pazuchou
+husle, druhý fujare veľmi podobnú flautu a tretí trepal na pleci
+zázračný bombardóm --- to je tá trúba súdneho dňa; a pokrčená bola
+dešperátne, lebo tak povedajú, že čím viac je takýto stroj pohúžvaný, že
+tým lepšie hučí. Len čo doňho fúkol, nuž v ňom hučalo ako zlé v oblaku.
+Janko predstavil Martina druhom. „Tu vám predstavujem novú akvizíciu na
+husliach. --- Je to výborná sila."
+
+Banda pri smiechu a žartoch, vedená kapelníkom Jankom, stúpala ďalej. Po
+chvíli došli k cieľu, do hostinca „Pod bačkor" rečeného. Tma bola ako v
+rohu, keď do dvora prišli, a na schodoch tiež. Hádam im olej vychodil,
+ale tam už ledva ťapkať mohli. A bombardón sa skutočne i strepal.
+Šťastie, že bol ostatný, ináč by bol narobil v muzike veľkej šarapaty.
+Konečne vredikali sa šťastlivo do dvorany.
+
+Priestranná dvorana osvietená bola lustrom. Tento luster pozostával z
+dvoch nakríž preložených, na červeno maľovaných šindľov, na každom rohu
+opatrený jednou lojovou sviecou. Po stenách medzi oknami horeli
+dvojačistými vidličkami pripevnené sviece. Na dolnom konci dvorany
+viselo zrkadlo, obrúbené bielym závojom. Keď som sa doň nazrel, tak sa
+mi zdalo, že dakto cudzí na mňa hľadí a --- vyplazuje mi jazyk. Na
+hornom konci pri kachliach bol chór pre nás muzikantov. Ľavá strana
+opierala sa o pec, pravá o drevený stĺp. Desaťstupňový rebrík viedol nás
+dierou ako do kurienca hore. Pod chórom rozložená bola cukráreň: kolesá,
+bábiky, srdiečka, hrášok, sladký papier, svätojánsky chlieb a týmto
+podobné lakotiny. Spodok sály, kde predtým zemiaky skladávali, vyhladený
+bol hlinou, aby si krasotinky v dierach nôžky nepovytkýnali.
+
+Mladých hudcov obecenstvo už túžobne, ba netrpezlivo očakávalo. Po
+dvorane prechádzali sa nosiči, rybári, lodníci, vojaci atď. so svojimi
+hrdličkami, a keď naši šuhajci s úctivo zosňatými čiapkami cez dvoranu
+kráčali, privítaní boli radostným „ách!" Muzikanti, tichučko sa
+pokloniac, škriabali sa na chór. A zakrátko po pripravení hudobných
+strojov zahučala hudba z trasúceho sa lešenia.
+
+I Martin si predostrel noty, hoci z nich toľko rozumel ako z tatárskeho,
+nazeral do nich a ťahal ponad struny svojím sláčikom, ale len povetrím.
+Zunujúc takto fidlikovať naprázdno, osmelil sa v huku hudby, sprvu ako
+vtáčik, keď sa učí spievať, potíšku, potom vše smelšie a smelšie svoju
+nôtu: „Náš pán gazda", --- kým raz --- keď práve Straussov valčík rezali
+a nastala pauza --- on vo svojej nevinnosti sólo zaškripel. Martin sa
+náramne preľakol, div mu husle z ruky nevyfrkli, ale bombardista sa tak
+smial, že ledva vládal k ďalšiemu fúkaniu papuľu dovedna stiahnuť. No,
+ale ušlo to bez urážky, lebo tanečníci, hulákajúc, výskajúc toto
+intermezzo nad svojimi hlavami ani nezbadali.
+
+Ale i bombardistu postihla nehoda. Zachrípol mu bombardón. Tanečníci
+nemali poriadok tancov, len si podľa vôle rozkazovali, a aby svoju
+žiadosť tým výdatnejšie podporovali, vyhadzovali muzikantom
+dvadsiatniky. Taký jeden dvadsiatnik frkol do bombardónu. Ten naskutku
+onemel. Lekár, hneď pri ruke, keď sa operácia šťurganím nedarila,
+vyzváňal sem i tam s bombardónom, a tu myk --- vyfrkol dvadsiatnik a
+kontrášovi do oka, málo že mu ho nevybil.
+
+Pri šatkovom tanci panuje tá obyčaj, že vyvolení gavalieri po skončenej
+túre odmeňujú sa muzikantom do husieľ hodenou diškréciou. Umienili si
+teda muzikanti, rátajúc na obetavosť tanečníkov, vyhodiť na nich i túto
+kontribúciu. Poslali agitovať Martina. On sa pobral dolu, zamiešal sa
+medzi obecenstvo volajúc: „Šatkový tanec, šatkový tanec!" Jeden blázon
+narobí viac bláznov. A hneď nato volalo viac hlasov: „Šatkový tanec,
+muzikanti, hej!" --- A darilo sa im dobre: Martin nestačil prijímať
+peniaze. Tu v najlepšom prúde nastane smiech za ním: ukazujú prstom naň.
+On sa obzerá, chmatne rukou, beda! Nohavice pod krátkym frakom číra
+nácesta. Na stoličke, na ktorej na chóre sedel, zabudla krčmárka
+nácestu, a tú on všetku na nohavice pozberal. Nemilo prekvapený, utekal
+Martin na chór, kde si nepríjemný prílepok na nemilé prekvapenie
+krčmárky poobtieral o stenu.
+
+V polnočný odpočinok zišli do jedálne, kde pivom a sviečkovou pečienkou
+hostení zarábali, vyhrávajúc značnejším hosťom marše.
+
+Pod odpočinkom túžieva sa myseľ i telo. Po odpočinku nasledúva animo,
+obyčajne i trma---vrma, búrky a výstupky.
+
+Rozihraní tanečníci, nuž každý chcel, aby sa jeho najmilšia nôta alebo
+tanec vyhrával. Z toho nasledoval zmätok, muzikanti si už nevedeli rady.
+Tí tam dolu zlorečili, tí tam hore im v tej istej sonáte odpovedali.
+Jeden rozdrapenec odsekol bombardistovi čosi veľmi štipľavého.
+Bombardista nemohúc sa premôcť, zdvihne svoj hrozný inštrument, natiahne
+sa cez opierku, že mu ho silným šmahom pritisne na hlavu. Škrekúň,
+vidiac hroziacu nad hlavou blýskavú pikelhaubňu#POZ#152;(z nem.) Kovovú
+prilbu s bodákom.#-POZ#, uhne sa. Ale beda... šragle, či chór, popustia
+a lešenie, páni muzikanti i so svojimi išntrumentmi, s pultmi a so
+všetkými parhámami zleteli do dvorany. Obecenstvo sa s krikom rozbehlo,
+muzikanti ležali na bruchu, na nich všakové rumy. Cukrárku pod chórom
+malo zahlušiť, cukríky podrvilo na omrvinky. Kontráš, ktorý sedel na
+peci, ostal jediný na výške, držiac sa hálky. A keď hálka popustila,
+spŕchol i on z kancľa na kacheľ a na zem.
+
+Boli teda všetci na hŕbe. A iste by im nasršení tanečníci boli priložili
+dačo na cestu, keby v tom nočná stráž nebola vstúpila a hostí
+nerozprášila.
+
+Potlčení síce, ale v dobrom poriadku reterírovali muzikanti domov.
+
+Na druhý deň rozdávali si zárobok a navarili bryndzových halušiek.
+
+Ale Martin --- ako sám rozprával --- viacej nešiel muzikovať.
+
+# Cestovanie na vakácie
+
+#I#Motto:#-I# Si non e vero, e ben trovato.#POZ#153;(lat.) Ak to nie je
+pravda, je to dobre vymyslené#-POZ#
+
+Že je to pravda, ručím vám za to.
+
+Vacationes! Prázdniny! --- Toto slovo má podľa výrazu dosť lačný význam;
+ale pre žiaka, ktorý sa celých---celučičkých desať mesiacov v cudzine
+ponevieral, s citátmi, karcerom, finančnými, na deficit poukazujúcimi
+mizériami, sto a sto inými mrzutosťami a žiaľmi, aké ani sám rozplakaný
+Werther nepodstúpil --- pre toho má slovíčko „vakácie" význam krásny,
+čarovný, plnozvučný ako trúba archanjela na súdnom dni. Všetky pletky a
+mrzutosti, ktoré tak často mal s krajčírmi, čižmármi, gazdinami,
+pedelmi, s hlásnikmi atď. prestávajú a svitá deň slobody, a to slobody
+úplnej, neviazanej, na ktorú všetky sveta národy, nevynímajúc ani
+slobodné obce amerikánske, žiarlivo a závistlivo môžu pozerať. Prázdniny
+sú teda nie dač prázdneho, ale obsah, a to hustý obsah slastí a rozkoší,
+akých len študentská sloboda môže podávať.
+
+Nepíšem román ani novelu; nikto sa nezaľúbi, neožení, nezastrelí,
+neutopí, nezakole, ani neotrávi; nebudú domy horieť, ani nebude potopa
+lomoziť, nič, ani len máčny mak toho všetkého. Kto toto čítaš, neboj sa,
+nebudú ti vlasy dupkom vstávať, ani neupadneš do mdloby, iba ozaj ak do
+chrápania --- no a v tom prípade budeš mať sny pokojné, to som
+presvedčený. Chcem vám len opísať prešlé časy študentského života z
+časov predpotopných, fosílnych#POZ#154;(lat.) Skamenených#-POZ# keď sa
+ešte diftongi longi jedávali a všetci sme rovní Uhri boli na tomto
+starom našom kruhu zeme:
+
+„Mint a magyar, mint a németh, mint az oláh, mint a tót!"#POZ#155;(maď.)
+Ako Maďar, ako Nemec, aku Rumun, ako Slovák!#-POZ# --- Teraz to už patrí
+medzi petrefakty#POZ#156;(lat.) Skameneniny#-POZ#.
+
+Opíšem vám teda našu cestu z Pešti na Slovensko, do toho Tótországu.
+Ale, rozumie sa, musíme začať v Pešti, a to práve v samučičký ten deň,
+keď sme sa na cestu vyberali. Vidím, že sa mnohý, zvyknutý tú cestu
+teraz železnicou konať, nad celou tou zdĺhavosťou a spozdilosťou zasmeje
+--- darmo, vtedy boli časy také. V Pešti teda, v Jozefovskom predmestí,
+izba naša v prízemí, i tak po chudopaholsky vystrojená, vyzerala tento
+deň akoby vyrabovaná, ozaj clivo a pusto. Steny holé, ako najfajnejší
+tajtík#POZ#157;(maď.) Pena (morská)#-POZ# vyfajčené na tmavo; na
+oblokoch a stenách rozliate černidlo. Sklo na oblokoch škamrilo žiaľom
+za svojimi odchádzajúcimi obyvateľmi. Okolo stien slamené, zelenavé,
+rozhegané stolce a slamené, tiež prázdne postele. Naprostred izby na
+štyroch stolcoch vyložený katafalk: dve truhly a dva čiernym kepeňom
+prikryté kufríky. Na tom dve krivé, nakríž preložené šable; na hornom
+konci umrlčia hlava a dve boncové#POZ#158;(z maď.) Stehenné#-POZ# kosti
+(ossa femoris), tiež nakríž položené. Na hlave vypchatý netopier s
+nápisom v pysku: „Memento mori"#POZ#159;(lat.) Pamätaj na smrť#-POZ#. Na
+dolnom konci Vyrožilovo Jus naturae, Jus Romanum, Jus
+canonicum#POZ#160;(lat.) Prirodzené právo, Rímske právo, Cirkevné
+právo#-POZ# a bohzná aké odznaky právnické a lekárske --- to všetko si
+razom predstavte, aby ste aký---taký pochop mali o tejto našej
+študentskej izbici.
+
+Pri týchto márach sedia na prázdnych posteliach štyria študenti dumno a
+ticho; myslel bys\', že sú mŕtvi, keby ich načahovanie sa po veličiznom,
+vyštrbenom krčahu a hlboké dýchanie neprezradzovalo opravdivý život a
+duchaprítomnosť. Zavše jeden, zavše druhý sa uhol, aby dosiahol túto
+velikánsku amforu#POZ#161;(gréc.) Dvojuchú nádobu (aké sa používali v
+staroveku)#-POZ# a so synovskou dôverou k prsiam a ústam ju pritisnúc,
+tak dlho do nej kukal, akoby mal tam na dne krčaha vyciťovať dáku novú
+vlasaticu prekvapenému svetu. Len glganie gágora a mohutné klokotanie
+nápoja, tečúceho do hlbín nenásytnej priepasti, prerušovalo hrobovú
+tichosť. Za dlhú chvíľku trvá toto zaujímavé, hoci tiché pracovanie; ale
+každej veci koniec, a tak lúči sa predsa už raz ten predostatný s
+krčahom, utrie ústa o rukáv, vytlačí slzu z oka, zo srdca vydýchne a
+podá ho ostatnému. Tandem aliquando Quirites!#POZ#162;(lat.) Konečne už
+raz, Rimania (rímski občania)!#-POZ# Konečne krčah doslúžil, dno vyšlo
+na svetlo a po krátkom glganí, charakteristickom odpľutí povie ostatný
+kamarát z mokrej štvrti --- hlasom akoby z pivnice temným, odrážajúcim
+sa na dne prázdneho krčaha --- historické slová Poliaka Kościuszka:
+Finiš Poloniae!#POZ#163;(lat.) Koniec Poľska!#-POZ#
+
+Vtom akoby na velenie otvoria sa dvere a vstúpia do chyže dve veličizné
+čižmiská so svojím furmanským paholkom Ďurom. Krátka to, ale široká
+potvora, ruky za opaskom, pravý to Napoleon I., s tým rozdielom, že ten
+ruky na chrbte, náš Ďurko ale na bruchu nosieval; Napoleon I. nosil na
+boku krátky, tenký kocprt, ale nášmu Ďurkovi visel bokom na remenci
+zahybák až po členky dolu. „No, tu som, mladí páni," povie on, nijako si
+neštrapacírujúc ruky zosňatím klobúka, „vezmeme tieto parahámy so
+sebou." Uhne sa a vyložiac prvý kufor na plece, pokračuje: „Ej ---
+bisťužebohu, či ti voľáko odľahlo! Keď som ťa vlani dolu skladal, mala
+si mi, opacha, prsty odtrhnúť, a teraz --- hm!" Toto „hm", zvláštne
+vyrazené, viac znamenalo ako všetky jeho rozprávky. „Škoda prázdne drevo
+domov voziť. Ver je to, aby ma stislo, riedkou plachtičkou prikryté!"
+Pozreli sme jeden na druhého; najmladší, Karol, jal sa ho ubezpečovať,
+že sme to len preto urobili, že chceme voziarom kone zašanovať.
+
+Ale Ďurkovi sa nelenilo; povykladal naše ladičky ako ľahké pierka na
+voz. Pohol sa a my za vozom in corpore#POZ#164;(lat.) Hromadne#-POZ# šli
+sme ta na Landstrasse pri Marokhauskom dome do krčmy
+„Trompeter"#POZ#165;(nem.) Na Krajinskej ceste, do krčmy U
+trubača#-POZ#, obyčajného prístavu voziarov a celej slovenskej
+furmanskej floty a študentov. Kým tu naši voziari rozličné batožiny
+naložili, poprekladali, umiestnili, posťahovali, trvalo to peknú
+chvíľku.
+
+Vozy dostali čudnú fyziognómiu, akoby boli mali zapuchnutú tvár
+následkom bolenia zubov, pretože do bokov pod reťaze prišli k našim
+haraburdám zázračné olejové sudy.
+
+„No, mladí páni, hore sa, už je všetko v poriadku!" zaznelo komando
+starého admirála suchej slovenskej flotily, vysokého Dobríka; a my sťa
+námorníci liezli sme zo všetkých strán hore na koráby --- ktorý cez oje,
+ktorý cez sudy a kolomažnicu, kade ľahšie. A keď sme už sedeli tamhore
+na tej výšave, nabití ako kvasená kapusta, tu zavolá zase Ďurkov
+veliteľ: „Pavúz sem! Musíme pritiahnuť tých pánov, aby sme ich
+nepotratili; vieš, že za tovar musíme dobre stáť. --- Potom zahoď
+plachty." My sme však všetci zdvihli hlas, ako kury v chlievci za nohy
+priviazané, protestujúc oproti pavúzu a proti plachte, lebo bol deň
+tichý a jasný, a čo sa týka stratenia, ubezpečovali sme Dobríka, že sa
+radšej za nohy dovedna špagátom priviažeme. --- A tak čihí, spánombohom!
+--- Ďuro vo svojich delových čižmách vylezie na koňa, a to nie bez práce
+a stenania, plesne bičom medzi sedem koní, hamovka po žulovej dlážke
+zarachoce a loďstvo s tridsiatimi študentmi na palubách sa pohne.
+Admirál, majúc ruky povážne na krížoch preložené, sleduje dlhým krokom v
+širokých gatkách vozy, obzerajúc bedlivým okom, či by sa ešte dáka chyba
+nemohla vyskytnúť. No nechýbalo nič a pri priaznivom vetre veslovali sme
+vacovskou cestou na sever.
+
+Zaujímavá to postava, ten pán admirál: chlapisko vysoké, silné, na hlave
+široký klobúk --- ale tak široký, že keby ním o zem bol hodil, nebodaj
+by celú Torňanskú župu bol zakryl --- biela kabanica a na nohách strašné
+boty, akými sa ani Napoleon I., ani Napoleon III. chváliť nemohli; k
+tomu nevyhnutný, po bradu siahajúci, krásnymi mosadznými prackami
+ozdobený opasok a za opaskom čnejú štyri, na vrchnom konci, akoby na
+rukoväti, žlté, dlhé --- snáď pištole, snáď šerežanské vražedné
+handžáre? --- Len kus pozhovejte a vašej zvedavosti bude vyhovené, čo to
+za tajomný, žltý, strašný vražedný nástroj.
+
+Ďuro na ceste vyše Novej Pešti usnul na koni, koníky šli po svojej, nie
+po paholkovej hlave, následkom čoho zadné kolesá admirálovho voza
+zviezli sa do priekopy. Uzrevší to Dobrík rozhorlil sa zle---nedobre;
+bolo sa obávať, že sa lebo rozpučí alebo že ho od zlosti žltačka zaleje.
+Ale, vďaka bohu, od rozpuknutia chránil ho pevný opasok, od žltačky žlté
+pracky, ako staré sympatetické prezervatívum#POZ#166;(gréc, lat.)
+Ochranný prostriedok, používajúci domnelé tajomné sily (zariekanie a
+pod.)#-POZ#. Akonáhle však vinník na karhavé slová odvetil nevrlo, tu
+nášho --- ináč tichej povahy vozkára tak žlč zarazila, že zlosťou takmer
+zaslepený, napriek svojmu dobrému menu zubami zaškrípajúc, so slovami:
+„Juj, šumplata naničhodná!" jedným šmahom ako strela za opasok siahne,
+strašnú zbraň v okamihu vytrhne, a --- jaj, hrúza! --- šmyk Ďurovi do
+brucha! --- Ja vykríknem, skočím z voza dolu --- tu vnútornosti brucha
+von. Už myslím, akým švíkom to zašiť načim, prehŕňam sa prstom, hľadajúc
+obličky a slezinu --- ach, ba do sto hromov, či ten samé uhorky jedol?
+Ďurkovo brucho je posiate samým čírym uhorkovým semenom ako dáka teplá
+hrada. --- Tie domnelé pištole a či handžáre za gazdovým opaskom ukázali
+sa byť žltými, prezretými uhorkami, ktorými Dobrík zadosť učinil svojmu
+spravodlivému hnevu. V letných horúčostiach totižto nosieval vše zásobu
+uhoriek za opaskom, tie idúcky z dlhej chvíle nožíkom bielil a na
+najbližšej stanici pokrájané a osolené užíval. V tomto prípade mu od
+príhody i k inšiemu cielu poslúžili. A tak rozišiel sa hnev, ale i
+uhorkový šalát nášho Dobríka na Ďurkovom bruchu.
+
+Vo Vacove sa rozmnožili i vozy i cestovatelia --- žiaci s prázdnymi
+kufríkmi. A tu mi veru napadlo, či sa vacationes nevolajú preto
+prázdninami, že vtedy žiaci putujú domov s prázdnymi kufríkmi a vačkami.
+--- Na vacovskom vrchu, „Nagyszál" volanom, nás stretli taligy s
+ovocinou, ťahané somármi. Kôň múdrejší od somára, a predsa sa ho ľaká. I
+naše kone sa poľakali a bezmála by nás boli bez Dobríkovej opatrnosti
+prekotili. Za to napadli sme taligášov, hlúpych okolitých Maďarov, ktorí
+sa museli ovocnou dežmou odmeniť, čím sme im chceli dokázať, že sa nás
+tiež ľakať majú. Po tomto lacnom a nečestnom junáctve museli nám medzi
+Birinkom a Katalinkou vyhrávať postretnuvší nás Cigáni.
+
+Lokošský hostinský, veľký to pultrológ#POZ#167;(gréc.) Hydinár#-POZ#,
+mal veľa kačíc. Živšie to bolo tam uňho ako v schönbrunnskom zverinci.
+Jeden z našich komunistov vyhodil tak mimochodom, tak nenazdajky
+valaškou do kŕdľa a jednu biednu kačicu nebezpečne ranil. Aby sa teda
+dlho trápiť a snáď biedny život na krivej nohe dlho za sebou vláčiť
+nemusela, poslucháč lekárstva s budúcim vyžilierom, čiže inžinierom,
+vulgo merníkom alebo zememeračom, vybrali sa urobiť jej trapiem koniec.
+Čo sa v nebi spojí, nech nebude na zemi rozlúčené; keďže však jej hlava
+s hrdlom na nebi spojená nebola, teda sa rozlúčiť môže. Takto sme my
+súdili o hrdelnom súde.
+
+Túto zásadu do života, popravde do smrti, uviesť bolo úlohou lekárovou.
+Inžinier držal žertvu za hlavu a nohy a lekár pílil, pílil --- to sa
+vraj menuje amputovaním hlavy --- pílil tupým nožíkom, kým sa kačica na
+dvoje nerozpadla. Ledva sa operácia skončila, dopáli nasršený hostinský;
+ale voziareň, táto naša anatomická sála, mala dvoje vrát, a tak ako on
+jednými vrátami vpálil dnu, my druhými von, ale i s anatomickým
+preparátom, s gilotínovanou kačicou. Títo mladí a friškí, tamten starý a
+široký ako trnavský sud --- tým sa, prirodzene, priestor medzi táborom
+Montecchich a Capulettich vždy väčšmi šíril, takže o krátky čas naši
+dvaja okrídlení operatéri zatiahnutým očiam hostinského predstavovali sa
+ako dva matematické punkty. Hostinský, vidiac daromné namáhanie,
+potiahol pulidery, utrel z čela pot, šiel medzi svoje zblednuté kačičky
+a so Schillerom v speve o zvone „čítal hlavy svojich". V duchu však
+skoro odpustil študentom túto raziu, tešiac sa tým, že hoci prázdnymi
+vačkami a kufríkmi obdarení študenti spáchali furáž#POZ#168;(z franc.)
+Drancovanie#-POZ# na jeho škodu --- túto impostúru pri návrate do škôl
+dokonale vynahradia. Znal on dobre svojich ľudí...
+
+Naše koráby sa opatrne, ale bezpečne, podľa bachovského porekadla ---
+„Langsam, aber entschieden vorwärts!"#POZ#169;(nem.) Pomaly, ale
+odhodlane napred!#-POZ# --- pohybovali ďalej bez toho, žeby sa dač
+pamätného bolo prihodilo. Tu i tu sme si čas krátili ťahaním sa za
+prsty, fajčením, hraním v karty, pričom na lono položený klobúk zastával
+miesto stolíka. Ba dajedni, cítiac v sebe povolanie k budúcemu
+rozkazovaniu a spravovaniu ľudských osudov, ako napríklad náš Karolko,
+vzali bič do ruky, vysadli miesto vďačne ustúpivšieho paholka na koňa a
+„veselo bičom" komandovali: čihí, hota! --- S malým bičom počneš, s
+veľkým dokonáš, tak sa brúsi energia v klíku k veslu moci a vlády
+povolaných ľudí. Prečo nie, novšak? --- Veď Atila bol Atilom a nie
+frakom, a menovali ho „bičom sveta".
+
+Náš Vojtech, rodom z Oravy, starý to, ,veteranissimus\'#POZ#170;(lat.)
+Nanajstarší (posmešne)#-POZ#, ktorý --- ako jedni hovoria --- preto dva
+roky filozofie už po tretí raz opakoval, aby sa vycvičil vyššiemu umeniu
+leštenia čižiem u milosrdných bratov a pritom prechoval na bobovom
+penzionáte --- druhí tvrdia, že preto, lebo ho profesori veľmi ľúbili a
+prepustiť nechceli; nuž tento náš machom a plesňou obrastený Vojtech,
+sediac v najvyššom sťažnokoši, to jest na olejovom sude, ktorého stopy
+sa mu na kabáte zrkadlili, reakcionárovi podobný, nepretržite hľadel
+rovno na sever, hľadel, div si oči nevytkol. Tu sa mu razom otvorí
+veteránska jaskyňa, chlebový krámec --- jeho papuľa --- a ukazujúc
+prstom do doliny, do zeme Kanaan, hlasne prerečie: „Už sme tu!" Všetci
+vystrúc hrdlá, oprú zrak o vežičku a za ňou v perspektíve o biely dom.
+„Tu je, tu je, chvalabohu!" vykríknu všetci s takou radosťou, ako to asi
+karavány robia, keď konečne šťastlivo prebŕdli nebezpečný samum
+pustatinami Sahary.
+
+Ale pýtate sa, prečo vid týchto každodenných predmetov naplňuje našich
+šuhajov toľkou radosťou a blaženosťou? --- Nuž odpoviem vám. --- Ten
+biely dom za tou vežičkou v zelenej doline je hostinec v Nagy Orosze, a
+v tomto hostinci pekávali palacinky s hečepečom, naplnené malinovým,
+slivkovým, ríbezľovým lekvárom, orechami, hrozienkami, grísom, kapustou,
+tvarohom, ako komu ďaka a ľúbo; a to palacinky tak výborné, akých
+nenájdeš, neuvidíš, neokúsiš, čo priam všetkých päť čiastok sveta
+krížom---krážom s večným Sueovým židom pochodíš.
+
+Teda tieto palacinkové „unica"#POZ#171;(lat.) Jedinečnosti#-POZ# tak
+mohutne zatriasli mozgami a ich ratolesťami --- nervami
+„vágusom"#POZ#172;(lat.) Nervus vagus, blúdivý čuv. Má dôležitú úlohu aj
+pri trávení#-POZ# do samého žalúdka našich i tak dosť lačných študentov,
+že od toho času všetky ich zmysly s vytvorením všetkých iných predmetov
+do palaciniek boli zaobalené. Nato museli ako definitívni tak i
+provizórni paholci nohami a rukami, akoby plávali, na úbohých koníkoch
+veslovať a natriasať sa a tieto poľutovaniahodné nástroje ľudskej
+pohodlnosti a lenivosti ponúkať k rýchlejšiemu kroku dôkladnými
+argumentmi.
+
+Pri vchode dobrodružných študentov do Nagy Oroszu vybehúvali ľudia na
+diváky. „Nézd csak, mennyi sok ember jön!" (Pozriže, koľko ľudí ide),
+ukazuje na nás jeden, ruky nakríž, fajku v papuli, pred vrátami stojac.
+„Bolond, nem emberek, hisz diákok,"#POZ#173;Blázon, veď sú to nie ľudia,
+len študenti#-POZ# dokladá druhý. „Igen? Hala Istennek! Eső
+lesz,"#POZ#174;Hej? Chvalabohu! Bude dážď#-POZ# ozval sa tretí. Takhľa
+sme sa stali kolegami Černokňažníka.
+
+Naše koráby zastavili sa vo voziarni, a my poďme do hostinca. Okolo
+veľkej tabule vprostred izby sedí celá študentská chasa. Pekný to rad
+perál. Zo stola sa kúrilo, ako sa kúrievalo v Banskej Bystrici v
+uhliskách na Horných hrabliach. Stáli tam misy široké, veliké. Kto čítal
+v Don Quijotovi čosi o Camachovej svadbe, ten má aký---taký pochop o
+týchto miskách s gulášom, s kapustou a --- s palacinkami.
+
+Hrobové ticho! Čit --- ani slova, nič, ba ani kýchnuť nestačili; tak
+svedomite znali čas využiť. Jedine lyžice a vidličky strkali a hrkali a
+časté hlasité preglgúvania prerušovali velebnú tichosť.
+
+Zvedaví obyvatelia zôkol---vôkol všetečne obdivujú náš obrovský,
+klasický apetít a tečú im slinky dolu bradou ako --- nehodno vraj
+pripodobniť --- mäsiarskemu psovi. Sedliačka búcha svojho muža lakťom,
+zadivená nad sekaním zubov, miznutím nastoľovaného barana v gulášovej
+polievke. Nás však toto obdivovanie v Milo Krotoniadovom#POZ#175;Milo
+Krotoniades pri olympijských hrách nosil živého vola na pleciach, potom
+ho zabil, upiekol a celého sám zjedol#-POZ# konaní ani najmenej
+nepomýlilo; lebo tí, čo dážď robia, i jesť chcú, a nadovšetko --- piť
+musia. Hoci sme sa držali ticho a solídne pri tejto vážnej úlohe,
+fotografovať by nás predsa neboli mohli, lebo sa nám všetkým brady
+neustále kývali.
+
+Aknáhle sa už vyprázdnené misy kúriť prestali a v žalúdku geologické
+vrstvy tretej doby sa usadzovali, a to: kapusta = miocén, palacinka =
+pliocén a guláš = eocén, po príjemnom telesnom priedychu, pokojnom
+utieraní spoteného čela --- zavolal náš chýrečný Vojtech, ktorý máločo
+menej od pätnásť palaciniek pochoval do svojho zásobníka: „Chlapci, už
+sme dosvedčili to starodávne klasické študentské porekadlo: ,Natura
+paucis contenta\'#POZ#176;(lat.) Príroda je s malom spokojná#-POZ#.
+Teraz, keď sme skromným požiadavkám, chvalabohu, zadosť urobili ---
+poďme spať." Zažmurknúc jedným okom, pochytí krčah s vínom a na
+spomenuté tri vrstvy vylial celé dilúvium, celú potopu, aby už celý
+svetorodný poriadok zachoval, poberúc sa s druhmi hľadať lacný nocľah.
+
+Nebo je krásne, jasné, ani v Arkádii krajšie byť nemohlo, večer tichý,
+teplý. A keď sa tak naješ, či je ten svet krásny! To dostatočná
+pohnútka, aby sme tak nič po nič peniaze za nocľah v izbách
+nevyhadzovali, ale nebesami ponúknutú pohodlnú hospodu vďačne prijali.
+Teda, ktorý kde mohol --- na voze, pod vozom, na sene, na slame, na
+tráve atď. --- sklonil ospalú hlavu a plný žalúdok. Desiati si políhali
+práve pred admirálskym vozom na zelenú pažiť, ktorú cez deň husi skášali
+a čosi cigarkám podobného, večer okom nepoznaného, na nej zanechali.
+Vojtech bol qua desiatnik#POZ#177;(lat.) Akoby desiatnik#-POZ# z jednej
+strany flíglimonom#POZ#178;(z nem. Flügelmann) Najvyšší vojak, ktorý
+stojí na kraji prvého radu#-POZ#, dlhá to a suchá chlapina. Kým sa
+vystrel, fučal ako mech; ležal z druhej strany geometra, ktorého postavu
+už samé priezvisko „krátka duša" označovalo. Desať týchto na pažiti
+vystretých šuhajov podobalo sa tupej pyramíde: jej báza bol dlhý Vojtech
+sťa signum exclamationis#POZ#179;(lat.) Výkričník#-POZ# a tupý vrcholec
+„krátka duša", ako signum interrogationis#POZ#180;(lat.) Otáznik#-POZ#.
+
+Pre mňa tam už miesta nebolo; ohliadnem sa dookola, kde sa tu vrhnúť.
+Ha, tam velikánska kopa čerstvo vymlátenej slamy. Urobím dva skoky a
+chcem sa do nej uložiť --- ale i tá je už v stave obliehania. Zo
+všetkých strán trčali hlavy mojich kamarátov ako hrnce z jarmočného
+hrnčiarskeho voza. Jediný vrch kopy bol ešte slobodný. Neváhal som a
+smelo som sa pustil, kráčajúc ako po schodoch po hladkých, kučeravých,
+čiernych i bielych, ba i červených, múdrych a nemúdrych tekviciach
+mojich bohujúcich, preklínajúcich kamarátov hore na chlm tejto slamenej
+Belohory (Montblanc) a nohami dieru si rozrobiac, spustil som sa až po
+hrdlo do týchto tajomných, šuštiacich vnútorností. Mráz tekviciam
+najviac škodí, preto pokryl som si hlavu slameným štvorgrajciarovým
+klobúkom a dumal som o svojom stave takto: „Na hlave slama, pod klobúkom
+sečka, pod nohami slama, vôkol mňa slama, teda všetko a všade len slama
+a slama. Látka to čertovsky zápalistá. --- Ak by do toho hrom udrel ---
+huj, či by reku nebolo múdrejšie bývalo prv sa proti ohňu asekurovať?
+--- Ó, bože! zažeň od nás požiar, oheň, aby nebol ľuďom, respektíve
+slame škoden." A tak dumajúc a odstrániac slamky, čo ma popod nos a do
+uší zo všetkých strán pichali, pospúšťal som pomaly svoje dve obločnice
+--- kvac! Ľahko som usnul, ľahko som odfukoval.
+
+Spím, spím sen nevinných; slamená kopa podo mnou chrápala ako margitský
+vír; mňa kolembajú krásne básnické sny: v pravej ruke držím skrútenú,
+tvarohom a hrozienkami naplnenú palacinku, dlhú ako červené more; ľavá
+ruka odpočíva na labutej šiji mojej, v Pešti opustenej Euzébie.
+Palacinku požívam a blažené chvíle zaľúbenca zažívam; oči sa nám
+striedajú, ja prestanem jesť, z úst mi vypadne ostýchavo hrozienko: ona,
+roztomilá, roztiahne snežné ramená a --- objíme ma okolo hrdla! Há, ---
+strela okovaná!... „Ježiš, Mária a Jo ---" ďalej nemôžem vykríknuť,
+hrdlo mi čosi pekelne stiahlo, jazyk mi von vytislo ako črieslo, a v tom
+okamihu --- ležím na dve siahy od kopy v mláke zahodený a kričím: „Jaj,
+hrdlo moje!" --- Čože sa stalo? Či ma to Euzébia tak odsotila od seba?
+Či ma mora dlávila? Či ma diabol mal v pazúroch? --- Veru i diabol i
+čert! Strašná mýlka, mrzké intermezzo, hrozné rušenie nevinného sna.
+
+Domáci paholok, neznajúc, že kopa sa stala takou špikovanou
+mandltortňou, chcel pre statok na podstlanie slamu brať, a tento suchý,
+nešťastný Neptún vidlami tak srdnato do slamy zapichol --- moju hlavu
+pod slameným klobúkom nezbadajúc, a podľa jeho zdania ťažkú, tuho ubitú
+slamu chutne pozdvihnúc --- mňa vidlami popod hrdlo zachyteného jedným
+šmahom vyhodil von, až som sa ako hlaváč v kaluži zatrepotal.
+
+Stiahol som naspäť vyplazený jazyk, hrdlo náležité pošúchal a až potom
+sa spamätajúc, hrešil som nepozorného paholka, ktorému od strachu vlasy
+dupkom vstávali, keď videl naraz celú tú kopu slamy akoby oživenú, a
+naši čeľadníci lenivo ako červíky z bryndze von sa redikali. No nič to,
+reku; pozbieral som sa a pobral dnu, kde som ešte ostatky hrdúsenia
+drgnutou slivovicou zapudzoval.
+
+Šiel som práve mimo admirálskeho voza, kde sa teraz na svite tá
+študentská pyramída rozprestierala. Ach ale, stoj, noho!
+
+Pováž a rozmýšľaj, ó, človeče!
+
+Práve v ten rok bolo zatmenie slnka, čierne ako žoch; ja som ho videl z
+budínskej hvezdárne, ako strúhalo tváre, kým ten čierny závoj na sebe
+malo. --- Aby učený a neučený svet vedel, z ktorých punktov zeme
+najdokonalejšie možno vidieť toto zatmenie, už či cez koštiale luciové,
+či cez zadymené sklá, zhotovené boli zemevidy, na ktorých cez tie punkty
+popreťahované boli čierne hrubé čiary od jedného rohu mapy k druhému.
+--- „Nuž ale," poviete mi, „čo to zatmenie a tie zemevidy majú za robotu
+a súvislosť s našimi desiatimi spáčmi?" Páni moji, ako som po tých
+spáčoch okom hodil, stála mi tá istá mapa pred očami rozložená, ale s
+veličiznou a ohavne čiernou čiarou. Toto načmáranie zatemnených punktov
+bolo velikánske a veľmi páchlo kolomažou. Ťahalo sa ono od nôh „krátkej
+duše" kosom nahor, v šírke asi pätnásť palcov, cez všetkých desiatich až
+pod bradu Vojtechovu, kde sa dokončievalo. Bol to, páni moji, rozkošný
+pohľad: tie seriózne tváre a k tomu skvostná garnitúra, ten
+„ordensband"#POZ#181;(nem.) Radová stužka#-POZ#.
+
+Škoda, že vtedy ešte svetlopisu nebolo, aby sa ten obraz pre detné deti
+bol zachoval, a zaiste by v žiadnom múzeu nebol chýbal. Ó, Koperník,
+Tycho de Brahe, Newton! Ako by ste boli plesali nad týmto podareným
+hvezdárskym výtvorom, i keď to nebola mliečna cesta.
+
+Ale tešil som sa i ja, že ani oni sucho neobišli. Chudákov, zobúdzal som
+ich potichu, pripravujúc ich pomaly na to, aby pozorne povstávali a
+zatmenie ďalej sa nerozmáhalo. Keď sa to pekne---rúče stalo, hľadali sme
+príčinu toho očernenia, tak ako mudrci žriedla Nílu hľadajú, a
+šťastnejší od nich, sme ho skoro vypátrali. Náš Ďuro, podľa toho: „Kto
+mastí, ten sa vozí" --- mastil v noci kolesá, ale náhodou zavadiac nohou
+do kolesa, padol, kolomažnica mu z ruky vyfrkla a --- ut figura
+docet#POZ#182;(lat.) Ako ukazuje obraz#-POZ# --- po našich druhoch sa
+rozišla, aby sa tak premenili na mapu slnečného zatmenia.
+
+„No, bračekovci, choďte sa teraz jeden druhého navzájom lízať!"
+
+Ale ani tí, čo pod kopou chrápali, sucho neobišli. Dievky v noci prali a
+tých podmyla sapúnistá voda, vyliata na dvor. Jednému však vôl, čo práve
+zbieral po slame roztratenú trávu, skoro hlavu odhryzol. Ten vôl
+bezpochyby rád otruby lízal...
+
+Ďalej cestujúc, od Šiah sme sa tratili ako tie iskričky, čo po zapálenom
+papieri behajú --- miznú. A tak to trvalo všade až po Banskú Bystricu,
+kde sme až na štvrtý deň dorazili. Pravda, vtedy ešte parovozy nefučali,
+ba i parolode po Dunaji len raz týždenne sa prechádzali.
+
+A bolože nám už potom „to je život, to je svet!", až kým zase nezavítal
+„október, kapsu ber, do školy, psi holí", keď sme sa zase poberali ad
+almam matrem#POZ#183;(lat.) Do školy (dosl. k matke živiteľke).#-POZ#,
+podľa tej Kollárovej:
+
+#POEZIA#
+
+#I#Ó Minervo, daleko voláš mne!
+
+Vlast svoji miluji náramně.
+
+Mé srdce mře,
+
+v němž Amor vře,
+
+ve dne, v noci v bolestné hře.#-I#
+
+#-POEZIA#
+
+# Študenti
+
+„Časy, časy, časy dávne."
+
+#I#Spievanka.#-I#
+
+Boli to za časy, keď sa ešte tam, kde sa teraz peštianske múzeum hrdo
+vypína, a vtedy uprostred smetiskových lavín nízke chalupy stáli, nočným
+časom nápady, ba vraždy páchali. Boli to za časy, keď ešte starí
+prísediaci stoličného súdu v atile a pantalónoch, pod šabľou a vysokým
+pinčom stoličné zhromaždenia pilne a vážne navštevovali, keď si v tých
+zhromaždeniach najprednejší mužovia maďarskí, Szechényi a Kossuth,
+najväčšie sotízy pohovorili, keď ešte ani rýchlonôžky, ani virilcov, ani
+bieleho Uhorska atď. atď. nebolo; v tých „blažených, dobrých" časiech
+bývali v bočnej, od múzea druhej ulici študenti.
+
+Ich bydliskom bol chudobný jednoposchodový domček. Nedôverujúc vlastným
+nohám, stál opretý jedným bokom o susedný dom; z druhého boku a odzadku
+obtočený bol malou záhradkou. Obsahoval štyri izby, dve navrchu a dve
+naspodku; jedna z nich bola obývaná domovou paňou a tri našimi
+študentmi. Ten domček „študentským holubiencom" bol nazvaný.
+
+Spodnú prednú izbu obývali štyria synovia múz, predstavujúc akoby štyri
+čiastky sveta, štyri obdobia roku a štyri rozličné elementy. Poslucháči
+--- práva, lekárstva, ľúbomudrctva a merníctva --- tvorili ten
+štvorlístok.
+
+Zvláštny opis tej izby nepodáme, lebo v nej nieto čo opísať. Štyri
+slamené postele, ku každej taký stolec „ad latus"#POZ#184;(lat.) K
+boku#-POZ# postavený, potom stolík, štyri kufríky a jedna schránka so
+štyrmi priepravami; v každej prieprave mal každý osobitne svoje skromné
+rúcho; to bolo celé ich eldorádo.
+
+Priestrannosť izby bola taká, že keď si jeden chcel kabát obliecť, musel
+vyjsť pred dvere, aby si ruku o stenu neoškúlil.
+
+Slúžila ona študentom nemajúcim hospodu za „lapis
+refugii"#POZ#185;(lat.) Skala útočiska#-POZ#, bola im
+„herbergom"#POZ#186;(nem.) Hospodou#-POZ#, kým si hospodu nenašli.
+
+I teraz sa tu uhniezdil taký „facírend"#POZ#187;(z lat.) Potulujúci sa
+(lebo nemal stáleho bývania)#-POZ# šuhaj merník, Vilibald R., rodom z
+Moravy. Bol to výborný huslista, v tom žil a tým sa i živil.
+
+Jeden tichý jarný podvečer rozbehali sa naši študenti na všetky štyri
+strany sveta, každý po svojom --- muchy rozháňať. Len Vilibald zostal
+doma. Skladal svetochýrnu operu --- druhú po „Norme" --- „Pokapala na
+salaši slanina". Vyšiel mu knôt, ale nie z opery, lež z lampy, a olej;
+aby teda nebolo „operam et oleum perdidit"#POZ#188;(lat.) Utratil aj
+prácu, aj olej (čiže všetko)#-POZ#, pobral sa do sklepu pre obe tie
+látky. Vyložiac zôkol---vôkol notami garnírované husle na posteľ,
+pritvoriac znútra obločnice, tašiel do sklepu.
+
+Navracajúc sa s olejom domov, napadlo mu, že veru i dohán kúpiť treba. I
+vrátil sa; ale aby olej nemusel so sebou niesť a do izby sa nemusel
+vrátiť, vložil sklenku krátkou rukou z ulice do okna. A tu vidí jednu
+tablu zabitú. Pokrúti hlavou, mysliac, že snáď daktorý z kamarátov, keď
+sa vrátil domov a nenašiel kľúč od dverí, vybil tablu, aby touto
+neriadnou síce, ale v každom prípade kratšou cestou mohol vstúpiť do
+salónu.
+
+Kuká, kuká jedným okom cez dieru; potom, keď nič nevykuká, sladkým
+hlasom zavolá: „Ondrík, pipík zlatý, či si tu?"
+
+Keď odpovede nedostal, volá ďalej: „Gusto, Karol, Ferko, ste to vy?"
+
+Tvrdošijná tichosť.
+
+„Ale trúba, však ťa vidím, trebárs je mračno, ako sa tamto popri stene
+ťaháš."
+
+I pochytí kus odlomeného skla a hodí za tieňom. Voľačo sa uhne, na zem
+padnuvšie sklíčko zacvendží.
+
+Vilibaldovi akési zlé tušenie prsia preháňa. Jedným skokom bol na okne,
+a vidí --- čo vidí! Vidí schránku otvorenú, batoh na zemi a v pozadí
+manévrujúcu mužskú postavu.
+
+Vilibaldovi sa chytro rozum precúdil.
+
+„Ej, šestnásť hrmen bohov, veď ja teba precedím!" vyrečie, a hodí sa ako
+divý máčok na kmína. Silným svojím pádom zrútil pod seba na zem i tajnú
+postavu, ktorá hlavou tvrdo o dvere búši. Pravou rukou mu chmatal
+šatkový uzol na hrtane, krútiac ním rezko ako kolčekom na husliach.
+
+„Počkaj, veď ti ja natiahnem strunu!" kričal nad ním.
+
+Ale ani ten jeho blíženec neznal žartu, a bol by nášho Vilibalda iste
+kúskom končitej ocele medzi rebrami pošteklil, keby tomu krikom, volaním
+o pomoc nebol predišiel.
+
+„Kmín, kradoš, zbojník, lotor, oplan!" a všetky na to vzťahujúce sa
+epitetá vyvolal, ako mu práve na pamäť uviedol „psí psotár", ako on,
+Moravan, maďarský slovník --- szép szótár#POZ#189;(maď.) Pekný
+slovník#-POZ# menúval.
+
+A tu, ako kebys\' na plný klát včiel päsťou búšil, i keď mravcom pokojnú
+kopu papekom rozrýpeš a tieto nadurené a nabalachané behajú, ba, --- ale
+nehodné pripodobniť --- aj ako keď ošípaná v kŕdli zakvičí a všetky na
+pomoc sa zbehnú; no nebodaj, ale navlas tak i rozpapraní študenti na
+Vilibaldovo kvílenie v okamihnutí sa zhŕkli a dvere práve „a
+tempo"#POZ#190;(lat.)Včas#-POZ# vyvalili.
+
+Na kmínovi ležal Vilibald, na Vilibaldovi dvere a na dverách celý
+„habaus" študentov valil sa celkom tak, ako kedysi Zrínsky so svojimi
+junákmi hrnul sa von zo Sihoť---hradu!
+
+Vilibalda s kmínom, v nepriateľskom objatí skoro na figy roztlačených,
+vytiahli spod pekelnej brány na svetlo.
+
+Už či náhodou a či volaní, neznám, ale dobehli i ostatní obyvatelia
+tohoto salónu. Posledný z nich medikus#POZ#191;(lat.) Poslucháč
+lekárstva#-POZ#, kupujúci práve u „graislera" večernú stravu, dopočul sa
+túto strašnú históriu. Inokedy ukladal si pre lepšie pohodlie prešované,
+do dákeho makulára okrútené maslo do vačku a grošový chlieb „berdó"
+nazvaný pod vysoký klobúk. Ľakom pomútený, strčil teraz berdó do kabáta
+a maslo pod klobúk a letel ako zvetrený domov.
+
+Tu sa predstaví jeho hriešnym očiam netušený obraz dobre sortírovaného
+skladu každého kalibru študentov.
+
+Prostred nich stojí bledý, ako kyslé mlieko trasúci sa kmín. Jeden
+koniec okolo krku mu založenej žinky drží právnik Andrej K. (I tento,
+chudák, už ako banský radca zomrel!)
+
+Pri schránke na zemi rozprestretá je plachta, na ktorej pometané ležali
+zo všetkých prieprav vytiahnuté parádne obleky. Na samom vrchu skvel sa
+medikov brunastý kveker so žltými gombíkmi. Krídla mal roztiahnuté ako
+kvočka nad kurčatami.
+
+Nad týmto pohľadom medikovi srdce horko zakrvácalo.
+
+Rozhnevaný Vilibald, vyťahujúc spod postele husle a rozmetané noty, volá
+s indignáciou: „Nuž, či ti ten oplan má kus muzikálneho citu? Fuj, hanba
+a posmech, moje kompozície pod posteľou! Ale počkaj, veď ti ja zanôtim v
+trojštvrťovom takte!"
+
+Noskievič, vysoký Poliak so škrofulóznym ranavým hrdlom, kričí: „Ondrík,
+ty si jurista; povedz, či ho môžeme obesiť?"
+
+Karol sa ohlási: „Hlasovať, páni! I ja som za to, obesiť ho, ale kde?
+Ja, bračekovci, primeranejšieho miesta neznám," obrátil sa k
+Noskievičovi, „len ak sa na teba zavesí. Vystri ruku... takto... no,
+pozrite, či je nie hotová šibenica?"
+
+„No, kapitálna," ozve sa belohlavý filozof s červeným noštekom, „bolo by
+to už potom naozaj:
+
+Ecce jugo nexi pendent...
+
+Hoc merito potest dicere conjugium."#POZ#192;(lat.)Hľa, visia spojení
+jarmom... to sa môže právom povedať o manželstve.(Je v tom aj slovná
+hra: jugum = jarmo a conjugium = manželstvo.)#-POZ#
+
+„Hore ho!" povie druhý filozof, „na výšku vyšších vedomých cieľov."
+
+Gusto, medik, na to: „Nič to --- anatomicky musí vykapať. Najprv mu
+hlavu oskalpírujeme a potom mu ju týmto obuškom ,abreptis e dorso
+loris\'#POZ#193;(lat.) Keď zrežeme remeň z chrbta#-POZ# trepanizujem."
+
+„Nie trepanizovať, ale roztrepať po slovensky!" vyvolá voľakto.
+
+„Moje noty, moje husle takto zneuctiť, štvrtiť ho!" šomre merník
+Vilibald.
+
+Nato predstúpi bohoslovec so sklopenými očami a pološeptom riekne:
+„Nieže, drahí bratia, len nie vraždiť! Keď chcete zločin trestať,
+zavrite ho dakde a dajte mu postiť sa, kým dušičku nevypustí."
+
+„No to, bisťubohu! Radšej sa dám šesť ráz obesiť, ako mám raz hladom
+umrieť," vykladá medikus. I chytiac bohoslovca dvoma päsťami za bradu,
+hegá ho: „Ej, luridus, i ty by si nežral za štyridsať dní kobylky,
+zjedol by si radšej i koňa."
+
+„Obesiť ho, obesiť," zavolá viac hlasov.
+
+„Páni, väčšina rozhodla! Ale teraz, ktože tú čestnú úlohu vezme na
+seba?" pýta sa Gusto.
+
+„Nuž ty, medikus, privykaj remeslu," doloží Ondrej.
+
+„Nie, Ondrík môj, vešať ľudí patrí do odboru juridiky, ako to už do
+sýtosti povrázok v tvojej útlej pačke dokazuje," s poklonou dodal
+medikus.
+
+Ferko, ktorý už chvíľu s neporušenou pozornosťou hľadí na rozpálenú
+medikusovu tvár, pristúpi mu pred samé oči: „Ale, Gusto, čo ti tu ešte
+tečie dolu nosom? Nepotíš sa krvou, ani to nie je voda --- čo ti teda
+kvapká?"
+
+Skúmavým prstom škrabka mu po nose. Medikus siahne za klobúkom,
+pošúchajúc si vrch hlavy, zrazí z nej kus mastného papierika, horúčosťou
+však topené a nehatené maslo, prúdi potôčikmi predesenou tvárou.
+
+„Ľaľa, tvoj nos --- nové žriedlo na petrolej! No, nerob si nič z toho,
+kamarát", teší ho Karol, „nepripúšťaj si to k srdcu: Wer schmiert, der
+fahrt#POZ#194;(nem.) Kto maže, ten ide.#-POZ#," deklamuje i drží mu
+kahanec pod nosom. „Škoda by bolo masla; sem kvapkaj, kamarát!"
+
+„Tiež rozprávaš ako Šalamúnove nohavice, ty Cremastes; ja by si ho tiež
+radšej do žalúdka, ako do srdca pripustil."
+
+V tejto všeobecnej vrave --- kde každý jeden nad druhého múdrejšie
+rozprával, a nikto nepočúval --- zjaví sa vo dverách od hlavy do päty
+ozbrojená policajná osoba.
+
+Toto zjavenie prvý pobadal bohoslovec a jednou rukou ukazujúc na kmína,
+druhou na policajta pateticky zvolá:
+
+„Una harum veniet, quae tibi dicet abi!"#POZ#195;(lat.) Jedna z nich
+príde, a tá ti povie „coky"!#-POZ#
+
+Vstúpením polície vzal náhly súd koniec.
+
+Podávajúc kmínovi galantnú ruku, pojal ho so sebou, z druhého boku
+kráčal Ondrík, nepopustiac povraz z ruky, akoby brava na trh hajčoval.
+Prv, kým sa von vymleli, dostal kmín od každého
+viaticum#POZ#196;!!!#-POZ# tým, čo práve kto pri ruke mal.
+
+„Páni, to neslobodno; nie ste uprávnení ho biť," ohlásil sa policajt.
+
+Chasa sa len smiala, a so spevom:
+
+#POEZIA#
+
+#I#Už nám idú, už idú,
+
+čo mu dáme k obedu?
+
+Trci---frci s oškvarkami
+
+a na večer lobodu ---#-I#
+
+#-POEZIA#
+
+stúpali študenti dvaja a dvaja na ulicu.
+
+Ako ortuť k ortuti a ako malá hŕba pýta viac, tak sa po uliciach
+potulujúci študenti pridružili k tomuto slávnemu sprievodu. Prevyšujúc
+na počet bársaký magnášsky pohreb, valili sa k mestskému domu. Otvoriac
+bránu, vpustili drabanti zlodeja s policajtom dnu. Ale keď sa za nimi
+celý sprievod chcel vtlačiť, zachlopili im pred nosom vráta, a študenti
+boli prinútení vrátiť sa s dlhým nosom domov.
+
+Druhý deň nasledovalo vyšetrovanie.
+
+Zlodej sa vyhováral, že neznajúc geografiu a v úplnej nevinnosti
+mimoidúc, videl otvorený oblok. V tom domnení, že je tade priechod do
+susednej ulice, vošiel do izby, kde ho Vilibald tak nemóresne dostihol a
+pritisol.
+
+Túto ináč veľmi romantickú výhovorku tvrdošijný mestský kapitán uveriť
+mu nechcel a odsúdil ho do chládku a na diétne mestské pohostinstvo. Po
+dvoch týždňoch ho zase videli pod slávnosťou svätého Jána na moste.
+Pravdepodobné je, že si tuto zase cez vačky divákov rukami cestu do
+bočnej ulice prerábal.
+
+Náš hrdina Vilibald našiel si medzitým hospodu v susednej ulici.
+
+Kto vysoko lezie, ten hlboko padne!
+
+Neznám, či toto bolo pohnútkou a či iné príčiny; dosť na tom, nespával v
+posteli, ale na zemi uprostred izbičky na rohoži. Od obloka z dvoch
+strán viseli mu na klincoch háby.
+
+Posilniac sa podvečer po dennej práci dvoma pecňami chleba, takrečenými
+berdóvami, uložil sa na unížený brloh, podložil päsť pod ucho, prikryl
+ľahkým svedomím a tenkou plachtičkou, skrútil sa do págľa ako húsenica v
+kapustnom liste --- a usnul snom spravodlivého!
+
+Čo sa mu snívalo, nenachodí sa zaznačené nikde, ale muselo to byť čosi
+príjemné, lebo sa usmieval nahlas.
+
+Vtom sa pod okno snívajúceho Jakuba prikráda akási tajná zababušená
+osoba: ,No len v tme svietia moje hviezdy,\' povedá Schillerov
+Wallenstein#POZ#197; Nur im Dunklen glänzen meine Sterne.
+Schiller.#-POZ# Zaklope ľahunko na oblok. --- Keď sa nikto tamdnu
+neohlásil, presvedčiac sa, že obyvateľ chyžky dosky strúha, vytiahne z
+vačku asi dve dlane veľkú randu natretú terpentínovou masťou, diachylon
+rečenou, prilepí ju o sklenú tablu, a tak ju potom bez všetkého brinkotu
+a štrngotu vtlačí dnu. Preborenou dierou strčí ruku, začiahne na zvrtlík
+a otvoreným oknom vkročí tichunko a opatrne do izby.
+
+Na ládičke zastal a pristaviac dych, načúval za okamih Vilibaldovo
+chrápanie. Presvedčený o bezpečnosti, siahol rukou napravo a ľavo, a ---
+čo zachytiť mohol, pošlo pod pazuchy.
+
+Vilibald odfúkol: „C cis, G gis, opekance hryz..."
+
+Obávajúc sa, aby Vilibald z nôt nevypadol, hodí mu prstom bozk a s
+poklonou „Pah, gute Nacht!"#POZ#198;(nem.) Tak, dobrú noc!#-POZ# vyletí
+šibenec s Vilibaldovou toaletou von oknom.
+
+O piatej ráno bolo už v študentskom salóne živo.
+
+Prívetivé slniečko otvorenými oknami donútra s úsmevom nakúkalo a v jeho
+svetle krútil sa v kotúčoch študentský prach.
+
+V posteli rozvalený Karol chrúmal kus berdóva, večerný to pozostatok.
+Zahryznúc chutne, spraští mu pod oceľovými zubami...
+
+„Ešte kýho ďasa! Hľaďteže, veď je tento berdó hrozienkami plnený!"
+
+Ondrej sa ľahostajne prizrie.
+
+„Ehm... hrozienka, Karolko! Len pozri, ako ti tuto prehryznutý šváb
+nohou, tento chvostíkom a tamten hen fúzom mrdá," ukazoval Ondrík.
+
+„Ach, ach, obludy, nuž vy chcete so mnou raňajkovať? Niks tralala!"
+
+I povyberal z dierok dnu vlezených celých a poprehrýzaných švábov
+pokojnou mysľou za nôžky a zmietol ostatok s tou najlepšou chuťou do
+posledného maku.
+
+Kým sa Karol takto kŕmil, pripravoval si pred zrkadlom Gusto papierové,
+také domarobienses krágliky okolo krku. Ferko však bielou nitkou na
+čierne nohavice prišíval miesto gombíkov do súkna obalený svinský bôb.
+Andrej, vyložiac zavše jednu zavše druhú nohu na okno a vlažiac slinami
+škatuľku, drhol a leštil si kefou čižmy.
+
+Vtom pripáli pod okno, akoby z buka, Vilibald. Bez klobúka, náprsníka,
+bez kabáta, len v nohaviciach a --- bosý. Slzy tečú chudákovi lícami ako
+lojová svieca.
+
+„Ach, bračekovci, pozrite, už som obriadený!"
+
+„Kýže ti je, ký čert! Nuž a hrom medený?!" odpovie mu chytro rýmujúci
+medikus.
+
+„Oj, ty slepý Trochanter, či nevidíš, že ma ako lipu ošarpali?" utiera
+si Vilibald do rukáva zarosený nos.
+
+„Okradli ťa!" vykríknu všetci v akorde.
+
+„No, na moj dušu, preto si v takom hlbokom negližé!" zalomiac ruky,
+doloží Ferko.
+
+„A kde máš habeas corpus?" pýta sa jurista Andrej.
+
+„To je u troch čertov," odvetí fikajúci Vilibald.
+
+„Hľa, bračekovci, vás som oslobodil, a sám som upadol do bryndze," vojde
+olúpený Vilibald do izby.
+
+„Hja, medice, cura te ipsum,#POZ#199;(lat.) Lekár, vylieč sám seba#-POZ#
+hovorievate nám lekárom," poznamená medikus.
+
+„Reč s pletkami! Rozprávaj nám radšej, ako sa to stalo!"
+
+„Ako sa stalo? Nuž takto sa stalo," utiera si Vilibald zase nos. „Včera
+som behal po meste ako kopov so svojimi husľami. Keby bol rovnou čiarou
+stúpal, bol by snáď až do Amsterdámu zabehol. Keď som sa vrátil domov,
+ľahol som si po večeri, i bol som hneď boží. Proti ránu sa mi sníva, že
+z jednej kuchyne pes proti mne vybehol. Hlavu mal strčenú v hrnci, z
+ktorého iste bol maškrtil. Nevidiac pred seba, tmolil sa z boka na bok.
+Ja zdvihnem palicu a fuk psa po hlave, respektíve po hrnci; hrniec sa
+rozpadol, no prvé, čo mnou vyslobodený pes urobil bolo, že ma za
+nohavicu chytil. Vtom sa prebudím, a vidím... čo vidím! Vidím ---
+nevidenú viac moju kvadrobu na stene. Oblok vybitý, otvorený, a moje
+háby --- fuč!"
+
+„Nuž a pulidery ti nepošli za druhými parhámami?" pýta sa Ondrej.
+
+„Tieto pulidery," pleskne sa dlaňou po stehne, „mal som na sebe. No keby
+ja to bol tušil, že tak vzácnu návštevu dostanem, bol by spal v čižmách,
+v kabáte, ba i v klobúku! Keď budem gazdom, vezmem si do postele všetok
+majetok: kutáč, koryto, omelo --- všetko, všetko, všetko. Ak budem mať
+sviňu, budem i s tou spať i s celou jej famíliou, aby mi ju neukradli.
+Nuž tak!"
+
+„Ale je to predsa len smelosť," doloží Karol, „v noci ta ísť kradnúť,
+kde vo dne nič nenájde."
+
+„Oj, ty libela múdrosti#POZ#200;(lat.) Vodná váha, narážka na merníkovo
+budúce povolanie#-POZ#, či mi nevyniesol celý štafírung? No ale keby ja
+ho bol lapil, bol by ja mu kyjom zanôtil a---mol!"
+
+„Ak nie cvamol#POZ#201;(nem., skom.) Dvakrát. (Slovná hra s
+a---mol)#-POZ#," odvetí Ferko.
+
+„Bolo by bývalo i C---dur," povie Gusto.
+
+„Ba povedz c---durk," dosvedčí Andrej.
+
+Keď Vilibald po prehliadnutí svojej spustošenej izby ako Jeremiáš nad
+rozváľaným Jeruzalemom kvílil, našiel na zemi stratený roztrhaný pugilár
+a v ňom navštívenky i jedno lutriové reskonto. Kamaráti jali sa hneď
+nálezok preskúmať.
+
+Na navštívenkách hrubými písmenami bolo tlačené: „Krišpínus de Nadrágfy,
+artium liberarum magister."#POZ#202;(lat.) Magister slobodných
+umení#-POZ#
+
+„Hm, škoda že si ešte predikát ,z Kabátovej\' nevylepil," šomre Karol.
+
+Rozžialený Vilibald chcel reskonto potrhať, čo mu však kamaráti
+nedopustili. I zaumienili si, že reskonto verejne ohlásia, a to
+nasledovne: „Istý statočný pán zabudol si pod časom nočnej návštevy u
+nižepodpísaného reskonto; i vyzýva sa týmto úctive, aby sa cieľom
+odovzdania mu strateného reskonta u nižepodpísaného v Bryndzovej ulici
+pod č. 133 ustanovil."
+
+„On sotva bude taký všetečný, vidieť svoje stratené reskonto! Čert
+nespí, a tak máš nádej vyhrať z lotérie," rozkladá Andrej.
+
+„Ach, horká moja nádej; nádeja kože zdiera," s tým strčil Vilibald
+reskonto nedbale nazad do tobolky.
+
+Teraz statoční priatelia rozmýšľali, ako svojho v omáčke postaveného
+Vilibalda vyštafírujú. Posadili ho do širokého, „sella curulis"
+nazvaného stolca a donášali mu svoje dary, ako tí traja králi od
+východu. Medik vytiahol starý vysoký pinč spod postele a zatrúc
+černidlom biele ošúchané hrany, postavil ho, akoby mal korunovať Dóžu,
+poslušnému Vilibaldovi na hlavu. Hlava sa mu v klobúku stratila ako myš
+v kostole. Ak sa mu partica na pleciach nepristaví, nuž mu pinč môžu
+vyzuť nohami ako čižmy. Vytiahli chlapa z kadluba. Hádali sem, hádali
+tam, ako tej nehode odpomôcť. Konečne Ferkovi svitne, vybehne do
+kuchyne, i donesie trojnoh, takrečený tripus, vtrepe ho do klobúka, a
+tento teraz --- hoci trojhranný, popravde „polygonum
+irregulare"#POZ#203;(lat.) Nepravidelný mnohouholník.#-POZ# --- stál mu
+nad očami len milá vec.
+
+„Passirt!"#POZ#204;(nem.) Hotovo!#-POZ# povie Gusto, „vyzeráš ani veštec
+in tripode."#POZ#205;(lat.) Na trojnohe#-POZ#
+
+Zatým nasledoval náprsník a kabát. Tamten bol veľmi dlhý, tento
+prikrátky. Rozvažovali, či by kabátu naspodku, a lajblíku navrchu
+nesvedčalo. Ale ostali len pri normálnom poriadku s tým dodatkom, že si
+chomút na uši vyhne, a aby mu z rukávov ruky nezutekali, pripravili mu
+cez prsty štrupne. Z gombičiek sa len strapy potrhaných obálok
+holengali, podobné lupinám lieskových orechov, keď z nich luštiaky
+povypadúvali. To uznávali za predmet podriadeného významu --- a tobôž že
+teraz je móda kabáty nezapínať. A tak bol švihák hotový od vrchu hlavy
+až po členky. Ale tu sa vyskytla najväčšia prekážka. Každý mal len po
+jednom páre čižiem, a z tých sa i tak ani jeden nehodil. Nastalo lámanie
+hlavy, ale --- čo fígeľ, to groš!
+
+„Sem kvapky," zavolá Andrej s triumfom. I vezme kefu a mazivo, a ak
+leští tak leští mu bosé nohy, kým sa nesvietili ako kordovánky.
+
+„No, čeľadník, teraz vyzeráš ako trebársaký etiópsky princ a môžeš ísť
+bárs i za družbu."
+
+Na uverejnený oznam, ako to naši vtipní šuhajci predpovedali, majiteľ
+reskonta sa nehlásil; i prešlo teda do majetku Vilibaldovho. O niekoľko
+dní zatým pribehol Vilibald ako bez duše, hodil trojrohý klobúk o stôl a
+za ním šesťdesiat zlatých.
+
+Reskonto skutočne vyhralo. Ešte ako dneska viem, boli to nasledujúce
+čísla: 6, 25 a 48 --- ambo terno. Krádež bola vynahradená a čo zvýšilo,
+prepíjali na zdravie prvému majiteľovi.
+
+Kto však chce probovať šťastie, nech postaví tie čísla.
+
+Probatum est!#POZ#206;(lat.) Vyskúšané je#-POZ#
+
+# Myš
+
+Mnohým sa myš hnusí, a veru bez príčiny, lebo neberúc do ohľadu, že
+vlastne v prírode nič hnusného niet --- i z ohľadu estetiky čiže
+krasocitu nemá toto základu. Prizrime sa len bedlivejším okom na to
+čistotné a graciózne zvieratko, ako si útlymi panenskými pačičkami fúzy
+práši a vykrúca. Že je kmín, to pravda, ale vo všetkom poriadny.
+
+Ja som znal veľavážnu paniu, ktorá mávala veľké obľúbenie spávať s
+prasiatkom, denne mydlom umývaným. Neznám, či v tej pasii ešte i po
+poldruha roku pri riadnom dobrom kŕmení pokračovala. Znal som pána, otca
+to jedného z terajších stoličných dynastov, čo choval sa tiež s veľkou
+starostlivosťou oproti dvom pudlom: dal ich pekne na snehobielo umývať,
+fúzy čiernym mazivom vykrúcať, deliac sa s nimi pravidelne o posteľ.
+Neraz sa stalo, že pre nezbedných pudlov starý pán musel ležať na
+„lajstni", alebo práve musel pretrpieť vytisnutie z lôžka. --- Prečo by
+sa teda hyzdiť mal pred myšou? Či je ona nie čistotnejšia od tamtých?
+Parížska komúna v čas obliehania preskúmala a dokázala ich vnútornú
+cenu, keď sa potkan len ako lahôdka na stôl vyšších stavov dostával.
+
+Teda rešpekt!
+
+A ešte tie biele myšky v sklených nádobách, to je vám okrasa! Biely
+kožúšok ako novopadnutý sneh a očká červené ako plameň. Zo suchej,
+dolňami vyhĺbenej žemle vykukujú potvorky, mrdkajúc a vetriac fúzmi na
+všetky strany, a nakuknite len dnu do toho chlebového domčeka a obzrite
+si tú premilenú mlaď! Ach, to je doprosta na zjed---... no to predsa
+nie.
+
+Pokolenie myší počíta viac druhov a má tú vlastnosť, že sa hojne
+rozmnožuje, podľa známeho porekadla: „Veľa ich je ako červených myší."
+
+Skumný Darwin povedá, že keby príroda vo svojom hospodárení rovnováhu
+nedržala a svoje príjmy a výdavky nekontrolovala, dajedny či byliny či
+zvieratá hrozne by sa po zemi rozplienili a iné druhy zadusili. Tak
+napríklad slanec (haring) sa neslýchané rozmnožuje. Keby v tom inými
+dravými rybami --- naše pôsty mu veľa neublížia --- hatený nebol,
+svetomore by ním nesmierne zhustlo! Máloplodný ináč slon, nemýlený,
+nehubený, v pár sto rokoch zaplnil by pustošiacimi légiami teplé kraje.
+Jeden pár holubov rozmnožiť sa vraj môže pod desiatimi rokmi na
+štyridsaťtisíc párov!
+
+Po tejto exkurzii vráťme sa zase k útlej myške.
+
+Myši v priaznivých okolnostiach povetria a živnosti sa tak nebezpečne
+rozmnožia, že nám všetko obilie, ba ako mi jeden priateľ píše, i „uši"
+objedia. V poli nevidíš inšie ako myšie promenády, akoby si hľadel na
+zemevid so železničnými sieťami. A keď pole nedostačí, baníckou
+pilnosťou a umom preboriac múry, priekopami a jaskami nanosia sa ti do
+zásob slaniny, bryndze, do klenovských syrcov --- kto má --- a čo tomu
+podobného je; a len náhle a hlboko prenikajúce mrazy alebo prudké lejaky
+môžu zničiť ich život.
+
+Počas môjho študovania v Pešti boli sa myši v jednom roku tiež tak
+náramne rozplienili, že i do hlavného mesta bulvármi prechodili, ako
+teraz naši ablegáti.
+
+Ale v ten čas som i ja bol buchnutý do jednej myšky. A táto „Mauserl"
+menovala sa Filipína. Ja Filip, lichotiac svojej krasotinke, kúpil som
+veľmi vkusne lepenú, slimáčkami zdobenú škatuľku, do tej škatuľky uložil
+som pár z čerešňových, v tráve kdesi nájdených kôstok, umele nožíkom
+vystrúhaných náušníc. Druhý deň ráno na jej meniny mal som jej ten
+darček s peknou prímluvou doručiť. A tak kochajúc sa už vopred v
+sladkých myšlienkach, položil som otáznu škatuľku večer k posteli na
+stolík.
+
+Poberám sa spať. „Ach, Filipína," jedno vzdychnutie, a to bolo ostatné
+moje slovíčko.
+
+Hm! --- sníva sa mi, ako práve, na kolená hodený, svojej filipínskej
+kráse škatuľku s kôstkami obetujem. Ona so sklopenými očami a s láskavým
+úsmevom otvorí škatuľku, vyberie kôstky čiže náušnice a vopchá ich na
+moje veľké prekvapenie medzi perlové zúbky, a začne chrumkať a chrumkať.
+
+Ale do čerta; vykríknem --- a prebudím sa --- a, bodaj ma stislo,
+skutočne čosi chrumká, a to na stolíku pri mne. Ale či ešte spím? Chytím
+sa za nos a rúče potrasiem, ale tak je, voľačo škrabká.
+
+Siahnem po zápalke. Zápalka praskne, blysne, a vtom fuk --- čosi do
+mojej čižmy čupne. Ó, ó, ó --- co to będže! Jaj, tristo hrmen a medených
+vozov! Zo škatuľky jeden roh odhryznutý, a náušnice fuč!
+
+Keď sa mi kus zlosť utíšila, zodvihnúc čižmu, presvedčil som sa, že je
+myš tamdnu. Čo, reku, s tebou beštiou teraz robiť? Či čižmu obuť a
+kaperlu tancovať a či s hubcom Filipínkinej krásnej škatuľky
+atramentárom o stenu čľapnúť? A čo... --- ale nie, nechám si to na ráno,
+keď toho nehanebného zbojníka a pokušiteľa Filipínkinej škatuľky štvrtiť
+budem. Odložiac teda exekúciu na ráno, pohnem rozumom, zaviažem bôtovú
+sáru motúzom a „o mein lieber Augustín"#POZ#207;(nem.) Ó, môj milý
+Augustín (začiatok piesne.)#-POZ#, čo chytím nepustím, spím v sladkej
+nádeji pomsty ďalej.
+
+Slnce mi pichne do oka. Skočím na rovné nohy po delikventa. „Ach, tu si,
+vtáčik? No, však ti ja vyškrabkám! Hej, galgan," a pritom pomaly a
+pozorne ako kocúr s diabolským úsmevom na tvári otváram sáru... Ale
+kýho? --- Tam v hlbinách bôty blysne mi veselo slnko. Oškerím sa, no
+nemáš to ináč... Tam naspodku vyhryzená diera, a myš u čerta. A to
+jediný a jedinký pár čižiem na celom mojom bydle. Stojím, stojím,
+neveriac očiam a hľadím zmeravený asi polhodiny do deravej čižmy.
+
+# Zamrznutý
+
+„Haáfi, haáfi! Jaj, bodajže ťa i s rypákom," povie fufnavým hlasom v
+posteli vystretý poslucháč lekárstva Kazimír, utierajúc si červeným
+golierom obrúbený nos.
+
+„Ba," odpovie z náprotivnej postele priateľ Stanko, „ba dostaneme dnes
+ešte hosťa. Keď sa na zem nožnice alebo nôž zapichnú, hovorievala moja
+matka, že sa neomylne halušky budú variť. Keď straka pri dome zarapoce,
+prídu, bez otázky, hostia. Kýchnutie v pondelok znamená dar. Kýchnutie v
+sobotu večer zvestuje príchod hosťa. To je amen dixi --- fuk do kapsy."
+
+„Hm, Stano, to ty veru odkrývaš kolosálne prírodné tajomstvá. Ale
+smiešny prípad kýchnutia ti poviem ja. Barón Brandenstein, ktorého, ako
+znáš, vyučujem v slovenčine, býva dakedy takou kýchavicou napadnutý, že
+prednášku pretrhnúť musíme. Kýcha ti ako zemetrasenie i sto ráz jedno za
+druhým, až do omdletia umorený. Raz ho to, ako mi vyprával, priviedlo do
+veľkých ťažkostí. Dlho sa domáhal, kým si raz predsa vykonal súkromný
+výsluch u arcikniežaťa Albrechta, na čom mu veľa záležalo. Predstúpi
+pred vysokého pána. ,Čo žiadate, pán barón?\' Vtom baróna zašteklí v
+nose a nasleduje strašné, zemou zatriasajúce kýchanie. A to tak šlo
+neprestajne. Arciknieža, mysliac najprv, že si barón žarty robí, hľadí
+naň zadivený, ale potom naľakaný neprestávajúcim hrmotným hájsi, bežal
+jednými, dešperátny barón však letel druhými dvermi von, držiac vzbúrený
+nos v ručníku zavrznutý. Chudákovi výsluch bol prekýchaný."
+
+„Ha---ha---ha, ten chudák išiel skutočne s dlhým nosom preč. Ja znám
+zase druhý príklad. Znám jednu paniu z dobrého stavu, trápenú
+nepremožiteľnou náklonnosťou oproti mačkám. Keď vstúpi do izby, kde
+akokoľvek ukrytá mačka sedí, táto ináč herská a rozumná pani ihneď padá
+do mdloby. Ústa má vše vyschnuté. Prv hovoriť nemôže, kým smidku chleba
+do nich nevloží. Na ten cieľ nosí nepretržite okrušok v pazuchách. Kým
+do návštevy nevstúpi, musí pred dvermi kus chleba za zuby strčiť, aby sa
+jej jazyk rozviazal."
+
+„Ach," poznamená Kazimír, „to veru zriedkavý príklad ženskej výrečnosti.
+Tento zvláštny prostriedok rozuzlenia jazyka bude považovať veľká
+väčšina pekného pohlavia za cele zbytočný."
+
+Takto si besedovali mladí eskulapovia v malej teplej izbičke. V
+plechovej piecke pískali zvyšky dohárajúceho dreva a kotúče dohánového
+dymu krútili sa okolo lampy. Na obloku prízemnej študentskej izby
+maľovala februárová zima chytro a majstrovsky utešené strieborné palmy a
+čarovné machy. Ale tamvon víchor ženie tuhým prúdom kúrňavy kyprého
+snehu cez opustené ulice predmestia Rosavy, sídelného mesta Viedne,
+oproti obloku zmienenej už izby.
+
+„Ale, braček," ohlási sa po prestávke Kazimír, „jedenásta odbila, a v
+tejto chumelici možno právom pochybovať o splnení tvojho proroctva o
+návšteve. Zahas lampu a spime."
+
+Zdraví šuhajci pospali v tú minútu. Ale vietor tamvon nespal, poskakoval
+medzi komínmi sťaby na organe, plieskal obločnicami, vyhadzujúc kotúče
+snehu do hrkotajúcich okien.
+
+„Stanko, Stanko!" zavolá prebudený Kazimír, „Stanko! Ale hrmen vozov,
+nuž či máš olovom zaliate tie uši? Mne sa všetko tak zdá, akoby bol
+dakto na okno zabúchal!"
+
+„Au!" zívne ťahavo Stanko, „nemátaj, nie, to si len vietor z dlhej
+chvíle šramoce."
+
+Bum! bum! bum! --- zahrkoce, ale skutočne ťažkou päsťou na oblok. Jedným
+skokom sú šuhajci na nohách. Kukajú, ale nadarmo, zamrznuté sklo bolo
+nepriezračné.
+
+„Kto je?"
+
+„Otvorte len chytro, zle je!" odvetil vetrom chytaný hlas.
+
+Kým Stanko zažal lampu, nachytro oblečený Kazimír náhlil s kľúčom pod
+vráta. O krátky čas vráti sa nazad. Stano svieti a jemu za pätami vlečú
+dvaja ich spolužiaci pod pazuchami zmeraveného človeka. Nohy v kolenách
+zohnuté vláči za sebou, hlavu má nazad vyvrátenú. Okydaní všetci traja
+snehom. Dovlečeného človeka --- neznať v prvom okamihu či živého či
+mŕtveho --- strasúc z neho okyd, položili na zem, sprostiac sa ťažkého
+bremena.
+
+„No, tu ho máte," povie prekvapeným kamarátom jeden z došlých,
+„chvalabohu, že sme sa ho už striasli. Idúc z kaviarne, chceli sme
+vyhnúť podľa možnosti fujaku a razili sme cestu tou tesnou uličkou pred
+Lichtensteinovou záhradou. Eduard ide vopred, potkne sa a padne, ja za
+ním a fuk na hŕbu. A to na šťastie. Chceme sa presvedčiť, na čom sme sa
+strepali, odhrnieme sneh, a tu vytiahneme tohoto bedára. Pri svetle
+rozžiarených zmotiek presvedčili sme sa podľa kroja, že to váš krajan,
+vzali sme ho pod pazuchy, a pretože je sem nie ďaleko, hoci po biede,
+dovliekli sme ho k vám. Povinnosti ľudskej zadosť učiniac, ponechávame
+ďalšie činenie vám." Pripálili si zmotky, stisli ruky a pošli ďalej.
+
+Kazimír v nemalých rozpakoch škrabe sa za uchom. „Stanko, ja som už z
+nedôvery úplne vyliečený. Už teraz viem a pevne verím, kedy mám očakávať
+halušky, dar a návštevy. Ale predsa som takúto z neba padnutú, vetrom
+prefúkanú návštevu ani najmenej neočakával. Hm---hm---hm! Teraz si už
+poďme obzrieť, čo to tu pred sebou máme."
+
+Bol to šuhaj asi dvadsaťpäťročný, poriadnych ťahov a vzrastu, ináč
+biedny a neporiadne zaodiaty nedbalec. Mokré a kučeravé, tmavogaštanové
+vlasy viseli mu rozčuchrané po bledej, napuchnutej tvári. Siné stisnuté
+ústa. Zakrútený v kožúšku, a čiernej hunke; na opasku ligotali sa
+pracky. Biele špinavé nohavice a nemotorné krpce dovršovali jeho oblek.
+
+Po roztvorení kabane a kožucha nastala lekárska úloha. Stanko pozoroval
+dych a skúmal tepnu, kým Kazimír, kľačiac na zemi, priloženým uchom o
+prsia načúval účinok srdca.
+
+„Ten loptoš istotne opitý zaspal a zamrzol," poznamená Kazimír, „ale
+dlho ešte nemusel ležať zaviaty, lebo srdce, i keď pomaly, predsa sa
+hýbe. Bol už na krajnej hranici života, ale pri pokoji a teplom vzduchu
+do rána precitne."
+
+„Ako mu z úst lieh páchne! Škoda by ho bolo bývalo, bo zdá sa byť
+poriadny šuhaj," vetí Stanko.
+
+Keď mu háby poodopínali, brali sa ku krpcom, viac obrovskej osej gundži
+než obuve podobným.
+
+„Teraz už nepovieme, že by sme neboli hodní návlaky jeho obuvi
+rozlúštiť," ktoré aj anatomickým nožíkom rozrezali.
+
+Chvíľku sa zahľadeli naň. Vtom povie Stanko: „Kazimír, bodaj ma stislo,
+táto tvár mi je známa! A počkajže..."
+
+„Možno," doloží nedbalo Kazimír, ukladajúc a obkladajúc zamrznutého. Pri
+takomto opálaní vypadne mu spoza opaska mešec s peniazmi a ukrútený
+papier. V mešci boli tri zlaté a tridsať grajciarov. „To mu odložíme. A
+toto? To je pas. Dobre, ten nám zastúpi miesto navštívenky. Uvidíme, s
+kým máme do činenia."
+
+„Nože ozaj," zavolá zvedavý Stanko.
+
+„Ondrej Gurajček z Trstenej!" číta Kazimír.
+
+„Hľa, či nepovedám," tleskne dlaňami Stanko, „on je to, on, Ondrej, čo u
+môjho otca slúžil. Dobrý a veselý šuhaj, ale mával už ako chlapec svoje
+kvartále, súc vrelým podporovateľom pálenčených výmerov."
+
+„No, to je veru pekná vec a romantická, ale ešte krajší spôsob, akým ste
+sa zase zišli. --- Náš klient je zabezpečený, poďmeže i my na zaslúžený
+odpočinok; vietor tuším už tiež tašiel a návštevu, úfam, nedostaneme už
+žiadnu."
+
+„Ej, však i mne už obločnice klipkajú," povie Stanko, „Zvedavý som na tú
+raňajšiu komédiu."
+
+Ľahli si.
+
+Ráno, keď sa už dobre rozvidnelo a slnce svojím teplým dlhým jazýčkom
+cukrové kvietky ožiarených oblokov lízať začalo, pozerali naši študenti,
+opretí o lakte, na svojho hosťa. Ten ležal tak, ako ho včera uložili, a
+pri ľahunkom pohybovaní pŕs odfukoval si až milá vec.
+
+Po nečase otvorí jedno oko a nedôverujúc tomu, rozdrapí druhé. Prvý
+pohľad padne mu na veličizného, nad hlavou z povale visiaceho morského
+pavúka. Nohy sa mu holengali, akoby chcel Ondreja nimi hore vytiahnuť.
+Pri hlave stála mu o týku pripravená snehobiela kostra s vystrčenou
+pravou rukou, akoby ho už---už mala za vlasy schmatnúť.
+
+Už samým uzretím morskej obludy preľaknutý, zostal Gurajček ako oparený.
+Ale ako chcel hore vysadnúť, zavadil hlavou o ruku kostry, ktorá
+nepríjemne zahrkotala, a on začal meniť uhorské farby. Srdce mu chcelo
+puknúť, jazyk nechcel z miesta, a tak sedel chvíľku nepohnute zohnutý
+ako nožík na prvom skoku. Tak sa zdalo, akoby znovu bol primrzol.
+Konečne vykradne sa mu z hlbín útrob prenikavé „ach!". Pokrútiac
+bojazlivo hlavou napravo, zočí na kasni vo veľkých skleniciach hady,
+žaby, jašterice, malé nepôrody a všakové strašné potvory. Predesené
+okále zvrtne naľavo, a tam zase čerí zuby zo steny nad dvoma, nakríž
+položenými kosťami vyvesená umrlčia hlava; nad ňou roztiahnutý veľký
+netopier. Velikánska sova so strašnými „Vatermördermi" #POZ#208;(nem.)
+Goliermi (tzv. „závoj" z peria okolo očí sovy)#-POZ# a vyvalenými okáľmi
+chystala sa ho prehltnúť.
+
+Toľkým útokom nemohol odolať. Zmraští tvár, ako keď lapá sa koža na
+vychládzajúcom prevarenom mlieku, hodí po sebe výdatný kríž, zatisne
+silou---mocou mihalnice a strčí do ušú prsty. Smiešno---smutná figúra.
+
+Študenti škúlili naň s uduseným smiechom neodvratne sťa mramorové sochy.
+
+„Bože, bože! " zastene úzkostlivo, „už som tam, kde psom chvosty
+zvárajú." Máchne za opasok, mešec je preč.
+
+Starostlivo s bojazlivou tvárou obráti sa oproti Kazimírovi, zavolajúc
+uduseným trasúcim sa hlasom: „Pán čert!" Ten neodpovie, len nepohnute
+vypučenými očami neprestajne naň fľochá. Po malej prestávke so zloženými
+rukami, s povýšeným hlasom interpeluje z druhej strany Stanka: „Pán
+čert!" Ani tu odvety. Strápený usiluje sa byť zrozumiteľným. „Niks
+slovákiš, taič taibl?"#POZ#209; (skomol. nem.) Nič po slovensky, nemecký
+čert? #-POZ#
+
+„Čo chceš, nešťastníku? " zahrmí hlbokým hlasom Kazimír.
+
+„Ach, chvála tebe, jarabečku, to sú slovenskí čerti."
+
+„Tak je," povie Stanko, „keď Slovákov netrpia na svete, hľadajú útulok v
+pekle, podľa Zápoľovej zásady: Keď nenaklonia si nebo, spoja sa s
+peklom. Paraczkay by sa tešil, keby našiel Slovákov v pekle, tam, kde
+kedysi Kollár maďarónov hľadal."
+
+„Prosím za odpustenie, páni čerti, ja nie som kolár, ja som len rubár."
+
+„Však je to sladké v nešťastí mať spoločníkov?" pýta sa Kazimír.
+
+„Áno, môže byť, ale by sa radšej zaobišiel. Ale prosím, ktorý je z vás,
+prepytujem vašu poctivú hlávku i ten stolík, na ktorom božie dary
+bývajú, ktorý je z vás pán Lucifer?"
+
+„Ja!" odvetí prísne Kazimír, „čo žiadaš odo mňa?"
+
+Ondrej sa pokloní. „Ctihodný pán Lucifer, predstavený tohoto viac
+chladného ako horúceho pekla, ráčte mi láskavé povedať, po prvé: akým
+spôsobom dostal som sa do vašej vzácnej spoločnosti; po druhé: či sú v
+pekle tiež berničné úrady, lebo vidíte mňa tuto, ako myslím, ešte cele
+nového občana už vopred do poplatku vzali. Tu hľa dostal sa mi do kapsy
+dáky štajnémer#POZ#210;(nem., skom.) Daňový vyberač#-POZ# a vydávkoval
+ma do zniku. Smrťou vraj vyplatíš všetko; ach! čerta, ba ani toho nie.
+Tam platíme od hlavy, tu od duše. A hľa," obzrúc sa na kostru, „to, a
+jedine to, čo ostáva nám po splatených daniach, zoberie nám táto."
+
+„Ticho! Nepapuľuj toľko, lebo ti hneď horúcej smoly do gágora nalejem.
+Preslopaný zlosynu, odpovedaj, čo si robil, že si sem prišiel," pýta sa
+Kazimír.
+
+„Čo, ako? To som sa práve vás pýtal? Čert musí lepšie znať cestu do
+pekla ako my chudáci svetáci. Toľko vám viem povedať, že som ostatný deň
+na Rosave drevo štiepal, málo jedol a hodne pil. Večer, keď z krčmy
+domov idúc, chcel som si sestru navštíviť, potratil som všetky koncepty
+a pomútila sa mi hlava. Oprel som sa o plot, krútil sa mi svet, a tak
+som pokojne vyčakával, kým vykrúti sa reku mojej sestrina hospoda.
+Medzitým som zaspal a prebudiac sa, našiel som sa, prepytujem, v pekle."
+
+„A či, ty darebák, máš i sestru?" pýta sa Stanko.
+
+„A prečo by darebák nemal mať sestru? Mal som, mal, kým som bol na
+svete," doloží smutne, „a keby tej nie, bol by už dávno tu býval. Je vám
+to dobrá, milá stvora, škoda jej mať tak naničhodného pána brata. ---
+Ale prosím vás, či je i v pekle kurivo také drahé, tu je chladno, keby
+ste ma kúsok pripiekli. A cítim ešte i druhé svetské nepríjemnosti:
+žíznim a hladujem, zjedol by i tamto toho hada."
+
+Čertíci zakúrili do pece a poslúžili sprepadencovi pohárom horúceho ---
+čaju, a tá pekelná smola chutila mu nad očakávanie dobre. K tomu zmietol
+tri staropečené priecniky, tvrdé, až mu spod zubov iskry fŕkali.
+Pridajúc mu do odloženého mešteka pár dvadsiatnikov, doručili mu dobre
+zachovanú pokladnicu nazad.
+
+Ale zatým nasledovala náležitá kázeň, ostrejšia od liehu, akú sotva na
+Silvestra od Klinkowstrőma počuješ. Následky opilstva a nebezpečenstvo,
+v akom sa včera nachodil, líčili mu takými živými farbami, že náš čím
+hore tým dolu prevrátený Ondrej, búchajúc sa v prsia, svätosväte
+sľuboval, že radšej kamenný olej slopať bude, ako by sa o pálenčisko čo
+len pol okom obzrel. Keď sa mu napokon dal Stanko do starej známosti, tu
+padol Ondrej pred synom bývalého svojho dobrého pána takmer z nôh. S
+lacnými sľubmi častého navštívenia a stáleho polepšenia sa vystúpil z
+pekelných brán. Pred bránou ostal stáť a obzerajúc sa po dome, homral
+pred seba: „Toto peklo a či očistec ešte nie je tak zlé, ako ho maľujú,
+ej, ale to druhé. Ondrej, rozum! Nebudeme viac tak halaškovať."
+
+A tak s raňajkami v žalúdku obdarovaný a s dobrým predsavzatím v srdci:
+nie viac slopať, išiel rovno do --- krčmy.
+
+Viedenská všeobecná nemocnica je stavisko velikánske, dôstojný pomník
+svojho ľudomilného pôvodcu cisára Jozefa II., ktorý vynikal medzi
+panovníkmi dobrosrdečnosťou ako ten náš Kriváň medzi Tatrami. Toto
+ohromné, trpiacemu človečenstvu venované stavisko obsahuje jeden veľký a
+viac menších, ale ešte vše priestranných dvorov. Obydlené môže byť asi
+štyritisíc ľuďmi, a tak by sa mohla doň vpravať takmer celá Banská
+Bystrica. Okrem chorými obložených nemocníc sú tam ešte bydliská
+lekárov, učbárov, siene pre poslucháčov, múzeá, lekáreň, dva hostince,
+bývanie pre sluhov, magazíny atď.
+
+Ponechajúc opísanie celej veľkolepej nemocnice, poberieme sa za Stankom,
+kade ho vedie cesta.
+
+Od východnej brány prešiel štyri dvory. Napravo, naľavo, pred a za ním
+rady dlhých, veľkými oblokmi opatrených siení. V tých leží rad---radom
+nesčíselný počet nemociam podrobeného, tak chvastavo nazvaného
+najdokonalejšieho tvora sveta --- biedneho človeka. Bolestné stenanie a
+vzdychy prerážajú tichosť vysokých chýž. Tu je nakopená bieda veľkého
+mesta a ďalekých krajín.
+
+Kráčajúc na sever do uholnej brány a nadol širokými schodmi, ocitne sa
+vo štvrtom dvore. Nad hlavou sa mu rozprestiera veľké
+patologicko---anatomické múzeum, kde vykladajú sa tie, najrozmanitejšími
+neduhmi spotvorené, zmrzačené, zohyzdené, premenené čiastky ľudského
+tela, už či v liehu uložené, či inak pripravené. Dlhé police
+dodrúzganých lebiek, pokrivených kostí, balzamovaných ľudských tiel,
+chorobami preinačených bieľ, slovom, tisíce chorobných predmetov, ktoré
+sú látkou skúmavým, vedychtivým lekárom, predstavujú sa tu zadivenému
+oku. Tento strašný archív ľudskej biedy preženie mráz kožou nezvyknutému
+navštevovateľovi.
+
+Schodmi zíde do posledného, odľahlého trojhranného dvora, otočeného
+vysokou stenou, stráženého na východ širokou, okrúhlou a vysokou vežou.
+To je veža strašného účelu, veža bláznov, bláznov rozličného druhu.
+Polonahí, rozkuštraní, držiac sa silných železných mreží, učupení v
+úzkych oblôčkoch, prerušujú domnú tichosť deň i noc chrapľavým vreskom.
+Od schodov naľavo, pod anatomickým múzeom sú dve významné miestnosti. Sú
+to dve podlhovasté temné sály, spojené chodbou odzadku. Medzi nimi stojí
+strážnikova izba, kde vždy jeden dňom i nocou musí bdieť. Na zadnej
+stene každej tejto sály visí veľký kríž, pod ktorým osvetľuje lampa
+tajným bleskom potuchnutý priestor. Pozdĺž stien priekom stoja pohráne
+počtom asi štyridsať v každej sieni. Každý v nemocnici zomrelý býva tu
+vystavený za dvadsaťštyri hodín, čiernym plášťom zaodiaty, s kapucňou na
+hlave, s rukami nakríž preloženými ležia tu bledí, nemí obyvatelia jeden
+pri druhom, kým ich neodpeľajú do poslednej komory na pitvanie. Každý z
+nich dostane drôtovú rukoväť do ruky, snáď aby ňou v čas precitnutia na
+všeobecnom zvonci, kam drôty vedú, zacengal a strážnik na daný znak
+mohol mu dobehnúť pomôcť.
+
+Smutný je to, veľmi smutný, ale dojímavý pohľad na bledých, pokojných,
+svorne tu ležiacich, z vonkajšieho huku sem utiahnuvších sa pútnikov
+sveta. V trúchlej rovnošate oblečení ležia, čo sa ešte nedávno hrýzli,
+bez rozdielu stavu, pokolenia, veku a prežitých náruživostí, a nemýli v
+spánku jeden druhého. Opustiac spoločnosť mŕtvych, uberáš sa von, piesok
+ti zaškvrčí na kamennej dlážke pod nohami, pritiahneš za sebou dvere, a
+zase je ani letkom bezočivej muchy nenarušené ticho v opustenej
+spoločnosti. Počet zomretých mení sa medzi šestnástimi---štyridsiatimi
+denne. Keď panujú nákazlivé čle, obnáša i viac. Podľa stanov a pravidiel
+nemocnice musí byť každá mŕtvola protokolárne otváraná.
+
+Stavisko, na ten cieľ určené, stojí osamote uprostred tohoto dvora a má
+štyri miestnosti. Prvá z nich ustrojená je na pitvanie vraždou lebo
+samovraždou a vôbec neprirodzenou smrťou zo sveta zošlých, alebo aspoň v
+tom podozrení stojacich osôb; ich otváranie deje sa v prítomnosti
+polície. Druhá miestnosť slúži na otváranie všetkých vo všeobecnej
+nemocnici zomretých. V tretej ležia mŕtvoly prichystané na pitvanie. Do
+štvrtej a ostatnej priestrannej miestnosti odnášajú anatomicky
+prehliadnuté mŕtvoly, ako i rozobrané, rozkúskované rozličné čiastky
+ľudského tela, ale toto miesto nejdeme zo šetrnosti podrobnejšie
+opisovať. Mŕtvoly, ktoré majú spôsob, alebo priateľov, čo by sa o to
+starali, bývajú podľa svojho náboženstva primerane a slušne pochované.
+Ale ak tých prostriedkov nemajú, bývajú do mechov hromadne a pomiešano
+zašité, nočnou hodinou do čierneho pokrytého voza naložené, bočnými
+vrátami na cintorín vyvezené a tam do veľkej jamy vysypané, vápnom a
+zemou zahádzané. Nuž, hľa, to je človek! Tu strkáme jeden druhého z tej
+hrudičky zeme, a keď sfrkol z nej, je kus blata!
+
+I keď toto opisovanie nedržíme za podstatné našej rozprávky,
+nepovažovali sme predsa za zbytočné pre vzdelaného človeka poznať i túto
+biednu stránku človečenstva, že sme vzdor všetkej ľudskej slávy: tieň a
+popol!
+
+A teraz hľaďme za Stankom. Išiel on rovno dvorom, neohliadnuc sa na
+známe predmety, a ani ho nemýlil krik rozdrapujúcich sa šialencov.
+
+Vojde prosto do prvých dverí. Našiel tam chýrečného profesora doktora
+Rokitanského, jeho pomocníka doktora Lautnera, pozdejšieho telesného
+lekára egyptského vicekráľa, ďalej komisára polície, Kazimíra s troma
+spolužiakmi a sluhu Antona. Tento posledný bol chýrnou osobnosťou s
+mohutným červeným nosom. V zamastenom zelenkastom kaftane stál pred
+stolíkom s vodnou kupkou v ruke, chvastajúc sa, že cez jeho ruky prešlo
+už vyše štyritisíc šesťsto pitvaných mŕtvol a že už po tretí raz vybŕdol
+zo záhubnej horúčky.
+
+Pod oknom pri stole sedí pred otvoreným protokolom s perom v ruke
+pomocník, profesor pri ňom zamyslený fajčí zmotku. Pred sluhom leží na
+stole vystretá, plachtou prikrytá ľudská postava. Príchodziemu Stankovi
+pokynie profesor rukou na znamenie toho, aby, už očakávaný, bral sa do
+práce, jemu dnes podľa poriadku pripadajúcej. --- Pristúpi k stolu,
+vykašúc rukávy chytí ostrý rezný nástroj do pravice. Sluha odhalí
+mŕtvolu jedným strmým ťahom plachty a pekná mužská osoba s meravo
+vystretými údmi zjaví sa očiam prítomných.
+
+Ešte profesor nevyslovil dobre číslo protokolu, už Stanko vykríknuc
+pustí nôž z ruky, z ktorého hneď odfrkne koniec ostrej ocele, odlomený
+na kamennej dlážke.
+
+Bol to Ondrej Gurajček. On veru, so svojou peknou, ale nedbalosťou
+očadenou tvárou, so svojím Apolóna hodným telom. Ale už prešiel ostatnú
+apelátu, a na svet sa vrátiť nebolo už tu viac možnosti.
+
+Udajúc príčinu tohto prekvapujúceho výjavu, prosil profesora, pretože na
+tento čas svojej povinnosti zadosť učiniť vstave nie je, povolať na to
+druhého. Namiesto neho vyzvaný pristúpil Kazimír. Dojatý Stanko len to
+do protokolu hlásené dopočul, že Gurajček v snehu nájdený, následkom
+nemierneho pitia liehových nápojov zamrzol.
+
+A tak sa zase odohral jeden dej nevýznamného človeka v tomto veľkom
+dome. Ondrej Gurajček neznámy zmizol tak, ako prišiel.
+
+Dobrosrdečný Stanko s Kazimírom postarali sa o pohreb svojho zemka. Ale
+pretože vo Viedni i skromný pohreb skromnú študentskú kasu prevyšuje,
+prispejúc podľa možnosti svojou pokladnicou, obrátili sa na svojich
+slovanských pobratimcov v Gerlovičovej kaviarni, a nazbierali toľko,
+koľko bolo potrebné.
+
+I pokrýval malý kopček na velikánskom cintoríne zamrznuté telo človeka,
+ktorý vytrel sa samochtiac surovou rukou z menoslovu živých.
+
+Bol krásny deň, keď jarným slnkom bystrejšie zelinky zo spánku
+prebudené, svoje unavené údy začali rozťahovať na površí zeme. Naši
+šuhajci sedia doma.
+
+Knísajúci sa na stolci Kazimír čítal práve úvahu „Stav manželský v
+poťahu na zdravotný stav človečenstva". Stanko s čibukom prechodí sa po
+izbe, pilne načúvajúc.
+
+„Istotne, braček, rozumná, dobrá a poriadna ženská je pre muža poklad, a
+keď je ešte k tomu..."
+
+Na úvrati krátkej prechádzky zazrie Stanko v izbe pred sebou utešené,
+zahanbené, vo vkusnom národnom kroji oblečené dievča. Toto zjavenie, v
+študentskom príbytku zaujímavé, stálo v oči dvoch šarvancov s očami
+sklopenými k zemi ako splašená srnka.
+
+Ale naši kamaráti otvorili ústa.
+
+„Ej, dušička spanilá," pýta sa prívetivý Kazimír, „čím vám môžeme slúžť.
+Podľa kroja súdiac, ste našou krajankou."
+
+„Akejže šťastnej náhode máme zaďakovať milú vašu návštevu?" pýta sa
+Stanko omáľajúc čibuk.
+
+Dievčatku sprvu nešlo dobre z konopí. Zdvihnúc pomaly mihalnice, začne
+ostýchavo: „Ja som Zuzka, sestra nešťastného Ondreja Gurajčeka."
+
+„Ach, ešteže?" zvolali šuhajci.
+
+Zuzka potom vyrozprávala osudy svojho brata. Nakoľko mohla, bdela nad
+svojím bratom, ale v službe postavená, nemala toho spôsobu a času
+strážiť nad spustlým ľahkomyseľníkom. Vyrozprával jej i dej svojho
+pobytu u študentov, ale od tých čias málo navštevoval sestru, žijúc
+vospust sveta. Ona, neborká, nemala ani chýru o jeho smrti. Keď za dlhší
+čas o ňom nepočula, vybrala sa ho hľadať. Po trápnom hľadaní sa
+dopátrala, že ho na ulici nájdeného, zamrznutého zaniesli do všeobecnej
+nemocnice.
+
+Tam sa dozvedela, že bol svojimi rodákmi otváraný a ich statočným
+pričinením slušne a počestne pochovaný.
+
+Nebožiatko, premožené plačom, stislo obom priateľom povďačne ruky.
+
+„Teraz," utierajúc si zásterkou slzy, pokračuje krásavica ďalej, „teraz
+si neznám rady. Chcela by som mu tento veniec na hrob položiť, keď už
+inšieho pomníka nemá, na znak sesterskej lásky, ale neznám, bohužiaľ,
+ani len kopček v tom mori hrobieľ, pod ktorým leží."
+
+Stanko načúval s úľubou dievčinu. „Tu sa veru živý človek stratí, tobôž
+mŕtvy. V státisícoch bývajú jednotky ľahko nezvestné. Preto mi veľmi
+milé bude, že vám v tom s istotou slúžiť môžem. Keď sa vám ľúbi, vašu
+žiadosť môžem hneď splniť. Prosím úctivo o váš láskavý sprievod."
+
+Išli... Stanko prišiel i naspäť, ale nie taký, ako šiel. --- Prišiel
+cele okúzlený, zamyslený. Kazimír sa na jeden fúzik usmieval.
+
+Miesto strateného brata nastúpil Stanko. Navštevoval Zuzku čím ďalej tým
+častejšie, nakoľko to slušnosť a jeho lekárske trudenie dopúšťalo.
+
+S Kazimírom medzitým skladali naraz prísne skúšky s dobrým prospechom.
+Kazimír vrátil sa do svojho rodiska. Stanko bol povolaný a odcestoval do
+Srbska.
+
+Lúčenie verných priateľov a lúčenie Stanka od milovanej Zuzky bolo
+tvrdé. Pred svojím odchodom postaral sa Stanko o statočný známy dom, kde
+Zuzka za krátky čas konala službu komornej. Lebo nezadlho, ako svoje
+veci doniesol do poriadku a zo svojej pilnosti i hmotne začal ťažiť, dal
+Zuzku do chýrečného Bílkovho vychovávacieho ústavu, kde pod krátkym
+časom nadobudla i vedomosti, potrebné vzdelanej ženskej.
+
+Dlhej rozprávky krátky koniec je ten, že náš Kazimír dostal na peknom
+cifrovanom papieri povolanie, aby sa ustanovil na ten a na ten čas, na
+ten a ten cieľ do Viedne. Nuž a Kazimír išiel a bol svedkom sobáša
+Stankovho so Zuzkou. Ach, bolže vám to párik; Pár školských priateľov a
+známych bolo prítomných pri svadbe a potom vyprevadili pekný párik po
+parolodi do Pešti, kde sa všetci rozišli --- pravda mimo mladoženíchov
+--- na všetky strany sveta, kam volal ich osud.
+
+# Poľovačka na medveďov
+
+„Ej, bisťuževýdade, nuž či to tak? Poľovníci musia včasne vstávať! Kým
+si vy oči povytierate, dávno som už potrebnô nariadil."
+
+Takto hovoril Jožko náš včasne ráno dňa 27. októbra roku 1860, teda
+práve deväť rokov pred svojou predčasnou smrťou, keď nás vo svojom
+príbytku z brlohu za nohy vyťahoval.
+
+Poskákali sme a rezko šlo všetko od ruky --- najmä pri raňajkách, kde
+sme si s pobožnou mysľou šumnú koľkosť kapustnej polievky s klobáskami
+privtelili.
+
+Vystrojení všetkými viac---menej potrebnými parhámami vysadli sme na
+kone a jachali čiernohronskou dolinou cez drevotárske obce, handle
+rečené, cez ostatnú a najväčšiu Dobroč do Páleničného, bočnej to dlhej
+doliny.
+
+Romantickou pôvabnosťou krajobrazu sťa mimochodnou zabávať sa nestačím.
+Naša myseľ túžila za medveďmi.
+
+Tu i tu sme síce pri veselom besedovaní i pozornejším okom kukli po
+snehovou osuhlinou čarovne ostriebrených, miliónmi perál v slnečnom
+svetle sa ligotajúcich, majestátnych smrekoch a jedliach. Tu i tu sme
+okom hodili po hučiacej, žblnkotajúcej riečke, ako sa skalami a
+červenými jelšovými koreňmi tisla, hneď do priepasti letela, konečne v
+žumpe vrúc, dokola sa krútila. Veľa takých pekných a ešte krajších
+prírodných obrazov sa nám zjavilo. Ale myseľ našu druhý predmet
+ohrieval.
+
+Jožko durí do pochodu. Tri hodiny už, ako na koňoch sedíme, a ešte sme k
+cieľu nedošli.
+
+Po chvíli popchne veliteľ koňa a vybehnúc na malý farebný kopec, zlezie
+z koňa a velí nám zastať. Pomaly sme i my ostatní jazdci podochodili a
+pozlezúvali z koní. Pod nohami brezami a machom porastená zápoľa, pod
+ňou šplechoce strieborná pstružná voda. Z oboch strán doliny až po samý
+vrch striebornými ihlicami porastené boky. Napravo nás z doliny, Kýčerná
+nazvanej, fľúdrami#POZ#211;Tak sa menujú žľaby na plavenie dreva
+pristrojené#-POZ# nerovným prúdom sa ženúci potôčik v skoku s veľkým
+hurtom a penením s riečkou sa miešal. Nadol bol výhľad ďaleko voľný;
+bystrému oku sa ukazovalo, ako sa dolinou riečka zboka nabok točí, ako
+sa cestička čiernymi mokraďami medzi skalami a osamotenými jelšami hadí.
+
+Touto cestou pospiechali za nami polesní, dozorcovia, horári či lesní,
+drevomajstri a puškami vyznačení handelčania či rubári s výraznými,
+vetrom ošľahanými tvárami, so zapekačkami#POZ#212;Krátke fajky na
+zapekanie dohánu v ohni#-POZ# v zuboch, s najrôznejšieho kalibru puškami
+na pleciach a v tých najrozličnejších krojoch. Za týmito v dlhom rade a
+vo vojenskom poriadku voľným krokom ťahá asi päťsto chlapov---honcov.
+Rad sa v takom dlhom páse rozťahoval, že ostatného chlapa ledva možno
+rozoznať, čierne široké klobúky, biela košeľa, biela kabanica a
+chološne, čierne krpce, čierne vysoké opasky s nožom a žltými ligotavými
+prackami, na chrbte bielo---čierne cedilo s dlhými cafrangy --- bola ich
+rovnošata. Ľahkým krokom, slobodnými posunkami, vyzdvihnutou hlavou
+vlniac sa belavá rovnošatá čata odrážala od zasmužilých tichých lesov. K
+tomu mala každá z tých krásnych, dlhými vlasmi ozdobených obrovských
+postáv --- valašku v pästi. Všetko samá číra pôvodnosť, silná,
+nepokalená príroda. Divné city pohrávali sa so srdcom slovenským, keď na
+toto človek hľadel...!
+
+Kým sa to všetko dohrnulo, okolo nás a popod kopec sa rozložilo, obzeral
+som so zaujatosťou, na zemi ležiac s hlavou opretou o ruku, to
+„deploirovanie"#POZ#213;(z franc.) Rozvinutie, roztiahnutie do šíku
+(streleckého)#-POZ#.
+
+Z rozmanitej, bohatej látky utvorili sa malebné skupeniny. Lesní
+rozdávali medzi tých strelcov, čo nemali, prach a olovo. Strelci
+vyťahovali staré nábitky, čistili cievy. Slovom, všetko sa chystalo na
+krvavú udalosť...
+
+Handelčania, autochtóni#POZ#214;(gréc.) Domorodci#-POZ#, zjavili sa
+často s tými najčudnejšími puškami, kačičiarkami v
+dišputátnom#POZ#215;(lat.) Pochybnom#-POZ# stave, no pri tom všetkom sú
+oni strelci výborní, rukou bezpečnou opatrení. Veľa ráz zahanbia tých,
+čo ružové damascénky do hory nosia.
+
+Povyťahovali sme staré nábitky, vystrieľali zaškvrknutý prach a poznovu
+s čerstvým prachom a guľami nabijúc flinty, zaopatrili sme ich
+pekne---rúče do stavu hotovosti. Videl som, ako handelčania dávajú
+strašne veľké nábitky; ba po dve gule a k tomu ešte dakoľko behúnok do
+slabých ciev natrepali. Ako si vkladám rožok do kapsy, predstúpi ma
+ozrutný starý Cibra zo Závodia a zahrmí:
+
+„Či, bisťužeprabohu, čiže máte toho prášku! Mohli by ste mi z neho do
+tejto mojej pukačky troštíčku udeliť."
+
+Tá pukačka bola dlhá, tenká, ktozná ako dlho po revolúcii v zemi
+zahrabaná, hrdzavá, mosadznými tľapkami o rukoväť (šift) pritiahnutá
+rafika. Stroj pre lepšiu, či už akú bezpečnosť bol motúzom previazaný.
+
+„Starý!", poviem ja, „tento stroj vám pri najprvšom výstrele zuteká."
+
+„Ej, nezuteká, pánko môj!" odvetil Ďuro pokojne. „Veď ho ja dobre
+pritisnem prstami o rúru."
+
+Na vystrčenú hrsť mu obyčajnú koľkosť jedného nábitku nasypem. Odťahujem
+rožok; ale on drží, akoby skamenelú ruku.
+
+„Ba bodaj ma stislo, len sypte! Medveďa načim dobre s ohňom namiešať."
+
+Vyplniac mu žiadosť, on ani s tým nebol spokojný, no ukáže mi
+mozoľovitým prstom a hovorí:
+
+„Či vidíte? Keď sa týmto žliabkom z hrstí sypať bude: potom bude dosť."
+
+„No, tuže máte! Ale vám tú vašu motyku roznesie vo všetky vetry ---
+amen!"
+
+Ďuro pekne---rúče celú pracháreň vteperí do pušky, na to pustí dve
+podlhovasté gule, vlastne šúľky, vreže na to celú kúdeľ zrebov, a keď mu
+ramár temer toľko z cievy ako v cieve trčal, usmial sa uspokojene,
+opatril ramár, založil kapslík a pokyvujúc hlavou, pokračuje:
+
+„Amhm! Ale teraz mi nebude treba --- ako to páni robia, aby zo
+stanoviska videli --- nožíkom haluze obrezúvať. Keď pustím ,šúsť´, ten
+bude čistiť všetky halúzky a po hore behať tak dlho, kým zvera nenájde.
+A keď ho nájde, tomu potom moje ,cániky\' klovy vyšparchajú."
+
+A zahodiac pušku na plece, stratil sa medzi druhými.
+
+Keď už takto strelivo bolo na poriadku, zakýval Jožko prstom a Jano
+Šalát, sedemdesiat abo osemdesiat rokov starý, chudý, ale žilovatý
+strelec, hybkým obratom tela napred švihnúc cedilo, vytiahne z jeho
+hlbín výdatný kuľač a akýsi biely batôžtek.
+
+Susedná príhodná tľapkavá skala bola --- stolom.
+
+Obratné Jožkove ruky vykrútili tri pečené jarabice s chutným ražných
+chlebom.
+
+Čochvíľa pohybovali sa nám ústa ako vakárne.
+
+Nákazlivý účinok rozniesol sa chytro po tábore. Kto čo mal, užíval; keď
+nemal, dostal od toho, čo mal. Užitý pokrm zaliaty bol nápojom z kuľača.
+
+A tu sa nám tak vodilo ako Cibrovi, keď odo mňa nábitky pýtal.
+
+Nám a okolostojacim strelcom z „dištrukcie" znamenite poslúžil
+hlbokomyseľný kuľač, tí druhí si pomáhali slivovicou, borovičkou,
+terkelicou, rostopčínom a domácou strcalkou, ako komu vôľa bola a ako
+kto stačil.
+
+Utrúc si husté fúzy, poberal sa náš Jožko zaviesť potrebné poriadky k
+pohonu. Ustanovil tých, čo majú z mažiarov na odrazky strieľať, ďalej
+dakoľko tých strelcov, čo sa majú medzi honcov podeliť, aby rovno
+postupujúc nezaostávali, ako i preto, aby na zvera, keby sa na honcov
+vrátiť zamýšľal, mohli strieľať. Vydriapal sa na skalu, čo nám za stôl
+slúžila, a zhromaždenému celému zástupu v pamäť uvádzal všeobecné
+poľovnícke pravidlá. Medzi inším, aby nikto na medveďa ďalej od
+štyridsať krokov nestrieľal, jeden druhému, keď vidí, že na toho
+príhodnejšie zver ide, nepredstreľoval. Na stanovisku aby sa nik
+nemiesil, dohán nefajčil, nešantoval, nekašlal a --- nezaspal. Aby nikto
+z bázne medveďa neprepustil atď. Kto by sa oproti týmto pravidlám
+prehrešil, kto by sa rozkazom veliteľa protivil, koho vinou by poľovačka
+bola bezvýsledná --- ten okrem zaslúženého posmechu, karhania, i
+bolestne podľa okolností od dvanásť po dvadsaťštyri ramármi bude
+trestaný.
+
+Poradiac sa ešte konečne so skúsenými poľovníkmi, pozrúc skúmavým okom
+zástup strelcov a honcov, zavolal náš Jožko:
+
+„Chlapci, stúpajme!"
+
+„Pánboh pomáhaj!" ozvalo sa chlapstvo.
+
+Honci stúpali hlavnou dolinou ďalej, my však strelci, počtom asi
+štyridsiati, podávali sme sa v tichosti do hory.
+
+Asi polhodiny dlhý chodník stratil sa nenadále v pralese pod stromami.
+Ach, boliže to za velebné stromy! Vysoké, štíhle jedle a smreky, lipy,
+javory, jasene a bresty ozávod pod blankyt nebeský sa vypínali. Velebný
+to bol rukou ľudskou nepoškvrnený prales. Nezriedka bolo pozorovať
+hromovou strelou od vrcholu po koreň rozpáraných velikánov, páhou
+špirálne obtočených. Na päťdesiat i vyše krokov ležali napárané triesky.
+Krásne síce, no strašné divadlo je noc v týchto, ako more
+ďaleko---širokých lesoch pri hučaní víchru, hrmení blesku a lámaní sa
+viac stôp v priemere majúcich stromov. Zakúsil som i to už... Ale nebolo
+mi veľa po hromových páraninách sa obzerať; zrak som musel na zem
+uprieť, aby sa mi nepovodilo tak ako tým, čo skĺznuc sa z machových skál
+alebo potknúc sa na dlhé korene a vývraty --- v burine zmizli. Tu sme sa
+museli huštniakom boriť, tam cez malinčie, cárachy a rárožinu cestu si
+kliesniť, výskyd preskakovať, tam sa zase cez vysoko nakopené klady
+driapať.
+
+Jožko zastanúc ukáže na bútly pniak. Ten bol medveďou dlabou rozmrvený.
+Pásol sa na osách v ňom usadených. Jožko, kráčajúc ďalej, prezeral veľmi
+pilno pôdu --- a nie nadarmo. V blízkom sparisku badali sme vytlačené
+dlaby a pazúry. Starý Cibra sa nachýlil k zemi a obzerajúc stopu riekol:
+
+„Pevne nedávno tu salašil. Ej, bolaže to záhybeľ!"
+
+Podotknúť musím, že už od istého času strelcov jedného od druhého asi na
+štyridsať do päťdesiat krokov obstavúvali.
+
+Boli sme už pod samým klenovským Veprom, na ktorého juhovýchodnej strane
+hotujú svetochýrne syrce.
+
+Náš počet sa ustavične zmenšoval. I sám náš veliteľ Jožko zastal pod
+krásnym košatým bukom, za ním dobročský polesný Imrich Harcer a vyše
+toho ja. Pozostalí asi desiati poberali sa ďalej a tým istým poriadkom
+zaujímali vykázané stanoviská.
+
+Moje stanovisko bolo pod vysokým mazornatým javorom v kyprine, do pol
+chlapa vysokej. Nadol predo mňa bol výhľad voľný na jedno osemdesiat
+krokov do čistého tmavého lesa.
+
+Vyparený sadol som si na kladu, ktorá pri mne ležala; široké, z nej
+vyrastajúce huby slúžili mi za podnožku. Ale aby mi nohy nepremrzli,
+nahrabal som si suchého lístia a uhniezdil som sa tak na dlhší čas.
+
+Nepríjemné je to v zime, keď musí byť človek tri i štyri hodiny na
+jednom mieste nepohnute prikutý. Pre ukrátenie dlhej chvíle nesmieš ani
+fajčiť, aby medveď nezvetril zápach. Pre fajkára je to hotová pokuta.
+
+Keď sa v noci vo veselej spoločnosti, ako pred takýmito poľovačkami
+obyčajne, hajdákalo, keď sa na to tri hodiny jazdí a hodný kus dohora
+pechúri --- nie div, keď krehký človek s puškou v ruke, s natiahnutými
+kohútikmi v zdravom živicovom zápachu, vzduchu, v hrobovom tichu --- nie
+div, hovorím, keď sladunko zadrieme.
+
+I ja krehký, i mne sa veru tak povodilo!
+
+Ach, dobre mi bolo! Bohzná ako dlho by si ja takto bol odfukoval --- ale
+fuk...! po hlave!
+
+Strhnúť sa, pochytiť pušku bolo jedno okamihnutie.
+
+Nebol to medveď, nie --- ale bol smrekový šúľok, ten mi, čupnúc práve na
+hlavu, prebral driemoty.
+
+Medzitým rozfúkal sa, pohybujúc vrcholcami stromov, ľahký vetrík.
+Halúzky, melancholicky vŕzgajúc, objímajú sa. Vo výšine čuť temné
+hučanie. Pod haluzami je ticho ako v prázdnom božom chráme.
+
+Vetrík doháňa zďaleka zvuk rozličných hlasových stupňov, trúbenie a
+klepot!
+
+„Tu je, tu je, nepusť, pozor!" šumí lesom, no i búchanie valaškami o
+stromy dalo sa začuť.
+
+Divný odpor! Tu tak ticho, tam za grúňmi zhon ako súdny deň. Surma to
+hlasnejšia, to temnejšia podľa toho, ako honci či už do vrchu, či do
+doliny stúpali.
+
+V dlhších prestávkach i mažiare na odrazkách „raf, raf" hrmeli, grúne
+duneli, štyri, päť ráz odrážali výstrel, až konečne v diaľke slabo
+zrevali...
+
+Okolo nás ešte vždy ticho, akoby ani živej duše nebolo.
+
+Zdalo sa mi súdeným, že dnes môžem uvidieť väčšiu čiastku živočíchov,
+vystúpených z Noemovho korábu.
+
+„Krk, krk!" zakrkoce čosi nad mojou hlavou a preruší pokoj i tok mojich
+myšlienok.
+
+Vykuknem hore, čo je?
+
+Červená veverica preletuje z haluze na haluz...
+
+Kľampa, istotne mi ona šúľok na hlavu pustila. Tieto prešibané zvieratká
+u nás zastupujú miesto opíc.
+
+Túto, stratenú v pustom labyrinte halúz, nasledoval divý holub. Nevidiac
+ma a mnou nevidený zahrkútal vo vrcholci, zatrepotal krídlami a so
+zvukom „vy---vy---vy" šmihol ponad lesné more preč.
+
+Divina teda stála už naplašená v pohybe: znak to, že sa pohon blíži. Keď
+už hodný kus hentam od Homôlky oproti Krúpky bol pokročil a hlasy honcov
+zneli zreteľnejšie, zašuchoce čosi v liste... Susedova puška sa vyťahuje
+spomedzi haluzín... I ja sa staviam v hotovosť.
+
+Obraciam oči v tú stranu, skade počujem šuchot... tu sa vymoce ľahkými
+posunkami, vyvaliac na mňa zelené okále, krásny tigrovaný divý máčok...
+
+Skloním pušku, máčok sa zduje, zatají, stiahne dovedna --- potom zrazu
+vyzdvihnúc nadurený chvost do výšky, sfučiac ako mech, fujazdí
+chytrosťou vetra do huštiaka.
+
+Tomu za pätami cup, cup, cup... v rovnom smere oproti mne ľahko sťa páv
+presádzal klady a rárož --- krásny roháč.
+
+Ach, či bol utešený --- ani v raji nemohol byť krajší!
+
+Srdce mi rýchlo tĺklo. Čuštom potisnem zbraň k lícu... ale čože, keď
+okrem vlka a medveďa inšie strieľať neslobodno.
+
+Nikým nemýlený srnec, akoby si dnes bol povedomý svojho práva, bral sa
+rovno na mňa... len---len, že ma nepresadil. Ešte chvíľočku som ho dolu
+grúňom počul cupkať.
+
+No, zjavila sa i líška. Túlavým, opatrným krokom, chvíľami sa obzerajúc
+v tú stranu, kade dorážali honci, metlou dolu, pyskom zavše vo vetre,
+zavše k zemi skloneným, ňuchajúc pobehúvala. Netušiac našu prítomnosť,
+sem---tam cupkala. Len keď môj sused zavolá „pst, pst", tu tá v nohy, do
+cvalu.
+
+Kým som sa týmito vidinami zvera v slobodnej prírode zabával, priblížili
+sa honci natoľko, že bolo rozoznať aj ich hovor.
+
+Prásk!... padne kdesi na hornom konci streleckej čiary výstrel. Bola to
+strela, akú som ešte nepočul. Zvláštny to bol, viac piskotu ako hrmotu
+podobný zvuk.
+
+Známe je všeobecne, že dať prvý výstrel na medveďa je vec takmer bez
+úplného nebezpečenstva. Ak ho človek dobre trafí, padne. Ak naskrze nie
+je trafený alebo i postrieľaný, hľadá splašený spásu v úteku. Ale keď je
+veľmi poranený, nemôže preraziť čiaru strelcov, vtedy nastáva úloha
+nebezpečná, a ten nech si dokonale podviaže pulidery, ako strelci
+žartovne povedajú, na koho už teraz „macko" dobehne. Cvála, drúzgajúc
+všetko ako besný a vrhne sa ako oblak na strelca, keď ho chybel, alebo
+že utekať zamýšľa. Pevným okom a pevnou rukou mieriť; keď rana padne,
+ani pohnúť --- sťa Lotova socha --- je pravidlom. Najmenšie hnutie ---
+môže byť strelcova smrť! V zúrivosti medveď vidí len to, čo mu je v
+ceste; a čo kývaním život prezradzuje, to chmáce.
+
+Pod časom môjho pätnásťročného úradovania v tom okolí slúžil som
+lekárskou pomocou v ôsmich prípadoch takým, čo ich medveď poobjímal. Sem
+nepočítam prípady, ktoré sa skončili strachom a dobrodružným výjavom.
+
+Sotva odznel ten čudný výstrel po širokých, ďalekých dolinách, stavali
+sme sa všetci do pohotovosti.
+
+Kožka sa ježila... každý stál napnuto, očakávajúc, že každú chvíľu
+začujeme rev, drúzganie halúz, lomoz mladiny a váľanie skál.
+
+Ale nič a nič!
+
+Už sme takmer honcov videli... a vtom zahrmí niže mňa „rrrr...!" Bol to
+výstrel plný, aký sa nedá opísať; no vycvičené ucho pozná --- že uhádol.
+
+Udrelo to do živého, do mäsa!
+
+Obzriem kohútiky, stanem pevne. Všetko v poriadku. Daromné moje napnuté
+očakávanie; nešlo nič.
+
+Došlí honci zdvihnú krik.
+
+„Hajoj!... tu je... leží!" miešali sa hlasy.
+
+„Nuž, čože leží?"
+
+„No len poď sem, čo ti mne tu podbehlo!" odvetí ťahavým hlasom Markus.
+
+Prebíjam sa čučoriedkami na miesto, kde náš Jožko, obklopený strelcami a
+honcami, stál o pušku opretý...
+
+Na výskyde pred ním sa belelo bruchaté vlčisko.
+
+Do krku mu ohňa nasypal; strela bola dobre namierená.
+
+Honci nám vyprávali, že predošlého večera dvaja vlci ovcu roztrhali.
+Večera to nebola skromná; preto tie naduté bachory.
+
+Markusova radosť bola veľká.
+
+On, ktorý dosial už sedemnásť medveďov skántril, vlka v lese ešte ani
+len nevidel. Teraz prvého videl --- a ten padol! Kdeže by zver ostrému
+oku a Jožkovej bezpečnej ruke ubehol?
+
+Žertve „Loveny" zviazali po dve nohy dovedna; strčiac cez ne drúčik,
+vyložili dvaja chlapi na plecia --- a peľali dolu.
+
+Stúpajúc po viac ako trojhodinovom pohone na určenú poľanu, kde nás
+šuhajci pri blačiaku, či vatre s potravou čakali, každý vedel voľačo
+vzťahujúce sa na poľovačku, ale hlavne o padnutom vlkovi rozprávať. Dve
+tretiny toho, pravda, patrili medzi poľovnícke táraniny.
+
+Každému nápadný bol ten výstrel na hornom konci, bez toho, žeby sme si
+boli mohli vysvetliť, kto ho dal a načo.
+
+Blačiak, či blčiak, na zelenej, zubatým slnkom z mrazu oblízanej
+polianke veselo praskal. Šuhajci papekami doň šťurgali, a čosi---kamsi
+posiata bola lúčka romantickými postavami strelcov a honcov; každý
+unavený, hľadal si najlepšie miesto, aké práve náhoda poskytla.
+
+I hneď na viac miestach vystupoval dym a fajky sa „odušu" zapekali.
+
+Gajdoš preberal na gajdách.
+
+Na všetky strany malebné skupeniny pútali ľudské oko.
+
+Vlka vystreli pozdĺž na zem, aby ho každý mohol pohodlne obzerať a aby
+mohol svoje poznámky podľa chúťky robiť.
+
+Ja, zapáliac si fajku, vystretý pri plápolavej vatre, obdivujem
+Markusovu obratnosť. On nielen vrchol dokonalosti v poľovníctve, no i
+hlbokú vedomosť a obratnosť kuchársku skvelo dokázal. S najväčšou
+dôkladnosťou pokrájal mäso na guláš a pridal k tomu petržlen, cibuľu,
+huby, zemiaky, rascu a čierne korenie. Osoliac to, zalial vodou. Všetko
+toto vylejúc do zvláštnej plechovej, od spodku nôžkami, od vrchu
+pokrievkou opatrenej nádoby --- položil na oheň. Druhá čiastka mäsa, v
+kúskoch striedavo so slaninou na drevený ražeň postýkaná, určená bola na
+pečienku. Príprava to bola chutná a čistotná; čosi---kamsi to vrelo,
+toto však sa škvarilo. Zápach olympský sa nám popod nos preťahoval.
+
+Podajedni zo strelcov a horárov, ktorí nechceli čas darmo márniť,
+pozdravkali si už ozaj hodne, čoho dôkazom bola rozmáhajúca sa roztopaš.
+Pestvami jeden druhého pretekali.
+
+Za svojho bavenia sa pred rokmi v Pešti videl som v čas veľkonočného
+pondelka pri národných ihrách na Blocksbergu dolu brehom medzi
+proletárov jablká rozhadzovať. Pri nedostatku jabĺk hádzal som medzi
+mladých honcov drobné peniaze, a boli by ste mali vidieť to behanie,
+padanie, tie hŕby nakopených honcov, ktorí sa za grošmi naháňali.
+Kde---tu miesto preriedených grajciarov vyletela i gombička --- a to
+isté zháňanie sa robilo, kým sa vysmiaty majiteľ o lichom dare
+nepresvedčil. Po tejto dokončenej komédii nasledovala druhá.
+
+Bol medzi lesnými jeden istý --- prezývali ho „Zduteľom". Nikdy sa
+neusmial, málo hovorieval a len neprestajne fajku omľazgával. Nos mal
+ako kyjanku. Pušku vždy so sebou vláčil; snáď s ňou i spával, lež nikto
+nepamätal, že by dačo bol zastrelil. On sa vždy vyhováral, že nerád krv
+vylieva. Ale najpodivnejšia bola tá zvláštnosť, že mal stroj na
+kremienku, ako on povedal, preto, aby mu kapseľka do oka nestrekla. On,
+chudáčik, býval terčom posmešných nápadov svojich druhov.
+
+Keď sa ho naprekárali, že nevie strieľať, rozohriaty vínkom škarede sa
+zaprisahal, že sa on nikomu zahanbiť nedá a cieľ trafí. Na povstalú
+veselosť pustí sa i Markus do rákoša. Filip Murgaš mu sľúbil, že ak
+široký klobúk na štyridsať krokov trafí, dá mu dve holby vína a funt
+olova. Markus ponúkol na ten cieľ vlastný klobúk so širokou partou, a
+keď trafí, ešte jeden funt pušného prachu, ale keď netrafí, dvanásť
+ramárov na „sedenie". Zduteľ sa síce sprvopočiatku veľmi zdráhal a
+nechcel strieľať do širáka pána nadpolesného; ale keď ho uštipačné
+posmechy vzdor flegmy dopálili, odhodlal sa i na to.
+
+Murgaš, veselosťou rozpustený a rozihraný, stal si mu za chrbát.
+
+Tušiac dáky fígeľ, zvedavý som bol, ako sa to skončí.
+
+Markusov široký klobúk, ktorý i skalou mohol trafiť bársaký mamaj na
+štyridsať krokov, zavesili na náprotivnú liesku medzi rázsochu.
+Odčítajúc krátkych štyridsať krokov, postavili čudáka --- Zduteľa.
+
+Opatrne preskúmal ramárom ponajprv cievu, či mu dakto nábitok nepizol.
+
+Keď sa presvedčil, že je puška v poriadku, natiahol pokojne kohútik,
+pritisne pušku k lícu, mieri, mieri, a --- spustí...!
+
+Všetci, vynímajúc zradné šelmy, hľadeli a očakávali, ako budú z klobúka
+strapce lietať. Ale kremeň ticho zbehol, a ani na panvičke, ani von
+rúrou sa nekúrilo.
+
+Natiahne sa po druhý raz, pritisne k lícu, mieri, spustia --- nič.
+Namrzený obzrie kremeň. Vtom sa natiahne Murgaš, vytrhne mu kremeň... a
+myk...! prehltne ho...!
+
+Chudák, nadmieru zdesený Zduteľ, vyhíkne a hádže po sebe kríže. Akoby i
+nie; kremeň prehltnúť nie je maličkosť: ten môže dať ohňa v žalúdku, keď
+nie na panvičke.
+
+Rozlúštenie hádky bolo to, že mu Murgaš pred samou stávkou opravdivý
+kremeň potajmo vzal a na jeho miesto položil podobný kus --- oštiepka.
+
+Nastal smiech, len sa tak lesy ozývali; najchutnejšie sa smial veľký
+milovník takýchto žartov, náš prostosrdečný Jožko.
+
+Ešte tento šramot nepominul a tu pripáli s ručníkom pod nosom polesný
+Helbling.
+
+Čože to?
+
+Odloží ručník, a tu vidíme zakrvavenú, ako pampúch zapuchnutú gambu.
+
+Ako sa nám fufnavým hlasom zdôveril, on bol pôvodcom podivného tajomného
+výstrelu.
+
+Podľa jeho udania predsa bol v pohone veľký medveď. Mladý šuhaj,
+predesený neočakávaným prikvitnutím toľkej opachy, potratil koncepty ---
+potiahol miesto jedného obidva jazýčky a dostal tak výdatný popysk, že
+mu naskutku pery napuchli. Gule sa cieľa minuli. Spočiatku sme síce jeho
+výpovedi nedôverovali, ale zaklínanie sa, pod nosom navrená frčka a
+Markusovo prisvedčovanie presvedčovali nás o pravdivosti.
+
+Počas obedovania znamenite odvarenej „maštrancie" a pitia „malvázie"
+radili sme sa so skúsenými strelcami, i uzavreté je, že ešte jeden pohon
+vykonáme.
+
+Kým sme sa chystali na postup, zakúsil som ešte jeden spomenutiahodný
+príbeh.
+
+Zberám na smreku visiacu kapsu a pušku, tu ma predstúpi sťa jedľa
+počerný Mišo Zajac.
+
+V pravej ruke držal päťfuntový mažiar, čo z neho na odrážky búchal; ľavú
+ruku mal za opaskom na bruchu.
+
+„Čože chceš, Mišo?"
+
+Chlapisko poškrabal sa za uchom, nohy rozložil na najširšiu podstať sťa
+Colossus Rhodi --- a riekol:
+
+„Zle sa mi povodilo, pán dochtor. Nuž, ľa, viete, strieľal som vám na
+odrážku z tohoto mumáka. Aby som sa nemusel vše zohýnať, nabil som ho na
+kolene, položil za opasok... a tak potom pripálil práchnom. Tá potvora
+vám vybúši --- a tak ma kopla do brucha, že sa mi až trojtýždňová
+haluška v zúziku pohla a celý bachor očernel."
+
+Nevediac v prvom okamihu, či sa smiať, či čo robiť, obzriem brucho. A
+vyzeralo skutočne, prachom zafúkané, ako zahorený peceň sobotského
+chleba; no nebolo veľmi zapuchnuté.
+
+„Nuž ale, kýže ti to čert z horúceho pekla pošepol, Mišo, aby si na
+bruchu strieľal?!"
+
+„Jaj, pán dochtor, ja vám mám okružlie sťa hen ten vlk. Ja vám i
+opravdivý, nie oštiepkový, kremeň, ba i ohnivý ciageľ bez škody
+prehltnem. Či by ste verili, že som ja týmto mojím bruchom," uderí sa
+päsťou sťa na bubon po ňom, „pekný medený kotál vyhral?"
+
+Maco Pančík, pritlačiac si žeravý uhlík palcovým nechtom na zapekačku,
+oderknúc slinu, prisvedčí že „verabože, aby hneď naskutku skamenel a na
+págle sa pokrčil, ak je tomu nie tak", lebo že on bol očitým svedkom.
+
+„I ušatým," ozve sa Jano Butora Komovie.
+
+Pančík vyfúknuc paru z fajky, držanej prednými zubami, preloží ju nabok
+a celou silou pritisnúc ju črenovými zubami, pokračuje vážne ďalej:
+
+„Vyjdeme raz s Mišom Zajacom, Paukom od Medveďov i s jeho dcérou Sabou,
+práve starý bača Chramec žinčicu odváral. Žinčica blbotala, bača ju
+varechou miešal.
+
+,Bôh daj šťastie, Dzuro! Či vám ihrá v tom kotle.´
+
+,Ej, ver´ by si ju nechcel strebať!´
+
+,Strebať ako strebať,´ povie Mišo, ale čo mi dáte, Dzuro, keď ja ten
+kotál tak, ako je teraz i so žinčicou na...´ Maco podvihne úctivo
+klobúk, ,...na holom bruchu, kým sa jeden otčenáš vymodlím, podržím?!´
+
+,Hí---hí!... bisťubohu! Žinčica tvoja bude i s kotlom.´
+
+Mišo podá dlaň, bača tľapne do nej a stávka bola hotová. Mišo vyvalí sa
+pred kolibu na pažiť, odpracká opasok, bača pochytí kotál --- a poď mu,
+odpytujem vašu úctivú hlávočku i ten stolík, na ktorom boží darček
+prebýva --- vyrediká mu ho na holô brucho. Vlasy nám dupkom vstávali...!
+Mišo sa modlí, snáď nikdy za svojho živobytia tak chytro, žinčica mu,
+akoby bola na tom šporhertisku, veselo frfotala. Na...! reku, už ti je
+matejko uvarený. Ako dokončil, skríkne:
+
+,Ber ho dolu, Dzuro!´
+
+Zloží mu ho. Mišo vyskočí ako ryba --- a nechybel mu ani čert, len mu
+brucho sadzou zamazanô bolo.
+
+,No, bodaj by si ty bol zhorel i s tvojím bampľom,´ povie bača, ale
+kotál dať nechcel.
+
+,Žinčicu si,´ riekol, ,vystreb, ale kotál, coky!´
+
+Prišlo to i pred súd --- a veru bača kotál dať musel. No, to je skutočná
+pravda; však sú tu svedkovia."
+
+„Veru tak," zavolá jeden z okolostojacich, „my tratíme bruchom --- a ten
+svojím bampľom zarába!"
+
+Zavolám nosiča, aby mi podal sklenku so slivovicou:
+
+„Mišo, či máte dáku nádobku?"
+
+„Načo nádobku! Moje ústa sú práve na rumplík."
+
+Pritom potiahne jazvečou kožou obšitú kapsu napredok, odopne utešene
+rezanú varechu, ktorú Jano Medveď od Medveďov majstrovskou rukou z
+hrčkovatého fládru zhotovil, a otrčil mi ju. I nacengám mu ju
+slivovicou:
+
+„Nate, potrite si vaše historickô a nie hysterickô brucho."
+
+Ale on nedbajúc na moje múdre reči, vyglgol slivovičku jedným dúškom,
+tvrdiac, že takto vraj lepšie pod kožku príde a --- slinou potrel
+brucho.
+
+Temer som sa opozdil pri zaujímavej besiedke. Cvendžiaci hvizd na
+prázdnej patróne upamätal ma, že ma Markus netrpezlivo čaká tamto pokraj
+lesa. Rozohnal som sa za druhými. Mišo, ktorému liek, tak sa zdalo,
+dobre účinkoval --- no ktorý iste i opakovanie toho lieku očakával ---
+mrmlal, že veru škoda bolo taký dobrý diškurz pokaziť.
+
+Týmto pochodom predstavoval sa nám vcelku ten istý obraz velebného
+pralesa čo pred poludním, no s tým rozdielom, že sme ráno išli nahor a
+teraz nadol.
+
+Napotkýnali sme sa dosť, lebo i tu bola pôda končitými skalami posiata,
+ale napovrchu machom a rebríčaťom (filices---Farrnkräuter) pokrytá.
+
+Tuhým krokom sme sa asi za hodinu brali, kým sme vrazili do rúbaniska,
+porasteného skorušinou a červenou bazou. Zo sihlíc vybrnkávali pred nami
+jarabice a jariabky. Prekročiac rizne#POZ#216;Sprava, kadiaľ kláty
+spúšťajú#-POZ#, prešli sme ešte krížom bujnou mladinou a spustili sme sa
+do doliny Kýčernej.
+
+Honci mali rozkaz roztiahnuť sa tou istou čiarou, ako v prvom pohone
+stáli strelci, a odtiaľ dolu k nám honiť; nás strelcov prevedúc však cez
+fľúdre, porozostavovali opodiaľ nich dolinou nahor i nadol.
+
+Moje stanovisko bolo na čistine.
+
+Žulový balvan slúžil mi namiesto sediska. Povyše susedil jeden
+handelčan, niže mňa asi na štyridsať krokov lesný Havrla; ďalej dolu
+nedovidel som pre zákrutu nikoho. Oproti mne za fľúdrami bol jazyk do
+lesa, pozostatok to starých rizieň.
+
+Dunčíme, dunčíme; čas míňa sa zdĺhavo, ale tým chytrejšie preteká
+fľúdrami šplechotajúca voda. No, však tá voda vie zabávať
+obrazotvornosť! Počuješ v nej, aké len chceš hlasy a zvuky: stonanie,
+jajkanie, bedákanie, nariekanie, šuchot, buchot, hrmot, mrmlanie, hudbu,
+streľbu atď. --- všetko z nej vystane. A tak od veku do veku meniac
+modulácie vedie vodička svoj monológ. Na premenu jednotvárnosti ďafkali
+ponad hlavu preletujúce kŕdle pestrofarebných krivonosov, cidlikali
+čížence a s nimi kočujúce --- nie každý rok --- čečetky štebotali.
+
+No, ale to len predsa nie voda, pomyslím si a nastrčím uši.
+
+Nie ver´; rozoznávam už zreteľne trúby, hlasy, klepanie obuchmi a
+rauchajúce mažiare na odrážkach. Hoj, čiže durkali, len sa tak prášilo!
+Škrek honcov, hučanie pastierskych trúb sa približovalo.
+
+Medzi strelcami nečuť ani najmenší šuchot.
+
+Už som zúfal, že by bol zver zodvihnutý... Ako však zunovaný daromným
+čakaním hlavou pomaly oproti povyše mňa stojacemu handelčanovi
+zvrtnem... vidím, ako ten s rozkročenými nohami, stiahnutými obočiami
+pušku pri líci drží --- viete, úplne tak, ako keď sa strelec chystá
+spustiť...
+
+Natiahnem potíšku spustené už kohútiky a hľadím v tú stranu, kam
+handelčan mieri. Ale on odloží opatrne pušku a ukáže mi pred seba
+prstom.
+
+Ale čo viac!
+
+Počujem lístie šuchotať, ráždinu a sucháre pukať --- a tak sa mi zdalo,
+akoby sa dačo čierne bolo tým jazykom oproti mne prevalilo...
+
+Všetky moje zmysly v očiach a ušiach boli sústredené. Napnem zrak do
+húštiny --- ale bodaj ma stislo...! nie je to klam, ale skutočná kotrba
+sťa mýtovnica, no i čierny, široký, z boka na bok sa voziaci chrbát.
+
+Zimničná túha po vraždení ma zachvátila; alebo ako strelec hovorieva,
+hotový som bol streliť. No keď na sedemdesiat krokov a druhému, bližšie
+mohúcemu neradno je predstreľovať, odstúpil som od úmyslu.
+
+To isté urobil i niže mňa stojaci lesný Havrla.
+
+Ach, ale tisíc vozov okovaných...! ale mi tĺklo srdce.
+
+Bol som vo vytržení...
+
+S rozohranými žilkami, túžobne som čakal, kto a kde strelí.
+
+Je to zvláštny zimničný druh!
+
+Macko išiel kosom a tak výstrel dlho vystať nemohol.
+
+Aha! Naraz... „rrrr!" a hneď zatým „pác, pác, pác!". Z druhého výstrelu
+guľa do vody čľapla, tú bolo počuť; ale na tretí a štvrtý výstrel medveď
+tak zareval --- myslel som, že ho v pol stolici počujú.
+
+Bol to ruk veľkého zvera a strašného bôľu, no už i chripľavý.
+
+Naraz bolo počuť úzkostlivé volanie:
+
+„Jaj, jaj, jaj!"
+
+Zase jeden výstrel zahučal, potom bolo počuť klepnutie kapsle sťaby
+bičom a ohromný Markusov hlas:
+
+„Stohrmien bohov! Flinty sem, chlapci, flinty!"
+
+Všetko to dialo sa nápraskom.
+
+Počujúc to, hrnuli sme sa všetci skokom na miesto úzkostí.
+
+Havrla, chlapisko vyše siahy vysoký, potkne sa o skalu, padne pozdĺž a
+nábitok pác...! Guľa ráňala haluze.
+
+V okamihu sme obstáli na zemi ležiaceho medveďa. Z pysku a krvavých rán
+sa mu kúrilo. Klovami ako ruka hrubú haluz na kúsky sekal.
+
+Oddola priskočivší zurvalec, starý Šalát, kľakne na kolená a mieri:
+
+„Hej, mrcina, počkaj, veď ti ja pošteklím vošky!"
+
+„Neplieskajte, starý," zazrúc to vykríkne Markus, „nehubte nadarmo kožu.
+Vidíte, že už zdochýna! Neblížte sa k nemu však nikto, lebo vás
+pomiesi."
+
+I nabíjal si pušku.
+
+Stalo sa, že všetečný strelec --- mysliac, že je zdochnutý --- prekročil
+medveďa a naťahoval ho za uši. Medveď sa zodvihol a prestrašeného
+strelca odniesol dakoľko krokov na chrbte.
+
+Ešte raz zaručal, temne, bolestne a takou mocou sa metal, že nás
+všetkých, ktorí sme okolo stáli, zasypal zemou.
+
+Strašný výjav!
+
+Nezadlho sa vystrel, že mu kosti prašťali a hrozný obyvateľ lesov ---
+ležal neškodný nám pod nohami.
+
+Zver to bol krásny, čiernej dlhej srsti, ktorá mu chrbtom stála naježená
+ako hrebeň.
+
+Bledý sťaby stena a zdesený stál medzi nami mladý Skokan.
+
+Došli i ostatní strelci. Honci výskali od radosti, až sa široko---ďaleko
+zápole pod Veprom ohlasovali.
+
+Ako nám Markus rozprával, privítal medveďa, ktorý kosom dolu jachajúc,
+fľúdre prekročiť zamýšľal, najprv Imrich, ale potom jedináčkou Skokan.
+Ten ho kus postrieľal. Pustil potom Cibra; tomu guľa do mláky frkla a
+bielu žabicu roztrepala. Štvrtý výstrel dal zase Imrich --- medveď
+klesol; ale hneď sa zase zobral a chcejúc reťaz streleckú preraziť, bral
+sa rovno na Skokana.
+
+No, pravdaže, tento bol v nemalom strachu. V zúfalstve nemajúc inšej
+pomoci a obrany, harcoval akoby bodákom vystrelenou jedináčkou pred
+sebou --- a kričiac pritom „jaj, jaj!", poskakoval v ciperlepolkovom
+tempe nazad.
+
+Piaty výstrel, a to z Markusovej pušky, bol smrtonosný; druhá cieva mu
+zlyhala.
+
+Peťo, lesný z Dobroče, malý chlap vo veličizných čižmách, priskočí k
+posiaľ zblednutému Skokanovi a plesknúc ho po pleci, povie:
+
+„Oj, Skokan môj, Skokan, tebe dnes tiež nebolo treba morizonky brať!"
+
+Cibra obzeral v mláke výstrel a tvrdil, že veru tak husto padol, akoby
+cedilom hodil. Ale beda! Cieva mu je na dobré štyri palce rozpáraná; no
+stroj motúzom priviazaný predsa držal. To bol následok prehnaného
+nábitku. Cibra vytiahne pokojne spoza opaska cínom cifrovane vybíjaný
+končiar a ako šlo, tak šlo, škodu nožom naprával. Keď som mu pripomenul
+svoje napomenutie, aby taký veľký nábitok nedával, mrdol plecom, že
+aspoň vie, dokiaľ ju má skrátiť, lebo že mu i tak pridlhá bola.
+
+Medveďovi poviazali dlaby, cez ne pretiahli osekanec, podeň zase tri
+drúčiky; ôsmi chlapi vyložili ho takto na plecia --- a hajde, vlka
+napred, potom medveďa teperili dolu.
+
+Gajdoš viedol predvoj.
+
+Doraziac do Pálenečného, posadali sme na kone. Dajúc sa ukrátenou
+cestou, stúpi môj koník na pravdepodobne líškou rozbabrané osy.
+
+Osy dajú sa do koňa, splašený kôň sa vzopne a hodí sa sťaby strela nabok
+--- a ja nepripravený na tento tanec --- myk dolu!
+
+Letel som ako anjel, no spadol som ako čert. Tak aspoň opísal moje salto
+mortale Jozef Hrobárovie.
+
+Chytro som sa ja síce zobral na nohy, no chytrejšie boli osy; nanosili
+sa mi do dlhej brady. Dosť som sa bránil, tri sa mi predsa dostali do
+kože, kde na moju najväčšiu zlosť svoju zlosť vypustili. Či to páli!
+Ešte sa mi teraz, keď na to pomyslím, koža ježí.
+
+Jozef Hrobár dovedie mi lapeného koňa a doloží posmešne:
+
+„Hľa, páni, posmievate sa, že sa holíme; ale nám sa osy nezapradú do
+brady."
+
+„Len, ty, Jozef, daj pozor," ohlási sa Štefan Pinka, „aby sa ti v nedeľu
+do tvojej bombáľajúcej kečky dvojnohé osy v krčme nenanosili!"
+
+Pri gajdách a streľbe tiahli sme cez obce, navyknuté na takéto výjavy,
+no i vždy zvedavé --- domov na Krám, kde nás očakávala známa Jožkova
+pohostinnosť.
+
+Sotvaže korisť na zem zložili, hneď pribehol Jožkov najmladší, asi
+trojročný synček Morko a vyškriabal sa na medveďa.
+
+Bolo to už vidno, že sa malý šuhajček zdravým, smelým srdcom na otca
+udal.
+
+Vlka a medveďa z kože stiahli a mäso tohoto poslednejšieho rozdali medzi
+strelcov.
+
+Či to nebola zaujímavá, či to nie je pamätihodná poľovačka...?!
+
+Tak skúseného poľovníka, neohrozeného strelca, tak praktického úradníka,
+ako bol náš pohostinný dobrosrdečný Jozef Markus, za veľa rokov pred ním
+nebolo --- a za veľa rokov zas nebude!
+
+Blahá mu pamäť!
+
+# Deň 22. decembra 1870
+
+Dobrý priateľ príde ku mne a volá ma do Hanovej, že tam idú zápoľu do
+povetria vyhodiť sedem centami prachu.
+
+Ja ochotne pristanem.
+
+Zima je hrozná, sanica kapitálna. A keď už o zime hovorím, pripomenúť
+musím chvály najhodnejší vynález Slovákov, následkom ktorého zasluhuje
+slovenský národ, keď už nie pre inšie, aby v koncerte priemyselných
+národov slušné miesto zaujímal. Pod tým vynálezom rozumiem kapce.
+Natiahnem teda vysoké kapce na seba a či vari vtiahnem seba do nich,
+zaviažem si ich sáry okolo krku, stiahnem zimnú baraniu čiapku cez uši
+až po členky na seba a sadnem s priateľom do sánok. Sánky vŕzgajú po
+snehu ako hýľ v klietke a v krátkom čase ocitli sme sa v Hanovej.
+
+Hanová je žltý punkt sveta, ktorý však márne hľadať budeš na glóbuse. Je
+to pustá dolinka niže Kremnice oproti Žltej vode, kde ten červený tabak
+fabrikujú. Meno jej pochodí od Hana, pána Šášovského hradu
+(Sachsenstein), ktorý ju pred päťsto rokmi s lúkami a roľami daroval
+kremnickému špitálu. A to dobre urobil; bola to aká---taká odmena za
+hriechy, pred i zatým páchané pánmi Šášovského hradu na kremnických
+banských závodníkoch, vulgo gverkoch.
+
+No ale dosť toho historického. Strmými, skalnatými brehmi tej dolinky
+tiahne teraz železničná čiara. Hlboko v dolinke stojí tritisíczlatový
+barak a sem---tam vystavané všakové manipulačné búdy. Vysoko nad barakom
+z jednej strany neprebitý ešte tunel, z druhej strany hlboký skalnatý
+zárez.
+
+Vystrojeným živou zvedavosťou a zdravým žalúdkom, treba nám bolo tesne
+sa obživiť; vníduc teda do priestranného baraku, položili sme základ
+dosť pitným pivom. Zatým nasledovala s chválospevom nám ponúknutá
+svinská pečienka, ktorú však naše skúmavé oko a žalúdok pri započatom
+pitvaní za hovädziu sviňacinu uznalo. A to bol prvý mam, ktorý sme pre
+získanie potrebnej teploty dosť dobrým vínom zaliali. Tá hovädzia
+sviňacina, popravde svinská hovädzina, mala ešte i tú planú obyčaj, že
+sme ju pre jej nepremožiteľnú tvrdošijnosť jednou nohou pritisnúť, a
+tak, vďakabohu, silnými zubami --- aby so žalúdkovým pepsínom do
+potýkania prísť mohla --- trhať, šklbať a mykať museli. Môžte mi veriť,
+ešte po týždni vyberal som šparcháčom zo zubov viazaničky žilovatého
+mäsa.
+
+Nuž a tak per aspera ad prospera#POZ#217;(lat.) Obťažnou cestou k
+prospechu#-POZ#.
+
+Pred pár dňami podpálili na tom istom mieste podkop päťcentovým prachom.
+A pretože jedna z ďaleko rozmetaných skál prebila i krov baraku,
+vykúrili po obede z baraku všetko, čo živé bolo. Asi štyristo hláv
+počítajúce obecenstvo ťahalo pre bezpeku hore na náprotivnú stranu. V
+košoch a plachtách vynášali z baraku: poháre, krčahy, obrazy, ženy, deti
+a týmto podobný krehký riad. Vyzeralo to ako vysťahovanie sa Magdeburcov
+pred drancovaním mesta.
+
+Asi šiesti postavili sme sa na vykázané bezpečné a pre voľný výhľad
+veľmi pohodlné miesto.
+
+Pod nami barak, oproti nám na druhej strane v diaľke asi sto siah corpus
+delicti, to jest smutná zápoľa, ktorú mali roztrepať. Ba tak sa mi
+zdalo, akoby sa od strachu bledá bola triasla. Ale ľahko veru, že tieto
+vidiny boli objektívne. Do zápole vydlabaná a sedem centmi pušného
+prachu naplnená diera bola zamúraná a z nej bežala vo dve strany cez
+sklepený kanál pretiahnutá lunta. Tento špásik stál päťsto zlatých, mal
+však podujímateľovi do dvetisíc zlatých osohu vynahradiť.
+
+A tak stojíme stále, pevne ako múry hradné, na stráži, vystavení
+nešerednému, kde---aký kabátový švík prenikajúcemu severnému vetru.
+Strmo poletujúce snehové hrče s hviezdami a radmi topia sa na našich
+zmraštených demokratických nosoch.
+
+Ale vďačne, veľmi vďačne znášame všetky nehody, lebo skutočne náhodou
+zišlo sa na tento čas a na tomto mieste viac veľmi pamätných momentov.
+Jedna hodina minula. A tu --- v najkratšom dni roka nastal nový mesiac;
+ďalej nastalo v tomto storočí už posledné zatmenie slnca a k tomu
+vypálenie sedem centov pušného prachu! No istotne to pamätné výjavy.
+Čuvy sme mali rozdráždené. Sám podujímateľ, Würtemberčan Schubert, po
+vystavení stráže po ceste a chodníkoch kráča k lunte. Nastalo hrobové
+ticho, počuť len fičanie vetra a trikrát opakovaný výkrik: „Feuer!"
+Srdce nám nedočkavo tĺklo, ešte dvanásť minút a --- zaduní zem, vysoký
+červený stĺp vyšľahne do nebeského blankytu, spraští a ako kostol veľká
+dutina zdvihne sa do výšky a kamenný dážď rozličnej veľkosti prší
+rachotom do hlbokej doliny --- hú!
+
+Áno --- všetko by to bolo krásne hrozitánske --- ale:
+
+1\. najkratší deň v roku zdal sa nám dlhým ako črevo, bola nám zima,
+špatná zima, a tak nám všetko bolo dlhé;
+
+2\. nový mesiac sme nevideli;
+
+3\. zatmenie slnca sme tiež nevideli, lebo bolo celé nebo hmlou
+zatemnené;
+
+4\. lunta, trikrát podpálená --- zlyhala.
+
+Nepriali nám nebesá, nepriala zem. A tak vrátili sme sa s dlhým, ale
+zamrznutým nosom domov.
+
+# Duchaprítomnosť
+
+Pravidlá železničnej organizácie obsahujú v sebe i tú požiadavku, že v
+službe postavení strážnici musia byť ženatí. Nie je to snáď mravný vplyv
+železničných úradov, alebo túha zveličenia štatistických účtov
+obyvateľstva --- je to holá, púha potreba. Jedno, aby mal strážnik v
+osamelosti pri boku dakoho, čo mu tej krumpľovej chamule navarí a
+melancholickú opustenosť rezkým ráročením jazyka rozpráši; ako i to, aby
+dennou i nočnou strážou zunovaného muža mal kto odmeniť, a keď treba
+nahradiť. Preto slobodní strážnickí kandidáti musia sa nolens volens a
+krkolomne ženiť. --- Akonáhle tú pasamantirovanú čiapku vylepí na hlavu,
+ponáhľa sa o dušu dáku Doru a či Zuzu pod čepiec strčiť. A to je veru
+dobrý, patentu hodný nový vynález. Každá nová železničná čiara stáva sa
+zárodkom nových úfností starých i mladých dievok. A pozorujte len
+bedlivo a uvidíte, že tam, kade železnice zakladajú, starí mládenci
+miznú ako vykynožená bodľač a starým dievkam pršia čepce z neba, len by
+bolo hláv nadostač! Železnica teda je znamenitý konzum pre tento
+štipľavý --- zaležaný tovar.
+
+Táto --- často nie z dobrej vôle, ale z musu, kvôli službe uzavretá
+ženba máva tu i tu svoj smutno---komický koniec. Ledvaže sa totižto
+strážnik pri takejto oktrojovanej spoločnici kus ohrial, keď je i pre
+najmenšiu nedbanlivosť zo služby prepustený, rád by s ňou i svoju ženu
+popustil, čo však pre ešte neuvedené civilné manželstvo urobiť nemôže, a
+tak musí sa „omnia mea mecum porto" po svete ako slimák vláčiť s tým
+svojím, nechtami držiacim sa ho príveskom. A tak „szegény
+tatár"#POZ#218;(maď.) Úbohý bedár#-POZ# s oktroírkou na chrbte, s dlhým
+nosom musí opúšťať „so leb\' den wohl, du stilles Haus"#POZ#219;(nem.)
+Tak sa dobre maj, ty tichý dom#-POZ#.
+
+K mestu K. presadili syna z teplých rovín pochádzajúceho, o sto rokov
+vymrieť majúceho národa, do tesnej, odľahlej, lesnatej doliny, aby tam v
+púšti rozmnožoval maďarizmus. Vlci mu oblokom nazerali a líšky kradli mu
+mydlo. V komíne hniezdili mu sovy. Prišiel v krátkych širokých gatkách.
+No hneď vopchali ho do uniformy s krátkym, avšak určitým rozkazom, že o
+dva týždne musel byť ženatý. Chudák --- pustil sa naskutku dolu ulicou
+hľadať ženu.
+
+„Kamže tak náhlo, pán strážnik?" pýta sa ho jeden obstarný baník.
+
+„Idem --- izé --- ženu hľadať."
+
+„Ženu? --- no to, chvalabohu, dlho hľadať netreba. Nebežte, nebežte,
+nekazte si pľúca."
+
+„Nemám skúsenosti. --- Radšej by za vlakom behal ako za ženou... Čo to
+za práca!" doloží strážnik, utierajúc si pot.
+
+„No, pánboh vám pomáhaj a šťastlivú cestu."
+
+„Pánboh uslyš," odpovie skrúšene strážnik, hodiac krížom po sebe.
+
+Po pár krokoch vrazí do jedného úhľadného domu. Tam pred dvermi na
+násype švárna dcéra bedlivo v hlave ískala v dobrocite žmurkajúcej
+matke. Lokeš, čo chceš? Uchyť si toho zadného, ak môžeš. A uchytil. A
+trafilo sa slepej kure zrno --- dostal strážnik ženu dobrú a koniec
+románu bola svadba.
+
+Nuž dobre, teda ďalej. Svokor nášho blaženého junáka bol pôvodu
+demokratického, rovesník kráľa Dávida. Žalmy síce nepísal, ani harfu
+neobrábal, ale bol pastierom, a to pastierom svinským, kým Dávid tuším
+len ovce a kozy pásol. Ako taký pásol okrem zverenej mu obecnej čriedy i
+vlastných svojich chovancov, a to boli také mimochodné
+akcidencie#POZ#220;(lat.) Prírastky#-POZ# jeho vychovávacieho ústavu,
+čoho príjemný následok v príhodnom čase býval takrečený
+„sautanc"#POZ#221;(z nem.) Zakáľačka#-POZ#, na čo ešte nemáme
+primeraného názvu; len ak by sme ho svinským plesom nazvali.
+
+Na takejto rodinnej udalosti, k takémuto karu, povolávajú sa obyčajne
+jej členovia. Podobne stalo sa i teraz; útlocitný svinský
+
+pastier, respektíve tatík, povolal na hody dcéru so zaťkom, a vodilo sa
+im tak ako červíkom v bryndzi. Razom čul znak na železnici. Zvonček,
+svojimi opustený, zacengá melancholicky na znak toho, že sa vlak už
+blíži a že strážnik so šajbou v ruke má stáť pohotove pred bytom. Hja,
+ale odbehnúť od „sautancu", to tak ľahko nejde. Strážnička drží
+jaternicu a strážnik klobásku na vidličke pred papuľou, rozdrapenou ako
+jask.
+
+„Poďme!"
+
+„Ach! ešte kúsok, však dobehneme."
+
+„Vivos voco#POZ#222;(lat.) Živých volám#-POZ#," zavolá zase upomínajúci
+nemilosrdný cengáč.
+
+„Hrom ti do srdca, necengaj!"
+
+„Ach, len ešte troška," vzdychá červená rebrina a púšťa jaternicu i so
+špajdlom nanáhlo do svojho jasku...
+
+Náhodou práve v ten čas vybrali sa tri slečny z domu, kde predtým
+strážnička slúžievala, navštíviť svoju bývalú vernú slúžku, ku ktorej
+chovali sa so zvláštnou náklonnosťou. Švárne šestnásť---dvadsaťročné
+slečny nabrali do košíka pečiva, vyberúc sa k Zuzke na prechádzku.
+
+Prídu k strážnici, vystavanej na násype pred samým jaskom, a nájdu ju
+zamknutú. Kukajú oblokom ako tí vlci a či vlčice, búchajú na dvere, tu
+nič a nič --- prázdnota, holota... Vtom počuť pred horným otvorom jasku
+pískať osobný vlak.
+
+„Sestry, zle je! Vlak dobehne a ak nenájde strážnika na mieste, príde o
+chlieb."
+
+„Aha, aha, tamto beží. Preboha, ponáhľaj sa, Zuzka!" kričí druhá dolu
+násypom.
+
+Zuza, vínom rozohriata, behom rozpálená, fučí ako miešaný vlak a tvár
+jej červenie ako lampáše na poslednom vozni. Vlak už hučí tunelom. Zuza
+frčí hore násypom. Jaj, bože! skoro, skoro, len ešte kus, čihí!
+Dievčatká tŕpnu strachom. Zuza, zadychčaná, umorená, fuk! Padne na nos a
+ostane na šírku vystretá ako žaba.
+
+Vlaku sa už oči jastria von jaskom ako divej mačke. „Ach beda! Zuzku nám
+kasírujú!" zavolajú úzkostlivo slečinky. „Príde strážnik o chvost ako
+pes o službu --- ach, či mám povedať o službu, ako pes o chvost," povie
+roztržite tretia. „Poďme my," stanú si pekné tri dievčatá radom ku
+koľaji --- a otrčia šajbu.
+
+Vlak prebehne, strojník a inžinier úctivo salutírujú trom v rade
+postaveným slečnám, a Zuza --- ktorá sa práve s nestrovenou jaternicou
+zo zeme dvíha --- je spasená.
+
+# Zima roku 1871
+
+Zima --- bodaj by ju vlk zjedol --- je podľa fyziky neprítomnosť
+teploty. My by sme povedali: kde niet tepla, tam je zima. Zima po istý
+stupeň sťahuje, to vidíme na vode a na našich vlastných lícach, tie
+zblednú, kým jej vplyvom zúžené tenulinké krvné nádobky odvážajú krv z
+površia dovnútra. Keď sa stupeň zimy zväčší, rozťahuje predmety. Vidíme
+to, keď zamrzne voda, vtedy ona v podobe ľadu väčší priestor zaujíma,
+zdúva sa, a takto i veľké zápole silou---mocou kála a mrví.
+
+Výstrednosti zimy sa teda schodia ako ten had, čo si sám do chvosta
+hryzie. Áno, zdá sa byť v protirečení sama so sebou, keď povieme a
+dotvrdíme, že zima zapríčiňuje --- teplotu. Keď ona, napríklad v istých
+stupňoch a dostatočne na našu tvár pôsobí, tvár nám horí, ba zamrznuté
+údy prechodia do úpalu (brand). Na základe toho šúchame zamrznuté telo
+snehom, aby odmrzlo --- celkom správne a múdre.
+
+Nejdem ďalej šíriť prednášku o predmetoch, ktorú teraz i tak každý a
+všade pri školách bydliaci môže zadarmo počuť. Škoda, že prednášky toho
+obsahu v dobu, ktorú tu opisujeme, započaté neboli, kde by sa tá téma o
+zime tak makavo a prakticky dala predviesť.
+
+Naše mesto, o ktorom je reč, čo by sa i o mnohých iných rovným spôsobom
+dalo povedať, spadúva do pásma sveta, miernym nazvaného, kde zima trvá
+za sedem mesiacov, a za ostatných päť nie je teplo. Bližšie ho
+označujeme tým, že sa tu našiel prvý gogoľ so zlatým zrnom. Zlaté zrná
+sa včuľ tratia, gogole sa rozmnožujú. --- Ale tieto veci v nižiadnom
+pomere nestoja k zime a k tejto besiedke; preto ich ako mimochodné
+necháme stranou.
+
+Dosť na tom, tohoročná zima, ako obyčajne, i teraz nepríjemne pôsobila
+na obyvateľstvo tohoto mesta, a to tým nepríjemnejšie, že nebolo dreva.
+Podľa nám už známych fyzických pravidiel ľudia už v jeseni plecami
+sťahovali.
+
+Pre veľa stromov nevideli sme les, ale v lese bolo dreva --- teda sme ho
+vidieť nemohli. Stromov dosť, ale stromy nechceli a nemohli prísť samy,
+a tak v kachliach sa zotmelo a z komína prestalo sa dymiť. A tak
+vyhrážka: „Počkaj, však ja tebe zakúrim!" stala sa dobreprajúcim
+výrazom.
+
+Sporáky v úplnom zmysle slova sporili drevo, ale veru i našim žalúdkom
+vypovedali službu. Odkázaní sme boli na „studeno". Nebolo počuť, že by
+si bol voľakto ústa popálil. --- A nastala doba zubenia škripov, a či
+škrípania zubov. Zima, hlad, bieda, husacia koža bez husí, ani v
+obľahnutom Paríži. Výnimkou boli tí, čo si drevo sami na chrbte z lesov
+donášali; tých už nosenie hrialo, a tak mali osoh dupľovaný. Výnimku
+ďalej robili tí, čo boli šťastlivými účastinármi pri kopaní ešte
+nevykopaných kopanín kamenného uhlia v krajoch, kde stálo kedysi mohutné
+Eturum; lebo pri skladaní, to jest splácaní účastinárskych podlžností sa
+im kečka rúče zohriala. Chyba pri tomto výnosnom --- lebo vynášal ---
+podniku bola tá, že pri kopaní kamenného uhlia nakopali veľa kameňov a
+uhlia nič.
+
+Keď sa jedno---druhé poleno zaplietlo do zásobnice, nastala ruvačka.
+Ináč pokojamilovní občania stali sa tigrami a s mäkkým drevom kládli
+jeden druhému tvrdé buchnáty, čo ich síce na základe silného šuchu a
+buchu dokonale zohrialo, ale na zježenej koži zanechalo i dlhotrvanlivé
+nezábudky.
+
+Studená bieda rástla, vlastne a vedecky povedané, padala až hlboko pod
+--- 0° R. Vzácnosť dreva bola zo dňa na deň väčšia, nikto viac neodhodil
+odhorok zápalky, ale pekne---rúče ukryl do vačku. Kmotrám neposielali
+viac zaprávané a torty do postele, ale dáku latku, alebo kus krajnice
+(okrajky). Úctivosť k drevu mienime najlepšie tým dokázať, keď čitateľov
+uistíme, že na Štedrý večer rodina stromčekom najlepšie bola tak
+prekvapená, keď na ňom miesto medovníkov viseli tu bukové, tam jedľové
+--- polená.
+
+A na mestskom dome čo? Tam hrúza, akú nepodstúpil ani sám dr.Kane,
+omrznutý a omrzený so svojou výpravou na severnom mori. Steny v
+pisárňach ľadom pokryté sa ligocú ako kryštálový palác v Kurdistane;
+kachle chladné ako --- uhorka; v kalamároch ľadoviská ako Ladoga a
+Onega; a pisári s bradami, fúzmi --- bielou smotánkou potiahnutými ---
+pre ohriatie údov korčuľujú sa po dlážke, fúkajúc si do prstov.
+
+V radnici, prefúkanej „bórou", sedia, ľadovým, zo žlebu visiacim cmokom
+podobní zastupitelia smutnej tváre, ako Napoleon I. po návrate z Ruska.
+Pri chôdzi „Patres conscripti"#POZ#223;(lat.) Úradný názov členov
+starého rímskeho senátu. Tu sa mienia kremnicki radní páni, členovia
+mestského zastupiteľstva#-POZ# trú si vzájomne nosy snehom --- výraz
+vzájomnej pomocnice: ruský to konzervatív, prezervatív a vokatív proti
+nosovej zime. Fúzy a brady mali cmokami obrastené, navlas podobné tej
+„grotte"#POZ#224;(nem.) Jaskyni#-POZ# na Sliači, kde sa rozličné hračky
+obťahujú vápennou usadeninou.
+
+Každý z vyvolenej obce kladie si hrniec so žeravým uhlím medzi nohy, aby
+mu myšlienky nezamrzli.
+
+S hlasitým, úplne podľa hudobnej škály spravovaným kašľom vstúpi do
+dvorany pán mešťanosta, za ním za pätami desiatnik s turibulom, to jest
+so žeravým uhlím v randlíku. Musel práve z postele vstať, lebo mal ešte
+šedivé vlasy o vankúš, a či vankúš o šedivé vlasy primrznutý.
+
+Pán účtovník, chlapisko, na ktorom dve veci bujne rástli --- brucho a
+fúzy --- privítal pána mešťanostu dlhšou rečou. Para, pritom z úst
+vypustená, padala mu k nohám v podobe snehu a bol by ním snáď celkom
+zapadol, keby mu dlho snovanú reč neboli pretrhli výkrikmi
+netrpezlivosti.
+
+Pán mešťanosta vítal zastupiteľstvo, napomínajúc ho k svornosti a
+vytrvanlivosti, a to takou ohnivou rečou, že počas nej hneď naskutku
+dvaja slabší poslucháči zamrzli. Pripomínal a napomínal ku sporivosti,
+že opatrná gazdiná i na špiritusovej lampe opára bravov a varí obarky,
+nad sviecou v šporherde kapustniarku zapráža, dobrí gazdovia ale,
+pripaľujúc fajky, že zápalkami vyhrievajú izby.
+
+Následkom 16° #b#R#-b# zimy úradovanie stalo sa nemožným a mnohým
+stránkam pri súde kože boli stiahnuté na --- kľučke. Ustanovilo sa:
+úradné miestnosti kúriť aspoň raz do týždňa, pretože však dreva niet,
+majú sa kúriť „nevybavenými aktami", ktorých je vraj, chvalabohu, veľká
+kopa. Ak to nevystačí, budú sa páliť mestské ploty a popol vysýpať na
+klzké chodníky. Ďalej má sa bubnom oznámiť, že každá na mestský dom
+prichodiaca stránka povinná je jedno poleno pod pazuchou doniesť so
+sebou.
+
+Uslyšiac toto uzavretie, valne zhromaždené obecenstvo na námestí jasalo
+a plakalo slzy radosti, veľké ako krumple, ktoré však prv, ako by najavo
+boli vyšli --- zamrzli, a len ligotavý odblesk radosti vystúpil im pod
+nosom na svetlo.
+
+Čo sme v úvode povedali, na to opäť prichodíme. Napadol sneh a bolo
+teplo, lebo pomocou sanice prirukovalo drevo, zásobárne sa plnili, takže
+už samotný pohľad na tie hŕby dreva ohrieval. Komíny valili kotúče,
+kachle dýchali teplo a na sporákoch škvrčali vo troje okrútené voňavé
+klobásy.
+
+A na mestskom dome? Teplota ani na brazílskych hájoch, kde sa kolibríky
+na bodliakoch hojdajú a ananásy na smetiskách rastú.
+
+# Rechtor vo volebných rozpakoch
+
+Nie, nebudem nijakovsky voliť. Ba radšej budem zubami zhrdzavené klince
+ťahať (odpľuje a preloží nohy nakríž). Keby som mal taký reber, ako
+mávajú pastorovia vo viniciach, ale vysoký, vyškriabal by som sa naň a
+hľadel by z tej výšky ako vták knofta na tú našu milú vlasť v čas
+vyslaneckých volieb. Mi hercle#POZ#225;(lat.) Na moj veru (dosl. na
+Herkula)#-POZ#, to by bol za obraz!
+
+Celá naša vlasť ležala by pod konštitucionálnou potopou, zaplavená
+vínom, pivom a pálenčiskom. V potope zanorených videl by som voličov až
+po hrtan, s malými ostrovmi statočných a triezvych. Brr! --- toľko je
+isté, že pod a pred voľbami sa toľko popije, že by to raichavský i
+počúvalský tajch nestrpel a šesťkamenný mlyn pri Dolnej bráne v Banskej
+Bystrici by za týždeň mohol na tej tekutej zákonodarnej podstate
+hrkotať.
+
+No, a to je podstať nášho zákonodarstva, servus... Nie div, že sa klátia
+i zákony.
+
+Najprv ťa pripravia o rozum, a potom choď voliť, veru pekne. Ale ak
+chceš voliť podľa svojej vôle, presvedčenia a rozumu, nuž si rebelant,
+prenasledujú ťa alebo posadia do chládku a aby ti cúg nezaškodil,
+zatvoria opatrne dvere za tebou. Myslím, keď to tak všetko napreduje a
+dozrieva, že budúcne voličom animalibus rugientibus#POZ#226;(lat.)
+Revúcim zvieratám#-POZ# namiešajú do pálenky hašiš a ópium, alebo ľuľok
+a muchotrávku nažmýkajú. Fuj, ako ma striaslo, akoby bol močku prehltol.
+
+Nemci si spievali a vyspievali „Die Wacht am Reine"#POZ#227;(nem.) Stráž
+na Rýne. Názov nemeckej nacionalistickej piesne#-POZ#, teraz začnú
+Maďari pískať „Die Wacht an der Donau"#POZ#228;(nem.) Stráž na
+Dunaji#-POZ# oproti východným barbarským národom, dicit cacabus
+ollae#POZ#229;(lat.) Hovorí hrncu s výkalmi#-POZ#. Noženo, claudite
+portas ne urbs exeat#POZ#230;(lat.) Zavrite brány, aby mesto nebolo
+zničené#-POZ#. Ak tí barbari prídu si po kultúrne muštry k nám tak
+napríklad v čas volieb, kde je in vino veritas#POZ#231;(lat.) Vo víne je
+pravda. (Víno rozväzuje jazyky.)#-POZ#, a uvidia tie nesčíselné,
+neprestajné a pyramidálne habémusy#POZ#232;(z lat.) Obrovské
+ožranstvá#-POZ#, ten volebný rev, tie roztlčené hlavy, vybité okná,
+zlorečenia a všetky tieto a mnohé iné kultúrne príznaky, a tak ad
+oculos#POZ#233;(lat.) Navidomoči#-POZ# predstavené mať budú a tento
+obraz obrovského konštitucionálneho pokroku fotografovaný tým svojím
+barbarom domov donesú --- tí si cele prirodzene a nasledovne brady
+šklbať budú, že to u nich tak byť nemôže. No kdežeby nie, je to príklad
+celkom nasledovaniahodný. --- Ach ta, dajte mi pokoj s takou špatnou
+komédiou, ja nevolím, punktum dixi#POZ#234;(lat.) Dosť, povedal
+som#-POZ#, und wers nit glaubt den wichs i\'#POZ#235;(nem.) A kto tomu
+neverí, toho vymastím#-POZ#.
+
+Takto hundral rechtor Motýľ, ktorý súc veľkým priateľom krásnej prírody,
+menúval svoju polovicu --- podľa váhy telesnej tri štvrtinku --- nie
+Linkou, ale entomologickým#POZ#236;(gréc.) Chrobáčkárskym. (Entomológia
+je náuka o chrobákoch.)#-POZ# názvom „Lienka".
+
+Kým ten dlhý monológ viedol, kúril, kúril bez kúru, oheň mu dávno
+vyhasol, len mu vo fajke vŕzgalo. A keď nadarmo jeden balík zápaliek
+vybabral --- vyskočil a pobral sa preč.
+
+Vylepil si široký, machom obrastený slamený klobúk na šedivú ostrihanú
+hlavu, prehodil bylinársku pušku cez plece, pochytil čerienčok na
+lapanie motýľov do ruky, strčil škatuľku na chrobáky pod jednu, dáždnik
+pod druhú pazuchu, odporúčal sa svojej Lienke a vystúpil pred vráta.
+
+Náš rechtor Motýľ bol výslovný priateľ prírody, a pravdy. Neprávosť
+nenávidel, či by sa ona deákovskou a či tančičovskou nazývala. Súc
+priateľom prírody, miloval vrúcne i svoj národ.
+Sompernádom#POZ#237;(zrejme z nem. das Schumperlied) Vulgárna ľudová
+pieseň#-POZ#, ako on pomenúval politické hlúposti --- na ktorých lipnú
+ľudia s takou húževnatosťou --- sa vyhýbal.
+
+Nuž ale to tak často býva, že to, čo hľadáme, pred nami uteká, a čomu sa
+vyhýbame, to sa nám práve nastrkuje. Uvidíme, či je nie tak.
+
+Naložený rozličným tým riadom vystúpil pred vráta a práve zočil, ako
+náprotivný sused, debnár Páranec, svojmu politickému sokovi pekárovi
+Droždiakovi zrebnatým kalerábom okno vyrazil. Pred ním samým čuchrili si
+frizúry dve osoby, ktoré sme zvykli nazývať i bielym pokolením, a to
+pravičiačka pravou, ľavičiačka ale ľavou rukou, pozdvihnúc svoj slávičí
+hlas až do nebies. Tam dolu na rohu pri hudbe a hulákaní objímalo drahú
+zem pred obecnou krčmou dakoľko konštitucionalizmom preniknutých a
+premoknutých voličov v sprievode Dávida a Leokádie. Slovom, celá
+príroda, celé povetrie dýchalo voľbami.
+
+Motýľ mal dosť a obrátil svoj let inam. Preletel záhradou do poľa a
+stade bežal poľnou cestou proti lesu ako mladý kopov, keď ho katáčom
+vyrežú. Tu v závoze čert, ani nie dobré, dotrepe Mimulusa, vyslúženého
+pisára, hrozného to loptoša, ale zato znamenitého korteša; piť znal ako
+dúha, bezočivý bol ako konská mucha, jeho otec sa pôvodne volal Mamlas,
+syn sa spravil Mimulusom, bol vám to kvietok, s nosom ako cactus
+speciosus.
+
+No tento fogmeg#POZ#238;(z maď.) Lapaj#-POZ# chytí Motýľa za ruku a
+nadŕľa sťa mlynské vrece; a len bozkávať. Chudák Motýľ nie súc priateľom
+tejto sorty priateľských dôkazov, bráni si tvár čerienčokom, zahaľujúc
+ju ním, ako robia včelári, aby im roj na nos nesadol. Namáha sa Mimulus
+všetkou kortešskou výrečnosťou, kvetnatými slovami chudáka Motýľa na
+pravú stranu nakloniť. On sa vzpiera, krúti hlavou. Ale trpký kalich
+ešte nebol naplnený. Pripáli z druhej strany Paštrnák, sused Motýľov,
+horlivý ľavičiak, chytí Motýľa za druhú, to jest ľavú ruku, a ťahá na
+svoju stranu.
+
+Rechtorova situácia horšila sa každým okamihom tým väčšmi, čím viac
+sokovia do ohňa prichodili. Motýľ už bol vytiahnutý ako struna. Ten ho
+myká, ten ho myká, každý k sebe. Boli by neboráka ako teľacinu rozpolili
+a jeho Lienku vdovicou urobili, ale na jeho šťastie popustili rukávy, on
+v zúfalstve trhne, a rukávy ostanú atentátom v rukách, vylúštené od
+samého pleca. Pravý pravej, ľavý opozičnej stránke. Kým sa prevalení
+korteši z prachu pozbierali, letel náš Motýľ bez rukávov ako žaludný
+horník, čiže filko, do lesa.
+
+Tam si v milej, tichej, velebnej prírode vydýchol a dal sa do zbierania
+bylín, bodliakov, volovho chvosta a všakového hmyzu. Na ten prežitý
+strach sa mu dobre vodilo, škatuľa bola dosť skoro plná a radostne sa
+usmievala táto dobrá chlapina svojmu nálezu. Pri návrate nazbieral
+pekných červených truskavcov, strčiac kytku za klobúk, ba ešte i jeden
+pekný motýľ s červenými krídlami musel ihlou pripätý miesto kokardy hore
+na klobúk.
+
+Takto vystrojený poberal sa Motýľ bez rukávov na úklon slnca domov.
+
+Nič mu nehatilo návrat. Práve chcel naraziť chodníček z cesty poza
+humná, vtom tu hrnie sa cestou hulákajúca banda výskajúcich voličov so
+zástavou, hudbou, fokošmi a tým podobnými paragrafmi, akoby zo zeme boli
+vyrástli. Možno ich zamyslený prírodoskúmateľ skorej nezbadal, teraz keď
+ho už mali na vidine, chcel chytro prepchnúť. Zavše napred, zavše nazad,
+nerozhodnutý, kam sa podieť, ubudlo času a vzbudil väčšiu pozornosť
+rozjarených buntošov.
+
+A už bol v brinde. Šereg#POZ#239;(maď.) Tlupa#-POZ# ho obľahol ako
+vrabce šíp. Pod slamenákom sa mu perlilo. Ešte raz chcel zutekať,
+vyložil nohu do výšky ako vytiahnuté mýtne brvno, ale už bol ohradený. V
+očiach sa mu menilo, pre krik a hrúzu nevidel nič, bol už v
+asfyxii#POZ#240;(gréc.) Bezvedomí#-POZ#, len hlas nešťastného Mimulusa
+ho prebral. A vskutku tento červený tiger --- ak ho nieto v prírode,
+tento bol taký --- teda tiger červený stál pred ním, držiac v ruke na
+žŕdke vydrapený Motýľov rukáv ako dáky herold.
+
+„Eh!" zavolá ukrutník, „chcel si piznúť? Plané svedomie ťa hnalo ako
+Kaina, čo vari svojho kmotra do vody strčil. He! Teraz sa priznaj, von s
+farbou, či si za Voloviča, či za Bujanoviča?"
+
+„Pusťte ma, pusťte ma, nebláznite sa! Ja nehlasujem za nikoho."
+
+„Že nie, a prečo nie?"
+
+„Preto, preto --- no lebo som zachrípnutý."
+
+„Oj, počkajte, pán rechtor, my vám vyramujeme gágor, budete i kričať,
+nielen hlasovať," ohlási sa jeden zamazaný uhliar so širokou ovisnutou
+gambou.
+
+„Teda nehlasujete?" pokračuje ďalej o valašku opretý Mimulus, „nuž a to
+červené pero, tá červená kokarda na tom slamenom dášku, či je to špik?"
+a fuk, už mal Motýľ jednu svojím vlastným rukávom na väzoch vylepenú.
+
+Ako vyhodený krpec s heslom „mor ho!", tak i toto bol signál nápadu a
+chudákovi rechtorovi bubnovali po chrbte ako cepami po holohumnici.
+
+Perún sám i so Svätovítom zná, ako dlho by tento vlastenecký nápad bol
+trval, ale vtom --- kde sa vzal, tu sa vzal --- vstúpil medzi svoje
+stádo pán Stiller, záslužný slúžny, ktorý ako kedysi Dávid zo sviniara
+kráľom alebo Dávidom --- stal sa slúžnym. Zástup kus utíchol.
+
+Ohnivým zrakom pozrie muž a obhajca práva na oprášeného Motýľa. Potom
+zahrmí naň: „Kto si ty?"
+
+Motýľ na to: „Sire, priusquam complexum accipiam sciam, ad hostem ne num
+ad judlium venerim."#POZ#241;(Sire = angl. pane; lat.) Pane! Prv ako
+prijmem objatie, nech viem, či prichádzam k nepriateľovi, alebo k
+riadnemu sudcovi#-POZ#
+
+„Nefrfoc mi po nemecky, kto si a čo si?" Drží ceruzku v hrsti a píše do
+knižtičky.
+
+„Bos, fortis et hostis."#POZ#242;(lat.) Vôl, mocný a nepriateľský#-POZ#
+
+„Darmo sa modlíte, pán rechtor, veru vám ani modlenie nepomôže," zavolá
+hrbatý hrebenár.
+
+„Vy ste rebelant a zradca krajiny," hrmí zase pán zaslúžený slúžny.
+
+„Rebelant," volá celý zástup, tešiac sa už budúcej vešačke.
+
+„Čo to máš, rebelant, v tej puške, aké proklamácie?"
+
+„Teľací pysk, dríšteľ, volov chvost a bodliak, pán slúžny."
+
+Slúžny na tieto slová päť ráz obledol a štyri razy sa začervenal.
+Nevýslovná zlosť mu hrdlom behala.
+
+„Pandúri, driapte mu opozičné rebelantské kokardy dolu a marš s ním do
+temnice! Naučím ťa móres. Ešte mne, vrchnosti, orgánu bezpečnosti,
+opováži sa pred toľkým národom, tu pod holým nebom do očú bryzgnúť, že
+je teľací pysk, volov chvost a podliak pán slúžny! Počkaj, však ty to
+odsedíš."
+
+Pandúri mu strhali jahody a červeného motýľa, krvavé to corpora delicti,
+a navzdor všetkému bráneniu sa, protestovaniu, strčili ho do akejsi
+kacery. Zberba s jasotom ho vyprevádzala až pred dvere väzenia.
+
+Lienka sa mala pominúť, smolila sa, ani sa už nesvietila. Motýľ stratil
+farbu, krídla mu už i tak boli korteši vyšklbali. Na jeho šťastie sa
+voľba o tri dni skončila vyvolením pravičiaka. Otvorili sa vráta a on
+zaletel k svojej svätojánskej Lienke.
+
+# Svet
+
+Že sa svet krúti okolo slnca, to už múdrejší odo mňa ľudia vedeli, sotva
+ale vedeli, prečo sa on krúti. --- No krúti sa on preto, lebo inšej
+roboty nemá. Ba čo by i robil, keby sa nekrútil? --- Ale čo robí, pýtate
+sa, slnce, ktoré od tých čias, ako sa mu Jozue zahrozil, prestrašené,
+ako prikuté na mieste stojí, a ako Galileo Galilei nohou dupol, viac sa
+ani nehne. Čo robí? Nuž svieti, a preto stojí, aby mohlo svietiť, lebo
+keby sa motalo, kyvotalo, svietiť by nemohlo, a potom by sa ani mesiačik
+nemohol po nociach túlať a zaľúbených ako vizikátor do slobodného
+vyťahovať. Hľa, ako to ide, všetko ruka v ruke, každé sebe vykázanú
+povinnosť plní.
+
+Tak i slnce svojej povinnosti zadosť činí, trebárs sa jeho dobrodenia
+vše účastnými nestávame. Hja, je to tak, ako keď sa medzi snáď od
+prírody dobrotivé srdce panovníkovo a medzi biedny ľud vtierajú dvorskí
+podlízači a sféru nad našimi hlavami zamútia --- tak sa i teraz medzi
+našu zemeguľu a majestátne slnko vkradli závistlivé hmly a zatieňujú nám
+obživujúce, obveseľujúce slnečné svetlo. Ach, však je hustá tá hmla, že
+by v čas núdze i kolesá ňou mastiť mohol.
+
+Žijeme časy, aké nepamätáme. Málo svetla, žiadna zima a veľa dažďa. Tam,
+kade takto rok sánky hvízdali, zelená sa tráva a byliny kvitnú: Viola
+canina, Rosa canina (psie časy, psie kvety), Galeopsis tetrahit, a tomu
+podobný hyd, Bellis perennis, Seleranthus annuus, Lamium maculatum,
+Calthapalustris Domine perillustris#POZ#243;(lat.) Pán veľkomožný#-POZ#.
+A to dvadsiateho decembra...!
+
+Teplo je, a leje sa, leje, akoby tá obloha mokrou randou bola, a svet
+namočený a napuchnutý je ako do kávy vpadnutá žemľa. Nieto tej dierky na
+kôrke našej zeme, z ktorej by voda necvrkala. Tak sa zdá, že sa náš svet
+veselšie okolo slnca točí; keď sa tuhšie točí, sa i väčšmi spotí, keď sa
+potí, viacej pije a viacej sa parí, a z tej pary povstávajú tie
+jednostajné husté hmly.
+
+Noc je únavne dlhá. O dvanástej na poludnie svitá, o jednej popoludní
+však mrká. Keby sa vám chcelo, zaspievali by sme si: Bús az idö, bús
+vagyok én magam is.#POZ#244;(maď.) Smutný je čas, smutný som aj ja#-POZ#
+--- No nedivíme sa, že Angličania následkom dlhotrvajúcich hmiel choriac
+na „spleen"#POZ#245;(angl.) Ťažkomyseľnosť#-POZ#, z dlhej chvíle sa
+vešajú. Svetlo dáva vzrast, dáva život, k tomu viazaná je i teplota. Kde
+niet svetla, prestáva ústrojný život. V lete 1870 zjavivšie sa hmly
+odvodzovali skúmatelia od smudiacich kdesi sopiek. Roku 1871 panujúce
+dažde pripisovali učení hvezdári voľajakým pehutinám, čo po slnečnej
+tvári preletovali. Keby pani Rixka v slnci bývala, nebolo by bývalo ani
+pehutín ani dažďa. Tohoročná mimoriadna teplota berie však vraj pôvod
+stade, že v slnci desaťtisíc míľ veľké magnéziové pole horí. No teraz to
+už vieme.
+
+Smejete sa? No smejte sa len. Či vám je nie známe, že už máme tak
+dokonalé stroje, že slncu až do žalúdka nahliadneme? A spectralis
+analysis je čo? Či nás tá neučí, z akých prvkov je slnce zložené?
+Analysis spectralis nás jasne a makavo učí, že od medi hore
+šľachetnejších kovov niet. Podľa našich kupeckých sociálnych pochopov je
+to ozaj smiešne. Teda ani meď, ani striebro, zlato, platina, nič, nič,
+len veksle bez podstaty. Hm! Musí to tam celkom tak vyzerať ako --- ako
+u nášho financministra, a tak môžeme povedať, že máme v Uhrách nebo na
+zemi. Z tohoto ohľadu by sme sa teda i bez slnca mohli zaobísť.
+
+Už čo sa týka slnečného svetla, hvezdári povedajú, že pochodí z ohňa, čo
+v slnci zúri, a preto myslíme, že tam hasičských spolkov nieto. A to je
+šťastie, lebo keby tých tam bolo, nebolo by ohňa, keby nebolo ohňa,
+nebolo by svetla, a keby nebolo svetla, bola by večná tma, a večná tma
+je --- fuj tajfel.
+
+No a predsa čo nám sľubujú a predpovedajú tí páni hvezdári, len
+počúvajte! Slnce vraj dnes---zajtra --- v reči astronómov je
+dnes---zajtra pár miliónov rokov --- vyhorí, vysoptí sa, a vyhasne ako
+nafúkaná masa alebo vyfajčená fajka a nastane hustá impertinentná tma.
+Náš svet a mesiac a všetky slnečné planéty budú bez svetla a teploty,
+ovesia nos a budú mrznúť, všetky výpary a vody obrátia sa na sneh a ľad,
+v tej podobe ako teraz na póloch a pokryjú zimným rúchom celú kôru zeme.
+Prestane každý ústrojný život, nastane hrozná, zimná, bezživotná a úplne
+tmavá pustota, akú pero opísať nevládze, ale akú si tvorivá fantázia
+predstaviť môže. Vskutku, ak sa vmyslíš do toho položenia, koža sa ti
+hrúzou ježí a predstaviac si živo túto strašnú elementárnu katastrofu,
+dušu ti malomyseľnosť prikvačí. Nuž ale my to cítiť nebudeme, nájde naše
+kosti udaná už katastrofa v tom položení, ako napríklad našla kosti
+treťohorného útvaru dynoteriov, mamutov atď., nota bene, ak nebude do
+tých čias súdny deň.
+
+Náš, až na reumu prechladnutý svet, mesiac a planéty, pozbavené svetla,
+budú ťapkať potme, potratia cesty, koncepty a rovnováhu, búšia jeden do
+druhého a v tej trme---vrme do slnca, na škvarku vypáleného. Tresk,
+plesk, myknú takou prudkosťou doň, že mu mozgy strasie a v očiach sa mu
+zaiskrí. Z toho sa slnce zažne a bude nasledovať predošlá rovnováha vo
+svetle, teplote, a nasledovne i v behu --- s malými povrchnými štrbinami
+a premenami.
+
+Ak sa komu z matičných členov podarí tú ľadovú dobu dožiť, a čo je
+hlavné, prežiť, nechže nezabudne o tom v Letopise správu podať. Bude to
+opis nadmieru zaujímavý.
+
+My ale, ktorí sa tej katastrofy nedočkáme, obráťme našu pozornosť k
+národnostnej otázke a k makovým opekancom.#POZ#246;Trochu sa síce
+opozdila táto besednica, ale opekance s makom by vari ešte i teraz nikto
+neohrdil#-POZ#
+
+# Pokrok umelectva, zázrak vedy
+
+Veda, ako výsledok slobodného vyučovania a učenia sa, pokračuje
+obrovsky, ako to dokázal profesor barón dr.Rokitanský, slaviansky
+výtečník, pri svojej inštalácii za rektora magnifikusa viedenskej
+univerzity, svojou rečou o „Lehr---und Lernfreiheite"#POZ#247;(nem.) O
+slobode vyučovania a učenia#-POZ#, kde sa teda každý --- čo, kde, ako a
+v akej reči učiť chce a vyučovať môže; kde sa pre jazyk prekážky
+nekladú, a pretože veda je kozmopolitická, školy a vzdelávacie ústavy sa
+nezatvárajú; tam, ale jedine tam môže veda a umenie napredovať, a
+napredujú.
+
+Kamkoľvek obrátime zraky, všetky nové vynálezy, ako toľké zázraky sveta,
+sú plody skúmavej vedy a zovrubná známosť síl prírody.
+
+Ďalekopisy, tesnopisy, železnice, balóny, parolode atď. Tam veda
+zostupuje do hlbín zeme a škrabe v črevách matky zeme. Inde zase škrabe
+veda v bahne nesmiernych hlbín mora, skúma drobulinké, pod ohromným
+stĺpom vodného tlaku žijúce foraminifery a praprvky všetkého organizmu,
+tajuplné protoplazmy. Pod oceánom ťahá lano, ktorým si Európa s Amerikou
+privoláva. Veda vytŕča pazúry do slnca, poťahujúc toto zázračné teleso
+pod chemickú skúšku akosti, keď i nie ešte retortou, aspoň spektrálnou
+lučbou. Ohromnou, ozaj telegrafickou rýchlosťou beží človečenstvo do
+budúcnosti, nesúc pred sebou blížiaci sa lúč vedy! A kde toho hranice?
+Kam to človek privedie v rukách nekonečného veku? Áno, ta to privedie
+zver ten, ktorého človekom menujeme, že sa po tisíc rokoch tak bude
+hanbiť za svoj pôvod, svojich terajších pradedov, ako sa teraz hanbia za
+pôvod z opice, a práve zväčša tí, čo svojou bytnosťou pôvod ten najviac
+dokazujú. --- Áno, tak sa to stane, ak medzitým súdny deň nepríde. Slnce
+totiž, ktoré už teraz má pehy, vyhasne, nastane zima, nastane tma a svet
+pôjde spať.
+
+Ale kde som zašiel? Rušeň mi z koľaje vyskočil, a teraz musím hľadieť
+upraviť ho v dráhu.
+
+Menej známe, ale pre človeka nie menej dôležité sú výdobytky na poli
+lekárskom, menovite chirurgie (ránhojičstva). Sám Prometeus, čo bábkam z
+hliny hotoveným nafúkal životného ohňa, i ten by teraz nad ránhojičskými
+fígľami zalomil rukami a pri rigoróze zbuktatovaný#POZ#248;(z maď.)
+Ktorého nechali prepadnúť#-POZ# s posmechom, so sapúnom musel by ísť do
+Skýtie nazad.
+
+Vypĺznuté vlasy vynahradí ti parochňa. Ak ťa pokúša škamravé oko, dáš si
+ho vyklať a zameniť skleným, živému tak podobným, že mu ani žmurkanie a
+fľochanie nebude chýbať. Ak ti uťal dáky Malchos v čestnej šarvátke
+ucho, prilepia ti miesto neho papierové, a to tak dokonale, i dva razy
+tak veľké, ako bolo pôvodné, že si s ním i muchy môžeš odháňať. Keď
+tvoje domáce rebro ustavičným sekaním zubov i ostatné cárachy z nich
+vykašlalo, podľa toho starého:
+
+Exspuit una duos tussis et una duos
+
+Nil adest quod agat tertia tussis habet#POZ#249;(lat.) Jedným zakašlaním
+vyhodil dva (roz. zuby), druhým tiež dva a na tretie zakašlanie mu nič
+nezostalo#-POZ# ---
+
+a tu ho máš, obratom ruky premenia ti pekelnú bránu tvojej súprahy v
+ružový háj, a kde predtým trčali hrdzavé palisády, blýskať sa budú
+skvelé perly v jej rapotajúcom holenderi. Konečne --- keď pri dákej
+volebnej afére, kde i tak mnohý o hlavu, ty o nos si prišiel --- nemaj
+za bánosť, dajtimibože, nepripúšťaj si ten kus nosa k srdcu, všetko sa
+to napraví a vyrovná. Toto nosové čižmárstvo --- zvláštne remeslo ---
+volajú Gréci, ale menovite lekári, rinoplastikou#POZ#250;(gréc.) Nosovou
+plastikou#-POZ#. --- Drevené nohy, ruky, predávajú hotovitelia
+chirurgických inštrumentov po celých skladoch na siahy, ako drevo. I
+špik je už dostať. Masti stoja napohotove proti všetkým možným
+slabostiam --- či by sa bez tých dalo myslieť, žeby sultánov prestol bol
+ešte obsadený?
+
+Triaška zachveje mi telom, keď na všetky tieto divy pomyslím. No na
+viedenskej výstave vidieť bolo človeka vo všetkých kúskoch rozloženého,
+ktorými sa --- nech len čo ako päsť súceho mäsa má na sebe --- môže
+človek vynahrádzať. Dajedni ľudia desiatu čiastku neberú na sebe do
+hrobu z toho, čím ich rodičia na svet vyštafírovali. Skelety budú v
+budúcnosti veľmi nedokonalé, pretože žiadna škoda pre anatómov a
+antropológov, keď mŕtvoly páliť budú.
+
+Malú, ale --- úfajme --- živú vzorku takejto ľudskej kompozície podáme v
+nasledujúcom fakte. Kňaz požehná fúziu delikátneho, k vyššej triede
+patriaceho zaľúbeného páru. On černovlasý, zdvorilý, elegantného držania
+švihák, ona perloústa, vnadná beluša. Po odchode hostí utiahli sa
+fuzionalisti do svojho Einkammersystému; a tu začne sa rozklad, aký
+vídavame len u hodinára, rozoberajúceho staré cibule.
+
+Bezškvrnné dve postavy, Apollo a Venuša, pripravujú sa k odpočinku.
+
+Mladý zať chytí sa za hlavu, a fuk --- kotúľa sa na stolíku strojená
+parochňa, a on stojí s lesklým temenom ako vrch Baranovo nad Špaňou
+Dolinou. A ihneď pritúli sa k parochni velikánsky šiňon, a hlava Venuše
+zjaví sa v podobe moľami zožraného, vyplznutého grzna. --- Karol pichne
+pravým palcom do ľavého oka a vylúšti ho sťaby zemiak z obielky,
+vyložiac ho k hodinkám na tanier, kým zas Eusébia rozdrapiac ružové
+ústočká, vytiahne z nich dupľované hrable tridsať i dvoch sťa krištáľ
+bielych zubov a otvorené v podobe klepca pristrojí si ich na stoličku.
+Karol vyzúvajúc čižmy, odopne ľavú nohu od samého kĺbu a oprie ju o
+nočnú skrinku. Nad pohľadom jednonohého snúbenca zalomí Eusébia rukami
+--- a ako sa očakávať dalo, zamdlie. Karol zase nad tým zdesený, skacká
+ako Donato o jednej nohe k svojej holubici, chytí ju za ruku --- no
+pulzu nič a nič! Ruka studená ako ľad. V zúfalstve chce si vlasy trhať,
+to nejde, bo parochňa na stole. Trhá, myká domnelú mŕtvolu za ruku, vtom
+mu --- počúvajte --- ruka ostane v ruke, a Eusébia usmievajúc sa,
+vycerila by zuby, keby jej na stoličke neležali. Mladý zať ale položí
+strojenú ruku k zubom, a tak sa odohral výjav, ako kedysi medzi
+egyptskou kňažnou Bertreri, keď jej prebitý Pthamaj, miesto svojej ruky,
+ruku umrlca brata šanžíroval do pačičky.
+
+Z toho vidno, s akým málom človek spokojný byť môže, a z toho mála by sa
+ešte dačo dalo objednať.
+
+Pár rebier, kus pľúc a srdce, to pre zaľúbencov dosť. Žalúdok sa
+nežiada, a pečeň --- fabrika žlče --- tá práve a úplne môže vystať.
+Hlavu i tak obyčajne potratia. Dá sa to teda veľa zhospodáriť.
+
+V spojení s týmto chcem vyrozprávať čudný príbeh chirurgickej operácie.
+
+V istej podtatranskej, silnými chlapmi a neohrozenými priateľmi
+tvarohových pirohov obývanej obci v čas hodov poharušili sa trochu
+kmotor Mamľas s kmotrom Omáčkom. --- Mamľas kmotrovi vyklal oko, Omáčka
+kmotrovi odhryzol nos. Oba potom pospiechali k doktorovi Lesebuchovi.
+Múdry dr. Lesebuch, stojac vždy na výške bežnej vedy, sľúbil pomoc a
+pomohol im, hoci to nešlo tak chytro, ako to tu čítate.
+
+Dolu visiace oko odstránil a zamenil krásnym, umele zo skla strojeným.
+Malá chyba podbehla v tom, že pôvodné oko tmavočierne, strojené oko
+svetlomodré. A tak sa stal na výstrahu kešavým. Operácia darila sa
+výborne. Akonáhle huplo mu do očnej jamky, vykríkol radostne: „Vidím, na
+moj dušu vidím!" A skutočne videl, keď svoje prirodzené oko ---
+nezažmúril.
+
+Nové oko tlačí ako nová čižma, preto treba naň privykať; privyká sa ale
+tak, že sa spočiatku len za kratší, potom krescendo#POZ#251;(lat.) S
+rastúcou silou (čiže postupne)#-POZ# za dlhší čas v hlave ponecháva.
+Zavše sa vyberá, zavše vkladá, čo je pre dlhú chvíľu chorého veľmi
+zaujímavou zábavou.
+
+Konečne vyliečeného kmotra Omáčku dr. Lesebuch prepustil domov, ale s
+tým napomenutím, aby oko, akonáhle ho bude omínať, aby sa vyhol otlakom,
+na čas na rekreáciu odložil na stranu.
+
+S návratom kmotra Omáčku nastala v rodine veľká radosť. Pri tejto
+príležitosti vydržiavať sa mal v druhý deň veľký olovrant.
+
+Hostí dostavilo sa mnoho.
+
+Omáčka vytiahol --- ako obyčajne --- večer oko, odložiac ho na
+odpočinok. Ráno sa pristrája, uhládza a šuchorí. Oko, aby mu ľahšie do
+jamky vliezlo a tam ho neomínalo, natrel mladým maslom, prichystaným na
+stolci.
+
+Vidúr, ako kopov, bol veľmi pažravý pes. Nevolaný, nepozvaný prituľká sa
+k stoličke, vykrúti kus hlavou, vypleští ružový jazyk a --- huj! ---
+Zazrie ho Omáčka, ale pozde, len čo mu oko na zuboch hrklo, už pán
+Omáčka nohy dvíha. Ale Vidúr tušiac, že spáchal ťažký oftalmologický
+hriech --- oculus domini custodit equos et canes#POZ#252;(lat.) Pánovo
+oko dozerá na kone a psov#-POZ# --- nedočkal, kým ho pán podošvou
+pošuchá, ale otvorenými dvermi a vrátami zaberal do šíreho sveta. ---
+Darmo volal za ním pán Omáčka: Ego sum, dominum cognoscite
+vestrum#POZ#253;(lat.) To som ja, poznajte svojho pána#-POZ# --- nič
+nepomohlo; s pánovým okom v žalúdku pošol durák!
+
+Prenasledovali Vidúra, vysielali za ním zatýkačov, ale Vidúr ďalej
+skáče, a čím ho viac prenasledovali, tým veselšie trtúlil tatam, kam ho
+viedli jeho tri oči.
+
+No, čo ale zatiaľ robiť? Očná jama musela sa dačím vyplniť. Pomohol mu
+vtip. Pohol rozumom a strčil si príhodnú červenú reďkev miesto oka.
+
+A tak predsedal kmotor Omáčka hostinnému stolu. Psa večer lapili, keď sa
+vylačnený prikradol k hostine. Chudáka zavrzli medzi dvere a tlačili,
+kým oko neuzrelo sveta, skade zahorúca vrátilo sa naspäť na svoje
+pôvodné miesto, do očnej jamky.
+
+Dopočujúc to kmotor Mamľas, veľmi sa posmieval, áno bolo sa čo obávať,
+že sa urazený Omáčka bude pomstiť, a to tak, že mu tiež dačo na oči
+vyhodí. Medzitým sa zase Mamľas vyhrážal, že dobre, že on kmotrovi
+Omáčkovi nos so všetkým činom odhryzne. V takomto smutnom položení
+nachodila sa táto ctená a duchovná rodina.
+
+Treba nám ale tiež vedieť, čo sa dialo i s kmotrom Mamľasom. Odhryznutý
+nos vyšmaril dr. Lesebuch von oknom, lebo nos nie je vraj vŕba, ani
+švábka, žeby tak --- mne nič, tebe nič --- korene pustil. Ten sa musí
+vraj vyrezať, lebo z čela lebo z horného ramena. „Pane, nedbám,
+skadekoľvek; najmilšie by mi, pravda, bolo, keby mi druhý dakto kus toho
+mäsa prepustil; nuž ale režte kde chcete," --- odvetil pacient.
+
+Svetaskúsený Štefan Pinka písal voľakedy z Dänemarku#POZ#254;(nem.) Z
+Dánska#-POZ#, že tam vraj jednému vojakovi, čo mu odstrelili vrchné
+pery, prilepili o ústa falatok#POZ#255;(z maď.) Kúsok#-POZ#, vystrihnutý
+koňovi zo stehna, a to sa vraj znamenite zrástlo, s tou jedinou
+neestetickou chybou, že kedykoľvek počul ten vojak ovos osievať, alebo
+kedykoľvek sa popri ovsenom poli prechádzal, sekalo mu gambou, a ona
+začala sa rehotať. Nepochybujeme ani najmenej v pravdivosť virkli
+kaprála#POZ#256;(z nem.) Skutočného desiatnika (v protive k
+titulárnemu)#-POZ#, pána Pinku, ale pochybujeme predsa, žeby pán vojak a
+kôň v toľkej príbuznosti boli bývali až na jednostajnosť mäsa.
+
+No, ale poďme ďalej, vráťme sa k nášmu predmetu.
+
+Ako povedané, rinoplastika, to jest nosostrojenie, koná sa lebo v
+úradných kanceláriách, alebo v ránhojičských klinikách. My sa len s
+týmto posledným budeme zabávať. Rinoplastika sa alebo z čela alebo z
+horného ramena, ale vždy z toho istého tela vykonáva. Odmeria a vyreže
+sa toľký kus kožky od samého mäsa, koľko treba. --- Na odhryznutom nose
+sa krajky rany pekne vyrovnajú, občerstvia a tak sa potom od mäsa
+odlúštená koža prihne a pripevní o nosovú ranu. Ale medzi kožou a telom
+--- už či čelom, či horným ramenom, z ktorého bola odšmyknutá --- musí
+byť nepretrhnutá spojitosť, to jest musí sa úzky mostík nechať pre
+výživu; ináč by nos odkvicol, a len potom, keď novorodený nos k nosovej
+kosti už prirástol, môže sa ten mostík prerezať. Keďže z čela hotovený
+nos, hoci ľahšie prichodí pre chorého to zniesť, ohyzďujúci svor po sebe
+necháva --- umienil si doktor Lesebuch k tomu upotrebiť ľavé horné
+rameno.
+
+Kým sa taký nos prirastie, prejde pár týždňov, a cez dakoľko týždňov
+rameno na tvári pokojne držať je vec veľmi príkra, k tej sa iba privykať
+musí, a to prv, ako sa začne operácia.
+
+Za dva týždne teda držal kmotor Mamľas ľavé rameno kosom cez tvár
+naprázdno a privykol už úplne k tomu únavnému manévru. Vidiac krotkú
+spoľahlivú trpezlivosť Mamľasovu, prikročil dr.Lesebuch k operácii, čo
+sa mu i dokonale vydarilo.
+
+Operáciu samú líčiť nebudeme. Mnohých, ktorí bývajú druhými za nos
+ťahaní, dotklo by sa to nepríjemne. Pravdaže, nastolíme im tu ďalšie
+príbehy, udavšie sa pod časom liečenia.
+
+Chovu pacientovi varila žena. Všetko ubiehalo dobre.
+
+Osemnásty deň svojho pobytu v nemocnici sa mu žena kdesi dlho
+zaklebetila. Mamľas --- lačný, a obed nechodil. Nešeredne šomral popod
+pazuchu. Konečne a dosť pozde, bohužiaľ pripozde, dopáli žena s
+nešťastnými pirohmi. Pirohy, ako známo, nesmierne miloval.
+
+Strčí prvý --- a to piroh napuchnutý ako ropucha --- s veľkým chmatom do
+papule, popáli sa, trhne hlavou, a myk hlava bez nosa; rypák zmraštený
+vrátil sa na rameno. No, už je dobre!
+
+Bežali pre doktora. Čo sa stalo, už sa neodstane. Nos ešte nebol celkom
+prirastený, nuž, takhľa sa rozlúčil so svojím pánom. Doktor mu radil
+znovu hore rameno držať, že sa mu nos prirastie, ale kmotor sa
+zaprisahal, že on to ani za všetky svety viac nepodstúpi. A tak odtiahol
+nie s dlhým, ale s krátkym nosom domov.
+
+Ale na ramene vyrezanej kožke sa už raz zapáčilo byť nosom, a ona na
+svoju ruku vyvinula sa v správny nos, čo, pravda, kmotrovi Mamľasovi
+milé nebolo, keď sa mu tento adoptovaný nos strkal i tam, kde ho nebolo
+treba. Že túto akvizíciu nikomu na nos neobesil, rozumie sa.
+
+Práve druhý deň, keď Vidúr oko spreneveril, vybral sa kmotor Mamľas do
+božieho chrámu. Aby mu v tvári diera z nosa tak veľmi viditeľná nebola,
+držal si pod nosom kytku z muškátu a šťúbrika a zhrbený sedel medzi
+svojimi susedmi.
+
+Pod kázňou, keď pán farár najväčšmi horlil a farníci najsladšie
+driemali, na zapudenie sna a z peknej občianskej kostolnej obyčaje
+voľakto tam hen z tretej stolice pustil piksľu s tabakom do obehu. Sused
+Babala nešťastnou náhodou vyvráti pušku, tabak sa spráši, a to tabak
+žltý --- tu naraz začne v rukáve prskať a prskať. Mamľas hladká a čitká
+dlaňou rukáv --- no nieto pomoci. Farár zatíchne, hľadí mrzko na
+rušiteľa pokoja. Pohoršené obecenstvo sa prebúdza a Mamľas s kýchavým
+rukávom beží kostolom von.
+
+Omáčka na chóre má satisfakciu. Dusí sa v sebe, že mu až slzy z očú
+tečú. Nemajú si viac čo pod nos rýpať ani čo na oči vyhadzovať a žijú
+napozatým pri dobrej zhode.
+
+# Žena veľa znesie
+
+Zašiel som si muchy oháňať do pestrej prírody. Zaujímavá tá príroda,
+plná kúziel. --- Sadnem na skalu, bujným machom obrastenú. Z čoho ten
+mach rastie, z čoho sa živí? Však mu tá tvrdá, nepohostinná skala nedáva
+žiadnej poživy; či snáď z povetria? A veru z povetria. --- Z čoho žije v
+sedliackych chalupách nad stolom na motúzku visiaci netresk (sempervivum
+tectorum), či z povetria? Pravdaže.
+
+Na krok predo mnou vyrastá tohoročný klík smrekový a nesie prebodnutý,
+desať ráz od seba ťažší kus dreva. Stá tých klíkov uniesli by dohromady
+dvadsať kilogramov.
+
+Tamto v skale hadiace sa korene štiepajú zápole. Skade tá nevyspytateľná
+sila?
+
+A tamto zase podivne vytlačeným chodníčkom letí k svojej, pomerne
+ohromnej pyramíde spešný mravec, konskou rýchlosťou a nie naprázdno.
+Hore, vysoko nad hlavou, aby nezavadil, teperí on sám na päť milimetrov
+dlhú vetvičku, päťkrát takú dlhú a pomerne širokú, a na váhu berúc, iste
+desaťkrát takú ťažkú.
+
+Keby človek stál v pomere tej sily čo mravec, uniesol by vysoko nad
+hlavou pätnásť centov.
+
+No treba si to povážiť.
+
+A skade teda tá sila? --- Tak som rozmýšľal, ako maličké tvory prevyšujú
+našu schopnosť znášania tiarch a nerestí, keď tu zrazu, akoby z buka
+padol, zjaví sa predo mnou môj známy Klepkár.
+
+„Ach, kdeže ste sa vy tu vzali?"
+
+Včerajšie noviny náramne rozdráždili jeho myseľ. Samé neprávosti,
+surovosti, utiskovanie, šliapanie zákonov ľudských, božích, prírodných.
+--- V prírode v týchto prípadoch najskôr okreje, lebo príroda netrpí
+nezákonitosť, a čo sa pácha proti jej zákonom, to iste i pomstené bude.
+Namrzený nechal doma ženu mlieť kávu a vybral sa na lúku, blízko tu v
+susedstve. Leží ona na výšine, na sever obrúbená tmavým lesom, na juh
+výzor voľný do viac žúp.
+
+Ta teda bežal do voľnej prírody, nekalenej intrigami; tam je vznešený
+pokoj, pravda a dôstojnosť. Tam vo velebnej tíšine ukojí sa jeho
+rozpálená myseľ.
+
+Lúku mu kosili, a to je zábava znamenitá:
+
+#POEZIA#
+
+#I#Brúsme, chlapci, brúsme kose,
+
+ta sa, kosiť v rannej rose!#-I#
+
+#-POEZIA#
+
+Dych mu voľný, prsia sa mu dmú, oči sa mu smejú.
+
+Vystúpi na lúku, oproti neho koliba. V jednom rade kosia chlapi
+„šuch---šuch". Zavše jeden, zavše druhý zaostáva, vystrie sa, utrie
+rosnou trávou blýskavú kosu a „kišink---kašank" prepletá po nej oslou.
+Pod smrekom na koreni jeden, čo kosou do žabice zaťal, „pim---pim---pim"
+pokúva ju kladivkom.
+
+Ale v kolibe --- ktože tam pokúva? --- Z koliby čuť prenikavý krik... Či
+snáď spev hrabáčok? Ej, nespieva --- ale píska: „Jaj, jaj, jaj, ratujte
+ma!"
+
+Klepkár preľaknutý pobehne a už na tisíc krokov od samého dejiska bolo
+zreteľne slúchať --- ako debnár keď sud obíja --- päsťami po chrbte
+búchať. Každý jeden buchnát zamrel temným ohlasom v tieňavom lese.
+
+Beží bližšie. Tu muž ženu za vlasy špedíruje von z koliby, akoby
+obmedzený priestor zameniť chcel širším poľom v krásnom okolí. V
+manželskom diele rezko pokračuje. Žena, úbohá žena, zvíja sa na zemi.
+
+Pán Klepkár, vycvičený člen hasičského zboru, popadne senné vidly, ženúc
+sa skokom oproti hroznému bubeníkovi.
+
+Za slušné pokladám tu hneď vysvetliť pohnútku, prečo manžel švargal po
+žene päsťou ako pobijačkou.
+
+Zuzka, chudiatko, ináč znamenitá žena, stála v neprekonateľné
+priateľských pomeroch k špiritusu. A tu --- no čert nespí --- akosi
+náhodou v kolibe drgla sa o krpku, pritisla sa k nej, prilipla o ňu,
+ocengala sa z nej. Klátilo ju z boka na bok ako topoľ v búre. A tu muž
+toľký rámus narobil, a prečo? No pre nič, pletka --- samá závisť!
+
+„Jano! --- Hrmen bohov, zahlušíš si ženu!" zahučí pán Klepkár s
+vytrčenými vidlami. „Pustíš ju? Pozri, naskutku ťa kolem!"
+
+„Nuž a čo sa ja bojím vašej koliky?" odpovie Jano, a to hlasom, ktorý
+zrejme poukazoval na to, že i on do tej krpky zavadil. Chlapisko ako
+veža, opustiac docupkanú ženu, vyvalí oči na Klepkára a desať tvrdých
+prstov ako drieňové cepíky proti nemu vystrúc, zahrmí dalej: „Práve som
+v robote, hlaďteže --- žena je moja --- nemiešajte sa --- berte sa nabok
+--- lebo prisahám hore dolinou --- ešte i pre vás zvýšilo."
+
+No, to bolo zreteľné. Okrem hlasu bolo Janovi i z očí čítať, že z teórie
+ľahko prestúpi k činu.
+
+Pán Klepkár, človek múdry, no a múdrejší vše popúšťa --- tak robí i vôl,
+keď ho mäsiar po hlave opálil --- zložil zbraň, kapituloval, zmenil
+front a húpal rýchlym krokom kopišlakom#POZ#257;Spiatočným krokom (proti
+smeru šľaku)#-POZ# nazad do objemu tieňavých stromov.
+
+Ale tigrový Jano ešte potom dlho klial a hromžil ako zlé v oblaku.
+Obročená Zuzka niesla v tichosti všetko, čo jej plnou mierou Jano
+nakladal. Odfukovala si v pokosoch.
+
+To sa stalo včera. Dnes vyjde zas na lúku, kus ostýchavejšie než včera.
+Veselý spev rozlieha sa lúkou i lesom. Prvú, čo zazrel pán Klepkár
+hrabať, bola chatrná ženička Zuzka, svieža a čerstvá sťa lastovička.
+Spievala si plnými prsami:
+
+#POEZIA#
+
+#I#Keď chceš pánom žalovať,
+
+musíš sebou dary brať:
+
+morky, husi, prasatá,
+
+a tie mastné kurčatá.#-I#
+
+#-POEZIA#
+
+„Nuž, Zuzka, akože je?"
+
+„Ďakujem, ako pri práci, dobre."
+
+„Bá? A Jano je kde?"
+
+„Au, kde je. Sedí, darebák."
+
+Pán Klepkár pristúpi k Janovi. Ten sedí na pniaku odudlený, hlavu
+trímajúc v obidvoch rukách o koleno opretých.
+
+„Jano, nuž a kosiť?"
+
+Jano krúti hlavou. „Nemôžem, päste ma od včera bolia," odvetí s kyslou
+tvárou a ukáže mi opuchnuté päste.
+
+„To je nátura!" vzdychne si pán Klepkár.
+
+No je, pomyslím si ja. To neznesie ani mravec, ale ani slon.
+
+# Alopatia tres faciunt collegium
+#POZ#258;(lat.) Traja tvoria spoločnosť (v právnom zmysle)#-POZ#
+
+Každý človek musí zomrieť, a to dvojakým spôsobom môže urobiť: lebo bez,
+alebo s lekárskou pomocou. Toto sa deje systematickým, tamto
+nesystematickým spôsobom. Kto teda poriadne, systematickým spôsobom, to
+jest toľko, ako s lekárskou pomocou (ope artis#POZ#259;(lat.) Pomocou
+umenia#-POZ#) chce z tohoto biedneho sveta do blahých krajov prestúpiť,
+tomu nakrátko podám tri najhlavnejšie spôsoby, akými systematicky môže
+zísť zo sveta. A tie sú: homeopatia, hydropatia a alopatia.
+
+Kto rojčí za homeopatickým, to jest kašičkovým liečením, to jest
+dunstovým (dunstom nazývajú Nemci najdrobnejší brok, a stade porekadlo:
+„Er macht ihm einen blauen Dunst vor")#POZ#260;(nem.) Obalamutil ho
+(dosl. ukázal mu modrý drobný brok)#-POZ# --- toho jednoducho odkazujem
+na homeopatické výsledky na Dolnej zemi roku 1863 a v Orave roku 1864/5,
+kde --- pretože pánboh tie kraje homeopatiou navštívil --- ľudia hladom
+mreli. Roku 1864, keď u nás seno dosiahlo neslýchanú cenu, štyri zlaté
+r.č., ja som --- okolnosťami prinútený a homeopatickou literatúrou
+povzbudený --- svoje dve skromné paripy vzal tiež do homeopatickej kúry.
+Seno som potencíroval#POZ#261;(lat.) Zmocňoval#-POZ#; vezmúc z neho päť
+funtov, zmiešal som ho s piatimi funtami slamy; z tejto miešaniny
+vytiahnuc päť funtov, zase som to s čistou slamou pomiešal a z tohoto
+zase päť funtov vzal a tak ďalej pokračoval podľa pravidiel až do
+desiatej potencie, a rezultát tejto desiatej sine
+potentia#POZ#262;(lat.) bez potencie#-POZ# predkladal som tátošom. Ale
+nevďak! Keď moje paripy --- ako ten cigánsky kôň, už---už mali ku
+homeopatii privyknúť --- padli na impotenciu, čiže malomocnosť ako
+nevinná obeť systematického homeopatického zachádzania. To ma
+skonfundovalo, a naďalej odstupujem od podobnej kúry. A to je teda
+experiment homeopatický.
+
+Hydropatia. --- Kurujme sa vodou a buďme si sami lekármi, ako u mormonov
+každý môže byť kňazom. Je to naozaj lacná a lačná kúra, a len to mi je
+divné, že náš Hospodin nestvoril nás hneď ako číky a raky vo vode, kde
+by sme spásonosný liek vždy mali vôkol seba, v ňom žili, dýchali, vôbec
+by sme sa vždy v tom elemente pohybovali.
+
+Ba už som bol na tom, keď sa vlani plané a drahé vína urodili, že sa do
+vody, to jest do náručia hydropatie hodím, ale dobré banskobystrické
+víno ma od tejto samovraždy zachovalo. Nuž a dobre tak bolo, lebo som
+ešte --- a to dosť divné --- v žiadnom prírodopise nečítal, že sa človek
+od koňa, somára, vola vôbec nerozumného zvieraťa líši hlavne tým, že
+nepije, ako napríklad teľce, výlučne vodu, ale víno, pivo, roztopčín
+atď., a jedine vtedy, keď v týchto exceluje, tamtým rovným sa stáva. ---
+Nuž a potom, či je ozaj tá voda tak neutrálna, akou ju vyhlasujú? --- No
+nie! Voda nastvárala svetu omnoho viac škody, ako víno alebo pivo.
+Prečože --- kérem alášan#POZ#263;(maď.) Prosím ponížene#-POZ# (sit venia
+ver bo#POZ#264;(lat.) Nech je odpustené (to slovo), s odpustením#-POZ#)
+--- prečože, reku, vymysleli wassrdichte čižmy, wassrdicht
+kabát#POZ#265;(nem.) Nepremokavé čižmy, nepremokavý kabát#-POZ#, klobúk
+atď. a iné vasrdité veci; prečože hovoria, že je voda ani v čižme nie
+dobrá, keď je voda nie škodná? Či je ona snáď v hlave, v prsiach, bruchu
+a v koži dobrá? Či je snáď prospešná, keď básnikove mozgy rozmočí,
+spisovateľove články zaplaví? Či je voda vítaná, keď z očí prúdi, z nosa
+kvapká a keď sa kútikmi leje, keď z kože cincúrom vyviera? Kto mi to
+podvráti, že sa viacej ľudí utopilo vo vode ako vo víne, pive alebo
+pálenke? Hej, domini vodnatí kolegovia! Vy, čo sa na potvrdenie vášho
+učenia vodoliečby o Sväté písmo opierate, či ste sa nedočítali, že keď
+boh chcel trestať hriešny, bezbožný svet, vypustil za štyridsať dní
+všetky nebeské fľúdre, hydropatiou ho navštívil a vytopil? Či to bola
+voda neutrálna? Prečo to neurobil vínom? Ba práve pánboh z vín
+zničujúcej duše jediného muža --- Noema, ktorý sa, rogo humillime, práve
+prvý dobrým vínom podfrcol, pred smrťou vody zachránil. No, čo na to?
+
+Hovoríte, že voda neutrálna! Čert z pekla je neutrálny, nie voda!
+Vysvetlím to príkladom. Takých, čo robiť nechcú, čo na konto druhých
+radi dobre žijú, darebákov, ako napríklad u nás sú mnohí bankrotníci,
+tých v Belgii nasledovne kárajú a nútia do práce. Zavrú ho do izby, v
+tej izbe stojí pumpa, z vrchu steny však neprestajne priteká voda. Keď
+darebák nepumpuje, vyrastie mu voda až po ústa, a tak potom už len
+usilovne pumpuje, aby sa nezalial. Keď sa táto procedúra denne opakuje,
+o krátky čas ten panák navykne na robotu len milá vec! Nuž ale keby tá
+voda neutrálna bola, či by ten darebák tak ochotne pumpoval? No, nie!
+
+Ďalej hovoria páni mokrí kolegovia, že sa človek má zdržiavať mäsitého
+pokrmu. Pominúc tu Starý a Nový zákon, ktorým by ľahko dokázal odporné,
+odkazujem vás na sústavu človeka a jeho prírodnú ústrojnosť. Či má len
+trávu jesť? Či má snáď zuby, ako krava, len naspodku, či má krkové
+zväzky --- „ligamentum nuchae"--- ako hoviadko, aby mohol štvornožky s
+ovisnutou hlavou novosvetku pošklbovať? A skutočne bol by pekný,
+zaujímavý pohľad vidieť na prechádzkach slečnu a gavalierov šklbať
+lopúchy a púpavu.
+
+Držte sa teda alopatie! Alopatia má svoje historické právo, ona
+rozkazuje a používa všetko, čo nad, na a pod zemou jestvuje: horké,
+sladké, kyslé, hladké, chladné, mäkké, teplé, ľahké, vrelé, mokré,
+tvrdé, ťažké, suché, ostré, svetlé, tmavé. Netrpí žiadneho dualizmu, ale
+je skôr konfederácia všetkých homeo---, hydro--- a vinopatií,
+semelkúry#POZ#266;(nem.) Žemľovej liečb#-POZ#, baumnichtgscheidtizmu
+(nový nástroj suplírovať vody) atď.
+
+Alopatia je omnibus, starý peň, z ktorého všetko vzrastá; avšak ako
+druhé stromy, tak i on, navštevovaný býva húsenicami, motýľmi, chrústmi.
+Keď jedna lebo druhá ratolesť zájde ďaleko, tá zahynie, a šťava sa
+vracia do pňa. Zná ona dobre, že človek nie z kašičiek, ani nie jedine z
+vody pozostáva, a preto podáva mu všakové lieky. To je alopatia,
+dilectissimi#POZ#267;(lat.) najctenejší#-POZ#. Ani Jób si vodou chrasty
+neliečil, ba ani anjel nehojil Tobiášovi slepé oči homeopatickými
+guľôčkami, ani sprchou, ani magnetizmom, ale olejom, bezpochyby ---
+rybacím. Z tohto všetkého vysvitá, že kto systematicky, to jest pomocou
+lekára chce zomrieť, nech sa oddá pokojnou mysľou do rúk alopatických,
+lebo, pravdaže, veselšie je s frankfurtskou viršľou v žalúdku stúpať na
+druhý svet, ako sa utopiť alebo hladom umrieť. Tantalos, hľa, prešiel
+obe kúry: trčal vo vode až po bradu a s diétnymi jablkami koketoval, a
+žije, pravdaže len v pamäti ľudskej, i to ako príklad strašných trápení.
+Tantalos by sa rád bol zbavil hydropatie, keby mu bola stála k službám.
+
+Teda my, alopati, vyhodíme vás homeopatov na lopate ta do Hladomeru a
+hydropatov k morskému oku, tam vyše Malachova. Vivat allopathia, pereat
+mundus#POZ#268;(lat.) Nech žije alopatia, nech zhynie svet. (Premena
+porekadla Vivat justitia, pereat mundus = Nech žije spravodlivosť, nech
+zhynie svet.)#-POZ#!

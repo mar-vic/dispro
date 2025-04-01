@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Argumenty",
+        "publisher": "Tranoscius",
+        "pub_place": "Liptovský Mikuláš",
+        "pub_date": "1993"
+    },
+    "firsted": {
+        "pub_date": "1932"
+    },
+    "authors": [
+        {
+            "first_name": "Martin",
+            "last_name": "Rázus",
+            "birth_date": "1888",
+            "death_date": "1937",
+            "ref": "viaf:56641816"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

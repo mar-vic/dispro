@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "Na jarmok!",
+        "publisher": "SVKL",
+        "pub_place": "Bratislava",
+        "pub_date": "1957"
+    },
+    "firsted": {
+        "pub_date": "1924"
+    },
+    "authors": [
+        {
+            "first_name": "Martin",
+            "last_name": "Kukučín",
+            "birth_date": "1860",
+            "death_date": "1928",
+            "ref": "viaf:19713382"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}

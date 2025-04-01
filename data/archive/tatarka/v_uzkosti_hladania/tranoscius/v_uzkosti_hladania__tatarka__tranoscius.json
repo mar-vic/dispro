@@ -1,0 +1,29 @@
+{
+    "language": "slk",
+    "editor": "Marek Vician",
+    "eltec_edition_str": "ELTeC edícia",
+    "srced": {
+        "title": "V úzkosti hľadania",
+        "publisher": "Tranoscius",
+        "pub_place": "Liptovský Mikuláš",
+        "pub_date": "1997"
+    },
+    "firsted": {
+        "pub_date": "1942"
+    },
+    "authors": [
+        {
+            "first_name": "Dominik",
+            "last_name": "Tatarka",
+            "birth_date": "1913",
+            "death_date": "1989",
+            "ref": "viaf:64028175"
+        }
+    ],
+    "languages": [
+        "slo"
+    ],
+    "encoding_lvl": "eltec-1",
+    "gender": "M",
+    "canonicity": "unspecified"
+}
