@@ -1,2 +1,12 @@
 #+TITLE: Digitálna zbierka slovenskej prózy (prípadová štúdia)
+
 * Opis výskumného projektu
+* Technologické minimum
+** Linux
+** Pandoc
+** Python, Lua
+** HTML, CSS, Javascript
+** TEI Publisher
+* Digitalizácia
+* Kódovanie (TEI)
+* Prezentácia (TEI Publisher)

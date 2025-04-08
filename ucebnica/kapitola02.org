@@ -1,2 +1,14 @@
-#+TITLE: Digitálna zbierka slovenskej prózy (prípadová štúdia)
-* Opis výskumného projektu
+#+TITLE: Nástroje a metódy digitálnych humanitných vied
+
+* Textová analýza a počítačová lingvistika
+- Dolovanie textov a automatizované spracovanie prirodzeného jazyka
+- Stylometria a pripisovanie autorstva
+- Analýza sentimentu a modelovanie obsahu
+* Digitálne archívy a kultúrne dedičstvo
+- Digitalizácia
+- Metadáta, štandardy a ontológie
+- Digitálne knižnice a repozitáre
+* Dátová vizualizácia
+- Základy dátovej vizualizácie
+- Sieťová analýza a mapovanie sociálnych sietí
+- Geografické informačné systémy (GIS) a ich použiie v humanitných vedách

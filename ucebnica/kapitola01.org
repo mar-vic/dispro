@@ -1,2 +1,37 @@
-#+TITLE: Digitálna zbierka slovenskej prózy (prípadová štúdia)
-* Opis výskumného projektu
+#+TITLE: Základy digitálnych humanitných vied
+
+* Úvod do digitálnych humanitných vied
+** Definícia DH
+** História DH
+** Vzťah DH a tradičných humanitných vied
+* Ústredné teórie a pojmy
+** Interdisciplinarita v DH
+- Humanitné disciplíny (literatúra, história, filozofia, umenie, lingvistika)
+- Výpočtové metódy (programovanie, dátové modelovanie, strojové učenie)
+- Knižničné a informačné vedy (metadáta, digitálne archivovanie)
+- Sociálne vedy
+** Digitálna kultúra
+- Od tlače k digitálnym médiám
+- Hypertext a interaktivita
+- Sociálne médiá
+** Počítačový obrat v humanitných vedách
+- Rozpoznávanie vzorov a algoritmizácia
+- Dátové modelovanie
+- Programovanie a automatizácia vo výskume
+** Dáta, text a reprezentácie
+- Text ako dáta (literárne korpusy, historické dokumenty …)
+- Audiovizuálne dáta (digitalizované orbazy, filmové archívy …)
+- Metadáta a štruktúrované dáta (bibliografické záznamy …)
+** Kódovanie textu a digitálna reprezentácia
+- Text Encoding Initiative (TEI)
+- Optické rozpoznávanie znakov (OCR) a digitalizácia
+- Korpusová lingvisitka a digitálna analýza textov
+** Etika a kritický prístup v DH
+*** Etické aspekty DH výskumu
+- Súkromie a dátová bezpečnosť
+- Zaujatosť (bias) v digitálnych nástrojoch a AI
+- Duševné vlastníctvo a digitáne práva
+*** Kritické DH
+- Postkoloniálna a feministická prespektíva v DH
+- Kritkícké štúdium algoritmov (napr, kto a pre koho navrhuje algoritmy)
+- Digitálna pracovná sila a mocenské štruktúry
