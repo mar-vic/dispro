@@ -1,0 +1,424 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode,}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  titlepage,
+  openright,
+  DIV=calc,
+  toc=listof,
+  listof=nochaptergap]{scrbook}
+\usepackage{amsmath,amssymb}
+\usepackage{setspace}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[a4paper,bindingoffset=0mm,inner=30mm,outer=30mm,top=30mm,bottom=30mm]{geometry}
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+% definitions for citeproc citations
+\NewDocumentCommand\citeproctext{}{}
+\NewDocumentCommand\citeproc{mm}{%
+  \begingroup\def\citeproctext{#2}\cite{#1}\endgroup}
+\makeatletter
+ % allow citations to break across lines
+ \let\@cite@ofmt\@firstofone
+ % avoid brackets around text for \cite:
+ \def\@biblabel#1{}
+ \def\@cite#1#2{{#1\if@tempswa , #2\fi}}
+\makeatother
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newenvironment{CSLReferences}[2] % #1 hanging-indent, #2 entry-spacing
+ {\begin{list}{}{%
+  \setlength{\itemindent}{0pt}
+  \setlength{\leftmargin}{0pt}
+  \setlength{\parsep}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+   \setlength{\leftmargin}{\cslhangindent}
+   \setlength{\itemindent}{-1\cslhangindent}
+  \fi
+  % set entry spacing
+  \setlength{\itemsep}{#2\baselineskip}}}
+ {\end{list}}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{\hfill\break\parbox[t]{\linewidth}{\strut\ignorespaces#1\strut}}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{\strut#1\strut}}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{american}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+% custom line spacing for quotes
+\BeforeBeginEnvironment{quote}{\setstretch{1}}
+\AfterEndEnvironment{quote}{\setstretch{1.5}}
+\hyphenation
+{%
+  Hyphenate-me-like-this
+  Dontyoueverhyphenateme
+}%
+% titlepage
+\subject{DISS. Nr. 1111\\~\\~\\}
+\publishers{A thesis submitted to attain the degree of\\DOCTOR OF SCIENCES\\(Dr. sc.)\\~\\~\\presented by\\~\\Eleanor Roosevelt\\MA, University of Example\\born on 11.10.1884\\~\\~\\accepted on the recommendation of \\~\\Prof. Dr. Anna Hall Roosevelt\\Prof. Dr. Elliott Roosevelt\\~\\2022}
+\uppertitleback{Title}
+\lowertitleback{\emph{Eleanor Roosevelt} is Fellow at the University of Example.}
+\dedication{\emph{For all humants of this world}}
+% typesetting options
+\clubpenalty=10000
+\widowpenalty=10000
+\raggedbottom
+% number figures consecutively and not chapter by chapter
+\usepackage{chngcntr}
+\counterwithout{figure}{chapter}
+\makeatletter
+\@ifpackageloaded{subfig}{}{\usepackage{subfig}}
+\@ifpackageloaded{caption}{}{\usepackage{caption}}
+\captionsetup[subfloat]{margin=0.5em}
+\AtBeginDocument{%
+\renewcommand*\figurename{Figure}
+\renewcommand*\tablename{Table}
+}
+\AtBeginDocument{%
+\renewcommand*\listfigurename{Figures}
+\renewcommand*\listtablename{List of Tables}
+}
+\newcounter{pandoccrossref@subfigures@footnote@counter}
+\newenvironment{pandoccrossrefsubfigures}{%
+\setcounter{pandoccrossref@subfigures@footnote@counter}{0}
+\begin{figure}\centering%
+\gdef\global@pandoccrossref@subfigures@footnotes{}%
+\DeclareRobustCommand{\footnote}[1]{\footnotemark%
+\stepcounter{pandoccrossref@subfigures@footnote@counter}%
+\ifx\global@pandoccrossref@subfigures@footnotes\empty%
+\gdef\global@pandoccrossref@subfigures@footnotes{{##1}}%
+\else%
+\g@addto@macro\global@pandoccrossref@subfigures@footnotes{, {##1}}%
+\fi}}%
+{\end{figure}%
+\addtocounter{footnote}{-\value{pandoccrossref@subfigures@footnote@counter}}
+\@for\f:=\global@pandoccrossref@subfigures@footnotes\do{\stepcounter{footnote}\footnotetext{\f}}%
+\gdef\global@pandoccrossref@subfigures@footnotes{}}
+\@ifpackageloaded{float}{}{\usepackage{float}}
+\floatstyle{ruled}
+\@ifundefined{c@chapter}{\newfloat{codelisting}{h}{lop}}{\newfloat{codelisting}{h}{lop}[chapter]}
+\floatname{codelisting}{Listing}
+\newcommand*\listoflistings{\listof{codelisting}{List of Listings}}
+\makeatother
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={Title},
+  pdfauthor={\href{eleanor.eoosevelt@domain.com}{Eleanor Roosevelt}},
+  pdflang={en-US},
+  colorlinks=true,
+  linkcolor={black},
+  filecolor={Maroon},
+  citecolor={black},
+  urlcolor={black},
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Title}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Subtitle}
+\author{}
+\date{}
+
+\begin{document}
+\frontmatter
+\maketitle
+
+\chapter*{Abstract}
+\begin{spacing}{1.5}
+Whereas recognition of the inherent dignity and of the equal and inalienable rights of all members of the human family is the foundation of freedom, justice and peace in the world. Whereas disregard and contempt for human rights have resulted in barbarous acts which have outraged the conscience of mankind, and the advent of a world in which human beings shall enjoy freedom of speech and belief and freedom from fear and want has been proclaimed as the highest aspiration of the common people. Whereas it is essential, if man is not to be compelled to have recourse, as a last resort, to rebellion against tyranny and oppression, that human rights should be protected by the rule of law. Whereas it is essential to promote the development of friendly relations between nations. Whereas the peoples of the United Nations have in the Charter reaffirmed their faith in fundamental human rights, in the dignity and worth of the human person and in the equal rights of men and women and have determined to promote social progress and better standards of life in larger freedom. Whereas Member States have pledged themselves to achieve, in co-operation with the United Nations, the promotion of universal respect for and observance of human rights and fundamental freedoms. Whereas a common understanding of these rights and freedoms is of the greatest importance for the full realization of this pledge. Now, therefore, The General Assembly, proclaims this Universal Declaration of Human Rights as a common standard of achievement for all peoples and all nations, to the end that every individual and every organ of society, keeping this Declaration constantly in mind, shall strive by teaching and education to promote respect for these rights and freedoms and by progressive measures, national and international, to secure their universal and effective recognition and observance, both among the peoples of Member States themselves and among the peoples of territories under their jurisdiction.
+\end{spacing}
+
+\begin{otherlanguage}{german}
+\chapter*{Zusammenfassung}
+\begin{spacing}{1.5}
+Die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder der Menschheitsfamilie ist die Grundlage für Freiheit, Gerechtigkeit und Frieden in der Welt. Die Missachtung und Verachtung der Menschenrechte hat zu barbarischen Taten geführt, die das Gewissen der Menschheit erzürnt haben, und das Streben nach einer Welt, in der die Menschen Rede- und Glaubensfreiheit sowie Freiheit von Furcht und Not genießen, wurde als höchstes Ziel des einfachen Volkes verkündet. Damit der Mensch nicht gezwungen ist, sich als letztes Mittel gegen Tyrannei und Unterdrückung aufzulehnen, ist es unerlässlich, dass die Menschenrechte durch die Rechtsstaatlichkeit geschützt werden. Es ist wichtig, die Entwicklung freundschaftlicher Beziehungen zwischen den Nationen zu fördern. Die Völker der Vereinten Nationen haben in der Charta ihren Glauben an die grundlegenden Menschenrechte, an die Würde und den Wert der menschlichen Person und an die Gleichberechtigung von Männern und Frauen bekräftigt und sind entschlossen, den sozialen Fortschritt und einen besseren Lebensstandard in größerer Freiheit zu fördern. Die Mitgliedstaaten haben sich verpflichtet, in Zusammenarbeit mit den Vereinten Nationen die weltweite Achtung und Einhaltung der Menschenrechte und Grundfreiheiten zu fördern. Ein gemeinsames Verständnis dieser Rechte und Freiheiten ist für die vollständige Verwirklichung dieses Versprechens von größter Bedeutung. Die Generalversammlung verkündet daher diese Allgemeine Erklärung der Menschenrechte als gemeinsamen Maßstab für alle Völker und Nationen, damit jeder Einzelne und jedes Organ der Gesellschaft, die sich diese Erklärung ständig vor Augen halten, sich bemühen, durch Unterricht und Erziehung die Achtung vor diesen Rechten und Freiheiten zu fördern und durch fortschreitende Maßnahmen auf nationaler und internationaler Ebene ihre allgemeine und wirksame Anerkennung und Einhaltung sowohl unter den Völkern der Mitgliedstaaten selbst als auch unter den Völkern der ihrer Hoheitsgewalt unterstehenden Gebiete sicherzustellen.
+\end{spacing}
+\end{otherlanguage}
+
+\renewcommand*\contentsname{Contents}
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+\setstretch{1.5}
+\mainmatter
+\chapter{Úvod do digitálnych humanitných vied}\label{sec:uvod}
+
+\section{Definícia DH}\label{definuxedcia-dh}
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+\section{História DH}\label{histuxf3ria-dh}
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+\section{Vzťah DH a tradičných humanitných
+vied}\label{vzux165ah-dh-a-tradiux10dnuxfdch-humanitnuxfdch-vied}
+
+\chapter{Ústredné teórie a pojmy}\label{sec:ustredneteorie}
+
+Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec
+facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis
+odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed
+bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum,
+lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue
+ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate
+vestibulum lorem. Fusce sagittis, libero non molestie mollis, magna orci
+ultrices dolor, at vulputate neque nulla lacinia eros. Sed id ligula
+quis est convallis tempor. Curabitur lacinia pulvinar nibh. Nam a
+sapien.
+
+\section{Interdisciplinarita v DH}\label{interdisciplinarita-v-dh}
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+Pellentesque dapibus suscipit ligula. Donec posuere augue in quam. Etiam
+vel tortor sodales tellus ultricies commodo. Suspendisse potenti. Aenean
+in sem ac leo mollis blandit. Donec neque quam, dignissim in, mollis
+nec, sagittis eu, wisi. Phasellus lacus. Etiam laoreet quam sed arcu.
+Phasellus at dui in ligula mollis ultricies. Integer placerat tristique
+nisl. Praesent augue. Fusce commodo. Vestibulum convallis, lorem a
+tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae
+lacus. Nullam libero mauris, consequat quis, varius et, dictum id, arcu.
+Mauris mollis tincidunt felis. Aliquam feugiat tellus ut neque. Nulla
+facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et
+dictum nunc justo sit amet elit.
+
+\subsection{Humanitné disciplíny (literatúra, história, filozofia,
+umenie,
+lingvistika)}\label{humanitnuxe9-discipluxedny-literatuxfara-histuxf3ria-filozofia-umenie-lingvistika}
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+\subsection{Výpočtové metódy (programovanie, dátové modelovanie,
+strojové
+učenie)}\label{vuxfdpoux10dtovuxe9-metuxf3dy-programovanie-duxe1tovuxe9-modelovanie-strojovuxe9-uux10denie}
+
+Pellentesque dapibus suscipit ligula. Donec posuere augue in quam. Etiam
+vel tortor sodales tellus ultricies commodo. Suspendisse potenti. Aenean
+in sem ac leo mollis blandit. Donec neque quam, dignissim in, mollis
+nec, sagittis eu, wisi. Phasellus lacus. Etiam laoreet quam sed arcu.
+Phasellus at dui in ligula mollis ultricies. Integer placerat tristique
+nisl. Praesent augue. Fusce commodo. Vestibulum convallis, lorem a
+tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae
+lacus. Nullam libero mauris, consequat quis, varius et, dictum id, arcu.
+Mauris mollis tincidunt felis. Aliquam feugiat tellus ut neque. Nulla
+facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et
+dictum nunc justo sit amet elit.
+
+Pellentesque dapibus suscipit ligula. Donec posuere augue in quam. Etiam
+vel tortor sodales tellus ultricies commodo. Suspendisse potenti. Aenean
+in sem ac leo mollis blandit. Donec neque quam, dignissim in, mollis
+nec, sagittis eu, wisi. Phasellus lacus. Etiam laoreet quam sed arcu.
+Phasellus at dui in ligula mollis ultricies. Integer placerat tristique
+nisl. Praesent augue. Fusce commodo. Vestibulum convallis, lorem a
+tempus semper, dui dui euismod elit, vitae placerat urna tortor vitae
+lacus. Nullam libero mauris, consequat quis, varius et, dictum id, arcu.
+Mauris mollis tincidunt felis. Aliquam feugiat tellus ut neque. Nulla
+facilisis, risus a rhoncus fermentum, tellus tellus lacinia purus, et
+dictum nunc justo sit amet elit.
+
+Nullam eu ante vel est convallis dignissim. Fusce suscipit, wisi nec
+facilisis facilisis, est dui fermentum leo, quis tempor ligula erat quis
+odio. Nunc porta vulputate tellus. Nunc rutrum turpis sed pede. Sed
+bibendum. Aliquam posuere. Nunc aliquet, augue nec adipiscing interdum,
+lacus tellus malesuada massa, quis varius mi purus non odio.
+Pellentesque condimentum, magna ut suscipit hendrerit, ipsum augue
+ornare nulla, non luctus diam neque sit amet urna. Curabitur vulputate
+vestibulum lorem. Fusce sagittis, libero non molestie mollis, magna orci
+ultrices dolor, at vulputate neque nulla lacinia eros. Sed id ligula
+quis est convallis tempor. Curabitur lacinia pulvinar nibh. Nam a
+sapien.
+
+\subsection{Knižničné a informačné vedy (metadáta, digitálne
+archivovanie)}\label{kniux17eniux10dnuxe9-a-informaux10dnuxe9-vedy-metaduxe1ta-digituxe1lne-archivovanie}
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+Aliquam erat volutpat. Nunc eleifend leo vitae magna. In id erat non
+orci commodo lobortis. Proin neque massa, cursus ut, gravida ut,
+lobortis eget, lacus. Sed diam. Praesent fermentum tempor tellus. Nullam
+tempus. Mauris ac felis vel velit tristique imperdiet. Donec at pede.
+Etiam vel neque nec dui dignissim bibendum. Vivamus id enim. Phasellus
+neque orci, porta a, aliquet quis, semper a, massa. Phasellus purus.
+Pellentesque tristique imperdiet tortor. Nam euismod tellus id erat.
+
+\subsection{Sociálne vedy}\label{sociuxe1lne-vedy}
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec
+hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl,
+tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque
+penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla
+posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras
+placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl.
+
+\chapter{Digitálna zbierka slovenskej prózy (prípadová
+štúdia)}\label{sec:dispro}
+
+\section{Opis výskumného projektu}\label{opis-vuxfdskumnuxe9ho-projektu}
+
+\section{Použité technológie}\label{pouux17eituxe9-technoluxf3gie}
+
+\begin{itemize}
+\tightlist
+\item
+  Linux
+\item
+  Python, Lua
+\item
+  Pandoc
+\item
+  HTML, CSS, JS
+\item
+  TEI Publisher
+\end{itemize}
+
+\section{Digitalizácia}\label{digitalizuxe1cia}
+
+\section{Kódovanie (TEI)}\label{kuxf3dovanie-tei}
+
+\section{Prezentácia (TEI
+Publisher)}\label{prezentuxe1cia-tei-publisher}
+
+%FIXME custom line spacing for appendix
+\setstretch{1}
+
+\listoffigures
+
+\chapter{Bibliography}\label{bibliography}
+
+\section{Sources}\label{sources}
+
+\phantomsection\label{refs_sources}
+\begin{CSLReferences}{1}{0}
+\end{CSLReferences}
+
+\clearpage
+
+\section{Literature}\label{literature}
+
+\phantomsection\label{refs_main}
+\begin{CSLReferences}{1}{0}
+\bibitem[\citeproctext]{ref-brown2016}
+Brown, Gordon, ed. \emph{The {Universal} {Declaration} of {Human}
+{Rights} in the 21st Century, a Living Document in a Changing World}.
+Cambridge, {[}New York{]}: Open Book Publishers ; NYU Global Institute
+for Advanced Study, 2016.
+
+\end{CSLReferences}
+
+\backmatter
+
+
+\end{document}

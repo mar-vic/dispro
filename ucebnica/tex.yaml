@@ -1,0 +1,16 @@
+filters:
+  - pandoc-crossref
+  - filters/multiple-bibliographies.lua
+  - filters/pandoc-quotes.lua
+input-files:
+  - 00.md
+  - 10_kapitola_1.md
+  - 20_kapitola_2.md
+  - 30_kapitola_3.md
+  - 40_Figures.md
+  - 50_Bibliography.md
+log-file: disprobook.log
+output-file: disprobook.tex
+pdf-engine: tectonic # wkhtmltopdf, weasyprint, prince, pdflatex, lualatex, xelatex, latexmk, pdfroff, context, tectonic
+to: latex
+toc-depth: 2
