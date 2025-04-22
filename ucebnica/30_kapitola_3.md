@@ -164,10 +164,113 @@ formátovania alebo k neželaným zmenám v rozložení textu.
 Napokon, pre projekty digitálnych humanitných vied, ktorých cieľom je publikovať
 alebo prezentovať texty na webe, prepojiť ich s metadátami alebo zabezpečiť ich
 plnotextovú vyhľadateľnosť a analýzu, sú súbory textového procesora jednoducho nevyhovujúce.
-Konverzia súborov .docx do štruktúrovaných formátov, ako je TEI XML alebo HTML,
+Konverzia súborov .docx do štruktúrovaných formátov
 si zvyčajne vyžaduje buď množstvo manuálnej práce alebo použitie nástrojov,
-akým je program Pandoc, prípadne vlastné skripty - ani tie však nie sú
-efektívne, ak nemá pôvodný súbor konzistentnú štruktúru.
+akým je program Pandoc, prípadne vlastné skripty - ani tie nám však nepomôžu, ak
+nemá pôvodný súbor konzistentnú štruktúru.
+
+Hoci teda formáty textových procesorov dominujú pri bežnom písaní a akademickom
+publikovaní, ich obmedzenia sa prejavia vo vzťahu k požiadavkám digitálnej
+humanitnej práce - konkrétne s potrebou modelovať, analyzovať a uchovávať texty
+bohatým a štruktúrovaným spôsobom. Práve tu ponúka XML (eXtensible Markup
+Language) presvedčivú a robustnú alternatívu. Je to jazyk navrhnutý na
+reprezentáciu informácií v štruktúrovanom, pre človeka a stroj čitateľnom
+formáte. Pri jeho návrhu sa kládol dôraz najmä na jednoduchosť, všeobecnosť a
+použiteľnosť v prostredí internetu[@extensible2025] a vyznačuje sa silnou
+podporou takmer všektých ľudských jazykov vďaka kompatibilite s Unicode
+štandardom.^[Ide o univerzálne kódovanie znakov určené na podporu celosvetovej
+výmeny, spracovania a zobrazovania písaných textov rôznych jazykov a technických
+disciplín moderného sveta.[@unicode2025]] Hoci mal jazyk XML pôvodne slúžiť
+najmä na reprezentáciu dokumentov, v súčasnosti sa extenzívne používa na
+reprezentáciu ľubovoľných dátových štruktúr,[@fennell_extremes_2013] napríklad
+tých, ktoré sa vyskytujú vo webových službách.[@whatisxml2025]
+
+## Sémantická jasnosť a explicitná štruktúra
+
+Jednou z najvýznamnejších výhod jazyka XML je schopnosť sémantického
+značkovania. Na rozdiel od súborov textových procesorov, ktoré používajú
+formátovanie predovšetkým na označenie vizuálnych prvkov, XML vyžaduje
+explicitné definovanie, čo jednotlivé časti textu vlastne predstavujú. Ak
+chceme, napríklda, v nejakom texte zaznamenať, že určitý reťazec znakov
+predstavuje meno autora, prostriedkami XML to dosiahneme tak, že danú pasáž
+uzavrieme v značke <autor>, ktorá má vopred definovaný význam.^[V tomto kontexte
+by mohlo ísť o význam "tvorca textu, ktorého je označený reťazec časťou"] Týmto sa
+stane rola daného reťazca v dokumente explicitná a jednoznačná.
+
+Táto jasnosť sa zreteľnejšie ukáže pri komplexnejších príkladoch. Historický
+dokument môže obsahovať vrstvené úrovne citácií, redakčných poznámok, odkazov,
+marginálií a autorských poznámok - každý z týchto prvkov možno presne reprezentovať
+označením pomocou prostriedkov XML. Vďaka tomu tak výskumníci môžu systematicky
+vyhľadávať prípady konkrétneho hovorcu, sledovať pomenované entity, identifikovať
+tematické vzory alebo rozlišovať medzi pôvodným textom a redakčnými zásahmi.
+
+XML tak slúži ako nástroj pre formalizované vyjadrenie vedeckej interpretácie.
+Zviditeľňuje štrukturálne a interpretačné rozhodnutia, ktoré humanisti často
+nechávajú v tradičnom písaní implicitné. To sa obzvlášť dobre zhoduje s cieľmi
+tvorby kritických edícií, vied o texte a archívnej práce, kde je prvoradá
+vernosť materiálnemu a intelektuálnemu kontextu.
+
+## Interoperabilita a opakovaná použiteľnosť
+
+Ďalšou kľúčovou výhodou XML je jeho interoperabilita. Keďže je nezávislý od
+výpočtovej platformy a riadi sa otvorenými štandardmi, súbory tohto formátu
+možno používať v širokom spektre softvérových prostredí, od databáz a webových
+aplikácií až po transformačné systémy a nástroje na vizualizáciu údajov.
+
+Súbor vo formáte XML možno napríklad transformovať na HTML súbor určený na
+publikovanie na webe, PDF vhodný pre tlač, ePub pre elektronické čítačky alebo
+dokonca JSON na integráciu do webových rozhraní. Tieto transformácie sa zvyčajne
+realizujú pomocou XSLT ^[XSLT (Extensible Stylesheet Language Transformations)
+je jazyk pôvodne navrhnutý na transformáciu dokumentov XML do iných XML
+dokumentov alebo iných formátov, ako je HTML, obyčajný text alebo formátovacie
+objekty XSL. Tieto formáty možno následne konvertovať do formátov, ako sú PDF,
+PostScript a PNG. Podpora transformácie JSON a obyčajného textu bola pridaná v
+neskorších aktualizáciách špecifikácie XSLT 1.0.] alebo iných transformačných
+"potrubí", čo umožňuje, aby jeden zdrojový súbor slúžil na viacero účelov bez
+vynakladania diplicitnej práce Toto je obzvlášť cenné pre dlhodobé vedecké
+projekty, ktoré sa môžu časom vyvíjať alebo meniť platformy.
+
+Okrem toho, keďže XML sa riadi konzistentnými pravidlami a možno ho overovať
+podľa schém, texty 
+
+
+
+zaručuje, že texty zostanú dobre usporiadané a vnútorne
+konzistentné. Vďaka tomu 
+
+
+je možné korpusy zakódované v
+XML oveľa lepšie opakovane používať - nielen pôvodnými autormi, ale aj inými
+výskumníkmi, knižnicami a inštitúciami, ktoré môžu chcieť získať prístup k
+údajom, rozšíriť ich alebo ich znovu použiť.
+
+
+
+
+meno autora nie je len
+reťazec textu písaného kurzívou (čo môže v rôznych kontextoch a pre rôznych ľudí
+znamenať odlišné veci), ale môže byť 
+
+
+
+je uzavreté v značke <author>, čím je jeho
+úloha v dokumente jednoznačná a jednoznačná.
+
+Translated with DeepL.com (free version)
+
+
+
+
+
+
+XML nie je len
+technický formát; je to metodologický prístup, ktorý umožňuje vedcom explicitne
+vyjadriť štruktúru a význam textov vo forme, ktorá je čitateľná pre človeka aj
+pre stroj. 
+
+Translated with DeepL.com (free version)
+
+
 
 XML (eXtensible Markup Language) je jazyk navrhnutý na reprezentáciu informácií
 v štruktúrovanom, pre človeka a stroj čitateľnom formáte. Pri jeho návrhu sa
