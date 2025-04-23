@@ -217,188 +217,84 @@ výpočtovej platformy a riadi sa otvorenými štandardmi, súbory tohto formát
 možno používať v širokom spektre softvérových prostredí, od databáz a webových
 aplikácií až po transformačné systémy a nástroje na vizualizáciu údajov.
 
-Súbor vo formáte XML možno napríklad transformovať na HTML súbor určený na
-publikovanie na webe, PDF vhodný pre tlač, ePub pre elektronické čítačky alebo
-dokonca JSON na integráciu do webových rozhraní. Tieto transformácie sa zvyčajne
+Súbor vo formáte XML možno napríklad transformovať do HTML formátu určeného na
+publikovanie na webe, PDF formátu vhodného pre tlač, formátu ePub používaného v
+elektronických čítačkách alebo
+dokonca do formátu JSON na integráciu do webových rozhraní. Tieto transformácie sa zvyčajne
 realizujú pomocou XSLT ^[XSLT (Extensible Stylesheet Language Transformations)
 je jazyk pôvodne navrhnutý na transformáciu dokumentov XML do iných XML
 dokumentov alebo iných formátov, ako je HTML, obyčajný text alebo formátovacie
 objekty XSL. Tieto formáty možno následne konvertovať do formátov, ako sú PDF,
 PostScript a PNG. Podpora transformácie JSON a obyčajného textu bola pridaná v
-neskorších aktualizáciách špecifikácie XSLT 1.0.] alebo iných transformačných
+neskorších aktualizáciách špecifikácie XSLT 1.0.[@xslt2025]] alebo iných transformačných
 "potrubí", čo umožňuje, aby jeden zdrojový súbor slúžil na viacero účelov bez
-vynakladania diplicitnej práce Toto je obzvlášť cenné pre dlhodobé vedecké
+vynakladania duplicitnej práce. Toto je obzvlášť cenné pre dlhodobé vedecké
 projekty, ktoré sa môžu časom vyvíjať alebo meniť platformy.
 
-Okrem toho, keďže XML sa riadi konzistentnými pravidlami a možno ho overovať
-podľa schém, texty 
+Okrem toho, keďže sa XML sa riadi konzistentnými pravidlami a súbory v tomto
+formáte môžeme validovať voči vopred definovaným schémam, je ľahké udržiavať
+texty dobre sformované a vnútorne konzistentné. Toto zabezpečuje opakovateľnú
+použiteľnosť a zdieľateľnosť korpusov pozostávajúcich z XML súborov - nielen
+pôvodnými autormi, ale aj inými výskumníkmi a inštitúciami.
 
+## Strojová čitateľnosť a výpočtová analýza
 
+Vďaka hierarchickej a na pravidlách založenej štruktúre XML, súbory v tomto
+formáte posyktujú ideálny substrát pre dištančné čítanie, stylometriu, sieťovú
+analýzu, modelovanie tém a ďalšie formy metód používané v digitálnych
+humanitných vedách. Vhodne anotované texty nám napríklad umožňujú ľahko
+zodpovedať otázky ako koľko ženských postáv hovorí v slovenských románoch z 19.
+storočia, ako často sa objavujú odkazy na určité miesta alebo ako sa mení
+štruktúra dialógov v čase. Na tieto typy otázok je takmer nemožné spoľahlivo
+odpovedať pri použití formátov textového procesora, ktoré nemajú vnútornú
+štruktúru potrebnú na to, aby boli vhodnými vstupmi pre automatizované
+spracovanie.
 
-zaručuje, že texty zostanú dobre usporiadané a vnútorne
-konzistentné. Vďaka tomu 
+Okrem toho možno dokumenty XML spracúvať pomocou širokej škály programovacích
+jazykov a knižníc určených na dolovanie textu a vizualizáciu údajov. Kombinácia
+s metadátami a externými súbormi údajov umožňuje textom zakódovaným v XML
+formáte stať sa predmetmi interdisciplinárneho výskumu, spájajúceho literatúru s
+históriou, geografiou a ďalšími oblasťami.
 
+## Transparentnosť a uchovávanie
 
-je možné korpusy zakódované v
-XML oveľa lepšie opakovane používať - nielen pôvodnými autormi, ale aj inými
-výskumníkmi, knižnicami a inštitúciami, ktoré môžu chcieť získať prístup k
-údajom, rozšíriť ich alebo ich znovu použiť.
+Keďže XML je čisto textový formát ^[Máme tu na mysli to, čo sa v anglickom jazyku
+    označuje ako "plain text", teda dáta, ktoré obsahujú len reprezentácie
+    znakov čitateľného materiálu bez ich grafickej reprezentácie alebo ďalších
+objektov (čísiel, s pohyblivovu desatinnou čiarkou, obrázkov, atď.) Niekedy sa
+    síce XML považuje za tzv. bohatý text ("rich text"), keďže okrem
+    reprezentácií znakov čitateľného materiálu obsahuje aj informácie o
+    štruktúre dokumentu, prípadne o 
+    čitateľného materiálu obsahuje obsahuje aj   ],
+vyznačuje sa transparentnosťou a trvácnosťou. Na rozdiel od proprietárnych
+formátov textových procesorov možno súbory v tomto formáte otvoriť a čítať v
+akomkoľvek textovom editore, v akomkoľvek operačnom systéme, bez špeciálneho
+softvéru. 
 
+Vďaka Zmeny v súboroch XML sa dajú presne sledovať pomocou systémov na kontrolu
+verzií, ako je napríklad Git, čo je obzvlášť užitočné v kolaboratívnom vedeckom
+prostredí. Každá úprava, doplnenie alebo oprava sa stáva súčasťou
+kontrolovateľnej histórie, čo umožňuje budúcim výskumníkom pochopiť vývoj
+digitálneho objektu.
 
+Okrem toho, keďže XML oddeľuje obsah od prezentácie, podporuje čistejšie
+pracovné postupy a znižuje riziko poškodenia údajov v dôsledku problémov s
+formátovaním. Prezentácia - či už pre web, tlač alebo mobilné zariadenia - sa dá
+spracovať nezávisle prostredníctvom súborov štýlov a šablón, pričom základné
+údaje zostanú nedotknuté.
 
+## Komunita a štandardy
 
-meno autora nie je len
-reťazec textu písaného kurzívou (čo môže v rôznych kontextoch a pre rôznych ľudí
-znamenať odlišné veci), ale môže byť 
+XML v digitálnych humanitných vedách ťaží zo silných komunít, najmä okolo TEI
+(Text Encoding Initiative), ktorá poskytuje dobre vyvinutý a vyvíjajúci sa
+štandard pre textovú vedu. TEI ponúka nielen rozsiahly slovník značiek pre
+širokú škálu textových funkcií - poskytuje aj dokumentáciu, príklady, nástroje a
+komunitu vedcov, editorov a vývojárov, ktorí aktívne podporujú jeho prijatie.
 
-
-
-je uzavreté v značke <author>, čím je jeho
-úloha v dokumente jednoznačná a jednoznačná.
-
-Translated with DeepL.com (free version)
-
-
-
-
-
-
-XML nie je len
-technický formát; je to metodologický prístup, ktorý umožňuje vedcom explicitne
-vyjadriť štruktúru a význam textov vo forme, ktorá je čitateľná pre človeka aj
-pre stroj. 
-
-Translated with DeepL.com (free version)
-
-
-
-XML (eXtensible Markup Language) je jazyk navrhnutý na reprezentáciu informácií
-v štruktúrovanom, pre človeka a stroj čitateľnom formáte. Pri jeho návrhu sa
-kládol dôraz najmä na jednoduchosť, všeobecnosť a použiteľnosť v prostredí
-internetu[@extensible2025] a vyznačuje sa silnou podporou takmer všektých
-ľudských jazykov vďaka kompatibilite s Unicode štandardom.^[Ide o univerzálne
-kódovanie znakov určené na podporu celosvetovej výmeny, spracovania a
-zobrazovania písaných textov rôznych jazykov a technických disciplín moderného
-sveta.[@unicode2025]] Hoci mal jazyk XML pôvodne slúžiť najmä na reprezentáciu
-dokumentov, v súčasnosti sa extenzívne používa na reprezentáciu ľubovoľných
-dátových štruktúr,[@fennell_extremes_2013] napríklad tých, ktoré sa vyskytujú vo webových
-službách.[@whatisxml2025]
-
-Pre digitálnych humanistov je XML viac ako len technický nástroj - je to metóda na vyjadrenie významu,
-štruktúry a vzťahov v texte konzistentným a transparentným spôsobom.
-
-Na rozdiel od textových procesorov, ktoré sa zameriavajú na vzhľad textu, XML sa zameriava na to, ako je text
-usporiadaný a interpretovaný. Umožňuje vedcom označiť text pomocou vlastných,
-popisných značiek, ktoré odrážajú vnútornú štruktúru textu. Tieto značky sú
-uzavreté v hranatých zátvorkách a sú v pároch - napríklad:
-
-Unlike word processors that focus on how text looks, XML focuses on how text is
-organized and interpreted. It allows scholars to mark up a text using custom,
-descriptive tags that reflect the text’s internal structure. These tags are
-enclosed in angle brackets and come in pairs—for example:
-
-    <title>The Cross and the Sword</title>
-
-This line tells both the human reader and the computer that “The Cross and the
-Sword” is the title of a work. Tags can represent a wide range of elements, such
-as:
-
-    <author>Ľudmila Podjavorinská</author>
-    <date when="1910">1910</date>
-    <placeName>Martin</placeName>
-    <quote>“Freedom must live in the heart before it lives on paper.”</quote>
-
-Each of these elements conveys semantic meaning—not just formatting. You can
-also nest elements to reflect more complex relationships, like a paragraph that
-contains a name and a date:
-
-    <p>In <date when="1923">1923</date>, 
-    <name>Jozef Cíger Hronský</name> 
-    published his second novel.</p>
-
-Every well-formed XML document consists of the following basic parts:
-
-- **Elements**: Named sections of content wrapped in opening and closing tags (<title>...</title>).
-- **Attributes**: Extra information about an element, written inside the opening tag (<date when="1923">1923</date>).
-- **Hierarchy**: XML is structured like a tree, with elements nested inside others to show relationships and structure.
-
-A minimal XML document might look like this:
-
-    <?xml version="1.0" encoding="UTF-8"?>
-    <novel>
-    <title>Jarné vody</title>
-    <author>Božena Slančíková-Timrava</author>
-    <date when="1914">1914</date>
-    <text>
-    <p>Keď sa vrátil z vojny, všetko sa zdalo byť rovnaké, a predsa iné.</p>
-    </text>
-    </novel>
-
-In digital humanities, XML—especially when guided by frameworks like the Text
-Encoding Initiative (TEI)—enables researchers to encode literary texts with a
-level of detail and care that reflects the richness of the material itself. This
-structured markup makes texts not only easier to preserve, but also searchable,
-analyzable, and convertible into other formats such as HTML, PDF, or plain text
-for visualization or presentation.
-
-By learning XML, students of the humanities gain the ability to bridge
-traditional textual scholarship with digital tools—making their research more
-sustainable, collaborative, and computationally powerful. 
-
-#### Introducing TEI: A Shared Language for Encoding Texts
-
-Once students understand the basics of XML, the next step in many digital humanities projects—especially those involving historical or literary texts—is learning how to apply those principles consistently and meaningfully. This is where the Text Encoding Initiative (TEI) comes in.
-
-TEI is an international standard for encoding texts in XML, developed by and for scholars in the humanities. Its guidelines provide a shared vocabulary and structure for representing everything from prose and poetry to letters, plays, critical editions, and historical documents. Rather than inventing their own XML tags for each project, researchers can rely on TEI’s rich and well-documented set of elements, which ensures interoperability, clarity, and long-term preservation.
-
-For example, a simple TEI-encoded excerpt from a novel might look like this:
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>Dom v stráni</title>
-        <author>Martin Kukučín</author>
-      </titleStmt>
-      <publicationStmt>
-        <publisher>Slovenská akadémia vied</publisher>
-        <date when="1904">1904</date>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Original print edition from 1904</bibl>
-      </sourceDesc>
-    </fileDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <p>Bol to dom, akých bolo v dedine málo – biely, s oblôčikmi plnými kvetov.</p>
-    </body>
-  </text>
-</TEI>
-
-In this snippet, we see several key features of TEI in action:
-
-    The <teiHeader> provides essential metadata about the document: its title, author, source, publication date, and more.
-
-    The <text> element holds the actual content, typically structured into <body>, <div> (for chapters), and <p> (for paragraphs).
-
-    TEI supports a wide range of additional elements, such as <name>, <placeName>, <persName>, <quote>, and <note>, allowing scholars to capture intricate textual and contextual information.
-
-TEI is designed to be flexible and extensible. Projects can select only the elements they need, or even define custom rules using ODD (One Document Does it all) specifications, which describe how a given TEI customization should behave. This adaptability makes TEI useful for everything from minimalist digital editions to deeply annotated scholarly corpora.
-
-For students and researchers in the digital humanities, TEI is more than just a markup standard—it’s a framework for thinking critically about the structure and meaning of texts. Encoding with TEI encourages close reading, editorial reflection, and a heightened awareness of textual variation, paratexts, and publication history. At the same time, it prepares those texts for computational analysis, digital presentation, and long-term preservation.
-
-##### Getting Started with TEI Encoding: Tools and Tips
-
-Starting a TEI-based project doesn’t require an advanced technical background—just curiosity, patience, and some basic tools. Here are a few ways students can begin:
-
-- Start small. Pick a short text (e.g., a chapter, a short story, or a single letter) and try encoding just the title, author, paragraphs, and chapter divisions.
-- Use a TEI-aware XML editor. Tools like oXygen XML Editor (paid, but with academic licenses), Sublime Text with plugins, or the free TEI Publisher’s web-based editor offer validation, autocomplete, and syntax highlighting.
-- Follow the Guidelines. The TEI Guidelines are searchable and rich with examples. They’re your best companion for understanding what each element means and how to use it.
-- Validate your files. Always check your TEI files for well-formedness and against your project’s schema—either within an editor like oXygen or using online tools like Roma (TEI’s schema builder).
-- Join the community. The TEI community is friendly and active. Mailing lists, GitHub repositories, and workshops provide opportunities to ask questions, share schemas, and learn from others.
-
-Whether you’re preparing a digital edition, building a corpus, or experimenting with literary analysis, customizing TEI to your needs is a valuable scholarly exercise. It asks you to consider what matters in a text—not just to you, but to future readers and machines—and how to model that meaning clearly and sustainably.
+Prijatím XML a TEI sa výskumníci zapájajú do ekosystému, ktorý si cení
+transparentnosť, udržateľnosť a vedeckú prísnosť. Toto zosúladenie so spoločnými
+štandardmi zvyšuje hodnotu a viditeľnosť vlastnej práce, čo uľahčuje jej
+zdieľanie, uchovávanie a budovanie.
 
 ### Webové technológie
 
