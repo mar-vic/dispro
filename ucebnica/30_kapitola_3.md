@@ -228,7 +228,6 @@ vied.
 
 ##### Základné stavebné prvky XML
 ###### Elementy
-
 Elementy sú základnými jednotkami štruktúry XML. Reprezentujú údaje a dávajú im
 význam prostredníctvom značiek. Element sa zvyčajne skladá zo začiatočnej
 značky, obsahu a koncovej značky:
@@ -310,7 +309,7 @@ význam. Pre digitálnych humanistov ide často o pôvodné literárne texty, pr
 redakčné poznámky, atď., na ktoré s určitým výskumným zámerom aplikujú vopred
 definovanú štruktúru implementovanú v XML formáte.
 
-V XML dokmentoch sa textové údaje zvyčajne nachádzajú v listoch stromovej
+V XML dokumentoch sa textové údaje zvyčajne nachádzajú v listoch stromovej
 štruktúry. To znamená, že sa vyskytujú v koncových bodoch vetiev stromu, kde nie
 sú žiadne ďalšie vnorené elementy, čo odráža spôso, akým XML reprezentuje
 informácie: vnútorné uzly (elementy) poskytujú štruktúru a klasifikáciu, zatiaľ
@@ -321,7 +320,6 @@ elementy. V takom prípade sa text stále považuje za list, ale daný uzol nie 
 čisto "listový", keďže sa vďaka obsiahnutým elementom ďalej rozvetvuje.
 
 ###### Komentáre
-
 sú akákoľvek časť dokumentu nachádzajúca sa medzi ```<!--``` a ```-->```.
 Slúžia na dokumentáciu alebo vysvetlenie častí dokumentov. Parsery ich
 ignorujú a nemajú vplyv na štruktúru údajov:
@@ -330,7 +328,6 @@ ignorujú a nemajú vplyv na štruktúru údajov:
 ```
 
 ###### Pokyny na spracovanie (Processing Instructions)
-
 informujú aplikácie, ako majú spracovať dokument alebo niektorú z jeho častí.
 Príkladom takýchto inštrukcií je tzv. deklarácia XML dokumentu:
 ```XML
@@ -353,32 +350,124 @@ od informácií, ktoré sa v ňom náchádzajú ('yes') alebo nie ('no').]. Tát
 deklarácia slúži ako hlavička metadát, ktorá umožňuje parserom a procesorom
 správne interpretovať obsah dokumentu.
 
-#### Správna forma^["Well-formedness" XML dokumentu] a validita XML dokumentu
-
+##### Správna forma a validita XML dokumentu
 Po preskúmaní základných stavebných prvkov XML, je dôležité pochopiť pravidlá,
 ktoré určujú, aké kombinácie týchto zložiek utvárajú dokument, ktorý zodpovedá
-XML štandardu.[@extensible2025] Delia sa na dve súvisiace, ale odlišné
+XML štandardu.[@extensible2025] Tieto pravidlá spadajú pod dve súvisiacie, ale odlišné
 kategórie: správna forma a validita.
 
-Obidva predpisy zabezpečujú, aby mohol byť dokument správne spracovaný
+Tieto pravidlá zabezpečujú, aby mohol byť dokument správne spracovaný
 softwérom, ale fungujú na rôznych úrovniach. Mať správnu formu je minimálna
 požiadavka kladená na každý XML dokument; validita je striktnejšia obmedzenie,
-ktoré vyžaduje štrukturálnu konzistenciu dokumentu vzhľadom na určitý formálny model.
+ktoré vyžaduje štrukturálnu konzistenciu dokumentu vzhľadom na určitý formálny
+model.
 
-###### Správna forma dokmentu
+*Správne utvorený (well-formed)* XML dokument
+je taký dokument, v ktorom sú všetky stavebné prvky použité
+v súlade so základnými syntaktickými pravidlami štandardu XML. Tie sa dajú
+zhrnúť do týchto piatich bodov:[@gulbransen_special_2002]
 
-Správne sformovaný XML dokument je taký, v ktorom sú všetky stavebné bloky použité
-v súlade so základnými syntaktickými pravidlami štandardu XML, ktoré sa dajú
-zhrnúť do nasledujúcich pravidiel:[@gulbransen_special_2002]
-1. Všetky názvy elementov a atribútov musia dodržiavať XML konvencie pre
-   pomenovania (t. j. nesmú začínať číslicou atď.)
-1. Všetky prvky musia byť správne vnorené
-1. Každá element musí byť utvorený z zočiatočnej a koncovej značky alebo musí
-   mať podobu prázdneho elementu.
-1. Všetky značky musia mať správne veľké a malé písmená.
 1. Dokument musí mať jeden a len jeden koreňový element, ktorý obsahuje všetky
    ostatné elementy v dokumente.
-1. Všetky entity v dokumente musia byť riadne označené.
+1. Každý element musí byť utvorený zo začiatočnej a koncovej značky alebo musí
+   mať podobu prázdneho elementu.
+1. Všetky prvky musia byť správne vnorené
+1. Všetky názvy elementov a atribútov musia dodržiavať XML konvencie pre
+   pomenovania (t. j. nesmú sa začínať číslicou, rozlišovanie veľkých a malých písmen, atď.)
+1. Hodnoty atribútov sa dávajú do jednoduchých alebo dvojitých úvodzoviek.
+
+Príklad správne utvoreného dokumentu:
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <title>Dom v stráni</title>
+  <author gender="M">Martin Kukučín</author>
+  <year>1903</year>
+</book>
+```
+Tento dokument je správne utvorený, pretože:
+
+- má práve jeden koreňový element (```<book>```)
+- všetky elementy sú správne vnorené a uzatvorené
+- mená značiek a atribútov spĺňajú konvencie XML
+- hodnoty atribútov sú v úvodzovkách
+
+Príklad nesprávne utvoreného dokumentu:
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <title>Dom v stráni<title>
+  <author gender=M>Martin Kukučín
+  <year>1903
+</book>
+```
+Tento dokument nie je správne utvorený, pretože:
+
+- Element ```<title>``` nie je správne uzavretý (je otvorený značkou
+  ```<title>```, ale namiesto ```</title>``` je nesprávne uzavretý opäť pomocou
+  ```<title>```)
+- Element <author> nie je uzavretý.
+- Hodnota atribútu ```gender``` nie je v úodzovkách
+- Koncová značka elementu ```<year>``` nekorešpodnuje so začiatočnou značkou
+  (keďže v XML sa rozlišuje medzi veľkými a malými písmenami)
+
+*Validný* XML dokument je potom taký dokument, ktorý je *1)* správne utvorený a *2)*
+zodpovedá formálnej gramatike alebo modelu definovanému prostredníctvom DTD
+(Document Type Definition), XML schéme (XSD) alebo RELAX NG.^[Pre bližšie
+oboznámenie sa s týmito spôsobmi, ako definovať XML model, pozri
+[@derose_sgml_1997]] Tento model, bežne označovaný ako XML schéma, opisuje, aké
+elementy a atribúty sú povolené, v akom poradí a koľkokrát sa môžu vyskytovať,
+aké typy hodnôt môžu obsahovať, atď. 
+
+Validácia je v podstate zmluva medzi dokumentom a deklarovaným modelom. Zatiaľ
+čo požiadavka dobrej utvorenosti (well-formedness) dokumentu zabezbečuje, že je
+štruktúrovaný ako strom, jeho validita garantuje, že je tento 
+strom správnym druhom stromu pre danú aplikáciu alebo vedeckú oblasť (vymedzenú
+XML schémou). Všetky validné dokumenty teda musia byť dobre utvorené, ale nie
+všetky dobre utvorené dokumenty sú validné.
+
+Pre ilustráciu validácie XML dokumentu si vezmime nasledujúcu DTD schému:
+```XML
+<!DOCTYPE book [
+  <!ELEMENT book (title, author)>
+  <!ELEMENT title (#PCDATA)>
+  <!ELEMENT author (#PCDATA)>
+]>
+```
+Toto môžeme vyjdariť v bežnej reči v podobe nasledujúcich požiadaviek:
+
+- element ```<book>``` musí obsahovať *najprv* element ```<title>``` nasledovaný
+  elementom ```<author>```
+- elementy ```<title>``` a ```<author>``` musia obsahovať len text (PCDATA,
+  resp. "parsed character data")
+
+To znamená, napríklad, že nasledujúci XML dokument je validný vzhľadom na vyššie
+uvedenú schému:
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <title>Dom v stráni</title>
+  <author>Martin Kukučín</author>
+</book>
+```
+Zatiaľ čo tento voči nej nie je validný (aj keď je dobre utvorený):
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+  <author>Martin Kukučín</author>
+  <title>Dom v stráni</title>
+</book>
+```
+
+Praktický význam validácie spočíva v tom, že mení XML z čisto štruktúrovaného
+formátu na spoľahlivý, interoperabilný základ pre vedeckú prácu. Najmä v
+projektoch digitálnych humanitných vied, spolupracuje množstvo ľudú na vytváraní
+veľkých korpusov, ktoré sá podrobujú počítačovému spracovaniu, zabezpečuje
+validácia konzistentnosť, včasné zachytenie chýb a podporuje automatizáciu úloh
+o vizualizácie, vyhľadávania až analýzu dát. Presadzovanie spoločných pravidiel
+prostredníctvom XML schém zabezpečuje interpretovateľnosť a dlhodobú
+použiteľnosť údajov, umožňuje vytvárať nástroje, zdieľať zdroje a garantovať, že
+zakódované informácie verne odrážajú ciele a normy projektu.
 
 ###### Vzťah časti a celku
 
