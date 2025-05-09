@@ -7,7 +7,7 @@
           Svet : ELTeC edícia
         </tei:title>
         <tei:author ref="viaf:49245103">
-          Zechenter-Laskomerský, GustávKazimír (1824 - 1908)
+          Zechenter-Laskomerský, Gustáv Kazimír (1824 - 1908)
         </tei:author>
         <tei:respStmt>
           <tei:resp>
@@ -128,7 +128,7 @@
     <tei:back>
       <tei:div type="notes">
         <tei:note xml:id="N1">
-          Trochu sa síce opozdila táto besednica, aleopekance s makom by vari ešte i teraz nikto neohrdil.
+          Trochu sa síce opozdila táto besednica, ale opekance s makom by vari ešte i teraz nikto neohrdil.
         </tei:note>
       </tei:div>
     </tei:back>

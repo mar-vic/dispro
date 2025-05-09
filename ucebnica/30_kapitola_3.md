@@ -218,97 +218,167 @@ zdieľanie, uchovávanie a budovanie.
 
 #### XML špecifikácia
 
-Pre efektívne používanie XML je dôležité pochopiť jeho základné princípy:
-pravidlá, ktoré definujú, čo robí dokument XML *správne utvoreným* ("well-formed")
-a *validným*. V tejto časti postupne predstavíme kľúčové stavebné prvky tohto
-formátu, pričom sa technickejšie detaily jeho implementácie budeme snažiť
-prepájať s abstraktnejšími princípmi, ktorými sme v predchádzajúcom texte
-motivovali jeho adopciu pre účely digitálnych humanitných vied.
+Pre efektívne používanie XML formátu je dôležité pochopiť jeho základné
+princípy: stavebné prvky, z ktorých je vyskladaný každý dokument v tomto formáte
+a pravidlá určujúce akým spôsobom musia byť tieto prvky usporiadané. V tejto
+časti predstavíme oba tieto aspekty XML, pričom sa technickejšie implementačné
+detaily budeme snažiť prepájať s abstraktnejšími princípmi, ktorými sme v
+predchádzajúcom texte motivovali adopciu XML pre účely digitálnych humanitných
+vied.
 
-##### Základná štruktúra XML dokumentu
+##### Základné stavebné prvky XML
+###### Elementy
 
-Jadrom každého XML dokumentu je hierachická stromová štruktúra, ktorú nazývame
-**XML strom**. Tu je príklad minimálneho XML dokumentu:
-
+Elementy sú základnými jednotkami štruktúry XML. Reprezentujú údaje a dávajú im
+význam prostredníctvom značiek. Element sa zvyčajne skladá zo začiatočnej
+značky, obsahu a koncovej značky:
 ```XML
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<title>Demokrati</title>
+```
+Okrem textu, môžu elementy obsahovať aj ďalšie elementy, atribúty Atribútom sa
+alebo ich rôzne kombinácie:
+```XML
 <book>
   <title>Dom v stráni</title>
-  <author>Martin Kukučín</author>
-  <publisher>Matica Slovenská</publisher>
+  <author>
+    <name>Martin Kukučín</name>
+    <dateOfBirth>1860</dateOfBirth>
+    <dateOfDeath>1928</dateOfDeath>
+  </author>
+  <size unit="words">108243</size>
   <pubdate>1912</pubdate>
 </book>
 ```
-Riadok ```<?xml ... ?>``` je deklarácia dokumentu, čo je vyhlásenie umiestnené na
-úplnom začiatku textového súboru, ktoré poskytuje základné informácie o
-kódovaní^[V tomto prípade ide o kódovanie znakov UTF-8 (*Unicode Transformation Format – 8-bit*) definované už
-spomínaným štandardom Unicode. V skratke ide o to, že Unicode priraďuje
-jednotlivým znakom
-čísla v hexadecimálnej sústave (napríklad U+0041 pre veľké latinizované písmeno A) a UTF-8 priraďuje
-týmto kódom čísla binárnej sústave. Pre vysvetlenie motivácie tohto dvojitého kódovania
-pozri [@unicodehist2025]. UTF-8 je najrozšírenejším kódovaním, keďže podporuje
-takmer všetky jazyka sveta.], verzii^[Verzia 1.0, definovaná v roku 1998, je
-nejrozšírenejšou a odporúčanou verziou XML. Okrem nej existuje aj verzia 1.1,
-ktorá sa od predchádzajúcej verzie líši v niekoľkých ohľadoch. Tie tu však
-nebudeme uvádzať, keďže novšia verzia je málo rozšírená a jej špecifiká pre nás
-nie sú pre nás podstatné. Ďalšie verzie XML zatiaľ neexistujú.] a "standalone" stav dokumentu^[Ide o
-informáciu, či je dokument závislý výhradne od informácií, ktoré sa v ňom
-náchádzajú ('yes') alebo nie ('no').]. Slúži ako hlavička metadát, ktorá
-umožňuje parserom a procesorom správne interpretovať obsaho dokumentu.
+Elementy, ktoré neobsahujú text alebo iné elementy môžu vystupovať v dvoch
+ekvivalentných formách^[Takéto elementy však môžu obsahovať atribúty.]:
+```XML
+<element></element>
+```
+``` XML
+<element />
+```
+Názvy XML elementov musia spĺňať tieto pravidlá:
 
-Element^[Niekedy sa na označenie týchto prvkov používa aj výraz "tag",
-respektíve "značka". V ďalšom texte budeme tieto varianty používať zameniteľne.]
-```<book>``` je koreňom dokumentu, pričom každý XML dokument má práve jeden
-koreňový element, čo znamená, že všetky ďalšie elementy, ktoré sa v dokumente
-nachádzajú, sa nachádzajú vnútri tohto elementu. Tento hierarchický vzťah
-sa často metaforicky prezentuje ako vzťah rodiča a potomstva ("parent" -
-"child"). V predchádzajúcej príklade je teda značka ```<book>``` "rodičom" XML
-značiek ```<title>```, ```<author>```, ```<publisher>```, ```<pubdate>```, a tie
-sú zas jeho "potomkovia". Tento vzťah pritom vyjadruje, že podradený element
-existuje v konceptuálnej alebo logickej doméne nadradeného prvku.
+- V názvoch sa rozlišujú veľké a malé písmená^[To znamená, že ```<Element>``` a ```<element>``` predstavujú odlišné elementy]
+- Názvy musia začínať písmenom alebo podčiarkovníkom
+- Názvy nemôžu začínať reťazcom "xml" (alebo "XML", alebo "Xml" atď.)
+- Názvy môžu obsahovať písmená, číslice, pomlčky, podčiarkovníky a bodky
+- Názvy nemôžu obsahovať medzery
 
-Pre trochu zložitejšiu ilustráciu si vezmime nasledujúcu štruktúru, ktorá
-určitým spôsobom organizuje informácie o nejakom autorovi, konkrétne slovenskom
-spisovateľovi Františkovi Švantnerovi:
+###### Atribúty
+poskytujú dodatočné informácie o elementoch a umiestňujú sa vo vnútri
+ich začiatočnej značky vo forme ```'názov'='hodnota'```, pričom hodnoty
+atribútov sa vždy musia nachádzať v jednoduchých alebo dvojitých úvodzovkách:
+```XML
+<author gender="female" nationality="slovak">Hana Gregorová</author>
+```
+V princípe je možné všetky informácie reprezentovateľné prostredníctvom
+vnorených elementov zaznamenať aj pomocou atribútov, a naopak. Napríklad vyššie uvedenú
+štruktúru môžeme prepísať nasledujúcim spôsobom bez akejkoľvek informačnej
+straty:
 ```XML
 <author>
-    <bio>
-        <firstName>František</firstName>
-        <lastName>Švantner</lastName>
-        <birthPlace>Bystrá</birthPlace>
-        <dateOfBirth>29-01-1912</dateOfBirth>
-        <dateOfDeath>13-10-1950</dateOfDeath>
-    </bio>
-    <notableTitles>
-        <title>
-            <name>Nevesta Hôľ</name>
-            <pubDate>1946</pubDate>
-        </title>
-        <title>
-            <name>Život bez konca</name>
-            <pubDate>1946</pubDate>
-        </title>
-    </notableTitles>
+    <gender>F</gender>
+    <nationality>SK</nationality>
+    <name>Hana Gregorová</name>
 </author>
 ```
-Informácie o autorovi sú tu pritom rozdelené do dvoch skupín: životopisné
-informácie vnorené pod elementom ```<bio>``` a informácie o významnných dielach
-autora obsiahnuté v elemente ```<notabletitles>```. Reprezentované vzťahy potom
-môžeme interpretovať tak, že ```<firstname>```, ```<lastname>```,
-```<birthplace>``` atď. reprezentujú životopisné informácie o určitom autorovi
-(t.j., jeho krstné meno, priezvisko ...) a ```<title>``` zas informácie týkajúce
-sa jedného z významných titulov, ktoré daný autor počas svojho života
-vypublikoval. Podobne potom interepretujeme aj značky ```<name>``` a
-```<pubdate>``` obsiahnuté v ```<title>``` ako reprezentantov názvu a dátumu
-vydania jedného z významných diel Františka Švantnera.
+Atribúty však ponúkajú špecifické výhody v prípadoch, keď by štrukturálne
+vnorenie bolo neefektívne alebo sémanticky nevhodné. V prvom rade
+umožňujú oddeliť dáta od metadát, kde obsah elementov predstavuje samotné dáta
+a prostredníctvom atribútov reprezentujeme informácie *o* dátach. Ak by sme
+chceli napríklad v nejakom literárnom texte zaznamenať, že nejaká postava
+predstavuje protagonistu príbehu, bolo by nevhodné tieto
+informácie kódovať prostredníctvom samostatných elementov^[Napríklad ako
+```<role>protagonist</role>```.], keďže by sme tým znemožnili odlíšenie
+originálneho textu od našich analytických zásahov.
 
-Z tejto ilustrácie je evidentné, že hierarchickú štruktúru stelesnenú v XML
-strome môžeme použiť na vyjadrenie rôznych typov konceptuálnych vzťahov
-odzrkadľujúcich organizáciu rozličných aspektov materiálu, ktorý sa snažíme
-digitálne reprezentovať.
+Okrem toho, umožňujú atribúty kompaktnejší a čitateľnejší spôsob reprezentácie
+jednoduchých informácií - ```<character role="protagonist">Šimon</character>```
+je jednoduchšie a prehľadnejšie kódovanie, ako alternatíva, pri ktorej by sme
+použili samostatný element ```<role>``` pre vyjadrenie toho istého.
 
-Nižšie uvádzame niektoré z typických vzťahov, ktoré môžeme reprezentovať
-prostredníctvom XML stromu.
+Napokon je použitie atribútov optimálnejšie pre niektoré výpočtové úlohy ako
+je filtrovanie (napr. vyhľadávanie všetkých elementov ```<character>``` s
+atribútom ```role="protagonist"```) alebo validácia dokumentov voči XML schémam.^[Validácii sa
+venujme nižšie.]
+
+###### Text
+sa vzťahuje na neštruktúrované čitateľné údaje, ktoré sú obsiahnuté v
+elementoch. Je to sémantické jadro dokumnetu - slová, vety a odseky, ktoré nesú
+význam. Pre digitálnych humanistov ide často o pôvodné literárne texty, prepisy,
+redakčné poznámky, atď., na ktoré s určitým výskumným zámerom aplikujú vopred
+definovanú štruktúru implementovanú v XML formáte.
+
+V XML dokmentoch sa textové údaje zvyčajne nachádzajú v listoch stromovej
+štruktúry. To znamená, že sa vyskytujú v koncových bodoch vetiev stromu, kde nie
+sú žiadne ďalšie vnorené elementy, čo odráža spôso, akým XML reprezentuje
+informácie: vnútorné uzly (elementy) poskytujú štruktúru a klasifikáciu, zatiaľ
+čo listy (textové uzly) obsahujú skutočný nositeľov analyzovaného významu.
+
+Elementy však môžu mať aj zmiešaný obsah, teda obsahovať tak text ako aj ďalšie
+elementy. V takom prípade sa text stále považuje za list, ale daný uzol nie je
+čisto "listový", keďže sa vďaka obsiahnutým elementom ďalej rozvetvuje.
+
+###### Komentáre
+
+sú akákoľvek časť dokumentu nachádzajúca sa medzi ```<!--``` a ```-->```.
+Slúžia na dokumentáciu alebo vysvetlenie častí dokumentov. Parsery ich
+ignorujú a nemajú vplyv na štruktúru údajov:
+```XML
+<!-- Toto je komentár -->
+```
+
+###### Pokyny na spracovanie (Processing Instructions)
+
+informujú aplikácie, ako majú spracovať dokument alebo niektorú z jeho častí.
+Príkladom takýchto inštrukcií je tzv. deklarácia XML dokumentu:
+```XML
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+```
+Je umiestnená vždy na úplnom začiatku dokumentu a obsahuje informácie o
+kódovaní^[V tomto prípade ide o kódovanie znakov UTF-8 (*Unicode Transformation
+Format – 8-bit*) definované už spomínaným štandardom Unicode. V skratke ide o
+to, že Unicode priraďuje jednotlivým znakom čísla v hexadecimálnej sústave
+(napríklad U+0041 pre veľké latinizované písmeno A) a UTF-8 priraďuje týmto
+kódom čísla binárnej sústave. Pre vysvetlenie motivácie tohto dvojitého
+kódovania pozri [@unicodehist2025]. UTF-8 je najrozšírenejším kódovaním, keďže
+podporuje takmer všetky jazyka sveta.], verzii^[Verzia 1.0, definovaná v roku
+1998, je nejrozšírenejšou a odporúčanou verziou XML. Okrem nej existuje aj
+verzia 1.1, ktorá sa od predchádzajúcej verzie líši v niekoľkých ohľadoch. Tie
+tu však nebudeme uvádzať, keďže novšia verzia je málo rozšírená a jej špecifiká
+pre nás nie sú pre nás podstatné. Ďalšie verzie XML zatiaľ neexistujú.] a
+"standalone" stav dokumentu^[Ide o informáciu, či je dokument závislý výhradne
+od informácií, ktoré sa v ňom náchádzajú ('yes') alebo nie ('no').]. Táto
+deklarácia slúži ako hlavička metadát, ktorá umožňuje parserom a procesorom
+správne interpretovať obsah dokumentu.
+
+#### Správna forma^["Well-formedness" XML dokumentu] a validita XML dokumentu
+
+Po preskúmaní základných stavebných prvkov XML, je dôležité pochopiť pravidlá,
+ktoré určujú, aké kombinácie týchto zložiek utvárajú dokument, ktorý zodpovedá
+XML štandardu.[@extensible2025] Delia sa na dve súvisiace, ale odlišné
+kategórie: správna forma a validita.
+
+Obidva predpisy zabezpečujú, aby mohol byť dokument správne spracovaný
+softwérom, ale fungujú na rôznych úrovniach. Mať správnu formu je minimálna
+požiadavka kladená na každý XML dokument; validita je striktnejšia obmedzenie,
+ktoré vyžaduje štrukturálnu konzistenciu dokumentu vzhľadom na určitý formálny model.
+
+###### Správna forma dokmentu
+
+Správne sformovaný XML dokument je taký, v ktorom sú všetky stavebné bloky použité
+v súlade so základnými syntaktickými pravidlami štandardu XML, ktoré sa dajú
+zhrnúť do nasledujúcich pravidiel:[@gulbransen_special_2002]
+1. Všetky názvy elementov a atribútov musia dodržiavať XML konvencie pre
+   pomenovania (t. j. nesmú začínať číslicou atď.)
+1. Všetky prvky musia byť správne vnorené
+1. Každá element musí byť utvorený z zočiatočnej a koncovej značky alebo musí
+   mať podobu prázdneho elementu.
+1. Všetky značky musia mať správne veľké a malé písmená.
+1. Dokument musí mať jeden a len jeden koreňový element, ktorý obsahuje všetky
+   ostatné elementy v dokumente.
+1. Všetky entity v dokumente musia byť riadne označené.
 
 ###### Vzťah časti a celku
 
@@ -328,9 +398,132 @@ celok. Pre ilustráciu si vezmime knihu rozdelenú na kapitoly a odseky
   </chapter>
 </book>
 ```
+Vzťahy medzi elementami ```<book>```, ```<chapter>```, ```<title>``` a
+```<paragraph>``` tu jednak odrážajú fyzickú štruktúru knihy (t.j., že každá
+kapitola je súčasťou knihy a každý odsek je súčasťou príslušnej kapitoly).
 
+###### Typologické vzťahy
 
-### TEI
+hierarchické vzťahy stelesnené v XML strome môžy reprezentovať to, že určité
+prvky inštanciami nejakej kategórie. Vezmime si napríklad nasledujúci zoznam
+postáv nejakého románu:
+```XML
+<characters>
+  <character role="protagonist">Anna</character>
+  <character role="antagonist">Juraj</character>
+  <character role="supporting">Mária</character>
+</characters>
+```
+Každá postava (reprezentovaná značkou ```<character>```) je typ osoby
+vystupujúcej v príphu. Nadradený prvok ```<characters>``` definuje kategóriu a
+deti sú jej členmi. Prostredníctvom XML atribútu "role" môžeme ďalej
+klasifikovať jednotlivé postavy protagonistku, antagonistu alebo podpornú
+postavu.
+
+###### Časové a sekvenčné vzťahy
+
+Hoci sú stromy XML prirodzene hierarchické, poradie súrodeneckých prvkov môže
+predstavovať časovú alebo logickú postupnosť. Pre ilustráciu si vezmime
+nasledujúcu posutpnosť záznamov v denníku:
+```XML
+<diary>
+  <entry date="1939-09-01">Začala vojna.</entry>
+  <entry date="1939-09-02">Dnes som počul správy o invázii...</entry>
+</diary>
+```
+Prvky ```<entry>``` tu nie sú len časťami ```<diary>```; ich poradie môže
+odrážať jednak poradie denníkových záznamov, ako aj plynutie času a vývok
+udalostí.
+
+###### Deskriptívne vzťahy (atribúcia a anotácia)
+
+XML umožňuje prvkom niesť popisy alebo atribúty iných prvkov, ako napríklad v
+nasledujúcej štruktúre, ktorá kóduje vlastnosti nejakej osoby:
+
+```XML
+<person>
+  <name>Terézia Vansová</name>
+  <birthDate>1857-4-18</birthDate>
+  <occupation>Spisovateľka</occupation>
+</person>
+```
+kde každý podradený prvok opisuje iný aspekt osoby identifikovanej koreňovým
+prvkom.
+
+###### Referenčné vzťahy
+
+Pro kódovaní je niekedy potrebné zaznamenať prepojenie prvkov, ktoré spolu
+logicky súvisia, ale nie sú  štrukturálne vnorené - napríklad prepojonie
+poznámky pod čiarou s úryvkom, ktorého sa týka. XML stromy sú síce vo svojej
+podstate hierarchické, ale toto obmedzenie obísť pomocou odkazov
+implementovaných prostredníctvom XML atribútov.
+
+V nasledujúcom príklade vidíme, že ```<note>``` síce nie je potomkom
+```<paragraph>```, ale odkazuje naň pomocou atribútu "target", ktorého hodnota
+obsahuje identifikátor relevantného paragrafu, pričom ten je mu pridelený
+prostredníctvom atribútu "id".
+```XML
+<paragraph id="p1">
+    My ale, ktorí sa tej katastrofy nedočkáme, obráťme našu
+    pozornosť k národnostnej otázke a k makovým opekancom.
+</paragraph>
+
+<note target="#p1">
+    Trochu sa síce opozdila táto besednica, ale opekance s makom by vari ešte i
+    teraz nikto neohrdil.
+</note>
+```
+
+###### Kontextové a diskurzívne vzťahy
+
+V literárnych a historických materiáloch je často dôležité ukázať, ako je
+nejaký výrok prezentovaný v diskurzívnom kontexte - napríklad uviesť hovorcu
+repliky v dialógu alebo to, že daný riadok predstavuje verš básne.
+```XML
+<div>
+    <head>Prvý obraz</head>
+    <utterance speaker="Bernardo">
+        Kto tam?
+    </utterance>
+    <utterance speaker="Francisco">
+        A ty si kto? Povedz heslo! Stoj!
+    </utterance>
+    <utterance speaker="Bernardo">
+        Nech žije kráľ!
+    </utterance>
+    <utterance speaker="Francisco">
+        Bernardo?
+    </utterance>
+</div>
+```
+V predchádzjúcom príklade má každá z replík - reprezentovaných značkou
+```<utterance>``` - nastavený atribút "speaker", ktorého hodnota označuje jej
+hovorcu.
+
+###### Redakčné alebo interpretačné vrstvenie
+
+Digitálne edície literárnych diel, si často vyžadujú kódovanie interpretačných
+vzťahov - napríklad označenie redakčných korekcií, neistého čítania alebo
+viacerých verzií úryvku. XML umožňuje modelovať ich prostredníctvom vnorených
+prvkov alebo atribútov. Pre príklad si vezmiem situáciu, keď chce editor
+zaznamenať opravu chyby sa nachádza v originálnom texte:
+```XML
+<p>
+    Nuž, bračekovci, verte alebo nie, ale ja som sa vtedy cítil ako
+    <choice><orig>mys</orig><corr>myš</corr></choice> v kyslom
+    mlieku.
+</p>
+```
+Pôvodná a opravená verzia tu koexistujú v jednej redakčnej štruktúre.
+
+Táto séria príkladov ukazuje, že prostredníctvom formátu XML sme
+schopní vyjadriť oveľa viac typov vzťahov než len vzťah medzi celkom a jeho časťami.
+Umožňuje nám modelovať, ako veci súvisia - štrukturálne aj koncepčne. Vďaka tomu
+je tento formát obzvlášť vhodný pre disciplíny, ako je literatúra, história a
+lingvistika, kde význam často závisí od vzťahov medzi ľuďmi, textami, udalosťami
+a interpretáciami.
+
+### XML schéma TEI
 
 ### HTML
 
