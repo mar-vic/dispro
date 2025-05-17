@@ -87,8 +87,6 @@ vyžaduje buď množstvo manuálnej práce alebo použitie externých nástrojov
 je napríklad program Pandoc, prípadne vlastné skripty - ani tie nám však
 nepomôžu, ak nemá pôvodný súbor konzistentnú štruktúru.
 
-TODO: Možno by sa tu hodila sekcia o "plain" texte
-
 Hoci teda formáty textových procesorov vyhovujú potrebám bežného písania a
 akademického publikovania^[Predchádzajúce a nasledovné argumenty však poskytujú
 dôvody v neprospech týchto formátov aj pre tieto použitia.], ich obmedzenia sa
@@ -115,7 +113,7 @@ formátovanie predovšetkým na vizuálnu prezentáciu textu, XML umožňuje
 explicitné definovanie sémantického významu jednotlivých častí textu. Ak
 chceme, napríklad, v nejakom texte zaznamenať, že určitý reťazec znakov
 predstavuje meno autora, prostriedkami XML to dosiahneme tak, že danú pasáž
-uzavrieme v značke <autor>^[Technickým detailom implementácie XML sa venujeme
+uzavrieme v značke ```<author>```^[Technickým detailom XML sa venujeme
 nižšie.], ktorá má vopred definovaný význam.^[V tomto kontexte
 by mohlo ísť o význam "tvorca textu, ktorého je označený reťazec časťou".] Týmto sa
 stane rola daného reťazca v dokumente explicitná a jednoznačná.
@@ -231,14 +229,17 @@ vied.
 
 ##### Základné stavebné prvky XML
 ###### Elementy
-Elementy sú základnými jednotkami štruktúry XML. Reprezentujú údaje a dávajú im
-význam prostredníctvom značiek. Element sa zvyčajne skladá zo začiatočnej
-značky, obsahu a koncovej značky.
+sú základnými jednotkami štruktúry XML, reprezentujú údaje a dávajú im význam
+prostredníctvom značiek a atribútov. Element sa zvyčajne skladá zo začiatočnej
+značky ^[Reťazca znakov ohraničeného ostrými zátvorkami '<' a '>'.], obsahu a
+koncovej značky^[Reťazca znakov zľava ohraničeného '</' a sprava ohraničeného
+'>'.].
 
 ![Štruktúra XML elementu](images/anatomy_of_element.png){#fig:element}
 
 Okrem textu, môžu elementy obsahovať aj ďalšie elementy, atribúty alebo ich
 rôzne kombinácie:
+
 ```XML
 <book>
   <title>Dom v stráni</title>
@@ -251,15 +252,18 @@ rôzne kombinácie:
   <pubdate>1912</pubdate>
 </book>
 ```
+
 Prázdne elementy, teda tie ktoré neobsahujú text alebo iné elementy,^[Takéto
 elementy však môžu obsahovať atribúty.] môžu vystupovať v dvoch ekvivalentných
 formách:
+
 ```XML
 <element></element>
 ```
-``` XML
+```XML
 <element />
 ```
+
 Názvy značiek, ktoré utvárajú elementy, podliehajú pritom nasledujúcim
 obmedzeniam:
 
@@ -270,7 +274,8 @@ obmedzeniam:
 - Názvy nemôžu obsahovať medzery
 - Názvy môžu obsahovať písmená, číslice, pomlčky, podčiarkovníky a bodky
 
-Čiže, napríklad, nasledujúci zápis nepredstavuje korektný XML element:
+Nasledujúci zápis teda nepredstavuje korektný XML element:
+
 ```XML
 <title>Dom v stráni</Title>
 ```
@@ -279,15 +284,15 @@ obmedzeniam:
 poskytujú dodatočné informácie o elementoch a umiestňujú sa vo vnútri ich
 začiatočnej značky, prostredníctvom priradenia ```atribút="hodnota"```, pričom
 hodnoty atribútov sa vždy musia nachádzať v jednoduchých alebo dvojitých
-úvodzovkách. Prostredníctvom atribútov teda môžeme zaznamenať, napríklad, že
+úvodzovkách. Prostredníctvom atribútov teda môžeme, napríklad, zaznamenať, že
 Hana Gregorová je slovenskou autorkou, takto:
 ```XML
 <author gender="female" nationality="slovak">Hana Gregorová</author>
 ```
 V princípe je možné všetky informácie reprezentovateľné prostredníctvom
-atribútov kódovať aj prostredníctvom vnorenia elementov, a naopak. Napríklad, vyššie
-uvedený element môžeme preformulovať nasledujúcim spôsobom bez akejkoľvek
-informačnej straty:
+atribútov kódovať aj prostredníctvom vnorenia elementov, a naopak. Vyššie
+uvedený element môžeme, napríklad, preformulovať nasledujúcim spôsobom bez
+akejkoľvek informačnej straty:
 ```XML
 <author>
     <gender>F</gender>
@@ -295,10 +300,10 @@ informačnej straty:
     <name>Hana Gregorová</name>
 </author>
 ```
-Atribúty však ponúkajú špecifické výhody v prípadoch, keď by štrukturálne
+Atribúty však ponúkajú špecifické výhody v prípadoch, kedy by štrukturálne
 vnorenie bolo neefektívne alebo sémanticky nevhodné. V prvom rade
 umožňujú oddeliť dáta od metadát, kde obsah elementov predstavuje samotné dáta
-a prostredníctvom atribútov reprezentujeme informácie *o* dátach. Ak by sme
+a prostredníctvom atribútov reprezentujeme informácie *o** dátach. Ak by sme
 chceli napríklad v nejakom literárnom texte zaznamenať, že nejaká postava
 predstavuje protagonistu príbehu, bolo by nevhodné tieto
 informácie kódovať prostredníctvom samostatných elementov^[Napríklad ako
@@ -324,15 +329,51 @@ definovaný model implementovaný v XML formáte.
 
 Ak si základnú štruktúru XML dokumentu predstavíme ako strom, tak textové údaje
 sa zvyčajne nachádzajú v jeho listoch. To znamená, že sa vyskytujú v koncových bodoch vetiev stromu, kde nie
-sú žiadne ďalšie vnorené elementy, čo odráža spôso, akým XML reprezentuje
+sú žiadne ďalšie vnorené elementy, čo odráža spôsob, akým XML reprezentuje
 informácie: vnútorné uzly (elementy) poskytujú štruktúru a klasifikáciu, zatiaľ
 čo listy (textové uzly) obsahujú skutočný nositeľov analyzovaného významu.
 
 Elementy však môžu mať aj zmiešaný obsah, teda obsahovať tak text ako aj ďalšie
 elementy. V takom prípade sa text stále považuje za list, ale daný uzol nie je
-čisto "listový", keďže sa vďaka obsiahnutým elementom ďalej rozvetvuje.
+čisto "listový", keďže sa vďaka obsiahnutým elementom ďalej rozvetvuje. Nie
+každý list XML stromu však musí mať formu textu. Ak by sme napríklad chceli
+zaznamenať, že na určitom mieste v texte sa v origináli nachádza koniec strany,
+môžeme na to použiť, napríklad, prázdny element ```<pb />```, ktorý by v celkovej štruktúre
+dokumentu predstavoval lists stromu.
 
-TODO: Vytvor vizualizaciu struktury XML dokumentu ako stromu
+Pre vizuálnu ilustráciu stromovej štruktúry XML dokumentu, si vezmime
+nasledujúci fragment úvodu Kukučínovho románu *Dom v stráni*:
+
+> V stráni pod Grabovikom, sťaby prilepené o strmý bok, stoja domy   bratov Bercov. Idúcky z dediny, vlastne mesta, prejdeš najprv popri   dome Ivanovom, potom Franićovom a tretí dom je, v ktorom býva Mate.   Ive je najstarší, Mate najmladší z nich. A tak i domy. Ivanov dom je   najstarší a najmenší, Franićov je novší, pod ním pivnica s   velikánskymi sudmi, a Mateho je už celkom nový, s akýmsi nádychom   luxusu, pravda težackého, sedliackeho.
+
+> Franić dosť dávno vystavil svoj dom, ale ho nedohotovil. Vyzerá v   ňom všetko akosi provizórne. Štyri steny zapáckané zhruba maltou,   podlaha z dosiek, pod ktorou je spomenutá pivnica, ale povaly ešte...
+
+Tento text, spolu s jeho metadátami, môžeme reprezentovať v XML nasledujúcim spôsobom:
+
+```XML
+<book>
+    <tile>Dom v stráni</title>
+    <author>
+        <name>Martin Kukučín</name>
+        <dateOfBirth>1860</dateOfBirth>
+        <dateOfDeath>1928</dateOfDeath>
+    </author>
+    <text>
+        <paragraph>
+            V stráni pod <place>Grabovnikom</place>, sťaby prilepené...
+        </paragraph>
+        <paragraph>
+            <character>Franić</character> dosť dávno vystavil svoj dom...
+        </paragraph>
+        <pb />
+    </text>
+</book>
+```
+
+Vizualizáciu štruktúry tohto dokumentu potom zachytáva [@fig:tree]
+
+![Vizualizácia stromovej štruktúry XML dokumentu (prvky zvýraznené zelenou
+predstavujú listy stromu)](images/xml_tree.png){#fig:tree}
 
 ###### Komentáre
 sú akákoľvek časť dokumentu nachádzajúca sa medzi ```<!--``` a ```-->```.
@@ -341,7 +382,7 @@ ignorujú a nemajú vplyv na štruktúru údajov:
 ```XML
 <!-- Toto je komentár -->
 ```
-    
+
 ###### Pokyny na spracovanie (Processing Instructions)
 informujú aplikácie, ako majú spracovať dokument alebo niektorú z jeho častí.
 Príkladom takýchto inštrukcií je tzv. deklarácia XML dokumentu:
@@ -351,7 +392,7 @@ Príkladom takýchto inštrukcií je tzv. deklarácia XML dokumentu:
 Ak sa v dokumente nachádza^[Nie je to povinná súčasť XML dokumentov, ale
 obsahuje informácie, ktoré zjednodušujú ich spracovanie automatizačnými
 nástrojmi, takže je vhodné ju vždy uvádzať.], tak musí byť umiestnená na jeho
-úplnom začiatku. a obsahuje informácie o kódovaní^[V tomto prípade ide o
+úplnom začiatku. Obsahuje informácie o kódovaní^[V tomto prípade ide o
 kódovanie znakov UTF-8 (*Unicode Transformation Format – 8-bit*) definované už
 spomínaným štandardom Unicode. V skratke ide o to, že Unicode priraďuje
 jednotlivým znakom čísla v hexadecimálnej sústave (napríklad U+0041 pre veľké
@@ -364,9 +405,71 @@ predchádzajúcej verzie líši v niekoľkých ohľadoch. Tie tu však nebudeme 
 keďže novšia verzia je málo rozšírená a jej špecifiká pre nás nie sú pre nás
 podstatné. Ďalšie verzie XML zatiaľ neexistujú.] a "standalone" stav
 dokumentu^[Ide o informáciu, či je dokument závislý výhradne od informácií,
-ktoré sa v ňom náchádzajú ('yes') alebo nie ('no').]. Táto deklarácia slúži ako
+ktoré sa v ňom náchádzajú ('yes') alebo nie ('no').]. Deklarácia slúži ako
 hlavička metadát, ktorá umožňuje parserom a procesorom správne interpretovať
 obsah dokumentu.
+
+###### CDATA (*Character Data*)
+predstavujú bloky textu, ktoré parsery neinterpretujú ako XML kód. Znaky ako
+'<', '>' sa v týchto sekciách teda považujú za bežné znaky, nie
+ako začiatok alebo koniec značiek. Užitočné je to, napríklad, keď by sa v
+analyzovanom texte nachádzali sekvencie, ktoré by parser štandardne
+indentifikoval ako indikácie XML prvkov, pričom by sme potrebovali, aby parser
+tieto pasáže ponechal neinterpretované. Zabezpečíme to tak, že ich
+ohraničíme na začiatku značkou "<!CDATA[" a na konci "]]>". Čokoľvek takto
+ohraničené sa považuje za "surový" text. Ak by sme teda chceli zakódovať úvodnú
+pasáž z predchádzajúcej sekcie ("Pokyny na spracovanie") do XML, museli by sme
+to spraviť, napríklad, takto:
+```XML
+<section>
+    <title>Pokyny na spracovanie (Processing Instructions)</title>
+    <p>
+        informujú aplikácie, ako majú spracovať dokument alebo niektorú z jeho častí.
+        Príkladom takýchto inštrukcií je tzv. deklarácia XML dokumentu:
+    </p>
+    <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>]]>
+</section>
+```
+
+###### Menné priestory
+
+v komplexných XML dokumnetoch, ktoré využívajú kombináciu viacerých slovníkov,
+môže dochádzať ku konfliktom názvov. Dve rôzne schémy môžu, napríklad, definovať
+element ```<title>``` s rôznym významom. Menné priestory poskytujú mechanizmus
+na predchádzanie takýmto nejednoznačnostiam prostredníctvom identifikácie pôvodu
+každého elementu alebo atribútu. V XML dokumente odlíšenie elementov s rovnakým
+názvom dosiahneme tak, že pred značku každého z nich pripojíme prefix zložený z
+názvu ich menného priestoru a dvojbodky. Teda, za predpokladu, že jeden
+variant elementu ```<title>``` pochádza z menného priestoru 'a' a druhý z
+priestoru 'b', môžeme ich v dokumente odlíšiť ako ```<a:title>``` a
+```<b:title>```.
+
+Pre použitie takýchto prefixov však musíme v dokumente menné priestory
+zadefinovať prostredníctvom atribútu *xmlns* obsiahnutého buď v začiatočnej
+značke daného elementu alebo v značke niektorého z jeho rodičov^[Typicky sa
+menné priestory definujú v koreňovom elemente dokumentu.] Deklarácia menného
+priestoru má syntax: xlmns:*prefix*="*URI*", pričom *URI* (Uniform Resource
+Identifier) nemusí nevyhnutne predstavovať existujúcu internetovú adresu.^[Často
+sa však ako *URI* používa adresa stránok, na ktorých sa nachádzajú informácie o
+danom mennom priestore, resp. o schéme, ktorá s ním je asociovaná.] V dokumente
+by použitie dvoch variant ```<title>``` mohlo vyzerať
+nasledovne:^[```<a:title>``` tu predstavuje "knižný titul" a ```<b:title>```
+"nadpis".]
+
+```XML
+<a:title xmlns:a="https://xml.namespaces.org/a"
+    xlmns:b="https://xml.namespaces.org/b">
+    <b:title>Malka</b>
+    <text>
+        <chapter>
+            <b:title>Stretnutie</b:title>
+            <p>Bol som vtedy v nočnej.</p>
+            <p>Bol som v nočnej službe, aby ste ma lepšie rozumeli.</p>
+            <p>...</p>
+        </chapter>
+    </text>
+</a:title>
+```
 
 ##### Modelovanie obsahu prostredníctvom XML
 Ako sme už uviedli, základom XML je stromový model, hierarchická štruktúra, v
@@ -640,11 +743,11 @@ prispievateľmi a zabraňuje štrukturálnym chybám, ktoré by inak mohli zosta
 nepovšimnuté. Umožňuje automatizované pracovné postupy - napríklad transformáciu
 pomocou XSLT, publikovanie prostredníctvom platforiem ako TEI Publisher alebo
 integráciu do vyhľadávacích systémov - tým, že zaručuje predvídateľnú štruktúru
-a používanie XML elementov. Validácia tiež uľahčuje interoperabilitu s inými
-nástrojmi a systémami, čím uľahčuje zdieľanie údajov medzi inštitúciami alebo
-projektmi. Validácia v podstate funguje ako mechanizmus kontroly kvality, ktorý
-podporuje efektívnosť, spoľahlivosť a dlhodobú udržateľnosť postupov
-využívajúcich XML formát.
+a konzistentné používanie XML elementov. Validácia tiež uľahčuje
+interoperabilitu s inými nástrojmi a systémami, čím uľahčuje zdieľanie údajov
+medzi inštitúciami alebo projektmi. Validácia v podstate funguje ako mechanizmus
+kontroly kvality, ktorý podporuje efektívnosť, spoľahlivosť a dlhodobú
+udržateľnosť postupov využívajúcich XML formát.
 
 ### TEI (Text Encoding Initiative)
 
