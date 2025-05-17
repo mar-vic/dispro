@@ -12,6 +12,8 @@ import csv
 import tempfile
 import phunspell
 import textblob
+import glob
+import shutil
 
 from bs4.dammit import encoding_res
 
@@ -42,7 +44,8 @@ from jinja2 import Environment, PackageLoader, select_autoescape
 
 project_dir = Path(__file__).absolute().parents[1]
 schemas_dir = project_dir.joinpath("schemas")
-corpus_dir = project_dir.joinpath("data/ELTEC_FILES")
+corpus_dir = project_dir.joinpath("data/corpus")
+archive_dir = project_dir.joinpath("data/archive")
 templates_dir = project_dir.joinpath("scripts/templates")
 processing_dir = corpus_dir.joinpath("processing")
 testing_dir = project_dir.joinpath("scripts/tests")
@@ -926,7 +929,8 @@ def get_corpus_stats(update=True):
 
     # no. of words
     corpus_stats["word_count"] = {
-        "val": corpus_df["word_count"].sum(),
+
+"val": corpus_df["word_count"].sum(),
         "desc": "Number of words in corpus",
     }
 
@@ -1233,6 +1237,13 @@ def test_corpus_stats():
     print(get_corpus_stats())
     generate_plots()
 
+def generate_corpus():
+    print(archive_dir.joinpath("*.xml"))
+    eltecs = glob.glob(str(archive_dir.joinpath("**/*.xml")),
+                       recursive = True)
+    for eltec in eltecs:
+        print(f"Copying {eltec}")
+        shutil.copy(eltec, corpus_dir.joinpath(Path(eltec).name))
 
 @click.command()
 @click.option(
@@ -1282,6 +1293,11 @@ def test_corpus_stats():
     flag_value="Flag",
     default="default"
 )
+@click.option(
+    "-c",
+    "--gen-corpus",
+    is_flag=True,
+)
 def cli(
         get_page: click.Path,
         get_book: click.Path,
@@ -1289,6 +1305,7 @@ def cli(
         gen_eltec_auto,
         validate_eltec: click.Path,
         gen_metadata,
+        gen_corpus,
         output: click.Path,
         spell: click.Path,
         pdf2docx: tuple[click.Path, click.Path],
@@ -1366,6 +1383,9 @@ def cli(
             print(f"The generated file '{outputfn}'  is valid according to eltec-1 schema")
         else:
             print(f"The generated file {outputfn} is invalid due to:\n {results[1]}")
+    elif gen_corpus:
+        print("Generating coprus...")
+        generate_corpus()
     elif gen_metadata:
         with open(project_dir.joinpath("pandoc/meta/boilerplate.json"), "r") as f:
             template = json.load(f)
