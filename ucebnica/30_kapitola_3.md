@@ -56,7 +56,7 @@ postavu v románe alebo nadpis v odbornom článku, čo stroj, bez ďalšej
 informácie, nemôže vedieť. Absencia sémantického značenia veľmi sťažuje
 extrakciu, analýzu alebo opakované spracovanie textu pomocou výpočtovej techniky.
 Aj keď je vizuálne formátovanie konzistentné, základná štruktúra súboru je
-zvyčajne neprehľadná, keďže je uložená ako zazipovaná zbierka binárnych súborov,
+zvyčajne neprehľadná, keďže je uložená ako zbierka binárnych súborov,
 ktoré je ťažké analyzovať bez špecializovaných nástrojov.
 
 Okrem toho sú súbory textových procesorov často nekonzistentné a
@@ -118,7 +118,7 @@ nižšie.], ktorá má vopred definovaný význam.^[V tomto kontexte
 by mohlo ísť o význam "tvorca textu, ktorého je označený reťazec časťou".] Týmto sa
 stane rola daného reťazca v dokumente explicitná a jednoznačná.
 
-Táto jasnosť sa zreteľnejšie ukáže pri komplexnejších príkladoch. Historický
+Zreteľnejšie to možno vidieť pri komplexnejších príkladoch. Historický
 dokument môže obsahovať vrstvené úrovne citácií, redakčných a autorských
 poznámok, odkazov alebo marginálií - každý z týchto prvkov možno presne
 reprezentovať označením pomocou prostriedkov XML. Vďaka tomu tak výskumníci môžu
@@ -151,7 +151,7 @@ transformácie JSON a obyčajného textu bola pridaná v neskorších aktualizá
 špecifikácie XSLT 1.0.[@xslt2025]] alebo iných transformačných
 "potrubí"^[Postupnosť automatizovaných krokov alebo procesov, ktoré konvertujú
 údaje z jedného formátu alebo štruktúry do iného.], vďaka čomu môže jeden súbor
-slúžiť ako zdroj pre generovania množstva rôznych výstupov bez vynakladania
+slúžiť ako zdroj pre generovanie množstva rôznych výstupov bez vynakladania
 duplicitnej práce.
 
 Okrem toho, keďže sa XML sa riadi striktnými pravidlami a súbory v tomto
@@ -213,7 +213,7 @@ schéme TEI sa venujeme nižšie.] pre
 komunitu vedcov, editorov a vývojárov, ktorí aktívne podporujú jeho prijatie.
 
 Prijatím XML a TEI sa výskumníci zapájajú do ekosystému, ktorý si cení
-transparentnosť, udržateľnosť a vedeckú prísnosť. Toto zosúladenie so spoločnými
+transparentnosť, udržateľnosť a vedeckú dôslednosť. Toto zosúladenie so spoločnými
 štandardmi zvyšuje hodnotu, udržateľnosť a prístupnosť vlastnej práce, čo uľahčuje jej
 zdieľanie, uchovávanie a a ďalšie rozširovanie.
 
@@ -264,8 +264,7 @@ formách:
 <element />
 ```
 
-Názvy značiek, ktoré utvárajú elementy, podliehajú pritom nasledujúcim
-obmedzeniam:
+Mená značiek, ktoré tvoria elementy, podliehajú nasledujúcim obmedzeniam:
 
 - V názvoch sa rozlišujú veľké a malé písmená^[To znamená, že ```<Title>```,
   ```<title>``` alebo ```<TITLE>``` predstavujú odlišné značky]
@@ -291,8 +290,7 @@ Hana Gregorová je slovenskou autorkou, takto:
 ```
 V princípe je možné všetky informácie reprezentovateľné prostredníctvom
 atribútov kódovať aj prostredníctvom vnorenia elementov, a naopak. Vyššie
-uvedený element môžeme, napríklad, preformulovať nasledujúcim spôsobom bez
-akejkoľvek informačnej straty:
+uvedený element môžeme preformulovať nasledujúcim spôsobom bez akejkoľvek informačnej straty:
 ```XML
 <author>
     <gender>F</gender>
@@ -303,8 +301,8 @@ akejkoľvek informačnej straty:
 Atribúty však ponúkajú špecifické výhody v prípadoch, kedy by štrukturálne
 vnorenie bolo neefektívne alebo sémanticky nevhodné. V prvom rade
 umožňujú oddeliť dáta od metadát, kde obsah elementov predstavuje samotné dáta
-a prostredníctvom atribútov reprezentujeme informácie *o** dátach. Ak by sme
-chceli napríklad v nejakom literárnom texte zaznamenať, že nejaká postava
+a prostredníctvom atribútov reprezentujeme informácie *o* dátach. Ak by sme
+chceli napríklad v literárnom texte zaznamenať, že nejaká postava
 predstavuje protagonistu príbehu, bolo by nevhodné tieto
 informácie kódovať prostredníctvom samostatných elementov^[Napríklad ako
 ```<role>protagonist</role>```.], keďže by sme tým znemožnili odlíšenie
@@ -318,13 +316,13 @@ použili samostatný element ```<role>``` pre vyjadrenie toho istého.
 Napokon je použitie atribútov optimálnejšie pre niektoré výpočtové úlohy, ako
 je filtrovanie (napr. vyhľadávanie všetkých elementov ```<character>``` s
 atribútom ```role="protagonist"```) alebo validácia dokumentov voči XML
-schémam.^[Validácii sa venujme nižšie.]
+schémam.^[Validácii sa venujeme nižšie.]
 
 ###### Text
-sa vzťahuje na neštruktúrované dáta, ktoré sú obsiahnuté v
-elementoch. Je to sémantické jadro dokumnetu - slová, vety a odseky, ktoré nesú
-význam. Pre digitálnych humanistov ide často o pôvodné literárne texty, prepisy,
-redakčné poznámky, atď., na ktoré s určitým výskumným zámerom aplikujú vopred
+v XML dokumentoch prestavuje neštruktúrované dáta, ktoré sú obsiahnuté v
+elementoch. V kontexte digitálnych humanitných vied je to typicky sémantické jadro dokumnetu - slová, vety a odseky, ktoré nesú
+význam. Ide často o pôvodné literárne texty, prepisy,
+redakčné poznámky, atď., na ktoré s určitým výskumným zámerom uplatňuje vopred
 definovaný model implementovaný v XML formáte.
 
 Ak si základnú štruktúru XML dokumentu predstavíme ako strom, tak textové údaje
@@ -370,7 +368,7 @@ Tento text, spolu s jeho metadátami, môžeme reprezentovať v XML nasledujúci
 </book>
 ```
 
-Vizualizáciu štruktúry tohto dokumentu potom zachytáva [@fig:tree]
+Vizualizáciu štruktúry tohto dokumentu potom zachytáva  [@fig:tree]
 
 ![Vizualizácia stromovej štruktúry XML dokumentu (prvky zvýraznené zelenou
 predstavujú listy stromu)](images/xml_tree.png){#fig:tree}
@@ -412,10 +410,9 @@ obsah dokumentu.
 ###### CDATA (*Character Data*)
 predstavujú bloky textu, ktoré parsery neinterpretujú ako XML kód. Znaky ako
 '<', '>' sa v týchto sekciách teda považujú za bežné znaky, nie
-ako začiatok alebo koniec značiek. Užitočné je to, napríklad, keď by sa v
+ako začiatok alebo koniec značiek. Užitočné je to v situáciách, keď by sa v
 analyzovanom texte nachádzali sekvencie, ktoré by parser štandardne
-indentifikoval ako indikácie XML prvkov, pričom by sme potrebovali, aby parser
-tieto pasáže ponechal neinterpretované. Zabezpečíme to tak, že ich
+indentifikoval ako indikácie XML prvkov, čomu chceme zabrániť. Zabezpečíme to tak, že ich
 ohraničíme na začiatku značkou "<!CDATA[" a na konci "]]>". Čokoľvek takto
 ohraničené sa považuje za "surový" text. Ak by sme teda chceli zakódovať úvodnú
 pasáž z predchádzajúcej sekcie ("Pokyny na spracovanie") do XML, museli by sme
@@ -454,7 +451,7 @@ sa však ako *URI* používa adresa stránok, na ktorých sa nachádzajú inform
 danom mennom priestore, resp. o schéme, ktorá s ním je asociovaná.] V dokumente
 by použitie dvoch variant ```<title>``` mohlo vyzerať
 nasledovne:^[```<a:title>``` tu predstavuje "knižný titul" a ```<b:title>```
-"nadpis".]
+"nadpis kapitoly".]
 
 ```XML
 <a:title xmlns:a="https://xml.namespaces.org/a"
@@ -471,13 +468,12 @@ nasledovne:^[```<a:title>``` tu predstavuje "knižný titul" a ```<b:title>```
 </a:title>
 ```
 
-##### Modelovanie obsahu prostredníctvom XML
-Ako sme už uviedli, základom XML je stromový model, hierarchická štruktúra, v
-ktorej každý element (alebo „uzol“) môže obsahovať podriadené prvky, ktoré
-tvoria vnorené vrstvy. Táto štruktúra nie je ľubovoľná, ale odráža spôsob, akým
-organizujeme a premýšľame o informáciách. To nám umožňuje reprezentovať rôzne
-konceptuálne vzťahy odrážajúce logickú, textovú a sémantickú organizáciu
-modelovaného obsahu.
+##### Sémantická expresivita XML
+Ako sme videli, fundamentálnou dátovou štruktúrou akéhokoľvek XML dokumentu
+je strom, hierarchická štruktúra, v ktorej každý element (alebo „uzol“) môže
+obsahovať podriadené prvky, ktoré tvoria vnorené vrstvy. To nám umožňuje
+reprezentovať rôzne konceptuálne vzťahy odrážajúce logickú, textovú a sémantickú
+organizáciu analyzovaného obsahu.
 
 ###### Vzťah časti a celku
 
@@ -513,30 +509,27 @@ entity sú inštanciami nejakej kategórie. Vezmime si napríklad nasledujúci z
 postáv nejakého románu:
 ```XML
 <characters>
-  <character role="protagonist">Anna</character>
-  <character role="antagonist">Juraj</character>
-  <character role="supporting">Mária</character>
+  <protagonist>Anna</protagonist>
+  <antagonist>Juraj</antagonist>
+  <support>Mária</support>
 </characters>
 ```
-Každá postava (reprezentovaná značkou ```<character>```) je typ osoby
-vystupujúcej v príbehu. Nadradený prvok ```<characters>``` definuje kategóriu a
-deti sú jej členmi. Prostredníctvom XML atribútu "role" môžeme ďalej
-klasifikovať jednotlivé postavy protagonistku, antagonistu alebo podpornú
-postavu.
+Každá postava (reprezentovaná značkami ```<protagonist>```, ```<antagonist>``` alebo ```<support>```  ) je typ osoby
+vystupujúcej v príbehu. Nadradený prvok ```<characters>``` definuje kategóriu, ktorej sú vnorené elementy inštanciami.
 
 ###### Časové a sekvenčné vzťahy
 
 Hoci sú stromy XML prirodzene hierarchické, poradie súrodeneckých prvkov môže
-predstavovať časovú alebo logickú postupnosť. Pre ilustráciu si vezmime
+predstavovať aj časovú alebo logickú postupnosť. Pre ilustráciu si vezmime
 nasledujúcu posutpnosť záznamov v denníku:
 ```XML
 <diary>
   <entry date="1939-09-01">Začala vojna.</entry>
-  <entry date="1939-09-02">Dnes som počul správy o invázii...</entry>
+  <entry date="1939-09-20">Dnes som dostal povolávací rozkaz...</entry>
 </diary>
 ```
 Prvky ```<entry>``` tu nie sú len časťami ```<diary>```; ich poradie môže
-odrážať jednak poradie denníkových záznamov, ako aj plynutie času a vývok
+odrážať jednak poradie denníkových záznamov, ako aj plynutie času a vývoj
 udalostí.
 
 ###### Deskriptívne vzťahy (atribúcia a anotácia)
@@ -557,10 +550,10 @@ prvkom.
 ###### Referenčné vzťahy
 
 Pro kódovaní je niekedy potrebné zaznamenať prepojenie prvkov, ktoré spolu
-logicky súvisia, ale nie sú  štrukturálne vnorené - napríklad prepojonie
-poznámky pod čiarou s úryvkom, ktorého sa týka. XML stromy sú síce vo svojej
-podstate hierarchické, ale toto obmedzenie obísť pomocou odkazov
-implementovaných prostredníctvom XML atribútov.
+logicky súvisia, ale nie sú  štrukturálne vnorené, ako napríklad prepojenie
+poznámky pod čiarou s úryvkom, ktorého sa týka. Štruktúra XML dokumentov je síce
+vo svojej podstate hierarchická, ale toto obmedzenie je možné obísť pomocou
+odkazov implementovaných prostredníctvom XML atribútov.
 
 V nasledujúcom príklade vidíme, že ```<note>``` síce nie je potomkom
 ```<paragraph>```, ale odkazuje naň pomocou atribútu "target", ktorého hodnota
@@ -634,11 +627,11 @@ ktoré určujú, aké kombinácie týchto zložiek utvárajú dokument, ktorý z
 XML štandardu.[@extensible2025] Tieto pravidlá spadajú pod dve súvisiacie, ale odlišné
 kategórie: správna forma a validita.
 
-Tieto pravidlá zabezpečujú, aby mohol byť dokument správne spracovaný
-softwérom, ale fungujú na rôznych úrovniach. Mať správnu formu je minimálna
-požiadavka kladená na každý XML dokument; validita je striktnejšia obmedzenie,
-ktoré vyžaduje štrukturálnu konzistenciu dokumentu vzhľadom na určitý formálny
-model.
+Obe kategóre zastrešujú požiadavky, ktorých splnenie je podmienkou toho, aby
+mohol byť dokument správne spracovný softwérom, ale operujú na rôznych
+úrovniach. Mať správnu formu je minimálna požiadavka kladená na každý XML
+dokument; validita je striktnejšia obmedzenie, ktoré vyžaduje štrukturálnu
+konzistenciu dokumentu vzhľadom na určitý formálny model.
 
 *Správne utvorený (well-formed)* XML dokument
 je taký dokument, v ktorom sú všetky stavebné prvky použité
@@ -673,18 +666,19 @@ Tento dokument je správne utvorený, pretože:
 Príklad nesprávne utvoreného dokumentu:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
+<author gender=M>Martin Kukučín
 <book>
   <title>Dom v stráni<title>
-  <author gender=M>Martin Kukučín
-  <year>1903
+  <year>1903</Year>
 </book>
 ```
 Tento dokument nie je správne utvorený, pretože:
 
+- Nemá jeden a len jeden koreňový element
 - Element ```<title>``` nie je správne uzavretý (je otvorený značkou
   ```<title>```, ale namiesto ```</title>``` je nesprávne uzavretý opäť pomocou
   ```<title>```)
-- Element <author> nie je uzavretý.
+- Element ```<author>``` nie je uzavretý.
 - Hodnota atribútu ```gender``` nie je v úodzovkách
 - Koncová značka elementu ```<year>``` nekorešpodnuje so začiatočnou značkou
   (keďže v XML sa rozlišuje medzi veľkými a malými písmenami)
@@ -695,16 +689,17 @@ zodpovedá formálnej gramatike alebo modelu definovanému prostredníctvom DTD
 oboznámenie sa s týmito spôsobmi, ako definovať XML model, pozri
 [@derose_sgml_1997]] Tento model, bežne označovaný ako XML schéma, opisuje, aké
 elementy a atribúty sú povolené, v akom poradí a koľkokrát sa môžu vyskytovať,
-aké typy hodnôt môžu obsahovať, atď. 
+aké typy hodnôt môžu obsahovať, atď.
 
-Validácia je v podstate zmluva medzi dokumentom a deklarovaným modelom. Zatiaľ
+Validácia je v podstate záväzok medzi dokumentom a deklarovaným modelom. Zatiaľ
 čo požiadavka dobrej utvorenosti (well-formedness) dokumentu zabezbečuje, že je
 štruktúrovaný ako strom, jeho validita garantuje, že je tento 
-strom správnym druhom stromu pre danú aplikáciu alebo vedeckú oblasť (vymedzenú
-XML schémou). Všetky validné dokumenty teda musia byť dobre utvorené, ale nie
+strom správnym druhom stromu pre danú aplikáciu alebo oblasť formálne vymedzenú
+XML schémou. Všetky validné dokumenty teda musia byť dobre utvorené, ale nie
 všetky dobre utvorené dokumenty sú validné.
 
 Pre ilustráciu validácie XML dokumentu si vezmime nasledujúcu DTD schému:
+
 ```XML
 <!DOCTYPE book [
   <!ELEMENT book (title, author)>
@@ -719,8 +714,8 @@ Toto môžeme vyjdariť v bežnej reči v podobe nasledujúcich požiadaviek:
 - elementy ```<title>``` a ```<author>``` musia obsahovať len text (PCDATA,
   resp. "parsed character data")
 
-To znamená, napríklad, že nasledujúci XML dokument je validný vzhľadom na vyššie
-uvedenú schému:
+Nasledujúci XML dokument je teda validný vzhľadom na uvedenú schému:
+
 ```XML
 <?xml version="1.0" encoding="UTF-8"?>
 <book>
@@ -738,9 +733,9 @@ Zatiaľ čo tento voči nej nie je validný (aj keď je dobre utvorený):
 ```
 Praktické výhody validácie XML sú obzvlášť významné pri kolaboratívnych a
 dlhodobých digitálnych projektoch. Vďaka tomu, že validácia zabezpečuje súlad
-všetkých dokumentov so spoločnou schémou, podporuje konzistentnosť medzi
+ dokumentov so spoločnou schémou, podporuje konzistentnosť medzi
 prispievateľmi a zabraňuje štrukturálnym chybám, ktoré by inak mohli zostať
-nepovšimnuté. Umožňuje automatizované pracovné postupy - napríklad transformáciu
+nepovšimnuté. Validácia ďalej umožňuje automatizovať pracovné postupy - napríklad transformáciu
 pomocou XSLT, publikovanie prostredníctvom platforiem ako TEI Publisher alebo
 integráciu do vyhľadávacích systémov - tým, že zaručuje predvídateľnú štruktúru
 a konzistentné používanie XML elementov. Validácia tiež uľahčuje
@@ -749,21 +744,39 @@ medzi inštitúciami alebo projektmi. Validácia v podstate funguje ako mechaniz
 kontroly kvality, ktorý podporuje efektívnosť, spoľahlivosť a dlhodobú
 udržateľnosť postupov využívajúcich XML formát.
 
+V tejto časti sme predstavili základné črty XML formátu a validačných
+schém, ale nevenovali sme sa praktickým detailom toho, ako v skutočnosti
+prebieha proces validácie XML dokumentu. Pri tomto procese sa totiž
+musíme vysporiadať ešte napríklad aj s nasledujúcimi problémami:@teiconsortium_tei_2025
+
+- ako procesor identifikuje validačnú schému (alebo schémy), ktorej alebo ktorým
+  by mal určitý dokument zodpovedať?
+- XML dokument môže byť uložený v množstve rôznych súborov operačného systému; ako
+  by mal byť výsledný dokument z týchto častí vyskladaný?
+- ako procesor interpretuje procedurálne inštrukcie, ktoré sa v dokumente
+  nachádzajú?
+
+Rôzne jazyky schém ako aj rôzne systémy na spracovanie XML môžu
+pristupovať veľmi odlišne k riešeniu týchto a ďalších praktických problémov,
+keďže tieto nie sú súčasťou samotnej XML špecifikácie.^[Pozri
+@teiconsortium_tei_2025 pre obecnejší náčrt riešení týchto problémov. Pre
+detailnejší a technickejší pohľad pozri @noauthor_relaxng_2025]
+
 ### TEI (Text Encoding Initiative)
 
 Iniciatíva pre kódovanie textu (Text Encoding Initiative, TEI) je v digitálnych
 humanitných vedách široko prijatý štandard na reprezentáciu textov v digitálnej
 forme pomocou XML. Základom tohto štandardu je schéma TEI XML, komplexný a
-prispôsobiteľný model, ktorý definuje sémantického kódovania
-textových javov - od bibliografických metadát až po komplexné varianty
-rukopisov. Namiesto pevne stanoveného súboru značiek poskytuje schéma TEI
-flexibilný rámec prispôsobiteľný potrebám literárneho, jazykového, historického
-a kultúrneho výskumu.
+prispôsobiteľný model, ktorý definuje sémantického kódovania textových javov -
+od bibliografických metadát, cez rôzne štrukturálne aspekty literárnej
+produkcie, až po komplexné varianty rukopisov. Namiesto pevne stanoveného súboru
+značiek poskytuje schéma TEI flexibilný rámec prispôsobiteľný potrebám
+literárneho, jazykového, historického a kultúrneho výskumu.
 
 Schéma TEI je formálne definovaná prostredníctvom už vyššie spomínaných jazykov
 RELAX NG, DTD alebo W3C XML Schema, čo umožňuje validáciu dokumentov voči
 modelom kompatibilných s TEI. Pravidlá tejto schémy opisujú nielen to, ktoré XML
-elmenty sa môžu v dokumentoch používať (napr. <div>, <p>, <persName>, <date>
+elmenty sa môžu v dokumentoch používať (napr. ```<div>```, ```<p>```, ```<persName>```, ```<date>```
 atď.), ale aj to, ako môžu byť vnorené, aké atribúty môžu obsahovať a v akom
 poradí sa môžu vyskytovať.
 
@@ -771,10 +784,10 @@ TEI sa vyznačuje schopnosťou reprezentovať komplexné redakčné a interpreta
 informácie, ako sú textové varianty, anotácie, štrukturálne hierarchie a
 sémantické prvky. Napríklad vydanie slovenského románu zakódované v TEI môže
 obsahovať nielen štruktúru kapitol a odsekov, ale aj označenie mien historických
-postáv (<persName>), miest (<placeName>), dátumov (<date>) a edičných poznámok
-(<note>).
+postáv (```<persName>```), miest (```<placeName>```), dátumov (```<date>```) a edičných poznámok
+(```<note>```).
 
-Schéma TEI je vďaka svojmu dizajnu veľmi dobre modifikovateľná, čo umožňuje
+TEI je vďaka svojmu dizajnu veľmi dobre modifikovateľná, čo umožňuje
 používateľom prispôsobiť ju špecifickým potrebám ich projektov. Táto
 modifikovateľnosť sa dosahuje predovšetkým prostredníctvom mechanizmu, ktorý
 využíva špecifikáciu ODD (One Document Does it all) na definovanie toho, ktoré
