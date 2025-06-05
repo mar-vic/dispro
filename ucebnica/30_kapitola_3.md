@@ -769,16 +769,14 @@ humanitných vedách široko prijatý štandard na reprezentáciu textov v digit
 forme pomocou XML. Základom tohto štandardu je schéma TEI XML, komplexný a
 prispôsobiteľný model, ktorý definuje sémantického kódovania textových javov -
 od bibliografických metadát, cez rôzne štrukturálne aspekty literárnej
-produkcie, až po komplexné varianty rukopisov. Namiesto pevne stanoveného súboru
-značiek poskytuje schéma TEI flexibilný rámec prispôsobiteľný potrebám
-literárneho, jazykového, historického a kultúrneho výskumu.
+produkcie, až po komplexné varianty rukopisov.
 
-Schéma TEI je formálne definovaná prostredníctvom už vyššie spomínaných jazykov
+Formálne je TEI definovaná prostredníctvom už vyššie spomínaných jazykov
 RELAX NG, DTD alebo W3C XML Schema, čo umožňuje validáciu dokumentov voči
 modelom kompatibilných s TEI. Pravidlá tejto schémy opisujú nielen to, ktoré XML
-elmenty sa môžu v dokumentoch používať (napr. ```<div>```, ```<p>```, ```<persName>```, ```<date>```
-atď.), ale aj to, ako môžu byť vnorené, aké atribúty môžu obsahovať a v akom
-poradí sa môžu vyskytovať.
+elmenty sa môžu v dokumentoch používať (napr. ```<div>```, ```<p>```,
+```<persName>```, ```<date>``` atď.), ale aj to, ako môžu byť vnorené, aké
+atribúty môžu obsahovať a v akom poradí sa môžu vyskytovať.
 
 TEI sa vyznačuje schopnosťou reprezentovať komplexné redakčné a interpretačné
 informácie, ako sú textové varianty, anotácie, štrukturálne hierarchie a
@@ -787,30 +785,156 @@ obsahovať nielen štruktúru kapitol a odsekov, ale aj označenie mien historic
 postáv (```<persName>```), miest (```<placeName>```), dátumov (```<date>```) a edičných poznámok
 (```<note>```).
 
-TEI je vďaka svojmu dizajnu veľmi dobre modifikovateľná, čo umožňuje
-používateľom prispôsobiť ju špecifickým potrebám ich projektov. Táto
-modifikovateľnosť sa dosahuje predovšetkým prostredníctvom mechanizmu, ktorý
-využíva špecifikáciu ODD (One Document Does it all) na definovanie toho, ktoré
-prvky, atribúty a moduly sa do upravenej schémy zahrnú, vylúčia alebo zmenia.
-Používatelia môžu pridávať nové elementy, meniť modely obsahu alebo obmedzovať
-používanie určitých značiek, a to všetko pri zachovaní kompatibility s
-validačnými nástrojmi a dokumentačnými systémami.
+Schéma TEI však nie je len súborom XML elementov, ale predstavuje flexibilný
+rámec prispôsobiteľný špecifickým potrebám daného výskumného projektu. To sa
+dosahuje predovšetkým prostredníctvom mechanizmu, ktorý využíva špecifikáciu ODD
+(One Document Does it all) na definovanie toho, ktoré prvky, atribúty a moduly
+sa do upravenej schémy zahrnú, vylúčia alebo zmenia. Používatelia môžu pridávať
+nové elementy, meniť modely obsahu alebo obmedzovať používanie určitých značiek,
+a to všetko pri zachovaní kompatibility s validačnými nástrojmi a dokumentačnými
+systémami.^[Pre bližšie oboznámenie sa s tým, ako funguje systém modifikácie TEI
+schémy, pozri @noauthor_getting-started-odd_2025.]
 
 #### TEI Moduly: Funkčné stavebné prvky schémy
 
-Usmernenia TEI organizujú XML elementy do samostatných, tematicky zoskupených
-modulov, ktoré odrážajú bežné redakčné a vedecké postupy. Každý modul sa
-zameriava na konkrétny aspekt textovej reprezentácie, od základnej štruktúry
-dokumentu až po komplexnú jazykovú anotáciu. Pri vytváraní prispôsobenia TEI sa
-zvyčajne vyberajú moduly, ktoré zodpovedajú potrebám daného projektu, čím sa
-zabráni zbytočnej zložitosti a zároveň sa zachová validita.
+Špecifikácia TEI, nachádzajúca sa v @teiconsortium_tei_2025 obsahuje definície
+niekoľkých stoviek elementov a atribútov. Každá definícia pritom pozostáva z v
+bežnom jayzku vyjadreného opisu definovanej entity, jej formálnej deklarácie
+vyjadrenej prostredníctvom kombinácie špecializovaného XML slovníka a prvkov
+pochádzajúcich z jazyka schémy RELAX NG a praktických príkladov jej daného
+elementu alebo atribútu.
+
+V @teiconsortium_tei_2025 sú XML elementy organizované do samostatných,
+tematicky zoskupených modulov, ktoré odrážajú bežné redakčné a vedecké postupy.
+Každý modul sa zameriava na konkrétny aspekt textovej reprezentácie, od
+základnej štruktúry dokumentu až po komplexnú jazykovú anotáciu. Bežnou praxou
+je používanie modifikovanej schémy^[Prostredníctvom už vyššie spomínaného
+systému ODD.], ktorá obsahuje vybrané moduly zodpovedajúce špecifickým potrebám
+daného projektu, čím sa zabráni zbytočnej zložitosti so zachovaním všetkých
+výhod plynúcich z validácie voči robustnému modelu TEI. V nasledujúcom texte
+stručne jednotlivé moduly predstavujeme.
+
+Modul ```tei``` poskytuje štrukturálny rámec najvyššej úrovne pre každý dokument
+kódovaný v TEI. Definuje základné prvky, ktoré sú potrebné na vytvorenie súboru
+v súlade so schémou, a funguje ako obal pre metadáta (hlavička TEI) aj textový obsah.
+Tento modul v podstate ukotvuje dve hlavné zložky dokumentu: opisné metadáta
+a kódovaný text.
+
+| **Element**       | **Popis**                                                                           |
+|-------------------|-------------------------------------------------------------------------------------|
+| ```<TEI>```       | koreňový element každého TEI dokumentu                                              |
+| ```<teiHeader>``` | obsahuje metdáta dokumentu, ako napríklad bibliografické údaje alebo záznam revízii |
+| ```<text>```      | Obsahuje štruktúrovaný textový obsah (telo, predná strana, zadná strana atď.).      |
+
+: Kľúčové elementy modulu ```tei``` {#tbl:teimod-elements_tbl}
+
+Minimálny dokument využívajúci prvky z tohto modulu vyzerá takto:
+```XML
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <!-- metadáta o texte -->
+  </teiHeader>
+  <text>
+    <!-- obsah reprezentovaného textu -->
+  </text>
+</TEI>
+```
+Modul ```header``` poskytuje prostriedky pre zaznamenávanie štruktúrovaných
+metadát dokumentov. Všetky tieto informácie sa uvádzajú pod elementom ```<teiHeader>```,
+ktorý musí byť prítomný v každom validnom TEI dokumente.
+
+| **Element**          | **Popis**                                                                      |
+|----------------------|--------------------------------------------------------------------------------|
+| ```<fileDesc>```     | reprezentuje bibliografické a publikačné informácie                            |
+| ```<encodingDesc>``` | Podrobnosti o spôsobe kódovania textu vrátane redakčných a kódovacích zásad    |
+| ```<profileDesc>```  | Poskytuje kontextuálne a deskriptívne informácie o obsahu.                     |
+| ```<revisionDesc>``` | Záznam zmien vykonaných v súbore v priebehu času |
+
+: Kľúčové elementy modulu ```header``` {#tbl:headermod-elements_tbl}
+
+Ilustráciu Použitia elementov z tohto modulu ilustruje tento fragment XML
+dokumentu:
+```XML
+ <tei:teiHeader>
+  <tei:fileDesc>
+   <tei:titleStmt>
+    <tei:title>
+     Adam Šangala
+    </tei:title>
+    <tei:author ref="viaf:45478401">
+     Nádaši-Jégé, Ladislav (1866 - 1940)
+    </tei:author>
+   </tei:titleStmt>
+   <tei:publicationStmt>
+    <tei:p/>
+   </tei:publicationStmt>
+   <tei:sourceDesc>
+    <tei:bibl type="printSource">
+     <tei:author>
+      Nádaši-Jégé, Ladislav
+     </tei:author>
+     <tei:title>
+      Adam Šangala
+     </tei:title>
+     <tei:pubPlace>
+      Bratislava
+     </tei:pubPlace>
+     <tei:publisher>
+      Tatran
+     </tei:publisher>
+     <tei:date>
+      1970
+     </tei:date>
+    </tei:bibl>
+  </tei:fileDesc>
+ </tei:teiHeader>
+```
+
+Modul ```core``` obsahuje súbor elementov, ktoré sa používajú v takmer
+všetkých TEI dokumentoch. Ide o všeobecné, opakovane použiteľné a sémanticky
+neutrálne elementy, takže sú vhodné na kódovanie širokej škály textových javov.
+Vďaka ich flexibilite a všadeprítomnosti je ```core``` modul základom mnohých
+ďalších špecializovaných modulov.
+
+Tento modul je automaticky zahrnutý do každého prispôsobenia TEI, pokiaľ nie je
+explicitne vylúčený, a jeho prvky sú k dispozícii v metadátach (v ```<teiHeader>```) aj v
+textovom obsahu (v ```<text>```).
+
+
+| **Element**                 | **Popis**                                                                                       |
+|-----------------------------|-------------------------------------------------------------------------------------------------|
+| ```<p>```                   | Odsek - používa sa na označenie blokov prózy                                                    |
+| ```<ab>```                  | Anonymný blok - generický kontajner bez zreteľnej štruktúry                                        |
+| ```<div>```                 | Rozdelenie - pre kapitoly, sekcie atď                                                           |
+| ```<head>```                | Nadpis alebo názov časti alebo bloku                                                            |
+| ```<head>```                | Nadpis alebo názov časti alebo bloku                                                            |
+| ```<hi>```                  | Zvýraznený text                                                                                 |
+| ```<note>```                | Poznámky pod čiarou, poznámky na konci knihy, marginálie alebo edičné poznámky.                 |
+| ```<ref>```                 | Generický odkaz (môže byť interný alebo externý)                                                |
+| ```<list>``` / ```<item>``` | Zoznam / položka zoznamu                                                                        |
+| ```<quote>```               | Citovaný materiál - priama alebo nepriama citácia.                                              |
+| ```<seg>```                 | Generický segment text pre anotácie v riadku.                                                   |
+| ```<lb>``` / ```<pb>```     | Zalomenie riadku / zalomenie strany - na znázornenie rozloženia textu alebo pôvodnej štruktúry. |
+
+: Kľúčové elementy modulu ```core``` {#tbl:coremod-elements_tbl}
+
+Príklad použitia elementov z modulu ```core```:
+```XML
+<div type="chapter" xml:id="ch1">
+  <head>Začiatok príbehu</head>
+  <p><hi rend="italic">Bol raz</hi> jeden mlynár, <note>This phrase is a common folktale opening.</note> ktorý býval pod horou.</p>
+  <list>
+    <item>Mlynár</item>
+    <item>Jeho žena</item>
+    <item>Ich syn</item>
+  </list>
+</div>
+```
 
 ### HTML
-
 ### CSS
-
 ### TEI Publisher
-
 ### Linux
 
 Dôležitou, ale často opomínanou zložkou pracovného postupu tvorby korpusu, bolo
@@ -927,4 +1051,4 @@ on standards-based technologies like XSLT and REST APIs also allowed for future
 integration with visualization tools or external datasets. This section
 discusses the implementation of TEI Publisher in the context of the corpus,
 detailing how its configuration and extensions were used to bridge the gap
-between encoded data and accessible digital editions.
+    between encoded data and accessible digital editions.
